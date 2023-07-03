@@ -7,7 +7,7 @@ import telegram
 import os
 
 # Initialize Telegram bot
-bot = os.environ['TELEGRAM_BOT_TOKEN'])
+bot = os.environ['TELEGRAM_BOT_TOKEN']
 chat_id = os.environ['TELEGRAM_CHANNEL_ID']
 high_events = ""
 
