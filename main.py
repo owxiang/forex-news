@@ -7,7 +7,7 @@ import telegram
 import os
 
 # Initialize Telegram bot
-bot = telegram.Bot(token=os.environ['TELEGRAM_BOT_TOKEN'])
+bot = os.environ['TELEGRAM_BOT_TOKEN'])
 chat_id = os.environ['TELEGRAM_CHANNEL_ID']
 high_events = ""
 
@@ -50,7 +50,11 @@ for event_row in event_rows:
         if "High Volatility Expected" in sentiment:
             high_events += f"Time: {time} | Currency: {currency} | Importance: {sentiment} | Event: {event}\n"
             
-await bot.send_message(chat_id=chat_id, text=high_events)
+requests.get(
+    f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
+    + f"{high_events}"
+    + "&parse_mode=markdown&disable_web_page_preview=True"
+)
 print(high_events)
 # Close the WebDriver
 driver.quit()
