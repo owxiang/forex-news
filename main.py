@@ -10,6 +10,7 @@ import os
 bot = os.environ['TELEGRAM_BOT_TOKEN']
 chat_id = os.environ['TELEGRAM_CHANNEL_ID']
 high_events = ""
+all_events = ""
 
 # Path to the ChromeDriver executable
 chromedriver_path = '/path/to/chromedriver'
@@ -48,15 +49,25 @@ for event_row in event_rows:
         event = cells[3].text.strip()
 
         if "High Volatility Expected" in sentiment:
-            high_events += f"Time: {time}\n Currency: {currency}\n Importance: {sentiment}\n Event: {event}\n\n"
+            high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
+        all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n\n"
 
-message = f"Daily Forex News Alert (GMT +8)\n\n {high_events}"
+high_events_message = f"Daily Forex News Alert (GMT +8)\n\n "High Impact"\n\n {high_events}"
+all_events_message = f"Daily Forex News Alert (GMT +8)\n\n {all_events}"
+
 requests.get(
     f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
-    + f"{message}"
+    + f"{all_events_message}"
     + "&parse_mode=markdown&disable_web_page_preview=True"
 )
-print(high_events)
+
+requests.get(
+    f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
+    + f"{high_events_message}"
+    + "&parse_mode=markdown&disable_web_page_preview=True"
+)
+
+# print(all_events)
 # Close the WebDriver
 driver.quit()
 
