@@ -1,1 +1,1 @@
-# forex-news
+# My daily forex news fix
