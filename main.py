@@ -50,13 +50,13 @@ for event_row in event_rows:
         event = cells[3].text.strip()
 
         if "High Volatility Expected" in sentiment:
-            high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
+            high_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
         elif "Moderate Volatility Expected" in sentiment:
-            moderate_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
+            moderate_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
         elif "Low Volatility Expected" in sentiment:
-            low_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
+            low_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
         else:
-            other_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
+            other_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
             
         # all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n\n"
 
