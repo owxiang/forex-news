@@ -52,7 +52,7 @@ for event_row in event_rows:
             high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n\n"
 
-high_events_message = f"Daily Forex News Alert (GMT +8)\n\n "High Impact"\n\n {high_events}"
+high_events_message = f"Daily Forex News Alert - High Impact (GMT +8)\n\n {high_events}"
 all_events_message = f"Daily Forex News Alert (GMT +8)\n\n {all_events}"
 
 requests.get(
