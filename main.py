@@ -44,15 +44,15 @@ for event_row in event_rows:
     if len(cells) >= 4:
         time = cells[0].text.strip()
         currency = cells[1].text.strip()
-        sentiment = cells[2].get_attribute('title') or ''
+        sentiment = cells[2].get_attribute('title')
         event = cells[3].text.strip()
 
         if "High Volatility Expected" in sentiment:
             high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\n\n"
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n\n"
 
-high_events_message = f"Daily Forex News Alert - High Impact (GMT +8)\n\n {high_events}"
-all_events_message = f"Daily Forex News Alert (GMT +8)\n\n {all_events}"
+high_events_message = f"Daily Forex News Alert - High Impact (SGT)\n\n{high_events}"
+all_events_message = f"Daily Forex News Alert (SGT)\n\n{all_events}"
 
 requests.get(
     f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
