@@ -22,6 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium
           pip install python-telegram-bot
+          pip install requests
 
       - name: Run script
         run: |
