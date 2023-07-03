@@ -9,9 +9,7 @@ import os
 bot = os.environ['TELEGRAM_BOT_TOKEN']
 chat_id = os.environ['TELEGRAM_CHANNEL_ID']
 high_events = ""
-moderate_events = ""
-low_events = ""
-other_events = ""
+all_events = ""
 
 # Path to the ChromeDriver executable
 chromedriver_path = '/path/to/chromedriver'
@@ -50,25 +48,19 @@ for event_row in event_rows:
         event = cells[3].text.strip()
 
         if "High Volatility Expected" in sentiment:
-            high_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
-        elif "Moderate Volatility Expected" in sentiment:
-            moderate_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
-        elif "Low Volatility Expected" in sentiment:
-            low_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
-        else:
-            other_events += f"Time: {time} || Currency: {currency} || Event: {event}\n"
-            
-        # all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n\n"
+            high_events += f"Time: {time} | Currency: {currency} | Event: {event}\n"
+         
+        all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n"
 
-events_message = f"Daily Forex News Alert (SGT)\n\n**Low Impact**\n\n{low_events}\n\n**Moderate Impact**\n\n{moderate_events}\n\n**High Impact**\n\n{high_events}\n\n**Others**\n\n{other_events}"
+message = f"Daily Forex News Alert - High Impact (SGT)\n\n{high_events}"
 
 requests.get(
     f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
-    + f"{events_message}"
+    + f"{message}"
     + "&parse_mode=markdown&disable_web_page_preview=True"
 )
 
-# print(all_events)
+print(all_events)
 # Close the WebDriver
 driver.quit()
 
