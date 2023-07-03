@@ -1,1 +1,2 @@
-# My daily forex news fix
+# Daily Forex News Alert
+Web scraping
