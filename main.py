@@ -52,7 +52,7 @@ for event_row in event_rows:
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\n"
 
-message = f"Daily Forex News Alert - High Impact (SGT)\n\n{high_events}"
+message = f"Daily Forex News Alert - High Impact (SGT)\n\n[{high_events}](https://ec.forexprostools.com/?columns=exc_currency,exc_importance&importance=1,2,3&calType=day&timeZone=27&lang=1)"
 
 requests.get(
     f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
