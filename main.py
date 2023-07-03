@@ -11,6 +11,7 @@ chat_id = os.environ['TELEGRAM_CHANNEL_ID']
 high_events = ""
 moderate_events = ""
 low_events = ""
+other_events = ""
 
 # Path to the ChromeDriver executable
 chromedriver_path = '/path/to/chromedriver'
