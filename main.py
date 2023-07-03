@@ -42,7 +42,7 @@ event_rows = table.find_elements(By.TAG_NAME, 'tr')
 # Iterate over the event rows and print the event details
 for event_row in event_rows:
     cells = event_row.find_elements(By.TAG_NAME, 'td')
-    if len(cells) > 0:
+    if len(cells) >= 8:
         time = cells[0].text.strip()
         currency = cells[1].text.strip()
         sentiment = cells[2].get_attribute('title')
