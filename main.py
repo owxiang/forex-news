@@ -27,8 +27,6 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Load the webpage
 # timezone = 27 = GMT+8
-# url = 'https://ec.forexprostools.com/?columns=exc_currency,exc_importance&importance=1,2,3&calType=day&timeZone=27&lang=1'
-# url = 'https://ec.forexprostools.com/?calType=day&timeZone=27&lang=1'
 driver.get(url)
 
 # Wait for the table to load (adjust the wait time as needed)
@@ -53,11 +51,11 @@ for event_row in event_rows:
         previous = cells[6].text.strip()
 
         if "High Volatility Expected" in sentiment:
-            high_events += f"Time: {time} | Currency: {currency} | Event: {event} | Forecast: {forecast} | Previous: {previous}\n"
+            high_events += "Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
 
-message = f"Daily Forex News Alert - High Impact - SGT\n{high_events}\n\n[All news]({url})"
+message = f"Daily Forex News Alert - High Impact - SGT\n{high_events}\n[all news for today]({url})"
 
 requests.get(
     f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
