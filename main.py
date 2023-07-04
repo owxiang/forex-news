@@ -55,7 +55,8 @@ for event_row in event_rows:
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
 
-message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}[all news for today]({{url}})"
+#message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}[all news for today]({{url}})"
+message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events} <a href='{url}'>all news for today</a>"
 
 requests.get(
     f"https://api.telegram.org/{bot}/sendMessage?chat_id={chat_id}&text="
