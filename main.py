@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import requests
 import os
-from urllib.parse import quote
 
 # Initialize
 bot = os.environ['TELEGRAM_BOT_TOKEN']
@@ -56,10 +55,7 @@ for event_row in event_rows:
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
 
-testurl = url
-encoded_testurl = quote(testurl, safe='')
-
-message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}[See]({url})\n[Direct Link]({encoded_testurl})"
+message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
 
 telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
 params = {
