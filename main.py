@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import requests
 import os
-from urllib.parse import quote
+from urllib.parse import quote_plus
 
 # Initialize
 bot = os.environ['TELEGRAM_BOT_TOKEN']
@@ -56,9 +56,7 @@ for event_row in event_rows:
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
 
-encoded_url = quote(url, safe='')
-print(f"{url}")
-print(encoded_url)
+encoded_url = quote_plus(url)
 message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}[all news for today]({encoded_url})"
 
 
