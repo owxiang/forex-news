@@ -11,7 +11,7 @@ chat_id = os.environ['TELEGRAM_CHANNEL_ID']
 url = os.environ['URL']
 high_events = ""
 all_events = ""
-
+print(url)
 # Path to the ChromeDriver executable
 chromedriver_path = '/path/to/chromedriver'
 
@@ -54,7 +54,7 @@ for event_row in event_rows:
             high_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-
+print(url)
 message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}[all news for today]({url})"
 
 requests.get(
