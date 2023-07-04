@@ -55,7 +55,9 @@ for event_row in event_rows:
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
 
-testurl = 'https://ec.forexprostools.com/?calType=day&amp;timeZone=27&amp;lang=1'
+testurl = 'https://ec.forexprostools.com/?calType=day%26timeZone=27%26lang=1'
+print(testurl)
+
 message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}[See]({url})\n{testurl}"
 
 
