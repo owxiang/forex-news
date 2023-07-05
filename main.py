@@ -10,12 +10,14 @@ def scrape_forex_events():
     url = os.environ['URL']
     all_events = ""
     high_events = ""
+    table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
+    table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     
     # Create a string variable to hold the table
-    table_for_all_md = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
-    table_for_low_md = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
-    table_for_moderate_md = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
-    table_for_high_md = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+    table_for_all_md = table_header_for_all
+    table_for_low_md = table_header_for_the_rest
+    table_for_moderate_md = table_header_for_the_rest
+    table_for_high_md = table_header_for_the_rest
     
     # Path to the ChromeDriver executable
     chromedriver_path = '/path/to/chromedriver'
@@ -66,7 +68,7 @@ def scrape_forex_events():
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
         
-    write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md)
+    write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest)
 
     if not high_events:
         message = f"There is no high impact news today."
@@ -94,19 +96,19 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
     
-def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md):
+def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest):
     
     # Check no news
-    if table_for_all_md == "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
+    if table_for_all_md == table_header_for_all:
         table_for_all_md = f"There is no Forex news today."
         
-    if table_for_high_md == "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n":
+    if table_for_high_md == table_header_for_the_rest:
         table_for_high_md = f"There is no high impact news today."
         
-    if table_for_moderate_md == "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n":
+    if table_for_moderate_md == table_header_for_the_rest:
         table_for_moderate_md = f"There is no moderate impact news today."
         
-    if table_for_low_md == "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n":
+    if table_for_low_md == table_header_for_the_rest:
         table_for_low_md = f"There is no low impact news today."
         
     # Write the table content to a file
