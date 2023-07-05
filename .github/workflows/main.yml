@@ -33,12 +33,6 @@ jobs:
           
       - name: Retrieve table content
         run: |
-          echo "${{ env.EVENT_TABLE }}"
-        env:
-          EVENT_TABLE: ${{ env.EVENT_TABLE }}
-
-      - name: Retrieve table content
-        run: |
-          echo "${{ env.EVENT_TABLE }}"
-        env:
-          EVENT_TABLE: ${{ steps.run.outputs.table_for_readme }}
+          echo "Table Content: ${{ steps.run-script.outputs.table_for_readme }}"
+          echo "EVENT_TABLE: $EVENT_TABLE"
+          echo "::set-env name=EVENT_TABLE::$(echo '${{ steps.run-script.outputs.table_for_readme }}')"
