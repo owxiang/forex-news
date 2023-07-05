@@ -32,31 +32,10 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           URL: ${{ vars.URL }}
           
-
       - name: Retrieve table content
         run: |
-          echo "$EVENT_TABLE" >> README.md
-          console.log(README.md)
-        env:
-          EVENT_TABLE: ${{ env.EVENT_TABLE }}
+          table_content=$(cat table_for_readme.txt)
+          echo "table_content=$table_content" >> $GITHUB_ENV
 
-      - name: Print README.md content
-        uses: actions/github-script@v4
-        with:
-          script: |
-            const fs = require('fs')
-            const readmeContent = fs.readFileSync('README.md', 'utf8')
-            console.log(readmeContent)
-
-      - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git config --global user.name "${{ github.actor }}"
-          branch=${branch#refs/heads/}
-          git checkout $branch
-          git pull origin $branch
-          git add README.md
-          git commit -m "Update README.md"
-          git push origin $branch
+      - name: Print table content
+        run: echo "${{ env.table_content }}"
