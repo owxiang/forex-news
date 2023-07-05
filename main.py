@@ -5,15 +5,10 @@ from selenium.webdriver.chrome.service import Service
 import requests
 import os
 
-# Initialize
-bot = os.environ['TELEGRAM_BOT_TOKEN']
-chat_id = os.environ['TELEGRAM_CHANNEL_ID']
-url = os.environ['URL']
-high_events = ""
-all_events = ""
-
-
 def scrape_forex_events():
+    # Initialize
+    all_events = ""
+    high_events = ""
     # Create a string variable to hold the table
     table_for_readme = "| Time | Currency | Importance | Event | Actual | Forecast | Previous |\n"
     table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
@@ -80,6 +75,11 @@ def scrape_forex_events():
 
 
 def send_telegram(message):
+    # Initialize
+    bot = os.environ['TELEGRAM_BOT_TOKEN']
+    chat_id = os.environ['TELEGRAM_CHANNEL_ID']
+    url = os.environ['URL']
+    
     telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
     params = {
         "chat_id": chat_id,
