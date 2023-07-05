@@ -7,8 +7,10 @@ import os
 
 def scrape_forex_events():
     # Initialize
+    url = os.environ['URL']
     all_events = ""
     high_events = ""
+    
     # Create a string variable to hold the table
     table_for_readme = "| Time | Currency | Importance | Event | Actual | Forecast | Previous |\n"
     table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
@@ -78,7 +80,6 @@ def send_telegram(message):
     # Initialize
     bot = os.environ['TELEGRAM_BOT_TOKEN']
     chat_id = os.environ['TELEGRAM_CHANNEL_ID']
-    url = os.environ['URL']
     
     telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
     params = {
