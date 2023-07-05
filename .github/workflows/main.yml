@@ -36,6 +36,7 @@ jobs:
       - name: Retrieve table content
         run: |
           echo "$EVENT_TABLE" >> README.md
+          console.log(README.md)
         env:
           EVENT_TABLE: ${{ env.EVENT_TABLE }}
 
