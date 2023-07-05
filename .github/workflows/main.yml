@@ -35,8 +35,3 @@ jobs:
       - name: Retrieve table content
         run: |
           cat table_for_readme.txt
-          table_content=$(cat table_for_readme.txt)
-          echo"table_content=$table_content" >> $GITHUB_ENV
-
-      - name: Print table content
-        run: echo "${{ env.table_content }}"
