@@ -1,7 +1,7 @@
 # Daily Forex News
 
 Forex Event Scraping.
-https://github.com/owxiang/forex-news/blob/main/news.high.md
+
 ### News impact
 [![all](https://img.shields.io/badge/all-forex--news-blue.svg)](https://github.com/owxiang/forex-news/blob/main/news.all.md)
 [![high](https://img.shields.io/badge/high-forex--news-red.svg)](https://github.com/owxiang/forex-news/blob/main/news.high.md)
