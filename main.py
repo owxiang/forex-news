@@ -65,7 +65,7 @@ def scrape_forex_events():
                 
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
-            
+        
     write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md)
 
     if not high_events:
@@ -74,10 +74,11 @@ def scrape_forex_events():
         message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
         
     send_telegram(message)
+    print(all_events)
+    print(table_for_all_md)
     
     # Close the WebDriver
     driver.quit()
-
 
 def send_telegram(message):
     # Initialize
@@ -95,6 +96,19 @@ def send_telegram(message):
     
 def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md):
     
+    # Check no news
+    if table_for_all_md == "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
+        table_for_all_md = f"There is no Forex news today."
+        
+    if table_for_high_md == "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n":
+        table_for_high_md = f"There is no high impact news today."
+        
+    if table_for_moderate_md == "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n":
+        table_for_moderate_md = f"There is no moderate impact news today."
+        
+    if table_for_low_md == "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n":
+        table_for_low_md = f"There is no low impact news today."
+        
     # Write the table content to a file
     with open('table_for_all_md.txt', 'w') as file:
         file.write(table_for_all_md)
