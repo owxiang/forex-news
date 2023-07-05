@@ -65,12 +65,10 @@ def scrape_forex_events():
         message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
 
     send_telegram(message)
-
+    write_to_table(table_for_readme)
+    
     print(all_events)
     print(table_for_readme)
-
-    # Set the table as an environment variable
-    os.environ['EVENT_TABLE'] = table_for_readme
 
     # Close the WebDriver
     driver.quit()
@@ -89,5 +87,10 @@ def send_telegram(message):
         "disable_web_page_preview": True
     }
     response = requests.get(telegram_url, params=params)
+    
+def write_to_table(table_for_readme):
+    # Write the table content to a file
+    with open('table_for_readme.txt', 'w') as file:
+        file.write(table_for_readme)
 
 scrape_forex_events()
