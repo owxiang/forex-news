@@ -1,32 +1,45 @@
 ## 6 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | KRW | FX Reserves - USD (Jun) | 421.45B | 432.26B | 420.98B |
-| 06:00 | AUD | AIG Construction Index (Jun) | 10.6 |  | -6.6 |
-| 06:00 | AUD | Services PMI | 50.3 | 50.7 | 52.1 |
-| 07:30 | HKD | Manufacturing PMI (Jun) | 50.3 | 51.5 | 50.6 |
-| 08:00 | NZD | ANZ Commodity Price Index (MoM) | -2.3% | -1.5% | 0.4% |
-| 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 12:00 | INR | Nikkei Services PMI (Jun) | 58.5 | 60.2 | 61.2 |
-| 12:00 | SGD | Retail Sales (MoM) (May) | -0.2% | 0.1% | 0.5% |
-| 12:00 | SGD | Retail Sales (YoY) (May) | 1.8% | 4.0% | 3.7% |
-| 13:45 | EUR | French Industrial Production (MoM) (May) | 1.2% | -0.2% | 0.8% |
-| 14:00 | EUR | Spanish Industrial Production (YoY) (May) | -0.1% | -0.5% | -1.0% |
-| 14:15 | ZAR | South Africa Standard Bank PMI (Jun) | 48.7 | 48.7 | 47.9 |
-| 14:45 | EUR | Italian Composite PMI (Jun) | 49.7 |  | 52.0 |
-| 14:50 | EUR | French S&P Global Composite PMI (Jun) | 47.2 | 47.3 | 51.2 |
-| 14:55 | EUR | German Composite PMI (Jun) | 50.6 | 50.8 | 53.9 |
-| 16:00 | NOK | House Price Index (YoY) (Jun) | -0.70% | 1.30% | 0.10% |
-| 16:00 | EUR | PPI (MoM) (May) | -1.9% | -1.8% | -3.2% |
-| 16:00 | EUR | PPI (YoY) (May) | -1.5% | -1.3% | 0.9% |
-| 19:00 | MXN | Consumer Confidence | 45.2 | 44.3 | 44.5 |
-| 19:00 | MXN | Consumer Confidence n.s.a. | 45.9 |  | 44.7 |
-| 19:00 | MXN | Gross Fixed Investments (YoY) (Apr) | 6.10% | 6.70% | 9.00% |
-| 19:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -0.30% | 0.00% | 0.50% |
-| 19:45 | CAD | Leading Index (MoM) (Jun) | -0.05% |  | -0.06% |
-| 19:55 | USD | Redbook (YoY) | 0.7% |  | 0.5% |
-| 20:00 | BRL | S&P Global Composite PMI (Jun) | 51.5 | 52.1 | 52.3 |
-| 20:00 | BRL | S&P Global Services PMI (Jun) | 53.3 | 54.4 | 54.1 |
-| 21:00 | USD | Durables Excluding Defense (MoM) (May) | 3.0% |  | 3.0% |
-| 21:00 | USD | Durables Excluding Transport (MoM) (May) | 0.7% |  | -0.3% |
-| 21:00 | USD | Factory orders ex transportation (MoM) (May) | -0.5% | 0.5% | -0.6% |
+| 26 min | BRL | Foreign Exchange Flows |  |  | 1.637B |
+| 06:50 | JPY | Foreign Bonds Buying |  |  | 155.6B |
+| 06:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -543.8B |
+| 08:30 | AUD | Exports (MoM) (May) |  |  | -5.0% |
+| 08:30 | AUD | Imports (MoM) (May) |  |  | 2.0% |
+| 10:35 | JPY | 30-Year JGB Auction |  |  | 1.257% |
+| 14:30 | EUR | Italian IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 47.9 |
+| 14:30 | EUR | German IHS S&P Global Construction PMI (Jun) |  |  | 43.9 |
+| 14:30 | EUR | French IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 42.6 |
+| 14:30 | EUR | IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 44.6 |
+| Tentative | EUR | French Car Registration (YoY) |  |  | 14.8% |
+| 16:00 | EUR | Retail Sales (YoY) (May) |  | -2.7% | -2.6% |
+| Tentative | EUR | Spanish Consumer Confidence |  | 79.4 | 81.5 |
+| 18:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.75% |
+| 18:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.0% |
+| 18:00 | USD | MBA Purchase Index |  |  | 170.3 |
+| 18:00 | USD | Mortgage Market Index |  |  | 216.1 |
+| 18:00 | USD | Mortgage Refinance Index |  |  | 439.2 |
+| 18:30 | USD | Challenger Job Cuts (YoY) |  | 248.6% | 286.7% |
+| 18:30 | USD | Challenger Job Cuts (Jun) |  |  | 80.089K |
+| 19:30 | USD | Continuing Jobless Claims |  | 1,750K | 1,742K |
+| 19:30 | USD | Jobless Claims 4-Week Avg. |  | 256.64K | 257.50K |
+| 19:30 | CAD | Exports (May) |  |  | 64.85B |
+| 19:30 | CAD | Imports (May) |  |  | 62.91B |
+| 19:45 | USD | Fed Logan Speaks |  |  |  |
+| 21:00 | USD | IBD/TIPP Economic Optimism |  | 45.3 | 41.7 |
+| 21:00 | USD | ISM Non-Manufacturing Business Activity (Jun) |  | 60.0 | 51.5 |
+| 21:00 | USD | ISM Non-Manufacturing New Orders (Jun) |  | 55.9 | 52.9 |
+| 21:00 | USD | ISM Non-Manufacturing Prices (Jun) |  | 53.3 | 56.2 |
+| 21:00 | USD | Total Vehicle Sales |  |  | 15.10M |
+| 21:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 60.1 |
+| 21:30 | USD | Natural Gas Storage |  |  | 76B |
+| 22:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.216M |
+| 22:00 | USD | Crude Oil Imports |  | 2.054M | -0.376M |
+| 22:00 | USD | Distillate Fuel Production |  | -0.006M | -0.368M |
+| 22:00 | USD | EIA Weekly Distillates Stocks |  | 0.160M | 0.124M |
+| 22:00 | USD | Gasoline Production |  | -0.004M | 0.298M |
+| 22:00 | USD | Heating Oil Stockpiles |  | 0.371M | -0.529M |
+| 22:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 22:00 | USD | Gasoline Inventories |  | 1.454M | 0.603M |
+| 22:30 | USD | 4-Week Bill Auction |  |  | 5.085% |
+| 22:30 | USD | 8-Week Bill Auction |  |  | 5.190% |

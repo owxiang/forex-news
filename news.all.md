@@ -1,49 +1,69 @@
 ## 6 Jul 2023 - All Forex News
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | KRW | Low Volatility Expected | FX Reserves - USD (Jun) | 421.45B | 432.26B | 420.98B |
-| 06:00 | AUD | Low Volatility Expected | AIG Construction Index (Jun) | 10.6 |  | -6.6 |
-| 06:00 | AUD | Moderate Volatility Expected | AIG Manufacturing Index (Jun) | -19.8 |  | -5.1 |
-| 06:00 | AUD | Low Volatility Expected | Services PMI | 50.3 | 50.7 | 52.1 |
-| 07:30 | JPY | Moderate Volatility Expected | Services PMI (Jun) | 54.0 | 54.2 | 55.9 |
-| 07:30 | HKD | Low Volatility Expected | Manufacturing PMI (Jun) | 50.3 | 51.5 | 50.6 |
-| 08:00 | NZD | Low Volatility Expected | ANZ Commodity Price Index (MoM) | -2.3% | -1.5% | 0.4% |
-| 08:30 | AUD | Low Volatility Expected | RBA Chart Pack Release |  |  |  |
-| 08:30 | AUD | Moderate Volatility Expected | Retail Sales (MoM) | 0.7% | 0.7% | 0.0% |
-| 08:45 | CNY | Moderate Volatility Expected | Caixin Services PMI (Jun) | 53.9 | 56.2 | 57.1 |
-| 08:45 | CNY | Moderate Volatility Expected | Chinese Composite PMI | 52.5 |  | 55.6 |
-| 12:00 | INR | Low Volatility Expected | Nikkei Services PMI (Jun) | 58.5 | 60.2 | 61.2 |
-| 12:00 | SGD | Low Volatility Expected | Retail Sales (MoM) (May) | -0.2% | 0.1% | 0.5% |
-| 12:00 | SGD | Low Volatility Expected | Retail Sales (YoY) (May) | 1.8% | 4.0% | 3.7% |
-| 13:45 | EUR | Low Volatility Expected | French Industrial Production (MoM) (May) | 1.2% | -0.2% | 0.8% |
-| 14:00 | EUR | Moderate Volatility Expected | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | EUR | Low Volatility Expected | Spanish Industrial Production (YoY) (May) | -0.1% | -0.5% | -1.0% |
-| 14:00 | EUR | Moderate Volatility Expected | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 14:15 | EUR | Moderate Volatility Expected | Spanish Services PMI (Jun) | 53.4 | 55.5 | 56.7 |
-| 14:15 | ZAR | Low Volatility Expected | South Africa Standard Bank PMI (Jun) | 48.7 | 48.7 | 47.9 |
-| 14:30 | EUR | Moderate Volatility Expected | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | EUR | Low Volatility Expected | Italian Composite PMI (Jun) | 49.7 |  | 52.0 |
-| 14:45 | EUR | Moderate Volatility Expected | Italian Services PMI (Jun) | 52.2 | 53.0 | 54.0 |
-| 14:50 | EUR | Low Volatility Expected | French S&P Global Composite PMI (Jun) | 47.2 | 47.3 | 51.2 |
-| 14:50 | EUR | Moderate Volatility Expected | French Services PMI (Jun) | 48.0 | 48.0 | 52.5 |
-| 14:55 | EUR | Low Volatility Expected | German Composite PMI (Jun) | 50.6 | 50.8 | 53.9 |
-| 14:55 | EUR | Moderate Volatility Expected | German Services PMI (Jun) | 54.1 | 54.1 | 57.2 |
-| 15:00 | EUR | Moderate Volatility Expected | S&P Global Composite PMI (Jun) | 49.9 | 50.3 | 52.8 |
-| 15:00 | EUR | Moderate Volatility Expected | Services PMI (Jun) | 52.0 | 52.4 | 55.1 |
-| 15:30 | GBP | Moderate Volatility Expected | Composite PMI (Jun) | 52.8 | 52.8 | 54.0 |
-| 15:30 | GBP | Moderate Volatility Expected | Services PMI (Jun) | 53.7 | 53.7 | 55.2 |
-| 16:00 | NOK | Low Volatility Expected | House Price Index (YoY) (Jun) | -0.70% | 1.30% | 0.10% |
-| 16:00 | EUR | Low Volatility Expected | PPI (MoM) (May) | -1.9% | -1.8% | -3.2% |
-| 16:00 | EUR | Low Volatility Expected | PPI (YoY) (May) | -1.5% | -1.3% | 0.9% |
-| 19:00 | MXN | Low Volatility Expected | Consumer Confidence | 45.2 | 44.3 | 44.5 |
-| 19:00 | MXN | Low Volatility Expected | Consumer Confidence n.s.a. | 45.9 |  | 44.7 |
-| 19:00 | MXN | Low Volatility Expected | Gross Fixed Investments (YoY) (Apr) | 6.10% | 6.70% | 9.00% |
-| 19:00 | MXN | Low Volatility Expected | Gross Fixed Investments (MoM) (Apr) | -0.30% | 0.00% | 0.50% |
-| 19:45 | CAD | Low Volatility Expected | Leading Index (MoM) (Jun) | -0.05% |  | -0.06% |
-| 19:55 | USD | Low Volatility Expected | Redbook (YoY) | 0.7% |  | 0.5% |
-| 20:00 | BRL | Low Volatility Expected | S&P Global Composite PMI (Jun) | 51.5 | 52.1 | 52.3 |
-| 20:00 | BRL | Low Volatility Expected | S&P Global Services PMI (Jun) | 53.3 | 54.4 | 54.1 |
-| 21:00 | USD | Low Volatility Expected | Durables Excluding Defense (MoM) (May) | 3.0% |  | 3.0% |
-| 21:00 | USD | Low Volatility Expected | Durables Excluding Transport (MoM) (May) | 0.7% |  | -0.3% |
-| 21:00 | USD | Moderate Volatility Expected | Factory Orders (MoM) (May) | 0.3% | 0.8% | 0.3% |
-| 21:00 | USD | Low Volatility Expected | Factory orders ex transportation (MoM) (May) | -0.5% | 0.5% | -0.6% |
+| 26 min | BRL | Low | Foreign Exchange Flows |  |  | 1.637B |
+| 56 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 03:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 03:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.408M |
+| 06:50 | JPY | Low | Foreign Bonds Buying |  |  | 155.6B |
+| 06:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -543.8B |
+| 08:30 | AUD | Low | Exports (MoM) (May) |  |  | -5.0% |
+| 08:30 | AUD | Low | Imports (MoM) (May) |  |  | 2.0% |
+| 08:30 | AUD | Moderate | Trade Balance (May) |  | 10.500B | 11.158B |
+| 10:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.257% |
+| 13:00 | EUR | Moderate | German Factory Orders (MoM) (May) |  | 1.5% | -0.4% |
+| 14:30 | EUR | Low | Italian IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 47.9 |
+| 14:30 | EUR | Low | German IHS S&P Global Construction PMI (Jun) |  |  | 43.9 |
+| 14:30 | EUR | Low | French IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 42.6 |
+| 14:30 | EUR | Low | IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 44.6 |
+| 15:30 | GBP | Moderate | Construction PMI (Jun) |  | 51.0 | 51.6 |
+| Tentative | EUR | Low | French Car Registration (YoY) |  |  | 14.8% |
+| 16:00 | EUR | Moderate | Retail Sales (MoM) (May) |  | 0.2% | 0.0% |
+| 16:00 | EUR | Low | Retail Sales (YoY) (May) |  | -2.7% | -2.6% |
+| Tentative | EUR | Low | Spanish Consumer Confidence |  | 79.4 | 81.5 |
+| 18:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
+| 18:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.0% |
+| 18:00 | USD | Low | MBA Purchase Index |  |  | 170.3 |
+| 18:00 | USD | Low | Mortgage Market Index |  |  | 216.1 |
+| 18:00 | USD | Low | Mortgage Refinance Index |  |  | 439.2 |
+| 18:30 | USD | Low | Challenger Job Cuts (YoY) |  | 248.6% | 286.7% |
+| 18:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 80.089K |
+| 19:15 | USD | High | ADP Nonfarm Employment Change (Jun) |  | 230K | 278K |
+| 19:30 | USD | Low | Continuing Jobless Claims |  | 1,750K | 1,742K |
+| 19:30 | USD | Moderate | Exports |  |  | 249.00B |
+| 19:30 | USD | Moderate | Imports |  |  | 323.60B |
+| 19:30 | USD | High | Initial Jobless Claims |  | 245K | 239K |
+| 19:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 256.64K | 257.50K |
+| 19:30 | USD | Moderate | Trade Balance (May) |  | -69.50B | -74.60B |
+| 19:30 | CAD | Low | Exports (May) |  |  | 64.85B |
+| 19:30 | CAD | Low | Imports (May) |  |  | 62.91B |
+| 19:30 | CAD | Moderate | Trade Balance (May) |  | 1.35B | 1.94B |
+| 19:45 | USD | Low | Fed Logan Speaks |  |  |  |
+| 19:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 20:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  | 53.0 | 54.3 |
+| 20:45 | USD | High | Services PMI (Jun) |  | 54.1 | 54.9 |
+| 21:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.3 | 41.7 |
+| 21:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jun) |  | 60.0 | 51.5 |
+| 21:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jun) |  | 49.9 | 49.2 |
+| 21:00 | USD | Low | ISM Non-Manufacturing New Orders (Jun) |  | 55.9 | 52.9 |
+| 21:00 | USD | High | ISM Non-Manufacturing PMI (Jun) |  | 51.0 | 50.3 |
+| 21:00 | USD | Low | ISM Non-Manufacturing Prices (Jun) |  | 53.3 | 56.2 |
+| 21:00 | USD | High | JOLTs Job Openings (May) |  | 9.900M | 10.103M |
+| 21:00 | USD | Low | Total Vehicle Sales |  |  | 15.10M |
+| 21:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 60.1 |
+| 21:00 | CAD | Moderate | Ivey PMI (Jun) |  |  | 53.5 |
+| 21:30 | USD | Low | Natural Gas Storage |  |  | 76B |
+| 22:00 | USD | High | Crude Oil Inventories |  | -0.729M | -9.603M |
+| 22:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.216M |
+| 22:00 | USD | Low | Crude Oil Imports |  | 2.054M | -0.376M |
+| 22:00 | USD | Moderate | Cushing Crude Oil Inventories |  | -0.307M | 1.209M |
+| 22:00 | USD | Low | Distillate Fuel Production |  | -0.006M | -0.368M |
+| 22:00 | USD | Low | EIA Weekly Distillates Stocks |  | 0.160M | 0.124M |
+| 22:00 | USD | Low | Gasoline Production |  | -0.004M | 0.298M |
+| 22:00 | USD | Low | Heating Oil Stockpiles |  | 0.371M | -0.529M |
+| 22:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 22:00 | USD | Low | Gasoline Inventories |  | 1.454M | 0.603M |
+| 22:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 22:30 | USD | Low | 4-Week Bill Auction |  |  | 5.085% |
+| 22:30 | USD | Low | 8-Week Bill Auction |  |  | 5.190% |
+| 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
