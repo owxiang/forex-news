@@ -24,6 +24,7 @@ jobs:
           pip install requests
 
       - name: Run script
+        id: run-script
         run: |
           python main.py
         env:
@@ -33,6 +34,9 @@ jobs:
           
       - name: Retrieve table content
         run: |
-          echo "Table Content: ${{ steps.run-script.outputs.table_for_readme }}"
-          echo "EVENT_TABLE: $EVENT_TABLE"
-          echo "::set-env name=EVENT_TABLE::$(echo '${{ steps.run-script.outputs.table_for_readme }}')"
+          echo "::set-output name=EVENT_TABLE::${{ steps.run-script.outputs.table_for_readme }}"
+        id: get-table
+
+      - name: Use the table content
+        run: |
+          echo "${{ steps.get-table.outputs.EVENT_TABLE }}"
