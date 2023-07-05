@@ -12,74 +12,81 @@ url = os.environ['URL']
 high_events = ""
 all_events = ""
 
-# Create a string variable to hold the table
-table_for_readme = "| Time | Currency | Importance | Event | Actual | Forecast | Previous |\n"
-table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
 
-# Path to the ChromeDriver executable
-chromedriver_path = '/path/to/chromedriver'
+def scrape_forex_events():
+    # Create a string variable to hold the table
+    table_for_readme = "| Time | Currency | Importance | Event | Actual | Forecast | Previous |\n"
+    table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
 
-# Set Chrome options to run in headless mode
-chrome_options = Options()
-chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+    # Path to the ChromeDriver executable
+    chromedriver_path = '/path/to/chromedriver'
 
-# Start the ChromeDriver service
-service = Service(chromedriver_path)
+    # Set Chrome options to run in headless mode
+    chrome_options = Options()
+    chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 
-# Start the WebDriver
-driver = webdriver.Chrome(service=service, options=chrome_options)
+    # Start the ChromeDriver service
+    service = Service(chromedriver_path)
 
-# Load the webpage
-# timezone = 27 = GMT+8
-driver.get(url)
+    # Start the WebDriver
+    driver = webdriver.Chrome(service=service, options=chrome_options)
 
-# Wait for the table to load (adjust the wait time as needed)
-driver.implicitly_wait(10)
+    # Load the webpage
+    # timezone = 27 = GMT+8
+    driver.get(url)
 
-# Find the table element
-table = driver.find_element(By.ID, 'ecEventsTable')
+    # Wait for the table to load (adjust the wait time as needed)
+    driver.implicitly_wait(10)
 
-# Find all the event rows in the table
-event_rows = table.find_elements(By.TAG_NAME, 'tr')
+    # Find the table element
+    table = driver.find_element(By.ID, 'ecEventsTable')
 
-# Iterate over the event rows and print the event details
-for event_row in event_rows:
-    cells = event_row.find_elements(By.TAG_NAME, 'td')
-    if len(cells) >= 8:
-        time = cells[0].text.strip()
-        currency = cells[1].text.strip()
-        sentiment = cells[2].get_attribute('title')
-        event = cells[3].text.strip()
-        actual = cells[4].text.strip()
-        forecast = cells[5].text.strip()
-        previous = cells[6].text.strip()
+    # Find all the event rows in the table
+    event_rows = table.find_elements(By.TAG_NAME, 'tr')
 
-        if "High Volatility Expected" in sentiment:
-            high_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-         
-        all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-        table_for_readme += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
+    # Iterate over the event rows and print the event details
+    for event_row in event_rows:
+        cells = event_row.find_elements(By.TAG_NAME, 'td')
+        if len(cells) >= 8:
+            time = cells[0].text.strip()
+            currency = cells[1].text.strip()
+            sentiment = cells[2].get_attribute('title')
+            event = cells[3].text.strip()
+            actual = cells[4].text.strip()
+            forecast = cells[5].text.strip()
+            previous = cells[6].text.strip()
 
-if not {high_events}:
-    message = f"There is no high impact news today."
-else:
-    message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
-    
-telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
-params = {
-    "chat_id": chat_id,
-    "text": message,
-    "parse_mode": "markdown",
-    "disable_web_page_preview": True
-}
+            if "High Volatility Expected" in sentiment:
+                high_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
 
-response = requests.get(telegram_url, params=params)
+            all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
+            table_for_readme += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
 
-print(all_events)
-print(table_for_readme)
+    if not high_events:
+        message = f"There is no high impact news today."
+    else:
+        message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
 
-# Set the table as an environment variable
-os.environ['EVENT_TABLE'] = table_for_readme
+    send_telegram(message)
 
-# Close the WebDriver
-driver.quit()
+    print(all_events)
+    print(table_for_readme)
+
+    # Set the table as an environment variable
+    os.environ['EVENT_TABLE'] = table_for_readme
+
+    # Close the WebDriver
+    driver.quit()
+
+
+def send_telegram(message):
+    telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
+    params = {
+        "chat_id": chat_id,
+        "text": message,
+        "parse_mode": "markdown",
+        "disable_web_page_preview": True
+    }
+    response = requests.get(telegram_url, params=params)
+
+scrape_forex_events()
