@@ -12,9 +12,11 @@ def scrape_forex_events():
     high_events = ""
     
     # Create a string variable to hold the table
-    table_for_readme = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n"
-    table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
-
+    table_for_all_md = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
+    table_for_low_md = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+    table_for_moderate_md = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+    table_for_high_md = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+    
     # Path to the ChromeDriver executable
     chromedriver_path = '/path/to/chromedriver'
 
@@ -55,21 +57,24 @@ def scrape_forex_events():
 
             if "High Volatility Expected" in sentiment:
                 high_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-
+                table_for_high_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+            elif "Moderate Volatility Expected" in sentiment:
+                table_for_moderate_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+            elif "Low Volatility Expected" in sentiment:
+                table_for_low_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-            table_for_readme += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
+            table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
+            
+    write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md)
 
     if not high_events:
         message = f"There is no high impact news today."
     else:
         message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
-
+        
     send_telegram(message)
-    write_to_table(table_for_readme)
     
-    print(all_events)
-    print(table_for_readme)
-
     # Close the WebDriver
     driver.quit()
 
@@ -88,9 +93,16 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
     
-def write_to_table(table_for_readme):
+def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md):
+    
     # Write the table content to a file
-    with open('table_for_readme.txt', 'w') as file:
-        file.write(table_for_readme)
-
+    with open('table_for_all_md.txt', 'w') as file:
+        file.write(table_for_all_md)
+    with open('table_for_high_md.txt', 'w') as file:
+        file.write(table_for_high_md)
+    with open('table_for_moderate_md.txt', 'w') as file:
+        file.write(table_for_moderate_md)
+    with open('table_for_low_md.txt', 'w') as file:
+        file.write(table_for_low_md)
+        
 scrape_forex_events()
