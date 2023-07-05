@@ -32,4 +32,13 @@ jobs:
           URL: ${{ vars.URL }}
           
       - name: Retrieve table content
-        run: echo "${{ env.EVENT_TABLE }}"
+        run: |
+          echo "${{ env.EVENT_TABLE }}"
+        env:
+          EVENT_TABLE: ${{ env.EVENT_TABLE }}
+
+      - name: Retrieve table content
+        run: |
+          echo "${{ env.EVENT_TABLE }}"
+        env:
+          EVENT_TABLE: ${{ steps.run.outputs.table_for_readme }}
