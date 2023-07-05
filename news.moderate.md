@@ -1,4 +1,4 @@
-## 6 Jul 2023 Moderate Impact Forex News
+## 6 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | AUD | AIG Manufacturing Index (Jun) | -19.8 |  | -5.1 |

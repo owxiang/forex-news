@@ -1,4 +1,4 @@
-## 6 Jul 2023 Low Impact Forex News
+## 6 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | KRW | FX Reserves - USD (Jun) | 421.45B | 432.26B | 420.98B |
@@ -21,8 +21,8 @@
 | 16:00 | EUR | PPI (YoY) (May) | -1.5% | -1.3% | 0.9% |
 | 19:00 | MXN | Consumer Confidence | 45.2 | 44.3 | 44.5 |
 | 19:00 | MXN | Consumer Confidence n.s.a. | 45.9 |  | 44.7 |
-| 19:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -0.30% | 0.00% | 0.50% |
 | 19:00 | MXN | Gross Fixed Investments (YoY) (Apr) | 6.10% | 6.70% | 9.00% |
+| 19:00 | MXN | Gross Fixed Investments (MoM) (Apr) | -0.30% | 0.00% | 0.50% |
 | 19:45 | CAD | Leading Index (MoM) (Jun) | -0.05% |  | -0.06% |
 | 19:55 | USD | Redbook (YoY) | 0.7% |  | 0.5% |
 | 20:00 | BRL | S&P Global Composite PMI (Jun) | 51.5 | 52.1 | 52.3 |
