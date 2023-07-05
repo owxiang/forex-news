@@ -1,6 +1,6 @@
 # Daily Forex News
 
-Forex Event Scraping with Selenium.
+Forex Event Scraping.
 
 ### News impact
 [![all](https://img.shields.io/badge/all-forex--news-blue.svg)](https://github.com/your-repo/all-forex-news)
