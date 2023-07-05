@@ -56,12 +56,15 @@ def scrape_forex_events():
             previous = cells[6].text.strip()
 
             if "High Volatility Expected" in sentiment:
-                high_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
+                high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_high_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                sentiment = "High"
             elif "Moderate Volatility Expected" in sentiment:
                 table_for_moderate_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                sentiment = "Moderate"
             elif "Low Volatility Expected" in sentiment:
                 table_for_low_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                sentiment = "Low"
                 
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
@@ -86,7 +89,7 @@ def send_telegram(message):
     telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
     params = {
         "chat_id": chat_id,
-        "text": message,
+        "text": message+  "[forex-news](https://github.com/owxiang/forex-news)",
         "parse_mode": "markdown",
         "disable_web_page_preview": True
     }
