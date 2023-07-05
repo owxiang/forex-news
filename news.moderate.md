@@ -2,7 +2,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 03:30 | USD | API Weekly Crude Oil Stock |  |  | -2.408M |
+| 03:30 | USD | API Weekly Crude Oil Stock | -4.382M |  | -2.408M |
 | 08:30 | AUD | Trade Balance (May) |  | 10.500B | 11.158B |
 | 13:00 | EUR | German Factory Orders (MoM) (May) |  | 1.5% | -0.4% |
 | 15:30 | GBP | Construction PMI (Jun) |  | 51.0 | 51.6 |

@@ -1,7 +1,7 @@
 ## 6 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 26 min | BRL | Foreign Exchange Flows |  |  | 1.637B |
+| 00:30 | BRL | Foreign Exchange Flows | 2.890B | -1.544B | 0.048B |
 | 06:50 | JPY | Foreign Bonds Buying |  |  | 155.6B |
 | 06:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -543.8B |
 | 08:30 | AUD | Exports (MoM) (May) |  |  | -5.0% |
@@ -19,8 +19,9 @@
 | 18:00 | USD | MBA Purchase Index |  |  | 170.3 |
 | 18:00 | USD | Mortgage Market Index |  |  | 216.1 |
 | 18:00 | USD | Mortgage Refinance Index |  |  | 439.2 |
-| 18:30 | USD | Challenger Job Cuts (YoY) |  | 248.6% | 286.7% |
 | 18:30 | USD | Challenger Job Cuts (Jun) |  |  | 80.089K |
+| 18:30 | USD | Challenger Job Cuts (YoY) |  | 248.6% | 286.7% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.637B |
 | 19:30 | USD | Continuing Jobless Claims |  | 1,750K | 1,742K |
 | 19:30 | USD | Jobless Claims 4-Week Avg. |  | 256.64K | 257.50K |
 | 19:30 | CAD | Exports (May) |  |  | 64.85B |

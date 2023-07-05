@@ -1,10 +1,10 @@
 ## 6 Jul 2023 - All Forex News
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 26 min | BRL | Low | Foreign Exchange Flows |  |  | 1.637B |
-| 56 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 00:30 | BRL | Low | Foreign Exchange Flows | 2.890B | -1.544B | 0.048B |
+| 01:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 03:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 03:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.408M |
+| 03:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.382M |  | -2.408M |
 | 06:50 | JPY | Low | Foreign Bonds Buying |  |  | 155.6B |
 | 06:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -543.8B |
 | 08:30 | AUD | Low | Exports (MoM) (May) |  |  | -5.0% |
@@ -18,16 +18,17 @@
 | 14:30 | EUR | Low | IHS S&P Global Construction PMI (MoM) (Jun) |  |  | 44.6 |
 | 15:30 | GBP | Moderate | Construction PMI (Jun) |  | 51.0 | 51.6 |
 | Tentative | EUR | Low | French Car Registration (YoY) |  |  | 14.8% |
-| 16:00 | EUR | Moderate | Retail Sales (MoM) (May) |  | 0.2% | 0.0% |
 | 16:00 | EUR | Low | Retail Sales (YoY) (May) |  | -2.7% | -2.6% |
+| 16:00 | EUR | Moderate | Retail Sales (MoM) (May) |  | 0.2% | 0.0% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 79.4 | 81.5 |
 | 18:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
 | 18:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.0% |
 | 18:00 | USD | Low | MBA Purchase Index |  |  | 170.3 |
 | 18:00 | USD | Low | Mortgage Market Index |  |  | 216.1 |
 | 18:00 | USD | Low | Mortgage Refinance Index |  |  | 439.2 |
-| 18:30 | USD | Low | Challenger Job Cuts (YoY) |  | 248.6% | 286.7% |
 | 18:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 80.089K |
+| 18:30 | USD | Low | Challenger Job Cuts (YoY) |  | 248.6% | 286.7% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.637B |
 | 19:15 | USD | High | ADP Nonfarm Employment Change (Jun) |  | 230K | 278K |
 | 19:30 | USD | Low | Continuing Jobless Claims |  | 1,750K | 1,742K |
 | 19:30 | USD | Moderate | Exports |  |  | 249.00B |
