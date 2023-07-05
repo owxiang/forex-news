@@ -12,7 +12,7 @@ def scrape_forex_events():
     high_events = ""
     
     # Create a string variable to hold the table
-    table_for_readme = "| Time | Currency | Importance | Event | Actual | Forecast | Previous |\n"
+    table_for_readme = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n"
     table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
 
     # Path to the ChromeDriver executable
