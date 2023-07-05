@@ -73,6 +73,7 @@ params = {
 response = requests.get(telegram_url, params=params)
 
 print(all_events)
+print(table_for_readme)
 
 # Set the table as an environment variable
 os.environ['EVENT_TABLE'] = table_for_readme
