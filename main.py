@@ -12,6 +12,10 @@ url = os.environ['URL']
 high_events = ""
 all_events = ""
 
+# Create a string variable to hold the table
+table_for_readme = "| Time | Currency | Importance | Event | Actual | Forecast | Previous |\n"
+table_for_readme += "|------|----------|------------|-------|--------|----------|----------|\n"
+
 # Path to the ChromeDriver executable
 chromedriver_path = '/path/to/chromedriver'
 
@@ -54,6 +58,7 @@ for event_row in event_rows:
             high_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
          
         all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
+        table_for_readme += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
 
 message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
 
@@ -68,5 +73,9 @@ params = {
 response = requests.get(telegram_url, params=params)
 
 print(all_events)
+
+# Set the table as an environment variable
+os.environ['EVENT_TABLE'] = table_for_readme
+
 # Close the WebDriver
 driver.quit()
