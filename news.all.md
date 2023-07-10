@@ -1,3 +1,4 @@
+## 10 Jul 2023 - All Forex News
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:50 | JPY | Moderate | Adjusted Current Account (May) | 170.27T | 1.20T | 1.90T |

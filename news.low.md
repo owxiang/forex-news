@@ -1,3 +1,4 @@
+## 10 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:50 | JPY | Bank Lending (YoY) (Jun) | 3.2% | 3.6% | 3.4% |
