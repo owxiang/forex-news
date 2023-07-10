@@ -95,29 +95,25 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
     
-def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest):
+def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest):  
+    files = {
+        'table_for_all_md.txt': table_for_all_md,
+        'table_for_high_md.txt': table_for_high_md,
+        'table_for_moderate_md.txt': table_for_moderate_md,
+        'table_for_low_md.txt': table_for_low_md
+    }
     
-    # Check no news
-    if table_for_all_md == table_header_for_all:
-        table_for_all_md = f"There is no news today."
-        
-    if table_for_high_md == table_header_for_the_rest:
-        table_for_high_md = f"There is no high impact news today."
-        
-    if table_for_moderate_md == table_header_for_the_rest:
-        table_for_moderate_md = f"There is no moderate impact news today."
-        
-    if table_for_low_md == table_header_for_the_rest:
-        table_for_low_md = f"There is no low impact news today."
-        
-    # Write the table content to a file
-    with open('table_for_all_md.txt', 'w') as file:
-        file.write(table_for_all_md)
-    with open('table_for_high_md.txt', 'w') as file:
-        file.write(table_for_high_md)
-    with open('table_for_moderate_md.txt', 'w') as file:
-        file.write(table_for_moderate_md)
-    with open('table_for_low_md.txt', 'w') as file:
-        file.write(table_for_low_md)
+    no_news_messages = {
+        'table_for_all_md.txt': "There is no news today.",
+        'table_for_high_md.txt': "There is no high impact news today.",
+        'table_for_moderate_md.txt': "There is no moderate impact news today.",
+        'table_for_low_md.txt': "There is no low impact news today."
+    }
+    
+    for filename, content in files.items():
+        if content == no_news_messages[filename]:
+            content = f"{content}\n"
+        with open(filename, 'w') as file:
+            file.write(content)
         
 scrape_forex_events()
