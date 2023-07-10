@@ -1,25 +1,28 @@
-## 10 Jul 2023 - Low Impact Forex News
+## 11 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:50 | JPY | Bank Lending (YoY) (Jun) | 3.2% | 3.6% | 3.4% |
-| 08:30 | AUD | Private House Approvals | 0.9% | 0.9% | -3.0% |
-| 10:00 | IDR | Consumer Confidence (Jun) | 127.1 |  | 128.3 |
-| 10:00 | IDR | Motorbike Sales (YoY) (Jun) | 66.60% |  | 113.40% |
-| 12:00 | JPY | Economy Watchers Current Index (Jun) | 53.6 | 55.0 | 55.0 |
-| 13:00 | NOK | Core CPI YTD (Jun) | 7.0% | 6.6% | 6.7% |
-| 13:00 | NOK | Core Inflation (MoM) (Jun) | 0.9% | 1.0% | 0.7% |
-| 13:00 | NOK | CPI (YoY) (Jun) | 6.4% | 6.2% | 6.7% |
-| 13:00 | NOK | CPI (MoM) (Jun) | 0.6% | 0.7% | 0.5% |
-| 13:00 | NOK | PPI (YoY) (Jun) | -28.5% | -36.4% | -23.5% |
-| 15:30 | EUR | Sentix Investor Confidence (Jul) |  | -17.9 | -17.0 |
+| 02:00 | USD | Consumer Credit (May) | 7.24B | 20.50B | 20.32B |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  | 9.9% | 3.3% |
+| 06:50 | JPY | M2 Money Stock (YoY) |  | 2.9% | 2.7% |
+| 06:50 | JPY | M3 Money Supply (Jun) |  |  | 2,102.7T |
+| 07:30 | AUD | Westpac Consumer Sentiment (Jul) |  | 2.7% | 0.2% |
+| 08:30 | AUD | NAB Business Survey (Jun) |  | 8 | 8 |
+| 10:35 | JPY | 5-Year JGB Auction |  |  | 0.068% |
+| 13:00 | GBP | Average Earnings ex Bonus (May) |  | 7.1% | 7.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) |  | 6.8% | 6.3% |
+| 13:00 | EUR | German HICP (MoM) (Jun) |  | 0.4% | -0.2% |
+| 13:00 | JPY | Machine Tool Orders (YoY) |  |  | -22.2% |
+| 15:00 | EUR | Italian Industrial Production (YoY) (May) |  | -4.5% | -7.2% |
+| 15:00 | EUR | Italian Industrial Production (MoM) (May) |  | 0.8% | -1.9% |
+| Tentative | CNY | M2 Money Stock (YoY) |  | 11.2% | 11.6% |
+| Tentative | CNY | Outstanding Loan Growth (YoY) |  | 11.2% | 11.4% |
+| Tentative | CNY | Chinese Total Social Financing |  | 3,000.0B | 1,560.0B |
+| 15:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.255% |
+| 16:30 | EUR | German 5-Year Bobl Auction |  |  | 2.410% |
+| 17:00 | USD | NFIB Small Business Optimism (Jun) |  | 89.9 | 89.4 |
 | Tentative | EUR | Spanish Consumer Confidence |  | 79.4 | 81.5 |
-| 19:55 | EUR | French 12-Month BTF Auction |  |  | 3.697% |
-| 19:55 | EUR | French 3-Month BTF Auction |  |  | 3.439% |
-| 19:55 | EUR | French 6-Month BTF Auction |  |  | 3.584% |
-| 21:00 | USD | CB Employment Trends Index (Jun) |  | 116.26 | 116.15 |
-| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:00 | USD | Wholesale Inventories (MoM) (May) |  | -0.1% | -0.1% |
-| 21:00 | USD | Wholesale Trade Sales (MoM) (May) |  | 0.3% | 0.2% |
-| 22:00 | USD | Consumer Inflation Expectations |  |  | 4.1% |
-| 22:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
-| 22:30 | USD | 6-Month Bill Auction |  |  | 5.260% |
+| 18:00 | ZAR | Manufacturing Production (YoY) (May) |  | 1.2% | 3.4% |
+| 18:00 | ZAR | Manufacturing Production (MoM) (May) |  | 1.4% | 0.5% |
+| 19:55 | USD | Redbook (YoY) |  |  | 0.7% |
+| 21:00 | USD | IBD/TIPP Economic Optimism |  | 45.3 | 41.7 |
+| 22:30 | USD | 52-Week Bill Auction |  |  | 4.930% |

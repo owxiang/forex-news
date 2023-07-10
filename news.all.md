@@ -1,37 +1,48 @@
-## 10 Jul 2023 - All Forex News
+## 11 Jul 2023 - All Forex News
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:50 | JPY | Moderate | Adjusted Current Account (May) | 170.27T | 1.20T | 1.90T |
-| 06:50 | JPY | Low | Bank Lending (YoY) (Jun) | 3.2% | 3.6% | 3.4% |
-| 06:50 | JPY | Moderate | Current Account n.s.a. (May) | 1.862T | 1.885T | 1.895T |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) | 20.6% | 20.6% | -6.8% |
-| 08:30 | AUD | Low | Private House Approvals | 0.9% | 0.9% | -3.0% |
-| 08:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
-| 08:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.0% | 0.2% | 0.2% |
-| 08:30 | CNY | Moderate | PPI (YoY) (Jun) | -5.4% | -5.0% | -4.6% |
-| 10:00 | IDR | Low | Consumer Confidence (Jun) | 127.1 |  | 128.3 |
-| 10:00 | IDR | Low | Motorbike Sales (YoY) (Jun) | 66.60% |  | 113.40% |
-| 12:00 | JPY | Low | Economy Watchers Current Index (Jun) | 53.6 | 55.0 | 55.0 |
-| 13:00 | NOK | Low | Core CPI YTD (Jun) | 7.0% | 6.6% | 6.7% |
-| 13:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.9% | 1.0% | 0.7% |
-| 13:00 | NOK | Low | CPI (YoY) (Jun) | 6.4% | 6.2% | 6.7% |
-| 13:00 | NOK | Low | CPI (MoM) (Jun) | 0.6% | 0.7% | 0.5% |
-| 13:00 | NOK | Low | PPI (YoY) (Jun) | -28.5% | -36.4% | -23.5% |
-| 15:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | -17.9 | -17.0 |
+| 02:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 02:00 | USD | Low | Consumer Credit (May) | 7.24B | 20.50B | 20.32B |
+| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) |  | 9.9% | 3.3% |
+| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.7% |
+| 06:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) |  | 4.6% | 3.7% |
+| 06:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.9% | 2.7% |
+| 06:50 | JPY | Low | M3 Money Supply (Jun) |  |  | 2,102.7T |
+| 07:30 | AUD | Low | Westpac Consumer Sentiment (Jul) |  | 2.7% | 0.2% |
+| 08:30 | AUD | Moderate | NAB Business Confidence (Jun) |  | -1 | -4 |
+| 08:30 | AUD | Low | NAB Business Survey (Jun) |  | 8 | 8 |
+| 10:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.068% |
+| 13:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 7.1% | 7.2% |
+| 13:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 6.8% | 6.5% |
+| 13:00 | GBP | Moderate | Claimant Count Change (Jun) |  | -8.6K | -13.6K |
+| 13:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 158K | 250K |
+| 13:00 | GBP | Moderate | Unemployment Rate (May) |  | 3.8% | 3.8% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 6.4% | 6.1% |
+| 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.3% | -0.1% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  | 6.8% | 6.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  | 0.4% | -0.2% |
+| 13:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -22.2% |
+| 15:00 | EUR | Low | Italian Industrial Production (YoY) (May) |  | -4.5% | -7.2% |
+| 15:00 | EUR | Low | Italian Industrial Production (MoM) (May) |  | 0.8% | -1.9% |
+| Tentative | CNY | Low | M2 Money Stock (YoY) |  | 11.2% | 11.6% |
+| Tentative | CNY | Moderate | New Loans |  | 2,337.0B | 1,360.0B |
+| Tentative | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.2% | 11.4% |
+| Tentative | CNY | Low | Chinese Total Social Financing |  | 3,000.0B | 1,560.0B |
+| 15:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.255% |
+| 16:00 | EUR | Moderate | German ZEW Current Conditions (Jul) |  | -60.0 | -56.5 |
+| 16:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) |  | -10.0 | -8.5 |
+| 16:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) |  |  | -10.0 |
+| 16:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.410% |
+| 17:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 89.9 | 89.4 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 79.4 | 81.5 |
-| 18:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
-| 19:30 | CAD | Moderate | Building Permits (MoM) (May) |  | 9.6% | -18.8% |
-| 19:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.697% |
-| 19:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.439% |
-| 19:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.584% |
-| 21:00 | USD | Low | CB Employment Trends Index (Jun) |  | 116.26 | 116.15 |
-| 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | -0.1% | -0.1% |
-| 21:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  | 0.3% | 0.2% |
-| 21:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 22:00 | USD | Low | Consumer Inflation Expectations |  |  | 4.1% |
-| 22:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 22:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
-| 22:30 | USD | Low | 6-Month Bill Auction |  |  | 5.260% |
-| 23:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | ZAR | Low | Manufacturing Production (YoY) (May) |  | 1.2% | 3.4% |
+| 18:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  | 1.4% | 0.5% |
+| 18:15 | GBP | Moderate | NIESR GDP Estimate |  |  | -0.1% |
+| 19:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 3.20% | 3.94% |
+| 19:00 | BRL | Moderate | CPI (MoM) (Jun) |  | -0.08% | 0.23% |
+| 19:00 | BRL | Moderate | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.28% |
+| 19:55 | USD | Low | Redbook (YoY) |  |  | 0.7% |
+| 20:00 | USD | Moderate | FOMC Member Bullard Speaks |  |  |  |
+| 21:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.3 | 41.7 |
+| 22:30 | USD | Low | 52-Week Bill Auction |  |  | 4.930% |
+| 23:00 | USD | High | EIA Short-Term Energy Outlook |  |  |  |
