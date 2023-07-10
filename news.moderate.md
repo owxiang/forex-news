@@ -4,8 +4,8 @@
 | 06:50 | JPY | Adjusted Current Account (May) | 170.27T | 1.20T | 1.90T |
 | 06:50 | JPY | Current Account n.s.a. (May) | 1.862T | 1.885T | 1.895T |
 | 08:30 | AUD | Building Approvals (MoM) | 20.6% | 20.6% | -6.8% |
-| 08:30 | CNY | CPI (YoY) (Jun) | 0.0% | 0.2% | 0.2% |
 | 08:30 | CNY | CPI (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
+| 08:30 | CNY | CPI (YoY) (Jun) | 0.0% | 0.2% | 0.2% |
 | 08:30 | CNY | PPI (YoY) (Jun) | -5.4% | -5.0% | -4.6% |
 | 18:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | CAD | Building Permits (MoM) (May) |  | 9.6% | -18.8% |
