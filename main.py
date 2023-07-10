@@ -94,7 +94,10 @@ def send_telegram(message):
         "disable_web_page_preview": True
     }
     response = requests.get(telegram_url, params=params)
-    print(response.status_code)
+    if response.status_code == 200:
+        print("Telegram message sent successfully!")
+    else:
+        print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
     
 def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, table_for_low_md, table_header_for_all, table_header_for_the_rest):
     table_content = {
