@@ -80,31 +80,20 @@ def scrape_forex_events():
 
     # Close the WebDriver
     driver.quit()
-
+    
 def send_telegram(message):
     # Initialize
     bot = os.environ['TELEGRAM_BOT_TOKEN']
     chat_id = os.environ['TELEGRAM_CHANNEL_ID']
     
-    if not bot or not chat_id:
-        print("Telegram bot token or chat ID is not provided.")
-        return
-    
-    telegram_url = f"https://api.telegram.org/bot{bot}/sendMessage"
+    telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
     params = {
         "chat_id": chat_id,
-        "text": f"{message} [forex-news](https://github.com/owxiang/forex-news)",
+        "text": message+  "[forex-news](https://github.com/owxiang/forex-news)",
         "parse_mode": "markdown",
         "disable_web_page_preview": True
     }
     response = requests.get(telegram_url, params=params)
-    print(response)
-    print(response.status_code)
-    
-    if response.status_code != 200:
-        print("Failed to send message via Telegram.")
-        return
-    print("Message sent successfully via Telegram.")
 
 def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest):  
     files = {
