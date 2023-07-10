@@ -95,25 +95,26 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
 
-def write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest):  
-    files = {
+def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, table_for_low_md, table_header_for_all, table_header_for_the_rest):
+    table_content = {
         'table_for_all_md.txt': table_for_all_md,
         'table_for_high_md.txt': table_for_high_md,
         'table_for_moderate_md.txt': table_for_moderate_md,
         'table_for_low_md.txt': table_for_low_md
     }
-    
+
     no_news_messages = {
         'table_for_all_md.txt': "There is no news today.",
         'table_for_high_md.txt': "There is no high impact news today.",
         'table_for_moderate_md.txt': "There is no moderate impact news today.",
         'table_for_low_md.txt': "There is no low impact news today."
     }
-    
-    for filename, content in files.items():
-        if content == no_news_messages[filename]:
-            content = f"{content}\n"
+
+    for filename, content in table_content.items():
+        if content == table_header_for_all or content == table_header_for_the_rest:
+            content = no_news_messages[filename]
         with open(filename, 'w') as file:
             file.write(content)
+
         
 scrape_forex_events()
