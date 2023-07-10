@@ -98,6 +98,8 @@ def send_telegram(message):
         "disable_web_page_preview": True
     }
     response = requests.get(telegram_url, params=params)
+    print(response)
+    print(response.status_code)
     
     if response.status_code != 200:
         print("Failed to send message via Telegram.")
