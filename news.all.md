@@ -6,8 +6,8 @@
 | 06:50 | JPY | Moderate | Current Account n.s.a. (May) | 1.862T | 1.885T | 1.895T |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | 20.6% | 20.6% | -6.8% |
 | 08:30 | AUD | Low | Private House Approvals | 0.9% | 0.9% | -3.0% |
-| 08:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
 | 08:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.0% | 0.2% | 0.2% |
+| 08:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.2% | 0.0% | -0.2% |
 | 08:30 | CNY | Moderate | PPI (YoY) (Jun) | -5.4% | -5.0% | -4.6% |
 | 10:00 | IDR | Low | Consumer Confidence (Jun) | 127.1 |  | 128.3 |
 | 10:00 | IDR | Low | Motorbike Sales (YoY) (Jun) | 66.60% |  | 113.40% |
