@@ -36,10 +36,17 @@ jobs:
         run: |
           DATE=$(date -u +"%e %b %Y" --date="8 hours")
           
-          echo -e "## $DATE - All Forex News" | cat table_for_all_md.txt > news.all.md
-          echo -e "## $DATE - High Impact Forex News" | cat table_for_high_md.txt > news.high.md
-          echo -e "## $DATE - Moderate Impact Forex News" | cat table_for_moderate_md.txt > news.moderate.md
-          echo -e "## $DATE - Low Impact Forex News" | cat table_for_low_md.txt > news.low.md
+          echo -e "## $DATE - All Forex News" > news.all.md
+          cat table_for_all_md.txt >> news.all.md
+          
+          echo -e "## $DATE - High Impact Forex News" > news.high.md
+          cat table_for_high_md.txt >> news.high.md
+          
+          echo -e "## $DATE - Moderate Impact Forex News" > news.moderate.md
+          cat table_for_moderate_md.txt >> news.moderate.md
+          
+          echo -e "## $DATE - Low Impact Forex News" > news.low.md
+          cat table_for_low_md.txt >> news.low.md
           
       - name: Commit and push changes
         env:
