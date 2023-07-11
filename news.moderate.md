@@ -1,21 +1,23 @@
-## 11 Jul 2023 - Moderate Impact Forex News
+## 12 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.7% |
-| 06:01 | GBP | BRC Retail Sales Monitor (YoY) (Jun) |  | 4.6% | 3.7% |
-| 08:30 | AUD | NAB Business Confidence (Jun) |  | -1 | -4 |
-| 13:00 | GBP | Average Earnings Index +Bonus (May) |  | 6.8% | 6.5% |
-| 13:00 | GBP | Claimant Count Change (Jun) |  | -8.6K | -13.6K |
-| 13:00 | GBP | Employment Change 3M/3M (MoM) (May) |  | 158K | 250K |
-| 13:00 | GBP | Unemployment Rate (May) |  | 3.8% | 3.8% |
-| 13:00 | EUR | German CPI (YoY) (Jun) |  | 6.4% | 6.1% |
-| Tentative | CNY | New Loans |  | 2,337.0B | 1,360.0B |
-| 16:00 | EUR | German ZEW Current Conditions (Jul) |  | -60.0 | -56.5 |
-| 16:00 | EUR | German ZEW Economic Sentiment (Jul) |  | -10.0 | -8.5 |
-| 16:00 | EUR | ZEW Economic Sentiment (Jul) |  |  | -10.0 |
-| 18:15 | GBP | NIESR GDP Estimate |  |  | -0.1% |
-| 19:00 | BRL | CPI (YoY) (Jun) |  | 3.20% | 3.94% |
-| 19:00 | BRL | CPI (MoM) (Jun) |  | -0.08% | 0.23% |
-| 19:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.28% |
-| 20:00 | USD | FOMC Member Bullard Speaks |  |  |  |
+| 00:00 | USD | 3-Year Note Auction | 4.534% |  | 4.202% |
+| 03:30 | USD | API Weekly Crude Oil Stock | 3.026M | 0.200M | -4.382M |
+| 09:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 10:10 | AUD | RBA Governor Lowe Speaks |  |  |  |
+| 13:00 | GBP | BoE Financial Stability Report |  |  |  |
+| 14:00 | EUR | Spanish CPI (YoY) (Jun) |  | 1.9% | 3.2% |
+| 14:00 | EUR | Spanish HICP (YoY) (Jun) |  | 1.6% | 2.9% |
+| 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:30 | EUR | German 10-Year Bund Auction |  |  | 2.430% |
+| 19:00 | INR | CPI (YoY) (Jun) |  | 4.59% | 4.25% |
+| 19:30 | USD | Core CPI (YoY) (Jun) |  | 5.0% | 5.3% |
+| 20:45 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 20:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 21:00 | CAD | BoC Monetary Policy Report |  |  |  |
+| 21:00 | CAD | BoC Rate Statement |  |  |  |
+| 21:30 | USD | Cushing Crude Oil Inventories |  | -0.805M | -0.400M |
+| 22:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 22:00 | CAD | BOC Press Conference |  |  |  |
+| 23:00 | USD | WASDE Report |  |  |  |

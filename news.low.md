@@ -1,28 +1,49 @@
-## 11 Jul 2023 - Low Impact Forex News
+## 12 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Consumer Credit (May) | 7.24B | 20.50B | 20.32B |
-| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  | 9.9% | 3.3% |
-| 06:50 | JPY | M2 Money Stock (YoY) |  | 2.9% | 2.7% |
-| 06:50 | JPY | M3 Money Supply (Jun) |  |  | 2,102.7T |
-| 07:30 | AUD | Westpac Consumer Sentiment (Jul) |  | 2.7% | 0.2% |
-| 08:30 | AUD | NAB Business Survey (Jun) |  | 8 | 8 |
-| 10:35 | JPY | 5-Year JGB Auction |  |  | 0.068% |
-| 13:00 | GBP | Average Earnings ex Bonus (May) |  | 7.1% | 7.2% |
-| 13:00 | EUR | German HICP (YoY) (Jun) |  | 6.8% | 6.3% |
-| 13:00 | EUR | German HICP (MoM) (Jun) |  | 0.4% | -0.2% |
-| 13:00 | JPY | Machine Tool Orders (YoY) |  |  | -22.2% |
-| 15:00 | EUR | Italian Industrial Production (YoY) (May) |  | -4.5% | -7.2% |
-| 15:00 | EUR | Italian Industrial Production (MoM) (May) |  | 0.8% | -1.9% |
-| Tentative | CNY | M2 Money Stock (YoY) |  | 11.2% | 11.6% |
-| Tentative | CNY | Outstanding Loan Growth (YoY) |  | 11.2% | 11.4% |
-| Tentative | CNY | Chinese Total Social Financing |  | 3,000.0B | 1,560.0B |
-| 15:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.255% |
-| 16:30 | EUR | German 5-Year Bobl Auction |  |  | 2.410% |
-| 17:00 | USD | NFIB Small Business Optimism (Jun) |  | 89.9 | 89.4 |
+| 05:45 | NZD | External Migration & Visitors (May) |  | 2.10% | 307.50% |
+| 05:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 5,785 |
+| 05:45 | NZD | Visitor Arrivals (MoM) |  | 60.5% | -16.9% |
+| 06:00 | KRW | Unemployment Rate (Jun) |  | 2.5% | 2.5% |
+| 06:50 | JPY | Core Machinery Orders (MoM) (May) |  | 1.0% | 5.5% |
+| 06:50 | JPY | Core Machinery Orders (YoY) (May) |  | -0.2% | -5.9% |
+| 06:50 | JPY | PPI (MoM) (Jun) |  | 0.1% | -0.7% |
+| 06:50 | JPY | PPI (YoY) (Jun) |  | 4.3% | 5.1% |
+| 13:00 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 14:00 | EUR | Core CPI (YoY) (Jun) |  | 5.9% | 6.1% |
+| 14:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.6% | 0.0% |
+| 14:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.6% | -0.1% |
+| 16:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.351% |
+| 16:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.637% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 79.4 | 81.5 |
-| 18:00 | ZAR | Manufacturing Production (YoY) (May) |  | 1.2% | 3.4% |
-| 18:00 | ZAR | Manufacturing Production (MoM) (May) |  | 1.4% | 0.5% |
-| 19:55 | USD | Redbook (YoY) |  |  | 0.7% |
-| 21:00 | USD | IBD/TIPP Economic Optimism |  | 45.3 | 41.7 |
-| 22:30 | USD | 52-Week Bill Auction |  |  | 4.930% |
+| 18:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.85% |
+| 18:00 | USD | MBA Mortgage Applications (WoW) |  |  | -4.4% |
+| 18:00 | USD | MBA Purchase Index |  |  | 162.4 |
+| 18:00 | USD | Mortgage Market Index |  |  | 206.5 |
+| 18:00 | USD | Mortgage Refinance Index |  |  | 421.3 |
+| 18:30 | INR | M3 Money Supply |  | 10.5% | 10.6% |
+| 19:00 | MXN | Industrial Production (MoM) (May) |  | 0.1% | 0.4% |
+| 19:00 | MXN | Industrial Production (YoY) (May) |  | 2.2% | 0.7% |
+| 19:00 | INR | Cumulative Industrial Production (Apr) |  | 5.10% | 5.10% |
+| 19:00 | INR | Industrial Production (YoY) (May) |  | 1.2% | 4.2% |
+| 19:00 | INR | Manufacturing Output (MoM) (May) |  | 1.8% | 4.9% |
+| 19:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  | 0.0% | -1.6% |
+| 19:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  | 4.5% | 2.7% |
+| 19:30 | USD | Core CPI Index (Jun) |  | 309.03 | 307.82 |
+| 19:30 | USD | CPI Index, n.s.a. (Jun) |  | 305.22 | 304.13 |
+| 19:30 | USD | CPI Index, s.a (Jun) |  | 303.67 | 303.29 |
+| 19:30 | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.25% |
+| 19:30 | USD | Real Earnings (MoM) (Jun) |  | -0.1% | -0.1% |
+| 21:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.224M |
+| 21:30 | USD | Crude Oil Imports |  | -0.527M | 1.895M |
+| 21:30 | USD | Distillate Fuel Production |  | -0.011M | 0.141M |
+| 21:30 | USD | EIA Weekly Distillates Stocks |  | 0.170M | -1.045M |
+| 21:30 | USD | Gasoline Production |  | -0.047M | 0.148M |
+| 21:30 | USD | Heating Oil Stockpiles |  | -0.234M | -0.061M |
+| 21:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.1% |
+| 21:30 | USD | Gasoline Inventories |  | 0.827M | -2.550M |
+| 22:00 | USD | Cleveland CPI (MoM) (Jun) |  | 0.4% | 0.4% |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.62 |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 51.43 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 58.45 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 58.64 |
