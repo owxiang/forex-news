@@ -1,23 +1,31 @@
-## 12 Jul 2023 - Moderate Impact Forex News
+## 13 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | 3-Year Note Auction | 4.534% |  | 4.202% |
-| 03:30 | USD | API Weekly Crude Oil Stock | 3.026M | 0.200M | -4.382M |
-| 09:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 10:10 | AUD | RBA Governor Lowe Speaks |  |  |  |
-| 13:00 | GBP | BoE Financial Stability Report |  |  |  |
-| 14:00 | EUR | Spanish CPI (YoY) (Jun) |  | 1.9% | 3.2% |
-| 14:00 | EUR | Spanish HICP (YoY) (Jun) |  | 1.6% | 2.9% |
-| 15:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:30 | EUR | German 10-Year Bund Auction |  |  | 2.430% |
-| 19:00 | INR | CPI (YoY) (Jun) |  | 4.59% | 4.25% |
-| 19:30 | USD | Core CPI (YoY) (Jun) |  | 5.0% | 5.3% |
-| 20:45 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 20:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 21:00 | CAD | BoC Monetary Policy Report |  |  |  |
-| 21:00 | CAD | BoC Rate Statement |  |  |  |
-| 21:30 | USD | Cushing Crude Oil Inventories |  | -0.805M | -0.400M |
-| 22:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 22:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 22:00 | CAD | BOC Press Conference |  |  |  |
-| 23:00 | USD | WASDE Report |  |  |  |
+| 00:00 | USD | 10-Year Note Auction | 3.857% |  | 3.791% |
+| 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 01:00 | USD | Beige Book |  |  |  |
+| 03:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 05:30 | NZD | Business NZ PMI (Jun) |  | 49.8 | 48.9 |
+| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  | -0.2% | -1.7% |
+| 06:01 | GBP | RICS House Price Balance (Jun) |  | -34% | -30% |
+| 08:00 | KRW | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
+| 10:00 | CNY | Exports (YoY) (Jun) |  | 0.5% | -7.5% |
+| 10:00 | CNY | Imports (YoY) (Jun) |  | -6.1% | -4.5% |
+| 10:00 | CNY | Trade Balance (USD) (Jun) |  | 93.90B | 65.81B |
+| 13:00 | GBP | Industrial Production (MoM) (May) |  | -0.4% | -0.3% |
+| 13:00 | GBP | Manufacturing Production (MoM) (May) |  | -0.5% | -0.3% |
+| 13:00 | GBP | Monthly GDP 3M/3M Change (May) |  | -0.1% | 0.1% |
+| 13:00 | GBP | Trade Balance (May) |  | -15.77B | -15.00B |
+| 13:00 | GBP | Trade Balance Non-EU (May) |  | -6.45B | -5.04B |
+| 13:45 | EUR | French CPI (MoM) (Jun) |  | 0.2% | -0.1% |
+| 13:45 | EUR | French HICP (MoM) (Jun) |  | 0.2% | -0.1% |
+| 15:00 | USD | IEA Monthly Report |  |  |  |
+| 15:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 16:00 | EUR | EU Economic Forecasts |  |  |  |
+| 16:00 | EUR | Industrial Production (MoM) (May) |  | 0.3% | 1.0% |
+| 17:00 | EUR | Eurogroup Meetings |  |  |  |
+| 18:00 | USD | OPEC Monthly Report |  |  |  |
+| 18:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 19:00 | GBP | NIESR GDP Estimate |  |  | -0.1% |
+| 19:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
+| 19:30 | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.2% |
