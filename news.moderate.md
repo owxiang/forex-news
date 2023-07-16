@@ -1,4 +1,4 @@
-## 16 Jul 2023 - Moderate Impact Forex News
+## 17 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 09:00 | CNY | Fixed Asset Investment (YoY) (Jun) |  | 3.5% | 4.0% |

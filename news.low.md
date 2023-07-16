@@ -1,4 +1,4 @@
-## 16 Jul 2023 - Low Impact Forex News
+## 17 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | NZD | Performance of Services Index |  |  | 53.3 |

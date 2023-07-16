@@ -1,4 +1,4 @@
-## 16 Jul 2023 - All Forex News
+## 17 Jul 2023 - All Forex News
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:30 | NZD | Low | Performance of Services Index |  |  | 53.3 |
@@ -9,8 +9,8 @@
 | 07:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) |  | -12.90% | -14.70% |
 | 07:30 | SGD | Low | Trade Balance |  | 5.546B | 5.491B |
 | 09:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) |  | 3.5% | 4.0% |
-| 09:00 | CNY | High | GDP (YoY) (Q2) |  | 7.3% | 4.5% |
 | 09:00 | CNY | Moderate | GDP (QoQ) (Q2) |  | 0.5% | 2.2% |
+| 09:00 | CNY | High | GDP (YoY) (Q2) |  | 7.3% | 4.5% |
 | 09:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) |  |  | 4.5% |
 | 09:00 | CNY | High | Industrial Production (YoY) (Jun) |  | 2.7% | 3.5% |
 | 09:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 3.6% |
@@ -21,8 +21,8 @@
 | 11:00 | IDR | Low | Export Growth (YoY) (Jun) |  | -18.65% | 0.96% |
 | 11:00 | IDR | Low | Import Growth (YoY) (Jun) |  | -7.75% | 14.35% |
 | 11:00 | IDR | Moderate | Trade Balance (Jun) |  | 1.35B | 0.44B |
-| 15:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 6.4% | 7.6% |
 | 15:00 | EUR | Moderate | Italian CPI (MoM) (Jun) |  | 0.0% | 0.3% |
+| 15:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 6.4% | 7.6% |
 | 15:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) |  | 6.6% | 7.2% |
 | 15:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 6.7% | 8.0% |
 | 15:00 | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.1% | 0.3% |
