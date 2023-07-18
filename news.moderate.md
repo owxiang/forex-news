@@ -1,16 +1,19 @@
-## 18 Jul 2023 - Moderate Impact Forex News
+## 19 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 11:30 | JPY | Tertiary Industry Activity Index (MoM) |  | 0.4% | 1.2% |
-| 19:15 | CAD | Housing Starts (Jun) |  |  | 202.5K |
-| 19:30 | CAD | Core CPI (YoY) (Jun) |  | 3.4% | 3.7% |
-| 19:30 | CAD | Core CPI (MoM) (Jun) |  | 0.5% | 0.4% |
-| 19:30 | CAD | CPI (MoM) (Jun) |  | 0.3% | 0.4% |
-| 19:30 | CAD | RMPI (MoM) (Jun) |  | -0.2% | -4.9% |
-| 20:15 | USD | Industrial Production (YoY) (Jun) |  | 1.10% | 0.23% |
-| 20:15 | USD | Industrial Production (MoM) (Jun) |  | 0.0% | -0.2% |
-| 21:00 | USD | Business Inventories (MoM) (May) |  | 0.2% | 0.2% |
-| 21:00 | USD | Retail Inventories Ex Auto (May) |  | 0.0% | -0.2% |
-| 22:00 | NZD | GlobalDairyTrade Price Index |  | 1.9% | -3.3% |
+| 03:00 | USD | TIC Net Long-Term Transactions (May) | 25.8B | 110.2B | 127.8B |
+| 03:30 | USD | API Weekly Crude Oil Stock | -0.797M | -2.250M | 3.026M |
+| 05:45 | NZD | CPI (QoQ) (Q2) |  | 1.0% | 1.2% |
+| 05:45 | NZD | CPI (YoY) (Q2) |  | 5.9% | 6.7% |
+| 13:00 | GBP | CPI (MoM) (Jun) |  | 0.4% | 0.7% |
+| 13:00 | GBP | PPI Input (MoM) (Jun) |  | -0.2% | -1.5% |
+| 15:00 | ZAR | Core CPI (MoM) (Jun) |  | 0.4% | 0.1% |
+| 15:00 | ZAR | CPI (MoM) (Jun) |  | 0.8% | 0.2% |
+| 16:00 | EUR | Core CPI (YoY) (Jun) |  | 5.4% | 5.3% |
+| 16:00 | EUR | CPI (MoM) (Jun) |  | 0.3% | 0.0% |
+| 17:15 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 19:30 | USD | Building Permits (MoM) (Jun) |  |  | 5.6% |
+| 19:30 | USD | Housing Starts (MoM) (Jun) |  | 7.2% | 21.7% |
+| 19:30 | USD | Housing Starts (Jun) |  | 1.480M | 1.631M |
+| 21:30 | USD | Cushing Crude Oil Inventories |  | -0.835M | -1.605M |
 | 23:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
