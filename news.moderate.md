@@ -3,8 +3,8 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | TIC Net Long-Term Transactions (May) | 25.8B | 110.2B | 127.8B |
 | 03:30 | USD | API Weekly Crude Oil Stock | -0.797M | -2.250M | 3.026M |
-| 05:45 | NZD | CPI (YoY) (Q2) | 6.0% | 5.9% | 6.7% |
 | 05:45 | NZD | CPI (QoQ) (Q2) | 1.1% | 1.0% | 1.2% |
+| 05:45 | NZD | CPI (YoY) (Q2) | 6.0% | 5.9% | 6.7% |
 | 13:00 | GBP | CPI (MoM) (Jun) | 0.1% | 0.4% | 0.7% |
 | 13:00 | GBP | PPI Input (MoM) (Jun) | -1.3% | -0.3% | -1.2% |
 | 15:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% | 0.5% | 0.1% |
