@@ -87,7 +87,7 @@ def send_telegram(message):
     chat_id = os.environ['TELEGRAM_CHANNEL_ID']
     
     telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
-    pin_message_url = f"https://api.telegram.org/bot{bot}/pinChatMessage"
+    pin_message_url = f"https://api.telegram.org/{bot}/pinChatMessage"
 
     params = {
         "chat_id": chat_id,
