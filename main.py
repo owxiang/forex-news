@@ -97,7 +97,7 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
     if response.status_code == 200:
-        message_id = response.json()["result"]["message"]["message_id"]
+        message_id = response.json()["result"]["message_id"]
         pin_params = {
             "chat_id": chat_id,
             "message_id": message_id,
