@@ -1,7 +1,6 @@
 ## 20 Jul 2023 - High Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | GBP | CPI (YoY) (Jun) | 7.9% | 8.2% | 8.7% |
-| 16:00 | EUR | CPI (YoY) (Jun) | 5.5% | 5.5% | 6.1% |
-| 19:30 | USD | Building Permits (Jun) | 1.440M | 1.490M | 1.496M |
-| 21:30 | USD | Crude Oil Inventories | -0.708M | -2.440M | 5.946M |
+| 19:30 | USD | Initial Jobless Claims |  | 242K | 237K |
+| 19:30 | USD | Philadelphia Fed Manufacturing Index (Jul) |  | -10.4 | -13.7 |
+| 21:00 | USD | Existing Home Sales (Jun) |  | 4.21M | 4.30M |

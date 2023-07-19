@@ -1,19 +1,19 @@
 ## 20 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | TIC Net Long-Term Transactions (May) | 25.8B | 110.2B | 127.8B |
-| 03:30 | USD | API Weekly Crude Oil Stock | -0.797M | -2.250M | 3.026M |
-| 05:45 | NZD | CPI (QoQ) (Q2) | 1.1% | 1.0% | 1.2% |
-| 05:45 | NZD | CPI (YoY) (Q2) | 6.0% | 5.9% | 6.7% |
-| 13:00 | GBP | CPI (MoM) (Jun) | 0.1% | 0.4% | 0.7% |
-| 13:00 | GBP | PPI Input (MoM) (Jun) | -1.3% | -0.3% | -1.2% |
-| 15:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% | 0.5% | 0.1% |
-| 15:00 | ZAR | CPI (MoM) (Jun) | 0.2% | 0.4% | 0.2% |
-| 16:00 | EUR | Core CPI (YoY) (Jun) | 5.5% | 5.4% | 5.3% |
-| 16:00 | EUR | CPI (MoM) (Jun) | 0.3% | 0.3% | 0.0% |
-| 17:15 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 19:30 | USD | Building Permits (MoM) (Jun) | -3.7% |  | 5.6% |
-| 19:30 | USD | Housing Starts (Jun) | 1.434M | 1.480M | 1.559M |
-| 19:30 | USD | Housing Starts (MoM) (Jun) | -8.0% | 7.2% | 15.7% |
-| 21:30 | USD | Cushing Crude Oil Inventories | -2.891M | -0.835M | -1.605M |
-| 23:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 00:00 | USD | 20-Year Bond Auction | 4.036% |  | 4.010% |
+| 06:50 | JPY | Adjusted Trade Balance |  | -0.90T | -0.78T |
+| 06:50 | JPY | Exports (YoY) (Jun) |  | 2.2% | 0.6% |
+| 06:50 | JPY | Trade Balance (Jun) |  | -46.7B | -1,372.5B |
+| 08:15 | CNY | PBoC Loan Prime Rate |  | 3.55% | 3.55% |
+| 08:30 | AUD | Employment Change (Jun) |  | 17.0K | 75.9K |
+| 08:30 | AUD | Full Employment Change (Jun) |  |  | 61.7K |
+| 08:30 | AUD | NAB Quarterly Business Confidence |  | 0 | -4 |
+| 08:30 | AUD | Unemployment Rate (Jun) |  | 3.6% | 3.6% |
+| 13:00 | EUR | German PPI (MoM) (Jun) |  | -0.4% | -1.4% |
+| 15:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.842% |
+| 19:00 | MXN | Retail Sales (MoM) (May) |  | 0.3% | 1.5% |
+| 19:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 19:30 | USD | Philly Fed Employment (Jul) |  | -4.5 | -0.4 |
+| 20:00 | ZAR | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
+| 21:00 | USD | Existing Home Sales (MoM) (Jun) |  |  | 0.2% |
