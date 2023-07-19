@@ -1,4 +1,4 @@
-## 19 Jul 2023 - Low Impact Forex News
+## 20 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | US Foreign Buying, T-bonds (May) | 37.50B | 47.00B | 92.20B |
@@ -11,8 +11,8 @@
 | 13:00 | GBP | Car Registration (YoY) (Jun) | 25.8% |  | 16.7% |
 | 13:00 | GBP | Core CPI (YoY) (Jun) | 6.9% | 7.1% | 7.1% |
 | 13:00 | GBP | Core CPI (MoM) (Jun) | 0.2% | 0.4% | 0.8% |
-| 13:00 | GBP | Core PPI Output (YoY) (Jun) | 3.0% | 2.8% | 3.9% |
 | 13:00 | GBP | Core PPI Output (MoM) (Jun) | -0.2% | -0.2% | -0.5% |
+| 13:00 | GBP | Core PPI Output (YoY) (Jun) | 3.0% | 2.8% | 3.9% |
 | 13:00 | GBP | Core RPI (YoY) (Jun) | 9.6% | 9.0% | 10.3% |
 | 13:00 | GBP | Core RPI (MoM) (Jun) | 0.2% | 1.5% | 0.7% |
 | 13:00 | GBP | CPI, n.s.a (Jun) | 131.50 |  | 131.30 |

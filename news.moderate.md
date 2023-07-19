@@ -1,4 +1,4 @@
-## 19 Jul 2023 - Moderate Impact Forex News
+## 20 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | TIC Net Long-Term Transactions (May) | 25.8B | 110.2B | 127.8B |
@@ -16,4 +16,4 @@
 | 19:30 | USD | Housing Starts (MoM) (Jun) | -8.0% | 7.2% | 15.7% |
 | 19:30 | USD | Housing Starts (Jun) | 1.434M | 1.480M | 1.559M |
 | 21:30 | USD | Cushing Crude Oil Inventories | -2.891M | -0.835M | -1.605M |
-| 54 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 23:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
