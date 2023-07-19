@@ -13,8 +13,8 @@
 | 13:00 | GBP | Core CPI (MoM) (Jun) | 0.2% | 0.4% | 0.8% |
 | 13:00 | GBP | Core PPI Output (YoY) (Jun) | 3.0% | 2.8% | 3.9% |
 | 13:00 | GBP | Core PPI Output (MoM) (Jun) | -0.2% | -0.2% | -0.5% |
-| 13:00 | GBP | Core RPI (MoM) (Jun) | 0.2% | 1.5% | 0.7% |
 | 13:00 | GBP | Core RPI (YoY) (Jun) | 9.6% | 9.0% | 10.3% |
+| 13:00 | GBP | Core RPI (MoM) (Jun) | 0.2% | 1.5% | 0.7% |
 | 13:00 | GBP | CPI, n.s.a (Jun) | 131.50 |  | 131.30 |
 | 13:00 | GBP | PPI Input (YoY) (Jun) | -2.7% | -1.6% | 0.4% |
 | 13:00 | GBP | PPI Output (YoY) (Jun) | 0.1% | 0.5% | 2.7% |
@@ -25,19 +25,19 @@
 | 13:00 | EUR | Italian Car Registration (MoM) (Jun) | -7.0% |  | 18.7% |
 | 13:00 | EUR | German Car Registration (YoY) (Jun) | 24.8% |  | 19.2% |
 | 13:00 | EUR | German Car Registration (MoM) (Jun) | 13.4% |  | 21.7% |
-| 13:00 | EUR | French Car Registration (YoY) (Jun) | 11.5% |  | 14.8% |
 | 13:00 | EUR | French Car Registration (MoM) (Jun) | 31.1% |  | 9.8% |
+| 13:00 | EUR | French Car Registration (YoY) (Jun) | 11.5% |  | 14.8% |
 | 14:10 | CNY | FDI (Jun) | -2.70% |  | 0.10% |
 | 15:00 | ZAR | Core CPI (YoY) (Jun) | 5.0% | 5.1% | 5.2% |
 | 15:00 | ZAR | CPI (YoY) (Jun) | 5.4% | 5.6% | 6.3% |
-| 20 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.932% |
-| 20 min | EUR | Construction Output (MoM) (May) |  |  | -0.44% |
-| 20 min | EUR | Core CPI (MoM) (Jun) |  | 0.3% | 0.2% |
-| 20 min | EUR | CPI ex Tobacco (YoY) (Jun) |  | 4.9% | 6.1% |
-| 20 min | EUR | CPI ex Tobacco (MoM) (Jun) |  | -0.5% | 0.0% |
-| 20 min | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 6.8% | 6.9% |
-| 20 min | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.4% | 0.3% |
-| 50 min | EUR | German 30-Year Bund Auction |  |  | 2.360% |
+| 16:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.932% |
+| 16:00 | EUR | Construction Output (MoM) (May) |  |  | -0.44% |
+| 16:00 | EUR | Core CPI (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
+| 16:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.2% | -0.5% | 0.0% |
+| 16:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 5.5% | 4.9% | 6.1% |
+| 16:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 6.8% | 6.8% | 6.9% |
+| 16:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.4% | 0.4% | 0.3% |
+| 30 min | EUR | German 30-Year Bund Auction |  |  | 2.360% |
 | 18:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.07% |
 | 18:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.9% |
 | 18:00 | USD | MBA Purchase Index |  |  | 165.3 |
