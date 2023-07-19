@@ -87,6 +87,8 @@ def send_telegram(message):
     chat_id = os.environ['TELEGRAM_CHANNEL_ID']
     
     telegram_url = f"https://api.telegram.org/{bot}/sendMessage"
+    pin_message_url = f"https://api.telegram.org/bot{bot}/pinChatMessage"
+
     params = {
         "chat_id": chat_id,
         "text": message+  "[forex-news](https://github.com/owxiang/forex-news)",
@@ -95,8 +97,6 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
     if response.status_code == 200:
-        print("Telegram message sent successfully!")
-        
         message_id = response.json()["result"]["message_id"]
         pin_params = {
             "chat_id": chat_id,
