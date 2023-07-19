@@ -96,6 +96,19 @@ def send_telegram(message):
     response = requests.get(telegram_url, params=params)
     if response.status_code == 200:
         print("Telegram message sent successfully!")
+        
+        message_id = response.json()["result"]["message_id"]
+        pin_params = {
+            "chat_id": chat_id,
+            "message_id": message_id,
+            "disable_notification": True
+        }
+        pin_response = requests.get(pin_message_url, params=pin_params)
+        
+        if pin_response.status_code == 200:
+            print("Telegram message sent and pinned successfully!")
+        else:
+            print(f"Telegram message sent successfully but failed to pin. Status code: {pin_response.status_code}. Error message: {pin_response.text}")
     else:
         print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
     
