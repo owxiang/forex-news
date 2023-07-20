@@ -2,7 +2,7 @@ name: Forex Event Scraper
 
 on:
   schedule:
-    - cron: '0 21,15 * * *'  # Run at 5 AM and 11 PM GMT+8 (21:00 and 15:00 UTC)
+    - cron: '0 * * * *' 
   workflow_dispatch:
 jobs:
   run:
