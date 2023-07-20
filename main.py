@@ -146,7 +146,6 @@ def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, tabl
         if content == table_header_for_all or content == table_header_for_the_rest:
             content = no_news_messages[filename]
         with open(filename, 'w') as file:
-            #file.write(content)
-            file.write(f"##{formatted_date}"+content)
+            file.write(content)
 
 scrape_forex_events()
