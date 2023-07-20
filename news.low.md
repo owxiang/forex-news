@@ -4,8 +4,8 @@
 | 00:30 | BRL | Foreign Exchange Flows | 3.170B |  | 0.706B |
 | 06:50 | JPY | Imports (YoY) (Jun) | -12.9% | -11.3% | -9.8% |
 | 08:30 | AUD | Participation Rate (Jun) | 66.8% | 66.9% | 66.9% |
-| 47 min | CHF | Trade Balance (Jun) |  | 4.031B | 5.479B |
-| 47 min | EUR | German PPI (YoY) (Jun) |  | 0.0% | 1.0% |
+| 27 min | CHF | Trade Balance (Jun) |  | 4.031B | 5.479B |
+| 27 min | EUR | German PPI (YoY) (Jun) |  | 0.0% | 1.0% |
 | 13:45 | EUR | French Business Survey (Jul) |  | 100 | 101 |
 | 15:00 | EUR | Spanish Trade Balance |  | -6.99B | -4.38B |
 | 15:00 | EUR | Current Account (May) |  |  | 4.0B |
