@@ -34,10 +34,10 @@ jobs:
 
       - name: Retrieve table content
         run: |
-          cat table_for_all_md.txt >> news.all.md
-          cat table_for_high_md.txt >> news.high.md
-          cat table_for_moderate_md.txt >> news.moderate.md
-          cat table_for_low_md.txt >> news.low.md
+          cat table_for_all_md.txt > news.all.md
+          cat table_for_high_md.txt > news.high.md
+          cat table_for_moderate_md.txt > news.moderate.md
+          cat table_for_low_md.txt > news.low.md
           
       - name: Commit and push changes
         env:
