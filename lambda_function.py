@@ -51,11 +51,14 @@ def lambda_handler(event, context):
                     'timestamp': datetime.datetime.now().isoformat(),
                 }
             )
-
-        # Send post-event message 5 minutes after the event
-        if time_difference.total_seconds() < -300:
+            
+        # Get the item from DynamoDB
+        item = table.get_item(Key={'event': row['Event']}).get('Item', {})
+        
+        # Send post-event message after the event
+        if row['Actual'] and item:
             message = f"Event: {row['Event']}\nCurrency: {row['Currency']}\nActual: {row['Actual']}\nForecast: {row['Forecast']}\nPrevious: {row['Previous']}"
-            message_id = table.get_item(Key={'event': row['Event']}).get('Item', {}).get('message_id')
+            message_id = item.get('message_id')
             if message_id:
                 send_telegram_message(bot_token, chat_id, message, reply_to_message_id=int(message_id))
                 
