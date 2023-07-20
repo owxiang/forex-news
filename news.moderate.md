@@ -10,10 +10,10 @@
 | 08:30 | AUD | Full Employment Change (Jun) | 39.3K |  | 61.7K |
 | 08:30 | AUD | NAB Quarterly Business Confidence | -3 | 0 | -4 |
 | 08:30 | AUD | Unemployment Rate (Jun) | 3.5% | 3.6% | 3.5% |
-| 23 min | EUR | German PPI (MoM) (Jun) |  | -0.4% | -1.4% |
-| 15:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.842% |
-| 19:00 | MXN | Retail Sales (MoM) (May) |  | 0.3% | 1.5% |
+| 13:00 | EUR | German PPI (MoM) (Jun) | -0.3% | -0.4% | -1.4% |
+| 15:50 | EUR | Spanish 15-Year Obligacion Auction | 3.726% |  | 3.842% |
+| 19:00 | MXN | Retail Sales (MoM) (May) | -0.5% | 0.3% | 1.5% |
 | 19:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 19:30 | USD | Philly Fed Employment (Jul) |  | -4.5 | -0.4 |
-| 20:00 | ZAR | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
-| 21:00 | USD | Existing Home Sales (MoM) (Jun) |  |  | 0.2% |
+| 19:30 | USD | Philly Fed Employment (Jul) | -1.0 | -4.5 | -0.4 |
+| 20:00 | ZAR | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
+| 21:00 | USD | Existing Home Sales (MoM) (Jun) | -3.3% |  | 0.2% |
