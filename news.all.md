@@ -16,8 +16,8 @@
 | 06:50 | JPY | Moderate | National CPI (MoM) |  |  | 0.6% |
 | 07:30 | SGD | Low | URA Property Index (QoQ) |  | -0.40% | 3.30% |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) |  | 9.9% | 3.3% |
-| 13:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | -1.6% | -1.7% |
 | 13:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.1% | 0.1% |
+| 13:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | -1.6% | -1.7% |
 | 13:00 | GBP | Low | Public Sector Net Borrowing (Jun) |  | 27.52B | 19.22B |
 | 13:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) |  | 4.602B | 4.132B |
 | 13:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | -1.5% | -2.1% |
