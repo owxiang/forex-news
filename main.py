@@ -76,6 +76,11 @@ def scrape_forex_events():
     else:
         message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
         
+    now = datetime.now(pytz.timezone('Asia/Singapore')) # 'Asia/Singapore' is in the GMT+8 timezone
+    current_hour = now.hour
+    print(current_hour)
+    # if current_hour == 5:
+    #     send_telegram(message)
     send_telegram(message)
 
     # Close the WebDriver
