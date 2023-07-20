@@ -7,13 +7,13 @@
 | 03:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.221T |  | 3.162T |
 | 04:00 | KRW | Low | PPI (MoM) (Jun) | -0.2% | -0.3% | 0.1% |
 | 04:00 | KRW | Low | PPI (YoY) (Jun) | -0.2% | 0.1% | 3.3% |
-| 45 min | GBP | Low | GfK Consumer Confidence (Jul) |  | -26 | -24 |
-| 06:30 | JPY | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.0% |
-| 06:30 | JPY | Moderate | National Core CPI (YoY) (Jun) |  | 3.3% | 3.2% |
-| 06:30 | JPY | Low | National CPI (YoY) (Jun) |  | 3.5% | 3.2% |
-| 06:50 | JPY | Low | Foreign Bonds Buying |  |  | -950.5B |
-| 06:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 181.7B |
-| 06:50 | JPY | Moderate | National CPI (MoM) |  |  | 0.6% |
+| 06:01 | GBP | Low | GfK Consumer Confidence (Jul) | -30 | -26 | -24 |
+| 14 min | JPY | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.0% |
+| 14 min | JPY | Moderate | National Core CPI (YoY) (Jun) |  | 3.3% | 3.2% |
+| 14 min | JPY | Low | National CPI (YoY) (Jun) |  | 3.5% | 3.2% |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -950.5B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 181.7B |
+| 34 min | JPY | Moderate | National CPI (MoM) |  |  | 0.6% |
 | 07:30 | SGD | Low | URA Property Index (QoQ) |  | -0.40% | 3.30% |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) |  | 9.9% | 3.3% |
 | 13:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.1% | 0.1% |

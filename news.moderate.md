@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:30 | USD | Fed's Balance Sheet | 8,275B |  | 8,297B |
-| 06:30 | JPY | National Core CPI (YoY) (Jun) |  | 3.3% | 3.2% |
-| 06:50 | JPY | National CPI (MoM) |  |  | 0.6% |
+| 14 min | JPY | National Core CPI (YoY) (Jun) |  | 3.3% | 3.2% |
+| 34 min | JPY | National CPI (MoM) |  |  | 0.6% |
 | 13:00 | GBP | Core Retail Sales (MoM) (Jun) |  | 0.1% | 0.1% |
 | 13:00 | GBP | Core Retail Sales (YoY) (Jun) |  | -1.6% | -1.7% |
 | 13:00 | GBP | Retail Sales (MoM) (Jun) |  | 0.2% | 0.3% |
