@@ -38,6 +38,18 @@ def scrape_forex_events():
     # Wait for the table to load (adjust the wait time as needed)
     driver.implicitly_wait(10)
 
+    # Find the date element
+    date_element = driver.find_element(By.CLASS_NAME, 'theDay')
+    
+    # Extract the date
+    date_str = date_element.text.strip()
+    
+    # Convert the string to a datetime object
+    date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
+    
+    # Format the datetime object as a string in the desired format
+    formatted_date = date_obj.strftime("%d %B %Y")
+
     # Find the table element
     table = driver.find_element(By.ID, 'ecEventsTable')
 
@@ -70,7 +82,7 @@ def scrape_forex_events():
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
         
-    write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest)
+    write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest,formatted_date)
 
     if not high_events:
         message = f"There is no high impact news today.\n\n"
@@ -115,7 +127,7 @@ def send_telegram(message):
     else:
         print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
     
-def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, table_for_low_md, table_header_for_all, table_header_for_the_rest):
+def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, table_for_low_md, table_header_for_all, table_header_for_the_rest, formatted_date):
     table_content = {
         'table_for_all_md.txt': table_for_all_md,
         'table_for_high_md.txt': table_for_high_md,
@@ -134,7 +146,7 @@ def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, tabl
         if content == table_header_for_all or content == table_header_for_the_rest:
             content = no_news_messages[filename]
         with open(filename, 'w') as file:
-            file.write(content)
+            #file.write(content)
+            file.write(f"##{formatted_date}"+content)
 
-        
 scrape_forex_events()
