@@ -135,6 +135,13 @@ def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, tabl
         'table_for_low_md.txt': table_for_low_md
     }
 
+    headers = {
+        'table_for_all_md.txt': f"## {formatted_date} - All Forex News",
+        'table_for_high_md.txt': f"## {formatted_date} - High Impact Forex News",
+        'table_for_moderate_md.txt': f"## {formatted_date} - Moderate Impact Forex News",
+        'table_for_low_md.txt': f"## {formatted_date} - Low Impact Forex News"
+    }
+
     no_news_messages = {
         'table_for_all_md.txt': "There is no news today.",
         'table_for_high_md.txt': "There is no high impact news today.",
@@ -145,7 +152,12 @@ def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, tabl
     for filename, content in table_content.items():
         if content == table_header_for_all or content == table_header_for_the_rest:
             content = no_news_messages[filename]
+        
+        # Add formatted_date to the content
+        content = f"{headers[filename]}\n\n{content}"
+        
         with open(filename, 'w') as file:
             file.write(content)
+
 
 scrape_forex_events()
