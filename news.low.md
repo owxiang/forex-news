@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | 10-Year TIPS Auction | 1.495% |  | 1.395% |
-| 03:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.162T |
-| 04:00 | KRW | PPI (MoM) (Jun) |  | -0.3% | -0.3% |
-| 04:00 | KRW | PPI (YoY) (Jun) |  | 0.1% | 0.6% |
+| 12 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.162T |
+| 42 min | KRW | PPI (MoM) (Jun) |  | -0.3% | -0.3% |
+| 42 min | KRW | PPI (YoY) (Jun) |  | 0.1% | 0.6% |
 | 06:01 | GBP | GfK Consumer Confidence (Jul) |  | -26 | -24 |
 | 06:30 | JPY | CPI, n.s.a (MoM) (Jun) |  |  | 0.0% |
 | 06:30 | JPY | National CPI (YoY) (Jun) |  | 3.5% | 3.2% |
