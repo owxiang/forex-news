@@ -13,9 +13,9 @@
 | 08:30 | AUD | Moderate | NAB Quarterly Business Confidence | -3 | 0 | -4 |
 | 08:30 | AUD | Low | Participation Rate (Jun) | 66.8% | 66.9% | 66.9% |
 | 08:30 | AUD | Moderate | Unemployment Rate (Jun) | 3.5% | 3.6% | 3.5% |
-| 27 min | CHF | Low | Trade Balance (Jun) |  | 4.031B | 5.479B |
-| 27 min | EUR | Low | German PPI (YoY) (Jun) |  | 0.0% | 1.0% |
-| 27 min | EUR | Moderate | German PPI (MoM) (Jun) |  | -0.4% | -1.4% |
+| 23 min | CHF | Low | Trade Balance (Jun) |  | 4.031B | 5.479B |
+| 23 min | EUR | Low | German PPI (YoY) (Jun) |  | 0.0% | 1.0% |
+| 23 min | EUR | Moderate | German PPI (MoM) (Jun) |  | -0.4% | -1.4% |
 | 13:45 | EUR | Low | French Business Survey (Jul) |  | 100 | 101 |
 | 15:00 | EUR | Low | Spanish Trade Balance |  | -6.99B | -4.38B |
 | 15:00 | EUR | Low | Current Account (May) |  |  | 4.0B |
@@ -25,8 +25,8 @@
 | 15:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.842% |
 | 15:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.246% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  | 1.948B | 0.706B |
-| 19:00 | MXN | Moderate | Retail Sales (MoM) (May) |  | 0.3% | 1.5% |
 | 19:00 | MXN | Low | Retail Sales (YoY) (May) |  | 3.5% | 3.8% |
+| 19:00 | MXN | Moderate | Retail Sales (MoM) (May) |  | 0.3% | 1.5% |
 | 19:00 | BRL | Moderate | BCB National Monetary Council Meeting |  |  |  |
 | 19:30 | USD | Low | Continuing Jobless Claims |  | 1,729K | 1,729K |
 | 19:30 | USD | High | Initial Jobless Claims |  | 242K | 237K |
@@ -39,8 +39,8 @@
 | 19:30 | USD | Low | Philly Fed Prices Paid (Jul) |  | 10.70 | 10.50 |
 | 20:00 | ZAR | Moderate | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
 | 20:00 | ZAR | Low | Prime Rate (Jul) |  |  | 11.80% |
-| 21:00 | USD | High | Existing Home Sales (Jun) |  | 4.20M | 4.30M |
 | 21:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | 0.2% |
+| 21:00 | USD | High | Existing Home Sales (Jun) |  | 4.20M | 4.30M |
 | 21:00 | USD | Low | US Leading Index (MoM) (Jun) |  | -0.6% | -0.7% |
 | 21:00 | EUR | Low | Consumer Confidence (Jul) |  | -16.0 | -16.1 |
 | 21:30 | USD | Low | Natural Gas Storage |  | 40B | 49B |

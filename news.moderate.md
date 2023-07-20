@@ -10,7 +10,7 @@
 | 08:30 | AUD | Full Employment Change (Jun) | 39.3K |  | 61.7K |
 | 08:30 | AUD | NAB Quarterly Business Confidence | -3 | 0 | -4 |
 | 08:30 | AUD | Unemployment Rate (Jun) | 3.5% | 3.6% | 3.5% |
-| 27 min | EUR | German PPI (MoM) (Jun) |  | -0.4% | -1.4% |
+| 23 min | EUR | German PPI (MoM) (Jun) |  | -0.4% | -1.4% |
 | 15:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.842% |
 | 19:00 | MXN | Retail Sales (MoM) (May) |  | 0.3% | 1.5% |
 | 19:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
