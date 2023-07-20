@@ -1,4 +1,4 @@
-## 20 Jul 2023 - Moderate Impact Forex News
+## 21 Jul 2023 - Moderate Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | 20-Year Bond Auction | 4.036% |  | 4.010% |

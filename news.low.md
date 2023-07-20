@@ -1,4 +1,4 @@
-## 20 Jul 2023 - Low Impact Forex News
+## 21 Jul 2023 - Low Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | BRL | Foreign Exchange Flows | 3.170B | 1.948B | 0.706B |
@@ -24,5 +24,5 @@
 | 21:00 | USD | US Leading Index (MoM) (Jun) | -0.7% | -0.6% | -0.6% |
 | 21:00 | EUR | Consumer Confidence (Jul) | -15.1 | -16.0 | -16.1 |
 | 21:30 | USD | Natural Gas Storage | 41B | 40B | 49B |
-| 19 min | USD | 4-Week Bill Auction |  |  | 5.210% |
-| 19 min | USD | 8-Week Bill Auction |  |  | 5.230% |
+| 22:30 | USD | 4-Week Bill Auction | 5.255% |  | 5.210% |
+| 22:30 | USD | 8-Week Bill Auction | 5.255% |  | 5.230% |

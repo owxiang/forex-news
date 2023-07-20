@@ -1,4 +1,4 @@
-## 20 Jul 2023 - All Forex News
+## 21 Jul 2023 - All Forex News
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | 20-Year Bond Auction | 4.036% |  | 4.010% |
@@ -24,8 +24,8 @@
 | 15:30 | HKD | Low | CPI (YoY) (Jun) | 1.90% | 1.90% | 2.00% |
 | 15:50 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.726% |  | 3.842% |
 | 15:50 | EUR | Low | Spanish 3-Year Bonos Auction | 3.303% |  | 3.246% |
-| 19:00 | MXN | Moderate | Retail Sales (MoM) (May) | -0.5% | 0.3% | 1.5% |
 | 19:00 | MXN | Low | Retail Sales (YoY) (May) | 2.6% | 3.5% | 3.8% |
+| 19:00 | MXN | Moderate | Retail Sales (MoM) (May) | -0.5% | 0.3% | 1.5% |
 | 19:00 | BRL | Moderate | BCB National Monetary Council Meeting |  |  |  |
 | 19:30 | USD | Low | Continuing Jobless Claims | 1,754K | 1,729K | 1,721K |
 | 19:30 | USD | High | Initial Jobless Claims | 228K | 242K | 237K |
@@ -38,10 +38,10 @@
 | 19:30 | USD | Low | Philly Fed Prices Paid (Jul) | 9.50 | 10.70 | 10.50 |
 | 20:00 | ZAR | Moderate | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
 | 20:00 | ZAR | Low | Prime Rate (Jul) | 11.75% |  | 11.75% |
-| 21:00 | USD | High | Existing Home Sales (Jun) | 4.16M | 4.20M | 4.30M |
 | 21:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) | -3.3% |  | 0.2% |
+| 21:00 | USD | High | Existing Home Sales (Jun) | 4.16M | 4.20M | 4.30M |
 | 21:00 | USD | Low | US Leading Index (MoM) (Jun) | -0.7% | -0.6% | -0.6% |
 | 21:00 | EUR | Low | Consumer Confidence (Jul) | -15.1 | -16.0 | -16.1 |
 | 21:30 | USD | Low | Natural Gas Storage | 41B | 40B | 49B |
-| 19 min | USD | Low | 4-Week Bill Auction |  |  | 5.210% |
-| 19 min | USD | Low | 8-Week Bill Auction |  |  | 5.230% |
+| 22:30 | USD | Low | 4-Week Bill Auction | 5.255% |  | 5.210% |
+| 22:30 | USD | Low | 8-Week Bill Auction | 5.255% |  | 5.230% |

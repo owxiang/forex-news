@@ -1,4 +1,4 @@
-## 20 Jul 2023 - High Impact Forex News
+## 21 Jul 2023 - High Impact Forex News
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 19:30 | USD | Initial Jobless Claims | 228K | 242K | 237K |
