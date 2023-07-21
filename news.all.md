@@ -25,4 +25,3 @@
 | 19:30 | CAD | Moderate | Core Retail Sales (MoM) (May) | 0.0% | 0.3% | 1.2% |
 | 19:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) | 0.1% | 0.0% | 0.1% |
 | 19:30 | CAD | Moderate | Retail Sales (MoM) (May) | 0.2% | 0.5% | 1.0% |
-| Tentative | BRL | Low | Federal Tax Revenue |  |  | 176.81B |

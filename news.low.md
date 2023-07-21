@@ -16,4 +16,3 @@
 | 13:00 | GBP | Public Sector Net Cash Requirement (Jun) | 11.976B | 4.602B | 3.673B |
 | 17:00 | EUR | Spanish Consumer Confidence | 92.4 | 79.4 | 81.5 |
 | 18:30 | INR | FX Reserves, USD | 609.02B | 596.81B | 596.28B |
-| Tentative | BRL | Federal Tax Revenue |  |  | 176.81B |
