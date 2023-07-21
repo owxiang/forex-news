@@ -18,8 +18,8 @@
 | 13:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.9% | -1.6% | -1.9% |
 | 13:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 17.67B | 27.52B | 15.78B |
 | 13:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | 11.976B | 4.602B | 3.673B |
-| 13:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | -1.0% | -1.5% | -2.3% |
 | 13:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | 0.7% | 0.2% | 0.1% |
+| 13:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | -1.0% | -1.5% | -2.3% |
 | 17:00 | EUR | Low | Spanish Consumer Confidence | 92.4 | 79.4 | 81.5 |
 | 18:30 | INR | Low | FX Reserves, USD | 609.02B | 596.81B | 596.28B |
 | 19:30 | CAD | Moderate | Core Retail Sales (MoM) (May) | 0.0% | 0.3% | 1.2% |
