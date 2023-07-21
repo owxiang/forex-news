@@ -6,8 +6,8 @@
 | 06:30 | JPY | National Core CPI (YoY) (Jun) | 3.3% | 3.3% | 3.2% |
 | 13:00 | GBP | Core Retail Sales (YoY) (Jun) | -0.9% | -1.6% | -1.9% |
 | 13:00 | GBP | Core Retail Sales (MoM) (Jun) | 0.8% | 0.2% | 0.1% |
-| 13:00 | GBP | Retail Sales (YoY) (Jun) | -1.0% | -1.5% | -2.3% |
 | 13:00 | GBP | Retail Sales (MoM) (Jun) | 0.7% | 0.2% | 0.1% |
+| 13:00 | GBP | Retail Sales (YoY) (Jun) | -1.0% | -1.5% | -2.3% |
 | 19:30 | CAD | Core Retail Sales (MoM) (May) |  | 0.3% | 1.3% |
 | 19:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 19:30 | CAD | New Housing Price Index (MoM) (Jun) |  | 0.0% | 0.1% |
