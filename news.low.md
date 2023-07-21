@@ -11,8 +11,6 @@
 | 06:30 | JPY | National CPI (YoY) (Jun) | 3.3% | 3.5% | 3.2% |
 | 06:50 | JPY | Foreign Bonds Buying | -77.4B |  | -956.0B |
 | 06:50 | JPY | Foreign Investments in Japanese Stocks | 238.6B |  | 181.7B |
-| 24 min | SGD | URA Property Index (QoQ) |  | -0.40% | 3.30% |
-| 24 min | NZD | Credit Card Spending (YoY) |  | 9.9% | 3.3% |
 | 13:00 | GBP | Public Sector Net Borrowing (Jun) |  | 27.52B | 19.22B |
 | 13:00 | GBP | Public Sector Net Cash Requirement (Jun) |  | 4.602B | 4.132B |
 | Tentative | EUR | Spanish Consumer Confidence |  | 79.4 | 81.5 |
