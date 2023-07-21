@@ -12,8 +12,8 @@
 | 06:50 | JPY | Foreign Bonds Buying | -77.4B |  | -956.0B |
 | 06:50 | JPY | Foreign Investments in Japanese Stocks | 238.6B |  | 181.7B |
 | 11:00 | IDR | Foreign Direct Investment (YoY) (Q2) | 14.20% |  | 20.20% |
-| 43 min | GBP | Public Sector Net Borrowing (Jun) |  | 27.52B | 19.22B |
-| 43 min | GBP | Public Sector Net Cash Requirement (Jun) |  | 4.602B | 4.132B |
+| 13:00 | GBP | Public Sector Net Borrowing (Jun) | 17.67B | 27.52B | 15.78B |
+| 13:00 | GBP | Public Sector Net Cash Requirement (Jun) | 11.976B | 4.602B | 3.673B |
 | Tentative | EUR | Spanish Consumer Confidence |  | 79.4 | 81.5 |
 | 18:30 | INR | FX Reserves, USD |  | 596.81B | 596.28B |
 | Tentative | BRL | Federal Tax Revenue |  |  | 176.81B |

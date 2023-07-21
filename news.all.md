@@ -14,12 +14,12 @@
 | 06:50 | JPY | Low | Foreign Bonds Buying | -77.4B |  | -956.0B |
 | 06:50 | JPY | Low | Foreign Investments in Japanese Stocks | 238.6B |  | 181.7B |
 | 11:00 | IDR | Low | Foreign Direct Investment (YoY) (Q2) | 14.20% |  | 20.20% |
-| 43 min | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.2% | 0.1% |
-| 43 min | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | -1.6% | -1.7% |
-| 43 min | GBP | Low | Public Sector Net Borrowing (Jun) |  | 27.52B | 19.22B |
-| 43 min | GBP | Low | Public Sector Net Cash Requirement (Jun) |  | 4.602B | 4.132B |
-| 43 min | GBP | Moderate | Retail Sales (YoY) (Jun) |  | -1.5% | -2.1% |
-| 43 min | GBP | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.3% |
+| 13:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) | 0.8% | 0.2% | 0.1% |
+| 13:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.9% | -1.6% | -1.9% |
+| 13:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 17.67B | 27.52B | 15.78B |
+| 13:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | 11.976B | 4.602B | 3.673B |
+| 13:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | 0.7% | 0.2% | 0.1% |
+| 13:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | -1.0% | -1.5% | -2.3% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 79.4 | 81.5 |
 | 18:30 | INR | Low | FX Reserves, USD |  | 596.81B | 596.28B |
 | 19:30 | CAD | Moderate | Core Retail Sales (MoM) (May) |  | 0.3% | 1.3% |
