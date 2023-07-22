@@ -1,15 +1,18 @@
-## 22 July 2023 - Moderate Impact Forex News
+## 24 July 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | U.S. Baker Hughes Oil Rig Count | 530 |  | 537 |
-| 00:00 | USD | U.S. Baker Hughes Total Rig Count | 669 |  | 675 |
-| 03:30 | GBP | CFTC GBP speculative net positions | 63.7K |  | 58.1K |
-| 03:30 | USD | CFTC Crude Oil speculative net positions | 206.1K |  | 173.4K |
-| 03:30 | USD | CFTC Gold speculative net positions | 193.3K |  | 165.8K |
-| 03:30 | USD | CFTC Nasdaq 100 speculative net positions | 1.2K |  | 10.9K |
-| 03:30 | USD | CFTC S&P 500 speculative net positions | -263.7K |  | -209.0K |
-| 03:30 | AUD | CFTC AUD speculative net positions | -50.4K |  | -45.1K |
-| 03:30 | BRL | CFTC BRL speculative net positions | 33.9K |  | 33.2K |
-| 03:30 | JPY | CFTC JPY speculative net positions | -90.2K |  | -117.2K |
-| 03:30 | EUR | CFTC EUR speculative net positions | 178.8K |  | 140.2K |
+| 07:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 54.0 |
+| 12:00 | SGD | Core CPI (YoY) (Jun) |  | 4.20% | 4.70% |
+| 12:00 | SGD | CPI (YoY) (Jun) |  | 4.6% | 5.1% |
+| 14:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 45.9 | 46.0 |
+| 14:15 | EUR | HCOB France Services PMI (Jul) |  | 48.2 | 48.0 |
+| 14:30 | EUR | HCOB Germany Services PMI (Jul) |  | 53.3 | 54.1 |
+| 15:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 43.3 | 43.4 |
+| 15:00 | EUR | S&P Global Composite PMI (Jul) |  | 49.6 | 49.9 |
+| 15:00 | EUR | HCOB Eurozone Services PMI (Jul) |  | 51.4 | 52.0 |
+| 15:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 52.2 | 52.8 |
+| 15:30 | GBP | S&P Global/CIPS UK Services PMI |  | 53.0 | 53.7 |
+| 18:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:45 | USD | S&P Global US Manufacturing PMI (Jul) |  |  | 46.3 |
+| 20:45 | USD | S&P Global Composite PMI (Jul) |  |  | 53.2 |

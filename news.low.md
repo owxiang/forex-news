@@ -1,15 +1,24 @@
-## 22 July 2023 - Low Impact Forex News
+## 24 July 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | USD | CFTC Aluminium speculative net positions | 6.4K |  | 6.2K |
-| 03:30 | USD | CFTC Copper speculative net positions | -3.5K |  | -11.2K |
-| 03:30 | USD | CFTC Corn speculative net positions | 19.9K |  | 7.8K |
-| 03:30 | USD | CFTC Natural Gas speculative net positions | -95.8K |  | -86.8K |
-| 03:30 | USD | CFTC Silver speculative net positions | 43.9K |  | 20.3K |
-| 03:30 | USD | CFTC Soybeans speculative net positions | 107.3K |  | 90.9K |
-| 03:30 | USD | CFTC Wheat speculative net positions | -38.7K |  | -40.4K |
-| 03:30 | CAD | CFTC CAD speculative net positions | 0.5K |  | 4.4K |
-| 03:30 | MXN | CFTC MXN speculative net positions | 94.5K |  | 96.2K |
-| 03:30 | CHF | CFTC CHF speculative net positions | -10.2K |  | -7.9K |
-| 03:30 | NZD | CFTC NZD speculative net positions | -3.6K |  | -1.3K |
+| 05:45 | NZD | Exports (Jun) |  |  | 6.99B |
+| 05:45 | NZD | Imports (Jun) |  |  | 6.95B |
+| 05:45 | NZD | Trade Balance (YoY) (Jun) |  |  | -17,120M |
+| 05:45 | NZD | Trade Balance (MoM) (Jun) |  |  | 46M |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
+| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 50.3 |
+| 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.8 | 49.8 |
+| 10:00 | NZD | Credit Card Spending (YoY) |  | 9.9% | 3.3% |
+| 12:00 | SGD | CPI (MoM) (Jun) |  |  | 0.30% |
+| 14:00 | EUR | Spanish PPI (YoY) |  |  | -6.9% |
+| 14:15 | EUR | HCOB France Composite PMI (Jul) |  | 47.2 | 47.2 |
+| 14:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 49.3 | 50.6 |
+| 19:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.11% |
+| 19:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.33% | 0.02% |
+| 19:30 | USD | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
+| 19:55 | EUR | French 12-Month BTF Auction |  |  | 3.759% |
+| 19:55 | EUR | French 3-Month BTF Auction |  |  | 3.584% |
+| 19:55 | EUR | French 6-Month BTF Auction |  |  | 3.671% |
+| 22:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 22:30 | USD | 6-Month Bill Auction |  |  | 5.250% |
