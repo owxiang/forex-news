@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Exports (Jun) |  |  | 6.99B |
 | 05:45 | NZD | Imports (Jun) |  |  | 6.95B |
-| 05:45 | NZD | Trade Balance (YoY) (Jun) |  |  | -17,120M |
 | 05:45 | NZD | Trade Balance (MoM) (Jun) |  |  | 46M |
+| 05:45 | NZD | Trade Balance (YoY) (Jun) |  |  | -17,120M |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 50.3 |
 | 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.8 | 49.8 |

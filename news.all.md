@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:45 | NZD | Low | Exports (Jun) |  |  | 6.99B |
 | 05:45 | NZD | Low | Imports (Jun) |  |  | 6.95B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -17,120M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Jun) |  |  | 46M |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -17,120M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 50.3 |
 | 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.8 | 49.8 |
@@ -31,11 +31,12 @@
 | 19:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.11% |
 | 19:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.33% | 0.02% |
 | 19:30 | USD | Low | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
+| 19:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 3.5% |
 | 19:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.759% |
 | 19:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.584% |
 | 19:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
-| 20:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) |  |  | 46.3 |
+| 20:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) |  | 46.4 | 46.3 |
 | 20:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  |  | 53.2 |
-| 20:45 | USD | High | S&P Global US Services PMI (Jul) |  |  | 54.4 |
+| 20:45 | USD | High | S&P Global US Services PMI (Jul) |  | 54.0 | 54.4 |
 | 22:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 22:30 | USD | Low | 6-Month Bill Auction |  |  | 5.250% |
