@@ -1,4 +1,4 @@
-## xx July 2023 - All Forex News
+## 22 July 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
