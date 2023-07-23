@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:45 | NZD | Low | Exports (Jun) |  |  | 6.99B |
-| 05:45 | NZD | Low | Imports (Jun) |  |  | 6.95B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -17,120M |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Jun) |  | 235M | 46M |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 50.3 |
+| 30 min | NZD | Low | Exports (Jun) |  |  | 6.99B |
+| 30 min | NZD | Low | Imports (Jun) |  |  | 6.95B |
+| 30 min | NZD | Low | Trade Balance (MoM) (Jun) |  | 235M | 46M |
+| 30 min | NZD | Low | Trade Balance (YoY) (Jun) |  |  | -17,120M |
+| 45 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
+| 45 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 50.3 |
 | 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.8 | 49.8 |
 | 07:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.0 |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) |  | 9.9% | 3.3% |
