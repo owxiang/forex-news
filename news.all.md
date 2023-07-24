@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:45 | NZD | Low | Exports (Jun) | 6.31B |  | 6.97B |
 | 05:45 | NZD | Low | Imports (Jun) | 6.30B |  | 6.91B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.6 |  | 48.2 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
 | 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
@@ -38,5 +38,5 @@
 | 20:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) | 49.0 | 46.4 | 46.3 |
 | 20:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 52.0 | 53.1 | 53.2 |
 | 20:45 | USD | High | S&P Global US Services PMI (Jul) | 52.4 | 54.0 | 54.4 |
-| 22:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 22:30 | USD | Low | 6-Month Bill Auction |  |  | 5.250% |
+| 29 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
+| 29 min | USD | Low | 6-Month Bill Auction |  |  | 5.250% |

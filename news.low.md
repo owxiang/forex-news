@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Exports (Jun) | 6.31B |  | 6.97B |
 | 05:45 | NZD | Imports (Jun) | 6.30B |  | 6.91B |
-| 05:45 | NZD | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
 | 05:45 | NZD | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
+| 05:45 | NZD | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 |  | 48.2 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
 | 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
@@ -20,5 +20,5 @@
 | 19:55 | EUR | French 12-Month BTF Auction | 3.659% |  | 3.759% |
 | 19:55 | EUR | French 3-Month BTF Auction | 3.613% |  | 3.584% |
 | 19:55 | EUR | French 6-Month BTF Auction | 3.644% |  | 3.671% |
-| 22:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 22:30 | USD | 6-Month Bill Auction |  |  | 5.250% |
+| 29 min | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 29 min | USD | 6-Month Bill Auction |  |  | 5.250% |
