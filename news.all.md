@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | 2-Year Note Auction | 4.823% |  | 4.670% |
-| 06:00 | KRW | Low | GDP (YoY) (Q2) |  | 0.8% | 0.9% |
-| 06:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.5% | 0.3% |
+| 59 min | KRW | Low | GDP (QoQ) (Q2) |  | 0.5% | 0.3% |
+| 59 min | KRW | Low | GDP (YoY) (Q2) |  | 0.8% | 0.9% |
 | 12:00 | JPY | Low | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
 | 13:00 | NOK | Low | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
 | 14:00 | ZAR | Low | Leading Indicators (May) |  |  | 110.30% |
@@ -23,8 +23,8 @@
 | 17:00 | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
 | 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.00% | 0.80% |
 | 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.80% | 2.50% |
-| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.00% | 0.04% |
 | 19:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.00% | 0.04% |
 | 19:00 | BRL | Low | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:30 | CAD | Moderate | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 19:55 | USD | Low | Redbook (YoY) |  |  | -0.2% |
