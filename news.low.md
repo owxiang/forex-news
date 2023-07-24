@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 59 min | KRW | GDP (QoQ) (Q2) |  | 0.5% | 0.3% |
-| 59 min | KRW | GDP (YoY) (Q2) |  | 0.8% | 0.9% |
+| 06:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
+| 06:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 12:00 | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
 | 13:00 | NOK | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
 | 14:00 | ZAR | Leading Indicators (May) |  |  | 110.30% |

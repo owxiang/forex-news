@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | 2-Year Note Auction | 4.823% |  | 4.670% |
-| 59 min | KRW | Low | GDP (QoQ) (Q2) |  | 0.5% | 0.3% |
-| 59 min | KRW | Low | GDP (YoY) (Q2) |  | 0.8% | 0.9% |
+| 06:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
+| 06:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 12:00 | JPY | Low | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
 | 13:00 | NOK | Low | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
 | 14:00 | ZAR | Low | Leading Indicators (May) |  |  | 110.30% |
