@@ -30,13 +30,13 @@
 | 18:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
 | 19:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.24% | 0.22% | 0.11% |
 | 19:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.29% | 0.27% | 0.02% |
-| 21 min | USD | Low | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
-| 21 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 3.5% |
-| 46 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.759% |
-| 46 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.584% |
-| 46 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
-| 20:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) |  | 46.4 | 46.3 |
-| 20:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 53.1 | 53.2 |
-| 20:45 | USD | High | S&P Global US Services PMI (Jul) |  | 54.0 | 54.4 |
+| 19:30 | USD | Low | Chicago Fed National Activity (Jun) | -0.32 | 0.03 | -0.28 |
+| 19:30 | CAD | Moderate | Wholesale Sales (MoM) | -4.4% |  | 3.5% |
+| 19:55 | EUR | Low | French 12-Month BTF Auction | 3.659% |  | 3.759% |
+| 19:55 | EUR | Low | French 3-Month BTF Auction | 3.613% |  | 3.584% |
+| 19:55 | EUR | Low | French 6-Month BTF Auction | 3.644% |  | 3.671% |
+| 35 min | USD | Moderate | S&P Global US Manufacturing PMI (Jul) |  | 46.4 | 46.3 |
+| 35 min | USD | Moderate | S&P Global Composite PMI (Jul) |  | 53.1 | 53.2 |
+| 35 min | USD | High | S&P Global US Services PMI (Jul) |  | 54.0 | 54.4 |
 | 22:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 22:30 | USD | Low | 6-Month Bill Auction |  |  | 5.250% |

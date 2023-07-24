@@ -16,9 +16,9 @@
 | 14:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.3 | 50.3 | 50.6 |
 | 19:00 | MXN | 1st Half-Month Core CPI (Jul) | 0.24% | 0.22% | 0.11% |
 | 19:00 | MXN | 1st Half-Month CPI (Jul) | 0.29% | 0.27% | 0.02% |
-| 21 min | USD | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
-| 46 min | EUR | French 12-Month BTF Auction |  |  | 3.759% |
-| 46 min | EUR | French 3-Month BTF Auction |  |  | 3.584% |
-| 46 min | EUR | French 6-Month BTF Auction |  |  | 3.671% |
+| 19:30 | USD | Chicago Fed National Activity (Jun) | -0.32 | 0.03 | -0.28 |
+| 19:55 | EUR | French 12-Month BTF Auction | 3.659% |  | 3.759% |
+| 19:55 | EUR | French 3-Month BTF Auction | 3.613% |  | 3.584% |
+| 19:55 | EUR | French 6-Month BTF Auction | 3.644% |  | 3.671% |
 | 22:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 22:30 | USD | 6-Month Bill Auction |  |  | 5.250% |
