@@ -27,14 +27,14 @@
 | 15:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 50.7 | 52.4 | 52.8 |
 | 15:30 | GBP | High | S&P Global/CIPS UK Manufacturing PMI | 45.0 | 46.1 | 46.5 |
 | 15:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 51.5 | 53.0 | 53.7 |
-| 24 min | BRL | Moderate | BCB Focus Market Readout |  |  |  |
-| 59 min | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.22% | 0.11% |
-| 59 min | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.27% | 0.02% |
-| 19:30 | USD | Low | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
-| 19:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 3.5% |
-| 19:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.759% |
-| 19:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.584% |
-| 19:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
+| 18:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
+| 19:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.24% | 0.22% | 0.11% |
+| 19:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.29% | 0.27% | 0.02% |
+| 21 min | USD | Low | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
+| 21 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 3.5% |
+| 46 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.759% |
+| 46 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.584% |
+| 46 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
 | 20:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) |  | 46.4 | 46.3 |
 | 20:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 53.1 | 53.2 |
 | 20:45 | USD | High | S&P Global US Services PMI (Jul) |  | 54.0 | 54.4 |
