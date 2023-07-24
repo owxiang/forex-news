@@ -11,9 +11,9 @@
 | 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
 | 10:00 | NZD | Credit Card Spending (YoY) | 5.0% | 9.9% | 3.4% |
 | 12:00 | SGD | CPI (MoM) (Jun) | 0.50% |  | 0.30% |
-| 37 min | EUR | Spanish PPI (YoY) |  | -10.2% | -6.9% |
-| 52 min | EUR | HCOB France Composite PMI (Jul) |  | 47.8 | 47.2 |
-| 14:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 50.3 | 50.6 |
+| 14:00 | EUR | Spanish PPI (YoY) | -8.1% | -10.2% | -6.8% |
+| 14:15 | EUR | HCOB France Composite PMI (Jul) | 46.6 | 47.8 | 47.2 |
+| 14:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.3 | 50.3 | 50.6 |
 | 19:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.22% | 0.11% |
 | 19:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.27% | 0.02% |
 | 19:30 | USD | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
