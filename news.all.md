@@ -1,42 +1,40 @@
-## 24 July 2023 - All Forex News
+## 25 July 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:45 | NZD | Low | Exports (Jun) | 6.31B |  | 6.97B |
-| 05:45 | NZD | Low | Imports (Jun) | 6.30B |  | 6.91B |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.6 |  | 48.2 |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
-| 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
-| 07:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.9 |  | 54.0 |
-| 10:00 | NZD | Low | Credit Card Spending (YoY) | 5.0% | 9.9% | 3.4% |
-| 12:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 4.20% | 4.20% | 4.70% |
-| 12:00 | SGD | Low | CPI (MoM) (Jun) | 0.50% |  | 0.30% |
-| 12:00 | SGD | Moderate | CPI (YoY) (Jun) | 4.5% | 4.6% | 5.1% |
-| 14:00 | EUR | Low | Spanish PPI (YoY) | -8.1% | -10.2% | -6.8% |
-| 14:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) | 44.5 | 46.0 | 46.0 |
-| 14:15 | EUR | Low | HCOB France Composite PMI (Jul) | 46.6 | 47.8 | 47.2 |
-| 14:15 | EUR | Moderate | HCOB France Services PMI (Jul) | 47.4 | 48.4 | 48.0 |
-| 14:30 | EUR | Low | HCOB Germany Composite PMI (Jul) | 48.3 | 50.3 | 50.6 |
-| 14:30 | EUR | High | HCOB Germany Manufacturing PMI (Jul) | 38.8 | 41.0 | 40.6 |
-| 14:30 | EUR | Moderate | HCOB Germany Services PMI (Jul) | 52.0 | 53.1 | 54.1 |
-| 15:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 42.7 | 43.5 | 43.4 |
-| 15:00 | EUR | Moderate | S&P Global Composite PMI (Jul) | 48.9 | 49.7 | 49.9 |
-| 15:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.1 | 51.5 | 52.0 |
-| 15:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 50.7 | 52.4 | 52.8 |
-| 15:30 | GBP | High | S&P Global/CIPS UK Manufacturing PMI | 45.0 | 46.1 | 46.5 |
-| 15:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 51.5 | 53.0 | 53.7 |
-| 18:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
-| 19:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.24% | 0.22% | 0.11% |
-| 19:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.29% | 0.27% | 0.02% |
-| 19:30 | USD | Low | Chicago Fed National Activity (Jun) | -0.32 | 0.03 | -0.28 |
-| 19:30 | CAD | Moderate | Wholesale Sales (MoM) | -4.4% |  | 3.5% |
-| 19:55 | EUR | Low | French 12-Month BTF Auction | 3.659% |  | 3.759% |
-| 19:55 | EUR | Low | French 3-Month BTF Auction | 3.613% |  | 3.584% |
-| 19:55 | EUR | Low | French 6-Month BTF Auction | 3.644% |  | 3.671% |
-| 20:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) | 49.0 | 46.4 | 46.3 |
-| 20:45 | USD | Moderate | S&P Global Composite PMI (Jul) | 52.0 | 53.1 | 53.2 |
-| 20:45 | USD | High | S&P Global US Services PMI (Jul) | 52.4 | 54.0 | 54.4 |
-| 22:30 | USD | Low | 3-Month Bill Auction | 5.270% |  | 5.250% |
-| 22:30 | USD | Low | 6-Month Bill Auction | 5.270% |  | 5.250% |
+| 00:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.670% |
+| 06:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.5% | 0.3% |
+| 06:00 | KRW | Low | GDP (YoY) (Q2) |  | 0.8% | 0.9% |
+| 12:00 | JPY | Low | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
+| 13:00 | NOK | Low | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
+| 14:00 | ZAR | Low | Leading Indicators (May) |  |  | 110.30% |
+| 14:20 | IDR | Low | Loans (YoY) |  |  | 9.39% |
+| 14:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 14:30 | IDR | Low | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
+| 14:30 | IDR | Low | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
+| 15:00 | EUR | Moderate | German Business Expectations (Jul) |  | 83.0 | 83.6 |
+| 15:00 | EUR | Moderate | German Current Assessment (Jul) |  | 93.0 | 93.7 |
+| 15:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.0 | 88.5 |
+| 15:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 15:30 | HKD | Low | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
+| 15:30 | HKD | Low | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
+| 15:30 | HKD | Low | Trade Balance |  | -42.4B | -26.4B |
+| 16:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
+| 17:00 | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
+| 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.00% | 0.80% |
+| 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.80% | 2.50% |
+| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.00% | 0.04% |
+| 19:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | BRL | Low | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
+| 19:30 | CAD | Moderate | Manufacturing Sales (MoM) |  |  | 1.2% |
+| 19:55 | USD | Low | Redbook (YoY) |  |  | -0.2% |
+| 20:00 | USD | Low | House Price Index (YoY) (May) |  | 2.6% | 3.1% |
+| 20:00 | USD | Low | House Price Index (MoM) (May) |  | 0.2% | 0.7% |
+| 20:00 | USD | Low | House Price Index (May) |  | 404.6 | 401.2 |
+| 20:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  | 1.5% | 0.9% |
+| 20:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  | 1.2% | 1.7% |
+| 20:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | -2.2% | -1.7% |
+| 21:00 | USD | High | CB Consumer Confidence (Jul) |  | 111.5 | 109.7 |
+| 21:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -10 | -7 |
+| 21:00 | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -5 |
+| 21:00 | USD | Low | Richmond Services Index (Jul) |  | 9 | -3 |

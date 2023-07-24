@@ -1,24 +1,31 @@
-## 24 July 2023 - Low Impact Forex News
+## 25 July 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | Exports (Jun) | 6.31B |  | 6.97B |
-| 05:45 | NZD | Imports (Jun) | 6.30B |  | 6.91B |
-| 05:45 | NZD | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
-| 05:45 | NZD | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 |  | 48.2 |
-| 06:00 | AUD | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
-| 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
-| 10:00 | NZD | Credit Card Spending (YoY) | 5.0% | 9.9% | 3.4% |
-| 12:00 | SGD | CPI (MoM) (Jun) | 0.50% |  | 0.30% |
-| 14:00 | EUR | Spanish PPI (YoY) | -8.1% | -10.2% | -6.8% |
-| 14:15 | EUR | HCOB France Composite PMI (Jul) | 46.6 | 47.8 | 47.2 |
-| 14:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.3 | 50.3 | 50.6 |
-| 19:00 | MXN | 1st Half-Month Core CPI (Jul) | 0.24% | 0.22% | 0.11% |
-| 19:00 | MXN | 1st Half-Month CPI (Jul) | 0.29% | 0.27% | 0.02% |
-| 19:30 | USD | Chicago Fed National Activity (Jun) | -0.32 | 0.03 | -0.28 |
-| 19:55 | EUR | French 12-Month BTF Auction | 3.659% |  | 3.759% |
-| 19:55 | EUR | French 3-Month BTF Auction | 3.613% |  | 3.584% |
-| 19:55 | EUR | French 6-Month BTF Auction | 3.644% |  | 3.671% |
-| 22:30 | USD | 3-Month Bill Auction | 5.270% |  | 5.250% |
-| 22:30 | USD | 6-Month Bill Auction | 5.270% |  | 5.250% |
+| 06:00 | KRW | GDP (QoQ) (Q2) |  | 0.5% | 0.3% |
+| 06:00 | KRW | GDP (YoY) (Q2) |  | 0.8% | 0.9% |
+| 12:00 | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
+| 13:00 | NOK | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
+| 14:00 | ZAR | Leading Indicators (May) |  |  | 110.30% |
+| 14:20 | IDR | Loans (YoY) |  |  | 9.39% |
+| 14:30 | IDR | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
+| 14:30 | IDR | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
+| 15:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 15:30 | HKD | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
+| 15:30 | HKD | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
+| 15:30 | HKD | Trade Balance |  | -42.4B | -26.4B |
+| 16:00 | GBP | 15-Year Treasury Gilt Auction |  |  |  |
+| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.00% | 0.80% |
+| 19:00 | MXN | Economic Activity (YoY) (May) |  | 3.80% | 2.50% |
+| 19:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.00% | 0.04% |
+| 19:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | BRL | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
+| 19:55 | USD | Redbook (YoY) |  |  | -0.2% |
+| 20:00 | USD | House Price Index (YoY) (May) |  | 2.6% | 3.1% |
+| 20:00 | USD | House Price Index (MoM) (May) |  | 0.2% | 0.7% |
+| 20:00 | USD | House Price Index (May) |  | 404.6 | 401.2 |
+| 20:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  | 1.5% | 0.9% |
+| 20:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  | 1.2% | 1.7% |
+| 21:00 | USD | Richmond Manufacturing Index (Jul) |  | -10 | -7 |
+| 21:00 | USD | Richmond Manufacturing Shipments (Jul) |  |  | -5 |
+| 21:00 | USD | Richmond Services Index (Jul) |  | 9 | -3 |
