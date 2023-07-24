@@ -11,9 +11,9 @@
 | 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
 | 07:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.9 |  | 54.0 |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | 5.0% | 9.9% | 3.4% |
-| 40 min | SGD | Moderate | Core CPI (YoY) (Jun) |  | 4.20% | 4.70% |
-| 40 min | SGD | Low | CPI (MoM) (Jun) |  |  | 0.30% |
-| 40 min | SGD | Moderate | CPI (YoY) (Jun) |  | 4.6% | 5.1% |
+| 12:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 4.20% | 4.20% | 4.70% |
+| 12:00 | SGD | Low | CPI (MoM) (Jun) | 0.50% |  | 0.30% |
+| 12:00 | SGD | Moderate | CPI (YoY) (Jun) | 4.5% | 4.6% | 5.1% |
 | 14:00 | EUR | Low | Spanish PPI (YoY) |  | -10.2% | -6.9% |
 | 14:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 46.0 | 46.0 |
 | 14:15 | EUR | Low | HCOB France Composite PMI (Jul) |  | 47.8 | 47.2 |

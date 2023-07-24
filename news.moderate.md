@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:30 | JPY | au Jibun Bank Japan Services PMI | 53.9 |  | 54.0 |
-| 40 min | SGD | Core CPI (YoY) (Jun) |  | 4.20% | 4.70% |
-| 40 min | SGD | CPI (YoY) (Jun) |  | 4.6% | 5.1% |
+| 12:00 | SGD | Core CPI (YoY) (Jun) | 4.20% | 4.20% | 4.70% |
+| 12:00 | SGD | CPI (YoY) (Jun) | 4.5% | 4.6% | 5.1% |
 | 14:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 46.0 | 46.0 |
 | 14:15 | EUR | HCOB France Services PMI (Jul) |  | 48.4 | 48.0 |
 | 14:30 | EUR | HCOB Germany Services PMI (Jul) |  | 53.1 | 54.1 |

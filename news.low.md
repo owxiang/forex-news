@@ -10,7 +10,7 @@
 | 06:00 | AUD | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
 | 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
 | 10:00 | NZD | Credit Card Spending (YoY) | 5.0% | 9.9% | 3.4% |
-| 40 min | SGD | CPI (MoM) (Jun) |  |  | 0.30% |
+| 12:00 | SGD | CPI (MoM) (Jun) | 0.50% |  | 0.30% |
 | 14:00 | EUR | Spanish PPI (YoY) |  | -10.2% | -6.9% |
 | 14:15 | EUR | HCOB France Composite PMI (Jul) |  | 47.8 | 47.2 |
 | 14:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 50.3 | 50.6 |
