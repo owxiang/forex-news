@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:45 | NZD | Low | Exports (Jun) | 6.31B |  | 6.97B |
 | 05:45 | NZD | Low | Imports (Jun) | 6.30B |  | 6.91B |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
 | 05:45 | NZD | Low | Trade Balance (YoY) (Jun) | -15,980M |  | -17,120M |
+| 05:45 | NZD | Low | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.6 |  | 48.2 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
 | 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
@@ -27,9 +27,9 @@
 | 15:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 50.7 | 52.4 | 52.8 |
 | 15:30 | GBP | High | S&P Global/CIPS UK Manufacturing PMI | 45.0 | 46.1 | 46.5 |
 | 15:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 51.5 | 53.0 | 53.7 |
-| 18:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
-| 19:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.22% | 0.11% |
-| 19:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.27% | 0.02% |
+| 24 min | BRL | Moderate | BCB Focus Market Readout |  |  |  |
+| 59 min | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.22% | 0.11% |
+| 59 min | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.27% | 0.02% |
 | 19:30 | USD | Low | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
 | 19:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 3.5% |
 | 19:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.759% |

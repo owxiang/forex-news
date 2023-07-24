@@ -13,7 +13,7 @@
 | 15:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.1 | 51.5 | 52.0 |
 | 15:30 | GBP | S&P Global/CIPS UK Composite PMI | 50.7 | 52.4 | 52.8 |
 | 15:30 | GBP | S&P Global/CIPS UK Services PMI | 51.5 | 53.0 | 53.7 |
-| 18:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 24 min | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | CAD | Wholesale Sales (MoM) |  |  | 3.5% |
 | 20:45 | USD | S&P Global US Manufacturing PMI (Jul) |  | 46.4 | 46.3 |
 | 20:45 | USD | S&P Global Composite PMI (Jul) |  | 53.1 | 53.2 |
