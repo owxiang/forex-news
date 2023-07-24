@@ -8,8 +8,8 @@
 | 05:45 | NZD | Low | Trade Balance (MoM) (Jun) | 9M | 235M | 52M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.6 |  | 48.2 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
-| 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 49.8 | 49.8 |
-| 07:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.0 |
+| 07:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
+| 07:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.9 |  | 54.0 |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) |  | 9.9% | 3.3% |
 | 12:00 | SGD | Moderate | Core CPI (YoY) (Jun) |  | 4.20% | 4.70% |
 | 12:00 | SGD | Low | CPI (MoM) (Jun) |  |  | 0.30% |
