@@ -15,14 +15,14 @@
 | 15:30 | HKD | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
 | 15:30 | HKD | Trade Balance |  | -42.4B | -26.4B |
 | 16:00 | GBP | 15-Year Treasury Gilt Auction |  |  |  |
-| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.00% | 0.80% |
 | 19:00 | MXN | Economic Activity (YoY) (May) |  | 3.80% | 2.50% |
+| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.00% | 0.80% |
 | 19:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.00% | 0.04% |
 | 19:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
 | 19:00 | BRL | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:55 | USD | Redbook (YoY) |  |  | -0.2% |
-| 20:00 | USD | House Price Index (YoY) (May) |  | 2.6% | 3.1% |
 | 20:00 | USD | House Price Index (MoM) (May) |  | 0.2% | 0.7% |
+| 20:00 | USD | House Price Index (YoY) (May) |  | 2.6% | 3.1% |
 | 20:00 | USD | House Price Index (May) |  | 404.6 | 401.2 |
 | 20:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  | 1.5% | 0.9% |
 | 20:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  | 1.2% | 1.7% |

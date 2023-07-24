@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | 2-Year Note Auction |  |  | 4.670% |
+| 00:00 | USD | 2-Year Note Auction | 4.823% |  | 4.670% |
 | 14:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
 | 15:00 | EUR | German Business Expectations (Jul) |  | 83.0 | 83.6 |
 | 15:00 | EUR | German Current Assessment (Jul) |  | 93.0 | 93.7 |
