@@ -10,12 +10,12 @@
 | 06:00 | AUD | Judo Bank Australia Services PMI | 48.0 |  | 50.3 |
 | 07:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.4 | 49.8 | 49.8 |
 | 10:00 | NZD | Credit Card Spending (YoY) | 5.0% | 9.9% | 3.4% |
-| 12:00 | SGD | CPI (MoM) (Jun) |  |  | 0.30% |
-| 14:00 | EUR | Spanish PPI (YoY) |  |  | -6.9% |
-| 14:15 | EUR | HCOB France Composite PMI (Jul) |  | 47.2 | 47.2 |
-| 14:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 49.3 | 50.6 |
-| 19:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.11% |
-| 19:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.33% | 0.02% |
+| 40 min | SGD | CPI (MoM) (Jun) |  |  | 0.30% |
+| 14:00 | EUR | Spanish PPI (YoY) |  | -10.2% | -6.9% |
+| 14:15 | EUR | HCOB France Composite PMI (Jul) |  | 47.8 | 47.2 |
+| 14:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 50.3 | 50.6 |
+| 19:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.22% | 0.11% |
+| 19:00 | MXN | 1st Half-Month CPI (Jul) |  | 0.27% | 0.02% |
 | 19:30 | USD | Chicago Fed National Activity (Jun) |  | 0.03 | -0.15 |
 | 19:55 | EUR | French 12-Month BTF Auction |  |  | 3.759% |
 | 19:55 | EUR | French 3-Month BTF Auction |  |  | 3.584% |
