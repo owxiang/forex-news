@@ -15,5 +15,5 @@
 | 15:30 | GBP | S&P Global/CIPS UK Services PMI | 51.5 | 53.0 | 53.7 |
 | 18:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | CAD | Wholesale Sales (MoM) | -4.4% |  | 3.5% |
-| 35 min | USD | S&P Global US Manufacturing PMI (Jul) |  | 46.4 | 46.3 |
-| 35 min | USD | S&P Global Composite PMI (Jul) |  | 53.1 | 53.2 |
+| 20:45 | USD | S&P Global US Manufacturing PMI (Jul) | 49.0 | 46.4 | 46.3 |
+| 20:45 | USD | S&P Global Composite PMI (Jul) | 52.0 | 53.1 | 53.2 |
