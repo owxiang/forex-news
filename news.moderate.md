@@ -5,8 +5,8 @@
 | 07:30 | JPY | au Jibun Bank Japan Services PMI | 53.9 |  | 54.0 |
 | 12:00 | SGD | Core CPI (YoY) (Jun) | 4.20% | 4.20% | 4.70% |
 | 12:00 | SGD | CPI (YoY) (Jun) | 4.5% | 4.6% | 5.1% |
-| 14:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 46.0 | 46.0 |
-| 14:15 | EUR | HCOB France Services PMI (Jul) |  | 48.4 | 48.0 |
+| 52 min | EUR | HCOB France Manufacturing PMI (Jul) |  | 46.0 | 46.0 |
+| 52 min | EUR | HCOB France Services PMI (Jul) |  | 48.4 | 48.0 |
 | 14:30 | EUR | HCOB Germany Services PMI (Jul) |  | 53.1 | 54.1 |
 | 15:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 43.5 | 43.4 |
 | 15:00 | EUR | S&P Global Composite PMI (Jul) |  | 49.7 | 49.9 |

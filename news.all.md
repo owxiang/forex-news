@@ -14,10 +14,10 @@
 | 12:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 4.20% | 4.20% | 4.70% |
 | 12:00 | SGD | Low | CPI (MoM) (Jun) | 0.50% |  | 0.30% |
 | 12:00 | SGD | Moderate | CPI (YoY) (Jun) | 4.5% | 4.6% | 5.1% |
-| 14:00 | EUR | Low | Spanish PPI (YoY) |  | -10.2% | -6.9% |
-| 14:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 46.0 | 46.0 |
-| 14:15 | EUR | Low | HCOB France Composite PMI (Jul) |  | 47.8 | 47.2 |
-| 14:15 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 48.4 | 48.0 |
+| 37 min | EUR | Low | Spanish PPI (YoY) |  | -10.2% | -6.9% |
+| 52 min | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 46.0 | 46.0 |
+| 52 min | EUR | Low | HCOB France Composite PMI (Jul) |  | 47.8 | 47.2 |
+| 52 min | EUR | Moderate | HCOB France Services PMI (Jul) |  | 48.4 | 48.0 |
 | 14:30 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.3 | 50.6 |
 | 14:30 | EUR | High | HCOB Germany Manufacturing PMI (Jul) |  | 41.0 | 40.6 |
 | 14:30 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 53.1 | 54.1 |
