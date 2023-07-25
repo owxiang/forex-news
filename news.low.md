@@ -1,32 +1,39 @@
-## 25 July 2023 - Low Impact Forex News
+## 26 July 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
-| 06:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
-| 12:00 | JPY | BoJ Core CPI (YoY) | 3.0% | 3.0% | 3.1% |
-| 13:00 | NOK | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
-| 14:00 | IDR | Deposit Facility Rate (Jul) | 5.00% | 5.00% | 5.00% |
-| 14:00 | IDR | Lending Facility Rate (Jul) | 6.50% | 6.50% | 6.50% |
-| 14:00 | ZAR | Leading Indicators (May) | 108.40% |  | 110.30% |
-| 14:20 | IDR | Loans (YoY) (Jun) | 7.76% |  | 9.39% |
-| 15:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 15:30 | HKD | Exports (MoM) (Jun) | -11.4% | -24.2% | -15.6% |
-| 15:30 | HKD | Imports (MoM) (Jun) | -12.3% | -11.1% | -16.7% |
-| 15:30 | HKD | Trade Balance | -56.6B | -42.4B | -26.4B |
-| 16:00 | GBP | 15-Year Treasury Gilt Auction | 4.447% |  | 4.463% |
-| 18:00 | BRL | FGV Consumer confidence (Jul) | 94.8 | 89.9 | 92.3 |
-| 19:00 | MXN | Economic Activity (YoY) (May) | 4.30% | 3.60% | 2.70% |
-| 19:00 | MXN | Economic Activity (MoM) (May) | 0.00% | 0.40% | 0.90% |
-| 19:00 | BRL | Mid-Month CPI (MoM) (Jul) | -0.07% | -0.01% | 0.04% |
-| 19:00 | BRL | Mid-Month CPI (YoY) (Jul) | 3.19% | 3.26% | 3.40% |
-| 19:55 | USD | Redbook (YoY) | -0.4% |  | -0.2% |
-| 20:00 | USD | House Price Index (YoY) (May) | 2.8% | 2.6% | 3.1% |
-| 20:00 | USD | House Price Index (MoM) (May) | 0.7% | 0.2% | 0.7% |
-| 20:00 | USD | House Price Index (May) | 404.1 | 404.6 | 401.2 |
-| 20:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | 1.0% | 1.5% | 0.9% |
-| 20:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.5% | 1.2% | 1.7% |
-| 20:30 | BRL | Federal Tax Revenue | 180.48B |  | 176.81B |
-| 21:00 | USD | Richmond Manufacturing Index (Jul) | -9 | -10 | -8 |
-| 21:00 | USD | Richmond Manufacturing Shipments (Jul) | -6 |  | -5 |
-| 21:00 | USD | Richmond Services Index (Jul) | -2 | 9 | -8 |
+| 04:00 | KRW | Consumer Confidence (Jul) |  | 99.2 | 100.7 |
+| 06:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 1.4% | 1.6% |
+| 08:30 | AUD | CPI Index Number (Q2) |  |  | 130.80 |
+| 08:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 5.9% | 6.6% |
+| 08:30 | AUD | Weighted mean CPI (YoY) (Jun) |  |  | 5.60% |
+| 08:30 | AUD | Weighted mean CPI (YoY) (Q2) |  | 5.4% | 5.8% |
+| 08:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
+| 12:00 | JPY | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
+| 12:00 | JPY | Leading Index (MoM) |  |  | 1.4% |
+| 12:00 | JPY | Leading Index |  |  | 109.5 |
+| 12:00 | SGD | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
+| 12:00 | SGD | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
+| 13:45 | EUR | French Consumer Confidence (Jul) |  | 86 | 85 |
+| 15:00 | CHF | ZEW Expectations (Jul) |  | -31.1 | -30.8 |
+| 15:00 | EUR | M3 Money Supply (YoY) (Jun) |  | 1.0% | 1.4% |
+| 15:00 | EUR | M3 Money Supply (Jun) |  |  | 10,000,000.0% |
+| 15:00 | EUR | Loans to Non Financial Corporations (Jun) |  | 3.4% | 4.0% |
+| 15:00 | EUR | Private Sector Loans (YoY) |  | 1.8% | 2.1% |
+| 16:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.637% |
+| 18:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
+| 18:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
+| 18:00 | USD | MBA Purchase Index |  |  | 163.2 |
+| 18:00 | USD | Mortgage Market Index |  |  | 210.7 |
+| 18:00 | USD | Mortgage Refinance Index |  |  | 446.4 |
+| 18:30 | INR | M3 Money Supply |  | 11.0% | 11.3% |
+| 18:30 | BRL | Current Account (USD) |  | 1.00B | 0.65B |
+| 18:30 | BRL | Foreign direct investment (USD) |  | 6.42B | 5.38B |
+| 21:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
+| 21:30 | USD | Crude Oil Imports |  | -1.937M | -0.376M |
+| 21:30 | USD | Distillate Fuel Production |  | 0.002M | -0.054M |
+| 21:30 | USD | EIA Weekly Distillates Stocks |  | -0.075M | 0.014M |
+| 21:30 | USD | Gasoline Production |  | 0.045M | -0.584M |
+| 21:30 | USD | Heating Oil Stockpiles |  | 0.222M | 0.223M |
+| 21:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 21:30 | USD | Gasoline Inventories |  | 0.146M | -1.066M |
