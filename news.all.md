@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | 5-Year Note Auction | 4.170% |  | 4.019% |
-| 03:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.969M | -0.797M |
-| 04:00 | KRW | Low | Consumer Confidence (Jul) |  | 99.2 | 100.7 |
+| 29 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.969M | -0.797M |
+| 59 min | KRW | Low | Consumer Confidence (Jul) |  | 99.2 | 100.7 |
 | 06:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 1.4% | 1.6% |
-| 08:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 5.4% | 5.6% |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.4% |
+| 08:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 5.4% | 5.6% |
 | 08:30 | AUD | Low | CPI Index Number (Q2) |  |  | 130.80 |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) |  | 5.9% | 6.6% |
@@ -17,8 +17,8 @@
 | 12:00 | JPY | Low | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
 | 12:00 | JPY | Low | Leading Index |  |  | 109.5 |
 | 12:00 | JPY | Low | Leading Index (MoM) |  |  | 1.4% |
-| 12:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
 | 12:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
+| 12:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
 | 13:45 | EUR | Low | French Consumer Confidence (Jul) |  | 86 | 85 |
 | 15:00 | CHF | Low | ZEW Expectations (Jul) |  | -31.1 | -30.8 |
 | 15:00 | EUR | Low | M3 Money Supply (Jun) |  |  | 10,000,000.0% |
