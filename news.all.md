@@ -5,31 +5,31 @@
 | 00:00 | USD | Moderate | 2-Year Note Auction | 4.823% |  | 4.670% |
 | 06:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 06:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
-| 12:00 | JPY | Low | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.1% |
+| 12:00 | JPY | Low | BoJ Core CPI (YoY) | 3.0% | 3.0% | 3.1% |
 | 13:00 | NOK | Low | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
-| 53 min | ZAR | Low | Leading Indicators (May) |  |  | 110.30% |
-| 14:20 | IDR | Low | Loans (YoY) |  |  | 9.39% |
-| 14:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 14:30 | IDR | Low | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
-| 14:30 | IDR | Low | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
-| 15:00 | EUR | Moderate | German Business Expectations (Jul) |  | 83.4 | 83.6 |
-| 15:00 | EUR | Moderate | German Current Assessment (Jul) |  | 93.0 | 93.7 |
-| 15:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.0 | 88.5 |
-| 15:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 14:00 | ZAR | Low | Leading Indicators (May) | 108.40% |  | 110.30% |
+| 19 min | IDR | Low | Loans (YoY) |  |  | 9.39% |
+| 29 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 29 min | IDR | Low | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
+| 29 min | IDR | Low | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
+| 59 min | EUR | Moderate | German Business Expectations (Jul) |  | 83.4 | 83.6 |
+| 59 min | EUR | Moderate | German Current Assessment (Jul) |  | 93.0 | 93.7 |
+| 59 min | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.0 | 88.5 |
+| 59 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 15:30 | HKD | Low | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
 | 15:30 | HKD | Low | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
 | 15:30 | HKD | Low | Trade Balance |  | -42.4B | -26.4B |
 | 16:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
 | 17:00 | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
-| 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
 | 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
-| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
+| 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
 | 19:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
 | 19:00 | BRL | Low | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:30 | CAD | Moderate | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 19:55 | USD | Low | Redbook (YoY) |  |  | -0.2% |
-| 20:00 | USD | Low | House Price Index (MoM) (May) |  | 0.2% | 0.7% |
 | 20:00 | USD | Low | House Price Index (YoY) (May) |  | 2.6% | 3.1% |
+| 20:00 | USD | Low | House Price Index (MoM) (May) |  | 0.2% | 0.7% |
 | 20:00 | USD | Low | House Price Index (May) |  | 404.6 | 401.2 |
 | 20:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) |  | 1.5% | 0.9% |
 | 20:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) |  | 1.2% | 1.7% |
