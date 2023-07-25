@@ -16,15 +16,15 @@
 | 15:00 | EUR | Moderate | German Current Assessment (Jul) | 91.3 | 93.0 | 93.7 |
 | 15:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.3 | 88.0 | 88.6 |
 | 15:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 23 min | HKD | Low | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
-| 23 min | HKD | Low | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
-| 23 min | HKD | Low | Trade Balance |  | -42.4B | -26.4B |
-| 53 min | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
-| 17:00 | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
-| 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
+| 15:30 | HKD | Low | Exports (MoM) (Jun) | -11.4% | -24.2% | -15.6% |
+| 15:30 | HKD | Low | Imports (MoM) (Jun) | -12.3% | -11.1% | -16.7% |
+| 15:30 | HKD | Low | Trade Balance | -56.6B | -42.4B | -26.4B |
+| 16:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
+| 59 min | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
 | 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
-| 19:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
 | 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
+| 19:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
 | 19:00 | BRL | Low | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:30 | CAD | Moderate | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 19:55 | USD | Low | Redbook (YoY) |  |  | -0.2% |

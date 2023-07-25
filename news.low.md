@@ -11,14 +11,14 @@
 | 14:00 | ZAR | Leading Indicators (May) | 108.40% |  | 110.30% |
 | 14:20 | IDR | Loans (YoY) (Jun) | 7.76% |  | 9.39% |
 | 15:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 23 min | HKD | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
-| 23 min | HKD | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
-| 23 min | HKD | Trade Balance |  | -42.4B | -26.4B |
-| 53 min | GBP | 15-Year Treasury Gilt Auction |  |  |  |
-| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
+| 15:30 | HKD | Exports (MoM) (Jun) | -11.4% | -24.2% | -15.6% |
+| 15:30 | HKD | Imports (MoM) (Jun) | -12.3% | -11.1% | -16.7% |
+| 15:30 | HKD | Trade Balance | -56.6B | -42.4B | -26.4B |
+| 16:00 | GBP | 15-Year Treasury Gilt Auction |  |  |  |
 | 19:00 | MXN | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
-| 19:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
 | 19:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
+| 19:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
 | 19:00 | BRL | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:55 | USD | Redbook (YoY) |  |  | -0.2% |
 | 20:00 | USD | House Price Index (YoY) (May) |  | 2.6% | 3.1% |
