@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
 | 06:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
-| 12:00 | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
+| 06:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
+| 57 min | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
 | 13:00 | NOK | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
 | 14:00 | ZAR | Leading Indicators (May) |  |  | 110.30% |
 | 14:20 | IDR | Loans (YoY) |  |  | 9.39% |
@@ -15,10 +15,10 @@
 | 15:30 | HKD | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
 | 15:30 | HKD | Trade Balance |  | -42.4B | -26.4B |
 | 16:00 | GBP | 15-Year Treasury Gilt Auction |  |  |  |
-| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.00% | 0.80% |
-| 19:00 | MXN | Economic Activity (YoY) (May) |  | 3.80% | 2.50% |
+| 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
+| 19:00 | MXN | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
 | 19:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
-| 19:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.00% | 0.04% |
+| 19:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
 | 19:00 | BRL | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:55 | USD | Redbook (YoY) |  |  | -0.2% |
 | 20:00 | USD | House Price Index (YoY) (May) |  | 2.6% | 3.1% |

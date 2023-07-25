@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | 2-Year Note Auction | 4.823% |  | 4.670% |
 | 14:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
-| 15:00 | EUR | German Business Expectations (Jul) |  | 83.0 | 83.6 |
+| 15:00 | EUR | German Business Expectations (Jul) |  | 83.4 | 83.6 |
 | 15:00 | EUR | German Current Assessment (Jul) |  | 93.0 | 93.7 |
 | 15:00 | EUR | German Ifo Business Climate Index (Jul) |  | 88.0 | 88.5 |
 | 17:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |

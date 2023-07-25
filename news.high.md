@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:00 | USD | CB Consumer Confidence (Jul) |  | 111.5 | 109.7 |
+| 21:00 | USD | CB Consumer Confidence (Jul) |  | 111.8 | 109.7 |
