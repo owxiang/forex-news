@@ -8,5 +8,5 @@
 | 15:00 | EUR | German Current Assessment (Jul) | 91.3 | 93.0 | 93.7 |
 | 15:00 | EUR | German Ifo Business Climate Index (Jul) | 87.3 | 88.0 | 88.6 |
 | 17:00 | GBP | CBI Industrial Trends Orders (Jul) | -9 | -17 | -15 |
-| 21 min | CAD | Manufacturing Sales (MoM) |  |  | 1.2% |
-| 51 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) |  | -2.2% | -1.7% |
+| 19:30 | CAD | Manufacturing Sales (MoM) | -2.1% |  | 1.2% |
+| 20:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | -1.7% | -2.2% | -1.7% |
