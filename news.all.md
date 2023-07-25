@@ -5,9 +5,9 @@
 | 00:00 | USD | Moderate | 2-Year Note Auction | 4.823% |  | 4.670% |
 | 06:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 06:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
-| 12:00 | JPY | Low | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
-| 59 min | NOK | Low | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
-| 14:00 | ZAR | Low | Leading Indicators (May) |  |  | 110.30% |
+| 12:00 | JPY | Low | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.1% |
+| 13:00 | NOK | Low | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
+| 53 min | ZAR | Low | Leading Indicators (May) |  |  | 110.30% |
 | 14:20 | IDR | Low | Loans (YoY) |  |  | 9.39% |
 | 14:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
 | 14:30 | IDR | Low | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |

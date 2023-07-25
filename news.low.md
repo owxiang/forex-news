@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 06:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
-| 12:00 | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.1% |
-| 59 min | NOK | Industrial Confidence (Q2) |  | -3.0 | -0.4 |
-| 14:00 | ZAR | Leading Indicators (May) |  |  | 110.30% |
+| 12:00 | JPY | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.1% |
+| 13:00 | NOK | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
+| 53 min | ZAR | Leading Indicators (May) |  |  | 110.30% |
 | 14:20 | IDR | Loans (YoY) |  |  | 9.39% |
 | 14:30 | IDR | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
 | 14:30 | IDR | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
