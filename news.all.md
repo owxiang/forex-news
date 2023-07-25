@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | 2-Year Note Auction | 4.823% |  | 4.670% |
-| 06:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 06:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
+| 06:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.5% | 0.3% |
 | 12:00 | JPY | Low | BoJ Core CPI (YoY) | 3.0% | 3.0% | 3.1% |
 | 13:00 | NOK | Low | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
 | 14:00 | IDR | Low | Deposit Facility Rate (Jul) | 5.00% | 5.00% | 5.00% |
@@ -19,12 +19,12 @@
 | 15:30 | HKD | Low | Exports (MoM) (Jun) | -11.4% | -24.2% | -15.6% |
 | 15:30 | HKD | Low | Imports (MoM) (Jun) | -12.3% | -11.1% | -16.7% |
 | 15:30 | HKD | Low | Trade Balance | -56.6B | -42.4B | -26.4B |
-| 16:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
-| 59 min | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
-| 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
+| 16:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.447% |  | 4.463% |
+| 17:00 | GBP | Moderate | CBI Industrial Trends Orders (Jul) | -9 | -17 | -15 |
 | 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
-| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
+| 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
 | 19:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
+| 19:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | -0.01% | 0.04% |
 | 19:00 | BRL | Low | FGV Consumer confidence (Jul) |  | 89.9 | 92.3 |
 | 19:30 | CAD | Moderate | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 19:55 | USD | Low | Redbook (YoY) |  |  | -0.2% |
