@@ -34,7 +34,8 @@
 | 20:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | 1.0% | 1.5% | 0.9% |
 | 20:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.5% | 1.2% | 1.7% |
 | 20:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (May) | -1.7% | -2.2% | -1.7% |
-| 48 min | USD | High | CB Consumer Confidence (Jul) |  | 111.8 | 109.7 |
-| 48 min | USD | Low | Richmond Manufacturing Index (Jul) |  | -10 | -7 |
-| 48 min | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -5 |
-| 48 min | USD | Low | Richmond Services Index (Jul) |  | 9 | -3 |
+| 20:30 | BRL | Low | Federal Tax Revenue | 180.48B |  | 176.81B |
+| 21:00 | USD | High | CB Consumer Confidence (Jul) | 117.0 | 111.8 | 110.1 |
+| 21:00 | USD | Low | Richmond Manufacturing Index (Jul) | -9 | -10 | -8 |
+| 21:00 | USD | Low | Richmond Manufacturing Shipments (Jul) | -6 |  | -5 |
+| 21:00 | USD | Low | Richmond Services Index (Jul) | -2 | 9 | -8 |

@@ -26,6 +26,7 @@
 | 20:00 | USD | House Price Index (May) | 404.1 | 404.6 | 401.2 |
 | 20:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (May) | 1.0% | 1.5% | 0.9% |
 | 20:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (May) | 1.5% | 1.2% | 1.7% |
-| 48 min | USD | Richmond Manufacturing Index (Jul) |  | -10 | -7 |
-| 48 min | USD | Richmond Manufacturing Shipments (Jul) |  |  | -5 |
-| 48 min | USD | Richmond Services Index (Jul) |  | 9 | -3 |
+| 20:30 | BRL | Federal Tax Revenue | 180.48B |  | 176.81B |
+| 21:00 | USD | Richmond Manufacturing Index (Jul) | -9 | -10 | -8 |
+| 21:00 | USD | Richmond Manufacturing Shipments (Jul) | -6 |  | -5 |
+| 21:00 | USD | Richmond Services Index (Jul) | -2 | 9 | -8 |
