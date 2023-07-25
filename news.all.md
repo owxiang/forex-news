@@ -7,19 +7,19 @@
 | 06:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
 | 12:00 | JPY | Low | BoJ Core CPI (YoY) | 3.0% | 3.0% | 3.1% |
 | 13:00 | NOK | Low | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
+| 14:00 | IDR | Low | Deposit Facility Rate (Jul) | 5.00% | 5.00% | 5.00% |
+| 14:00 | IDR | Low | Lending Facility Rate (Jul) | 6.50% | 6.50% | 6.50% |
 | 14:00 | ZAR | Low | Leading Indicators (May) | 108.40% |  | 110.30% |
-| 19 min | IDR | Low | Loans (YoY) |  |  | 9.39% |
-| 29 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 29 min | IDR | Low | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
-| 29 min | IDR | Low | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
-| 59 min | EUR | Moderate | German Business Expectations (Jul) |  | 83.4 | 83.6 |
-| 59 min | EUR | Moderate | German Current Assessment (Jul) |  | 93.0 | 93.7 |
-| 59 min | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.0 | 88.5 |
-| 59 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 15:30 | HKD | Low | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
-| 15:30 | HKD | Low | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
-| 15:30 | HKD | Low | Trade Balance |  | -42.4B | -26.4B |
-| 16:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
+| 14:20 | IDR | Low | Loans (YoY) (Jun) | 7.76% |  | 9.39% |
+| 14:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
+| 15:00 | EUR | Moderate | German Business Expectations (Jul) | 83.5 | 83.4 | 83.8 |
+| 15:00 | EUR | Moderate | German Current Assessment (Jul) | 91.3 | 93.0 | 93.7 |
+| 15:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.3 | 88.0 | 88.6 |
+| 15:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 23 min | HKD | Low | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
+| 23 min | HKD | Low | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
+| 23 min | HKD | Low | Trade Balance |  | -42.4B | -26.4B |
+| 53 min | GBP | Low | 15-Year Treasury Gilt Auction |  |  |  |
 | 17:00 | GBP | Moderate | CBI Industrial Trends Orders (Jul) |  | -17 | -15 |
 | 19:00 | MXN | Low | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
 | 19:00 | MXN | Low | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |

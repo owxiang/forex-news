@@ -6,15 +6,15 @@
 | 06:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.8% | 0.9% |
 | 12:00 | JPY | BoJ Core CPI (YoY) | 3.0% | 3.0% | 3.1% |
 | 13:00 | NOK | Industrial Confidence (Q2) | -5.3 | -3.0 | -0.7 |
+| 14:00 | IDR | Deposit Facility Rate (Jul) | 5.00% | 5.00% | 5.00% |
+| 14:00 | IDR | Lending Facility Rate (Jul) | 6.50% | 6.50% | 6.50% |
 | 14:00 | ZAR | Leading Indicators (May) | 108.40% |  | 110.30% |
-| 19 min | IDR | Loans (YoY) |  |  | 9.39% |
-| 29 min | IDR | Deposit Facility Rate (Jul) |  | 5.00% | 5.00% |
-| 29 min | IDR | Lending Facility Rate (Jul) |  | 6.50% | 6.50% |
-| 59 min | EUR | ECB Bank Lending Survey |  |  |  |
-| 15:30 | HKD | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
-| 15:30 | HKD | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
-| 15:30 | HKD | Trade Balance |  | -42.4B | -26.4B |
-| 16:00 | GBP | 15-Year Treasury Gilt Auction |  |  |  |
+| 14:20 | IDR | Loans (YoY) (Jun) | 7.76% |  | 9.39% |
+| 15:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 23 min | HKD | Exports (MoM) (Jun) |  | -24.2% | -15.6% |
+| 23 min | HKD | Imports (MoM) (Jun) |  | -11.1% | -16.7% |
+| 23 min | HKD | Trade Balance |  | -42.4B | -26.4B |
+| 53 min | GBP | 15-Year Treasury Gilt Auction |  |  |  |
 | 19:00 | MXN | Economic Activity (MoM) (May) |  | 0.40% | 0.80% |
 | 19:00 | MXN | Economic Activity (YoY) (May) |  | 3.60% | 2.50% |
 | 19:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 3.26% | 3.40% |
