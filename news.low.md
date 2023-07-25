@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | KRW | Consumer Confidence (Jul) | 103.2 | 99.2 | 100.7 |
-| 06:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 1.4% | 1.6% |
+| 49 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 1.4% | 1.6% |
 | 08:30 | AUD | CPI Index Number (Q2) |  |  | 130.80 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 5.9% | 6.6% |
 | 08:30 | AUD | Weighted mean CPI (YoY) (Jun) |  |  | 5.60% |
-| 08:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
 | 08:30 | AUD | Weighted mean CPI (YoY) (Q2) |  | 5.4% | 5.8% |
+| 08:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
 | 12:00 | JPY | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
 | 12:00 | JPY | Leading Index (MoM) |  |  | 1.4% |
 | 12:00 | JPY | Leading Index |  |  | 109.5 |
