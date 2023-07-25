@@ -7,13 +7,13 @@
 | 08:30 | AUD | CPI Index Number (Q2) |  |  | 130.80 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q2) |  | 5.9% | 6.6% |
 | 08:30 | AUD | Weighted mean CPI (YoY) (Jun) |  |  | 5.60% |
-| 08:30 | AUD | Weighted mean CPI (YoY) (Q2) |  | 5.4% | 5.8% |
 | 08:30 | AUD | Weighted mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
+| 08:30 | AUD | Weighted mean CPI (YoY) (Q2) |  | 5.4% | 5.8% |
 | 12:00 | JPY | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
 | 12:00 | JPY | Leading Index (MoM) |  |  | 1.4% |
 | 12:00 | JPY | Leading Index |  |  | 109.5 |
-| 12:00 | SGD | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
 | 12:00 | SGD | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
+| 12:00 | SGD | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
 | 13:45 | EUR | French Consumer Confidence (Jul) |  | 86 | 85 |
 | 15:00 | CHF | ZEW Expectations (Jul) |  | -31.1 | -30.8 |
 | 15:00 | EUR | M3 Money Supply (Jun) |  |  | 10,000,000.0% |
