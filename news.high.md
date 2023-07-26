@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 19:00 | USD | Building Permits | 1.441M | 1.440M | 1.496M |
 | 21:00 | USD | New Home Sales (Jun) | 697K | 725K | 715K |
-| 23:30 | USD | Crude Oil Inventories | | -2.348M | -0.708M |
+| 21:30 | USD | Crude Oil Inventories | -0.600M | -2.348M | -0.708M |
