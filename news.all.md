@@ -7,6 +7,7 @@
 | 01:00 | USD | High | FOMC Statement |  |  |  |
 | 01:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.25% |
 | 01:30 | USD | High | FOMC Press Conference |  |  |  |
+| 04:00 | KRW | Low | Manufacturing BSI Index (Aug) | 71 |  | 69 |
 | 06:50 | JPY | Low | Foreign Bonds Buying |  |  | -77.4B |
 | 06:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 238.6B |
 | 08:30 | AUD | Low | Export Price Index (QoQ) (Q2) |  | 7.8% | 1.6% |

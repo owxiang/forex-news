@@ -4,6 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 00:30 | BRL | Foreign Exchange Flows | -0.836B |  | 3.170B |
+| 04:00 | KRW | Manufacturing BSI Index (Aug) | 71 |  | 69 |
 | 06:50 | JPY | Foreign Bonds Buying |  |  | -77.4B |
 | 06:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 238.6B |
 | 08:30 | AUD | Export Price Index (QoQ) (Q2) |  | 7.8% | 1.6% |
