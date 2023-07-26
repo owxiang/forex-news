@@ -6,23 +6,23 @@
 | 03:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.319M | -1.969M | -0.797M |
 | 04:00 | KRW | Low | Consumer Confidence (Jul) | 103.2 | 99.2 | 100.7 |
 | 06:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 1.2% | 1.4% | 1.7% |
-| 08:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.4% |
-| 08:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 5.4% | 5.6% |
-| 08:30 | AUD | Low | CPI Index Number (Q2) |  |  | 130.80 |
-| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) |  | 5.9% | 6.6% |
-| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Jun) |  |  | 5.60% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) |  | 5.4% | 5.8% |
-| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) |  | 1.1% | 1.2% |
+| 08:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.4% |
+| 08:30 | AUD | Moderate | CPI (YoY) (Q2) | 6.0% | 5.4% | 5.6% |
+| 08:30 | AUD | Low | CPI Index Number (Q2) | 133.70 |  | 132.60 |
+| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 5.9% | 5.9% | 6.6% |
+| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.9% | 1.1% | 1.2% |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Jun) | 5.40% |  | 5.60% |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 5.5% | 5.4% | 5.8% |
+| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 1.0% | 1.1% | 1.2% |
 | 12:00 | JPY | Low | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
 | 12:00 | JPY | Low | Leading Index (MoM) |  |  | 1.4% |
 | 12:00 | JPY | Low | Leading Index |  |  | 109.5 |
-| 12:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
 | 12:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
+| 12:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
 | 13:45 | EUR | Low | French Consumer Confidence (Jul) |  | 86 | 85 |
 | 15:00 | CHF | Low | ZEW Expectations (Jul) |  | -31.1 | -30.8 |
-| 15:00 | EUR | Low | M3 Money Supply (Jun) |  |  | 10,000,000.0% |
 | 15:00 | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 1.0% | 1.4% |
+| 15:00 | EUR | Low | M3 Money Supply (Jun) |  |  | 10,000,000.0% |
 | 15:00 | EUR | Low | Loans to Non Financial Corporations (Jun) |  | 3.4% | 4.0% |
 | 15:00 | EUR | Low | Private Sector Loans (YoY) |  | 1.8% | 2.1% |
 | 16:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.637% |
