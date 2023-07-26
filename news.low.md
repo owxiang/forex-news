@@ -12,8 +12,8 @@
 | 12:00 | JPY | Coincident Indicator (MoM) | 0.1% | -0.4% | 0.1% |
 | 12:00 | JPY | Leading Index (MoM) | 1.1% |  | 1.4% |
 | 12:00 | JPY | Leading Index | 109.2 | 109.5 | 109.5 |
-| 12:00 | SGD | Industrial Production (YoY) (Jun) | -4.9% | -6.8% | -10.5% |
 | 12:00 | SGD | Industrial Production (MoM) (Jun) | 5.0% | 3.8% | -3.6% |
+| 12:00 | SGD | Industrial Production (YoY) (Jun) | -4.9% | -6.8% | -10.5% |
 | 13:45 | EUR | French Consumer Confidence | 85 | 86 | 85 |
 | 15:00 | CHF | ZEW Expectations (Jul) | -32.6 | -31.1 | -30.8 |
 | 15:00 | EUR | M3 Money Supply (YoY) (Jun) | 0.6% | 1.0% | 1.4% |
@@ -25,9 +25,9 @@
 | 18:00 | USD | MBA Purchase Index | 159.2 |  | 163.2 |
 | 18:00 | USD | Mortgage Market Index | 206.9 |  | 210.7 |
 | 18:00 | USD | Mortgage Refinance Index | 444.5 |  | 446.4 |
-| 29 min | INR | M3 Money Supply |  | 11.0% | 11.3% |
-| 29 min | BRL | Current Account (USD) |  | 1.00B | 0.65B |
-| 29 min | BRL | Foreign direct investment (USD) |  | 6.70B | 5.38B |
+| 18:31 | BRL | Current Account (USD) (Jun) | -0.84B | 1.00B | 0.65B |
+| 18:31 | BRL | Foreign direct investment (USD) (Jun) | 1.88B | 6.70B | 5.38B |
+| 19:00 | INR | M3 Money Supply |  | 11.0% | 11.3% |
 | 21:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Crude Oil Imports |  | -1.937M | -0.376M |
 | 21:30 | USD | Distillate Fuel Production |  | 0.002M | -0.054M |
