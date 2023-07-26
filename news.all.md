@@ -6,19 +6,19 @@
 | 03:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.319M | -1.969M | -0.797M |
 | 04:00 | KRW | Low | Consumer Confidence (Jul) | 103.2 | 99.2 | 100.7 |
 | 06:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 1.2% | 1.4% | 1.7% |
+| 08:30 | AUD | Moderate | CPI (YoY) (Q2) | 5.4% | 5.4% | 5.6% |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.4% |
-| 08:30 | AUD | Moderate | CPI (YoY) (Q2) | 6.0% | 5.4% | 5.6% |
 | 08:30 | AUD | Low | CPI Index Number (Q2) | 133.70 |  | 132.60 |
-| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 5.9% | 5.9% | 6.6% |
+| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 5.9% | 6.0% | 6.6% |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.9% | 1.1% | 1.2% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Jun) | 5.40% |  | 5.60% |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Jun) | 5.40% | 5.40% | 5.50% |
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 5.5% | 5.4% | 5.8% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 1.0% | 1.1% | 1.2% |
-| 12:00 | JPY | Low | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
-| 12:00 | JPY | Low | Leading Index (MoM) |  |  | 1.4% |
-| 12:00 | JPY | Low | Leading Index |  |  | 109.5 |
-| 12:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
-| 12:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
+| 59 min | JPY | Low | Coincident Indicator (MoM) |  | -0.4% | 0.1% |
+| 59 min | JPY | Low | Leading Index (MoM) |  |  | 1.4% |
+| 59 min | JPY | Low | Leading Index |  |  | 109.5 |
+| 59 min | SGD | Low | Industrial Production (MoM) (Jun) |  | 3.8% | -3.9% |
+| 59 min | SGD | Low | Industrial Production (YoY) (Jun) |  | -6.8% | -10.8% |
 | 13:45 | EUR | Low | French Consumer Confidence (Jul) |  | 86 | 85 |
 | 15:00 | CHF | Low | ZEW Expectations (Jul) |  | -31.1 | -30.8 |
 | 15:00 | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 1.0% | 1.4% |
@@ -33,18 +33,18 @@
 | 18:00 | USD | Low | Mortgage Refinance Index |  |  | 446.4 |
 | 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
 | 18:30 | BRL | Low | Current Account (USD) |  | 1.00B | 0.65B |
-| 18:30 | BRL | Low | Foreign direct investment (USD) |  | 6.42B | 5.38B |
+| 18:30 | BRL | Low | Foreign direct investment (USD) |  | 6.70B | 5.38B |
 | 19:00 | USD | High | Building Permits |  | 1.440M | 1.496M |
 | 19:00 | USD | Moderate | Building Permits (MoM) |  | -3.7% | 5.6% |
-| 21:00 | USD | High | New Home Sales (Jun) |  | 727K | 763K |
+| 21:00 | USD | High | New Home Sales (Jun) |  | 725K | 763K |
 | 21:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  | -0.7% | 12.2% |
-| 21:30 | USD | High | Crude Oil Inventories |  | -2.400M | -0.708M |
+| 21:30 | USD | High | Crude Oil Inventories |  | -2.348M | -0.708M |
 | 21:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Low | Crude Oil Imports |  | -1.937M | -0.376M |
 | 21:30 | USD | Moderate | Cushing Crude Oil Inventories |  | -1.442M | -2.891M |
 | 21:30 | USD | Low | Distillate Fuel Production |  | 0.002M | -0.054M |
-| 21:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.075M | 0.014M |
+| 21:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.301M | 0.014M |
 | 21:30 | USD | Low | Gasoline Production |  | 0.045M | -0.584M |
 | 21:30 | USD | Low | Heating Oil Stockpiles |  | 0.222M | 0.223M |
 | 21:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 21:30 | USD | Low | Gasoline Inventories |  | 0.146M | -1.066M |
+| 21:30 | USD | Low | Gasoline Inventories |  | -1.678M | -1.066M |
