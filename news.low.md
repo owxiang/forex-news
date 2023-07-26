@@ -20,14 +20,14 @@
 | 15:00 | EUR | Loans to Non Financial Corporations (Jun) | 3.0% | 3.4% | 4.0% |
 | 15:00 | EUR | Private Sector Loans (YoY) | 1.7% | 1.8% | 2.1% |
 | 16:10 | EUR | Italian 6-Month BOT Auction | 3.815% |  | 3.637% |
-| 59 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 59 min | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
-| 59 min | USD | MBA Purchase Index |  |  | 163.2 |
-| 59 min | USD | Mortgage Market Index |  |  | 210.7 |
-| 59 min | USD | Mortgage Refinance Index |  |  | 446.4 |
-| 18:30 | INR | M3 Money Supply |  | 11.0% | 11.3% |
-| 18:30 | BRL | Current Account (USD) |  | 1.00B | 0.65B |
-| 18:30 | BRL | Foreign direct investment (USD) |  | 6.70B | 5.38B |
+| 18:00 | USD | MBA 30-Year Mortgage Rate | 6.87% |  | 6.87% |
+| 18:00 | USD | MBA Mortgage Applications (WoW) | -1.8% |  | 1.1% |
+| 18:00 | USD | MBA Purchase Index | 159.2 |  | 163.2 |
+| 18:00 | USD | Mortgage Market Index | 206.9 |  | 210.7 |
+| 18:00 | USD | Mortgage Refinance Index | 444.5 |  | 446.4 |
+| 29 min | INR | M3 Money Supply |  | 11.0% | 11.3% |
+| 29 min | BRL | Current Account (USD) |  | 1.00B | 0.65B |
+| 29 min | BRL | Foreign direct investment (USD) |  | 6.70B | 5.38B |
 | 21:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Crude Oil Imports |  | -1.937M | -0.376M |
 | 21:30 | USD | Distillate Fuel Production |  | 0.002M | -0.054M |

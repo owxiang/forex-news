@@ -25,18 +25,18 @@
 | 15:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 3.0% | 3.4% | 4.0% |
 | 15:00 | EUR | Low | Private Sector Loans (YoY) | 1.7% | 1.8% | 2.1% |
 | 16:10 | EUR | Low | Italian 6-Month BOT Auction | 3.815% |  | 3.637% |
-| 59 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 59 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
-| 59 min | USD | Low | MBA Purchase Index |  |  | 163.2 |
-| 59 min | USD | Low | Mortgage Market Index |  |  | 210.7 |
-| 59 min | USD | Low | Mortgage Refinance Index |  |  | 446.4 |
-| 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
-| 18:30 | BRL | Low | Current Account (USD) |  | 1.00B | 0.65B |
-| 18:30 | BRL | Low | Foreign direct investment (USD) |  | 6.70B | 5.38B |
-| 19:00 | USD | Moderate | Building Permits (MoM) |  | -3.7% | 5.6% |
-| 19:00 | USD | High | Building Permits |  | 1.440M | 1.496M |
-| 21:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  | -0.7% | 12.2% |
+| 18:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.87% |  | 6.87% |
+| 18:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.8% |  | 1.1% |
+| 18:00 | USD | Low | MBA Purchase Index | 159.2 |  | 163.2 |
+| 18:00 | USD | Low | Mortgage Market Index | 206.9 |  | 210.7 |
+| 18:00 | USD | Low | Mortgage Refinance Index | 444.5 |  | 446.4 |
+| 29 min | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
+| 29 min | BRL | Low | Current Account (USD) |  | 1.00B | 0.65B |
+| 29 min | BRL | Low | Foreign direct investment (USD) |  | 6.70B | 5.38B |
+| 59 min | USD | High | Building Permits |  | 1.440M | 1.496M |
+| 59 min | USD | Moderate | Building Permits (MoM) |  | -3.7% | 5.6% |
 | 21:00 | USD | High | New Home Sales (Jun) |  | 725K | 763K |
+| 21:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  | -0.7% | 12.2% |
 | 21:30 | USD | High | Crude Oil Inventories |  | -2.348M | -0.708M |
 | 21:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Low | Crude Oil Imports |  | -1.937M | -0.376M |
