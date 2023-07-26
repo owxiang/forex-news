@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 59 min | USD | FOMC Statement |  |  |  |
-| 59 min | USD | Fed Interest Rate Decision |  | 5.50% | 5.25% |
-| 01:30 | USD | FOMC Press Conference |  |  |  |
+| 01:00 | USD | FOMC Statement |  |  |  |
+| 01:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.25% |
+| 28 min | USD | FOMC Press Conference |  |  |  |
 | 19:15 | EUR | Deposit Facility Rate (Jul) |  | 3.75% | 3.50% |
 | 19:15 | EUR | ECB Interest Rate Decision (Jul) |  | 4.25% | 4.00% |
 | 19:30 | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.1% | 0.6% |

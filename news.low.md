@@ -2,7 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 00:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 00:30 | BRL | Foreign Exchange Flows | -0.836B |  | 3.170B |
 | 06:50 | JPY | Foreign Bonds Buying |  |  | -77.4B |
 | 06:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 238.6B |
 | 08:30 | AUD | Export Price Index (QoQ) (Q2) |  | 7.8% | 1.6% |
@@ -17,8 +18,8 @@
 | 15:00 | EUR | Italian Business Confidence (Jul) |  | 99.8 | 100.3 |
 | 15:00 | EUR | Italian Consumer Confidence (Jul) |  | 107.6 | 108.6 |
 | 16:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.81% |
-| 16:30 | ZAR | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
 | 16:30 | ZAR | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
+| 16:30 | ZAR | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
 | 17:00 | GBP | CBI Distributive Trades Survey (Jul) |  |  | -9 |
 | 18:30 | INR | M3 Money Supply |  | 11.0% | 11.3% |
 | 18:30 | BRL | Foreign Exchange Flows |  | 2.239B | 3.876B |

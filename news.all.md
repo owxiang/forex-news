@@ -2,10 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 29 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 59 min | USD | High | FOMC Statement |  |  |  |
-| 59 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.25% |
-| 01:30 | USD | High | FOMC Press Conference |  |  |  |
+| 00:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 00:30 | BRL | Low | Foreign Exchange Flows | -0.836B |  | 3.170B |
+| 01:00 | USD | High | FOMC Statement |  |  |  |
+| 01:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.25% |
+| 28 min | USD | High | FOMC Press Conference |  |  |  |
 | 06:50 | JPY | Low | Foreign Bonds Buying |  |  | -77.4B |
 | 06:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 238.6B |
 | 08:30 | AUD | Low | Export Price Index (QoQ) (Q2) |  | 7.8% | 1.6% |
@@ -22,8 +23,8 @@
 | 15:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 107.6 | 108.6 |
 | 16:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 16:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.81% |
-| 16:30 | ZAR | Low | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
 | 16:30 | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
+| 16:30 | ZAR | Low | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) |  |  | -9 |
 | 17:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
