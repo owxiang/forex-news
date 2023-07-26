@@ -24,8 +24,8 @@
 | 15:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 107.6 | 108.6 |
 | 16:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 16:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.81% |
-| 16:30 | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
 | 16:30 | ZAR | Low | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
+| 16:30 | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) |  |  | -9 |
 | 17:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
