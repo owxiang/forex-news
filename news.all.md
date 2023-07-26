@@ -5,7 +5,7 @@
 | 00:00 | USD | Moderate | 5-Year Note Auction | 4.170% |  | 4.019% |
 | 03:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.319M | -1.969M | -0.797M |
 | 04:00 | KRW | Low | Consumer Confidence (Jul) | 103.2 | 99.2 | 100.7 |
-| 49 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 1.4% | 1.6% |
+| 06:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 1.2% | 1.4% | 1.7% |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q2) |  | 1.0% | 1.4% |
 | 08:30 | AUD | Moderate | CPI (YoY) (Q2) |  | 5.4% | 5.6% |
 | 08:30 | AUD | Low | CPI Index Number (Q2) |  |  | 130.80 |
