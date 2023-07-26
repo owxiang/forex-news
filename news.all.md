@@ -21,11 +21,11 @@
 | 12:00 | SGD | Low | Industrial Production (YoY) (Jun) | -4.9% | -6.8% | -10.5% |
 | 13:45 | EUR | Low | French Consumer Confidence | 85 | 86 | 85 |
 | 15:00 | CHF | Low | ZEW Expectations (Jul) | -32.6 | -31.1 | -30.8 |
+| 15:00 | EUR | Low | M3 Money Supply (Jun) | 10,000,000.0M |  | 10,000,000.0M |
 | 15:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 0.6% | 1.0% | 1.4% |
 | 15:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 3.0% | 3.4% | 4.0% |
 | 15:00 | EUR | Low | Private Sector Loans (YoY) | 1.7% | 1.8% | 2.1% |
-| 16:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.637% |
-| 17:00 | EUR | Low | M3 Money Supply (Jun) |  |  | 10,000,000.0M |
+| 9 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.637% |
 | 18:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 18:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.1% |
 | 18:00 | USD | Low | MBA Purchase Index |  |  | 163.2 |
@@ -36,8 +36,8 @@
 | 18:30 | BRL | Low | Foreign direct investment (USD) |  | 6.70B | 5.38B |
 | 19:00 | USD | High | Building Permits |  | 1.440M | 1.496M |
 | 19:00 | USD | Moderate | Building Permits (MoM) |  | -3.7% | 5.6% |
-| 21:00 | USD | High | New Home Sales (Jun) |  | 725K | 763K |
 | 21:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  | -0.7% | 12.2% |
+| 21:00 | USD | High | New Home Sales (Jun) |  | 725K | 763K |
 | 21:30 | USD | High | Crude Oil Inventories |  | -2.348M | -0.708M |
 | 21:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Low | Crude Oil Imports |  | -1.937M | -0.376M |

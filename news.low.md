@@ -16,11 +16,11 @@
 | 12:00 | SGD | Industrial Production (YoY) (Jun) | -4.9% | -6.8% | -10.5% |
 | 13:45 | EUR | French Consumer Confidence | 85 | 86 | 85 |
 | 15:00 | CHF | ZEW Expectations (Jul) | -32.6 | -31.1 | -30.8 |
+| 15:00 | EUR | M3 Money Supply (Jun) | 10,000,000.0M |  | 10,000,000.0M |
 | 15:00 | EUR | M3 Money Supply (YoY) (Jun) | 0.6% | 1.0% | 1.4% |
 | 15:00 | EUR | Loans to Non Financial Corporations (Jun) | 3.0% | 3.4% | 4.0% |
 | 15:00 | EUR | Private Sector Loans (YoY) | 1.7% | 1.8% | 2.1% |
-| 16:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.637% |
-| 17:00 | EUR | M3 Money Supply (Jun) |  |  | 10,000,000.0M |
+| 9 min | EUR | Italian 6-Month BOT Auction |  |  | 3.637% |
 | 18:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 18:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.1% |
 | 18:00 | USD | MBA Purchase Index |  |  | 163.2 |
