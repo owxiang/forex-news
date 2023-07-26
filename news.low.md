@@ -27,7 +27,6 @@
 | 18:00 | USD | Mortgage Refinance Index | 444.5 |  | 446.4 |
 | 18:31 | BRL | Current Account (USD) (Jun) | -0.84B | 1.00B | 0.65B |
 | 18:31 | BRL | Foreign direct investment (USD) (Jun) | 1.88B | 6.70B | 5.38B |
-| 19:00 | INR | M3 Money Supply |  | 11.0% | 11.3% |
 | 21:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Crude Oil Imports |  | -1.937M | -0.376M |
 | 21:30 | USD | Distillate Fuel Production |  | 0.002M | -0.054M |
@@ -36,3 +35,4 @@
 | 21:30 | USD | Heating Oil Stockpiles |  | 0.222M | 0.223M |
 | 21:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
 | 21:30 | USD | Gasoline Inventories |  | -1.678M | -1.066M |
+| 22:00 | INR | M3 Money Supply |  | 11.0% | 11.3% |

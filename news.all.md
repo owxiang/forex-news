@@ -9,8 +9,8 @@
 | 08:30 | AUD | Moderate | CPI (YoY) (Q2) | 6.0% | 6.2% | 7.0% |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.4% |
 | 08:30 | AUD | Low | CPI Index Number (Q2) | 133.70 |  | 132.60 |
-| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.9% | 1.1% | 1.2% |
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q2) | 5.9% | 6.0% | 6.6% |
+| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q2) | 0.9% | 1.1% | 1.2% |
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Jun) | 5.40% | 5.40% | 5.50% |
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q2) | 5.5% | 5.4% | 5.8% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q2) | 1.0% | 1.1% | 1.2% |
@@ -32,11 +32,10 @@
 | 18:00 | USD | Low | Mortgage Refinance Index | 444.5 |  | 446.4 |
 | 18:31 | BRL | Low | Current Account (USD) (Jun) | -0.84B | 1.00B | 0.65B |
 | 18:31 | BRL | Low | Foreign direct investment (USD) (Jun) | 1.88B | 6.70B | 5.38B |
-| 19:00 | USD | Moderate | Building Permits (MoM) | -3.7% | -3.7% | 5.6% |
 | 19:00 | USD | High | Building Permits | 1.441M | 1.440M | 1.496M |
-| 19:00 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
-| 21:00 | USD | High | New Home Sales (Jun) |  | 725K | 763K |
-| 21:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  | -0.7% | 12.2% |
+| 19:00 | USD | Moderate | Building Permits (MoM) | -3.7% | -3.7% | 5.6% |
+| 52 min | USD | High | New Home Sales (Jun) |  | 725K | 763K |
+| 52 min | USD | Moderate | New Home Sales (MoM) (Jun) |  | -0.7% | 12.2% |
 | 21:30 | USD | High | Crude Oil Inventories |  | -2.348M | -0.708M |
 | 21:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.074M |
 | 21:30 | USD | Low | Crude Oil Imports |  | -1.937M | -0.376M |
@@ -47,3 +46,4 @@
 | 21:30 | USD | Low | Heating Oil Stockpiles |  | 0.222M | 0.223M |
 | 21:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
 | 21:30 | USD | Low | Gasoline Inventories |  | -1.678M | -1.066M |
+| 22:00 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
