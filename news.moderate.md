@@ -1,12 +1,14 @@
-## 26 July 2023 - Moderate Impact Forex News
+## 27 July 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | 5-Year Note Auction | 4.170% |  | 4.019% |
-| 03:30 | USD | API Weekly Crude Oil Stock | 1.319M | -1.969M | -0.797M |
-| 08:30 | AUD | CPI (QoQ) (Q2) | 0.8% | 1.0% | 1.4% |
-| 08:30 | AUD | CPI (YoY) (Q2) | 6.0% | 6.2% | 7.0% |
-| 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q2) | 0.9% | 1.1% | 1.2% |
-| 19:00 | USD | Building Permits (MoM) | -3.7% | -3.7% | 5.6% |
-| 21:00 | USD | New Home Sales (MoM) (Jun) | -2.5% | -0.7% | 6.6% |
-| 21:30 | USD | Cushing Crude Oil Inventories | -2.609M | -1.442M | -2.891M |
+| 13:00 | EUR | GfK German Consumer Climate (Aug) |  | -24.7 | -25.4 |
+| 16:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
+| 17:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
+| 19:15 | EUR | ECB Marginal Lending Facility |  |  | 4.25% |
+| 19:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 19:30 | USD | Durable Goods Orders (MoM) (Jun) |  | 0.7% | 1.7% |
+| 19:30 | USD | GDP Price Index (QoQ) (Q2) |  | 3.0% | 4.1% |
+| 19:30 | USD | Goods Trade Balance (Jun) |  | -91.80B | -91.13B |
+| 19:30 | USD | Retail Inventories Ex Auto (Jun) |  |  | -0.1% |
+| 21:15 | EUR | ECB President Lagarde Speaks |  |  |  |

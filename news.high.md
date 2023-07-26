@@ -1,7 +1,14 @@
-## 26 July 2023 - High Impact Forex News
+## 27 July 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19:00 | USD | Building Permits | 1.441M | 1.440M | 1.496M |
-| 21:00 | USD | New Home Sales (Jun) | 697K | 725K | 715K |
-| 21:30 | USD | Crude Oil Inventories | -0.600M | -2.348M | -0.708M |
+| 59 min | USD | FOMC Statement |  |  |  |
+| 59 min | USD | Fed Interest Rate Decision |  | 5.50% | 5.25% |
+| 01:30 | USD | FOMC Press Conference |  |  |  |
+| 19:15 | EUR | Deposit Facility Rate (Jul) |  | 3.75% | 3.50% |
+| 19:15 | EUR | ECB Interest Rate Decision (Jul) |  | 4.25% | 4.00% |
+| 19:30 | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.1% | 0.6% |
+| 19:30 | USD | GDP (QoQ) (Q2) |  | 1.7% | 2.0% |
+| 19:30 | USD | Initial Jobless Claims |  | 235K | 228K |
+| 19:45 | EUR | ECB Press Conference |  |  |  |
+| 21:00 | USD | Pending Home Sales (MoM) (Jun) |  | -0.6% | -2.7% |
