@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
-| 04:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
-| 06:00 | KRW | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
+| 03:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
+| 15 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
 | 06:00 | KRW | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
+| 06:00 | KRW | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
 | 06:00 | KRW | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
 | 06:00 | KRW | Service Sector Output (MoM) (Jun) |  | 0.3% | -0.1% |
 | 06:30 | JPY | CPI (YoY) (Jul) |  |  | 2.3% |

@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | 7-Year Note Auction | 4.087% |  | 3.839% |
 | 00:00 | BRL | Moderate | CAGED Net Payroll Jobs (Jun) | 157.20K | 164.50K | 155.27K |
-| 03:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,275B |
-| 03:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
-| 04:00 | MXN | Low | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
-| 06:00 | KRW | Low | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
+| 03:00 | MXN | Low | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
+| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,275B |
+| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
 | 06:00 | KRW | Low | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
+| 06:00 | KRW | Low | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
 | 06:00 | KRW | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
 | 06:00 | KRW | Low | Service Sector Output (MoM) (Jun) |  | 0.3% | -0.1% |
 | 06:30 | JPY | Low | CPI (YoY) (Jul) |  |  | 2.3% |
@@ -27,8 +27,8 @@
 | 12:30 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
 | 12:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
 | 12:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
-| 12:30 | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 12:30 | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.8% |
 | 13:00 | JPY | High | BoJ Press Conference |  |  |  |
 | 13:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
 | 13:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
@@ -42,8 +42,8 @@
 | 14:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
 | 14:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
 | 14:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.5% | 0.6% |
-| 14:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
 | 14:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 1.7% | 1.6% |
+| 14:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
 | 15:00 | EUR | Low | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
 | 15:00 | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
 | 15:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |

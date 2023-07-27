@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | 7-Year Note Auction | 4.087% |  | 3.839% |
 | 00:00 | BRL | CAGED Net Payroll Jobs (Jun) | 157.20K | 164.50K | 155.27K |
-| 03:30 | USD | Fed's Balance Sheet |  |  | 8,275B |
+| 15 min | USD | Fed's Balance Sheet |  |  | 8,275B |
 | 06:30 | JPY | Tokyo Core CPI (YoY) (Jul) |  | 2.9% | 3.2% |
 | 06:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) |  |  | -0.2% |
 | 08:30 | AUD | PPI (YoY) (Q2) |  | 3.9% | 5.2% |
@@ -14,8 +14,8 @@
 | 10:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 10:00 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 12:30 | EUR | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
-| 12:30 | EUR | French GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:30 | EUR | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 12:30 | EUR | French GDP (YoY) (Q2) |  |  | 0.8% |
 | 13:45 | EUR | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:45 | EUR | French HICP (MoM) |  | 0.1% | 0.2% |
 | 14:00 | CHF | KOF Leading Indicators (Jul) |  | 90.0 | 90.8 |
