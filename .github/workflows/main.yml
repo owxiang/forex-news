@@ -50,5 +50,3 @@ jobs:
           git pull origin $branch
           git add *.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update all news.*.md" && git push origin $branch)
-          #git commit -m "Update all news.*.md"
-          #git push origin $branch
