@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
-| 15 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
+| 03:30 | USD | Reserve Balances with Federal Reserve Banks | 3.167T |  | 3.221T |
+| 04:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
 | 06:00 | KRW | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
 | 06:00 | KRW | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
 | 06:00 | KRW | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
@@ -23,14 +23,14 @@
 | 14:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
 | 14:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
 | 14:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
-| 15:00 | EUR | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
 | 15:00 | EUR | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
-| 15:00 | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
+| 15:00 | EUR | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
 | 15:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
+| 15:00 | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
 | 15:00 | EUR | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
 | 15:00 | EUR | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
-| 15:00 | EUR | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
 | 15:00 | EUR | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 15:00 | EUR | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
 | 15:00 | EUR | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 15:00 | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 15:00 | NOK | Unemployment Change (Jul) |  |  | 62.08K |
@@ -58,13 +58,13 @@
 | 18:30 | BRL | Budget Balance (Jun) |  | -74.925B | -119.226B |
 | 18:30 | BRL | Budget Surplus (Jun) |  | -18.785B | -50.172B |
 | 18:40 | INR | Infrastructure Output (YoY) |  |  | 4.3% |
-| 19:00 | EUR | German HICP (YoY) (Jul) |  | 6.6% | 6.8% |
 | 19:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
+| 19:00 | EUR | German HICP (YoY) (Jul) |  | 6.6% | 6.8% |
 | 19:30 | USD | Employment Benefits (QoQ) (Q2) |  | 1.30% | 1.20% |
 | 19:30 | USD | Employment Wages (QoQ) (Q2) |  | 1.20% | 1.20% |
 | 19:30 | USD | Personal Income (MoM) (Jun) |  | 0.5% | 0.4% |
 | 19:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.0% |
 | 21:00 | USD | Michigan Current Conditions (Jul) |  | 77.5 | 69.0 |
-| 22:00 | CAD | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
 | 22:00 | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
+| 22:00 | CAD | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
 | 22:53 | USD | Dallas Fed PCE (Jun) |  | 4.30% | 3.20% |

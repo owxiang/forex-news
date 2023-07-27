@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | 7-Year Note Auction | 4.087% |  | 3.839% |
 | 00:00 | BRL | CAGED Net Payroll Jobs (Jun) | 157.20K | 164.50K | 155.27K |
-| 15 min | USD | Fed's Balance Sheet |  |  | 8,275B |
+| 03:30 | USD | Fed's Balance Sheet | 8,243B |  | 8,275B |
 | 06:30 | JPY | Tokyo Core CPI (YoY) (Jul) |  | 2.9% | 3.2% |
 | 06:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) |  |  | -0.2% |
 | 08:30 | AUD | PPI (YoY) (Q2) |  | 3.9% | 5.2% |
@@ -27,8 +27,8 @@
 | 19:00 | EUR | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 19:00 | BRL | Unemployment Rate |  | 8.2% | 8.3% |
 | 19:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 1.1% | 1.2% |
-| 19:30 | USD | PCE Price index (YoY) (Jun) |  | 3.1% | 3.8% |
 | 19:30 | USD | PCE price index (MoM) (Jun) |  | -0.1% | 0.1% |
+| 19:30 | USD | PCE Price index (YoY) (Jun) |  | 3.1% | 3.8% |
 | 19:30 | USD | Personal Spending (MoM) (Jun) |  | 0.4% | 0.1% |
 | 19:30 | CAD | GDP (MoM) |  | 0.4% | 0.0% |
 | 21:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.1% | 3.0% |
