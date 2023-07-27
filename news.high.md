@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-
-| 11:30 | USD | Fed Interest Rate Decision | | 5.50% | 5.25% |
+| 11:35 | USD | Fed Interest Rate Decision | | 5.50% | 5.25% |
 | 11:45 | USD | FOMC Press Conference |  |  |  |
 
