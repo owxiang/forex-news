@@ -7,25 +7,25 @@
 | 03:30 | USD | Moderate | Fed's Balance Sheet | 8,243B |  | 8,275B |
 | 03:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.167T |  | 3.221T |
 | 04:00 | MXN | Low | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
-| 06:00 | KRW | Low | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
-| 06:00 | KRW | Low | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
-| 06:00 | KRW | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
-| 06:00 | KRW | Low | Service Sector Output (MoM) (Jun) |  | 0.3% | -0.1% |
+| 47 min | KRW | Low | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
+| 47 min | KRW | Low | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
+| 47 min | KRW | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
+| 47 min | KRW | Low | Service Sector Output (MoM) (Jun) |  | 0.3% | -0.1% |
 | 06:30 | JPY | Low | CPI (YoY) (Jul) |  |  | 2.3% |
 | 06:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jul) |  | 2.9% | 3.2% |
 | 06:30 | JPY | Low | Tokyo CPI (YoY) (Jul) |  | 2.8% | 3.1% |
 | 06:30 | JPY | Moderate | CPI Tokyo Ex Food and Energy (MoM) (Jul) |  |  | -0.2% |
 | 07:30 | SGD | Low | URA Property Index (QoQ) (Q2) |  | -0.40% | 3.30% |
-| 08:30 | AUD | Moderate | PPI (YoY) (Q2) |  | 3.9% | 5.2% |
 | 08:30 | AUD | Moderate | PPI (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 08:30 | AUD | Moderate | PPI (YoY) (Q2) |  | 3.9% | 5.2% |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
 | 09:00 | SGD | Low | Bank Lending |  |  | 798.8B |
 | 09:30 | SGD | Low | Unemployment Rate |  |  | 1.8% |
 | 10:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 10:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 10:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
-| 12:30 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
 | 12:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
+| 12:30 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
 | 12:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
 | 12:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 12:30 | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.8% |
@@ -33,35 +33,35 @@
 | 13:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
 | 13:45 | EUR | Low | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 13:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 13:45 | EUR | Low | French HICP (YoY) |  | 5.0% | 5.3% |
 | 13:45 | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.2% |
-| 13:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 5.80% |
+| 13:45 | EUR | Low | French HICP (YoY) |  | 5.0% | 5.3% |
 | 13:45 | EUR | Low | French PPI (MoM) (Jun) |  | -2.8% | -1.4% |
+| 13:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 5.80% |
 | 14:00 | CHF | Moderate | KOF Leading Indicators (Jul) |  | 90.0 | 90.8 |
 | 14:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 1.7% | 1.9% |
 | 14:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
 | 14:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
 | 14:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.5% | 0.6% |
-| 14:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 1.7% | 1.6% |
 | 14:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
-| 15:00 | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
+| 14:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 1.7% | 1.6% |
 | 15:00 | EUR | Low | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
+| 15:00 | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
 | 15:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
 | 15:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
-| 15:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
 | 15:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
+| 15:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
 | 15:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 15:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
-| 15:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 15:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
+| 15:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 15:00 | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
 | 15:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
 | 16:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
 | 16:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
-| 16:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
 | 16:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
+| 16:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
 | 16:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
 | 16:00 | EUR | Low | Business Climate (Jul) |  |  | 0.06 |
 | 16:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
@@ -92,8 +92,8 @@
 | 19:30 | USD | Low | Employment Benefits (QoQ) (Q2) |  | 1.30% | 1.20% |
 | 19:30 | USD | Moderate | Employment Cost Index (QoQ) (Q2) |  | 1.1% | 1.2% |
 | 19:30 | USD | Low | Employment Wages (QoQ) (Q2) |  | 1.20% | 1.20% |
-| 19:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | -0.1% | 0.1% |
 | 19:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 3.1% | 3.8% |
+| 19:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | -0.1% | 0.1% |
 | 19:30 | USD | Low | Personal Income (MoM) (Jun) |  | 0.5% | 0.4% |
 | 19:30 | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.4% | 0.1% |
 | 19:30 | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | 0.0% |
