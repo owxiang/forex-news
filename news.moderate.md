@@ -14,8 +14,8 @@
 | 10:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 10:00 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 12:30 | EUR | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
-| 12:30 | EUR | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 12:30 | EUR | French GDP (YoY) (Q2) |  |  | 0.8% |
+| 12:30 | EUR | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 13:45 | EUR | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 13:45 | EUR | French HICP (MoM) |  | 0.1% | 0.2% |
 | 14:00 | CHF | KOF Leading Indicators (Jul) |  | 90.0 | 90.8 |
@@ -27,8 +27,8 @@
 | 19:00 | EUR | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 19:00 | BRL | Unemployment Rate |  | 8.2% | 8.3% |
 | 19:30 | USD | Employment Cost Index (QoQ) (Q2) |  | 1.1% | 1.2% |
-| 19:30 | USD | PCE price index (MoM) (Jun) |  | -0.1% | 0.1% |
 | 19:30 | USD | PCE Price index (YoY) (Jun) |  | 3.1% | 3.8% |
+| 19:30 | USD | PCE price index (MoM) (Jun) |  | -0.1% | 0.1% |
 | 19:30 | USD | Personal Spending (MoM) (Jun) |  | 0.4% | 0.1% |
 | 19:30 | CAD | GDP (MoM) |  | 0.4% | 0.0% |
 | 21:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.1% | 3.0% |
