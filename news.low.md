@@ -11,17 +11,17 @@
 | 08:30 | AUD | Import Price Index (QoQ) (Q2) | -0.8% | -7.3% | -4.2% |
 | 08:30 | CNY | Chinese Industrial profit (YoY) (Jun) | -8.30% |  | -6.50% |
 | 08:30 | CNY | Chinese Industrial profit YTD (Jun) | -16.8% |  | -18.8% |
-| 41 min | SGD | Unemployment Rate (Q2) |  |  | 1.8% |
-| 41 min | HKD | Interest Rate Decision |  |  | 5.50% |
-| 10:00 | IDR | M2 Money Supply (YoY) |  |  | 6.10% |
+| 12 min | SGD | Unemployment Rate (Q2) |  |  | 1.8% |
+| 12 min | HKD | Interest Rate Decision |  |  | 5.50% |
+| 42 min | IDR | M2 Money Supply (YoY) |  |  | 6.10% |
 | 13:00 | NOK | Unemployment Rate (Jun) |  | 2.7% | 3.0% |
 | 14:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  | 0.6% | 6.0% |
 | 14:00 | EUR | Spanish Unemployment Rate (Q2) |  | 13.80% | 13.26% |
 | 15:00 | EUR | Italian Business Confidence (Jul) |  | 99.8 | 100.3 |
 | 15:00 | EUR | Italian Consumer Confidence (Jul) |  | 107.6 | 108.6 |
 | 16:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.81% |
-| 16:30 | ZAR | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
 | 16:30 | ZAR | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
+| 16:30 | ZAR | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
 | 17:00 | GBP | CBI Distributive Trades Survey (Jul) |  |  | -9 |
 | 18:30 | INR | M3 Money Supply |  | 11.0% | 11.3% |
 | 18:30 | BRL | Foreign Exchange Flows |  | 2.239B | 3.876B |
