@@ -14,9 +14,9 @@
 | 08:30 | AUD | Low | Import Price Index (QoQ) (Q2) | -0.8% | -7.3% | -4.2% |
 | 08:30 | CNY | Low | Chinese Industrial profit (YoY) (Jun) | -8.30% |  | -6.50% |
 | 08:30 | CNY | Low | Chinese Industrial profit YTD (Jun) | -16.8% |  | -18.8% |
-| 12 min | SGD | Low | Unemployment Rate (Q2) |  |  | 1.8% |
-| 12 min | HKD | Low | Interest Rate Decision |  |  | 5.50% |
-| 42 min | IDR | Low | M2 Money Supply (YoY) |  |  | 6.10% |
+| 09:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% |  | 1.8% |
+| 09:30 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.50% |
+| 59 min | IDR | Low | M2 Money Supply (YoY) (Jun) | 6.10% |  | 6.10% |
 | 13:00 | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -24.7 | -25.4 |
 | 13:00 | NOK | Low | Unemployment Rate (Jun) |  | 2.7% | 3.0% |
 | 14:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  | 0.6% | 6.0% |
@@ -25,8 +25,8 @@
 | 15:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 107.6 | 108.6 |
 | 16:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 16:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.81% |
-| 16:30 | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
 | 16:30 | ZAR | Low | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
+| 16:30 | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) |  |  | -9 |
 | 17:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
