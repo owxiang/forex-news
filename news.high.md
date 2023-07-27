@@ -11,4 +11,4 @@
 | 19:30 | USD | GDP (QoQ) (Q2) | 2.4% | 1.8% | 2.0% |
 | 19:30 | USD | Initial Jobless Claims | 221K | 235K | 228K |
 | 19:45 | EUR | ECB Press Conference |  |  |  |
-| 41 min | USD | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |
+| 21:00 | USD | Pending Home Sales (MoM) (Jun) | 0.3% | -0.5% | -2.5% |

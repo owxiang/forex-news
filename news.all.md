@@ -33,7 +33,7 @@
 | 19:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.864B |
 | 19:00 | MXN | Low | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
 | 19:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.70% | 3.00% | 2.90% |
-| 19:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -3.07% |
+| 19:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -2.88% |
 | 19:15 | EUR | High | Deposit Facility Rate (Jul) | 3.75% | 3.75% | 3.50% |
 | 19:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.50% |  | 4.25% |
 | 19:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -53,14 +53,14 @@
 | 19:30 | USD | Low | PCE Prices (Q2) | 2.6% |  | 4.1% |
 | 19:30 | USD | Low | Real Consumer Spending (Q2) | 1.6% |  | 4.2% |
 | 19:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.4% |  | -0.1% |
-| 19:30 | USD | Low | Wholesale Inventories (MoM) | -0.3% | -0.3% | 0.0% |
+| 19:30 | USD | Low | Wholesale Inventories (MoM) | -0.3% | -0.3% | -0.3% |
 | 19:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 3.6 |  | 3.0 |
 | 19:45 | EUR | High | ECB Press Conference |  |  |  |
-| 41 min | USD | High | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |
-| 41 min | USD | Low | Pending Home Sales Index (Jun) |  |  | 76.5 |
-| 56 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | Low | Natural Gas Storage |  | 19B | 41B |
-| 22:00 | USD | Low | KC Fed Composite Index (Jul) |  | -7 | -12 |
-| 22:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |
+| 21:00 | USD | High | Pending Home Sales (MoM) (Jun) | 0.3% | -0.5% | -2.5% |
+| 21:00 | USD | Low | Pending Home Sales Index (Jun) | 76.8 |  | 76.6 |
+| 21:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16 min | USD | Low | Natural Gas Storage |  | 19B | 41B |
+| 46 min | USD | Low | KC Fed Composite Index (Jul) |  | -7 | -12 |
+| 46 min | USD | Low | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |
 | 22:30 | USD | Low | 4-Week Bill Auction |  |  | 5.255% |
 | 22:30 | USD | Low | 8-Week Bill Auction |  |  | 5.255% |

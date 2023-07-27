@@ -10,4 +10,4 @@
 | 19:30 | USD | GDP Price Index (QoQ) (Q2) | 2.2% | 3.0% | 4.1% |
 | 19:30 | USD | Goods Trade Balance (Jun) | -87.84B | -91.80B | -91.13B |
 | 19:30 | USD | Retail Inventories Ex Auto (Jun) | 0.4% |  | -0.1% |
-| 56 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:15 | EUR | ECB President Lagarde Speaks |  |  |  |

@@ -28,7 +28,7 @@
 | 19:00 | MXN | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.864B |
 | 19:00 | MXN | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
 | 19:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.70% | 3.00% | 2.90% |
-| 19:00 | BRL | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -3.07% |
+| 19:00 | BRL | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -2.88% |
 | 19:30 | USD | Continuing Jobless Claims | 1,690K | 1,750K | 1,749K |
 | 19:30 | USD | Core PCE Prices (Q2) | 3.80% | 4.00% | 4.90% |
 | 19:30 | USD | Durables Excluding Defense (MoM) (Jun) | 6.2% | 0.0% | 3.2% |
@@ -37,11 +37,11 @@
 | 19:30 | USD | Jobless Claims 4-Week Avg. | 233.75K | 242.10K | 237.50K |
 | 19:30 | USD | PCE Prices (Q2) | 2.6% |  | 4.1% |
 | 19:30 | USD | Real Consumer Spending (Q2) | 1.6% |  | 4.2% |
-| 19:30 | USD | Wholesale Inventories (MoM) | -0.3% | -0.3% | 0.0% |
+| 19:30 | USD | Wholesale Inventories (MoM) | -0.3% | -0.3% | -0.3% |
 | 19:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.6 |  | 3.0 |
-| 41 min | USD | Pending Home Sales Index (Jun) |  |  | 76.5 |
-| 21:30 | USD | Natural Gas Storage |  | 19B | 41B |
-| 22:00 | USD | KC Fed Composite Index (Jul) |  | -7 | -12 |
-| 22:00 | USD | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |
+| 21:00 | USD | Pending Home Sales Index (Jun) | 76.8 |  | 76.6 |
+| 16 min | USD | Natural Gas Storage |  | 19B | 41B |
+| 46 min | USD | KC Fed Composite Index (Jul) |  | -7 | -12 |
+| 46 min | USD | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |
 | 22:30 | USD | 4-Week Bill Auction |  |  | 5.255% |
 | 22:30 | USD | 8-Week Bill Auction |  |  | 5.255% |
