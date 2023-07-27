@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | USD | Reserve Balances with Federal Reserve Banks | 3.167T |  | 3.221T |
 | 04:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
-| 47 min | KRW | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
-| 47 min | KRW | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
-| 47 min | KRW | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
-| 47 min | KRW | Service Sector Output (MoM) (Jun) |  | 0.3% | -0.1% |
-| 06:30 | JPY | CPI (YoY) (Jul) |  |  | 2.3% |
-| 06:30 | JPY | Tokyo CPI (YoY) (Jul) |  | 2.8% | 3.1% |
+| 06:00 | KRW | Industrial Production (MoM) (Jun) | -1.0% | -0.3% | 3.0% |
+| 06:00 | KRW | Industrial Production (YoY) (Jun) | -5.6% | -5.5% | -7.6% |
+| 06:00 | KRW | Retail Sales (MoM) (Jun) | 1.0% | 0.0% | 0.4% |
+| 06:00 | KRW | Service Sector Output (MoM) (Jun) | 0.5% | 0.3% | -0.3% |
+| 16 min | JPY | CPI (YoY) (Jul) |  |  | 2.3% |
+| 16 min | JPY | Tokyo CPI (YoY) (Jul) |  | 2.8% | 3.1% |
 | 07:30 | SGD | URA Property Index (QoQ) (Q2) |  | -0.40% | 3.30% |
 | 09:00 | SGD | Bank Lending |  |  | 798.8B |
 | 09:30 | SGD | Unemployment Rate |  |  | 1.8% |
@@ -18,25 +18,25 @@
 | 13:00 | NOK | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
 | 13:45 | EUR | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 13:45 | EUR | French HICP (YoY) |  | 5.0% | 5.3% |
-| 13:45 | EUR | French PPI (MoM) (Jun) |  | -2.8% | -1.4% |
 | 13:45 | EUR | PPI (YoY) (Jun) |  |  | 5.80% |
+| 13:45 | EUR | French PPI (MoM) (Jun) |  | -2.8% | -1.4% |
 | 14:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
 | 14:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
 | 14:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
 | 15:00 | EUR | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
 | 15:00 | EUR | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
-| 15:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
 | 15:00 | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
+| 15:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
 | 15:00 | EUR | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
 | 15:00 | EUR | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
-| 15:00 | EUR | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 15:00 | EUR | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
+| 15:00 | EUR | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 15:00 | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 15:00 | EUR | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 15:00 | NOK | Unemployment Change (Jul) |  |  | 62.08K |
 | 15:00 | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
-| 16:00 | EUR | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
 | 16:00 | EUR | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
+| 16:00 | EUR | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
 | 16:00 | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 16:00 | EUR | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
 | 16:00 | EUR | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
@@ -65,6 +65,6 @@
 | 19:30 | USD | Personal Income (MoM) (Jun) |  | 0.5% | 0.4% |
 | 19:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.0% |
 | 21:00 | USD | Michigan Current Conditions (Jul) |  | 77.5 | 69.0 |
-| 22:00 | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
 | 22:00 | CAD | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
+| 22:00 | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
 | 22:53 | USD | Dallas Fed PCE (Jun) |  | 4.30% | 3.20% |
