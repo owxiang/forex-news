@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 13:00 | EUR | GfK German Consumer Climate (Aug) | -24.4 | -24.7 | -25.2 |
-| 51 min | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
+| 16:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 17:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 19:15 | EUR | ECB Marginal Lending Facility |  |  | 4.25% |
 | 19:15 | EUR | ECB Monetary Policy Statement |  |  |  |

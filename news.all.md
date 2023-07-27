@@ -23,11 +23,11 @@
 | 14:00 | EUR | Low | Spanish Unemployment Rate (Q2) | 11.60% | 13.00% | 13.26% |
 | 15:00 | EUR | Low | Italian Business Confidence (Jul) | 99.3 | 99.8 | 100.2 |
 | 15:00 | EUR | Low | Italian Consumer Confidence (Jul) | 106.7 | 107.8 | 108.6 |
-| 51 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
-| 51 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.81% |
-| 16:30 | ZAR | Low | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
-| 16:30 | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
-| 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) |  |  | -9 |
+| 16:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
+| 16:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.81% |
+| 15 min | ZAR | Low | PPI (MoM) (Jun) |  | 0.5% | 0.6% |
+| 15 min | ZAR | Low | PPI (YoY) (Jun) |  | 6.0% | 7.3% |
+| 45 min | GBP | Low | CBI Distributive Trades Survey (Jul) |  |  | -9 |
 | 17:30 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
 | 19:00 | MXN | Low | Trade Balance (Jun) |  | -0.280B | -0.074B |
