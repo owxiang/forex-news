@@ -30,7 +30,7 @@
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
 | 18:30 | BRL | Low | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
 | 19:00 | MXN | Low | Trade Balance (Jun) | 0.038B | -0.280B | -0.074B |
-| 19:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.489B |
+| 19:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.864B |
 | 19:00 | MXN | Low | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
 | 19:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.70% | 3.00% | 2.90% |
 | 19:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -3.07% |
@@ -53,13 +53,12 @@
 | 19:30 | USD | Low | PCE Prices (Q2) | 2.6% |  | 4.1% |
 | 19:30 | USD | Low | Real Consumer Spending (Q2) | 1.6% |  | 4.2% |
 | 19:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.4% |  | -0.1% |
-| 19:30 | USD | Low | Wholesale Inventories (MoM) |  | -0.3% | 0.0% |
-| 19:30 | CAD | Low | Average Weekly Earnings (YoY) (May) |  |  | 2.9 |
-| 19:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
-| 13 min | EUR | High | ECB Press Conference |  |  |  |
-| 21:00 | USD | High | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |
-| 21:00 | USD | Low | Pending Home Sales Index (Jun) |  |  | 76.5 |
-| 21:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 19:30 | USD | Low | Wholesale Inventories (MoM) | -0.3% | -0.3% | 0.0% |
+| 19:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 3.6 |  | 3.0 |
+| 19:45 | EUR | High | ECB Press Conference |  |  |  |
+| 41 min | USD | High | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |
+| 41 min | USD | Low | Pending Home Sales Index (Jun) |  |  | 76.5 |
+| 56 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | Low | Natural Gas Storage |  | 19B | 41B |
 | 22:00 | USD | Low | KC Fed Composite Index (Jul) |  | -7 | -12 |
 | 22:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |

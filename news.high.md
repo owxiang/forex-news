@@ -10,5 +10,5 @@
 | 19:30 | USD | Core Durable Goods Orders (MoM) (Jun) | 0.6% | 0.0% | 0.6% |
 | 19:30 | USD | GDP (QoQ) (Q2) | 2.4% | 1.8% | 2.0% |
 | 19:30 | USD | Initial Jobless Claims | 221K | 235K | 228K |
-| 13 min | EUR | ECB Press Conference |  |  |  |
-| 21:00 | USD | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |
+| 19:45 | EUR | ECB Press Conference |  |  |  |
+| 41 min | USD | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |

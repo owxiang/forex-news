@@ -25,7 +25,7 @@
 | 17:00 | GBP | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
 | 18:30 | BRL | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
 | 19:00 | MXN | Trade Balance (Jun) | 0.038B | -0.280B | -0.074B |
-| 19:00 | MXN | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.489B |
+| 19:00 | MXN | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.864B |
 | 19:00 | MXN | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
 | 19:00 | MXN | Unemployment Rate n.s.a. (Jun) | 2.70% | 3.00% | 2.90% |
 | 19:00 | BRL | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -3.07% |
@@ -37,10 +37,9 @@
 | 19:30 | USD | Jobless Claims 4-Week Avg. | 233.75K | 242.10K | 237.50K |
 | 19:30 | USD | PCE Prices (Q2) | 2.6% |  | 4.1% |
 | 19:30 | USD | Real Consumer Spending (Q2) | 1.6% |  | 4.2% |
-| 19:30 | USD | Wholesale Inventories (MoM) |  | -0.3% | 0.0% |
-| 19:30 | CAD | Average Weekly Earnings (YoY) (May) |  |  | 2.9 |
-| 19:30 | INR | M3 Money Supply |  | 11.0% | 11.3% |
-| 21:00 | USD | Pending Home Sales Index (Jun) |  |  | 76.5 |
+| 19:30 | USD | Wholesale Inventories (MoM) | -0.3% | -0.3% | 0.0% |
+| 19:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.6 |  | 3.0 |
+| 41 min | USD | Pending Home Sales Index (Jun) |  |  | 76.5 |
 | 21:30 | USD | Natural Gas Storage |  | 19B | 41B |
 | 22:00 | USD | KC Fed Composite Index (Jul) |  | -7 | -12 |
 | 22:00 | USD | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |
