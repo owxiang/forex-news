@@ -23,7 +23,6 @@
 | 16:30 | ZAR | PPI (MoM) (Jun) | -0.3% | 0.5% | 0.6% |
 | 16:40 | EUR | Italian 5-Year BTP Auction | 3.73% |  | 3.81% |
 | 17:00 | GBP | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
-| 18:30 | BRL | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
 | 19:00 | MXN | Trade Balance (Jun) | 0.038B | -0.280B | -0.074B |
 | 19:00 | MXN | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.864B |
 | 19:00 | MXN | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
@@ -39,9 +38,10 @@
 | 19:30 | USD | Real Consumer Spending (Q2) | 1.6% |  | 4.2% |
 | 19:30 | USD | Wholesale Inventories (MoM) | -0.3% | -0.3% | -0.3% |
 | 19:30 | CAD | Average Weekly Earnings (YoY) (May) | 3.6 |  | 3.0 |
+| 19:30 | BRL | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
 | 21:00 | USD | Pending Home Sales Index (Jun) | 76.8 |  | 76.6 |
 | 21:30 | USD | Natural Gas Storage | 16B | 19B | 41B |
 | 22:00 | USD | KC Fed Composite Index (Jul) | -11 | -7 | -12 |
 | 22:00 | USD | KC Fed Manufacturing Index (Jul) | -20 | -6 | -10 |
-| 15 min | USD | 4-Week Bill Auction |  |  | 5.255% |
-| 15 min | USD | 8-Week Bill Auction |  |  | 5.255% |
+| 22:30 | USD | 4-Week Bill Auction | 5.275% |  | 5.255% |
+| 22:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.255% |

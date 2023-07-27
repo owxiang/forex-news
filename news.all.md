@@ -28,7 +28,6 @@
 | 16:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.10% |  | 4.13% |
 | 16:40 | EUR | Low | Italian 5-Year BTP Auction | 3.73% |  | 3.81% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
-| 18:30 | BRL | Low | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
 | 19:00 | MXN | Low | Trade Balance (Jun) | 0.038B | -0.280B | -0.074B |
 | 19:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.864B |
 | 19:00 | MXN | Low | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
@@ -55,6 +54,7 @@
 | 19:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.4% |  | -0.1% |
 | 19:30 | USD | Low | Wholesale Inventories (MoM) | -0.3% | -0.3% | -0.3% |
 | 19:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 3.6 |  | 3.0 |
+| 19:30 | BRL | Low | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
 | 19:45 | EUR | High | ECB Press Conference |  |  |  |
 | 21:00 | USD | High | Pending Home Sales (MoM) (Jun) | 0.3% | -0.5% | -2.5% |
 | 21:00 | USD | Low | Pending Home Sales Index (Jun) | 76.8 |  | 76.6 |
@@ -62,5 +62,5 @@
 | 21:30 | USD | Low | Natural Gas Storage | 16B | 19B | 41B |
 | 22:00 | USD | Low | KC Fed Composite Index (Jul) | -11 | -7 | -12 |
 | 22:00 | USD | Low | KC Fed Manufacturing Index (Jul) | -20 | -6 | -10 |
-| 15 min | USD | Low | 4-Week Bill Auction |  |  | 5.255% |
-| 15 min | USD | Low | 8-Week Bill Auction |  |  | 5.255% |
+| 22:30 | USD | Low | 4-Week Bill Auction | 5.275% |  | 5.255% |
+| 22:30 | USD | Low | 8-Week Bill Auction | 5.285% |  | 5.255% |
