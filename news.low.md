@@ -7,11 +7,12 @@
 | 04:00 | KRW | Manufacturing BSI Index (Aug) | 71 |  | 69 |
 | 06:50 | JPY | Foreign Bonds Buying | -973.8B |  | -76.6B |
 | 06:50 | JPY | Foreign Investments in Japanese Stocks | 101.0B |  | 238.5B |
-| 08:30 | AUD | Export Price Index (QoQ) (Q2) |  | 7.8% | 1.6% |
-| 08:30 | AUD | Import Price Index (QoQ) (Q2) |  | -7.3% | -4.2% |
-| 08:30 | CNY | Chinese Industrial profit YTD (Jun) |  |  | -18.8% |
-| 09:30 | SGD | Unemployment Rate (Q2) |  |  | 1.8% |
-| 09:30 | HKD | Interest Rate Decision |  |  | 5.50% |
+| 08:30 | AUD | Export Price Index (QoQ) (Q2) | -8.5% | 7.8% | 1.6% |
+| 08:30 | AUD | Import Price Index (QoQ) (Q2) | -0.8% | -7.3% | -4.2% |
+| 08:30 | CNY | Chinese Industrial profit (YoY) (Jun) | -8.30% |  | -6.50% |
+| 08:30 | CNY | Chinese Industrial profit YTD (Jun) | -16.8% |  | -18.8% |
+| 41 min | SGD | Unemployment Rate (Q2) |  |  | 1.8% |
+| 41 min | HKD | Interest Rate Decision |  |  | 5.50% |
 | 10:00 | IDR | M2 Money Supply (YoY) |  |  | 6.10% |
 | 13:00 | NOK | Unemployment Rate (Jun) |  | 2.7% | 3.0% |
 | 14:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  | 0.6% | 6.0% |
