@@ -1,14 +1,9 @@
-## 27 July 2023 - High Impact Forex News
+## 28 July 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | FOMC Statement |  |  |  |
-| 01:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.25% |
-| 01:30 | USD | FOMC Press Conference |  |  |  |
-| 19:15 | EUR | Deposit Facility Rate (Jul) | 3.75% | 3.75% | 3.50% |
-| 19:15 | EUR | ECB Interest Rate Decision (Jul) | 4.25% | 4.25% | 4.00% |
-| 19:30 | USD | Core Durable Goods Orders (MoM) (Jun) | 0.6% | 0.0% | 0.6% |
-| 19:30 | USD | GDP (QoQ) (Q2) | 2.4% | 1.8% | 2.0% |
-| 19:30 | USD | Initial Jobless Claims | 221K | 235K | 228K |
-| 19:45 | EUR | ECB Press Conference |  |  |  |
-| 21:00 | USD | Pending Home Sales (MoM) (Jun) | 0.3% | -0.5% | -2.5% |
+| 13:00 | JPY | BoJ Press Conference |  |  |  |
+| 15:00 | EUR | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
+| 19:00 | EUR | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
+| 19:30 | USD | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
+| 19:30 | USD | Core PCE Price Index (YoY) (Jun) |  | 4.2% | 4.6% |
