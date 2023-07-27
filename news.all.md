@@ -28,34 +28,35 @@
 | 16:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.10% |  | 4.13% |
 | 16:40 | EUR | Low | Italian 5-Year BTP Auction | 3.73% |  | 3.81% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
-| 18 min | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
-| 48 min | MXN | Low | Trade Balance (Jun) |  | -0.280B | -0.074B |
-| 48 min | MXN | Low | Trade Balance (USD) (Jun) |  | -1.727B | -0.489B |
-| 48 min | MXN | Low | Unemployment Rate (Jun) |  |  | 3.00% |
-| 48 min | MXN | Low | Unemployment Rate n.s.a. (Jun) |  | 3.00% | 2.90% |
-| 48 min | BRL | Low | Brazilian PPI (MoM) (Jun) |  | -1.81% | -3.07% |
-| 19:15 | EUR | High | Deposit Facility Rate (Jul) |  | 3.75% | 3.50% |
-| 19:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.25% |
+| 18:30 | BRL | Low | Bank lending (MoM) (Jun) | 0.1% |  | 0.3% |
+| 19:00 | MXN | Low | Trade Balance (Jun) | 0.038B | -0.280B | -0.074B |
+| 19:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.424B | -1.727B | -0.489B |
+| 19:00 | MXN | Low | Unemployment Rate (Jun) | 2.70% |  | 3.00% |
+| 19:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) | 2.70% | 3.00% | 2.90% |
+| 19:00 | BRL | Low | Brazilian PPI (MoM) (Jun) | -2.72% | -1.81% | -3.07% |
+| 19:15 | EUR | High | Deposit Facility Rate (Jul) | 3.75% | 3.75% | 3.50% |
+| 19:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.50% |  | 4.25% |
 | 19:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 19:15 | EUR | High | ECB Interest Rate Decision (Jul) |  | 4.25% | 4.00% |
-| 19:30 | USD | Low | Continuing Jobless Claims |  | 1,750K | 1,754K |
-| 19:30 | USD | High | Core Durable Goods Orders (MoM) (Jun) |  | 0.0% | 0.6% |
-| 19:30 | USD | Low | Core PCE Prices (Q2) |  | 4.00% | 4.90% |
-| 19:30 | USD | Moderate | Durable Goods Orders (MoM) (Jun) |  | 1.0% | 1.7% |
-| 19:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  | 0.0% | 3.0% |
-| 19:30 | USD | High | GDP (QoQ) (Q2) |  | 1.8% | 2.0% |
-| 19:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 3.0% | 4.1% |
-| 19:30 | USD | Low | GDP Sales (Q2) |  | 1.4% | 4.2% |
-| 19:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | -0.1% | 0.7% |
-| 19:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -91.80B | -91.13B |
-| 19:30 | USD | High | Initial Jobless Claims |  | 235K | 228K |
-| 19:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 242.10K | 237.50K |
-| 19:30 | USD | Low | PCE Prices (Q2) |  |  | 4.1% |
-| 19:30 | USD | Low | Real Consumer Spending (Q2) |  |  | 4.2% |
-| 19:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  | -0.1% |
+| 19:15 | EUR | High | ECB Interest Rate Decision (Jul) | 4.25% | 4.25% | 4.00% |
+| 19:30 | USD | Low | Continuing Jobless Claims | 1,690K | 1,750K | 1,749K |
+| 19:30 | USD | High | Core Durable Goods Orders (MoM) (Jun) | 0.6% | 0.0% | 0.6% |
+| 19:30 | USD | Low | Core PCE Prices (Q2) | 3.80% | 4.00% | 4.90% |
+| 19:30 | USD | Moderate | Durable Goods Orders (MoM) (Jun) | 4.7% | 1.0% | 2.0% |
+| 19:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) | 6.2% | 0.0% | 3.2% |
+| 19:30 | USD | High | GDP (QoQ) (Q2) | 2.4% | 1.8% | 2.0% |
+| 19:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) | 2.2% | 3.0% | 4.1% |
+| 19:30 | USD | Low | GDP Sales (Q2) | 2.3% | 1.4% | 4.2% |
+| 19:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) | 0.2% | -0.1% | 0.5% |
+| 19:30 | USD | Moderate | Goods Trade Balance (Jun) | -87.84B | -91.80B | -91.13B |
+| 19:30 | USD | High | Initial Jobless Claims | 221K | 235K | 228K |
+| 19:30 | USD | Low | Jobless Claims 4-Week Avg. | 233.75K | 242.10K | 237.50K |
+| 19:30 | USD | Low | PCE Prices (Q2) | 2.6% |  | 4.1% |
+| 19:30 | USD | Low | Real Consumer Spending (Q2) | 1.6% |  | 4.2% |
+| 19:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.4% |  | -0.1% |
 | 19:30 | USD | Low | Wholesale Inventories (MoM) |  | -0.3% | 0.0% |
 | 19:30 | CAD | Low | Average Weekly Earnings (YoY) (May) |  |  | 2.9 |
-| 19:45 | EUR | High | ECB Press Conference |  |  |  |
+| 19:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
+| 13 min | EUR | High | ECB Press Conference |  |  |  |
 | 21:00 | USD | High | Pending Home Sales (MoM) (Jun) |  | -0.5% | -2.7% |
 | 21:00 | USD | Low | Pending Home Sales Index (Jun) |  |  | 76.5 |
 | 21:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
