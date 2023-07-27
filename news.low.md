@@ -23,12 +23,12 @@
 | 16:30 | ZAR | PPI (YoY) (Jun) | 4.8% | 6.0% | 7.3% |
 | 16:40 | EUR | Italian 5-Year BTP Auction | 3.73% |  | 3.81% |
 | 17:00 | GBP | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
-| 18:30 | INR | M3 Money Supply |  | 11.0% | 11.3% |
-| 19:00 | MXN | Trade Balance (Jun) |  | -0.280B | -0.074B |
-| 19:00 | MXN | Trade Balance (USD) (Jun) |  | -1.727B | -0.489B |
-| 19:00 | MXN | Unemployment Rate (Jun) |  |  | 3.00% |
-| 19:00 | MXN | Unemployment Rate n.s.a. (Jun) |  | 3.00% | 2.90% |
-| 19:00 | BRL | Brazilian PPI (MoM) (Jun) |  | -1.81% | -3.07% |
+| 18 min | INR | M3 Money Supply |  | 11.0% | 11.3% |
+| 48 min | MXN | Trade Balance (Jun) |  | -0.280B | -0.074B |
+| 48 min | MXN | Trade Balance (USD) (Jun) |  | -1.727B | -0.489B |
+| 48 min | MXN | Unemployment Rate (Jun) |  |  | 3.00% |
+| 48 min | MXN | Unemployment Rate n.s.a. (Jun) |  | 3.00% | 2.90% |
+| 48 min | BRL | Brazilian PPI (MoM) (Jun) |  | -1.81% | -3.07% |
 | 19:30 | USD | Continuing Jobless Claims |  | 1,750K | 1,754K |
 | 19:30 | USD | Core PCE Prices (Q2) |  | 4.00% | 4.90% |
 | 19:30 | USD | Durables Excluding Defense (MoM) (Jun) |  | 0.0% | 3.0% |

@@ -28,12 +28,12 @@
 | 16:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.10% |  | 4.13% |
 | 16:40 | EUR | Low | Italian 5-Year BTP Auction | 3.73% |  | 3.81% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
-| 18:30 | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
-| 19:00 | MXN | Low | Trade Balance (Jun) |  | -0.280B | -0.074B |
-| 19:00 | MXN | Low | Trade Balance (USD) (Jun) |  | -1.727B | -0.489B |
-| 19:00 | MXN | Low | Unemployment Rate (Jun) |  |  | 3.00% |
-| 19:00 | MXN | Low | Unemployment Rate n.s.a. (Jun) |  | 3.00% | 2.90% |
-| 19:00 | BRL | Low | Brazilian PPI (MoM) (Jun) |  | -1.81% | -3.07% |
+| 18 min | INR | Low | M3 Money Supply |  | 11.0% | 11.3% |
+| 48 min | MXN | Low | Trade Balance (Jun) |  | -0.280B | -0.074B |
+| 48 min | MXN | Low | Trade Balance (USD) (Jun) |  | -1.727B | -0.489B |
+| 48 min | MXN | Low | Unemployment Rate (Jun) |  |  | 3.00% |
+| 48 min | MXN | Low | Unemployment Rate n.s.a. (Jun) |  | 3.00% | 2.90% |
+| 48 min | BRL | Low | Brazilian PPI (MoM) (Jun) |  | -1.81% | -3.07% |
 | 19:15 | EUR | High | Deposit Facility Rate (Jul) |  | 3.75% | 3.50% |
 | 19:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.25% |
 | 19:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
