@@ -23,8 +23,8 @@
 | 14:00 | EUR | Low | Spanish Unemployment Rate (Q2) | 11.60% | 13.00% | 13.26% |
 | 15:00 | EUR | Low | Italian Business Confidence (Jul) | 99.3 | 99.8 | 100.2 |
 | 15:00 | EUR | Low | Italian Consumer Confidence (Jul) | 106.7 | 107.8 | 108.6 |
-| 16:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% | 0.5% | 0.6% |
 | 16:30 | ZAR | Low | PPI (YoY) (Jun) | 4.8% | 6.0% | 7.3% |
+| 16:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% | 0.5% | 0.6% |
 | 16:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.10% |  | 4.13% |
 | 16:40 | EUR | Low | Italian 5-Year BTP Auction | 3.73% |  | 3.81% |
 | 17:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -25 |  | -9 |
@@ -59,8 +59,8 @@
 | 21:00 | USD | High | Pending Home Sales (MoM) (Jun) | 0.3% | -0.5% | -2.5% |
 | 21:00 | USD | Low | Pending Home Sales Index (Jun) | 76.8 |  | 76.6 |
 | 21:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16 min | USD | Low | Natural Gas Storage |  | 19B | 41B |
-| 46 min | USD | Low | KC Fed Composite Index (Jul) |  | -7 | -12 |
-| 46 min | USD | Low | KC Fed Manufacturing Index (Jul) |  | -6 | -10 |
-| 22:30 | USD | Low | 4-Week Bill Auction |  |  | 5.255% |
-| 22:30 | USD | Low | 8-Week Bill Auction |  |  | 5.255% |
+| 21:30 | USD | Low | Natural Gas Storage | 16B | 19B | 41B |
+| 22:00 | USD | Low | KC Fed Composite Index (Jul) | -11 | -7 | -12 |
+| 22:00 | USD | Low | KC Fed Manufacturing Index (Jul) | -20 | -6 | -10 |
+| 15 min | USD | Low | 4-Week Bill Auction |  |  | 5.255% |
+| 15 min | USD | Low | 8-Week Bill Auction |  |  | 5.255% |
