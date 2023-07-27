@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | GfK German Consumer Climate (Aug) |  | -24.7 | -25.4 |
-| 16:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
+| 13:00 | EUR | GfK German Consumer Climate (Aug) | -24.4 | -24.7 | -25.2 |
+| 51 min | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 17:30 | EUR | Italian 10-Year BTP Auction |  |  | 4.13% |
 | 19:15 | EUR | ECB Marginal Lending Facility |  |  | 4.25% |
 | 19:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 19:30 | USD | Durable Goods Orders (MoM) (Jun) |  | 0.7% | 1.7% |
+| 19:30 | USD | Durable Goods Orders (MoM) (Jun) |  | 1.0% | 1.7% |
 | 19:30 | USD | GDP Price Index (QoQ) (Q2) |  | 3.0% | 4.1% |
 | 19:30 | USD | Goods Trade Balance (Jun) |  | -91.80B | -91.13B |
 | 19:30 | USD | Retail Inventories Ex Auto (Jun) |  |  | -0.1% |
