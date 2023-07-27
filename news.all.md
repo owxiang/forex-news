@@ -6,6 +6,7 @@
 | 00:00 | BRL | Moderate | CAGED Net Payroll Jobs (Jun) | 157.20K | 164.50K | 155.27K |
 | 03:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,275B |
 | 03:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
+| 04:00 | MXN | Low | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
 | 06:00 | KRW | Low | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
 | 06:00 | KRW | Low | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
 | 06:00 | KRW | Low | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
@@ -23,15 +24,15 @@
 | 10:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 10:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 10:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
-| 12:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
 | 12:30 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
+| 12:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
 | 12:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
 | 12:30 | EUR | Moderate | French GDP (YoY) (Q2) |  |  | 0.8% |
 | 12:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 13:00 | JPY | High | BoJ Press Conference |  |  |  |
 | 13:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
-| 13:45 | EUR | Low | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 13:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 13:45 | EUR | Low | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 13:45 | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.2% |
 | 13:45 | EUR | Low | French HICP (YoY) |  | 5.0% | 5.3% |
 | 13:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 5.80% |
@@ -51,16 +52,16 @@
 | 15:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
 | 15:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
 | 15:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 15:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
-| 15:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
+| 15:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
 | 15:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 15:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 15:00 | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
 | 15:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
-| 16:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
 | 16:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
-| 16:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
+| 16:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
 | 16:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 16:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 16:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
 | 16:00 | EUR | Low | Business Climate (Jul) |  |  | 0.06 |
 | 16:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.1 | -16.1 |

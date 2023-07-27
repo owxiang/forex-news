@@ -3,6 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.221T |
+| 04:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
 | 06:00 | KRW | Industrial Production (MoM) (Jun) |  | -0.3% | 3.2% |
 | 06:00 | KRW | Industrial Production (YoY) (Jun) |  | -5.5% | -7.3% |
 | 06:00 | KRW | Retail Sales (MoM) (Jun) |  | 0.0% | 0.4% |
@@ -12,8 +13,8 @@
 | 07:30 | SGD | URA Property Index (QoQ) (Q2) |  | -0.40% | 3.30% |
 | 09:00 | SGD | Bank Lending |  |  | 798.8B |
 | 09:30 | SGD | Unemployment Rate |  |  | 1.8% |
-| 12:30 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
 | 12:30 | EUR | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
+| 12:30 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
 | 13:00 | NOK | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
 | 13:45 | EUR | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 13:45 | EUR | French HICP (YoY) |  | 5.0% | 5.3% |
@@ -30,14 +31,14 @@
 | 15:00 | EUR | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
 | 15:00 | EUR | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
 | 15:00 | EUR | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 15:00 | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 15:00 | EUR | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 15:00 | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 15:00 | NOK | Unemployment Change (Jul) |  |  | 62.08K |
 | 15:00 | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
-| 16:00 | EUR | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
 | 16:00 | EUR | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
-| 16:00 | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
+| 16:00 | EUR | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
 | 16:00 | EUR | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 16:00 | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 16:00 | EUR | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
 | 16:00 | EUR | Business Climate (Jul) |  |  | 0.06 |
 | 16:00 | EUR | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
