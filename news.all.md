@@ -29,34 +29,34 @@
 | 13:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.9% |  | 0.9% |
 | 14:00 | JPY | High | BoJ Press Conference |  |  |  |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | 0.3% | -0.7% | 1.2% |
-| 10 min | CHF | Moderate | Retail Sales (YoY) |  |  | -1.1% |
-| 25 min | EUR | Low | French CPI (YoY) (Jul) |  | 4.3% | 4.5% |
-| 25 min | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 25 min | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.2% |
-| 25 min | EUR | Low | French HICP (YoY) |  | 5.1% | 5.3% |
-| 25 min | EUR | Low | PPI (YoY) (Jun) |  |  | 5.80% |
-| 25 min | EUR | Low | French PPI (MoM) (Jun) |  | -2.8% | -1.4% |
-| 40 min | CHF | Moderate | KOF Leading Indicators (Jul) |  | 90.5 | 90.8 |
-| 40 min | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 1.6% | 1.9% |
-| 40 min | EUR | Low | Spanish CPI (MoM) (Jul) |  | -0.4% | 0.6% |
-| 40 min | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
-| 40 min | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
-| 40 min | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
-| 40 min | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 1.6% | 1.6% |
-| 16:00 | EUR | Low | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
-| 16:00 | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
-| 16:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
-| 16:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
-| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
-| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 16:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
-| 16:00 | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
-| 16:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
-| 16:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 16:00 | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
-| 16:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
+| 14:30 | CHF | Moderate | Retail Sales (YoY) | 1.8% |  | -0.9% |
+| 14:45 | EUR | Low | French CPI (YoY) (Jul) | 4.3% | 4.3% | 4.5% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.0% | 0.2% | 0.2% |
+| 14:45 | EUR | Moderate | French HICP (MoM) | 0.0% | 0.1% | 0.2% |
+| 14:45 | EUR | Low | French HICP (YoY) | 5.0% | 5.1% | 5.3% |
+| 14:45 | EUR | Low | PPI (YoY) (Jun) | 3.00% |  | 5.60% |
+| 14:45 | EUR | Low | French PPI (MoM) (Jun) | -1.1% | -2.8% | -1.5% |
+| 15:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 92.2 | 90.5 | 90.7 |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.3% | 1.6% | 1.9% |
+| 15:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.1% | -0.4% | 0.6% |
+| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 1.8% | 2.0% | 4.2% |
+| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.5% |
+| 15:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.1% | 1.6% | 1.6% |
+| 47 min | EUR | Low | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
+| 47 min | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
+| 47 min | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
+| 47 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
+| 46 min | EUR | Low | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
+| 46 min | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
+| 46 min | EUR | Low | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
+| 46 min | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 46 min | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
+| 46 min | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
+| 46 min | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
+| 46 min | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 46 min | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
+| 46 min | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
 | 17:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |

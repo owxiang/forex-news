@@ -16,14 +16,14 @@
 | 13:30 | EUR | French Consumer Spending (MoM) (Jun) | 0.9% | 0.1% | 0.6% |
 | 13:30 | EUR | French GDP (QoQ) (Q2) | 0.5% | 0.1% | 0.1% |
 | 13:30 | EUR | French GDP (YoY) (Q2) | 0.9% |  | 0.9% |
-| 10 min | CHF | Retail Sales (YoY) |  |  | -1.1% |
-| 25 min | EUR | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 25 min | EUR | French HICP (MoM) |  | 0.1% | 0.2% |
-| 40 min | CHF | KOF Leading Indicators (Jul) |  | 90.5 | 90.8 |
-| 40 min | EUR | Spanish CPI (YoY) (Jul) |  | 1.6% | 1.9% |
-| 40 min | EUR | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
-| 40 min | EUR | Spanish HICP (YoY) (Jul) |  | 1.6% | 1.6% |
-| 16:00 | EUR | German GDP (YoY) (Q2) |  |  | -0.2% |
+| 14:30 | CHF | Retail Sales (YoY) | 1.8% |  | -0.9% |
+| 14:45 | EUR | French CPI (MoM) (Jul) | 0.0% | 0.2% | 0.2% |
+| 14:45 | EUR | French HICP (MoM) | 0.0% | 0.1% | 0.2% |
+| 15:00 | CHF | KOF Leading Indicators (Jul) | 92.2 | 90.5 | 90.7 |
+| 15:00 | EUR | Spanish CPI (YoY) (Jul) | 2.3% | 1.6% | 1.9% |
+| 15:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.5% |
+| 15:00 | EUR | Spanish HICP (YoY) (Jul) | 2.1% | 1.6% | 1.6% |
+| 46 min | EUR | German GDP (YoY) (Q2) |  |  | -0.2% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  | 74.0% | 73.6% |
 | 20:00 | EUR | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 20:00 | BRL | Unemployment Rate |  | 8.2% | 8.3% |
