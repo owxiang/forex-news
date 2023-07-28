@@ -16,13 +16,13 @@
 | 06:30 | JPY | Low | Tokyo CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 06:30 | JPY | Moderate | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.5% |  | -0.2% |
 | 07:30 | SGD | Low | URA Property Index (QoQ) (Q2) | -0.20% | -0.40% | -0.40% |
-| 14 min | AUD | Moderate | PPI (YoY) (Q2) |  | 3.9% | 5.2% |
-| 14 min | AUD | Moderate | PPI (QoQ) (Q2) |  | 0.9% | 1.0% |
-| 14 min | AUD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
-| 44 min | SGD | Low | Bank Lending |  |  | 798.8B |
-| 10:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 10:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
-| 10:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 08:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.9% | 3.9% | 4.9% |
+| 08:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.5% | 0.9% | 0.7% |
+| 08:30 | AUD | Moderate | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | 0.8% |
+| 09:00 | SGD | Low | Bank Lending |  |  | 798.8B |
+| 31 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 31 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 31 min | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 12:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
 | 12:30 | EUR | Low | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
 | 12:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) |  | -0.1% | 0.5% |
@@ -39,20 +39,20 @@
 | 14:00 | CHF | Moderate | KOF Leading Indicators (Jul) |  | 90.0 | 90.8 |
 | 14:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 1.7% | 1.9% |
 | 14:00 | EUR | Low | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
-| 14:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.5% | 0.6% |
 | 14:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
+| 14:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.5% | 0.6% |
 | 14:00 | EUR | Low | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
 | 14:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) |  | 1.7% | 1.6% |
 | 15:00 | EUR | Low | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
 | 15:00 | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
 | 15:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
 | 15:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
-| 15:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
 | 15:00 | EUR | Low | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
-| 15:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 15:00 | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
 | 15:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
-| 15:00 | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
+| 15:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
 | 15:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 15:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 15:00 | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
@@ -83,8 +83,8 @@
 | 18:40 | INR | Low | Infrastructure Output (YoY) |  |  | 4.3% |
 | 19:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 19:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
-| 19:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 19:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.6% | 6.8% |
+| 19:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 19:00 | BRL | Moderate | Unemployment Rate |  | 8.2% | 8.3% |
 | 19:30 | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.3% |
 | 19:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 4.2% | 4.6% |
@@ -102,6 +102,6 @@
 | 21:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 72.6 | 64.4 |
 | 21:00 | USD | Low | Michigan Current Conditions (Jul) |  | 77.5 | 69.0 |
 | 21:00 | USD | Moderate | Michigan Inflation Expectations (Jul) |  | 3.4% | 3.3% |
-| 22:00 | CAD | Low | Budget Balance (May) |  | -20.21B | -44.41B |
 | 22:00 | CAD | Low | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
+| 22:00 | CAD | Low | Budget Balance (May) |  | -20.21B | -44.41B |
 | 22:53 | USD | Low | Dallas Fed PCE (Jun) |  | 4.30% | 3.20% |
