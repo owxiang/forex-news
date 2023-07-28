@@ -11,15 +11,15 @@
 | 07:30 | JPY | CPI (YoY) (Jul) | 2.5% |  | 2.3% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 08:30 | SGD | URA Property Index (QoQ) (Q2) | -0.20% | -0.40% | -0.40% |
-| 11:00 | SGD | Bank Lending |  |  | 798.8B |
-| 13:30 | EUR | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
+| 12 min | SGD | Bank Lending |  |  | 798.8B |
 | 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Jul) |  | 6.2% | 5.7% |
+| 13:30 | EUR | North Rhine Westphalia CPI (MoM) |  |  | 0.3% |
 | 14:00 | NOK | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
-| 14:45 | EUR | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
-| 14:45 | EUR | French HICP (YoY) |  | 5.0% | 5.3% |
+| 14:45 | EUR | French CPI (YoY) (Jul) |  | 4.3% | 4.5% |
+| 14:45 | EUR | French HICP (YoY) |  | 5.1% | 5.3% |
 | 14:45 | EUR | PPI (YoY) (Jun) |  |  | 5.80% |
 | 14:45 | EUR | French PPI (MoM) (Jun) |  | -2.8% | -1.4% |
-| 15:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
+| 15:00 | EUR | Spanish CPI (MoM) (Jul) |  | -0.4% | 0.6% |
 | 15:00 | EUR | Spanish GDP (YoY) (Q2) |  | 2.0% | 4.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.5% | 0.6% |
 | 16:00 | EUR | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
@@ -43,11 +43,11 @@
 | 17:00 | EUR | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
 | 17:00 | EUR | Consumer Inflation Expectation (Jul) |  | 9.8 | 6.1 |
 | 17:00 | EUR | Selling Price Expectations (Jul) |  | 0.6 | 4.4 |
-| 17:00 | EUR | Services Sentiment (Jul) |  | 5.3 | 5.7 |
+| 17:00 | EUR | Services Sentiment (Jul) |  | 5.4 | 5.7 |
 | 17:00 | EUR | Industrial Sentiment (Jul) |  | -7.5 | -7.2 |
 | 19:00 | EUR | Spanish Business Confidence |  |  | -8.3 |
 | 19:00 | BRL | Brazilian IGP-M Inflation (YoY) (YoY) |  |  |  |
-| 19:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -1.92% | -1.93% |
+| 19:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -0.71% | -1.93% |
 | 19:30 | INR | Bank Loan Growth |  | 15.6% | 16.2% |
 | 19:30 | INR | Deposit Growth |  | 12.6% | 13.0% |
 | 19:30 | INR | FX Reserves, USD |  | 614.35B | 609.02B |
