@@ -13,9 +13,9 @@
 | 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 11:00 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 13:30 | EUR | French Consumer Spending (MoM) (Jun) |  | 0.1% | 0.5% |
-| 13:30 | EUR | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
-| 13:30 | EUR | French GDP (YoY) (Q2) |  |  | 0.8% |
+| 16 min | EUR | French Consumer Spending (MoM) (Jun) |  | 0.1% | 0.5% |
+| 16 min | EUR | French GDP (YoY) (Q2) |  |  | 0.8% |
+| 16 min | EUR | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 14:30 | CHF | Retail Sales (YoY) |  |  | -1.1% |
 | 14:45 | EUR | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 14:45 | EUR | French HICP (MoM) |  | 0.1% | 0.2% |
