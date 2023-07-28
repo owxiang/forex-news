@@ -30,14 +30,14 @@
 | 16:00 | EUR | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 16:00 | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 16:00 | EUR | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 16:00 | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 16:00 | NOK | Unemployment Change (Jul) |  |  | 62.08K |
 | 16:00 | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
 | 17:00 | EUR | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
 | 17:00 | EUR | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
-| 17:00 | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 17:00 | EUR | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 17:00 | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 17:00 | EUR | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
 | 17:00 | EUR | Business Climate (Jul) |  |  | 0.06 |
 | 17:00 | EUR | Consumer Confidence (Jul) |  | -15.1 | -16.1 |

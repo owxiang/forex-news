@@ -16,8 +16,8 @@
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 07:30 | JPY | Moderate | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.5% |  | -0.2% |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q2) | -0.20% | -0.40% | -0.40% |
-| 09:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.9% | 3.9% | 4.9% |
 | 09:30 | AUD | Moderate | PPI (QoQ) (Q2) | 0.5% | 0.9% | 0.7% |
+| 09:30 | AUD | Moderate | PPI (YoY) (Q2) | 3.9% | 3.9% | 4.9% |
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | 0.8% |
 | 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
@@ -30,8 +30,8 @@
 | 13:30 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 14:00 | JPY | High | BoJ Press Conference |  |  |  |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  | -0.7% | 1.2% |
-| 14:45 | EUR | Low | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 14:45 | EUR | Low | French CPI (YoY) (Jul) |  | 4.4% | 4.5% |
 | 14:45 | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.2% |
 | 14:45 | EUR | Low | French HICP (YoY) |  | 5.0% | 5.3% |
 | 14:45 | EUR | Low | PPI (YoY) (Jun) |  |  | 5.80% |
@@ -53,14 +53,14 @@
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 16:00 | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
 | 16:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
-| 16:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 16:00 | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 16:00 | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
 | 16:00 | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
 | 16:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
 | 17:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
-| 17:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 17:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
 | 17:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
 | 17:00 | EUR | Low | Business Climate (Jul) |  |  | 0.06 |
 | 17:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
