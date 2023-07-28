@@ -11,7 +11,6 @@
 | 07:30 | JPY | CPI (YoY) (Jul) | 2.5% |  | 2.3% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 08:30 | SGD | URA Property Index (QoQ) (Q2) | -0.20% | -0.40% | -0.40% |
-| 13:30 | EUR | North Rhine Westphalia CPI (MoM) | 0.2% |  | 0.3% |
 | 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 5.8% | 6.2% | 5.7% |
 | 14:00 | NOK | Core Retail Sales (MoM) (Jun) | 0.3% | -0.7% | 1.2% |
 | 14:45 | EUR | French CPI (YoY) (Jul) | 4.3% | 4.3% | 4.5% |
@@ -21,29 +20,30 @@
 | 15:00 | EUR | Spanish CPI (MoM) (Jul) | 0.1% | -0.4% | 0.6% |
 | 15:00 | EUR | Spanish GDP (YoY) (Q2) | 1.8% | 2.0% | 4.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
-| 47 min | EUR | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
-| 47 min | EUR | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
-| 47 min | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
-| 47 min | EUR | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
-| 46 min | EUR | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
-| 46 min | EUR | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
-| 46 min | EUR | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
-| 46 min | EUR | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 46 min | EUR | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
-| 46 min | EUR | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 46 min | NOK | Unemployment Change (Jul) |  |  | 62.08K |
-| 46 min | NOK | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
-| 17:00 | EUR | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
-| 17:00 | EUR | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
-| 17:00 | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
-| 17:00 | EUR | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
-| 17:00 | EUR | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
-| 17:00 | EUR | Business Climate (Jul) |  |  | 0.06 |
-| 17:00 | EUR | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
-| 17:00 | EUR | Consumer Inflation Expectation (Jul) |  | 9.8 | 6.1 |
-| 17:00 | EUR | Selling Price Expectations (Jul) |  | 0.6 | 4.4 |
-| 17:00 | EUR | Services Sentiment (Jul) |  | 5.4 | 5.7 |
-| 17:00 | EUR | Industrial Sentiment (Jul) |  | -7.5 | -7.2 |
+| 15:45 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
+| 15:45 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 16:00 | EUR | Italian PPI (YoY) (Jun) | -5.5% | -12.9% | -4.3% |
+| 16:00 | EUR | Italian PPI (MoM) (Jun) | -0.3% | -6.3% | -2.3% |
+| 16:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.1% |
+| 16:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
+| 16:00 | EUR | Bavaria CPI (YoY) (Jul) | 6.1% | 6.2% | 6.2% |
+| 16:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
+| 16:00 | EUR | Brandenburg CPI (YoY) (Jul) | 6.7% | 6.7% | 6.7% |
+| 16:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
+| 16:00 | EUR | Hesse CPI (YoY) (Jul) | 6.1% | 6.1% | 5.9% |
+| 16:00 | NOK | Unemployment Change (Jul) | 64.24K |  | 62.50K |
+| 16:00 | NOK | Unemployment Rate n.s.a. (Jul) | 1.80% |  | 1.70% |
+| 41 min | EUR | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
+| 41 min | EUR | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
+| 41 min | EUR | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
+| 41 min | EUR | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 41 min | EUR | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
+| 41 min | EUR | Business Climate (Jul) |  |  | 0.06 |
+| 41 min | EUR | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
+| 41 min | EUR | Consumer Inflation Expectation (Jul) |  | 9.8 | 6.1 |
+| 41 min | EUR | Selling Price Expectations (Jul) |  | 0.6 | 4.4 |
+| 41 min | EUR | Services Sentiment (Jul) |  | 5.4 | 5.7 |
+| 41 min | EUR | Industrial Sentiment (Jul) |  | -7.5 | -7.2 |
 | 19:00 | EUR | Spanish Business Confidence |  |  | -8.3 |
 | 19:00 | BRL | Brazilian IGP-M Inflation (YoY) (YoY) |  |  |  |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -0.71% | -1.93% |

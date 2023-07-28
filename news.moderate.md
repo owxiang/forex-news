@@ -23,7 +23,7 @@
 | 15:00 | EUR | Spanish CPI (YoY) (Jul) | 2.3% | 1.6% | 1.9% |
 | 15:00 | EUR | Spanish GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.5% |
 | 15:00 | EUR | Spanish HICP (YoY) (Jul) | 2.1% | 1.6% | 1.6% |
-| 46 min | EUR | German GDP (YoY) (Q2) |  |  | -0.2% |
+| 16:00 | EUR | German GDP (YoY) (Q2) | -0.6% |  | -0.2% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  | 74.0% | 73.6% |
 | 20:00 | EUR | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 20:00 | BRL | Unemployment Rate |  | 8.2% | 8.3% |

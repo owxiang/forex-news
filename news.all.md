@@ -22,7 +22,6 @@
 | 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) | 0.2% |  | 0.3% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 5.8% | 6.2% | 5.7% |
 | 13:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.9% | 0.1% | 0.6% |
 | 13:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.1% | 0.1% |
@@ -32,8 +31,8 @@
 | 14:30 | CHF | Moderate | Retail Sales (YoY) | 1.8% |  | -0.9% |
 | 14:45 | EUR | Low | French CPI (YoY) (Jul) | 4.3% | 4.3% | 4.5% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.0% | 0.2% | 0.2% |
-| 14:45 | EUR | Moderate | French HICP (MoM) | 0.0% | 0.1% | 0.2% |
 | 14:45 | EUR | Low | French HICP (YoY) | 5.0% | 5.1% | 5.3% |
+| 14:45 | EUR | Moderate | French HICP (MoM) | 0.0% | 0.1% | 0.2% |
 | 14:45 | EUR | Low | PPI (YoY) (Jun) | 3.00% |  | 5.60% |
 | 14:45 | EUR | Low | French PPI (MoM) (Jun) | -1.1% | -2.8% | -1.5% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 92.2 | 90.5 | 90.7 |
@@ -41,33 +40,34 @@
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.1% | -0.4% | 0.6% |
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 1.8% | 2.0% | 4.2% |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.5% |
-| 15:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.1% | 1.6% | 1.6% |
-| 47 min | EUR | Low | Italian PPI (YoY) (Jun) |  | -12.9% | -4.3% |
-| 47 min | EUR | Low | Italian PPI (MoM) (Jun) |  | -6.3% | -2.3% |
-| 47 min | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.1% |
-| 47 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) |  | 6.9% | 6.6% |
-| 46 min | EUR | Low | Bavaria CPI (YoY) (Jul) |  | 6.2% | 6.1% |
-| 46 min | EUR | Low | Bavaria CPI (MoM) (Jul) |  | 0.2% | -0.1% |
-| 46 min | EUR | Low | Brandenburg CPI (YoY) (Jul) |  | 6.7% | 6.3% |
-| 46 min | EUR | Low | Brandenburg CPI (MoM) (Jul) |  | 0.3% | 0.1% |
-| 46 min | EUR | High | German GDP (QoQ) (Q2) |  | 0.1% | -0.3% |
-| 46 min | EUR | Moderate | German GDP (YoY) (Q2) |  |  | -0.2% |
-| 46 min | EUR | Low | Hesse CPI (YoY) (Jul) |  | 6.1% | 5.9% |
-| 46 min | EUR | Low | Hesse CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 46 min | NOK | Low | Unemployment Change (Jul) |  |  | 62.08K |
-| 46 min | NOK | Low | Unemployment Rate n.s.a. (Jul) |  |  | 1.70% |
-| 17:00 | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
-| 17:00 | EUR | Low | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
-| 17:00 | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
-| 17:00 | EUR | Low | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
-| 17:00 | EUR | Low | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
-| 17:00 | EUR | Low | Business Climate (Jul) |  |  | 0.06 |
-| 17:00 | EUR | Low | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
-| 17:00 | EUR | Low | Consumer Inflation Expectation (Jul) |  | 9.8 | 6.1 |
-| 17:00 | EUR | Low | Selling Price Expectations (Jul) |  | 0.6 | 4.4 |
-| 17:00 | EUR | Low | Services Sentiment (Jul) |  | 5.4 | 5.7 |
-| 17:00 | EUR | Low | Industrial Sentiment (Jul) |  | -7.5 | -7.2 |
+| 15:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
+| 15:45 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
+| 15:45 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 16:00 | EUR | Low | Italian PPI (YoY) (Jun) | -5.5% | -12.9% | -4.3% |
+| 16:00 | EUR | Low | Italian PPI (MoM) (Jun) | -0.3% | -6.3% | -2.3% |
+| 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.1% |
+| 16:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
+| 16:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 6.1% | 6.2% | 6.2% |
+| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
+| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 6.7% | 6.7% | 6.7% |
+| 16:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.6% |  | -0.2% |
+| 16:00 | EUR | High | German GDP (QoQ) (Q2) | -0.2% | 0.1% | -0.3% |
+| 16:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
+| 16:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 6.1% | 6.1% | 5.9% |
+| 16:00 | NOK | Low | Unemployment Change (Jul) | 64.24K |  | 62.50K |
+| 16:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 1.80% |  | 1.70% |
+| 41 min | EUR | Low | Italian Industrial Sales (MoM) (May) |  | -0.10% | -1.80% |
+| 41 min | EUR | Low | Italian Industrial Sales (YoY) (May) |  | 9.30% | -1.80% |
+| 41 min | EUR | Low | Saxony CPI (YoY) (Jul) |  | 6.8% | 6.5% |
+| 41 min | EUR | Low | Saxony CPI (MoM) (Jul) |  | 0.3% | -0.3% |
+| 41 min | EUR | Low | Business and Consumer Survey (Jul) |  | 95.0 | 95.3 |
+| 41 min | EUR | Low | Business Climate (Jul) |  |  | 0.06 |
+| 41 min | EUR | Low | Consumer Confidence (Jul) |  | -15.1 | -16.1 |
+| 41 min | EUR | Low | Consumer Inflation Expectation (Jul) |  | 9.8 | 6.1 |
+| 41 min | EUR | Low | Selling Price Expectations (Jul) |  | 0.6 | 4.4 |
+| 41 min | EUR | Low | Services Sentiment (Jul) |  | 5.4 | 5.7 |
+| 41 min | EUR | Low | Industrial Sentiment (Jul) |  | -7.5 | -7.2 |
 | 19:00 | EUR | Low | Spanish Business Confidence |  |  | -8.3 |
 | 19:00 | BRL | Low | Brazilian IGP-M Inflation (YoY) (YoY) |  |  |  |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | -0.71% | -1.93% |
