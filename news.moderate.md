@@ -7,8 +7,8 @@
 | 04:30 | USD | Fed's Balance Sheet | 8,243B |  | 8,275B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Jul) | 3.0% | 2.9% | 3.2% |
 | 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.5% |  | -0.2% |
-| 09:30 | AUD | PPI (YoY) (Q2) | 3.9% | 3.9% | 4.9% |
 | 09:30 | AUD | PPI (QoQ) (Q2) | 0.5% | 0.9% | 0.7% |
+| 09:30 | AUD | PPI (YoY) (Q2) | 3.9% | 3.9% | 4.9% |
 | 09:30 | AUD | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | 0.8% |
 | 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
