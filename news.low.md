@@ -23,14 +23,14 @@
 | 15:00 | EUR | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
 | 16:00 | EUR | Italian PPI (YoY) (Jun) | -5.5% | -12.9% | -4.3% |
 | 16:00 | EUR | Italian PPI (MoM) (Jun) | -0.3% | -6.3% | -2.3% |
-| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.1% |
+| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Jul) | 6.1% | 6.2% | 6.2% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Jul) | 6.7% | 6.7% | 6.7% |
-| 16:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 16:00 | EUR | Hesse CPI (YoY) (Jul) | 6.1% | 6.1% | 5.9% |
+| 16:00 | EUR | Hesse CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 16:00 | NOK | Unemployment Change (Jul) | 64.24K |  | 62.50K |
 | 16:00 | NOK | Unemployment Rate n.s.a. (Jul) | 1.80% |  | 1.70% |
 | 17:00 | EUR | Italian Industrial Sales (YoY) (May) | -0.50% | 9.30% | -1.90% |
@@ -57,9 +57,9 @@
 | 20:30 | USD | Employment Wages (QoQ) (Q2) | 1.00% | 1.20% | 1.20% |
 | 20:30 | USD | Personal Income (MoM) (Jun) | 0.3% | 0.5% | 0.5% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.4% |  | 0.1% |
-| 41 min | USD | Michigan Current Conditions (Jul) |  | 77.5 | 69.0 |
-| 23:00 | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
-| 23:00 | CAD | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
+| 22:00 | USD | Michigan Current Conditions (Jul) | 76.6 | 77.5 | 69.0 |
+| 47 min | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
+| 47 min | CAD | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
 | 23:30 | INR | Bank Loan Growth |  | 15.6% | 16.2% |
 | 23:30 | INR | Deposit Growth |  | 12.6% | 13.0% |
 | 23:30 | INR | FX Reserves, USD |  | 614.35B | 609.02B |

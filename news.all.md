@@ -25,36 +25,36 @@
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | 0.3% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jul) | 5.8% | 6.2% | 5.7% |
 | 13:30 | EUR | Moderate | French Consumer Spending (MoM) (Jun) | 0.9% | 0.1% | 0.6% |
-| 13:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.9% |  | 0.9% |
 | 13:30 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.1% | 0.1% |
+| 13:30 | EUR | Moderate | French GDP (YoY) (Q2) | 0.9% |  | 0.9% |
 | 14:00 | JPY | High | BoJ Press Conference |  |  |  |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | 0.3% | -0.7% | 1.2% |
 | 14:30 | CHF | Moderate | Retail Sales (YoY) | 1.8% |  | -0.9% |
 | 14:45 | EUR | Low | French CPI (YoY) (Jul) | 4.3% | 4.3% | 4.5% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.0% | 0.2% | 0.2% |
-| 14:45 | EUR | Low | French HICP (YoY) | 5.0% | 5.1% | 5.3% |
 | 14:45 | EUR | Moderate | French HICP (MoM) | 0.0% | 0.1% | 0.2% |
+| 14:45 | EUR | Low | French HICP (YoY) | 5.0% | 5.1% | 5.3% |
 | 14:45 | EUR | Low | French PPI (MoM) (Jun) | -1.1% | -2.8% | -1.5% |
 | 14:45 | EUR | Low | PPI (YoY) (Jun) | 3.00% |  | 5.60% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Jul) | 92.2 | 90.5 | 90.7 |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.3% | 1.6% | 1.9% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.1% | -0.4% | 0.6% |
-| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 1.8% | 2.0% | 4.2% |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.4% | 0.4% | 0.5% |
+| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 1.8% | 2.0% | 4.2% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.1% | 1.6% | 1.6% |
 | 16:00 | EUR | Low | Italian PPI (YoY) (Jun) | -5.5% | -12.9% | -4.3% |
 | 16:00 | EUR | Low | Italian PPI (MoM) (Jun) | -0.3% | -6.3% | -2.3% |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.1% |
+| 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
 | 16:00 | EUR | Low | Bavaria CPI (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
 | 16:00 | EUR | Low | Bavaria CPI (YoY) (Jul) | 6.1% | 6.2% | 6.2% |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Jul) | 6.7% | 6.7% | 6.7% |
 | 16:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.6% |  | -0.2% |
 | 16:00 | EUR | High | German GDP (QoQ) (Q2) | -0.2% | 0.1% | -0.3% |
-| 16:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 16:00 | EUR | Low | Hesse CPI (YoY) (Jul) | 6.1% | 6.1% | 5.9% |
+| 16:00 | EUR | Low | Hesse CPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
 | 16:00 | NOK | Low | Unemployment Change (Jul) | 64.24K |  | 62.50K |
 | 16:00 | NOK | Low | Unemployment Rate n.s.a. (Jul) | 1.80% |  | 1.70% |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (May) | -0.50% | 9.30% | -1.90% |
@@ -93,13 +93,13 @@
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Jun) | 0.4% |  | 0.1% |
 | 20:30 | CAD | Moderate | GDP (MoM) | 0.3% | 0.3% | 0.1% |
 | 20:35 | CAD | Moderate | GDP (MoM) | -0.2% |  | 0.3% |
-| 41 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 3.1% | 3.0% |
-| 41 min | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 69.4 | 61.5 |
-| 41 min | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 72.6 | 64.4 |
-| 41 min | USD | Low | Michigan Current Conditions (Jul) |  | 77.5 | 69.0 |
-| 41 min | USD | Moderate | Michigan Inflation Expectations (Jul) |  | 3.4% | 3.3% |
-| 23:00 | CAD | Low | Budget Balance (May) |  | -20.21B | -44.41B |
-| 23:00 | CAD | Low | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
+| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.0% | 3.0% | 3.0% |
+| 22:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 68.3 | 69.4 | 61.5 |
+| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 71.6 | 72.6 | 64.4 |
+| 22:00 | USD | Low | Michigan Current Conditions (Jul) | 76.6 | 77.5 | 69.0 |
+| 22:00 | USD | Moderate | Michigan Inflation Expectations (Jul) | 3.4% | 3.4% | 3.3% |
+| 47 min | CAD | Low | Budget Balance (May) |  | -20.21B | -44.41B |
+| 47 min | CAD | Low | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
 | 23:30 | INR | Low | Bank Loan Growth |  | 15.6% | 16.2% |
 | 23:30 | INR | Low | Deposit Growth |  | 12.6% | 13.0% |
 | 23:30 | INR | Low | FX Reserves, USD |  | 614.35B | 609.02B |
