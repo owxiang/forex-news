@@ -1,4 +1,4 @@
-name: Forex Event Scraper
+name: forex-event-scraper
 
 on:
   schedule:
