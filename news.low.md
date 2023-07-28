@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.167T |  | 3.221T |
 | 05:00 | MXN | Fiscal Balance (Jun) | -258.05B |  | -104.27B |
-| 07:00 | KRW | Industrial Production (MoM) (Jun) | -1.0% | -0.3% | 3.0% |
 | 07:00 | KRW | Industrial Production (YoY) (Jun) | -5.6% | -5.5% | -7.6% |
+| 07:00 | KRW | Industrial Production (MoM) (Jun) | -1.0% | -0.3% | 3.0% |
 | 07:00 | KRW | Retail Sales (MoM) (Jun) | 1.0% | 0.0% | 0.4% |
 | 07:00 | KRW | Service Sector Output (MoM) (Jun) | 0.5% | 0.3% | -0.3% |
 | 07:30 | JPY | CPI (YoY) (Jul) | 2.5% |  | 2.3% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 08:30 | SGD | URA Property Index (QoQ) (Q2) | -0.20% | -0.40% | -0.40% |
-| 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 5.8% | 6.2% | 5.7% |
 | 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Jul) | 0.2% |  | 0.3% |
+| 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Jul) | 5.8% | 6.2% | 5.7% |
 | 14:00 | NOK | Core Retail Sales (MoM) (Jun) | 0.3% | -0.7% | 1.2% |
 | 14:45 | EUR | French CPI (YoY) (Jul) | 4.3% | 4.3% | 4.5% |
 | 14:45 | EUR | French HICP (YoY) | 5.0% | 5.1% | 5.3% |
@@ -21,10 +21,10 @@
 | 15:00 | EUR | Spanish CPI (MoM) (Jul) | 0.1% | -0.4% | 0.6% |
 | 15:00 | EUR | Spanish GDP (YoY) (Q2) | 1.8% | 2.0% | 4.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Jul) | -0.1% | -0.5% | 0.6% |
-| 16:00 | EUR | Italian PPI (MoM) (Jun) | -0.3% | -6.3% | -2.3% |
 | 16:00 | EUR | Italian PPI (YoY) (Jun) | -5.5% | -12.9% | -4.3% |
-| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
+| 16:00 | EUR | Italian PPI (MoM) (Jun) | -0.3% | -6.3% | -2.3% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.1% |
+| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jul) | 6.8% | 6.9% | 6.9% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Jul) | 6.1% | 6.2% | 6.2% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Jul) | 0.4% | 0.2% | 0.2% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Jul) | 6.7% | 6.7% | 6.7% |
@@ -44,9 +44,9 @@
 | 17:00 | EUR | Selling Price Expectations (Jul) | 3.4 | 0.6 | 4.3 |
 | 17:00 | EUR | Services Sentiment (Jul) | 5.7 | 5.4 | 5.9 |
 | 17:00 | EUR | Industrial Sentiment (Jul) | -9.4 | -7.5 | -7.3 |
-| 19:00 | EUR | Spanish Business Confidence |  |  | -8.3 |
-| 19:00 | BRL | Brazilian IGP-M Inflation (YoY) (YoY) |  |  |  |
-| 19:00 | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -0.71% | -1.93% |
+| 44 min | EUR | Spanish Business Confidence |  |  | -8.3 |
+| 44 min | BRL | Brazilian IGP-M Inflation (YoY) (YoY) |  |  |  |
+| 44 min | BRL | IGP-M Inflation Index (MoM) (Jul) |  | -0.71% | -1.93% |
 | 19:30 | INR | Bank Loan Growth |  | 15.6% | 16.2% |
 | 19:30 | INR | Deposit Growth |  | 12.6% | 13.0% |
 | 19:30 | INR | FX Reserves, USD |  | 614.35B | 609.02B |
@@ -63,6 +63,6 @@
 | 20:30 | USD | Personal Income (MoM) (Jun) |  | 0.5% | 0.4% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.0% |
 | 22:00 | USD | Michigan Current Conditions (Jul) |  | 77.5 | 69.0 |
-| 23:00 | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
 | 23:00 | CAD | Budget Balance (YoY) (May) |  | -19.17B | -41.31B |
+| 23:00 | CAD | Budget Balance (May) |  | -20.21B | -44.41B |
 | 23:53 | USD | Dallas Fed PCE (Jun) |  | 4.30% | 3.20% |
