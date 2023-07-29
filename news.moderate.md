@@ -1,15 +1,22 @@
-## 29 July 2023 - Moderate Impact Forex News
+## 31 July 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 529 |  | 530 |
-| 01:00 | USD | U.S. Baker Hughes Total Rig Count | 664 |  | 669 |
-| 04:30 | GBP | CFTC GBP speculative net positions | 59.0K |  | 63.7K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 225.2K |  | 206.1K |
-| 04:30 | USD | CFTC Gold speculative net positions | 173.6K |  | 193.3K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | -10.7K |  | 1.2K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | -232.6K |  | -263.7K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -51.2K |  | -50.4K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 32.0K |  | 33.9K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -77.8K |  | -90.2K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 177.2K |  | 178.8K |
+| 07:50 | JPY | Industrial Production (MoM) (Jun) |  |  | -2.2% |
+| 07:50 | JPY | Retail Sales (YoY) (Jun) |  |  | 5.8% |
+| 09:00 | NZD | ANZ Business Confidence (Jul) |  |  | -18.0 |
+| 09:30 | AUD | Private Sector Credit (MoM) (Jun) |  |  | 0.4% |
+| 09:30 | CNY | Chinese Composite PMI (Jul) |  |  | 52.5 |
+| 09:30 | CNY | Non-Manufacturing PMI (Jul) |  |  | 53.2 |
+| 14:00 | GBP | Nationwide HPI (YoY) |  | -3.8% | -3.5% |
+| 14:00 | GBP | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
+| 14:00 | EUR | German Retail Sales (MoM) (Jun) |  | -0.5% | 0.4% |
+| 17:00 | EUR | Italian CPI (MoM) (Jul) |  |  | 0.3% |
+| 17:00 | EUR | Core CPI (YoY) |  | 5.4% | 5.5% |
+| 17:00 | EUR | GDP (YoY) (Q2) |  |  | 1.0% |
+| 17:00 | EUR | GDP (QoQ) (Q2) |  |  | -0.1% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 20:00 | MXN | GDP (YoY) (Q2) |  |  | 3.7% |
+| 20:00 | MXN | GDP (QoQ) (Q2) |  |  | 1.0% |
+| 21:45 | USD | Chicago PMI (Jul) |  |  | 41.5 |

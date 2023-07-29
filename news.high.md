@@ -1,3 +1,6 @@
-## 29 July 2023 - High Impact Forex News
+## 31 July 2023 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 09:30 | CNY | Manufacturing PMI (Jul) |  | 49.2 | 49.0 |
+| 17:00 | EUR | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
