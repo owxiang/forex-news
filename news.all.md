@@ -22,8 +22,8 @@
 | 13:00 | JPY | Low | Household Confidence (Jul) |  | 36.0 | 36.2 |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | -0.2% | 3.5% |
 | 13:00 | SGD | Low | Business Expectations (Q2) |  | -8.90 | 2.00 |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.8% | -3.5% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
+| 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.8% | -3.5% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) |  | -1.5% | -1.4% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) |  | -14.7% | -9.1% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  | -6.3% | -3.6% |
@@ -31,8 +31,8 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 807,211.4M |
-| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 1.9% | 1.9% |
 | 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
+| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 1.9% | 1.9% |
 | 16:00 | EUR | Low | Spanish Current account (May) |  | 3.19B | 1.84B |
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | 1,000.0M |
 | 16:30 | GBP | Low | BoE Consumer Credit (Jun) |  | 1.371B | 1.144B |
@@ -40,8 +40,8 @@
 | 16:30 | GBP | Low | M4 Money Supply (MoM) (Jun) |  | -0.1% | 0.2% |
 | 16:30 | GBP | Low | Mortgage Approvals (Jun) |  | 49.40K | 50.52K |
 | 16:30 | GBP | Low | Mortgage Lending (Jun) |  | -0.42B | -0.09B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
@@ -57,8 +57,8 @@
 | 19:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | Moderate | RBI Monetary and Credit Information Review |  |  |  |
 | 19:40 | INR | Low | Infrastructure Output (YoY) |  |  | 4.3% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  |  | 1.0% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
 | 20:00 | ZAR | Low | Trade Balance |  | 11.85B | 10.20B |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.613% |
