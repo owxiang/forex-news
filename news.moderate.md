@@ -13,8 +13,8 @@
 | 14:00 | EUR | German Retail Sales (MoM) (Jun) |  | -0.5% | 0.4% |
 | 17:00 | EUR | Italian CPI (MoM) (Jul) |  |  | 0.3% |
 | 17:00 | EUR | Core CPI (YoY) |  | 5.4% | 5.5% |
-| 17:00 | EUR | CPI (MoM) |  |  | 0.3% |
-| 17:00 | EUR | GDP (QoQ) (Q2) |  |  | -0.1% |
+| 17:00 | EUR | CPI (MoM) |  | 0.3% | 0.3% |
+| 17:00 | EUR | GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
 | 17:00 | EUR | GDP (YoY) (Q2) |  | 0.5% | 1.0% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
