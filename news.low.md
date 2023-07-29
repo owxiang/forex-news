@@ -30,13 +30,15 @@
 | 16:30 | GBP | M4 Money Supply (MoM) (Jun) |  | -0.1% | 0.2% |
 | 16:30 | GBP | Mortgage Approvals (Jun) |  | 49.40K | 50.52K |
 | 16:30 | GBP | Mortgage Lending (Jun) |  | -0.42B | -0.09B |
-| 16:30 | HKD | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 16:30 | HKD | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
+| 16:30 | HKD | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 17:00 | EUR | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
-| 17:00 | EUR | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
 | 17:00 | EUR | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
+| 17:00 | EUR | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
+| 17:00 | EUR | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | CPI, n.s.a (Jul) |  |  | 123.47 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
+| 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.4% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jun) |  |  | 4.47B |
 | 18:00 | INR | Federal Fiscal Deficit (Jun) |  |  | 2,102.87B |
 | 19:40 | INR | Infrastructure Output (YoY) |  |  | 4.3% |
