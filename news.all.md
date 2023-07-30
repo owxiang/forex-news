@@ -26,8 +26,8 @@
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) |  | -1.5% | -1.4% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) |  | -14.7% | -9.1% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | -0.5% | 0.4% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  | -6.3% | -3.6% |
+| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | -0.5% | 0.4% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 807,211.4M |
@@ -41,8 +41,8 @@
 | 16:30 | GBP | Low | Mortgage Approvals (Jun) |  | 49.40K | 50.52K |
 | 16:30 | GBP | Low | Mortgage Lending (Jun) |  | -0.42B | -0.09B |
 | 16:30 | GBP | Low | Net Lending to Individuals |  | 1.0B | 1.1B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
