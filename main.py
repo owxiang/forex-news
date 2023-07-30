@@ -85,7 +85,7 @@ def scrape_forex_events():
     write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest,formatted_date)
 
     if not high_events:
-        message = f"There is no high impact news today.\n\n"
+        message = f"There is no high impact news on {formatted_date}.\n\n"
     else:
         message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
         
