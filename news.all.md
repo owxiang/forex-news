@@ -47,13 +47,13 @@
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
-| 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
+| 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
 | 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.0% |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.4% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 4.47B |
