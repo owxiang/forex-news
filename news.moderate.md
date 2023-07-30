@@ -18,6 +18,6 @@
 | 17:00 | EUR | GDP (YoY) (Q2) |  | 0.5% | 1.0% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q2) |  |  | 1.0% |
 | 20:00 | MXN | GDP (YoY) (Q2) |  |  | 3.7% |
+| 20:00 | MXN | GDP (QoQ) (Q2) |  |  | 1.0% |
 | 21:45 | USD | Chicago PMI (Jul) |  | 43.0 | 41.5 |

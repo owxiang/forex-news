@@ -43,14 +43,14 @@
 | 16:30 | GBP | Low | Net Lending to Individuals |  | 1.0B | 1.1B |
 | 16:30 | HKD | Low | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
-| 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
 | 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
+| 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |
 | 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.0% |
@@ -61,8 +61,8 @@
 | 19:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | Moderate | RBI Monetary and Credit Information Review |  |  |  |
 | 19:40 | INR | Low | Infrastructure Output (YoY) |  |  | 4.3% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  |  | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  |  | 1.0% |
 | 20:00 | ZAR | Low | Trade Balance |  | 11.85B | 10.20B |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.613% |
