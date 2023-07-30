@@ -87,7 +87,7 @@ def scrape_forex_events():
     if not high_events:
         message = f"There is no high impact news today.\n\n"
     else:
-        message = f"Daily Forex News Alert - High Impact - SGT\n\n{high_events}"
+        message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
         
     current_hour = datetime.now().hour
     if current_hour == 21: # 0500 (GMT+8) = 2100 (GMT+0)
