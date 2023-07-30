@@ -22,8 +22,8 @@
 | 13:00 | JPY | Low | Household Confidence (Jul) |  | 36.0 | 36.2 |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | -0.2% | 3.5% |
 | 13:00 | SGD | Low | Business Expectations (Q2) |  | -8.90 | 2.00 |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.8% | -3.5% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) |  | -1.5% | -1.4% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) |  | -14.7% | -9.1% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  | -6.3% | -3.6% |
@@ -45,10 +45,10 @@
 | 16:30 | HKD | Low | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
-| 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
+| 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |

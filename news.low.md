@@ -34,8 +34,8 @@
 | 16:30 | HKD | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
 | 16:30 | HKD | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 17:00 | EUR | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
-| 17:00 | EUR | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
 | 17:00 | EUR | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
+| 17:00 | EUR | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
 | 17:00 | EUR | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | CPI, n.s.a (Jul) |  |  | 123.47 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
