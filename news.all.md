@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 2.4% | -2.2% |
-| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | 5.6% |
-| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | -0.6% |
-| 07:50 | JPY | Low | Large Retailers' Sales (MoM) |  | 0.2% | 1.3% |
-| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 07:50 | JPY | Moderate | Retail Sales (YoY) (Jun) |  | 5.9% | 5.8% |
+| 36 min | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 2.4% | -2.2% |
+| 36 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | 5.6% |
+| 36 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | -0.6% |
+| 36 min | JPY | Low | Large Retailers' Sales (MoM) |  | 0.2% | 1.3% |
+| 36 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 36 min | JPY | Moderate | Retail Sales (YoY) (Jun) |  | 5.9% | 5.8% |
 | 09:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 09:00 | NZD | Moderate | ANZ Business Confidence (Jul) |  |  | -18.0 |
 | 09:00 | NZD | Low | NBNZ Own Activity (Jul) |  | -0.9% | 2.7% |
@@ -31,8 +31,8 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 807,211.4M |
-| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 1.9% | 1.9% |
 | 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
+| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 1.9% | 1.9% |
 | 16:00 | EUR | Low | Spanish Current account (May) |  | 3.19B | 1.84B |
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Aug) |  |  | 1,000.0M |
 | 16:30 | GBP | Low | BoE Consumer Credit (Jun) |  | 1.371B | 1.144B |
@@ -41,12 +41,12 @@
 | 16:30 | GBP | Low | Mortgage Approvals (Jun) |  | 49.40K | 50.52K |
 | 16:30 | GBP | Low | Mortgage Lending (Jun) |  | -0.42B | -0.09B |
 | 16:30 | GBP | Low | Net Lending to Individuals |  | 1.0B | 1.1B |
-| 16:30 | HKD | Low | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 0.9% | 5.3% |
-| 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
+| 16:30 | HKD | Low | GDP (YoY) (Q2) |  | -4.4% | 2.7% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 5.7% | 6.4% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
+| 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -0.7% | 0.1% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 5.3% | 6.7% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
 | 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
@@ -61,8 +61,8 @@
 | 19:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | Moderate | RBI Monetary and Credit Information Review |  |  |  |
 | 19:40 | INR | Low | Infrastructure Output (YoY) |  |  | 4.3% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  |  | 1.0% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
 | 20:00 | ZAR | Low | Trade Balance |  | 11.85B | 10.20B |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.613% |
