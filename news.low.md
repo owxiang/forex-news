@@ -19,19 +19,19 @@
 | 14:00 | EUR | German Retail Sales (YoY) (Jun) | -1.6% | -2.7% | -2.1% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Jun) | 11.15% | 9.85% | 10.30% |
 | 14:00 | ZAR | Private Sector Credit (Jun) | 6.25% | 6.25% | 6.85% |
-| 40 min | CHF | Official Reserves Assets (Jun) |  |  | 807,211.4M |
-| 16:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
-| 16:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 1.9% |
-| 16:00 | EUR | Spanish Current account (May) |  | 3.19B | 1.84B |
-| 16:00 | NOK | Central Bank Currency Purchase (Aug) |  | 1,155.0M | 1,000.0M |
+| 15:00 | CHF | Official Reserves Assets (Jun) | 794,684.1M |  | 807,211.4M |
+| 45 min | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 1.9% |
+| 45 min | EUR | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
+| 45 min | EUR | Spanish Current account (May) |  | 3.19B | 1.84B |
+| 45 min | NOK | Central Bank Currency Purchase (Aug) |  | 1,155.0M | 1,000.0M |
 | 16:30 | GBP | BoE Consumer Credit (Jun) |  | 1.300B | 1.144B |
 | 16:30 | GBP | M3 Money Supply (Jun) |  |  | 3,047,695.0% |
 | 16:30 | GBP | M4 Money Supply (MoM) (Jun) |  | -0.1% | 0.2% |
 | 16:30 | GBP | Mortgage Approvals (Jun) |  | 49.00K | 50.52K |
 | 16:30 | GBP | Mortgage Lending (Jun) |  | 0.10B | -0.09B |
 | 16:30 | GBP | Net Lending to Individuals |  | 1.0B | 1.1B |
-| 16:30 | HKD | GDP (QoQ) (Q2) |  | 1.0% | 5.3% |
 | 16:30 | HKD | GDP (YoY) (Q2) |  | 3.5% | 2.7% |
+| 16:30 | HKD | GDP (QoQ) (Q2) |  | 1.0% | 5.3% |
 | 17:00 | EUR | Italian CPI (YoY) (Jul) |  | 6.1% | 6.4% |
 | 17:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.3% | 0.1% |
 | 17:00 | EUR | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
