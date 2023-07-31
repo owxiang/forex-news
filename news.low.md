@@ -10,15 +10,15 @@
 | 09:00 | NZD | NBNZ Own Activity (Jul) | 0.8% | -0.9% | 2.7% |
 | 09:30 | AUD | Housing Credit (Jun) | 0.2% |  | 0.3% |
 | 10:00 | SGD | Bank Lending | 799.3B | 800.3B | 798.8B |
-| 42 min | JPY | Construction Orders (YoY) (Jun) |  | 7.6% | 4.2% |
-| 42 min | JPY | Household Confidence (Jul) |  | 36.0 | 36.2 |
-| 42 min | JPY | Housing Starts (YoY) (Jun) |  | -0.2% | 3.5% |
-| 42 min | SGD | Business Expectations (Q2) |  | -8.90 | 2.00 |
-| 14:00 | EUR | German Import Price Index (MoM) |  | -0.7% | -1.4% |
-| 14:00 | EUR | German Import Price Index (YoY) |  | -10.7% | -9.1% |
-| 14:00 | EUR | German Retail Sales (YoY) (Jun) |  | -2.7% | -3.6% |
-| 14:00 | ZAR | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
-| 14:00 | ZAR | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
+| 13:00 | JPY | Construction Orders (YoY) (Jun) | 8.6% | 7.6% | 4.2% |
+| 13:00 | JPY | Household Confidence (Jul) | 37.1 | 36.0 | 36.2 |
+| 13:00 | JPY | Housing Starts (YoY) (Jun) | -4.8% | -0.2% | 3.5% |
+| 13:00 | SGD | Business Expectations (Q2) | 6.00 | -8.90 | 2.00 |
+| 45 min | EUR | German Import Price Index (MoM) |  | -0.7% | -1.4% |
+| 45 min | EUR | German Import Price Index (YoY) |  | -10.7% | -9.1% |
+| 45 min | EUR | German Retail Sales (YoY) (Jun) |  | -2.7% | -3.6% |
+| 45 min | ZAR | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
+| 45 min | ZAR | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
 | 15:00 | CHF | Official Reserves Assets (Jun) |  |  | 807,211.4M |
 | 16:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
 | 16:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 1.9% |

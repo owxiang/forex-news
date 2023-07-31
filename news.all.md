@@ -17,18 +17,16 @@
 | 09:30 | CNY | High | Manufacturing PMI (Jul) | 49.3 | 49.2 | 49.0 |
 | 09:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) | 51.5 | 52.9 | 53.2 |
 | 10:00 | SGD | Low | Bank Lending | 799.3B | 800.3B | 798.8B |
-| 42 min | JPY | Low | Construction Orders (YoY) (Jun) |  | 7.6% | 4.2% |
-| 42 min | JPY | Low | Household Confidence (Jul) |  | 36.0 | 36.2 |
-| 42 min | JPY | Low | Housing Starts (YoY) (Jun) |  | -0.2% | 3.5% |
-| 42 min | SGD | Low | Business Expectations (Q2) |  | -8.90 | 2.00 |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.8% | -3.5% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
-| 14:00 | EUR | Low | German Import Price Index (MoM) |  | -0.7% | -1.4% |
-| 14:00 | EUR | Low | German Import Price Index (YoY) |  | -10.7% | -9.1% |
-| 14:00 | EUR | Low | German Retail Sales (YoY) (Jun) |  | -2.7% | -3.6% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | 0.2% | 0.4% |
-| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
-| 14:00 | ZAR | Low | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
+| 13:00 | JPY | Low | Construction Orders (YoY) (Jun) | 8.6% | 7.6% | 4.2% |
+| 13:00 | JPY | Low | Household Confidence (Jul) | 37.1 | 36.0 | 36.2 |
+| 13:00 | JPY | Low | Housing Starts (YoY) (Jun) | -4.8% | -0.2% | 3.5% |
+| 13:00 | SGD | Low | Business Expectations (Q2) | 6.00 | -8.90 | 2.00 |
+| 45 min | EUR | Low | German Import Price Index (MoM) |  | -0.7% | -1.4% |
+| 45 min | EUR | Low | German Import Price Index (YoY) |  | -10.7% | -9.1% |
+| 45 min | EUR | Low | German Retail Sales (YoY) (Jun) |  | -2.7% | -3.6% |
+| 45 min | EUR | Moderate | German Retail Sales (MoM) (Jun) |  | 0.2% | 0.4% |
+| 45 min | ZAR | Low | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
+| 45 min | ZAR | Low | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jun) |  |  | 807,211.4M |
 | 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
 | 16:00 | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.9% | 1.9% |
@@ -46,13 +44,13 @@
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.3% | 0.1% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
-| 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
+| 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
 | 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |
-| 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.0% |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.2% | -0.1% |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.0% |
+| 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.1% |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.4% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 4.47B |
