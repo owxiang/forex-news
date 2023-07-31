@@ -31,9 +31,8 @@ def scrape_forex_events():
     # # Retrieve the ChromeDriver path from the environment variable
     # chromedriver_path = os.getenv('CHROMEDRIVER_PATH', '/default/chromedriver/path')
     
-    driver = driver.Chrome()
-    
     # Start the WebDriver
+    driver = webdriver.Chrome()
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     # Load the webpage
