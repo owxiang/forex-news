@@ -1,33 +1,28 @@
-## 31 July 2023 - Moderate Impact Forex News
+## 01 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | Industrial Production (MoM) (Jun) | 2.0% | 2.4% | -2.2% |
-| 07:50 | JPY | Retail Sales (YoY) (Jun) | 5.9% | 5.9% | 5.8% |
-| 09:00 | NZD | ANZ Business Confidence (Jul) | -13.1 |  | -18.0 |
-| 09:30 | AUD | Private Sector Credit (MoM) (Jun) | 0.2% |  | 0.4% |
-| 09:30 | CNY | Chinese Composite PMI (Jul) | 51.1 |  | 52.5 |
-| 09:30 | CNY | Non-Manufacturing PMI (Jul) | 51.5 | 52.9 | 53.2 |
-| 14:00 | EUR | German Retail Sales (MoM) (Jun) | -0.8% | 0.2% | 1.9% |
-| 17:00 | EUR | Italian CPI (MoM) (Jul) | 0.1% | 0.1% | 0.0% |
-| 17:00 | EUR | Core CPI (YoY) | 5.5% | 5.4% | 5.5% |
-| 17:00 | EUR | CPI (MoM) | -0.1% | 0.3% | 0.3% |
-| 17:00 | EUR | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.0% |
-| 17:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.5% | 1.1% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | GDP (YoY) (Q2) | 3.7% | 3.4% | 3.7% |
-| 20:00 | MXN | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.0% |
-| 21:45 | USD | Chicago PMI (Jul) | 42.8 | 43.0 | 41.5 |
-| 22:44 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.95M | 0.95M | 0.95M |
-| 22:44 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.28M | 0.28M | 0.28M |
-| 22:44 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.20M | 0.20M | 0.19M |
-| 22:44 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.05M |
-| 22:44 | USD | OPEC Crude oil Production Iran (Barrel) | 2.90M | 2.90M | 2.90M |
-| 22:44 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.12M | 4.12M | 4.03M |
-| 22:44 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
-| 22:44 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.10M | 1.10M | 1.12M |
-| 22:44 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.30M | 1.30M | 1.42M |
-| 22:44 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.10M | 9.10M | 9.96M |
-| 22:44 | USD | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
-| 22:44 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.75M | 0.75M | 0.75M |
+| 06:45 | NZD | Building Consents (MoM) (Jun) |  | 0.3% | -2.2% |
+| 07:30 | JPY | Jobs/applications ratio (Jun) |  | 1.32 | 1.31 |
+| 09:30 | AUD | Building Approvals (MoM) (Jun) |  | -8.0% | 20.6% |
+| 09:30 | AUD | Home Loans (MoM) |  |  | 4.0% |
+| 09:45 | CNY | Caixin Manufacturing PMI (Jul) |  | 50.3 | 50.5 |
+| 11:35 | JPY | 10-Year JGB Auction |  |  | 0.428% |
+| 12:00 | IDR | Core Inflation (YoY) |  | 2.52% | 2.58% |
+| 12:00 | IDR | Inflation (MoM) |  | 0.22% | 0.14% |
+| 12:30 | AUD | RBA Rate Statement |  |  |  |
+| 14:00 | GBP | Nationwide HPI (YoY) (Jul) |  | -3.8% | -3.5% |
+| 14:00 | GBP | Nationwide HPI (MoM) (Jul) |  | -0.2% | 0.1% |
+| 15:15 | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 48.3 | 48.0 |
+| 15:45 | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 44.1 | 43.8 |
+| 15:50 | EUR | HCOB France Manufacturing PMI (Jul) |  | 44.5 | 46.0 |
+| 15:55 | EUR | German Unemployment Change (Jul) |  | 15K | 28K |
+| 15:55 | EUR | German Unemployment Rate (Jul) |  | 5.7% | 5.7% |
+| 16:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) |  | 42.7 | 43.4 |
+| 16:30 | USD | API Weekly Crude Oil Stock |  |  | 1.319M |
+| 17:00 | EUR | Unemployment Rate (Jun) |  | 6.5% | 6.5% |
+| 20:00 | BRL | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
+| 20:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 21:45 | USD | S&P Global US Manufacturing PMI (Jul) |  | 49.0 | 46.3 |
+| 22:00 | USD | ISM Manufacturing Employment (Jul) |  | 49.7 | 48.1 |
+| 22:00 | USD | ISM Manufacturing Prices (Jul) |  | 42.5 | 41.8 |
