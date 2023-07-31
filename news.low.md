@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 47 min | USD | Loan Officer Survey |  |  |  |
+| 02:00 | USD | Loan Officer Survey |  |  |  |
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 49.6 | 48.2 |
 | 07:01 | GBP | BRC Shop Price Index (YoY) |  |  | 8.4% |
 | 07:30 | JPY | Unemployment Rate (Jun) |  | 2.5% | 2.6% |

@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 47 min | USD | Low | Loan Officer Survey |  |  |  |
+| 02:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 06:45 | NZD | Moderate | Building Consents (MoM) (Jun) |  | 0.3% | -2.2% |
 | 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 49.6 | 48.2 |
 | 07:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 8.4% |
@@ -28,8 +28,8 @@
 | 12:30 | AUD | High | RBA Interest Rate Decision (Aug) |  | 4.35% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jul) |  | 57.0 | 57.8 |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | -0.2% | 0.1% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) |  | -3.8% | -3.5% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) |  | -0.2% | 0.1% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) |  | -19.0% | -21.5% |
 | 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) |  | 48.3 | 48.0 |
 | 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) |  | 44.1 | 43.8 |
@@ -50,8 +50,8 @@
 | 17:00 | ZAR | Low | Manufacturing PMI |  | 50.0 | 47.6 |
 | 18:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 13.30% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 9.80% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
 | 20:00 | NZD | Moderate | GlobalDairyTrade Price Index |  |  | -1.0% |
 | 20:00 | NZD | Low | Milk Auctions |  |  | 3,289.0% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
