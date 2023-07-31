@@ -2,14 +2,14 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 36 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | 5.6% |
-| 36 min | JPY | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | -0.6% |
-| 36 min | JPY | Large Retailers' Sales (MoM) |  | 0.2% | 1.3% |
-| 36 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 09:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 09:00 | NZD | NBNZ Own Activity (Jul) |  | -0.9% | 2.7% |
-| 09:30 | AUD | Housing Credit (Jun) |  |  | 0.3% |
-| 10:00 | SGD | Bank Lending |  | 800.3B | 798.8B |
+| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jul) | -0.2% |  | 5.6% |
+| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Aug) | 1.1% |  | -0.6% |
+| 07:50 | JPY | Large Retailers' Sales (MoM) | -0.4% | 0.2% | 1.4% |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) | 4.0% |  | 4.0% |
+| 09:00 | AUD | MI Inflation Gauge (MoM) | 0.8% |  | 0.1% |
+| 09:00 | NZD | NBNZ Own Activity (Jul) | 0.8% | -0.9% | 2.7% |
+| 10 min | AUD | Housing Credit (Jun) |  |  | 0.3% |
+| 40 min | SGD | Bank Lending |  | 800.3B | 798.8B |
 | 11:00 | NZD | M3 Money Supply (Jun) |  |  | 395,740.0% |
 | 13:00 | JPY | Construction Orders (YoY) (Jun) |  | 7.6% | 4.2% |
 | 13:00 | JPY | Household Confidence (Jul) |  | 36.0 | 36.2 |

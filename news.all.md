@@ -2,21 +2,21 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 36 min | JPY | Moderate | Industrial Production (MoM) (Jun) |  | 2.4% | -2.2% |
-| 36 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) |  |  | 5.6% |
-| 36 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) |  |  | -0.6% |
-| 36 min | JPY | Low | Large Retailers' Sales (MoM) |  | 0.2% | 1.3% |
-| 36 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 36 min | JPY | Moderate | Retail Sales (YoY) (Jun) |  | 5.9% | 5.8% |
-| 09:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 09:00 | NZD | Moderate | ANZ Business Confidence (Jul) |  |  | -18.0 |
-| 09:00 | NZD | Low | NBNZ Own Activity (Jul) |  | -0.9% | 2.7% |
-| 09:30 | AUD | Low | Housing Credit (Jun) |  |  | 0.3% |
-| 09:30 | AUD | Moderate | Private Sector Credit (MoM) (Jun) |  |  | 0.4% |
-| 09:30 | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 52.5 |
-| 09:30 | CNY | High | Manufacturing PMI (Jul) |  | 49.2 | 49.0 |
-| 09:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) |  |  | 53.2 |
-| 10:00 | SGD | Low | Bank Lending |  | 800.3B | 798.8B |
+| 07:50 | JPY | Moderate | Industrial Production (MoM) (Jun) | 2.0% | 2.4% | -2.2% |
+| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jul) | -0.2% |  | 5.6% |
+| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Aug) | 1.1% |  | -0.6% |
+| 07:50 | JPY | Low | Large Retailers' Sales (MoM) | -0.4% | 0.2% | 1.4% |
+| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) | 4.0% |  | 4.0% |
+| 07:50 | JPY | Moderate | Retail Sales (YoY) (Jun) | 5.9% | 5.9% | 5.8% |
+| 09:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.8% |  | 0.1% |
+| 09:00 | NZD | Moderate | ANZ Business Confidence (Jul) | -13.1 |  | -18.0 |
+| 09:00 | NZD | Low | NBNZ Own Activity (Jul) | 0.8% | -0.9% | 2.7% |
+| 10 min | AUD | Low | Housing Credit (Jun) |  |  | 0.3% |
+| 10 min | AUD | Moderate | Private Sector Credit (MoM) (Jun) |  |  | 0.4% |
+| 10 min | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 52.5 |
+| 10 min | CNY | High | Manufacturing PMI (Jul) |  | 49.2 | 49.0 |
+| 10 min | CNY | Moderate | Non-Manufacturing PMI (Jul) |  |  | 53.2 |
+| 40 min | SGD | Low | Bank Lending |  | 800.3B | 798.8B |
 | 11:00 | NZD | Low | M3 Money Supply (Jun) |  |  | 395,740.0% |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Jun) |  | 7.6% | 4.2% |
 | 13:00 | JPY | Low | Household Confidence (Jul) |  | 36.0 | 36.2 |
@@ -52,8 +52,8 @@
 | 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.0% |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.4% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 4.47B |
