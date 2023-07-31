@@ -9,13 +9,13 @@
 | 09:30 | CNY | Chinese Composite PMI (Jul) | 51.1 |  | 52.5 |
 | 09:30 | CNY | Non-Manufacturing PMI (Jul) | 51.5 | 52.9 | 53.2 |
 | 14:00 | EUR | German Retail Sales (MoM) (Jun) | -0.8% | 0.2% | 1.9% |
-| 40 min | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
-| 40 min | EUR | Core CPI (YoY) |  | 5.4% | 5.5% |
-| 40 min | EUR | CPI (MoM) |  | 0.3% | 0.3% |
-| 40 min | EUR | GDP (QoQ) (Q2) |  | 0.2% | 0.0% |
-| 40 min | EUR | GDP (YoY) (Q2) |  | 0.5% | 1.1% |
+| 17:00 | EUR | Italian CPI (MoM) (Jul) | 0.1% | 0.1% | 0.0% |
+| 17:00 | EUR | Core CPI (YoY) | 5.5% | 5.4% | 5.5% |
+| 17:00 | EUR | CPI (MoM) | -0.1% | 0.3% | 0.3% |
+| 17:00 | EUR | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.0% |
+| 17:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.5% | 1.1% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q2) |  |  | 1.0% |
 | 20:00 | MXN | GDP (YoY) (Q2) |  |  | 3.7% |
+| 20:00 | MXN | GDP (QoQ) (Q2) |  |  | 1.0% |
 | 21:45 | USD | Chicago PMI (Jul) |  | 43.0 | 41.5 |
