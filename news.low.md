@@ -14,12 +14,12 @@
 | 13:00 | JPY | Household Confidence (Jul) | 37.1 | 36.0 | 36.2 |
 | 13:00 | JPY | Housing Starts (YoY) (Jun) | -4.8% | -0.2% | 3.5% |
 | 13:00 | SGD | Business Expectations (Q2) | 6.00 | -8.90 | 2.00 |
-| 45 min | EUR | German Import Price Index (MoM) |  | -0.7% | -1.4% |
-| 45 min | EUR | German Import Price Index (YoY) |  | -10.7% | -9.1% |
-| 45 min | EUR | German Retail Sales (YoY) (Jun) |  | -2.7% | -3.6% |
-| 45 min | ZAR | M3 Money Supply (YoY) (Jun) |  | 9.85% | 10.30% |
-| 45 min | ZAR | Private Sector Credit (Jun) |  | 6.25% | 6.85% |
-| 15:00 | CHF | Official Reserves Assets (Jun) |  |  | 807,211.4M |
+| 14:00 | EUR | German Import Price Index (MoM) | -1.6% | -0.7% | -1.4% |
+| 14:00 | EUR | German Import Price Index (YoY) | -11.4% | -10.7% | -9.1% |
+| 14:00 | EUR | German Retail Sales (YoY) (Jun) | -1.6% | -2.7% | -2.1% |
+| 14:00 | ZAR | M3 Money Supply (YoY) (Jun) | 11.15% | 9.85% | 10.30% |
+| 14:00 | ZAR | Private Sector Credit (Jun) | 6.25% | 6.25% | 6.85% |
+| 40 min | CHF | Official Reserves Assets (Jun) |  |  | 807,211.4M |
 | 16:00 | EUR | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
 | 16:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.9% | 1.9% |
 | 16:00 | EUR | Spanish Current account (May) |  | 3.19B | 1.84B |
