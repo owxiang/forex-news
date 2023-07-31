@@ -30,8 +30,8 @@
 | 16:30 | GBP | Mortgage Approvals (Jun) | 54.66K | 49.00K | 51.14K |
 | 16:30 | GBP | Mortgage Lending (Jun) | 0.14B | 0.10B | -0.09B |
 | 16:30 | GBP | Net Lending to Individuals | 1.8B | 1.0B | 1.0B |
-| 16:30 | HKD | GDP (YoY) (Q2) | 1.5% | 3.6% | 2.7% |
 | 16:30 | HKD | GDP (QoQ) (Q2) | -1.3% | 1.0% | 5.3% |
+| 16:30 | HKD | GDP (YoY) (Q2) | 1.5% | 3.6% | 2.7% |
 | 16:30 | HKD | M3 Money Supply (Jun) | -0.1% |  | 1.0% |
 | 17:00 | EUR | Italian CPI (YoY) (Jul) | 6.0% | 6.1% | 6.4% |
 | 17:00 | EUR | Italian HICP (MoM) (Jul) | -1.5% | -1.3% | 0.1% |
@@ -42,11 +42,11 @@
 | 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.0% | -0.3% | 0.4% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jun) | 9.45B |  | 4.44B |
 | 18:00 | INR | Federal Fiscal Deficit (Jun) | 4,513.70B |  | 2,102.87B |
-| 19:40 | INR | Infrastructure Output (YoY) (Jun) | 8.2% | 4.2% | 4.3% |
+| 20:00 | INR | Infrastructure Output (YoY) (Jun) | 8.2% | 4.2% | 5.0% |
 | 20:00 | ZAR | Trade Balance | -3.54B | 11.85B | 10.20B |
 | 20:55 | EUR | French 12-Month BTF Auction | 3.657% |  | 3.659% |
 | 20:55 | EUR | French 3-Month BTF Auction | 3.588% |  | 3.613% |
 | 20:55 | EUR | French 6-Month BTF Auction | 3.634% |  | 3.644% |
-| 15 min | USD | Dallas Fed Mfg Business Index (Jul) |  | -26.3 | -23.2 |
-| 23:30 | USD | 3-Month Bill Auction |  |  | 5.270% |
-| 23:30 | USD | 6-Month Bill Auction |  |  | 5.270% |
+| 22:30 | USD | Dallas Fed Mfg Business Index (Jul) | -20.0 | -26.3 | -23.2 |
+| 13 min | USD | 3-Month Bill Auction |  |  | 5.270% |
+| 13 min | USD | 6-Month Bill Auction |  |  | 5.270% |

@@ -16,6 +16,18 @@
 | 17:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.5% | 1.1% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.0% |
 | 20:00 | MXN | GDP (YoY) (Q2) | 3.7% | 3.4% | 3.7% |
+| 20:00 | MXN | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.0% |
 | 21:45 | USD | Chicago PMI (Jul) | 42.8 | 43.0 | 41.5 |
+| 22:44 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.95M | 0.95M | 0.95M |
+| 22:44 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.28M | 0.28M | 0.28M |
+| 22:44 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.20M | 0.20M | 0.19M |
+| 22:44 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.05M |
+| 22:44 | USD | OPEC Crude oil Production Iran (Barrel) | 2.90M | 2.90M | 2.90M |
+| 22:44 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.12M | 4.12M | 4.03M |
+| 22:44 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
+| 22:44 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.10M | 1.10M | 1.12M |
+| 22:44 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.30M | 1.30M | 1.42M |
+| 22:44 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.10M | 9.10M | 9.96M |
+| 22:44 | USD | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
+| 22:44 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.75M | 0.75M | 0.75M |
