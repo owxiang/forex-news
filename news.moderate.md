@@ -5,9 +5,9 @@
 | 07:50 | JPY | Industrial Production (MoM) (Jun) | 2.0% | 2.4% | -2.2% |
 | 07:50 | JPY | Retail Sales (YoY) (Jun) | 5.9% | 5.9% | 5.8% |
 | 09:00 | NZD | ANZ Business Confidence (Jul) | -13.1 |  | -18.0 |
-| 10 min | AUD | Private Sector Credit (MoM) (Jun) |  |  | 0.4% |
-| 10 min | CNY | Chinese Composite PMI (Jul) |  |  | 52.5 |
-| 10 min | CNY | Non-Manufacturing PMI (Jul) |  |  | 53.2 |
+| 09:30 | AUD | Private Sector Credit (MoM) (Jun) | 0.2% |  | 0.4% |
+| 09:30 | CNY | Chinese Composite PMI (Jul) | 51.1 |  | 52.5 |
+| 09:30 | CNY | Non-Manufacturing PMI (Jul) | 51.5 |  | 53.2 |
 | 14:00 | GBP | Nationwide HPI (YoY) |  | -3.8% | -3.5% |
 | 14:00 | GBP | Nationwide HPI (MoM) |  | -0.2% | 0.1% |
 | 14:00 | EUR | German Retail Sales (MoM) (Jun) |  | -0.5% | 0.4% |

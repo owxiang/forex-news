@@ -11,13 +11,13 @@
 | 09:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.8% |  | 0.1% |
 | 09:00 | NZD | Moderate | ANZ Business Confidence (Jul) | -13.1 |  | -18.0 |
 | 09:00 | NZD | Low | NBNZ Own Activity (Jul) | 0.8% | -0.9% | 2.7% |
-| 10 min | AUD | Low | Housing Credit (Jun) |  |  | 0.3% |
-| 10 min | AUD | Moderate | Private Sector Credit (MoM) (Jun) |  |  | 0.4% |
-| 10 min | CNY | Moderate | Chinese Composite PMI (Jul) |  |  | 52.5 |
-| 10 min | CNY | High | Manufacturing PMI (Jul) |  | 49.2 | 49.0 |
-| 10 min | CNY | Moderate | Non-Manufacturing PMI (Jul) |  |  | 53.2 |
-| 40 min | SGD | Low | Bank Lending |  | 800.3B | 798.8B |
-| 11:00 | NZD | Low | M3 Money Supply (Jun) |  |  | 395,740.0% |
+| 09:30 | AUD | Low | Housing Credit (Jun) | 0.2% |  | 0.3% |
+| 09:30 | AUD | Moderate | Private Sector Credit (MoM) (Jun) | 0.2% |  | 0.4% |
+| 09:30 | CNY | Moderate | Chinese Composite PMI (Jul) | 51.1 |  | 52.5 |
+| 09:30 | CNY | High | Manufacturing PMI (Jul) | 49.3 | 49.2 | 49.0 |
+| 09:30 | CNY | Moderate | Non-Manufacturing PMI (Jul) | 51.5 |  | 53.2 |
+| 10:00 | SGD | Low | Bank Lending | 799.3B | 800.3B | 798.8B |
+| 28 min | NZD | Low | M3 Money Supply (Jun) |  |  | 395,740.0% |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Jun) |  | 7.6% | 4.2% |
 | 13:00 | JPY | Low | Household Confidence (Jul) |  | 36.0 | 36.2 |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Jun) |  | -0.2% | 3.5% |
