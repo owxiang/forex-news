@@ -48,8 +48,8 @@
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 4.874% |
 | 17:00 | EUR | Moderate | Unemployment Rate (Jun) |  | 6.5% | 6.5% |
 | 17:00 | ZAR | Low | Manufacturing PMI |  | 50.0 | 47.6 |
-| 18:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 13.30% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 9.80% |
+| 18:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 13.30% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
 | 20:00 | NZD | Moderate | GlobalDairyTrade Price Index |  |  | -1.0% |
