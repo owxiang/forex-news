@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Loan Officer Survey |  |  |  |
+| 47 min | USD | Loan Officer Survey |  |  |  |
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 49.6 | 48.2 |
 | 07:01 | GBP | BRC Shop Price Index (YoY) |  |  | 8.4% |
 | 07:30 | JPY | Unemployment Rate (Jun) |  | 2.5% | 2.6% |
@@ -26,8 +26,8 @@
 | 16:30 | HKD | Retail Sales (YoY) (Jun) |  | 26.7% | 18.4% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction |  |  | 4.874% |
 | 17:00 | ZAR | Manufacturing PMI |  | 50.0 | 47.6 |
-| 18:00 | EUR | Car Registration (MoM) (Jul) |  |  | 9.80% |
 | 18:00 | EUR | Car Registration (YoY) (Jul) |  |  | 13.30% |
+| 18:00 | EUR | Car Registration (MoM) (Jul) |  |  | 9.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
 | 20:00 | NZD | Milk Auctions |  |  | 3,289.0% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |

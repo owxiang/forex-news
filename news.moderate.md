@@ -11,8 +11,8 @@
 | 12:00 | IDR | Core Inflation (YoY) |  | 2.52% | 2.58% |
 | 12:00 | IDR | Inflation (MoM) |  | 0.22% | 0.14% |
 | 12:30 | AUD | RBA Rate Statement |  |  |  |
-| 14:00 | GBP | Nationwide HPI (YoY) (Jul) |  | -3.8% | -3.5% |
 | 14:00 | GBP | Nationwide HPI (MoM) (Jul) |  | -0.2% | 0.1% |
+| 14:00 | GBP | Nationwide HPI (YoY) (Jul) |  | -3.8% | -3.5% |
 | 15:15 | EUR | HCOB Spain Manufacturing PMI (Jul) |  | 48.3 | 48.0 |
 | 15:45 | EUR | HCOB Italy Manufacturing PMI (Jul) |  | 44.1 | 43.8 |
 | 15:50 | EUR | HCOB France Manufacturing PMI (Jul) |  | 44.5 | 46.0 |
