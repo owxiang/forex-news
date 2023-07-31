@@ -19,13 +19,13 @@
 | 14:00 | EUR | German Retail Sales (YoY) (Jun) | -1.6% | -2.7% | -2.1% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Jun) | 11.15% | 9.85% | 10.30% |
 | 14:00 | ZAR | Private Sector Credit (Jun) | 6.25% | 6.25% | 6.85% |
-| 15:00 | CHF | Official Reserves Assets (Jun) | 794,684.1M |  | 807,211.4M |
-| 16:00 | EUR | Italian GDP (YoY) (Q2) | 0.6% | 0.9% | 1.9% |
+| 15:00 | CHF | Official Reserves Assets (Jun) | 794.7B |  | 807,211.4B |
 | 16:00 | EUR | Italian GDP (QoQ) (Q2) | -0.3% | 0.0% | 0.6% |
+| 16:00 | EUR | Italian GDP (YoY) (Q2) | 0.6% | 0.9% | 1.9% |
 | 16:00 | EUR | Spanish Current account (May) | 3.99B | 3.19B | 1.84B |
 | 16:00 | NOK | Central Bank Currency Purchase (Aug) | 1,000.0M | 1,155.0M | 1,000.0M |
 | 16:30 | GBP | BoE Consumer Credit (Jun) | 1.661B | 1.300B | 1.090B |
-| 16:30 | GBP | M3 Money Supply (Jun) | 3,041,523.0M |  | 3,044,621.0M |
+| 16:30 | GBP | M3 Money Supply (Jun) | 3,041.5B |  | 3,044.6B |
 | 16:30 | GBP | M4 Money Supply (MoM) (Jun) | -0.1% | -0.1% | 0.3% |
 | 16:30 | GBP | Mortgage Approvals (Jun) | 54.66K | 49.00K | 51.14K |
 | 16:30 | GBP | Mortgage Lending (Jun) | 0.14B | 0.10B | -0.09B |
@@ -41,9 +41,9 @@
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 6.6% | 6.7% | 6.8% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.0% | -0.3% | 0.4% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jun) | 9.45B |  | 4.44B |
-| 13 min | INR | Federal Fiscal Deficit (Jun) |  |  | 2,102.87B |
-| 19:40 | INR | Infrastructure Output (YoY) |  | 4.2% | 4.3% |
-| 20:00 | ZAR | Trade Balance |  | 11.85B | 10.20B |
+| 18:00 | INR | Federal Fiscal Deficit (Jun) | 4,513.70B |  | 2,102.87B |
+| 47 min | INR | Infrastructure Output (YoY) (Jun) |  | 4.2% | 4.3% |
+| 47 min | ZAR | Trade Balance |  | 11.85B | 10.20B |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.659% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.613% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.644% |

@@ -27,13 +27,13 @@
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Jun) | -1.6% | -2.7% | -2.1% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 11.15% | 9.85% | 10.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jun) | 6.25% | 6.25% | 6.85% |
-| 15:00 | CHF | Low | Official Reserves Assets (Jun) | 794,684.1M |  | 807,211.4M |
-| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.6% | 0.9% | 1.9% |
+| 15:00 | CHF | Low | Official Reserves Assets (Jun) | 794.7B |  | 807,211.4B |
 | 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.3% | 0.0% | 0.6% |
+| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.6% | 0.9% | 1.9% |
 | 16:00 | EUR | Low | Spanish Current account (May) | 3.99B | 3.19B | 1.84B |
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Aug) | 1,000.0M | 1,155.0M | 1,000.0M |
 | 16:30 | GBP | Low | BoE Consumer Credit (Jun) | 1.661B | 1.300B | 1.090B |
-| 16:30 | GBP | Low | M3 Money Supply (Jun) | 3,041,523.0M |  | 3,044,621.0M |
+| 16:30 | GBP | Low | M3 Money Supply (Jun) | 3,041.5B |  | 3,044.6B |
 | 16:30 | GBP | Low | M4 Money Supply (MoM) (Jun) | -0.1% | -0.1% | 0.3% |
 | 16:30 | GBP | Low | Mortgage Approvals (Jun) | 54.66K | 49.00K | 51.14K |
 | 16:30 | GBP | Low | Mortgage Lending (Jun) | 0.14B | 0.10B | -0.09B |
@@ -45,23 +45,23 @@
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) | 0.1% | 0.1% | 0.0% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jul) | -1.5% | -1.3% | 0.1% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jul) | 6.4% | 6.4% | 6.7% |
-| 17:00 | EUR | Low | Core CPI (MoM) | -0.1% | -0.5% | 0.4% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) | 5.5% | 5.4% | 5.5% |
+| 17:00 | EUR | Low | Core CPI (MoM) | -0.1% | -0.5% | 0.4% |
 | 17:00 | EUR | High | CPI (YoY) (Jul) | 5.3% | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) | -0.1% | 0.3% | 0.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) | 123.36 |  | 123.47 |
-| 17:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.5% | 1.1% |
 | 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.0% |
+| 17:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.5% | 1.1% |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) | 6.6% | 6.7% | 6.8% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.0% | -0.3% | 0.4% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) | 9.45B |  | 4.44B |
-| 13 min | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 2,102.87B |
-| 19:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
-| 19:30 | INR | Moderate | RBI Monetary and Credit Information Review |  |  |  |
-| 19:40 | INR | Low | Infrastructure Output (YoY) |  | 4.2% | 4.3% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  |  | 1.0% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
-| 20:00 | ZAR | Low | Trade Balance |  | 11.85B | 10.20B |
+| 18:00 | INR | Low | Federal Fiscal Deficit (Jun) | 4,513.70B |  | 2,102.87B |
+| 12 min | BRL | Moderate | BCB Focus Market Readout |  |  |  |
+| 17 min | INR | Moderate | RBI Monetary and Credit Information Review |  |  |  |
+| 47 min | MXN | Moderate | GDP (YoY) (Q2) |  |  | 3.7% |
+| 47 min | MXN | Moderate | GDP (QoQ) (Q2) |  |  | 1.0% |
+| 47 min | INR | Low | Infrastructure Output (YoY) (Jun) |  | 4.2% | 4.3% |
+| 47 min | ZAR | Low | Trade Balance |  | 11.85B | 10.20B |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.613% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.644% |
