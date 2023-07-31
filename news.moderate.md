@@ -18,4 +18,4 @@
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q2) | 0.9% | 0.9% | 1.0% |
 | 20:00 | MXN | GDP (YoY) (Q2) | 3.7% | 3.4% | 3.7% |
-| 25 min | USD | Chicago PMI (Jul) |  | 43.0 | 41.5 |
+| 21:45 | USD | Chicago PMI (Jul) | 42.8 | 43.0 | 41.5 |

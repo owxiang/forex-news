@@ -23,8 +23,8 @@
 | 13:00 | SGD | Low | Business Expectations (Q2) | 6.00 | -8.90 | 2.00 |
 | 14:00 | EUR | Low | German Import Price Index (MoM) | -1.6% | -0.7% | -1.4% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) | -11.4% | -10.7% | -9.1% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | -0.8% | 0.2% | 1.9% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Jun) | -1.6% | -2.7% | -2.1% |
+| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jun) | -0.8% | 0.2% | 1.9% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 11.15% | 9.85% | 10.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jun) | 6.25% | 6.25% | 6.85% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jun) | 794.7B |  | 807.2B |
@@ -38,8 +38,8 @@
 | 16:30 | GBP | Low | Mortgage Approvals (Jun) | 54.66K | 49.00K | 51.14K |
 | 16:30 | GBP | Low | Mortgage Lending (Jun) | 0.14B | 0.10B | -0.09B |
 | 16:30 | GBP | Low | Net Lending to Individuals | 1.8B | 1.0B | 1.0B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q2) | -1.3% | 1.0% | 5.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q2) | 1.5% | 3.6% | 2.7% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q2) | -1.3% | 1.0% | 5.3% |
 | 16:30 | HKD | Low | M3 Money Supply (Jun) | -0.1% |  | 1.0% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jul) | 6.0% | 6.1% | 6.4% |
 | 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) | 0.1% | 0.1% | 0.0% |
@@ -47,8 +47,8 @@
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jul) | 6.4% | 6.4% | 6.7% |
 | 17:00 | EUR | Low | Core CPI (MoM) | -0.1% | -0.5% | 0.4% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) | 5.5% | 5.4% | 5.5% |
-| 17:00 | EUR | High | CPI (YoY) (Jul) | 5.3% | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) | -0.1% | 0.3% | 0.3% |
+| 17:00 | EUR | High | CPI (YoY) (Jul) | 5.3% | 5.3% | 5.5% |
 | 17:00 | EUR | Low | CPI, n.s.a (Jul) | 123.36 |  | 123.47 |
 | 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.3% | 0.2% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.5% | 1.1% |
@@ -65,7 +65,7 @@
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.657% |  | 3.659% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.588% |  | 3.613% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.634% |  | 3.644% |
-| 25 min | USD | Moderate | Chicago PMI (Jul) |  | 43.0 | 41.5 |
-| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) |  | -26.3 | -23.2 |
+| 21:45 | USD | Moderate | Chicago PMI (Jul) | 42.8 | 43.0 | 41.5 |
+| 15 min | USD | Low | Dallas Fed Mfg Business Index (Jul) |  | -26.3 | -23.2 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.270% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.270% |
