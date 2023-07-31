@@ -28,31 +28,31 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 11.15% | 9.85% | 10.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jun) | 6.25% | 6.25% | 6.85% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jun) | 794,684.1M |  | 807,211.4M |
-| 45 min | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.9% | 1.9% |
-| 45 min | EUR | Low | Italian GDP (QoQ) (Q2) |  | 0.0% | 0.6% |
-| 45 min | EUR | Low | Spanish Current account (May) |  | 3.19B | 1.84B |
-| 45 min | NOK | Low | Central Bank Currency Purchase (Aug) |  | 1,155.0M | 1,000.0M |
-| 16:30 | GBP | Low | BoE Consumer Credit (Jun) |  | 1.300B | 1.144B |
-| 16:30 | GBP | Low | M3 Money Supply (Jun) |  |  | 3,047,695.0% |
-| 16:30 | GBP | Low | M4 Money Supply (MoM) (Jun) |  | -0.1% | 0.2% |
-| 16:30 | GBP | Low | Mortgage Approvals (Jun) |  | 49.00K | 50.52K |
-| 16:30 | GBP | Low | Mortgage Lending (Jun) |  | 0.10B | -0.09B |
-| 16:30 | GBP | Low | Net Lending to Individuals |  | 1.0B | 1.1B |
-| 16:30 | HKD | Low | GDP (YoY) (Q2) |  | 3.5% | 2.7% |
-| 16:30 | HKD | Low | GDP (QoQ) (Q2) |  | 1.0% | 5.3% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 6.1% | 6.4% |
-| 17:00 | EUR | Moderate | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.3% | 0.1% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
-| 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
-| 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
-| 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
-| 17:00 | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
-| 17:00 | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.0% |
-| 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.1% |
-| 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
-| 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.4% |
+| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.6% | 0.9% | 1.9% |
+| 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.3% | 0.0% | 0.6% |
+| 16:00 | EUR | Low | Spanish Current account (May) | 3.99B | 3.19B | 1.84B |
+| 16:00 | NOK | Low | Central Bank Currency Purchase (Aug) | 1,000.0M | 1,155.0M | 1,000.0M |
+| 10 min | GBP | Low | BoE Consumer Credit (Jun) |  | 1.300B | 1.144B |
+| 10 min | GBP | Low | M3 Money Supply (Jun) |  |  | 3,047,695.0% |
+| 10 min | GBP | Low | M4 Money Supply (MoM) (Jun) |  | -0.1% | 0.2% |
+| 10 min | GBP | Low | Mortgage Approvals (Jun) |  | 49.00K | 50.52K |
+| 10 min | GBP | Low | Mortgage Lending (Jun) |  | 0.10B | -0.09B |
+| 10 min | GBP | Low | Net Lending to Individuals |  | 1.0B | 1.1B |
+| 10 min | HKD | Low | GDP (YoY) (Q2) |  | 3.6% | 2.7% |
+| 10 min | HKD | Low | GDP (QoQ) (Q2) |  | 1.0% | 5.3% |
+| 40 min | EUR | Low | Italian CPI (YoY) (Jul) |  | 6.1% | 6.4% |
+| 40 min | EUR | Moderate | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
+| 40 min | EUR | Low | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
+| 40 min | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.3% | 0.1% |
+| 40 min | EUR | Low | Core CPI (MoM) |  |  | 0.4% |
+| 40 min | EUR | Moderate | Core CPI (YoY) |  | 5.4% | 5.5% |
+| 40 min | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
+| 40 min | EUR | Moderate | CPI (MoM) |  | 0.3% | 0.3% |
+| 40 min | EUR | Low | CPI, n.s.a (Jul) |  |  | 123.47 |
+| 40 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.2% | 0.0% |
+| 40 min | EUR | Moderate | GDP (YoY) (Q2) |  | 0.5% | 1.1% |
+| 40 min | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.7% | 6.8% |
+| 40 min | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.4% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 4.47B |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Jun) |  |  | 2,102.87B |
 | 19:25 | BRL | Moderate | BCB Focus Market Readout |  |  |  |
