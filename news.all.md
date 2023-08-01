@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | BRL | Low | Trade Balance (Jul) | 9.04B | 8.22B | 10.46B |
-| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.900M | 1.319M |
+| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -15.400M | -0.900M | 1.319M |
 | 06:45 | NZD | Low | Employment Change (QoQ) (Q2) |  | 0.5% | 0.8% |
 | 06:45 | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 4.4% | 4.5% |
 | 06:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
