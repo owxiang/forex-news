@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | API Weekly Crude Oil Stock | -15.400M | -0.900M | 1.319M |
-| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 35 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | CHF | SECO Consumer Climate (Q3) |  |  | -13 |
 | 15:00 | EUR | Spanish Unemployment Change |  |  | -50.3K |
 | 15:30 | CHF | procure.ch PMI (Jul) |  | 44.2 | 44.9 |

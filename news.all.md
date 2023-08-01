@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | BRL | Low | Trade Balance (Jul) | 9.04B | 8.22B | 10.46B |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -15.400M | -0.900M | 1.319M |
-| 31 min | NZD | Low | Employment Change (QoQ) (Q2) |  | 0.5% | 0.8% |
-| 31 min | NZD | Low | Labor Cost Index (YoY) (Q2) |  | 4.4% | 4.5% |
-| 31 min | NZD | Low | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
-| 31 min | NZD | Low | Participation Rate (Q2) |  | 72.00% | 72.00% |
-| 31 min | NZD | Low | Unemployment Rate (Q2) |  | 3.5% | 3.4% |
-| 46 min | KRW | Low | CPI (YoY) (Jul) |  | 2.4% | 2.7% |
-| 46 min | KRW | Low | CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 46 min | AUD | Low | AIG Construction Index (Jul) |  |  | 10.6 |
-| 46 min | AUD | Low | AIG Manufacturing Index (Jul) |  |  | -19.8 |
-| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Jul) |  | -0.9% | -1.0% |
-| 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 06:45 | NZD | Low | Employment Change (QoQ) (Q2) | 1.0% | 0.5% | 0.8% |
+| 06:45 | NZD | Low | Labor Cost Index (YoY) (Q2) | 4.3% | 4.4% | 4.5% |
+| 06:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
+| 06:45 | NZD | Low | Participation Rate (Q2) | 72.40% | 72.00% | 72.00% |
+| 06:45 | NZD | Low | Unemployment Rate (Q2) | 3.6% | 3.5% | 3.4% |
+| 07:00 | KRW | Low | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
+| 07:00 | KRW | Low | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 07:00 | AUD | Low | AIG Construction Index (Jul) | -9.2 |  | 10.6 |
+| 07:00 | AUD | Low | AIG Manufacturing Index (Jul) | -25.6 |  | -19.8 |
+| 35 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 35 min | JPY | Low | Monetary Base (YoY) (Jul) |  | -0.9% | -1.0% |
+| 35 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 09:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 15:00 | CHF | Moderate | SECO Consumer Climate (Q3) |  |  | -13 |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change |  |  | -50.3K |
