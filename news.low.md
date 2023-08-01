@@ -23,10 +23,10 @@
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 7.4% | 7.7% | 7.5% |
 | 16:00 | NOK | Manufacturing PMI (Jul) | 56.7 | 47.3 | 48.7 |
 | 16:30 | HKD | Retail Sales (YoY) (Jun) | 19.6% | 26.7% | 18.4% |
-| 10 min | GBP | 2-Year Treasury Gilt Auction |  |  | 4.874% |
-| 10 min | ZAR | Manufacturing PMI |  | 50.0 | 47.6 |
-| 18:00 | EUR | Car Registration (MoM) (Jul) |  |  | 9.80% |
+| 6 min | GBP | 2-Year Treasury Gilt Auction |  |  | 4.874% |
+| 6 min | ZAR | Manufacturing PMI |  | 50.0 | 47.6 |
 | 18:00 | EUR | Car Registration (YoY) (Jul) |  |  | 13.30% |
+| 18:00 | EUR | Car Registration (MoM) (Jul) |  |  | 9.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
 | 20:00 | NZD | Milk Auctions |  |  | 3,289.0% |
 | 20:00 | ZAR | Total Vehicle Sales (Jul) |  |  | 46.81K |

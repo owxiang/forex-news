@@ -19,7 +19,7 @@
 | 15:55 | EUR | German Unemployment Change (Jul) | -4K | 20K | 30K |
 | 15:55 | EUR | German Unemployment Rate (Jul) | 5.6% | 5.7% | 5.7% |
 | 16:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 42.7 | 42.7 | 43.4 |
-| 10 min | EUR | Unemployment Rate (Jun) |  | 6.5% | 6.5% |
+| 6 min | EUR | Unemployment Rate (Jun) |  | 6.5% | 6.5% |
 | 20:00 | BRL | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
 | 20:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
 | 21:45 | USD | S&P Global US Manufacturing PMI (Jul) |  | 49.0 | 46.3 |

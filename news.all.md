@@ -22,8 +22,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) | 49.2 | 50.3 | 50.5 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.594% |  | 0.428% |
 | 12:00 | IDR | Moderate | Core Inflation (YoY) (Jul) | 2.43% | 2.50% | 2.58% |
-| 12:00 | IDR | Low | Inflation (YoY) | 3.08% | 3.10% | 3.52% |
 | 12:00 | IDR | Moderate | Inflation (MoM) | 0.21% | 0.22% | 0.14% |
+| 12:00 | IDR | Low | Inflation (YoY) | 3.08% | 3.10% | 3.52% |
 | 12:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.10% | 4.35% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jul) | 57.7 | 57.0 | 57.8 |
@@ -43,13 +43,13 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 42.7 | 42.7 | 43.4 |
 | 16:30 | GBP | High | S&P Global/CIPS UK Manufacturing PMI (Jul) | 45.3 | 45.0 | 46.5 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jun) | 19.6% | 26.7% | 18.4% |
-| 10 min | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 4.874% |
-| 10 min | EUR | Moderate | Unemployment Rate (Jun) |  | 6.5% | 6.5% |
-| 10 min | ZAR | Low | Manufacturing PMI |  | 50.0 | 47.6 |
-| 18:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 9.80% |
+| 6 min | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 4.874% |
+| 6 min | EUR | Moderate | Unemployment Rate (Jun) |  | 6.5% | 6.5% |
+| 6 min | ZAR | Low | Manufacturing PMI |  | 50.0 | 47.6 |
 | 18:00 | EUR | Low | Car Registration (YoY) (Jul) |  |  | 13.30% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
+| 18:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 9.80% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
 | 20:00 | NZD | Moderate | GlobalDairyTrade Price Index |  |  | -1.0% |
 | 20:00 | NZD | Low | Milk Auctions |  |  | 3,289.0% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 46.81K |
