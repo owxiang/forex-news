@@ -1,46 +1,32 @@
-## 01 August 2023 - Low Impact Forex News
+## 02 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Loan Officer Survey |  |  |  |
-| 06:45 | NZD | Building Consents (MoM) (Jun) | 3.5% | 0.3% | -2.3% |
-| 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 | 49.6 | 48.2 |
-| 07:01 | GBP | BRC Shop Price Index (YoY) | 7.6% |  | 8.4% |
-| 07:30 | JPY | Jobs/applications ratio (Jun) | 1.30 | 1.32 | 1.31 |
-| 07:30 | JPY | Unemployment Rate (Jun) | 2.5% | 2.5% | 2.6% |
-| 08:00 | KRW | Exports (YoY) (Jul) | -16.5% | -14.5% | -6.0% |
-| 08:00 | KRW | Imports (YoY) (Jul) | -25.4% | -24.6% | -11.7% |
-| 08:00 | KRW | Trade Balance (Jul) | 1.63B | 3.03B | 1.13B |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Jul) | 49.4 | 48.1 | 47.8 |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.6 | 49.4 | 49.8 |
-| 08:30 | IDR | Nikkei Manufacturing PMI (Jul) | 53.3 |  | 52.5 |
-| 09:30 | AUD | Building Approvals (YoY) (Jun) | -18.00% |  | -9.80% |
-| 09:30 | AUD | Invest Housing Finance (MoM) | 2.6% |  | 5.9% |
-| 09:30 | AUD | Private House Approvals (Jun) | -1.3% |  | 0.9% |
-| 12:00 | IDR | Core Inflation (YoY) (Jul) | 2.43% | 2.50% | 2.58% |
-| 12:00 | IDR | Inflation (YoY) | 3.08% | 3.10% | 3.52% |
-| 12:00 | IDR | Inflation (MoM) | 0.21% | 0.22% | 0.14% |
-| 13:00 | INR | S&P Global India Manufacturing PMI (Jul) | 57.7 | 57.0 | 57.8 |
-| 14:30 | AUD | Commodity Prices (YoY) | -23.5% | -19.0% | -21.5% |
-| 15:55 | EUR | German Unemployment (Jul) | 2.604M | 2.629M | 2.608M |
-| 15:55 | EUR | German Unemployment n.s.a. (Jul) | 2.617M | 2.563M | 2.550M |
-| 16:00 | EUR | Italian Monthly Unemployment Rate (Jun) | 7.4% | 7.7% | 7.5% |
-| 16:00 | NOK | Manufacturing PMI (Jul) | 56.7 | 47.3 | 48.7 |
-| 16:30 | HKD | Retail Sales (YoY) (Jun) | 19.6% | 26.7% | 18.4% |
-| 17:00 | GBP | 2-Year Treasury Gilt Auction | 5.272% |  | 5.668% |
-| 17:00 | ZAR | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
-| 18:00 | EUR | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
-| 18:00 | EUR | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
-| 20:00 | BRL | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | -4.3% |  | -1.0% |
-| 20:00 | USD | Milk Auctions | 3,100.0 |  | 3,289.0 |
-| 20:00 | ZAR | Total Vehicle Sales (Jul) | 43.39K |  | 46.81K |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
-| 20:55 | USD | Redbook (YoY) | 0.1% |  | -0.4% |
-| 21:00 | BRL | S&P Global Manufacturing PMI (Jul) | 47.8 | 46.8 | 46.6 |
-| 21:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) | 49.6 | 48.9 | 48.8 |
-| 22:00 | USD | Construction Spending (MoM) (Jun) | 0.5% | 0.6% | 1.1% |
-| 22:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.3 | 44.0 | 45.6 |
-| 22:30 | USD | Dallas Fed Services Revenues (Jul) | 12.9 | 5.6 | 3.6 |
-| 22:30 | USD | Texas Services Sector Outlook (Jul) | -4.2 | -12.5 | -8.2 |
-| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Jul) | 50.90 | 50.70 | 50.50 |
+| 02:00 | BRL | Trade Balance (Jul) |  | 8.22B | 10.59B |
+| 06:45 | NZD | Employment Change (QoQ) (Q2) |  | 0.5% | 0.8% |
+| 06:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 4.4% | 4.5% |
+| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
+| 06:45 | NZD | Participation Rate (Q2) |  | 72.00% | 72.00% |
+| 06:45 | NZD | Unemployment Rate (Q2) |  | 3.5% | 3.4% |
+| 07:00 | KRW | CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 07:00 | KRW | CPI (YoY) (Jul) |  | 2.4% | 2.7% |
+| 07:00 | AUD | AIG Construction Index (Jul) |  |  | 10.6 |
+| 07:00 | AUD | AIG Manufacturing Index (Jul) |  |  | -19.8 |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:50 | JPY | Monetary Base (YoY) (Jul) |  | -0.9% | -1.0% |
+| 09:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.8% |
+| 19:00 | USD | MBA Purchase Index |  |  | 159.2 |
+| 19:00 | USD | Mortgage Market Index |  |  | 206.9 |
+| 19:00 | USD | Mortgage Refinance Index |  |  | 444.5 |
+| 19:00 | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
+| 21:00 | SGD | S&P Global Singapore PMI (Jul) |  |  | 49.7 |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
+| 22:30 | USD | Crude Oil Imports |  | 0.908M | -1.584M |
+| 22:30 | USD | Distillate Fuel Production |  | -0.005M | -0.251M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.261M | -0.245M |
+| 22:30 | USD | Gasoline Production |  | -0.049M | -0.035M |
+| 22:30 | USD | Heating Oil Stockpiles |  | 0.082M | -1.002M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 22:30 | USD | Gasoline Inventories |  | -0.049M | -0.786M |
