@@ -22,11 +22,12 @@ def scrape_forex_events():
     chromedriver_path = '/path/to/chromedriver'
 
     # Set Chrome options to run in headless mode
+    chrome_options = Options()
     chrome_options.add_argument('--headless')  # Run Chrome in headless mode
 
     # Start the ChromeDriver service
     service = Service(chromedriver_path)
-    
+
     # Start the WebDriver
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
