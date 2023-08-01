@@ -17,20 +17,6 @@ def scrape_forex_events():
     # Create a string variable to hold the table
     table_for_all_md = table_header_for_all
     table_for_low_md = table_for_moderate_md = table_for_high_md = table_header_for_the_rest
-    
-    # # Path to the ChromeDriver executable
-    # # chromedriver_path = '/path/to/chromedriver'
-    # chromedriver_path = '/usr/local/bin'
-
-    # # Set Chrome options to run in headless mode
-    # chrome_options = Options()
-    # chrome_options.add_argument('--headless')  # Run Chrome in headless mode
-
-    # # Start the ChromeDriver service
-    # service = Service(chromedriver_path)
-
-    # # Start the WebDriver
-    # driver = webdriver.Chrome(service=service, options=chrome_options)
 
     # Set Chrome options to run in headless mode
     chrome_options = Options()
