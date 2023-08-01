@@ -31,7 +31,7 @@ def scrape_forex_events():
 
     # Start the WebDriver
     # driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver = webdriver.Chrome(executable_path=os.path.abspath("chromedriver.exe")
+    driver = webdriver.Chrome(executable_path=os.path.abspath("chromedriver.exe"))
 
     # Load the webpage
     # timezone = 27 = GMT+8
