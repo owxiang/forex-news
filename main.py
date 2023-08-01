@@ -19,7 +19,8 @@ def scrape_forex_events():
     table_for_low_md = table_for_moderate_md = table_for_high_md = table_header_for_the_rest
     
     # Path to the ChromeDriver executable
-    chromedriver_path = '/path/to/chromedriver'
+    # chromedriver_path = '/path/to/chromedriver'
+    chromedriver_path = '/usr/local/bin/chromedriver'
 
     # Set Chrome options to run in headless mode
     chrome_options = Options()
