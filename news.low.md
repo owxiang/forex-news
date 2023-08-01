@@ -27,13 +27,13 @@
 | 17:00 | ZAR | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
 | 18:00 | EUR | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
 | 18:00 | EUR | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
-| 48 min | BRL | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
-| 48 min | USD | Milk Auctions |  |  | 3,289.0% |
-| 48 min | ZAR | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
-| 48 min | ZAR | Total Vehicle Sales (Jul) |  |  | 46.81K |
-| 20:55 | USD | Redbook (YoY) |  |  | -0.4% |
-| 21:00 | BRL | S&P Global Manufacturing PMI (Jul) |  | 46.8 | 46.6 |
-| 21:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) |  | 48.9 | 48.8 |
+| 20:00 | BRL | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
+| 23 min | USD | Redbook (YoY) |  |  | -0.4% |
+| 28 min | BRL | S&P Global Manufacturing PMI (Jul) |  | 46.8 | 46.6 |
+| 28 min | USD | Milk Auctions |  |  | 3,289.0 |
+| 28 min | ZAR | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
+| 28 min | ZAR | Total Vehicle Sales (Jul) |  |  | 46.81K |
+| 58 min | CAD | S&P Global Canada Manufacturing PMI (Jul) |  | 48.9 | 48.8 |
 | 22:00 | USD | Construction Spending (MoM) (Jun) |  | 0.6% | 0.9% |
 | 22:00 | USD | ISM Manufacturing New Orders Index (Jul) |  | 44.0 | 45.6 |
 | 22:30 | USD | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
