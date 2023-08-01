@@ -20,15 +20,8 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # pip install selenium
+          pip install selenium
           pip install requests
-          
-      - name: Setup Chrome Driver
-        uses: nanasess/setup-chromedriver@v2
-        id: setup-chrome
-
-      - name: Change ChromeDriver permissions
-        run: chmod +x ${{ steps.setup-chrome.outputs.chromedriver-path }}
 
       - name: Run script
         id: run-script
@@ -38,7 +31,6 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           URL: ${{ vars.URL }}
-          CHROMEWEBDRIVER: ${{ steps.setup-chrome.outputs.chromedriver-path }}
 
       - name: Retrieve table content
         run: |
