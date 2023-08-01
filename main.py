@@ -1,4 +1,5 @@
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -30,7 +31,8 @@ def scrape_forex_events():
     service = Service(chromedriver_path)
 
     # Start the WebDriver
-    driver = webdriver.Chrome(service=service, options=chrome_options)
+    # driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver = webdriver.Chrome(ChromeDriverManager().install())
 
     # Load the webpage
     # timezone = 27 = GMT+8
