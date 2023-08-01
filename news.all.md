@@ -22,8 +22,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jul) | 49.2 | 50.3 | 50.5 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.594% |  | 0.428% |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jul) | 2.43% | 2.50% | 2.58% |
-| 12:00 | IDR | Low | Inflation (MoM) | 0.21% | 0.22% | 0.14% |
 | 12:00 | IDR | Low | Inflation (YoY) | 3.08% | 3.10% | 3.52% |
+| 12:00 | IDR | Low | Inflation (MoM) | 0.21% | 0.22% | 0.14% |
 | 12:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.10% | 4.35% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jul) | 57.7 | 57.0 | 57.8 |
@@ -46,24 +46,24 @@
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction | 5.272% |  | 5.668% |
 | 17:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.4% | 6.5% | 6.4% |
 | 17:00 | ZAR | Low | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
-| 18:00 | EUR | Low | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
+| 18:00 | EUR | Low | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | 0.3% | 0.3% | 1.9% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Jul) | 43.39K |  | 46.81K |
 | 20:55 | USD | Low | Redbook (YoY) | 0.1% |  | -0.4% |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) | 47.8 | 46.8 | 46.6 |
-| 11 min | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) |  | 48.9 | 48.8 |
-| 26 min | USD | Moderate | S&P Global US Manufacturing PMI (Jul) |  | 49.0 | 46.3 |
-| 41 min | USD | Low | Construction Spending (MoM) (Jun) |  | 0.6% | 0.9% |
-| 41 min | USD | Moderate | ISM Manufacturing Employment (Jul) |  | 48.0 | 48.1 |
-| 41 min | USD | Low | ISM Manufacturing New Orders Index (Jul) |  | 44.0 | 45.6 |
-| 41 min | USD | High | ISM Manufacturing PMI (Jul) |  | 46.8 | 46.0 |
-| 41 min | USD | High | ISM Manufacturing Prices (Jul) |  | 42.8 | 41.8 |
-| 41 min | USD | High | JOLTs Job Openings (Jun) |  | 9.610M | 9.824M |
-| 22:30 | USD | Low | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
-| 22:30 | USD | Low | Texas Services Sector Outlook (Jul) |  | -12.5 | -8.2 |
-| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) |  | 50.70 | 50.90 |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) | 49.6 | 48.9 | 48.8 |
+| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Jul) | 49.0 | 49.0 | 46.3 |
+| 22:00 | USD | Low | Construction Spending (MoM) (Jun) | 0.5% | 0.6% | 1.1% |
+| 22:00 | USD | Moderate | ISM Manufacturing Employment (Jul) | 44.4 | 48.0 | 48.1 |
+| 22:00 | USD | Low | ISM Manufacturing New Orders Index (Jul) | 47.3 | 44.0 | 45.6 |
+| 22:00 | USD | High | ISM Manufacturing PMI (Jul) | 46.4 | 46.8 | 46.0 |
+| 22:00 | USD | High | ISM Manufacturing Prices (Jul) | 42.6 | 42.8 | 41.8 |
+| 22:00 | USD | High | JOLTs Job Openings (Jun) | 9.582M | 9.610M | 9.616M |
+| 16 min | USD | Low | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
+| 16 min | USD | Low | Texas Services Sector Outlook (Jul) |  | -12.5 | -8.2 |
+| 46 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) |  | 50.70 | 50.90 |
+| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.0% |
 | 23:30 | USD | Low | Milk Auctions |  |  | 3,289.0 |

@@ -19,5 +19,5 @@
 | 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jul) | 45.3 | 45.0 | 46.5 |
 | 17:00 | EUR | Unemployment Rate (Jun) | 6.4% | 6.5% | 6.4% |
 | 20:00 | BRL | Industrial Production (YoY) (Jun) | 0.3% | 0.3% | 1.9% |
-| 26 min | USD | S&P Global US Manufacturing PMI (Jul) |  | 49.0 | 46.3 |
-| 41 min | USD | ISM Manufacturing Employment (Jul) |  | 48.0 | 48.1 |
+| 21:45 | USD | S&P Global US Manufacturing PMI (Jul) | 49.0 | 49.0 | 46.3 |
+| 22:00 | USD | ISM Manufacturing Employment (Jul) | 44.4 | 48.0 | 48.1 |

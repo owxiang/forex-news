@@ -18,8 +18,8 @@
 | 09:30 | AUD | Invest Housing Finance (MoM) | 2.6% |  | 5.9% |
 | 09:30 | AUD | Private House Approvals (Jun) | -1.3% |  | 0.9% |
 | 12:00 | IDR | Core Inflation (YoY) (Jul) | 2.43% | 2.50% | 2.58% |
-| 12:00 | IDR | Inflation (MoM) | 0.21% | 0.22% | 0.14% |
 | 12:00 | IDR | Inflation (YoY) | 3.08% | 3.10% | 3.52% |
+| 12:00 | IDR | Inflation (MoM) | 0.21% | 0.22% | 0.14% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Jul) | 57.7 | 57.0 | 57.8 |
 | 14:30 | AUD | Commodity Prices (YoY) | -23.5% | -19.0% | -21.5% |
 | 15:55 | EUR | German Unemployment (Jul) | 2.604M | 2.629M | 2.608M |
@@ -29,18 +29,18 @@
 | 16:30 | HKD | Retail Sales (YoY) (Jun) | 19.6% | 26.7% | 18.4% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction | 5.272% |  | 5.668% |
 | 17:00 | ZAR | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
-| 18:00 | EUR | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
 | 18:00 | EUR | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
+| 18:00 | EUR | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
 | 20:00 | BRL | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
 | 20:00 | ZAR | Total Vehicle Sales (Jul) | 43.39K |  | 46.81K |
 | 20:55 | USD | Redbook (YoY) | 0.1% |  | -0.4% |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jul) | 47.8 | 46.8 | 46.6 |
-| 11 min | CAD | S&P Global Canada Manufacturing PMI (Jul) |  | 48.9 | 48.8 |
-| 41 min | USD | Construction Spending (MoM) (Jun) |  | 0.6% | 0.9% |
-| 41 min | USD | ISM Manufacturing New Orders Index (Jul) |  | 44.0 | 45.6 |
-| 22:30 | USD | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
-| 22:30 | USD | Texas Services Sector Outlook (Jul) |  | -12.5 | -8.2 |
-| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Jul) |  | 50.70 | 50.90 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 21:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) | 49.6 | 48.9 | 48.8 |
+| 22:00 | USD | Construction Spending (MoM) (Jun) | 0.5% | 0.6% | 1.1% |
+| 22:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.3 | 44.0 | 45.6 |
+| 16 min | USD | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
+| 16 min | USD | Texas Services Sector Outlook (Jul) |  | -12.5 | -8.2 |
+| 46 min | MXN | S&P Global Mexico Manufacturing PMI (Jul) |  | 50.70 | 50.90 |
+| 46 min | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
 | 23:30 | USD | Milk Auctions |  |  | 3,289.0 |
