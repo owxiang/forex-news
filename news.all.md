@@ -27,8 +27,8 @@
 | 12:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.10% | 4.35% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jul) | 57.7 | 57.0 | 57.8 |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | -3.8% | -3.8% | -3.5% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | -0.2% | -0.2% | 0.1% |
+| 14:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | -3.8% | -3.8% | -3.5% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) | -23.5% | -19.0% | -21.5% |
 | 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) | 47.8 | 48.3 | 48.0 |
 | 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) | 44.5 | 44.2 | 43.8 |
@@ -41,19 +41,19 @@
 | 16:00 | EUR | Low | Italian Monthly Unemployment Rate (Jun) | 7.4% | 7.7% | 7.5% |
 | 16:00 | NOK | Low | Manufacturing PMI (Jul) | 56.7 | 47.3 | 48.7 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 42.7 | 42.7 | 43.4 |
-| 16:30 | GBP | High | S&P Global/CIPS UK Manufacturing PMI (Jul) | 45.3 | 45.0 | 46.5 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jul) | 45.3 | 45.0 | 46.5 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jun) | 19.6% | 26.7% | 18.4% |
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction | 5.272% |  | 5.668% |
 | 17:00 | EUR | Moderate | Unemployment Rate (Jun) | 6.4% | 6.5% | 6.4% |
 | 17:00 | ZAR | Low | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
+| 18:00 | EUR | Low | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
 | 18:00 | EUR | Low | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
-| 20:00 | EUR | Low | Car Registration (MoM) (Jul) |  |  | 9.80% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
-| 20:00 | NZD | Moderate | GlobalDairyTrade Price Index |  |  | -1.0% |
-| 20:00 | USD | Low | Milk Auctions |  |  | 3,289.0% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 46.81K |
+| 48 min | BRL | Moderate | Industrial Production (YoY) (Jun) |  | 0.3% | 1.9% |
+| 48 min | BRL | Low | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
+| 48 min | NZD | Moderate | GlobalDairyTrade Price Index |  |  | -1.0% |
+| 48 min | USD | Low | Milk Auctions |  |  | 3,289.0% |
+| 48 min | ZAR | Low | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
+| 48 min | ZAR | Low | Total Vehicle Sales (Jul) |  |  | 46.81K |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | -0.4% |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) |  | 46.8 | 46.6 |
 | 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) |  | 48.9 | 48.8 |

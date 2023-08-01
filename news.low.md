@@ -25,12 +25,12 @@
 | 16:30 | HKD | Retail Sales (YoY) (Jun) | 19.6% | 26.7% | 18.4% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction | 5.272% |  | 5.668% |
 | 17:00 | ZAR | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
+| 18:00 | EUR | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
 | 18:00 | EUR | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
-| 20:00 | EUR | Car Registration (MoM) (Jul) |  |  | 9.80% |
-| 20:00 | BRL | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
-| 20:00 | USD | Milk Auctions |  |  | 3,289.0% |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
-| 20:00 | ZAR | Total Vehicle Sales (Jul) |  |  | 46.81K |
+| 48 min | BRL | Industrial Production (MoM) (Jun) |  | -0.1% | 0.3% |
+| 48 min | USD | Milk Auctions |  |  | 3,289.0% |
+| 48 min | ZAR | Total Vehicle Sales (YoY) (Jul) |  | 29.40% | 14.00% |
+| 48 min | ZAR | Total Vehicle Sales (Jul) |  |  | 46.81K |
 | 20:55 | USD | Redbook (YoY) |  |  | -0.4% |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jul) |  | 46.8 | 46.6 |
 | 21:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) |  | 48.9 | 48.8 |
