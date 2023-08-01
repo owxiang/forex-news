@@ -8,8 +8,8 @@
 | 06:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
 | 06:45 | NZD | Participation Rate (Q2) |  | 72.00% | 72.00% |
 | 06:45 | NZD | Unemployment Rate (Q2) |  | 3.5% | 3.4% |
-| 07:00 | KRW | CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 07:00 | KRW | CPI (YoY) (Jul) |  | 2.4% | 2.7% |
+| 07:00 | KRW | CPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 07:00 | AUD | AIG Construction Index (Jul) |  |  | 10.6 |
 | 07:00 | AUD | AIG Manufacturing Index (Jul) |  |  | -19.8 |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
