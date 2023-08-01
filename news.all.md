@@ -27,8 +27,8 @@
 | 12:30 | AUD | High | RBA Interest Rate Decision (Aug) | 4.10% | 4.35% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jul) | 57.7 | 57.0 | 57.8 |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | -0.2% | -0.2% | 0.1% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) (Jul) | -3.8% | -3.8% | -3.5% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) (Jul) | -0.2% | -0.2% | 0.1% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) | -23.5% | -19.0% | -21.5% |
 | 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jul) | 47.8 | 48.3 | 48.0 |
 | 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jul) | 44.5 | 44.2 | 43.8 |
@@ -48,10 +48,12 @@
 | 17:00 | ZAR | Low | Manufacturing PMI | 47.3 | 50.0 | 47.6 |
 | 18:00 | EUR | Low | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
 | 18:00 | EUR | Low | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | 0.3% | 0.3% | 1.9% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jun) | 0.3% | 0.3% | 1.9% |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index | -4.3% |  | -1.0% |
+| 20:00 | USD | Low | Milk Auctions | 3,100.0 |  | 3,289.0 |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Jul) | 43.39K |  | 46.81K |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
 | 20:55 | USD | Low | Redbook (YoY) | 0.1% |  | -0.4% |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jul) | 47.8 | 46.8 | 46.6 |
 | 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jul) | 49.6 | 48.9 | 48.8 |
@@ -62,8 +64,6 @@
 | 22:00 | USD | High | ISM Manufacturing PMI (Jul) | 46.4 | 46.8 | 46.0 |
 | 22:00 | USD | High | ISM Manufacturing Prices (Jul) | 42.6 | 42.8 | 41.8 |
 | 22:00 | USD | High | JOLTs Job Openings (Jun) | 9.582M | 9.610M | 9.616M |
-| 16 min | USD | Low | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
-| 16 min | USD | Low | Texas Services Sector Outlook (Jul) |  | -12.5 | -8.2 |
-| 46 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) |  | 50.70 | 50.90 |
-| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -1.0% |
-| 23:30 | USD | Low | Milk Auctions |  |  | 3,289.0 |
+| 22:30 | USD | Low | Dallas Fed Services Revenues (Jul) | 12.9 | 5.6 | 3.6 |
+| 22:30 | USD | Low | Texas Services Sector Outlook (Jul) | -4.2 | -12.5 | -8.2 |
+| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jul) | 50.90 | 50.70 | 50.50 |

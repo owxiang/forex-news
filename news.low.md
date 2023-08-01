@@ -32,15 +32,15 @@
 | 18:00 | EUR | Car Registration (MoM) (Jul) | -19.70% |  | 9.80% |
 | 18:00 | EUR | Car Registration (YoY) (Jul) | 10.70% |  | 13.30% |
 | 20:00 | BRL | Industrial Production (MoM) (Jun) | 0.1% | -0.1% | 0.1% |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
+| 20:00 | NZD | GlobalDairyTrade Price Index | -4.3% |  | -1.0% |
+| 20:00 | USD | Milk Auctions | 3,100.0 |  | 3,289.0 |
 | 20:00 | ZAR | Total Vehicle Sales (Jul) | 43.39K |  | 46.81K |
+| 20:00 | ZAR | Total Vehicle Sales (YoY) (Jul) | 1.30% | 29.40% | 14.00% |
 | 20:55 | USD | Redbook (YoY) | 0.1% |  | -0.4% |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jul) | 47.8 | 46.8 | 46.6 |
 | 21:30 | CAD | S&P Global Canada Manufacturing PMI (Jul) | 49.6 | 48.9 | 48.8 |
 | 22:00 | USD | Construction Spending (MoM) (Jun) | 0.5% | 0.6% | 1.1% |
 | 22:00 | USD | ISM Manufacturing New Orders Index (Jul) | 47.3 | 44.0 | 45.6 |
-| 16 min | USD | Dallas Fed Services Revenues (Jul) |  | 5.6 | 3.6 |
-| 16 min | USD | Texas Services Sector Outlook (Jul) |  | -12.5 | -8.2 |
-| 46 min | MXN | S&P Global Mexico Manufacturing PMI (Jul) |  | 50.70 | 50.90 |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | -1.0% |
-| 23:30 | USD | Milk Auctions |  |  | 3,289.0 |
+| 22:30 | USD | Dallas Fed Services Revenues (Jul) | 12.9 | 5.6 | 3.6 |
+| 22:30 | USD | Texas Services Sector Outlook (Jul) | -4.2 | -12.5 | -8.2 |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Jul) | 50.90 | 50.70 | 50.50 |

@@ -7,8 +7,8 @@
 | 09:45 | CNY | Caixin Manufacturing PMI (Jul) | 49.2 | 50.3 | 50.5 |
 | 11:35 | JPY | 10-Year JGB Auction | 0.594% |  | 0.428% |
 | 12:30 | AUD | RBA Rate Statement |  |  |  |
-| 14:00 | GBP | Nationwide HPI (MoM) (Jul) | -0.2% | -0.2% | 0.1% |
 | 14:00 | GBP | Nationwide HPI (YoY) (Jul) | -3.8% | -3.8% | -3.5% |
+| 14:00 | GBP | Nationwide HPI (MoM) (Jul) | -0.2% | -0.2% | 0.1% |
 | 15:15 | EUR | HCOB Spain Manufacturing PMI (Jul) | 47.8 | 48.3 | 48.0 |
 | 15:45 | EUR | HCOB Italy Manufacturing PMI (Jul) | 44.5 | 44.2 | 43.8 |
 | 15:50 | EUR | HCOB France Manufacturing PMI (Jul) | 45.1 | 44.5 | 46.0 |
