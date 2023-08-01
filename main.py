@@ -25,15 +25,16 @@ def scrape_forex_events():
     # Set Chrome options to run in headless mode
     # chrome_options = Options()
     # chrome_options.add_argument('--headless')  # Run Chrome in headless mode
-    options = webdriver.ChromeOptions()
+    # options = webdriver.ChromeOptions()
 
     # Start the ChromeDriver service
     # service = Service(chromedriver_path)
-    service = Service()
+    # service = Service()
 
     # Start the WebDriver
     # driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver = webdriver.Chrome(service=service, options=options)
+    # driver = webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Chrome()
 
     # Load the webpage
     # timezone = 27 = GMT+8
