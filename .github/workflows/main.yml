@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium
           pip install requests
-          echo selenium
+          dpkg-query -W -f='${binary:Package} ${Version}\n' selenium
 
       - name: Run script
         id: run-script
