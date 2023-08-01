@@ -25,7 +25,8 @@ jobs:
           
       - name: Setup Chrome Driver
         uses: nanasess/setup-chromedriver@v2
-      
+        id: setup-chrome
+
       - name: Run script
         id: run-script
         run: |
