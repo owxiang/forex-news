@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | BRL | Trade Balance (Jul) |  | 8.22B | 10.59B |
+| 47 min | BRL | Trade Balance (Jul) |  | 8.22B | 10.59B |
 | 06:45 | NZD | Employment Change (QoQ) (Q2) |  | 0.5% | 0.8% |
 | 06:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 4.4% | 4.5% |
 | 06:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
