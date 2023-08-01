@@ -3,15 +3,15 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | BRL | Trade Balance (Jul) | 9.04B | 8.22B | 10.46B |
-| 06:45 | NZD | Employment Change (QoQ) (Q2) |  | 0.5% | 0.8% |
-| 06:45 | NZD | Labor Cost Index (YoY) (Q2) |  | 4.4% | 4.5% |
-| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
-| 06:45 | NZD | Participation Rate (Q2) |  | 72.00% | 72.00% |
-| 06:45 | NZD | Unemployment Rate (Q2) |  | 3.5% | 3.4% |
-| 07:00 | KRW | CPI (YoY) (Jul) |  | 2.4% | 2.7% |
-| 07:00 | KRW | CPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 07:00 | AUD | AIG Construction Index (Jul) |  |  | 10.6 |
-| 07:00 | AUD | AIG Manufacturing Index (Jul) |  |  | -19.8 |
+| 31 min | NZD | Employment Change (QoQ) (Q2) |  | 0.5% | 0.8% |
+| 31 min | NZD | Labor Cost Index (YoY) (Q2) |  | 4.4% | 4.5% |
+| 31 min | NZD | Labor Cost Index (QoQ) (Q2) |  | 1.2% | 0.9% |
+| 31 min | NZD | Participation Rate (Q2) |  | 72.00% | 72.00% |
+| 31 min | NZD | Unemployment Rate (Q2) |  | 3.5% | 3.4% |
+| 46 min | KRW | CPI (YoY) (Jul) |  | 2.4% | 2.7% |
+| 46 min | KRW | CPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 46 min | AUD | AIG Construction Index (Jul) |  |  | 10.6 |
+| 46 min | AUD | AIG Manufacturing Index (Jul) |  |  | -19.8 |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 07:50 | JPY | Monetary Base (YoY) (Jul) |  | -0.9% | -1.0% |
 | 09:30 | AUD | RBA Chart Pack Release |  |  |  |
