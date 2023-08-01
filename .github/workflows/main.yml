@@ -27,6 +27,9 @@ jobs:
         uses: nanasess/setup-chromedriver@v2
         id: setup-chrome
 
+      - name: Change ChromeDriver permissions
+        run: chmod +x ${{ steps.setup-chrome.outputs.chromedriver-path }}
+
       - name: Run script
         id: run-script
         run: |
