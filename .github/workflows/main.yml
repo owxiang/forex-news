@@ -22,7 +22,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium==4.5.0 
           pip install requests
-
+          
+      - name: Setup Chrome Driver
+        uses: nanasess/setup-chromedriver@v2
+      
       - name: Run script
         id: run-script
         run: |
@@ -31,6 +34,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           URL: ${{ vars.URL }}
+          CHROMEWEBDRIVER: ${{ steps.setup-chrome.outputs.chromedriver-path }}
 
       - name: Retrieve table content
         run: |
