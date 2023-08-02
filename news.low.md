@@ -8,13 +8,12 @@
 | 06:45 | NZD | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
 | 06:45 | NZD | Participation Rate (Q2) | 72.40% | 72.00% | 72.00% |
 | 06:45 | NZD | Unemployment Rate (Q2) | 3.6% | 3.5% | 3.4% |
-| 07:00 | KRW | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
 | 07:00 | KRW | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 07:00 | KRW | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
 | 07:00 | AUD | AIG Construction Index (Jul) | -9.2 |  | 10.6 |
 | 07:00 | AUD | AIG Manufacturing Index (Jul) | -25.6 |  | -19.8 |
-| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 35 min | JPY | Monetary Base (YoY) (Jul) |  | -0.9% | -1.0% |
-| 09:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 07:50 | JPY | Monetary Base (YoY) (Jul) | -1.3% | -0.9% | -1.0% |
+| 15 min | AUD | RBA Chart Pack Release |  |  |  |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.8% |
 | 19:00 | USD | MBA Purchase Index |  |  | 159.2 |

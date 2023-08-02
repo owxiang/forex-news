@@ -9,14 +9,13 @@
 | 06:45 | NZD | Low | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
 | 06:45 | NZD | Low | Participation Rate (Q2) | 72.40% | 72.00% | 72.00% |
 | 06:45 | NZD | Low | Unemployment Rate (Q2) | 3.6% | 3.5% | 3.4% |
-| 07:00 | KRW | Low | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
 | 07:00 | KRW | Low | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
+| 07:00 | KRW | Low | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
 | 07:00 | AUD | Low | AIG Construction Index (Jul) | -9.2 |  | 10.6 |
 | 07:00 | AUD | Low | AIG Manufacturing Index (Jul) | -25.6 |  | -19.8 |
-| 35 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 35 min | JPY | Low | Monetary Base (YoY) (Jul) |  | -0.9% | -1.0% |
-| 35 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 09:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Jul) | -1.3% | -0.9% | -1.0% |
+| 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 15 min | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 15:00 | CHF | Moderate | SECO Consumer Climate (Q3) |  |  | -13 |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change |  |  | -50.3K |
 | 15:30 | CHF | Moderate | procure.ch PMI (Jul) |  | 44.2 | 44.9 |
