@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | BRL | Interest Rate Decision |  | 13.50% | 13.75% |
+| 05:30 | BRL | Interest Rate Decision | 13.25% |  | 13.75% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Jul) |  | 53.9 | 53.9 |
 | 09:30 | AUD | Trade Balance (Jun) |  | 11.250B | 11.791B |
 | 09:45 | CNY | Caixin Services PMI (Jul) |  | 52.5 | 53.9 |
