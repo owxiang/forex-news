@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 17 min | BRL | Low | Foreign Exchange Flows |  | 2.371B | 3.040B |
 | 05:00 | KRW | Low | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
 | 05:00 | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
@@ -23,8 +22,8 @@
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) |  | 15.0B | 14.4B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
-| 14:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.1% |
 | 14:30 | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
+| 14:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.1% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -107.2B |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
@@ -51,8 +50,8 @@
 | 19:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.25% | 5.00% |
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 19:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 40.709K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 20:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 114,284.0M |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,700K | 1,690K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 227K | 221K |

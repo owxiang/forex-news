@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | BRL | Foreign Exchange Flows |  | 2.371B | 3.040B |
 | 05:00 | KRW | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
 | 07:00 | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -973.8B |
@@ -30,8 +29,8 @@
 | 17:00 | NOK | House Price Index (YoY) (Jul) |  | 0.70% | -0.70% |
 | 17:00 | EUR | PPI (YoY) (Jun) |  | -3.1% | -1.5% |
 | 17:00 | EUR | PPI (MoM) (Jun) |  | -0.2% | -1.9% |
-| 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 19:30 | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
+| 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 20:15 | CAD | Reserve Assets Total (Jul) |  |  | 114,284.0M |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,690K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.63K | 233.75K |
