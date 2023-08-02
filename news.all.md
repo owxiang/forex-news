@@ -22,8 +22,8 @@
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) |  | 15.0B | 14.4B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
-| 14:30 | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.1% |
+| 14:30 | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -107.2B |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
