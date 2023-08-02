@@ -21,7 +21,7 @@
 | 19:00 | USD | Mortgage Refinance Index | 433.6 |  | 444.5 |
 | 20:00 | USD | All Car Sales (Jul) | 3.14M |  | 3.08M |
 | 20:00 | USD | All Truck Sales (Jul) | 12.59M |  | 12.58M |
-| 28 min | SGD | S&P Global Singapore PMI (Jul) |  |  | 49.7 |
+| 21:00 | SGD | S&P Global Singapore PMI (Jul) | 49.8 |  | 49.7 |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
 | 22:30 | USD | Crude Oil Imports |  | 0.908M | -1.584M |
 | 22:30 | USD | Distillate Fuel Production |  | -0.005M | -0.251M |

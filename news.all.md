@@ -28,7 +28,7 @@
 | 20:00 | USD | Low | All Car Sales (Jul) | 3.14M |  | 3.08M |
 | 20:00 | USD | Low | All Truck Sales (Jul) | 12.59M |  | 12.58M |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Jul) | 324K | 189K | 455K |
-| 28 min | SGD | Low | S&P Global Singapore PMI (Jul) |  |  | 49.7 |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Jul) | 49.8 |  | 49.7 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -1.367M | -0.600M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
 | 22:30 | USD | Low | Crude Oil Imports |  | 0.908M | -1.584M |
