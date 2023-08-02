@@ -4,22 +4,22 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | BRL | Trade Balance (Jul) | 9.04B | 8.22B | 10.46B |
 | 06:45 | NZD | Employment Change (QoQ) (Q2) | 1.0% | 0.5% | 0.8% |
-| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
 | 06:45 | NZD | Labor Cost Index (YoY) (Q2) | 4.3% | 4.4% | 4.5% |
+| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
 | 06:45 | NZD | Participation Rate (Q2) | 72.40% | 72.00% | 72.00% |
 | 06:45 | NZD | Unemployment Rate (Q2) | 3.6% | 3.5% | 3.4% |
-| 07:00 | KRW | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
 | 07:00 | KRW | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
+| 07:00 | KRW | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
 | 07:00 | AUD | AIG Construction Index (Jul) | -9.2 |  | 10.6 |
 | 07:00 | AUD | AIG Manufacturing Index (Jul) | -25.6 |  | -19.8 |
 | 07:50 | JPY | Monetary Base (YoY) (Jul) | -1.3% | -0.9% | -1.0% |
 | 09:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.8% |
-| 19:00 | USD | MBA Purchase Index |  |  | 159.2 |
-| 19:00 | USD | Mortgage Market Index |  |  | 206.9 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 444.5 |
-| 19:00 | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
+| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
+| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.8% |
+| 44 min | USD | MBA Purchase Index |  |  | 159.2 |
+| 44 min | USD | Mortgage Market Index |  |  | 206.9 |
+| 44 min | USD | Mortgage Refinance Index |  |  | 444.5 |
+| 44 min | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
 | 21:00 | SGD | S&P Global Singapore PMI (Jul) |  |  | 49.7 |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
 | 22:30 | USD | Crude Oil Imports |  | 0.908M | -1.584M |
