@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:15 | USD | ADP Nonfarm Employment Change (Jul) |  | 189K | 497K |
+| 20:15 | USD | ADP Nonfarm Employment Change (Jul) | 324K | 189K | 455K |
 | 22:30 | USD | Crude Oil Inventories |  | -1.367M | -0.600M |
