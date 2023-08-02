@@ -1,32 +1,48 @@
-## 02 August 2023 - Low Impact Forex News
+## 03 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | BRL | Trade Balance (Jul) | 9.04B | 8.22B | 10.46B |
-| 06:45 | NZD | Employment Change (QoQ) (Q2) | 1.0% | 0.5% | 0.8% |
-| 06:45 | NZD | Labor Cost Index (YoY) (Q2) | 4.3% | 4.4% | 4.5% |
-| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
-| 06:45 | NZD | Participation Rate (Q2) | 72.40% | 72.00% | 72.00% |
-| 06:45 | NZD | Unemployment Rate (Q2) | 3.6% | 3.5% | 3.4% |
-| 07:00 | KRW | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
-| 07:00 | KRW | CPI (YoY) (Jul) | 2.3% | 2.4% | 2.7% |
-| 07:00 | AUD | AIG Construction Index (Jul) | -9.2 |  | 10.6 |
-| 07:00 | AUD | AIG Manufacturing Index (Jul) | -25.6 |  | -19.8 |
-| 07:50 | JPY | Monetary Base (YoY) (Jul) | -1.3% | -0.9% | -1.0% |
-| 09:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 19:00 | USD | MBA 30-Year Mortgage Rate | 6.93% |  | 6.87% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) | -3.0% |  | -1.8% |
-| 19:00 | USD | MBA Purchase Index | 154.1 |  | 159.2 |
-| 19:00 | USD | Mortgage Market Index | 200.7 |  | 206.9 |
-| 19:00 | USD | Mortgage Refinance Index | 433.6 |  | 444.5 |
-| 20:00 | USD | All Car Sales (Jul) | 3.14M |  | 3.08M |
-| 20:00 | USD | All Truck Sales (Jul) | 12.59M |  | 12.58M |
-| 21:00 | SGD | S&P Global Singapore PMI (Jul) | 49.8 |  | 49.7 |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.039M |  | -0.107M |
-| 22:30 | USD | Crude Oil Imports | -0.391M | 0.908M | -1.584M |
-| 22:30 | USD | Distillate Fuel Production | 0.080M | -0.005M | -0.251M |
-| 22:30 | USD | EIA Weekly Distillates Stocks | -0.796M | 0.112M | -0.245M |
-| 22:30 | USD | Gasoline Production | 0.341M | -0.049M | -0.035M |
-| 22:30 | USD | Heating Oil Stockpiles | 0.230M | 0.082M | -1.002M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.7% |  | -0.9% |
-| 22:30 | USD | Gasoline Inventories | 1.480M | -1.300M | -0.786M |
+| 01:30 | BRL | Foreign Exchange Flows |  | 2.371B | 3.040B |
+| 05:00 | KRW | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
+| 07:00 | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | -973.8B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 101.0B |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) |  | 50.4 | 50.3 |
+| 09:00 | NZD | ANZ Commodity Price Index (MoM) |  | -2.3% | -2.3% |
+| 09:30 | AUD | Exports (MoM) (Jun) |  |  | 4.0% |
+| 09:30 | AUD | Imports (MoM) (Jun) |  |  | 2.0% |
+| 09:30 | AUD | Retail Sales (QoQ) (Q2) |  | -1.8% | -0.6% |
+| 13:00 | INR | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
+| 14:00 | EUR | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
+| 14:00 | EUR | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
+| 14:00 | NOK | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
+| 14:00 | NOK | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
+| 14:30 | CHF | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
+| 14:45 | EUR | French Government Budget Balance (Jun) |  |  | -107.2B |
+| 15:15 | ZAR | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
+| 15:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
+| 15:50 | EUR | HCOB France Composite PMI (Jul) |  | 46.6 | 46.6 |
+| 15:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 48.3 | 48.3 |
+| 16:00 | EUR | Italian Retail Sales (YoY) (Jun) |  | 4.0% | 3.0% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
+| 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.04% |
+| 17:00 | NOK | House Price Index (YoY) (Jul) |  | 0.70% | -0.70% |
+| 17:00 | EUR | PPI (YoY) (Jun) |  | -3.1% | -1.5% |
+| 17:00 | EUR | PPI (MoM) (Jun) |  | -0.2% | -1.9% |
+| 19:30 | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
+| 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
+| 20:15 | CAD | Reserve Assets Total (Jul) |  |  | 114,284.0M |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,690K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.63K | 233.75K |
+| 21:00 | BRL | S&P Global Composite PMI (Jul) |  | 51.2 | 51.5 |
+| 21:00 | BRL | S&P Global Services PMI (Jul) |  | 52.3 | 53.3 |
+| 22:00 | USD | Durables Excluding Defense (MoM) (Jun) |  |  | 6.2% |
+| 22:00 | USD | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
+| 22:00 | USD | Factory orders ex transportation (MoM) (Jun) |  | 0.4% | -0.5% |
+| 22:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  | 57.2 | 59.2 |
+| 22:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  | 55.6 | 55.5 |
+| 22:00 | USD | ISM Non-Manufacturing Prices (Jul) |  | 52.1 | 54.1 |
+| 22:30 | USD | Natural Gas Storage |  | 6B | 16B |
+| 23:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
+| 23:30 | USD | 8-Week Bill Auction |  |  | 5.285% |

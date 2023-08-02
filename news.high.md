@@ -1,6 +1,8 @@
-## 02 August 2023 - High Impact Forex News
+## 03 August 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:15 | USD | ADP Nonfarm Employment Change (Jul) | 324K | 189K | 455K |
-| 22:30 | USD | Crude Oil Inventories | -17.049M | -1.367M | -0.600M |
+| 19:00 | GBP | BoE Interest Rate Decision (Aug) |  | 5.25% | 5.00% |
+| 20:30 | USD | Initial Jobless Claims |  | 227K | 221K |
+| 21:45 | USD | S&P Global US Services PMI (Jul) |  | 52.4 | 52.4 |
+| 22:00 | USD | ISM Non-Manufacturing PMI (Jul) |  | 53.0 | 53.9 |
