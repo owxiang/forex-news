@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
+| 44 min | KRW | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
 | 07:00 | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -973.8B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 101.0B |

@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
-| 05:00 | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
+| 44 min | KRW | Low | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
+| 44 min | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -973.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 101.0B |
