@@ -20,12 +20,12 @@
 | 15:00 | EUR | Moderate | Spanish Unemployment Change | -11.0K | -38.2K | -50.3K |
 | 15:30 | CHF | Moderate | procure.ch PMI (Jul) | 38.5 | 44.0 | 44.9 |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) | -0.14% | 0.02% | -0.03% |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.8% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 159.2 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 206.9 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 444.5 |
-| 44 min | AUD | Low | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.93% |  | 6.87% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -3.0% |  | -1.8% |
+| 19:00 | USD | Low | MBA Purchase Index | 154.1 |  | 159.2 |
+| 19:00 | USD | Low | Mortgage Market Index | 200.7 |  | 206.9 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 433.6 |  | 444.5 |
+| 19:00 | AUD | Low | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Jul) |  | 189K | 497K |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Jul) |  |  | 49.7 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -1.367M | -0.600M |
