@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | KRW | Low | FX Reserves - USD (Jul) |  | 424.35B | 421.45B |
-| 44 min | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
+| 05:00 | KRW | Low | FX Reserves - USD (Jul) | 421.80B | 424.35B | 421.45B |
+| 17 min | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -973.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 101.0B |
@@ -50,8 +50,8 @@
 | 19:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.25% | 5.00% |
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 40.709K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
+| 19:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 40.709K |
 | 20:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 114,284.0M |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,700K | 1,690K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 227K | 221K |
