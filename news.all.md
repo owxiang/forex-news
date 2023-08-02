@@ -29,13 +29,13 @@
 | 20:00 | USD | Low | All Truck Sales (Jul) | 12.59M |  | 12.58M |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Jul) | 324K | 189K | 455K |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Jul) | 49.8 |  | 49.7 |
-| 22:30 | USD | High | Crude Oil Inventories |  | -1.367M | -0.600M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
-| 22:30 | USD | Low | Crude Oil Imports |  | 0.908M | -1.584M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  | -2.494M | -2.609M |
-| 22:30 | USD | Low | Distillate Fuel Production |  | -0.005M | -0.251M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.112M | -0.245M |
-| 22:30 | USD | Low | Gasoline Production |  | -0.049M | -0.035M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  | 0.082M | -1.002M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
-| 22:30 | USD | Low | Gasoline Inventories |  | -1.300M | -0.786M |
+| 16 min | USD | High | Crude Oil Inventories |  | -1.367M | -0.600M |
+| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
+| 16 min | USD | Low | Crude Oil Imports |  | 0.908M | -1.584M |
+| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  | -2.494M | -2.609M |
+| 16 min | USD | Low | Distillate Fuel Production |  | -0.005M | -0.251M |
+| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.112M | -0.245M |
+| 16 min | USD | Low | Gasoline Production |  | -0.049M | -0.035M |
+| 16 min | USD | Low | Heating Oil Stockpiles |  | 0.082M | -1.002M |
+| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 16 min | USD | Low | Gasoline Inventories |  | -1.300M | -0.786M |

@@ -22,11 +22,11 @@
 | 20:00 | USD | All Car Sales (Jul) | 3.14M |  | 3.08M |
 | 20:00 | USD | All Truck Sales (Jul) | 12.59M |  | 12.58M |
 | 21:00 | SGD | S&P Global Singapore PMI (Jul) | 49.8 |  | 49.7 |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
-| 22:30 | USD | Crude Oil Imports |  | 0.908M | -1.584M |
-| 22:30 | USD | Distillate Fuel Production |  | -0.005M | -0.251M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.112M | -0.245M |
-| 22:30 | USD | Gasoline Production |  | -0.049M | -0.035M |
-| 22:30 | USD | Heating Oil Stockpiles |  | 0.082M | -1.002M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
-| 22:30 | USD | Gasoline Inventories |  | -1.300M | -0.786M |
+| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.107M |
+| 16 min | USD | Crude Oil Imports |  | 0.908M | -1.584M |
+| 16 min | USD | Distillate Fuel Production |  | -0.005M | -0.251M |
+| 16 min | USD | EIA Weekly Distillates Stocks |  | 0.112M | -0.245M |
+| 16 min | USD | Gasoline Production |  | -0.049M | -0.035M |
+| 16 min | USD | Heating Oil Stockpiles |  | 0.082M | -1.002M |
+| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.9% |
+| 16 min | USD | Gasoline Inventories |  | -1.300M | -0.786M |
