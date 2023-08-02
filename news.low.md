@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | BRL | Trade Balance (Jul) | 9.04B | 8.22B | 10.46B |
 | 06:45 | NZD | Employment Change (QoQ) (Q2) | 1.0% | 0.5% | 0.8% |
-| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
 | 06:45 | NZD | Labor Cost Index (YoY) (Q2) | 4.3% | 4.4% | 4.5% |
+| 06:45 | NZD | Labor Cost Index (QoQ) (Q2) | 1.1% | 1.2% | 0.9% |
 | 06:45 | NZD | Participation Rate (Q2) | 72.40% | 72.00% | 72.00% |
 | 06:45 | NZD | Unemployment Rate (Q2) | 3.6% | 3.5% | 3.4% |
 | 07:00 | KRW | CPI (MoM) (Jul) | 0.1% | 0.2% | 0.0% |
