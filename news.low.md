@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | FX Reserves - USD (Jul) | 421.80B | 424.35B | 421.45B |
-| 46 min | AUD | Judo Bank Australia Services PMI |  | 48.0 | 50.3 |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | -973.8B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 101.0B |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:00 | AUD | Judo Bank Australia Services PMI | 47.9 | 48.0 | 50.3 |
+| 36 min | JPY | Foreign Bonds Buying |  |  | -973.8B |
+| 36 min | JPY | Foreign Investments in Japanese Stocks |  |  | 101.0B |
+| 36 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) |  | 50.4 | 50.3 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) |  | -2.3% | -2.3% |
 | 09:30 | AUD | Exports (MoM) (Jun) |  |  | 4.0% |
@@ -29,8 +29,8 @@
 | 17:00 | NOK | House Price Index (YoY) (Jul) |  | 0.70% | -0.70% |
 | 17:00 | EUR | PPI (YoY) (Jun) |  | -3.1% | -1.5% |
 | 17:00 | EUR | PPI (MoM) (Jun) |  | -0.2% | -1.9% |
-| 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 19:30 | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
+| 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 20:15 | CAD | Reserve Assets Total (Jul) |  |  | 114,284.0M |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,690K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.63K | 233.75K |
