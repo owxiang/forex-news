@@ -16,10 +16,10 @@
 | 07:50 | JPY | Low | Monetary Base (YoY) (Jul) | -1.3% | -0.9% | -1.0% |
 | 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 09:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 40 min | CHF | Moderate | SECO Consumer Climate (Q3) |  |  | -13 |
-| 40 min | EUR | Moderate | Spanish Unemployment Change |  | -38.2K | -50.3K |
-| 15:30 | CHF | Moderate | procure.ch PMI (Jul) |  | 44.0 | 44.9 |
-| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  | 0.02% | -0.03% |
+| 15:00 | CHF | Moderate | SECO Consumer Climate (Q3) | -8 |  | -13 |
+| 15:00 | EUR | Moderate | Spanish Unemployment Change | -11.0K | -38.2K | -50.3K |
+| 16 min | CHF | Moderate | procure.ch PMI (Jul) |  | 44.0 | 44.9 |
+| 46 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jul) |  | 0.02% | -0.03% |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.8% |
 | 19:00 | USD | Low | MBA Purchase Index |  |  | 159.2 |
