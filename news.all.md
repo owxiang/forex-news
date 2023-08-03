@@ -21,21 +21,21 @@
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) | 18.7B | 15.0B | 14.6B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) | 3,059,532.0M |  | 3,147,050.0M |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
-| 11 min | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
-| 11 min | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.1% |
-| 26 min | EUR | Low | French Government Budget Balance (Jun) |  |  | -107.2B |
-| 56 min | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
-| 56 min | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
-| 15:45 | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
-| 15:45 | EUR | Moderate | HCOB Italy Services PMI (Jul) |  | 52.2 | 52.2 |
-| 15:50 | EUR | Low | HCOB France Composite PMI (Jul) |  | 46.6 | 47.2 |
-| 15:50 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 47.4 | 48.0 |
-| 15:55 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 48.3 | 50.6 |
-| 15:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 52.0 | 54.1 |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) |  | 4.0% | 3.0% |
-| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
-| 16:00 | EUR | Moderate | S&P Global Composite PMI (Jul) |  | 48.9 | 49.9 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 51.1 | 52.0 |
+| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
+| 14:30 | CHF | Moderate | CPI (MoM) (Jul) | -0.1% | -0.2% | 0.1% |
+| 14:45 | EUR | Low | French Government Budget Balance (Jun) | -116.2B |  | -107.2B |
+| 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
+| 31 min | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
+| 31 min | EUR | Moderate | HCOB Italy Services PMI (Jul) |  | 52.2 | 52.2 |
+| 36 min | EUR | Low | HCOB France Composite PMI (Jul) |  | 46.6 | 47.2 |
+| 36 min | EUR | Moderate | HCOB France Services PMI (Jul) |  | 47.4 | 48.0 |
+| 41 min | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 48.3 | 50.6 |
+| 41 min | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 52.0 | 54.1 |
+| 46 min | EUR | Low | Italian Retail Sales (YoY) (Jun) |  | 4.0% | 3.0% |
+| 46 min | EUR | Low | Italian Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
+| 46 min | EUR | Moderate | S&P Global Composite PMI (Jul) |  | 48.9 | 49.9 |
+| 46 min | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 51.1 | 52.0 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jul) |  | 50.7 | 52.8 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jul) |  | 51.5 | 53.7 |
 | 17:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.04% |
