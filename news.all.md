@@ -3,14 +3,14 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.913B |  | -0.836B |
-| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,243B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.167T |
+| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,243B |
+| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.167T |
 | 05:30 | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  |  | 2.5% |
 | 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 09:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Jun) |  | 0.0% | -0.2% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Jun) |  | 2.7% | 1.8% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Jun) |  | 0.0% | -0.2% |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | -1.5% | 6.4% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jun) |  | -0.3% | 1.2% |
 | 14:45 | EUR | Moderate | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.3% |
@@ -19,16 +19,16 @@
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 41.4 |
 | 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 43.7 |
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 44.2 |
-| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.4% | 1.6% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | -1.3% | -3.7% |
+| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.4% | 1.6% |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 48.0 | 48.9 |
 | 17:00 | EUR | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | -2.2% | -2.9% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  | 0.00% | -0.30% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 4.2% | 4.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.4 | 34.4 |
