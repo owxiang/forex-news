@@ -22,19 +22,19 @@
 | 15:45 | EUR | HCOB Italy Composite PMI (Jul) | 48.9 |  | 49.7 |
 | 15:50 | EUR | HCOB France Composite PMI (Jul) | 46.6 | 46.6 | 47.2 |
 | 15:55 | EUR | HCOB Germany Composite PMI (Jul) | 48.5 | 48.3 | 50.6 |
-| 16:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.0% | 0.6% |
 | 16:00 | EUR | Italian Retail Sales (YoY) (Jun) | 3.6% | 4.0% | 3.0% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.0% | 0.6% |
 | 17:00 | EUR | French 10-Year OAT Auction | 3.09% |  | 3.04% |
 | 17:00 | NOK | House Price Index (YoY) (Jul) | -0.20% | 0.70% | -0.70% |
-| 17:00 | EUR | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
 | 17:00 | EUR | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
-| 17 min | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
-| 17 min | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
-| 20:15 | CAD | Reserve Assets Total (Jul) |  |  | 114,284.0M |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,690K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.63K | 233.75K |
-| 21:00 | BRL | S&P Global Composite PMI (Jul) |  | 51.2 | 51.5 |
-| 21:00 | BRL | S&P Global Services PMI (Jul) |  | 52.3 | 53.3 |
+| 17:00 | EUR | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
+| 19:30 | USD | Challenger Job Cuts (YoY) | -8.2% |  | 25.2% |
+| 19:30 | USD | Challenger Job Cuts (Jul) | 23.697K |  | 40.709K |
+| 20:15 | CAD | Reserve Assets Total (Jul) | 114,512.0M |  | 114,284.0M |
+| 20:30 | USD | Continuing Jobless Claims | 1,700K | 1,700K | 1,679K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 228.25K | 235.63K | 233.75K |
+| 28 min | BRL | S&P Global Composite PMI (Jul) |  | 51.2 | 51.5 |
+| 28 min | BRL | S&P Global Services PMI (Jul) |  | 52.3 | 53.3 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Jun) |  |  | 6.2% |
 | 22:00 | USD | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Jun) |  | 0.4% | -0.5% |
