@@ -12,13 +12,13 @@
 | 09:30 | AUD | Imports (MoM) (Jun) | -4.0% |  | 3.5% |
 | 09:30 | AUD | Retail Sales (QoQ) (Q2) | -0.5% | -1.8% | -0.8% |
 | 13:00 | INR | S&P Global India Services PMI (Jul) | 62.3 | 58.0 | 58.5 |
-| 46 min | EUR | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
-| 46 min | EUR | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
-| 46 min | NOK | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
-| 46 min | NOK | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
-| 14:30 | CHF | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
-| 14:45 | EUR | French Government Budget Balance (Jun) |  |  | -107.2B |
-| 15:15 | ZAR | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
+| 14:00 | EUR | German Exports (MoM) (Jun) | 0.1% | 0.3% | 0.1% |
+| 14:00 | EUR | German Imports (MoM) (Jun) | -3.4% | -0.3% | 1.4% |
+| 14:00 | NOK | M3 Money Supply (Jun) | 3,059,532.0M |  | 3,147,050.0M |
+| 14:00 | NOK | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
+| 11 min | CHF | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
+| 26 min | EUR | French Government Budget Balance (Jun) |  |  | -107.2B |
+| 56 min | ZAR | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
 | 15:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
 | 15:50 | EUR | HCOB France Composite PMI (Jul) |  | 46.6 | 47.2 |
 | 15:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 48.3 | 50.6 |

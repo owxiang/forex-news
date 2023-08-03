@@ -16,16 +16,16 @@
 | 09:30 | AUD | Moderate | Trade Balance (Jun) | 11.321B | 11.000B | 10.497B |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Jul) | 54.1 | 52.5 | 53.9 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jul) | 62.3 | 58.0 | 58.5 |
-| 46 min | EUR | Low | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
-| 46 min | EUR | Low | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
-| 46 min | EUR | Moderate | German Trade Balance (Jun) |  | 15.0B | 14.4B |
-| 46 min | NOK | Low | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
-| 46 min | NOK | Low | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
-| 14:30 | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
-| 14:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.1% |
-| 14:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -107.2B |
-| 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
-| 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
+| 14:00 | EUR | Low | German Exports (MoM) (Jun) | 0.1% | 0.3% | 0.1% |
+| 14:00 | EUR | Low | German Imports (MoM) (Jun) | -3.4% | -0.3% | 1.4% |
+| 14:00 | EUR | Moderate | German Trade Balance (Jun) | 18.7B | 15.0B | 14.6B |
+| 14:00 | NOK | Low | M3 Money Supply (Jun) | 3,059,532.0M |  | 3,147,050.0M |
+| 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
+| 11 min | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
+| 11 min | CHF | Moderate | CPI (MoM) (Jul) |  | -0.2% | 0.1% |
+| 26 min | EUR | Low | French Government Budget Balance (Jun) |  |  | -107.2B |
+| 56 min | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
+| 56 min | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
 | 15:45 | EUR | Low | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
 | 15:45 | EUR | Moderate | HCOB Italy Services PMI (Jul) |  | 52.2 | 52.2 |
 | 15:50 | EUR | Low | HCOB France Composite PMI (Jul) |  | 46.6 | 47.2 |

@@ -6,9 +6,9 @@
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Jul) | 53.8 | 53.9 | 54.0 |
 | 09:30 | AUD | Trade Balance (Jun) | 11.321B | 11.000B | 10.497B |
 | 09:45 | CNY | Caixin Services PMI (Jul) | 54.1 | 52.5 | 53.9 |
-| 46 min | EUR | German Trade Balance (Jun) |  | 15.0B | 14.4B |
-| 14:30 | CHF | CPI (MoM) (Jul) |  | -0.2% | 0.1% |
-| 15:15 | EUR | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
+| 14:00 | EUR | German Trade Balance (Jun) | 18.7B | 15.0B | 14.6B |
+| 11 min | CHF | CPI (MoM) (Jul) |  | -0.2% | 0.1% |
+| 56 min | EUR | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
 | 15:45 | EUR | HCOB Italy Services PMI (Jul) |  | 52.2 | 52.2 |
 | 15:50 | EUR | HCOB France Services PMI (Jul) |  | 47.4 | 48.0 |
 | 15:55 | EUR | HCOB Germany Services PMI (Jul) |  | 52.0 | 54.1 |
