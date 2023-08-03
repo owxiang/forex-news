@@ -17,10 +17,10 @@
 | 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Jul) | 50.8 | 50.7 | 52.8 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI (Jul) | 51.5 | 51.5 | 53.7 |
 | 17:00 | EUR | ECB's Panetta Speaks |  |  |  |
-| 19:00 | GBP | BoE MPC vote cut (Aug) |  | 0 | 0 |
-| 19:00 | GBP | BoE MPC vote hike (Aug) |  | 8 | 7 |
-| 19:00 | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 2 |
-| 19:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 44 min | GBP | BoE MPC vote cut (Aug) |  | 0 | 0 |
+| 44 min | GBP | BoE MPC vote hike (Aug) |  | 8 | 7 |
+| 44 min | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 2 |
+| 44 min | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 2.0% | -2.1% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 2.6% | 4.2% |

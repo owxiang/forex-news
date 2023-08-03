@@ -21,8 +21,8 @@
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) | 18.7B | 15.0B | 14.6B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) | 3,059,532.0M |  | 3,147,050.0M |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
-| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Jul) | -0.1% | -0.2% | 0.1% |
+| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jun) | -116.2B |  | -107.2B |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 52.8 | 53.4 | 53.4 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) | 48.2 | 48.2 | 48.7 |
@@ -41,13 +41,13 @@
 | 17:00 | EUR | Low | French 10-Year OAT Auction | 3.09% |  | 3.04% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Jul) | -0.20% | 0.70% | -0.70% |
 | 17:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 17:00 | EUR | Low | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
-| 19:00 | GBP | Moderate | BoE MPC vote cut (Aug) |  | 0 | 0 |
-| 19:00 | GBP | Moderate | BoE MPC vote hike (Aug) |  | 8 | 7 |
-| 19:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 1 | 2 |
-| 19:00 | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.25% | 5.00% |
-| 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
+| 44 min | GBP | Moderate | BoE MPC vote cut (Aug) |  | 0 | 0 |
+| 44 min | GBP | Moderate | BoE MPC vote hike (Aug) |  | 8 | 7 |
+| 44 min | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 1 | 2 |
+| 44 min | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.25% | 5.00% |
+| 44 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 19:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 40.709K |

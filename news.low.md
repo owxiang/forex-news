@@ -26,8 +26,8 @@
 | 16:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.0% | 0.6% |
 | 17:00 | EUR | French 10-Year OAT Auction | 3.09% |  | 3.04% |
 | 17:00 | NOK | House Price Index (YoY) (Jul) | -0.20% | 0.70% | -0.70% |
-| 17:00 | EUR | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 17:00 | EUR | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
+| 17:00 | EUR | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
 | 19:30 | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
 | 20:15 | CAD | Reserve Assets Total (Jul) |  |  | 114,284.0M |
