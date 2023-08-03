@@ -9,9 +9,9 @@
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.4 | 50.4 | 50.3 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) | -2.6% | -2.3% | -1.7% |
 | 09:30 | AUD | Exports (MoM) (Jun) | -2.0% |  | 3.2% |
-| 09:30 | AUD | Imports (MoM) (Jun) | -4.0% |  | 2.0% |
+| 09:30 | AUD | Imports (MoM) (Jun) | -4.0% |  | 3.5% |
 | 09:30 | AUD | Retail Sales (QoQ) (Q2) | -0.5% | -1.8% | -0.8% |
-| 13:00 | INR | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
+| 42 min | INR | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
 | 14:00 | EUR | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
 | 14:00 | EUR | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
 | 14:00 | NOK | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
@@ -20,8 +20,8 @@
 | 14:45 | EUR | French Government Budget Balance (Jun) |  |  | -107.2B |
 | 15:15 | ZAR | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
 | 15:45 | EUR | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
-| 15:50 | EUR | HCOB France Composite PMI (Jul) |  | 46.6 | 46.6 |
-| 15:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 48.3 | 48.3 |
+| 15:50 | EUR | HCOB France Composite PMI (Jul) |  | 46.6 | 47.2 |
+| 15:55 | EUR | HCOB Germany Composite PMI (Jul) |  | 48.3 | 50.6 |
 | 16:00 | EUR | Italian Retail Sales (YoY) (Jun) |  | 4.0% | 3.0% |
 | 16:00 | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
 | 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.04% |
