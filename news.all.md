@@ -22,8 +22,8 @@
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.4% | 1.6% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | -1.3% | -3.7% |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 48.0 | 48.9 |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | -2.2% | -2.9% |
 | 17:00 | EUR | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | -2.2% | -2.9% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
