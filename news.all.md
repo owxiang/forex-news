@@ -32,8 +32,8 @@
 | 15:50 | EUR | Moderate | HCOB France Services PMI (Jul) | 47.1 | 47.4 | 48.0 |
 | 15:55 | EUR | Low | HCOB Germany Composite PMI (Jul) | 48.5 | 48.3 | 50.6 |
 | 15:55 | EUR | Moderate | HCOB Germany Services PMI (Jul) | 52.3 | 52.0 | 54.1 |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 3.6% | 4.0% | 3.0% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.0% | 0.6% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jun) | 3.6% | 4.0% | 3.0% |
 | 16:00 | EUR | Moderate | S&P Global Composite PMI (Jul) | 48.6 | 48.9 | 49.9 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 50.9 | 51.1 | 52.0 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jul) | 50.8 | 50.7 | 52.8 |
@@ -43,14 +43,14 @@
 | 17:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
 | 17:00 | EUR | Low | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
 | 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
-| 44 min | GBP | Moderate | BoE MPC vote cut (Aug) |  | 0 | 0 |
-| 44 min | GBP | Moderate | BoE MPC vote hike (Aug) |  | 8 | 7 |
-| 44 min | GBP | Moderate | BoE MPC vote unchanged (Aug) |  | 1 | 2 |
-| 44 min | GBP | High | BoE Interest Rate Decision (Aug) |  | 5.25% | 5.00% |
-| 44 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 19:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
-| 19:30 | USD | Low | Challenger Job Cuts (Jul) |  |  | 40.709K |
+| 19:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 0 | 0 | 0 |
+| 19:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 8 | 8 | 7 |
+| 19:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 1 | 1 | 2 |
+| 19:00 | GBP | High | BoE Interest Rate Decision (Aug) | 5.25% | 5.25% | 5.00% |
+| 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 17 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 17 min | USD | Low | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
+| 17 min | USD | Low | Challenger Job Cuts (Jul) |  |  | 40.709K |
 | 20:15 | CAD | Low | Reserve Assets Total (Jul) |  |  | 114,284.0M |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,700K | 1,690K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 227K | 221K |
