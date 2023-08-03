@@ -10,19 +10,19 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.8 | 53.9 | 54.0 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.4 | 50.4 | 50.3 |
 | 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.6% | -2.3% | -1.7% |
-| 14 min | AUD | Low | Exports (MoM) (Jun) |  |  | 4.0% |
-| 14 min | AUD | Low | Imports (MoM) (Jun) |  |  | 2.0% |
-| 14 min | AUD | Low | Retail Sales (QoQ) (Q2) |  | -1.8% | -0.6% |
-| 14 min | AUD | Moderate | Trade Balance (Jun) |  | 11.250B | 11.791B |
-| 29 min | CNY | Moderate | Caixin Services PMI (Jul) |  | 52.5 | 53.9 |
+| 09:30 | AUD | Low | Exports (MoM) (Jun) | -2.0% |  | 3.2% |
+| 09:30 | AUD | Low | Imports (MoM) (Jun) | -4.0% |  | 2.0% |
+| 09:30 | AUD | Low | Retail Sales (QoQ) (Q2) | -0.5% | -1.8% | -0.8% |
+| 09:30 | AUD | Moderate | Trade Balance (Jun) | 11.321B | 11.250B | 10.497B |
+| 09:45 | CNY | Moderate | Caixin Services PMI (Jul) | 54.1 | 52.5 | 53.9 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
 | 14:00 | EUR | Low | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
 | 14:00 | EUR | Low | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) |  | 15.0B | 14.4B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
-| 14:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.1% |
 | 14:30 | CHF | Low | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
+| 14:30 | CHF | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.1% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jun) |  |  | -107.2B |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |

@@ -8,9 +8,9 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 196.0B |  | 101.1B |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.4 | 50.4 | 50.3 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) | -2.6% | -2.3% | -1.7% |
-| 14 min | AUD | Exports (MoM) (Jun) |  |  | 4.0% |
-| 14 min | AUD | Imports (MoM) (Jun) |  |  | 2.0% |
-| 14 min | AUD | Retail Sales (QoQ) (Q2) |  | -1.8% | -0.6% |
+| 09:30 | AUD | Exports (MoM) (Jun) | -2.0% |  | 3.2% |
+| 09:30 | AUD | Imports (MoM) (Jun) | -4.0% |  | 2.0% |
+| 09:30 | AUD | Retail Sales (QoQ) (Q2) | -0.5% | -1.8% | -0.8% |
 | 13:00 | INR | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
 | 14:00 | EUR | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
 | 14:00 | EUR | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |

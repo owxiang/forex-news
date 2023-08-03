@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | BRL | Interest Rate Decision | 13.25% | 13.50% | 13.75% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Jul) | 53.8 | 53.9 | 54.0 |
-| 14 min | AUD | Trade Balance (Jun) |  | 11.250B | 11.791B |
-| 29 min | CNY | Caixin Services PMI (Jul) |  | 52.5 | 53.9 |
+| 09:30 | AUD | Trade Balance (Jun) | 11.321B | 11.250B | 10.497B |
+| 09:45 | CNY | Caixin Services PMI (Jul) | 54.1 | 52.5 | 53.9 |
 | 14:00 | EUR | German Trade Balance (Jun) |  | 15.0B | 14.4B |
 | 14:30 | CHF | CPI (MoM) (Jul) |  | -0.1% | 0.1% |
 | 15:15 | EUR | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
