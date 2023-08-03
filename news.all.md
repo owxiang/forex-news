@@ -3,9 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.913B |  | -0.836B |
-| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,243B |
-| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.167T |
-| 05:30 | BRL | Moderate | Interest Rate Decision |  | 13.50% | 13.75% |
+| 04:30 | USD | Moderate | Fed's Balance Sheet | 8,207B |  | 8,243B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  |  | 2.5% |
 | 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 09:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |

@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -0.913B |  | -0.836B |
-| 15 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.167T |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
 | 07:30 | JPY | Average Cash Earnings (YoY) |  |  | 2.5% |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 13:00 | SGD | Retail Sales (YoY) (Jun) |  | 2.7% | 1.8% |

@@ -2,8 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | USD | Fed's Balance Sheet |  |  | 8,243B |
-| 05:30 | BRL | Interest Rate Decision |  | 13.50% | 13.75% |
+| 04:30 | USD | Fed's Balance Sheet | 8,207B |  | 8,243B |
 | 09:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 14:00 | EUR | German Factory Orders (MoM) (Jun) |  | -1.5% | 6.4% |
 | 14:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.3% |
