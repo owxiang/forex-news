@@ -21,8 +21,8 @@
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) | 18.7B | 15.0B | 14.6B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) | 3,059,532.0M |  | 3,147,050.0M |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
-| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Jul) | -0.1% | -0.2% | 0.1% |
+| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jun) | -116.2B |  | -107.2B |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 52.8 | 53.4 | 53.4 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) | 48.2 | 48.2 | 48.7 |
@@ -41,8 +41,8 @@
 | 17:00 | EUR | Low | French 10-Year OAT Auction | 3.09% |  | 3.04% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Jul) | -0.20% | 0.70% | -0.70% |
 | 17:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 17:00 | EUR | Low | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
+| 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 19:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 0 | 0 | 0 |
 | 19:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 8 | 8 | 7 |
 | 19:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 1 | 1 | 2 |
@@ -71,6 +71,6 @@
 | 22:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) | 55.0 | 55.6 | 55.5 |
 | 22:00 | USD | High | ISM Non-Manufacturing PMI (Jul) | 52.7 | 53.0 | 53.9 |
 | 22:00 | USD | High | ISM Non-Manufacturing Prices (Jul) | 56.8 | 52.1 | 54.1 |
-| 16 min | USD | Low | Natural Gas Storage |  | 17B | 16B |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.285% |
+| 22:30 | USD | Low | Natural Gas Storage | 14B | 17B | 16B |
+| 15 min | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
+| 15 min | USD | Low | 8-Week Bill Auction |  |  | 5.285% |

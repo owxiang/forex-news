@@ -26,8 +26,8 @@
 | 16:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.0% | 0.6% |
 | 17:00 | EUR | French 10-Year OAT Auction | 3.09% |  | 3.04% |
 | 17:00 | NOK | House Price Index (YoY) (Jul) | -0.20% | 0.70% | -0.70% |
-| 17:00 | EUR | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 17:00 | EUR | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
+| 17:00 | EUR | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 19:30 | USD | Challenger Job Cuts (YoY) | -8.2% |  | 25.2% |
 | 19:30 | USD | Challenger Job Cuts (Jul) | 23.697K |  | 40.709K |
 | 20:15 | CAD | Reserve Assets Total (Jul) | 114,512.0M |  | 114,284.0M |
@@ -40,6 +40,6 @@
 | 22:00 | USD | Factory orders ex transportation (MoM) (Jun) | 0.2% | 0.4% | -0.4% |
 | 22:00 | USD | ISM Non-Manufacturing Business Activity (Jul) | 57.1 | 57.2 | 59.2 |
 | 22:00 | USD | ISM Non-Manufacturing New Orders (Jul) | 55.0 | 55.6 | 55.5 |
-| 16 min | USD | Natural Gas Storage |  | 17B | 16B |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.285% |
+| 22:30 | USD | Natural Gas Storage | 14B | 17B | 16B |
+| 15 min | USD | 4-Week Bill Auction |  |  | 5.275% |
+| 15 min | USD | 8-Week Bill Auction |  |  | 5.285% |
