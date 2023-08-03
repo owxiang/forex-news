@@ -5,17 +5,16 @@
 | 05:00 | KRW | Low | FX Reserves - USD (Jul) | 421.80B | 424.35B | 421.45B |
 | 05:30 | BRL | Moderate | Interest Rate Decision | 13.25% | 13.50% | 13.75% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 | 48.0 | 50.3 |
-| 36 min | JPY | Low | Foreign Bonds Buying |  |  | -973.8B |
-| 36 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 101.0B |
-| 36 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) |  | 53.9 | 53.9 |
-| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jul) |  | 50.4 | 50.3 |
-| 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  | -2.3% | -2.3% |
-| 09:30 | AUD | Low | Exports (MoM) (Jun) |  |  | 4.0% |
-| 09:30 | AUD | Low | Imports (MoM) (Jun) |  |  | 2.0% |
-| 09:30 | AUD | Low | Retail Sales (QoQ) (Q2) |  | -1.8% | -0.6% |
-| 09:30 | AUD | Moderate | Trade Balance (Jun) |  | 11.250B | 11.791B |
-| 09:45 | CNY | Moderate | Caixin Services PMI (Jul) |  | 52.5 | 53.9 |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 208.9B |  | -964.1B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 196.0B |  | 101.1B |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.8 | 53.9 | 54.0 |
+| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jul) | 49.4 | 50.4 | 50.3 |
+| 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.6% | -2.3% | -1.7% |
+| 14 min | AUD | Low | Exports (MoM) (Jun) |  |  | 4.0% |
+| 14 min | AUD | Low | Imports (MoM) (Jun) |  |  | 2.0% |
+| 14 min | AUD | Low | Retail Sales (QoQ) (Q2) |  | -1.8% | -0.6% |
+| 14 min | AUD | Moderate | Trade Balance (Jun) |  | 11.250B | 11.791B |
+| 29 min | CNY | Moderate | Caixin Services PMI (Jul) |  | 52.5 | 53.9 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
 | 14:00 | EUR | Low | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
 | 14:00 | EUR | Low | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
