@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  | 2.371B | 3.040B |
+| 17 min | BRL | Foreign Exchange Flows |  | 2.371B | 3.040B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.167T |
 | 07:30 | JPY | Average Cash Earnings (YoY) |  |  | 2.5% |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
@@ -14,8 +14,8 @@
 | 15:30 | EUR | HCOB Germany Construction PMI (Jul) |  |  | 41.4 |
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Jul) |  |  | 43.7 |
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 44.2 |
-| 16:00 | EUR | Italian Industrial Production (MoM) (Jun) |  | -0.4% | 1.6% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Jun) |  | -1.3% | -3.7% |
+| 16:00 | EUR | Italian Industrial Production (MoM) (Jun) |  | -0.4% | 1.6% |
 | 17:00 | EUR | Retail Sales (YoY) (Jun) |  | -2.2% | -2.9% |
 | 19:00 | CAD | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:30 | INR | FX Reserves, USD |  | 607.68B | 607.04B |
