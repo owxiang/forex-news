@@ -11,11 +11,11 @@
 | 09:30 | AUD | Exports (MoM) (Jun) | -2.0% |  | 3.2% |
 | 09:30 | AUD | Imports (MoM) (Jun) | -4.0% |  | 3.5% |
 | 09:30 | AUD | Retail Sales (QoQ) (Q2) | -0.5% | -1.8% | -0.8% |
-| 42 min | INR | S&P Global India Services PMI (Jul) |  | 58.0 | 58.5 |
-| 14:00 | EUR | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
-| 14:00 | EUR | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
-| 14:00 | NOK | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
-| 14:00 | NOK | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
+| 13:00 | INR | S&P Global India Services PMI (Jul) | 62.3 | 58.0 | 58.5 |
+| 46 min | EUR | German Exports (MoM) (Jun) |  | 0.3% | -0.1% |
+| 46 min | EUR | German Imports (MoM) (Jun) |  | -0.3% | 1.7% |
+| 46 min | NOK | M3 Money Supply (Jun) |  |  | 3,154,790.0% |
+| 46 min | NOK | Credit Indicator (YoY) (Jun) |  | 4.9% | 5.0% |
 | 14:30 | CHF | CPI (YoY) (Jul) |  | 1.6% | 1.7% |
 | 14:45 | EUR | French Government Budget Balance (Jun) |  |  | -107.2B |
 | 15:15 | ZAR | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
@@ -41,6 +41,6 @@
 | 22:00 | USD | ISM Non-Manufacturing Business Activity (Jul) |  | 57.2 | 59.2 |
 | 22:00 | USD | ISM Non-Manufacturing New Orders (Jul) |  | 55.6 | 55.5 |
 | 22:00 | USD | ISM Non-Manufacturing Prices (Jul) |  | 52.1 | 54.1 |
-| 22:30 | USD | Natural Gas Storage |  | 6B | 16B |
+| 22:30 | USD | Natural Gas Storage |  | 17B | 16B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.285% |

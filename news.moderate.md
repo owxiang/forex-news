@@ -6,7 +6,7 @@
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Jul) | 53.8 | 53.9 | 54.0 |
 | 09:30 | AUD | Trade Balance (Jun) | 11.321B | 11.000B | 10.497B |
 | 09:45 | CNY | Caixin Services PMI (Jul) | 54.1 | 52.5 | 53.9 |
-| 14:00 | EUR | German Trade Balance (Jun) |  | 15.0B | 14.4B |
+| 46 min | EUR | German Trade Balance (Jun) |  | 15.0B | 14.4B |
 | 14:30 | CHF | CPI (MoM) (Jul) |  | -0.2% | 0.1% |
 | 15:15 | EUR | HCOB Spain Services PMI (Jul) |  | 53.4 | 53.4 |
 | 15:45 | EUR | HCOB Italy Services PMI (Jul) |  | 52.2 | 52.2 |
@@ -18,13 +18,13 @@
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI (Jul) |  | 51.5 | 53.7 |
 | 17:00 | EUR | ECB's Panetta Speaks |  |  |  |
 | 19:00 | GBP | BoE MPC vote cut (Aug) |  | 0 | 0 |
-| 19:00 | GBP | BoE MPC vote hike (Aug) |  | 7 | 7 |
-| 19:00 | GBP | BoE MPC vote unchanged (Aug) |  | 2 | 2 |
+| 19:00 | GBP | BoE MPC vote hike (Aug) |  | 8 | 7 |
+| 19:00 | GBP | BoE MPC vote unchanged (Aug) |  | 1 | 2 |
 | 19:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 2.0% | -2.1% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 2.6% | 4.2% |
 | 21:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:45 | USD | S&P Global Composite PMI (Jul) |  | 52.0 | 52.0 |
-| 22:00 | USD | Factory Orders (MoM) (Jun) |  | 2.3% | 0.3% |
+| 21:45 | USD | S&P Global Composite PMI (Jul) |  | 52.0 | 53.2 |
+| 22:00 | USD | Factory Orders (MoM) (Jun) |  | 2.2% | 0.3% |
 | 22:00 | USD | ISM Non-Manufacturing Employment (Jul) |  | 51.1 | 53.1 |
