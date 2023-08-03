@@ -18,18 +18,18 @@
 | 14:00 | NOK | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
 | 14:30 | CHF | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:45 | EUR | French Government Budget Balance (Jun) | -116.2B |  | -107.2B |
-| 15:15 | ZAR | S&P Global South Africa PMI (Jul) |  | 48.2 | 48.7 |
-| 31 min | EUR | HCOB Italy Composite PMI (Jul) |  |  | 49.7 |
-| 36 min | EUR | HCOB France Composite PMI (Jul) |  | 46.6 | 47.2 |
-| 41 min | EUR | HCOB Germany Composite PMI (Jul) |  | 48.3 | 50.6 |
-| 46 min | EUR | Italian Retail Sales (YoY) (Jun) |  | 4.0% | 3.0% |
-| 46 min | EUR | Italian Retail Sales (MoM) (Jun) |  | 0.0% | 0.7% |
-| 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.04% |
-| 17:00 | NOK | House Price Index (YoY) (Jul) |  | 0.70% | -0.70% |
-| 17:00 | EUR | PPI (YoY) (Jun) |  | -3.1% | -1.5% |
-| 17:00 | EUR | PPI (MoM) (Jun) |  | -0.2% | -1.9% |
-| 19:30 | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
+| 15:15 | ZAR | S&P Global South Africa PMI (Jul) | 48.2 | 48.2 | 48.7 |
+| 15:45 | EUR | HCOB Italy Composite PMI (Jul) | 48.9 |  | 49.7 |
+| 15:50 | EUR | HCOB France Composite PMI (Jul) | 46.6 | 46.6 | 47.2 |
+| 15:55 | EUR | HCOB Germany Composite PMI (Jul) | 48.5 | 48.3 | 50.6 |
+| 16:00 | EUR | Italian Retail Sales (YoY) (Jun) | 3.6% | 4.0% | 3.0% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Jun) | -0.2% | 0.0% | 0.6% |
+| 41 min | EUR | French 10-Year OAT Auction |  |  | 3.04% |
+| 41 min | NOK | House Price Index (YoY) (Jul) |  | 0.70% | -0.70% |
+| 41 min | EUR | PPI (YoY) (Jun) |  | -3.1% | -1.5% |
+| 41 min | EUR | PPI (MoM) (Jun) |  | -0.2% | -1.9% |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  | 230.0% | 25.2% |
+| 19:30 | USD | Challenger Job Cuts (Jul) |  |  | 40.709K |
 | 20:15 | CAD | Reserve Assets Total (Jul) |  |  | 114,284.0M |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,690K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.63K | 233.75K |
