@@ -21,8 +21,8 @@
 | 14:00 | EUR | Moderate | German Trade Balance (Jun) | 18.7B | 15.0B | 14.6B |
 | 14:00 | NOK | Low | M3 Money Supply (Jun) | 3,059,532.0M |  | 3,147,050.0M |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jun) | 4.3% | 4.9% | 5.0% |
-| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Jul) | -0.1% | -0.2% | 0.1% |
+| 14:30 | CHF | Low | CPI (YoY) (Jul) | 1.6% | 1.6% | 1.7% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jun) | -116.2B |  | -107.2B |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Jul) | 52.8 | 53.4 | 53.4 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jul) | 48.2 | 48.2 | 48.7 |
@@ -41,8 +41,8 @@
 | 17:00 | EUR | Low | French 10-Year OAT Auction | 3.09% |  | 3.04% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Jul) | -0.20% | 0.70% | -0.70% |
 | 17:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 17:00 | EUR | Low | PPI (YoY) (Jun) | -3.4% | -3.1% | -1.6% |
+| 17:00 | EUR | Low | PPI (MoM) (Jun) | -0.4% | -0.2% | -1.9% |
 | 19:00 | GBP | Moderate | BoE MPC vote cut (Aug) | 0 | 0 | 0 |
 | 19:00 | GBP | Moderate | BoE MPC vote hike (Aug) | 8 | 8 | 7 |
 | 19:00 | GBP | Moderate | BoE MPC vote unchanged (Aug) | 1 | 1 | 2 |
@@ -57,20 +57,20 @@
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 228.25K | 235.63K | 233.75K |
 | 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 3.7% | 2.0% | -1.2% |
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 1.6% | 2.6% | 3.3% |
-| 28 min | BRL | Low | S&P Global Composite PMI (Jul) |  | 51.2 | 51.5 |
-| 28 min | BRL | Low | S&P Global Services PMI (Jul) |  | 52.3 | 53.3 |
-| 43 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  | 52.0 | 53.2 |
-| 21:45 | USD | High | S&P Global US Services PMI (Jul) |  | 52.4 | 54.4 |
-| 22:00 | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | 6.2% |
-| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
-| 22:00 | USD | Moderate | Factory Orders (MoM) (Jun) |  | 2.2% | 0.3% |
-| 22:00 | USD | Low | Factory orders ex transportation (MoM) (Jun) |  | 0.4% | -0.5% |
-| 22:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  | 57.2 | 59.2 |
-| 22:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  | 51.1 | 53.1 |
-| 22:00 | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  | 55.6 | 55.5 |
-| 22:00 | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 53.0 | 53.9 |
-| 22:00 | USD | Low | ISM Non-Manufacturing Prices (Jul) |  | 52.1 | 54.1 |
+| 21:00 | BRL | Low | S&P Global Composite PMI (Jul) | 49.6 | 51.2 | 51.5 |
+| 21:00 | BRL | Low | S&P Global Services PMI (Jul) | 50.2 | 52.3 | 53.3 |
+| 21:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 26 min | USD | Moderate | S&P Global Composite PMI (Jul) |  | 52.0 | 53.2 |
+| 26 min | USD | High | S&P Global US Services PMI (Jul) |  | 52.4 | 54.4 |
+| 41 min | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | 6.2% |
+| 41 min | USD | Low | Durables Excluding Transport (MoM) (Jun) |  |  | 0.6% |
+| 41 min | USD | Moderate | Factory Orders (MoM) (Jun) |  | 2.2% | 0.3% |
+| 41 min | USD | Low | Factory orders ex transportation (MoM) (Jun) |  | 0.4% | -0.5% |
+| 41 min | USD | Low | ISM Non-Manufacturing Business Activity (Jul) |  | 57.2 | 59.2 |
+| 41 min | USD | Moderate | ISM Non-Manufacturing Employment (Jul) |  | 51.1 | 53.1 |
+| 41 min | USD | Low | ISM Non-Manufacturing New Orders (Jul) |  | 55.6 | 55.5 |
+| 41 min | USD | High | ISM Non-Manufacturing PMI (Jul) |  | 53.0 | 53.9 |
+| 41 min | USD | High | ISM Non-Manufacturing Prices (Jul) |  | 52.1 | 54.1 |
 | 22:30 | USD | Low | Natural Gas Storage |  | 17B | 16B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.285% |

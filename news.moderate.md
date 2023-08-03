@@ -24,7 +24,7 @@
 | 19:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 3.7% | 2.0% | -1.2% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q2) | 1.6% | 2.6% | 3.3% |
-| 43 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:45 | USD | S&P Global Composite PMI (Jul) |  | 52.0 | 53.2 |
-| 22:00 | USD | Factory Orders (MoM) (Jun) |  | 2.2% | 0.3% |
-| 22:00 | USD | ISM Non-Manufacturing Employment (Jul) |  | 51.1 | 53.1 |
+| 21:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 26 min | USD | S&P Global Composite PMI (Jul) |  | 52.0 | 53.2 |
+| 41 min | USD | Factory Orders (MoM) (Jun) |  | 2.2% | 0.3% |
+| 41 min | USD | ISM Non-Manufacturing Employment (Jul) |  | 51.1 | 53.1 |
