@@ -6,12 +6,11 @@ import requests
 import datetime
 import boto3
 import re
-import json
-
 
 ssm = boto3.client('ssm')
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('forex-news-alert')
+lambda_arn = ''
 
 def remove_lambda_trigger(lambda_arn, rule_name):
     lambda_client = boto3.client('lambda')
@@ -25,6 +24,7 @@ def remove_lambda_trigger(lambda_arn, rule_name):
     except lambda_client.exceptions.ResourceNotFoundException:
         # Ignore the error if the permission does not exist
         pass
+    
     
 def create_cloudwatch_event(name, description, schedule_expression, lambda_arn):
     events_client = boto3.client('events')
@@ -84,7 +84,6 @@ def extend_cloudwatch_event(rule_name):
         original_hour = int(fields[1])
         original_day = int(fields[2])
         original_month = int(fields[3])
-        # We assume '?' in day-of-week field
         original_year = int(fields[5])
         
         # Construct a datetime object
@@ -170,41 +169,41 @@ def set_pre_event_schedule(row, event_time):
     event_time_minute_utc = event_time_utc.minute
     schedule_expression = f'cron({event_time_minute_utc} {event_time_hour_utc} {event_time.day} {event_time.month} ? {event_time.year})'
 
-    lambda_arn = ''
     create_cloudwatch_event(rule_name, 'Pre-Event Message Trigger', schedule_expression, lambda_arn)
+    print(f"EventBridge Schedule {rule_name} {schedule_expression} is created and its permission is added.")
 
-def send_pre_event_message(row, bot_token, chat_id, event_time):
-    message = f"*High Impact News Alert in 5 Minutes*\n\nEvent: {row['Event']}\nCurrency: {row['Currency']}"
+def send_pre_event_message(row, bot_token, chat_id):
+    message = f"*High Impact News in 5 Minutes*\n\nEvent: {row['Event']}\nCurrency: {row['Currency']}"
     pre_event_message_response = send_telegram_message(bot_token, chat_id, message)
     pre_event_message_id = pre_event_message_response['result']['message_id']
-    lambda_arn = ''
     
     # Store the message_id and event in DynamoDB
-    # table.put_item(
-    #     Item={
-    #         'event': row['Event'],
-    #         'message_id': str(pre_event_message_id),
-    #         'timestamp': datetime.datetime.now().isoformat(),
-    #     }
-    # )
+    table.put_item(
+        Item={
+            'event': row['Event'],
+            'message_id': str(pre_event_message_id),
+            'timestamp': datetime.datetime.now().isoformat(),
+        }
+    )
 
     event_name = re.sub('[^a-zA-Z0-9]', '_', row['Event'])  # Replace anything not a-zA-Z0-9 with underscore (_)
     rule_name = f'forex_schedule_{event_name}_pre'
     
     remove_lambda_trigger(lambda_arn, rule_name)
     delete_cloudwatch_event(rule_name)
+    print(f"EventBridge Schedule {rule_name} is deleted its permission is removed.")
+    # set_post_event_schedule(event_name,event_time)
+
+def set_post_event_schedule(event_name,event_time):
+    rule_name = f'forex_schedule_{event_name}_post'
+    event_time_utc = (event_time + datetime.timedelta(minutes=30)).astimezone(datetime.timezone.utc)
+    event_time_hour_utc = event_time_utc.hour
+    event_time_minute_utc = event_time_utc.minute
+    schedule_expression = f'cron({event_time_minute_utc} {event_time_hour_utc} {event_time.day} {event_time.month} ? {event_time.year})'
     
-    # Set post-event schedule 
-    # rule_name = f'forex_schedule_{event_name}_post'
-    # event_time_utc = (event_time + datetime.timedelta(minutes=30)).astimezone(datetime.timezone.utc)
-    # event_time_hour_utc = event_time_utc.hour
-    # event_time_minute_utc = event_time_utc.minute
-    # schedule_expression = f'cron({event_time_minute_utc} {event_time_hour_utc} {event_time.day} {event_time.month} ? {event_time.year})'
-    
-    # create_cloudwatch_event(rule_name, 'Post-Event Message Trigger', schedule_expression, lambda_arn)
+    create_cloudwatch_event(rule_name, 'Post-Event Message Trigger', schedule_expression, lambda_arn)
 
 def send_post_event_message(row, bot_token, chat_id):
-    lambda_arn = ''
     item = table.get_item(Key={'event': row['Event']}).get('Item', {})
     event_name = re.sub('[^a-zA-Z0-9]', '_', row['Event'])  # Replace anything not a-zA-Z0-9 with underscore (_)
     rule_name = f'forex_schedule_{event_name}_post'
@@ -223,7 +222,18 @@ def send_post_event_message(row, bot_token, chat_id):
     else:
         # Extend schedule 30 mins because row['Actual'] is not presented
         extend_cloudwatch_event(rule_name)
+        
+def send_post_event_message_v2(row, bot_token, chat_id):
+    item = table.get_item(Key={'event': row['Event']}).get('Item', {})
+    
+    if item and row['Actual']:
+        message = f"Event: {row['Event']}\nCurrency: {row['Currency']}\nActual: {row['Actual']}\nForecast: {row['Forecast']}\nPrevious: {row['Previous']}"
+        message_id = item.get('message_id')
 
+        send_telegram_message(bot_token, chat_id, message, reply_to_message_id=int(message_id))
+    table.delete_item(Key={'event': row['Event']})
+    print(f"{item} is deleted from DynamoDB.")
+        
 def lambda_handler(event, context):
     github_readme_url = "https://raw.githubusercontent.com/owxiang/forex-news/main/news.high.md"
     readme_content = fetch_github_readme_content(github_readme_url)
@@ -243,35 +253,24 @@ def lambda_handler(event, context):
     time_zone = gettz('GMT+8')
 
     for row in table_data:
-        event_time_str = row['Time (GMT+8)']
-        
-        if "min" in event_time_str:
-            minutes = int(event_time_str.split()[0])
-            event_time = current_time + datetime.timedelta(minutes=minutes)
-        else:
-            event_time = datetime.datetime.strptime(event_time_str, '%d %B %Y - %H:%M').replace(tzinfo=time_zone)
-            
-        clean_event_name = re.sub('[^a-zA-Z0-9]', '', row['Event'])
-        
+
+        # check if lambda is triggered by eventbridge
         if 'resources' in event:
+            clean_event_name = re.sub('[^a-zA-Z0-9]', '', row['Event'])
             rule_name = event['resources'][0].split('/')[-1]
             clean_rule_name = re.sub('[^a-zA-Z0-9]', '', rule_name)
+            if rule_name == 'schedule-forex-before-after-news-alert':
+                event_time_str = row['Time (GMT+8)']
+                event_time = datetime.datetime.strptime(event_time_str, '%d %B %Y - %H:%M').replace(tzinfo=time_zone)
+                set_pre_event_schedule(row, event_time)
+            elif rule_name == 'schedule-forex-before-after-news-alert-eod':
+                send_post_event_message_v2(row, bot_token, chat_id)
+            elif '_pre' in rule_name:
+                if clean_event_name in clean_rule_name:
+                    send_pre_event_message(row, bot_token, chat_id)
         else:
             rule_name = None
-            
-        # every 7am set pre-msg trigger
-        if current_time.hour == 7 and rule_name == 'schedule-forex-before-after-news-alert':
-            set_pre_event_schedule(row, event_time)
-            
-        if rule_name is not None:
-            # once the pre-message schedule hits
-            if clean_event_name in clean_rule_name and 'pre' in clean_rule_name:
-                send_pre_event_message(row, bot_token, chat_id, event_time)
-
-            # once the post-message schedule hits
-            # if clean_event_name in clean_rule_name and 'post' in clean_rule_name:
-            #     send_post_event_message(row, bot_token, chat_id)
-
+      
     return {
         'statusCode': 200,
         'body': 'Success!'
