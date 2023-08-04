@@ -6,26 +6,26 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,207B |  | 8,243B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
 | 09:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 42 min | SGD | Low | Retail Sales (MoM) (Jun) |  | 0.0% | -0.2% |
-| 42 min | SGD | Low | Retail Sales (YoY) (Jun) |  | 2.7% | 1.8% |
-| 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | -1.5% | 6.4% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | -0.2% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Jun) | 1.1% | 2.7% | 1.8% |
+| 46 min | EUR | Moderate | German Factory Orders (MoM) (Jun) |  | -2.0% | 6.4% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jun) |  | -0.3% | 1.2% |
 | 14:45 | EUR | Moderate | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.3% |
-| 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  |  | -0.1% |
+| 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  | -1.7% | -0.1% |
 | 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 48.6 |
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 41.4 |
 | 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 43.7 |
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 44.2 |
-| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.4% | 1.6% |
-| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | -1.3% | -3.7% |
+| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.3% | 1.6% |
+| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | -2.0% | -3.7% |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 48.0 | 48.9 |
 | 17:00 | EUR | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | -2.2% | -2.9% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | -1.7% | -2.9% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  | 0.00% | -0.30% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 4.2% | 4.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.4 | 34.4 |
@@ -33,11 +33,11 @@
 | 20:30 | USD | Low | Manufacturing Payrolls (Jul) |  | 5K | 7K |
 | 20:30 | USD | High | Nonfarm Payrolls (Jul) |  | 200K | 209K |
 | 20:30 | USD | Moderate | Participation Rate (Jul) |  | 62.6% | 62.6% |
-| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 175K | 149K |
+| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Jul) |  | 179K | 149K |
 | 20:30 | USD | Low | U6 Unemployment Rate (Jul) |  | 6.8% | 6.9% |
 | 20:30 | USD | High | Unemployment Rate (Jul) |  | 3.6% | 3.6% |
 | 20:30 | CAD | Low | Avg hourly wages Permanent employee (Jul) |  |  | 3.9% |
-| 20:30 | CAD | Moderate | Employment Change (Jul) |  | 20.6K | 59.9K |
+| 20:30 | CAD | Moderate | Employment Change (Jul) |  | 21.1K | 59.9K |
 | 20:30 | CAD | Low | Full Employment Change (Jul) |  |  | 109.6K |
 | 20:30 | CAD | Low | Part Time Employment Change (Jul) |  |  | -49.8K |
 | 20:30 | CAD | Low | Participation Rate (Jul) |  | 65.6% | 65.7% |
