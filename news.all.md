@@ -6,8 +6,8 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,207B |  | 8,243B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
 | 09:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | -0.2% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Jun) | 1.1% | 2.7% | 1.8% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | -0.2% |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 7.0% | -2.0% | 6.2% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jun) | -0.9% | -0.3% | 1.1% |
 | 14:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.4% |
@@ -20,13 +20,13 @@
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 51.7 | 48.0 | 48.9 |
 | 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 143,921.0% |  | 177,266.0% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
-| 44 min | CAD | Low | Leading Index (MoM) (Jul) |  |  | -0.05% |
-| 59 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 19:30 | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (May) |  | 0.00% | -0.30% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.2% | 0.6% |
+| 19:00 | CAD | Low | Leading Index (MoM) (Jul) | 0.00% |  | -0.01% |
+| 3 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 18 min | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
+| 48 min | MXN | Low | Gross Fixed Investments (MoM) (May) |  | 0.00% | -0.30% |
+| 48 min | MXN | Low | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Jul) |  | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 4.2% | 4.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Jul) |  | 34.4 | 34.4 |
