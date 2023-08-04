@@ -2,25 +2,25 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | BRL | Low | Foreign Exchange Flows | -0.913B |  | -0.836B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 2.126B | 2.371B | 3.040B |
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,207B |  | 8,243B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
 | 09:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Jun) | 1.1% | 2.7% | 1.8% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | -0.2% |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 7.0% | -2.0% | 6.2% |
-| 26 min | EUR | Low | French Industrial Production (MoM) (Jun) |  | -0.3% | 1.2% |
-| 26 min | EUR | Moderate | French Non-Farm Payrolls (QoQ) (Q2) |  |  | 0.3% |
-| 41 min | EUR | Low | Spanish Industrial Production (YoY) (Jun) |  | -1.7% | -0.1% |
-| 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 48.6 |
-| 15:30 | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 41.4 |
-| 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 43.7 |
-| 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 44.2 |
-| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | -2.0% | -3.7% |
-| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.3% | 1.6% |
+| 14:45 | EUR | Low | French Industrial Production (MoM) (Jun) | -0.9% | -0.3% | 1.1% |
+| 14:45 | EUR | Moderate | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.4% |
+| 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | -3.0% | -1.7% | -0.6% |
+| 16 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 48.6 |
+| 16 min | EUR | Low | HCOB Germany Construction PMI (Jul) |  |  | 41.4 |
+| 16 min | EUR | Low | HCOB France Construction PMI (MoM) (Jul) |  |  | 43.7 |
+| 16 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) |  |  | 44.2 |
+| 46 min | EUR | Low | Italian Industrial Production (YoY) (Jun) |  | -2.0% | -3.7% |
+| 46 min | EUR | Low | Italian Industrial Production (MoM) (Jun) |  | -0.3% | 1.6% |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 48.0 | 48.9 |
-| 17:00 | EUR | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Jun) |  | -1.7% | -2.9% |
+| 17:00 | EUR | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
