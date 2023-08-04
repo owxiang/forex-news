@@ -16,8 +16,8 @@
 | 16:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.8% | -2.0% | -3.5% |
 | 17:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 143,921.0% |  | 177,266.0% |
-| 17:00 | EUR | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
 | 17:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.2% | 0.6% |
+| 17:00 | EUR | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
 | 19:00 | CAD | Leading Index (MoM) (Jul) | 0.00% |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD | 603.87B | 607.68B | 607.04B |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (May) | 4.50% | 0.00% | -0.30% |
@@ -31,5 +31,3 @@
 | 20:30 | CAD | Part Time Employment Change (Jul) | -8.1K |  | -49.8K |
 | 20:30 | CAD | Participation Rate (Jul) | 65.6% | 65.6% | 65.7% |
 | 22:00 | CAD | Ivey PMI n.s.a (Jul) | 45.2 |  | 53.4 |
-| 23:30 | INR | Bank Loan Growth |  | 15.6% | 16.2% |
-| 23:30 | INR | Deposit Growth |  | 12.6% | 13.0% |

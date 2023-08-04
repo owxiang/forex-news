@@ -20,15 +20,15 @@
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) | -0.8% | -2.0% | -3.5% |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 51.7 | 48.0 | 48.9 |
 | 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 143,921.0% |  | 177,266.0% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.2% | 0.6% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jul) | 0.00% |  | -0.01% |
 | 19:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD | 603.87B | 607.68B | 607.04B |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (May) | 4.50% | 0.00% | -0.30% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (May) | 17.40% | 7.60% | 6.10% |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Jul) | 0.4% | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jul) | 4.4% | 4.2% | 4.4% |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Jul) | 0.4% | 0.3% | 0.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Jul) | 34.3 | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Jul) | 15.0K |  | 57.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Jul) | -2K | 5K | 6K |
@@ -45,5 +45,3 @@
 | 20:30 | CAD | Moderate | Unemployment Rate (Jul) | 5.5% | 5.5% | 5.4% |
 | 22:00 | CAD | Low | Ivey PMI n.s.a (Jul) | 45.2 |  | 53.4 |
 | 22:00 | CAD | Moderate | Ivey PMI (Jul) | 48.6 | 52.7 | 50.2 |
-| 23:30 | INR | Low | Bank Loan Growth |  | 15.6% | 16.2% |
-| 23:30 | INR | Low | Deposit Growth |  | 12.6% | 13.0% |
