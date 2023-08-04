@@ -12,4 +12,4 @@
 | 20:30 | USD | Private Nonfarm Payrolls (Jul) | 172K | 179K | 128K |
 | 20:30 | CAD | Employment Change (Jul) | -6.4K | 21.1K | 59.9K |
 | 20:30 | CAD | Unemployment Rate (Jul) | 5.5% | 5.5% | 5.4% |
-| 22:00 | CAD | Ivey PMI (Jul) |  | 52.7 | 50.2 |
+| 42 min | CAD | Ivey PMI (Jul) |  | 52.7 | 50.2 |
