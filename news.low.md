@@ -4,8 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -0.913B |  | -0.836B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
-| 16 min | JPY | Average Cash Earnings (YoY) |  |  | 2.5% |
-| 36 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 13:00 | SGD | Retail Sales (MoM) (Jun) |  | 0.0% | -0.2% |
 | 13:00 | SGD | Retail Sales (YoY) (Jun) |  | 2.7% | 1.8% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jun) |  | -0.3% | 1.2% |
