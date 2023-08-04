@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -0.913B |  | -0.836B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
-| 13:00 | SGD | Retail Sales (MoM) (Jun) |  | 0.0% | -0.2% |
 | 13:00 | SGD | Retail Sales (YoY) (Jun) |  | 2.7% | 1.8% |
+| 13:00 | SGD | Retail Sales (MoM) (Jun) |  | 0.0% | -0.2% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jun) |  | -0.3% | 1.2% |
 | 15:00 | EUR | Spanish Industrial Production (YoY) (Jun) |  |  | -0.1% |
 | 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Jul) |  |  | 48.6 |
