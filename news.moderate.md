@@ -5,9 +5,7 @@
 | 04:30 | USD | Fed's Balance Sheet | 8,207B |  | 8,243B |
 | 09:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 14:00 | EUR | German Factory Orders (MoM) (Jun) | 7.0% | -2.0% | 6.2% |
-| 14:45 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.4% |
-| 11 min | GBP | S&P Global / CIPS UK Construction PMI (Jul) |  | 48.0 | 48.9 |
-| 41 min | EUR | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
+| 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) | 51.7 | 48.0 | 48.9 |
 | 19:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 4.2% | 4.4% |
 | 20:30 | USD | Participation Rate (Jul) |  | 62.6% | 62.6% |

@@ -6,11 +6,11 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,207B |  | 8,243B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.217T |  | 3.167T |
 | 09:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Jun) | 1.1% | 2.7% | 1.8% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Jun) | -0.8% | 0.0% | -0.2% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Jun) | 1.1% | 2.7% | 1.8% |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jun) | 7.0% | -2.0% | 6.2% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jun) | -0.9% | -0.3% | 1.1% |
-| 14:45 | EUR | Moderate | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.4% |
+| 14:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.4% |
 | 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jun) | -3.0% | -1.7% | -0.6% |
 | 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jul) | 48.0 |  | 48.6 |
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Jul) | 41.0 |  | 41.4 |
@@ -18,9 +18,10 @@
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jul) | 43.5 |  | 44.2 |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jun) | -0.8% | -2.0% | -3.5% |
-| 11 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) |  | 48.0 | 48.9 |
-| 41 min | EUR | Low | Retail Sales (YoY) (Jun) |  | -1.7% | -2.9% |
-| 41 min | EUR | Moderate | Retail Sales (MoM) (Jun) |  | 0.2% | 0.0% |
+| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jul) | 51.7 | 48.0 | 48.9 |
+| 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jul) | 143,921.0% |  | 177,266.0% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Jun) | -0.3% | 0.2% | 0.6% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  | 607.68B | 607.04B |
