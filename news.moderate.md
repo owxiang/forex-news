@@ -1,15 +1,15 @@
-## 04 August 2023 - Moderate Impact Forex News
+## 05 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | Fed's Balance Sheet | 8,207B |  | 8,243B |
-| 09:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 14:00 | EUR | German Factory Orders (MoM) (Jun) | 7.0% | -2.0% | 6.2% |
-| 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) | 51.7 | 48.0 | 48.9 |
-| 19:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) | 4.4% | 4.2% | 4.4% |
-| 20:30 | USD | Participation Rate (Jul) | 62.6% | 62.6% | 62.6% |
-| 20:30 | USD | Private Nonfarm Payrolls (Jul) | 172K | 179K | 128K |
-| 20:30 | CAD | Employment Change (Jul) | -6.4K | 21.1K | 59.9K |
-| 20:30 | CAD | Unemployment Rate (Jul) | 5.5% | 5.5% | 5.4% |
-| 22:00 | CAD | Ivey PMI (Jul) | 48.6 | 52.7 | 50.2 |
+| 41 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 529 |
+| 41 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 664 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 59.0K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 225.2K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 173.6K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -10.7K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -232.6K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -51.2K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 32.0K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -77.8K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 177.2K |
