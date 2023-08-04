@@ -6,7 +6,7 @@
 | 09:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 14:00 | EUR | German Factory Orders (MoM) (Jun) | 7.0% | -2.0% | 6.2% |
 | 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Jul) | 51.7 | 48.0 | 48.9 |
-| 19:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 59 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jul) |  | 4.2% | 4.4% |
 | 20:30 | USD | Participation Rate (Jul) |  | 62.6% | 62.6% |
 | 20:30 | USD | Private Nonfarm Payrolls (Jul) |  | 179K | 149K |

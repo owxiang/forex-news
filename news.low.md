@@ -13,15 +13,15 @@
 | 15:30 | EUR | HCOB Germany Construction PMI (Jul) | 41.0 |  | 41.4 |
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Jul) | 42.9 |  | 43.7 |
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jul) | 43.5 |  | 44.2 |
-| 16:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Jun) | -0.8% | -2.0% | -3.5% |
+| 16:00 | EUR | Italian Industrial Production (MoM) (Jun) | 0.5% | -0.3% | 1.7% |
 | 17:00 | GBP | United Kingdom New Passenger Cars Registration (Jul) | 143,921.0% |  | 177,266.0% |
 | 17:00 | EUR | Retail Sales (MoM) (Jun) | -0.3% | 0.2% | 0.6% |
 | 17:00 | EUR | Retail Sales (YoY) (Jun) | -1.4% | -1.7% | -2.4% |
-| 19:00 | CAD | Leading Index (MoM) (Jul) |  |  | -0.05% |
+| 44 min | CAD | Leading Index (MoM) (Jul) |  |  | -0.05% |
 | 19:30 | INR | FX Reserves, USD |  | 607.68B | 607.04B |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (May) |  | 0.00% | -0.30% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (May) |  | 7.60% | 6.10% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (May) |  | 0.00% | -0.30% |
 | 20:30 | USD | Average Weekly Hours (Jul) |  | 34.4 | 34.4 |
 | 20:30 | USD | Government Payrolls (Jul) |  |  | 60.0K |
 | 20:30 | USD | Manufacturing Payrolls (Jul) |  | 5K | 7K |
