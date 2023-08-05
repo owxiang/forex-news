@@ -1,15 +1,10 @@
-## 05 August 2023 - Moderate Impact Forex News
+## 07 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 525 |  | 529 |
-| 01:00 | USD | U.S. Baker Hughes Total Rig Count | 659 |  | 664 |
-| 04:30 | GBP | CFTC GBP speculative net positions | 49.6K |  | 59.0K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 241.9K |  | 225.2K |
-| 04:30 | USD | CFTC Gold speculative net positions | 164.9K |  | 173.6K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | -11.4K |  | -10.7K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | -200.0K |  | -232.6K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -51.8K |  | -51.2K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 33.4K |  | 32.0K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -79.2K |  | -77.8K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 172.1K |  | 177.2K |
+| 14:00 | GBP | Halifax House Price Index (YoY) (Jul) |  |  | -2.6% |
+| 14:00 | GBP | Halifax House Price Index (MoM) (Jul) |  |  | -0.1% |
+| 14:00 | EUR | German Industrial Production (MoM) (Jun) |  | -0.4% | -0.2% |
+| 18:00 | GBP | Mortgage Rate (GBP) |  |  | 7.54% |
+| 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
+| 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
