@@ -6,8 +6,8 @@
 | 07:50 | JPY | Foreign Reserves (USD) (Jul) |  |  | 1,247.2B |
 | 09:30 | AUD | ANZ Job Advertisements (MoM) |  | 0.1% | -2.5% |
 | 12:00 | IDR | FX Reserves (USD) (Jul) |  |  | 137.50B |
-| 12:00 | IDR | GDP (YoY) (Q2) |  | 4.93% | 5.03% |
 | 12:00 | IDR | GDP (QoQ) (Q2) |  | 3.72% | -0.92% |
+| 12:00 | IDR | GDP (YoY) (Q2) |  | 4.93% | 5.03% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.1% |
 | 13:00 | JPY | Leading Index (MoM) (Jun) |  |  | 1.1% |
 | 13:00 | JPY | Leading Index |  | 108.9 | 109.2 |
