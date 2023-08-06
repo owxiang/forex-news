@@ -13,8 +13,8 @@
 | 13:00 | JPY | Low | Leading Index |  | 108.9 | 109.2 |
 | 13:45 | CHF | Low | Unemployment Rate n.s.a. (Jul) |  | 1.9% | 1.9% |
 | 13:45 | CHF | Low | Unemployment Rate s.a. (Jul) |  | 2.1% | 2.0% |
-| 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | -2.6% |
 | 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) |  |  | -0.1% |
+| 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) |  |  | -2.6% |
 | 14:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) |  | -0.4% | -0.2% |
 | 14:00 | EUR | Low | Industrial Production (YoY) (Jun) |  |  | 0.82% |
 | 14:00 | NOK | Low | Manufacturing Production (MoM) (Jun) |  | -0.1% | 1.4% |
