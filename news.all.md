@@ -5,9 +5,9 @@
 | 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,253.7B |  | 1,247.2B |
 | 09:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.4% | 0.1% | -2.7% |
-| 12:00 | IDR | Low | FX Reserves (USD) (Jul) |  |  | 137.50B |
-| 12:00 | IDR | Low | GDP (YoY) (Q2) |  | 4.93% | 5.03% |
-| 12:00 | IDR | Low | GDP (QoQ) (Q2) |  | 3.72% | -0.92% |
+| 44 min | IDR | Low | FX Reserves (USD) (Jul) | 137.70B |  | 137.50B |
+| 44 min | IDR | Low | GDP (YoY) (Q2) |  | 4.93% | 5.03% |
+| 44 min | IDR | Low | GDP (QoQ) (Q2) |  | 3.72% | -0.92% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jun) |  |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Jun) |  |  | 1.1% |
 | 13:00 | JPY | Low | Leading Index |  | 108.9 | 109.2 |
