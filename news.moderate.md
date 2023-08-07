@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | GBP | Halifax House Price Index (YoY) (Jul) |  |  | -2.6% |
-| 14:00 | GBP | Halifax House Price Index (MoM) (Jul) |  | 0.0% | -0.1% |
-| 14:00 | EUR | German Industrial Production (MoM) (Jun) |  | -0.4% | -0.2% |
+| 46 min | GBP | Halifax House Price Index (MoM) (Jul) |  | 0.0% | -0.1% |
+| 46 min | GBP | Halifax House Price Index (YoY) (Jul) |  | -3.8% | -2.6% |
+| 46 min | EUR | German Industrial Production (MoM) (Jun) |  | -0.4% | -0.2% |
 | 18:00 | GBP | Mortgage Rate (GBP) |  |  | 7.54% |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
