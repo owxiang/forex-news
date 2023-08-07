@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 03:00 | USD | Low | Consumer Credit (Jun) |  | 13.00B | 7.24B |
+| 42 min | USD | Low | Consumer Credit (Jun) |  | 13.00B | 7.24B |
 | 07:00 | KRW | Low | Current Account (Jun) |  | 0.26B | 1.93B |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) |  | 3.0% | 4.2% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |

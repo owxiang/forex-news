@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Consumer Credit (Jun) |  | 13.00B | 7.24B |
+| 42 min | USD | Consumer Credit (Jun) |  | 13.00B | 7.24B |
 | 07:00 | KRW | Current Account (Jun) |  | 0.26B | 1.93B |
 | 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
 | 07:30 | JPY | Overall wage income of employees (Jun) |  |  | 2.9% |
