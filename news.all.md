@@ -39,5 +39,5 @@
 | 21:00 | BRL | Low | Auto Production (MoM) | -3.3% | -0.2% | -17.0% |
 | 21:00 | BRL | Low | Auto Sales (MoM) | 19.0% | -1.8% | 7.4% |
 | 22:00 | USD | Low | CB Employment Trends Index (Jul) | 115.45 | 115.31 | 113.56 |
-| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.280% |
-| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.270% |
+| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.280% |
+| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.270% |
