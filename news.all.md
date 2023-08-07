@@ -6,8 +6,8 @@
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,253.7B |  | 1,247.2B |
 | 09:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.4% | 0.1% | -2.7% |
 | 11:00 | IDR | Low | FX Reserves (USD) (Jul) | 137.70B |  | 137.50B |
-| 12:09 | IDR | Low | GDP (YoY) (Q2) | 5.17% | 4.93% | 5.03% |
 | 12:09 | IDR | Low | GDP (QoQ) (Q2) | 3.86% | 3.72% | -0.92% |
+| 12:09 | IDR | Low | GDP (YoY) (Q2) | 5.17% | 4.93% | 5.03% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.9% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Jun) | -0.2% |  | 1.1% |
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
@@ -23,10 +23,10 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Jul) | 213,962.0M |  | 212,396.0M |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 697.6B |  | 725.2B |
 | 16:16 | CNY | Low | FX Reserves (USD) (Jul) | 3.204T | 3.200T | 3.193T |
-| 10 min | HKD | Low | Foreign Reserves (USD) (Jul) |  | 414.60B | 417.30B |
-| 10 min | EUR | Low | Sentix Investor Confidence (Aug) |  | -23.4 | -22.5 |
-| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  | 338.8B | 331.2B |
-| 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.54% |
+| 16:30 | HKD | Low | Foreign Reserves (USD) (Jul) | 421.60B | 414.60B | 417.30B |
+| 16:30 | EUR | Low | Sentix Investor Confidence (Aug) | -18.9 | -23.4 | -22.5 |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) | 340.8B | 338.8B | 331.2B |
+| 44 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.54% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  | -1.91% | -1.45% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
