@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
-| 07:00 | KRW | Current Account (Jun) |  | 0.26B | 1.93B |
+| 46 min | KRW | Current Account (Jun) |  | 0.26B | 1.93B |
 | 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
 | 07:30 | JPY | Overall wage income of employees (Jun) |  |  | 2.9% |
 | 07:30 | JPY | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
@@ -19,8 +19,8 @@
 | 11:00 | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:45 | EUR | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | French Imports (Jun) |  |  | 60.8B |
