@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Jul) |  | 3.0% | 4.2% |
-| 07:30 | JPY | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
 | 07:30 | JPY | Household Spending (YoY) (Jun) |  | -4.1% | -4.0% |
+| 07:30 | JPY | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
 | 07:50 | JPY | Adjusted Current Account (Jun) |  | 2.24T | 1.70T |
 | 07:50 | JPY | Current Account n.s.a. (Jun) |  | 1.395T | 1.862T |
 | 09:30 | AUD | NAB Business Confidence (Jul) |  | -1 | 0 |

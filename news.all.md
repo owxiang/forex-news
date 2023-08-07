@@ -7,8 +7,8 @@
 | 07:00 | KRW | Low | Current Account (Jun) |  | 0.26B | 1.93B |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) |  | 3.0% | 4.2% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) |  | -4.1% | -4.0% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
 | 07:30 | JPY | Low | Overall wage income of employees (Jun) |  |  | 2.9% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Jun) |  | 2.24T | 1.70T |
@@ -29,10 +29,10 @@
 | 11:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
-| 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
+| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:45 | EUR | Low | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | Low | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | Low | French Imports (Jun) |  |  | 60.8B |
@@ -41,7 +41,6 @@
 | 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.599% |
 | 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.710% |
 | 18:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 90.6 | 91.0 |
-| 18:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.9 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 19:50 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.6% |
 | 20:30 | USD | Moderate | Exports |  |  | 247.10B |

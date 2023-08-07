@@ -19,8 +19,8 @@
 | 11:00 | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:45 | EUR | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | French Imports (Jun) |  |  | 60.8B |
@@ -29,7 +29,6 @@
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.599% |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.710% |
 | 18:00 | USD | NFIB Small Business Optimism (Jul) |  | 90.6 | 91.0 |
-| 18:00 | MXN | Consumer Confidence n.s.a. |  |  | 45.9 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:50 | JPY | M2 Money Stock (YoY) |  |  | 2.6% |
 | 20:30 | CAD | Exports (Jun) |  |  | 61.53B |
