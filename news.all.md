@@ -6,8 +6,8 @@
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,253.7B |  | 1,247.2B |
 | 09:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.4% | 0.1% | -2.7% |
 | 11:00 | IDR | Low | FX Reserves (USD) (Jul) | 137.70B |  | 137.50B |
-| 12:09 | IDR | Low | GDP (YoY) (Q2) | 5.17% | 4.93% | 5.03% |
 | 12:09 | IDR | Low | GDP (QoQ) (Q2) | 3.86% | 3.72% | -0.92% |
+| 12:09 | IDR | Low | GDP (YoY) (Q2) | 5.17% | 4.93% | 5.03% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.9% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Jun) | -0.2% |  | 1.1% |
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
@@ -28,16 +28,17 @@
 | 17:57 | CNY | Low | FX Reserves (USD) (Jul) | 3.204T | 3.200T | 3.193T |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.68% |  | 7.54% |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) | -0.40% | -1.91% | -1.45% |
-| 13 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 48 min | MXN | Low | Consumer Confidence |  | 44.9 | 45.2 |
-| 48 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.9 |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Low | Consumer Confidence | 46.2 | 44.9 | 45.2 |
 | 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.657% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.588% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.634% |
-| 21:00 | BRL | Low | Auto Production (MoM) |  | -0.2% | -17.0% |
-| 21:00 | BRL | Low | Auto Sales (MoM) |  | -1.8% | 7.4% |
+| 24 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.657% |
+| 24 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.588% |
+| 24 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.634% |
+| 29 min | BRL | Low | Auto Production (MoM) |  | -0.2% | -17.0% |
+| 29 min | BRL | Low | Auto Sales (MoM) |  | -1.8% | 7.4% |
 | 22:00 | USD | Low | CB Employment Trends Index (Jul) |  | 115.31 | 114.31 |
+| 22:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.9 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.280% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.270% |

@@ -7,4 +7,5 @@
 | 14:00 | EUR | German Industrial Production (MoM) (Jun) | -1.5% | -0.5% | -0.1% |
 | 18:00 | GBP | Mortgage Rate (GBP) | 7.68% |  | 7.54% |
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
+| 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Bowman Speaks |  |  |  |
