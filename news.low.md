@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | JPY | BoJ Summary of Opinions |  |  |  |
-| 37 min | JPY | Foreign Reserves (USD) (Jul) |  |  | 1,247.2B |
-| 09:30 | AUD | ANZ Job Advertisements (MoM) |  | 0.1% | -2.5% |
+| 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 07:50 | JPY | Foreign Reserves (USD) (Jul) | 1,253.7B |  | 1,247.2B |
+| 12 min | AUD | ANZ Job Advertisements (MoM) |  | 0.1% | -2.5% |
 | 12:00 | IDR | FX Reserves (USD) (Jul) |  |  | 137.50B |
 | 12:00 | IDR | GDP (QoQ) (Q2) |  | 3.72% | -0.92% |
 | 12:00 | IDR | GDP (YoY) (Q2) |  | 4.93% | 5.03% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Jun) |  |  | 0.1% |
-| 13:00 | JPY | Leading Index (MoM) (Jun) |  |  | 1.1% |
 | 13:00 | JPY | Leading Index |  | 108.9 | 109.2 |
+| 13:00 | JPY | Leading Index (MoM) (Jun) |  |  | 1.1% |
 | 13:45 | CHF | Unemployment Rate n.s.a. (Jul) |  | 1.9% | 1.9% |
 | 13:45 | CHF | Unemployment Rate s.a. (Jul) |  | 2.1% | 2.0% |
 | 14:00 | EUR | Industrial Production (YoY) (Jun) |  |  | 0.82% |
