@@ -1,3 +1,5 @@
-## 07 August 2023 - High Impact Forex News
+## 08 August 2023 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 14:00 | EUR | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |

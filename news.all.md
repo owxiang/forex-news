@@ -1,43 +1,57 @@
-## 07 August 2023 - All Forex News
+## 08 August 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,253.7B |  | 1,247.2B |
-| 09:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.4% | 0.1% | -2.7% |
-| 11:00 | IDR | Low | FX Reserves (USD) (Jul) | 137.70B |  | 137.50B |
-| 12:09 | IDR | Low | GDP (YoY) (Q2) | 5.17% | 4.93% | 5.04% |
-| 12:09 | IDR | Low | GDP (QoQ) (Q2) | 3.86% | 3.72% | -0.91% |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.9% |  | 0.1% |
-| 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.1 |
-| 13:00 | JPY | Low | Leading Index (MoM) (Jun) | -0.2% |  | 1.1% |
-| 13:45 | CHF | Low | Unemployment Rate n.s.a. (Jul) | 1.9% | 1.9% | 1.9% |
-| 13:45 | CHF | Low | Unemployment Rate s.a. (Jul) | 2.1% | 2.1% | 2.0% |
-| 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jul) | -2.4% | -3.8% | -2.6% |
-| 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jul) | -0.3% | 0.0% | -0.1% |
-| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Jun) | -1.5% | -0.5% | -0.1% |
-| 14:00 | EUR | Low | Industrial Production (YoY) (Jun) | -1.83% |  | 0.10% |
-| 14:00 | NOK | Low | Manufacturing Production (MoM) (Jun) | 0.0% | -0.1% | 1.4% |
-| 14:00 | ZAR | Low | Foreign Reserves (USD) (Jul) | 62.21B | 61.63B | 61.55B |
-| 14:00 | ZAR | Low | Net FX Reserves (USD) (Jul) | 55.626B | 55.182B | 54.936B |
-| 14:45 | EUR | Low | French Reserve Assets Total (Jul) | 213,962.0M |  | 212,396.0M |
-| 15:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 697.6B |  | 725.2B |
-| 16:30 | HKD | Low | Foreign Reserves (USD) (Jul) | 421.60B | 414.60B | 417.30B |
-| 16:30 | EUR | Low | Sentix Investor Confidence (Aug) | -18.9 | -23.4 | -22.5 |
-| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) | 340.8B | 338.8B | 331.2B |
-| 17:57 | CNY | Low | FX Reserves (USD) (Jul) | 3.204T | 3.200T | 3.193T |
-| 18:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.68% |  | 7.54% |
-| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) | -0.40% | -1.91% | -1.45% |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Consumer Confidence | 46.2 | 44.9 | 45.3 |
-| 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.574% |  | 3.657% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.617% |  | 3.588% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.585% |  | 3.634% |
-| 21:00 | BRL | Low | Auto Production (MoM) | -3.3% | -0.2% | -17.0% |
-| 21:00 | BRL | Low | Auto Sales (MoM) | 19.0% | -1.8% | 7.4% |
-| 22:00 | USD | Low | CB Employment Trends Index (Jul) | 115.45 | 115.31 | 113.56 |
-| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.280% |
-| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.270% |
+| 00:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 03:00 | USD | Low | Consumer Credit (Jun) |  | 13.00B | 7.24B |
+| 07:00 | KRW | Low | Current Account (Jun) |  | 0.26B | 1.93B |
+| 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) |  | 3.0% | 4.2% |
+| 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) |  | -4.1% | -4.0% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
+| 07:30 | JPY | Low | Overall wage income of employees (Jun) |  |  | 2.9% |
+| 07:30 | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
+| 07:50 | JPY | Moderate | Adjusted Current Account (Jun) |  | 2.24T | 1.70T |
+| 07:50 | JPY | Low | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
+| 07:50 | JPY | Moderate | Current Account n.s.a. (Jun) |  | 1.395T | 1.862T |
+| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 08:30 | AUD | Low | Westpac Consumer Sentiment (Aug) |  |  | 2.7% |
+| 09:30 | AUD | Low | Building Approvals (YoY) |  | -18.00% | -9.80% |
+| 09:30 | AUD | Moderate | NAB Business Confidence (Jul) |  | -1 | 0 |
+| 09:30 | AUD | Low | NAB Business Survey (Jul) |  | 8 | 9 |
+| 09:30 | AUD | Low | Private House Approvals |  | -1.3% | 0.8% |
+| 11:00 | CNY | Low | Exports (Jul) |  | -8.90M | -8.30M |
+| 11:00 | CNY | Low | Imports (Jul) |  | -2.50M | -2.60M |
+| 11:00 | CNY | Low | Trade Balance (Jul) |  | 625.25M | 491.25M |
+| 11:00 | CNY | Moderate | Exports (YoY) (Jul) |  | -9.8% | -12.4% |
+| 11:00 | CNY | Moderate | Imports (YoY) (Jul) |  | -5.6% | -6.8% |
+| 11:00 | CNY | Moderate | Trade Balance (USD) (Jul) |  | 67.80B | 70.62B |
+| 11:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
+| 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
+| 13:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
+| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
+| 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
+| 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
+| 14:45 | EUR | Low | French Current Account (Jun) |  | -0.40B | -0.70B |
+| 14:45 | EUR | Low | French Exports (Jun) |  |  | 52.3B |
+| 14:45 | EUR | Low | French Imports (Jun) |  |  | 60.8B |
+| 14:45 | EUR | Low | French Trade Balance (Jun) |  | -8.0B | -8.4B |
+| 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.775% |
+| 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.599% |
+| 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.710% |
+| 18:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 90.6 | 91.0 |
+| 18:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.9 |
+| 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 19:50 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.6% |
+| 20:30 | USD | Moderate | Exports |  |  | 247.10B |
+| 20:30 | USD | Moderate | Imports |  |  | 316.10B |
+| 20:30 | USD | Moderate | Trade Balance (Jun) |  | -65.00B | -69.00B |
+| 20:30 | CAD | Low | Exports (Jun) |  |  | 61.53B |
+| 20:30 | CAD | Low | Imports (Jun) |  |  | 64.97B |
+| 20:30 | CAD | Moderate | Trade Balance (Jun) |  | -3.10B | -3.44B |
+| 20:55 | USD | Low | Redbook (YoY) |  |  | 0.1% |
+| 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
+| 22:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
+| 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |
+| 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.130% |
