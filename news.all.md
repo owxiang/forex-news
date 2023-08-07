@@ -29,8 +29,8 @@
 | 11:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
+| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
 | 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:45 | EUR | Low | French Current Account (Jun) |  | -0.40B | -0.70B |
