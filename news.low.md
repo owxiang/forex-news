@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
-| 46 min | KRW | Current Account (Jun) |  | 0.26B | 1.93B |
-| 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
-| 07:30 | JPY | Overall wage income of employees (Jun) |  |  | 2.9% |
-| 07:30 | JPY | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
-| 07:50 | JPY | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:00 | KRW | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
+| 16 min | JPY | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
+| 16 min | JPY | Overall wage income of employees (Jun) |  |  | 2.9% |
+| 16 min | JPY | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
+| 36 min | JPY | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
+| 36 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 08:30 | AUD | Westpac Consumer Sentiment (Aug) |  |  | 2.7% |
 | 09:30 | AUD | Building Approvals (YoY) |  | -18.00% | -9.80% |
 | 09:30 | AUD | NAB Business Survey (Jul) |  | 8 | 9 |
@@ -19,8 +19,8 @@
 | 11:00 | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
 | 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
+| 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
 | 14:45 | EUR | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | French Imports (Jun) |  |  | 60.8B |

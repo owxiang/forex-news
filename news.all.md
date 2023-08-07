@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 03:00 | USD | Low | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
-| 46 min | KRW | Low | Current Account (Jun) |  | 0.26B | 1.93B |
-| 47 min | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) |  | 3.0% | 4.2% |
-| 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) |  | -4.1% | -4.0% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
-| 07:30 | JPY | Low | Overall wage income of employees (Jun) |  |  | 2.9% |
-| 07:30 | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Jun) |  | 2.24T | 1.70T |
-| 07:50 | JPY | Low | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
-| 07:50 | JPY | Moderate | Current Account n.s.a. (Jun) |  | 1.395T | 1.862T |
-| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:00 | KRW | Low | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
+| 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.8% | 3.0% | 4.2% |
+| 16 min | JPY | Low | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
+| 16 min | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
+| 16 min | JPY | Moderate | Household Spending (YoY) (Jun) |  | -4.1% | -4.0% |
+| 16 min | JPY | Low | Overall wage income of employees (Jun) |  |  | 2.9% |
+| 16 min | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
+| 36 min | JPY | Moderate | Adjusted Current Account (Jun) |  | 2.24T | 1.70T |
+| 36 min | JPY | Low | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
+| 36 min | JPY | Moderate | Current Account n.s.a. (Jun) |  | 1.395T | 1.862T |
+| 36 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 08:30 | AUD | Low | Westpac Consumer Sentiment (Aug) |  |  | 2.7% |
 | 09:30 | AUD | Low | Building Approvals (YoY) |  | -18.00% | -9.80% |
 | 09:30 | AUD | Moderate | NAB Business Confidence (Jul) |  | -1 | 0 |
@@ -29,10 +29,10 @@
 | 11:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
+| 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
 | 14:45 | EUR | Low | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | Low | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | Low | French Imports (Jun) |  |  | 60.8B |
