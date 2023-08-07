@@ -22,10 +22,10 @@
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Jul) | 55.626B | 55.182B | 54.936B |
 | 14:45 | EUR | Low | French Reserve Assets Total (Jul) | 213,962.0M |  | 212,396.0M |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 697.6B |  | 725.2B |
-| 45 min | CNY | Low | FX Reserves (USD) (Jul) |  | 3.200T | 3.193T |
-| 16:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  | 414.60B | 417.30B |
-| 16:30 | EUR | Low | Sentix Investor Confidence (Aug) |  | -23.4 | -22.5 |
-| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  | 338.8B | 331.2B |
+| 16:16 | CNY | Low | FX Reserves (USD) (Jul) | 3.204T | 3.200T | 3.193T |
+| 10 min | HKD | Low | Foreign Reserves (USD) (Jul) |  | 414.60B | 417.30B |
+| 10 min | EUR | Low | Sentix Investor Confidence (Aug) |  | -23.4 | -22.5 |
+| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  | 338.8B | 331.2B |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.54% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jul) |  | -1.91% | -1.45% |

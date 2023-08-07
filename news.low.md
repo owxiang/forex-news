@@ -19,10 +19,10 @@
 | 14:00 | ZAR | Net FX Reserves (USD) (Jul) | 55.626B | 55.182B | 54.936B |
 | 14:45 | EUR | French Reserve Assets Total (Jul) | 213,962.0M |  | 212,396.0M |
 | 15:00 | CHF | Foreign Reserves (USD) (Jul) | 697.6B |  | 725.2B |
-| 45 min | CNY | FX Reserves (USD) (Jul) |  | 3.200T | 3.193T |
-| 16:30 | HKD | Foreign Reserves (USD) (Jul) |  | 414.60B | 417.30B |
-| 16:30 | EUR | Sentix Investor Confidence (Aug) |  | -23.4 | -22.5 |
-| 17:00 | SGD | Foreign Reserves USD (MoM) (Jul) |  | 338.8B | 331.2B |
+| 16:16 | CNY | FX Reserves (USD) (Jul) | 3.204T | 3.200T | 3.193T |
+| 10 min | HKD | Foreign Reserves (USD) (Jul) |  | 414.60B | 417.30B |
+| 10 min | EUR | Sentix Investor Confidence (Aug) |  | -23.4 | -22.5 |
+| 40 min | SGD | Foreign Reserves USD (MoM) (Jul) |  | 338.8B | 331.2B |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) |  | -1.91% | -1.45% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
