@@ -23,11 +23,10 @@
 | 16:30 | EUR | Sentix Investor Confidence (Aug) | -18.9 | -23.4 | -22.5 |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Jul) | 340.8B | 338.8B | 331.2B |
 | 17:57 | CNY | FX Reserves (USD) (Jul) | 3.204T | 3.200T | 3.193T |
-| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 43 min | BRL | IGP-DI Inflation Index (MoM) (Jul) |  | -1.91% | -1.45% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Consumer Confidence |  | 44.9 | 45.2 |
-| 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 45.9 |
+| 19:00 | BRL | IGP-DI Inflation Index (MoM) (Jul) | -0.40% | -1.91% | -1.45% |
+| 13 min | BRL | BCB Focus Market Readout |  |  |  |
+| 48 min | MXN | Consumer Confidence |  | 44.9 | 45.2 |
+| 48 min | MXN | Consumer Confidence n.s.a. |  |  | 45.9 |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.657% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.588% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.634% |
