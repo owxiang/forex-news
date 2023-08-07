@@ -6,8 +6,8 @@
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Jul) | 1,253.7B |  | 1,247.2B |
 | 09:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.4% | 0.1% | -2.7% |
 | 11:00 | IDR | Low | FX Reserves (USD) (Jul) | 137.70B |  | 137.50B |
-| 12:09 | IDR | Low | GDP (QoQ) (Q2) | 3.86% | 3.72% | -0.92% |
 | 12:09 | IDR | Low | GDP (YoY) (Q2) | 5.17% | 4.93% | 5.03% |
+| 12:09 | IDR | Low | GDP (QoQ) (Q2) | 3.86% | 3.72% | -0.92% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jun) | 0.9% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Jun) | -0.2% |  | 1.1% |
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
@@ -20,9 +20,9 @@
 | 14:00 | NOK | Low | Manufacturing Production (MoM) (Jun) | 0.0% | -0.1% | 1.4% |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) (Jul) | 62.21B | 61.63B | 61.55B |
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Jul) | 55.626B | 55.182B | 54.936B |
-| 25 min | EUR | Low | French Reserve Assets Total (Jul) |  |  | 212,396.0M |
-| 40 min | CHF | Low | Foreign Reserves (USD) (Jul) |  |  | 724.6B |
-| 16:00 | CNY | Low | FX Reserves (USD) (Jul) |  | 3.200T | 3.193T |
+| 14:45 | EUR | Low | French Reserve Assets Total (Jul) | 213,962.0M |  | 212,396.0M |
+| 15:00 | CHF | Low | Foreign Reserves (USD) (Jul) | 697.6B |  | 725.2B |
+| 45 min | CNY | Low | FX Reserves (USD) (Jul) |  | 3.200T | 3.193T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jul) |  | 414.60B | 417.30B |
 | 16:30 | EUR | Low | Sentix Investor Confidence (Aug) |  | -23.4 | -22.5 |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jul) |  | 338.8B | 331.2B |
