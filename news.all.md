@@ -7,31 +7,31 @@
 | 07:00 | KRW | Low | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.8% | 3.0% | 4.2% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 2.3% | 1.6% | 2.9% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -4.2% | -4.1% | -4.0% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.9% | 0.3% | -1.1% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -4.2% | -4.1% | -4.0% |
 | 07:30 | JPY | Low | Overall wage income of employees (Jun) | 2.3% |  | 2.9% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Jun) | 234.59T | 2.24T | 1.70T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.509T | 1.395T | 1.862T |
 | 08:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
-| 09:30 | AUD | Moderate | NAB Business Confidence (Jul) | 2 | -1 | 0 |
-| 09:30 | AUD | Low | NAB Business Survey (Jul) | 10 | 8 | 9 |
+| 09:30 | AUD | Moderate | NAB Business Confidence (Jul) | 2 | -1 | -1 |
+| 09:30 | AUD | Low | NAB Business Survey (Jul) | 10 | 8 | 10 |
 | 09:30 | AUD | Low | Private House Approvals | -1.3% | -1.3% | 0.8% |
 | 10:00 | AUD | Low | Building Approvals (YoY) | -18.00% | -18.00% | -9.80% |
-| 31 min | CNY | Low | Exports (Jul) |  | -8.90M | -8.30M |
-| 31 min | CNY | Low | Imports (Jul) |  | -2.50M | -2.60M |
-| 31 min | CNY | Low | Trade Balance (Jul) |  | 625.25M | 491.25M |
-| 31 min | CNY | Moderate | Exports (YoY) (Jul) |  | -9.8% | -12.4% |
-| 31 min | CNY | Moderate | Imports (YoY) (Jul) |  | -5.6% | -6.8% |
-| 31 min | CNY | Moderate | Trade Balance (USD) (Jul) |  | 67.80B | 70.62B |
-| 31 min | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
-| 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
+| 11:00 | CNY | Low | Exports (Jul) | -9.20M | -8.90M | -8.30M |
+| 11:00 | CNY | Low | Imports (Jul) | -6.90M | -2.50M | -2.60M |
+| 11:00 | CNY | Low | Trade Balance (Jul) | 575.70M | 625.25M | 491.25M |
+| 11:00 | CNY | Moderate | Exports (YoY) (Jul) | -14.5% | -9.8% | -12.4% |
+| 11:00 | CNY | Moderate | Imports (YoY) (Jul) | -12.4% | -5.6% | -6.8% |
+| 11:00 | CNY | Moderate | Trade Balance (USD) (Jul) | 80.60B | 67.80B | 70.62B |
+| 15 min | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
+| 20 min | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:45 | EUR | Low | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | Low | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | Low | French Imports (Jun) |  |  | 60.8B |
