@@ -36,4 +36,4 @@
 | 22:00 | USD | IBD/TIPP Economic Optimism | 40.3 | 43.0 | 41.3 |
 | 22:00 | USD | Wholesale Inventories (MoM) (Jun) | -0.5% | -0.3% | -0.3% |
 | 22:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.7% | 0.3% | -0.5% |
-| 23:30 | USD | 52-Week Bill Auction |  |  | 5.130% |
+| 14 min | USD | 52-Week Bill Auction |  |  | 5.130% |
