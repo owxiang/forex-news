@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 31 min | NZD | Electronic Card Retail Sales (YoY) (Jul) |  | 9.8% | 4.2% |
-| 46 min | KRW | Unemployment Rate (Jul) |  | 2.5% | 2.6% |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 07:50 | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.6% |
-| 07:50 | JPY | M3 Money Supply (Jul) |  |  | 2,111.0% |
+| 06:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
+| 07:00 | KRW | Unemployment Rate (Jul) | 2.8% | 2.5% | 2.6% |
+| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 35 min | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.6% |
+| 35 min | JPY | M3 Money Supply (Jul) |  |  | 2,111.0% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  | -21.7% | -22.2% |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.595% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
