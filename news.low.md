@@ -20,10 +20,10 @@
 | 13:00 | JPY | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
 | 14:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 14:00 | EUR | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
-| 25 min | EUR | French Current Account (Jun) |  | -0.40B | -0.70B |
-| 25 min | EUR | French Exports (Jun) |  |  | 52.3B |
-| 25 min | EUR | French Imports (Jun) |  |  | 60.8B |
-| 25 min | EUR | French Trade Balance (Jun) |  | -8.0B | -8.4B |
+| 14:45 | EUR | French Current Account (Jun) | 0.80B | -0.40B | -0.70B |
+| 14:45 | EUR | French Exports (Jun) | 52.1B |  | 52.7B |
+| 14:45 | EUR | French Imports (Jun) | 58.8B |  | 60.7B |
+| 14:45 | EUR | French Trade Balance (Jun) | -6.7B | -8.0B | -7.9B |
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.775% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.599% |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.710% |
