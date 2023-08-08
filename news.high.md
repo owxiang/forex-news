@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | EUR | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
+| 14:00 | EUR | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
