@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | High | EIA Short-Term Energy Outlook |  |  |  |
-| 40 min | USD | Moderate | 3-Year Note Auction |  |  | 4.534% |
+| 01:00 | USD | Moderate | 3-Year Note Auction | 4.398% |  | 4.534% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.233M | -15.400M |
-| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
 | 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) |  | 9.8% | 4.2% |
+| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
 | 07:00 | KRW | Low | Unemployment Rate (Jul) |  | 2.5% | 2.6% |
 | 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.5% | 2.6% |
@@ -31,8 +31,8 @@
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
 | 20:00 | MXN | Low | PPI (YoY) (Jul) |  |  | -0.90% |
 | 20:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.30% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 0.4% | -1.0% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | -1.0% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 0.4% | -1.0% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | -3.5% | 10.5% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 0.1% |
 | 22:30 | USD | High | Crude Oil Inventories |  | -0.233M | -17.049M |
