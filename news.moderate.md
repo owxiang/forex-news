@@ -17,5 +17,5 @@
 | 20:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 20:30 | USD | Exports |  |  | 247.10B |
 | 20:30 | USD | Imports |  |  | 316.10B |
-| 20:30 | USD | Trade Balance (Jun) |  | -65.00B | -69.00B |
-| 20:30 | CAD | Trade Balance (Jun) |  | -2.90B | -3.44B |
+| 20:30 | USD | Trade Balance (Jun) | -65.50B | -65.00B | -68.30B |
+| 20:30 | CAD | Trade Balance (Jun) | -3.73B | -2.90B | -2.68B |

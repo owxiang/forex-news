@@ -30,9 +30,9 @@
 | 18:00 | USD | NFIB Small Business Optimism (Jul) | 91.9 | 90.6 | 91.0 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20:30 | CAD | Exports (Jun) |  |  | 61.53B |
-| 20:30 | CAD | Imports (Jun) |  |  | 64.97B |
-| 20:55 | USD | Redbook (YoY) |  |  | 0.1% |
+| 20:30 | CAD | Exports (Jun) | 60.70B |  | 62.05B |
+| 20:30 | CAD | Imports (Jun) | 64.43B |  | 64.73B |
+| 25 min | USD | Redbook (YoY) |  |  | 0.1% |
 | 22:00 | USD | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
 | 22:00 | USD | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
 | 22:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |

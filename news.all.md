@@ -28,8 +28,8 @@
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.593% |  | 1.222% |
 | 12:30 | IDR | Low | Consumer Confidence (Jul) | 123.5 |  | 127.1 |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
-| 14:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Jul) | 6.2% | 6.2% | 6.4% |
+| 14:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 14:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 14:00 | EUR | Low | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
 | 14:45 | EUR | Low | French Current Account (Jun) | 0.80B | -0.40B | -0.70B |
@@ -46,11 +46,11 @@
 | 20:30 | USD | Moderate | Exports |  |  | 247.10B |
 | 20:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | USD | Moderate | Imports |  |  | 316.10B |
-| 20:30 | USD | Moderate | Trade Balance (Jun) |  | -65.00B | -69.00B |
-| 20:30 | CAD | Low | Exports (Jun) |  |  | 61.53B |
-| 20:30 | CAD | Low | Imports (Jun) |  |  | 64.97B |
-| 20:30 | CAD | Moderate | Trade Balance (Jun) |  | -2.90B | -3.44B |
-| 20:55 | USD | Low | Redbook (YoY) |  |  | 0.1% |
+| 20:30 | USD | Moderate | Trade Balance (Jun) | -65.50B | -65.00B | -68.30B |
+| 20:30 | CAD | Low | Exports (Jun) | 60.70B |  | 62.05B |
+| 20:30 | CAD | Low | Imports (Jun) | 64.43B |  | 64.73B |
+| 20:30 | CAD | Moderate | Trade Balance (Jun) | -3.73B | -2.90B | -2.68B |
+| 25 min | USD | Low | Redbook (YoY) |  |  | 0.1% |
 | 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
 | 22:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
 | 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |
