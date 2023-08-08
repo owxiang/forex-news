@@ -7,8 +7,8 @@
 | 07:00 | KRW | Low | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.8% | 3.0% | 4.2% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 2.3% | 1.6% | 2.9% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -4.2% | -4.1% | -4.0% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.9% | 0.3% | -1.1% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -4.2% | -4.1% | -4.0% |
 | 07:30 | JPY | Low | Overall wage income of employees (Jun) | 2.3% | 1.6% | 2.9% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Jun) | 234.59T | 2.24T | 1.70T |
@@ -28,10 +28,10 @@
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.593% |  | 1.222% |
 | 12:30 | IDR | Low | Consumer Confidence (Jul) | 123.5 |  | 127.1 |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
-| 14:00 | EUR | Moderate | German CPI (YoY) (Jul) | 6.2% | 6.2% | 6.4% |
 | 14:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
+| 14:00 | EUR | Moderate | German CPI (YoY) (Jul) | 6.2% | 6.2% | 6.4% |
 | 14:00 | EUR | Low | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
+| 14:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 14:45 | EUR | Low | French Current Account (Jun) | 0.80B | -0.40B | -0.70B |
 | 14:45 | EUR | Low | French Exports (Jun) | 52.1B |  | 52.7B |
 | 14:45 | EUR | Low | French Imports (Jun) | 58.8B |  | 60.7B |
@@ -43,15 +43,15 @@
 | 18:00 | USD | Low | NFIB Small Business Optimism (Jul) | 91.9 | 90.6 | 91.0 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 20:30 | USD | Moderate | Exports |  |  | 247.10B |
+| 20:30 | USD | Moderate | Exports | 247.50B |  | 247.10B |
 | 20:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 20:30 | USD | Moderate | Imports |  |  | 316.10B |
+| 20:30 | USD | Moderate | Imports | 313.00B |  | 316.10B |
 | 20:30 | USD | Moderate | Trade Balance (Jun) | -65.50B | -65.00B | -68.30B |
 | 20:30 | CAD | Low | Exports (Jun) | 60.70B |  | 62.05B |
 | 20:30 | CAD | Low | Imports (Jun) | 64.43B |  | 64.73B |
 | 20:30 | CAD | Moderate | Trade Balance (Jun) | -3.73B | -2.90B | -2.68B |
-| 25 min | USD | Low | Redbook (YoY) |  |  | 0.1% |
-| 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
-| 22:00 | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
-| 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |
+| 37 min | USD | Low | Redbook (YoY) |  |  | 0.1% |
+| 42 min | USD | Low | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
+| 42 min | USD | Low | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
+| 42 min | USD | Low | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |
 | 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.130% |

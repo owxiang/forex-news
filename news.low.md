@@ -18,8 +18,8 @@
 | 11:35 | JPY | 30-Year JGB Auction | 1.593% |  | 1.222% |
 | 12:30 | IDR | Consumer Confidence (Jul) | 123.5 |  | 127.1 |
 | 13:00 | JPY | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
-| 14:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 14:00 | EUR | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
+| 14:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
 | 14:45 | EUR | French Current Account (Jun) | 0.80B | -0.40B | -0.70B |
 | 14:45 | EUR | French Exports (Jun) | 52.1B |  | 52.7B |
 | 14:45 | EUR | French Imports (Jun) | 58.8B |  | 60.7B |
@@ -32,8 +32,8 @@
 | 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | CAD | Exports (Jun) | 60.70B |  | 62.05B |
 | 20:30 | CAD | Imports (Jun) | 64.43B |  | 64.73B |
-| 25 min | USD | Redbook (YoY) |  |  | 0.1% |
-| 22:00 | USD | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
-| 22:00 | USD | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
-| 22:00 | USD | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |
+| 37 min | USD | Redbook (YoY) |  |  | 0.1% |
+| 42 min | USD | IBD/TIPP Economic Optimism |  | 43.0 | 41.3 |
+| 42 min | USD | Wholesale Inventories (MoM) (Jun) |  | -0.3% | -0.3% |
+| 42 min | USD | Wholesale Trade Sales (MoM) (Jun) |  | 0.3% | -0.2% |
 | 23:30 | USD | 52-Week Bill Auction |  |  | 5.130% |
