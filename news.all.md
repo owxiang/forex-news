@@ -30,16 +30,16 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Jul) | 6.2% | 6.2% | 6.4% |
 | 14:00 | EUR | High | German CPI (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
 | 14:00 | EUR | Low | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
+| 14:00 | EUR | Low | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
 | 14:45 | EUR | Low | French Current Account (Jun) | 0.80B | -0.40B | -0.70B |
 | 14:45 | EUR | Low | French Exports (Jun) | 52.1B |  | 52.7B |
 | 14:45 | EUR | Low | French Imports (Jun) | 58.8B |  | 60.7B |
 | 14:45 | EUR | Low | French Trade Balance (Jun) | -6.7B | -8.0B | -7.9B |
-| 21 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.775% |
-| 21 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.599% |
-| 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.710% |
-| 18:00 | USD | Low | NFIB Small Business Optimism (Jul) |  | 90.6 | 91.0 |
+| 16:50 | EUR | Low | Spanish 12-Month Letras Auction | 3.664% |  | 3.775% |
+| 16:50 | EUR | Low | Spanish 6-Month Letras Auction | 3.639% |  | 3.599% |
+| 15 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.710% |
+| 45 min | USD | Low | NFIB Small Business Optimism (Jul) |  | 90.6 | 91.0 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 19:50 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.6% |
 | 20:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
