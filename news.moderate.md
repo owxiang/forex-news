@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 3-Year Note Auction | 4.398% |  | 4.534% |
-| 04:30 | USD | API Weekly Crude Oil Stock |  | -0.233M | -15.400M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | -0.233M | -15.400M |
 | 06:45 | NZD | Electronic Card Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
-| 09:30 | CNY | CPI (YoY) (Jul) |  | -0.4% | 0.0% |
 | 09:30 | CNY | CPI (MoM) (Jul) |  | 0.1% | -0.2% |
+| 09:30 | CNY | CPI (YoY) (Jul) |  | -0.4% | 0.0% |
 | 09:30 | CNY | PPI (YoY) (Jul) |  | -4.1% | -5.4% |
 | 11:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
