@@ -15,21 +15,21 @@
 | 07:50 | JPY | Low | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.509T | 1.395T | 1.862T |
 | 08:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
-| 14 min | AUD | Low | Building Approvals (YoY) |  | -18.00% | -9.80% |
-| 14 min | AUD | Moderate | NAB Business Confidence (Jul) |  | -1 | 0 |
-| 14 min | AUD | Low | NAB Business Survey (Jul) |  | 8 | 9 |
-| 14 min | AUD | Low | Private House Approvals |  | -1.3% | 0.8% |
-| 11:00 | CNY | Low | Exports (Jul) |  | -8.90M | -8.30M |
-| 11:00 | CNY | Low | Imports (Jul) |  | -2.50M | -2.60M |
-| 11:00 | CNY | Low | Trade Balance (Jul) |  | 625.25M | 491.25M |
-| 11:00 | CNY | Moderate | Exports (YoY) (Jul) |  | -9.8% | -12.4% |
-| 11:00 | CNY | Moderate | Imports (YoY) (Jul) |  | -5.6% | -6.8% |
-| 11:00 | CNY | Moderate | Trade Balance (USD) (Jul) |  | 67.80B | 70.62B |
-| 11:00 | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
+| 09:30 | AUD | Moderate | NAB Business Confidence (Jul) | 2 | -1 | 0 |
+| 09:30 | AUD | Low | NAB Business Survey (Jul) | 10 | 8 | 9 |
+| 09:30 | AUD | Low | Private House Approvals | -1.3% | -1.3% | 0.8% |
+| 10:00 | AUD | Low | Building Approvals (YoY) | -18.00% | -18.00% | -9.80% |
+| 31 min | CNY | Low | Exports (Jul) |  | -8.90M | -8.30M |
+| 31 min | CNY | Low | Imports (Jul) |  | -2.50M | -2.60M |
+| 31 min | CNY | Low | Trade Balance (Jul) |  | 625.25M | 491.25M |
+| 31 min | CNY | Moderate | Exports (YoY) (Jul) |  | -9.8% | -12.4% |
+| 31 min | CNY | Moderate | Imports (YoY) (Jul) |  | -5.6% | -6.8% |
+| 31 min | CNY | Moderate | Trade Balance (USD) (Jul) |  | 67.80B | 70.62B |
+| 31 min | IDR | Low | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
+| 14:00 | EUR | High | German CPI (MoM) (Jul) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Low | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:00 | EUR | Low | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
 | 14:45 | EUR | Low | French Current Account (Jun) |  | -0.40B | -0.70B |

@@ -9,13 +9,13 @@
 | 07:30 | JPY | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
 | 07:50 | JPY | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
 | 08:30 | AUD | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
-| 14 min | AUD | Building Approvals (YoY) |  | -18.00% | -9.80% |
-| 14 min | AUD | NAB Business Survey (Jul) |  | 8 | 9 |
-| 14 min | AUD | Private House Approvals |  | -1.3% | 0.8% |
-| 11:00 | CNY | Exports (Jul) |  | -8.90M | -8.30M |
-| 11:00 | CNY | Imports (Jul) |  | -2.50M | -2.60M |
-| 11:00 | CNY | Trade Balance (Jul) |  | 625.25M | 491.25M |
-| 11:00 | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
+| 09:30 | AUD | NAB Business Survey (Jul) | 10 | 8 | 9 |
+| 09:30 | AUD | Private House Approvals | -1.3% | -1.3% | 0.8% |
+| 10:00 | AUD | Building Approvals (YoY) | -18.00% | -18.00% | -9.80% |
+| 31 min | CNY | Exports (Jul) |  | -8.90M | -8.30M |
+| 31 min | CNY | Imports (Jul) |  | -2.50M | -2.60M |
+| 31 min | CNY | Trade Balance (Jul) |  | 625.25M | 491.25M |
+| 31 min | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.222% |
 | 13:00 | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
 | 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |

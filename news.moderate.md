@@ -8,10 +8,10 @@
 | 07:30 | JPY | Household Spending (MoM) (Jun) | 0.9% | 0.3% | -1.1% |
 | 07:50 | JPY | Adjusted Current Account (Jun) | 234.59T | 2.24T | 1.70T |
 | 07:50 | JPY | Current Account n.s.a. (Jun) | 1.509T | 1.395T | 1.862T |
-| 14 min | AUD | NAB Business Confidence (Jul) |  | -1 | 0 |
-| 11:00 | CNY | Exports (YoY) (Jul) |  | -9.8% | -12.4% |
-| 11:00 | CNY | Imports (YoY) (Jul) |  | -5.6% | -6.8% |
-| 11:00 | CNY | Trade Balance (USD) (Jul) |  | 67.80B | 70.62B |
+| 09:30 | AUD | NAB Business Confidence (Jul) | 2 | -1 | 0 |
+| 31 min | CNY | Exports (YoY) (Jul) |  | -9.8% | -12.4% |
+| 31 min | CNY | Imports (YoY) (Jul) |  | -5.6% | -6.8% |
+| 31 min | CNY | Trade Balance (USD) (Jul) |  | 67.80B | 70.62B |
 | 14:00 | EUR | German CPI (YoY) (Jul) |  | 6.2% | 6.4% |
 | 20:30 | USD | Exports |  |  | 247.10B |
 | 20:30 | USD | Imports |  |  | 316.10B |
