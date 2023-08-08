@@ -9,17 +9,17 @@
 | 07:30 | JPY | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
 | 07:50 | JPY | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
 | 08:30 | AUD | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
-| 09:30 | AUD | NAB Business Survey (Jul) | 10 | 8 | 11 |
+| 09:30 | AUD | NAB Business Survey (Jul) | 10 | 8 | 10 |
 | 09:30 | AUD | Private House Approvals | -1.3% | -1.3% | 0.8% |
 | 10:00 | AUD | Building Approvals (YoY) | -18.00% | -18.00% | -9.80% |
 | 11:00 | CNY | Exports (Jul) | -9.20M | -8.90M | -8.30M |
 | 11:00 | CNY | Imports (Jul) | -6.90M | -2.50M | -2.60M |
 | 11:00 | CNY | Trade Balance (Jul) | 575.70M | 625.25M | 491.25M |
 | 11:35 | JPY | 30-Year JGB Auction | 1.593% |  | 1.222% |
-| 42 min | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 42 min | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
-| 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
-| 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 12:30 | IDR | Consumer Confidence (Jul) | 123.5 |  | 127.1 |
+| 13:00 | JPY | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
+| 46 min | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 46 min | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
 | 14:45 | EUR | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | French Imports (Jun) |  |  | 60.8B |
