@@ -5,21 +5,21 @@
 | 03:00 | USD | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
 | 07:00 | KRW | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
 | 07:30 | JPY | Average Cash Earnings (YoY) | 2.3% | 1.6% | 2.9% |
-| 07:30 | JPY | Overall wage income of employees (Jun) | 2.3% |  | 2.9% |
+| 07:30 | JPY | Overall wage income of employees (Jun) | 2.3% | 1.6% | 2.9% |
 | 07:30 | JPY | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
 | 07:50 | JPY | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
 | 08:30 | AUD | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
-| 09:30 | AUD | NAB Business Survey (Jul) | 10 | 8 | 10 |
+| 09:30 | AUD | NAB Business Survey (Jul) | 10 | 8 | 11 |
 | 09:30 | AUD | Private House Approvals | -1.3% | -1.3% | 0.8% |
 | 10:00 | AUD | Building Approvals (YoY) | -18.00% | -18.00% | -9.80% |
 | 11:00 | CNY | Exports (Jul) | -9.20M | -8.90M | -8.30M |
 | 11:00 | CNY | Imports (Jul) | -6.90M | -2.50M | -2.60M |
 | 11:00 | CNY | Trade Balance (Jul) | 575.70M | 625.25M | 491.25M |
-| 15 min | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
-| 20 min | JPY | 30-Year JGB Auction |  |  | 1.222% |
-| 13:00 | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
-| 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
+| 11:35 | JPY | 30-Year JGB Auction | 1.593% |  | 1.222% |
+| 42 min | JPY | Economy Watchers Current Index (Jul) |  | 54.5 | 53.6 |
+| 42 min | IDR | Consumer Confidence (Jul) |  |  | 127.1 |
 | 14:00 | EUR | German HICP (MoM) (Jul) |  | 0.5% | 0.4% |
+| 14:00 | EUR | German HICP (YoY) (Jul) |  | 6.5% | 6.8% |
 | 14:45 | EUR | French Current Account (Jun) |  | -0.40B | -0.70B |
 | 14:45 | EUR | French Exports (Jun) |  |  | 52.3B |
 | 14:45 | EUR | French Imports (Jun) |  |  | 60.8B |
@@ -30,6 +30,7 @@
 | 18:00 | USD | NFIB Small Business Optimism (Jul) |  | 90.6 | 91.0 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:50 | JPY | M2 Money Stock (YoY) |  |  | 2.6% |
+| 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:30 | CAD | Exports (Jun) |  |  | 61.53B |
 | 20:30 | CAD | Imports (Jun) |  |  | 64.97B |
 | 20:55 | USD | Redbook (YoY) |  |  | 0.1% |
