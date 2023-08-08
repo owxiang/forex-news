@@ -6,20 +6,19 @@
 | 03:00 | USD | Low | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
 | 07:00 | KRW | Low | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jul) | 1.8% | 3.0% | 4.2% |
-| 16 min | JPY | Low | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
-| 16 min | JPY | Moderate | Household Spending (MoM) (Jun) |  | 0.3% | -1.1% |
-| 16 min | JPY | Moderate | Household Spending (YoY) (Jun) |  | -4.1% | -4.0% |
-| 16 min | JPY | Low | Overall wage income of employees (Jun) |  |  | 2.9% |
-| 16 min | JPY | Low | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
-| 36 min | JPY | Moderate | Adjusted Current Account (Jun) |  | 2.24T | 1.70T |
-| 36 min | JPY | Low | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
-| 36 min | JPY | Moderate | Current Account n.s.a. (Jun) |  | 1.395T | 1.862T |
-| 36 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 08:30 | AUD | Low | Westpac Consumer Sentiment (Aug) |  |  | 2.7% |
-| 09:30 | AUD | Low | Building Approvals (YoY) |  | -18.00% | -9.80% |
-| 09:30 | AUD | Moderate | NAB Business Confidence (Jul) |  | -1 | 0 |
-| 09:30 | AUD | Low | NAB Business Survey (Jul) |  | 8 | 9 |
-| 09:30 | AUD | Low | Private House Approvals |  | -1.3% | 0.8% |
+| 07:30 | JPY | Low | Average Cash Earnings (YoY) | 2.3% | 1.6% | 2.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jun) | -4.2% | -4.1% | -4.0% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Jun) | 0.9% | 0.3% | -1.1% |
+| 07:30 | JPY | Low | Overall wage income of employees (Jun) | 2.3% |  | 2.9% |
+| 07:30 | JPY | Low | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
+| 07:50 | JPY | Moderate | Adjusted Current Account (Jun) | 234.59T | 2.24T | 1.70T |
+| 07:50 | JPY | Low | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
+| 07:50 | JPY | Moderate | Current Account n.s.a. (Jun) | 1.509T | 1.395T | 1.862T |
+| 08:30 | AUD | Low | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
+| 14 min | AUD | Low | Building Approvals (YoY) |  | -18.00% | -9.80% |
+| 14 min | AUD | Moderate | NAB Business Confidence (Jul) |  | -1 | 0 |
+| 14 min | AUD | Low | NAB Business Survey (Jul) |  | 8 | 9 |
+| 14 min | AUD | Low | Private House Approvals |  | -1.3% | 0.8% |
 | 11:00 | CNY | Low | Exports (Jul) |  | -8.90M | -8.30M |
 | 11:00 | CNY | Low | Imports (Jul) |  | -2.50M | -2.60M |
 | 11:00 | CNY | Low | Trade Balance (Jul) |  | 625.25M | 491.25M |

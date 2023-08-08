@@ -4,15 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
 | 07:00 | KRW | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
-| 16 min | JPY | Average Cash Earnings (YoY) |  | 1.6% | 2.5% |
-| 16 min | JPY | Overall wage income of employees (Jun) |  |  | 2.9% |
-| 16 min | JPY | Overtime Pay (YoY) (Jun) |  |  | 0.50% |
-| 36 min | JPY | Bank Lending (YoY) (Jul) |  | 3.1% | 3.2% |
-| 36 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 08:30 | AUD | Westpac Consumer Sentiment (Aug) |  |  | 2.7% |
-| 09:30 | AUD | Building Approvals (YoY) |  | -18.00% | -9.80% |
-| 09:30 | AUD | NAB Business Survey (Jul) |  | 8 | 9 |
-| 09:30 | AUD | Private House Approvals |  | -1.3% | 0.8% |
+| 07:30 | JPY | Average Cash Earnings (YoY) | 2.3% | 1.6% | 2.9% |
+| 07:30 | JPY | Overall wage income of employees (Jun) | 2.3% |  | 2.9% |
+| 07:30 | JPY | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
+| 07:50 | JPY | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
+| 08:30 | AUD | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
+| 14 min | AUD | Building Approvals (YoY) |  | -18.00% | -9.80% |
+| 14 min | AUD | NAB Business Survey (Jul) |  | 8 | 9 |
+| 14 min | AUD | Private House Approvals |  | -1.3% | 0.8% |
 | 11:00 | CNY | Exports (Jul) |  | -8.90M | -8.30M |
 | 11:00 | CNY | Imports (Jul) |  | -2.50M | -2.60M |
 | 11:00 | CNY | Trade Balance (Jul) |  | 625.25M | 491.25M |
