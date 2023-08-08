@@ -1,39 +1,31 @@
-## 08 August 2023 - Low Impact Forex News
+## 09 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Consumer Credit (Jun) | 17.85B | 13.00B | 9.46B |
-| 07:00 | KRW | Current Account (Jun) | 5.87B | 0.26B | 1.93B |
-| 07:30 | JPY | Average Cash Earnings (YoY) | 2.3% | 1.6% | 2.9% |
-| 07:30 | JPY | Overall wage income of employees (Jun) | 2.3% | 1.6% | 2.9% |
-| 07:30 | JPY | Overtime Pay (YoY) (Jun) | 2.30% |  | 0.50% |
-| 07:50 | JPY | Bank Lending (YoY) (Jul) | 2.9% | 3.1% | 3.1% |
-| 08:30 | AUD | Westpac Consumer Sentiment (Aug) | -0.4% |  | 2.7% |
-| 09:30 | AUD | NAB Business Survey (Jul) | 10 | 8 | 10 |
-| 09:30 | AUD | Private House Approvals | -1.3% | -1.3% | 0.8% |
-| 10:00 | AUD | Building Approvals (YoY) | -18.00% | -18.00% | -9.80% |
-| 11:00 | CNY | Exports (Jul) | -9.20M | -8.90M | -8.30M |
-| 11:00 | CNY | Imports (Jul) | -6.90M | -2.50M | -2.60M |
-| 11:00 | CNY | Trade Balance (Jul) | 575.70M | 625.25M | 491.25M |
-| 11:35 | JPY | 30-Year JGB Auction | 1.593% |  | 1.222% |
-| 12:30 | IDR | Consumer Confidence (Jul) | 123.5 |  | 127.1 |
-| 13:00 | JPY | Economy Watchers Current Index (Jul) | 54.4 | 54.5 | 53.6 |
-| 14:00 | EUR | German HICP (MoM) (Jul) | 0.5% | 0.5% | 0.4% |
-| 14:00 | EUR | German HICP (YoY) (Jul) | 6.5% | 6.5% | 6.8% |
-| 14:45 | EUR | French Current Account (Jun) | 0.80B | -0.40B | -0.70B |
-| 14:45 | EUR | French Exports (Jun) | 52.1B |  | 52.7B |
-| 14:45 | EUR | French Imports (Jun) | 58.8B |  | 60.7B |
-| 14:45 | EUR | French Trade Balance (Jun) | -6.7B | -8.0B | -7.9B |
-| 16:50 | EUR | Spanish 12-Month Letras Auction | 3.664% |  | 3.775% |
-| 16:50 | EUR | Spanish 6-Month Letras Auction | 3.639% |  | 3.599% |
-| 17:30 | EUR | German 5-Year Bobl Auction | 2.500% |  | 2.710% |
-| 18:00 | USD | NFIB Small Business Optimism (Jul) | 91.9 | 90.6 | 91.0 |
-| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 20:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20:30 | CAD | Exports (Jun) | 60.70B |  | 62.05B |
-| 20:30 | CAD | Imports (Jun) | 64.43B |  | 64.73B |
-| 20:55 | USD | Redbook (YoY) | 0.3% |  | 0.1% |
-| 22:00 | USD | IBD/TIPP Economic Optimism | 40.3 | 43.0 | 41.3 |
-| 22:00 | USD | Wholesale Inventories (MoM) (Jun) | -0.5% | -0.3% | -0.3% |
-| 22:00 | USD | Wholesale Trade Sales (MoM) (Jun) | -0.7% | 0.3% | -0.5% |
-| 14 min | USD | 52-Week Bill Auction |  |  | 5.130% |
+| 06:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) |  | 9.8% | 4.2% |
+| 07:00 | KRW | Unemployment Rate (Jul) |  | 2.5% | 2.6% |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:50 | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.6% |
+| 07:50 | JPY | M3 Money Supply (Jul) |  |  | 2,111.0% |
+| 14:00 | JPY | Machine Tool Orders (YoY) |  | -21.7% | -22.2% |
+| 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.595% |
+| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.0% |
+| 19:00 | USD | MBA Purchase Index |  |  | 154.1 |
+| 19:00 | USD | Mortgage Market Index |  |  | 200.7 |
+| 19:00 | USD | Mortgage Refinance Index |  |  | 433.6 |
+| 19:30 | INR | M3 Money Supply |  |  | 10.7% |
+| 20:00 | MXN | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
+| 20:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
+| 20:00 | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
+| 20:00 | MXN | PPI (MoM) (Jul) |  |  | -0.30% |
+| 20:55 | USD | Redbook (YoY) |  |  | 0.1% |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
+| 22:30 | USD | Crude Oil Imports |  | 2.173M | -0.391M |
+| 22:30 | USD | Distillate Fuel Production |  | 0.000M | 0.080M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.167M | -0.796M |
+| 22:30 | USD | Gasoline Production |  | -0.056M | 0.341M |
+| 22:30 | USD | Heating Oil Stockpiles |  | 0.361M | 0.230M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
+| 22:30 | USD | Gasoline Inventories |  | 0.217M | 1.480M |
