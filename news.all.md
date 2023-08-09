@@ -22,8 +22,8 @@
 | 16:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
-| 16:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
 | 16:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
+| 16:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Jun) |  | 4.8% | 27.3% |
 | 17:30 | ZAR | Low | Mining Production (Jun) |  | 3.8% | -0.8% |
@@ -37,8 +37,8 @@
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  | -1.0% | -1.3% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,700K |
 | 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.7% | 4.8% |
