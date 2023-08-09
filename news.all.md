@@ -8,8 +8,8 @@
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 208.9B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 196.0B |
 | 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 07:50 | JPY | Low | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
 | 07:50 | JPY | Low | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
+| 07:50 | JPY | Low | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
 | 09:00 | AUD | Low | MI Inflation Expectations |  |  | 5.2% |
 | 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
@@ -37,14 +37,14 @@
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  | -1.0% | -1.3% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,700K |
-| 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.7% | 4.8% |
 | 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.7% | 4.8% |
 | 20:30 | USD | Low | Core CPI Index (Jul) |  | 308.33 | 308.31 |
-| 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Jul) |  | 3.3% | 3.0% |
+| 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
 | 20:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 303.84 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.32% |

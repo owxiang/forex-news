@@ -6,8 +6,8 @@
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 208.9B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 196.0B |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 07:50 | JPY | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
 | 07:50 | JPY | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
+| 07:50 | JPY | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
 | 09:00 | AUD | MI Inflation Expectations |  |  | 5.2% |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
@@ -32,8 +32,8 @@
 | 19:00 | ZAR | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Jun) |  | -1.0% | -1.3% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.7% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,700K |
 | 20:30 | USD | Core CPI Index (Jul) |  | 308.33 | 308.31 |
 | 20:30 | USD | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
