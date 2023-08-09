@@ -25,13 +25,14 @@
 | 19:00 | USD | Low | Mortgage Market Index | 194.5 |  | 200.7 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 416.1 |  | 433.6 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.39% | 0.42% | 0.30% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.48% | 0.49% | 0.10% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Jul) | 4.79% | 4.79% | 5.06% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.48% | 0.49% | 0.10% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
+| 20:00 | MXN | Low | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
+| 20:00 | MXN | Low | PPI (YoY) (Jul) | -0.80% |  | -0.90% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | 0.0% | 0.4% | -1.0% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 1.3% | 0.4% | -1.0% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) | 6.1% | -3.5% | 12.6% |
-| 20:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 22:30 | USD | High | Crude Oil Inventories |  | 0.567M | -17.049M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
 | 22:30 | USD | Low | Crude Oil Imports |  | 2.173M | -0.391M |
@@ -42,5 +43,3 @@
 | 22:30 | USD | Low | Heating Oil Stockpiles |  | 0.361M | 0.230M |
 | 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
 | 22:30 | USD | Low | Gasoline Inventories |  | -0.008M | 1.480M |
-| 23:00 | MXN | Low | PPI (YoY) (Jul) |  |  | -0.90% |
-| 23:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.30% |
