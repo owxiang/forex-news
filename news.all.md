@@ -15,7 +15,7 @@
 | 09:30 | CNY | Moderate | PPI (YoY) (Jul) | -4.4% | -4.1% | -5.4% |
 | 11:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
 | 11:00 | IDR | Low | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
-| 14:00 | JPY | Low | Machine Tool Orders (YoY) |  | -21.7% | -22.2% |
+| 46 min | JPY | Low | Machine Tool Orders (YoY) |  | -21.7% | -22.2% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.595% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
