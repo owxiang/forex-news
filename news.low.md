@@ -19,8 +19,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
 | 16:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
-| 16:00 | EUR | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
 | 16:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
+| 16:00 | EUR | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
 | 17:30 | ZAR | Gold Production (YoY) (Jun) |  | 4.8% | 27.3% |
 | 17:30 | ZAR | Mining Production (Jun) |  | 3.8% | -0.8% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.7 |
@@ -29,11 +29,11 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.31 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.12 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 40.58 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Jun) |  | -1.0% | -1.3% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.7% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,700K |
 | 20:30 | USD | Core CPI Index (Jul) |  | 308.33 | 308.31 |
 | 20:30 | USD | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
