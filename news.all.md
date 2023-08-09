@@ -18,20 +18,19 @@
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -19.8% | -21.7% | -22.2% |
 | 15:30 | IDR | Low | Motorbike Sales (YoY) | 45.60% |  | 66.60% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.350% |  | 4.595% |
-| 14 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.0% |
-| 19:00 | USD | Low | MBA Purchase Index |  |  | 154.1 |
-| 19:00 | USD | Low | Mortgage Market Index |  |  | 200.7 |
-| 19:00 | USD | Low | Mortgage Refinance Index |  |  | 433.6 |
+| 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.460% |  | 2.640% |
+| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
+| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.0% |
+| 43 min | USD | Low | MBA Purchase Index |  |  | 154.1 |
+| 43 min | USD | Low | Mortgage Market Index |  |  | 200.7 |
+| 43 min | USD | Low | Mortgage Refinance Index |  |  | 433.6 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.49% | 0.10% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 4.79% | 5.06% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
-| 20:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Jul) |  |  | -0.90% |
+| 20:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.30% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | -1.0% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 0.4% | -1.0% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | -3.5% | 10.5% |
