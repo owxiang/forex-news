@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 1.600B | 2.187B | 2.126B |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | 208.9B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 196.0B |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 07:50 | JPY | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
-| 07:50 | JPY | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
+| 35 min | JPY | Foreign Bonds Buying |  |  | 208.9B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 196.0B |
+| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 35 min | JPY | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
+| 35 min | JPY | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
 | 09:00 | AUD | MI Inflation Expectations |  |  | 5.2% |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
@@ -19,8 +19,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
 | 16:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
-| 16:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
 | 16:00 | EUR | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
+| 16:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
 | 17:30 | ZAR | Gold Production (YoY) (Jun) |  | 4.8% | 27.3% |
 | 17:30 | ZAR | Mining Production (Jun) |  | 3.8% | -0.8% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.7 |
