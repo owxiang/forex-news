@@ -5,13 +5,13 @@
 | 00:00 | USD | High | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.398% |  | 4.534% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.067M | -0.233M | -15.400M |
-| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) | 0.0% | 0.0% | 0.9% |
 | 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
+| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) | 0.0% | 0.0% | 0.9% |
 | 07:00 | KRW | Low | Unemployment Rate (Jul) | 2.8% | 2.5% | 2.6% |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.5% | 2.6% |
 | 07:50 | JPY | Low | M3 Money Supply (Jul) | 2,112.5% |  | 2,111.1% |
-| 09:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.2% | -0.1% | -0.2% |
 | 09:30 | CNY | Moderate | CPI (YoY) (Jul) | -0.3% | -0.4% | 0.0% |
+| 09:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.2% | -0.1% | -0.2% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Jul) | -4.4% | -4.1% | -5.4% |
 | 11:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
 | 11:00 | IDR | Low | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
@@ -28,18 +28,22 @@
 | 20:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.48% | 0.49% | 0.10% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Jul) | 4.79% | 4.79% | 5.06% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
-| 20:00 | MXN | Low | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Jul) | -0.80% |  | -0.90% |
+| 20:00 | MXN | Low | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | 0.0% | 0.4% | -0.7% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 1.3% | 0.4% | -1.1% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) | 6.1% | -3.5% | 12.6% |
-| 15 min | USD | High | Crude Oil Inventories |  | 0.567M | -17.049M |
-| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
-| 15 min | USD | Low | Crude Oil Imports |  | 2.173M | -0.391M |
-| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  | -1.783M | -1.259M |
-| 15 min | USD | Low | Distillate Fuel Production |  | 0.000M | 0.080M |
-| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.006M | -0.796M |
-| 15 min | USD | Low | Gasoline Production |  | -0.056M | 0.341M |
-| 15 min | USD | Low | Heating Oil Stockpiles |  | 0.361M | 0.230M |
-| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
-| 15 min | USD | Low | Gasoline Inventories |  | -0.008M | 1.480M |
+| 22:30 | USD | High | Crude Oil Inventories | 5.851M | 0.567M | -17.049M |
+| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.062M |  | 0.039M |
+| 22:30 | USD | Low | Crude Oil Imports | 2.937M | 2.173M | -0.391M |
+| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.159M | -1.783M | -1.259M |
+| 22:30 | USD | Low | Distillate Fuel Production | 0.050M | 0.000M | 0.080M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -1.706M | 0.006M | -0.796M |
+| 22:30 | USD | Low | Gasoline Production | 0.092M | -0.056M | 0.341M |
+| 22:30 | USD | Low | Heating Oil Stockpiles | 0.166M | 0.361M | 0.230M |
+| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.7% |
+| 22:30 | USD | Low | Gasoline Inventories | -2.661M | -0.008M | 1.480M |
+| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) | 52.24 |  | 54.41 |
+| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 46.90 |  | 49.55 |
+| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 56.37 |  | 57.23 |
+| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) | 57.87 |  | 60.03 |

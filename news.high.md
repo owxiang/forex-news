@@ -3,4 +3,4 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 15 min | USD | Crude Oil Inventories |  | 0.567M | -17.049M |
+| 22:30 | USD | Crude Oil Inventories | 5.851M | 0.567M | -17.049M |

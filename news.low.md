@@ -17,13 +17,17 @@
 | 19:00 | USD | Mortgage Refinance Index | 416.1 |  | 433.6 |
 | 20:00 | MXN | Core CPI (MoM) (Jul) | 0.39% | 0.42% | 0.30% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
-| 20:00 | MXN | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
 | 20:00 | MXN | PPI (YoY) (Jul) | -0.80% |  | -0.90% |
-| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
-| 15 min | USD | Crude Oil Imports |  | 2.173M | -0.391M |
-| 15 min | USD | Distillate Fuel Production |  | 0.000M | 0.080M |
-| 15 min | USD | EIA Weekly Distillates Stocks |  | 0.006M | -0.796M |
-| 15 min | USD | Gasoline Production |  | -0.056M | 0.341M |
-| 15 min | USD | Heating Oil Stockpiles |  | 0.361M | 0.230M |
-| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
-| 15 min | USD | Gasoline Inventories |  | -0.008M | 1.480M |
+| 20:00 | MXN | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.062M |  | 0.039M |
+| 22:30 | USD | Crude Oil Imports | 2.937M | 2.173M | -0.391M |
+| 22:30 | USD | Distillate Fuel Production | 0.050M | 0.000M | 0.080M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | -1.706M | 0.006M | -0.796M |
+| 22:30 | USD | Gasoline Production | 0.092M | -0.056M | 0.341M |
+| 22:30 | USD | Heating Oil Stockpiles | 0.166M | 0.361M | 0.230M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.7% |
+| 22:30 | USD | Gasoline Inventories | -2.661M | -0.008M | 1.480M |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Aug) | 52.24 |  | 54.41 |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 46.90 |  | 49.55 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 56.37 |  | 57.23 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 57.87 |  | 60.03 |
