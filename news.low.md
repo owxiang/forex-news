@@ -1,33 +1,47 @@
-## 09 August 2023 - Low Impact Forex News
+## 10 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
-| 07:00 | KRW | Unemployment Rate (Jul) | 2.8% | 2.5% | 2.6% |
-| 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.5% | 2.6% |
-| 07:50 | JPY | M3 Money Supply (Jul) | 2,112.5% |  | 2,111.1% |
-| 11:00 | IDR | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
-| 14:00 | JPY | Machine Tool Orders (YoY) | -19.8% | -21.7% | -22.2% |
-| 15:30 | IDR | Motorbike Sales (YoY) | 45.60% |  | 66.60% |
-| 17:00 | GBP | 10-Year Treasury Gilt Auction | 4.350% |  | 4.595% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.09% |  | 6.93% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) | -3.1% |  | -3.0% |
-| 19:00 | USD | MBA Purchase Index | 149.9 |  | 154.1 |
-| 19:00 | USD | Mortgage Market Index | 194.5 |  | 200.7 |
-| 19:00 | USD | Mortgage Refinance Index | 416.1 |  | 433.6 |
-| 20:00 | MXN | Core CPI (MoM) (Jul) | 0.39% | 0.42% | 0.30% |
-| 20:00 | MXN | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
-| 20:00 | MXN | PPI (YoY) (Jul) | -0.80% |  | -0.90% |
-| 20:00 | MXN | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.062M |  | 0.039M |
-| 22:30 | USD | Crude Oil Imports | 2.937M | 2.173M | -0.391M |
-| 22:30 | USD | Distillate Fuel Production | 0.050M | 0.000M | 0.080M |
-| 22:30 | USD | EIA Weekly Distillates Stocks | -1.706M | 0.006M | -0.796M |
-| 22:30 | USD | Gasoline Production | 0.092M | -0.056M | 0.341M |
-| 22:30 | USD | Heating Oil Stockpiles | 0.166M | 0.361M | 0.230M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.7% |
-| 22:30 | USD | Gasoline Inventories | -2.661M | -0.008M | 1.480M |
-| 23:00 | USD | Thomson Reuters IPSOS PCSI (Aug) | 52.24 |  | 54.41 |
-| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 46.90 |  | 49.55 |
-| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 56.37 |  | 57.23 |
-| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Aug) | 57.87 |  | 60.03 |
+| 01:30 | BRL | Foreign Exchange Flows |  | 2.187B | 2.126B |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 208.9B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 196.0B |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:50 | JPY | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
+| 07:50 | JPY | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
+| 09:00 | AUD | MI Inflation Expectations |  |  | 5.2% |
+| 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 14:00 | NOK | Core CPI YTD (Jul) |  | 6.3% | 7.0% |
+| 14:00 | NOK | Core Inflation (MoM) (Jul) |  | 1.4% | 0.9% |
+| 14:00 | NOK | CPI (YoY) (Jul) |  | 5.9% | 6.4% |
+| 14:00 | NOK | CPI (MoM) (Jul) |  | 0.8% | 0.6% |
+| 14:00 | NOK | PPI (YoY) (Jul) |  | -46.7% | -28.5% |
+| 16:00 | EUR | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
+| 16:00 | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
+| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
+| 16:00 | EUR | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
+| 16:00 | EUR | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
+| 17:30 | ZAR | Gold Production (YoY) (Jun) |  | 4.8% | 27.3% |
+| 17:30 | ZAR | Mining Production (Jun) |  | 3.8% | -0.8% |
+| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.7 |
+| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 44.15 |
+| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.86 |
+| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.31 |
+| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.12 |
+| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 40.58 |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Jun) |  | -1.0% | -1.3% |
+| 19:30 | INR | M3 Money Supply |  |  | 10.7% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,700K |
+| 20:30 | USD | Core CPI Index (Jul) |  | 308.33 | 308.31 |
+| 20:30 | USD | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
+| 20:30 | USD | CPI Index, s.a (Jul) |  |  | 303.84 |
+| 20:30 | USD | CPI, n.s.a (MoM) (Jul) |  |  | 0.32% |
+| 20:30 | USD | Jobless Claims 4-Week Avg. |  | 231.01K | 228.25K |
+| 20:30 | USD | Real Earnings (MoM) (Jul) |  | -0.1% | 0.5% |
+| 22:30 | USD | Natural Gas Storage |  | -6B | 14B |
+| 23:00 | USD | Cleveland CPI (MoM) (Jul) |  | 0.4% | 0.4% |
+| 23:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
+| 23:30 | USD | 8-Week Bill Auction |  |  | 5.285% |

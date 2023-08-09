@@ -1,49 +1,57 @@
-## 09 August 2023 - All Forex News
+## 10 August 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | High | EIA Short-Term Energy Outlook |  |  |  |
-| 01:00 | USD | Moderate | 3-Year Note Auction | 4.398% |  | 4.534% |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.067M | -0.233M | -15.400M |
-| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
-| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) | 0.0% | 0.0% | 0.9% |
-| 07:00 | KRW | Low | Unemployment Rate (Jul) | 2.8% | 2.5% | 2.6% |
-| 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.5% | 2.6% |
-| 07:50 | JPY | Low | M3 Money Supply (Jul) | 2,112.5% |  | 2,111.1% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Jul) | -0.3% | -0.4% | 0.0% |
-| 09:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.2% | -0.1% | -0.2% |
-| 09:30 | CNY | Moderate | PPI (YoY) (Jul) | -4.4% | -4.1% | -5.4% |
-| 11:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
-| 11:00 | IDR | Low | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
-| 14:00 | JPY | Low | Machine Tool Orders (YoY) | -19.8% | -21.7% | -22.2% |
-| 15:30 | IDR | Low | Motorbike Sales (YoY) | 45.60% |  | 66.60% |
-| 17:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.350% |  | 4.595% |
-| 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.460% |  | 2.640% |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.09% |  | 6.93% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -3.1% |  | -3.0% |
-| 19:00 | USD | Low | MBA Purchase Index | 149.9 |  | 154.1 |
-| 19:00 | USD | Low | Mortgage Market Index | 194.5 |  | 200.7 |
-| 19:00 | USD | Low | Mortgage Refinance Index | 416.1 |  | 433.6 |
-| 20:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.39% | 0.42% | 0.30% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.48% | 0.49% | 0.10% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Jul) | 4.79% | 4.79% | 5.06% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
-| 20:00 | MXN | Low | PPI (YoY) (Jul) | -0.80% |  | -0.90% |
-| 20:00 | MXN | Low | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | 0.0% | 0.4% | -0.7% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 1.3% | 0.4% | -1.1% |
-| 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) | 6.1% | -3.5% | 12.6% |
-| 22:30 | USD | High | Crude Oil Inventories | 5.851M | 0.567M | -17.049M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.062M |  | 0.039M |
-| 22:30 | USD | Low | Crude Oil Imports | 2.937M | 2.173M | -0.391M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.159M | -1.783M | -1.259M |
-| 22:30 | USD | Low | Distillate Fuel Production | 0.050M | 0.000M | 0.080M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -1.706M | 0.006M | -0.796M |
-| 22:30 | USD | Low | Gasoline Production | 0.092M | -0.056M | 0.341M |
-| 22:30 | USD | Low | Heating Oil Stockpiles | 0.166M | 0.361M | 0.230M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | -0.7% |
-| 22:30 | USD | Low | Gasoline Inventories | -2.661M | -0.008M | 1.480M |
-| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Aug) | 52.24 |  | 54.41 |
-| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 46.90 |  | 49.55 |
-| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 56.37 |  | 57.23 |
-| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Aug) | 57.87 |  | 60.03 |
+| 37 min | USD | Moderate | 10-Year Note Auction |  |  | 3.857% |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  | 2.187B | 2.126B |
+| 07:01 | GBP | Moderate | RICS House Price Balance (Jul) |  | -50% | -46% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 208.9B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 196.0B |
+| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 07:50 | JPY | Low | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
+| 07:50 | JPY | Low | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
+| 09:00 | AUD | Low | MI Inflation Expectations |  |  | 5.2% |
+| 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 14:00 | NOK | Low | Core CPI YTD (Jul) |  | 6.3% | 7.0% |
+| 14:00 | NOK | Low | Core Inflation (MoM) (Jul) |  | 1.4% | 0.9% |
+| 14:00 | NOK | Low | CPI (YoY) (Jul) |  | 5.9% | 6.4% |
+| 14:00 | NOK | Low | CPI (MoM) (Jul) |  | 0.8% | 0.6% |
+| 14:00 | NOK | Low | PPI (YoY) (Jul) |  | -46.7% | -28.5% |
+| 16:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
+| 16:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
+| 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
+| 16:00 | EUR | Low | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
+| 16:00 | EUR | Low | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
+| 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 17:30 | ZAR | Low | Gold Production (YoY) (Jun) |  | 4.8% | 27.3% |
+| 17:30 | ZAR | Low | Mining Production (Jun) |  | 3.8% | -0.8% |
+| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.7 |
+| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Aug) |  |  | 44.15 |
+| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.86 |
+| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Aug) |  |  | 41.31 |
+| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 46.12 |
+| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 40.58 |
+| 19:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  | 1.2% | 2.5% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  | -1.0% | -1.3% |
+| 19:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
+| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,700K |
+| 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.7% | 4.8% |
+| 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 20:30 | USD | Low | Core CPI Index (Jul) |  | 308.33 | 308.31 |
+| 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 20:30 | USD | High | CPI (YoY) (Jul) |  | 3.3% | 3.0% |
+| 20:30 | USD | Low | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
+| 20:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 303.84 |
+| 20:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.32% |
+| 20:30 | USD | High | Initial Jobless Claims |  | 230K | 227K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 231.01K | 228.25K |
+| 20:30 | USD | Low | Real Earnings (MoM) (Jul) |  | -0.1% | 0.5% |
+| 22:30 | USD | Low | Natural Gas Storage |  | -6B | 14B |
+| 23:00 | USD | Low | Cleveland CPI (MoM) (Jul) |  | 0.4% | 0.4% |
+| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
+| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.285% |
