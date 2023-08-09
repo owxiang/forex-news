@@ -19,20 +19,20 @@
 | 15:30 | IDR | Low | Motorbike Sales (YoY) | 45.60% |  | 66.60% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.350% |  | 4.595% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.460% |  | 2.640% |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.0% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 154.1 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 200.7 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 433.6 |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 20:00 | MXN | Low | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Jul) |  | 0.49% | 0.10% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Jul) |  | 4.79% | 5.06% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
-| 20:00 | MXN | Low | PPI (YoY) (Jul) |  |  | -0.90% |
-| 20:00 | MXN | Low | PPI (MoM) (Jul) |  |  | -0.30% |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | -1.0% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 0.4% | -1.0% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.09% |  | 6.93% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -3.1% |  | -3.0% |
+| 19:00 | USD | Low | MBA Purchase Index | 149.9 |  | 154.1 |
+| 19:00 | USD | Low | Mortgage Market Index | 194.5 |  | 200.7 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 416.1 |  | 433.6 |
+| 17 min | INR | Low | M3 Money Supply |  |  | 10.7% |
+| 47 min | MXN | Low | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
+| 47 min | MXN | Moderate | CPI (MoM) (Jul) |  | 0.49% | 0.10% |
+| 47 min | MXN | Moderate | CPI (YoY) (Jul) |  | 4.79% | 5.06% |
+| 47 min | MXN | Low | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
+| 47 min | MXN | Low | PPI (YoY) (Jul) |  |  | -0.90% |
+| 47 min | MXN | Low | PPI (MoM) (Jul) |  |  | -0.30% |
+| 47 min | BRL | Moderate | Retail Sales (MoM) (Jun) |  | 0.4% | -1.0% |
+| 47 min | BRL | Moderate | Retail Sales (YoY) (Jun) |  | 0.4% | -1.0% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) |  | -3.5% | 10.5% |
 | 22:30 | USD | High | Crude Oil Inventories |  | 0.567M | -17.049M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
