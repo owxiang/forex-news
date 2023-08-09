@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 37 min | USD | 10-Year Note Auction |  |  | 3.857% |
+| 01:00 | USD | 10-Year Note Auction | 3.999% |  | 3.857% |
 | 07:01 | GBP | RICS House Price Balance (Jul) |  | -50% | -46% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 16:00 | EUR | ECB Economic Bulletin |  |  |  |
