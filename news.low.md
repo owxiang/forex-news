@@ -4,9 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 06:45 | NZD | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
 | 07:00 | KRW | Unemployment Rate (Jul) | 2.8% | 2.5% | 2.6% |
-| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 35 min | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.6% |
-| 35 min | JPY | M3 Money Supply (Jul) |  |  | 2,111.0% |
+| 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.5% | 2.6% |
+| 07:50 | JPY | M3 Money Supply (Jul) | 2,112.5% |  | 2,111.1% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  | -21.7% | -22.2% |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.595% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
@@ -18,8 +17,8 @@
 | 19:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 20:00 | MXN | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
-| 20:00 | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
 | 20:00 | MXN | PPI (MoM) (Jul) |  |  | -0.30% |
+| 20:00 | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
 | 20:55 | USD | Redbook (YoY) |  |  | 0.1% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
 | 22:30 | USD | Crude Oil Imports |  | 2.173M | -0.391M |
