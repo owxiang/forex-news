@@ -15,11 +15,9 @@
 | 19:00 | USD | MBA Purchase Index | 149.9 |  | 154.1 |
 | 19:00 | USD | Mortgage Market Index | 194.5 |  | 200.7 |
 | 19:00 | USD | Mortgage Refinance Index | 416.1 |  | 433.6 |
-| 17 min | INR | M3 Money Supply |  |  | 10.7% |
-| 47 min | MXN | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
-| 47 min | MXN | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
-| 47 min | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
-| 47 min | MXN | PPI (MoM) (Jul) |  |  | -0.30% |
+| 20:00 | MXN | Core CPI (MoM) (Jul) | 0.39% | 0.42% | 0.30% |
+| 20:00 | MXN | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
+| 20:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
 | 22:30 | USD | Crude Oil Imports |  | 2.173M | -0.391M |
 | 22:30 | USD | Distillate Fuel Production |  | 0.000M | 0.080M |
@@ -28,3 +26,5 @@
 | 22:30 | USD | Heating Oil Stockpiles |  | 0.361M | 0.230M |
 | 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
 | 22:30 | USD | Gasoline Inventories |  | -0.008M | 1.480M |
+| 23:00 | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
+| 23:00 | MXN | PPI (MoM) (Jul) |  |  | -0.30% |
