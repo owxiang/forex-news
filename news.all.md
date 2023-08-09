@@ -16,7 +16,8 @@
 | 11:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
 | 11:00 | IDR | Low | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -19.8% | -21.7% | -22.2% |
-| 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.595% |
+| 15:30 | IDR | Low | Motorbike Sales (YoY) | 45.60% |  | 66.60% |
+| 40 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.595% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
