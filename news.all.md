@@ -25,21 +25,21 @@
 | 19:00 | USD | Low | Mortgage Market Index | 194.5 |  | 200.7 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 416.1 |  | 433.6 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Jul) | 0.39% | 0.42% | 0.30% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Jul) | 4.79% | 4.79% | 5.06% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Jul) | 0.48% | 0.49% | 0.10% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Jul) | 4.79% | 4.79% | 5.06% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jul) | 6.64% | 6.68% | 6.89% |
 | 20:00 | MXN | Low | PPI (MoM) (Jul) | 0.30% |  | -0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Jul) | -0.80% |  | -0.90% |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | 0.0% | 0.4% | -1.0% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 1.3% | 0.4% | -1.0% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jun) | 0.0% | 0.4% | -0.7% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jun) | 1.3% | 0.4% | -1.1% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jun) | 6.1% | -3.5% | 12.6% |
-| 22:30 | USD | High | Crude Oil Inventories |  | 0.567M | -17.049M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
-| 22:30 | USD | Low | Crude Oil Imports |  | 2.173M | -0.391M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  | -1.783M | -1.259M |
-| 22:30 | USD | Low | Distillate Fuel Production |  | 0.000M | 0.080M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.006M | -0.796M |
-| 22:30 | USD | Low | Gasoline Production |  | -0.056M | 0.341M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  | 0.361M | 0.230M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
-| 22:30 | USD | Low | Gasoline Inventories |  | -0.008M | 1.480M |
+| 15 min | USD | High | Crude Oil Inventories |  | 0.567M | -17.049M |
+| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
+| 15 min | USD | Low | Crude Oil Imports |  | 2.173M | -0.391M |
+| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  | -1.783M | -1.259M |
+| 15 min | USD | Low | Distillate Fuel Production |  | 0.000M | 0.080M |
+| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.006M | -0.796M |
+| 15 min | USD | Low | Gasoline Production |  | -0.056M | 0.341M |
+| 15 min | USD | Low | Heating Oil Stockpiles |  | 0.361M | 0.230M |
+| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.7% |
+| 15 min | USD | Low | Gasoline Inventories |  | -0.008M | 1.480M |
