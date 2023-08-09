@@ -9,7 +9,7 @@
 | 11:00 | IDR | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
 | 14:00 | JPY | Machine Tool Orders (YoY) | -19.8% | -21.7% | -22.2% |
 | 15:30 | IDR | Motorbike Sales (YoY) | 45.60% |  | 66.60% |
-| 40 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.595% |
+| 17:00 | GBP | 10-Year Treasury Gilt Auction | 4.350% |  | 4.595% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.0% |
@@ -19,9 +19,8 @@
 | 19:30 | INR | M3 Money Supply |  |  | 10.7% |
 | 20:00 | MXN | Core CPI (MoM) (Jul) |  | 0.42% | 0.30% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jul) |  | 6.68% | 6.89% |
-| 20:00 | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
 | 20:00 | MXN | PPI (MoM) (Jul) |  |  | -0.30% |
-| 20:55 | USD | Redbook (YoY) |  |  | 0.1% |
+| 20:00 | MXN | PPI (YoY) (Jul) |  |  | -0.90% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.039M |
 | 22:30 | USD | Crude Oil Imports |  | 2.173M | -0.391M |
 | 22:30 | USD | Distillate Fuel Production |  | 0.000M | 0.080M |
