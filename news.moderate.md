@@ -8,7 +8,7 @@
 | 09:30 | CNY | CPI (MoM) (Jul) | 0.2% | 0.1% | -0.2% |
 | 09:30 | CNY | CPI (YoY) (Jul) | -0.3% | -0.4% | 0.0% |
 | 09:30 | CNY | PPI (YoY) (Jul) | -4.4% | -4.1% | -5.4% |
-| 30 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 11:00 | NZD | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
 | 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
 | 20:00 | MXN | CPI (MoM) (Jul) |  | 0.49% | 0.10% |
 | 20:00 | MXN | CPI (YoY) (Jul) |  | 4.79% | 5.06% |

@@ -5,15 +5,16 @@
 | 00:00 | USD | High | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.398% |  | 4.534% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.067M | -0.233M | -15.400M |
-| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
 | 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jul) | 0.0% | 0.0% | 0.9% |
+| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jul) | 2.2% | 9.8% | 4.2% |
 | 07:00 | KRW | Low | Unemployment Rate (Jul) | 2.8% | 2.5% | 2.6% |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.5% | 2.6% |
 | 07:50 | JPY | Low | M3 Money Supply (Jul) | 2,112.5% |  | 2,111.1% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Jul) | 0.2% | 0.1% | -0.2% |
 | 09:30 | CNY | Moderate | CPI (YoY) (Jul) | -0.3% | -0.4% | 0.0% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Jul) | -4.4% | -4.1% | -5.4% |
-| 30 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 11:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
+| 45 min | IDR | Low | Retail Sales (YoY) (Jun) | 7.9% |  | -4.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  | -21.7% | -22.2% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.595% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
