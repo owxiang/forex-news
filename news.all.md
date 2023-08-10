@@ -42,15 +42,15 @@
 | 20:30 | USD | High | Core CPI (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Jul) | 4.7% | 4.8% | 4.8% |
 | 20:30 | USD | Low | Core CPI Index (Jul) | 308.80 | 308.33 | 308.31 |
-| 20:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Jul) | 3.2% | 3.3% | 3.0% |
+| 20:30 | USD | High | CPI (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Jul) | 305.69 | 305.84 | 305.11 |
 | 20:30 | USD | Low | CPI Index, s.a (Jul) | 304.35 |  | 303.84 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Jul) | 0.19% |  | 0.32% |
 | 20:30 | USD | High | Initial Jobless Claims | 248K | 230K | 227K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 231.00K | 231.01K | 228.25K |
 | 20:30 | USD | Low | Real Earnings (MoM) (Jul) | 0.0% | -0.1% | 0.6% |
-| 15 min | USD | Low | Natural Gas Storage |  | 25B | 14B |
-| 45 min | USD | Low | Cleveland CPI (MoM) (Jul) |  | 0.4% | 0.4% |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.285% |
+| 22:30 | USD | Low | Natural Gas Storage | 29B | 25B | 14B |
+| 23:00 | USD | Low | Cleveland CPI (MoM) (Jul) | 0.2% | 0.4% | 0.4% |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.285% |

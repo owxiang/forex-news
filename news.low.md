@@ -40,7 +40,7 @@
 | 20:30 | USD | CPI, n.s.a (MoM) (Jul) | 0.19% |  | 0.32% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 231.00K | 231.01K | 228.25K |
 | 20:30 | USD | Real Earnings (MoM) (Jul) | 0.0% | -0.1% | 0.6% |
-| 15 min | USD | Natural Gas Storage |  | 25B | 14B |
-| 45 min | USD | Cleveland CPI (MoM) (Jul) |  | 0.4% | 0.4% |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.285% |
+| 22:30 | USD | Natural Gas Storage | 29B | 25B | 14B |
+| 23:00 | USD | Cleveland CPI (MoM) (Jul) | 0.2% | 0.4% | 0.4% |
+| 13 min | USD | 4-Week Bill Auction |  |  | 5.275% |
+| 13 min | USD | 8-Week Bill Auction |  |  | 5.285% |
