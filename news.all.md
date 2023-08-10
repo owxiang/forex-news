@@ -8,8 +8,8 @@
 | 03:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Aug) | 11.25% | 11.25% | 11.25% |
 | 04:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,207B |
-| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 04:30 | USD | Moderate | Fed's Balance Sheet | 8,208B |  | 8,207B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.217T |
 | 06:30 | NZD | Moderate | Business NZ PMI (Jul) |  | 49.4 | 47.5 |
 | 07:30 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 07:45 | NZD | Low | FPI (MoM) |  | 2.1% | 1.6% |
@@ -29,9 +29,9 @@
 | 14:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 8.1% | 5.8% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Jun) |  |  | -0.2% |
 | 14:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) |  | 1.9% | 0.2% |
+| 14:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.0% | 0.1% |
 | 14:00 | GBP | High | GDP (YoY) (Q2) |  | 0.2% | 0.2% |
 | 14:00 | GBP | High | GDP (MoM) (Jun) |  | 0.2% | -0.1% |
-| 14:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.0% | 0.1% |
 | 14:00 | GBP | Low | GDP (YoY) (Jun) |  | 0.5% | -0.4% |
 | 14:00 | GBP | Low | Index of Services |  | 0.0% | 0.0% |
 | 14:00 | GBP | Low | Industrial Production (YoY) (Jun) |  | -1.1% | -2.3% |
@@ -45,8 +45,8 @@
 | 14:45 | EUR | Low | CPI NSA (MoM) (Jul) |  |  | 0.20% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Jul) |  | 0.0% | 0.2% |
 | 14:45 | EUR | Low | French CPI (YoY) |  | 4.3% | 4.5% |
-| 14:45 | EUR | Low | French HICP (YoY) (Jul) |  | 5.3% | 5.0% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Jul) |  | 0.0% | 0.2% |
+| 14:45 | EUR | Low | French HICP (YoY) (Jul) |  | 5.3% | 5.0% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 4.40% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Jul) |  |  | 5.9% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) |  | 2.3% | 1.9% |

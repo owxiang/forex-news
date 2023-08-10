@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:01 | USD | 30-Year Bond Auction | 4.189% |  | 3.910% |
-| 15 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.217T |
 | 07:45 | NZD | FPI (MoM) |  | 2.1% | 1.6% |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
 | 08:00 | SGD | GDP (QoQ) |  | 0.3% | -0.4% |
