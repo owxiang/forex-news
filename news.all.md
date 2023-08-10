@@ -42,8 +42,8 @@
 | 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.7% | 4.8% |
 | 20:30 | USD | Low | Core CPI Index (Jul) |  | 308.33 | 308.31 |
-| 20:30 | USD | High | CPI (YoY) (Jul) |  | 3.3% | 3.0% |
 | 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 20:30 | USD | High | CPI (YoY) (Jul) |  | 3.3% | 3.0% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
 | 20:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 303.84 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.32% |
