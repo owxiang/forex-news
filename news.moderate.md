@@ -5,6 +5,6 @@
 | 01:00 | USD | 10-Year Note Auction | 3.999% |  | 3.857% |
 | 07:01 | GBP | RICS House Price Balance (Jul) | -53% | -50% | -48% |
 | 12:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 16:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 46 min | EUR | ECB Economic Bulletin |  |  |  |
 | 19:00 | USD | OPEC Monthly Report |  |  |  |
 | 20:30 | USD | Core CPI (YoY) (Jul) |  | 4.8% | 4.8% |
