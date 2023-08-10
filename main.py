@@ -84,7 +84,7 @@ def scrape_forex_events():
         message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
         
     current_hour = datetime.now().hour
-    if current_hour == 21: # 0500 (GMT+8) = 2100 (GMT+0)
+    if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
         send_telegram(message)
 
     # Close the WebDriver
