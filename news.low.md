@@ -1,46 +1,58 @@
-## 10 August 2023 - Low Impact Forex News
+## 11 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows | 1.600B | 2.187B | 2.126B |
-| 07:50 | JPY | Foreign Bonds Buying | 438.8B |  | 211.7B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | -59.4B |  | 195.7B |
-| 07:50 | JPY | PPI (MoM) (Jul) | 0.1% | 0.2% | -0.1% |
-| 07:50 | JPY | PPI (YoY) (Jul) | 3.6% | 3.5% | 4.3% |
-| 09:00 | AUD | MI Inflation Expectations | 4.9% |  | 5.2% |
-| 12:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
-| 12:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
-| 14:00 | NOK | Core CPI YTD (Jul) | 6.4% | 6.3% | 7.0% |
-| 14:00 | NOK | Core Inflation (MoM) (Jul) | 0.9% | 0.8% | 0.9% |
-| 14:00 | NOK | CPI (YoY) (Jul) | 5.4% | 5.7% | 6.4% |
-| 14:00 | NOK | CPI (MoM) (Jul) | 0.4% | 0.7% | 0.6% |
-| 14:00 | NOK | PPI (YoY) (Jul) | -35.4% | -46.7% | -28.5% |
-| 16:00 | EUR | Italian CPI (YoY) (Jul) | 5.9% | 6.0% | 6.4% |
-| 16:00 | EUR | Italian CPI (MoM) (Jul) | 0.0% | 0.1% | 0.0% |
-| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 5.7% | 6.1% | 6.0% |
-| 16:00 | EUR | Italian HICP (YoY) (Jul) | 6.3% | 6.4% | 6.7% |
-| 16:00 | EUR | Italian HICP (MoM) (Jul) | -1.6% | -1.5% | 0.1% |
-| 17:30 | ZAR | Gold Production (YoY) (Jun) | 28.5% | 4.8% | 27.9% |
-| 17:30 | ZAR | Mining Production (Jun) | 1.1% | -0.2% | -0.7% |
-| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) | 50.2 |  | 46.7 |
-| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Aug) | 45.75 |  | 44.15 |
-| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Aug) | 48.80 |  | 46.86 |
-| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Aug) | 43.82 |  | 41.31 |
-| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 49.82 |  | 46.12 |
-| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 40.56 |  | 40.58 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Jun) | 5.5% | 3.0% | 2.4% |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Jun) | 1.2% | 0.7% | -1.3% |
-| 19:30 | INR | M3 Money Supply | 10.6% |  | 11.4% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jun) | 0.2% | 0.1% | 1.4% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jun) | 4.1% | 3.7% | 5.0% |
-| 20:30 | USD | Continuing Jobless Claims | 1,684K | 1,710K | 1,692K |
-| 20:30 | USD | Core CPI Index (Jul) | 308.80 | 308.33 | 308.31 |
-| 20:30 | USD | CPI Index, n.s.a. (Jul) | 305.69 | 305.84 | 305.11 |
-| 20:30 | USD | CPI Index, s.a (Jul) | 304.35 |  | 303.84 |
-| 20:30 | USD | CPI, n.s.a (MoM) (Jul) | 0.19% |  | 0.32% |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 231.00K | 231.01K | 228.25K |
-| 20:30 | USD | Real Earnings (MoM) (Jul) | 0.0% | -0.1% | 0.6% |
-| 22:30 | USD | Natural Gas Storage | 29B | 25B | 14B |
-| 23:00 | USD | Cleveland CPI (MoM) (Jul) | 0.2% | 0.4% | 0.4% |
-| 13 min | USD | 4-Week Bill Auction |  |  | 5.275% |
-| 13 min | USD | 8-Week Bill Auction |  |  | 5.285% |
+| 40 min | USD | 30-Year Bond Auction |  |  | 3.910% |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
+| 07:45 | NZD | FPI (MoM) |  | 2.1% | 1.6% |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 08:00 | SGD | GDP (QoQ) |  | 0.3% | -0.4% |
+| 08:00 | SGD | GDP (YoY) |  | 0.7% | 0.4% |
+| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.70 |
+| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 56.82 |
+| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.05 |
+| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 38.87 |
+| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 77.32 |
+| 11:00 | KRW | M3 Money Supply (Jun) |  |  | 5,147.7B |
+| 11:00 | KRW | M2 Money supply (Jun) |  | 3.10% | 2.10% |
+| 11:00 | IDR | Car Sales (YoY) |  |  | 4.70% |
+| 13:30 | EUR | French Unemployment Rate (Q2) |  | 7.1% | 7.1% |
+| 14:00 | GBP | Business Investment (YoY) (Q2) |  | 8.1% | 5.8% |
+| 14:00 | GBP | U.K. Construction Output (YoY) |  | 1.9% | 0.2% |
+| 14:00 | GBP | GDP (YoY) (Jun) |  | 0.5% | -0.4% |
+| 14:00 | GBP | Index of Services |  | 0.0% | 0.0% |
+| 14:00 | GBP | Industrial Production (YoY) (Jun) |  | -1.1% | -2.3% |
+| 14:00 | GBP | Manufacturing Production (YoY) (Jun) |  | 0.3% | -1.2% |
+| 14:45 | EUR | CPI NSA (MoM) (Jul) |  |  | 0.20% |
+| 14:45 | EUR | CPI NSA (YoY) (Jul) |  |  | 4.30% |
+| 14:45 | EUR | French CPI (YoY) |  | 4.3% | 4.5% |
+| 14:45 | EUR | French HICP (YoY) (Jul) |  | 5.3% | 5.0% |
+| 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 4.40% |
+| 15:00 | EUR | Core CPI (YoY) (Jul) |  |  | 5.9% |
+| 15:00 | EUR | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
+| 15:00 | EUR | Spanish HICP (MoM) (Jul) |  | -0.1% | 0.6% |
+| 15:00 | CNY | M2 Money Stock (YoY) |  |  | 11.3% |
+| 15:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 11.3% |
+| 15:00 | CNY | Chinese Total Social Financing |  |  | 4,220.0B |
+| 16:00 | EUR | Italian Trade Balance (Jun) |  | 6.489B | 4.711B |
+| 16:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.27B |
+| 16:30 | HKD | GDP (QoQ) (Q2) |  |  | 5.3% |
+| 16:30 | HKD | GDP (YoY) (Q2) |  | 1.5% | 2.9% |
+| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 19:30 | INR | Bank Loan Growth |  | 18.4% | 20.2% |
+| 19:30 | INR | Deposit Growth |  | 13.1% | 13.2% |
+| 19:30 | INR | FX Reserves, USD |  | 604.13B | 603.87B |
+| 20:00 | MXN | Industrial Production (MoM) (Jun) |  | 0.1% | 1.0% |
+| 20:00 | MXN | Industrial Production (YoY) (Jun) |  | 2.8% | 3.9% |
+| 20:00 | INR | Cumulative Industrial Production (Jun) |  | 5.00% | 4.80% |
+| 20:00 | INR | Industrial Production (YoY) (Jun) |  | 1.0% | 5.2% |
+| 20:00 | INR | Manufacturing Output (MoM) (Jun) |  | 1.7% | 5.7% |
+| 20:00 | BRL | IBC-Br Economic Activity (Jun) |  | 0.60% | -2.00% |
+| 20:00 | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
+| 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
+| 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
+| 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
+| 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.8 | 76.6 |
