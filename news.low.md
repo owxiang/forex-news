@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | 30-Year Bond Auction |  |  | 3.910% |
+| 01:01 | USD | 30-Year Bond Auction | 4.189% |  | 3.910% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.217T |
 | 07:45 | NZD | FPI (MoM) |  | 2.1% | 1.6% |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 08:00 | SGD | GDP (QoQ) |  | 0.3% | -0.4% |
 | 08:00 | SGD | GDP (YoY) |  | 0.7% | 0.4% |
+| 08:00 | SGD | GDP (QoQ) |  | 0.3% | -0.4% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.70 |
 | 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 56.82 |
 | 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.05 |
@@ -51,8 +51,8 @@
 | 20:00 | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
 | 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
 | 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
 | 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.8 | 76.6 |

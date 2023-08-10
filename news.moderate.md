@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Federal Budget Balance (Jul) |  | -109.3B | -228.0B |
+| 47 min | USD | Federal Budget Balance (Jul) |  | -109.3B | -228.0B |
 | 03:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 03:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 03:00 | MXN | Interest Rate Decision (Aug) |  | 11.25% | 11.25% |
