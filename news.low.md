@@ -15,11 +15,11 @@
 | 14:00 | NOK | CPI (YoY) (Jul) | 5.4% | 5.7% | 6.4% |
 | 14:00 | NOK | CPI (MoM) (Jul) | 0.4% | 0.7% | 0.6% |
 | 14:00 | NOK | PPI (YoY) (Jul) | -35.4% | -46.7% | -28.5% |
-| 46 min | EUR | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
-| 46 min | EUR | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
-| 46 min | EUR | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
-| 46 min | EUR | Italian HICP (YoY) (Jul) |  | 6.4% | 6.7% |
-| 46 min | EUR | Italian HICP (MoM) (Jul) |  | -1.5% | 0.1% |
+| 16:00 | EUR | Italian CPI (YoY) (Jul) | 5.9% | 6.0% | 6.4% |
+| 16:00 | EUR | Italian CPI (MoM) (Jul) | 0.0% | 0.1% | 0.0% |
+| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jul) | 5.7% | 6.1% | 6.0% |
+| 16:00 | EUR | Italian HICP (MoM) (Jul) | -1.6% | -1.5% | 0.1% |
+| 16:00 | EUR | Italian HICP (YoY) (Jul) | 6.3% | 6.4% | 6.7% |
 | 17:30 | ZAR | Gold Production (YoY) (Jun) |  | 4.8% | 27.3% |
 | 17:30 | ZAR | Mining Production (Jun) |  | -0.2% | -0.8% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Aug) |  |  | 46.7 |
