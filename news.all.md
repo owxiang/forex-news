@@ -5,12 +5,11 @@
 | 01:00 | USD | Moderate | 10-Year Note Auction | 3.999% |  | 3.857% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 1.600B | 2.187B | 2.126B |
 | 07:01 | GBP | Moderate | RICS House Price Balance (Jul) | -53% | -50% | -48% |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 208.9B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 196.0B |
-| 35 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 35 min | JPY | Low | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
-| 35 min | JPY | Low | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
-| 09:00 | AUD | Low | MI Inflation Expectations |  |  | 5.2% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 438.8B |  | 211.7B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -59.4B |  | 195.7B |
+| 07:50 | JPY | Low | PPI (MoM) (Jul) | 0.1% | 0.2% | -0.1% |
+| 07:50 | JPY | Low | PPI (YoY) (Jul) | 3.6% | 3.5% | 4.3% |
+| 09:00 | AUD | Low | MI Inflation Expectations | 4.9% |  | 5.2% |
 | 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
 | 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
@@ -43,8 +42,8 @@
 | 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.7% | 4.8% |
 | 20:30 | USD | Low | Core CPI Index (Jul) |  | 308.33 | 308.31 |
-| 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Jul) |  | 3.3% | 3.0% |
+| 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Jul) |  | 305.81 | 305.11 |
 | 20:30 | USD | Low | CPI Index, s.a (Jul) |  |  | 303.84 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Jul) |  |  | 0.32% |

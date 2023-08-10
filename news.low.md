@@ -3,12 +3,11 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 1.600B | 2.187B | 2.126B |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 208.9B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 196.0B |
-| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 35 min | JPY | PPI (MoM) (Jul) |  | 0.2% | -0.2% |
-| 35 min | JPY | PPI (YoY) (Jul) |  | 3.5% | 4.1% |
-| 09:00 | AUD | MI Inflation Expectations |  |  | 5.2% |
+| 07:50 | JPY | Foreign Bonds Buying | 438.8B |  | 211.7B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | -59.4B |  | 195.7B |
+| 07:50 | JPY | PPI (MoM) (Jul) | 0.1% | 0.2% | -0.1% |
+| 07:50 | JPY | PPI (YoY) (Jul) | 3.6% | 3.5% | 4.3% |
+| 09:00 | AUD | MI Inflation Expectations | 4.9% |  | 5.2% |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 14:00 | NOK | Core CPI YTD (Jul) |  | 6.3% | 7.0% |
