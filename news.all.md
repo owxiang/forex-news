@@ -10,14 +10,14 @@
 | 07:50 | JPY | Low | PPI (MoM) (Jul) | 0.1% | 0.2% | -0.1% |
 | 07:50 | JPY | Low | PPI (YoY) (Jul) | 3.6% | 3.5% | 4.3% |
 | 09:00 | AUD | Low | MI Inflation Expectations | 4.9% |  | 5.2% |
-| 12 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 12 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 12 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 14:00 | NOK | Low | Core CPI YTD (Jul) |  | 6.3% | 7.0% |
-| 14:00 | NOK | Low | Core Inflation (MoM) (Jul) |  | 0.8% | 0.9% |
-| 14:00 | NOK | Low | CPI (MoM) (Jul) |  | 0.7% | 0.6% |
-| 14:00 | NOK | Low | CPI (YoY) (Jul) |  | 5.7% | 6.4% |
-| 14:00 | NOK | Low | PPI (YoY) (Jul) |  | -46.7% | -28.5% |
+| 12:30 | INR | Low | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
+| 12:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
+| 46 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 46 min | NOK | Low | Core CPI YTD (Jul) |  | 6.3% | 7.0% |
+| 46 min | NOK | Low | Core Inflation (MoM) (Jul) |  | 0.8% | 0.9% |
+| 46 min | NOK | Low | CPI (MoM) (Jul) |  | 0.7% | 0.6% |
+| 46 min | NOK | Low | CPI (YoY) (Jul) |  | 5.7% | 6.4% |
+| 46 min | NOK | Low | PPI (YoY) (Jul) |  | -46.7% | -28.5% |
 | 16:00 | EUR | Low | Italian CPI (YoY) (Jul) |  | 6.0% | 6.4% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Jul) |  | 0.1% | 0.0% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jul) |  |  | 6.0% |
@@ -36,11 +36,11 @@
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jun) |  | 3.0% | 2.5% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jun) |  | 0.7% | -1.3% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.7% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jun) |  | 0.1% | 0.9% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jun) |  | 3.7% | 4.7% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,710K | 1,700K |
-| 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Jul) |  | 4.8% | 4.8% |
+| 20:30 | USD | High | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Low | Core CPI Index (Jul) |  | 308.33 | 308.31 |
 | 20:30 | USD | High | CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Jul) |  | 3.3% | 3.0% |
