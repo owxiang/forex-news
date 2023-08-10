@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 47 min | USD | Federal Budget Balance (Jul) |  | -109.3B | -228.0B |
-| 03:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 03:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 03:00 | MXN | Interest Rate Decision (Aug) |  | 11.25% | 11.25% |
+| 02:00 | USD | Federal Budget Balance (Jul) | -221.0B | -109.3B | -228.0B |
+| 41 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 41 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 41 min | MXN | Interest Rate Decision (Aug) |  | 11.25% | 11.25% |
 | 04:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 8,207B |
 | 06:30 | NZD | Business NZ PMI (Jul) |  | 49.4 | 47.5 |
