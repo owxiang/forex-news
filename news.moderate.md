@@ -7,8 +7,9 @@
 | 03:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 03:00 | MXN | Interest Rate Decision (Aug) | 11.25% | 11.25% | 11.25% |
 | 04:15 | USD | FOMC Member Harker Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet |  |  | 8,207B |
+| 15 min | USD | Fed's Balance Sheet |  |  | 8,207B |
 | 06:30 | NZD | Business NZ PMI (Jul) |  | 49.4 | 47.5 |
+| 07:30 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
 | 14:00 | GBP | Business Investment (QoQ) (Q2) |  | 0.8% | 3.3% |
 | 14:00 | GBP | Industrial Production (MoM) (Jun) |  | 0.0% | -0.6% |
 | 14:00 | GBP | Manufacturing Production (MoM) (Jun) |  | 0.2% | -0.2% |
