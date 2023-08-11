@@ -22,9 +22,9 @@
 | 15:00 | EUR | Spanish HICP (YoY) (Jul) | 2.1% | 2.1% | 1.6% |
 | 16:00 | USD | IEA Monthly Report |  |  |  |
 | 16:30 | CNY | New Loans (Jul) | 345.9B | 800.0B | 3,050.0B |
-| 48 min | BRL | CPI (YoY) (Jul) |  | 3.93% | 3.16% |
-| 20:30 | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.1% |
-| 21:00 | GBP | NIESR GDP Estimate |  |  | 0.0% |
+| 20:00 | BRL | CPI (YoY) (Jul) | 3.99% | 3.93% | 3.16% |
+| 2 min | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.1% |
+| 32 min | GBP | NIESR GDP Estimate |  |  | 0.0% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 3.0% | 3.0% |
 | 22:00 | USD | Michigan Consumer Expectations (Aug) |  | 68.1 | 68.3 |
 | 22:00 | USD | Michigan Consumer Sentiment (Aug) |  | 71.0 | 71.6 |

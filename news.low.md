@@ -37,20 +37,19 @@
 | 16:30 | CNY | Chinese Total Social Financing (Jul) | 528.2B | 1,100.0B | 4,220.0B |
 | 16:30 | HKD | GDP (YoY) (Q2) | 1.5% | 1.5% | 2.9% |
 | 16:30 | HKD | GDP (QoQ) (Q2) | -1.3% | -1.3% | 5.3% |
-| 18 min | INR | Bank Loan Growth |  | 18.4% | 20.2% |
-| 18 min | INR | Deposit Growth |  | 13.1% | 13.2% |
-| 18 min | INR | FX Reserves, USD |  | 604.13B | 603.87B |
-| 48 min | MXN | Industrial Production (YoY) (Jun) |  | 2.8% | 3.9% |
-| 48 min | MXN | Industrial Production (MoM) (Jun) |  | 0.1% | 1.0% |
-| 48 min | INR | Cumulative Industrial Production (Jun) |  | 5.00% | 4.80% |
-| 48 min | INR | Industrial Production (YoY) (Jun) |  | 5.0% | 5.2% |
-| 48 min | INR | Manufacturing Output (MoM) (Jun) |  | 1.7% | 5.7% |
-| 48 min | BRL | IBC-Br Economic Activity (Jun) |  | 0.60% | -2.00% |
-| 48 min | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
-| 48 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
-| 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
-| 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
-| 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
+| 20:00 | MXN | Industrial Production (MoM) (Jun) | 0.6% | 0.1% | 0.9% |
+| 20:00 | MXN | Industrial Production (YoY) (Jun) | 3.7% | 2.8% | 3.9% |
+| 20:00 | INR | Cumulative Industrial Production (Jun) | 4.50% | 5.00% | 4.80% |
+| 20:00 | INR | Industrial Production (YoY) (Jun) | 3.7% | 5.0% | 5.2% |
+| 20:00 | INR | Manufacturing Output (MoM) (Jun) | 3.1% | 1.7% | 5.7% |
+| 20:00 | BRL | CPI (MoM) (Jul) | 0.12% | 0.07% | -0.08% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.19% | 0.60% | -0.02% |
+| 2 min | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
+| 2 min | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
+| 2 min | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
+| 2 min | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
+| 32 min | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
+| 21:30 | INR | Bank Loan Growth |  | 18.4% | 20.2% |
+| 21:30 | INR | Deposit Growth |  | 13.1% | 13.2% |
+| 21:30 | INR | FX Reserves, USD |  | 604.13B | 603.87B |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.9 | 76.6 |
