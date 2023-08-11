@@ -25,7 +25,7 @@
 | 20:00 | BRL | CPI (YoY) (Jul) | 3.99% | 3.93% | 3.16% |
 | 20:30 | USD | Core PPI (MoM) (Jul) | 0.3% | 0.2% | -0.1% |
 | 21:00 | GBP | NIESR GDP Estimate | 0.3% |  | 0.0% |
-| 43 min | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 3.0% | 3.0% |
-| 43 min | USD | Michigan Consumer Expectations (Aug) |  | 68.1 | 68.3 |
-| 43 min | USD | Michigan Consumer Sentiment (Aug) |  | 71.0 | 71.6 |
-| 43 min | USD | Michigan Inflation Expectations (Aug) |  | 3.8% | 3.4% |
+| 22:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 2.9% | 3.0% | 3.0% |
+| 22:00 | USD | Michigan Consumer Expectations (Aug) | 67.3 | 68.1 | 68.3 |
+| 22:00 | USD | Michigan Consumer Sentiment (Aug) | 71.2 | 71.0 | 71.6 |
+| 22:00 | USD | Michigan Inflation Expectations (Aug) | 3.3% | 3.8% | 3.4% |
