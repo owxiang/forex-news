@@ -16,14 +16,14 @@
 | 11:00 | KRW | M2 Money supply (Jun) | 2.90% | 3.10% | 2.20% |
 | 13:30 | EUR | French Unemployment Rate (Q2) | 7.2% | 7.1% | 7.1% |
 | 14:00 | GBP | Business Investment (YoY) (Q2) | 6.7% | 8.1% | 5.8% |
-| 14:00 | GBP | Construction Output (MoM) (Jun) | 1.6% |  | -0.3% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Jun) | 4.6% | 1.9% | 0.2% |
-| 14:00 | GBP | GDP (YoY) (Jun) | 0.9% | 0.5% | -0.4% |
+| 14:00 | GBP | Construction Output (MoM) (Jun) | 1.6% |  | -0.3% |
+| 14:00 | GBP | GDP (YoY) (Jun) | 0.9% | 0.5% | -0.3% |
 | 14:00 | GBP | Index of Services | 0.1% | 0.0% | 0.0% |
 | 14:00 | GBP | Industrial Production (YoY) (Jun) | 0.7% | -1.1% | -2.1% |
 | 14:00 | GBP | Manufacturing Production (YoY) (Jun) | 3.1% | 0.3% | -0.6% |
-| 14:45 | EUR | CPI NSA (YoY) (Jul) | 4.30% |  | 4.30% |
 | 14:45 | EUR | CPI NSA (MoM) (Jul) | 0.10% |  | 0.20% |
+| 14:45 | EUR | CPI NSA (YoY) (Jul) | 4.30% |  | 4.30% |
 | 14:45 | EUR | French CPI (YoY) | 4.3% | 4.3% | 4.5% |
 | 14:45 | EUR | French HICP (YoY) (Jul) | 5.1% | 5.0% | 5.3% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 4.20% |  | 4.40% |
@@ -49,8 +49,8 @@
 | 20:00 | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
 | 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
 | 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
 | 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.9 | 76.6 |
