@@ -1,31 +1,16 @@
-## 11 August 2023 - Moderate Impact Forex News
+## 12 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Federal Budget Balance (Jul) | -221.0B | -109.3B | -228.0B |
-| 03:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 03:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 03:00 | MXN | Interest Rate Decision (Aug) | 11.25% | 11.25% | 11.25% |
-| 04:15 | USD | FOMC Member Harker Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet | 8,208B |  | 8,207B |
-| 06:30 | NZD | Business NZ PMI (Jul) | 46.3 | 49.4 | 47.5 |
-| 07:30 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
-| 14:00 | GBP | Business Investment (QoQ) (Q2) | 3.4% | 0.8% | 3.3% |
-| 14:00 | GBP | Industrial Production (MoM) (Jun) | 1.8% | 0.1% | -0.6% |
-| 14:00 | GBP | Manufacturing Production (MoM) (Jun) | 2.4% | 0.2% | -0.1% |
-| 14:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.2% | 0.0% | 0.1% |
-| 14:00 | GBP | Trade Balance (Jun) | -15.46B | -16.40B | -18.41B |
-| 14:00 | GBP | Trade Balance Non-EU (Jun) | -2.77B | -6.39B | -6.62B |
-| 14:45 | EUR | French CPI (MoM) (Jul) | 0.1% | 0.0% | 0.2% |
-| 14:45 | EUR | French HICP (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
-| 15:00 | EUR | Spanish CPI (YoY) (Jul) | 2.3% | 2.3% | 1.9% |
-| 15:00 | EUR | Spanish HICP (YoY) (Jul) | 2.1% | 2.1% | 1.6% |
-| 16:00 | USD | IEA Monthly Report |  |  |  |
-| 16:30 | CNY | New Loans (Jul) | 345.9B | 800.0B | 3,050.0B |
-| 20:00 | BRL | CPI (YoY) (Jul) | 3.99% | 3.93% | 3.16% |
-| 20:30 | USD | Core PPI (MoM) (Jul) | 0.3% | 0.2% | -0.1% |
-| 21:00 | GBP | NIESR GDP Estimate | 0.3% |  | 0.0% |
-| 22:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 2.9% | 3.0% | 3.0% |
-| 22:00 | USD | Michigan Consumer Expectations (Aug) | 67.3 | 68.1 | 68.3 |
-| 22:00 | USD | Michigan Consumer Sentiment (Aug) | 71.2 | 71.0 | 71.6 |
-| 22:00 | USD | Michigan Inflation Expectations (Aug) | 3.3% | 3.8% | 3.4% |
+| 00:00 | USD | WASDE Report |  |  |  |
+| 42 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 525 |
+| 42 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 659 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 49.6K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 241.9K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 164.9K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -11.4K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -200.0K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -51.8K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 33.4K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -79.2K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 172.1K |
