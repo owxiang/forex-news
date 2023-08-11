@@ -10,12 +10,12 @@
 | 04:30 | USD | Fed's Balance Sheet | 8,208B |  | 8,207B |
 | 06:30 | NZD | Business NZ PMI (Jul) | 46.3 | 49.4 | 47.5 |
 | 07:30 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
-| 14:00 | GBP | Business Investment (QoQ) (Q2) |  | 0.8% | 3.3% |
-| 14:00 | GBP | Industrial Production (MoM) (Jun) |  | 0.1% | -0.6% |
-| 14:00 | GBP | Manufacturing Production (MoM) (Jun) |  | 0.2% | -0.2% |
-| 14:00 | GBP | Monthly GDP 3M/3M Change (Jun) |  | 0.0% | 0.0% |
-| 14:00 | GBP | Trade Balance (Jun) |  | -16.40B | -18.72B |
-| 14:00 | GBP | Trade Balance Non-EU (Jun) |  | -6.39B | -6.76B |
+| 46 min | GBP | Business Investment (QoQ) (Q2) |  | 0.8% | 3.3% |
+| 46 min | GBP | Industrial Production (MoM) (Jun) |  | 0.1% | -0.6% |
+| 46 min | GBP | Manufacturing Production (MoM) (Jun) |  | 0.2% | -0.2% |
+| 46 min | GBP | Monthly GDP 3M/3M Change (Jun) |  | 0.0% | 0.0% |
+| 46 min | GBP | Trade Balance (Jun) |  | -16.40B | -18.72B |
+| 46 min | GBP | Trade Balance Non-EU (Jun) |  | -6.39B | -6.76B |
 | 14:45 | EUR | French CPI (MoM) (Jul) |  | 0.0% | 0.2% |
 | 14:45 | EUR | French HICP (MoM) (Jul) |  | 0.0% | 0.2% |
 | 15:00 | EUR | Spanish CPI (YoY) (Jul) |  | 2.3% | 1.9% |
