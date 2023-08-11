@@ -25,8 +25,8 @@
 | 13:30 | EUR | Low | French Unemployment Rate (Q2) | 7.2% | 7.1% | 7.1% |
 | 14:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | 3.4% | 0.8% | 3.3% |
 | 14:00 | GBP | Low | Business Investment (YoY) (Q2) | 6.7% | 8.1% | 5.8% |
-| 14:00 | GBP | Low | Construction Output (MoM) (Jun) | 1.6% |  | -0.3% |
 | 14:00 | GBP | Low | U.K. Construction Output (YoY) (Jun) | 4.6% | 1.9% | 0.2% |
+| 14:00 | GBP | Low | Construction Output (MoM) (Jun) | 1.6% |  | -0.3% |
 | 14:00 | GBP | High | GDP (QoQ) (Q2) | 0.2% | 0.0% | 0.1% |
 | 14:00 | GBP | High | GDP (YoY) (Q2) | 0.4% | 0.2% | 0.2% |
 | 14:00 | GBP | High | GDP (MoM) (Jun) | 0.5% | 0.2% | -0.1% |
@@ -43,14 +43,14 @@
 | 14:45 | EUR | Low | CPI NSA (YoY) (Jul) | 4.30% |  | 4.30% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Jul) | 0.1% | 0.0% | 0.2% |
 | 14:45 | EUR | Low | French CPI (YoY) | 4.3% | 4.3% | 4.5% |
-| 14:45 | EUR | Low | French HICP (YoY) (Jul) | 5.1% | 5.0% | 5.3% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
+| 14:45 | EUR | Low | French HICP (YoY) (Jul) | 5.1% | 5.0% | 5.3% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jul) | 4.20% |  | 4.40% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Jul) | 6.2% |  | 5.9% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Jul) | 0.2% | 0.1% | 0.6% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Jul) | 2.3% | 2.3% | 1.9% |
-| 15:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.1% | 0.6% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Jul) | 2.1% | 2.1% | 1.6% |
+| 15:00 | EUR | Low | Spanish HICP (MoM) (Jul) | -0.1% | -0.1% | 0.6% |
 | 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 16:00 | EUR | Low | Italian Trade Balance (Jun) | 7.718B | 6.489B | 4.767B |
 | 16:00 | EUR | Low | Italian Trade Balance EU (Jun) | -1.73B |  | 0.32B |
@@ -58,8 +58,11 @@
 | 16:30 | CNY | Moderate | New Loans (Jul) | 345.9B | 800.0B | 3,050.0B |
 | 16:30 | CNY | Low | Outstanding Loan Growth (YoY) (Jul) | 11.1% | 11.3% | 11.3% |
 | 16:30 | CNY | Low | Chinese Total Social Financing (Jul) | 528.2B | 1,100.0B | 4,220.0B |
-| 16:30 | HKD | Low | GDP (YoY) (Q2) | 1.5% | 1.5% | 2.9% |
 | 16:30 | HKD | Low | GDP (QoQ) (Q2) | -1.3% | -1.3% | 5.3% |
+| 16:30 | HKD | Low | GDP (YoY) (Q2) | 1.5% | 1.5% | 2.9% |
+| 19:30 | INR | Low | Bank Loan Growth | 19.7% | 18.4% | 20.2% |
+| 19:30 | INR | Low | Deposit Growth | 12.9% | 13.1% | 13.2% |
+| 19:30 | INR | Low | FX Reserves, USD | 601.45B | 604.13B | 603.87B |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Jun) | 0.6% | 0.1% | 0.9% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Jun) | 3.7% | 2.8% | 3.9% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Jun) | 4.50% | 5.00% | 4.80% |
@@ -68,19 +71,16 @@
 | 20:00 | BRL | Moderate | CPI (YoY) (Jul) | 3.99% | 3.93% | 3.16% |
 | 20:00 | BRL | Low | CPI (MoM) (Jul) | 0.12% | 0.07% | -0.08% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.19% | 0.60% | -0.02% |
-| 2 min | USD | Low | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
-| 2 min | USD | Moderate | Core PPI (MoM) (Jul) |  | 0.2% | 0.1% |
-| 2 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
-| 2 min | USD | High | PPI (MoM) (Jul) |  | 0.2% | 0.1% |
-| 2 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
-| 2 min | USD | Low | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
-| 32 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.0% |
-| 32 min | EUR | Low | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
-| 21:30 | INR | Low | Bank Loan Growth |  | 18.4% | 20.2% |
-| 21:30 | INR | Low | Deposit Growth |  | 13.1% | 13.2% |
-| 21:30 | INR | Low | FX Reserves, USD |  | 604.13B | 603.87B |
-| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  | 3.0% | 3.0% |
-| 22:00 | USD | Moderate | Michigan Consumer Expectations (Aug) |  | 68.1 | 68.3 |
-| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) |  | 71.0 | 71.6 |
-| 22:00 | USD | Low | Michigan Current Conditions (Aug) |  | 76.9 | 76.6 |
-| 22:00 | USD | Moderate | Michigan Inflation Expectations (Aug) |  | 3.8% | 3.4% |
+| 20:30 | USD | Moderate | Core PPI (MoM) (Jul) | 0.3% | 0.2% | -0.1% |
+| 20:30 | USD | Low | Core PPI (YoY) (Jul) | 2.4% | 2.3% | 2.4% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jul) | 0.2% | 0.1% | 0.1% |
+| 20:30 | USD | High | PPI (MoM) (Jul) | 0.3% | 0.2% | 0.0% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jul) | 2.7% |  | 2.7% |
+| 20:30 | USD | Low | PPI (YoY) (Jul) | 0.8% | 0.7% | 0.2% |
+| 21:00 | GBP | Moderate | NIESR GDP Estimate | 0.3% |  | 0.0% |
+| 21:00 | EUR | Low | German Current Account Balance n.s.a (Jun) | 29.6B | 15.1B | 8.2B |
+| 43 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  | 3.0% | 3.0% |
+| 43 min | USD | Moderate | Michigan Consumer Expectations (Aug) |  | 68.1 | 68.3 |
+| 43 min | USD | Moderate | Michigan Consumer Sentiment (Aug) |  | 71.0 | 71.6 |
+| 43 min | USD | Low | Michigan Current Conditions (Aug) |  | 76.9 | 76.6 |
+| 43 min | USD | Moderate | Michigan Inflation Expectations (Aug) |  | 3.8% | 3.4% |
