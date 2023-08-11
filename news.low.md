@@ -44,7 +44,7 @@
 | 20:00 | MXN | Industrial Production (MoM) (Jun) | 0.6% | 0.1% | 0.9% |
 | 20:00 | INR | Cumulative Industrial Production (Jun) | 4.50% | 5.00% | 4.80% |
 | 20:00 | INR | Industrial Production (YoY) (Jun) | 3.7% | 5.0% | 5.2% |
-| 20:00 | INR | Manufacturing Output (MoM) (Jun) | 3.1% | 1.7% | 5.7% |
+| 20:00 | INR | Manufacturing Output (MoM) (Jun) | 3.1% | 1.7% | 5.8% |
 | 20:00 | BRL | CPI (MoM) (Jul) | 0.12% | 0.07% | -0.08% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) | 0.19% | 0.60% | -0.02% |
 | 20:30 | USD | Core PPI (YoY) (Jul) | 2.4% | 2.3% | 2.4% |
