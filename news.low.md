@@ -7,18 +7,18 @@
 | 06:45 | NZD | FPI (MoM) (Jun) | -0.5% | 2.1% | 0.3% |
 | 08:00 | SGD | GDP (YoY) | 0.5% | 0.7% | 0.4% |
 | 08:00 | SGD | GDP (QoQ) | 0.1% | 0.3% | -0.4% |
-| 56 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.70 |
-| 56 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 56.82 |
-| 56 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.05 |
-| 56 min | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 38.87 |
-| 56 min | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 77.32 |
-| 11:00 | KRW | M3 Money Supply (Jun) |  |  | 5,147.7B |
-| 11:00 | KRW | M2 Money supply (Jun) |  | 3.10% | 2.10% |
-| 11:00 | IDR | Car Sales (YoY) |  |  | 4.70% |
+| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 38.83 |  | 41.70 |
+| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 59.95 |  | 56.82 |
+| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) | 48.06 |  | 48.05 |
+| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) | 38.25 |  | 38.87 |
+| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) | 69.97 |  | 77.32 |
+| 42 min | KRW | M3 Money Supply (Jun) |  |  | 5,147.7B |
+| 42 min | KRW | M2 Money supply (Jun) |  | 3.10% | 2.10% |
+| 42 min | IDR | Car Sales (YoY) |  |  | 4.70% |
 | 13:30 | EUR | French Unemployment Rate (Q2) |  | 7.1% | 7.1% |
 | 14:00 | GBP | Business Investment (YoY) (Q2) |  | 8.1% | 5.8% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | 1.9% | 0.2% |
 | 14:00 | GBP | Construction Output (MoM) (Jun) |  |  | -0.2% |
+| 14:00 | GBP | U.K. Construction Output (YoY) (Jun) |  | 1.9% | 0.2% |
 | 14:00 | GBP | GDP (YoY) (Jun) |  | 0.5% | -0.4% |
 | 14:00 | GBP | Index of Services |  | 0.0% | 0.0% |
 | 14:00 | GBP | Industrial Production (YoY) (Jun) |  | -1.1% | -2.3% |
@@ -36,8 +36,8 @@
 | 15:00 | CNY | Chinese Total Social Financing |  |  | 4,220.0B |
 | 16:00 | EUR | Italian Trade Balance (Jun) |  | 6.489B | 4.711B |
 | 16:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.27B |
-| 16:30 | HKD | GDP (QoQ) (Q2) |  |  | 5.3% |
 | 16:30 | HKD | GDP (YoY) (Q2) |  | 1.5% | 2.9% |
+| 16:30 | HKD | GDP (QoQ) (Q2) |  |  | 5.3% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | Bank Loan Growth |  | 18.4% | 20.2% |
 | 19:30 | INR | Deposit Growth |  | 13.1% | 13.2% |
@@ -51,8 +51,8 @@
 | 20:00 | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
 | 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
+| 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
-| 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
 | 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.8 | 76.6 |
