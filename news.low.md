@@ -32,11 +32,11 @@
 | 15:00 | EUR | Spanish HICP (MoM) (Jul) | -0.1% | -0.1% | 0.6% |
 | 16:00 | EUR | Italian Trade Balance (Jun) | 7.718B | 6.489B | 4.767B |
 | 16:00 | EUR | Italian Trade Balance EU (Jun) | -1.73B |  | 0.32B |
-| 12 min | HKD | GDP (QoQ) (Q2) |  |  | 5.3% |
-| 12 min | HKD | GDP (YoY) (Q2) |  | 1.5% | 2.9% |
-| 18:00 | CNY | M2 Money Stock (YoY) |  | 11.0% | 11.3% |
-| 18:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.3% | 11.3% |
-| 18:00 | CNY | Chinese Total Social Financing |  | 1,100.0B | 4,220.0B |
+| 16:30 | CNY | M2 Money Stock (YoY) (Jul) | 10.7% | 11.0% | 11.3% |
+| 16:30 | CNY | Outstanding Loan Growth (YoY) (Jul) | 11.1% | 11.3% | 11.3% |
+| 16:30 | CNY | Chinese Total Social Financing (Jul) | 528.2B | 1,100.0B | 4,220.0B |
+| 16:30 | HKD | GDP (YoY) (Q2) | 1.5% | 1.5% | 2.9% |
+| 16:30 | HKD | GDP (QoQ) (Q2) | -1.3% | -1.3% | 5.3% |
 | 19:30 | INR | Bank Loan Growth |  | 18.4% | 20.2% |
 | 19:30 | INR | Deposit Growth |  | 13.1% | 13.2% |
 | 19:30 | INR | FX Reserves, USD |  | 604.13B | 603.87B |
@@ -49,8 +49,8 @@
 | 20:00 | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
 | 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
+| 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
-| 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
 | 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.9 | 76.6 |
