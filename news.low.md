@@ -13,4 +13,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 83.7K |  | 88.5K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -5.5K |  | -8.7K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -0.4K |  | 1.6K |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
+| 36 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
