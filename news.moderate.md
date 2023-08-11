@@ -16,12 +16,12 @@
 | 14:00 | GBP | Monthly GDP 3M/3M Change (Jun) | 0.2% | 0.0% | 0.1% |
 | 14:00 | GBP | Trade Balance (Jun) | -15.46B | -16.40B | -18.41B |
 | 14:00 | GBP | Trade Balance Non-EU (Jun) | -2.77B | -6.39B | -6.62B |
-| 26 min | EUR | French CPI (MoM) (Jul) |  | 0.0% | 0.2% |
-| 26 min | EUR | French HICP (MoM) (Jul) |  | 0.0% | 0.2% |
-| 41 min | EUR | Spanish CPI (YoY) (Jul) |  | 2.3% | 1.9% |
-| 41 min | EUR | Spanish HICP (YoY) (Jul) |  | 2.1% | 1.6% |
-| 41 min | CNY | New Loans |  | 800.0B | 3,050.0B |
-| 16:00 | USD | IEA Monthly Report |  |  |  |
+| 14:45 | EUR | French CPI (MoM) (Jul) | 0.1% | 0.0% | 0.2% |
+| 14:45 | EUR | French HICP (MoM) (Jul) | 0.0% | 0.0% | 0.2% |
+| 15:00 | EUR | Spanish CPI (YoY) (Jul) | 2.3% | 2.3% | 1.9% |
+| 15:00 | EUR | Spanish HICP (YoY) (Jul) | 2.1% | 2.1% | 1.6% |
+| 46 min | USD | IEA Monthly Report |  |  |  |
+| 46 min | CNY | New Loans |  | 800.0B | 3,050.0B |
 | 20:00 | BRL | CPI (YoY) (Jul) |  | 3.93% | 3.16% |
 | 20:30 | USD | Core PPI (MoM) (Jul) |  | 0.2% | 0.1% |
 | 21:00 | GBP | NIESR GDP Estimate |  |  | 0.0% |

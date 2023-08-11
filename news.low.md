@@ -16,33 +16,33 @@
 | 11:00 | KRW | M2 Money supply (Jun) | 2.90% | 3.10% | 2.20% |
 | 13:30 | EUR | French Unemployment Rate (Q2) | 7.2% | 7.1% | 7.1% |
 | 14:00 | GBP | Business Investment (YoY) (Q2) | 6.7% | 8.1% | 5.8% |
-| 14:00 | GBP | Construction Output (MoM) (Jun) | 1.6% |  | -0.3% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Jun) | 4.6% | 1.9% | 0.2% |
+| 14:00 | GBP | Construction Output (MoM) (Jun) | 1.6% |  | -0.3% |
 | 14:00 | GBP | GDP (YoY) (Jun) | 0.9% | 0.5% | -0.4% |
 | 14:00 | GBP | Index of Services | 0.1% | 0.0% | 0.0% |
 | 14:00 | GBP | Industrial Production (YoY) (Jun) | 0.7% | -1.1% | -2.1% |
 | 14:00 | GBP | Manufacturing Production (YoY) (Jun) | 3.1% | 0.3% | -0.6% |
-| 26 min | EUR | CPI NSA (YoY) (Jul) |  |  | 4.30% |
-| 26 min | EUR | CPI NSA (MoM) (Jul) |  |  | 0.20% |
-| 26 min | EUR | French CPI (YoY) |  | 4.3% | 4.5% |
-| 26 min | EUR | French HICP (YoY) (Jul) |  | 5.0% | 5.3% |
-| 26 min | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 4.40% |
-| 41 min | EUR | Core CPI (YoY) (Jul) |  |  | 5.9% |
-| 41 min | EUR | Spanish CPI (MoM) (Jul) |  | 0.1% | 0.6% |
-| 41 min | EUR | Spanish HICP (MoM) (Jul) |  | -0.1% | 0.6% |
-| 41 min | CNY | M2 Money Stock (YoY) |  | 11.0% | 11.3% |
-| 41 min | CNY | Outstanding Loan Growth (YoY) |  | 11.3% | 11.3% |
-| 41 min | CNY | Chinese Total Social Financing |  | 1,100.0B | 4,220.0B |
-| 16:00 | EUR | Italian Trade Balance (Jun) |  | 6.489B | 4.711B |
-| 16:00 | EUR | Italian Trade Balance EU (Jun) |  |  | 0.27B |
-| 16:30 | HKD | GDP (YoY) (Q2) |  | 1.5% | 2.9% |
+| 14:45 | EUR | CPI NSA (YoY) (Jul) | 4.30% |  | 4.30% |
+| 14:45 | EUR | CPI NSA (MoM) (Jul) | 0.10% |  | 0.20% |
+| 14:45 | EUR | French CPI (YoY) | 4.3% | 4.3% | 4.5% |
+| 14:45 | EUR | French HICP (YoY) (Jul) | 5.1% | 5.0% | 5.3% |
+| 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) | 4.20% |  | 4.40% |
+| 15:00 | EUR | Core CPI (YoY) (Jul) | 6.2% |  | 5.9% |
+| 15:00 | EUR | Spanish CPI (MoM) (Jul) | 0.2% | 0.1% | 0.6% |
+| 15:00 | EUR | Spanish HICP (MoM) (Jul) | -0.1% | -0.1% | 0.6% |
+| 46 min | EUR | Italian Trade Balance (Jun) |  | 6.489B | 4.711B |
+| 46 min | EUR | Italian Trade Balance EU (Jun) |  |  | 0.27B |
+| 46 min | CNY | M2 Money Stock (YoY) |  | 11.0% | 11.3% |
+| 46 min | CNY | Outstanding Loan Growth (YoY) |  | 11.3% | 11.3% |
+| 46 min | CNY | Chinese Total Social Financing |  | 1,100.0B | 4,220.0B |
 | 16:30 | HKD | GDP (QoQ) (Q2) |  |  | 5.3% |
+| 16:30 | HKD | GDP (YoY) (Q2) |  | 1.5% | 2.9% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | Bank Loan Growth |  | 18.4% | 20.2% |
 | 19:30 | INR | Deposit Growth |  | 13.1% | 13.2% |
 | 19:30 | INR | FX Reserves, USD |  | 604.13B | 603.87B |
-| 20:00 | MXN | Industrial Production (MoM) (Jun) |  | 0.1% | 1.0% |
 | 20:00 | MXN | Industrial Production (YoY) (Jun) |  | 2.8% | 3.9% |
+| 20:00 | MXN | Industrial Production (MoM) (Jun) |  | 0.1% | 1.0% |
 | 20:00 | INR | Cumulative Industrial Production (Jun) |  | 5.00% | 4.80% |
 | 20:00 | INR | Industrial Production (YoY) (Jun) |  | 5.0% | 5.2% |
 | 20:00 | INR | Manufacturing Output (MoM) (Jun) |  | 1.7% | 5.7% |
