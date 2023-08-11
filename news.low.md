@@ -5,14 +5,13 @@
 | 01:01 | USD | 30-Year Bond Auction | 4.189% |  | 3.910% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.217T |
 | 06:45 | NZD | FPI (MoM) (Jun) | -0.5% | 2.1% | 0.3% |
-| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
-| 45 min | SGD | GDP (QoQ) |  | 0.3% | -0.4% |
-| 45 min | SGD | GDP (YoY) |  | 0.7% | 0.4% |
-| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.70 |
-| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 56.82 |
-| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.05 |
-| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 38.87 |
-| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 77.32 |
+| 08:00 | SGD | GDP (YoY) | 0.5% | 0.7% | 0.4% |
+| 08:00 | SGD | GDP (QoQ) | 0.1% | 0.3% | -0.4% |
+| 56 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 41.70 |
+| 56 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 56.82 |
+| 56 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Aug) |  |  | 48.05 |
+| 56 min | JPY | Thomson Reuters IPSOS PCSI (Aug) |  |  | 38.87 |
+| 56 min | CNY | China Thomson Reuters IPSOS PCSI (Aug) |  |  | 77.32 |
 | 11:00 | KRW | M3 Money Supply (Jun) |  |  | 5,147.7B |
 | 11:00 | KRW | M2 Money supply (Jun) |  | 3.10% | 2.10% |
 | 11:00 | IDR | Car Sales (YoY) |  |  | 4.70% |
@@ -24,8 +23,8 @@
 | 14:00 | GBP | Index of Services |  | 0.0% | 0.0% |
 | 14:00 | GBP | Industrial Production (YoY) (Jun) |  | -1.1% | -2.3% |
 | 14:00 | GBP | Manufacturing Production (YoY) (Jun) |  | 0.3% | -1.2% |
-| 14:45 | EUR | CPI NSA (YoY) (Jul) |  |  | 4.30% |
 | 14:45 | EUR | CPI NSA (MoM) (Jul) |  |  | 0.20% |
+| 14:45 | EUR | CPI NSA (YoY) (Jul) |  |  | 4.30% |
 | 14:45 | EUR | French CPI (YoY) |  | 4.3% | 4.5% |
 | 14:45 | EUR | French HICP (YoY) (Jul) |  | 5.3% | 5.0% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jul) |  |  | 4.40% |
@@ -43,8 +42,8 @@
 | 19:30 | INR | Bank Loan Growth |  | 18.4% | 20.2% |
 | 19:30 | INR | Deposit Growth |  | 13.1% | 13.2% |
 | 19:30 | INR | FX Reserves, USD |  | 604.13B | 603.87B |
-| 20:00 | MXN | Industrial Production (YoY) (Jun) |  | 2.8% | 3.9% |
 | 20:00 | MXN | Industrial Production (MoM) (Jun) |  | 0.1% | 1.0% |
+| 20:00 | MXN | Industrial Production (YoY) (Jun) |  | 2.8% | 3.9% |
 | 20:00 | INR | Cumulative Industrial Production (Jun) |  | 5.00% | 4.80% |
 | 20:00 | INR | Industrial Production (YoY) (Jun) |  | 1.0% | 5.2% |
 | 20:00 | INR | Manufacturing Output (MoM) (Jun) |  | 1.7% | 5.7% |
@@ -52,8 +51,8 @@
 | 20:00 | BRL | CPI (MoM) (Jul) |  | 0.07% | -0.08% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jul) |  | 0.60% | -0.02% |
 | 20:30 | USD | Core PPI (YoY) (Jul) |  | 2.3% | 2.4% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jul) |  |  | 2.6% |
 | 20:30 | USD | PPI (YoY) (Jul) |  | 0.7% | 0.1% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jul) |  | 0.1% | 0.1% |
 | 21:00 | EUR | German Current Account Balance n.s.a (Jun) |  |  | 8.9B |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 76.8 | 76.6 |
