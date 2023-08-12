@@ -10,7 +10,7 @@ import re
 ssm = boto3.client('ssm')
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('forex-news-alert')
-lambda_arn = ''
+
 
 def remove_lambda_trigger(lambda_arn, rule_name):
     lambda_client = boto3.client('lambda')
@@ -161,7 +161,7 @@ def get_parameters_from_ssm():
     chat_id = ssm.get_parameter(Name='telagram-chatid-trade-watch')['Parameter']['Value']
     return bot_token, chat_id
 
-def set_pre_event_schedule(row, event_time):
+def set_pre_event_schedule(row, event_time, lambda_arn):
     event_name = re.sub('[^a-zA-Z0-9]', '_', row['Event'])  # Replace anything not a-zA-Z0-9 with underscore (_)
     rule_name = f'forex_schedule_{event_name}_pre'
     event_time_utc = (event_time - datetime.timedelta(minutes=5)).astimezone(datetime.timezone.utc)
@@ -172,7 +172,7 @@ def set_pre_event_schedule(row, event_time):
     create_cloudwatch_event(rule_name, 'Pre-Event Message Trigger', schedule_expression, lambda_arn)
     print(f"EventBridge Schedule {rule_name} {schedule_expression} is created and its permission is added.")
 
-def send_pre_event_message(row, bot_token, chat_id):
+def send_pre_event_message(row, bot_token, chat_id, lambda_arn):
     message = f"*High Impact News in 5 Minutes*\n\nEvent: {row['Event']}\nCurrency: {row['Currency']}"
     pre_event_message_response = send_telegram_message(bot_token, chat_id, message)
     pre_event_message_id = pre_event_message_response['result']['message_id']
@@ -203,7 +203,7 @@ def set_post_event_schedule(event_name,event_time):
     
     create_cloudwatch_event(rule_name, 'Post-Event Message Trigger', schedule_expression, lambda_arn)
 
-def send_post_event_message(row, bot_token, chat_id):
+def send_post_event_message(row, bot_token, chat_id, lambda_arn):
     item = table.get_item(Key={'event': row['Event']}).get('Item', {})
     event_name = re.sub('[^a-zA-Z0-9]', '_', row['Event'])  # Replace anything not a-zA-Z0-9 with underscore (_)
     rule_name = f'forex_schedule_{event_name}_post'
@@ -237,7 +237,8 @@ def send_post_event_message_v2(row, bot_token, chat_id):
 def lambda_handler(event, context):
     github_readme_url = "https://raw.githubusercontent.com/owxiang/forex-news/main/news.high.md"
     readme_content = fetch_github_readme_content(github_readme_url)
-    
+    lambda_arn = context.invoked_function_arn
+
     # Extract the date from the markdown content
     date_str = re.findall(r"## (.*?) - High Impact Forex News", readme_content)[0]
     
@@ -259,15 +260,18 @@ def lambda_handler(event, context):
             clean_event_name = re.sub('[^a-zA-Z0-9]', '', row['Event'])
             rule_name = event['resources'][0].split('/')[-1]
             clean_rule_name = re.sub('[^a-zA-Z0-9]', '', rule_name)
+            
             if rule_name == 'schedule-forex-before-after-news-alert':
                 event_time_str = row['Time (GMT+8)']
                 event_time = datetime.datetime.strptime(event_time_str, '%d %B %Y - %H:%M').replace(tzinfo=time_zone)
-                set_pre_event_schedule(row, event_time)
+                set_pre_event_schedule(row, event_time, lambda_arn)
+                
             elif rule_name == 'schedule-forex-before-after-news-alert-eod':
                 send_post_event_message_v2(row, bot_token, chat_id)
+                
             elif '_pre' in rule_name:
                 if clean_event_name in clean_rule_name:
-                    send_pre_event_message(row, bot_token, chat_id)
+                    send_pre_event_message(row, bot_token, chat_id, lambda_arn)
         else:
             rule_name = None
       
