@@ -25,4 +25,3 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -83.2K |  | -79.2K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -0.4K |  | 1.6K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 149.8K |  | 172.1K |
-| 36 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jun) |  |  | 4.0% |
