@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:30 | NZD | Low | Performance of Services Index |  |  | 50.1 |
-| 06:45 | NZD | Low | External Migration & Visitors (Jun) |  |  | 120.40% |
-| 06:45 | NZD | Low | Permanent/Long-Term Migration (Jun) |  |  | 4,939 |
-| 14:00 | EUR | Low | German WPI (MoM) (Jul) |  | -1.4% | -0.2% |
+| 17 min | NZD | Low | Performance of Services Index |  |  | 50.1 |
+| 32 min | NZD | Low | External Migration & Visitors (Jun) |  |  | 120.40% |
+| 32 min | NZD | Low | Permanent/Long-Term Migration (Jun) |  |  | 4,939 |
 | 14:00 | EUR | Low | German WPI (YoY) (Jul) |  | -2.6% | -2.9% |
+| 14:00 | EUR | Low | German WPI (MoM) (Jul) |  | -1.4% | -0.2% |
 | 14:30 | INR | Low | WPI Food (YoY) (Jul) |  | 3.95% | 1.32% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Jul) |  | -14.77% | -12.63% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Jul) |  | -2.70% | -4.12% |
