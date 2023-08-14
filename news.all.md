@@ -5,8 +5,8 @@
 | 06:30 | NZD | Low | Performance of Services Index | 47.8 |  | 49.6 |
 | 06:45 | NZD | Low | External Migration & Visitors (Jun) | 88.50% |  | 120.40% |
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jun) | 5,033 |  | 7,061 |
-| 14:00 | EUR | Low | German WPI (YoY) (Jul) | -2.8% | -2.6% | -2.9% |
 | 14:00 | EUR | Low | German WPI (MoM) (Jul) | -0.2% | -1.4% | -0.2% |
+| 14:00 | EUR | Low | German WPI (YoY) (Jul) | -2.8% | -2.6% | -2.9% |
 | 14:30 | INR | Low | WPI Food (YoY) (Jul) | 14.25% | 3.95% | 1.32% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Jul) | -12.79% | -14.77% | -12.63% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | -1.36% | -2.70% | -4.12% |
@@ -20,7 +20,7 @@
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.627% |  | 3.574% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.657% |  | 3.617% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.637% |  | 3.585% |
-| 16 min | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 11.3 |
-| 46 min | USD | Low | Consumer Inflation Expectations |  |  | 3.8% |
-| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.290% |
-| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.265% |
+| 23:00 | USD | Low | Consumer Inflation Expectations | 3.5% |  | 3.8% |
+| 23:01 | CAD | Low | BoC Senior Loan Officer Survey (Q2) | 7.6 |  | 11.3 |
+| 16 min | USD | Low | 3-Month Bill Auction |  |  | 5.290% |
+| 16 min | USD | Low | 6-Month Bill Auction |  |  | 5.265% |
