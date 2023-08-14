@@ -7,10 +7,10 @@
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jun) | 5,033 |  | 7,061 |
 | 14:00 | EUR | Low | German WPI (MoM) (Jul) | -0.2% | -1.4% | -0.2% |
 | 14:00 | EUR | Low | German WPI (YoY) (Jul) | -2.8% | -2.6% | -2.9% |
-| 11 min | INR | Low | WPI Food (YoY) (Jul) |  | 3.95% | 1.32% |
-| 11 min | INR | Low | WPI Fuel (YoY) (Jul) |  | -14.77% | -12.63% |
-| 11 min | INR | Moderate | WPI Inflation (YoY) (Jul) |  | -2.70% | -4.12% |
-| 11 min | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) |  | -3.04% | -2.71% |
+| 14:30 | INR | Low | WPI Food (YoY) (Jul) | 14.25% | 3.95% | 1.32% |
+| 14:30 | INR | Low | WPI Fuel (YoY) (Jul) | -12.79% | -14.77% | -12.63% |
+| 14:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | -1.36% | -2.70% | -4.12% |
+| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | -2.51% | -3.04% | -2.71% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | INR | Moderate | CPI (YoY) (Jul) |  | 6.40% | 4.81% |
