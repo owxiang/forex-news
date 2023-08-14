@@ -5,11 +5,11 @@
 | 06:30 | NZD | Performance of Services Index | 47.8 |  | 49.6 |
 | 06:45 | NZD | External Migration & Visitors (Jun) | 88.50% |  | 120.40% |
 | 06:45 | NZD | Permanent/Long-Term Migration (Jun) | 5,033 |  | 7,061 |
-| 46 min | EUR | German WPI (MoM) (Jul) |  | -1.4% | -0.2% |
-| 46 min | EUR | German WPI (YoY) (Jul) |  | -2.6% | -2.9% |
-| 14:30 | INR | WPI Food (YoY) (Jul) |  | 3.95% | 1.32% |
-| 14:30 | INR | WPI Fuel (YoY) (Jul) |  | -14.77% | -12.63% |
-| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) |  | -3.04% | -2.71% |
+| 14:00 | EUR | German WPI (MoM) (Jul) | -0.2% | -1.4% | -0.2% |
+| 14:00 | EUR | German WPI (YoY) (Jul) | -2.8% | -2.6% | -2.9% |
+| 11 min | INR | WPI Food (YoY) (Jul) |  | 3.95% | 1.32% |
+| 11 min | INR | WPI Fuel (YoY) (Jul) |  | -14.77% | -12.63% |
+| 11 min | INR | WPI Manufacturing Inflation (YoY) (Jul) |  | -3.04% | -2.71% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | BRL | IBC-Br Economic Activity (Jun) |  | 0.60% | -2.00% |
