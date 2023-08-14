@@ -41,5 +41,4 @@
 | 20:30 | CAD | Trimmed CPI (YoY) (Jul) |  | 3.4% | 3.7% |
 | 20:55 | USD | Redbook (YoY) |  |  | 0.3% |
 | 22:00 | USD | NAHB Housing Market Index (Aug) |  | 56 | 56 |
-| 22:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 11.3 |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
