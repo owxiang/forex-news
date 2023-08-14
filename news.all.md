@@ -12,8 +12,8 @@
 | 07:55 | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
 | 07:55 | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
 | 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
 | 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
+| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | 3.8% | 3.8% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 4.5% | 4.4% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 3.8% |
@@ -35,8 +35,8 @@
 | 14:00 | GBP | Moderate | Labour Productivity |  |  | -1.4% |
 | 14:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
 | 14:00 | NOK | Low | Trade Balance (Jul) |  |  | 44.2B |
-| 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -62.6 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -16.0 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  |  | -12.2 |
@@ -63,8 +63,8 @@
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  | 0.4% | -0.1% |
-| 20:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 20:30 | CAD | Low | CPI (YoY) (Jul) |  | 2.7% | 2.8% |
+| 20:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) |  | 0.0% | 1.2% |
 | 20:30 | CAD | Low | Median CPI (YoY) (Jul) |  | 3.7% | 3.9% |
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Jul) |  | 3.4% | 3.7% |
