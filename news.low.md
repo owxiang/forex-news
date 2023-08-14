@@ -10,6 +10,9 @@
 | 14:30 | INR | WPI Food (YoY) (Jul) | 14.25% | 3.95% | 1.32% |
 | 14:30 | INR | WPI Fuel (YoY) (Jul) | -12.79% | -14.77% | -12.63% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jul) | -2.51% | -3.04% | -2.71% |
+| 16:44 | INR | Exports (USD) (Jul) | 32.25B |  | 32.97B |
+| 16:44 | INR | Imports (USD) (Jul) | 52.92B |  | 53.10B |
+| 16:45 | INR | Trade Balance (Jul) | -20.67B |  | -20.13B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | BRL | IBC-Br Economic Activity (Jun) |  | 0.60% | -2.00% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.574% |

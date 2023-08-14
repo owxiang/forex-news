@@ -11,6 +11,9 @@
 | 14:30 | INR | Low | WPI Fuel (YoY) (Jul) | -12.79% | -14.77% | -12.63% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Jul) | -1.36% | -2.70% | -4.12% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jul) | -2.51% | -3.04% | -2.71% |
+| 16:44 | INR | Low | Exports (USD) (Jul) | 32.25B |  | 32.97B |
+| 16:44 | INR | Low | Imports (USD) (Jul) | 52.92B |  | 53.10B |
+| 16:45 | INR | Low | Trade Balance (Jul) | -20.67B |  | -20.13B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | INR | Moderate | CPI (YoY) (Jul) |  | 6.40% | 4.81% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Jun) |  | 0.60% | -2.00% |
