@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
+| 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
@@ -12,8 +12,8 @@
 | 07:55 | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
 | 07:55 | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
 | 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
 | 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
+| 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | 3.8% | 3.8% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 4.5% | 4.4% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 3.8% |
@@ -51,20 +51,20 @@
 | 20:20 | INR | Low | Imports (USD) |  |  | 53.10B |
 | 20:20 | INR | Low | Trade Balance |  | -21.00B | -20.13B |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
-| 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
-| 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
+| 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
+| 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -0.75 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
+| 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  | 0.4% | -0.1% |
-| 20:30 | CAD | Low | CPI (YoY) (Jul) |  | 2.7% | 2.8% |
 | 20:30 | CAD | Moderate | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 20:30 | CAD | Low | CPI (YoY) (Jul) |  | 2.7% | 2.8% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) |  | 0.0% | 1.2% |
 | 20:30 | CAD | Low | Median CPI (YoY) (Jul) |  | 3.7% | 3.9% |
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Jul) |  | 3.4% | 3.7% |
