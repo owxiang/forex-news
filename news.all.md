@@ -17,9 +17,9 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | INR | Moderate | CPI (YoY) (Jul) | 7.44% | 6.40% | 4.87% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Jun) | 0.63% | 0.60% | -2.00% |
-| 26 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.574% |
-| 26 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.617% |
-| 26 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.585% |
+| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.627% |  | 3.574% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.657% |  | 3.617% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.637% |  | 3.585% |
 | 22:30 | CAD | Low | BoC Senior Loan Officer Survey (Q2) |  |  | 11.3 |
 | 23:00 | USD | Low | Consumer Inflation Expectations |  |  | 3.8% |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.290% |
