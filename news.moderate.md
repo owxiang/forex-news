@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
+| 36 min | JPY | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
 | 09:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 09:30 | AUD | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Jul) |  | 3.8% | 3.8% |

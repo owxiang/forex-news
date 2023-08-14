@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
-| 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
-| 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
-| 07:50 | JPY | Low | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
-| 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
-| 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.5% |
-| 07:55 | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
-| 07:55 | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
-| 07:55 | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
+| 36 min | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
+| 36 min | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
+| 36 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
+| 36 min | JPY | Low | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
+| 36 min | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
+| 36 min | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.5% |
+| 41 min | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
+| 41 min | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
+| 41 min | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
 | 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
 | 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
@@ -53,12 +53,12 @@
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
-| 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
+| 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -0.75 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
 | 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
+| 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |

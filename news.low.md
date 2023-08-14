@@ -2,13 +2,13 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
-| 07:50 | JPY | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
-| 07:50 | JPY | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
-| 07:50 | JPY | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.5% |
-| 07:55 | KRW | Exports (YoY) (Jul) |  |  | -16.5% |
-| 07:55 | KRW | Imports (YoY) (Jul) |  |  | -25.4% |
-| 07:55 | KRW | Trade Balance (Jul) |  |  | 1.63B |
+| 36 min | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
+| 36 min | JPY | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
+| 36 min | JPY | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
+| 36 min | JPY | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.5% |
+| 41 min | KRW | Exports (YoY) (Jul) |  |  | -16.5% |
+| 41 min | KRW | Imports (YoY) (Jul) |  |  | -25.4% |
+| 41 min | KRW | Trade Balance (Jul) |  |  | 1.63B |
 | 09:30 | AUD | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
 | 10:00 | CNY | Retail Sales (YoY) (Jul) |  | 4.8% | 3.1% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 8.15% |
