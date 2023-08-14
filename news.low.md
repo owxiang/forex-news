@@ -13,11 +13,11 @@
 | 16:44 | INR | Exports (USD) (Jul) | 32.25B |  | 32.97B |
 | 16:44 | INR | Imports (USD) (Jul) | 52.92B |  | 53.10B |
 | 16:45 | INR | Trade Balance (Jul) | -20.67B |  | -20.13B |
-| 13 min | BRL | BCB Focus Market Readout |  |  |  |
-| 48 min | BRL | IBC-Br Economic Activity (Jun) |  | 0.60% | -2.00% |
-| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.574% |
-| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.617% |
-| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.585% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | BRL | IBC-Br Economic Activity (Jun) | 0.63% | 0.60% | -2.00% |
+| 26 min | EUR | French 12-Month BTF Auction |  |  | 3.574% |
+| 26 min | EUR | French 3-Month BTF Auction |  |  | 3.617% |
+| 26 min | EUR | French 6-Month BTF Auction |  |  | 3.585% |
 | 22:30 | CAD | BoC Senior Loan Officer Survey (Q2) |  |  | 11.3 |
 | 23:00 | USD | Consumer Inflation Expectations |  |  | 3.8% |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.290% |
