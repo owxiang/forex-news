@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
 | 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
+| 07:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
@@ -35,8 +35,8 @@
 | 14:00 | GBP | Moderate | Labour Productivity |  |  | -1.4% |
 | 14:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
 | 14:00 | NOK | Low | Trade Balance (Jul) |  |  | 44.2B |
-| 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
+| 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -62.6 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -16.0 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  |  | -12.2 |
@@ -51,14 +51,14 @@
 | 20:20 | INR | Low | Imports (USD) |  |  | 53.10B |
 | 20:20 | INR | Low | Trade Balance |  | -21.00B | -20.13B |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
-| 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
-| 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
+| 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
+| 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -0.75 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
 | 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
+| 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
