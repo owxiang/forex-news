@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | USD | Low | US Foreign Buying, T-bonds (Jun) |  | 49.90B | 37.50B |
-| 04:00 | USD | Low | Overall Net Capital Flow (Jun) |  | 42.80B | -167.60B |
-| 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) |  | 107.2B | 25.8B |
-| 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) |  | 114.50B | 17.50B |
+| 48 min | USD | Low | US Foreign Buying, T-bonds (Jun) |  | 49.90B | 37.50B |
+| 48 min | USD | Low | Overall Net Capital Flow (Jun) |  | 42.80B | -167.60B |
+| 48 min | USD | Moderate | TIC Net Long-Term Transactions (Jun) |  | 107.2B | 25.8B |
+| 48 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) |  | 114.50B | 17.50B |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.067M |
 | 07:00 | JPY | Low | Reuters Tankan Index (Aug) |  |  | 3 |
 | 08:00 | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
@@ -20,26 +20,26 @@
 | 11:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 14:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 14:00 | GBP | Low | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
-| 14:00 | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
+| 14:00 | GBP | Low | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
+| 14:00 | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
 | 14:00 | GBP | Moderate | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
 | 14:00 | GBP | High | CPI (YoY) (Jul) |  | 6.8% | 7.9% |
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 131.50 |
-| 14:00 | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
+| 14:00 | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
-| 14:00 | GBP | Low | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
+| 14:00 | GBP | Low | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 15:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -34.40 |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.500% |
-| 17:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) |  | 1.4% | 1.6% |
+| 17:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) |  |  | 166,419.1K |
-| 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
 | 17:00 | EUR | Moderate | GDP (QoQ) |  | 0.3% | 0.0% |
+| 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
 | 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Jun) |  | -4.2% | -2.2% |
 | 17:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.400% |
@@ -52,8 +52,8 @@
 | 19:00 | USD | Low | Milk Auctions |  |  | 3,100.0 |
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Jun) |  | -0.2% | -1.4% |
 | 20:15 | CAD | Moderate | Housing Starts (Jul) |  | 240.0K | 281.4K |
-| 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
 | 20:30 | USD | High | Building Permits (Jul) |  | 1.463M | 1.441M |
+| 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
 | 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |

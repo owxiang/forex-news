@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | US Foreign Buying, T-bonds (Jun) |  | 49.90B | 37.50B |
-| 04:00 | USD | Overall Net Capital Flow (Jun) |  | 42.80B | -167.60B |
-| 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) |  | 114.50B | 17.50B |
+| 48 min | USD | US Foreign Buying, T-bonds (Jun) |  | 49.90B | 37.50B |
+| 48 min | USD | Overall Net Capital Flow (Jun) |  | 42.80B | -167.60B |
+| 48 min | USD | TIC Net Long-Term Transactions including Swaps (Jun) |  | 114.50B | 17.50B |
 | 07:00 | JPY | Reuters Tankan Index (Aug) |  |  | 3 |
 | 08:00 | KRW | Exports (YoY) (Jul) |  |  | -16.5% |
 | 08:00 | KRW | Imports (YoY) (Jul) |  |  | -25.4% |
@@ -14,20 +14,20 @@
 | 11:00 | NZD | RBNZ Offshore Holdings (Jul) |  | 58.90% | 59.40% |
 | 14:00 | GBP | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
 | 14:00 | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 14:00 | GBP | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
-| 14:00 | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
+| 14:00 | GBP | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
+| 14:00 | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
 | 14:00 | GBP | CPI, n.s.a (Jul) |  |  | 131.50 |
 | 14:00 | GBP | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
 | 14:00 | GBP | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
 | 14:00 | GBP | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
-| 14:00 | GBP | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 14:00 | GBP | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
+| 14:00 | GBP | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 15:30 | NOK | Consumer Confidence (Q3) |  |  | -34.40 |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.500% |
-| 17:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Change (YoY) |  | 1.4% | 1.6% |
+| 17:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Overall (Q2) |  |  | 166,419.1K |
 | 17:00 | EUR | Industrial Production (YoY) (Jun) |  | -4.2% | -2.2% |
 | 17:30 | EUR | German 30-Year Bund Auction |  |  | 2.400% |
