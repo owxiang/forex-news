@@ -18,8 +18,8 @@
 | 10:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  | 58.90% | 59.40% |
 | 11:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 14:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 14:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
@@ -29,8 +29,8 @@
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 131.50 |
 | 14:00 | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
-| 14:00 | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
+| 14:00 | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
 | 14:00 | GBP | Low | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
 | 15:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -34.40 |
