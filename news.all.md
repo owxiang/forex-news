@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 6.0% | 3.1% | 3.7% |
 | 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.5% | 0.8% | 0.9% |
+| 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 6.0% | 3.1% | 3.7% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.0% | 0.4% | 1.8% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) | 3.4% | 2.0% | 2.0% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 0.9% | -0.3% |
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | -0.5% | 0.1% | 0.6% |
 | 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
 | 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.8% |
+| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) | 3.4% | 3.8% | 3.8% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Jul) | 3.7% | 4.4% | 4.4% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) | 3.8% |  | 3.8% |
@@ -31,8 +31,8 @@
 | 14:00 | GBP | Moderate | Labour Productivity | 0.7% |  | -1.4% |
 | 14:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.2% | 4.0% | 4.0% |
 | 14:00 | NOK | Low | Trade Balance (Jul) | 61.3B | 14.1B | 44.1B |
-| 11 min | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 11 min | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
+| 14:30 | CHF | Moderate | PPI (MoM) (Jul) | -0.1% | 0.2% | 0.0% |
+| 14:30 | CHF | Low | PPI (YoY) (Jul) | -0.6% | -0.5% | -0.6% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -63.0 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -14.7 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | -12.0 | -12.2 |
@@ -53,8 +53,8 @@
 | 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -1.00 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
+| 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  | 0.1% | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |

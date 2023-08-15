@@ -16,7 +16,7 @@
 | 14:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | -66K | 75K | 102K |
 | 14:00 | GBP | Labour Productivity | 0.7% |  | -1.4% |
 | 14:00 | GBP | Unemployment Rate (Jun) | 4.2% | 4.0% | 4.0% |
-| 11 min | CHF | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 14:30 | CHF | PPI (MoM) (Jul) | -0.1% | 0.2% | 0.0% |
 | 17:00 | EUR | German ZEW Current Conditions (Aug) |  | -63.0 | -59.5 |
 | 17:00 | EUR | German ZEW Economic Sentiment (Aug) |  | -14.7 | -14.7 |
 | 17:00 | EUR | ZEW Economic Sentiment (Aug) |  | -12.0 | -12.2 |
