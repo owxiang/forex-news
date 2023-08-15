@@ -1,7 +1,8 @@
-## 15 August 2023 - High Impact Forex News
+## 16 August 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | GDP (QoQ) (Q2) | 1.5% | 0.8% | 0.9% |
-| 20:30 | USD | Core Retail Sales (MoM) (Jul) | 1.0% | -0.3% | 0.2% |
-| 20:30 | USD | Retail Sales (MoM) (Jul) | 0.7% | 0.4% | 0.3% |
+| 10:00 | NZD | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 14:00 | GBP | CPI (YoY) (Jul) |  | 6.8% | 7.9% |
+| 20:30 | USD | Building Permits (Jul) |  | 1.463M | 1.441M |
+| 22:30 | USD | Crude Oil Inventories |  | -2.050M | 5.851M |

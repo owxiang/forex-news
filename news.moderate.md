@@ -1,33 +1,22 @@
-## 15 August 2023 - Moderate Impact Forex News
+## 16 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | GDP (YoY) (Q2) | 6.0% | 3.1% | 3.7% |
-| 09:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 09:30 | AUD | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.8% |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Jul) | 3.4% | 3.8% | 3.8% |
-| 10:00 | CNY | Industrial Production (YoY) (Jul) | 3.7% | 4.4% | 4.4% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) | 3.8% |  | 3.8% |
-| 10:00 | CNY | Chinese Unemployment Rate (Jul) | 5.3% | 5.3% | 5.2% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
-| 12:30 | JPY | Industrial Production (MoM) | 2.4% | 2.0% | -2.2% |
-| 14:00 | GBP | Average Earnings Index +Bonus (Jun) | 8.2% | 7.3% | 7.2% |
-| 14:00 | GBP | Claimant Count Change (Jul) | 29.0K | -7.3K | 16.2K |
-| 14:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | -66K | 75K | 102K |
-| 14:00 | GBP | Labour Productivity | 0.7% |  | -1.4% |
-| 14:00 | GBP | Unemployment Rate (Jun) | 4.2% | 4.0% | 4.0% |
-| 14:30 | CHF | PPI (MoM) (Jul) | -0.1% | 0.2% | 0.0% |
-| 17:00 | EUR | German ZEW Current Conditions (Aug) | -71.3 | -63.0 | -59.5 |
-| 17:00 | EUR | German ZEW Economic Sentiment (Aug) | -12.3 | -14.7 | -14.7 |
-| 17:00 | EUR | ZEW Economic Sentiment (Aug) | -5.5 | -12.0 | -12.2 |
-| 18:00 | EUR | EU Economic Forecasts |  |  |  |
-| 20:30 | USD | Export Price Index (MoM) (Jul) | 0.7% | 0.2% | -0.7% |
-| 20:30 | USD | Import Price Index (MoM) (Jul) | 0.4% | 0.2% | -0.1% |
-| 20:30 | USD | NY Empire State Manufacturing Index (Aug) | -19.00 | -1.00 | 1.10 |
-| 20:30 | USD | Retail Control (MoM) (Jul) | 1.0% | 0.2% | 0.5% |
-| 20:30 | CAD | Core CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
-| 20:30 | CAD | Core CPI (MoM) (Jul) | 0.5% | 0.4% | -0.1% |
-| 20:30 | CAD | CPI (MoM) (Jul) | 0.6% | 0.3% | 0.1% |
-| 22:00 | USD | Business Inventories (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
-| 22:00 | USD | Retail Inventories Ex Auto (Jun) | 0.3% | 0.4% | -0.1% |
-| 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 04:00 | USD | TIC Net Long-Term Transactions (Jun) |  | 107.2B | 25.8B |
+| 04:30 | USD | API Weekly Crude Oil Stock |  |  | 4.067M |
+| 10:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 10:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 11:00 | NZD | RBNZ Press Conference |  |  |  |
+| 14:00 | GBP | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
+| 14:00 | GBP | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
+| 17:00 | EUR | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
+| 17:00 | EUR | GDP (QoQ) |  | 0.3% | 0.0% |
+| 17:00 | EUR | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
+| 20:15 | CAD | Housing Starts (Jul) |  | 240.0K | 281.4K |
+| 20:30 | USD | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
+| 20:30 | USD | Housing Starts (Jul) |  | 1.448M | 1.434M |
+| 20:30 | USD | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
+| 20:30 | CAD | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |
+| 21:15 | USD | Industrial Production (YoY) (Jul) |  | -0.10% | -0.43% |
+| 21:15 | USD | Industrial Production (MoM) (Jul) |  | 0.3% | -0.5% |
+| 22:30 | USD | Cushing Crude Oil Inventories |  | 0.131M | 0.159M |
