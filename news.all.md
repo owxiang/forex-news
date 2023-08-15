@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 48 min | USD | Low | US Foreign Buying, T-bonds (Jun) |  | 49.90B | 37.50B |
-| 48 min | USD | Low | Overall Net Capital Flow (Jun) |  | 42.80B | -167.60B |
-| 48 min | USD | Moderate | TIC Net Long-Term Transactions (Jun) |  | 107.2B | 25.8B |
-| 48 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) |  | 114.50B | 17.50B |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.067M |
+| 04:00 | USD | Low | US Foreign Buying, T-bonds (Jun) | 66.40B | 49.90B | 34.30B |
+| 04:00 | USD | Low | Overall Net Capital Flow (Jun) | 147.80B | 42.80B | -161.60B |
+| 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) | 195.9B | 107.2B | 23.6B |
+| 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 195.90B | 114.50B | 23.60B |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.050M | 4.067M |
 | 07:00 | JPY | Low | Reuters Tankan Index (Aug) |  |  | 3 |
 | 08:00 | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
 | 08:00 | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
@@ -27,8 +27,8 @@
 | 14:00 | GBP | Moderate | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
 | 14:00 | GBP | High | CPI (YoY) (Jul) |  | 6.8% | 7.9% |
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 131.50 |
-| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
 | 14:00 | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
+| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
@@ -40,8 +40,8 @@
 | 17:00 | EUR | Low | Employment Overall (Q2) |  |  | 166,419.1K |
 | 17:00 | EUR | Moderate | GDP (QoQ) |  | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
-| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Jun) |  | -4.2% | -2.2% |
+| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
 | 17:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.400% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
@@ -54,8 +54,8 @@
 | 20:15 | CAD | Moderate | Housing Starts (Jul) |  | 240.0K | 281.4K |
 | 20:30 | USD | High | Building Permits (Jul) |  | 1.463M | 1.441M |
 | 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
-| 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
+| 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |
 | 21:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
 | 21:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  | -0.10% | -0.43% |

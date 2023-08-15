@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 48 min | USD | US Foreign Buying, T-bonds (Jun) |  | 49.90B | 37.50B |
-| 48 min | USD | Overall Net Capital Flow (Jun) |  | 42.80B | -167.60B |
-| 48 min | USD | TIC Net Long-Term Transactions including Swaps (Jun) |  | 114.50B | 17.50B |
+| 04:00 | USD | US Foreign Buying, T-bonds (Jun) | 66.40B | 49.90B | 34.30B |
+| 04:00 | USD | Overall Net Capital Flow (Jun) | 147.80B | 42.80B | -161.60B |
+| 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) | 195.90B | 114.50B | 23.60B |
 | 07:00 | JPY | Reuters Tankan Index (Aug) |  |  | 3 |
 | 08:00 | KRW | Exports (YoY) (Jul) |  |  | -16.5% |
 | 08:00 | KRW | Imports (YoY) (Jul) |  |  | -25.4% |
