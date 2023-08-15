@@ -21,13 +21,13 @@
 | 17:00 | EUR | German ZEW Economic Sentiment (Aug) | -12.3 | -14.7 | -14.7 |
 | 17:00 | EUR | ZEW Economic Sentiment (Aug) | -5.5 | -12.0 | -12.2 |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
-| 20:30 | USD | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
-| 20:30 | USD | Import Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
-| 20:30 | USD | NY Empire State Manufacturing Index (Aug) |  | -1.00 | 1.10 |
-| 20:30 | USD | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | CAD | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
-| 20:30 | CAD | Core CPI (MoM) (Jul) |  | 0.4% | -0.1% |
-| 20:30 | CAD | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
+| 2 min | USD | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
+| 2 min | USD | Import Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
+| 2 min | USD | NY Empire State Manufacturing Index (Aug) |  | -1.00 | 1.10 |
+| 2 min | USD | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
+| 2 min | CAD | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
+| 2 min | CAD | Core CPI (MoM) (Jul) |  | 0.4% | -0.1% |
+| 2 min | CAD | CPI (MoM) (Jul) |  | 0.3% | 0.1% |
 | 22:00 | USD | Business Inventories (MoM) (Jun) |  | 0.1% | 0.2% |
 | 22:00 | USD | Retail Inventories Ex Auto (Jun) |  | 0.4% | -0.1% |
 | 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |

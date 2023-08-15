@@ -21,20 +21,16 @@
 | 17:30 | ZAR | Unemployment Rate (Q2) | 32.60% | 32.90% | 32.90% |
 | 17:30 | ZAR | Unemployment (Q2) | 7.921M | 7.998M | 7.933M |
 | 18:00 | EUR | Reserve Assets Total (Jul) | 1,109.69B |  | 1,105.17B |
-| 49 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 49 min | USD | Milk Auctions |  |  | 3,100.0 |
-| 20:20 | INR | Exports (USD) |  |  | 32.97B |
-| 20:20 | INR | Imports (USD) |  |  | 53.10B |
-| 20:20 | INR | Trade Balance |  | -21.00B | -20.13B |
-| 20:30 | USD | Export Price Index (YoY) |  | -14.1% | -12.0% |
-| 20:30 | USD | Import Price Index (YoY) |  | -6.5% | -6.1% |
-| 20:30 | USD | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
-| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  | 0.1% | 0.3% |
-| 20:30 | CAD | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
-| 20:30 | CAD | CPI (YoY) (Jul) |  | 3.0% | 2.8% |
-| 20:30 | CAD | Manufacturing Sales (MoM) (Jun) |  | -2.0% | 1.2% |
-| 20:30 | CAD | Median CPI (YoY) (Jul) |  | 3.7% | 3.9% |
-| 20:30 | CAD | Trimmed CPI (YoY) (Jul) |  | 3.4% | 3.7% |
-| 20:55 | USD | Redbook (YoY) |  |  | 0.3% |
+| 2 min | USD | Export Price Index (YoY) |  | -14.1% | -12.0% |
+| 2 min | USD | Import Price Index (YoY) |  | -6.5% | -6.1% |
+| 2 min | USD | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
+| 2 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  | 0.1% | 0.3% |
+| 2 min | CAD | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
+| 2 min | CAD | CPI (YoY) (Jul) |  | 3.0% | 2.8% |
+| 2 min | CAD | Manufacturing Sales (MoM) (Jun) |  | -2.0% | 1.2% |
+| 2 min | CAD | Median CPI (YoY) (Jul) |  | 3.7% | 3.9% |
+| 2 min | CAD | Trimmed CPI (YoY) (Jul) |  | 3.4% | 3.7% |
+| 27 min | USD | Redbook (YoY) |  |  | 0.3% |
 | 22:00 | USD | NAHB Housing Market Index (Aug) |  | 56 | 56 |
+| 22:00 | USD | Milk Auctions |  |  | 3,100.0 |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
