@@ -20,7 +20,7 @@
 | 17:00 | EUR | German ZEW Current Conditions (Aug) | -71.3 | -63.0 | -59.5 |
 | 17:00 | EUR | German ZEW Economic Sentiment (Aug) | -12.3 | -14.7 | -14.7 |
 | 17:00 | EUR | ZEW Economic Sentiment (Aug) | -5.5 | -12.0 | -12.2 |
-| 46 min | EUR | EU Economic Forecasts |  |  |  |
+| 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 20:30 | USD | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Import Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 20:30 | USD | NY Empire State Manufacturing Index (Aug) |  | -1.00 | 1.10 |

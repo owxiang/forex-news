@@ -36,11 +36,11 @@
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) | -71.3 | -63.0 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) | -12.3 | -14.7 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) | -5.5 | -12.0 | -12.2 |
-| 16 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.070% |
-| 16 min | ZAR | Low | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
-| 16 min | ZAR | Low | Unemployment (Q2) |  | 7.998M | 7.933M |
-| 46 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 46 min | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,105.60B |
+| 17:30 | EUR | Low | German 2-Year Schatz Auction | 3.120% |  | 3.070% |
+| 17:30 | ZAR | Low | Unemployment Rate (Q2) | 32.60% | 32.90% | 32.90% |
+| 17:30 | ZAR | Low | Unemployment (Q2) | 7.921M | 7.998M | 7.933M |
+| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 18:00 | EUR | Low | Reserve Assets Total (Jul) | 1,109.69B |  | 1,105.17B |
 | 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,100.0 |
 | 20:20 | INR | Low | Exports (USD) |  |  | 32.97B |
@@ -49,8 +49,8 @@
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
-| 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
+| 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -1.00 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
 | 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
