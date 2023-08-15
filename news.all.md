@@ -7,10 +7,10 @@
 | 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Jun) | 195.9B | 107.2B | 23.6B |
 | 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 195.90B | 114.50B | 23.60B |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.195M | -2.050M | 4.067M |
-| 46 min | JPY | Low | Reuters Tankan Index (Aug) |  |  | 3 |
-| 08:00 | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
-| 08:00 | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
-| 08:00 | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
+| 07:00 | JPY | Low | Reuters Tankan Index (Aug) | 12 |  | 3 |
+| 46 min | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
+| 46 min | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
+| 46 min | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
 | 09:00 | AUD | Low | MI Leading Index (MoM) (Jul) |  |  | 0.1% |
 | 09:30 | CNY | Low | House Prices (YoY) (Jul) |  |  | 0.0% |
 | 10:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
@@ -22,8 +22,8 @@
 | 14:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
-| 14:00 | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
+| 14:00 | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
 | 14:00 | GBP | Moderate | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
 | 14:00 | GBP | High | CPI (YoY) (Jul) |  | 6.8% | 7.9% |
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 131.50 |
@@ -31,12 +31,12 @@
 | 14:00 | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
-| 14:00 | GBP | Low | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
+| 14:00 | GBP | Low | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
 | 15:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -34.40 |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.500% |
-| 17:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) |  | 1.4% | 1.6% |
+| 17:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) |  |  | 166,419.1K |
 | 17:00 | EUR | Moderate | GDP (QoQ) |  | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
