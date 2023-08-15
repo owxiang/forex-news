@@ -21,8 +21,8 @@
 | 17:30 | ZAR | Unemployment Rate (Q2) | 32.60% | 32.90% | 32.90% |
 | 17:30 | ZAR | Unemployment (Q2) | 7.921M | 7.998M | 7.933M |
 | 18:00 | EUR | Reserve Assets Total (Jul) | 1,109.69B |  | 1,105.17B |
-| 20:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
-| 20:00 | USD | Milk Auctions |  |  | 3,100.0 |
+| 49 min | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 49 min | USD | Milk Auctions |  |  | 3,100.0 |
 | 20:20 | INR | Exports (USD) |  |  | 32.97B |
 | 20:20 | INR | Imports (USD) |  |  | 53.10B |
 | 20:20 | INR | Trade Balance |  | -21.00B | -20.13B |
