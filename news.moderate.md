@@ -11,12 +11,12 @@
 | 10:00 | CNY | Chinese Unemployment Rate (Jul) | 5.3% | 5.3% | 5.2% |
 | 10:00 | CNY | NBS Press Conference |  |  |  |
 | 12:30 | JPY | Industrial Production (MoM) | 2.4% | 2.0% | -2.2% |
-| 46 min | GBP | Average Earnings Index +Bonus (Jun) |  | 7.3% | 6.9% |
-| 46 min | GBP | Claimant Count Change (Jul) |  | -7.3K | 25.7K |
-| 46 min | GBP | Employment Change 3M/3M (MoM) (Jun) |  | 75K | 102K |
-| 46 min | GBP | Labour Productivity |  |  | -1.4% |
-| 46 min | GBP | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
-| 14:30 | CHF | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 14:00 | GBP | Average Earnings Index +Bonus (Jun) | 8.2% | 7.3% | 7.2% |
+| 14:00 | GBP | Claimant Count Change (Jul) | 29.0K | -7.3K | 16.2K |
+| 14:00 | GBP | Employment Change 3M/3M (MoM) (Jun) | -66K | 75K | 102K |
+| 14:00 | GBP | Labour Productivity | 0.7% |  | -1.4% |
+| 14:00 | GBP | Unemployment Rate (Jun) | 4.2% | 4.0% | 4.0% |
+| 11 min | CHF | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 17:00 | EUR | German ZEW Current Conditions (Aug) |  | -63.0 | -59.5 |
 | 17:00 | EUR | German ZEW Economic Sentiment (Aug) |  | -14.7 | -14.7 |
 | 17:00 | EUR | ZEW Economic Sentiment (Aug) |  | -12.0 | -12.2 |

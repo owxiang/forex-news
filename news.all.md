@@ -24,15 +24,15 @@
 | 12:00 | IDR | Low | Trade Balance (Jul) | 1.31B | 2.53B | 3.46B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | 3.8% | -1.6% | -6.3% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) | 2.4% | 2.0% | -2.2% |
-| 46 min | GBP | Low | Average Earnings ex Bonus (Jun) |  | 7.4% | 7.3% |
-| 46 min | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 7.3% | 6.9% |
-| 46 min | GBP | Moderate | Claimant Count Change (Jul) |  | -7.3K | 25.7K |
-| 46 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  | 75K | 102K |
-| 46 min | GBP | Moderate | Labour Productivity |  |  | -1.4% |
-| 46 min | GBP | Moderate | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
-| 46 min | NOK | Low | Trade Balance (Jul) |  | 14.1B | 44.2B |
-| 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
-| 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
+| 14:00 | GBP | Low | Average Earnings ex Bonus (Jun) | 7.8% | 7.4% | 7.5% |
+| 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) | 8.2% | 7.3% | 7.2% |
+| 14:00 | GBP | Moderate | Claimant Count Change (Jul) | 29.0K | -7.3K | 16.2K |
+| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) | -66K | 75K | 102K |
+| 14:00 | GBP | Moderate | Labour Productivity | 0.7% |  | -1.4% |
+| 14:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.2% | 4.0% | 4.0% |
+| 14:00 | NOK | Low | Trade Balance (Jul) | 61.3B | 14.1B | 44.1B |
+| 11 min | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 11 min | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -63.0 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -14.7 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | -12.0 | -12.2 |

@@ -14,9 +14,9 @@
 | 12:00 | IDR | Import Growth (YoY) (Jul) | -8.32% | -15.50% | -18.35% |
 | 12:00 | IDR | Trade Balance (Jul) | 1.31B | 2.53B | 3.46B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Jun) | 3.8% | -1.6% | -6.3% |
-| 46 min | GBP | Average Earnings ex Bonus (Jun) |  | 7.4% | 7.3% |
-| 46 min | NOK | Trade Balance (Jul) |  | 14.1B | 44.2B |
-| 14:30 | CHF | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
+| 14:00 | GBP | Average Earnings ex Bonus (Jun) | 7.8% | 7.4% | 7.5% |
+| 14:00 | NOK | Trade Balance (Jul) | 61.3B | 14.1B | 44.1B |
+| 11 min | CHF | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
 | 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.070% |
 | 17:30 | ZAR | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
 | 17:30 | ZAR | Unemployment (Q2) |  | 7.998M | 7.933M |
