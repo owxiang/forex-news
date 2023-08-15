@@ -28,6 +28,6 @@
 | 20:30 | CAD | Core CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 20:30 | CAD | Core CPI (MoM) (Jul) | 0.5% | 0.4% | -0.1% |
 | 20:30 | CAD | CPI (MoM) (Jul) | 0.6% | 0.3% | 0.1% |
-| 43 min | USD | Business Inventories (MoM) (Jun) |  | 0.1% | 0.2% |
-| 43 min | USD | Retail Inventories Ex Auto (Jun) |  | 0.4% | -0.1% |
-| 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 22:00 | USD | Business Inventories (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
+| 22:00 | USD | Retail Inventories Ex Auto (Jun) | 0.3% | 0.4% | -0.1% |
+| 47 min | USD | FOMC Member Kashkari Speaks |  |  |  |

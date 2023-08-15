@@ -31,6 +31,5 @@
 | 20:30 | CAD | Median CPI (YoY) (Jul) | 3.7% | 3.7% | 3.7% |
 | 20:30 | CAD | Trimmed CPI (YoY) (Jul) | 3.6% | 3.4% | 3.7% |
 | 20:55 | USD | Redbook (YoY) | 0.7% |  | 0.3% |
-| 43 min | USD | NAHB Housing Market Index (Aug) |  | 56 | 56 |
-| 43 min | USD | Milk Auctions |  |  | 3,100.0 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
+| 22:00 | USD | NAHB Housing Market Index (Aug) | 50 | 56 | 56 |
+| 47 min | NZD | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |

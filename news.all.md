@@ -54,15 +54,14 @@
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) | 4.8% | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.5% | 0.4% | -0.1% |
-| 20:30 | CAD | Low | CPI (YoY) (Jul) | 3.3% | 3.0% | 2.8% |
 | 20:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.6% | 0.3% | 0.1% |
+| 20:30 | CAD | Low | CPI (YoY) (Jul) | 3.3% | 3.0% | 2.8% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | -1.7% | -2.0% | 1.2% |
 | 20:30 | CAD | Low | Median CPI (YoY) (Jul) | 3.7% | 3.7% | 3.7% |
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Jul) | 3.6% | 3.4% | 3.7% |
 | 20:55 | USD | Low | Redbook (YoY) | 0.7% |  | 0.3% |
-| 43 min | USD | Moderate | Business Inventories (MoM) (Jun) |  | 0.1% | 0.2% |
-| 43 min | USD | Low | NAHB Housing Market Index (Aug) |  | 56 | 56 |
-| 43 min | USD | Moderate | Retail Inventories Ex Auto (Jun) |  | 0.4% | -0.1% |
-| 43 min | USD | Low | Milk Auctions |  |  | 3,100.0 |
-| 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
+| 22:00 | USD | Moderate | Business Inventories (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
+| 22:00 | USD | Low | NAHB Housing Market Index (Aug) | 50 | 56 | 56 |
+| 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.3% | 0.4% | -0.1% |
+| 47 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 47 min | NZD | Low | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
