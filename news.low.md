@@ -12,8 +12,8 @@
 | 09:00 | AUD | MI Leading Index (MoM) (Jul) |  |  | 0.1% |
 | 09:30 | CNY | House Prices (YoY) (Jul) |  |  | 0.0% |
 | 11:00 | NZD | RBNZ Offshore Holdings (Jul) |  | 58.90% | 59.40% |
-| 14:00 | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 14:00 | GBP | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
+| 14:00 | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 14:00 | GBP | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
 | 14:00 | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |

@@ -18,8 +18,8 @@
 | 10:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  | 58.90% | 59.40% |
 | 11:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 14:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 14:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
+| 14:00 | GBP | Low | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
