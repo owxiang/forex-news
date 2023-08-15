@@ -6,11 +6,12 @@
 | 07:50 | JPY | GDP (YoY) (Q2) | 3.4% | 2.0% | 2.0% |
 | 07:50 | JPY | GDP External Demand (QoQ) (Q2) | 1.8% | 0.9% | -0.3% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q2) | -0.5% | 0.1% | 0.6% |
-| 25 min | AUD | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
-| 55 min | CNY | Retail Sales (YoY) (Jul) |  | 4.8% | 3.1% |
-| 55 min | CNY | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 8.15% |
-| 11:00 | IDR | Retail Sales (YoY) |  |  | -4.5% |
+| 09:30 | AUD | Wage Price Index (YoY) (Q2) | 3.6% | 3.8% | 3.7% |
+| 10:00 | CNY | Retail Sales (YoY) (Jul) | 2.5% | 4.8% | 3.1% |
+| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 7.33% |  | 8.15% |
+| 41 min | IDR | Retail Sales (YoY) |  |  | -4.5% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.132% |
+| 12:00 | IDR | Car Sales (YoY) (Jul) | -6.80% |  | 4.70% |
 | 12:00 | IDR | Export Growth (YoY) (Jul) |  | -17.75% | -21.18% |
 | 12:00 | IDR | Import Growth (YoY) (Jul) |  | -15.45% | -18.35% |
 | 12:00 | IDR | Trade Balance (Jul) |  | 2.53B | 3.46B |

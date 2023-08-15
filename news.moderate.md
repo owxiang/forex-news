@@ -3,13 +3,13 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:50 | JPY | GDP (YoY) (Q2) | 6.0% | 3.1% | 3.7% |
-| 25 min | AUD | RBA Meeting Minutes |  |  |  |
-| 25 min | AUD | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
-| 55 min | CNY | Fixed Asset Investment (YoY) (Jul) |  | 3.8% | 3.8% |
-| 55 min | CNY | Industrial Production (YoY) (Jul) |  | 4.5% | 4.4% |
-| 55 min | CNY | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 3.8% |
-| 55 min | CNY | Chinese Unemployment Rate (Jul) |  | 5.3% | 5.2% |
-| 55 min | CNY | NBS Press Conference |  |  |  |
+| 09:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 09:30 | AUD | Wage Price Index (QoQ) (Q2) | 0.8% | 1.0% | 0.8% |
+| 10:00 | CNY | Fixed Asset Investment (YoY) (Jul) | 3.4% | 3.8% | 3.8% |
+| 10:00 | CNY | Industrial Production (YoY) (Jul) | 3.7% | 4.5% | 4.4% |
+| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Jul) | 3.8% |  | 3.8% |
+| 10:00 | CNY | Chinese Unemployment Rate (Jul) | 5.3% | 5.3% | 5.2% |
+| 10:00 | CNY | NBS Press Conference |  |  |  |
 | 12:30 | JPY | Industrial Production (MoM) |  | 2.0% | -2.2% |
 | 14:00 | GBP | Average Earnings Index +Bonus (Jun) |  | 7.3% | 6.9% |
 | 14:00 | GBP | Claimant Count Change (Jul) |  | -7.3K | 25.7K |
