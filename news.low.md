@@ -9,12 +9,10 @@
 | 09:30 | AUD | Wage Price Index (YoY) (Q2) | 3.6% | 3.8% | 3.7% |
 | 10:00 | CNY | Retail Sales (YoY) (Jul) | 2.5% | 4.8% | 3.1% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Jul) | 7.33% |  | 8.15% |
-| 41 min | IDR | Retail Sales (YoY) |  |  | -4.5% |
-| 11:35 | JPY | 5-Year JGB Auction |  |  | 0.132% |
-| 12:00 | IDR | Car Sales (YoY) (Jul) | -6.80% |  | 4.70% |
-| 12:00 | IDR | Export Growth (YoY) (Jul) |  | -17.75% | -21.18% |
-| 12:00 | IDR | Import Growth (YoY) (Jul) |  | -15.45% | -18.35% |
-| 12:00 | IDR | Trade Balance (Jul) |  | 2.53B | 3.46B |
+| 20 min | JPY | 5-Year JGB Auction |  |  | 0.132% |
+| 45 min | IDR | Export Growth (YoY) (Jul) |  | -17.75% | -21.18% |
+| 45 min | IDR | Import Growth (YoY) (Jul) |  | -15.45% | -18.35% |
+| 45 min | IDR | Trade Balance (Jul) |  | 2.53B | 3.46B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Jun) |  | -1.6% | -6.3% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jun) |  |  | 7.3% |
 | 14:00 | NOK | Trade Balance (Jul) |  |  | 44.2B |

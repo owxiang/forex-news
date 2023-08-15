@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.5% | 0.8% | 0.9% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 6.0% | 3.1% | 3.7% |
+| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.5% | 0.8% | 0.9% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.0% | 0.4% | 1.8% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) | 3.4% | 2.0% | 2.0% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 0.9% | -0.3% |
@@ -18,12 +18,10 @@
 | 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) | 7.33% |  | 8.15% |
 | 10:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) | 5.3% | 5.3% | 5.2% |
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 41 min | IDR | Low | Retail Sales (YoY) |  |  | -4.5% |
-| 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.132% |
-| 12:00 | IDR | Low | Car Sales (YoY) (Jul) | -6.80% |  | 4.70% |
-| 12:00 | IDR | Low | Export Growth (YoY) (Jul) |  | -17.75% | -21.18% |
-| 12:00 | IDR | Low | Import Growth (YoY) (Jul) |  | -15.45% | -18.35% |
-| 12:00 | IDR | Low | Trade Balance (Jul) |  | 2.53B | 3.46B |
+| 20 min | JPY | Low | 5-Year JGB Auction |  |  | 0.132% |
+| 45 min | IDR | Low | Export Growth (YoY) (Jul) |  | -17.75% | -21.18% |
+| 45 min | IDR | Low | Import Growth (YoY) (Jul) |  | -15.45% | -18.35% |
+| 45 min | IDR | Low | Trade Balance (Jul) |  | 2.53B | 3.46B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Jun) |  | -1.6% | -6.3% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) |  | 2.0% | -2.2% |
 | 14:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  |  | 7.3% |
@@ -33,8 +31,8 @@
 | 14:00 | GBP | Moderate | Labour Productivity |  |  | -1.4% |
 | 14:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
 | 14:00 | NOK | Low | Trade Balance (Jul) |  |  | 44.2B |
-| 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
+| 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -62.6 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -16.0 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  |  | -12.2 |
@@ -49,14 +47,14 @@
 | 20:20 | INR | Low | Imports (USD) |  |  | 53.10B |
 | 20:20 | INR | Low | Trade Balance |  | -21.00B | -20.13B |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
-| 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
-| 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
+| 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
+| 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -0.75 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
 | 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
+| 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
