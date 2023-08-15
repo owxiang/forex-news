@@ -2,6 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 36 min | JPY | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
+| 07:50 | JPY | GDP (QoQ) (Q2) | 1.5% | 0.8% | 0.9% |
 | 20:30 | USD | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
 | 20:30 | USD | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |

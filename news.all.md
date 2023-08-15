@@ -2,25 +2,22 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 36 min | JPY | Moderate | GDP (YoY) (Q2) |  | 3.1% | 2.7% |
-| 36 min | JPY | High | GDP (QoQ) (Q2) |  | 0.8% | 0.7% |
-| 36 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.4% | 1.4% |
-| 36 min | JPY | Low | GDP (YoY) (Q2) |  | 2.0% | 2.0% |
-| 36 min | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 0.9% | -0.3% |
-| 36 min | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | 0.1% | 0.5% |
-| 41 min | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
-| 41 min | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
-| 41 min | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
-| 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
-| 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
-| 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | 3.8% | 3.8% |
-| 10:00 | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 4.5% | 4.4% |
-| 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 3.8% |
-| 10:00 | CNY | Low | Retail Sales (YoY) (Jul) |  | 4.8% | 3.1% |
-| 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 8.15% |
-| 10:00 | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.3% | 5.2% |
-| 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 6.0% | 3.1% | 3.7% |
+| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.5% | 0.8% | 0.9% |
+| 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | 0.0% | 0.4% | 1.8% |
+| 07:50 | JPY | Low | GDP (YoY) (Q2) | 3.4% | 2.0% | 2.0% |
+| 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 0.9% | -0.3% |
+| 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | -0.5% | 0.1% | 0.6% |
+| 25 min | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 25 min | AUD | Low | Wage Price Index (YoY) (Q2) |  | 3.8% | 3.7% |
+| 25 min | AUD | Moderate | Wage Price Index (QoQ) (Q2) |  | 1.0% | 0.8% |
+| 55 min | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) |  | 3.8% | 3.8% |
+| 55 min | CNY | Moderate | Industrial Production (YoY) (Jul) |  | 4.5% | 4.4% |
+| 55 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) |  |  | 3.8% |
+| 55 min | CNY | Low | Retail Sales (YoY) (Jul) |  | 4.8% | 3.1% |
+| 55 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Jul) |  |  | 8.15% |
+| 55 min | CNY | Moderate | Chinese Unemployment Rate (Jul) |  | 5.3% | 5.2% |
+| 55 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 11:00 | IDR | Low | Retail Sales (YoY) |  |  | -4.5% |
 | 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.132% |
 | 12:00 | IDR | Low | Export Growth (YoY) (Jul) |  | -17.75% | -21.18% |
@@ -53,12 +50,12 @@
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
-| 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
+| 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.1% | -0.2% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -0.75 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
-| 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
+| 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
