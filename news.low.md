@@ -13,9 +13,9 @@
 | 12:00 | IDR | Export Growth (YoY) (Jul) | -18.03% | -18.30% | -21.18% |
 | 12:00 | IDR | Import Growth (YoY) (Jul) | -8.32% | -15.50% | -18.35% |
 | 12:00 | IDR | Trade Balance (Jul) | 1.31B | 2.53B | 3.46B |
-| 12 min | JPY | Capacity Utilization (MoM) (Jun) |  | -1.6% | -6.3% |
-| 14:00 | GBP | Average Earnings ex Bonus (Jun) |  | 7.4% | 7.3% |
-| 14:00 | NOK | Trade Balance (Jul) |  |  | 44.2B |
+| 12:30 | JPY | Capacity Utilization (MoM) (Jun) | 3.8% | -1.6% | -6.3% |
+| 46 min | GBP | Average Earnings ex Bonus (Jun) |  | 7.4% | 7.3% |
+| 46 min | NOK | Trade Balance (Jul) |  | 14.1B | 44.2B |
 | 14:30 | CHF | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
 | 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.070% |
 | 17:30 | ZAR | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
@@ -29,7 +29,7 @@
 | 20:30 | USD | Export Price Index (YoY) |  | -14.1% | -12.0% |
 | 20:30 | USD | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
-| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
+| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jul) |  | 0.1% | 0.3% |
 | 20:30 | CAD | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | CPI (YoY) (Jul) |  | 3.0% | 2.8% |
 | 20:30 | CAD | Manufacturing Sales (MoM) (Jun) |  | -2.0% | 1.2% |
@@ -37,4 +37,4 @@
 | 20:30 | CAD | Trimmed CPI (YoY) (Jul) |  | 3.4% | 3.7% |
 | 20:55 | USD | Redbook (YoY) |  |  | 0.3% |
 | 22:00 | USD | NAHB Housing Market Index (Aug) |  | 56 | 56 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 23:00 | NZD | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |

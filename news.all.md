@@ -22,20 +22,20 @@
 | 12:00 | IDR | Low | Export Growth (YoY) (Jul) | -18.03% | -18.30% | -21.18% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Jul) | -8.32% | -15.50% | -18.35% |
 | 12:00 | IDR | Low | Trade Balance (Jul) | 1.31B | 2.53B | 3.46B |
-| 12 min | JPY | Low | Capacity Utilization (MoM) (Jun) |  | -1.6% | -6.3% |
-| 12 min | JPY | Moderate | Industrial Production (MoM) |  | 2.0% | -2.2% |
-| 14:00 | GBP | Low | Average Earnings ex Bonus (Jun) |  | 7.4% | 7.3% |
-| 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 7.3% | 6.9% |
-| 14:00 | GBP | Moderate | Claimant Count Change (Jul) |  | -7.3K | 25.7K |
-| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  | 75K | 102K |
-| 14:00 | GBP | Moderate | Labour Productivity |  |  | -1.4% |
-| 14:00 | GBP | Moderate | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
-| 14:00 | NOK | Low | Trade Balance (Jul) |  |  | 44.2B |
-| 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
+| 12:30 | JPY | Low | Capacity Utilization (MoM) (Jun) | 3.8% | -1.6% | -6.3% |
+| 12:30 | JPY | Moderate | Industrial Production (MoM) | 2.4% | 2.0% | -2.2% |
+| 46 min | GBP | Low | Average Earnings ex Bonus (Jun) |  | 7.4% | 7.3% |
+| 46 min | GBP | Moderate | Average Earnings Index +Bonus (Jun) |  | 7.3% | 6.9% |
+| 46 min | GBP | Moderate | Claimant Count Change (Jul) |  | -7.3K | 25.7K |
+| 46 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jun) |  | 75K | 102K |
+| 46 min | GBP | Moderate | Labour Productivity |  |  | -1.4% |
+| 46 min | GBP | Moderate | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
+| 46 min | NOK | Low | Trade Balance (Jul) |  | 14.1B | 44.2B |
 | 14:30 | CHF | Moderate | PPI (MoM) (Jul) |  | 0.2% | 0.0% |
+| 14:30 | CHF | Low | PPI (YoY) (Jul) |  | -0.5% | -0.6% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -63.0 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -14.7 | -14.7 |
-| 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  |  | -12.2 |
+| 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | -12.0 | -12.2 |
 | 17:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.070% |
 | 17:30 | ZAR | Low | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
 | 17:30 | ZAR | Low | Unemployment (Q2) |  | 7.998M | 7.933M |
@@ -47,15 +47,15 @@
 | 20:20 | INR | Low | Imports (USD) |  |  | 53.10B |
 | 20:20 | INR | Low | Trade Balance |  | -21.00B | -20.13B |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) |  | -0.3% | 0.2% |
-| 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) |  | 0.2% | -0.9% |
+| 20:30 | USD | Low | Export Price Index (YoY) |  | -14.1% | -12.0% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) |  | 0.2% | -0.2% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) |  | -1.00 | 1.10 |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Jul) |  | 0.2% | 0.6% |
 | 20:30 | USD | High | Retail Sales (MoM) (Jul) |  | 0.4% | 0.2% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Jul) |  | 1.50% | 1.49% |
-| 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  |  | 0.3% |
+| 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jul) |  | 0.1% | 0.3% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) |  | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) |  | 2.8% | 3.2% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Jul) |  | 0.4% | -0.1% |
@@ -69,4 +69,4 @@
 | 22:00 | USD | Low | NAHB Housing Market Index (Aug) |  | 56 | 56 |
 | 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  | 0.4% | -0.1% |
 | 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
