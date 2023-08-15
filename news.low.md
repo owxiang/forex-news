@@ -17,10 +17,10 @@
 | 14:00 | GBP | Average Earnings ex Bonus (Jun) | 7.8% | 7.4% | 7.5% |
 | 14:00 | NOK | Trade Balance (Jul) | 61.3B | 14.1B | 44.1B |
 | 14:30 | CHF | PPI (YoY) (Jul) | -0.6% | -0.5% | -0.6% |
-| 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.070% |
-| 17:30 | ZAR | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
-| 17:30 | ZAR | Unemployment (Q2) |  | 7.998M | 7.933M |
-| 18:00 | EUR | Reserve Assets Total (Jul) |  |  | 1,105.60B |
+| 16 min | EUR | German 2-Year Schatz Auction |  |  | 3.070% |
+| 16 min | ZAR | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
+| 16 min | ZAR | Unemployment (Q2) |  | 7.998M | 7.933M |
+| 46 min | EUR | Reserve Assets Total (Jul) |  |  | 1,105.60B |
 | 20:00 | NZD | GlobalDairyTrade Price Index |  |  | -4.3% |
 | 20:00 | USD | Milk Auctions |  |  | 3,100.0 |
 | 20:20 | INR | Exports (USD) |  |  | 32.97B |

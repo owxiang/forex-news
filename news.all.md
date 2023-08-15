@@ -33,14 +33,14 @@
 | 14:00 | NOK | Low | Trade Balance (Jul) | 61.3B | 14.1B | 44.1B |
 | 14:30 | CHF | Low | PPI (YoY) (Jul) | -0.6% | -0.5% | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Jul) | -0.1% | 0.2% | 0.0% |
-| 41 min | EUR | Moderate | German ZEW Current Conditions (Aug) |  | -63.0 | -59.5 |
-| 41 min | EUR | Moderate | German ZEW Economic Sentiment (Aug) |  | -14.7 | -14.7 |
-| 41 min | EUR | Moderate | ZEW Economic Sentiment (Aug) |  | -12.0 | -12.2 |
-| 17:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.070% |
-| 17:30 | ZAR | Low | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
-| 17:30 | ZAR | Low | Unemployment (Q2) |  | 7.998M | 7.933M |
-| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 18:00 | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,105.60B |
+| 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) | -71.3 | -63.0 | -59.5 |
+| 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) | -12.3 | -14.7 | -14.7 |
+| 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) | -5.5 | -12.0 | -12.2 |
+| 16 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.070% |
+| 16 min | ZAR | Low | Unemployment Rate (Q2) |  | 32.90% | 32.90% |
+| 16 min | ZAR | Low | Unemployment (Q2) |  | 7.998M | 7.933M |
+| 46 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 46 min | EUR | Low | Reserve Assets Total (Jul) |  |  | 1,105.60B |
 | 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -4.3% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,100.0 |
 | 20:20 | INR | Low | Exports (USD) |  |  | 32.97B |
