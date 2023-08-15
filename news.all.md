@@ -9,8 +9,8 @@
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 0.9% | -0.3% |
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | -0.5% | 0.1% | 0.6% |
 | 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
 | 09:30 | AUD | Moderate | Wage Price Index (QoQ) (Q2) | 0.8% | 0.9% | 0.8% |
+| 09:30 | AUD | Low | Wage Price Index (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jul) | 3.4% | 3.8% | 3.8% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Jul) | 3.7% | 4.4% | 4.4% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jul) | 3.8% |  | 3.8% |
@@ -31,8 +31,8 @@
 | 14:00 | GBP | Moderate | Labour Productivity | 0.7% |  | -1.4% |
 | 14:00 | GBP | Moderate | Unemployment Rate (Jun) | 4.2% | 4.0% | 4.0% |
 | 14:00 | NOK | Low | Trade Balance (Jul) | 61.3B | 14.1B | 44.1B |
-| 14:30 | CHF | Low | PPI (YoY) (Jul) | -0.6% | -0.5% | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Jul) | -0.1% | 0.2% | 0.0% |
+| 14:30 | CHF | Low | PPI (YoY) (Jul) | -0.6% | -0.5% | -0.6% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Aug) | -71.3 | -63.0 | -59.5 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Aug) | -12.3 | -14.7 | -14.7 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Aug) | -5.5 | -12.0 | -12.2 |
@@ -41,9 +41,10 @@
 | 17:30 | ZAR | Low | Unemployment (Q2) | 7.921M | 7.998M | 7.933M |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 18:00 | EUR | Low | Reserve Assets Total (Jul) | 1,109.69B |  | 1,105.17B |
+| 20:00 | USD | Low | Milk Auctions | 2,875.0 |  | 3,100.0 |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Jul) | 1.0% | -0.3% | 0.2% |
-| 20:30 | USD | Low | Export Price Index (YoY) | -7.9% | -14.1% | -12.0% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Jul) | 0.7% | 0.2% | -0.7% |
+| 20:30 | USD | Low | Export Price Index (YoY) | -7.9% | -14.1% | -12.0% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Jul) | 0.4% | 0.2% | -0.1% |
 | 20:30 | USD | Low | Import Price Index (YoY) | -4.4% | -6.5% | -6.1% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Aug) | -19.00 | -1.00 | 1.10 |
@@ -54,8 +55,8 @@
 | 20:30 | CAD | Low | Common CPI (YoY) (Jul) | 4.8% | 4.7% | 5.1% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Jul) | 3.2% | 2.8% | 3.2% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Jul) | 0.5% | 0.4% | -0.1% |
-| 20:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.6% | 0.3% | 0.1% |
 | 20:30 | CAD | Low | CPI (YoY) (Jul) | 3.3% | 3.0% | 2.8% |
+| 20:30 | CAD | Moderate | CPI (MoM) (Jul) | 0.6% | 0.3% | 0.1% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jun) | -1.7% | -2.0% | 1.2% |
 | 20:30 | CAD | Low | Median CPI (YoY) (Jul) | 3.7% | 3.7% | 3.7% |
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Jul) | 3.6% | 3.4% | 3.7% |
@@ -63,5 +64,5 @@
 | 22:00 | USD | Moderate | Business Inventories (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
 | 22:00 | USD | Low | NAHB Housing Market Index (Aug) | 50 | 56 | 56 |
 | 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.3% | 0.4% | -0.1% |
-| 47 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 47 min | NZD | Low | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
+| 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index | -7.4% | -0.7% | -4.3% |

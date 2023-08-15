@@ -30,4 +30,4 @@
 | 20:30 | CAD | CPI (MoM) (Jul) | 0.6% | 0.3% | 0.1% |
 | 22:00 | USD | Business Inventories (MoM) (Jun) | 0.0% | 0.1% | 0.2% |
 | 22:00 | USD | Retail Inventories Ex Auto (Jun) | 0.3% | 0.4% | -0.1% |
-| 47 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |

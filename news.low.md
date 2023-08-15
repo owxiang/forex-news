@@ -21,6 +21,7 @@
 | 17:30 | ZAR | Unemployment Rate (Q2) | 32.60% | 32.90% | 32.90% |
 | 17:30 | ZAR | Unemployment (Q2) | 7.921M | 7.998M | 7.933M |
 | 18:00 | EUR | Reserve Assets Total (Jul) | 1,109.69B |  | 1,105.17B |
+| 20:00 | USD | Milk Auctions | 2,875.0 |  | 3,100.0 |
 | 20:30 | USD | Export Price Index (YoY) | -7.9% | -14.1% | -12.0% |
 | 20:30 | USD | Import Price Index (YoY) | -4.4% | -6.5% | -6.1% |
 | 20:30 | USD | Retail Sales (YoY) (Jul) | 3.17% | 1.50% | 1.59% |
@@ -32,4 +33,4 @@
 | 20:30 | CAD | Trimmed CPI (YoY) (Jul) | 3.6% | 3.4% | 3.7% |
 | 20:55 | USD | Redbook (YoY) | 0.7% |  | 0.3% |
 | 22:00 | USD | NAHB Housing Market Index (Aug) | 50 | 56 | 56 |
-| 47 min | NZD | GlobalDairyTrade Price Index |  | -0.7% | -4.3% |
+| 23:00 | NZD | GlobalDairyTrade Price Index | -7.4% | -0.7% | -4.3% |
