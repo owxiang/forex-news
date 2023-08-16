@@ -16,14 +16,14 @@
 | 14:00 | GBP | Core CPI (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
 | 14:00 | GBP | Core PPI Output (YoY) (Jul) | 2.3% | 1.6% | 3.1% |
 | 14:00 | GBP | Core PPI Output (MoM) (Jul) | 0.1% | -0.3% | -0.2% |
-| 14:00 | GBP | Core RPI (MoM) (Jul) | -0.7% | 0.6% | 0.2% |
 | 14:00 | GBP | Core RPI (YoY) (Jul) | 7.9% | 8.3% | 9.6% |
+| 14:00 | GBP | Core RPI (MoM) (Jul) | -0.7% | 0.6% | 0.2% |
 | 14:00 | GBP | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
 | 14:00 | GBP | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
 | 14:00 | GBP | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
 | 14:00 | GBP | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
-| 14:00 | GBP | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
 | 14:00 | GBP | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
+| 14:00 | GBP | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
 | 14:30 | NOK | Consumer Confidence (Q3) | -30.20 |  | -33.10 |
 | 16:30 | GBP | House Price Index (YoY) | 1.7% | 1.8% | 1.8% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction | 3.507% |  | 3.500% |
@@ -38,8 +38,8 @@
 | 19:00 | USD | Mortgage Market Index | 193.0 |  | 194.5 |
 | 19:00 | USD | Mortgage Refinance Index | 408.4 |  | 416.1 |
 | 19:00 | ZAR | Retail Sales (YoY) (Jun) | -0.9% | -0.2% | -1.6% |
-| 46 min | USD | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
-| 46 min | USD | Manufacturing Production (MoM) (Jul) |  | 0.0% | -0.3% |
+| 21:15 | USD | Capacity Utilization Rate (Jul) | 79.3% | 79.1% | 78.6% |
+| 21:15 | USD | Manufacturing Production (MoM) (Jul) | 0.5% | 0.0% | -0.5% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 22:30 | USD | Crude Oil Imports |  | 0.374M | 2.937M |
 | 22:30 | USD | Distillate Fuel Production |  | 0.041M | 0.050M |
