@@ -6,18 +6,18 @@
 | 02:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Jul) | -12.8% | -16.5% | -15.0% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
-| 32 min | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
-| 32 min | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.7% | 0.3% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.66T | -0.55T |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | 3.6% | -7.6% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | -5.5% | -8.7% |
-| 07:50 | JPY | Moderate | Exports (YoY) (Jul) |  | -0.8% | 1.5% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 438.8B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -59.4B |
-| 07:50 | JPY | Low | Imports (YoY) (Jul) |  | -14.7% | -12.9% |
-| 07:50 | JPY | Moderate | Trade Balance (Jul) |  | 24.6B | 43.0B |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) |  | -16.50% | -15.50% |
+| 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.2% |
+| 06:45 | NZD | Low | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.3% |
+| 36 min | JPY | Moderate | Adjusted Trade Balance |  | -0.66T | -0.55T |
+| 36 min | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | 3.6% | -7.6% |
+| 36 min | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | -5.5% | -8.7% |
+| 36 min | JPY | Moderate | Exports (YoY) (Jul) |  | -0.8% | 1.5% |
+| 36 min | JPY | Low | Foreign Bonds Buying |  |  | 438.8B |
+| 36 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -59.4B |
+| 36 min | JPY | Low | Imports (YoY) (Jul) |  | -14.7% | -12.9% |
+| 36 min | JPY | Moderate | Trade Balance (Jul) |  | 24.6B | 43.0B |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) |  | 2.60% | 5.40% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) |  | -16.50% | -15.50% |
 | 09:30 | AUD | Moderate | Employment Change (Jul) |  | 15.0K | 32.6K |
 | 09:30 | AUD | Moderate | Full Employment Change (Jul) |  |  | 39.3K |
 | 09:30 | AUD | Low | Participation Rate (Jul) |  | 66.8% | 66.8% |
