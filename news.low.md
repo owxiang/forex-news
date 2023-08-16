@@ -16,20 +16,20 @@
 | 14:00 | GBP | Core CPI (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
 | 14:00 | GBP | Core PPI Output (YoY) (Jul) | 2.3% | 1.6% | 3.1% |
 | 14:00 | GBP | Core PPI Output (MoM) (Jul) | 0.1% | -0.3% | -0.2% |
-| 14:00 | GBP | Core RPI (YoY) (Jul) | 7.9% | 8.3% | 9.6% |
 | 14:00 | GBP | Core RPI (MoM) (Jul) | -0.7% | 0.6% | 0.2% |
+| 14:00 | GBP | Core RPI (YoY) (Jul) | 7.9% | 8.3% | 9.6% |
 | 14:00 | GBP | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
 | 14:00 | GBP | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
 | 14:00 | GBP | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
 | 14:00 | GBP | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
-| 14:00 | GBP | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
 | 14:00 | GBP | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
+| 14:00 | GBP | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
 | 14:30 | NOK | Consumer Confidence (Q3) | -30.20 |  | -33.10 |
-| 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.500% |
-| 17:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.6% |
-| 17:00 | EUR | Employment Change (YoY) |  | 1.4% | 1.6% |
-| 17:00 | EUR | Employment Overall (Q2) |  |  | 166,419.1K |
-| 17:00 | EUR | Industrial Production (YoY) (Jun) |  | -4.2% | -2.2% |
+| 21 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.500% |
+| 41 min | EUR | Employment Change (YoY) |  | 1.4% | 1.6% |
+| 41 min | EUR | Employment Change (QoQ) |  | 0.2% | 0.6% |
+| 41 min | EUR | Employment Overall (Q2) |  |  | 166,419.1K |
+| 41 min | EUR | Industrial Production (YoY) (Jun) |  | -4.2% | -2.2% |
 | 17:30 | EUR | German 30-Year Bund Auction |  |  | 2.400% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.09% |
