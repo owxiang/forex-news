@@ -8,14 +8,14 @@
 | 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jun) | 195.90B | 114.50B | 23.60B |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.195M | -2.050M | 4.067M |
 | 07:00 | JPY | Low | Reuters Tankan Index (Aug) | 12 |  | 3 |
-| 46 min | KRW | Low | Exports (YoY) (Jul) |  |  | -16.5% |
-| 46 min | KRW | Low | Imports (YoY) (Jul) |  |  | -25.4% |
-| 46 min | KRW | Low | Trade Balance (Jul) |  |  | 1.63B |
-| 09:00 | AUD | Low | MI Leading Index (MoM) (Jul) |  |  | 0.1% |
-| 09:30 | CNY | Low | House Prices (YoY) (Jul) |  |  | 0.0% |
-| 10:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
-| 10:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 10:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 08:00 | KRW | Low | Exports (YoY) (Jul) | -16.4% |  | -16.5% |
+| 08:00 | KRW | Low | Imports (YoY) (Jul) | -25.4% |  | -25.4% |
+| 08:00 | KRW | Low | Trade Balance (Jul) | 1.65B |  | 1.63B |
+| 09:00 | AUD | Low | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.1% |
+| 25 min | CNY | Low | House Prices (YoY) (Jul) |  |  | 0.0% |
+| 55 min | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 55 min | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 55 min | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Jul) |  | 58.90% | 59.40% |
 | 11:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 14:00 | GBP | Low | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
@@ -27,8 +27,8 @@
 | 14:00 | GBP | Moderate | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
 | 14:00 | GBP | High | CPI (YoY) (Jul) |  | 6.8% | 7.9% |
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) |  |  | 131.50 |
-| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
 | 14:00 | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
+| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
@@ -40,8 +40,8 @@
 | 17:00 | EUR | Low | Employment Overall (Q2) |  |  | 166,419.1K |
 | 17:00 | EUR | Moderate | GDP (QoQ) |  | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
-| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Jun) |  | -4.2% | -2.2% |
+| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
 | 17:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.400% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
@@ -54,8 +54,8 @@
 | 20:15 | CAD | Moderate | Housing Starts (Jul) |  | 240.0K | 281.4K |
 | 20:30 | USD | High | Building Permits (Jul) |  | 1.463M | 1.441M |
 | 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
-| 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
+| 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |
 | 21:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
 | 21:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  | -0.10% | -0.43% |

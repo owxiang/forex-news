@@ -6,11 +6,11 @@
 | 04:00 | USD | Overall Net Capital Flow (Jun) | 147.80B | 42.80B | -161.60B |
 | 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Jun) | 195.90B | 114.50B | 23.60B |
 | 07:00 | JPY | Reuters Tankan Index (Aug) | 12 |  | 3 |
-| 46 min | KRW | Exports (YoY) (Jul) |  |  | -16.5% |
-| 46 min | KRW | Imports (YoY) (Jul) |  |  | -25.4% |
-| 46 min | KRW | Trade Balance (Jul) |  |  | 1.63B |
-| 09:00 | AUD | MI Leading Index (MoM) (Jul) |  |  | 0.1% |
-| 09:30 | CNY | House Prices (YoY) (Jul) |  |  | 0.0% |
+| 08:00 | KRW | Exports (YoY) (Jul) | -16.4% |  | -16.5% |
+| 08:00 | KRW | Imports (YoY) (Jul) | -25.4% |  | -25.4% |
+| 08:00 | KRW | Trade Balance (Jul) | 1.65B |  | 1.63B |
+| 09:00 | AUD | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.1% |
+| 25 min | CNY | House Prices (YoY) (Jul) |  |  | 0.0% |
 | 11:00 | NZD | RBNZ Offshore Holdings (Jul) |  | 58.90% | 59.40% |
 | 14:00 | GBP | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
 | 14:00 | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
