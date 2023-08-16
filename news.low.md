@@ -38,8 +38,8 @@
 | 19:00 | USD | Mortgage Market Index | 193.0 |  | 194.5 |
 | 19:00 | USD | Mortgage Refinance Index | 408.4 |  | 416.1 |
 | 19:00 | ZAR | Retail Sales (YoY) (Jun) | -0.9% | -0.2% | -1.6% |
-| 21:15 | USD | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
-| 21:15 | USD | Manufacturing Production (MoM) (Jul) |  | 0.0% | -0.3% |
+| 46 min | USD | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
+| 46 min | USD | Manufacturing Production (MoM) (Jul) |  | 0.0% | -0.3% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 22:30 | USD | Crude Oil Imports |  | 0.374M | 2.937M |
 | 22:30 | USD | Distillate Fuel Production |  | 0.041M | 0.050M |

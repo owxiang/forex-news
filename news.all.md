@@ -27,8 +27,8 @@
 | 14:00 | GBP | Moderate | CPI (MoM) (Jul) | -0.4% | -0.5% | 0.1% |
 | 14:00 | GBP | High | CPI (YoY) (Jul) | 6.8% | 6.8% | 7.9% |
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
-| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -0.4% | 0.0% | -1.3% |
 | 14:00 | GBP | Low | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
+| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -0.4% | 0.0% | -1.3% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
@@ -39,8 +39,8 @@
 | 17:00 | EUR | Low | Employment Change (QoQ) | 0.2% | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) | 1.5% | 1.4% | 1.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) | 166,745.3K |  | 166,400.8K |
-| 17:00 | EUR | Moderate | GDP (QoQ) | 0.3% | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) (Q2) | 0.6% | 0.6% | 1.1% |
+| 17:00 | EUR | Moderate | GDP (QoQ) | 0.3% | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | 0.5% | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Jun) | -1.2% | -4.2% | -2.5% |
 | 17:30 | EUR | Low | German 30-Year Bund Auction | 2.680% |  | 2.400% |
@@ -50,16 +50,16 @@
 | 19:00 | USD | Low | Mortgage Market Index | 193.0 |  | 194.5 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 408.4 |  | 416.1 |
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Jun) | -0.9% | -0.2% | -1.6% |
-| 20:15 | CAD | Moderate | Housing Starts (Jul) |  | 240.0K | 281.4K |
+| 20:15 | CAD | Moderate | Housing Starts (Jul) | 255.0K | 240.0K | 283.5K |
 | 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
 | 20:30 | USD | High | Building Permits (Jul) |  | 1.463M | 1.441M |
 | 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |
-| 21:15 | USD | Low | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
-| 21:15 | USD | Moderate | Industrial Production (YoY) (Jul) |  | -0.10% | -0.43% |
-| 21:15 | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | -0.5% |
-| 21:15 | USD | Low | Manufacturing Production (MoM) (Jul) |  | 0.0% | -0.3% |
+| 46 min | USD | Low | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
+| 46 min | USD | Moderate | Industrial Production (YoY) (Jul) |  | -0.10% | -0.43% |
+| 46 min | USD | Moderate | Industrial Production (MoM) (Jul) |  | 0.3% | -0.5% |
+| 46 min | USD | Low | Manufacturing Production (MoM) (Jul) |  | 0.0% | -0.3% |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.320M | 5.851M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 22:30 | USD | Low | Crude Oil Imports |  | 0.374M | 2.937M |
