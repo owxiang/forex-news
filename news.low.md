@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  | 2.063B | 1.923B |
+| 17 min | BRL | Foreign Exchange Flows |  | 2.063B | 1.923B |
 | 05:00 | KRW | Export Price Index (YoY) (Jul) |  | -16.5% | -14.7% |
 | 05:00 | KRW | Import Price Index (YoY) (Jul) |  | -20.8% | -15.7% |
 | 06:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.7% | 0.3% |
