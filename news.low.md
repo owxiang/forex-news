@@ -9,15 +9,15 @@
 | 08:00 | KRW | Exports (YoY) (Jul) | -16.4% |  | -16.5% |
 | 08:00 | KRW | Imports (YoY) (Jul) | -25.4% |  | -25.4% |
 | 08:00 | KRW | Trade Balance (Jul) | 1.65B |  | 1.63B |
-| 09:00 | AUD | MI Leading Index (MoM) (Jul) | -0.0% |  | 0.1% |
+| 09:00 | AUD | MI Leading Index (MoM) (Jul) | 0.0% |  | 0.1% |
 | 09:30 | CNY | House Prices (YoY) (Jul) | -0.1% |  | 0.0% |
 | 11:00 | NZD | RBNZ Offshore Holdings (Jul) | 58.30% | 58.90% | 59.40% |
 | 14:00 | GBP | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
 | 14:00 | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 14:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
 | 14:00 | GBP | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
-| 14:00 | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
+| 14:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
 | 14:00 | GBP | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
+| 14:00 | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
 | 14:00 | GBP | CPI, n.s.a (Jul) |  |  | 131.50 |
 | 14:00 | GBP | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
 | 14:00 | GBP | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
@@ -44,8 +44,8 @@
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 22:30 | USD | Crude Oil Imports |  | 0.374M | 2.937M |
 | 22:30 | USD | Distillate Fuel Production |  | 0.041M | 0.050M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.400M | -1.706M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.473M | -1.706M |
 | 22:30 | USD | Gasoline Production |  | 0.081M | 0.092M |
 | 22:30 | USD | Heating Oil Stockpiles |  | 0.038M | 0.166M |
 | 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
-| 22:30 | USD | Gasoline Inventories |  | -1.600M | -2.661M |
+| 22:30 | USD | Gasoline Inventories |  | -1.260M | -2.661M |
