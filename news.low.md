@@ -12,18 +12,18 @@
 | 09:00 | AUD | MI Leading Index (MoM) (Jul) | 0.0% |  | 0.1% |
 | 09:30 | CNY | House Prices (YoY) (Jul) | -0.1% |  | 0.0% |
 | 11:00 | NZD | RBNZ Offshore Holdings (Jul) | 58.30% | 58.90% | 59.40% |
-| 14:00 | GBP | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
-| 14:00 | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 14:00 | GBP | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
-| 14:00 | GBP | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
-| 14:00 | GBP | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
-| 14:00 | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
-| 14:00 | GBP | CPI, n.s.a (Jul) |  |  | 131.50 |
-| 14:00 | GBP | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
-| 14:00 | GBP | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
-| 14:00 | GBP | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
-| 14:00 | GBP | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
-| 14:00 | GBP | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
+| 46 min | GBP | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
+| 46 min | GBP | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
+| 46 min | GBP | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
+| 46 min | GBP | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
+| 46 min | GBP | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
+| 46 min | GBP | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
+| 46 min | GBP | CPI, n.s.a (Jul) |  |  | 131.50 |
+| 46 min | GBP | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
+| 46 min | GBP | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
+| 46 min | GBP | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
+| 46 min | GBP | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
+| 46 min | GBP | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
 | 15:30 | NOK | Consumer Confidence (Q3) |  |  | -34.40 |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.500% |
 | 17:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.6% |

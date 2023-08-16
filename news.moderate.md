@@ -7,15 +7,15 @@
 | 10:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 10:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 11:00 | NZD | RBNZ Press Conference |  |  |  |
-| 14:00 | GBP | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
-| 14:00 | GBP | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
-| 17:00 | EUR | GDP (QoQ) |  | 0.3% | 0.0% |
+| 46 min | GBP | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
+| 46 min | GBP | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
 | 17:00 | EUR | GDP (YoY) (Q2) |  | 0.6% | 1.1% |
+| 17:00 | EUR | GDP (QoQ) |  | 0.3% | 0.0% |
 | 17:00 | EUR | Industrial Production (MoM) (Jun) |  | -0.1% | 0.2% |
 | 20:15 | CAD | Housing Starts (Jul) |  | 240.0K | 281.4K |
 | 20:30 | USD | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
-| 20:30 | USD | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
 | 20:30 | USD | Housing Starts (Jul) |  | 1.448M | 1.434M |
+| 20:30 | USD | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
 | 20:30 | CAD | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |
 | 21:15 | USD | Industrial Production (YoY) (Jul) |  | -0.10% | -0.43% |
 | 21:15 | USD | Industrial Production (MoM) (Jul) |  | 0.3% | -0.5% |
