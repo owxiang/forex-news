@@ -9,8 +9,8 @@
 | 11:00 | NZD | RBNZ Press Conference |  |  |  |
 | 14:00 | GBP | CPI (MoM) (Jul) | -0.4% | -0.5% | 0.1% |
 | 14:00 | GBP | PPI Input (MoM) (Jul) | -0.4% | 0.0% | -1.3% |
-| 17:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 1.1% |
 | 17:00 | EUR | GDP (QoQ) | 0.3% | 0.3% | 0.0% |
+| 17:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 1.1% |
 | 17:00 | EUR | Industrial Production (MoM) (Jun) | 0.5% | -0.1% | 0.2% |
 | 20:15 | CAD | Housing Starts (Jul) |  | 240.0K | 281.4K |
 | 20:30 | USD | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
