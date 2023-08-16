@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 4.149B | 2.063B | 1.923B |
-| 45 min | KRW | Export Price Index (YoY) (Jul) |  | -16.5% | -14.7% |
-| 45 min | KRW | Import Price Index (YoY) (Jul) |  | -20.8% | -15.7% |
+| 05:00 | KRW | Export Price Index (YoY) (Jul) | -12.8% | -16.5% | -15.0% |
+| 05:00 | KRW | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
 | 06:45 | NZD | PPI Output (QoQ) (Q2) |  | 0.7% | 0.3% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Jun) |  | 3.6% | -7.6% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Jun) |  | -5.5% | -8.7% |
