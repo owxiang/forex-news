@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | BRL | Low | Foreign Exchange Flows | 4.149B | 2.063B | 1.923B |
 | 02:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 05:00 | KRW | Low | Export Price Index (YoY) (Jul) |  | -16.5% | -14.7% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Jul) |  | -20.8% | -15.7% |
+| 45 min | KRW | Low | Export Price Index (YoY) (Jul) |  | -16.5% | -14.7% |
+| 45 min | KRW | Low | Import Price Index (YoY) (Jul) |  | -20.8% | -15.7% |
 | 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
 | 06:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.7% | 0.3% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.66T | -0.55T |
