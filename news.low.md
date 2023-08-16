@@ -14,21 +14,21 @@
 | 11:00 | NZD | RBNZ Offshore Holdings (Jul) | 58.30% | 58.90% | 59.40% |
 | 14:00 | GBP | Core CPI (YoY) (Jul) | 6.9% | 6.8% | 6.9% |
 | 14:00 | GBP | Core CPI (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
-| 14:00 | GBP | Core PPI Output (YoY) (Jul) | 2.3% | 1.6% | 3.1% |
 | 14:00 | GBP | Core PPI Output (MoM) (Jul) | 0.1% | -0.3% | -0.2% |
+| 14:00 | GBP | Core PPI Output (YoY) (Jul) | 2.3% | 1.6% | 3.1% |
 | 14:00 | GBP | Core RPI (YoY) (Jul) | 7.9% | 8.3% | 9.6% |
 | 14:00 | GBP | Core RPI (MoM) (Jul) | -0.7% | 0.6% | 0.2% |
 | 14:00 | GBP | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
 | 14:00 | GBP | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
-| 14:00 | GBP | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
 | 14:00 | GBP | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
+| 14:00 | GBP | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
 | 14:00 | GBP | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
 | 14:00 | GBP | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
 | 14:30 | NOK | Consumer Confidence (Q3) | -30.20 |  | -33.10 |
 | 16:30 | GBP | House Price Index (YoY) | 1.7% | 1.8% | 1.8% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction | 3.507% |  | 3.500% |
-| 17:00 | EUR | Employment Change (QoQ) | 0.2% | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Change (YoY) | 1.5% | 1.4% | 1.6% |
+| 17:00 | EUR | Employment Change (QoQ) | 0.2% | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Overall (Q2) | 166,745.3K |  | 166,400.8K |
 | 17:00 | EUR | Industrial Production (YoY) (Jun) | -1.2% | -4.2% | -2.5% |
 | 17:30 | EUR | German 30-Year Bund Auction | 2.680% |  | 2.400% |
@@ -40,11 +40,11 @@
 | 19:00 | ZAR | Retail Sales (YoY) (Jun) | -0.9% | -0.2% | -1.6% |
 | 21:15 | USD | Capacity Utilization Rate (Jul) | 79.3% | 79.1% | 78.6% |
 | 21:15 | USD | Manufacturing Production (MoM) (Jul) | 0.5% | 0.0% | -0.5% |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 22:30 | USD | Crude Oil Imports |  | 0.374M | 2.937M |
-| 22:30 | USD | Distillate Fuel Production |  | 0.041M | 0.050M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.473M | -1.706M |
-| 22:30 | USD | Gasoline Production |  | 0.081M | 0.092M |
-| 22:30 | USD | Heating Oil Stockpiles |  | 0.038M | 0.166M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
-| 22:30 | USD | Gasoline Inventories |  | -1.260M | -2.661M |
+| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
+| 16 min | USD | Crude Oil Imports |  | 0.374M | 2.937M |
+| 16 min | USD | Distillate Fuel Production |  | 0.041M | 0.050M |
+| 16 min | USD | EIA Weekly Distillates Stocks |  | -0.473M | -1.706M |
+| 16 min | USD | Gasoline Production |  | 0.081M | 0.092M |
+| 16 min | USD | Heating Oil Stockpiles |  | 0.038M | 0.166M |
+| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
+| 16 min | USD | Gasoline Inventories |  | -1.260M | -2.661M |
