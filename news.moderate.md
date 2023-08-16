@@ -14,9 +14,9 @@
 | 17:00 | EUR | Industrial Production (MoM) (Jun) | 0.5% | -0.1% | 0.2% |
 | 20:15 | CAD | Housing Starts (Jul) | 255.0K | 240.0K | 283.5K |
 | 20:30 | USD | Building Permits (MoM) (Jul) | 0.1% | -1.7% | -3.7% |
-| 20:30 | USD | Housing Starts (MoM) (Jul) | 3.9% | 2.7% | -11.7% |
 | 20:30 | USD | Housing Starts (Jul) | 1.452M | 1.448M | 1.398M |
+| 20:30 | USD | Housing Starts (MoM) (Jul) | 3.9% | 2.7% | -11.7% |
 | 20:30 | CAD | Wholesale Sales (MoM) (Jun) | -2.8% | -4.2% | 2.9% |
 | 21:15 | USD | Industrial Production (YoY) (Jul) | -0.23% | -0.10% | -0.78% |
 | 21:15 | USD | Industrial Production (MoM) (Jul) | 1.0% | 0.3% | -0.8% |
-| 16 min | USD | Cushing Crude Oil Inventories |  | 0.131M | 0.159M |
+| 22:30 | USD | Cushing Crude Oil Inventories | -0.837M | 0.131M | 0.159M |
