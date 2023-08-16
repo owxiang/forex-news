@@ -1,22 +1,18 @@
-## 16 August 2023 - Moderate Impact Forex News
+## 17 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | TIC Net Long-Term Transactions (Jun) | 195.9B | 107.2B | 23.6B |
-| 04:30 | USD | API Weekly Crude Oil Stock | -6.195M | -2.050M | 4.067M |
-| 10:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 10:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 11:00 | NZD | RBNZ Press Conference |  |  |  |
-| 14:00 | GBP | CPI (MoM) (Jul) | -0.4% | -0.5% | 0.1% |
-| 14:00 | GBP | PPI Input (MoM) (Jul) | -0.4% | 0.0% | -1.3% |
-| 17:00 | EUR | GDP (QoQ) | 0.3% | 0.3% | 0.0% |
-| 17:00 | EUR | GDP (YoY) (Q2) | 0.6% | 0.6% | 1.1% |
-| 17:00 | EUR | Industrial Production (MoM) (Jun) | 0.5% | -0.1% | 0.2% |
-| 20:15 | CAD | Housing Starts (Jul) | 255.0K | 240.0K | 283.5K |
-| 20:30 | USD | Building Permits (MoM) (Jul) | 0.1% | -1.7% | -3.7% |
-| 20:30 | USD | Housing Starts (Jul) | 1.452M | 1.448M | 1.398M |
-| 20:30 | USD | Housing Starts (MoM) (Jul) | 3.9% | 2.7% | -11.7% |
-| 20:30 | CAD | Wholesale Sales (MoM) (Jun) | -2.8% | -4.2% | 2.9% |
-| 21:15 | USD | Industrial Production (YoY) (Jul) | -0.23% | -0.10% | -0.78% |
-| 21:15 | USD | Industrial Production (MoM) (Jul) | 1.0% | 0.3% | -0.8% |
-| 22:30 | USD | Cushing Crude Oil Inventories | -0.837M | 0.131M | 0.159M |
+| 06:45 | NZD | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 07:50 | JPY | Adjusted Trade Balance |  | -0.66T | -0.55T |
+| 07:50 | JPY | Exports (YoY) (Jul) |  | -0.8% | 1.5% |
+| 07:50 | JPY | Trade Balance (Jul) |  | 24.6B | 43.0B |
+| 09:30 | AUD | Employment Change (Jul) |  | 15.0K | 32.6K |
+| 09:30 | AUD | Full Employment Change (Jul) |  |  | 39.3K |
+| 09:30 | AUD | Unemployment Rate (Jul) |  | 3.6% | 3.5% |
+| 12:30 | JPY | Tertiary Industry Activity Index (MoM) |  | -0.2% | 1.2% |
+| 14:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 16:00 | NOK | Interest Rate Decision |  |  | 3.75% |
+| 17:00 | EUR | Trade Balance (Jun) |  | 18.3B | -0.3B |
+| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 20:30 | USD | Philly Fed Employment (Aug) |  | -0.7 | -1.0 |
+| 20:30 | CAD | Foreign Securities Purchases (Jun) |  |  | 11.16B |

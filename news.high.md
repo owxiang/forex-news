@@ -1,8 +1,7 @@
-## 16 August 2023 - High Impact Forex News
+## 17 August 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | NZD | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 14:00 | GBP | CPI (YoY) (Jul) | 6.8% | 6.8% | 7.9% |
-| 20:30 | USD | Building Permits (Jul) | 1.442M | 1.463M | 1.441M |
-| 22:30 | USD | Crude Oil Inventories | -5.960M | -2.320M | 5.851M |
+| 02:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 20:30 | USD | Initial Jobless Claims |  | 240K | 248K |
+| 20:30 | USD | Philadelphia Fed Manufacturing Index (Aug) |  | -10.0 | -13.5 |
