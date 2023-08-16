@@ -6,8 +6,8 @@
 | 02:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Jul) | -12.8% | -16.5% | -15.0% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
-| 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
-| 06:45 | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.7% | 0.3% |
+| 32 min | NZD | Moderate | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 32 min | NZD | Low | PPI Output (QoQ) (Q2) |  | 0.7% | 0.3% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.66T | -0.55T |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | 3.6% | -7.6% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | -5.5% | -8.7% |

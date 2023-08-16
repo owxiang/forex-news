@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:45 | NZD | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
+| 32 min | NZD | PPI Input (QoQ) (Q2) |  | 0.2% | 0.2% |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.66T | -0.55T |
 | 07:50 | JPY | Exports (YoY) (Jul) |  | -0.8% | 1.5% |
 | 07:50 | JPY | Trade Balance (Jul) |  | 24.6B | 43.0B |
