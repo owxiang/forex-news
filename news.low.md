@@ -24,7 +24,7 @@
 | 14:00 | GBP | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
 | 14:00 | GBP | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
 | 14:00 | GBP | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
-| 11 min | NOK | Consumer Confidence (Q3) |  |  | -34.40 |
+| 14:30 | NOK | Consumer Confidence (Q3) | -30.20 |  | -33.10 |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.500% |
 | 17:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Change (YoY) |  | 1.4% | 1.6% |
