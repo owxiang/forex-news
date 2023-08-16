@@ -29,8 +29,8 @@
 | 14:00 | GBP | Low | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
 | 14:00 | GBP | Low | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -0.4% | 0.0% | -1.3% |
-| 14:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
+| 14:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
 | 14:00 | GBP | Low | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
 | 14:00 | GBP | Low | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
 | 14:30 | NOK | Low | Consumer Confidence (Q3) | -30.20 |  | -33.10 |
@@ -42,18 +42,16 @@
 | 17:00 | EUR | Moderate | GDP (QoQ) | 0.3% | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | Industrial Production (MoM) (Jun) | 0.5% | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Jun) | -1.2% | -4.2% | -2.5% |
-| 16 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.400% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.1% |
-| 19:00 | USD | Low | MBA Purchase Index |  |  | 149.9 |
-| 19:00 | USD | Low | Mortgage Market Index |  |  | 194.5 |
-| 19:00 | USD | Low | Mortgage Refinance Index |  |  | 416.1 |
-| 19:00 | USD | Low | Milk Auctions |  |  | 3,100.0 |
-| 19:00 | ZAR | Low | Retail Sales (YoY) (Jun) |  | -0.2% | -1.4% |
+| 17:30 | EUR | Low | German 30-Year Bund Auction | 2.680% |  | 2.400% |
+| 45 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.09% |
+| 45 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -3.1% |
+| 45 min | USD | Low | MBA Purchase Index |  |  | 149.9 |
+| 45 min | USD | Low | Mortgage Market Index |  |  | 194.5 |
+| 45 min | USD | Low | Mortgage Refinance Index |  |  | 416.1 |
+| 45 min | ZAR | Low | Retail Sales (YoY) (Jun) |  | -0.2% | -1.4% |
 | 20:15 | CAD | Moderate | Housing Starts (Jul) |  | 240.0K | 281.4K |
-| 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
 | 20:30 | USD | High | Building Permits (Jul) |  | 1.463M | 1.441M |
+| 20:30 | USD | Moderate | Building Permits (MoM) (Jul) |  | -1.7% | -3.7% |
 | 20:30 | USD | Moderate | Housing Starts (Jul) |  | 1.448M | 1.434M |
 | 20:30 | USD | Moderate | Housing Starts (MoM) (Jul) |  | 2.7% | -8.0% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jun) |  | -4.2% | 3.5% |

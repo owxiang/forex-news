@@ -20,8 +20,8 @@
 | 14:00 | GBP | Core RPI (MoM) (Jul) | -0.7% | 0.6% | 0.2% |
 | 14:00 | GBP | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
 | 14:00 | GBP | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
-| 14:00 | GBP | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
 | 14:00 | GBP | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
+| 14:00 | GBP | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
 | 14:00 | GBP | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
 | 14:00 | GBP | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
 | 14:30 | NOK | Consumer Confidence (Q3) | -30.20 |  | -33.10 |
@@ -30,15 +30,13 @@
 | 17:00 | EUR | Employment Change (YoY) | 1.5% | 1.4% | 1.6% |
 | 17:00 | EUR | Employment Overall (Q2) | 166,745.3K |  | 166,400.8K |
 | 17:00 | EUR | Industrial Production (YoY) (Jun) | -1.2% | -4.2% | -2.5% |
-| 16 min | EUR | German 30-Year Bund Auction |  |  | 2.400% |
-| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.09% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -3.1% |
-| 19:00 | USD | MBA Purchase Index |  |  | 149.9 |
-| 19:00 | USD | Mortgage Market Index |  |  | 194.5 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 416.1 |
-| 19:00 | USD | Milk Auctions |  |  | 3,100.0 |
-| 19:00 | ZAR | Retail Sales (YoY) (Jun) |  | -0.2% | -1.4% |
+| 17:30 | EUR | German 30-Year Bund Auction | 2.680% |  | 2.400% |
+| 45 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.09% |
+| 45 min | USD | MBA Mortgage Applications (WoW) |  |  | -3.1% |
+| 45 min | USD | MBA Purchase Index |  |  | 149.9 |
+| 45 min | USD | Mortgage Market Index |  |  | 194.5 |
+| 45 min | USD | Mortgage Refinance Index |  |  | 416.1 |
+| 45 min | ZAR | Retail Sales (YoY) (Jun) |  | -0.2% | -1.4% |
 | 21:15 | USD | Capacity Utilization Rate (Jul) |  | 79.1% | 78.9% |
 | 21:15 | USD | Manufacturing Production (MoM) (Jul) |  | 0.0% | -0.3% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
