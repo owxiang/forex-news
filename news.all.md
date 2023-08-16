@@ -18,22 +18,22 @@
 | 10:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Jul) | 58.30% | 58.90% | 59.40% |
 | 11:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 46 min | GBP | Low | Core CPI (YoY) (Jul) |  | 6.8% | 6.9% |
-| 46 min | GBP | Low | Core CPI (MoM) (Jul) |  | 0.2% | 0.2% |
-| 46 min | GBP | Low | Core PPI Output (YoY) (Jul) |  | 1.6% | 3.0% |
-| 46 min | GBP | Low | Core PPI Output (MoM) (Jul) |  | -0.3% | -0.2% |
-| 46 min | GBP | Low | Core RPI (YoY) (Jul) |  | 8.3% | 9.6% |
-| 46 min | GBP | Low | Core RPI (MoM) (Jul) |  | 0.6% | 0.2% |
-| 46 min | GBP | Moderate | CPI (MoM) (Jul) |  | -0.5% | 0.1% |
-| 46 min | GBP | High | CPI (YoY) (Jul) |  | 6.8% | 7.9% |
-| 46 min | GBP | Low | CPI, n.s.a (Jul) |  |  | 131.50 |
-| 46 min | GBP | Low | PPI Input (YoY) (Jul) |  | -3.1% | -2.7% |
-| 46 min | GBP | Moderate | PPI Input (MoM) (Jul) |  | 0.0% | -1.3% |
-| 46 min | GBP | Low | PPI Output (YoY) (Jul) |  | -1.3% | 0.1% |
-| 46 min | GBP | Low | PPI Output (MoM) (Jul) |  | -0.2% | -0.3% |
-| 46 min | GBP | Low | RPI (MoM) (Jul) |  | -0.7% | 0.3% |
-| 46 min | GBP | Low | RPI (YoY) (Jul) |  | 9.0% | 10.7% |
-| 15:30 | NOK | Low | Consumer Confidence (Q3) |  |  | -34.40 |
+| 14:00 | GBP | Low | Core CPI (YoY) (Jul) | 6.9% | 6.8% | 6.9% |
+| 14:00 | GBP | Low | Core CPI (MoM) (Jul) | 0.3% | 0.2% | 0.2% |
+| 14:00 | GBP | Low | Core PPI Output (YoY) (Jul) | 2.3% | 1.6% | 3.1% |
+| 14:00 | GBP | Low | Core PPI Output (MoM) (Jul) | 0.1% | -0.3% | -0.2% |
+| 14:00 | GBP | Low | Core RPI (YoY) (Jul) | 7.9% | 8.3% | 9.6% |
+| 14:00 | GBP | Low | Core RPI (MoM) (Jul) | -0.7% | 0.6% | 0.2% |
+| 14:00 | GBP | Moderate | CPI (MoM) (Jul) | -0.4% | -0.5% | 0.1% |
+| 14:00 | GBP | High | CPI (YoY) (Jul) | 6.8% | 6.8% | 7.9% |
+| 14:00 | GBP | Low | CPI, n.s.a (Jul) | 130.90 |  | 131.50 |
+| 14:00 | GBP | Low | PPI Input (YoY) (Jul) | -3.3% | -3.1% | -2.9% |
+| 14:00 | GBP | Moderate | PPI Input (MoM) (Jul) | -0.4% | 0.0% | -1.3% |
+| 14:00 | GBP | Low | PPI Output (YoY) (Jul) | -0.8% | -1.3% | 0.3% |
+| 14:00 | GBP | Low | PPI Output (MoM) (Jul) | 0.1% | -0.2% | -0.2% |
+| 14:00 | GBP | Low | RPI (MoM) (Jul) | -0.6% | -0.7% | 0.3% |
+| 14:00 | GBP | Low | RPI (YoY) (Jul) | 9.0% | 9.0% | 10.7% |
+| 11 min | NOK | Low | Consumer Confidence (Q3) |  |  | -34.40 |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.500% |
 | 17:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) |  | 1.4% | 1.6% |
