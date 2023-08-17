@@ -24,8 +24,8 @@
 | 09:30 | AUD | Low | Reserve Assets Total (Jul) | 91.4B |  | 90.5B |
 | 09:30 | AUD | Moderate | Unemployment Rate (Jul) | 3.7% | 3.6% | 3.5% |
 | 09:45 | SGD | Low | Trade Balance | 6.490B |  | 5.851B |
-| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 14:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:00 | EUR | Low | Spanish Trade Balance | -2.36B | -4.31B | -3.11B |
 | 16:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 3.75% |
@@ -47,5 +47,5 @@
 | 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 14.44B |  | -1.71B |
 | 22:00 | USD | Low | US Leading Index (MoM) (Jul) | -0.4% | -0.4% | -0.7% |
 | 22:30 | USD | Low | Natural Gas Storage | 35B | 34B | 29B |
-| 54 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 54 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
+| 33 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 33 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |

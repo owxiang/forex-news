@@ -30,5 +30,5 @@
 | 20:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 14.44B |  | -1.71B |
 | 22:00 | USD | US Leading Index (MoM) (Jul) | -0.4% | -0.4% | -0.7% |
 | 22:30 | USD | Natural Gas Storage | 35B | 34B | 29B |
-| 54 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 54 min | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 33 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 33 min | USD | 8-Week Bill Auction |  |  | 5.280% |
