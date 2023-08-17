@@ -11,6 +11,9 @@ def scrape_forex_events():
     url = os.environ['URL']
     all_events = ""
     high_events = ""
+    highm = ""
+    midm = ""
+    lowm = ""
     table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
     table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     
