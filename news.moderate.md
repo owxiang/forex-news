@@ -10,7 +10,7 @@
 | 09:30 | AUD | Full Employment Change (Jul) | -24.2K |  | 38.0K |
 | 09:30 | AUD | Unemployment Rate (Jul) | 3.7% | 3.6% | 3.5% |
 | 12:30 | JPY | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
-| 46 min | EUR | German Buba Balz Speaks |  |  |  |
+| 14:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:00 | NOK | Interest Rate Decision |  | 4.00% | 3.75% |
 | 17:00 | EUR | Trade Balance (Jun) |  | 18.3B | -0.3B |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |

@@ -6,13 +6,13 @@
 | 05:00 | KRW | Export Price Index (YoY) (Jul) | -12.8% | -16.5% | -15.0% |
 | 05:00 | KRW | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
 | 06:45 | NZD | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.2% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
 | 07:50 | JPY | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
 | 09:30 | AUD | Participation Rate (Jul) | 66.7% | 66.8% | 66.8% |
 | 09:30 | AUD | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
 | 09:45 | SGD | Trade Balance | 6.490B |  | 5.851B |
