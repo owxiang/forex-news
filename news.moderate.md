@@ -12,7 +12,7 @@
 | 12:30 | JPY | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
 | 14:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 3.75% |
-| 41 min | EUR | Trade Balance (Jun) |  | 18.3B | -0.3B |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 17:00 | EUR | Trade Balance (Jun) | 23.0B | 18.3B | -0.3B |
+| 46 min | EUR | German Buba Balz Speaks |  |  |  |
 | 20:30 | USD | Philly Fed Employment (Aug) |  | -0.7 | -1.0 |
 | 20:30 | CAD | Foreign Securities Purchases (Jun) |  |  | 11.16B |
