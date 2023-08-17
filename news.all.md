@@ -16,8 +16,8 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Low | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
 | 07:50 | JPY | Moderate | Trade Balance (Jul) | -78.7B | 24.6B | 43.1B |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 09:30 | AUD | Moderate | Employment Change (Jul) | -14.6K | 15.0K | 31.6K |
 | 09:30 | AUD | Moderate | Full Employment Change (Jul) | -24.2K |  | 38.0K |
 | 09:30 | AUD | Low | Participation Rate (Jul) | 66.7% | 66.8% | 66.8% |
@@ -47,5 +47,5 @@
 | 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 14.44B |  | -1.71B |
 | 22:00 | USD | Low | US Leading Index (MoM) (Jul) | -0.4% | -0.4% | -0.7% |
 | 22:30 | USD | Low | Natural Gas Storage | 35B | 34B | 29B |
-| 33 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 33 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
+| 15 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 15 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |

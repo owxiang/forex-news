@@ -11,8 +11,8 @@
 | 07:50 | JPY | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 09:30 | AUD | Participation Rate (Jul) | 66.7% | 66.8% | 66.8% |
 | 09:30 | AUD | Reserve Assets Total (Jul) | 91.4B |  | 90.5B |
 | 09:45 | SGD | Trade Balance | 6.490B |  | 5.851B |
@@ -30,5 +30,5 @@
 | 20:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 14.44B |  | -1.71B |
 | 22:00 | USD | US Leading Index (MoM) (Jul) | -0.4% | -0.4% | -0.7% |
 | 22:30 | USD | Natural Gas Storage | 35B | 34B | 29B |
-| 33 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 33 min | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 15 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 15 min | USD | 8-Week Bill Auction |  |  | 5.280% |
