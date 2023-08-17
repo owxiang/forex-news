@@ -191,7 +191,7 @@ def send_pre_event_message(row, bot_token, chat_id, lambda_arn):
     
     remove_lambda_trigger(lambda_arn, rule_name)
     delete_cloudwatch_event(rule_name)
-    print(f"EventBridge Schedule {rule_name} is deleted its permission is removed.")
+    print(f"EventBridge Schedule {rule_name} is deleted and its permission is removed.")
     # set_post_event_schedule(event_name,event_time)
 
 def set_post_event_schedule(event_name,event_time):
@@ -264,7 +264,9 @@ def lambda_handler(event, context):
             if rule_name == 'schedule-forex-before-after-news-alert':
                 event_time_str = row['Time (GMT+8)']
                 event_time = datetime.datetime.strptime(event_time_str, '%d %B %Y - %H:%M').replace(tzinfo=time_zone)
-                set_pre_event_schedule(row, event_time, lambda_arn)
+                
+                if event_time > current_time:
+                    set_pre_event_schedule(row, event_time, lambda_arn)
                 
             elif rule_name == 'schedule-forex-before-after-news-alert-eod':
                 send_post_event_message_v2(row, bot_token, chat_id)
