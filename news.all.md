@@ -9,31 +9,31 @@
 | 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.0% |
 | 06:45 | NZD | Low | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.2% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.66T | -0.54T |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Moderate | Exports (YoY) (Jul) | -0.3% | -0.8% | 1.5% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Low | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
 | 07:50 | JPY | Moderate | Trade Balance (Jul) | -78.7B | 24.6B | 43.1B |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 09:30 | AUD | Moderate | Employment Change (Jul) | -14.6K | 15.0K | 31.6K |
 | 09:30 | AUD | Moderate | Full Employment Change (Jul) | -24.2K |  | 38.0K |
 | 09:30 | AUD | Low | Participation Rate (Jul) | 66.7% | 66.8% | 66.8% |
-| 09:30 | AUD | Low | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
+| 09:30 | AUD | Low | Reserve Assets Total (Jul) | 91.4B |  | 90.5B |
 | 09:30 | AUD | Moderate | Unemployment Rate (Jul) | 3.7% | 3.6% | 3.5% |
 | 09:45 | SGD | Low | Trade Balance | 6.490B |  | 5.851B |
-| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 14:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:00 | EUR | Low | Spanish Trade Balance | -2.36B | -4.31B | -3.11B |
 | 16:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 3.75% |
 | 16:30 | HKD | Low | Unemployment Rate (Jul) | 2.8% | 2.8% | 2.9% |
 | 17:00 | EUR | Moderate | Trade Balance (Jun) | 23.0B | 18.3B | -0.3B |
-| 16 min | ZAR | Low | Business Confidence (Jul) |  |  | 106.9 |
-| 46 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
+| 17:30 | ZAR | Low | Business Confidence (Jul) | 107.3 |  | 106.9 |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 45 min | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,700K | 1,684K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 240K | 248K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 229.63K | 231.00K |
