@@ -11,9 +11,6 @@ def scrape_forex_events():
     url = os.environ['URL']
     all_events = ""
     high_events = ""
-    highm = ""
-    midm = ""
-    lowm = ""
     table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
     table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     
@@ -23,7 +20,9 @@ def scrape_forex_events():
 
     # Set Chrome options to run in headless mode
     chrome_options = Options()
-    chrome_options.add_argument('--headless')  # Run Chrome in headless mode
+
+    # Run Chrome in headless mode
+    chrome_options.add_argument('--headless')  
     
     # Start the WebDriver
     driver = webdriver.Chrome(options=chrome_options)
@@ -69,17 +68,14 @@ def scrape_forex_events():
                 high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_high_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "High"
-                highm += f"{time} {currency} {event}\n"
                 
             elif "Moderate Volatility Expected" in sentiment:
                 table_for_moderate_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Moderate"
-                midm += f"{time} {currency} {event}\n"
                 
             elif "Low Volatility Expected" in sentiment:
                 table_for_low_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Low"
-                lowm += f"{time} {currency} {event}\n"
                 
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
@@ -91,18 +87,14 @@ def scrape_forex_events():
     else:
         message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
         
-    # current_hour = datetime.now().hour
-    # if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
-    #     send_telegram(message)
-    send_telegram(highm)
-    send_telegram(midm)
-    send_telegram(lowm)
+    current_hour = datetime.now().hour
+    if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
+        send_telegram(message)
 
     # Close the WebDriver
     driver.quit()
     
 def send_telegram(message):
-    # Initialize
     bot = os.environ['TELEGRAM_BOT_TOKEN']
     chat_id = os.environ['TELEGRAM_CHANNEL_ID']
     
@@ -157,8 +149,7 @@ def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, tabl
     for filename, content in table_content.items():
         if content == table_header_for_all or content == table_header_for_the_rest:
             content = no_news_messages[filename]
-        
-        # Add formatted_date to the content
+            
         content = f"{headers[filename]}\n\n{content}"
         
         with open(filename, 'w') as file:
