@@ -11,12 +11,12 @@
 | 07:50 | JPY | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
 | 09:30 | AUD | Participation Rate (Jul) | 66.7% | 66.8% | 66.8% |
 | 09:30 | AUD | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
 | 09:45 | SGD | Trade Balance | 6.490B |  | 5.851B |
-| 12:30 | JPY | Tertiary Industry Activity Index (Jun) |  |  | -0.60 |
+| 13 min | JPY | Tertiary Industry Activity Index (Jun) |  |  | -0.60 |
 | 16:00 | EUR | Spanish Trade Balance |  | -4.31B | -3.11B |
 | 16:30 | HKD | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
 | 17:00 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
@@ -32,6 +32,6 @@
 | 20:30 | USD | Philly Fed Prices Paid (Aug) |  | 10.10 | 9.50 |
 | 20:30 | CAD | Foreign Securities Purchases by Canadians (Jun) |  |  | -2.78B |
 | 22:00 | USD | US Leading Index (MoM) (Jul) |  | -0.4% | -0.7% |
-| 22:30 | USD | Natural Gas Storage |  | -12B | 29B |
+| 22:30 | USD | Natural Gas Storage |  | 34B | 29B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
