@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.229T |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Jul) |  |  | 0.1% |
 | 07:30 | JPY | National CPI (YoY) (Jul) |  | 2.5% | 3.3% |
 | 14:00 | NOK | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
