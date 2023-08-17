@@ -66,16 +66,21 @@ def scrape_forex_events():
                 high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_high_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "High"
+                highm += f"{time} {currency} {event}\n"
+                
             elif "Moderate Volatility Expected" in sentiment:
                 table_for_moderate_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Moderate"
+                midm += f"{time} {currency} {event}\n"
+                
             elif "Low Volatility Expected" in sentiment:
                 table_for_low_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Low"
+                lowm += f"{time} {currency} {event}\n"
                 
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
-        
+    
     write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest,formatted_date)
 
     if not high_events:
@@ -83,9 +88,12 @@ def scrape_forex_events():
     else:
         message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
         
-    current_hour = datetime.now().hour
-    if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
-        send_telegram(message)
+    # current_hour = datetime.now().hour
+    # if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
+    #     send_telegram(message)
+    send_telegram(highm)
+    send_telegram(midm)
+    send_telegram(lowm)
 
     # Close the WebDriver
     driver.quit()
