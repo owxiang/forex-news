@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:45 | NZD | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.2% |
-| 36 min | JPY | Adjusted Trade Balance |  | -0.66T | -0.55T |
-| 36 min | JPY | Exports (YoY) (Jul) |  | -0.8% | 1.5% |
-| 36 min | JPY | Trade Balance (Jul) |  | 24.6B | 43.0B |
-| 09:30 | AUD | Employment Change (Jul) |  | 15.0K | 32.6K |
-| 09:30 | AUD | Full Employment Change (Jul) |  |  | 39.3K |
-| 09:30 | AUD | Unemployment Rate (Jul) |  | 3.6% | 3.5% |
+| 07:50 | JPY | Adjusted Trade Balance | -0.56T | -0.66T | -0.54T |
+| 07:50 | JPY | Exports (YoY) (Jul) | -0.3% | -0.8% | 1.5% |
+| 07:50 | JPY | Trade Balance (Jul) | -78.7B | 24.6B | 43.1B |
+| 26 min | AUD | Employment Change (Jul) |  | 15.0K | 32.6K |
+| 26 min | AUD | Full Employment Change (Jul) |  |  | 39.3K |
+| 26 min | AUD | Unemployment Rate (Jul) |  | 3.6% | 3.5% |
 | 12:30 | JPY | Tertiary Industry Activity Index (MoM) |  | -0.2% | 1.2% |
 | 14:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:00 | NOK | Interest Rate Decision |  |  | 3.75% |

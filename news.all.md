@@ -8,24 +8,24 @@
 | 05:00 | KRW | Low | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
 | 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.2% |
 | 06:45 | NZD | Low | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.3% |
-| 36 min | JPY | Moderate | Adjusted Trade Balance |  | -0.66T | -0.55T |
-| 36 min | JPY | Low | Core Machinery Orders (MoM) (Jun) |  | 3.6% | -7.6% |
-| 36 min | JPY | Low | Core Machinery Orders (YoY) (Jun) |  | -5.5% | -8.7% |
-| 36 min | JPY | Moderate | Exports (YoY) (Jul) |  | -0.8% | 1.5% |
-| 36 min | JPY | Low | Foreign Bonds Buying |  |  | 438.8B |
-| 36 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -59.4B |
-| 36 min | JPY | Low | Imports (YoY) (Jul) |  | -14.7% | -12.9% |
-| 36 min | JPY | Moderate | Trade Balance (Jul) |  | 24.6B | 43.0B |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) |  | 2.60% | 5.40% |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) |  | -16.50% | -15.50% |
-| 09:30 | AUD | Moderate | Employment Change (Jul) |  | 15.0K | 32.6K |
-| 09:30 | AUD | Moderate | Full Employment Change (Jul) |  |  | 39.3K |
-| 09:30 | AUD | Low | Participation Rate (Jul) |  | 66.8% | 66.8% |
-| 09:30 | AUD | Low | Reserve Assets Total (Jul) |  |  | 90,462.0M |
-| 09:30 | AUD | Moderate | Unemployment Rate (Jul) |  | 3.6% | 3.5% |
-| 09:30 | SGD | Low | Trade Balance |  |  | 5.788B |
-| 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | -0.2% | 1.2% |
+| 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.66T | -0.54T |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
+| 07:50 | JPY | Moderate | Exports (YoY) (Jul) | -0.3% | -0.8% | 1.5% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
+| 07:50 | JPY | Low | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
+| 07:50 | JPY | Moderate | Trade Balance (Jul) | -78.7B | 24.6B | 43.1B |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
+| 26 min | AUD | Moderate | Employment Change (Jul) |  | 15.0K | 32.6K |
+| 26 min | AUD | Moderate | Full Employment Change (Jul) |  |  | 39.3K |
+| 26 min | AUD | Low | Participation Rate (Jul) |  | 66.8% | 66.8% |
+| 26 min | AUD | Low | Reserve Assets Total (Jul) |  |  | 90,462.0M |
+| 26 min | AUD | Moderate | Unemployment Rate (Jul) |  | 3.6% | 3.5% |
+| 26 min | SGD | Low | Trade Balance |  |  | 5.788B |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -0.60 |
+| 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | -0.2% | 1.2% |
 | 14:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:00 | EUR | Low | Spanish Trade Balance |  | -4.31B | -3.11B |
 | 16:00 | NOK | Moderate | Interest Rate Decision |  |  | 3.75% |
