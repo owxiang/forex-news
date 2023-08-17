@@ -17,11 +17,11 @@
 | 09:30 | AUD | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
 | 09:45 | SGD | Trade Balance | 6.490B |  | 5.851B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
-| 47 min | EUR | Spanish Trade Balance |  | -4.31B | -3.11B |
-| 16:30 | HKD | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
-| 17:00 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
-| 17:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
-| 17:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 16:00 | EUR | Spanish Trade Balance | -2.36B | -4.31B | -3.11B |
+| 11 min | HKD | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
+| 41 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
+| 41 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
+| 41 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 17:30 | ZAR | Business Confidence (Jul) |  |  | 106.9 |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,684K |

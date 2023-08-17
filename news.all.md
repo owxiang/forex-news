@@ -24,16 +24,16 @@
 | 09:30 | AUD | Low | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
 | 09:30 | AUD | Moderate | Unemployment Rate (Jul) | 3.7% | 3.6% | 3.5% |
 | 09:45 | SGD | Low | Trade Balance | 6.490B |  | 5.851B |
-| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 14:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 47 min | EUR | Low | Spanish Trade Balance |  | -4.31B | -3.11B |
-| 47 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 3.75% |
-| 16:30 | HKD | Low | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
-| 17:00 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
-| 17:00 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.303% |
-| 17:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 17:00 | EUR | Moderate | Trade Balance (Jun) |  | 18.3B | -0.3B |
+| 16:00 | EUR | Low | Spanish Trade Balance | -2.36B | -4.31B | -3.11B |
+| 16:00 | NOK | Moderate | Interest Rate Decision | 4.00% | 4.00% | 3.75% |
+| 11 min | HKD | Low | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
+| 41 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
+| 41 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.303% |
+| 41 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 41 min | EUR | Moderate | Trade Balance (Jun) |  | 18.3B | -0.3B |
 | 17:30 | ZAR | Low | Business Confidence (Jul) |  |  | 106.9 |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
