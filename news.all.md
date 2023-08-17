@@ -9,8 +9,8 @@
 | 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.0% |
 | 06:45 | NZD | Low | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.2% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.66T | -0.54T |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Moderate | Exports (YoY) (Jul) | -0.3% | -0.8% | 1.5% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
@@ -27,8 +27,8 @@
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
 | 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
 | 14:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:00 | EUR | Low | Spanish Trade Balance |  | -4.31B | -3.11B |
-| 16:00 | NOK | Moderate | Interest Rate Decision |  | 4.00% | 3.75% |
+| 47 min | EUR | Low | Spanish Trade Balance |  | -4.31B | -3.11B |
+| 47 min | NOK | Moderate | Interest Rate Decision |  | 4.00% | 3.75% |
 | 16:30 | HKD | Low | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
 | 17:00 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
 | 17:00 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.303% |

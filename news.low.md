@@ -6,8 +6,8 @@
 | 05:00 | KRW | Export Price Index (YoY) (Jul) | -12.8% | -16.5% | -15.0% |
 | 05:00 | KRW | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
 | 06:45 | NZD | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.2% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
@@ -17,7 +17,7 @@
 | 09:30 | AUD | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
 | 09:45 | SGD | Trade Balance | 6.490B |  | 5.851B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Jun) | 3.90 |  | -0.70 |
-| 16:00 | EUR | Spanish Trade Balance |  | -4.31B | -3.11B |
+| 47 min | EUR | Spanish Trade Balance |  | -4.31B | -3.11B |
 | 16:30 | HKD | Unemployment Rate (Jul) |  | 2.8% | 2.9% |
 | 17:00 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
 | 17:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
