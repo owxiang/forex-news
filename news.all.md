@@ -16,16 +16,16 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Low | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
 | 07:50 | JPY | Moderate | Trade Balance (Jul) | -78.7B | 24.6B | 43.1B |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jul) | -20.20% | -16.50% | -15.60% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jul) | -3.40% | 2.60% | 5.20% |
 | 09:30 | AUD | Moderate | Employment Change (Jul) | -14.6K | 15.0K | 32.6K |
 | 09:30 | AUD | Moderate | Full Employment Change (Jul) | -24.2K |  | 39.3K |
 | 09:30 | AUD | Low | Participation Rate (Jul) | 66.7% | 66.8% | 66.8% |
 | 09:30 | AUD | Low | Reserve Assets Total (Jul) | 91,407.0M |  | 90,462.0M |
 | 09:30 | AUD | Moderate | Unemployment Rate (Jul) | 3.7% | 3.6% | 3.5% |
-| 12 min | SGD | Low | Trade Balance |  |  | 5.788B |
-| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -0.60 |
+| 09:45 | SGD | Low | Trade Balance | 6.490B |  | 5.851B |
 | 12:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | -0.2% | 1.2% |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jun) |  |  | -0.60 |
 | 14:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:00 | EUR | Low | Spanish Trade Balance |  | -4.31B | -3.11B |
 | 16:00 | NOK | Moderate | Interest Rate Decision |  |  | 3.75% |
