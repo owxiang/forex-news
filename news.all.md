@@ -33,7 +33,7 @@
 | 17:00 | EUR | Moderate | Trade Balance (Jun) | 23.0B | 18.3B | -0.3B |
 | 17:30 | ZAR | Low | Business Confidence (Jul) | 107.3 |  | 106.9 |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 45 min | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
+| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Aug) | -0.1% |  | -1.1% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,700K | 1,684K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 240K | 248K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 229.63K | 231.00K |

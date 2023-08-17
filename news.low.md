@@ -20,7 +20,7 @@
 | 16:00 | EUR | Spanish Trade Balance | -2.36B | -4.31B | -3.11B |
 | 16:30 | HKD | Unemployment Rate (Jul) | 2.8% | 2.8% | 2.9% |
 | 17:30 | ZAR | Business Confidence (Jul) | 107.3 |  | 106.9 |
-| 45 min | BRL | IGP-10 Inflation Index (MoM) (Aug) |  |  | -1.1% |
+| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Aug) | -0.1% |  | -1.1% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,700K | 1,684K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  | 229.63K | 231.00K |
 | 20:30 | USD | Philly Fed Business Conditions (Aug) |  | 31.6 | 29.1 |
