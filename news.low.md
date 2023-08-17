@@ -6,8 +6,8 @@
 | 05:00 | KRW | Export Price Index (YoY) (Jul) | -12.8% | -16.5% | -15.0% |
 | 05:00 | KRW | Import Price Index (YoY) (Jul) | -13.5% | -20.8% | -16.1% |
 | 06:45 | NZD | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.2% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
 | 07:50 | JPY | Imports (YoY) (Jul) | -13.5% | -14.7% | -12.9% |
@@ -29,6 +29,6 @@
 | 20:30 | USD | Philly Fed Prices Paid (Aug) | 20.80 | 10.10 | 9.50 |
 | 20:30 | CAD | Foreign Securities Purchases by Canadians (Jun) | 14.44B |  | -1.71B |
 | 22:00 | USD | US Leading Index (MoM) (Jul) | -0.4% | -0.4% | -0.7% |
-| 17 min | USD | Natural Gas Storage |  | 34B | 29B |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 22:30 | USD | Natural Gas Storage | 35B | 34B | 29B |
+| 54 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 54 min | USD | 8-Week Bill Auction |  |  | 5.280% |

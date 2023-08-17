@@ -9,8 +9,8 @@
 | 06:45 | NZD | Moderate | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.0% |
 | 06:45 | NZD | Low | PPI Output (QoQ) (Q2) | 0.2% | 0.7% | 0.2% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.66T | -0.54T |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jun) | 2.7% | 3.6% | -7.6% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jun) | -5.8% | -5.5% | -8.7% |
 | 07:50 | JPY | Moderate | Exports (YoY) (Jul) | -0.3% | -0.8% | 1.5% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -334.6B |  | 1,119.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.2B |  | -59.6B |
@@ -46,6 +46,6 @@
 | 20:30 | CAD | Moderate | Foreign Securities Purchases (Jun) | 12.56B |  | 10.21B |
 | 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jun) | 14.44B |  | -1.71B |
 | 22:00 | USD | Low | US Leading Index (MoM) (Jul) | -0.4% | -0.4% | -0.7% |
-| 17 min | USD | Low | Natural Gas Storage |  | 34B | 29B |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
+| 22:30 | USD | Low | Natural Gas Storage | 35B | 34B | 29B |
+| 54 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 54 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
