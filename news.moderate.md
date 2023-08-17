@@ -1,18 +1,15 @@
-## 17 August 2023 - Moderate Impact Forex News
+## 18 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:45 | NZD | PPI Input (QoQ) (Q2) | -0.2% | 0.2% | 0.0% |
-| 07:50 | JPY | Adjusted Trade Balance | -0.56T | -0.66T | -0.54T |
-| 07:50 | JPY | Exports (YoY) (Jul) | -0.3% | -0.8% | 1.5% |
-| 07:50 | JPY | Trade Balance (Jul) | -78.7B | 24.6B | 43.1B |
-| 09:30 | AUD | Employment Change (Jul) | -14.6K | 15.0K | 31.6K |
-| 09:30 | AUD | Full Employment Change (Jul) | -24.2K |  | 38.0K |
-| 09:30 | AUD | Unemployment Rate (Jul) | 3.7% | 3.6% | 3.5% |
-| 12:30 | JPY | Tertiary Industry Activity Index (MoM) | -0.4% | -0.2% | 1.2% |
-| 14:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:00 | NOK | Interest Rate Decision | 4.00% | 4.00% | 3.75% |
-| 17:00 | EUR | Trade Balance (Jun) | 23.0B | 18.3B | -0.3B |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 20:30 | USD | Philly Fed Employment (Aug) | -6.0 | -0.7 | -1.0 |
-| 20:30 | CAD | Foreign Securities Purchases (Jun) | 12.56B |  | 10.21B |
+| 04:30 | USD | Fed's Balance Sheet |  |  | 8,208B |
+| 07:30 | JPY | National Core CPI (YoY) (Jul) |  | 3.1% | 3.3% |
+| 14:00 | GBP | Core Retail Sales (MoM) (Jul) |  | -0.7% | 0.8% |
+| 14:00 | GBP | Core Retail Sales (YoY) (Jul) |  | -2.2% | -0.9% |
+| 14:00 | GBP | Retail Sales (YoY) (Jul) |  | -2.1% | -1.0% |
+| 14:00 | GBP | Retail Sales (MoM) (Jul) |  | -0.5% | 0.7% |
+| 14:00 | NOK | GDP (QoQ) (Q2) |  |  | 0.2% |
+| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 17:00 | EUR | Core CPI (YoY) (Jul) |  | 5.5% | 5.5% |
+| 17:00 | EUR | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
+| 20:30 | CAD | RMPI (MoM) (Jul) |  | 0.0% | -1.5% |
