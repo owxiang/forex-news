@@ -1,5 +1,3 @@
-## 18 August 2023 - High Impact Forex News
+## 19 August 2023 - High Impact Forex News
 
-| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 17:00 | EUR | CPI (YoY) (Jul) | 5.3% | 5.3% | 5.5% |
+There is no high impact news today.

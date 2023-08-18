@@ -1,22 +1,15 @@
-## 18 August 2023 - Low Impact Forex News
+## 19 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.229T |
-| 07:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.5% |  | 0.1% |
-| 07:30 | JPY | National CPI (YoY) (Jul) | 3.3% | 2.5% | 3.3% |
-| 14:30 | CHF | Industrial Production (YoY) (Q2) | -0.80% |  | 4.20% |
-| 16:00 | CNY | FDI (Jul) | -4.00% | 2.00% | -2.70% |
-| 17:00 | EUR | Construction Output (MoM) (Jun) | -0.97% | 0.00% | 0.26% |
-| 17:00 | EUR | Core CPI (MoM) (Jul) | -0.1% | -0.1% | 0.4% |
-| 17:00 | EUR | CPI ex Tobacco (MoM) (Jul) | -0.1% | -0.6% | 0.2% |
-| 17:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 5.3% | 4.5% | 5.5% |
-| 17:00 | EUR | CPI, n.s.a | 123.36 |  | 123.36 |
-| 17:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 6.6% | 6.6% | 6.8% |
-| 17:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.4% |
-| 20:00 | MXN | Retail Sales (MoM) (Jun) | 2.3% | 0.9% | -0.5% |
-| 20:00 | MXN | Retail Sales (YoY) (Jun) | 5.9% | 2.9% | 2.6% |
-| 20:00 | INR | FX Reserves, USD | 602.16B |  | 601.45B |
-| 20:30 | CAD | IPPI (YoY) (Jul) | -2.7% | -6.3% | -5.5% |
-| 20:30 | CAD | IPPI (MoM) (Jul) | 0.4% | -2.3% | -0.6% |
-| 20:30 | CAD | RMPI (YoY) (Jul) | -11.1% | -19.2% | -20.2% |
+| 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.8K |
+| 04:30 | USD | CFTC Copper speculative net positions |  |  | -10.1K |
+| 04:30 | USD | CFTC Corn speculative net positions |  |  | 25.7K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions |  |  | -107.8K |
+| 04:30 | USD | CFTC Silver speculative net positions |  |  | 13.3K |
+| 04:30 | USD | CFTC Soybeans speculative net positions |  |  | 83.5K |
+| 04:30 | USD | CFTC Wheat speculative net positions |  |  | -22.8K |
+| 04:30 | CAD | CFTC CAD speculative net positions |  |  | -0.6K |
+| 04:30 | MXN | CFTC MXN speculative net positions |  |  | 83.7K |
+| 04:30 | CHF | CFTC CHF speculative net positions |  |  | -5.5K |
+| 04:30 | NZD | CFTC NZD speculative net positions |  |  | -0.4K |
