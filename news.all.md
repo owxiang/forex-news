@@ -9,8 +9,8 @@
 | 07:30 | JPY | Low | National CPI (YoY) (Jul) | 3.3% | 2.5% | 3.3% |
 | 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) |  | -0.7% | 0.8% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) |  | -2.2% | -0.9% |
-| 14:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | -0.5% | 0.7% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Jul) |  | -2.1% | -1.0% |
+| 14:00 | GBP | Moderate | Retail Sales (MoM) (Jul) |  | -0.5% | 0.7% |
 | 14:00 | NOK | Moderate | GDP (QoQ) (Q2) |  |  | 0.2% |
 | 14:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
 | 14:30 | CHF | Low | Industrial Production (YoY) (Q2) |  |  | 3.40% |
