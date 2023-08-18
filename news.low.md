@@ -9,13 +9,14 @@
 | 16:00 | CNY | FDI (Jul) | -4.00% | 2.00% | -2.70% |
 | 17:00 | EUR | Construction Output (MoM) (Jun) | -0.97% | 0.00% | 0.26% |
 | 17:00 | EUR | Core CPI (MoM) (Jul) | -0.1% | -0.1% | 0.4% |
-| 17:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 5.3% | 4.5% | 5.5% |
 | 17:00 | EUR | CPI ex Tobacco (MoM) (Jul) | -0.1% | -0.6% | 0.2% |
+| 17:00 | EUR | CPI ex Tobacco (YoY) (Jul) | 5.3% | 4.5% | 5.5% |
+| 17:00 | EUR | CPI, n.s.a | 123.36 |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 6.6% | 6.6% | 6.8% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.4% |
-| 20:00 | MXN | Retail Sales (YoY) (Jun) | 5.9% | 2.9% | 2.6% |
 | 20:00 | MXN | Retail Sales (MoM) (Jun) | 2.3% | 0.9% | -0.5% |
+| 20:00 | MXN | Retail Sales (YoY) (Jun) | 5.9% | 2.9% | 2.6% |
 | 20:00 | INR | FX Reserves, USD | 602.16B |  | 601.45B |
-| 2 min | CAD | IPPI (YoY) (Jul) |  | -6.3% | -5.5% |
-| 2 min | CAD | IPPI (MoM) (Jul) |  | -2.3% | -0.6% |
-| 2 min | CAD | RMPI (YoY) (Jul) |  | -19.2% | -19.7% |
+| 20:30 | CAD | IPPI (MoM) (Jul) | 0.4% | -2.3% | -0.6% |
+| 20:30 | CAD | IPPI (YoY) (Jul) | -2.7% | -6.3% | -5.5% |
+| 20:30 | CAD | RMPI (YoY) (Jul) | -11.1% | -19.2% | -20.2% |
