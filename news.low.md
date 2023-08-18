@@ -17,6 +17,6 @@
 | 20:00 | MXN | Retail Sales (MoM) (Jun) | 2.3% | 0.9% | -0.5% |
 | 20:00 | MXN | Retail Sales (YoY) (Jun) | 5.9% | 2.9% | 2.6% |
 | 20:00 | INR | FX Reserves, USD | 602.16B |  | 601.45B |
-| 20:30 | CAD | IPPI (MoM) (Jul) | 0.4% | -2.3% | -0.6% |
 | 20:30 | CAD | IPPI (YoY) (Jul) | -2.7% | -6.3% | -5.5% |
+| 20:30 | CAD | IPPI (MoM) (Jul) | 0.4% | -2.3% | -0.6% |
 | 20:30 | CAD | RMPI (YoY) (Jul) | -11.1% | -19.2% | -20.2% |
