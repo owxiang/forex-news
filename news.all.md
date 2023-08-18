@@ -7,21 +7,21 @@
 | 07:30 | JPY | Low | CPI, n.s.a (MoM) (Jul) | 0.5% |  | 0.1% |
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Jul) | 3.1% | 3.1% | 3.3% |
 | 07:30 | JPY | Low | National CPI (YoY) (Jul) | 3.3% | 2.5% | 3.3% |
-| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) | -1.4% | -0.7% | 0.7% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Jul) | -3.4% | -2.2% | -1.6% |
+| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Jul) | -1.4% | -0.7% | 0.7% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Jul) | -3.2% | -2.1% | -1.6% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Jul) | -1.2% | -0.5% | 0.6% |
 | 14:30 | CHF | Low | Industrial Production (YoY) (Q2) | -0.80% |  | 4.20% |
-| 47 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | EUR | Low | Construction Output (MoM) (Jun) |  | 0.00% | 0.18% |
-| 17:00 | EUR | Low | Core CPI (MoM) (Jul) |  | -0.1% | 0.4% |
-| 17:00 | EUR | Moderate | Core CPI (YoY) (Jul) |  | 5.5% | 5.5% |
-| 17:00 | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
-| 17:00 | EUR | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
-| 17:00 | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  | 4.5% | 5.5% |
-| 17:00 | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  | -0.6% | 0.2% |
-| 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.6% | 6.8% |
-| 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  | 0.0% | 0.4% |
+| 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 41 min | EUR | Low | Construction Output (MoM) (Jun) |  | 0.00% | 0.18% |
+| 41 min | EUR | Moderate | Core CPI (YoY) (Jul) |  | 5.5% | 5.5% |
+| 41 min | EUR | Low | Core CPI (MoM) (Jul) |  | -0.1% | 0.4% |
+| 41 min | EUR | High | CPI (YoY) (Jul) |  | 5.3% | 5.5% |
+| 41 min | EUR | Moderate | CPI (MoM) (Jul) |  | -0.1% | 0.3% |
+| 41 min | EUR | Low | CPI ex Tobacco (MoM) (Jul) |  | -0.6% | 0.2% |
+| 41 min | EUR | Low | CPI ex Tobacco (YoY) (Jul) |  | 4.5% | 5.5% |
+| 41 min | EUR | Low | HICP ex Energy & Food (YoY) (Jul) |  | 6.6% | 6.8% |
+| 41 min | EUR | Low | HICP ex Energy and Food (MoM) (Jul) |  | 0.0% | 0.4% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 601.45B |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Jun) |  | 2.9% | 2.6% |
