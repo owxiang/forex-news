@@ -13,9 +13,9 @@
 | 17:00 | EUR | CPI ex Tobacco (MoM) (Jul) | -0.1% | -0.6% | 0.2% |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Jul) | 6.6% | 6.6% | 6.8% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Jul) | 0.0% | 0.0% | 0.4% |
-| 18 min | INR | FX Reserves, USD |  |  | 601.45B |
-| 48 min | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.6% |
-| 48 min | MXN | Retail Sales (MoM) (Jun) |  | 0.9% | -0.5% |
-| 20:30 | CAD | IPPI (MoM) (Jul) |  | -2.3% | -0.6% |
-| 20:30 | CAD | IPPI (YoY) (Jul) |  | -6.3% | -5.5% |
-| 20:30 | CAD | RMPI (YoY) (Jul) |  | -19.2% | -19.7% |
+| 20:00 | MXN | Retail Sales (YoY) (Jun) | 5.9% | 2.9% | 2.6% |
+| 20:00 | MXN | Retail Sales (MoM) (Jun) | 2.3% | 0.9% | -0.5% |
+| 20:00 | INR | FX Reserves, USD | 602.16B |  | 601.45B |
+| 2 min | CAD | IPPI (YoY) (Jul) |  | -6.3% | -5.5% |
+| 2 min | CAD | IPPI (MoM) (Jul) |  | -2.3% | -0.6% |
+| 2 min | CAD | RMPI (YoY) (Jul) |  | -19.2% | -19.7% |
