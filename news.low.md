@@ -5,8 +5,7 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.229T |  | 3.229T |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Jul) | 0.5% |  | 0.1% |
 | 07:30 | JPY | National CPI (YoY) (Jul) | 3.3% | 2.5% | 3.3% |
-| 46 min | NOK | GDP Mainland (QoQ) (Q2) |  |  | 0.2% |
-| 14:30 | CHF | Industrial Production (YoY) (Q2) |  |  | 3.40% |
+| 11 min | CHF | Industrial Production (YoY) (Q2) |  |  | 3.40% |
 | Tentative | CNY | FDI |  |  | -2.70% |
 | 17:00 | EUR | Construction Output (MoM) (Jun) |  | 0.00% | 0.18% |
 | 17:00 | EUR | Core CPI (MoM) (Jul) |  | -0.1% | 0.4% |
@@ -18,6 +17,6 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 601.45B |
 | 20:00 | MXN | Retail Sales (YoY) (Jun) |  | 2.9% | 2.6% |
 | 20:00 | MXN | Retail Sales (MoM) (Jun) |  | 0.9% | -0.5% |
-| 20:30 | CAD | IPPI (MoM) (Jul) |  | -2.3% | -0.6% |
 | 20:30 | CAD | IPPI (YoY) (Jul) |  | -6.3% | -5.5% |
+| 20:30 | CAD | IPPI (MoM) (Jul) |  | -2.3% | -0.6% |
 | 20:30 | CAD | RMPI (YoY) (Jul) |  | -19.2% | -19.7% |
