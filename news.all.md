@@ -2,16 +2,16 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:45 | NZD | Low | Exports (Jul) |  |  | 6.31B |
-| 06:45 | NZD | Low | Imports (Jul) |  |  | 6.30B |
-| 06:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -15,980M |
-| 06:45 | NZD | Low | Trade Balance (MoM) (Jul) |  |  | 9M |
-| 07:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) |  |  | 0.5% |
+| 33 min | NZD | Low | Exports (Jul) |  |  | 6.31B |
+| 33 min | NZD | Low | Imports (Jul) |  |  | 6.30B |
+| 33 min | NZD | Low | Trade Balance (MoM) (Jul) |  |  | 9M |
+| 33 min | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -15,980M |
+| 49 min | GBP | Low | Rightmove House Price Index (YoY) (Aug) |  |  | 0.5% |
 | 09:15 | CNY | Low | PBoC Loan Prime Rate 5Y (Aug) |  | 4.05% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.40% | 3.55% |
 | 11:00 | NZD | Low | Credit Card Spending (YoY) |  | 14.3% | 5.0% |
-| 14:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | -0.4% | -0.3% |
 | 14:00 | EUR | Low | German PPI (YoY) (Jul) |  | 7.6% | 0.1% |
+| 14:00 | EUR | Moderate | German PPI (MoM) (Jul) |  | -0.4% | -0.3% |
 | 15:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,135.4M |
 | 16:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.20% |
 | 16:30 | HKD | Low | CPI (YoY) (Jul) |  | 1.90% | 1.90% |
