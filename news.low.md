@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | NZD | Exports (Jul) |  |  | 6.31B |
-| 33 min | NZD | Imports (Jul) |  |  | 6.30B |
-| 33 min | NZD | Trade Balance (MoM) (Jul) |  |  | 9M |
-| 33 min | NZD | Trade Balance (YoY) (Jul) |  |  | -15,980M |
-| 49 min | GBP | Rightmove House Price Index (YoY) (Aug) |  |  | 0.5% |
+| 06:45 | NZD | Exports (Jul) | 5.45B |  | 6.18B |
+| 06:45 | NZD | Imports (Jul) | 6.56B |  | 6.29B |
+| 06:45 | NZD | Trade Balance (YoY) (Jul) | -15,810M |  | -16,110M |
+| 06:45 | NZD | Trade Balance (MoM) (Jul) | -1,107M |  | -111M |
+| 07:01 | GBP | Rightmove House Price Index (YoY) (Aug) | -1.9% |  | -0.2% |
 | 09:15 | CNY | PBoC Loan Prime Rate 5Y (Aug) |  | 4.05% | 4.20% |
 | 11:00 | NZD | Credit Card Spending (YoY) |  | 14.3% | 5.0% |
 | 14:00 | EUR | German PPI (YoY) (Jul) |  | 7.6% | 0.1% |
