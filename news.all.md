@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 06:45 | NZD | Low | Exports (Jul) |  |  | 6.31B |
 | 06:45 | NZD | Low | Imports (Jul) |  |  | 6.30B |
-| 06:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -15,980M |
 | 06:45 | NZD | Low | Trade Balance (MoM) (Jul) |  |  | 9M |
+| 06:45 | NZD | Low | Trade Balance (YoY) (Jul) |  |  | -15,980M |
 | 07:01 | GBP | Low | Rightmove House Price Index (YoY) (Aug) |  |  | 0.5% |
 | 09:15 | CNY | Low | PBoC Loan Prime Rate 5Y (Aug) |  | 4.05% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.40% | 3.55% |
