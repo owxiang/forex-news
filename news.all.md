@@ -12,7 +12,7 @@
 | 11:00 | NZD | Low | Credit Card Spending (YoY) | 3.6% | 14.3% | 5.1% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Jul) | -1.1% | -0.2% | -0.3% |
 | 14:00 | EUR | Low | German PPI (YoY) (Jul) | -6.0% | -5.1% | 0.1% |
-| 40 min | CHF | Low | M3 Money Supply (Jul) |  |  | 1,135.4M |
+| 15:00 | CHF | Low | M3 Money Supply (Jul) | 1,135.4B |  | 1,133.6B |
 | 16:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.20% |
 | 16:30 | HKD | Low | CPI (YoY) (Jul) |  | 2.00% | 1.90% |
 | 17:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.749% |
