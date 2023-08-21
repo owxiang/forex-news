@@ -7,7 +7,7 @@
 | 06:45 | NZD | Trade Balance (YoY) (Jul) | -15,810M |  | -16,110M |
 | 06:45 | NZD | Trade Balance (MoM) (Jul) | -1,107M |  | -111M |
 | 07:01 | GBP | Rightmove House Price Index (YoY) (Aug) | -1.9% |  | -0.2% |
-| 09:15 | CNY | PBoC Loan Prime Rate 5Y (Aug) |  | 4.05% | 4.20% |
+| 10 min | CNY | PBoC Loan Prime Rate 5Y (Aug) |  | 4.05% | 4.20% |
 | 11:00 | NZD | Credit Card Spending (YoY) |  | 14.3% | 5.0% |
 | 14:00 | EUR | German PPI (YoY) (Jul) |  | 7.6% | 0.1% |
 | 15:00 | CHF | M3 Money Supply (Jul) |  |  | 1,135.4M |
