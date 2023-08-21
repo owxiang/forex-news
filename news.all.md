@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | KRW | Low | Consumer Confidence (Aug) |  | 101.9 | 103.2 |
+| 05:00 | KRW | Low | Consumer Confidence (Aug) | 103.1 | 101.9 | 103.2 |
 | 13:00 | JPY | Low | BoJ Core CPI (YoY) |  | 2.7% | 3.0% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Jul) |  | 17.03B | 17.67B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 4.023B | 11.976B |
