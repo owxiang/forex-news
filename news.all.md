@@ -10,9 +10,9 @@
 | 09:15 | CNY | Low | PBoC Loan Prime Rate 5Y (Aug) | 4.20% | 4.05% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.40% | 3.55% |
 | 11:00 | NZD | Low | Credit Card Spending (YoY) | 3.6% | 14.3% | 5.1% |
-| 46 min | EUR | Moderate | German PPI (MoM) (Jul) |  | -0.2% | -0.3% |
-| 46 min | EUR | Low | German PPI (YoY) (Jul) |  | -5.1% | 0.1% |
-| 15:00 | CHF | Low | M3 Money Supply (Jul) |  |  | 1,135.4M |
+| 14:00 | EUR | Moderate | German PPI (MoM) (Jul) | -1.1% | -0.2% | -0.3% |
+| 14:00 | EUR | Low | German PPI (YoY) (Jul) | -6.0% | -5.1% | 0.1% |
+| 40 min | CHF | Low | M3 Money Supply (Jul) |  |  | 1,135.4M |
 | 16:30 | HKD | Low | CPI (MoM) (Jul) |  |  | 0.20% |
 | 16:30 | HKD | Low | CPI (YoY) (Jul) |  | 2.00% | 1.90% |
 | 17:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.749% |
