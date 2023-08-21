@@ -11,10 +11,10 @@
 | 11:00 | NZD | Credit Card Spending (YoY) | 3.6% | 14.3% | 5.1% |
 | 14:00 | EUR | German PPI (YoY) (Jul) | -6.0% | -5.1% | 0.1% |
 | 15:00 | CHF | M3 Money Supply (Jul) | 1,135.4B |  | 1,133.6B |
-| 10 min | HKD | CPI (MoM) (Jul) |  |  | 0.20% |
-| 10 min | HKD | CPI (YoY) (Jul) |  | 2.00% | 1.90% |
-| 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.749% |
-| 18:00 | EUR | German Buba Monthly Report |  |  |  |
+| 16:30 | HKD | CPI (MoM) (Jul) | 0.00% |  | 0.20% |
+| 16:30 | HKD | CPI (YoY) (Jul) | 1.80% | 2.00% | 1.90% |
+| 15 min | EUR | German 12-Month Bubill Auction |  |  | 3.749% |
+| 45 min | EUR | German Buba Monthly Report |  |  |  |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.627% |
