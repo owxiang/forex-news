@@ -16,8 +16,8 @@
 | 17:30 | EUR | German 12-Month Bubill Auction | 3.607% |  | 3.749% |
 | 18:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 26 min | EUR | French 12-Month BTF Auction |  |  | 3.627% |
-| 26 min | EUR | French 3-Month BTF Auction |  |  | 3.657% |
-| 26 min | EUR | French 6-Month BTF Auction |  |  | 3.637% |
+| 20:55 | EUR | French 12-Month BTF Auction | 3.639% |  | 3.627% |
+| 20:55 | EUR | French 3-Month BTF Auction | 3.684% |  | 3.657% |
+| 20:55 | EUR | French 6-Month BTF Auction | 3.658% |  | 3.637% |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.295% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.290% |
