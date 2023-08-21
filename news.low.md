@@ -1,23 +1,23 @@
-## 21 August 2023 - Low Impact Forex News
+## 22 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:45 | NZD | Exports (Jul) | 5.45B |  | 6.18B |
-| 06:45 | NZD | Imports (Jul) | 6.56B |  | 6.29B |
-| 06:45 | NZD | Trade Balance (MoM) (Jul) | -1,107M |  | -111M |
-| 06:45 | NZD | Trade Balance (YoY) (Jul) | -15,810M |  | -16,110M |
-| 07:01 | GBP | Rightmove House Price Index (YoY) (Aug) | -1.9% |  | -0.2% |
-| 09:15 | CNY | PBoC Loan Prime Rate 5Y (Aug) | 4.20% | 4.05% | 4.20% |
-| 11:00 | NZD | Credit Card Spending (YoY) | 3.6% | 14.3% | 5.1% |
-| 14:00 | EUR | German PPI (YoY) (Jul) | -6.0% | -5.1% | 0.1% |
-| 15:00 | CHF | M3 Money Supply (Jul) | 1,135.4B |  | 1,133.6B |
-| 16:30 | HKD | CPI (MoM) (Jul) | 0.00% |  | 0.20% |
-| 16:30 | HKD | CPI (YoY) (Jul) | 1.80% | 2.00% | 1.90% |
-| 17:30 | EUR | German 12-Month Bubill Auction | 3.607% |  | 3.749% |
-| 18:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.639% |  | 3.627% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.684% |  | 3.657% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.658% |  | 3.637% |
-| 15 min | USD | 3-Month Bill Auction |  |  | 5.295% |
-| 15 min | USD | 6-Month Bill Auction |  |  | 5.290% |
+| 05:00 | KRW | Consumer Confidence (Aug) |  | 101.9 | 103.2 |
+| 13:00 | JPY | BoJ Core CPI (YoY) |  | 2.7% | 3.0% |
+| 14:00 | GBP | Public Sector Net Borrowing (Jul) |  | 17.03B | 17.67B |
+| 14:00 | GBP | Public Sector Net Cash Requirement (Jul) |  | 4.023B | 11.976B |
+| 14:00 | CHF | Trade Balance (Jul) |  | 4.300B | 4.823B |
+| 14:00 | NOK | GDP Mainland (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 15:00 | ZAR | Leading Indicators (Jun) |  |  | 108.40% |
+| 16:00 | EUR | Current Account (Jun) |  | -6.9B | 9.1B |
+| 16:00 | EUR | Current Account n.s.a. (Jun) |  |  | -11.3B |
+| 16:35 | IDR | Balance of Payments (EUR) (Q2) |  |  | 6.5B |
+| 16:35 | IDR | Current Account % of GDP (Q2) |  |  | 0.90% |
+| 18:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -13 | -9 |
+| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 19:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 20:55 | USD | Redbook (YoY) |  |  | 0.7% |
+| Tentative | BRL | Federal Tax Revenue |  | 203.56B | 180.48B |
+| 22:00 | USD | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
+| 22:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
+| 22:00 | USD | Richmond Services Index (Aug) |  | -4 | -2 |
