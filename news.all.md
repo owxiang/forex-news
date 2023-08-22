@@ -5,12 +5,12 @@
 | 05:00 | KRW | Low | Consumer Confidence (Aug) | 103.1 | 101.9 | 103.2 |
 | 11:00 | IDR | Low | Balance of Payments (EUR) (Q2) | -7.4B |  | 6.5B |
 | 11:00 | IDR | Low | Current Account % of GDP (Q2) | -0.50% |  | 0.90% |
-| 42 min | JPY | Low | BoJ Core CPI (YoY) |  | 2.7% | 3.0% |
-| 14:00 | GBP | Low | Public Sector Net Borrowing (Jul) |  | 17.03B | 17.67B |
-| 14:00 | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 4.023B | 11.976B |
-| 14:00 | CHF | Low | Trade Balance (Jul) |  | 4.300B | 4.823B |
-| 14:00 | NOK | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
-| 14:00 | NOK | Low | GDP Mainland (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 13:00 | JPY | Low | BoJ Core CPI (YoY) | 3.3% | 2.9% | 3.0% |
+| 46 min | GBP | Low | Public Sector Net Borrowing (Jul) |  | 17.03B | 17.67B |
+| 46 min | GBP | Low | Public Sector Net Cash Requirement (Jul) |  | 4.023B | 11.976B |
+| 46 min | CHF | Low | Trade Balance (Jul) |  | 4.300B | 4.823B |
+| 46 min | NOK | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 46 min | NOK | Low | GDP Mainland (QoQ) (Q2) |  | 0.1% | 0.2% |
 | 15:00 | ZAR | Low | Leading Indicators (Jun) |  |  | 108.40% |
 | 16:00 | EUR | Low | Current Account (Jun) |  | -6.9B | 9.1B |
 | 16:00 | EUR | Low | Current Account n.s.a. (Jun) |  |  | -11.3B |
@@ -19,8 +19,8 @@
 | 19:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 0.7% |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 203.56B | 180.48B |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
 | 22:00 | USD | High | Existing Home Sales (Jul) |  | 4.15M | 4.16M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
 | 22:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
 | 22:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
 | 22:00 | USD | Low | Richmond Services Index (Aug) |  | -4 | -2 |
