@@ -16,7 +16,7 @@
 | 16:00 | EUR | Low | Current Account n.s.a. (Jun) | 36.8B |  | -12.5B |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 18:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -15 | -13 | -9 |
-| 19:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 0.7% |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 203.56B | 180.48B |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
