@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock | -2.418M | -2.900M | -6.195M |
-| 06:45 | NZD | Core Retail Sales (QoQ) |  | -2.5% | -1.1% |
-| 06:45 | NZD | Retail Sales (QoQ) (Q2) |  | -2.6% | -1.4% |
+| 31 min | NZD | Core Retail Sales (QoQ) |  | -2.5% | -1.1% |
+| 31 min | NZD | Retail Sales (QoQ) (Q2) |  | -2.6% | -1.4% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 53.8 |
 | 13:00 | SGD | Core CPI (YoY) (Jul) |  | 3.80% | 4.20% |
 | 13:00 | SGD | CPI (YoY) (Jul) |  | 4.2% | 4.5% |
