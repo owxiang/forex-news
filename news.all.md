@@ -6,11 +6,11 @@
 | 02:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.418M | -2.900M | -6.195M |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Sep) | 67 | 72 | 72 |
-| 31 min | NZD | Moderate | Core Retail Sales (QoQ) |  | -2.5% | -1.1% |
-| 31 min | NZD | Moderate | Retail Sales (QoQ) (Q2) |  | -2.6% | -1.4% |
-| 31 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) |  | 3.1% | -4.1% |
-| 46 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 49.6 | 49.6 |
-| 46 min | AUD | Low | Judo Bank Australia Services PMI |  | 47.9 | 47.9 |
+| 06:45 | NZD | Moderate | Core Retail Sales (QoQ) | -1.8% | -2.5% | -1.6% |
+| 06:45 | NZD | Moderate | Retail Sales (QoQ) (Q2) | -1.0% | -2.6% | -1.6% |
+| 06:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) | -3.5% | 3.1% | -4.1% |
+| 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
+| 07:00 | AUD | Low | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 53.8 |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  | 3.80% | 4.20% |

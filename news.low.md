@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 05:00 | KRW | Manufacturing BSI Index (Sep) | 67 | 72 | 72 |
-| 31 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  | 3.1% | -4.1% |
-| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  | 49.6 | 49.6 |
-| 46 min | AUD | Judo Bank Australia Services PMI |  | 47.9 | 47.9 |
+| 06:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) | -3.5% | 3.1% | -4.1% |
+| 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
+| 07:00 | AUD | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
 | 13:00 | SGD | CPI (MoM) (Jul) |  |  | 0.50% |
 | 14:00 | NOK | M3 Money Supply (Jul) |  |  | 3,059.5B |
