@@ -19,8 +19,8 @@
 | 19:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) | 2.9% |  | 0.7% |
 | 21:30 | BRL | Low | Federal Tax Revenue | 201.80B | 203.56B | 180.48B |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | -2.2% |  | -3.3% |
 | 22:00 | USD | High | Existing Home Sales (Jul) | 4.07M | 4.15M | 4.16M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) | -2.2% |  | -3.3% |
 | 22:00 | USD | Low | Richmond Manufacturing Index (Aug) | -7 | -7 | -9 |
 | 22:00 | USD | Low | Richmond Manufacturing Shipments (Aug) | -5 |  | -6 |
 | 22:00 | USD | Low | Richmond Services Index (Aug) | 4 | -4 | -2 |
