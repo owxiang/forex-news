@@ -11,8 +11,8 @@
 | 14:00 | NOK | GDP (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
 | 14:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
 | 15:00 | ZAR | Leading Indicators (Jun) | 108.30% |  | 108.40% |
-| 46 min | EUR | Current Account (Jun) |  | -6.9B | 9.1B |
-| 46 min | EUR | Current Account n.s.a. (Jun) |  |  | -11.3B |
+| 16:00 | EUR | Current Account (Jun) | 35.8B | -6.9B | 7.9B |
+| 16:00 | EUR | Current Account n.s.a. (Jun) | 36.8B |  | -12.5B |
 | 18:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -13 | -9 |
 | 19:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:55 | USD | Redbook (YoY) |  |  | 0.7% |

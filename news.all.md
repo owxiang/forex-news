@@ -12,8 +12,8 @@
 | 14:00 | NOK | Low | GDP (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
 | 14:00 | NOK | Low | GDP Mainland (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
 | 15:00 | ZAR | Low | Leading Indicators (Jun) | 108.30% |  | 108.40% |
-| 46 min | EUR | Low | Current Account (Jun) |  | -6.9B | 9.1B |
-| 46 min | EUR | Low | Current Account n.s.a. (Jun) |  |  | -11.3B |
+| 16:00 | EUR | Low | Current Account (Jun) | 35.8B | -6.9B | 7.9B |
+| 16:00 | EUR | Low | Current Account n.s.a. (Jun) | 36.8B |  | -12.5B |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 18:00 | GBP | Low | CBI Industrial Trends Orders (Aug) |  | -13 | -9 |
 | 19:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
