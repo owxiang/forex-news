@@ -2,6 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | NOK | GDP (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
+| 13:00 | JPY | BoJ Core CPI (YoY) | 3.3% | 2.9% | 3.0% |
 | 16:15 | BRL | BRICS Summit |  |  |  |
 | 22:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
