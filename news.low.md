@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Consumer Confidence (Aug) | 103.1 | 101.9 | 103.2 |
-| 11:02 | IDR | Balance of Payments (EUR) (Q2) | -7.4B |  | 6.5B |
-| 11:02 | IDR | Current Account % of GDP (Q2) | -0.50% |  | 0.90% |
-| 13:00 | JPY | BoJ Core CPI (YoY) |  | 2.7% | 3.0% |
+| 11:00 | IDR | Balance of Payments (EUR) (Q2) | -7.4B |  | 6.5B |
+| 11:00 | IDR | Current Account % of GDP (Q2) | -0.50% |  | 0.90% |
+| 42 min | JPY | BoJ Core CPI (YoY) |  | 2.7% | 3.0% |
 | 14:00 | GBP | Public Sector Net Borrowing (Jul) |  | 17.03B | 17.67B |
 | 14:00 | GBP | Public Sector Net Cash Requirement (Jul) |  | 4.023B | 11.976B |
 | 14:00 | CHF | Trade Balance (Jul) |  | 4.300B | 4.823B |
@@ -14,7 +14,6 @@
 | 16:00 | EUR | Current Account (Jun) |  | -6.9B | 9.1B |
 | 16:00 | EUR | Current Account n.s.a. (Jun) |  |  | -11.3B |
 | 18:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -13 | -9 |
-| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:55 | USD | Redbook (YoY) |  |  | 0.7% |
 | Tentative | BRL | Federal Tax Revenue |  | 203.56B | 180.48B |
