@@ -6,11 +6,11 @@
 | 11:00 | IDR | Balance of Payments (EUR) (Q2) | -7.4B |  | 6.5B |
 | 11:00 | IDR | Current Account % of GDP (Q2) | -0.50% |  | 0.90% |
 | 13:00 | JPY | BoJ Core CPI (YoY) | 3.3% | 2.9% | 3.0% |
-| 46 min | GBP | Public Sector Net Borrowing (Jul) |  | 17.03B | 17.67B |
-| 46 min | GBP | Public Sector Net Cash Requirement (Jul) |  | 4.023B | 11.976B |
-| 46 min | CHF | Trade Balance (Jul) |  | 4.300B | 4.823B |
-| 46 min | NOK | GDP Mainland (QoQ) (Q2) |  | 0.1% | 0.2% |
-| 15:00 | ZAR | Leading Indicators (Jun) |  |  | 108.40% |
+| 14:00 | GBP | Public Sector Net Borrowing (Jul) | 3.48B | 17.03B | 17.11B |
+| 14:00 | GBP | Public Sector Net Cash Requirement (Jul) | -7.474B | 4.023B | 11.337B |
+| 14:00 | CHF | Trade Balance (Jul) | 3.129B | 4.300B | 4.790B |
+| 14:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.0% | 0.1% | 0.2% |
+| 41 min | ZAR | Leading Indicators (Jun) |  |  | 108.40% |
 | 16:00 | EUR | Current Account (Jun) |  | -6.9B | 9.1B |
 | 16:00 | EUR | Current Account n.s.a. (Jun) |  |  | -11.3B |
 | 18:00 | GBP | CBI Industrial Trends Orders (Aug) |  | -13 | -9 |

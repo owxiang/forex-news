@@ -2,6 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | NOK | GDP (QoQ) (Q2) |  | 0.1% | 0.2% |
+| 14:00 | NOK | GDP (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
 | 16:15 | BRL | BRICS Summit |  |  |  |
 | 22:00 | USD | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
