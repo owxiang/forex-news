@@ -1,22 +1,36 @@
-## 22 August 2023 - Low Impact Forex News
+## 23 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Consumer Confidence (Aug) | 103.1 | 101.9 | 103.2 |
-| 11:00 | IDR | Balance of Payments (EUR) (Q2) | -7.4B |  | 6.5B |
-| 11:00 | IDR | Current Account % of GDP (Q2) | -0.50% |  | 0.90% |
-| 14:00 | GBP | Public Sector Net Borrowing (Jul) | 3.48B | 17.03B | 17.11B |
-| 14:00 | GBP | Public Sector Net Cash Requirement (Jul) | -7.474B | 4.023B | 11.337B |
-| 14:00 | CHF | Trade Balance (Jul) | 3.129B | 4.300B | 4.790B |
-| 14:00 | NOK | GDP (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
-| 14:00 | NOK | GDP Mainland (QoQ) (Q2) | 0.0% | 0.1% | 0.2% |
-| 15:00 | ZAR | Leading Indicators (Jun) | 108.30% |  | 108.40% |
-| 16:00 | EUR | Current Account (Jun) | 35.8B | -6.9B | 7.9B |
-| 16:00 | EUR | Current Account n.s.a. (Jun) | 36.8B |  | -12.5B |
-| 18:00 | GBP | CBI Industrial Trends Orders (Aug) | -15 | -13 | -9 |
-| 19:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 20:55 | USD | Redbook (YoY) | 2.9% |  | 0.7% |
-| 21:30 | BRL | Federal Tax Revenue | 201.80B | 203.56B | 180.48B |
-| 22:00 | USD | Richmond Manufacturing Index (Aug) | -7 | -7 | -9 |
-| 22:00 | USD | Richmond Manufacturing Shipments (Aug) | -5 |  | -6 |
-| 22:00 | USD | Richmond Services Index (Aug) | 4 | -4 | -2 |
+| 02:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 05:00 | KRW | Manufacturing BSI Index (Sep) |  | 71 | 71 |
+| 06:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  | 3.1% | -4.1% |
+| 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 49.6 | 49.6 |
+| 07:00 | AUD | Judo Bank Australia Services PMI |  | 47.9 | 47.9 |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
+| 13:00 | SGD | CPI (MoM) (Jul) |  |  | 0.50% |
+| 14:00 | NOK | M3 Money Supply (Jul) |  |  | 3,059.5B |
+| 14:00 | NOK | Credit Indicator (YoY) (Jul) |  | 4.3% | 4.3% |
+| 15:15 | EUR | HCOB France Composite PMI (Aug) |  | 46.6 | 46.6 |
+| 15:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 48.3 | 48.5 |
+| 16:00 | ZAR | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
+| 16:00 | ZAR | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
+| 16:00 | ZAR | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
+| 16:00 | ZAR | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
+| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
+| 19:00 | USD | MBA Purchase Index |  |  | 149.5 |
+| 19:00 | USD | Mortgage Market Index |  |  | 193.0 |
+| 19:00 | USD | Mortgage Refinance Index |  |  | 408.4 |
+| 19:30 | INR | M3 Money Supply |  | 10.6% | 10.6% |
+| 22:00 | USD | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
+| 22:00 | EUR | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
+| 22:30 | USD | Crude Oil Imports |  | -2.270M | -1.763M |
+| 22:30 | USD | Distillate Fuel Production |  | 0.011M | -0.182M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.095M | 0.296M |
+| 22:30 | USD | Gasoline Production |  | 0.015M | -0.336M |
+| 22:30 | USD | Heating Oil Stockpiles |  | 0.183M | -0.101M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 22:30 | USD | Gasoline Inventories |  | 0.436M | -0.261M |
