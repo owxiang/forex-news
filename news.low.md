@@ -15,8 +15,8 @@
 | 16:00 | EUR | Current Account n.s.a. (Jun) | 36.8B |  | -12.5B |
 | 18:00 | GBP | CBI Industrial Trends Orders (Aug) | -15 | -13 | -9 |
 | 19:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 26 min | USD | Redbook (YoY) |  |  | 0.7% |
+| 20:55 | USD | Redbook (YoY) | 2.9% |  | 0.7% |
 | Tentative | BRL | Federal Tax Revenue |  | 203.56B | 180.48B |
-| 22:00 | USD | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
-| 22:00 | USD | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
-| 22:00 | USD | Richmond Services Index (Aug) |  | -4 | -2 |
+| 42 min | USD | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
+| 42 min | USD | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
+| 42 min | USD | Richmond Services Index (Aug) |  | -4 | -2 |

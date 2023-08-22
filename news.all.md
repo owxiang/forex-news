@@ -17,10 +17,10 @@
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 18:00 | GBP | Low | CBI Industrial Trends Orders (Aug) | -15 | -13 | -9 |
 | 19:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 26 min | USD | Low | Redbook (YoY) |  |  | 0.7% |
+| 20:55 | USD | Low | Redbook (YoY) | 2.9% |  | 0.7% |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 203.56B | 180.48B |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
-| 22:00 | USD | High | Existing Home Sales (Jul) |  | 4.15M | 4.16M |
-| 22:00 | USD | Low | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
-| 22:00 | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
-| 22:00 | USD | Low | Richmond Services Index (Aug) |  | -4 | -2 |
+| 42 min | USD | Moderate | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
+| 42 min | USD | High | Existing Home Sales (Jul) |  | 4.15M | 4.16M |
+| 42 min | USD | Low | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
+| 42 min | USD | Low | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
+| 42 min | USD | Low | Richmond Services Index (Aug) |  | -4 | -2 |
