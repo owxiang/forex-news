@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 02:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.900M | -6.195M |
-| 45 min | KRW | Low | Manufacturing BSI Index (Sep) |  | 71 | 71 |
+| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.418M | -2.900M | -6.195M |
+| 05:00 | KRW | Low | Manufacturing BSI Index (Sep) | 67 | 72 | 72 |
 | 06:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | -2.5% | -1.1% |
 | 06:45 | NZD | Moderate | Retail Sales (QoQ) (Q2) |  | -2.6% | -1.4% |
 | 06:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) |  | 3.1% | -4.1% |
@@ -27,8 +27,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 42.8 | 42.7 |
 | 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) |  | 48.5 | 48.6 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.5 | 50.9 |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
@@ -43,15 +43,15 @@
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 193.0 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 408.4 |
 | 19:30 | INR | Low | M3 Money Supply |  | 10.6% | 10.6% |
-| 20:00 | USD | High | Building Permits |  | 1.442M | 1.441M |
 | 20:00 | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
+| 20:00 | USD | High | Building Permits |  | 1.442M | 1.441M |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.4 | 49.0 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
 | 21:45 | USD | High | S&P Global US Services PMI (Aug) |  | 52.3 | 52.3 |
-| 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
 | 22:00 | USD | High | New Home Sales (Jul) |  | 706K | 697K |
+| 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
 | 22:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Low | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.299M | -5.960M |
