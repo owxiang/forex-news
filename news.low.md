@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 02:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 05:00 | KRW | Manufacturing BSI Index (Sep) |  | 71 | 71 |
 | 06:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) |  | 3.1% | -4.1% |
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 49.6 | 49.6 |
@@ -15,8 +15,8 @@
 | 15:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 48.3 | 48.5 |
 | 16:00 | ZAR | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
 | 16:00 | ZAR | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
-| 16:00 | ZAR | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
 | 16:00 | ZAR | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
+| 16:00 | ZAR | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
