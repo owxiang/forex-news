@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 13:00 | JPY | BoJ Core CPI (YoY) | 3.3% | 2.9% | 3.0% |
 | 16:15 | BRL | BRICS Summit |  |  |  |
-| 42 min | USD | Existing Home Sales (MoM) (Jul) |  |  | -3.3% |
+| 22:00 | USD | Existing Home Sales (MoM) (Jul) | -2.2% |  | -3.3% |

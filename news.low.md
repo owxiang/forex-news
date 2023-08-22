@@ -16,7 +16,7 @@
 | 18:00 | GBP | CBI Industrial Trends Orders (Aug) | -15 | -13 | -9 |
 | 19:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 20:55 | USD | Redbook (YoY) | 2.9% |  | 0.7% |
-| Tentative | BRL | Federal Tax Revenue |  | 203.56B | 180.48B |
-| 42 min | USD | Richmond Manufacturing Index (Aug) |  | -7 | -9 |
-| 42 min | USD | Richmond Manufacturing Shipments (Aug) |  |  | -6 |
-| 42 min | USD | Richmond Services Index (Aug) |  | -4 | -2 |
+| 21:30 | BRL | Federal Tax Revenue | 201.80B | 203.56B | 180.48B |
+| 22:00 | USD | Richmond Manufacturing Index (Aug) | -7 | -7 | -9 |
+| 22:00 | USD | Richmond Manufacturing Shipments (Aug) | -5 |  | -6 |
+| 22:00 | USD | Richmond Services Index (Aug) | 4 | -4 | -2 |
