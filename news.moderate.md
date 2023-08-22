@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 11 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | -2.900M | -6.195M |
 | 06:45 | NZD | Core Retail Sales (QoQ) |  | -2.5% | -1.1% |
 | 06:45 | NZD | Retail Sales (QoQ) (Q2) |  | -2.6% | -1.4% |

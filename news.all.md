@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 02:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 11 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 11 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.900M | -6.195M |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Sep) |  | 71 | 71 |
 | 06:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | -2.5% | -1.1% |
@@ -27,8 +27,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 42.8 | 42.7 |
 | 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) |  | 48.5 | 48.6 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.5 | 50.9 |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
