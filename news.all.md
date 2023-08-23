@@ -27,8 +27,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.7 | 42.6 | 42.7 |
 | 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) | 47.0 | 48.5 | 48.6 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 48.3 | 50.5 | 50.9 |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
@@ -46,20 +46,20 @@
 | 20:00 | USD | Moderate | Building Permits (MoM) | 0.1% | 0.1% | -3.7% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | -0.8% | 0.3% | -0.3% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 0.1% | 0.0% | 0.1% |
-| 27 min | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
-| 27 min | USD | Moderate | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
-| 27 min | USD | High | S&P Global US Services PMI (Aug) |  | 52.3 | 52.3 |
-| 42 min | USD | High | New Home Sales (Jul) |  | 705K | 697K |
-| 42 min | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
-| 42 min | USD | Low | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
-| 42 min | EUR | Low | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
-| 22:30 | USD | High | Crude Oil Inventories |  | -2.850M | -5.960M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
-| 22:30 | USD | Low | Crude Oil Imports |  | -2.270M | -1.763M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  | -0.906M | -0.837M |
-| 22:30 | USD | Low | Distillate Fuel Production |  | 0.011M | -0.182M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.218M | 0.296M |
-| 22:30 | USD | Low | Gasoline Production |  | 0.015M | -0.336M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  | 0.183M | -0.101M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 22:30 | USD | Low | Gasoline Inventories |  | -0.888M | -0.261M |
+| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) | 47.0 | 49.3 | 49.0 |
+| 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 50.4 | 52.0 | 52.0 |
+| 21:45 | USD | High | S&P Global US Services PMI (Aug) | 51.0 | 52.3 | 52.3 |
+| 22:00 | USD | High | New Home Sales (Jul) | 714K | 705K | 684K |
+| 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) | 4.4% | 0.2% | -2.8% |
+| 22:00 | USD | Low | Payrolls Benchmark, n.s.a. | -306.00K |  | 506.00K |
+| 22:00 | EUR | Low | Consumer Confidence (Aug) | -16.0 | -14.3 | -15.1 |
+| 16 min | USD | High | Crude Oil Inventories |  | -2.850M | -5.960M |
+| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
+| 16 min | USD | Low | Crude Oil Imports |  | -2.270M | -1.763M |
+| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  | -0.906M | -0.837M |
+| 16 min | USD | Low | Distillate Fuel Production |  | 0.011M | -0.182M |
+| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.218M | 0.296M |
+| 16 min | USD | Low | Gasoline Production |  | 0.015M | -0.336M |
+| 16 min | USD | Low | Heating Oil Stockpiles |  | 0.183M | -0.101M |
+| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 16 min | USD | Low | Gasoline Inventories |  | -0.888M | -0.261M |
