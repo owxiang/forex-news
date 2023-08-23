@@ -41,16 +41,16 @@
 | 19:00 | USD | Low | MBA Purchase Index | 142.0 |  | 149.5 |
 | 19:00 | USD | Low | Mortgage Market Index | 184.8 |  | 193.0 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 397.1 |  | 408.4 |
-| 18 min | INR | Low | M3 Money Supply |  | 10.6% | 10.6% |
-| 48 min | USD | High | Building Permits |  | 1.442M | 1.441M |
-| 48 min | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
+| 19:30 | INR | Low | M3 Money Supply | 10.9% | 10.6% | 10.6% |
+| 20:00 | USD | High | Building Permits | 1.443M | 1.442M | 1.441M |
+| 20:00 | USD | Moderate | Building Permits (MoM) | 0.1% | 0.1% | -3.7% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
 | 21:45 | USD | High | S&P Global US Services PMI (Aug) |  | 52.3 | 52.3 |
-| 22:00 | USD | High | New Home Sales (Jul) |  | 705K | 697K |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
+| 22:00 | USD | High | New Home Sales (Jul) |  | 705K | 697K |
 | 22:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Low | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.850M | -5.960M |

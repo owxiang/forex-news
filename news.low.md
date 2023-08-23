@@ -22,7 +22,7 @@
 | 19:00 | USD | MBA Purchase Index | 142.0 |  | 149.5 |
 | 19:00 | USD | Mortgage Market Index | 184.8 |  | 193.0 |
 | 19:00 | USD | Mortgage Refinance Index | 397.1 |  | 408.4 |
-| 18 min | INR | M3 Money Supply |  | 10.6% | 10.6% |
+| 19:30 | INR | M3 Money Supply | 10.9% | 10.6% | 10.6% |
 | 22:00 | USD | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
