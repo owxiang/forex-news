@@ -22,9 +22,9 @@
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI | 48.7 | 51.0 | 51.5 |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 20:00 | USD | Building Permits (MoM) | 0.1% | 0.1% | -3.7% |
-| 20:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
-| 20:30 | CAD | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
-| 21:45 | USD | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
-| 21:45 | USD | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
-| 22:00 | USD | New Home Sales (MoM) (Jul) |  |  | -2.5% |
+| 20:30 | CAD | Core Retail Sales (MoM) (Jun) | -0.8% | 0.3% | -0.3% |
+| 20:30 | CAD | Retail Sales (MoM) (Jun) | 0.1% | 0.0% | 0.1% |
+| 27 min | USD | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
+| 27 min | USD | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
+| 42 min | USD | New Home Sales (MoM) (Jul) |  |  | -2.5% |
 | 22:30 | USD | Cushing Crude Oil Inventories |  | -0.906M | -0.837M |
