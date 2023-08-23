@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | PPI (MoM) (Jul) |  | 0.0% | -0.2% |
-| 05:00 | KRW | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
+| 45 min | KRW | PPI (MoM) (Jul) |  | 0.0% | -0.2% |
+| 45 min | KRW | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -334.6B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 227.2B |
 | 09:00 | KRW | Interest Rate Decision (Aug) |  | 3.50% | 3.50% |
