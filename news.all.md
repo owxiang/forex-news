@@ -36,15 +36,14 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 42.5 | 45.0 | 45.3 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 48.7 | 51.0 | 51.5 |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.16% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.8% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 149.5 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 193.0 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 408.4 |
-| 19:30 | INR | Low | M3 Money Supply |  | 10.6% | 10.6% |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
-| 20:00 | USD | High | Building Permits |  | 1.442M | 1.441M |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.31% |  | 7.16% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -4.2% |  | -0.8% |
+| 19:00 | USD | Low | MBA Purchase Index | 142.0 |  | 149.5 |
+| 19:00 | USD | Low | Mortgage Market Index | 184.8 |  | 193.0 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 397.1 |  | 408.4 |
+| 18 min | INR | Low | M3 Money Supply |  | 10.6% | 10.6% |
+| 48 min | USD | High | Building Permits |  | 1.442M | 1.441M |
+| 48 min | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
