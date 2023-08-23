@@ -29,8 +29,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.5 | 50.9 |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
-| 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
+| 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.3 | 50.8 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 45.3 |
@@ -50,8 +50,8 @@
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.4 | 49.0 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
 | 21:45 | USD | High | S&P Global US Services PMI (Aug) |  | 52.3 | 52.3 |
-| 22:00 | USD | High | New Home Sales (Jul) |  | 706K | 697K |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
+| 22:00 | USD | High | New Home Sales (Jul) |  | 706K | 697K |
 | 22:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Low | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.299M | -5.960M |
