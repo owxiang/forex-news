@@ -18,23 +18,23 @@
 | 13:00 | SGD | Moderate | CPI (YoY) (Jul) | 4.1% | 4.1% | 4.5% |
 | 14:00 | NOK | Low | M3 Money Supply (Jul) | 3,118.3B |  | 3,059.5B |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Jul) | 4.2% | 4.2% | 4.3% |
-| 2 min | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 45.0 | 45.1 |
-| 2 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 47.5 | 46.6 |
-| 2 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 47.5 | 47.1 |
-| 17 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 48.3 | 48.5 |
-| 17 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 38.7 | 38.8 |
-| 17 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 51.5 | 52.3 |
-| 47 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 42.6 | 42.7 |
-| 47 min | EUR | Moderate | S&P Global Composite PMI (Aug) |  | 48.5 | 48.6 |
-| 47 min | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.5 | 50.9 |
-| 47 min | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.6% | 0.4% |
-| 47 min | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
-| 47 min | ZAR | Low | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
-| 47 min | ZAR | Low | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
+| 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 46.4 | 45.0 | 45.1 |
+| 15:15 | EUR | Low | HCOB France Composite PMI (Aug) | 46.6 | 47.5 | 46.6 |
+| 15:15 | EUR | Moderate | HCOB France Services PMI (Aug) | 46.7 | 47.5 | 47.1 |
+| 15:30 | EUR | Low | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
+| 15:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 39.1 | 38.7 | 38.8 |
+| 15:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 47.3 | 51.5 | 52.3 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.7 | 42.6 | 42.7 |
+| 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) | 47.0 | 48.5 | 48.6 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 48.3 | 50.5 | 50.9 |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
+| 16:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
+| 16:00 | ZAR | Low | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.3 | 50.8 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 45.3 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 51.5 |
+| 11 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.3 | 50.8 |
+| 11 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 45.3 |
+| 11 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 51.5 |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.16% |

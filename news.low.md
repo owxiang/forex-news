@@ -11,12 +11,12 @@
 | 13:00 | SGD | CPI (MoM) (Jul) | -0.20% |  | 0.50% |
 | 14:00 | NOK | M3 Money Supply (Jul) | 3,118.3B |  | 3,059.5B |
 | 14:00 | NOK | Credit Indicator (YoY) (Jul) | 4.2% | 4.2% | 4.3% |
-| 2 min | EUR | HCOB France Composite PMI (Aug) |  | 47.5 | 46.6 |
-| 17 min | EUR | HCOB Germany Composite PMI (Aug) |  | 48.3 | 48.5 |
-| 47 min | ZAR | Core CPI (MoM) (Jul) |  | 0.6% | 0.4% |
-| 47 min | ZAR | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
-| 47 min | ZAR | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
-| 47 min | ZAR | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
+| 15:15 | EUR | HCOB France Composite PMI (Aug) | 46.6 | 47.5 | 46.6 |
+| 15:30 | EUR | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
+| 16:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
+| 16:00 | ZAR | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
+| 16:00 | ZAR | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
+| 16:00 | ZAR | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
