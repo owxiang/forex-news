@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | BRL | Foreign Exchange Flows |  |  | 4.149B |
+| 01:30 | BRL | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
 | 05:00 | KRW | PPI (MoM) (Jul) |  | 0.0% | -0.2% |
 | 05:00 | KRW | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -334.6B |
