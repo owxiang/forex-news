@@ -1,8 +1,6 @@
-## 23 August 2023 - High Impact Forex News
+## 24 August 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:00 | USD | Building Permits | 1.443M | 1.442M | 1.441M |
-| 21:45 | USD | S&P Global US Services PMI (Aug) | 51.0 | 52.3 | 52.3 |
-| 22:00 | USD | New Home Sales (Jul) | 714K | 705K | 684K |
-| 22:30 | USD | Crude Oil Inventories | -6.135M | -2.850M | -5.960M |
+| 20:30 | USD | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.6% |
+| 20:30 | USD | Initial Jobless Claims |  | 240K | 239K |

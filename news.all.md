@@ -1,65 +1,43 @@
-## 23 August 2023 - All Forex News
+## 24 August 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 02:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.418M | -2.900M | -6.195M |
-| 05:00 | KRW | Low | Manufacturing BSI Index (Sep) | 67 | 72 | 72 |
-| 06:45 | NZD | Moderate | Core Retail Sales (QoQ) | -1.8% | -2.5% | -1.6% |
-| 06:45 | NZD | Moderate | Retail Sales (QoQ) (Q2) | -1.0% | -2.6% | -1.6% |
-| 06:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) | -3.5% | 3.1% | -4.1% |
-| 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
-| 07:00 | AUD | Low | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.6 |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.3 | 53.9 | 53.8 |
-| 13:00 | SGD | Moderate | Core CPI (YoY) (Jul) | 3.80% | 3.80% | 4.20% |
-| 13:00 | SGD | Low | CPI (MoM) (Jul) | -0.20% |  | 0.50% |
-| 13:00 | SGD | Moderate | CPI (YoY) (Jul) | 4.1% | 4.1% | 4.5% |
-| 14:00 | NOK | Low | M3 Money Supply (Jul) | 3,118.3B |  | 3,059.5B |
-| 14:00 | NOK | Low | Credit Indicator (YoY) (Jul) | 4.2% | 4.2% | 4.3% |
-| 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 46.4 | 45.0 | 45.1 |
-| 15:15 | EUR | Low | HCOB France Composite PMI (Aug) | 46.6 | 47.5 | 46.6 |
-| 15:15 | EUR | Moderate | HCOB France Services PMI (Aug) | 46.7 | 47.5 | 47.1 |
-| 15:30 | EUR | Low | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
-| 15:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 39.1 | 38.7 | 38.8 |
-| 15:30 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 47.3 | 51.5 | 52.3 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.7 | 42.6 | 42.7 |
-| 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) | 47.0 | 48.5 | 48.6 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 48.3 | 50.5 | 50.9 |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
-| 16:00 | ZAR | Low | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
-| 16:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
+| 41 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.036% |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.149B |
+| 05:00 | KRW | Low | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
+| 05:00 | KRW | Low | PPI (MoM) (Jul) |  | 0.0% | -0.2% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -334.6B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 227.2B |
+| 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
+| 09:00 | KRW | Low | Interest Rate Decision (Aug) |  | 3.50% | 3.50% |
+| 14:00 | NOK | Low | Unemployment Rate (Jul) |  | 3.5% | 3.4% |
+| 14:45 | EUR | Low | French Business Survey (Aug) |  | 99 | 100 |
+| 15:00 | IDR | Low | Deposit Facility Rate (Aug) |  | 5.00% | 5.00% |
+| 15:00 | IDR | Low | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
+| 15:20 | IDR | Low | Loans (YoY) |  |  | 7.76% |
+| 15:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 47.9 | 50.3 | 50.8 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 42.5 | 45.0 | 45.3 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 48.7 | 51.0 | 51.5 |
-| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.31% |  | 7.16% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -4.2% |  | -0.8% |
-| 19:00 | USD | Low | MBA Purchase Index | 142.0 |  | 149.5 |
-| 19:00 | USD | Low | Mortgage Market Index | 184.8 |  | 193.0 |
-| 19:00 | USD | Low | Mortgage Refinance Index | 397.1 |  | 408.4 |
-| 19:30 | INR | Low | M3 Money Supply | 10.9% | 10.6% | 10.6% |
-| 20:00 | USD | Moderate | Building Permits (MoM) | 0.1% | 0.1% | -3.7% |
-| 20:00 | USD | High | Building Permits | 1.443M | 1.442M | 1.441M |
-| 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | -0.8% | 0.3% | -0.3% |
-| 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 0.1% | 0.0% | 0.1% |
-| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) | 47.0 | 49.3 | 49.0 |
-| 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 50.4 | 52.0 | 52.0 |
-| 21:45 | USD | High | S&P Global US Services PMI (Aug) | 51.0 | 52.3 | 52.3 |
-| 22:00 | USD | High | New Home Sales (Jul) | 714K | 705K | 684K |
-| 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) | 4.4% | 0.2% | -2.8% |
-| 22:00 | USD | Low | Payrolls Benchmark, n.s.a. | -306.00K |  | 506.00K |
-| 22:00 | EUR | Low | Consumer Confidence (Aug) | -16.0 | -14.3 | -15.1 |
-| 22:30 | USD | High | Crude Oil Inventories | -6.135M | -2.850M | -5.960M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.030M |  | 0.167M |
-| 22:30 | USD | Low | Crude Oil Imports | 0.116M | -2.270M | -1.763M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | -3.133M | -0.906M | -0.837M |
-| 22:30 | USD | Low | Distillate Fuel Production | 0.337M | 0.011M | -0.182M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks | 0.945M | 0.218M | 0.296M |
-| 22:30 | USD | Low | Gasoline Production | 0.130M | 0.015M | -0.336M |
-| 22:30 | USD | Low | Heating Oil Stockpiles | 0.502M | 0.183M | -0.101M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.9% |
-| 22:30 | USD | Low | Gasoline Inventories | 1.467M | -0.888M | -0.261M |
+| 16:30 | HKD | Low | Exports (MoM) (Jul) |  | -13.6% | -11.4% |
+| 16:30 | HKD | Low | Imports (MoM) (Jul) |  | -8.2% | -12.3% |
+| 16:30 | HKD | Low | Trade Balance |  | -32.7B | -56.6B |
+| 18:00 | GBP | Low | CBI Distributive Trades Survey |  | -14 | -25 |
+| 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
+| 20:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
+| 20:00 | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
+| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 20:30 | USD | Low | Chicago Fed National Activity (Jul) |  |  | -0.32 |
+| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,708K | 1,716K |
+| 20:30 | USD | High | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.6% |
+| 20:30 | USD | Moderate | Durable Goods Orders (MoM) (Jul) |  | -4.0% | 4.7% |
+| 20:30 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  |  | 6.0% |
+| 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) |  | 0.1% | 0.2% |
+| 20:30 | USD | High | Initial Jobless Claims |  | 240K | 239K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 232.63K | 234.25K |
+| 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -2.8% |
+| 22:30 | USD | Low | Natural Gas Storage |  | -8B | 35B |
+| 23:00 | USD | Low | KC Fed Composite Index (Aug) |  |  | -11 |
+| 23:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -20 |
+| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.280% |

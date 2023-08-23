@@ -1,35 +1,32 @@
-## 23 August 2023 - Low Impact Forex News
+## 24 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 05:00 | KRW | Manufacturing BSI Index (Sep) | 67 | 72 | 72 |
-| 06:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q2) | -3.5% | 3.1% | -4.1% |
-| 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
-| 07:00 | AUD | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.6 |
-| 13:00 | SGD | CPI (MoM) (Jul) | -0.20% |  | 0.50% |
-| 14:00 | NOK | M3 Money Supply (Jul) | 3,118.3B |  | 3,059.5B |
-| 14:00 | NOK | Credit Indicator (YoY) (Jul) | 4.2% | 4.2% | 4.3% |
-| 15:15 | EUR | HCOB France Composite PMI (Aug) | 46.6 | 47.5 | 46.6 |
-| 15:30 | EUR | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
-| 16:00 | ZAR | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
-| 16:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
-| 16:00 | ZAR | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
-| 16:00 | ZAR | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.31% |  | 7.16% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) | -4.2% |  | -0.8% |
-| 19:00 | USD | MBA Purchase Index | 142.0 |  | 149.5 |
-| 19:00 | USD | Mortgage Market Index | 184.8 |  | 193.0 |
-| 19:00 | USD | Mortgage Refinance Index | 397.1 |  | 408.4 |
-| 19:30 | INR | M3 Money Supply | 10.9% | 10.6% | 10.6% |
-| 22:00 | USD | Payrolls Benchmark, n.s.a. | -306.00K |  | 506.00K |
-| 22:00 | EUR | Consumer Confidence (Aug) | -16.0 | -14.3 | -15.1 |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.030M |  | 0.167M |
-| 22:30 | USD | Crude Oil Imports | 0.116M | -2.270M | -1.763M |
-| 22:30 | USD | Distillate Fuel Production | 0.337M | 0.011M | -0.182M |
-| 22:30 | USD | EIA Weekly Distillates Stocks | 0.945M | 0.218M | 0.296M |
-| 22:30 | USD | Gasoline Production | 0.130M | 0.015M | -0.336M |
-| 22:30 | USD | Heating Oil Stockpiles | 0.502M | 0.183M | -0.101M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.9% |
-| 22:30 | USD | Gasoline Inventories | 1.467M | -0.888M | -0.261M |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 4.149B |
+| 05:00 | KRW | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
+| 05:00 | KRW | PPI (MoM) (Jul) |  | 0.0% | -0.2% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | -334.6B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 227.2B |
+| 09:00 | KRW | Interest Rate Decision (Aug) |  | 3.50% | 3.50% |
+| 14:00 | NOK | Unemployment Rate (Jul) |  | 3.5% | 3.4% |
+| 14:45 | EUR | French Business Survey (Aug) |  | 99 | 100 |
+| 15:00 | IDR | Deposit Facility Rate (Aug) |  | 5.00% | 5.00% |
+| 15:00 | IDR | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
+| 15:20 | IDR | Loans (YoY) |  |  | 7.76% |
+| 16:30 | HKD | Exports (MoM) (Jul) |  | -13.6% | -11.4% |
+| 16:30 | HKD | Imports (MoM) (Jul) |  | -8.2% | -12.3% |
+| 16:30 | HKD | Trade Balance |  | -32.7B | -56.6B |
+| 18:00 | GBP | CBI Distributive Trades Survey |  | -14 | -25 |
+| 20:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
+| 20:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
+| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 20:30 | USD | Chicago Fed National Activity (Jul) |  |  | -0.32 |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,708K | 1,716K |
+| 20:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 6.0% |
+| 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) |  | 0.1% | 0.2% |
+| 20:30 | USD | Jobless Claims 4-Week Avg. |  | 232.63K | 234.25K |
+| 22:30 | USD | Natural Gas Storage |  | -8B | 35B |
+| 23:00 | USD | KC Fed Composite Index (Aug) |  |  | -11 |
+| 23:00 | USD | KC Fed Manufacturing Index (Aug) |  |  | -20 |
+| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 23:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
