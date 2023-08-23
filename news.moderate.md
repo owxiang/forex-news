@@ -27,4 +27,4 @@
 | 21:45 | USD | S&P Global US Manufacturing PMI (Aug) | 47.0 | 49.3 | 49.0 |
 | 21:45 | USD | S&P Global Composite PMI (Aug) | 50.4 | 52.0 | 52.0 |
 | 22:00 | USD | New Home Sales (MoM) (Jul) | 4.4% | 0.2% | -2.8% |
-| 16 min | USD | Cushing Crude Oil Inventories |  | -0.906M | -0.837M |
+| 22:30 | USD | Cushing Crude Oil Inventories | -3.133M | -0.906M | -0.837M |

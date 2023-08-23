@@ -29,8 +29,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 48.3 | 50.5 | 50.9 |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
-| 16:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
+| 16:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 47.9 | 50.3 | 50.8 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 42.5 | 45.0 | 45.3 |
@@ -42,8 +42,8 @@
 | 19:00 | USD | Low | Mortgage Market Index | 184.8 |  | 193.0 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 397.1 |  | 408.4 |
 | 19:30 | INR | Low | M3 Money Supply | 10.9% | 10.6% | 10.6% |
-| 20:00 | USD | High | Building Permits | 1.443M | 1.442M | 1.441M |
 | 20:00 | USD | Moderate | Building Permits (MoM) | 0.1% | 0.1% | -3.7% |
+| 20:00 | USD | High | Building Permits | 1.443M | 1.442M | 1.441M |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) | -0.8% | 0.3% | -0.3% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) | 0.1% | 0.0% | 0.1% |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) | 47.0 | 49.3 | 49.0 |
@@ -53,13 +53,13 @@
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) | 4.4% | 0.2% | -2.8% |
 | 22:00 | USD | Low | Payrolls Benchmark, n.s.a. | -306.00K |  | 506.00K |
 | 22:00 | EUR | Low | Consumer Confidence (Aug) | -16.0 | -14.3 | -15.1 |
-| 16 min | USD | High | Crude Oil Inventories |  | -2.850M | -5.960M |
-| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
-| 16 min | USD | Low | Crude Oil Imports |  | -2.270M | -1.763M |
-| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  | -0.906M | -0.837M |
-| 16 min | USD | Low | Distillate Fuel Production |  | 0.011M | -0.182M |
-| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.218M | 0.296M |
-| 16 min | USD | Low | Gasoline Production |  | 0.015M | -0.336M |
-| 16 min | USD | Low | Heating Oil Stockpiles |  | 0.183M | -0.101M |
-| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 16 min | USD | Low | Gasoline Inventories |  | -0.888M | -0.261M |
+| 22:30 | USD | High | Crude Oil Inventories | -6.135M | -2.850M | -5.960M |
+| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.030M |  | 0.167M |
+| 22:30 | USD | Low | Crude Oil Imports | 0.116M | -2.270M | -1.763M |
+| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | -3.133M | -0.906M | -0.837M |
+| 22:30 | USD | Low | Distillate Fuel Production | 0.337M | 0.011M | -0.182M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks | 0.945M | 0.218M | 0.296M |
+| 22:30 | USD | Low | Gasoline Production | 0.130M | 0.015M | -0.336M |
+| 22:30 | USD | Low | Heating Oil Stockpiles | 0.502M | 0.183M | -0.101M |
+| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.9% |
+| 22:30 | USD | Low | Gasoline Inventories | 1.467M | -0.888M | -0.261M |

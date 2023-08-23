@@ -15,8 +15,8 @@
 | 15:30 | EUR | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
 | 16:00 | ZAR | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
 | 16:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
-| 16:00 | ZAR | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
+| 16:00 | ZAR | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate | 7.31% |  | 7.16% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) | -4.2% |  | -0.8% |
 | 19:00 | USD | MBA Purchase Index | 142.0 |  | 149.5 |
@@ -25,11 +25,11 @@
 | 19:30 | INR | M3 Money Supply | 10.9% | 10.6% | 10.6% |
 | 22:00 | USD | Payrolls Benchmark, n.s.a. | -306.00K |  | 506.00K |
 | 22:00 | EUR | Consumer Confidence (Aug) | -16.0 | -14.3 | -15.1 |
-| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
-| 16 min | USD | Crude Oil Imports |  | -2.270M | -1.763M |
-| 16 min | USD | Distillate Fuel Production |  | 0.011M | -0.182M |
-| 16 min | USD | EIA Weekly Distillates Stocks |  | 0.218M | 0.296M |
-| 16 min | USD | Gasoline Production |  | 0.015M | -0.336M |
-| 16 min | USD | Heating Oil Stockpiles |  | 0.183M | -0.101M |
-| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 16 min | USD | Gasoline Inventories |  | -0.888M | -0.261M |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.030M |  | 0.167M |
+| 22:30 | USD | Crude Oil Imports | 0.116M | -2.270M | -1.763M |
+| 22:30 | USD | Distillate Fuel Production | 0.337M | 0.011M | -0.182M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | 0.945M | 0.218M | 0.296M |
+| 22:30 | USD | Gasoline Production | 0.130M | 0.015M | -0.336M |
+| 22:30 | USD | Heating Oil Stockpiles | 0.502M | 0.183M | -0.101M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | 0.9% |
+| 22:30 | USD | Gasoline Inventories | 1.467M | -0.888M | -0.261M |
