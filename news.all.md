@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.036% |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.149B |
-| 05:00 | KRW | Low | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
+| 01:00 | USD | Moderate | 20-Year Bond Auction | 4.499% |  | 4.036% |
+| 18 min | BRL | Low | Foreign Exchange Flows |  |  | 4.149B |
 | 05:00 | KRW | Low | PPI (MoM) (Jul) |  | 0.0% | -0.2% |
+| 05:00 | KRW | Low | PPI (YoY) (Jul) |  | -0.4% | -0.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -334.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 227.2B |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
