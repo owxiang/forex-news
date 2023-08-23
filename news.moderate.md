@@ -7,8 +7,8 @@
 | 06:45 | NZD | Core Retail Sales (QoQ) | -1.8% | -2.5% | -1.6% |
 | 06:45 | NZD | Retail Sales (QoQ) (Q2) | -1.0% | -2.6% | -1.6% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 54.3 | 53.9 | 53.8 |
-| 42 min | SGD | Core CPI (YoY) (Jul) |  | 3.80% | 4.20% |
-| 42 min | SGD | CPI (YoY) (Jul) |  | 4.2% | 4.5% |
+| 13:00 | SGD | Core CPI (YoY) (Jul) | 3.80% | 3.80% | 4.20% |
+| 13:00 | SGD | CPI (YoY) (Jul) | 4.1% | 4.1% | 4.5% |
 | 15:15 | EUR | HCOB France Manufacturing PMI (Aug) |  | 45.0 | 45.1 |
 | 15:15 | EUR | HCOB France Services PMI (Aug) |  | 47.5 | 47.1 |
 | 15:30 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 38.7 | 38.8 |

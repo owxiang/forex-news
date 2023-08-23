@@ -8,15 +8,15 @@
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
 | 07:00 | AUD | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.6 |
-| 42 min | SGD | CPI (MoM) (Jul) |  |  | 0.50% |
-| 14:00 | NOK | M3 Money Supply (Jul) |  |  | 3,059.5B |
-| 14:00 | NOK | Credit Indicator (YoY) (Jul) |  | 4.3% | 4.3% |
+| 17 min | SGD | CPI (MoM) (Jul) |  |  | 0.50% |
+| 47 min | NOK | M3 Money Supply (Jul) |  |  | 3,059.5B |
+| 47 min | NOK | Credit Indicator (YoY) (Jul) |  | 4.3% | 4.3% |
 | 15:15 | EUR | HCOB France Composite PMI (Aug) |  | 47.5 | 46.6 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 48.3 | 48.5 |
 | 16:00 | ZAR | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Core CPI (MoM) (Jul) |  | 0.6% | 0.4% |
-| 16:00 | ZAR | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
+| 16:00 | ZAR | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |

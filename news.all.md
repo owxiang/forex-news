@@ -13,11 +13,11 @@
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.6 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.3 | 53.9 | 53.8 |
-| 42 min | SGD | Moderate | Core CPI (YoY) (Jul) |  | 3.80% | 4.20% |
-| 42 min | SGD | Low | CPI (MoM) (Jul) |  |  | 0.50% |
-| 42 min | SGD | Moderate | CPI (YoY) (Jul) |  | 4.2% | 4.5% |
-| 14:00 | NOK | Low | M3 Money Supply (Jul) |  |  | 3,059.5B |
-| 14:00 | NOK | Low | Credit Indicator (YoY) (Jul) |  | 4.3% | 4.3% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Jul) | 3.80% | 3.80% | 4.20% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Jul) | 4.1% | 4.1% | 4.5% |
+| 17 min | SGD | Low | CPI (MoM) (Jul) |  |  | 0.50% |
+| 47 min | NOK | Low | M3 Money Supply (Jul) |  |  | 3,059.5B |
+| 47 min | NOK | Low | Credit Indicator (YoY) (Jul) |  | 4.3% | 4.3% |
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 45.0 | 45.1 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Aug) |  | 47.5 | 46.6 |
 | 15:15 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 47.5 | 47.1 |
@@ -29,8 +29,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.5 | 50.9 |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.6% | 0.4% |
-| 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
+| 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.3 | 50.8 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 45.3 |
@@ -50,8 +50,8 @@
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
 | 21:45 | USD | High | S&P Global US Services PMI (Aug) |  | 52.3 | 52.3 |
-| 22:00 | USD | High | New Home Sales (Jul) |  | 705K | 697K |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
+| 22:00 | USD | High | New Home Sales (Jul) |  | 705K | 697K |
 | 22:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Low | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.850M | -5.960M |
