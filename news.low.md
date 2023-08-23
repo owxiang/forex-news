@@ -13,16 +13,16 @@
 | 14:00 | NOK | Credit Indicator (YoY) (Jul) | 4.2% | 4.2% | 4.3% |
 | 15:15 | EUR | HCOB France Composite PMI (Aug) | 46.6 | 47.5 | 46.6 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
-| 16:00 | ZAR | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
 | 16:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
+| 16:00 | ZAR | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
 | 16:00 | ZAR | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
-| 19:00 | USD | MBA Purchase Index |  |  | 149.5 |
-| 19:00 | USD | Mortgage Market Index |  |  | 193.0 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 408.4 |
+| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
+| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
+| 44 min | USD | MBA Purchase Index |  |  | 149.5 |
+| 44 min | USD | Mortgage Market Index |  |  | 193.0 |
+| 44 min | USD | Mortgage Refinance Index |  |  | 408.4 |
 | 19:30 | INR | M3 Money Supply |  | 10.6% | 10.6% |
 | 22:00 | USD | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Consumer Confidence (Aug) |  | -14.3 | -15.1 |

@@ -20,7 +20,7 @@
 | 16:30 | GBP | S&P Global/CIPS UK Composite PMI | 47.9 | 50.3 | 50.8 |
 | 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 42.5 | 45.0 | 45.3 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI | 48.7 | 51.0 | 51.5 |
-| 45 min | EUR | EU Economic Forecasts |  |  |  |
+| 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 20:00 | USD | Building Permits (MoM) |  | 0.1% | -3.7% |
 | 20:30 | CAD | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
 | 20:30 | CAD | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
