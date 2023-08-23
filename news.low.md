@@ -8,14 +8,14 @@
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
 | 07:00 | AUD | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.6 |
-| 13:00 | SGD | CPI (MoM) (Jul) |  |  | 0.50% |
+| 42 min | SGD | CPI (MoM) (Jul) |  |  | 0.50% |
 | 14:00 | NOK | M3 Money Supply (Jul) |  |  | 3,059.5B |
 | 14:00 | NOK | Credit Indicator (YoY) (Jul) |  | 4.3% | 4.3% |
-| 15:15 | EUR | HCOB France Composite PMI (Aug) |  | 46.6 | 46.6 |
+| 15:15 | EUR | HCOB France Composite PMI (Aug) |  | 47.5 | 46.6 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Aug) |  | 48.3 | 48.5 |
-| 16:00 | ZAR | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
 | 16:00 | ZAR | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
-| 16:00 | ZAR | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
+| 16:00 | ZAR | Core CPI (MoM) (Jul) |  | 0.6% | 0.4% |
+| 16:00 | ZAR | CPI (MoM) (Jul) |  | 1.1% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.16% |
@@ -29,8 +29,8 @@
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.167M |
 | 22:30 | USD | Crude Oil Imports |  | -2.270M | -1.763M |
 | 22:30 | USD | Distillate Fuel Production |  | 0.011M | -0.182M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.095M | 0.296M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.218M | 0.296M |
 | 22:30 | USD | Gasoline Production |  | 0.015M | -0.336M |
 | 22:30 | USD | Heating Oil Stockpiles |  | 0.183M | -0.101M |
 | 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 22:30 | USD | Gasoline Inventories |  | 0.436M | -0.261M |
+| 22:30 | USD | Gasoline Inventories |  | -0.888M | -0.261M |
