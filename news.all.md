@@ -11,8 +11,8 @@
 | 06:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q2) | -3.5% | 3.1% | -4.1% |
 | 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.4 | 49.6 | 49.6 |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 46.7 | 47.9 | 47.9 |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) |  | 49.5 | 49.6 |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 53.8 |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.6 |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.3 |  | 53.8 |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Jul) |  | 3.80% | 4.20% |
 | 13:00 | SGD | Low | CPI (MoM) (Jul) |  |  | 0.50% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Jul) |  | 4.2% | 4.5% |
@@ -27,8 +27,8 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 42.8 | 42.7 |
 | 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) |  | 48.5 | 48.6 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 50.5 | 50.9 |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jul) |  | 4.9% | 5.0% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) |  | 0.7% | 0.4% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jul) |  | 1.2% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) |  | 5.0% | 5.4% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
@@ -43,8 +43,8 @@
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 193.0 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 408.4 |
 | 19:30 | INR | Low | M3 Money Supply |  | 10.6% | 10.6% |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
 | 20:00 | USD | High | Building Permits |  | 1.442M | 1.441M |
+| 20:00 | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.4 | 49.0 |

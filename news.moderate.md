@@ -6,7 +6,7 @@
 | 04:30 | USD | API Weekly Crude Oil Stock | -2.418M | -2.900M | -6.195M |
 | 06:45 | NZD | Core Retail Sales (QoQ) | -1.8% | -2.5% | -1.6% |
 | 06:45 | NZD | Retail Sales (QoQ) (Q2) | -1.0% | -2.6% | -1.6% |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 53.8 |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI | 54.3 |  | 53.8 |
 | 13:00 | SGD | Core CPI (YoY) (Jul) |  | 3.80% | 4.20% |
 | 13:00 | SGD | CPI (YoY) (Jul) |  | 4.2% | 4.5% |
 | 15:15 | EUR | HCOB France Manufacturing PMI (Aug) |  | 45.2 | 45.1 |
