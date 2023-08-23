@@ -27,15 +27,15 @@
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.7 | 42.6 | 42.7 |
 | 16:00 | EUR | Moderate | S&P Global Composite PMI (Aug) | 47.0 | 48.5 | 48.6 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 48.3 | 50.5 | 50.9 |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
-| 11 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.3 | 50.8 |
-| 11 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 45.3 |
-| 11 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 51.5 |
-| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 47.9 | 50.3 | 50.8 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 42.5 | 45.0 | 45.3 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 48.7 | 51.0 | 51.5 |
+| 45 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.16% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.8% |
@@ -43,15 +43,15 @@
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 193.0 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 408.4 |
 | 19:30 | INR | Low | M3 Money Supply |  | 10.6% | 10.6% |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
 | 20:00 | USD | High | Building Permits |  | 1.442M | 1.441M |
+| 20:00 | USD | Moderate | Building Permits (MoM) |  | 0.1% | -3.7% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jun) |  | 0.3% | 0.0% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jun) |  | 0.0% | 0.2% |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 49.3 | 49.0 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 52.0 | 52.0 |
 | 21:45 | USD | High | S&P Global US Services PMI (Aug) |  | 52.3 | 52.3 |
-| 22:00 | USD | High | New Home Sales (Jul) |  | 705K | 697K |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Jul) |  |  | -2.5% |
+| 22:00 | USD | High | New Home Sales (Jul) |  | 705K | 697K |
 | 22:00 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | 506.00K |
 | 22:00 | EUR | Low | Consumer Confidence (Aug) |  | -14.3 | -15.1 |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.850M | -5.960M |

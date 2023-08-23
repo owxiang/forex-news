@@ -13,8 +13,8 @@
 | 14:00 | NOK | Credit Indicator (YoY) (Jul) | 4.2% | 4.2% | 4.3% |
 | 15:15 | EUR | HCOB France Composite PMI (Aug) | 46.6 | 47.5 | 46.6 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Aug) | 44.7 | 48.3 | 48.5 |
-| 16:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
 | 16:00 | ZAR | Core CPI (YoY) (Jul) | 4.7% | 4.9% | 5.0% |
+| 16:00 | ZAR | Core CPI (MoM) (Jul) | 0.5% | 0.6% | 0.4% |
 | 16:00 | ZAR | CPI (MoM) (Jul) | 0.9% | 1.1% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Jul) | 4.8% | 5.0% | 5.4% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
