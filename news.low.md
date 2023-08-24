@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 05:00 | KRW | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
+| 05:00 | KRW | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 07:50 | JPY | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
@@ -20,11 +20,11 @@
 | 20:00 | MXN | 1st Half-Month Core CPI (Aug) | 0.19% | 0.21% | 0.24% |
 | 20:00 | MXN | 1st Half-Month CPI (Aug) | 0.32% | 0.28% | 0.29% |
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 20:30 | USD | Chicago Fed National Activity (Jul) |  |  | -0.32 |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,708K | 1,716K |
-| 20:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 6.0% |
-| 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) |  | 0.1% | 0.2% |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  | 232.63K | 234.25K |
+| 20:30 | USD | Chicago Fed National Activity (Jul) | 0.12 |  | -0.33 |
+| 20:30 | USD | Continuing Jobless Claims | 1,702K | 1,708K | 1,711K |
+| 20:30 | USD | Durables Excluding Defense (MoM) (Jul) | -5.4% |  | 5.9% |
+| 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) | 0.1% | 0.1% | -0.4% |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 236.75K | 232.63K | 234.50K |
 | 22:30 | USD | Natural Gas Storage |  | 33B | 35B |
 | 23:00 | USD | KC Fed Composite Index (Aug) |  |  | -11 |
 | 23:00 | USD | KC Fed Manufacturing Index (Aug) |  |  | -20 |

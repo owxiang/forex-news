@@ -8,6 +8,5 @@
 | 16:15 | BRL | BRICS Summit |  |  |  |
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 20:00 | USD | Jackson Hole Symposium |  |  |  |
-| 20:30 | USD | Durable Goods Orders (MoM) (Jul) |  | -4.0% | 4.7% |
-| 20:30 | CAD | Wholesale Sales (MoM) |  |  | -2.8% |
+| 20:30 | USD | Durable Goods Orders (MoM) (Jul) | -5.2% | -4.0% | 4.4% |
 | 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
