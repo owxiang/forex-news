@@ -1,32 +1,32 @@
-## 24 August 2023 - Low Impact Forex News
+## 25 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
-| 05:00 | KRW | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
-| 07:50 | JPY | Foreign Bonds Buying | -263.2B |  | -333.6B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
-| 09:00 | KRW | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
-| 14:00 | NOK | Unemployment Rate (Jul) | 3.5% | 3.5% | 3.4% |
-| 14:45 | EUR | French Business Survey (Aug) | 96 | 99 | 101 |
-| 15:00 | IDR | Deposit Facility Rate (Aug) | 5.00% | 5.00% | 5.00% |
-| 15:00 | IDR | Lending Facility Rate (Aug) | 6.50% | 6.50% | 6.50% |
-| 16:00 | IDR | Loans (YoY) (Jun) | 8.54% |  | 9.39% |
-| 16:30 | HKD | Exports (MoM) (Jul) | -9.1% | -13.6% | -11.4% |
-| 16:30 | HKD | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
-| 16:30 | HKD | Trade Balance | -30.0B | -32.7B | -56.6B |
-| 18:00 | GBP | CBI Distributive Trades Survey | -44 | -14 | -25 |
-| 20:00 | MXN | 1st Half-Month Core CPI (Aug) | 0.19% | 0.21% | 0.24% |
-| 20:00 | MXN | 1st Half-Month CPI (Aug) | 0.32% | 0.28% | 0.29% |
-| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 20:30 | USD | Chicago Fed National Activity (Jul) | 0.12 |  | -0.33 |
-| 20:30 | USD | Continuing Jobless Claims | 1,702K | 1,708K | 1,711K |
-| 20:30 | USD | Durables Excluding Defense (MoM) (Jul) | -5.4% |  | 5.9% |
-| 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) | 0.1% | 0.1% | -0.4% |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 236.75K | 232.63K | 234.50K |
-| 22:30 | USD | Natural Gas Storage | 18B | 33B | 35B |
-| 23:00 | USD | KC Fed Composite Index (Aug) | 0 |  | -11 |
-| 23:00 | USD | KC Fed Manufacturing Index (Aug) | 12 |  | -20 |
-| 14 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 14 min | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 40 min | USD | 30-Year TIPS Auction |  |  | 1.550% |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
+| 07:01 | GBP | GfK Consumer Confidence (Aug) |  | -29 | -30 |
+| 07:30 | JPY | CPI (YoY) (Aug) |  |  | 2.5% |
+| 07:30 | JPY | Tokyo CPI (YoY) (Aug) |  | 3.0% | 3.2% |
+| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Aug) |  |  | 0.5% |
+| 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.10% |
+| 13:00 | SGD | Industrial Production (MoM) (Jul) |  | -0.5% | 5.0% |
+| 13:00 | SGD | Industrial Production (YoY) (Jul) |  | -3.8% | -4.9% |
+| 14:00 | EUR | GDP (YoY) (Q2) |  |  | -0.20% |
+| 15:00 | EUR | Spanish PPI (YoY) |  | -10.1% | -8.1% |
+| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 19:30 | INR | Bank Loan Growth |  | 20.1% | 19.7% |
+| 19:30 | INR | Deposit Growth |  | 13.1% | 12.9% |
+| 19:30 | INR | FX Reserves, USD |  | 605.80B | 602.16B |
+| 19:30 | BRL | Current Account (USD) (Jul) |  | -4.00B | -0.84B |
+| 19:30 | BRL | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
+| 20:00 | MXN | Economic Activity (YoY) |  |  | 4.30% |
+| 20:00 | MXN | Economic Activity (MoM) |  |  | 0.00% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
+| 20:00 | BRL | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
+| 20:30 | CAD | Manufacturing Sales (MoM) |  |  | -1.7% |
+| 22:00 | USD | Michigan Current Conditions (Aug) |  | 77.4 | 76.6 |
+| 22:00 | MXN | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
+| 22:00 | MXN | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
+| 23:00 | CAD | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 23:00 | CAD | Budget Balance (YoY) (Jun) |  |  | 1.52B |
