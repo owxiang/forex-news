@@ -13,10 +13,10 @@
 | 15:00 | IDR | Deposit Facility Rate (Aug) | 5.00% | 5.00% | 5.00% |
 | 15:00 | IDR | Lending Facility Rate (Aug) | 6.50% | 6.50% | 6.50% |
 | 16:00 | IDR | Loans (YoY) (Jun) | 8.54% |  | 9.39% |
-| 11 min | HKD | Exports (MoM) (Jul) |  | -13.6% | -11.4% |
-| 11 min | HKD | Imports (MoM) (Jul) |  | -8.2% | -12.3% |
-| 11 min | HKD | Trade Balance |  | -32.7B | -56.6B |
-| 18:00 | GBP | CBI Distributive Trades Survey |  | -14 | -25 |
+| 16:30 | HKD | Exports (MoM) (Jul) | -9.1% | -13.6% | -11.4% |
+| 16:30 | HKD | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
+| 16:30 | HKD | Trade Balance | -30.0B | -32.7B | -56.6B |
+| 45 min | GBP | CBI Distributive Trades Survey |  | -14 | -25 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
 | 20:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |

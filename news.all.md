@@ -17,10 +17,10 @@
 | 15:30 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 16:00 | IDR | Low | Loans (YoY) (Jun) | 8.54% |  | 9.39% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
-| 11 min | HKD | Low | Exports (MoM) (Jul) |  | -13.6% | -11.4% |
-| 11 min | HKD | Low | Imports (MoM) (Jul) |  | -8.2% | -12.3% |
-| 11 min | HKD | Low | Trade Balance |  | -32.7B | -56.6B |
-| 18:00 | GBP | Low | CBI Distributive Trades Survey |  | -14 | -25 |
+| 16:30 | HKD | Low | Exports (MoM) (Jul) | -9.1% | -13.6% | -11.4% |
+| 16:30 | HKD | Low | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
+| 16:30 | HKD | Low | Trade Balance | -30.0B | -32.7B | -56.6B |
+| 45 min | GBP | Low | CBI Distributive Trades Survey |  | -14 | -25 |
 | 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
