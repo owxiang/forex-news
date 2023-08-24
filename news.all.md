@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 20-Year Bond Auction | 4.499% |  | 4.036% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | Low | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
 | 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
+| 05:00 | KRW | Low | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
@@ -34,9 +34,9 @@
 | 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) | 0.1% | 0.1% | -0.4% |
 | 20:30 | USD | High | Initial Jobless Claims | 230K | 240K | 240K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 236.75K | 232.63K | 234.50K |
-| 22:30 | USD | Low | Natural Gas Storage |  | 33B | 35B |
-| 23:00 | USD | Low | KC Fed Composite Index (Aug) |  |  | -11 |
-| 23:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -20 |
-| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 16 min | USD | Low | Natural Gas Storage |  | 33B | 35B |
+| 46 min | USD | Low | KC Fed Composite Index (Aug) |  |  | -11 |
+| 46 min | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -20 |
+| 46 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
