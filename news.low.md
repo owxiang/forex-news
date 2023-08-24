@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 05:00 | KRW | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
+| 05:00 | KRW | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 07:50 | JPY | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
@@ -25,8 +25,8 @@
 | 20:30 | USD | Durables Excluding Defense (MoM) (Jul) | -5.4% |  | 5.9% |
 | 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) | 0.1% | 0.1% | -0.4% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 236.75K | 232.63K | 234.50K |
-| 16 min | USD | Natural Gas Storage |  | 33B | 35B |
-| 46 min | USD | KC Fed Composite Index (Aug) |  |  | -11 |
-| 46 min | USD | KC Fed Manufacturing Index (Aug) |  |  | -20 |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 22:30 | USD | Natural Gas Storage | 18B | 33B | 35B |
+| 23:00 | USD | KC Fed Composite Index (Aug) | 0 |  | -11 |
+| 23:00 | USD | KC Fed Manufacturing Index (Aug) | 12 |  | -20 |
+| 14 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | 8-Week Bill Auction |  |  | 5.280% |
