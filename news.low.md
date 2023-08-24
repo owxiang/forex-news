@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
 | 05:00 | KRW | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
+| 05:00 | KRW | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
 | 07:50 | JPY | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
@@ -17,9 +17,9 @@
 | 16:30 | HKD | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
 | 16:30 | HKD | Trade Balance | -30.0B | -32.7B | -56.6B |
 | 18:00 | GBP | CBI Distributive Trades Survey | -44 | -14 | -25 |
-| 48 min | MXN | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
-| 48 min | MXN | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
-| 48 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 20:00 | MXN | 1st Half-Month Core CPI (Aug) | 0.19% | 0.21% | 0.24% |
+| 20:00 | MXN | 1st Half-Month CPI (Aug) | 0.32% | 0.28% | 0.29% |
+| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 20:30 | USD | Chicago Fed National Activity (Jul) |  |  | -0.32 |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,708K | 1,716K |
 | 20:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 6.0% |

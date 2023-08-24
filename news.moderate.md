@@ -6,8 +6,8 @@
 | 09:00 | KRW | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
 | 15:30 | IDR | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
 | 16:15 | BRL | BRICS Summit |  |  |  |
-| 18 min | INR | RBI MPC Meeting Minutes |  |  |  |
-| 48 min | USD | Jackson Hole Symposium |  |  |  |
+| 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 20:00 | USD | Jackson Hole Symposium |  |  |  |
 | 20:30 | USD | Durable Goods Orders (MoM) (Jul) |  | -4.0% | 4.7% |
 | 20:30 | CAD | Wholesale Sales (MoM) |  |  | -2.8% |
 | 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
