@@ -3,18 +3,18 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 30-Year TIPS Auction | 1.970% |  | 1.550% |
-| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,146B |
-| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
+| 04:30 | USD | Moderate | Fed's Balance Sheet | 8,139B |  | 8,146B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.177T |  | 3.229T |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Aug) |  | -29 | -30 |
 | 07:30 | JPY | Low | CPI (YoY) (Aug) |  |  | 2.5% |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Aug) |  | 3.0% | 3.2% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Aug) |  |  | 0.5% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.10% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Jul) |  | -0.5% | 5.0% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | -3.8% | -4.9% |
-| 14:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.2% | -0.2% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Jul) |  | -0.5% | 5.0% |
 | 14:00 | EUR | High | German GDP (QoQ) (Q2) |  | 0.0% | -0.1% |
+| 14:00 | EUR | Moderate | German GDP (YoY) (Q2) |  | -0.2% | -0.2% |
 | 14:00 | EUR | Low | GDP (YoY) (Q2) |  |  | -0.20% |
 | 14:30 | CHF | Moderate | Employment Level (Q2) |  | 5.428M | 5.389M |
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  | -10.1% | -8.1% |
@@ -30,12 +30,12 @@
 | 19:30 | BRL | Low | Current Account (USD) (Jul) |  | -4.00B | -0.84B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
 | 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 20:00 | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Low | Economic Activity (MoM) |  |  | 0.00% |
+| 20:00 | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | -1.7% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -2.8% |
