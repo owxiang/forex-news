@@ -4,18 +4,18 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 20-Year Bond Auction | 4.499% |  | 4.036% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 05:00 | KRW | Low | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
+| 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
 | 09:00 | KRW | Low | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
 | 14:00 | NOK | Low | Unemployment Rate (Jul) | 3.5% | 3.5% | 3.4% |
-| 26 min | EUR | Low | French Business Survey (Aug) |  | 99 | 100 |
-| 41 min | IDR | Low | Deposit Facility Rate (Aug) |  | 5.00% | 5.00% |
-| 41 min | IDR | Low | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
-| 15:20 | IDR | Low | Loans (YoY) |  |  | 7.76% |
-| 15:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 14:45 | EUR | Low | French Business Survey (Aug) | 96 | 99 | 101 |
+| 6 min | IDR | Low | Loans (YoY) |  |  | 7.76% |
+| 16 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 16 min | IDR | Low | Deposit Facility Rate (Aug) |  | 5.00% | 5.00% |
+| 16 min | IDR | Low | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
 | 16:15 | BRL | Moderate | BRICS Summit |  |  |  |
 | 16:30 | HKD | Low | Exports (MoM) (Jul) |  | -13.6% | -11.4% |
 | 16:30 | HKD | Low | Imports (MoM) (Jul) |  | -8.2% | -12.3% |
