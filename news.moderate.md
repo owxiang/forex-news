@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Fed's Balance Sheet | 8,139B |  | 8,146B |
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
+| 15 min | JPY | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
 | 14:00 | EUR | German GDP (YoY) (Q2) |  | -0.2% | -0.2% |
 | 14:30 | CHF | Employment Level (Q2) |  | 5.428M | 5.389M |
 | 16:00 | EUR | German Business Expectations (Aug) |  | 83.8 | 83.5 |

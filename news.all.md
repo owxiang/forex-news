@@ -5,11 +5,11 @@
 | 01:00 | USD | Low | 30-Year TIPS Auction | 1.970% |  | 1.550% |
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,139B |  | 8,146B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.177T |  | 3.229T |
-| 47 min | GBP | Low | GfK Consumer Confidence (Aug) |  | -29 | -30 |
-| 07:30 | JPY | Low | CPI (YoY) (Aug) |  |  | 2.5% |
-| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
-| 07:30 | JPY | Low | Tokyo CPI (YoY) (Aug) |  | 3.0% | 3.2% |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Aug) |  |  | 0.5% |
+| 07:01 | GBP | Low | GfK Consumer Confidence (Aug) | -25 | -29 | -30 |
+| 15 min | JPY | Low | CPI (YoY) (Aug) |  |  | 2.5% |
+| 15 min | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
+| 15 min | JPY | Low | Tokyo CPI (YoY) (Aug) |  | 3.0% | 3.2% |
+| 15 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Aug) |  |  | 0.5% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.10% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | -3.8% | -4.9% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Jul) |  | -0.5% | 5.0% |
