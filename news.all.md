@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 30-Year TIPS Auction | 1.970% |  | 1.550% |
-| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,146B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
+| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,146B |
+| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.229T |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Aug) |  | -29 | -30 |
 | 07:30 | JPY | Low | CPI (YoY) (Aug) |  |  | 2.5% |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
