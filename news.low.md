@@ -17,9 +17,9 @@
 | 16:30 | HKD | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
 | 16:30 | HKD | Trade Balance | -30.0B | -32.7B | -56.6B |
 | 18:00 | GBP | CBI Distributive Trades Survey | -44 | -14 | -25 |
-| 20:00 | MXN | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
-| 20:00 | MXN | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
-| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 48 min | MXN | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
+| 48 min | MXN | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
+| 48 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 20:30 | USD | Chicago Fed National Activity (Jul) |  |  | -0.32 |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,708K | 1,716K |
 | 20:30 | USD | Durables Excluding Defense (MoM) (Jul) |  |  | 6.0% |

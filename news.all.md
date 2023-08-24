@@ -21,11 +21,11 @@
 | 16:30 | HKD | Low | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
 | 16:30 | HKD | Low | Trade Balance | -30.0B | -32.7B | -56.6B |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey | -44 | -14 | -25 |
-| 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 20:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
-| 20:00 | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
-| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 18 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 48 min | USD | Moderate | Jackson Hole Symposium |  |  |  |
+| 48 min | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
+| 48 min | MXN | Low | 1st Half-Month CPI (Aug) |  | 0.28% | 0.29% |
+| 48 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 20:30 | USD | Low | Chicago Fed National Activity (Jul) |  |  | -0.32 |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,708K | 1,716K |
 | 20:30 | USD | High | Core Durable Goods Orders (MoM) (Jul) |  | 0.2% | 0.6% |
