@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 20-Year Bond Auction | 4.499% |  | 4.036% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 05:00 | KRW | Low | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
+| 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
@@ -20,7 +20,7 @@
 | 16:30 | HKD | Low | Exports (MoM) (Jul) | -9.1% | -13.6% | -11.4% |
 | 16:30 | HKD | Low | Imports (MoM) (Jul) | -7.9% | -8.2% | -12.3% |
 | 16:30 | HKD | Low | Trade Balance | -30.0B | -32.7B | -56.6B |
-| 45 min | GBP | Low | CBI Distributive Trades Survey |  | -14 | -25 |
+| 18:00 | GBP | Low | CBI Distributive Trades Survey | -44 | -14 | -25 |
 | 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Aug) |  | 0.21% | 0.24% |
