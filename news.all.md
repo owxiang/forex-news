@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 20-Year Bond Auction | 4.499% |  | 4.036% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 3.790B | 3.795B | 5.749B |
-| 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 05:00 | KRW | Low | PPI (YoY) (Jul) | -0.2% | -0.4% | -0.3% |
+| 05:00 | KRW | Low | PPI (MoM) (Jul) | 0.3% | 0.0% | -0.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -263.2B |  | -333.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -740.7B |  | 226.0B |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
 | 09:00 | KRW | Low | Interest Rate Decision (Aug) | 3.50% | 3.50% | 3.50% |
-| 14:00 | NOK | Low | Unemployment Rate (Jul) |  | 3.5% | 3.4% |
+| 46 min | NOK | Low | Unemployment Rate (Jul) |  | 3.5% | 3.4% |
 | 14:45 | EUR | Low | French Business Survey (Aug) |  | 99 | 100 |
 | 15:00 | IDR | Low | Deposit Facility Rate (Aug) |  | 5.00% | 5.00% |
 | 15:00 | IDR | Low | Lending Facility Rate (Aug) |  | 6.50% | 6.50% |
@@ -35,7 +35,7 @@
 | 20:30 | USD | High | Initial Jobless Claims |  | 240K | 239K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 232.63K | 234.25K |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -2.8% |
-| 22:30 | USD | Low | Natural Gas Storage |  | -8B | 35B |
+| 22:30 | USD | Low | Natural Gas Storage |  | 33B | 35B |
 | 23:00 | USD | Low | KC Fed Composite Index (Aug) |  |  | -11 |
 | 23:00 | USD | Low | KC Fed Manufacturing Index (Aug) |  |  | -20 |
 | 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
