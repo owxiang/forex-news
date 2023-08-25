@@ -6,10 +6,10 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,139B |  | 8,146B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.177T |  | 3.229T |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Aug) | -25 | -29 | -30 |
-| 15 min | JPY | Low | CPI (YoY) (Aug) |  |  | 2.5% |
-| 15 min | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) |  | 2.9% | 3.0% |
-| 15 min | JPY | Low | Tokyo CPI (YoY) (Aug) |  | 3.0% | 3.2% |
-| 15 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Aug) |  |  | 0.5% |
+| 07:30 | JPY | Low | CPI (YoY) (Aug) | 2.6% |  | 2.5% |
+| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) | 2.8% | 2.9% | 3.0% |
+| 07:30 | JPY | Low | Tokyo CPI (YoY) (Aug) | 2.9% | 3.0% | 3.2% |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Aug) | 0.4% |  | 0.5% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.10% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Jul) |  | -3.8% | -4.9% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Jul) |  | -0.5% | 5.0% |
@@ -30,8 +30,8 @@
 | 19:30 | BRL | Low | Current Account (USD) (Jul) |  | -4.00B | -0.84B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
 | 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 20:00 | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Low | Economic Activity (MoM) |  |  | 0.00% |
+| 20:00 | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
@@ -47,5 +47,5 @@
 | 22:00 | MXN | Low | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
 | 22:00 | MXN | Low | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
 | 22:05 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 23:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | 1.52B |
 | 23:00 | CAD | Low | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 23:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | 1.52B |
