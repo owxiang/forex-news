@@ -11,7 +11,7 @@
 | 13:00 | SGD | Industrial Production (MoM) (Jul) | 4.1% | -0.5% | 3.3% |
 | 13:00 | SGD | Industrial Production (YoY) (Jul) | -0.9% | -3.8% | -6.6% |
 | 14:00 | EUR | GDP (YoY) (Q2) | -0.20% |  | -0.20% |
-| 40 min | EUR | Spanish PPI (YoY) |  | -10.1% | -8.1% |
+| 15:00 | EUR | Spanish PPI (YoY) | -8.4% | -10.1% | -8.1% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | Bank Loan Growth |  | 20.1% | 19.7% |
 | 19:30 | INR | Deposit Growth |  | 13.1% | 12.9% |
@@ -20,8 +20,8 @@
 | 19:30 | BRL | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
 | 20:00 | MXN | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Economic Activity (MoM) |  |  | 0.00% |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:00 | BRL | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
 | 20:30 | CAD | Manufacturing Sales (MoM) |  |  | -1.7% |
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 77.4 | 76.6 |

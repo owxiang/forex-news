@@ -5,10 +5,10 @@
 | 04:30 | USD | Fed's Balance Sheet | 8,139B |  | 8,146B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.8% | 2.9% | 3.0% |
 | 14:00 | EUR | German GDP (YoY) (Q2) | -0.2% | -0.2% | -0.2% |
-| 10 min | CHF | Employment Level (Q2) |  | 5.428M | 5.389M |
-| 16:00 | EUR | German Business Expectations (Aug) |  | 83.8 | 83.5 |
-| 16:00 | EUR | German Current Assessment (Aug) |  | 90.0 | 91.3 |
-| 16:00 | EUR | German Ifo Business Climate Index (Aug) |  | 86.7 | 87.3 |
+| 14:30 | CHF | Employment Level (Q2) | 5.432M | 5.428M | 5.389M |
+| 46 min | EUR | German Business Expectations (Aug) |  | 83.8 | 83.5 |
+| 46 min | EUR | German Current Assessment (Aug) |  | 90.0 | 91.3 |
+| 46 min | EUR | German Ifo Business Climate Index (Aug) |  | 86.7 | 87.3 |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | USD | Jackson Hole Symposium |  |  |  |

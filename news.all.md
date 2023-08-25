@@ -15,11 +15,11 @@
 | 14:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.2% | -0.2% | -0.2% |
 | 14:00 | EUR | High | German GDP (QoQ) (Q2) | 0.0% | 0.0% | -0.1% |
 | 14:00 | EUR | Low | GDP (YoY) (Q2) | -0.20% |  | -0.20% |
-| 10 min | CHF | Moderate | Employment Level (Q2) |  | 5.428M | 5.389M |
-| 40 min | EUR | Low | Spanish PPI (YoY) |  | -10.1% | -8.1% |
-| 16:00 | EUR | Moderate | German Business Expectations (Aug) |  | 83.8 | 83.5 |
-| 16:00 | EUR | Moderate | German Current Assessment (Aug) |  | 90.0 | 91.3 |
-| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 86.7 | 87.3 |
+| 14:30 | CHF | Moderate | Employment Level (Q2) | 5.432M | 5.428M | 5.389M |
+| 15:00 | EUR | Low | Spanish PPI (YoY) | -8.4% | -10.1% | -8.1% |
+| 46 min | EUR | Moderate | German Business Expectations (Aug) |  | 83.8 | 83.5 |
+| 46 min | EUR | Moderate | German Current Assessment (Aug) |  | 90.0 | 91.3 |
+| 46 min | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 86.7 | 87.3 |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -33,8 +33,8 @@
 | 20:00 | MXN | Low | Economic Activity (MoM) |  |  | 0.00% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | -1.7% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -2.8% |
