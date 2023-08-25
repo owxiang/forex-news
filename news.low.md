@@ -1,27 +1,15 @@
-## 25 August 2023 - Low Impact Forex News
+## 26 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 30-Year TIPS Auction | 1.970% |  | 1.550% |
-| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.177T |  | 3.229T |
-| 07:01 | GBP | GfK Consumer Confidence (Aug) | -25 | -29 | -30 |
-| 07:30 | JPY | CPI (YoY) (Aug) | 2.6% |  | 2.5% |
-| 07:30 | JPY | Tokyo CPI (YoY) (Aug) | 2.9% | 3.0% | 3.2% |
-| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Aug) | 0.4% |  | 0.5% |
-| 13:00 | SGD | Industrial Production (YoY) (Jul) | -0.9% | -3.8% | -6.6% |
-| 13:00 | SGD | Industrial Production (MoM) (Jul) | 4.1% | -0.5% | 3.3% |
-| 14:00 | EUR | GDP (YoY) (Q2) | -0.20% |  | -0.20% |
-| 15:00 | EUR | Spanish PPI (YoY) | -8.4% | -10.1% | -8.1% |
-| 19:00 | BRL | FGV Consumer confidence (Aug) | 96.8 | 93.3 | 94.8 |
-| 19:30 | INR | Bank Loan Growth | 19.7% | 20.1% | 19.7% |
-| 19:30 | INR | Deposit Growth | 13.5% | 13.1% | 12.9% |
-| 19:30 | INR | FX Reserves, USD | 594.89B | 605.80B | 601.45B |
-| 19:31 | BRL | Current Account (USD) (Jul) | -3.60B | -4.00B | -1.27B |
-| 19:31 | BRL | Foreign direct investment (USD) (Jul) | 4.20B | 6.56B | 1.88B |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Aug) | 0.28% | 0.17% | -0.07% |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.24% | 4.13% | 3.19% |
-| 22:00 | USD | Michigan Current Conditions (Aug) | 75.7 | 77.4 | 76.6 |
-| 22:00 | MXN | Current Account (USD) (Q2) | 6,247M |  | -14,282M |
-| 22:00 | MXN | Current Account % of GDP (Q2) | 1.40% |  | -3.60% |
-| 23:00 | CAD | Budget Balance (Jun) | 2.11B | -5.30B | 3.30B |
-| 23:00 | CAD | Budget Balance (YoY) (Jun) | 3.62B |  | 1.52B |
+| 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.9K |
+| 04:30 | USD | CFTC Copper speculative net positions |  |  | -25.7K |
+| 04:30 | USD | CFTC Corn speculative net positions |  |  | -27.0K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions |  |  | -95.2K |
+| 04:30 | USD | CFTC Silver speculative net positions |  |  | 7.9K |
+| 04:30 | USD | CFTC Soybeans speculative net positions |  |  | 65.3K |
+| 04:30 | USD | CFTC Wheat speculative net positions |  |  | -31.9K |
+| 04:30 | CAD | CFTC CAD speculative net positions |  |  | -11.4K |
+| 04:30 | MXN | CFTC MXN speculative net positions |  |  | 82.0K |
+| 04:30 | CHF | CFTC CHF speculative net positions |  |  | -4.0K |
+| 04:30 | NZD | CFTC NZD speculative net positions |  |  | -2.4K |

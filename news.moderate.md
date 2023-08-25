@@ -1,19 +1,17 @@
-## 25 August 2023 - Moderate Impact Forex News
+## 26 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | Fed's Balance Sheet | 8,139B |  | 8,146B |
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.8% | 2.9% | 3.0% |
-| 14:00 | EUR | German GDP (YoY) (Q2) | -0.2% | -0.2% | -0.2% |
-| 14:30 | CHF | Employment Level (Q2) | 5.432M | 5.428M | 5.389M |
-| 16:00 | EUR | German Business Expectations (Aug) | 82.6 | 83.8 | 83.6 |
-| 16:00 | EUR | German Current Assessment (Aug) | 89.0 | 90.0 | 91.4 |
-| 16:00 | EUR | German Ifo Business Climate Index (Aug) | 85.7 | 86.7 | 87.4 |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 41 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 520 |
+| 41 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 642 |
+| 03:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 51.0K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 242.1K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 121.1K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 5.2K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -118.4K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -53.4K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 23.5K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -81.0K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 159.9K |
 | 20:00 | USD | Jackson Hole Symposium |  |  |  |
-| 20:30 | CAD | Wholesale Sales (MoM) | 1.4% |  | -2.8% |
-| 22:00 | USD | Michigan 5-Year Inflation Expectations (Aug) | 3.0% | 2.9% | 3.0% |
-| 22:00 | USD | Michigan Consumer Expectations (Aug) | 65.5 | 67.3 | 68.3 |
-| 22:00 | USD | Michigan Consumer Sentiment (Aug) | 69.5 | 71.2 | 71.6 |
-| 22:00 | USD | Michigan Inflation Expectations (Aug) | 3.5% | 3.3% | 3.4% |
