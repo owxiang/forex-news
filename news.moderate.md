@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 512 |  | 520 |
 | 01:00 | USD | U.S. Baker Hughes Total Rig Count | 632 |  | 642 |
-| 03:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 41 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 51.0K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 242.1K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 121.1K |
