@@ -18,8 +18,8 @@
 | 19:30 | INR | FX Reserves, USD |  | 605.80B | 602.16B |
 | 19:30 | BRL | Current Account (USD) (Jul) |  | -4.00B | -0.84B |
 | 19:30 | BRL | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
-| 20:00 | MXN | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Economic Activity (MoM) |  |  | 0.00% |
+| 20:00 | MXN | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
 | 20:00 | BRL | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
