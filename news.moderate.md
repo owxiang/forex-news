@@ -9,7 +9,7 @@
 | 16:00 | EUR | German Business Expectations (Aug) | 82.6 | 83.8 | 83.6 |
 | 16:00 | EUR | German Current Assessment (Aug) | 89.0 | 90.0 | 91.4 |
 | 16:00 | EUR | German Ifo Business Climate Index (Aug) | 85.7 | 86.7 | 87.4 |
-| 41 min | EUR | German Buba Balz Speaks |  |  |  |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | USD | Jackson Hole Symposium |  |  |  |
 | 20:00 | MXN | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
