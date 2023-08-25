@@ -21,5 +21,7 @@
 | 20:00 | BRL | Mid-Month CPI (MoM) (Aug) | 0.28% | 0.17% | -0.07% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.24% | 4.13% | 3.19% |
 | 22:00 | USD | Michigan Current Conditions (Aug) | 75.7 | 77.4 | 76.6 |
-| 46 min | CAD | Budget Balance (YoY) (Jun) |  |  | 1.52B |
-| 46 min | CAD | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 22:00 | MXN | Current Account (USD) (Q2) | 6,247M |  | -14,282M |
+| 22:00 | MXN | Current Account % of GDP (Q2) | 1.40% |  | -3.60% |
+| 23:00 | CAD | Budget Balance (Jun) | 2.11B | -5.30B | 3.30B |
+| 23:00 | CAD | Budget Balance (YoY) (Jun) | 3.62B |  | 1.52B |

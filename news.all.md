@@ -37,6 +37,8 @@
 | 22:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) | 69.5 | 71.2 | 71.6 |
 | 22:00 | USD | Low | Michigan Current Conditions (Aug) | 75.7 | 77.4 | 76.6 |
 | 22:00 | USD | Moderate | Michigan Inflation Expectations (Aug) | 3.5% | 3.3% | 3.4% |
+| 22:00 | MXN | Low | Current Account (USD) (Q2) | 6,247M |  | -14,282M |
+| 22:00 | MXN | Low | Current Account % of GDP (Q2) | 1.40% |  | -3.60% |
 | 22:05 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 46 min | CAD | Low | Budget Balance (YoY) (Jun) |  |  | 1.52B |
-| 46 min | CAD | Low | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 23:00 | CAD | Low | Budget Balance (Jun) | 2.11B | -5.30B | 3.30B |
+| 23:00 | CAD | Low | Budget Balance (YoY) (Jun) | 3.62B |  | 1.52B |
