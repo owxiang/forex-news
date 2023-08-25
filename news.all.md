@@ -10,10 +10,10 @@
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Aug) | 2.8% | 2.9% | 3.0% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Aug) | 2.9% | 3.0% | 3.2% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Aug) | 0.4% |  | 0.5% |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Jul) | -0.9% | -3.8% | -6.6% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Jul) | 4.1% | -0.5% | 3.3% |
-| 14:00 | EUR | High | German GDP (QoQ) (Q2) | 0.0% | 0.0% | -0.1% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Jul) | -0.9% | -3.8% | -6.6% |
 | 14:00 | EUR | Moderate | German GDP (YoY) (Q2) | -0.2% | -0.2% | -0.2% |
+| 14:00 | EUR | High | German GDP (QoQ) (Q2) | 0.0% | 0.0% | -0.1% |
 | 14:00 | EUR | Low | GDP (YoY) (Q2) | -0.20% |  | -0.20% |
 | 14:30 | CHF | Moderate | Employment Level (Q2) | 5.432M | 5.428M | 5.389M |
 | 15:00 | EUR | Low | Spanish PPI (YoY) | -8.4% | -10.1% | -8.1% |
@@ -21,21 +21,20 @@
 | 16:00 | EUR | Moderate | German Current Assessment (Aug) | 89.0 | 90.0 | 91.4 |
 | 16:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 85.7 | 86.7 | 87.4 |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 44 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 19:30 | INR | Low | Bank Loan Growth |  | 20.1% | 19.7% |
-| 19:30 | INR | Low | Deposit Growth |  | 13.1% | 12.9% |
-| 19:30 | INR | Low | FX Reserves, USD |  | 605.80B | 602.16B |
-| 19:30 | BRL | Low | Current Account (USD) (Jul) |  | -4.00B | -0.84B |
-| 19:30 | BRL | Low | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
-| 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
-| 20:00 | MXN | Low | Economic Activity (MoM) |  |  | 0.00% |
-| 20:00 | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
-| 20:00 | BRL | Low | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
+| 19:00 | BRL | Low | FGV Consumer confidence (Aug) | 96.8 | 93.3 | 94.8 |
+| 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18 min | INR | Low | Bank Loan Growth |  | 20.1% | 19.7% |
+| 18 min | INR | Low | Deposit Growth |  | 13.1% | 12.9% |
+| 18 min | INR | Low | FX Reserves, USD |  | 605.80B | 602.16B |
+| 18 min | BRL | Low | Current Account (USD) (Jul) |  | -4.00B | -0.84B |
+| 18 min | BRL | Low | Foreign direct investment (USD) (Jul) |  | 6.56B | 1.88B |
+| 48 min | USD | Moderate | Jackson Hole Symposium |  |  |  |
+| 48 min | MXN | Low | Economic Activity (MoM) |  |  | 0.00% |
+| 48 min | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
+| 48 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 48 min | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
+| 48 min | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
+| 48 min | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | -1.7% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -2.8% |
 | 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  | 2.9% | 3.0% |

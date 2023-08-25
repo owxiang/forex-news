@@ -10,10 +10,10 @@
 | 16:00 | EUR | German Current Assessment (Aug) | 89.0 | 90.0 | 91.4 |
 | 16:00 | EUR | German Ifo Business Climate Index (Aug) | 85.7 | 86.7 | 87.4 |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 44 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:00 | USD | Jackson Hole Symposium |  |  |  |
-| 20:00 | MXN | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
-| 20:00 | MXN | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 48 min | USD | Jackson Hole Symposium |  |  |  |
+| 48 min | MXN | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 48 min | MXN | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
 | 20:30 | CAD | Wholesale Sales (MoM) |  |  | -2.8% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 2.9% | 3.0% |
 | 22:00 | USD | Michigan Consumer Expectations (Aug) |  | 67.3 | 68.3 |
