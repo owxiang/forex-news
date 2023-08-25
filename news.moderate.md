@@ -6,14 +6,14 @@
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Aug) | 2.8% | 2.9% | 3.0% |
 | 14:00 | EUR | German GDP (YoY) (Q2) | -0.2% | -0.2% | -0.2% |
 | 14:30 | CHF | Employment Level (Q2) | 5.432M | 5.428M | 5.389M |
-| 46 min | EUR | German Business Expectations (Aug) |  | 83.8 | 83.5 |
-| 46 min | EUR | German Current Assessment (Aug) |  | 90.0 | 91.3 |
-| 46 min | EUR | German Ifo Business Climate Index (Aug) |  | 86.7 | 87.3 |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 16:00 | EUR | German Business Expectations (Aug) | 82.6 | 83.8 | 83.6 |
+| 16:00 | EUR | German Current Assessment (Aug) | 89.0 | 90.0 | 91.4 |
+| 16:00 | EUR | German Ifo Business Climate Index (Aug) | 85.7 | 86.7 | 87.4 |
+| 41 min | EUR | German Buba Balz Speaks |  |  |  |
 | 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | USD | Jackson Hole Symposium |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:00 | MXN | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
+| 20:00 | MXN | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:30 | CAD | Wholesale Sales (MoM) |  |  | -2.8% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Aug) |  | 2.9% | 3.0% |
 | 22:00 | USD | Michigan Consumer Expectations (Aug) |  | 67.3 | 68.3 |

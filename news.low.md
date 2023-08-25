@@ -27,5 +27,5 @@
 | 22:00 | USD | Michigan Current Conditions (Aug) |  | 77.4 | 76.6 |
 | 22:00 | MXN | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
 | 22:00 | MXN | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
-| 23:00 | CAD | Budget Balance (YoY) (Jun) |  |  | 1.52B |
 | 23:00 | CAD | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 23:00 | CAD | Budget Balance (YoY) (Jun) |  |  | 1.52B |

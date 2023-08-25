@@ -17,10 +17,10 @@
 | 14:00 | EUR | Low | GDP (YoY) (Q2) | -0.20% |  | -0.20% |
 | 14:30 | CHF | Moderate | Employment Level (Q2) | 5.432M | 5.428M | 5.389M |
 | 15:00 | EUR | Low | Spanish PPI (YoY) | -8.4% | -10.1% | -8.1% |
-| 46 min | EUR | Moderate | German Business Expectations (Aug) |  | 83.8 | 83.5 |
-| 46 min | EUR | Moderate | German Current Assessment (Aug) |  | 90.0 | 91.3 |
-| 46 min | EUR | Moderate | German Ifo Business Climate Index (Aug) |  | 86.7 | 87.3 |
-| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:00 | EUR | Moderate | German Business Expectations (Aug) | 82.6 | 83.8 | 83.6 |
+| 16:00 | EUR | Moderate | German Current Assessment (Aug) | 89.0 | 90.0 | 91.4 |
+| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Aug) | 85.7 | 86.7 | 87.4 |
+| 41 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | INR | Low | Bank Loan Growth |  | 20.1% | 19.7% |
@@ -31,8 +31,8 @@
 | 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 20:00 | MXN | Low | Economic Activity (YoY) |  |  | 4.30% |
 | 20:00 | MXN | Low | Economic Activity (MoM) |  |  | 0.00% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) |  | 4.13% | 3.19% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) |  | 0.17% | -0.07% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Aug) |  | 93.3 | 94.8 |
@@ -46,5 +46,5 @@
 | 22:00 | MXN | Low | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
 | 22:00 | MXN | Low | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
 | 22:05 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 23:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | 1.52B |
 | 23:00 | CAD | Low | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 23:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | 1.52B |
