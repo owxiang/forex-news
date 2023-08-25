@@ -31,15 +31,14 @@
 | 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Aug) | 0.28% | 0.17% | -0.07% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Aug) | 4.24% | 4.13% | 3.19% |
-| 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | -1.7% |
-| 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -2.8% |
-| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  | 2.9% | 3.0% |
-| 22:00 | USD | Moderate | Michigan Consumer Expectations (Aug) |  | 67.3 | 68.3 |
-| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Aug) |  | 71.2 | 71.6 |
-| 22:00 | USD | Low | Michigan Current Conditions (Aug) |  | 77.4 | 76.6 |
-| 22:00 | USD | Moderate | Michigan Inflation Expectations (Aug) |  | 3.3% | 3.4% |
-| 22:00 | MXN | Low | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
-| 22:00 | MXN | Low | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
-| 22:05 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 20:30 | CAD | Moderate | Wholesale Sales (MoM) | 1.4% |  | -2.8% |
+| 42 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Aug) |  | 2.9% | 3.0% |
+| 42 min | USD | Moderate | Michigan Consumer Expectations (Aug) |  | 67.3 | 68.3 |
+| 42 min | USD | Moderate | Michigan Consumer Sentiment (Aug) |  | 71.2 | 71.6 |
+| 42 min | USD | Low | Michigan Current Conditions (Aug) |  | 77.4 | 76.6 |
+| 42 min | USD | Moderate | Michigan Inflation Expectations (Aug) |  | 3.3% | 3.4% |
+| 42 min | MXN | Low | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
+| 42 min | MXN | Low | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
+| 47 min | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 23:00 | CAD | Low | Budget Balance (YoY) (Jun) |  |  | 1.52B |
 | 23:00 | CAD | Low | Budget Balance (Jun) |  | -5.30B | 3.30B |
