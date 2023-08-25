@@ -20,8 +20,6 @@
 | 19:31 | BRL | Foreign direct investment (USD) (Jul) | 4.20B | 6.56B | 1.88B |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Aug) | 0.28% | 0.17% | -0.07% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Aug) | 4.24% | 4.13% | 3.19% |
-| 42 min | USD | Michigan Current Conditions (Aug) |  | 77.4 | 76.6 |
-| 42 min | MXN | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
-| 42 min | MXN | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
-| 23:00 | CAD | Budget Balance (YoY) (Jun) |  |  | 1.52B |
-| 23:00 | CAD | Budget Balance (Jun) |  | -5.30B | 3.30B |
+| 22:00 | USD | Michigan Current Conditions (Aug) | 75.7 | 77.4 | 76.6 |
+| 46 min | CAD | Budget Balance (YoY) (Jun) |  |  | 1.52B |
+| 46 min | CAD | Budget Balance (Jun) |  | -5.30B | 3.30B |
