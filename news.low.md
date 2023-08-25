@@ -8,10 +8,10 @@
 | 07:30 | JPY | CPI (YoY) (Aug) | 2.6% |  | 2.5% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Aug) | 2.9% | 3.0% | 3.2% |
 | 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Aug) | 0.4% |  | 0.5% |
-| 13:00 | SGD | Industrial Production (YoY) (Jul) | -0.9% | -3.8% | -6.6% |
 | 13:00 | SGD | Industrial Production (MoM) (Jul) | 4.1% | -0.5% | 3.3% |
-| 46 min | EUR | GDP (YoY) (Q2) |  |  | -0.20% |
-| 15:00 | EUR | Spanish PPI (YoY) |  | -10.1% | -8.1% |
+| 13:00 | SGD | Industrial Production (YoY) (Jul) | -0.9% | -3.8% | -6.6% |
+| 14:00 | EUR | GDP (YoY) (Q2) | -0.20% |  | -0.20% |
+| 40 min | EUR | Spanish PPI (YoY) |  | -10.1% | -8.1% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | Bank Loan Growth |  | 20.1% | 19.7% |
 | 19:30 | INR | Deposit Growth |  | 13.1% | 12.9% |
