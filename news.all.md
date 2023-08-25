@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 520 |
-| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 642 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 512 |  | 520 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 632 |  | 642 |
 | 03:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 51.0K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.9K |
