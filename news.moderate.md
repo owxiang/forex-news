@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
+| 00:25 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
