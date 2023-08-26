@@ -1,3 +1,3 @@
-## 26 August 2023 - High Impact Forex News
+## 27 August 2023 - High Impact Forex News
 
 There is no high impact news today.
