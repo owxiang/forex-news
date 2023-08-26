@@ -14,4 +14,4 @@
 | 04:30 | BRL | CFTC BRL speculative net positions | 18.2K |  | 23.5K |
 | 04:30 | JPY | CFTC JPY speculative net positions | -95.3K |  | -81.0K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 158.8K |  | 159.9K |
-| 20:00 | USD | Jackson Hole Symposium |  |  |  |
+| 48 min | USD | Jackson Hole Symposium |  |  |  |

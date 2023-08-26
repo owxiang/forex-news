@@ -25,4 +25,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -95.3K |  | -81.0K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -6.5K |  | -2.4K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 158.8K |  | 159.9K |
-| 20:00 | USD | Moderate | Jackson Hole Symposium |  |  |  |
+| 48 min | USD | Moderate | Jackson Hole Symposium |  |  |  |
