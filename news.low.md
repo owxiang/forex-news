@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | CNY | Chinese Industrial profit YTD (Jul) |  |  | -16.8% |
+| 20 min | CNY | Chinese Industrial profit YTD (Jul) |  |  | -16.8% |
