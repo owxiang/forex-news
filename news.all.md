@@ -3,4 +3,4 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:25 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
-| 20 min | CNY | Low | Chinese Industrial profit YTD (Jul) |  |  | -16.8% |
+| 09:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | -15.5% |  | -16.8% |
