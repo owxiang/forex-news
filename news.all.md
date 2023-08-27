@@ -1,6 +1,26 @@
-## 27 August 2023 - All Forex News
+## 28 August 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:25 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Jul) | -15.5% |  | -16.8% |
+| 09:30 | AUD | Moderate | Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
+| 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.10% |
+| 13:00 | JPY | Low | Leading Index |  | 108.9 | 109.2 |
+| 14:00 | NOK | Low | Core Retail Sales (MoM) (Jul) |  | 0.5% | 0.3% |
+| 16:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 0.1% | 0.6% |
+| 16:00 | EUR | Low | Loans to Non Financial Corporations (Jul) |  | 2.5% | 3.0% |
+| 16:00 | EUR | Low | Private Sector Loans (YoY) |  | 1.4% | 1.7% |
+| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Low | Trade Balance (Jul) |  | -0.415B | 0.038B |
+| 20:00 | MXN | Low | Trade Balance (USD) (Jul) |  | -0.961B | -1.424B |
+| 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | BRL | Low | FGV Consumer confidence (Aug) |  |  | 94.8 |
+| 20:30 | BRL | Low | Bank lending (MoM) (Jul) |  | -0.1% | 0.1% |
+| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.639% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.684% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.658% |
+| 22:00 | MXN | Low | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
+| 22:00 | MXN | Low | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
+| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) |  | -21.6 | -20.0 |
+| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.300% |
+| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.295% |
