@@ -4,11 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 11:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.40% |  | 6.10% |
 | 13:00 | JPY | Coincident Indicator (MoM) | 0.8% | 0.9% | 0.1% |
-| 13:00 | JPY | Leading Index (MoM) | -0.2% | -0.2% | 1.1% |
 | 13:00 | JPY | Leading Index | 108.9 | 108.9 | 109.2 |
+| 13:00 | JPY | Leading Index (MoM) | -0.2% | -0.2% | 1.1% |
 | 14:00 | NOK | Core Retail Sales (MoM) (Jul) | -0.8% | 0.5% | 0.2% |
-| 16:00 | EUR | M3 Money Supply (YoY) (Jul) | 0.4% | 0.0% | 0.6% |
-| 16:00 | EUR | M3 Money Supply (Jul) | 10,000,000.0M |  | 10,000,000.0M |
+| 16:00 | EUR | M3 Money Supply (YoY) (Jul) | -0.4% | 0.0% | 0.6% |
 | 16:00 | EUR | Loans to Non Financial Corporations (Jul) | 2.2% | 2.5% | 3.0% |
 | 16:00 | EUR | Private Sector Loans (YoY) | 1.3% | 1.4% | 1.7% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
