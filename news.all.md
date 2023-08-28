@@ -8,9 +8,10 @@
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.2% | -0.2% | 1.1% |
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Jul) | -0.8% | 0.5% | 0.2% |
-| 46 min | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 0.0% | 0.6% |
-| 46 min | EUR | Low | Loans to Non Financial Corporations (Jul) |  | 2.5% | 3.0% |
-| 46 min | EUR | Low | Private Sector Loans (YoY) |  | 1.4% | 1.7% |
+| 16:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | 0.4% | 0.0% | 0.6% |
+| 16:00 | EUR | Low | M3 Money Supply (Jul) | 10,000,000.0M |  | 10,000,000.0M |
+| 16:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 2.2% | 2.5% | 3.0% |
+| 16:00 | EUR | Low | Private Sector Loans (YoY) | 1.3% | 1.4% | 1.7% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Trade Balance (Jul) |  | -1.677B | 0.038B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Jul) |  | -0.961B | -1.424B |
