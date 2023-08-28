@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Jul) | 0.5% | 0.3% | -0.8% |
-| 39 min | IDR | Low | M2 Money Supply (YoY) |  |  | 6.10% |
+| 44 min | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.40% |  | 6.10% |
 | 13:00 | JPY | Low | Leading Index |  | 108.9 | 109.2 |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Jul) |  | 0.5% | 0.3% |
 | 16:00 | EUR | Low | M3 Money Supply (YoY) (Jul) |  | 0.1% | 0.6% |

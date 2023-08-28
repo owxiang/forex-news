@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | IDR | M2 Money Supply (YoY) |  |  | 6.10% |
+| 44 min | IDR | M2 Money Supply (YoY) (Jul) | 6.40% |  | 6.10% |
 | 13:00 | JPY | Leading Index |  | 108.9 | 109.2 |
 | 14:00 | NOK | Core Retail Sales (MoM) (Jul) |  | 0.5% | 0.3% |
 | 16:00 | EUR | M3 Money Supply (YoY) (Jul) |  | 0.1% | 0.6% |
