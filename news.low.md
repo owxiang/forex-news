@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 3-Month Bill Auction | 5.340% |  | 5.300% |
-| 47 min | GBP | BRC Shop Price Index (YoY) |  |  | 7.6% |
-| 07:30 | JPY | Jobs/applications ratio (Jul) |  | 1.30 | 1.30 |
-| 07:30 | JPY | Unemployment Rate (Jul) |  | 2.5% | 2.5% |
+| 07:01 | GBP | BRC Shop Price Index (YoY) | 6.9% |  | 7.6% |
+| 16 min | JPY | Jobs/applications ratio (Jul) |  | 1.30 | 1.30 |
+| 16 min | JPY | Unemployment Rate (Jul) |  | 2.5% | 2.5% |
 | 11:35 | JPY | 2-Year JGB Auction |  |  | -0.062% |
 | 14:45 | EUR | French Consumer Confidence (Aug) |  | 84 | 85 |
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
