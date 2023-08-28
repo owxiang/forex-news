@@ -17,8 +17,6 @@
 | 20:55 | EUR | French 12-Month BTF Auction | 3.631% |  | 3.639% |
 | 20:55 | EUR | French 3-Month BTF Auction | 3.664% |  | 3.684% |
 | 20:55 | EUR | French 6-Month BTF Auction | 3.671% |  | 3.658% |
-| 40 min | MXN | Current Account (USD) (Q2) |  | -3,399M | -14,282M |
-| 40 min | MXN | Current Account % of GDP (Q2) |  | 0.68% | -3.60% |
-| 22:30 | USD | Dallas Fed Mfg Business Index (Aug) |  | -21.6 | -20.0 |
+| 17 min | USD | Dallas Fed Mfg Business Index (Aug) |  | -21.6 | -20.0 |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.300% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.295% |
