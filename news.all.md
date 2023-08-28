@@ -5,8 +5,8 @@
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Jul) | 0.5% | 0.3% | -0.8% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.40% |  | 6.10% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.8% | 0.9% | 0.1% |
-| 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.2% | -0.2% | 1.1% |
+| 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Jul) | -0.8% | 0.5% | 0.2% |
 | 16:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | -0.4% | 0.0% | 0.6% |
 | 16:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 2.2% | 2.5% | 3.0% |
