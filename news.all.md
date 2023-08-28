@@ -1,24 +1,37 @@
-## 28 August 2023 - All Forex News
+## 29 August 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 09:30 | AUD | Moderate | Retail Sales (MoM) (Jul) | 0.5% | 0.3% | -0.8% |
-| 11:00 | IDR | Low | M2 Money Supply (YoY) (Jul) | 6.40% |  | 6.10% |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.8% | 0.9% | 0.1% |
-| 13:00 | JPY | Low | Leading Index (MoM) | -0.2% | -0.2% | 1.1% |
-| 13:00 | JPY | Low | Leading Index | 108.9 | 108.9 | 109.2 |
-| 14:00 | NOK | Low | Core Retail Sales (MoM) (Jul) | -0.8% | 0.5% | 0.2% |
-| 16:00 | EUR | Low | M3 Money Supply (YoY) (Jul) | -0.4% | 0.0% | 0.6% |
-| 16:00 | EUR | Low | Loans to Non Financial Corporations (Jul) | 2.2% | 2.5% | 3.0% |
-| 16:00 | EUR | Low | Private Sector Loans (YoY) | 1.3% | 1.4% | 1.7% |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Low | Bank lending (MoM) (Jul) | -0.2% | -0.1% | 0.1% |
-| 20:00 | MXN | Low | Trade Balance (Jul) | -0.881B | -1.677B | 0.038B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Jul) | 0.532B | -0.961B | -0.949B |
-| 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.631% |  | 3.639% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.664% |  | 3.684% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.671% |  | 3.658% |
-| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Aug) | -17.2 | -21.6 | -20.0 |
-| 13 min | USD | Low | 3-Month Bill Auction |  |  | 5.300% |
-| 13 min | USD | Low | 6-Month Bill Auction |  |  | 5.295% |
+| 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 40 min | USD | Low | 3-Month Bill Auction |  |  | 5.300% |
+| 40 min | USD | Moderate | 5-Year Note Auction |  |  | 4.170% |
+| 07:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 7.6% |
+| 07:30 | JPY | Low | Jobs/applications ratio (Jul) |  | 1.30 | 1.30 |
+| 07:30 | JPY | Low | Unemployment Rate (Jul) |  | 2.5% | 2.5% |
+| 11:35 | JPY | Low | 2-Year JGB Auction |  |  | -0.062% |
+| 14:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
+| 14:45 | EUR | Low | French Consumer Confidence (Aug) |  | 84 | 85 |
+| 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
+| 15:40 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
+| 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.500% |
+| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
+| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 4.10% | 4.30% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.50% | 0.00% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 0.9% |
+| 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
+| 20:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 20:55 | USD | Low | Redbook (YoY) |  |  | 2.9% |
+| 21:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.8% |
+| 21:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.7% |
+| 21:00 | USD | Low | House Price Index (Jun) |  |  | 404.1 |
+| 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  | 1.2% | 1.0% |
+| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | -1.4% | -1.7% |
+| 21:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  | 0.6% | 1.5% |
+| Tentative | BRL | Low | CAGED Net Payroll Jobs |  |  | 157.20K |
+| 22:00 | USD | High | CB Consumer Confidence (Aug) |  | 116.0 | 117.0 |
+| 22:00 | USD | High | JOLTs Job Openings (Jul) |  | 9.793M | 9.582M |
+| 22:30 | USD | Low | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
+| 22:30 | USD | Low | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |

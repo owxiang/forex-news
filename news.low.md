@@ -1,22 +1,27 @@
-## 28 August 2023 - Low Impact Forex News
+## 29 August 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | IDR | M2 Money Supply (YoY) (Jul) | 6.40% |  | 6.10% |
-| 13:00 | JPY | Coincident Indicator (MoM) | 0.8% | 0.9% | 0.1% |
-| 13:00 | JPY | Leading Index (MoM) | -0.2% | -0.2% | 1.1% |
-| 13:00 | JPY | Leading Index | 108.9 | 108.9 | 109.2 |
-| 14:00 | NOK | Core Retail Sales (MoM) (Jul) | -0.8% | 0.5% | 0.2% |
-| 16:00 | EUR | M3 Money Supply (YoY) (Jul) | -0.4% | 0.0% | 0.6% |
-| 16:00 | EUR | Loans to Non Financial Corporations (Jul) | 2.2% | 2.5% | 3.0% |
-| 16:00 | EUR | Private Sector Loans (YoY) | 1.3% | 1.4% | 1.7% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Bank lending (MoM) (Jul) | -0.2% | -0.1% | 0.1% |
-| 20:00 | MXN | Trade Balance (Jul) | -0.881B | -1.677B | 0.038B |
-| 20:00 | MXN | Trade Balance (USD) (Jul) | 0.532B | -0.961B | -0.949B |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.631% |  | 3.639% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.664% |  | 3.684% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.671% |  | 3.658% |
-| 22:30 | USD | Dallas Fed Mfg Business Index (Aug) | -17.2 | -21.6 | -20.0 |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.300% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.295% |
+| 40 min | USD | 3-Month Bill Auction |  |  | 5.300% |
+| 07:01 | GBP | BRC Shop Price Index (YoY) |  |  | 7.6% |
+| 07:30 | JPY | Jobs/applications ratio (Jul) |  | 1.30 | 1.30 |
+| 07:30 | JPY | Unemployment Rate (Jul) |  | 2.5% | 2.5% |
+| 11:35 | JPY | 2-Year JGB Auction |  |  | -0.062% |
+| 14:45 | EUR | French Consumer Confidence (Aug) |  | 84 | 85 |
+| 15:00 | EUR | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
+| 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.500% |
+| 20:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
+| 20:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
+| 20:00 | MXN | Economic Activity (YoY) (Jun) |  | 4.10% | 4.30% |
+| 20:00 | MXN | Economic Activity (MoM) (Jun) |  | 0.50% | 0.00% |
+| 20:00 | MXN | Private Spending (QoQ) (Q2) |  |  | 2.20% |
+| 20:00 | MXN | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 20:55 | USD | Redbook (YoY) |  |  | 2.9% |
+| 21:00 | USD | House Price Index (YoY) (Jun) |  |  | 2.8% |
+| 21:00 | USD | House Price Index (MoM) (Jun) |  | 0.2% | 0.7% |
+| 21:00 | USD | House Price Index (Jun) |  |  | 404.1 |
+| 21:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  | 1.2% | 1.0% |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  | 0.6% | 1.5% |
+| Tentative | BRL | CAGED Net Payroll Jobs |  |  | 157.20K |
+| 22:30 | USD | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
+| 22:30 | USD | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |

@@ -1,6 +1,12 @@
-## 28 August 2023 - Moderate Impact Forex News
+## 29 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | AUD | Retail Sales (MoM) (Jul) | 0.5% | 0.3% | -0.8% |
-| 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 00:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 40 min | USD | 5-Year Note Auction |  |  | 4.170% |
+| 14:00 | EUR | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
+| 15:40 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
+| 18:00 | EUR | EU Economic Forecasts |  |  |  |
+| 20:00 | MXN | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
+| 20:00 | MXN | GDP (QoQ) (Q2) |  | 0.9% | 0.9% |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | -1.4% | -1.7% |
