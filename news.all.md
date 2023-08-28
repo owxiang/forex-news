@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 40 min | USD | Low | 3-Month Bill Auction |  |  | 5.300% |
-| 40 min | USD | Moderate | 5-Year Note Auction |  |  | 4.170% |
+| 01:00 | USD | Low | 3-Month Bill Auction | 5.340% |  | 5.300% |
+| 01:00 | USD | Moderate | 5-Year Note Auction | 4.400% |  | 4.170% |
 | 07:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 7.6% |
 | 07:30 | JPY | Low | Jobs/applications ratio (Jul) |  | 1.30 | 1.30 |
 | 07:30 | JPY | Low | Unemployment Rate (Jul) |  | 2.5% | 2.5% |
@@ -19,8 +19,8 @@
 | 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 4.10% | 4.30% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.50% | 0.00% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 0.9% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
 | 20:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 2.9% |

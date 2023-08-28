@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | 3-Month Bill Auction |  |  | 5.300% |
+| 01:00 | USD | 3-Month Bill Auction | 5.340% |  | 5.300% |
 | 07:01 | GBP | BRC Shop Price Index (YoY) |  |  | 7.6% |
 | 07:30 | JPY | Jobs/applications ratio (Jul) |  | 1.30 | 1.30 |
 | 07:30 | JPY | Unemployment Rate (Jul) |  | 2.5% | 2.5% |
