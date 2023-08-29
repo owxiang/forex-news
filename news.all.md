@@ -13,9 +13,10 @@
 | 14:45 | EUR | Low | French Consumer Confidence (Aug) | 85 | 85 | 85 |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) | 7.3% | 0.6% | 6.5% |
 | 15:40 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
+| 17:30 | EUR | Low | Italian 6-Month BOT Auction | 3.829% |  | 3.815% |
 | 17:40 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.500% |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.50% | 0.50% | 0.00% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.50% | 0.50% | 0.20% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jun) | 4.10% | 4.10% | 4.30% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.8% | 0.9% | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
@@ -24,9 +25,9 @@
 | 21:00 | USD | Low | House Price Index (MoM) (Jun) | 0.3% | 0.2% | 0.7% |
 | 21:00 | USD | Low | House Price Index (Jun) | 405.8 |  | 404.4 |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.9% | 1.2% | 1.0% |
-| 21:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.9% | 0.6% | 1.5% |
+| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.9% | 0.6% | 1.5% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | -1.2% | -1.3% | -1.7% |
-| 41 min | USD | High | CB Consumer Confidence (Aug) |  | 116.0 | 117.0 |
-| 41 min | USD | High | JOLTs Job Openings (Jul) |  | 9.465M | 9.582M |
-| 22:30 | USD | Low | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
-| 22:30 | USD | Low | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |
+| 22:00 | USD | High | CB Consumer Confidence (Aug) | 106.1 | 116.0 | 114.0 |
+| 22:00 | USD | High | JOLTs Job Openings (Jul) | 8.827M | 9.465M | 9.165M |
+| 16 min | USD | Low | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
+| 16 min | USD | Low | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |

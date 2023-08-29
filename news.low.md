@@ -9,14 +9,14 @@
 | 11:35 | JPY | 2-Year JGB Auction | 0.011% |  | -0.062% |
 | 14:45 | EUR | French Consumer Confidence (Aug) | 85 | 85 | 85 |
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Jul) | 7.3% | 0.6% | 6.5% |
+| 17:30 | EUR | Italian 6-Month BOT Auction | 3.829% |  | 3.815% |
 | 17:40 | EUR | German 5-Year Bobl Auction | 2.560% |  | 2.500% |
-| 20:00 | MXN | Economic Activity (MoM) (Jun) | 0.50% | 0.50% | 0.00% |
+| 20:00 | MXN | Economic Activity (MoM) (Jun) | 0.50% | 0.50% | 0.20% |
 | 20:00 | MXN | Economic Activity (YoY) (Jun) | 4.10% | 4.10% | 4.30% |
 | 20:55 | USD | Redbook (YoY) | 4.2% |  | 2.9% |
 | 21:00 | USD | House Price Index (YoY) (Jun) | 3.1% |  | 2.9% |
 | 21:00 | USD | House Price Index (MoM) (Jun) | 0.3% | 0.2% | 0.7% |
 | 21:00 | USD | House Price Index (Jun) | 405.8 |  | 404.4 |
 | 21:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.9% | 1.2% | 1.0% |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.9% | 0.6% | 1.5% |
-| 22:30 | USD | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
-| 22:30 | USD | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |
+| 16 min | USD | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
+| 16 min | USD | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |

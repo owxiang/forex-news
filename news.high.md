@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | USD | CB Consumer Confidence (Aug) |  | 116.0 | 117.0 |
-| 41 min | USD | JOLTs Job Openings (Jul) |  | 9.465M | 9.582M |
+| 22:00 | USD | CB Consumer Confidence (Aug) | 106.1 | 116.0 | 114.0 |
+| 22:00 | USD | JOLTs Job Openings (Jul) | 8.827M | 9.465M | 9.165M |
