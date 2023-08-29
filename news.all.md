@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 7-Year Note Auction | 4.212% |  | 4.087% |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.900M | -2.418M |
+| 13 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.900M | -2.418M |
 | 06:45 | NZD | Low | Building Consents (MoM) (Jul) |  | 0.2% | 3.5% |
 | 09:30 | AUD | Low | Building Approvals (YoY) (Jul) |  |  | -7.70% |
 | 09:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
@@ -29,8 +29,8 @@
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Aug) |  | 91.3 | 92.2 |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.5% | 2.3% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.6% | 2.1% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.6% | -0.1% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.6% | 2.1% |
 | 16:00 | EUR | Low | Italian Business Confidence (Aug) |  | 98.0 | 99.3 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Aug) |  | 105.0 | 106.7 |
 | 16:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  | 7.50% | -0.50% |
