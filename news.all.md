@@ -19,18 +19,14 @@
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jun) | 4.10% | 4.10% | 4.30% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.8% | 0.9% | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
-| 25 min | USD | Low | Redbook (YoY) |  |  | 2.9% |
-| 30 min | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.7% |
-| 30 min | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.8% |
-| 30 min | USD | Low | House Price Index (Jun) |  |  | 404.1 |
-| 30 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  | 1.2% | 1.0% |
-| 30 min | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  | 0.6% | 1.5% |
-| 30 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | -1.3% | -1.7% |
-| 30 min | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
-| 30 min | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
-| 30 min | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
-| 30 min | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
-| 22:00 | USD | High | CB Consumer Confidence (Aug) |  | 116.0 | 117.0 |
-| 22:00 | USD | High | JOLTs Job Openings (Jul) |  | 9.465M | 9.582M |
+| 20:55 | USD | Low | Redbook (YoY) | 4.2% |  | 2.9% |
+| 21:00 | USD | Low | House Price Index (YoY) (Jun) | 3.1% |  | 2.9% |
+| 21:00 | USD | Low | House Price Index (MoM) (Jun) | 0.3% | 0.2% | 0.7% |
+| 21:00 | USD | Low | House Price Index (Jun) | 405.8 |  | 404.4 |
+| 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.9% | 1.2% | 1.0% |
+| 21:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.9% | 0.6% | 1.5% |
+| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | -1.2% | -1.3% | -1.7% |
+| 41 min | USD | High | CB Consumer Confidence (Aug) |  | 116.0 | 117.0 |
+| 41 min | USD | High | JOLTs Job Openings (Jul) |  | 9.465M | 9.582M |
 | 22:30 | USD | Low | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
 | 22:30 | USD | Low | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |

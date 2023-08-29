@@ -9,4 +9,4 @@
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q2) | 0.8% | 0.9% | 1.0% |
 | 20:00 | MXN | GDP (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
-| 30 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | -1.3% | -1.7% |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | -1.2% | -1.3% | -1.7% |
