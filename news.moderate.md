@@ -1,13 +1,16 @@
-## 29 August 2023 - Moderate Impact Forex News
+## 30 August 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 01:00 | USD | 5-Year Note Auction | 4.400% |  | 4.170% |
-| 14:00 | EUR | GfK German Consumer Climate (Sep) | -25.5 | -24.3 | -24.6 |
-| 15:40 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
-| 18:00 | EUR | EU Economic Forecasts |  |  |  |
-| 20:00 | MXN | GDP (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
-| 20:00 | MXN | GDP (QoQ) (Q2) | 0.8% | 0.9% | 1.0% |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) | 0.9% | 0.6% | 1.5% |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | -1.2% | -1.3% | -1.7% |
+| 04:30 | USD | API Weekly Crude Oil Stock |  | -2.900M | -2.418M |
+| 09:30 | AUD | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
+| 09:30 | AUD | Construction Work Done (QoQ) (Q2) |  | 1.0% | 1.8% |
+| 15:00 | CHF | KOF Leading Indicators (Aug) |  | 91.3 | 92.2 |
+| 15:00 | EUR | Spanish CPI (YoY) (Aug) |  | 2.5% | 2.3% |
+| 15:00 | EUR | Spanish HICP (YoY) (Aug) |  | 2.6% | 2.1% |
+| 17:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.10% |
+| 20:00 | EUR | German CPI (YoY) (Aug) |  | 6.0% | 6.2% |
+| 20:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.2% | 4.1% |
+| 20:30 | USD | Goods Trade Balance (Jul) |  | -89.94B | -88.83B |
+| 20:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.3% |
+| 22:30 | USD | Cushing Crude Oil Inventories |  | -2.440M | -3.133M |
