@@ -8,7 +8,7 @@
 | 07:01 | GBP | Low | BRC Shop Price Index (YoY) | 6.9% |  | 7.6% |
 | 07:30 | JPY | Low | Jobs/applications ratio (Jul) | 1.29 | 1.30 | 1.30 |
 | 07:30 | JPY | Low | Unemployment Rate (Jul) | 2.7% | 2.5% | 2.5% |
-| 11:35 | JPY | Low | 2-Year JGB Auction |  |  | -0.062% |
+| 45 min | JPY | Low | 2-Year JGB Auction |  |  | -0.062% |
 | 14:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
 | 14:45 | EUR | Low | French Consumer Confidence (Aug) |  | 84 | 85 |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
@@ -28,8 +28,8 @@
 | 21:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.7% |
 | 21:00 | USD | Low | House Price Index (Jun) |  |  | 404.1 |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) |  | 1.2% | 1.0% |
-| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | -1.4% | -1.7% |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun) |  | 0.6% | 1.5% |
+| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) |  | -1.4% | -1.7% |
 | Tentative | BRL | Low | CAGED Net Payroll Jobs |  |  | 157.20K |
 | 22:00 | USD | High | CB Consumer Confidence (Aug) |  | 116.0 | 117.0 |
 | 22:00 | USD | High | JOLTs Job Openings (Jul) |  | 9.793M | 9.582M |
