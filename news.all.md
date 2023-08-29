@@ -9,9 +9,9 @@
 | 07:30 | JPY | Low | Jobs/applications ratio (Jul) | 1.29 | 1.30 | 1.30 |
 | 07:30 | JPY | Low | Unemployment Rate (Jul) | 2.7% | 2.5% | 2.5% |
 | 11:35 | JPY | Low | 2-Year JGB Auction | 0.011% |  | -0.062% |
-| 46 min | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
-| 14:45 | EUR | Low | French Consumer Confidence (Aug) |  | 85 | 85 |
-| 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
+| 14:00 | EUR | Moderate | GfK German Consumer Climate (Sep) | -25.5 | -24.3 | -24.6 |
+| 25 min | EUR | Low | French Consumer Confidence (Aug) |  | 85 | 85 |
+| 40 min | EUR | Low | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
 | 15:40 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.500% |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |

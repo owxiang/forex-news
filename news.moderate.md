@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 01:00 | USD | 5-Year Note Auction | 4.400% |  | 4.170% |
-| 46 min | EUR | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
+| 14:00 | EUR | GfK German Consumer Climate (Sep) | -25.5 | -24.3 | -24.6 |
 | 15:40 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |

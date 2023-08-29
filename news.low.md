@@ -7,8 +7,8 @@
 | 07:30 | JPY | Jobs/applications ratio (Jul) | 1.29 | 1.30 | 1.30 |
 | 07:30 | JPY | Unemployment Rate (Jul) | 2.7% | 2.5% | 2.5% |
 | 11:35 | JPY | 2-Year JGB Auction | 0.011% |  | -0.062% |
-| 14:45 | EUR | French Consumer Confidence (Aug) |  | 85 | 85 |
-| 15:00 | EUR | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
+| 25 min | EUR | French Consumer Confidence (Aug) |  | 85 | 85 |
+| 40 min | EUR | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.500% |
 | 20:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
 | 20:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
