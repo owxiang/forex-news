@@ -9,7 +9,7 @@
 | 07:30 | JPY | Low | Jobs/applications ratio (Jul) | 1.29 | 1.30 | 1.30 |
 | 07:30 | JPY | Low | Unemployment Rate (Jul) | 2.7% | 2.5% | 2.5% |
 | 11:35 | JPY | Low | 2-Year JGB Auction | 0.011% |  | -0.062% |
-| 14:00 | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
+| 46 min | EUR | Moderate | GfK German Consumer Climate (Sep) |  | -24.3 | -24.4 |
 | 14:45 | EUR | Low | French Consumer Confidence (Aug) |  | 85 | 85 |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Jul) |  | 0.6% | 6.4% |
 | 15:40 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
@@ -19,7 +19,7 @@
 | 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 4.10% | 4.30% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.50% | 0.00% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 0.9% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
 | 20:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
