@@ -2,6 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 01:07 | USD | Moderate | 7-Year Note Auction | 4.212% |  | 4.087% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.900M | -2.418M |
 | 06:45 | NZD | Low | Building Consents (MoM) (Jul) |  | 0.2% | 3.5% |
 | 09:30 | AUD | Low | Building Approvals (YoY) (Jul) |  |  | -7.70% |
@@ -17,8 +18,8 @@
 | 14:00 | GBP | Low | Car Registration (MoM) (Jul) |  |  | 22.1% |
 | 14:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 9.1% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -7.0% |
-| 14:00 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 13.4% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 24.8% |
+| 14:00 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 13.4% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Jul) |  | -12.9% | -11.4% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.5% |
@@ -32,8 +33,8 @@
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.6% | -0.1% |
 | 16:00 | EUR | Low | Italian Business Confidence (Aug) |  | 98.0 | 99.3 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Aug) |  | 105.0 | 106.7 |
-| 16:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  | -0.10% | 1.50% |
 | 16:00 | EUR | Low | Italian Industrial Sales (YoY) (Jun) |  | 7.50% | -0.50% |
+| 16:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) |  | -0.10% | 1.50% |
 | 16:00 | CHF | Low | ZEW Expectations (Aug) |  | -31.3 | -32.6 |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 6.8% |
