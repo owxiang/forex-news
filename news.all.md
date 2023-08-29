@@ -15,14 +15,14 @@
 | 15:40 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 17:40 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.500% |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
-| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.50% | 0.00% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Jun) |  | 4.10% | 4.30% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
-| 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
-| 20:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 48 min | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
+| 48 min | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
+| 48 min | MXN | Low | Economic Activity (YoY) (Jun) |  | 4.10% | 4.30% |
+| 48 min | MXN | Low | Economic Activity (MoM) (Jun) |  | 0.50% | 0.00% |
+| 48 min | MXN | Moderate | GDP (QoQ) (Q2) |  | 0.9% | 1.0% |
+| 48 min | MXN | Moderate | GDP (YoY) (Q2) |  | 3.7% | 3.7% |
+| 48 min | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 48 min | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 2.9% |
 | 21:00 | USD | Low | House Price Index (YoY) (Jun) |  |  | 2.8% |
 | 21:00 | USD | Low | House Price Index (MoM) (Jun) |  | 0.2% | 0.7% |
