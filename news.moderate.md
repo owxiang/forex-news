@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 7-Year Note Auction | 4.212% |  | 4.087% |
-| 13 min | USD | API Weekly Crude Oil Stock |  | -2.900M | -2.418M |
+| 04:30 | USD | API Weekly Crude Oil Stock | -11.486M | -2.900M | -2.418M |
 | 09:30 | AUD | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
 | 09:30 | AUD | Construction Work Done (QoQ) (Q2) |  | 1.0% | 1.8% |
 | 15:00 | CHF | KOF Leading Indicators (Aug) |  | 91.3 | 92.2 |
