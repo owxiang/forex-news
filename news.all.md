@@ -18,8 +18,8 @@
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Jun) | 0.50% | 0.50% | 0.20% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jun) | 4.10% | 4.10% | 4.30% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.8% | 0.9% | 1.0% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q2) | 3.6% | 3.7% | 3.7% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q2) | 0.8% | 0.9% | 1.0% |
 | 20:55 | USD | Low | Redbook (YoY) | 4.2% |  | 2.9% |
 | 21:00 | USD | Low | House Price Index (YoY) (Jun) | 3.1% |  | 2.9% |
 | 21:00 | USD | Low | House Price Index (MoM) (Jun) | 0.3% | 0.2% | 0.7% |
@@ -29,5 +29,5 @@
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun) | -1.2% | -1.3% | -1.7% |
 | 22:00 | USD | High | CB Consumer Confidence (Aug) | 106.1 | 116.0 | 114.0 |
 | 22:00 | USD | High | JOLTs Job Openings (Jul) | 8.827M | 9.465M | 9.165M |
-| 16 min | USD | Low | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
-| 16 min | USD | Low | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |
+| 22:30 | USD | Low | Dallas Fed Services Revenues (Aug) | 16.2 | 6.8 | 12.9 |
+| 22:30 | USD | Low | Texas Services Sector Outlook (Aug) | -2.7 | -6.1 | -4.2 |

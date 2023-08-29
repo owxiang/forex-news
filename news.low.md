@@ -18,5 +18,5 @@
 | 21:00 | USD | House Price Index (MoM) (Jun) | 0.3% | 0.2% | 0.7% |
 | 21:00 | USD | House Price Index (Jun) | 405.8 |  | 404.4 |
 | 21:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jun) | 0.9% | 1.2% | 1.0% |
-| 16 min | USD | Dallas Fed Services Revenues (Aug) |  | 6.8 | 12.9 |
-| 16 min | USD | Texas Services Sector Outlook (Aug) |  | -6.1 | -4.2 |
+| 22:30 | USD | Dallas Fed Services Revenues (Aug) | 16.2 | 6.8 | 12.9 |
+| 22:30 | USD | Texas Services Sector Outlook (Aug) | -2.7 | -6.1 | -4.2 |
