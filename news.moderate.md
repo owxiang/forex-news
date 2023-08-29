@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:07 | USD | 7-Year Note Auction | 4.212% |  | 4.087% |
+| 01:00 | USD | 7-Year Note Auction | 4.212% |  | 4.087% |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | -2.900M | -2.418M |
 | 09:30 | AUD | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
 | 09:30 | AUD | Construction Work Done (QoQ) (Q2) |  | 1.0% | 1.8% |
