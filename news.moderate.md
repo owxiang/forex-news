@@ -12,8 +12,8 @@
 | 14:00 | EUR | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
 | 14:45 | EUR | French Consumer Spending (MoM) (Jul) |  | 0.3% | 0.9% |
 | 14:45 | EUR | French CPI (MoM) (Aug) |  | 0.7% | 0.1% |
-| 14:45 | EUR | French GDP (QoQ) (Q2) |  | 0.5% | 0.1% |
 | 14:45 | EUR | French GDP (YoY) |  | 0.9% | 0.8% |
+| 14:45 | EUR | French GDP (QoQ) (Q2) |  | 0.5% | 0.1% |
 | 14:45 | EUR | French HICP (MoM) |  | 0.7% | 0.0% |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
@@ -26,8 +26,8 @@
 | 19:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 20:00 | INR | GDP Quarterly (YoY) (Q1) |  | 7.7% | 6.1% |
 | 20:00 | BRL | Unemployment Rate |  | 8.0% | 8.0% |
-| 20:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | PCE Price index (YoY) (Jul) |  | 3.3% | 3.0% |
+| 20:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Personal Spending (MoM) (Jul) |  | 0.6% | 0.5% |
 | 20:30 | CAD | Current Account (Q2) |  | -10.6B | -6.2B |
 | 21:45 | USD | Chicago PMI (Aug) |  | 44.0 | 42.8 |

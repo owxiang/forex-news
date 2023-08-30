@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
-| Tentative | MXN | Fiscal Balance (Jul) |  |  | -258.05B |
+| 04:15 | MXN | Fiscal Balance (Jul) | -473.00B |  | -395.20B |
 | 07:00 | KRW | Industrial Production (YoY) (Jul) |  | -5.2% | -5.6% |
 | 07:00 | KRW | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
 | 07:00 | KRW | Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
@@ -29,8 +29,8 @@
 | 14:30 | CHF | Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 14:45 | EUR | French CPI (YoY) (Aug) |  | 4.4% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) |  | 5.2% | 5.1% |
-| 14:45 | EUR | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
 | 14:45 | EUR | PPI (YoY) (Jul) |  |  | 3.00% |
+| 14:45 | EUR | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
 | 15:00 | CHF | Official Reserves Assets (Jul) |  |  | 794.7B |
 | 15:55 | EUR | German Unemployment (Aug) |  | 2.621M | 2.604M |
 | 15:55 | EUR | German Unemployment n.s.a. (Aug) |  | 2.649M | 2.617M |
@@ -38,10 +38,10 @@
 | 16:00 | EUR | Spanish Current account (Jun) |  | 4.13B | 3.99B |
 | 16:00 | NOK | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
 | 16:30 | HKD | Retail Sales (YoY) (Jul) |  |  | 19.6% |
-| 17:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
 | 17:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
-| 17:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.7% | 6.3% |
+| 17:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
 | 17:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.8% | -1.6% |
+| 17:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.7% | 6.3% |
 | 17:00 | EUR | Core CPI (MoM) |  | 0.3% | -0.1% |
 | 17:00 | EUR | CPI, n.s.a (Aug) |  |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
