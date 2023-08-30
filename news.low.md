@@ -8,22 +8,22 @@
 | 09:30 | AUD | Monthly CPI Indicator (YoY) (Jul) | 4.90% | 5.20% | 5.40% |
 | 09:30 | JPY | BoJ Tamura Speaks |  |  |  |
 | 13:00 | JPY | Household Confidence (Aug) | 36.2 | 37.5 | 37.1 |
-| 16 min | EUR | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.2% |
-| 16 min | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 5.8% |
-| 46 min | GBP | Car Registration (MoM) (Jul) |  |  | 22.1% |
-| 46 min | GBP | Car Registration (YoY) (Jul) |  |  | 25.8% |
-| 46 min | EUR | Italian Car Registration (YoY) (Jul) |  |  | 9.1% |
-| 46 min | EUR | Italian Car Registration (MoM) (Jul) |  |  | -7.0% |
-| 46 min | EUR | German Car Registration (YoY) (Jul) |  |  | 24.8% |
-| 46 min | EUR | German Car Registration (MoM) (Jul) |  |  | 13.4% |
-| 46 min | EUR | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
-| 46 min | EUR | German Import Price Index (YoY) (Jul) |  | -12.9% | -11.4% |
-| 46 min | EUR | French Car Registration (MoM) (Jul) |  |  | 31.1% |
-| 46 min | EUR | French Car Registration (YoY) (Jul) |  |  | 11.5% |
-| 46 min | ZAR | M3 Money Supply (YoY) (Jul) |  | 10.80% | 11.15% |
-| 46 min | ZAR | Private Sector Credit (Jul) |  | 6.21% | 6.25% |
-| 15:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.4% | 0.2% |
-| 15:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.6% | -0.1% |
+| 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Aug) | 0.5% |  | 0.2% |
+| 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Aug) | 5.9% |  | 5.8% |
+| 14:00 | GBP | Car Registration (MoM) (Jul) | -18.8% |  | 22.1% |
+| 14:00 | GBP | Car Registration (YoY) (Jul) | 28.3% |  | 25.8% |
+| 14:00 | EUR | Italian Car Registration (YoY) (Jul) | 8.7% |  | 9.1% |
+| 14:00 | EUR | Italian Car Registration (MoM) (Jul) | -14.2% |  | -7.0% |
+| 14:00 | EUR | German Car Registration (YoY) (Jul) | 18.1% |  | 24.8% |
+| 14:00 | EUR | German Car Registration (MoM) (Jul) | -13.2% |  | 13.4% |
+| 14:00 | EUR | German Import Price Index (MoM) (Jul) | -0.6% | 0.0% | -1.6% |
+| 14:00 | EUR | German Import Price Index (YoY) (Jul) | -13.2% | -12.9% | -11.4% |
+| 14:00 | EUR | French Car Registration (YoY) (Jul) | 19.9% |  | 11.5% |
+| 14:00 | EUR | French Car Registration (MoM) (Jul) | -32.4% |  | 31.1% |
+| 14:00 | ZAR | M3 Money Supply (YoY) (Jul) | 9.30% | 10.80% | 11.15% |
+| 14:00 | ZAR | Private Sector Credit (Jul) | 5.87% | 6.21% | 6.25% |
+| 40 min | EUR | Spanish CPI (MoM) (Aug) |  | 0.4% | 0.2% |
+| 40 min | EUR | Spanish HICP (MoM) (Aug) |  | 0.6% | -0.1% |
 | 16:00 | EUR | Italian Business Confidence (Aug) |  | 98.0 | 99.3 |
 | 16:00 | EUR | Italian Consumer Confidence (Aug) |  | 105.6 | 106.7 |
 | 16:00 | CHF | ZEW Expectations (Aug) |  | -31.3 | -32.6 |
@@ -31,8 +31,8 @@
 | 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Aug) |  |  | 6.8% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Aug) |  |  | 0.4% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Aug) |  |  | 6.1% |
-| 16:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 6.7% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Aug) |  |  | 0.3% |
+| 16:00 | EUR | Brandenburg CPI (YoY) (Aug) |  |  | 6.7% |
 | 16:00 | EUR | Hesse CPI (YoY) (Aug) |  |  | 6.1% |
 | 16:00 | EUR | Hesse CPI (MoM) (Aug) |  |  | 0.3% |
 | 16:30 | GBP | BoE Consumer Credit (Jul) |  | 1.300B | 1.661B |
@@ -60,8 +60,8 @@
 | 19:00 | USD | Mortgage Refinance Index |  |  | 397.1 |
 | 19:00 | EUR | Spanish Business Confidence |  | -14.0 | -9.5 |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Aug) |  | 0.15% | -0.72% |
-| 20:00 | EUR | German HICP (MoM) (Aug) |  | 0.3% | 0.5% |
 | 20:00 | EUR | German HICP (YoY) (Aug) |  | 6.3% | 6.5% |
+| 20:00 | EUR | German HICP (MoM) (Aug) |  | 0.3% | 0.5% |
 | 20:00 | BRL | Brazilian PPI (MoM) (Jul) |  | -2.99% | -2.72% |
 | 20:00 | ZAR | Budget Balance (MoM) (Jul) |  |  | 36.60B |
 | 20:30 | USD | Core PCE Prices (Q2) |  | 3.80% | 4.90% |
