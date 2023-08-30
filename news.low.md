@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
-| 05:00 | MXN | Fiscal Balance (Jul) |  |  | -258.05B |
+| Tentative | MXN | Fiscal Balance (Jul) |  |  | -258.05B |
 | 07:00 | KRW | Industrial Production (YoY) (Jul) |  | -5.2% | -5.6% |
 | 07:00 | KRW | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
 | 07:00 | KRW | Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
