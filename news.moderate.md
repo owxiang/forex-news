@@ -14,4 +14,4 @@
 | 20:30 | USD | GDP Price Index (QoQ) (Q2) | 2.0% | 2.2% | 4.1% |
 | 20:30 | USD | Goods Trade Balance (Jul) | -91.18B | -89.94B | -88.83B |
 | 20:30 | USD | Retail Inventories Ex Auto (Jul) | 0.1% |  | 0.2% |
-| 46 min | USD | Cushing Crude Oil Inventories |  | -2.440M | -3.133M |
+| 23:00 | USD | Cushing Crude Oil Inventories | -1.504M | -2.440M | -3.133M |

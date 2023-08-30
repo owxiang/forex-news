@@ -13,12 +13,12 @@
 | 09:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 13:00 | JPY | Low | Household Confidence (Aug) | 36.2 | 37.5 | 37.1 |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) | 5.9% |  | 5.8% |
-| 14:00 | GBP | Low | Car Registration (MoM) (Jul) | -18.8% |  | 22.1% |
 | 14:00 | GBP | Low | Car Registration (YoY) (Jul) | 28.3% |  | 25.8% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | 8.7% |  | 9.1% |
+| 14:00 | GBP | Low | Car Registration (MoM) (Jul) | -18.8% |  | 22.1% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Jul) | -14.2% |  | -7.0% |
-| 14:00 | EUR | Low | German Car Registration (YoY) (Jul) | 18.1% |  | 24.8% |
+| 14:00 | EUR | Low | Italian Car Registration (YoY) (Jul) | 8.7% |  | 9.1% |
 | 14:00 | EUR | Low | German Car Registration (MoM) (Jul) | -13.2% |  | 13.4% |
+| 14:00 | EUR | Low | German Car Registration (YoY) (Jul) | 18.1% |  | 24.8% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Jul) | -0.6% | 0.0% | -1.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Jul) | -13.2% | -12.9% | -11.4% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Jul) | -32.4% |  | 31.1% |
@@ -28,8 +28,8 @@
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Aug) | 91.1 | 91.5 | 92.1 |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.5% | 0.4% | 0.2% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.1% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.5% | 0.6% | -0.1% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.1% |
 | 15:00 | EUR | Low | Business and Consumer Survey (Aug) | 93.3 | 93.7 | 94.5 |
 | 15:00 | EUR | Low | Consumer Confidence (Aug) | -16.0 | -16.0 | -15.1 |
 | 15:00 | EUR | Low | Selling Price Expectations (Aug) | 3.6 | 2.0 | 3.4 |
@@ -38,14 +38,14 @@
 | 16:00 | EUR | Low | Italian Business Confidence (Aug) | 97.8 | 98.0 | 99.1 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Aug) | 106.5 | 105.6 | 106.7 |
 | 16:00 | CHF | Low | ZEW Expectations (Aug) | -38.6 | -31.3 | -32.6 |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Aug) | 7.0% |  | 6.8% |
-| 16:00 | EUR | Low | Bavaria CPI (MoM) (Aug) | 0.3% |  | 0.4% |
+| 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
 | 16:00 | EUR | Low | Bavaria CPI (YoY) (Aug) | 5.9% |  | 6.1% |
+| 16:00 | EUR | Low | Bavaria CPI (MoM) (Aug) | 0.3% |  | 0.4% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Aug) | 6.8% |  | 6.7% |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Aug) | 0.2% |  | 0.3% |
-| 16:00 | EUR | Low | Hesse CPI (YoY) (Aug) | 6.0% |  | 6.1% |
 | 16:00 | EUR | Low | Hesse CPI (MoM) (Aug) | 0.2% |  | 0.3% |
+| 16:00 | EUR | Low | Hesse CPI (YoY) (Aug) | 6.0% |  | 6.1% |
 | 16:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) | 0.3% |  | 0.2% |
 | 16:00 | EUR | Low | Consumer Inflation Expectation (Aug) | 9.0 | 8.6 | 4.9 |
 | 16:30 | GBP | Low | BoE Consumer Credit (Jul) | 1.191B | 1.300B | 1.637B |
@@ -56,8 +56,8 @@
 | 16:30 | GBP | Low | Net Lending to Individuals | 1.4B | 1.0B | 1.8B |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (May) | 1.30% | 7.50% | -0.50% |
 | 17:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 0.40% | -0.10% | 1.60% |
-| 17:00 | EUR | Low | Saxony CPI (YoY) (Aug) | 6.8% |  | 6.7% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Aug) | 0.3% |  | 0.3% |
+| 17:00 | EUR | Low | Saxony CPI (YoY) (Aug) | 6.8% |  | 6.7% |
 | 17:00 | EUR | Low | Business Climate (Aug) | -0.33 |  | -0.09 |
 | 17:30 | EUR | Moderate | Italian 10-Year BTP Auction | 4.20% |  | 4.10% |
 | 17:30 | EUR | Low | Italian 5-Year BTP Auction | 3.79% |  | 3.73% |
@@ -71,10 +71,10 @@
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Aug) | -0.14% | 0.15% | -0.72% |
 | 20:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
 | 20:00 | EUR | Moderate | German CPI (YoY) (Aug) | 6.1% | 6.0% | 6.2% |
-| 20:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.3% | 0.5% |
 | 20:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.3% | 6.5% |
+| 20:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.3% | 0.5% |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Jul) | -0.82% | -2.99% | -2.72% |
-| 20:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 177K | 195K | 312K |
+| 20:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 177K | 195K | 371K |
 | 20:30 | USD | Low | Core PCE Prices (Q2) | 3.70% | 3.80% | 4.90% |
 | 20:30 | USD | Low | Corporate Profits (QoQ) (Q2) | 1.6% | -5.9% | -5.9% |
 | 20:30 | USD | High | GDP (QoQ) (Q2) | 2.1% | 2.4% | 2.0% |
@@ -87,13 +87,13 @@
 | 20:30 | USD | Low | Wholesale Inventories (MoM) | -0.1% | -0.4% | -0.7% |
 | 22:00 | USD | High | Pending Home Sales (MoM) (Jul) | 0.9% | -0.6% | 0.4% |
 | 22:00 | USD | Low | Pending Home Sales Index (Jul) | 77.6 |  | 76.9 |
-| 46 min | USD | High | Crude Oil Inventories |  | -3.267M | -6.135M |
-| 46 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.030M |
-| 46 min | USD | Low | Crude Oil Imports |  | -1.555M | 0.116M |
-| 46 min | USD | Moderate | Cushing Crude Oil Inventories |  | -2.440M | -3.133M |
-| 46 min | USD | Low | Distillate Fuel Production |  | 0.006M | 0.337M |
-| 46 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.189M | 0.945M |
-| 46 min | USD | Low | Gasoline Production |  | -0.073M | 0.130M |
-| 46 min | USD | Low | Heating Oil Stockpiles |  | 0.197M | 0.502M |
-| 46 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 46 min | USD | Low | Gasoline Inventories |  | -0.933M | 1.467M |
+| 23:00 | USD | High | Crude Oil Inventories | -10.584M | -3.267M | -6.135M |
+| 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.173M |  | 0.030M |
+| 23:00 | USD | Low | Crude Oil Imports | -0.586M | -1.555M | 0.116M |
+| 23:00 | USD | Moderate | Cushing Crude Oil Inventories | -1.504M | -2.440M | -3.133M |
+| 23:00 | USD | Low | Distillate Fuel Production | -0.043M | 0.006M | 0.337M |
+| 23:00 | USD | Low | EIA Weekly Distillates Stocks | 1.235M | 0.189M | 0.945M |
+| 23:00 | USD | Low | Gasoline Production | 0.290M | -0.073M | 0.130M |
+| 23:00 | USD | Low | Heating Oil Stockpiles | 0.170M | 0.197M | 0.502M |
+| 23:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.2% |  | -0.2% |
+| 23:00 | USD | Low | Gasoline Inventories | -0.214M | -0.933M | 1.467M |
