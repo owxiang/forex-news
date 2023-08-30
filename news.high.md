@@ -1,9 +1,9 @@
-## 30 August 2023 - High Impact Forex News
+## 31 August 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:00 | EUR | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
-| 20:15 | USD | ADP Nonfarm Employment Change (Aug) | 177K | 195K | 371K |
-| 20:30 | USD | GDP (QoQ) (Q2) | 2.1% | 2.4% | 2.0% |
-| 22:00 | USD | Pending Home Sales (MoM) (Jul) | 0.9% | -0.6% | 0.4% |
-| 23:00 | USD | Crude Oil Inventories | -10.584M | -3.267M | -6.135M |
+| 09:30 | CNY | Manufacturing PMI (Aug) |  | 49.5 | 49.3 |
+| 17:00 | EUR | CPI (YoY) (Aug) |  | 5.1% | 5.3% |
+| 20:30 | USD | Core PCE Price Index (YoY) (Jul) |  | 4.2% | 4.1% |
+| 20:30 | USD | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
+| 20:30 | USD | Initial Jobless Claims |  | 235K | 230K |
