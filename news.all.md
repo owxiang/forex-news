@@ -5,12 +5,12 @@
 | 01:00 | USD | Moderate | 7-Year Note Auction | 4.212% |  | 4.087% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -11.486M | -2.900M | -2.418M |
 | 06:45 | NZD | Low | Building Consents (MoM) (Jul) | -5.2% | 0.2% | 3.4% |
-| 09:30 | AUD | Low | Building Approvals (YoY) (Jul) |  |  | -7.70% |
-| 09:30 | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
-| 09:30 | AUD | Moderate | Construction Work Done (QoQ) (Q2) |  | 1.0% | 1.8% |
-| 09:30 | AUD | Low | Private House Approvals (Jul) |  |  | -1.3% |
-| 09:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 5.20% | 5.40% |
-| 09:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
+| 24 min | AUD | Low | Building Approvals (YoY) (Jul) |  |  | -7.70% |
+| 24 min | AUD | Moderate | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
+| 24 min | AUD | Moderate | Construction Work Done (QoQ) (Q2) |  | 1.0% | 1.8% |
+| 24 min | AUD | Low | Private House Approvals (Jul) |  |  | -1.3% |
+| 24 min | AUD | Low | Monthly CPI Indicator (YoY) (Jul) |  | 5.20% | 5.40% |
+| 24 min | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 13:00 | JPY | Low | Household Confidence (Aug) |  | 37.5 | 37.1 |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 5.8% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.2% |
@@ -87,13 +87,13 @@
 | 20:30 | USD | Low | Wholesale Inventories (MoM) |  | -0.4% | -0.5% |
 | 22:00 | USD | High | Pending Home Sales (MoM) (Jul) |  | -0.1% | 0.3% |
 | 22:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 76.8 |
-| 22:30 | USD | High | Crude Oil Inventories |  | -2.921M | -6.135M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.030M |
-| 22:30 | USD | Low | Crude Oil Imports |  | -1.555M | 0.116M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  | -2.440M | -3.133M |
-| 22:30 | USD | Low | Distillate Fuel Production |  | 0.006M | 0.337M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.045M | 0.945M |
-| 22:30 | USD | Low | Gasoline Production |  | -0.073M | 0.130M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  | 0.197M | 0.502M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 22:30 | USD | Low | Gasoline Inventories |  | 1.234M | 1.467M |
+| 23:00 | USD | High | Crude Oil Inventories |  | -2.921M | -6.135M |
+| 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.030M |
+| 23:00 | USD | Low | Crude Oil Imports |  | -1.555M | 0.116M |
+| 23:00 | USD | Moderate | Cushing Crude Oil Inventories |  | -2.440M | -3.133M |
+| 23:00 | USD | Low | Distillate Fuel Production |  | 0.006M | 0.337M |
+| 23:00 | USD | Low | EIA Weekly Distillates Stocks |  | 0.045M | 0.945M |
+| 23:00 | USD | Low | Gasoline Production |  | -0.073M | 0.130M |
+| 23:00 | USD | Low | Heating Oil Stockpiles |  | 0.197M | 0.502M |
+| 23:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 23:00 | USD | Low | Gasoline Inventories |  | 1.234M | 1.467M |

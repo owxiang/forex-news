@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:45 | NZD | Building Consents (MoM) (Jul) | -5.2% | 0.2% | 3.4% |
-| 09:30 | AUD | Building Approvals (YoY) (Jul) |  |  | -7.70% |
-| 09:30 | AUD | Private House Approvals (Jul) |  |  | -1.3% |
-| 09:30 | AUD | Monthly CPI Indicator (YoY) (Jul) |  | 5.20% | 5.40% |
-| 09:30 | JPY | BoJ Tamura Speaks |  |  |  |
+| 24 min | AUD | Building Approvals (YoY) (Jul) |  |  | -7.70% |
+| 24 min | AUD | Private House Approvals (Jul) |  |  | -1.3% |
+| 24 min | AUD | Monthly CPI Indicator (YoY) (Jul) |  | 5.20% | 5.40% |
+| 24 min | JPY | BoJ Tamura Speaks |  |  |  |
 | 13:00 | JPY | Household Confidence (Aug) |  | 37.5 | 37.1 |
 | 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 5.8% |
 | 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.2% |
@@ -71,11 +71,11 @@
 | 20:30 | USD | Real Consumer Spending (Q2) |  | 1.6% | 4.2% |
 | 20:30 | USD | Wholesale Inventories (MoM) |  | -0.4% | -0.5% |
 | 22:00 | USD | Pending Home Sales Index (Jul) |  |  | 76.8 |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.030M |
-| 22:30 | USD | Crude Oil Imports |  | -1.555M | 0.116M |
-| 22:30 | USD | Distillate Fuel Production |  | 0.006M | 0.337M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.045M | 0.945M |
-| 22:30 | USD | Gasoline Production |  | -0.073M | 0.130M |
-| 22:30 | USD | Heating Oil Stockpiles |  | 0.197M | 0.502M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 22:30 | USD | Gasoline Inventories |  | 1.234M | 1.467M |
+| 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.030M |
+| 23:00 | USD | Crude Oil Imports |  | -1.555M | 0.116M |
+| 23:00 | USD | Distillate Fuel Production |  | 0.006M | 0.337M |
+| 23:00 | USD | EIA Weekly Distillates Stocks |  | 0.045M | 0.945M |
+| 23:00 | USD | Gasoline Production |  | -0.073M | 0.130M |
+| 23:00 | USD | Heating Oil Stockpiles |  | 0.197M | 0.502M |
+| 23:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 23:00 | USD | Gasoline Inventories |  | 1.234M | 1.467M |
