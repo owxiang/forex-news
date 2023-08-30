@@ -9,7 +9,7 @@
 | 15:00 | CHF | KOF Leading Indicators (Aug) | 91.1 | 91.5 | 92.1 |
 | 15:00 | EUR | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
 | 15:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.1% |
-| 17:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.10% |
+| 51 min | EUR | Italian 10-Year BTP Auction |  |  | 4.10% |
 | 20:00 | EUR | German CPI (YoY) (Aug) |  | 6.0% | 6.2% |
 | 20:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.2% | 4.1% |
 | 20:30 | USD | Goods Trade Balance (Jul) |  | -89.94B | -88.83B |
