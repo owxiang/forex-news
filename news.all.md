@@ -11,26 +11,26 @@
 | 09:30 | AUD | Low | Private House Approvals (Jul) | 0.1% |  | -1.0% |
 | 09:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jul) | 4.90% | 5.20% | 5.40% |
 | 09:30 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 42 min | JPY | Low | Household Confidence (Aug) |  | 37.5 | 37.1 |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.2% |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 5.8% |
-| 14:00 | GBP | Low | Car Registration (MoM) (Jul) |  |  | 22.1% |
-| 14:00 | GBP | Low | Car Registration (YoY) (Jul) |  |  | 25.8% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 9.1% |
-| 14:00 | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -7.0% |
-| 14:00 | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 24.8% |
-| 14:00 | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 13.4% |
-| 14:00 | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
-| 14:00 | EUR | Low | German Import Price Index (YoY) (Jul) |  | -12.9% | -11.4% |
-| 14:00 | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 31.1% |
-| 14:00 | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.5% |
-| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) |  | 10.80% | 11.15% |
-| 14:00 | ZAR | Low | Private Sector Credit (Jul) |  | 6.21% | 6.25% |
+| 13:00 | JPY | Low | Household Confidence (Aug) | 36.2 | 37.5 | 37.1 |
+| 16 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Aug) |  |  | 0.2% |
+| 16 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Aug) |  |  | 5.8% |
+| 46 min | GBP | Low | Car Registration (MoM) (Jul) |  |  | 22.1% |
+| 46 min | GBP | Low | Car Registration (YoY) (Jul) |  |  | 25.8% |
+| 46 min | EUR | Low | Italian Car Registration (YoY) (Jul) |  |  | 9.1% |
+| 46 min | EUR | Low | Italian Car Registration (MoM) (Jul) |  |  | -7.0% |
+| 46 min | EUR | Low | German Car Registration (YoY) (Jul) |  |  | 24.8% |
+| 46 min | EUR | Low | German Car Registration (MoM) (Jul) |  |  | 13.4% |
+| 46 min | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
+| 46 min | EUR | Low | German Import Price Index (YoY) (Jul) |  | -12.9% | -11.4% |
+| 46 min | EUR | Low | French Car Registration (MoM) (Jul) |  |  | 31.1% |
+| 46 min | EUR | Low | French Car Registration (YoY) (Jul) |  |  | 11.5% |
+| 46 min | ZAR | Low | M3 Money Supply (YoY) (Jul) |  | 10.80% | 11.15% |
+| 46 min | ZAR | Low | Private Sector Credit (Jul) |  | 6.21% | 6.25% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Aug) |  | 91.5 | 92.2 |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.4% | 0.2% |
-| 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.6% | -0.1% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.5% | 2.1% |
+| 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.6% | -0.1% |
 | 16:00 | EUR | Low | Italian Business Confidence (Aug) |  | 98.0 | 99.3 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Aug) |  | 105.6 | 106.7 |
 | 16:00 | CHF | Low | ZEW Expectations (Aug) |  | -31.3 | -32.6 |
