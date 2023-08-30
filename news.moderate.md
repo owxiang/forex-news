@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 7-Year Note Auction | 4.212% |  | 4.087% |
 | 04:30 | USD | API Weekly Crude Oil Stock | -11.486M | -2.900M | -2.418M |
-| 24 min | AUD | Building Approvals (MoM) (Jul) |  | -0.8% | -7.7% |
-| 24 min | AUD | Construction Work Done (QoQ) (Q2) |  | 1.0% | 1.8% |
+| 09:30 | AUD | Building Approvals (MoM) (Jul) | -8.1% | -0.8% | -7.9% |
+| 09:30 | AUD | Construction Work Done (QoQ) (Q2) | 0.4% | 1.0% | 3.8% |
 | 15:00 | CHF | KOF Leading Indicators (Aug) |  | 91.3 | 92.2 |
 | 15:00 | EUR | Spanish CPI (YoY) (Aug) |  | 2.5% | 2.3% |
 | 15:00 | EUR | Spanish HICP (YoY) (Aug) |  | 2.6% | 2.1% |
