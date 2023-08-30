@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 17 min | BRL | Low | Foreign Exchange Flows |  |  | -1.959B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
 | 05:00 | MXN | Low | Fiscal Balance (Jul) |  |  | -258.05B |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Jul) |  | -5.2% | -5.6% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
@@ -37,14 +37,14 @@
 | 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) |  | 0.3% | 0.9% |
-| 14:45 | EUR | Low | French CPI (YoY) (Aug) |  | 4.4% | 4.3% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.7% | 0.1% |
+| 14:45 | EUR | Low | French CPI (YoY) (Aug) |  | 4.4% | 4.3% |
 | 14:45 | EUR | Moderate | French GDP (YoY) |  | 0.9% | 0.8% |
 | 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.5% | 0.1% |
-| 14:45 | EUR | Low | French HICP (YoY) |  | 5.2% | 5.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) |  | 0.7% | 0.0% |
-| 14:45 | EUR | Low | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
+| 14:45 | EUR | Low | French HICP (YoY) |  | 5.2% | 5.1% |
 | 14:45 | EUR | Low | PPI (YoY) (Jul) |  |  | 3.00% |
+| 14:45 | EUR | Low | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jul) |  |  | 794.7B |
 | 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 15:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
@@ -56,20 +56,20 @@
 | 16:00 | EUR | Low | Spanish Current account (Jun) |  | 4.13B | 3.99B |
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | 19.6% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.7% | 6.3% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.8% | -1.6% |
-| 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.3% | 5.5% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.7% | 6.3% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  | 0.3% | -0.1% |
-| 17:00 | EUR | Moderate | CPI (MoM) |  | -0.1% | -0.1% |
+| 17:00 | EUR | Moderate | Core CPI (YoY) |  | 5.3% | 5.5% |
 | 17:00 | EUR | High | CPI (YoY) (Aug) |  | 5.1% | 5.3% |
+| 17:00 | EUR | Moderate | CPI (MoM) |  | -0.1% | -0.1% |
 | 17:00 | EUR | Low | CPI, n.s.a (Aug) |  |  | 123.36 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.0% |
 | 17:00 | EUR | Moderate | Unemployment Rate (Jul) |  | 6.4% | 6.4% |
-| 17:30 | ZAR | Low | PPI (MoM) (Jul) |  | 0.4% | -0.3% |
 | 17:30 | ZAR | Low | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
+| 17:30 | ZAR | Low | PPI (MoM) (Jul) |  | 0.4% | -0.3% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 23.697K |
@@ -87,8 +87,8 @@
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 8.0% | 8.0% |
 | 20:00 | ZAR | Low | Trade Balance (Jul) |  | 4.22B | -3.54B |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,709K | 1,702K |
-| 20:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 4.2% | 4.1% |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
+| 20:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 4.2% | 4.1% |
 | 20:30 | USD | High | Initial Jobless Claims |  | 235K | 230K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 235.51K | 236.75K |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Jul) |  | 3.3% | 3.0% |
