@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | BRL | Low | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
 | 04:15 | MXN | Low | Fiscal Balance (Jul) | -473.00B |  | -395.20B |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Jul) |  | -5.2% | -5.6% |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
-| 07:00 | KRW | Low | Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Jul) |  | 0.0% | 0.5% |
+| 46 min | KRW | Low | Industrial Production (YoY) (Jul) |  | -5.2% | -5.6% |
+| 46 min | KRW | Low | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
+| 46 min | KRW | Low | Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
+| 46 min | KRW | Low | Service Sector Output (MoM) (Jul) |  | 0.0% | 0.5% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -263.2B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -740.7B |
 | 07:50 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -1.4% | 2.4% |
@@ -43,8 +43,8 @@
 | 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) |  | 0.5% | 0.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) |  | 0.7% | 0.0% |
 | 14:45 | EUR | Low | French HICP (YoY) |  | 5.2% | 5.1% |
-| 14:45 | EUR | Low | PPI (YoY) (Jul) |  |  | 3.00% |
 | 14:45 | EUR | Low | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
+| 14:45 | EUR | Low | PPI (YoY) (Jul) |  |  | 3.00% |
 | 15:00 | CHF | Low | Official Reserves Assets (Jul) |  |  | 794.7B |
 | 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 15:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
@@ -56,8 +56,8 @@
 | 16:00 | EUR | Low | Spanish Current account (Jun) |  | 4.13B | 3.99B |
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jul) |  |  | 19.6% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | -0.8% | -1.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.7% | 6.3% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  | 0.3% | -0.1% |
