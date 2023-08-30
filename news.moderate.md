@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | Industrial Production (MoM) (Jul) |  | -1.4% | 2.4% |
+| 35 min | JPY | Industrial Production (MoM) (Jul) |  | -1.4% | 2.4% |
 | 09:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) |  | 1.1% | 2.4% |
 | 09:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
 | 09:30 | CNY | Chinese Composite PMI (Aug) |  |  | 51.1 |
