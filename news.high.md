@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:00 | EUR | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
+| 47 min | EUR | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
 | 20:15 | USD | ADP Nonfarm Employment Change (Aug) |  | 195K | 324K |
 | 20:30 | USD | GDP (QoQ) (Q2) |  | 2.4% | 2.0% |
 | 22:00 | USD | Pending Home Sales (MoM) (Jul) |  | -0.6% | 0.3% |
