@@ -17,8 +17,8 @@
 | 14:00 | EUR | German Car Registration (MoM) (Jul) | -13.2% |  | 13.4% |
 | 14:00 | EUR | German Import Price Index (MoM) (Jul) | -0.6% | 0.0% | -1.6% |
 | 14:00 | EUR | German Import Price Index (YoY) (Jul) | -13.2% | -12.9% | -11.4% |
-| 14:00 | EUR | French Car Registration (YoY) (Jul) | 19.9% |  | 11.5% |
 | 14:00 | EUR | French Car Registration (MoM) (Jul) | -32.4% |  | 31.1% |
+| 14:00 | EUR | French Car Registration (YoY) (Jul) | 19.9% |  | 11.5% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Jul) | 9.30% | 10.80% | 11.15% |
 | 14:00 | ZAR | Private Sector Credit (Jul) | 5.87% | 6.21% | 6.25% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) | 0.5% | 0.4% | 0.2% |
@@ -47,8 +47,8 @@
 | 16:30 | GBP | Mortgage Approvals (Jul) | 49.44K | 51.00K | 54.61K |
 | 16:30 | GBP | Mortgage Lending (Jul) | 0.23B | -0.46B | 0.11B |
 | 16:30 | GBP | Net Lending to Individuals | 1.4B | 1.0B | 1.8B |
-| 17:00 | EUR | Italian Industrial Sales (MoM) (Jun) | 0.40% | -0.10% | 1.60% |
 | 17:00 | EUR | Italian Industrial Sales (YoY) (May) | 1.30% | 7.50% | -0.50% |
+| 17:00 | EUR | Italian Industrial Sales (MoM) (Jun) | 0.40% | -0.10% | 1.60% |
 | 17:00 | EUR | Saxony CPI (YoY) (Aug) | 6.8% |  | 6.7% |
 | 17:00 | EUR | Saxony CPI (MoM) (Aug) | 0.3% |  | 0.3% |
 | 17:00 | EUR | Business Climate (Aug) | -0.33 |  | -0.09 |
@@ -61,13 +61,13 @@
 | 19:00 | USD | Mortgage Refinance Index | 407.1 |  | 397.1 |
 | 19:00 | EUR | Spanish Business Confidence | -6.6 | -14.0 | -9.4 |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Aug) | -0.14% | 0.15% | -0.72% |
-| 47 min | EUR | German HICP (MoM) (Aug) |  | 0.3% | 0.5% |
-| 47 min | EUR | German HICP (YoY) (Aug) |  | 6.3% | 6.5% |
-| 47 min | BRL | Brazilian PPI (MoM) (Jul) |  | -2.99% | -2.72% |
-| 20:30 | USD | Core PCE Prices (Q2) |  | 3.80% | 4.90% |
+| 20:00 | EUR | German HICP (MoM) (Aug) | 0.4% | 0.3% | 0.5% |
+| 20:00 | EUR | German HICP (YoY) (Aug) | 6.4% | 6.3% | 6.5% |
+| 20:00 | BRL | Brazilian PPI (MoM) (Jul) | -0.82% | -2.99% | -2.72% |
+| 20:30 | USD | Core PCE Prices (Q2) | 3.70% | 3.80% | 4.90% |
 | 20:30 | USD | Corporate Profits (QoQ) (Q2) |  | -5.9% | -5.9% |
 | 20:30 | USD | GDP Sales (Q2) |  | 2.3% | 4.2% |
-| 20:30 | USD | PCE Prices (Q2) |  | 2.6% | 4.1% |
+| 20:30 | USD | PCE Prices (Q2) | 2.5% | 2.6% | 4.1% |
 | 20:30 | USD | Real Consumer Spending (Q2) |  | 1.6% | 4.2% |
 | 20:30 | USD | Wholesale Inventories (MoM) |  | -0.4% | -0.5% |
 | 22:00 | USD | Pending Home Sales Index (Jul) |  |  | 76.8 |

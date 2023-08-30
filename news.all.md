@@ -21,8 +21,8 @@
 | 14:00 | EUR | Low | German Car Registration (MoM) (Jul) | -13.2% |  | 13.4% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Jul) | -0.6% | 0.0% | -1.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Jul) | -13.2% | -12.9% | -11.4% |
-| 14:00 | EUR | Low | French Car Registration (YoY) (Jul) | 19.9% |  | 11.5% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Jul) | -32.4% |  | 31.1% |
+| 14:00 | EUR | Low | French Car Registration (YoY) (Jul) | 19.9% |  | 11.5% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Jul) | 9.30% | 10.80% | 11.15% |
 | 14:00 | ZAR | Low | Private Sector Credit (Jul) | 5.87% | 6.21% | 6.25% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Aug) | 91.1 | 91.5 | 92.1 |
@@ -54,8 +54,8 @@
 | 16:30 | GBP | Low | Mortgage Approvals (Jul) | 49.44K | 51.00K | 54.61K |
 | 16:30 | GBP | Low | Mortgage Lending (Jul) | 0.23B | -0.46B | 0.11B |
 | 16:30 | GBP | Low | Net Lending to Individuals | 1.4B | 1.0B | 1.8B |
-| 17:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 0.40% | -0.10% | 1.60% |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (May) | 1.30% | 7.50% | -0.50% |
+| 17:00 | EUR | Low | Italian Industrial Sales (MoM) (Jun) | 0.40% | -0.10% | 1.60% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Aug) | 6.8% |  | 6.7% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Aug) | 0.3% |  | 0.3% |
 | 17:00 | EUR | Low | Business Climate (Aug) | -0.33 |  | -0.09 |
@@ -69,21 +69,21 @@
 | 19:00 | USD | Low | Mortgage Refinance Index | 407.1 |  | 397.1 |
 | 19:00 | EUR | Low | Spanish Business Confidence | -6.6 | -14.0 | -9.4 |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Aug) | -0.14% | 0.15% | -0.72% |
-| 47 min | EUR | Moderate | German CPI (YoY) (Aug) |  | 6.0% | 6.2% |
-| 47 min | EUR | High | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
-| 47 min | EUR | Low | German HICP (MoM) (Aug) |  | 0.3% | 0.5% |
-| 47 min | EUR | Low | German HICP (YoY) (Aug) |  | 6.3% | 6.5% |
-| 47 min | BRL | Low | Brazilian PPI (MoM) (Jul) |  | -2.99% | -2.72% |
-| 20:15 | USD | High | ADP Nonfarm Employment Change (Aug) |  | 195K | 324K |
-| 20:30 | USD | Low | Core PCE Prices (Q2) |  | 3.80% | 4.90% |
+| 20:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
+| 20:00 | EUR | Moderate | German CPI (YoY) (Aug) | 6.1% | 6.0% | 6.2% |
+| 20:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.3% | 0.5% |
+| 20:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.3% | 6.5% |
+| 20:00 | BRL | Low | Brazilian PPI (MoM) (Jul) | -0.82% | -2.99% | -2.72% |
+| 20:15 | USD | High | ADP Nonfarm Employment Change (Aug) | 177K | 195K | 371K |
+| 20:30 | USD | Low | Core PCE Prices (Q2) | 3.70% | 3.80% | 4.90% |
 | 20:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  | -5.9% | -5.9% |
 | 20:30 | USD | High | GDP (QoQ) (Q2) |  | 2.4% | 2.0% |
 | 20:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.2% | 4.1% |
 | 20:30 | USD | Low | GDP Sales (Q2) |  | 2.3% | 4.2% |
-| 20:30 | USD | Moderate | Goods Trade Balance (Jul) |  | -89.94B | -88.83B |
-| 20:30 | USD | Low | PCE Prices (Q2) |  | 2.6% | 4.1% |
+| 20:30 | USD | Moderate | Goods Trade Balance (Jul) | -91.18B | -89.94B | -88.83B |
+| 20:30 | USD | Low | PCE Prices (Q2) | 2.5% | 2.6% | 4.1% |
 | 20:30 | USD | Low | Real Consumer Spending (Q2) |  | 1.6% | 4.2% |
-| 20:30 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  |  | 0.3% |
+| 20:30 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.1% |  | 0.2% |
 | 20:30 | USD | Low | Wholesale Inventories (MoM) |  | -0.4% | -0.5% |
 | 22:00 | USD | High | Pending Home Sales (MoM) (Jul) |  | -0.6% | 0.3% |
 | 22:00 | USD | Low | Pending Home Sales Index (Jul) |  |  | 76.8 |

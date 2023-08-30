@@ -10,8 +10,8 @@
 | 15:00 | EUR | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
 | 15:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.5% | 2.1% |
 | 17:30 | EUR | Italian 10-Year BTP Auction | 4.20% |  | 4.10% |
-| 47 min | EUR | German CPI (YoY) (Aug) |  | 6.0% | 6.2% |
+| 20:00 | EUR | German CPI (YoY) (Aug) | 6.1% | 6.0% | 6.2% |
 | 20:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.2% | 4.1% |
-| 20:30 | USD | Goods Trade Balance (Jul) |  | -89.94B | -88.83B |
-| 20:30 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.3% |
+| 20:30 | USD | Goods Trade Balance (Jul) | -91.18B | -89.94B | -88.83B |
+| 20:30 | USD | Retail Inventories Ex Auto (Jul) | 0.1% |  | 0.2% |
 | 23:00 | USD | Cushing Crude Oil Inventories |  | -2.440M | -3.133M |
