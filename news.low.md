@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.959B |
+| 17 min | BRL | Foreign Exchange Flows |  |  | -1.959B |
 | 05:00 | MXN | Fiscal Balance (Jul) |  |  | -258.05B |
-| 07:00 | KRW | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
 | 07:00 | KRW | Industrial Production (YoY) (Jul) |  | -5.2% | -5.6% |
+| 07:00 | KRW | Industrial Production (MoM) (Jul) |  | -0.4% | -1.0% |
 | 07:00 | KRW | Retail Sales (MoM) (Jul) |  | 0.0% | 1.0% |
 | 07:00 | KRW | Service Sector Output (MoM) (Jul) |  | 0.0% | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -263.2B |
@@ -46,8 +46,8 @@
 | 17:00 | EUR | CPI, n.s.a (Aug) |  |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.0% |
-| 17:30 | ZAR | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
 | 17:30 | ZAR | PPI (MoM) (Jul) |  | 0.4% | -0.3% |
+| 17:30 | ZAR | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
 | 18:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | USD | Challenger Job Cuts (Aug) |  |  | 23.697K |
