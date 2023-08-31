@@ -24,17 +24,17 @@
 | 13:00 | JPY | Construction Orders (YoY) (Jul) | 8.7% | 2.1% | 8.6% |
 | 13:00 | JPY | Housing Starts (YoY) (Jul) | -6.7% | -0.8% | -4.8% |
 | 14:00 | EUR | German Retail Sales (YoY) (Jul) | -2.2% | -1.0% | -1.6% |
-| 10 min | CHF | Retail Sales (YoY) (Jul) |  |  | 1.8% |
-| 25 min | EUR | French CPI (YoY) (Aug) |  | 4.6% | 4.3% |
-| 25 min | EUR | French HICP (YoY) |  | 5.4% | 5.1% |
-| 25 min | EUR | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
-| 25 min | EUR | PPI (YoY) (Jul) |  |  | 3.00% |
-| 40 min | CHF | Official Reserves Assets (Jul) |  |  | 794.7B |
-| 15:55 | EUR | German Unemployment (Aug) |  | 2.621M | 2.604M |
-| 15:55 | EUR | German Unemployment n.s.a. (Aug) |  | 2.649M | 2.617M |
-| 16:00 | EUR | Italian Monthly Unemployment Rate (Jul) |  | 7.4% | 7.4% |
-| 16:00 | EUR | Spanish Current account (Jun) |  | 4.13B | 3.99B |
-| 16:00 | NOK | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
+| 14:30 | CHF | Retail Sales (YoY) (Jul) | -2.2% |  | 1.0% |
+| 14:45 | EUR | French CPI (YoY) (Aug) | 4.8% | 4.6% | 4.3% |
+| 14:45 | EUR | French HICP (YoY) | 5.7% | 5.4% | 5.1% |
+| 14:45 | EUR | French PPI (MoM) (Jul) | -0.2% | -3.3% | -1.1% |
+| 14:45 | EUR | PPI (YoY) (Jul) | 0.90% |  | 3.10% |
+| 15:00 | CHF | Official Reserves Assets (Jul) | 768.2B |  | 794.7B |
+| 41 min | EUR | German Unemployment (Aug) |  | 2.621M | 2.604M |
+| 41 min | EUR | German Unemployment n.s.a. (Aug) |  | 2.649M | 2.617M |
+| 46 min | EUR | Italian Monthly Unemployment Rate (Jul) |  | 7.4% | 7.4% |
+| 46 min | EUR | Spanish Current account (Jun) |  | 4.13B | 3.99B |
+| 46 min | NOK | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
 | 16:30 | HKD | Retail Sales (YoY) (Jul) |  |  | 19.6% |
 | 17:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
 | 17:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
@@ -48,8 +48,8 @@
 | 17:30 | ZAR | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
 | 18:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.2% |
 | 19:30 | USD | Challenger Job Cuts (Aug) |  |  | 23.697K |
+| 19:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.2% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Jul) |  | 59.7% | 59.1% |
 | 19:30 | BRL | Budget Balance (Jul) |  | -81.113B | -89.625B |
