@@ -18,8 +18,8 @@
 | 15:55 | EUR | HCOB Germany Manufacturing PMI (Aug) |  | 39.1 | 38.8 |
 | 16:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) |  | 43.7 | 42.7 |
 | 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) |  | 42.5 | 45.3 |
-| 19:00 | BRL | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
 | 19:00 | BRL | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
+| 19:00 | BRL | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 4.4% | 4.4% |
 | 20:30 | USD | Participation Rate (Aug) |  | 62.6% | 62.6% |
 | 20:30 | USD | Private Nonfarm Payrolls (Aug) |  | 150K | 172K |
