@@ -17,18 +17,18 @@
 | 09:00 | NZD | ANZ Business Confidence (Aug) | -3.7 | -1.9 | -13.1 |
 | 09:00 | NZD | NBNZ Own Activity (Aug) | 11.2% | 1.7% | 0.8% |
 | 09:30 | AUD | Building Capital Expenditure (MoM) (Q2) | 3.5% | -0.4% | 1.3% |
-| 09:30 | AUD | Housing Credit (Jul) | 0.3% |  | 0.2% |
+| 09:30 | AUD | Housing Credit (Jul) | 0.3% | 0.3% | 0.3% |
 | 09:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 1.9% | -0.1% | 4.2% |
-| 09:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.3% | 0.3% | 0.2% |
+| 09:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 11:00 | NZD | M3 Money Supply (Jul) | 403,358.0M |  | 399,129.0M |
-| 13:00 | JPY | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
-| 13:00 | JPY | Housing Starts (YoY) (Jul) |  | -0.8% | -4.8% |
+| 42 min | JPY | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
+| 42 min | JPY | Housing Starts (YoY) (Jul) |  | -0.8% | -4.8% |
 | 14:00 | EUR | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
 | 14:00 | EUR | German Import Price Index (YoY) (Jul) |  |  | -11.4% |
-| 14:00 | EUR | German Retail Sales (YoY) (Jul) |  | -1.5% | -1.6% |
+| 14:00 | EUR | German Retail Sales (YoY) (Jul) |  | -1.0% | -1.6% |
 | 14:30 | CHF | Retail Sales (YoY) (Jul) |  |  | 1.8% |
-| 14:45 | EUR | French CPI (YoY) (Aug) |  | 4.4% | 4.3% |
-| 14:45 | EUR | French HICP (YoY) |  | 5.2% | 5.1% |
+| 14:45 | EUR | French CPI (YoY) (Aug) |  | 4.6% | 4.3% |
+| 14:45 | EUR | French HICP (YoY) |  | 5.4% | 5.1% |
 | 14:45 | EUR | French PPI (MoM) (Jul) |  | -3.3% | -1.1% |
 | 14:45 | EUR | PPI (YoY) (Jul) |  |  | 3.00% |
 | 15:00 | CHF | Official Reserves Assets (Jul) |  |  | 794.7B |
@@ -38,10 +38,10 @@
 | 16:00 | EUR | Spanish Current account (Jun) |  | 4.13B | 3.99B |
 | 16:00 | NOK | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
 | 16:30 | HKD | Retail Sales (YoY) (Jul) |  |  | 19.6% |
-| 17:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
 | 17:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
-| 17:00 | EUR | Italian HICP (MoM) (Aug) |  | -0.8% | -1.6% |
-| 17:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.7% | 6.3% |
+| 17:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
+| 17:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.6% | 6.3% |
+| 17:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.3% | -1.6% |
 | 17:00 | EUR | Core CPI (MoM) |  | 0.3% | -0.1% |
 | 17:00 | EUR | CPI, n.s.a (Aug) |  |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
@@ -55,18 +55,18 @@
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Jul) |  | 59.7% | 59.1% |
 | 19:30 | BRL | Budget Balance (Jul) |  | -81.113B | -89.625B |
-| 19:30 | BRL | Budget Surplus (Jul) |  | -72.012B | -48.899B |
+| 19:30 | BRL | Budget Surplus (Jul) |  | -73.500B | -48.899B |
 | 20:00 | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.80% | 2.70% |
 | 20:00 | INR | Infrastructure Output (YoY) (Jul) |  | 4.2% | 8.2% |
-| 20:00 | ZAR | Trade Balance (Jul) |  | 4.22B | -3.54B |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,709K | 1,702K |
+| 20:00 | ZAR | Trade Balance (Jul) |  | -1.25B | -3.54B |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,703K | 1,702K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.51K | 236.75K |
 | 20:30 | USD | Personal Income (MoM) (Jul) |  | 0.3% | 0.3% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Jul) |  | 0.0% | 0.4% |
 | 20:30 | CAD | Average Weekly Earnings (YoY) (Jun) |  |  | 3.6 |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |
-| 22:30 | USD | Natural Gas Storage |  |  | 18B |
+| 22:30 | USD | Natural Gas Storage |  | 25B | 18B |
 | 22:57 | USD | Dallas Fed PCE (Jul) |  |  | 2.50% |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
