@@ -37,16 +37,16 @@
 | 16:00 | NOK | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
 | 16:30 | HKD | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
 | 16:30 | HKD | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
-| 17:00 | EUR | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
+| 17:00 | EUR | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
 | 17:00 | EUR | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
 | 17:00 | EUR | CPI, n.s.a (Aug) | 124.05 |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 6.2% |  | 6.6% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.3% |  | 0.0% |
-| 17:30 | ZAR | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 17:30 | ZAR | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
+| 17:30 | ZAR | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 18:40 | INR | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
 | 19:30 | USD | Challenger Job Cuts (Aug) | 75.151K |  | 23.697K |
 | 19:30 | USD | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
@@ -64,10 +64,6 @@
 | 20:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.6% | 0.0% | 0.4% |
 | 20:30 | CAD | Average Weekly Earnings (YoY) (Jun) | 3.6 |  | 3.6 |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |
-| 21:45 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.94M | 0.94M | 0.95M |
-| 21:45 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.28M |
-| 21:45 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.19M | 0.19M | 0.20M |
-| 21:45 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
 | 21:45 | USD | OPEC Crude oil Production Iran (Barrel) | 3.10M | 3.10M | 2.90M |
 | 21:45 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.22M | 4.22M | 4.12M |
 | 21:45 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
@@ -76,7 +72,10 @@
 | 21:45 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.01M | 9.01M | 9.10M |
 | 21:45 | USD | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
 | 21:45 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.75M |
-| 15 min | USD | Natural Gas Storage |  | 25B | 18B |
-| 45 min | USD | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
+| 22:30 | USD | Natural Gas Storage | 32B | 25B | 18B |
+| 22:48 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.94M | 0.94M | 0.95M |
+| 22:49 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.28M |
+| 22:50 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.19M | 0.19M | 0.20M |
+| 22:50 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 13 min | USD | 4-Week Bill Auction |  |  | 5.285% |
+| 13 min | USD | 8-Week Bill Auction |  |  | 5.290% |

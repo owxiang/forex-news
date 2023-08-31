@@ -35,8 +35,8 @@
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.3% | 0.9% |
 | 14:45 | EUR | Low | French CPI (YoY) (Aug) | 4.8% | 4.6% | 4.3% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 0.8% | 0.1% |
-| 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
 | 14:45 | EUR | Moderate | French GDP (YoY) | 0.9% |  | 0.9% |
+| 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
 | 14:45 | EUR | Low | French HICP (YoY) | 5.7% | 5.4% | 5.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) | 1.1% | 0.9% | 0.0% |
 | 14:45 | EUR | Low | French PPI (MoM) (Jul) | -0.2% | -3.3% | -1.1% |
@@ -53,20 +53,20 @@
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
 | 16:30 | HKD | Low | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
 | 17:00 | EUR | Low | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) | 5.3% | 5.3% | 5.5% |
-| 17:00 | EUR | Moderate | CPI (MoM) | 0.6% | 0.4% | -0.1% |
 | 17:00 | EUR | High | CPI (YoY) (Aug) | 5.3% | 5.1% | 5.3% |
+| 17:00 | EUR | Moderate | CPI (MoM) | 0.6% | 0.4% | -0.1% |
 | 17:00 | EUR | Low | CPI, n.s.a (Aug) | 124.05 |  | 123.36 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 6.2% |  | 6.6% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.3% |  | 0.0% |
 | 17:00 | EUR | Moderate | Unemployment Rate (Jul) | 6.4% | 6.4% | 6.4% |
-| 17:30 | ZAR | Low | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 17:30 | ZAR | Low | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
+| 17:30 | ZAR | Low | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 18:40 | INR | Low | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
 | 19:30 | USD | Low | Challenger Job Cuts (Aug) | 75.151K |  | 23.697K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
@@ -83,8 +83,8 @@
 | 20:00 | BRL | Moderate | Unemployment Rate | 7.9% | 7.9% | 8.0% |
 | 20:00 | ZAR | Low | Trade Balance (Jul) | 15.96B | -1.25B | -3.54B |
 | 20:30 | USD | Low | Continuing Jobless Claims | 1,725K | 1,703K | 1,697K |
-| 20:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 20:30 | USD | High | Core PCE Price Index (YoY) (Jul) | 4.2% | 4.2% | 4.1% |
+| 20:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 20:30 | USD | High | Initial Jobless Claims | 228K | 235K | 232K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 237.50K | 235.51K | 237.25K |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 3.3% | 3.3% | 3.0% |
@@ -96,10 +96,6 @@
 | 20:30 | CAD | Moderate | Current Account (Q2) | -6.6B | -11.2B | -3.2B |
 | 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:45 | USD | Moderate | Chicago PMI (Aug) | 48.7 | 44.1 | 42.8 |
-| 21:45 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.94M | 0.94M | 0.95M |
-| 21:45 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.28M |
-| 21:45 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.19M | 0.19M | 0.20M |
-| 21:45 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
 | 21:45 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.10M | 3.10M | 2.90M |
 | 21:45 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.22M | 4.22M | 4.12M |
 | 21:45 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
@@ -108,7 +104,10 @@
 | 21:45 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.01M | 9.01M | 9.10M |
 | 21:45 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
 | 21:45 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.75M |
-| 15 min | USD | Low | Natural Gas Storage |  | 25B | 18B |
-| 45 min | USD | Low | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
+| 22:30 | USD | Low | Natural Gas Storage | 32B | 25B | 18B |
+| 22:48 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.94M | 0.94M | 0.95M |
+| 22:49 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.28M |
+| 22:50 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.19M | 0.19M | 0.20M |
+| 22:50 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.290% |

@@ -10,8 +10,8 @@
 | 14:00 | EUR | German Retail Sales (MoM) (Jul) | -0.8% | 0.3% | -0.8% |
 | 14:45 | EUR | French Consumer Spending (MoM) (Jul) | 0.3% | 0.3% | 0.9% |
 | 14:45 | EUR | French CPI (MoM) (Aug) | 1.0% | 0.8% | 0.1% |
-| 14:45 | EUR | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
 | 14:45 | EUR | French GDP (YoY) | 0.9% |  | 0.9% |
+| 14:45 | EUR | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
 | 14:45 | EUR | French HICP (MoM) | 1.1% | 0.9% | 0.0% |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
