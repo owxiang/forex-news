@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
 | 04:15 | MXN | Fiscal Balance (Jul) | -473.00B |  | -395.20B |
-| 07:00 | KRW | Industrial Production (YoY) (Jul) | -8.0% | -5.2% | -5.9% |
 | 07:00 | KRW | Industrial Production (MoM) (Jul) | -2.0% | -0.4% | -1.5% |
+| 07:00 | KRW | Industrial Production (YoY) (Jul) | -8.0% | -5.2% | -5.9% |
 | 07:00 | KRW | Retail Sales (MoM) (Jul) | -3.2% | 0.0% | 0.9% |
 | 07:00 | KRW | Service Sector Output (MoM) (Jul) | 0.4% | 0.0% | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying | 425.1B |  | -275.2B |
@@ -30,20 +30,20 @@
 | 14:45 | EUR | French PPI (MoM) (Jul) | -0.2% | -3.3% | -1.1% |
 | 14:45 | EUR | PPI (YoY) (Jul) | 0.90% |  | 3.10% |
 | 15:00 | CHF | Official Reserves Assets (Jul) | 768.2B |  | 794.7B |
-| 41 min | EUR | German Unemployment (Aug) |  | 2.621M | 2.604M |
-| 41 min | EUR | German Unemployment n.s.a. (Aug) |  | 2.649M | 2.617M |
-| 46 min | EUR | Italian Monthly Unemployment Rate (Jul) |  | 7.4% | 7.4% |
-| 46 min | EUR | Spanish Current account (Jun) |  | 4.13B | 3.99B |
-| 46 min | NOK | Central Bank Currency Purchase (Sep) |  |  | 1,000.0M |
-| 16:30 | HKD | Retail Sales (YoY) (Jul) |  |  | 19.6% |
-| 17:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
-| 17:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
-| 17:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.3% | -1.6% |
-| 17:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.6% | 6.3% |
-| 17:00 | EUR | Core CPI (MoM) |  | 0.3% | -0.1% |
-| 17:00 | EUR | CPI, n.s.a (Aug) |  |  | 123.36 |
-| 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
-| 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.0% |
+| 15:55 | EUR | German Unemployment (Aug) | 2.630M | 2.621M | 2.604M |
+| 15:55 | EUR | German Unemployment n.s.a. (Aug) | 2.700M | 2.649M | 2.617M |
+| 16:00 | EUR | Italian Monthly Unemployment Rate (Jul) | 7.6% | 7.4% | 7.5% |
+| 16:00 | EUR | Spanish Current account (Jun) | 2.83B | 4.13B | 3.99B |
+| 16:00 | NOK | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
+| 11 min | HKD | Retail Sales (YoY) (Jul) |  |  | 19.6% |
+| 41 min | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
+| 41 min | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
+| 41 min | EUR | Italian HICP (YoY) (Aug) |  | 5.6% | 6.3% |
+| 41 min | EUR | Italian HICP (MoM) (Aug) |  | 0.3% | -1.6% |
+| 41 min | EUR | Core CPI (MoM) |  | 0.3% | -0.1% |
+| 41 min | EUR | CPI, n.s.a (Aug) |  |  | 123.36 |
+| 41 min | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
+| 41 min | EUR | HICP ex Energy and Food (MoM) |  |  | 0.0% |
 | 17:30 | ZAR | PPI (MoM) (Jul) |  | 0.4% | -0.3% |
 | 17:30 | ZAR | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
 | 18:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
