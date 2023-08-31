@@ -7,16 +7,14 @@
 | 09:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
 | 09:30 | CNY | Chinese Composite PMI (Aug) | 51.3 |  | 51.1 |
 | 09:30 | CNY | Non-Manufacturing PMI (Aug) | 51.0 | 51.1 | 51.5 |
-| 46 min | GBP | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
-| 46 min | GBP | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
-| 46 min | EUR | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
-| 14:45 | EUR | French Consumer Spending (MoM) (Jul) |  | 0.3% | 0.9% |
-| 14:45 | EUR | French CPI (MoM) (Aug) |  | 0.8% | 0.1% |
-| 14:45 | EUR | French GDP (YoY) |  | 0.9% | 0.8% |
-| 14:45 | EUR | French GDP (QoQ) (Q2) |  | 0.5% | 0.1% |
-| 14:45 | EUR | French HICP (MoM) |  | 0.9% | 0.0% |
-| 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 14:00 | EUR | German Retail Sales (MoM) (Jul) | -0.8% | 0.3% | -0.8% |
+| 25 min | EUR | French Consumer Spending (MoM) (Jul) |  | 0.3% | 0.9% |
+| 25 min | EUR | French CPI (MoM) (Aug) |  | 0.8% | 0.1% |
+| 25 min | EUR | French GDP (QoQ) (Q2) |  | 0.5% | 0.1% |
+| 25 min | EUR | French GDP (YoY) |  | 0.9% | 0.8% |
+| 25 min | EUR | French HICP (MoM) |  | 0.9% | 0.0% |
+| 40 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 55 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:55 | EUR | German Unemployment Change (Aug) |  | 10K | -4K |
 | 15:55 | EUR | German Unemployment Rate (Aug) |  | 5.7% | 5.6% |
 | 17:00 | EUR | Core CPI (YoY) |  | 5.3% | 5.5% |
