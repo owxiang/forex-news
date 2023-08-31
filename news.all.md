@@ -29,14 +29,14 @@
 | 11:00 | NZD | Low | M3 Money Supply (Jul) | 403.4B |  | 399.1B |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Jul) | 8.7% | 2.1% | 8.6% |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Jul) | -6.7% | -0.8% | -4.8% |
-| 14:00 | EUR | Low | German Retail Sales (YoY) (Jul) | -2.2% | -1.0% | -1.6% |
 | 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jul) | -0.8% | 0.3% | -0.8% |
+| 14:00 | EUR | Low | German Retail Sales (YoY) (Jul) | -2.2% | -1.0% | -1.6% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Jul) | -2.2% |  | 1.0% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.3% | 0.9% |
-| 14:45 | EUR | Low | French CPI (YoY) (Aug) | 4.8% | 4.6% | 4.3% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 0.8% | 0.1% |
-| 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
+| 14:45 | EUR | Low | French CPI (YoY) (Aug) | 4.8% | 4.6% | 4.3% |
 | 14:45 | EUR | Moderate | French GDP (YoY) | 0.9% |  | 0.9% |
+| 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) | 1.1% | 0.9% | 0.0% |
 | 14:45 | EUR | Low | French HICP (YoY) | 5.7% | 5.4% | 5.1% |
 | 14:45 | EUR | Low | French PPI (MoM) (Jul) | -0.2% | -3.3% | -1.1% |
@@ -53,8 +53,8 @@
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
 | 16:30 | HKD | Low | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
 | 17:00 | EUR | Low | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
@@ -65,26 +65,26 @@
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 6.2% |  | 6.6% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.3% |  | 0.0% |
 | 17:00 | EUR | Moderate | Unemployment Rate (Jul) | 6.4% | 6.4% | 6.4% |
-| 17:30 | ZAR | Low | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 17:30 | ZAR | Low | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
-| 14 min | INR | Low | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -8.2% |
-| 19:30 | USD | Low | Challenger Job Cuts (Aug) |  |  | 23.697K |
-| 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Jul) |  |  | 59.1% |
-| 19:30 | BRL | Low | Budget Balance (Jul) |  |  | -89.625B |
-| 19:30 | BRL | Low | Budget Surplus (Jul) |  | -73.500B | -48.899B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jul) |  | 73.9% | 73.6% |
-| 19:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 20:00 | MXN | Low | Unemployment Rate (Jul) |  |  | 2.70% |
-| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Jul) |  | 2.80% | 2.70% |
-| 20:00 | INR | Moderate | GDP Quarterly (YoY) (Q1) |  | 7.7% | 6.1% |
-| 20:00 | INR | Low | Infrastructure Output (YoY) (Jul) |  |  | 8.2% |
-| 20:00 | BRL | Moderate | Unemployment Rate |  | 7.9% | 8.0% |
-| 20:00 | ZAR | Low | Trade Balance (Jul) |  | -1.25B | -3.54B |
+| 17:30 | ZAR | Low | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
+| 18:40 | INR | Low | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
+| 17 min | USD | Low | Challenger Job Cuts (Aug) |  |  | 23.697K |
+| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -8.2% |
+| 17 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Jul) |  |  | 59.1% |
+| 17 min | BRL | Low | Budget Balance (Jul) |  |  | -89.625B |
+| 17 min | BRL | Low | Budget Surplus (Jul) |  | -73.500B | -48.899B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jul) |  | 73.9% | 73.6% |
+| 17 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 47 min | MXN | Low | Unemployment Rate (Jul) |  |  | 2.70% |
+| 47 min | MXN | Low | Unemployment Rate n.s.a. (Jul) |  | 2.80% | 2.70% |
+| 47 min | INR | Moderate | GDP Quarterly (YoY) (Q1) |  | 7.7% | 6.1% |
+| 47 min | INR | Low | Infrastructure Output (YoY) (Jul) |  |  | 8.2% |
+| 47 min | BRL | Moderate | Unemployment Rate |  | 7.9% | 8.0% |
+| 47 min | ZAR | Low | Trade Balance (Jul) |  | -1.25B | -3.54B |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,703K | 1,702K |
-| 20:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | High | Core PCE Price Index (YoY) (Jul) |  | 4.2% | 4.1% |
+| 20:30 | USD | High | Core PCE Price Index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | High | Initial Jobless Claims |  | 235K | 230K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  | 235.51K | 236.75K |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Jul) |  | 3.3% | 3.0% |

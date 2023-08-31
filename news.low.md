@@ -37,27 +37,27 @@
 | 16:00 | NOK | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
 | 16:30 | HKD | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
 | 16:30 | HKD | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
-| 17:00 | EUR | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
+| 17:00 | EUR | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
 | 17:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
 | 17:00 | EUR | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
 | 17:00 | EUR | CPI, n.s.a (Aug) | 124.05 |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 6.2% |  | 6.6% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.3% |  | 0.0% |
-| 17:30 | ZAR | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 17:30 | ZAR | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
-| 14 min | INR | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
-| 19:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.2% |
-| 19:30 | USD | Challenger Job Cuts (Aug) |  |  | 23.697K |
-| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 19:30 | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 59.1% |
-| 19:30 | BRL | Budget Balance (Jul) |  |  | -89.625B |
-| 19:30 | BRL | Budget Surplus (Jul) |  | -73.500B | -48.899B |
-| 20:00 | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
-| 20:00 | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.80% | 2.70% |
-| 20:00 | INR | Infrastructure Output (YoY) (Jul) |  |  | 8.2% |
-| 20:00 | ZAR | Trade Balance (Jul) |  | -1.25B | -3.54B |
+| 17:30 | ZAR | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
+| 18:40 | INR | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
+| 17 min | USD | Challenger Job Cuts (Aug) |  |  | 23.697K |
+| 17 min | USD | Challenger Job Cuts (YoY) |  |  | -8.2% |
+| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 17 min | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 59.1% |
+| 17 min | BRL | Budget Balance (Jul) |  |  | -89.625B |
+| 17 min | BRL | Budget Surplus (Jul) |  | -73.500B | -48.899B |
+| 47 min | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
+| 47 min | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.80% | 2.70% |
+| 47 min | INR | Infrastructure Output (YoY) (Jul) |  |  | 8.2% |
+| 47 min | ZAR | Trade Balance (Jul) |  | -1.25B | -3.54B |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,703K | 1,702K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.51K | 236.75K |
 | 20:30 | USD | Personal Income (MoM) (Jul) |  | 0.3% | 0.3% |
