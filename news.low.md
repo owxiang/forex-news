@@ -21,11 +21,11 @@
 | 09:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 1.9% | -0.1% | 4.2% |
 | 09:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
 | 11:00 | NZD | M3 Money Supply (Jul) | 403,358.0M |  | 399,129.0M |
-| 42 min | JPY | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
-| 42 min | JPY | Housing Starts (YoY) (Jul) |  | -0.8% | -4.8% |
-| 14:00 | EUR | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
-| 14:00 | EUR | German Import Price Index (YoY) (Jul) |  |  | -11.4% |
-| 14:00 | EUR | German Retail Sales (YoY) (Jul) |  | -1.0% | -1.6% |
+| 13:00 | JPY | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
+| 13:00 | JPY | Housing Starts (YoY) (Jul) | -6.7% | -0.8% | -4.8% |
+| 46 min | EUR | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
+| 46 min | EUR | German Import Price Index (YoY) (Jul) |  |  | -11.4% |
+| 46 min | EUR | German Retail Sales (YoY) (Jul) |  | -1.0% | -1.6% |
 | 14:30 | CHF | Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 14:45 | EUR | French CPI (YoY) (Aug) |  | 4.6% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) |  | 5.4% | 5.1% |

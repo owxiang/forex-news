@@ -7,9 +7,9 @@
 | 09:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
 | 09:30 | CNY | Chinese Composite PMI (Aug) | 51.3 |  | 51.1 |
 | 09:30 | CNY | Non-Manufacturing PMI (Aug) | 51.0 | 51.1 | 51.5 |
-| 14:00 | GBP | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
-| 14:00 | GBP | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
-| 14:00 | EUR | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
+| 46 min | GBP | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
+| 46 min | GBP | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
+| 46 min | EUR | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
 | 14:45 | EUR | French Consumer Spending (MoM) (Jul) |  | 0.3% | 0.9% |
 | 14:45 | EUR | French CPI (MoM) (Aug) |  | 0.8% | 0.1% |
 | 14:45 | EUR | French GDP (YoY) |  | 0.9% | 0.8% |

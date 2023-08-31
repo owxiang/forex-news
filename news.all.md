@@ -27,14 +27,14 @@
 | 09:30 | CNY | High | Manufacturing PMI (Aug) | 49.7 | 49.4 | 49.3 |
 | 09:30 | CNY | Moderate | Non-Manufacturing PMI (Aug) | 51.0 | 51.1 | 51.5 |
 | 11:00 | NZD | Low | M3 Money Supply (Jul) | 403,358.0M |  | 399,129.0M |
-| 42 min | JPY | Low | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
-| 42 min | JPY | Low | Housing Starts (YoY) (Jul) |  | -0.8% | -4.8% |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
-| 14:00 | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
-| 14:00 | EUR | Low | German Import Price Index (YoY) (Jul) |  |  | -11.4% |
-| 14:00 | EUR | Low | German Retail Sales (YoY) (Jul) |  | -1.0% | -1.6% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
+| 13:00 | JPY | Low | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
+| 13:00 | JPY | Low | Housing Starts (YoY) (Jul) | -6.7% | -0.8% | -4.8% |
+| 46 min | GBP | Moderate | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
+| 46 min | GBP | Moderate | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
+| 46 min | EUR | Low | German Import Price Index (MoM) (Jul) |  | 0.0% | -1.6% |
+| 46 min | EUR | Low | German Import Price Index (YoY) (Jul) |  |  | -11.4% |
+| 46 min | EUR | Low | German Retail Sales (YoY) (Jul) |  | -1.0% | -1.6% |
+| 46 min | EUR | Moderate | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Jul) |  |  | 1.8% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) |  | 0.3% | 0.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 0.8% | 0.1% |
