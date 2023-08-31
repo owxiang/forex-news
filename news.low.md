@@ -48,22 +48,22 @@
 | 17:30 | ZAR | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
 | 17:30 | ZAR | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 18:40 | INR | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
-| 17 min | USD | Challenger Job Cuts (Aug) |  |  | 23.697K |
-| 17 min | USD | Challenger Job Cuts (YoY) |  |  | -8.2% |
-| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 17 min | BRL | Net Debt-to-GDP ratio (Jul) |  |  | 59.1% |
-| 17 min | BRL | Budget Balance (Jul) |  |  | -89.625B |
-| 17 min | BRL | Budget Surplus (Jul) |  | -73.500B | -48.899B |
-| 47 min | MXN | Unemployment Rate (Jul) |  |  | 2.70% |
-| 47 min | MXN | Unemployment Rate n.s.a. (Jul) |  | 2.80% | 2.70% |
-| 47 min | INR | Infrastructure Output (YoY) (Jul) |  |  | 8.2% |
-| 47 min | ZAR | Trade Balance (Jul) |  | -1.25B | -3.54B |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,703K | 1,702K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  | 235.51K | 236.75K |
-| 20:30 | USD | Personal Income (MoM) (Jul) |  | 0.3% | 0.3% |
-| 20:30 | USD | Real Personal Consumption (MoM) (Jul) |  | 0.0% | 0.4% |
+| 19:30 | USD | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
+| 19:30 | USD | Challenger Job Cuts (Aug) | 75.151K |  | 23.697K |
+| 19:30 | INR | Infrastructure Output (YoY) (Jul) | 8.0% | 4.2% | 8.3% |
+| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Jul) | 59.6% |  | 59.1% |
+| 19:30 | BRL | Budget Balance (Jul) | -81.914B |  | -89.625B |
+| 19:30 | BRL | Budget Surplus (Jul) | -35.809B | -73.500B | -48.899B |
+| 20:00 | MXN | Unemployment Rate (Jul) | 2.90% |  | 2.70% |
+| 20:00 | MXN | Unemployment Rate n.s.a. (Jul) | 3.10% | 2.80% | 2.70% |
+| 20:00 | ZAR | Trade Balance (Jul) | 15.96B | -1.25B | -3.54B |
+| 20:30 | USD | Continuing Jobless Claims | 1,725K | 1,703K | 1,697K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 237.50K | 235.51K | 237.25K |
+| 20:30 | USD | Personal Income (MoM) (Jul) | 0.2% | 0.3% | 0.3% |
+| 20:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.6% | 0.0% | 0.4% |
 | 20:30 | CAD | Average Weekly Earnings (YoY) (Jun) |  |  | 3.6 |
-| 21:00 | USD | Fed Collins Speaks |  |  |  |
+| 30 min | USD | Fed Collins Speaks |  |  |  |
 | 22:00 | USD | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
 | 22:30 | USD | Natural Gas Storage |  | 25B | 18B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
