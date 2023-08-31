@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | BRL | Low | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
 | 04:15 | MXN | Low | Fiscal Balance (Jul) | -473.00B |  | -395.20B |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Jul) | -8.0% | -5.2% | -5.9% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Jul) | -2.0% | -0.4% | -1.5% |
+| 07:00 | KRW | Low | Industrial Production (YoY) (Jul) | -8.0% | -5.2% | -5.9% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Jul) | -3.2% | 0.0% | 0.9% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Jul) | 0.4% | 0.0% | 0.5% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 425.1B |  | -275.2B |
@@ -29,12 +29,12 @@
 | 11:00 | NZD | Low | M3 Money Supply (Jul) | 403.4B |  | 399.1B |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Jul) | 8.7% | 2.1% | 8.6% |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Jul) | -6.7% | -0.8% | -4.8% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jul) | -0.8% | 0.3% | -0.8% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Jul) | -2.2% | -1.0% | -1.6% |
+| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Jul) | -0.8% | 0.3% | -0.8% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Jul) | -2.2% |  | 1.0% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Jul) | 0.3% | 0.3% | 0.9% |
-| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 0.8% | 0.1% |
 | 14:45 | EUR | Low | French CPI (YoY) (Aug) | 4.8% | 4.6% | 4.3% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 0.8% | 0.1% |
 | 14:45 | EUR | Moderate | French GDP (YoY) | 0.9% |  | 0.9% |
 | 14:45 | EUR | Moderate | French GDP (QoQ) (Q2) | 0.5% | 0.5% | 0.1% |
 | 14:45 | EUR | Low | French HICP (YoY) | 5.7% | 5.4% | 5.1% |
@@ -53,8 +53,8 @@
 | 16:00 | NOK | Low | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
 | 16:30 | HKD | Low | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
 | 17:00 | EUR | Low | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
@@ -68,8 +68,8 @@
 | 17:30 | ZAR | Low | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
 | 17:30 | ZAR | Low | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 18:40 | INR | Low | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
 | 19:30 | USD | Low | Challenger Job Cuts (Aug) | 75.151K |  | 23.697K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
 | 19:30 | INR | Low | Infrastructure Output (YoY) (Jul) | 8.0% | 4.2% | 8.3% |
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Jul) | 59.6% |  | 59.1% |
@@ -87,16 +87,16 @@
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
 | 20:30 | USD | High | Initial Jobless Claims | 228K | 235K | 232K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 237.50K | 235.51K | 237.25K |
-| 20:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 3.3% | 3.3% | 3.0% |
 | 20:30 | USD | Moderate | PCE price index (MoM) (Jul) | 0.2% | 0.2% | 0.2% |
+| 20:30 | USD | Moderate | PCE Price index (YoY) (Jul) | 3.3% | 3.3% | 3.0% |
 | 20:30 | USD | Low | Personal Income (MoM) (Jul) | 0.2% | 0.3% | 0.3% |
 | 20:30 | USD | Moderate | Personal Spending (MoM) (Jul) | 0.8% | 0.7% | 0.6% |
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Jul) | 0.6% | 0.0% | 0.4% |
-| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Jun) |  |  | 3.6 |
+| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Jun) | 3.6 |  | 3.6 |
 | 20:30 | CAD | Moderate | Current Account (Q2) | -6.6B | -11.2B | -3.2B |
-| 30 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 21:45 | USD | Moderate | Chicago PMI (Aug) |  | 44.1 | 42.8 |
-| 22:00 | USD | Low | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
+| 21:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 26 min | USD | Moderate | Chicago PMI (Aug) |  | 44.1 | 42.8 |
+| 41 min | USD | Low | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
 | 22:30 | USD | Low | Natural Gas Storage |  | 25B | 18B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |

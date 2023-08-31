@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 1.922B | 2.216B | 3.790B |
 | 04:15 | MXN | Fiscal Balance (Jul) | -473.00B |  | -395.20B |
-| 07:00 | KRW | Industrial Production (YoY) (Jul) | -8.0% | -5.2% | -5.9% |
 | 07:00 | KRW | Industrial Production (MoM) (Jul) | -2.0% | -0.4% | -1.5% |
+| 07:00 | KRW | Industrial Production (YoY) (Jul) | -8.0% | -5.2% | -5.9% |
 | 07:00 | KRW | Retail Sales (MoM) (Jul) | -3.2% | 0.0% | 0.9% |
 | 07:00 | KRW | Service Sector Output (MoM) (Jul) | 0.4% | 0.0% | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying | 425.1B |  | -275.2B |
@@ -37,8 +37,8 @@
 | 16:00 | NOK | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
 | 16:30 | HKD | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
 | 16:30 | HKD | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
-| 17:00 | EUR | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
 | 17:00 | EUR | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
+| 17:00 | EUR | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
 | 17:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
 | 17:00 | EUR | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
@@ -48,8 +48,8 @@
 | 17:30 | ZAR | PPI (MoM) (Jul) | 0.2% | 0.4% | -0.3% |
 | 17:30 | ZAR | PPI (YoY) (Jul) | 2.7% | 2.9% | 4.8% |
 | 18:40 | INR | Federal Fiscal Deficit (Jul) | 6,055.93B |  | 4,513.70B |
-| 19:30 | USD | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
 | 19:30 | USD | Challenger Job Cuts (Aug) | 75.151K |  | 23.697K |
+| 19:30 | USD | Challenger Job Cuts (YoY) | 266.9% |  | -8.2% |
 | 19:30 | INR | Infrastructure Output (YoY) (Jul) | 8.0% | 4.2% | 8.3% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Jul) | 59.6% |  | 59.1% |
@@ -62,9 +62,9 @@
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 237.50K | 235.51K | 237.25K |
 | 20:30 | USD | Personal Income (MoM) (Jul) | 0.2% | 0.3% | 0.3% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Jul) | 0.6% | 0.0% | 0.4% |
-| 20:30 | CAD | Average Weekly Earnings (YoY) (Jun) |  |  | 3.6 |
-| 30 min | USD | Fed Collins Speaks |  |  |  |
-| 22:00 | USD | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
+| 20:30 | CAD | Average Weekly Earnings (YoY) (Jun) | 3.6 |  | 3.6 |
+| 21:00 | USD | Fed Collins Speaks |  |  |  |
+| 41 min | USD | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
 | 22:30 | USD | Natural Gas Storage |  | 25B | 18B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
