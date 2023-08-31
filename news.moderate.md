@@ -3,13 +3,13 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 40 min | EUR | German Buba Balz Speaks |  |  |  |
+| 01:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 8,139B |
 | 07:50 | JPY | Capital Spending (YoY) (Q2) |  | 5.4% | 11.0% |
 | 09:30 | AUD | Home Loans (MoM) |  | -1.0% | -2.8% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Aug) |  | 49.3 | 49.2 |
-| 14:00 | GBP | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
+| 14:00 | GBP | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
 | 14:30 | CHF | CPI (MoM) (Aug) |  | 0.2% | -0.1% |
 | 15:15 | EUR | HCOB Spain Manufacturing PMI (Aug) |  | 48.8 | 47.8 |
 | 15:30 | CHF | procure.ch PMI (Aug) |  | 40.0 | 38.5 |

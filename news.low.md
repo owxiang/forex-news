@@ -2,6 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 00:41 | USD | Dallas Fed PCE (Jul) | 2.40% |  | 2.60% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.177T |
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 49.4 | 49.6 |
 | 08:00 | KRW | Exports (YoY) (Aug) |  | -16.4% | -16.5% |
@@ -29,8 +30,8 @@
 | 18:00 | EUR | Car Registration (YoY) (Aug) |  |  | 10.70% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | FX Reserves, USD |  | 590.18B | 594.89B |
-| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 20:30 | USD | Government Payrolls (Aug) |  | -2.0K | 15.0K |
 | 20:30 | USD | Manufacturing Payrolls (Aug) |  | 1K | -2K |
