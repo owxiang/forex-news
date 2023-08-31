@@ -20,7 +20,7 @@
 | 09:30 | AUD | Housing Credit (Jul) | 0.3% | 0.3% | 0.3% |
 | 09:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 1.9% | -0.1% | 4.2% |
 | 09:30 | AUD | Private Sector Credit (MoM) (Jul) | 0.3% | 0.3% | 0.3% |
-| 11:00 | NZD | M3 Money Supply (Jul) | 403,358.0M |  | 399,129.0M |
+| 11:00 | NZD | M3 Money Supply (Jul) | 403.4B |  | 399.1B |
 | 13:00 | JPY | Construction Orders (YoY) (Jul) | 8.7% | 2.1% | 8.6% |
 | 13:00 | JPY | Housing Starts (YoY) (Jul) | -6.7% | -0.8% | -4.8% |
 | 14:00 | EUR | German Retail Sales (YoY) (Jul) | -2.2% | -1.0% | -1.6% |
@@ -35,18 +35,19 @@
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Jul) | 7.6% | 7.4% | 7.5% |
 | 16:00 | EUR | Spanish Current account (Jun) | 2.83B | 4.13B | 3.99B |
 | 16:00 | NOK | Central Bank Currency Purchase (Sep) | 1,100.0M |  | 1,000.0M |
-| 11 min | HKD | Retail Sales (YoY) (Jul) |  |  | 19.6% |
-| 41 min | EUR | Italian CPI (MoM) (Aug) |  | 0.1% | 0.0% |
-| 41 min | EUR | Italian CPI (YoY) (Aug) |  | 5.3% | 5.9% |
-| 41 min | EUR | Italian HICP (YoY) (Aug) |  | 5.6% | 6.3% |
-| 41 min | EUR | Italian HICP (MoM) (Aug) |  | 0.3% | -1.6% |
-| 41 min | EUR | Core CPI (MoM) |  | 0.3% | -0.1% |
-| 41 min | EUR | CPI, n.s.a (Aug) |  |  | 123.36 |
-| 41 min | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.5% | 6.6% |
-| 41 min | EUR | HICP ex Energy and Food (MoM) |  |  | 0.0% |
-| 17:30 | ZAR | PPI (MoM) (Jul) |  | 0.4% | -0.3% |
-| 17:30 | ZAR | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
-| 18:00 | INR | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
+| 16:30 | HKD | M3 Money Supply (Jul) | 0.3% |  | -0.1% |
+| 16:30 | HKD | Retail Sales (YoY) (Jul) | 16.5% |  | 19.6% |
+| 17:00 | EUR | Italian CPI (YoY) (Aug) | 5.5% | 5.3% | 5.9% |
+| 17:00 | EUR | Italian CPI (MoM) (Aug) | 0.4% | 0.1% | 0.0% |
+| 17:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.3% | -1.6% |
+| 17:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.6% | 6.3% |
+| 17:00 | EUR | Core CPI (MoM) | 0.3% | 0.3% | -0.1% |
+| 17:00 | EUR | CPI, n.s.a (Aug) | 124.05 |  | 123.36 |
+| 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 6.2% | 6.5% | 6.6% |
+| 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.3% |  | 0.0% |
+| 15 min | ZAR | PPI (MoM) (Jul) |  | 0.4% | -0.3% |
+| 15 min | ZAR | PPI (YoY) (Jul) |  | 2.9% | 4.8% |
+| 45 min | INR | Federal Fiscal Deficit (Jul) |  |  | 4,513.70B |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | USD | Challenger Job Cuts (Aug) |  |  | 23.697K |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | -8.2% |
@@ -64,7 +65,7 @@
 | 20:30 | USD | Real Personal Consumption (MoM) (Jul) |  | 0.0% | 0.4% |
 | 20:30 | CAD | Average Weekly Earnings (YoY) (Jun) |  |  | 3.6 |
 | 21:00 | USD | Fed Collins Speaks |  |  |  |
+| 22:00 | USD | Dallas Fed PCE (Jul) |  | 3.90% | 2.50% |
 | 22:30 | USD | Natural Gas Storage |  | 25B | 18B |
-| 22:57 | USD | Dallas Fed PCE (Jul) |  |  | 2.50% |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |

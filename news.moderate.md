@@ -17,15 +17,15 @@
 | 15:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:55 | EUR | German Unemployment Change (Aug) | 18K | 10K | -4K |
 | 15:55 | EUR | German Unemployment Rate (Aug) | 5.7% | 5.7% | 5.6% |
-| 41 min | EUR | Core CPI (YoY) |  | 5.3% | 5.5% |
-| 41 min | EUR | CPI (MoM) |  | -0.1% | -0.1% |
-| 41 min | EUR | Unemployment Rate (Jul) |  | 6.4% | 6.4% |
+| 17:00 | EUR | Core CPI (YoY) | 5.3% | 5.3% | 5.5% |
+| 17:00 | EUR | CPI (MoM) | 0.6% | 0.4% | -0.1% |
+| 17:00 | EUR | Unemployment Rate (Jul) | 6.4% | 6.4% | 6.4% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jul) |  | 73.9% | 73.6% |
 | 19:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 20:00 | INR | GDP Quarterly (YoY) (Q1) |  | 7.7% | 6.1% |
 | 20:00 | BRL | Unemployment Rate |  | 7.9% | 8.0% |
-| 20:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | PCE Price index (YoY) (Jul) |  | 3.3% | 3.0% |
+| 20:30 | USD | PCE price index (MoM) (Jul) |  | 0.2% | 0.2% |
 | 20:30 | USD | Personal Spending (MoM) (Jul) |  | 0.7% | 0.5% |
 | 20:30 | CAD | Current Account (Q2) |  | -11.2B | -6.2B |
 | 21:45 | USD | Chicago PMI (Aug) |  | 44.1 | 42.8 |
