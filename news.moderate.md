@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:50 | JPY | Industrial Production (MoM) (Jul) | -2.0% | -1.4% | 2.4% |
-| 23 min | AUD | Private New Capital Expenditure (QoQ) (Q2) |  | 1.1% | 2.4% |
-| 23 min | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
-| 23 min | CNY | Chinese Composite PMI (Aug) |  |  | 51.1 |
-| 23 min | CNY | Non-Manufacturing PMI (Aug) |  | 51.1 | 51.5 |
+| 09:30 | AUD | Private New Capital Expenditure (QoQ) (Q2) | 2.8% | 1.1% | 2.4% |
+| 09:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
+| 09:30 | CNY | Chinese Composite PMI (Aug) | 51.3 |  | 51.1 |
+| 09:30 | CNY | Non-Manufacturing PMI (Aug) | 51.0 | 51.1 | 51.5 |
 | 14:00 | GBP | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
 | 14:00 | GBP | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
 | 14:00 | EUR | German Retail Sales (MoM) (Jul) |  | 0.3% | -0.8% |

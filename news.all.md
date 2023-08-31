@@ -17,16 +17,16 @@
 | 07:50 | JPY | Low | Retail Sales (YoY) (Jul) | 6.8% | 5.4% | 5.6% |
 | 09:00 | NZD | Low | ANZ Business Confidence (Aug) | -3.7 | -1.9 | -13.1 |
 | 09:00 | NZD | Low | NBNZ Own Activity (Aug) | 11.2% | 1.7% | 0.8% |
-| 23 min | AUD | Low | Building Capital Expenditure (MoM) (Q2) |  | -0.4% | 1.3% |
-| 23 min | AUD | Low | Housing Credit (Jul) |  |  | 0.2% |
-| 23 min | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) |  | -0.1% | 3.7% |
-| 23 min | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) |  | 1.1% | 2.4% |
-| 23 min | AUD | Low | Private Sector Credit (MoM) (Jul) |  | 0.3% | 0.2% |
-| 23 min | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
-| 23 min | CNY | Moderate | Chinese Composite PMI (Aug) |  |  | 51.1 |
-| 23 min | CNY | High | Manufacturing PMI (Aug) |  | 49.5 | 49.3 |
-| 23 min | CNY | Moderate | Non-Manufacturing PMI (Aug) |  | 51.1 | 51.5 |
-| 11:00 | NZD | Low | M3 Money Supply (Jul) |  |  | 399,129.0M |
+| 09:30 | AUD | Low | Building Capital Expenditure (MoM) (Q2) | 3.5% | -0.4% | 1.3% |
+| 09:30 | AUD | Low | Housing Credit (Jul) | 0.3% |  | 0.2% |
+| 09:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q2) | 1.9% | -0.1% | 4.2% |
+| 09:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q2) | 2.8% | 1.1% | 2.4% |
+| 09:30 | AUD | Low | Private Sector Credit (MoM) (Jul) | 0.3% | 0.3% | 0.2% |
+| 09:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
+| 09:30 | CNY | Moderate | Chinese Composite PMI (Aug) | 51.3 |  | 51.1 |
+| 09:30 | CNY | High | Manufacturing PMI (Aug) | 49.7 | 49.5 | 49.3 |
+| 09:30 | CNY | Moderate | Non-Manufacturing PMI (Aug) | 51.0 | 51.1 | 51.5 |
+| 40 min | NZD | Low | M3 Money Supply (Jul) |  |  | 399,129.0M |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Jul) |  | 2.1% | 8.6% |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Jul) |  | -0.8% | -4.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
