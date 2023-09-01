@@ -34,8 +34,8 @@
 | 10:00 | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
 | 10:00 | IDR | Low | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Aug) | 58.6 | 57.5 | 57.7 |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | -0.8% | -0.3% | -0.3% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -3.9% | -3.8% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | -0.8% | -0.3% | -0.3% |
 | 14:30 | CHF | Low | CPI (YoY) (Aug) | 1.6% | 1.5% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Aug) | 0.2% | 0.2% | -0.1% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) | -23.2% |  | -23.8% |
@@ -52,32 +52,32 @@
 | 16:00 | NOK | Low | Unemployment Rate n.s.a. (Aug) | 1.90% | 1.80% | 1.80% |
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.5 | 43.7 | 42.7 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 43.0 | 42.5 | 45.3 |
-| 17:00 | EUR | Low | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
 | 17:00 | EUR | Low | Italian PPI (YoY) (Jul) | -10.2% |  | -5.5% |
+| 17:00 | EUR | Low | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
 | 18:30 | EUR | Low | Car Registration (MoM) (Aug) | -31.10% |  | -19.70% |
 | 18:30 | EUR | Low | Car Registration (YoY) (Aug) | 7.80% |  | 10.70% |
-| 17 min | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
-| 47 min | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
-| 47 min | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
-| 47 min | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
-| 47 min | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.4% |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 4.4% | 4.4% |
-| 20:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
-| 20:30 | USD | Low | Government Payrolls (Aug) |  | -2.0K | 15.0K |
-| 20:30 | USD | Low | Manufacturing Payrolls (Aug) |  | 0K | -2K |
-| 20:30 | USD | High | Nonfarm Payrolls (Aug) |  | 170K | 187K |
-| 20:30 | USD | Moderate | Participation Rate (Aug) |  | 62.6% | 62.6% |
-| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) |  | 150K | 172K |
-| 20:30 | USD | Low | U6 Unemployment Rate (Aug) |  | 6.8% | 6.7% |
-| 20:30 | USD | High | Unemployment Rate (Aug) |  | 3.5% | 3.5% |
-| 20:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) |  | 1.50% | 0.20% |
-| 20:30 | CAD | Moderate | GDP (MoM) (Jun) |  | -0.2% | 0.3% |
-| 20:30 | CAD | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.8% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q2) | 3.4% | 2.7% | 4.0% |
+| 20:00 | BRL | Moderate | GDP (QoQ) (Q2) | 0.9% | 0.3% | 1.9% |
+| 20:10 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -3.10% |  | 1.30% |
+| 20:10 | ZAR | Low | Total Vehicle Sales (Aug) | 45.68K |  | 43.39K |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 4.3% | 4.4% | 4.4% |
+| 20:30 | USD | Low | Average Weekly Hours (Aug) | 34.4 | 34.3 | 34.3 |
+| 20:30 | USD | Low | Government Payrolls (Aug) | 8.0K | -2.0K | 2.0K |
+| 20:30 | USD | Low | Manufacturing Payrolls (Aug) | 16K | 0K | -4K |
+| 20:30 | USD | High | Nonfarm Payrolls (Aug) | 187K | 170K | 157K |
+| 20:30 | USD | Moderate | Participation Rate (Aug) | 62.8% | 62.6% | 62.6% |
+| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Aug) | 179K | 150K | 155K |
+| 20:30 | USD | Moderate | U6 Unemployment Rate (Aug) | 7.1% | 6.8% | 6.7% |
+| 20:30 | USD | High | Unemployment Rate (Aug) | 3.8% | 3.5% | 3.5% |
+| 20:30 | CAD | Low | GDP Implicit Price (QoQ) (Q2) | 0.70% | 1.50% | 0.20% |
+| 20:30 | CAD | Moderate | GDP (MoM) (Jun) | -0.2% | -0.2% | 0.2% |
+| 20:30 | CAD | Moderate | GDP (QoQ) (Q2) | 0.0% | 0.3% | 0.6% |
 | 20:30 | CAD | Moderate | GDP (YoY) (Q2) |  |  | 2.21% |
-| 20:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) |  | 1.2% | 3.1% |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Aug) |  | 47.2 | 47.8 |
-| 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Aug) |  | 49.2 | 49.6 |
+| 20:30 | CAD | Moderate | GDP Annualized (QoQ) (Q2) | -0.2% | 1.2% | 2.6% |
+| 29 min | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
+| 29 min | BRL | Low | S&P Global Manufacturing PMI (Aug) |  | 47.2 | 47.8 |
+| 59 min | CAD | Low | S&P Global Canada Manufacturing PMI (Aug) |  | 49.2 | 49.6 |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Aug) |  | 47.0 | 49.0 |
 | 22:00 | USD | Low | Construction Spending (MoM) (Jul) |  | 0.5% | 0.5% |
 | 22:00 | USD | Moderate | ISM Manufacturing Employment (Aug) |  | 44.2 | 44.4 |
