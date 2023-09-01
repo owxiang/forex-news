@@ -24,9 +24,9 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Aug) | 49.6 | 49.7 | 49.6 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Aug) | 53.9 |  | 53.3 |
 | 09:30 | AUD | Invest Housing Finance (MoM) | -0.1% |  | 1.3% |
-| 12:00 | IDR | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
-| 12:00 | IDR | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
-| 12:00 | IDR | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
+| 44 min | IDR | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
+| 44 min | IDR | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
+| 44 min | IDR | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Aug) |  | 57.5 | 57.7 |
 | 14:30 | CHF | CPI (YoY) (Aug) |  | 1.5% | 1.6% |
 | 14:30 | AUD | Commodity Prices (YoY) |  |  | -23.5% |
@@ -42,8 +42,8 @@
 | 18:00 | EUR | Car Registration (YoY) (Aug) |  |  | 10.70% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | FX Reserves, USD |  | 590.18B | 594.89B |
-| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 20:30 | USD | Government Payrolls (Aug) |  | -2.0K | 15.0K |
 | 20:30 | USD | Manufacturing Payrolls (Aug) |  | 1K | -2K |

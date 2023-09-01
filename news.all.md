@@ -30,9 +30,9 @@
 | 09:30 | AUD | Moderate | Home Loans (MoM) | -2.3% | -1.0% | -3.0% |
 | 09:30 | AUD | Low | Invest Housing Finance (MoM) | -0.1% |  | 1.3% |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Aug) | 51.0 | 49.3 | 49.2 |
-| 12:00 | IDR | Low | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
-| 12:00 | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
-| 12:00 | IDR | Low | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
+| 44 min | IDR | Low | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
+| 44 min | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
+| 44 min | IDR | Low | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Aug) |  | 57.5 | 57.7 |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
@@ -60,10 +60,10 @@
 | 19:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
 | 19:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
 | 19:30 | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.4% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 4.4% | 4.4% |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 20:30 | USD | Low | Government Payrolls (Aug) |  | -2.0K | 15.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Aug) |  | 1K | -2K |
