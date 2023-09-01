@@ -25,25 +25,25 @@
 | 08:30 | IDR | Nikkei Manufacturing PMI (Aug) | 53.9 |  | 53.3 |
 | 09:30 | AUD | Invest Housing Finance (MoM) | -0.1% |  | 1.3% |
 | 10:00 | IDR | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
-| 10:00 | IDR | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
 | 10:00 | IDR | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
+| 10:00 | IDR | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Aug) | 58.6 | 57.5 | 57.7 |
-| 10 min | CHF | CPI (YoY) (Aug) |  | 1.5% | 1.6% |
-| 10 min | AUD | Commodity Prices (YoY) |  |  | -23.5% |
-| 25 min | EUR | French Government Budget Balance (Jul) |  |  | -116.2B |
-| 16:00 | EUR | Italian GDP (QoQ) (Q2) |  | -0.3% | 0.6% |
-| 16:00 | EUR | Italian GDP (YoY) (Q2) |  | 0.6% | 1.9% |
-| 16:00 | EUR | Italian PPI (MoM) (Jul) |  |  | -0.3% |
-| 16:00 | EUR | Italian PPI (YoY) (Jul) |  |  | -5.5% |
-| 16:00 | NOK | Manufacturing PMI (Aug) |  | 56.0 | 56.7 |
-| 16:00 | NOK | Unemployment Change (Aug) |  | 64.16K | 64.24K |
-| 16:00 | NOK | Unemployment Rate n.s.a. (Aug) |  | 1.80% | 1.80% |
-| 18:00 | EUR | Car Registration (MoM) (Aug) |  |  | -19.70% |
+| 14:30 | CHF | CPI (YoY) (Aug) | 1.6% | 1.5% | 1.6% |
+| 14:30 | AUD | Commodity Prices (YoY) | -23.2% |  | -23.8% |
+| 14:45 | EUR | French Government Budget Balance (Jul) | -169.0B |  | -116.2B |
+| 46 min | EUR | Italian GDP (YoY) (Q2) |  | 0.6% | 1.9% |
+| 46 min | EUR | Italian GDP (QoQ) (Q2) |  | -0.3% | 0.6% |
+| 46 min | EUR | Italian PPI (MoM) (Jul) |  |  | -0.3% |
+| 46 min | EUR | Italian PPI (YoY) (Jul) |  |  | -5.5% |
+| 46 min | NOK | Manufacturing PMI (Aug) |  | 56.0 | 56.7 |
+| 46 min | NOK | Unemployment Change (Aug) |  | 64.16K | 64.24K |
+| 46 min | NOK | Unemployment Rate n.s.a. (Aug) |  | 1.80% | 1.80% |
 | 18:00 | EUR | Car Registration (YoY) (Aug) |  |  | 10.70% |
+| 18:00 | EUR | Car Registration (MoM) (Aug) |  |  | -19.70% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 19:30 | INR | FX Reserves, USD |  | 590.18B | 594.89B |
-| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 20:30 | USD | Government Payrolls (Aug) |  | -2.0K | 15.0K |
 | 20:30 | USD | Manufacturing Payrolls (Aug) |  | 0K | -2K |
