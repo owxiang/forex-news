@@ -1,33 +1,15 @@
-## 01 September 2023 - Moderate Impact Forex News
+## 02 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 01:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet | 8,121B |  | 8,139B |
-| 07:50 | JPY | Capital Spending (YoY) (Q2) | 4.5% | 5.4% | 11.0% |
-| 09:30 | AUD | Home Loans (MoM) | -2.3% | -1.0% | -3.0% |
-| 09:45 | CNY | Caixin Manufacturing PMI (Aug) | 51.0 | 49.3 | 49.2 |
-| 14:00 | GBP | Nationwide HPI (MoM) | -0.8% | -0.3% | -0.3% |
-| 14:00 | GBP | Nationwide HPI (YoY) | -5.3% | -3.9% | -3.8% |
-| 14:30 | CHF | CPI (MoM) (Aug) | 0.2% | 0.2% | -0.1% |
-| 15:15 | EUR | HCOB Spain Manufacturing PMI (Aug) | 46.5 | 48.8 | 47.8 |
-| 15:30 | CHF | procure.ch PMI (Aug) | 39.9 | 40.0 | 38.5 |
-| 15:45 | EUR | HCOB Italy Manufacturing PMI (Aug) | 45.4 | 46.0 | 44.5 |
-| 15:50 | EUR | HCOB France Manufacturing PMI (Aug) | 46.0 | 46.4 | 45.1 |
-| 15:55 | EUR | HCOB Germany Manufacturing PMI (Aug) | 39.1 | 39.1 | 38.8 |
-| 16:00 | EUR | HCOB Eurozone Manufacturing PMI (Aug) | 43.5 | 43.7 | 42.7 |
-| 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Aug) | 43.0 | 42.5 | 45.3 |
-| 20:00 | BRL | GDP (YoY) (Q2) | 3.4% | 2.7% | 4.0% |
-| 20:00 | BRL | GDP (QoQ) (Q2) | 0.9% | 0.3% | 1.9% |
-| 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Aug) | 4.3% | 4.4% | 4.4% |
-| 20:30 | USD | Participation Rate (Aug) | 62.8% | 62.6% | 62.6% |
-| 20:30 | USD | Private Nonfarm Payrolls (Aug) | 179K | 150K | 155K |
-| 20:30 | USD | U6 Unemployment Rate (Aug) | 7.1% | 6.8% | 6.7% |
-| 20:30 | CAD | GDP (MoM) (Jun) | -0.2% | -0.2% | 0.2% |
-| 20:30 | CAD | GDP (QoQ) (Q2) | 0.0% | 0.3% | 0.6% |
-| 20:30 | CAD | GDP (YoY) (Q2) | 1.12% |  | 2.08% |
-| 20:30 | CAD | GDP Annualized (QoQ) (Q2) | -0.2% | 1.2% | 2.6% |
-| 20:35 | CAD | GDP (MoM) | 0.0% |  | -0.2% |
-| 21:45 | USD | S&P Global US Manufacturing PMI (Aug) | 47.9 | 47.0 | 49.0 |
-| 22:00 | USD | ISM Manufacturing Employment (Aug) | 48.5 | 44.2 | 44.4 |
+| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 512 |
+| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 632 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 59.1K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 234.4K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 101.9K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 13.8K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -133.5K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -63.8K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 18.2K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -95.3K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 158.8K |
