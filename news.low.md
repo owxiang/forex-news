@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 47 min | BRL | Trade Balance (Aug) |  | 9.75B | 9.04B |
+| 02:00 | BRL | Trade Balance (Aug) | 9.77B | 9.75B | 8.89B |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.9K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -24.6K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -51.5K |
