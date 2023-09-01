@@ -40,25 +40,25 @@
 | 14:30 | CHF | Moderate | CPI (MoM) (Aug) | 0.2% | 0.2% | -0.1% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) | -23.2% |  | -23.8% |
 | 14:45 | EUR | Low | French Government Budget Balance (Jul) | -169.0B |  | -116.2B |
-| 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) |  | 48.8 | 47.8 |
-| 16 min | CHF | Moderate | procure.ch PMI (Aug) |  | 40.0 | 38.5 |
-| 31 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) |  | 46.0 | 44.5 |
-| 36 min | EUR | Moderate | HCOB France Manufacturing PMI (Aug) |  | 46.4 | 45.1 |
-| 41 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) |  | 39.1 | 38.8 |
-| 46 min | EUR | Low | Italian GDP (YoY) (Q2) |  | 0.6% | 1.9% |
-| 46 min | EUR | Low | Italian GDP (QoQ) (Q2) |  | -0.3% | 0.6% |
-| 46 min | EUR | Low | Italian PPI (MoM) (Jul) |  |  | -0.3% |
-| 46 min | EUR | Low | Italian PPI (YoY) (Jul) |  |  | -5.5% |
-| 46 min | NOK | Low | Manufacturing PMI (Aug) |  | 56.0 | 56.7 |
-| 46 min | NOK | Low | Unemployment Change (Aug) |  | 64.16K | 64.24K |
-| 46 min | NOK | Low | Unemployment Rate n.s.a. (Aug) |  | 1.80% | 1.80% |
-| 46 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) |  | 43.7 | 42.7 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) |  | 42.5 | 45.3 |
+| 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Aug) | 46.5 | 48.8 | 47.8 |
+| 15:30 | CHF | Moderate | procure.ch PMI (Aug) | 39.9 | 40.0 | 38.5 |
+| 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) | 45.4 | 46.0 | 44.5 |
+| 15:50 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 46.0 | 46.4 | 45.1 |
+| 15:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 39.1 | 39.1 | 38.8 |
+| 16:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 1.9% |
+| 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.4% | -0.3% | 0.6% |
+| 16:00 | NOK | Low | Manufacturing PMI (Aug) | 51.4 | 56.0 | 56.4 |
+| 16:00 | NOK | Low | Unemployment Change (Aug) | 66.03K | 64.16K | 64.66K |
+| 16:00 | NOK | Low | Unemployment Rate n.s.a. (Aug) | 1.90% | 1.80% | 1.80% |
+| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.5 | 43.7 | 42.7 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) |  | 42.5 | 45.3 |
+| 40 min | EUR | Low | Italian PPI (YoY) (Jul) |  |  | -5.5% |
+| 40 min | EUR | Low | Italian PPI (MoM) (Jul) |  |  | -0.3% |
 | 18:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 10.70% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -19.70% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
 | 19:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
+| 19:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
 | 19:30 | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |

@@ -31,13 +31,13 @@
 | 14:30 | CHF | CPI (YoY) (Aug) | 1.6% | 1.5% | 1.6% |
 | 14:30 | AUD | Commodity Prices (YoY) | -23.2% |  | -23.8% |
 | 14:45 | EUR | French Government Budget Balance (Jul) | -169.0B |  | -116.2B |
-| 46 min | EUR | Italian GDP (YoY) (Q2) |  | 0.6% | 1.9% |
-| 46 min | EUR | Italian GDP (QoQ) (Q2) |  | -0.3% | 0.6% |
-| 46 min | EUR | Italian PPI (MoM) (Jul) |  |  | -0.3% |
-| 46 min | EUR | Italian PPI (YoY) (Jul) |  |  | -5.5% |
-| 46 min | NOK | Manufacturing PMI (Aug) |  | 56.0 | 56.7 |
-| 46 min | NOK | Unemployment Change (Aug) |  | 64.16K | 64.24K |
-| 46 min | NOK | Unemployment Rate n.s.a. (Aug) |  | 1.80% | 1.80% |
+| 16:00 | EUR | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 1.9% |
+| 16:00 | EUR | Italian GDP (QoQ) (Q2) | -0.4% | -0.3% | 0.6% |
+| 16:00 | NOK | Manufacturing PMI (Aug) | 51.4 | 56.0 | 56.4 |
+| 16:00 | NOK | Unemployment Change (Aug) | 66.03K | 64.16K | 64.66K |
+| 16:00 | NOK | Unemployment Rate n.s.a. (Aug) | 1.90% | 1.80% | 1.80% |
+| 40 min | EUR | Italian PPI (YoY) (Jul) |  |  | -5.5% |
+| 40 min | EUR | Italian PPI (MoM) (Jul) |  |  | -0.3% |
 | 18:00 | EUR | Car Registration (YoY) (Aug) |  |  | 10.70% |
 | 18:00 | EUR | Car Registration (MoM) (Aug) |  |  | -19.70% |
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
