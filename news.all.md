@@ -33,9 +33,9 @@
 | 10:00 | IDR | Low | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
 | 10:00 | IDR | Low | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
 | 10:00 | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
-| 42 min | INR | Low | S&P Global India Manufacturing PMI (Aug) |  | 57.5 | 57.7 |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
+| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Aug) | 58.6 | 57.5 | 57.7 |
+| 46 min | GBP | Moderate | Nationwide HPI (YoY) |  | -3.9% | -3.8% |
+| 46 min | GBP | Moderate | Nationwide HPI (MoM) |  | -0.3% | -0.2% |
 | 14:30 | CHF | Low | CPI (YoY) (Aug) |  | 1.5% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Aug) |  | 0.2% | -0.1% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.5% |
@@ -57,8 +57,8 @@
 | 18:00 | EUR | Low | Car Registration (YoY) (Aug) |  |  | 10.70% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Aug) |  |  | -19.70% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 19:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
 | 19:00 | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
+| 19:00 | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
 | 19:30 | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |

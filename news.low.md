@@ -27,7 +27,7 @@
 | 10:00 | IDR | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
 | 10:00 | IDR | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
 | 10:00 | IDR | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
-| 42 min | INR | S&P Global India Manufacturing PMI (Aug) |  | 57.5 | 57.7 |
+| 13:00 | INR | S&P Global India Manufacturing PMI (Aug) | 58.6 | 57.5 | 57.7 |
 | 14:30 | CHF | CPI (YoY) (Aug) |  | 1.5% | 1.6% |
 | 14:30 | AUD | Commodity Prices (YoY) |  |  | -23.5% |
 | 14:45 | EUR | French Government Budget Balance (Jul) |  |  | -116.2B |
