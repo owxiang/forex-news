@@ -31,8 +31,8 @@
 | 09:30 | AUD | Low | Invest Housing Finance (MoM) | -0.1% |  | 1.3% |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Aug) | 51.0 | 49.3 | 49.2 |
 | 10:00 | IDR | Low | Core Inflation (YoY) | 2.18% | 2.30% | 2.43% |
-| 10:00 | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
 | 10:00 | IDR | Low | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
+| 10:00 | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Aug) | 58.6 | 57.5 | 57.7 |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) | -0.8% | -0.3% | -0.3% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -3.9% | -3.8% |
@@ -45,22 +45,22 @@
 | 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Aug) | 45.4 | 46.0 | 44.5 |
 | 15:50 | EUR | Moderate | HCOB France Manufacturing PMI (Aug) | 46.0 | 46.4 | 45.1 |
 | 15:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Aug) | 39.1 | 39.1 | 38.8 |
-| 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.4% | -0.3% | 0.6% |
 | 16:00 | EUR | Low | Italian GDP (YoY) (Q2) | 0.4% | 0.6% | 1.9% |
+| 16:00 | EUR | Low | Italian GDP (QoQ) (Q2) | -0.4% | -0.3% | 0.6% |
 | 16:00 | NOK | Low | Manufacturing PMI (Aug) | 51.4 | 56.0 | 56.4 |
 | 16:00 | NOK | Low | Unemployment Change (Aug) | 66.03K | 64.16K | 64.66K |
 | 16:00 | NOK | Low | Unemployment Rate n.s.a. (Aug) | 1.90% | 1.80% | 1.80% |
 | 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Aug) | 43.5 | 43.7 | 42.7 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 43.0 | 42.5 | 45.3 |
-| 17:00 | EUR | Low | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
 | 17:00 | EUR | Low | Italian PPI (YoY) (Jul) | -10.2% |  | -5.5% |
-| 18:30 | EUR | Low | Car Registration (MoM) (Aug) | -31.10% |  | -19.70% |
+| 17:00 | EUR | Low | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
 | 18:30 | EUR | Low | Car Registration (YoY) (Aug) | 7.80% |  | 10.70% |
+| 18:30 | EUR | Low | Car Registration (MoM) (Aug) | -31.10% |  | -19.70% |
 | 19:30 | INR | Low | FX Reserves, USD | 594.86B |  | 594.89B |
 | 20:00 | BRL | Moderate | GDP (YoY) (Q2) | 3.4% | 2.7% | 4.0% |
 | 20:00 | BRL | Moderate | GDP (QoQ) (Q2) | 0.9% | 0.3% | 1.9% |
-| 20:10 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -3.10% |  | 1.30% |
 | 20:10 | ZAR | Low | Total Vehicle Sales (Aug) | 45.68K |  | 43.39K |
+| 20:10 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) | -3.10% |  | 1.30% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Aug) | 0.2% | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) | 4.3% | 4.4% | 4.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Aug) | 34.4 | 34.3 | 34.3 |
@@ -86,4 +86,4 @@
 | 22:00 | USD | Low | ISM Manufacturing New Orders Index (Aug) | 46.8 |  | 47.3 |
 | 22:00 | USD | High | ISM Manufacturing PMI (Aug) | 47.6 | 47.0 | 46.4 |
 | 22:00 | USD | High | ISM Manufacturing Prices (Aug) | 48.4 | 43.9 | 42.6 |
-| 46 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 50.90 |
+| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Aug) | 51.20 |  | 50.90 |
