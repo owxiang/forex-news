@@ -36,19 +36,20 @@
 | 16:00 | NOK | Manufacturing PMI (Aug) | 51.4 | 56.0 | 56.4 |
 | 16:00 | NOK | Unemployment Change (Aug) | 66.03K | 64.16K | 64.66K |
 | 16:00 | NOK | Unemployment Rate n.s.a. (Aug) | 1.90% | 1.80% | 1.80% |
-| 17:00 | EUR | Italian PPI (YoY) (Jul) | -10.2% |  | -5.5% |
 | 17:00 | EUR | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
+| 17:00 | EUR | Italian PPI (YoY) (Jul) | -10.2% |  | -5.5% |
 | 18:30 | EUR | Car Registration (MoM) (Aug) | -31.10% |  | -19.70% |
 | 18:30 | EUR | Car Registration (YoY) (Aug) | 7.80% |  | 10.70% |
+| 19:30 | INR | FX Reserves, USD | 594.86B |  | 594.89B |
 | 20:10 | ZAR | Total Vehicle Sales (YoY) (Aug) | -3.10% |  | 1.30% |
 | 20:10 | ZAR | Total Vehicle Sales (Aug) | 45.68K |  | 43.39K |
 | 20:30 | USD | Average Weekly Hours (Aug) | 34.4 | 34.3 | 34.3 |
 | 20:30 | USD | Government Payrolls (Aug) | 8.0K | -2.0K | 2.0K |
 | 20:30 | USD | Manufacturing Payrolls (Aug) | 16K | 0K | -4K |
 | 20:30 | CAD | GDP Implicit Price (QoQ) (Q2) | 0.70% | 1.50% | 0.20% |
-| 29 min | INR | FX Reserves, USD |  | 590.18B | 594.89B |
-| 29 min | BRL | S&P Global Manufacturing PMI (Aug) |  | 47.2 | 47.8 |
-| 59 min | CAD | S&P Global Canada Manufacturing PMI (Aug) |  | 49.2 | 49.6 |
-| 22:00 | USD | Construction Spending (MoM) (Jul) |  | 0.5% | 0.5% |
-| 22:00 | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 47.3 |
+| 21:00 | INR | FX Reserves, USD | 594.86B | 590.18B | 594.89B |
+| 21:00 | BRL | S&P Global Manufacturing PMI (Aug) | 50.1 | 47.2 | 47.8 |
+| 12 min | CAD | S&P Global Canada Manufacturing PMI (Aug) |  | 49.2 | 49.6 |
+| 42 min | USD | Construction Spending (MoM) (Jul) |  | 0.5% | 0.5% |
+| 42 min | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 47.3 |
 | 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 50.90 |
