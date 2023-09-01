@@ -49,7 +49,7 @@
 | 20:30 | CAD | GDP Implicit Price (QoQ) (Q2) | 0.70% | 1.50% | 0.20% |
 | 21:00 | INR | FX Reserves, USD | 594.86B | 590.18B | 594.89B |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Aug) | 50.1 | 47.2 | 47.8 |
-| 12 min | CAD | S&P Global Canada Manufacturing PMI (Aug) |  | 49.2 | 49.6 |
-| 42 min | USD | Construction Spending (MoM) (Jul) |  | 0.5% | 0.5% |
-| 42 min | USD | ISM Manufacturing New Orders Index (Aug) |  |  | 47.3 |
-| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 50.90 |
+| 21:30 | CAD | S&P Global Canada Manufacturing PMI (Aug) | 48.0 | 49.2 | 49.6 |
+| 22:00 | USD | Construction Spending (MoM) (Jul) | 0.7% | 0.5% | 0.6% |
+| 22:00 | USD | ISM Manufacturing New Orders Index (Aug) | 46.8 |  | 47.3 |
+| 46 min | MXN | S&P Global Mexico Manufacturing PMI (Aug) |  |  | 50.90 |
