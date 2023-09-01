@@ -38,12 +38,11 @@
 | 16:00 | NOK | Unemployment Rate n.s.a. (Aug) | 1.90% | 1.80% | 1.80% |
 | 17:00 | EUR | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
 | 17:00 | EUR | Italian PPI (YoY) (Jul) | -10.2% |  | -5.5% |
-| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 44 min | EUR | Car Registration (YoY) (Aug) |  |  | 10.70% |
-| 44 min | EUR | Car Registration (MoM) (Aug) |  |  | -19.70% |
-| 19:30 | INR | FX Reserves, USD |  | 590.18B | 594.89B |
-| 20:00 | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 18:30 | EUR | Car Registration (MoM) (Aug) | -31.10% |  | -19.70% |
+| 18:30 | EUR | Car Registration (YoY) (Aug) | 7.80% |  | 10.70% |
+| 17 min | INR | FX Reserves, USD |  | 590.18B | 594.89B |
+| 47 min | ZAR | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 47 min | ZAR | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:30 | USD | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
 | 20:30 | USD | Government Payrolls (Aug) |  | -2.0K | 15.0K |
 | 20:30 | USD | Manufacturing Payrolls (Aug) |  | 0K | -2K |

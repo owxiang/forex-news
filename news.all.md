@@ -34,8 +34,8 @@
 | 10:00 | IDR | Low | Inflation (MoM) | -0.02% | 0.10% | 0.21% |
 | 10:00 | IDR | Low | Inflation (YoY) | 3.27% | 3.33% | 3.08% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Aug) | 58.6 | 57.5 | 57.7 |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -3.9% | -3.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) | -0.8% | -0.3% | -0.3% |
+| 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -3.9% | -3.8% |
 | 14:30 | CHF | Low | CPI (YoY) (Aug) | 1.6% | 1.5% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Aug) | 0.2% | 0.2% | -0.1% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) | -23.2% |  | -23.8% |
@@ -54,14 +54,13 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Aug) | 43.0 | 42.5 | 45.3 |
 | 17:00 | EUR | Low | Italian PPI (MoM) (Jul) | -0.1% |  | -0.3% |
 | 17:00 | EUR | Low | Italian PPI (YoY) (Jul) | -10.2% |  | -5.5% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 44 min | EUR | Low | Car Registration (YoY) (Aug) |  |  | 10.70% |
-| 44 min | EUR | Low | Car Registration (MoM) (Aug) |  |  | -19.70% |
-| 44 min | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
-| 44 min | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
-| 19:30 | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 18:30 | EUR | Low | Car Registration (MoM) (Aug) | -31.10% |  | -19.70% |
+| 18:30 | EUR | Low | Car Registration (YoY) (Aug) | 7.80% |  | 10.70% |
+| 17 min | INR | Low | FX Reserves, USD |  | 590.18B | 594.89B |
+| 47 min | BRL | Moderate | GDP (YoY) (Q2) |  | 2.7% | 4.0% |
+| 47 min | BRL | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 1.9% |
+| 47 min | ZAR | Low | Total Vehicle Sales (YoY) (Aug) |  |  | 1.30% |
+| 47 min | ZAR | Low | Total Vehicle Sales (Aug) |  |  | 43.39K |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Aug) |  | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Aug) |  | 4.4% | 4.4% |
 | 20:30 | USD | Low | Average Weekly Hours (Aug) |  | 34.3 | 34.3 |
