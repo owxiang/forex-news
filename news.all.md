@@ -25,4 +25,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -98.5K |  | -95.3K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -10.4K |  | -6.5K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 146.7K |  | 158.8K |
-| 21:00 | SGD | Low | S&P Global Singapore PMI (Aug) |  |  | 49.8 |
+| 33 min | SGD | Low | S&P Global Singapore PMI (Aug) |  |  | 49.8 |
