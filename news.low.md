@@ -14,4 +14,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 73.9K |  | 73.7K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -4.5K |  | -3.9K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -10.4K |  | -6.5K |
-| 33 min | SGD | S&P Global Singapore PMI (Aug) |  |  | 49.8 |
+| 21:00 | SGD | S&P Global Singapore PMI (Aug) |  |  | 49.8 |
