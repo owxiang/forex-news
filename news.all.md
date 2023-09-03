@@ -22,8 +22,8 @@
 | 16:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -19.6 | -18.9 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 4.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 17.40% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 4.50% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.631% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.664% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
