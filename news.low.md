@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 32 min | NZD | Terms of Trade - Exports Prices (Q2) |  | -2.1% | -6.9% |
-| 32 min | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) |  |  | 1.0% |
-| 32 min | NZD | Terms of Trade - Imports Prices (Q2) |  | -1.4% | -5.4% |
-| 32 min | NZD | Terms of Trade Index (QoQ) (Q2) |  | -1.3% | -1.5% |
-| 07:50 | JPY | Monetary Base (YoY) (Aug) |  | -0.7% | -1.4% |
+| 06:45 | NZD | Terms of Trade - Exports Prices (Q2) | -0.6% | -2.1% | -6.9% |
+| 06:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q2) | 6.8% |  | 1.0% |
+| 06:45 | NZD | Terms of Trade - Imports Prices (Q2) | -1.0% | -1.4% | -5.5% |
+| 06:45 | NZD | Terms of Trade Index (QoQ) (Q2) | 0.4% | -1.3% | -1.5% |
+| 35 min | JPY | Monetary Base (YoY) (Aug) |  | -0.7% | -1.4% |
 | 09:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.8% |
 | 09:30 | AUD | ANZ Internet Job Ads (MoM) |  |  | -0.7% |
 | 09:30 | AUD | Business inventories (MoM) (Q2) |  | 0.9% | 1.2% |
