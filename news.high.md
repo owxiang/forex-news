@@ -1,3 +1,5 @@
-## 04 September 2023 - High Impact Forex News
+## 05 September 2023 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 12:30 | AUD | RBA Interest Rate Decision (Sep) |  | 4.10% | 4.10% |
