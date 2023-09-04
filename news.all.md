@@ -20,10 +20,10 @@
 | 15:00 | EUR | Moderate | Spanish Unemployment Change | 24.8K | -21.3K | -11.0K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | -0.20% |  | -0.14% |
 | 16:30 | EUR | Low | Sentix Investor Confidence (Sep) | -21.5 | -19.6 | -18.9 |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 17.40% |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 4.50% |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 17 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 47 min | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 4.50% |
+| 47 min | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 17.40% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.631% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.664% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
