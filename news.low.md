@@ -5,8 +5,8 @@
 | 05:00 | KRW | FX Reserves - USD (Aug) |  |  | 421.80B |
 | 07:00 | KRW | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
 | 07:00 | KRW | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
-| 07:00 | KRW | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
+| 07:00 | KRW | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
 | 07:00 | AUD | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.4 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.6% |
@@ -21,8 +21,8 @@
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.664% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.639% |
 | 17:00 | NOK | House Price Index (YoY) (Aug) |  |  | -0.20% |
-| 17:00 | EUR | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:00 | EUR | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
+| 17:00 | EUR | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:30 | ZAR | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |

@@ -5,12 +5,12 @@
 | 05:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 421.80B |
 | 07:00 | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
 | 07:00 | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
-| 07:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) |  | 2.2% | 1.8% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) |  | -2.5% | -4.2% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) |  | 0.7% | 0.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) |  | -2.5% | -4.2% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  | 54.3 | 53.8 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.4 |
 | 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.6% |
@@ -43,8 +43,8 @@
 | 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.639% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | -0.20% |
 | 17:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:00 | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
+| 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
