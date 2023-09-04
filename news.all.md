@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | FX Reserves - USD (Aug) |  |  | 421.80B |
-| 07:00 | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
+| 45 min | KRW | Low | FX Reserves - USD (Aug) |  |  | 421.80B |
 | 07:00 | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
+| 07:00 | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
 | 07:00 | KRW | Low | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
