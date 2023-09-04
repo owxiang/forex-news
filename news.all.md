@@ -15,15 +15,15 @@
 | 14:00 | EUR | Low | German Exports (MoM) (Jul) | -0.9% | -1.5% | 0.2% |
 | 14:00 | EUR | Low | German Imports (MoM) (Jul) | 1.4% | 0.5% | -3.2% |
 | 14:00 | EUR | Moderate | German Trade Balance (Jul) | 15.9B | 18.0B | 18.7B |
-| 15:00 | CHF | Moderate | GDP (YoY) (Q2) | 0.5% | 0.5% | 1.5% |
 | 15:00 | CHF | Moderate | GDP (QoQ) (Q2) | 0.0% | 0.1% | 0.3% |
+| 15:00 | CHF | Moderate | GDP (YoY) (Q2) | 0.5% | 0.5% | 1.5% |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change | 24.8K | -21.3K | -11.0K |
-| 45 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | -0.14% |
-| 16:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -19.6 | -18.9 |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) | -0.20% |  | -0.14% |
+| 10 min | EUR | Low | Sentix Investor Confidence (Sep) |  | -19.6 | -18.9 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 17.40% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) |  |  | 4.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) |  |  | 17.40% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.631% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.664% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.671% |
