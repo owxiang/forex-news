@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Aug) |  | 2.2% | 1.8% |
+| 48 min | GBP | BRC Retail Sales Monitor (YoY) (Aug) |  | 2.2% | 1.8% |
 | 07:30 | JPY | Household Spending (MoM) (Jul) |  | 0.7% | 0.9% |
 | 07:30 | JPY | Household Spending (YoY) (Jul) |  | -2.5% | -4.2% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Aug) |  | 54.3 | 53.8 |

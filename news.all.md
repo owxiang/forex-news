@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | KRW | Low | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
-| 07:00 | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
-| 07:00 | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
-| 07:00 | KRW | Low | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
-| 07:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
-| 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
-| 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) |  | 2.2% | 1.8% |
+| 47 min | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
+| 47 min | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
+| 47 min | KRW | Low | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
+| 47 min | KRW | Low | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
+| 47 min | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
+| 48 min | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) |  | 2.2% | 1.8% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) |  | 0.7% | 0.9% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) |  | -2.5% | -4.2% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  | 54.3 | 53.8 |
@@ -46,8 +46,8 @@
 | 17:00 | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
 | 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
+| 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
