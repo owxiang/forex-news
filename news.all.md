@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 45 min | KRW | Low | FX Reserves - USD (Aug) |  |  | 421.80B |
-| 07:00 | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
+| 05:00 | KRW | Low | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
 | 07:00 | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
+| 07:00 | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
 | 07:00 | KRW | Low | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | KRW | Low | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
@@ -46,8 +46,8 @@
 | 17:00 | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
 | 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
