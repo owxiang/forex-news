@@ -5,8 +5,8 @@
 | 05:00 | KRW | FX Reserves - USD (Aug) |  |  | 421.80B |
 | 07:00 | KRW | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
 | 07:00 | KRW | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
-| 07:00 | KRW | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | KRW | GDP (QoQ) (Q2) |  | 0.3% | 0.6% |
+| 07:00 | KRW | GDP (YoY) (Q2) |  | 0.9% | 0.9% |
 | 07:00 | AUD | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.4 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.6% |
