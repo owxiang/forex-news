@@ -15,8 +15,8 @@
 | 14:00 | EUR | German Imports (MoM) (Jul) | 1.4% | 0.5% | -3.2% |
 | 16:30 | EUR | Sentix Investor Confidence (Sep) | -21.5 | -19.6 | -18.9 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Jun) | 3.10% |  | 5.30% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jun) | 28.80% |  | 25.50% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Jun) | 3.10% |  | 5.30% |
 | 20:55 | EUR | French 12-Month BTF Auction | 3.609% |  | 3.631% |
 | 20:55 | EUR | French 3-Month BTF Auction | 3.657% |  | 3.664% |
 | 20:55 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.671% |

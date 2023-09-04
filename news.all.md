@@ -22,12 +22,12 @@
 | 16:30 | EUR | Low | Sentix Investor Confidence (Sep) | -21.5 | -19.6 | -18.9 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | 3.10% |  | 5.30% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jun) | 28.80% |  | 25.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jun) | 3.10% |  | 5.30% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.609% |  | 3.631% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.657% |  | 3.664% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.657% |  | 3.671% |
 | 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 11 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 41 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 41 min | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
+| 21:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 22:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |

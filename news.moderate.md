@@ -10,6 +10,6 @@
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Aug) | -0.20% |  | -0.14% |
 | 19:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 11 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 41 min | EUR | ECB's Lane Speaks |  |  |  |
-| 41 min | EUR | ECB's Panetta Speaks |  |  |  |
+| 21:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 22:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 22:00 | EUR | ECB's Panetta Speaks |  |  |  |
