@@ -12,12 +12,12 @@
 | 09:30 | AUD | Low | Business inventories (MoM) (Q2) | -1.9% | 0.4% | 1.2% |
 | 09:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q2) | -13.1% | -1.9% | 1.3% |
 | 09:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q2) | -14.6% |  | -7.5% |
-| 46 min | EUR | Low | German Exports (MoM) (Jul) |  | -1.5% | 0.1% |
-| 46 min | EUR | Low | German Imports (MoM) (Jul) |  | 0.5% | -3.4% |
-| 46 min | EUR | Moderate | German Trade Balance (Jul) |  | 18.0B | 18.7B |
-| 15:00 | CHF | Moderate | GDP (YoY) (Q2) |  | 0.5% | 0.6% |
-| 15:00 | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
-| 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -21.3K | -11.0K |
+| 14:00 | EUR | Low | German Exports (MoM) (Jul) | -0.9% | -1.5% | 0.2% |
+| 14:00 | EUR | Low | German Imports (MoM) (Jul) | 1.4% | 0.5% | -3.2% |
+| 14:00 | EUR | Moderate | German Trade Balance (Jul) | 15.9B | 18.0B | 18.8B |
+| 40 min | CHF | Moderate | GDP (YoY) (Q2) |  | 0.5% | 0.6% |
+| 40 min | CHF | Moderate | GDP (QoQ) (Q2) |  | 0.1% | 0.3% |
+| 40 min | EUR | Moderate | Spanish Unemployment Change |  | -21.3K | -11.0K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Aug) |  |  | -0.14% |
 | 16:30 | EUR | Low | Sentix Investor Confidence (Sep) |  | -19.6 | -18.9 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

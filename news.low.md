@@ -11,8 +11,8 @@
 | 09:30 | AUD | ANZ Internet Job Ads (MoM) | 1.9% |  | 0.7% |
 | 09:30 | AUD | Business inventories (MoM) (Q2) | -1.9% | 0.4% | 1.2% |
 | 09:30 | AUD | Company Profits Pre-Tax (QoQ) (Q2) | -14.6% |  | -7.5% |
-| 46 min | EUR | German Exports (MoM) (Jul) |  | -1.5% | 0.1% |
-| 46 min | EUR | German Imports (MoM) (Jul) |  | 0.5% | -3.4% |
+| 14:00 | EUR | German Exports (MoM) (Jul) | -0.9% | -1.5% | 0.2% |
+| 14:00 | EUR | German Imports (MoM) (Jul) | 1.4% | 0.5% | -3.2% |
 | 16:30 | EUR | Sentix Investor Confidence (Sep) |  | -19.6 | -18.9 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jun) |  |  | 17.40% |
