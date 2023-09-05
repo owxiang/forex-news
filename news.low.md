@@ -8,9 +8,9 @@
 | 07:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
 | 07:00 | AUD | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
-| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.4 |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.8 |  | 49.4 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.6% |
-| 09:30 | AUD | Net Exports Contribution (Q2) |  |  | -0.2% |
+| 25 min | AUD | Net Exports Contribution (Q2) |  |  | -0.2% |
 | 13:00 | INR | S&P Global India Services PMI (Aug) |  | 61.0 | 62.3 |
 | 13:00 | SGD | Retail Sales (MoM) (Jul) |  |  | -0.8% |
 | 13:00 | SGD | Retail Sales (YoY) (Jul) |  |  | 1.1% |

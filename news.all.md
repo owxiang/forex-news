@@ -9,16 +9,16 @@
 | 07:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 16 min | JPY | Moderate | Household Spending (YoY) (Jul) |  | -2.5% | -4.2% |
-| 16 min | JPY | Moderate | Household Spending (MoM) (Jul) |  | 0.7% | 0.9% |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) |  | 54.3 | 53.8 |
-| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) |  |  | 49.4 |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
+| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.8 |  | 49.4 |
 | 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.6% |
-| 09:30 | AUD | Moderate | Current Account (Q2) |  | 8.1B | 12.3B |
-| 09:30 | AUD | Low | Net Exports Contribution (Q2) |  |  | -0.2% |
-| 09:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.5% | -0.8% |
-| 09:45 | CNY | Moderate | Caixin Services PMI (Aug) |  | 53.6 | 54.1 |
-| 09:45 | CNY | Moderate | Chinese Composite PMI |  |  | 51.3 |
+| 25 min | AUD | Moderate | Current Account (Q2) |  | 8.1B | 12.3B |
+| 25 min | AUD | Low | Net Exports Contribution (Q2) |  |  | -0.2% |
+| 25 min | AUD | Moderate | Retail Sales (MoM) |  | 0.5% | -0.8% |
+| 40 min | CNY | Moderate | Caixin Services PMI (Aug) |  | 53.6 | 54.1 |
+| 40 min | CNY | Moderate | Chinese Composite PMI |  |  | 51.3 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.594% |
 | 12:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.10% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
@@ -46,8 +46,8 @@
 | 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:00 | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
+| 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
