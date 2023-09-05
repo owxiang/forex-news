@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
-| 09:30 | AUD | Moderate | GDP (YoY) (Q2) |  | 1.7% | 2.3% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) |  | 1.7% | 2.3% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) |  |  | 1.8% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) |  |  | 1.8% |
 | 09:30 | AUD | Low | GDP Final Consumption (Q2) |  |  | 0.2% |
@@ -17,8 +17,8 @@
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.7 | 51.7 |
 | 17:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.575% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.2% | -0.3% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.460% |
 | 18:05 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
