@@ -3,17 +3,17 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 07:30 | JPY | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
+| 07:30 | JPY | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
 | 09:30 | AUD | Current Account (Q2) | 7.7B | 8.0B | 12.5B |
 | 09:45 | CNY | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
 | 09:45 | CNY | Chinese Composite PMI | 51.7 |  | 51.9 |
 | 11:35 | JPY | 10-Year JGB Auction | 0.657% |  | 0.594% |
 | 12:30 | AUD | RBA Rate Statement |  |  |  |
-| 46 min | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:15 | EUR | HCOB Spain Services PMI (Aug) |  | 51.5 | 52.8 |
+| 14:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 40 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 55 min | EUR | HCOB Spain Services PMI (Aug) |  | 51.5 | 52.8 |
 | 15:45 | EUR | HCOB Italy Services PMI (Aug) |  | 50.2 | 51.5 |
 | 15:50 | EUR | HCOB France Services PMI (Aug) |  | 46.7 | 47.1 |
 | 15:55 | EUR | HCOB Germany Services PMI (Aug) |  | 47.3 | 52.3 |
