@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
 | 07:30 | JPY | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
+| 07:30 | JPY | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
 | 09:30 | AUD | Current Account (Q2) | 7.7B | 8.0B | 12.5B |
 | 09:45 | CNY | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
@@ -14,14 +14,14 @@
 | 14:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:15 | EUR | HCOB Spain Services PMI (Aug) | 49.3 | 51.5 | 52.8 |
-| 30 min | EUR | HCOB Italy Services PMI (Aug) |  | 50.2 | 51.5 |
-| 35 min | EUR | HCOB France Services PMI (Aug) |  | 46.7 | 47.1 |
-| 40 min | EUR | HCOB Germany Services PMI (Aug) |  | 47.3 | 52.3 |
-| 45 min | EUR | HCOB Eurozone Composite PMI (Aug) |  | 47.0 | 48.6 |
-| 45 min | EUR | HCOB Eurozone Services PMI (Aug) |  | 48.3 | 50.9 |
-| 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) |  | 47.9 | 50.8 |
-| 16:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) |  | 48.7 | 51.5 |
-| 17:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 15:45 | EUR | HCOB Italy Services PMI (Aug) | 49.8 | 50.2 | 51.5 |
+| 15:50 | EUR | HCOB France Services PMI (Aug) | 46.0 | 46.7 | 47.1 |
+| 15:55 | EUR | HCOB Germany Services PMI (Aug) | 47.3 | 47.3 | 52.3 |
+| 16:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 46.7 | 47.0 | 48.6 |
+| 16:00 | EUR | HCOB Eurozone Services PMI (Aug) | 47.9 | 48.3 | 50.9 |
+| 10 min | GBP | S&P Global/CIPS UK Composite PMI (Aug) |  | 47.9 | 50.8 |
+| 10 min | GBP | S&P Global/CIPS UK Services PMI (Aug) |  | 48.7 | 51.5 |
+| 40 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 17:30 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 17:30 | ZAR | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 20:00 | BRL | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
