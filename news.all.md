@@ -9,8 +9,8 @@
 | 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.8 |  | 49.4 |
 | 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.9% |  | -2.6% |
@@ -48,20 +48,22 @@
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
-| 47 min | MXN | Low | Consumer Confidence |  |  | 46.2 |
-| 47 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
-| 47 min | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
-| 47 min | BRL | Moderate | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
-| 47 min | USD | Low | Milk Auctions |  |  | 2,875.0 |
+| 20:00 | MXN | Low | Consumer Confidence | 46.7 |  | 46.2 |
+| 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.1 |  | 46.4 |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Jul) | -0.6% | -0.3% | 0.1% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jul) | -1.1% | -0.5% | 0.3% |
+| 20:15 | USD | Low | All Car Sales (Aug) | 3.05M |  | 3.14M |
+| 20:15 | USD | Low | All Truck Sales (Aug) | 11.99M |  | 12.60M |
 | 20:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 21:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 49.6 |
-| 21:00 | BRL | Low | S&P Global Services PMI (Aug) |  |  | 50.2 |
+| 30 min | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 49.6 |
+| 30 min | BRL | Low | S&P Global Services PMI (Aug) |  |  | 50.2 |
 | 22:00 | USD | Low | CB Employment Trends Index (Aug) |  |  | 115.45 |
 | 22:00 | USD | Low | Durables Excluding Defense (MoM) (Jul) |  |  | -5.4% |
 | 22:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) |  |  | 0.5% |
 | 22:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | -2.5% | 2.3% |
 | 22:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | 0.2% |
 | 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
+| 22:00 | USD | Low | Milk Auctions |  |  | 2,875.0 |
 | 22:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -7.4% |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
