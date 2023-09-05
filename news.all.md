@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | KRW | Low | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
-| 07:00 | KRW | Low | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
 | 07:00 | KRW | Low | CPI (MoM) (Aug) | 1.0% | 0.3% | 0.1% |
+| 07:00 | KRW | Low | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
 | 07:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
 | 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
@@ -18,8 +18,8 @@
 | 09:30 | AUD | Low | Net Exports Contribution (Q2) | 0.8% |  | -0.2% |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
 | 09:45 | CNY | Moderate | Chinese Composite PMI | 51.7 |  | 51.9 |
-| 11:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.5% | -0.8% |
-| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.594% |
+| 19 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.594% |
+| 44 min | AUD | Moderate | Retail Sales (MoM) |  | 0.5% | -0.8% |
 | 12:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.10% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Services PMI (Aug) |  | 61.0 | 62.3 |
@@ -46,12 +46,12 @@
 | 17:00 | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
 | 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,875.0 |
 | 20:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 49.6 |

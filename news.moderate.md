@@ -9,8 +9,8 @@
 | 09:30 | AUD | Current Account (Q2) | 7.7B | 8.1B | 12.5B |
 | 09:45 | CNY | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
 | 09:45 | CNY | Chinese Composite PMI | 51.7 |  | 51.9 |
-| 11:30 | AUD | Retail Sales (MoM) |  | 0.5% | -0.8% |
-| 11:35 | JPY | 10-Year JGB Auction |  |  | 0.594% |
+| 19 min | JPY | 10-Year JGB Auction |  |  | 0.594% |
+| 44 min | AUD | Retail Sales (MoM) |  | 0.5% | -0.8% |
 | 12:30 | AUD | RBA Rate Statement |  |  |  |
 | 14:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |

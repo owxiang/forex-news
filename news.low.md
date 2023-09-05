@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
-| 07:00 | KRW | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
 | 07:00 | KRW | CPI (MoM) (Aug) | 1.0% | 0.3% | 0.1% |
+| 07:00 | KRW | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
 | 07:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
 | 07:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | AUD | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
