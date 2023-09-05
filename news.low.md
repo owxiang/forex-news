@@ -5,8 +5,8 @@
 | 05:00 | KRW | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
 | 07:00 | KRW | CPI (MoM) (Aug) | 1.0% | 0.3% | 0.1% |
 | 07:00 | KRW | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
-| 07:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
+| 07:00 | KRW | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | AUD | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.8 |  | 49.4 |
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) | -2.9% |  | -2.6% |
@@ -18,12 +18,13 @@
 | 15:45 | EUR | HCOB Italy Composite PMI (Aug) | 48.2 |  | 48.9 |
 | 15:50 | EUR | HCOB France Composite PMI (Aug) | 46.0 | 46.6 | 46.6 |
 | 15:55 | EUR | HCOB Germany Composite PMI (Aug) | 44.6 | 44.7 | 48.5 |
-| 20 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.664% |
-| 20 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.639% |
-| 40 min | NOK | House Price Index (YoY) (Aug) |  |  | -0.20% |
-| 40 min | EUR | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
-| 40 min | EUR | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
-| 17:30 | ZAR | GDP (YoY) (Q2) |  | 1.1% | 0.2% |
+| 16:50 | EUR | Spanish 12-Month Letras Auction | 3.670% |  | 3.664% |
+| 16:50 | EUR | Spanish 6-Month Letras Auction | 3.654% |  | 3.639% |
+| 17:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
+| 17:00 | NOK | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
+| 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
+| 17:00 | EUR | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
+| 15 min | ZAR | GDP (YoY) (Q2) |  | 1.1% | 0.2% |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 20:00 | BRL | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |

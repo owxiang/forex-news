@@ -5,8 +5,8 @@
 | 05:00 | KRW | Low | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
 | 07:00 | KRW | Low | CPI (MoM) (Aug) | 1.0% | 0.3% | 0.1% |
 | 07:00 | KRW | Low | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
-| 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
@@ -36,17 +36,18 @@
 | 15:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) | 47.3 | 47.3 | 52.3 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) | 46.7 | 47.0 | 48.6 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) | 47.9 | 48.3 | 50.9 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) |  | 47.9 | 50.8 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) |  | 48.7 | 51.5 |
-| 20 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.664% |
-| 20 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.639% |
-| 40 min | NOK | Low | House Price Index (YoY) (Aug) |  |  | -0.20% |
-| 40 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 40 min | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
-| 40 min | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
-| 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.1% | 0.2% |
-| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) | 48.6 | 47.9 | 50.8 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) | 49.5 | 48.7 | 51.5 |
+| 16:50 | EUR | Low | Spanish 12-Month Letras Auction | 3.670% |  | 3.664% |
+| 16:50 | EUR | Low | Spanish 6-Month Letras Auction | 3.654% |  | 3.639% |
+| 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
+| 17:00 | NOK | Low | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
+| 17:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 17:00 | EUR | Low | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
+| 17:00 | EUR | Low | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
+| 15 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 15 min | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
+| 15 min | ZAR | Low | GDP (YoY) (Q2) |  | 1.1% | 0.2% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |

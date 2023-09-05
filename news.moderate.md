@@ -19,11 +19,11 @@
 | 15:55 | EUR | HCOB Germany Services PMI (Aug) | 47.3 | 47.3 | 52.3 |
 | 16:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 46.7 | 47.0 | 48.6 |
 | 16:00 | EUR | HCOB Eurozone Services PMI (Aug) | 47.9 | 48.3 | 50.9 |
-| 10 min | GBP | S&P Global/CIPS UK Composite PMI (Aug) |  | 47.9 | 50.8 |
-| 10 min | GBP | S&P Global/CIPS UK Services PMI (Aug) |  | 48.7 | 51.5 |
-| 40 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 17:30 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
+| 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 48.6 | 47.9 | 50.8 |
+| 16:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 49.5 | 48.7 | 51.5 |
+| 17:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 15 min | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 15 min | ZAR | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 20:00 | BRL | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
 | 20:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 22:00 | USD | Factory Orders (MoM) (Jul) |  | -2.5% | 2.3% |
