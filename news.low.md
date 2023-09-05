@@ -22,13 +22,13 @@
 | 16:50 | EUR | Spanish 6-Month Letras Auction | 3.654% |  | 3.639% |
 | 17:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
 | 17:00 | NOK | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
-| 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:00 | EUR | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
+| 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:30 | ZAR | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
-| 20:00 | MXN | Consumer Confidence |  |  | 46.2 |
-| 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |
-| 20:00 | BRL | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
-| 20:00 | USD | Milk Auctions |  |  | 2,875.0 |
+| 47 min | MXN | Consumer Confidence |  |  | 46.2 |
+| 47 min | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |
+| 47 min | BRL | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
+| 47 min | USD | Milk Auctions |  |  | 2,875.0 |
 | 21:00 | BRL | S&P Global Composite PMI (Aug) |  |  | 49.6 |
 | 21:00 | BRL | S&P Global Services PMI (Aug) |  |  | 50.2 |
 | 22:00 | USD | CB Employment Trends Index (Aug) |  |  | 115.45 |

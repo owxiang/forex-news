@@ -43,16 +43,16 @@
 | 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
 | 17:00 | NOK | Low | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
 | 17:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:00 | EUR | Low | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
+| 17:00 | EUR | Low | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | Low | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
-| 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
-| 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
-| 20:00 | USD | Low | Milk Auctions |  |  | 2,875.0 |
+| 17:30 | ZAR | Low | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
+| 47 min | MXN | Low | Consumer Confidence |  |  | 46.2 |
+| 47 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
+| 47 min | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
+| 47 min | BRL | Moderate | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
+| 47 min | USD | Low | Milk Auctions |  |  | 2,875.0 |
 | 20:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 49.6 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Aug) |  |  | 50.2 |

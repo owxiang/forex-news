@@ -24,7 +24,7 @@
 | 17:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 17:30 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 17:30 | ZAR | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
-| 20:00 | BRL | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
+| 47 min | BRL | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
 | 20:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 22:00 | USD | Factory Orders (MoM) (Jul) |  | -2.5% | 2.3% |
 | 22:30 | EUR | ECB's De Guindos Speaks |  |  |  |
