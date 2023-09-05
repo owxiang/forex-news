@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | USD | Low | 52-Week Bill Auction |  |  | 5.060% |
+| 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
 | 09:30 | AUD | Moderate | GDP (YoY) (Q2) |  | 1.7% | 2.3% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) |  |  | 1.8% |
