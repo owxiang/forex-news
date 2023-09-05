@@ -9,8 +9,8 @@
 | 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.8 |  | 49.4 |
 | 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.9% |  | -2.6% |
@@ -43,8 +43,8 @@
 | 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
 | 17:00 | NOK | Low | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
 | 17:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
 | 17:00 | EUR | Low | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
+| 17:00 | EUR | Low | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 17:30 | ZAR | Low | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
@@ -62,7 +62,6 @@
 | 22:00 | USD | Low | Durables Excluding Transport (MoM) (Jul) | 0.4% |  | 0.5% |
 | 22:00 | USD | Moderate | Factory Orders (MoM) (Jul) | -2.1% | -2.5% | 2.3% |
 | 22:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) | 0.8% |  | 0.3% |
-| 16 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -7.4% |
-| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
-| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.350% |
+| 22:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
+| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.350% |

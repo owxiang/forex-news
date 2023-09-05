@@ -22,8 +22,8 @@
 | 16:50 | EUR | Spanish 6-Month Letras Auction | 3.654% |  | 3.639% |
 | 17:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
 | 17:00 | NOK | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
-| 17:00 | EUR | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
 | 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
+| 17:00 | EUR | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
 | 17:30 | ZAR | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
 | 20:00 | MXN | Consumer Confidence | 46.7 |  | 46.3 |
 | 20:00 | MXN | Consumer Confidence n.s.a. | 46.1 |  | 46.4 |
@@ -36,6 +36,5 @@
 | 22:00 | USD | Durables Excluding Defense (MoM) (Jul) | -5.5% |  | -5.4% |
 | 22:00 | USD | Durables Excluding Transport (MoM) (Jul) | 0.4% |  | 0.5% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.8% |  | 0.3% |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | -7.4% |
-| 23:30 | USD | 3-Month Bill Auction |  |  | 5.340% |
-| 23:30 | USD | 6-Month Bill Auction |  |  | 5.350% |
+| 14 min | USD | 3-Month Bill Auction |  |  | 5.340% |
+| 14 min | USD | 6-Month Bill Auction |  |  | 5.350% |
