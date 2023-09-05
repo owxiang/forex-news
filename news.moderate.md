@@ -22,8 +22,8 @@
 | 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 48.6 | 47.9 | 50.8 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 49.5 | 48.7 | 51.5 |
 | 17:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 15 min | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 15 min | ZAR | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
+| 17:30 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 17:30 | ZAR | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
 | 20:00 | BRL | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
 | 20:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 22:00 | USD | Factory Orders (MoM) (Jul) |  | -2.5% | 2.3% |

@@ -45,13 +45,13 @@
 | 17:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 17:00 | EUR | Low | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:00 | EUR | Low | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
-| 15 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 15 min | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
-| 15 min | ZAR | Low | GDP (YoY) (Q2) |  | 1.1% | 0.2% |
+| 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 17:30 | ZAR | Low | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Jul) |  | -0.5% | 0.3% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,875.0 |
 | 20:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Aug) |  |  | 49.6 |
@@ -62,7 +62,6 @@
 | 22:00 | USD | Moderate | Factory Orders (MoM) (Jul) |  | -2.5% | 2.3% |
 | 22:00 | USD | Low | Factory orders ex transportation (MoM) (Jul) |  |  | 0.2% |
 | 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 22:00 | USD | Low | Total Vehicle Sales |  |  | 15.70M |
 | 22:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -7.4% |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.340% |

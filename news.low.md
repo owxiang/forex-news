@@ -24,7 +24,7 @@
 | 17:00 | NOK | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
 | 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:00 | EUR | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
-| 15 min | ZAR | GDP (YoY) (Q2) |  | 1.1% | 0.2% |
+| 17:30 | ZAR | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.2 |
 | 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 20:00 | BRL | Industrial Production (MoM) (Jul) |  | -0.3% | 0.1% |
@@ -36,7 +36,6 @@
 | 22:00 | USD | Durables Excluding Transport (MoM) (Jul) |  |  | 0.5% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Jul) |  |  | 0.2% |
 | 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 22:00 | USD | Total Vehicle Sales |  |  | 15.70M |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | -7.4% |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.340% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.350% |
