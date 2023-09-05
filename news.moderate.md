@@ -1,30 +1,22 @@
-## 05 September 2023 - Moderate Impact Forex News
+## 06 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
-| 07:30 | JPY | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
-| 09:30 | AUD | Current Account (Q2) | 7.7B | 8.0B | 12.5B |
-| 09:45 | CNY | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
-| 09:45 | CNY | Chinese Composite PMI | 51.7 |  | 51.9 |
-| 11:35 | JPY | 10-Year JGB Auction | 0.657% |  | 0.594% |
-| 12:30 | AUD | RBA Rate Statement |  |  |  |
-| 14:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:15 | EUR | HCOB Spain Services PMI (Aug) | 49.3 | 51.5 | 52.8 |
-| 15:45 | EUR | HCOB Italy Services PMI (Aug) | 49.8 | 50.2 | 51.5 |
-| 15:50 | EUR | HCOB France Services PMI (Aug) | 46.0 | 46.7 | 47.1 |
-| 15:55 | EUR | HCOB Germany Services PMI (Aug) | 47.3 | 47.3 | 52.3 |
-| 16:00 | EUR | HCOB Eurozone Composite PMI (Aug) | 46.7 | 47.0 | 48.6 |
-| 16:00 | EUR | HCOB Eurozone Services PMI (Aug) | 47.9 | 48.3 | 50.9 |
-| 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) | 48.6 | 47.9 | 50.8 |
-| 16:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) | 49.5 | 48.7 | 51.5 |
-| 17:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 17:30 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 17:30 | ZAR | GDP Annualized (QoQ) | 0.6% | 0.1% | 0.4% |
-| 20:00 | BRL | Industrial Production (YoY) (Jul) | -1.1% | -0.5% | 0.2% |
-| 20:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 22:00 | USD | Factory Orders (MoM) (Jul) | -2.1% | -2.5% | 2.3% |
-| 22:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 09:30 | AUD | GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
+| 09:30 | AUD | GDP (YoY) (Q2) |  | 1.7% | 2.3% |
+| 14:00 | EUR | German Factory Orders (MoM) (Jul) |  | -4.0% | 7.0% |
+| 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.7 | 51.7 |
+| 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.460% |
+| 18:05 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 20:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 20:30 | USD | Exports |  |  | 247.50B |
+| 20:30 | USD | Imports |  |  | 313.00B |
+| 20:30 | USD | Trade Balance (Jul) |  | -68.00B | -65.50B |
+| 20:30 | CAD | Labor Productivity (QoQ) (Q2) |  | -0.1% | -0.6% |
+| 20:30 | CAD | Trade Balance (Jul) |  | -3.63B | -3.73B |
+| 21:15 | GBP | BoE MPC Treasury Committee Hearings |  |  |  |
+| 21:35 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 21:45 | USD | S&P Global Composite PMI (Aug) |  | 50.4 | 52.0 |
+| 22:00 | USD | ISM Non-Manufacturing Employment (Aug) |  |  | 50.7 |
+| 22:00 | CAD | BoC Rate Statement |  |  |  |
+| 23:10 | AUD | RBA Governor Lowe Speaks |  |  |  |
