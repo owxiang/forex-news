@@ -13,8 +13,8 @@
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
 | 17:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.575% |
-| 17:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.2% | -0.3% |
 | 17:00 | EUR | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
+| 17:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.2% | -0.3% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
 | 19:00 | USD | MBA Purchase Index |  |  | 144.9 |
