@@ -22,8 +22,8 @@
 | 16:50 | EUR | Spanish 6-Month Letras Auction | 3.654% |  | 3.639% |
 | 17:00 | GBP | United Kingdom New Passenger Cars Registration (Aug) | 85,657.0 |  | 143,921.0 |
 | 17:00 | NOK | House Price Index (YoY) (Aug) | -1.60% |  | -0.20% |
-| 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:00 | EUR | PPI (MoM) (Jul) | -0.5% | -0.6% | -0.4% |
+| 17:00 | EUR | PPI (YoY) (Jul) | -7.6% | -7.6% | -3.4% |
 | 17:30 | ZAR | GDP (YoY) (Q2) | 1.6% | 1.1% | 0.2% |
 | 20:00 | MXN | Consumer Confidence | 46.7 |  | 46.3 |
 | 20:00 | MXN | Consumer Confidence n.s.a. | 46.1 |  | 46.4 |
@@ -32,12 +32,10 @@
 | 20:15 | USD | All Truck Sales (Aug) | 11.99M |  | 12.60M |
 | 21:00 | BRL | S&P Global Composite PMI (Aug) | 50.6 |  | 49.6 |
 | 21:00 | BRL | S&P Global Services PMI (Aug) | 50.6 |  | 50.2 |
-| 41 min | USD | CB Employment Trends Index (Aug) |  |  | 115.45 |
-| 41 min | USD | Durables Excluding Defense (MoM) (Jul) |  |  | -5.4% |
-| 41 min | USD | Durables Excluding Transport (MoM) (Jul) |  |  | 0.5% |
-| 41 min | USD | Factory orders ex transportation (MoM) (Jul) |  |  | 0.2% |
-| 41 min | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 41 min | USD | Milk Auctions |  |  | 2,875.0 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | -7.4% |
+| 22:00 | USD | CB Employment Trends Index (Aug) | 113.02 |  | 114.71 |
+| 22:00 | USD | Durables Excluding Defense (MoM) (Jul) | -5.5% |  | -5.4% |
+| 22:00 | USD | Durables Excluding Transport (MoM) (Jul) | 0.4% |  | 0.5% |
+| 22:00 | USD | Factory orders ex transportation (MoM) (Jul) | 0.8% |  | 0.3% |
+| 46 min | NZD | GlobalDairyTrade Price Index |  |  | -7.4% |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.340% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.350% |
