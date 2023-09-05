@@ -3,13 +3,13 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 07:30 | JPY | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
+| 07:30 | JPY | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
-| 25 min | AUD | Current Account (Q2) |  | 8.1B | 12.3B |
-| 25 min | AUD | Retail Sales (MoM) |  | 0.5% | -0.8% |
-| 40 min | CNY | Caixin Services PMI (Aug) |  | 53.6 | 54.1 |
-| 40 min | CNY | Chinese Composite PMI |  |  | 51.3 |
+| 09:30 | AUD | Current Account (Q2) | 7.7B | 8.1B | 12.5B |
+| 09:45 | CNY | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
+| 09:45 | CNY | Chinese Composite PMI | 51.7 |  | 51.9 |
+| 11:30 | AUD | Retail Sales (MoM) |  | 0.5% | -0.8% |
 | 11:35 | JPY | 10-Year JGB Auction |  |  | 0.594% |
 | 12:30 | AUD | RBA Rate Statement |  |  |  |
 | 14:00 | EUR | German Buba Wuermeling Speaks |  |  |  |

@@ -3,22 +3,22 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | KRW | Low | FX Reserves - USD (Aug) | 418.30B |  | 421.80B |
-| 07:00 | KRW | Low | CPI (MoM) (Aug) |  | 0.3% | 0.1% |
-| 07:00 | KRW | Low | CPI (YoY) (Aug) |  | 2.7% | 2.3% |
-| 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
+| 07:00 | KRW | Low | CPI (YoY) (Aug) | 3.4% | 2.7% | 2.3% |
+| 07:00 | KRW | Low | CPI (MoM) (Aug) | 1.0% | 0.3% | 0.1% |
 | 07:00 | KRW | Low | GDP (YoY) (Q2) | 0.9% | 0.9% | 0.9% |
-| 07:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.7 | 47.9 |
+| 07:00 | KRW | Low | GDP (QoQ) (Q2) | 0.6% | 0.3% | 0.6% |
+| 07:00 | AUD | Low | Judo Bank Australia Services PMI | 47.8 | 46.7 | 47.9 |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Aug) | 4.3% | 2.2% | 1.8% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Jul) | -2.7% | 0.7% | 0.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Jul) | -5.0% | -2.5% | -4.2% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Aug) | 54.3 | 54.3 | 53.8 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Aug) | 49.8 |  | 49.4 |
-| 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.6% |
-| 25 min | AUD | Moderate | Current Account (Q2) |  | 8.1B | 12.3B |
-| 25 min | AUD | Low | Net Exports Contribution (Q2) |  |  | -0.2% |
-| 25 min | AUD | Moderate | Retail Sales (MoM) |  | 0.5% | -0.8% |
-| 40 min | CNY | Moderate | Caixin Services PMI (Aug) |  | 53.6 | 54.1 |
-| 40 min | CNY | Moderate | Chinese Composite PMI |  |  | 51.3 |
+| 09:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -2.9% |  | -2.6% |
+| 09:30 | AUD | Moderate | Current Account (Q2) | 7.7B | 8.1B | 12.5B |
+| 09:30 | AUD | Low | Net Exports Contribution (Q2) | 0.8% |  | -0.2% |
+| 09:45 | CNY | Moderate | Caixin Services PMI (Aug) | 51.8 | 53.6 | 54.1 |
+| 09:45 | CNY | Moderate | Chinese Composite PMI | 51.7 |  | 51.9 |
+| 11:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.5% | -0.8% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.594% |
 | 12:30 | AUD | High | RBA Interest Rate Decision (Sep) |  | 4.10% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
@@ -43,8 +43,8 @@
 | 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.639% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Aug) |  |  | -0.20% |
 | 17:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:00 | EUR | Low | PPI (YoY) (Jul) |  | -7.6% | -3.4% |
+| 17:00 | EUR | Low | PPI (MoM) (Jul) |  | -0.6% | -0.4% |
 | 17:30 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.1% | 0.4% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q2) |  | 1.2% | 0.2% |
