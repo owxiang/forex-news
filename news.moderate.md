@@ -12,13 +12,13 @@
 | 11:35 | JPY | 10-Year JGB Auction | 0.657% |  | 0.594% |
 | 12:30 | AUD | RBA Rate Statement |  |  |  |
 | 14:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 40 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 55 min | EUR | HCOB Spain Services PMI (Aug) |  | 51.5 | 52.8 |
-| 15:45 | EUR | HCOB Italy Services PMI (Aug) |  | 50.2 | 51.5 |
-| 15:50 | EUR | HCOB France Services PMI (Aug) |  | 46.7 | 47.1 |
-| 15:55 | EUR | HCOB Germany Services PMI (Aug) |  | 47.3 | 52.3 |
-| 16:00 | EUR | HCOB Eurozone Composite PMI (Aug) |  | 47.0 | 48.6 |
-| 16:00 | EUR | HCOB Eurozone Services PMI (Aug) |  | 48.3 | 50.9 |
+| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:15 | EUR | HCOB Spain Services PMI (Aug) | 49.3 | 51.5 | 52.8 |
+| 30 min | EUR | HCOB Italy Services PMI (Aug) |  | 50.2 | 51.5 |
+| 35 min | EUR | HCOB France Services PMI (Aug) |  | 46.7 | 47.1 |
+| 40 min | EUR | HCOB Germany Services PMI (Aug) |  | 47.3 | 52.3 |
+| 45 min | EUR | HCOB Eurozone Composite PMI (Aug) |  | 47.0 | 48.6 |
+| 45 min | EUR | HCOB Eurozone Services PMI (Aug) |  | 48.3 | 50.9 |
 | 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Aug) |  | 47.9 | 50.8 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI (Aug) |  | 48.7 | 51.5 |
 | 17:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |

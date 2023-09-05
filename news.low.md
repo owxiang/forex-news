@@ -12,12 +12,12 @@
 | 09:00 | NZD | ANZ Commodity Price Index (MoM) | -2.9% |  | -2.6% |
 | 09:30 | AUD | Net Exports Contribution (Q2) | 0.8% |  | -0.2% |
 | 13:00 | INR | S&P Global India Services PMI (Aug) | 60.1 | 61.0 | 62.3 |
-| 13:00 | SGD | Retail Sales (MoM) (Jul) | 0.6% |  | -0.8% |
 | 13:00 | SGD | Retail Sales (YoY) (Jul) | 1.1% |  | 1.0% |
-| 55 min | ZAR | S&P Global South Africa PMI (Aug) |  |  | 48.2 |
-| 15:45 | EUR | HCOB Italy Composite PMI (Aug) |  |  | 48.9 |
-| 15:50 | EUR | HCOB France Composite PMI (Aug) |  | 46.6 | 46.6 |
-| 15:55 | EUR | HCOB Germany Composite PMI (Aug) |  | 44.7 | 48.5 |
+| 13:00 | SGD | Retail Sales (MoM) (Jul) | 0.6% |  | -0.8% |
+| 15:15 | ZAR | S&P Global South Africa PMI (Aug) | 51.0 |  | 48.2 |
+| 30 min | EUR | HCOB Italy Composite PMI (Aug) |  |  | 48.9 |
+| 35 min | EUR | HCOB France Composite PMI (Aug) |  | 46.6 | 46.6 |
+| 40 min | EUR | HCOB Germany Composite PMI (Aug) |  | 44.7 | 48.5 |
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.664% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.639% |
 | 17:00 | NOK | House Price Index (YoY) (Aug) |  |  | -0.20% |

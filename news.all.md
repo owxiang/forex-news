@@ -22,20 +22,20 @@
 | 12:30 | AUD | High | RBA Interest Rate Decision (Sep) | 4.10% | 4.10% | 4.10% |
 | 12:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 13:00 | INR | Low | S&P Global India Services PMI (Aug) | 60.1 | 61.0 | 62.3 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Jul) | 0.6% |  | -0.8% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Jul) | 1.1% |  | 1.0% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Jul) | 0.6% |  | -0.8% |
 | 14:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 40 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 55 min | EUR | Moderate | HCOB Spain Services PMI (Aug) |  | 51.5 | 52.8 |
-| 55 min | ZAR | Low | S&P Global South Africa PMI (Aug) |  |  | 48.2 |
-| 15:45 | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 48.9 |
-| 15:45 | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 50.2 | 51.5 |
-| 15:50 | EUR | Low | HCOB France Composite PMI (Aug) |  | 46.6 | 46.6 |
-| 15:50 | EUR | Moderate | HCOB France Services PMI (Aug) |  | 46.7 | 47.1 |
-| 15:55 | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 44.7 | 48.5 |
-| 15:55 | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 47.3 | 52.3 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 47.0 | 48.6 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 48.3 | 50.9 |
+| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:15 | EUR | Moderate | HCOB Spain Services PMI (Aug) | 49.3 | 51.5 | 52.8 |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Aug) | 51.0 |  | 48.2 |
+| 30 min | EUR | Low | HCOB Italy Composite PMI (Aug) |  |  | 48.9 |
+| 30 min | EUR | Moderate | HCOB Italy Services PMI (Aug) |  | 50.2 | 51.5 |
+| 35 min | EUR | Low | HCOB France Composite PMI (Aug) |  | 46.6 | 46.6 |
+| 35 min | EUR | Moderate | HCOB France Services PMI (Aug) |  | 46.7 | 47.1 |
+| 40 min | EUR | Low | HCOB Germany Composite PMI (Aug) |  | 44.7 | 48.5 |
+| 40 min | EUR | Moderate | HCOB Germany Services PMI (Aug) |  | 47.3 | 52.3 |
+| 45 min | EUR | Moderate | HCOB Eurozone Composite PMI (Aug) |  | 47.0 | 48.6 |
+| 45 min | EUR | Moderate | HCOB Eurozone Services PMI (Aug) |  | 48.3 | 50.9 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Aug) |  | 47.9 | 50.8 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Aug) |  | 48.7 | 51.5 |
 | 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.664% |
