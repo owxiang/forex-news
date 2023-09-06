@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 09:30 | AUD | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
-| 14:00 | EUR | German Factory Orders (MoM) (Jul) |  | -4.0% | 7.0% |
+| 46 min | EUR | German Factory Orders (MoM) (Jul) |  | -4.0% | 7.0% |
 | 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.5 | 51.7 |
 | 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.460% |
 | 18:05 | EUR | German Buba Wuermeling Speaks |  |  |  |
