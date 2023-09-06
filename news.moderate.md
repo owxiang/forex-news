@@ -3,7 +3,6 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 46 min | USD | Beige Book |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | -1.429M | -11.486M |
 | 09:30 | AUD | Building Approvals (MoM) |  | -8.1% | -7.9% |
 | 09:30 | AUD | Trade Balance (Jul) |  | 10.000B | 11.321B |
@@ -16,10 +15,10 @@
 | 14:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | -0.1% | -0.3% |
 | 14:00 | EUR | German Industrial Production (MoM) (Jul) |  | -0.2% | -1.5% |
 | 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 17:00 | EUR | GDP (YoY) |  | 0.6% | 1.1% |
 | 17:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
-| 20:00 | MXN | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
+| 17:00 | EUR | GDP (YoY) |  | 0.6% | 1.1% |
 | 20:00 | MXN | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
+| 20:00 | MXN | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 3.7% | -2.1% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 4.2% |
 | 20:30 | CAD | Building Permits (MoM) (Jul) |  | 7.5% | 6.1% |

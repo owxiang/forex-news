@@ -3,9 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -1.868B |
-| 46 min | USD | Moderate | Beige Book |  |  |  |
-| 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -0.566B |  | 1.922B |
+| 41 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.429M | -11.486M |
 | 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
@@ -39,8 +38,8 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
 | 14:45 | EUR | Low | French Trade Balance |  | -6.8B | -6.7B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
-| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
+| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.190T | 3.204T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
 | 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
@@ -49,18 +48,18 @@
 | 16:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
 | 17:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.09% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 17:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
+| 17:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
-| 17:00 | EUR | Moderate | GDP (YoY) |  | 0.6% | 1.1% |
 | 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
+| 17:00 | EUR | Moderate | GDP (YoY) |  | 0.6% | 1.1% |
 | 17:00 | ZAR | Low | Current Account (Q2) |  | -178.4B | -66.2B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | -1.00% |
 | 18:00 | ZAR | Low | Business Confidence |  |  | 107.3 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 6.64% |
 | 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |

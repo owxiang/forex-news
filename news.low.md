@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | BRL | Foreign Exchange Flows |  |  | -1.868B |
-| 03:00 | USD | Fed Logan Speaks |  |  |  |
+| 01:30 | BRL | Foreign Exchange Flows | -0.566B |  | 1.922B |
+| 41 min | USD | Fed Logan Speaks |  |  |  |
 | 06:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 425.1B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
@@ -26,8 +26,8 @@
 | 14:45 | EUR | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
 | 14:45 | EUR | French Trade Balance |  | -6.8B | -6.7B |
 | 15:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
-| 16:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | CNY | FX Reserves (USD) |  | 3.190T | 3.204T |
 | 16:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
 | 16:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
@@ -35,8 +35,8 @@
 | 16:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
 | 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.09% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 17:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
+| 17:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
 | 17:00 | EUR | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
 | 17:00 | ZAR | Current Account (Q2) |  | -178.4B | -66.2B |
 | 17:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.00% |
