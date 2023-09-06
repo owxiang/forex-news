@@ -6,10 +6,10 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.566B |  | 1.922B |
 | 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | -1.429M | -11.486M |
-| 31 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -603.8B |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
+| 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) | 2.9% |  | -1.8% |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -603.8B |
+| 35 min | JPY | Low | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
 | 09:30 | AUD | Moderate | Building Approvals (MoM) |  | -8.1% | -7.9% |
 | 09:30 | AUD | Low | Exports (MoM) (Jul) |  |  | -2.0% |
 | 09:30 | AUD | Low | Imports (MoM) (Jul) |  |  | -4.0% |

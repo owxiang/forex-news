@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -0.566B |  | 1.922B |
 | 03:00 | USD | Fed Logan Speaks |  |  |  |
-| 31 min | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | 425.1B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
-| 07:50 | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
+| 06:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) | 2.9% |  | -1.8% |
+| 35 min | JPY | Foreign Bonds Buying |  |  | 425.1B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
+| 35 min | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
 | 09:30 | AUD | Exports (MoM) (Jul) |  |  | -2.0% |
 | 09:30 | AUD | Imports (MoM) (Jul) |  |  | -4.0% |
 | 09:30 | AUD | Private House Approvals |  | 0.1% | -1.3% |
