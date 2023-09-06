@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.868B |
-| 02:00 | USD | Moderate | Beige Book |  |  |  |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -1.868B |
+| 46 min | USD | Moderate | Beige Book |  |  |  |
 | 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.429M | -11.486M |
 | 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
@@ -39,8 +39,8 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
 | 14:45 | EUR | Low | French Trade Balance |  | -6.8B | -6.7B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.190T | 3.204T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
 | 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |

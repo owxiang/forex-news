@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 02:00 | USD | Beige Book |  |  |  |
+| 46 min | USD | Beige Book |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | -1.429M | -11.486M |
 | 09:30 | AUD | Building Approvals (MoM) |  | -8.1% | -7.9% |
 | 09:30 | AUD | Trade Balance (Jul) |  | 10.000B | 11.321B |
