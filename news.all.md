@@ -5,7 +5,7 @@
 | 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.566B |  | 1.922B |
 | 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
-| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.429M | -11.486M |
+| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | -1.429M | -11.486M |
 | 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -603.8B |
