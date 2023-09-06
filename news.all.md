@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
-| 23 min | AUD | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
-| 23 min | AUD | Moderate | GDP (YoY) (Q2) |  | 1.7% | 2.3% |
-| 23 min | AUD | Low | GDP Capital Expenditure (Q2) |  |  | 1.8% |
-| 23 min | AUD | Low | GDP Chain Price Index (Q2) |  |  | 1.8% |
-| 23 min | AUD | Low | GDP Final Consumption (Q2) |  |  | 0.2% |
-| 23 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.7% | 2.4% |
+| 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
+| 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
+| 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
+| 09:30 | AUD | Low | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
+| 09:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | -4.0% | 7.0% |
 | 14:00 | NOK | Low | Current Account (Q2) |  |  | 279.7B |
 | 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |

@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23 min | AUD | GDP (QoQ) (Q2) |  | 0.3% | 0.2% |
-| 23 min | AUD | GDP (YoY) (Q2) |  | 1.7% | 2.3% |
+| 09:30 | AUD | GDP (YoY) (Q2) | 2.1% | 1.7% | 2.4% |
+| 09:30 | AUD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
 | 14:00 | EUR | German Factory Orders (MoM) (Jul) |  | -4.0% | 7.0% |
 | 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.7 | 51.7 |
 | 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.460% |
