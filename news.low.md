@@ -15,8 +15,8 @@
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 42.4 |  | 42.9 |
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
 | 17:00 | GBP | 5-Year Treasury Gilt Auction | 4.803% |  | 4.575% |
-| 17:00 | EUR | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
 | 17:00 | EUR | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
+| 17:00 | EUR | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate | 7.21% |  | 7.31% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) | -2.9% |  | 2.3% |
 | 19:00 | USD | MBA Purchase Index | 141.9 |  | 144.9 |
@@ -24,14 +24,14 @@
 | 19:00 | USD | Mortgage Refinance Index | 388.1 |  | 407.1 |
 | 19:00 | CAD | Leading Index (MoM) (Aug) | 0.05% |  | 0.04% |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.05% |  | -0.40% |
-| 17 min | INR | M3 Money Supply |  |  | 10.9% |
-| 20:15 | CAD | Reserve Assets Total (Aug) |  |  | 114,512.0B |
+| 19:30 | INR | M3 Money Supply | 10.8% |  | 10.9% |
+| 20:15 | CAD | Reserve Assets Total (Aug) | 114,687.0B |  | 114,512.0B |
 | 20:30 | USD | Fed Collins Speaks |  |  |  |
-| 20:30 | CAD | Exports (Jul) |  |  | 60.70B |
-| 20:30 | CAD | Imports (Jul) |  |  | 64.43B |
-| 20:55 | USD | Redbook (YoY) |  |  | 4.2% |
-| 21:00 | BRL | Auto Production (MoM) |  |  | -3.3% |
-| 21:00 | BRL | Auto Sales (MoM) |  |  | 19.0% |
+| 20:30 | CAD | Exports (Jul) | 60.42B |  | 59.97B |
+| 20:30 | CAD | Imports (Jul) | 61.40B |  | 64.89B |
+| 24 min | USD | Redbook (YoY) |  |  | 4.2% |
+| 29 min | BRL | Auto Production (MoM) |  |  | -3.3% |
+| 29 min | BRL | Auto Sales (MoM) |  |  | 19.0% |
 | 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
 | 22:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 57.1 |
 | 22:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 55.0 |

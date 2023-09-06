@@ -19,8 +19,8 @@
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) | 50.8 | 50.5 | 51.7 |
 | 17:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.803% |  | 4.575% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.630% |  | 2.460% |
 | 18:05 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.21% |  | 7.31% |
@@ -30,21 +30,21 @@
 | 19:00 | USD | Low | Mortgage Refinance Index | 388.1 |  | 407.1 |
 | 19:00 | CAD | Low | Leading Index (MoM) (Aug) | 0.05% |  | 0.04% |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.05% |  | -0.40% |
-| 17 min | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 47 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 20:15 | CAD | Low | Reserve Assets Total (Aug) |  |  | 114,512.0B |
+| 19:30 | INR | Low | M3 Money Supply | 10.8% |  | 10.9% |
+| 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 20:15 | CAD | Low | Reserve Assets Total (Aug) | 114,687.0B |  | 114,512.0B |
 | 20:30 | USD | Moderate | Exports |  |  | 247.50B |
 | 20:30 | USD | Low | Fed Collins Speaks |  |  |  |
-| 20:30 | USD | Moderate | Imports |  |  | 313.00B |
-| 20:30 | USD | Moderate | Trade Balance (Jul) |  | -68.00B | -65.50B |
-| 20:30 | CAD | Low | Exports (Jul) |  |  | 60.70B |
-| 20:30 | CAD | Low | Imports (Jul) |  |  | 64.43B |
-| 20:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.1% | -0.6% |
-| 20:30 | CAD | Moderate | Trade Balance (Jul) |  | -3.65B | -3.73B |
-| 20:55 | USD | Low | Redbook (YoY) |  |  | 4.2% |
-| 21:00 | BRL | Low | Auto Production (MoM) |  |  | -3.3% |
-| 21:00 | BRL | Low | Auto Sales (MoM) |  |  | 19.0% |
-| 21:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
+| 20:30 | USD | Moderate | Imports | 316.70B |  | 313.00B |
+| 20:30 | USD | Moderate | Trade Balance (Jul) | -65.00B | -68.00B | -63.70B |
+| 20:30 | CAD | Low | Exports (Jul) | 60.42B |  | 59.97B |
+| 20:30 | CAD | Low | Imports (Jul) | 61.40B |  | 64.89B |
+| 20:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) | -0.6% | -0.1% | -0.8% |
+| 20:30 | CAD | Moderate | Trade Balance (Jul) | -0.99B | -3.65B | -4.92B |
+| 24 min | USD | Low | Redbook (YoY) |  |  | 4.2% |
+| 29 min | BRL | Low | Auto Production (MoM) |  |  | -3.3% |
+| 29 min | BRL | Low | Auto Sales (MoM) |  |  | 19.0% |
+| 44 min | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
 | 21:35 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) |  | 50.4 | 52.0 |
 | 21:45 | USD | High | S&P Global Services PMI (Aug) |  | 51.0 | 52.3 |
