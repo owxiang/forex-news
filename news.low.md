@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 52-Week Bill Auction | 5.120% |  | 5.060% |
-| 09:30 | AUD | GDP Capital Expenditure (Q2) |  |  | 1.8% |
-| 09:30 | AUD | GDP Chain Price Index (Q2) |  |  | 1.8% |
-| 09:30 | AUD | GDP Final Consumption (Q2) |  |  | 0.2% |
-| 09:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 23 min | AUD | GDP Capital Expenditure (Q2) |  |  | 1.8% |
+| 23 min | AUD | GDP Chain Price Index (Q2) |  |  | 1.8% |
+| 23 min | AUD | GDP Final Consumption (Q2) |  |  | 0.2% |
+| 23 min | AUD | RBA Chart Pack Release |  |  |  |
 | 14:00 | NOK | Current Account (Q2) |  |  | 279.7B |
 | 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
 | 15:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
