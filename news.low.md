@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -0.566B |  | 1.922B |
 | 03:00 | USD | Fed Logan Speaks |  |  |  |
-| 06:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
+| 31 min | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 425.1B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
 | 07:50 | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |

@@ -6,7 +6,7 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.566B |  | 1.922B |
 | 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | -1.429M | -11.486M |
-| 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
+| 31 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -603.8B |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
@@ -58,8 +58,8 @@
 | 18:00 | ZAR | Low | Business Confidence |  |  | 107.3 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 6.64% |
 | 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
