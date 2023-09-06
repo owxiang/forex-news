@@ -5,8 +5,8 @@
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
 | 08:00 | AUD | Low | AIG Construction Index | -9.9 |  | -9.2 |
 | 08:00 | AUD | Low | AIG Manufacturing Index | -19.8 |  | -25.6 |
-| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
 | 09:30 | AUD | Low | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
@@ -17,12 +17,12 @@
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Aug) | 41.5 |  | 41.0 |
 | 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) | 42.4 |  | 42.9 |
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
-| 10 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.5 | 51.7 |
-| 40 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.575% |
-| 40 min | EUR | Low | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
-| 40 min | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
-| 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.460% |
-| 18:05 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) | 50.8 | 50.5 | 51.7 |
+| 17:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.803% |  | 4.575% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
+| 15 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.460% |
+| 50 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.3% |
 | 19:00 | USD | Low | MBA Purchase Index |  |  | 144.9 |
