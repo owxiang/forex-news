@@ -3,7 +3,9 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
-| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.7% | 2.4% |
+| 08:00 | AUD | Low | AIG Construction Index | -9.9 |  | -9.2 |
+| 08:00 | AUD | Low | AIG Manufacturing Index | -19.8 |  | -25.6 |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
@@ -15,10 +17,10 @@
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
 | 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
-| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.7 | 51.7 |
+| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.5 | 51.7 |
 | 17:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.575% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.2% | -0.3% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.460% |
 | 18:05 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
@@ -32,12 +34,13 @@
 | 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Aug) |  |  | 114,512.0B |
 | 20:30 | USD | Moderate | Exports |  |  | 247.50B |
+| 20:30 | USD | Low | Fed Collins Speaks |  |  |  |
 | 20:30 | USD | Moderate | Imports |  |  | 313.00B |
 | 20:30 | USD | Moderate | Trade Balance (Jul) |  | -68.00B | -65.50B |
 | 20:30 | CAD | Low | Exports (Jul) |  |  | 60.70B |
 | 20:30 | CAD | Low | Imports (Jul) |  |  | 64.43B |
 | 20:30 | CAD | Moderate | Labor Productivity (QoQ) (Q2) |  | -0.1% | -0.6% |
-| 20:30 | CAD | Moderate | Trade Balance (Jul) |  | -3.63B | -3.73B |
+| 20:30 | CAD | Moderate | Trade Balance (Jul) |  | -3.65B | -3.73B |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.2% |
 | 21:00 | BRL | Low | Auto Production (MoM) |  |  | -3.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) |  |  | 19.0% |
