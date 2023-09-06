@@ -2,13 +2,13 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | AUD | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
+| 09:30 | AUD | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 14:00 | EUR | German Factory Orders (MoM) (Jul) | -11.7% | -4.0% | 7.6% |
 | 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) | 50.8 | 50.5 | 51.7 |
 | 17:30 | EUR | German 10-Year Bund Auction | 2.630% |  | 2.460% |
 | 18:05 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 47 min | EUR | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | Exports |  |  | 247.50B |
 | 20:30 | USD | Imports |  |  | 313.00B |
 | 20:30 | USD | Trade Balance (Jul) |  | -68.00B | -65.50B |

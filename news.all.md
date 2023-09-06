@@ -5,8 +5,8 @@
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
 | 08:00 | AUD | Low | AIG Construction Index | -9.9 |  | -9.2 |
 | 08:00 | AUD | Low | AIG Manufacturing Index | -19.8 |  | -25.6 |
-| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
 | 09:30 | AUD | Low | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
@@ -19,19 +19,19 @@
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) | 50.8 | 50.5 | 51.7 |
 | 17:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.803% |  | 4.575% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.630% |  | 2.460% |
 | 18:05 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.3% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 144.9 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 189.0 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 407.1 |
-| 44 min | CAD | Low | Leading Index (MoM) (Aug) |  |  | 0.00% |
-| 44 min | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.40% |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.21% |  | 7.31% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.9% |  | 2.3% |
+| 19:00 | USD | Low | MBA Purchase Index | 141.9 |  | 144.9 |
+| 19:00 | USD | Low | Mortgage Market Index | 183.6 |  | 189.0 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 388.1 |  | 407.1 |
+| 19:00 | CAD | Low | Leading Index (MoM) (Aug) | 0.05% |  | 0.04% |
+| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Aug) | 0.05% |  | -0.40% |
+| 17 min | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 47 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Aug) |  |  | 114,512.0B |
 | 20:30 | USD | Moderate | Exports |  |  | 247.50B |
 | 20:30 | USD | Low | Fed Collins Speaks |  |  |  |
