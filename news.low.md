@@ -10,10 +10,10 @@
 | 09:30 | AUD | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
 | 09:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 14:00 | NOK | Current Account (Q2) | 171.3B |  | 279.2B |
-| 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
-| 15:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
-| 15:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
-| 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
+| 16 min | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
+| 16 min | EUR | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
+| 16 min | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
+| 16 min | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
 | 17:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.575% |
 | 17:00 | EUR | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
 | 17:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
