@@ -15,10 +15,10 @@
 | 14:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | -0.1% | -0.3% |
 | 14:00 | EUR | German Industrial Production (MoM) (Jul) |  | -0.2% | -1.5% |
 | 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 17:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
 | 17:00 | EUR | GDP (YoY) |  | 0.6% | 1.1% |
-| 20:00 | MXN | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
+| 17:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
 | 20:00 | MXN | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
+| 20:00 | MXN | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 3.7% | -2.1% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 4.2% |
 | 20:30 | CAD | Building Permits (MoM) (Jul) |  | 7.5% | 6.1% |

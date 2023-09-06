@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.566B |  | 1.922B |
-| 41 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.429M | -11.486M |
 | 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
@@ -48,18 +48,18 @@
 | 16:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
 | 17:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.09% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 17:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
+| 17:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) |  | 0.6% | 1.1% |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
 | 17:00 | ZAR | Low | Current Account (Q2) |  | -178.4B | -66.2B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q2) |  |  | -1.00% |
 | 18:00 | ZAR | Low | Business Confidence |  |  | 107.3 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 6.64% |
 | 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |

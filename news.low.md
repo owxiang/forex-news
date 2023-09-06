@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -0.566B |  | 1.922B |
-| 41 min | USD | Fed Logan Speaks |  |  |  |
+| 03:00 | USD | Fed Logan Speaks |  |  |  |
 | 06:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 425.1B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
@@ -35,8 +35,8 @@
 | 16:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
 | 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.09% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 17:00 | EUR | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
+| 17:00 | EUR | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
 | 17:00 | ZAR | Current Account (Q2) |  | -178.4B | -66.2B |
 | 17:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.00% |
