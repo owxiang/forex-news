@@ -10,13 +10,13 @@
 | 09:30 | AUD | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
 | 09:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 14:00 | NOK | Current Account (Q2) | 171.3B |  | 279.2B |
-| 16 min | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
-| 16 min | EUR | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
-| 16 min | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
-| 16 min | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
-| 17:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.575% |
-| 17:00 | EUR | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
-| 17:00 | EUR | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
+| 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.0 |
+| 15:30 | EUR | HCOB Germany Construction PMI (Aug) | 41.5 |  | 41.0 |
+| 15:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 42.4 |  | 42.9 |
+| 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
+| 40 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.575% |
+| 40 min | EUR | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
+| 40 min | EUR | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
 | 19:00 | USD | MBA Purchase Index |  |  | 144.9 |
@@ -35,4 +35,3 @@
 | 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
 | 22:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 57.1 |
 | 22:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 55.0 |
-| 22:00 | USD | Milk Auctions |  |  | 2,875.0 |

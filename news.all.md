@@ -13,14 +13,14 @@
 | 09:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | -11.7% | -4.0% | 7.6% |
 | 14:00 | NOK | Low | Current Account (Q2) | 171.3B |  | 279.2B |
-| 16 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
-| 16 min | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
-| 16 min | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
-| 16 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) |  |  | 43.5 |
-| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.5 | 51.7 |
-| 17:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.575% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
+| 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.0 |
+| 15:30 | EUR | Low | HCOB Germany Construction PMI (Aug) | 41.5 |  | 41.0 |
+| 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) | 42.4 |  | 42.9 |
+| 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
+| 10 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Aug) |  | 50.5 | 51.7 |
+| 40 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.575% |
+| 40 min | EUR | Low | Retail Sales (YoY) (Jul) |  | -1.2% | -1.4% |
+| 40 min | EUR | Low | Retail Sales (MoM) (Jul) |  | -0.1% | -0.3% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.460% |
 | 18:05 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
@@ -56,5 +56,4 @@
 | 22:00 | USD | High | ISM Non-Manufacturing Prices (Aug) |  |  | 56.8 |
 | 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 22:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 22:00 | USD | Low | Milk Auctions |  |  | 2,875.0 |
 | 23:10 | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
