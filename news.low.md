@@ -25,13 +25,11 @@
 | 19:00 | CAD | Leading Index (MoM) (Aug) | 0.05% |  | 0.04% |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.05% |  | -0.40% |
 | 19:30 | INR | M3 Money Supply | 10.8% |  | 10.9% |
-| 20:15 | CAD | Reserve Assets Total (Aug) | 114,687.0B |  | 114,512.0B |
+| 20:15 | CAD | Reserve Assets Total (Aug) | 114.7B |  | 114.5B |
 | 20:30 | USD | Fed Collins Speaks |  |  |  |
 | 20:30 | CAD | Exports (Jul) | 60.42B |  | 59.97B |
 | 20:30 | CAD | Imports (Jul) | 61.40B |  | 64.89B |
-| 24 min | USD | Redbook (YoY) |  |  | 4.2% |
-| 29 min | BRL | Auto Production (MoM) |  |  | -3.3% |
-| 29 min | BRL | Auto Sales (MoM) |  |  | 19.0% |
-| 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 22:00 | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 57.1 |
-| 22:00 | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 55.0 |
+| 20:55 | USD | Redbook (YoY) | 4.1% |  | 4.2% |
+| 40 min | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
+| 40 min | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 57.1 |
+| 40 min | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 55.0 |
