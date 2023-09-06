@@ -5,8 +5,8 @@
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
 | 08:00 | AUD | Low | AIG Construction Index | -9.9 |  | -9.2 |
 | 08:00 | AUD | Low | AIG Manufacturing Index | -19.8 |  | -25.6 |
-| 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
 | 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
+| 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
 | 09:30 | AUD | Low | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
@@ -54,4 +54,4 @@
 | 22:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 58.9 |  | 56.8 |
 | 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 22:00 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
-| 55 min | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
+| 23:10 | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |

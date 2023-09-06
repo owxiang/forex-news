@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | AUD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
 | 09:30 | AUD | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
+| 09:30 | AUD | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
 | 14:00 | EUR | German Factory Orders (MoM) (Jul) | -11.7% | -4.0% | 7.6% |
 | 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Aug) | 50.8 | 50.5 | 51.7 |
 | 17:30 | EUR | German 10-Year Bund Auction | 2.630% |  | 2.460% |
@@ -19,4 +19,4 @@
 | 21:45 | USD | S&P Global Composite PMI (Aug) | 50.2 | 50.4 | 52.0 |
 | 22:00 | USD | ISM Non-Manufacturing Employment (Aug) | 54.7 |  | 50.7 |
 | 22:00 | CAD | BoC Rate Statement |  |  |  |
-| 55 min | AUD | RBA Governor Lowe Speaks |  |  |  |
+| 23:10 | AUD | RBA Governor Lowe Speaks |  |  |  |
