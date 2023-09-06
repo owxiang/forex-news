@@ -9,7 +9,7 @@
 | 09:30 | AUD | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
 | 09:30 | AUD | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
 | 09:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 46 min | NOK | Current Account (Q2) |  |  | 279.7B |
+| 14:00 | NOK | Current Account (Q2) | 171.3B |  | 279.2B |
 | 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
 | 15:30 | EUR | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |

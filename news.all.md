@@ -5,14 +5,14 @@
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
 | 08:00 | AUD | Low | AIG Construction Index | -9.9 |  | -9.2 |
 | 08:00 | AUD | Low | AIG Manufacturing Index | -19.8 |  | -25.6 |
-| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
 | 09:30 | AUD | Low | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
 | 09:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 46 min | EUR | Moderate | German Factory Orders (MoM) (Jul) |  | -4.0% | 7.0% |
-| 46 min | NOK | Low | Current Account (Q2) |  |  | 279.7B |
+| 14:00 | EUR | Moderate | German Factory Orders (MoM) (Jul) | -11.7% | -4.0% | 7.6% |
+| 14:00 | NOK | Low | Current Account (Q2) | 171.3B |  | 279.2B |
 | 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Aug) |  |  | 48.0 |
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Aug) |  |  | 41.0 |
 | 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Aug) |  |  | 42.9 |
