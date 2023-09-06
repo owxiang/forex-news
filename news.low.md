@@ -1,35 +1,65 @@
-## 06 September 2023 - Low Impact Forex News
+## 07 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 52-Week Bill Auction | 5.120% |  | 5.060% |
-| 08:00 | AUD | AIG Construction Index | -9.9 |  | -9.2 |
-| 08:00 | AUD | AIG Manufacturing Index | -19.8 |  | -25.6 |
-| 09:30 | AUD | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
-| 09:30 | AUD | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
-| 09:30 | AUD | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
-| 09:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 14:00 | NOK | Current Account (Q2) | 171.3B |  | 279.2B |
-| 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Aug) | 47.7 |  | 48.0 |
-| 15:30 | EUR | HCOB Germany Construction PMI (Aug) | 41.5 |  | 41.0 |
-| 15:30 | EUR | HCOB France Construction PMI (MoM) (Aug) | 42.4 |  | 42.9 |
-| 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Aug) | 43.4 |  | 43.5 |
-| 17:00 | GBP | 5-Year Treasury Gilt Auction | 4.803% |  | 4.575% |
-| 17:00 | EUR | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
-| 17:00 | EUR | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.21% |  | 7.31% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) | -2.9% |  | 2.3% |
-| 19:00 | USD | MBA Purchase Index | 141.9 |  | 144.9 |
-| 19:00 | USD | Mortgage Market Index | 183.6 |  | 189.0 |
-| 19:00 | USD | Mortgage Refinance Index | 388.1 |  | 407.1 |
-| 19:00 | CAD | Leading Index (MoM) (Aug) | 0.05% |  | 0.04% |
-| 19:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) | 0.05% |  | -0.40% |
-| 19:30 | INR | M3 Money Supply | 10.8% |  | 10.9% |
-| 20:15 | CAD | Reserve Assets Total (Aug) | 114.7B |  | 114.5B |
-| 20:30 | USD | Fed Collins Speaks |  |  |  |
-| 20:30 | CAD | Exports (Jul) | 60.42B |  | 59.97B |
-| 20:30 | CAD | Imports (Jul) | 61.40B |  | 64.89B |
-| 20:55 | USD | Redbook (YoY) | 4.1% |  | 4.2% |
-| 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 22:00 | USD | ISM Non-Manufacturing Business Activity (Aug) | 57.3 |  | 57.1 |
-| 22:00 | USD | ISM Non-Manufacturing New Orders (Aug) | 57.5 |  | 55.0 |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.868B |
+| 03:00 | USD | Fed Logan Speaks |  |  |  |
+| 06:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) |  |  | -2.1% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 425.1B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
+| 07:50 | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
+| 09:30 | AUD | Exports (MoM) (Jul) |  |  | -2.0% |
+| 09:30 | AUD | Imports (MoM) (Jul) |  |  | -4.0% |
+| 09:30 | AUD | Private House Approvals |  | 0.1% | -1.3% |
+| 11:00 | CNY | Exports (Aug) |  |  | -9.20M |
+| 11:00 | CNY | Imports (Aug) |  |  | -6.90M |
+| 11:00 | CNY | Trade Balance (Aug) |  | 494.00M | 575.70M |
+| 11:35 | JPY | 30-Year JGB Auction |  |  | 1.593% |
+| 12:00 | IDR | FX Reserves (USD) (Aug) |  |  | 137.70B |
+| 13:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | 0.8% |
+| 13:00 | JPY | Leading Index (MoM) (Jul) |  |  | -0.2% |
+| 13:00 | JPY | Leading Index |  | 107.9 | 108.9 |
+| 13:45 | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 1.9% |
+| 13:45 | CHF | Unemployment Rate s.a. (Aug) |  | 2.1% | 2.1% |
+| 14:00 | EUR | Industrial Production (YoY) (Jul) |  |  | -1.83% |
+| 14:00 | NOK | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
+| 14:45 | EUR | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
+| 14:45 | EUR | French Trade Balance |  | -6.8B | -6.7B |
+| 15:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
+| 16:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
+| 16:00 | CNY | FX Reserves (USD) |  | 3.190T | 3.204T |
+| 16:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
+| 16:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
+| 16:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
+| 16:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
+| 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.09% |
+| 17:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
+| 17:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
+| 17:00 | EUR | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
+| 17:00 | EUR | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
+| 17:00 | ZAR | Current Account (Q2) |  | -178.4B | -66.2B |
+| 17:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.00% |
+| 18:00 | ZAR | Business Confidence |  |  | 107.3 |
+| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
+| 20:00 | MXN | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
+| 20:00 | MXN | Month Core Inflation (MoM) (Aug) |  |  | 6.64% |
+| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
+| 20:00 | MXN | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,715K | 1,725K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
+| 22:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
+| 22:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
+| 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 22:30 | USD | Natural Gas Storage |  |  | 32B |
+| 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
+| 23:00 | USD | Crude Oil Imports |  |  | -0.586M |
+| 23:00 | USD | Distillate Fuel Production |  |  | -0.043M |
+| 23:00 | USD | EIA Weekly Distillates Stocks |  |  | 1.235M |
+| 23:00 | USD | Gasoline Production |  |  | 0.290M |
+| 23:00 | USD | Heating Oil Stockpiles |  |  | 0.170M |
+| 23:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
+| 23:00 | USD | Gasoline Inventories |  |  | -0.214M |
+| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
+| 23:45 | USD | Fed Goolsbee Speaks |  |  |  |
