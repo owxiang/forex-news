@@ -17,13 +17,13 @@
 | 17:00 | GBP | 5-Year Treasury Gilt Auction | 4.803% |  | 4.575% |
 | 17:00 | EUR | Retail Sales (YoY) (Jul) | -1.0% | -1.2% | -1.0% |
 | 17:00 | EUR | Retail Sales (MoM) (Jul) | -0.2% | -0.1% | 0.2% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
-| 19:00 | USD | MBA Purchase Index |  |  | 144.9 |
-| 19:00 | USD | Mortgage Market Index |  |  | 189.0 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 407.1 |
-| 19:00 | CAD | Leading Index (MoM) (Aug) |  |  | 0.00% |
-| 19:00 | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.40% |
+| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
+| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.3% |
+| 44 min | USD | MBA Purchase Index |  |  | 144.9 |
+| 44 min | USD | Mortgage Market Index |  |  | 189.0 |
+| 44 min | USD | Mortgage Refinance Index |  |  | 407.1 |
+| 44 min | CAD | Leading Index (MoM) (Aug) |  |  | 0.00% |
+| 44 min | BRL | IGP-DI Inflation Index (MoM) (Aug) |  |  | -0.40% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.9% |
 | 20:15 | CAD | Reserve Assets Total (Aug) |  |  | 114,512.0B |
 | 20:30 | USD | Fed Collins Speaks |  |  |  |
