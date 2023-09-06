@@ -30,6 +30,6 @@
 | 20:30 | CAD | Exports (Jul) | 60.42B |  | 59.97B |
 | 20:30 | CAD | Imports (Jul) | 61.40B |  | 64.89B |
 | 20:55 | USD | Redbook (YoY) | 4.1% |  | 4.2% |
-| 40 min | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 40 min | USD | ISM Non-Manufacturing Business Activity (Aug) |  |  | 57.1 |
-| 40 min | USD | ISM Non-Manufacturing New Orders (Aug) |  |  | 55.0 |
+| 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
+| 22:00 | USD | ISM Non-Manufacturing Business Activity (Aug) | 57.3 |  | 57.1 |
+| 22:00 | USD | ISM Non-Manufacturing New Orders (Aug) | 57.5 |  | 55.0 |

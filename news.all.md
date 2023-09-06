@@ -5,8 +5,8 @@
 | 01:00 | USD | Low | 52-Week Bill Auction | 5.120% |  | 5.060% |
 | 08:00 | AUD | Low | AIG Construction Index | -9.9 |  | -9.2 |
 | 08:00 | AUD | Low | AIG Manufacturing Index | -19.8 |  | -25.6 |
-| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Moderate | GDP (QoQ) (Q2) | 0.4% | 0.3% | 0.4% |
+| 09:30 | AUD | Moderate | GDP (YoY) (Q2) | 2.1% | 1.8% | 2.4% |
 | 09:30 | AUD | Low | GDP Capital Expenditure (Q2) | 2.4% |  | 2.4% |
 | 09:30 | AUD | Low | GDP Chain Price Index (Q2) | -2.2% |  | 1.7% |
 | 09:30 | AUD | Low | GDP Final Consumption (Q2) | 0.2% |  | 0.2% |
@@ -43,15 +43,15 @@
 | 20:30 | CAD | Moderate | Trade Balance (Jul) | -0.99B | -3.65B | -4.92B |
 | 20:55 | USD | Low | Redbook (YoY) | 4.1% |  | 4.2% |
 | 21:15 | GBP | Moderate | BoE MPC Treasury Committee Hearings |  |  |  |
-| 15 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 25 min | USD | Moderate | S&P Global Composite PMI (Aug) |  | 50.4 | 52.0 |
-| 25 min | USD | High | S&P Global Services PMI (Aug) |  | 51.0 | 52.3 |
-| 40 min | USD | Low | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
-| 40 min | USD | Low | ISM Non-Manufacturing Business Activity (Aug) |  |  | 57.1 |
-| 40 min | USD | Moderate | ISM Non-Manufacturing Employment (Aug) |  |  | 50.7 |
-| 40 min | USD | Low | ISM Non-Manufacturing New Orders (Aug) |  |  | 55.0 |
-| 40 min | USD | High | ISM Non-Manufacturing PMI (Aug) |  | 52.5 | 52.7 |
-| 40 min | USD | High | ISM Non-Manufacturing Prices (Aug) |  |  | 56.8 |
-| 40 min | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 40 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 23:10 | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
+| 21:35 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 21:45 | USD | Moderate | S&P Global Composite PMI (Aug) | 50.2 | 50.4 | 52.0 |
+| 21:45 | USD | High | S&P Global Services PMI (Aug) | 50.5 | 51.0 | 52.3 |
+| 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 41.1 | 40.3 |
+| 22:00 | USD | Low | ISM Non-Manufacturing Business Activity (Aug) | 57.3 |  | 57.1 |
+| 22:00 | USD | Moderate | ISM Non-Manufacturing Employment (Aug) | 54.7 |  | 50.7 |
+| 22:00 | USD | Low | ISM Non-Manufacturing New Orders (Aug) | 57.5 |  | 55.0 |
+| 22:00 | USD | High | ISM Non-Manufacturing PMI (Aug) | 54.5 | 52.5 | 52.7 |
+| 22:00 | USD | High | ISM Non-Manufacturing Prices (Aug) | 58.9 |  | 56.8 |
+| 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 22:00 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
+| 55 min | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
