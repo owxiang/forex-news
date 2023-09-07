@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.196T |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.290T |  | 3.196T |
 | 07:00 | KRW | Current Account (Jul) |  |  | 5.87B |
 | 07:05 | USD | Fed Logan Speaks |  |  |  |
 | 07:30 | JPY | Overall wage income of employees (Jul) |  |  | 2.3% |
@@ -16,8 +16,8 @@
 | 13:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |
 | 13:30 | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.3% |
-| 14:00 | EUR | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
 | 14:00 | EUR | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
+| 14:00 | EUR | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jul) |  | -0.1% | -0.9% |
 | 15:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  | -2.0% | -3.0% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
