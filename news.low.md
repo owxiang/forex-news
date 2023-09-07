@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.290T |  | 3.196T |
-| 07:00 | KRW | Current Account (Jul) |  |  | 5.87B |
-| 07:05 | USD | Fed Logan Speaks |  |  |  |
+| 46 min | KRW | Current Account (Jul) |  |  | 5.87B |
+| 51 min | USD | Fed Logan Speaks |  |  |  |
 | 07:30 | JPY | Overall wage income of employees (Jul) |  |  | 2.3% |
 | 07:30 | JPY | Overtime Pay (YoY) (Jul) |  |  | 2.30% |
 | 07:50 | JPY | Bank Lending (YoY) (Aug) |  | 2.8% | 2.9% |
