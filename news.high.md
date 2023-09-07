@@ -1,6 +1,6 @@
-## 07 September 2023 - High Impact Forex News
+## 08 September 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:30 | USD | Initial Jobless Claims | 216K | 234K | 229K |
-| 23:00 | USD | Crude Oil Inventories | -6.307M | -2.064M | -10.584M |
+| 07:50 | JPY | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
+| 14:00 | EUR | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
