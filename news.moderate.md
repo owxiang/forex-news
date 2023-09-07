@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:10 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 03:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 03:45 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 33 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 8,121B |
 | 04:55 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 07:50 | JPY | Adjusted Current Account (Jul) |  | 2.24T | 2.35T |

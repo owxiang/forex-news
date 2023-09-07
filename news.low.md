@@ -16,8 +16,8 @@
 | 13:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |
 | 13:30 | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.3% |
-| 14:00 | EUR | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
 | 14:00 | EUR | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
+| 14:00 | EUR | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jul) |  | -0.1% | -0.9% |
 | 15:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  | -2.0% | -3.0% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
