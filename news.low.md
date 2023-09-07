@@ -17,8 +17,8 @@
 | 11:00 | IDR | FX Reserves (USD) (Aug) | 137.10B |  | 137.70B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.640% |  | 1.593% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Jul) | -1.1% |  | 0.9% |
-| 13:00 | JPY | Leading Index | 107.6 | 107.9 | 108.8 |
 | 13:00 | JPY | Leading Index (MoM) (Jul) | -1.2% |  | -0.2% |
+| 13:00 | JPY | Leading Index | 107.6 | 107.9 | 108.8 |
 | 13:30 | EUR | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.1% |
 | 13:45 | CHF | Unemployment Rate n.s.a. (Aug) | 2.0% |  | 1.9% |
 | 13:45 | CHF | Unemployment Rate s.a. (Aug) | 2.1% | 2.1% | 2.1% |
@@ -41,20 +41,20 @@
 | 16:50 | EUR | Spanish 3-Year Bonos Auction | 3.304% |  | 3.303% |
 | 17:00 | EUR | French 10-Year OAT Auction | 3.15% |  | 3.09% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Aug) | 337.3B |  | 340.8B |
-| 17:00 | EUR | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
 | 17:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.6% |
+| 17:00 | EUR | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
 | 17:00 | EUR | Employment Overall (Q2) | 166,745.3K | 166,745.3K | 166,745.3K |
 | 17:00 | ZAR | Current Account (Q2) | -160.7B | -178.4B | -63.7B |
 | 17:00 | ZAR | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
 | 18:00 | EUR | Spanish Consumer Confidence | 94.4 | 85.7 | 92.4 |
 | 20:00 | MXN | Core CPI (MoM) (Aug) | 0.27% | 0.30% | 0.39% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Aug) | 6.08% | 6.12% | 6.64% |
-| 20:00 | MXN | PPI (MoM) (Aug) | 0.50% |  | 0.30% |
 | 20:00 | MXN | PPI (YoY) (Aug) | 0.10% |  | -0.70% |
+| 20:00 | MXN | PPI (MoM) (Aug) | 0.50% |  | 0.30% |
 | 20:30 | USD | Continuing Jobless Claims | 1,679K | 1,715K | 1,719K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 229.25K |  | 237.75K |
-| 22:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
-| 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 41 min | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
+| 41 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:30 | USD | Natural Gas Storage |  | 43B | 32B |
 | 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
 | 23:00 | USD | Crude Oil Imports |  |  | -0.586M |

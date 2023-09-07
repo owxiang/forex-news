@@ -27,8 +27,8 @@
 | 11:10 | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.640% |  | 1.593% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -1.1% |  | 0.9% |
-| 13:00 | JPY | Low | Leading Index | 107.6 | 107.9 | 108.8 |
 | 13:00 | JPY | Low | Leading Index (MoM) (Jul) | -1.2% |  | -0.2% |
+| 13:00 | JPY | Low | Leading Index | 107.6 | 107.9 | 108.8 |
 | 13:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.1% |
 | 13:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.0% |  | 1.9% |
 | 13:45 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.1% | 2.1% | 2.1% |
@@ -56,30 +56,30 @@
 | 17:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.85% |  | 7.60% |
 | 17:00 | EUR | Low | French 10-Year OAT Auction | 3.15% |  | 3.09% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 337.3B |  | 340.8B |
-| 17:00 | EUR | Low | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.6% |
+| 17:00 | EUR | Low | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) | 166,745.3K | 166,745.3K | 166,745.3K |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.1% |
 | 17:00 | EUR | Moderate | GDP (YoY) | 0.5% | 0.6% | 1.1% |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.1% |
 | 17:00 | ZAR | Low | Current Account (Q2) | -160.7B | -178.4B | -63.7B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence | 94.4 | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) | 0.27% | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.55% | 0.52% | 0.48% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Aug) | 4.64% | 4.61% | 4.79% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.55% | 0.52% | 0.48% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 6.08% | 6.12% | 6.64% |
-| 20:00 | MXN | Low | PPI (MoM) (Aug) | 0.50% |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) | 0.10% |  | -0.70% |
+| 20:00 | MXN | Low | PPI (MoM) (Aug) | 0.50% |  | 0.30% |
 | 20:30 | USD | Low | Continuing Jobless Claims | 1,679K | 1,715K | 1,719K |
 | 20:30 | USD | High | Initial Jobless Claims | 216K | 234K | 229K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 229.25K |  | 237.75K |
 | 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 3.5% | 3.7% | -2.1% |
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 2.2% | 1.6% | 4.2% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jul) | -1.5% | -5.0% | 7.5% |
-| 22:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 22:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
-| 22:00 | CAD | Moderate | Ivey PMI (Aug) |  | 49.2 | 48.6 |
-| 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 41 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 41 min | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
+| 41 min | CAD | Moderate | Ivey PMI (Aug) |  | 49.2 | 48.6 |
+| 41 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:30 | USD | Low | Natural Gas Storage |  | 43B | 32B |
 | 23:00 | USD | High | Crude Oil Inventories |  | -2.064M | -10.584M |
 | 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
