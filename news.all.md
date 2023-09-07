@@ -45,28 +45,27 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Aug) | 215,995.0M |  | 213,962.0M |
 | 14:45 | EUR | Low | French Trade Balance | -8.1B | -6.8B | -6.8B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 694.3B |  | 698.1B |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 2.7% |  | 3.9% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.4% | 0.2% | -0.2% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 2.7% |  | 3.9% |
 | 16:00 | CNY | Low | FX Reserves (USD) (Aug) | 3.160T | 3.187T | 3.204T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 418.40B |  | 421.60B |
 | 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 16:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.660% |  | 3.605% |
 | 16:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 4.190% |  | 3.978% |
-| 16:50 | EUR | Low | Spanish 3-Year Bonos Auction | 3.304% |  | 3.303% |
 | 17:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.85% |  | 7.60% |
 | 17:00 | EUR | Low | French 10-Year OAT Auction | 3.15% |  | 3.09% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 337.3B |  | 340.8B |
 | 17:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) | 166,745.3K | 166,745.3K | 166,745.3K |
-| 17:00 | EUR | Moderate | GDP (YoY) | 0.5% | 0.6% | 1.1% |
 | 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.1% |
+| 17:00 | EUR | Moderate | GDP (YoY) | 0.5% | 0.6% | 1.1% |
 | 17:00 | ZAR | Low | Current Account (Q2) | -160.7B | -178.4B | -63.7B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence | 94.4 | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) | 0.27% | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Aug) | 4.64% | 4.61% | 4.79% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Aug) | 0.55% | 0.52% | 0.48% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Aug) | 4.64% | 4.61% | 4.79% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) | 6.08% | 6.12% | 6.64% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) | 0.10% |  | -0.70% |
 | 20:00 | MXN | Low | PPI (MoM) (Aug) | 0.50% |  | 0.30% |
@@ -76,21 +75,20 @@
 | 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q2) | 3.5% | 3.7% | -2.1% |
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q2) | 2.2% | 1.6% | 4.2% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Jul) | -1.5% | -5.0% | 7.5% |
-| 41 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 41 min | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
-| 41 min | CAD | Moderate | Ivey PMI (Aug) |  | 49.2 | 48.6 |
-| 41 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 22:30 | USD | Low | Natural Gas Storage |  | 43B | 32B |
-| 23:00 | USD | High | Crude Oil Inventories |  | -2.064M | -10.584M |
-| 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
-| 23:00 | USD | Low | Crude Oil Imports |  |  | -0.586M |
-| 23:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.504M |
-| 23:00 | USD | Low | Distillate Fuel Production |  |  | -0.043M |
-| 23:00 | USD | Low | EIA Weekly Distillates Stocks |  | 0.239M | 1.235M |
-| 23:00 | USD | Low | Gasoline Production |  |  | 0.290M |
-| 23:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.170M |
-| 23:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
-| 23:00 | USD | Low | Gasoline Inventories |  | -0.950M | -0.214M |
+| 22:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 22:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 56.8 |  | 45.2 |
+| 22:00 | CAD | Moderate | Ivey PMI (Aug) | 53.5 | 49.2 | 48.6 |
+| 16 min | USD | Low | Natural Gas Storage |  | 43B | 32B |
+| 46 min | USD | High | Crude Oil Inventories |  | -2.064M | -10.584M |
+| 46 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
+| 46 min | USD | Low | Crude Oil Imports |  |  | -0.586M |
+| 46 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.504M |
+| 46 min | USD | Low | Distillate Fuel Production |  |  | -0.043M |
+| 46 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.239M | 1.235M |
+| 46 min | USD | Low | Gasoline Production |  |  | 0.290M |
+| 46 min | USD | Low | Heating Oil Stockpiles |  |  | 0.170M |
+| 46 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
+| 46 min | USD | Low | Gasoline Inventories |  | -0.950M | -0.214M |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
 | 23:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
