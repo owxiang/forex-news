@@ -8,12 +8,12 @@
 | 07:50 | JPY | Foreign Bonds Buying | 90.7B |  | 425.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 531.9B |  | -603.2B |
 | 07:50 | JPY | Foreign Reserves (USD) (Aug) | 1,251.2B |  | 1,253.7B |
-| 23 min | AUD | Exports (MoM) (Jul) |  |  | -2.0% |
-| 23 min | AUD | Imports (MoM) (Jul) |  |  | -4.0% |
-| 23 min | AUD | Private House Approvals |  | 0.1% | -1.3% |
-| 11:00 | CNY | Exports (Aug) |  |  | -9.20M |
-| 11:00 | CNY | Imports (Aug) |  |  | -6.90M |
-| 11:00 | CNY | Trade Balance (Aug) |  | 494.00M | 575.70M |
+| 09:30 | AUD | Exports (MoM) (Jul) | -2.0% |  | -2.0% |
+| 09:30 | AUD | Imports (MoM) (Jul) | 3.0% |  | -4.0% |
+| 09:30 | AUD | Private House Approvals | 0.1% | 0.1% | -1.0% |
+| 40 min | CNY | Exports (Aug) |  |  | -9.20M |
+| 40 min | CNY | Imports (Aug) |  |  | -6.90M |
+| 40 min | CNY | Trade Balance (Aug) |  | 494.00M | 575.70M |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.593% |
 | 12:00 | IDR | FX Reserves (USD) (Aug) |  |  | 137.70B |
 | 13:00 | JPY | Coincident Indicator (MoM) (Jul) |  |  | 0.8% |

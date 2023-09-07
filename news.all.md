@@ -10,19 +10,19 @@
 | 07:50 | JPY | Low | Foreign Bonds Buying | 90.7B |  | 425.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 531.9B |  | -603.2B |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,251.2B |  | 1,253.7B |
-| 23 min | AUD | Moderate | Building Approvals (MoM) |  | -8.1% | -7.9% |
-| 23 min | AUD | Low | Exports (MoM) (Jul) |  |  | -2.0% |
-| 23 min | AUD | Low | Imports (MoM) (Jul) |  |  | -4.0% |
-| 23 min | AUD | Low | Private House Approvals |  | 0.1% | -1.3% |
-| 23 min | AUD | Moderate | Trade Balance (Jul) |  | 10.000B | 11.321B |
-| 23 min | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 11:00 | CNY | Low | Exports (Aug) |  |  | -9.20M |
-| 11:00 | CNY | Low | Imports (Aug) |  |  | -6.90M |
-| 11:00 | CNY | Low | Trade Balance (Aug) |  | 494.00M | 575.70M |
-| 11:00 | CNY | Moderate | Exports (YoY) (Aug) |  | -9.8% | -14.5% |
-| 11:00 | CNY | Moderate | Imports (YoY) (Aug) |  | -8.8% | -12.4% |
-| 11:00 | CNY | Moderate | Trade Balance (USD) (Aug) |  | 78.00B | 80.60B |
-| 11:10 | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
+| 09:30 | AUD | Moderate | Building Approvals (MoM) | -8.1% | -8.1% | -7.9% |
+| 09:30 | AUD | Low | Exports (MoM) (Jul) | -2.0% |  | -2.0% |
+| 09:30 | AUD | Low | Imports (MoM) (Jul) | 3.0% |  | -4.0% |
+| 09:30 | AUD | Low | Private House Approvals | 0.1% | 0.1% | -1.0% |
+| 09:30 | AUD | Moderate | Trade Balance (Jul) | 8.039B | 10.000B | 10.268B |
+| 09:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 40 min | CNY | Low | Exports (Aug) |  |  | -9.20M |
+| 40 min | CNY | Low | Imports (Aug) |  |  | -6.90M |
+| 40 min | CNY | Low | Trade Balance (Aug) |  | 494.00M | 575.70M |
+| 40 min | CNY | Moderate | Exports (YoY) (Aug) |  | -9.8% | -14.5% |
+| 40 min | CNY | Moderate | Imports (YoY) (Aug) |  | -8.8% | -12.4% |
+| 40 min | CNY | Moderate | Trade Balance (USD) (Aug) |  | 78.00B | 80.60B |
+| 50 min | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.593% |
 | 12:00 | IDR | Low | FX Reserves (USD) (Aug) |  |  | 137.70B |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jul) |  |  | 0.8% |
