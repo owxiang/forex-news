@@ -5,12 +5,12 @@
 | 01:30 | BRL | Foreign Exchange Flows | -0.566B |  | 1.922B |
 | 03:00 | USD | Fed Logan Speaks |  |  |  |
 | 06:45 | NZD | Manufacturing Sales Volume (QoQ) (Q2) | 2.9% |  | -1.8% |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 425.1B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -603.8B |
-| 35 min | JPY | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
-| 09:30 | AUD | Exports (MoM) (Jul) |  |  | -2.0% |
-| 09:30 | AUD | Imports (MoM) (Jul) |  |  | -4.0% |
-| 09:30 | AUD | Private House Approvals |  | 0.1% | -1.3% |
+| 07:50 | JPY | Foreign Bonds Buying | 90.7B |  | 425.3B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 531.9B |  | -603.2B |
+| 07:50 | JPY | Foreign Reserves (USD) (Aug) | 1,251.2B |  | 1,253.7B |
+| 23 min | AUD | Exports (MoM) (Jul) |  |  | -2.0% |
+| 23 min | AUD | Imports (MoM) (Jul) |  |  | -4.0% |
+| 23 min | AUD | Private House Approvals |  | 0.1% | -1.3% |
 | 11:00 | CNY | Exports (Aug) |  |  | -9.20M |
 | 11:00 | CNY | Imports (Aug) |  |  | -6.90M |
 | 11:00 | CNY | Trade Balance (Aug) |  | 494.00M | 575.70M |
@@ -35,8 +35,8 @@
 | 16:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
 | 17:00 | EUR | French 10-Year OAT Auction |  |  | 3.09% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 17:00 | EUR | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
+| 17:00 | EUR | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
 | 17:00 | ZAR | Current Account (Q2) |  | -178.4B | -66.2B |
 | 17:00 | ZAR | Current Account % of GDP (Q2) |  |  | -1.00% |
@@ -44,8 +44,8 @@
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Aug) |  |  | 6.64% |
-| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 22:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |

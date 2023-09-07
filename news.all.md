@@ -7,15 +7,15 @@
 | 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | -1.429M | -11.486M |
 | 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) | 2.9% |  | -1.8% |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 425.1B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -603.8B |
-| 35 min | JPY | Low | Foreign Reserves (USD) (Aug) |  |  | 1,253.7B |
-| 09:30 | AUD | Moderate | Building Approvals (MoM) |  | -8.1% | -7.9% |
-| 09:30 | AUD | Low | Exports (MoM) (Jul) |  |  | -2.0% |
-| 09:30 | AUD | Low | Imports (MoM) (Jul) |  |  | -4.0% |
-| 09:30 | AUD | Low | Private House Approvals |  | 0.1% | -1.3% |
-| 09:30 | AUD | Moderate | Trade Balance (Jul) |  | 10.000B | 11.321B |
-| 09:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 90.7B |  | 425.3B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 531.9B |  | -603.2B |
+| 07:50 | JPY | Low | Foreign Reserves (USD) (Aug) | 1,251.2B |  | 1,253.7B |
+| 23 min | AUD | Moderate | Building Approvals (MoM) |  | -8.1% | -7.9% |
+| 23 min | AUD | Low | Exports (MoM) (Jul) |  |  | -2.0% |
+| 23 min | AUD | Low | Imports (MoM) (Jul) |  |  | -4.0% |
+| 23 min | AUD | Low | Private House Approvals |  | 0.1% | -1.3% |
+| 23 min | AUD | Moderate | Trade Balance (Jul) |  | 10.000B | 11.321B |
+| 23 min | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 11:00 | CNY | Low | Exports (Aug) |  |  | -9.20M |
 | 11:00 | CNY | Low | Imports (Aug) |  |  | -6.90M |
 | 11:00 | CNY | Low | Trade Balance (Aug) |  | 494.00M | 575.70M |
@@ -48,8 +48,8 @@
 | 16:40 | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
 | 17:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.09% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 17:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
+| 17:00 | EUR | Low | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
 | 17:00 | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
 | 17:00 | EUR | Moderate | GDP (YoY) |  | 0.6% | 1.1% |
@@ -58,11 +58,11 @@
 | 18:00 | ZAR | Low | Business Confidence |  |  | 107.3 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.53% | 0.48% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  |  | 6.64% |
-| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 235K | 228K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
