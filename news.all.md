@@ -25,21 +25,21 @@
 | 11:00 | IDR | Low | FX Reserves (USD) (Aug) | 137.10B |  | 137.70B |
 | 11:10 | AUD | Moderate | RBA Governor Lowe Speaks |  |  |  |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.640% |  | 1.593% |
-| 42 min | JPY | Low | Coincident Indicator (MoM) (Jul) |  |  | 0.8% |
-| 42 min | JPY | Low | Leading Index (MoM) (Jul) |  |  | -0.2% |
-| 42 min | JPY | Low | Leading Index |  | 107.9 | 108.9 |
-| 13:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 1.9% |
-| 13:45 | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.1% | 2.1% |
-| 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | -3.5% | -2.4% |
-| 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | -0.3% | -0.3% |
-| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | -0.5% | -1.5% |
-| 14:00 | EUR | Low | Industrial Production (YoY) (Jul) |  |  | -1.83% |
-| 14:00 | NOK | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -1.1% |  | 0.9% |
+| 13:00 | JPY | Low | Leading Index (MoM) (Jul) | -1.2% |  | -0.2% |
+| 13:00 | JPY | Low | Leading Index | 107.6 | 107.9 | 108.8 |
+| 31 min | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 1.9% |
+| 31 min | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.1% | 2.1% |
+| 46 min | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | -3.5% | -2.4% |
+| 46 min | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | -0.3% | -0.3% |
+| 46 min | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | -0.5% | -1.5% |
+| 46 min | EUR | Low | Industrial Production (YoY) (Jul) |  |  | -1.83% |
+| 46 min | NOK | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
 | 14:45 | EUR | Low | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
 | 14:45 | EUR | Low | French Trade Balance |  | -6.8B | -6.7B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
-| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
+| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.187T | 3.204T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
 | 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
@@ -61,8 +61,8 @@
 | 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 234K | 228K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |

@@ -11,9 +11,9 @@
 | 11:00 | CNY | Imports (YoY) (Aug) | -7.3% | -9.0% | -12.4% |
 | 11:00 | CNY | Trade Balance (USD) (Aug) | 68.36B | 73.90B | 80.60B |
 | 11:10 | AUD | RBA Governor Lowe Speaks |  |  |  |
-| 14:00 | GBP | Halifax House Price Index (YoY) (Aug) |  | -3.5% | -2.4% |
-| 14:00 | GBP | Halifax House Price Index (MoM) (Aug) |  | -0.3% | -0.3% |
-| 14:00 | EUR | German Industrial Production (MoM) (Jul) |  | -0.5% | -1.5% |
+| 46 min | GBP | Halifax House Price Index (YoY) (Aug) |  | -3.5% | -2.4% |
+| 46 min | GBP | Halifax House Price Index (MoM) (Aug) |  | -0.3% | -0.3% |
+| 46 min | EUR | German Industrial Production (MoM) (Jul) |  | -0.5% | -1.5% |
 | 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 17:00 | EUR | GDP (YoY) |  | 0.6% | 1.1% |
 | 17:00 | EUR | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |

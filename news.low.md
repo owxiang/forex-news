@@ -16,18 +16,18 @@
 | 11:00 | CNY | Trade Balance (Aug) | 488.00M | 494.00M | 575.70M |
 | 11:00 | IDR | FX Reserves (USD) (Aug) | 137.10B |  | 137.70B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.640% |  | 1.593% |
-| 42 min | JPY | Coincident Indicator (MoM) (Jul) |  |  | 0.8% |
-| 42 min | JPY | Leading Index (MoM) (Jul) |  |  | -0.2% |
-| 42 min | JPY | Leading Index |  | 107.9 | 108.9 |
-| 13:45 | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 1.9% |
-| 13:45 | CHF | Unemployment Rate s.a. (Aug) |  | 2.1% | 2.1% |
-| 14:00 | EUR | Industrial Production (YoY) (Jul) |  |  | -1.83% |
-| 14:00 | NOK | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
+| 13:00 | JPY | Coincident Indicator (MoM) (Jul) | -1.1% |  | 0.9% |
+| 13:00 | JPY | Leading Index (MoM) (Jul) | -1.2% |  | -0.2% |
+| 13:00 | JPY | Leading Index | 107.6 | 107.9 | 108.8 |
+| 31 min | CHF | Unemployment Rate n.s.a. (Aug) |  |  | 1.9% |
+| 31 min | CHF | Unemployment Rate s.a. (Aug) |  | 2.1% | 2.1% |
+| 46 min | EUR | Industrial Production (YoY) (Jul) |  |  | -1.83% |
+| 46 min | NOK | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
 | 14:45 | EUR | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
 | 14:45 | EUR | French Trade Balance |  | -6.8B | -6.7B |
 | 15:00 | CHF | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
-| 16:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | CNY | FX Reserves (USD) |  | 3.187T | 3.204T |
 | 16:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
 | 16:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
@@ -44,8 +44,8 @@
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 22:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
