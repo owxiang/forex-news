@@ -20,7 +20,6 @@
 | 14:00 | EUR | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jul) |  | -0.1% | -0.9% |
 | 15:00 | EUR | Spanish Industrial Production (YoY) (Jul) |  | -2.0% | -3.0% |
-| 16:50 | EUR | Spanish 3-Year Bonos Auction | 3.304% |  | 3.303% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 594.86B |

@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 57 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 02:10 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 03:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 03:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,121B |
@@ -15,8 +15,8 @@
 | 07:50 | JPY | Moderate | Adjusted Current Account (Jul) |  | 2.24T | 2.35T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Aug) |  | 2.8% | 2.9% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Jul) |  | 2.295T | 1.509T |
-| 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 6.0% | 2.7% |
+| 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.0% | 1.4% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) |  | 3.4% | 3.4% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 1.8% | -0.3% |
@@ -25,14 +25,13 @@
 | 13:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |
 | 13:30 | EUR | Low | French Non-Farm Payrolls (QoQ) |  |  | 0.3% |
-| 14:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
 | 14:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
+| 14:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
 | 14:00 | EUR | Low | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
 | 14:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | -0.1% | -0.9% |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  | -2.0% | -3.0% |
-| 16:50 | EUR | Low | Spanish 3-Year Bonos Auction | 3.304% |  | 3.303% |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 18:45 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.7% |
