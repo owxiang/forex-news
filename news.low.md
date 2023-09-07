@@ -29,6 +29,7 @@
 | 14:45 | EUR | French Current Account (Jul) | -2.00B |  | 0.30B |
 | 14:45 | EUR | French Exports (Jul) | 52.6B |  | 52.1B |
 | 14:45 | EUR | French Imports (Jul) | 60.7B |  | 58.9B |
+| 14:45 | EUR | French Reserve Assets Total (Aug) | 215,995.0M |  | 213,962.0M |
 | 14:45 | EUR | French Trade Balance | -8.1B | -6.8B | -6.8B |
 | 15:00 | CHF | Foreign Reserves (USD) (Aug) | 694.3B |  | 698.1B |
 | 16:00 | EUR | Italian Retail Sales (YoY) (Jul) | 2.7% |  | 3.9% |
@@ -37,7 +38,7 @@
 | 16:30 | HKD | Foreign Reserves (USD) (Aug) | 418.40B |  | 421.60B |
 | 16:40 | EUR | Spanish 10-Year Obligacion Auction | 3.660% |  | 3.605% |
 | 16:40 | EUR | Spanish 30-Year Obligacion Auction | 4.190% |  | 3.978% |
-| 16:50 | EUR | Spanish 3-Year Bonos Auction | 3.238% |  | 3.303% |
+| 16:50 | EUR | Spanish 3-Year Bonos Auction | 3.304% |  | 3.303% |
 | 17:00 | EUR | French 10-Year OAT Auction | 3.15% |  | 3.09% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Aug) | 337.3B |  | 340.8B |
 | 17:00 | EUR | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.6% |
@@ -48,12 +49,11 @@
 | Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 22:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
-| 22:00 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
 | 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:30 | USD | Natural Gas Storage |  | 43B | 32B |
 | 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |

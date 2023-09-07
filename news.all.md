@@ -4,6 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.566B |  | 1.922B |
+| 02:00 | USD | Moderate | Beige Book |  |  |  |
 | 03:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | -1.429M | -11.486M |
 | 06:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q2) | 2.9% |  | -1.8% |
@@ -41,6 +42,7 @@
 | 14:45 | EUR | Low | French Current Account (Jul) | -2.00B |  | 0.30B |
 | 14:45 | EUR | Low | French Exports (Jul) | 52.6B |  | 52.1B |
 | 14:45 | EUR | Low | French Imports (Jul) | 60.7B |  | 58.9B |
+| 14:45 | EUR | Low | French Reserve Assets Total (Aug) | 215,995.0M |  | 213,962.0M |
 | 14:45 | EUR | Low | French Trade Balance | -8.1B | -6.8B | -6.8B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Aug) | 694.3B |  | 698.1B |
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 2.7% |  | 3.9% |
@@ -50,7 +52,7 @@
 | 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 16:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.660% |  | 3.605% |
 | 16:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 4.190% |  | 3.978% |
-| 16:50 | EUR | Low | Spanish 3-Year Bonos Auction | 3.238% |  | 3.303% |
+| 16:50 | EUR | Low | Spanish 3-Year Bonos Auction | 3.304% |  | 3.303% |
 | 17:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.85% |  | 7.60% |
 | 17:00 | EUR | Low | French 10-Year OAT Auction | 3.15% |  | 3.09% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 337.3B |  | 340.8B |
@@ -63,11 +65,11 @@
 | 17:00 | ZAR | Low | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
+| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 234K | 228K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
@@ -77,7 +79,6 @@
 | 22:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 22:00 | CAD | Low | Ivey PMI n.s.a (Aug) |  |  | 45.2 |
 | 22:00 | CAD | Moderate | Ivey PMI (Aug) |  | 49.2 | 48.6 |
-| 22:00 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.303% |
 | 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:30 | USD | Low | Natural Gas Storage |  | 43B | 32B |
 | 23:00 | USD | High | Crude Oil Inventories |  | -2.064M | -10.584M |
