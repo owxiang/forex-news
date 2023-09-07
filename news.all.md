@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 02:10 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 18 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 33 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,121B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.196T |
-| 04:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 03:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 03:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,121B |
+| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.196T |
+| 39 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 07:00 | KRW | Low | Current Account (Jul) |  |  | 5.87B |
 | 07:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 07:30 | JPY | Low | Overall wage income of employees (Jul) |  |  | 2.3% |
@@ -27,8 +27,8 @@
 | 13:30 | EUR | Low | French Non-Farm Payrolls (QoQ) |  |  | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
 | 14:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
 | 14:00 | EUR | Low | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
+| 14:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | -0.1% | -0.9% |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) |  | -2.0% | -3.0% |
