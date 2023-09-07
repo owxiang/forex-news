@@ -19,11 +19,11 @@
 | 17:00 | GBP | Mortgage Rate (GBP) (Aug) | 7.85% |  | 7.60% |
 | 17:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.1% |
 | 17:00 | EUR | GDP (YoY) | 0.5% | 0.6% | 1.1% |
-| 47 min | MXN | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
-| 47 min | MXN | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
-| 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 3.7% | -2.1% |
-| 20:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 4.2% |
-| 20:30 | CAD | Building Permits (MoM) (Jul) |  | -5.0% | 6.1% |
+| 20:00 | MXN | CPI (MoM) (Aug) | 0.55% | 0.52% | 0.48% |
+| 20:00 | MXN | CPI (YoY) (Aug) | 4.64% | 4.61% | 4.79% |
+| 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) | 3.5% | 3.7% | -2.1% |
+| 20:30 | USD | Unit Labor Costs (QoQ) (Q2) | 2.2% | 1.6% | 4.2% |
+| 20:30 | CAD | Building Permits (MoM) (Jul) | -1.5% | -5.0% | 7.5% |
 | 22:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 22:00 | CAD | Ivey PMI (Aug) |  | 49.2 | 48.6 |
 | 23:00 | USD | Cushing Crude Oil Inventories |  |  | -1.504M |
