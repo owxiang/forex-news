@@ -46,11 +46,11 @@
 | 17:00 | EUR | Employment Overall (Q2) | 166,745.3K | 166,745.3K | 166,745.3K |
 | 17:00 | ZAR | Current Account (Q2) | -160.7B | -178.4B | -63.7B |
 | 17:00 | ZAR | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
-| Tentative | EUR | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 20:00 | MXN | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | PPI (YoY) (Aug) |  |  | -0.80% |
-| 20:00 | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
+| 18:00 | EUR | Spanish Consumer Confidence | 94.4 | 85.7 | 92.4 |
+| 47 min | MXN | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
+| 47 min | MXN | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
+| 47 min | MXN | PPI (YoY) (Aug) |  |  | -0.80% |
+| 47 min | MXN | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 237.50K |
 | 22:00 | CAD | Ivey PMI n.s.a (Aug) |  |  | 45.2 |

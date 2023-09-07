@@ -59,17 +59,17 @@
 | 17:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.6% |
 | 17:00 | EUR | Low | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
 | 17:00 | EUR | Low | Employment Overall (Q2) | 166,745.3K | 166,745.3K | 166,745.3K |
-| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.0% |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.1% |
 | 17:00 | EUR | Moderate | GDP (YoY) | 0.5% | 0.6% | 1.1% |
 | 17:00 | ZAR | Low | Current Account (Q2) | -160.7B | -178.4B | -63.7B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
-| 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
-| 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
+| 18:00 | EUR | Low | Spanish Consumer Confidence | 94.4 | 85.7 | 92.4 |
+| 47 min | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
+| 47 min | MXN | Moderate | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
+| 47 min | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
+| 47 min | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
+| 47 min | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
+| 47 min | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 234K | 228K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |

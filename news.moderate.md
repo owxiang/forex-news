@@ -17,10 +17,10 @@
 | 14:00 | EUR | German Industrial Production (MoM) (Jul) | -0.8% | -0.5% | -1.4% |
 | 16:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 17:00 | GBP | Mortgage Rate (GBP) (Aug) | 7.85% |  | 7.60% |
-| 17:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.0% |
+| 17:00 | EUR | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.1% |
 | 17:00 | EUR | GDP (YoY) | 0.5% | 0.6% | 1.1% |
-| 20:00 | MXN | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
-| 20:00 | MXN | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
+| 47 min | MXN | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
+| 47 min | MXN | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q2) |  | 3.7% | -2.1% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q2) |  | 1.6% | 4.2% |
 | 20:30 | CAD | Building Permits (MoM) (Jul) |  | -5.0% | 6.1% |
