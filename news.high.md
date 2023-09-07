@@ -3,4 +3,4 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 20:30 | USD | Initial Jobless Claims | 216K | 234K | 229K |
-| 46 min | USD | Crude Oil Inventories |  | -2.064M | -10.584M |
+| 23:00 | USD | Crude Oil Inventories | -6.307M | -2.064M | -10.584M |

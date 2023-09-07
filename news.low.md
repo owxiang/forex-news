@@ -53,15 +53,15 @@
 | 20:30 | USD | Continuing Jobless Claims | 1,679K | 1,715K | 1,719K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 229.25K |  | 237.75K |
 | 22:00 | CAD | Ivey PMI n.s.a (Aug) | 56.8 |  | 45.2 |
-| 16 min | USD | Natural Gas Storage |  | 43B | 32B |
-| 46 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
-| 46 min | USD | Crude Oil Imports |  |  | -0.586M |
-| 46 min | USD | Distillate Fuel Production |  |  | -0.043M |
-| 46 min | USD | EIA Weekly Distillates Stocks |  | 0.239M | 1.235M |
-| 46 min | USD | Gasoline Production |  |  | 0.290M |
-| 46 min | USD | Heating Oil Stockpiles |  |  | 0.170M |
-| 46 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
-| 46 min | USD | Gasoline Inventories |  | -0.950M | -0.214M |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
-| 23:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 22:30 | USD | Natural Gas Storage | 33B | 43B | 32B |
+| 23:00 | USD | EIA Refinery Crude Runs (WoW) | 0.020M |  | -0.173M |
+| 23:00 | USD | Crude Oil Imports | -0.251M |  | -0.586M |
+| 23:00 | USD | Distillate Fuel Production | -0.006M |  | -0.043M |
+| 23:00 | USD | EIA Weekly Distillates Stocks | 0.679M | 0.239M | 1.235M |
+| 23:00 | USD | Gasoline Production | -0.217M |  | 0.290M |
+| 23:00 | USD | Heating Oil Stockpiles | -0.048M |  | 0.170M |
+| 23:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | -1.2% |
+| 23:00 | USD | Gasoline Inventories | -2.666M | -0.950M | -0.214M |
+| 14 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | 8-Week Bill Auction |  |  | 5.290% |
+| 29 min | USD | Fed Goolsbee Speaks |  |  |  |

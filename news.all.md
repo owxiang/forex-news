@@ -78,17 +78,17 @@
 | 22:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 22:00 | CAD | Low | Ivey PMI n.s.a (Aug) | 56.8 |  | 45.2 |
 | 22:00 | CAD | Moderate | Ivey PMI (Aug) | 53.5 | 49.2 | 48.6 |
-| 16 min | USD | Low | Natural Gas Storage |  | 43B | 32B |
-| 46 min | USD | High | Crude Oil Inventories |  | -2.064M | -10.584M |
-| 46 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.173M |
-| 46 min | USD | Low | Crude Oil Imports |  |  | -0.586M |
-| 46 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.504M |
-| 46 min | USD | Low | Distillate Fuel Production |  |  | -0.043M |
-| 46 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.239M | 1.235M |
-| 46 min | USD | Low | Gasoline Production |  |  | 0.290M |
-| 46 min | USD | Low | Heating Oil Stockpiles |  |  | 0.170M |
-| 46 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.2% |
-| 46 min | USD | Low | Gasoline Inventories |  | -0.950M | -0.214M |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
-| 23:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 22:30 | USD | Low | Natural Gas Storage | 33B | 43B | 32B |
+| 23:00 | USD | High | Crude Oil Inventories | -6.307M | -2.064M | -10.584M |
+| 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.020M |  | -0.173M |
+| 23:00 | USD | Low | Crude Oil Imports | -0.251M |  | -0.586M |
+| 23:00 | USD | Moderate | Cushing Crude Oil Inventories | -1.750M |  | -1.504M |
+| 23:00 | USD | Low | Distillate Fuel Production | -0.006M |  | -0.043M |
+| 23:00 | USD | Low | EIA Weekly Distillates Stocks | 0.679M | 0.239M | 1.235M |
+| 23:00 | USD | Low | Gasoline Production | -0.217M |  | 0.290M |
+| 23:00 | USD | Low | Heating Oil Stockpiles | -0.048M |  | 0.170M |
+| 23:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | -1.2% |
+| 23:00 | USD | Low | Gasoline Inventories | -2.666M | -0.950M | -0.214M |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
+| 29 min | USD | Low | Fed Goolsbee Speaks |  |  |  |

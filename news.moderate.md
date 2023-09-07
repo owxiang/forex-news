@@ -26,4 +26,4 @@
 | 20:30 | CAD | Building Permits (MoM) (Jul) | -1.5% | -5.0% | 7.5% |
 | 22:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 22:00 | CAD | Ivey PMI (Aug) | 53.5 | 49.2 | 48.6 |
-| 46 min | USD | Cushing Crude Oil Inventories |  |  | -1.504M |
+| 23:00 | USD | Cushing Crude Oil Inventories | -1.750M |  | -1.504M |
