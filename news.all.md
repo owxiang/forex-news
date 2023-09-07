@@ -28,16 +28,19 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Jul) | -1.1% |  | 0.9% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Jul) | -1.2% |  | -0.2% |
 | 13:00 | JPY | Low | Leading Index | 107.6 | 107.9 | 108.8 |
-| 31 min | CHF | Low | Unemployment Rate n.s.a. (Aug) |  |  | 1.9% |
-| 31 min | CHF | Low | Unemployment Rate s.a. (Aug) |  | 2.1% | 2.1% |
-| 46 min | GBP | Moderate | Halifax House Price Index (YoY) (Aug) |  | -3.5% | -2.4% |
-| 46 min | GBP | Moderate | Halifax House Price Index (MoM) (Aug) |  | -0.3% | -0.3% |
-| 46 min | EUR | Moderate | German Industrial Production (MoM) (Jul) |  | -0.5% | -1.5% |
-| 46 min | EUR | Low | Industrial Production (YoY) (Jul) |  |  | -1.83% |
-| 46 min | NOK | Low | Manufacturing Production (MoM) (Jul) |  |  | 0.0% |
-| 14:45 | EUR | Low | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
-| 14:45 | EUR | Low | French Trade Balance |  | -6.8B | -6.7B |
-| 15:00 | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
+| 13:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q2) | 0.1% |  | 0.1% |
+| 13:45 | CHF | Low | Unemployment Rate n.s.a. (Aug) | 2.0% |  | 1.9% |
+| 13:45 | CHF | Low | Unemployment Rate s.a. (Aug) | 2.1% | 2.1% | 2.1% |
+| 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Aug) | -4.6% | -3.5% | -2.5% |
+| 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Aug) | -1.9% | -0.3% | -0.4% |
+| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Jul) | -0.8% | -0.5% | -1.4% |
+| 14:00 | EUR | Low | Industrial Production (YoY) (Jul) | -2.25% |  | -1.73% |
+| 14:00 | NOK | Low | Manufacturing Production (MoM) (Jul) | -1.2% |  | -0.1% |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) (Aug) | 62.00B |  | 62.21B |
+| 14:00 | ZAR | Low | Net FX Reserves (USD) (Aug) | 55.444B |  | 55.626B |
+| 25 min | EUR | Low | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
+| 25 min | EUR | Low | French Trade Balance |  | -6.8B | -6.7B |
+| 40 min | CHF | Low | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.187T | 3.204T |
