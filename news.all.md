@@ -8,19 +8,19 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,101B |  | 8,121B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.290T |  | 3.196T |
 | 04:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 46 min | KRW | Low | Current Account (Jul) |  |  | 5.87B |
-| 51 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 07:30 | JPY | Low | Overall wage income of employees (Jul) |  |  | 2.3% |
-| 07:30 | JPY | Low | Overtime Pay (YoY) (Jul) |  |  | 2.30% |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Jul) |  | 2.24T | 2.35T |
-| 07:50 | JPY | Low | Bank Lending (YoY) (Aug) |  | 2.8% | 2.9% |
-| 07:50 | JPY | Moderate | Current Account n.s.a. (Jul) |  | 2.295T | 1.509T |
-| 07:50 | JPY | High | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
-| 07:50 | JPY | Moderate | GDP (YoY) (Q2) |  | 6.0% | 2.7% |
-| 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.0% | 1.4% |
-| 07:50 | JPY | Low | GDP (YoY) (Q2) |  | 3.4% | 3.4% |
-| 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 1.8% | -0.3% |
-| 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | -0.5% | 0.5% |
+| 07:00 | KRW | Low | Current Account (Jul) | 3.58B |  | 5.87B |
+| 07:05 | USD | Low | Fed Logan Speaks |  |  |  |
+| 15 min | JPY | Low | Overall wage income of employees (Jul) |  |  | 2.3% |
+| 15 min | JPY | Low | Overtime Pay (YoY) (Jul) |  |  | 2.30% |
+| 35 min | JPY | Moderate | Adjusted Current Account (Jul) |  | 2.24T | 2.35T |
+| 35 min | JPY | Low | Bank Lending (YoY) (Aug) |  | 2.8% | 2.9% |
+| 35 min | JPY | Moderate | Current Account n.s.a. (Jul) |  | 2.295T | 1.509T |
+| 35 min | JPY | High | GDP (QoQ) (Q2) |  | 1.5% | 0.7% |
+| 35 min | JPY | Moderate | GDP (YoY) (Q2) |  | 6.0% | 2.7% |
+| 35 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) |  | 0.0% | 1.4% |
+| 35 min | JPY | Low | GDP (YoY) (Q2) |  | 3.4% | 3.4% |
+| 35 min | JPY | Low | GDP External Demand (QoQ) (Q2) |  | 1.8% | -0.3% |
+| 35 min | JPY | Low | GDP Private Consumption (QoQ) (Q2) |  | -0.5% | 0.5% |
 | 11:00 | IDR | Low | Consumer Confidence (Aug) |  |  | 123.5 |
 | 13:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |

@@ -3,15 +3,15 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.290T |  | 3.196T |
-| 46 min | KRW | Current Account (Jul) |  |  | 5.87B |
-| 51 min | USD | Fed Logan Speaks |  |  |  |
-| 07:30 | JPY | Overall wage income of employees (Jul) |  |  | 2.3% |
-| 07:30 | JPY | Overtime Pay (YoY) (Jul) |  |  | 2.30% |
-| 07:50 | JPY | Bank Lending (YoY) (Aug) |  | 2.8% | 2.9% |
-| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 0.0% | 1.4% |
-| 07:50 | JPY | GDP (YoY) (Q2) |  | 3.4% | 3.4% |
-| 07:50 | JPY | GDP External Demand (QoQ) (Q2) |  | 1.8% | -0.3% |
-| 07:50 | JPY | GDP Private Consumption (QoQ) (Q2) |  | -0.5% | 0.5% |
+| 07:00 | KRW | Current Account (Jul) | 3.58B |  | 5.87B |
+| 07:05 | USD | Fed Logan Speaks |  |  |  |
+| 15 min | JPY | Overall wage income of employees (Jul) |  |  | 2.3% |
+| 15 min | JPY | Overtime Pay (YoY) (Jul) |  |  | 2.30% |
+| 35 min | JPY | Bank Lending (YoY) (Aug) |  | 2.8% | 2.9% |
+| 35 min | JPY | GDP Capital Expenditure (QoQ) (Q2) |  | 0.0% | 1.4% |
+| 35 min | JPY | GDP (YoY) (Q2) |  | 3.4% | 3.4% |
+| 35 min | JPY | GDP External Demand (QoQ) (Q2) |  | 1.8% | -0.3% |
+| 35 min | JPY | GDP Private Consumption (QoQ) (Q2) |  | -0.5% | 0.5% |
 | 11:00 | IDR | Consumer Confidence (Aug) |  |  | 123.5 |
 | 13:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |
