@@ -46,28 +46,28 @@
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Jul) | 2.7% |  | 3.9% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Jul) | 0.4% | 0.2% | -0.2% |
 | 16:00 | CNY | Low | FX Reserves (USD) (Aug) | 3.160T | 3.187T | 3.204T |
-| 10 min | HKD | Low | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
-| 10 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
-| 20 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.303% |
-| 20 min | EUR | Low | Spanish 30-Year Obligacion Auction |  |  | 3.978% |
-| 25 min | EUR | Low | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
-| 40 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.09% |
-| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Aug) |  |  | 340.8B |
-| 40 min | EUR | Low | Employment Change (YoY) (Q2) |  | 1.5% | 1.6% |
-| 40 min | EUR | Low | Employment Change (QoQ) (Q2) |  | 0.2% | 0.6% |
-| 40 min | EUR | Low | Employment Overall (Q2) |  | 166,745.3K | 166,419.1K |
-| 40 min | EUR | Moderate | GDP (QoQ) (Q2) |  | 0.3% | 0.0% |
-| 40 min | EUR | Moderate | GDP (YoY) |  | 0.6% | 1.1% |
-| 40 min | ZAR | Low | Current Account (Q2) |  | -178.4B | -66.2B |
-| 40 min | ZAR | Low | Current Account % of GDP (Q2) |  |  | -1.00% |
+| 16:30 | HKD | Low | Foreign Reserves (USD) (Aug) | 418.40B |  | 421.60B |
+| 16:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 16:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.660% |  | 3.605% |
+| 16:40 | EUR | Low | Spanish 30-Year Obligacion Auction | 4.190% |  | 3.978% |
+| 16:50 | EUR | Low | Spanish 3-Year Bonos Auction | 3.238% |  | 3.303% |
+| 17:00 | GBP | Moderate | Mortgage Rate (GBP) (Aug) | 7.85% |  | 7.60% |
+| 17:00 | EUR | Low | French 10-Year OAT Auction | 3.15% |  | 3.09% |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Aug) | 337.3B |  | 340.8B |
+| 17:00 | EUR | Low | Employment Change (QoQ) (Q2) | 0.2% | 0.2% | 0.6% |
+| 17:00 | EUR | Low | Employment Change (YoY) (Q2) | 1.3% | 1.5% | 1.6% |
+| 17:00 | EUR | Low | Employment Overall (Q2) | 166,745.3K | 166,745.3K | 166,745.3K |
+| 17:00 | EUR | Moderate | GDP (QoQ) (Q2) | 0.1% | 0.3% | 0.0% |
+| 17:00 | EUR | Moderate | GDP (YoY) | 0.5% | 0.6% | 1.1% |
+| 17:00 | ZAR | Low | Current Account (Q2) | -160.7B | -178.4B | -63.7B |
+| 17:00 | ZAR | Low | Current Account % of GDP (Q2) | -2.30% |  | -0.90% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  | 85.7 | 92.4 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Aug) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Aug) |  | 4.61% | 4.79% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Aug) |  | 0.52% | 0.48% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Aug) |  | 6.12% | 6.64% |
-| 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
 | 20:00 | MXN | Low | PPI (MoM) (Aug) |  |  | 0.30% |
+| 20:00 | MXN | Low | PPI (YoY) (Aug) |  |  | -0.80% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,715K | 1,725K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 234K | 228K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 237.50K |
