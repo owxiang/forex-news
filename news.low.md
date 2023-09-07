@@ -26,12 +26,15 @@
 | 14:00 | NOK | Manufacturing Production (MoM) (Jul) | -1.2% |  | -0.1% |
 | 14:00 | ZAR | Foreign Reserves (USD) (Aug) | 62.00B |  | 62.21B |
 | 14:00 | ZAR | Net FX Reserves (USD) (Aug) | 55.444B |  | 55.626B |
-| 25 min | EUR | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
-| 25 min | EUR | French Trade Balance |  | -6.8B | -6.7B |
-| 40 min | CHF | Foreign Reserves (USD) (Aug) |  |  | 697.6B |
-| 16:00 | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
-| 16:00 | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
-| 16:00 | CNY | FX Reserves (USD) |  | 3.187T | 3.204T |
+| 14:45 | EUR | French Current Account (Jul) | -2.00B |  | 0.30B |
+| 14:45 | EUR | French Exports (Jul) | 52.6B |  | 52.1B |
+| 14:45 | EUR | French Imports (Jul) | 60.7B |  | 58.9B |
+| 14:45 | EUR | French Trade Balance | -8.1B | -6.8B | -6.8B |
+| 15:00 | CHF | Foreign Reserves (USD) (Aug) | 694.3B |  | 697.6B |
+| 31 min | EUR | French Reserve Assets Total (Aug) |  |  | 213,962.0M |
+| 46 min | EUR | Italian Retail Sales (YoY) (Jul) |  |  | 3.6% |
+| 46 min | EUR | Italian Retail Sales (MoM) (Jul) |  | 0.2% | -0.2% |
+| 46 min | CNY | FX Reserves (USD) |  | 3.187T | 3.204T |
 | 16:30 | HKD | Foreign Reserves (USD) (Aug) |  |  | 421.60B |
 | 16:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.605% |
 | 16:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.303% |
