@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 512 |
-| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 631 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 513 |  | 512 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 632 |  | 631 |
 | 03:00 | USD | Low | Consumer Credit (Jul) |  | 16.00B | 17.85B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 48.4K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.0K |
@@ -25,6 +25,6 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -98.5K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -10.4K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 146.7K |
-| 09:30 | CNY | Moderate | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Aug) |  |  | 0.2% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Aug) |  | -3.1% | -4.4% |
