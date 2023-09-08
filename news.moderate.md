@@ -10,7 +10,7 @@
 | 07:50 | JPY | Adjusted Current Account (Jul) | 276.69T | 2.24T | 234.59T |
 | 07:50 | JPY | Current Account n.s.a. (Jul) | 2.772T | 2.295T | 1.509T |
 | 07:50 | JPY | GDP (YoY) (Q2) | 4.8% | 6.0% | 3.2% |
-| 14:00 | EUR | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
+| 46 min | EUR | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
 | 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 18:45 | EUR | German Buba Wuermeling Speaks |  |  |  |
