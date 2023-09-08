@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Consumer Credit (Jul) |  | 16.00B | 17.85B |
+| 41 min | USD | Consumer Credit (Jul) |  | 16.00B | 17.85B |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.0K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -16.6K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -35.8K |

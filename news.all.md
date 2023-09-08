@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 513 |  | 512 |
 | 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 632 |  | 631 |
-| 03:00 | USD | Low | Consumer Credit (Jul) |  | 16.00B | 17.85B |
+| 41 min | USD | Low | Consumer Credit (Jul) |  | 16.00B | 17.85B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 48.4K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.0K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -16.6K |
