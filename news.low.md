@@ -15,8 +15,8 @@
 | 11:00 | IDR | Consumer Confidence (Aug) | 125.2 |  | 123.5 |
 | 13:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Economy Watchers Current Index (Aug) | 53.6 | 54.4 | 54.4 |
-| 14:00 | EUR | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:00 | EUR | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
+| 14:00 | EUR | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jul) | 0.8% | 0.1% | -0.9% |
 | 15:00 | EUR | Spanish Industrial Production (YoY) (Jul) | -1.8% | -2.0% | -3.2% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
