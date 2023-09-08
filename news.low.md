@@ -15,8 +15,8 @@
 | 11:00 | IDR | Consumer Confidence (Aug) | 125.2 |  | 123.5 |
 | 13:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Economy Watchers Current Index (Aug) | 53.6 | 54.4 | 54.4 |
-| 14:00 | EUR | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:00 | EUR | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
+| 14:00 | EUR | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:45 | EUR | French Industrial Production (MoM) (Jul) | 0.8% | 0.1% | -0.9% |
 | 15:00 | EUR | Spanish Industrial Production (YoY) (Jul) | -1.8% | -2.0% | -3.2% |
 | 19:30 | INR | Bank Loan Growth | 19.8% |  | 19.7% |
@@ -28,5 +28,7 @@
 | 20:30 | CAD | Part Time Employment Change (Aug) | 7.8K |  | -8.1K |
 | 20:30 | CAD | Participation Rate (Aug) | 65.5% |  | 65.6% |
 | 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:59 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.94M | 0.94M | 0.94M |
 | 22:00 | USD | Wholesale Inventories (MoM) (Jul) | -0.2% | -0.1% | -0.5% |
 | 22:00 | USD | Wholesale Trade Sales (MoM) (Jul) | 0.8% | -0.2% | -0.8% |
+| 22:15 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.27M |
