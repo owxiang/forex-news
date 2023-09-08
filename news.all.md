@@ -26,13 +26,13 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Aug) | 53.6 | 54.4 | 54.4 |
 | 14:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Aug) | 6.1% | 6.1% | 6.2% |
-| 14:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
+| 14:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) | 0.8% | 0.1% | -0.9% |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | -1.8% | -2.0% | -3.2% |
-| 45 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 18:45 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 29 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.7% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 594.86B |
