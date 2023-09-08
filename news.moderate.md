@@ -1,18 +1,18 @@
-## 08 September 2023 - Moderate Impact Forex News
+## 09 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:10 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 03:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 03:45 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet | 8,101B |  | 8,121B |
-| 04:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 07:50 | JPY | Adjusted Current Account (Jul) | 276.69T | 2.24T | 234.59T |
-| 07:50 | JPY | Current Account n.s.a. (Jul) | 2.772T | 2.295T | 1.509T |
-| 07:50 | JPY | GDP (YoY) (Q2) | 4.8% | 6.0% | 3.2% |
-| 14:00 | EUR | German CPI (YoY) (Aug) | 6.1% | 6.1% | 6.2% |
-| 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 18:00 | EUR | EU Economic Forecasts |  |  |  |
-| 18:45 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:30 | CAD | Employment Change (Aug) | 39.9K | 15.0K | -6.4K |
-| 20:30 | CAD | Unemployment Rate (Aug) | 5.5% | 5.6% | 5.5% |
+| 41 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 512 |
+| 41 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 631 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 48.4K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 240.9K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 123.3K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.2K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -142.1K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -70.2K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 16.6K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -98.5K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 146.7K |
+| 09:30 | CNY | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
+| 09:30 | CNY | CPI (MoM) (Aug) |  |  | 0.2% |
+| 09:30 | CNY | PPI (YoY) (Aug) |  | -3.1% | -4.4% |

@@ -1,50 +1,30 @@
-## 08 September 2023 - All Forex News
+## 09 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:10 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 03:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 03:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 04:30 | USD | Moderate | Fed's Balance Sheet | 8,101B |  | 8,121B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.290T |  | 3.196T |
-| 04:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 07:00 | KRW | Low | Current Account (Jul) | 3.58B |  | 5.87B |
-| 07:05 | USD | Low | Fed Logan Speaks |  |  |  |
-| 07:30 | JPY | Low | Overall wage income of employees (Jul) | 1.3% |  | 2.3% |
-| 07:30 | JPY | Low | Overtime Pay (YoY) (Jul) | 0.50% |  | 1.90% |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Jul) | 276.69T | 2.24T | 234.59T |
-| 07:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.1% | 2.8% | 2.9% |
-| 07:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.772T | 2.295T | 1.509T |
-| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.2% | 1.5% | 0.8% |
-| 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 4.8% | 6.0% | 3.2% |
-| 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -1.0% | 0.0% | 1.4% |
-| 07:50 | JPY | Low | GDP (YoY) (Q2) | 3.5% | 3.4% | 3.4% |
-| 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 1.8% | -0.3% |
-| 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | -0.6% | -0.5% | 0.5% |
-| 11:00 | IDR | Low | Consumer Confidence (Aug) | 125.2 |  | 123.5 |
-| 13:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13:00 | JPY | Low | Economy Watchers Current Index (Aug) | 53.6 | 54.4 | 54.4 |
-| 14:00 | EUR | Moderate | German CPI (YoY) (Aug) | 6.1% | 6.1% | 6.2% |
-| 14:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
-| 14:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
-| 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) | 0.8% | 0.1% | -0.9% |
-| 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | -1.8% | -2.0% | -3.2% |
-| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 18:45 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 19:30 | INR | Low | Bank Loan Growth | 19.8% |  | 19.7% |
-| 19:30 | INR | Low | Deposit Growth | 13.2% |  | 13.5% |
-| 19:30 | INR | Low | FX Reserves, USD | 598.90B |  | 594.86B |
-| 20:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) | 5.2% |  | 5.0% |
-| 20:30 | CAD | Low | Capacity Utilization Rate (Q2) | 81.4% | 82.5% | 81.8% |
-| 20:30 | CAD | Moderate | Employment Change (Aug) | 39.9K | 15.0K | -6.4K |
-| 20:30 | CAD | Low | Full Employment Change (Aug) | 32.2K |  | 1.7K |
-| 20:30 | CAD | Low | Part Time Employment Change (Aug) | 7.8K |  | -8.1K |
-| 20:30 | CAD | Low | Participation Rate (Aug) | 65.5% |  | 65.6% |
-| 20:30 | CAD | Moderate | Unemployment Rate (Aug) | 5.5% | 5.6% | 5.5% |
-| 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:59 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.94M | 0.94M | 0.94M |
-| 22:00 | USD | Low | Wholesale Inventories (MoM) (Jul) | -0.2% | -0.1% | -0.5% |
-| 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) | 0.8% | -0.2% | -0.8% |
-| 22:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.27M |
+| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 512 |
+| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 631 |
+| 03:00 | USD | Low | Consumer Credit (Jul) |  | 16.00B | 17.85B |
+| 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 48.4K |
+| 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.0K |
+| 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -16.6K |
+| 04:30 | USD | Low | CFTC Corn speculative net positions |  |  | -35.8K |
+| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 240.9K |
+| 04:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 123.3K |
+| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 16.2K |
+| 04:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -116.3K |
+| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -142.1K |
+| 04:30 | USD | Low | CFTC Silver speculative net positions |  |  | 27.1K |
+| 04:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 92.2K |
+| 04:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -50.3K |
+| 04:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -15.8K |
+| 04:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 73.9K |
+| 04:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -4.5K |
+| 04:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -70.2K |
+| 04:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 16.6K |
+| 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -98.5K |
+| 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -10.4K |
+| 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 146.7K |
+| 09:30 | CNY | Moderate | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
+| 09:30 | CNY | Moderate | CPI (MoM) (Aug) |  |  | 0.2% |
+| 09:30 | CNY | Moderate | PPI (YoY) (Aug) |  | -3.1% | -4.4% |
