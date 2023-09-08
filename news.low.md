@@ -28,5 +28,5 @@
 | 20:30 | CAD | Part Time Employment Change (Aug) | 7.8K |  | -8.1K |
 | 20:30 | CAD | Participation Rate (Aug) | 65.5% |  | 65.6% |
 | 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 42 min | USD | Wholesale Inventories (MoM) (Jul) |  | -0.1% | -0.5% |
-| 42 min | USD | Wholesale Trade Sales (MoM) (Jul) |  | -0.2% | -0.7% |
+| 22:00 | USD | Wholesale Inventories (MoM) (Jul) | -0.2% | -0.1% | -0.5% |
+| 22:00 | USD | Wholesale Trade Sales (MoM) (Jul) | 0.8% | -0.2% | -0.8% |

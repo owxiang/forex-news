@@ -15,8 +15,8 @@
 | 07:50 | JPY | Moderate | Adjusted Current Account (Jul) | 276.69T | 2.24T | 234.59T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.1% | 2.8% | 2.9% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.772T | 2.295T | 1.509T |
-| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.2% | 1.5% | 0.8% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 4.8% | 6.0% | 3.2% |
+| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.2% | 1.5% | 0.8% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -1.0% | 0.0% | 1.4% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) | 3.5% | 3.4% | 3.4% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 1.8% | -0.3% |
@@ -24,8 +24,8 @@
 | 11:00 | IDR | Low | Consumer Confidence (Aug) | 125.2 |  | 123.5 |
 | 13:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Aug) | 53.6 | 54.4 | 54.4 |
-| 14:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Aug) | 6.1% | 6.1% | 6.2% |
+| 14:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
 | 14:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
 | 14:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) | 0.8% | 0.1% | -0.9% |
@@ -44,5 +44,5 @@
 | 20:30 | CAD | Low | Participation Rate (Aug) | 65.5% |  | 65.6% |
 | 20:30 | CAD | Moderate | Unemployment Rate (Aug) | 5.5% | 5.6% | 5.5% |
 | 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 42 min | USD | Low | Wholesale Inventories (MoM) (Jul) |  | -0.1% | -0.5% |
-| 42 min | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  | -0.2% | -0.7% |
+| 22:00 | USD | Low | Wholesale Inventories (MoM) (Jul) | -0.2% | -0.1% | -0.5% |
+| 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) | 0.8% | -0.2% | -0.8% |
