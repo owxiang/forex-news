@@ -12,21 +12,21 @@
 | 07:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 07:30 | JPY | Low | Overall wage income of employees (Jul) | 1.3% |  | 2.3% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Jul) | 0.50% |  | 1.90% |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Jul) | 276.69T | 2.24T | 15.09T |
+| 07:50 | JPY | Moderate | Adjusted Current Account (Jul) | 276.69T | 2.24T | 234.59T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Aug) | 3.1% | 2.8% | 2.9% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Jul) | 2.772T | 2.295T | 1.509T |
-| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.2% | 1.5% | 0.8% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q2) | 4.8% | 6.0% | 3.2% |
+| 07:50 | JPY | High | GDP (QoQ) (Q2) | 1.2% | 1.5% | 0.8% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q2) | -1.0% | 0.0% | 1.4% |
 | 07:50 | JPY | Low | GDP (YoY) (Q2) | 3.5% | 3.4% | 3.4% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q2) | 1.8% | 1.8% | -0.3% |
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q2) | -0.6% | -0.5% | 0.5% |
-| 11:00 | IDR | Low | Consumer Confidence (Aug) |  |  | 123.5 |
+| 39 min | IDR | Low | Consumer Confidence (Aug) |  |  | 123.5 |
 | 13:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |
 | 13:30 | EUR | Low | French Non-Farm Payrolls (QoQ) |  |  | 0.3% |
-| 14:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
 | 14:00 | EUR | High | German CPI (MoM) (Aug) |  | 0.3% | 0.3% |
+| 14:00 | EUR | Moderate | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |
 | 14:00 | EUR | Low | German HICP (MoM) (Aug) |  | 0.4% | 0.5% |
 | 14:00 | EUR | Low | German HICP (YoY) (Aug) |  | 6.4% | 6.5% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) |  | -0.1% | -0.9% |

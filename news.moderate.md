@@ -7,7 +7,7 @@
 | 03:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet | 8,101B |  | 8,121B |
 | 04:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 07:50 | JPY | Adjusted Current Account (Jul) | 276.69T | 2.24T | 15.09T |
+| 07:50 | JPY | Adjusted Current Account (Jul) | 276.69T | 2.24T | 234.59T |
 | 07:50 | JPY | Current Account n.s.a. (Jul) | 2.772T | 2.295T | 1.509T |
 | 07:50 | JPY | GDP (YoY) (Q2) | 4.8% | 6.0% | 3.2% |
 | 14:00 | EUR | German CPI (YoY) (Aug) |  | 6.1% | 6.2% |

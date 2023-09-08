@@ -12,7 +12,7 @@
 | 07:50 | JPY | GDP (YoY) (Q2) | 3.5% | 3.4% | 3.4% |
 | 07:50 | JPY | GDP External Demand (QoQ) (Q2) | 1.8% | 1.8% | -0.3% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q2) | -0.6% | -0.5% | 0.5% |
-| 11:00 | IDR | Consumer Confidence (Aug) |  |  | 123.5 |
+| 39 min | IDR | Consumer Confidence (Aug) |  |  | 123.5 |
 | 13:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 13:00 | JPY | Economy Watchers Current Index (Aug) |  | 54.4 | 54.4 |
 | 13:30 | EUR | French Non-Farm Payrolls (QoQ) |  |  | 0.3% |
