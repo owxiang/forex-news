@@ -13,6 +13,6 @@
 | 14:00 | EUR | German CPI (YoY) (Aug) | 6.1% | 6.1% | 6.2% |
 | 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
-| 29 min | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 18:45 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 20:30 | CAD | Employment Change (Aug) |  | 15.0K | -6.4K |
 | 20:30 | CAD | Unemployment Rate (Aug) |  | 5.6% | 5.5% |

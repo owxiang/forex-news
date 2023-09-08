@@ -26,16 +26,16 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Aug) | 53.6 | 54.4 | 54.4 |
 | 14:00 | EUR | High | German CPI (MoM) (Aug) | 0.3% | 0.3% | 0.3% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Aug) | 6.1% | 6.1% | 6.2% |
-| 14:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
 | 14:00 | EUR | Low | German HICP (MoM) (Aug) | 0.4% | 0.4% | 0.5% |
+| 14:00 | EUR | Low | German HICP (YoY) (Aug) | 6.4% | 6.4% | 6.5% |
 | 14:45 | EUR | Low | French Industrial Production (MoM) (Jul) | 0.8% | 0.1% | -0.9% |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Jul) | -1.8% | -2.0% | -3.2% |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 29 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 19:30 | INR | Low | Bank Loan Growth |  |  | 19.7% |
-| 19:30 | INR | Low | Deposit Growth |  |  | 13.5% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 594.86B |
+| 18:45 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 18 min | INR | Low | Bank Loan Growth |  |  | 19.7% |
+| 18 min | INR | Low | Deposit Growth |  |  | 13.5% |
+| 18 min | INR | Low | FX Reserves, USD |  |  | 594.86B |
 | 20:30 | CAD | Low | Avg hourly wages Permanent employee (Aug) |  |  | 5.0% |
 | 20:30 | CAD | Low | Capacity Utilization Rate (Q2) |  | 82.5% | 81.9% |
 | 20:30 | CAD | Moderate | Employment Change (Aug) |  | 15.0K | -6.4K |
@@ -46,4 +46,3 @@
 | 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:00 | USD | Low | Wholesale Inventories (MoM) (Jul) |  | -0.1% | -0.5% |
 | 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Jul) |  | -0.2% | -0.7% |
-| 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
