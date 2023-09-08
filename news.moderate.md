@@ -14,5 +14,5 @@
 | 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 18:45 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:30 | CAD | Employment Change (Aug) |  | 15.0K | -6.4K |
-| 20:30 | CAD | Unemployment Rate (Aug) |  | 5.6% | 5.5% |
+| 20:30 | CAD | Employment Change (Aug) | 39.9K | 15.0K | -6.4K |
+| 20:30 | CAD | Unemployment Rate (Aug) | 5.5% | 5.6% | 5.5% |
