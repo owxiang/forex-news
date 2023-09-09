@@ -1,16 +1,31 @@
-## 09 September 2023 - Low Impact Forex News
+## 11 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Consumer Credit (Jul) | 10.40B | 16.00B | 17.85B |
-| 04:30 | USD | CFTC Aluminium speculative net positions | 5.0K |  | 6.0K |
-| 04:30 | USD | CFTC Copper speculative net positions | -6.8K |  | -16.6K |
-| 04:30 | USD | CFTC Corn speculative net positions | -45.6K |  | -35.8K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -118.3K |  | -116.3K |
-| 04:30 | USD | CFTC Silver speculative net positions | 26.8K |  | 27.1K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | 87.3K |  | 92.2K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -46.4K |  | -50.3K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -25.0K |  | -15.8K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 67.5K |  | 73.9K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -5.3K |  | -4.5K |
-| 04:30 | NZD | CFTC NZD speculative net positions | -14.0K |  | -10.4K |
+| 00:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
+| 00:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
+| 00:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 56.37 |
+| 00:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 57.87 |
+| 07:50 | JPY | M3 Money Supply (Aug) |  |  | 2,112.5% |
+| 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 14:00 | NOK | Core CPI YTD (Aug) |  |  | 6.4% |
+| 14:00 | NOK | Core Inflation (MoM) (Aug) |  |  | 0.9% |
+| 14:00 | NOK | CPI (YoY) (Aug) |  |  | 5.4% |
+| 14:00 | NOK | CPI (MoM) (Aug) |  |  | 0.4% |
+| 14:00 | NOK | PPI (YoY) (Aug) |  |  | -35.4% |
+| 16:00 | EUR | Italian Industrial Production (YoY) (Jul) |  |  | -0.8% |
+| 16:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
+| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.7% |
+| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
+| 16:00 | CNY | Chinese Total Social Financing |  | 2,460.0B | 528.2B |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 5.5% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 1.2% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Industrial Production (YoY) (Jul) |  |  | 3.7% |
+| 20:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.6% |
+| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.609% |
+| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.657% |
+| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.657% |
+| 23:00 | USD | Consumer Inflation Expectations |  |  | 3.5% |
+| 23:30 | USD | 3-Month Bill Auction |  |  | 5.315% |
+| 23:30 | USD | 6-Month Bill Auction |  |  | 5.300% |

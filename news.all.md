@@ -1,30 +1,33 @@
-## 09 September 2023 - All Forex News
+## 11 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 513 |  | 512 |
-| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 632 |  | 631 |
-| 03:00 | USD | Low | Consumer Credit (Jul) | 10.40B | 16.00B | 17.85B |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | 46.4K |  | 48.4K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 5.0K |  | 6.0K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -6.8K |  | -16.6K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -45.6K |  | -35.8K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 299.3K |  | 240.9K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 138.0K |  | 123.3K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 13.6K |  | 16.2K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -118.3K |  | -116.3K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -144.2K |  | -142.1K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 26.8K |  | 27.1K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 87.3K |  | 92.2K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -46.4K |  | -50.3K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -25.0K |  | -15.8K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 67.5K |  | 73.9K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -5.3K |  | -4.5K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -83.5K |  | -70.2K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 13.9K |  | 16.6K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -97.1K |  | -98.5K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | -14.0K |  | -10.4K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 136.2K |  | 146.7K |
-| 09:30 | CNY | Moderate | CPI (MoM) (Aug) | 0.3% |  | 0.2% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Aug) | 0.1% | 0.1% | -0.3% |
-| 09:30 | CNY | Moderate | PPI (YoY) (Aug) | -3.0% | -3.1% | -4.4% |
+| 00:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
+| 00:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
+| 00:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 56.37 |
+| 00:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 57.87 |
+| 07:50 | JPY | Low | M3 Money Supply (Aug) |  |  | 2,112.5% |
+| 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 14:00 | NOK | Low | Core CPI YTD (Aug) |  |  | 6.4% |
+| 14:00 | NOK | Low | Core Inflation (MoM) (Aug) |  |  | 0.9% |
+| 14:00 | NOK | Low | CPI (YoY) (Aug) |  |  | 5.4% |
+| 14:00 | NOK | Low | CPI (MoM) (Aug) |  |  | 0.4% |
+| 14:00 | NOK | Low | PPI (YoY) (Aug) |  |  | -35.4% |
+| 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  |  | -0.8% |
+| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
+| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.7% |
+| 16:00 | CNY | Moderate | New Loans |  | 1,150.0B | 345.9B |
+| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
+| 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,460.0B | 528.2B |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | 5.5% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 1.2% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Jul) |  |  | 3.7% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Jul) |  |  | 0.6% |
+| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.609% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.657% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |
+| 23:00 | USD | Low | Consumer Inflation Expectations |  |  | 3.5% |
+| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.315% |
+| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.300% |
