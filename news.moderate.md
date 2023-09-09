@@ -13,6 +13,6 @@
 | 04:30 | BRL | CFTC BRL speculative net positions | 13.9K |  | 16.6K |
 | 04:30 | JPY | CFTC JPY speculative net positions | -97.1K |  | -98.5K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 136.2K |  | 146.7K |
-| 09:30 | CNY | CPI (MoM) (Aug) |  |  | 0.2% |
-| 09:30 | CNY | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
-| 09:30 | CNY | PPI (YoY) (Aug) |  | -3.1% | -4.4% |
+| 25 min | CNY | CPI (MoM) (Aug) |  |  | 0.2% |
+| 25 min | CNY | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
+| 25 min | CNY | PPI (YoY) (Aug) |  | -3.1% | -4.4% |

@@ -25,6 +25,6 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -97.1K |  | -98.5K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -14.0K |  | -10.4K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 136.2K |  | 146.7K |
-| 09:30 | CNY | Moderate | CPI (MoM) (Aug) |  |  | 0.2% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
-| 09:30 | CNY | Moderate | PPI (YoY) (Aug) |  | -3.1% | -4.4% |
+| 25 min | CNY | Moderate | CPI (MoM) (Aug) |  |  | 0.2% |
+| 25 min | CNY | Moderate | CPI (YoY) (Aug) |  | 0.1% | -0.3% |
+| 25 min | CNY | Moderate | PPI (YoY) (Aug) |  | -3.1% | -4.4% |
