@@ -11,8 +11,8 @@
 | 14:00 | NOK | Low | CPI (MoM) (Aug) |  | -0.4% | 0.4% |
 | 14:00 | NOK | Low | PPI (YoY) (Aug) |  |  | -35.4% |
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  | -1.7% | -0.8% |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
+| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) |  | -1.7% | -0.8% |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.7% |
 | 16:00 | CNY | Moderate | New Loans |  | 1,150.0B | 345.9B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
@@ -20,8 +20,8 @@
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  |  | 1.2% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  |  | 5.5% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Industrial Production (MoM) (Jul) |  |  | 0.6% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Jul) |  |  | 3.7% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Jul) |  |  | 0.6% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.609% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.657% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |
