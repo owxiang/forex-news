@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.4% |
-| 07:50 | JPY | M3 Money Supply (Aug) |  |  | 2,112.5% |
+| 37 min | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.4% |
+| 37 min | JPY | M3 Money Supply (Aug) |  |  | 2,112.5% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
 | 14:00 | NOK | Core CPI YTD (Aug) |  | 6.6% | 6.4% |
 | 14:00 | NOK | Core Inflation (MoM) (Aug) |  | -0.3% | 0.9% |
