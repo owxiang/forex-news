@@ -7,8 +7,8 @@
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
 | 14:00 | NOK | Core CPI YTD (Aug) |  | 6.6% | 6.4% |
 | 14:00 | NOK | Core Inflation (MoM) (Aug) |  | -0.3% | 0.9% |
-| 14:00 | NOK | CPI (MoM) (Aug) |  | -0.4% | 0.4% |
 | 14:00 | NOK | CPI (YoY) (Aug) |  | 5.3% | 5.4% |
+| 14:00 | NOK | CPI (MoM) (Aug) |  | -0.4% | 0.4% |
 | 14:00 | NOK | PPI (YoY) (Aug) |  |  | -35.4% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Jul) |  | -1.7% | -0.8% |
 | 16:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
