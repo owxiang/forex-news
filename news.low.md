@@ -15,11 +15,11 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.7% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,460.0B | 528.2B |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 1.2% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 5.5% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 1.2% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.6% |
 | 20:00 | MXN | Industrial Production (YoY) (Jul) |  |  | 3.7% |
+| 20:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.6% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.609% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.657% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.657% |
