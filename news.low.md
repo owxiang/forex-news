@@ -1,31 +1,33 @@
-## 11 September 2023 - Low Impact Forex News
+## 12 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | M2 Money Stock (YoY) | 2.5% | 2.5% | 2.5% |
-| 07:50 | JPY | M3 Money Supply (Aug) | 2,114.6% |  | 2,111.8% |
-| 08:40 | IDR | Motorbike Sales (YoY) (Aug) | 1.80% |  | 45.60% |
-| 11:00 | IDR | Car Sales (YoY) (Aug) | -8.30% |  | -6.80% |
-| 11:00 | IDR | Retail Sales (YoY) (Jul) | 1.6% |  | 7.9% |
-| 13:00 | CNY | M2 Money Stock (YoY) (Aug) | 10.6% | 10.7% | 10.7% |
-| 13:00 | CNY | Outstanding Loan Growth (YoY) (Aug) | 11.1% | 11.1% | 11.1% |
-| 13:00 | CNY | Chinese Total Social Financing (Aug) | 3,120.0B | 2,460.0B | 528.2B |
-| 14:00 | JPY | Machine Tool Orders (YoY) | -17.6% |  | -19.7% |
-| 14:00 | NOK | Core CPI YTD (Aug) | 6.3% | 6.6% | 6.4% |
-| 14:00 | NOK | Core Inflation (MoM) (Aug) | -0.6% | -0.3% | 0.9% |
-| 14:00 | NOK | CPI (MoM) (Aug) | -0.8% | -0.4% | 0.4% |
-| 14:00 | NOK | CPI (YoY) (Aug) | 4.8% | 5.3% | 5.4% |
-| 14:00 | NOK | PPI (YoY) (Aug) | -37.4% |  | -35.4% |
-| 16:00 | EUR | Italian Industrial Production (YoY) (Jul) | -2.1% | -1.7% | -0.7% |
-| 16:00 | EUR | Italian Industrial Production (MoM) (Jul) | -0.7% | -0.3% | 0.5% |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Jul) | 2.3% | 4.4% | 5.9% |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Jul) | -1.6% | 0.5% | 1.2% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Industrial Production (MoM) (Jul) | 0.5% | 0.4% | 0.8% |
-| 20:00 | MXN | Industrial Production (YoY) (Jul) | 4.8% | 4.2% | 4.9% |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.646% |  | 3.609% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.696% |  | 3.657% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.684% |  | 3.657% |
-| 23:00 | USD | Consumer Inflation Expectations | 3.63% |  | 3.55% |
-| 14 min | USD | 3-Month Bill Auction |  |  | 5.315% |
-| 14 min | USD | 6-Month Bill Auction |  |  | 5.300% |
+| 06:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 06:45 | NZD | External Migration & Visitors (Jul) |  |  | 88.50% |
+| 06:45 | NZD | Permanent/Long-Term Migration (Jul) |  |  | 5,033 |
+| 06:45 | NZD | Visitor Arrivals (MoM) |  |  | 11.3% |
+| 08:30 | AUD | Westpac Consumer Sentiment (Sep) |  |  | -0.4% |
+| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 09:00 | NZD | Economic Forecast |  | -16.697B | -6.960B |
+| 09:30 | AUD | NAB Business Survey (Aug) |  |  | 10 |
+| Tentative | IDR | Motorbike Sales (YoY) |  |  | 45.60% |
+| 11:35 | JPY | 5-Year JGB Auction |  |  | 0.189% |
+| 14:00 | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
+| 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 14:00 | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
+| 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 15:00 | EUR | Core CPI (YoY) (Aug) |  |  | 6.2% |
+| 15:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
+| 15:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
+| 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 17:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.947% |
+| 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
+| 18:00 | USD | NFIB Small Business Optimism (Aug) |  | 91.6 | 91.9 |
+| 20:00 | INR | Cumulative Industrial Production (Jul) |  |  | 4.50% |
+| 20:00 | INR | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
+| 20:00 | INR | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
+| 20:00 | BRL | CPI (MoM) (Aug) |  | 0.30% | 0.12% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
+| 20:45 | EUR | German Current Account Balance n.s.a |  |  | 29.6B |
+| 20:55 | USD | Redbook (YoY) |  |  | 4.1% |
