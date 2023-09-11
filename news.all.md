@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.660% |  | 4.398% |
-| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.0% |
 | 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.0% |
 | 06:45 | NZD | Low | External Migration & Visitors (Jul) |  |  | 88.50% |
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jul) |  |  | 5,033 |
 | 06:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 11.3% |
@@ -25,10 +25,10 @@
 | 14:00 | EUR | Low | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -19.8% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Aug) |  |  | 6.2% |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -71.3 |
@@ -43,8 +43,8 @@
 | 20:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.30% | 0.12% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.69% | 3.99% |
+| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.30% | 0.12% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
 | 20:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 29.6B |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |
