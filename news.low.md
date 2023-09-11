@@ -16,8 +16,8 @@
 | 14:00 | NOK | CPI (YoY) (Aug) | 4.8% | 5.3% | 5.4% |
 | 14:00 | NOK | CPI (MoM) (Aug) | -0.8% | -0.4% | 0.4% |
 | 14:00 | NOK | PPI (YoY) (Aug) | -37.4% |  | -35.4% |
-| 45 min | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
-| 45 min | EUR | Italian Industrial Production (YoY) (Jul) |  | -1.7% | -0.8% |
+| 16:00 | EUR | Italian Industrial Production (MoM) (Jul) | -0.7% | -0.3% | 0.5% |
+| 16:00 | EUR | Italian Industrial Production (YoY) (Jul) | -2.1% | -1.7% | -0.7% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Jul) |  | 0.5% | 1.2% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Jul) |  | 4.4% | 5.5% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
