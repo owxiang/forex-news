@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:45 | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | 2.2% |
-| 06:45 | NZD | External Migration & Visitors (Jul) |  |  | 88.50% |
-| 06:45 | NZD | Permanent/Long-Term Migration (Jul) |  |  | 5,033 |
-| 06:45 | NZD | Visitor Arrivals (MoM) |  |  | 11.3% |
+| 31 min | NZD | Electronic Card Retail Sales (YoY) (Aug) |  |  | 2.2% |
+| 31 min | NZD | External Migration & Visitors (Jul) |  |  | 88.50% |
+| 31 min | NZD | Permanent/Long-Term Migration (Jul) |  |  | 5,033 |
+| 31 min | NZD | Visitor Arrivals (MoM) |  |  | 11.3% |
 | 08:30 | AUD | Westpac Consumer Sentiment (Sep) |  |  | -0.4% |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 09:00 | NZD | Economic Forecast |  | -16.697B | -6.960B |
@@ -13,8 +13,8 @@
 | Tentative | IDR | Motorbike Sales (YoY) |  |  | 45.60% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.189% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
-| 14:00 | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
 | 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 14:00 | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
 | 15:00 | EUR | Core CPI (YoY) (Aug) |  |  | 6.2% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
