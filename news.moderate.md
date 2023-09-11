@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | 3-Year Note Auction |  |  | 4.398% |
+| 01:00 | USD | 3-Year Note Auction | 4.660% |  | 4.398% |
 | 06:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) |  |  | 0.0% |
 | 07:00 | GBP | BoE MPC Member Mann |  |  |  |
 | 09:30 | AUD | NAB Business Confidence (Aug) |  |  | 2 |
