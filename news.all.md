@@ -43,8 +43,8 @@
 | 20:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.69% | 3.99% |
 | 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.30% | 0.12% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.69% | 3.99% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
 | 20:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 29.6B |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |
