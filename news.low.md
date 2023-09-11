@@ -9,20 +9,20 @@
 | 11:00 | IDR | Retail Sales (YoY) (Jul) | 1.6% |  | 7.9% |
 | 13:00 | CNY | M2 Money Stock (YoY) (Aug) | 10.6% | 10.7% | 10.7% |
 | 13:00 | CNY | Outstanding Loan Growth (YoY) (Aug) | 11.1% | 11.1% | 11.1% |
+| 13:00 | CNY | Chinese Total Social Financing | 3,120.0B | 2,460.0B | 528.2B |
 | 14:00 | JPY | Machine Tool Orders (YoY) | -17.6% |  | -19.7% |
 | 14:00 | NOK | Core CPI YTD (Aug) | 6.3% | 6.6% | 6.4% |
 | 14:00 | NOK | Core Inflation (MoM) (Aug) | -0.6% | -0.3% | 0.9% |
 | 14:00 | NOK | CPI (YoY) (Aug) | 4.8% | 5.3% | 5.4% |
 | 14:00 | NOK | CPI (MoM) (Aug) | -0.8% | -0.4% | 0.4% |
 | 14:00 | NOK | PPI (YoY) (Aug) | -37.4% |  | -35.4% |
-| 16:00 | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
-| 16:00 | EUR | Italian Industrial Production (YoY) (Jul) |  | -1.7% | -0.8% |
-| 16:00 | CNY | Chinese Total Social Financing |  | 2,460.0B | 528.2B |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Jul) |  |  | 1.2% |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Jul) |  |  | 5.5% |
+| 45 min | EUR | Italian Industrial Production (MoM) (Jul) |  | -0.3% | 0.5% |
+| 45 min | EUR | Italian Industrial Production (YoY) (Jul) |  | -1.7% | -0.8% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Jul) |  | 0.5% | 1.2% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Jul) |  | 4.4% | 5.5% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Industrial Production (YoY) (Jul) |  | 4.0% | 3.7% |
 | 20:00 | MXN | Industrial Production (MoM) (Jul) |  |  | 0.6% |
+| 20:00 | MXN | Industrial Production (YoY) (Jul) |  | 4.0% | 3.7% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.609% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.657% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.657% |
