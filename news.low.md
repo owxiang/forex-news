@@ -13,8 +13,8 @@
 | Tentative | IDR | Motorbike Sales (YoY) |  |  | 45.60% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.189% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
-| 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
 | 14:00 | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
+| 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
 | 15:00 | EUR | Core CPI (YoY) (Aug) |  |  | 6.2% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
