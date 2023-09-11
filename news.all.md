@@ -20,11 +20,11 @@
 | 16:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Jul) | -0.7% | -0.3% | 0.5% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Jul) | -2.1% | -1.7% | -0.7% |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Jul) |  | 4.4% | 5.5% |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Jul) |  | 0.5% | 1.2% |
+| 43 min | ZAR | Low | Manufacturing Production (MoM) (Jul) |  | 0.5% | 1.2% |
+| 43 min | ZAR | Low | Manufacturing Production (YoY) (Jul) |  | 4.4% | 5.5% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | 4.0% | 3.7% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Jul) |  |  | 0.6% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Jul) |  | 4.0% | 3.7% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.609% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.657% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |
