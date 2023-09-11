@@ -21,11 +21,11 @@
 | 19:00 | ZAR | Manufacturing Production (MoM) (Jul) | -1.6% | 0.5% | 1.2% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Jul) | 2.3% | 4.4% | 5.9% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Industrial Production (MoM) (Jul) | 0.5% | 0.4% | 0.6% |
 | 20:00 | MXN | Industrial Production (YoY) (Jul) | 4.8% | 4.2% | 4.9% |
+| 20:00 | MXN | Industrial Production (MoM) (Jul) | 0.5% | 0.4% | 0.8% |
 | 20:55 | EUR | French 12-Month BTF Auction | 3.646% |  | 3.609% |
 | 20:55 | EUR | French 3-Month BTF Auction | 3.696% |  | 3.657% |
 | 20:55 | EUR | French 6-Month BTF Auction | 3.684% |  | 3.657% |
-| 23:00 | USD | Consumer Inflation Expectations |  |  | 3.5% |
+| 45 min | USD | Consumer Inflation Expectations |  |  | 3.5% |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.315% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.300% |
