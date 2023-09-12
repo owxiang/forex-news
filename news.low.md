@@ -6,10 +6,10 @@
 | 06:45 | NZD | External Migration & Visitors (Jul) | 59.30% |  | 88.50% |
 | 06:45 | NZD | Permanent/Long-Term Migration (Jul) | 5,786 |  | 8,549 |
 | 06:45 | NZD | Visitor Arrivals (MoM) | 19.8% |  | 11.3% |
-| 08:30 | AUD | Westpac Consumer Sentiment (Sep) |  |  | -0.4% |
+| 08:30 | AUD | Westpac Consumer Sentiment (Sep) | -1.5% |  | -0.4% |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 09:00 | NZD | Economic Forecast |  | -16.697B | -6.960B |
-| 09:30 | AUD | NAB Business Survey (Aug) |  |  | 10 |
+| 25 min | AUD | NAB Business Survey (Aug) |  |  | 10 |
 | Tentative | IDR | Motorbike Sales (YoY) |  |  | 45.60% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.189% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |

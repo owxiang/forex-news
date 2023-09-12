@@ -5,7 +5,7 @@
 | 01:00 | USD | 3-Year Note Auction | 4.660% |  | 4.398% |
 | 06:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
 | 07:00 | GBP | BoE MPC Member Mann |  |  |  |
-| 09:30 | AUD | NAB Business Confidence (Aug) |  |  | 2 |
+| 25 min | AUD | NAB Business Confidence (Aug) |  |  | 2 |
 | 14:00 | GBP | Average Earnings Index +Bonus (Jul) |  | 8.2% | 8.2% |
 | 14:00 | GBP | Claimant Count Change (Aug) |  | 17.1K | 29.0K |
 | 14:00 | GBP | Employment Change 3M/3M (MoM) (Jul) |  |  | -66K |
