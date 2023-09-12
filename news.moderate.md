@@ -1,20 +1,22 @@
-## 12 September 2023 - Moderate Impact Forex News
+## 13 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 3-Year Note Auction | 4.660% |  | 4.398% |
-| 06:45 | NZD | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
-| 07:00 | GBP | BoE MPC Member Mann |  |  |  |
-| 09:30 | AUD | NAB Business Confidence (Aug) | 2 |  | 1 |
-| 14:00 | GBP | Average Earnings Index +Bonus (Jul) | 8.5% | 8.2% | 8.4% |
-| 14:00 | GBP | Claimant Count Change (Aug) | 0.9K | 17.1K | 7.4K |
-| 14:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | -207K | -185K | -66K |
-| 14:00 | GBP | Unemployment Rate (Jul) | 4.3% | 4.3% | 4.2% |
-| 15:00 | EUR | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
-| 15:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.1% |
-| 17:00 | EUR | German ZEW Current Conditions (Sep) | -79.4 | -75.0 | -71.3 |
-| 17:00 | EUR | German ZEW Economic Sentiment (Sep) | -11.4 | -15.0 | -12.3 |
-| 17:00 | EUR | ZEW Economic Sentiment (Sep) | -8.9 | -6.2 | -5.5 |
-| 19:00 | USD | OPEC Monthly Report |  |  |  |
-| 20:00 | INR | CPI (YoY) (Aug) | 6.83% | 7.00% | 7.44% |
-| 20:00 | BRL | CPI (YoY) (Aug) | 4.61% | 4.67% | 3.99% |
+| 00:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 00:00 | USD | WASDE Report |  |  |  |
+| 40 min | USD | 10-Year Note Auction |  |  | 3.999% |
+| 02:00 | USD | Federal Budget Balance (Aug) |  |  | -221.0B |
+| 04:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
+| 07:50 | JPY | BSI Large Manufacturing Conditions (Q3) |  | 0.2 | -0.4 |
+| 14:00 | GBP | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
+| 14:00 | GBP | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |
+| 14:00 | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.2% |
+| 14:00 | GBP | Trade Balance (Jul) |  | -15.90B | -15.46B |
+| 14:00 | GBP | Trade Balance Non-EU (Jul) |  |  | -2.77B |
+| 16:00 | USD | IEA Monthly Report |  |  |  |
+| 17:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
+| 19:00 | GBP | NIESR GDP Estimate |  |  | 0.3% |
+| 20:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
+| 20:30 | USD | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
+| 21:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -1.750M |
