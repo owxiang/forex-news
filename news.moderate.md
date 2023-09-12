@@ -10,8 +10,8 @@
 | 14:00 | GBP | Claimant Count Change (Aug) | 0.9K | 17.1K | 7.4K |
 | 14:00 | GBP | Employment Change 3M/3M (MoM) (Jul) | -207K | -185K | -66K |
 | 14:00 | GBP | Unemployment Rate (Jul) | 4.3% | 4.3% | 4.2% |
-| 40 min | EUR | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
-| 40 min | EUR | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
+| 15:00 | EUR | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
+| 15:00 | EUR | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.1% |
 | 17:00 | EUR | German ZEW Current Conditions (Sep) |  | -75.0 | -71.3 |
 | 17:00 | EUR | German ZEW Economic Sentiment (Sep) |  | -15.0 | -12.3 |
 | 17:00 | EUR | ZEW Economic Sentiment (Sep) |  | -6.2 | -5.5 |
