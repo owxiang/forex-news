@@ -8,8 +8,8 @@
 | 06:45 | NZD | Visitor Arrivals (MoM) | 19.8% |  | 11.3% |
 | 08:30 | AUD | Westpac Consumer Sentiment (Sep) | -1.5% |  | -0.4% |
 | 09:00 | NZD | Economic Forecast | -10.034B | -16.697B | -6.960B |
-| 09:30 | AUD | NAB Business Survey (Aug) | 13 |  | 10 |
-| 11:35 | JPY | 5-Year JGB Auction |  |  | 0.189% |
+| 09:30 | AUD | NAB Business Survey (Aug) | 13 |  | 11 |
+| 19 min | JPY | 5-Year JGB Auction |  |  | 0.189% |
 | 12:30 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
 | 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |

@@ -12,8 +12,8 @@
 | 08:30 | AUD | Low | Westpac Consumer Sentiment (Sep) | -1.5% |  | -0.4% |
 | 09:00 | NZD | Low | Economic Forecast | -10.034B | -16.697B | -6.960B |
 | 09:30 | AUD | Moderate | NAB Business Confidence (Aug) | 2 |  | 1 |
-| 09:30 | AUD | Low | NAB Business Survey (Aug) | 13 |  | 10 |
-| 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.189% |
+| 09:30 | AUD | Low | NAB Business Survey (Aug) | 13 |  | 11 |
+| 19 min | JPY | Low | 5-Year JGB Auction |  |  | 0.189% |
 | 12:30 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | 14:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
 | 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 8.2% | 8.2% |
@@ -24,10 +24,10 @@
 | 14:00 | EUR | Low | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -19.8% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Aug) |  |  | 6.2% |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -71.3 |
