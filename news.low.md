@@ -10,11 +10,11 @@
 | 09:00 | NZD | Economic Forecast | -10.034B | -16.697B | -6.960B |
 | 09:30 | AUD | NAB Business Survey (Aug) | 13 |  | 11 |
 | 11:35 | JPY | 5-Year JGB Auction | 0.291% |  | 0.189% |
-| 12 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 14:00 | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
-| 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
-| 14:00 | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
-| 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 46 min | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
+| 46 min | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 46 min | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
+| 46 min | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 46 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 15:00 | EUR | Core CPI (YoY) (Aug) |  |  | 6.2% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |

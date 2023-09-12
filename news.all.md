@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.660% |  | 4.398% |
-| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) | 3.7% |  | 2.2% |
 | 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
+| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) | 3.7% |  | 2.2% |
 | 06:45 | NZD | Low | External Migration & Visitors (Jul) | 59.30% |  | 88.50% |
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jul) | 5,786 |  | 8,549 |
 | 06:45 | NZD | Low | Visitor Arrivals (MoM) | 19.8% |  | 11.3% |
@@ -14,15 +14,15 @@
 | 09:30 | AUD | Moderate | NAB Business Confidence (Aug) | 2 |  | 1 |
 | 09:30 | AUD | Low | NAB Business Survey (Aug) | 13 |  | 11 |
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.291% |  | 0.189% |
-| 12 min | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 14:00 | GBP | Low | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
-| 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 8.2% | 8.2% |
-| 14:00 | GBP | Moderate | Claimant Count Change (Aug) |  | 17.1K | 29.0K |
-| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | -185K | -66K |
-| 14:00 | GBP | Moderate | Unemployment Rate (Jul) |  | 4.3% | 4.2% |
-| 14:00 | EUR | Low | German WPI (YoY) (Aug) |  |  | -2.8% |
-| 14:00 | EUR | Low | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
-| 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 46 min | GBP | Low | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
+| 46 min | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 8.2% | 8.2% |
+| 46 min | GBP | Moderate | Claimant Count Change (Aug) |  | 17.1K | 29.0K |
+| 46 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | -185K | -66K |
+| 46 min | GBP | Moderate | Unemployment Rate (Jul) |  | 4.3% | 4.2% |
+| 46 min | EUR | Low | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 46 min | EUR | Low | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
+| 46 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -19.8% |
+| 46 min | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Aug) |  |  | 6.2% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
@@ -42,8 +42,8 @@
 | 20:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.67% | 3.99% |
+| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
 | 20:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 29.6B |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |
