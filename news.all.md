@@ -19,8 +19,8 @@
 | 14:00 | GBP | Moderate | Claimant Count Change (Aug) | 0.9K | 17.1K | 7.4K |
 | 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) | -207K | -185K | -66K |
 | 14:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.3% | 4.3% | 4.2% |
-| 14:00 | EUR | Low | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
 | 14:00 | EUR | Low | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
+| 14:00 | EUR | Low | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Aug) | 6.1% |  | 6.2% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.5% | 0.5% | 0.2% |
@@ -41,5 +41,5 @@
 | 20:00 | BRL | Low | CPI (MoM) (Aug) | 0.23% | 0.28% | 0.12% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Aug) | 4.61% | 4.67% | 3.99% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) | 0.30% |  | 0.19% |
-| 15 min | EUR | Low | German Current Account Balance n.s.a |  |  | 29.6B |
-| 25 min | USD | Low | Redbook (YoY) |  |  | 4.1% |
+| 20:30 | EUR | Low | German Current Account Balance n.s.a | 18.7B |  | 28.4B |
+| 11 min | USD | Low | Redbook (YoY) |  |  | 4.1% |
