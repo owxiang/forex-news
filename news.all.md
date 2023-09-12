@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.660% |  | 4.398% |
-| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
 | 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) | 3.7% |  | 2.2% |
+| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
 | 06:45 | NZD | Low | External Migration & Visitors (Jul) | 59.30% |  | 88.50% |
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jul) | 5,786 |  | 8,549 |
 | 06:45 | NZD | Low | Visitor Arrivals (MoM) | 19.8% |  | 11.3% |
@@ -22,17 +22,17 @@
 | 14:00 | EUR | Low | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
 | 14:00 | EUR | Low | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Aug) | 6.1% |  | 6.2% |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) | 0.5% | 0.5% | 0.2% |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) | 2.6% | 2.6% | 2.3% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) | 0.5% | 0.5% | -0.1% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) | 2.4% | 2.4% | 2.1% |
-| 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
-| 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
-| 17:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -71.3 |
-| 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | -15.0 | -12.3 |
-| 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | -6.2 | -5.5 |
-| 17:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.947% |
+| 21 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 21 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 41 min | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -71.3 |
+| 41 min | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | -15.0 | -12.3 |
+| 41 min | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 41 min | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | -6.2 | -5.5 |
+| 51 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.947% |
 | 17:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.120% |
 | 18:00 | USD | Low | NFIB Small Business Optimism (Aug) |  | 91.6 | 91.9 |
 | 19:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
@@ -41,8 +41,8 @@
 | 20:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.67% | 3.99% |
+| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
 | 20:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 29.6B |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |

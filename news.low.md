@@ -16,10 +16,10 @@
 | 15:00 | EUR | Core CPI (YoY) (Aug) | 6.1% |  | 6.2% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) | 0.5% | 0.5% | 0.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Aug) | 0.5% | 0.5% | -0.1% |
-| 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
-| 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
-| 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.947% |
+| 21 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 21 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 41 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 51 min | EUR | Italian 12-Month BOT Auction |  |  | 3.947% |
 | 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
 | 18:00 | USD | NFIB Small Business Optimism (Aug) |  | 91.6 | 91.9 |
 | 20:00 | INR | Cumulative Industrial Production (Jul) |  |  | 4.50% |
