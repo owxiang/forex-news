@@ -5,7 +5,7 @@
 | 00:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 00:00 | USD | WASDE Report |  |  |  |
 | 01:00 | USD | 10-Year Note Auction | 4.289% |  | 3.999% |
-| 04:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
 | 07:50 | JPY | BSI Large Manufacturing Conditions (Q3) |  | 0.2 | -0.4 |
 | 14:00 | GBP | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
 | 14:00 | GBP | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |

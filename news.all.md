@@ -5,9 +5,9 @@
 | 00:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 00:00 | USD | Moderate | WASDE Report |  |  |  |
 | 01:00 | USD | Moderate | 10-Year Note Auction | 4.289% |  | 3.999% |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
-| 05:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | -12.8% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Aug) |  |  | -13.5% |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
+| 44 min | KRW | Low | Export Price Index (YoY) (Aug) |  |  | -12.8% |
+| 44 min | KRW | Low | Import Price Index (YoY) (Aug) |  |  | -13.5% |
 | 06:45 | NZD | Low | FPI (MoM) (Aug) |  |  | -0.5% |
 | 07:00 | KRW | Low | Unemployment Rate (Aug) |  |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) |  |  | 12 |
@@ -34,8 +34,8 @@
 | 16:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 1.00% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.350% |
 | 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Low | Industrial Production (YoY) (Jul) |  | -0.4% | -1.2% |
 | 17:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
+| 17:00 | EUR | Low | Industrial Production (YoY) (Jul) |  | -0.4% | -1.2% |
 | 17:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.71% |
 | 17:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.90% |
 | 18:00 | EUR | Low | German 30-Year Bund Auction |  |  | 2.680% |
@@ -49,23 +49,23 @@
 | 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
 | 20:30 | USD | Low | Core CPI Index (Aug) |  |  | 308.80 |
-| 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Aug) |  | 3.6% | 3.2% |
+| 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 306.99 | 305.69 |
 | 20:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 304.35 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |
 | 20:30 | USD | Low | Real Earnings (MoM) (Aug) |  |  | 0.6% |
 | 21:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 22:30 | USD | High | Crude Oil Inventories |  |  | -6.307M |
+| 22:30 | USD | High | Crude Oil Inventories |  | -1.912M | -6.307M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | -0.251M |
 | 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.750M |
 | 22:30 | USD | Low | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 0.679M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.303M | 0.679M |
 | 22:30 | USD | Low | Gasoline Production |  |  | -0.217M |
 | 22:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.048M |
 | 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 22:30 | USD | Low | Gasoline Inventories |  |  | -2.666M |
+| 22:30 | USD | Low | Gasoline Inventories |  | 0.237M | -2.666M |
 | 23:00 | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.2% |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |

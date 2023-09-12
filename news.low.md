@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Export Price Index (YoY) (Aug) |  |  | -12.8% |
-| 05:00 | KRW | Import Price Index (YoY) (Aug) |  |  | -13.5% |
+| 44 min | KRW | Export Price Index (YoY) (Aug) |  |  | -12.8% |
+| 44 min | KRW | Import Price Index (YoY) (Aug) |  |  | -13.5% |
 | 06:45 | NZD | FPI (MoM) (Aug) |  |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) |  |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) |  |  | 12 |
@@ -39,11 +39,11 @@
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
 | 22:30 | USD | Crude Oil Imports |  |  | -0.251M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  |  | 0.679M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | 1.303M | 0.679M |
 | 22:30 | USD | Gasoline Production |  |  | -0.217M |
 | 22:30 | USD | Heating Oil Stockpiles |  |  | -0.048M |
 | 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 22:30 | USD | Gasoline Inventories |  |  | -2.666M |
+| 22:30 | USD | Gasoline Inventories |  | 0.237M | -2.666M |
 | 23:00 | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.2% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
