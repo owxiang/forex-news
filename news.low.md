@@ -11,8 +11,8 @@
 | 09:30 | AUD | NAB Business Survey (Aug) | 13 |  | 11 |
 | 11:35 | JPY | 5-Year JGB Auction | 0.291% |  | 0.189% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jul) | 7.8% | 7.8% | 7.8% |
-| 14:00 | EUR | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
 | 14:00 | EUR | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
+| 14:00 | EUR | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
 | 15:00 | EUR | Core CPI (YoY) (Aug) | 6.1% |  | 6.2% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) | 0.5% | 0.5% | 0.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Aug) | 0.5% | 0.5% | -0.1% |
@@ -20,10 +20,10 @@
 | 17:10 | EUR | Italian 12-Month BOT Auction | 3.873% |  | 3.947% |
 | 17:30 | EUR | German 2-Year Schatz Auction | 3.100% |  | 3.120% |
 | 18:00 | USD | NFIB Small Business Optimism (Aug) | 91.3 | 91.6 | 91.9 |
-| 47 min | INR | Cumulative Industrial Production (Jul) |  |  | 4.50% |
-| 47 min | INR | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
-| 47 min | INR | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 47 min | BRL | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
-| 47 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
-| 20:45 | EUR | German Current Account Balance n.s.a |  |  | 29.6B |
-| 20:55 | USD | Redbook (YoY) |  |  | 4.1% |
+| 20:00 | INR | Cumulative Industrial Production (Jul) | 4.80% |  | 4.50% |
+| 20:00 | INR | Industrial Production (YoY) (Jul) | 5.7% | 4.8% | 3.7% |
+| 20:00 | INR | Manufacturing Output (MoM) (Jul) | 4.6% |  | 3.1% |
+| 20:00 | BRL | CPI (MoM) (Aug) | 0.23% | 0.28% | 0.12% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) | 0.30% |  | 0.19% |
+| 15 min | EUR | German Current Account Balance n.s.a |  |  | 29.6B |
+| 25 min | USD | Redbook (YoY) |  |  | 4.1% |
