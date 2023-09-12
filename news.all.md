@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.660% |  | 4.398% |
-| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
 | 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) | 3.7% |  | 2.2% |
+| 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
 | 06:45 | NZD | Low | External Migration & Visitors (Jul) | 59.30% |  | 88.50% |
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jul) | 5,786 |  | 8,549 |
 | 06:45 | NZD | Low | Visitor Arrivals (MoM) | 19.8% |  | 11.3% |
@@ -14,24 +14,23 @@
 | 09:30 | AUD | Moderate | NAB Business Confidence (Aug) | 2 |  | 1 |
 | 09:30 | AUD | Low | NAB Business Survey (Aug) | 13 |  | 11 |
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.291% |  | 0.189% |
-| 46 min | GBP | Low | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
-| 46 min | GBP | Moderate | Average Earnings Index +Bonus (Jul) |  | 8.2% | 8.2% |
-| 46 min | GBP | Moderate | Claimant Count Change (Aug) |  | 17.1K | 29.0K |
-| 46 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) |  | -185K | -66K |
-| 46 min | GBP | Moderate | Unemployment Rate (Jul) |  | 4.3% | 4.2% |
-| 46 min | EUR | Low | German WPI (YoY) (Aug) |  |  | -2.8% |
-| 46 min | EUR | Low | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
-| 46 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -19.8% |
-| 46 min | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 15:00 | EUR | Low | Core CPI (YoY) (Aug) |  |  | 6.2% |
-| 15:00 | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
-| 15:00 | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
+| 14:00 | GBP | Low | Average Earnings ex Bonus (Jul) | 7.8% | 7.8% | 7.8% |
+| 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Jul) | 8.5% | 8.2% | 8.4% |
+| 14:00 | GBP | Moderate | Claimant Count Change (Aug) | 0.9K | 17.1K | 7.4K |
+| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jul) | -207K | -185K | -66K |
+| 14:00 | GBP | Moderate | Unemployment Rate (Jul) | 4.3% | 4.3% | 4.2% |
+| 14:00 | EUR | Low | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
+| 14:00 | EUR | Low | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
+| 40 min | EUR | Low | Core CPI (YoY) (Aug) |  |  | 6.2% |
+| 40 min | EUR | Low | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
+| 40 min | EUR | Moderate | Spanish CPI (YoY) (Aug) |  | 2.6% | 2.3% |
+| 40 min | EUR | Low | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
+| 40 min | EUR | Moderate | Spanish HICP (YoY) (Aug) |  | 2.4% | 2.1% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Sep) |  | -75.0 | -71.3 |
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) |  | -15.0 | -12.3 |
+| 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) |  | -6.2 | -5.5 |
 | 17:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.947% |
 | 17:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.120% |

@@ -10,16 +10,15 @@
 | 09:00 | NZD | Economic Forecast | -10.034B | -16.697B | -6.960B |
 | 09:30 | AUD | NAB Business Survey (Aug) | 13 |  | 11 |
 | 11:35 | JPY | 5-Year JGB Auction | 0.291% |  | 0.189% |
-| 46 min | GBP | Average Earnings ex Bonus (Jul) |  | 7.8% | 7.8% |
-| 46 min | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
-| 46 min | EUR | German WPI (MoM) (Aug) |  | -0.1% | -0.2% |
-| 46 min | JPY | Machine Tool Orders (YoY) |  |  | -19.8% |
-| 46 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 15:00 | EUR | Core CPI (YoY) (Aug) |  |  | 6.2% |
-| 15:00 | EUR | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 15:00 | EUR | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
+| 14:00 | GBP | Average Earnings ex Bonus (Jul) | 7.8% | 7.8% | 7.8% |
+| 14:00 | EUR | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
+| 14:00 | EUR | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
+| 40 min | EUR | Core CPI (YoY) (Aug) |  |  | 6.2% |
+| 40 min | EUR | Spanish CPI (MoM) (Aug) |  | 0.5% | 0.2% |
+| 40 min | EUR | Spanish HICP (MoM) (Aug) |  | 0.5% | -0.1% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.507% |
+| 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 17:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.947% |
 | 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
 | 18:00 | USD | NFIB Small Business Optimism (Aug) |  | 91.6 | 91.9 |
