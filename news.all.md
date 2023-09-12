@@ -31,10 +31,10 @@
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Sep) | -11.4 | -15.0 | -12.3 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Sep) | -8.9 | -6.2 | -5.5 |
 | 17:10 | EUR | Low | Italian 12-Month BOT Auction | 3.873% |  | 3.947% |
-| 15 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.120% |
-| 45 min | USD | Low | NFIB Small Business Optimism (Aug) |  | 91.6 | 91.9 |
-| 19:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
-| 19:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 17:30 | EUR | Low | German 2-Year Schatz Auction | 3.100% |  | 3.120% |
+| 18:00 | USD | Low | NFIB Small Business Optimism (Aug) | 91.3 | 91.6 | 91.9 |
+| 43 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
+| 43 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 20:00 | INR | Moderate | CPI (YoY) (Aug) |  | 7.00% | 7.44% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
