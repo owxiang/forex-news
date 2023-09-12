@@ -5,9 +5,9 @@
 | 00:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 00:00 | USD | Moderate | WASDE Report |  |  |  |
 | 01:00 | USD | Moderate | 10-Year Note Auction | 4.289% |  | 3.999% |
-| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
-| 44 min | KRW | Low | Export Price Index (YoY) (Aug) |  |  | -12.8% |
-| 44 min | KRW | Low | Import Price Index (YoY) (Aug) |  |  | -13.5% |
+| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.174M | -2.000M | -5.521M |
+| 05:00 | KRW | Low | Export Price Index (YoY) (Aug) | -7.9% |  | -12.8% |
+| 05:00 | KRW | Low | Import Price Index (YoY) (Aug) | -9.0% |  | -13.5% |
 | 06:45 | NZD | Low | FPI (MoM) (Aug) |  |  | -0.5% |
 | 07:00 | KRW | Low | Unemployment Rate (Aug) |  |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) |  |  | 12 |

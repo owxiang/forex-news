@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | KRW | Export Price Index (YoY) (Aug) |  |  | -12.8% |
-| 44 min | KRW | Import Price Index (YoY) (Aug) |  |  | -13.5% |
+| 05:00 | KRW | Export Price Index (YoY) (Aug) | -7.9% |  | -12.8% |
+| 05:00 | KRW | Import Price Index (YoY) (Aug) | -9.0% |  | -13.5% |
 | 06:45 | NZD | FPI (MoM) (Aug) |  |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) |  |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) |  |  | 12 |
