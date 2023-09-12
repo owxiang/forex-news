@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 00:00 | USD | Moderate | WASDE Report |  |  |  |
-| 40 min | USD | Moderate | 10-Year Note Auction |  |  | 3.999% |
-| 02:00 | USD | Moderate | Federal Budget Balance (Aug) |  |  | -221.0B |
+| 01:00 | USD | Moderate | 10-Year Note Auction | 4.289% |  | 3.999% |
+| 46 min | USD | Moderate | Federal Budget Balance (Aug) |  |  | -221.0B |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | -5.521M |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Aug) |  |  | -12.8% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Aug) |  |  | -13.5% |
@@ -17,8 +17,8 @@
 | 07:50 | JPY | Low | PPI (MoM) (Aug) |  | 0.1% | 0.1% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) |  |  | 5,177.7B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) |  |  | 2.90% |
-| 14:00 | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
 | 14:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
+| 14:00 | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
 | 14:00 | GBP | High | GDP (MoM) (Jul) |  | -0.2% | 0.5% |
 | 14:00 | GBP | Low | GDP (YoY) (Jul) |  | 0.4% | 0.9% |
 | 14:00 | GBP | Low | Index of Services |  | 0.2% | 0.1% |
@@ -35,8 +35,8 @@
 | 16:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 1.00% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.350% |
 | 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Jul) |  | -0.4% | -1.2% |
+| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
 | 17:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.71% |
 | 17:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.90% |
 | 18:00 | EUR | Low | German 30-Year Bund Auction |  |  | 2.680% |
@@ -47,11 +47,11 @@
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 183.6 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 388.1 |
 | 20:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
-| 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
+| 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 20:30 | USD | Low | Core CPI Index (Aug) |  |  | 308.80 |
-| 20:30 | USD | High | CPI (YoY) (Aug) |  | 3.6% | 3.2% |
 | 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
+| 20:30 | USD | High | CPI (YoY) (Aug) |  | 3.6% | 3.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 306.99 | 305.69 |
 | 20:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 304.35 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |
