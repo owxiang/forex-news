@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 3-Year Note Auction | 4.660% |  | 4.398% |
-| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) | 3.7% |  | 2.2% |
 | 06:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Aug) | 0.7% |  | 0.0% |
+| 06:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Aug) | 3.7% |  | 2.2% |
 | 06:45 | NZD | Low | External Migration & Visitors (Jul) | 59.30% |  | 88.50% |
 | 06:45 | NZD | Low | Permanent/Long-Term Migration (Jul) | 5,786 |  | 8,549 |
 | 06:45 | NZD | Low | Visitor Arrivals (MoM) | 19.8% |  | 11.3% |
@@ -33,14 +33,13 @@
 | 17:10 | EUR | Low | Italian 12-Month BOT Auction | 3.873% |  | 3.947% |
 | 17:30 | EUR | Low | German 2-Year Schatz Auction | 3.100% |  | 3.120% |
 | 18:00 | USD | Low | NFIB Small Business Optimism (Aug) | 91.3 | 91.6 | 91.9 |
-| 43 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
-| 43 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 20:00 | INR | Moderate | CPI (YoY) (Aug) |  | 7.00% | 7.44% |
-| 20:00 | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
-| 20:00 | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
-| 20:00 | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 20:00 | BRL | Low | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Aug) |  | 4.67% | 3.99% |
-| 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
+| 19:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 47 min | INR | Moderate | CPI (YoY) (Aug) |  | 7.00% | 7.44% |
+| 47 min | INR | Low | Cumulative Industrial Production (Jul) |  |  | 4.50% |
+| 47 min | INR | Low | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
+| 47 min | INR | Low | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
+| 47 min | BRL | Moderate | CPI (YoY) (Aug) |  | 4.67% | 3.99% |
+| 47 min | BRL | Low | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
+| 47 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
 | 20:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 29.6B |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |

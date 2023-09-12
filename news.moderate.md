@@ -15,7 +15,6 @@
 | 17:00 | EUR | German ZEW Current Conditions (Sep) | -79.4 | -75.0 | -71.3 |
 | 17:00 | EUR | German ZEW Economic Sentiment (Sep) | -11.4 | -15.0 | -12.3 |
 | 17:00 | EUR | ZEW Economic Sentiment (Sep) | -8.9 | -6.2 | -5.5 |
-| 43 min | GBP | NIESR GDP Estimate |  |  | 0.3% |
-| 43 min | USD | OPEC Monthly Report |  |  |  |
-| 20:00 | INR | CPI (YoY) (Aug) |  | 7.00% | 7.44% |
-| 20:00 | BRL | CPI (YoY) (Aug) |  | 4.67% | 3.99% |
+| 19:00 | USD | OPEC Monthly Report |  |  |  |
+| 47 min | INR | CPI (YoY) (Aug) |  | 7.00% | 7.44% |
+| 47 min | BRL | CPI (YoY) (Aug) |  | 4.67% | 3.99% |

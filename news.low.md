@@ -20,10 +20,10 @@
 | 17:10 | EUR | Italian 12-Month BOT Auction | 3.873% |  | 3.947% |
 | 17:30 | EUR | German 2-Year Schatz Auction | 3.100% |  | 3.120% |
 | 18:00 | USD | NFIB Small Business Optimism (Aug) | 91.3 | 91.6 | 91.9 |
-| 20:00 | INR | Cumulative Industrial Production (Jul) |  |  | 4.50% |
-| 20:00 | INR | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
-| 20:00 | INR | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
-| 20:00 | BRL | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
-| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
+| 47 min | INR | Cumulative Industrial Production (Jul) |  |  | 4.50% |
+| 47 min | INR | Industrial Production (YoY) (Jul) |  | 4.8% | 3.7% |
+| 47 min | INR | Manufacturing Output (MoM) (Jul) |  |  | 3.1% |
+| 47 min | BRL | CPI (MoM) (Aug) |  | 0.28% | 0.12% |
+| 47 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) |  |  | 0.19% |
 | 20:45 | EUR | German Current Account Balance n.s.a |  |  | 29.6B |
 | 20:55 | USD | Redbook (YoY) |  |  | 4.1% |
