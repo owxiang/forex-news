@@ -11,8 +11,8 @@
 | 09:30 | AUD | NAB Business Survey (Aug) | 13 |  | 11 |
 | 11:35 | JPY | 5-Year JGB Auction | 0.291% |  | 0.189% |
 | 14:00 | GBP | Average Earnings ex Bonus (Jul) | 7.8% | 7.8% | 7.8% |
-| 14:00 | EUR | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
 | 14:00 | EUR | German WPI (YoY) (Aug) | -2.7% |  | -2.8% |
+| 14:00 | EUR | German WPI (MoM) (Aug) | 0.2% | -0.1% | -0.2% |
 | 15:00 | EUR | Core CPI (YoY) (Aug) | 6.1% |  | 6.2% |
 | 15:00 | EUR | Spanish CPI (MoM) (Aug) | 0.5% | 0.5% | 0.2% |
 | 15:00 | EUR | Spanish HICP (MoM) (Aug) | 0.5% | 0.5% | -0.1% |
@@ -26,4 +26,4 @@
 | 20:00 | BRL | CPI (MoM) (Aug) | 0.23% | 0.28% | 0.12% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) | 0.30% |  | 0.19% |
 | 20:30 | EUR | German Current Account Balance n.s.a | 18.7B |  | 28.4B |
-| 15 min | USD | Redbook (YoY) |  |  | 4.1% |
+| 22:30 | USD | Redbook (YoY) | 4.6% |  | 4.1% |
