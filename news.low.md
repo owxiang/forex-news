@@ -26,4 +26,4 @@
 | 20:00 | BRL | CPI (MoM) (Aug) | 0.23% | 0.28% | 0.12% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Aug) | 0.30% |  | 0.19% |
 | 20:30 | EUR | German Current Account Balance n.s.a | 18.7B |  | 28.4B |
-| 11 min | USD | Redbook (YoY) |  |  | 4.1% |
+| 15 min | USD | Redbook (YoY) |  |  | 4.1% |
