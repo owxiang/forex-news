@@ -17,4 +17,4 @@
 | 19:05 | GBP | NIESR Monthly GDP Tracker | 0.2% |  | 0.2% |
 | 20:30 | USD | Core CPI (YoY) (Aug) | 4.3% | 4.3% | 4.7% |
 | 21:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15 min | USD | Cushing Crude Oil Inventories |  |  | -1.750M |
+| 22:30 | USD | Cushing Crude Oil Inventories | -2.450M |  | -1.750M |
