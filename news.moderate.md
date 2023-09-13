@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | Federal Budget Balance | 89.3B | -240.0B | -221.0B |
-| 07:01 | GBP | RICS House Price Balance (Aug) |  | -56% | -53% |
+| 47 min | GBP | RICS House Price Balance (Aug) |  | -56% | -53% |
 | 09:30 | AUD | Employment Change (Aug) |  | 24.3K | -14.6K |
 | 09:30 | AUD | Full Employment Change (Aug) |  |  | -24.2K |
 | 09:30 | AUD | Unemployment Rate (Aug) |  | 3.7% | 3.7% |

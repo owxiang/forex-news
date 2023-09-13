@@ -5,7 +5,7 @@
 | 01:00 | USD | Low | 30-Year Bond Auction | 4.345% |  | 4.189% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.173B | 0.361B | -0.566B |
 | 02:00 | USD | Moderate | Federal Budget Balance | 89.3B | -240.0B | -221.0B |
-| 07:01 | GBP | Moderate | RICS House Price Balance (Aug) |  | -56% | -53% |
+| 47 min | GBP | Moderate | RICS House Price Balance (Aug) |  | -56% | -53% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) |  | -10.7% | -5.8% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) |  | -0.9% | 2.7% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 90.7B |
@@ -18,8 +18,8 @@
 | 10:30 | SGD | Low | Unemployment Rate (Q2) |  | 1.9% | 1.9% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
-| 14:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
+| 14:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.6% |
 | 14:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 14.25% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | -12.79% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
@@ -43,15 +43,15 @@
 | 20:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 20:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 4.25% | 4.25% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,693K | 1,679K |
-| 20:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
 | 20:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
+| 20:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
 | 20:30 | USD | High | Initial Jobless Claims |  | 226K | 216K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.25K |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
 | 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 1.0% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
