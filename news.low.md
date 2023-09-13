@@ -7,8 +7,8 @@
 | 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
@@ -25,11 +25,11 @@
 | 17:20 | EUR | Italian 3-Year BTP Auction | 3.86% |  | 3.71% |
 | 17:20 | EUR | Italian 7-Year BTP Auction | 4.21% |  | 3.90% |
 | 17:30 | EUR | German 30-Year Bund Auction | 2.790% |  | 2.680% |
-| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.21% |
-| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
-| 44 min | USD | MBA Purchase Index |  |  | 141.9 |
-| 44 min | USD | Mortgage Market Index |  |  | 183.6 |
-| 44 min | USD | Mortgage Refinance Index |  |  | 388.1 |
+| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.27% |  | 7.21% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) | -0.8% |  | -2.9% |
+| 19:00 | USD | MBA Purchase Index | 143.7 |  | 141.9 |
+| 19:00 | USD | Mortgage Market Index | 182.2 |  | 183.6 |
+| 19:00 | USD | Mortgage Refinance Index | 367.0 |  | 388.1 |
 | 20:30 | USD | Core CPI Index (Aug) |  |  | 308.80 |
 | 20:30 | USD | CPI Index, n.s.a. (Aug) |  | 306.98 | 305.69 |
 | 20:30 | USD | CPI Index, s.a (Aug) |  |  | 304.35 |

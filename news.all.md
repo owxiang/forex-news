@@ -12,8 +12,8 @@
 | 07:00 | KRW | Low | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) | 4 |  | 12 |
 | 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
-| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
@@ -21,10 +21,10 @@
 | 14:00 | GBP | High | GDP (MoM) (Jul) | -0.5% | -0.2% | 0.5% |
 | 14:00 | GBP | Low | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
 | 14:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
-| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.7% | -0.6% | 1.8% |
-| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
+| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
+| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
 | 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
 | 14:00 | GBP | Moderate | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
 | 14:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
@@ -38,13 +38,13 @@
 | 17:20 | EUR | Low | Italian 3-Year BTP Auction | 3.86% |  | 3.71% |
 | 17:20 | EUR | Low | Italian 7-Year BTP Auction | 4.21% |  | 3.90% |
 | 17:30 | EUR | Low | German 30-Year Bund Auction | 2.790% |  | 2.680% |
-| 44 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.21% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.9% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 141.9 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 183.6 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 388.1 |
-| 20:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.27% |  | 7.21% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.8% |  | -2.9% |
+| 19:00 | USD | Low | MBA Purchase Index | 143.7 |  | 141.9 |
+| 19:00 | USD | Low | Mortgage Market Index | 182.2 |  | 183.6 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 367.0 |  | 388.1 |
+| 47 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
+| 47 min | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
 | 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
 | 20:30 | USD | Low | Core CPI Index (Aug) |  |  | 308.80 |

@@ -14,8 +14,8 @@
 | 14:00 | GBP | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
 | 16:00 | USD | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Industrial Production (MoM) (Jul) | -1.1% | -0.7% | 0.4% |
-| 44 min | GBP | NIESR GDP Estimate |  |  | 0.3% |
-| 20:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
+| 47 min | GBP | NIESR GDP Estimate |  |  | 0.3% |
+| 47 min | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
 | 20:30 | USD | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
 | 21:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 22:30 | USD | Cushing Crude Oil Inventories |  |  | -1.750M |
