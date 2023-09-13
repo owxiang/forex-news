@@ -14,8 +14,8 @@
 | 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
 | 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
-| 39 min | KRW | Low | M3 Money Supply (Jul) |  |  | 5,177.7B |
-| 39 min | KRW | Low | M2 Money supply (Jul) |  |  | 2.90% |
+| 11:00 | KRW | Low | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
+| 11:00 | KRW | Low | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
 | 14:00 | GBP | High | GDP (MoM) (Jul) |  | -0.2% | 0.5% |
