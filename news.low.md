@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | USD | 30-Year Bond Auction |  |  | 4.189% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 2.333B |
+| 01:00 | USD | 30-Year Bond Auction | 4.345% |  | 4.189% |
+| 17 min | BRL | Foreign Exchange Flows |  |  | 2.333B |
 | Tentative | IDR | Car Sales (YoY) |  |  | -6.70% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Jul) |  | -10.7% | -5.8% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Jul) |  | -0.9% | 2.7% |
@@ -27,8 +27,8 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 43.82 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,693K | 1,679K |
 | 20:30 | USD | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.25K |
