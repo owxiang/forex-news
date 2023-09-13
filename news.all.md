@@ -5,11 +5,11 @@
 | 01:00 | USD | Low | 30-Year Bond Auction | 4.345% |  | 4.189% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.173B | 0.361B | -0.566B |
 | 02:00 | USD | Moderate | Federal Budget Balance | 89.3B | -240.0B | -221.0B |
-| 47 min | GBP | Moderate | RICS House Price Balance (Aug) |  | -56% | -53% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) |  | -10.7% | -5.8% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) |  | -0.9% | 2.7% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 90.7B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 531.9B |
+| 07:01 | GBP | Moderate | RICS House Price Balance (Aug) | -68% | -56% | -55% |
+| 35 min | JPY | Low | Core Machinery Orders (MoM) (Jul) |  | -0.9% | 2.7% |
+| 35 min | JPY | Low | Core Machinery Orders (YoY) (Jul) |  | -10.7% | -5.8% |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 90.7B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 531.9B |
 | 09:00 | AUD | Low | MI Inflation Expectations |  |  | 4.9% |
 | 09:30 | AUD | Moderate | Employment Change (Aug) |  | 24.3K | -14.6K |
 | 09:30 | AUD | Moderate | Full Employment Change (Aug) |  |  | -24.2K |
@@ -18,8 +18,8 @@
 | 10:30 | SGD | Low | Unemployment Rate (Q2) |  | 1.9% | 1.9% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
-| 14:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
 | 14:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.6% |
+| 14:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
 | 14:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 14.25% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Aug) |  |  | -12.79% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
@@ -35,8 +35,8 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
 | 19:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
 | 20:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.75% | 3.75% |
 | 20:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
