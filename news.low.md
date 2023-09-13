@@ -7,12 +7,12 @@
 | 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
+| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Jul) | 2.8% | 2.9% | 4.6% |
 | 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
+| 14:00 | GBP | U.K. Construction Output (YoY) (Jul) | 2.8% | 2.9% | 4.6% |
 | 14:00 | GBP | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
 | 14:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
@@ -22,19 +22,19 @@
 | 16:30 | HKD | PPI (YoY) (Q2) | -0.20% |  | 1.00% |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction | 4.402% |  | 4.350% |
 | 17:00 | EUR | Industrial Production (YoY) (Jul) | -2.2% | -0.3% | -1.1% |
-| 17:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.71% |
-| 17:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.90% |
-| 44 min | EUR | German 30-Year Bund Auction |  |  | 2.680% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.21% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
-| 19:00 | USD | MBA Purchase Index |  |  | 141.9 |
-| 19:00 | USD | Mortgage Market Index |  |  | 183.6 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 388.1 |
+| 17:20 | EUR | Italian 3-Year BTP Auction | 3.86% |  | 3.71% |
+| 17:20 | EUR | Italian 7-Year BTP Auction | 4.21% |  | 3.90% |
+| 17:30 | EUR | German 30-Year Bund Auction | 2.790% |  | 2.680% |
+| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.21% |
+| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
+| 44 min | USD | MBA Purchase Index |  |  | 141.9 |
+| 44 min | USD | Mortgage Market Index |  |  | 183.6 |
+| 44 min | USD | Mortgage Refinance Index |  |  | 388.1 |
 | 20:30 | USD | Core CPI Index (Aug) |  |  | 308.80 |
 | 20:30 | USD | CPI Index, n.s.a. (Aug) |  | 306.98 | 305.69 |
 | 20:30 | USD | CPI Index, s.a (Aug) |  |  | 304.35 |
 | 20:30 | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |
-| 20:30 | USD | Real Earnings (MoM) (Aug) |  |  | 0.6% |
+| 20:30 | USD | Real Earnings (MoM) (Aug) |  |  | 0.0% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
 | 22:30 | USD | Crude Oil Imports |  |  | -0.251M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |
