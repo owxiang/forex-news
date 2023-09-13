@@ -12,8 +12,8 @@
 | 07:00 | KRW | Low | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) | 4 |  | 12 |
 | 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
-| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
@@ -21,23 +21,23 @@
 | 14:00 | GBP | High | GDP (MoM) (Jul) | -0.5% | -0.2% | 0.5% |
 | 14:00 | GBP | Low | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
 | 14:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
-| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.7% | -0.6% | 1.8% |
+| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
 | 14:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
 | 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
 | 14:00 | GBP | Moderate | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
 | 14:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
-| 46 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 46 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
-| 16:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 3.90% |
-| 16:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 1.00% |
-| 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.350% |
-| 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Low | Industrial Production (YoY) (Jul) |  | -0.3% | -1.2% |
-| 17:00 | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
-| 17:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.71% |
-| 17:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.90% |
+| 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 16:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.6% | 8.0% | 8.0% |
+| 10 min | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 3.90% |
+| 10 min | HKD | Low | PPI (YoY) (Q2) |  |  | 1.00% |
+| 40 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.350% |
+| 40 min | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 40 min | EUR | Low | Industrial Production (YoY) (Jul) |  | -0.3% | -1.2% |
+| 40 min | EUR | Moderate | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
+| 50 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.71% |
+| 50 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.90% |
 | 18:00 | EUR | Low | German 30-Year Bund Auction |  |  | 2.680% |
 | 19:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.21% |
