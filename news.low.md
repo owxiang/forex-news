@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Aug) | -7.9% |  | -12.8% |
-| 05:00 | KRW | Import Price Index (YoY) (Aug) | -9.0% |  | -13.5% |
+| 05:00 | KRW | Import Price Index (YoY) (Aug) | -9.0% |  | -13.6% |
 | 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
@@ -22,7 +22,7 @@
 | 16:30 | HKD | PPI (YoY) (Q2) |  |  | 1.00% |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.350% |
 | 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Industrial Production (YoY) (Jul) |  | -0.4% | -1.2% |
+| 17:00 | EUR | Industrial Production (YoY) (Jul) |  | -0.3% | -1.2% |
 | 17:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.71% |
 | 17:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.90% |
 | 18:00 | EUR | German 30-Year Bund Auction |  |  | 2.680% |
@@ -32,7 +32,7 @@
 | 19:00 | USD | Mortgage Market Index |  |  | 183.6 |
 | 19:00 | USD | Mortgage Refinance Index |  |  | 388.1 |
 | 20:30 | USD | Core CPI Index (Aug) |  |  | 308.80 |
-| 20:30 | USD | CPI Index, n.s.a. (Aug) |  | 306.99 | 305.69 |
+| 20:30 | USD | CPI Index, n.s.a. (Aug) |  | 306.98 | 305.69 |
 | 20:30 | USD | CPI Index, s.a (Aug) |  |  | 304.35 |
 | 20:30 | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |
 | 20:30 | USD | Real Earnings (MoM) (Aug) |  |  | 0.6% |

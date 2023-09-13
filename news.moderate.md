@@ -10,7 +10,7 @@
 | 14:00 | GBP | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
 | 14:00 | GBP | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |
 | 14:00 | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.2% |
-| 14:00 | GBP | Trade Balance (Jul) |  | -15.90B | -15.46B |
+| 14:00 | GBP | Trade Balance (Jul) |  | -16.00B | -15.46B |
 | 14:00 | GBP | Trade Balance Non-EU (Jul) |  |  | -2.77B |
 | 16:00 | USD | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
