@@ -16,18 +16,18 @@
 | 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) | 2.10% |  | 2.70% |
-| 46 min | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
-| 46 min | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
-| 46 min | GBP | High | GDP (MoM) (Jul) |  | -0.2% | 0.5% |
-| 46 min | GBP | Low | GDP (YoY) (Jul) |  | 0.4% | 0.9% |
-| 46 min | GBP | Low | Index of Services |  | 0.2% | 0.1% |
-| 46 min | GBP | Low | Industrial Production (YoY) (Jul) |  | 0.5% | 0.7% |
-| 46 min | GBP | Moderate | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
-| 46 min | GBP | Moderate | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |
-| 46 min | GBP | Low | Manufacturing Production (YoY) (Jul) |  | 2.7% | 3.1% |
-| 46 min | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.2% |
-| 46 min | GBP | Moderate | Trade Balance (Jul) |  | -16.00B | -15.46B |
-| 46 min | GBP | Moderate | Trade Balance Non-EU (Jul) |  |  | -2.77B |
+| 14:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
+| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) | 2.8% | 2.9% | 4.6% |
+| 14:00 | GBP | High | GDP (MoM) (Jul) | -0.5% | -0.2% | 0.5% |
+| 14:00 | GBP | Low | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
+| 14:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
+| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
+| 14:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.7% | -0.6% | 1.8% |
+| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
+| 14:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
+| 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
+| 14:00 | GBP | Moderate | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
+| 14:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
 | 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 16:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
 | 16:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 3.90% |

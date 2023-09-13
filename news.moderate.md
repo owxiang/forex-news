@@ -7,11 +7,11 @@
 | 01:00 | USD | 10-Year Note Auction | 4.289% |  | 3.999% |
 | 04:30 | USD | API Weekly Crude Oil Stock | 1.174M | -2.000M | -5.521M |
 | 07:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
-| 46 min | GBP | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
-| 46 min | GBP | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |
-| 46 min | GBP | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.2% |
-| 46 min | GBP | Trade Balance (Jul) |  | -16.00B | -15.46B |
-| 46 min | GBP | Trade Balance Non-EU (Jul) |  |  | -2.77B |
+| 14:00 | GBP | Industrial Production (MoM) (Jul) | -0.7% | -0.6% | 1.8% |
+| 14:00 | GBP | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
+| 14:00 | GBP | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
+| 14:00 | GBP | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
+| 14:00 | GBP | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
 | 16:00 | USD | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
 | 19:00 | GBP | NIESR GDP Estimate |  |  | 0.3% |
