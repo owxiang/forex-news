@@ -11,21 +11,20 @@
 | 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
-| 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Jul) | 2.8% | 2.9% | 4.6% |
+| 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
 | 14:00 | GBP | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
 | 14:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
-| 16:00 | EUR | Italian Quarterly Unemployment Rate | 7.6% | 8.0% | 8.0% |
-| 10 min | HKD | Industrial Production (YoY) (Q2) |  |  | 3.90% |
-| 10 min | HKD | PPI (YoY) (Q2) |  |  | 1.00% |
-| 40 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.350% |
-| 40 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 40 min | EUR | Industrial Production (YoY) (Jul) |  | -0.3% | -1.2% |
-| 50 min | EUR | Italian 3-Year BTP Auction |  |  | 3.71% |
-| 50 min | EUR | Italian 7-Year BTP Auction |  |  | 3.90% |
-| 18:00 | EUR | German 30-Year Bund Auction |  |  | 2.680% |
+| 16:00 | EUR | Italian Quarterly Unemployment Rate | 7.6% | 8.0% | 7.9% |
+| 16:30 | HKD | Industrial Production (YoY) (Q2) | 2.70% |  | 3.80% |
+| 16:30 | HKD | PPI (YoY) (Q2) | -0.20% |  | 1.00% |
+| 17:00 | GBP | 10-Year Treasury Gilt Auction | 4.402% |  | 4.350% |
+| 17:00 | EUR | Industrial Production (YoY) (Jul) | -2.2% | -0.3% | -1.1% |
+| 17:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.71% |
+| 17:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.90% |
+| 44 min | EUR | German 30-Year Bund Auction |  |  | 2.680% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.21% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.9% |
 | 19:00 | USD | MBA Purchase Index |  |  | 141.9 |
