@@ -11,9 +11,9 @@
 | 06:45 | NZD | Low | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Low | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 35 min | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) |  | 0.2 | -0.4 |
-| 35 min | JPY | Low | PPI (YoY) (Aug) |  | 3.2% | 3.6% |
-| 35 min | JPY | Low | PPI (MoM) (Aug) |  | 0.1% | 0.1% |
+| 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
+| 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) |  |  | 5,177.7B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) |  |  | 2.90% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
