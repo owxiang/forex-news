@@ -43,18 +43,18 @@
 | 19:00 | USD | Low | MBA Purchase Index | 143.7 |  | 141.9 |
 | 19:00 | USD | Low | Mortgage Market Index | 182.2 |  | 183.6 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 367.0 |  | 388.1 |
-| 47 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.3% |
-| 47 min | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
-| 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
-| 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
-| 20:30 | USD | Low | Core CPI Index (Aug) |  |  | 308.80 |
-| 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
-| 20:30 | USD | High | CPI (YoY) (Aug) |  | 3.6% | 3.2% |
-| 20:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 306.98 | 305.69 |
-| 20:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 304.35 |
+| 19:30 | GBP | Moderate | NIESR GDP Estimate | 0.2% |  | 0.2% |
+| 20:30 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
+| 20:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
+| 20:30 | USD | Moderate | Core CPI (YoY) (Aug) | 4.3% | 4.3% | 4.7% |
+| 20:30 | USD | Low | Core CPI Index (Aug) | 309.66 |  | 308.80 |
+| 20:30 | USD | High | CPI (YoY) (Aug) | 3.7% | 3.6% | 3.2% |
+| 20:30 | USD | High | CPI (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
+| 20:30 | USD | Low | CPI Index, n.s.a. (Aug) | 307.03 | 306.98 | 305.69 |
+| 20:30 | USD | Low | CPI Index, s.a (Aug) | 306.27 |  | 304.35 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |
-| 20:30 | USD | Low | Real Earnings (MoM) (Aug) |  |  | 0.0% |
-| 21:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 20:30 | USD | Low | Real Earnings (MoM) (Aug) | -0.1% |  | 0.0% |
+| 45 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 22:30 | USD | High | Crude Oil Inventories |  | -1.912M | -6.307M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | -0.251M |
