@@ -7,8 +7,8 @@
 | 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
+| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
@@ -33,7 +33,7 @@
 | 20:30 | USD | Core CPI Index (Aug) | 309.66 |  | 308.80 |
 | 20:30 | USD | CPI Index, n.s.a. (Aug) | 307.03 | 306.98 | 305.69 |
 | 20:30 | USD | CPI Index, s.a (Aug) | 306.27 |  | 304.35 |
-| 20:30 | USD | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |
+| 20:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.44% |  | 0.19% |
 | 20:30 | USD | Real Earnings (MoM) (Aug) | -0.1% |  | 0.0% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
 | 22:30 | USD | Crude Oil Imports |  |  | -0.251M |
