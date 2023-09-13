@@ -7,12 +7,12 @@
 | 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
-| 11:00 | KRW | M3 Money Supply (Jul) |  |  | 5,177.7B |
-| 11:00 | KRW | M2 Money supply (Jul) |  |  | 2.90% |
-| 14:00 | GBP | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
+| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 39 min | KRW | M3 Money Supply (Jul) |  |  | 5,177.7B |
+| 39 min | KRW | M2 Money supply (Jul) |  |  | 2.90% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
+| 14:00 | GBP | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
 | 14:00 | GBP | GDP (YoY) (Jul) |  | 0.4% | 0.9% |
 | 14:00 | GBP | Index of Services |  | 0.2% | 0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Jul) |  | 0.5% | 0.7% |
