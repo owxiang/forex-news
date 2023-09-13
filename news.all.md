@@ -12,22 +12,22 @@
 | 07:00 | KRW | Low | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) | 4 |  | 12 |
 | 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
-| 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
+| 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) | 2.10% |  | 2.70% |
-| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
-| 14:00 | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
-| 14:00 | GBP | High | GDP (MoM) (Jul) |  | -0.2% | 0.5% |
-| 14:00 | GBP | Low | GDP (YoY) (Jul) |  | 0.4% | 0.9% |
-| 14:00 | GBP | Low | Index of Services |  | 0.2% | 0.1% |
-| 14:00 | GBP | Moderate | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
-| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) |  | 0.5% | 0.7% |
-| 14:00 | GBP | Low | Manufacturing Production (YoY) (Jul) |  | 2.7% | 3.1% |
-| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |
-| 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.2% |
-| 14:00 | GBP | Moderate | Trade Balance (Jul) |  | -16.00B | -15.46B |
-| 14:00 | GBP | Moderate | Trade Balance Non-EU (Jul) |  |  | -2.77B |
+| 46 min | GBP | Low | Construction Output (MoM) (Jul) |  | -0.5% | 1.6% |
+| 46 min | GBP | Low | U.K. Construction Output (YoY) (Jul) |  | 2.9% | 4.6% |
+| 46 min | GBP | High | GDP (MoM) (Jul) |  | -0.2% | 0.5% |
+| 46 min | GBP | Low | GDP (YoY) (Jul) |  | 0.4% | 0.9% |
+| 46 min | GBP | Low | Index of Services |  | 0.2% | 0.1% |
+| 46 min | GBP | Low | Industrial Production (YoY) (Jul) |  | 0.5% | 0.7% |
+| 46 min | GBP | Moderate | Industrial Production (MoM) (Jul) |  | -0.6% | 1.8% |
+| 46 min | GBP | Moderate | Manufacturing Production (MoM) (Jul) |  | -1.0% | 2.4% |
+| 46 min | GBP | Low | Manufacturing Production (YoY) (Jul) |  | 2.7% | 3.1% |
+| 46 min | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) |  | 0.3% | 0.2% |
+| 46 min | GBP | Moderate | Trade Balance (Jul) |  | -16.00B | -15.46B |
+| 46 min | GBP | Moderate | Trade Balance Non-EU (Jul) |  |  | -2.77B |
 | 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 16:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
 | 16:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 3.90% |
@@ -46,8 +46,8 @@
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 183.6 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 388.1 |
 | 20:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
-| 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
 | 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
+| 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
 | 20:30 | USD | Low | Core CPI Index (Aug) |  |  | 308.80 |
 | 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Aug) |  | 3.6% | 3.2% |
