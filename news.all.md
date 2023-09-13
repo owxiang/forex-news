@@ -12,8 +12,8 @@
 | 07:00 | KRW | Low | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Sep) | 4 |  | 12 |
 | 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
-| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | Low | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | Low | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | Low | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | Low | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
@@ -21,10 +21,10 @@
 | 14:00 | GBP | High | GDP (MoM) (Jul) | -0.5% | -0.2% | 0.5% |
 | 14:00 | GBP | Low | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
 | 14:00 | GBP | Low | Index of Services | 0.1% | 0.2% | 0.1% |
-| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Moderate | Industrial Production (MoM) (Jul) | -0.7% | -0.6% | 1.8% |
-| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
+| 14:00 | GBP | Low | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Low | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
+| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
 | 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
 | 14:00 | GBP | Moderate | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
 | 14:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
@@ -43,29 +43,29 @@
 | 19:00 | USD | Low | MBA Purchase Index | 143.7 |  | 141.9 |
 | 19:00 | USD | Low | Mortgage Market Index | 182.2 |  | 183.6 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 367.0 |  | 388.1 |
-| 19:30 | GBP | Moderate | NIESR GDP Estimate | 0.2% |  | 0.2% |
+| 19:05 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.2% |  | 0.2% |
 | 20:30 | USD | High | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Aug) | 4.3% | 4.3% | 4.7% |
 | 20:30 | USD | Low | Core CPI Index (Aug) | 309.66 |  | 308.80 |
-| 20:30 | USD | High | CPI (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Aug) | 3.7% | 3.6% | 3.2% |
+| 20:30 | USD | High | CPI (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Aug) | 307.03 | 306.98 | 305.69 |
 | 20:30 | USD | Low | CPI Index, s.a (Aug) | 306.27 |  | 304.35 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Aug) | 0.44% |  | 0.19% |
 | 20:30 | USD | Low | Real Earnings (MoM) (Aug) | -0.1% |  | 0.0% |
 | 21:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 22:30 | USD | High | Crude Oil Inventories |  | -1.912M | -6.307M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
-| 22:30 | USD | Low | Crude Oil Imports |  |  | -0.251M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.750M |
-| 22:30 | USD | Low | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.303M | 0.679M |
-| 22:30 | USD | Low | Gasoline Production |  |  | -0.217M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.048M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 22:30 | USD | Low | Gasoline Inventories |  | 0.237M | -2.666M |
-| 23:00 | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.2% |
-| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
-| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
-| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 56.37 |
-| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 57.87 |
+| 15 min | USD | High | Crude Oil Inventories |  | -1.912M | -6.307M |
+| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
+| 15 min | USD | Low | Crude Oil Imports |  |  | -0.251M |
+| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.750M |
+| 15 min | USD | Low | Distillate Fuel Production |  |  | -0.006M |
+| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.303M | 0.679M |
+| 15 min | USD | Low | Gasoline Production |  |  | -0.217M |
+| 15 min | USD | Low | Heating Oil Stockpiles |  |  | -0.048M |
+| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 15 min | USD | Low | Gasoline Inventories |  | 0.237M | -2.666M |
+| 45 min | USD | Low | Cleveland CPI (MoM) (Aug) |  |  | 0.2% |
+| 45 min | USD | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
+| 45 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
+| 45 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 56.37 |
+| 45 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 57.87 |

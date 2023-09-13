@@ -7,8 +7,8 @@
 | 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
 | 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
 | 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
+| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
 | 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
 | 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
 | 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
@@ -35,16 +35,16 @@
 | 20:30 | USD | CPI Index, s.a (Aug) | 306.27 |  | 304.35 |
 | 20:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.44% |  | 0.19% |
 | 20:30 | USD | Real Earnings (MoM) (Aug) | -0.1% |  | 0.0% |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
-| 22:30 | USD | Crude Oil Imports |  |  | -0.251M |
-| 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | 1.303M | 0.679M |
-| 22:30 | USD | Gasoline Production |  |  | -0.217M |
-| 22:30 | USD | Heating Oil Stockpiles |  |  | -0.048M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 22:30 | USD | Gasoline Inventories |  | 0.237M | -2.666M |
-| 23:00 | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.2% |
-| 23:00 | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
-| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
-| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 56.37 |
-| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 57.87 |
+| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.020M |
+| 15 min | USD | Crude Oil Imports |  |  | -0.251M |
+| 15 min | USD | Distillate Fuel Production |  |  | -0.006M |
+| 15 min | USD | EIA Weekly Distillates Stocks |  | 1.303M | 0.679M |
+| 15 min | USD | Gasoline Production |  |  | -0.217M |
+| 15 min | USD | Heating Oil Stockpiles |  |  | -0.048M |
+| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 15 min | USD | Gasoline Inventories |  | 0.237M | -2.666M |
+| 45 min | USD | Cleveland CPI (MoM) (Aug) |  |  | 0.2% |
+| 45 min | USD | Thomson Reuters IPSOS PCSI (Sep) |  |  | 52.24 |
+| 45 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 46.90 |
+| 45 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 56.37 |
+| 45 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) |  |  | 57.87 |
