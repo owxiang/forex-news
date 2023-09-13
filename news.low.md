@@ -17,7 +17,7 @@
 | 14:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
 | 14:00 | GBP | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
-| 16:00 | EUR | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
+| 46 min | EUR | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
 | 16:30 | HKD | Industrial Production (YoY) (Q2) |  |  | 3.90% |
 | 16:30 | HKD | PPI (YoY) (Q2) |  |  | 1.00% |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.350% |

@@ -28,8 +28,8 @@
 | 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
 | 14:00 | GBP | Moderate | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
 | 14:00 | GBP | Moderate | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
-| 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 16:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
+| 46 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 46 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 8.0% | 8.0% |
 | 16:30 | HKD | Low | Industrial Production (YoY) (Q2) |  |  | 3.90% |
 | 16:30 | HKD | Low | PPI (YoY) (Q2) |  |  | 1.00% |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.350% |
@@ -49,8 +49,8 @@
 | 20:30 | USD | High | Core CPI (MoM) (Aug) |  | 0.2% | 0.2% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Aug) |  | 4.3% | 4.7% |
 | 20:30 | USD | Low | Core CPI Index (Aug) |  |  | 308.80 |
-| 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 20:30 | USD | High | CPI (YoY) (Aug) |  | 3.6% | 3.2% |
+| 20:30 | USD | High | CPI (MoM) (Aug) |  | 0.6% | 0.2% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Aug) |  | 306.98 | 305.69 |
 | 20:30 | USD | Low | CPI Index, s.a (Aug) |  |  | 304.35 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.19% |

@@ -12,7 +12,7 @@
 | 14:00 | GBP | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
 | 14:00 | GBP | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
 | 14:00 | GBP | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
-| 16:00 | USD | IEA Monthly Report |  |  |  |
+| 46 min | USD | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Industrial Production (MoM) (Jul) |  | -0.7% | 0.5% |
 | 19:00 | GBP | NIESR GDP Estimate |  |  | 0.3% |
 | 20:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
