@@ -26,14 +26,14 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 43.82 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,693K | 1,679K |
 | 20:30 | USD | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.25K |
+| 20:30 | USD | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
-| 20:30 | USD | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.5% | 1.0% |
 | 22:30 | USD | Natural Gas Storage |  |  | 33B |
