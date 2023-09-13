@@ -48,10 +48,10 @@
 | 20:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
 | 20:30 | USD | High | Initial Jobless Claims |  | 226K | 216K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.25K |
-| 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
+| 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 1.0% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
