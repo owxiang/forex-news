@@ -1,20 +1,22 @@
-## 13 September 2023 - Moderate Impact Forex News
+## 14 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 00:00 | USD | WASDE Report |  |  |  |
-| 01:00 | USD | 10-Year Note Auction | 4.289% |  | 3.999% |
-| 04:30 | USD | API Weekly Crude Oil Stock | 1.174M | -2.000M | -5.521M |
-| 07:50 | JPY | BSI Large Manufacturing Conditions (Q3) | 5.4 | 0.2 | -0.4 |
-| 14:00 | GBP | Industrial Production (MoM) (Jul) | -0.7% | -0.6% | 1.8% |
-| 14:00 | GBP | Manufacturing Production (MoM) (Jul) | -0.8% | -1.0% | 2.4% |
-| 14:00 | GBP | Monthly GDP 3M/3M Change (Jul) | 0.2% | 0.3% | 0.2% |
-| 14:00 | GBP | Trade Balance (Jul) | -14.06B | -16.00B | -15.46B |
-| 14:00 | GBP | Trade Balance Non-EU (Jul) | -2.36B |  | -2.77B |
-| 16:00 | USD | IEA Monthly Report |  |  |  |
-| 17:00 | EUR | Industrial Production (MoM) (Jul) | -1.1% | -0.7% | 0.4% |
-| 19:05 | GBP | NIESR Monthly GDP Tracker | 0.2% |  | 0.2% |
-| 20:30 | USD | Core CPI (YoY) (Aug) | 4.3% | 4.3% | 4.7% |
-| 21:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 22:30 | USD | Cushing Crude Oil Inventories | -2.450M |  | -1.750M |
+| 02:00 | USD | Federal Budget Balance |  | -240.0B | -221.0B |
+| 07:01 | GBP | RICS House Price Balance (Aug) |  | -56% | -53% |
+| 09:30 | AUD | Employment Change (Aug) |  | 24.3K | -14.6K |
+| 09:30 | AUD | Full Employment Change (Aug) |  |  | -24.2K |
+| 09:30 | AUD | Unemployment Rate (Aug) |  | 3.7% | 3.7% |
+| 12:30 | JPY | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
+| 14:30 | CHF | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
+| 14:30 | INR | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
+| 19:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
+| 20:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 20:30 | USD | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
+| 20:30 | USD | Retail Control (MoM) (Aug) |  |  | 1.0% |
+| 20:30 | CAD | Wholesale Sales (MoM) (Jul) |  | -2.0% | -2.8% |
+| 22:00 | USD | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
+| 22:00 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
+| 22:15 | EUR | ECB President Lagarde Speaks |  |  |  |

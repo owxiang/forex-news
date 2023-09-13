@@ -1,9 +1,11 @@
-## 13 September 2023 - High Impact Forex News
+## 14 September 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | GBP | GDP (MoM) (Jul) | -0.5% | -0.2% | 0.5% |
-| 20:30 | USD | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.2% |
-| 20:30 | USD | CPI (YoY) (Aug) | 3.7% | 3.6% | 3.2% |
-| 20:30 | USD | CPI (MoM) (Aug) | 0.6% | 0.6% | 0.2% |
-| 22:30 | USD | Crude Oil Inventories | 3.954M | -1.912M | -6.307M |
+| 20:15 | EUR | Deposit Facility Rate (Sep) |  | 3.75% | 3.75% |
+| 20:15 | EUR | ECB Interest Rate Decision (Sep) |  | 4.25% | 4.25% |
+| 20:30 | USD | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
+| 20:30 | USD | Initial Jobless Claims |  | 226K | 216K |
+| 20:30 | USD | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
+| 20:30 | USD | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
+| 20:45 | EUR | ECB Press Conference |  |  |  |

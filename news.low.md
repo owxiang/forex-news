@@ -1,50 +1,42 @@
-## 13 September 2023 - Low Impact Forex News
+## 14 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Export Price Index (YoY) (Aug) | -7.9% |  | -12.8% |
-| 05:00 | KRW | Import Price Index (YoY) (Aug) | -9.0% |  | -13.6% |
-| 06:45 | NZD | FPI (MoM) (Aug) | 0.5% |  | -0.5% |
-| 07:00 | KRW | Unemployment Rate (Aug) | 2.4% |  | 2.8% |
-| 07:00 | JPY | Reuters Tankan Index (Sep) | 4 |  | 12 |
-| 07:50 | JPY | PPI (YoY) (Aug) | 3.2% | 3.2% | 3.4% |
-| 07:50 | JPY | PPI (MoM) (Aug) | 0.3% | 0.1% | 0.1% |
-| 11:00 | KRW | M3 Money Supply (Jul) | 5,177.2B |  | 5,168.9B |
-| 11:00 | KRW | M2 Money supply (Jul) | 2.10% |  | 2.70% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Jul) | 2.8% | 2.9% | 4.6% |
-| 14:00 | GBP | Construction Output (MoM) (Jul) | -0.5% | -0.5% | 1.6% |
-| 14:00 | GBP | GDP (YoY) (Jul) | 0.0% | 0.4% | 0.9% |
-| 14:00 | GBP | Index of Services | 0.1% | 0.2% | 0.1% |
-| 14:00 | GBP | Industrial Production (YoY) (Jul) | 0.4% | 0.5% | 0.7% |
-| 14:00 | GBP | Manufacturing Production (YoY) (Jul) | 3.0% | 2.7% | 3.1% |
-| 16:00 | EUR | Italian Quarterly Unemployment Rate | 7.6% | 8.0% | 7.9% |
-| 16:30 | HKD | Industrial Production (YoY) (Q2) | 2.70% |  | 3.80% |
-| 16:30 | HKD | PPI (YoY) (Q2) | -0.20% |  | 1.00% |
-| 17:00 | GBP | 10-Year Treasury Gilt Auction | 4.402% |  | 4.350% |
-| 17:00 | EUR | Industrial Production (YoY) (Jul) | -2.2% | -0.3% | -1.1% |
-| 17:20 | EUR | Italian 3-Year BTP Auction | 3.86% |  | 3.71% |
-| 17:20 | EUR | Italian 7-Year BTP Auction | 4.21% |  | 3.90% |
-| 17:30 | EUR | German 30-Year Bund Auction | 2.790% |  | 2.680% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.27% |  | 7.21% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) | -0.8% |  | -2.9% |
-| 19:00 | USD | MBA Purchase Index | 143.7 |  | 141.9 |
-| 19:00 | USD | Mortgage Market Index | 182.2 |  | 183.6 |
-| 19:00 | USD | Mortgage Refinance Index | 367.0 |  | 388.1 |
-| 20:30 | USD | Core CPI Index (Aug) | 309.66 |  | 308.80 |
-| 20:30 | USD | CPI Index, n.s.a. (Aug) | 307.03 | 306.98 | 305.69 |
-| 20:30 | USD | CPI Index, s.a (Aug) | 306.27 |  | 304.35 |
-| 20:30 | USD | CPI, n.s.a (MoM) (Aug) | 0.44% |  | 0.19% |
-| 20:30 | USD | Real Earnings (MoM) (Aug) | -0.1% |  | 0.0% |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.177M |  | 0.020M |
-| 22:30 | USD | Crude Oil Imports | 2.654M |  | -0.251M |
-| 22:30 | USD | Distillate Fuel Production | -0.006M |  | -0.006M |
-| 22:30 | USD | EIA Weekly Distillates Stocks | 3.931M | 1.303M | 0.679M |
-| 22:30 | USD | Gasoline Production | -0.576M |  | -0.217M |
-| 22:30 | USD | Heating Oil Stockpiles | 0.113M |  | -0.048M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.6% |  | -0.2% |
-| 22:30 | USD | Gasoline Inventories | 5.560M | 0.237M | -2.666M |
-| 23:00 | USD | Cleveland CPI (MoM) (Aug) | 0.3% |  | 0.2% |
-| 23:00 | USD | Thomson Reuters IPSOS PCSI (Sep) | 52.02 |  | 52.24 |
-| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.66 |  | 46.90 |
-| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 55.09 |  | 56.37 |
-| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Sep) | 56.97 |  | 57.87 |
+| 41 min | USD | 30-Year Bond Auction |  |  | 4.189% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 2.333B |
+| Tentative | IDR | Car Sales (YoY) |  |  | -6.70% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Jul) |  | -10.7% | -5.8% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Jul) |  | -0.9% | 2.7% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 90.7B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 531.9B |
+| 09:00 | AUD | MI Inflation Expectations |  |  | 4.9% |
+| 09:30 | AUD | Participation Rate (Aug) |  | 66.7% | 66.7% |
+| 10:30 | SGD | Unemployment Rate (Q2) |  | 1.9% | 1.9% |
+| 12:30 | JPY | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
+| 14:30 | CHF | PPI (YoY) (Aug) |  |  | -0.6% |
+| 14:30 | INR | WPI Food (YoY) (Aug) |  |  | 14.25% |
+| 14:30 | INR | WPI Fuel (YoY) (Aug) |  |  | -12.79% |
+| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) |  |  | -2.51% |
+| 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| Tentative | ZAR | Business Confidence |  |  | 107.3 |
+| 17:30 | ZAR | Gold Production (YoY) (Jul) |  |  | 28.5% |
+| 17:30 | ZAR | Mining Production (Jul) |  | 0.5% | 1.1% |
+| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.2 |
+| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 45.75 |
+| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.80 |
+| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 43.82 |
+| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
+| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,693K | 1,679K |
+| 20:30 | USD | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
+| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.25K |
+| 20:30 | USD | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
+| 20:30 | USD | Retail Sales (YoY) (Aug) |  |  | 3.17% |
+| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.5% | 1.0% |
+| 22:30 | USD | Natural Gas Storage |  |  | 33B |
+| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
