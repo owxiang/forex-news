@@ -32,9 +32,9 @@
 | 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) | 45.48 |  | 43.82 |
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.73 |  | 49.82 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 46.22 |  | 40.56 |
-| 58 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
+| 2 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 47 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
+| 47 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.75% | 3.75% |
 | 20:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
@@ -46,10 +46,10 @@
 | 20:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 216K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.25K |
-| 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
+| 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 1.0% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
