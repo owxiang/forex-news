@@ -10,7 +10,7 @@
 | 12:30 | JPY | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.4% |
 | 14:30 | CHF | PPI (MoM) (Aug) | -0.2% | 0.1% | -0.1% |
 | 14:30 | INR | WPI Inflation (YoY) (Aug) | -0.52% | -0.60% | -1.36% |
-| 19:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 58 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
 | 20:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
