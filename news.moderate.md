@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | Federal Budget Balance | 89.3B | -240.0B | -221.0B |
 | 07:01 | GBP | RICS House Price Balance (Aug) | -68% | -56% | -55% |
-| 09:30 | AUD | Employment Change (Aug) |  | 24.3K | -14.6K |
-| 09:30 | AUD | Full Employment Change (Aug) |  |  | -24.2K |
-| 09:30 | AUD | Unemployment Rate (Aug) |  | 3.7% | 3.7% |
+| 24 min | AUD | Employment Change (Aug) |  | 24.3K | -14.6K |
+| 24 min | AUD | Full Employment Change (Aug) |  |  | -24.2K |
+| 24 min | AUD | Unemployment Rate (Aug) |  | 3.7% | 3.7% |
 | 12:30 | JPY | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
 | 14:30 | CHF | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
 | 14:30 | INR | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
