@@ -14,9 +14,9 @@
 | 20:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.50% |
 | 20:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 20:30 | USD | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
+| 20:30 | USD | Core PPI (MoM) (Aug) | 0.2% | 0.2% | 0.4% |
 | 20:30 | USD | Retail Control (MoM) (Aug) | 0.1% |  | 0.7% |
 | 20:30 | CAD | Wholesale Sales (MoM) (Jul) | 0.2% | 1.4% | -2.1% |
-| 22:00 | USD | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
-| 22:00 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
-| 22:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 40 min | USD | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
+| 40 min | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
+| 55 min | EUR | ECB President Lagarde Speaks |  |  |  |
