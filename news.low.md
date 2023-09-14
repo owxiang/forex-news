@@ -16,16 +16,15 @@
 | 14:30 | INR | WPI Food (YoY) (Aug) | 10.60% |  | 14.25% |
 | 14:30 | INR | WPI Fuel (YoY) (Aug) | -6.03% |  | -12.79% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | -2.37% |  | -2.51% |
-| 41 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | Tentative | ZAR | Business Confidence |  |  | 107.3 |
-| 17:30 | ZAR | Gold Production (YoY) (Jul) |  |  | 28.5% |
-| 17:30 | ZAR | Mining Production (Jul) |  | 0.5% | 1.1% |
-| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.2 |
-| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 45.75 |
-| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.80 |
-| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 43.82 |
-| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
-| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
+| 15 min | ZAR | Gold Production (YoY) (Jul) |  |  | 28.5% |
+| 15 min | ZAR | Mining Production (Jul) |  | 0.5% | 1.1% |
+| 45 min | GBP | Thomson Reuters IPSOS PCSI (Sep) |  |  | 50.2 |
+| 45 min | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) |  |  | 45.75 |
+| 45 min | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) |  |  | 48.80 |
+| 45 min | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 43.82 |
+| 45 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
+| 45 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,679K |
