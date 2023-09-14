@@ -1,64 +1,81 @@
-## 14 September 2023 - All Forex News
+## 15 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Low | 30-Year Bond Auction | 4.345% |  | 4.189% |
-| 01:30 | BRL | Low | Foreign Exchange Flows | -1.173B | 0.361B | -0.566B |
-| 02:00 | USD | Moderate | Federal Budget Balance | 89.3B | -240.0B | -221.0B |
-| 07:01 | GBP | Moderate | RICS House Price Balance (Aug) | -68% | -56% | -55% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Jul) | -13.0% | -10.7% | -5.8% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Jul) | -1.1% | -0.9% | 2.7% |
-| 07:50 | JPY | Low | Foreign Bonds Buying | 3,631.9B |  | 90.7B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -854.7B |  | 532.1B |
-| 09:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.9% |
-| Tentative | AUD | Moderate | Employment Change (Aug) | 64.9K | 23.0K | -1.4K |
-| 09:30 | AUD | Moderate | Full Employment Change (Aug) | 2.8K |  | -18.7K |
-| 09:30 | AUD | Low | Participation Rate (Aug) | 67.0% | 66.7% | 66.9% |
-| 09:30 | AUD | Moderate | Unemployment Rate (Aug) | 3.7% | 3.7% | 3.7% |
-| 10:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
-| 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | -2.2% |  | 3.8% |
-| 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.4% |
-| 14:30 | CHF | Moderate | PPI (MoM) (Aug) | -0.2% | 0.1% | -0.1% |
-| 14:30 | CHF | Low | PPI (YoY) (Aug) | -0.8% |  | -0.6% |
-| 14:30 | INR | Low | WPI Food (YoY) (Aug) | 10.60% |  | 14.25% |
-| 14:30 | INR | Low | WPI Fuel (YoY) (Aug) | -6.03% |  | -12.79% |
-| 14:30 | INR | Moderate | WPI Inflation (YoY) (Aug) | -0.52% | -0.60% | -1.36% |
-| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) | -2.37% |  | -2.51% |
-| 17:30 | ZAR | Low | Gold Production (YoY) (Jul) | 12.9% |  | 28.5% |
-| 17:30 | ZAR | Low | Mining Production (Jul) | -3.6% | 0.5% | 1.3% |
-| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Sep) | 49.5 |  | 50.2 |
-| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Sep) | 43.80 |  | 45.75 |
-| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Sep) | 44.98 |  | 48.80 |
-| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) | 45.48 |  | 43.82 |
-| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.73 |  | 49.82 |
-| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 46.22 |  | 40.56 |
-| 19:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 3.5% |  | 4.0% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.5% |  | 0.2% |
-| 20:15 | EUR | High | Deposit Facility Rate (Sep) | 4.00% | 3.75% | 3.75% |
-| 20:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% |  | 4.50% |
-| 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 20:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 20:15 | EUR | High | ECB Interest Rate Decision (Sep) | 4.50% | 4.25% | 4.25% |
-| 20:30 | USD | Low | Continuing Jobless Claims | 1,688K | 1,695K | 1,684K |
-| 20:30 | USD | Low | Core PPI (YoY) (Aug) | 2.2% | 2.2% | 2.4% |
-| 20:30 | USD | Moderate | Core PPI (MoM) (Aug) | 0.2% | 0.2% | 0.4% |
-| 20:30 | USD | High | Core Retail Sales (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
-| 20:30 | USD | High | Initial Jobless Claims | 220K | 225K | 217K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.50K |  | 229.50K |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) | 3.0% |  | 2.9% |
-| 20:30 | USD | High | PPI (MoM) (Aug) | 0.7% | 0.4% | 0.4% |
-| 20:30 | USD | Low | PPI (YoY) (Aug) | 1.6% | 1.2% | 0.8% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.3% |
-| 20:30 | USD | Moderate | Retail Control (MoM) (Aug) | 0.1% |  | 0.7% |
-| 20:30 | USD | Low | Retail Sales (YoY) (Aug) | 2.47% |  | 2.64% |
-| 20:30 | USD | High | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.5% |
-| 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) | 0.2% | 0.5% | 0.7% |
-| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | 0.2% | 1.4% | -2.1% |
-| 20:45 | EUR | High | ECB Press Conference |  |  |  |
-| 22:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.0% | 0.1% | -0.1% |
-| 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.0% |  | 0.1% |
-| 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage | 57B | 48B | 33B |
-| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
+| 00:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,101B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.290T |
+| 06:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 46.3 |
+| 07:55 | KRW | Low | Exports (YoY) (Aug) |  |  | -8.4% |
+| 07:55 | KRW | Low | Imports (YoY) (Aug) |  |  | -22.8% |
+| 07:55 | KRW | Low | Trade Balance (Aug) |  |  | 0.87B |
+| 09:30 | SGD | Low | Trade Balance |  |  | 6.490B |
+| 09:30 | CNY | Low | House Prices (YoY) (Aug) |  |  | -0.1% |
+| 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 38.83 |
+| 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 59.95 |
+| 10:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 48.06 |
+| 10:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.25 |
+| 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 69.97 |
+| 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Aug) |  | 3.3% | 3.4% |
+| 10:00 | CNY | Moderate | Industrial Production (YoY) (Aug) |  | 4.0% | 3.7% |
+| 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Aug) |  | 3.9% | 3.8% |
+| 10:00 | CNY | Low | Retail Sales (YoY) (Aug) |  | 3.0% | 2.5% |
+| 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 7.33% |
+| 10:00 | CNY | Moderate | Chinese Unemployment Rate (Aug) |  | 5.3% | 5.3% |
+| 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 12:00 | IDR | Low | Export Growth (YoY) (Aug) |  | -22.00% | -18.03% |
+| 12:00 | IDR | Low | Import Growth (YoY) (Aug) |  | -9.33% | -8.32% |
+| 12:00 | IDR | Low | Trade Balance (Aug) |  | 1.55B | 1.31B |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Jul) |  |  | 3.90 |
+| 14:00 | EUR | Low | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 14:00 | EUR | Low | German WPI (MoM) (Aug) |  |  | -0.2% |
+| 14:00 | NOK | Low | Trade Balance (Aug) |  |  | 61.3B |
+| 14:45 | EUR | Low | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
+| 14:45 | EUR | Low | CPI NSA (MoM) (Aug) |  |  | 1.00% |
+| 14:45 | EUR | Low | French CPI (YoY) (Sep) |  | 4.8% | 4.3% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 1.0% | 0.1% |
+| 14:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 1.1% | 1.0% |
+| 14:45 | EUR | Low | French HICP (YoY) (Aug) |  | 5.7% | 5.1% |
+| 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 4.20% |
+| 15:10 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 16:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
+| 16:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
+| 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
+| 16:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
+| 16:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
+| 16:30 | GBP | Low | Inflation Expectations |  |  | 3.5% |
+| 17:00 | EUR | Low | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
+| 17:00 | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.73B |
+| 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 17:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  |  | 4.60% |
+| 17:00 | EUR | Low | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
+| 17:00 | EUR | Moderate | Trade Balance (Jul) |  |  | 23.0B |
+| Tentative | ZAR | Low | Business Confidence |  |  | 107.3 |
+| 17:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 18:00 | EUR | Low | Reserve Assets Total (Aug) |  |  | 1,109.69B |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 598.90B |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 1.8% | 1.3% |
+| 20:00 | NZD | Moderate | Annual Budget Release |  |  |  |
+| 20:20 | INR | Low | Exports (USD) |  |  | 32.25B |
+| 20:20 | INR | Low | Imports (USD) |  |  | 52.92B |
+| 20:20 | INR | Low | Trade Balance |  | -21.00B | -20.67B |
+| 20:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | 0.4% | 0.7% |
+| 20:30 | USD | Low | Export Price Index (YoY) |  |  | -7.9% |
+| 20:30 | USD | Low | Import Price Index (YoY) |  |  | -4.4% |
+| 20:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | 0.3% | 0.4% |
+| 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | -10.00 | -19.00 |
+| 20:30 | CAD | Moderate | Foreign Securities Purchases (Jul) |  |  | 12.56B |
+| 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jul) |  |  | 14.44B |
+| 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | 0.7% | -1.7% |
+| 20:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 165.6K |
+| 21:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 79.3% | 79.3% |
+| 21:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | -0.23% |
+| 21:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
+| 21:15 | USD | Low | Manufacturing Production (MoM) (Aug) |  | 0.1% | 0.5% |
+| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
+| 22:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 66.0 | 65.5 |
+| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 69.1 | 69.5 |
+| 22:00 | USD | Low | Michigan Current Conditions (Sep) |  | 75.3 | 75.7 |
+| 22:00 | USD | Moderate | Michigan Inflation Expectations (Sep) |  |  | 3.5% |

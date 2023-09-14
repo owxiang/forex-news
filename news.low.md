@@ -1,39 +1,53 @@
-## 14 September 2023 - Low Impact Forex News
+## 15 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 30-Year Bond Auction | 4.345% |  | 4.189% |
-| 01:30 | BRL | Foreign Exchange Flows | -1.173B | 0.361B | -0.566B |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Jul) | -13.0% | -10.7% | -5.8% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Jul) | -1.1% | -0.9% | 2.7% |
-| 07:50 | JPY | Foreign Bonds Buying | 3,631.9B |  | 90.7B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | -854.7B |  | 532.1B |
-| 09:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.9% |
-| 09:30 | AUD | Participation Rate (Aug) | 67.0% | 66.7% | 66.9% |
-| 10:30 | SGD | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
-| 12:30 | JPY | Capacity Utilization (MoM) (Jul) | -2.2% |  | 3.8% |
-| 14:30 | CHF | PPI (YoY) (Aug) | -0.8% |  | -0.6% |
-| 14:30 | INR | WPI Food (YoY) (Aug) | 10.60% |  | 14.25% |
-| 14:30 | INR | WPI Fuel (YoY) (Aug) | -6.03% |  | -12.79% |
-| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | -2.37% |  | -2.51% |
-| 17:30 | ZAR | Gold Production (YoY) (Jul) | 12.9% |  | 28.5% |
-| 17:30 | ZAR | Mining Production (Jul) | -3.6% | 0.5% | 1.3% |
-| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Sep) | 49.5 |  | 50.2 |
-| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Sep) | 43.80 |  | 45.75 |
-| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Sep) | 44.98 |  | 48.80 |
-| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) | 45.48 |  | 43.82 |
-| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.73 |  | 49.82 |
-| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 46.22 |  | 40.56 |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) | 3.5% |  | 4.0% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) | 0.5% |  | 0.2% |
-| 20:30 | USD | Continuing Jobless Claims | 1,688K | 1,695K | 1,684K |
-| 20:30 | USD | Core PPI (YoY) (Aug) | 2.2% | 2.2% | 2.4% |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 224.50K |  | 229.50K |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) | 3.0% |  | 2.9% |
-| 20:30 | USD | PPI (YoY) (Aug) | 1.6% | 1.2% | 0.8% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.3% |
-| 20:30 | USD | Retail Sales (YoY) (Aug) | 2.47% |  | 2.64% |
-| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) | 0.2% | 0.5% | 0.7% |
-| 22:30 | USD | Natural Gas Storage | 57B | 48B | 33B |
-| 14 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 14 min | USD | 8-Week Bill Auction |  |  | 5.290% |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.290T |
+| 07:55 | KRW | Exports (YoY) (Aug) |  |  | -8.4% |
+| 07:55 | KRW | Imports (YoY) (Aug) |  |  | -22.8% |
+| 07:55 | KRW | Trade Balance (Aug) |  |  | 0.87B |
+| 09:30 | SGD | Trade Balance |  |  | 6.490B |
+| 09:30 | CNY | House Prices (YoY) (Aug) |  |  | -0.1% |
+| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 38.83 |
+| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 59.95 |
+| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 48.06 |
+| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.25 |
+| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 69.97 |
+| 10:00 | CNY | Retail Sales (YoY) (Aug) |  | 3.0% | 2.5% |
+| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 7.33% |
+| 12:00 | IDR | Export Growth (YoY) (Aug) |  | -22.00% | -18.03% |
+| 12:00 | IDR | Import Growth (YoY) (Aug) |  | -9.33% | -8.32% |
+| 12:00 | IDR | Trade Balance (Aug) |  | 1.55B | 1.31B |
+| 12:30 | JPY | Tertiary Industry Activity Index (Jul) |  |  | 3.90 |
+| 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 14:00 | EUR | German WPI (MoM) (Aug) |  |  | -0.2% |
+| 14:00 | NOK | Trade Balance (Aug) |  |  | 61.3B |
+| 14:45 | EUR | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
+| 14:45 | EUR | CPI NSA (MoM) (Aug) |  |  | 1.00% |
+| 14:45 | EUR | French CPI (YoY) (Sep) |  | 4.8% | 4.3% |
+| 14:45 | EUR | French HICP (YoY) (Aug) |  | 5.7% | 5.1% |
+| 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 4.20% |
+| 16:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
+| 16:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
+| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
+| 16:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
+| 16:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
+| 16:30 | GBP | Inflation Expectations |  |  | 3.5% |
+| 17:00 | EUR | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
+| 17:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.73B |
+| 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 17:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
+| Tentative | ZAR | Business Confidence |  |  | 107.3 |
+| 18:00 | EUR | Reserve Assets Total (Aug) |  |  | 1,109.69B |
+| 19:30 | INR | FX Reserves, USD |  |  | 598.90B |
+| 20:20 | INR | Exports (USD) |  |  | 32.25B |
+| 20:20 | INR | Imports (USD) |  |  | 52.92B |
+| 20:20 | INR | Trade Balance |  | -21.00B | -20.67B |
+| 20:30 | USD | Export Price Index (YoY) |  |  | -7.9% |
+| 20:30 | USD | Import Price Index (YoY) |  |  | -4.4% |
+| 20:30 | CAD | Foreign Securities Purchases by Canadians (Jul) |  |  | 14.44B |
+| 20:30 | CAD | Manufacturing Sales (MoM) (Jul) |  | 0.7% | -1.7% |
+| 20:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 165.6K |
+| 21:15 | USD | Capacity Utilization Rate (Aug) |  | 79.3% | 79.3% |
+| 21:15 | USD | Manufacturing Production (MoM) (Aug) |  | 0.1% | 0.5% |
+| 22:00 | USD | Michigan Current Conditions (Sep) |  | 75.3 | 75.7 |
