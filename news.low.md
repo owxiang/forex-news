@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.290T |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.310T |  | 3.290T |
 | 07:55 | KRW | Exports (YoY) (Aug) |  |  | -8.4% |
 | 07:55 | KRW | Imports (YoY) (Aug) |  |  | -22.8% |
 | 07:55 | KRW | Trade Balance (Aug) |  |  | 0.87B |
@@ -30,8 +30,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
 | 16:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
-| 16:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
 | 16:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
+| 16:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
 | 16:30 | GBP | Inflation Expectations |  |  | 3.5% |
 | 17:00 | EUR | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
 | 17:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.73B |

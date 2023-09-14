@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,101B |
-| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.290T |
+| 04:30 | USD | Moderate | Fed's Balance Sheet | 8,099B |  | 8,101B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.310T |  | 3.290T |
 | 06:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 46.3 |
 | 07:55 | KRW | Low | Exports (YoY) (Aug) |  |  | -8.4% |
 | 07:55 | KRW | Low | Imports (YoY) (Aug) |  |  | -22.8% |
@@ -41,8 +41,8 @@
 | 16:00 | EUR | Low | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
-| 16:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
 | 16:00 | EUR | Low | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
+| 16:00 | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
 | 16:30 | GBP | Low | Inflation Expectations |  |  | 3.5% |
 | 17:00 | EUR | Low | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
 | 17:00 | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.73B |
@@ -71,8 +71,8 @@
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | 0.7% | -1.7% |
 | 20:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 165.6K |
 | 21:15 | USD | Low | Capacity Utilization Rate (Aug) |  | 79.3% | 79.3% |
-| 21:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | -0.23% |
 | 21:15 | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
+| 21:15 | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | -0.23% |
 | 21:15 | USD | Low | Manufacturing Production (MoM) (Aug) |  | 0.1% | 0.5% |
 | 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
 | 22:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 66.0 | 65.5 |
