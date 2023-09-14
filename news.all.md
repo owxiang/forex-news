@@ -5,7 +5,7 @@
 | 00:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,099B |  | 8,101B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.310T |  | 3.290T |
-| 06:30 | NZD | Moderate | Business NZ PMI (Aug) |  |  | 46.3 |
+| 16 min | NZD | Moderate | Business NZ PMI (Aug) |  |  | 46.3 |
 | 07:55 | KRW | Low | Exports (YoY) (Aug) |  |  | -8.4% |
 | 07:55 | KRW | Low | Imports (YoY) (Aug) |  |  | -22.8% |
 | 07:55 | KRW | Low | Trade Balance (Aug) |  |  | 0.87B |
