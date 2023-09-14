@@ -33,8 +33,8 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.73 |  | 49.82 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 46.22 |  | 40.56 |
 | 19:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 3.5% |  | 4.0% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.5% |  | 0.2% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 3.5% |  | 4.0% |
 | 20:15 | EUR | High | Deposit Facility Rate (Sep) | 4.00% | 3.75% | 3.75% |
 | 20:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% |  | 4.50% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
@@ -56,9 +56,9 @@
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) | 0.2% | 0.5% | 0.7% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | 0.2% | 1.4% | -2.1% |
 | 20:45 | EUR | High | ECB Press Conference |  |  |  |
-| 40 min | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
-| 40 min | USD | Moderate | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
-| 55 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage |  | 48B | 33B |
+| 22:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.0% | 0.1% | -0.1% |
+| 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.0% |  | 0.1% |
+| 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15 min | USD | Low | Natural Gas Storage |  | 48B | 33B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
