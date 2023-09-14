@@ -22,8 +22,8 @@
 | 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
 | 14:00 | EUR | German WPI (MoM) (Aug) |  |  | -0.2% |
 | 14:00 | NOK | Trade Balance (Aug) |  |  | 61.3B |
-| 14:45 | EUR | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
 | 14:45 | EUR | CPI NSA (MoM) (Aug) |  |  | 1.00% |
+| 14:45 | EUR | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
 | 14:45 | EUR | French CPI (YoY) (Sep) |  | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) |  | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 4.20% |

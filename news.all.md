@@ -30,8 +30,8 @@
 | 14:00 | EUR | Low | German WPI (YoY) (Aug) |  |  | -2.8% |
 | 14:00 | EUR | Low | German WPI (MoM) (Aug) |  |  | -0.2% |
 | 14:00 | NOK | Low | Trade Balance (Aug) |  |  | 61.3B |
-| 14:45 | EUR | Low | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
 | 14:45 | EUR | Low | CPI NSA (MoM) (Aug) |  |  | 1.00% |
+| 14:45 | EUR | Low | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) |  | 4.8% | 4.3% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Aug) |  | 1.0% | 0.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Aug) |  | 1.1% | 1.0% |
@@ -61,8 +61,8 @@
 | 20:20 | INR | Low | Exports (USD) |  |  | 32.25B |
 | 20:20 | INR | Low | Imports (USD) |  |  | 52.92B |
 | 20:20 | INR | Low | Trade Balance |  | -21.00B | -20.67B |
-| 20:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | 0.4% | 0.7% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  |  | -7.9% |
+| 20:30 | USD | Moderate | Export Price Index (MoM) (Aug) |  | 0.4% | 0.7% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  |  | -4.4% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Aug) |  | 0.3% | 0.4% |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | -10.00 | -19.00 |
