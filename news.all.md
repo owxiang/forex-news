@@ -11,13 +11,13 @@
 | 07:50 | JPY | Low | Foreign Bonds Buying | 3,631.9B |  | 90.7B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -854.7B |  | 532.1B |
 | 09:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.9% |
-| Tentative | AUD | Moderate | Employment Change (Aug) | 64.9K | 24.3K | -1.4K |
+| Tentative | AUD | Moderate | Employment Change (Aug) | 64.9K | 23.0K | -1.4K |
 | 09:30 | AUD | Moderate | Full Employment Change (Aug) | 2.8K |  | -18.7K |
 | 09:30 | AUD | Low | Participation Rate (Aug) | 67.0% | 66.7% | 66.9% |
 | 09:30 | AUD | Moderate | Unemployment Rate (Aug) | 3.7% | 3.7% | 3.7% |
 | 10:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
-| 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
-| 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
+| 12 min | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
+| 12 min | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
 | 14:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
 | 14:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 14.25% |
@@ -42,11 +42,11 @@
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 20:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 4.25% | 4.25% |
-| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,693K | 1,679K |
+| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,679K |
 | 20:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
-| 20:30 | USD | High | Initial Jobless Claims |  | 226K | 216K |
+| 20:30 | USD | High | Initial Jobless Claims |  | 225K | 216K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.25K |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
@@ -56,11 +56,11 @@
 | 20:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.5% | 1.0% |
-| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | -2.0% | -2.8% |
+| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | 1.4% | -2.8% |
 | 20:45 | EUR | High | ECB Press Conference |  |  |  |
 | 22:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
 | 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
 | 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage |  |  | 33B |
+| 22:30 | USD | Low | Natural Gas Storage |  | 48B | 33B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |

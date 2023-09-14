@@ -11,7 +11,7 @@
 | 09:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.9% |
 | 09:30 | AUD | Participation Rate (Aug) | 67.0% | 66.7% | 66.9% |
 | 10:30 | SGD | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
-| 12:30 | JPY | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
+| 12 min | JPY | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
 | 14:30 | CHF | PPI (YoY) (Aug) |  |  | -0.6% |
 | 14:30 | INR | WPI Food (YoY) (Aug) |  |  | 14.25% |
 | 14:30 | INR | WPI Fuel (YoY) (Aug) |  |  | -12.79% |
@@ -28,7 +28,7 @@
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,693K | 1,679K |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,679K |
 | 20:30 | USD | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.25K |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
@@ -36,6 +36,6 @@
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
 | 20:30 | USD | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.5% | 1.0% |
-| 22:30 | USD | Natural Gas Storage |  |  | 33B |
+| 22:30 | USD | Natural Gas Storage |  | 48B | 33B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.290% |
