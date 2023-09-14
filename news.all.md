@@ -32,30 +32,30 @@
 | 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Sep) | 45.48 |  | 43.82 |
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.73 |  | 49.82 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 46.22 |  | 40.56 |
-| 2 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 47 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
-| 47 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
-| 20:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.75% | 3.75% |
-| 20:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
+| 19:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.5% |  | 0.2% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 3.5% |  | 4.0% |
+| 20:15 | EUR | High | Deposit Facility Rate (Sep) | 4.00% | 3.75% | 3.75% |
+| 20:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% |  | 4.50% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 20:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 4.25% | 4.25% |
-| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,679K |
+| 20:15 | EUR | High | ECB Interest Rate Decision (Sep) | 4.50% | 4.25% | 4.25% |
+| 20:30 | USD | Low | Continuing Jobless Claims | 1,688K | 1,695K | 1,684K |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
 | 20:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
-| 20:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
-| 20:30 | USD | High | Initial Jobless Claims |  | 225K | 216K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.25K |
+| 20:30 | USD | High | Core Retail Sales (MoM) (Aug) | 0.6% | 0.4% | 0.7% |
+| 20:30 | USD | High | Initial Jobless Claims | 220K | 225K | 217K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 224.50K |  | 229.50K |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
-| 20:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
+| 20:30 | USD | High | PPI (MoM) (Aug) | 0.7% | 0.4% | 0.3% |
 | 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
-| 20:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 1.0% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) | 0.3% |  | 0.2% |
+| 20:30 | USD | Moderate | Retail Control (MoM) (Aug) | 0.1% |  | 0.7% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.17% |
-| 20:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
-| 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.5% | 1.0% |
-| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) |  | 1.4% | -2.8% |
-| 20:45 | EUR | High | ECB Press Conference |  |  |  |
+| 20:30 | USD | High | Retail Sales (MoM) (Aug) | 0.6% | 0.2% | 0.5% |
+| 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Aug) | 0.2% | 0.5% | 0.7% |
+| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Jul) | 0.2% | 1.4% | -2.1% |
+| 15 min | EUR | High | ECB Press Conference |  |  |  |
 | 22:00 | USD | Moderate | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
 | 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
 | 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

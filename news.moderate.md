@@ -10,13 +10,13 @@
 | 12:30 | JPY | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.4% |
 | 14:30 | CHF | PPI (MoM) (Aug) | -0.2% | 0.1% | -0.1% |
 | 14:30 | INR | WPI Inflation (YoY) (Aug) | -0.52% | -0.60% | -1.36% |
-| 2 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
+| 19:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 20:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.50% |
 | 20:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 20:30 | USD | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
-| 20:30 | USD | Retail Control (MoM) (Aug) |  |  | 1.0% |
-| 20:30 | CAD | Wholesale Sales (MoM) (Jul) |  | 1.4% | -2.8% |
+| 20:30 | USD | Retail Control (MoM) (Aug) | 0.1% |  | 0.7% |
+| 20:30 | CAD | Wholesale Sales (MoM) (Jul) | 0.2% | 1.4% | -2.1% |
 | 22:00 | USD | Business Inventories (MoM) (Jul) |  | 0.1% | 0.0% |
 | 22:00 | USD | Retail Inventories Ex Auto (Jul) |  |  | 0.1% |
 | 22:15 | EUR | ECB President Lagarde Speaks |  |  |  |
