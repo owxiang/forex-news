@@ -17,13 +17,13 @@
 | 09:30 | AUD | Moderate | Unemployment Rate (Aug) | 3.7% | 3.7% | 3.7% |
 | 10:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | -2.2% |  | 3.8% |
-| 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.0% |
-| 10 min | CHF | Low | PPI (YoY) (Aug) |  |  | -0.6% |
-| 10 min | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
-| 10 min | INR | Low | WPI Food (YoY) (Aug) |  |  | 14.25% |
-| 10 min | INR | Low | WPI Fuel (YoY) (Aug) |  |  | -12.79% |
-| 10 min | INR | Moderate | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
-| 10 min | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) |  |  | -2.51% |
+| 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.4% |
+| 14:30 | CHF | Low | PPI (YoY) (Aug) | -0.8% |  | -0.6% |
+| 14:30 | CHF | Moderate | PPI (MoM) (Aug) | -0.2% | 0.1% | -0.1% |
+| 14:30 | INR | Low | WPI Food (YoY) (Aug) | 10.60% |  | 14.25% |
+| 14:30 | INR | Low | WPI Fuel (YoY) (Aug) | -6.03% |  | -12.79% |
+| 14:30 | INR | Moderate | WPI Inflation (YoY) (Aug) | -0.52% | -0.60% | -1.36% |
+| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Aug) | -2.37% |  | -2.51% |
 | 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | Tentative | ZAR | Low | Business Confidence |  |  | 107.3 |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Jul) |  |  | 28.5% |
@@ -35,23 +35,23 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
 | 19:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
 | 20:15 | EUR | High | Deposit Facility Rate (Sep) |  | 3.75% | 3.75% |
 | 20:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 20:15 | EUR | High | ECB Interest Rate Decision (Sep) |  | 4.25% | 4.25% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,679K |
-| 20:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Aug) |  | 0.2% | 0.3% |
+| 20:30 | USD | Low | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Aug) |  | 0.4% | 1.0% |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 216K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 229.25K |
+| 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | High | PPI (MoM) (Aug) |  | 0.4% | 0.3% |
-| 20:30 | USD | Low | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Aug) |  |  | 1.0% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | High | Retail Sales (MoM) (Aug) |  | 0.2% | 0.7% |
