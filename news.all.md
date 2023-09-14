@@ -18,8 +18,8 @@
 | 10:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | -2.2% |  | 3.8% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.4% |
-| 14:30 | CHF | Low | PPI (YoY) (Aug) | -0.8% |  | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Aug) | -0.2% | 0.1% | -0.1% |
+| 14:30 | CHF | Low | PPI (YoY) (Aug) | -0.8% |  | -0.6% |
 | 14:30 | INR | Low | WPI Food (YoY) (Aug) | 10.60% |  | 14.25% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Aug) | -6.03% |  | -12.79% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Aug) | -0.52% | -0.60% | -1.36% |
@@ -33,8 +33,8 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 47.73 |  | 49.82 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 46.22 |  | 40.56 |
 | 19:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.5% |  | 0.2% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jul) | 3.5% |  | 4.0% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jul) | 0.5% |  | 0.2% |
 | 20:15 | EUR | High | Deposit Facility Rate (Sep) | 4.00% | 3.75% | 3.75% |
 | 20:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% |  | 4.50% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
@@ -59,6 +59,6 @@
 | 22:00 | USD | Moderate | Business Inventories (MoM) (Jul) | 0.0% | 0.1% | -0.1% |
 | 22:00 | USD | Moderate | Retail Inventories Ex Auto (Jul) | 0.0% |  | 0.1% |
 | 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15 min | USD | Low | Natural Gas Storage |  | 48B | 33B |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
+| 22:30 | USD | Low | Natural Gas Storage | 57B | 48B | 33B |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.290% |
