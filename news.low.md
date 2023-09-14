@@ -16,7 +16,7 @@
 | 14:30 | INR | WPI Food (YoY) (Aug) | 10.60% |  | 14.25% |
 | 14:30 | INR | WPI Fuel (YoY) (Aug) | -6.03% |  | -12.79% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Aug) | -2.37% |  | -2.51% |
-| 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 41 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | Tentative | ZAR | Business Confidence |  |  | 107.3 |
 | 17:30 | ZAR | Gold Production (YoY) (Jul) |  |  | 28.5% |
 | 17:30 | ZAR | Mining Production (Jul) |  | 0.5% | 1.1% |
@@ -26,14 +26,14 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Sep) |  |  | 43.82 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 49.82 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 40.56 |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Jul) |  |  | 4.1% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Jul) |  |  | 0.2% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,679K |
 | 20:30 | USD | Core PPI (YoY) (Aug) |  | 2.2% | 2.4% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 229.25K |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | PPI (YoY) (Aug) |  | 1.2% | 0.8% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Aug) |  |  | 0.2% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Aug) |  |  | 2.7% |
 | 20:30 | USD | Retail Sales (YoY) (Aug) |  |  | 3.17% |
 | 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Aug) |  | 0.5% | 1.0% |
 | 22:30 | USD | Natural Gas Storage |  | 48B | 33B |
