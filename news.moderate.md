@@ -8,8 +8,8 @@
 | 09:30 | AUD | Full Employment Change (Aug) | 2.8K |  | -18.7K |
 | 09:30 | AUD | Unemployment Rate (Aug) | 3.7% | 3.7% | 3.7% |
 | 12:30 | JPY | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.0% |
-| 14:30 | CHF | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
-| 14:30 | INR | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
+| 10 min | CHF | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
+| 10 min | INR | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
 | 19:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
 | 20:15 | EUR | ECB McCaul Speaks |  |  |  |
