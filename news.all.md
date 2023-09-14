@@ -16,8 +16,8 @@
 | 09:30 | AUD | Low | Participation Rate (Aug) | 67.0% | 66.7% | 66.9% |
 | 09:30 | AUD | Moderate | Unemployment Rate (Aug) | 3.7% | 3.7% | 3.7% |
 | 10:30 | SGD | Low | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
-| 12 min | JPY | Low | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
-| 12 min | JPY | Moderate | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
+| 12:30 | JPY | Low | Capacity Utilization (MoM) (Jul) | -2.2% |  | 3.8% |
+| 12:30 | JPY | Moderate | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.0% |
 | 14:30 | CHF | Low | PPI (YoY) (Aug) |  |  | -0.6% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
 | 14:30 | INR | Low | WPI Food (YoY) (Aug) |  |  | 14.25% |

@@ -11,7 +11,7 @@
 | 09:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.9% |
 | 09:30 | AUD | Participation Rate (Aug) | 67.0% | 66.7% | 66.9% |
 | 10:30 | SGD | Unemployment Rate (Q2) | 1.9% | 1.9% | 1.9% |
-| 12 min | JPY | Capacity Utilization (MoM) (Jul) |  |  | 3.8% |
+| 12:30 | JPY | Capacity Utilization (MoM) (Jul) | -2.2% |  | 3.8% |
 | 14:30 | CHF | PPI (YoY) (Aug) |  |  | -0.6% |
 | 14:30 | INR | WPI Food (YoY) (Aug) |  |  | 14.25% |
 | 14:30 | INR | WPI Fuel (YoY) (Aug) |  |  | -12.79% |

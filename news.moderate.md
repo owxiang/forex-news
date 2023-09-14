@@ -7,7 +7,7 @@
 | Tentative | AUD | Employment Change (Aug) | 64.9K | 23.0K | -1.4K |
 | 09:30 | AUD | Full Employment Change (Aug) | 2.8K |  | -18.7K |
 | 09:30 | AUD | Unemployment Rate (Aug) | 3.7% | 3.7% | 3.7% |
-| 12 min | JPY | Industrial Production (MoM) (Jul) |  | -2.0% | -2.0% |
+| 12:30 | JPY | Industrial Production (MoM) (Jul) | -1.8% | -2.0% | -2.0% |
 | 14:30 | CHF | PPI (MoM) (Aug) |  | 0.1% | -0.1% |
 | 14:30 | INR | WPI Inflation (YoY) (Aug) |  | -0.60% | -1.36% |
 | 19:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
