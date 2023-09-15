@@ -4,6 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.310T |  | 3.290T |
 | 09:30 | CNY | House Prices (YoY) (Aug) | -0.1% |  | -0.1% |
+| 10:00 | KRW | Exports (YoY) (Aug) | -8.3% |  | -8.4% |
+| 10:00 | KRW | Imports (YoY) (Aug) | -22.8% |  | -22.8% |
+| 10:00 | KRW | Trade Balance (Aug) | 0.88B |  | 0.87B |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 38.79 |  | 38.83 |
 | 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 62.21 |  | 59.95 |
 | 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) | 49.40 |  | 48.06 |
@@ -12,8 +15,8 @@
 | 10:00 | CNY | Retail Sales (YoY) (Aug) | 4.6% | 3.0% | 2.5% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) | 6.98% |  | 7.33% |
 | 10:00 | IDR | Export Growth (YoY) (Aug) | -21.21% | -22.00% | -18.03% |
-| 12:00 | IDR | Import Growth (YoY) (Aug) | -14.77% | -9.33% | -8.32% |
-| 12:00 | IDR | Trade Balance (Aug) |  | 1.55B | 1.31B |
+| 10:00 | IDR | Import Growth (YoY) (Aug) | -14.77% | -9.33% | -8.32% |
+| 10:00 | IDR | Trade Balance (Aug) | 3.12B | 1.55B | 1.31B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Jul) |  |  | 3.90 |
 | 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
 | 14:00 | EUR | German WPI (MoM) (Aug) |  |  | -0.2% |
@@ -23,8 +26,8 @@
 | 14:45 | EUR | French CPI (YoY) (Sep) |  | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) |  | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 4.20% |
-| 16:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
 | 16:00 | EUR | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
+| 16:00 | EUR | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
 | 16:00 | EUR | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
 | 16:00 | EUR | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
