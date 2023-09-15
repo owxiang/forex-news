@@ -17,9 +17,9 @@
 | 17:00 | EUR | Trade Balance (Jul) | 6.5B |  | 18.5B |
 | 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
-| 20:00 | BRL | Retail Sales (YoY) (Jul) |  | 1.8% | 1.3% |
-| 20:00 | BRL | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
-| 20:00 | NZD | Annual Budget Release |  |  |  |
+| 48 min | BRL | Retail Sales (YoY) (Jul) |  | 1.8% | 1.3% |
+| 48 min | BRL | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
+| 48 min | NZD | Annual Budget Release |  |  |  |
 | 20:30 | USD | Export Price Index (MoM) (Aug) |  | 0.4% | 0.7% |
 | 20:30 | USD | Import Price Index (MoM) (Aug) |  | 0.3% | 0.4% |
 | 20:30 | USD | NY Empire State Manufacturing Index (Sep) |  | -10.00 | -19.00 |
