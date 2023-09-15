@@ -17,15 +17,15 @@
 | 17:00 | EUR | Trade Balance (Jul) | 6.5B |  | 18.5B |
 | 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
-| 48 min | BRL | Retail Sales (YoY) (Jul) |  | 1.8% | 1.3% |
-| 48 min | BRL | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
-| 48 min | NZD | Annual Budget Release |  |  |  |
-| 20:30 | USD | Export Price Index (MoM) (Aug) |  | 0.4% | 0.7% |
-| 20:30 | USD | Import Price Index (MoM) (Aug) |  | 0.3% | 0.4% |
+| 20:00 | BRL | Retail Sales (YoY) (Jul) | 2.4% | 1.8% | 1.4% |
+| 20:00 | BRL | Retail Sales (MoM) (Jul) | 0.7% | 0.3% | 0.1% |
+| 20:00 | NZD | Annual Budget Release |  |  |  |
+| 20:30 | USD | Export Price Index (MoM) (Aug) | 1.3% | 0.4% | 0.5% |
+| 20:30 | USD | Import Price Index (MoM) (Aug) | 0.5% | 0.3% | 0.1% |
 | 20:30 | USD | NY Empire State Manufacturing Index (Sep) |  | -10.00 | -19.00 |
-| 20:30 | CAD | Foreign Securities Purchases (Jul) |  |  | 12.56B |
-| 21:15 | USD | Industrial Production (YoY) (Aug) |  |  | -0.23% |
-| 21:15 | USD | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
+| 20:30 | CAD | Foreign Securities Purchases (Jul) |  | 12.41B | 12.56B |
+| 46 min | USD | Industrial Production (YoY) (Aug) |  |  | -0.23% |
+| 46 min | USD | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
 | 22:00 | USD | Michigan Consumer Expectations (Sep) |  | 66.0 | 65.5 |
 | 22:00 | USD | Michigan Consumer Sentiment (Sep) |  | 69.1 | 69.5 |
