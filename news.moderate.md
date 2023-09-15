@@ -24,8 +24,8 @@
 | 20:30 | USD | Import Price Index (MoM) (Aug) |  | 0.3% | 0.4% |
 | 20:30 | USD | NY Empire State Manufacturing Index (Sep) |  | -10.00 | -19.00 |
 | 20:30 | CAD | Foreign Securities Purchases (Jul) |  |  | 12.56B |
-| 21:15 | USD | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
 | 21:15 | USD | Industrial Production (YoY) (Aug) |  |  | -0.23% |
+| 21:15 | USD | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
 | 22:00 | USD | Michigan Consumer Expectations (Sep) |  | 66.0 | 65.5 |
 | 22:00 | USD | Michigan Consumer Sentiment (Sep) |  | 69.1 | 69.5 |
