@@ -13,10 +13,10 @@
 | 14:45 | EUR | French CPI (MoM) (Aug) | 1.0% | 1.0% | 0.1% |
 | 14:45 | EUR | French HICP (MoM) (Aug) | 1.1% | 1.1% | 1.0% |
 | 15:10 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 41 min | EUR | Wages in euro zone (YoY) (Q2) |  |  | 4.60% |
-| 41 min | EUR | Trade Balance (Jul) |  |  | 23.0B |
-| 17:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | EUR | Eurogroup Meetings |  |  |  |
+| 17:00 | EUR | Wages in euro zone (YoY) (Q2) | 4.60% |  | 4.90% |
+| 17:00 | EUR | Trade Balance (Jul) | 6.5B |  | 18.5B |
+| 30 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 45 min | EUR | Eurogroup Meetings |  |  |  |
 | 20:00 | BRL | Retail Sales (YoY) (Jul) |  | 1.8% | 1.3% |
 | 20:00 | BRL | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
 | 20:00 | NZD | Annual Budget Release |  |  |  |

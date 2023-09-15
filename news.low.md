@@ -19,8 +19,8 @@
 | 10:00 | IDR | Trade Balance (Aug) | 3.12B | 1.55B | 1.29B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Jul) | 0.60 |  | 3.60 |
 | 14:00 | NOK | Trade Balance (Aug) | 61.4B |  | 61.6B |
-| 14:45 | EUR | CPI NSA (MoM) (Aug) | 1.00% |  | 1.00% |
 | 14:45 | EUR | CPI NSA (YoY) (Aug) | 4.90% | 4.80% | 4.30% |
+| 14:45 | EUR | CPI NSA (MoM) (Aug) | 1.00% |  | 1.00% |
 | 14:45 | EUR | French CPI (YoY) (Sep) | 4.9% | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) | 5.7% | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 4.80% |  | 4.20% |
@@ -29,12 +29,12 @@
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 5.2% |  | 5.7% |
 | 16:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.2% | -1.6% |
 | 16:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.5% | 6.3% |
-| 11 min | GBP | Inflation Expectations |  |  | 3.5% |
-| 41 min | EUR | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
-| 41 min | EUR | Italian Trade Balance EU (Jul) |  |  | -1.73B |
-| 41 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 41 min | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
-| 18:00 | EUR | Reserve Assets Total (Aug) |  |  | 1,109.69B |
+| 16:30 | GBP | Inflation Expectations | 3.6% |  | 3.5% |
+| 16:50 | CNY | FDI (Aug) | -5.10% |  | -4.00% |
+| 17:00 | EUR | Italian Trade Balance (Jul) | 6.375B | 6.500B | 3.461B |
+| 17:00 | EUR | Italian Trade Balance EU (Jul) | 1.33B |  | -1.81B |
+| 17:00 | EUR | Labor Cost Index (YoY) (Q2) | 4.50% |  | 5.20% |
+| 45 min | EUR | Reserve Assets Total (Aug) |  |  | 1,109.69B |
 | 19:30 | INR | FX Reserves, USD |  |  | 598.90B |
 | 20:20 | INR | Exports (USD) |  |  | 32.25B |
 | 20:20 | INR | Imports (USD) |  |  | 52.92B |
