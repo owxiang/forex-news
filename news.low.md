@@ -3,18 +3,15 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.310T |  | 3.290T |
-| 40 min | KRW | Exports (YoY) (Aug) |  |  | -8.4% |
-| 40 min | KRW | Imports (YoY) (Aug) |  |  | -22.8% |
-| 40 min | KRW | Trade Balance (Aug) |  |  | 0.87B |
-| 09:30 | SGD | Trade Balance |  |  | 6.490B |
-| 09:30 | CNY | House Prices (YoY) (Aug) |  |  | -0.1% |
-| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 38.83 |
-| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 59.95 |
-| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 48.06 |
-| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.25 |
-| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 69.97 |
-| 10:00 | CNY | Retail Sales (YoY) (Aug) |  | 3.0% | 2.5% |
-| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 7.33% |
+| 22 min | SGD | Trade Balance |  |  | 6.490B |
+| 22 min | CNY | House Prices (YoY) (Aug) |  |  | -0.1% |
+| 52 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 38.83 |
+| 52 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 59.95 |
+| 52 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 48.06 |
+| 52 min | JPY | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.25 |
+| 52 min | CNY | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 69.97 |
+| 52 min | CNY | Retail Sales (YoY) (Aug) |  | 3.0% | 2.5% |
+| 52 min | CNY | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 7.33% |
 | 12:00 | IDR | Export Growth (YoY) (Aug) |  | -22.00% | -18.03% |
 | 12:00 | IDR | Import Growth (YoY) (Aug) |  | -9.33% | -8.32% |
 | 12:00 | IDR | Trade Balance (Aug) |  | 1.55B | 1.31B |

@@ -5,11 +5,11 @@
 | 00:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet | 8,099B |  | 8,101B |
 | 06:30 | NZD | Business NZ PMI (Aug) | 46.1 |  | 46.3 |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Aug) |  | 3.3% | 3.4% |
-| 10:00 | CNY | Industrial Production (YoY) (Aug) |  | 4.0% | 3.7% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Aug) |  | 3.9% | 3.8% |
-| 10:00 | CNY | Chinese Unemployment Rate (Aug) |  | 5.3% | 5.3% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
+| 52 min | CNY | Fixed Asset Investment (YoY) (Aug) |  | 3.3% | 3.4% |
+| 52 min | CNY | Industrial Production (YoY) (Aug) |  | 4.0% | 3.7% |
+| 52 min | CNY | Chinese Industrial Production YTD (YoY) (Aug) |  | 3.9% | 3.8% |
+| 52 min | CNY | Chinese Unemployment Rate (Aug) |  | 5.3% | 5.3% |
+| 52 min | CNY | NBS Press Conference |  |  |  |
 | 14:45 | EUR | French CPI (MoM) (Aug) |  | 1.0% | 0.1% |
 | 14:45 | EUR | French HICP (MoM) (Aug) |  | 1.1% | 1.0% |
 | 15:10 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |

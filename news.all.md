@@ -6,23 +6,20 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,099B |  | 8,101B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.310T |  | 3.290T |
 | 06:30 | NZD | Moderate | Business NZ PMI (Aug) | 46.1 |  | 46.3 |
-| 40 min | KRW | Low | Exports (YoY) (Aug) |  |  | -8.4% |
-| 40 min | KRW | Low | Imports (YoY) (Aug) |  |  | -22.8% |
-| 40 min | KRW | Low | Trade Balance (Aug) |  |  | 0.87B |
-| 09:30 | SGD | Low | Trade Balance |  |  | 6.490B |
-| 09:30 | CNY | Low | House Prices (YoY) (Aug) |  |  | -0.1% |
-| 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 38.83 |
-| 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 59.95 |
-| 10:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 48.06 |
-| 10:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.25 |
-| 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 69.97 |
-| 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Aug) |  | 3.3% | 3.4% |
-| 10:00 | CNY | Moderate | Industrial Production (YoY) (Aug) |  | 4.0% | 3.7% |
-| 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Aug) |  | 3.9% | 3.8% |
-| 10:00 | CNY | Low | Retail Sales (YoY) (Aug) |  | 3.0% | 2.5% |
-| 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 7.33% |
-| 10:00 | CNY | Moderate | Chinese Unemployment Rate (Aug) |  | 5.3% | 5.3% |
-| 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 22 min | SGD | Low | Trade Balance |  |  | 6.490B |
+| 22 min | CNY | Low | House Prices (YoY) (Aug) |  |  | -0.1% |
+| 52 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 38.83 |
+| 52 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 59.95 |
+| 52 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Sep) |  |  | 48.06 |
+| 52 min | JPY | Low | Thomson Reuters IPSOS PCSI (Sep) |  |  | 38.25 |
+| 52 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Sep) |  |  | 69.97 |
+| 52 min | CNY | Moderate | Fixed Asset Investment (YoY) (Aug) |  | 3.3% | 3.4% |
+| 52 min | CNY | Moderate | Industrial Production (YoY) (Aug) |  | 4.0% | 3.7% |
+| 52 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Aug) |  | 3.9% | 3.8% |
+| 52 min | CNY | Low | Retail Sales (YoY) (Aug) |  | 3.0% | 2.5% |
+| 52 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Aug) |  |  | 7.33% |
+| 52 min | CNY | Moderate | Chinese Unemployment Rate (Aug) |  | 5.3% | 5.3% |
+| 52 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 12:00 | IDR | Low | Export Growth (YoY) (Aug) |  | -22.00% | -18.03% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Aug) |  | -9.33% | -8.32% |
 | 12:00 | IDR | Low | Trade Balance (Aug) |  | 1.55B | 1.31B |
