@@ -24,16 +24,16 @@
 | 14:45 | EUR | French CPI (YoY) (Sep) | 4.9% | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) | 5.7% | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 4.80% |  | 4.20% |
-| 46 min | EUR | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
-| 46 min | EUR | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
-| 46 min | EUR | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
-| 46 min | EUR | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
-| 46 min | EUR | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
-| 16:30 | GBP | Inflation Expectations |  |  | 3.5% |
-| 17:00 | EUR | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
-| 17:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.73B |
-| 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
+| 16:00 | EUR | Italian CPI (MoM) (Aug) | 0.3% | 0.4% | 0.0% |
+| 16:00 | EUR | Italian CPI (YoY) (Aug) | 5.4% | 5.5% | 5.9% |
+| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 5.2% |  | 5.7% |
+| 16:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.2% | -1.6% |
+| 16:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.5% | 6.3% |
+| 11 min | GBP | Inflation Expectations |  |  | 3.5% |
+| 41 min | EUR | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
+| 41 min | EUR | Italian Trade Balance EU (Jul) |  |  | -1.73B |
+| 41 min | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 41 min | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
 | 18:00 | EUR | Reserve Assets Total (Aug) |  |  | 1,109.69B |
 | 19:30 | INR | FX Reserves, USD |  |  | 598.90B |
 | 20:20 | INR | Exports (USD) |  |  | 32.25B |

@@ -29,30 +29,30 @@
 | 14:00 | NOK | Low | Trade Balance (Aug) | 61.4B |  | 61.6B |
 | 14:45 | EUR | Low | CPI NSA (MoM) (Aug) | 1.00% |  | 1.00% |
 | 14:45 | EUR | Low | CPI NSA (YoY) (Aug) | 4.90% | 4.80% | 4.30% |
-| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 1.0% | 0.1% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) | 4.9% | 4.8% | 4.3% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 1.0% | 0.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Aug) | 1.1% | 1.1% | 1.0% |
 | 14:45 | EUR | Low | French HICP (YoY) (Aug) | 5.7% | 5.7% | 5.1% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 4.80% |  | 4.20% |
 | 15:10 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 46 min | EUR | Low | Italian CPI (YoY) (Aug) |  | 5.5% | 5.9% |
-| 46 min | EUR | Low | Italian CPI (MoM) (Aug) |  | 0.4% | 0.0% |
-| 46 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) |  |  | 5.7% |
-| 46 min | EUR | Low | Italian HICP (MoM) (Aug) |  | 0.2% | -1.6% |
-| 46 min | EUR | Low | Italian HICP (YoY) (Aug) |  | 5.5% | 6.3% |
-| 16:30 | GBP | Low | Inflation Expectations |  |  | 3.5% |
-| 17:00 | EUR | Low | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
-| 17:00 | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.73B |
-| 17:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 17:00 | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  |  | 4.60% |
-| 17:00 | EUR | Low | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
-| 17:00 | EUR | Moderate | Trade Balance (Jul) |  |  | 23.0B |
+| 16:00 | EUR | Low | Italian CPI (MoM) (Aug) | 0.3% | 0.4% | 0.0% |
+| 16:00 | EUR | Low | Italian CPI (YoY) (Aug) | 5.4% | 5.5% | 5.9% |
+| 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Aug) | 5.2% |  | 5.7% |
+| 16:00 | EUR | Low | Italian HICP (MoM) (Aug) | 0.2% | 0.2% | -1.6% |
+| 16:00 | EUR | Low | Italian HICP (YoY) (Aug) | 5.5% | 5.5% | 6.3% |
+| 11 min | GBP | Low | Inflation Expectations |  |  | 3.5% |
+| 41 min | EUR | Low | Italian Trade Balance (Jul) |  | 6.500B | 7.718B |
+| 41 min | EUR | Low | Italian Trade Balance EU (Jul) |  |  | -1.73B |
+| 41 min | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 41 min | EUR | Moderate | Wages in euro zone (YoY) (Q2) |  |  | 4.60% |
+| 41 min | EUR | Low | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
+| 41 min | EUR | Moderate | Trade Balance (Jul) |  |  | 23.0B |
 | 17:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 18:00 | EUR | Low | Reserve Assets Total (Aug) |  |  | 1,109.69B |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 598.90B |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Jul) |  | 1.8% | 1.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Jul) |  | 0.3% | 0.0% |
 | 20:00 | NZD | Moderate | Annual Budget Release |  |  |  |
 | 20:20 | INR | Low | Exports (USD) |  |  | 32.25B |
 | 20:20 | INR | Low | Imports (USD) |  |  | 52.92B |
