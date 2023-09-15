@@ -24,8 +24,8 @@
 | 14:45 | EUR | French CPI (YoY) (Sep) | 4.9% | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) | 5.7% | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 4.80% |  | 4.20% |
-| 16:00 | EUR | Italian CPI (YoY) (Aug) | 5.4% | 5.5% | 5.9% |
 | 16:00 | EUR | Italian CPI (MoM) (Aug) | 0.3% | 0.4% | 0.0% |
+| 16:00 | EUR | Italian CPI (YoY) (Aug) | 5.4% | 5.5% | 5.9% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 5.2% |  | 5.7% |
 | 16:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.2% | -1.6% |
 | 16:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.5% | 6.3% |
