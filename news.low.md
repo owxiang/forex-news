@@ -19,13 +19,13 @@
 | 10:00 | IDR | Trade Balance (Aug) | 3.12B | 1.55B | 1.29B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Jul) | 0.60 |  | 3.60 |
 | 14:00 | NOK | Trade Balance (Aug) | 61.4B |  | 61.6B |
-| 14:45 | EUR | CPI NSA (YoY) (Aug) | 4.90% | 4.80% | 4.30% |
 | 14:45 | EUR | CPI NSA (MoM) (Aug) | 1.00% |  | 1.00% |
+| 14:45 | EUR | CPI NSA (YoY) (Aug) | 4.90% | 4.80% | 4.30% |
 | 14:45 | EUR | French CPI (YoY) (Sep) | 4.9% | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) | 5.7% | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) | 4.80% |  | 4.20% |
-| 16:00 | EUR | Italian CPI (MoM) (Aug) | 0.3% | 0.4% | 0.0% |
 | 16:00 | EUR | Italian CPI (YoY) (Aug) | 5.4% | 5.5% | 5.9% |
+| 16:00 | EUR | Italian CPI (MoM) (Aug) | 0.3% | 0.4% | 0.0% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Aug) | 5.2% |  | 5.7% |
 | 16:00 | EUR | Italian HICP (MoM) (Aug) | 0.2% | 0.2% | -1.6% |
 | 16:00 | EUR | Italian HICP (YoY) (Aug) | 5.5% | 5.5% | 6.3% |
@@ -40,11 +40,11 @@
 | 18:00 | EUR | Reserve Assets Total (Aug) | 1,118.77B |  | 1,109.69B |
 | 19:00 | EUR | ECOFIN Meetings |  |  |  |
 | 19:30 | INR | FX Reserves, USD | 593.90B |  | 598.90B |
-| 20:30 | USD | Export Price Index (YoY) | -5.5% |  | -7.9% |
-| 20:30 | USD | Import Price Index (YoY) | -3.0% |  | -4.4% |
+| 20:30 | USD | Export Price Index (YoY) | -5.5% | -6.8% | -7.9% |
+| 20:30 | USD | Import Price Index (YoY) | -3.0% | -2.9% | -4.4% |
 | 20:30 | CAD | Foreign Securities Purchases by Canadians (Jul) | 2.61B |  | 14.44B |
 | 20:30 | CAD | Manufacturing Sales (MoM) (Jul) | 1.6% | 0.7% | -2.0% |
 | 20:30 | CAD | New Motor Vehicle Sales (MoM) | 147.4K |  | 168.6K |
 | 21:15 | USD | Capacity Utilization Rate (Aug) | 79.7% | 79.3% | 79.5% |
 | 21:15 | USD | Manufacturing Production (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
-| 41 min | USD | Michigan Current Conditions (Sep) |  | 75.3 | 75.7 |
+| 22:00 | USD | Michigan Current Conditions (Sep) | 69.8 | 75.3 | 75.7 |
