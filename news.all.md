@@ -27,10 +27,10 @@
 | 10:00 | IDR | Low | Trade Balance (Aug) | 3.12B | 1.55B | 1.29B |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Jul) | 0.60 |  | 3.60 |
 | 14:00 | NOK | Low | Trade Balance (Aug) | 61.4B |  | 61.6B |
-| 14:45 | EUR | Low | CPI NSA (MoM) (Aug) | 1.00% |  | 1.00% |
 | 14:45 | EUR | Low | CPI NSA (YoY) (Aug) | 4.90% | 4.80% | 4.30% |
-| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 1.0% | 0.1% |
+| 14:45 | EUR | Low | CPI NSA (MoM) (Aug) | 1.00% |  | 1.00% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) | 4.9% | 4.8% | 4.3% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Aug) | 1.0% | 1.0% | 0.1% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Aug) | 1.1% | 1.1% | 1.0% |
 | 14:45 | EUR | Low | French HICP (YoY) (Aug) | 5.7% | 5.7% | 5.1% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Aug) | 4.80% |  | 4.20% |
@@ -58,21 +58,21 @@
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Jul) | 2.4% | 1.8% | 1.4% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Jul) | 0.7% | 0.3% | 0.1% |
 | 20:00 | NZD | Moderate | Annual Budget Release |  |  |  |
-| 20:30 | USD | Low | Export Price Index (YoY) |  |  | -7.9% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Aug) | 1.3% | 0.4% | 0.5% |
+| 20:30 | USD | Low | Export Price Index (YoY) | -5.5% |  | -7.9% |
+| 20:30 | USD | Low | Import Price Index (YoY) | -3.0% |  | -4.4% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Aug) | 0.5% | 0.3% | 0.1% |
-| 20:30 | USD | Low | Import Price Index (YoY) |  |  | -4.4% |
-| 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) |  | -10.00 | -19.00 |
-| 20:30 | CAD | Moderate | Foreign Securities Purchases (Jul) |  | 12.41B | 12.56B |
-| 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jul) |  |  | 14.44B |
-| 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) |  | 0.7% | -1.7% |
-| 20:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 165.6K |
-| 46 min | USD | Low | Capacity Utilization Rate (Aug) |  | 79.3% | 79.3% |
-| 46 min | USD | Moderate | Industrial Production (YoY) (Aug) |  |  | -0.23% |
-| 46 min | USD | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | 1.0% |
-| 46 min | USD | Low | Manufacturing Production (MoM) (Aug) |  | 0.1% | 0.5% |
-| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
-| 22:00 | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 66.0 | 65.5 |
-| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 69.1 | 69.5 |
-| 22:00 | USD | Low | Michigan Current Conditions (Sep) |  | 75.3 | 75.7 |
-| 22:00 | USD | Moderate | Michigan Inflation Expectations (Sep) |  |  | 3.5% |
+| 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Sep) | 1.90 | -10.00 | -19.00 |
+| 20:30 | CAD | Moderate | Foreign Securities Purchases (Jul) | 11.62B | 12.41B | 12.61B |
+| 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jul) | 2.61B |  | 14.44B |
+| 20:30 | CAD | Low | Manufacturing Sales (MoM) (Jul) | 1.6% | 0.7% | -2.0% |
+| 20:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 147.4K |  | 168.6K |
+| 21:15 | USD | Low | Capacity Utilization Rate (Aug) | 79.7% | 79.3% | 79.5% |
+| 21:15 | USD | Moderate | Industrial Production (YoY) (Aug) | 0.25% |  | -0.04% |
+| 21:15 | USD | Moderate | Industrial Production (MoM) (Aug) | 0.4% | 0.1% | 0.7% |
+| 21:15 | USD | Low | Manufacturing Production (MoM) (Aug) | 0.1% | 0.1% | 0.4% |
+| 41 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  |  | 3.0% |
+| 41 min | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 66.0 | 65.5 |
+| 41 min | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 69.1 | 69.5 |
+| 41 min | USD | Low | Michigan Current Conditions (Sep) |  | 75.3 | 75.7 |
+| 41 min | USD | Moderate | Michigan Inflation Expectations (Sep) |  |  | 3.5% |
