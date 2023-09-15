@@ -17,12 +17,12 @@
 | 10:00 | IDR | Export Growth (YoY) (Aug) | -21.21% | -22.00% | -18.10% |
 | 10:00 | IDR | Import Growth (YoY) (Aug) | -14.77% | -9.33% | -8.32% |
 | 10:00 | IDR | Trade Balance (Aug) | 3.12B | 1.55B | 1.29B |
-| 11 min | JPY | Tertiary Industry Activity Index (Jul) |  |  | 3.90 |
-| 14:00 | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
-| 14:00 | EUR | German WPI (MoM) (Aug) |  |  | -0.2% |
-| 14:00 | NOK | Trade Balance (Aug) |  |  | 61.3B |
-| 14:45 | EUR | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
+| 12:30 | JPY | Tertiary Industry Activity Index (Jul) | 0.60 |  | 3.60 |
+| 46 min | EUR | German WPI (YoY) (Aug) |  |  | -2.8% |
+| 46 min | EUR | German WPI (MoM) (Aug) |  |  | -0.2% |
+| 46 min | NOK | Trade Balance (Aug) |  |  | 61.3B |
 | 14:45 | EUR | CPI NSA (MoM) (Aug) |  |  | 1.00% |
+| 14:45 | EUR | CPI NSA (YoY) (Aug) |  | 4.80% | 4.30% |
 | 14:45 | EUR | French CPI (YoY) (Sep) |  | 4.8% | 4.3% |
 | 14:45 | EUR | French HICP (YoY) (Aug) |  | 5.7% | 5.1% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Aug) |  |  | 4.20% |
@@ -36,7 +36,6 @@
 | 17:00 | EUR | Italian Trade Balance EU (Jul) |  |  | -1.73B |
 | 17:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 17:00 | EUR | Labor Cost Index (YoY) (Q2) |  |  | 5.00% |
-| Tentative | ZAR | Business Confidence |  |  | 107.3 |
 | 18:00 | EUR | Reserve Assets Total (Aug) |  |  | 1,109.69B |
 | 19:30 | INR | FX Reserves, USD |  |  | 598.90B |
 | 20:20 | INR | Exports (USD) |  |  | 32.25B |
