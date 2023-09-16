@@ -24,4 +24,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -98.7K |  | -97.1K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -14.6K |  | -14.0K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 113.1K |  | 136.2K |
-| 46 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 19:00 | EUR | Low | ECOFIN Meetings |  |  |  |

@@ -13,4 +13,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 66.9K |  | 67.5K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -9.3K |  | -5.3K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -14.6K |  | -14.0K |
-| 46 min | EUR | ECOFIN Meetings |  |  |  |
+| 19:00 | EUR | ECOFIN Meetings |  |  |  |
