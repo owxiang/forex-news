@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:30 | NZD | Performance of Services Index |  |  | 47.8 |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Aug) |  | 5.60% | -3.40% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Aug) |  | -15.80% | -20.20% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Aug) |  | 5.60% | -3.40% |
 | 08:30 | SGD | Trade Balance |  | 5.787B | 6.490B |
 | 11:00 | NZD | RBNZ Offshore Holdings (Aug) |  |  | 58.30% |
 | 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.607% |
