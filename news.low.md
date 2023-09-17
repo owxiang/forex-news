@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:09 | GBP | Rightmove House Price Index (YoY) (Sep) |  |  | -0.1% |
+| 57 min | GBP | Rightmove House Price Index (YoY) (Sep) |  |  | -0.1% |
