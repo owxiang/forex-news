@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 17 min | NZD | Low | Performance of Services Index |  |  | 47.8 |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | -15.80% | -20.20% |
+| 06:30 | NZD | Low | Performance of Services Index | 47.1 |  | 47.8 |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) |  | 5.60% | -3.40% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) |  | -15.80% | -20.20% |
 | 08:30 | SGD | Low | Trade Balance |  | 5.787B | 6.490B |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Aug) |  |  | 58.30% |
 | 17:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -18,8 +18,8 @@
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
 | 20:15 | CAD | Moderate | Housing Starts (Aug) |  | 245.3K | 255.0K |
-| 20:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 20:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | -2.7% |
+| 20:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 20:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | -11.1% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 3.8% | 3.5% |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |

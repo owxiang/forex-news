@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | NZD | Performance of Services Index |  |  | 47.8 |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Aug) |  | -15.80% | -20.20% |
+| 06:30 | NZD | Performance of Services Index | 47.1 |  | 47.8 |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Aug) |  | 5.60% | -3.40% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Aug) |  | -15.80% | -20.20% |
 | 08:30 | SGD | Trade Balance |  | 5.787B | 6.490B |
 | 11:00 | NZD | RBNZ Offshore Holdings (Aug) |  |  | 58.30% |
 | 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.607% |
@@ -16,8 +16,8 @@
 | 20:00 | MXN | Private Spending (YoY) (Q2) |  |  | 4.80% |
 | 20:00 | MXN | Private Spending (QoQ) (Q2) |  |  | 2.20% |
 | 20:00 | BRL | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
-| 20:30 | CAD | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 20:30 | CAD | IPPI (YoY) (Aug) |  |  | -2.7% |
+| 20:30 | CAD | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 20:30 | CAD | RMPI (YoY) (Aug) |  |  | -11.1% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.646% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.696% |
