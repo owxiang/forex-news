@@ -10,9 +10,9 @@
 | 09:30 | SGD | Low | Trade Balance | 3.584B | 5.787B | 6.509B |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 58.60% |  | 58.30% |
 | 17:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 14 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.607% |
-| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | -0.1% |
+| 17:30 | EUR | Low | German 12-Month Bubill Auction | 3.730% |  | 3.607% |
+| 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 43 min | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | -0.1% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
 | 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
@@ -20,8 +20,8 @@
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
 | 20:15 | CAD | Moderate | Housing Starts (Aug) |  | 245.3K | 255.0K |
-| 20:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | -2.7% |
 | 20:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
+| 20:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | -2.7% |
 | 20:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | -11.1% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 3.8% | 3.5% |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
