@@ -13,10 +13,10 @@
 | 18:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) |  |  | -0.1% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
 | 20:00 | MXN | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
-| 20:00 | MXN | Private Spending (QoQ) (Q2) |  |  | 2.20% |
+| 20:00 | MXN | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
 | 20:00 | MXN | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 20:00 | MXN | Private Spending (QoQ) (Q2) |  |  | 2.20% |
 | 20:00 | BRL | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
 | 20:30 | CAD | IPPI (YoY) (Aug) |  |  | -2.7% |
 | 20:30 | CAD | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
