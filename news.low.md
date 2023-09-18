@@ -17,8 +17,8 @@
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.2% | 6.6% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | 0.0% |
 | Tentative | ZAR | Business Confidence |  |  | 107.3 |
-| 20:00 | BRL | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
 | 20:00 | BRL | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
+| 20:00 | BRL | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
 | 20:00 | USD | Milk Auctions |  |  | 2,888.0 |
 | 20:30 | CAD | Common CPI (YoY) (Aug) |  | 4.8% | 4.8% |
 | 20:30 | CAD | CPI (YoY) (Aug) |  | 3.8% | 3.3% |
