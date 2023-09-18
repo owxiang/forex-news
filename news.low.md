@@ -12,18 +12,17 @@
 | 17:30 | EUR | German 12-Month Bubill Auction | 3.730% |  | 3.607% |
 | 18:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | -0.1% |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 47 min | MXN | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
-| 47 min | MXN | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
-| 47 min | MXN | Private Spending (YoY) (Q2) |  |  | 4.80% |
-| 47 min | MXN | Private Spending (QoQ) (Q2) |  |  | 2.20% |
-| 47 min | BRL | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
-| 20:30 | CAD | IPPI (YoY) (Aug) |  |  | -2.7% |
-| 20:30 | CAD | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
-| 20:30 | CAD | RMPI (YoY) (Aug) |  |  | -11.1% |
-| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.646% |
-| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.696% |
-| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.684% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Aggregate Demand (YoY) (Q2) | 4.80% |  | 5.40% |
+| 20:00 | MXN | Aggregate Demand (QoQ) (Q2) | 1.30% |  | 1.80% |
+| 20:00 | MXN | Private Spending (YoY) (Q2) | 4.30% |  | 4.80% |
+| 20:00 | MXN | Private Spending (QoQ) (Q2) | 1.00% |  | 2.20% |
+| 20:30 | CAD | IPPI (MoM) (Aug) | 1.3% | 0.5% | -0.1% |
+| 20:30 | CAD | IPPI (YoY) (Aug) | -0.5% |  | -3.2% |
+| 20:30 | CAD | RMPI (YoY) (Aug) | -4.3% |  | -11.0% |
+| 24 min | EUR | French 12-Month BTF Auction |  |  | 3.646% |
+| 24 min | EUR | French 3-Month BTF Auction |  |  | 3.696% |
+| 24 min | EUR | French 6-Month BTF Auction |  |  | 3.684% |
 | 22:00 | USD | NAHB Housing Market Index (Sep) |  | 50 | 50 |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.315% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.300% |

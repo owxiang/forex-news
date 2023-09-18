@@ -13,21 +13,20 @@
 | 17:30 | EUR | Low | German 12-Month Bubill Auction | 3.730% |  | 3.607% |
 | 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | -0.1% |
-| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 47 min | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
-| 47 min | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
-| 47 min | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
-| 47 min | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
-| 47 min | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
-| 20:15 | CAD | Moderate | Housing Starts (Aug) |  | 245.3K | 255.0K |
-| 20:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | -2.7% |
-| 20:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
-| 20:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | -11.1% |
-| 20:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 3.8% | 3.5% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) | 4.80% |  | 5.40% |
+| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.30% |  | 1.80% |
+| 20:00 | MXN | Low | Private Spending (YoY) (Q2) | 4.30% |  | 4.80% |
+| 20:00 | MXN | Low | Private Spending (QoQ) (Q2) | 1.00% |  | 2.20% |
+| 20:15 | CAD | Moderate | Housing Starts (Aug) | 252.8K | 245.3K | 255.2K |
+| 20:30 | CAD | Low | IPPI (MoM) (Aug) | 1.3% | 0.5% | -0.1% |
+| 20:30 | CAD | Low | IPPI (YoY) (Aug) | -0.5% |  | -3.2% |
+| 20:30 | CAD | Low | RMPI (YoY) (Aug) | -4.3% |  | -11.0% |
+| 20:30 | CAD | Moderate | RMPI (MoM) (Aug) | 3.0% | 3.8% | 3.5% |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.646% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.696% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.684% |
+| 24 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.646% |
+| 24 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.696% |
+| 24 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.684% |
 | 22:00 | USD | Low | NAHB Housing Market Index (Sep) |  | 50 | 50 |
 | 23:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.315% |
