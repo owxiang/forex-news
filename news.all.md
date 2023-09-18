@@ -1,33 +1,43 @@
-## 18 September 2023 - All Forex News
+## 19 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:30 | NZD | Low | Performance of Services Index | 47.1 |  | 47.8 |
-| 07:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.4% |  | -1.9% |
-| 07:01 | GBP | Low | Rightmove House Price Index (YoY) (Sep) | -0.4% |  | -0.1% |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) | -3.80% | 5.50% | -3.50% |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | -20.10% | -15.80% | -20.30% |
-| 09:30 | SGD | Low | Trade Balance | 3.584B | 5.787B | 6.509B |
-| 11:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 58.60% |  | 58.30% |
-| 17:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:30 | EUR | Low | German 12-Month Bubill Auction | 3.730% |  | 3.607% |
-| 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | -0.1% |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.30% |  | 1.80% |
-| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) | 4.80% |  | 5.40% |
-| 20:00 | MXN | Low | Private Spending (QoQ) (Q2) | 1.00% |  | 2.20% |
-| 20:00 | MXN | Low | Private Spending (YoY) (Q2) | 4.30% |  | 4.80% |
-| 20:15 | CAD | Moderate | Housing Starts (Aug) | 252.8K | 245.3K | 255.2K |
-| 20:30 | CAD | Low | IPPI (YoY) (Aug) | -0.5% |  | -3.2% |
-| 20:30 | CAD | Low | IPPI (MoM) (Aug) | 1.3% | 0.5% | -0.1% |
-| 20:30 | CAD | Moderate | RMPI (MoM) (Aug) | 3.0% | 3.8% | 3.5% |
-| 20:30 | CAD | Low | RMPI (YoY) (Aug) | -4.3% |  | -11.0% |
-| 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.773% |  | 3.646% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.830% |  | 3.696% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.828% |  | 3.684% |
-| 22:00 | USD | Low | NAHB Housing Market Index (Sep) | 45 | 50 | 50 |
-| 23:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.315% |
-| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.300% |
+| 04:00 | USD | Low | US Foreign Buying, T-bonds (Jul) |  |  | 66.40B |
+| 04:00 | USD | Low | Overall Net Capital Flow (Jul) |  |  | 147.80B |
+| 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Jul) |  | 116.5B | 195.9B |
+| 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jul) |  |  | 195.90B |
+| 05:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 14:00 | CHF | Low | Trade Balance (Aug) |  | 4.230B | 3.129B |
+| 16:00 | EUR | Low | Current Account (Jul) |  | 30.2B | 35.8B |
+| 16:00 | EUR | Low | Current Account n.s.a. (Jul) |  |  | 36.8B |
+| 16:30 | HKD | Low | Unemployment Rate (Aug) |  |  | 2.8% |
+| 17:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.484% |
+| 17:00 | EUR | Low | Core CPI (MoM) (Aug) |  | 0.3% | -0.1% |
+| 17:00 | EUR | Moderate | Core CPI (YoY) (Aug) |  | 5.3% | 5.5% |
+| 17:00 | EUR | Moderate | CPI (MoM) (Aug) |  | 0.6% | -0.1% |
+| 17:00 | EUR | High | CPI (YoY) (Aug) |  | 5.3% | 5.3% |
+| 17:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) |  |  | 5.3% |
+| 17:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) |  | 0.6% | -0.1% |
+| 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) |  | 6.2% | 6.6% |
+| 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | 0.0% |
+| Tentative | ZAR | Low | Business Confidence |  |  | 107.3 |
+| 20:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
+| 20:00 | USD | Low | Milk Auctions |  |  | 2,888.0 |
+| 20:20 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 20:30 | USD | High | Building Permits (Aug) |  | 1.440M | 1.443M |
+| 20:30 | USD | Moderate | Building Permits (MoM) (Aug) |  |  | 0.1% |
+| 20:30 | USD | Moderate | Housing Starts (Aug) |  | 1.440M | 1.452M |
+| 20:30 | USD | Moderate | Housing Starts (MoM) (Aug) |  |  | 3.9% |
+| 20:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 4.8% | 4.8% |
+| 20:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 3.2% |
+| 20:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.5% |
+| 20:30 | CAD | Low | CPI (YoY) (Aug) |  | 3.8% | 3.3% |
+| 20:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.2% | 0.6% |
+| 20:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 3.7% | 3.7% |
+| 20:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 3.5% | 3.6% |
+| 20:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.7% |

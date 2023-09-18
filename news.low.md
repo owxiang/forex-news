@@ -1,28 +1,28 @@
-## 18 September 2023 - Low Impact Forex News
+## 19 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:30 | NZD | Performance of Services Index | 47.1 |  | 47.8 |
-| 07:01 | GBP | Rightmove House Price Index (MoM) | 0.4% |  | -1.9% |
-| 07:01 | GBP | Rightmove House Price Index (YoY) (Sep) | -0.4% |  | -0.1% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Aug) | -3.80% | 5.50% | -3.50% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Aug) | -20.10% | -15.80% | -20.30% |
-| 09:30 | SGD | Trade Balance | 3.584B | 5.787B | 6.509B |
-| 11:00 | NZD | RBNZ Offshore Holdings (Aug) | 58.60% |  | 58.30% |
-| 17:30 | EUR | German 12-Month Bubill Auction | 3.730% |  | 3.607% |
-| 18:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | -0.1% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Aggregate Demand (QoQ) (Q2) | 1.30% |  | 1.80% |
-| 20:00 | MXN | Aggregate Demand (YoY) (Q2) | 4.80% |  | 5.40% |
-| 20:00 | MXN | Private Spending (QoQ) (Q2) | 1.00% |  | 2.20% |
-| 20:00 | MXN | Private Spending (YoY) (Q2) | 4.30% |  | 4.80% |
-| 20:30 | CAD | IPPI (YoY) (Aug) | -0.5% |  | -3.2% |
-| 20:30 | CAD | IPPI (MoM) (Aug) | 1.3% | 0.5% | -0.1% |
-| 20:30 | CAD | RMPI (YoY) (Aug) | -4.3% |  | -11.0% |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.773% |  | 3.646% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.830% |  | 3.696% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.828% |  | 3.684% |
-| 22:00 | USD | NAHB Housing Market Index (Sep) | 45 | 50 | 50 |
-| 14 min | USD | 3-Month Bill Auction |  |  | 5.315% |
-| 14 min | USD | 6-Month Bill Auction |  |  | 5.300% |
+| 04:00 | USD | US Foreign Buying, T-bonds (Jul) |  |  | 66.40B |
+| 04:00 | USD | Overall Net Capital Flow (Jul) |  |  | 147.80B |
+| 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) |  |  | 195.90B |
+| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 14:00 | CHF | Trade Balance (Aug) |  | 4.230B | 3.129B |
+| 16:00 | EUR | Current Account (Jul) |  | 30.2B | 35.8B |
+| 16:00 | EUR | Current Account n.s.a. (Jul) |  |  | 36.8B |
+| 16:30 | HKD | Unemployment Rate (Aug) |  |  | 2.8% |
+| 17:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.484% |
+| 17:00 | EUR | Core CPI (MoM) (Aug) |  | 0.3% | -0.1% |
+| 17:00 | EUR | CPI ex Tobacco (YoY) (Aug) |  |  | 5.3% |
+| 17:00 | EUR | CPI ex Tobacco (MoM) (Aug) |  | 0.6% | -0.1% |
+| 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) |  | 6.2% | 6.6% |
+| 17:00 | EUR | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | 0.0% |
+| Tentative | ZAR | Business Confidence |  |  | 107.3 |
+| 20:00 | BRL | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
+| 20:00 | BRL | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
+| 20:00 | USD | Milk Auctions |  |  | 2,888.0 |
+| 20:30 | CAD | Common CPI (YoY) (Aug) |  | 4.8% | 4.8% |
+| 20:30 | CAD | CPI (YoY) (Aug) |  | 3.8% | 3.3% |
+| 20:30 | CAD | Median CPI (YoY) (Aug) |  | 3.7% | 3.7% |
+| 20:30 | CAD | Trimmed CPI (YoY) (Aug) |  | 3.5% | 3.6% |
+| 20:55 | USD | Redbook (YoY) |  |  | 4.6% |
+| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.7% |
