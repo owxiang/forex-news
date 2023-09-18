@@ -6,4 +6,4 @@
 | 20:15 | CAD | Housing Starts (Aug) | 252.8K | 245.3K | 255.2K |
 | 20:30 | CAD | RMPI (MoM) (Aug) | 3.0% | 3.8% | 3.5% |
 | 20:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 45 min | EUR | ECB's Panetta Speaks |  |  |  |
+| 23:00 | EUR | ECB's Panetta Speaks |  |  |  |
