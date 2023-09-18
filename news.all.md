@@ -14,8 +14,8 @@
 | 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) | 0.2% |  | -0.1% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.30% |  | 1.80% |
 | 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) | 4.80% |  | 5.40% |
+| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) | 1.30% |  | 1.80% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q2) | 1.00% |  | 2.20% |
 | 20:00 | MXN | Low | Private Spending (YoY) (Q2) | 4.30% |  | 4.80% |
 | 20:15 | CAD | Moderate | Housing Starts (Aug) | 252.8K | 245.3K | 255.2K |
@@ -27,7 +27,7 @@
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.773% |  | 3.646% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.830% |  | 3.696% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.828% |  | 3.684% |
-| 42 min | USD | Low | NAHB Housing Market Index (Sep) |  | 50 | 50 |
-| 23:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
+| 22:00 | USD | Low | NAHB Housing Market Index (Sep) | 45 | 50 | 50 |
+| 45 min | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.315% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.300% |
