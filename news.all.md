@@ -3,8 +3,9 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:30 | NZD | Low | Performance of Services Index | 47.1 |  | 47.8 |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) | -3.80% | 5.60% | -3.50% |
+| 07:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.4% |  | -1.9% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Aug) | -20.10% | -15.80% | -20.30% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Aug) | -3.80% | 5.50% | -3.50% |
 | 09:30 | SGD | Low | Trade Balance | 3.584B | 5.787B | 6.509B |
 | 11:00 | NZD | Low | RBNZ Offshore Holdings (Aug) | 58.60% |  | 58.30% |
 | 15:00 | GBP | Low | Rightmove House Price Index (YoY) (Sep) |  |  | -0.1% |
@@ -13,14 +14,14 @@
 | 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Sep) |  |  | -0.1% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
 | 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q2) |  |  | 1.80% |
-| 20:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q2) |  |  | 5.40% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q2) |  |  | 2.20% |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
+| 20:00 | MXN | Low | Private Spending (YoY) (Q2) |  |  | 4.80% |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
 | 20:15 | CAD | Moderate | Housing Starts (Aug) |  | 245.3K | 255.0K |
-| 20:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 20:30 | CAD | Low | IPPI (YoY) (Aug) |  |  | -2.7% |
+| 20:30 | CAD | Low | IPPI (MoM) (Aug) |  | 0.5% | 0.4% |
 | 20:30 | CAD | Low | RMPI (YoY) (Aug) |  |  | -11.1% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Aug) |  | 3.8% | 3.5% |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
