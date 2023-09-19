@@ -22,20 +22,20 @@
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) | 124.03 |  | 123.36 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 6.2% | 6.2% | 6.6% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | 0.0% |
-| 47 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 47 min | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
-| 47 min | USD | Low | Milk Auctions |  |  | 2,888.0 |
-| 20:30 | USD | High | Building Permits (Aug) |  | 1.440M | 1.443M |
-| 20:30 | USD | Moderate | Building Permits (MoM) (Aug) |  |  | 0.1% |
-| 20:30 | USD | Moderate | Housing Starts (MoM) (Aug) |  |  | 3.9% |
-| 20:30 | USD | Moderate | Housing Starts (Aug) |  | 1.440M | 1.452M |
-| 20:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 4.8% | 4.8% |
-| 20:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 3.2% |
-| 20:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.5% |
-| 20:30 | CAD | Low | CPI (YoY) (Aug) |  | 3.8% | 3.3% |
-| 20:30 | CAD | Moderate | CPI (MoM) (Aug) |  | 0.2% | 0.6% |
-| 20:30 | CAD | Low | Median CPI (YoY) (Aug) |  | 3.7% | 3.7% |
-| 20:30 | CAD | Low | Trimmed CPI (YoY) (Aug) |  | 3.5% | 3.6% |
+| 20:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) | 0.44% | 0.30% | 0.63% |
+| 20:30 | USD | High | Building Permits (Aug) | 1.543M | 1.440M | 1.443M |
+| 20:30 | USD | Moderate | Building Permits (MoM) (Aug) | 6.9% |  | 0.1% |
+| 20:30 | USD | Moderate | Housing Starts (Aug) | 1.283M | 1.440M | 1.447M |
+| 20:30 | USD | Moderate | Housing Starts (MoM) (Aug) | -11.3% |  | 2.0% |
+| 20:30 | CAD | Low | Common CPI (YoY) (Aug) | 4.8% | 4.8% | 4.8% |
+| 20:30 | CAD | Moderate | Core CPI (YoY) (Aug) | 3.3% |  | 3.2% |
+| 20:30 | CAD | Moderate | Core CPI (MoM) (Aug) | 0.1% |  | 0.5% |
+| 20:30 | CAD | Moderate | CPI (MoM) (Aug) | 0.4% | 0.2% | 0.6% |
+| 20:30 | CAD | Low | CPI (YoY) (Aug) | 4.0% | 3.8% | 3.3% |
+| 20:30 | CAD | Low | Median CPI (YoY) (Aug) | 4.1% | 3.7% | 3.9% |
+| 20:30 | CAD | Low | Trimmed CPI (YoY) (Aug) | 3.9% | 3.5% | 3.6% |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 20:55 | USD | Low | Redbook (YoY) |  |  | 4.6% |
+| 24 min | USD | Low | Redbook (YoY) |  |  | 4.6% |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.7% |
+| 23:00 | USD | Low | Milk Auctions |  |  | 2,888.0 |

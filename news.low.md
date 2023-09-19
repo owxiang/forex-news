@@ -16,11 +16,11 @@
 | 17:00 | EUR | CPI, n.s.a (Sep) | 124.03 |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 6.2% | 6.2% | 6.6% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | 0.0% |
-| 47 min | BRL | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
-| 47 min | USD | Milk Auctions |  |  | 2,888.0 |
-| 20:30 | CAD | Common CPI (YoY) (Aug) |  | 4.8% | 4.8% |
-| 20:30 | CAD | CPI (YoY) (Aug) |  | 3.8% | 3.3% |
-| 20:30 | CAD | Median CPI (YoY) (Aug) |  | 3.7% | 3.7% |
-| 20:30 | CAD | Trimmed CPI (YoY) (Aug) |  | 3.5% | 3.6% |
-| 20:55 | USD | Redbook (YoY) |  |  | 4.6% |
+| 20:00 | BRL | IBC-Br Economic Activity (Jul) | 0.44% | 0.30% | 0.63% |
+| 20:30 | CAD | Common CPI (YoY) (Aug) | 4.8% | 4.8% | 4.8% |
+| 20:30 | CAD | CPI (YoY) (Aug) | 4.0% | 3.8% | 3.3% |
+| 20:30 | CAD | Median CPI (YoY) (Aug) | 4.1% | 3.7% | 3.9% |
+| 20:30 | CAD | Trimmed CPI (YoY) (Aug) | 3.9% | 3.5% | 3.6% |
+| 24 min | USD | Redbook (YoY) |  |  | 4.6% |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.7% |
+| 23:00 | USD | Milk Auctions |  |  | 2,888.0 |
