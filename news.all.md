@@ -7,8 +7,7 @@
 | 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Jul) | 8.8B | 116.5B | 186.0B |
 | 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jul) | 8.80B |  | 186.00B |
 | 05:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 22 min | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 14:00 | CHF | Low | Trade Balance (Aug) |  | 4.230B | 3.129B |
 | 16:00 | EUR | Low | Current Account (Jul) |  | 30.2B | 35.8B |
 | 16:00 | EUR | Low | Current Account n.s.a. (Jul) |  |  | 36.8B |
@@ -24,8 +23,8 @@
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) |  | 0.3% | 0.0% |
 | Tentative | ZAR | Low | Business Confidence |  |  | 107.3 |
 | 20:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  |  | 0.63% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,888.0 |
 | 20:20 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 20:30 | USD | High | Building Permits (Aug) |  | 1.440M | 1.443M |
