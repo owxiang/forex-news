@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 20-Year Bond Auction | 4.592% |  | 4.499% |
 | 01:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 14 min | USD | API Weekly Crude Oil Stock |  | -2.667M | 1.174M |
+| 04:30 | USD | API Weekly Crude Oil Stock | -5.250M | -2.667M | 1.174M |
 | 06:45 | NZD | Current Account (QoQ) (Q2) |  | -4.80B | -5.22B |
 | 06:45 | NZD | Current Account (YoY) (Q2) |  |  | -33.03B |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.55T | -0.56T |
