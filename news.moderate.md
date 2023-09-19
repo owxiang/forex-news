@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 20-Year Bond Auction | 4.592% |  | 4.499% |
-| 31 min | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 01:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | -2.667M | 1.174M |
 | 06:45 | NZD | Current Account (YoY) (Q2) |  |  | -33.03B |
 | 06:45 | NZD | Current Account (QoQ) (Q2) |  | -4.80B | -5.22B |
