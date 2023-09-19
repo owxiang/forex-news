@@ -37,5 +37,5 @@
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Aug) | 3.9% | 3.5% | 3.6% |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) | 3.6% |  | 4.6% |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.7% |
-| 23:00 | USD | Low | Milk Auctions |  |  | 2,888.0 |
+| 45 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.7% |
+| 45 min | USD | Low | Milk Auctions |  |  | 2,888.0 |

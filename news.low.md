@@ -22,5 +22,5 @@
 | 20:30 | CAD | Median CPI (YoY) (Aug) | 4.1% | 3.7% | 3.9% |
 | 20:30 | CAD | Trimmed CPI (YoY) (Aug) | 3.9% | 3.5% | 3.6% |
 | 20:55 | USD | Redbook (YoY) | 3.6% |  | 4.6% |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.7% |
-| 23:00 | USD | Milk Auctions |  |  | 2,888.0 |
+| 45 min | NZD | GlobalDairyTrade Price Index |  |  | 2.7% |
+| 45 min | USD | Milk Auctions |  |  | 2,888.0 |
