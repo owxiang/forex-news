@@ -5,7 +5,7 @@
 | 04:00 | USD | US Foreign Buying, T-bonds (Jul) | 0.20B |  | 57.30B |
 | 04:00 | USD | Overall Net Capital Flow (Jul) | 140.60B |  | 137.90B |
 | 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) | 8.80B |  | 186.00B |
-| 14:00 | CHF | Trade Balance (Aug) |  | 4.230B | 3.129B |
+| 46 min | CHF | Trade Balance (Aug) |  | 4.230B | 3.129B |
 | 16:00 | EUR | Current Account (Jul) |  | 30.2B | 35.8B |
 | 16:00 | EUR | Current Account n.s.a. (Jul) |  |  | 36.8B |
 | 16:30 | HKD | Unemployment Rate (Aug) |  |  | 2.8% |
