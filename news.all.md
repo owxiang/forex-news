@@ -13,22 +13,22 @@
 | 16:00 | EUR | Low | Current Account n.s.a. (Jul) | 26.9B |  | 36.8B |
 | 16:30 | HKD | Low | Unemployment Rate (Aug) | 2.8% |  | 2.8% |
 | 17:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.704% |  | 4.484% |
-| 17:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 5.3% | 5.3% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
+| 17:00 | EUR | Moderate | Core CPI (YoY) (Aug) | 5.3% | 5.3% | 5.5% |
 | 17:00 | EUR | Moderate | CPI (MoM) (Aug) | 0.5% | 0.6% | -0.1% |
 | 17:00 | EUR | High | CPI (YoY) (Aug) | 5.2% | 5.3% | 5.3% |
-| 17:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) | 5.2% |  | 5.3% |
 | 17:00 | EUR | Low | CPI ex Tobacco (MoM) (Aug) | 0.6% | 0.6% | -0.1% |
+| 17:00 | EUR | Low | CPI ex Tobacco (YoY) (Aug) | 5.2% |  | 5.3% |
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) | 124.03 |  | 123.36 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Aug) | 6.2% | 6.2% | 6.6% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | 0.0% |
-| 20:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
-| 20:00 | USD | Low | Milk Auctions |  |  | 2,888.0 |
+| 47 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 47 min | BRL | Low | IBC-Br Economic Activity (Jul) |  | 0.30% | 0.63% |
+| 47 min | USD | Low | Milk Auctions |  |  | 2,888.0 |
 | 20:30 | USD | High | Building Permits (Aug) |  | 1.440M | 1.443M |
 | 20:30 | USD | Moderate | Building Permits (MoM) (Aug) |  |  | 0.1% |
-| 20:30 | USD | Moderate | Housing Starts (Aug) |  | 1.440M | 1.452M |
 | 20:30 | USD | Moderate | Housing Starts (MoM) (Aug) |  |  | 3.9% |
+| 20:30 | USD | Moderate | Housing Starts (Aug) |  | 1.440M | 1.452M |
 | 20:30 | CAD | Low | Common CPI (YoY) (Aug) |  | 4.8% | 4.8% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Aug) |  |  | 3.2% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Aug) |  |  | 0.5% |

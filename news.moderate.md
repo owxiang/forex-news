@@ -7,10 +7,10 @@
 | 09:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 17:00 | EUR | Core CPI (YoY) (Aug) | 5.3% | 5.3% | 5.5% |
 | 17:00 | EUR | CPI (MoM) (Aug) | 0.5% | 0.6% | -0.1% |
-| 20:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 47 min | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 20:30 | USD | Building Permits (MoM) (Aug) |  |  | 0.1% |
-| 20:30 | USD | Housing Starts (Aug) |  | 1.440M | 1.452M |
 | 20:30 | USD | Housing Starts (MoM) (Aug) |  |  | 3.9% |
+| 20:30 | USD | Housing Starts (Aug) |  | 1.440M | 1.452M |
 | 20:30 | CAD | Core CPI (YoY) (Aug) |  |  | 3.2% |
 | 20:30 | CAD | Core CPI (MoM) (Aug) |  |  | 0.5% |
 | 20:30 | CAD | CPI (MoM) (Aug) |  | 0.2% | 0.6% |
