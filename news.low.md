@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | PPI (YoY) (Aug) |  |  | -0.2% |
 | 05:00 | KRW | PPI (MoM) (Aug) |  |  | 0.3% |
+| 05:00 | KRW | PPI (YoY) (Aug) |  |  | -0.2% |
 | 06:45 | NZD | Current Account % of GDP (Q2) |  |  | -8.50% |
 | 07:50 | JPY | Imports (YoY) (Aug) |  | -19.4% | -13.5% |
 | 09:00 | AUD | MI Leading Index (MoM) (Aug) |  |  | 0.0% |
@@ -13,28 +13,28 @@
 | 14:00 | GBP | Car Registration (MoM) (Aug) |  |  | -18.8% |
 | 14:00 | GBP | Core CPI (MoM) (Aug) |  | 0.6% | 0.3% |
 | 14:00 | GBP | Core CPI (YoY) (Aug) |  | 6.8% | 6.9% |
-| 14:00 | GBP | Core PPI Output (YoY) (Aug) |  |  | 2.3% |
 | 14:00 | GBP | Core PPI Output (MoM) (Aug) |  |  | 0.1% |
+| 14:00 | GBP | Core PPI Output (YoY) (Aug) |  |  | 2.3% |
 | 14:00 | GBP | Core RPI (MoM) (Aug) |  |  | -0.7% |
 | 14:00 | GBP | Core RPI (YoY) (Aug) |  |  | 7.9% |
 | 14:00 | GBP | CPI, n.s.a (Aug) |  |  | 130.90 |
 | 14:00 | GBP | PPI Input (YoY) (Aug) |  | -2.7% | -3.3% |
 | 14:00 | GBP | PPI Output (YoY) (Aug) |  | -0.6% | -0.8% |
 | 14:00 | GBP | PPI Output (MoM) (Aug) |  | 0.1% | 0.1% |
-| 14:00 | GBP | RPI (YoY) (Aug) |  | 9.3% | 9.0% |
 | 14:00 | GBP | RPI (MoM) (Aug) |  | 0.9% | -0.6% |
+| 14:00 | GBP | RPI (YoY) (Aug) |  | 9.3% | 9.0% |
 | 14:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -14.2% |
 | 14:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 8.7% |
 | 14:00 | EUR | German Car Registration (MoM) (Aug) |  |  | -13.2% |
 | 14:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 18.1% |
 | 14:00 | EUR | German PPI (YoY) (Aug) |  | -12.8% | -6.0% |
-| 14:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 19.9% |
 | 14:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -32.4% |
+| 14:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 19.9% |
 | 15:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 16:00 | ZAR | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
 | 16:00 | ZAR | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
-| 16:00 | ZAR | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
 | 16:00 | ZAR | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 16:00 | ZAR | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
 | 16:30 | GBP | House Price Index (YoY) |  | 1.5% | 1.7% |
 | 17:00 | EUR | Construction Output (MoM) (Jul) |  |  | -0.97% |
 | Tentative | ZAR | Business Confidence |  |  | 107.3 |
