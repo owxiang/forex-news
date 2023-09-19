@@ -11,7 +11,7 @@
 | 20:30 | USD | Building Permits (MoM) (Aug) | 6.9% |  | 0.1% |
 | 20:30 | USD | Housing Starts (Aug) | 1.283M | 1.440M | 1.447M |
 | 20:30 | USD | Housing Starts (MoM) (Aug) | -11.3% |  | 2.0% |
-| 20:30 | CAD | Core CPI (YoY) (Aug) | 3.3% |  | 3.2% |
 | 20:30 | CAD | Core CPI (MoM) (Aug) | 0.1% |  | 0.5% |
+| 20:30 | CAD | Core CPI (YoY) (Aug) | 3.3% |  | 3.2% |
 | 20:30 | CAD | CPI (MoM) (Aug) | 0.4% | 0.2% | 0.6% |
 | 20:30 | EUR | ECB's Elderson Speaks |  |  |  |

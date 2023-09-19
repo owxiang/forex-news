@@ -11,8 +11,8 @@
 | 16:30 | HKD | Unemployment Rate (Aug) | 2.8% |  | 2.8% |
 | 17:00 | GBP | 30-Year Treasury Gilt Auction | 4.704% |  | 4.484% |
 | 17:00 | EUR | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
-| 17:00 | EUR | CPI ex Tobacco (MoM) (Aug) | 0.6% | 0.6% | -0.1% |
 | 17:00 | EUR | CPI ex Tobacco (YoY) (Aug) | 5.2% |  | 5.3% |
+| 17:00 | EUR | CPI ex Tobacco (MoM) (Aug) | 0.6% | 0.6% | -0.1% |
 | 17:00 | EUR | CPI, n.s.a (Sep) | 124.03 |  | 123.36 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 6.2% | 6.2% | 6.6% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | 0.0% |
@@ -21,6 +21,6 @@
 | 20:30 | CAD | CPI (YoY) (Aug) | 4.0% | 3.8% | 3.3% |
 | 20:30 | CAD | Median CPI (YoY) (Aug) | 4.1% | 3.7% | 3.9% |
 | 20:30 | CAD | Trimmed CPI (YoY) (Aug) | 3.9% | 3.5% | 3.6% |
-| 24 min | USD | Redbook (YoY) |  |  | 4.6% |
+| 20:55 | USD | Redbook (YoY) | 3.6% |  | 4.6% |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.7% |
 | 23:00 | USD | Milk Auctions |  |  | 2,888.0 |
