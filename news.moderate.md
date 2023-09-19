@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | USD | TIC Net Long-Term Transactions (Jul) | 8.8B | 116.5B | 186.0B |
 | 05:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 22 min | AUD | RBA Meeting Minutes |  |  |  |
+| 09:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 17:00 | EUR | Core CPI (YoY) (Aug) |  | 5.3% | 5.5% |
 | 17:00 | EUR | CPI (MoM) (Aug) |  | 0.6% | -0.1% |
 | 20:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
