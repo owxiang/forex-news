@@ -1,26 +1,55 @@
-## 19 September 2023 - Low Impact Forex News
+## 20 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | US Foreign Buying, T-bonds (Jul) | 0.20B |  | 57.30B |
-| 04:00 | USD | Overall Net Capital Flow (Jul) | 140.60B |  | 137.90B |
-| 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Jul) | 8.80B |  | 186.00B |
-| 14:00 | CHF | Trade Balance (Aug) | 4.054B | 4.230B | 3.132B |
-| 16:00 | EUR | Current Account (Jul) | 20.9B | 30.2B | 35.8B |
-| 16:00 | EUR | Current Account n.s.a. (Jul) | 26.9B |  | 36.8B |
-| 16:30 | HKD | Unemployment Rate (Aug) | 2.8% |  | 2.8% |
-| 17:00 | GBP | 30-Year Treasury Gilt Auction | 4.704% |  | 4.484% |
-| 17:00 | EUR | Core CPI (MoM) (Aug) | 0.3% | 0.3% | -0.1% |
-| 17:00 | EUR | CPI ex Tobacco (YoY) (Aug) | 5.2% |  | 5.3% |
-| 17:00 | EUR | CPI ex Tobacco (MoM) (Aug) | 0.6% | 0.6% | -0.1% |
-| 17:00 | EUR | CPI, n.s.a (Sep) | 124.03 |  | 123.36 |
-| 17:00 | EUR | HICP ex Energy & Food (YoY) (Aug) | 6.2% | 6.2% | 6.6% |
-| 17:00 | EUR | HICP ex Energy and Food (MoM) (Aug) | 0.3% | 0.3% | 0.0% |
-| 20:00 | BRL | IBC-Br Economic Activity (Jul) | 0.44% | 0.30% | 0.63% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | 4.6% |  | 2.7% |
-| 20:00 | USD | Milk Auctions | 2,957.0 |  | 2,888.0 |
-| 20:30 | CAD | Common CPI (YoY) (Aug) | 4.8% | 4.8% | 4.8% |
-| 20:30 | CAD | CPI (YoY) (Aug) | 4.0% | 3.8% | 3.3% |
-| 20:30 | CAD | Median CPI (YoY) (Aug) | 4.1% | 3.7% | 3.9% |
-| 20:30 | CAD | Trimmed CPI (YoY) (Aug) | 3.9% | 3.5% | 3.6% |
-| 20:55 | USD | Redbook (YoY) | 3.6% |  | 4.6% |
+| 05:00 | KRW | PPI (YoY) (Aug) |  |  | -0.2% |
+| 05:00 | KRW | PPI (MoM) (Aug) |  |  | 0.3% |
+| 06:45 | NZD | Current Account % of GDP (Q2) |  |  | -8.50% |
+| 07:50 | JPY | Imports (YoY) (Aug) |  | -19.4% | -13.5% |
+| 09:00 | AUD | MI Leading Index (MoM) (Aug) |  |  | 0.0% |
+| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 09:15 | CNY | China Loan Prime Rate 5Y (Sep) |  | 4.20% | 4.20% |
+| 14:00 | GBP | Car Registration (MoM) (Aug) |  |  | -18.8% |
+| 14:00 | GBP | Car Registration (YoY) (Aug) |  |  | 28.3% |
+| 14:00 | GBP | Core CPI (YoY) (Aug) |  | 6.8% | 6.9% |
+| 14:00 | GBP | Core CPI (MoM) (Aug) |  | 0.6% | 0.3% |
+| 14:00 | GBP | Core PPI Output (YoY) (Aug) |  |  | 2.3% |
+| 14:00 | GBP | Core PPI Output (MoM) (Aug) |  |  | 0.1% |
+| 14:00 | GBP | Core RPI (MoM) (Aug) |  |  | -0.7% |
+| 14:00 | GBP | Core RPI (YoY) (Aug) |  |  | 7.9% |
+| 14:00 | GBP | CPI, n.s.a (Aug) |  |  | 130.90 |
+| 14:00 | GBP | PPI Input (YoY) (Aug) |  | -2.7% | -3.3% |
+| 14:00 | GBP | PPI Output (MoM) (Aug) |  | 0.1% | 0.1% |
+| 14:00 | GBP | PPI Output (YoY) (Aug) |  | -0.6% | -0.8% |
+| 14:00 | GBP | RPI (YoY) (Aug) |  | 9.3% | 9.0% |
+| 14:00 | GBP | RPI (MoM) (Aug) |  | 0.9% | -0.6% |
+| 14:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 8.7% |
+| 14:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -14.2% |
+| 14:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 18.1% |
+| 14:00 | EUR | German Car Registration (MoM) (Aug) |  |  | -13.2% |
+| 14:00 | EUR | German PPI (YoY) (Aug) |  | -12.8% | -6.0% |
+| 14:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 19.9% |
+| 14:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -32.4% |
+| 15:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 16:00 | ZAR | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
+| 16:00 | ZAR | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
+| 16:00 | ZAR | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
+| 16:00 | ZAR | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 16:30 | GBP | House Price Index (YoY) |  | 1.5% | 1.7% |
+| 17:00 | EUR | Construction Output (MoM) (Jul) |  |  | -0.97% |
+| Tentative | ZAR | Business Confidence |  |  | 107.3 |
+| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.27% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.8% |
+| 19:00 | USD | MBA Purchase Index |  |  | 143.7 |
+| 19:00 | USD | Mortgage Market Index |  |  | 182.2 |
+| 19:00 | USD | Mortgage Refinance Index |  |  | 367.0 |
+| 19:00 | ZAR | Retail Sales (YoY) (Jul) |  | -1.2% | -0.9% |
+| 19:30 | INR | M3 Money Supply |  |  | 10.8% |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
+| 22:30 | USD | Crude Oil Imports |  |  | 2.654M |
+| 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.667M | 3.931M |
+| 22:30 | USD | Gasoline Production |  |  | -0.576M |
+| 22:30 | USD | Heating Oil Stockpiles |  |  | 0.113M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 22:30 | USD | Gasoline Inventories |  | -0.467M | 5.560M |

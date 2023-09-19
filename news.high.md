@@ -1,6 +1,6 @@
-## 19 September 2023 - High Impact Forex News
+## 20 September 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17:00 | EUR | CPI (YoY) (Aug) | 5.2% | 5.3% | 5.3% |
-| 20:30 | USD | Building Permits (Aug) | 1.543M | 1.440M | 1.443M |
+| 14:00 | GBP | CPI (YoY) (Aug) |  | 7.0% | 6.8% |
+| 22:30 | USD | Crude Oil Inventories |  | -2.667M | 3.954M |

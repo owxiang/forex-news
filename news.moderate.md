@@ -1,17 +1,23 @@
-## 19 September 2023 - Moderate Impact Forex News
+## 20 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | TIC Net Long-Term Transactions (Jul) | 8.8B | 116.5B | 186.0B |
-| 05:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 09:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 17:00 | EUR | Core CPI (YoY) (Aug) | 5.3% | 5.3% | 5.5% |
-| 17:00 | EUR | CPI (MoM) (Aug) | 0.5% | 0.6% | -0.1% |
-| 20:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:30 | USD | Building Permits (MoM) (Aug) | 6.9% |  | 0.1% |
-| 20:30 | USD | Housing Starts (MoM) (Aug) | -11.3% |  | 2.0% |
-| 20:30 | USD | Housing Starts (Aug) | 1.283M | 1.440M | 1.447M |
-| 20:30 | CAD | Core CPI (MoM) (Aug) | 0.1% |  | 0.5% |
-| 20:30 | CAD | Core CPI (YoY) (Aug) | 3.3% |  | 3.2% |
-| 20:30 | CAD | CPI (MoM) (Aug) | 0.4% | 0.2% | 0.6% |
+| 40 min | USD | 20-Year Bond Auction |  |  | 4.499% |
+| 01:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 04:30 | USD | API Weekly Crude Oil Stock |  | -2.667M | 1.174M |
+| 06:45 | NZD | Current Account (QoQ) (Q2) |  | -4.80B | -5.22B |
+| 06:45 | NZD | Current Account (YoY) (Q2) |  |  | -33.03B |
+| 07:50 | JPY | Adjusted Trade Balance |  | -0.55T | -0.56T |
+| 07:50 | JPY | Exports (YoY) (Aug) |  | -1.7% | -0.3% |
+| 07:50 | JPY | Trade Balance (Aug) |  | -659.1B | -78.7B |
+| 09:15 | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 14:00 | GBP | CPI (MoM) (Aug) |  | 0.7% | -0.4% |
+| 14:00 | GBP | PPI Input (MoM) (Aug) |  | 0.2% | -0.4% |
+| 14:00 | EUR | German PPI (MoM) (Aug) |  | 0.2% | -1.1% |
+| 15:00 | EUR | ECB's Panetta Speaks |  |  |  |
+| 15:30 | EUR | ECB's Enria Speaks |  |  |  |
+| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:50 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 20:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -2.450M |
