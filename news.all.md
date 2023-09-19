@@ -8,7 +8,7 @@
 | 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jul) | 8.80B |  | 186.00B |
 | 05:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 46 min | CHF | Low | Trade Balance (Aug) |  | 4.230B | 3.129B |
+| 14:00 | CHF | Low | Trade Balance (Aug) | 4.054B | 4.230B | 3.132B |
 | 16:00 | EUR | Low | Current Account (Jul) |  | 30.2B | 35.8B |
 | 16:00 | EUR | Low | Current Account n.s.a. (Jul) |  |  | 36.8B |
 | 16:30 | HKD | Low | Unemployment Rate (Aug) |  |  | 2.8% |
