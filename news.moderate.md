@@ -7,10 +7,10 @@
 | 04:30 | USD | API Weekly Crude Oil Stock | -5.250M | -2.667M | 1.174M |
 | 06:45 | NZD | Current Account (YoY) (Q2) | -29.76B |  | -33.03B |
 | 06:45 | NZD | Current Account (QoQ) (Q2) | -4.21B | -4.80B | -5.22B |
-| 36 min | JPY | Adjusted Trade Balance |  | -0.55T | -0.56T |
-| 36 min | JPY | Exports (YoY) (Aug) |  | -1.7% | -0.3% |
-| 36 min | JPY | Trade Balance (Aug) |  | -659.1B | -78.7B |
-| 09:15 | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 07:50 | JPY | Adjusted Trade Balance | -0.56T | -0.56T | -0.60T |
+| 07:50 | JPY | Exports (YoY) (Aug) | -0.8% | -1.7% | -0.3% |
+| 07:50 | JPY | Trade Balance (Aug) | -930.5B | -659.1B | -66.3B |
+| 8 min | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
 | 14:00 | GBP | CPI (MoM) (Aug) |  | 0.7% | -0.4% |
 | 14:00 | GBP | PPI Input (MoM) (Aug) |  | 0.2% | -0.4% |
 | 14:00 | EUR | German PPI (MoM) (Aug) |  | 0.2% | -1.1% |
