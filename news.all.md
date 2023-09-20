@@ -17,8 +17,8 @@
 | 09:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.0% |  | 0.0% |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Sep) | 4.20% | 4.20% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 14:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -18.8% |
-| 14:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 28.3% |
+| 14:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.5% |  | -18.8% |
+| 14:00 | GBP | Low | Car Registration (YoY) (Aug) | 24.4% |  | 28.3% |
 | 14:00 | GBP | Low | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.1% | 0.6% | 0.3% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Aug) | -0.1% |  | 0.1% |
@@ -34,21 +34,21 @@
 | 14:00 | GBP | Low | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
 | 14:00 | GBP | Low | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 8.7% |
-| 14:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -14.2% |
-| 14:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 18.1% |
-| 14:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -13.2% |
+| 14:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
+| 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
+| 14:00 | EUR | Low | German Car Registration (YoY) (Aug) | 37.3% |  | 18.1% |
+| 14:00 | EUR | Low | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.3% | 0.2% | -1.1% |
 | 14:00 | EUR | Low | German PPI (YoY) (Aug) | -12.6% | -12.6% | -6.0% |
-| 14:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -32.4% |
-| 14:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | 19.9% |
-| 39 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 39 min | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
-| 16:00 | ZAR | Low | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
-| 16:00 | ZAR | Low | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
+| 14:00 | EUR | Low | French Car Registration (MoM) (Aug) | -11.9% |  | -32.4% |
+| 14:00 | EUR | Low | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
+| 15:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 15:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
+| 16 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 46 min | ZAR | Low | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
+| 46 min | ZAR | Low | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
+| 46 min | ZAR | Low | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 46 min | ZAR | Low | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
 | 16:30 | GBP | Low | House Price Index (YoY) |  | 0.0% | 1.7% |
 | 17:00 | EUR | Low | Construction Output (MoM) (Jul) |  |  | -0.97% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

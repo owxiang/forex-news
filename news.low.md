@@ -8,8 +8,8 @@
 | 07:50 | JPY | Imports (YoY) (Aug) | -17.8% | -19.4% | -13.6% |
 | 09:00 | AUD | MI Leading Index (MoM) (Aug) | -0.0% |  | 0.0% |
 | 09:15 | CNY | China Loan Prime Rate 5Y (Sep) | 4.20% | 4.20% | 4.20% |
-| 14:00 | GBP | Car Registration (MoM) (Aug) |  |  | -18.8% |
-| 14:00 | GBP | Car Registration (YoY) (Aug) |  |  | 28.3% |
+| 14:00 | GBP | Car Registration (MoM) (Aug) | -40.5% |  | -18.8% |
+| 14:00 | GBP | Car Registration (YoY) (Aug) | 24.4% |  | 28.3% |
 | 14:00 | GBP | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
 | 14:00 | GBP | Core CPI (MoM) (Aug) | 0.1% | 0.6% | 0.3% |
 | 14:00 | GBP | Core PPI Output (MoM) (Aug) | -0.1% |  | 0.1% |
@@ -22,18 +22,18 @@
 | 14:00 | GBP | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
 | 14:00 | GBP | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | GBP | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
-| 14:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 8.7% |
-| 14:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -14.2% |
-| 14:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 18.1% |
-| 14:00 | EUR | German Car Registration (MoM) (Aug) |  |  | -13.2% |
+| 14:00 | EUR | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
+| 14:00 | EUR | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
+| 14:00 | EUR | German Car Registration (YoY) (Aug) | 37.3% |  | 18.1% |
+| 14:00 | EUR | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
 | 14:00 | EUR | German PPI (YoY) (Aug) | -12.6% | -12.6% | -6.0% |
-| 14:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -32.4% |
-| 14:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 19.9% |
-| 39 min | CHF | SECO Economic Forecasts |  |  |  |
-| 16:00 | ZAR | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
-| 16:00 | ZAR | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
-| 16:00 | ZAR | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
-| 16:00 | ZAR | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
+| 14:00 | EUR | French Car Registration (MoM) (Aug) | -11.9% |  | -32.4% |
+| 14:00 | EUR | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
+| 15:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 46 min | ZAR | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
+| 46 min | ZAR | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
+| 46 min | ZAR | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 46 min | ZAR | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
 | 16:30 | GBP | House Price Index (YoY) |  | 0.0% | 1.7% |
 | 17:00 | EUR | Construction Output (MoM) (Jul) |  |  | -0.97% |
 | Tentative | ZAR | Business Confidence |  |  | 107.3 |

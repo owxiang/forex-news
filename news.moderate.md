@@ -14,8 +14,8 @@
 | 14:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.7% | -0.4% |
 | 14:00 | GBP | PPI Input (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
 | 14:00 | EUR | German PPI (MoM) (Aug) | 0.3% | 0.2% | -1.1% |
-| 39 min | EUR | ECB's Panetta Speaks |  |  |  |
-| 15:30 | EUR | ECB's Enria Speaks |  |  |  |
+| 15:00 | EUR | ECB's Panetta Speaks |  |  |  |
+| 16 min | EUR | ECB's Enria Speaks |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:50 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 20:00 | EUR | ECB McCaul Speaks |  |  |  |
