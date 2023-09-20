@@ -5,26 +5,26 @@
 | 01:00 | USD | Moderate | 20-Year Bond Auction | 4.592% |  | 4.499% |
 | 01:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.250M | -2.667M | 1.174M |
-| 05:00 | KRW | Low | PPI (YoY) (Aug) | 1.0% |  | -0.3% |
 | 05:00 | KRW | Low | PPI (MoM) (Aug) | 0.9% |  | 0.3% |
-| 06:45 | NZD | Moderate | Current Account (YoY) (Q2) | -29.76B |  | -33.03B |
+| 05:00 | KRW | Low | PPI (YoY) (Aug) | 1.0% |  | -0.3% |
 | 06:45 | NZD | Moderate | Current Account (QoQ) (Q2) | -4.21B | -4.80B | -5.22B |
+| 06:45 | NZD | Moderate | Current Account (YoY) (Q2) | -29.76B |  | -33.03B |
 | 06:45 | NZD | Low | Current Account % of GDP (Q2) | -7.50% |  | -8.50% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.56T | -0.60T |
 | 07:50 | JPY | Moderate | Exports (YoY) (Aug) | -0.8% | -1.7% | -0.3% |
 | 07:50 | JPY | Low | Imports (YoY) (Aug) | -17.8% | -19.4% | -13.6% |
 | 07:50 | JPY | Moderate | Trade Balance (Aug) | -930.5B | -659.1B | -66.3B |
 | 09:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.0% |  | 0.0% |
-| 8 min | CNY | Low | China Loan Prime Rate 5Y (Sep) |  | 4.20% | 4.20% |
-| 8 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
-| 14:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -18.8% |
+| 09:15 | CNY | Low | China Loan Prime Rate 5Y (Sep) | 4.20% | 4.20% | 4.20% |
+| 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 14:00 | GBP | Low | Car Registration (YoY) (Aug) |  |  | 28.3% |
+| 14:00 | GBP | Low | Car Registration (MoM) (Aug) |  |  | -18.8% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Aug) |  | 0.6% | 0.3% |
 | 14:00 | GBP | Low | Core CPI (YoY) (Aug) |  | 6.8% | 6.9% |
-| 14:00 | GBP | Low | Core PPI Output (MoM) (Aug) |  |  | 0.1% |
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Aug) |  |  | 2.3% |
-| 14:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 7.9% |
+| 14:00 | GBP | Low | Core PPI Output (MoM) (Aug) |  |  | 0.1% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Aug) |  |  | -0.7% |
+| 14:00 | GBP | Low | Core RPI (YoY) (Aug) |  |  | 7.9% |
 | 14:00 | GBP | High | CPI (YoY) (Aug) |  | 7.0% | 6.8% |
 | 14:00 | GBP | Moderate | CPI (MoM) (Aug) |  | 0.7% | -0.4% |
 | 14:00 | GBP | Low | CPI, n.s.a (Aug) |  |  | 130.90 |
@@ -40,15 +40,15 @@
 | 14:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 18.1% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Aug) |  | 0.2% | -1.1% |
 | 14:00 | EUR | Low | German PPI (YoY) (Aug) |  | -12.8% | -6.0% |
-| 14:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -32.4% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | 19.9% |
+| 14:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -32.4% |
 | 15:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
 | 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Aug) |  | 4.7% | 4.7% |
-| 16:00 | ZAR | Low | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Aug) |  | 0.2% | 0.5% |
 | 16:00 | ZAR | Low | CPI (YoY) (Aug) |  | 4.8% | 4.7% |
+| 16:00 | ZAR | Low | CPI (MoM) (Aug) |  | 0.3% | 0.9% |
 | 16:30 | GBP | Low | House Price Index (YoY) |  | 1.5% | 1.7% |
 | 17:00 | EUR | Low | Construction Output (MoM) (Jul) |  |  | -0.97% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
