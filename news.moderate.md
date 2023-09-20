@@ -8,8 +8,8 @@
 | 02:00 | USD | Interest Rate Projection - Current (Q3) | 5.6% |  | 5.6% |
 | 02:00 | USD | Interest Rate Projection - Longer (Q3) | 2.5% |  | 2.5% |
 | 02:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 05:00 | BRL | Interest Rate Decision |  | 12.75% | 13.25% |
-| 05:00 | NZD | Westpac Consumer Sentiment |  |  | 83.1 |
+| 44 min | BRL | Interest Rate Decision |  | 12.75% | 13.25% |
+| 44 min | NZD | Westpac Consumer Sentiment |  |  | 83.1 |
 | 06:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 15:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |

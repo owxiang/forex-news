@@ -14,8 +14,8 @@
 | 02:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 02:30 | USD | High | FOMC Press Conference |  |  |  |
-| 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.75% | 13.25% |
-| 05:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
+| 44 min | BRL | Moderate | Interest Rate Decision |  | 12.75% | 13.25% |
+| 44 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
 | 06:45 | NZD | High | GDP (QoQ) (Q2) |  | 0.5% | -0.1% |
 | 06:45 | NZD | Low | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
 | 06:45 | NZD | Low | GDP Annual Average (Q2) |  |  | 2.9% |
