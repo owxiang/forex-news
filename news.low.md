@@ -20,13 +20,13 @@
 | 14:00 | GBP | PPI Input (YoY) (Aug) |  | -2.7% | -3.3% |
 | 14:00 | GBP | PPI Output (YoY) (Aug) |  | -0.6% | -0.8% |
 | 14:00 | GBP | PPI Output (MoM) (Aug) |  | 0.1% | 0.1% |
-| 14:00 | GBP | RPI (MoM) (Aug) |  | 0.9% | -0.6% |
+| 14:00 | GBP | RPI (MoM) (Aug) |  | 0.8% | -0.6% |
 | 14:00 | GBP | RPI (YoY) (Aug) |  | 9.3% | 9.0% |
 | 14:00 | EUR | Italian Car Registration (MoM) (Aug) |  |  | -14.2% |
 | 14:00 | EUR | Italian Car Registration (YoY) (Aug) |  |  | 8.7% |
 | 14:00 | EUR | German Car Registration (MoM) (Aug) |  |  | -13.2% |
 | 14:00 | EUR | German Car Registration (YoY) (Aug) |  |  | 18.1% |
-| 14:00 | EUR | German PPI (YoY) (Aug) |  | -12.8% | -6.0% |
+| 14:00 | EUR | German PPI (YoY) (Aug) |  | -12.6% | -6.0% |
 | 14:00 | EUR | French Car Registration (MoM) (Aug) |  |  | -32.4% |
 | 14:00 | EUR | French Car Registration (YoY) (Aug) |  |  | 19.9% |
 | 15:00 | CHF | SECO Economic Forecasts |  |  |  |
@@ -47,8 +47,8 @@
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
 | 22:30 | USD | Crude Oil Imports |  |  | 2.654M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | -0.667M | 3.931M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.217M | 3.931M |
 | 22:30 | USD | Gasoline Production |  |  | -0.576M |
 | 22:30 | USD | Heating Oil Stockpiles |  |  | 0.113M |
 | 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 22:30 | USD | Gasoline Inventories |  | -0.467M | 5.560M |
+| 22:30 | USD | Gasoline Inventories |  | 0.317M | 5.560M |

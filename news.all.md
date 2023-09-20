@@ -32,14 +32,14 @@
 | 14:00 | GBP | Low | PPI Input (YoY) (Aug) |  | -2.7% | -3.3% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Aug) |  | -0.6% | -0.8% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Aug) |  | 0.1% | 0.1% |
-| 14:00 | GBP | Low | RPI (MoM) (Aug) |  | 0.9% | -0.6% |
+| 14:00 | GBP | Low | RPI (MoM) (Aug) |  | 0.8% | -0.6% |
 | 14:00 | GBP | Low | RPI (YoY) (Aug) |  | 9.3% | 9.0% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Aug) |  |  | -14.2% |
 | 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) |  |  | 8.7% |
 | 14:00 | EUR | Low | German Car Registration (MoM) (Aug) |  |  | -13.2% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Aug) |  |  | 18.1% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Aug) |  | 0.2% | -1.1% |
-| 14:00 | EUR | Low | German PPI (YoY) (Aug) |  | -12.8% | -6.0% |
+| 14:00 | EUR | Low | German PPI (YoY) (Aug) |  | -12.6% | -6.0% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Aug) |  |  | -32.4% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Aug) |  |  | 19.9% |
 | 15:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
@@ -63,13 +63,13 @@
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
 | 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 22:30 | USD | High | Crude Oil Inventories |  | -2.667M | 3.954M |
+| 22:30 | USD | High | Crude Oil Inventories |  | -2.200M | 3.954M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | 2.654M |
 | 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.450M |
 | 22:30 | USD | Low | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.667M | 3.931M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.217M | 3.931M |
 | 22:30 | USD | Low | Gasoline Production |  |  | -0.576M |
 | 22:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.113M |
 | 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 22:30 | USD | Low | Gasoline Inventories |  | -0.467M | 5.560M |
+| 22:30 | USD | Low | Gasoline Inventories |  | 0.317M | 5.560M |
