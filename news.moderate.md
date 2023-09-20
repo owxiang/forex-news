@@ -20,4 +20,4 @@
 | 17:50 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 20:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -2.450M |
+| 15 min | USD | Cushing Crude Oil Inventories |  |  | -2.450M |

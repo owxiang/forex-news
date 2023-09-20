@@ -20,8 +20,8 @@
 | 14:00 | GBP | PPI Input (YoY) (Aug) | -2.3% | -2.7% | -3.2% |
 | 14:00 | GBP | PPI Output (YoY) (Aug) | -0.4% | -0.6% | -0.7% |
 | 14:00 | GBP | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
-| 14:00 | GBP | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | GBP | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
+| 14:00 | GBP | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | EUR | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
 | 14:00 | EUR | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
 | 14:00 | EUR | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
@@ -32,8 +32,8 @@
 | 15:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 16:00 | ZAR | Core CPI (YoY) (Aug) | 4.8% | 4.7% | 4.7% |
 | 16:00 | ZAR | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.5% |
-| 16:00 | ZAR | CPI (YoY) (Aug) | 4.8% | 4.8% | 4.7% |
 | 16:00 | ZAR | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.9% |
+| 16:00 | ZAR | CPI (YoY) (Aug) | 4.8% | 4.8% | 4.7% |
 | 16:30 | GBP | House Price Index (YoY) | 0.6% | 0.0% | 1.9% |
 | 17:00 | EUR | Construction Output (MoM) (Jul) | 0.80% |  | -1.23% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate | 7.31% |  | 7.27% |
@@ -42,11 +42,11 @@
 | 19:00 | USD | Mortgage Market Index | 192.1 |  | 182.2 |
 | 19:00 | USD | Mortgage Refinance Index | 415.4 |  | 367.0 |
 | 19:00 | ZAR | Retail Sales (YoY) (Jul) | -1.8% | -1.2% | -1.8% |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
-| 22:30 | USD | Crude Oil Imports |  |  | 2.654M |
-| 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | 0.217M | 3.931M |
-| 22:30 | USD | Gasoline Production |  |  | -0.576M |
-| 22:30 | USD | Heating Oil Stockpiles |  |  | 0.113M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 22:30 | USD | Gasoline Inventories |  | 0.317M | 5.560M |
+| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
+| 15 min | USD | Crude Oil Imports |  |  | 2.654M |
+| 15 min | USD | Distillate Fuel Production |  |  | -0.006M |
+| 15 min | USD | EIA Weekly Distillates Stocks |  | 0.217M | 3.931M |
+| 15 min | USD | Gasoline Production |  |  | -0.576M |
+| 15 min | USD | Heating Oil Stockpiles |  |  | 0.113M |
+| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 15 min | USD | Gasoline Inventories |  | 0.317M | 5.560M |

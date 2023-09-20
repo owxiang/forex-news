@@ -32,8 +32,8 @@
 | 14:00 | GBP | Low | PPI Input (YoY) (Aug) | -2.3% | -2.7% | -3.2% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Aug) | -0.4% | -0.6% | -0.7% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
-| 14:00 | GBP | Low | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
+| 14:00 | GBP | Low | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
 | 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
 | 14:00 | EUR | Low | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
@@ -47,8 +47,8 @@
 | 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Aug) | 4.8% | 4.7% | 4.7% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.5% |
-| 16:00 | ZAR | Low | CPI (YoY) (Aug) | 4.8% | 4.8% | 4.7% |
 | 16:00 | ZAR | Low | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.9% |
+| 16:00 | ZAR | Low | CPI (YoY) (Aug) | 4.8% | 4.8% | 4.7% |
 | 16:30 | GBP | Low | House Price Index (YoY) | 0.6% | 0.0% | 1.9% |
 | 17:00 | EUR | Low | Construction Output (MoM) (Jul) | 0.80% |  | -1.23% |
 | 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
@@ -61,13 +61,13 @@
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Jul) | -1.8% | -1.2% | -1.8% |
 | 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 22:30 | USD | High | Crude Oil Inventories |  | -2.200M | 3.954M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
-| 22:30 | USD | Low | Crude Oil Imports |  |  | 2.654M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.450M |
-| 22:30 | USD | Low | Distillate Fuel Production |  |  | -0.006M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.217M | 3.931M |
-| 22:30 | USD | Low | Gasoline Production |  |  | -0.576M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.113M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
-| 22:30 | USD | Low | Gasoline Inventories |  | 0.317M | 5.560M |
+| 15 min | USD | High | Crude Oil Inventories |  | -2.200M | 3.954M |
+| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
+| 15 min | USD | Low | Crude Oil Imports |  |  | 2.654M |
+| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.450M |
+| 15 min | USD | Low | Distillate Fuel Production |  |  | -0.006M |
+| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.217M | 3.931M |
+| 15 min | USD | Low | Gasoline Production |  |  | -0.576M |
+| 15 min | USD | Low | Heating Oil Stockpiles |  |  | 0.113M |
+| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.6% |
+| 15 min | USD | Low | Gasoline Inventories |  | 0.317M | 5.560M |
