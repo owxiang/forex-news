@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | GBP | CPI (YoY) (Aug) |  | 7.0% | 6.8% |
+| 14:00 | GBP | CPI (YoY) (Aug) | 6.7% | 7.0% | 6.8% |
 | 22:30 | USD | Crude Oil Inventories |  | -2.200M | 3.954M |
