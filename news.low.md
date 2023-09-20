@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 01:30 | BRL | Foreign Exchange Flows | -1.148B | -0.318B | -1.173B |
-| 31 min | NZD | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
-| 31 min | NZD | GDP Annual Average (Q2) |  |  | 2.9% |
-| 31 min | NZD | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |
+| 06:45 | NZD | GDP (YoY) (Q2) | 1.8% | 1.2% | 2.2% |
+| 06:45 | NZD | GDP Annual Average (Q2) | 3.2% |  | 2.9% |
+| 06:45 | NZD | GDP Expenditure (QoQ) (Q2) | 1.3% |  | -0.2% |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 09:30 | AUD | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |

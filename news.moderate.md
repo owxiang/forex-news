@@ -9,7 +9,7 @@
 | 02:00 | USD | Interest Rate Projection - Longer (Q3) | 2.5% |  | 2.5% |
 | 02:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 05:30 | BRL | Interest Rate Decision | 12.75% | 12.75% | 13.25% |
-| 31 min | EUR | ECB's Lane Speaks |  |  |  |
+| 06:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 15:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 15:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
 | 16:00 | CHF | SNB Press Conference |  |  |  |

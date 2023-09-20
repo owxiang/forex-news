@@ -15,11 +15,11 @@
 | 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 02:30 | USD | High | FOMC Press Conference |  |  |  |
 | 05:30 | BRL | Moderate | Interest Rate Decision | 12.75% | 12.75% | 13.25% |
-| 31 min | NZD | High | GDP (QoQ) (Q2) |  | 0.5% | -0.1% |
-| 31 min | NZD | Low | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
-| 31 min | NZD | Low | GDP Annual Average (Q2) |  |  | 2.9% |
-| 31 min | NZD | Low | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |
-| 31 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 06:45 | NZD | High | GDP (QoQ) (Q2) | 0.9% | 0.5% | 0.0% |
+| 06:45 | NZD | Low | GDP (YoY) (Q2) | 1.8% | 1.2% | 2.2% |
+| 06:45 | NZD | Low | GDP Annual Average (Q2) | 3.2% |  | 2.9% |
+| 06:45 | NZD | Low | GDP Expenditure (QoQ) (Q2) | 1.3% |  | -0.2% |
+| 06:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | 09:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
