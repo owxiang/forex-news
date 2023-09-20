@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.173B |
+| 16 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -1.173B |
 | 06:45 | NZD | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
 | 06:45 | NZD | GDP Annual Average (Q2) |  |  | 2.9% |
 | 06:45 | NZD | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |
@@ -24,8 +24,8 @@
 | 16:30 | HKD | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
 | 16:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.304% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:00 | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
+| 20:00 | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
 | 20:30 | USD | Philly Fed Business Conditions (Sep) |  |  | 3.9 |

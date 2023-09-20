@@ -2,17 +2,17 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.173B |
-| 02:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.6% |
-| 02:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
-| 02:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
-| 02:00 | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 5.6% |
-| 02:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 2.5% |
-| 02:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 02:00 | USD | High | FOMC Statement |  |  |  |
-| 02:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 16 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -1.173B |
+| 46 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.6% |
+| 46 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
+| 46 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
+| 46 min | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 5.6% |
+| 46 min | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 2.5% |
+| 46 min | USD | High | FOMC Economic Projections |  |  |  |
+| 46 min | USD | High | FOMC Statement |  |  |  |
+| 46 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 46 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 02:30 | USD | High | FOMC Press Conference |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.75% | 13.25% |
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
@@ -50,8 +50,8 @@
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
@@ -65,8 +65,8 @@
 | 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
 | 21:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
 | 21:00 | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
-| 22:00 | USD | High | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
+| 22:00 | USD | High | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
 | 22:00 | USD | Low | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
 | 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:00 | EUR | Low | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
