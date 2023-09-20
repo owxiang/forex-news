@@ -11,9 +11,9 @@
 | 07:50 | JPY | Exports (YoY) (Aug) | -0.8% | -1.7% | -0.3% |
 | 07:50 | JPY | Trade Balance (Aug) | -930.5B | -659.1B | -66.3B |
 | 09:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 14:00 | GBP | CPI (MoM) (Aug) |  | 0.7% | -0.4% |
-| 14:00 | GBP | PPI Input (MoM) (Aug) |  | 0.2% | -0.4% |
-| 14:00 | EUR | German PPI (MoM) (Aug) |  | 0.2% | -1.1% |
+| 46 min | GBP | CPI (MoM) (Aug) |  | 0.7% | -0.4% |
+| 46 min | GBP | PPI Input (MoM) (Aug) |  | 0.2% | -0.4% |
+| 46 min | EUR | German PPI (MoM) (Aug) |  | 0.2% | -1.1% |
 | 15:00 | EUR | ECB's Panetta Speaks |  |  |  |
 | 15:30 | EUR | ECB's Enria Speaks |  |  |  |
 | 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
