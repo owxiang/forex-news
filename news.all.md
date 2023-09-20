@@ -14,13 +14,12 @@
 | 02:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 02:30 | USD | High | FOMC Press Conference |  |  |  |
-| 17 min | BRL | Moderate | Interest Rate Decision |  | 12.75% | 13.25% |
-| 17 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
-| 06:45 | NZD | High | GDP (QoQ) (Q2) |  | 0.5% | -0.1% |
-| 06:45 | NZD | Low | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
-| 06:45 | NZD | Low | GDP Annual Average (Q2) |  |  | 2.9% |
-| 06:45 | NZD | Low | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |
-| 06:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 05:30 | BRL | Moderate | Interest Rate Decision | 12.75% | 12.75% | 13.25% |
+| 31 min | NZD | High | GDP (QoQ) (Q2) |  | 0.5% | -0.1% |
+| 31 min | NZD | Low | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
+| 31 min | NZD | Low | GDP Annual Average (Q2) |  |  | 2.9% |
+| 31 min | NZD | Low | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |
+| 31 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | 09:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
@@ -50,8 +49,8 @@
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
