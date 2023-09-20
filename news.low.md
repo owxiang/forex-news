@@ -10,25 +10,25 @@
 | 09:15 | CNY | China Loan Prime Rate 5Y (Sep) | 4.20% | 4.20% | 4.20% |
 | 14:00 | GBP | Car Registration (YoY) (Aug) | 24.4% |  | 28.3% |
 | 14:00 | GBP | Car Registration (MoM) (Aug) | -40.5% |  | -18.8% |
-| 14:00 | GBP | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
 | 14:00 | GBP | Core CPI (MoM) (Aug) | 0.1% | 0.6% | 0.3% |
-| 14:00 | GBP | Core PPI Output (YoY) (Aug) | 1.6% |  | 2.2% |
+| 14:00 | GBP | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
 | 14:00 | GBP | Core PPI Output (MoM) (Aug) | -0.1% |  | 0.1% |
+| 14:00 | GBP | Core PPI Output (YoY) (Aug) | 1.6% |  | 2.2% |
 | 14:00 | GBP | Core RPI (MoM) (Aug) | 0.5% |  | -0.7% |
 | 14:00 | GBP | Core RPI (YoY) (Aug) | 7.8% |  | 7.9% |
 | 14:00 | GBP | CPI, n.s.a (Aug) | 131.30 |  | 130.90 |
 | 14:00 | GBP | PPI Input (YoY) (Aug) | -2.3% | -2.7% | -3.2% |
-| 14:00 | GBP | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
 | 14:00 | GBP | PPI Output (YoY) (Aug) | -0.4% | -0.6% | -0.7% |
+| 14:00 | GBP | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
 | 14:00 | GBP | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | GBP | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
-| 14:00 | EUR | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
 | 14:00 | EUR | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
+| 14:00 | EUR | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
 | 14:00 | EUR | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
 | 14:00 | EUR | German Car Registration (YoY) (Aug) | 37.3% |  | 18.1% |
 | 14:00 | EUR | German PPI (YoY) (Aug) | -12.6% | -12.6% | -6.0% |
-| 14:00 | EUR | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
 | 14:00 | EUR | French Car Registration (MoM) (Aug) | -11.9% |  | -32.4% |
+| 14:00 | EUR | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
 | 15:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 16:00 | ZAR | Core CPI (YoY) (Aug) | 4.8% | 4.7% | 4.7% |
 | 16:00 | ZAR | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.5% |
@@ -42,7 +42,6 @@
 | 19:00 | USD | Mortgage Market Index | 192.1 |  | 182.2 |
 | 19:00 | USD | Mortgage Refinance Index | 415.4 |  | 367.0 |
 | 19:00 | ZAR | Retail Sales (YoY) (Jul) | -1.8% | -1.2% | -1.8% |
-| 29 min | INR | M3 Money Supply |  |  | 10.8% |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
 | 22:30 | USD | Crude Oil Imports |  |  | 2.654M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.006M |

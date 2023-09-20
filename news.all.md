@@ -19,29 +19,29 @@
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 14:00 | GBP | Low | Car Registration (YoY) (Aug) | 24.4% |  | 28.3% |
 | 14:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.5% |  | -18.8% |
-| 14:00 | GBP | Low | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.1% | 0.6% | 0.3% |
-| 14:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 1.6% |  | 2.2% |
+| 14:00 | GBP | Low | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Aug) | -0.1% |  | 0.1% |
+| 14:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 1.6% |  | 2.2% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Aug) | 0.5% |  | -0.7% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Aug) | 7.8% |  | 7.9% |
-| 14:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.3% | 0.7% | -0.4% |
 | 14:00 | GBP | High | CPI (YoY) (Aug) | 6.7% | 7.0% | 6.8% |
+| 14:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.3% | 0.7% | -0.4% |
 | 14:00 | GBP | Low | CPI, n.s.a (Aug) | 131.30 |  | 130.90 |
-| 14:00 | GBP | Low | PPI Input (YoY) (Aug) | -2.3% | -2.7% | -3.2% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
-| 14:00 | GBP | Low | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
+| 14:00 | GBP | Low | PPI Input (YoY) (Aug) | -2.3% | -2.7% | -3.2% |
 | 14:00 | GBP | Low | PPI Output (YoY) (Aug) | -0.4% | -0.6% | -0.7% |
+| 14:00 | GBP | Low | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
 | 14:00 | GBP | Low | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
 | 14:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
+| 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
 | 14:00 | EUR | Low | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Aug) | 37.3% |  | 18.1% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.3% | 0.2% | -1.1% |
 | 14:00 | EUR | Low | German PPI (YoY) (Aug) | -12.6% | -12.6% | -6.0% |
-| 14:00 | EUR | Low | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Aug) | -11.9% |  | -32.4% |
+| 14:00 | EUR | Low | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
 | 15:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 15:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
 | 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
@@ -61,7 +61,6 @@
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Jul) | -1.8% | -1.2% | -1.8% |
 | 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 29 min | INR | Low | M3 Money Supply |  |  | 10.8% |
 | 22:30 | USD | High | Crude Oil Inventories |  | -2.200M | 3.954M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.177M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | 2.654M |
