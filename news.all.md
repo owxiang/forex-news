@@ -2,18 +2,18 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 16 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -1.173B |
-| 46 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.6% |
-| 46 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
-| 46 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
-| 46 min | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 5.6% |
-| 46 min | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 2.5% |
-| 46 min | USD | High | FOMC Economic Projections |  |  |  |
-| 46 min | USD | High | FOMC Statement |  |  |  |
-| 46 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 46 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 02:30 | USD | High | FOMC Press Conference |  |  |  |
+| 01:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -1.148B | -0.318B | -1.173B |
+| 02:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) | 5.1% |  | 4.6% |
+| 02:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) | 3.9% |  | 3.4% |
+| 02:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q3) | 2.9% |  | 3.1% |
+| 02:00 | USD | Moderate | Interest Rate Projection - Current (Q3) | 5.6% |  | 5.6% |
+| 02:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) | 2.5% |  | 2.5% |
+| 02:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 02:00 | USD | High | FOMC Statement |  |  |  |
+| 02:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10 min | USD | High | FOMC Press Conference |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.75% | 13.25% |
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
 | 06:45 | NZD | High | GDP (QoQ) (Q2) |  | 0.5% | -0.1% |

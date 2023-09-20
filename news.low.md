@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | CAD | BOC Summary of Deliberations |  |  |  |
-| 16 min | BRL | Foreign Exchange Flows |  |  | -1.173B |
+| 01:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 01:30 | BRL | Foreign Exchange Flows | -1.148B | -0.318B | -1.173B |
 | 06:45 | NZD | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
 | 06:45 | NZD | GDP Annual Average (Q2) |  |  | 2.9% |
 | 06:45 | NZD | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |

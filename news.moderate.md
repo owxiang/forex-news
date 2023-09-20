@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.6% |
-| 46 min | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
-| 46 min | USD | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
-| 46 min | USD | Interest Rate Projection - Current (Q3) |  |  | 5.6% |
-| 46 min | USD | Interest Rate Projection - Longer (Q3) |  |  | 2.5% |
-| 46 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 02:00 | USD | Interest Rate Projection - 1st Yr (Q3) | 5.1% |  | 4.6% |
+| 02:00 | USD | Interest Rate Projection - 2nd Yr (Q3) | 3.9% |  | 3.4% |
+| 02:00 | USD | Interest Rate Projection - 3rd Yr (Q3) | 2.9% |  | 3.1% |
+| 02:00 | USD | Interest Rate Projection - Current (Q3) | 5.6% |  | 5.6% |
+| 02:00 | USD | Interest Rate Projection - Longer (Q3) | 2.5% |  | 2.5% |
+| 02:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 05:00 | BRL | Interest Rate Decision |  | 12.75% | 13.25% |
 | 05:00 | NZD | Westpac Consumer Sentiment |  |  | 83.1 |
 | 06:45 | EUR | ECB's Lane Speaks |  |  |  |
