@@ -1,73 +1,77 @@
-## 20 September 2023 - All Forex News
+## 21 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Moderate | 20-Year Bond Auction | 4.592% |  | 4.499% |
-| 01:45 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.250M | -2.667M | 1.174M |
-| 05:00 | KRW | Low | PPI (YoY) (Aug) | 1.0% |  | -0.3% |
-| 05:00 | KRW | Low | PPI (MoM) (Aug) | 0.9% |  | 0.3% |
-| 06:45 | NZD | Moderate | Current Account (YoY) (Q2) | -29.76B |  | -33.03B |
-| 06:45 | NZD | Moderate | Current Account (QoQ) (Q2) | -4.21B | -4.80B | -5.22B |
-| 06:45 | NZD | Low | Current Account % of GDP (Q2) | -7.50% |  | -8.50% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.56T | -0.60T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Aug) | -0.8% | -1.7% | -0.3% |
-| 07:50 | JPY | Low | Imports (YoY) (Aug) | -17.8% | -19.4% | -13.6% |
-| 07:50 | JPY | Moderate | Trade Balance (Aug) | -930.5B | -659.1B | -66.3B |
-| 09:00 | AUD | Low | MI Leading Index (MoM) (Aug) | -0.0% |  | 0.0% |
-| 09:15 | CNY | Low | China Loan Prime Rate 5Y (Sep) | 4.20% | 4.20% | 4.20% |
-| 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 14:00 | GBP | Low | Car Registration (MoM) (Aug) | -40.5% |  | -18.8% |
-| 14:00 | GBP | Low | Car Registration (YoY) (Aug) | 24.4% |  | 28.3% |
-| 14:00 | GBP | Low | Core CPI (MoM) (Aug) | 0.1% | 0.6% | 0.3% |
-| 14:00 | GBP | Low | Core CPI (YoY) (Aug) | 6.2% | 6.8% | 6.9% |
-| 14:00 | GBP | Low | Core PPI Output (MoM) (Aug) | -0.1% |  | 0.1% |
-| 14:00 | GBP | Low | Core PPI Output (YoY) (Aug) | 1.6% |  | 2.2% |
-| 14:00 | GBP | Low | Core RPI (YoY) (Aug) | 7.8% |  | 7.9% |
-| 14:00 | GBP | Low | Core RPI (MoM) (Aug) | 0.5% |  | -0.7% |
-| 14:00 | GBP | High | CPI (YoY) (Aug) | 6.7% | 7.0% | 6.8% |
-| 14:00 | GBP | Moderate | CPI (MoM) (Aug) | 0.3% | 0.7% | -0.4% |
-| 14:00 | GBP | Low | CPI, n.s.a (Aug) | 131.30 |  | 130.90 |
-| 14:00 | GBP | Low | PPI Input (YoY) (Aug) | -2.3% | -2.7% | -3.2% |
-| 14:00 | GBP | Moderate | PPI Input (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
-| 14:00 | GBP | Low | PPI Output (YoY) (Aug) | -0.4% | -0.6% | -0.7% |
-| 14:00 | GBP | Low | PPI Output (MoM) (Aug) | 0.2% | 0.1% | 0.2% |
-| 14:00 | GBP | Low | RPI (YoY) (Aug) | 9.1% | 9.3% | 9.0% |
-| 14:00 | GBP | Low | RPI (MoM) (Aug) | 0.6% | 0.8% | -0.6% |
-| 14:00 | EUR | Low | Italian Car Registration (MoM) (Aug) | -33.1% |  | -14.2% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Aug) | 11.9% |  | 8.7% |
-| 14:00 | EUR | Low | German Car Registration (MoM) (Aug) | 12.4% |  | -13.2% |
-| 14:00 | EUR | Low | German Car Registration (YoY) (Aug) | 37.3% |  | 18.1% |
-| 14:00 | EUR | Moderate | German PPI (MoM) (Aug) | 0.3% | 0.2% | -1.1% |
-| 14:00 | EUR | Low | German PPI (YoY) (Aug) | -12.6% | -12.6% | -6.0% |
-| 14:00 | EUR | Low | French Car Registration (MoM) (Aug) | -11.9% |  | -32.4% |
-| 14:00 | EUR | Low | French Car Registration (YoY) (Aug) | 24.3% |  | 19.9% |
-| 15:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 15:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Aug) | 0.3% | 0.2% | 0.5% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Aug) | 4.8% | 4.7% | 4.7% |
-| 16:00 | ZAR | Low | CPI (MoM) (Aug) | 0.3% | 0.3% | 0.9% |
-| 16:00 | ZAR | Low | CPI (YoY) (Aug) | 4.8% | 4.8% | 4.7% |
-| 16:30 | GBP | Low | House Price Index (YoY) | 0.6% | 0.0% | 1.9% |
-| 17:00 | EUR | Low | Construction Output (MoM) (Jul) | 0.80% |  | -1.23% |
-| 17:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:50 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.31% |  | 7.27% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | 5.4% |  | -0.8% |
-| 19:00 | USD | Low | MBA Purchase Index | 147.0 |  | 143.7 |
-| 19:00 | USD | Low | Mortgage Market Index | 192.1 |  | 182.2 |
-| 19:00 | USD | Low | Mortgage Refinance Index | 415.4 |  | 367.0 |
-| 19:00 | ZAR | Low | Retail Sales (YoY) (Jul) | -1.8% | -1.2% | -1.8% |
-| 20:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 20:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 22:30 | USD | High | Crude Oil Inventories | -2.135M | -2.200M | 3.954M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.496M |  | 0.177M |
-| 22:30 | USD | Low | Crude Oil Imports | -3.042M |  | 2.654M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | -2.064M |  | -2.450M |
-| 22:30 | USD | Low | Distillate Fuel Production | -0.229M |  | -0.006M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -2.867M | 0.217M | 3.931M |
-| 22:30 | USD | Low | Gasoline Production | 0.499M |  | -0.576M |
-| 22:30 | USD | Low | Heating Oil Stockpiles | -0.109M |  | 0.113M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.8% |  | 0.6% |
-| 22:30 | USD | Low | Gasoline Inventories | -0.831M | 0.317M | 5.560M |
+| 01:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.173B |
+| 02:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.6% |
+| 02:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
+| 02:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
+| 02:00 | USD | Moderate | Interest Rate Projection - Current (Q3) |  |  | 5.6% |
+| 02:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) |  |  | 2.5% |
+| 02:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 02:00 | USD | High | FOMC Statement |  |  |  |
+| 02:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 02:30 | USD | High | FOMC Press Conference |  |  |  |
+| 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.75% | 13.25% |
+| 05:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
+| 06:45 | NZD | High | GDP (QoQ) (Q2) |  | 0.5% | -0.1% |
+| 06:45 | NZD | Low | GDP (YoY) (Q2) |  | 1.2% | 2.2% |
+| 06:45 | NZD | Low | GDP Annual Average (Q2) |  |  | 2.9% |
+| 06:45 | NZD | Low | GDP Expenditure (QoQ) (Q2) |  |  | -0.2% |
+| 06:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 09:30 | AUD | Low | RBA Bulletin |  |  |  |
+| 09:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 10:30 | HKD | Low | Interest Rate Decision |  |  | 5.75% |
+| 11:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 3.6% |
+| 14:00 | GBP | Low | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
+| 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
+| 14:45 | EUR | Low | French Business Survey (Sep) |  | 97 | 96 |
+| 15:00 | CHF | Low | M3 Money Supply (Aug) |  |  | 1,135.4B |
+| 15:20 | IDR | Low | Loans (YoY) |  |  | 8.54% |
+| 15:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 2.00% | 1.75% |
+| 15:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 15:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 15:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 5.00% | 5.00% |
+| 15:30 | IDR | Low | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
+| 16:00 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | Low | Spanish Trade Balance |  |  | -2.36B |
+| 16:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.00% |
+| 16:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 0.00% |
+| 16:30 | HKD | Low | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
+| 16:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.304% |
+| 19:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 0 | 0 |
+| 19:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 7 | 8 |
+| 19:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 2 | 1 |
+| 19:00 | GBP | High | BoE Interest Rate Decision (Sep) |  | 5.50% | 5.25% |
+| 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
+| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
+| 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
+| 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.50K |
+| 20:30 | USD | High | Philadelphia Fed Manufacturing Index (Sep) |  | -0.7 | 12.0 |
+| 20:30 | USD | Low | Philly Fed Business Conditions (Sep) |  |  | 3.9 |
+| 20:30 | USD | Low | Philly Fed CAPEX Index (Sep) |  |  | -4.50 |
+| 20:30 | USD | Moderate | Philly Fed Employment (Sep) |  |  | -6.0 |
+| 20:30 | USD | Low | Philly Fed New Orders (Sep) |  |  | 16.0 |
+| 20:30 | USD | Low | Philly Fed Prices Paid (Sep) |  |  | 20.80 |
+| 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
+| 21:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
+| 21:00 | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
+| 22:00 | USD | High | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
+| 22:00 | USD | Low | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
+| 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 22:00 | EUR | Low | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
+| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22:30 | USD | Low | Natural Gas Storage |  |  | 57B |
+| 22:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
+| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.295% |

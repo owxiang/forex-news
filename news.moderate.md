@@ -1,23 +1,30 @@
-## 20 September 2023 - Moderate Impact Forex News
+## 21 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 20-Year Bond Auction | 4.592% |  | 4.499% |
-| 01:45 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 04:30 | USD | API Weekly Crude Oil Stock | -5.250M | -2.667M | 1.174M |
-| 06:45 | NZD | Current Account (YoY) (Q2) | -29.76B |  | -33.03B |
-| 06:45 | NZD | Current Account (QoQ) (Q2) | -4.21B | -4.80B | -5.22B |
-| 07:50 | JPY | Adjusted Trade Balance | -0.56T | -0.56T | -0.60T |
-| 07:50 | JPY | Exports (YoY) (Aug) | -0.8% | -1.7% | -0.3% |
-| 07:50 | JPY | Trade Balance (Aug) | -930.5B | -659.1B | -66.3B |
-| 09:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 14:00 | GBP | CPI (MoM) (Aug) | 0.3% | 0.7% | -0.4% |
-| 14:00 | GBP | PPI Input (MoM) (Aug) | 0.4% | 0.2% | -0.4% |
-| 14:00 | EUR | German PPI (MoM) (Aug) | 0.3% | 0.2% | -1.1% |
-| 15:00 | EUR | ECB's Panetta Speaks |  |  |  |
-| 15:30 | EUR | ECB's Enria Speaks |  |  |  |
-| 17:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:50 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 20:00 | EUR | ECB McCaul Speaks |  |  |  |
-| 20:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 22:30 | USD | Cushing Crude Oil Inventories | -2.064M |  | -2.450M |
+| 02:00 | USD | Interest Rate Projection - 1st Yr (Q3) |  |  | 4.6% |
+| 02:00 | USD | Interest Rate Projection - 2nd Yr (Q3) |  |  | 3.4% |
+| 02:00 | USD | Interest Rate Projection - 3rd Yr (Q3) |  |  | 3.1% |
+| 02:00 | USD | Interest Rate Projection - Current (Q3) |  |  | 5.6% |
+| 02:00 | USD | Interest Rate Projection - Longer (Q3) |  |  | 2.5% |
+| 02:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 05:00 | BRL | Interest Rate Decision |  | 12.75% | 13.25% |
+| 05:00 | NZD | Westpac Consumer Sentiment |  |  | 83.1 |
+| 06:45 | EUR | ECB's Lane Speaks |  |  |  |
+| 15:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 15:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 16:00 | CHF | SNB Press Conference |  |  |  |
+| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | NOK | Interest Rate Decision |  | 4.25% | 4.00% |
+| 19:00 | GBP | BoE MPC vote cut (Sep) |  | 0 | 0 |
+| 19:00 | GBP | BoE MPC vote hike (Sep) |  | 7 | 8 |
+| 19:00 | GBP | BoE MPC vote unchanged (Sep) |  | 2 | 1 |
+| 19:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 19:30 | GBP | BOE Inflation Letter |  |  |  |
+| 20:30 | USD | Current Account (Q2) |  | -221.0B | -219.3B |
+| 20:30 | USD | Philly Fed Employment (Sep) |  |  | -6.0 |
+| 20:30 | CAD | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
+| 21:00 | ZAR | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
+| 22:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
+| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 22:40 | EUR | ECB's Schnabel Speaks |  |  |  |
