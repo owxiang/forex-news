@@ -3,13 +3,13 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 10-Year TIPS Auction | 2.094% |  | 1.495% |
-| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,099B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
+| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,099B |
+| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
 | 05:30 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
 | 06:45 | NZD | Low | Exports (Aug) |  |  | 5.45B |
 | 06:45 | NZD | Low | Imports (Aug) |  |  | 6.56B |
-| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -15,810M |
 | 06:45 | NZD | Low | Trade Balance (MoM) (Aug) |  |  | -1,107M |
+| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -15,810M |
 | 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 47.8 |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Sep) |  | -27 | -25 |
@@ -24,13 +24,13 @@
 | 09:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
 | 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
-| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
-| 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
+| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
+| 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
+| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 46.0 | 46.0 |
