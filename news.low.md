@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 10-Year TIPS Auction | 2.094% |  | 1.495% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.144T |  | 3.310T |
-| 31 min | NZD | Exports (Aug) |  |  | 5.45B |
-| 31 min | NZD | Imports (Aug) |  |  | 6.56B |
-| 31 min | NZD | Trade Balance (MoM) (Aug) |  |  | -1,107M |
-| 31 min | NZD | Trade Balance (YoY) (Aug) |  |  | -15,810M |
-| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
-| 46 min | AUD | Judo Bank Australia Services PMI |  |  | 47.8 |
-| 47 min | GBP | GfK Consumer Confidence (Sep) |  | -27 | -25 |
-| 07:30 | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
-| 07:30 | JPY | National CPI (YoY) (Aug) |  |  | 3.3% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | 3,631.9B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -854.7B |
+| 06:45 | NZD | Exports (Aug) | 4.99B |  | 5.38B |
+| 06:45 | NZD | Imports (Aug) | 7.28B |  | 6.55B |
+| 06:45 | NZD | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
+| 06:45 | NZD | Trade Balance (MoM) (Aug) | -2,291M |  | -1,177M |
+| 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
+| 07:00 | AUD | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
+| 07:01 | GBP | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
+| 15 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 15 min | JPY | National CPI (YoY) (Aug) |  |  | 3.3% |
+| 35 min | JPY | Foreign Bonds Buying |  |  | 3,631.9B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -854.7B |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.6 |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 09:30 | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |

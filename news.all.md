@@ -6,18 +6,18 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,024B |  | 8,099B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.144T |  | 3.310T |
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
-| 31 min | NZD | Low | Exports (Aug) |  |  | 5.45B |
-| 31 min | NZD | Low | Imports (Aug) |  |  | 6.56B |
-| 31 min | NZD | Low | Trade Balance (MoM) (Aug) |  |  | -1,107M |
-| 31 min | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -15,810M |
-| 46 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
-| 46 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 47.8 |
-| 47 min | GBP | Low | GfK Consumer Confidence (Sep) |  | -27 | -25 |
-| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
-| 07:30 | JPY | Moderate | National Core CPI (YoY) (Aug) |  | 3.0% | 3.1% |
-| 07:30 | JPY | Low | National CPI (YoY) (Aug) |  |  | 3.3% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 3,631.9B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -854.7B |
+| 06:45 | NZD | Low | Exports (Aug) | 4.99B |  | 5.38B |
+| 06:45 | NZD | Low | Imports (Aug) | 7.28B |  | 6.55B |
+| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
+| 06:45 | NZD | Low | Trade Balance (MoM) (Aug) | -2,291M |  | -1,177M |
+| 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
+| 07:00 | AUD | Low | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
+| 07:01 | GBP | Low | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
+| 15 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 15 min | JPY | Moderate | National Core CPI (YoY) (Aug) |  | 3.0% | 3.1% |
+| 15 min | JPY | Low | National CPI (YoY) (Aug) |  |  | 3.3% |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 3,631.9B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -854.7B |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.6 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.3 |
 | 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
@@ -29,8 +29,8 @@
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
+| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 46.0 | 46.0 |
