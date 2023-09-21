@@ -28,19 +28,19 @@
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
 | 14:45 | EUR | Low | French Business Survey (Sep) | 99 | 97 | 97 |
 | 15:00 | CHF | Low | M3 Money Supply (Aug) | 1,132.3B |  | 1,135.8B |
-| 6 min | IDR | Low | Loans (YoY) |  |  | 8.54% |
-| 16 min | CHF | High | SNB Interest Rate Decision (Q3) |  | 2.00% | 1.75% |
-| 16 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 16 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 16 min | IDR | Low | Deposit Facility Rate (Sep) |  | 5.00% | 5.00% |
-| 16 min | IDR | Low | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
-| 46 min | CHF | Moderate | SNB Press Conference |  |  |  |
-| 46 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 46 min | EUR | Low | Spanish Trade Balance |  |  | -2.36B |
-| 46 min | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.00% |
-| 16:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 0.00% |
-| 16:30 | HKD | Low | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
-| 16:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.304% |
+| 15:20 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
+| 15:20 | IDR | Low | Deposit Facility Rate (Sep) | 5.00% | 5.00% | 5.00% |
+| 15:20 | IDR | Low | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
+| 15:20 | IDR | Low | Loans (YoY) | 9.06% |  | 8.54% |
+| 15:30 | CHF | High | SNB Interest Rate Decision (Q3) | 1.75% | 2.00% | 1.75% |
+| 15:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 16:00 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:00 | EUR | Low | Spanish Trade Balance | -4.90B |  | -2.36B |
+| 16:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.00% |
+| 10 min | HKD | Low | CPI (MoM) (Aug) |  |  | 0.00% |
+| 10 min | HKD | Low | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
+| 20 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.304% |
 | 19:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 0 | 0 |
 | 19:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 7 | 8 |
 | 19:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 2 | 1 |

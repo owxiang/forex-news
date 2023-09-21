@@ -15,13 +15,13 @@
 | 14:00 | GBP | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
 | 14:45 | EUR | French Business Survey (Sep) | 99 | 97 | 97 |
 | 15:00 | CHF | M3 Money Supply (Aug) | 1,132.3B |  | 1,135.8B |
-| 6 min | IDR | Loans (YoY) |  |  | 8.54% |
-| 16 min | IDR | Deposit Facility Rate (Sep) |  | 5.00% | 5.00% |
-| 16 min | IDR | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
-| 46 min | EUR | Spanish Trade Balance |  |  | -2.36B |
-| 16:30 | HKD | CPI (MoM) (Aug) |  |  | 0.00% |
-| 16:30 | HKD | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
-| 16:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.304% |
+| 15:20 | IDR | Deposit Facility Rate (Sep) | 5.00% | 5.00% | 5.00% |
+| 15:20 | IDR | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
+| 15:20 | IDR | Loans (YoY) | 9.06% |  | 8.54% |
+| 16:00 | EUR | Spanish Trade Balance | -4.90B |  | -2.36B |
+| 10 min | HKD | CPI (MoM) (Aug) |  |  | 0.00% |
+| 10 min | HKD | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
+| 20 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.304% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
 | 20:00 | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:00 | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
