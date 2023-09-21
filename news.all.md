@@ -41,15 +41,15 @@
 | 16:30 | HKD | Low | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
 | 16:40 | EUR | Low | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
-| 19:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 0 | 0 |
-| 19:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 7 | 8 |
-| 19:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 2 | 1 |
-| 19:00 | GBP | High | BoE Interest Rate Decision (Sep) |  | 5.50% | 5.25% |
-| 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 42 min | GBP | Moderate | BoE MPC vote cut (Sep) |  | 0 | 0 |
+| 42 min | GBP | Moderate | BoE MPC vote hike (Sep) |  | 7 | 8 |
+| 42 min | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 2 | 1 |
+| 42 min | GBP | High | BoE Interest Rate Decision (Sep) |  | 5.50% | 5.25% |
+| 42 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
