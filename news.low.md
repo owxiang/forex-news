@@ -8,8 +8,8 @@
 | 06:45 | NZD | GDP Annual Average (Q2) | 3.2% |  | 2.9% |
 | 06:45 | NZD | GDP Expenditure (QoQ) (Q2) | 1.3% |  | -0.2% |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 09:30 | AUD | RBA Bulletin |  |  |  |
-| 09:30 | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 23 min | AUD | RBA Bulletin |  |  |  |
+| 23 min | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
 | 10:30 | HKD | Interest Rate Decision |  |  | 5.75% |
 | 11:00 | NZD | Credit Card Spending (YoY) |  |  | 3.6% |
 | 14:00 | GBP | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
