@@ -1,39 +1,34 @@
-## 21 September 2023 - Low Impact Forex News
+## 22 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 01:30 | BRL | Foreign Exchange Flows | -1.148B | -0.318B | -1.173B |
-| 06:45 | NZD | GDP (YoY) (Q2) | 1.8% | 1.2% | 2.2% |
-| 06:45 | NZD | GDP Annual Average (Q2) | 3.2% |  | 2.9% |
-| 06:45 | NZD | GDP Expenditure (QoQ) (Q2) | 1.3% |  | -0.2% |
-| 09:00 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
-| 09:30 | AUD | RBA Bulletin |  |  |  |
-| 09:30 | AUD | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
-| 11:00 | NZD | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
-| 14:00 | GBP | Public Sector Net Borrowing (Aug) | 10.76B | 9.80B | -1.20B |
-| 14:00 | GBP | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
-| 14:45 | EUR | French Business Survey (Sep) | 99 | 97 | 97 |
-| 15:00 | CHF | M3 Money Supply (Aug) | 1,132.3B |  | 1,135.8B |
-| 15:20 | IDR | Deposit Facility Rate (Sep) | 5.00% | 5.00% | 5.00% |
-| 15:20 | IDR | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
-| 15:20 | IDR | Loans (YoY) | 9.06% |  | 8.54% |
-| 16:00 | EUR | Spanish Trade Balance | -4.90B |  | -2.36B |
-| 16:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
-| 16:30 | HKD | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
-| 16:40 | EUR | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
-| 19:30 | INR | M3 Money Supply | 11.1% |  | 10.8% |
-| 20:00 | MXN | Retail Sales (MoM) (Jul) | 0.2% | 0.2% | 2.3% |
-| 20:00 | MXN | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
-| 20:30 | USD | Continuing Jobless Claims | 1,662K | 1,695K | 1,683K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 217.00K |  | 224.75K |
-| 20:30 | USD | Philly Fed Business Conditions (Sep) | 11.1 |  | 3.9 |
-| 20:30 | USD | Philly Fed CAPEX Index (Sep) | 7.50 |  | -4.50 |
-| 20:30 | USD | Philly Fed New Orders (Sep) | -10.2 |  | 16.0 |
-| 20:30 | USD | Philly Fed Prices Paid (Sep) | 25.70 |  | 20.80 |
-| 21:00 | ZAR | Prime Rate (Sep) | 11.75% |  | 11.75% |
-| 22:00 | USD | US Leading Index (MoM) (Aug) | -0.4% | -0.5% | -0.3% |
-| 22:00 | EUR | Consumer Confidence (Sep) | -17.8 | -16.5 | -16.0 |
-| 22:30 | USD | Natural Gas Storage | 64B | 67B | 57B |
-| 14 min | USD | 4-Week Bill Auction |  |  | 5.285% |
-| 14 min | USD | 8-Week Bill Auction |  |  | 5.295% |
+| 41 min | USD | 10-Year TIPS Auction |  |  | 1.495% |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
+| 06:45 | NZD | Exports (Aug) |  |  | 5.45B |
+| 06:45 | NZD | Imports (Aug) |  |  | 6.56B |
+| 06:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -15,810M |
+| 06:45 | NZD | Trade Balance (MoM) (Aug) |  |  | -1,107M |
+| 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
+| 07:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.8 |
+| 07:01 | GBP | GfK Consumer Confidence (Sep) |  | -27 | -25 |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 07:30 | JPY | National CPI (YoY) (Aug) |  |  | 3.3% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 3,631.9B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -854.7B |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.6 |
+| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 09:30 | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 15:00 | EUR | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
+| 15:15 | EUR | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
+| 15:30 | EUR | HCOB Germany Composite PMI (Sep) |  | 44.8 | 44.6 |
+| 18:00 | GBP | CBI Industrial Trends Orders (Sep) |  | -18 | -15 |
+| 19:30 | INR | Bank Loan Growth |  |  | 19.8% |
+| 19:30 | INR | Deposit Growth |  |  | 13.2% |
+| 19:30 | INR | FX Reserves, USD |  |  | 593.90B |
+| 20:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
+| 20:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
+| 20:00 | MXN | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
+| 20:00 | MXN | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
+| 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
+| 20:50 | USD | Fed Governor Cook Speaks |  |  |  |
+| 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |

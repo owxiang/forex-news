@@ -1,74 +1,62 @@
-## 21 September 2023 - All Forex News
+## 22 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows | -1.148B | -0.318B | -1.173B |
-| 02:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q3) | 5.1% |  | 4.6% |
-| 02:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q3) | 3.9% |  | 3.4% |
-| 02:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q3) | 2.9% |  | 3.1% |
-| 02:00 | USD | Moderate | Interest Rate Projection - Current (Q3) | 5.6% |  | 5.6% |
-| 02:00 | USD | Moderate | Interest Rate Projection - Longer (Q3) | 2.5% |  | 2.5% |
-| 02:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 02:00 | USD | High | FOMC Statement |  |  |  |
-| 02:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 02:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 02:30 | USD | High | FOMC Press Conference |  |  |  |
-| 05:30 | BRL | Moderate | Interest Rate Decision | 12.75% | 12.75% | 13.25% |
-| 06:45 | NZD | High | GDP (QoQ) (Q2) | 0.9% | 0.5% | 0.0% |
-| 06:45 | NZD | Low | GDP (YoY) (Q2) | 1.8% | 1.2% | 2.2% |
-| 06:45 | NZD | Low | GDP Annual Average (Q2) | 3.2% |  | 2.9% |
-| 06:45 | NZD | Low | GDP Expenditure (QoQ) (Q2) | 1.3% |  | -0.2% |
-| 06:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 09:00 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
-| 09:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 09:30 | AUD | Low | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
-| 11:00 | NZD | Low | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
-| 14:00 | GBP | Low | Public Sector Net Borrowing (Aug) | 10.76B | 9.80B | -1.20B |
-| 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
-| 14:45 | EUR | Low | French Business Survey (Sep) | 99 | 97 | 97 |
-| 15:00 | CHF | Low | M3 Money Supply (Aug) | 1,132.3B |  | 1,135.8B |
-| 15:20 | IDR | Moderate | Interest Rate Decision | 5.75% | 5.75% | 5.75% |
-| 15:20 | IDR | Low | Deposit Facility Rate (Sep) | 5.00% | 5.00% | 5.00% |
-| 15:20 | IDR | Low | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
-| 15:20 | IDR | Low | Loans (YoY) | 9.06% |  | 8.54% |
-| 15:30 | CHF | High | SNB Interest Rate Decision (Q3) | 1.75% | 2.00% | 1.75% |
-| 15:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 16:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | EUR | Low | Spanish Trade Balance | -4.90B |  | -2.36B |
-| 16:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.00% |
-| 16:30 | HKD | Low | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
-| 16:30 | HKD | Low | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
-| 16:40 | EUR | Low | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
-| 19:00 | GBP | Moderate | BoE MPC vote cut (Sep) | 0 | 0 | 0 |
-| 19:00 | GBP | Moderate | BoE MPC vote hike (Sep) | 4 | 7 | 8 |
-| 19:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) | 5 | 2 | 1 |
-| 19:00 | GBP | High | BoE Interest Rate Decision (Sep) | 5.25% | 5.50% | 5.25% |
-| 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 19:30 | INR | Low | M3 Money Supply | 11.1% |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.2% | 0.2% | 2.3% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
-| 20:30 | USD | Low | Continuing Jobless Claims | 1,662K | 1,695K | 1,683K |
-| 20:30 | USD | Moderate | Current Account (Q2) | -212.1B | -221.0B | -214.5B |
-| 20:30 | USD | High | Initial Jobless Claims | 201K | 225K | 221K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 217.00K |  | 224.75K |
-| 20:30 | USD | High | Philadelphia Fed Manufacturing Index (Sep) | -13.5 | -0.7 | 12.0 |
-| 20:30 | USD | Low | Philly Fed Business Conditions (Sep) | 11.1 |  | 3.9 |
-| 20:30 | USD | Low | Philly Fed CAPEX Index (Sep) | 7.50 |  | -4.50 |
-| 20:30 | USD | Moderate | Philly Fed Employment (Sep) | -5.7 |  | -6.0 |
-| 20:30 | USD | Low | Philly Fed New Orders (Sep) | -10.2 |  | 16.0 |
-| 20:30 | USD | Low | Philly Fed Prices Paid (Sep) | 25.70 |  | 20.80 |
-| 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | 0.1% | 0.0% | -0.1% |
-| 21:00 | ZAR | Moderate | Interest Rate Decision (Sep) | 8.25% | 8.25% | 8.25% |
-| 21:00 | ZAR | Low | Prime Rate (Sep) | 11.75% |  | 11.75% |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -0.7% |  | -2.2% |
-| 22:00 | USD | High | Existing Home Sales (Aug) | 4.04M | 4.10M | 4.07M |
-| 22:00 | USD | Low | US Leading Index (MoM) (Aug) | -0.4% | -0.5% | -0.3% |
-| 22:00 | EUR | Low | Consumer Confidence (Sep) | -17.8 | -16.5 | -16.0 |
-| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage | 64B | 67B | 57B |
-| 22:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
-| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.295% |
+| 41 min | USD | Low | 10-Year TIPS Auction |  |  | 1.495% |
+| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,099B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
+| 05:30 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
+| 06:45 | NZD | Low | Exports (Aug) |  |  | 5.45B |
+| 06:45 | NZD | Low | Imports (Aug) |  |  | 6.56B |
+| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) |  |  | -15,810M |
+| 06:45 | NZD | Low | Trade Balance (MoM) (Aug) |  |  | -1,107M |
+| 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
+| 07:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 47.8 |
+| 07:01 | GBP | Low | GfK Consumer Confidence (Sep) |  | -27 | -25 |
+| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 07:30 | JPY | Moderate | National Core CPI (YoY) (Aug) |  | 3.0% | 3.1% |
+| 07:30 | JPY | Low | National CPI (YoY) (Aug) |  |  | 3.3% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 3,631.9B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -854.7B |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.6 |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.3 |
+| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 09:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 11:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
+| 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
+| 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
+| 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
+| 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
+| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
+| 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |
+| 15:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
+| 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 46.0 | 46.0 |
+| 15:30 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 44.8 | 44.6 |
+| 15:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 39.5 | 39.1 |
+| 15:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 47.2 | 47.3 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.0 | 43.5 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 46.5 | 46.7 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 47.7 | 47.9 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.6 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 43.0 | 43.0 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.2 | 49.5 |
+| 18:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -18 | -15 |
+| 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 19:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
+| 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 593.90B |
+| 20:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
+| 20:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
+| 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
+| 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
+| 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |
+| 20:50 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
+| 21:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 50.2 |
+| 21:45 | USD | High | S&P Global Services PMI (Sep) |  | 50.6 | 50.5 |
+| 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
