@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 10-Year TIPS Auction | 2.094% |  | 1.495% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.144T |  | 3.310T |
-| 06:45 | NZD | Exports (Aug) |  |  | 5.45B |
-| 06:45 | NZD | Imports (Aug) |  |  | 6.56B |
-| 06:45 | NZD | Trade Balance (MoM) (Aug) |  |  | -1,107M |
-| 06:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -15,810M |
-| 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
-| 07:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.8 |
-| 07:01 | GBP | GfK Consumer Confidence (Sep) |  | -27 | -25 |
+| 31 min | NZD | Exports (Aug) |  |  | 5.45B |
+| 31 min | NZD | Imports (Aug) |  |  | 6.56B |
+| 31 min | NZD | Trade Balance (MoM) (Aug) |  |  | -1,107M |
+| 31 min | NZD | Trade Balance (YoY) (Aug) |  |  | -15,810M |
+| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
+| 46 min | AUD | Judo Bank Australia Services PMI |  |  | 47.8 |
+| 47 min | GBP | GfK Consumer Confidence (Sep) |  | -27 | -25 |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
 | 07:30 | JPY | National CPI (YoY) (Aug) |  |  | 3.3% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 3,631.9B |
@@ -27,8 +27,8 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 593.90B |
 | 20:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
 | 20:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 20:00 | MXN | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
 | 20:00 | MXN | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
+| 20:00 | MXN | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
 | 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:50 | USD | Fed Governor Cook Speaks |  |  |  |
 | 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
