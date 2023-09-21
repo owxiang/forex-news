@@ -10,7 +10,7 @@
 | 09:00 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
 | 09:30 | AUD | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
-| 40 min | NZD | Credit Card Spending (YoY) |  |  | 3.6% |
+| 11:00 | NZD | Credit Card Spending (YoY) |  |  | 3.6% |
 | 14:00 | GBP | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
 | 14:00 | GBP | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
 | 14:45 | EUR | French Business Survey (Sep) |  | 97 | 96 |
@@ -23,8 +23,8 @@
 | 16:30 | HKD | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
 | 16:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.304% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:00 | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
+| 20:00 | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
 | 20:30 | USD | Philly Fed Business Conditions (Sep) |  |  | 3.9 |
