@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | USD | Fed's Balance Sheet |  |  | 8,099B |
-| 05:30 | NZD | Westpac Consumer Sentiment |  |  | 83.1 |
+| 04:30 | USD | Fed's Balance Sheet | 8,024B |  | 8,099B |
+| 05:00 | NZD | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
 | 07:30 | JPY | National Core CPI (YoY) (Aug) |  | 3.0% | 3.1% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 54.3 |
 | 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |

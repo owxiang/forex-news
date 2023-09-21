@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Low | 10-Year TIPS Auction | 2.094% |  | 1.495% |
-| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,099B |
-| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
-| 05:30 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |
+| 04:30 | USD | Moderate | Fed's Balance Sheet | 8,024B |  | 8,099B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.144T |  | 3.310T |
+| 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
 | 06:45 | NZD | Low | Exports (Aug) |  |  | 5.45B |
 | 06:45 | NZD | Low | Imports (Aug) |  |  | 6.56B |
 | 06:45 | NZD | Low | Trade Balance (MoM) (Aug) |  |  | -1,107M |
@@ -50,8 +50,8 @@
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.90B |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |
