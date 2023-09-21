@@ -46,23 +46,23 @@
 | 19:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) | 5 | 2 | 1 |
 | 19:00 | GBP | High | BoE Interest Rate Decision (Sep) | 5.25% | 5.50% | 5.25% |
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 17 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 17 min | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 47 min | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
-| 47 min | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
-| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
-| 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
-| 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 224.50K |
-| 20:30 | USD | High | Philadelphia Fed Manufacturing Index (Sep) |  | -0.7 | 12.0 |
-| 20:30 | USD | Low | Philly Fed Business Conditions (Sep) |  |  | 3.9 |
-| 20:30 | USD | Low | Philly Fed CAPEX Index (Sep) |  |  | -4.50 |
-| 20:30 | USD | Moderate | Philly Fed Employment (Sep) |  |  | -6.0 |
-| 20:30 | USD | Low | Philly Fed New Orders (Sep) |  |  | 16.0 |
-| 20:30 | USD | Low | Philly Fed Prices Paid (Sep) |  |  | 20.80 |
-| 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
-| 21:00 | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
-| 21:00 | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
+| 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 19:30 | INR | Low | M3 Money Supply | 11.1% |  | 10.8% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.2% | 0.2% | 2.3% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
+| 20:30 | USD | Low | Continuing Jobless Claims | 1,662K | 1,695K | 1,683K |
+| 20:30 | USD | Moderate | Current Account (Q2) | -212.1B | -221.0B | -214.5B |
+| 20:30 | USD | High | Initial Jobless Claims | 201K | 225K | 221K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 217.00K |  | 224.75K |
+| 20:30 | USD | High | Philadelphia Fed Manufacturing Index (Sep) | -13.5 | -0.7 | 12.0 |
+| 20:30 | USD | Low | Philly Fed Business Conditions (Sep) | 11.1 |  | 3.9 |
+| 20:30 | USD | Low | Philly Fed CAPEX Index (Sep) | 7.50 |  | -4.50 |
+| 20:30 | USD | Moderate | Philly Fed Employment (Sep) | -5.7 |  | -6.0 |
+| 20:30 | USD | Low | Philly Fed New Orders (Sep) | -10.2 |  | 16.0 |
+| 20:30 | USD | Low | Philly Fed Prices Paid (Sep) | 25.70 |  | 20.80 |
+| 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | 0.1% | 0.0% | -0.1% |
+| 29 min | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
+| 29 min | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
 | 22:00 | USD | High | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
 | 22:00 | USD | Low | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |

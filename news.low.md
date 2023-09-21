@@ -22,16 +22,16 @@
 | 16:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
 | 16:40 | EUR | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
-| 17 min | INR | M3 Money Supply |  |  | 10.8% |
-| 47 min | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
-| 47 min | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,688K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
-| 20:30 | USD | Philly Fed Business Conditions (Sep) |  |  | 3.9 |
-| 20:30 | USD | Philly Fed CAPEX Index (Sep) |  |  | -4.50 |
-| 20:30 | USD | Philly Fed New Orders (Sep) |  |  | 16.0 |
-| 20:30 | USD | Philly Fed Prices Paid (Sep) |  |  | 20.80 |
-| 21:00 | ZAR | Prime Rate (Sep) |  |  | 11.75% |
+| 19:30 | INR | M3 Money Supply | 11.1% |  | 10.8% |
+| 20:00 | MXN | Retail Sales (MoM) (Jul) | 0.2% | 0.2% | 2.3% |
+| 20:00 | MXN | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
+| 20:30 | USD | Continuing Jobless Claims | 1,662K | 1,695K | 1,683K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 217.00K |  | 224.75K |
+| 20:30 | USD | Philly Fed Business Conditions (Sep) | 11.1 |  | 3.9 |
+| 20:30 | USD | Philly Fed CAPEX Index (Sep) | 7.50 |  | -4.50 |
+| 20:30 | USD | Philly Fed New Orders (Sep) | -10.2 |  | 16.0 |
+| 20:30 | USD | Philly Fed Prices Paid (Sep) | 25.70 |  | 20.80 |
+| 29 min | ZAR | Prime Rate (Sep) |  |  | 11.75% |
 | 22:00 | USD | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
 | 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:00 | EUR | Consumer Confidence (Sep) |  | -16.5 | -16.0 |

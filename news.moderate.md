@@ -19,11 +19,11 @@
 | 19:00 | GBP | BoE MPC vote hike (Sep) | 4 | 7 | 8 |
 | 19:00 | GBP | BoE MPC vote unchanged (Sep) | 5 | 2 | 1 |
 | 19:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 17 min | GBP | BOE Inflation Letter |  |  |  |
-| 20:30 | USD | Current Account (Q2) |  | -221.0B | -219.3B |
-| 20:30 | USD | Philly Fed Employment (Sep) |  |  | -6.0 |
-| 20:30 | CAD | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
-| 21:00 | ZAR | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
+| 19:30 | GBP | BOE Inflation Letter |  |  |  |
+| 20:30 | USD | Current Account (Q2) | -212.1B | -221.0B | -214.5B |
+| 20:30 | USD | Philly Fed Employment (Sep) | -5.7 |  | -6.0 |
+| 20:30 | CAD | New Housing Price Index (MoM) (Aug) | 0.1% | 0.0% | -0.1% |
+| 29 min | ZAR | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
 | 22:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 22:40 | EUR | ECB's Schnabel Speaks |  |  |  |
