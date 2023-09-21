@@ -24,10 +24,10 @@
 | 09:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Low | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
 | 11:00 | NZD | Low | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
-| 45 min | GBP | Low | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
-| 45 min | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
-| 14:45 | EUR | Low | French Business Survey (Sep) |  | 97 | 96 |
-| 15:00 | CHF | Low | M3 Money Supply (Aug) |  |  | 1,135.4B |
+| 14:00 | GBP | Low | Public Sector Net Borrowing (Aug) | 10.76B | 9.80B | -1.20B |
+| 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
+| 25 min | EUR | Low | French Business Survey (Sep) |  | 97 | 96 |
+| 40 min | CHF | Low | M3 Money Supply (Aug) |  |  | 1,135.4B |
 | 15:20 | IDR | Low | Loans (YoY) |  |  | 8.54% |
 | 15:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 2.00% | 1.75% |
 | 15:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |

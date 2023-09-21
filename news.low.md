@@ -11,10 +11,10 @@
 | 09:30 | AUD | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
 | 11:00 | NZD | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
-| 45 min | GBP | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
-| 45 min | GBP | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
-| 14:45 | EUR | French Business Survey (Sep) |  | 97 | 96 |
-| 15:00 | CHF | M3 Money Supply (Aug) |  |  | 1,135.4B |
+| 14:00 | GBP | Public Sector Net Borrowing (Aug) | 10.76B | 9.80B | -1.20B |
+| 14:00 | GBP | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
+| 25 min | EUR | French Business Survey (Sep) |  | 97 | 96 |
+| 40 min | CHF | M3 Money Supply (Aug) |  |  | 1,135.4B |
 | 15:20 | IDR | Loans (YoY) |  |  | 8.54% |
 | 15:30 | IDR | Deposit Facility Rate (Sep) |  | 5.00% | 5.00% |
 | 15:30 | IDR | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
