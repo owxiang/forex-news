@@ -22,9 +22,9 @@
 | 16:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
 | 16:40 | EUR | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
-| 19:30 | INR | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
-| 20:00 | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
+| 17 min | INR | M3 Money Supply |  |  | 10.8% |
+| 47 min | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
+| 47 min | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 224.50K |
 | 20:30 | USD | Philly Fed Business Conditions (Sep) |  |  | 3.9 |

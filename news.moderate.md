@@ -15,11 +15,11 @@
 | 16:00 | CHF | SNB Press Conference |  |  |  |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.00% |
-| 42 min | GBP | BoE MPC vote cut (Sep) |  | 0 | 0 |
-| 42 min | GBP | BoE MPC vote hike (Sep) |  | 7 | 8 |
-| 42 min | GBP | BoE MPC vote unchanged (Sep) |  | 2 | 1 |
-| 42 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 19:30 | GBP | BOE Inflation Letter |  |  |  |
+| 19:00 | GBP | BoE MPC vote cut (Sep) | 0 | 0 | 0 |
+| 19:00 | GBP | BoE MPC vote hike (Sep) | 4 | 7 | 8 |
+| 19:00 | GBP | BoE MPC vote unchanged (Sep) | 5 | 2 | 1 |
+| 19:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 17 min | GBP | BOE Inflation Letter |  |  |  |
 | 20:30 | USD | Current Account (Q2) |  | -221.0B | -219.3B |
 | 20:30 | USD | Philly Fed Employment (Sep) |  |  | -6.0 |
 | 20:30 | CAD | New Housing Price Index (MoM) (Aug) |  | 0.0% | -0.1% |
