@@ -11,4 +11,4 @@
 | 19:00 | GBP | BoE Interest Rate Decision (Sep) | 5.25% | 5.50% | 5.25% |
 | 20:30 | USD | Initial Jobless Claims | 201K | 225K | 221K |
 | 20:30 | USD | Philadelphia Fed Manufacturing Index (Sep) | -13.5 | -0.7 | 12.0 |
-| 40 min | USD | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
+| 22:00 | USD | Existing Home Sales (Aug) | 4.04M | 4.10M | 4.07M |
