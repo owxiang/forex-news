@@ -6,8 +6,8 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
 | 06:45 | NZD | Exports (Aug) |  |  | 5.45B |
 | 06:45 | NZD | Imports (Aug) |  |  | 6.56B |
-| 06:45 | NZD | Trade Balance (MoM) (Aug) |  |  | -1,107M |
 | 06:45 | NZD | Trade Balance (YoY) (Aug) |  |  | -15,810M |
+| 06:45 | NZD | Trade Balance (MoM) (Aug) |  |  | -1,107M |
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
 | 07:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.8 |
 | 07:01 | GBP | GfK Consumer Confidence (Sep) |  | -27 | -25 |
