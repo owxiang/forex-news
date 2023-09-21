@@ -23,7 +23,7 @@
 | 09:00 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
 | 09:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Low | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
-| 11:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 3.6% |
+| 11:00 | NZD | Low | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
 | 14:45 | EUR | Low | French Business Survey (Sep) |  | 97 | 96 |
@@ -69,7 +69,7 @@
 | 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
 | 22:00 | EUR | Low | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage |  |  | 57B |
+| 22:30 | USD | Low | Natural Gas Storage |  | 67B | 57B |
 | 22:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.295% |
