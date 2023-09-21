@@ -10,11 +10,11 @@
 | 02:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 05:30 | BRL | Interest Rate Decision | 12.75% | 12.75% | 13.25% |
 | 06:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 15:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 15:30 | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
-| 16:00 | CHF | SNB Press Conference |  |  |  |
-| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | NOK | Interest Rate Decision |  | 4.25% | 4.00% |
+| 16 min | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 16 min | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 46 min | CHF | SNB Press Conference |  |  |  |
+| 46 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 46 min | NOK | Interest Rate Decision |  | 4.25% | 4.00% |
 | 19:00 | GBP | BoE MPC vote cut (Sep) |  | 0 | 0 |
 | 19:00 | GBP | BoE MPC vote hike (Sep) |  | 7 | 8 |
 | 19:00 | GBP | BoE MPC vote unchanged (Sep) |  | 2 | 1 |

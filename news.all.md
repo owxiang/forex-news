@@ -26,18 +26,18 @@
 | 11:00 | NZD | Low | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Aug) | 10.76B | 9.80B | -1.20B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) | 2.468B |  | -7.543B |
-| 25 min | EUR | Low | French Business Survey (Sep) |  | 97 | 96 |
-| 40 min | CHF | Low | M3 Money Supply (Aug) |  |  | 1,135.4B |
-| 15:20 | IDR | Low | Loans (YoY) |  |  | 8.54% |
-| 15:30 | CHF | High | SNB Interest Rate Decision (Q3) |  | 2.00% | 1.75% |
-| 15:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 15:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 15:30 | IDR | Low | Deposit Facility Rate (Sep) |  | 5.00% | 5.00% |
-| 15:30 | IDR | Low | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
-| 16:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | EUR | Low | Spanish Trade Balance |  |  | -2.36B |
-| 16:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.00% |
+| 14:45 | EUR | Low | French Business Survey (Sep) | 99 | 97 | 97 |
+| 15:00 | CHF | Low | M3 Money Supply (Aug) | 1,132.3B |  | 1,135.8B |
+| 6 min | IDR | Low | Loans (YoY) |  |  | 8.54% |
+| 16 min | CHF | High | SNB Interest Rate Decision (Q3) |  | 2.00% | 1.75% |
+| 16 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 16 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 16 min | IDR | Low | Deposit Facility Rate (Sep) |  | 5.00% | 5.00% |
+| 16 min | IDR | Low | Lending Facility Rate (Sep) |  | 6.50% | 6.50% |
+| 46 min | CHF | Moderate | SNB Press Conference |  |  |  |
+| 46 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 46 min | EUR | Low | Spanish Trade Balance |  |  | -2.36B |
+| 46 min | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.00% |
 | 16:30 | HKD | Low | CPI (MoM) (Aug) |  |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
 | 16:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.304% |
@@ -48,8 +48,8 @@
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
