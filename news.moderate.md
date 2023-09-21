@@ -23,7 +23,7 @@
 | 20:30 | USD | Current Account (Q2) | -212.1B | -221.0B | -214.5B |
 | 20:30 | USD | Philly Fed Employment (Sep) | -5.7 |  | -6.0 |
 | 20:30 | CAD | New Housing Price Index (MoM) (Aug) | 0.1% | 0.0% | -0.1% |
-| 29 min | ZAR | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
-| 22:00 | USD | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
-| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | ZAR | Interest Rate Decision (Sep) | 8.25% | 8.25% | 8.25% |
+| 40 min | USD | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
+| 40 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 22:40 | EUR | ECB's Schnabel Speaks |  |  |  |

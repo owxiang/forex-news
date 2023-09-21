@@ -61,14 +61,14 @@
 | 20:30 | USD | Low | Philly Fed New Orders (Sep) | -10.2 |  | 16.0 |
 | 20:30 | USD | Low | Philly Fed Prices Paid (Sep) | 25.70 |  | 20.80 |
 | 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | 0.1% | 0.0% | -0.1% |
-| 29 min | ZAR | Moderate | Interest Rate Decision (Sep) |  | 8.25% | 8.25% |
-| 29 min | ZAR | Low | Prime Rate (Sep) |  |  | 11.75% |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
-| 22:00 | USD | High | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
-| 22:00 | USD | Low | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
-| 22:00 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 22:00 | EUR | Low | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
-| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | ZAR | Moderate | Interest Rate Decision (Sep) | 8.25% | 8.25% | 8.25% |
+| 21:00 | ZAR | Low | Prime Rate (Sep) | 11.75% |  | 11.75% |
+| 40 min | USD | Moderate | Existing Home Sales (MoM) (Aug) |  |  | -2.2% |
+| 40 min | USD | High | Existing Home Sales (Aug) |  | 4.10M | 4.07M |
+| 40 min | USD | Low | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
+| 40 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 40 min | EUR | Low | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
+| 40 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 22:30 | USD | Low | Natural Gas Storage |  | 67B | 57B |
 | 22:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |

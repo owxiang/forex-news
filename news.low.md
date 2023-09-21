@@ -31,10 +31,10 @@
 | 20:30 | USD | Philly Fed CAPEX Index (Sep) | 7.50 |  | -4.50 |
 | 20:30 | USD | Philly Fed New Orders (Sep) | -10.2 |  | 16.0 |
 | 20:30 | USD | Philly Fed Prices Paid (Sep) | 25.70 |  | 20.80 |
-| 29 min | ZAR | Prime Rate (Sep) |  |  | 11.75% |
-| 22:00 | USD | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
-| 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 22:00 | EUR | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
+| 21:00 | ZAR | Prime Rate (Sep) | 11.75% |  | 11.75% |
+| 40 min | USD | US Leading Index (MoM) (Aug) |  | -0.5% | -0.4% |
+| 40 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 40 min | EUR | Consumer Confidence (Sep) |  | -16.5 | -16.0 |
 | 22:30 | USD | Natural Gas Storage |  | 67B | 57B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.295% |
