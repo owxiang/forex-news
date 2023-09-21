@@ -24,8 +24,8 @@
 | 09:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 09:30 | AUD | Low | Reserve Assets Total (Aug) | 93,882.0B |  | 91,407.0B |
 | 11:00 | NZD | Low | Credit Card Spending (YoY) | 4.2% |  | 4.0% |
-| 14:00 | GBP | Low | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
-| 14:00 | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
+| 45 min | GBP | Low | Public Sector Net Borrowing (Aug) |  | 9.80B | 3.48B |
+| 45 min | GBP | Low | Public Sector Net Cash Requirement (Aug) |  |  | -7.474B |
 | 14:45 | EUR | Low | French Business Survey (Sep) |  | 97 | 96 |
 | 15:00 | CHF | Low | M3 Money Supply (Aug) |  |  | 1,135.4B |
 | 15:20 | IDR | Low | Loans (YoY) |  |  | 8.54% |
@@ -48,8 +48,8 @@
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,695K | 1,688K |
 | 20:30 | USD | Moderate | Current Account (Q2) |  | -221.0B | -219.3B |
 | 20:30 | USD | High | Initial Jobless Claims |  | 225K | 220K |
