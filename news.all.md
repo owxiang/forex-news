@@ -38,9 +38,9 @@
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | EUR | Low | Spanish Trade Balance | -4.90B |  | -2.36B |
 | 16:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.00% |
-| 10 min | HKD | Low | CPI (MoM) (Aug) |  |  | 0.00% |
-| 10 min | HKD | Low | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
-| 20 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.304% |
+| 16:30 | HKD | Low | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
+| 16:30 | HKD | Low | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
+| 16:40 | EUR | Low | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
 | 19:00 | GBP | Moderate | BoE MPC vote cut (Sep) |  | 0 | 0 |
 | 19:00 | GBP | Moderate | BoE MPC vote hike (Sep) |  | 7 | 8 |
 | 19:00 | GBP | Moderate | BoE MPC vote unchanged (Sep) |  | 2 | 1 |

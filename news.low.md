@@ -19,9 +19,9 @@
 | 15:20 | IDR | Lending Facility Rate (Sep) | 6.50% | 6.50% | 6.50% |
 | 15:20 | IDR | Loans (YoY) | 9.06% |  | 8.54% |
 | 16:00 | EUR | Spanish Trade Balance | -4.90B |  | -2.36B |
-| 10 min | HKD | CPI (MoM) (Aug) |  |  | 0.00% |
-| 10 min | HKD | CPI (YoY) (Aug) |  | 2.00% | 1.80% |
-| 20 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.304% |
+| 16:30 | HKD | CPI (MoM) (Aug) | 0.00% |  | 0.00% |
+| 16:30 | HKD | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
+| 16:40 | EUR | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
 | 20:00 | MXN | Retail Sales (YoY) (Jul) |  | 4.9% | 5.9% |
 | 20:00 | MXN | Retail Sales (MoM) (Jul) |  | 0.2% | 2.3% |
