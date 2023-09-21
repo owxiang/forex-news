@@ -23,8 +23,8 @@
 | 16:30 | HKD | CPI (YoY) (Aug) | 1.80% | 2.00% | 1.80% |
 | 16:40 | EUR | Spanish 3-Year Bonos Auction | 3.527% |  | 3.304% |
 | 19:30 | INR | M3 Money Supply | 11.1% |  | 10.8% |
-| 20:00 | MXN | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
 | 20:00 | MXN | Retail Sales (MoM) (Jul) | 0.2% | 0.2% | 2.3% |
+| 20:00 | MXN | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
 | 20:30 | USD | Continuing Jobless Claims | 1,662K | 1,695K | 1,683K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 217.00K |  | 224.75K |
 | 20:30 | USD | Philly Fed Business Conditions (Sep) | 11.1 |  | 3.9 |
@@ -34,6 +34,6 @@
 | 21:00 | ZAR | Prime Rate (Sep) | 11.75% |  | 11.75% |
 | 22:00 | USD | US Leading Index (MoM) (Aug) | -0.4% | -0.5% | -0.3% |
 | 22:00 | EUR | Consumer Confidence (Sep) | -17.8 | -16.5 | -16.0 |
-| 15 min | USD | Natural Gas Storage |  | 67B | 57B |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.295% |
+| 22:30 | USD | Natural Gas Storage | 64B | 67B | 57B |
+| 14 min | USD | 4-Week Bill Auction |  |  | 5.285% |
+| 14 min | USD | 8-Week Bill Auction |  |  | 5.295% |

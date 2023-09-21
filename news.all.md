@@ -48,8 +48,8 @@
 | 19:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 19:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply | 11.1% |  | 10.8% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Jul) | 0.2% | 0.2% | 2.3% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Jul) | 5.1% | 4.9% | 5.9% |
 | 20:30 | USD | Low | Continuing Jobless Claims | 1,662K | 1,695K | 1,683K |
 | 20:30 | USD | Moderate | Current Account (Q2) | -212.1B | -221.0B | -214.5B |
 | 20:30 | USD | High | Initial Jobless Claims | 201K | 225K | 221K |
@@ -63,12 +63,12 @@
 | 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Aug) | 0.1% | 0.0% | -0.1% |
 | 21:00 | ZAR | Moderate | Interest Rate Decision (Sep) | 8.25% | 8.25% | 8.25% |
 | 21:00 | ZAR | Low | Prime Rate (Sep) | 11.75% |  | 11.75% |
-| 22:00 | USD | High | Existing Home Sales (Aug) | 4.04M | 4.10M | 4.07M |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Aug) | -0.7% |  | -2.2% |
+| 22:00 | USD | High | Existing Home Sales (Aug) | 4.04M | 4.10M | 4.07M |
 | 22:00 | USD | Low | US Leading Index (MoM) (Aug) | -0.4% | -0.5% | -0.3% |
 | 22:00 | EUR | Low | Consumer Confidence (Sep) | -17.8 | -16.5 | -16.0 |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15 min | USD | Low | Natural Gas Storage |  | 67B | 57B |
-| 25 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.295% |
+| 22:30 | USD | Low | Natural Gas Storage | 64B | 67B | 57B |
+| 22:40 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.295% |

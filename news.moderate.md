@@ -26,4 +26,4 @@
 | 21:00 | ZAR | Interest Rate Decision (Sep) | 8.25% | 8.25% | 8.25% |
 | 22:00 | USD | Existing Home Sales (MoM) (Aug) | -0.7% |  | -2.2% |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 25 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 22:40 | EUR | ECB's Schnabel Speaks |  |  |  |
