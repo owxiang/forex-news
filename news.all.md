@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | USD | Low | 10-Year TIPS Auction |  |  | 1.495% |
+| 01:00 | USD | Low | 10-Year TIPS Auction | 2.094% |  | 1.495% |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,099B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
 | 05:30 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 83.1 |

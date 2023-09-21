@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | USD | 10-Year TIPS Auction |  |  | 1.495% |
+| 01:00 | USD | 10-Year TIPS Auction | 2.094% |  | 1.495% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.310T |
 | 06:45 | NZD | Exports (Aug) |  |  | 5.45B |
 | 06:45 | NZD | Imports (Aug) |  |  | 6.56B |
