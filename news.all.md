@@ -8,8 +8,8 @@
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
 | 06:45 | NZD | Low | Exports (Aug) | 4.99B |  | 5.38B |
 | 06:45 | NZD | Low | Imports (Aug) | 7.28B |  | 6.55B |
-| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
 | 06:45 | NZD | Low | Trade Balance (MoM) (Aug) | -2,291M |  | -1,177M |
+| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
 | 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
@@ -21,25 +21,25 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
 | 10:52 | JPY | Moderate | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
 | 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 0.6% | 0.6% | -1.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) | -1.4% | -1.3% | -3.3% |
+| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) | 0.6% | 0.6% | -1.4% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) | 0.4% | 0.5% | -1.1% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) | -1.4% | -1.2% | -3.1% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) | 0.5% | 0.4% | 0.6% |
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) | 2.2% | 1.8% | 4.2% |
-| 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |
-| 15:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
-| 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 46.0 | 46.0 |
-| 16 min | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 44.8 | 44.6 |
-| 16 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 39.5 | 39.1 |
-| 16 min | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 47.2 | 47.3 |
-| 46 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 44.0 | 43.5 |
-| 46 min | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 46.5 | 46.7 |
-| 46 min | EUR | Moderate | HCOB Eurozone Services PMI (Sep) |  | 47.7 | 47.9 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.6 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 43.0 | 43.0 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.2 | 49.5 |
+| 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 43.6 | 46.0 | 46.0 |
+| 15:15 | EUR | Low | HCOB France Composite PMI (Sep) | 43.5 | 46.0 | 46.0 |
+| 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) | 43.9 | 46.0 | 46.0 |
+| 15:30 | EUR | Low | HCOB Germany Composite PMI (Sep) | 46.2 | 44.8 | 44.6 |
+| 15:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 39.8 | 39.5 | 39.1 |
+| 15:30 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 49.8 | 47.2 | 47.3 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 43.4 | 44.0 | 43.5 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 47.1 | 46.5 | 46.7 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 48.4 | 47.7 | 47.9 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.6 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 43.0 | 43.0 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.2 | 49.5 |
 | 18:00 | GBP | Low | CBI Industrial Trends Orders (Sep) |  | -18 | -15 |
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
@@ -47,8 +47,8 @@
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.90B |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |
