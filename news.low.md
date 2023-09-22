@@ -6,8 +6,8 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.144T |  | 3.310T |
 | 06:45 | NZD | Exports (Aug) | 4.99B |  | 5.38B |
 | 06:45 | NZD | Imports (Aug) | 7.28B |  | 6.55B |
-| 06:45 | NZD | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
 | 06:45 | NZD | Trade Balance (MoM) (Aug) | -2,291M |  | -1,177M |
+| 06:45 | NZD | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
 | 07:00 | AUD | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
 | 07:01 | GBP | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
@@ -21,11 +21,10 @@
 | 18:00 | GBP | CBI Industrial Trends Orders (Sep) | -18 | -18 | -15 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Sep) | 0.27% | 0.25% | 0.19% |
 | 20:00 | MXN | 1st Half-Month CPI (Sep) | 0.25% | 0.29% | 0.32% |
-| 20:00 | MXN | Economic Activity (MoM) (Jul) | 0.20% | 0.30% | 0.50% |
 | 20:00 | MXN | Economic Activity (YoY) (Jul) | 3.20% | 3.50% | 4.10% |
+| 20:00 | MXN | Economic Activity (MoM) (Jul) | 0.20% | 0.30% | 0.50% |
 | 20:20 | INR | Bank Loan Growth | 19.8% |  | 19.8% |
 | 20:20 | INR | Deposit Growth | 13.6% |  | 13.2% |
 | 20:20 | INR | FX Reserves, USD | 593.04B |  | 593.90B |
-| 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
-| 20 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 20:50 | USD | Fed Governor Cook Speaks |  |  |  |
+| 41 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |

@@ -8,8 +8,8 @@
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
 | 10:52 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
 | 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 14:00 | GBP | Core Retail Sales (MoM) (Aug) | 0.6% | 0.6% | -1.4% |
 | 14:00 | GBP | Core Retail Sales (YoY) (Aug) | -1.4% | -1.3% | -3.3% |
+| 14:00 | GBP | Core Retail Sales (MoM) (Aug) | 0.6% | 0.6% | -1.4% |
 | 14:00 | GBP | Retail Sales (MoM) (Aug) | 0.4% | 0.5% | -1.1% |
 | 14:00 | GBP | Retail Sales (YoY) (Aug) | -1.4% | -1.2% | -3.1% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
@@ -27,5 +27,5 @@
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 20:30 | CAD | Core Retail Sales (MoM) (Jul) | 1.0% | 0.5% | -0.7% |
 | 20:30 | CAD | Retail Sales (MoM) (Jul) | 0.3% | 0.4% | 0.1% |
-| 21:45 | USD | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
-| 21:45 | USD | S&P Global Composite PMI (Sep) |  |  | 50.2 |
+| 26 min | USD | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
+| 26 min | USD | S&P Global Composite PMI (Sep) |  |  | 50.2 |

@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:45 | USD | S&P Global Services PMI (Sep) |  | 50.6 | 50.5 |
+| 26 min | USD | S&P Global Services PMI (Sep) |  | 50.6 | 50.5 |
