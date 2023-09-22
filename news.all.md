@@ -19,12 +19,12 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,583.9B |  | -851.8B |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.6 | 49.9 | 49.6 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
-| 38 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 38 min | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 10:52 | JPY | Moderate | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
+| 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 12:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
 | 13:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
-| 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
+| 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -49,8 +49,8 @@
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.90B |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |

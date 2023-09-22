@@ -26,8 +26,8 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 593.90B |
 | 20:00 | MXN | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
 | 20:00 | MXN | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 20:00 | MXN | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
 | 20:00 | MXN | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
+| 20:00 | MXN | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
 | 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:50 | USD | Fed Governor Cook Speaks |  |  |  |
 | 22:00 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
