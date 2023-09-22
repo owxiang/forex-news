@@ -6,12 +6,12 @@
 | 05:00 | NZD | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
 | 07:30 | JPY | National Core CPI (YoY) (Aug) | 3.1% | 3.0% | 3.1% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
-| 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 11:00 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 38 min | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 38 min | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 14:00 | GBP | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
 | 14:00 | GBP | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
-| 14:00 | GBP | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:00 | GBP | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
+| 14:00 | GBP | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
 | 15:15 | EUR | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |

@@ -15,9 +15,8 @@
 | 07:50 | JPY | Foreign Bonds Buying | 885.5B |  | 3,631.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -1,583.9B |  | -851.8B |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.6 | 49.9 | 49.6 |
-| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 22 min | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
-| 22 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 12:30 | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 13:30 | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
 | 15:00 | EUR | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
 | 15:15 | EUR | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Sep) |  | 44.8 | 44.6 |

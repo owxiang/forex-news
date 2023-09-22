@@ -19,15 +19,14 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,583.9B |  | -851.8B |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.6 | 49.9 | 49.6 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
-| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 22 min | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
-| 22 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
-| 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 11:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 38 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 38 min | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 12:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 13:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
-| 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
+| 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
