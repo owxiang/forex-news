@@ -52,7 +52,6 @@
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | 1.0% | 0.5% | -0.7% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | 0.3% | 0.4% | 0.1% |
 | 20:50 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 26 min | USD | Moderate | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
-| 26 min | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 50.2 |
-| 26 min | USD | High | S&P Global Services PMI (Sep) |  | 50.6 | 50.5 |
-| 41 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Sep) | 48.9 | 48.0 | 47.9 |
+| 21:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 50.1 |  | 50.2 |
+| 21:45 | USD | High | S&P Global Services PMI (Sep) | 50.2 | 50.6 | 50.5 |

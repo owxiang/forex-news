@@ -27,4 +27,3 @@
 | 20:20 | INR | Deposit Growth | 13.6% |  | 13.2% |
 | 20:20 | INR | FX Reserves, USD | 593.04B |  | 593.90B |
 | 20:50 | USD | Fed Governor Cook Speaks |  |  |  |
-| 41 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |

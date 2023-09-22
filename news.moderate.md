@@ -27,5 +27,5 @@
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 20:30 | CAD | Core Retail Sales (MoM) (Jul) | 1.0% | 0.5% | -0.7% |
 | 20:30 | CAD | Retail Sales (MoM) (Jul) | 0.3% | 0.4% | 0.1% |
-| 26 min | USD | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
-| 26 min | USD | S&P Global Composite PMI (Sep) |  |  | 50.2 |
+| 21:45 | USD | S&P Global US Manufacturing PMI (Sep) | 48.9 | 48.0 | 47.9 |
+| 21:45 | USD | S&P Global Composite PMI (Sep) | 50.1 |  | 50.2 |
