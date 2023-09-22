@@ -8,8 +8,8 @@
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
 | 06:45 | NZD | Low | Exports (Aug) | 4.99B |  | 5.38B |
 | 06:45 | NZD | Low | Imports (Aug) | 7.28B |  | 6.55B |
-| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
 | 06:45 | NZD | Low | Trade Balance (MoM) (Aug) | -2,291M |  | -1,177M |
+| 06:45 | NZD | Low | Trade Balance (YoY) (Aug) | -15,540M |  | -15,880M |
 | 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
@@ -21,15 +21,15 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
 | 10:52 | JPY | Moderate | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
 | 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 12:30 | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
+| 12 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
 | 13:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
 | 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.6% | -1.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
-| 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
+| 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
+| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 46.0 | 46.0 |
@@ -49,8 +49,8 @@
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.90B |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |
