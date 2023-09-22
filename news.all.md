@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 515 |
-| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 641 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 507 |  | 515 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 630 |  | 641 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 46.2K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.1K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -12.3K |
