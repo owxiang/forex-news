@@ -42,17 +42,17 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 47.2 | 49.2 | 49.5 |
 | 18:00 | GBP | Low | CBI Industrial Trends Orders (Sep) | -18 | -18 | -15 |
 | 19:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 18 min | INR | Low | Bank Loan Growth |  |  | 19.8% |
-| 18 min | INR | Low | Deposit Growth |  |  | 13.2% |
-| 18 min | INR | Low | FX Reserves, USD |  |  | 593.90B |
-| 48 min | MXN | Low | 1st Half-Month Core CPI (Sep) |  | 0.25% | 0.19% |
-| 48 min | MXN | Low | 1st Half-Month CPI (Sep) |  | 0.29% | 0.32% |
-| 48 min | MXN | Low | Economic Activity (YoY) (Jul) |  | 3.50% | 4.10% |
-| 48 min | MXN | Low | Economic Activity (MoM) (Jul) |  | 0.30% | 0.50% |
-| 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
+| 20:00 | MXN | Low | 1st Half-Month Core CPI (Sep) | 0.27% | 0.25% | 0.19% |
+| 20:00 | MXN | Low | 1st Half-Month CPI (Sep) | 0.25% | 0.29% | 0.32% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Jul) | 0.20% | 0.30% | 0.50% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Jul) | 3.20% | 3.50% | 4.10% |
+| 20:20 | INR | Low | Bank Loan Growth | 19.8% |  | 19.8% |
+| 20:20 | INR | Low | Deposit Growth | 13.6% |  | 13.2% |
+| 20:20 | INR | Low | FX Reserves, USD | 593.04B |  | 593.90B |
+| 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Jul) | 1.0% | 0.5% | -0.7% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
-| 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |
-| 20:50 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 20:30 | CAD | Moderate | Retail Sales (MoM) (Jul) | 0.3% | 0.4% | 0.1% |
+| 20 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  |  | 50.2 |
 | 21:45 | USD | High | S&P Global Services PMI (Sep) |  | 50.6 | 50.5 |

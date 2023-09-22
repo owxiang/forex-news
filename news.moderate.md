@@ -25,7 +25,7 @@
 | 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 44.2 | 43.0 | 43.0 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI | 47.2 | 49.2 | 49.5 |
 | 19:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 20:30 | CAD | Core Retail Sales (MoM) (Jul) |  | 0.5% | -0.8% |
-| 20:30 | CAD | Retail Sales (MoM) (Jul) |  | 0.4% | 0.1% |
+| 20:30 | CAD | Core Retail Sales (MoM) (Jul) | 1.0% | 0.5% | -0.7% |
+| 20:30 | CAD | Retail Sales (MoM) (Jul) | 0.3% | 0.4% | 0.1% |
 | 21:45 | USD | S&P Global US Manufacturing PMI (Sep) |  | 48.0 | 47.9 |
 | 21:45 | USD | S&P Global Composite PMI (Sep) |  |  | 50.2 |
