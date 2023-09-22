@@ -11,13 +11,13 @@
 | 07:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
 | 07:00 | AUD | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
 | 07:01 | GBP | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
-| 15 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
-| 15 min | JPY | National CPI (YoY) (Aug) |  |  | 3.3% |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 3,631.9B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -854.7B |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.6 |
+| 07:30 | JPY | National CPI (YoY) (Aug) | 3.2% |  | 3.3% |
+| 07:50 | JPY | Foreign Bonds Buying | 885.5B |  | 3,631.5B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | -1,583.9B |  | -851.8B |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.6 | 49.9 | 49.6 |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
-| 09:30 | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 22 min | AUD | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 22 min | JPY | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
 | 15:00 | EUR | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
 | 15:15 | EUR | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Sep) |  | 44.8 | 44.6 |

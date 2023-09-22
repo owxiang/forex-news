@@ -13,15 +13,15 @@
 | 07:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 |  | 49.6 |
 | 07:00 | AUD | Low | Judo Bank Australia Services PMI | 50.5 |  | 47.8 |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Sep) | -21 | -27 | -25 |
-| 15 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
-| 15 min | JPY | Moderate | National Core CPI (YoY) (Aug) |  | 3.0% | 3.1% |
-| 15 min | JPY | Low | National CPI (YoY) (Aug) |  |  | 3.3% |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 3,631.9B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -854.7B |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) |  | 49.9 | 49.6 |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.3 |
+| 07:30 | JPY | Moderate | National Core CPI (YoY) (Aug) | 3.1% | 3.0% | 3.1% |
+| 07:30 | JPY | Low | National CPI (YoY) (Aug) | 3.2% |  | 3.3% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 885.5B |  | 3,631.5B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -1,583.9B |  | -851.8B |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.6 | 49.9 | 49.6 |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
 | 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
-| 09:30 | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 22 min | AUD | Low | Reserve Assets Total (Aug) |  |  | 91.4B |
+| 22 min | JPY | Low | CPI, n.s.a (MoM) (Aug) |  |  | 0.5% |
 | 11:00 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
@@ -29,8 +29,8 @@
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Aug) |  | -1.2% | -3.2% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -1.2% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q2) |  | 0.4% | 0.6% |
+| 15:00 | EUR | Low | Spanish GDP (YoY) (Q2) |  | 1.8% | 4.2% |
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Sep) |  | 46.0 | 46.0 |
 | 15:15 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 46.0 | 46.0 |

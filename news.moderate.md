@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | Fed's Balance Sheet | 8,024B |  | 8,099B |
 | 05:00 | NZD | Westpac Consumer Sentiment (Q3) | 80.2 |  | 83.1 |
-| 15 min | JPY | National Core CPI (YoY) (Aug) |  | 3.0% | 3.1% |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 54.3 |
+| 07:30 | JPY | National Core CPI (YoY) (Aug) | 3.1% | 3.0% | 3.1% |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
 | 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 14:00 | GBP | Core Retail Sales (YoY) (Aug) |  | -1.3% | -3.4% |
