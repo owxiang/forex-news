@@ -8,8 +8,8 @@
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 53.3 |  | 54.3 |
 | 10:52 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
 | 11:00 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 14:00 | GBP | Core Retail Sales (YoY) (Aug) | -1.4% | -1.3% | -3.3% |
 | 14:00 | GBP | Core Retail Sales (MoM) (Aug) | 0.6% | 0.6% | -1.4% |
+| 14:00 | GBP | Core Retail Sales (YoY) (Aug) | -1.4% | -1.3% | -3.3% |
 | 14:00 | GBP | Retail Sales (MoM) (Aug) | 0.4% | 0.5% | -1.1% |
 | 14:00 | GBP | Retail Sales (YoY) (Aug) | -1.4% | -1.2% | -3.1% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
