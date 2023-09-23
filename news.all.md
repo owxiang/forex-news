@@ -1,26 +1,27 @@
-## 23 September 2023 - All Forex News
+## 25 September 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 507 |  | 515 |
-| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 630 |  | 641 |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | 33.7K |  | 46.2K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 6.4K |  | 5.1K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -16.3K |  | -12.3K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -101.2K |  | -88.0K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 328.4K |  | 326.9K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 135.2K |  | 123.9K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 3.2K |  | 9.1K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -93.9K |  | -112.0K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -139.0K |  | -116.3K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 15.2K |  | 18.0K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 62.7K |  | 85.2K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -56.9K |  | -49.6K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -48.0K |  | -41.9K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 63.6K |  | 66.9K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -7.9K |  | -9.3K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -96.9K |  | -79.5K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 12.9K |  | 13.2K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -101.6K |  | -98.7K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | -21.3K |  | -14.6K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 102.0K |  | 113.1K |
+| 08:24 | BRL | Low | Current Account (USD) (Aug) |  |  | -3.60B |
+| 08:24 | BRL | Low | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
+| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
+| 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.40% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Aug) |  | 3.50% | 3.80% |
+| 13:00 | SGD | Low | CPI (MoM) (Aug) |  |  | -0.20% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Aug) |  | 4.0% | 4.1% |
+| 14:00 | NOK | Low | M3 Money Supply (Aug) |  |  | 3,118.3B |
+| 14:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
+| 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.4% |
+| 16:00 | EUR | Moderate | German Business Expectations (Sep) |  | 82.8 | 82.6 |
+| 16:00 | EUR | Moderate | German Current Assessment (Sep) |  | 87.9 | 89.0 |
+| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 85.0 | 85.7 |
+| 18:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  |  | -44 |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 96.8 |
+| 20:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | 0.12 |
+| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.773% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.830% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.828% |
+| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) |  |  | -17.2 |
+| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.315% |
+| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.300% |

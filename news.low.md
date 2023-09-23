@@ -1,15 +1,22 @@
-## 23 September 2023 - Low Impact Forex News
+## 25 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | CFTC Aluminium speculative net positions | 6.4K |  | 5.1K |
-| 04:30 | USD | CFTC Copper speculative net positions | -16.3K |  | -12.3K |
-| 04:30 | USD | CFTC Corn speculative net positions | -101.2K |  | -88.0K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -93.9K |  | -112.0K |
-| 04:30 | USD | CFTC Silver speculative net positions | 15.2K |  | 18.0K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | 62.7K |  | 85.2K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -56.9K |  | -49.6K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -48.0K |  | -41.9K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 63.6K |  | 66.9K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -7.9K |  | -9.3K |
-| 04:30 | NZD | CFTC NZD speculative net positions | -21.3K |  | -14.6K |
+| 08:24 | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
+| 08:24 | BRL | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
+| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.40% |
+| 13:00 | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
+| 14:00 | NOK | M3 Money Supply (Aug) |  |  | 3,118.3B |
+| 14:00 | NOK | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
+| 15:00 | EUR | Spanish PPI (YoY) |  |  | -8.4% |
+| 18:00 | GBP | CBI Distributive Trades Survey (Sep) |  |  | -44 |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | BRL | FGV Consumer confidence (Sep) |  |  | 96.8 |
+| 20:30 | USD | Chicago Fed National Activity (Aug) |  |  | 0.12 |
+| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.773% |
+| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.830% |
+| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.828% |
+| 22:30 | USD | Dallas Fed Mfg Business Index (Sep) |  |  | -17.2 |
+| 23:30 | USD | 3-Month Bill Auction |  |  | 5.315% |
+| 23:30 | USD | 6-Month Bill Auction |  |  | 5.300% |
