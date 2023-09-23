@@ -6,6 +6,6 @@
 | 13:00 | SGD | CPI (YoY) (Aug) |  | 4.0% | 4.1% |
 | 16:00 | EUR | German Business Expectations (Sep) |  | 82.8 | 82.6 |
 | 16:00 | EUR | German Current Assessment (Sep) |  | 87.9 | 89.0 |
-| 16:00 | EUR | German Ifo Business Climate Index (Sep) |  | 85.0 | 85.7 |
+| 16:00 | EUR | German Ifo Business Climate Index (Sep) |  | 85.1 | 85.7 |
 | 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |

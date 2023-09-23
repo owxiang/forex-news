@@ -13,8 +13,8 @@
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.4% |
 | 16:00 | EUR | Moderate | German Business Expectations (Sep) |  | 82.8 | 82.6 |
 | 16:00 | EUR | Moderate | German Current Assessment (Sep) |  | 87.9 | 89.0 |
-| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 85.0 | 85.7 |
-| 18:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  |  | -44 |
+| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 85.1 | 85.7 |
+| 18:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -33 | -44 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Aug) |  |  | -3.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
