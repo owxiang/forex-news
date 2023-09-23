@@ -2,16 +2,17 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:24 | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
-| 08:24 | BRL | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.40% |
+| 12:00 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 13:00 | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
 | 14:00 | NOK | M3 Money Supply (Aug) |  |  | 3,118.3B |
 | 14:00 | NOK | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
 | 15:00 | EUR | Spanish PPI (YoY) |  |  | -8.4% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Sep) |  |  | -44 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19:30 | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
+| 19:30 | BRL | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
 | 20:00 | BRL | FGV Consumer confidence (Sep) |  |  | 96.8 |
 | 20:30 | USD | Chicago Fed National Activity (Aug) |  |  | 0.12 |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.773% |
