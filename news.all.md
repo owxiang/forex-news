@@ -24,4 +24,3 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -101.6K |  | -98.7K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -21.3K |  | -14.6K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 102.0K |  | 113.1K |
-| 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |

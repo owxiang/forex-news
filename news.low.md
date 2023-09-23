@@ -13,4 +13,3 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 63.6K |  | 66.9K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -7.9K |  | -9.3K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -21.3K |  | -14.6K |
-| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
