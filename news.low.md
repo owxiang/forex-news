@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.40% |
 | 12:00 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 13:00 | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
