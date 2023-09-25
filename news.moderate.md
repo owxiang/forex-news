@@ -1,11 +1,14 @@
-## 25 September 2023 - Moderate Impact Forex News
+## 26 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | SGD | Core CPI (YoY) (Aug) | 3.40% | 3.50% | 3.80% |
-| 13:00 | SGD | CPI (YoY) (Aug) | 4.0% | 4.0% | 4.1% |
-| 16:00 | EUR | German Business Expectations (Sep) | 82.9 | 82.9 | 82.7 |
-| 16:00 | EUR | German Current Assessment (Sep) | 88.7 | 88.0 | 89.0 |
-| 16:00 | EUR | German Ifo Business Climate Index (Sep) | 85.7 | 85.2 | 85.8 |
-| 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 06:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 09:00 | KRW | BOK Financial Stability Board Meeting Minutes |  |  |  |
+| 13:00 | JPY | BoJ Core CPI (YoY) |  | 3.2% | 3.3% |
+| 15:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 20:00 | USD | Building Permits (MoM) |  | 6.9% | 0.1% |
+| 20:30 | CAD | Wholesale Sales (MoM) |  |  | 0.2% |
+| 20:55 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 0.2% | -1.2% |
+| 22:00 | USD | New Home Sales (MoM) (Aug) |  |  | 4.4% |

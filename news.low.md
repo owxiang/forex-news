@@ -1,22 +1,29 @@
-## 25 September 2023 - Low Impact Forex News
+## 26 September 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | IDR | M2 Money Supply (YoY) (Aug) | 5.90% |  | 6.40% |
-| 12:00 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 13:00 | SGD | CPI (MoM) (Aug) | 0.90% |  | -0.20% |
-| 14:00 | NOK | M3 Money Supply (Aug) | 3,064.9B |  | 3,118.3B |
-| 14:00 | NOK | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.2% |
-| 15:00 | EUR | Spanish PPI (YoY) | -10.0% |  | -8.6% |
-| 18:00 | GBP | CBI Distributive Trades Survey (Sep) | -14 | -33 | -44 |
-| 19:00 | BRL | FGV Consumer confidence (Sep) | 97.0 |  | 96.8 |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:31 | BRL | Current Account (USD) (Aug) | -0.78B |  | -3.60B |
-| 19:31 | BRL | Foreign direct investment (USD) (Aug) | 4.27B |  | 4.20B |
-| 20:30 | USD | Chicago Fed National Activity (Aug) | -0.16 |  | 0.07 |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.789% |  | 3.773% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.822% |  | 3.830% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.824% |  | 3.828% |
-| 22:30 | USD | Dallas Fed Mfg Business Index (Sep) | -18.1 |  | -17.2 |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.315% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.300% |
+| 05:00 | KRW | Consumer Confidence (Sep) |  |  | 103.1 |
+| 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  |  | 1.7% |
+| 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
+| 13:00 | SGD | Industrial Production (MoM) (Aug) |  | -1.8% | 4.1% |
+| 13:00 | SGD | Industrial Production (YoY) (Aug) |  | -3.3% | -0.9% |
+| 15:00 | ZAR | Leading Indicators (Jul) |  |  | 108.30% |
+| 16:30 | HKD | Exports (MoM) (Aug) |  |  | -9.1% |
+| 16:30 | HKD | Imports (MoM) (Aug) |  |  | -7.9% |
+| 16:30 | HKD | Trade Balance |  |  | -30.0B |
+| 17:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.630% |
+| 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
+| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Sep) |  |  | 0.28% |
+| 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
+| 20:55 | USD | Redbook (YoY) |  |  | 3.6% |
+| 21:00 | USD | House Price Index (YoY) (Jul) |  |  | 3.1% |
+| 21:00 | USD | House Price Index (MoM) (Jul) |  | 0.5% | 0.3% |
+| 21:00 | USD | House Price Index (Jul) |  |  | 405.8 |
+| 21:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.9% |
+| 22:00 | USD | Richmond Manufacturing Index (Sep) |  | -6 | -7 |
+| 22:00 | USD | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
+| 22:00 | USD | Richmond Services Index (Sep) |  |  | 4 |
+| 22:30 | USD | Dallas Fed Services Revenues (Sep) |  |  | 16.2 |
+| 22:30 | USD | Texas Services Sector Outlook (Sep) |  |  | -2.7 |
