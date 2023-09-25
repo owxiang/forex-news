@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 11:00 | IDR | M2 Money Supply (YoY) (Aug) | 5.90% |  | 6.40% |
-| 44 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 13:00 | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
+| 12:00 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 42 min | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
 | 14:00 | NOK | M3 Money Supply (Aug) |  |  | 3,118.3B |
 | 14:00 | NOK | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
 | 15:00 | EUR | Spanish PPI (YoY) |  |  | -8.4% |

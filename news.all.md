@@ -3,16 +3,16 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 5.90% |  | 6.40% |
-| 44 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 13:00 | SGD | Moderate | Core CPI (YoY) (Aug) |  | 3.50% | 3.80% |
-| 13:00 | SGD | Low | CPI (MoM) (Aug) |  |  | -0.20% |
-| 13:00 | SGD | Moderate | CPI (YoY) (Aug) |  | 4.0% | 4.1% |
+| 12:00 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 42 min | SGD | Moderate | Core CPI (YoY) (Aug) |  | 3.50% | 3.80% |
+| 42 min | SGD | Low | CPI (MoM) (Aug) |  |  | -0.20% |
+| 42 min | SGD | Moderate | CPI (YoY) (Aug) |  | 4.0% | 4.1% |
 | 14:00 | NOK | Low | M3 Money Supply (Aug) |  |  | 3,118.3B |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.4% |
-| 16:00 | EUR | Moderate | German Business Expectations (Sep) |  | 82.8 | 82.6 |
-| 16:00 | EUR | Moderate | German Current Assessment (Sep) |  | 87.9 | 89.0 |
-| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 85.1 | 85.7 |
+| 16:00 | EUR | Moderate | German Business Expectations (Sep) |  | 82.9 | 82.6 |
+| 16:00 | EUR | Moderate | German Current Assessment (Sep) |  | 88.0 | 89.0 |
+| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 85.2 | 85.7 |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -33 | -44 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Aug) |  |  | -3.60B |
