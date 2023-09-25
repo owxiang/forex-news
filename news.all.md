@@ -8,8 +8,8 @@
 | 09:00 | KRW | Moderate | BOK Financial Stability Board Meeting Minutes |  |  |  |
 | 09:00 | NZD | Low | Net Debt Forecast |  | 40.30% | 38.50% |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 3.2% | 3.3% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Aug) |  | -1.8% | 4.1% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Aug) |  | -3.3% | -0.9% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Aug) |  | -1.8% | 4.1% |
 | 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | ZAR | Low | Leading Indicators (Jul) |  |  | 108.30% |
 | 16:30 | HKD | Low | Exports (MoM) (Aug) |  |  | -9.1% |
@@ -20,14 +20,14 @@
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:00 | USD | High | Building Permits |  | 1.543M | 1.443M |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  |  | 0.28% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  |  | 0.28% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.2% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.6% |
 | 20:55 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 21:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.5% | 0.3% |
 | 21:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 3.1% |
+| 21:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.5% | 0.3% |
 | 21:00 | USD | Low | House Price Index (Jul) |  |  | 405.8 |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.9% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
