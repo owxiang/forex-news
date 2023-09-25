@@ -10,13 +10,13 @@
 | 15:00 | EUR | Spanish PPI (YoY) | -10.0% |  | -8.6% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Sep) | -14 | -33 | -44 |
 | 19:00 | BRL | FGV Consumer confidence (Sep) | 97.0 |  | 96.8 |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 17 min | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
-| 17 min | BRL | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
-| 20:30 | USD | Chicago Fed National Activity (Aug) |  |  | 0.12 |
-| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.773% |
-| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.830% |
-| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.828% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19:31 | BRL | Current Account (USD) (Aug) | -0.78B |  | -3.60B |
+| 19:31 | BRL | Foreign direct investment (USD) (Aug) | 4.27B |  | 4.20B |
+| 20:30 | USD | Chicago Fed National Activity (Aug) | -0.16 |  | 0.07 |
+| 24 min | EUR | French 12-Month BTF Auction |  |  | 3.773% |
+| 24 min | EUR | French 3-Month BTF Auction |  |  | 3.830% |
+| 24 min | EUR | French 6-Month BTF Auction |  |  | 3.828% |
 | 22:30 | USD | Dallas Fed Mfg Business Index (Sep) |  |  | -17.2 |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.315% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.300% |
