@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.40% |
+| 38 min | IDR | M2 Money Supply (YoY) |  |  | 6.40% |
 | 12:00 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 13:00 | SGD | CPI (MoM) (Aug) |  |  | -0.20% |
 | 14:00 | NOK | M3 Money Supply (Aug) |  |  | 3,118.3B |
