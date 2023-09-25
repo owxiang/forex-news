@@ -7,5 +7,5 @@
 | 16:00 | EUR | German Business Expectations (Sep) | 82.9 | 82.9 | 82.7 |
 | 16:00 | EUR | German Current Assessment (Sep) | 88.7 | 88.0 | 89.0 |
 | 16:00 | EUR | German Ifo Business Climate Index (Sep) | 85.7 | 85.2 | 85.8 |
-| 29 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 29 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |
