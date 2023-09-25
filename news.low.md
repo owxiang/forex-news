@@ -9,10 +9,10 @@
 | 14:00 | NOK | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.2% |
 | 15:00 | EUR | Spanish PPI (YoY) | -10.0% |  | -8.6% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Sep) | -14 | -33 | -44 |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
-| 19:30 | BRL | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
-| 20:00 | BRL | FGV Consumer confidence (Sep) |  |  | 96.8 |
+| 19:00 | BRL | FGV Consumer confidence (Sep) | 97.0 |  | 96.8 |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
+| 17 min | BRL | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
 | 20:30 | USD | Chicago Fed National Activity (Aug) |  |  | 0.12 |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.773% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.830% |

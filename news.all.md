@@ -14,10 +14,10 @@
 | 16:00 | EUR | Moderate | German Current Assessment (Sep) | 88.7 | 88.0 | 89.0 |
 | 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 85.7 | 85.2 | 85.8 |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey (Sep) | -14 | -33 | -44 |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Low | Current Account (USD) (Aug) |  |  | -3.60B |
-| 19:30 | BRL | Low | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
-| 20:00 | BRL | Low | FGV Consumer confidence (Sep) |  |  | 96.8 |
+| 19:00 | BRL | Low | FGV Consumer confidence (Sep) | 97.0 |  | 96.8 |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Low | Current Account (USD) (Aug) |  |  | -3.60B |
+| 17 min | BRL | Low | Foreign direct investment (USD) (Aug) |  |  | 4.20B |
 | 20:30 | USD | Low | Chicago Fed National Activity (Aug) |  |  | 0.12 |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.773% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.830% |
