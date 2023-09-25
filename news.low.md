@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | KRW | Consumer Confidence (Sep) |  |  | 103.1 |
+| 05:00 | KRW | Consumer Confidence (Sep) | 99.7 |  | 103.1 |
 | 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  |  | 1.7% |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 13:00 | SGD | Industrial Production (YoY) (Aug) |  | -3.3% | -0.9% |
@@ -14,8 +14,8 @@
 | 17:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.630% |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Sep) |  |  | 0.28% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
 | 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.6% |
 | 21:00 | USD | House Price Index (YoY) (Jul) |  |  | 3.1% |
