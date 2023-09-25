@@ -7,7 +7,7 @@
 | 13:00 | SGD | CPI (MoM) (Aug) | 0.90% |  | -0.20% |
 | 14:00 | NOK | M3 Money Supply (Aug) | 3,064.9B |  | 3,118.3B |
 | 14:00 | NOK | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.2% |
-| 39 min | EUR | Spanish PPI (YoY) |  |  | -8.4% |
+| 15:00 | EUR | Spanish PPI (YoY) | -10.0% |  | -8.4% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Sep) |  | -33 | -44 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Aug) |  |  | -3.60B |
