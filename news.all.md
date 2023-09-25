@@ -20,14 +20,14 @@
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 20:00 | USD | Moderate | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:00 | USD | High | Building Permits |  | 1.543M | 1.443M |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  |  | 0.28% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.2% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.6% |
 | 20:55 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 21:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 3.1% |
 | 21:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.5% | 0.3% |
+| 21:00 | USD | Low | House Price Index (YoY) (Jul) |  |  | 3.1% |
 | 21:00 | USD | Low | House Price Index (Jul) |  |  | 405.8 |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.9% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
