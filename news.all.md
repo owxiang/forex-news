@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Aug) | 5.90% |  | 6.40% |
 | 12:00 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 42 min | SGD | Moderate | Core CPI (YoY) (Aug) |  | 3.50% | 3.80% |
-| 42 min | SGD | Low | CPI (MoM) (Aug) |  |  | -0.20% |
-| 42 min | SGD | Moderate | CPI (YoY) (Aug) |  | 4.0% | 4.1% |
-| 14:00 | NOK | Low | M3 Money Supply (Aug) |  |  | 3,118.3B |
-| 14:00 | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Aug) | 3.40% | 3.50% | 3.80% |
+| 13:00 | SGD | Low | CPI (MoM) (Aug) | 0.90% |  | -0.20% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Aug) | 4.0% | 4.0% | 4.1% |
+| 45 min | NOK | Low | M3 Money Supply (Aug) |  |  | 3,118.3B |
+| 45 min | NOK | Low | Credit Indicator (YoY) (Aug) |  |  | 4.2% |
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.4% |
 | 16:00 | EUR | Moderate | German Business Expectations (Sep) |  | 82.9 | 82.6 |
 | 16:00 | EUR | Moderate | German Current Assessment (Sep) |  | 88.0 | 89.0 |
