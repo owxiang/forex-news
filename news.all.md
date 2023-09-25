@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | Consumer Confidence (Sep) |  |  | 103.1 |
+| 44 min | KRW | Low | Consumer Confidence (Sep) |  |  | 103.1 |
 | 06:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  |  | 1.7% |
 | 09:00 | KRW | Moderate | BOK Financial Stability Board Meeting Minutes |  |  |  |
@@ -18,8 +18,8 @@
 | 17:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.630% |
 | 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:00 | USD | High | Building Permits |  | 1.543M | 1.443M |
+| 20:00 | USD | Moderate | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  |  | 4.24% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  |  | 0.28% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
@@ -30,8 +30,8 @@
 | 21:00 | USD | Low | House Price Index (MoM) (Jul) |  | 0.5% | 0.3% |
 | 21:00 | USD | Low | House Price Index (Jul) |  |  | 405.8 |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.9% |
-| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 0.2% | -1.2% |
+| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
 | 22:00 | USD | High | CB Consumer Confidence (Sep) |  | 105.6 | 106.1 |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Aug) |  |  | 4.4% |
 | 22:00 | USD | High | New Home Sales (Aug) |  | 700K | 714K |

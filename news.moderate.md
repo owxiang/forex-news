@@ -9,6 +9,6 @@
 | 20:00 | USD | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:30 | CAD | Wholesale Sales (MoM) |  |  | 0.2% |
 | 20:55 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | 0.2% | -1.2% |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
 | 22:00 | USD | New Home Sales (MoM) (Aug) |  |  | 4.4% |

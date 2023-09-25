@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Consumer Confidence (Sep) |  |  | 103.1 |
+| 44 min | KRW | Consumer Confidence (Sep) |  |  | 103.1 |
 | 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  |  | 1.7% |
 | 09:00 | NZD | Net Debt Forecast |  | 40.30% | 38.50% |
 | 13:00 | SGD | Industrial Production (YoY) (Aug) |  | -3.3% | -0.9% |
