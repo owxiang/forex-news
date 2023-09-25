@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Consumer Confidence (Sep) | 99.7 |  | 103.1 |
-| 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 1.8% | 1.7% |
+| 35 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 1.8% | 1.7% |
 | 13:00 | SGD | Industrial Production (YoY) (Aug) |  | -3.3% | -0.9% |
 | 13:00 | SGD | Industrial Production (MoM) (Aug) |  | -1.8% | 4.1% |
 | 15:00 | ZAR | Leading Indicators (Jul) |  |  | 108.30% |
