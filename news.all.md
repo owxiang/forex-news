@@ -24,6 +24,6 @@
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.824% |  | 3.828% |
 | 21:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Sep) |  |  | -17.2 |
+| 15 min | USD | Low | Dallas Fed Mfg Business Index (Sep) |  |  | -17.2 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.315% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.300% |
