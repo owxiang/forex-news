@@ -9,10 +9,10 @@
 | 13:00 | SGD | Moderate | CPI (YoY) (Aug) | 4.0% | 4.0% | 4.1% |
 | 14:00 | NOK | Low | M3 Money Supply (Aug) | 3,064.9B |  | 3,118.3B |
 | 14:00 | NOK | Low | Credit Indicator (YoY) (Aug) | 4.0% |  | 4.2% |
-| 15:00 | EUR | Low | Spanish PPI (YoY) | -10.0% |  | -8.4% |
-| 46 min | EUR | Moderate | German Business Expectations (Sep) |  | 82.9 | 82.6 |
-| 46 min | EUR | Moderate | German Current Assessment (Sep) |  | 88.0 | 89.0 |
-| 46 min | EUR | Moderate | German Ifo Business Climate Index (Sep) |  | 85.2 | 85.7 |
+| 15:00 | EUR | Low | Spanish PPI (YoY) | -10.0% |  | -8.6% |
+| 16:00 | EUR | Moderate | German Business Expectations (Sep) | 82.9 | 82.9 | 82.7 |
+| 16:00 | EUR | Moderate | German Current Assessment (Sep) | 88.7 | 88.0 | 89.0 |
+| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Sep) | 85.7 | 85.2 | 85.8 |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey (Sep) |  | -33 | -44 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Aug) |  |  | -3.60B |
