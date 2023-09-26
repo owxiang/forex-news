@@ -9,18 +9,18 @@
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 3.3% | 3.2% | 3.3% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Aug) | -12.1% | -3.1% | -0.9% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Aug) | -10.5% | -1.7% | 4.1% |
-| 39 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 39 min | ZAR | Low | Leading Indicators (Jul) |  |  | 108.30% |
+| 15:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 15:00 | ZAR | Low | Leading Indicators (Jul) | 110.40% |  | 108.30% |
 | 16:30 | HKD | Low | Exports (MoM) (Aug) |  |  | -9.1% |
 | 16:30 | HKD | Low | Imports (MoM) (Aug) |  |  | -7.9% |
 | 16:30 | HKD | Low | Trade Balance |  |  | -30.0B |
 | 17:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.630% |
 | 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:00 | USD | High | Building Permits |  | 1.543M | 1.443M |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.01% | 4.24% |
+| 20:00 | USD | Moderate | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) |  | 0.38% | 0.28% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) |  | 5.01% | 4.24% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.2% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.6% |
