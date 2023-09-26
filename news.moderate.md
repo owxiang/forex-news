@@ -10,4 +10,4 @@
 | 20:55 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.6% |  | 0.9% |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 0.1% | -0.3% | -1.2% |
-| 40 min | USD | New Home Sales (MoM) (Aug) |  |  | 4.4% |
+| 22:00 | USD | New Home Sales (MoM) (Aug) | -8.7% |  | 8.0% |
