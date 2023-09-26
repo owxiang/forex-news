@@ -13,8 +13,8 @@
 | 17:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.630% |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Sep) |  | 5.01% | 4.24% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Sep) |  | 0.38% | 0.28% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Sep) |  | 5.01% | 4.24% |
 | 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.6% |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.6% |
 | 21:00 | USD | House Price Index (YoY) (Jul) |  |  | 3.1% |
