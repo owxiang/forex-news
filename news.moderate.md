@@ -5,7 +5,7 @@
 | 01:00 | USD | 2-Year Note Auction | 5.085% |  | 5.024% |
 | 01:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 01:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 04:30 | USD | API Weekly Crude Oil Stock |  | -1.650M | -5.250M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | -1.650M | -5.250M |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 14:00 | EUR | GfK German Consumer Climate (Oct) |  | -26.0 | -25.5 |
 | 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
