@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 2-Year Note Auction | 5.085% |  | 5.024% |
 | 01:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 16 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 01:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.650M | -5.250M |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Oct) |  |  | 67 |
 | 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
