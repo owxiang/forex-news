@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 09:00 | KRW | BOK Financial Stability Board Meeting Minutes |  |  |  |
-| 42 min | JPY | BoJ Core CPI (YoY) |  | 3.2% | 3.3% |
+| 13:00 | JPY | BoJ Core CPI (YoY) | 3.3% | 3.2% | 3.3% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | USD | Building Permits (MoM) |  | 6.9% | 0.1% |
 | 20:30 | CAD | Wholesale Sales (MoM) |  |  | 0.2% |
