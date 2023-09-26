@@ -24,5 +24,5 @@
 | 22:00 | USD | Richmond Manufacturing Index (Sep) | 5 | -6 | -7 |
 | 22:00 | USD | Richmond Manufacturing Shipments (Sep) | 7 |  | -5 |
 | 22:00 | USD | Richmond Services Index (Sep) | 4 |  | 4 |
-| 15 min | USD | Dallas Fed Services Revenues (Sep) |  |  | 16.2 |
-| 15 min | USD | Texas Services Sector Outlook (Sep) |  |  | -2.7 |
+| 22:30 | USD | Dallas Fed Services Revenues (Sep) | 8.7 |  | 16.2 |
+| 22:30 | USD | Texas Services Sector Outlook (Sep) | -8.6 |  | -2.7 |

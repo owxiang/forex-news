@@ -17,8 +17,8 @@
 | 17:10 | EUR | Low | Italian 2-Year CTZ Auction | 3.970% |  | 3.630% |
 | 17:30 | EUR | Low | German 5-Year Bobl Auction | 2.760% |  | 2.560% |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | USD | Moderate | Building Permits (MoM) | 6.8% | 6.9% | 0.1% |
 | 20:00 | USD | High | Building Permits | 1.541M | 1.543M | 1.443M |
+| 20:00 | USD | Moderate | Building Permits (MoM) | 6.8% | 6.9% | 0.1% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Sep) | 0.35% | 0.38% | 0.28% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Sep) | 5.00% | 5.01% | 4.24% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) | 1.0% |  | 1.6% |
@@ -36,5 +36,5 @@
 | 22:00 | USD | Low | Richmond Manufacturing Index (Sep) | 5 | -6 | -7 |
 | 22:00 | USD | Low | Richmond Manufacturing Shipments (Sep) | 7 |  | -5 |
 | 22:00 | USD | Low | Richmond Services Index (Sep) | 4 |  | 4 |
-| 15 min | USD | Low | Dallas Fed Services Revenues (Sep) |  |  | 16.2 |
-| 15 min | USD | Low | Texas Services Sector Outlook (Sep) |  |  | -2.7 |
+| 22:30 | USD | Low | Dallas Fed Services Revenues (Sep) | 8.7 |  | 16.2 |
+| 22:30 | USD | Low | Texas Services Sector Outlook (Sep) | -8.6 |  | -2.7 |
