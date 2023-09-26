@@ -13,16 +13,16 @@
 | 17:10 | EUR | Italian 2-Year CTZ Auction | 3.970% |  | 3.630% |
 | 17:30 | EUR | German 5-Year Bobl Auction | 2.760% |  | 2.560% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.35% | 0.38% | 0.28% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Sep) | 5.00% | 5.01% | 4.24% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Sep) | 0.35% | 0.38% | 0.28% |
 | 20:30 | CAD | Manufacturing Sales (MoM) | 1.0% |  | 1.6% |
-| 24 min | USD | Redbook (YoY) |  |  | 3.6% |
-| 29 min | USD | House Price Index (YoY) (Jul) |  |  | 3.1% |
-| 29 min | USD | House Price Index (MoM) (Jul) |  | 0.5% | 0.3% |
-| 29 min | USD | House Price Index (Jul) |  |  | 405.8 |
-| 29 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) |  |  | 0.9% |
-| 22:00 | USD | Richmond Manufacturing Index (Sep) |  | -6 | -7 |
-| 22:00 | USD | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
-| 22:00 | USD | Richmond Services Index (Sep) |  |  | 4 |
+| 20:55 | USD | Redbook (YoY) | 3.8% |  | 3.6% |
+| 21:00 | USD | House Price Index (MoM) (Jul) | 0.8% | 0.5% | 0.4% |
+| 21:00 | USD | House Price Index (YoY) (Jul) | 4.6% |  | 3.2% |
+| 21:00 | USD | House Price Index (Jul) | 409.5 |  | 406.1 |
+| 21:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jul) | 0.9% |  | 0.9% |
+| 40 min | USD | Richmond Manufacturing Index (Sep) |  | -6 | -7 |
+| 40 min | USD | Richmond Manufacturing Shipments (Sep) |  |  | -5 |
+| 40 min | USD | Richmond Services Index (Sep) |  |  | 4 |
 | 22:30 | USD | Dallas Fed Services Revenues (Sep) |  |  | 16.2 |
 | 22:30 | USD | Texas Services Sector Outlook (Sep) |  |  | -2.7 |

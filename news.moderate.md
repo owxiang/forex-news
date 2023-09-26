@@ -7,8 +7,7 @@
 | 13:00 | JPY | BoJ Core CPI (YoY) | 3.3% | 3.2% | 3.3% |
 | 15:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | USD | Building Permits (MoM) | 6.8% | 6.9% | 0.1% |
-| 20:30 | CAD | Wholesale Sales (MoM) |  |  | 0.2% |
-| 24 min | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 29 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) |  |  | 0.9% |
-| 29 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) |  | -0.3% | -1.2% |
-| 22:00 | USD | New Home Sales (MoM) (Aug) |  |  | 4.4% |
+| 20:55 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.6% |  | 0.9% |
+| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 0.1% | -0.3% | -1.2% |
+| 40 min | USD | New Home Sales (MoM) (Aug) |  |  | 4.4% |
