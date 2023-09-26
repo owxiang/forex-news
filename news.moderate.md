@@ -1,13 +1,16 @@
-## 26 September 2023 - Moderate Impact Forex News
+## 27 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 09:00 | KRW | BOK Financial Stability Board Meeting Minutes |  |  |  |
-| 13:00 | JPY | BoJ Core CPI (YoY) | 3.3% | 3.2% | 3.3% |
-| 15:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:00 | USD | Building Permits (MoM) | 6.8% | 6.9% | 0.1% |
-| 20:55 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul) | 0.6% |  | 0.9% |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul) | 0.1% | -0.3% | -1.2% |
-| 22:00 | USD | New Home Sales (MoM) (Aug) | -8.7% |  | 8.0% |
+| 39 min | USD | 2-Year Note Auction |  |  | 5.024% |
+| 39 min | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 01:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 04:30 | USD | API Weekly Crude Oil Stock |  | -1.650M | -5.250M |
+| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 14:00 | EUR | GfK German Consumer Climate (Oct) |  | -26.0 | -25.5 |
+| 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.630% |
+| 18:00 | EUR | France Jobseekers Total |  |  | 2,816.6K |
+| 20:00 | EUR | ECB's Enria Speaks |  |  |  |
+| 20:30 | USD | Durable Goods Orders (MoM) (Aug) |  | -0.5% | -5.2% |
+| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -2.064M |
