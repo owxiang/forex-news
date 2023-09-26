@@ -2,17 +2,17 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 39 min | USD | Moderate | 2-Year Note Auction |  |  | 5.024% |
-| 39 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 01:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 01:00 | USD | Moderate | 2-Year Note Auction | 5.085% |  | 5.024% |
+| 01:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 16 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.650M | -5.250M |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Oct) |  |  | 67 |
 | 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 09:30 | AUD | Low | Weighted mean CPI (YoY) (Aug) |  | 5.20% | 4.90% |
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Aug) |  |  | -15.5% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
-| 13:00 | JPY | Low | Leading Index |  | 107.6 | 108.8 |
 | 13:00 | JPY | Low | Leading Index (MoM) |  | -1.2% | -0.2% |
+| 13:00 | JPY | Low | Leading Index |  | 107.6 | 108.8 |
 | 14:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -26.0 | -25.5 |
 | 14:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 3.5% |
 | 14:45 | EUR | Low | French Consumer Confidence (Sep) |  | 84 | 85 |
