@@ -14,8 +14,8 @@
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  |  | -0.8% |
-| 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.5% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
+| 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.5% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  |  | 0.5% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.4% | 2.4% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | 7.3% |
@@ -29,8 +29,8 @@
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
 | 16:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
-| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
 | 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |

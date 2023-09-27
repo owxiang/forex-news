@@ -22,8 +22,8 @@
 | 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
-| 16:00 | EUR | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 16:00 | EUR | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 16:00 | EUR | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
 | 16:00 | EUR | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
