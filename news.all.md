@@ -2,17 +2,17 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 39 min | USD | Moderate | 5-Year Note Auction |  |  | 4.400% |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.148B |
+| 00:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 01:00 | USD | Moderate | 5-Year Note Auction | 4.659% |  | 4.400% |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -1.148B |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 885.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,583.9B |
 | 08:00 | NZD | Low | ANZ Business Confidence (Sep) |  |  | -3.7 |
 | 08:00 | NZD | Low | NBNZ Own Activity (Sep) |  |  | 11.2% |
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
 | 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.011% |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
+| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.5% |
@@ -31,8 +31,8 @@
 | 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
+| 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  | 6.8% | 6.7% |

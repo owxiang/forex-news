@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 39 min | USD | 5-Year Note Auction |  |  | 4.400% |
+| 00:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 01:00 | USD | 5-Year Note Auction | 4.659% |  | 4.400% |
 | 09:30 | AUD | Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
 | 15:00 | EUR | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
 | 15:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.4% | 2.4% |
