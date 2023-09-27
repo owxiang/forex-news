@@ -7,9 +7,9 @@
 | 01:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.586M | -1.650M | -5.250M |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Oct) | 68 |  | 67 |
-| 35 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 09:30 | AUD | Low | Weighted mean CPI (YoY) (Aug) |  | 5.20% | 4.90% |
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Aug) |  |  | -15.5% |
+| 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 22 min | AUD | Low | Weighted mean CPI (YoY) (Aug) |  | 5.20% | 4.90% |
+| 22 min | CNY | Low | Chinese Industrial profit YTD (Aug) |  |  | -15.5% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
 | 13:00 | JPY | Low | Leading Index (MoM) |  | -1.2% | -0.2% |
 | 13:00 | JPY | Low | Leading Index |  | 107.6 | 108.8 |

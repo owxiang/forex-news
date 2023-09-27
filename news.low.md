@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Oct) | 68 |  | 67 |
-| 09:30 | AUD | Weighted mean CPI (YoY) (Aug) |  | 5.20% | 4.90% |
-| 09:30 | CNY | Chinese Industrial profit YTD (Aug) |  |  | -15.5% |
+| 22 min | AUD | Weighted mean CPI (YoY) (Aug) |  | 5.20% | 4.90% |
+| 22 min | CNY | Chinese Industrial profit YTD (Aug) |  |  | -15.5% |
 | 13:00 | JPY | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
 | 13:00 | JPY | Leading Index (MoM) |  | -1.2% | -0.2% |
 | 13:00 | JPY | Leading Index |  | 107.6 | 108.8 |
