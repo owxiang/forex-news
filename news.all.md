@@ -39,13 +39,13 @@
 | 20:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -6.0% |
 | 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.9% | 0.0% | -0.4% |
 | 21:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 15 min | USD | High | Crude Oil Inventories |  | -1.320M | -2.135M |
-| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
-| 15 min | USD | Low | Crude Oil Imports |  |  | -3.042M |
-| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.064M |
-| 15 min | USD | Low | Distillate Fuel Production |  |  | -0.229M |
-| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.298M | -2.867M |
-| 15 min | USD | Low | Gasoline Production |  |  | 0.499M |
-| 15 min | USD | Low | Heating Oil Stockpiles |  |  | -0.109M |
-| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.8% |
-| 15 min | USD | Low | Gasoline Inventories |  | -0.120M | -0.831M |
+| 22:30 | USD | High | Crude Oil Inventories | -2.170M | -1.320M | -2.135M |
+| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.239M |  | -0.496M |
+| 22:30 | USD | Low | Crude Oil Imports | 1.767M |  | -3.042M |
+| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.943M |  | -2.064M |
+| 22:30 | USD | Low | Distillate Fuel Production | 0.150M |  | -0.229M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks | 0.398M | -1.298M | -2.867M |
+| 22:30 | USD | Low | Gasoline Production | -0.572M |  | 0.499M |
+| 22:30 | USD | Low | Heating Oil Stockpiles | 0.517M |  | -0.109M |
+| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -1.8% |
+| 22:30 | USD | Low | Gasoline Inventories | 1.027M | -0.120M | -0.831M |

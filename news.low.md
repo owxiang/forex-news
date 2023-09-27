@@ -26,11 +26,11 @@
 | 20:30 | USD | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -6.0% |
 | 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.9% | 0.0% | -0.4% |
 | 21:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
-| 15 min | USD | Crude Oil Imports |  |  | -3.042M |
-| 15 min | USD | Distillate Fuel Production |  |  | -0.229M |
-| 15 min | USD | EIA Weekly Distillates Stocks |  | -1.298M | -2.867M |
-| 15 min | USD | Gasoline Production |  |  | 0.499M |
-| 15 min | USD | Heating Oil Stockpiles |  |  | -0.109M |
-| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.8% |
-| 15 min | USD | Gasoline Inventories |  | -0.120M | -0.831M |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | -0.239M |  | -0.496M |
+| 22:30 | USD | Crude Oil Imports | 1.767M |  | -3.042M |
+| 22:30 | USD | Distillate Fuel Production | 0.150M |  | -0.229M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | 0.398M | -1.298M | -2.867M |
+| 22:30 | USD | Gasoline Production | -0.572M |  | 0.499M |
+| 22:30 | USD | Heating Oil Stockpiles | 0.517M |  | -0.109M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.4% |  | -1.8% |
+| 22:30 | USD | Gasoline Inventories | 1.027M | -0.120M | -0.831M |
