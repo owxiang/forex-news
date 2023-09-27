@@ -15,12 +15,12 @@
 | 13:00 | JPY | Low | Leading Index | 108.2 | 107.6 | 108.8 |
 | 14:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -26.5 | -26.0 | -25.6 |
 | 14:00 | NOK | Low | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
-| 25 min | EUR | Low | French Consumer Confidence (Sep) |  | 84 | 85 |
-| 40 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 16:00 | CHF | Low | ZEW Expectations (Sep) |  |  | -38.6 |
-| 16:00 | EUR | Low | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
-| 16:00 | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 2.2% |
-| 16:00 | EUR | Low | Private Sector Loans (YoY) |  | 1.2% | 1.3% |
+| 14:45 | EUR | Low | French Consumer Confidence (Sep) | 83 | 84 | 85 |
+| 15:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 46 min | CHF | Low | ZEW Expectations (Sep) |  |  | -38.6 |
+| 46 min | EUR | Low | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
+| 46 min | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 2.2% |
+| 46 min | EUR | Low | Private Sector Loans (YoY) |  | 1.2% | 1.3% |
 | 17:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.829% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
 | 18:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,816.6K |

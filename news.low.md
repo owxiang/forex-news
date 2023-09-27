@@ -9,11 +9,11 @@
 | 13:00 | JPY | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
 | 13:00 | JPY | Leading Index | 108.2 | 107.6 | 108.8 |
 | 14:00 | NOK | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
-| 25 min | EUR | French Consumer Confidence (Sep) |  | 84 | 85 |
-| 16:00 | CHF | ZEW Expectations (Sep) |  |  | -38.6 |
-| 16:00 | EUR | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
-| 16:00 | EUR | Loans to Non Financial Corporations (Aug) |  |  | 2.2% |
-| 16:00 | EUR | Private Sector Loans (YoY) |  | 1.2% | 1.3% |
+| 14:45 | EUR | French Consumer Confidence (Sep) | 83 | 84 | 85 |
+| 46 min | CHF | ZEW Expectations (Sep) |  |  | -38.6 |
+| 46 min | EUR | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
+| 46 min | EUR | Loans to Non Financial Corporations (Aug) |  |  | 2.2% |
+| 46 min | EUR | Private Sector Loans (YoY) |  | 1.2% | 1.3% |
 | 17:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.829% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | 5.4% |
