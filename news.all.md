@@ -23,13 +23,13 @@
 | 16:00 | EUR | Low | Loans to Non Financial Corporations (Aug) | 0.6% |  | 2.2% |
 | 16:00 | EUR | Low | Private Sector Loans (YoY) | 1.0% | 1.2% | 1.3% |
 | 17:10 | EUR | Low | Italian 6-Month BOT Auction | 3.997% |  | 3.829% |
-| 15 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
-| 45 min | EUR | Moderate | France Jobseekers Total |  |  | 2,816.6K |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 5.4% |
-| 19:00 | USD | Low | MBA Purchase Index |  |  | 147.0 |
-| 19:00 | USD | Low | Mortgage Market Index |  |  | 192.1 |
-| 19:00 | USD | Low | Mortgage Refinance Index |  |  | 415.4 |
+| 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.780% |  | 2.630% |
+| 18:00 | EUR | Moderate | France Jobseekers Total | 2,827.6K |  | 2,816.6K |
+| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
+| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 5.4% |
+| 43 min | USD | Low | MBA Purchase Index |  |  | 147.0 |
+| 43 min | USD | Low | Mortgage Market Index |  |  | 192.1 |
+| 43 min | USD | Low | Mortgage Refinance Index |  |  | 415.4 |
 | 20:00 | MXN | Low | Trade Balance (Aug) |  |  | -0.881B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.532B |
 | 20:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
