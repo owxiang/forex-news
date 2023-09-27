@@ -25,14 +25,14 @@
 | 17:10 | EUR | Low | Italian 6-Month BOT Auction | 3.997% |  | 3.829% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.780% |  | 2.630% |
 | 18:00 | EUR | Moderate | France Jobseekers Total | 2,827.6K |  | 2,816.6K |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 5.4% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 147.0 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 192.1 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 415.4 |
-| 20:00 | MXN | Low | Trade Balance (Aug) |  |  | -0.881B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.532B |
-| 20:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.41% |  | 7.31% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.3% |  | 5.4% |
+| 19:00 | USD | Low | MBA Purchase Index | 144.8 |  | 147.0 |
+| 19:00 | USD | Low | Mortgage Market Index | 189.6 |  | 192.1 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 411.7 |  | 415.4 |
+| 47 min | MXN | Low | Trade Balance (Aug) |  |  | -0.881B |
+| 47 min | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.532B |
+| 47 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 20:30 | USD | High | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | 0.5% |
 | 20:30 | USD | Moderate | Durable Goods Orders (MoM) (Aug) |  | -0.5% | -5.2% |
 | 20:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -5.5% |

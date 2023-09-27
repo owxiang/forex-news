@@ -16,13 +16,13 @@
 | 16:00 | EUR | Loans to Non Financial Corporations (Aug) | 0.6% |  | 2.2% |
 | 16:00 | EUR | Private Sector Loans (YoY) | 1.0% | 1.2% | 1.3% |
 | 17:10 | EUR | Italian 6-Month BOT Auction | 3.997% |  | 3.829% |
-| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
-| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | 5.4% |
-| 43 min | USD | MBA Purchase Index |  |  | 147.0 |
-| 43 min | USD | Mortgage Market Index |  |  | 192.1 |
-| 43 min | USD | Mortgage Refinance Index |  |  | 415.4 |
-| 20:00 | MXN | Trade Balance (Aug) |  |  | -0.881B |
-| 20:00 | MXN | Trade Balance (USD) (Aug) |  |  | 0.532B |
+| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.41% |  | 7.31% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) | -1.3% |  | 5.4% |
+| 19:00 | USD | MBA Purchase Index | 144.8 |  | 147.0 |
+| 19:00 | USD | Mortgage Market Index | 189.6 |  | 192.1 |
+| 19:00 | USD | Mortgage Refinance Index | 411.7 |  | 415.4 |
+| 47 min | MXN | Trade Balance (Aug) |  |  | -0.881B |
+| 47 min | MXN | Trade Balance (USD) (Aug) |  |  | 0.532B |
 | 20:30 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -5.5% |
 | 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | 0.1% |
 | 20:30 | BRL | Bank lending (MoM) (Aug) |  |  | -0.2% |
