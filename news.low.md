@@ -22,10 +22,10 @@
 | 19:00 | USD | Mortgage Refinance Index | 411.7 |  | 415.4 |
 | 19:30 | BRL | Bank lending (MoM) (Aug) | 1.1% |  | -0.2% |
 | 20:00 | MXN | Trade Balance (Aug) | -1.377B |  | -0.881B |
-| 20:00 | MXN | Trade Balance (USD) (Aug) | -0.131B |  | 0.532B |
+| 20:00 | MXN | Trade Balance (USD) (Aug) | -0.131B |  | 0.760B |
 | 20:30 | USD | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -6.0% |
 | 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.9% | 0.0% | -0.4% |
-| 29 min | CHF | SNB Quarterly Bulletin |  |  |  |
+| 21:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
 | 22:30 | USD | Crude Oil Imports |  |  | -3.042M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.229M |

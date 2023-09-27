@@ -32,13 +32,13 @@
 | 19:30 | BRL | Low | Bank lending (MoM) (Aug) | 1.1% |  | -0.2% |
 | 20:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | MXN | Low | Trade Balance (Aug) | -1.377B |  | -0.881B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Aug) | -0.131B |  | 0.532B |
+| 20:00 | MXN | Low | Trade Balance (USD) (Aug) | -0.131B |  | 0.760B |
 | 20:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 20:30 | USD | High | Core Durable Goods Orders (MoM) (Aug) | 0.4% | 0.1% | 0.1% |
 | 20:30 | USD | Moderate | Durable Goods Orders (MoM) (Aug) | 0.2% | -0.5% | -5.6% |
 | 20:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -6.0% |
 | 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.9% | 0.0% | -0.4% |
-| 29 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 21:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 22:30 | USD | High | Crude Oil Inventories |  | -1.320M | -2.135M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | -3.042M |
