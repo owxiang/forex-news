@@ -5,9 +5,9 @@
 | 05:00 | KRW | Manufacturing BSI Index (Oct) | 68 |  | 67 |
 | 09:30 | AUD | Weighted mean CPI (YoY) (Aug) | 5.20% | 5.20% | 4.90% |
 | 09:30 | CNY | Chinese Industrial profit YTD (Aug) | -11.7% |  | -15.5% |
-| 13:00 | JPY | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
-| 13:00 | JPY | Leading Index (MoM) |  | -1.2% | -0.2% |
-| 13:00 | JPY | Leading Index |  | 107.6 | 108.8 |
+| 41 min | JPY | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
+| 41 min | JPY | Leading Index (MoM) |  | -1.2% | -0.2% |
+| 41 min | JPY | Leading Index |  | 107.6 | 108.8 |
 | 14:00 | NOK | Unemployment Rate (Aug) |  |  | 3.5% |
 | 14:45 | EUR | French Consumer Confidence (Sep) |  | 84 | 85 |
 | 16:00 | CHF | ZEW Expectations (Sep) |  |  | -38.6 |
