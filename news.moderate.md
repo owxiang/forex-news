@@ -1,17 +1,15 @@
-## 27 September 2023 - Moderate Impact Forex News
+## 28 September 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 2-Year Note Auction | 5.085% |  | 5.024% |
-| 01:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 01:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 04:30 | USD | API Weekly Crude Oil Stock | 1.586M | -1.650M | -5.250M |
-| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 14:00 | EUR | GfK German Consumer Climate (Oct) | -26.5 | -26.0 | -25.6 |
-| 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 17:30 | EUR | German 10-Year Bund Auction | 2.780% |  | 2.630% |
-| 18:00 | EUR | France Jobseekers Total | 2,827.6K |  | 2,816.6K |
-| 20:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 20:00 | EUR | ECB's Enria Speaks |  |  |  |
-| 20:30 | USD | Durable Goods Orders (MoM) (Aug) | 0.2% | -0.5% | -5.6% |
-| 22:30 | USD | Cushing Crude Oil Inventories | -0.943M |  | -2.064M |
+| 24 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 39 min | USD | 5-Year Note Auction |  |  | 4.400% |
+| 09:30 | AUD | Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
+| 15:00 | EUR | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
+| 15:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.4% | 2.4% |
+| 15:00 | EUR | ECB's Enria Speaks |  |  |  |
+| 15:45 | EUR | ECB McCaul Speaks |  |  |  |
+| 16:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 17:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.20% |
+| 20:00 | EUR | German CPI (YoY) (Sep) |  | 4.6% | 6.1% |
+| 20:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.0% | 4.1% |

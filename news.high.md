@@ -1,6 +1,8 @@
-## 27 September 2023 - High Impact Forex News
+## 28 September 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:30 | USD | Core Durable Goods Orders (MoM) (Aug) | 0.4% | 0.1% | 0.1% |
-| 22:30 | USD | Crude Oil Inventories | -2.170M | -1.320M | -2.135M |
+| 20:00 | EUR | German CPI (MoM) (Sep) |  | 0.4% | 0.3% |
+| 20:30 | USD | GDP (QoQ) (Q2) |  | 2.2% | 2.0% |
+| 20:30 | USD | Initial Jobless Claims |  | 217K | 201K |
+| 22:00 | USD | Pending Home Sales (MoM) (Aug) |  | -0.2% | 0.9% |
