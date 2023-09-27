@@ -5,10 +5,10 @@
 | 05:00 | KRW | Manufacturing BSI Index (Oct) | 68 |  | 67 |
 | 09:30 | AUD | Weighted mean CPI (YoY) (Aug) | 5.20% | 5.20% | 4.90% |
 | 09:30 | CNY | Chinese Industrial profit YTD (Aug) | -11.7% |  | -15.5% |
-| 41 min | JPY | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
-| 41 min | JPY | Leading Index (MoM) |  | -1.2% | -0.2% |
-| 41 min | JPY | Leading Index |  | 107.6 | 108.8 |
-| 14:00 | NOK | Unemployment Rate (Aug) |  |  | 3.5% |
+| 13:00 | JPY | Coincident Indicator (MoM) | -1.4% | -1.1% | 0.8% |
+| 13:00 | JPY | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
+| 13:00 | JPY | Leading Index | 108.2 | 107.6 | 108.8 |
+| 46 min | NOK | Unemployment Rate (Aug) |  |  | 3.5% |
 | 14:45 | EUR | French Consumer Confidence (Sep) |  | 84 | 85 |
 | 16:00 | CHF | ZEW Expectations (Sep) |  |  | -38.6 |
 | 16:00 | EUR | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
@@ -29,8 +29,8 @@
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
 | 22:30 | USD | Crude Oil Imports |  |  | -3.042M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.229M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | -2.000M | -2.867M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  | -1.298M | -2.867M |
 | 22:30 | USD | Gasoline Production |  |  | 0.499M |
 | 22:30 | USD | Heating Oil Stockpiles |  |  | -0.109M |
 | 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.8% |
-| 22:30 | USD | Gasoline Inventories |  | -0.050M | -0.831M |
+| 22:30 | USD | Gasoline Inventories |  | -0.120M | -0.831M |

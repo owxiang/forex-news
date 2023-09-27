@@ -10,11 +10,11 @@
 | 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 09:30 | AUD | Low | Weighted mean CPI (YoY) (Aug) | 5.20% | 5.20% | 4.90% |
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | -11.7% |  | -15.5% |
-| 41 min | JPY | Low | Coincident Indicator (MoM) |  | -1.1% | 0.8% |
-| 41 min | JPY | Low | Leading Index (MoM) |  | -1.2% | -0.2% |
-| 41 min | JPY | Low | Leading Index |  | 107.6 | 108.8 |
-| 14:00 | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -26.0 | -25.5 |
-| 14:00 | NOK | Low | Unemployment Rate (Aug) |  |  | 3.5% |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) | -1.4% | -1.1% | 0.8% |
+| 13:00 | JPY | Low | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
+| 13:00 | JPY | Low | Leading Index | 108.2 | 107.6 | 108.8 |
+| 46 min | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -26.0 | -25.5 |
+| 46 min | NOK | Low | Unemployment Rate (Aug) |  |  | 3.5% |
 | 14:45 | EUR | Low | French Consumer Confidence (Sep) |  | 84 | 85 |
 | 15:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Sep) |  |  | -38.6 |
@@ -38,13 +38,13 @@
 | 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | 0.1% |
 | 20:30 | BRL | Low | Bank lending (MoM) (Aug) |  |  | -0.2% |
 | 21:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 22:30 | USD | High | Crude Oil Inventories |  | -1.650M | -2.135M |
+| 22:30 | USD | High | Crude Oil Inventories |  | -1.320M | -2.135M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | -3.042M |
 | 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.064M |
 | 22:30 | USD | Low | Distillate Fuel Production |  |  | -0.229M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | -2.000M | -2.867M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.298M | -2.867M |
 | 22:30 | USD | Low | Gasoline Production |  |  | 0.499M |
 | 22:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.109M |
 | 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.8% |
-| 22:30 | USD | Low | Gasoline Inventories |  | -0.050M | -0.831M |
+| 22:30 | USD | Low | Gasoline Inventories |  | -0.120M | -0.831M |
