@@ -11,7 +11,6 @@
 | 14:00 | NOK | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
 | 14:45 | EUR | French Consumer Confidence (Sep) | 83 | 84 | 85 |
 | 16:00 | CHF | ZEW Expectations (Sep) | -27.6 |  | -38.6 |
-| 16:00 | EUR | M3 Money Supply (Aug) | 10,000,000.0M |  | 10,000,000.0M |
 | 16:00 | EUR | M3 Money Supply (YoY) (Aug) | -1.3% | -1.0% | -0.4% |
 | 16:00 | EUR | Loans to Non Financial Corporations (Aug) | 0.6% |  | 2.2% |
 | 16:00 | EUR | Private Sector Loans (YoY) | 1.0% | 1.2% | 1.3% |
@@ -21,12 +20,12 @@
 | 19:00 | USD | MBA Purchase Index | 144.8 |  | 147.0 |
 | 19:00 | USD | Mortgage Market Index | 189.6 |  | 192.1 |
 | 19:00 | USD | Mortgage Refinance Index | 411.7 |  | 415.4 |
-| 47 min | MXN | Trade Balance (Aug) |  |  | -0.881B |
-| 47 min | MXN | Trade Balance (USD) (Aug) |  |  | 0.532B |
-| 20:30 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -5.5% |
-| 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | 0.1% |
-| 20:30 | BRL | Bank lending (MoM) (Aug) |  |  | -0.2% |
-| 21:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 19:30 | BRL | Bank lending (MoM) (Aug) | 1.1% |  | -0.2% |
+| 20:00 | MXN | Trade Balance (Aug) | -1.377B |  | -0.881B |
+| 20:00 | MXN | Trade Balance (USD) (Aug) | -0.131B |  | 0.532B |
+| 20:30 | USD | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -6.0% |
+| 20:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.9% | 0.0% | -0.4% |
+| 29 min | CHF | SNB Quarterly Bulletin |  |  |  |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
 | 22:30 | USD | Crude Oil Imports |  |  | -3.042M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.229M |

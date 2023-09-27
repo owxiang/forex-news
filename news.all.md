@@ -18,7 +18,6 @@
 | 14:45 | EUR | Low | French Consumer Confidence (Sep) | 83 | 84 | 85 |
 | 15:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Sep) | -27.6 |  | -38.6 |
-| 16:00 | EUR | Low | M3 Money Supply (Aug) | 10,000,000.0M |  | 10,000,000.0M |
 | 16:00 | EUR | Low | M3 Money Supply (YoY) (Aug) | -1.3% | -1.0% | -0.4% |
 | 16:00 | EUR | Low | Loans to Non Financial Corporations (Aug) | 0.6% |  | 2.2% |
 | 16:00 | EUR | Low | Private Sector Loans (YoY) | 1.0% | 1.2% | 1.3% |
@@ -30,15 +29,16 @@
 | 19:00 | USD | Low | MBA Purchase Index | 144.8 |  | 147.0 |
 | 19:00 | USD | Low | Mortgage Market Index | 189.6 |  | 192.1 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 411.7 |  | 415.4 |
-| 47 min | MXN | Low | Trade Balance (Aug) |  |  | -0.881B |
-| 47 min | MXN | Low | Trade Balance (USD) (Aug) |  |  | 0.532B |
-| 47 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 20:30 | USD | High | Core Durable Goods Orders (MoM) (Aug) |  | 0.1% | 0.5% |
-| 20:30 | USD | Moderate | Durable Goods Orders (MoM) (Aug) |  | -0.5% | -5.2% |
-| 20:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -5.5% |
-| 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) |  | 0.0% | 0.1% |
-| 20:30 | BRL | Low | Bank lending (MoM) (Aug) |  |  | -0.2% |
-| 21:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 19:30 | BRL | Low | Bank lending (MoM) (Aug) | 1.1% |  | -0.2% |
+| 20:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 20:00 | MXN | Low | Trade Balance (Aug) | -1.377B |  | -0.881B |
+| 20:00 | MXN | Low | Trade Balance (USD) (Aug) | -0.131B |  | 0.532B |
+| 20:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 20:30 | USD | High | Core Durable Goods Orders (MoM) (Aug) | 0.4% | 0.1% | 0.1% |
+| 20:30 | USD | Moderate | Durable Goods Orders (MoM) (Aug) | 0.2% | -0.5% | -5.6% |
+| 20:30 | USD | Low | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -6.0% |
+| 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Aug) | 0.9% | 0.0% | -0.4% |
+| 29 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 22:30 | USD | High | Crude Oil Inventories |  | -1.320M | -2.135M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.496M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | -3.042M |

@@ -11,6 +11,7 @@
 | 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 17:30 | EUR | German 10-Year Bund Auction | 2.780% |  | 2.630% |
 | 18:00 | EUR | France Jobseekers Total | 2,827.6K |  | 2,816.6K |
-| 47 min | EUR | ECB's Enria Speaks |  |  |  |
-| 20:30 | USD | Durable Goods Orders (MoM) (Aug) |  | -0.5% | -5.2% |
+| 20:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 20:00 | EUR | ECB's Enria Speaks |  |  |  |
+| 20:30 | USD | Durable Goods Orders (MoM) (Aug) | 0.2% | -0.5% | -5.6% |
 | 22:30 | USD | Cushing Crude Oil Inventories |  |  | -2.064M |
