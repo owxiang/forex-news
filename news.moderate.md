@@ -9,8 +9,8 @@
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 14:00 | EUR | GfK German Consumer Climate (Oct) | -26.5 | -26.0 | -25.6 |
 | 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.630% |
-| 18:00 | EUR | France Jobseekers Total |  |  | 2,816.6K |
+| 15 min | EUR | German 10-Year Bund Auction |  |  | 2.630% |
+| 45 min | EUR | France Jobseekers Total |  |  | 2,816.6K |
 | 20:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 20:30 | USD | Durable Goods Orders (MoM) (Aug) |  | -0.5% | -5.2% |
 | 22:30 | USD | Cushing Crude Oil Inventories |  |  | -2.064M |

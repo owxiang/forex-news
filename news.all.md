@@ -11,20 +11,20 @@
 | 09:30 | AUD | Low | Weighted mean CPI (YoY) (Aug) | 5.20% | 5.20% | 4.90% |
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Aug) | -11.7% |  | -15.5% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | -1.4% | -1.1% | 0.8% |
-| 13:00 | JPY | Low | Leading Index | 108.2 | 107.6 | 108.8 |
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
+| 13:00 | JPY | Low | Leading Index | 108.2 | 107.6 | 108.8 |
 | 14:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -26.5 | -26.0 | -25.6 |
 | 14:00 | NOK | Low | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
 | 14:45 | EUR | Low | French Consumer Confidence (Sep) | 83 | 84 | 85 |
 | 15:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Sep) | -27.6 |  | -38.6 |
-| 16:00 | EUR | Low | M3 Money Supply (YoY) (Aug) | -1.3% | -1.0% | -0.4% |
 | 16:00 | EUR | Low | M3 Money Supply (Aug) | 10,000,000.0M |  | 10,000,000.0M |
+| 16:00 | EUR | Low | M3 Money Supply (YoY) (Aug) | -1.3% | -1.0% | -0.4% |
 | 16:00 | EUR | Low | Loans to Non Financial Corporations (Aug) | 0.6% |  | 2.2% |
 | 16:00 | EUR | Low | Private Sector Loans (YoY) | 1.0% | 1.2% | 1.3% |
-| 50 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.829% |
-| 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
-| 18:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,816.6K |
+| 17:10 | EUR | Low | Italian 6-Month BOT Auction | 3.997% |  | 3.829% |
+| 15 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
+| 45 min | EUR | Moderate | France Jobseekers Total |  |  | 2,816.6K |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.31% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 5.4% |
 | 19:00 | USD | Low | MBA Purchase Index |  |  | 147.0 |

@@ -6,16 +6,16 @@
 | 09:30 | AUD | Weighted mean CPI (YoY) (Aug) | 5.20% | 5.20% | 4.90% |
 | 09:30 | CNY | Chinese Industrial profit YTD (Aug) | -11.7% |  | -15.5% |
 | 13:00 | JPY | Coincident Indicator (MoM) | -1.4% | -1.1% | 0.8% |
-| 13:00 | JPY | Leading Index | 108.2 | 107.6 | 108.8 |
 | 13:00 | JPY | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
+| 13:00 | JPY | Leading Index | 108.2 | 107.6 | 108.8 |
 | 14:00 | NOK | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
 | 14:45 | EUR | French Consumer Confidence (Sep) | 83 | 84 | 85 |
 | 16:00 | CHF | ZEW Expectations (Sep) | -27.6 |  | -38.6 |
-| 16:00 | EUR | M3 Money Supply (YoY) (Aug) | -1.3% | -1.0% | -0.4% |
 | 16:00 | EUR | M3 Money Supply (Aug) | 10,000,000.0M |  | 10,000,000.0M |
+| 16:00 | EUR | M3 Money Supply (YoY) (Aug) | -1.3% | -1.0% | -0.4% |
 | 16:00 | EUR | Loans to Non Financial Corporations (Aug) | 0.6% |  | 2.2% |
 | 16:00 | EUR | Private Sector Loans (YoY) | 1.0% | 1.2% | 1.3% |
-| 50 min | EUR | Italian 6-Month BOT Auction |  |  | 3.829% |
+| 17:10 | EUR | Italian 6-Month BOT Auction | 3.997% |  | 3.829% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.31% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | 5.4% |
 | 19:00 | USD | MBA Purchase Index |  |  | 147.0 |
