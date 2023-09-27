@@ -14,4 +14,4 @@
 | 20:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 20:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 20:30 | USD | Durable Goods Orders (MoM) (Aug) | 0.2% | -0.5% | -5.6% |
-| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -2.064M |
+| 15 min | USD | Cushing Crude Oil Inventories |  |  | -2.064M |
