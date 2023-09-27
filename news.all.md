@@ -13,10 +13,10 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | -1.4% | -1.1% | 0.8% |
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
 | 13:00 | JPY | Low | Leading Index | 108.2 | 107.6 | 108.8 |
-| 46 min | EUR | Moderate | GfK German Consumer Climate (Oct) |  | -26.0 | -25.5 |
-| 46 min | NOK | Low | Unemployment Rate (Aug) |  |  | 3.5% |
-| 14:45 | EUR | Low | French Consumer Confidence (Sep) |  | 84 | 85 |
-| 15:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 14:00 | EUR | Moderate | GfK German Consumer Climate (Oct) | -26.5 | -26.0 | -25.6 |
+| 14:00 | NOK | Low | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
+| 25 min | EUR | Low | French Consumer Confidence (Sep) |  | 84 | 85 |
+| 40 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Sep) |  |  | -38.6 |
 | 16:00 | EUR | Low | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
 | 16:00 | EUR | Low | Loans to Non Financial Corporations (Aug) |  |  | 2.2% |

@@ -8,8 +8,8 @@
 | 13:00 | JPY | Coincident Indicator (MoM) | -1.4% | -1.1% | 0.8% |
 | 13:00 | JPY | Leading Index (MoM) | -0.6% | -1.2% | -0.2% |
 | 13:00 | JPY | Leading Index | 108.2 | 107.6 | 108.8 |
-| 46 min | NOK | Unemployment Rate (Aug) |  |  | 3.5% |
-| 14:45 | EUR | French Consumer Confidence (Sep) |  | 84 | 85 |
+| 14:00 | NOK | Unemployment Rate (Aug) | 3.6% |  | 3.6% |
+| 25 min | EUR | French Consumer Confidence (Sep) |  | 84 | 85 |
 | 16:00 | CHF | ZEW Expectations (Sep) |  |  | -38.6 |
 | 16:00 | EUR | M3 Money Supply (YoY) (Aug) |  | -1.0% | -0.4% |
 | 16:00 | EUR | Loans to Non Financial Corporations (Aug) |  |  | 2.2% |
