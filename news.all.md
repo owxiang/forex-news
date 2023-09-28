@@ -16,8 +16,8 @@
 | 14:00 | INR | Low | Current Account (USD) | -9.20B | -8.90B | -1.30B |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | -0.3% |  | -0.9% |
 | 15:00 | INR | Low | Foreign Debt (USD) (Q2) | 629.1B |  | 624.7B |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) | 0.2% | 0.3% | 0.5% |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.6% | 0.6% | 0.5% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.2% | 3.3% | 2.4% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 7.2% |  | 7.3% |
@@ -29,14 +29,14 @@
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.2% |
 | 16:00 | EUR | Low | Bavaria CPI (YoY) (Sep) | 4.1% | 5.9% | 6.1% |
 | 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.3% | 0.3% | 0.4% |
-| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 5.6% | 6.8% | 6.7% |
+| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 17:00 | EUR | Low | Italian PPI (MoM) (Aug) | 0.5% |  | -0.1% |
 | 17:00 | EUR | Low | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
+| 17:00 | EUR | Low | Italian PPI (MoM) (Aug) | 0.5% |  | -0.1% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Low | Business and Consumer Survey (Sep) | 93.3 | 92.5 | 93.6 |
@@ -48,20 +48,22 @@
 | 17:00 | EUR | Low | Industrial Sentiment (Sep) | -9.0 | -10.5 | -9.9 |
 | 17:20 | EUR | Moderate | Italian 10-Year BTP Auction | 4.93% |  | 4.20% |
 | 17:20 | EUR | Low | Italian 5-Year BTP Auction | 4.41% |  | 3.79% |
+| 17:30 | GBP | Low | BoE Hauser Speaks |  |  |  |
 | 17:30 | ZAR | Low | PPI (MoM) (Aug) | 1.0% | 0.5% | 0.2% |
 | 17:30 | ZAR | Low | PPI (YoY) (Aug) | 4.3% | 3.7% | 2.7% |
-| 44 min | EUR | Low | Spanish Business Confidence |  |  | -6.6 |
-| 44 min | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.40% | -0.14% |
-| 19:30 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 19:30 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
-| 19:30 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 20:00 | MXN | Low | Unemployment Rate (Aug) |  |  | 2.90% |
-| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) |  |  | 3.10% |
-| 20:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 4.6% | 6.1% |
-| 20:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
-| 20:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.3% | 0.4% |
-| 20:00 | EUR | Low | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
-| 20:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 19:00 | EUR | Low | Spanish Business Confidence | -8.7 |  | -6.6 |
+| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) | 0.37% | 0.40% | -0.14% |
+| 17 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 17 min | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
+| 17 min | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
+| 47 min | MXN | Low | Unemployment Rate (Aug) |  |  | 2.90% |
+| 47 min | MXN | Low | Unemployment Rate n.s.a. (Aug) |  |  | 3.10% |
+| 47 min | EUR | Moderate | German CPI (YoY) (Sep) |  | 4.6% | 6.1% |
+| 47 min | EUR | High | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
+| 47 min | EUR | Low | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
+| 47 min | EUR | Low | German HICP (MoM) (Sep) |  | 0.3% | 0.4% |
+| 47 min | BRL | Low | BCB Inflation Report |  |  |  |
+| 47 min | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | -0.82% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,675K | 1,662K |
 | 20:30 | USD | Low | Core PCE Prices (Q2) |  | 3.70% | 4.90% |
 | 20:30 | USD | Low | Corporate Profits (QoQ) (Q2) |  | 1.6% | -5.9% |
@@ -74,7 +76,6 @@
 | 20:30 | USD | Low | Real Consumer Spending (Q2) |  | 1.7% | 4.2% |
 | 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Jul) |  |  | 3.6 |
 | 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 21:00 | BRL | Low | Brazilian PPI (MoM) (Aug) |  |  | -0.82% |
 | 22:00 | USD | High | Pending Home Sales (MoM) (Aug) |  | -0.8% | 0.9% |
 | 22:00 | USD | Low | Pending Home Sales Index (Aug) |  |  | 77.6 |
 | 22:30 | USD | Low | Natural Gas Storage |  | 88B | 64B |

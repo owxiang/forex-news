@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:00 | EUR | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
+| 47 min | EUR | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 20:30 | USD | GDP (QoQ) (Q2) |  | 2.1% | 2.0% |
 | 20:30 | USD | Initial Jobless Claims |  | 215K | 201K |
 | 22:00 | USD | Pending Home Sales (MoM) (Aug) |  | -0.8% | 0.9% |
