@@ -9,8 +9,8 @@
 | 07:50 | JPY | Industrial Production (MoM) (Aug) |  | -0.8% | -1.8% |
 | 14:00 | GBP | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
 | 14:00 | GBP | Current Account (Q2) |  | -14.5B | -10.8B |
-| 14:00 | GBP | Nationwide HPI (YoY) |  |  | -5.3% |
 | 14:00 | GBP | Nationwide HPI (MoM) |  |  | -0.8% |
+| 14:00 | GBP | Nationwide HPI (YoY) |  |  | -5.3% |
 | 14:00 | EUR | German Retail Sales (MoM) (Aug) |  | 0.1% | -0.8% |
 | 14:45 | EUR | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
 | 14:45 | EUR | French CPI (MoM) (Sep) |  | -0.2% | 1.0% |
