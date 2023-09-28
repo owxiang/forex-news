@@ -2,8 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 40 min | BRL | CAGED Net Payroll Jobs (Aug) |  | 178.00K | 142.70K |
+| 01:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.144T |
 | 07:30 | JPY | CPI (YoY) (Sep) |  |  | 2.6% |
 | 07:30 | JPY | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
@@ -48,8 +47,8 @@
 | 16:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 16.5% |
 | 17:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 5.4% |
 | 17:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.2% | 5.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | 0.2% |
 | 17:00 | EUR | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
@@ -73,5 +72,5 @@
 | 22:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
 | 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
+| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
