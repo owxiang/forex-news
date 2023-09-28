@@ -8,8 +8,8 @@
 | 08:00 | NZD | ANZ Business Confidence (Sep) | 1.5 |  | -3.7 |
 | 08:00 | NZD | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
 | 11:35 | JPY | 2-Year JGB Auction |  |  | 0.011% |
-| 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
+| 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 14:00 | NOK | Core Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 15:00 | EUR | Spanish CPI (MoM) (Sep) |  |  | 0.5% |
 | 15:00 | EUR | Spanish HICP (MoM) (Sep) |  |  | 0.5% |
@@ -18,17 +18,17 @@
 | 16:00 | EUR | Italian Consumer Confidence (Sep) |  | 106.0 | 106.5 |
 | 16:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -10.2% |
 | 16:00 | EUR | Italian PPI (MoM) (Aug) |  |  | -0.1% |
-| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
-| 16:00 | EUR | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
+| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
+| 16:00 | EUR | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
-| 16:00 | EUR | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
+| 16:00 | EUR | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 17:00 | EUR | Saxony CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Saxony CPI (YoY) (Sep) |  | 6.8% | 6.7% |
+| 17:00 | EUR | Saxony CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Business and Consumer Survey (Sep) |  | 92.5 | 93.3 |
 | 17:00 | EUR | Business Climate (Sep) |  |  | -0.33 |
 | 17:00 | EUR | Consumer Confidence (Sep) |  | -17.8 | -16.0 |

@@ -9,15 +9,15 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -3,025.3B |  | -1,578.4B |
 | 08:00 | NZD | Low | ANZ Business Confidence (Sep) | 1.5 |  | -3.7 |
 | 08:00 | NZD | Low | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
-| 19 min | AUD | Moderate | Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
+| 09:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
 | 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.011% |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
+| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  |  | -0.8% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  |  | 0.5% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.4% | 2.4% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  |  | 0.5% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.4% | 2.4% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | 7.3% |
 | 15:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 15:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
@@ -25,18 +25,18 @@
 | 16:00 | EUR | Low | Italian Consumer Confidence (Sep) |  | 106.0 | 106.5 |
 | 16:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -10.2% |
 | 16:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | -0.1% |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
-| 16:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
+| 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
+| 16:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
-| 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
+| 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 17:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  | 6.8% | 6.7% |
+| 17:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Business and Consumer Survey (Sep) |  | 92.5 | 93.3 |
 | 17:00 | EUR | Low | Business Climate (Sep) |  |  | -0.33 |
 | 17:00 | EUR | Low | Consumer Confidence (Sep) |  | -17.8 | -16.0 |
