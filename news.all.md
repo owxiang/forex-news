@@ -8,17 +8,17 @@
 | 04:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 8,002B |  | 8,024B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.168T |  | 3.144T |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 2.6% |
-| 07:30 | JPY | Low | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
-| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) |  | 2.6% | 2.8% |
-| 07:30 | JPY | Low | Tokyo CPI (YoY) (Sep) |  |  | 2.9% |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
-| 07:30 | JPY | Low | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
-| 07:50 | JPY | Moderate | Industrial Production (MoM) (Aug) |  | -0.8% | -1.8% |
-| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.6% |
-| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | 2.4% |
-| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 6.0% |
-| 07:50 | JPY | Low | Retail Sales (YoY) (Aug) |  | 6.6% | 6.8% |
+| 15 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 2.6% |
+| 15 min | JPY | Low | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
+| 15 min | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) |  | 2.6% | 2.8% |
+| 15 min | JPY | Low | Tokyo CPI (YoY) (Sep) |  |  | 2.9% |
+| 15 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
+| 15 min | JPY | Low | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
+| 35 min | JPY | Moderate | Industrial Production (MoM) (Aug) |  | -0.8% | -1.8% |
+| 35 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.6% |
+| 35 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | 2.4% |
+| 35 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 6.0% |
+| 35 min | JPY | Low | Retail Sales (YoY) (Aug) |  | 6.6% | 6.8% |
 | 09:30 | AUD | Low | Housing Credit (Aug) |  |  | 0.3% |
 | 09:30 | AUD | Low | Private Sector Credit (MoM) (Aug) |  | 0.3% | 0.3% |
 | 10:00 | SGD | Low | Bank Lending |  |  | 786.5B |
@@ -42,8 +42,8 @@
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) |  | 5.0% | 4.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.2% | 1.0% |
-| 14:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 1.1% |
 | 14:45 | EUR | Low | French HICP (YoY) |  | 5.9% | 5.7% |
+| 14:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 1.1% |
 | 14:45 | EUR | Low | PPI (YoY) (Aug) |  |  | 0.90% |
 | 14:45 | EUR | Low | French PPI (MoM) (Aug) |  |  | -0.2% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) |  | 90.5 | 91.1 |
@@ -71,13 +71,13 @@
 | 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.2% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 4.8% | 5.3% |
-| 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.5% | 5.2% |
 | 17:00 | EUR | Moderate | CPI (MoM) |  |  | 0.5% |
+| 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.5% | 5.2% |
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
+| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.04B |
@@ -89,11 +89,11 @@
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Aug) |  |  | 8.0% |
 | 20:00 | BRL | Moderate | Unemployment Rate |  |  | 7.9% |
 | 20:00 | ZAR | Low | Trade Balance (Aug) |  |  | 15.96B |
-| 20:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 3.9% | 4.2% |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
+| 20:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 3.9% | 4.2% |
 | 20:30 | USD | Moderate | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
-| 20:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
 | 20:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
+| 20:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
 | 20:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.4% | 0.2% |
 | 20:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.5% | 0.8% |
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.6% |
@@ -111,5 +111,5 @@
 | 22:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
 | 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
+| 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |

@@ -5,8 +5,8 @@
 | 01:00 | USD | 7-Year Note Auction | 4.673% |  | 4.212% |
 | 03:00 | MXN | Interest Rate Decision (Sep) | 11.25% | 11.25% | 11.25% |
 | 04:30 | USD | Fed's Balance Sheet | 8,002B |  | 8,024B |
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Sep) |  | 2.6% | 2.8% |
-| 07:50 | JPY | Industrial Production (MoM) (Aug) |  | -0.8% | -1.8% |
+| 15 min | JPY | Tokyo Core CPI (YoY) (Sep) |  | 2.6% | 2.8% |
+| 35 min | JPY | Industrial Production (MoM) (Aug) |  | -0.8% | -1.8% |
 | 14:00 | GBP | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
 | 14:00 | GBP | Current Account (Q2) |  | -14.5B | -10.8B |
 | 14:00 | GBP | Nationwide HPI (MoM) |  |  | -0.8% |
@@ -24,8 +24,8 @@
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
 | 20:00 | BRL | Unemployment Rate |  |  | 7.9% |
 | 20:30 | USD | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
-| 20:30 | USD | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
 | 20:30 | USD | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
+| 20:30 | USD | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
 | 20:30 | USD | Personal Spending (MoM) (Aug) |  | 0.5% | 0.8% |
 | 20:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.2% |
 | 20:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.2% |

@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.168T |  | 3.144T |
-| 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 2.6% |
-| 07:30 | JPY | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
-| 07:30 | JPY | Tokyo CPI (YoY) (Sep) |  |  | 2.9% |
-| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
-| 07:30 | JPY | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
-| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.6% |
-| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | 2.4% |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 6.0% |
-| 07:50 | JPY | Retail Sales (YoY) (Aug) |  | 6.6% | 6.8% |
+| 15 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 2.6% |
+| 15 min | JPY | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
+| 15 min | JPY | Tokyo CPI (YoY) (Sep) |  |  | 2.9% |
+| 15 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
+| 15 min | JPY | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
+| 35 min | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.6% |
+| 35 min | JPY | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | 2.4% |
+| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 6.0% |
+| 35 min | JPY | Retail Sales (YoY) (Aug) |  | 6.6% | 6.8% |
 | 09:30 | AUD | Housing Credit (Aug) |  |  | 0.3% |
 | 09:30 | AUD | Private Sector Credit (MoM) (Aug) |  | 0.3% | 0.3% |
 | 10:00 | SGD | Bank Lending |  |  | 786.5B |
@@ -53,8 +53,8 @@
 | 17:00 | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
+| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | FX Reserves, USD |  |  | 593.04B |
@@ -72,5 +72,5 @@
 | 22:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
 | 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
+| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
