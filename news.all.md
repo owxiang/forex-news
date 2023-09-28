@@ -10,7 +10,7 @@
 | 08:00 | NZD | Low | ANZ Business Confidence (Sep) | 1.5 |  | -3.7 |
 | 08:00 | NZD | Low | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
-| 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.011% |
+| 19 min | JPY | Low | 2-Year JGB Auction |  |  | 0.011% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) |  |  | -0.8% |
@@ -23,8 +23,8 @@
 | 15:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 16:00 | EUR | Low | Italian Business Confidence (Sep) |  | 98.0 | 97.8 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Sep) |  | 106.0 | 106.5 |
-| 16:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -10.2% |
 | 16:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | -0.1% |
+| 16:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -10.2% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |

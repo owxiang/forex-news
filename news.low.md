@@ -7,7 +7,7 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -3,025.3B |  | -1,578.4B |
 | 08:00 | NZD | ANZ Business Confidence (Sep) | 1.5 |  | -3.7 |
 | 08:00 | NZD | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
-| 11:35 | JPY | 2-Year JGB Auction |  |  | 0.011% |
+| 19 min | JPY | 2-Year JGB Auction |  |  | 0.011% |
 | 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
 | 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 14:00 | NOK | Core Retail Sales (MoM) (Aug) |  |  | -0.8% |
@@ -16,8 +16,8 @@
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Aug) |  |  | 7.3% |
 | 16:00 | EUR | Italian Business Confidence (Sep) |  | 98.0 | 97.8 |
 | 16:00 | EUR | Italian Consumer Confidence (Sep) |  | 106.0 | 106.5 |
-| 16:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -10.2% |
 | 16:00 | EUR | Italian PPI (MoM) (Aug) |  |  | -0.1% |
+| 16:00 | EUR | Italian PPI (YoY) (Aug) |  |  | -10.2% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
