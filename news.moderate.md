@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 7-Year Note Auction | 4.673% |  | 4.212% |
-| 40 min | MXN | Interest Rate Decision (Sep) |  | 11.25% | 11.25% |
+| 03:00 | MXN | Interest Rate Decision (Sep) | 11.25% | 11.25% | 11.25% |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 8,024B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Sep) |  | 2.6% | 2.8% |
 | 07:50 | JPY | Industrial Production (MoM) (Aug) |  | -0.8% | -1.8% |

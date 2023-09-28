@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 7-Year Note Auction | 4.673% |  | 4.212% |
 | 01:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 40 min | MXN | Moderate | Interest Rate Decision (Sep) |  | 11.25% | 11.25% |
-| 04:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 03:00 | MXN | Moderate | Interest Rate Decision (Sep) | 11.25% | 11.25% | 11.25% |
+| 48 min | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,024B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.144T |
 | 07:30 | JPY | Low | CPI (YoY) (Sep) |  |  | 2.6% |
