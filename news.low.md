@@ -18,8 +18,8 @@
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Aug) | 7.2% |  | 7.3% |
 | 16:00 | EUR | Italian Business Confidence (Sep) | 96.4 | 97.8 | 97.7 |
 | 16:00 | EUR | Italian Consumer Confidence (Sep) | 105.4 | 105.5 | 106.5 |
-| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 5.1% | 7.0% | 6.8% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.2% |
+| 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 5.1% | 7.0% | 6.8% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Sep) | 4.1% | 5.9% | 6.1% |
 | 16:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.3% | 0.3% | 0.4% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Sep) | 5.6% | 6.8% | 6.7% |
@@ -40,29 +40,29 @@
 | 17:00 | EUR | Industrial Sentiment (Sep) | -9.0 | -10.5 | -9.9 |
 | 17:20 | EUR | Italian 5-Year BTP Auction | 4.41% |  | 3.79% |
 | 17:30 | GBP | BoE Hauser Speaks |  |  |  |
-| 17:30 | ZAR | PPI (MoM) (Aug) | 1.0% | 0.5% | 0.2% |
 | 17:30 | ZAR | PPI (YoY) (Aug) | 4.3% | 3.7% | 2.7% |
+| 17:30 | ZAR | PPI (MoM) (Aug) | 1.0% | 0.5% | 0.2% |
 | 19:00 | EUR | Spanish Business Confidence | -8.7 |  | -6.6 |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Sep) | 0.37% | 0.40% | -0.14% |
-| 17 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 17 min | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
-| 17 min | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 47 min | MXN | Unemployment Rate (Aug) |  |  | 2.90% |
-| 47 min | MXN | Unemployment Rate n.s.a. (Aug) |  |  | 3.10% |
-| 47 min | EUR | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
-| 47 min | EUR | German HICP (MoM) (Sep) |  | 0.3% | 0.4% |
-| 47 min | BRL | BCB Inflation Report |  |  |  |
-| 47 min | BRL | Brazilian PPI (MoM) (Aug) |  |  | -0.82% |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,675K | 1,662K |
-| 20:30 | USD | Core PCE Prices (Q2) |  | 3.70% | 4.90% |
-| 20:30 | USD | Corporate Profits (QoQ) (Q2) |  | 1.6% | -5.9% |
-| 20:30 | USD | GDP Sales (Q2) |  | 2.2% | 4.2% |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.00K |
-| 20:30 | USD | PCE Prices (Q2) |  | 2.5% | 4.1% |
-| 20:30 | USD | Real Consumer Spending (Q2) |  | 1.7% | 4.2% |
+| 20:00 | MXN | Unemployment Rate (Aug) | 2.70% |  | 2.90% |
+| 20:00 | MXN | Unemployment Rate n.s.a. (Aug) | 3.00% |  | 3.10% |
+| 20:00 | EUR | German HICP (YoY) (Sep) | 4.3% | 4.5% | 6.4% |
+| 20:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.3% | 0.4% |
+| 20:00 | BRL | BCB Inflation Report |  |  |  |
+| 20:00 | BRL | Brazilian PPI (MoM) (Aug) | 0.92% |  | -0.82% |
+| 20:30 | USD | Continuing Jobless Claims | 1,670K | 1,675K | 1,658K |
+| 20:30 | USD | Core PCE Prices (Q2) | 3.70% | 3.70% | 4.90% |
+| 20:30 | USD | Corporate Profits (QoQ) (Q2) | -4.1% | 1.6% | -5.9% |
+| 20:30 | USD | GDP Sales (Q2) | 2.1% | 2.2% | 4.2% |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 211.00K |  | 217.25K |
+| 20:30 | USD | PCE Prices (Q2) | 2.5% | 2.5% | 4.1% |
+| 20:30 | USD | Real Consumer Spending (Q2) | 0.8% | 1.7% | 4.2% |
 | 20:30 | CAD | Average Weekly Earnings (YoY) (Jul) |  |  | 3.6 |
-| 21:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 29 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | USD | Pending Home Sales Index (Aug) |  |  | 77.6 |
+| 22:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 22:00 | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
+| 22:00 | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
 | 22:30 | USD | Natural Gas Storage |  | 88B | 64B |
 | 23:00 | USD | KC Fed Composite Index (Sep) |  |  | 0 |
 | 23:00 | USD | KC Fed Manufacturing Index (Sep) |  |  | 12 |
