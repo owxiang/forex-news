@@ -5,9 +5,9 @@
 | 01:00 | USD | Moderate | 7-Year Note Auction | 4.673% |  | 4.212% |
 | 01:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Sep) | 11.25% | 11.25% | 11.25% |
-| 48 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,024B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.144T |
+| 04:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 8,024B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.144T |
 | 07:30 | JPY | Low | CPI (YoY) (Sep) |  |  | 2.6% |
 | 07:30 | JPY | Low | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Sep) |  | 2.6% | 2.8% |
@@ -35,8 +35,8 @@
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | -5.3% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | 0.5% | -0.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  |  | -13.2% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) |  | 0.1% | -0.8% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Aug) |  |  | -2.2% |
+| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) |  | 0.1% | -0.8% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) |  |  | 9.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Aug) |  |  | 5.87% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
@@ -76,8 +76,8 @@
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
+| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.04B |
