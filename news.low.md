@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -4.795B | -2.532B | -1.148B |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 885.5B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -1,583.9B |
-| 45 min | NZD | ANZ Business Confidence (Sep) |  |  | -3.7 |
-| 45 min | NZD | NBNZ Own Activity (Sep) |  |  | 11.2% |
+| 07:50 | JPY | Foreign Bonds Buying | -544.4B |  | 880.9B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | -3,025.3B |  | -1,578.4B |
+| 08:00 | NZD | ANZ Business Confidence (Sep) | 1.5 |  | -3.7 |
+| 08:00 | NZD | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
 | 11:35 | JPY | 2-Year JGB Auction |  |  | 0.011% |
 | 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Sep) |  | 0.3% | 0.2% |
 | 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Sep) |  | 5.9% | 5.8% |
@@ -20,8 +20,8 @@
 | 16:00 | EUR | Italian PPI (MoM) (Aug) |  |  | -0.1% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
-| 16:00 | EUR | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
+| 16:00 | EUR | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 16:00 | EUR | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
