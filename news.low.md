@@ -53,8 +53,8 @@
 | 17:00 | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
+| 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | FX Reserves, USD |  |  | 593.04B |
