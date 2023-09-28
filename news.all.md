@@ -11,30 +11,32 @@
 | 08:00 | NZD | Low | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
 | 11:35 | JPY | Low | 2-Year JGB Auction | 0.045% |  | 0.011% |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 4.2% | 5.9% | 5.8% |
+| 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
+| 14:00 | INR | Low | Current Account (USD) | -9.20B | -8.90B | -1.30B |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | -0.3% |  | -0.9% |
-| 39 min | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
-| 39 min | EUR | Low | Spanish CPI (MoM) (Sep) |  | 0.3% | 0.5% |
-| 39 min | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.6% | 0.5% |
-| 39 min | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.3% | 2.4% |
-| 39 min | EUR | Low | Spanish Retail Sales (YoY) (Aug) |  |  | 7.3% |
-| 39 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 15:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 16:00 | EUR | Low | Italian Business Confidence (Sep) |  | 97.8 | 97.8 |
-| 16:00 | EUR | Low | Italian Consumer Confidence (Sep) |  | 105.5 | 106.5 |
-| 16:00 | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -10.2% |
-| 16:00 | EUR | Low | Italian PPI (MoM) (Aug) |  |  | -0.1% |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
-| 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
-| 16:00 | EUR | Low | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
-| 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
-| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
-| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
-| 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 15:00 | INR | Low | Foreign Debt (USD) (Q2) | 629.1B |  | 624.7B |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
+| 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) | 0.2% | 0.3% | 0.5% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.2% | 3.3% | 2.4% |
+| 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.6% | 0.6% | 0.5% |
+| 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 7.2% |  | 7.3% |
+| 15:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 30 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 45 min | EUR | Low | Italian Business Confidence (Sep) |  | 97.8 | 97.8 |
+| 45 min | EUR | Low | Italian Consumer Confidence (Sep) |  | 105.5 | 106.5 |
+| 45 min | EUR | Low | Italian PPI (YoY) (Aug) |  |  | -10.2% |
+| 45 min | EUR | Low | Italian PPI (MoM) (Aug) |  |  | -0.1% |
+| 45 min | EUR | Low | Baden Wuerttemberg CPI (MoM) |  | 0.3% | 0.2% |
+| 45 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) |  | 7.0% | 6.8% |
+| 45 min | EUR | Low | Bavaria CPI (YoY) (Sep) |  | 5.9% | 6.1% |
+| 45 min | EUR | Low | Bavaria CPI (MoM) (Sep) |  | 0.3% | 0.4% |
+| 45 min | EUR | Low | Brandenburg CPI (YoY) (Sep) |  | 6.8% | 6.7% |
+| 45 min | EUR | Low | Brandenburg CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 45 min | EUR | Low | Hesse CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 45 min | EUR | Low | Hesse CPI (YoY) (Sep) |  | 6.0% | 6.1% |
+| 45 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 45 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) |  | 6.8% | 6.7% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Business and Consumer Survey (Sep) |  | 92.5 | 93.3 |
