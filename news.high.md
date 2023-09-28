@@ -1,8 +1,10 @@
-## 28 September 2023 - High Impact Forex News
+## 29 September 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:00 | EUR | German CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
-| 20:30 | USD | GDP (QoQ) (Q2) | 2.1% | 2.1% | 2.0% |
-| 20:30 | USD | Initial Jobless Claims | 204K | 215K | 202K |
-| 22:00 | USD | Pending Home Sales (MoM) (Aug) | -7.1% | -0.8% | 0.5% |
+| 04:00 | USD | Fed Chair Powell Speaks |  |  |  |
+| 14:00 | GBP | GDP (YoY) (Q2) |  | 0.4% | 0.2% |
+| 14:00 | GBP | GDP (QoQ) (Q2) |  | 0.2% | 0.1% |
+| 17:00 | EUR | CPI (YoY) (Sep) |  | 4.5% | 5.2% |
+| 20:30 | USD | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
+| 20:30 | USD | Core PCE Price Index (YoY) (Aug) |  | 3.9% | 4.2% |
