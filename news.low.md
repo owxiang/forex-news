@@ -27,8 +27,8 @@
 | 16:00 | EUR | Hesse CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
 | 16:00 | EUR | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 17:00 | EUR | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
 | 17:00 | EUR | Italian PPI (MoM) (Aug) | 0.5% |  | -0.1% |
+| 17:00 | EUR | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
 | 17:00 | EUR | Saxony CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 17:00 | EUR | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Business and Consumer Survey (Sep) | 93.3 | 92.5 | 93.6 |
@@ -38,19 +38,18 @@
 | 17:00 | EUR | Selling Price Expectations (Sep) | 3.6 |  | 3.1 |
 | 17:00 | EUR | Services Sentiment (Sep) | 4.0 | 3.5 | 4.3 |
 | 17:00 | EUR | Industrial Sentiment (Sep) | -9.0 | -10.5 | -9.9 |
-| 17:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.79% |
-| 15 min | ZAR | PPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 15 min | ZAR | PPI (YoY) (Aug) |  | 3.7% | 2.7% |
-| Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
-| 19:00 | EUR | Spanish Business Confidence |  |  | -6.6 |
-| 19:00 | BRL | IGP-M Inflation Index (MoM) (Sep) |  | 0.40% | -0.14% |
+| 17:20 | EUR | Italian 5-Year BTP Auction | 4.41% |  | 3.79% |
+| 17:30 | ZAR | PPI (MoM) (Aug) | 1.0% | 0.5% | 0.2% |
+| 17:30 | ZAR | PPI (YoY) (Aug) | 4.3% | 3.7% | 2.7% |
+| 44 min | EUR | Spanish Business Confidence |  |  | -6.6 |
+| 44 min | BRL | IGP-M Inflation Index (MoM) (Sep) |  | 0.40% | -0.14% |
 | 19:30 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 19:30 | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 19:30 | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
 | 20:00 | MXN | Unemployment Rate (Aug) |  |  | 2.90% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Aug) |  |  | 3.10% |
-| 20:00 | EUR | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
 | 20:00 | EUR | German HICP (MoM) (Sep) |  | 0.3% | 0.4% |
+| 20:00 | EUR | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
 | 20:00 | BRL | BCB Inflation Report |  |  |  |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,675K | 1,662K |
 | 20:30 | USD | Core PCE Prices (Q2) |  | 3.70% | 4.90% |

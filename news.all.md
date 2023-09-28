@@ -35,8 +35,8 @@
 | 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 17:00 | EUR | Low | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
 | 17:00 | EUR | Low | Italian PPI (MoM) (Aug) | 0.5% |  | -0.1% |
+| 17:00 | EUR | Low | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Low | Business and Consumer Survey (Sep) | 93.3 | 92.5 | 93.6 |
@@ -46,13 +46,12 @@
 | 17:00 | EUR | Low | Selling Price Expectations (Sep) | 3.6 |  | 3.1 |
 | 17:00 | EUR | Low | Services Sentiment (Sep) | 4.0 | 3.5 | 4.3 |
 | 17:00 | EUR | Low | Industrial Sentiment (Sep) | -9.0 | -10.5 | -9.9 |
-| 17:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.20% |
-| 17:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.79% |
-| 15 min | ZAR | Low | PPI (MoM) (Aug) |  | 0.5% | 0.2% |
-| 15 min | ZAR | Low | PPI (YoY) (Aug) |  | 3.7% | 2.7% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
-| 19:00 | EUR | Low | Spanish Business Confidence |  |  | -6.6 |
-| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.40% | -0.14% |
+| 17:20 | EUR | Moderate | Italian 10-Year BTP Auction | 4.93% |  | 4.20% |
+| 17:20 | EUR | Low | Italian 5-Year BTP Auction | 4.41% |  | 3.79% |
+| 17:30 | ZAR | Low | PPI (MoM) (Aug) | 1.0% | 0.5% | 0.2% |
+| 17:30 | ZAR | Low | PPI (YoY) (Aug) | 4.3% | 3.7% | 2.7% |
+| 44 min | EUR | Low | Spanish Business Confidence |  |  | -6.6 |
+| 44 min | BRL | Low | IGP-M Inflation Index (MoM) (Sep) |  | 0.40% | -0.14% |
 | 19:30 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 19:30 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 19:30 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
@@ -60,8 +59,8 @@
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Aug) |  |  | 3.10% |
 | 20:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 4.6% | 6.1% |
 | 20:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
-| 20:00 | EUR | Low | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
 | 20:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.3% | 0.4% |
+| 20:00 | EUR | Low | German HICP (YoY) (Sep) |  | 4.5% | 6.4% |
 | 20:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,675K | 1,662K |
 | 20:30 | USD | Low | Core PCE Prices (Q2) |  | 3.70% | 4.90% |

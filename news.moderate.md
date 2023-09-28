@@ -10,6 +10,6 @@
 | 15:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 15:45 | EUR | ECB McCaul Speaks |  |  |  |
 | 16:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 17:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.20% |
+| 17:20 | EUR | Italian 10-Year BTP Auction | 4.93% |  | 4.20% |
 | 20:00 | EUR | German CPI (YoY) (Sep) |  | 4.6% | 6.1% |
 | 20:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.0% | 4.1% |
