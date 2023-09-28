@@ -11,15 +11,15 @@
 | 08:00 | NZD | Low | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
 | 09:30 | AUD | Moderate | Retail Sales (MoM) (Aug) | 0.2% | 0.3% | 0.5% |
 | 11:35 | JPY | Low | 2-Year JGB Auction | 0.045% |  | 0.011% |
-| 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 4.2% | 5.9% | 5.8% |
 | 13:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
+| 13:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Sep) | 4.2% | 5.9% | 5.8% |
 | 14:00 | INR | Low | Current Account (USD) | -9.20B | -8.90B | -1.30B |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Aug) | -0.3% |  | -0.9% |
 | 15:00 | INR | Low | Foreign Debt (USD) (Q2) | 629.1B |  | 624.7B |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) | 0.2% | 0.3% | 0.5% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.2% | 3.3% | 2.4% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.6% | 0.6% | 0.5% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.2% | 3.3% | 2.4% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Aug) | 7.2% |  | 7.3% |
 | 15:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 15:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
@@ -27,18 +27,18 @@
 | 16:00 | EUR | Low | Italian Consumer Confidence (Sep) | 105.4 | 105.5 | 106.5 |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.2% |
 | 16:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Sep) | 5.1% | 7.0% | 6.8% |
-| 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.3% | 0.3% | 0.4% |
 | 16:00 | EUR | Low | Bavaria CPI (YoY) (Sep) | 4.1% | 5.9% | 6.1% |
+| 16:00 | EUR | Low | Bavaria CPI (MoM) (Sep) | 0.3% | 0.3% | 0.4% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Sep) | 5.6% | 6.8% | 6.7% |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
-| 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | EUR | Low | Hesse CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
+| 16:00 | EUR | Low | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 17:00 | EUR | Low | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
 | 17:00 | EUR | Low | Italian PPI (MoM) (Aug) | 0.5% |  | -0.1% |
-| 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
+| 17:00 | EUR | Low | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Low | Business and Consumer Survey (Sep) | 93.3 | 92.5 | 93.6 |
 | 17:00 | EUR | Low | Business Climate (Sep) | -0.36 |  | -0.41 |
 | 17:00 | EUR | Low | Consumer Confidence (Sep) | -17.8 | -17.8 | -16.0 |
@@ -75,8 +75,8 @@
 | 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | USD | High | Pending Home Sales (MoM) (Aug) | -7.1% | -0.8% | 0.5% |
 | 22:00 | USD | Low | Pending Home Sales Index (Aug) | 71.8 |  | 77.3 |
-| 15 min | USD | Low | Natural Gas Storage |  | 88B | 64B |
-| 45 min | USD | Low | KC Fed Composite Index (Sep) |  |  | 0 |
-| 45 min | USD | Low | KC Fed Manufacturing Index (Sep) |  |  | 12 |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.300% |
+| 22:30 | USD | Low | Natural Gas Storage | 90B | 88B | 64B |
+| 23:00 | USD | Low | KC Fed Composite Index (Sep) | -8 |  | 0 |
+| 23:00 | USD | Low | KC Fed Manufacturing Index (Sep) | -13 |  | 12 |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.300% |

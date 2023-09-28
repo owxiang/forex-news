@@ -8,8 +8,8 @@
 | 08:00 | NZD | ANZ Business Confidence (Sep) | 1.5 |  | -3.7 |
 | 08:00 | NZD | NBNZ Own Activity (Sep) | 10.9% |  | 11.2% |
 | 11:35 | JPY | 2-Year JGB Auction | 0.045% |  | 0.011% |
-| 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 4.2% | 5.9% | 5.8% |
 | 13:30 | EUR | North Rhine Westphalia CPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
+| 13:30 | EUR | North Rhine Westphalia CPI (YoY) (Sep) | 4.2% | 5.9% | 5.8% |
 | 14:00 | INR | Current Account (USD) | -9.20B | -8.90B | -1.30B |
 | 14:00 | NOK | Core Retail Sales (MoM) (Aug) | -0.3% |  | -0.9% |
 | 15:00 | INR | Foreign Debt (USD) (Q2) | 629.1B |  | 624.7B |
@@ -20,17 +20,17 @@
 | 16:00 | EUR | Italian Consumer Confidence (Sep) | 105.4 | 105.5 | 106.5 |
 | 16:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% | 0.3% | 0.2% |
 | 16:00 | EUR | Baden Wuerttemberg CPI (YoY) (Sep) | 5.1% | 7.0% | 6.8% |
-| 16:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.3% | 0.3% | 0.4% |
 | 16:00 | EUR | Bavaria CPI (YoY) (Sep) | 4.1% | 5.9% | 6.1% |
+| 16:00 | EUR | Bavaria CPI (MoM) (Sep) | 0.3% | 0.3% | 0.4% |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Sep) | 5.6% | 6.8% | 6.7% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
-| 16:00 | EUR | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | EUR | Hesse CPI (MoM) (Sep) | 0.3% | 0.2% | 0.3% |
+| 16:00 | EUR | Hesse CPI (YoY) (Sep) | 4.7% | 6.0% | 6.1% |
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 17:00 | EUR | Italian PPI (YoY) (Aug) | -12.2% |  | -10.2% |
 | 17:00 | EUR | Italian PPI (MoM) (Aug) | 0.5% |  | -0.1% |
-| 17:00 | EUR | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Saxony CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
+| 17:00 | EUR | Saxony CPI (YoY) (Sep) | 5.4% | 6.8% | 6.7% |
 | 17:00 | EUR | Business and Consumer Survey (Sep) | 93.3 | 92.5 | 93.6 |
 | 17:00 | EUR | Business Climate (Sep) | -0.36 |  | -0.41 |
 | 17:00 | EUR | Consumer Confidence (Sep) | -17.8 | -17.8 | -16.0 |
@@ -60,8 +60,8 @@
 | 20:30 | CAD | Average Weekly Earnings (YoY) (Jul) | 4.3 |  | 3.7 |
 | 21:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:00 | USD | Pending Home Sales Index (Aug) | 71.8 |  | 77.3 |
-| 15 min | USD | Natural Gas Storage |  | 88B | 64B |
-| 45 min | USD | KC Fed Composite Index (Sep) |  |  | 0 |
-| 45 min | USD | KC Fed Manufacturing Index (Sep) |  |  | 12 |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.300% |
+| 22:30 | USD | Natural Gas Storage | 90B | 88B | 64B |
+| 23:00 | USD | KC Fed Composite Index (Sep) | -8 |  | 0 |
+| 23:00 | USD | KC Fed Manufacturing Index (Sep) | -13 |  | 12 |
+| 14 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | 8-Week Bill Auction |  |  | 5.300% |
