@@ -4,19 +4,19 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.168T |  | 3.144T |
-| 15 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) |  |  | 2.6% |
-| 15 min | JPY | Jobs/applications ratio (Aug) |  | 1.29 | 1.29 |
-| 15 min | JPY | Tokyo CPI (YoY) (Sep) |  |  | 2.9% |
-| 15 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) |  |  | 0.4% |
-| 15 min | JPY | Unemployment Rate (Aug) |  | 2.6% | 2.7% |
-| 35 min | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) |  |  | 2.6% |
-| 35 min | JPY | Industrial Production forecast 2m ahead (MoM) (Oct) |  |  | 2.4% |
-| 35 min | JPY | Large Scale Retail Sales YoY (YoY) (Aug) |  |  | 6.0% |
-| 35 min | JPY | Retail Sales (YoY) (Aug) |  | 6.6% | 6.8% |
-| 09:30 | AUD | Housing Credit (Aug) |  |  | 0.3% |
-| 09:30 | AUD | Private Sector Credit (MoM) (Aug) |  | 0.3% | 0.3% |
-| 10:00 | SGD | Bank Lending |  |  | 786.5B |
-| 10:00 | NZD | M3 Money Supply (Aug) |  |  | 403.4B |
+| 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Sep) | 2.4% |  | 2.6% |
+| 07:30 | JPY | Jobs/applications ratio (Aug) | 1.29 | 1.29 | 1.29 |
+| 07:30 | JPY | Tokyo CPI (YoY) (Sep) | 2.8% |  | 2.9% |
+| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Sep) | -0.2% |  | 0.4% |
+| 07:30 | JPY | Unemployment Rate (Aug) | 2.7% | 2.6% | 2.7% |
+| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Sep) | 5.8% |  | 2.6% |
+| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Oct) | 3.8% |  | 2.4% |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Aug) | 6.0% |  | 6.0% |
+| 07:50 | JPY | Retail Sales (YoY) (Aug) | 7.0% | 6.6% | 7.0% |
+| 22 min | AUD | Housing Credit (Aug) |  |  | 0.3% |
+| 22 min | AUD | Private Sector Credit (MoM) (Aug) |  | 0.3% | 0.3% |
+| 52 min | SGD | Bank Lending |  |  | 786.5B |
+| 52 min | NZD | M3 Money Supply (Aug) |  |  | 403.4B |
 | 13:00 | JPY | Construction Orders (YoY) (Aug) |  |  | 8.7% |
 | 13:00 | JPY | Household Confidence (Sep) |  | 36.2 | 36.2 |
 | 13:00 | JPY | Housing Starts (YoY) (Aug) |  | -8.9% | -6.7% |
@@ -47,14 +47,14 @@
 | 16:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 16.5% |
 | 17:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 5.4% |
 | 17:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.2% | 5.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | 0.2% |
 | 17:00 | EUR | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
+| 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | FX Reserves, USD |  |  | 593.04B |
