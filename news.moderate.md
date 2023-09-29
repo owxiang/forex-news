@@ -22,8 +22,8 @@
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
 | 20:00 | BRL | Unemployment Rate |  | 7.8% | 7.9% |
 | 20:30 | USD | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
-| 20:30 | USD | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
 | 20:30 | USD | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
+| 20:30 | USD | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
 | 20:30 | USD | Personal Spending (MoM) (Aug) |  | 0.4% | 0.8% |
 | 20:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.2% |
 | 20:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.2% |
