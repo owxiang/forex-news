@@ -23,29 +23,29 @@
 | 09:30 | AUD | Low | Private Sector Credit (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
 | 10:00 | SGD | Low | Bank Lending | 786.3B |  | 786.5B |
 | 10:00 | NZD | Low | M3 Money Supply (Aug) | 403.4B |  | 403.4B |
-| 41 min | JPY | Low | Construction Orders (YoY) (Aug) |  |  | 8.7% |
-| 41 min | JPY | Low | Household Confidence (Sep) |  | 36.2 | 36.2 |
-| 41 min | JPY | Low | Housing Starts (YoY) (Aug) |  | -8.9% | -6.7% |
-| 14:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 6.7% | 5.8% |
-| 14:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
-| 14:00 | GBP | Moderate | Current Account (Q2) |  | -15.0B | -10.8B |
-| 14:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.2% | 0.1% |
-| 14:00 | GBP | High | GDP (YoY) (Q2) |  | 0.4% | 0.2% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | -0.8% |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | -5.3% |
-| 14:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | 0.5% | -0.6% |
-| 14:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  | -16.4% | -13.2% |
-| 14:00 | EUR | Low | German Retail Sales (YoY) (Aug) |  | -0.7% | -2.2% |
-| 14:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
-| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) |  | 9.05% | 9.30% |
-| 14:00 | ZAR | Low | Private Sector Credit (Aug) |  | 5.00% | 5.87% |
+| 13:00 | JPY | Low | Construction Orders (YoY) (Aug) | -4.3% |  | 8.7% |
+| 13:00 | JPY | Low | Household Confidence (Sep) | 35.2 | 36.2 | 36.2 |
+| 13:00 | JPY | Low | Housing Starts (YoY) (Aug) | -9.4% | -8.9% | -6.7% |
+| 45 min | GBP | Low | Business Investment (YoY) (Q2) |  | 6.7% | 5.8% |
+| 45 min | GBP | Moderate | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
+| 45 min | GBP | Moderate | Current Account (Q2) |  | -15.0B | -10.8B |
+| 45 min | GBP | High | GDP (YoY) (Q2) |  | 0.4% | 0.2% |
+| 45 min | GBP | High | GDP (QoQ) (Q2) |  | 0.2% | 0.1% |
+| 45 min | GBP | Moderate | Nationwide HPI (MoM) |  |  | -0.8% |
+| 45 min | GBP | Moderate | Nationwide HPI (YoY) |  |  | -5.3% |
+| 45 min | EUR | Low | German Import Price Index (MoM) (Aug) |  | 0.5% | -0.6% |
+| 45 min | EUR | Low | German Import Price Index (YoY) (Aug) |  | -16.4% | -13.2% |
+| 45 min | EUR | Moderate | German Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
+| 45 min | EUR | Low | German Retail Sales (YoY) (Aug) |  | -0.7% | -2.2% |
+| 45 min | ZAR | Low | M3 Money Supply (YoY) (Aug) |  | 9.05% | 9.30% |
+| 45 min | ZAR | Low | Private Sector Credit (Aug) |  | 5.00% | 5.87% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) |  | 5.1% | 4.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.3% | 1.0% |
 | 14:45 | EUR | Moderate | French HICP (MoM) |  | -0.3% | 1.1% |
 | 14:45 | EUR | Low | French HICP (YoY) |  | 5.9% | 5.7% |
-| 14:45 | EUR | Low | PPI (YoY) (Aug) |  |  | 0.90% |
 | 14:45 | EUR | Low | French PPI (MoM) (Aug) |  |  | -0.2% |
+| 14:45 | EUR | Low | PPI (YoY) (Aug) |  |  | 0.90% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) |  | 90.5 | 91.1 |
 | 15:00 | CHF | Low | Official Reserves Assets (Aug) |  |  | 768.2B |
 | 15:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -67,8 +67,8 @@
 | 16:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 16.5% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.3% | 0.2% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 4.8% | 5.3% |
 | 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.5% | 5.2% |
@@ -76,8 +76,8 @@
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
+| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.04B |
@@ -111,5 +111,5 @@
 | 22:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
 | 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |

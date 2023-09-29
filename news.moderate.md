@@ -7,11 +7,11 @@
 | 04:30 | USD | Fed's Balance Sheet | 8,002B |  | 8,024B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Sep) | 2.5% | 2.6% | 2.8% |
 | 07:50 | JPY | Industrial Production (MoM) (Aug) | 0.0% | -0.8% | -1.8% |
-| 14:00 | GBP | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
-| 14:00 | GBP | Current Account (Q2) |  | -15.0B | -10.8B |
-| 14:00 | GBP | Nationwide HPI (MoM) |  |  | -0.8% |
-| 14:00 | GBP | Nationwide HPI (YoY) |  |  | -5.3% |
-| 14:00 | EUR | German Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
+| 45 min | GBP | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
+| 45 min | GBP | Current Account (Q2) |  | -15.0B | -10.8B |
+| 45 min | GBP | Nationwide HPI (MoM) |  |  | -0.8% |
+| 45 min | GBP | Nationwide HPI (YoY) |  |  | -5.3% |
+| 45 min | EUR | German Retail Sales (MoM) (Aug) |  | 0.5% | -0.8% |
 | 14:45 | EUR | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
 | 14:45 | EUR | French CPI (MoM) (Sep) |  | -0.3% | 1.0% |
 | 14:45 | EUR | French HICP (MoM) |  | -0.3% | 1.1% |
