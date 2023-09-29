@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 26 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 41 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 507 |
-| 41 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 630 |
+| 00:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 502 |  | 507 |
+| 01:00 | USD | U.S. Baker Hughes Total Rig Count | 623 |  | 630 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 33.7K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 328.4K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 135.2K |

@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:00 | USD | Low | Dallas Fed PCE (Aug) | 2.60% |  | 2.60% |
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 26 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 507 |
-| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 630 |
-| 41 min | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 178.00K | 142.70K |
+| 00:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 502 |  | 507 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 623 |  | 630 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 33.7K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.4K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -16.3K |

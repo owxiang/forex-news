@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | BRL | CAGED Net Payroll Jobs (Aug) |  | 178.00K | 142.70K |
+| 00:00 | USD | Dallas Fed PCE (Aug) | 2.60% |  | 2.60% |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.4K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -16.3K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -101.2K |
