@@ -45,8 +45,8 @@
 | 16:30 | GBP | Net Lending to Individuals | 2.9B | 1.5B | 1.4B |
 | 16:30 | HKD | M3 Money Supply (Aug) | 1.4% |  | 0.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Aug) | 13.7% |  | 16.5% |
-| 17:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 17:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
+| 17:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 17:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
 | 17:00 | EUR | Core CPI (MoM) | 0.2% |  | 0.3% |
@@ -69,8 +69,6 @@
 | 20:30 | USD | Personal Income (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Aug) | 0.1% |  | 0.6% |
 | 20:30 | USD | Wholesale Inventories (MoM) | -0.1% | 0.1% | -0.2% |
-| 11 min | BRL | Long Term Interest Rate TJLP |  |  | 7.00% |
-| 41 min | USD | Michigan Current Conditions (Sep) |  | 69.8 | 75.7 |
-| 41 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
-| 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
+| 22:00 | USD | Michigan Current Conditions (Sep) | 71.4 | 69.8 | 75.7 |
+| 47 min | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 47 min | CAD | Budget Balance (Jul) |  |  | 2.11B |

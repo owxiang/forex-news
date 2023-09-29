@@ -33,15 +33,15 @@
 | 14:00 | GBP | High | GDP (YoY) (Q2) | 0.6% | 0.4% | 0.5% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Aug) | -16.4% | -16.4% | -13.2% |
-| 14:00 | EUR | Low | German Retail Sales (YoY) (Aug) | -2.3% | -0.7% | -2.2% |
 | 14:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) | -1.2% | 0.5% | -0.8% |
+| 14:00 | EUR | Low | German Retail Sales (YoY) (Aug) | -2.3% | -0.7% | -2.2% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) | 8.52% | 9.05% | 9.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Aug) | 4.38% | 5.00% | 5.87% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | -0.5% | -0.5% | 0.4% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) | 4.9% | 5.1% | 4.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.3% | 1.0% |
-| 14:45 | EUR | Low | French HICP (YoY) | 5.6% | 5.9% | 5.7% |
 | 14:45 | EUR | Moderate | French HICP (MoM) | -0.6% | -0.3% | 1.1% |
+| 14:45 | EUR | Low | French HICP (YoY) | 5.6% | 5.9% | 5.7% |
 | 14:45 | EUR | Low | French PPI (MoM) (Aug) | 0.6% |  | -0.3% |
 | 14:45 | EUR | Low | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) | 95.9 | 90.5 | 96.2 |
@@ -63,8 +63,8 @@
 | 16:30 | GBP | Low | Net Lending to Individuals | 2.9B | 1.5B | 1.4B |
 | 16:30 | HKD | Low | M3 Money Supply (Aug) | 1.4% |  | 0.3% |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Aug) | 13.7% |  | 16.5% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) | 0.2% |  | 0.3% |
@@ -101,13 +101,11 @@
 | 20:30 | USD | Low | Wholesale Inventories (MoM) | -0.1% | 0.1% | -0.2% |
 | 20:30 | CAD | Moderate | GDP (MoM) (Jul) | 0.0% | 0.1% | -0.2% |
 | 20:35 | CAD | Moderate | GDP (MoM) | 0.1% |  | 0.0% |
-| 11 min | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.00% |
-| 26 min | USD | Moderate | Chicago PMI (Sep) |  | 47.6 | 48.7 |
-| 41 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 3.1% | 3.5% |
-| 41 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) |  | 2.7% | 3.0% |
-| 41 min | USD | Moderate | Michigan Consumer Expectations (Sep) |  | 66.3 | 65.5 |
-| 41 min | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 67.7 | 69.5 |
-| 41 min | USD | Low | Michigan Current Conditions (Sep) |  | 69.8 | 75.7 |
-| 41 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
-| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
+| 21:45 | USD | Moderate | Chicago PMI (Sep) | 44.1 | 47.6 | 48.7 |
+| 22:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) | 3.2% | 3.1% | 3.5% |
+| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Sep) | 2.8% | 2.7% | 3.0% |
+| 22:00 | USD | Moderate | Michigan Consumer Expectations (Sep) | 66.0 | 66.3 | 65.5 |
+| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) | 68.1 | 67.7 | 69.5 |
+| 22:00 | USD | Low | Michigan Current Conditions (Sep) | 71.4 | 69.8 | 75.7 |
+| 47 min | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 47 min | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |

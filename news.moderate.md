@@ -28,8 +28,8 @@
 | 20:30 | USD | Retail Inventories Ex Auto (Aug) | 0.6% |  | 0.0% |
 | 20:30 | CAD | GDP (MoM) (Jul) | 0.0% | 0.1% | -0.2% |
 | 20:35 | CAD | GDP (MoM) | 0.1% |  | 0.0% |
-| 26 min | USD | Chicago PMI (Sep) |  | 47.6 | 48.7 |
-| 41 min | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 3.1% | 3.5% |
-| 41 min | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 2.7% | 3.0% |
-| 41 min | USD | Michigan Consumer Expectations (Sep) |  | 66.3 | 65.5 |
-| 41 min | USD | Michigan Consumer Sentiment (Sep) |  | 67.7 | 69.5 |
+| 21:45 | USD | Chicago PMI (Sep) | 44.1 | 47.6 | 48.7 |
+| 22:00 | USD | Michigan 1-Year Inflation Expectations (Sep) | 3.2% | 3.1% | 3.5% |
+| 22:00 | USD | Michigan 5-Year Inflation Expectations (Sep) | 2.8% | 2.7% | 3.0% |
+| 22:00 | USD | Michigan Consumer Expectations (Sep) | 66.0 | 66.3 | 65.5 |
+| 22:00 | USD | Michigan Consumer Sentiment (Sep) | 68.1 | 67.7 | 69.5 |
