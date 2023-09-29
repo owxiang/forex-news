@@ -20,17 +20,17 @@
 | 13:00 | JPY | Construction Orders (YoY) (Aug) | -4.3% |  | 8.7% |
 | 13:00 | JPY | Household Confidence (Sep) | 35.2 | 36.2 | 36.2 |
 | 13:00 | JPY | Housing Starts (YoY) (Aug) | -9.4% | -8.9% | -6.7% |
-| 45 min | GBP | Business Investment (YoY) (Q2) |  | 6.7% | 5.8% |
-| 45 min | EUR | German Import Price Index (MoM) (Aug) |  | 0.5% | -0.6% |
-| 45 min | EUR | German Import Price Index (YoY) (Aug) |  | -16.4% | -13.2% |
-| 45 min | EUR | German Retail Sales (YoY) (Aug) |  | -0.7% | -2.2% |
-| 45 min | ZAR | M3 Money Supply (YoY) (Aug) |  | 9.05% | 9.30% |
-| 45 min | ZAR | Private Sector Credit (Aug) |  | 5.00% | 5.87% |
-| 14:45 | EUR | French CPI (YoY) (Sep) |  | 5.1% | 4.9% |
-| 14:45 | EUR | French HICP (YoY) |  | 5.9% | 5.7% |
-| 14:45 | EUR | French PPI (MoM) (Aug) |  |  | -0.2% |
-| 14:45 | EUR | PPI (YoY) (Aug) |  |  | 0.90% |
-| 15:00 | CHF | Official Reserves Assets (Aug) |  |  | 768.2B |
+| 14:00 | GBP | Business Investment (YoY) (Q2) | 9.2% | 6.7% | 7.0% |
+| 14:00 | EUR | German Import Price Index (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
+| 14:00 | EUR | German Import Price Index (YoY) (Aug) | -16.4% | -16.4% | -13.2% |
+| 14:00 | EUR | German Retail Sales (YoY) (Aug) | -2.3% | -0.7% | -2.2% |
+| 14:00 | ZAR | M3 Money Supply (YoY) (Aug) | 8.52% | 9.05% | 9.30% |
+| 14:00 | ZAR | Private Sector Credit (Aug) | 4.38% | 5.00% | 5.87% |
+| 25 min | EUR | French CPI (YoY) (Sep) |  | 5.1% | 4.9% |
+| 25 min | EUR | French HICP (YoY) |  | 5.9% | 5.7% |
+| 25 min | EUR | PPI (YoY) (Aug) |  |  | 0.90% |
+| 25 min | EUR | French PPI (MoM) (Aug) |  |  | -0.2% |
+| 40 min | CHF | Official Reserves Assets (Aug) |  |  | 768.2B |
 | 15:55 | EUR | German Unemployment (Sep) |  |  | 2.630M |
 | 15:55 | EUR | German Unemployment n.s.a. (Sep) |  |  | 2.700M |
 | 16:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
@@ -47,14 +47,14 @@
 | 16:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 16.5% |
 | 17:00 | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 17:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | 0.2% |
 | 17:00 | EUR | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
+| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | FX Reserves, USD |  |  | 593.04B |
@@ -72,5 +72,5 @@
 | 22:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
 | 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
+| 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
