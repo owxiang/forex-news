@@ -19,15 +19,15 @@
 | 15:55 | EUR | German Unemployment Rate (Sep) | 5.7% | 5.7% | 5.7% |
 | 17:00 | EUR | Core CPI (YoY) | 4.5% | 4.8% | 5.3% |
 | 17:00 | EUR | CPI (MoM) | 0.3% |  | 0.5% |
-| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
-| 47 min | BRL | Unemployment Rate |  | 7.8% | 7.9% |
-| 20:30 | USD | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
-| 20:30 | USD | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
-| 20:30 | USD | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
-| 20:30 | USD | Personal Spending (MoM) (Aug) |  | 0.4% | 0.8% |
-| 20:30 | USD | Retail Inventories Ex Auto (Aug) |  |  | 0.2% |
-| 20:30 | CAD | GDP (MoM) (Jul) |  | 0.1% | -0.2% |
-| 20:35 | CAD | GDP (MoM) |  |  |  |
+| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) | 74.4% |  | 74.1% |
+| 20:00 | BRL | Unemployment Rate | 7.8% | 7.8% | 7.9% |
+| 20:30 | USD | Goods Trade Balance (Aug) | -84.27B | -91.20B | -90.92B |
+| 20:30 | USD | PCE Price index (YoY) (Aug) | 3.5% | 3.5% | 3.4% |
+| 20:30 | USD | PCE price index (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
+| 20:30 | USD | Personal Spending (MoM) (Aug) | 0.4% | 0.4% | 0.9% |
+| 20:30 | USD | Retail Inventories Ex Auto (Aug) | 0.6% |  | 0.2% |
+| 20:30 | CAD | GDP (MoM) (Jul) | 0.0% | 0.1% | -0.2% |
+| 5 min | CAD | GDP (MoM) |  |  |  |
 | 21:45 | USD | Chicago PMI (Sep) |  | 47.6 | 48.7 |
 | 22:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 3.1% | 3.5% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 2.7% | 3.0% |

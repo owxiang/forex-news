@@ -29,8 +29,8 @@
 | 14:00 | GBP | Low | Business Investment (YoY) (Q2) | 9.2% | 6.7% | 7.0% |
 | 14:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | 4.1% | 3.4% | 4.0% |
 | 14:00 | GBP | Moderate | Current Account (Q2) | -25.3B | -15.0B | -15.2B |
-| 14:00 | GBP | High | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 14:00 | GBP | High | GDP (YoY) (Q2) | 0.6% | 0.4% | 0.5% |
+| 14:00 | GBP | High | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Aug) | -16.4% | -16.4% | -13.2% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Aug) | -2.3% | -0.7% | -2.2% |
@@ -38,12 +38,12 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) | 8.52% | 9.05% | 9.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Aug) | 4.38% | 5.00% | 5.87% |
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | -0.5% | -0.5% | 0.4% |
-| 14:45 | EUR | Low | French CPI (YoY) (Sep) | 4.9% | 5.1% | 4.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.3% | 1.0% |
+| 14:45 | EUR | Low | French CPI (YoY) (Sep) | 4.9% | 5.1% | 4.9% |
 | 14:45 | EUR | Moderate | French HICP (MoM) | -0.6% | -0.3% | 1.1% |
 | 14:45 | EUR | Low | French HICP (YoY) | 5.6% | 5.9% | 5.7% |
-| 14:45 | EUR | Low | French PPI (MoM) (Aug) | 0.6% |  | -0.3% |
 | 14:45 | EUR | Low | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
+| 14:45 | EUR | Low | French PPI (MoM) (Aug) | 0.6% |  | -0.3% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) | 95.9 | 90.5 | 96.2 |
 | 15:00 | CHF | Low | Official Reserves Assets (Aug) | 764.2B |  | 768.2B |
 | 15:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -63,41 +63,44 @@
 | 16:30 | GBP | Low | Net Lending to Individuals | 2.9B | 1.5B | 1.4B |
 | 16:30 | HKD | Low | M3 Money Supply (Aug) | 1.4% |  | 0.3% |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Aug) | 13.7% |  | 16.5% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
-| 17:00 | EUR | Low | Core CPI (MoM) | 0.2% |  | 0.3% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) | 4.5% | 4.8% | 5.3% |
+| 17:00 | EUR | Low | Core CPI (MoM) | 0.2% |  | 0.3% |
 | 17:00 | EUR | High | CPI (YoY) (Sep) | 4.3% | 4.5% | 5.2% |
 | 17:00 | EUR | Moderate | CPI (MoM) | 0.3% |  | 0.5% |
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) | 124.44 |  | 124.03 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 5.5% |  | 6.2% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.2% |  | 0.3% |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | 0.50% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -1.60% |  | -0.40% |
-| 18:00 | INR | Low | Federal Fiscal Deficit (Aug) | 6,428.26B |  | 6,055.93B |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 593.04B |
-| 17 min | INR | Low | Infrastructure Output (YoY) (Aug) |  |  | 8.0% |
-| 17 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 59.6% |
-| 17 min | BRL | Low | Budget Balance (Aug) |  |  | -81.914B |
-| 17 min | BRL | Low | Budget Surplus (Aug) |  |  | -35.809B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
-| 47 min | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.9% |
-| 47 min | ZAR | Low | Trade Balance (Aug) |  | 7.00B | 15.96B |
-| 20:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
-| 20:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 3.9% | 4.2% |
-| 20:30 | USD | Moderate | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
-| 20:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
-| 20:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
-| 20:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.4% | 0.2% |
-| 20:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.4% | 0.8% |
-| 20:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.6% |
-| 20:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  |  | 0.2% |
+| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | 0.50% |
+| 18:30 | INR | Low | Federal Fiscal Deficit (Aug) | 6,428.26B |  | 6,055.93B |
+| 19:30 | INR | Low | Current Account % of GDP (QoQ) (Q2) | -1.10% |  | -0.20% |
+| 19:30 | INR | Low | FX Reserves, USD | 590.70B |  | 593.04B |
+| 19:30 | INR | Low | Infrastructure Output (YoY) (Aug) | 12.1% |  | 8.4% |
+| 19:30 | INR | Low | Trade Balance (USD) (Q2) | -56.600B |  | -52.600B |
+| 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Aug) | 59.9% |  | 59.6% |
+| 19:30 | BRL | Low | Budget Balance (Aug) | -106.561B |  | -81.914B |
+| 19:30 | BRL | Low | Budget Surplus (Aug) | -22.830B |  | -35.809B |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) | 74.4% |  | 74.1% |
+| 19:40 | ZAR | Low | Budget Balance (MoM) (Aug) | -47.33B |  | -143.76B |
+| 20:00 | BRL | Moderate | Unemployment Rate | 7.8% | 7.8% | 7.9% |
+| 20:00 | ZAR | Low | Trade Balance (Aug) | 13.28B | 7.00B | 15.96B |
+| 20:30 | USD | High | Core PCE Price Index (MoM) (Aug) | 0.1% | 0.2% | 0.2% |
+| 20:30 | USD | High | Core PCE Price Index (YoY) (Aug) | 3.9% | 3.9% | 4.3% |
+| 20:30 | USD | Moderate | Goods Trade Balance (Aug) | -84.27B | -91.20B | -90.92B |
+| 20:30 | USD | Moderate | PCE Price index (YoY) (Aug) | 3.5% | 3.5% | 3.4% |
+| 20:30 | USD | Moderate | PCE price index (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
+| 20:30 | USD | Low | Personal Income (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
+| 20:30 | USD | Moderate | Personal Spending (MoM) (Aug) | 0.4% | 0.4% | 0.9% |
+| 20:30 | USD | Low | Real Personal Consumption (MoM) (Aug) | 0.1% |  | 0.6% |
+| 20:30 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.6% |  | 0.2% |
 | 20:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | -0.2% |
-| 20:30 | CAD | Moderate | GDP (MoM) (Jul) |  | 0.1% | -0.2% |
-| 20:35 | CAD | Moderate | GDP (MoM) |  |  |  |
+| 20:30 | CAD | Moderate | GDP (MoM) (Jul) | 0.0% | 0.1% | -0.2% |
+| 5 min | CAD | Moderate | GDP (MoM) |  |  |  |
 | 21:30 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.00% |
 | 21:45 | USD | Moderate | Chicago PMI (Sep) |  | 47.6 | 48.7 |
 | 22:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Sep) |  | 3.1% | 3.5% |
@@ -106,7 +109,5 @@
 | 22:00 | USD | Moderate | Michigan Consumer Sentiment (Sep) |  | 67.7 | 69.5 |
 | 22:00 | USD | Low | Michigan Current Conditions (Sep) |  | 69.8 | 75.7 |
 | 22:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 22:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
-| 22:00 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
 | 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
 | 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
