@@ -29,33 +29,33 @@
 | 14:00 | GBP | Low | Business Investment (YoY) (Q2) | 9.2% | 6.7% | 7.0% |
 | 14:00 | GBP | Moderate | Business Investment (QoQ) (Q2) | 4.1% | 3.4% | 4.0% |
 | 14:00 | GBP | Moderate | Current Account (Q2) | -25.3B | -15.0B | -15.2B |
-| 14:00 | GBP | High | GDP (YoY) (Q2) | 0.6% | 0.4% | 0.5% |
 | 14:00 | GBP | High | GDP (QoQ) (Q2) | 0.2% | 0.2% | 0.3% |
+| 14:00 | GBP | High | GDP (YoY) (Q2) | 0.6% | 0.4% | 0.5% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Aug) | -16.4% | -16.4% | -13.2% |
 | 14:00 | EUR | Low | German Retail Sales (YoY) (Aug) | -2.3% | -0.7% | -2.2% |
 | 14:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) | -1.2% | 0.5% | -0.8% |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Aug) | 8.52% | 9.05% | 9.30% |
 | 14:00 | ZAR | Low | Private Sector Credit (Aug) | 4.38% | 5.00% | 5.87% |
-| 25 min | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
-| 25 min | EUR | Low | French CPI (YoY) (Sep) |  | 5.1% | 4.9% |
-| 25 min | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.3% | 1.0% |
-| 25 min | EUR | Moderate | French HICP (MoM) |  | -0.3% | 1.1% |
-| 25 min | EUR | Low | French HICP (YoY) |  | 5.9% | 5.7% |
-| 25 min | EUR | Low | PPI (YoY) (Aug) |  |  | 0.90% |
-| 25 min | EUR | Low | French PPI (MoM) (Aug) |  |  | -0.2% |
-| 40 min | CHF | Moderate | KOF Leading Indicators (Sep) |  | 90.5 | 91.1 |
-| 40 min | CHF | Low | Official Reserves Assets (Aug) |  |  | 768.2B |
-| 15:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:55 | EUR | Moderate | German Unemployment Change (Sep) |  | 15K | 18K |
-| 15:55 | EUR | Moderate | German Unemployment Rate (Sep) |  | 5.7% | 5.7% |
-| 15:55 | EUR | Low | German Unemployment (Sep) |  |  | 2.630M |
-| 15:55 | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 2.700M |
-| 16:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 16:00 | EUR | Low | Spanish Current account (Jul) |  |  | 2.83B |
-| 16:00 | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | 1,100.0M |
-| 16:00 | NOK | Low | Unemployment Change (Sep) |  |  | 66.03K |
-| 16:00 | NOK | Low | Unemployment Rate n.s.a. (Sep) |  |  | 1.90% |
+| 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) | -0.5% | -0.5% | 0.4% |
+| 14:45 | EUR | Low | French CPI (YoY) (Sep) | 4.9% | 5.1% | 4.9% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.3% | 1.0% |
+| 14:45 | EUR | Moderate | French HICP (MoM) | -0.6% | -0.3% | 1.1% |
+| 14:45 | EUR | Low | French HICP (YoY) | 5.6% | 5.9% | 5.7% |
+| 14:45 | EUR | Low | French PPI (MoM) (Aug) | 0.6% |  | -0.3% |
+| 14:45 | EUR | Low | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
+| 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) | 95.9 | 90.5 | 96.2 |
+| 15:00 | CHF | Low | Official Reserves Assets (Aug) | 764.2B |  | 768.2B |
+| 26 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 41 min | EUR | Moderate | German Unemployment Change (Sep) |  | 15K | 18K |
+| 41 min | EUR | Moderate | German Unemployment Rate (Sep) |  | 5.7% | 5.7% |
+| 41 min | EUR | Low | German Unemployment (Sep) |  |  | 2.630M |
+| 41 min | EUR | Low | German Unemployment n.s.a. (Sep) |  |  | 2.700M |
+| 46 min | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
+| 46 min | EUR | Low | Spanish Current account (Jul) |  |  | 2.83B |
+| 46 min | NOK | Low | Central Bank Currency Purchase (Oct) |  |  | 1,100.0M |
+| 46 min | NOK | Low | Unemployment Change (Sep) |  |  | 66.03K |
+| 46 min | NOK | Low | Unemployment Rate n.s.a. (Sep) |  |  | 1.90% |
 | 16:30 | GBP | Low | BoE Consumer Credit (Aug) |  | 1.300B | 1.191B |
 | 16:30 | GBP | Low | M3 Money Supply (Aug) |  |  | 3,024.7B |
 | 16:30 | GBP | Low | M4 Money Supply (MoM) (Aug) |  | 0.2% | -0.5% |
@@ -63,10 +63,10 @@
 | 16:30 | GBP | Low | Mortgage Lending (Aug) |  |  | 0.23B |
 | 16:30 | GBP | Low | Net Lending to Individuals |  | 1.5B | 1.4B |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 16.5% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.3% | 0.2% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 4.8% | 5.3% |
 | 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.5% | 5.2% |
@@ -74,8 +74,8 @@
 | 17:00 | EUR | Low | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
+| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 593.04B |
@@ -109,5 +109,5 @@
 | 22:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
 | 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |

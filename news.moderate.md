@@ -10,13 +10,13 @@
 | 14:00 | GBP | Business Investment (QoQ) (Q2) | 4.1% | 3.4% | 4.0% |
 | 14:00 | GBP | Current Account (Q2) | -25.3B | -15.0B | -15.2B |
 | 14:00 | EUR | German Retail Sales (MoM) (Aug) | -1.2% | 0.5% | -0.8% |
-| 25 min | EUR | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
-| 25 min | EUR | French CPI (MoM) (Sep) |  | -0.3% | 1.0% |
-| 25 min | EUR | French HICP (MoM) |  | -0.3% | 1.1% |
-| 40 min | CHF | KOF Leading Indicators (Sep) |  | 90.5 | 91.1 |
-| 15:40 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:55 | EUR | German Unemployment Change (Sep) |  | 15K | 18K |
-| 15:55 | EUR | German Unemployment Rate (Sep) |  | 5.7% | 5.7% |
+| 14:45 | EUR | French Consumer Spending (MoM) (Aug) | -0.5% | -0.5% | 0.4% |
+| 14:45 | EUR | French CPI (MoM) (Sep) | -0.5% | -0.3% | 1.0% |
+| 14:45 | EUR | French HICP (MoM) | -0.6% | -0.3% | 1.1% |
+| 15:00 | CHF | KOF Leading Indicators (Sep) | 95.9 | 90.5 | 96.2 |
+| 26 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 41 min | EUR | German Unemployment Change (Sep) |  | 15K | 18K |
+| 41 min | EUR | German Unemployment Rate (Sep) |  | 5.7% | 5.7% |
 | 17:00 | EUR | Core CPI (YoY) |  | 4.8% | 5.3% |
 | 17:00 | EUR | CPI (MoM) |  |  | 0.5% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
