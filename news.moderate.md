@@ -14,11 +14,11 @@
 | 14:45 | EUR | French CPI (MoM) (Sep) | -0.5% | -0.3% | 1.0% |
 | 14:45 | EUR | French HICP (MoM) | -0.6% | -0.3% | 1.1% |
 | 15:00 | CHF | KOF Leading Indicators (Sep) | 95.9 | 90.5 | 96.2 |
-| 26 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 41 min | EUR | German Unemployment Change (Sep) |  | 15K | 18K |
-| 41 min | EUR | German Unemployment Rate (Sep) |  | 5.7% | 5.7% |
-| 17:00 | EUR | Core CPI (YoY) |  | 4.8% | 5.3% |
-| 17:00 | EUR | CPI (MoM) |  |  | 0.5% |
+| 15:40 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:55 | EUR | German Unemployment Change (Sep) | 10K | 15K | 18K |
+| 15:55 | EUR | German Unemployment Rate (Sep) | 5.7% | 5.7% | 5.7% |
+| 41 min | EUR | Core CPI (YoY) |  | 4.8% | 5.3% |
+| 41 min | EUR | CPI (MoM) |  |  | 0.5% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
 | 20:00 | BRL | Unemployment Rate |  | 7.8% | 7.9% |
 | 20:30 | USD | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
