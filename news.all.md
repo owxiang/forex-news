@@ -19,20 +19,19 @@
 | 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Oct) | 3.8% |  | 2.4% |
 | 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Aug) | 6.0% |  | 6.0% |
 | 07:50 | JPY | Low | Retail Sales (YoY) (Aug) | 7.0% | 6.6% | 7.0% |
-| 22 min | AUD | Low | Housing Credit (Aug) |  |  | 0.3% |
-| 22 min | AUD | Low | Private Sector Credit (MoM) (Aug) |  | 0.3% | 0.3% |
-| 52 min | SGD | Low | Bank Lending |  |  | 786.5B |
-| 52 min | NZD | Low | M3 Money Supply (Aug) |  |  | 403.4B |
+| 09:30 | AUD | Low | Housing Credit (Aug) | 0.3% |  | 0.3% |
+| 09:30 | AUD | Low | Private Sector Credit (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
+| 10:00 | SGD | Low | Bank Lending | 786.3B |  | 786.5B |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Aug) |  |  | 8.7% |
 | 13:00 | JPY | Low | Household Confidence (Sep) |  | 36.2 | 36.2 |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Aug) |  | -8.9% | -6.7% |
 | 14:00 | GBP | Low | Business Investment (YoY) (Q2) |  | 6.7% | 5.8% |
 | 14:00 | GBP | Moderate | Business Investment (QoQ) (Q2) |  | 3.4% | 3.3% |
 | 14:00 | GBP | Moderate | Current Account (Q2) |  | -14.5B | -10.8B |
-| 14:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.2% | 0.1% |
 | 14:00 | GBP | High | GDP (YoY) (Q2) |  | 0.4% | 0.2% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | -0.8% |
+| 14:00 | GBP | High | GDP (QoQ) (Q2) |  | 0.2% | 0.1% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | -5.3% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | -0.8% |
 | 14:00 | EUR | Low | German Import Price Index (MoM) (Aug) |  | 0.5% | -0.6% |
 | 14:00 | EUR | Low | German Import Price Index (YoY) (Aug) |  |  | -13.2% |
 | 14:00 | EUR | Moderate | German Retail Sales (MoM) (Aug) |  | 0.1% | -0.8% |
@@ -42,10 +41,10 @@
 | 14:45 | EUR | Moderate | French Consumer Spending (MoM) (Aug) |  |  | 0.3% |
 | 14:45 | EUR | Low | French CPI (YoY) (Sep) |  | 5.0% | 4.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.2% | 1.0% |
-| 14:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 1.1% |
 | 14:45 | EUR | Low | French HICP (YoY) |  | 5.9% | 5.7% |
-| 14:45 | EUR | Low | PPI (YoY) (Aug) |  |  | 0.90% |
+| 14:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 1.1% |
 | 14:45 | EUR | Low | French PPI (MoM) (Aug) |  |  | -0.2% |
+| 14:45 | EUR | Low | PPI (YoY) (Aug) |  |  | 0.90% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) |  | 90.5 | 91.1 |
 | 15:00 | CHF | Low | Official Reserves Assets (Aug) |  |  | 768.2B |
 | 15:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -65,10 +64,10 @@
 | 16:30 | GBP | Low | Mortgage Lending (Aug) |  |  | 0.23B |
 | 16:30 | GBP | Low | Net Lending to Individuals |  | 1.5B | 1.4B |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Aug) |  |  | 16.5% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Sep) |  |  | 5.4% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.2% | 5.5% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Sep) |  |  | 5.4% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.2% | 0.2% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.2% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) |  | 4.8% | 5.3% |
 | 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.5% | 5.2% |
@@ -111,5 +110,5 @@
 | 22:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Low | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Low | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
 | 23:00 | CAD | Low | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 23:00 | CAD | Low | Budget Balance (Jul) |  |  | 2.11B |
