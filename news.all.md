@@ -29,5 +29,6 @@
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 102.0K |
 | Tentative | MXN | Low | Fiscal Balance (Aug) |  |  | -77.56B |
 | 09:30 | CNY | Moderate | Chinese Composite PMI (Sep) |  |  | 51.3 |
+| 09:30 | CNY | High | Manufacturing PMI |  | 50.2 | 49.7 |
 | 09:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) |  | 51.5 | 51.0 |
 | 22:00 | GBP | Moderate | BoE MPC Member Cunliffe Speaks |  |  |  |
