@@ -14,4 +14,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions |  |  | 63.6K |
 | 04:30 | CHF | CFTC CHF speculative net positions |  |  | -7.9K |
 | 04:30 | NZD | CFTC NZD speculative net positions |  |  | -21.3K |
-| 05:00 | MXN | Fiscal Balance (Aug) |  |  | -77.56B |
+| Tentative | MXN | Fiscal Balance (Aug) |  |  | -77.56B |

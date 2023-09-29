@@ -27,7 +27,7 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -101.6K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -21.3K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 102.0K |
-| 05:00 | MXN | Low | Fiscal Balance (Aug) |  |  | -77.56B |
+| Tentative | MXN | Low | Fiscal Balance (Aug) |  |  | -77.56B |
 | 09:30 | CNY | Moderate | Chinese Composite PMI (Sep) |  |  | 51.3 |
 | 09:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) |  | 51.5 | 51.0 |
 | 22:00 | GBP | Moderate | BoE MPC Member Cunliffe Speaks |  |  |  |
