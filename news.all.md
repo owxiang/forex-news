@@ -42,8 +42,8 @@
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.3% | 1.0% |
 | 14:45 | EUR | Moderate | French HICP (MoM) | -0.6% | -0.3% | 1.1% |
 | 14:45 | EUR | Low | French HICP (YoY) | 5.6% | 5.9% | 5.7% |
-| 14:45 | EUR | Low | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
 | 14:45 | EUR | Low | French PPI (MoM) (Aug) | 0.6% |  | -0.3% |
+| 14:45 | EUR | Low | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
 | 15:00 | CHF | Moderate | KOF Leading Indicators (Sep) | 95.9 | 90.5 | 96.2 |
 | 15:00 | CHF | Low | Official Reserves Assets (Aug) | 764.2B |  | 768.2B |
 | 15:40 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -63,8 +63,8 @@
 | 16:30 | GBP | Low | Net Lending to Individuals | 2.9B | 1.5B | 1.4B |
 | 16:30 | HKD | Low | M3 Money Supply (Aug) | 1.4% |  | 0.3% |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Aug) | 13.7% |  | 16.5% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
 | 17:00 | EUR | Low | Core CPI (MoM) | 0.2% |  | 0.3% |
@@ -76,21 +76,21 @@
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.2% |  | 0.3% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | 0.50% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Jul) | -1.60% |  | -0.40% |
-| 14 min | INR | Low | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 593.04B |
-| 19:30 | INR | Low | Infrastructure Output (YoY) (Aug) |  |  | 8.0% |
-| 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 59.6% |
-| 19:30 | BRL | Low | Budget Balance (Aug) |  |  | -81.914B |
-| 19:30 | BRL | Low | Budget Surplus (Aug) |  |  | -35.809B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
-| 20:00 | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.9% |
-| 20:00 | ZAR | Low | Trade Balance (Aug) |  | 7.00B | 15.96B |
+| 18:00 | INR | Low | Federal Fiscal Deficit (Aug) | 6,428.26B |  | 6,055.93B |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 593.04B |
+| 17 min | INR | Low | Infrastructure Output (YoY) (Aug) |  |  | 8.0% |
+| 17 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Aug) |  |  | 59.6% |
+| 17 min | BRL | Low | Budget Balance (Aug) |  |  | -81.914B |
+| 17 min | BRL | Low | Budget Surplus (Aug) |  |  | -35.809B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Aug) |  |  | 74.1% |
+| 47 min | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.9% |
+| 47 min | ZAR | Low | Trade Balance (Aug) |  | 7.00B | 15.96B |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Aug) |  | 0.2% | 0.2% |
 | 20:30 | USD | High | Core PCE Price Index (YoY) (Aug) |  | 3.9% | 4.2% |
 | 20:30 | USD | Moderate | Goods Trade Balance (Aug) |  | -91.20B | -90.92B |
-| 20:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Aug) |  | 3.5% | 3.3% |
+| 20:30 | USD | Moderate | PCE price index (MoM) (Aug) |  | 0.5% | 0.2% |
 | 20:30 | USD | Low | Personal Income (MoM) (Aug) |  | 0.4% | 0.2% |
 | 20:30 | USD | Moderate | Personal Spending (MoM) (Aug) |  | 0.4% | 0.8% |
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Aug) |  |  | 0.6% |
