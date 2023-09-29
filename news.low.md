@@ -37,25 +37,26 @@
 | 16:00 | NOK | Central Bank Currency Purchase (Oct) | 1,200.0M |  | 1,100.0M |
 | 16:00 | NOK | Unemployment Change (Sep) | 66.39K |  | 65.75K |
 | 16:00 | NOK | Unemployment Rate n.s.a. (Sep) | 1.80% |  | 1.90% |
-| 11 min | GBP | BoE Consumer Credit (Aug) |  | 1.300B | 1.191B |
-| 11 min | GBP | M3 Money Supply (Aug) |  |  | 3,024.7B |
-| 11 min | GBP | M4 Money Supply (MoM) (Aug) |  | 0.2% | -0.5% |
-| 11 min | GBP | Mortgage Approvals (Aug) |  | 45.00K | 49.44K |
-| 11 min | GBP | Mortgage Lending (Aug) |  |  | 0.23B |
-| 11 min | GBP | Net Lending to Individuals |  | 1.5B | 1.4B |
-| 11 min | HKD | Retail Sales (YoY) (Aug) |  |  | 16.5% |
-| 41 min | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
-| 41 min | EUR | Italian CPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 41 min | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | 0.2% |
-| 41 min | EUR | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
-| 41 min | EUR | Core CPI (MoM) |  |  | 0.3% |
-| 41 min | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
-| 41 min | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
-| 41 min | EUR | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
-| 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
-| 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
+| 16:30 | GBP | BoE Consumer Credit (Aug) | 1.644B | 1.300B | 1.271B |
+| 16:30 | GBP | M3 Money Supply (Aug) | 3,025.7B |  | 3,019.2B |
+| 16:30 | GBP | M4 Money Supply (MoM) (Aug) | 0.2% | 0.2% | -0.6% |
+| 16:30 | GBP | Mortgage Approvals (Aug) | 45.35K | 45.00K | 49.53K |
+| 16:30 | GBP | Mortgage Lending (Aug) | 1.22B |  | 0.20B |
+| 16:30 | GBP | Net Lending to Individuals | 2.9B | 1.5B | 1.4B |
+| 16:30 | HKD | M3 Money Supply (Aug) | 1.4% |  | 0.3% |
+| 16:30 | HKD | Retail Sales (YoY) (Aug) | 13.7% |  | 16.5% |
+| 17:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
+| 17:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
+| 17:00 | EUR | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
+| 17:00 | EUR | Core CPI (MoM) | 0.2% |  | 0.3% |
+| 17:00 | EUR | CPI, n.s.a (Sep) | 124.44 |  | 124.03 |
+| 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 5.5% |  | 6.2% |
+| 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.2% |  | 0.3% |
+| 45 min | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
+| 45 min | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
+| 45 min | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
+| 45 min | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | FX Reserves, USD |  |  | 593.04B |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
@@ -72,5 +73,5 @@
 | 22:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 22:00 | INR | Current Account % of GDP (QoQ) (Q2) |  |  | -0.20% |
 | 22:00 | INR | Trade Balance (USD) (Q2) |  |  | -52.600B |
-| 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
 | 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
