@@ -16,17 +16,17 @@
 | 09:30 | AUD | Housing Credit (Aug) | 0.3% |  | 0.3% |
 | 09:30 | AUD | Private Sector Credit (MoM) (Aug) | 0.4% | 0.3% | 0.3% |
 | 10:00 | SGD | Bank Lending | 786.3B |  | 786.5B |
-| 10:00 | NZD | M3 Money Supply (Aug) | 403,361.0B |  | 403,358.0B |
-| 13:00 | JPY | Construction Orders (YoY) (Aug) |  |  | 8.7% |
-| 13:00 | JPY | Household Confidence (Sep) |  | 36.2 | 36.2 |
-| 13:00 | JPY | Housing Starts (YoY) (Aug) |  | -8.9% | -6.7% |
+| 10:00 | NZD | M3 Money Supply (Aug) | 403.4B |  | 403.4B |
+| 41 min | JPY | Construction Orders (YoY) (Aug) |  |  | 8.7% |
+| 41 min | JPY | Household Confidence (Sep) |  | 36.2 | 36.2 |
+| 41 min | JPY | Housing Starts (YoY) (Aug) |  | -8.9% | -6.7% |
 | 14:00 | GBP | Business Investment (YoY) (Q2) |  | 6.7% | 5.8% |
 | 14:00 | EUR | German Import Price Index (MoM) (Aug) |  | 0.5% | -0.6% |
-| 14:00 | EUR | German Import Price Index (YoY) (Aug) |  |  | -13.2% |
-| 14:00 | EUR | German Retail Sales (YoY) (Aug) |  |  | -2.2% |
-| 14:00 | ZAR | M3 Money Supply (YoY) (Aug) |  |  | 9.30% |
-| 14:00 | ZAR | Private Sector Credit (Aug) |  |  | 5.87% |
-| 14:45 | EUR | French CPI (YoY) (Sep) |  | 5.0% | 4.9% |
+| 14:00 | EUR | German Import Price Index (YoY) (Aug) |  | -16.4% | -13.2% |
+| 14:00 | EUR | German Retail Sales (YoY) (Aug) |  | -0.7% | -2.2% |
+| 14:00 | ZAR | M3 Money Supply (YoY) (Aug) |  | 9.05% | 9.30% |
+| 14:00 | ZAR | Private Sector Credit (Aug) |  | 5.00% | 5.87% |
+| 14:45 | EUR | French CPI (YoY) (Sep) |  | 5.1% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) |  | 5.9% | 5.7% |
 | 14:45 | EUR | PPI (YoY) (Aug) |  |  | 0.90% |
 | 14:45 | EUR | French PPI (MoM) (Aug) |  |  | -0.2% |
@@ -38,23 +38,23 @@
 | 16:00 | NOK | Central Bank Currency Purchase (Oct) |  |  | 1,100.0M |
 | 16:00 | NOK | Unemployment Change (Sep) |  |  | 66.03K |
 | 16:00 | NOK | Unemployment Rate n.s.a. (Sep) |  |  | 1.90% |
-| 16:30 | GBP | BoE Consumer Credit (Aug) |  |  | 1.191B |
+| 16:30 | GBP | BoE Consumer Credit (Aug) |  | 1.300B | 1.191B |
 | 16:30 | GBP | M3 Money Supply (Aug) |  |  | 3,024.7B |
 | 16:30 | GBP | M4 Money Supply (MoM) (Aug) |  | 0.2% | -0.5% |
-| 16:30 | GBP | Mortgage Approvals (Aug) |  | 48.00K | 49.44K |
+| 16:30 | GBP | Mortgage Approvals (Aug) |  | 45.00K | 49.44K |
 | 16:30 | GBP | Mortgage Lending (Aug) |  |  | 0.23B |
 | 16:30 | GBP | Net Lending to Individuals |  | 1.5B | 1.4B |
 | 16:30 | HKD | Retail Sales (YoY) (Aug) |  |  | 16.5% |
-| 17:00 | EUR | Italian CPI (YoY) (Sep) |  |  | 5.4% |
-| 17:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.2% | 0.2% |
-| 17:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.2% | 5.5% |
+| 17:00 | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
+| 17:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.1% | 0.3% |
+| 17:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.3% | 5.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.3% | 0.2% |
 | 17:00 | EUR | Core CPI (MoM) |  |  | 0.3% |
 | 17:00 | EUR | CPI, n.s.a (Sep) |  |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  |  | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) |  |  | 0.40% |
+| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) |  |  | 1.30% |
 | 18:00 | INR | Federal Fiscal Deficit (Aug) |  |  | 6,055.93B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | INR | FX Reserves, USD |  |  | 593.04B |
@@ -63,7 +63,7 @@
 | 19:30 | BRL | Budget Balance (Aug) |  |  | -81.914B |
 | 19:30 | BRL | Budget Surplus (Aug) |  |  | -35.809B |
 | 20:00 | INR | Infrastructure Output (YoY) (Aug) |  |  | 8.0% |
-| 20:00 | ZAR | Trade Balance (Aug) |  |  | 15.96B |
+| 20:00 | ZAR | Trade Balance (Aug) |  | 7.00B | 15.96B |
 | 20:30 | USD | Personal Income (MoM) (Aug) |  | 0.4% | 0.2% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Aug) |  |  | 0.6% |
 | 20:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | -0.2% |
