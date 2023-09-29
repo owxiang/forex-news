@@ -25,11 +25,11 @@
 | 20:30 | USD | PCE Price index (YoY) (Aug) | 3.5% | 3.5% | 3.4% |
 | 20:30 | USD | PCE price index (MoM) (Aug) | 0.4% | 0.5% | 0.2% |
 | 20:30 | USD | Personal Spending (MoM) (Aug) | 0.4% | 0.4% | 0.9% |
-| 20:30 | USD | Retail Inventories Ex Auto (Aug) | 0.6% |  | 0.2% |
+| 20:30 | USD | Retail Inventories Ex Auto (Aug) | 0.6% |  | 0.0% |
 | 20:30 | CAD | GDP (MoM) (Jul) | 0.0% | 0.1% | -0.2% |
-| 5 min | CAD | GDP (MoM) |  |  |  |
-| 21:45 | USD | Chicago PMI (Sep) |  | 47.6 | 48.7 |
-| 22:00 | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 3.1% | 3.5% |
-| 22:00 | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 2.7% | 3.0% |
-| 22:00 | USD | Michigan Consumer Expectations (Sep) |  | 66.3 | 65.5 |
-| 22:00 | USD | Michigan Consumer Sentiment (Sep) |  | 67.7 | 69.5 |
+| 20:35 | CAD | GDP (MoM) | 0.1% |  | 0.0% |
+| 26 min | USD | Chicago PMI (Sep) |  | 47.6 | 48.7 |
+| 41 min | USD | Michigan 1-Year Inflation Expectations (Sep) |  | 3.1% | 3.5% |
+| 41 min | USD | Michigan 5-Year Inflation Expectations (Sep) |  | 2.7% | 3.0% |
+| 41 min | USD | Michigan Consumer Expectations (Sep) |  | 66.3 | 65.5 |
+| 41 min | USD | Michigan Consumer Sentiment (Sep) |  | 67.7 | 69.5 |

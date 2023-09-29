@@ -28,8 +28,8 @@
 | 14:00 | ZAR | Private Sector Credit (Aug) | 4.38% | 5.00% | 5.87% |
 | 14:45 | EUR | French CPI (YoY) (Sep) | 4.9% | 5.1% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) | 5.6% | 5.9% | 5.7% |
-| 14:45 | EUR | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
 | 14:45 | EUR | French PPI (MoM) (Aug) | 0.6% |  | -0.3% |
+| 14:45 | EUR | PPI (YoY) (Aug) | -1.30% |  | 0.90% |
 | 15:00 | CHF | Official Reserves Assets (Aug) | 764.2B |  | 768.2B |
 | 15:55 | EUR | German Unemployment (Sep) | 2.642M |  | 2.630M |
 | 15:55 | EUR | German Unemployment n.s.a. (Sep) | 2.627M |  | 2.700M |
@@ -45,16 +45,16 @@
 | 16:30 | GBP | Net Lending to Individuals | 2.9B | 1.5B | 1.4B |
 | 16:30 | HKD | M3 Money Supply (Aug) | 1.4% |  | 0.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Aug) | 13.7% |  | 16.5% |
-| 17:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 17:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
-| 17:00 | EUR | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
+| 17:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 17:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.3% | 0.2% |
+| 17:00 | EUR | Italian HICP (YoY) (Sep) | 5.7% | 5.3% | 5.5% |
 | 17:00 | EUR | Core CPI (MoM) | 0.2% |  | 0.3% |
 | 17:00 | EUR | CPI, n.s.a (Sep) | 124.44 |  | 124.03 |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) | 5.5% |  | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) | 0.2% |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -1.60% |  | -0.40% |
 | 18:00 | EUR | Italian Industrial Sales (MoM) (Jul) | -0.40% |  | 0.50% |
+| 18:00 | EUR | Italian Industrial Sales (YoY) (Jul) | -1.60% |  | -0.40% |
 | 18:30 | INR | Federal Fiscal Deficit (Aug) | 6,428.26B |  | 6,055.93B |
 | 19:30 | INR | Current Account % of GDP (QoQ) (Q2) | -1.10% |  | -0.20% |
 | 19:30 | INR | FX Reserves, USD | 590.70B |  | 593.04B |
@@ -68,9 +68,9 @@
 | 20:00 | ZAR | Trade Balance (Aug) | 13.28B | 7.00B | 15.96B |
 | 20:30 | USD | Personal Income (MoM) (Aug) | 0.4% | 0.4% | 0.2% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Aug) | 0.1% |  | 0.6% |
-| 20:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | -0.2% |
-| 21:30 | BRL | Long Term Interest Rate TJLP |  |  | 7.00% |
-| 22:00 | USD | Michigan Current Conditions (Sep) |  | 69.8 | 75.7 |
-| 22:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
+| 20:30 | USD | Wholesale Inventories (MoM) | -0.1% | 0.1% | -0.2% |
+| 11 min | BRL | Long Term Interest Rate TJLP |  |  | 7.00% |
+| 41 min | USD | Michigan Current Conditions (Sep) |  | 69.8 | 75.7 |
+| 41 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 23:00 | CAD | Budget Balance (YoY) (Jul) |  |  | 3.62B |
+| 23:00 | CAD | Budget Balance (Jul) |  |  | 2.11B |
