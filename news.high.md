@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | CNY | Manufacturing PMI |  | 50.2 | 49.7 |
+| 23 min | CNY | Manufacturing PMI |  | 50.2 | 49.7 |
