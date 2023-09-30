@@ -15,6 +15,6 @@
 | 04:30 | BRL | CFTC BRL speculative net positions | 15.6K |  | 12.9K |
 | 04:30 | JPY | CFTC JPY speculative net positions | -109.5K |  | -101.6K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 98.4K |  | 102.0K |
-| 23 min | CNY | Chinese Composite PMI (Sep) |  |  | 51.3 |
-| 23 min | CNY | Non-Manufacturing PMI (Sep) |  | 51.5 | 51.0 |
+| 09:30 | CNY | Chinese Composite PMI (Sep) | 52.0 |  | 51.3 |
+| 09:30 | CNY | Non-Manufacturing PMI (Sep) | 51.7 | 51.5 | 51.0 |
 | 22:00 | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
