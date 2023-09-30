@@ -17,4 +17,4 @@
 | 04:30 | EUR | CFTC EUR speculative net positions | 98.4K |  | 102.0K |
 | 09:30 | CNY | Chinese Composite PMI (Sep) | 52.0 |  | 51.3 |
 | 09:30 | CNY | Non-Manufacturing PMI (Sep) | 51.7 | 51.5 | 51.0 |
-| 44 min | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
+| 22:00 | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
