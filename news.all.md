@@ -31,4 +31,4 @@
 | 09:30 | CNY | Moderate | Chinese Composite PMI (Sep) | 52.0 |  | 51.3 |
 | 09:30 | CNY | High | Manufacturing PMI | 50.2 | 50.2 | 49.7 |
 | 09:30 | CNY | Moderate | Non-Manufacturing PMI (Sep) | 51.7 | 51.5 | 51.0 |
-| 22:00 | GBP | Moderate | BoE MPC Member Cunliffe Speaks |  |  |  |
+| 44 min | GBP | Moderate | BoE MPC Member Cunliffe Speaks |  |  |  |
