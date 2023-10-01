@@ -23,8 +23,8 @@
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  |  | -0.20% |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) |  |  | 53.9 |
 | 12:00 | IDR | Low | Core Inflation (YoY) |  | 2.10% | 2.18% |
-| 12:00 | IDR | Low | Inflation (MoM) |  | 0.15% | -0.02% |
 | 12:00 | IDR | Low | Inflation (YoY) |  | 2.25% | 3.27% |
+| 12:00 | IDR | Low | Inflation (MoM) |  | 0.15% | -0.02% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -5.8% | -5.3% |
@@ -44,13 +44,13 @@
 | 17:00 | EUR | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
 | 17:00 | ZAR | Low | Manufacturing PMI |  |  | 49.7 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:00 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.00% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 45.68K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 45.68K |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.789% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.824% |
