@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 32 min | NZD | Low | Building Consents (MoM) (Aug) |  |  | -5.2% |
-| 47 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 48.2 | 49.6 |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 07:00 | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
+| 05:45 | NZD | Low | Building Consents (MoM) (Aug) | -6.7% |  | -5.4% |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.7 | 48.2 | 49.6 |
+| 47 min | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 47 min | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
+| 47 min | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
 | 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 07:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q3) |  | 13.6% | 13.4% |
 | 07:50 | JPY | Low | Tankan All Small Industry CAPEX (Q3) |  |  | 2.4% |
@@ -23,8 +23,8 @@
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  |  | -0.20% |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) |  |  | 53.9 |
 | 12:00 | IDR | Low | Core Inflation (YoY) |  | 2.10% | 2.18% |
-| 12:00 | IDR | Low | Inflation (YoY) |  | 2.25% | 3.27% |
 | 12:00 | IDR | Low | Inflation (MoM) |  | 0.15% | -0.02% |
+| 12:00 | IDR | Low | Inflation (YoY) |  | 2.25% | 3.27% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -5.8% | -5.3% |
@@ -44,8 +44,8 @@
 | 17:00 | EUR | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
 | 17:00 | ZAR | Low | Manufacturing PMI |  |  | 49.7 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:00 | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.00% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
