@@ -19,16 +19,16 @@
 | 08:30 | SGD | URA Property Index (QoQ) (Q3) |  |  | -0.20% |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Sep) |  |  | 53.9 |
 | 12:00 | IDR | Core Inflation (YoY) |  | 2.10% | 2.18% |
-| 12:00 | IDR | Inflation (YoY) |  | 2.25% | 3.27% |
 | 12:00 | IDR | Inflation (MoM) |  | 0.15% | -0.02% |
+| 12:00 | IDR | Inflation (YoY) |  | 2.25% | 3.27% |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:30 | CHF | Retail Sales (YoY) (Aug) |  | -1.8% | -2.2% |
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  |  | 7.6% |
 | 16:00 | NOK | Manufacturing PMI (Sep) |  |  | 51.4 |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 49.7 |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.00% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
