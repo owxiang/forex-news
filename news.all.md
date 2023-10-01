@@ -26,8 +26,8 @@
 | 12:00 | IDR | Low | Inflation (YoY) |  | 2.25% | 3.27% |
 | 12:00 | IDR | Low | Inflation (MoM) |  | 0.15% | -0.02% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -5.8% | -5.3% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.4% | -0.8% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Aug) |  | -1.8% | -2.2% |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
 | 15:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
