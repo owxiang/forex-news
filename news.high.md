@@ -1,7 +1,6 @@
-## 02 October 2023 - High Impact Forex News
+## 03 October 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22:00 | USD | ISM Manufacturing PMI (Sep) | 49.0 | 47.7 | 47.6 |
-| 22:00 | USD | ISM Manufacturing Prices (Sep) | 43.8 | 48.6 | 48.4 |
-| 23:00 | USD | Fed Chair Powell Speaks |  |  |  |
+| 11:30 | AUD | RBA Interest Rate Decision (Oct) |  | 4.10% | 4.10% |
+| 22:00 | USD | JOLTs Job Openings (Aug) |  | 8.830M | 8.827M |

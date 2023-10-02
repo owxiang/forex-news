@@ -1,59 +1,50 @@
-## 02 October 2023 - All Forex News
+## 03 October 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:45 | NZD | Low | Building Consents (MoM) (Aug) | -6.7% |  | -5.4% |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.7 | 48.2 | 49.6 |
-| 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 07:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q3) | 13.6% | 13.6% | 13.4% |
-| 07:50 | JPY | Low | Tankan All Small Industry CAPEX (Q3) | 8.0% |  | 2.4% |
-| 07:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q3) | 10 | 5 | 9 |
-| 07:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q3) | 9 | 6 | 5 |
-| 07:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q3) | 21 | 22 | 20 |
-| 07:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q3) | 27 | 24 | 23 |
-| 07:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q3) | -2 |  | -1 |
-| 07:50 | JPY | Low | Tankan Small Manufacturing Index (Q3) | -5 | -4 | -5 |
-| 07:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q3) | 8 |  | 7 |
-| 07:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q3) | 12 |  | 11 |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.0% |  | 0.2% |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.5 | 48.6 | 49.6 |
-| 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.50% |  | -0.20% |
-| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) | 52.3 |  | 53.9 |
-| 12:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.00% | 2.08% | 2.18% |
-| 12:00 | IDR | Low | Inflation (MoM) | 0.19% | 0.14% | -0.02% |
-| 12:00 | IDR | Low | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -5.7% | -5.3% |
-| 14:30 | CHF | Low | Retail Sales (YoY) (Aug) | -1.8% | -1.8% | -2.5% |
-| 15:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 47.7 | 46.5 | 46.5 |
-| 15:30 | CHF | Moderate | procure.ch PMI (Sep) | 44.9 | 40.5 | 39.9 |
-| 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) | 46.8 | 45.7 | 45.4 |
-| 15:50 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) | 44.2 | 43.6 | 46.0 |
-| 15:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) | 39.6 | 39.8 | 39.1 |
-| 16:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) | 7.3% | 7.7% | 7.5% |
-| 16:00 | NOK | Low | Manufacturing PMI (Sep) | 52.5 |  | 51.2 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) | 43.4 | 43.4 | 43.5 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 44.3 | 44.2 | 43.0 |
-| 17:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.5% |
-| 17:00 | ZAR | Low | Manufacturing PMI | 45.4 |  | 49.7 |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -3.10% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Sep) | 46.02K |  | 45.68K |
-| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.787% |  | 3.789% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.773% |  | 3.822% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.828% |  | 3.824% |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 49.0 |  | 50.1 |
-| 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) | 47.5 |  | 48.0 |
-| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Sep) | 49.8 | 48.9 | 47.9 |
-| 22:00 | USD | Low | Construction Spending (MoM) (Aug) | 0.5% | 0.5% | 0.9% |
-| 22:00 | USD | Moderate | ISM Manufacturing Employment (Sep) | 51.2 | 48.3 | 48.5 |
-| 22:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) | 49.2 |  | 46.8 |
-| 22:00 | USD | High | ISM Manufacturing PMI (Sep) | 49.0 | 47.7 | 47.6 |
-| 22:00 | USD | High | ISM Manufacturing Prices (Sep) | 43.8 | 48.6 | 48.4 |
-| 23:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 23:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) | 49.80 |  | 51.20 |
-| 13 min | USD | Low | 3-Month Bill Auction |  |  | 5.330% |
-| 13 min | USD | Low | 6-Month Bill Auction |  |  | 5.315% |
+| 40 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 01:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 01:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 178.00K | 142.70K |
+| 02:00 | BRL | Low | Trade Balance (Sep) |  | 9.19B | 9.77B |
+| 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -63% |
+| 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
+| 06:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 06:00 | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
+| 06:00 | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
+| 07:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 6.9% |
+| 07:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
+| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 1.9% |
+| 08:30 | AUD | Low | Building Approvals (YoY) (Aug) |  | -6.40% | -18.00% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) (Aug) |  | 2.7% | -8.1% |
+| 08:30 | AUD | Moderate | Home Loans (MoM) |  | 0.0% | -1.9% |
+| 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | -0.1% |
+| 08:30 | AUD | Low | Private House Approvals (Aug) |  |  | 0.1% |
+| 11:30 | AUD | High | RBA Interest Rate Decision (Oct) |  | 4.10% | 4.10% |
+| 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.657% |
+| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) |  | 58.1 | 58.6 |
+| 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
+| 14:30 | CHF | Moderate | CPI (MoM) (Sep) |  | 0.0% | 0.2% |
+| 14:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
+| 14:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -169.0B |
+| 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | -0.20% |
+| 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
+| 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
+| 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
+| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 20:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
+| 20:55 | USD | Low | Redbook (YoY) |  |  | 3.8% |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
+| 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
+| 22:00 | USD | High | JOLTs Job Openings (Aug) |  | 8.830M | 8.827M |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.6% |
+| 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.120% |
