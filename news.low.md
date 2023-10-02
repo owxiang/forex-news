@@ -7,10 +7,10 @@
 | 01:30 | BRL | CAGED Net Payroll Jobs (Aug) | 220.84K |  | 142.70K |
 | 02:00 | BRL | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
 | 05:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 87.3% |  | 81.7% |
-| 46 min | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
 | 46 min | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 46 min | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
 | 46 min | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 07:01 | GBP | BRC Shop Price Index (YoY) |  |  | 6.9% |
+| 47 min | GBP | BRC Shop Price Index (YoY) |  |  | 6.9% |
 | 07:50 | JPY | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 1.9% |
 | 08:30 | AUD | Building Approvals (YoY) (Aug) |  | -6.40% | -18.00% |
@@ -23,10 +23,10 @@
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
+| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
 | 20:00 | USD | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.8% |
