@@ -22,14 +22,14 @@
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 7.3% | 7.7% | 7.5% |
 | 16:00 | NOK | Manufacturing PMI (Sep) | 52.5 |  | 51.2 |
 | 17:00 | ZAR | Manufacturing PMI | 45.4 |  | 49.7 |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 47 min | ZAR | Total Vehicle Sales (Sep) |  |  | 45.68K |
-| 47 min | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
-| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.789% |
-| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.822% |
-| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.824% |
-| 21:00 | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
-| 21:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 48.0 |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | ZAR | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -3.10% |
+| 20:00 | ZAR | Total Vehicle Sales (Sep) | 46.02K |  | 45.68K |
+| 24 min | EUR | French 12-Month BTF Auction |  |  | 3.789% |
+| 24 min | EUR | French 3-Month BTF Auction |  |  | 3.822% |
+| 24 min | EUR | French 6-Month BTF Auction |  |  | 3.824% |
+| 29 min | BRL | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
+| 59 min | CAD | S&P Global Canada Manufacturing PMI (Sep) |  |  | 48.0 |
 | 22:00 | USD | Construction Spending (MoM) (Aug) |  | 0.5% | 0.7% |
 | 22:00 | USD | ISM Manufacturing New Orders Index (Sep) |  |  | 46.8 |
 | 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Sep) |  |  | 51.20 |
