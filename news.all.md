@@ -2,9 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:00 | EUR | Low | Italian Car Registration (YoY) | 22.8% |  | 11.9% |
 | 01:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 46 min | BRL | Low | Trade Balance (Sep) |  | 9.19B | 9.77B |
+| 01:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 01:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) | 220.84K |  | 142.70K |
+| 02:00 | BRL | Low | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -63% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
 | 06:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |

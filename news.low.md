@@ -2,8 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 00:00 | EUR | Italian Car Registration (YoY) | 22.8% |  | 11.9% |
 | 01:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 46 min | BRL | Trade Balance (Sep) |  | 9.19B | 9.77B |
+| 01:30 | BRL | CAGED Net Payroll Jobs (Aug) | 220.84K |  | 142.70K |
+| 02:00 | BRL | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
 | 05:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
 | 06:00 | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
 | 06:00 | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
