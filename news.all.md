@@ -2,10 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 01:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 01:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) |  | 178.00K | 142.70K |
-| 02:00 | BRL | Low | Trade Balance (Sep) |  | 9.19B | 9.77B |
+| 01:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 16 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 46 min | BRL | Low | Trade Balance (Sep) |  | 9.19B | 9.77B |
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -63% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
 | 06:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
@@ -25,8 +24,8 @@
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.657% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) |  | 58.1 | 58.6 |
 | 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Sep) |  | 0.0% | 0.2% |
+| 14:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -169.0B |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
@@ -37,10 +36,10 @@
 | 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.8% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |

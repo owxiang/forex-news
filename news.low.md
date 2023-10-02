@@ -2,9 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 01:30 | BRL | CAGED Net Payroll Jobs (Aug) |  | 178.00K | 142.70K |
-| 02:00 | BRL | Trade Balance (Sep) |  | 9.19B | 9.77B |
+| 01:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 46 min | BRL | Trade Balance (Sep) |  | 9.19B | 9.77B |
 | 05:00 | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
 | 06:00 | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
 | 06:00 | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
@@ -24,8 +23,8 @@
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
 | 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
 | 20:00 | USD | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.8% |
