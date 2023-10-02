@@ -6,11 +6,11 @@
 | 07:50 | JPY | Tankan Big Manufacturing Outlook Index (Q3) | 10 | 5 | 9 |
 | 07:50 | JPY | Tankan Large Manufacturers Index (Q3) | 9 | 6 | 5 |
 | 07:50 | JPY | Tankan Large Non-Manufacturers Index (Q3) | 27 | 24 | 23 |
-| 46 min | GBP | Nationwide HPI (YoY) |  | -5.7% | -5.3% |
-| 46 min | GBP | Nationwide HPI (MoM) |  | -0.4% | -0.8% |
-| 15:00 | EUR | Spanish Unemployment Change |  | -12.2K | 24.8K |
-| 15:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 15:15 | EUR | HCOB Spain Manufacturing PMI (Sep) |  | 46.5 | 46.5 |
+| 14:00 | GBP | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
+| 14:00 | GBP | Nationwide HPI (YoY) | -5.3% | -5.7% | -5.3% |
+| 39 min | EUR | Spanish Unemployment Change |  | -12.2K | 24.8K |
+| 39 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 54 min | EUR | HCOB Spain Manufacturing PMI (Sep) |  | 46.5 | 46.5 |
 | 15:30 | CHF | procure.ch PMI (Sep) |  | 40.5 | 39.9 |
 | 15:45 | EUR | HCOB Italy Manufacturing PMI (Sep) |  | 45.7 | 45.4 |
 | 15:50 | EUR | HCOB France Manufacturing PMI (Sep) |  | 43.6 | 46.0 |
