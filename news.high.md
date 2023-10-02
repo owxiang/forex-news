@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 22:00 | USD | ISM Manufacturing PMI (Sep) | 49.0 | 47.7 | 47.6 |
 | 22:00 | USD | ISM Manufacturing Prices (Sep) | 43.8 | 48.6 | 48.4 |
-| 45 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 23:00 | USD | Fed Chair Powell Speaks |  |  |  |

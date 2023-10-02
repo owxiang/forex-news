@@ -51,9 +51,9 @@
 | 22:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) | 49.2 |  | 46.8 |
 | 22:00 | USD | High | ISM Manufacturing PMI (Sep) | 49.0 | 47.7 | 47.6 |
 | 22:00 | USD | High | ISM Manufacturing Prices (Sep) | 43.8 | 48.6 | 48.4 |
-| 45 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 45 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 45 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 45 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) |  |  | 51.20 |
-| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.330% |
-| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.315% |
+| 23:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 23:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Sep) | 49.80 |  | 51.20 |
+| 13 min | USD | Low | 3-Month Bill Auction |  |  | 5.330% |
+| 13 min | USD | Low | 6-Month Bill Auction |  |  | 5.315% |

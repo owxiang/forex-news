@@ -32,6 +32,6 @@
 | 21:30 | CAD | S&P Global Canada Manufacturing PMI (Sep) | 47.5 |  | 48.0 |
 | 22:00 | USD | Construction Spending (MoM) (Aug) | 0.5% | 0.5% | 0.9% |
 | 22:00 | USD | ISM Manufacturing New Orders Index (Sep) | 49.2 |  | 46.8 |
-| 45 min | MXN | S&P Global Mexico Manufacturing PMI (Sep) |  |  | 51.20 |
-| 23:30 | USD | 3-Month Bill Auction |  |  | 5.330% |
-| 23:30 | USD | 6-Month Bill Auction |  |  | 5.315% |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Sep) | 49.80 |  | 51.20 |
+| 13 min | USD | 3-Month Bill Auction |  |  | 5.330% |
+| 13 min | USD | 6-Month Bill Auction |  |  | 5.315% |

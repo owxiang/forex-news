@@ -19,5 +19,5 @@
 | 17:00 | EUR | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.5% |
 | 21:45 | USD | S&P Global US Manufacturing PMI (Sep) | 49.8 | 48.9 | 47.9 |
 | 22:00 | USD | ISM Manufacturing Employment (Sep) | 51.2 | 48.3 | 48.5 |
-| 45 min | GBP | BoE MPC Member Mann |  |  |  |
-| 45 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 23:00 | GBP | BoE MPC Member Mann |  |  |  |
+| 23:00 | USD | FOMC Member Harker Speaks |  |  |  |
