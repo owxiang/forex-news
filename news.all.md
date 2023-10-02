@@ -22,8 +22,8 @@
 | 12:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.00% | 2.08% | 2.18% |
 | 12:00 | IDR | Low | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
 | 12:00 | IDR | Low | Inflation (MoM) | 0.19% | 0.14% | -0.02% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -5.7% | -5.3% |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Aug) | -1.8% | -1.8% | -2.5% |
 | 15:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) | 47.7 | 46.5 | 46.5 |
@@ -38,19 +38,19 @@
 | 17:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.5% |
 | 17:00 | ZAR | Low | Manufacturing PMI | 45.4 |  | 49.7 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -3.10% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Sep) | 46.02K |  | 45.68K |
-| 24 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.789% |
-| 24 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
-| 24 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.824% |
-| 29 min | BRL | Low | S&P Global Manufacturing PMI (Sep) |  |  | 50.1 |
-| 59 min | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 48.0 |
-| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Sep) |  | 48.9 | 47.9 |
-| 22:00 | USD | Low | Construction Spending (MoM) (Aug) |  | 0.5% | 0.7% |
-| 22:00 | USD | Moderate | ISM Manufacturing Employment (Sep) |  | 48.3 | 48.5 |
-| 22:00 | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 46.8 |
-| 22:00 | USD | High | ISM Manufacturing PMI (Sep) |  | 47.7 | 47.6 |
-| 22:00 | USD | High | ISM Manufacturing Prices (Sep) |  | 48.6 | 48.4 |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) | -4.10% |  | -3.10% |
+| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.787% |  | 3.789% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.773% |  | 3.822% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.828% |  | 3.824% |
+| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Sep) | 49.0 |  | 50.1 |
+| 10 min | CAD | Low | S&P Global Canada Manufacturing PMI (Sep) |  |  | 48.0 |
+| 25 min | USD | Moderate | S&P Global US Manufacturing PMI (Sep) |  | 48.9 | 47.9 |
+| 40 min | USD | Low | Construction Spending (MoM) (Aug) |  | 0.5% | 0.7% |
+| 40 min | USD | Moderate | ISM Manufacturing Employment (Sep) |  | 48.3 | 48.5 |
+| 40 min | USD | Low | ISM Manufacturing New Orders Index (Sep) |  |  | 46.8 |
+| 40 min | USD | High | ISM Manufacturing PMI (Sep) |  | 47.7 | 47.6 |
+| 40 min | USD | High | ISM Manufacturing Prices (Sep) |  | 48.6 | 48.4 |
 | 23:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 23:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
