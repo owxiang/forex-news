@@ -26,8 +26,8 @@
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.657% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) |  | 58.1 | 58.6 |
 | 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:30 | CHF | Moderate | CPI (MoM) (Sep) |  | 0.0% | 0.2% |
 | 14:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
+| 14:30 | CHF | Moderate | CPI (MoM) (Sep) |  | 0.0% | 0.2% |
 | 14:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -169.0B |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
@@ -38,10 +38,10 @@
 | 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.8% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
