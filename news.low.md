@@ -21,15 +21,15 @@
 | 14:30 | CHF | Retail Sales (YoY) (Aug) | -1.8% | -1.8% | -2.5% |
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 7.3% | 7.7% | 7.5% |
 | 16:00 | NOK | Manufacturing PMI (Sep) | 52.5 |  | 51.2 |
-| 40 min | ZAR | Manufacturing PMI |  |  | 49.7 |
-| 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 17:00 | ZAR | Manufacturing PMI | 45.4 |  | 49.7 |
+| 44 min | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
+| 44 min | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 44 min | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:00 | BRL | Long Term Interest Rate TJLP |  |  | 7.00% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | ZAR | Total Vehicle Sales (Sep) |  |  | 45.68K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
+| 20:00 | ZAR | Total Vehicle Sales (Sep) |  |  | 45.68K |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.789% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.822% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.824% |
