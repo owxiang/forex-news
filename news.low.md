@@ -15,9 +15,9 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.5 | 48.6 | 49.6 |
 | 08:30 | SGD | URA Property Index (QoQ) (Q3) | 0.50% |  | -0.20% |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Sep) | 52.3 |  | 53.9 |
-| 12:00 | IDR | Core Inflation (YoY) |  | 2.10% | 2.18% |
-| 12:00 | IDR | Inflation (MoM) |  | 0.15% | -0.02% |
-| 12:00 | IDR | Inflation (YoY) |  | 2.25% | 3.27% |
+| 44 min | IDR | Core Inflation (YoY) |  | 2.10% | 2.18% |
+| 44 min | IDR | Inflation (MoM) |  | 0.15% | -0.02% |
+| 44 min | IDR | Inflation (YoY) |  | 2.25% | 3.27% |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:30 | CHF | Retail Sales (YoY) (Aug) |  | -1.8% | -2.2% |
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  |  | 7.6% |

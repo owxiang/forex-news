@@ -19,9 +19,9 @@
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Sep) | 48.5 | 48.6 | 49.6 |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.50% |  | -0.20% |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) | 52.3 |  | 53.9 |
-| 12:00 | IDR | Low | Core Inflation (YoY) |  | 2.10% | 2.18% |
-| 12:00 | IDR | Low | Inflation (MoM) |  | 0.15% | -0.02% |
-| 12:00 | IDR | Low | Inflation (YoY) |  | 2.25% | 3.27% |
+| 44 min | IDR | Low | Core Inflation (YoY) |  | 2.10% | 2.18% |
+| 44 min | IDR | Low | Inflation (MoM) |  | 0.15% | -0.02% |
+| 44 min | IDR | Low | Inflation (YoY) |  | 2.25% | 3.27% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) |  | -5.8% | -5.3% |
