@@ -7,8 +7,8 @@
 | 01:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 01:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) | 220.84K |  | 142.70K |
 | 02:00 | BRL | Low | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
-| 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -63% |
-| 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
+| 44 min | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -63% |
+| 44 min | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
 | 06:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
 | 06:00 | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
 | 06:00 | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
@@ -35,8 +35,8 @@
 | 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
