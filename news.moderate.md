@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 44 min | NZD | NZIER Business Confidence (Q3) |  |  | -63% |
+| 05:00 | NZD | NZIER Business Confidence (Q3) | -52% |  | -63% |
 | 07:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 08:30 | AUD | Building Approvals (MoM) (Aug) |  | 2.7% | -8.1% |
 | 08:30 | AUD | Home Loans (MoM) |  | 0.0% | -1.9% |

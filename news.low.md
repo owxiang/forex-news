@@ -6,10 +6,10 @@
 | 01:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 01:30 | BRL | CAGED Net Payroll Jobs (Aug) | 220.84K |  | 142.70K |
 | 02:00 | BRL | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
-| 44 min | NZD | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
-| 06:00 | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 06:00 | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 06:00 | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
+| 05:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 87.3% |  | 81.7% |
+| 46 min | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
+| 46 min | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 46 min | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
 | 07:01 | GBP | BRC Shop Price Index (YoY) |  |  | 6.9% |
 | 07:50 | JPY | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 1.9% |

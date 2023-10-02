@@ -7,11 +7,11 @@
 | 01:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 01:30 | BRL | Low | CAGED Net Payroll Jobs (Aug) | 220.84K |  | 142.70K |
 | 02:00 | BRL | Low | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
-| 44 min | NZD | Moderate | NZIER Business Confidence (Q3) |  |  | -63% |
-| 44 min | NZD | Low | NZIER QSBO Capacity Utilization (Q3) |  |  | 81.7% |
-| 06:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 06:00 | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 06:00 | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
+| 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) | -52% |  | -63% |
+| 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) | 87.3% |  | 81.7% |
+| 46 min | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
+| 46 min | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 46 min | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
 | 07:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 6.9% |
 | 07:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
