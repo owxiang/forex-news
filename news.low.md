@@ -22,10 +22,9 @@
 | 16:00 | EUR | Italian Monthly Unemployment Rate (Aug) | 7.3% | 7.7% | 7.5% |
 | 16:00 | NOK | Manufacturing PMI (Sep) | 52.5 |  | 51.2 |
 | 17:00 | ZAR | Manufacturing PMI | 45.4 |  | 49.7 |
-| 43 min | BRL | Long Term Interest Rate TJLP |  |  | 7.00% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | ZAR | Total Vehicle Sales (Sep) |  |  | 45.68K |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 47 min | ZAR | Total Vehicle Sales (Sep) |  |  | 45.68K |
+| 47 min | ZAR | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.789% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.822% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.824% |

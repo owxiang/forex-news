@@ -22,8 +22,8 @@
 | 12:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.00% | 2.08% | 2.18% |
 | 12:00 | IDR | Low | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
 | 12:00 | IDR | Low | Inflation (MoM) | 0.19% | 0.14% | -0.02% |
-| 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -5.7% | -5.3% |
 | 14:00 | GBP | Moderate | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
+| 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -5.7% | -5.3% |
 | 14:30 | CHF | Low | Retail Sales (YoY) (Aug) | -1.8% | -1.8% | -2.5% |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
 | 15:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -38,10 +38,9 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) | 44.3 | 44.2 | 43.0 |
 | 17:00 | EUR | Moderate | Unemployment Rate (Aug) | 6.4% | 6.4% | 6.5% |
 | 17:00 | ZAR | Low | Manufacturing PMI | 45.4 |  | 49.7 |
-| 43 min | BRL | Low | Long Term Interest Rate TJLP |  |  | 7.00% |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 45.68K |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 47 min | ZAR | Low | Total Vehicle Sales (Sep) |  |  | 45.68K |
+| 47 min | ZAR | Low | Total Vehicle Sales (YoY) (Sep) |  |  | -3.10% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.789% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.824% |
