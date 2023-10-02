@@ -20,23 +20,22 @@
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.50% |  | -0.20% |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Sep) | 52.3 |  | 53.9 |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Sep) | 2.00% | 2.08% | 2.18% |
-| 12:00 | IDR | Low | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
 | 12:00 | IDR | Low | Inflation (MoM) | 0.19% | 0.14% | -0.02% |
-| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
+| 12:00 | IDR | Low | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
 | 14:00 | GBP | Moderate | Nationwide HPI (YoY) | -5.3% | -5.7% | -5.3% |
-| 9 min | CHF | Low | Retail Sales (YoY) (Aug) |  | -1.8% | -2.2% |
-| 9 min | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
-| 39 min | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
-| 39 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 54 min | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 46.5 | 46.5 |
-| 15:30 | CHF | Moderate | procure.ch PMI (Sep) |  | 40.5 | 39.9 |
-| 15:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 45.7 | 45.4 |
-| 15:50 | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 43.6 | 46.0 |
-| 15:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 39.8 | 39.1 |
-| 16:00 | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 7.7% | 7.6% |
-| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | -0.20% |
-| 16:00 | NOK | Low | Manufacturing PMI (Sep) |  |  | 51.4 |
-| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 43.4 | 43.5 |
+| 14:00 | GBP | Moderate | Nationwide HPI (MoM) | 0.0% | -0.4% | -0.8% |
+| 14:30 | CHF | Low | Retail Sales (YoY) (Aug) | -1.8% | -1.8% | -2.5% |
+| 15:00 | EUR | Moderate | Spanish Unemployment Change |  | -12.2K | 24.8K |
+| 15:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 15:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Sep) |  | 46.5 | 46.5 |
+| 16 min | CHF | Moderate | procure.ch PMI (Sep) |  | 40.5 | 39.9 |
+| 31 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Sep) |  | 45.7 | 45.4 |
+| 36 min | EUR | Moderate | HCOB France Manufacturing PMI (Sep) |  | 43.6 | 46.0 |
+| 41 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Sep) |  | 39.8 | 39.1 |
+| 46 min | EUR | Low | Italian Monthly Unemployment Rate (Aug) |  | 7.7% | 7.6% |
+| 46 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | -0.20% |
+| 46 min | NOK | Low | Manufacturing PMI (Sep) |  |  | 51.4 |
+| 46 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Sep) |  | 43.4 | 43.5 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Sep) |  | 44.2 | 43.0 |
 | 17:00 | EUR | Moderate | Unemployment Rate (Aug) |  | 6.4% | 6.4% |
 | 17:00 | ZAR | Low | Manufacturing PMI |  |  | 49.7 |

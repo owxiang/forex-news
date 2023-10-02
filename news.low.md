@@ -16,12 +16,11 @@
 | 08:30 | SGD | URA Property Index (QoQ) (Q3) | 0.50% |  | -0.20% |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Sep) | 52.3 |  | 53.9 |
 | 12:00 | IDR | Core Inflation (YoY) (Sep) | 2.00% | 2.08% | 2.18% |
-| 12:00 | IDR | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
 | 12:00 | IDR | Inflation (MoM) | 0.19% | 0.14% | -0.02% |
-| 9 min | CHF | Retail Sales (YoY) (Aug) |  | -1.8% | -2.2% |
-| 9 min | AUD | Commodity Prices (YoY) |  |  | -23.2% |
-| 16:00 | EUR | Italian Monthly Unemployment Rate (Aug) |  | 7.7% | 7.6% |
-| 16:00 | NOK | Manufacturing PMI (Sep) |  |  | 51.4 |
+| 12:00 | IDR | Inflation (YoY) | 2.28% | 2.20% | 3.27% |
+| 14:30 | CHF | Retail Sales (YoY) (Aug) | -1.8% | -1.8% | -2.5% |
+| 46 min | EUR | Italian Monthly Unemployment Rate (Aug) |  | 7.7% | 7.6% |
+| 46 min | NOK | Manufacturing PMI (Sep) |  |  | 51.4 |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 49.7 |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
 | 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
