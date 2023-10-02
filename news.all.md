@@ -9,12 +9,9 @@
 | 02:00 | BRL | Low | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) | -52% |  | -63% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) | 87.3% |  | 81.7% |
-| 46 min | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 46 min | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 46 min | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 47 min | GBP | Low | BRC Shop Price Index (YoY) |  |  | 6.9% |
-| 07:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
+| 07:01 | GBP | Low | BRC Shop Price Index (YoY) | 6.2% |  | 6.9% |
+| 15 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 35 min | JPY | Low | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 1.9% |
 | 08:30 | AUD | Low | Building Approvals (YoY) (Aug) |  | -6.40% | -18.00% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) (Aug) |  | 2.7% | -8.1% |
@@ -38,10 +35,10 @@
 | 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.8% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |

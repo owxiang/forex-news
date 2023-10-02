@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 05:00 | NZD | NZIER Business Confidence (Q3) | -52% |  | -63% |
-| 07:30 | USD | FOMC Member Mester Speaks |  |  |  |
+| 15 min | USD | FOMC Member Mester Speaks |  |  |  |
 | 08:30 | AUD | Building Approvals (MoM) (Aug) |  | 2.7% | -8.1% |
 | 08:30 | AUD | Home Loans (MoM) |  | 0.0% | -1.9% |
 | 11:30 | AUD | RBA Rate Statement |  |  |  |
