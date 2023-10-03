@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | AUD | RBA Interest Rate Decision (Oct) |  | 4.10% | 4.10% |
-| 22:00 | USD | JOLTs Job Openings (Aug) |  | 8.830M | 8.827M |
+| 11:30 | AUD | RBA Interest Rate Decision (Oct) | 4.10% | 4.10% | 4.10% |
+| 22:00 | USD | JOLTs Job Openings (Aug) |  | 8.800M | 8.827M |
