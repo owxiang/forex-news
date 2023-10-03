@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
-| 06:00 | AUD | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 51.8 | 50.5 | 47.8 |
-| 43 min | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 43 min | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 43 min | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 43 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | KRW | Industrial Production (MoM) (Aug) | 5.5% | -0.2% | -2.0% |
+| 07:00 | KRW | Industrial Production (YoY) (Aug) | -0.5% | -6.2% | -8.1% |
+| 07:00 | KRW | Retail Sales (MoM) (Aug) | -0.3% |  | -3.3% |
+| 07:00 | AUD | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
+| 07:00 | AUD | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.9 |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 13:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Sep) |  |  | 51.0 |
 | 15:45 | EUR | HCOB Italy Composite PMI (Sep) |  |  | 48.2 |
 | 15:50 | EUR | HCOB France Composite PMI (Sep) |  | 43.5 | 46.0 |
@@ -22,8 +22,8 @@
 | 17:00 | NOK | House Price Index (YoY) (Sep) |  |  | -1.60% |
 | 17:00 | EUR | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 17:00 | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 17:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -1.0% |
+| 17:00 | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
 | 19:00 | USD | MBA Purchase Index |  |  | 144.8 |

@@ -3,18 +3,18 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.210M | -0.092M | 1.586M |
-| 06:00 | AUD | Low | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
-| 06:00 | AUD | Low | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 51.8 | 50.5 | 47.8 |
-| 43 min | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 43 min | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 43 min | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 43 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | KRW | Low | Industrial Production (MoM) (Aug) | 5.5% | -0.2% | -2.0% |
+| 07:00 | KRW | Low | Industrial Production (YoY) (Aug) | -0.5% | -6.2% | -8.1% |
+| 07:00 | KRW | Low | Retail Sales (MoM) (Aug) | -0.3% |  | -3.3% |
+| 07:00 | AUD | Low | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
+| 07:00 | AUD | Low | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.9 |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.3 | 54.3 |
 | 09:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
 | 09:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 13:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 49.6 | 49.3 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Sep) |  |  | 51.0 |
 | 15:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 48.2 |
@@ -35,8 +35,8 @@
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | -1.60% |
 | 17:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Low | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | -1.0% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
