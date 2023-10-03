@@ -8,20 +8,20 @@
 | 02:00 | BRL | Trade Balance (Sep) | 8.90B | 9.19B | 9.77B |
 | 05:00 | NZD | NZIER QSBO Capacity Utilization (Q3) | 87.3% |  | 81.7% |
 | 07:01 | GBP | BRC Shop Price Index (YoY) | 6.2% |  | 6.9% |
-| 07:50 | JPY | Monetary Base (YoY) (Sep) | 5.9% | 1.6% | 1.1% |
+| 07:50 | JPY | Monetary Base (YoY) (Sep) | 5.6% | 1.6% | 1.1% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) | -0.1% |  | 1.7% |
 | 08:30 | AUD | Building Approvals (YoY) (Aug) | -6.70% | -6.40% | -7.00% |
 | 08:30 | AUD | Invest Housing Finance (MoM) | 1.6% |  | -0.3% |
 | 08:30 | AUD | Private House Approvals (Aug) | 5.8% |  | 0.4% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Sep) | 57.5 | 58.1 | 58.6 |
-| 16 min | AUD | Commodity Prices (YoY) |  |  | -23.2% |
-| 14:30 | CHF | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
-| 14:45 | EUR | French Government Budget Balance (Aug) |  |  | -169.0B |
+| 13:30 | AUD | Commodity Prices (YoY) | -22.0% |  | -22.9% |
+| 9 min | CHF | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
+| 24 min | EUR | French Government Budget Balance (Aug) |  |  | -169.0B |
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
