@@ -19,11 +19,10 @@
 | 14:45 | EUR | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
 | 16:40 | EUR | Spanish 12-Month Letras Auction | 3.862% |  | 3.670% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction | 3.823% |  | 3.654% |
-| 45 min | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 45 min | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
-| 45 min | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
+| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
 | 20:00 | USD | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.8% |
