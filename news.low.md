@@ -24,7 +24,6 @@
 | 20:00 | BRL | Industrial Production (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
 | 20:55 | USD | Redbook (YoY) | 3.5% |  | 3.8% |
 | 21:00 | SGD | S&P Global Singapore PMI (Sep) | 50.1 |  | 49.9 |
-| 40 min | USD | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
-| 40 min | USD | Milk Auctions |  |  | 2,957.0 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.6% |
+| 22:00 | USD | IBD/TIPP Economic Optimism | 36.3 | 41.6 | 43.2 |
+| 45 min | NZD | GlobalDairyTrade Price Index |  |  | 4.6% |
 | 23:30 | USD | 52-Week Bill Auction |  |  | 5.120% |
