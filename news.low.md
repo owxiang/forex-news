@@ -20,8 +20,8 @@
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |

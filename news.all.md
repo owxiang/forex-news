@@ -18,9 +18,9 @@
 | 08:30 | AUD | Moderate | Home Loans (MoM) | 2.6% | 0.0% | -1.9% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) | 1.6% |  | -0.3% |
 | 08:30 | AUD | Low | Private House Approvals (Aug) | 5.8% |  | 0.4% |
-| 11:30 | AUD | High | RBA Interest Rate Decision (Oct) |  | 4.10% | 4.10% |
-| 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.657% |
+| 14 min | AUD | High | RBA Interest Rate Decision (Oct) |  | 4.10% | 4.10% |
+| 14 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 19 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.657% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) |  | 58.1 | 58.6 |
 | 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
@@ -32,13 +32,13 @@
 | 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.8% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
