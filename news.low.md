@@ -15,13 +15,13 @@
 | 08:30 | AUD | Private House Approvals (Aug) | 5.8% |  | 0.4% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Sep) | 57.5 | 58.1 | 58.6 |
 | 13:30 | AUD | Commodity Prices (YoY) | -22.0% |  | -22.9% |
-| 9 min | CHF | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
-| 24 min | EUR | French Government Budget Balance (Aug) |  |  | -169.0B |
+| 14:30 | CHF | CPI (YoY) (Sep) | 1.7% | 1.8% | 1.6% |
+| 14:45 | EUR | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |

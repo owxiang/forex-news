@@ -10,8 +10,8 @@
 | 11:30 | AUD | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | 10-Year JGB Auction | 0.768% |  | 0.657% |
 | 14:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 9 min | CHF | CPI (MoM) (Sep) |  | 0.0% | 0.2% |
-| 39 min | EUR | Spanish Unemployment Change |  | -12.2K | 24.8K |
-| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | -0.20% |
+| 14:30 | CHF | CPI (MoM) (Sep) | -0.1% | 0.0% | 0.2% |
+| 15:00 | EUR | Spanish Unemployment Change | 19.8K | -12.2K | 24.8K |
+| 46 min | BRL | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | -0.20% |
 | 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 20:00 | BRL | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
