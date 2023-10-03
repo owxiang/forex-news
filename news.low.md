@@ -13,11 +13,8 @@
 | 08:30 | AUD | Building Approvals (YoY) (Aug) | -6.70% | -6.40% | -7.00% |
 | 08:30 | AUD | Invest Housing Finance (MoM) | 1.6% |  | -0.3% |
 | 08:30 | AUD | Private House Approvals (Aug) | 5.8% |  | 0.4% |
-| 41 min | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 41 min | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 41 min | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 41 min | INR | S&P Global India Manufacturing PMI (Sep) |  | 58.1 | 58.6 |
-| 13:30 | AUD | Commodity Prices (YoY) |  |  | -23.2% |
+| 13:00 | INR | S&P Global India Manufacturing PMI (Sep) | 57.5 | 58.1 | 58.6 |
+| 16 min | AUD | Commodity Prices (YoY) |  |  | -23.2% |
 | 14:30 | CHF | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
 | 14:45 | EUR | French Government Budget Balance (Aug) |  |  | -169.0B |
 | 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |

@@ -21,12 +21,9 @@
 | 11:30 | AUD | High | RBA Interest Rate Decision (Oct) | 4.10% | 4.10% | 4.10% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.768% |  | 0.657% |
-| 41 min | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 41 min | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 41 min | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 41 min | INR | Low | S&P Global India Manufacturing PMI (Sep) |  | 58.1 | 58.6 |
-| 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
-| 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) | 57.5 | 58.1 | 58.6 |
+| 16 min | AUD | Low | Commodity Prices (YoY) |  |  | -23.2% |
+| 56 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 14:30 | CHF | Low | CPI (YoY) (Sep) |  | 1.8% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Sep) |  | 0.0% | 0.2% |
 | 14:45 | EUR | Low | French Government Budget Balance (Aug) |  |  | -169.0B |
