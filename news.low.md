@@ -2,13 +2,13 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 47 min | AUD | AIG Construction Index (Sep) |  |  | -9.9 |
-| 47 min | AUD | AIG Manufacturing Index (Sep) |  |  | -19.8 |
-| 47 min | AUD | Judo Bank Australia Services PMI |  | 50.5 | 47.8 |
-| 07:00 | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 07:00 | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 07:00 | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 06:00 | AUD | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
+| 06:00 | AUD | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
+| 06:00 | AUD | Judo Bank Australia Services PMI | 51.8 | 50.5 | 47.8 |
+| 43 min | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
+| 43 min | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 43 min | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
+| 43 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.9 |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 15:15 | ZAR | S&P Global South Africa PMI (Sep) |  |  | 51.0 |

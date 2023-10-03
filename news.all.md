@@ -3,13 +3,13 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.210M | -0.092M | 1.586M |
-| 47 min | AUD | Low | AIG Construction Index (Sep) |  |  | -9.9 |
-| 47 min | AUD | Low | AIG Manufacturing Index (Sep) |  |  | -19.8 |
-| 47 min | AUD | Low | Judo Bank Australia Services PMI |  | 50.5 | 47.8 |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
-| 07:00 | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 06:00 | AUD | Low | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
+| 06:00 | AUD | Low | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 51.8 | 50.5 | 47.8 |
+| 43 min | KRW | Low | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
+| 43 min | KRW | Low | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
+| 43 min | KRW | Low | Retail Sales (MoM) (Aug) |  |  | -3.2% |
+| 43 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.9 |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.3 | 54.3 |
