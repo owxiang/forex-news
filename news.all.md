@@ -24,21 +24,21 @@
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) | 57.5 | 58.1 | 58.6 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -22.0% |  | -22.9% |
 | 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:30 | CHF | Low | CPI (YoY) (Sep) | 1.7% | 1.8% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.1% | 0.0% | 0.2% |
+| 14:30 | CHF | Low | CPI (YoY) (Sep) | 1.7% | 1.8% | 1.6% |
 | 14:45 | EUR | Low | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change | 19.8K | -12.2K | 24.8K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.29% |  | -0.20% |
-| 20 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
-| 20 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
-| 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 16:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.862% |  | 3.670% |
+| 16:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.823% |  | 3.654% |
+| 45 min | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
+| 45 min | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 45 min | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) |  | 1.0% | -1.1% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.8% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
