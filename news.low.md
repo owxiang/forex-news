@@ -19,12 +19,12 @@
 | 14:45 | EUR | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
 | 16:40 | EUR | Spanish 12-Month Letras Auction | 3.862% |  | 3.670% |
 | 16:40 | EUR | Spanish 6-Month Letras Auction | 3.823% |  | 3.654% |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
-| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
-| 20:00 | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
-| 20:00 | USD | Milk Auctions |  |  | 2,957.0 |
+| 47 min | MXN | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
+| 47 min | MXN | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
+| 47 min | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 47 min | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 47 min | BRL | Industrial Production (MoM) (Aug) |  | 0.5% | -0.6% |
+| 47 min | USD | Milk Auctions |  |  | 2,957.0 |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.8% |
 | 21:00 | SGD | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
 | 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
