@@ -30,10 +30,9 @@
 | 19:00 | USD | Mortgage Market Index |  |  | 189.6 |
 | 19:00 | USD | Mortgage Refinance Index |  |  | 411.7 |
 | 19:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.05% |
-| 19:00 | USD | Milk Auctions |  |  | 2,957.0 |
 | 19:30 | INR | M3 Money Supply |  |  | 11.1% |
-| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 21:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |

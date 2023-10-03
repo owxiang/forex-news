@@ -44,11 +44,10 @@
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 189.6 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 411.7 |
 | 19:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.05% |
-| 19:00 | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 19:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 160K | 177K |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 50.6 |
