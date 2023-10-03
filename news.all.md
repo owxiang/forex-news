@@ -34,12 +34,12 @@
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 0.50% |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 29.10% | 29.90% | 28.80% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 0.5% | 0.8% | -1.1% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
-| 23 min | USD | Low | Redbook (YoY) |  |  | 3.8% |
-| 28 min | SGD | Low | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
-| 28 min | USD | Low | Milk Auctions |  |  | 2,957.0 |
-| 22:00 | USD | Low | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
-| 22:00 | USD | High | JOLTs Job Openings (Aug) |  | 8.800M | 8.827M |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 0.5% | 0.8% | -1.1% |
+| 20:55 | USD | Low | Redbook (YoY) | 3.5% |  | 3.8% |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) | 50.1 |  | 49.9 |
+| 40 min | USD | Low | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
+| 40 min | USD | High | JOLTs Job Openings (Aug) |  | 8.800M | 8.827M |
+| 40 min | USD | Low | Milk Auctions |  |  | 2,957.0 |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.6% |
 | 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.120% |

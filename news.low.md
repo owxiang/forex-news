@@ -22,9 +22,9 @@
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Jul) | 0.50% |  | 3.10% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Jul) | 29.10% | 29.90% | 28.80% |
 | 20:00 | BRL | Industrial Production (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
-| 23 min | USD | Redbook (YoY) |  |  | 3.8% |
-| 28 min | SGD | S&P Global Singapore PMI (Sep) |  |  | 49.9 |
-| 28 min | USD | Milk Auctions |  |  | 2,957.0 |
-| 22:00 | USD | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
+| 20:55 | USD | Redbook (YoY) | 3.5% |  | 3.8% |
+| 21:00 | SGD | S&P Global Singapore PMI (Sep) | 50.1 |  | 49.9 |
+| 40 min | USD | IBD/TIPP Economic Optimism |  | 41.6 | 43.2 |
+| 40 min | USD | Milk Auctions |  |  | 2,957.0 |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.6% |
 | 23:30 | USD | 52-Week Bill Auction |  |  | 5.120% |
