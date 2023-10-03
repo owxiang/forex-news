@@ -10,14 +10,14 @@
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q3) | -52% |  | -63% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q3) | 87.3% |  | 81.7% |
 | 07:01 | GBP | Low | BRC Shop Price Index (YoY) | 6.2% |  | 6.9% |
-| 15 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 35 min | JPY | Low | Monetary Base (YoY) (Sep) |  | 1.6% | 1.1% |
-| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 1.9% |
-| 08:30 | AUD | Low | Building Approvals (YoY) (Aug) |  | -6.40% | -18.00% |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) (Aug) |  | 2.7% | -8.1% |
-| 08:30 | AUD | Moderate | Home Loans (MoM) |  | 0.0% | -1.9% |
-| 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | -0.1% |
-| 08:30 | AUD | Low | Private House Approvals (Aug) |  |  | 0.1% |
+| 07:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Sep) | 5.9% | 1.6% | 1.1% |
+| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -0.1% |  | 1.7% |
+| 08:30 | AUD | Low | Building Approvals (YoY) (Aug) | -6.70% | -6.40% | -7.00% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) (Aug) | 7.0% | 2.7% | -7.4% |
+| 08:30 | AUD | Moderate | Home Loans (MoM) | 2.6% | 0.0% | -1.9% |
+| 08:30 | AUD | Low | Invest Housing Finance (MoM) | 1.6% |  | -0.3% |
+| 08:30 | AUD | Low | Private House Approvals (Aug) | 5.8% |  | 0.4% |
 | 11:30 | AUD | High | RBA Interest Rate Decision (Oct) |  | 4.10% | 4.10% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.657% |
@@ -32,8 +32,8 @@
 | 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
 | 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
-| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) |  |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) |  |  | 28.80% |
