@@ -17,8 +17,8 @@
 | 13:30 | AUD | Commodity Prices (YoY) | -22.0% |  | -22.9% |
 | 14:30 | CHF | CPI (YoY) (Sep) | 1.7% | 1.8% | 1.6% |
 | 14:45 | EUR | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
-| 16:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |
-| 16:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.654% |
+| 20 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.670% |
+| 20 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
 | 18:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |

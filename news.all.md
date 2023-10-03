@@ -28,9 +28,9 @@
 | 14:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.1% | 0.0% | 0.2% |
 | 14:45 | EUR | Low | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change | 19.8K | -12.2K | 24.8K |
-| 46 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) |  |  | -0.20% |
-| 16:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
-| 16:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.29% |  | -0.20% |
+| 20 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.670% |
+| 20 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.654% |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Jul) |  |  | 9.45B |
 | 18:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 18:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
