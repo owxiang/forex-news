@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | AIG Construction Index (Sep) |  |  | -9.9 |
-| 06:00 | AUD | AIG Manufacturing Index (Sep) |  |  | -19.8 |
-| 06:00 | AUD | Judo Bank Australia Services PMI |  | 50.5 | 47.8 |
+| 47 min | AUD | AIG Construction Index (Sep) |  |  | -9.9 |
+| 47 min | AUD | AIG Manufacturing Index (Sep) |  |  | -19.8 |
+| 47 min | AUD | Judo Bank Australia Services PMI |  | 50.5 | 47.8 |
 | 07:00 | KRW | Industrial Production (YoY) (Aug) |  | -6.2% | -8.0% |
 | 07:00 | KRW | Industrial Production (MoM) (Aug) |  | -0.2% | -2.0% |
 | 07:00 | KRW | Retail Sales (MoM) (Aug) |  |  | -3.2% |
@@ -22,8 +22,8 @@
 | 17:00 | NOK | House Price Index (YoY) (Sep) |  |  | -1.60% |
 | 17:00 | EUR | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 17:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -1.0% |
 | 17:00 | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
+| 17:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -1.0% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
 | 19:00 | USD | MBA Purchase Index |  |  | 144.8 |
@@ -31,8 +31,8 @@
 | 19:00 | USD | Mortgage Refinance Index |  |  | 411.7 |
 | 19:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.1% |
-| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 21:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |

@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | USD | API Weekly Crude Oil Stock |  | -0.092M | 1.586M |
+| 04:30 | USD | API Weekly Crude Oil Stock | -4.210M | -0.092M | 1.586M |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Sep) |  | 53.3 | 54.3 |
 | 09:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 15:15 | EUR | HCOB Spain Services PMI (Sep) |  | 49.6 | 49.3 |
