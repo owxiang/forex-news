@@ -24,8 +24,8 @@
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Sep) | 57.5 | 58.1 | 58.6 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -22.0% |  | -22.9% |
 | 14:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14:30 | CHF | Low | CPI (YoY) (Sep) | 1.7% | 1.8% | 1.6% |
 | 14:30 | CHF | Moderate | CPI (MoM) (Sep) | -0.1% | 0.0% | 0.2% |
+| 14:30 | CHF | Low | CPI (YoY) (Sep) | 1.7% | 1.8% | 1.6% |
 | 14:45 | EUR | Low | French Government Budget Balance (Aug) | -187.9B |  | -169.0B |
 | 15:00 | EUR | Moderate | Spanish Unemployment Change | 19.8K | -12.2K | 24.8K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Sep) | 0.29% |  | -0.20% |
@@ -34,11 +34,12 @@
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Jul) | 0.50% |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Jul) | 29.10% | 29.90% | 28.80% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Aug) | 0.5% | 0.8% | -1.1% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Aug) | 0.4% | 0.5% | -0.6% |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index | 4.4% |  | 4.6% |
+| 20:00 | USD | Low | Milk Auctions | 3,104.0 |  | 2,957.0 |
 | 20:55 | USD | Low | Redbook (YoY) | 3.5% |  | 3.8% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Sep) | 50.1 |  | 49.9 |
 | 22:00 | USD | Low | IBD/TIPP Economic Optimism | 36.3 | 41.6 | 43.2 |
 | 22:00 | USD | High | JOLTs Job Openings (Aug) | 9.610M | 8.800M | 8.920M |
-| 45 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.6% |
-| 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.120% |
+| 13 min | USD | Low | 52-Week Bill Auction |  |  | 5.120% |
