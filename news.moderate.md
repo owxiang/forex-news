@@ -1,17 +1,24 @@
-## 03 October 2023 - Moderate Impact Forex News
+## 04 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 05:00 | NZD | NZIER Business Confidence (Q3) | -52% |  | -63% |
-| 07:30 | USD | FOMC Member Mester Speaks |  |  |  |
-| 08:30 | AUD | Building Approvals (MoM) (Aug) | 7.0% | 2.5% | -7.4% |
-| 08:30 | AUD | Home Loans (MoM) | 2.6% | 0.0% | -1.9% |
-| 11:30 | AUD | RBA Rate Statement |  |  |  |
-| 11:35 | JPY | 10-Year JGB Auction | 0.768% |  | 0.657% |
-| 14:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 14:30 | CHF | CPI (MoM) (Sep) | -0.1% | 0.0% | 0.2% |
-| 15:00 | EUR | Spanish Unemployment Change | 19.8K | -12.2K | 24.8K |
-| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Sep) | 0.29% |  | -0.20% |
-| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 20:00 | BRL | Industrial Production (YoY) (Aug) | 0.5% | 0.8% | -1.1% |
+| 04:30 | USD | API Weekly Crude Oil Stock |  | -0.092M | 1.586M |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI (Sep) |  | 53.3 | 54.3 |
+| 09:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 15:15 | EUR | HCOB Spain Services PMI (Sep) |  | 49.6 | 49.3 |
+| 15:45 | EUR | HCOB Italy Services PMI (Sep) |  | 50.0 | 49.8 |
+| 15:50 | EUR | HCOB France Services PMI (Sep) |  | 43.9 | 46.0 |
+| 15:55 | EUR | HCOB Germany Services PMI (Sep) |  | 49.8 | 47.3 |
+| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:00 | EUR | HCOB Eurozone Composite PMI (Sep) |  | 47.1 | 46.7 |
+| 16:00 | EUR | HCOB Eurozone Services PMI (Sep) |  | 48.4 | 47.9 |
+| 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) |  | 46.8 | 48.6 |
+| 16:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) |  | 47.2 | 49.5 |
+| 18:00 | USD | OPEC Meeting |  |  |  |
+| 19:40 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 21:45 | USD | S&P Global Composite PMI (Sep) |  | 50.1 | 50.2 |
+| 22:00 | USD | Factory Orders (MoM) (Aug) |  | 0.3% | -2.1% |
+| 22:00 | USD | ISM Non-Manufacturing Employment (Sep) |  |  | 54.7 |
+| 22:00 | EUR | ECB's Panetta Speaks |  |  |  |
+| 22:25 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -0.943M |
