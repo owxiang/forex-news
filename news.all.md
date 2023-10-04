@@ -14,7 +14,6 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) | 53.8 | 53.3 | 54.3 |
 | 09:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 09:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 41 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 49.8 | 49.3 |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Sep) |  |  | 51.0 |
 | 15:45 | EUR | Low | HCOB Italy Composite PMI (Sep) |  |  | 48.2 |
@@ -23,8 +22,8 @@
 | 15:50 | EUR | Moderate | HCOB France Services PMI (Sep) |  | 43.9 | 46.0 |
 | 15:55 | EUR | Low | HCOB Germany Composite PMI (Sep) |  | 46.2 | 44.6 |
 | 15:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) |  | 49.8 | 47.3 |
-| 16:00 | EUR | Low | Italian GDP (YoY) (Q3) |  |  | 0.6% |
-| 16:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  |  | -0.3% |
+| 16:00 | EUR | Low | Italian GDP (YoY) (Q3) |  |  | 0.4% |
+| 16:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  |  | -0.4% |
 | 16:00 | EUR | Low | Italian Public Deficit (Q2) |  |  | 12.1% |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) |  | 47.1 | 46.7 |
@@ -33,10 +32,10 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 47.2 | 49.5 |
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 5.272% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | -1.60% |
-| 17:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Low | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Aug) |  | -1.2% | -1.0% |
+| 17:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Aug) |  | -1.2% | -1.0% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
@@ -46,8 +45,8 @@
 | 19:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 19:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 153K | 177K |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 50.6 |
@@ -75,3 +74,4 @@
 | 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
 | 22:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 22:30 | USD | Low | Gasoline Inventories |  | 0.161M | 1.027M |
+| 23:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

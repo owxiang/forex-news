@@ -22,3 +22,4 @@
 | 22:00 | EUR | ECB's Panetta Speaks |  |  |  |
 | 22:25 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 22:30 | USD | Cushing Crude Oil Inventories |  |  | -0.943M |
+| 23:25 | USD | FOMC Member Bowman Speaks |  |  |  |
