@@ -35,8 +35,8 @@
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | -1.60% |
 | 17:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Low | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 17:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | -1.0% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | -1.0% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
@@ -46,8 +46,8 @@
 | 19:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 19:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 160K | 177K |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 50.6 |
