@@ -32,10 +32,10 @@
 | 17:00 | EUR | Low | Italian GDP (YoY) | 0.3% |  | 2.1% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) | -0.4% |  | 0.6% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
-| 17:00 | EUR | Low | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
+| 17:00 | EUR | Low | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 18:30 | CAD | Low | Leading Index (MoM) (Sep) | 0.08% |  | 0.07% |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.53% |  | 7.41% |
@@ -46,20 +46,20 @@
 | 19:30 | INR | Low | M3 Money Supply | 10.8% |  | 11.1% |
 | 19:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Sep) | 89K | 153K | 180K |
-| 28 min | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 50.6 |
-| 28 min | BRL | Low | S&P Global Services PMI (Sep) |  |  | 50.6 |
-| 21:45 | USD | Moderate | S&P Global Composite PMI (Sep) |  | 50.1 | 50.2 |
-| 21:45 | USD | High | S&P Global Services PMI (Sep) |  | 50.2 | 50.5 |
-| 22:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |
-| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
-| 22:00 | USD | Moderate | Factory Orders (MoM) (Aug) |  | 0.2% | -2.1% |
-| 22:00 | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.8% |
-| 22:00 | USD | Low | ISM Non-Manufacturing Business Activity (Sep) |  | 56.5 | 57.3 |
-| 22:00 | USD | Moderate | ISM Non-Manufacturing Employment (Sep) |  |  | 54.7 |
-| 22:00 | USD | Low | ISM Non-Manufacturing New Orders (Sep) |  |  | 57.5 |
-| 22:00 | USD | High | ISM Non-Manufacturing PMI (Sep) |  | 53.6 | 54.5 |
-| 22:00 | USD | High | ISM Non-Manufacturing Prices (Sep) |  |  | 58.9 |
-| 22:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
+| 21:00 | BRL | Low | S&P Global Composite PMI (Sep) | 49.0 |  | 50.6 |
+| 21:00 | BRL | Low | S&P Global Services PMI (Sep) | 48.7 |  | 50.6 |
+| 24 min | USD | Moderate | S&P Global Composite PMI (Sep) |  | 50.1 | 50.2 |
+| 24 min | USD | High | S&P Global Services PMI (Sep) |  | 50.2 | 50.5 |
+| 39 min | USD | Low | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |
+| 39 min | USD | Low | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
+| 39 min | USD | Moderate | Factory Orders (MoM) (Aug) |  | 0.2% | -2.1% |
+| 39 min | USD | Low | Factory orders ex transportation (MoM) (Aug) |  |  | 0.8% |
+| 39 min | USD | Low | ISM Non-Manufacturing Business Activity (Sep) |  | 56.5 | 57.3 |
+| 39 min | USD | Moderate | ISM Non-Manufacturing Employment (Sep) |  |  | 54.7 |
+| 39 min | USD | Low | ISM Non-Manufacturing New Orders (Sep) |  |  | 57.5 |
+| 39 min | USD | High | ISM Non-Manufacturing PMI (Sep) |  | 53.6 | 54.5 |
+| 39 min | USD | High | ISM Non-Manufacturing Prices (Sep) |  |  | 58.9 |
+| 39 min | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
 | 22:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:30 | USD | High | Crude Oil Inventories |  | -0.446M | -2.170M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.239M |
