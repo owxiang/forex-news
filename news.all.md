@@ -37,16 +37,16 @@
 | 17:00 | EUR | Low | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 144.8 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 189.6 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 411.7 |
-| 43 min | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.05% |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
-| 19:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:30 | CAD | Low | Leading Index (MoM) (Sep) | 0.08% |  | 0.07% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.53% |  | 7.41% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -6.0% |  | -1.3% |
+| 19:00 | USD | Low | MBA Purchase Index | 136.6 |  | 144.8 |
+| 19:00 | USD | Low | Mortgage Market Index | 178.2 |  | 189.6 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 384.6 |  | 411.7 |
+| 17 min | INR | Low | M3 Money Supply |  |  | 11.1% |
+| 27 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 47 min | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 47 min | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 153K | 177K |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 50.6 |

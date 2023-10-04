@@ -23,15 +23,15 @@
 | 17:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
 | 17:00 | EUR | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
 | 17:00 | EUR | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
-| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
-| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
-| 43 min | USD | MBA Purchase Index |  |  | 144.8 |
-| 43 min | USD | Mortgage Market Index |  |  | 189.6 |
-| 43 min | USD | Mortgage Refinance Index |  |  | 411.7 |
-| 43 min | CAD | Leading Index (MoM) (Sep) |  |  | 0.05% |
-| 19:30 | INR | M3 Money Supply |  |  | 11.1% |
-| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 18:30 | CAD | Leading Index (MoM) (Sep) | 0.08% |  | 0.07% |
+| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.53% |  | 7.41% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) | -6.0% |  | -1.3% |
+| 19:00 | USD | MBA Purchase Index | 136.6 |  | 144.8 |
+| 19:00 | USD | Mortgage Market Index | 178.2 |  | 189.6 |
+| 19:00 | USD | Mortgage Refinance Index | 384.6 |  | 411.7 |
+| 17 min | INR | M3 Money Supply |  |  | 11.1% |
+| 47 min | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 47 min | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 21:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |

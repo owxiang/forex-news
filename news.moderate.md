@@ -15,7 +15,7 @@
 | 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) | 48.5 | 46.8 | 48.6 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 49.3 | 47.2 | 49.5 |
 | 18:00 | USD | OPEC Meeting |  |  |  |
-| 19:40 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 27 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:45 | USD | S&P Global Composite PMI (Sep) |  | 50.1 | 50.2 |
 | 22:00 | USD | Factory Orders (MoM) (Aug) |  | 0.2% | -2.1% |
 | 22:00 | USD | ISM Non-Manufacturing Employment (Sep) |  |  | 54.7 |
