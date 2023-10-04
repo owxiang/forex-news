@@ -33,8 +33,8 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 47.2 | 49.5 |
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 5.272% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) |  |  | -1.60% |
-| 17:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Low | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
+| 17:00 | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Low | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Aug) |  |  | -1.0% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |

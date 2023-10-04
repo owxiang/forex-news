@@ -20,8 +20,8 @@
 | 16:00 | EUR | Italian Public Deficit (Q2) |  |  | 12.1% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction |  |  | 5.272% |
 | 17:00 | NOK | House Price Index (YoY) (Sep) |  |  | -1.60% |
-| 17:00 | EUR | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
+| 17:00 | EUR | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
 | 17:00 | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 17:00 | EUR | Retail Sales (YoY) (Aug) |  |  | -1.0% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
