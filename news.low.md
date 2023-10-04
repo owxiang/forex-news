@@ -16,22 +16,22 @@
 | 15:55 | EUR | HCOB Germany Composite PMI (Sep) | 46.4 | 46.2 | 44.6 |
 | 16:00 | EUR | Italian Public Deficit (Q2) | 5.4% |  | 11.3% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
-| 17:00 | EUR | Italian GDP (QoQ) (Q3) | -0.4% |  | -0.4% |
-| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.3% |  | 0.4% |
+| 17:00 | EUR | Italian GDP (YoY) | 0.3% |  | 2.1% |
+| 17:00 | EUR | Italian GDP (QoQ) | -0.4% |  | 0.6% |
 | 17:00 | NOK | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
 | 17:00 | EUR | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
-| 17:00 | EUR | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
 | 17:00 | EUR | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
-| 19:00 | USD | MBA Purchase Index |  |  | 144.8 |
-| 19:00 | USD | Mortgage Market Index |  |  | 189.6 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 411.7 |
-| 19:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.05% |
+| 17:00 | EUR | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
+| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
+| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
+| 43 min | USD | MBA Purchase Index |  |  | 144.8 |
+| 43 min | USD | Mortgage Market Index |  |  | 189.6 |
+| 43 min | USD | Mortgage Refinance Index |  |  | 411.7 |
+| 43 min | CAD | Leading Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.1% |
-| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 21:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |

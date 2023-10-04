@@ -29,24 +29,24 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) | 48.5 | 46.8 | 48.6 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 49.3 | 47.2 | 49.5 |
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
-| 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) | -0.4% |  | -0.4% |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.3% |  | 0.4% |
+| 17:00 | EUR | Low | Italian GDP (YoY) | 0.3% |  | 2.1% |
+| 17:00 | EUR | Low | Italian GDP (QoQ) | -0.4% |  | 0.6% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
 | 17:00 | EUR | Low | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
-| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
 | 17:00 | EUR | Low | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
-| 44 min | USD | Moderate | OPEC Meeting |  |  |  |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
-| 19:00 | USD | Low | MBA Purchase Index |  |  | 144.8 |
-| 19:00 | USD | Low | Mortgage Market Index |  |  | 189.6 |
-| 19:00 | USD | Low | Mortgage Refinance Index |  |  | 411.7 |
-| 19:00 | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.05% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
+| 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
+| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
+| 43 min | USD | Low | MBA Purchase Index |  |  | 144.8 |
+| 43 min | USD | Low | Mortgage Market Index |  |  | 189.6 |
+| 43 min | USD | Low | Mortgage Refinance Index |  |  | 411.7 |
+| 43 min | CAD | Low | Leading Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
 | 19:40 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:00 | EUR | Low | Car Registration (MoM) (Sep) |  |  | -31.10% |
+| 20:00 | EUR | Low | Car Registration (YoY) (Sep) |  |  | 7.80% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Sep) |  | 153K | 177K |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Sep) |  |  | 50.6 |
