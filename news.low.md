@@ -1,50 +1,42 @@
-## 04 October 2023 - Low Impact Forex News
+## 05 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | Judo Bank Australia Services PMI | 51.8 | 50.5 | 47.8 |
-| 07:00 | KRW | Industrial Production (MoM) (Aug) | 5.5% | -0.2% | -2.0% |
-| 07:00 | KRW | Industrial Production (YoY) (Aug) | -0.5% | -6.2% | -8.1% |
-| 07:00 | KRW | Retail Sales (MoM) (Aug) | -0.3% |  | -3.3% |
-| 07:00 | AUD | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
-| 07:00 | AUD | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 49.9 |  | 48.9 |
-| 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 15:15 | ZAR | S&P Global South Africa PMI (Sep) | 49.9 |  | 51.0 |
-| 15:45 | EUR | HCOB Italy Composite PMI (Sep) | 49.2 |  | 48.2 |
-| 15:50 | EUR | HCOB France Composite PMI (Sep) | 44.1 | 43.5 | 46.0 |
-| 15:55 | EUR | HCOB Germany Composite PMI (Sep) | 46.4 | 46.2 | 44.6 |
-| 16:00 | EUR | Italian Public Deficit (Q2) | 5.4% |  | 11.3% |
-| 17:00 | GBP | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
-| 17:00 | EUR | Italian GDP (QoQ) | -0.4% |  | 0.6% |
-| 17:00 | EUR | Italian GDP (YoY) | 0.3% |  | 2.1% |
-| 17:00 | NOK | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
-| 17:00 | EUR | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
-| 17:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
-| 17:00 | EUR | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
-| 17:00 | EUR | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
-| 18:30 | CAD | Leading Index (MoM) (Sep) | 0.08% |  | 0.07% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.53% |  | 7.41% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) | -6.0% |  | -1.3% |
-| 19:00 | USD | MBA Purchase Index | 136.6 |  | 144.8 |
-| 19:00 | USD | Mortgage Market Index | 178.2 |  | 189.6 |
-| 19:00 | USD | Mortgage Refinance Index | 384.6 |  | 411.7 |
-| 19:30 | INR | M3 Money Supply | 10.8% |  | 11.1% |
-| 21:00 | BRL | S&P Global Composite PMI (Sep) | 49.0 |  | 50.6 |
-| 21:00 | BRL | S&P Global Services PMI (Sep) | 48.7 |  | 50.6 |
-| 22:00 | USD | All Car Sales (Sep) | 3.21M |  | 3.12M |
-| 22:00 | USD | All Truck Sales (Sep) | 12.46M |  | 12.22M |
-| 22:00 | USD | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -0.7% |
-| 22:00 | USD | Durables Excluding Transport (MoM) (Aug) | 0.4% |  | 0.4% |
-| 22:00 | USD | Factory orders ex transportation (MoM) (Aug) | 1.4% |  | 0.9% |
-| 22:00 | USD | ISM Non-Manufacturing Business Activity (Sep) | 58.8 | 56.5 | 57.3 |
-| 22:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 51.8 |  | 57.5 |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) | -0.463M |  | -0.239M |
-| 22:30 | USD | Crude Oil Imports | -1.958M |  | 1.767M |
-| 22:30 | USD | Distillate Fuel Production | -0.243M |  | 0.150M |
-| 22:30 | USD | EIA Weekly Distillates Stocks | -1.269M | -0.333M | 0.398M |
-| 22:30 | USD | Gasoline Production | -0.313M |  | -0.572M |
-| 22:30 | USD | Heating Oil Stockpiles | -0.303M |  | 0.517M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.2% |  | -2.4% |
-| 22:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:30 | USD | Gasoline Inventories | 6.481M | 0.161M | 1.027M |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -4.795B |
+| 05:00 | KRW | FX Reserves - USD (Sep) |  |  | 418.30B |
+| 07:00 | KRW | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
+| 07:00 | KRW | CPI (YoY) (Sep) |  | 3.4% | 3.4% |
+| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | -544.4B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -3,025.3B |
+| 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.9% |
+| 08:30 | AUD | Exports (MoM) (Aug) |  |  | -2.0% |
+| 08:30 | AUD | Imports (MoM) (Aug) |  |  | 3.0% |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.8 |
+| 11:35 | JPY | 30-Year JGB Auction |  |  | 1.640% |
+| 13:00 | INR | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
+| 13:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
+| 13:00 | SGD | Retail Sales (YoY) (Aug) |  |  | 1.1% |
+| 14:00 | EUR | German Exports (MoM) (Aug) |  | -0.1% | -0.9% |
+| 14:00 | EUR | German Imports (MoM) (Aug) |  | 0.5% | 1.4% |
+| 14:45 | EUR | French Industrial Production (MoM) (Aug) |  | -0.4% | 0.8% |
+| 15:00 | EUR | Spanish Industrial Production (YoY) (Aug) |  |  | -1.8% |
+| 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
+| 15:30 | EUR | HCOB Germany Construction PMI (Sep) |  |  | 41.5 |
+| 15:30 | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 42.4 |
+| 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 43.4 |
+| 17:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -14.5B | -22.9B |
+| Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
+| 19:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
+| 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
+| 20:00 | MXN | Consumer Confidence |  |  | 46.7 |
+| 20:15 | CAD | Reserve Assets Total (Sep) |  |  | 114.7B |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,678K | 1,670K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |
+| 20:30 | CAD | Exports (Aug) |  |  | 60.42B |
+| 20:30 | CAD | Imports (Aug) |  |  | 61.40B |
+| 22:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 56.8 |
+| 22:30 | USD | Natural Gas Storage |  |  | 90B |
+| 23:30 | USD | 4-Week Bill Auction |  |  | 5.290% |
+| 23:30 | USD | 8-Week Bill Auction |  |  | 5.330% |
+| 23:30 | USD | FOMC Member Barkin Speaks |  |  |  |
