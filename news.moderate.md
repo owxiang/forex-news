@@ -5,7 +5,7 @@
 | 04:30 | USD | API Weekly Crude Oil Stock | -4.210M | -0.092M | 1.586M |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Sep) | 53.8 | 53.3 | 54.3 |
 | 09:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 15:15 | EUR | HCOB Spain Services PMI (Sep) |  | 49.6 | 49.3 |
+| 15:15 | EUR | HCOB Spain Services PMI (Sep) |  | 49.8 | 49.3 |
 | 15:45 | EUR | HCOB Italy Services PMI (Sep) |  | 50.0 | 49.8 |
 | 15:50 | EUR | HCOB France Services PMI (Sep) |  | 43.9 | 46.0 |
 | 15:55 | EUR | HCOB Germany Services PMI (Sep) |  | 49.8 | 47.3 |
@@ -17,7 +17,7 @@
 | 18:00 | USD | OPEC Meeting |  |  |  |
 | 19:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:45 | USD | S&P Global Composite PMI (Sep) |  | 50.1 | 50.2 |
-| 22:00 | USD | Factory Orders (MoM) (Aug) |  | 0.3% | -2.1% |
+| 22:00 | USD | Factory Orders (MoM) (Aug) |  | 0.2% | -2.1% |
 | 22:00 | USD | ISM Non-Manufacturing Employment (Sep) |  |  | 54.7 |
 | 22:00 | EUR | ECB's Panetta Speaks |  |  |  |
 | 22:25 | USD | FOMC Member Bowman Speaks |  |  |  |
