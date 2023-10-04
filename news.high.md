@@ -7,4 +7,4 @@
 | 21:45 | USD | S&P Global Services PMI (Sep) | 50.1 | 50.2 | 50.5 |
 | 22:00 | USD | ISM Non-Manufacturing PMI (Sep) | 53.6 | 53.6 | 54.5 |
 | 22:00 | USD | ISM Non-Manufacturing Prices (Sep) | 58.9 |  | 58.9 |
-| 14 min | USD | Crude Oil Inventories |  | -0.446M | -2.170M |
+| 22:30 | USD | Crude Oil Inventories | -2.224M | -0.446M | -2.170M |

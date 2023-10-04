@@ -16,8 +16,8 @@
 | 15:55 | EUR | HCOB Germany Composite PMI (Sep) | 46.4 | 46.2 | 44.6 |
 | 16:00 | EUR | Italian Public Deficit (Q2) | 5.4% |  | 11.3% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
-| 17:00 | EUR | Italian GDP (YoY) | 0.3% |  | 2.1% |
 | 17:00 | EUR | Italian GDP (QoQ) | -0.4% |  | 0.6% |
+| 17:00 | EUR | Italian GDP (YoY) | 0.3% |  | 2.1% |
 | 17:00 | NOK | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
 | 17:00 | EUR | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
@@ -32,19 +32,19 @@
 | 19:30 | INR | M3 Money Supply | 10.8% |  | 11.1% |
 | 21:00 | BRL | S&P Global Composite PMI (Sep) | 49.0 |  | 50.6 |
 | 21:00 | BRL | S&P Global Services PMI (Sep) | 48.7 |  | 50.6 |
-| 22:00 | USD | All Car Sales (Sep) | 3.21M |  | 3.14M |
-| 22:00 | USD | All Truck Sales (Sep) | 12.46M |  | 12.26M |
+| 22:00 | USD | All Car Sales (Sep) | 3.21M |  | 3.12M |
+| 22:00 | USD | All Truck Sales (Sep) | 12.46M |  | 12.22M |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -0.7% |
 | 22:00 | USD | Durables Excluding Transport (MoM) (Aug) | 0.4% |  | 0.4% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Aug) | 1.4% |  | 0.9% |
 | 22:00 | USD | ISM Non-Manufacturing Business Activity (Sep) | 58.8 | 56.5 | 57.3 |
 | 22:00 | USD | ISM Non-Manufacturing New Orders (Sep) | 51.8 |  | 57.5 |
-| 14 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.239M |
-| 14 min | USD | Crude Oil Imports |  |  | 1.767M |
-| 14 min | USD | Distillate Fuel Production |  |  | 0.150M |
-| 14 min | USD | EIA Weekly Distillates Stocks |  | -0.333M | 0.398M |
-| 14 min | USD | Gasoline Production |  |  | -0.572M |
-| 14 min | USD | Heating Oil Stockpiles |  |  | 0.517M |
-| 14 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 14 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 14 min | USD | Gasoline Inventories |  | 0.161M | 1.027M |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | -0.463M |  | -0.239M |
+| 22:30 | USD | Crude Oil Imports | -1.958M |  | 1.767M |
+| 22:30 | USD | Distillate Fuel Production | -0.243M |  | 0.150M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | -1.269M | -0.333M | 0.398M |
+| 22:30 | USD | Gasoline Production | -0.313M |  | -0.572M |
+| 22:30 | USD | Heating Oil Stockpiles | -0.303M |  | 0.517M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.2% |  | -2.4% |
+| 22:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 22:30 | USD | Gasoline Inventories | 6.481M | 0.161M | 1.027M |

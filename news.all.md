@@ -29,8 +29,8 @@
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) | 48.5 | 46.8 | 48.6 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 49.3 | 47.2 | 49.5 |
 | 17:00 | GBP | Low | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
-| 17:00 | EUR | Low | Italian GDP (YoY) | 0.3% |  | 2.1% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) | -0.4% |  | 0.6% |
+| 17:00 | EUR | Low | Italian GDP (YoY) | 0.3% |  | 2.1% |
 | 17:00 | NOK | Low | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
 | 17:00 | EUR | Low | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
@@ -50,8 +50,8 @@
 | 21:00 | BRL | Low | S&P Global Services PMI (Sep) | 48.7 |  | 50.6 |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Sep) | 50.2 | 50.1 | 50.2 |
 | 21:45 | USD | High | S&P Global Services PMI (Sep) | 50.1 | 50.2 | 50.5 |
-| 22:00 | USD | Low | All Car Sales (Sep) | 3.21M |  | 3.14M |
-| 22:00 | USD | Low | All Truck Sales (Sep) | 12.46M |  | 12.26M |
+| 22:00 | USD | Low | All Car Sales (Sep) | 3.21M |  | 3.12M |
+| 22:00 | USD | Low | All Truck Sales (Sep) | 12.46M |  | 12.22M |
 | 22:00 | USD | Low | Durables Excluding Defense (MoM) (Aug) | -0.7% |  | -0.7% |
 | 22:00 | USD | Low | Durables Excluding Transport (MoM) (Aug) | 0.4% |  | 0.4% |
 | 22:00 | USD | Moderate | Factory Orders (MoM) (Aug) | 1.2% | 0.2% | -2.1% |
@@ -62,16 +62,16 @@
 | 22:00 | USD | High | ISM Non-Manufacturing PMI (Sep) | 53.6 | 53.6 | 54.5 |
 | 22:00 | USD | High | ISM Non-Manufacturing Prices (Sep) | 58.9 |  | 58.9 |
 | 22:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 9 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14 min | USD | High | Crude Oil Inventories |  | -0.446M | -2.170M |
-| 14 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.239M |
-| 14 min | USD | Low | Crude Oil Imports |  |  | 1.767M |
-| 14 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.943M |
-| 14 min | USD | Low | Distillate Fuel Production |  |  | 0.150M |
-| 14 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.333M | 0.398M |
-| 14 min | USD | Low | Gasoline Production |  |  | -0.572M |
-| 14 min | USD | Low | Heating Oil Stockpiles |  |  | 0.517M |
-| 14 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.4% |
-| 14 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 14 min | USD | Low | Gasoline Inventories |  | 0.161M | 1.027M |
-| 23:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 22:25 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 22:30 | USD | High | Crude Oil Inventories | -2.224M | -0.446M | -2.170M |
+| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.463M |  | -0.239M |
+| 22:30 | USD | Low | Crude Oil Imports | -1.958M |  | 1.767M |
+| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.132M |  | -0.943M |
+| 22:30 | USD | Low | Distillate Fuel Production | -0.243M |  | 0.150M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -1.269M | -0.333M | 0.398M |
+| 22:30 | USD | Low | Gasoline Production | -0.313M |  | -0.572M |
+| 22:30 | USD | Low | Heating Oil Stockpiles | -0.303M |  | 0.517M |
+| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.2% |  | -2.4% |
+| 22:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 22:30 | USD | Low | Gasoline Inventories | 6.481M | 0.161M | 1.027M |
+| 8 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

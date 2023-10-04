@@ -20,6 +20,6 @@
 | 22:00 | USD | Factory Orders (MoM) (Aug) | 1.2% | 0.2% | -2.1% |
 | 22:00 | USD | ISM Non-Manufacturing Employment (Sep) | 53.4 |  | 54.7 |
 | 22:00 | EUR | ECB's Panetta Speaks |  |  |  |
-| 9 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14 min | USD | Cushing Crude Oil Inventories |  |  | -0.943M |
-| 23:25 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 22:25 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 22:30 | USD | Cushing Crude Oil Inventories | 0.132M |  | -0.943M |
+| 8 min | USD | FOMC Member Bowman Speaks |  |  |  |
