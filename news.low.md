@@ -21,19 +21,17 @@
 | 17:00 | NOK | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
 | 17:00 | EUR | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
 | 17:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
-| 17:00 | EUR | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
 | 17:00 | EUR | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
+| 17:00 | EUR | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
 | 18:30 | CAD | Leading Index (MoM) (Sep) | 0.08% |  | 0.07% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate | 7.53% |  | 7.41% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) | -6.0% |  | -1.3% |
 | 19:00 | USD | MBA Purchase Index | 136.6 |  | 144.8 |
 | 19:00 | USD | Mortgage Market Index | 178.2 |  | 189.6 |
 | 19:00 | USD | Mortgage Refinance Index | 384.6 |  | 411.7 |
-| 17 min | INR | M3 Money Supply |  |  | 11.1% |
-| 47 min | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
-| 47 min | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
-| 21:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
-| 21:00 | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
+| 19:30 | INR | M3 Money Supply | 10.8% |  | 11.1% |
+| 28 min | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
+| 28 min | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |
 | 22:00 | USD | Durables Excluding Transport (MoM) (Aug) |  |  | 0.4% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Aug) |  |  | 0.8% |
