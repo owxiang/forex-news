@@ -3,20 +3,18 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 45 min | KRW | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
-| 45 min | KRW | CPI (YoY) (Sep) |  | 3.4% | 3.4% |
-| 45 min | KRW | FX Reserves - USD (Sep) |  |  | 418.30B |
-| 45 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | -544.4B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -3,025.3B |
-| 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.9% |
+| 07:00 | KRW | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
+| 07:00 | KRW | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
+| 35 min | JPY | Foreign Bonds Buying |  |  | -544.4B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -3,025.3B |
+| 45 min | NZD | ANZ Commodity Price Index (MoM) |  |  | -2.9% |
 | 08:30 | AUD | Exports (MoM) (Aug) |  |  | -2.0% |
 | 08:30 | AUD | Imports (MoM) (Aug) |  |  | 3.0% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.8 |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.640% |
 | 13:00 | INR | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
-| 13:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 13:00 | SGD | Retail Sales (YoY) (Aug) |  |  | 1.1% |
+| 13:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 14:00 | EUR | German Exports (MoM) (Aug) |  | -0.1% | -0.9% |
 | 14:00 | EUR | German Imports (MoM) (Aug) |  | 0.5% | 1.4% |
 | 14:45 | EUR | French Industrial Production (MoM) (Aug) |  | -0.4% | 0.8% |

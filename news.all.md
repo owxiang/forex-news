@@ -4,21 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 45 min | KRW | Low | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
-| 45 min | KRW | Low | CPI (YoY) (Sep) |  | 3.4% | 3.4% |
-| 45 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
-| 45 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -544.4B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -3,025.3B |
-| 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.9% |
+| 07:00 | KRW | Low | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
+| 07:00 | KRW | Low | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | -544.4B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -3,025.3B |
+| 45 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -2.9% |
 | 08:30 | AUD | Low | Exports (MoM) (Aug) |  |  | -2.0% |
 | 08:30 | AUD | Low | Imports (MoM) (Aug) |  |  | 3.0% |
 | 08:30 | AUD | Moderate | Trade Balance (Aug) |  | 8.725B | 8.039B |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.8 |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.640% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 1.1% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 14:00 | EUR | Low | German Exports (MoM) (Aug) |  | -0.1% | -0.9% |
 | 14:00 | EUR | Low | German Imports (MoM) (Aug) |  | 0.5% | 1.4% |
 | 14:00 | EUR | Moderate | German Trade Balance (Aug) |  | 15.8B | 15.9B |
