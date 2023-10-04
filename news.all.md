@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -4.795B |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -4.795B |
 | 05:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
 | 07:00 | KRW | Low | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
 | 07:00 | KRW | Low | CPI (YoY) (Sep) |  | 3.4% | 3.4% |
@@ -33,8 +33,8 @@
 | 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
-| 19:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
+| 19:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.7 |
 | 20:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 114.7B |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,678K | 1,670K |
