@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 05:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
+| 44 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
 | 07:00 | KRW | Low | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
 | 07:00 | KRW | Low | CPI (YoY) (Sep) |  | 3.4% | 3.4% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
