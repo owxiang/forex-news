@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 44 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
-| 07:00 | KRW | Low | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
 | 07:00 | KRW | Low | CPI (YoY) (Sep) |  | 3.4% | 3.4% |
+| 07:00 | KRW | Low | CPI (MoM) (Sep) |  | 0.3% | 1.0% |
+| 07:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -544.4B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -3,025.3B |
@@ -17,8 +17,8 @@
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Sep) |  |  | 49.8 |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.640% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 1.1% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Aug) |  |  | 0.6% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Aug) |  |  | 1.1% |
 | 14:00 | EUR | Low | German Exports (MoM) (Aug) |  | -0.1% | -0.9% |
 | 14:00 | EUR | Low | German Imports (MoM) (Aug) |  | 0.5% | 1.4% |
 | 14:00 | EUR | Moderate | German Trade Balance (Aug) |  | 15.8B | 15.9B |
@@ -33,8 +33,8 @@
 | 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
 | 19:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.7 |
 | 20:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 114.7B |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,678K | 1,670K |
