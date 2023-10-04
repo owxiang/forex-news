@@ -15,14 +15,14 @@
 | 15:50 | EUR | HCOB France Composite PMI (Sep) | 44.1 | 43.5 | 46.0 |
 | 15:55 | EUR | HCOB Germany Composite PMI (Sep) | 46.4 | 46.2 | 44.6 |
 | 16:00 | EUR | Italian Public Deficit (Q2) | 5.4% |  | 11.3% |
-| 40 min | GBP | 2-Year Treasury Gilt Auction |  |  | 5.272% |
-| 40 min | EUR | Italian GDP (QoQ) (Q3) |  |  | -0.4% |
-| 40 min | EUR | Italian GDP (YoY) (Q3) |  |  | 0.4% |
-| 40 min | NOK | House Price Index (YoY) (Sep) |  |  | -1.60% |
-| 40 min | EUR | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 40 min | EUR | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
-| 40 min | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
-| 40 min | EUR | Retail Sales (YoY) (Aug) |  | -1.2% | -1.0% |
+| 17:00 | GBP | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q3) | -0.4% |  | -0.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.3% |  | 0.4% |
+| 17:00 | NOK | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
+| 17:00 | EUR | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
+| 17:00 | EUR | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
+| 17:00 | EUR | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
+| 17:00 | EUR | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
 | 19:00 | USD | MBA Purchase Index |  |  | 144.8 |

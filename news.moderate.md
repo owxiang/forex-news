@@ -9,12 +9,12 @@
 | 15:45 | EUR | HCOB Italy Services PMI (Sep) | 49.9 | 50.0 | 49.8 |
 | 15:50 | EUR | HCOB France Services PMI (Sep) | 44.4 | 43.9 | 46.0 |
 | 15:55 | EUR | HCOB Germany Services PMI (Sep) | 50.3 | 49.8 | 47.3 |
-| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | EUR | HCOB Eurozone Composite PMI (Sep) | 47.2 | 47.1 | 46.7 |
 | 16:00 | EUR | HCOB Eurozone Services PMI (Sep) | 48.7 | 48.4 | 47.9 |
-| 10 min | GBP | S&P Global/CIPS UK Composite PMI (Sep) |  | 46.8 | 48.6 |
-| 10 min | GBP | S&P Global/CIPS UK Services PMI (Sep) |  | 47.2 | 49.5 |
-| 18:00 | USD | OPEC Meeting |  |  |  |
+| 16:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:30 | GBP | S&P Global/CIPS UK Composite PMI (Sep) | 48.5 | 46.8 | 48.6 |
+| 16:30 | GBP | S&P Global/CIPS UK Services PMI (Sep) | 49.3 | 47.2 | 49.5 |
+| 44 min | USD | OPEC Meeting |  |  |  |
 | 19:40 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:45 | USD | S&P Global Composite PMI (Sep) |  | 50.1 | 50.2 |
 | 22:00 | USD | Factory Orders (MoM) (Aug) |  | 0.2% | -2.1% |

@@ -23,20 +23,20 @@
 | 15:55 | EUR | Low | HCOB Germany Composite PMI (Sep) | 46.4 | 46.2 | 44.6 |
 | 15:55 | EUR | Moderate | HCOB Germany Services PMI (Sep) | 50.3 | 49.8 | 47.3 |
 | 16:00 | EUR | Low | Italian Public Deficit (Q2) | 5.4% |  | 11.3% |
-| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Sep) | 47.2 | 47.1 | 46.7 |
 | 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Sep) | 48.7 | 48.4 | 47.9 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) |  | 46.8 | 48.6 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) |  | 47.2 | 49.5 |
-| 40 min | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 5.272% |
-| 40 min | EUR | Low | Italian GDP (QoQ) (Q3) |  |  | -0.4% |
-| 40 min | EUR | Low | Italian GDP (YoY) (Q3) |  |  | 0.4% |
-| 40 min | NOK | Low | House Price Index (YoY) (Sep) |  |  | -1.60% |
-| 40 min | EUR | Low | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
-| 40 min | EUR | Low | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
-| 40 min | EUR | Low | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
-| 40 min | EUR | Low | Retail Sales (YoY) (Aug) |  | -1.2% | -1.0% |
-| 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 16:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Sep) | 48.5 | 46.8 | 48.6 |
+| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Sep) | 49.3 | 47.2 | 49.5 |
+| 17:00 | GBP | Low | 2-Year Treasury Gilt Auction | 4.964% |  | 5.272% |
+| 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) | -0.4% |  | -0.4% |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.3% |  | 0.4% |
+| 17:00 | NOK | Low | House Price Index (YoY) (Sep) | -1.30% |  | -1.60% |
+| 17:00 | EUR | Low | PPI (YoY) (Aug) | -11.5% | -11.6% | -7.6% |
+| 17:00 | EUR | Low | PPI (MoM) (Aug) | 0.6% | 0.6% | -0.5% |
+| 17:00 | EUR | Low | Retail Sales (MoM) (Aug) | -1.2% | -0.3% | -0.1% |
+| 17:00 | EUR | Low | Retail Sales (YoY) (Aug) | -2.1% | -1.2% | -1.0% |
+| 44 min | USD | Moderate | OPEC Meeting |  |  |  |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.3% |
 | 19:00 | USD | Low | MBA Purchase Index |  |  | 144.8 |
