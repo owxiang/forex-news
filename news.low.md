@@ -10,7 +10,7 @@
 | 07:00 | AUD | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 49.9 |  | 48.9 |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 15:15 | ZAR | S&P Global South Africa PMI (Sep) |  |  | 51.0 |
+| 54 min | ZAR | S&P Global South Africa PMI (Sep) |  |  | 51.0 |
 | 15:45 | EUR | HCOB Italy Composite PMI (Sep) |  |  | 48.2 |
 | 15:50 | EUR | HCOB France Composite PMI (Sep) |  | 43.5 | 46.0 |
 | 15:55 | EUR | HCOB Germany Composite PMI (Sep) |  | 46.2 | 44.6 |
@@ -19,10 +19,10 @@
 | 16:00 | EUR | Italian Public Deficit (Q2) |  |  | 12.1% |
 | 17:00 | GBP | 2-Year Treasury Gilt Auction |  |  | 5.272% |
 | 17:00 | NOK | House Price Index (YoY) (Sep) |  |  | -1.60% |
-| 17:00 | EUR | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
 | 17:00 | EUR | PPI (MoM) (Aug) |  | 0.6% | -0.5% |
-| 17:00 | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
+| 17:00 | EUR | PPI (YoY) (Aug) |  | -11.6% | -7.6% |
 | 17:00 | EUR | Retail Sales (YoY) (Aug) |  | -1.2% | -1.0% |
+| 17:00 | EUR | Retail Sales (MoM) (Aug) |  | -0.3% | -0.2% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.3% |
 | 19:00 | USD | MBA Purchase Index |  |  | 144.8 |
@@ -30,8 +30,8 @@
 | 19:00 | USD | Mortgage Refinance Index |  |  | 411.7 |
 | 19:00 | CAD | Leading Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.1% |
-| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 20:00 | EUR | Car Registration (YoY) (Sep) |  |  | 7.80% |
+| 20:00 | EUR | Car Registration (MoM) (Sep) |  |  | -31.10% |
 | 21:00 | BRL | S&P Global Composite PMI (Sep) |  |  | 50.6 |
 | 21:00 | BRL | S&P Global Services PMI (Sep) |  |  | 50.6 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Aug) |  |  | -0.7% |
