@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | NZD | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 09:00 | NZD | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 20:15 | USD | ADP Nonfarm Employment Change (Sep) |  | 160K | 177K |
 | 21:45 | USD | S&P Global Services PMI (Sep) |  | 50.2 | 50.5 |
 | 22:00 | USD | ISM Non-Manufacturing PMI (Sep) |  | 53.6 | 54.5 |

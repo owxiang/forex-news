@@ -9,10 +9,10 @@
 | 07:00 | KRW | Low | Retail Sales (MoM) (Aug) | -0.3% |  | -3.3% |
 | 07:00 | AUD | Low | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
 | 07:00 | AUD | Low | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
-| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.9 |
+| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Sep) | 49.9 |  | 48.9 |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) |  | 53.3 | 54.3 |
-| 09:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Sep) | 53.8 | 53.3 | 54.3 |
+| 09:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 09:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 13:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 15:15 | EUR | Moderate | HCOB Spain Services PMI (Sep) |  | 49.6 | 49.3 |

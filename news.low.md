@@ -8,7 +8,7 @@
 | 07:00 | KRW | Retail Sales (MoM) (Aug) | -0.3% |  | -3.3% |
 | 07:00 | AUD | AIG Construction Index (Sep) | 7.1 |  | -9.9 |
 | 07:00 | AUD | AIG Manufacturing Index (Sep) | -12.8 |  | -19.8 |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) |  |  | 48.9 |
+| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Sep) | 49.9 |  | 48.9 |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 13:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Sep) |  |  | 51.0 |
