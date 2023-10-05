@@ -14,5 +14,5 @@
 | 20:30 | CAD | Trade Balance (Aug) | 0.72B | -1.50B | -0.44B |
 | 21:00 | USD | FOMC Member Mester Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 41 min | CAD | Ivey PMI (Sep) |  | 50.8 | 53.5 |
-| 41 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 22:00 | CAD | Ivey PMI (Sep) | 53.1 | 50.8 | 53.5 |
+| 22:00 | EUR | ECB's De Guindos Speaks |  |  |  |

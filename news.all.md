@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 07:00 | KRW | Low | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
 | 07:00 | KRW | Low | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
+| 07:00 | KRW | Low | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 297.1B |  | -541.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 71.0B |  | -3,025.5B |
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.3% |  | -2.9% |
@@ -28,13 +28,13 @@
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) | 43.6 |  | 43.4 |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) | 45.0 | 49.9 | 50.8 |
 | 16:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -23.2B | -14.5B | -22.2B |
-| 17:35 | EUR | Low | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
 | 17:35 | EUR | Low | Car Registration (YoY) (Sep) | 2.30% |  | 7.80% |
+| 17:35 | EUR | Low | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
 | 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 58.2% |  | 266.9% |
 | 19:30 | USD | Low | Challenger Job Cuts (Sep) | 47.457K |  | 75.151K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 58.2% |  | 266.9% |
 | 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 46.8 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.4 |  | 46.1 |
 | 20:15 | CAD | Low | Reserve Assets Total (Sep) | 112.4B |  | 114.7B |
@@ -49,10 +49,10 @@
 | 20:30 | CAD | Moderate | Trade Balance (Aug) | 0.72B | -1.50B | -0.44B |
 | 21:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 41 min | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 56.8 |
-| 41 min | CAD | Moderate | Ivey PMI (Sep) |  | 50.8 | 53.5 |
-| 41 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage |  | 92B | 90B |
+| 22:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 54.2 |  | 56.8 |
+| 22:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.8 | 53.5 |
+| 22:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 16 min | USD | Low | Natural Gas Storage |  | 92B | 90B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
 | 23:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
