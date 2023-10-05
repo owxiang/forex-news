@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet |  |  | 8,002B |
+| 14 min | USD | Fed's Balance Sheet |  |  | 8,002B |
 | 07:30 | JPY | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
 | 07:30 | JPY | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
 | 08:30 | AUD | RBA Financial Stability Review |  |  |  |
