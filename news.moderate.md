@@ -5,7 +5,7 @@
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 08:30 | AUD | Trade Balance (Aug) | 9.640B | 8.725B | 8.039B |
 | 14:00 | EUR | German Trade Balance (Aug) | 16.6B | 15.0B | 17.7B |
-| 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 49.9 | 50.8 |
+| 9 min | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 49.9 | 50.8 |
 | 17:45 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
 | 17:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:30 | USD | Exports |  |  | 251.66B |
