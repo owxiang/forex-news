@@ -1,58 +1,65 @@
-## 05 October 2023 - All Forex News
+## 06 October 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 07:00 | KRW | Low | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
-| 07:00 | KRW | Low | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
-| 07:50 | JPY | Low | Foreign Bonds Buying | 297.1B |  | -541.6B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 71.0B |  | -3,025.5B |
-| 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.3% |  | -2.9% |
-| 08:30 | AUD | Low | Exports (MoM) (Aug) | 4.0% |  | -1.8% |
-| 08:30 | AUD | Low | Imports (MoM) (Aug) | -0.4% |  | 3.4% |
-| 08:30 | AUD | Moderate | Trade Balance (Aug) | 9.640B | 8.725B | 7.324B |
-| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Sep) | 49.6 |  | 49.8 |
-| 11:35 | JPY | Low | 30-Year JGB Auction | 1.691% |  | 1.640% |
-| 13:00 | INR | Low | S&P Global India Services PMI (Sep) | 61.0 | 59.5 | 60.1 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Aug) | 1.7% |  | 0.8% |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Aug) | 4.0% |  | 1.3% |
-| 14:00 | EUR | Low | German Exports (MoM) (Aug) | -1.2% | -0.4% | -1.9% |
-| 14:00 | EUR | Low | German Imports (MoM) (Aug) | -0.4% | 0.5% | -1.3% |
-| 14:00 | EUR | Moderate | German Trade Balance (Aug) | 16.6B | 15.0B | 17.7B |
-| 14:45 | EUR | Low | French Industrial Production (MoM) (Aug) | -0.3% | -0.4% | 0.5% |
-| 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) | -3.4% | -2.1% | -2.2% |
-| 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) | 49.8 |  | 47.7 |
-| 15:30 | EUR | Low | HCOB Germany Construction PMI (Sep) | 39.3 |  | 41.5 |
-| 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) | 43.7 |  | 42.4 |
-| 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) | 43.6 |  | 43.4 |
-| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) | 45.0 | 49.9 | 50.8 |
-| 16:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -23.2B | -14.5B | -22.2B |
-| 17:35 | EUR | Low | Car Registration (YoY) (Sep) | 2.30% |  | 7.80% |
-| 17:35 | EUR | Low | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
-| 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
-| 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | EUR | Low | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 19:30 | USD | Low | Challenger Job Cuts (Sep) | 47.457K |  | 75.151K |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 58.2% |  | 266.9% |
-| 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 46.8 |
-| 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.4 |  | 46.1 |
-| 20:15 | CAD | Low | Reserve Assets Total (Sep) | 112.4B |  | 114.7B |
-| 20:30 | USD | Low | Continuing Jobless Claims | 1,664K | 1,675K | 1,665K |
-| 20:30 | USD | Moderate | Exports | 256.00B |  | 251.90B |
-| 20:30 | USD | Moderate | Imports | 314.30B |  | 316.60B |
-| 20:30 | USD | High | Initial Jobless Claims | 207K | 210K | 205K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 208.75K |  | 211.25K |
-| 20:30 | USD | Moderate | Trade Balance (Aug) | -58.30B | -62.30B | -64.70B |
-| 20:30 | CAD | Low | Exports (Aug) | 64.56B |  | 61.06B |
-| 20:30 | CAD | Low | Imports (Aug) | 63.84B |  | 61.50B |
-| 20:30 | CAD | Moderate | Trade Balance (Aug) | 0.72B | -1.50B | -0.44B |
-| 21:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 22:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 54.2 |  | 56.8 |
-| 22:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.8 | 53.5 |
-| 22:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage | 86B | 92B | 90B |
-| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
-| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
-| 13 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 00:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 00:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 8,002B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
+| 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.5% | 1.3% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
+| 07:30 | JPY | Low | Overall wage income of employees (Aug) |  |  | 1.3% |
+| 07:30 | JPY | Low | Overtime Pay (YoY) (Aug) |  |  | 0.50% |
+| 07:50 | JPY | Low | Foreign Reserves (USD) (Sep) |  |  | 1,251.2B |
+| 08:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
+| 08:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
+| 08:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.2% | 0.5% |
+| 11:00 | IDR | Low | FX Reserves (USD) |  |  | 137.10B |
+| 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
+| 13:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | -0.6% |
+| 13:00 | JPY | Low | Leading Index |  | 109.0 | 108.2 |
+| 13:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
+| 13:45 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
+| 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | -4.6% |
+| 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) |  | -0.8% | -1.9% |
+| 14:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) |  | 1.8% | -11.7% |
+| 14:00 | NOK | Low | Manufacturing Production (MoM) (Aug) |  |  | -1.2% |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) (Sep) |  |  | 62.00B |
+| 14:00 | ZAR | Low | Net FX Reserves (USD) (Sep) |  |  | 55.444B |
+| 14:45 | EUR | Low | French Current Account (Aug) |  |  | -2.00B |
+| 14:45 | EUR | Low | French Exports (Aug) |  |  | 52.6B |
+| 14:45 | EUR | Low | French Imports (Aug) |  |  | 60.7B |
+| 14:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
+| 14:45 | EUR | Low | French Trade Balance (Aug) |  | -8.9B | -8.1B |
+| 15:00 | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
+| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
+| 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 337.3B |
+| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
+| 19:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
+| 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 590.70B |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.2% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
+| 20:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.4 | 34.4 |
+| 20:30 | USD | Low | Government Payrolls (Sep) |  |  | 8.0K |
+| 20:30 | USD | Low | Manufacturing Payrolls (Sep) |  | 5K | 16K |
+| 20:30 | USD | High | Nonfarm Payrolls (Sep) |  | 170K | 187K |
+| 20:30 | USD | Moderate | Participation Rate (Sep) |  |  | 62.8% |
+| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Sep) |  | 160K | 179K |
+| 20:30 | USD | Moderate | U6 Unemployment Rate (Sep) |  |  | 7.1% |
+| 20:30 | USD | High | Unemployment Rate (Sep) |  | 3.7% | 3.8% |
+| 20:30 | CAD | Low | Avg hourly wages Permanent employee (Sep) |  |  | 5.2% |
+| 20:30 | CAD | Moderate | Employment Change (Sep) |  | 20.0K | 39.9K |
+| 20:30 | CAD | Low | Full Employment Change (Sep) |  |  | 32.2K |
+| 20:30 | CAD | Low | Part Time Employment Change (Sep) |  |  | 7.8K |
+| 20:30 | CAD | Low | Participation Rate (Sep) |  |  | 65.5% |
+| 20:30 | CAD | Moderate | Unemployment Rate (Sep) |  | 5.6% | 5.5% |
+| 22:00 | USD | Low | Total Vehicle Sales |  |  | 15.00M |

@@ -1,18 +1,20 @@
-## 05 October 2023 - Moderate Impact Forex News
+## 06 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | AUD | Trade Balance (Aug) | 9.640B | 8.725B | 7.324B |
-| 14:00 | EUR | German Trade Balance (Aug) | 16.6B | 15.0B | 17.7B |
-| 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) | 45.0 | 49.9 | 50.8 |
-| 17:45 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
-| 17:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:30 | USD | Exports | 256.00B |  | 251.90B |
-| 20:30 | USD | Imports | 314.30B |  | 316.60B |
-| 20:30 | USD | Trade Balance (Aug) | -58.30B | -62.30B | -64.70B |
-| 20:30 | CAD | Trade Balance (Aug) | 0.72B | -1.50B | -0.44B |
-| 21:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 22:00 | CAD | Ivey PMI (Sep) | 53.1 | 50.8 | 53.5 |
-| 22:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 00:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 04:30 | USD | Fed's Balance Sheet |  |  | 8,002B |
+| 07:30 | JPY | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
+| 07:30 | JPY | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
+| 08:30 | AUD | RBA Financial Stability Review |  |  |  |
+| 08:30 | AUD | Retail Sales (MoM) |  | 0.2% | 0.5% |
+| 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 14:00 | GBP | Halifax House Price Index (YoY) (Sep) |  |  | -4.6% |
+| 14:00 | GBP | Halifax House Price Index (MoM) (Sep) |  | -0.8% | -1.9% |
+| 14:00 | EUR | German Factory Orders (MoM) (Aug) |  | 1.8% | -11.7% |
+| 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
+| 20:30 | USD | Participation Rate (Sep) |  |  | 62.8% |
+| 20:30 | USD | Private Nonfarm Payrolls (Sep) |  | 160K | 179K |
+| 20:30 | USD | U6 Unemployment Rate (Sep) |  |  | 7.1% |
+| 20:30 | CAD | Employment Change (Sep) |  | 20.0K | 39.9K |
+| 20:30 | CAD | Unemployment Rate (Sep) |  | 5.6% | 5.5% |

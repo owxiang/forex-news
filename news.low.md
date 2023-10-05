@@ -1,43 +1,46 @@
-## 05 October 2023 - Low Impact Forex News
+## 06 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 07:00 | KRW | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
-| 07:00 | KRW | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
-| 07:50 | JPY | Foreign Bonds Buying | 297.1B |  | -541.6B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 71.0B |  | -3,025.5B |
-| 08:00 | NZD | ANZ Commodity Price Index (MoM) | 1.3% |  | -2.9% |
-| 08:30 | AUD | Exports (MoM) (Aug) | 4.0% |  | -1.8% |
-| 08:30 | AUD | Imports (MoM) (Aug) | -0.4% |  | 3.4% |
-| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 49.6 |  | 49.8 |
-| 11:35 | JPY | 30-Year JGB Auction | 1.691% |  | 1.640% |
-| 13:00 | INR | S&P Global India Services PMI (Sep) | 61.0 | 59.5 | 60.1 |
-| 13:00 | SGD | Retail Sales (MoM) (Aug) | 1.7% |  | 0.8% |
-| 13:00 | SGD | Retail Sales (YoY) (Aug) | 4.0% |  | 1.3% |
-| 14:00 | EUR | German Exports (MoM) (Aug) | -1.2% | -0.4% | -1.9% |
-| 14:00 | EUR | German Imports (MoM) (Aug) | -0.4% | 0.5% | -1.3% |
-| 14:45 | EUR | French Industrial Production (MoM) (Aug) | -0.3% | -0.4% | 0.5% |
-| 15:00 | EUR | Spanish Industrial Production (YoY) (Aug) | -3.4% | -2.1% | -2.2% |
-| 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) | 49.8 |  | 47.7 |
-| 15:30 | EUR | HCOB Germany Construction PMI (Sep) | 39.3 |  | 41.5 |
-| 15:30 | EUR | HCOB France Construction PMI (MoM) (Sep) | 43.7 |  | 42.4 |
-| 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) | 43.6 |  | 43.4 |
-| 16:30 | GBP | Housing Equity Withdrawal (QoQ) | -23.2B | -14.5B | -22.2B |
-| 17:35 | EUR | Car Registration (YoY) (Sep) | 2.30% |  | 7.80% |
-| 17:35 | EUR | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
-| 18:00 | EUR | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 19:30 | USD | Challenger Job Cuts (Sep) | 47.457K |  | 75.151K |
-| 19:30 | USD | Challenger Job Cuts (YoY) | 58.2% |  | 266.9% |
-| 20:00 | MXN | Consumer Confidence | 46.8 |  | 46.8 |
-| 20:00 | MXN | Consumer Confidence n.s.a. | 46.4 |  | 46.1 |
-| 20:15 | CAD | Reserve Assets Total (Sep) | 112.4B |  | 114.7B |
-| 20:30 | USD | Continuing Jobless Claims | 1,664K | 1,675K | 1,665K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 208.75K |  | 211.25K |
-| 20:30 | CAD | Exports (Aug) | 64.56B |  | 61.06B |
-| 20:30 | CAD | Imports (Aug) | 63.84B |  | 61.50B |
-| 22:00 | CAD | Ivey PMI n.s.a (Sep) | 54.2 |  | 56.8 |
-| 22:30 | USD | Natural Gas Storage | 86B | 92B | 90B |
-| 13 min | USD | 4-Week Bill Auction |  |  | 5.290% |
-| 13 min | USD | 8-Week Bill Auction |  |  | 5.330% |
-| 13 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 00:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
+| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.5% | 1.3% |
+| 07:30 | JPY | Overall wage income of employees (Aug) |  |  | 1.3% |
+| 07:30 | JPY | Overtime Pay (YoY) (Aug) |  |  | 0.50% |
+| 07:50 | JPY | Foreign Reserves (USD) (Sep) |  |  | 1,251.2B |
+| 08:00 | KRW | FX Reserves - USD (Sep) |  |  | 418.30B |
+| 11:00 | IDR | FX Reserves (USD) |  |  | 137.10B |
+| 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 13:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
+| 13:00 | JPY | Leading Index (MoM) (Aug) |  |  | -0.6% |
+| 13:00 | JPY | Leading Index |  | 109.0 | 108.2 |
+| 13:45 | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
+| 13:45 | CHF | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
+| 14:00 | NOK | Manufacturing Production (MoM) (Aug) |  |  | -1.2% |
+| 14:00 | ZAR | Foreign Reserves (USD) (Sep) |  |  | 62.00B |
+| 14:00 | ZAR | Net FX Reserves (USD) (Sep) |  |  | 55.444B |
+| 14:45 | EUR | French Current Account (Aug) |  |  | -2.00B |
+| 14:45 | EUR | French Exports (Aug) |  |  | 52.6B |
+| 14:45 | EUR | French Imports (Aug) |  |  | 60.7B |
+| 14:45 | EUR | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
+| 14:45 | EUR | French Trade Balance (Aug) |  | -8.9B | -8.1B |
+| 15:00 | CHF | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
+| 16:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
+| 16:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
+| 17:00 | SGD | Foreign Reserves USD (MoM) |  |  | 337.3B |
+| 19:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
+| 19:30 | INR | Bank Loan Growth |  |  | 19.8% |
+| 19:30 | INR | Deposit Growth |  |  | 13.6% |
+| 19:30 | INR | FX Reserves, USD |  |  | 590.70B |
+| 20:30 | USD | Average Weekly Hours (Sep) |  | 34.4 | 34.4 |
+| 20:30 | USD | Government Payrolls (Sep) |  |  | 8.0K |
+| 20:30 | USD | Manufacturing Payrolls (Sep) |  | 5K | 16K |
+| 20:30 | CAD | Avg hourly wages Permanent employee (Sep) |  |  | 5.2% |
+| 20:30 | CAD | Full Employment Change (Sep) |  |  | 32.2K |
+| 20:30 | CAD | Part Time Employment Change (Sep) |  |  | 7.8K |
+| 20:30 | CAD | Participation Rate (Sep) |  |  | 65.5% |
+| 22:00 | USD | Total Vehicle Sales |  |  | 15.00M |
