@@ -7,14 +7,13 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 7,956B |  | 8,002B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.241T |  | 3.168T |
 | 05:00 | KRW | Low | FX Reserves - USD (Sep) | 414.12B |  | 418.30B |
-| 46 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.5% | 1.3% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
-| 07:30 | JPY | Low | Overall wage income of employees (Aug) |  |  | 1.3% |
-| 07:30 | JPY | Low | Overtime Pay (YoY) (Aug) |  |  | 0.50% |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Sep) |  |  | 1,251.2B |
-| 08:00 | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
+| 14 min | JPY | Low | Average Cash Earnings (YoY) |  | 1.5% | 1.3% |
+| 14 min | JPY | Moderate | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
+| 14 min | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
+| 14 min | JPY | Low | Overall wage income of employees (Aug) |  |  | 1.3% |
+| 14 min | JPY | Low | Overtime Pay (YoY) (Aug) |  |  | 0.50% |
+| 34 min | JPY | Low | Foreign Reserves (USD) (Sep) |  |  | 1,251.2B |
+| 44 min | KRW | Low | FX Reserves - USD (Sep) |  |  | 418.30B |
 | 08:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.2% | 0.5% |
 | 11:00 | IDR | Low | FX Reserves (USD) |  |  | 137.10B |
@@ -39,8 +38,8 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
 | 14:45 | EUR | Low | French Trade Balance (Aug) |  | -8.9B | -8.1B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
-| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
+| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 337.3B |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |

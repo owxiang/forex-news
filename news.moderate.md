@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet | 7,956B |  | 8,002B |
-| 07:30 | JPY | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
-| 07:30 | JPY | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
+| 14 min | JPY | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
+| 14 min | JPY | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
 | 08:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 08:30 | AUD | Retail Sales (MoM) |  | 0.2% | 0.5% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
