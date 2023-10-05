@@ -8,8 +8,8 @@
 | 07:50 | JPY | Foreign Bonds Buying | 297.1B |  | -541.6B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 71.0B |  | -3,025.5B |
 | 08:00 | NZD | ANZ Commodity Price Index (MoM) | 1.3% |  | -2.9% |
-| 08:30 | AUD | Exports (MoM) (Aug) | 4.0% |  | -2.0% |
-| 08:30 | AUD | Imports (MoM) (Aug) | 0.0% |  | 3.0% |
+| 08:30 | AUD | Exports (MoM) (Aug) | 4.0% |  | -1.8% |
+| 08:30 | AUD | Imports (MoM) (Aug) | -0.4% |  | 3.4% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 49.6 |  | 49.8 |
 | 11:35 | JPY | 30-Year JGB Auction | 1.691% |  | 1.640% |
 | 13:00 | INR | S&P Global India Services PMI (Sep) | 61.0 | 59.5 | 60.1 |
@@ -24,7 +24,9 @@
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Sep) | 43.7 |  | 42.4 |
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) | 43.6 |  | 43.4 |
 | 16:30 | GBP | Housing Equity Withdrawal (QoQ) | -23.2B | -14.5B | -22.2B |
-| Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
+| 17:35 | EUR | Car Registration (YoY) (Sep) | 2.30% |  | 7.80% |
+| 17:35 | EUR | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
+| 18:00 | EUR | Spanish Consumer Confidence | 77.2 |  | 94.4 |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
 | 19:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.7 |
