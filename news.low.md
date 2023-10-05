@@ -27,14 +27,15 @@
 | 17:35 | EUR | Car Registration (YoY) (Sep) | 2.30% |  | 7.80% |
 | 17:35 | EUR | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
 | 18:00 | EUR | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 17 min | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
-| 17 min | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
-| 47 min | MXN | Consumer Confidence |  |  | 46.7 |
-| 20:15 | CAD | Reserve Assets Total (Sep) |  |  | 114.7B |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,675K | 1,670K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |
-| 20:30 | CAD | Exports (Aug) |  |  | 60.42B |
-| 20:30 | CAD | Imports (Aug) |  |  | 61.40B |
+| 19:30 | USD | Challenger Job Cuts (Sep) | 47.457K |  | 75.151K |
+| 19:30 | USD | Challenger Job Cuts (YoY) | 58.2% |  | 266.9% |
+| 20:00 | MXN | Consumer Confidence | 46.8 |  | 46.8 |
+| 20:00 | MXN | Consumer Confidence n.s.a. | 46.4 |  | 46.1 |
+| 20:15 | CAD | Reserve Assets Total (Sep) | 112.4B |  | 114.7B |
+| 20:30 | USD | Continuing Jobless Claims | 1,664K | 1,675K | 1,665K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 208.75K |  | 211.25K |
+| 20:30 | CAD | Exports (Aug) | 64.56B |  | 61.06B |
+| 20:30 | CAD | Imports (Aug) | 63.84B |  | 61.50B |
 | 22:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 56.8 |
 | 22:30 | USD | Natural Gas Storage |  | 92B | 90B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.290% |

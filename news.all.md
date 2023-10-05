@@ -33,21 +33,22 @@
 | 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
-| 17 min | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |
-| 47 min | MXN | Low | Consumer Confidence |  |  | 46.7 |
-| 20:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 114.7B |
-| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,675K | 1,670K |
-| 20:30 | USD | Moderate | Exports |  |  | 251.66B |
+| 19:30 | USD | Low | Challenger Job Cuts (Sep) | 47.457K |  | 75.151K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 58.2% |  | 266.9% |
+| 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 46.8 |
+| 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.4 |  | 46.1 |
+| 20:15 | CAD | Low | Reserve Assets Total (Sep) | 112.4B |  | 114.7B |
+| 20:30 | USD | Low | Continuing Jobless Claims | 1,664K | 1,675K | 1,665K |
+| 20:30 | USD | Moderate | Exports | 256.00B |  | 251.66B |
 | 20:30 | USD | Moderate | Imports |  |  | 316.70B |
-| 20:30 | USD | High | Initial Jobless Claims |  | 210K | 204K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.00K |
-| 20:30 | USD | Moderate | Trade Balance (Aug) |  | -62.30B | -65.00B |
-| 20:30 | CAD | Low | Exports (Aug) |  |  | 60.42B |
-| 20:30 | CAD | Low | Imports (Aug) |  |  | 61.40B |
-| 20:30 | CAD | Moderate | Trade Balance (Aug) |  | -1.50B | -0.99B |
-| 21:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 20:30 | USD | High | Initial Jobless Claims | 207K | 210K | 205K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 208.75K |  | 211.25K |
+| 20:30 | USD | Moderate | Trade Balance (Aug) | -58.30B | -62.30B | -64.70B |
+| 20:30 | CAD | Low | Exports (Aug) | 64.56B |  | 61.06B |
+| 20:30 | CAD | Low | Imports (Aug) | 63.84B |  | 61.50B |
+| 20:30 | CAD | Moderate | Trade Balance (Aug) | 0.72B | -1.50B | -0.44B |
+| 28 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 28 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 22:00 | CAD | Low | Ivey PMI n.s.a (Sep) |  |  | 56.8 |
 | 22:00 | CAD | Moderate | Ivey PMI (Sep) |  | 50.8 | 53.5 |
 | 22:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
