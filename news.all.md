@@ -7,7 +7,7 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 7,956B |  | 8,002B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.241T |  | 3.168T |
 | 05:00 | KRW | Low | FX Reserves - USD (Sep) | 414.12B |  | 418.30B |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 46 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.5% | 1.3% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
@@ -39,8 +39,8 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
 | 14:45 | EUR | Low | French Trade Balance (Aug) |  | -8.9B | -8.1B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 337.3B |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
