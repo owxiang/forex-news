@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 07:00 | KRW | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
 | 07:00 | KRW | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
+| 07:00 | KRW | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
 | 07:50 | JPY | Foreign Bonds Buying | 297.1B |  | -541.6B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 71.0B |  | -3,025.5B |
 | 08:00 | NZD | ANZ Commodity Price Index (MoM) | 1.3% |  | -2.9% |
@@ -15,8 +15,8 @@
 | 12:00 | KRW | FX Reserves - USD (Sep) |  |  | 418.30B |
 | 12:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 13:00 | INR | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
-| 13:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 13:00 | SGD | Retail Sales (YoY) (Aug) |  |  | 1.1% |
+| 13:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
 | 14:00 | EUR | German Exports (MoM) (Aug) |  | -0.1% | -0.9% |
 | 14:00 | EUR | German Imports (MoM) (Aug) |  | 0.5% | 1.4% |
 | 14:45 | EUR | French Industrial Production (MoM) (Aug) |  | -0.4% | 0.8% |
@@ -27,8 +27,8 @@
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 43.4 |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -14.5B | -22.9B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
-| 19:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
+| 19:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.7 |
 | 20:15 | CAD | Reserve Assets Total (Sep) |  |  | 114.7B |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,678K | 1,670K |
