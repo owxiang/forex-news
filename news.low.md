@@ -11,16 +11,14 @@
 | 08:30 | AUD | Exports (MoM) (Aug) | 4.0% |  | -2.0% |
 | 08:30 | AUD | Imports (MoM) (Aug) | 0.0% |  | 3.0% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Sep) | 49.6 |  | 49.8 |
-| 19 min | JPY | 30-Year JGB Auction |  |  | 1.640% |
-| 44 min | KRW | FX Reserves - USD (Sep) |  |  | 418.30B |
-| 44 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 13:00 | INR | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
-| 13:00 | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
-| 13:00 | SGD | Retail Sales (YoY) (Aug) |  |  | 1.1% |
-| 14:00 | EUR | German Exports (MoM) (Aug) |  | -0.1% | -0.9% |
+| 11:35 | JPY | 30-Year JGB Auction | 1.691% |  | 1.640% |
+| 41 min | INR | S&P Global India Services PMI (Sep) |  | 59.5 | 60.1 |
+| 41 min | SGD | Retail Sales (MoM) (Aug) |  |  | 0.6% |
+| 41 min | SGD | Retail Sales (YoY) (Aug) |  |  | 1.1% |
+| 14:00 | EUR | German Exports (MoM) (Aug) |  | -0.4% | -0.9% |
 | 14:00 | EUR | German Imports (MoM) (Aug) |  | 0.5% | 1.4% |
 | 14:45 | EUR | French Industrial Production (MoM) (Aug) |  | -0.4% | 0.8% |
-| 15:00 | EUR | Spanish Industrial Production (YoY) (Aug) |  |  | -1.8% |
+| 15:00 | EUR | Spanish Industrial Production (YoY) (Aug) |  | -2.1% | -1.8% |
 | 15:30 | EUR | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
 | 15:30 | EUR | HCOB Germany Construction PMI (Sep) |  |  | 41.5 |
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Sep) |  |  | 42.4 |
@@ -31,12 +29,12 @@
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.7 |
 | 20:15 | CAD | Reserve Assets Total (Sep) |  |  | 114.7B |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,678K | 1,670K |
+| 20:30 | USD | Continuing Jobless Claims |  | 1,675K | 1,670K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |
 | 20:30 | CAD | Exports (Aug) |  |  | 60.42B |
 | 20:30 | CAD | Imports (Aug) |  |  | 61.40B |
 | 22:00 | CAD | Ivey PMI n.s.a (Sep) |  |  | 56.8 |
-| 22:30 | USD | Natural Gas Storage |  |  | 90B |
+| 22:30 | USD | Natural Gas Storage |  | 92B | 90B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.290% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.330% |
 | 23:30 | USD | FOMC Member Barkin Speaks |  |  |  |
