@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 08:30 | AUD | Trade Balance (Aug) |  | 8.725B | 8.039B |
+| 08:30 | AUD | Trade Balance (Aug) | 9.640B | 8.725B | 8.039B |
 | 14:00 | EUR | German Trade Balance (Aug) |  | 15.8B | 15.9B |
 | 16:30 | GBP | S&P Global / CIPS UK Construction PMI (Sep) |  | 49.9 | 50.8 |
 | 17:45 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
