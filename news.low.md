@@ -28,8 +28,8 @@
 | 14:45 | EUR | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
 | 14:45 | EUR | French Trade Balance (Aug) |  | -8.9B | -8.1B |
 | 15:00 | CHF | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
-| 16:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
 | 16:00 | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
 | 16:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
 | 17:00 | SGD | Foreign Reserves USD (MoM) |  |  | 337.3B |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
