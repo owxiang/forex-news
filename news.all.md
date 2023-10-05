@@ -8,8 +8,8 @@
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.168T |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.5% | 1.3% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) |  | 0.9% | -2.7% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) |  | -4.3% | -5.0% |
 | 07:30 | JPY | Low | Overall wage income of employees (Aug) |  |  | 1.3% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Aug) |  |  | 0.50% |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Sep) |  |  | 1,251.2B |
