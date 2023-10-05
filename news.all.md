@@ -26,10 +26,10 @@
 | 15:30 | EUR | Low | HCOB Germany Construction PMI (Sep) | 39.3 |  | 41.5 |
 | 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) | 43.7 |  | 42.4 |
 | 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) | 43.6 |  | 43.4 |
-| 9 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) |  | 49.9 | 50.8 |
-| 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -14.5B | -22.9B |
-| 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
-| 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) | 45.0 | 49.9 | 50.8 |
+| 16:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -23.2B | -14.5B | -22.2B |
+| 29 min | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
+| 29 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
 | 19:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |

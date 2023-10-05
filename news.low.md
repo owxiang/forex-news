@@ -23,7 +23,7 @@
 | 15:30 | EUR | HCOB Germany Construction PMI (Sep) | 39.3 |  | 41.5 |
 | 15:30 | EUR | HCOB France Construction PMI (MoM) (Sep) | 43.7 |  | 42.4 |
 | 15:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Sep) | 43.6 |  | 43.4 |
-| 17:30 | GBP | Housing Equity Withdrawal (QoQ) |  | -14.5B | -22.9B |
+| 16:30 | GBP | Housing Equity Withdrawal (QoQ) | -23.2B | -14.5B | -22.2B |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 94.4 |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
 | 19:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
