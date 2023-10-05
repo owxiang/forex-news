@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.671B |  | -4.795B |
-| 07:00 | KRW | Low | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
 | 07:00 | KRW | Low | CPI (YoY) (Sep) | 3.7% | 3.4% | 3.4% |
+| 07:00 | KRW | Low | CPI (MoM) (Sep) | 0.6% | 0.3% | 1.0% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 297.1B |  | -541.6B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 71.0B |  | -3,025.5B |
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.3% |  | -2.9% |
@@ -20,12 +20,12 @@
 | 14:00 | EUR | Low | German Exports (MoM) (Aug) | -1.2% | -0.4% | -1.9% |
 | 14:00 | EUR | Low | German Imports (MoM) (Aug) | -0.4% | 0.5% | -1.3% |
 | 14:00 | EUR | Moderate | German Trade Balance (Aug) | 16.6B | 15.0B | 17.7B |
-| 24 min | EUR | Low | French Industrial Production (MoM) (Aug) |  | -0.4% | 0.8% |
-| 39 min | EUR | Low | Spanish Industrial Production (YoY) (Aug) |  | -2.1% | -1.8% |
-| 15:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
-| 15:30 | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 41.5 |
-| 15:30 | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 42.4 |
-| 15:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 43.4 |
+| 14:45 | EUR | Low | French Industrial Production (MoM) (Aug) | -0.3% | -0.4% | 0.5% |
+| 15:00 | EUR | Low | Spanish Industrial Production (YoY) (Aug) | -3.4% | -2.1% | -2.2% |
+| 16 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Sep) |  |  | 47.7 |
+| 16 min | EUR | Low | HCOB Germany Construction PMI (Sep) |  |  | 41.5 |
+| 16 min | EUR | Low | HCOB France Construction PMI (MoM) (Sep) |  |  | 42.4 |
+| 16 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Sep) |  |  | 43.4 |
 | 16:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Sep) |  | 49.9 | 50.8 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -14.5B | -22.9B |
 | 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
