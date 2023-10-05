@@ -52,7 +52,7 @@
 | 22:00 | CAD | Low | Ivey PMI n.s.a (Sep) | 54.2 |  | 56.8 |
 | 22:00 | CAD | Moderate | Ivey PMI (Sep) | 53.1 | 50.8 | 53.5 |
 | 22:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 16 min | USD | Low | Natural Gas Storage |  | 92B | 90B |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
-| 23:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 22:30 | USD | Low | Natural Gas Storage | 86B | 92B | 90B |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
+| 13 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |

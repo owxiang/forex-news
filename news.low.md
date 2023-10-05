@@ -37,7 +37,7 @@
 | 20:30 | CAD | Exports (Aug) | 64.56B |  | 61.06B |
 | 20:30 | CAD | Imports (Aug) | 63.84B |  | 61.50B |
 | 22:00 | CAD | Ivey PMI n.s.a (Sep) | 54.2 |  | 56.8 |
-| 16 min | USD | Natural Gas Storage |  | 92B | 90B |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.290% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.330% |
-| 23:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 22:30 | USD | Natural Gas Storage | 86B | 92B | 90B |
+| 13 min | USD | 4-Week Bill Auction |  |  | 5.290% |
+| 13 min | USD | 8-Week Bill Auction |  |  | 5.330% |
+| 13 min | USD | FOMC Member Barkin Speaks |  |  |  |
