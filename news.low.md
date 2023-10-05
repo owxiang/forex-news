@@ -27,9 +27,9 @@
 | 17:35 | EUR | Car Registration (YoY) (Sep) | 2.30% |  | 7.80% |
 | 17:35 | EUR | Car Registration (MoM) (Sep) | 23.00% |  | -31.10% |
 | 18:00 | EUR | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
-| 19:30 | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
-| 20:00 | MXN | Consumer Confidence |  |  | 46.7 |
+| 17 min | USD | Challenger Job Cuts (YoY) |  |  | 266.9% |
+| 17 min | USD | Challenger Job Cuts (Sep) |  |  | 75.151K |
+| 47 min | MXN | Consumer Confidence |  |  | 46.7 |
 | 20:15 | CAD | Reserve Assets Total (Sep) |  |  | 114.7B |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,675K | 1,670K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |

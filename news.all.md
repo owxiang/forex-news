@@ -33,9 +33,9 @@
 | 17:45 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence | 77.2 |  | 94.4 |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
-| 19:30 | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |
-| 20:00 | MXN | Low | Consumer Confidence |  |  | 46.7 |
+| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 266.9% |
+| 17 min | USD | Low | Challenger Job Cuts (Sep) |  |  | 75.151K |
+| 47 min | MXN | Low | Consumer Confidence |  |  | 46.7 |
 | 20:15 | CAD | Low | Reserve Assets Total (Sep) |  |  | 114.7B |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,675K | 1,670K |
 | 20:30 | USD | Moderate | Exports |  |  | 251.66B |
