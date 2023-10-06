@@ -1,21 +1,16 @@
-## 06 October 2023 - Moderate Impact Forex News
+## 07 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet | 7,956B |  | 8,002B |
-| 07:30 | JPY | Household Spending (YoY) (Aug) | -2.5% | -4.3% | -5.0% |
-| 07:30 | JPY | Household Spending (MoM) (Aug) | 3.9% | 0.9% | -2.7% |
-| 08:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 08:30 | AUD | Retail Sales (MoM) | 0.2% | 0.2% | 0.5% |
-| 12:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 14:00 | GBP | Halifax House Price Index (YoY) (Sep) | -4.7% |  | -4.5% |
-| 14:00 | GBP | Halifax House Price Index (MoM) (Sep) | -0.4% | -0.8% | -1.8% |
-| 14:00 | EUR | German Factory Orders (MoM) (Aug) | 3.9% | 1.8% | -11.3% |
-| 17:30 | GBP | Mortgage Rate (GBP) (Sep) | 7.93% |  | 7.85% |
-| 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) | 4.2% | 4.3% | 4.3% |
-| 20:30 | USD | Participation Rate (Sep) | 62.8% |  | 62.8% |
-| 20:30 | USD | Private Nonfarm Payrolls (Sep) | 263K | 160K | 177K |
-| 20:30 | USD | U6 Unemployment Rate (Sep) | 7.0% |  | 7.1% |
-| 20:30 | CAD | Employment Change (Sep) | 63.8K | 20.0K | 39.9K |
-| 20:30 | CAD | Unemployment Rate (Sep) | 5.5% | 5.6% | 5.5% |
+| 00:00 | USD | Fed Waller Speaks |  |  |  |
+| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 502 |
+| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 623 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 15.7K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 350.1K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 115.8K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 0.8K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -89.3K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -86.8K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 15.6K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -109.5K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 98.4K |
