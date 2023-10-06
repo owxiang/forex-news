@@ -25,8 +25,8 @@
 | 13:00 | JPY | Low | Leading Index | 109.5 | 109.0 | 108.2 |
 | 13:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) | 2.0% |  | 2.0% |
 | 13:45 | CHF | Low | Unemployment Rate s.a. (Sep) | 2.1% | 2.1% | 2.1% |
-| 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.4% | -0.8% | -1.8% |
 | 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) | -4.7% |  | -4.5% |
+| 14:00 | GBP | Moderate | Halifax House Price Index (MoM) (Sep) | -0.4% | -0.8% | -1.8% |
 | 14:00 | EUR | Moderate | German Factory Orders (MoM) (Aug) | 3.9% | 1.8% | -11.3% |
 | 14:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | 1.5% |  | -1.3% |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 61.13B |  | 62.00B |
@@ -37,8 +37,8 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Sep) | 214,351.0M |  | 215,995.0M |
 | 14:45 | EUR | Low | French Trade Balance (Aug) | -8.2B | -8.9B | -8.1B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 678.4B |  | 694.0B |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 2.4% |  | 2.8% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.4% | 0.0% | 0.4% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 2.4% |  | 2.8% |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) | 415.70B |  | 418.40B |
 | 17:30 | GBP | Moderate | Mortgage Rate (GBP) (Sep) | 7.93% |  | 7.85% |
 | 18:50 | USD | Low | Total Vehicle Sales | 15.67M |  | 15.33M |
