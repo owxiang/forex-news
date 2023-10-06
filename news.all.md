@@ -40,7 +40,8 @@
 | 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) | 2.4% |  | 2.8% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) | -0.4% | 0.0% | 0.4% |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) | 415.70B |  | 418.40B |
-| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
+| 17:30 | GBP | Moderate | Mortgage Rate (GBP) (Sep) | 7.93% |  | 7.85% |
+| 44 min | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 590.70B |

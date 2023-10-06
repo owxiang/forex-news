@@ -12,6 +12,7 @@
 | 14:00 | GBP | Halifax House Price Index (YoY) (Sep) | -4.7% |  | -4.5% |
 | 14:00 | GBP | Halifax House Price Index (MoM) (Sep) | -0.4% | -0.8% | -1.8% |
 | 14:00 | EUR | German Factory Orders (MoM) (Aug) | 3.9% | 1.8% | -11.3% |
+| 17:30 | GBP | Mortgage Rate (GBP) (Sep) | 7.93% |  | 7.85% |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
 | 20:30 | USD | Participation Rate (Sep) |  |  | 62.8% |
 | 20:30 | USD | Private Nonfarm Payrolls (Sep) |  | 160K | 179K |
