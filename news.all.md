@@ -8,8 +8,8 @@
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.241T |  | 3.168T |
 | 05:00 | KRW | Low | FX Reserves - USD (Sep) | 414.12B |  | 418.30B |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.1% | 1.5% | 1.1% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 3.9% | 0.9% | -2.7% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) | -2.5% | -4.3% | -5.0% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 3.9% | 0.9% | -2.7% |
 | 07:30 | JPY | Low | Overall wage income of employees (Aug) | 1.1% |  | 1.1% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Aug) | 1.00% |  | 0.00% |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,237.2B |  | 1,251.2B |
@@ -31,14 +31,14 @@
 | 14:00 | NOK | Low | Manufacturing Production (MoM) (Aug) | 1.5% |  | -1.3% |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) (Sep) | 61.13B |  | 62.00B |
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Sep) | 54.980B |  | 55.444B |
-| 24 min | EUR | Low | French Current Account (Aug) |  |  | -2.00B |
-| 24 min | EUR | Low | French Exports (Aug) |  |  | 52.6B |
-| 24 min | EUR | Low | French Imports (Aug) |  |  | 60.7B |
-| 24 min | EUR | Low | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
-| 24 min | EUR | Low | French Trade Balance (Aug) |  | -8.9B | -8.1B |
-| 39 min | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
-| 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
+| 14:45 | EUR | Low | French Current Account (Aug) | -0.80B |  | -1.80B |
+| 14:45 | EUR | Low | French Exports (Aug) | 50.8B |  | 52.6B |
+| 14:45 | EUR | Low | French Imports (Aug) | 59.0B |  | 60.7B |
+| 14:45 | EUR | Low | French Reserve Assets Total (Sep) | 214,351.0M |  | 215,995.0M |
+| 14:45 | EUR | Low | French Trade Balance (Aug) | -8.2B | -8.9B | -8.1B |
+| 15:00 | CHF | Low | Foreign Reserves (USD) (Sep) | 678.4B |  | 694.0B |
+| 46 min | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
+| 46 min | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 337.3B |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
