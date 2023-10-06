@@ -27,10 +27,10 @@
 | 14:45 | EUR | French Reserve Assets Total (Sep) | 214,351.0M |  | 215,995.0M |
 | 14:45 | EUR | French Trade Balance (Aug) | -8.2B | -8.9B | -8.1B |
 | 15:00 | CHF | Foreign Reserves (USD) (Sep) | 678.4B |  | 694.0B |
-| 46 min | EUR | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
-| 46 min | EUR | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
-| 16:30 | HKD | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
-| 17:00 | SGD | Foreign Reserves USD (MoM) |  |  | 337.3B |
+| 16:00 | EUR | Italian Retail Sales (YoY) (Aug) | 2.4% |  | 2.8% |
+| 16:00 | EUR | Italian Retail Sales (MoM) (Aug) | -0.4% | 0.0% | 0.4% |
+| 10 min | HKD | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
+| 40 min | SGD | Foreign Reserves USD (MoM) |  |  | 337.3B |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.8% |
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |

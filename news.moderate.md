@@ -9,8 +9,8 @@
 | 08:30 | AUD | RBA Financial Stability Review |  |  |  |
 | 08:30 | AUD | Retail Sales (MoM) | 0.2% | 0.2% | 0.5% |
 | 12:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 14:00 | GBP | Halifax House Price Index (YoY) (Sep) | -4.7% |  | -4.5% |
 | 14:00 | GBP | Halifax House Price Index (MoM) (Sep) | -0.4% | -0.8% | -1.8% |
+| 14:00 | GBP | Halifax House Price Index (YoY) (Sep) | -4.7% |  | -4.5% |
 | 14:00 | EUR | German Factory Orders (MoM) (Aug) | 3.9% | 1.8% | -11.3% |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
 | 20:30 | USD | Participation Rate (Sep) |  |  | 62.8% |
