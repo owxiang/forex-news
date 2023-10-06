@@ -9,14 +9,14 @@
 | 07:30 | JPY | Overall wage income of employees (Aug) | 1.1% |  | 1.1% |
 | 07:30 | JPY | Overtime Pay (YoY) (Aug) | 1.00% |  | 0.00% |
 | 07:50 | JPY | Foreign Reserves (USD) (Sep) | 1,237.2B |  | 1,251.2B |
-| 44 min | IDR | FX Reserves (USD) (Sep) | 134.90B |  | 137.10B |
-| 12:30 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 13:00 | JPY | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
-| 13:00 | JPY | Leading Index |  | 109.0 | 108.2 |
-| 13:00 | JPY | Leading Index (MoM) (Aug) |  |  | -0.6% |
+| 11:00 | IDR | FX Reserves (USD) (Sep) | 134.90B |  | 137.10B |
+| 12 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 12 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 12 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 12 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 42 min | JPY | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
+| 42 min | JPY | Leading Index (MoM) (Aug) |  |  | -0.6% |
+| 42 min | JPY | Leading Index |  | 109.0 | 108.2 |
 | 13:45 | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
 | 13:45 | CHF | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
 | 14:00 | NOK | Manufacturing Production (MoM) (Aug) |  |  | -1.2% |

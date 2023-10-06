@@ -15,15 +15,15 @@
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,237.2B |  | 1,251.2B |
 | 08:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) | 0.2% | 0.2% | 0.5% |
-| 44 min | IDR | Low | FX Reserves (USD) (Sep) | 134.90B |  | 137.10B |
-| 12:30 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
-| 13:00 | JPY | Low | Leading Index |  | 109.0 | 108.2 |
-| 13:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | -0.6% |
+| 11:00 | IDR | Low | FX Reserves (USD) (Sep) | 134.90B |  | 137.10B |
+| 12 min | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 12 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 12 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 12 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 12 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 42 min | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
+| 42 min | JPY | Low | Leading Index (MoM) (Aug) |  |  | -0.6% |
+| 42 min | JPY | Low | Leading Index |  | 109.0 | 108.2 |
 | 13:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
 | 13:45 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
 | 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | -4.6% |
@@ -46,8 +46,8 @@
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 590.70B |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.2% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
 | 20:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Sep) |  |  | 8.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Sep) |  | 5K | 16K |
