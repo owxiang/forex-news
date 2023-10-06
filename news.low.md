@@ -14,5 +14,5 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 64.5K |  | 60.6K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -16.7K |  | -9.1K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -7.7K |  | -15.2K |
-| 46 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 08:24 | CNY | FX Reserves (USD) (Sep) |  | 3.130T | 3.160T |
