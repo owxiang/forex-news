@@ -39,6 +39,8 @@
 | 20:30 | CAD | Full Employment Change (Sep) | 15.8K |  | 32.2K |
 | 20:30 | CAD | Part Time Employment Change (Sep) | 47.9K |  | 7.8K |
 | 20:30 | CAD | Participation Rate (Sep) | 65.6% |  | 65.5% |
-| 20:30 | INR | Bank Loan Growth |  |  | 19.8% |
-| 20:30 | INR | Deposit Growth |  |  | 13.6% |
-| 20:30 | INR | FX Reserves, USD |  |  | 590.70B |
+| 20:50 | INR | Bank Loan Growth | 20.0% |  | 19.8% |
+| 20:50 | INR | Deposit Growth | 13.2% |  | 13.6% |
+| 20:50 | INR | FX Reserves, USD | 586.91B |  | 590.70B |
+| 21:00 | BRL | Auto Production (MoM) (Sep) | -8.0% |  | 24.0% |
+| 21:00 | BRL | Auto Sales (MoM) (Sep) | -4.8% |  | -7.9% |

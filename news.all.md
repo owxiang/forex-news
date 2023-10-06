@@ -59,6 +59,8 @@
 | 20:30 | CAD | Low | Part Time Employment Change (Sep) | 47.9K |  | 7.8K |
 | 20:30 | CAD | Low | Participation Rate (Sep) | 65.6% |  | 65.5% |
 | 20:30 | CAD | Moderate | Unemployment Rate (Sep) | 5.5% | 5.6% | 5.5% |
-| 20:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
-| 20:30 | INR | Low | Deposit Growth |  |  | 13.6% |
-| 20:30 | INR | Low | FX Reserves, USD |  |  | 590.70B |
+| 20:50 | INR | Low | Bank Loan Growth | 20.0% |  | 19.8% |
+| 20:50 | INR | Low | Deposit Growth | 13.2% |  | 13.6% |
+| 20:50 | INR | Low | FX Reserves, USD | 586.91B |  | 590.70B |
+| 21:00 | BRL | Low | Auto Production (MoM) (Sep) | -8.0% |  | 24.0% |
+| 21:00 | BRL | Low | Auto Sales (MoM) (Sep) | -4.8% |  | -7.9% |
