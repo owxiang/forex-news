@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Waller Speaks |  |  |  |
-| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 502 |
-| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 623 |
+| 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 497 |  | 502 |
+| 01:00 | USD | U.S. Baker Hughes Total Rig Count | 619 |  | 623 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 15.7K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 350.1K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 115.8K |

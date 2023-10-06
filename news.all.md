@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 39 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 502 |
-| 39 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 623 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 497 |  | 502 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 619 |  | 623 |
 | 03:00 | USD | Low | Consumer Credit (Aug) |  | 11.70B | 10.40B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 15.7K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.7K |
