@@ -10,18 +10,17 @@
 | 07:30 | JPY | Overtime Pay (YoY) (Aug) | 1.00% |  | 0.00% |
 | 07:50 | JPY | Foreign Reserves (USD) (Sep) | 1,237.2B |  | 1,251.2B |
 | 11:00 | IDR | FX Reserves (USD) (Sep) | 134.90B |  | 137.10B |
-| 12 min | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 12 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 12 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 12 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 42 min | JPY | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
-| 42 min | JPY | Leading Index (MoM) (Aug) |  |  | -0.6% |
-| 42 min | JPY | Leading Index |  | 109.0 | 108.2 |
-| 13:45 | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
-| 13:45 | CHF | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
-| 14:00 | NOK | Manufacturing Production (MoM) (Aug) |  |  | -1.2% |
-| 14:00 | ZAR | Foreign Reserves (USD) (Sep) |  |  | 62.00B |
-| 14:00 | ZAR | Net FX Reserves (USD) (Sep) |  |  | 55.444B |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 13:00 | JPY | Coincident Indicator (MoM) (Aug) | 0.1% |  | -1.4% |
+| 13:00 | JPY | Leading Index (MoM) (Aug) | 1.3% |  | -0.6% |
+| 13:00 | JPY | Leading Index | 109.5 | 109.0 | 108.2 |
+| 30 min | CHF | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
+| 30 min | CHF | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
+| 45 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 45 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 45 min | NOK | Manufacturing Production (MoM) (Aug) |  |  | -1.2% |
+| 45 min | ZAR | Foreign Reserves (USD) (Sep) |  |  | 62.00B |
+| 45 min | ZAR | Net FX Reserves (USD) (Sep) |  |  | 55.444B |
 | 14:45 | EUR | French Current Account (Aug) |  |  | -2.00B |
 | 14:45 | EUR | French Exports (Aug) |  |  | 52.6B |
 | 14:45 | EUR | French Imports (Aug) |  |  | 60.7B |
