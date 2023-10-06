@@ -8,22 +8,22 @@
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.241T |  | 3.168T |
 | 05:00 | KRW | Low | FX Reserves - USD (Sep) | 414.12B |  | 418.30B |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.1% | 1.5% | 1.1% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 3.9% | 0.9% | -2.7% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Aug) | -2.5% | -4.3% | -5.0% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Aug) | 3.9% | 0.9% | -2.7% |
 | 07:30 | JPY | Low | Overall wage income of employees (Aug) | 1.1% |  | 1.1% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Aug) | 1.00% |  | 0.00% |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Sep) | 1,237.2B |  | 1,251.2B |
 | 08:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) | 0.2% | 0.2% | 0.5% |
-| 38 min | IDR | Low | FX Reserves (USD) |  |  | 137.10B |
+| 44 min | IDR | Low | FX Reserves (USD) (Sep) | 134.90B |  | 137.10B |
 | 12:30 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
 | 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Aug) |  |  | -1.4% |
-| 13:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | -0.6% |
 | 13:00 | JPY | Low | Leading Index |  | 109.0 | 108.2 |
+| 13:00 | JPY | Low | Leading Index (MoM) (Aug) |  |  | -0.6% |
 | 13:45 | CHF | Low | Unemployment Rate n.s.a. (Sep) |  |  | 2.0% |
 | 13:45 | CHF | Low | Unemployment Rate s.a. (Sep) |  | 2.1% | 2.1% |
 | 14:00 | GBP | Moderate | Halifax House Price Index (YoY) (Sep) |  |  | -4.6% |
@@ -38,16 +38,16 @@
 | 14:45 | EUR | Low | French Reserve Assets Total (Sep) |  |  | 215,995.0M |
 | 14:45 | EUR | Low | French Trade Balance (Aug) |  | -8.9B | -8.1B |
 | 15:00 | CHF | Low | Foreign Reserves (USD) (Sep) |  |  | 694.3B |
-| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
 | 16:00 | EUR | Low | Italian Retail Sales (MoM) (Aug) |  | 0.0% | 0.4% |
+| 16:00 | EUR | Low | Italian Retail Sales (YoY) (Aug) |  |  | 2.7% |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Sep) |  |  | 418.40B |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 337.3B |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) |  |  | 0.05% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 590.70B |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.2% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Sep) |  | 4.3% | 4.3% |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Sep) |  | 0.3% | 0.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Sep) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Sep) |  |  | 8.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Sep) |  | 5K | 16K |
