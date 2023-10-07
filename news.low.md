@@ -1,17 +1,22 @@
-## 07 October 2023 - Low Impact Forex News
+## 09 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Consumer Credit (Aug) | -15.63B | 11.70B | 10.99B |
-| 04:30 | USD | CFTC Aluminium speculative net positions | 5.8K |  | 6.7K |
-| 04:30 | USD | CFTC Copper speculative net positions | -21.9K |  | -28.8K |
-| 04:30 | USD | CFTC Corn speculative net positions | -107.5K |  | -118.5K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -79.2K |  | -94.2K |
-| 04:30 | USD | CFTC Silver speculative net positions | 15.3K |  | 20.1K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | 22.5K |  | 46.5K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -61.3K |  | -60.0K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -40.2K |  | -32.7K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 64.5K |  | 60.6K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -16.7K |  | -9.1K |
-| 04:30 | NZD | CFTC NZD speculative net positions | -7.7K |  | -15.2K |
-| 16:18 | CNY | FX Reserves (USD) (Sep) | 3.115T |  | 3.160T |
+| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 08:24 | CNY | FX Reserves (USD) (Sep) |  | 3.130T | 3.160T |
+| 11:00 | IDR | Consumer Confidence (Sep) |  |  | 125.2 |
+| 14:00 | EUR | Industrial Production (YoY) (Aug) |  |  | -2.25% |
+| 16:30 | EUR | Sentix Investor Confidence (Oct) |  |  | -21.5 |
+| 17:00 | SGD | Foreign Reserves USD (MoM) |  |  | 337.3B |
+| 18:00 | USD | IMF Meetings |  |  |  |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | MXN | Core CPI (MoM) (Sep) |  |  | 0.27% |
+| 20:00 | MXN | Month Core Inflation (MoM) (Sep) |  |  | 6.08% |
+| 20:00 | MXN | PPI (YoY) (Sep) |  |  | 0.10% |
+| 20:00 | MXN | PPI (MoM) (Sep) |  |  | 0.50% |
+| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.787% |
+| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.773% |
+| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.828% |
+| 21:00 | USD | Fed Logan Speaks |  |  |  |
+| 22:00 | USD | CB Employment Trends Index (Sep) |  |  | 113.02 |
