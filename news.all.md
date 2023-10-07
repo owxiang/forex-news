@@ -26,5 +26,3 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -114.0K |  | -109.5K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -7.7K |  | -15.2K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 78.9K |  | 98.4K |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 08:24 | CNY | Low | FX Reserves (USD) (Sep) |  | 3.130T | 3.160T |
