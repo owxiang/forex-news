@@ -3,7 +3,6 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 08:24 | CNY | FX Reserves (USD) (Sep) |  | 3.130T | 3.160T |
 | 11:00 | IDR | Consumer Confidence (Sep) |  |  | 125.2 |
 | 14:00 | EUR | Industrial Production (YoY) (Aug) |  |  | -2.25% |
 | 16:30 | EUR | Sentix Investor Confidence (Oct) |  |  | -21.5 |

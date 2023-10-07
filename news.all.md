@@ -3,7 +3,6 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 08:24 | CNY | Low | FX Reserves (USD) (Sep) |  | 3.130T | 3.160T |
 | 11:00 | IDR | Low | Consumer Confidence (Sep) |  |  | 125.2 |
 | 14:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.3% | -0.8% |
 | 14:00 | EUR | Low | Industrial Production (YoY) (Aug) |  |  | -2.25% |
@@ -13,8 +12,8 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:00 | MXN | Low | Core CPI (MoM) (Sep) |  |  | 0.27% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Sep) |  |  | 0.55% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Sep) |  |  | 4.64% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  |  | 6.08% |
 | 20:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 0.10% |
