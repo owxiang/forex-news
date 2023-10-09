@@ -15,11 +15,11 @@
 | 20:00 | MXN | Moderate | CPI (YoY) (Sep) | 4.45% | 4.47% | 4.64% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.44% | 0.45% | 0.55% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 5.76% | 5.76% | 6.08% |
-| 20:00 | MXN | Low | PPI (MoM) (Sep) | 0.50% |  | 0.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Sep) | 0.70% |  | 0.10% |
-| 22 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.787% |
-| 22 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.773% |
-| 22 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.828% |
-| 27 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 42 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22:00 | USD | Low | CB Employment Trends Index (Sep) |  |  | 113.02 |
+| 20:00 | MXN | Low | PPI (MoM) (Sep) | 0.50% |  | 0.50% |
+| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.755% |  | 3.787% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.761% |  | 3.773% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.825% |  | 3.828% |
+| 21:00 | USD | Low | Fed Logan Speaks |  |  |  |
+| 21:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 39 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 113.02 |
