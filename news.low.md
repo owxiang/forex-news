@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 16 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:30 | AUD | Westpac Consumer Sentiment |  |  | -1.5% |
 | 08:30 | AUD | NAB Business Survey (Sep) |  |  | 13 |
