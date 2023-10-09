@@ -3,8 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | IDR | Low | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
-| 13:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
-| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.3% | -0.8% |
+| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.1% | -0.8% |
 | 14:00 | EUR | Low | Industrial Production (YoY) (Aug) |  |  | -2.25% |
 | 16:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 16:30 | EUR | Low | Sentix Investor Confidence (Oct) |  |  | -21.5 |
@@ -12,12 +11,12 @@
 | 17:15 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Core CPI (MoM) (Sep) |  |  | 0.27% |
+| 20:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.36% | 0.27% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  |  | 6.08% |
-| 20:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.50% |
+| 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 5.76% | 6.08% |
 | 20:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 0.10% |
+| 20:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.50% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.787% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.773% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.828% |
