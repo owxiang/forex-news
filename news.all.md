@@ -22,4 +22,4 @@
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.825% |  | 3.828% |
 | 21:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 39 min | USD | Low | CB Employment Trends Index (Sep) |  |  | 113.02 |
+| 22:00 | USD | Low | CB Employment Trends Index (Sep) | 114.66 |  | 114.16 |
