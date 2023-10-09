@@ -16,11 +16,11 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 53.2 | 53.6 |
 | 14:00 | NOK | Low | Core CPI YTD (Sep) |  | 6.0% | 6.3% |
 | 14:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
-| 14:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.8% |
 | 14:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.8% | 4.8% |
+| 14:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.8% |
 | 14:00 | NOK | Low | PPI (YoY) (Sep) |  |  | -37.4% |
-| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
+| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:30 | GBP | Moderate | Labour Productivity (Q2) |  | 0.7% | -1.4% |
 | 17:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
