@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 38 min | IDR | Low | Consumer Confidence (Sep) |  |  | 125.2 |
+| 11:00 | IDR | Low | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
 | 13:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 14:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.3% | -0.8% |
 | 14:00 | EUR | Low | Industrial Production (YoY) (Aug) |  |  | -2.25% |

@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 38 min | IDR | Consumer Confidence (Sep) |  |  | 125.2 |
+| 11:00 | IDR | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
 | 13:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 14:00 | EUR | Industrial Production (YoY) (Aug) |  |  | -2.25% |
 | 16:30 | EUR | Sentix Investor Confidence (Oct) |  |  | -21.5 |
