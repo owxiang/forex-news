@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 16 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 01:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 04:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) |  | 3.1% | 4.3% |
@@ -19,8 +19,8 @@
 | 14:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.8% | 4.8% |
 | 14:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.8% |
 | 14:00 | NOK | Low | PPI (YoY) (Sep) |  |  | -37.4% |
-| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
+| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
 | 16:30 | GBP | Moderate | Labour Productivity (Q2) |  | 0.7% | -1.4% |
 | 17:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
