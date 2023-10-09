@@ -9,7 +9,7 @@
 | 16:30 | EUR | Low | Sentix Investor Confidence (Oct) | -21.9 | -24.0 | -21.5 |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 337.4B |  | 337.3B |
 | 17:15 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 43 min | USD | Low | IMF Meetings |  |  |  |
+| 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.36% | 0.27% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
