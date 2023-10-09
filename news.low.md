@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 11:00 | IDR | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
 | 14:00 | EUR | Industrial Production (YoY) (Aug) | -1.75% |  | -2.04% |
-| 9 min | EUR | Sentix Investor Confidence (Oct) |  | -24.0 | -21.5 |
-| 39 min | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 337.3B |
-| 18:00 | USD | IMF Meetings |  |  |  |
+| 16:30 | EUR | Sentix Investor Confidence (Oct) | -21.9 | -24.0 | -21.5 |
+| 17:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 337.4B |  | 337.3B |
+| 43 min | USD | IMF Meetings |  |  |  |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Core CPI (MoM) (Sep) |  | 0.36% | 0.27% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Sep) |  | 5.76% | 6.08% |
-| 20:00 | MXN | PPI (MoM) (Sep) |  |  | 0.50% |
 | 20:00 | MXN | PPI (YoY) (Sep) |  |  | 0.10% |
+| 20:00 | MXN | PPI (MoM) (Sep) |  |  | 0.50% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.787% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.773% |
 | 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.828% |
