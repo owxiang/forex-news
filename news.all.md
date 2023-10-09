@@ -12,11 +12,11 @@
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Core CPI (MoM) (Sep) | 0.36% | 0.36% | 0.27% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Sep) | 4.45% | 4.47% | 4.64% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Sep) | 0.44% | 0.45% | 0.55% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Sep) | 4.45% | 4.47% | 4.64% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) | 5.76% | 5.76% | 6.08% |
-| 20:00 | MXN | Low | PPI (YoY) (Sep) | 0.70% |  | 0.10% |
 | 20:00 | MXN | Low | PPI (MoM) (Sep) | 0.50% |  | 0.50% |
+| 20:00 | MXN | Low | PPI (YoY) (Sep) | 0.70% |  | 0.10% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.755% |  | 3.787% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.761% |  | 3.773% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.825% |  | 3.828% |

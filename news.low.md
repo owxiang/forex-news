@@ -10,8 +10,8 @@
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Core CPI (MoM) (Sep) | 0.36% | 0.36% | 0.27% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Sep) | 5.76% | 5.76% | 6.08% |
-| 20:00 | MXN | PPI (YoY) (Sep) | 0.70% |  | 0.10% |
 | 20:00 | MXN | PPI (MoM) (Sep) | 0.50% |  | 0.50% |
+| 20:00 | MXN | PPI (YoY) (Sep) | 0.70% |  | 0.10% |
 | 20:55 | EUR | French 12-Month BTF Auction | 3.755% |  | 3.787% |
 | 20:55 | EUR | French 3-Month BTF Auction | 3.761% |  | 3.773% |
 | 20:55 | EUR | French 6-Month BTF Auction | 3.825% |  | 3.828% |
