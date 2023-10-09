@@ -10,13 +10,13 @@
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) | 337.4B |  | 337.3B |
 | 17:15 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.36% | 0.27% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 5.76% | 6.08% |
-| 20:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 0.10% |
-| 20:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.50% |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 47 min | MXN | Low | Core CPI (MoM) (Sep) |  | 0.36% | 0.27% |
+| 47 min | MXN | Moderate | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
+| 47 min | MXN | Moderate | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
+| 47 min | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 5.76% | 6.08% |
+| 47 min | MXN | Low | PPI (MoM) (Sep) |  |  | 0.50% |
+| 47 min | MXN | Low | PPI (YoY) (Sep) |  |  | 0.10% |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.787% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.773% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.828% |
