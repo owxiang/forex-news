@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | EUR | German Industrial Production (MoM) (Aug) |  | -0.1% | -0.8% |
+| 14:00 | EUR | German Industrial Production (MoM) (Aug) | -0.2% | -0.1% | -0.6% |
 | 16:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 17:15 | EUR | ECB's Enria Speaks |  |  |  |
-| 20:00 | MXN | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
 | 20:00 | MXN | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
+| 20:00 | MXN | CPI (MoM) (Sep) |  | 0.45% | 0.55% |

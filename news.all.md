@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | IDR | Low | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
-| 46 min | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.1% | -0.8% |
-| 46 min | EUR | Low | Industrial Production (YoY) (Aug) |  |  | -2.25% |
+| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) | -0.2% | -0.1% | -0.6% |
+| 14:00 | EUR | Low | Industrial Production (YoY) (Aug) | -1.75% |  | -2.04% |
 | 16:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 16:30 | EUR | Low | Sentix Investor Confidence (Oct) |  | -24.0 | -21.5 |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 337.3B |
@@ -12,8 +12,8 @@
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Core CPI (MoM) (Sep) |  | 0.36% | 0.27% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Sep) |  | 4.47% | 4.64% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Sep) |  | 0.45% | 0.55% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Sep) |  | 5.76% | 6.08% |
 | 20:00 | MXN | Low | PPI (YoY) (Sep) |  |  | 0.10% |
 | 20:00 | MXN | Low | PPI (MoM) (Sep) |  |  | 0.50% |

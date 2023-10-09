@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 11:00 | IDR | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
-| 46 min | EUR | Industrial Production (YoY) (Aug) |  |  | -2.25% |
+| 14:00 | EUR | Industrial Production (YoY) (Aug) | -1.75% |  | -2.04% |
 | 16:30 | EUR | Sentix Investor Confidence (Oct) |  | -24.0 | -21.5 |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Sep) |  |  | 337.3B |
 | 18:00 | USD | IMF Meetings |  |  |  |
