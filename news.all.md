@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 11:00 | IDR | Low | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
-| 14:00 | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.1% | -0.8% |
-| 14:00 | EUR | Low | Industrial Production (YoY) (Aug) |  |  | -2.25% |
+| 46 min | EUR | Moderate | German Industrial Production (MoM) (Aug) |  | -0.1% | -0.8% |
+| 46 min | EUR | Low | Industrial Production (YoY) (Aug) |  |  | -2.25% |
 | 16:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 16:30 | EUR | Low | Sentix Investor Confidence (Oct) |  |  | -21.5 |
+| 16:30 | EUR | Low | Sentix Investor Confidence (Oct) |  | -24.0 | -21.5 |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Sep) |  |  | 337.3B |
 | 17:15 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
