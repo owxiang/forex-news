@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 04:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 48 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) |  | 3.1% | 4.3% |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -1.5% |
@@ -16,8 +16,8 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Sep) |  | 53.2 | 53.6 |
 | 14:00 | NOK | Low | Core CPI YTD (Sep) |  | 6.0% | 6.3% |
 | 14:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
-| 14:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.8% | 4.8% |
 | 14:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.4% | -0.8% |
+| 14:00 | NOK | Low | CPI (YoY) (Sep) |  | 3.8% | 4.8% |
 | 14:00 | NOK | Low | PPI (YoY) (Sep) |  |  | -37.4% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |

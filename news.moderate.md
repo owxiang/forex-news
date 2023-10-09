@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | GBP | BoE MPC Member Mann |  |  |  |
+| 48 min | GBP | BoE MPC Member Mann |  |  |  |
 | 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) |  | 3.1% | 4.3% |
 | 07:50 | JPY | Adjusted Current Account (Aug) |  | 2.41T | 2.77T |
 | 07:50 | JPY | Current Account n.s.a. (Aug) |  | 3.091T | 2.772T |
