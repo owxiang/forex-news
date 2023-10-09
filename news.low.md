@@ -1,20 +1,26 @@
-## 09 October 2023 - Low Impact Forex News
+## 10 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | IDR | Consumer Confidence (Sep) | 121.7 |  | 125.2 |
-| 14:00 | EUR | Industrial Production (YoY) (Aug) | -1.75% |  | -2.04% |
-| 16:30 | EUR | Sentix Investor Confidence (Oct) | -21.9 | -24.0 | -21.5 |
-| 17:00 | SGD | Foreign Reserves USD (MoM) (Sep) | 337.4B |  | 337.3B |
+| 01:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:30 | AUD | Westpac Consumer Sentiment |  |  | -1.5% |
+| 08:30 | AUD | NAB Business Survey (Sep) |  |  | 13 |
+| 08:30 | AUD | Private House Approvals |  | 5.8% | 0.1% |
+| 13:00 | JPY | Economy Watchers Current Index (Sep) |  | 53.2 | 53.6 |
+| 14:00 | NOK | Core CPI YTD (Sep) |  | 6.0% | 6.3% |
+| 14:00 | NOK | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
+| 14:00 | NOK | CPI (YoY) (Sep) |  | 3.8% | 4.8% |
+| 14:00 | NOK | CPI (MoM) (Sep) |  | 0.4% | -0.8% |
+| 14:00 | NOK | PPI (YoY) (Sep) |  |  | -37.4% |
+| 16:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
+| 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
+| 17:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 18:00 | USD | IMF Meetings |  |  |  |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Core CPI (MoM) (Sep) | 0.36% | 0.36% | 0.27% |
-| 20:00 | MXN | Month Core Inflation (MoM) (Sep) | 5.76% | 5.76% | 6.08% |
-| 20:00 | MXN | PPI (MoM) (Sep) | 0.50% |  | 0.50% |
-| 20:00 | MXN | PPI (YoY) (Sep) | 0.70% |  | 0.10% |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.755% |  | 3.787% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.761% |  | 3.773% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.825% |  | 3.828% |
-| 21:00 | USD | Fed Logan Speaks |  |  |  |
-| 21:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22:00 | USD | CB Employment Trends Index (Sep) | 114.66 |  | 114.16 |
+| 18:00 | USD | NFIB Small Business Optimism (Sep) |  | 91.4 | 91.3 |
+| 20:55 | USD | Redbook (YoY) |  |  | 3.5% |
+| 22:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.1% | -0.2% |
+| 22:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 0.8% |
+| 23:00 | USD | 1-Year Consumer Inflation Expectations |  |  | 3.63% |
+| 23:30 | USD | 3-Month Bill Auction |  |  | 5.345% |
+| 23:30 | USD | 6-Month Bill Auction |  |  | 5.340% |

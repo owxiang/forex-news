@@ -1,9 +1,13 @@
-## 09 October 2023 - Moderate Impact Forex News
+## 10 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:00 | EUR | German Industrial Production (MoM) (Aug) | -0.2% | -0.1% | -0.6% |
-| 16:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 17:15 | EUR | ECB's Enria Speaks |  |  |  |
-| 20:00 | MXN | CPI (MoM) (Sep) | 0.44% | 0.45% | 0.55% |
-| 20:00 | MXN | CPI (YoY) (Sep) | 4.45% | 4.47% | 4.64% |
+| 04:00 | GBP | BoE MPC Member Mann |  |  |  |
+| 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) |  | 3.1% | 4.3% |
+| 07:50 | JPY | Adjusted Current Account (Aug) |  | 2.41T | 2.77T |
+| 07:50 | JPY | Current Account n.s.a. (Aug) |  | 3.091T | 2.772T |
+| 08:30 | AUD | Building Approvals (MoM) |  | 7.0% | -8.1% |
+| 08:30 | AUD | NAB Business Confidence (Sep) |  |  | 2 |
+| 16:30 | GBP | Labour Productivity (Q2) |  | 0.7% | -1.4% |
+| 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:30 | USD | FOMC Member Bostic Speaks |  |  |  |
