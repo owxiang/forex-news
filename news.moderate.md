@@ -5,7 +5,7 @@
 | 00:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 01:00 | USD | 3-Year Note Auction | 4.740% |  | 4.660% |
 | 01:30 | USD | Fed Waller Speaks |  |  |  |
-| 40 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 03:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 06:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 08:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 14:00 | EUR | German CPI (YoY) (Sep) |  | 4.5% | 6.1% |
