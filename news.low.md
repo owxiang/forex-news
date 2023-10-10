@@ -10,8 +10,8 @@
 | 13:30 | IDR | Retail Sales (YoY) | 1.1% |  | 1.6% |
 | 14:00 | NOK | Core CPI YTD (Sep) | 5.7% | 6.1% | 6.3% |
 | 14:00 | NOK | Core Inflation (MoM) (Sep) | 0.4% | 0.7% | -0.6% |
-| 14:00 | NOK | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
 | 14:00 | NOK | CPI (YoY) (Sep) | 3.3% | 4.0% | 4.8% |
+| 14:00 | NOK | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
 | 14:00 | NOK | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
 | 16:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |

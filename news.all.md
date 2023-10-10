@@ -16,8 +16,8 @@
 | 13:30 | IDR | Low | Retail Sales (YoY) | 1.1% |  | 1.6% |
 | 14:00 | NOK | Low | Core CPI YTD (Sep) | 5.7% | 6.1% | 6.3% |
 | 14:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.4% | 0.7% | -0.6% |
-| 14:00 | NOK | Low | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
 | 14:00 | NOK | Low | CPI (YoY) (Sep) | 3.3% | 4.0% | 4.8% |
+| 14:00 | NOK | Low | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
 | 14:00 | NOK | Low | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |
@@ -25,7 +25,7 @@
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 18:00 | USD | Low | NFIB Small Business Optimism (Sep) | 90.8 | 91.4 | 91.3 |
 | 18:00 | IDR | Low | Motorbike Sales (YoY) | -0.90% |  | 1.80% |
-| 20:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 47 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.5% |
 | 21:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 22:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.1% | -0.2% |
