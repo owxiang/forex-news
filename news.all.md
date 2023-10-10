@@ -11,7 +11,6 @@
 | 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 19.8% |
 | 06:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 07:00 | KRW | Low | Current Account (Aug) |  |  | 3.58B |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Oct) |  |  | 4 |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
 | 08:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
@@ -41,8 +40,8 @@
 | 20:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.27% | 4.61% |
 | 20:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
-| 20:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
+| 20:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | 0.7% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |

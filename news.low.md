@@ -6,7 +6,6 @@
 | 05:45 | NZD | Permanent/Long-Term Migration (Aug) |  |  | 5,786 |
 | 05:45 | NZD | Visitor Arrivals (MoM) |  |  | 19.8% |
 | 07:00 | KRW | Current Account (Aug) |  |  | 3.58B |
-| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
 | 07:00 | JPY | Reuters Tankan Index (Oct) |  |  | 4 |
 | 07:30 | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.291% |
