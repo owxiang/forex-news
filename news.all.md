@@ -19,8 +19,8 @@
 | 14:00 | NOK | Low | CPI (YoY) (Sep) | 3.3% | 4.0% | 4.8% |
 | 14:00 | NOK | Low | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
 | 14:00 | NOK | Low | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
-| 46 min | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
-| 46 min | EUR | Low | Italian Industrial Production (YoY) (Aug) |  | -5.0% | -2.1% |
+| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
+| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |
 | 17:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 18:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 91.4 | 91.3 |
