@@ -15,9 +15,9 @@
 | 14:00 | NOK | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
 | 16:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |
-| 17:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 18:00 | USD | IMF Meetings |  |  |  |
-| 18:00 | USD | NFIB Small Business Optimism (Sep) |  | 91.4 | 91.3 |
+| 14 min | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 44 min | USD | IMF Meetings |  |  |  |
+| 44 min | USD | NFIB Small Business Optimism (Sep) |  | 91.4 | 91.3 |
 | 20:55 | USD | Redbook (YoY) |  |  | 3.5% |
 | 22:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.1% | -0.2% |
 | 22:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 0.8% |

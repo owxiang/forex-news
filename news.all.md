@@ -21,9 +21,9 @@
 | 14:00 | NOK | Low | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |
-| 17:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 18:00 | USD | Low | IMF Meetings |  |  |  |
-| 18:00 | USD | Low | NFIB Small Business Optimism (Sep) |  | 91.4 | 91.3 |
+| 14 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 44 min | USD | Low | IMF Meetings |  |  |  |
+| 44 min | USD | Low | NFIB Small Business Optimism (Sep) |  | 91.4 | 91.3 |
 | 20:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 3.5% |
 | 21:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
