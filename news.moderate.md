@@ -9,4 +9,4 @@
 | 08:30 | AUD | Building Approvals (MoM) | 7.0% | 7.0% | -8.1% |
 | 08:30 | AUD | NAB Business Confidence (Sep) | 1 |  | 1 |
 | 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 59 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 10 min | USD | FOMC Member Bostic Speaks |  |  |  |
