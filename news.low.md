@@ -5,12 +5,12 @@
 | 05:45 | NZD | External Migration & Visitors (Aug) | 59.40% |  | 59.30% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Aug) | 9,980 |  | 6,440 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | -4.1% |  | 1.8% |
-| 46 min | KRW | Current Account (Aug) |  |  | 3.58B |
-| 46 min | JPY | Reuters Tankan Index (Oct) |  |  | 4 |
-| 07:30 | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
+| 07:00 | KRW | Current Account (Aug) |  |  | 3.58B |
+| 07:00 | JPY | Reuters Tankan Index (Oct) |  |  | 4 |
+| 15 min | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.291% |
-| 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
 | 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
+| 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
@@ -29,9 +29,9 @@
 | 20:00 | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
 | 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
