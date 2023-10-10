@@ -8,6 +8,5 @@
 | 07:50 | JPY | Current Account n.s.a. (Aug) | 2.280T | 3.091T | 2.772T |
 | 08:30 | AUD | Building Approvals (MoM) | 7.0% | 7.0% | -8.1% |
 | 08:30 | AUD | NAB Business Confidence (Sep) | 1 |  | 1 |
-| 16:30 | GBP | Labour Productivity (Q2) |  | 0.7% | -1.4% |
 | 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | USD | FOMC Member Bostic Speaks |  |  |  |
