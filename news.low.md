@@ -6,12 +6,12 @@
 | 07:30 | AUD | Westpac Consumer Sentiment | 2.9% |  | -1.5% |
 | 08:30 | AUD | NAB Business Survey (Sep) | 11 |  | 14 |
 | 08:30 | AUD | Private House Approvals | 5.8% | 5.8% | 0.4% |
-| 42 min | JPY | Economy Watchers Current Index (Sep) |  | 53.2 | 53.6 |
-| 14:00 | NOK | Core CPI YTD (Sep) |  | 6.1% | 6.3% |
-| 14:00 | NOK | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
-| 14:00 | NOK | CPI (YoY) (Sep) |  | 4.0% | 4.8% |
-| 14:00 | NOK | CPI (MoM) (Sep) |  | 0.5% | -0.8% |
-| 14:00 | NOK | PPI (YoY) (Sep) |  |  | -37.4% |
+| 13:00 | JPY | Economy Watchers Current Index (Sep) | 49.9 | 53.2 | 53.6 |
+| 46 min | NOK | Core CPI YTD (Sep) |  | 6.1% | 6.3% |
+| 46 min | NOK | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
+| 46 min | NOK | CPI (YoY) (Sep) |  | 4.0% | 4.8% |
+| 46 min | NOK | CPI (MoM) (Sep) |  | 0.5% | -0.8% |
+| 46 min | NOK | PPI (YoY) (Sep) |  |  | -37.4% |
 | 16:00 | EUR | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  | -5.0% | -2.1% |
 | 17:30 | GBP | BoE FPC Meeting Minutes |  |  |  |

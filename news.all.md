@@ -12,12 +12,12 @@
 | 08:30 | AUD | Moderate | NAB Business Confidence (Sep) | 1 |  | 1 |
 | 08:30 | AUD | Low | NAB Business Survey (Sep) | 11 |  | 14 |
 | 08:30 | AUD | Low | Private House Approvals | 5.8% | 5.8% | 0.4% |
-| 42 min | JPY | Low | Economy Watchers Current Index (Sep) |  | 53.2 | 53.6 |
-| 14:00 | NOK | Low | Core CPI YTD (Sep) |  | 6.1% | 6.3% |
-| 14:00 | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
-| 14:00 | NOK | Low | CPI (YoY) (Sep) |  | 4.0% | 4.8% |
-| 14:00 | NOK | Low | CPI (MoM) (Sep) |  | 0.5% | -0.8% |
-| 14:00 | NOK | Low | PPI (YoY) (Sep) |  |  | -37.4% |
+| 13:00 | JPY | Low | Economy Watchers Current Index (Sep) | 49.9 | 53.2 | 53.6 |
+| 46 min | NOK | Low | Core CPI YTD (Sep) |  | 6.1% | 6.3% |
+| 46 min | NOK | Low | Core Inflation (MoM) (Sep) |  | 0.7% | -0.6% |
+| 46 min | NOK | Low | CPI (YoY) (Sep) |  | 4.0% | 4.8% |
+| 46 min | NOK | Low | CPI (MoM) (Sep) |  | 0.5% | -0.8% |
+| 46 min | NOK | Low | PPI (YoY) (Sep) |  |  | -37.4% |
 | 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) |  | 0.0% | -0.7% |
 | 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  | -5.0% | -2.1% |
 | 16:30 | GBP | Moderate | Labour Productivity (Q2) |  | 0.7% | -1.4% |
