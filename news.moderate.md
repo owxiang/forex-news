@@ -6,7 +6,7 @@
 | 01:00 | USD | 3-Year Note Auction | 4.740% |  | 4.660% |
 | 01:30 | USD | Fed Waller Speaks |  |  |  |
 | 03:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 06:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 47 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 08:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 14:00 | EUR | German CPI (YoY) (Sep) |  | 4.5% | 6.1% |
 | 16:00 | CNY | New Loans |  | 2,500.0B | 1,360.0B |
