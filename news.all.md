@@ -25,9 +25,9 @@
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 18:00 | USD | Low | NFIB Small Business Optimism (Sep) | 90.8 | 91.4 | 91.3 |
 | 18:00 | IDR | Low | Motorbike Sales (YoY) | -0.90% |  | 1.80% |
-| 47 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 20:55 | USD | Low | Redbook (YoY) |  |  | 3.5% |
-| 21:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 20:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 24 min | USD | Low | Redbook (YoY) |  |  | 3.5% |
+| 59 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 22:00 | USD | Low | Wholesale Inventories (MoM) (Aug) |  | -0.1% | -0.2% |
 | 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) |  |  | 0.8% |
 | 23:00 | USD | Low | 1-Year Consumer Inflation Expectations |  |  | 3.63% |

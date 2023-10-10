@@ -19,7 +19,7 @@
 | 18:00 | USD | IMF Meetings |  |  |  |
 | 18:00 | USD | NFIB Small Business Optimism (Sep) | 90.8 | 91.4 | 91.3 |
 | 18:00 | IDR | Motorbike Sales (YoY) | -0.90% |  | 1.80% |
-| 20:55 | USD | Redbook (YoY) |  |  | 3.5% |
+| 24 min | USD | Redbook (YoY) |  |  | 3.5% |
 | 22:00 | USD | Wholesale Inventories (MoM) (Aug) |  | -0.1% | -0.2% |
 | 22:00 | USD | Wholesale Trade Sales (MoM) (Aug) |  |  | 0.8% |
 | 23:00 | USD | 1-Year Consumer Inflation Expectations |  |  | 3.63% |
