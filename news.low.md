@@ -1,27 +1,39 @@
-## 10 October 2023 - Low Impact Forex News
+## 11 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 07:30 | AUD | Westpac Consumer Sentiment | 2.9% |  | -1.5% |
-| 08:30 | AUD | NAB Business Survey (Sep) | 11 |  | 14 |
-| 08:30 | AUD | Private House Approvals | 5.8% | 5.8% | 0.4% |
-| 13:00 | JPY | Economy Watchers Current Index (Sep) | 49.9 | 53.2 | 53.6 |
-| 13:30 | IDR | Retail Sales (YoY) | 1.1% |  | 1.6% |
-| 14:00 | NOK | Core CPI YTD (Sep) | 5.7% | 6.1% | 6.3% |
-| 14:00 | NOK | Core Inflation (MoM) (Sep) | 0.4% | 0.7% | -0.6% |
-| 14:00 | NOK | CPI (YoY) (Sep) | 3.3% | 4.0% | 4.8% |
-| 14:00 | NOK | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
-| 14:00 | NOK | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
-| 16:00 | EUR | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
-| 16:00 | EUR | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |
-| 17:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 05:45 | NZD | External Migration & Visitors (Aug) |  |  | 59.30% |
+| 05:45 | NZD | Permanent/Long-Term Migration (Aug) |  |  | 5,786 |
+| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | 19.8% |
+| 07:00 | KRW | Current Account (Aug) |  |  | 3.58B |
+| 07:00 | KRW | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | JPY | Reuters Tankan Index (Oct) |  |  | 4 |
+| 07:30 | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
+| 11:35 | JPY | 5-Year JGB Auction |  |  | 0.291% |
+| 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
+| 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
+| 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
+| 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
+| 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
+| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.6% | 10.6% |
+| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.2% | 11.1% |
+| 16:00 | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
+| 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.402% |
+| 17:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.873% |
+| 17:30 | EUR | German 30-Year Bund Auction |  |  | 2.790% |
 | 18:00 | USD | IMF Meetings |  |  |  |
-| 18:00 | USD | NFIB Small Business Optimism (Sep) | 90.8 | 91.4 | 91.3 |
-| 18:00 | IDR | Motorbike Sales (YoY) | -0.90% |  | 1.80% |
-| 20:55 | USD | Redbook (YoY) | 4.0% |  | 3.5% |
-| 22:00 | USD | Wholesale Inventories (MoM) (Aug) | -0.1% | -0.1% | -0.2% |
-| 22:00 | USD | Wholesale Trade Sales (MoM) (Aug) | 1.8% |  | 1.2% |
-| 23:00 | USD | 1-Year Consumer Inflation Expectations | 3.70% |  | 3.63% |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.345% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.340% |
+| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.53% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.0% |
+| 19:00 | USD | MBA Purchase Index |  |  | 136.6 |
+| 19:00 | USD | Mortgage Market Index |  |  | 178.2 |
+| 19:00 | USD | Mortgage Refinance Index |  |  | 384.6 |
+| 20:00 | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
+| 20:30 | USD | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
+| 20:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 56.97 |

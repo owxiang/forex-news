@@ -1,35 +1,55 @@
-## 10 October 2023 - All Forex News
+## 11 October 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 04:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 07:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Sep) | 2.8% | 3.1% | 4.3% |
-| 07:30 | AUD | Low | Westpac Consumer Sentiment | 2.9% |  | -1.5% |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Aug) | 1.63T | 2.41T | 2.77T |
-| 07:50 | JPY | Moderate | Current Account n.s.a. (Aug) | 2.280T | 3.091T | 2.772T |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) | 7.0% | 7.0% | -8.1% |
-| 08:30 | AUD | Moderate | NAB Business Confidence (Sep) | 1 |  | 1 |
-| 08:30 | AUD | Low | NAB Business Survey (Sep) | 11 |  | 14 |
-| 08:30 | AUD | Low | Private House Approvals | 5.8% | 5.8% | 0.4% |
-| 13:00 | JPY | Low | Economy Watchers Current Index (Sep) | 49.9 | 53.2 | 53.6 |
-| 13:30 | IDR | Low | Retail Sales (YoY) | 1.1% |  | 1.6% |
-| 14:00 | NOK | Low | Core CPI YTD (Sep) | 5.7% | 6.1% | 6.3% |
-| 14:00 | NOK | Low | Core Inflation (MoM) (Sep) | 0.4% | 0.7% | -0.6% |
-| 14:00 | NOK | Low | CPI (YoY) (Sep) | 3.3% | 4.0% | 4.8% |
-| 14:00 | NOK | Low | CPI (MoM) (Sep) | -0.1% | 0.5% | -0.8% |
-| 14:00 | NOK | Low | PPI (YoY) (Sep) | -29.3% |  | -37.4% |
-| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) | -4.2% | -5.0% | -2.3% |
-| 16:00 | EUR | Low | Italian Industrial Production (MoM) (Aug) | 0.2% | 0.0% | -0.9% |
-| 17:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 9 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 39 min | USD | Moderate | 3-Year Note Auction |  |  | 4.660% |
+| 01:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 03:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 05:45 | NZD | Low | External Migration & Visitors (Aug) |  |  | 59.30% |
+| 05:45 | NZD | Low | Permanent/Long-Term Migration (Aug) |  |  | 5,786 |
+| 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 19.8% |
+| 06:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 07:00 | KRW | Low | Current Account (Aug) |  |  | 3.58B |
+| 07:00 | KRW | Low | Service Sector Output (MoM) (Aug) |  |  | 0.4% |
+| 07:00 | JPY | Low | Reuters Tankan Index (Oct) |  |  | 4 |
+| 07:30 | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
+| 08:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.291% |
+| 14:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
+| 14:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 4.5% | 6.1% |
+| 14:00 | EUR | Low | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
+| 14:00 | EUR | Low | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
+| 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -17.6% |
+| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
+| 16:00 | EUR | Low | Italian Industrial Production (MoM) |  |  | -0.7% |
+| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.6% | 10.6% |
+| 16:00 | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
+| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.2% | 11.1% |
+| 16:00 | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
+| 16:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.402% |
+| 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 17:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.873% |
+| 17:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.790% |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
-| 18:00 | USD | Low | NFIB Small Business Optimism (Sep) | 90.8 | 91.4 | 91.3 |
-| 18:00 | IDR | Low | Motorbike Sales (YoY) | -0.90% |  | 1.80% |
-| 20:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 20:55 | USD | Low | Redbook (YoY) | 4.0% |  | 3.5% |
-| 21:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 22:00 | USD | Low | Wholesale Inventories (MoM) (Aug) | -0.1% | -0.1% | -0.2% |
-| 22:00 | USD | Low | Wholesale Trade Sales (MoM) (Aug) | 1.8% |  | 1.2% |
-| 23:00 | USD | Low | 1-Year Consumer Inflation Expectations | 3.70% |  | 3.63% |
-| 13 min | USD | Low | 3-Month Bill Auction |  |  | 5.345% |
-| 13 min | USD | Low | 6-Month Bill Auction |  |  | 5.340% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.53% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.0% |
+| 19:00 | USD | Low | MBA Purchase Index |  |  | 136.6 |
+| 19:00 | USD | Low | Mortgage Market Index |  |  | 178.2 |
+| 19:00 | USD | Low | Mortgage Refinance Index |  |  | 384.6 |
+| 20:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.27% | 4.61% |
+| 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
+| 20:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
+| 20:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
+| 20:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
+| 20:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | 0.7% |
+| 20:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -0.8% | -1.5% |
+| 22:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
+| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
+| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
+| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 56.97 |

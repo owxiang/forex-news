@@ -1,12 +1,18 @@
-## 10 October 2023 - Moderate Impact Forex News
+## 11 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | GBP | BoE MPC Member Mann |  |  |  |
-| 07:01 | GBP | BRC Retail Sales Monitor (YoY) (Sep) | 2.8% | 3.1% | 4.3% |
-| 07:50 | JPY | Adjusted Current Account (Aug) | 1.63T | 2.41T | 2.77T |
-| 07:50 | JPY | Current Account n.s.a. (Aug) | 2.280T | 3.091T | 2.772T |
-| 08:30 | AUD | Building Approvals (MoM) | 7.0% | 7.0% | -8.1% |
-| 08:30 | AUD | NAB Business Confidence (Sep) | 1 |  | 1 |
-| 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 9 min | EUR | German Buba Balz Speaks |  |  |  |
+| 39 min | USD | 3-Year Note Auction |  |  | 4.660% |
+| 01:30 | USD | Fed Waller Speaks |  |  |  |
+| 03:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 06:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 08:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 14:00 | EUR | German CPI (YoY) (Sep) |  | 4.5% | 6.1% |
+| 16:00 | CNY | New Loans |  | 2,500.0B | 1,360.0B |
+| 16:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 20:00 | BRL | CPI (YoY) (Sep) |  | 5.27% | 4.61% |
+| 20:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
+| 20:30 | CAD | Building Permits (MoM) (Aug) |  | -0.8% | -1.5% |
+| 22:15 | USD | Fed Waller Speaks |  |  |  |
