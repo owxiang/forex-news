@@ -9,8 +9,8 @@
 | 07:00 | JPY | Reuters Tankan Index (Oct) | 4 |  | 4 |
 | 09:00 | IDR | Car Sales (YoY) | -20.10% |  | -8.30% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.330% |  | 0.291% |
-| 14:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
 | 14:00 | EUR | German HICP (YoY) (Sep) | 4.3% | 4.3% | 6.4% |
+| 14:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
 | 14:00 | JPY | Machine Tool Orders (YoY) | -11.2% |  | -17.5% |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction | 4.444% |  | 4.402% |
 | 17:20 | EUR | Italian 12-Month BOT Auction | 3.942% |  | 3.873% |
@@ -27,7 +27,7 @@
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) | 2.8% | 3.0% | 2.9% |
 | 20:30 | USD | PPI (YoY) (Sep) | 2.2% | 1.6% | 2.0% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
-| 44 min | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
-| 44 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
-| 44 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
-| 44 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 56.97 |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) | 52.02 |  | 52.02 |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.56 |  | 47.66 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 58.46 |  | 55.09 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Oct) | 58.46 |  | 56.97 |

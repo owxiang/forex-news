@@ -17,8 +17,8 @@
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.330% |  | 0.291% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Sep) | 4.5% | 4.5% | 6.1% |
 | 14:00 | EUR | High | German CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
-| 14:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
 | 14:00 | EUR | Low | German HICP (YoY) (Sep) | 4.3% | 4.3% | 6.4% |
+| 14:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -11.2% |  | -17.5% |
 | 16:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.444% |  | 4.402% |
@@ -36,13 +36,13 @@
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) | 0.31% |  | 0.30% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Sep) | 0.3% | 0.2% | 0.2% |
 | 20:30 | USD | Low | Core PPI (YoY) (Sep) | 2.7% | 2.3% | 2.5% |
-| 20:30 | USD | High | PPI (MoM) (Sep) | 0.5% | 0.3% | 0.7% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) | 2.8% | 3.0% | 2.9% |
 | 20:30 | USD | Low | PPI (YoY) (Sep) | 2.2% | 1.6% | 2.0% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) | 0.2% | 0.2% | 0.2% |
+| 20:30 | USD | High | PPI (MoM) (Sep) | 0.5% | 0.3% | 0.7% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Aug) | 3.4% | 0.5% | -3.8% |
 | 22:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 44 min | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
-| 44 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
-| 44 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
-| 44 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) |  |  | 56.97 |
+| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) | 52.02 |  | 52.02 |
+| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 45.56 |  | 47.66 |
+| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 58.46 |  | 55.09 |
+| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Oct) | 58.46 |  | 56.97 |
