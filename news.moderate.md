@@ -9,7 +9,7 @@
 | 06:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 08:30 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 14:00 | EUR | German CPI (YoY) (Sep) | 4.5% | 4.5% | 6.1% |
-| 16:00 | CNY | New Loans |  | 2,500.0B | 1,360.0B |
+| 45 min | CNY | New Loans |  | 2,500.0B | 1,360.0B |
 | 16:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 20:00 | BRL | CPI (YoY) (Sep) |  | 5.27% | 4.61% |

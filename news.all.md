@@ -20,12 +20,12 @@
 | 14:00 | EUR | Low | German HICP (YoY) (Sep) | 4.3% | 4.3% | 6.4% |
 | 14:00 | EUR | Low | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -11.2% |  | -17.5% |
-| 16:00 | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
-| 16:00 | EUR | Low | Italian Industrial Production (MoM) |  |  | -0.7% |
-| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
-| 16:00 | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
-| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
-| 16:00 | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
+| 45 min | EUR | Low | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
+| 45 min | EUR | Low | Italian Industrial Production (MoM) |  |  | -0.7% |
+| 45 min | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
+| 45 min | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
+| 45 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
+| 45 min | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
 | 16:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 17:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.402% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
@@ -42,10 +42,10 @@
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | 0.7% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | 0.5% | -1.5% |
 | 22:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |

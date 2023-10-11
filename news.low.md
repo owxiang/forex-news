@@ -12,11 +12,11 @@
 | 14:00 | EUR | German HICP (YoY) (Sep) | 4.3% | 4.3% | 6.4% |
 | 14:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
 | 14:00 | JPY | Machine Tool Orders (YoY) | -11.2% |  | -17.5% |
-| 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
-| 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
-| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
-| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
-| 16:00 | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
+| 45 min | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
+| 45 min | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
+| 45 min | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
+| 45 min | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
+| 45 min | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.402% |
 | 17:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.873% |
 | 17:30 | EUR | German 30-Year Bund Auction |  |  | 2.790% |
@@ -29,9 +29,9 @@
 | 20:00 | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
 | 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
