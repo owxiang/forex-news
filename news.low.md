@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | BRL | Foreign Exchange Flows |  |  | 3.123B |
+| 01:30 | BRL | Foreign Exchange Flows | 5.546B | -3.376B | -1.671B |
 | 05:45 | NZD | FPI (MoM) (Sep) |  |  | 0.5% |
 | 07:30 | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
 | 07:50 | JPY | Bank Lending (YoY) (Sep) |  | 3.1% | 3.1% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Aug) |  | 0.4% | -1.1% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Aug) |  | -7.3% | -13.0% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Aug) |  | 0.4% | -1.1% |
 | 07:50 | JPY | PPI (YoY) (Sep) |  | 2.3% | 3.2% |
 | 07:50 | JPY | PPI (MoM) (Sep) |  | 0.1% | 0.3% |
 | 08:00 | AUD | MI Inflation Expectations |  |  | 4.6% |
@@ -34,8 +34,8 @@
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.22 |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Aug) |  | 2.3% | 2.3% |
-| 20:00 | MXN | Industrial Production (MoM) (Aug) |  |  | 0.5% |
 | 20:00 | MXN | Industrial Production (YoY) (Aug) |  | 4.9% | 4.8% |
+| 20:00 | MXN | Industrial Production (MoM) (Aug) |  |  | 0.5% |
 | 20:00 | INR | Cumulative Industrial Production (Aug) |  |  | 4.80% |
 | 20:00 | INR | Industrial Production (YoY) (Aug) |  | 9.0% | 5.7% |
 | 20:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
