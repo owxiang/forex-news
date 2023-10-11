@@ -14,5 +14,5 @@
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 20:00 | BRL | CPI (YoY) (Sep) |  | 5.27% | 4.61% |
 | 20:30 | USD | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
-| 20:30 | CAD | Building Permits (MoM) (Aug) |  | -0.8% | -1.5% |
+| 20:30 | CAD | Building Permits (MoM) (Aug) |  | 0.5% | -1.5% |
 | 22:15 | USD | Fed Waller Speaks |  |  |  |

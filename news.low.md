@@ -7,15 +7,15 @@
 | 05:45 | NZD | Visitor Arrivals (MoM) | -4.1% |  | 1.8% |
 | 07:00 | KRW | Current Account (Aug) | 4.81B |  | 3.74B |
 | 07:00 | JPY | Reuters Tankan Index (Oct) | 4 |  | 4 |
-| 19 min | JPY | 5-Year JGB Auction |  |  | 0.291% |
-| 44 min | IDR | Motorbike Sales (YoY) (Sep) | -0.90% |  | 1.80% |
-| 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
+| 09:00 | IDR | Car Sales (YoY) | -20.10% |  | -8.30% |
+| 11:35 | JPY | 5-Year JGB Auction | 0.330% |  | 0.291% |
 | 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
+| 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
-| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.6% | 10.6% |
-| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.2% | 11.1% |
+| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
+| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
 | 17:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.402% |
 | 17:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.873% |
