@@ -5,12 +5,11 @@
 | 05:45 | NZD | External Migration & Visitors (Aug) | 59.40% |  | 59.30% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Aug) | 9,980 |  | 6,440 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | -4.1% |  | 1.8% |
-| 07:00 | KRW | Current Account (Aug) |  |  | 3.58B |
-| 07:00 | JPY | Reuters Tankan Index (Oct) |  |  | 4 |
-| 15 min | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
+| 07:00 | KRW | Current Account (Aug) | 4.81B |  | 3.74B |
+| 07:00 | JPY | Reuters Tankan Index (Oct) | 4 |  | 4 |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.291% |
-| 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
 | 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
+| 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
