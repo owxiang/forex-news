@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 46 min | USD | FOMC Meeting Minutes |  |  |  |
 | 14:00 | GBP | GDP (MoM) (Aug) |  | 0.2% | -0.5% |
 | 20:30 | USD | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 20:30 | USD | CPI (YoY) (Sep) |  | 3.6% | 3.7% |

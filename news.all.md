@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 00:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 40 min | USD | Moderate | 10-Year Note Auction |  |  | 4.289% |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.123B |
-| 02:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 01:00 | USD | Moderate | 10-Year Note Auction | 4.610% |  | 4.289% |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 3.123B |
+| 46 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.300M | -4.210M |
 | 05:45 | NZD | Low | FPI (MoM) (Sep) |  |  | 0.5% |
 | 07:01 | GBP | Moderate | RICS House Price Balance (Sep) |  | -63% | -68% |

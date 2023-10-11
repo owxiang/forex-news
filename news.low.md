@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.123B |
+| 16 min | BRL | Foreign Exchange Flows |  |  | 3.123B |
 | 05:45 | NZD | FPI (MoM) (Sep) |  |  | 0.5% |
 | 07:30 | AUD | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
 | 07:50 | JPY | Bank Lending (YoY) (Sep) |  | 3.1% | 3.1% |

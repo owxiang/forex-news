@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 00:15 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 40 min | USD | 10-Year Note Auction |  |  | 4.289% |
+| 01:00 | USD | 10-Year Note Auction | 4.610% |  | 4.289% |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | 1.300M | -4.210M |
 | 07:01 | GBP | RICS House Price Balance (Sep) |  | -63% | -68% |
 | 09:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
