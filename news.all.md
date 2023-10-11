@@ -13,8 +13,8 @@
 | 07:00 | KRW | Low | Current Account (Aug) | 4.81B |  | 3.74B |
 | 07:00 | JPY | Low | Reuters Tankan Index (Oct) | 4 |  | 4 |
 | 08:30 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.291% |
-| 12:00 | IDR | Low | Motorbike Sales (YoY) (Sep) | -0.90% |  | 1.80% |
+| 19 min | JPY | Low | 5-Year JGB Auction |  |  | 0.291% |
+| 44 min | IDR | Low | Motorbike Sales (YoY) (Sep) | -0.90% |  | 1.80% |
 | 14:00 | EUR | Moderate | German CPI (YoY) (Sep) |  | 4.5% | 6.1% |
 | 14:00 | EUR | High | German CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 14:00 | EUR | Low | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
@@ -42,10 +42,10 @@
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | 0.7% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | -0.8% | -1.5% |
 | 22:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |

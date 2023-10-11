@@ -7,8 +7,8 @@
 | 05:45 | NZD | Visitor Arrivals (MoM) | -4.1% |  | 1.8% |
 | 07:00 | KRW | Current Account (Aug) | 4.81B |  | 3.74B |
 | 07:00 | JPY | Reuters Tankan Index (Oct) | 4 |  | 4 |
-| 11:35 | JPY | 5-Year JGB Auction |  |  | 0.291% |
-| 12:00 | IDR | Motorbike Sales (YoY) (Sep) | -0.90% |  | 1.80% |
+| 19 min | JPY | 5-Year JGB Auction |  |  | 0.291% |
+| 44 min | IDR | Motorbike Sales (YoY) (Sep) | -0.90% |  | 1.80% |
 | 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
 | 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
@@ -29,9 +29,9 @@
 | 20:00 | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
 | 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
