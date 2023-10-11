@@ -11,8 +11,8 @@
 | 07:50 | JPY | PPI (YoY) (Sep) |  | 2.3% | 3.2% |
 | 07:50 | JPY | PPI (MoM) (Sep) |  | 0.1% | 0.3% |
 | 08:00 | AUD | MI Inflation Expectations |  |  | 4.6% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
 | 14:00 | GBP | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
+| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
 | 14:00 | GBP | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
 | 14:00 | GBP | Index of Services |  | 0.2% | 0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
@@ -32,8 +32,8 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 45.48 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.73 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.22 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Aug) |  | 2.3% | 2.3% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
 | 20:00 | MXN | Industrial Production (YoY) (Aug) |  | 4.9% | 4.8% |
 | 20:00 | MXN | Industrial Production (MoM) (Aug) |  |  | 0.5% |
 | 20:00 | INR | Cumulative Industrial Production (Aug) |  |  | 4.80% |
