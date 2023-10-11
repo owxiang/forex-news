@@ -26,20 +26,20 @@
 | 17:20 | EUR | Low | Italian 12-Month BOT Auction | 3.942% |  | 3.873% |
 | 17:30 | EUR | Low | German 30-Year Bund Auction | 2.890% |  | 2.790% |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.53% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.0% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 136.6 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 178.2 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 384.6 |
-| 20:00 | BRL | Moderate | CPI (YoY) (Sep) |  | 5.27% | 4.61% |
-| 20:00 | BRL | Low | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
-| 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.67% |  | 7.53% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.6% |  | -6.0% |
+| 19:00 | USD | Low | MBA Purchase Index | 137.5 |  | 136.6 |
+| 19:00 | USD | Low | Mortgage Market Index | 179.3 |  | 178.2 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 385.8 |  | 384.6 |
+| 47 min | BRL | Moderate | CPI (YoY) (Sep) |  | 5.27% | 4.61% |
+| 47 min | BRL | Low | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
+| 47 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Moderate | Core PPI (MoM) (Sep) |  | 0.2% | 0.2% |
 | 20:30 | USD | Low | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
-| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
-| 20:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
 | 20:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | High | PPI (MoM) (Sep) |  | 0.3% | 0.7% |
+| 20:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
+| 20:30 | USD | Low | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
 | 20:30 | CAD | Moderate | Building Permits (MoM) (Aug) |  | 0.5% | -1.5% |
 | 22:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |

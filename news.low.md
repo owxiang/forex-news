@@ -16,17 +16,17 @@
 | 17:20 | EUR | Italian 12-Month BOT Auction | 3.942% |  | 3.873% |
 | 17:30 | EUR | German 30-Year Bund Auction | 2.890% |  | 2.790% |
 | 18:00 | USD | IMF Meetings |  |  |  |
-| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.53% |
-| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -6.0% |
-| 43 min | USD | MBA Purchase Index |  |  | 136.6 |
-| 43 min | USD | Mortgage Market Index |  |  | 178.2 |
-| 43 min | USD | Mortgage Refinance Index |  |  | 384.6 |
-| 20:00 | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
-| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
+| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.67% |  | 7.53% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) | 0.6% |  | -6.0% |
+| 19:00 | USD | MBA Purchase Index | 137.5 |  | 136.6 |
+| 19:00 | USD | Mortgage Market Index | 179.3 |  | 178.2 |
+| 19:00 | USD | Mortgage Refinance Index | 385.8 |  | 384.6 |
+| 47 min | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
+| 47 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
 | 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
