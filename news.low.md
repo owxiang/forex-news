@@ -9,9 +9,9 @@
 | 07:00 | JPY | Reuters Tankan Index (Oct) | 4 |  | 4 |
 | 09:00 | IDR | Car Sales (YoY) | -20.10% |  | -8.30% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.330% |  | 0.291% |
-| 46 min | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
-| 46 min | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
-| 46 min | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
+| 14:00 | EUR | German HICP (YoY) (Sep) | 4.3% | 4.3% | 6.4% |
+| 14:00 | EUR | German HICP (MoM) (Sep) | 0.2% | 0.2% | 0.4% |
+| 14:00 | JPY | Machine Tool Orders (YoY) | -11.2% |  | -17.5% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
