@@ -9,9 +9,9 @@
 | 07:00 | JPY | Reuters Tankan Index (Oct) | 4 |  | 4 |
 | 09:00 | IDR | Car Sales (YoY) | -20.10% |  | -8.30% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.330% |  | 0.291% |
-| 14:00 | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
-| 14:00 | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
-| 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
+| 46 min | EUR | German HICP (MoM) (Sep) |  | 0.2% | 0.4% |
+| 46 min | EUR | German HICP (YoY) (Sep) |  | 4.3% | 6.4% |
+| 46 min | JPY | Machine Tool Orders (YoY) |  |  | -17.6% |
 | 16:00 | EUR | Italian Industrial Production (YoY) (Aug) |  |  | -2.1% |
 | 16:00 | EUR | Italian Industrial Production (MoM) |  |  | -0.7% |
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
@@ -29,9 +29,9 @@
 | 20:00 | BRL | CPI (MoM) (Sep) |  | 0.34% | 0.23% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Sep) |  |  | 0.30% |
 | 20:30 | USD | Core PPI (YoY) (Sep) |  | 2.3% | 2.2% |
-| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 20:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Sep) |  |  | 3.0% |
 | 20:30 | USD | PPI (YoY) (Sep) |  | 1.6% | 1.6% |
+| 20:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Oct) |  |  | 52.02 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.66 |
 | 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 55.09 |
