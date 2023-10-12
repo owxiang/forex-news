@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | USD | 30-Year Bond Auction |  |  | 4.345% |
+| 01:00 | USD | 30-Year Bond Auction | 4.837% |  | 4.345% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.241T |
 | 05:45 | NZD | Electronic Card Retail Sales (YoY) (Sep) |  |  | 3.7% |
 | 07:00 | KRW | Unemployment Rate (Sep) |  |  | 2.4% |
@@ -24,8 +24,8 @@
 | 14:30 | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
+| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | French CPI (YoY) |  | 4.9% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
