@@ -10,23 +10,22 @@
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 12.940M | 1.300M | -4.210M |
 | 05:45 | NZD | Low | FPI (MoM) (Sep) | -0.4% |  | 0.5% |
 | 07:01 | GBP | Moderate | RICS House Price Balance (Sep) | -69% | -63% | -68% |
-| 15 min | AUD | Low | Westpac Consumer Sentiment (Oct) |  |  | -1.5% |
-| 35 min | JPY | Low | Bank Lending (YoY) (Sep) |  | 3.1% | 3.1% |
-| 35 min | JPY | Low | Core Machinery Orders (YoY) (Aug) |  | -7.3% | -13.0% |
-| 35 min | JPY | Low | Core Machinery Orders (MoM) (Aug) |  | 0.4% | -1.1% |
-| 35 min | JPY | Low | PPI (YoY) (Sep) |  | 2.3% | 3.2% |
-| 35 min | JPY | Low | PPI (MoM) (Sep) |  | 0.1% | 0.3% |
-| 45 min | AUD | Low | MI Inflation Expectations |  |  | 4.6% |
-| 09:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 14:00 | GBP | Low | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
+| 07:50 | JPY | Low | Bank Lending (YoY) (Sep) | 2.9% | 3.1% | 3.1% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Aug) | -0.5% | 0.4% | -1.1% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Aug) | -7.7% | -7.3% | -13.0% |
+| 07:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
+| 07:50 | JPY | Low | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
+| 08:00 | AUD | Low | MI Inflation Expectations | 4.8% |  | 4.6% |
+| 24 min | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
+| 14:00 | GBP | Low | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
 | 14:00 | GBP | High | GDP (MoM) (Aug) |  | 0.2% | -0.5% |
 | 14:00 | GBP | Low | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
 | 14:00 | GBP | Low | Index of Services |  | 0.2% | 0.1% |
-| 14:00 | GBP | Low | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
 | 14:00 | GBP | Moderate | Industrial Production (MoM) (Aug) |  | -0.2% | -0.7% |
-| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | -0.4% | -0.8% |
+| 14:00 | GBP | Low | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
 | 14:00 | GBP | Low | Manufacturing Production (YoY) (Aug) |  | 3.4% | 3.0% |
+| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
 | 14:00 | GBP | Moderate | Trade Balance (Aug) |  | -15.20B | -14.06B |
 | 14:00 | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -2.36B |
@@ -53,12 +52,12 @@
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.22 |
 | 19:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 19:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  | 2.3% | 2.3% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) |  | 2.3% | 2.3% |
 | 19:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 20:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.2% |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | 4.9% | 4.8% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Aug) |  |  | 0.5% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | 4.9% | 4.8% |
 | 20:00 | INR | Moderate | CPI (YoY) (Sep) |  | 5.50% | 6.83% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Aug) |  |  | 4.80% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Aug) |  | 9.0% | 5.7% |
