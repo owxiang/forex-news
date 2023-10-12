@@ -17,8 +17,8 @@
 | 07:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.8% |  | 4.6% |
 | 09:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
+| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | -0.6% |
 | 14:00 | GBP | Low | GDP (YoY) (Aug) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | Low | Index of Services | 0.1% | 0.1% | -0.1% |
@@ -29,17 +29,17 @@
 | 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 14:00 | GBP | Moderate | Trade Balance (Aug) | -15.95B | -14.70B | -13.91B |
 | 14:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -4.90B |  | -2.65B |
-| 26 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 46 min | USD | Moderate | IEA Monthly Report |  |  |  |
-| 46 min | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
-| 46 min | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
-| 46 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
-| 46 min | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
-| 16:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 17:00 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 17:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 17:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.86% |
-| 17:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
+| 15:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 10 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 40 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 40 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 40 min | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
+| 40 min | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
+| 40 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
+| 40 min | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
+| 50 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.86% |
+| 50 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
 | Tentative | ZAR | Low | Business Confidence (Aug) |  |  | 107.3 |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Aug) |  |  | 12.9% |
 | 17:30 | ZAR | Low | Mining Production (Aug) |  | -2.0% | -3.6% |
@@ -56,8 +56,8 @@
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
 | 19:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 20:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.2% |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | 4.6% | 4.8% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.3% | 0.5% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Aug) |  | 4.6% | 4.8% |
 | 20:00 | INR | Moderate | CPI (YoY) (Sep) |  | 5.50% | 6.83% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Aug) |  |  | 4.80% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Aug) |  | 9.0% | 5.7% |

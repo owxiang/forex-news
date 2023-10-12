@@ -13,12 +13,12 @@
 | 14:00 | GBP | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
 | 14:00 | GBP | Trade Balance (Aug) | -15.95B | -14.70B | -13.91B |
 | 14:00 | GBP | Trade Balance Non-EU (Aug) | -4.90B |  | -2.65B |
-| 26 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 46 min | USD | IEA Monthly Report |  |  |  |
-| 46 min | CNY | New Loans |  | 2,500.0B | 1,360.0B |
-| 16:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 17:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 17:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 15:40 | EUR | ECB's Elderson Speaks |  |  |  |
+| 16:00 | USD | IEA Monthly Report |  |  |  |
+| 10 min | GBP | BOE Credit Conditions Survey |  |  |  |
+| 40 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 40 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 40 min | CNY | New Loans |  | 2,500.0B | 1,360.0B |
 | 19:00 | USD | OPEC Monthly Report |  |  |  |
 | 19:00 | EUR | ECB's Panetta Speaks |  |  |  |
 | 19:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
