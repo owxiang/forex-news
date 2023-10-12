@@ -5,7 +5,7 @@
 | 02:00 | USD | FOMC Meeting Minutes |  |  |  |
 | 14:00 | GBP | GDP (MoM) (Aug) |  | 0.2% | -0.5% |
 | 20:30 | USD | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
-| 20:30 | USD | CPI (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | CPI (YoY) (Sep) |  | 3.6% | 3.7% |
+| 20:30 | USD | CPI (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | Initial Jobless Claims |  | 210K | 207K |
-| 23:00 | USD | Crude Oil Inventories |  |  | -2.224M |
+| 23:00 | USD | Crude Oil Inventories |  | 0.492M | -2.224M |

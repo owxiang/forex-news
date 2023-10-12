@@ -11,7 +11,7 @@
 | 14:00 | GBP | Industrial Production (MoM) (Aug) |  | -0.2% | -0.7% |
 | 14:00 | GBP | Manufacturing Production (MoM) (Aug) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
-| 14:00 | GBP | Trade Balance (Aug) |  | -15.20B | -14.06B |
+| 14:00 | GBP | Trade Balance (Aug) |  | -14.70B | -14.06B |
 | 14:00 | GBP | Trade Balance Non-EU (Aug) |  |  | -2.36B |
 | 15:40 | EUR | ECB's Elderson Speaks |  |  |  |
 | 16:00 | USD | IEA Monthly Report |  |  |  |
