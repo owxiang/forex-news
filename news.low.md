@@ -24,8 +24,8 @@
 | 14:30 | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
 | 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
+| 14:45 | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
 | 14:45 | EUR | French CPI (YoY) |  | 4.9% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |

@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | WASDE Report |  |  |  |
 | 01:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 46 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 39 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 7,956B |
 | 05:30 | NZD | Business NZ PMI (Sep) |  |  | 46.1 |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |

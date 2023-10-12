@@ -5,7 +5,7 @@
 | 00:00 | USD | Moderate | WASDE Report |  |  |  |
 | 01:00 | USD | Low | 30-Year Bond Auction | 4.837% |  | 4.345% |
 | 01:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 46 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 39 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,956B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.241T |
 | 05:30 | NZD | Moderate | Business NZ PMI (Sep) |  |  | 46.1 |
@@ -40,8 +40,8 @@
 | 14:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.60% | -0.52% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | Low | CPI NSA (YoY) (Sep) |  |  | 4.90% |
 | 14:45 | EUR | Low | CPI NSA (MoM) (Sep) |  |  | -0.50% |
+| 14:45 | EUR | Low | CPI NSA (YoY) (Sep) |  |  | 4.90% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
 | 14:45 | EUR | Low | French CPI (YoY) |  | 4.9% | 4.9% |
 | 14:45 | EUR | Low | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
@@ -64,8 +64,8 @@
 | 20:20 | INR | Low | Exports (USD) |  |  | 34.48B |
 | 20:20 | INR | Low | Imports (USD) |  |  | 58.64B |
 | 20:20 | INR | Low | Trade Balance |  | -23.20B | -24.16B |
-| 20:30 | USD | Low | Export Price Index (YoY) |  |  | -5.5% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.5% | 1.3% |
+| 20:30 | USD | Low | Export Price Index (YoY) |  |  | -5.5% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  |  | -3.0% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.5% | 0.5% |
 | 21:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
