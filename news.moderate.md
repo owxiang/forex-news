@@ -20,9 +20,9 @@
 | 17:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 19:00 | USD | OPEC Monthly Report |  |  |  |
 | 19:00 | EUR | ECB's Panetta Speaks |  |  |  |
-| 17 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 47 min | GBP | NIESR Monthly GDP Tracker |  |  | 0.2% |
-| 47 min | INR | CPI (YoY) (Sep) |  | 5.50% | 6.83% |
-| 20:30 | USD | Core CPI (YoY) (Sep) |  | 4.1% | 4.3% |
+| 19:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 20:00 | GBP | NIESR Monthly GDP Tracker | -0.1% |  | 0.3% |
+| 20:00 | INR | CPI (YoY) (Sep) | 5.02% | 5.50% | 6.83% |
+| 20:30 | USD | Core CPI (YoY) (Sep) | 4.1% | 4.1% | 4.3% |
 | 23:00 | USD | Cushing Crude Oil Inventories |  |  | 0.132M |
 | 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |

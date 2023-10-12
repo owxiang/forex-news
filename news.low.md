@@ -10,8 +10,8 @@
 | 07:50 | JPY | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
 | 07:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.8% |  | 4.6% |
-| 14:00 | GBP | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
+| 14:00 | GBP | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
 | 14:00 | GBP | GDP (YoY) (Aug) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | Index of Services | 0.1% | 0.1% | -0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Aug) | 1.3% | 1.7% | 1.0% |
@@ -29,21 +29,21 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) | 43.27 |  | 45.48 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 46.94 |  | 47.73 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 44.08 |  | 46.22 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Aug) | 0.5% | 0.8% | -1.6% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Aug) | 0.5% | 0.8% | -1.7% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Aug) | 1.6% | 2.3% | 2.3% |
-| 47 min | MXN | Industrial Production (MoM) (Aug) |  | 0.3% | 0.5% |
-| 47 min | MXN | Industrial Production (YoY) (Aug) |  | 4.6% | 4.8% |
-| 47 min | INR | Cumulative Industrial Production (Aug) |  |  | 4.80% |
-| 47 min | INR | Industrial Production (YoY) (Aug) |  | 9.0% | 5.7% |
-| 47 min | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,680K | 1,664K |
+| 20:00 | MXN | Industrial Production (MoM) (Aug) | 0.3% | 0.3% | 0.5% |
+| 20:00 | MXN | Industrial Production (YoY) (Aug) | 5.2% | 4.6% | 4.8% |
+| 20:00 | INR | Cumulative Industrial Production (Aug) | 6.10% |  | 4.80% |
+| 20:00 | INR | Industrial Production (YoY) (Aug) | 10.3% | 9.0% | 5.7% |
+| 20:00 | INR | Manufacturing Output (MoM) (Aug) | 9.3% |  | 5.0% |
+| 20:30 | USD | Continuing Jobless Claims | 1,702K | 1,680K | 1,672K |
 | 20:30 | USD | Core CPI Index (Sep) |  |  | 309.66 |
-| 20:30 | USD | CPI Index, n.s.a. (Sep) |  | 307.39 | 307.03 |
+| 20:30 | USD | CPI Index, n.s.a. (Sep) | 307.79 | 307.39 | 307.03 |
 | 20:30 | USD | CPI Index, s.a (Sep) |  |  | 306.27 |
-| 20:30 | USD | CPI, n.s.a (MoM) (Sep) |  |  | 0.44% |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 208.75K |
-| 20:30 | USD | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 21:00 | EUR | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
+| 20:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.44% |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 206.25K |  | 209.25K |
+| 20:30 | USD | Real Earnings (MoM) (Sep) | -0.2% |  | -0.1% |
+| 29 min | EUR | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
 | 22:30 | USD | Natural Gas Storage |  |  | 86B |
 | 23:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |

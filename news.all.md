@@ -17,8 +17,8 @@
 | 07:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.8% |  | 4.6% |
 | 09:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 14:00 | GBP | Low | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
 | 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
+| 14:00 | GBP | Low | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
 | 14:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | -0.6% |
 | 14:00 | GBP | Low | GDP (YoY) (Aug) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | Low | Index of Services | 0.1% | 0.1% | -0.1% |
@@ -49,29 +49,29 @@
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 44.08 |  | 46.22 |
 | 19:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 19:00 | EUR | Moderate | ECB's Panetta Speaks |  |  |  |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | 0.5% | 0.8% | -1.6% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Aug) | 0.5% | 0.8% | -1.7% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Aug) | 1.6% | 2.3% | 2.3% |
-| 17 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 47 min | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.2% |
-| 47 min | MXN | Low | Industrial Production (MoM) (Aug) |  | 0.3% | 0.5% |
-| 47 min | MXN | Low | Industrial Production (YoY) (Aug) |  | 4.6% | 4.8% |
-| 47 min | INR | Moderate | CPI (YoY) (Sep) |  | 5.50% | 6.83% |
-| 47 min | INR | Low | Cumulative Industrial Production (Aug) |  |  | 4.80% |
-| 47 min | INR | Low | Industrial Production (YoY) (Aug) |  | 9.0% | 5.7% |
-| 47 min | INR | Low | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
-| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,680K | 1,664K |
-| 20:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
-| 20:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 4.1% | 4.3% |
+| 19:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 20:00 | GBP | Moderate | NIESR Monthly GDP Tracker | -0.1% |  | 0.3% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Aug) | 0.3% | 0.3% | 0.5% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Aug) | 5.2% | 4.6% | 4.8% |
+| 20:00 | INR | Moderate | CPI (YoY) (Sep) | 5.02% | 5.50% | 6.83% |
+| 20:00 | INR | Low | Cumulative Industrial Production (Aug) | 6.10% |  | 4.80% |
+| 20:00 | INR | Low | Industrial Production (YoY) (Aug) | 10.3% | 9.0% | 5.7% |
+| 20:00 | INR | Low | Manufacturing Output (MoM) (Aug) | 9.3% |  | 5.0% |
+| 20:30 | USD | Low | Continuing Jobless Claims | 1,702K | 1,680K | 1,672K |
+| 20:30 | USD | Moderate | Core CPI (YoY) (Sep) | 4.1% | 4.1% | 4.3% |
+| 20:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 20:30 | USD | Low | Core CPI Index (Sep) |  |  | 309.66 |
-| 20:30 | USD | High | CPI (MoM) (Sep) |  | 0.3% | 0.6% |
-| 20:30 | USD | High | CPI (YoY) (Sep) |  | 3.6% | 3.7% |
-| 20:30 | USD | Low | CPI Index, n.s.a. (Sep) |  | 307.39 | 307.03 |
+| 20:30 | USD | High | CPI (MoM) (Sep) | 0.4% | 0.3% | 0.6% |
+| 20:30 | USD | High | CPI (YoY) (Sep) | 3.7% | 3.6% | 3.7% |
+| 20:30 | USD | Low | CPI Index, n.s.a. (Sep) | 307.79 | 307.39 | 307.03 |
 | 20:30 | USD | Low | CPI Index, s.a (Sep) |  |  | 306.27 |
-| 20:30 | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.44% |
-| 20:30 | USD | High | Initial Jobless Claims |  | 210K | 207K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 208.75K |
-| 20:30 | USD | Low | Real Earnings (MoM) (Sep) |  |  | -0.1% |
-| 21:00 | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
+| 20:30 | USD | Low | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.44% |
+| 20:30 | USD | High | Initial Jobless Claims | 209K | 210K | 209K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 206.25K |  | 209.25K |
+| 20:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.2% |  | -0.1% |
+| 29 min | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
 | 22:30 | USD | Low | Natural Gas Storage |  |  | 86B |
 | 23:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | High | Crude Oil Inventories |  | 0.492M | -2.224M |
