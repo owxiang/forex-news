@@ -18,8 +18,8 @@
 | 16:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 17:00 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 17:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 19:00 | USD | OPEC Monthly Report |  |  |  |
-| 19:00 | EUR | ECB's Panetta Speaks |  |  |  |
+| 43 min | USD | OPEC Monthly Report |  |  |  |
+| 43 min | EUR | ECB's Panetta Speaks |  |  |  |
 | 19:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 20:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.2% |
 | 20:00 | INR | CPI (YoY) (Sep) |  | 5.50% | 6.83% |
