@@ -17,8 +17,8 @@
 | 07:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.8% |  | 4.6% |
 | 09:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | Low | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
+| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | -0.6% |
 | 14:00 | GBP | Low | GDP (YoY) (Aug) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | Low | Index of Services | 0.1% | 0.1% | -0.1% |
@@ -60,19 +60,19 @@
 | 20:00 | INR | Low | Industrial Production (YoY) (Aug) | 10.3% | 9.0% | 5.7% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Aug) | 9.3% |  | 5.0% |
 | 20:30 | USD | Low | Continuing Jobless Claims | 1,702K | 1,680K | 1,672K |
-| 20:30 | USD | Moderate | Core CPI (YoY) (Sep) | 4.1% | 4.1% | 4.3% |
 | 20:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
-| 20:30 | USD | Low | Core CPI Index (Sep) |  |  | 309.66 |
+| 20:30 | USD | Moderate | Core CPI (YoY) (Sep) | 4.1% | 4.1% | 4.3% |
+| 20:30 | USD | Low | Core CPI Index (Sep) | 310.66 |  | 309.66 |
 | 20:30 | USD | High | CPI (MoM) (Sep) | 0.4% | 0.3% | 0.6% |
 | 20:30 | USD | High | CPI (YoY) (Sep) | 3.7% | 3.6% | 3.7% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Sep) | 307.79 | 307.39 | 307.03 |
-| 20:30 | USD | Low | CPI Index, s.a (Sep) |  |  | 306.27 |
+| 20:30 | USD | Low | CPI Index, s.a (Sep) | 307.48 |  | 306.27 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.44% |
 | 20:30 | USD | High | Initial Jobless Claims | 209K | 210K | 209K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 206.25K |  | 209.25K |
 | 20:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.2% |  | -0.1% |
-| 29 min | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
-| 22:30 | USD | Low | Natural Gas Storage |  |  | 86B |
+| 25 min | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
+| 22:30 | USD | Low | Natural Gas Storage |  | 88B | 86B |
 | 23:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | High | Crude Oil Inventories |  | 0.492M | -2.224M |
 | 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |

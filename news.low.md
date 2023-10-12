@@ -10,8 +10,8 @@
 | 07:50 | JPY | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
 | 07:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.8% |  | 4.6% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
+| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | GDP (YoY) (Aug) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | Index of Services | 0.1% | 0.1% | -0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Aug) | 1.3% | 1.7% | 1.0% |
@@ -37,14 +37,14 @@
 | 20:00 | INR | Industrial Production (YoY) (Aug) | 10.3% | 9.0% | 5.7% |
 | 20:00 | INR | Manufacturing Output (MoM) (Aug) | 9.3% |  | 5.0% |
 | 20:30 | USD | Continuing Jobless Claims | 1,702K | 1,680K | 1,672K |
-| 20:30 | USD | Core CPI Index (Sep) |  |  | 309.66 |
+| 20:30 | USD | Core CPI Index (Sep) | 310.66 |  | 309.66 |
 | 20:30 | USD | CPI Index, n.s.a. (Sep) | 307.79 | 307.39 | 307.03 |
-| 20:30 | USD | CPI Index, s.a (Sep) |  |  | 306.27 |
+| 20:30 | USD | CPI Index, s.a (Sep) | 307.48 |  | 306.27 |
 | 20:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.44% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 206.25K |  | 209.25K |
 | 20:30 | USD | Real Earnings (MoM) (Sep) | -0.2% |  | -0.1% |
-| 29 min | EUR | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
-| 22:30 | USD | Natural Gas Storage |  |  | 86B |
+| 25 min | EUR | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
+| 22:30 | USD | Natural Gas Storage |  | 88B | 86B |
 | 23:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
 | 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |
 | 23:00 | USD | Crude Oil Imports |  |  | -1.958M |
