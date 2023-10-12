@@ -17,18 +17,18 @@
 | 07:50 | JPY | Low | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.8% |  | 4.6% |
 | 09:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 45 min | GBP | Low | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
-| 45 min | GBP | Low | U.K. Construction Output (YoY) (Aug) |  | 2.6% | 2.8% |
-| 45 min | GBP | High | GDP (MoM) (Aug) |  | 0.2% | -0.5% |
-| 45 min | GBP | Low | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
-| 45 min | GBP | Low | Index of Services |  | 0.2% | 0.1% |
-| 45 min | GBP | Moderate | Industrial Production (MoM) (Aug) |  | -0.2% | -0.7% |
-| 45 min | GBP | Low | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
-| 45 min | GBP | Low | Manufacturing Production (YoY) (Aug) |  | 3.4% | 3.0% |
-| 45 min | GBP | Moderate | Manufacturing Production (MoM) (Aug) |  | -0.4% | -0.8% |
-| 45 min | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |
-| 45 min | GBP | Moderate | Trade Balance (Aug) |  | -14.70B | -14.06B |
-| 45 min | GBP | Moderate | Trade Balance Non-EU (Aug) |  |  | -2.36B |
+| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
+| 14:00 | GBP | Low | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
+| 14:00 | GBP | High | GDP (MoM) (Aug) | 0.2% | 0.2% | -0.6% |
+| 14:00 | GBP | Low | GDP (YoY) (Aug) | 0.5% | 0.5% | 0.3% |
+| 14:00 | GBP | Low | Index of Services | 0.1% | 0.1% | -0.1% |
+| 14:00 | GBP | Moderate | Industrial Production (MoM) (Aug) | -0.7% | -0.2% | -1.1% |
+| 14:00 | GBP | Low | Industrial Production (YoY) (Aug) | 1.3% | 1.7% | 1.0% |
+| 14:00 | GBP | Moderate | Manufacturing Production (MoM) (Aug) | -0.8% | -0.4% | -1.2% |
+| 14:00 | GBP | Low | Manufacturing Production (YoY) (Aug) | 2.8% | 3.4% | 3.1% |
+| 14:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Aug) | 0.3% | 0.3% | 0.2% |
+| 14:00 | GBP | Moderate | Trade Balance (Aug) | -15.95B | -14.70B | -13.91B |
+| 14:00 | GBP | Moderate | Trade Balance Non-EU (Aug) | -4.90B |  | -2.65B |
 | 15:40 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 16:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
@@ -66,8 +66,8 @@
 | 20:30 | USD | High | Core CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Sep) |  | 4.1% | 4.3% |
 | 20:30 | USD | Low | Core CPI Index (Sep) |  |  | 309.66 |
-| 20:30 | USD | High | CPI (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | High | CPI (YoY) (Sep) |  | 3.6% | 3.7% |
+| 20:30 | USD | High | CPI (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | Low | CPI Index, n.s.a. (Sep) |  | 307.39 | 307.03 |
 | 20:30 | USD | Low | CPI Index, s.a (Sep) |  |  | 306.27 |
 | 20:30 | USD | Low | CPI, n.s.a (MoM) (Sep) |  |  | 0.44% |
