@@ -5,8 +5,8 @@
 | 00:00 | USD | Moderate | WASDE Report |  |  |  |
 | 01:00 | USD | Low | 30-Year Bond Auction | 4.837% |  | 4.345% |
 | 01:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,956B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.241T |
+| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,956B |
+| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.241T |
 | 05:30 | NZD | Moderate | Business NZ PMI (Sep) |  |  | 46.1 |
 | 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |
 | 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) |  |  | 3.7% |
@@ -17,8 +17,8 @@
 | 07:50 | JPY | Low | M3 Money Supply (Sep) |  |  | 2,114.6% |
 | 08:00 | SGD | Low | GDP (YoY) (Q3) |  | 0.4% | 0.5% |
 | 08:00 | SGD | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Sep) |  | 0.2% | 0.1% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Sep) |  | 0.3% | 0.3% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Sep) |  | 0.2% | 0.1% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Sep) |  | -2.4% | -3.0% |
 | 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 38.79 |
 | 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.21 |
@@ -33,16 +33,16 @@
 | 11:00 | CNY | Moderate | Trade Balance (USD) (Sep) |  | 70.00B | 68.36B |
 | 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | CHF | Moderate | PPI (MoM) (Sep) |  |  | -0.2% |
 | 14:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -0.8% |
+| 14:30 | CHF | Moderate | PPI (MoM) (Sep) |  |  | -0.2% |
 | 14:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.60% | -0.52% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | Low | CPI NSA (YoY) (Sep) |  |  | 4.90% |
 | 14:45 | EUR | Low | CPI NSA (MoM) (Sep) |  |  | -0.50% |
-| 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
+| 14:45 | EUR | Low | CPI NSA (YoY) (Sep) |  |  | 4.90% |
 | 14:45 | EUR | Low | French CPI (YoY) |  | 4.9% | 4.9% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.6% | -0.6% |
 | 14:45 | EUR | Low | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
