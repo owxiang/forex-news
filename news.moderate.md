@@ -7,7 +7,7 @@
 | 01:00 | USD | 10-Year Note Auction | 4.610% |  | 4.289% |
 | 04:30 | USD | API Weekly Crude Oil Stock | 12.940M | 1.300M | -4.210M |
 | 07:01 | GBP | RICS House Price Balance (Sep) | -69% | -63% | -68% |
-| 24 min | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 09:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 14:00 | GBP | Industrial Production (MoM) (Aug) |  | -0.2% | -0.7% |
 | 14:00 | GBP | Manufacturing Production (MoM) (Aug) |  | -0.4% | -0.8% |
 | 14:00 | GBP | Monthly GDP 3M/3M Change (Aug) |  | 0.3% | 0.2% |

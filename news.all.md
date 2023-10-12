@@ -16,9 +16,9 @@
 | 07:50 | JPY | Low | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 07:50 | JPY | Low | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.8% |  | 4.6% |
-| 24 min | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
-| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
+| 09:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 14:00 | GBP | Low | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
+| 14:00 | GBP | Low | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
 | 14:00 | GBP | High | GDP (MoM) (Aug) |  | 0.2% | -0.5% |
 | 14:00 | GBP | Low | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
 | 14:00 | GBP | Low | Index of Services |  | 0.2% | 0.1% |

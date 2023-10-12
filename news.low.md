@@ -10,8 +10,8 @@
 | 07:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 07:50 | JPY | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.8% |  | 4.6% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
 | 14:00 | GBP | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
+| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) |  |  | 2.8% |
 | 14:00 | GBP | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
 | 14:00 | GBP | Index of Services |  | 0.2% | 0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
