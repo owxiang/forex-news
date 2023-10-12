@@ -10,12 +10,12 @@
 | 07:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 07:50 | JPY | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.8% |  | 4.6% |
-| 14:00 | GBP | U.K. Construction Output (YoY) (Aug) |  | 2.6% | 2.8% |
-| 14:00 | GBP | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
-| 14:00 | GBP | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
-| 14:00 | GBP | Index of Services |  | 0.2% | 0.1% |
-| 14:00 | GBP | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
-| 14:00 | GBP | Manufacturing Production (YoY) (Aug) |  | 3.4% | 3.0% |
+| 45 min | GBP | Construction Output (MoM) (Aug) |  | 0.2% | -0.5% |
+| 45 min | GBP | U.K. Construction Output (YoY) (Aug) |  | 2.6% | 2.8% |
+| 45 min | GBP | GDP (YoY) (Aug) |  | 0.5% | 0.0% |
+| 45 min | GBP | Index of Services |  | 0.2% | 0.1% |
+| 45 min | GBP | Industrial Production (YoY) (Aug) |  | 1.7% | 0.4% |
+| 45 min | GBP | Manufacturing Production (YoY) (Aug) |  | 3.4% | 3.0% |
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
