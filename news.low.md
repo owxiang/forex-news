@@ -5,10 +5,10 @@
 | 01:30 | BRL | Foreign Exchange Flows | 5.546B | -3.376B | -1.671B |
 | 05:45 | NZD | FPI (MoM) (Sep) | -0.4% |  | 0.5% |
 | 07:50 | JPY | Bank Lending (YoY) (Sep) | 2.9% | 3.1% | 3.1% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Aug) | -0.5% | 0.4% | -1.1% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Aug) | -7.7% | -7.3% | -13.0% |
-| 07:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Aug) | -0.5% | 0.4% | -1.1% |
 | 07:50 | JPY | PPI (YoY) (Sep) | 2.0% | 2.3% | 3.3% |
+| 07:50 | JPY | PPI (MoM) (Sep) | -0.3% | 0.1% | 0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.8% |  | 4.6% |
 | 14:00 | GBP | U.K. Construction Output (YoY) (Aug) | 2.3% | 2.6% | 3.2% |
 | 14:00 | GBP | Construction Output (MoM) (Aug) | -0.5% | 0.2% | -0.4% |
@@ -16,9 +16,9 @@
 | 14:00 | GBP | Index of Services | 0.1% | 0.1% | -0.1% |
 | 14:00 | GBP | Industrial Production (YoY) (Aug) | 1.3% | 1.7% | 1.0% |
 | 14:00 | GBP | Manufacturing Production (YoY) (Aug) | 2.8% | 3.4% | 3.1% |
-| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
-| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
-| 16:00 | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
+| 46 min | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
+| 46 min | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
+| 46 min | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
 | 17:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.86% |
 | 17:10 | EUR | Italian 7-Year BTP Auction |  |  | 4.21% |
 | Tentative | ZAR | Business Confidence (Aug) |  |  | 107.3 |
@@ -31,10 +31,10 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Oct) |  |  | 45.48 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 47.73 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 46.22 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Aug) |  | 2.3% | 2.3% |
-| 20:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.3% | 0.5% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Aug) |  | 0.8% | -1.6% |
 | 20:00 | MXN | Industrial Production (YoY) (Aug) |  | 4.6% | 4.8% |
+| 20:00 | MXN | Industrial Production (MoM) (Aug) |  | 0.3% | 0.5% |
 | 20:00 | INR | Cumulative Industrial Production (Aug) |  |  | 4.80% |
 | 20:00 | INR | Industrial Production (YoY) (Aug) |  | 9.0% | 5.7% |
 | 20:00 | INR | Manufacturing Output (MoM) (Aug) |  |  | 4.6% |
