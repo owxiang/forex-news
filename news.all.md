@@ -7,10 +7,10 @@
 | 01:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 7,952B |  | 7,956B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.316T |  | 3.241T |
-| 17 min | NZD | Moderate | Business NZ PMI (Sep) |  |  | 46.1 |
-| 32 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |
-| 32 min | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) |  |  | 3.7% |
-| 07:00 | KRW | Low | Unemployment Rate (Sep) |  |  | 2.4% |
+| 05:30 | NZD | Moderate | Business NZ PMI (Sep) | 45.3 |  | 46.1 |
+| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Sep) | 1.6% |  | 4.2% |
+| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Sep) | -0.8% |  | 0.6% |
+| 45 min | KRW | Low | Unemployment Rate (Sep) |  |  | 2.4% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 297.1B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 71.0B |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.4% | 2.5% |
@@ -43,8 +43,8 @@
 | 14:45 | EUR | Low | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
 | 14:45 | EUR | Low | French CPI (YoY) |  | 4.9% | 4.9% |
-| 14:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.6% | -0.6% |
 | 14:45 | EUR | Low | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
+| 14:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.6% | -0.6% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Sep) |  |  | 6.1% |
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
@@ -56,8 +56,8 @@
 | 16:00 | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
-| 17:00 | EUR | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Aug) |  | -3.5% | -2.2% |
+| 17:00 | EUR | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 586.91B |
 | 20:20 | INR | Low | Exports (USD) |  |  | 34.48B |

@@ -5,8 +5,8 @@
 | 00:00 | USD | WASDE Report |  |  |  |
 | 01:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet | 7,952B |  | 7,956B |
-| 17 min | NZD | Business NZ PMI (Sep) |  |  | 46.1 |
-| 32 min | NZD | Electronic Card Retail Sales (MoM) (Sep) |  |  | 0.7% |
+| 05:30 | NZD | Business NZ PMI (Sep) | 45.3 |  | 46.1 |
+| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) | -0.8% |  | 0.6% |
 | 09:30 | CNY | CPI (MoM) (Sep) |  | 0.3% | 0.3% |
 | 09:30 | CNY | CPI (YoY) (Sep) |  | 0.2% | 0.1% |
 | 09:30 | CNY | PPI (YoY) (Sep) |  | -2.4% | -3.0% |

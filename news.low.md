@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 30-Year Bond Auction | 4.837% |  | 4.345% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.316T |  | 3.241T |
-| 32 min | NZD | Electronic Card Retail Sales (YoY) (Sep) |  |  | 3.7% |
-| 07:00 | KRW | Unemployment Rate (Sep) |  |  | 2.4% |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Sep) | 1.6% |  | 4.2% |
+| 45 min | KRW | Unemployment Rate (Sep) |  |  | 2.4% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 297.1B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 71.0B |
 | 07:50 | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.5% |
