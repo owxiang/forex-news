@@ -43,16 +43,16 @@
 | 20:30 | USD | CPI, n.s.a (MoM) (Sep) | 0.25% |  | 0.44% |
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 206.25K |  | 209.25K |
 | 20:30 | USD | Real Earnings (MoM) (Sep) | -0.2% |  | -0.1% |
-| 25 min | EUR | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
-| 22:30 | USD | Natural Gas Storage |  | 88B | 86B |
-| 23:00 | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
-| 23:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |
-| 23:00 | USD | Crude Oil Imports |  |  | -1.958M |
-| 23:00 | USD | Distillate Fuel Production |  |  | -0.243M |
-| 23:00 | USD | EIA Weekly Distillates Stocks |  | -0.802M | -1.269M |
-| 23:00 | USD | Gasoline Production |  |  | -0.313M |
-| 23:00 | USD | Heating Oil Stockpiles |  |  | -0.303M |
-| 23:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.2% |
-| 23:00 | USD | Gasoline Inventories |  | -0.800M | 6.481M |
+| 21:00 | EUR | German Current Account Balance n.s.a (Aug) | 16.6B |  | 18.7B |
+| 15 min | USD | Natural Gas Storage |  | 88B | 86B |
+| 45 min | USD | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
+| 45 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |
+| 45 min | USD | Crude Oil Imports |  |  | -1.958M |
+| 45 min | USD | Distillate Fuel Production |  |  | -0.243M |
+| 45 min | USD | EIA Weekly Distillates Stocks |  | -0.802M | -1.269M |
+| 45 min | USD | Gasoline Production |  |  | -0.313M |
+| 45 min | USD | Heating Oil Stockpiles |  |  | -0.303M |
+| 45 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.2% |
+| 45 min | USD | Gasoline Inventories |  | -0.800M | 6.481M |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.310% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.360% |

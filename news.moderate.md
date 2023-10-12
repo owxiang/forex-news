@@ -24,5 +24,5 @@
 | 20:00 | GBP | NIESR Monthly GDP Tracker | -0.1% |  | 0.3% |
 | 20:00 | INR | CPI (YoY) (Sep) | 5.02% | 5.50% | 6.83% |
 | 20:30 | USD | Core CPI (YoY) (Sep) | 4.1% | 4.1% | 4.3% |
-| 23:00 | USD | Cushing Crude Oil Inventories |  |  | 0.132M |
-| 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 45 min | USD | Cushing Crude Oil Inventories |  |  | 0.132M |
+| 45 min | MXN | Monetary Policy Meeting Minutes |  |  |  |

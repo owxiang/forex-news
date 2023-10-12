@@ -60,8 +60,8 @@
 | 20:00 | INR | Low | Industrial Production (YoY) (Aug) | 10.3% | 9.0% | 5.7% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Aug) | 9.3% |  | 5.0% |
 | 20:30 | USD | Low | Continuing Jobless Claims | 1,702K | 1,680K | 1,672K |
-| 20:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 20:30 | USD | Moderate | Core CPI (YoY) (Sep) | 4.1% | 4.1% | 4.3% |
+| 20:30 | USD | High | Core CPI (MoM) (Sep) | 0.3% | 0.3% | 0.3% |
 | 20:30 | USD | Low | Core CPI Index (Sep) | 310.66 |  | 309.66 |
 | 20:30 | USD | High | CPI (MoM) (Sep) | 0.4% | 0.3% | 0.6% |
 | 20:30 | USD | High | CPI (YoY) (Sep) | 3.7% | 3.6% | 3.7% |
@@ -71,19 +71,19 @@
 | 20:30 | USD | High | Initial Jobless Claims | 209K | 210K | 209K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 206.25K |  | 209.25K |
 | 20:30 | USD | Low | Real Earnings (MoM) (Sep) | -0.2% |  | -0.1% |
-| 25 min | EUR | Low | German Current Account Balance n.s.a (Aug) |  |  | 18.7B |
-| 22:30 | USD | Low | Natural Gas Storage |  | 88B | 86B |
-| 23:00 | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
-| 23:00 | USD | High | Crude Oil Inventories |  | 0.492M | -2.224M |
-| 23:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |
-| 23:00 | USD | Low | Crude Oil Imports |  |  | -1.958M |
-| 23:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.132M |
-| 23:00 | USD | Low | Distillate Fuel Production |  |  | -0.243M |
-| 23:00 | USD | Low | EIA Weekly Distillates Stocks |  | -0.802M | -1.269M |
-| 23:00 | USD | Low | Gasoline Production |  |  | -0.313M |
-| 23:00 | USD | Low | Heating Oil Stockpiles |  |  | -0.303M |
-| 23:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.2% |
-| 23:00 | USD | Low | Gasoline Inventories |  | -0.800M | 6.481M |
-| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 21:00 | EUR | Low | German Current Account Balance n.s.a (Aug) | 16.6B |  | 18.7B |
+| 15 min | USD | Low | Natural Gas Storage |  | 88B | 86B |
+| 45 min | USD | Low | Cleveland CPI (MoM) (Sep) |  |  | 0.3% |
+| 45 min | USD | High | Crude Oil Inventories |  | 0.492M | -2.224M |
+| 45 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.463M |
+| 45 min | USD | Low | Crude Oil Imports |  |  | -1.958M |
+| 45 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.132M |
+| 45 min | USD | Low | Distillate Fuel Production |  |  | -0.243M |
+| 45 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.802M | -1.269M |
+| 45 min | USD | Low | Gasoline Production |  |  | -0.313M |
+| 45 min | USD | Low | Heating Oil Stockpiles |  |  | -0.303M |
+| 45 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.2% |
+| 45 min | USD | Low | Gasoline Inventories |  | -0.800M | 6.481M |
+| 45 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.310% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.360% |

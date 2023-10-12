@@ -8,4 +8,4 @@
 | 20:30 | USD | CPI (MoM) (Sep) | 0.4% | 0.3% | 0.6% |
 | 20:30 | USD | CPI (YoY) (Sep) | 3.7% | 3.6% | 3.7% |
 | 20:30 | USD | Initial Jobless Claims | 209K | 210K | 209K |
-| 23:00 | USD | Crude Oil Inventories |  | 0.492M | -2.224M |
+| 45 min | USD | Crude Oil Inventories |  | 0.492M | -2.224M |
