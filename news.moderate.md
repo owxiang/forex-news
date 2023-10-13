@@ -20,9 +20,9 @@
 | 14:45 | EUR | French HICP (MoM) (Sep) | -0.6% | -0.6% | 1.1% |
 | 15:00 | EUR | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Spanish HICP (YoY) (Sep) | 3.3% | 3.2% | 2.4% |
-| 46 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 46 min | CNY | New Loans |  | 2,500.0B | 1,360.0B |
-| 17:00 | EUR | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |
+| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | CNY | New Loans (Sep) | 2,310.0B | 2,500.0B | 1,360.0B |
+| 40 min | EUR | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |
 | 20:30 | USD | Export Price Index (MoM) (Sep) |  | 0.5% | 1.3% |
 | 20:30 | USD | Import Price Index (MoM) (Sep) |  | 0.5% | 0.5% |
 | 21:00 | USD | FOMC Member Harker Speaks |  |  |  |

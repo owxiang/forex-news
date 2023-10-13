@@ -29,15 +29,15 @@
 | 15:00 | EUR | Core CPI (YoY) (Sep) | 5.8% |  | 6.1% |
 | 15:00 | EUR | Spanish CPI (MoM) (Sep) | 0.2% | 0.2% | 0.5% |
 | 15:00 | EUR | Spanish HICP (MoM) (Sep) | 0.6% | 0.6% | 0.5% |
-| 46 min | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
-| 46 min | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
-| 46 min | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
-| 17:00 | EUR | Industrial Production (YoY) (Aug) |  | -3.5% | -2.2% |
+| 16:00 | CNY | M2 Money Stock (YoY) (Sep) | 10.3% | 10.7% | 10.6% |
+| 16:00 | CNY | Outstanding Loan Growth (YoY) (Sep) | 10.9% | 11.1% | 11.1% |
+| 16:00 | CNY | Chinese Total Social Financing (Sep) | 4,120.0B | 3,800.0B | 3,120.0B |
+| 16:19 | INR | Exports (USD) (Sep) | 34.47B |  | 34.48B |
+| 16:19 | INR | Imports (USD) (Sep) | 53.84B |  | 58.64B |
+| 16:19 | INR | Trade Balance (Sep) | -19.37B | -23.25B | -24.16B |
+| 40 min | EUR | Industrial Production (YoY) (Aug) |  | -3.5% | -2.2% |
 | 18:00 | USD | IMF Meetings |  |  |  |
 | 19:30 | INR | FX Reserves, USD |  |  | 586.91B |
-| 20:20 | INR | Exports (USD) |  |  | 34.48B |
-| 20:20 | INR | Imports (USD) |  |  | 58.64B |
-| 20:20 | INR | Trade Balance |  | -23.25B | -24.16B |
 | 20:30 | USD | Export Price Index (YoY) |  |  | -5.5% |
 | 20:30 | USD | Import Price Index (YoY) |  |  | -3.0% |
 | 22:00 | USD | Michigan Current Conditions (Oct) |  | 70.4 | 71.4 |

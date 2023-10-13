@@ -47,20 +47,20 @@
 | 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.6% | 0.6% | 0.5% |
 | 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.3% | 3.2% | 2.4% |
-| 46 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 46 min | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
-| 46 min | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
-| 46 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
-| 46 min | CNY | Low | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |
-| 17:00 | EUR | Low | Industrial Production (YoY) (Aug) |  | -3.5% | -2.2% |
-| 17:00 | EUR | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |
+| 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | CNY | Low | M2 Money Stock (YoY) (Sep) | 10.3% | 10.7% | 10.6% |
+| 16:00 | CNY | Moderate | New Loans (Sep) | 2,310.0B | 2,500.0B | 1,360.0B |
+| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) (Sep) | 10.9% | 11.1% | 11.1% |
+| 16:00 | CNY | Low | Chinese Total Social Financing (Sep) | 4,120.0B | 3,800.0B | 3,120.0B |
+| 16:19 | INR | Low | Exports (USD) (Sep) | 34.47B |  | 34.48B |
+| 16:19 | INR | Low | Imports (USD) (Sep) | 53.84B |  | 58.64B |
+| 16:19 | INR | Low | Trade Balance (Sep) | -19.37B | -23.25B | -24.16B |
+| 40 min | EUR | Moderate | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |
+| 40 min | EUR | Low | Industrial Production (YoY) (Aug) |  | -3.5% | -2.2% |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 586.91B |
-| 20:20 | INR | Low | Exports (USD) |  |  | 34.48B |
-| 20:20 | INR | Low | Imports (USD) |  |  | 58.64B |
-| 20:20 | INR | Low | Trade Balance |  | -23.25B | -24.16B |
-| 20:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.5% | 1.3% |
 | 20:30 | USD | Low | Export Price Index (YoY) |  |  | -5.5% |
+| 20:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.5% | 1.3% |
 | 20:30 | USD | Low | Import Price Index (YoY) |  |  | -3.0% |
 | 20:30 | USD | Moderate | Import Price Index (MoM) (Sep) |  | 0.5% | 0.5% |
 | 21:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
