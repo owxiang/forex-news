@@ -25,9 +25,9 @@
 | 17:00 | EUR | Industrial Production (MoM) (Aug) | 0.6% | 0.1% | -1.1% |
 | 20:30 | USD | Export Price Index (MoM) (Sep) | 0.7% | 0.5% | 1.1% |
 | 20:30 | USD | Import Price Index (MoM) (Sep) | 0.1% | 0.5% | 0.6% |
-| 29 min | USD | FOMC Member Harker Speaks |  |  |  |
-| 29 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 3.2% |
-| 22:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 2.8% |
-| 22:00 | USD | Michigan Consumer Expectations (Oct) |  | 65.5 | 66.0 |
-| 22:00 | USD | Michigan Consumer Sentiment (Oct) |  | 67.2 | 68.1 |
+| 21:00 | USD | FOMC Member Harker Speaks |  |  |  |
+| 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 39 min | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 3.2% |
+| 39 min | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 2.8% |
+| 39 min | USD | Michigan Consumer Expectations (Oct) |  | 65.5 | 66.0 |
+| 39 min | USD | Michigan Consumer Sentiment (Oct) |  | 67.2 | 68.1 |
