@@ -1,33 +1,20 @@
-## 13 October 2023 - Moderate Impact Forex News
+## 14 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | WASDE Report |  |  |  |
-| 01:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet | 7,952B |  | 7,956B |
-| 05:30 | NZD | Business NZ PMI (Sep) | 45.3 |  | 46.1 |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) | -0.8% |  | 0.6% |
-| 09:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
-| 09:30 | CNY | CPI (YoY) (Sep) | 0.0% | 0.2% | 0.1% |
-| 09:30 | CNY | PPI (YoY) (Sep) | -2.5% | -2.4% | -3.0% |
-| 11:00 | CNY | Exports (YoY) (Sep) | -6.2% | -7.6% | -8.8% |
-| 11:00 | CNY | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
-| 11:00 | CNY | Trade Balance (USD) (Sep) | 77.71B | 70.00B | 68.36B |
-| 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | CHF | PPI (MoM) (Sep) | -0.1% | 0.2% | -0.2% |
-| 14:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:45 | EUR | French CPI (MoM) (Sep) | -0.5% | -0.5% | 1.0% |
-| 14:45 | EUR | French HICP (MoM) (Sep) | -0.6% | -0.6% | 1.1% |
-| 15:00 | EUR | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
-| 15:00 | EUR | Spanish HICP (YoY) (Sep) | 3.3% | 3.2% | 2.4% |
-| 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:00 | CNY | New Loans (Sep) | 2,310.0B | 2,500.0B | 1,360.0B |
-| 17:00 | EUR | Industrial Production (MoM) (Aug) | 0.6% | 0.1% | -1.1% |
-| 20:30 | USD | Export Price Index (MoM) (Sep) | 0.7% | 0.5% | 1.1% |
-| 20:30 | USD | Import Price Index (MoM) (Sep) | 0.1% | 0.5% | 0.6% |
-| 21:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) | 3.8% | 3.2% | 3.2% |
-| 22:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 2.8% | 2.8% |
-| 22:00 | USD | Michigan Consumer Expectations (Oct) | 60.7 | 65.5 | 66.0 |
-| 22:00 | USD | Michigan Consumer Sentiment (Oct) | 63.0 | 67.2 | 68.1 |
+| 10 min | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
+| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 40 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | -6.7K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 349.6K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 91.2K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 1.4K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -73.2K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -82.0K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 16.6K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -114.0K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 78.9K |
+| 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 23:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23:10 | EUR | ECB President Lagarde Speaks |  |  |  |
