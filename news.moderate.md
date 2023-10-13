@@ -10,9 +10,9 @@
 | 09:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 09:30 | CNY | CPI (YoY) (Sep) | 0.0% | 0.2% | 0.1% |
 | 09:30 | CNY | PPI (YoY) (Sep) | -2.5% | -2.4% | -3.0% |
-| 34 min | CNY | Exports (YoY) (Sep) |  | -8.3% | -8.8% |
-| 34 min | CNY | Imports (YoY) (Sep) |  | -6.0% | -7.3% |
-| 34 min | CNY | Trade Balance (USD) (Sep) |  | 70.00B | 68.36B |
+| 11:00 | CNY | Exports (YoY) (Sep) | -6.2% | -8.3% | -8.8% |
+| 11:00 | CNY | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
+| 11:00 | CNY | Trade Balance (USD) (Sep) | 77.71B | 70.00B | 68.36B |
 | 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:30 | CHF | PPI (MoM) (Sep) |  |  | -0.2% |
