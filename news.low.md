@@ -21,8 +21,8 @@
 | 11:00 | CNY | Imports (Sep) | -0.80M |  | -1.60M |
 | 11:00 | CNY | Trade Balance (Sep) | 558.74B | 510.00B | 488.00B |
 | 14:30 | CHF | PPI (YoY) (Sep) | -1.0% |  | -0.8% |
-| 14:45 | EUR | CPI NSA (YoY) (Sep) | 4.90% |  | 4.90% |
 | 14:45 | EUR | CPI NSA (MoM) (Sep) | -0.50% |  | -0.50% |
+| 14:45 | EUR | CPI NSA (YoY) (Sep) | 4.90% |  | 4.90% |
 | 14:45 | EUR | French CPI (YoY) | 4.9% | 4.9% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) (Sep) | 5.7% | 5.6% | 5.7% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) | 4.80% |  | 4.80% |
@@ -40,4 +40,4 @@
 | 19:30 | INR | FX Reserves, USD | 584.74B |  | 586.91B |
 | 20:30 | USD | Export Price Index (YoY) | -4.1% |  | -5.5% |
 | 20:30 | USD | Import Price Index (YoY) | -1.7% |  | -3.0% |
-| 39 min | USD | Michigan Current Conditions (Oct) |  | 70.4 | 71.4 |
+| 22:00 | USD | Michigan Current Conditions (Oct) | 66.7 | 70.4 | 71.4 |

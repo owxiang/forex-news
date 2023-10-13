@@ -7,8 +7,8 @@
 | 04:30 | USD | Fed's Balance Sheet | 7,952B |  | 7,956B |
 | 05:30 | NZD | Business NZ PMI (Sep) | 45.3 |  | 46.1 |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Sep) | -0.8% |  | 0.6% |
-| 09:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 09:30 | CNY | CPI (YoY) (Sep) | 0.0% | 0.2% | 0.1% |
+| 09:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 09:30 | CNY | PPI (YoY) (Sep) | -2.5% | -2.4% | -3.0% |
 | 11:00 | CNY | Exports (YoY) (Sep) | -6.2% | -7.6% | -8.8% |
 | 11:00 | CNY | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
@@ -27,7 +27,7 @@
 | 20:30 | USD | Import Price Index (MoM) (Sep) | 0.1% | 0.5% | 0.6% |
 | 21:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 39 min | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 3.2% |
-| 39 min | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 2.8% |
-| 39 min | USD | Michigan Consumer Expectations (Oct) |  | 65.5 | 66.0 |
-| 39 min | USD | Michigan Consumer Sentiment (Oct) |  | 67.2 | 68.1 |
+| 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) | 3.8% | 3.2% | 3.2% |
+| 22:00 | USD | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 2.8% | 2.8% |
+| 22:00 | USD | Michigan Consumer Expectations (Oct) | 60.7 | 65.5 | 66.0 |
+| 22:00 | USD | Michigan Consumer Sentiment (Oct) | 63.0 | 67.2 | 68.1 |
