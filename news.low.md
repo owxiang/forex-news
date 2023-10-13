@@ -20,18 +20,18 @@
 | 11:00 | CNY | Exports (Sep) | -0.60M |  | -3.20M |
 | 11:00 | CNY | Imports (Sep) | -0.80M |  | -1.60M |
 | 11:00 | CNY | Trade Balance (Sep) | 558.74B | 510.00B | 488.00B |
-| 14:30 | CHF | PPI (YoY) (Sep) |  |  | -0.8% |
-| 14:30 | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
-| 14:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
-| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
-| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
-| 14:45 | EUR | French CPI (YoY) |  | 4.9% | 4.9% |
-| 14:45 | EUR | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
-| 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
-| 15:00 | EUR | Core CPI (YoY) (Sep) |  |  | 6.1% |
-| 15:00 | EUR | Spanish CPI (MoM) (Sep) |  | 0.2% | 0.5% |
-| 15:00 | EUR | Spanish HICP (MoM) (Sep) |  | 0.6% | 0.5% |
+| 8 min | CHF | PPI (YoY) (Sep) |  |  | -0.8% |
+| 8 min | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
+| 8 min | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
+| 8 min | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
+| 23 min | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
+| 23 min | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
+| 23 min | EUR | French CPI (YoY) |  | 4.9% | 4.9% |
+| 23 min | EUR | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
+| 23 min | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
+| 38 min | EUR | Core CPI (YoY) (Sep) |  |  | 6.1% |
+| 38 min | EUR | Spanish CPI (MoM) (Sep) |  | 0.2% | 0.5% |
+| 38 min | EUR | Spanish HICP (MoM) (Sep) |  | 0.6% | 0.5% |
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.1% | 11.1% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 3,800.0B | 3,120.0B |

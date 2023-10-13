@@ -13,14 +13,14 @@
 | 11:00 | CNY | Exports (YoY) (Sep) | -6.2% | -7.6% | -8.8% |
 | 11:00 | CNY | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
 | 11:00 | CNY | Trade Balance (USD) (Sep) | 77.71B | 70.00B | 68.36B |
-| 30 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 30 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | CHF | PPI (MoM) (Sep) |  |  | -0.2% |
-| 14:30 | INR | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
-| 14:45 | EUR | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
-| 14:45 | EUR | French HICP (MoM) (Sep) |  | -0.6% | 1.1% |
-| 15:00 | EUR | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
-| 15:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.2% | 2.4% |
+| 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 8 min | CHF | PPI (MoM) (Sep) |  |  | -0.2% |
+| 8 min | INR | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
+| 23 min | EUR | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
+| 23 min | EUR | French HICP (MoM) (Sep) |  | -0.6% | 1.1% |
+| 38 min | EUR | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
+| 38 min | EUR | Spanish HICP (YoY) (Sep) |  | 3.2% | 2.4% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | CNY | New Loans |  | 2,500.0B | 1,360.0B |
 | 17:00 | EUR | Industrial Production (MoM) (Aug) |  | 0.1% | -1.1% |

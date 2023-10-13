@@ -31,26 +31,26 @@
 | 11:00 | CNY | Moderate | Exports (YoY) (Sep) | -6.2% | -7.6% | -8.8% |
 | 11:00 | CNY | Moderate | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
 | 11:00 | CNY | Moderate | Trade Balance (USD) (Sep) | 77.71B | 70.00B | 68.36B |
-| 30 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 30 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | CHF | Moderate | PPI (MoM) (Sep) |  |  | -0.2% |
-| 14:30 | CHF | Low | PPI (YoY) (Sep) |  |  | -0.8% |
-| 14:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | 10.60% |
-| 14:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
-| 14:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
-| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | Low | CPI NSA (YoY) (Sep) |  |  | 4.90% |
-| 14:45 | EUR | Low | CPI NSA (MoM) (Sep) |  |  | -0.50% |
-| 14:45 | EUR | Low | French CPI (YoY) |  | 4.9% | 4.9% |
-| 14:45 | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
-| 14:45 | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.6% | 1.1% |
-| 14:45 | EUR | Low | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
-| 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
-| 15:00 | EUR | Low | Core CPI (YoY) (Sep) |  |  | 6.1% |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
-| 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) |  | 0.2% | 0.5% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.2% | 2.4% |
-| 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.6% | 0.5% |
+| 13:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 8 min | CHF | Moderate | PPI (MoM) (Sep) |  |  | -0.2% |
+| 8 min | CHF | Low | PPI (YoY) (Sep) |  |  | -0.8% |
+| 8 min | INR | Low | WPI Food (YoY) (Sep) |  |  | 10.60% |
+| 8 min | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
+| 8 min | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
+| 8 min | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
+| 23 min | EUR | Low | CPI NSA (YoY) (Sep) |  |  | 4.90% |
+| 23 min | EUR | Low | CPI NSA (MoM) (Sep) |  |  | -0.50% |
+| 23 min | EUR | Moderate | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
+| 23 min | EUR | Low | French CPI (YoY) |  | 4.9% | 4.9% |
+| 23 min | EUR | Moderate | French HICP (MoM) (Sep) |  | -0.6% | 1.1% |
+| 23 min | EUR | Low | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
+| 23 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
+| 38 min | EUR | Low | Core CPI (YoY) (Sep) |  |  | 6.1% |
+| 38 min | EUR | Moderate | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
+| 38 min | EUR | Low | Spanish CPI (MoM) (Sep) |  | 0.2% | 0.5% |
+| 38 min | EUR | Moderate | Spanish HICP (YoY) (Sep) |  | 3.2% | 2.4% |
+| 38 min | EUR | Low | Spanish HICP (MoM) (Sep) |  | 0.6% | 0.5% |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.7% | 10.6% |
 | 16:00 | CNY | Moderate | New Loans |  | 2,500.0B | 1,360.0B |
