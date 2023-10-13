@@ -23,10 +23,10 @@
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | CNY | New Loans (Sep) | 2,310.0B | 2,500.0B | 1,360.0B |
 | 17:00 | EUR | Industrial Production (MoM) (Aug) | 0.6% | 0.1% | -1.1% |
-| 20:30 | USD | Export Price Index (MoM) (Sep) |  | 0.5% | 1.3% |
-| 20:30 | USD | Import Price Index (MoM) (Sep) |  | 0.5% | 0.5% |
-| 21:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 21:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:30 | USD | Export Price Index (MoM) (Sep) | 0.7% | 0.5% | 1.1% |
+| 20:30 | USD | Import Price Index (MoM) (Sep) | 0.1% | 0.5% | 0.6% |
+| 29 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 29 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 3.2% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 2.8% |
 | 22:00 | USD | Michigan Consumer Expectations (Oct) |  | 65.5 | 66.0 |
