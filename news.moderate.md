@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
-| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
-| 40 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
-| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
+| 00:30 | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
+| 46 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 46 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 46 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | -6.7K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 349.6K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 91.2K |
