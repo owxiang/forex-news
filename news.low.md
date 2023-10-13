@@ -12,20 +12,20 @@
 | 07:50 | JPY | M3 Money Supply (Sep) | 2,114.9% |  | 2,112.2% |
 | 08:00 | SGD | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
 | 08:00 | SGD | GDP (QoQ) (Q3) | 4.0% | 0.5% | 0.3% |
-| 50 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 38.79 |
-| 50 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.21 |
-| 50 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 49.40 |
-| 50 min | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 38.58 |
-| 50 min | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.38 |
-| 11:00 | CNY | Exports (Sep) |  |  | -3.20M |
-| 11:00 | CNY | Imports (Sep) |  |  | -1.60M |
-| 11:00 | CNY | Trade Balance (Sep) |  | 510.00B | 488.00B |
+| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 39.21 |  | 38.79 |
+| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 64.06 |  | 62.21 |
+| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.52 |  | 49.40 |
+| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) | 38.06 |  | 38.58 |
+| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) | 78.01 |  | 72.38 |
+| 34 min | CNY | Exports (Sep) |  |  | -3.20M |
+| 34 min | CNY | Imports (Sep) |  |  | -1.60M |
+| 34 min | CNY | Trade Balance (Sep) |  | 510.00B | 488.00B |
 | 14:30 | CHF | PPI (YoY) (Sep) |  |  | -0.8% |
 | 14:30 | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
+| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | French CPI (YoY) |  | 4.9% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
