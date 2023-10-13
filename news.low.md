@@ -11,7 +11,7 @@
 | 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.4% | 2.5% |
 | 07:50 | JPY | M3 Money Supply (Sep) | 2,114.9% |  | 2,112.2% |
 | 08:00 | SGD | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
-| 08:00 | SGD | GDP (QoQ) (Q3) | 4.0% | 0.5% | 0.3% |
+| 08:00 | SGD | GDP (QoQ) (Q3) | 1.0% | 0.5% | 0.1% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 39.21 |  | 38.79 |
 | 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 64.06 |  | 62.21 |
 | 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.52 |  | 49.40 |
@@ -24,8 +24,8 @@
 | 14:30 | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | CPI NSA (YoY) (Sep) |  |  | 4.90% |
+| 14:45 | EUR | CPI NSA (MoM) (Sep) |  |  | -0.50% |
 | 14:45 | EUR | French CPI (YoY) |  | 4.9% | 4.9% |
 | 14:45 | EUR | French HICP (YoY) (Sep) |  | 5.6% | 5.7% |
 | 14:45 | EUR | France Inflation Ex-Tobacco (YoY) (Sep) |  |  | 4.80% |
@@ -40,7 +40,7 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 586.91B |
 | 20:20 | INR | Exports (USD) |  |  | 34.48B |
 | 20:20 | INR | Imports (USD) |  |  | 58.64B |
-| 20:20 | INR | Trade Balance |  | -23.20B | -24.16B |
+| 20:20 | INR | Trade Balance |  | -23.25B | -24.16B |
 | 20:30 | USD | Export Price Index (YoY) |  |  | -5.5% |
 | 20:30 | USD | Import Price Index (YoY) |  |  | -3.0% |
 | 22:00 | USD | Michigan Current Conditions (Oct) |  | 70.4 | 71.4 |

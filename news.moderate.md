@@ -10,15 +10,15 @@
 | 09:30 | CNY | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
 | 09:30 | CNY | CPI (YoY) (Sep) | 0.0% | 0.2% | 0.1% |
 | 09:30 | CNY | PPI (YoY) (Sep) | -2.5% | -2.4% | -3.0% |
-| 11:00 | CNY | Exports (YoY) (Sep) | -6.2% | -8.3% | -8.8% |
+| 11:00 | CNY | Exports (YoY) (Sep) | -6.2% | -7.6% | -8.8% |
 | 11:00 | CNY | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
 | 11:00 | CNY | Trade Balance (USD) (Sep) | 77.71B | 70.00B | 68.36B |
 | 13:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:30 | CHF | PPI (MoM) (Sep) |  |  | -0.2% |
-| 14:30 | INR | WPI Inflation (YoY) (Sep) |  | 0.60% | -0.52% |
+| 14:30 | INR | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
 | 14:45 | EUR | French CPI (MoM) (Sep) |  | -0.5% | 1.0% |
-| 14:45 | EUR | French HICP (MoM) (Sep) |  | -0.6% | -0.6% |
+| 14:45 | EUR | French HICP (MoM) (Sep) |  | -0.6% | 1.1% |
 | 15:00 | EUR | Spanish CPI (YoY) (Sep) |  | 3.5% | 2.6% |
 | 15:00 | EUR | Spanish HICP (YoY) (Sep) |  | 3.2% | 2.4% |
 | 16:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
@@ -31,4 +31,4 @@
 | 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  |  | 3.2% |
 | 22:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  |  | 2.8% |
 | 22:00 | USD | Michigan Consumer Expectations (Oct) |  | 65.5 | 66.0 |
-| 22:00 | USD | Michigan Consumer Sentiment (Oct) |  | 67.4 | 68.1 |
+| 22:00 | USD | Michigan Consumer Sentiment (Oct) |  | 67.2 | 68.1 |
