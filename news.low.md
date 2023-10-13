@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13 min | USD | CFTC Aluminium speculative net positions |  |  | 5.8K |
-| 13 min | USD | CFTC Copper speculative net positions |  |  | -21.9K |
-| 13 min | USD | CFTC Corn speculative net positions |  |  | -107.5K |
-| 13 min | USD | CFTC Natural Gas speculative net positions |  |  | -79.2K |
-| 13 min | USD | CFTC Silver speculative net positions |  |  | 15.3K |
-| 13 min | USD | CFTC Soybeans speculative net positions |  |  | 22.5K |
-| 13 min | USD | CFTC Wheat speculative net positions |  |  | -61.3K |
-| 13 min | CAD | CFTC CAD speculative net positions |  |  | -40.2K |
-| 13 min | MXN | CFTC MXN speculative net positions |  |  | 64.5K |
-| 13 min | CHF | CFTC CHF speculative net positions |  |  | -16.7K |
-| 13 min | NZD | CFTC NZD speculative net positions |  |  | -7.7K |
+| 04:30 | USD | CFTC Aluminium speculative net positions | 5.8K |  | 5.8K |
+| 04:30 | USD | CFTC Copper speculative net positions | -14.8K |  | -21.9K |
+| 04:30 | USD | CFTC Corn speculative net positions | -64.8K |  | -107.5K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions | -50.7K |  | -79.2K |
+| 04:30 | USD | CFTC Silver speculative net positions | 12.3K |  | 15.3K |
+| 04:30 | USD | CFTC Soybeans speculative net positions | 23.4K |  | 22.5K |
+| 04:30 | USD | CFTC Wheat speculative net positions | -67.7K |  | -61.3K |
+| 04:30 | CAD | CFTC CAD speculative net positions | -46.5K |  | -40.2K |
+| 04:30 | MXN | CFTC MXN speculative net positions | 52.2K |  | 64.5K |
+| 04:30 | CHF | CFTC CHF speculative net positions | -16.1K |  | -16.7K |
+| 04:30 | NZD | CFTC NZD speculative net positions | -4.1K |  | -7.7K |
 | 18:00 | USD | IMF Meetings |  |  |  |
