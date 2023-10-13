@@ -10,8 +10,8 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 1,436.1B |  | 71.0B |
 | 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.4% | 2.5% |
 | 07:50 | JPY | M3 Money Supply (Sep) | 2,114.9% |  | 2,112.2% |
-| 08:00 | SGD | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
 | 08:00 | SGD | GDP (QoQ) (Q3) | 1.0% | 0.5% | 0.1% |
+| 08:00 | SGD | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 39.21 |  | 38.79 |
 | 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 64.06 |  | 62.21 |
 | 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 49.52 |  | 49.40 |

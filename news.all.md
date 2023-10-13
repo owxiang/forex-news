@@ -15,10 +15,10 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,436.1B |  | 71.0B |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.4% | 2.5% |
 | 07:50 | JPY | Low | M3 Money Supply (Sep) | 2,114.9% |  | 2,112.2% |
-| 08:00 | SGD | Low | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
 | 08:00 | SGD | Low | GDP (QoQ) (Q3) | 1.0% | 0.5% | 0.1% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Sep) | 0.0% | 0.2% | 0.1% |
+| 08:00 | SGD | Low | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Sep) | 0.2% | 0.3% | 0.3% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Sep) | 0.0% | 0.2% | 0.1% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Sep) | -2.5% | -2.4% | -3.0% |
 | 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 39.21 |  | 38.79 |
 | 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Oct) | 64.06 |  | 62.21 |
@@ -32,21 +32,21 @@
 | 11:00 | CNY | Moderate | Imports (YoY) (Sep) | -6.2% | -6.0% | -7.3% |
 | 11:00 | CNY | Moderate | Trade Balance (USD) (Sep) | 77.71B | 70.00B | 68.36B |
 | 13:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:30 | CHF | Low | PPI (YoY) (Sep) | -1.0% |  | -0.8% |
 | 14:30 | CHF | Moderate | PPI (MoM) (Sep) | -0.1% | 0.2% | -0.2% |
+| 14:30 | CHF | Low | PPI (YoY) (Sep) | -1.0% |  | -0.8% |
 | 14:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | EUR | Low | CPI NSA (MoM) (Sep) | -0.50% |  | -0.50% |
 | 14:45 | EUR | Low | CPI NSA (YoY) (Sep) | 4.90% |  | 4.90% |
-| 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.5% | 1.0% |
 | 14:45 | EUR | Low | French CPI (YoY) | 4.9% | 4.9% | 4.9% |
-| 14:45 | EUR | Low | French HICP (YoY) (Sep) | 5.7% | 5.6% | 5.7% |
+| 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.5% | 1.0% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Sep) | -0.6% | -0.6% | 1.1% |
+| 14:45 | EUR | Low | French HICP (YoY) (Sep) | 5.7% | 5.6% | 5.7% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 4.80% |  | 4.80% |
 | 15:00 | EUR | Low | Core CPI (YoY) (Sep) | 5.8% |  | 6.1% |
-| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish CPI (MoM) (Sep) | 0.2% | 0.2% | 0.5% |
-| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.3% | 3.2% | 2.4% |
+| 15:00 | EUR | Moderate | Spanish CPI (YoY) (Sep) | 3.5% | 3.5% | 2.6% |
 | 15:00 | EUR | Low | Spanish HICP (MoM) (Sep) | 0.6% | 0.6% | 0.5% |
+| 15:00 | EUR | Moderate | Spanish HICP (YoY) (Sep) | 3.3% | 3.2% | 2.4% |
 | 16:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) (Sep) | 10.3% | 10.7% | 10.6% |
 | 16:00 | CNY | Moderate | New Loans (Sep) | 2,310.0B | 2,500.0B | 1,360.0B |
@@ -55,8 +55,8 @@
 | 16:20 | INR | Low | Exports (USD) (Sep) | 34.47B |  | 38.45B |
 | 16:20 | INR | Low | Imports (USD) (Sep) | 53.84B |  | 60.10B |
 | 16:20 | INR | Low | Trade Balance (Sep) | -19.37B | -23.25B | 21.65B |
-| 17:00 | EUR | Low | Industrial Production (YoY) (Aug) | -5.1% | -3.5% | -2.2% |
 | 17:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | 0.6% | 0.1% | -1.1% |
+| 17:00 | EUR | Low | Industrial Production (YoY) (Aug) | -5.1% | -3.5% | -2.2% |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD | 584.74B |  | 586.91B |
 | 20:30 | USD | Low | Export Price Index (YoY) | -4.1% |  | -5.5% |
