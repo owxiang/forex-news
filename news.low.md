@@ -6,17 +6,17 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.316T |  | 3.241T |
 | 05:45 | NZD | Electronic Card Retail Sales (YoY) (Sep) | 1.6% |  | 4.2% |
 | 07:00 | KRW | Unemployment Rate (Sep) | 2.6% |  | 2.4% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | 297.1B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 71.0B |
-| 34 min | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.5% |
-| 34 min | JPY | M3 Money Supply (Sep) |  |  | 2,114.6% |
-| 44 min | SGD | GDP (QoQ) (Q3) |  | 0.5% | 0.3% |
-| 44 min | SGD | GDP (YoY) (Q3) |  | 0.4% | 0.5% |
-| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 38.79 |
-| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.21 |
-| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 49.40 |
-| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 38.58 |
-| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.38 |
+| 07:50 | JPY | Foreign Bonds Buying | 183.4B |  | 297.1B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 1,436.1B |  | 71.0B |
+| 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.4% | 2.5% |
+| 07:50 | JPY | M3 Money Supply (Sep) | 2,114.9% |  | 2,112.2% |
+| 08:00 | SGD | GDP (YoY) (Q3) | 0.7% | 0.4% | 0.5% |
+| 08:00 | SGD | GDP (QoQ) (Q3) | 4.0% | 0.5% | 0.3% |
+| 50 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 38.79 |
+| 50 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 62.21 |
+| 50 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Oct) |  |  | 49.40 |
+| 50 min | JPY | Thomson Reuters IPSOS PCSI (Oct) |  |  | 38.58 |
+| 50 min | CNY | China Thomson Reuters IPSOS PCSI (Oct) |  |  | 72.38 |
 | 11:00 | CNY | Exports (Sep) |  |  | -3.20M |
 | 11:00 | CNY | Imports (Sep) |  |  | -1.60M |
 | 11:00 | CNY | Trade Balance (Sep) |  | 510.00B | 488.00B |
