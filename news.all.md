@@ -37,8 +37,8 @@
 | 14:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:45 | EUR | Low | CPI NSA (YoY) (Sep) | 4.90% |  | 4.90% |
 | 14:45 | EUR | Low | CPI NSA (MoM) (Sep) | -0.50% |  | -0.50% |
-| 14:45 | EUR | Low | French CPI (YoY) | 4.9% | 4.9% | 4.9% |
 | 14:45 | EUR | Moderate | French CPI (MoM) (Sep) | -0.5% | -0.5% | 1.0% |
+| 14:45 | EUR | Low | French CPI (YoY) | 4.9% | 4.9% | 4.9% |
 | 14:45 | EUR | Moderate | French HICP (MoM) (Sep) | -0.6% | -0.6% | 1.1% |
 | 14:45 | EUR | Low | French HICP (YoY) (Sep) | 5.7% | 5.6% | 5.7% |
 | 14:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Sep) | 4.80% |  | 4.80% |
@@ -57,7 +57,7 @@
 | 16:20 | INR | Low | Trade Balance (Sep) | -19.37B | -23.25B | -24.16B |
 | 17:00 | EUR | Moderate | Industrial Production (MoM) (Aug) | 0.6% | 0.1% | -1.1% |
 | 17:00 | EUR | Low | Industrial Production (YoY) (Aug) | -5.1% | -3.5% | -2.2% |
-| 44 min | USD | Low | IMF Meetings |  |  |  |
+| 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 586.91B |
 | 20:30 | USD | Low | Export Price Index (YoY) |  |  | -5.5% |
 | 20:30 | USD | Moderate | Export Price Index (MoM) (Sep) |  | 0.5% | 1.3% |

@@ -36,7 +36,7 @@
 | 16:20 | INR | Imports (USD) (Sep) | 53.84B |  | 58.64B |
 | 16:20 | INR | Trade Balance (Sep) | -19.37B | -23.25B | -24.16B |
 | 17:00 | EUR | Industrial Production (YoY) (Aug) | -5.1% | -3.5% | -2.2% |
-| 44 min | USD | IMF Meetings |  |  |  |
+| 18:00 | USD | IMF Meetings |  |  |  |
 | 19:30 | INR | FX Reserves, USD |  |  | 586.91B |
 | 20:30 | USD | Export Price Index (YoY) |  |  | -5.5% |
 | 20:30 | USD | Import Price Index (YoY) |  |  | -3.0% |
