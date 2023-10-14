@@ -25,7 +25,7 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -99.5K |  | -114.0K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -4.1K |  | -7.7K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 75.5K |  | 78.9K |
-| 18:00 | USD | Low | IMF Meetings |  |  |  |
+| 47 min | USD | Low | IMF Meetings |  |  |  |
 | 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 23:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

@@ -13,4 +13,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 52.2K |  | 64.5K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -16.1K |  | -16.7K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -4.1K |  | -7.7K |
-| 18:00 | USD | IMF Meetings |  |  |  |
+| 47 min | USD | IMF Meetings |  |  |  |
