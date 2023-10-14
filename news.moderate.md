@@ -15,5 +15,5 @@
 | 04:30 | JPY | CFTC JPY speculative net positions | -99.5K |  | -114.0K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 75.5K |  | 78.9K |
 | 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 23:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 23:10 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 47 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 57 min | EUR | ECB President Lagarde Speaks |  |  |  |
