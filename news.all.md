@@ -27,5 +27,5 @@
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 75.5K |  | 78.9K |
 | 18:00 | USD | Low | IMF Meetings |  |  |  |
 | 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 47 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 57 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 23:10 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
