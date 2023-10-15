@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | NZD | Performance of Services Index |  |  | 47.1 |
+| 18 min | NZD | Performance of Services Index |  |  | 47.1 |
 | 07:01 | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
 | 07:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 12:00 | IDR | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
@@ -18,8 +18,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 16:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 16:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
 | 16:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
+| 16:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
 | 16:00 | CNY | FDI |  |  | -5.10% |
 | 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.730% |
 | 18:00 | EUR | Reserve Assets Total (Sep) |  |  | 1,118.77B |
