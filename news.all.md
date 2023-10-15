@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 18 min | NZD | Low | Performance of Services Index |  |  | 47.1 |
-| 07:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
+| 05:30 | NZD | Low | Performance of Services Index | 50.7 |  | 47.7 |
+| 48 min | GBP | Low | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
 | 07:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 12:00 | IDR | Low | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |

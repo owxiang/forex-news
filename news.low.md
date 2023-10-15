@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | NZD | Performance of Services Index |  |  | 47.1 |
-| 07:01 | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
+| 05:30 | NZD | Performance of Services Index | 50.7 |  | 47.7 |
+| 48 min | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
 | 07:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 12:00 | IDR | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
 | 12:00 | IDR | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
