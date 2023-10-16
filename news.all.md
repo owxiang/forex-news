@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 57 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 04:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | -7.9% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Sep) |  |  | -9.0% |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 2.0% | 1.1% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q3) |  | 5.9% | 6.0% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) |  | 2.0% | 1.1% |
 | 07:55 | KRW | Low | Exports (YoY) (Sep) |  |  | -4.4% |
 | 07:55 | KRW | Low | Imports (YoY) (Sep) |  |  | -16.5% |
 | 07:55 | KRW | Low | Trade Balance (Sep) |  |  | 3.70B |
@@ -41,14 +41,14 @@
 | 20:15 | CAD | Moderate | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.2% | 0.6% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Sep) |  |  | 0.1% |
-| 20:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.47% |
 | 20:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.6% |
+| 20:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.47% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |
-| 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 20:30 | CAD | Low | CPI (YoY) (Sep) |  | 4.0% | 4.0% |
+| 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.4% |
+| 20:30 | CAD | Low | CPI (YoY) (Sep) |  | 4.0% | 4.0% |
 | 20:30 | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 11.78B | 11.62B |
 | 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 2.61B |
 | 20:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 4.0% | 4.1% |
