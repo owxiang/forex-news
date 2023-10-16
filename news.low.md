@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Export Price Index (YoY) (Sep) |  |  | -7.9% |
-| 05:00 | KRW | Import Price Index (YoY) (Sep) |  |  | -9.0% |
+| 43 min | KRW | Export Price Index (YoY) (Sep) |  |  | -7.9% |
+| 43 min | KRW | Import Price Index (YoY) (Sep) |  |  | -9.0% |
 | 07:55 | KRW | Exports (YoY) (Sep) |  |  | -4.4% |
 | 07:55 | KRW | Imports (YoY) (Sep) |  |  | -16.5% |
 | 07:55 | KRW | Trade Balance (Sep) |  |  | 3.70B |
