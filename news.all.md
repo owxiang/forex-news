@@ -14,19 +14,19 @@
 | 14:00 | EUR | Low | German WPI (YoY) (Sep) | -4.1% |  | -2.7% |
 | 14:00 | EUR | Low | German WPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
 | 14:00 | NOK | Low | Trade Balance (Sep) | 45.6B |  | 61.4B |
-| 8 min | INR | Low | WPI Food (YoY) (Sep) |  |  | 10.60% |
-| 8 min | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
-| 8 min | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
-| 8 min | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |
-| 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 16:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
-| 16:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 16:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
-| 16:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
-| 16:00 | CNY | Low | FDI |  |  | -5.10% |
-| 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 16:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 14:30 | INR | Low | WPI Food (YoY) (Sep) | 3.35% |  | 10.60% |
+| 14:30 | INR | Low | WPI Fuel (YoY) (Sep) | -3.35% |  | -6.03% |
+| 14:30 | INR | Moderate | WPI Inflation (YoY) (Sep) | -0.26% | 0.50% | -0.52% |
+| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) | -1.34% |  | -2.37% |
+| 15 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 45 min | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
+| 45 min | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 45 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
+| 45 min | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
+| 45 min | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
+| 45 min | CNY | Low | FDI |  |  | -5.10% |
+| 45 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 55 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 16:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | Moderate | Trade Balance (Aug) |  |  | 6.5B |
 | 17:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.730% |
