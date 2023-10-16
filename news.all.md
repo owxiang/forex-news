@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:30 | NZD | Low | Performance of Services Index | 50.7 |  | 47.7 |
 | 07:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 12:00 | GBP | Low | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
-| 12:00 | IDR | Low | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
-| 12:00 | IDR | Low | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
-| 12:00 | IDR | Low | Trade Balance (Sep) |  | 2.13B | 3.12B |
+| 44 min | GBP | Low | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
+| 44 min | IDR | Low | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
+| 44 min | IDR | Low | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
+| 44 min | IDR | Low | Trade Balance (Sep) |  | 2.13B | 3.12B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Aug) |  |  | -2.2% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Aug) |  | 0.0% | -1.8% |
 | 14:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | -2.7% |
@@ -21,8 +21,8 @@
 | 16:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 16:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
 | 16:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
+| 16:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
 | 16:00 | CNY | Low | FDI |  |  | -5.10% |
 | 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 16:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |

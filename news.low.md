@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | NZD | Performance of Services Index | 50.7 |  | 47.7 |
 | 07:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 12:00 | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
-| 12:00 | IDR | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
-| 12:00 | IDR | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
-| 12:00 | IDR | Trade Balance (Sep) |  | 2.13B | 3.12B |
+| 44 min | GBP | Rightmove House Price Index (YoY) (Oct) |  |  | -0.4% |
+| 44 min | IDR | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
+| 44 min | IDR | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
+| 44 min | IDR | Trade Balance (Sep) |  | 2.13B | 3.12B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Aug) |  |  | -2.2% |
 | 14:00 | EUR | German WPI (YoY) (Sep) |  |  | -2.7% |
 | 14:00 | EUR | German WPI (MoM) (Sep) |  | 0.3% | 0.2% |
@@ -18,8 +18,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 16:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 16:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
 | 16:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
+| 16:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
 | 16:00 | CNY | FDI |  |  | -5.10% |
 | 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.730% |
 | 18:00 | EUR | Reserve Assets Total (Sep) |  |  | 1,118.77B |
