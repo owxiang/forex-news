@@ -22,8 +22,8 @@
 | 16:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) | 5.1% |  | 5.2% |
-| 16:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
 | 16:00 | EUR | Low | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
+| 16:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
 | 16:00 | EUR | Low | Italian Trade Balance (Aug) | 2.070B |  | 6.109B |
 | 16:00 | EUR | Low | Italian Trade Balance EU (Aug) | -1.01B |  | 1.07B |
 | 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
@@ -40,8 +40,8 @@
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.776% |  | 3.755% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.788% |  | 3.761% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.816% |  | 3.825% |
-| 15 min | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 15 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 14 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
-| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.320% |
+| 22:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 22:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 22:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
+| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.320% |
