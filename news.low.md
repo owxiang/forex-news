@@ -6,13 +6,13 @@
 | 07:01 | GBP | Rightmove House Price Index (MoM) | 0.5% |  | 0.4% |
 | 07:01 | GBP | Rightmove House Price Index (YoY) (Oct) | -0.8% |  | -0.4% |
 | 07:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 11 min | JPY | Capacity Utilization (MoM) (Aug) |  |  | -2.2% |
-| 11 min | IDR | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
-| 11 min | IDR | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
-| 11 min | IDR | Trade Balance (Sep) |  | 2.13B | 3.12B |
-| 14:00 | EUR | German WPI (YoY) (Sep) |  |  | -2.7% |
-| 14:00 | EUR | German WPI (MoM) (Sep) |  | 0.3% | 0.2% |
-| 14:00 | NOK | Trade Balance (Sep) |  |  | 61.4B |
+| 12:00 | IDR | Export Growth (YoY) (Sep) | -16.17% | -13.50% | -21.21% |
+| 12:00 | IDR | Import Growth (YoY) (Sep) | -12.45% | -5.50% | -14.77% |
+| 12:00 | IDR | Trade Balance (Sep) | 3.42B | 2.13B | 3.12B |
+| 12:30 | JPY | Capacity Utilization (MoM) (Aug) | 0.5% |  | -2.2% |
+| 45 min | EUR | German WPI (YoY) (Sep) |  |  | -2.7% |
+| 45 min | EUR | German WPI (MoM) (Sep) |  | 0.3% | 0.2% |
+| 45 min | NOK | Trade Balance (Sep) |  |  | 61.4B |
 | 14:30 | INR | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) |  |  | -2.37% |

@@ -6,14 +6,14 @@
 | 07:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.5% |  | 0.4% |
 | 07:01 | GBP | Low | Rightmove House Price Index (YoY) (Oct) | -0.8% |  | -0.4% |
 | 07:15 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 11 min | JPY | Low | Capacity Utilization (MoM) (Aug) |  |  | -2.2% |
-| 11 min | JPY | Moderate | Industrial Production (MoM) (Aug) |  | 0.0% | -1.8% |
-| 11 min | IDR | Low | Export Growth (YoY) (Sep) |  | -13.50% | -21.21% |
-| 11 min | IDR | Low | Import Growth (YoY) (Sep) |  | -5.50% | -14.77% |
-| 11 min | IDR | Low | Trade Balance (Sep) |  | 2.13B | 3.12B |
-| 14:00 | EUR | Low | German WPI (YoY) (Sep) |  |  | -2.7% |
-| 14:00 | EUR | Low | German WPI (MoM) (Sep) |  | 0.3% | 0.2% |
-| 14:00 | NOK | Low | Trade Balance (Sep) |  |  | 61.4B |
+| 12:00 | IDR | Low | Export Growth (YoY) (Sep) | -16.17% | -13.50% | -21.21% |
+| 12:00 | IDR | Low | Import Growth (YoY) (Sep) | -12.45% | -5.50% | -14.77% |
+| 12:00 | IDR | Low | Trade Balance (Sep) | 3.42B | 2.13B | 3.12B |
+| 12:30 | JPY | Low | Capacity Utilization (MoM) (Aug) | 0.5% |  | -2.2% |
+| 12:30 | JPY | Moderate | Industrial Production (MoM) (Aug) | -0.7% | 0.0% | -1.8% |
+| 45 min | EUR | Low | German WPI (YoY) (Sep) |  |  | -2.7% |
+| 45 min | EUR | Low | German WPI (MoM) (Sep) |  | 0.3% | 0.2% |
+| 45 min | NOK | Low | Trade Balance (Sep) |  |  | 61.4B |
 | 14:30 | INR | Low | WPI Food (YoY) (Sep) |  |  | 10.60% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Sep) |  |  | -6.03% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Sep) |  | 0.50% | -0.52% |
