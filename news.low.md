@@ -16,8 +16,8 @@
 | 14:30 | INR | WPI Food (YoY) (Sep) | 3.35% |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) | -3.35% |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) | -1.34% |  | -2.37% |
-| 16:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 16:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
+| 16:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 5.1% |  | 5.2% |
 | 16:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
 | 16:00 | EUR | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
@@ -25,7 +25,7 @@
 | 16:00 | EUR | Italian Trade Balance EU (Aug) | -1.01B |  | 1.07B |
 | 17:30 | EUR | German 12-Month Bubill Auction | 3.691% |  | 3.730% |
 | 18:00 | EUR | Reserve Assets Total (Sep) | 1,113.49B |  | 1,118.77B |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
 | 20:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | 1.0% | 1.6% |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.755% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.761% |
