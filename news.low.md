@@ -18,8 +18,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 16:00 | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 16:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
 | 16:00 | EUR | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
+| 16:00 | EUR | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
 | 16:00 | CNY | FDI |  |  | -5.10% |
 | 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.730% |
 | 18:00 | EUR | Reserve Assets Total (Sep) |  |  | 1,118.77B |

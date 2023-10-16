@@ -21,8 +21,8 @@
 | 16:00 | EUR | Low | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 16:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
 | 16:00 | EUR | Low | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
+| 16:00 | EUR | Low | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
 | 16:00 | CNY | Low | FDI |  |  | -5.10% |
 | 16:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 16:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
