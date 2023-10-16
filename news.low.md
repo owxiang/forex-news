@@ -10,18 +10,17 @@
 | 12:00 | IDR | Import Growth (YoY) (Sep) | -12.45% | -5.50% | -14.77% |
 | 12:00 | IDR | Trade Balance (Sep) | 3.42B | 2.13B | 3.12B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Aug) | 0.5% |  | -2.2% |
-| 14:00 | EUR | German WPI (YoY) (Sep) | -4.1% |  | -2.7% |
 | 14:00 | EUR | German WPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
+| 14:00 | EUR | German WPI (YoY) (Sep) | -4.1% |  | -2.7% |
 | 14:00 | NOK | Trade Balance (Sep) | 45.6B |  | 61.4B |
 | 14:30 | INR | WPI Food (YoY) (Sep) | 3.35% |  | 10.60% |
 | 14:30 | INR | WPI Fuel (YoY) (Sep) | -3.35% |  | -6.03% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) | -1.34% |  | -2.37% |
-| 45 min | EUR | Italian CPI (YoY) (Sep) |  | 5.3% | 5.4% |
-| 45 min | EUR | Italian CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 45 min | EUR | Italian CPI Ex Tobacco (YoY) (Sep) |  |  | 5.2% |
-| 45 min | EUR | Italian HICP (YoY) (Sep) |  | 5.7% | 5.5% |
-| 45 min | EUR | Italian HICP (MoM) (Sep) |  | 1.7% | 0.2% |
-| 45 min | CNY | FDI |  |  | -5.10% |
+| 16:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
+| 16:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
+| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 5.1% |  | 5.2% |
+| 16:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
+| 16:00 | EUR | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
 | 17:30 | EUR | German 12-Month Bubill Auction |  |  | 3.730% |
 | 18:00 | EUR | Reserve Assets Total (Sep) |  |  | 1,118.77B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
