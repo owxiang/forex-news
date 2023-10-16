@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 46 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:10 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 04:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 05:45 | NZD | CPI (QoQ) (Q3) |  | 2.0% | 1.1% |

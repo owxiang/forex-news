@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 46 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 04:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | -7.9% |
@@ -13,8 +13,8 @@
 | 07:55 | KRW | Low | Imports (YoY) (Sep) |  |  | -16.5% |
 | 07:55 | KRW | Low | Trade Balance (Sep) |  |  | 3.70B |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) |  | -13.80% | -20.10% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) |  | 3.90% | -3.80% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) |  | -13.80% | -20.10% |
 | 09:00 | SGD | Low | Trade Balance |  |  | 3.584B |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
 | 11:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,177.2B |
@@ -36,8 +36,8 @@
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 19:50 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,104.0 |
 | 20:15 | CAD | Moderate | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.2% | 0.6% |
@@ -48,8 +48,8 @@
 | 20:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |
 | 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 20:30 | CAD | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.4% |
 | 20:30 | CAD | Low | CPI (YoY) (Sep) |  | 4.0% | 4.0% |
+| 20:30 | CAD | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.4% |
 | 20:30 | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 11.78B | 11.62B |
 | 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) |  |  | 2.61B |
 | 20:30 | CAD | Low | Median CPI (YoY) (Sep) |  | 4.0% | 4.1% |
