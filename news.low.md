@@ -4,9 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 07:55 | KRW | Exports (YoY) (Sep) |  |  | -4.4% |
-| 07:55 | KRW | Imports (YoY) (Sep) |  |  | -16.5% |
-| 07:55 | KRW | Trade Balance (Sep) |  |  | 3.70B |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Sep) |  | 3.90% | -3.80% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Sep) |  | -13.80% | -20.10% |
 | 09:00 | SGD | Trade Balance |  |  | 3.584B |
