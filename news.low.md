@@ -1,34 +1,39 @@
-## 16 October 2023 - Low Impact Forex News
+## 17 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | NZD | Performance of Services Index | 50.7 |  | 47.7 |
-| 07:01 | GBP | Rightmove House Price Index (MoM) | 0.5% |  | 0.4% |
-| 07:01 | GBP | Rightmove House Price Index (YoY) (Oct) | -0.8% |  | -0.4% |
-| 07:15 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 12:00 | IDR | Export Growth (YoY) (Sep) | -16.17% | -13.50% | -21.21% |
-| 12:00 | IDR | Import Growth (YoY) (Sep) | -12.45% | -5.50% | -14.77% |
-| 12:00 | IDR | Trade Balance (Sep) | 3.42B | 2.13B | 3.12B |
-| 12:30 | JPY | Capacity Utilization (MoM) (Aug) | 0.5% |  | -2.2% |
-| 14:00 | EUR | German WPI (YoY) (Sep) | -4.1% |  | -2.7% |
-| 14:00 | EUR | German WPI (MoM) (Sep) | 0.2% | 0.3% | 0.2% |
-| 14:00 | NOK | Trade Balance (Sep) | 45.6B |  | 61.4B |
-| 14:30 | INR | WPI Food (YoY) (Sep) | 3.35% |  | 10.60% |
-| 14:30 | INR | WPI Fuel (YoY) (Sep) | -3.35% |  | -6.03% |
-| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Sep) | -1.34% |  | -2.37% |
-| 16:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
-| 16:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
-| 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 5.1% |  | 5.2% |
-| 16:00 | EUR | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
-| 16:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
-| 16:00 | EUR | Italian Trade Balance (Aug) | 2.070B |  | 6.109B |
-| 16:00 | EUR | Italian Trade Balance EU (Aug) | -1.01B |  | 1.07B |
-| 17:30 | EUR | German 12-Month Bubill Auction | 3.691% |  | 3.730% |
-| 18:00 | EUR | Reserve Assets Total (Sep) | 1,113.49B |  | 1,118.77B |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:30 | CAD | Manufacturing Sales (MoM) (Aug) | 0.7% | 1.0% | 1.6% |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.776% |  | 3.755% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.788% |  | 3.761% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.816% |  | 3.825% |
-| 14 min | USD | 3-Month Bill Auction |  |  | 5.340% |
-| 14 min | USD | 6-Month Bill Auction |  |  | 5.320% |
+| 05:00 | KRW | Export Price Index (YoY) (Sep) |  |  | -7.9% |
+| 05:00 | KRW | Import Price Index (YoY) (Sep) |  |  | -9.0% |
+| 07:55 | KRW | Exports (YoY) (Sep) |  |  | -4.4% |
+| 07:55 | KRW | Imports (YoY) (Sep) |  |  | -16.5% |
+| 07:55 | KRW | Trade Balance (Sep) |  |  | 3.70B |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) |  | -13.80% | -20.10% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) |  | 3.90% | -3.80% |
+| 09:00 | SGD | Trade Balance |  |  | 3.584B |
+| 10:00 | NZD | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
+| 11:00 | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
+| 11:00 | KRW | M2 Money supply (Aug) |  |  | 2.10% |
+| 12:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
+| 14:00 | GBP | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
+| 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.452% |
+| 17:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.704% |
+| 17:05 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.100% |
+| 18:00 | EUR | ECOFIN Meetings |  |  |  |
+| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
+| 20:00 | USD | Milk Auctions |  |  | 3,104.0 |
+| 20:30 | USD | Retail Sales (YoY) (Sep) |  |  | 2.47% |
+| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
+| 20:30 | CAD | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |
+| 20:30 | CAD | CPI (YoY) (Sep) |  | 4.0% | 4.0% |
+| 20:30 | CAD | Foreign Securities Purchases by Canadians (Aug) |  |  | 2.61B |
+| 20:30 | CAD | Median CPI (YoY) (Sep) |  | 4.0% | 4.1% |
+| 20:30 | CAD | Trimmed CPI (YoY) (Sep) |  | 3.8% | 3.9% |
+| 20:55 | USD | Redbook (YoY) |  |  | 4.0% |
+| 21:15 | USD | Capacity Utilization Rate (Sep) |  | 79.6% | 79.7% |
+| 21:15 | USD | Manufacturing Production (MoM) (Sep) |  | 0.2% | 0.1% |
+| 22:00 | USD | NAHB Housing Market Index (Oct) |  | 44 | 45 |
+| 22:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.4% |
