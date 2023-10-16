@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 46 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 04:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Sep) |  |  | -7.9% |
