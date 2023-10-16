@@ -19,8 +19,8 @@
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Sep) | -0.26% | 0.50% | -0.52% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Sep) | -1.34% |  | -2.37% |
 | 15:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 16:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 16:00 | EUR | Low | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
+| 16:00 | EUR | Low | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 16:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Sep) | 5.1% |  | 5.2% |
 | 16:00 | EUR | Low | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
 | 16:00 | EUR | Low | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
@@ -30,9 +30,9 @@
 | 16:10 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 16:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | Moderate | Trade Balance (Aug) | 6.7B |  | 6.3B |
-| 14 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.730% |
-| 43 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 43 min | EUR | Low | Reserve Assets Total (Sep) |  |  | 1,118.77B |
+| 17:30 | EUR | Low | German 12-Month Bubill Auction | 3.691% |  | 3.730% |
+| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 18:00 | EUR | Low | Reserve Assets Total (Sep) | 1,113.49B |  | 1,118.77B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | -7.00 | 1.90 |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | 1.0% | 1.6% |
