@@ -10,8 +10,8 @@
 | 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | Trade Balance (Aug) | 6.7B |  | 6.3B |
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
-| 20:30 | USD | NY Empire State Manufacturing Index (Oct) |  | -7.00 | 1.90 |
-| 20:30 | CAD | Wholesale Sales (MoM) (Aug) |  | 2.6% | 0.2% |
+| 20:30 | USD | NY Empire State Manufacturing Index (Oct) | -4.60 | -7.00 | 1.90 |
+| 20:30 | CAD | Wholesale Sales (MoM) (Aug) | 2.3% | 2.6% | 0.2% |
 | 22:30 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 22:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 22:30 | CAD | BoC Business Outlook Survey |  |  |  |

@@ -33,13 +33,13 @@
 | 17:30 | EUR | Low | German 12-Month Bubill Auction | 3.691% |  | 3.730% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 18:00 | EUR | Low | Reserve Assets Total (Sep) | 1,113.49B |  | 1,118.77B |
-| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) |  | -7.00 | 1.90 |
-| 20:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) |  | 1.0% | 1.6% |
-| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) |  | 2.6% | 0.2% |
-| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.755% |
-| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.761% |
-| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.825% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:30 | USD | Moderate | NY Empire State Manufacturing Index (Oct) | -4.60 | -7.00 | 1.90 |
+| 20:30 | CAD | Low | Manufacturing Sales (MoM) (Aug) | 0.7% | 1.0% | 1.6% |
+| 20:30 | CAD | Moderate | Wholesale Sales (MoM) (Aug) | 2.3% | 2.6% | 0.2% |
+| 23 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.755% |
+| 23 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.761% |
+| 23 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.825% |
 | 22:30 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 22:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 22:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |

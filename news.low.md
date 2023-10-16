@@ -25,10 +25,10 @@
 | 16:00 | EUR | Italian Trade Balance EU (Aug) | -1.01B |  | 1.07B |
 | 17:30 | EUR | German 12-Month Bubill Auction | 3.691% |  | 3.730% |
 | 18:00 | EUR | Reserve Assets Total (Sep) | 1,113.49B |  | 1,118.77B |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 20:30 | CAD | Manufacturing Sales (MoM) (Aug) |  | 1.0% | 1.6% |
-| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.755% |
-| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.761% |
-| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.825% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:30 | CAD | Manufacturing Sales (MoM) (Aug) | 0.7% | 1.0% | 1.6% |
+| 23 min | EUR | French 12-Month BTF Auction |  |  | 3.755% |
+| 23 min | EUR | French 3-Month BTF Auction |  |  | 3.761% |
+| 23 min | EUR | French 6-Month BTF Auction |  |  | 3.825% |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.340% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.320% |
