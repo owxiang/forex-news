@@ -19,8 +19,8 @@
 | 16:00 | EUR | Italian CPI (YoY) (Sep) | 5.3% | 5.3% | 5.4% |
 | 16:00 | EUR | Italian CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 16:00 | EUR | Italian CPI Ex Tobacco (YoY) (Sep) | 5.1% |  | 5.2% |
-| 16:00 | EUR | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
 | 16:00 | EUR | Italian HICP (MoM) (Sep) | 1.7% | 1.7% | 0.2% |
+| 16:00 | EUR | Italian HICP (YoY) (Sep) | 5.6% | 5.7% | 5.5% |
 | 16:00 | EUR | Italian Trade Balance (Aug) | 2.070B |  | 6.109B |
 | 16:00 | EUR | Italian Trade Balance EU (Aug) | -1.01B |  | 1.07B |
 | 17:30 | EUR | German 12-Month Bubill Auction | 3.691% |  | 3.730% |
