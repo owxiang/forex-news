@@ -16,10 +16,10 @@
 | 17:05 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:30 | EUR | German 2-Year Schatz Auction | 3.120% |  | 3.100% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 43 min | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
-| 20:00 | USD | Milk Auctions |  |  | 3,104.0 |
+| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) | 0.5% |  | 0.2% |
+| 47 min | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
+| 47 min | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
+| 47 min | USD | Milk Auctions |  |  | 3,104.0 |
 | 20:30 | USD | Retail Sales (YoY) (Sep) |  |  | 2.47% |
 | 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
 | 20:30 | CAD | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |

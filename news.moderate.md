@@ -11,8 +11,8 @@
 | 17:00 | EUR | German ZEW Current Conditions (Oct) | -79.9 | -80.8 | -79.4 |
 | 17:00 | EUR | German ZEW Economic Sentiment (Oct) | -1.1 | -9.3 | -11.4 |
 | 17:00 | EUR | ZEW Economic Sentiment (Oct) | 2.3 | -8.0 | -8.9 |
-| 19:50 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 20:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 37 min | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 47 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:15 | CAD | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | Retail Control (MoM) (Sep) |  |  | 0.1% |
 | 20:30 | CAD | Core CPI (MoM) (Sep) |  |  | 0.1% |

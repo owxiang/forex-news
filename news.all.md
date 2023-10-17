@@ -25,17 +25,17 @@
 | 17:05 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 17:30 | EUR | Low | German 2-Year Schatz Auction | 3.120% |  | 3.100% |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 43 min | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
-| 19:50 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 20:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
-| 20:00 | USD | Low | Milk Auctions |  |  | 3,104.0 |
+| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) | 0.5% |  | 0.2% |
+| 37 min | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 47 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 47 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
+| 47 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
+| 47 min | USD | Low | Milk Auctions |  |  | 3,104.0 |
 | 20:15 | CAD | Moderate | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.2% | 0.6% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Sep) |  |  | 0.1% |
-| 20:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.47% |
+| 20:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.1% |
