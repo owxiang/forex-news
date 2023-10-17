@@ -6,11 +6,11 @@
 | 04:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 10:00 | SGD | Low | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
 | 11:00 | KRW | Low | M2 Money supply (Aug) | 1.90% |  | 2.10% |
@@ -44,15 +44,15 @@
 | 20:30 | CAD | Low | Foreign Securities Purchases by Canadians (Aug) | 14.94B |  | 5.12B |
 | 20:30 | CAD | Low | Median CPI (YoY) (Sep) | 3.8% | 4.0% | 4.1% |
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Sep) | 3.7% | 3.8% | 3.9% |
-| 23 min | USD | Low | Redbook (YoY) |  |  | 4.0% |
-| 28 min | USD | Low | Milk Auctions |  |  | 3,104.0 |
-| 43 min | USD | Low | Capacity Utilization Rate (Sep) |  | 79.6% | 79.7% |
-| 43 min | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.25% |
-| 43 min | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.4% |
-| 43 min | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.1% |
-| 48 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 22:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.0% |
-| 22:00 | USD | Low | NAHB Housing Market Index (Oct) |  | 44 | 45 |
-| 22:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.6% | 0.0% |
+| 20:55 | USD | Low | Redbook (YoY) | 4.6% |  | 4.0% |
+| 21:15 | USD | Low | Capacity Utilization Rate (Sep) | 79.7% | 79.6% | 79.5% |
+| 21:15 | USD | Moderate | Industrial Production (YoY) (Sep) | 0.10% |  | 0.25% |
+| 21:15 | USD | Moderate | Industrial Production (MoM) (Sep) | 0.3% | 0.1% | 0.0% |
+| 21:15 | USD | Low | Manufacturing Production (MoM) (Sep) | 0.4% | 0.1% | -0.1% |
+| 21:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 40 min | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.0% |
+| 40 min | USD | Low | NAHB Housing Market Index (Oct) |  | 44 | 45 |
+| 40 min | USD | Moderate | Retail Inventories Ex Auto (Aug) |  | 0.6% | 0.0% |
+| 40 min | USD | Low | Milk Auctions |  |  | 3,104.0 |
 | 22:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.4% |
