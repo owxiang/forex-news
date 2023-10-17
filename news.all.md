@@ -5,7 +5,7 @@
 | 00:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 01:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.267M | 12.940M |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.267M | 12.940M |
 | 06:35 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 07:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,177.2B |
 | 08:00 | AUD | Low | MI Leading Index (MoM) (Sep) |  |  | -0.0% |

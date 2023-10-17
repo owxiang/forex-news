@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 01:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 04:30 | USD | API Weekly Crude Oil Stock |  | -1.267M | 12.940M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | -1.267M | 12.940M |
 | 06:35 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Sep) |  | 3.2% | 3.2% |
 | 10:00 | CNY | GDP (QoQ) (Q3) |  | 1.0% | 0.8% |
