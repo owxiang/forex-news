@@ -8,8 +8,8 @@
 | 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -13.80% | -22.50% |
 | 10:00 | SGD | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
-| 38 min | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
-| 38 min | KRW | M2 Money supply (Aug) |  |  | 2.10% |
+| 11:00 | KRW | M2 Money supply (Aug) | 1.90% |  | 2.10% |
+| 44 min | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
 | 14:00 | GBP | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.452% |
