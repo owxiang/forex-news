@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 10:00 | SGD | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
 | 11:00 | KRW | M2 Money supply (Aug) | 1.90% |  | 2.10% |
@@ -19,7 +19,8 @@
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) | 0.5% |  | 0.2% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | -0.9% |  | 0.4% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 0.9% |  | 3.6% |
-| 20:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.4% |
+| 20:00 | NZD | GlobalDairyTrade Price Index | 4.3% |  | 4.4% |
+| 20:00 | USD | Milk Auctions | 3,202.0 |  | 3,104.0 |
 | 20:30 | USD | Retail Sales (YoY) (Sep) | 3.75% |  | 2.89% |
 | 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) | 0.6% | 0.1% | 0.3% |
 | 20:30 | CAD | Common CPI (YoY) (Sep) | 4.4% | 4.7% | 4.8% |
@@ -31,4 +32,4 @@
 | 21:15 | USD | Capacity Utilization Rate (Sep) | 79.7% | 79.6% | 79.5% |
 | 21:15 | USD | Manufacturing Production (MoM) (Sep) | 0.4% | 0.1% | -0.1% |
 | 22:00 | USD | NAHB Housing Market Index (Oct) | 40 | 44 | 44 |
-| 30 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 22:45 | USD | FOMC Member Barkin Speaks |  |  |  |

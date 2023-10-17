@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 04:10 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 04:30 | USD | FOMC Member Harker Speaks |  |  |  |
-| 05:45 | NZD | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 05:45 | NZD | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
+| 05:45 | NZD | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 08:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 14:00 | GBP | Average Earnings Index +Bonus (Aug) | 8.1% | 8.3% | 8.5% |
 | 17:00 | EUR | German ZEW Current Conditions (Oct) | -79.9 | -80.8 | -79.4 |

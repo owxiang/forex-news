@@ -6,11 +6,11 @@
 | 04:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 10:00 | SGD | Low | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
 | 11:00 | KRW | Low | M2 Money supply (Aug) | 1.90% |  | 2.10% |
@@ -30,7 +30,8 @@
 | 20:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) | -0.9% |  | 0.4% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) | 0.9% |  | 3.6% |
-| 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.4% |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index | 4.3% |  | 4.4% |
+| 20:00 | USD | Low | Milk Auctions | 3,202.0 |  | 3,104.0 |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Sep) | 0.6% | 0.2% | 0.9% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Sep) | 0.6% | 0.1% | 0.2% |
 | 20:30 | USD | Low | Retail Sales (YoY) (Sep) | 3.75% |  | 2.89% |
@@ -54,4 +55,4 @@
 | 22:00 | USD | Moderate | Business Inventories (MoM) (Aug) | 0.4% | 0.3% | 0.1% |
 | 22:00 | USD | Low | NAHB Housing Market Index (Oct) | 40 | 44 | 44 |
 | 22:00 | USD | Moderate | Retail Inventories Ex Auto (Aug) | 0.5% | 0.6% | 0.0% |
-| 30 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 22:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
