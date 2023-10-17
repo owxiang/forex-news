@@ -17,14 +17,14 @@
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Aug) | -1.60 |  | 0.60 |
 | 14:00 | GBP | Low | Average Earnings ex Bonus (Aug) | 7.8% | 7.8% | 7.9% |
 | 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Aug) | 8.1% | 8.3% | 8.5% |
-| 19 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.452% |
-| 39 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.704% |
-| 39 min | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -80.8 | -79.4 |
-| 39 min | EUR | Moderate | German ZEW Economic Sentiment (Oct) |  | -9.3 | -11.4 |
-| 39 min | EUR | Moderate | ZEW Economic Sentiment (Oct) |  | -8.0 | -8.9 |
-| 44 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 17:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.100% |
-| 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 16:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.556% |  | 3.452% |
+| 17:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.926% |  | 4.704% |
+| 17:00 | EUR | Moderate | German ZEW Current Conditions (Oct) | -79.9 | -80.8 | -79.4 |
+| 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) | -1.1 | -9.3 | -11.4 |
+| 17:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) | 2.3 | -8.0 | -8.9 |
+| 17:05 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 15 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.100% |
+| 45 min | EUR | Low | ECOFIN Meetings |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 19:50 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

@@ -8,9 +8,9 @@
 | 05:45 | NZD | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
 | 08:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 14:00 | GBP | Average Earnings Index +Bonus (Aug) | 8.1% | 8.3% | 8.5% |
-| 39 min | EUR | German ZEW Current Conditions (Oct) |  | -80.8 | -79.4 |
-| 39 min | EUR | German ZEW Economic Sentiment (Oct) |  | -9.3 | -11.4 |
-| 39 min | EUR | ZEW Economic Sentiment (Oct) |  | -8.0 | -8.9 |
+| 17:00 | EUR | German ZEW Current Conditions (Oct) | -79.9 | -80.8 | -79.4 |
+| 17:00 | EUR | German ZEW Economic Sentiment (Oct) | -1.1 | -9.3 | -11.4 |
+| 17:00 | EUR | ZEW Economic Sentiment (Oct) | 2.3 | -8.0 | -8.9 |
 | 19:50 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 20:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 20:15 | CAD | Housing Starts (Sep) |  | 240.0K | 252.8K |
