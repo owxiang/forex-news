@@ -4,13 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.90% | -6.60% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -13.80% | -22.50% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
 | 10:00 | SGD | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
 | 11:00 | KRW | M2 Money supply (Aug) | 1.90% |  | 2.10% |
-| 44 min | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
-| 12:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
+| 11 min | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
 | 14:00 | GBP | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.452% |
 | 17:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.704% |
@@ -30,7 +29,7 @@
 | 20:30 | CAD | Trimmed CPI (YoY) (Sep) |  | 3.8% | 3.9% |
 | 20:55 | USD | Redbook (YoY) |  |  | 4.0% |
 | 21:15 | USD | Capacity Utilization Rate (Sep) |  | 79.6% | 79.7% |
-| 21:15 | USD | Manufacturing Production (MoM) (Sep) |  | 0.2% | 0.1% |
+| 21:15 | USD | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.1% |
 | 22:00 | USD | NAHB Housing Market Index (Oct) |  | 44 | 45 |
 | 22:45 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.4% |
