@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) |  | -13.80% | -20.10% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) |  | 3.90% | -3.80% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -13.80% | -22.50% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.90% | -6.60% |
 | 09:00 | SGD | Trade Balance |  |  | 3.584B |
-| 10:00 | NZD | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
+| 51 min | NZD | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
 | 11:00 | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
 | 11:00 | KRW | M2 Money supply (Aug) |  |  | 2.10% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |

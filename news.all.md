@@ -9,10 +9,10 @@
 | 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) |  | -13.80% | -20.10% |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) |  | 3.90% | -3.80% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -13.80% | -22.50% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.90% | -6.60% |
 | 09:00 | SGD | Low | Trade Balance |  |  | 3.584B |
-| 10:00 | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
+| 51 min | NZD | Low | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
 | 11:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,177.2B |
 | 11:00 | KRW | Low | M2 Money supply (Aug) |  |  | 2.10% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
