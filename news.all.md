@@ -10,8 +10,8 @@
 | 07:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,177.2B |
 | 08:00 | AUD | Low | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) |  | 3.2% | 3.2% |
-| 10:00 | CNY | High | GDP (YoY) (Q3) |  | 4.4% | 6.3% |
 | 10:00 | CNY | Moderate | GDP (QoQ) (Q3) |  | 1.0% | 0.8% |
+| 10:00 | CNY | High | GDP (YoY) (Q3) |  | 4.4% | 6.3% |
 | 10:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) |  |  | 5.5% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Sep) |  | 4.3% | 4.5% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 3.9% |
@@ -23,32 +23,32 @@
 | 14:00 | GBP | Low | Core CPI (MoM) (Sep) |  |  | 0.1% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | -0.1% |
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
-| 14:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.5% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Sep) |  |  | 7.8% |
+| 14:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.5% |
 | 14:00 | GBP | Moderate | CPI (MoM) (Sep) |  | 0.4% | 0.3% |
 | 14:00 | GBP | High | CPI (YoY) (Sep) |  | 6.5% | 6.7% |
 | 14:00 | GBP | Low | CPI, n.s.a (Sep) |  |  | 131.30 |
 | 14:00 | GBP | Low | PPI Input (YoY) (Sep) |  |  | -2.3% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Sep) |  | 0.6% | 0.4% |
-| 14:00 | GBP | Low | PPI Output (YoY) (Sep) |  |  | -0.4% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Sep) |  | 0.3% | 0.2% |
-| 14:00 | GBP | Low | RPI (YoY) (Sep) |  | 8.9% | 9.1% |
+| 14:00 | GBP | Low | PPI Output (YoY) (Sep) |  |  | -0.4% |
 | 14:00 | GBP | Low | RPI (MoM) (Sep) |  | 0.5% | 0.6% |
+| 14:00 | GBP | Low | RPI (YoY) (Sep) |  | 8.9% | 9.1% |
 | 15:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 16:00 | EUR | Low | Italian Trade Balance (Aug) |  | 6.050B | 6.375B |
 | 16:00 | EUR | Low | Italian Trade Balance EU (Aug) |  |  | 1.33B |
 | 16:00 | CNY | Low | FDI |  |  | -5.10% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | Low | CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | Low | CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:20 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 16:30 | GBP | Low | House Price Index (YoY) |  | 0.3% | 0.6% |
 | 17:00 | EUR | Low | Construction Output (MoM) (Aug) |  |  | 0.80% |
-| 17:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) (Sep) |  | 4.5% | 5.3% |
-| 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.3% | 5.2% |
+| 17:00 | EUR | Low | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
 | 17:00 | EUR | Moderate | CPI (MoM) (Sep) |  | 0.3% | 0.5% |
+| 17:00 | EUR | High | CPI (YoY) (Sep) |  | 4.3% | 5.2% |
 | 17:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) |  |  | 0.6% |
 | 17:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) |  |  | 5.2% |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
