@@ -1,35 +1,51 @@
-## 17 October 2023 - Low Impact Forex News
+## 18 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
-| 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
-| 10:00 | SGD | Trade Balance | 4.943B |  | 3.215B |
-| 10:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
-| 11:00 | KRW | M2 Money supply (Aug) | 1.90% |  | 2.10% |
-| 12:30 | JPY | Tertiary Industry Activity Index (Aug) | -1.60 |  | 0.60 |
-| 14:00 | GBP | Average Earnings ex Bonus (Aug) | 7.8% | 7.8% | 7.9% |
-| 16:40 | EUR | Spanish 3-Month Letras Auction | 3.556% |  | 3.452% |
-| 17:00 | GBP | 30-Year Treasury Gilt Auction | 4.926% |  | 4.704% |
-| 17:05 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 17:30 | EUR | German 2-Year Schatz Auction | 3.120% |  | 3.100% |
-| 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) | 0.5% |  | 0.2% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) | -0.9% |  | 0.4% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) | 0.9% |  | 3.6% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | 4.3% |  | 4.4% |
-| 20:00 | USD | Milk Auctions | 3,202.0 |  | 3,104.0 |
-| 20:30 | USD | Retail Sales (YoY) (Sep) | 3.75% |  | 2.89% |
-| 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) | 0.6% | 0.1% | 0.3% |
-| 20:30 | CAD | Common CPI (YoY) (Sep) | 4.4% | 4.7% | 4.8% |
-| 20:30 | CAD | CPI (YoY) (Sep) | 3.8% | 4.0% | 4.0% |
-| 20:30 | CAD | Foreign Securities Purchases by Canadians (Aug) | 14.94B |  | 5.12B |
-| 20:30 | CAD | Median CPI (YoY) (Sep) | 3.8% | 4.0% | 4.1% |
-| 20:30 | CAD | Trimmed CPI (YoY) (Sep) | 3.7% | 3.8% | 3.9% |
-| 20:55 | USD | Redbook (YoY) | 4.6% |  | 4.0% |
-| 21:15 | USD | Capacity Utilization Rate (Sep) | 79.7% | 79.6% | 79.5% |
-| 21:15 | USD | Manufacturing Production (MoM) (Sep) | 0.4% | 0.1% | -0.1% |
-| 22:00 | USD | NAHB Housing Market Index (Oct) | 40 | 44 | 44 |
-| 22:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 00:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 07:00 | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
+| 08:00 | AUD | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
+| 10:00 | CNY | Retail Sales (YoY) (Sep) |  | 4.5% | 4.6% |
+| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 6.98% |
+| 14:00 | GBP | Core CPI (MoM) (Sep) |  |  | 0.1% |
+| 14:00 | GBP | Core CPI (YoY) (Sep) |  | 6.0% | 6.2% |
+| 14:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | -0.1% |
+| 14:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
+| 14:00 | GBP | Core RPI (YoY) (Sep) |  |  | 7.8% |
+| 14:00 | GBP | Core RPI (MoM) (Sep) |  |  | 0.5% |
+| 14:00 | GBP | CPI, n.s.a (Sep) |  |  | 131.30 |
+| 14:00 | GBP | PPI Input (YoY) (Sep) |  |  | -2.3% |
+| 14:00 | GBP | PPI Output (YoY) (Sep) |  |  | -0.4% |
+| 14:00 | GBP | PPI Output (MoM) (Sep) |  | 0.3% | 0.2% |
+| 14:00 | GBP | RPI (MoM) (Sep) |  | 0.5% | 0.6% |
+| 14:00 | GBP | RPI (YoY) (Sep) |  | 8.9% | 9.1% |
+| 16:00 | EUR | Italian Trade Balance (Aug) |  | 6.050B | 6.375B |
+| 16:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 1.33B |
+| 16:00 | CNY | FDI |  |  | -5.10% |
+| 16:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 16:00 | ZAR | Core CPI (YoY) (Sep) |  |  | 4.8% |
+| 16:00 | ZAR | CPI (YoY) (Sep) |  |  | 4.8% |
+| 16:00 | ZAR | CPI (MoM) (Sep) |  |  | 0.3% |
+| 16:30 | GBP | House Price Index (YoY) |  | 0.3% | 0.6% |
+| 17:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.80% |
+| 17:00 | EUR | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
+| 17:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 5.2% |
+| 17:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.6% |
+| 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 5.5% | 6.2% |
+| 17:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.2% | 0.3% |
+| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.67% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.6% |
+| 19:00 | USD | MBA Purchase Index |  |  | 137.5 |
+| 19:00 | USD | Mortgage Market Index |  |  | 179.3 |
+| 19:00 | USD | Mortgage Refinance Index |  |  | 385.8 |
+| 19:00 | USD | Milk Auctions |  |  | 3,104.0 |
+| 19:00 | ZAR | Retail Sales (YoY) (Aug) |  |  | -1.8% |
+| 19:30 | INR | M3 Money Supply |  |  | 10.8% |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.399M |
+| 22:30 | USD | Crude Oil Imports |  |  | 2.003M |
+| 22:30 | USD | Distillate Fuel Production |  |  | 0.038M |
+| 22:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.837M |
+| 22:30 | USD | Gasoline Production |  |  | 0.858M |
+| 22:30 | USD | Heating Oil Stockpiles |  |  | -0.433M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
+| 22:30 | USD | Gasoline Inventories |  |  | -1.313M |

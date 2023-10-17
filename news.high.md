@@ -1,6 +1,9 @@
-## 17 October 2023 - High Impact Forex News
+## 18 October 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:30 | USD | Core Retail Sales (MoM) (Sep) | 0.6% | 0.2% | 0.9% |
-| 20:30 | USD | Retail Sales (MoM) (Sep) | 0.7% | 0.3% | 0.8% |
+| 10:00 | CNY | GDP (YoY) (Q3) |  | 4.4% | 6.3% |
+| 14:00 | GBP | CPI (YoY) (Sep) |  | 6.5% | 6.7% |
+| 17:00 | EUR | CPI (YoY) (Sep) |  | 4.3% | 5.2% |
+| 20:30 | USD | Building Permits (Sep) |  | 1.455M | 1.541M |
+| 22:30 | USD | Crude Oil Inventories |  |  | 10.176M |
