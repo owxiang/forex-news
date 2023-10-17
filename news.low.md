@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -13.80% | -22.50% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.90% | -6.60% |
-| 09:00 | SGD | Trade Balance |  |  | 3.584B |
-| 51 min | NZD | RBNZ Offshore Holdings (Sep) |  |  | 58.60% |
-| 11:00 | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
-| 11:00 | KRW | M2 Money supply (Aug) |  |  | 2.10% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -13.80% | -22.50% |
+| 10:00 | SGD | Trade Balance | 4.943B |  | 3.215B |
+| 10:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
+| 38 min | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
+| 38 min | KRW | M2 Money supply (Aug) |  |  | 2.10% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
 | 14:00 | GBP | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.452% |
@@ -18,8 +18,8 @@
 | 17:30 | EUR | German 2-Year Schatz Auction |  |  | 3.100% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
 | 20:00 | USD | Milk Auctions |  |  | 3,104.0 |
 | 20:30 | USD | Retail Sales (YoY) (Sep) |  |  | 2.47% |
 | 20:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
