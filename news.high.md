@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:30 | USD | Core Retail Sales (MoM) (Sep) |  | 0.2% | 0.6% |
-| 20:30 | USD | Retail Sales (MoM) (Sep) |  | 0.3% | 0.6% |
+| 20:30 | USD | Core Retail Sales (MoM) (Sep) | 0.6% | 0.2% | 0.9% |
+| 20:30 | USD | Retail Sales (MoM) (Sep) | 0.7% | 0.3% | 0.8% |
