@@ -7,30 +7,30 @@
 | 08:00 | AUD | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
 | 10:00 | CNY | Retail Sales (YoY) (Sep) |  | 4.5% | 4.6% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 6.98% |
-| 14:00 | GBP | Core CPI (MoM) (Sep) |  |  | 0.1% |
 | 14:00 | GBP | Core CPI (YoY) (Sep) |  | 6.0% | 6.2% |
-| 14:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | -0.1% |
+| 14:00 | GBP | Core CPI (MoM) (Sep) |  |  | 0.1% |
 | 14:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
-| 14:00 | GBP | Core RPI (YoY) (Sep) |  |  | 7.8% |
+| 14:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | -0.1% |
 | 14:00 | GBP | Core RPI (MoM) (Sep) |  |  | 0.5% |
+| 14:00 | GBP | Core RPI (YoY) (Sep) |  |  | 7.8% |
 | 14:00 | GBP | CPI, n.s.a (Sep) |  |  | 131.30 |
 | 14:00 | GBP | PPI Input (YoY) (Sep) |  |  | -2.3% |
 | 14:00 | GBP | PPI Output (YoY) (Sep) |  |  | -0.4% |
 | 14:00 | GBP | PPI Output (MoM) (Sep) |  | 0.3% | 0.2% |
-| 14:00 | GBP | RPI (MoM) (Sep) |  | 0.5% | 0.6% |
 | 14:00 | GBP | RPI (YoY) (Sep) |  | 8.9% | 9.1% |
+| 14:00 | GBP | RPI (MoM) (Sep) |  | 0.5% | 0.6% |
 | 16:00 | EUR | Italian Trade Balance (Aug) |  | 6.050B | 6.375B |
 | 16:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 1.33B |
 | 16:00 | CNY | FDI |  |  | -5.10% |
-| 16:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:00 | ZAR | Core CPI (YoY) (Sep) |  |  | 4.8% |
+| 16:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:00 | ZAR | CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:30 | GBP | House Price Index (YoY) |  | 0.3% | 0.6% |
 | 17:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.80% |
 | 17:00 | EUR | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 17:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 5.2% |
 | 17:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.6% |
+| 17:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 5.2% |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 5.5% | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.2% | 0.3% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.67% |

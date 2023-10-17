@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 39 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 02:00 | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 01:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 46 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:30 | USD | API Weekly Crude Oil Stock |  | -1.267M | 12.940M |
 | 06:35 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Sep) |  | 3.2% | 3.2% |
@@ -23,8 +23,8 @@
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.780% |
 | 18:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | BRL | Retail Sales (MoM) (Aug) |  |  | 0.7% |
 | 20:00 | BRL | Retail Sales (YoY) (Aug) |  |  | 2.4% |
+| 20:00 | BRL | Retail Sales (MoM) (Aug) |  |  | 0.7% |
 | 20:15 | CAD | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | Building Permits (MoM) (Sep) |  |  | 6.8% |
 | 20:30 | USD | Housing Starts (MoM) (Sep) |  |  | -11.3% |
