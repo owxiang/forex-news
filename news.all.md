@@ -9,17 +9,17 @@
 | 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
 | 10:00 | SGD | Low | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
 | 11:00 | KRW | Low | M2 Money supply (Aug) | 1.90% |  | 2.10% |
-| 11 min | JPY | Low | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
-| 14:00 | GBP | Low | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
-| 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Aug) |  | 8.3% | 8.5% |
-| 14:00 | GBP | Moderate | Claimant Count Change (Sep) |  | 2.3K | 0.9K |
-| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  | -198K | -207K |
-| 14:00 | GBP | Moderate | Unemployment Rate (Aug) |  | 4.3% | 4.3% |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Aug) | -1.60 |  | 0.60 |
+| 45 min | GBP | Low | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
+| 45 min | GBP | Moderate | Average Earnings Index +Bonus (Aug) |  | 8.3% | 8.5% |
+| 45 min | GBP | Moderate | Claimant Count Change (Sep) |  | 2.3K | 0.9K |
+| 45 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  | -198K | -207K |
+| 45 min | GBP | Moderate | Unemployment Rate (Aug) |  | 4.3% | 4.3% |
 | 16:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.452% |
 | 17:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.704% |
 | 17:00 | EUR | Moderate | German ZEW Current Conditions (Oct) |  | -80.8 | -79.4 |
@@ -41,8 +41,8 @@
 | 20:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.6% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |
-| 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.1% |
+| 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Low | CPI (YoY) (Sep) |  | 4.0% | 4.0% |
 | 20:30 | CAD | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.4% |
 | 20:30 | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 11.78B | 11.62B |
@@ -51,8 +51,8 @@
 | 20:30 | CAD | Low | Trimmed CPI (YoY) (Sep) |  | 3.8% | 3.9% |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 4.0% |
 | 21:15 | USD | Low | Capacity Utilization Rate (Sep) |  | 79.6% | 79.7% |
-| 21:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.25% |
 | 21:15 | USD | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | 0.4% |
+| 21:15 | USD | Moderate | Industrial Production (YoY) (Sep) |  |  | 0.25% |
 | 21:15 | USD | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.1% |
 | 21:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:00 | USD | Moderate | Business Inventories (MoM) (Aug) |  | 0.3% | 0.0% |

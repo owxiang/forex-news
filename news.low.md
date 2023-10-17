@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
 | 10:00 | SGD | Trade Balance | 4.943B |  | 3.215B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Sep) | 58.50% |  | 58.60% |
 | 11:00 | KRW | M2 Money supply (Aug) | 1.90% |  | 2.10% |
-| 11 min | JPY | Tertiary Industry Activity Index (Aug) |  |  | 0.60 |
-| 14:00 | GBP | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
+| 12:30 | JPY | Tertiary Industry Activity Index (Aug) | -1.60 |  | 0.60 |
+| 45 min | GBP | Average Earnings ex Bonus (Aug) |  | 7.8% | 7.8% |
 | 16:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.452% |
 | 17:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.704% |
 | 17:05 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
