@@ -5,7 +5,6 @@
 | 00:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 01:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 46 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.267M | 12.940M |
 | 06:35 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 07:00 | KRW | Low | M3 Money Supply (Aug) |  |  | 5,177.2B |
@@ -22,8 +21,8 @@
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 14:00 | GBP | Low | Core CPI (YoY) (Sep) |  | 6.0% | 6.2% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 14:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Sep) |  |  | -0.1% |
+| 14:00 | GBP | Low | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Sep) |  |  | 0.5% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Sep) |  |  | 7.8% |
 | 14:00 | GBP | Moderate | CPI (MoM) (Sep) |  | 0.4% | 0.3% |

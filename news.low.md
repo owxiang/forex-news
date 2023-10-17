@@ -9,8 +9,8 @@
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 6.98% |
 | 14:00 | GBP | Core CPI (YoY) (Sep) |  | 6.0% | 6.2% |
 | 14:00 | GBP | Core CPI (MoM) (Sep) |  |  | 0.1% |
-| 14:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
 | 14:00 | GBP | Core PPI Output (MoM) (Sep) |  |  | -0.1% |
+| 14:00 | GBP | Core PPI Output (YoY) (Sep) |  |  | 1.6% |
 | 14:00 | GBP | Core RPI (MoM) (Sep) |  |  | 0.5% |
 | 14:00 | GBP | Core RPI (YoY) (Sep) |  |  | 7.8% |
 | 14:00 | GBP | CPI, n.s.a (Sep) |  |  | 131.30 |
