@@ -6,8 +6,8 @@
 | 04:30 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Sep) | -8.9% |  | -7.9% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Sep) | -9.6% |  | -9.2% |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q3) | 5.6% | 5.9% | 6.0% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q3) | 1.8% | 2.0% | 1.1% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Sep) | 11.10% | 3.20% | -6.60% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Sep) | -13.20% | -14.70% | -22.50% |
@@ -23,23 +23,23 @@
 | 17:00 | EUR | Moderate | German ZEW Economic Sentiment (Oct) | -1.1 | -9.3 | -11.4 |
 | 17:00 | EUR | Moderate | ZEW Economic Sentiment (Oct) | 2.3 | -8.0 | -8.9 |
 | 17:05 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 15 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.100% |
-| 45 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
+| 17:30 | EUR | Low | German 2-Year Schatz Auction | 3.120% |  | 3.100% |
+| 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 43 min | BRL | Low | IGP-10 Inflation Index (MoM) (Oct) |  |  | 0.2% |
 | 19:50 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 20:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Aug) |  |  | 0.5% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Aug) |  |  | 3.5% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,104.0 |
 | 20:15 | CAD | Moderate | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | High | Core Retail Sales (MoM) (Sep) |  | 0.2% | 0.6% |
 | 20:30 | USD | Moderate | Retail Control (MoM) (Sep) |  |  | 0.1% |
-| 20:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.47% |
 | 20:30 | USD | High | Retail Sales (MoM) (Sep) |  | 0.3% | 0.6% |
+| 20:30 | USD | Low | Retail Sales (YoY) (Sep) |  |  | 2.47% |
 | 20:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Sep) |  |  | 0.2% |
 | 20:30 | CAD | Low | Common CPI (YoY) (Sep) |  | 4.7% | 4.8% |
-| 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Moderate | Core CPI (MoM) (Sep) |  |  | 0.1% |
+| 20:30 | CAD | Moderate | Core CPI (YoY) (Sep) |  |  | 3.3% |
 | 20:30 | CAD | Moderate | CPI (MoM) (Sep) |  | 0.1% | 0.4% |
 | 20:30 | CAD | Low | CPI (YoY) (Sep) |  | 4.0% | 4.0% |
 | 20:30 | CAD | Moderate | Foreign Securities Purchases (Aug) |  | 11.78B | 11.62B |
