@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | ZAR | SARB Monetary Policy Review |  |  |  |
-| 07:00 | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
+| 44 min | KRW | M3 Money Supply (Aug) |  |  | 5,177.2B |
 | 08:00 | AUD | MI Leading Index (MoM) (Sep) |  |  | -0.0% |
 | 10:00 | CNY | Retail Sales (YoY) (Sep) |  | 4.5% | 4.6% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) |  |  | 6.98% |
@@ -22,15 +22,15 @@
 | 16:00 | EUR | Italian Trade Balance (Aug) |  | 6.050B | 6.375B |
 | 16:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 1.33B |
 | 16:00 | CNY | FDI |  |  | -5.10% |
-| 16:00 | ZAR | Core CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | Core CPI (MoM) (Sep) |  |  | 0.3% |
+| 16:00 | ZAR | Core CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | CPI (YoY) (Sep) |  |  | 4.8% |
 | 16:00 | ZAR | CPI (MoM) (Sep) |  |  | 0.3% |
 | 16:30 | GBP | House Price Index (YoY) |  | 0.3% | 0.6% |
 | 17:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.80% |
 | 17:00 | EUR | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
-| 17:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.6% |
 | 17:00 | EUR | CPI ex Tobacco (YoY) (Sep) |  |  | 5.2% |
+| 17:00 | EUR | CPI ex Tobacco (MoM) (Sep) |  |  | 0.6% |
 | 17:00 | EUR | HICP ex Energy & Food (YoY) (Sep) |  | 5.5% | 6.2% |
 | 17:00 | EUR | HICP ex Energy and Food (MoM) (Sep) |  | 0.2% | 0.3% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.67% |
