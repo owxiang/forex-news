@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | 4.078B | 1.454B | 5.546B |
-| 47 min | USD | US Foreign Buying, T-bonds (Aug) |  |  | 0.20B |
-| 47 min | USD | Overall Net Capital Flow (Aug) |  |  | 140.60B |
-| 47 min | USD | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 8.80B |
+| 04:00 | USD | US Foreign Buying, T-bonds (Aug) | 22.10B |  | -4.40B |
+| 04:00 | USD | Overall Net Capital Flow (Aug) | 134.40B |  | 141.40B |
+| 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) | 63.50B |  | 9.50B |
 | 06:55 | USD | Fed Governor Cook Speaks |  |  |  |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 183.4B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,436.1B |
@@ -34,8 +34,8 @@
 | 20:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 7.50 |
 | 20:30 | USD | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | IPPI (YoY) (Sep) |  |  | -0.5% |
+| 20:30 | CAD | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
