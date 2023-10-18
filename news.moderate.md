@@ -14,8 +14,8 @@
 | 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) | 4.0% |  | 3.9% |
 | 10:00 | CNY | Chinese Unemployment Rate (Sep) | 5.0% | 5.2% | 5.2% |
 | 10:00 | CNY | NBS Press Conference |  |  |  |
-| 46 min | GBP | CPI (MoM) (Sep) |  | 0.5% | 0.3% |
-| 46 min | GBP | PPI Input (MoM) (Sep) |  | 0.9% | 0.4% |
+| 14:00 | GBP | CPI (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
+| 14:00 | GBP | PPI Input (MoM) (Sep) | 0.4% | 0.9% | 0.8% |
 | 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 16:20 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 17:00 | EUR | Core CPI (YoY) (Sep) |  | 4.5% | 5.3% |
