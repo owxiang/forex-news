@@ -8,8 +8,8 @@
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 6.81% |  | 7.00% |
 | 14:00 | GBP | Core CPI (YoY) (Sep) | 6.1% | 6.0% | 6.2% |
 | 14:00 | GBP | Core CPI (MoM) (Sep) | 0.5% | 0.5% | 0.1% |
-| 14:00 | GBP | Core PPI Output (MoM) (Sep) | 0.0% |  | -0.1% |
 | 14:00 | GBP | Core PPI Output (YoY) (Sep) | 0.7% |  | 1.5% |
+| 14:00 | GBP | Core PPI Output (MoM) (Sep) | 0.0% |  | -0.1% |
 | 14:00 | GBP | Core RPI (MoM) (Sep) | 0.4% |  | 0.5% |
 | 14:00 | GBP | Core RPI (YoY) (Sep) | 7.6% |  | 7.8% |
 | 14:00 | GBP | CPI, n.s.a (Sep) | 132.00 |  | 131.30 |
@@ -36,11 +36,11 @@
 | 19:00 | USD | Mortgage Refinance Index | 347.6 |  | 385.8 |
 | 19:00 | ZAR | Retail Sales (YoY) (Aug) | -0.5% | -1.0% | -1.0% |
 | 19:30 | INR | M3 Money Supply | 11.0% |  | 10.8% |
-| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.399M |
-| 15 min | USD | Crude Oil Imports |  |  | 2.003M |
-| 15 min | USD | Distillate Fuel Production |  |  | 0.038M |
-| 15 min | USD | EIA Weekly Distillates Stocks |  | -1.360M | -1.837M |
-| 15 min | USD | Gasoline Production |  |  | 0.858M |
-| 15 min | USD | Heating Oil Stockpiles |  |  | -0.433M |
-| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.6% |
-| 15 min | USD | Gasoline Inventories |  | -1.097M | -1.313M |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.193M |  | -0.399M |
+| 22:30 | USD | Crude Oil Imports | -2.621M |  | 2.003M |
+| 22:30 | USD | Distillate Fuel Production | -0.033M |  | 0.038M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | -3.185M | -1.360M | -1.837M |
+| 22:30 | USD | Gasoline Production | 0.077M |  | 0.858M |
+| 22:30 | USD | Heating Oil Stockpiles | 0.140M |  | -0.433M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -1.6% |
+| 22:30 | USD | Gasoline Inventories | -2.371M | -1.097M | -1.313M |

@@ -30,4 +30,4 @@
 | 20:30 | USD | Building Permits (MoM) (Sep) | -4.4% |  | 6.8% |
 | 20:30 | USD | Housing Starts (MoM) (Sep) | 7.0% |  | -12.5% |
 | 20:30 | USD | Housing Starts (Sep) | 1.358M | 1.380M | 1.269M |
-| 15 min | USD | Cushing Crude Oil Inventories |  |  | -0.319M |
+| 22:30 | USD | Cushing Crude Oil Inventories | -0.758M |  | -0.319M |
