@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Waller Speaks |  |  |  |
-| 10 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 40 min | USD | 20-Year Bond Auction |  |  | 4.592% |
-| 40 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 02:00 | USD | Beige Book |  |  |  |
-| 02:00 | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 00:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 01:00 | USD | 20-Year Bond Auction | 5.245% |  | 4.592% |
+| 01:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 46 min | USD | Beige Book |  |  |  |
+| 46 min | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 03:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 04:00 | USD | TIC Net Long-Term Transactions (Aug) |  | 76.8B | 8.8B |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.50T | -0.56T |
