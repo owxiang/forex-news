@@ -13,13 +13,13 @@
 | 04:00 | USD | Low | Overall Net Capital Flow (Aug) | 134.40B |  | 141.40B |
 | 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) | 63.5B | 76.8B | 9.5B |
 | 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) | 63.50B |  | 9.50B |
-| 40 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.50T | -0.56T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Sep) |  | 3.1% | -0.8% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 183.4B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,436.1B |
-| 07:50 | JPY | Low | Imports (YoY) (Sep) |  | -12.9% | -17.8% |
-| 07:50 | JPY | Moderate | Trade Balance (Sep) |  | -425.0B | -930.5B |
+| 06:55 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 35 min | JPY | Moderate | Adjusted Trade Balance |  | -0.50T | -0.56T |
+| 35 min | JPY | Moderate | Exports (YoY) (Sep) |  | 3.1% | -0.8% |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 183.4B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,436.1B |
+| 35 min | JPY | Low | Imports (YoY) (Sep) |  | -12.9% | -17.8% |
+| 35 min | JPY | Moderate | Trade Balance (Sep) |  | -425.0B | -930.5B |
 | 08:30 | AUD | Moderate | Employment Change (Sep) |  | 18.0K | 64.9K |
 | 08:30 | AUD | Moderate | Full Employment Change (Sep) |  |  | 2.8K |
 | 08:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -3 |
@@ -51,13 +51,13 @@
 | 20:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | -5.7 |
 | 20:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
+| 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 22:30 | USD | Low | Natural Gas Storage |  |  | 84B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.325% |
