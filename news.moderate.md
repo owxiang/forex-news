@@ -19,15 +19,15 @@
 | 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
 | 16:20 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 39 min | EUR | Core CPI (YoY) (Sep) |  | 4.5% | 5.3% |
-| 39 min | EUR | CPI (MoM) (Sep) |  | 0.3% | 0.5% |
-| 39 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.780% |
-| 18:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 17:00 | EUR | Core CPI (YoY) (Sep) | 4.5% | 4.5% | 5.3% |
+| 17:00 | EUR | CPI (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 14 min | EUR | German 10-Year Bund Auction |  |  | 2.780% |
+| 44 min | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 20:00 | BRL | Retail Sales (YoY) (Aug) |  | 1.2% | 2.4% |
 | 20:00 | BRL | Retail Sales (MoM) (Aug) |  | -0.7% | 0.7% |
 | 20:15 | CAD | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | Building Permits (MoM) (Sep) |  |  | 6.8% |
-| 20:30 | USD | Housing Starts (Sep) |  | 1.380M | 1.283M |
 | 20:30 | USD | Housing Starts (MoM) (Sep) |  |  | -11.3% |
+| 20:30 | USD | Housing Starts (Sep) |  | 1.380M | 1.283M |
 | 22:30 | USD | Cushing Crude Oil Inventories |  |  | -0.319M |
