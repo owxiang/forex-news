@@ -6,10 +6,9 @@
 | 00:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 01:00 | USD | Moderate | 20-Year Bond Auction | 5.245% |  | 4.592% |
 | 01:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 5.546B |
-| 46 min | USD | Moderate | Beige Book |  |  |  |
-| 46 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
-| 03:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 4.078B | 1.454B | 5.546B |
+| 02:00 | USD | Moderate | Beige Book |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 04:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 0.20B |
 | 04:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 140.60B |
 | 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 76.8B | 8.8B |
@@ -52,8 +51,8 @@
 | 20:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | -5.7 |
 | 20:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
+| 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
