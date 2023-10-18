@@ -7,13 +7,13 @@
 | 04:30 | USD | API Weekly Crude Oil Stock | -4.383M | -1.267M | 12.940M |
 | 05:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 06:35 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |
-| 51 min | CNY | Fixed Asset Investment (YoY) (Sep) |  | 3.2% | 3.2% |
-| 51 min | CNY | GDP (QoQ) (Q3) |  | 1.0% | 0.8% |
-| 51 min | CNY | Chinese GDP YTD (YoY) (Q3) |  |  | 5.5% |
-| 51 min | CNY | Industrial Production (YoY) (Sep) |  | 4.3% | 4.5% |
-| 51 min | CNY | Chinese Industrial Production YTD (YoY) (Sep) |  |  | 3.9% |
-| 51 min | CNY | Chinese Unemployment Rate (Sep) |  | 5.2% | 5.2% |
-| 51 min | CNY | NBS Press Conference |  |  |  |
+| 10:00 | CNY | Fixed Asset Investment (YoY) (Sep) | 3.1% | 3.2% | 3.2% |
+| 10:00 | CNY | GDP (QoQ) (Q3) | 1.3% | 1.0% | 0.8% |
+| 10:00 | CNY | Chinese GDP YTD (YoY) (Q3) | 5.2% |  | 5.5% |
+| 10:00 | CNY | Industrial Production (YoY) (Sep) | 4.5% | 4.3% | 4.5% |
+| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Sep) | 4.0% |  | 3.9% |
+| 10:00 | CNY | Chinese Unemployment Rate (Sep) | 5.0% | 5.2% | 5.2% |
+| 10:00 | CNY | NBS Press Conference |  |  |  |
 | 14:00 | GBP | CPI (MoM) (Sep) |  | 0.4% | 0.3% |
 | 14:00 | GBP | PPI Input (MoM) (Sep) |  | 0.6% | 0.4% |
 | 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
@@ -23,8 +23,8 @@
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | German 10-Year Bund Auction |  |  | 2.780% |
 | 18:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | BRL | Retail Sales (MoM) (Aug) |  |  | 0.7% |
 | 20:00 | BRL | Retail Sales (YoY) (Aug) |  |  | 2.4% |
+| 20:00 | BRL | Retail Sales (MoM) (Aug) |  |  | 0.7% |
 | 20:15 | CAD | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | Building Permits (MoM) (Sep) |  |  | 6.8% |
 | 20:30 | USD | Housing Starts (MoM) (Sep) |  |  | -11.3% |
