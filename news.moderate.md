@@ -16,7 +16,8 @@
 | 10:00 | CNY | NBS Press Conference |  |  |  |
 | 14:00 | GBP | CPI (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | PPI Input (MoM) (Sep) | 0.4% | 0.9% | 0.8% |
-| 15:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 15:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 16 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 16:20 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 17:00 | EUR | Core CPI (YoY) (Sep) |  | 4.5% | 5.3% |
 | 17:00 | EUR | CPI (MoM) (Sep) |  | 0.3% | 0.5% |

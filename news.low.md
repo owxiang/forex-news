@@ -8,23 +8,23 @@
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Sep) | 6.81% |  | 7.00% |
 | 14:00 | GBP | Core CPI (YoY) (Sep) | 6.1% | 6.0% | 6.2% |
 | 14:00 | GBP | Core CPI (MoM) (Sep) | 0.5% | 0.5% | 0.1% |
-| 14:00 | GBP | Core PPI Output (YoY) (Sep) | 0.7% |  | 1.5% |
 | 14:00 | GBP | Core PPI Output (MoM) (Sep) | 0.0% |  | -0.1% |
-| 14:00 | GBP | Core RPI (MoM) (Sep) | 0.4% |  | 0.5% |
+| 14:00 | GBP | Core PPI Output (YoY) (Sep) | 0.7% |  | 1.5% |
 | 14:00 | GBP | Core RPI (YoY) (Sep) | 7.6% |  | 7.8% |
+| 14:00 | GBP | Core RPI (MoM) (Sep) | 0.4% |  | 0.5% |
 | 14:00 | GBP | CPI, n.s.a (Sep) | 132.00 |  | 131.30 |
 | 14:00 | GBP | PPI Input (YoY) (Sep) | -2.6% |  | -2.0% |
-| 14:00 | GBP | PPI Output (YoY) (Sep) | -0.1% | -0.2% | -0.5% |
 | 14:00 | GBP | PPI Output (MoM) (Sep) | 0.4% | 0.3% | 0.2% |
+| 14:00 | GBP | PPI Output (YoY) (Sep) | -0.1% | -0.2% | -0.5% |
 | 14:00 | GBP | RPI (MoM) (Sep) | 0.5% | 0.5% | 0.6% |
 | 14:00 | GBP | RPI (YoY) (Sep) | 8.9% | 8.9% | 9.1% |
-| 16:00 | EUR | Italian Trade Balance (Aug) |  | 6.050B | 6.375B |
-| 16:00 | EUR | Italian Trade Balance EU (Aug) |  |  | 1.33B |
-| 16:00 | CNY | FDI |  |  | -5.10% |
-| 16:00 | ZAR | Core CPI (MoM) (Sep) |  | 0.4% | 0.3% |
-| 16:00 | ZAR | Core CPI (YoY) (Sep) |  | 4.7% | 4.8% |
-| 16:00 | ZAR | CPI (MoM) (Sep) |  | 0.6% | 0.3% |
-| 16:00 | ZAR | CPI (YoY) (Sep) |  | 5.3% | 4.8% |
+| 46 min | EUR | Italian Trade Balance (Aug) |  | 6.050B | 6.375B |
+| 46 min | EUR | Italian Trade Balance EU (Aug) |  |  | 1.33B |
+| 46 min | CNY | FDI |  |  | -5.10% |
+| 46 min | ZAR | Core CPI (MoM) (Sep) |  | 0.4% | 0.3% |
+| 46 min | ZAR | Core CPI (YoY) (Sep) |  | 4.7% | 4.8% |
+| 46 min | ZAR | CPI (YoY) (Sep) |  | 5.3% | 4.8% |
+| 46 min | ZAR | CPI (MoM) (Sep) |  | 0.6% | 0.3% |
 | 16:30 | GBP | House Price Index (YoY) |  | 0.3% | 0.6% |
 | 17:00 | EUR | Construction Output (MoM) (Aug) |  |  | 0.80% |
 | 17:00 | EUR | Core CPI (MoM) (Sep) |  | 0.2% | 0.3% |
