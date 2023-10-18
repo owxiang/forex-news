@@ -8,11 +8,11 @@
 | 01:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 4.078B | 1.454B | 5.546B |
 | 02:00 | USD | Moderate | Beige Book |  |  |  |
-| 54 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 04:00 | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 0.20B |
-| 04:00 | USD | Low | Overall Net Capital Flow (Aug) |  |  | 140.60B |
-| 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 76.8B | 8.8B |
-| 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 8.80B |
+| 2 min | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 47 min | USD | Low | US Foreign Buying, T-bonds (Aug) |  |  | 0.20B |
+| 47 min | USD | Low | Overall Net Capital Flow (Aug) |  |  | 140.60B |
+| 47 min | USD | Moderate | TIC Net Long-Term Transactions (Aug) |  | 76.8B | 8.8B |
+| 47 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) |  |  | 8.80B |
 | 06:55 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.50T | -0.56T |
 | 07:50 | JPY | Moderate | Exports (YoY) (Sep) |  | 3.1% | -0.8% |
