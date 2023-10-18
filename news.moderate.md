@@ -24,10 +24,10 @@
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:30 | EUR | German 10-Year Bund Auction | 2.900% |  | 2.780% |
 | 18:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | BRL | Retail Sales (YoY) (Aug) | 2.3% | 1.2% | 2.4% |
 | 20:00 | BRL | Retail Sales (MoM) (Aug) | -0.2% | -0.7% | 0.7% |
+| 20:00 | BRL | Retail Sales (YoY) (Aug) | 2.3% | 1.2% | 2.4% |
 | 20:15 | CAD | Housing Starts (Sep) | 270.5K | 240.0K | 250.4K |
 | 20:30 | USD | Building Permits (MoM) (Sep) | -4.4% |  | 6.8% |
 | 20:30 | USD | Housing Starts (MoM) (Sep) | 7.0% |  | -12.5% |
 | 20:30 | USD | Housing Starts (Sep) | 1.358M | 1.380M | 1.269M |
-| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -0.319M |
+| 15 min | USD | Cushing Crude Oil Inventories |  |  | -0.319M |

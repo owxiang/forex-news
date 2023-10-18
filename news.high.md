@@ -6,4 +6,4 @@
 | 14:00 | GBP | CPI (YoY) (Sep) | 6.7% | 6.6% | 6.7% |
 | 17:00 | EUR | CPI (YoY) (Sep) | 4.3% | 4.3% | 5.2% |
 | 20:30 | USD | Building Permits (Sep) | 1.473M | 1.455M | 1.541M |
-| 22:30 | USD | Crude Oil Inventories |  | -0.300M | 10.176M |
+| 15 min | USD | Crude Oil Inventories |  | -0.300M | 10.176M |
