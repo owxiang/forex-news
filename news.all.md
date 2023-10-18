@@ -10,8 +10,8 @@
 | 06:35 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
 | 08:00 | AUD | Low | MI Leading Index (MoM) (Sep) | 0.1% |  | -0.0% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Sep) | 3.1% | 3.2% | 3.2% |
-| 10:00 | CNY | High | GDP (YoY) (Q3) | 4.9% | 4.4% | 6.3% |
 | 10:00 | CNY | Moderate | GDP (QoQ) (Q3) | 1.3% | 1.0% | 0.5% |
+| 10:00 | CNY | High | GDP (YoY) (Q3) | 4.9% | 4.4% | 6.3% |
 | 10:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q3) | 5.2% |  | 5.5% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Sep) | 4.5% | 4.3% | 4.5% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Sep) | 4.0% |  | 3.9% |
@@ -21,17 +21,17 @@
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 14:00 | GBP | Low | Core CPI (YoY) (Sep) | 6.1% | 6.0% | 6.2% |
 | 14:00 | GBP | Low | Core CPI (MoM) (Sep) | 0.5% | 0.5% | 0.1% |
-| 14:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 0.7% |  | 1.5% |
 | 14:00 | GBP | Low | Core PPI Output (MoM) (Sep) | 0.0% |  | -0.1% |
+| 14:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 0.7% |  | 1.5% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Sep) | 7.6% |  | 7.8% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Sep) | 0.4% |  | 0.5% |
-| 14:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | High | CPI (YoY) (Sep) | 6.7% | 6.6% | 6.7% |
+| 14:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
 | 14:00 | GBP | Low | CPI, n.s.a (Sep) | 132.00 |  | 131.30 |
 | 14:00 | GBP | Low | PPI Input (YoY) (Sep) | -2.6% |  | -2.0% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Sep) | 0.4% | 0.9% | 0.8% |
-| 14:00 | GBP | Low | PPI Output (YoY) (Sep) | -0.1% | -0.2% | -0.5% |
 | 14:00 | GBP | Low | PPI Output (MoM) (Sep) | 0.4% | 0.3% | 0.2% |
+| 14:00 | GBP | Low | PPI Output (YoY) (Sep) | -0.1% | -0.2% | -0.5% |
 | 14:00 | GBP | Low | RPI (MoM) (Sep) | 0.5% | 0.5% | 0.6% |
 | 14:00 | GBP | Low | RPI (YoY) (Sep) | 8.9% | 8.9% | 9.1% |
 | 15:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -43,23 +43,23 @@
 | 16:20 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 16:30 | GBP | Low | House Price Index (YoY) | 0.2% | 0.3% | 0.7% |
 | 17:00 | EUR | Low | Construction Output (MoM) (Aug) | -1.06% |  | 0.98% |
-| 17:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 17:00 | EUR | Moderate | Core CPI (YoY) (Sep) | 4.5% | 4.5% | 5.3% |
-| 17:00 | EUR | High | CPI (YoY) (Sep) | 4.3% | 4.3% | 5.2% |
+| 17:00 | EUR | Low | Core CPI (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 17:00 | EUR | Moderate | CPI (MoM) (Sep) | 0.3% | 0.3% | 0.5% |
+| 17:00 | EUR | High | CPI (YoY) (Sep) | 4.3% | 4.3% | 5.2% |
 | 17:00 | EUR | Low | CPI ex Tobacco (YoY) (Sep) | 4.3% |  | 5.2% |
 | 17:00 | EUR | Low | CPI ex Tobacco (MoM) (Sep) | 0.3% |  | 0.6% |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | EUR | Low | HICP ex Energy & Food (YoY) (Sep) | 5.5% | 5.5% | 6.2% |
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
-| 14 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.780% |
-| 44 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.67% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 19:00 | USD | Low | MBA Purchase Index |  |  | 137.5 |
-| 19:00 | USD | Low | Mortgage Market Index |  |  | 179.3 |
-| 19:00 | USD | Low | Mortgage Refinance Index |  |  | 385.8 |
-| 19:00 | ZAR | Low | Retail Sales (YoY) (Aug) |  | -1.0% | -1.8% |
+| 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.900% |  | 2.780% |
+| 18:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.67% |
+| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
+| 43 min | USD | Low | MBA Purchase Index |  |  | 137.5 |
+| 43 min | USD | Low | Mortgage Market Index |  |  | 179.3 |
+| 43 min | USD | Low | Mortgage Refinance Index |  |  | 385.8 |
+| 43 min | ZAR | Low | Retail Sales (YoY) (Aug) |  | -1.0% | -1.8% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 1.2% | 2.4% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.7% | 0.7% |
