@@ -25,8 +25,8 @@
 | 14:00 | GBP | Low | Core PPI Output (YoY) (Sep) | 0.7% |  | 1.5% |
 | 14:00 | GBP | Low | Core RPI (YoY) (Sep) | 7.6% |  | 7.8% |
 | 14:00 | GBP | Low | Core RPI (MoM) (Sep) | 0.4% |  | 0.5% |
-| 14:00 | GBP | High | CPI (YoY) (Sep) | 6.7% | 6.6% | 6.7% |
 | 14:00 | GBP | Moderate | CPI (MoM) (Sep) | 0.5% | 0.5% | 0.3% |
+| 14:00 | GBP | High | CPI (YoY) (Sep) | 6.7% | 6.6% | 6.7% |
 | 14:00 | GBP | Low | CPI, n.s.a (Sep) | 132.00 |  | 131.30 |
 | 14:00 | GBP | Low | PPI Input (YoY) (Sep) | -2.6% |  | -2.0% |
 | 14:00 | GBP | Moderate | PPI Input (MoM) (Sep) | 0.4% | 0.9% | 0.8% |
@@ -54,15 +54,15 @@
 | 17:00 | EUR | Low | HICP ex Energy and Food (MoM) (Sep) | 0.2% | 0.2% | 0.3% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction | 2.900% |  | 2.780% |
 | 18:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.67% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.6% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 137.5 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 179.3 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 385.8 |
-| 43 min | ZAR | Low | Retail Sales (YoY) (Aug) |  | -1.0% | -1.8% |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 1.2% | 2.4% |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.7% | 0.7% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.70% |  | 7.67% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -6.9% |  | 0.6% |
+| 19:00 | USD | Low | MBA Purchase Index | 129.8 |  | 137.5 |
+| 19:00 | USD | Low | Mortgage Market Index | 166.9 |  | 179.3 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 347.6 |  | 385.8 |
+| 19:00 | ZAR | Low | Retail Sales (YoY) (Aug) | -0.5% | -1.0% | -1.0% |
+| 17 min | INR | Low | M3 Money Supply |  |  | 10.8% |
+| 47 min | BRL | Moderate | Retail Sales (YoY) (Aug) |  | 1.2% | 2.4% |
+| 47 min | BRL | Moderate | Retail Sales (MoM) (Aug) |  | -0.7% | 0.7% |
 | 20:15 | CAD | Moderate | Housing Starts (Sep) |  | 240.0K | 252.8K |
 | 20:30 | USD | Moderate | Building Permits (MoM) (Sep) |  |  | 6.8% |
 | 20:30 | USD | High | Building Permits (Sep) |  | 1.455M | 1.541M |
