@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:20 | USD | Fed Goolsbee Speaks |  |  |  |
-| 01:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 6 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 16 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.316T |
 | 05:45 | NZD | Exports (Sep) |  |  | 4.99B |
 | 05:45 | NZD | Imports (Sep) |  |  | 7.28B |
@@ -25,8 +25,8 @@
 | 14:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 37.3% |
 | 14:00 | EUR | German Car Registration (MoM) (Sep) |  |  | 12.4% |
 | 14:00 | EUR | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
-| 14:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 14:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 24.3% |
+| 14:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 16:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Sep) |  |  | 1.80% |
 | 18:00 | CNY | FDI |  |  | -5.10% |

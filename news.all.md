@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 01:20 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 01:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 02:00 | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
+| 6 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 16 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 46 min | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,952B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.316T |
@@ -25,8 +25,8 @@
 | 11:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
 | 14:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -40.5% |
 | 14:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | 24.4% |
-| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
+| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 2.468B |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.1% | 0.4% |
@@ -37,8 +37,8 @@
 | 14:00 | EUR | Low | German Car Registration (MoM) (Sep) |  |  | 12.4% |
 | 14:00 | EUR | Low | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.4% | 0.3% |
-| 14:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | 24.3% |
+| 14:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 16:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Sep) |  |  | 1.80% |
 | 18:00 | CNY | Low | FDI |  |  | -5.10% |
