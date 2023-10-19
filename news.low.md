@@ -16,17 +16,17 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
 | 09:30 | CNY | House Prices (YoY) (Sep) | -0.1% |  | -0.1% |
+| 12:00 | IDR | Loans (YoY) (Sep) | 8.96% |  | 9.06% |
 | 14:00 | CHF | Trade Balance (Sep) | 6.316B | 3.770B | 3.814B |
 | 14:00 | NOK | Industrial Confidence (Q3) | -2.2 |  | -5.1 |
 | 14:45 | EUR | French Business Survey (Oct) | 98 | 99 | 99 |
 | 15:00 | IDR | Deposit Facility Rate (Oct) | 5.25% | 5.00% | 5.00% |
 | 15:00 | IDR | Lending Facility Rate (Oct) | 6.75% | 6.50% | 6.50% |
-| 15:20 | IDR | Loans (YoY) (Sep) | 8.96% |  | 9.06% |
 | 16:00 | EUR | Spanish Trade Balance | -4.40B |  | -4.90B |
-| 16:00 | EUR | Current Account (Aug) | 27.7B |  | 20.9B |
+| 16:00 | EUR | Current Account (Aug) | 27.7B |  | 21.0B |
 | 16:00 | EUR | Current Account n.s.a. (Aug) | 30.7B |  | 26.9B |
-| 10 min | HKD | Unemployment Rate (Sep) |  |  | 2.8% |
-| 40 min | CNY | FDI |  |  | -5.10% |
+| 16:30 | HKD | Unemployment Rate (Sep) | 2.8% |  | 2.8% |
+| 44 min | CNY | FDI |  |  | -5.10% |
 | 20:00 | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,702K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 206.25K |
