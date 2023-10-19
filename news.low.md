@@ -36,10 +36,10 @@
 | 20:30 | USD | Philly Fed New Orders (Oct) | 4.4 |  | -10.2 |
 | 20:30 | USD | Philly Fed Prices Paid (Oct) | 23.10 |  | 25.70 |
 | 20:30 | CAD | IPPI (MoM) (Sep) | 0.4% | 0.3% | 1.9% |
-| 20:30 | CAD | IPPI (YoY) (Sep) | 0.6% |  | -0.5% |
+| 20:30 | CAD | IPPI (YoY) (Sep) | 0.6% |  | 0.0% |
 | 20:30 | CAD | RMPI (YoY) (Sep) | 2.4% |  | -4.0% |
-| 29 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
+| 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 40 min | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 22:30 | USD | Natural Gas Storage |  | 80B | 84B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.325% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.345% |

@@ -18,4 +18,4 @@
 | 15:30 | IDR | Interest Rate Decision | 6.00% | 5.75% | 5.75% |
 | 20:30 | USD | Philly Fed Employment (Oct) | 4.0 |  | -5.7 |
 | 20:30 | CAD | RMPI (MoM) (Sep) | 3.5% | 2.3% | 3.0% |
-| 22:00 | USD | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
+| 40 min | USD | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
