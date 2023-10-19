@@ -14,21 +14,21 @@
 | 04:00 | USD | Moderate | TIC Net Long-Term Transactions (Aug) | 63.5B | 76.8B | 9.5B |
 | 04:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Aug) | 63.50B |  | 9.50B |
 | 06:55 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 35 min | JPY | Moderate | Adjusted Trade Balance |  | -0.50T | -0.56T |
-| 35 min | JPY | Moderate | Exports (YoY) (Sep) |  | 3.1% | -0.8% |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 183.4B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,436.1B |
-| 35 min | JPY | Low | Imports (YoY) (Sep) |  | -12.9% | -17.8% |
-| 35 min | JPY | Moderate | Trade Balance (Sep) |  | -425.0B | -930.5B |
-| 08:30 | AUD | Moderate | Employment Change (Sep) |  | 18.0K | 64.9K |
-| 08:30 | AUD | Moderate | Full Employment Change (Sep) |  |  | 2.8K |
-| 08:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -3 |
-| 08:30 | AUD | Low | Participation Rate (Sep) |  | 67.0% | 67.0% |
-| 08:30 | AUD | Low | Reserve Assets Total (Sep) |  |  | 93,882.0B |
-| 08:30 | AUD | Moderate | Unemployment Rate (Sep) |  | 3.7% | 3.7% |
+| 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.43T | -0.50T | -0.55T |
+| 07:50 | JPY | Moderate | Exports (YoY) (Sep) | 4.3% | 3.1% | -0.8% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 794.0B |  | 185.4B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,259.9B |  | 1,437.5B |
+| 07:50 | JPY | Low | Imports (YoY) (Sep) | -16.3% | -12.9% | -17.7% |
+| 07:50 | JPY | Moderate | Trade Balance (Sep) | 62.4B | -425.0B | -937.8B |
+| 08:30 | AUD | Moderate | Employment Change (Sep) | 6.7K | 18.0K | 64.9K |
+| 08:30 | AUD | Moderate | Full Employment Change (Sep) | -39.9K |  | 7.2K |
+| 08:30 | AUD | Low | NAB Quarterly Business Confidence | -1 |  | -4 |
+| 08:30 | AUD | Low | Participation Rate (Sep) | 66.7% | 67.0% | 67.0% |
+| 08:30 | AUD | Moderate | Unemployment Rate (Sep) | 3.6% | 3.7% | 3.7% |
 | 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Low | Interest Rate Decision (Oct) |  | 3.50% | 3.50% |
-| 09:30 | CNY | Low | House Prices (YoY) (Sep) |  |  | -0.1% |
+| 09:00 | KRW | Low | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
+| 22 min | CNY | Low | House Prices (YoY) (Sep) |  |  | -0.1% |
+| 11:30 | AUD | Low | Reserve Assets Total (Sep) |  |  | 93.9B |
 | 14:00 | CHF | Low | Trade Balance (Sep) |  | 3.770B | 4.054B |
 | 14:00 | NOK | Low | Industrial Confidence (Q3) |  |  | -5.3 |
 | 14:45 | EUR | Low | French Business Survey (Oct) |  | 99 | 99 |
@@ -51,13 +51,13 @@
 | 20:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | -5.7 |
 | 20:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
-| 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
+| 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
+| 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
+| 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 22:30 | USD | Low | Natural Gas Storage |  |  | 84B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.325% |

@@ -7,15 +7,15 @@
 | 04:00 | USD | Overall Net Capital Flow (Aug) | 134.40B |  | 141.40B |
 | 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) | 63.50B |  | 9.50B |
 | 06:55 | USD | Fed Governor Cook Speaks |  |  |  |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 183.4B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,436.1B |
-| 35 min | JPY | Imports (YoY) (Sep) |  | -12.9% | -17.8% |
-| 08:30 | AUD | NAB Quarterly Business Confidence |  |  | -3 |
-| 08:30 | AUD | Participation Rate (Sep) |  | 67.0% | 67.0% |
-| 08:30 | AUD | Reserve Assets Total (Sep) |  |  | 93,882.0B |
+| 07:50 | JPY | Foreign Bonds Buying | 794.0B |  | 185.4B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 1,259.9B |  | 1,437.5B |
+| 07:50 | JPY | Imports (YoY) (Sep) | -16.3% | -12.9% | -17.7% |
+| 08:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -4 |
+| 08:30 | AUD | Participation Rate (Sep) | 66.7% | 67.0% | 67.0% |
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Interest Rate Decision (Oct) |  | 3.50% | 3.50% |
-| 09:30 | CNY | House Prices (YoY) (Sep) |  |  | -0.1% |
+| 09:00 | KRW | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
+| 22 min | CNY | House Prices (YoY) (Sep) |  |  | -0.1% |
+| 11:30 | AUD | Reserve Assets Total (Sep) |  |  | 93.9B |
 | 14:00 | CHF | Trade Balance (Sep) |  | 3.770B | 4.054B |
 | 14:00 | NOK | Industrial Confidence (Q3) |  |  | -5.3 |
 | 14:45 | EUR | French Business Survey (Oct) |  | 99 | 99 |
@@ -34,8 +34,8 @@
 | 20:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 7.50 |
 | 20:30 | USD | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
+| 20:30 | CAD | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
