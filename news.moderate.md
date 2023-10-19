@@ -15,7 +15,7 @@
 | 08:30 | AUD | Employment Change (Sep) | 6.7K | 20.0K | 63.3K |
 | 08:30 | AUD | Full Employment Change (Sep) | -39.9K |  | 7.2K |
 | 08:30 | AUD | Unemployment Rate (Sep) | 3.6% | 3.7% | 3.7% |
-| 16 min | IDR | Interest Rate Decision |  | 5.75% | 5.75% |
+| 15:30 | IDR | Interest Rate Decision | 6.00% | 5.75% | 5.75% |
 | 20:30 | USD | Philly Fed Employment (Oct) |  |  | -5.7 |
 | 20:30 | CAD | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 22:00 | USD | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |

@@ -32,15 +32,15 @@
 | 14:00 | CHF | Low | Trade Balance (Sep) | 6.316B | 3.770B | 3.814B |
 | 14:00 | NOK | Low | Industrial Confidence (Q3) | -2.2 |  | -5.1 |
 | 14:45 | EUR | Low | French Business Survey (Oct) | 98 | 99 | 99 |
-| 6 min | IDR | Low | Loans (YoY) |  |  | 9.06% |
-| 16 min | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
-| 16 min | IDR | Low | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
-| 16 min | IDR | Low | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
-| 46 min | EUR | Low | Spanish Trade Balance |  |  | -4.90B |
-| 46 min | EUR | Low | Current Account (Aug) |  |  | 20.9B |
-| 46 min | EUR | Low | Current Account n.s.a. (Aug) |  |  | 26.9B |
-| 16:30 | HKD | Low | Unemployment Rate (Sep) |  |  | 2.8% |
-| 17:00 | CNY | Low | FDI |  |  | -5.10% |
+| 15:00 | IDR | Low | Deposit Facility Rate (Oct) | 5.25% | 5.00% | 5.00% |
+| 15:00 | IDR | Low | Lending Facility Rate (Oct) | 6.75% | 6.50% | 6.50% |
+| 15:20 | IDR | Low | Loans (YoY) (Sep) | 8.96% |  | 9.06% |
+| 15:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 5.75% | 5.75% |
+| 16:00 | EUR | Low | Spanish Trade Balance | -4.40B |  | -4.90B |
+| 16:00 | EUR | Low | Current Account (Aug) | 27.7B |  | 20.9B |
+| 16:00 | EUR | Low | Current Account n.s.a. (Aug) | 30.7B |  | 26.9B |
+| 10 min | HKD | Low | Unemployment Rate (Sep) |  |  | 2.8% |
+| 40 min | CNY | Low | FDI |  |  | -5.10% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,710K | 1,702K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 212K | 209K |
@@ -56,8 +56,8 @@
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 22:30 | USD | Low | Natural Gas Storage |  | 80B | 84B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.325% |

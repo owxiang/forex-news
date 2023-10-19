@@ -19,14 +19,14 @@
 | 14:00 | CHF | Trade Balance (Sep) | 6.316B | 3.770B | 3.814B |
 | 14:00 | NOK | Industrial Confidence (Q3) | -2.2 |  | -5.1 |
 | 14:45 | EUR | French Business Survey (Oct) | 98 | 99 | 99 |
-| 6 min | IDR | Loans (YoY) |  |  | 9.06% |
-| 16 min | IDR | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
-| 16 min | IDR | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
-| 46 min | EUR | Spanish Trade Balance |  |  | -4.90B |
-| 46 min | EUR | Current Account (Aug) |  |  | 20.9B |
-| 46 min | EUR | Current Account n.s.a. (Aug) |  |  | 26.9B |
-| 16:30 | HKD | Unemployment Rate (Sep) |  |  | 2.8% |
-| 17:00 | CNY | FDI |  |  | -5.10% |
+| 15:00 | IDR | Deposit Facility Rate (Oct) | 5.25% | 5.00% | 5.00% |
+| 15:00 | IDR | Lending Facility Rate (Oct) | 6.75% | 6.50% | 6.50% |
+| 15:20 | IDR | Loans (YoY) (Sep) | 8.96% |  | 9.06% |
+| 16:00 | EUR | Spanish Trade Balance | -4.40B |  | -4.90B |
+| 16:00 | EUR | Current Account (Aug) | 27.7B |  | 20.9B |
+| 16:00 | EUR | Current Account n.s.a. (Aug) | 30.7B |  | 26.9B |
+| 10 min | HKD | Unemployment Rate (Sep) |  |  | 2.8% |
+| 40 min | CNY | FDI |  |  | -5.10% |
 | 20:00 | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,702K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 206.25K |
