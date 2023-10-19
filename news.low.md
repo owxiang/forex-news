@@ -26,7 +26,9 @@
 | 16:00 | EUR | Current Account (Aug) | 27.7B |  | 21.0B |
 | 16:00 | EUR | Current Account n.s.a. (Aug) | 30.7B |  | 26.9B |
 | 16:30 | HKD | Unemployment Rate (Sep) | 2.8% |  | 2.8% |
-| 44 min | CNY | FDI |  |  | -5.10% |
+| 16:40 | EUR | Spanish 10-Year Obligacion Auction | 4.067% |  | 3.980% |
+| 16:40 | EUR | Spanish 2-Year Bonos Auction | 3.510% |  | 0.188% |
+| 16:40 | EUR | Spanish 7-Year Obligacion Auction | 3.680% |  | 3.330% |
 | 20:00 | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,702K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 206.25K |

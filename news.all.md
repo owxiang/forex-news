@@ -40,7 +40,9 @@
 | 16:00 | EUR | Low | Current Account (Aug) | 27.7B |  | 21.0B |
 | 16:00 | EUR | Low | Current Account n.s.a. (Aug) | 30.7B |  | 26.9B |
 | 16:30 | HKD | Low | Unemployment Rate (Sep) | 2.8% |  | 2.8% |
-| 44 min | CNY | Low | FDI |  |  | -5.10% |
+| 16:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 4.067% |  | 3.980% |
+| 16:40 | EUR | Low | Spanish 2-Year Bonos Auction | 3.510% |  | 0.188% |
+| 16:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.680% |  | 3.330% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,710K | 1,702K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 212K | 209K |
@@ -53,8 +55,8 @@
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
 | 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
-| 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
+| 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
