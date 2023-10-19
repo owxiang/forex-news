@@ -18,13 +18,13 @@
 | 09:30 | CNY | House Prices (YoY) (Sep) | -0.1% |  | -0.1% |
 | 14:00 | CHF | Trade Balance (Sep) | 6.316B | 3.770B | 3.814B |
 | 14:00 | NOK | Industrial Confidence (Q3) | -2.2 |  | -5.1 |
-| 24 min | EUR | French Business Survey (Oct) |  | 99 | 99 |
-| 59 min | IDR | Loans (YoY) |  |  | 9.06% |
-| 15:30 | IDR | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
-| 15:30 | IDR | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
-| 16:00 | EUR | Spanish Trade Balance |  |  | -4.90B |
-| 16:00 | EUR | Current Account (Aug) |  |  | 20.9B |
-| 16:00 | EUR | Current Account n.s.a. (Aug) |  |  | 26.9B |
+| 14:45 | EUR | French Business Survey (Oct) | 98 | 99 | 99 |
+| 6 min | IDR | Loans (YoY) |  |  | 9.06% |
+| 16 min | IDR | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
+| 16 min | IDR | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
+| 46 min | EUR | Spanish Trade Balance |  |  | -4.90B |
+| 46 min | EUR | Current Account (Aug) |  |  | 20.9B |
+| 46 min | EUR | Current Account n.s.a. (Aug) |  |  | 26.9B |
 | 16:30 | HKD | Unemployment Rate (Sep) |  |  | 2.8% |
 | 17:00 | CNY | FDI |  |  | -5.10% |
 | 20:00 | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
@@ -34,8 +34,8 @@
 | 20:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 7.50 |
 | 20:30 | USD | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
+| 20:30 | CAD | IPPI (YoY) (Sep) |  |  | -0.5% |
 | 20:30 | CAD | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
