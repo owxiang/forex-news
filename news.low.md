@@ -16,8 +16,8 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
 | 09:30 | CNY | House Prices (YoY) (Sep) | -0.1% |  | -0.1% |
-| 14:00 | CHF | Trade Balance (Sep) |  | 3.770B | 4.054B |
-| 14:00 | NOK | Industrial Confidence (Q3) |  |  | -5.3 |
+| 46 min | CHF | Trade Balance (Sep) |  | 3.770B | 4.054B |
+| 46 min | NOK | Industrial Confidence (Q3) |  |  | -5.3 |
 | 14:45 | EUR | French Business Survey (Oct) |  | 99 | 99 |
 | 15:20 | IDR | Loans (YoY) |  |  | 9.06% |
 | 15:30 | IDR | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
