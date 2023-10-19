@@ -29,17 +29,16 @@
 | 16:40 | EUR | Spanish 10-Year Obligacion Auction | 4.067% |  | 3.980% |
 | 16:40 | EUR | Spanish 2-Year Bonos Auction | 3.510% |  | 0.188% |
 | 16:40 | EUR | Spanish 7-Year Obligacion Auction | 3.680% |  | 3.330% |
-| 47 min | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
-| 20:30 | USD | Continuing Jobless Claims |  | 1,710K | 1,702K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 206.25K |
-| 20:30 | USD | Philly Fed Business Conditions (Oct) |  |  | 11.1 |
-| 20:30 | USD | Philly Fed CAPEX Index (Oct) |  |  | 7.50 |
-| 20:30 | USD | Philly Fed New Orders (Oct) |  |  | -10.2 |
-| 20:30 | USD | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
-| 20:30 | CAD | IPPI (YoY) (Sep) |  |  | -0.5% |
-| 20:30 | CAD | RMPI (YoY) (Sep) |  |  | -4.3% |
-| 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 20:30 | USD | Continuing Jobless Claims | 1,734K | 1,710K | 1,705K |
+| 20:30 | USD | Jobless Claims 4-Week Avg. | 205.75K |  | 206.75K |
+| 20:30 | USD | Philly Fed Business Conditions (Oct) | 9.2 |  | 11.1 |
+| 20:30 | USD | Philly Fed CAPEX Index (Oct) | -4.80 |  | 7.50 |
+| 20:30 | USD | Philly Fed New Orders (Oct) | 4.4 |  | -10.2 |
+| 20:30 | USD | Philly Fed Prices Paid (Oct) | 23.10 |  | 25.70 |
+| 20:30 | CAD | IPPI (MoM) (Sep) | 0.4% | 0.3% | 1.9% |
+| 20:30 | CAD | IPPI (YoY) (Sep) | 0.6% |  | -0.5% |
+| 20:30 | CAD | RMPI (YoY) (Sep) | 2.4% |  | -4.0% |
+| 29 min | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 22:30 | USD | Natural Gas Storage |  | 80B | 84B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.325% |

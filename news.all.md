@@ -43,21 +43,20 @@
 | 16:40 | EUR | Low | Spanish 10-Year Obligacion Auction | 4.067% |  | 3.980% |
 | 16:40 | EUR | Low | Spanish 2-Year Bonos Auction | 3.510% |  | 0.188% |
 | 16:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.680% |  | 3.330% |
-| 47 min | BRL | Low | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
-| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,710K | 1,702K |
-| 20:30 | USD | High | Initial Jobless Claims |  | 212K | 209K |
-| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 206.25K |
-| 20:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) |  | -6.4 | -13.5 |
-| 20:30 | USD | Low | Philly Fed Business Conditions (Oct) |  |  | 11.1 |
-| 20:30 | USD | Low | Philly Fed CAPEX Index (Oct) |  |  | 7.50 |
-| 20:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | -5.7 |
-| 20:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | -10.2 |
-| 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
-| 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
-| 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
-| 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
-| 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 20:30 | USD | Low | Continuing Jobless Claims | 1,734K | 1,710K | 1,705K |
+| 20:30 | USD | High | Initial Jobless Claims | 198K | 212K | 211K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 205.75K |  | 206.75K |
+| 20:30 | USD | High | Philadelphia Fed Manufacturing Index (Oct) | -9.0 | -6.4 | -13.5 |
+| 20:30 | USD | Low | Philly Fed Business Conditions (Oct) | 9.2 |  | 11.1 |
+| 20:30 | USD | Low | Philly Fed CAPEX Index (Oct) | -4.80 |  | 7.50 |
+| 20:30 | USD | Moderate | Philly Fed Employment (Oct) | 4.0 |  | -5.7 |
+| 20:30 | USD | Low | Philly Fed New Orders (Oct) | 4.4 |  | -10.2 |
+| 20:30 | USD | Low | Philly Fed Prices Paid (Oct) | 23.10 |  | 25.70 |
+| 20:30 | CAD | Low | IPPI (MoM) (Sep) | 0.4% | 0.3% | 1.9% |
+| 20:30 | CAD | Low | IPPI (YoY) (Sep) | 0.6% |  | -0.5% |
+| 20:30 | CAD | Moderate | RMPI (MoM) (Sep) | 3.5% | 2.3% | 3.0% |
+| 20:30 | CAD | Low | RMPI (YoY) (Sep) | 2.4% |  | -4.0% |
+| 29 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
