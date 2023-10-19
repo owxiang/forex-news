@@ -20,7 +20,7 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,259.9B |  | 1,437.5B |
 | 07:50 | JPY | Low | Imports (YoY) (Sep) | -16.3% | -12.9% | -17.7% |
 | 07:50 | JPY | Moderate | Trade Balance (Sep) | 62.4B | -425.0B | -937.8B |
-| 08:30 | AUD | Moderate | Employment Change (Sep) | 6.7K | 18.0K | 63.3K |
+| 08:30 | AUD | Moderate | Employment Change (Sep) | 6.7K | 20.0K | 63.3K |
 | 08:30 | AUD | Moderate | Full Employment Change (Sep) | -39.9K |  | 7.2K |
 | 08:30 | AUD | Low | NAB Quarterly Business Confidence | -1 |  | -4 |
 | 08:30 | AUD | Low | Participation Rate (Sep) | 66.7% | 67.0% | 67.0% |
@@ -32,10 +32,10 @@
 | 14:00 | CHF | Low | Trade Balance (Sep) |  | 3.770B | 4.054B |
 | 14:00 | NOK | Low | Industrial Confidence (Q3) |  |  | -5.3 |
 | 14:45 | EUR | Low | French Business Survey (Oct) |  | 99 | 99 |
-| 15:00 | IDR | Low | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
-| 15:00 | IDR | Low | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
 | 15:20 | IDR | Low | Loans (YoY) |  |  | 9.06% |
 | 15:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
+| 15:30 | IDR | Low | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
+| 15:30 | IDR | Low | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
 | 16:00 | EUR | Low | Spanish Trade Balance |  |  | -4.90B |
 | 16:00 | EUR | Low | Current Account (Aug) |  |  | 20.9B |
 | 16:00 | EUR | Low | Current Account n.s.a. (Aug) |  |  | 26.9B |
@@ -56,9 +56,9 @@
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
-| 22:30 | USD | Low | Natural Gas Storage |  |  | 84B |
+| 22:30 | USD | Low | Natural Gas Storage |  | 80B | 84B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.325% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.345% |

@@ -19,9 +19,9 @@
 | 14:00 | CHF | Trade Balance (Sep) |  | 3.770B | 4.054B |
 | 14:00 | NOK | Industrial Confidence (Q3) |  |  | -5.3 |
 | 14:45 | EUR | French Business Survey (Oct) |  | 99 | 99 |
-| 15:00 | IDR | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
-| 15:00 | IDR | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
 | 15:20 | IDR | Loans (YoY) |  |  | 9.06% |
+| 15:30 | IDR | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
+| 15:30 | IDR | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
 | 16:00 | EUR | Spanish Trade Balance |  |  | -4.90B |
 | 16:00 | EUR | Current Account (Aug) |  |  | 20.9B |
 | 16:00 | EUR | Current Account n.s.a. (Aug) |  |  | 26.9B |
@@ -39,6 +39,6 @@
 | 20:30 | CAD | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 22:00 | USD | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
-| 22:30 | USD | Natural Gas Storage |  |  | 84B |
+| 22:30 | USD | Natural Gas Storage |  | 80B | 84B |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.325% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.345% |
