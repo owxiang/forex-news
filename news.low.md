@@ -12,10 +12,10 @@
 | 07:50 | JPY | Imports (YoY) (Sep) | -16.3% | -12.9% | -17.7% |
 | 08:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -4 |
 | 08:30 | AUD | Participation Rate (Sep) | 66.7% | 67.0% | 67.0% |
+| 08:30 | AUD | Reserve Assets Total (Sep) | 93.2B |  | 93.9B |
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
-| 22 min | CNY | House Prices (YoY) (Sep) |  |  | -0.1% |
-| 11:30 | AUD | Reserve Assets Total (Sep) |  |  | 93.9B |
+| 09:30 | CNY | House Prices (YoY) (Sep) | -0.1% |  | -0.1% |
 | 14:00 | CHF | Trade Balance (Sep) |  | 3.770B | 4.054B |
 | 14:00 | NOK | Industrial Confidence (Q3) |  |  | -5.3 |
 | 14:45 | EUR | French Business Survey (Oct) |  | 99 | 99 |
