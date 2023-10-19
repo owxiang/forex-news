@@ -6,13 +6,12 @@
 | 01:20 | USD | Fed Goolsbee Speaks |  |  |  |
 | 01:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.250T |  | 3.316T |
-| 33 min | NZD | Exports (Sep) |  |  | 4.99B |
-| 33 min | NZD | Imports (Sep) |  |  | 7.28B |
-| 33 min | NZD | Trade Balance (YoY) (Sep) |  |  | -15,540M |
-| 33 min | NZD | Trade Balance (MoM) (Sep) |  |  | -2,291M |
-| 07:00 | USD | Fed Logan Speaks |  |  |  |
-| 07:01 | GBP | GfK Consumer Confidence (Oct) |  | -20 | -21 |
-| 07:30 | JPY | CPI, n.s.a (MoM) (Sep) |  |  | 0.2% |
+| 05:45 | NZD | Exports (Sep) | 4.87B |  | 4.97B |
+| 05:45 | NZD | Imports (Sep) | 7.20B |  | 7.24B |
+| 05:45 | NZD | Trade Balance (YoY) (Sep) | -15,330M |  | -15,520M |
+| 05:45 | NZD | Trade Balance (MoM) (Sep) | -2,329M |  | -2,273M |
+| 46 min | USD | Fed Logan Speaks |  |  |  |
+| 47 min | GBP | GfK Consumer Confidence (Oct) |  | -20 | -21 |
 | 07:30 | JPY | National CPI (YoY) (Sep) |  |  | 3.2% |
 | 09:15 | CNY | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 4.2% |
@@ -26,8 +25,8 @@
 | 14:00 | EUR | German Car Registration (MoM) (Sep) |  |  | 12.4% |
 | 14:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 37.3% |
 | 14:00 | EUR | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
-| 14:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 14:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 24.3% |
+| 14:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 16:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Sep) |  |  | 1.80% |
 | 18:00 | CNY | FDI |  |  | -5.10% |
