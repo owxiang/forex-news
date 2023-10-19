@@ -1,45 +1,38 @@
-## 19 October 2023 - Low Impact Forex News
+## 20 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows | 4.078B | 1.454B | 5.546B |
-| 04:00 | USD | US Foreign Buying, T-bonds (Aug) | 22.10B |  | -4.40B |
-| 04:00 | USD | Overall Net Capital Flow (Aug) | 134.40B |  | 141.40B |
-| 04:00 | USD | TIC Net Long-Term Transactions including Swaps (Aug) | 63.50B |  | 9.50B |
-| 06:55 | USD | Fed Governor Cook Speaks |  |  |  |
-| 07:50 | JPY | Foreign Bonds Buying | 794.0B |  | 185.4B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 1,259.9B |  | 1,437.5B |
-| 07:50 | JPY | Imports (YoY) (Sep) | -16.3% | -12.9% | -17.7% |
-| 08:30 | AUD | NAB Quarterly Business Confidence | -1 |  | -4 |
-| 08:30 | AUD | Participation Rate (Sep) | 66.7% | 67.0% | 67.0% |
-| 08:30 | AUD | Reserve Assets Total (Sep) | 93.2B |  | 93.9B |
-| 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
-| 09:30 | CNY | House Prices (YoY) (Sep) | -0.1% |  | -0.1% |
-| 12:00 | IDR | Loans (YoY) (Sep) | 8.96% |  | 9.06% |
-| 14:00 | CHF | Trade Balance (Sep) | 6.316B | 3.770B | 3.814B |
-| 14:00 | NOK | Industrial Confidence (Q3) | -2.2 |  | -5.1 |
-| 14:45 | EUR | French Business Survey (Oct) | 98 | 99 | 99 |
-| 15:00 | IDR | Deposit Facility Rate (Oct) | 5.25% | 5.00% | 5.00% |
-| 15:00 | IDR | Lending Facility Rate (Oct) | 6.75% | 6.50% | 6.50% |
-| 16:00 | EUR | Spanish Trade Balance | -4.40B |  | -4.90B |
-| 16:00 | EUR | Current Account (Aug) | 27.7B |  | 21.0B |
-| 16:00 | EUR | Current Account n.s.a. (Aug) | 30.7B |  | 26.9B |
-| 16:30 | HKD | Unemployment Rate (Sep) | 2.8% |  | 2.8% |
-| 16:40 | EUR | Spanish 10-Year Obligacion Auction | 4.067% |  | 3.980% |
-| 16:40 | EUR | Spanish 2-Year Bonos Auction | 3.510% |  | 0.188% |
-| 16:40 | EUR | Spanish 7-Year Obligacion Auction | 3.680% |  | 3.330% |
-| 20:30 | USD | Continuing Jobless Claims | 1,734K | 1,710K | 1,705K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 205.75K |  | 206.75K |
-| 20:30 | USD | Philly Fed Business Conditions (Oct) | 9.2 |  | 11.1 |
-| 20:30 | USD | Philly Fed CAPEX Index (Oct) | -4.80 |  | 7.50 |
-| 20:30 | USD | Philly Fed New Orders (Oct) | 4.4 |  | -10.2 |
-| 20:30 | USD | Philly Fed Prices Paid (Oct) | 23.10 |  | 25.70 |
-| 20:30 | CAD | IPPI (YoY) (Sep) | 0.6% |  | 0.0% |
-| 20:30 | CAD | IPPI (MoM) (Sep) | 0.4% | 0.3% | 1.9% |
-| 20:30 | CAD | RMPI (YoY) (Sep) | 2.4% |  | -4.0% |
-| 21:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | US Leading Index (MoM) (Sep) | -0.7% | -0.4% | -0.5% |
-| 22:30 | USD | Natural Gas Storage | 97B | 80B | 84B |
-| 14 min | USD | 4-Week Bill Auction |  |  | 5.325% |
-| 14 min | USD | 8-Week Bill Auction |  |  | 5.345% |
+| 01:20 | USD | Fed Goolsbee Speaks |  |  |  |
+| 01:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.316T |
+| 05:45 | NZD | Exports (Sep) |  |  | 4.99B |
+| 05:45 | NZD | Imports (Sep) |  |  | 7.28B |
+| 05:45 | NZD | Trade Balance (YoY) (Sep) |  |  | -15,540M |
+| 05:45 | NZD | Trade Balance (MoM) (Sep) |  |  | -2,291M |
+| 07:00 | USD | Fed Logan Speaks |  |  |  |
+| 07:01 | GBP | GfK Consumer Confidence (Oct) |  | -20 | -21 |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Sep) |  |  | 0.3% |
+| 07:30 | JPY | National CPI (YoY) (Sep) |  |  | 3.2% |
+| 09:15 | CNY | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
+| 10:00 | NZD | Credit Card Spending (YoY) |  |  | 4.2% |
+| 11:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
+| 14:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.5% |
+| 14:00 | GBP | Car Registration (YoY) (Sep) |  |  | 24.4% |
+| 14:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
+| 14:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 2.468B |
+| 14:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | 11.9% |
+| 14:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -33.1% |
+| 14:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 37.3% |
+| 14:00 | EUR | German Car Registration (MoM) (Sep) |  |  | 12.4% |
+| 14:00 | EUR | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
+| 14:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -11.9% |
+| 14:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 24.3% |
+| 16:30 | HKD | CPI (MoM) (Sep) |  |  | 0.00% |
+| 16:30 | HKD | CPI (YoY) (Sep) |  |  | 1.80% |
+| 18:00 | CNY | FDI |  |  | -5.10% |
+| 19:30 | INR | Bank Loan Growth |  |  | 20.0% |
+| 19:30 | INR | Deposit Growth |  |  | 13.2% |
+| 19:30 | INR | FX Reserves, USD |  |  | 584.74B |
+| 20:00 | MXN | Retail Sales (MoM) (Aug) |  |  | 0.2% |
+| 20:00 | MXN | Retail Sales (YoY) (Aug) |  |  | 5.1% |
+| 20:00 | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
