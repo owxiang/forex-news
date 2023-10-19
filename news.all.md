@@ -52,14 +52,14 @@
 | 20:30 | USD | Moderate | Philly Fed Employment (Oct) | 4.0 |  | -5.7 |
 | 20:30 | USD | Low | Philly Fed New Orders (Oct) | 4.4 |  | -10.2 |
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) | 23.10 |  | 25.70 |
-| 20:30 | CAD | Low | IPPI (MoM) (Sep) | 0.4% | 0.3% | 1.9% |
 | 20:30 | CAD | Low | IPPI (YoY) (Sep) | 0.6% |  | 0.0% |
+| 20:30 | CAD | Low | IPPI (MoM) (Sep) | 0.4% | 0.3% | 1.9% |
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) | 2.4% |  | -4.0% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) | 3.5% | 2.3% | 3.0% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) | -2.0% |  | -0.7% |
 | 22:00 | USD | High | Existing Home Sales (Sep) | 3.96M | 3.89M | 4.04M |
+| 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) | -2.0% |  | -0.7% |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) | -0.7% | -0.4% | -0.5% |
-| 15 min | USD | Low | Natural Gas Storage |  | 80B | 84B |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.325% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.345% |
+| 22:30 | USD | Low | Natural Gas Storage | 97B | 80B | 84B |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.325% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.345% |
