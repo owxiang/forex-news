@@ -29,10 +29,10 @@
 | 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Low | Interest Rate Decision (Oct) | 3.50% | 3.50% | 3.50% |
 | 09:30 | CNY | Low | House Prices (YoY) (Sep) | -0.1% |  | -0.1% |
-| 46 min | CHF | Low | Trade Balance (Sep) |  | 3.770B | 4.054B |
-| 46 min | NOK | Low | Industrial Confidence (Q3) |  |  | -5.3 |
-| 14:45 | EUR | Low | French Business Survey (Oct) |  | 99 | 99 |
-| 15:20 | IDR | Low | Loans (YoY) |  |  | 9.06% |
+| 14:00 | CHF | Low | Trade Balance (Sep) | 6.316B | 3.770B | 3.814B |
+| 14:00 | NOK | Low | Industrial Confidence (Q3) | -2.2 |  | -5.1 |
+| 24 min | EUR | Low | French Business Survey (Oct) |  | 99 | 99 |
+| 59 min | IDR | Low | Loans (YoY) |  |  | 9.06% |
 | 15:30 | IDR | Moderate | Interest Rate Decision |  | 5.75% | 5.75% |
 | 15:30 | IDR | Low | Deposit Facility Rate (Oct) |  | 5.00% | 5.00% |
 | 15:30 | IDR | Low | Lending Facility Rate (Oct) |  | 6.50% | 6.50% |
@@ -51,8 +51,8 @@
 | 20:30 | USD | Moderate | Philly Fed Employment (Oct) |  |  | -5.7 |
 | 20:30 | USD | Low | Philly Fed New Orders (Oct) |  |  | -10.2 |
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
-| 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
+| 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
 | 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
