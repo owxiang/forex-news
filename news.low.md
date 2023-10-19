@@ -17,14 +17,14 @@
 | 09:15 | CNY | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 4.2% |
 | 11:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
-| 14:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.5% |
 | 14:00 | GBP | Car Registration (YoY) (Sep) |  |  | 24.4% |
+| 14:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.5% |
 | 14:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
 | 14:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 2.468B |
-| 14:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | 11.9% |
 | 14:00 | EUR | Italian Car Registration (MoM) (Sep) |  |  | -33.1% |
-| 14:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 37.3% |
+| 14:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | 11.9% |
 | 14:00 | EUR | German Car Registration (MoM) (Sep) |  |  | 12.4% |
+| 14:00 | EUR | German Car Registration (YoY) (Sep) |  |  | 37.3% |
 | 14:00 | EUR | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
 | 14:00 | EUR | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 14:00 | EUR | French Car Registration (YoY) (Sep) |  |  | 24.3% |
