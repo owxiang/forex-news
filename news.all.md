@@ -53,11 +53,11 @@
 | 20:30 | USD | Low | Philly Fed Prices Paid (Oct) |  |  | 25.70 |
 | 20:30 | CAD | Low | IPPI (MoM) (Sep) |  | 0.3% | 1.3% |
 | 20:30 | CAD | Low | IPPI (YoY) (Sep) |  |  | -0.5% |
-| 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 20:30 | CAD | Low | RMPI (YoY) (Sep) |  |  | -4.3% |
+| 20:30 | CAD | Moderate | RMPI (MoM) (Sep) |  | 2.3% | 3.0% |
 | 21:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
 | 22:00 | USD | Moderate | Existing Home Sales (MoM) (Sep) |  |  | -0.7% |
+| 22:00 | USD | High | Existing Home Sales (Sep) |  | 3.89M | 4.04M |
 | 22:00 | USD | Low | US Leading Index (MoM) (Sep) |  | -0.4% | -0.4% |
 | 22:30 | USD | Low | Natural Gas Storage |  |  | 84B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.325% |
