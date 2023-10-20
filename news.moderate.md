@@ -7,9 +7,9 @@
 | 05:30 | USD | FOMC Member Harker Speaks |  |  |  |
 | 07:30 | JPY | National Core CPI (YoY) (Sep) | 2.8% | 2.7% | 3.1% |
 | 07:30 | JPY | National CPI (MoM) | 0.3% |  | 0.2% |
-| 7 min | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
-| 14:00 | GBP | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
+| 09:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 14:00 | GBP | Core Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
+| 14:00 | GBP | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
 | 14:00 | GBP | Retail Sales (MoM) (Sep) |  | -0.1% | 0.4% |
 | 14:00 | GBP | Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
 | 14:00 | EUR | German PPI (MoM) (Sep) |  | 0.4% | 0.3% |

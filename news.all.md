@@ -20,14 +20,14 @@
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.8% | 2.7% | 3.1% |
 | 07:30 | JPY | Low | National CPI (YoY) (Sep) | 3.0% |  | 3.2% |
 | 07:30 | JPY | Moderate | National CPI (MoM) | 0.3% |  | 0.2% |
-| 7 min | CNY | Low | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
-| 7 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
-| 52 min | NZD | Low | Credit Card Spending (YoY) |  |  | 4.2% |
-| 11:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
-| 14:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -40.5% |
+| 09:15 | CNY | Low | China Loan Prime Rate 5Y (Oct) | 4.20% | 4.20% | 4.20% |
+| 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
+| 10:00 | NZD | Low | Credit Card Spending (YoY) | 3.3% |  | 4.3% |
+| 38 min | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
 | 14:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | 24.4% |
-| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
+| 14:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -40.5% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
+| 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 2.468B |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.1% | 0.4% |

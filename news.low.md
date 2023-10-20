@@ -14,11 +14,11 @@
 | 07:01 | GBP | GfK Consumer Confidence (Oct) | -30 | -20 | -21 |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Sep) | 0.3% |  | 0.3% |
 | 07:30 | JPY | National CPI (YoY) (Sep) | 3.0% |  | 3.2% |
-| 7 min | CNY | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
-| 52 min | NZD | Credit Card Spending (YoY) |  |  | 4.2% |
-| 11:00 | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
-| 14:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.5% |
+| 09:15 | CNY | China Loan Prime Rate 5Y (Oct) | 4.20% | 4.20% | 4.20% |
+| 10:00 | NZD | Credit Card Spending (YoY) | 3.3% |  | 4.3% |
+| 38 min | IDR | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
 | 14:00 | GBP | Car Registration (YoY) (Sep) |  |  | 24.4% |
+| 14:00 | GBP | Car Registration (MoM) (Sep) |  |  | -40.5% |
 | 14:00 | GBP | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
 | 14:00 | GBP | Public Sector Net Cash Requirement (Sep) |  |  | 2.468B |
 | 14:00 | EUR | Italian Car Registration (YoY) (Sep) |  |  | 11.9% |
