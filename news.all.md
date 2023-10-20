@@ -16,12 +16,13 @@
 | 05:45 | NZD | Low | Trade Balance (YoY) (Sep) | -15,330M |  | -15,520M |
 | 07:00 | USD | Low | Fed Logan Speaks |  |  |  |
 | 07:01 | GBP | Low | GfK Consumer Confidence (Oct) | -30 | -20 | -21 |
-| 15 min | JPY | Moderate | National Core CPI (YoY) (Sep) |  | 2.7% | 3.1% |
-| 15 min | JPY | Low | National CPI (YoY) (Sep) |  |  | 3.2% |
-| 15 min | JPY | Moderate | National CPI (MoM) |  |  | 0.2% |
-| 09:15 | CNY | Low | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
-| 09:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
-| 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 4.2% |
+| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | 0.3% |  | 0.3% |
+| 07:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.8% | 2.7% | 3.1% |
+| 07:30 | JPY | Low | National CPI (YoY) (Sep) | 3.0% |  | 3.2% |
+| 07:30 | JPY | Moderate | National CPI (MoM) | 0.3% |  | 0.2% |
+| 7 min | CNY | Low | China Loan Prime Rate 5Y (Oct) |  | 4.20% | 4.20% |
+| 7 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 52 min | NZD | Low | Credit Card Spending (YoY) |  |  | 4.2% |
 | 11:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
 | 14:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -40.5% |
 | 14:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | 24.4% |
@@ -29,16 +30,16 @@
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) |  |  | 2.468B |
-| 14:00 | GBP | Moderate | Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.1% | 0.4% |
-| 14:00 | EUR | Low | Italian Car Registration (MoM) (Sep) |  |  | -33.1% |
+| 14:00 | GBP | Moderate | Retail Sales (YoY) (Sep) |  | 0.0% | -1.4% |
 | 14:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | 11.9% |
+| 14:00 | EUR | Low | Italian Car Registration (MoM) (Sep) |  |  | -33.1% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 37.3% |
 | 14:00 | EUR | Low | German Car Registration (MoM) (Sep) |  |  | 12.4% |
-| 14:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.4% | 0.3% |
 | 14:00 | EUR | Low | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
-| 14:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -11.9% |
+| 14:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.4% | 0.3% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | 24.3% |
+| 14:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 16:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Sep) |  |  | 1.80% |
 | 18:00 | CNY | Low | FDI |  |  | -5.10% |
