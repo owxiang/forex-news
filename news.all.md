@@ -32,16 +32,16 @@
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) | -11.812B |  | 1.514B |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | -0.9% | -0.2% | 0.4% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | -1.0% | -0.1% | -1.3% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 70.9% |  | -33.1% |
+| 14:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Sep) | -0.1% |  | 37.3% |
 | 14:00 | EUR | Low | German Car Registration (MoM) (Sep) | -17.9% |  | 12.4% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.2% | 0.4% | 0.3% |
 | 14:00 | EUR | Low | German PPI (YoY) (Sep) | -14.7% | -14.2% | -12.6% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Sep) | 37.6% |  | -11.9% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Sep) | 10.7% |  | 24.3% |
-| 16:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
-| 16:30 | HKD | Low | CPI (YoY) (Sep) |  | 1.80% | 1.80% |
+| 10 min | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
+| 10 min | HKD | Low | CPI (YoY) (Sep) |  | 1.80% | 1.80% |
 | 18:00 | CNY | Low | FDI |  |  | -5.10% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.0% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
