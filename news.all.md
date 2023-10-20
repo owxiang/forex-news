@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:15 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 501 |
-| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 502 |  | 501 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 624 |  | 622 |
 | Tentative | USD | Moderate | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -10.0K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.8K |
