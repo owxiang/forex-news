@@ -18,14 +18,14 @@
 | 07:01 | GBP | Low | GfK Consumer Confidence (Oct) | -30 | -20 | -21 |
 | 07:30 | JPY | Low | CPI, n.s.a (MoM) (Sep) | 0.3% |  | 0.3% |
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Sep) | 2.8% | 2.7% | 3.1% |
-| 07:30 | JPY | Moderate | National CPI (MoM) | 0.3% |  | 0.2% |
 | 07:30 | JPY | Low | National CPI (YoY) (Sep) | 3.0% |  | 3.2% |
+| 07:30 | JPY | Moderate | National CPI (MoM) | 0.3% |  | 0.2% |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Oct) | 4.20% | 4.20% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | 3.3% |  | 4.3% |
-| 44 min | IDR | Low | Foreign Direct Investment (YoY) (Q3) |  |  | 14.20% |
-| 14:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | 24.4% |
+| 11:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | 16.20% |  | 14.20% |
 | 14:00 | GBP | Low | Car Registration (MoM) (Sep) |  |  | -40.5% |
+| 14:00 | GBP | Low | Car Registration (YoY) (Sep) |  |  | 24.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.4% | 0.6% |
 | 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) |  | -0.2% | -1.4% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Sep) |  | 17.60B | 10.76B |
@@ -34,10 +34,10 @@
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Sep) |  | -0.2% | 0.4% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Sep) |  |  | -33.1% |
 | 14:00 | EUR | Low | Italian Car Registration (YoY) (Sep) |  |  | 11.9% |
-| 14:00 | EUR | Low | German Car Registration (MoM) (Sep) |  |  | 12.4% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Sep) |  |  | 37.3% |
-| 14:00 | EUR | Low | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
+| 14:00 | EUR | Low | German Car Registration (MoM) (Sep) |  |  | 12.4% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Sep) |  | 0.4% | 0.3% |
+| 14:00 | EUR | Low | German PPI (YoY) (Sep) |  | -14.2% | -12.6% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Sep) |  |  | -11.9% |
 | 14:00 | EUR | Low | French Car Registration (YoY) (Sep) |  |  | 24.3% |
 | 16:30 | HKD | Low | CPI (MoM) (Sep) |  |  | 0.00% |
