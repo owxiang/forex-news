@@ -10,8 +10,8 @@
 | 09:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 14:00 | GBP | Core Retail Sales (YoY) (Sep) | -1.2% | -0.2% | -1.3% |
 | 14:00 | GBP | Core Retail Sales (MoM) (Sep) | -1.0% | -0.4% | 0.6% |
-| 14:00 | GBP | Retail Sales (YoY) (Sep) | -1.0% | -0.1% | -1.3% |
 | 14:00 | GBP | Retail Sales (MoM) (Sep) | -0.9% | -0.2% | 0.4% |
+| 14:00 | GBP | Retail Sales (YoY) (Sep) | -1.0% | -0.1% | -1.3% |
 | 14:00 | EUR | German PPI (MoM) (Sep) | -0.2% | 0.4% | 0.3% |
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 20:30 | CAD | Core Retail Sales (MoM) (Aug) |  | 0.0% | 1.0% |

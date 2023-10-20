@@ -8,8 +8,8 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.250T |  | 3.316T |
 | 05:45 | NZD | Exports (Sep) | 4.87B |  | 4.97B |
 | 05:45 | NZD | Imports (Sep) | 7.20B |  | 7.24B |
-| 05:45 | NZD | Trade Balance (YoY) (Sep) | -15,330M |  | -15,520M |
 | 05:45 | NZD | Trade Balance (MoM) (Sep) | -2,329M |  | -2,273M |
+| 05:45 | NZD | Trade Balance (YoY) (Sep) | -15,330M |  | -15,520M |
 | 07:00 | USD | Fed Logan Speaks |  |  |  |
 | 07:01 | GBP | GfK Consumer Confidence (Oct) | -30 | -20 | -21 |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Sep) | 0.3% |  | 0.3% |
@@ -21,8 +21,8 @@
 | 14:00 | GBP | Car Registration (MoM) (Sep) | 218.3% |  | -40.5% |
 | 14:00 | GBP | Public Sector Net Borrowing (Sep) | 13.53B | 17.60B | 10.58B |
 | 14:00 | GBP | Public Sector Net Cash Requirement (Sep) | -11.812B |  | 1.514B |
-| 14:00 | EUR | Italian Car Registration (MoM) (Sep) | 70.9% |  | -33.1% |
 | 14:00 | EUR | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
+| 14:00 | EUR | Italian Car Registration (MoM) (Sep) | 70.9% |  | -33.1% |
 | 14:00 | EUR | German Car Registration (MoM) (Sep) | -17.9% |  | 12.4% |
 | 14:00 | EUR | German Car Registration (YoY) (Sep) | -0.1% |  | 37.3% |
 | 14:00 | EUR | German PPI (YoY) (Sep) | -14.7% | -14.2% | -12.6% |
