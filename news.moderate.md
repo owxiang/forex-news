@@ -5,7 +5,6 @@
 | 00:15 | USD | FOMC Member Mester Speaks |  |  |  |
 | 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 502 |  | 501 |
 | 01:00 | USD | U.S. Baker Hughes Total Rig Count | 624 |  | 622 |
-| Tentative | USD | Federal Budget Balance (Sep) |  | -78.6B | 89.3B |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | -10.0K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 322.0K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 71.4K |
