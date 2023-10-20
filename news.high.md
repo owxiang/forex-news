@@ -1,5 +1,3 @@
-## 20 October 2023 - High Impact Forex News
+## 21 October 2023 - High Impact Forex News
 
-| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 00:00 | USD | Fed Chair Powell Speaks |  |  |  |
+There is no high impact news today.
