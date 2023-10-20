@@ -24,32 +24,32 @@
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | 3.3% |  | 4.3% |
 | 11:00 | IDR | Low | Foreign Direct Investment (YoY) (Q3) | 16.20% |  | 14.20% |
-| 14:00 | GBP | Low | Car Registration (YoY) (Sep) | 21.0% |  | 24.4% |
 | 14:00 | GBP | Low | Car Registration (MoM) (Sep) | 218.3% |  | -40.5% |
-| 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | -1.2% | -0.2% | -1.3% |
+| 14:00 | GBP | Low | Car Registration (YoY) (Sep) | 21.0% |  | 24.4% |
 | 14:00 | GBP | Moderate | Core Retail Sales (MoM) (Sep) | -1.0% | -0.4% | 0.6% |
+| 14:00 | GBP | Moderate | Core Retail Sales (YoY) (Sep) | -1.2% | -0.2% | -1.3% |
 | 14:00 | GBP | Low | Public Sector Net Borrowing (Sep) | 13.53B | 17.60B | 10.58B |
 | 14:00 | GBP | Low | Public Sector Net Cash Requirement (Sep) | -11.812B |  | 1.514B |
 | 14:00 | GBP | Moderate | Retail Sales (MoM) (Sep) | -0.9% | -0.2% | 0.4% |
 | 14:00 | GBP | Moderate | Retail Sales (YoY) (Sep) | -1.0% | -0.1% | -1.3% |
-| 14:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
 | 14:00 | EUR | Low | Italian Car Registration (MoM) (Sep) | 70.9% |  | -33.1% |
-| 14:00 | EUR | Low | German Car Registration (MoM) (Sep) | -17.9% |  | 12.4% |
+| 14:00 | EUR | Low | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
 | 14:00 | EUR | Low | German Car Registration (YoY) (Sep) | -0.1% |  | 37.3% |
-| 14:00 | EUR | Low | German PPI (YoY) (Sep) | -14.7% | -14.2% | -12.6% |
+| 14:00 | EUR | Low | German Car Registration (MoM) (Sep) | -17.9% |  | 12.4% |
 | 14:00 | EUR | Moderate | German PPI (MoM) (Sep) | -0.2% | 0.4% | 0.3% |
-| 14:00 | EUR | Low | French Car Registration (YoY) (Sep) | 10.7% |  | 24.3% |
+| 14:00 | EUR | Low | German PPI (YoY) (Sep) | -14.7% | -14.2% | -12.6% |
 | 14:00 | EUR | Low | French Car Registration (MoM) (Sep) | 37.6% |  | -11.9% |
+| 14:00 | EUR | Low | French Car Registration (YoY) (Sep) | 10.7% |  | 24.3% |
 | 16:30 | CNY | Low | FDI (Sep) | -8.40% |  | -5.10% |
 | 16:30 | HKD | Low | CPI (MoM) (Sep) | 0.40% |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Sep) | 2.00% | 1.80% | 1.80% |
-| 19:30 | INR | Low | Bank Loan Growth |  |  | 20.0% |
-| 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 584.74B |
-| 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.0% | 0.2% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Aug) |  | 4.4% | 5.1% |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 20.0% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.2% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 584.74B |
+| 17 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 47 min | MXN | Low | Retail Sales (MoM) (Aug) |  | 0.0% | 0.2% |
+| 47 min | MXN | Low | Retail Sales (YoY) (Aug) |  | 4.4% | 5.1% |
+| 47 min | BRL | Low | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
 | 20:30 | CAD | Moderate | Core Retail Sales (MoM) (Aug) |  | 0.0% | 1.0% |
 | 20:30 | CAD | Moderate | Retail Sales (MoM) (Aug) |  | -0.3% | 0.3% |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |

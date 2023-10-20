@@ -17,23 +17,23 @@
 | 09:15 | CNY | China Loan Prime Rate 5Y (Oct) | 4.20% | 4.20% | 4.20% |
 | 10:00 | NZD | Credit Card Spending (YoY) | 3.3% |  | 4.3% |
 | 11:00 | IDR | Foreign Direct Investment (YoY) (Q3) | 16.20% |  | 14.20% |
-| 14:00 | GBP | Car Registration (YoY) (Sep) | 21.0% |  | 24.4% |
 | 14:00 | GBP | Car Registration (MoM) (Sep) | 218.3% |  | -40.5% |
+| 14:00 | GBP | Car Registration (YoY) (Sep) | 21.0% |  | 24.4% |
 | 14:00 | GBP | Public Sector Net Borrowing (Sep) | 13.53B | 17.60B | 10.58B |
 | 14:00 | GBP | Public Sector Net Cash Requirement (Sep) | -11.812B |  | 1.514B |
-| 14:00 | EUR | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
 | 14:00 | EUR | Italian Car Registration (MoM) (Sep) | 70.9% |  | -33.1% |
-| 14:00 | EUR | German Car Registration (MoM) (Sep) | -17.9% |  | 12.4% |
+| 14:00 | EUR | Italian Car Registration (YoY) (Sep) | 22.7% |  | 11.9% |
 | 14:00 | EUR | German Car Registration (YoY) (Sep) | -0.1% |  | 37.3% |
+| 14:00 | EUR | German Car Registration (MoM) (Sep) | -17.9% |  | 12.4% |
 | 14:00 | EUR | German PPI (YoY) (Sep) | -14.7% | -14.2% | -12.6% |
-| 14:00 | EUR | French Car Registration (YoY) (Sep) | 10.7% |  | 24.3% |
 | 14:00 | EUR | French Car Registration (MoM) (Sep) | 37.6% |  | -11.9% |
+| 14:00 | EUR | French Car Registration (YoY) (Sep) | 10.7% |  | 24.3% |
 | 16:30 | CNY | FDI (Sep) | -8.40% |  | -5.10% |
 | 16:30 | HKD | CPI (MoM) (Sep) | 0.40% |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Sep) | 2.00% | 1.80% | 1.80% |
-| 19:30 | INR | Bank Loan Growth |  |  | 20.0% |
-| 19:30 | INR | Deposit Growth |  |  | 13.2% |
-| 19:30 | INR | FX Reserves, USD |  |  | 584.74B |
-| 20:00 | MXN | Retail Sales (MoM) (Aug) |  | 0.0% | 0.2% |
-| 20:00 | MXN | Retail Sales (YoY) (Aug) |  | 4.4% | 5.1% |
-| 20:00 | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
+| 17 min | INR | Bank Loan Growth |  |  | 20.0% |
+| 17 min | INR | Deposit Growth |  |  | 13.2% |
+| 17 min | INR | FX Reserves, USD |  |  | 584.74B |
+| 47 min | MXN | Retail Sales (MoM) (Aug) |  | 0.0% | 0.2% |
+| 47 min | MXN | Retail Sales (YoY) (Aug) |  | 4.4% | 5.1% |
+| 47 min | BRL | IBC-Br Economic Activity (Aug) |  | -0.30% | 0.44% |
