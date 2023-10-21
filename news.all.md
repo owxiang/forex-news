@@ -8,8 +8,8 @@
 | 15:00 | CHF | Low | M3 Money Supply (Sep) |  |  | 1,132.3B |
 | 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Aug) |  |  | 0.20% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Aug) |  |  | 3.20% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Aug) |  |  | 0.20% |
 | 20:30 | USD | Low | Chicago Fed National Activity (Sep) |  |  | -0.16 |
 | 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.776% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.788% |
