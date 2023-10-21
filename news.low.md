@@ -1,15 +1,16 @@
-## 21 October 2023 - Low Impact Forex News
+## 23 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | CFTC Aluminium speculative net positions | 6.4K |  | 5.8K |
-| 04:30 | USD | CFTC Copper speculative net positions | -25.9K |  | -14.8K |
-| 04:30 | USD | CFTC Corn speculative net positions | -62.6K |  | -64.8K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -57.3K |  | -50.7K |
-| 04:30 | USD | CFTC Silver speculative net positions | 19.7K |  | 12.3K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | 27.1K |  | 23.4K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -69.2K |  | -67.7K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -48.5K |  | -46.5K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 44.3K |  | 52.2K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -17.1K |  | -16.1K |
-| 04:30 | NZD | CFTC NZD speculative net positions | -5.9K |  | -4.1K |
+| 13:00 | SGD | CPI (MoM) (Sep) |  |  | 0.90% |
+| 15:00 | CHF | M3 Money Supply (Sep) |  |  | 1,132,314.0B |
+| 18:00 | EUR | German Buba Monthly Report |  |  |  |
+| 20:00 | MXN | Economic Activity (MoM) (Aug) |  |  | 0.20% |
+| 20:00 | MXN | Economic Activity (YoY) (Aug) |  |  | 3.20% |
+| 20:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.16 |
+| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.776% |
+| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.788% |
+| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.816% |
+| 22:00 | EUR | Consumer Confidence (Oct) |  | -18.1 | -17.8 |
+| 23:30 | USD | 3-Month Bill Auction |  |  | 5.340% |
+| 23:30 | USD | 6-Month Bill Auction |  |  | 5.335% |
