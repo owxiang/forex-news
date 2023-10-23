@@ -1,3 +1,5 @@
-## 23 October 2023 - High Impact Forex News
+## 24 October 2023 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 21:45 | USD | S&P Global Services PMI (Oct) |  | 49.9 | 50.1 |

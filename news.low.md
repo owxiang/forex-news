@@ -1,17 +1,22 @@
-## 23 October 2023 - Low Impact Forex News
+## 24 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | SGD | CPI (MoM) (Sep) | 0.50% |  | 0.90% |
-| 15:00 | CHF | M3 Money Supply (Sep) | 1,129.2B |  | 1,131.2B |
-| 18:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Economic Activity (MoM) (Aug) | 0.40% | 0.30% | 0.20% |
-| 20:00 | MXN | Economic Activity (YoY) (Aug) | 3.70% | 3.40% | 3.20% |
-| 20:30 | USD | Chicago Fed National Activity (Sep) | 0.02 |  | -0.22 |
-| 20:55 | EUR | French 12-Month BTF Auction | 3.770% |  | 3.776% |
-| 20:55 | EUR | French 3-Month BTF Auction | 3.788% |  | 3.788% |
-| 20:55 | EUR | French 6-Month BTF Auction | 3.823% |  | 3.816% |
-| 22:00 | EUR | Consumer Confidence (Oct) | -17.9 | -18.3 | -17.8 |
-| 14 min | USD | 3-Month Bill Auction |  |  | 5.340% |
-| 14 min | USD | 6-Month Bill Auction |  |  | 5.335% |
+| 05:00 | KRW | PPI (YoY) (Sep) |  |  | 1.0% |
+| 05:00 | KRW | PPI (MoM) (Sep) |  |  | 0.9% |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 48.7 |
+| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 51.8 |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 48.9 | 48.5 |
+| 14:00 | GBP | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
+| 15:00 | ZAR | Leading Indicators (Aug) |  |  | 110.40% |
+| 15:15 | EUR | HCOB France Composite PMI (Oct) |  | 44.2 | 44.1 |
+| 15:30 | EUR | HCOB Germany Composite PMI (Oct) |  | 46.7 | 46.4 |
+| 16:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.760% |
+| 18:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -16 | -18 |
+| 20:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.19% | 0.27% |
+| 20:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.34% | 0.25% |
+| 20:55 | USD | Redbook (YoY) |  |  | 4.6% |
+| 22:00 | USD | Richmond Manufacturing Index (Oct) |  | 3 | 5 |
+| 22:00 | USD | Richmond Manufacturing Shipments (Oct) |  |  | 7 |
+| 22:00 | USD | Richmond Services Index (Oct) |  |  | 4 |
