@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
 | 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
-| 46 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.7 |
-| 46 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 51.8 |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.7 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 51.8 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 48.9 | 48.5 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 53.8 |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 3.3% | 3.3% |
