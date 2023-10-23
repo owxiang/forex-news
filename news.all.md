@@ -6,7 +6,7 @@
 | 13:00 | SGD | Low | CPI (MoM) (Sep) | 0.50% |  | 0.90% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Sep) | 4.1% | 4.1% | 4.0% |
 | 15:00 | CHF | Low | M3 Money Supply (Sep) | 1,129.2B |  | 1,131.2B |
-| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Aug) |  | 3.40% | 3.20% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Aug) |  | 0.30% | 0.20% |
