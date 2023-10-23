@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | SGD | Core CPI (YoY) (Sep) |  | 3.10% | 3.40% |
-| 41 min | SGD | CPI (YoY) (Sep) |  | 4.1% | 4.0% |
+| 13:00 | SGD | Core CPI (YoY) (Sep) | 3.00% | 3.10% | 3.40% |
+| 13:00 | SGD | CPI (YoY) (Sep) | 4.1% | 4.1% | 4.0% |

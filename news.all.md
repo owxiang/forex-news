@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | SGD | Moderate | Core CPI (YoY) (Sep) |  | 3.10% | 3.40% |
-| 41 min | SGD | Low | CPI (MoM) (Sep) |  |  | 0.90% |
-| 41 min | SGD | Moderate | CPI (YoY) (Sep) |  | 4.1% | 4.0% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Sep) | 3.00% | 3.10% | 3.40% |
+| 13:00 | SGD | Low | CPI (MoM) (Sep) | 0.50% |  | 0.90% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Sep) | 4.1% | 4.1% | 4.0% |
 | 15:00 | CHF | Low | M3 Money Supply (Sep) |  |  | 1,132.3B |
 | 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | SGD | CPI (MoM) (Sep) |  |  | 0.90% |
+| 13:00 | SGD | CPI (MoM) (Sep) | 0.50% |  | 0.90% |
 | 15:00 | CHF | M3 Money Supply (Sep) |  |  | 1,132.3B |
 | 18:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
