@@ -8,12 +8,12 @@
 | 15:00 | CHF | Low | M3 Money Supply (Sep) | 1,129.2B |  | 1,131.2B |
 | 18:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Aug) | 3.70% | 3.40% | 3.20% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Aug) | 0.40% | 0.30% | 0.20% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Aug) | 3.70% | 3.40% | 3.20% |
 | 20:30 | USD | Low | Chicago Fed National Activity (Sep) | 0.02 |  | -0.22 |
-| 24 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.776% |
-| 24 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.788% |
-| 24 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.816% |
-| 22:00 | EUR | Low | Consumer Confidence (Oct) |  | -18.3 | -17.8 |
+| 20:55 | EUR | Low | French 12-Month BTF Auction | 3.770% |  | 3.776% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction | 3.788% |  | 3.788% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction | 3.823% |  | 3.816% |
+| 40 min | EUR | Low | Consumer Confidence (Oct) |  | -18.3 | -17.8 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.335% |
