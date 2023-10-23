@@ -14,6 +14,6 @@
 | 20:55 | EUR | Low | French 12-Month BTF Auction | 3.770% |  | 3.776% |
 | 20:55 | EUR | Low | French 3-Month BTF Auction | 3.788% |  | 3.788% |
 | 20:55 | EUR | Low | French 6-Month BTF Auction | 3.823% |  | 3.816% |
-| 40 min | EUR | Low | Consumer Confidence (Oct) |  | -18.3 | -17.8 |
+| 22:00 | EUR | Low | Consumer Confidence (Oct) | -17.9 | -18.3 | -17.8 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.340% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.335% |
