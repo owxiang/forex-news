@@ -5,9 +5,9 @@
 | 13:00 | SGD | CPI (MoM) (Sep) | 0.50% |  | 0.90% |
 | 15:00 | CHF | M3 Money Supply (Sep) | 1,129.2B |  | 1,131.2B |
 | 18:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Economic Activity (YoY) (Aug) |  | 3.40% | 3.20% |
-| 20:00 | MXN | Economic Activity (MoM) (Aug) |  | 0.30% | 0.20% |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 47 min | MXN | Economic Activity (YoY) (Aug) |  | 3.40% | 3.20% |
+| 47 min | MXN | Economic Activity (MoM) (Aug) |  | 0.30% | 0.20% |
 | 20:30 | USD | Chicago Fed National Activity (Sep) |  |  | -0.16 |
 | 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.776% |
 | 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.788% |
