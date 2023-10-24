@@ -2,16 +2,16 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
 | 05:00 | KRW | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
+| 05:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.0 |  | 48.7 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
 | 11:00 | IDR | M2 Money Supply (YoY) (Sep) | 6.00% |  | 5.90% |
-| 39 min | ZAR | Leading Indicators (Aug) |  |  | 110.40% |
-| 54 min | EUR | HCOB France Composite PMI (Oct) |  | 44.4 | 44.1 |
-| 15:30 | EUR | HCOB Germany Composite PMI (Oct) |  | 46.7 | 46.4 |
-| 16:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 15:00 | ZAR | Leading Indicators (Aug) | 110.90% |  | 110.40% |
+| 15:15 | EUR | HCOB France Composite PMI (Oct) | 45.3 | 44.4 | 44.1 |
+| 15 min | EUR | HCOB Germany Composite PMI (Oct) |  | 46.7 | 46.4 |
+| 45 min | EUR | ECB Bank Lending Survey |  |  |  |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.760% |
 | 18:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -16 | -18 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.27% |
