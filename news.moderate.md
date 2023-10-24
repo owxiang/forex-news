@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 2-Year Note Auction | 5.055% |  | 5.085% |
-| 14 min | USD | API Weekly Crude Oil Stock |  | 1.550M | -4.383M |
+| 04:30 | USD | API Weekly Crude Oil Stock | -2.668M | 1.550M | -4.383M |
 | 08:30 | AUD | CPI (QoQ) (Q3) |  | 1.1% | 0.8% |
 | 08:30 | AUD | CPI (YoY) (Q3) |  | 5.3% | 6.0% |
 | 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) |  | 1.1% | 0.9% |
