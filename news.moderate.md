@@ -4,13 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 51.1 |  | 53.8 |
 | 13:00 | JPY | BoJ Core CPI (YoY) | 3.4% | 3.3% | 3.3% |
-| 46 min | GBP | Average Earnings Index +Bonus (Sep) |  |  | 8.1% |
-| 46 min | GBP | Claimant Count Change (Sep) |  | 2.3K | 0.9K |
-| 46 min | GBP | Employment Change 3M/3M (MoM) (Aug) |  | -198K | -207K |
-| 46 min | GBP | Unemployment Rate (Aug) |  | 4.3% | 4.3% |
-| 46 min | EUR | GfK German Consumer Climate (Nov) |  | -26.6 | -26.5 |
-| 15:15 | EUR | HCOB France Manufacturing PMI (Oct) |  | 44.4 | 44.2 |
-| 15:15 | EUR | HCOB France Services PMI (Oct) |  | 44.6 | 44.4 |
+| 14:00 | GBP | Claimant Count Change (Sep) | 20.4K | 2.3K | -9.0K |
+| 14:00 | GBP | Employment Change 3M/3M (MoM) (Aug) | -82K | -198K | -207K |
+| 14:00 | GBP | Unemployment Rate (Aug) | 4.2% | 4.3% | 4.3% |
+| 14:00 | EUR | GfK German Consumer Climate (Nov) | -28.1 | -26.6 | -26.7 |
+| 54 min | EUR | HCOB France Manufacturing PMI (Oct) |  | 44.4 | 44.2 |
+| 54 min | EUR | HCOB France Services PMI (Oct) |  | 44.6 | 44.4 |
 | 15:30 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.0 | 39.6 |
 | 15:30 | EUR | HCOB Germany Services PMI (Oct) |  | 50.0 | 50.3 |
 | 16:00 | AUD | RBA Assist Gov Bullock Speaks |  |  |  |

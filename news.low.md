@@ -8,9 +8,8 @@
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
 | 11:00 | IDR | M2 Money Supply (YoY) (Sep) | 6.00% |  | 5.90% |
-| 46 min | GBP | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
-| 15:00 | ZAR | Leading Indicators (Aug) |  |  | 110.40% |
-| 15:15 | EUR | HCOB France Composite PMI (Oct) |  | 44.4 | 44.1 |
+| 39 min | ZAR | Leading Indicators (Aug) |  |  | 110.40% |
+| 54 min | EUR | HCOB France Composite PMI (Oct) |  | 44.4 | 44.1 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Oct) |  | 46.7 | 46.4 |
 | 16:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.760% |

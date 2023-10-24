@@ -10,16 +10,14 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 51.1 |  | 53.8 |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Sep) | 6.00% |  | 5.90% |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 3.4% | 3.3% | 3.3% |
-| 46 min | GBP | Low | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
-| 46 min | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  |  | 8.1% |
-| 46 min | GBP | Moderate | Claimant Count Change (Sep) |  | 2.3K | 0.9K |
-| 46 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  | -198K | -207K |
-| 46 min | GBP | Moderate | Unemployment Rate (Aug) |  | 4.3% | 4.3% |
-| 46 min | EUR | Moderate | GfK German Consumer Climate (Nov) |  | -26.6 | -26.5 |
-| 15:00 | ZAR | Low | Leading Indicators (Aug) |  |  | 110.40% |
-| 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.4 | 44.2 |
-| 15:15 | EUR | Low | HCOB France Composite PMI (Oct) |  | 44.4 | 44.1 |
-| 15:15 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 44.6 | 44.4 |
+| 14:00 | GBP | Moderate | Claimant Count Change (Sep) | 20.4K | 2.3K | -9.0K |
+| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) | -82K | -198K | -207K |
+| 14:00 | GBP | Moderate | Unemployment Rate (Aug) | 4.2% | 4.3% | 4.3% |
+| 14:00 | EUR | Moderate | GfK German Consumer Climate (Nov) | -28.1 | -26.6 | -26.7 |
+| 39 min | ZAR | Low | Leading Indicators (Aug) |  |  | 110.40% |
+| 54 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.4 | 44.2 |
+| 54 min | EUR | Low | HCOB France Composite PMI (Oct) |  | 44.4 | 44.1 |
+| 54 min | EUR | Moderate | HCOB France Services PMI (Oct) |  | 44.6 | 44.4 |
 | 15:30 | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 46.7 | 46.4 |
 | 15:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.0 | 39.6 |
 | 15:30 | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 50.0 | 50.3 |
