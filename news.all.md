@@ -8,6 +8,7 @@
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 51.1 |  | 53.8 |
+| 43 min | IDR | Low | M2 Money Supply (YoY) (Sep) | 6.00% |  | 5.90% |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 3.3% | 3.3% |
 | 14:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
 | 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  |  | 8.1% |
