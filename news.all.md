@@ -2,20 +2,20 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 05:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
+| 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.0 |  | 48.7 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 51.1 |  | 53.8 |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Sep) | 6.00% |  | 5.90% |
-| 42 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 3.3% | 3.3% |
-| 14:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
-| 14:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  |  | 8.1% |
-| 14:00 | GBP | Moderate | Claimant Count Change (Sep) |  | 2.3K | 0.9K |
-| 14:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  | -198K | -207K |
-| 14:00 | GBP | Moderate | Unemployment Rate (Aug) |  | 4.3% | 4.3% |
-| 14:00 | EUR | Moderate | GfK German Consumer Climate (Nov) |  | -26.6 | -26.5 |
+| 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 3.4% | 3.3% | 3.3% |
+| 46 min | GBP | Low | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
+| 46 min | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  |  | 8.1% |
+| 46 min | GBP | Moderate | Claimant Count Change (Sep) |  | 2.3K | 0.9K |
+| 46 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Aug) |  | -198K | -207K |
+| 46 min | GBP | Moderate | Unemployment Rate (Aug) |  | 4.3% | 4.3% |
+| 46 min | EUR | Moderate | GfK German Consumer Climate (Nov) |  | -26.6 | -26.5 |
 | 15:00 | ZAR | Low | Leading Indicators (Aug) |  |  | 110.40% |
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 44.4 | 44.2 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Oct) |  | 44.4 | 44.1 |
