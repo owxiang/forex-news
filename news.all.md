@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 05:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
+| 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.0 |  | 48.7 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
@@ -36,9 +36,9 @@
 | 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) | -0.2% | 0.1% | 0.1% |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) | 5.0% |  | 4.6% |
-| 25 min | USD | Moderate | S&P Global US Manufacturing PMI (Oct) |  | 49.5 | 49.8 |
-| 25 min | USD | Moderate | S&P Global Composite PMI (Oct) |  |  | 50.2 |
-| 25 min | USD | High | S&P Global Services PMI (Oct) |  | 49.8 | 50.1 |
-| 40 min | USD | Low | Richmond Manufacturing Index (Oct) |  | 3 | 5 |
-| 40 min | USD | Low | Richmond Manufacturing Shipments (Oct) |  |  | 7 |
-| 40 min | USD | Low | Richmond Services Index (Oct) |  |  | 4 |
+| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Oct) | 50.0 | 49.5 | 49.8 |
+| 21:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 51.0 |  | 50.2 |
+| 21:45 | USD | High | S&P Global Services PMI (Oct) | 50.9 | 49.8 | 50.1 |
+| 22:00 | USD | Low | Richmond Manufacturing Index (Oct) | 3 | 3 | 5 |
+| 22:00 | USD | Low | Richmond Manufacturing Shipments (Oct) | 9 |  | 7 |
+| 22:00 | USD | Low | Richmond Services Index (Oct) | -11 |  | 4 |

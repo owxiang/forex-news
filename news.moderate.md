@@ -21,5 +21,5 @@
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI | 49.2 | 49.3 | 49.3 |
 | 20:30 | CAD | New Housing Price Index (MoM) (Sep) | -0.2% | 0.1% | 0.1% |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 25 min | USD | S&P Global US Manufacturing PMI (Oct) |  | 49.5 | 49.8 |
-| 25 min | USD | S&P Global Composite PMI (Oct) |  |  | 50.2 |
+| 21:45 | USD | S&P Global US Manufacturing PMI (Oct) | 50.0 | 49.5 | 49.8 |
+| 21:45 | USD | S&P Global Composite PMI (Oct) | 51.0 |  | 50.2 |
