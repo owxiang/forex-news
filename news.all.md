@@ -14,8 +14,8 @@
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) |  | 5.0% | 5.5% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
-| 13:00 | JPY | Low | Leading Index |  | 109.5 | 108.2 |
 | 13:00 | JPY | Low | Leading Index (MoM) |  |  | 1.3% |
+| 13:00 | JPY | Low | Leading Index |  | 109.5 | 108.2 |
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -10.0% |
 | 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Oct) |  |  | -27.6 |
