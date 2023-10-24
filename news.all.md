@@ -2,17 +2,17 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | USD | Moderate | 2-Year Note Auction |  |  | 5.085% |
+| 01:00 | USD | Moderate | 2-Year Note Auction | 5.055% |  | 5.085% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.550M | -4.383M |
 | 05:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 99.7 |
-| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) |  | 1.1% | 0.8% |
 | 08:30 | AUD | Moderate | CPI (YoY) (Q3) |  | 5.3% | 6.0% |
+| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) |  | 1.1% | 0.8% |
 | 08:30 | AUD | Low | CPI Index Number (Q3) |  |  | 133.70 |
-| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) |  | 5.0% | 5.9% |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) |  | 1.1% | 0.9% |
+| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) |  | 5.0% | 5.9% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) |  | 5.30% | 5.20% |
-| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) |  | 5.0% | 5.5% |
+| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) |  |  | 1.3% |
 | 13:00 | JPY | Low | Leading Index |  | 109.5 | 108.2 |
@@ -33,8 +33,8 @@
 | 19:00 | USD | Low | MBA Purchase Index |  |  | 129.8 |
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 166.9 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 347.6 |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
 | 20:00 | USD | High | Building Permits |  | 1.473M | 1.541M |
+| 20:00 | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 97.0 |
 | 21:30 | BRL | Low | Federal Tax Revenue |  | 174.80B | 172.80B |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |

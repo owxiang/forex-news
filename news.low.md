@@ -6,8 +6,8 @@
 | 08:30 | AUD | CPI Index Number (Q3) |  |  | 133.70 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q3) |  | 5.0% | 5.9% |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Sep) |  | 5.30% | 5.20% |
-| 08:30 | AUD | Weighted mean CPI (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 08:30 | AUD | Weighted mean CPI (YoY) (Q3) |  | 5.0% | 5.5% |
+| 08:30 | AUD | Weighted mean CPI (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 13:00 | JPY | Coincident Indicator (MoM) |  |  | 0.1% |
 | 13:00 | JPY | Leading Index (MoM) |  |  | 1.3% |
 | 13:00 | JPY | Leading Index |  | 109.5 | 108.2 |
