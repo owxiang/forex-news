@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 05:00 | KRW | Low | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
+| 05:00 | KRW | Low | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.0 |  | 48.7 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
@@ -29,8 +29,8 @@
 | 16:30 | GBP | Moderate | Labour Productivity (Q2) | 0.3% | 0.7% | -0.3% |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 45.2 | 44.7 | 44.3 |
 | 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 49.2 | 49.3 | 49.3 |
-| 14 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.760% |
-| 44 min | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -16 | -18 |
+| 17:30 | EUR | Low | German 5-Year Bobl Auction | 2.710% |  | 2.760% |
+| 18:00 | GBP | Low | CBI Industrial Trends Orders (Oct) | -26 | -16 | -18 |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.27% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Oct) |  | 0.35% | 0.25% |
 | 20:30 | CAD | Moderate | New Housing Price Index (MoM) (Sep) |  | 0.1% | 0.1% |
