@@ -12,8 +12,8 @@
 | 15:15 | EUR | HCOB France Composite PMI (Oct) | 45.3 | 44.4 | 44.1 |
 | 15:30 | EUR | HCOB Germany Composite PMI (Oct) | 45.8 | 46.7 | 46.4 |
 | 16:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 17:30 | EUR | German 5-Year Bobl Auction |  |  | 2.760% |
-| 18:00 | GBP | CBI Industrial Trends Orders (Oct) |  | -16 | -18 |
+| 14 min | EUR | German 5-Year Bobl Auction |  |  | 2.760% |
+| 44 min | GBP | CBI Industrial Trends Orders (Oct) |  | -16 | -18 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.27% |
 | 20:00 | MXN | 1st Half-Month CPI (Oct) |  | 0.35% | 0.25% |
 | 20:55 | USD | Redbook (YoY) |  |  | 4.6% |
