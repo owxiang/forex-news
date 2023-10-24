@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 53.8 |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI | 51.1 |  | 53.8 |
 | 13:00 | JPY | BoJ Core CPI (YoY) |  | 3.3% | 3.3% |
 | 14:00 | GBP | Average Earnings Index +Bonus (Sep) |  |  | 8.1% |
 | 14:00 | GBP | Claimant Count Change (Sep) |  | 2.3K | 0.9K |

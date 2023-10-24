@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
 | 05:00 | KRW | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
+| 05:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.0 |  | 48.7 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 48.9 | 48.5 |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
 | 14:00 | GBP | Average Earnings ex Bonus (Sep) |  |  | 7.8% |
 | 15:00 | ZAR | Leading Indicators (Aug) |  |  | 110.40% |
 | 15:15 | EUR | HCOB France Composite PMI (Oct) |  | 44.2 | 44.1 |
