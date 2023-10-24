@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Consumer Confidence (Oct) |  |  | 99.7 |
+| 44 min | KRW | Consumer Confidence (Oct) |  |  | 99.7 |
 | 08:30 | AUD | CPI Index Number (Q3) |  |  | 133.70 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q3) |  | 5.0% | 5.9% |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Sep) |  | 5.30% | 5.20% |

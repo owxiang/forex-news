@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | 2-Year Note Auction | 5.055% |  | 5.085% |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.550M | -4.383M |
-| 05:00 | KRW | Low | Consumer Confidence (Oct) |  |  | 99.7 |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.550M | -4.383M |
+| 44 min | KRW | Low | Consumer Confidence (Oct) |  |  | 99.7 |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q3) |  | 1.1% | 0.8% |
 | 08:30 | AUD | Moderate | CPI (YoY) (Q3) |  | 5.3% | 6.0% |
 | 08:30 | AUD | Low | CPI Index Number (Q3) |  |  | 133.70 |
