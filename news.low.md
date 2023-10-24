@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 05:00 | KRW | PPI (MoM) (Sep) | 0.4% |  | 0.9% |
+| 05:00 | KRW | PPI (YoY) (Sep) | 1.3% |  | 1.0% |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.0 |  | 48.7 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.6 |  | 51.8 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.5 | 48.9 | 48.5 |
