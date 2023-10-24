@@ -19,7 +19,7 @@
 | 16:30 | GBP | Labour Productivity (Q2) | 0.3% | 0.7% | -0.3% |
 | 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 45.2 | 44.7 | 44.3 |
 | 16:30 | GBP | S&P Global/CIPS UK Services PMI | 49.2 | 49.3 | 49.3 |
-| 20:30 | CAD | New Housing Price Index (MoM) (Sep) |  | 0.1% | 0.1% |
+| 20:30 | CAD | New Housing Price Index (MoM) (Sep) | -0.2% | 0.1% | 0.1% |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:45 | USD | S&P Global US Manufacturing PMI (Oct) |  | 49.5 | 49.8 |
 | 21:45 | USD | S&P Global Composite PMI (Oct) |  |  | 50.2 |
