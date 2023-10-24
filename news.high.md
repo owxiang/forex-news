@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:45 | USD | S&P Global Services PMI (Oct) |  | 49.9 | 50.1 |
+| 21:45 | USD | S&P Global Services PMI (Oct) |  | 49.8 | 50.1 |
