@@ -18,18 +18,18 @@
 | 15:15 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 42.6 | 44.4 | 44.2 |
 | 15:15 | EUR | Low | HCOB France Composite PMI (Oct) | 45.3 | 44.4 | 44.1 |
 | 15:15 | EUR | Moderate | HCOB France Services PMI (Oct) | 46.1 | 44.6 | 44.4 |
-| 15 min | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 46.7 | 46.4 |
-| 15 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.0 | 39.6 |
-| 15 min | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 50.0 | 50.3 |
-| 45 min | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
-| 45 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 45 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.7 | 43.4 |
-| 45 min | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 47.4 | 47.2 |
-| 45 min | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 48.7 | 48.7 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.5 |
-| 16:30 | GBP | Moderate | Labour Productivity (Q2) |  | 0.7% | -1.4% |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 44.7 | 44.3 |
-| 16:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.3 | 49.3 |
+| 15:30 | EUR | Low | HCOB Germany Composite PMI (Oct) | 45.8 | 46.7 | 46.4 |
+| 15:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 40.7 | 40.0 | 39.6 |
+| 15:30 | EUR | Moderate | HCOB Germany Services PMI (Oct) | 48.0 | 50.0 | 50.3 |
+| 16:00 | AUD | Moderate | RBA Assist Gov Bullock Speaks |  |  |  |
+| 16:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 16:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 43.0 | 43.7 | 43.4 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) | 46.5 | 47.4 | 47.2 |
+| 16:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) | 47.8 | 48.7 | 48.7 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.5 |
+| 10 min | GBP | Moderate | Labour Productivity (Q2) |  | 0.7% | -1.4% |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 44.7 | 44.3 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.3 | 49.3 |
 | 17:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.760% |
 | 18:00 | GBP | Low | CBI Industrial Trends Orders (Oct) |  | -16 | -18 |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Oct) |  | 0.20% | 0.27% |
