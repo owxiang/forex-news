@@ -1,25 +1,21 @@
-## 24 October 2023 - Moderate Impact Forex News
+## 25 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | JPY | au Jibun Bank Japan Services PMI | 51.1 |  | 53.8 |
-| 13:00 | JPY | BoJ Core CPI (YoY) | 3.4% | 3.3% | 3.3% |
-| 14:00 | GBP | Claimant Count Change (Sep) | 20.4K | 2.3K | -9.0K |
-| 14:00 | GBP | Employment Change 3M/3M (MoM) (Aug) | -82K | -198K | -207K |
-| 14:00 | GBP | Unemployment Rate (Aug) | 4.2% | 4.3% | 4.3% |
-| 14:00 | EUR | GfK German Consumer Climate (Nov) | -28.1 | -26.6 | -26.7 |
-| 15:15 | EUR | HCOB France Manufacturing PMI (Oct) | 42.6 | 44.4 | 44.2 |
-| 15:15 | EUR | HCOB France Services PMI (Oct) | 46.1 | 44.6 | 44.4 |
-| 15:30 | EUR | HCOB Germany Manufacturing PMI (Oct) | 40.7 | 40.0 | 39.6 |
-| 15:30 | EUR | HCOB Germany Services PMI (Oct) | 48.0 | 50.0 | 50.3 |
-| 16:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 43.0 | 43.7 | 43.4 |
-| 16:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 46.5 | 47.4 | 47.2 |
-| 16:00 | EUR | HCOB Eurozone Services PMI (Oct) | 47.8 | 48.7 | 48.7 |
-| 16:30 | GBP | S&P Global/CIPS UK Composite PMI | 48.6 | 48.7 | 48.5 |
-| 16:30 | GBP | Labour Productivity (Q2) | 0.3% | 0.7% | -0.3% |
-| 16:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 45.2 | 44.7 | 44.3 |
-| 16:30 | GBP | S&P Global/CIPS UK Services PMI | 49.2 | 49.3 | 49.3 |
-| 20:30 | CAD | New Housing Price Index (MoM) (Sep) | -0.2% | 0.1% | 0.1% |
-| 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:45 | USD | S&P Global US Manufacturing PMI (Oct) | 50.0 | 49.5 | 49.8 |
-| 21:45 | USD | S&P Global Composite PMI (Oct) | 51.0 |  | 50.2 |
+| 40 min | USD | 2-Year Note Auction |  |  | 5.085% |
+| 04:30 | USD | API Weekly Crude Oil Stock |  | 1.550M | -4.383M |
+| 08:30 | AUD | CPI (QoQ) (Q3) |  | 1.1% | 0.8% |
+| 08:30 | AUD | CPI (YoY) (Q3) |  | 5.3% | 6.0% |
+| 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) |  | 1.1% | 0.9% |
+| 16:00 | EUR | German Business Expectations (Oct) |  | 83.3 | 82.9 |
+| 16:00 | EUR | German Current Assessment (Oct) |  | 88.5 | 88.7 |
+| 16:00 | EUR | German Ifo Business Climate Index (Oct) |  | 85.9 | 85.7 |
+| 17:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.93% |
+| 20:00 | USD | Building Permits (MoM) |  | -4.4% | 6.8% |
+| 22:00 | USD | New Home Sales (MoM) (Sep) |  |  | -8.7% |
+| 22:00 | CAD | BoC Monetary Policy Report |  |  |  |
+| 22:00 | CAD | BoC Rate Statement |  |  |  |
+| 22:30 | USD | Cushing Crude Oil Inventories |  |  | -0.758M |
+| 23:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 23:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 23:00 | CAD | BOC Press Conference |  |  |  |
