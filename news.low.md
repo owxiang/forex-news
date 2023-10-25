@@ -24,11 +24,11 @@
 | 19:00 | USD | Mortgage Market Index | 165.2 |  | 166.9 |
 | 19:00 | USD | Mortgage Refinance Index | 354.0 |  | 347.6 |
 | 19:00 | BRL | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
-| 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.193M |
-| 22:30 | USD | Crude Oil Imports |  |  | -2.621M |
-| 22:30 | USD | Distillate Fuel Production |  |  | -0.033M |
-| 22:30 | USD | EIA Weekly Distillates Stocks |  | -1.168M | -3.185M |
-| 22:30 | USD | Gasoline Production |  |  | 0.077M |
-| 22:30 | USD | Heating Oil Stockpiles |  |  | 0.140M |
-| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 22:30 | USD | Gasoline Inventories |  | -0.897M | -2.371M |
+| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.193M |
+| 16 min | USD | Crude Oil Imports |  |  | -2.621M |
+| 16 min | USD | Distillate Fuel Production |  |  | -0.033M |
+| 16 min | USD | EIA Weekly Distillates Stocks |  | -1.168M | -3.185M |
+| 16 min | USD | Gasoline Production |  |  | 0.077M |
+| 16 min | USD | Heating Oil Stockpiles |  |  | 0.140M |
+| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 16 min | USD | Gasoline Inventories |  | -0.897M | -2.371M |
