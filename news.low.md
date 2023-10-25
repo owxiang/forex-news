@@ -18,12 +18,12 @@
 | 16:00 | EUR | Loans to Non Financial Corporations (Sep) | 0.2% |  | 0.6% |
 | 16:00 | EUR | Private Sector Loans (YoY) | 0.8% | 1.0% | 1.0% |
 | 17:00 | GBP | 15-Year Treasury Gilt Auction | 4.871% |  | 4.447% |
-| 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.70% |
-| 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.9% |
-| 19:00 | USD | MBA Purchase Index |  |  | 129.8 |
-| 19:00 | USD | Mortgage Market Index |  |  | 166.9 |
-| 19:00 | USD | Mortgage Refinance Index |  |  | 347.6 |
-| 20:00 | BRL | FGV Consumer confidence (Oct) |  |  | 97.0 |
+| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.70% |
+| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -6.9% |
+| 43 min | USD | MBA Purchase Index |  |  | 129.8 |
+| 43 min | USD | Mortgage Market Index |  |  | 166.9 |
+| 43 min | USD | Mortgage Refinance Index |  |  | 347.6 |
+| 43 min | BRL | FGV Consumer confidence (Oct) |  |  | 97.0 |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.193M |
 | 22:30 | USD | Crude Oil Imports |  |  | -2.621M |
 | 22:30 | USD | Distillate Fuel Production |  |  | -0.033M |
