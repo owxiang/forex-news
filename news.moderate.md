@@ -1,20 +1,16 @@
-## 25 October 2023 - Moderate Impact Forex News
+## 26 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 2-Year Note Auction | 5.055% |  | 5.085% |
-| 04:30 | USD | API Weekly Crude Oil Stock | -2.668M | 1.550M | -4.383M |
-| 08:30 | AUD | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
-| 08:30 | AUD | CPI (YoY) (Q3) | 5.4% | 5.3% | 6.0% |
-| 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
-| 16:00 | EUR | German Business Expectations (Oct) | 84.7 | 83.3 | 83.1 |
-| 16:00 | EUR | German Current Assessment (Oct) | 89.2 | 88.5 | 88.7 |
-| 16:00 | EUR | German Ifo Business Climate Index (Oct) | 86.9 | 85.9 | 85.8 |
-| 19:40 | USD | Building Permits (MoM) | -4.5% | -4.4% | 6.8% |
-| 22:00 | USD | New Home Sales (MoM) (Sep) | 12.3% |  | -8.2% |
-| 22:00 | CAD | BoC Monetary Policy Report |  |  |  |
-| 22:00 | CAD | BoC Rate Statement |  |  |  |
-| 22:30 | USD | Cushing Crude Oil Inventories | 0.213M |  | -0.758M |
-| 23:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 23:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 23:00 | CAD | BOC Press Conference |  |  |  |
+| 41 min | USD | 5-Year Note Auction |  |  | 4.659% |
+| 41 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 18:00 | EUR | EU Leaders Summit |  |  |  |
+| 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 20:30 | USD | Durable Goods Orders (MoM) (Sep) |  | 1.5% | 0.2% |
+| 20:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.5% | 1.7% |
+| 20:30 | USD | Goods Trade Balance (Sep) |  | -85.50B | -84.64B |
+| 20:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
+| 21:00 | USD | Fed Waller Speaks |  |  |  |
+| 22:15 | EUR | ECB President Lagarde Speaks |  |  |  |

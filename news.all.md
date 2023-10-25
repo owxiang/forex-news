@@ -1,54 +1,72 @@
-## 25 October 2023 - All Forex News
+## 26 October 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Moderate | 2-Year Note Auction | 5.055% |  | 5.085% |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.668M | 1.550M | -4.383M |
-| 05:00 | KRW | Low | Consumer Confidence (Oct) | 98.1 |  | 99.7 |
-| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
-| 08:30 | AUD | Moderate | CPI (YoY) (Q3) | 5.4% | 5.3% | 6.0% |
-| 08:30 | AUD | Low | CPI Index Number (Q3) | 135.30 |  | 133.70 |
-| 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
-| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
-| 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
-| 13:00 | JPY | Low | Leading Index (MoM) | 1.0% |  | 1.3% |
-| 13:00 | JPY | Low | Leading Index | 109.2 | 109.5 | 108.2 |
-| 15:00 | EUR | Low | Spanish PPI (YoY) | -8.6% |  | -9.9% |
-| 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 16:00 | CHF | Low | ZEW Expectations (Oct) | -37.8 |  | -27.6 |
-| 16:00 | EUR | Moderate | German Business Expectations (Oct) | 84.7 | 83.3 | 83.1 |
-| 16:00 | EUR | Moderate | German Current Assessment (Oct) | 89.2 | 88.5 | 88.7 |
-| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 86.9 | 85.9 | 85.8 |
-| 16:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | -1.2% | -1.7% | -1.3% |
-| 16:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 0.2% |  | 0.6% |
-| 16:00 | EUR | Low | Private Sector Loans (YoY) | 0.8% | 1.0% | 1.0% |
-| 17:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.871% |  | 4.447% |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.90% |  | 7.70% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.0% |  | -6.9% |
-| 19:00 | USD | Low | MBA Purchase Index | 127.0 |  | 129.8 |
-| 19:00 | USD | Low | Mortgage Market Index | 165.2 |  | 166.9 |
-| 19:00 | USD | Low | Mortgage Refinance Index | 354.0 |  | 347.6 |
-| 19:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
-| 19:40 | USD | High | Building Permits | 1.471M | 1.473M | 1.541M |
-| 19:40 | USD | Moderate | Building Permits (MoM) | -4.5% | -4.4% | 6.8% |
-| 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 12.3% |  | -8.2% |
-| 22:00 | USD | High | New Home Sales (Sep) | 759K | 680K | 676K |
-| 22:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 22:00 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
-| 22:30 | USD | High | Crude Oil Inventories | 1.371M | 0.239M | -4.491M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.207M |  | 0.193M |
-| 22:30 | USD | Low | Crude Oil Imports | 0.539M |  | -2.621M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.213M |  | -0.758M |
-| 22:30 | USD | Low | Distillate Fuel Production | 0.039M |  | -0.033M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -1.686M | -1.168M | -3.185M |
-| 22:30 | USD | Low | Gasoline Production | 0.063M |  | 0.077M |
-| 22:30 | USD | Low | Heating Oil Stockpiles | -0.037M |  | 0.140M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.4% |
-| 22:30 | USD | Low | Gasoline Inventories | 0.156M | -0.897M | -2.371M |
-| 23:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 23:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 23:00 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 41 min | USD | Moderate | 5-Year Note Auction |  |  | 4.659% |
+| 41 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.078B |
+| 04:35 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 05:00 | KRW | Low | Manufacturing BSI Index (Nov) |  |  | 68 |
+| 06:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 07:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.6% |
+| 07:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.1% | 0.9% |
+| 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 794.0B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,259.9B |
+| 08:30 | AUD | Low | Export Price Index (QoQ) (Q3) |  |  | -8.5% |
+| 08:30 | AUD | Low | Import Price Index (QoQ) (Q3) |  | 0.2% | -0.8% |
+| 10:30 | SGD | Low | Unemployment Rate (Q3) |  |  | 1.9% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Sep) |  | -1.8% | -12.1% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Sep) |  | 8.3% | -10.5% |
+| 14:00 | NOK | Low | Unemployment Rate (Sep) |  |  | 3.6% |
+| 15:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.50% | 11.60% |
+| 16:30 | HKD | Low | Exports (MoM) (Sep) |  |  | -3.7% |
+| 16:30 | HKD | Low | Imports (MoM) (Sep) |  |  | -0.3% |
+| 16:30 | HKD | Low | Trade Balance |  |  | -25.6B |
+| 17:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.997% |
+| 17:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | 1.0% |
+| 17:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 4.3% |
+| 18:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
+| 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 19:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 19:30 | BRL | Low | Current Account (USD) |  | -1.05B | -0.78B |
+| 19:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  |  | 4.27B |
+| 20:00 | MXN | Low | Unemployment Rate (Sep) |  |  | 2.70% |
+| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) |  | 2.90% | 3.00% |
+| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 5.06% | 5.00% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.20% | 0.35% |
+| 20:00 | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | 0.92% |
+| 20:15 | EUR | High | Deposit Facility Rate (Oct) |  | 4.00% | 4.00% |
+| 20:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
+| 20:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 20:15 | EUR | High | ECB Interest Rate Decision (Oct) |  | 4.50% | 4.50% |
+| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,720K | 1,734K |
+| 20:30 | USD | High | Core Durable Goods Orders (MoM) (Sep) |  | 0.2% | 0.4% |
+| 20:30 | USD | Low | Core PCE Prices (Q3) |  | 2.50% | 3.70% |
+| 20:30 | USD | Moderate | Durable Goods Orders (MoM) (Sep) |  | 1.5% | 0.2% |
+| 20:30 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | -0.7% |
+| 20:30 | USD | High | GDP (QoQ) (Q3) |  | 4.2% | 2.1% |
+| 20:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 2.5% | 1.7% |
+| 20:30 | USD | Low | GDP Sales (Q3) |  |  | 2.1% |
+| 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) |  | 0.3% | 0.9% |
+| 20:30 | USD | Moderate | Goods Trade Balance (Sep) |  | -85.50B | -84.64B |
+| 20:30 | USD | High | Initial Jobless Claims |  | 209K | 198K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 205.75K |
+| 20:30 | USD | Low | PCE Prices (Q3) |  |  | 2.5% |
+| 20:30 | USD | Low | Real Consumer Spending (Q3) |  |  | 0.8% |
+| 20:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
+| 20:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | -0.1% |
+| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 4.3 |
+| 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.7% |
+| 20:45 | EUR | High | ECB Press Conference |  |  |  |
+| 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 22:00 | USD | High | Pending Home Sales (MoM) (Sep) |  | -1.3% | -7.1% |
+| 22:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 71.8 |
+| 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22:30 | USD | Low | Natural Gas Storage |  |  | 97B |
+| 23:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
+| 23:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -13 |
+| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.305% |
+| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.325% |
