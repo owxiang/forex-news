@@ -5,8 +5,8 @@
 | 01:00 | USD | Moderate | 2-Year Note Auction | 5.055% |  | 5.085% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.668M | 1.550M | -4.383M |
 | 05:00 | KRW | Low | Consumer Confidence (Oct) | 98.1 |  | 99.7 |
-| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
 | 08:30 | AUD | Moderate | CPI (YoY) (Q3) | 5.4% | 5.3% | 6.0% |
+| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
 | 08:30 | AUD | Low | CPI Index Number (Q3) | 135.30 |  | 133.70 |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.9% |
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
@@ -14,8 +14,8 @@
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.5% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
-| 13:00 | JPY | Low | Leading Index |  | 109.5 | 108.2 |
 | 13:00 | JPY | Low | Leading Index (MoM) |  |  | 1.3% |
+| 13:00 | JPY | Low | Leading Index |  | 109.5 | 108.2 |
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -10.0% |
 | 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Oct) |  |  | -27.6 |
@@ -37,8 +37,8 @@
 | 20:00 | USD | High | Building Permits |  | 1.473M | 1.541M |
 | 20:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 97.0 |
 | 21:30 | BRL | Low | Federal Tax Revenue |  | 174.80B | 172.80B |
-| 22:00 | USD | High | New Home Sales (Sep) |  | 680K | 675K |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |
+| 22:00 | USD | High | New Home Sales (Sep) |  | 680K | 675K |
 | 22:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 22:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
