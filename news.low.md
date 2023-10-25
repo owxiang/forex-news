@@ -12,12 +12,13 @@
 | 13:00 | JPY | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Leading Index | 109.2 | 109.5 | 108.2 |
 | 15:00 | EUR | Spanish PPI (YoY) | -8.6% |  | -9.9% |
-| 46 min | CHF | SECO Economic Forecasts |  |  |  |
-| 46 min | CHF | ZEW Expectations (Oct) |  |  | -27.6 |
-| 46 min | EUR | M3 Money Supply (YoY) (Sep) |  | -1.7% | -1.3% |
-| 46 min | EUR | Loans to Non Financial Corporations (Sep) |  |  | 0.6% |
-| 46 min | EUR | Private Sector Loans (YoY) |  | 1.0% | 1.0% |
-| 17:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.447% |
+| 16:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 16:00 | CHF | ZEW Expectations (Oct) | -37.8 |  | -27.6 |
+| 16:00 | EUR | M3 Money Supply (YoY) (Sep) | -1.2% | -1.7% | -1.3% |
+| 16:00 | EUR | M3 Money Supply (Sep) | 10,000,000.0M |  | 10,000,000.0M |
+| 16:00 | EUR | Loans to Non Financial Corporations (Sep) | 0.2% |  | 0.6% |
+| 16:00 | EUR | Private Sector Loans (YoY) | 0.8% | 1.0% | 1.0% |
+| 40 min | GBP | 15-Year Treasury Gilt Auction |  |  | 4.447% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.70% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.9% |
 | 19:00 | USD | MBA Purchase Index |  |  | 129.8 |

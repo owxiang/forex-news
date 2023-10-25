@@ -17,24 +17,25 @@
 | 13:00 | JPY | Low | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Low | Leading Index | 109.2 | 109.5 | 108.2 |
 | 15:00 | EUR | Low | Spanish PPI (YoY) | -8.6% |  | -9.9% |
-| 46 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 46 min | CHF | Low | ZEW Expectations (Oct) |  |  | -27.6 |
-| 46 min | EUR | Moderate | German Business Expectations (Oct) |  | 83.3 | 82.9 |
-| 46 min | EUR | Moderate | German Current Assessment (Oct) |  | 88.5 | 88.7 |
-| 46 min | EUR | Moderate | German Ifo Business Climate Index (Oct) |  | 85.9 | 85.7 |
-| 46 min | EUR | Low | M3 Money Supply (YoY) (Sep) |  | -1.7% | -1.3% |
-| 46 min | EUR | Low | Loans to Non Financial Corporations (Sep) |  |  | 0.6% |
-| 46 min | EUR | Low | Private Sector Loans (YoY) |  | 1.0% | 1.0% |
-| 17:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.447% |
-| 17:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.93% |
+| 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 16:00 | CHF | Low | ZEW Expectations (Oct) | -37.8 |  | -27.6 |
+| 16:00 | EUR | Moderate | German Business Expectations (Oct) | 84.7 | 83.3 | 83.1 |
+| 16:00 | EUR | Moderate | German Current Assessment (Oct) | 89.2 | 88.5 | 88.7 |
+| 16:00 | EUR | Moderate | German Ifo Business Climate Index (Oct) | 86.9 | 85.9 | 85.8 |
+| 16:00 | EUR | Low | M3 Money Supply (YoY) (Sep) | -1.2% | -1.7% | -1.3% |
+| 16:00 | EUR | Low | M3 Money Supply (Sep) | 10,000,000.0M |  | 10,000,000.0M |
+| 16:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 0.2% |  | 0.6% |
+| 16:00 | EUR | Low | Private Sector Loans (YoY) | 0.8% | 1.0% | 1.0% |
+| 40 min | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.447% |
+| 50 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.93% |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.70% |
 | 19:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.9% |
 | 19:00 | USD | Low | MBA Purchase Index |  |  | 129.8 |
 | 19:00 | USD | Low | Mortgage Market Index |  |  | 166.9 |
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 347.6 |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
 | 20:00 | USD | High | Building Permits |  | 1.473M | 1.541M |
+| 20:00 | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Oct) |  |  | 97.0 |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |
 | 22:00 | USD | High | New Home Sales (Sep) |  | 680K | 675K |
