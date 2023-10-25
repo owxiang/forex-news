@@ -5,17 +5,17 @@
 | 01:00 | USD | Moderate | 2-Year Note Auction | 5.055% |  | 5.085% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.668M | 1.550M | -4.383M |
 | 05:00 | KRW | Low | Consumer Confidence (Oct) | 98.1 |  | 99.7 |
-| 08:30 | AUD | Moderate | CPI (YoY) (Q3) | 5.4% | 5.3% | 6.0% |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
+| 08:30 | AUD | Moderate | CPI (YoY) (Q3) | 5.4% | 5.3% | 6.0% |
 | 08:30 | AUD | Low | CPI Index Number (Q3) | 135.30 |  | 133.70 |
-| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
+| 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
-| 42 min | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
-| 42 min | JPY | Low | Leading Index (MoM) |  |  | 1.3% |
-| 42 min | JPY | Low | Leading Index |  | 109.5 | 108.2 |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
+| 13:00 | JPY | Low | Leading Index (MoM) | 1.0% |  | 1.3% |
+| 13:00 | JPY | Low | Leading Index | 109.2 | 109.5 | 108.2 |
 | 15:00 | EUR | Low | Spanish PPI (YoY) |  |  | -10.0% |
 | 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 16:00 | CHF | Low | ZEW Expectations (Oct) |  |  | -27.6 |

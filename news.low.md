@@ -6,11 +6,11 @@
 | 08:30 | AUD | CPI Index Number (Q3) | 135.30 |  | 133.70 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 08:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
-| 42 min | JPY | Coincident Indicator (MoM) |  |  | 0.1% |
-| 42 min | JPY | Leading Index (MoM) |  |  | 1.3% |
-| 42 min | JPY | Leading Index |  | 109.5 | 108.2 |
+| 08:30 | AUD | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
+| 13:00 | JPY | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
+| 13:00 | JPY | Leading Index (MoM) | 1.0% |  | 1.3% |
+| 13:00 | JPY | Leading Index | 109.2 | 109.5 | 108.2 |
 | 15:00 | EUR | Spanish PPI (YoY) |  |  | -10.0% |
 | 16:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 16:00 | CHF | ZEW Expectations (Oct) |  |  | -27.6 |
