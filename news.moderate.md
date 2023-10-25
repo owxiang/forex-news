@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | 5-Year Note Auction | 4.899% |  | 4.659% |
 | 01:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 47 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
 | 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
