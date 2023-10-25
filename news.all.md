@@ -5,14 +5,14 @@
 | 01:00 | USD | Moderate | 2-Year Note Auction | 5.055% |  | 5.085% |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.668M | 1.550M | -4.383M |
 | 05:00 | KRW | Low | Consumer Confidence (Oct) | 98.1 |  | 99.7 |
-| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
 | 08:30 | AUD | Moderate | CPI (YoY) (Q3) | 5.4% | 5.3% | 6.0% |
+| 08:30 | AUD | Moderate | CPI (QoQ) (Q3) | 1.2% | 1.1% | 0.8% |
 | 08:30 | AUD | Low | CPI Index Number (Q3) | 135.30 |  | 133.70 |
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
 | 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
+| 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Low | Leading Index | 109.2 | 109.5 | 108.2 |
@@ -32,13 +32,13 @@
 | 19:00 | USD | Low | Mortgage Market Index | 165.2 |  | 166.9 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 354.0 |  | 347.6 |
 | 19:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
-| 19:40 | USD | High | Building Permits | 1.471M | 1.473M | 1.541M |
 | 19:40 | USD | Moderate | Building Permits (MoM) | -4.5% | -4.4% | 6.8% |
-| 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |
-| 22:00 | USD | High | New Home Sales (Sep) |  | 680K | 675K |
-| 22:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 22:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 19:40 | USD | High | Building Permits | 1.471M | 1.473M | 1.541M |
+| 41 min | USD | High | New Home Sales (Sep) |  | 680K | 675K |
+| 41 min | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |
+| 41 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 41 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 41 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 22:30 | USD | High | Crude Oil Inventories |  | 0.239M | -4.491M |
 | 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.193M |
 | 22:30 | USD | Low | Crude Oil Imports |  |  | -2.621M |
