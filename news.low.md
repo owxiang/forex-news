@@ -6,8 +6,8 @@
 | 08:30 | AUD | CPI Index Number (Q3) | 135.30 |  | 133.70 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 08:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
+| 08:30 | AUD | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 13:00 | JPY | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
 | 13:00 | JPY | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Leading Index | 109.2 | 109.5 | 108.2 |
@@ -24,11 +24,11 @@
 | 19:00 | USD | Mortgage Market Index | 165.2 |  | 166.9 |
 | 19:00 | USD | Mortgage Refinance Index | 354.0 |  | 347.6 |
 | 19:00 | BRL | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
-| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.193M |
-| 16 min | USD | Crude Oil Imports |  |  | -2.621M |
-| 16 min | USD | Distillate Fuel Production |  |  | -0.033M |
-| 16 min | USD | EIA Weekly Distillates Stocks |  | -1.168M | -3.185M |
-| 16 min | USD | Gasoline Production |  |  | 0.077M |
-| 16 min | USD | Heating Oil Stockpiles |  |  | 0.140M |
-| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 16 min | USD | Gasoline Inventories |  | -0.897M | -2.371M |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | -0.207M |  | 0.193M |
+| 22:30 | USD | Crude Oil Imports | 0.539M |  | -2.621M |
+| 22:30 | USD | Distillate Fuel Production | 0.039M |  | -0.033M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | -1.686M | -1.168M | -3.185M |
+| 22:30 | USD | Gasoline Production | 0.063M |  | 0.077M |
+| 22:30 | USD | Heating Oil Stockpiles | -0.037M |  | 0.140M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.4% |
+| 22:30 | USD | Gasoline Inventories | 0.156M | -0.897M | -2.371M |

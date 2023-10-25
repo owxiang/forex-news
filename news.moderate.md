@@ -14,7 +14,7 @@
 | 22:00 | USD | New Home Sales (MoM) (Sep) | 12.3% |  | -8.2% |
 | 22:00 | CAD | BoC Monetary Policy Report |  |  |  |
 | 22:00 | CAD | BoC Rate Statement |  |  |  |
-| 16 min | USD | Cushing Crude Oil Inventories |  |  | -0.758M |
-| 46 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 46 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 46 min | CAD | BOC Press Conference |  |  |  |
+| 22:30 | USD | Cushing Crude Oil Inventories | 0.213M |  | -0.758M |
+| 23:00 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 23:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 23:00 | CAD | BOC Press Conference |  |  |  |

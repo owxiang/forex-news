@@ -11,8 +11,8 @@
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Low | Leading Index | 109.2 | 109.5 | 108.2 |
@@ -32,23 +32,23 @@
 | 19:00 | USD | Low | Mortgage Market Index | 165.2 |  | 166.9 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 354.0 |  | 347.6 |
 | 19:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
-| 19:40 | USD | Moderate | Building Permits (MoM) | -4.5% | -4.4% | 6.8% |
 | 19:40 | USD | High | Building Permits | 1.471M | 1.473M | 1.541M |
+| 19:40 | USD | Moderate | Building Permits (MoM) | -4.5% | -4.4% | 6.8% |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) | 12.3% |  | -8.2% |
 | 22:00 | USD | High | New Home Sales (Sep) | 759K | 680K | 676K |
 | 22:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 22:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 22:00 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
-| 16 min | USD | High | Crude Oil Inventories |  | 0.239M | -4.491M |
-| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.193M |
-| 16 min | USD | Low | Crude Oil Imports |  |  | -2.621M |
-| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.758M |
-| 16 min | USD | Low | Distillate Fuel Production |  |  | -0.033M |
-| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.168M | -3.185M |
-| 16 min | USD | Low | Gasoline Production |  |  | 0.077M |
-| 16 min | USD | Low | Heating Oil Stockpiles |  |  | 0.140M |
-| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 16 min | USD | Low | Gasoline Inventories |  | -0.897M | -2.371M |
-| 46 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 46 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 46 min | CAD | Moderate | BOC Press Conference |  |  |  |
+| 22:30 | USD | High | Crude Oil Inventories | 1.371M | 0.239M | -4.491M |
+| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.207M |  | 0.193M |
+| 22:30 | USD | Low | Crude Oil Imports | 0.539M |  | -2.621M |
+| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.213M |  | -0.758M |
+| 22:30 | USD | Low | Distillate Fuel Production | 0.039M |  | -0.033M |
+| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -1.686M | -1.168M | -3.185M |
+| 22:30 | USD | Low | Gasoline Production | 0.063M |  | 0.077M |
+| 22:30 | USD | Low | Heating Oil Stockpiles | -0.037M |  | 0.140M |
+| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.5% |  | 0.4% |
+| 22:30 | USD | Low | Gasoline Inventories | 0.156M | -0.897M | -2.371M |
+| 23:00 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 23:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 23:00 | CAD | Moderate | BOC Press Conference |  |  |  |
