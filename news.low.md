@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 4.078B |
+| 17 min | BRL | Foreign Exchange Flows |  |  | 4.078B |
 | 05:00 | KRW | Manufacturing BSI Index (Nov) |  |  | 68 |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q3) |  | 1.1% | 0.9% |
+| 07:00 | KRW | GDP (QoQ) (Q3) |  | 0.5% | 0.6% |
 | 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 794.0B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,259.9B |
@@ -21,8 +21,8 @@
 | 16:30 | HKD | Imports (MoM) (Sep) |  |  | -0.3% |
 | 16:30 | HKD | Trade Balance |  |  | -25.6B |
 | 17:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.997% |
-| 17:30 | ZAR | PPI (MoM) (Sep) |  |  | 1.0% |
 | 17:30 | ZAR | PPI (YoY) (Sep) |  |  | 4.3% |
+| 17:30 | ZAR | PPI (MoM) (Sep) |  |  | 1.0% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
 | 19:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 19:30 | BRL | Current Account (USD) |  | -1.05B | -0.78B |

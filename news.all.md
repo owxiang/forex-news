@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | USD | Moderate | 5-Year Note Auction |  |  | 4.659% |
-| 41 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.078B |
+| 01:00 | USD | Moderate | 5-Year Note Auction | 4.899% |  | 4.659% |
+| 01:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 17 min | BRL | Low | Foreign Exchange Flows |  |  | 4.078B |
 | 04:35 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Nov) |  |  | 68 |
 | 06:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q3) |  | 1.1% | 0.9% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.5% | 0.6% |
 | 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 794.0B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,259.9B |
@@ -25,8 +25,8 @@
 | 16:30 | HKD | Low | Imports (MoM) (Sep) |  |  | -0.3% |
 | 16:30 | HKD | Low | Trade Balance |  |  | -25.6B |
 | 17:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.997% |
-| 17:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | 1.0% |
 | 17:30 | ZAR | Low | PPI (YoY) (Sep) |  |  | 4.3% |
+| 17:30 | ZAR | Low | PPI (MoM) (Sep) |  |  | 1.0% |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
