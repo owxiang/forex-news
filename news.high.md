@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:35 | USD | Fed Chair Powell Speaks |  |  |  |
+| 19 min | USD | Fed Chair Powell Speaks |  |  |  |
 | 20:15 | EUR | Deposit Facility Rate (Oct) |  | 4.00% | 4.00% |
 | 20:15 | EUR | ECB Interest Rate Decision (Oct) |  | 4.50% | 4.50% |
 | 20:30 | USD | Core Durable Goods Orders (MoM) (Sep) |  | 0.2% | 0.4% |
