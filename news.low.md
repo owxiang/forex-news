@@ -6,8 +6,8 @@
 | 08:30 | AUD | CPI Index Number (Q3) | 135.30 |  | 133.70 |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
 | 08:30 | AUD | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
+| 08:30 | AUD | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
 | 13:00 | JPY | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
 | 13:00 | JPY | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Leading Index | 109.2 | 109.5 | 108.2 |
@@ -15,10 +15,9 @@
 | 16:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 16:00 | CHF | ZEW Expectations (Oct) | -37.8 |  | -27.6 |
 | 16:00 | EUR | M3 Money Supply (YoY) (Sep) | -1.2% | -1.7% | -1.3% |
-| 16:00 | EUR | M3 Money Supply (Sep) | 10,000,000.0M |  | 10,000,000.0M |
 | 16:00 | EUR | Loans to Non Financial Corporations (Sep) | 0.2% |  | 0.6% |
 | 16:00 | EUR | Private Sector Loans (YoY) | 0.8% | 1.0% | 1.0% |
-| 40 min | GBP | 15-Year Treasury Gilt Auction |  |  | 4.447% |
+| 17:00 | GBP | 15-Year Treasury Gilt Auction | 4.871% |  | 4.447% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.70% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -6.9% |
 | 19:00 | USD | MBA Purchase Index |  |  | 129.8 |
