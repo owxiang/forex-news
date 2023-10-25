@@ -11,8 +11,8 @@
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.9% |
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q3) | 1.2% | 1.1% | 1.0% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Sep) | 5.60% | 5.40% | 5.20% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q3) | 1.3% | 1.0% | 1.0% |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q3) | 5.2% | 5.0% | 5.4% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.4% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) | 1.0% |  | 1.3% |
 | 13:00 | JPY | Low | Leading Index | 109.2 | 109.5 | 108.2 |
@@ -26,14 +26,14 @@
 | 16:00 | EUR | Low | Loans to Non Financial Corporations (Sep) | 0.2% |  | 0.6% |
 | 16:00 | EUR | Low | Private Sector Loans (YoY) | 0.8% | 1.0% | 1.0% |
 | 17:00 | GBP | Low | 15-Year Treasury Gilt Auction | 4.871% |  | 4.447% |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.70% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -6.9% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 129.8 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 166.9 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 347.6 |
-| 43 min | BRL | Low | FGV Consumer confidence (Oct) |  |  | 97.0 |
-| 20:00 | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
-| 20:00 | USD | High | Building Permits |  | 1.473M | 1.541M |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.90% |  | 7.70% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.0% |  | -6.9% |
+| 19:00 | USD | Low | MBA Purchase Index | 127.0 |  | 129.8 |
+| 19:00 | USD | Low | Mortgage Market Index | 165.2 |  | 166.9 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 354.0 |  | 347.6 |
+| 19:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
+| 47 min | USD | High | Building Permits |  | 1.473M | 1.541M |
+| 47 min | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |
 | 22:00 | USD | High | New Home Sales (Sep) |  | 680K | 675K |
 | 22:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |

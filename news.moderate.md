@@ -10,7 +10,7 @@
 | 16:00 | EUR | German Business Expectations (Oct) | 84.7 | 83.3 | 83.1 |
 | 16:00 | EUR | German Current Assessment (Oct) | 89.2 | 88.5 | 88.7 |
 | 16:00 | EUR | German Ifo Business Climate Index (Oct) | 86.9 | 85.9 | 85.8 |
-| 20:00 | USD | Building Permits (MoM) |  | -4.4% | 6.8% |
+| 47 min | USD | Building Permits (MoM) |  | -4.4% | 6.8% |
 | 22:00 | USD | New Home Sales (MoM) (Sep) |  |  | -8.7% |
 | 22:00 | CAD | BoC Monetary Policy Report |  |  |  |
 | 22:00 | CAD | BoC Rate Statement |  |  |  |
