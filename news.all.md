@@ -32,8 +32,8 @@
 | 19:00 | USD | Low | Mortgage Market Index | 165.2 |  | 166.9 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 354.0 |  | 347.6 |
 | 19:00 | BRL | Low | FGV Consumer confidence (Oct) | 93.2 |  | 97.0 |
-| 47 min | USD | High | Building Permits |  | 1.473M | 1.541M |
-| 47 min | USD | Moderate | Building Permits (MoM) |  | -4.4% | 6.8% |
+| 19:40 | USD | High | Building Permits | 1.471M | 1.473M | 1.541M |
+| 19:40 | USD | Moderate | Building Permits (MoM) | -4.5% | -4.4% | 6.8% |
 | 22:00 | USD | Moderate | New Home Sales (MoM) (Sep) |  |  | -8.7% |
 | 22:00 | USD | High | New Home Sales (Sep) |  | 680K | 675K |
 | 22:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
