@@ -8,8 +8,8 @@
 | 05:00 | KRW | Low | Manufacturing BSI Index (Nov) | 71 |  | 68 |
 | 06:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q3) | 1.4% | 1.1% | 0.9% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.1% | 2.0% | 2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -151.7B |  | 808.1B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 214.7B |  | 1,263.9B |
@@ -24,8 +24,8 @@
 | 16:30 | HKD | Low | Imports (MoM) (Sep) | -0.4% |  | -0.3% |
 | 16:30 | HKD | Low | Trade Balance | -64.6B |  | -25.6B |
 | 17:10 | EUR | Low | Italian 6-Month BOT Auction | 3.976% |  | 3.997% |
-| 17:30 | ZAR | Low | PPI (MoM) (Sep) | 1.5% | 1.1% | 1.0% |
 | 17:30 | ZAR | Low | PPI (YoY) (Sep) | 5.1% | 4.7% | 4.3% |
+| 17:30 | ZAR | Low | PPI (MoM) (Sep) | 1.5% | 1.1% | 1.0% |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey (Oct) | -36 | -16 | -14 |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 20:00 | MXN | Low | Unemployment Rate (Sep) | 2.70% |  | 2.70% |
@@ -47,20 +47,20 @@
 | 20:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) | 3.5% | 2.5% | 1.7% |
 | 20:30 | USD | Low | GDP Sales (Q3) | 3.5% | 4.5% | 2.1% |
 | 20:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Sep) | 0.6% | 0.1% | 1.1% |
-| 20:30 | USD | Moderate | Goods Trade Balance (Sep) | -85.78B | -86.20B | -84.27B |
+| 20:30 | USD | Moderate | Goods Trade Balance (Sep) | -85.78B | -86.20B | -84.64B |
 | 20:30 | USD | High | Initial Jobless Claims | 210K | 208K | 200K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 207.50K |  | 206.25K |
 | 20:30 | USD | Low | PCE Prices (Q3) | 2.9% |  | 2.5% |
 | 20:30 | USD | Low | Real Consumer Spending (Q3) | 4.0% |  | 0.8% |
 | 20:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) | 0.3% |  | 0.6% |
-| 20:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | -0.1% |
-| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) |  |  | 4.3 |
-| 20:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.7% |
-| 15 min | EUR | High | ECB Press Conference |  |  |  |
-| 30 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 22:00 | USD | High | Pending Home Sales (MoM) (Sep) |  | -1.8% | -7.1% |
-| 22:00 | USD | Low | Pending Home Sales Index (Sep) |  |  | 71.8 |
-| 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20:30 | USD | Low | Wholesale Inventories (MoM) | 0.0% | 0.1% | -0.1% |
+| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 4.2 |  | 4.2 |
+| 20:30 | CAD | Low | Manufacturing Sales (MoM) | -0.1% |  | 0.7% |
+| 20:45 | EUR | High | ECB Press Conference |  |  |  |
+| 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 42 min | USD | High | Pending Home Sales (MoM) (Sep) |  | -1.8% | -7.1% |
+| 42 min | USD | Low | Pending Home Sales Index (Sep) |  |  | 71.8 |
+| 57 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 22:30 | USD | Low | Natural Gas Storage |  | 80B | 97B |
 | 23:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
 | 23:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -13 |

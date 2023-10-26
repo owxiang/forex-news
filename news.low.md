@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Nov) | 71 |  | 68 |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q3) | 1.4% | 1.1% | 0.9% |
+| 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.1% | 2.0% | 2.1% |
 | 07:50 | JPY | Foreign Bonds Buying | -151.7B |  | 808.1B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 214.7B |  | 1,263.9B |
@@ -20,8 +20,8 @@
 | 16:30 | HKD | Imports (MoM) (Sep) | -0.4% |  | -0.3% |
 | 16:30 | HKD | Trade Balance | -64.6B |  | -25.6B |
 | 17:10 | EUR | Italian 6-Month BOT Auction | 3.976% |  | 3.997% |
-| 17:30 | ZAR | PPI (MoM) (Sep) | 1.5% | 1.1% | 1.0% |
 | 17:30 | ZAR | PPI (YoY) (Sep) | 5.1% | 4.7% | 4.3% |
+| 17:30 | ZAR | PPI (MoM) (Sep) | 1.5% | 1.1% | 1.0% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Oct) | -36 | -16 | -14 |
 | 20:00 | MXN | Unemployment Rate (Sep) | 2.70% |  | 2.70% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Sep) | 2.90% | 2.90% | 3.00% |
@@ -37,10 +37,10 @@
 | 20:30 | USD | Jobless Claims 4-Week Avg. | 207.50K |  | 206.25K |
 | 20:30 | USD | PCE Prices (Q3) | 2.9% |  | 2.5% |
 | 20:30 | USD | Real Consumer Spending (Q3) | 4.0% |  | 0.8% |
-| 20:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | -0.1% |
-| 20:30 | CAD | Average Weekly Earnings (YoY) (Aug) |  |  | 4.3 |
-| 20:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.7% |
-| 22:00 | USD | Pending Home Sales Index (Sep) |  |  | 71.8 |
+| 20:30 | USD | Wholesale Inventories (MoM) | 0.0% | 0.1% | -0.1% |
+| 20:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 4.2 |  | 4.2 |
+| 20:30 | CAD | Manufacturing Sales (MoM) | -0.1% |  | 0.7% |
+| 42 min | USD | Pending Home Sales Index (Sep) |  |  | 71.8 |
 | 22:30 | USD | Natural Gas Storage |  | 80B | 97B |
 | 23:00 | USD | KC Fed Composite Index (Oct) |  |  | -8 |
 | 23:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | -13 |
