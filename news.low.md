@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 4.078B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.250T |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 2.4% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Oct) |  |  | 2.8% |
@@ -16,9 +15,10 @@
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
 | 16:00 | EUR | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
 | 16:00 | EUR | Italian Consumer Confidence (Oct) |  | 104.7 | 105.4 |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
 | 18:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
+| 18:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
 | 19:30 | INR | FX Reserves, USD |  |  | 585.90B |
+| 19:30 | BRL | Foreign Exchange Flows |  |  | 4.078B |
 | 20:00 | MXN | Trade Balance (Sep) |  | -1.300B | -1.377B |
 | 20:00 | MXN | Trade Balance (USD) (Sep) |  |  | -0.131B |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
