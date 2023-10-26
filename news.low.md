@@ -4,24 +4,24 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Nov) | 71 |  | 68 |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q3) | 1.4% | 1.1% | 0.9% |
+| 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.1% | 2.0% | 2.1% |
 | 07:50 | JPY | Foreign Bonds Buying | -151.7B |  | 808.1B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 214.7B |  | 1,263.9B |
 | 08:30 | AUD | Export Price Index (QoQ) (Q3) | -3.1% |  | -8.5% |
 | 08:30 | AUD | Import Price Index (QoQ) (Q3) | 0.8% | 0.2% | -0.8% |
 | 10:30 | SGD | Unemployment Rate (Q3) | 2.0% |  | 1.9% |
-| 13:00 | SGD | Industrial Production (MoM) (Sep) | 10.7% | 7.5% | -10.8% |
 | 13:00 | SGD | Industrial Production (YoY) (Sep) | -2.1% | -4.8% | -11.6% |
-| 46 min | NOK | Unemployment Rate (Sep) |  |  | 3.6% |
-| 15:00 | EUR | Spanish Unemployment Rate (Q3) |  | 11.50% | 11.60% |
+| 13:00 | SGD | Industrial Production (MoM) (Sep) | 10.7% | 7.5% | -10.8% |
+| 14:00 | NOK | Unemployment Rate (Sep) | 3.5% |  | 3.6% |
+| 40 min | EUR | Spanish Unemployment Rate (Q3) |  | 11.50% | 11.60% |
 | 16:30 | HKD | Exports (MoM) (Sep) |  |  | -3.7% |
 | 16:30 | HKD | Imports (MoM) (Sep) |  |  | -0.3% |
 | 16:30 | HKD | Trade Balance |  |  | -25.6B |
 | 17:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.997% |
-| 17:30 | ZAR | PPI (MoM) (Sep) |  | 1.1% | 1.0% |
 | 17:30 | ZAR | PPI (YoY) (Sep) |  | 4.7% | 4.3% |
+| 17:30 | ZAR | PPI (MoM) (Sep) |  | 1.1% | 1.0% |
 | 18:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
 | 19:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 19:30 | BRL | Current Account (USD) |  | -1.40B | -0.78B |
@@ -29,8 +29,8 @@
 | 20:00 | MXN | Unemployment Rate (Sep) |  |  | 2.70% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Sep) |  | 2.90% | 3.00% |
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.20% | 0.35% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Oct) |  | 5.04% | 5.00% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Oct) |  | 0.20% | 0.35% |
 | 20:00 | BRL | Brazilian PPI (MoM) (Sep) |  |  | 0.92% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,740K | 1,734K |
 | 20:30 | USD | Core PCE Prices (Q3) |  | 2.50% | 3.70% |

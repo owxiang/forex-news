@@ -8,24 +8,24 @@
 | 05:00 | KRW | Low | Manufacturing BSI Index (Nov) | 71 |  | 68 |
 | 06:00 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q3) | 1.4% | 1.1% | 0.9% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.1% | 2.0% | 2.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -151.7B |  | 808.1B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 214.7B |  | 1,263.9B |
 | 08:30 | AUD | Low | Export Price Index (QoQ) (Q3) | -3.1% |  | -8.5% |
 | 08:30 | AUD | Low | Import Price Index (QoQ) (Q3) | 0.8% | 0.2% | -0.8% |
 | 10:30 | SGD | Low | Unemployment Rate (Q3) | 2.0% |  | 1.9% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Sep) | 10.7% | 7.5% | -10.8% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Sep) | -2.1% | -4.8% | -11.6% |
-| 46 min | NOK | Low | Unemployment Rate (Sep) |  |  | 3.6% |
-| 15:00 | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.50% | 11.60% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Sep) | 10.7% | 7.5% | -10.8% |
+| 14:00 | NOK | Low | Unemployment Rate (Sep) | 3.5% |  | 3.6% |
+| 40 min | EUR | Low | Spanish Unemployment Rate (Q3) |  | 11.50% | 11.60% |
 | 16:30 | HKD | Low | Exports (MoM) (Sep) |  |  | -3.7% |
 | 16:30 | HKD | Low | Imports (MoM) (Sep) |  |  | -0.3% |
 | 16:30 | HKD | Low | Trade Balance |  |  | -25.6B |
 | 17:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.997% |
-| 17:30 | ZAR | Low | PPI (MoM) (Sep) |  | 1.1% | 1.0% |
 | 17:30 | ZAR | Low | PPI (YoY) (Sep) |  | 4.7% | 4.3% |
+| 17:30 | ZAR | Low | PPI (MoM) (Sep) |  | 1.1% | 1.0% |
 | 18:00 | GBP | Low | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
@@ -34,8 +34,8 @@
 | 20:00 | MXN | Low | Unemployment Rate (Sep) |  |  | 2.70% |
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Sep) |  | 2.90% | 3.00% |
 | 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.20% | 0.35% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Oct) |  | 5.04% | 5.00% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Oct) |  | 0.20% | 0.35% |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Sep) |  |  | 0.92% |
 | 20:15 | EUR | High | Deposit Facility Rate (Oct) |  | 4.00% | 4.00% |
 | 20:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
