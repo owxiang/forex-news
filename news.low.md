@@ -2,6 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 01:30 | BRL | Foreign Exchange Flows | -0.703B |  | -1.468B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.250T |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 2.4% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Oct) |  |  | 2.8% |
