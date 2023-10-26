@@ -38,11 +38,11 @@
 | 20:30 | USD | PCE Prices (Q3) | 2.9% |  | 2.5% |
 | 20:30 | USD | Real Consumer Spending (Q3) | 4.0% |  | 0.8% |
 | 20:30 | USD | Wholesale Inventories (MoM) | 0.0% | 0.1% | -0.1% |
-| 20:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 4.2 |  | 4.2 |
+| 20:30 | CAD | Average Weekly Earnings (YoY) (Aug) | 4.15% |  | 4.20% |
 | 20:30 | CAD | Manufacturing Sales (MoM) | -0.1% |  | 0.7% |
-| 42 min | USD | Pending Home Sales Index (Sep) |  |  | 71.8 |
-| 22:30 | USD | Natural Gas Storage |  | 80B | 97B |
-| 23:00 | USD | KC Fed Composite Index (Oct) |  |  | -8 |
-| 23:00 | USD | KC Fed Manufacturing Index (Oct) |  |  | -13 |
+| 22:00 | USD | Pending Home Sales Index (Sep) | 72.6 |  | 71.8 |
+| 16 min | USD | Natural Gas Storage |  | 80B | 97B |
+| 46 min | USD | KC Fed Composite Index (Oct) |  |  | -8 |
+| 46 min | USD | KC Fed Manufacturing Index (Oct) |  |  | -13 |
 | 23:30 | USD | 4-Week Bill Auction |  |  | 5.305% |
 | 23:30 | USD | 8-Week Bill Auction |  |  | 5.325% |

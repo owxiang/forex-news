@@ -54,15 +54,15 @@
 | 20:30 | USD | Low | Real Consumer Spending (Q3) | 4.0% |  | 0.8% |
 | 20:30 | USD | Moderate | Retail Inventories Ex Auto (Sep) | 0.3% |  | 0.6% |
 | 20:30 | USD | Low | Wholesale Inventories (MoM) | 0.0% | 0.1% | -0.1% |
-| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 4.2 |  | 4.2 |
+| 20:30 | CAD | Low | Average Weekly Earnings (YoY) (Aug) | 4.15% |  | 4.20% |
 | 20:30 | CAD | Low | Manufacturing Sales (MoM) | -0.1% |  | 0.7% |
 | 20:45 | EUR | High | ECB Press Conference |  |  |  |
 | 21:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 42 min | USD | High | Pending Home Sales (MoM) (Sep) |  | -1.8% | -7.1% |
-| 42 min | USD | Low | Pending Home Sales Index (Sep) |  |  | 71.8 |
-| 57 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage |  | 80B | 97B |
-| 23:00 | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
-| 23:00 | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -13 |
+| 22:00 | USD | High | Pending Home Sales (MoM) (Sep) | 1.1% | -1.8% | -7.1% |
+| 22:00 | USD | Low | Pending Home Sales Index (Sep) | 72.6 |  | 71.8 |
+| 22:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16 min | USD | Low | Natural Gas Storage |  | 80B | 97B |
+| 46 min | USD | Low | KC Fed Composite Index (Oct) |  |  | -8 |
+| 46 min | USD | Low | KC Fed Manufacturing Index (Oct) |  |  | -13 |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.305% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.325% |
