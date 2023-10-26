@@ -8,7 +8,7 @@
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
 | 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 20:30 | USD | Durable Goods Orders (MoM) (Sep) |  | 1.5% | 0.2% |
+| 20:30 | USD | Durable Goods Orders (MoM) (Sep) |  | 1.7% | 0.2% |
 | 20:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.5% | 1.7% |
 | 20:30 | USD | Goods Trade Balance (Sep) |  | -85.50B | -84.64B |
 | 20:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
