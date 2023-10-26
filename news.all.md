@@ -18,13 +18,13 @@
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Sep) |  |  | -0.3% |
 | 14:29 | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.60% |
 | 14:45 | EUR | Low | French Consumer Confidence (Oct) |  | 83 | 83 |
-| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  |  | 2.2% |
+| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
 | 16:00 | EUR | Low | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 104.7 | 105.4 |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
+| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.078B |
@@ -46,5 +46,5 @@
 | 22:00 | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 60.7 | 66.0 |
 | 22:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 63.0 | 68.1 |
 | 22:00 | USD | Low | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
-| 23:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.86B |
 | 23:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -1.24B |
+| 23:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.86B |

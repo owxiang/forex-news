@@ -16,8 +16,8 @@
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
 | 16:00 | EUR | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
 | 16:00 | EUR | Italian Consumer Confidence (Oct) |  | 104.7 | 105.4 |
-| 18:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 18:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
+| 18:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 19:30 | INR | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Foreign Exchange Flows |  |  | 4.078B |
 | 20:00 | MXN | Trade Balance (Sep) |  | -1.300B | -1.377B |
@@ -28,5 +28,5 @@
 | 20:30 | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
 | 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:00 | USD | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
-| 23:00 | CAD | Budget Balance (Aug) |  |  | -4.86B |
 | 23:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -1.24B |
+| 23:00 | CAD | Budget Balance (Aug) |  |  | -4.86B |
