@@ -4,14 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Nov) | 71 |  | 68 |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:00 | KRW | GDP (YoY) (Q3) | 1.4% | 1.1% | 0.9% |
 | 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.5% | 0.6% |
-| 35 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 794.0B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,259.9B |
-| 08:30 | AUD | Export Price Index (QoQ) (Q3) |  |  | -8.5% |
-| 08:30 | AUD | Import Price Index (QoQ) (Q3) |  | 0.2% | -0.8% |
-| 10:30 | SGD | Unemployment Rate (Q3) |  |  | 1.9% |
+| 07:00 | KRW | GDP (YoY) (Q3) | 1.4% | 1.1% | 0.9% |
+| 07:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.1% | 2.0% | 2.1% |
+| 07:50 | JPY | Foreign Bonds Buying | -151.7B |  | 808.1B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 214.7B |  | 1,263.9B |
+| 08:30 | AUD | Export Price Index (QoQ) (Q3) | -3.1% |  | -8.5% |
+| 08:30 | AUD | Import Price Index (QoQ) (Q3) | 0.8% | 0.2% | -0.8% |
 | 13:00 | SGD | Industrial Production (YoY) (Sep) |  | -1.8% | -12.1% |
 | 13:00 | SGD | Industrial Production (MoM) (Sep) |  | 8.3% | -10.5% |
 | 14:00 | NOK | Unemployment Rate (Sep) |  |  | 3.6% |
