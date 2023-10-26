@@ -1,16 +1,20 @@
-## 26 October 2023 - Moderate Impact Forex News
+## 27 October 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | 5-Year Note Auction | 4.899% |  | 4.659% |
-| 01:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 25 min | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
+| 40 min | USD | 7-Year Note Auction |  |  | 4.673% |
+| 04:30 | USD | Fed's Balance Sheet |  |  | 7,933B |
+| 07:30 | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.5% | 2.5% |
+| 08:30 | AUD | PPI (QoQ) (Q3) |  |  | 0.5% |
+| 08:30 | AUD | PPI (YoY) (Q3) |  |  | 3.9% |
+| 15:00 | EUR | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
-| 20:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
-| 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 20:30 | USD | Durable Goods Orders (MoM) (Sep) | 4.7% | 1.7% | -0.1% |
-| 20:30 | USD | GDP Price Index (QoQ) (Q3) | 3.5% | 2.5% | 1.7% |
-| 20:30 | USD | Goods Trade Balance (Sep) | -85.78B | -86.20B | -84.64B |
-| 20:30 | USD | Retail Inventories Ex Auto (Sep) | 0.3% |  | 0.6% |
-| 21:00 | USD | Fed Waller Speaks |  |  |  |
-| 22:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:30 | USD | PCE Price index (YoY) (Sep) |  | 3.4% | 3.5% |
+| 20:30 | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.4% |
+| 20:30 | USD | Personal Spending (MoM) (Sep) |  | 0.5% | 0.4% |
+| 20:30 | CAD | Wholesale Sales (MoM) |  |  | 2.3% |
+| 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  | 3.8% | 3.2% |
+| 22:00 | USD | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 2.8% |
+| 22:00 | USD | Michigan Consumer Expectations (Oct) |  | 60.7 | 66.0 |
+| 22:00 | USD | Michigan Consumer Sentiment (Oct) |  | 63.0 | 68.1 |
