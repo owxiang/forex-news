@@ -7,10 +7,10 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.703B |  | -1.468B |
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 7,908B |  | 7,933B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.264T |  | 3.250T |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 2.4% |
-| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) |  | 2.5% | 2.5% |
-| 07:30 | JPY | Low | Tokyo CPI (YoY) (Oct) |  |  | 2.8% |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | -0.2% |
+| 15 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Oct) |  |  | 2.4% |
+| 15 min | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) |  | 2.5% | 2.5% |
+| 15 min | JPY | Low | Tokyo CPI (YoY) (Oct) |  |  | 2.8% |
+| 15 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) |  |  | -0.2% |
 | 08:30 | AUD | Moderate | PPI (QoQ) (Q3) |  | 0.7% | 0.5% |
 | 08:30 | AUD | Moderate | PPI (YoY) (Q3) |  |  | 3.9% |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) |  | 0.50% | -0.20% |
@@ -23,8 +23,8 @@
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
 | 16:00 | EUR | Low | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 104.7 | 105.4 |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
+| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.078B |

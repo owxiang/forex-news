@@ -5,7 +5,7 @@
 | 00:45 | GBP | BoE MPC Member Cunliffe Speaks |  |  |  |
 | 01:00 | USD | 7-Year Note Auction | 4.908% |  | 4.673% |
 | 04:30 | USD | Fed's Balance Sheet | 7,908B |  | 7,933B |
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.5% | 2.5% |
+| 15 min | JPY | Tokyo Core CPI (YoY) (Oct) |  | 2.5% | 2.5% |
 | 08:30 | AUD | PPI (QoQ) (Q3) |  | 0.7% | 0.5% |
 | 08:30 | AUD | PPI (YoY) (Q3) |  |  | 3.9% |
 | 15:00 | EUR | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
