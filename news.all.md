@@ -23,8 +23,8 @@
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
 | 16:00 | EUR | Low | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 104.7 | 105.4 |
-| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
+| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Low | Foreign Exchange Flows |  |  | 4.078B |
