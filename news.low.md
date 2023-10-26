@@ -16,13 +16,13 @@
 | 13:00 | SGD | Industrial Production (YoY) (Sep) | -2.1% | -4.8% | -11.6% |
 | 14:00 | NOK | Unemployment Rate (Sep) | 3.5% |  | 3.6% |
 | 15:00 | EUR | Spanish Unemployment Rate (Q3) | 11.84% | 11.50% | 11.60% |
-| 10 min | HKD | Exports (MoM) (Sep) |  |  | -3.7% |
-| 10 min | HKD | Imports (MoM) (Sep) |  |  | -0.3% |
-| 10 min | HKD | Trade Balance |  |  | -25.6B |
-| 50 min | EUR | Italian 6-Month BOT Auction |  |  | 3.997% |
-| 17:30 | ZAR | PPI (MoM) (Sep) |  | 1.1% | 1.0% |
-| 17:30 | ZAR | PPI (YoY) (Sep) |  | 4.7% | 4.3% |
-| 18:00 | GBP | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
+| 16:30 | HKD | Exports (MoM) (Sep) | -5.3% |  | -3.7% |
+| 16:30 | HKD | Imports (MoM) (Sep) | -0.4% |  | -0.3% |
+| 16:30 | HKD | Trade Balance | -64.6B |  | -25.6B |
+| 17:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.997% |
+| 15 min | ZAR | PPI (MoM) (Sep) |  | 1.1% | 1.0% |
+| 15 min | ZAR | PPI (YoY) (Sep) |  | 4.7% | 4.3% |
+| 45 min | GBP | CBI Distributive Trades Survey (Oct) |  | -16 | -14 |
 | 19:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 19:30 | BRL | Current Account (USD) |  | -1.40B | -0.78B |
 | 19:30 | BRL | Foreign direct investment (USD) (Sep) |  |  | 4.27B |
