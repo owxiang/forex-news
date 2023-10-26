@@ -6,11 +6,11 @@
 | 01:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 06:00 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
-| 20:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 20:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
 | 20:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 20:30 | USD | Durable Goods Orders (MoM) (Sep) |  | 1.7% | 0.2% |
-| 20:30 | USD | GDP Price Index (QoQ) (Q3) |  | 2.5% | 1.7% |
-| 20:30 | USD | Goods Trade Balance (Sep) |  | -85.50B | -84.64B |
-| 20:30 | USD | Retail Inventories Ex Auto (Sep) |  |  | 0.5% |
-| 21:00 | USD | Fed Waller Speaks |  |  |  |
+| 20:30 | USD | Durable Goods Orders (MoM) (Sep) | 4.7% | 1.7% | -0.1% |
+| 20:30 | USD | GDP Price Index (QoQ) (Q3) | 3.5% | 2.5% | 1.7% |
+| 20:30 | USD | Goods Trade Balance (Sep) | -85.78B | -86.20B | -84.27B |
+| 20:30 | USD | Retail Inventories Ex Auto (Sep) | 0.3% |  | 0.6% |
+| 30 min | USD | Fed Waller Speaks |  |  |  |
 | 22:15 | EUR | ECB President Lagarde Speaks |  |  |  |
