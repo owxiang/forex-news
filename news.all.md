@@ -11,16 +11,16 @@
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) | 2.7% | 2.5% | 2.5% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Oct) | 3.3% | 2.8% | 2.8% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
-| 08:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
 | 08:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.8% |  | 3.9% |
+| 08:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.80% | 0.50% | -0.20% |
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | -9.0% |  | -11.7% |
-| 46 min | NOK | Low | Core Retail Sales (MoM) (Sep) |  | -0.2% | -0.3% |
-| 14:29 | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.60% |
-| 14:45 | EUR | Low | French Consumer Confidence (Oct) |  | 83 | 83 |
-| 15:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 1.6% | 2.2% |
-| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.2% | 0.5% |
-| 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
+| 14:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.3% |
+| 9 min | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.60% |
+| 25 min | EUR | Low | French Consumer Confidence (Oct) |  | 83 | 83 |
+| 40 min | EUR | Low | Spanish GDP (YoY) (Q3) |  | 1.6% | 2.2% |
+| 40 min | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.2% | 0.5% |
+| 40 min | EUR | Low | Spanish Retail Sales (YoY) (Sep) |  |  | 7.2% |
 | 16:00 | EUR | Low | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Oct) |  | 105.2 | 105.4 |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
@@ -34,8 +34,8 @@
 | 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:30 | USD | High | Core PCE Price Index (YoY) (Sep) |  | 3.7% | 3.9% |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
-| 20:30 | USD | Moderate | PCE Price index (YoY) (Sep) |  | 3.4% | 3.5% |
 | 20:30 | USD | Moderate | PCE price index (MoM) (Sep) |  | 0.3% | 0.4% |
+| 20:30 | USD | Moderate | PCE Price index (YoY) (Sep) |  | 3.4% | 3.5% |
 | 20:30 | USD | Low | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
 | 20:30 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.5% | 0.4% |
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
