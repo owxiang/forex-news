@@ -9,7 +9,7 @@
 | 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
 | 08:30 | SGD | URA Property Index (QoQ) (Q3) | 0.80% | 0.50% | -0.20% |
 | 09:30 | CNY | Chinese Industrial profit YTD (Sep) | -9.0% |  | -11.7% |
-| 14:00 | NOK | Core Retail Sales (MoM) (Sep) |  | -0.2% | -0.3% |
+| 46 min | NOK | Core Retail Sales (MoM) (Sep) |  | -0.2% | -0.3% |
 | 14:29 | USD | Dallas Fed PCE (Sep) |  |  | 2.60% |
 | 14:45 | EUR | French Consumer Confidence (Oct) |  | 83 | 83 |
 | 15:00 | EUR | Spanish GDP (YoY) (Q3) |  | 1.6% | 2.2% |
