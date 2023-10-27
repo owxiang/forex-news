@@ -1,49 +1,27 @@
-## 27 October 2023 - All Forex News
+## 28 October 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:45 | GBP | Moderate | BoE MPC Member Cunliffe Speaks |  |  |  |
-| 01:00 | USD | Moderate | 7-Year Note Auction | 4.908% |  | 4.673% |
-| 01:30 | BRL | Low | Foreign Exchange Flows | 3.375B |  | 4.078B |
-| 04:30 | USD | Moderate | Fed's Balance Sheet | 7,908B |  | 7,933B |
-| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.264T |  | 3.250T |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Oct) | 2.7% |  | 2.4% |
-| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) | 2.7% | 2.5% | 2.5% |
-| 07:30 | JPY | Low | Tokyo CPI (YoY) (Oct) | 3.3% | 2.8% | 2.8% |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
-| 08:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.8% |  | 3.9% |
-| 08:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
-| 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.80% | 0.50% | -0.20% |
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | -9.0% |  | -11.7% |
-| 14:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.3% |
-| 14:45 | EUR | Low | French Consumer Confidence (Oct) | 84 | 83 | 83 |
-| 15:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 1.8% | 1.6% | 2.0% |
-| 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.4% |
-| 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) | 6.5% |  | 7.1% |
-| 16:00 | EUR | Low | Italian Business Confidence (Oct) | 96.0 | 96.0 | 96.4 |
-| 16:00 | EUR | Low | Italian Consumer Confidence (Oct) | 101.6 | 105.2 | 105.4 |
-| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
-| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.40% |  | -0.50% |
-| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
-| 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 19:30 | INR | Low | FX Reserves, USD | 583.53B |  | 585.90B |
-| 20:00 | MXN | Low | Trade Balance (Sep) | -1.481B | -0.712B | -1.377B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Sep) | -0.822B |  | -0.139B |
-| 20:30 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.1% |
-| 20:30 | USD | High | Core PCE Price Index (YoY) (Sep) | 3.7% | 3.7% | 3.8% |
-| 20:30 | USD | Moderate | PCE Price index (YoY) (Sep) | 3.4% | 3.4% | 3.4% |
-| 20:30 | USD | Moderate | PCE price index (MoM) (Sep) | 0.4% | 0.3% | 0.4% |
-| 20:30 | USD | Low | Personal Income (MoM) (Sep) | 0.3% | 0.4% | 0.4% |
-| 20:30 | USD | Moderate | Personal Spending (MoM) (Sep) | 0.7% | 0.5% | 0.4% |
-| 20:30 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.1% |
-| 20:30 | CAD | Moderate | Wholesale Sales (MoM) | 0.0% |  | 2.3% |
-| 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22:00 | USD | Low | Dallas Fed PCE (Sep) | 4.00% |  | 2.80% |
-| 22:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.2% | 3.8% | 3.2% |
-| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 2.8% |
-| 22:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 59.3 | 60.7 | 66.0 |
-| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 63.8 | 63.0 | 68.1 |
-| 22:00 | USD | Low | Michigan Current Conditions (Oct) | 70.6 | 66.7 | 71.4 |
-| 23:00 | CAD | Low | Budget Balance (YoY) (Aug) | -4.29B |  | -1.24B |
-| 23:00 | CAD | Low | Budget Balance (Aug) | -3.05B |  | -4.86B |
+| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 502 |
+| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 624 |
+| Tentative | MXN | Low | Fiscal Balance |  |  | -512.00B |
+| 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -11.2K |
+| 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.4K |
+| 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -25.9K |
+| 04:30 | USD | Low | CFTC Corn speculative net positions |  |  | -62.6K |
+| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 306.4K |
+| 04:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 112.7K |
+| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 14.3K |
+| 04:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -57.3K |
+| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -63.2K |
+| 04:30 | USD | Low | CFTC Silver speculative net positions |  |  | 19.7K |
+| 04:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 27.1K |
+| 04:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -69.2K |
+| 04:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -48.5K |
+| 04:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 44.3K |
+| 04:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -17.1K |
+| 04:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -80.7K |
+| 04:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 3.5K |
+| 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -102.7K |
+| 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -5.9K |
+| 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 82.4K |
