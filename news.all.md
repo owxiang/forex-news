@@ -27,11 +27,11 @@
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.40% |  | -0.50% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 585.90B |
-| 19:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 20:00 | MXN | Low | Trade Balance (Sep) |  | -0.712B | -1.377B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Sep) |  |  | -0.131B |
-| 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 585.90B |
+| 17 min | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
+| 47 min | MXN | Low | Trade Balance (Sep) |  | -0.712B | -1.377B |
+| 47 min | MXN | Low | Trade Balance (USD) (Sep) |  |  | -0.131B |
+| 47 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
 | 20:30 | USD | High | Core PCE Price Index (YoY) (Sep) |  | 3.7% | 3.9% |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Sep) |  | 3.4% | 3.5% |
