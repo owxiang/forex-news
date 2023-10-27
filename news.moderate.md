@@ -8,10 +8,10 @@
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Oct) | 2.7% | 2.5% | 2.5% |
 | 08:30 | AUD | PPI (YoY) (Q3) | 3.8% |  | 3.9% |
 | 08:30 | AUD | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
-| 40 min | EUR | Spanish GDP (QoQ) (Q3) |  | 0.2% | 0.5% |
+| 15:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.4% |
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
-| 20:30 | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.4% |
 | 20:30 | USD | PCE Price index (YoY) (Sep) |  | 3.4% | 3.5% |
+| 20:30 | USD | PCE price index (MoM) (Sep) |  | 0.3% | 0.4% |
 | 20:30 | USD | Personal Spending (MoM) (Sep) |  | 0.5% | 0.4% |
 | 20:30 | CAD | Wholesale Sales (MoM) |  |  | 2.3% |
 | 22:00 | USD | Michigan 1-Year Inflation Expectations (Oct) |  | 3.8% | 3.2% |
