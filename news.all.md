@@ -11,8 +11,8 @@
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) | 2.7% | 2.5% | 2.5% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Oct) | 3.3% | 2.8% | 2.8% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
-| 08:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.8% |  | 3.9% |
 | 08:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
+| 08:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.8% |  | 3.9% |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.80% | 0.50% | -0.20% |
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | -9.0% |  | -11.7% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.3% |
@@ -20,10 +20,12 @@
 | 15:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 1.8% | 1.6% | 2.0% |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.4% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) | 6.5% |  | 7.1% |
-| 46 min | EUR | Low | Italian Business Confidence (Oct) |  | 96.0 | 96.4 |
-| 46 min | EUR | Low | Italian Consumer Confidence (Oct) |  | 105.2 | 105.4 |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
+| 16:00 | EUR | Low | Italian Business Confidence (Oct) | 96.0 | 96.0 | 96.4 |
+| 16:00 | EUR | Low | Italian Consumer Confidence (Oct) | 101.6 | 105.2 | 105.4 |
+| 16:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
+| 41 min | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
+| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
