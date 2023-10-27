@@ -19,14 +19,12 @@
 | 16:00 | EUR | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
 | 18:00 | EUR | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
 | 18:00 | EUR | Italian Industrial Sales (MoM) (Aug) | -0.40% |  | -0.50% |
-| 17 min | INR | FX Reserves, USD |  |  | 585.90B |
-| 17 min | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 47 min | MXN | Trade Balance (Sep) |  | -0.712B | -1.377B |
-| 47 min | MXN | Trade Balance (USD) (Sep) |  |  | -0.131B |
-| 47 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 19:30 | INR | FX Reserves, USD | 583.53B |  | 585.90B |
+| 20:00 | MXN | Trade Balance (Sep) | -1.481B | -0.712B | -1.377B |
+| 20:00 | MXN | Trade Balance (USD) (Sep) | -0.822B |  | -0.139B |
 | 20:30 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
 | 20:30 | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
-| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 30 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.70% |
 | 22:00 | USD | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
 | 23:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -1.24B |

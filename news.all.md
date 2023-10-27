@@ -27,11 +27,9 @@
 | 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.40% |  | -0.50% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 585.90B |
-| 17 min | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 47 min | MXN | Low | Trade Balance (Sep) |  | -0.712B | -1.377B |
-| 47 min | MXN | Low | Trade Balance (USD) (Sep) |  |  | -0.131B |
-| 47 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 19:30 | INR | Low | FX Reserves, USD | 583.53B |  | 585.90B |
+| 20:00 | MXN | Low | Trade Balance (Sep) | -1.481B | -0.712B | -1.377B |
+| 20:00 | MXN | Low | Trade Balance (USD) (Sep) | -0.822B |  | -0.139B |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
 | 20:30 | USD | High | Core PCE Price Index (YoY) (Sep) |  | 3.7% | 3.9% |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Sep) |  | 3.4% | 3.5% |
@@ -40,7 +38,7 @@
 | 20:30 | USD | Moderate | Personal Spending (MoM) (Sep) |  | 0.5% | 0.4% |
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 2.3% |
-| 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 30 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:00 | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.70% |
 | 22:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  | 3.8% | 3.2% |
 | 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 2.8% |
