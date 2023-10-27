@@ -17,16 +17,16 @@
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | -9.0% |  | -11.7% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.3% |
 | 14:45 | EUR | Low | French Consumer Confidence (Oct) | 84 | 83 | 83 |
-| 15:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 1.8% | 1.6% | 2.0% |
 | 15:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.2% | 0.4% |
+| 15:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 1.8% | 1.6% | 2.0% |
 | 15:00 | EUR | Low | Spanish Retail Sales (YoY) (Sep) | 6.5% |  | 7.1% |
 | 16:00 | EUR | Low | Italian Business Confidence (Oct) | 96.0 | 96.0 | 96.4 |
 | 16:00 | EUR | Low | Italian Consumer Confidence (Oct) | 101.6 | 105.2 | 105.4 |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
-| 41 min | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
-| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
-| 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
-| 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 16:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
+| 45 min | EUR | Low | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
+| 45 min | EUR | Low | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
+| 45 min | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
 | 20:00 | MXN | Low | Trade Balance (Sep) |  | -0.712B | -1.377B |

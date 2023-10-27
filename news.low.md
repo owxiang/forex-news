@@ -16,9 +16,9 @@
 | 16:00 | EUR | Italian Business Confidence (Oct) | 96.0 | 96.0 | 96.4 |
 | 16:00 | EUR | Italian Consumer Confidence (Oct) | 101.6 | 105.2 | 105.4 |
 | 16:00 | EUR | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
-| 41 min | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
-| 18:00 | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
-| 18:00 | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
+| 16:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
+| 45 min | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
+| 45 min | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
 | 19:30 | INR | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
 | 20:00 | MXN | Trade Balance (Sep) |  | -0.712B | -1.377B |
