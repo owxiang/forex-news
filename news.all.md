@@ -11,8 +11,8 @@
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Oct) | 2.7% | 2.5% | 2.5% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Oct) | 3.3% | 2.8% | 2.8% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Oct) | 0.4% |  | -0.2% |
-| 08:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
 | 08:30 | AUD | Moderate | PPI (YoY) (Q3) | 3.8% |  | 3.9% |
+| 08:30 | AUD | Moderate | PPI (QoQ) (Q3) | 1.8% | 0.7% | 0.5% |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q3) | 0.80% | 0.50% | -0.20% |
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Sep) | -9.0% |  | -11.7% |
 | 14:00 | NOK | Low | Core Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.3% |
@@ -30,8 +30,8 @@
 | 19:30 | INR | Low | FX Reserves, USD | 583.53B |  | 585.90B |
 | 20:00 | MXN | Low | Trade Balance (Sep) | -1.481B | -0.712B | -1.377B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Sep) | -0.822B |  | -0.139B |
-| 20:30 | USD | High | Core PCE Price Index (YoY) (Sep) | 3.7% | 3.7% | 3.8% |
 | 20:30 | USD | High | Core PCE Price Index (MoM) (Sep) | 0.3% | 0.3% | 0.1% |
+| 20:30 | USD | High | Core PCE Price Index (YoY) (Sep) | 3.7% | 3.7% | 3.8% |
 | 20:30 | USD | Moderate | PCE Price index (YoY) (Sep) | 3.4% | 3.4% | 3.4% |
 | 20:30 | USD | Moderate | PCE price index (MoM) (Sep) | 0.4% | 0.3% | 0.4% |
 | 20:30 | USD | Low | Personal Income (MoM) (Sep) | 0.3% | 0.4% | 0.4% |
@@ -39,11 +39,11 @@
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.1% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) | 0.0% |  | 2.3% |
 | 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 42 min | USD | Low | Dallas Fed PCE (Sep) |  |  | 2.70% |
-| 42 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) |  | 3.8% | 3.2% |
-| 42 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) |  | 3.0% | 2.8% |
-| 42 min | USD | Moderate | Michigan Consumer Expectations (Oct) |  | 60.7 | 66.0 |
-| 42 min | USD | Moderate | Michigan Consumer Sentiment (Oct) |  | 63.0 | 68.1 |
-| 42 min | USD | Low | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
-| 23:00 | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -1.24B |
-| 23:00 | CAD | Low | Budget Balance (Aug) |  |  | -4.86B |
+| 22:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.2% | 3.8% | 3.2% |
+| 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 2.8% |
+| 22:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 59.3 | 60.7 | 66.0 |
+| 22:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 63.8 | 63.0 | 68.1 |
+| 22:00 | USD | Low | Michigan Current Conditions (Oct) | 70.6 | 66.7 | 71.4 |
+| 22:09 | USD | Low | Dallas Fed PCE (Sep) | 4.00% |  | 2.80% |
+| 46 min | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -1.24B |
+| 46 min | CAD | Low | Budget Balance (Aug) |  |  | -4.86B |
