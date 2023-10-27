@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:30 | USD | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
 | 20:30 | USD | Core PCE Price Index (YoY) (Sep) |  | 3.7% | 3.9% |
+| 20:30 | USD | Core PCE Price Index (MoM) (Sep) |  | 0.3% | 0.1% |
