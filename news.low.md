@@ -15,10 +15,10 @@
 | 15:00 | EUR | Spanish Retail Sales (YoY) (Sep) | 6.5% |  | 7.1% |
 | 16:00 | EUR | Italian Business Confidence (Oct) | 96.0 | 96.0 | 96.4 |
 | 16:00 | EUR | Italian Consumer Confidence (Oct) | 101.6 | 105.2 | 105.4 |
-| 16:00 | EUR | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
 | 16:00 | EUR | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
-| 45 min | EUR | Italian Industrial Sales (MoM) (Aug) |  |  | -0.40% |
-| 45 min | EUR | Italian Industrial Sales (YoY) (Aug) |  |  | -1.60% |
+| 16:00 | EUR | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
+| 18:00 | EUR | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
+| 18:00 | EUR | Italian Industrial Sales (MoM) (Aug) | -0.40% |  | -0.50% |
 | 19:30 | INR | FX Reserves, USD |  |  | 585.90B |
 | 19:30 | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
 | 20:00 | MXN | Trade Balance (Sep) |  | -0.712B | -1.377B |
@@ -29,5 +29,5 @@
 | 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.70% |
 | 22:00 | USD | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
-| 23:00 | CAD | Budget Balance (Aug) |  |  | -4.86B |
 | 23:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -1.24B |
+| 23:00 | CAD | Budget Balance (Aug) |  |  | -4.86B |
