@@ -22,10 +22,10 @@
 | 19:30 | INR | FX Reserves, USD | 583.53B |  | 585.90B |
 | 20:00 | MXN | Trade Balance (Sep) | -1.481B | -0.712B | -1.377B |
 | 20:00 | MXN | Trade Balance (USD) (Sep) | -0.822B |  | -0.139B |
-| 20:30 | USD | Personal Income (MoM) (Sep) |  | 0.4% | 0.4% |
-| 20:30 | USD | Real Personal Consumption (MoM) (Sep) |  |  | 0.1% |
-| 30 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22:00 | USD | Dallas Fed PCE (Sep) |  |  | 2.70% |
-| 22:00 | USD | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
+| 20:30 | USD | Personal Income (MoM) (Sep) | 0.3% | 0.4% | 0.4% |
+| 20:30 | USD | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.1% |
+| 21:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 42 min | USD | Dallas Fed PCE (Sep) |  |  | 2.70% |
+| 42 min | USD | Michigan Current Conditions (Oct) |  | 66.7 | 71.4 |
 | 23:00 | CAD | Budget Balance (YoY) (Aug) |  |  | -1.24B |
 | 23:00 | CAD | Budget Balance (Aug) |  |  | -4.86B |
