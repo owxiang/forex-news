@@ -24,8 +24,8 @@
 | 16:00 | EUR | Low | Italian Consumer Confidence (Oct) | 101.6 | 105.2 | 105.4 |
 | 16:00 | EUR | Low | Brandenburg CPI (MoM) (Oct) | 0.3% |  | 0.3% |
 | 16:00 | EUR | Low | Brandenburg CPI (YoY) (Oct) | 4.6% |  | 5.6% |
-| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
 | 18:00 | EUR | Low | Italian Industrial Sales (MoM) (Aug) | -0.40% |  | -0.50% |
+| 18:00 | EUR | Low | Italian Industrial Sales (YoY) (Aug) | -5.00% |  | -1.70% |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD | 583.53B |  | 585.90B |
 | 20:00 | MXN | Low | Trade Balance (Sep) | -1.481B | -0.712B | -1.377B |
@@ -39,11 +39,11 @@
 | 20:30 | USD | Low | Real Personal Consumption (MoM) (Sep) | 0.4% |  | 0.1% |
 | 20:30 | CAD | Moderate | Wholesale Sales (MoM) | 0.0% |  | 2.3% |
 | 21:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 22:00 | USD | Low | Dallas Fed PCE (Sep) | 4.00% |  | 2.80% |
 | 22:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Oct) | 4.2% | 3.8% | 3.2% |
 | 22:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Oct) | 3.0% | 3.0% | 2.8% |
 | 22:00 | USD | Moderate | Michigan Consumer Expectations (Oct) | 59.3 | 60.7 | 66.0 |
 | 22:00 | USD | Moderate | Michigan Consumer Sentiment (Oct) | 63.8 | 63.0 | 68.1 |
 | 22:00 | USD | Low | Michigan Current Conditions (Oct) | 70.6 | 66.7 | 71.4 |
-| 22:09 | USD | Low | Dallas Fed PCE (Sep) | 4.00% |  | 2.80% |
-| 46 min | CAD | Low | Budget Balance (YoY) (Aug) |  |  | -1.24B |
-| 46 min | CAD | Low | Budget Balance (Aug) |  |  | -4.86B |
+| 23:00 | CAD | Low | Budget Balance (YoY) (Aug) | -4.29B |  | -1.24B |
+| 23:00 | CAD | Low | Budget Balance (Aug) | -3.05B |  | -4.86B |
