@@ -10,8 +10,8 @@
 | 14:30 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 15:00 | NOK | M3 Money Supply (Sep) |  |  | 3,064.9B |
 | 15:00 | NOK | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
-| 16:00 | EUR | Spanish CPI (MoM) (Oct) |  |  | 0.2% |
-| 16:00 | EUR | Spanish HICP (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | EUR | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.2% |
+| 16:00 | EUR | Spanish HICP (MoM) (Oct) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |

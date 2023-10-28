@@ -11,18 +11,18 @@
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
 | 15:00 | NOK | Low | M3 Money Supply (Sep) |  |  | 3,064.9B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
-| 16:00 | CHF | Moderate | KOF Leading Indicators (Oct) |  |  | 95.9 |
+| 16:00 | CHF | Moderate | KOF Leading Indicators (Oct) |  | 95.0 | 95.9 |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  |  | 3.5% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  |  | 0.2% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  |  | 3.3% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.2% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.7% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
-| 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  |  | -0.6% |
-| 17:00 | EUR | High | German GDP (QoQ) (Q3) |  |  | -0.2% |
+| 17:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
+| 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  |  | -0.2% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:30 | GBP | Low | BoE Consumer Credit (Sep) |  |  | 1.644B |
