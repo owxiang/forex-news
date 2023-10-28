@@ -15,8 +15,8 @@
 | 17:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 17:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
 | 17:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
+| 17:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
 | 17:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
 | 17:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.644B |

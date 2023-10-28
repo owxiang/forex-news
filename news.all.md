@@ -19,8 +19,8 @@
 | 17:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
+| 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
 | 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  |  | -0.2% |
 | 17:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
