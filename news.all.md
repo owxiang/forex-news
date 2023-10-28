@@ -1,26 +1,61 @@
-## 28 October 2023 - All Forex News
+## 30 October 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 504 |  | 502 |
-| 01:30 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 625 |  | 624 |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | -18.6K |  | -11.2K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 7.1K |  | 6.4K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -20.8K |  | -25.9K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -48.3K |  | -62.6K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 300.8K |  | 306.4K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 149.4K |  | 112.7K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 2.7K |  | 14.3K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -70.3K |  | -57.3K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | 10.2K |  | -63.2K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 24.3K |  | 19.7K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 36.5K |  | 27.1K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -59.9K |  | -69.2K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -48.6K |  | -48.5K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 37.9K |  | 44.3K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -15.1K |  | -17.1K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -83.1K |  | -80.7K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 5.2K |  | 3.5K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -99.6K |  | -102.7K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | -12.9K |  | -5.9K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 85.3K |  | 82.4K |
+| 08:30 | AUD | Moderate | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
+| 09:13 | ZAR | Low | Budget Balance (MoM) (Sep) |  |  | -47.33B |
+| 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.045% |
+| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Sep) |  |  | 8.52% |
+| 14:00 | ZAR | Low | Private Sector Credit (Sep) |  |  | 4.38% |
+| 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
+| 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 4.2% |
+| 15:00 | NOK | Low | M3 Money Supply (Sep) |  |  | 3,064.9B |
+| 15:00 | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
+| 16:00 | CHF | Moderate | KOF Leading Indicators (Oct) |  |  | 95.9 |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  |  | 0.2% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  |  | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  |  | 3.3% |
+| 17:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
+| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
+| 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
+| 17:00 | EUR | High | German GDP (QoQ) (Q3) |  |  | -0.2% |
+| 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  |  | -0.6% |
+| 17:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
+| 17:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
+| 17:30 | GBP | Low | BoE Consumer Credit (Sep) |  |  | 1.644B |
+| 17:30 | GBP | Low | M3 Money Supply (Sep) |  |  | 3,025.7B |
+| 17:30 | GBP | Low | M4 Money Supply (MoM) (Sep) |  |  | 0.2% |
+| 17:30 | GBP | Low | Mortgage Approvals (Sep) |  |  | 45.35K |
+| 17:30 | GBP | Low | Mortgage Lending (Sep) |  |  | 1.22B |
+| 17:30 | GBP | Low | Net Lending to Individuals |  |  | 2.9B |
+| 18:00 | EUR | Low | Saxony CPI (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 5.4% |
+| 18:00 | EUR | Low | Business and Consumer Survey (Oct) |  | 93.3 | 93.3 |
+| 18:00 | EUR | Low | Business Climate (Oct) |  |  | -0.36 |
+| 18:00 | EUR | Low | Consumer Confidence (Oct) |  | -17.9 | -17.8 |
+| 18:00 | EUR | Low | Consumer Inflation Expectation (Oct) |  |  | 12.0 |
+| 18:00 | EUR | Low | Selling Price Expectations (Oct) |  |  | 3.6 |
+| 18:00 | EUR | Low | Services Sentiment (Oct) |  |  | 4.0 |
+| 18:00 | EUR | Low | Industrial Sentiment (Oct) |  |  | -9.0 |
+| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) |  |  | 0.37% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
+| 19:30 | BRL | Low | Budget Balance (Sep) |  |  | -106.561B |
+| 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  |  | 74.4% |
+| 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 20:00 | ZAR | Low | Budget Balance |  |  | 19.70% |
+| 20:00 | ZAR | Low | Budget Balance |  |  | -479.700B |
+| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.770% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.788% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.823% |
+| 21:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 4.0% | 4.5% |
+| 21:00 | EUR | High | German CPI (MoM) (Oct) |  |  | 0.3% |
+| 21:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.6% | 4.3% |
+| 21:00 | EUR | Low | German HICP (MoM) (Oct) |  |  | 0.2% |
+| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
+| 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.310% |
+| 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.325% |

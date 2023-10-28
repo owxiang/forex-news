@@ -1,15 +1,52 @@
-## 28 October 2023 - Low Impact Forex News
+## 30 October 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | CFTC Aluminium speculative net positions | 7.1K |  | 6.4K |
-| 04:30 | USD | CFTC Copper speculative net positions | -20.8K |  | -25.9K |
-| 04:30 | USD | CFTC Corn speculative net positions | -48.3K |  | -62.6K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -70.3K |  | -57.3K |
-| 04:30 | USD | CFTC Silver speculative net positions | 24.3K |  | 19.7K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | 36.5K |  | 27.1K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -59.9K |  | -69.2K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -48.6K |  | -48.5K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 37.9K |  | 44.3K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -15.1K |  | -17.1K |
-| 04:30 | NZD | CFTC NZD speculative net positions | -12.9K |  | -5.9K |
+| 09:13 | ZAR | Budget Balance (MoM) (Sep) |  |  | -47.33B |
+| 11:35 | JPY | 2-Year JGB Auction |  |  | 0.045% |
+| 14:00 | ZAR | M3 Money Supply (YoY) (Sep) |  |  | 8.52% |
+| 14:00 | ZAR | Private Sector Credit (Sep) |  |  | 4.38% |
+| 14:30 | EUR | North Rhine Westphalia CPI (MoM) (Oct) |  |  | 0.2% |
+| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Oct) |  |  | 4.2% |
+| 15:00 | NOK | M3 Money Supply (Sep) |  |  | 3,064.9B |
+| 15:00 | NOK | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
+| 16:00 | EUR | Spanish CPI (MoM) (Oct) |  |  | 0.2% |
+| 16:00 | EUR | Spanish HICP (MoM) (Oct) |  |  | 0.6% |
+| 17:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
+| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
+| 17:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
+| 17:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
+| 17:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
+| 17:30 | GBP | BoE Consumer Credit (Sep) |  |  | 1.644B |
+| 17:30 | GBP | M3 Money Supply (Sep) |  |  | 3,025.7B |
+| 17:30 | GBP | M4 Money Supply (MoM) (Sep) |  |  | 0.2% |
+| 17:30 | GBP | Mortgage Approvals (Sep) |  |  | 45.35K |
+| 17:30 | GBP | Mortgage Lending (Sep) |  |  | 1.22B |
+| 17:30 | GBP | Net Lending to Individuals |  |  | 2.9B |
+| 18:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 5.4% |
+| 18:00 | EUR | Business and Consumer Survey (Oct) |  | 93.3 | 93.3 |
+| 18:00 | EUR | Business Climate (Oct) |  |  | -0.36 |
+| 18:00 | EUR | Consumer Confidence (Oct) |  | -17.9 | -17.8 |
+| 18:00 | EUR | Consumer Inflation Expectation (Oct) |  |  | 12.0 |
+| 18:00 | EUR | Selling Price Expectations (Oct) |  |  | 3.6 |
+| 18:00 | EUR | Services Sentiment (Oct) |  |  | 4.0 |
+| 18:00 | EUR | Industrial Sentiment (Oct) |  |  | -9.0 |
+| 19:00 | BRL | IGP-M Inflation Index (MoM) (Oct) |  |  | 0.37% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
+| 19:30 | BRL | Budget Balance (Sep) |  |  | -106.561B |
+| 19:30 | BRL | Budget Surplus (Sep) |  |  | -22.830B |
+| 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
+| 20:00 | ZAR | Budget Balance |  |  | -479.700B |
+| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.770% |
+| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.788% |
+| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.823% |
+| 21:00 | EUR | German HICP (YoY) (Oct) |  | 3.6% | 4.3% |
+| 21:00 | EUR | German HICP (MoM) (Oct) |  |  | 0.2% |
+| 22:30 | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
+| 23:30 | USD | 3-Month Bill Auction |  |  | 5.310% |
+| 23:30 | USD | 6-Month Bill Auction |  |  | 5.325% |
