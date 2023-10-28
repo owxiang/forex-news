@@ -12,8 +12,8 @@
 | 15:00 | NOK | Low | M3 Money Supply (Sep) |  |  | 3,064.9B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Sep) |  |  | 4.0% |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Oct) |  | 95.0 | 95.9 |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.2% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.8% | 3.5% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.2% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.7% | 3.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
