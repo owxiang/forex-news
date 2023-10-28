@@ -15,16 +15,16 @@
 | 17:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
 | 17:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.644B |
 | 17:30 | GBP | M3 Money Supply (Sep) |  |  | 3,025.7B |
-| 17:30 | GBP | M4 Money Supply (MoM) (Sep) |  |  | 0.2% |
+| 17:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.2% |
 | 17:30 | GBP | Mortgage Approvals (Sep) |  | 45.00K | 45.35K |
 | 17:30 | GBP | Mortgage Lending (Sep) |  |  | 1.22B |
-| 17:30 | GBP | Net Lending to Individuals |  |  | 2.9B |
+| 17:30 | GBP | Net Lending to Individuals |  | 2.4B | 2.9B |
 | 18:00 | EUR | Saxony CPI (YoY) (Oct) |  |  | 5.4% |
 | 18:00 | EUR | Saxony CPI (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | Business and Consumer Survey (Oct) |  | 93.3 | 93.3 |
