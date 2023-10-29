@@ -19,8 +19,8 @@
 | 17:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
 | 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  |  | -0.2% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
@@ -31,8 +31,8 @@
 | 17:30 | GBP | Low | Mortgage Approvals (Sep) |  | 45.00K | 45.35K |
 | 17:30 | GBP | Low | Mortgage Lending (Sep) |  |  | 1.22B |
 | 17:30 | GBP | Low | Net Lending to Individuals |  | 2.4B | 2.9B |
-| 18:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 5.4% |
 | 18:00 | EUR | Low | Saxony CPI (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | Low | Saxony CPI (YoY) (Oct) |  |  | 5.4% |
 | 18:00 | EUR | Low | Business and Consumer Survey (Oct) |  | 93.3 | 93.3 |
 | 18:00 | EUR | Low | Business Climate (Oct) |  |  | -0.36 |
 | 18:00 | EUR | Low | Consumer Confidence (Oct) |  | -17.9 | -17.8 |
