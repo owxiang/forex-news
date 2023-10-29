@@ -21,8 +21,8 @@
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
-| 17:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
 | 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  |  | -0.2% |
+| 17:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
 | 17:30 | GBP | Low | BoE Consumer Credit (Sep) |  | 1.400B | 1.644B |
