@@ -17,8 +17,8 @@
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
 | 17:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
-| 17:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
+| 17:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
 | 17:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.644B |
 | 17:30 | GBP | M3 Money Supply (Sep) |  |  | 3,025.7B |
 | 17:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.2% |
@@ -42,8 +42,8 @@
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Budget Balance |  |  | -479.700B |
-| 21:00 | EUR | German HICP (MoM) (Oct) |  | 0.1% | 0.2% |
 | 21:00 | EUR | German HICP (YoY) (Oct) |  | 3.6% | 4.3% |
+| 21:00 | EUR | German HICP (MoM) (Oct) |  | 0.1% | 0.2% |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.770% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.788% |
 | 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.823% |
