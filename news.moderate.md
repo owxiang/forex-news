@@ -5,7 +5,7 @@
 | 02:30 | EUR | ECB's Enria Speaks |  |  |  |
 | 03:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 03:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 07:50 | JPY | Industrial Production (MoM) (Sep) |  | 2.5% | -0.7% |
+| 35 min | JPY | Industrial Production (MoM) (Sep) |  | 2.5% | -0.7% |
 | 09:30 | CNY | Chinese Composite PMI (Oct) |  |  | 52.0 |
 | 09:30 | CNY | Non-Manufacturing PMI (Oct) |  | 51.8 | 51.7 |
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
@@ -19,8 +19,8 @@
 | 15:45 | EUR | French HICP (MoM) |  | 0.2% | -0.6% |
 | 18:00 | EUR | Core CPI (YoY) |  | 4.2% | 4.5% |
 | 18:00 | EUR | CPI (MoM) |  |  | 0.3% |
-| 18:00 | EUR | GDP (QoQ) (Q3) |  | 0.0% | 0.1% |
 | 18:00 | EUR | GDP (YoY) (Q3) |  | 0.2% | 0.5% |
+| 18:00 | EUR | GDP (QoQ) (Q3) |  | 0.0% | 0.1% |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.93% |
 | 19:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 20:00 | MXN | GDP (YoY) (Q3) |  | 3.1% | 3.6% |
