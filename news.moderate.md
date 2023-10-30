@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | Retail Sales (MoM) (Sep) |  | 0.3% | 0.2% |
+| 08:30 | AUD | Retail Sales (MoM) (Sep) | 0.9% | 0.3% | 0.3% |
 | 16:00 | CHF | KOF Leading Indicators (Oct) |  | 95.0 | 95.9 |
 | 16:00 | EUR | Spanish CPI (YoY) (Oct) |  | 3.8% | 3.5% |
 | 16:00 | EUR | Spanish HICP (YoY) (Oct) |  | 3.7% | 3.3% |
