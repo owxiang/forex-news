@@ -7,7 +7,7 @@
 | 02:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 03:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 03:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 05:45 | NZD | Low | Building Consents (MoM) (Sep) |  |  | -6.7% |
+| 33 min | NZD | Low | Building Consents (MoM) (Sep) |  |  | -6.7% |
 | 06:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.0% | -0.5% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Sep) |  | -0.9% | 5.5% |
@@ -48,8 +48,8 @@
 | 15:30 | CHF | Low | Retail Sales (YoY) (Sep) |  | -1.2% | -1.8% |
 | 15:45 | EUR | Low | French CPI (YoY) (Oct) |  |  | 4.9% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -0.5% |
-| 15:45 | EUR | Low | French HICP (YoY) |  | 4.6% | 5.7% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | 0.2% | -0.6% |
+| 15:45 | EUR | Low | French HICP (YoY) |  | 4.6% | 5.7% |
 | 15:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | 0.6% |
 | 15:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -1.30% |
 | 16:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 764.2B |
@@ -61,8 +61,8 @@
 | 17:00 | EUR | Low | Spanish Current account (Aug) |  |  | 4.27B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Nov) |  |  | 1,200.0M |
 | 17:10 | EUR | Low | German 30-Year Bund Auction |  |  | 2.890% |
-| 18:00 | EUR | Low | Italian CPI (YoY) (Oct) |  |  | 5.3% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.4% | 0.2% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Oct) |  |  | 5.3% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 2.6% | 5.6% |
 | 18:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.6% | 1.7% |
 | 18:00 | EUR | Low | Core CPI (MoM) |  |  | 0.2% |
@@ -80,8 +80,8 @@
 | 19:00 | EUR | Low | Italian PPI (MoM) (Sep) |  |  | 0.5% |
 | 19:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.1% | 3.6% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.1% | 3.6% |
 | 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.8% |

@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | BRL | CAGED Net Payroll Jobs (Sep) | 211.76K | 208.85K | 220.84K |
 | 02:30 | MXN | Fiscal Balance (Sep) | -132.56B |  | -38.94B |
-| 05:45 | NZD | Building Consents (MoM) (Sep) |  |  | -6.7% |
+| 33 min | NZD | Building Consents (MoM) (Sep) |  |  | -6.7% |
 | 06:50 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.0% | -0.5% |
 | 07:00 | KRW | Industrial Production (MoM) (Sep) |  | -0.9% | 5.5% |
@@ -45,8 +45,8 @@
 | 17:00 | EUR | Spanish Current account (Aug) |  |  | 4.27B |
 | 17:00 | NOK | Central Bank Currency Purchase (Nov) |  |  | 1,200.0M |
 | 17:10 | EUR | German 30-Year Bund Auction |  |  | 2.890% |
-| 18:00 | EUR | Italian CPI (YoY) (Oct) |  |  | 5.3% |
 | 18:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.4% | 0.2% |
+| 18:00 | EUR | Italian CPI (YoY) (Oct) |  |  | 5.3% |
 | 18:00 | EUR | Italian HICP (YoY) (Oct) |  | 2.6% | 5.6% |
 | 18:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.6% | 1.7% |
 | 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
