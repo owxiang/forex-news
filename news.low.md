@@ -2,9 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | BRL | CAGED Net Payroll Jobs (Sep) | 211.76K |  | 220.84K |
 | 01:00 | BRL | CAGED Net Payroll Jobs (Sep) | 211.76K | 208.85K | 220.84K |
-| Tentative | MXN | Fiscal Balance |  |  | -512.00B |
+| 02:30 | MXN | Fiscal Balance (Sep) | -132.56B |  | -38.94B |
 | 05:45 | NZD | Building Consents (MoM) (Sep) |  |  | -6.7% |
 | 06:50 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:00 | KRW | Industrial Production (YoY) (Sep) |  | 0.0% | -0.5% |
@@ -35,14 +34,14 @@
 | 15:30 | CHF | Retail Sales (YoY) (Sep) |  | -1.2% | -1.8% |
 | 15:45 | EUR | French CPI (YoY) (Oct) |  |  | 4.9% |
 | 15:45 | EUR | French HICP (YoY) |  | 4.6% | 5.7% |
-| 15:45 | EUR | PPI (YoY) (Sep) |  |  | -1.30% |
 | 15:45 | EUR | French PPI (MoM) (Sep) |  |  | 0.6% |
+| 15:45 | EUR | PPI (YoY) (Sep) |  |  | -1.30% |
 | 16:00 | CHF | Official Reserves Assets (Sep) |  |  | 764.2B |
 | 16:30 | HKD | GDP (QoQ) (Q3) |  | 1.4% | -1.3% |
 | 16:30 | HKD | GDP (YoY) (Q3) |  | 5.2% | 1.5% |
 | 16:30 | HKD | M3 Money Supply |  |  | 1.4% |
-| 17:00 | EUR | Italian GDP (YoY) (Q3) |  |  | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) |  |  | 0.3% |
 | 17:00 | EUR | Spanish Current account (Aug) |  |  | 4.27B |
 | 17:00 | NOK | Central Bank Currency Purchase (Nov) |  |  | 1,200.0M |
 | 17:10 | EUR | German 30-Year Bund Auction |  |  | 2.890% |

@@ -2,12 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 211.76K |  | 220.84K |
 | 01:00 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 211.76K | 208.85K | 220.84K |
-| 10 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 03:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 03:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| Tentative | MXN | Low | Fiscal Balance |  |  | -512.00B |
+| 02:30 | MXN | Low | Fiscal Balance (Sep) | -132.56B |  | -38.94B |
+| 02:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 18 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 18 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Sep) |  |  | -6.7% |
 | 06:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.0% | -0.5% |
@@ -39,8 +38,8 @@
 | 13:00 | JPY | Low | Housing Starts (YoY) (Sep) |  | -4.7% | -9.4% |
 | 13:00 | SGD | Low | Business Expectations (Q3) |  |  | 6.00 |
 | 14:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) |  | 0.4% | -0.5% |
-| 14:30 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 14:30 | EUR | Moderate | French GDP (YoY) (Q3) |  |  | 0.9% |
+| 14:30 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Sep) |  | 0.5% | 0.4% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Sep) |  | -15.1% | -16.4% |
@@ -49,16 +48,16 @@
 | 15:30 | CHF | Low | Retail Sales (YoY) (Sep) |  | -1.2% | -1.8% |
 | 15:45 | EUR | Low | French CPI (YoY) (Oct) |  |  | 4.9% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.2% | -0.5% |
-| 15:45 | EUR | Moderate | French HICP (MoM) |  | 0.2% | -0.6% |
 | 15:45 | EUR | Low | French HICP (YoY) |  | 4.6% | 5.7% |
-| 15:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -1.30% |
+| 15:45 | EUR | Moderate | French HICP (MoM) |  | 0.2% | -0.6% |
 | 15:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | 0.6% |
+| 15:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -1.30% |
 | 16:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 764.2B |
 | 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 1.4% | -1.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 5.2% | 1.5% |
 | 16:30 | HKD | Low | M3 Money Supply |  |  | 1.4% |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.4% |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) |  |  | 0.3% |
 | 17:00 | EUR | Low | Spanish Current account (Aug) |  |  | 4.27B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Nov) |  |  | 1,200.0M |
 | 17:10 | EUR | Low | German 30-Year Bund Auction |  |  | 2.890% |
@@ -81,8 +80,8 @@
 | 19:00 | EUR | Low | Italian PPI (MoM) (Sep) |  |  | 0.5% |
 | 19:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.1% | 3.6% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.8% |
@@ -97,8 +96,8 @@
 | 21:00 | USD | Low | House Price Index (MoM) (Aug) |  | 0.5% | 0.8% |
 | 21:00 | USD | Low | House Price Index (Aug) |  |  | 409.5 |
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.9% |
-| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.6% | 0.1% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.6% |
+| 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.6% | 0.1% |
 | 21:45 | USD | Moderate | Chicago PMI (Oct) |  | 45.0 | 44.1 |
 | 22:00 | USD | High | CB Consumer Confidence (Oct) |  | 100.0 | 103.0 |
 | 22:30 | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | 8.7 |
