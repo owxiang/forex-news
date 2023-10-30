@@ -38,8 +38,8 @@
 | 15:45 | EUR | PPI (YoY) (Sep) |  |  | -1.30% |
 | 15:45 | EUR | French PPI (MoM) (Sep) |  |  | 0.6% |
 | 16:00 | CHF | Official Reserves Assets (Sep) |  |  | 764.2B |
-| 16:30 | HKD | GDP (YoY) (Q3) |  | 5.2% | 1.5% |
 | 16:30 | HKD | GDP (QoQ) (Q3) |  | 1.4% | -1.3% |
+| 16:30 | HKD | GDP (YoY) (Q3) |  | 5.2% | 1.5% |
 | 16:30 | HKD | M3 Money Supply |  |  | 1.4% |
 | 17:00 | EUR | Italian GDP (YoY) (Q3) |  |  | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.4% |
@@ -48,8 +48,8 @@
 | 17:10 | EUR | German 30-Year Bund Auction |  |  | 2.890% |
 | 18:00 | EUR | Italian CPI (YoY) (Oct) |  |  | 5.3% |
 | 18:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.4% | 0.2% |
-| 18:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.6% | 1.7% |
 | 18:00 | EUR | Italian HICP (YoY) (Oct) |  | 2.6% | 5.6% |
+| 18:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.6% | 1.7% |
 | 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
 | 18:00 | EUR | CPI, n.s.a (Oct) |  | 124.43 | 124.03 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  |  | 5.5% |
