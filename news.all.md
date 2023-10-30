@@ -2,7 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | BRL | Low | CAGED Net Payroll Jobs (Sep) |  | 208.85K | 220.84K |
+| 01:00 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 211.76K |  | 220.84K |
+| 01:00 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 211.76K | 208.85K | 220.84K |
 | 02:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 03:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 03:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
@@ -38,8 +39,8 @@
 | 13:00 | JPY | Low | Housing Starts (YoY) (Sep) |  | -4.7% | -9.4% |
 | 13:00 | SGD | Low | Business Expectations (Q3) |  |  | 6.00 |
 | 14:30 | EUR | Moderate | French Consumer Spending (MoM) (Sep) |  | 0.4% | -0.5% |
-| 14:30 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 14:30 | EUR | Moderate | French GDP (YoY) (Q3) |  |  | 0.9% |
+| 14:30 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Sep) |  | 0.5% | 0.4% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Sep) |  | -15.1% | -16.4% |
@@ -53,8 +54,8 @@
 | 15:45 | EUR | Low | PPI (YoY) (Sep) |  |  | -1.30% |
 | 15:45 | EUR | Low | French PPI (MoM) (Sep) |  |  | 0.6% |
 | 16:00 | CHF | Low | Official Reserves Assets (Sep) |  |  | 764.2B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 1.4% | -1.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 5.2% | 1.5% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 1.4% | -1.3% |
 | 16:30 | HKD | Low | M3 Money Supply |  |  | 1.4% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q3) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.4% |
@@ -63,8 +64,8 @@
 | 17:10 | EUR | Low | German 30-Year Bund Auction |  |  | 2.890% |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Oct) |  |  | 5.3% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | 0.4% | 0.2% |
-| 18:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 2.6% | 5.6% |
 | 18:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.6% | 1.7% |
+| 18:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 2.6% | 5.6% |
 | 18:00 | EUR | Low | Core CPI (MoM) |  |  | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) |  | 4.2% | 4.5% |
 | 18:00 | EUR | High | CPI (YoY) (Oct) |  | 3.2% | 4.3% |

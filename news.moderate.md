@@ -11,8 +11,8 @@
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 14:30 | EUR | French Consumer Spending (MoM) (Sep) |  | 0.4% | -0.5% |
-| 14:30 | EUR | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 14:30 | EUR | French GDP (YoY) (Q3) |  |  | 0.9% |
+| 14:30 | EUR | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | German Retail Sales (MoM) (Sep) |  | 0.5% | -1.2% |
 | 15:45 | EUR | French CPI (MoM) (Oct) |  | 0.2% | -0.5% |
