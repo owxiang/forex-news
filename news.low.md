@@ -34,13 +34,14 @@
 | 18:00 | EUR | Selling Price Expectations (Oct) | 3.6 |  | 3.4 |
 | 18:00 | EUR | Services Sentiment (Oct) | 4.5 | 3.4 | 4.1 |
 | 18:00 | EUR | Industrial Sentiment (Oct) | -9.3 | -9.5 | -8.9 |
+| 19:00 | EUR | Spanish Business Confidence | -8.7 |  | -8.8 |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Oct) | 0.50% | 0.61% | 0.37% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 30 min | EUR | German HICP (MoM) (Oct) |  | 0.1% | 0.2% |
-| 30 min | EUR | German HICP (YoY) (Oct) |  | 3.3% | 4.3% |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.770% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.788% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.823% |
+| 21:00 | EUR | German HICP (YoY) (Oct) | 3.0% | 3.3% | 4.3% |
+| 21:00 | EUR | German HICP (MoM) (Oct) | -0.2% | 0.1% | 0.2% |
+| 36 min | EUR | French 12-Month BTF Auction |  |  | 3.770% |
+| 36 min | EUR | French 3-Month BTF Auction |  |  | 3.788% |
+| 36 min | EUR | French 6-Month BTF Auction |  |  | 3.823% |
 | 22:30 | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.310% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.325% |

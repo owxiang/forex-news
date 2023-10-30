@@ -40,16 +40,17 @@
 | 18:00 | EUR | Low | Selling Price Expectations (Oct) | 3.6 |  | 3.4 |
 | 18:00 | EUR | Low | Services Sentiment (Oct) | 4.5 | 3.4 | 4.1 |
 | 18:00 | EUR | Low | Industrial Sentiment (Oct) | -9.3 | -9.5 | -8.9 |
+| 19:00 | EUR | Low | Spanish Business Confidence | -8.7 |  | -8.8 |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Oct) | 0.50% | 0.61% | 0.37% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 30 min | EUR | High | German CPI (MoM) (Oct) |  | 0.2% | 0.3% |
-| 30 min | EUR | Moderate | German CPI (YoY) (Oct) |  | 4.0% | 4.5% |
-| 30 min | EUR | Low | German HICP (MoM) (Oct) |  | 0.1% | 0.2% |
-| 30 min | EUR | Low | German HICP (YoY) (Oct) |  | 3.3% | 4.3% |
-| 30 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.770% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.788% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.823% |
+| 21:00 | EUR | Moderate | German CPI (YoY) (Oct) | 3.8% | 4.0% | 4.5% |
+| 21:00 | EUR | High | German CPI (MoM) (Oct) | 0.0% | 0.2% | 0.3% |
+| 21:00 | EUR | Low | German HICP (YoY) (Oct) | 3.0% | 3.3% | 4.3% |
+| 21:00 | EUR | Low | German HICP (MoM) (Oct) | -0.2% | 0.1% | 0.2% |
+| 21:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 36 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.770% |
+| 36 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.788% |
+| 36 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.823% |
 | 22:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.310% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.325% |
