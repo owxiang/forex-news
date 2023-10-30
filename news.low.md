@@ -9,15 +9,15 @@
 | 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Oct) | 3.1% |  | 4.2% |
 | 15:00 | NOK | M3 Money Supply (Sep) | 3,111.2B |  | 3,064.9B |
 | 15:00 | NOK | Credit Indicator (YoY) (Sep) | 4.1% |  | 4.1% |
-| 46 min | EUR | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.2% |
-| 46 min | EUR | Spanish HICP (MoM) (Oct) |  | 0.4% | 0.6% |
-| 17:00 | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
-| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
-| 17:00 | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
-| 17:00 | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
-| 17:00 | EUR | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
+| 16:00 | EUR | Spanish CPI (MoM) (Oct) | 0.3% | 0.6% | 0.2% |
+| 16:00 | EUR | Spanish HICP (MoM) (Oct) | 0.3% | 0.4% | 0.6% |
+| 40 min | EUR | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
+| 40 min | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 40 min | EUR | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
+| 40 min | EUR | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
+| 40 min | EUR | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
+| 40 min | EUR | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
+| 40 min | EUR | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
 | 17:30 | GBP | BoE Consumer Credit (Sep) |  | 1.400B | 1.644B |
 | 17:30 | GBP | M3 Money Supply (Sep) |  |  | 3,025.7B |
 | 17:30 | GBP | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.2% |

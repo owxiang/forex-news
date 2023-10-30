@@ -10,20 +10,20 @@
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Oct) | 3.1% |  | 4.2% |
 | 15:00 | NOK | Low | M3 Money Supply (Sep) | 3,111.2B |  | 3,064.9B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Sep) | 4.1% |  | 4.1% |
-| 46 min | CHF | Moderate | KOF Leading Indicators (Oct) |  | 95.0 | 95.9 |
-| 46 min | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.6% | 0.2% |
-| 46 min | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.8% | 3.5% |
-| 46 min | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.4% | 0.6% |
-| 46 min | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.7% | 3.3% |
-| 17:00 | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
-| 17:00 | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
-| 17:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
-| 17:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.7% | -0.2% |
-| 17:00 | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
-| 17:00 | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
+| 16:00 | CHF | Moderate | KOF Leading Indicators (Oct) | 95.8 | 95.0 | 95.9 |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.3% | 0.6% | 0.2% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.5% | 3.8% | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.3% | 0.4% | 0.6% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.5% | 3.7% | 3.3% |
+| 40 min | EUR | Low | Italian Trade Balance Non-EU (Aug) |  |  | 3.06B |
+| 40 min | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 40 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Oct) |  |  | 5.1% |
+| 40 min | EUR | Low | Bavaria CPI (YoY) (Oct) |  |  | 4.1% |
+| 40 min | EUR | Low | Bavaria CPI (MoM) (Oct) |  |  | 0.3% |
+| 40 min | EUR | High | German GDP (QoQ) (Q3) |  | -0.3% | 0.0% |
+| 40 min | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.7% | -0.2% |
+| 40 min | EUR | Low | Hesse CPI (MoM) (Oct) |  |  | 0.3% |
+| 40 min | EUR | Low | Hesse CPI (YoY) (Oct) |  |  | 4.7% |
 | 17:30 | GBP | Low | BoE Consumer Credit (Sep) |  | 1.400B | 1.644B |
 | 17:30 | GBP | Low | M3 Money Supply (Sep) |  |  | 3,025.7B |
 | 17:30 | GBP | Low | M4 Money Supply (MoM) (Sep) |  | 0.1% | 0.2% |
