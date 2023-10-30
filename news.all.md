@@ -48,9 +48,9 @@
 | 21:00 | EUR | Low | German HICP (YoY) (Oct) | 3.0% | 3.3% | 4.3% |
 | 21:00 | EUR | Low | German HICP (MoM) (Oct) | -0.2% | 0.1% | 0.2% |
 | 21:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 36 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.770% |
-| 36 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.788% |
-| 36 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.823% |
-| 22:30 | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.711% |  | 3.770% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.745% |  | 3.788% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.797% |  | 3.823% |
+| 15 min | USD | Low | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
 | 23:30 | USD | Low | 3-Month Bill Auction |  |  | 5.310% |
 | 23:30 | USD | Low | 6-Month Bill Auction |  |  | 5.325% |

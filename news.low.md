@@ -39,9 +39,9 @@
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 21:00 | EUR | German HICP (YoY) (Oct) | 3.0% | 3.3% | 4.3% |
 | 21:00 | EUR | German HICP (MoM) (Oct) | -0.2% | 0.1% | 0.2% |
-| 36 min | EUR | French 12-Month BTF Auction |  |  | 3.770% |
-| 36 min | EUR | French 3-Month BTF Auction |  |  | 3.788% |
-| 36 min | EUR | French 6-Month BTF Auction |  |  | 3.823% |
-| 22:30 | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
+| 21:55 | EUR | French 12-Month BTF Auction | 3.711% |  | 3.770% |
+| 21:55 | EUR | French 3-Month BTF Auction | 3.745% |  | 3.788% |
+| 21:55 | EUR | French 6-Month BTF Auction | 3.797% |  | 3.823% |
+| 15 min | USD | Dallas Fed Mfg Business Index (Oct) |  |  | -18.1 |
 | 23:30 | USD | 3-Month Bill Auction |  |  | 5.310% |
 | 23:30 | USD | 6-Month Bill Auction |  |  | 5.325% |
