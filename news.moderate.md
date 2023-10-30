@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | EUR | ECB's Enria Speaks |  |  |  |
-| 18 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 03:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 03:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 07:50 | JPY | Industrial Production (MoM) (Sep) |  | 2.5% | -0.7% |
 | 09:30 | CNY | Chinese Composite PMI (Oct) |  |  | 52.0 |
 | 09:30 | CNY | Non-Manufacturing PMI (Oct) |  | 51.8 | 51.7 |

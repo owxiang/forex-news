@@ -5,8 +5,8 @@
 | 01:00 | BRL | Low | CAGED Net Payroll Jobs (Sep) | 211.76K | 208.85K | 220.84K |
 | 02:30 | MXN | Low | Fiscal Balance (Sep) | -132.56B |  | -38.94B |
 | 02:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 18 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 18 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 03:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 03:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Sep) |  |  | -6.7% |
 | 06:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Sep) |  | 0.0% | -0.5% |
