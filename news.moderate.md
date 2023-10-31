@@ -6,7 +6,7 @@
 | 00:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 04:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock | 1.347M | 1.601M | -2.668M |
-| 47 min | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 06:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 08:30 | AUD | Building Approvals (MoM) (Sep) |  | 0.0% | 7.0% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
 | 15:00 | GBP | Nationwide HPI (MoM) (Oct) |  | -0.3% | 0.0% |

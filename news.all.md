@@ -6,15 +6,15 @@
 | 00:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.347M | 1.601M | -2.668M |
-| 32 min | NZD | Low | Employment Change (QoQ) (Q3) |  | 0.4% | 1.0% |
-| 32 min | NZD | Low | Labor Cost Index (YoY) (Q3) |  | 4.2% | 4.3% |
-| 32 min | NZD | Low | Labor Cost Index (QoQ) (Q3) |  | 1.0% | 1.1% |
-| 32 min | NZD | Low | Participation Rate (Q3) |  | 72.50% | 72.40% |
-| 32 min | NZD | Low | Unemployment Rate (Q3) |  | 3.9% | 3.6% |
-| 47 min | AUD | Low | AIG Construction Index (Oct) |  |  | 7.1 |
-| 47 min | AUD | Low | AIG Manufacturing Index (Oct) |  |  | -12.8 |
-| 47 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 48.0 | 48.7 |
-| 47 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 05:45 | NZD | Low | Employment Change (QoQ) (Q3) | -0.2% | 0.4% | 1.0% |
+| 05:45 | NZD | Low | Labor Cost Index (YoY) (Q3) | 4.1% | 4.2% | 4.3% |
+| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
+| 05:45 | NZD | Low | Participation Rate (Q3) | 72.00% | 72.50% | 72.40% |
+| 05:45 | NZD | Low | Unemployment Rate (Q3) | 3.9% | 3.9% | 3.6% |
+| 06:00 | AUD | Low | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
+| 06:00 | AUD | Low | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
+| 06:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 08:00 | KRW | Low | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
 | 08:00 | KRW | Low | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
 | 08:00 | KRW | Low | Trade Balance (Oct) |  | -2.00B | 3.70B |
@@ -27,8 +27,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
 | 10:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 12:00 | IDR | Low | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Low | Inflation (MoM) |  | 0.24% | 0.19% |
 | 12:00 | IDR | Low | Inflation (YoY) |  | 2.60% | 2.28% |
+| 12:00 | IDR | Low | Inflation (MoM) |  | 0.24% | 0.19% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -22.0% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | -0.3% | 0.0% |

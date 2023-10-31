@@ -2,14 +2,14 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 32 min | NZD | Employment Change (QoQ) (Q3) |  | 0.4% | 1.0% |
-| 32 min | NZD | Labor Cost Index (YoY) (Q3) |  | 4.2% | 4.3% |
-| 32 min | NZD | Labor Cost Index (QoQ) (Q3) |  | 1.0% | 1.1% |
-| 32 min | NZD | Participation Rate (Q3) |  | 72.50% | 72.40% |
-| 32 min | NZD | Unemployment Rate (Q3) |  | 3.9% | 3.6% |
-| 47 min | AUD | AIG Construction Index (Oct) |  |  | 7.1 |
-| 47 min | AUD | AIG Manufacturing Index (Oct) |  |  | -12.8 |
-| 47 min | AUD | Judo Bank Australia Manufacturing PMI |  | 48.0 | 48.7 |
+| 05:45 | NZD | Employment Change (QoQ) (Q3) | -0.2% | 0.4% | 1.0% |
+| 05:45 | NZD | Labor Cost Index (YoY) (Q3) | 4.1% | 4.2% | 4.3% |
+| 05:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
+| 05:45 | NZD | Participation Rate (Q3) | 72.00% | 72.50% | 72.40% |
+| 05:45 | NZD | Unemployment Rate (Q3) | 3.9% | 3.9% | 3.6% |
+| 06:00 | AUD | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
+| 06:00 | AUD | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
 | 08:00 | KRW | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
 | 08:00 | KRW | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
 | 08:00 | KRW | Trade Balance (Oct) |  | -2.00B | 3.70B |
@@ -20,8 +20,8 @@
 | 08:30 | IDR | Nikkei Manufacturing PMI (Oct) |  |  | 52.3 |
 | 10:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 12:00 | IDR | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
 | 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
+| 12:00 | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -22.0% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
