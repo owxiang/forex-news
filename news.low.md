@@ -43,18 +43,18 @@
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.4% |
 | 17:00 | EUR | Spanish Current account (Aug) | 4.19B |  | 4.27B |
 | 17:00 | NOK | Central Bank Currency Purchase (Nov) | 1,400.0M |  | 1,200.0M |
-| 15 min | EUR | German 30-Year Bund Auction |  |  | 2.890% |
-| 45 min | EUR | Italian CPI (YoY) (Oct) |  | 0.3% | 5.3% |
-| 45 min | EUR | Italian CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 45 min | EUR | Italian HICP (MoM) (Oct) |  | 0.5% | 1.7% |
-| 45 min | EUR | Italian HICP (YoY) (Oct) |  | 2.3% | 5.6% |
-| 45 min | EUR | Core CPI (MoM) |  |  | 0.2% |
-| 45 min | EUR | CPI, n.s.a (Oct) |  | 124.43 | 124.03 |
-| 45 min | EUR | HICP ex Energy & Food (YoY) (Oct) |  |  | 5.5% |
-| 55 min | EUR | Italian 5-Year BTP Auction |  |  | 4.41% |
-| 18:30 | INR | Federal Fiscal Deficit (Sep) |  |  | 6,428.26B |
-| 19:00 | EUR | Italian PPI (MoM) (Sep) |  | 0.3% | 0.5% |
-| 19:00 | EUR | Italian PPI (YoY) (Sep) |  |  | -12.2% |
+| 18:00 | EUR | Italian CPI (YoY) (Oct) | 1.8% | 0.3% | 5.3% |
+| 18:00 | EUR | Italian CPI (MoM) (Oct) | -0.1% | 0.2% | 0.2% |
+| 18:00 | EUR | Italian HICP (YoY) (Oct) | 1.9% | 2.3% | 5.6% |
+| 18:00 | EUR | Italian HICP (MoM) (Oct) | 0.2% | 0.5% | 1.7% |
+| 18:00 | EUR | Core CPI (MoM) | 0.2% |  | 0.2% |
+| 18:00 | EUR | CPI, n.s.a (Oct) | 124.55 | 124.44 | 124.43 |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 5.0% |  | 5.5% |
+| 18:10 | EUR | Italian 5-Year BTP Auction | 4.12% |  | 4.41% |
+| 12 min | INR | Federal Fiscal Deficit (Sep) |  |  | 6,428.26B |
+| 12 min | EUR | German 30-Year Bund Auction |  |  | 2.890% |
+| 42 min | EUR | Italian PPI (MoM) (Sep) |  | 0.3% | 0.5% |
+| 42 min | EUR | Italian PPI (YoY) (Sep) |  |  | -12.2% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | INR | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |

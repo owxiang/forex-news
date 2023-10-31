@@ -18,14 +18,14 @@
 | 15:00 | EUR | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
 | 15:45 | EUR | French CPI (MoM) (Oct) | 0.1% | 0.2% | -0.5% |
 | 15:45 | EUR | French HICP (MoM) | 0.2% | 0.2% | -0.6% |
-| 45 min | EUR | Core CPI (YoY) |  | 4.2% | 4.5% |
-| 45 min | EUR | CPI (MoM) |  |  | 0.3% |
-| 45 min | EUR | GDP (QoQ) (Q3) |  | 0.0% | 0.1% |
-| 45 min | EUR | GDP (YoY) (Q3) |  | 0.2% | 0.5% |
-| 55 min | EUR | Italian 10-Year BTP Auction |  |  | 4.93% |
-| 19:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
+| 18:00 | EUR | Core CPI (YoY) | 4.2% | 4.2% | 4.5% |
+| 18:00 | EUR | CPI (MoM) | 0.1% | 0.3% | 0.3% |
+| 18:00 | EUR | GDP (YoY) (Q3) | 0.1% | 0.2% | 0.5% |
+| 18:00 | EUR | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.1% |
+| 18:10 | EUR | Italian 10-Year BTP Auction | 4.76% |  | 4.93% |
+| 42 min | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 20:00 | MXN | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
+| 20:00 | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 20:00 | BRL | Unemployment Rate |  | 7.7% | 7.8% |
 | 20:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 20:30 | CAD | GDP (YoY) |  |  | 1.12% |
