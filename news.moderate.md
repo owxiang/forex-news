@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 00:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 47 min | NZD | RBNZ Financial Stability Report |  |  |  |
-| 04:30 | USD | API Weekly Crude Oil Stock |  | 1.601M | -2.668M |
+| 04:00 | NZD | RBNZ Financial Stability Report |  |  |  |
+| 14 min | USD | API Weekly Crude Oil Stock |  | 1.601M | -2.668M |
 | 06:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 08:30 | AUD | Building Approvals (MoM) (Sep) |  | 0.0% | 7.0% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
