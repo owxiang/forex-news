@@ -2,14 +2,14 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.4% | 1.0% |
-| 05:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 1.0% | 1.1% |
-| 05:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 4.2% | 4.3% |
-| 05:45 | NZD | Participation Rate (Q3) |  | 72.50% | 72.40% |
-| 05:45 | NZD | Unemployment Rate (Q3) |  | 3.9% | 3.6% |
-| 06:00 | AUD | AIG Construction Index (Oct) |  |  | 7.1 |
-| 06:00 | AUD | AIG Manufacturing Index (Oct) |  |  | -12.8 |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 48.0 | 48.7 |
+| 32 min | NZD | Employment Change (QoQ) (Q3) |  | 0.4% | 1.0% |
+| 32 min | NZD | Labor Cost Index (YoY) (Q3) |  | 4.2% | 4.3% |
+| 32 min | NZD | Labor Cost Index (QoQ) (Q3) |  | 1.0% | 1.1% |
+| 32 min | NZD | Participation Rate (Q3) |  | 72.50% | 72.40% |
+| 32 min | NZD | Unemployment Rate (Q3) |  | 3.9% | 3.6% |
+| 47 min | AUD | AIG Construction Index (Oct) |  |  | 7.1 |
+| 47 min | AUD | AIG Manufacturing Index (Oct) |  |  | -12.8 |
+| 47 min | AUD | Judo Bank Australia Manufacturing PMI |  | 48.0 | 48.7 |
 | 08:00 | KRW | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
 | 08:00 | KRW | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
 | 08:00 | KRW | Trade Balance (Oct) |  | -2.00B | 3.70B |
@@ -20,8 +20,8 @@
 | 08:30 | IDR | Nikkei Manufacturing PMI (Oct) |  |  | 52.3 |
 | 10:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 12:00 | IDR | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
 | 12:00 | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
+| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -22.0% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
@@ -36,8 +36,8 @@
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | BRL | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | ZAR | Budget Balance |  |  | -479.700B |
 | 20:00 | ZAR | Budget Balance |  |  | 19.70% |
+| 20:00 | ZAR | Budget Balance |  |  | -479.700B |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:30 | ZAR | Total Vehicle Sales |  |  | 46.02K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
