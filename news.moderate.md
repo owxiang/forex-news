@@ -8,27 +8,28 @@
 | 07:50 | JPY | Industrial Production (MoM) (Sep) | 0.2% | 2.5% | -0.7% |
 | 09:30 | CNY | Chinese Composite PMI (Oct) | 50.7 |  | 52.0 |
 | 09:30 | CNY | Non-Manufacturing PMI (Oct) | 50.6 | 51.8 | 51.7 |
-| 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 11:00 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
+| 11:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 11:30 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 11:30 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
 | 14:30 | EUR | French Consumer Spending (MoM) (Sep) | 0.2% | 0.4% | -0.6% |
-| 14:30 | EUR | French GDP (YoY) (Q3) | 0.7% |  | 1.2% |
+| 14:30 | EUR | French GDP (YoY) (Q3) | 0.7% |  | 1.1% |
 | 14:30 | EUR | French GDP (QoQ) (Q3) | 0.1% | 0.1% | 0.6% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
-| 31 min | EUR | French CPI (MoM) (Oct) |  | 0.2% | -0.5% |
-| 31 min | EUR | French HICP (MoM) |  | 0.2% | -0.6% |
+| 15:45 | EUR | French CPI (MoM) (Oct) | 0.1% | 0.2% | -0.5% |
+| 15:45 | EUR | French HICP (MoM) | 0.2% | 0.2% | -0.6% |
 | 18:00 | EUR | Core CPI (YoY) |  | 4.2% | 4.5% |
 | 18:00 | EUR | CPI (MoM) |  |  | 0.3% |
 | 18:00 | EUR | GDP (QoQ) (Q3) |  | 0.0% | 0.1% |
 | 18:00 | EUR | GDP (YoY) (Q3) |  | 0.2% | 0.5% |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.93% |
 | 19:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 20:00 | MXN | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
+| 20:00 | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
 | 20:00 | BRL | Unemployment Rate |  | 7.7% | 7.8% |
 | 20:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 1.0% | 1.0% |
-| 20:30 | CAD | GDP (MoM) (Aug) |  | 0.1% | 0.0% |
 | 20:30 | CAD | GDP (YoY) |  |  | 1.12% |
+| 20:30 | CAD | GDP (MoM) (Aug) |  | 0.1% | 0.0% |
 | 20:35 | CAD | GDP (MoM) |  |  |  |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.6% |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.6% | 0.1% |
