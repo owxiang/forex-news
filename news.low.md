@@ -10,9 +10,9 @@
 | 06:00 | AUD | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
 | 06:00 | AUD | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
-| 08:00 | KRW | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
-| 08:00 | KRW | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
-| 08:00 | KRW | Trade Balance (Oct) |  | -2.00B | 3.70B |
+| 45 min | KRW | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
+| 45 min | KRW | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
+| 45 min | KRW | Trade Balance (Oct) |  | -2.00B | 3.70B |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 49.9 |
 | 08:30 | AUD | Building Approvals (YoY) (Sep) |  |  | -6.70% |
 | 08:30 | AUD | Private House Approvals (Sep) |  |  | 5.8% |

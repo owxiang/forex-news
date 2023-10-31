@@ -15,9 +15,9 @@
 | 06:00 | AUD | Low | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
 | 06:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 08:00 | KRW | Low | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
-| 08:00 | KRW | Low | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
-| 08:00 | KRW | Low | Trade Balance (Oct) |  | -2.00B | 3.70B |
+| 45 min | KRW | Low | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
+| 45 min | KRW | Low | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
+| 45 min | KRW | Low | Trade Balance (Oct) |  | -2.00B | 3.70B |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 49.9 |
 | 08:30 | AUD | Low | Building Approvals (YoY) (Sep) |  |  | -6.70% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) (Sep) |  | 0.0% | 7.0% |
