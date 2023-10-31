@@ -51,14 +51,14 @@
 | 18:00 | EUR | CPI, n.s.a (Oct) | 124.55 | 124.44 | 124.43 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 5.0% |  | 5.5% |
 | 18:10 | EUR | Italian 5-Year BTP Auction | 4.12% |  | 4.41% |
-| 12 min | INR | Federal Fiscal Deficit (Sep) |  |  | 6,428.26B |
-| 12 min | EUR | German 30-Year Bund Auction |  |  | 2.890% |
-| 42 min | EUR | Italian PPI (MoM) (Sep) |  | 0.3% | 0.5% |
-| 42 min | EUR | Italian PPI (YoY) (Sep) |  |  | -12.2% |
-| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 20:00 | INR | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
-| 20:00 | ZAR | Trade Balance (Sep) |  | 12.00B | 13.28B |
+| 18:30 | INR | Federal Fiscal Deficit (Sep) | 7,018.61B |  | 6,428.26B |
+| 18:40 | EUR | German 30-Year Bund Auction | 3.040% |  | 2.890% |
+| 19:00 | EUR | Italian PPI (MoM) (Sep) | 0.6% | 0.3% | 0.5% |
+| 19:00 | EUR | Italian PPI (YoY) (Sep) | -14.1% |  | -12.2% |
+| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 47 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 47 min | INR | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
+| 47 min | ZAR | Trade Balance (Sep) |  | 12.00B | 13.28B |
 | 20:30 | USD | Employment Benefits (QoQ) (Q3) |  |  | 0.90% |
 | 20:30 | USD | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
 | 20:55 | USD | Redbook (YoY) |  |  | 5.0% |

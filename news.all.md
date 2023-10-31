@@ -43,8 +43,8 @@
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Sep) | 1.6% | 0.7% | 0.4% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -14.3% | -15.3% | -16.4% |
-| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Sep) | -4.3% | -4.0% | -2.3% |
+| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Sep) | -0.6% | -1.9% | -2.2% |
 | 15:45 | EUR | Low | French CPI (YoY) (Oct) | 4.0% | 4.0% | 4.9% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.2% | -0.5% |
@@ -70,26 +70,25 @@
 | 18:00 | EUR | Moderate | CPI (MoM) | 0.1% | 0.3% | 0.3% |
 | 18:00 | EUR | Low | CPI, n.s.a (Oct) | 124.55 | 124.44 | 124.43 |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.1% | 0.2% | 0.5% |
-| 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.1% |
+| 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.2% |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 5.0% |  | 5.5% |
 | 18:10 | EUR | Moderate | Italian 10-Year BTP Auction | 4.76% |  | 4.93% |
 | 18:10 | EUR | Low | Italian 5-Year BTP Auction | 4.12% |  | 4.41% |
-| 12 min | INR | Low | Federal Fiscal Deficit (Sep) |  |  | 6,428.26B |
-| 12 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.890% |
-| 42 min | EUR | Low | Italian PPI (MoM) (Sep) |  | 0.3% | 0.5% |
-| 42 min | EUR | Low | Italian PPI (YoY) (Sep) |  |  | -12.2% |
-| 42 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
-| 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 20:00 | INR | Low | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
-| 20:00 | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.8% |
-| 20:00 | ZAR | Low | Trade Balance (Sep) |  | 12.00B | 13.28B |
+| 18:30 | INR | Low | Federal Fiscal Deficit (Sep) | 7,018.61B |  | 6,428.26B |
+| 18:40 | EUR | Low | German 30-Year Bund Auction | 3.040% |  | 2.890% |
+| 19:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.6% | 0.3% | 0.5% |
+| 19:00 | EUR | Low | Italian PPI (YoY) (Sep) | -14.1% |  | -12.2% |
+| 19:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 17 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 47 min | MXN | Moderate | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
+| 47 min | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
+| 47 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 47 min | INR | Low | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
+| 47 min | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.8% |
+| 47 min | ZAR | Low | Trade Balance (Sep) |  | 12.00B | 13.28B |
 | 20:30 | USD | Low | Employment Benefits (QoQ) (Q3) |  |  | 0.90% |
 | 20:30 | USD | Moderate | Employment Cost Index (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 20:30 | USD | Low | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
-| 20:30 | CAD | Moderate | GDP (YoY) |  |  | 1.12% |
 | 20:30 | CAD | Moderate | GDP (MoM) (Aug) |  | 0.1% | 0.0% |
 | 20:35 | CAD | Moderate | GDP (MoM) |  |  |  |
 | 20:55 | USD | Low | Redbook (YoY) |  |  | 5.0% |
