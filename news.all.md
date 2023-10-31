@@ -9,8 +9,8 @@
 | 03:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Sep) | -4.7% |  | -7.0% |
 | 06:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Sep) | 1.8% | -0.9% | 5.2% |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Sep) | 3.0% | 0.0% | -0.7% |
+| 07:00 | KRW | Low | Industrial Production (MoM) (Sep) | 1.8% | -0.9% | 5.2% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Sep) | 0.2% |  | -0.3% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Sep) | 0.4% |  | 0.3% |
 | 07:30 | JPY | Low | Jobs/applications ratio (Sep) | 1.29 | 1.30 | 1.29 |
@@ -43,27 +43,27 @@
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Sep) | 1.6% | 0.7% | 0.4% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -14.3% | -15.3% | -16.4% |
-| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Sep) | -4.3% | -4.0% | -2.3% |
+| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Sep) | -0.6% | -1.9% | -2.2% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.2% | -0.5% |
 | 15:45 | EUR | Low | French CPI (YoY) (Oct) | 4.0% | 4.0% | 4.9% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.2% | -0.5% |
 | 15:45 | EUR | Low | French HICP (YoY) | 4.5% | 4.5% | 5.7% |
 | 15:45 | EUR | Moderate | French HICP (MoM) | 0.2% | 0.2% | -0.6% |
-| 15:45 | EUR | Low | PPI (YoY) (Sep) | -1.70% |  | -1.40% |
 | 15:45 | EUR | Low | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
+| 15:45 | EUR | Low | PPI (YoY) (Sep) | -1.70% |  | -1.40% |
 | 16:00 | CHF | Low | Official Reserves Assets (Sep) | 747.9B |  | 764.2B |
-| 16:30 | HKD | Low | GDP (YoY) (Q3) | 4.1% | 5.2% | 1.5% |
 | 16:30 | HKD | Low | GDP (QoQ) (Q3) | 0.1% | 1.4% | -1.3% |
+| 16:30 | HKD | Low | GDP (YoY) (Q3) | 4.1% | 5.2% | 1.5% |
 | 16:30 | HKD | Low | M3 Money Supply | 2.3% |  | 1.4% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.4% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.0% | 0.1% | 0.3% |
 | 17:00 | EUR | Low | Spanish Current account (Aug) | 4.19B |  | 4.27B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Nov) | 1,400.0M |  | 1,200.0M |
-| 18:00 | EUR | Low | Italian CPI (MoM) (Oct) | -0.1% | 0.2% | 0.2% |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Oct) | 1.8% | 0.3% | 5.3% |
-| 18:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.9% | 2.3% | 5.6% |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Oct) | -0.1% | 0.2% | 0.2% |
 | 18:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.2% | 0.5% | 1.7% |
+| 18:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.9% | 2.3% | 5.6% |
 | 18:00 | EUR | Low | Core CPI (MoM) | 0.2% |  | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) | 4.2% | 4.2% | 4.5% |
 | 18:00 | EUR | High | CPI (YoY) (Oct) | 2.9% | 3.1% | 4.3% |
@@ -76,8 +76,8 @@
 | 18:10 | EUR | Low | Italian 5-Year BTP Auction | 4.12% |  | 4.41% |
 | 18:30 | INR | Low | Federal Fiscal Deficit (Sep) | 7,018.61B |  | 6,428.26B |
 | 18:40 | EUR | Low | German 30-Year Bund Auction | 3.040% |  | 2.890% |
-| 19:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.6% | 0.3% | 0.5% |
 | 19:00 | EUR | Low | Italian PPI (YoY) (Sep) | -14.1% |  | -12.2% |
+| 19:00 | EUR | Low | Italian PPI (MoM) (Sep) | 0.6% | 0.3% | 0.5% |
 | 19:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | INR | Low | Infrastructure Output (YoY) (Sep) | 8.1% |  | 12.5% |
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
@@ -97,8 +97,20 @@
 | 21:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) | 1.0% |  | 0.8% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | 0.4% |  | 0.6% |
 | 21:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 2.2% | 1.6% | 0.2% |
-| 26 min | USD | Moderate | Chicago PMI (Oct) |  | 45.0 | 44.1 |
-| 41 min | USD | High | CB Consumer Confidence (Oct) |  | 100.0 | 103.0 |
-| 22:30 | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | 8.7 |
-| 22:30 | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -8.6 |
+| 21:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M | 0.96M | 0.96M |
+| 21:30 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 21:30 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.19M | 0.19M | 0.19M |
+| 21:30 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M | 0.05M | 0.05M |
+| 21:30 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.17M | 3.17M | 3.17M |
+| 21:30 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.26M | 4.26M | 4.26M |
+| 21:30 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
+| 21:30 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.15M | 1.15M | 1.15M |
+| 21:30 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.53M | 1.53M | 1.53M |
+| 21:30 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
+| 21:30 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
+| 21:30 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.76M |
+| 21:45 | USD | Moderate | Chicago PMI (Oct) | 44.0 | 45.0 | 44.1 |
+| 22:00 | USD | High | CB Consumer Confidence (Oct) | 102.6 | 100.0 | 104.3 |
+| 15 min | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | 8.7 |
+| 15 min | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -8.6 |
 | 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.185% |

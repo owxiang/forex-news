@@ -32,4 +32,4 @@
 | 20:35 | CAD | GDP (MoM) | 0.0% |  | 0.0% |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) | 0.4% |  | 0.6% |
 | 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) | 2.2% | 1.6% | 0.2% |
-| 26 min | USD | Chicago PMI (Oct) |  | 45.0 | 44.1 |
+| 21:45 | USD | Chicago PMI (Oct) | 44.0 | 45.0 | 44.1 |
