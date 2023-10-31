@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Employment Change (QoQ) (Q3) |  | 0.4% | 1.0% |
-| 05:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 1.0% | 1.1% |
 | 05:45 | NZD | Labor Cost Index (YoY) (Q3) |  | 4.2% | 4.3% |
+| 05:45 | NZD | Labor Cost Index (QoQ) (Q3) |  | 1.0% | 1.1% |
 | 05:45 | NZD | Participation Rate (Q3) |  | 72.50% | 72.40% |
 | 05:45 | NZD | Unemployment Rate (Q3) |  | 3.9% | 3.6% |
 | 06:00 | AUD | AIG Construction Index (Oct) |  |  | 7.1 |
@@ -36,8 +36,8 @@
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | BRL | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Budget Balance |  |  | -479.700B |
+| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:30 | ZAR | Total Vehicle Sales |  |  | 46.02K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
