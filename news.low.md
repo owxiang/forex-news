@@ -20,8 +20,8 @@
 | 08:30 | IDR | Nikkei Manufacturing PMI (Oct) |  |  | 52.3 |
 | 10:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 12:00 | IDR | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
 | 12:00 | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
+| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -22.0% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
