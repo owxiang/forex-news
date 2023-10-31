@@ -55,17 +55,16 @@
 | 18:40 | EUR | German 30-Year Bund Auction | 3.040% |  | 2.890% |
 | 19:00 | EUR | Italian PPI (MoM) (Sep) | 0.6% | 0.3% | 0.5% |
 | 19:00 | EUR | Italian PPI (YoY) (Sep) | -14.1% |  | -12.2% |
-| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 47 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 47 min | INR | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
-| 47 min | ZAR | Trade Balance (Sep) |  | 12.00B | 13.28B |
-| 20:30 | USD | Employment Benefits (QoQ) (Q3) |  |  | 0.90% |
-| 20:30 | USD | Employment Wages (QoQ) (Q3) |  |  | 1.00% |
-| 20:55 | USD | Redbook (YoY) |  |  | 5.0% |
-| 21:00 | USD | House Price Index (YoY) (Aug) |  |  | 4.6% |
-| 21:00 | USD | House Price Index (MoM) (Aug) |  | 0.5% | 0.8% |
-| 21:00 | USD | House Price Index (Aug) |  |  | 409.5 |
-| 21:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.9% |
+| 19:30 | INR | Infrastructure Output (YoY) (Sep) | 8.1% |  | 12.5% |
+| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 20:00 | ZAR | Trade Balance (Sep) | 13.14B | 12.00B | 12.58B |
+| 20:30 | USD | Employment Benefits (QoQ) (Q3) | 0.90% |  | 0.90% |
+| 20:30 | USD | Employment Wages (QoQ) (Q3) | 1.20% |  | 1.00% |
+| 25 min | USD | Redbook (YoY) |  |  | 5.0% |
+| 30 min | USD | House Price Index (YoY) (Aug) |  |  | 4.6% |
+| 30 min | USD | House Price Index (MoM) (Aug) |  | 0.5% | 0.8% |
+| 30 min | USD | House Price Index (Aug) |  |  | 409.5 |
+| 30 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Aug) |  |  | 0.9% |
 | 22:30 | USD | Dallas Fed Services Revenues (Oct) |  |  | 8.7 |
 | 22:30 | USD | Texas Services Sector Outlook (Oct) |  |  | -8.6 |
 | 23:30 | USD | 52-Week Bill Auction |  |  | 5.185% |

@@ -20,16 +20,16 @@
 | 15:45 | EUR | French HICP (MoM) | 0.2% | 0.2% | -0.6% |
 | 18:00 | EUR | Core CPI (YoY) | 4.2% | 4.2% | 4.5% |
 | 18:00 | EUR | CPI (MoM) | 0.1% | 0.3% | 0.3% |
-| 18:00 | EUR | GDP (YoY) (Q3) | 0.1% | 0.2% | 0.5% |
 | 18:00 | EUR | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.2% |
+| 18:00 | EUR | GDP (YoY) (Q3) | 0.1% | 0.2% | 0.5% |
 | 18:10 | EUR | Italian 10-Year BTP Auction | 4.76% |  | 4.93% |
 | 19:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 47 min | MXN | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
-| 47 min | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
-| 47 min | BRL | Unemployment Rate |  | 7.7% | 7.8% |
-| 20:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 1.0% | 1.0% |
-| 20:30 | CAD | GDP (MoM) (Aug) |  | 0.1% | 0.0% |
-| 20:35 | CAD | GDP (MoM) |  |  |  |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.6% |
-| 21:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.6% | 0.1% |
+| 20:00 | MXN | GDP (QoQ) (Q3) | 0.9% | 0.8% | 0.8% |
+| 20:00 | MXN | GDP (YoY) (Q3) | 3.3% | 3.2% | 3.6% |
+| 20:00 | BRL | Unemployment Rate | 7.7% | 7.7% | 7.8% |
+| 20:30 | USD | Employment Cost Index (QoQ) (Q3) | 1.1% | 1.0% | 1.0% |
+| 20:30 | CAD | GDP (MoM) (Aug) | 0.0% | 0.1% | 0.0% |
+| 5 min | CAD | GDP (MoM) |  |  |  |
+| 30 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug) |  |  | 0.6% |
+| 30 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug) |  | 1.6% | 0.1% |
 | 21:45 | USD | Chicago PMI (Oct) |  | 45.0 | 44.1 |
