@@ -33,28 +33,28 @@
 | 15:30 | CHF | Retail Sales (YoY) (Sep) | -0.6% | -1.9% | -2.2% |
 | 15:45 | EUR | French CPI (YoY) (Oct) | 4.0% | 4.0% | 4.9% |
 | 15:45 | EUR | French HICP (YoY) | 4.5% | 4.5% | 5.7% |
-| 15:45 | EUR | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
 | 15:45 | EUR | PPI (YoY) (Sep) | -1.70% |  | -1.40% |
+| 15:45 | EUR | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
 | 16:00 | CHF | Official Reserves Assets (Sep) | 747.9B |  | 764.2B |
-| 11 min | HKD | GDP (QoQ) (Q3) |  | 1.4% | -1.3% |
-| 11 min | HKD | GDP (YoY) (Q3) |  | 5.2% | 1.5% |
-| 11 min | HKD | M3 Money Supply |  |  | 1.4% |
-| 41 min | EUR | Italian GDP (QoQ) (Q3) |  | 0.1% | -0.4% |
-| 41 min | EUR | Italian GDP (YoY) (Q3) |  | 0.1% | 0.3% |
-| 41 min | EUR | Spanish Current account (Aug) |  |  | 4.27B |
-| 41 min | NOK | Central Bank Currency Purchase (Nov) |  |  | 1,200.0M |
-| 51 min | EUR | German 30-Year Bund Auction |  |  | 2.890% |
-| 18:00 | EUR | Italian CPI (YoY) (Oct) |  | 0.3% | 5.3% |
-| 18:00 | EUR | Italian CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | Italian HICP (YoY) (Oct) |  | 2.3% | 5.6% |
-| 18:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.5% | 1.7% |
-| 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
-| 18:00 | EUR | CPI, n.s.a (Oct) |  | 124.43 | 124.03 |
-| 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  |  | 5.5% |
-| 18:10 | EUR | Italian 5-Year BTP Auction |  |  | 4.41% |
+| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 5.2% | 1.5% |
+| 16:30 | HKD | GDP (QoQ) (Q3) | 0.1% | 1.4% | -1.3% |
+| 16:30 | HKD | M3 Money Supply | 2.3% |  | 1.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.0% | 0.1% | 0.3% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q3) | 0.0% | 0.1% | -0.4% |
+| 17:00 | EUR | Spanish Current account (Aug) | 4.19B |  | 4.27B |
+| 17:00 | NOK | Central Bank Currency Purchase (Nov) | 1,400.0M |  | 1,200.0M |
+| 15 min | EUR | German 30-Year Bund Auction |  |  | 2.890% |
+| 45 min | EUR | Italian CPI (YoY) (Oct) |  | 0.3% | 5.3% |
+| 45 min | EUR | Italian CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 45 min | EUR | Italian HICP (MoM) (Oct) |  | 0.5% | 1.7% |
+| 45 min | EUR | Italian HICP (YoY) (Oct) |  | 2.3% | 5.6% |
+| 45 min | EUR | Core CPI (MoM) |  |  | 0.2% |
+| 45 min | EUR | CPI, n.s.a (Oct) |  | 124.43 | 124.03 |
+| 45 min | EUR | HICP ex Energy & Food (YoY) (Oct) |  |  | 5.5% |
+| 55 min | EUR | Italian 5-Year BTP Auction |  |  | 4.41% |
 | 18:30 | INR | Federal Fiscal Deficit (Sep) |  |  | 6,428.26B |
-| 19:00 | EUR | Italian PPI (YoY) (Sep) |  |  | -12.2% |
 | 19:00 | EUR | Italian PPI (MoM) (Sep) |  | 0.3% | 0.5% |
+| 19:00 | EUR | Italian PPI (YoY) (Sep) |  |  | -12.2% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | INR | Infrastructure Output (YoY) (Sep) |  |  | 12.1% |
