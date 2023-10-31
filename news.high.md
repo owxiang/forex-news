@@ -1,7 +1,9 @@
-## 31 October 2023 - High Impact Forex News
+## 01 November 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | CNY | Manufacturing PMI (Oct) | 49.5 | 50.2 | 50.2 |
-| 18:00 | EUR | CPI (YoY) (Oct) | 2.9% | 3.1% | 4.3% |
-| 22:00 | USD | CB Consumer Confidence (Oct) | 102.6 | 100.0 | 104.3 |
+| 20:15 | USD | ADP Nonfarm Employment Change (Oct) |  | 150K | 89K |
+| 22:00 | USD | ISM Manufacturing PMI (Oct) |  | 49.0 | 49.0 |
+| 22:00 | USD | ISM Manufacturing Prices (Oct) |  | 44.5 | 43.8 |
+| 22:00 | USD | JOLTs Job Openings (Sep) |  | 9.270M | 9.610M |
+| 22:30 | USD | Crude Oil Inventories |  |  | 1.371M |
