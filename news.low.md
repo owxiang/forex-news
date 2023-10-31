@@ -33,8 +33,8 @@
 | 15:30 | CHF | Retail Sales (YoY) (Sep) | -0.6% | -1.9% | -2.2% |
 | 15:45 | EUR | French CPI (YoY) (Oct) | 4.0% | 4.0% | 4.9% |
 | 15:45 | EUR | French HICP (YoY) | 4.5% | 4.5% | 5.7% |
-| 15:45 | EUR | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
 | 15:45 | EUR | PPI (YoY) (Sep) | -1.70% |  | -1.40% |
+| 15:45 | EUR | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
 | 16:00 | CHF | Official Reserves Assets (Sep) | 747.9B |  | 764.2B |
 | 16:30 | HKD | GDP (QoQ) (Q3) | 0.1% | 1.4% | -1.3% |
 | 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 5.2% | 1.5% |
@@ -77,6 +77,6 @@
 | 21:30 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
 | 21:30 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
 | 21:30 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.76M |
-| 15 min | USD | Dallas Fed Services Revenues (Oct) |  |  | 8.7 |
-| 15 min | USD | Texas Services Sector Outlook (Oct) |  |  | -8.6 |
-| 23:30 | USD | 52-Week Bill Auction |  |  | 5.185% |
+| 22:30 | USD | Dallas Fed Services Revenues (Oct) | 0.7 |  | 8.7 |
+| 22:30 | USD | Texas Services Sector Outlook (Oct) | -18.2 |  | -8.6 |
+| 13 min | USD | 52-Week Bill Auction |  |  | 5.185% |

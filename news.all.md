@@ -43,15 +43,15 @@
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Sep) | 1.6% | 0.7% | 0.4% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Sep) | -14.3% | -15.3% | -16.4% |
-| 15:00 | EUR | Low | German Retail Sales (YoY) (Sep) | -4.3% | -4.0% | -2.3% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Sep) | -0.8% | 0.5% | -1.2% |
+| 15:00 | EUR | Low | German Retail Sales (YoY) (Sep) | -4.3% | -4.0% | -2.3% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Sep) | -0.6% | -1.9% | -2.2% |
 | 15:45 | EUR | Low | French CPI (YoY) (Oct) | 4.0% | 4.0% | 4.9% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.2% | -0.5% |
 | 15:45 | EUR | Low | French HICP (YoY) | 4.5% | 4.5% | 5.7% |
 | 15:45 | EUR | Moderate | French HICP (MoM) | 0.2% | 0.2% | -0.6% |
-| 15:45 | EUR | Low | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
 | 15:45 | EUR | Low | PPI (YoY) (Sep) | -1.70% |  | -1.40% |
+| 15:45 | EUR | Low | French PPI (MoM) (Sep) | 0.7% |  | 0.7% |
 | 16:00 | CHF | Low | Official Reserves Assets (Sep) | 747.9B |  | 764.2B |
 | 16:30 | HKD | Low | GDP (QoQ) (Q3) | 0.1% | 1.4% | -1.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) | 4.1% | 5.2% | 1.5% |
@@ -66,8 +66,8 @@
 | 18:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.9% | 2.3% | 5.6% |
 | 18:00 | EUR | Low | Core CPI (MoM) | 0.2% |  | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) | 4.2% | 4.2% | 4.5% |
-| 18:00 | EUR | High | CPI (YoY) (Oct) | 2.9% | 3.1% | 4.3% |
 | 18:00 | EUR | Moderate | CPI (MoM) | 0.1% | 0.3% | 0.3% |
+| 18:00 | EUR | High | CPI (YoY) (Oct) | 2.9% | 3.1% | 4.3% |
 | 18:00 | EUR | Low | CPI, n.s.a (Oct) | 124.55 | 124.44 | 124.43 |
 | 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.2% |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.1% | 0.2% | 0.5% |
@@ -111,6 +111,6 @@
 | 21:30 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.76M |
 | 21:45 | USD | Moderate | Chicago PMI (Oct) | 44.0 | 45.0 | 44.1 |
 | 22:00 | USD | High | CB Consumer Confidence (Oct) | 102.6 | 100.0 | 104.3 |
-| 15 min | USD | Low | Dallas Fed Services Revenues (Oct) |  |  | 8.7 |
-| 15 min | USD | Low | Texas Services Sector Outlook (Oct) |  |  | -8.6 |
-| 23:30 | USD | Low | 52-Week Bill Auction |  |  | 5.185% |
+| 22:30 | USD | Low | Dallas Fed Services Revenues (Oct) | 0.7 |  | 8.7 |
+| 22:30 | USD | Low | Texas Services Sector Outlook (Oct) | -18.2 |  | -8.6 |
+| 13 min | USD | Low | 52-Week Bill Auction |  |  | 5.185% |
