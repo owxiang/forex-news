@@ -5,9 +5,9 @@
 | 02:30 | EUR | ECB's Enria Speaks |  |  |  |
 | 03:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 03:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 35 min | JPY | Industrial Production (MoM) (Sep) |  | 2.5% | -0.7% |
-| 09:30 | CNY | Chinese Composite PMI (Oct) |  |  | 52.0 |
-| 09:30 | CNY | Non-Manufacturing PMI (Oct) |  | 51.8 | 51.7 |
+| 07:50 | JPY | Industrial Production (MoM) (Sep) | 0.2% | 2.5% | -0.7% |
+| 21 min | CNY | Chinese Composite PMI (Oct) |  |  | 52.0 |
+| 21 min | CNY | Non-Manufacturing PMI (Oct) |  | 51.8 | 51.7 |
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 14:30 | EUR | French Consumer Spending (MoM) (Sep) |  | 0.4% | -0.5% |
