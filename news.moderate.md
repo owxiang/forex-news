@@ -23,8 +23,8 @@
 | 18:00 | EUR | GDP (YoY) (Q3) |  | 0.2% | 0.5% |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.93% |
 | 19:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 20:00 | MXN | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
 | 20:00 | MXN | GDP (QoQ) (Q3) |  | 0.8% | 0.8% |
+| 20:00 | MXN | GDP (YoY) (Q3) |  | 3.2% | 3.6% |
 | 20:00 | BRL | Unemployment Rate |  | 7.7% | 7.8% |
 | 20:30 | USD | Employment Cost Index (QoQ) (Q3) |  | 1.0% | 1.0% |
 | 20:30 | CAD | GDP (MoM) (Aug) |  | 0.1% | 0.0% |
