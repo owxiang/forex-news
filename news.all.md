@@ -30,8 +30,8 @@
 | 12:00 | IDR | Low | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -16.8% |  | -21.3% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
 | 16:30 | CHF | Moderate | procure.ch PMI (Oct) | 40.6 | 45.0 | 44.9 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Sep) | 13.0% |  | 13.7% |
 | 17:00 | NOK | Low | Manufacturing PMI (Oct) | 47.9 |  | 51.8 |
@@ -43,17 +43,16 @@
 | 19:00 | USD | Low | MBA Purchase Index | 125.2 |  | 127.0 |
 | 19:00 | USD | Low | Mortgage Market Index | 161.8 |  | 165.2 |
 | 19:00 | USD | Low | Mortgage Refinance Index | 341.7 |  | 354.0 |
-| 18 min | INR | Low | M3 Money Supply |  |  | 11.0% |
-| 48 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 48 min | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
-| 48 min | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 48 min | ZAR | Low | Budget Balance |  |  | 19.70% |
-| 48 min | ZAR | Low | Budget Balance |  |  | -479.700B |
-| 48 min | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
-| 20:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 150K | 89K |
-| 20:30 | ZAR | Low | Total Vehicle Sales |  |  | 46.02K |
-| 20:40 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
+| 19:30 | INR | Low | M3 Money Supply | 10.8% |  | 11.0% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) | 0.1% | -0.1% | 0.4% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 0.6% | 0.7% | 0.5% |
+| 20:00 | ZAR | Low | Budget Balance | -247.000B |  | -323.100B |
+| 20:00 | ZAR | Low | Budget Balance | -3.70% |  | -4.90% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (Oct) | 45.45K |  | 46.02K |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | -2.00% |  | -4.10% |
+| 20:15 | USD | High | ADP Nonfarm Employment Change (Oct) | 113K | 150K | 89K |
+| 10 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 30 min | BRL | Low | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
 | 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) |  |  | 47.5 |
 | 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Oct) |  | 50.0 | 49.8 |
 | 22:00 | USD | Low | Construction Spending (MoM) (Sep) |  | 0.4% | 0.5% |
