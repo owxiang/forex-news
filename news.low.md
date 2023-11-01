@@ -2,14 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | EUR | Italian Car Registration (YoY) |  |  | 22.7% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.375B |
-| 02:00 | BRL | Trade Balance (Oct) |  | 9.00B | 8.90B |
-| 07:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
+| 46 min | BRL | Trade Balance (Oct) |  | 9.00B | 8.90B |
 | 07:00 | KRW | CPI (YoY) (Oct) |  | 3.6% | 3.7% |
+| 07:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -151.7B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 214.7B |
-| 07:50 | JPY | Monetary Base (YoY) (Oct) |  | 5.9% | 5.6% |
+| 07:50 | JPY | Monetary Base (YoY) (Oct) |  | 5.9% | 5.9% |
 | 08:30 | AUD | Exports (MoM) (Sep) |  |  | 4.0% |
 | 08:30 | AUD | Imports (MoM) (Sep) |  |  | -0.4% |
 | 08:30 | AUD | Invest Housing Finance (MoM) |  |  | 1.6% |
@@ -22,16 +20,16 @@
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 19:00 | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Car Registration (MoM) (Oct) |  |  | 23.00% |
-| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 19:00 | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,795K | 1,790K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
 | 21:00 | SGD | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
-| 22:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
+| 22:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.5% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Sep) |  |  | 1.4% |
 | Tentative | USD | Total Vehicle Sales |  | 15.30M | 15.67M |
 | 22:30 | USD | Natural Gas Storage |  |  | 74B |

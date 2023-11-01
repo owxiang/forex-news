@@ -13,12 +13,12 @@
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Oct) |  | 47.3 | 47.7 |
 | 16:45 | EUR | HCOB Italy Manufacturing PMI (Oct) |  | 46.4 | 46.8 |
-| 16:50 | EUR | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
-| 16:55 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
+| 16:50 | EUR | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 42.6 |
+| 16:55 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.7 |
 | 16:55 | EUR | German Unemployment Change (Oct) |  | 15K | 10K |
 | 16:55 | EUR | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
 | 17:00 | NOK | Interest Rate Decision |  |  | 4.25% |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
+| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.0 |
 | 19:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | GBP | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 20:00 | GBP | BoE MPC vote hike (Nov) |  | 2 | 4 |

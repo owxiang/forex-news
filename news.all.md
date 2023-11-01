@@ -2,20 +2,18 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 39 min | EUR | Low | Italian Car Registration (YoY) |  |  | 22.7% |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
-| 02:00 | USD | High | FOMC Statement |  |  |  |
-| 02:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 02:00 | BRL | Low | Trade Balance (Oct) |  | 9.00B | 8.90B |
+| 46 min | USD | High | FOMC Statement |  |  |  |
+| 46 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 46 min | BRL | Low | Trade Balance (Oct) |  | 9.00B | 8.90B |
 | 02:30 | USD | High | FOMC Press Conference |  |  |  |
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.25% | 12.75% |
-| 07:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
 | 07:00 | KRW | Low | CPI (YoY) (Oct) |  | 3.6% | 3.7% |
+| 07:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -151.7B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 214.7B |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 5.9% | 5.6% |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 5.9% | 5.9% |
 | 08:30 | AUD | Low | Exports (MoM) (Sep) |  |  | 4.0% |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.6% |
 | 08:30 | AUD | Low | Imports (MoM) (Sep) |  |  | -0.4% |
@@ -31,22 +29,22 @@
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 47.3 | 47.7 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 46.4 | 46.8 |
-| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
-| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
+| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 42.6 |
+| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 40.7 |
 | 16:55 | EUR | Moderate | German Unemployment Change (Oct) |  | 15K | 10K |
 | 16:55 | EUR | Moderate | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
 | 16:55 | EUR | Low | German Unemployment (Oct) |  |  | 2.642M |
 | 16:55 | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
 | 17:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.25% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.0 |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
@@ -60,7 +58,7 @@
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.8% | 2.2% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
 | 22:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
-| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
+| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.5% |
 | 22:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  | 1.9% | 1.2% |
 | 22:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 1.4% |
 | Tentative | USD | Low | Total Vehicle Sales |  | 15.30M | 15.67M |
