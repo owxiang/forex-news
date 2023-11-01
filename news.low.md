@@ -27,17 +27,17 @@
 | 17:00 | NOK | Manufacturing PMI (Oct) | 47.9 |  | 51.8 |
 | 17:00 | ZAR | Manufacturing PMI | 45.4 |  | 46.2 |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction | 4.474% |  | 4.803% |
-| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.90% |
-| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.0% |
-| 43 min | USD | MBA Purchase Index |  |  | 127.0 |
-| 43 min | USD | Mortgage Market Index |  |  | 165.2 |
-| 43 min | USD | Mortgage Refinance Index |  |  | 354.0 |
-| 19:30 | INR | M3 Money Supply |  |  | 11.0% |
-| 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 20:00 | BRL | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
-| 20:00 | ZAR | Budget Balance |  |  | -479.700B |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
+| 19:00 | USD | MBA 30-Year Mortgage Rate | 7.86% |  | 7.90% |
+| 19:00 | USD | MBA Mortgage Applications (WoW) | -2.1% |  | -1.0% |
+| 19:00 | USD | MBA Purchase Index | 125.2 |  | 127.0 |
+| 19:00 | USD | Mortgage Market Index | 161.8 |  | 165.2 |
+| 19:00 | USD | Mortgage Refinance Index | 341.7 |  | 354.0 |
+| 18 min | INR | M3 Money Supply |  |  | 11.0% |
+| 48 min | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 48 min | BRL | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
+| 48 min | ZAR | Budget Balance |  |  | 19.70% |
+| 48 min | ZAR | Budget Balance |  |  | -479.700B |
+| 48 min | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:30 | ZAR | Total Vehicle Sales |  |  | 46.02K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
 | 21:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) |  |  | 47.5 |

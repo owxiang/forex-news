@@ -13,7 +13,7 @@
 | 15:00 | GBP | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
 | 16:30 | CHF | procure.ch PMI (Oct) | 40.6 | 45.0 | 44.9 |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 44.8 | 45.2 | 44.3 |
-| 20:00 | BRL | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
+| 48 min | BRL | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
 | 20:40 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 21:45 | USD | S&P Global US Manufacturing PMI (Oct) |  | 50.0 | 49.8 |
 | 22:00 | USD | ISM Manufacturing Employment (Oct) |  | 50.3 | 51.2 |

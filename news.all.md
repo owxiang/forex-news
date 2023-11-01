@@ -38,18 +38,18 @@
 | 17:00 | ZAR | Low | Manufacturing PMI | 45.4 |  | 46.2 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) | 44.8 | 45.2 | 44.3 |
 | 18:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.474% |  | 4.803% |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.90% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.0% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 127.0 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 165.2 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 354.0 |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
-| 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
-| 20:00 | ZAR | Low | Budget Balance |  |  | 19.70% |
-| 20:00 | ZAR | Low | Budget Balance |  |  | -479.700B |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
+| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.86% |  | 7.90% |
+| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.1% |  | -1.0% |
+| 19:00 | USD | Low | MBA Purchase Index | 125.2 |  | 127.0 |
+| 19:00 | USD | Low | Mortgage Market Index | 161.8 |  | 165.2 |
+| 19:00 | USD | Low | Mortgage Refinance Index | 341.7 |  | 354.0 |
+| 18 min | INR | Low | M3 Money Supply |  |  | 11.0% |
+| 48 min | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 48 min | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
+| 48 min | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
+| 48 min | ZAR | Low | Budget Balance |  |  | 19.70% |
+| 48 min | ZAR | Low | Budget Balance |  |  | -479.700B |
+| 48 min | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 150K | 89K |
 | 20:30 | ZAR | Low | Total Vehicle Sales |  |  | 46.02K |
 | 20:40 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
