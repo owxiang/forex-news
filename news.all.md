@@ -32,10 +32,10 @@
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -16.8% |  | -21.3% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
-| 16:30 | CHF | Moderate | procure.ch PMI (Oct) |  | 45.0 | 44.9 |
-| 16:30 | HKD | Low | Retail Sales (YoY) (Sep) |  |  | 13.7% |
-| 17:00 | NOK | Low | Manufacturing PMI (Oct) |  |  | 52.5 |
-| 17:00 | ZAR | Low | Manufacturing PMI |  |  | 45.4 |
+| 11 min | CHF | Moderate | procure.ch PMI (Oct) |  | 45.0 | 44.9 |
+| 11 min | HKD | Low | Retail Sales (YoY) (Sep) |  |  | 13.7% |
+| 41 min | NOK | Low | Manufacturing PMI (Oct) |  |  | 52.5 |
+| 41 min | ZAR | Low | Manufacturing PMI |  |  | 45.4 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 45.2 | 44.3 |
 | 18:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.803% |
 | 19:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.90% |
@@ -45,8 +45,8 @@
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 354.0 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
 | 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
 | 20:00 | ZAR | Low | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Low | Budget Balance |  |  | -479.700B |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |

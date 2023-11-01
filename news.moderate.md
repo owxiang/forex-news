@@ -11,7 +11,7 @@
 | 09:45 | CNY | Caixin Manufacturing PMI (Oct) | 49.5 | 50.8 | 50.6 |
 | 15:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
 | 15:00 | GBP | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
-| 16:30 | CHF | procure.ch PMI (Oct) |  | 45.0 | 44.9 |
+| 11 min | CHF | procure.ch PMI (Oct) |  | 45.0 | 44.9 |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) |  | 45.2 | 44.3 |
 | 20:00 | BRL | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
 | 20:40 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |

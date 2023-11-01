@@ -23,9 +23,9 @@
 | 12:00 | IDR | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) | -16.8% |  | -21.3% |
-| 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
-| 17:00 | NOK | Manufacturing PMI (Oct) |  |  | 52.5 |
-| 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
+| 11 min | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
+| 41 min | NOK | Manufacturing PMI (Oct) |  |  | 52.5 |
+| 41 min | ZAR | Manufacturing PMI |  |  | 45.4 |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.803% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.90% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.0% |
