@@ -21,9 +21,9 @@
 | 12:00 | IDR | Core Inflation (YoY) (Oct) | 1.91% | 2.00% | 2.00% |
 | 12:00 | IDR | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 12:00 | IDR | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
-| 41 min | INR | S&P Global India Manufacturing PMI (Oct) |  | 57.7 | 57.5 |
-| 41 min | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
-| 13:30 | AUD | Commodity Prices (YoY) |  |  | -22.0% |
+| 13:00 | INR | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
+| 15 min | AUD | Commodity Prices (YoY) |  |  | -22.0% |
+| 15:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
 | 17:00 | NOK | Manufacturing PMI (Oct) |  |  | 52.5 |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
@@ -36,8 +36,8 @@
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | BRL | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Budget Balance |  |  | -479.700B |
+| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:30 | ZAR | Total Vehicle Sales |  |  | 46.02K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
