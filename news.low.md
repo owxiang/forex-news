@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Employment Change (QoQ) (Q3) | -0.2% | 0.4% | 1.0% |
-| 05:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
 | 05:45 | NZD | Labor Cost Index (YoY) (Q3) | 4.1% | 4.2% | 4.3% |
+| 05:45 | NZD | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
 | 05:45 | NZD | Participation Rate (Q3) | 72.00% | 72.50% | 72.40% |
 | 05:45 | NZD | Unemployment Rate (Q3) | 3.9% | 3.9% | 3.6% |
 | 06:00 | AUD | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
@@ -18,10 +18,10 @@
 | 08:30 | AUD | Private House Approvals (Sep) | -4.6% |  | 5.8% |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
-| 12:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
-| 12:00 | IDR | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
-| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
+| 44 min | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
+| 44 min | IDR | Core Inflation (YoY) |  | 2.00% | 2.00% |
+| 44 min | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
+| 44 min | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -22.0% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |

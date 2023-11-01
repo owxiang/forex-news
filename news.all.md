@@ -7,8 +7,8 @@
 | 04:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.347M | 1.601M | -2.668M |
 | 05:45 | NZD | Low | Employment Change (QoQ) (Q3) | -0.2% | 0.4% | 1.0% |
-| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
 | 05:45 | NZD | Low | Labor Cost Index (YoY) (Q3) | 4.1% | 4.2% | 4.3% |
+| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
 | 05:45 | NZD | Low | Participation Rate (Q3) | 72.00% | 72.50% | 72.40% |
 | 05:45 | NZD | Low | Unemployment Rate (Q3) | 3.9% | 3.9% | 3.6% |
 | 06:00 | AUD | Low | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
@@ -25,10 +25,10 @@
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 49.5 | 50.8 | 50.6 |
-| 12:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
-| 12:00 | IDR | Low | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Low | Inflation (MoM) |  | 0.24% | 0.19% |
-| 12:00 | IDR | Low | Inflation (YoY) |  | 2.60% | 2.28% |
+| 44 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 44 min | IDR | Low | Core Inflation (YoY) |  | 2.00% | 2.00% |
+| 44 min | IDR | Low | Inflation (YoY) |  | 2.60% | 2.28% |
+| 44 min | IDR | Low | Inflation (MoM) |  | 0.24% | 0.19% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -22.0% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  |  | -5.3% |
@@ -46,8 +46,8 @@
 | 19:00 | USD | Low | Mortgage Refinance Index |  |  | 354.0 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
 | 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
 | 20:00 | ZAR | Low | Budget Balance |  |  | -479.700B |
 | 20:00 | ZAR | Low | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
