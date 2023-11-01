@@ -19,8 +19,8 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
 | 12:00 | IDR | Core Inflation (YoY) (Oct) | 1.91% | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
 | 12:00 | IDR | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
+| 12:00 | IDR | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) | -16.8% |  | -21.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) | 13.0% |  | 13.7% |
@@ -42,12 +42,12 @@
 | 21:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) | 48.6 |  | 47.5 |
 | 22:00 | USD | Construction Spending (MoM) (Sep) | 0.4% | 0.4% | 1.0% |
 | 22:00 | USD | ISM Manufacturing New Orders Index (Oct) | 45.5 |  | 49.2 |
-| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.207M |
-| 16 min | USD | Crude Oil Imports |  |  | 0.539M |
-| 16 min | USD | Distillate Fuel Production |  |  | 0.039M |
-| 16 min | USD | EIA Weekly Distillates Stocks |  | -1.540M | -1.686M |
-| 16 min | USD | Gasoline Production |  |  | 0.063M |
-| 16 min | USD | Heating Oil Stockpiles |  |  | -0.037M |
-| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 16 min | USD | Gasoline Inventories |  | -0.803M | 0.156M |
-| 46 min | MXN | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 49.80 |
+| 22:30 | USD | EIA Refinery Crude Runs (WoW) | 0.062M |  | -0.207M |
+| 22:30 | USD | Crude Oil Imports | 0.348M |  | 0.539M |
+| 22:30 | USD | Distillate Fuel Production | -0.153M |  | 0.039M |
+| 22:30 | USD | EIA Weekly Distillates Stocks | -0.792M | -1.540M | -1.686M |
+| 22:30 | USD | Gasoline Production | -0.330M |  | 0.063M |
+| 22:30 | USD | Heating Oil Stockpiles | 0.304M |  | -0.037M |
+| 22:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | -0.5% |
+| 22:30 | USD | Gasoline Inventories | 0.065M | -0.803M | 0.156M |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Oct) | 52.10 |  | 49.80 |

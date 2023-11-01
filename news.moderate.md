@@ -17,4 +17,4 @@
 | 20:40 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 21:45 | USD | S&P Global US Manufacturing PMI (Oct) | 50.0 | 50.0 | 49.8 |
 | 22:00 | USD | ISM Manufacturing Employment (Oct) | 46.8 | 50.3 | 51.2 |
-| 16 min | USD | Cushing Crude Oil Inventories |  |  | 0.213M |
+| 22:30 | USD | Cushing Crude Oil Inventories | 0.272M |  | 0.213M |
