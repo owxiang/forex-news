@@ -22,8 +22,7 @@
 | 12:00 | IDR | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 12:00 | IDR | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
-| 13:30 | AUD | Commodity Prices (YoY) | -16.8% |  | -22.0% |
-| 39 min | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
+| 13:30 | AUD | Commodity Prices (YoY) | -16.8% |  | -21.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
 | 17:00 | NOK | Manufacturing PMI (Oct) |  |  | 52.5 |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
