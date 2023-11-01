@@ -29,10 +29,10 @@
 | 12:00 | IDR | Low | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 12:00 | IDR | Low | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
-| 15 min | AUD | Low | Commodity Prices (YoY) |  |  | -22.0% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | -0.4% | 0.0% |
-| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | -4.8% | -5.3% |
-| 15:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 13:30 | AUD | Low | Commodity Prices (YoY) | -16.8% |  | -22.0% |
+| 39 min | GBP | Moderate | Nationwide HPI (YoY) (Oct) |  | -4.8% | -5.3% |
+| 39 min | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | -0.4% | 0.0% |
+| 39 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 16:30 | CHF | Moderate | procure.ch PMI (Oct) |  | 45.0 | 44.9 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Sep) |  |  | 13.7% |
 | 17:00 | NOK | Low | Manufacturing PMI (Oct) |  |  | 52.5 |
@@ -48,8 +48,8 @@
 | 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) |  | 0.7% | 0.5% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | ZAR | Low | Budget Balance |  |  | -479.700B |
 | 20:00 | ZAR | Low | Budget Balance |  |  | 19.70% |
+| 20:00 | ZAR | Low | Budget Balance |  |  | -479.700B |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Oct) |  | 150K | 89K |
 | 20:30 | ZAR | Low | Total Vehicle Sales |  |  | 46.02K |
