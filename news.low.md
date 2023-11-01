@@ -34,14 +34,14 @@
 | 19:00 | USD | Mortgage Refinance Index | 341.7 |  | 354.0 |
 | 19:30 | INR | M3 Money Supply | 10.8% |  | 11.0% |
 | 20:00 | BRL | Industrial Production (MoM) (Sep) | 0.1% | -0.1% | 0.4% |
-| 20:00 | ZAR | Budget Balance | -247.000B |  | -323.100B |
 | 20:00 | ZAR | Budget Balance | -3.70% |  | -4.90% |
-| 20:00 | ZAR | Total Vehicle Sales (Oct) | 45.45K |  | 46.02K |
+| 20:00 | ZAR | Budget Balance | -247.000B |  | -323.100B |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Oct) | -2.00% |  | -4.10% |
-| 30 min | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
-| 21:30 | CAD | S&P Global Canada Manufacturing PMI (Oct) |  |  | 47.5 |
-| 22:00 | USD | Construction Spending (MoM) (Sep) |  | 0.4% | 0.5% |
-| 22:00 | USD | ISM Manufacturing New Orders Index (Oct) |  |  | 49.2 |
+| 20:00 | ZAR | Total Vehicle Sales (Oct) | 45.45K |  | 46.02K |
+| 21:00 | BRL | S&P Global Manufacturing PMI (Oct) | 48.6 |  | 49.0 |
+| 12 min | CAD | S&P Global Canada Manufacturing PMI (Oct) |  |  | 47.5 |
+| 42 min | USD | Construction Spending (MoM) (Sep) |  | 0.4% | 0.5% |
+| 42 min | USD | ISM Manufacturing New Orders Index (Oct) |  |  | 49.2 |
 | 22:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.207M |
 | 22:30 | USD | Crude Oil Imports |  |  | 0.539M |
 | 22:30 | USD | Distillate Fuel Production |  |  | 0.039M |
