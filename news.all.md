@@ -26,12 +26,12 @@
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 49.5 | 50.8 | 50.6 |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Oct) | 1.91% | 2.00% | 2.00% |
-| 12:00 | IDR | Low | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 12:00 | IDR | Low | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
+| 12:00 | IDR | Low | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -16.8% |  | -21.3% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
 | 16:30 | CHF | Moderate | procure.ch PMI (Oct) | 40.6 | 45.0 | 44.9 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Sep) | 13.0% |  | 13.7% |
 | 17:00 | NOK | Low | Manufacturing PMI (Oct) | 47.9 |  | 51.8 |
@@ -46,29 +46,29 @@
 | 19:30 | INR | Low | M3 Money Supply | 10.8% |  | 11.0% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 0.6% | 0.7% | 0.5% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Sep) | 0.1% | -0.1% | 0.4% |
-| 20:00 | ZAR | Low | Budget Balance | -3.70% |  | -4.90% |
 | 20:00 | ZAR | Low | Budget Balance | -247.000B |  | -323.100B |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | -2.00% |  | -4.10% |
+| 20:00 | ZAR | Low | Budget Balance | -3.70% |  | -4.90% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (Oct) | 45.45K |  | 46.02K |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | -2.00% |  | -4.10% |
 | 20:15 | USD | High | ADP Nonfarm Employment Change (Oct) | 113K | 150K | 89K |
 | 20:40 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 48.6 |  | 49.0 |
-| 12 min | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) |  |  | 47.5 |
-| 27 min | USD | Moderate | S&P Global US Manufacturing PMI (Oct) |  | 50.0 | 49.8 |
-| 42 min | USD | Low | Construction Spending (MoM) (Sep) |  | 0.4% | 0.5% |
-| 42 min | USD | Moderate | ISM Manufacturing Employment (Oct) |  | 50.3 | 51.2 |
-| 42 min | USD | Low | ISM Manufacturing New Orders Index (Oct) |  |  | 49.2 |
-| 42 min | USD | High | ISM Manufacturing PMI (Oct) |  | 49.0 | 49.0 |
-| 42 min | USD | High | ISM Manufacturing Prices (Oct) |  | 45.0 | 43.8 |
-| 42 min | USD | High | JOLTs Job Openings (Sep) |  | 9.250M | 9.610M |
-| 22:30 | USD | High | Crude Oil Inventories |  | 1.261M | 1.371M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.207M |
-| 22:30 | USD | Low | Crude Oil Imports |  |  | 0.539M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.213M |
-| 22:30 | USD | Low | Distillate Fuel Production |  |  | 0.039M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.540M | -1.686M |
-| 22:30 | USD | Low | Gasoline Production |  |  | 0.063M |
-| 22:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.037M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 22:30 | USD | Low | Gasoline Inventories |  | -0.803M | 0.156M |
-| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 49.80 |
+| 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) | 48.6 |  | 47.5 |
+| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Oct) | 50.0 | 50.0 | 49.8 |
+| 22:00 | USD | Low | Construction Spending (MoM) (Sep) | 0.4% | 0.4% | 1.0% |
+| 22:00 | USD | Moderate | ISM Manufacturing Employment (Oct) | 46.8 | 50.3 | 51.2 |
+| 22:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) | 45.5 |  | 49.2 |
+| 22:00 | USD | High | ISM Manufacturing PMI (Oct) | 46.7 | 49.0 | 49.0 |
+| 22:00 | USD | High | ISM Manufacturing Prices (Oct) | 45.1 | 45.0 | 43.8 |
+| 22:00 | USD | High | JOLTs Job Openings (Sep) | 9.553M | 9.250M | 9.497M |
+| 16 min | USD | High | Crude Oil Inventories |  | 1.261M | 1.371M |
+| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.207M |
+| 16 min | USD | Low | Crude Oil Imports |  |  | 0.539M |
+| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.213M |
+| 16 min | USD | Low | Distillate Fuel Production |  |  | 0.039M |
+| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.540M | -1.686M |
+| 16 min | USD | Low | Gasoline Production |  |  | 0.063M |
+| 16 min | USD | Low | Heating Oil Stockpiles |  |  | -0.037M |
+| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 16 min | USD | Low | Gasoline Inventories |  | -0.803M | 0.156M |
+| 46 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) |  |  | 49.80 |
