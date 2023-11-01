@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 46 min | USD | High | FOMC Statement |  |  |  |
-| 46 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 46 min | BRL | Low | Trade Balance (Oct) |  | 9.00B | 8.90B |
-| 02:30 | USD | High | FOMC Press Conference |  |  |  |
+| 02:00 | USD | High | FOMC Statement |  |  |  |
+| 02:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 02:00 | BRL | Low | Trade Balance (Oct) | 8.96B | 9.00B | 8.90B |
+| 10 min | USD | High | FOMC Press Conference |  |  |  |
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.25% | 12.75% |
@@ -22,8 +22,8 @@
 | 10:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 10:30 | HKD | Low | Interest Rate Decision |  |  | 5.75% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.768% |
-| 15:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.8% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 15:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.8% | 1.7% |
 | 15:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -187.9B |
 | 16:00 | CHF | Moderate | SECO Consumer Climate (Q4) |  |  | -8 |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |

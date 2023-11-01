@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | BRL | Trade Balance (Oct) |  | 9.00B | 8.90B |
+| 02:00 | BRL | Trade Balance (Oct) | 8.96B | 9.00B | 8.90B |
 | 07:00 | KRW | CPI (YoY) (Oct) |  | 3.6% | 3.7% |
 | 07:00 | KRW | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -151.7B |
