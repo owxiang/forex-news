@@ -19,14 +19,14 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
 | 12:00 | IDR | Core Inflation (YoY) (Oct) | 1.91% | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 12:00 | IDR | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
+| 12:00 | IDR | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) | -16.8% |  | -21.3% |
-| 11 min | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |
-| 41 min | NOK | Manufacturing PMI (Oct) |  |  | 52.5 |
-| 41 min | ZAR | Manufacturing PMI |  |  | 45.4 |
-| 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.803% |
+| 16:30 | HKD | Retail Sales (YoY) (Sep) | 13.0% |  | 13.7% |
+| 17:00 | NOK | Manufacturing PMI (Oct) | 47.9 |  | 51.8 |
+| 17:00 | ZAR | Manufacturing PMI | 45.4 |  | 46.2 |
+| 45 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.803% |
 | 19:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.90% |
 | 19:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.0% |
 | 19:00 | USD | MBA Purchase Index |  |  | 127.0 |
@@ -35,8 +35,8 @@
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:00 | BRL | Industrial Production (MoM) (Sep) |  | -0.1% | 0.4% |
-| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Budget Balance |  |  | -479.700B |
+| 20:00 | ZAR | Budget Balance |  |  | 19.70% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Oct) |  |  | -4.10% |
 | 20:30 | ZAR | Total Vehicle Sales |  |  | 46.02K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Oct) |  |  | 49.0 |
