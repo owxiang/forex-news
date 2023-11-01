@@ -1,74 +1,70 @@
-## 01 November 2023 - All Forex News
+## 02 November 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 00:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 04:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
-| 04:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.347M | 1.601M | -2.668M |
-| 05:45 | NZD | Low | Employment Change (QoQ) (Q3) | -0.2% | 0.4% | 1.0% |
-| 05:45 | NZD | Low | Labor Cost Index (YoY) (Q3) | 4.1% | 4.2% | 4.3% |
-| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q3) | 0.8% | 1.0% | 1.1% |
-| 05:45 | NZD | Low | Participation Rate (Q3) | 72.00% | 72.50% | 72.50% |
-| 05:45 | NZD | Low | Unemployment Rate (Q3) | 3.9% | 3.9% | 3.6% |
-| 06:00 | AUD | Low | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
-| 06:00 | AUD | Low | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
-| 06:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 08:00 | KRW | Low | Exports (YoY) (Oct) | 5.1% | 5.5% | -4.4% |
-| 08:00 | KRW | Low | Imports (YoY) (Oct) | -9.7% | -4.3% | -16.5% |
-| 08:00 | KRW | Low | Trade Balance (Oct) | 1.64B | -2.00B | 3.70B |
-| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 49.8 |  | 49.9 |
-| 08:30 | AUD | Low | Building Approvals (YoY) (Sep) | -7.10% |  | -5.90% |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | -4.6% | 1.3% | 8.1% |
-| 08:30 | AUD | Low | Private House Approvals (Sep) | -4.6% |  | 5.8% |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
-| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
-| 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) | 49.5 | 50.8 | 50.6 |
-| 12:00 | IDR | Low | Core Inflation (YoY) (Oct) | 1.91% | 2.00% | 2.00% |
-| 12:00 | IDR | Low | Inflation (YoY) | 2.56% | 2.60% | 2.28% |
-| 12:00 | IDR | Low | Inflation (MoM) | 0.17% | 0.24% | 0.19% |
-| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) | 55.5 | 57.7 | 57.5 |
-| 13:30 | AUD | Low | Commodity Prices (YoY) | -16.8% |  | -21.3% |
-| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
-| 16:30 | CHF | Moderate | procure.ch PMI (Oct) | 40.6 | 45.0 | 44.9 |
-| 16:30 | HKD | Low | Retail Sales (YoY) (Sep) | 13.0% |  | 13.7% |
-| 17:00 | NOK | Low | Manufacturing PMI (Oct) | 47.9 |  | 51.8 |
-| 17:00 | ZAR | Low | Manufacturing PMI | 45.4 |  | 46.2 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Oct) | 44.8 | 45.2 | 44.3 |
-| 18:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.474% |  | 4.803% |
-| 19:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.86% |  | 7.90% |
-| 19:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.1% |  | -1.0% |
-| 19:00 | USD | Low | MBA Purchase Index | 125.2 |  | 127.0 |
-| 19:00 | USD | Low | Mortgage Market Index | 161.8 |  | 165.2 |
-| 19:00 | USD | Low | Mortgage Refinance Index | 341.7 |  | 354.0 |
-| 19:30 | INR | Low | M3 Money Supply | 10.8% |  | 11.0% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Sep) | 0.1% | -0.1% | 0.4% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Sep) | 0.6% | 0.7% | 0.5% |
-| 20:00 | ZAR | Low | Budget Balance | -247.000B |  | -323.100B |
-| 20:00 | ZAR | Low | Budget Balance | -3.70% |  | -4.90% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Oct) | 45.45K |  | 46.02K |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Oct) | -2.00% |  | -4.10% |
-| 20:15 | USD | High | ADP Nonfarm Employment Change (Oct) | 113K | 150K | 89K |
-| 20:40 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Oct) | 48.6 |  | 49.0 |
-| 21:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Oct) | 48.6 |  | 47.5 |
-| 21:45 | USD | Moderate | S&P Global US Manufacturing PMI (Oct) | 50.0 | 50.0 | 49.8 |
-| 22:00 | USD | Low | Construction Spending (MoM) (Sep) | 0.4% | 0.4% | 1.0% |
-| 22:00 | USD | Moderate | ISM Manufacturing Employment (Oct) | 46.8 | 50.3 | 51.2 |
-| 22:00 | USD | Low | ISM Manufacturing New Orders Index (Oct) | 45.5 |  | 49.2 |
-| 22:00 | USD | High | ISM Manufacturing PMI (Oct) | 46.7 | 49.0 | 49.0 |
-| 22:00 | USD | High | ISM Manufacturing Prices (Oct) | 45.1 | 45.0 | 43.8 |
-| 22:00 | USD | High | JOLTs Job Openings (Sep) | 9.553M | 9.250M | 9.497M |
-| 22:30 | USD | High | Crude Oil Inventories | 0.774M | 1.261M | 1.371M |
-| 22:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.062M |  | -0.207M |
-| 22:30 | USD | Low | Crude Oil Imports | 0.348M |  | 0.539M |
-| 22:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.272M |  | 0.213M |
-| 22:30 | USD | Low | Distillate Fuel Production | -0.153M |  | 0.039M |
-| 22:30 | USD | Low | EIA Weekly Distillates Stocks | -0.792M | -1.540M | -1.686M |
-| 22:30 | USD | Low | Gasoline Production | -0.330M |  | 0.063M |
-| 22:30 | USD | Low | Heating Oil Stockpiles | 0.304M |  | -0.037M |
-| 22:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | -0.5% |
-| 22:30 | USD | Low | Gasoline Inventories | 0.065M | -0.803M | 0.156M |
-| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Oct) | 52.10 |  | 49.80 |
+| 39 min | EUR | Low | Italian Car Registration (YoY) |  |  | 22.7% |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
+| 02:00 | USD | High | FOMC Statement |  |  |  |
+| 02:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 02:00 | BRL | Low | Trade Balance (Oct) |  | 9.00B | 8.90B |
+| 02:30 | USD | High | FOMC Press Conference |  |  |  |
+| 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 05:00 | BRL | Moderate | Interest Rate Decision |  | 12.25% | 12.75% |
+| 07:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
+| 07:00 | KRW | Low | CPI (YoY) (Oct) |  | 3.6% | 3.7% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -151.7B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 214.7B |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Oct) |  | 5.9% | 5.6% |
+| 08:30 | AUD | Low | Exports (MoM) (Sep) |  |  | 4.0% |
+| 08:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.6% |
+| 08:30 | AUD | Low | Imports (MoM) (Sep) |  |  | -0.4% |
+| 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 1.6% |
+| 08:30 | AUD | Moderate | Trade Balance (Sep) |  | 9.500B | 9.640B |
+| 10:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 10:30 | HKD | Low | Interest Rate Decision |  |  | 5.75% |
+| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.768% |
+| 15:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.8% | 1.7% |
+| 15:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 15:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -187.9B |
+| 16:00 | CHF | Moderate | SECO Consumer Climate (Q4) |  |  | -8 |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 47.3 | 47.7 |
+| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 46.4 | 46.8 |
+| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
+| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
+| 16:55 | EUR | Moderate | German Unemployment Change (Oct) |  | 15K | 10K |
+| 16:55 | EUR | Moderate | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
+| 16:55 | EUR | Low | German Unemployment (Oct) |  |  | 2.642M |
+| 16:55 | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
+| 17:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.25% |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
+| 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
+| 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
+| 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
+| 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
+| 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
+| 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
+| 20:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 5.25% | 5.25% |
+| 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
+| 20:30 | USD | Low | Continuing Jobless Claims |  | 1,795K | 1,790K |
+| 20:30 | USD | High | Initial Jobless Claims |  | 210K | 210K |
+| 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
+| 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.0% | 3.5% |
+| 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.8% | 2.2% |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
+| 22:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
+| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
+| 22:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  | 1.9% | 1.2% |
+| 22:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 1.4% |
+| Tentative | USD | Low | Total Vehicle Sales |  | 15.30M | 15.67M |
+| 22:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 22:30 | USD | Low | Natural Gas Storage |  |  | 74B |
+| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.295% |
+| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.330% |

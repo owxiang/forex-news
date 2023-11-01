@@ -1,20 +1,30 @@
-## 01 November 2023 - Moderate Impact Forex News
+## 02 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 00:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 04:00 | NZD | RBNZ Financial Stability Report |  |  |  |
-| 04:30 | USD | API Weekly Crude Oil Stock | 1.347M | 1.601M | -2.668M |
-| 06:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 08:30 | AUD | Building Approvals (MoM) (Sep) | -4.6% | 1.3% | 8.1% |
-| 09:45 | CNY | Caixin Manufacturing PMI (Oct) | 49.5 | 50.8 | 50.6 |
-| 15:00 | GBP | Nationwide HPI (YoY) (Oct) | -3.3% | -4.8% | -5.3% |
-| 15:00 | GBP | Nationwide HPI (MoM) (Oct) | 0.9% | -0.4% | 0.1% |
-| 16:30 | CHF | procure.ch PMI (Oct) | 40.6 | 45.0 | 44.9 |
-| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Oct) | 44.8 | 45.2 | 44.3 |
-| 20:00 | BRL | Industrial Production (YoY) (Sep) | 0.6% | 0.7% | 0.5% |
-| 20:40 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 21:45 | USD | S&P Global US Manufacturing PMI (Oct) | 50.0 | 50.0 | 49.8 |
-| 22:00 | USD | ISM Manufacturing Employment (Oct) | 46.8 | 50.3 | 51.2 |
-| 22:30 | USD | Cushing Crude Oil Inventories | 0.272M |  | 0.213M |
+| 04:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 04:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 05:00 | BRL | Interest Rate Decision |  | 12.25% | 12.75% |
+| 08:30 | AUD | Home Loans (MoM) |  | 1.2% | 2.6% |
+| 08:30 | AUD | Trade Balance (Sep) |  | 9.500B | 9.640B |
+| 11:35 | JPY | 10-Year JGB Auction |  |  | 0.768% |
+| 15:30 | CHF | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 16:00 | CHF | SECO Consumer Climate (Q4) |  |  | -8 |
+| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 16:15 | EUR | HCOB Spain Manufacturing PMI (Oct) |  | 47.3 | 47.7 |
+| 16:45 | EUR | HCOB Italy Manufacturing PMI (Oct) |  | 46.4 | 46.8 |
+| 16:50 | EUR | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
+| 16:55 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
+| 16:55 | EUR | German Unemployment Change (Oct) |  | 15K | 10K |
+| 16:55 | EUR | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
+| 17:00 | NOK | Interest Rate Decision |  |  | 4.25% |
+| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
+| 19:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 20:00 | GBP | BoE MPC vote cut (Nov) |  | 0 | 0 |
+| 20:00 | GBP | BoE MPC vote hike (Nov) |  | 2 | 4 |
+| 20:00 | GBP | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
+| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 20:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.0% | 3.5% |
+| 20:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 0.8% | 2.2% |
+| 22:00 | USD | Factory Orders (MoM) (Sep) |  | 1.9% | 1.2% |
+| 22:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
