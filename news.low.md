@@ -10,18 +10,18 @@
 | 06:00 | AUD | AIG Construction Index (Oct) | 18.5 |  | 7.1 |
 | 06:00 | AUD | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
-| 45 min | KRW | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
-| 45 min | KRW | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
-| 45 min | KRW | Trade Balance (Oct) |  | -2.00B | 3.70B |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 49.9 |
-| 08:30 | AUD | Building Approvals (YoY) (Sep) |  |  | -6.70% |
-| 08:30 | AUD | Private House Approvals (Sep) |  |  | 5.8% |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 48.5 | 48.5 |
-| 08:30 | IDR | Nikkei Manufacturing PMI (Oct) |  |  | 52.3 |
-| 10:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
+| 08:00 | KRW | Exports (YoY) (Oct) | 5.1% | 5.5% | -4.4% |
+| 08:00 | KRW | Imports (YoY) (Oct) | -9.7% | -4.3% | -16.5% |
+| 08:00 | KRW | Trade Balance (Oct) | 1.64B | -2.00B | 3.70B |
+| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Oct) | 49.8 |  | 49.9 |
+| 08:30 | AUD | Building Approvals (YoY) (Sep) | -7.10% |  | -5.90% |
+| 08:30 | AUD | Private House Approvals (Sep) | -4.6% |  | 5.8% |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
+| 08:30 | IDR | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
+| 47 min | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 12:00 | IDR | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
 | 12:00 | IDR | Inflation (MoM) |  | 0.24% | 0.19% |
+| 12:00 | IDR | Inflation (YoY) |  | 2.60% | 2.28% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -22.0% |
 | 16:30 | HKD | Retail Sales (YoY) (Sep) |  |  | 13.7% |

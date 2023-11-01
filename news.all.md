@@ -15,20 +15,20 @@
 | 06:00 | AUD | Low | AIG Manufacturing Index (Oct) | -20.9 |  | -12.8 |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 48.2 | 48.0 | 48.7 |
 | 06:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 45 min | KRW | Low | Exports (YoY) (Oct) |  | 5.5% | -4.4% |
-| 45 min | KRW | Low | Imports (YoY) (Oct) |  | -4.3% | -16.5% |
-| 45 min | KRW | Low | Trade Balance (Oct) |  | -2.00B | 3.70B |
-| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) |  |  | 49.9 |
-| 08:30 | AUD | Low | Building Approvals (YoY) (Sep) |  |  | -6.70% |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) (Sep) |  | 0.0% | 7.0% |
-| 08:30 | AUD | Low | Private House Approvals (Sep) |  |  | 5.8% |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) |  | 48.5 | 48.5 |
-| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) |  |  | 52.3 |
-| 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
-| 10:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 08:00 | KRW | Low | Exports (YoY) (Oct) | 5.1% | 5.5% | -4.4% |
+| 08:00 | KRW | Low | Imports (YoY) (Oct) | -9.7% | -4.3% | -16.5% |
+| 08:00 | KRW | Low | Trade Balance (Oct) | 1.64B | -2.00B | 3.70B |
+| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Oct) | 49.8 |  | 49.9 |
+| 08:30 | AUD | Low | Building Approvals (YoY) (Sep) | -7.10% |  | -5.90% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) (Sep) | -4.6% | 0.0% | 8.1% |
+| 08:30 | AUD | Low | Private House Approvals (Sep) | -4.6% |  | 5.8% |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Oct) | 48.7 | 48.5 | 48.5 |
+| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Oct) | 51.5 |  | 52.3 |
+| 32 min | CNY | Moderate | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
+| 47 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 12:00 | IDR | Low | Core Inflation (YoY) |  | 2.00% | 2.00% |
-| 12:00 | IDR | Low | Inflation (YoY) |  | 2.60% | 2.28% |
 | 12:00 | IDR | Low | Inflation (MoM) |  | 0.24% | 0.19% |
+| 12:00 | IDR | Low | Inflation (YoY) |  | 2.60% | 2.28% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Oct) |  |  | 57.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -22.0% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Oct) |  | -0.3% | 0.0% |

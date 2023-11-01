@@ -7,8 +7,8 @@
 | 04:00 | NZD | RBNZ Financial Stability Report |  |  |  |
 | 04:30 | USD | API Weekly Crude Oil Stock | 1.347M | 1.601M | -2.668M |
 | 06:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 08:30 | AUD | Building Approvals (MoM) (Sep) |  | 0.0% | 7.0% |
-| 09:45 | CNY | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
+| 08:30 | AUD | Building Approvals (MoM) (Sep) | -4.6% | 0.0% | 8.1% |
+| 32 min | CNY | Caixin Manufacturing PMI (Oct) |  | 50.8 | 50.6 |
 | 15:00 | GBP | Nationwide HPI (MoM) (Oct) |  | -0.3% | 0.0% |
 | 15:00 | GBP | Nationwide HPI (YoY) (Oct) |  |  | -5.3% |
 | 16:30 | CHF | procure.ch PMI (Oct) |  | 45.0 | 44.9 |
