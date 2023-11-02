@@ -4,7 +4,6 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:45 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 01:00 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,908B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
 | 05:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 414.12B |

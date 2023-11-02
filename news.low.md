@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | BRL | Foreign Exchange Flows |  |  | 3.375B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
 | 05:00 | KRW | FX Reserves - USD (Oct) |  |  | 414.12B |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  | 47.6 | 51.8 |
