@@ -9,8 +9,8 @@
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
-| 07:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
 | 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
+| 07:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 238.5B |  | -147.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
@@ -21,29 +21,29 @@
 | 08:30 | AUD | Moderate | Trade Balance (Sep) | 6.786B | 9.400B | 10.161B |
 | 08:30 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.910% |  | 0.768% |
-| 15:30 | CHF | Low | CPI (YoY) (Oct) | 1.7% | 1.7% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 15:30 | CHF | Low | CPI (YoY) (Oct) | 1.7% | 1.7% | 1.7% |
 | 15:45 | EUR | Low | French Government Budget Balance (Sep) | -186.1B |  | -187.9B |
 | 16:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -28 |  | -8 |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) | 45.1 | 47.0 | 47.7 |
-| 11 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
-| 26 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 46.2 | 46.8 |
-| 31 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
-| 36 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
-| 36 min | EUR | Moderate | German Unemployment Change (Oct) |  | 15K | 10K |
-| 36 min | EUR | Moderate | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
-| 36 min | EUR | Low | German Unemployment (Oct) |  |  | 2.642M |
-| 36 min | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
-| 41 min | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
-| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
-| 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
-| 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
-| 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) | 44.9 | 46.2 | 46.8 |
+| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) | 42.8 | 42.6 | 44.2 |
+| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) | 40.8 | 40.7 | 39.6 |
+| 16:55 | EUR | Moderate | German Unemployment Change (Oct) | 30K | 15K | 10K |
+| 16:55 | EUR | Moderate | German Unemployment Rate (Oct) | 5.8% | 5.8% | 5.7% |
+| 16:55 | EUR | Low | German Unemployment (Oct) | 2.678M |  | 2.642M |
+| 16:55 | EUR | Low | German Unemployment n.s.a. (Oct) | 2.607M |  | 2.627M |
+| 17:00 | NOK | Moderate | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) | 43.1 | 43.0 | 43.4 |
+| 25 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
+| 25 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
+| 25 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
+| 25 min | EUR | Low | Spanish 8-Year Obligacion Auction |  |  | 3.591% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
+| 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
 | 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
