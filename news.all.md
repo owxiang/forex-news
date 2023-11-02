@@ -9,8 +9,8 @@
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
-| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
+| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 238.5B |  | -147.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
@@ -21,11 +21,11 @@
 | 08:30 | AUD | Moderate | Trade Balance (Sep) | 6.786B | 9.400B | 10.161B |
 | 08:30 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.910% |  | 0.768% |
-| 15:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.7% | 1.7% |
-| 15:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 15:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -187.9B |
-| 16:00 | CHF | Moderate | SECO Consumer Climate (Q4) |  |  | -8 |
-| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 15 min | CHF | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 15 min | CHF | Low | CPI (YoY) (Oct) |  | 1.7% | 1.7% |
+| 30 min | EUR | Low | French Government Budget Balance (Sep) |  |  | -187.9B |
+| 45 min | CHF | Moderate | SECO Consumer Climate (Q4) |  |  | -8 |
+| 45 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 47.0 | 47.7 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 46.2 | 46.8 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
@@ -42,14 +42,13 @@
 | 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | INR | Low | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,800K | 1,790K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 210K | 210K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
