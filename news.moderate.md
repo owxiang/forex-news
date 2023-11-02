@@ -19,11 +19,11 @@
 | 17:00 | NOK | Interest Rate Decision | 4.25% | 4.25% | 4.25% |
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) | 43.1 | 43.0 | 43.4 |
 | 19:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 47 min | GBP | BoE MPC vote cut (Nov) |  | 0 | 0 |
-| 47 min | GBP | BoE MPC vote hike (Nov) |  | 2 | 4 |
-| 47 min | GBP | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
-| 47 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 20:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.1% | 3.5% |
-| 20:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | 0.7% | 2.2% |
+| 20:00 | GBP | BoE MPC vote cut (Nov) | 0 | 0 | 0 |
+| 20:00 | GBP | BoE MPC vote hike (Nov) | 3 | 2 | 4 |
+| 20:00 | GBP | BoE MPC vote unchanged (Nov) | 6 | 7 | 5 |
+| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 20:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 4.7% | 4.1% | 3.6% |
+| 20:30 | USD | Unit Labor Costs (QoQ) (Q3) | -0.8% | 0.7% | 3.2% |
 | 22:00 | USD | Factory Orders (MoM) (Sep) |  | 2.4% | 1.2% |
 | 22:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
