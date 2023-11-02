@@ -12,7 +12,6 @@
 | 08:30 | AUD | Imports (MoM) (Sep) | 7.5% |  | 0.0% |
 | 08:30 | AUD | Invest Housing Finance (MoM) | 2.0% |  | 1.6% |
 | 08:30 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
-| 41 min | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:30 | CHF | CPI (YoY) (Oct) |  | 1.7% | 1.7% |
 | 15:45 | EUR | French Government Budget Balance (Sep) |  |  | -187.9B |
 | 16:55 | EUR | German Unemployment (Oct) |  |  | 2.642M |
@@ -20,10 +19,10 @@
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 19:00 | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Car Registration (MoM) (Oct) |  |  | 23.00% |
-| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 19:00 | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 20:00 | INR | Balance of Payments (USD) (Q2) |  |  | 5.600B |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,790K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
