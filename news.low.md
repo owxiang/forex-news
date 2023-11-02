@@ -16,14 +16,15 @@
 | 15:45 | EUR | French Government Budget Balance (Sep) | -186.1B |  | -187.9B |
 | 16:55 | EUR | German Unemployment (Oct) | 2.678M |  | 2.642M |
 | 16:55 | EUR | German Unemployment n.s.a. (Oct) | 2.607M |  | 2.627M |
-| 25 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
-| 25 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
-| 25 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 25 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 3.591% |
-| 19:00 | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
-| 19:00 | EUR | Car Registration (MoM) (Oct) |  |  | 23.00% |
-| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 17:40 | EUR | Spanish 10-Year Obligacion Auction | 3.580% |  | 4.067% |
+| 17:40 | EUR | Spanish 30-Year Obligacion Auction | 4.465% |  | 4.190% |
+| 17:40 | EUR | Spanish 5-Year Bonos Auction | 3.334% |  | 3.644% |
+| 17:40 | EUR | Spanish 8-Year Obligacion Auction | 3.582% |  | 3.591% |
+| 18:00 | EUR | French 10-Year OAT Auction | 3.32% |  | 3.56% |
+| 44 min | EUR | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 44 min | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,790K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
 | 21:00 | SGD | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
