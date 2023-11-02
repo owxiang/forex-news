@@ -7,7 +7,7 @@
 | 05:00 | BRL | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
 | 08:30 | AUD | Home Loans (MoM) | -0.1% | 1.2% | 2.6% |
 | 08:30 | AUD | Trade Balance (Sep) | 6.786B | 9.500B | 10.161B |
-| 11:35 | JPY | 10-Year JGB Auction |  |  | 0.768% |
+| 19 min | JPY | 10-Year JGB Auction |  |  | 0.768% |
 | 15:30 | CHF | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 16:00 | CHF | SECO Consumer Climate (Q4) |  |  | -8 |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
