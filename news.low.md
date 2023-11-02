@@ -12,10 +12,10 @@
 | 08:30 | AUD | Imports (MoM) (Sep) | 7.5% |  | 0.0% |
 | 08:30 | AUD | Invest Housing Finance (MoM) | 2.0% |  | 1.6% |
 | 08:30 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
-| 15 min | CHF | CPI (YoY) (Oct) |  | 1.7% | 1.7% |
-| 30 min | EUR | French Government Budget Balance (Sep) |  |  | -187.9B |
-| 16:55 | EUR | German Unemployment (Oct) |  |  | 2.642M |
-| 16:55 | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
+| 15:30 | CHF | CPI (YoY) (Oct) | 1.7% | 1.7% | 1.7% |
+| 15:45 | EUR | French Government Budget Balance (Sep) | -186.1B |  | -187.9B |
+| 36 min | EUR | German Unemployment (Oct) |  |  | 2.642M |
+| 36 min | EUR | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.027% |

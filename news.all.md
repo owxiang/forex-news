@@ -21,21 +21,21 @@
 | 08:30 | AUD | Moderate | Trade Balance (Sep) | 6.786B | 9.400B | 10.161B |
 | 08:30 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.910% |  | 0.768% |
-| 15 min | CHF | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 15 min | CHF | Low | CPI (YoY) (Oct) |  | 1.7% | 1.7% |
-| 30 min | EUR | Low | French Government Budget Balance (Sep) |  |  | -187.9B |
-| 45 min | CHF | Moderate | SECO Consumer Climate (Q4) |  |  | -8 |
-| 45 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
-| 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) |  | 47.0 | 47.7 |
-| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 46.2 | 46.8 |
-| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
-| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
-| 16:55 | EUR | Moderate | German Unemployment Change (Oct) |  | 15K | 10K |
-| 16:55 | EUR | Moderate | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
-| 16:55 | EUR | Low | German Unemployment (Oct) |  |  | 2.642M |
-| 16:55 | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
-| 17:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
+| 15:30 | CHF | Low | CPI (YoY) (Oct) | 1.7% | 1.7% | 1.7% |
+| 15:30 | CHF | Moderate | CPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 15:45 | EUR | Low | French Government Budget Balance (Sep) | -186.1B |  | -187.9B |
+| 16:00 | CHF | Moderate | SECO Consumer Climate (Q4) | -28 |  | -8 |
+| 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Oct) | 45.1 | 47.0 | 47.7 |
+| 11 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 26 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Oct) |  | 46.2 | 46.8 |
+| 31 min | EUR | Moderate | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
+| 36 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
+| 36 min | EUR | Moderate | German Unemployment Change (Oct) |  | 15K | 10K |
+| 36 min | EUR | Moderate | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
+| 36 min | EUR | Low | German Unemployment (Oct) |  |  | 2.642M |
+| 36 min | EUR | Low | German Unemployment n.s.a. (Oct) |  |  | 2.627M |
+| 41 min | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
+| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |

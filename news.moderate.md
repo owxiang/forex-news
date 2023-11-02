@@ -8,17 +8,17 @@
 | 08:30 | AUD | Home Loans (MoM) | -0.1% | 1.2% | 2.6% |
 | 08:30 | AUD | Trade Balance (Sep) | 6.786B | 9.400B | 10.161B |
 | 11:35 | JPY | 10-Year JGB Auction | 0.910% |  | 0.768% |
-| 15 min | CHF | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 45 min | CHF | SECO Consumer Climate (Q4) |  |  | -8 |
-| 45 min | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
-| 16:15 | EUR | HCOB Spain Manufacturing PMI (Oct) |  | 47.0 | 47.7 |
-| 16:45 | EUR | HCOB Italy Manufacturing PMI (Oct) |  | 46.2 | 46.8 |
-| 16:50 | EUR | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
-| 16:55 | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
-| 16:55 | EUR | German Unemployment Change (Oct) |  | 15K | 10K |
-| 16:55 | EUR | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
-| 17:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
+| 15:30 | CHF | CPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 16:00 | CHF | SECO Consumer Climate (Q4) | -28 |  | -8 |
+| 16:15 | EUR | HCOB Spain Manufacturing PMI (Oct) | 45.1 | 47.0 | 47.7 |
+| 11 min | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 26 min | EUR | HCOB Italy Manufacturing PMI (Oct) |  | 46.2 | 46.8 |
+| 31 min | EUR | HCOB France Manufacturing PMI (Oct) |  | 42.6 | 44.2 |
+| 36 min | EUR | HCOB Germany Manufacturing PMI (Oct) |  | 40.7 | 39.6 |
+| 36 min | EUR | German Unemployment Change (Oct) |  | 15K | 10K |
+| 36 min | EUR | German Unemployment Rate (Oct) |  | 5.8% | 5.7% |
+| 41 min | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
+| 41 min | EUR | HCOB Eurozone Manufacturing PMI (Oct) |  | 43.0 | 43.4 |
 | 19:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | GBP | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 20:00 | GBP | BoE MPC vote hike (Nov) |  | 2 | 4 |
