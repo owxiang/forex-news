@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | BRL | Trade Balance (Oct) | 8.96B | 9.00B | 8.90B |
-| 07:00 | KRW | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:00 | KRW | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
+| 07:00 | KRW | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:50 | JPY | Foreign Bonds Buying | 238.5B |  | -147.8B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
 | 07:50 | JPY | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
@@ -21,12 +21,12 @@
 | 17:40 | EUR | Spanish 5-Year Bonos Auction | 3.334% |  | 3.644% |
 | 17:40 | EUR | Spanish 8-Year Obligacion Auction | 3.582% |  | 3.591% |
 | 18:00 | EUR | French 10-Year OAT Auction | 3.32% |  | 3.56% |
-| 44 min | EUR | Car Registration (MoM) (Oct) |  |  | 23.00% |
-| 44 min | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
-| 19:30 | USD | Challenger Job Cuts (YoY) |  |  | 58.2% |
-| 19:30 | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 17 min | USD | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 17 min | USD | Challenger Job Cuts (YoY) |  |  | 58.2% |
 | 20:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,790K |
 | 20:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.50K |
+| 21:00 | EUR | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 21:00 | EUR | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 21:00 | SGD | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
 | 22:00 | USD | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
 | 22:00 | USD | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |

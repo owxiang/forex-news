@@ -5,5 +5,5 @@
 | 02:00 | USD | FOMC Statement |  |  |  |
 | 02:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 02:30 | USD | FOMC Press Conference |  |  |  |
-| 20:00 | GBP | BoE Interest Rate Decision (Nov) |  | 5.25% | 5.25% |
+| 47 min | GBP | BoE Interest Rate Decision (Nov) |  | 5.25% | 5.25% |
 | 20:30 | USD | Initial Jobless Claims |  | 210K | 210K |

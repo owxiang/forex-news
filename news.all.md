@@ -9,8 +9,8 @@
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
-| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
+| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 238.5B |  | -147.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
@@ -40,21 +40,21 @@
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.334% |  | 3.644% |
 | 17:40 | EUR | Low | Spanish 8-Year Obligacion Auction | 3.582% |  | 3.591% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction | 3.32% |  | 3.56% |
-| 44 min | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
-| 44 min | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
-| 44 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
-| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
-| 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
-| 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
-| 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
-| 20:00 | GBP | High | BoE Interest Rate Decision (Nov) |  | 5.25% | 5.25% |
-| 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 17 min | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
+| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 47 min | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
+| 47 min | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
+| 47 min | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
+| 47 min | GBP | High | BoE Interest Rate Decision (Nov) |  | 5.25% | 5.25% |
+| 47 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 20:30 | USD | Low | Continuing Jobless Claims |  | 1,800K | 1,790K |
 | 20:30 | USD | High | Initial Jobless Claims |  | 210K | 210K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.50K |
 | 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.1% | 3.5% |
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | 0.7% | 2.2% |
+| 21:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 21:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
 | 22:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
 | 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
