@@ -19,9 +19,9 @@
 | 08:30 | AUD | Low | Imports (MoM) (Sep) | 7.5% |  | 0.0% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) | 2.0% |  | 1.6% |
 | 08:30 | AUD | Moderate | Trade Balance (Sep) | 6.786B | 9.500B | 10.161B |
-| 52 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
-| 10:30 | HKD | Low | Interest Rate Decision |  |  | 5.75% |
+| 08:30 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.768% |
+| 13:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.8% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 15:45 | EUR | Low | French Government Budget Balance (Sep) |  |  | -187.9B |
@@ -43,8 +43,8 @@
 | 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
+| 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) |  | 2 | 4 |
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) |  | 7 | 5 |
