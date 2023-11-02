@@ -6,12 +6,12 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.315T |  | 3.264T |
 | 05:00 | KRW | FX Reserves - USD (Oct) | 412.87B |  | 414.12B |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.9 | 47.6 | 51.8 |
-| 07:50 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 35 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 08:30 | AUD | Retail Sales (QoQ) (Q3) |  |  | -0.5% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
 | 13:00 | INR | S&P Global India Services PMI (Oct) |  |  | 61.0 |
-| 13:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |
 | 13:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 1.7% |
+| 13:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |
 | 13:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:00 | EUR | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
 | 15:00 | EUR | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |
@@ -26,8 +26,8 @@
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
 | 20:15 | CAD | Reserve Assets Total (Oct) |  |  | 112.4B |
 | 20:30 | USD | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Government Payrolls (Oct) |  |  | 73.0K |
