@@ -1,39 +1,41 @@
-## 02 November 2023 - Low Impact Forex News
+## 03 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | BRL | Trade Balance (Oct) | 8.96B | 9.00B | 8.90B |
-| 07:00 | KRW | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
-| 07:00 | KRW | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
-| 07:50 | JPY | Foreign Bonds Buying | 238.5B |  | -147.8B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
-| 07:50 | JPY | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
-| 08:30 | AUD | Exports (MoM) (Sep) | -1.4% |  | 4.6% |
-| 08:30 | AUD | Imports (MoM) (Sep) | 7.5% |  | 0.0% |
-| 08:30 | AUD | Invest Housing Finance (MoM) | 2.0% |  | 1.6% |
-| 08:30 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
-| 15:30 | CHF | CPI (YoY) (Oct) | 1.7% | 1.7% | 1.7% |
-| 15:45 | EUR | French Government Budget Balance (Sep) | -186.1B |  | -187.9B |
-| 16:55 | EUR | German Unemployment (Oct) | 2.678M |  | 2.648M |
-| 16:55 | EUR | German Unemployment n.s.a. (Oct) | 2.607M |  | 2.627M |
-| 17:40 | EUR | Spanish 10-Year Obligacion Auction | 3.580% |  | 4.067% |
-| 17:40 | EUR | Spanish 30-Year Obligacion Auction | 4.465% |  | 4.190% |
-| 17:40 | EUR | Spanish 5-Year Bonos Auction | 3.334% |  | 3.644% |
-| 17:40 | EUR | Spanish 8-Year Obligacion Auction | 3.582% |  | 3.591% |
-| 18:00 | EUR | French 10-Year OAT Auction | 3.32% |  | 3.56% |
-| 19:00 | EUR | Car Registration (YoY) (Oct) | 18.10% |  | 2.30% |
-| 19:00 | EUR | Car Registration (MoM) (Oct) | 13.20% |  | 23.00% |
-| 19:30 | USD | Challenger Job Cuts (Oct) | 36.836K |  | 47.457K |
-| 19:30 | USD | Challenger Job Cuts (YoY) | 8.8% |  | 58.2% |
-| 20:30 | USD | Continuing Jobless Claims | 1,818K | 1,800K | 1,783K |
-| 20:30 | USD | Jobless Claims 4-Week Avg. | 210.00K |  | 208.00K |
-| 21:00 | USD | All Car Sales (Oct) | 3.10M |  | 3.22M |
-| 21:00 | USD | All Truck Sales (Oct) | 12.40M |  | 12.46M |
-| 21:00 | SGD | S&P Global Singapore PMI (Oct) | 50.2 |  | 50.1 |
-| 22:00 | USD | Durables Excluding Defense (MoM) (Sep) | 5.7% |  | 5.8% |
-| 22:00 | USD | Durables Excluding Transport (MoM) (Sep) | 0.4% |  | 0.4% |
-| 22:00 | USD | Factory orders ex transportation (MoM) (Sep) | 0.8% |  | 1.5% |
-| 22:00 | USD | Total Vehicle Sales | 15.50M | 15.30M | 15.67M |
-| 22:30 | USD | Natural Gas Storage | 79B | 80B | 74B |
-| 15 min | USD | 4-Week Bill Auction |  |  | 5.295% |
-| 15 min | USD | 8-Week Bill Auction |  |  | 5.330% |
+| 39 min | EUR | Italian Car Registration (YoY) |  |  | 22.7% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.375B |
+| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
+| 05:00 | KRW | FX Reserves - USD (Oct) |  |  | 414.12B |
+| 06:00 | AUD | Judo Bank Australia Services PMI |  | 47.6 | 51.8 |
+| 07:50 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 08:30 | AUD | Retail Sales (QoQ) (Q3) |  |  | -0.5% |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
+| 13:00 | INR | S&P Global India Services PMI (Oct) |  |  | 61.0 |
+| 13:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |
+| 13:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 1.7% |
+| 13:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
+| 15:00 | EUR | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
+| 15:00 | EUR | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |
+| 15:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
+| 15:45 | EUR | French Industrial Production (MoM) (Sep) |  | -0.1% | -0.3% |
+| 15:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
+| 17:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
+| 17:00 | NOK | Unemployment Change (Oct) |  |  | 66.39K |
+| 17:00 | NOK | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
+| 18:00 | NOK | House Price Index (YoY) (Oct) |  |  | -1.30% |
+| 19:30 | INR | Bank Loan Growth |  |  | 19.3% |
+| 19:30 | INR | Deposit Growth |  |  | 13.6% |
+| 19:30 | INR | FX Reserves, USD |  |  | 583.53B |
+| 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 20:15 | CAD | Reserve Assets Total (Oct) |  |  | 112.4B |
+| 20:30 | USD | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
+| 20:30 | USD | Government Payrolls (Oct) |  |  | 73.0K |
+| 20:30 | USD | Manufacturing Payrolls (Oct) |  | 0K | 17K |
+| 20:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 5.3% |
+| 20:30 | CAD | Full Employment Change (Oct) |  |  | 15.8K |
+| 20:30 | CAD | Part Time Employment Change (Oct) |  |  | 47.9K |
+| 20:30 | CAD | Participation Rate (Oct) |  |  | 65.6% |
+| 22:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
+| 22:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 51.8 |

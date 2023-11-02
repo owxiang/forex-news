@@ -1,9 +1,10 @@
-## 02 November 2023 - High Impact Forex News
+## 03 November 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | FOMC Statement |  |  |  |
-| 02:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 02:30 | USD | FOMC Press Conference |  |  |  |
-| 20:00 | GBP | BoE Interest Rate Decision (Nov) | 5.25% | 5.25% | 5.25% |
-| 20:30 | USD | Initial Jobless Claims | 217K | 210K | 212K |
+| 20:30 | USD | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
+| 20:30 | USD | Nonfarm Payrolls (Oct) |  | 188K | 336K |
+| 20:30 | USD | Unemployment Rate (Oct) |  | 3.8% | 3.8% |
+| 21:45 | USD | S&P Global Services PMI (Oct) |  | 50.9 | 50.9 |
+| 22:00 | USD | ISM Non-Manufacturing PMI (Oct) |  | 53.0 | 53.6 |
+| 22:00 | USD | ISM Non-Manufacturing Prices (Oct) |  |  | 58.9 |
