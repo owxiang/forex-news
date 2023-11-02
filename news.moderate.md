@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 39 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 00:45 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 01:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 7,908B |
 | 06:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:30 | AUD | Retail Sales (MoM) |  | -0.3% | 0.2% |

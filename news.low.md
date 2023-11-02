@@ -2,8 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | EUR | Italian Car Registration (YoY) |  |  | 22.7% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.375B |
+| 16 min | BRL | Foreign Exchange Flows |  |  | 3.375B |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
 | 05:00 | KRW | FX Reserves - USD (Oct) |  |  | 414.12B |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  | 47.6 | 51.8 |
@@ -11,8 +10,8 @@
 | 08:30 | AUD | Retail Sales (QoQ) (Q3) |  |  | -0.5% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
 | 13:00 | INR | S&P Global India Services PMI (Oct) |  |  | 61.0 |
-| 13:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |
 | 13:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 1.7% |
+| 13:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |
 | 13:00 | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:00 | EUR | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
 | 15:00 | EUR | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |

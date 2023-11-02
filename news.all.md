@@ -2,10 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 39 min | EUR | Low | Italian Car Registration (YoY) |  |  | 22.7% |
-| 39 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
+| 00:45 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 01:00 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,908B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
 | 05:00 | KRW | Low | FX Reserves - USD (Oct) |  |  | 414.12B |
@@ -17,8 +16,8 @@
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Oct) |  |  | 61.0 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
 | 13:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
 | 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |
@@ -43,8 +42,8 @@
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Oct) |  |  | 73.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | 0K | 17K |
