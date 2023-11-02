@@ -25,5 +25,5 @@
 | 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 20:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 4.7% | 4.1% | 3.6% |
 | 20:30 | USD | Unit Labor Costs (QoQ) (Q3) | -0.8% | 0.7% | 3.2% |
-| 41 min | USD | Factory Orders (MoM) (Sep) |  | 2.4% | 1.2% |
-| 56 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 22:00 | USD | Factory Orders (MoM) (Sep) | 2.8% | 2.4% | 1.0% |
+| 22:15 | GBP | BoE Gov Bailey Speaks |  |  |  |

@@ -9,8 +9,8 @@
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
-| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
+| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 238.5B |  | -147.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
@@ -40,8 +40,8 @@
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction | 3.334% |  | 3.644% |
 | 17:40 | EUR | Low | Spanish 8-Year Obligacion Auction | 3.582% |  | 3.591% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction | 3.32% |  | 3.56% |
-| 19:00 | EUR | Low | Car Registration (MoM) (Oct) | 13.20% |  | 23.00% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Oct) | 18.10% |  | 2.30% |
+| 19:00 | EUR | Low | Car Registration (MoM) (Oct) | 13.20% |  | 23.00% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:30 | USD | Low | Challenger Job Cuts (Oct) | 36.836K |  | 47.457K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | 58.2% |
@@ -55,15 +55,14 @@
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.00K |  | 208.00K |
 | 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 4.7% | 4.1% | 3.6% |
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -0.8% | 0.7% | 3.2% |
+| 21:00 | USD | Low | All Car Sales (Oct) | 3.10M |  | 3.22M |
+| 21:00 | USD | Low | All Truck Sales (Oct) | 12.40M |  | 12.46M |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Oct) | 50.2 |  | 50.1 |
-| 41 min | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
-| 41 min | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
-| 41 min | USD | Moderate | Factory Orders (MoM) (Sep) |  | 2.4% | 1.2% |
-| 41 min | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 1.4% |
-| Tentative | USD | Low | Total Vehicle Sales |  | 15.30M | 15.67M |
-| 56 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 22:30 | USD | Low | Natural Gas Storage |  | 80B | 74B |
-| 23:00 | USD | Low | All Car Sales (Oct) | 3.10M |  | 3.22M |
-| 23:00 | USD | Low | All Truck Sales (Oct) | 12.40M |  | 12.46M |
+| 22:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) | 5.7% |  | 5.8% |
+| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) | 0.4% |  | 0.4% |
+| 22:00 | USD | Moderate | Factory Orders (MoM) (Sep) | 2.8% | 2.4% | 1.0% |
+| 22:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 0.8% |  | 1.5% |
+| 22:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 15 min | USD | Low | Natural Gas Storage |  | 80B | 74B |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.295% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
