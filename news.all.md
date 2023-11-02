@@ -44,24 +44,26 @@
 | 19:00 | EUR | Low | Car Registration (YoY) (Oct) | 18.10% |  | 2.30% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:30 | USD | Low | Challenger Job Cuts (Oct) | 36.836K |  | 47.457K |
+| 19:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | 58.2% |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Nov) | 0 | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Nov) | 3 | 2 | 4 |
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Nov) | 6 | 7 | 5 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Nov) | 5.25% | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
 | 20:30 | USD | Low | Continuing Jobless Claims | 1,818K | 1,800K | 1,783K |
 | 20:30 | USD | High | Initial Jobless Claims | 217K | 210K | 212K |
 | 20:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.00K |  | 208.00K |
 | 20:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 4.7% | 4.1% | 3.6% |
 | 20:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -0.8% | 0.7% | 3.2% |
-| 30 min | SGD | Low | S&P Global Singapore PMI (Oct) |  |  | 50.1 |
-| 22:00 | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
-| 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
-| 22:00 | USD | Moderate | Factory Orders (MoM) (Sep) |  | 2.4% | 1.2% |
-| 22:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 1.4% |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Oct) | 50.2 |  | 50.1 |
+| 41 min | USD | Low | Durables Excluding Defense (MoM) (Sep) |  |  | 5.8% |
+| 41 min | USD | Low | Durables Excluding Transport (MoM) (Sep) |  |  | 0.4% |
+| 41 min | USD | Moderate | Factory Orders (MoM) (Sep) |  | 2.4% | 1.2% |
+| 41 min | USD | Low | Factory orders ex transportation (MoM) (Sep) |  |  | 1.4% |
 | Tentative | USD | Low | Total Vehicle Sales |  | 15.30M | 15.67M |
-| 22:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 56 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 22:30 | USD | Low | Natural Gas Storage |  | 80B | 74B |
+| 23:00 | USD | Low | All Car Sales (Oct) | 3.10M |  | 3.22M |
+| 23:00 | USD | Low | All Truck Sales (Oct) | 12.40M |  | 12.46M |
 | 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.295% |
 | 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
