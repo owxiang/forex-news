@@ -5,8 +5,8 @@
 | 04:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
-| 08:30 | AUD | Home Loans (MoM) |  | 1.2% | 2.6% |
-| 08:30 | AUD | Trade Balance (Sep) |  | 9.500B | 9.640B |
+| 08:30 | AUD | Home Loans (MoM) | -0.1% | 1.2% | 2.6% |
+| 08:30 | AUD | Trade Balance (Sep) | 6.786B | 9.500B | 10.161B |
 | 11:35 | JPY | 10-Year JGB Auction |  |  | 0.768% |
 | 15:30 | CHF | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 16:00 | CHF | SECO Consumer Climate (Q4) |  |  | -8 |

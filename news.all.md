@@ -9,17 +9,17 @@
 | 04:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 04:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision | 12.25% | 12.25% | 12.75% |
-| 07:00 | KRW | Low | CPI (MoM) (Oct) |  | 0.2% | 0.6% |
-| 07:00 | KRW | Low | CPI (YoY) (Oct) |  | 3.6% | 3.7% |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -151.7B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 214.7B |
-| 34 min | JPY | Low | Monetary Base (YoY) (Oct) |  | 5.9% | 5.9% |
-| 08:30 | AUD | Low | Exports (MoM) (Sep) |  |  | 4.0% |
-| 08:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.6% |
-| 08:30 | AUD | Low | Imports (MoM) (Sep) |  |  | -0.4% |
-| 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 1.6% |
-| 08:30 | AUD | Moderate | Trade Balance (Sep) |  | 9.500B | 9.640B |
-| 10:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 07:00 | KRW | Low | CPI (YoY) (Oct) | 3.8% | 3.6% | 3.7% |
+| 07:00 | KRW | Low | CPI (MoM) (Oct) | 0.3% | 0.2% | 0.6% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 238.5B |  | -147.8B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 10.6B |  | 214.7B |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Oct) | 9.5% | 5.9% | 5.6% |
+| 08:30 | AUD | Low | Exports (MoM) (Sep) | -1.4% |  | 4.6% |
+| 08:30 | AUD | Moderate | Home Loans (MoM) | -0.1% | 1.2% | 2.6% |
+| 08:30 | AUD | Low | Imports (MoM) (Sep) | 7.5% |  | 0.0% |
+| 08:30 | AUD | Low | Invest Housing Finance (MoM) | 2.0% |  | 1.6% |
+| 08:30 | AUD | Moderate | Trade Balance (Sep) | 6.786B | 9.500B | 10.161B |
+| 52 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 10:30 | HKD | Low | Interest Rate Decision |  |  | 5.75% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.768% |
 | 15:30 | CHF | Low | CPI (YoY) (Oct) |  | 1.8% | 1.7% |
@@ -40,8 +40,8 @@
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.027% |
-| 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Low | Car Registration (MoM) (Oct) |  |  | 23.00% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Oct) |  |  | 2.30% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:30 | USD | Low | Challenger Job Cuts (Oct) |  |  | 47.457K |
 | 19:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 58.2% |
