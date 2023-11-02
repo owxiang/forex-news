@@ -3,6 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:45 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 01:00 | EUR | Low | Italian Car Registration (YoY) | 20.0% |  | 22.8% |
 | 01:00 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,908B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
@@ -15,8 +16,8 @@
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Oct) |  |  | 61.0 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 13:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
 | 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |
