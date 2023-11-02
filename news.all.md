@@ -8,16 +8,16 @@
 | 04:30 | USD | Moderate | Fed's Balance Sheet | 7,867B |  | 7,908B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.315T |  | 3.264T |
 | 05:00 | KRW | Low | FX Reserves - USD (Oct) | 412.87B |  | 414.12B |
-| 47 min | AUD | Low | Judo Bank Australia Services PMI |  | 47.6 | 51.8 |
-| 06:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 | 47.6 | 51.8 |
+| 18 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 07:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) |  | -0.3% | 0.2% |
 | 08:30 | AUD | Low | Retail Sales (QoQ) (Q3) |  |  | -0.5% |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Oct) |  |  | 61.0 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 13:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
 | 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
 | 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |
@@ -38,12 +38,12 @@
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Oct) |  |  | 73.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | 0K | 17K |
