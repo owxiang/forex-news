@@ -33,6 +33,7 @@
 | 22:00 | USD | Durables Excluding Defense (MoM) (Sep) | 5.7% |  | 5.8% |
 | 22:00 | USD | Durables Excluding Transport (MoM) (Sep) | 0.4% |  | 0.4% |
 | 22:00 | USD | Factory orders ex transportation (MoM) (Sep) | 0.8% |  | 1.5% |
-| 15 min | USD | Natural Gas Storage |  | 80B | 74B |
-| 23:30 | USD | 4-Week Bill Auction |  |  | 5.295% |
-| 23:30 | USD | 8-Week Bill Auction |  |  | 5.330% |
+| 22:00 | USD | Total Vehicle Sales | 15.50M | 15.30M | 15.67M |
+| 22:30 | USD | Natural Gas Storage | 79B | 80B | 74B |
+| 15 min | USD | 4-Week Bill Auction |  |  | 5.295% |
+| 15 min | USD | 8-Week Bill Auction |  |  | 5.330% |

@@ -62,7 +62,8 @@
 | 22:00 | USD | Low | Durables Excluding Transport (MoM) (Sep) | 0.4% |  | 0.4% |
 | 22:00 | USD | Moderate | Factory Orders (MoM) (Sep) | 2.8% | 2.4% | 1.0% |
 | 22:00 | USD | Low | Factory orders ex transportation (MoM) (Sep) | 0.8% |  | 1.5% |
+| 22:00 | USD | Low | Total Vehicle Sales | 15.50M | 15.30M | 15.67M |
 | 22:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 15 min | USD | Low | Natural Gas Storage |  | 80B | 74B |
-| 23:30 | USD | Low | 4-Week Bill Auction |  |  | 5.295% |
-| 23:30 | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
+| 22:30 | USD | Low | Natural Gas Storage | 79B | 80B | 74B |
+| 15 min | USD | Low | 4-Week Bill Auction |  |  | 5.295% |
+| 15 min | USD | Low | 8-Week Bill Auction |  |  | 5.330% |
