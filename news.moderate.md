@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:45 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 01:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet |  |  | 7,908B |
+| 14 min | USD | Fed's Balance Sheet |  |  | 7,908B |
 | 06:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:30 | AUD | Retail Sales (MoM) |  | -0.3% | 0.2% |
 | 09:45 | CNY | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
