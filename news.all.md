@@ -5,10 +5,10 @@
 | 00:45 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 01:00 | EUR | Low | Italian Car Registration (YoY) | 20.0% |  | 22.8% |
 | 01:00 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,908B |
-| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.264T |
-| 44 min | KRW | Low | FX Reserves - USD (Oct) |  |  | 414.12B |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  | 47.6 | 51.8 |
+| 04:30 | USD | Moderate | Fed's Balance Sheet | 7,867B |  | 7,908B |
+| 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.315T |  | 3.264T |
+| 05:00 | KRW | Low | FX Reserves - USD (Oct) | 412.87B |  | 414.12B |
+| 47 min | AUD | Low | Judo Bank Australia Services PMI |  | 47.6 | 51.8 |
 | 06:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 07:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) |  | -0.3% | 0.2% |
@@ -38,8 +38,8 @@
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
