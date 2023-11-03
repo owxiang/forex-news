@@ -18,14 +18,14 @@
 | 13:00 | INR | Low | S&P Global India Services PMI (Oct) | 58.4 | 60.5 | 61.0 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Sep) | -1.6% |  | 1.9% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
-| 40 min | EUR | Low | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
-| 40 min | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
-| 40 min | EUR | Moderate | German Trade Balance (Sep) |  | 16.3B | 16.6B |
-| 55 min | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
-| 15:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
-| 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | 19.8K |
-| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 15:00 | EUR | Low | German Exports (MoM) (Sep) | -2.4% | -1.1% | 0.1% |
+| 15:00 | EUR | Low | German Imports (MoM) (Sep) | -1.7% | 0.5% | -0.3% |
+| 15:00 | EUR | Moderate | German Trade Balance (Sep) | 16.5B | 16.3B | 17.7B |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
+| 31 min | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
+| 31 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
+| 46 min | EUR | Moderate | Spanish Unemployment Change |  |  | 19.8K |
+| 46 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
 | 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
 | 17:00 | NOK | Low | Unemployment Change (Oct) |  |  | 66.39K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
@@ -41,8 +41,8 @@
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
 | 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Oct) |  | 29.0K | 73.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -10K | 17K |

@@ -12,11 +12,11 @@
 | 13:00 | INR | S&P Global India Services PMI (Oct) | 58.4 | 60.5 | 61.0 |
 | 13:00 | SGD | Retail Sales (MoM) (Sep) | -1.6% |  | 1.9% |
 | 13:00 | SGD | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
-| 40 min | EUR | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
-| 40 min | EUR | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
-| 55 min | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
-| 15:45 | EUR | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
-| 15:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
+| 15:00 | EUR | German Exports (MoM) (Sep) | -2.4% | -1.1% | 0.1% |
+| 15:00 | EUR | German Imports (MoM) (Sep) | -1.7% | 0.5% | -0.3% |
+| 15:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
+| 31 min | EUR | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
+| 31 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
 | 17:00 | NOK | Unemployment Change (Oct) |  |  | 66.39K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
