@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
-| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
-| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 625 |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 496 |  | 504 |
+| 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 618 |  | 625 |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 3.375B |
 | 03:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -18.6K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 7.1K |

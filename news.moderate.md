@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
-| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 625 |
+| 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 496 |  | 504 |
+| 01:00 | USD | U.S. Baker Hughes Total Rig Count | 618 |  | 625 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | -18.6K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 300.8K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 149.4K |

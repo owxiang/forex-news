@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.375B |
+| 16 min | BRL | Foreign Exchange Flows |  |  | 3.375B |
 | 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 7.1K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -20.8K |
