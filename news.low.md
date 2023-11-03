@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -1.445B |  | -0.703B |
 | 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 13 min | USD | CFTC Aluminium speculative net positions |  |  | 7.1K |
-| 13 min | USD | CFTC Copper speculative net positions |  |  | -20.8K |
-| 13 min | USD | CFTC Corn speculative net positions |  |  | -48.3K |
-| 13 min | USD | CFTC Natural Gas speculative net positions |  |  | -70.3K |
-| 13 min | USD | CFTC Silver speculative net positions |  |  | 24.3K |
-| 13 min | USD | CFTC Soybeans speculative net positions |  |  | 36.5K |
-| 13 min | USD | CFTC Wheat speculative net positions |  |  | -59.9K |
-| 13 min | CAD | CFTC CAD speculative net positions |  |  | -48.6K |
-| 13 min | MXN | CFTC MXN speculative net positions |  |  | 37.9K |
-| 13 min | CHF | CFTC CHF speculative net positions |  |  | -15.1K |
-| 13 min | NZD | CFTC NZD speculative net positions |  |  | -12.9K |
+| 04:30 | USD | CFTC Aluminium speculative net positions | 7.1K |  | 7.1K |
+| 04:30 | USD | CFTC Copper speculative net positions | -17.2K |  | -20.8K |
+| 04:30 | USD | CFTC Corn speculative net positions | -87.7K |  | -48.3K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions | -54.7K |  | -70.3K |
+| 04:30 | USD | CFTC Silver speculative net positions | 20.2K |  | 24.3K |
+| 04:30 | USD | CFTC Soybeans speculative net positions | 16.3K |  | 36.5K |
+| 04:30 | USD | CFTC Wheat speculative net positions | -69.6K |  | -59.9K |
+| 04:30 | CAD | CFTC CAD speculative net positions | -49.3K |  | -48.6K |
+| 04:30 | MXN | CFTC MXN speculative net positions | 31.3K |  | 37.9K |
+| 04:30 | CHF | CFTC CHF speculative net positions | -14.9K |  | -15.1K |
+| 04:30 | NZD | CFTC NZD speculative net positions | -12.8K |  | -12.9K |
