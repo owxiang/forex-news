@@ -15,15 +15,15 @@
 | 08:30 | AUD | Low | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.6% |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
-| 13:00 | INR | Low | S&P Global India Services PMI (Oct) |  |  | 61.0 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
-| 13:00 | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
-| 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -0.4% | -1.2% |
-| 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.4% | -0.4% |
+| 41 min | INR | Low | S&P Global India Services PMI (Oct) |  | 60.5 | 61.0 |
+| 41 min | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
+| 41 min | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
+| 41 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
+| 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
 | 15:00 | EUR | Moderate | German Trade Balance (Sep) |  | 16.3B | 16.6B |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
-| 15:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | -0.1% | -0.3% |
+| 15:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
 | 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | 19.8K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
@@ -38,28 +38,29 @@
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  |  | 29.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
-| 20:30 | USD | Low | Government Payrolls (Oct) |  |  | 73.0K |
-| 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | 0K | 17K |
-| 20:30 | USD | High | Nonfarm Payrolls (Oct) |  | 188K | 336K |
+| 20:30 | USD | Low | Government Payrolls (Oct) |  | 29.0K | 73.0K |
+| 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -10K | 17K |
+| 20:30 | USD | High | Nonfarm Payrolls (Oct) |  | 180K | 336K |
 | 20:30 | USD | Moderate | Participation Rate (Oct) |  |  | 62.8% |
-| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 145K | 263K |
+| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 158K | 263K |
 | 20:30 | USD | Moderate | U6 Unemployment Rate (Oct) |  |  | 7.0% |
 | 20:30 | USD | High | Unemployment Rate (Oct) |  | 3.8% | 3.8% |
 | 20:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 5.3% |
-| 20:30 | CAD | Moderate | Employment Change (Oct) |  | 20.0K | 63.8K |
+| 20:30 | CAD | Moderate | Employment Change (Oct) |  | 22.5K | 63.8K |
 | 20:30 | CAD | Low | Full Employment Change (Oct) |  |  | 15.8K |
 | 20:30 | CAD | Low | Part Time Employment Change (Oct) |  |  | 47.9K |
 | 20:30 | CAD | Low | Participation Rate (Oct) |  |  | 65.6% |
 | 20:30 | CAD | Moderate | Unemployment Rate (Oct) |  | 5.6% | 5.5% |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  | 51.0 | 51.0 |
-| 21:45 | USD | High | S&P Global Services PMI (Oct) |  | 50.9 | 50.9 |
+| 21:45 | USD | High | S&P Global Services PMI (Oct) |  | 50.9 | 50.1 |
+| 22:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 22:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
 | 22:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) |  |  | 53.4 |
 | 22:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  |  | 51.8 |
