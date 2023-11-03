@@ -26,19 +26,20 @@
 | 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | -0.1% | 0.2% | 0.1% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change | 36.9K |  | 19.8K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) | 0.30% |  | 0.29% |
-| 41 min | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
-| 41 min | NOK | Low | Unemployment Change (Oct) |  |  | 66.39K |
-| 41 min | NOK | Low | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 49.2 | 49.2 |
-| 18:00 | NOK | Low | House Price Index (YoY) (Oct) |  |  | -1.30% |
-| 18:00 | EUR | Moderate | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
+| 17:00 | GBP | Low | BoE Hauser Speaks |  |  |  |
+| 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) | 7.4% | 7.4% | 7.3% |
+| 17:00 | NOK | Low | Unemployment Change (Oct) | 67.78K |  | 66.51K |
+| 17:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) | 1.80% |  | 1.80% |
+| 15 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |
+| 15 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 49.2 | 49.2 |
+| 45 min | NOK | Low | House Price Index (YoY) (Oct) |  |  | -1.30% |
+| 45 min | EUR | Moderate | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |

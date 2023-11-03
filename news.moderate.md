@@ -11,9 +11,9 @@
 | 15:00 | EUR | German Trade Balance (Sep) | 16.5B | 16.3B | 17.7B |
 | 16:00 | EUR | Spanish Unemployment Change | 36.9K |  | 19.8K |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) | 0.30% |  | 0.29% |
-| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 49.2 | 49.2 |
-| 18:00 | EUR | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
+| 15 min | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |
+| 15 min | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 49.2 | 49.2 |
+| 45 min | EUR | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
 | 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | Participation Rate (Oct) |  |  | 62.8% |
