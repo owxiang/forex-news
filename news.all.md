@@ -58,11 +58,11 @@
 | 20:30 | CAD | Low | Part Time Employment Change (Oct) | 20.8K |  | 47.9K |
 | 20:30 | CAD | Low | Participation Rate (Oct) | 65.6% | 65.6% | 65.6% |
 | 20:30 | CAD | Moderate | Unemployment Rate (Oct) | 5.7% | 5.6% | 5.5% |
-| 25 min | USD | Moderate | S&P Global Composite PMI (Oct) |  | 51.0 | 50.2 |
-| 25 min | USD | High | S&P Global Services PMI (Oct) |  | 50.9 | 50.1 |
-| 40 min | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
-| 40 min | USD | Low | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
-| 40 min | USD | Moderate | ISM Non-Manufacturing Employment (Oct) |  | 53.5 | 53.4 |
-| 40 min | USD | Low | ISM Non-Manufacturing New Orders (Oct) |  | 51.5 | 51.8 |
-| 40 min | USD | High | ISM Non-Manufacturing PMI (Oct) |  | 53.0 | 53.6 |
-| 40 min | USD | High | ISM Non-Manufacturing Prices (Oct) |  | 56.6 | 58.9 |
+| 21:45 | USD | Moderate | S&P Global Composite PMI (Oct) | 50.7 | 51.0 | 50.2 |
+| 21:45 | USD | High | S&P Global Services PMI (Oct) | 50.6 | 50.9 | 50.1 |
+| 22:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 22:00 | USD | Low | ISM Non-Manufacturing Business Activity (Oct) | 54.1 |  | 58.8 |
+| 22:00 | USD | Moderate | ISM Non-Manufacturing Employment (Oct) | 50.2 | 53.5 | 53.4 |
+| 22:00 | USD | Low | ISM Non-Manufacturing New Orders (Oct) | 55.5 | 51.5 | 51.8 |
+| 22:00 | USD | High | ISM Non-Manufacturing PMI (Oct) | 51.8 | 53.0 | 53.6 |
+| 22:00 | USD | High | ISM Non-Manufacturing Prices (Oct) | 58.6 | 56.6 | 58.9 |

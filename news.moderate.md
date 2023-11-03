@@ -21,6 +21,6 @@
 | 20:30 | USD | U6 Unemployment Rate (Oct) | 7.2% |  | 7.0% |
 | 20:30 | CAD | Employment Change (Oct) | 17.5K | 22.5K | 63.8K |
 | 20:30 | CAD | Unemployment Rate (Oct) | 5.7% | 5.6% | 5.5% |
-| 25 min | USD | S&P Global Composite PMI (Oct) |  | 51.0 | 50.2 |
-| 40 min | GBP | MPC Member Haskel Speaks |  |  |  |
-| 40 min | USD | ISM Non-Manufacturing Employment (Oct) |  | 53.5 | 53.4 |
+| 21:45 | USD | S&P Global Composite PMI (Oct) | 50.7 | 51.0 | 50.2 |
+| 22:00 | GBP | MPC Member Haskel Speaks |  |  |  |
+| 22:00 | USD | ISM Non-Manufacturing Employment (Oct) | 50.2 | 53.5 | 53.4 |

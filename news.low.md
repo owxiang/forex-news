@@ -36,5 +36,5 @@
 | 20:30 | CAD | Full Employment Change (Oct) | -3.3K |  | 15.8K |
 | 20:30 | CAD | Part Time Employment Change (Oct) | 20.8K |  | 47.9K |
 | 20:30 | CAD | Participation Rate (Oct) | 65.6% | 65.6% | 65.6% |
-| 40 min | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
-| 40 min | USD | ISM Non-Manufacturing New Orders (Oct) |  | 51.5 | 51.8 |
+| 22:00 | USD | ISM Non-Manufacturing Business Activity (Oct) | 54.1 |  | 58.8 |
+| 22:00 | USD | ISM Non-Manufacturing New Orders (Oct) | 55.5 | 51.5 | 51.8 |
