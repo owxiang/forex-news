@@ -14,19 +14,19 @@
 | 13:00 | SGD | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
 | 15:00 | EUR | German Exports (MoM) (Sep) | -2.4% | -1.1% | 0.1% |
 | 15:00 | EUR | German Imports (MoM) (Sep) | -1.7% | 0.5% | -0.3% |
-| 15:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
-| 31 min | EUR | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
-| 31 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 17:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
-| 17:00 | NOK | Unemployment Change (Oct) |  |  | 66.39K |
-| 17:00 | NOK | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
+| 15:15 | ZAR | S&P Global South Africa PMI (Oct) | 48.9 |  | 49.9 |
+| 15:45 | EUR | French Industrial Production (MoM) (Sep) | -0.5% | 0.0% | -0.1% |
+| 15:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | -0.1% | 0.2% | 0.1% |
+| 41 min | EUR | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
+| 41 min | NOK | Unemployment Change (Oct) |  |  | 66.39K |
+| 41 min | NOK | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
 | 18:00 | NOK | House Price Index (YoY) (Oct) |  |  | -1.30% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.3% |
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
 | 20:15 | CAD | Reserve Assets Total (Oct) |  |  | 112.4B |
 | 20:30 | USD | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Government Payrolls (Oct) |  | 29.0K | 73.0K |

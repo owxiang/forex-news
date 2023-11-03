@@ -21,14 +21,14 @@
 | 15:00 | EUR | Low | German Exports (MoM) (Sep) | -2.4% | -1.1% | 0.1% |
 | 15:00 | EUR | Low | German Imports (MoM) (Sep) | -1.7% | 0.5% | -0.3% |
 | 15:00 | EUR | Moderate | German Trade Balance (Sep) | 16.5B | 16.3B | 17.7B |
-| 15:15 | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
-| 31 min | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
-| 31 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
-| 46 min | EUR | Moderate | Spanish Unemployment Change |  |  | 19.8K |
-| 46 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
-| 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
-| 17:00 | NOK | Low | Unemployment Change (Oct) |  |  | 66.39K |
-| 17:00 | NOK | Low | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Oct) | 48.9 |  | 49.9 |
+| 15:45 | EUR | Low | French Industrial Production (MoM) (Sep) | -0.5% | 0.0% | -0.1% |
+| 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | -0.1% | 0.2% | 0.1% |
+| 16:00 | EUR | Moderate | Spanish Unemployment Change | 36.9K |  | 19.8K |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Oct) | 0.30% |  | 0.29% |
+| 41 min | EUR | Low | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
+| 41 min | NOK | Low | Unemployment Change (Oct) |  |  | 66.39K |
+| 41 min | NOK | Low | Unemployment Rate n.s.a. (Oct) |  |  | 1.80% |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) |  | 49.2 | 49.2 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Oct) |  |  | -1.30% |
@@ -37,12 +37,12 @@
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Oct) |  | 29.0K | 73.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -10K | 17K |

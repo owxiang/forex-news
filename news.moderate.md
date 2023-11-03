@@ -9,8 +9,8 @@
 | 08:30 | AUD | Retail Sales (MoM) | 0.9% | -0.3% | 0.3% |
 | 09:45 | CNY | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
 | 15:00 | EUR | German Trade Balance (Sep) | 16.5B | 16.3B | 17.7B |
-| 46 min | EUR | Spanish Unemployment Change |  |  | 19.8K |
-| 46 min | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
+| 16:00 | EUR | Spanish Unemployment Change | 36.9K |  | 19.8K |
+| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) | 0.30% |  | 0.29% |
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) |  | 49.2 | 49.2 |
 | 18:00 | EUR | Unemployment Rate (Sep) |  | 6.4% | 6.4% |
