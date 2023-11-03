@@ -9,10 +9,9 @@
 | 07:50 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 08:30 | AUD | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.6% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
-| 41 min | INR | S&P Global India Services PMI (Oct) |  | 60.5 | 61.0 |
-| 41 min | SGD | Retail Sales (MoM) (Sep) |  |  | 1.7% |
-| 41 min | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |
-| 41 min | NZD | M3 Money Supply (Sep) |  |  | 403.4B |
+| 13:00 | INR | S&P Global India Services PMI (Oct) | 58.4 | 60.5 | 61.0 |
+| 13:00 | SGD | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
+| 13:00 | SGD | Retail Sales (MoM) (Sep) | -1.6% |  | 1.9% |
 | 15:00 | EUR | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
 | 15:00 | EUR | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |

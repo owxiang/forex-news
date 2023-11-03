@@ -15,10 +15,9 @@
 | 08:30 | AUD | Low | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.6% |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
-| 41 min | INR | Low | S&P Global India Services PMI (Oct) |  | 60.5 | 61.0 |
-| 41 min | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
-| 41 min | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
-| 41 min | NZD | Low | M3 Money Supply (Sep) |  |  | 403.4B |
+| 13:00 | INR | Low | S&P Global India Services PMI (Oct) | 58.4 | 60.5 | 61.0 |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Sep) | -1.6% |  | 1.9% |
 | 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
 | 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
 | 15:00 | EUR | Moderate | German Trade Balance (Sep) |  | 16.3B | 16.6B |
