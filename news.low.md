@@ -21,7 +21,7 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Sep) | 7.4% | 7.4% | 7.3% |
 | 17:00 | NOK | Unemployment Change (Oct) | 67.78K |  | 66.51K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.80% |  | 1.80% |
-| 45 min | NOK | House Price Index (YoY) (Oct) |  |  | -1.30% |
+| 18:00 | NOK | House Price Index (YoY) (Oct) | -0.50% |  | -1.30% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.3% |
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD |  |  | 583.53B |
