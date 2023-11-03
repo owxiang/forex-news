@@ -12,9 +12,9 @@
 | 06:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 07:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) | 0.9% | -0.3% | 0.3% |
-| 08:30 | AUD | Low | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.5% |
+| 08:30 | AUD | Low | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.6% |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
-| 36 min | CNY | Moderate | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
+| 09:45 | CNY | Moderate | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Oct) |  |  | 61.0 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Sep) |  |  | 4.0% |
