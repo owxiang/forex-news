@@ -1,26 +1,16 @@
-## 03 November 2023 - Moderate Impact Forex News
+## 04 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:45 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 01:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 04:30 | USD | Fed's Balance Sheet | 7,867B |  | 7,908B |
-| 06:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 08:30 | AUD | Retail Sales (MoM) | 0.9% | -0.3% | 0.3% |
-| 09:45 | CNY | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
-| 15:00 | EUR | German Trade Balance (Sep) | 16.5B | 16.3B | 17.7B |
-| 16:00 | EUR | Spanish Unemployment Change | 36.9K |  | 19.8K |
-| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) | 0.30% |  | 0.29% |
-| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) | 48.7 | 48.6 | 48.6 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Oct) | 49.5 | 49.2 | 49.2 |
-| 18:00 | EUR | Unemployment Rate (Sep) | 6.5% | 6.4% | 6.4% |
-| 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) | 4.1% | 4.0% | 4.3% |
-| 20:30 | USD | Participation Rate (Oct) | 62.7% | 62.8% | 62.8% |
-| 20:30 | USD | Private Nonfarm Payrolls (Oct) | 99K | 158K | 246K |
-| 20:30 | USD | U6 Unemployment Rate (Oct) | 7.2% |  | 7.0% |
-| 20:30 | CAD | Employment Change (Oct) | 17.5K | 22.5K | 63.8K |
-| 20:30 | CAD | Unemployment Rate (Oct) | 5.7% | 5.6% | 5.5% |
-| 21:45 | USD | S&P Global Composite PMI (Oct) | 50.7 | 51.0 | 50.2 |
-| 22:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 22:00 | USD | ISM Non-Manufacturing Employment (Oct) | 50.2 | 53.5 | 53.4 |
+| 00:00 | GBP | MPC Member Haskel Speaks |  |  |  |
+| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
+| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 625 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | -18.6K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 300.8K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 149.4K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.7K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | 10.2K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -83.1K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 5.2K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -99.6K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 85.3K |
