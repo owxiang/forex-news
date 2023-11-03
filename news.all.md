@@ -34,16 +34,16 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 49.5 | 49.2 | 49.2 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Oct) | -0.50% |  | -1.30% |
 | 18:00 | EUR | Moderate | Unemployment Rate (Sep) | 6.5% | 6.4% | 6.4% |
-| 19:30 | INR | Low | Bank Loan Growth |  |  | 19.3% |
-| 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
-| 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 19.3% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.6% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 583.53B |
+| 47 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 47 min | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
+| 47 min | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
 | 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Low | Government Payrolls (Oct) |  | 29.0K | 73.0K |
 | 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -10K | 17K |
