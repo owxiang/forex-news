@@ -6,9 +6,9 @@
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks | 3.315T |  | 3.264T |
 | 05:00 | KRW | FX Reserves - USD (Oct) | 412.87B |  | 414.12B |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.9 | 47.6 | 51.8 |
-| 35 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 08:30 | AUD | Retail Sales (QoQ) (Q3) |  |  | -0.5% |
-| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) |  |  | 49.6 |
+| 07:50 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 08:30 | AUD | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.5% |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
 | 13:00 | INR | S&P Global India Services PMI (Oct) |  |  | 61.0 |
 | 13:00 | SGD | Retail Sales (MoM) (Sep) |  |  | 1.7% |
 | 13:00 | SGD | Retail Sales (YoY) (Sep) |  |  | 4.0% |

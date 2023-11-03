@@ -6,8 +6,8 @@
 | 01:00 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 04:30 | USD | Fed's Balance Sheet | 7,867B |  | 7,908B |
 | 06:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 08:30 | AUD | Retail Sales (MoM) |  | -0.3% | 0.2% |
-| 09:45 | CNY | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
+| 08:30 | AUD | Retail Sales (MoM) | 0.9% | -0.3% | 0.3% |
+| 36 min | CNY | Caixin Services PMI (Oct) |  | 51.2 | 50.2 |
 | 15:00 | EUR | German Trade Balance (Sep) |  | 16.3B | 16.6B |
 | 16:00 | EUR | Spanish Unemployment Change |  |  | 19.8K |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
