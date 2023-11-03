@@ -34,30 +34,30 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Oct) | 49.5 | 49.2 | 49.2 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Oct) | -0.50% |  | -1.30% |
 | 18:00 | EUR | Moderate | Unemployment Rate (Sep) | 6.5% | 6.4% | 6.4% |
-| 17 min | INR | Low | Bank Loan Growth |  |  | 19.3% |
-| 17 min | INR | Low | Deposit Growth |  |  | 13.6% |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 583.53B |
-| 47 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 47 min | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
-| 47 min | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
+| 19:30 | INR | Low | Bank Loan Growth | 19.7% |  | 19.3% |
+| 19:30 | INR | Low | Deposit Growth | 13.4% |  | 13.6% |
+| 19:30 | INR | Low | FX Reserves, USD | 586.11B |  | 583.53B |
+| 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) | 3.10% |  | 0.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) | 32.00% | 28.50% | 29.10% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |
-| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) |  | 4.0% | 4.2% |
-| 20:30 | USD | Low | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
-| 20:30 | USD | Low | Government Payrolls (Oct) |  | 29.0K | 73.0K |
-| 20:30 | USD | Low | Manufacturing Payrolls (Oct) |  | -10K | 17K |
-| 20:30 | USD | High | Nonfarm Payrolls (Oct) |  | 180K | 336K |
-| 20:30 | USD | Moderate | Participation Rate (Oct) |  |  | 62.8% |
-| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) |  | 158K | 263K |
-| 20:30 | USD | Moderate | U6 Unemployment Rate (Oct) |  |  | 7.0% |
-| 20:30 | USD | High | Unemployment Rate (Oct) |  | 3.8% | 3.8% |
-| 20:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) |  |  | 5.3% |
-| 20:30 | CAD | Moderate | Employment Change (Oct) |  | 22.5K | 63.8K |
-| 20:30 | CAD | Low | Full Employment Change (Oct) |  |  | 15.8K |
-| 20:30 | CAD | Low | Part Time Employment Change (Oct) |  |  | 47.9K |
-| 20:30 | CAD | Low | Participation Rate (Oct) |  |  | 65.6% |
-| 20:30 | CAD | Moderate | Unemployment Rate (Oct) |  | 5.6% | 5.5% |
+| 20:15 | CAD | Low | Reserve Assets Total (Oct) | 112.5B |  | 112.4B |
+| 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) | 0.2% | 0.3% | 0.3% |
+| 20:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Oct) | 4.1% | 4.0% | 4.3% |
+| 20:30 | USD | Low | Average Weekly Hours (Oct) | 34.3 | 34.4 | 34.4 |
+| 20:30 | USD | Low | Government Payrolls (Oct) | 51.0K | 29.0K | 51.0K |
+| 20:30 | USD | Low | Manufacturing Payrolls (Oct) | -35K | -10K | 14K |
+| 20:30 | USD | High | Nonfarm Payrolls (Oct) | 150K | 180K | 297K |
+| 20:30 | USD | Moderate | Participation Rate (Oct) | 62.7% |  | 62.8% |
+| 20:30 | USD | Moderate | Private Nonfarm Payrolls (Oct) | 99K | 158K | 246K |
+| 20:30 | USD | Moderate | U6 Unemployment Rate (Oct) | 7.2% |  | 7.0% |
+| 20:30 | USD | High | Unemployment Rate (Oct) | 3.9% | 3.8% | 3.8% |
+| 20:30 | CAD | Low | Avg hourly wages Permanent employee (Oct) | 5.0% |  | 5.3% |
+| 20:30 | CAD | Moderate | Employment Change (Oct) | 17.5K | 22.5K | 63.8K |
+| 20:30 | CAD | Low | Full Employment Change (Oct) | -3.3K |  | 15.8K |
+| 20:30 | CAD | Low | Part Time Employment Change (Oct) | 20.8K |  | 47.9K |
+| 20:30 | CAD | Low | Participation Rate (Oct) | 65.6% |  | 65.6% |
+| 20:30 | CAD | Moderate | Unemployment Rate (Oct) | 5.7% | 5.6% | 5.5% |
 | 21:45 | USD | Moderate | S&P Global Composite PMI (Oct) |  | 51.0 | 51.0 |
 | 21:45 | USD | High | S&P Global Services PMI (Oct) |  | 50.9 | 50.1 |
 | 22:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |

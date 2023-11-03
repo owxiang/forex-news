@@ -22,19 +22,19 @@
 | 17:00 | NOK | Unemployment Change (Oct) | 67.78K |  | 66.51K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Oct) | 1.80% |  | 1.80% |
 | 18:00 | NOK | House Price Index (YoY) (Oct) | -0.50% |  | -1.30% |
-| 17 min | INR | Bank Loan Growth |  |  | 19.3% |
-| 17 min | INR | Deposit Growth |  |  | 13.6% |
-| 17 min | INR | FX Reserves, USD |  |  | 583.53B |
-| 47 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 47 min | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
-| 47 min | MXN | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
-| 20:15 | CAD | Reserve Assets Total (Oct) |  |  | 112.4B |
-| 20:30 | USD | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
-| 20:30 | USD | Government Payrolls (Oct) |  | 29.0K | 73.0K |
-| 20:30 | USD | Manufacturing Payrolls (Oct) |  | -10K | 17K |
-| 20:30 | CAD | Avg hourly wages Permanent employee (Oct) |  |  | 5.3% |
-| 20:30 | CAD | Full Employment Change (Oct) |  |  | 15.8K |
-| 20:30 | CAD | Part Time Employment Change (Oct) |  |  | 47.9K |
-| 20:30 | CAD | Participation Rate (Oct) |  |  | 65.6% |
+| 19:30 | INR | Bank Loan Growth | 19.7% |  | 19.3% |
+| 19:30 | INR | Deposit Growth | 13.4% |  | 13.6% |
+| 19:30 | INR | FX Reserves, USD | 586.11B |  | 583.53B |
+| 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Aug) | 3.10% |  | 0.50% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) | 32.00% | 28.50% | 29.10% |
+| 20:15 | CAD | Reserve Assets Total (Oct) | 112.5B |  | 112.4B |
+| 20:30 | USD | Average Weekly Hours (Oct) | 34.3 | 34.4 | 34.4 |
+| 20:30 | USD | Government Payrolls (Oct) | 51.0K | 29.0K | 51.0K |
+| 20:30 | USD | Manufacturing Payrolls (Oct) | -35K | -10K | 14K |
+| 20:30 | CAD | Avg hourly wages Permanent employee (Oct) | 5.0% |  | 5.3% |
+| 20:30 | CAD | Full Employment Change (Oct) | -3.3K |  | 15.8K |
+| 20:30 | CAD | Part Time Employment Change (Oct) | 20.8K |  | 47.9K |
+| 20:30 | CAD | Participation Rate (Oct) | 65.6% |  | 65.6% |
 | 22:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
 | 22:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 51.8 |
