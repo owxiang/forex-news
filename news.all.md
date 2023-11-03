@@ -5,7 +5,8 @@
 | 00:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 01:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 496 |  | 504 |
 | 01:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 618 |  | 625 |
-| 03:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -1.445B |  | -0.703B |
+| 18 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -18.6K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 7.1K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -20.8K |
