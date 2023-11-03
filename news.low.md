@@ -32,9 +32,9 @@
 | 20:30 | USD | Average Weekly Hours (Oct) | 34.3 | 34.4 | 34.4 |
 | 20:30 | USD | Government Payrolls (Oct) | 51.0K | 29.0K | 51.0K |
 | 20:30 | USD | Manufacturing Payrolls (Oct) | -35K | -10K | 14K |
-| 20:30 | CAD | Avg hourly wages Permanent employee (Oct) | 5.0% |  | 5.3% |
+| 20:30 | CAD | Avg hourly wages Permanent employee (Oct) | 5.0% | 5.2% | 5.3% |
 | 20:30 | CAD | Full Employment Change (Oct) | -3.3K |  | 15.8K |
 | 20:30 | CAD | Part Time Employment Change (Oct) | 20.8K |  | 47.9K |
-| 20:30 | CAD | Participation Rate (Oct) | 65.6% |  | 65.6% |
-| 22:00 | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
-| 22:00 | USD | ISM Non-Manufacturing New Orders (Oct) |  |  | 51.8 |
+| 20:30 | CAD | Participation Rate (Oct) | 65.6% | 65.6% | 65.6% |
+| 40 min | USD | ISM Non-Manufacturing Business Activity (Oct) |  |  | 58.8 |
+| 40 min | USD | ISM Non-Manufacturing New Orders (Oct) |  | 51.5 | 51.8 |

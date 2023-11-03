@@ -16,11 +16,11 @@
 | 18:00 | EUR | Unemployment Rate (Sep) | 6.5% | 6.4% | 6.4% |
 | 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 20:30 | USD | Average Hourly Earnings (YoY) (YoY) (Oct) | 4.1% | 4.0% | 4.3% |
-| 20:30 | USD | Participation Rate (Oct) | 62.7% |  | 62.8% |
+| 20:30 | USD | Participation Rate (Oct) | 62.7% | 62.8% | 62.8% |
 | 20:30 | USD | Private Nonfarm Payrolls (Oct) | 99K | 158K | 246K |
 | 20:30 | USD | U6 Unemployment Rate (Oct) | 7.2% |  | 7.0% |
 | 20:30 | CAD | Employment Change (Oct) | 17.5K | 22.5K | 63.8K |
 | 20:30 | CAD | Unemployment Rate (Oct) | 5.7% | 5.6% | 5.5% |
-| 21:45 | USD | S&P Global Composite PMI (Oct) |  | 51.0 | 51.0 |
-| 22:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 22:00 | USD | ISM Non-Manufacturing Employment (Oct) |  |  | 53.4 |
+| 25 min | USD | S&P Global Composite PMI (Oct) |  | 51.0 | 50.2 |
+| 40 min | GBP | MPC Member Haskel Speaks |  |  |  |
+| 40 min | USD | ISM Non-Manufacturing Employment (Oct) |  | 53.5 | 53.4 |
