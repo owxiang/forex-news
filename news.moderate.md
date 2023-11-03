@@ -8,7 +8,7 @@
 | 06:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:30 | AUD | Retail Sales (MoM) | 0.9% | -0.3% | 0.3% |
 | 09:45 | CNY | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
-| 15:00 | EUR | German Trade Balance (Sep) |  | 16.3B | 16.6B |
+| 40 min | EUR | German Trade Balance (Sep) |  | 16.3B | 16.6B |
 | 16:00 | EUR | Spanish Unemployment Change |  |  | 19.8K |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Oct) |  |  | 0.29% |
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Oct) |  | 48.6 | 48.6 |

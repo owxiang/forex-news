@@ -16,12 +16,12 @@
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Oct) | 50.4 | 51.2 | 50.2 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Oct) | 58.4 | 60.5 | 61.0 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Sep) | -1.6% |  | 1.9% |
-| 15:00 | EUR | Low | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
-| 15:00 | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
-| 15:00 | EUR | Moderate | German Trade Balance (Sep) |  | 16.3B | 16.6B |
-| 15:15 | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
+| 40 min | EUR | Low | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
+| 40 min | EUR | Low | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
+| 40 min | EUR | Moderate | German Trade Balance (Sep) |  | 16.3B | 16.6B |
+| 55 min | ZAR | Low | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
 | 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | 19.8K |
@@ -37,8 +37,8 @@
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 20:15 | CAD | Low | Reserve Assets Total (Oct) |  |  | 112.4B |
 | 20:30 | USD | High | Average Hourly Earnings (MoM) (Oct) |  | 0.3% | 0.2% |

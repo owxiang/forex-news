@@ -10,11 +10,11 @@
 | 08:30 | AUD | Retail Sales (QoQ) (Q3) | 0.2% |  | -0.6% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Oct) | 48.9 |  | 49.6 |
 | 13:00 | INR | S&P Global India Services PMI (Oct) | 58.4 | 60.5 | 61.0 |
-| 13:00 | SGD | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
 | 13:00 | SGD | Retail Sales (MoM) (Sep) | -1.6% |  | 1.9% |
-| 15:00 | EUR | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
-| 15:00 | EUR | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
-| 15:15 | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
+| 13:00 | SGD | Retail Sales (YoY) (Sep) | 0.6% |  | 4.2% |
+| 40 min | EUR | German Exports (MoM) (Sep) |  | -1.1% | -1.2% |
+| 40 min | EUR | German Imports (MoM) (Sep) |  | 0.5% | -0.4% |
+| 55 min | ZAR | S&P Global South Africa PMI (Oct) |  |  | 49.9 |
 | 15:45 | EUR | French Industrial Production (MoM) (Sep) |  | 0.0% | -0.3% |
 | 15:45 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | 0.2% | 0.1% |
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Sep) |  | 7.4% | 7.3% |
@@ -25,8 +25,8 @@
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD |  |  | 583.53B |
 | 20:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Aug) |  | 28.50% | 29.10% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Aug) |  |  | 0.50% |
 | 20:15 | CAD | Reserve Assets Total (Oct) |  |  | 112.4B |
 | 20:30 | USD | Average Weekly Hours (Oct) |  | 34.4 | 34.4 |
 | 20:30 | USD | Government Payrolls (Oct) |  | 29.0K | 73.0K |
