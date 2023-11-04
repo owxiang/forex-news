@@ -5,16 +5,18 @@
 | 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.0% |
 | 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.3% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -0.1% |
-| 12:00 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 12:00 | IDR | GDP (YoY) (Q3) |  | 5.05% | 5.17% |
+| 12:00 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 16:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
-| 16:50 | EUR | HCOB France Composite PMI (Oct) |  | 45.3 | 45.3 |
-| 16:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 45.8 | 45.8 |
+| 16:50 | EUR | HCOB France Composite PMI (Oct) |  | 45.3 | 44.1 |
+| 16:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 45.8 | 46.4 |
 | 17:00 | GBP | Car Registration (MoM) |  |  | 218.3% |
 | 17:00 | GBP | Car Registration (YoY) |  |  | 21.0% |
 | 17:30 | EUR | Sentix Investor Confidence (Nov) |  |  | -21.9 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19:30 | BRL | Current Account (USD) (Sep) |  | -1.40B | -0.78B |
+| 19:30 | BRL | Foreign direct investment (USD) (Sep) |  | 4.70B | 4.27B |
 | 20:00 | MXN | Consumer Confidence |  |  | 46.8 |
 | 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 21:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 49.0 |
