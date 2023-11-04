@@ -17,8 +17,8 @@
 | 16:50 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 46.1 | 44.4 |
 | 16:55 | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 45.8 | 46.4 |
 | 16:55 | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 48.0 | 50.3 |
-| 17:00 | GBP | Low | Car Registration (MoM) |  |  | 218.3% |
 | 17:00 | GBP | Low | Car Registration (YoY) |  |  | 21.0% |
+| 17:00 | GBP | Low | Car Registration (MoM) |  |  | 218.3% |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 46.5 | 47.2 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 47.8 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 46.0 | 45.0 |
