@@ -1,16 +1,15 @@
-## 04 November 2023 - Moderate Impact Forex News
+## 06 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 01:00 | USD | U.S. Baker Hughes Oil Rig Count | 496 |  | 504 |
-| 01:00 | USD | U.S. Baker Hughes Total Rig Count | 618 |  | 625 |
-| 04:30 | GBP | CFTC GBP speculative net positions | -20.4K |  | -18.6K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 262.3K |  | 300.8K |
-| 04:30 | USD | CFTC Gold speculative net positions | 163.4K |  | 149.4K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | 6.7K |  | 2.7K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | 4.3K |  | 10.2K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -75.1K |  | -83.1K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 9.3K |  | 5.2K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -103.8K |  | -99.6K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 85.4K |  | 85.3K |
+| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI (Oct) |  | 51.1 | 51.1 |
+| 15:00 | EUR | German Factory Orders (MoM) (Sep) |  | -1.1% | 3.9% |
+| 16:15 | EUR | HCOB Spain Services PMI (Oct) |  | 49.5 | 50.5 |
+| 16:45 | EUR | HCOB Italy Services PMI (Oct) |  | 49.5 | 49.9 |
+| 16:50 | EUR | HCOB France Services PMI (Oct) |  | 46.1 | 46.1 |
+| 16:55 | EUR | HCOB Germany Services PMI (Oct) |  | 48.0 | 48.0 |
+| 17:00 | EUR | HCOB Eurozone Composite PMI (Oct) |  | 46.5 | 46.5 |
+| 17:00 | EUR | HCOB Eurozone Services PMI (Oct) |  | 47.8 | 47.8 |
+| 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Oct) |  |  | 45.0 |
+| 23:00 | CAD | Ivey PMI (Oct) |  |  | 53.1 |

@@ -1,17 +1,26 @@
-## 04 November 2023 - Low Impact Forex News
+## 06 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows | -1.445B |  | -0.703B |
-| 03:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 04:30 | USD | CFTC Aluminium speculative net positions | 7.1K |  | 7.1K |
-| 04:30 | USD | CFTC Copper speculative net positions | -17.2K |  | -20.8K |
-| 04:30 | USD | CFTC Corn speculative net positions | -87.7K |  | -48.3K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -54.7K |  | -70.3K |
-| 04:30 | USD | CFTC Silver speculative net positions | 20.2K |  | 24.3K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | 16.3K |  | 36.5K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -69.6K |  | -59.9K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -49.3K |  | -48.6K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 31.3K |  | 37.9K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -14.9K |  | -15.1K |
-| 04:30 | NZD | CFTC NZD speculative net positions | -12.8K |  | -12.9K |
+| 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.0% |
+| 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.3% |
+| 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -0.1% |
+| 12:00 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
+| 12:00 | IDR | GDP (YoY) (Q3) |  | 5.05% | 5.17% |
+| 16:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
+| 16:50 | EUR | HCOB France Composite PMI (Oct) |  | 45.3 | 45.3 |
+| 16:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 45.8 | 45.8 |
+| 17:00 | GBP | Car Registration (MoM) |  |  | 218.3% |
+| 17:00 | GBP | Car Registration (YoY) |  |  | 21.0% |
+| 17:30 | EUR | Sentix Investor Confidence (Nov) |  |  | -21.9 |
+| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Consumer Confidence |  |  | 46.8 |
+| 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.4 |
+| 21:00 | BRL | S&P Global Composite PMI (Oct) |  |  | 49.0 |
+| 21:00 | BRL | S&P Global Services PMI (Oct) |  |  | 48.7 |
+| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.711% |
+| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.745% |
+| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.797% |
+| 23:00 | USD | CB Employment Trends Index (Oct) |  |  | 114.66 |
+| 23:00 | CAD | Ivey PMI n.s.a (Oct) |  |  | 54.2 |
