@@ -7,8 +7,8 @@
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 1.3% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -0.1% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) |  | 51.1 | 51.1 |
-| 12:00 | IDR | Low | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 12:00 | IDR | Low | GDP (YoY) (Q3) |  | 5.05% | 5.17% |
+| 12:00 | IDR | Low | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) |  | -1.1% | 3.9% |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 49.5 | 50.5 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
