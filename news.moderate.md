@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 36 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Oct) |  | 51.1 | 51.1 |
 | 15:00 | EUR | German Factory Orders (MoM) (Sep) |  | -1.1% | 3.9% |
 | 16:15 | EUR | HCOB Spain Services PMI (Oct) |  | 49.5 | 50.5 |
