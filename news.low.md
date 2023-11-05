@@ -7,8 +7,8 @@
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -0.1% |
 | 09:12 | BRL | Current Account (USD) (Sep) |  | -1.40B | -0.78B |
 | 09:12 | BRL | Foreign direct investment (USD) (Sep) |  | 4.70B | 4.27B |
-| 09:12 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 09:12 | IDR | GDP (YoY) (Q3) |  | 5.05% | 5.17% |
+| 09:12 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 16:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
 | 16:50 | EUR | HCOB France Composite PMI (Oct) |  | 45.3 | 45.3 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 45.8 | 45.8 |
