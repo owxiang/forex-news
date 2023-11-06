@@ -8,8 +8,8 @@
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -3.0% |  | -0.5% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 51.6 | 51.1 | 51.1 |
 | 09:05 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 12:10 | IDR | Low | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 12:10 | IDR | Low | GDP (YoY) (Q3) | 4.94% | 5.05% | 5.17% |
+| 12:10 | IDR | Low | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 0.2% | -1.0% | 1.9% |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) | 51.1 | 49.3 | 50.5 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Oct) | 47.0 |  | 49.2 |
@@ -35,6 +35,6 @@
 | 21:55 | EUR | Low | French 12-Month BTF Auction | 3.682% |  | 3.711% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.796% |  | 3.745% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.758% |  | 3.797% |
-| 44 min | USD | Low | CB Employment Trends Index (Oct) |  |  | 114.66 |
-| 44 min | CAD | Low | Ivey PMI n.s.a (Oct) |  |  | 54.2 |
-| 44 min | CAD | Moderate | Ivey PMI (Oct) |  | 54.0 | 53.1 |
+| 23:00 | USD | Low | CB Employment Trends Index (Oct) | 114.16 |  | 114.63 |
+| 23:00 | CAD | Low | Ivey PMI n.s.a (Oct) | 51.9 |  | 54.2 |
+| 23:00 | CAD | Moderate | Ivey PMI (Oct) | 53.4 | 54.0 | 53.1 |

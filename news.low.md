@@ -6,8 +6,8 @@
 | 08:00 | NZD | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) | -3.0% |  | -0.5% |
 | 09:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 12:10 | IDR | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 12:10 | IDR | GDP (YoY) (Q3) | 4.94% | 5.05% | 5.17% |
+| 12:10 | IDR | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 16:45 | EUR | HCOB Italy Composite PMI (Oct) | 47.0 |  | 49.2 |
 | 16:50 | EUR | HCOB France Composite PMI (Oct) | 44.6 | 45.3 | 44.1 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Oct) | 45.9 | 45.8 | 46.4 |
@@ -25,5 +25,5 @@
 | 21:55 | EUR | French 12-Month BTF Auction | 3.682% |  | 3.711% |
 | 21:55 | EUR | French 3-Month BTF Auction | 3.796% |  | 3.745% |
 | 21:55 | EUR | French 6-Month BTF Auction | 3.758% |  | 3.797% |
-| 44 min | USD | CB Employment Trends Index (Oct) |  |  | 114.66 |
-| 44 min | CAD | Ivey PMI n.s.a (Oct) |  |  | 54.2 |
+| 23:00 | USD | CB Employment Trends Index (Oct) | 114.16 |  | 114.63 |
+| 23:00 | CAD | Ivey PMI n.s.a (Oct) | 51.9 |  | 54.2 |
