@@ -11,5 +11,5 @@
 | 16:55 | EUR | HCOB Germany Services PMI (Oct) | 48.2 | 48.0 | 50.3 |
 | 17:00 | EUR | HCOB Eurozone Composite PMI (Oct) | 46.5 | 46.5 | 46.5 |
 | 17:00 | EUR | HCOB Eurozone Services PMI (Oct) | 47.8 | 47.8 | 47.8 |
-| 13 min | GBP | S&P Global / CIPS UK Construction PMI (Oct) |  | 46.0 | 45.0 |
-| 23:00 | CAD | Ivey PMI (Oct) |  |  | 53.1 |
+| 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Oct) | 45.6 | 46.0 | 45.0 |
+| 23:00 | CAD | Ivey PMI (Oct) |  | 54.0 | 53.1 |
