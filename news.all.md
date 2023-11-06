@@ -10,8 +10,8 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.0% | 1.1% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -2.7% | -2.5% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.4% | 3.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -2.7% | -2.5% |
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) |  |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) |  | 2.4% | 2.8% |
