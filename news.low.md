@@ -2,18 +2,18 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.0% |
-| 46 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.3% |
-| 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -0.1% |
+| 08:00 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.0% |
+| 08:00 | NZD | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
+| 08:30 | AUD | ANZ Job Advertisements (MoM) | -3.0% |  | -0.5% |
 | 09:12 | BRL | Current Account (USD) (Sep) |  | -1.40B | -0.78B |
 | 09:12 | BRL | Foreign direct investment (USD) (Sep) |  | 4.70B | 4.27B |
-| 09:12 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 09:12 | IDR | GDP (YoY) (Q3) |  | 5.05% | 5.17% |
+| 09:12 | IDR | GDP (QoQ) (Q3) |  | 1.71% | 3.86% |
 | 16:45 | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
 | 16:50 | EUR | HCOB France Composite PMI (Oct) |  | 45.3 | 45.3 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Oct) |  | 45.8 | 45.8 |
-| 17:00 | GBP | Car Registration (YoY) |  |  | 21.0% |
 | 17:00 | GBP | Car Registration (MoM) |  |  | 218.3% |
+| 17:00 | GBP | Car Registration (YoY) |  |  | 21.0% |
 | 17:30 | EUR | Sentix Investor Confidence (Nov) |  |  | -21.9 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
