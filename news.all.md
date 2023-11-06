@@ -7,8 +7,8 @@
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -3.0% |  | -0.5% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 51.6 | 51.1 | 51.1 |
-| 12:10 | IDR | Low | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 12:10 | IDR | Low | GDP (YoY) (Q3) | 4.94% | 5.05% | 5.17% |
+| 12:10 | IDR | Low | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 0.2% | -1.0% | 1.9% |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) | 51.1 | 49.3 | 50.5 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Oct) | 47.0 |  | 49.2 |
@@ -24,12 +24,11 @@
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) | 45.6 | 46.0 | 45.0 |
 | 17:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Oct) | 153,529.0 |  | 85,657.0 |
 | 17:30 | EUR | Low | Sentix Investor Confidence (Nov) | -18.6 | -22.2 | -21.9 |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Low | Current Account (USD) (Sep) |  | -1.40B | -0.78B |
-| 19:30 | BRL | Low | Foreign direct investment (USD) (Sep) |  | 4.70B | 4.27B |
-| 20:00 | MXN | Low | Consumer Confidence |  |  | 46.8 |
-| 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Low | Current Account (USD) (Sep) |  | -1.40B | -0.78B |
+| 17 min | BRL | Low | Foreign direct investment (USD) (Sep) |  | 4.70B | 4.27B |
+| 47 min | MXN | Low | Consumer Confidence |  |  | 46.8 |
+| 47 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.4 |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Oct) |  |  | 49.0 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Oct) |  |  | 48.7 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.711% |
