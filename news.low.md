@@ -7,12 +7,12 @@
 | 08:30 | AUD | ANZ Job Advertisements (MoM) | -3.0% |  | -0.5% |
 | 12:10 | IDR | GDP (YoY) (Q3) | 4.94% | 5.05% | 5.17% |
 | 12:10 | IDR | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
-| 24 min | EUR | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
-| 29 min | EUR | HCOB France Composite PMI (Oct) |  | 45.3 | 44.1 |
-| 34 min | EUR | HCOB Germany Composite PMI (Oct) |  | 45.8 | 46.4 |
-| 39 min | GBP | Car Registration (MoM) |  |  | 218.3% |
-| 39 min | GBP | Car Registration (YoY) |  |  | 21.0% |
-| 17:30 | EUR | Sentix Investor Confidence (Nov) |  | -22.2 | -21.9 |
+| 16:45 | EUR | HCOB Italy Composite PMI (Oct) | 47.0 |  | 49.2 |
+| 16:50 | EUR | HCOB France Composite PMI (Oct) | 44.6 | 45.3 | 44.1 |
+| 16:55 | EUR | HCOB Germany Composite PMI (Oct) | 45.9 | 45.8 | 46.4 |
+| 17:00 | GBP | Car Registration (YoY) | 14.3% |  | 21.0% |
+| 13 min | GBP | Car Registration (MoM) |  |  | 218.3% |
+| 13 min | EUR | Sentix Investor Confidence (Nov) |  | -22.2 | -21.9 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Sep) |  | -1.40B | -0.78B |
