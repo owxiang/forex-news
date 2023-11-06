@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 9 min | USD | 3-Month Bill Auction |  |  | 5.325% |
-| 9 min | USD | 6-Month Bill Auction |  |  | 5.320% |
+| 00:30 | USD | 3-Month Bill Auction | 5.285% |  | 5.325% |
+| 00:30 | USD | 6-Month Bill Auction | 5.260% |  | 5.320% |
 | 03:00 | USD | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.0% | 1.1% |
 | 07:30 | JPY | Overall wage income of employees (Sep) |  |  | 0.8% |
