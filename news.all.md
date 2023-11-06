@@ -7,20 +7,20 @@
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.9% |  | 1.4% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -3.0% |  | -0.5% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Oct) | 51.6 | 51.1 | 51.1 |
-| 12:10 | IDR | Low | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 12:10 | IDR | Low | GDP (YoY) (Q3) | 4.94% | 5.05% | 5.17% |
+| 12:10 | IDR | Low | GDP (QoQ) (Q3) | 1.60% | 1.71% | 3.86% |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Sep) | 0.2% | -1.0% | 1.9% |
-| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) |  | 49.3 | 50.5 |
-| 16:45 | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
-| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 48.5 | 49.9 |
-| 16:50 | EUR | Low | HCOB France Composite PMI (Oct) |  | 45.3 | 44.1 |
-| 16:50 | EUR | Moderate | HCOB France Services PMI (Oct) |  | 46.1 | 44.4 |
-| 16:55 | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 45.8 | 46.4 |
-| 16:55 | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 48.0 | 50.3 |
-| 17:00 | GBP | Low | Car Registration (MoM) |  |  | 218.3% |
-| 17:00 | GBP | Low | Car Registration (YoY) |  |  | 21.0% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 46.5 | 46.5 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 47.8 | 47.8 |
+| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Oct) | 51.1 | 49.3 | 50.5 |
+| 24 min | EUR | Low | HCOB Italy Composite PMI (Oct) |  |  | 49.2 |
+| 24 min | EUR | Moderate | HCOB Italy Services PMI (Oct) |  | 48.5 | 49.9 |
+| 29 min | EUR | Low | HCOB France Composite PMI (Oct) |  | 45.3 | 44.1 |
+| 29 min | EUR | Moderate | HCOB France Services PMI (Oct) |  | 46.1 | 44.4 |
+| 34 min | EUR | Low | HCOB Germany Composite PMI (Oct) |  | 45.8 | 46.4 |
+| 34 min | EUR | Moderate | HCOB Germany Services PMI (Oct) |  | 48.0 | 50.3 |
+| 39 min | GBP | Low | Car Registration (MoM) |  |  | 218.3% |
+| 39 min | GBP | Low | Car Registration (YoY) |  |  | 21.0% |
+| 39 min | EUR | Moderate | HCOB Eurozone Composite PMI (Oct) |  | 46.5 | 46.5 |
+| 39 min | EUR | Moderate | HCOB Eurozone Services PMI (Oct) |  | 47.8 | 47.8 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Oct) |  | 46.0 | 45.0 |
 | 17:30 | EUR | Low | Sentix Investor Confidence (Nov) |  | -22.2 | -21.9 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
