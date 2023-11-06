@@ -7,11 +7,11 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.260% |  | 5.320% |
 | 01:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 01:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 46 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 03:00 | USD | Low | Loan Officer Survey |  |  |  |
+| 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 40 min | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.0% | 1.1% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -2.7% | -2.5% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) |  | -0.4% | 3.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) |  | -2.7% | -2.5% |
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) |  |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) |  |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) |  | 2.4% | 2.8% |
@@ -29,8 +29,8 @@
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 54.980B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Oct) |  | 2.1% | 2.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  |  | -4.7% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | -0.1% | -0.2% |
 | 15:00 | EUR | Low | Industrial Production (YoY) (Sep) |  |  | -1.75% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
