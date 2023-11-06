@@ -31,8 +31,8 @@
 | 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.862% |
 | 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.823% |
 | 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.444% |
-| 18:00 | EUR | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
 | 18:00 | EUR | PPI (MoM) (Sep) |  | 0.6% | 0.6% |
+| 18:00 | EUR | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
