@@ -51,6 +51,8 @@
 | 18:00 | EUR | Low | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Low | Bank lending (MoM) (Sep) | 0.8% |  | 1.2% |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index | -0.7% |  | 4.3% |
+| 20:00 | USD | Low | Milk Auctions | 3,255.0 |  | 3,202.0 |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
@@ -63,6 +65,4 @@
 | 21:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) | 3.1% |  | 5.3% |
 | 22:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 46 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 46 min | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.3% |
+| 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |

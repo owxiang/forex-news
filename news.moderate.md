@@ -24,4 +24,4 @@
 | 21:30 | USD | Trade Balance (Sep) | -61.50B | -59.90B | -58.70B |
 | 21:30 | CAD | Trade Balance (Sep) | 2.04B | 1.00B | 0.95B |
 | 21:30 | EUR | ECB's Enria Speaks |  |  |  |
-| 46 min | USD | Fed Waller Speaks |  |  |  |
+| 23:00 | USD | Fed Waller Speaks |  |  |  |
