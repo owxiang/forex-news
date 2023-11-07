@@ -36,18 +36,18 @@
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Oct) | 657.8B |  | 678.3B |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) | -1.4% | -2.9% | -3.3% |
 | 16:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 16:19 | CNY | Low | FX Reserves (USD) (Oct) | 3.101T |  | 3.115T |
-| 11 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
-| 11 min | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
-| 11 min | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 43.7 |
-| 11 min | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 415.70B |
-| 11 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 43.6 |
-| 41 min | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 337.4B |
-| 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.862% |
-| 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.823% |
-| 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.444% |
-| 18:00 | EUR | Low | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
-| 18:00 | EUR | Low | PPI (MoM) (Sep) |  | 0.5% | 0.6% |
+| 16:20 | CNY | Low | FX Reserves (USD) (Oct) | 3.101T | 3.100T | 3.115T |
+| 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) | 51.8 |  | 49.8 |
+| 16:30 | EUR | Low | HCOB Germany Construction PMI (Oct) | 38.3 |  | 39.3 |
+| 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) | 41.0 |  | 43.7 |
+| 16:30 | HKD | Low | Foreign Reserves (USD) (Oct) | 416.00B |  | 415.70B |
+| 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) | 42.7 |  | 43.6 |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) | 338.2B |  | 337.4B |
+| 25 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.862% |
+| 25 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.823% |
+| 45 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.444% |
+| 45 min | EUR | Low | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
+| 45 min | EUR | Low | PPI (MoM) (Sep) |  | 0.5% | 0.6% |
 | 19:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.93% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
