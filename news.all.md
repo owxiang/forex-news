@@ -6,8 +6,8 @@
 | 00:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 46 min | USD | Moderate | 3-Year Note Auction |  |  | 4.740% |
-| 02:30 | USD | Low | Fed Logan Speaks |  |  |  |
+| 02:00 | USD | Moderate | 3-Year Note Auction | 4.701% |  | 4.740% |
+| 10 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 03:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 04:00 | USD | Low | Consumer Credit (Sep) |  | 10.00B | -15.63B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.347M |
@@ -37,8 +37,8 @@
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
 | 18:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | 19:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

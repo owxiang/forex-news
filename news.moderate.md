@@ -6,7 +6,7 @@
 | 00:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 46 min | USD | 3-Year Note Auction |  |  | 4.740% |
+| 02:00 | USD | 3-Year Note Auction | 4.701% |  | 4.740% |
 | 03:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  |  | 1.347M |
 | 08:30 | AUD | Building Approvals (MoM) |  | -4.6% | 7.0% |
