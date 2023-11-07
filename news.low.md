@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | USD | Fed Logan Speaks |  |  |  |
-| 48 min | USD | Consumer Credit (Sep) |  | 10.00B | -15.63B |
+| 04:00 | USD | Consumer Credit (Sep) | 9.06B | 10.00B | -15.79B |
 | 07:00 | KRW | Current Account (Sep) |  |  | 4.81B |
 | 07:00 | JPY | Reuters Tankan Index (Nov) |  |  | 4 |
 | 07:50 | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |

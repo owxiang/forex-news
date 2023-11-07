@@ -8,8 +8,8 @@
 | 01:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 02:00 | USD | Moderate | 3-Year Note Auction | 4.701% |  | 4.740% |
 | 02:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 18 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 48 min | USD | Low | Consumer Credit (Sep) |  | 10.00B | -15.63B |
+| 03:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 04:00 | USD | Low | Consumer Credit (Sep) | 9.06B | 10.00B | -15.79B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.347M |
 | 07:00 | KRW | Low | Current Account (Sep) |  |  | 4.81B |
 | 07:00 | JPY | Low | Reuters Tankan Index (Nov) |  |  | 4 |
