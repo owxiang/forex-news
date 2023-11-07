@@ -28,13 +28,13 @@
 | 16:30 | HKD | Foreign Reserves (USD) (Oct) | 416.00B |  | 415.70B |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 42.7 |  | 43.6 |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Oct) | 338.2B |  | 337.4B |
-| 25 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.862% |
-| 25 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.823% |
-| 45 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.444% |
-| 45 min | EUR | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
-| 45 min | EUR | PPI (MoM) (Sep) |  | 0.5% | 0.6% |
+| 17:40 | EUR | Spanish 12-Month Letras Auction | 3.606% |  | 3.862% |
+| 17:40 | EUR | Spanish 6-Month Letras Auction | 3.709% |  | 3.823% |
+| 18:00 | GBP | 10-Year Treasury Gilt Auction | 4.405% |  | 4.444% |
+| 18:00 | EUR | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
+| 18:00 | EUR | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 43 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
 | 19:30 | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
 | 19:30 | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
