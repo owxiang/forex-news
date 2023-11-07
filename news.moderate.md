@@ -5,9 +5,9 @@
 | 01:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 01:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 02:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15 min | JPY | Household Spending (YoY) (Sep) |  | -2.7% | -2.5% |
-| 15 min | JPY | Household Spending (MoM) (Sep) |  | -0.4% | 3.9% |
-| 46 min | GBP | BRC Retail Sales Monitor (YoY) (Oct) |  | 2.4% | 2.8% |
+| 07:30 | JPY | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
+| 07:30 | JPY | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
+| 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Oct) | 2.6% | 2.4% | 2.8% |
 | 11:00 | CNY | Exports (YoY) (Oct) |  | -3.1% | -6.2% |
 | 11:00 | CNY | Imports (YoY) (Oct) |  | -5.4% | -6.2% |
 | 11:00 | CNY | Trade Balance (USD) (Oct) |  | 81.95B | 77.71B |

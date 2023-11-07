@@ -6,10 +6,10 @@
 | 00:30 | USD | 3-Month Bill Auction | 5.285% |  | 5.325% |
 | 00:30 | USD | 6-Month Bill Auction | 5.260% |  | 5.320% |
 | 03:00 | USD | Loan Officer Survey |  |  |  |
-| 15 min | JPY | Average Cash Earnings (YoY) |  | 1.0% | 1.1% |
-| 15 min | JPY | Overall wage income of employees (Sep) |  |  | 0.8% |
-| 15 min | JPY | Overtime Pay (YoY) (Sep) |  |  | 0.20% |
-| 09:12 | CNY | FX Reserves (USD) (Oct) |  | 3.100T | 3.115T |
+| 07:30 | JPY | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
+| 07:30 | JPY | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
+| 07:30 | JPY | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
+| 2 min | CNY | FX Reserves (USD) (Oct) |  | 3.100T | 3.115T |
 | 11:00 | CNY | Exports (Oct) |  |  | -0.60M |
 | 11:00 | CNY | Imports (Oct) |  |  | -0.80M |
 | 11:00 | CNY | Trade Balance (Oct) |  | 572.00B | 558.74B |
