@@ -1,5 +1,7 @@
-## 07 November 2023 - High Impact Forex News
+## 08 November 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:30 | AUD | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.10% |
+| 15:00 | EUR | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
+| 22:15 | USD | Fed Chair Powell Speaks |  |  |  |
+| 23:30 | USD | Crude Oil Inventories |  |  | 0.774M |

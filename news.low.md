@@ -1,44 +1,56 @@
-## 07 November 2023 - Low Impact Forex News
+## 08 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 00:30 | USD | 3-Month Bill Auction | 5.285% |  | 5.325% |
-| 00:30 | USD | 6-Month Bill Auction | 5.260% |  | 5.320% |
-| 03:00 | USD | Loan Officer Survey |  |  |  |
-| 07:30 | JPY | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
-| 07:30 | JPY | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
-| 07:30 | JPY | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
-| 11:00 | CNY | Exports (Oct) | -3.10M |  | -0.60M |
-| 11:00 | CNY | Imports (Oct) | 6.40M |  | -0.80M |
-| 11:00 | CNY | Trade Balance (Oct) | 405.47B | 572.00B | 558.74B |
-| 11:00 | IDR | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
-| 14:00 | ZAR | Foreign Reserves (USD) (Oct) | 60.96B |  | 61.13B |
-| 14:00 | ZAR | Net FX Reserves (USD) (Oct) | 55.510B |  | 54.980B |
-| 14:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.0% |  | 2.0% |
-| 14:45 | CHF | Unemployment Rate s.a. (Oct) | 2.1% | 2.1% | 2.1% |
-| 15:00 | EUR | German Industrial Production (YoY) (Sep) | -3.86% |  | -1.54% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Sep) | -1.3% |  | 1.4% |
-| 16:00 | CHF | Foreign Reserves (USD) (Oct) | 657.8B |  | 678.3B |
-| 16:00 | EUR | Spanish Industrial Production (YoY) (Sep) | -1.4% | -2.9% | -3.3% |
-| 16:20 | CNY | FX Reserves (USD) (Oct) | 3.101T | 3.100T | 3.115T |
-| 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) | 51.8 |  | 49.8 |
-| 16:30 | EUR | HCOB Germany Construction PMI (Oct) | 38.3 |  | 39.3 |
-| 16:30 | EUR | HCOB France Construction PMI (MoM) (Oct) | 41.0 |  | 43.7 |
-| 16:30 | HKD | Foreign Reserves (USD) (Oct) | 416.00B |  | 415.70B |
-| 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Oct) | 42.7 |  | 43.6 |
-| 17:00 | SGD | Foreign Reserves USD (MoM) (Oct) | 338.2B |  | 337.4B |
-| 17:40 | EUR | Spanish 12-Month Letras Auction | 3.606% |  | 3.862% |
-| 17:40 | EUR | Spanish 6-Month Letras Auction | 3.709% |  | 3.823% |
-| 18:00 | GBP | 10-Year Treasury Gilt Auction | 4.405% |  | 4.444% |
-| 18:00 | EUR | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
-| 18:00 | EUR | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
-| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 19:30 | BRL | Bank lending (MoM) (Sep) | 0.8% |  | 1.2% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | -0.7% |  | 4.3% |
-| 20:00 | USD | Milk Auctions | 3,255.0 |  | 3,202.0 |
-| 21:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | CAD | Exports (Sep) | 67.03B |  | 65.28B |
-| 21:30 | CAD | Imports (Sep) | 64.99B |  | 64.33B |
-| 21:55 | USD | Redbook (YoY) | 3.1% |  | 5.3% |
-| 22:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 02:30 | USD | Fed Logan Speaks |  |  |  |
+| 04:00 | USD | Consumer Credit (Sep) |  | 10.00B | -15.63B |
+| 07:00 | KRW | Current Account (Sep) |  |  | 4.81B |
+| 07:00 | JPY | Reuters Tankan Index (Nov) |  |  | 4 |
+| 07:50 | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |
+| 08:30 | AUD | Private House Approvals |  | -4.6% | 5.8% |
+| 08:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 11:00 | IDR | Consumer Confidence (Oct) |  |  | 121.7 |
+| 13:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
+| 13:00 | JPY | Leading Index |  | 108.8 | 109.2 |
+| 13:00 | JPY | Leading Index (MoM) (Sep) |  |  | 1.0% |
+| 15:00 | EUR | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
+| 15:00 | EUR | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
+| 15:45 | EUR | French Current Account (Sep) |  |  | -0.80B |
+| 15:45 | EUR | French Exports (Sep) |  |  | 50.8B |
+| 15:45 | EUR | French Imports (Sep) |  |  | 59.0B |
+| 15:45 | EUR | French Reserve Assets Total (Oct) |  |  | 214,351.0M |
+| 15:45 | EUR | French Trade Balance (Sep) |  | -8.1B | -8.2B |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
+| 17:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
+| 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
+| 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
+| 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
+| 19:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.08% |
+| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | USD | Milk Auctions |  |  | 3,202.0 |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
+| 19:30 | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
+| 19:30 | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
+| 19:30 | BRL | Budget Surplus (Sep) |  |  | -22.830B |
+| 19:30 | BRL | Budget Surplus (Sep) |  |  | -22.830B |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.86% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.1% |
+| 20:00 | USD | MBA Purchase Index |  |  | 125.2 |
+| 20:00 | USD | Mortgage Market Index |  |  | 161.8 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 341.7 |
+| 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.02 |
+| 23:00 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.0% | -0.1% |
+| 23:00 | USD | Wholesale Trade Sales (MoM) (Sep) |  |  | 1.8% |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.56 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.46 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 58.46 |
+| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
+| 23:30 | USD | Crude Oil Imports |  |  | 0.348M |
+| 23:30 | USD | Distillate Fuel Production |  |  | -0.153M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.792M |
+| 23:30 | USD | Gasoline Production |  |  | -0.330M |
+| 23:30 | USD | Heating Oil Stockpiles |  |  | 0.304M |
+| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 23:30 | USD | Gasoline Inventories |  |  | 0.065M |
