@@ -31,18 +31,18 @@
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | -3.2% |  | -4.5% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 1.1% | 0.2% | -0.3% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | -1.4% | -0.1% | -0.1% |
-| 15:00 | EUR | Low | Industrial Production (YoY) (Sep) | -3.86% |  | -1.54% |
+| 15:00 | EUR | Low | German Industrial Production (YoY) (Sep) | -3.86% |  | -1.54% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Sep) | -1.3% |  | 1.4% |
-| 46 min | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
-| 46 min | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
-| Tentative | CNY | Low | FX Reserves (USD) |  | 3.100T | 3.115T |
+| 16:00 | CHF | Low | Foreign Reserves (USD) (Oct) | 657.8B |  | 678.3B |
+| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) | -1.4% | -2.9% | -3.3% |
 | 16:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
-| 16:30 | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
-| 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 43.7 |
-| 16:30 | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 415.70B |
-| 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 43.6 |
-| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 337.4B |
+| 16:19 | CNY | Low | FX Reserves (USD) (Oct) | 3.101T |  | 3.115T |
+| 11 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
+| 11 min | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
+| 11 min | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 43.7 |
+| 11 min | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 415.70B |
+| 11 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 43.6 |
+| 41 min | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 337.4B |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.862% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.823% |
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.444% |
