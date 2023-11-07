@@ -7,7 +7,7 @@
 | 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 02:00 | USD | 3-Year Note Auction | 4.701% |  | 4.740% |
-| 03:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  |  | 1.347M |
 | 08:30 | AUD | Building Approvals (MoM) |  | -4.6% | 7.0% |
 | 10:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |

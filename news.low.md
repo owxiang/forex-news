@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | USD | Fed Logan Speaks |  |  |  |
-| 04:00 | USD | Consumer Credit (Sep) |  | 10.00B | -15.63B |
+| 02:30 | USD | Fed Logan Speaks |  |  |  |
+| 48 min | USD | Consumer Credit (Sep) |  | 10.00B | -15.63B |
 | 07:00 | KRW | Current Account (Sep) |  |  | 4.81B |
 | 07:00 | JPY | Reuters Tankan Index (Nov) |  |  | 4 |
 | 07:50 | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |
@@ -22,8 +22,8 @@
 | 15:45 | EUR | French Trade Balance (Sep) |  | -8.1B | -8.2B |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
 | 17:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
-| 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
 | 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
+| 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
