@@ -9,10 +9,10 @@
 | 07:30 | JPY | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
 | 07:30 | JPY | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
 | 07:30 | JPY | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
-| 35 min | CNY | Exports (Oct) |  |  | -0.60M |
-| 35 min | CNY | Imports (Oct) |  |  | -0.80M |
-| 35 min | CNY | Trade Balance (Oct) |  | 572.00B | 558.74B |
-| 12:00 | IDR | FX Reserves (USD) (Oct) |  |  | 134.90B |
+| 11:00 | CNY | Exports (Oct) | -3.10M |  | -0.60M |
+| 11:00 | CNY | Imports (Oct) | 6.40M |  | -0.80M |
+| 11:00 | CNY | Trade Balance (Oct) | 405.47B | 572.00B | 558.74B |
+| 11:00 | IDR | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
 | 14:00 | ZAR | Foreign Reserves (USD) (Oct) |  |  | 61.13B |
 | 14:00 | ZAR | Net FX Reserves (USD) (Oct) |  |  | 54.980B |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
@@ -20,7 +20,8 @@
 | 15:00 | EUR | Industrial Production (YoY) (Sep) |  |  | -1.75% |
 | 15:00 | NOK | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
 | 16:00 | CHF | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
-| 16:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  |  | -3.4% |
+| 16:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
+| Tentative | CNY | FX Reserves (USD) |  | 3.100T | 3.115T |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Oct) |  |  | 43.7 |
@@ -30,8 +31,8 @@
 | 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.862% |
 | 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.823% |
 | 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.444% |
-| 18:00 | EUR | PPI (MoM) (Sep) |  | 0.6% | 0.6% |
 | 18:00 | EUR | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
+| 18:00 | EUR | PPI (MoM) (Sep) |  | 0.5% | 0.6% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |

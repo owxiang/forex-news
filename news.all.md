@@ -10,20 +10,20 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 2.6% | 2.4% | 2.8% |
-| 35 min | CNY | Low | Exports (Oct) |  |  | -0.60M |
-| 35 min | CNY | Low | Imports (Oct) |  |  | -0.80M |
-| 35 min | CNY | Low | Trade Balance (Oct) |  | 572.00B | 558.74B |
-| 35 min | CNY | Moderate | Exports (YoY) (Oct) |  | -3.1% | -6.2% |
-| 35 min | CNY | Moderate | Imports (YoY) (Oct) |  | -5.4% | -6.2% |
-| 35 min | CNY | Moderate | Trade Balance (USD) (Oct) |  | 81.95B | 77.71B |
-| 11:30 | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.35% | 4.10% |
-| 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 12:00 | IDR | Low | FX Reserves (USD) (Oct) |  |  | 134.90B |
+| 11:00 | CNY | Low | Exports (Oct) | -3.10M |  | -0.60M |
+| 11:00 | CNY | Low | Imports (Oct) | 6.40M |  | -0.80M |
+| 11:00 | CNY | Low | Trade Balance (Oct) | 405.47B | 572.00B | 558.74B |
+| 11:00 | CNY | Moderate | Exports (YoY) (Oct) | -6.4% | -3.3% | -6.2% |
+| 11:00 | CNY | Moderate | Imports (YoY) (Oct) | 3.0% | -4.8% | -6.2% |
+| 11:00 | CNY | Moderate | Trade Balance (USD) (Oct) | 56.53B | 82.00B | 77.71B |
+| 11:00 | IDR | Low | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
+| 14 min | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.35% | 4.10% |
+| 14 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 61.13B |
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 54.980B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
@@ -34,7 +34,8 @@
 | 15:00 | EUR | Low | Industrial Production (YoY) (Sep) |  |  | -1.75% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
-| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  |  | -3.4% |
+| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
+| Tentative | CNY | Low | FX Reserves (USD) |  | 3.100T | 3.115T |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 43.7 |
@@ -45,8 +46,8 @@
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.862% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.823% |
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.444% |
-| 18:00 | EUR | Low | PPI (MoM) (Sep) |  | 0.6% | 0.6% |
 | 18:00 | EUR | Low | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
+| 18:00 | EUR | Low | PPI (MoM) (Sep) |  | 0.5% | 0.6% |
 | 19:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.93% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
@@ -60,7 +61,7 @@
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 21:30 | USD | Moderate | Exports |  |  | 256.00B |
 | 21:30 | USD | Moderate | Imports |  |  | 314.30B |
-| 21:30 | USD | Moderate | Trade Balance (Sep) |  | -60.00B | -58.30B |
+| 21:30 | USD | Moderate | Trade Balance (Sep) |  | -59.90B | -58.30B |
 | 21:30 | CAD | Low | Exports (Sep) |  |  | 64.56B |
 | 21:30 | CAD | Low | Imports (Sep) |  |  | 63.84B |
 | 21:30 | CAD | Moderate | Trade Balance (Sep) |  | 1.00B | 0.72B |
