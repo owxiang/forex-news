@@ -10,8 +10,8 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 2.6% | 2.4% | 2.8% |
@@ -22,8 +22,8 @@
 | 11:00 | CNY | Moderate | Imports (YoY) (Oct) | 3.0% | -4.8% | -6.2% |
 | 11:00 | CNY | Moderate | Trade Balance (USD) (Oct) | 56.53B | 82.00B | 77.71B |
 | 11:00 | IDR | Low | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
-| 14 min | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.35% | 4.10% |
-| 14 min | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 11:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.10% |
+| 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 61.13B |
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 54.980B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
@@ -36,12 +36,12 @@
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
 | Tentative | CNY | Low | FX Reserves (USD) |  | 3.100T | 3.115T |
+| 16:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Oct) |  |  | 43.7 |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Oct) |  |  | 415.70B |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Oct) |  |  | 43.6 |
-| 16:35 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Oct) |  |  | 337.4B |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.862% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.823% |
@@ -56,9 +56,10 @@
 | 19:30 | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
 | 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
-| 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.3% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,202.0 |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 20:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Exports |  |  | 256.00B |
 | 21:30 | USD | Moderate | Imports |  |  | 314.30B |
 | 21:30 | USD | Moderate | Trade Balance (Sep) |  | -59.90B | -58.30B |
@@ -70,3 +71,4 @@
 | 22:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.3% |
