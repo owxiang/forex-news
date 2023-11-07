@@ -15,12 +15,12 @@
 | 11:00 | IDR | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
 | 14:00 | ZAR | Foreign Reserves (USD) (Oct) | 60.96B |  | 61.13B |
 | 14:00 | ZAR | Net FX Reserves (USD) (Oct) | 55.510B |  | 54.980B |
-| 25 min | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
-| 25 min | CHF | Unemployment Rate s.a. (Oct) |  | 2.1% | 2.1% |
-| 40 min | EUR | Industrial Production (YoY) (Sep) |  |  | -1.75% |
-| 40 min | NOK | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
-| 16:00 | CHF | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
-| 16:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
+| 14:45 | CHF | Unemployment Rate n.s.a. (Oct) | 2.0% |  | 2.0% |
+| 14:45 | CHF | Unemployment Rate s.a. (Oct) | 2.1% | 2.1% | 2.1% |
+| 15:00 | EUR | Industrial Production (YoY) (Sep) | -3.86% |  | -1.54% |
+| 15:00 | NOK | Manufacturing Production (MoM) (Sep) | -1.3% |  | 1.4% |
+| 46 min | CHF | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
+| 46 min | EUR | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
 | Tentative | CNY | FX Reserves (USD) |  | 3.100T | 3.115T |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Oct) |  |  | 49.8 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Oct) |  |  | 39.3 |
