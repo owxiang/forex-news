@@ -36,10 +36,9 @@
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Bank lending (MoM) (Sep) | 0.8% |  | 1.2% |
 | 21:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 11 min | CAD | Exports (Sep) |  |  | 64.56B |
-| 11 min | CAD | Imports (Sep) |  |  | 63.84B |
-| 36 min | USD | Redbook (YoY) |  |  | 5.3% |
-| 41 min | USD | Milk Auctions |  |  | 3,202.0 |
-| 56 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.3% |
+| 21:30 | CAD | Exports (Sep) | 67.03B |  | 65.28B |
+| 21:30 | CAD | Imports (Sep) | 64.99B |  | 64.33B |
+| 21:55 | USD | Redbook (YoY) | 3.1% |  | 5.3% |
+| 22:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 46 min | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
+| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 4.3% |

@@ -19,9 +19,9 @@
 | 17:50 | GBP | Mortgage Rate (GBP) (Oct) | 8.01% |  | 7.93% |
 | 20:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 11 min | USD | Exports |  |  | 256.00B |
-| 11 min | USD | Imports |  |  | 314.30B |
-| 11 min | USD | Trade Balance (Sep) |  | -59.90B | -58.30B |
-| 11 min | CAD | Trade Balance (Sep) |  | 1.00B | 0.72B |
-| 11 min | EUR | ECB's Enria Speaks |  |  |  |
-| 23:00 | USD | Fed Waller Speaks |  |  |  |
+| 21:30 | USD | Exports | 261.10B |  | 255.40B |
+| 21:30 | USD | Imports | 322.70B |  | 314.10B |
+| 21:30 | USD | Trade Balance (Sep) | -61.50B | -59.90B | -58.70B |
+| 21:30 | CAD | Trade Balance (Sep) | 2.04B | 1.00B | 0.95B |
+| 21:30 | EUR | ECB's Enria Speaks |  |  |  |
+| 46 min | USD | Fed Waller Speaks |  |  |  |

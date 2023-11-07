@@ -54,16 +54,15 @@
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 11 min | USD | Moderate | Exports |  |  | 256.00B |
-| 11 min | USD | Moderate | Imports |  |  | 314.30B |
-| 11 min | USD | Moderate | Trade Balance (Sep) |  | -59.90B | -58.30B |
-| 11 min | CAD | Low | Exports (Sep) |  |  | 64.56B |
-| 11 min | CAD | Low | Imports (Sep) |  |  | 63.84B |
-| 11 min | CAD | Moderate | Trade Balance (Sep) |  | 1.00B | 0.72B |
-| 11 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 36 min | USD | Low | Redbook (YoY) |  |  | 5.3% |
-| 41 min | USD | Low | Milk Auctions |  |  | 3,202.0 |
-| 56 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.3% |
+| 21:30 | USD | Moderate | Exports | 261.10B |  | 255.40B |
+| 21:30 | USD | Moderate | Imports | 322.70B |  | 314.10B |
+| 21:30 | USD | Moderate | Trade Balance (Sep) | -61.50B | -59.90B | -58.70B |
+| 21:30 | CAD | Low | Exports (Sep) | 67.03B |  | 65.28B |
+| 21:30 | CAD | Low | Imports (Sep) | 64.99B |  | 64.33B |
+| 21:30 | CAD | Moderate | Trade Balance (Sep) | 2.04B | 1.00B | 0.95B |
+| 21:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 21:55 | USD | Low | Redbook (YoY) | 3.1% |  | 5.3% |
+| 22:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 46 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 46 min | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
+| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.3% |
