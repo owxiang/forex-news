@@ -10,8 +10,8 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 2.6% | 2.4% | 2.8% |
@@ -50,20 +50,20 @@
 | 18:00 | EUR | Low | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
 | 18:00 | EUR | Low | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 19:30 | BRL | Low | Bank lending (MoM) (Sep) | 0.8% |  | 1.1% |
+| 19:30 | BRL | Low | Bank lending (MoM) (Sep) | 0.8% |  | 1.2% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 30 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 21:30 | USD | Moderate | Exports |  |  | 256.00B |
-| 21:30 | USD | Moderate | Imports |  |  | 314.30B |
-| 21:30 | USD | Moderate | Trade Balance (Sep) |  | -59.90B | -58.30B |
-| 21:30 | CAD | Low | Exports (Sep) |  |  | 64.56B |
-| 21:30 | CAD | Low | Imports (Sep) |  |  | 63.84B |
-| 21:30 | CAD | Moderate | Trade Balance (Sep) |  | 1.00B | 0.72B |
-| 21:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
-| 22:00 | USD | Low | Milk Auctions |  |  | 3,202.0 |
-| 22:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 11 min | USD | Moderate | Exports |  |  | 256.00B |
+| 11 min | USD | Moderate | Imports |  |  | 314.30B |
+| 11 min | USD | Moderate | Trade Balance (Sep) |  | -59.90B | -58.30B |
+| 11 min | CAD | Low | Exports (Sep) |  |  | 64.56B |
+| 11 min | CAD | Low | Imports (Sep) |  |  | 63.84B |
+| 11 min | CAD | Moderate | Trade Balance (Sep) |  | 1.00B | 0.72B |
+| 11 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 36 min | USD | Low | Redbook (YoY) |  |  | 5.3% |
+| 41 min | USD | Low | Milk Auctions |  |  | 3,202.0 |
+| 56 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.3% |
