@@ -34,15 +34,12 @@
 | 18:00 | EUR | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
 | 18:00 | EUR | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 17 min | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 17 min | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 17 min | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
-| 17 min | BRL | Budget Surplus (Sep) |  |  | -22.830B |
-| 47 min | USD | Milk Auctions |  |  | 3,202.0 |
-| 21:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:30 | BRL | Bank lending (MoM) (Sep) | 0.8% |  | 1.1% |
+| 30 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | CAD | Exports (Sep) |  |  | 64.56B |
 | 21:30 | CAD | Imports (Sep) |  |  | 63.84B |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.3% |
+| 22:00 | USD | Milk Auctions |  |  | 3,202.0 |
 | 22:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.3% |

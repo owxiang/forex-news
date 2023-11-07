@@ -10,8 +10,8 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.2% | 1.0% | 0.8% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Sep) | -2.8% | -2.7% | -2.5% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Sep) | 0.3% | -0.4% | 3.9% |
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 2.6% | 2.4% | 2.8% |
@@ -28,8 +28,8 @@
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 55.510B |  | 54.980B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) | 2.0% |  | 2.0% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Oct) | 2.1% | 2.1% | 2.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 1.1% | 0.2% | -0.3% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) | -3.2% |  | -4.5% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) | 1.1% | 0.2% | -0.3% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) | -1.4% | -0.1% | -0.1% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Sep) | -3.86% |  | -1.54% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Sep) | -1.3% |  | 1.4% |
@@ -50,15 +50,10 @@
 | 18:00 | EUR | Low | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
 | 18:00 | EUR | Low | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 17 min | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 17 min | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
-| 17 min | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
-| 47 min | USD | Low | Milk Auctions |  |  | 3,202.0 |
+| 19:30 | BRL | Low | Bank lending (MoM) (Sep) | 0.8% |  | 1.1% |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 30 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | USD | Moderate | Exports |  |  | 256.00B |
 | 21:30 | USD | Moderate | Imports |  |  | 314.30B |
 | 21:30 | USD | Moderate | Trade Balance (Sep) |  | -59.90B | -58.30B |
@@ -67,6 +62,7 @@
 | 21:30 | CAD | Moderate | Trade Balance (Sep) |  | 1.00B | 0.72B |
 | 21:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
+| 22:00 | USD | Low | Milk Auctions |  |  | 3,202.0 |
 | 22:15 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
