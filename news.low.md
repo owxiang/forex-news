@@ -22,8 +22,8 @@
 | 15:45 | EUR | French Trade Balance (Sep) |  | -8.1B | -8.2B |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
 | 17:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
-| 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
 | 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
+| 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |

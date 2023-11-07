@@ -8,7 +8,7 @@
 | 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 02:00 | USD | 3-Year Note Auction | 4.701% |  | 4.740% |
 | 03:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock |  |  | 1.347M |
+| 16 min | USD | API Weekly Crude Oil Stock |  |  | 1.347M |
 | 08:30 | AUD | Building Approvals (MoM) |  | -4.6% | 7.0% |
 | 10:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 15:00 | EUR | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
@@ -19,8 +19,8 @@
 | 19:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
-| 20:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.4% | 2.3% |
 | 20:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.1% | -0.2% |
+| 20:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.4% | 2.3% |
 | 21:30 | CAD | Building Permits (MoM) (Sep) |  | -2.4% | 3.4% |
 | 22:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.272M |
