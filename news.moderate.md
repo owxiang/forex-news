@@ -8,7 +8,7 @@
 | 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 02:00 | USD | 3-Year Note Auction | 4.701% |  | 4.740% |
 | 03:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 06:00 | USD | API Weekly Crude Oil Stock |  |  | 1.347M |
+| 06:00 | USD | API Weekly Crude Oil Stock | 11.900M | -0.300M | 1.347M |
 | 08:30 | AUD | Building Approvals (MoM) |  | -4.6% | 7.0% |
 | 10:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 15:00 | EUR | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |

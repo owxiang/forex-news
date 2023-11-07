@@ -10,10 +10,10 @@
 | 02:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 03:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 04:00 | USD | Low | Consumer Credit (Sep) | 9.06B | 10.00B | -15.79B |
-| 06:00 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 1.347M |
-| 46 min | KRW | Low | Current Account (Sep) |  |  | 4.81B |
-| 46 min | JPY | Low | Reuters Tankan Index (Nov) |  |  | 4 |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |
+| 06:00 | USD | Moderate | API Weekly Crude Oil Stock | 11.900M | -0.300M | 1.347M |
+| 07:00 | KRW | Low | Current Account (Sep) | 5.42B |  | 4.98B |
+| 07:00 | JPY | Low | Reuters Tankan Index (Nov) | 4 |  | 4 |
+| 34 min | JPY | Low | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) |  | -4.6% | 7.0% |
 | 08:30 | AUD | Low | Private House Approvals |  | -4.6% | 5.8% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |

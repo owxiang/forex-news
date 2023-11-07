@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | USD | Fed Logan Speaks |  |  |  |
 | 04:00 | USD | Consumer Credit (Sep) | 9.06B | 10.00B | -15.79B |
-| 46 min | KRW | Current Account (Sep) |  |  | 4.81B |
-| 46 min | JPY | Reuters Tankan Index (Nov) |  |  | 4 |
-| 07:50 | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |
+| 07:00 | KRW | Current Account (Sep) | 5.42B |  | 4.98B |
+| 07:00 | JPY | Reuters Tankan Index (Nov) | 4 |  | 4 |
+| 34 min | JPY | Foreign Reserves (USD) (Oct) |  |  | 1,237.2B |
 | 08:30 | AUD | Private House Approvals |  | -4.6% | 5.8% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:00 | IDR | Consumer Confidence (Oct) |  |  | 121.7 |
