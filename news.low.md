@@ -13,12 +13,12 @@
 | 11:00 | CNY | Imports (Oct) | 6.40M |  | -0.80M |
 | 11:00 | CNY | Trade Balance (Oct) | 405.47B | 572.00B | 558.74B |
 | 11:00 | IDR | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
-| 45 min | ZAR | Foreign Reserves (USD) (Oct) |  |  | 61.13B |
-| 45 min | ZAR | Net FX Reserves (USD) (Oct) |  |  | 54.980B |
-| 14:45 | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
-| 14:45 | CHF | Unemployment Rate s.a. (Oct) |  | 2.1% | 2.1% |
-| 15:00 | EUR | Industrial Production (YoY) (Sep) |  |  | -1.75% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
+| 14:00 | ZAR | Foreign Reserves (USD) (Oct) | 60.96B |  | 61.13B |
+| 14:00 | ZAR | Net FX Reserves (USD) (Oct) | 55.510B |  | 54.980B |
+| 25 min | CHF | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
+| 25 min | CHF | Unemployment Rate s.a. (Oct) |  | 2.1% | 2.1% |
+| 40 min | EUR | Industrial Production (YoY) (Sep) |  |  | -1.75% |
+| 40 min | NOK | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
 | 16:00 | CHF | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
 | Tentative | CNY | FX Reserves (USD) |  | 3.100T | 3.115T |

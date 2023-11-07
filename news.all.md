@@ -24,15 +24,15 @@
 | 11:00 | IDR | Low | FX Reserves (USD) (Oct) | 133.10B |  | 134.90B |
 | 11:30 | AUD | High | RBA Interest Rate Decision (Nov) | 4.35% | 4.35% | 4.10% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 45 min | ZAR | Low | Foreign Reserves (USD) (Oct) |  |  | 61.13B |
-| 45 min | ZAR | Low | Net FX Reserves (USD) (Oct) |  |  | 54.980B |
-| 14:45 | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
-| 14:45 | CHF | Low | Unemployment Rate s.a. (Oct) |  | 2.1% | 2.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  |  | -4.7% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
-| 15:00 | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | -0.1% | -0.2% |
-| 15:00 | EUR | Low | Industrial Production (YoY) (Sep) |  |  | -1.75% |
-| 15:00 | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) (Oct) | 60.96B |  | 61.13B |
+| 14:00 | ZAR | Low | Net FX Reserves (USD) (Oct) | 55.510B |  | 54.980B |
+| 25 min | CHF | Low | Unemployment Rate n.s.a. (Oct) |  |  | 2.0% |
+| 25 min | CHF | Low | Unemployment Rate s.a. (Oct) |  | 2.1% | 2.1% |
+| 40 min | GBP | Moderate | Halifax House Price Index (YoY) (Oct) |  |  | -4.7% |
+| 40 min | GBP | Moderate | Halifax House Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
+| 40 min | EUR | Moderate | German Industrial Production (MoM) (Sep) |  | -0.1% | -0.2% |
+| 40 min | EUR | Low | Industrial Production (YoY) (Sep) |  |  | -1.75% |
+| 40 min | NOK | Low | Manufacturing Production (MoM) (Sep) |  |  | 1.5% |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Oct) |  |  | 678.4B |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Sep) |  | -2.9% | -3.4% |
 | Tentative | CNY | Low | FX Reserves (USD) |  | 3.100T | 3.115T |

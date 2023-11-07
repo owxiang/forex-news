@@ -12,9 +12,9 @@
 | 11:00 | CNY | Imports (YoY) (Oct) | 3.0% | -4.8% | -6.2% |
 | 11:00 | CNY | Trade Balance (USD) (Oct) | 56.53B | 82.00B | 77.71B |
 | 11:30 | AUD | RBA Rate Statement |  |  |  |
-| 15:00 | GBP | Halifax House Price Index (YoY) (Oct) |  |  | -4.7% |
-| 15:00 | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
-| 15:00 | EUR | German Industrial Production (MoM) (Sep) |  | -0.1% | -0.2% |
+| 40 min | GBP | Halifax House Price Index (YoY) (Oct) |  |  | -4.7% |
+| 40 min | GBP | Halifax House Price Index (MoM) (Oct) |  | 0.2% | -0.4% |
+| 40 min | EUR | German Industrial Production (MoM) (Sep) |  | -0.1% | -0.2% |
 | 16:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 19:00 | GBP | Mortgage Rate (GBP) |  |  | 7.93% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
