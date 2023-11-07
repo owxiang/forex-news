@@ -15,13 +15,12 @@
 | 07:30 | JPY | Low | Overall wage income of employees (Sep) | 1.2% |  | 0.8% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Sep) | 0.70% |  | 0.20% |
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Oct) | 2.6% | 2.4% | 2.8% |
-| 2 min | CNY | Low | FX Reserves (USD) (Oct) |  | 3.100T | 3.115T |
-| 11:00 | CNY | Low | Exports (Oct) |  |  | -0.60M |
-| 11:00 | CNY | Low | Imports (Oct) |  |  | -0.80M |
-| 11:00 | CNY | Low | Trade Balance (Oct) |  | 572.00B | 558.74B |
-| 11:00 | CNY | Moderate | Exports (YoY) (Oct) |  | -3.1% | -6.2% |
-| 11:00 | CNY | Moderate | Imports (YoY) (Oct) |  | -5.4% | -6.2% |
-| 11:00 | CNY | Moderate | Trade Balance (USD) (Oct) |  | 81.95B | 77.71B |
+| 35 min | CNY | Low | Exports (Oct) |  |  | -0.60M |
+| 35 min | CNY | Low | Imports (Oct) |  |  | -0.80M |
+| 35 min | CNY | Low | Trade Balance (Oct) |  | 572.00B | 558.74B |
+| 35 min | CNY | Moderate | Exports (YoY) (Oct) |  | -3.1% | -6.2% |
+| 35 min | CNY | Moderate | Imports (YoY) (Oct) |  | -5.4% | -6.2% |
+| 35 min | CNY | Moderate | Trade Balance (USD) (Oct) |  | 81.95B | 77.71B |
 | 11:30 | AUD | High | RBA Interest Rate Decision (Nov) |  | 4.35% | 4.10% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 12:00 | IDR | Low | FX Reserves (USD) (Oct) |  |  | 134.90B |
@@ -46,8 +45,8 @@
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.862% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.823% |
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.444% |
-| 18:00 | EUR | Low | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
 | 18:00 | EUR | Low | PPI (MoM) (Sep) |  | 0.6% | 0.6% |
+| 18:00 | EUR | Low | PPI (YoY) (Sep) |  | -12.5% | -11.5% |
 | 19:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.93% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
