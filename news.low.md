@@ -33,13 +33,12 @@
 | 18:00 | GBP | 10-Year Treasury Gilt Auction | 4.405% |  | 4.444% |
 | 18:00 | EUR | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
 | 18:00 | EUR | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
-| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 43 min | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 19:30 | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 19:30 | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
-| 19:30 | BRL | Budget Surplus (Sep) |  |  | -22.830B |
-| 20:00 | USD | Milk Auctions |  |  | 3,202.0 |
+| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 17 min | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
+| 17 min | BRL | Bank lending (MoM) (Sep) |  |  | 1.1% |
+| 17 min | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
+| 17 min | BRL | Budget Surplus (Sep) |  |  | -22.830B |
+| 47 min | USD | Milk Auctions |  |  | 3,202.0 |
 | 21:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:30 | CAD | Exports (Sep) |  |  | 64.56B |
 | 21:30 | CAD | Imports (Sep) |  |  | 63.84B |

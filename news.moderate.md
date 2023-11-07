@@ -17,7 +17,7 @@
 | 15:00 | EUR | German Industrial Production (MoM) (Sep) | -1.4% | -0.1% | -0.1% |
 | 16:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 17:50 | GBP | Mortgage Rate (GBP) (Oct) | 8.01% |  | 7.93% |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
+| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
 | 20:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 21:30 | USD | Exports |  |  | 256.00B |

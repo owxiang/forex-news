@@ -49,14 +49,13 @@
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.405% |  | 4.444% |
 | 18:00 | EUR | Low | PPI (YoY) (Sep) | -12.4% | -12.5% | -11.5% |
 | 18:00 | EUR | Low | PPI (MoM) (Sep) | 0.5% | 0.5% | 0.7% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 43 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 19:30 | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
-| 19:30 | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
-| 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
-| 20:00 | USD | Low | Milk Auctions |  |  | 3,202.0 |
+| 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
+| 17 min | BRL | Low | Bank lending (MoM) (Sep) |  |  | 1.1% |
+| 17 min | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
+| 17 min | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
+| 47 min | USD | Low | Milk Auctions |  |  | 3,202.0 |
 | 20:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
