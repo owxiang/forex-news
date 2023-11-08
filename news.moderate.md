@@ -16,10 +16,10 @@
 | 16:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13 min | EUR | German 10-Year Bund Auction |  |  | 2.900% |
-| 43 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
-| 20:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
-| 20:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.5% | 2.3% |
+| 18:30 | EUR | German 10-Year Bund Auction | 2.640% |  | 2.900% |
+| 19:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
+| 47 min | BRL | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
+| 47 min | BRL | Retail Sales (YoY) (Sep) |  | 2.5% | 2.3% |
 | 21:30 | CAD | Building Permits (MoM) (Sep) |  | -1.6% | 3.4% |
 | 22:00 | EUR | ECB's Enria Speaks |  |  |  |
