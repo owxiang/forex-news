@@ -26,16 +26,16 @@
 | 18:00 | EUR | Retail Sales (YoY) (Sep) | -2.9% | -3.1% | -1.8% |
 | 18:00 | EUR | Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.7% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
+| 19:00 | CAD | Leading Index (MoM) (Oct) | -0.01% |  | 0.08% |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 0.51% |  | 0.05% |
-| 17 min | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 17 min | BRL | Budget Balance (Sep) |  | -64.800B | -106.561B |
-| 17 min | BRL | Budget Surplus (Sep) |  |  | -22.830B |
-| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.86% |
-| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.1% |
-| 47 min | USD | MBA Purchase Index |  |  | 125.2 |
-| 47 min | USD | Mortgage Market Index |  |  | 161.8 |
-| 47 min | USD | Mortgage Refinance Index |  |  | 341.7 |
-| 47 min | CAD | Leading Index (MoM) (Oct) |  |  | 0.08% |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Sep) | 60.0% |  | 59.9% |
+| 19:30 | BRL | Budget Balance (Sep) | -99.785B | -64.800B | -106.561B |
+| 19:30 | BRL | Budget Surplus (Sep) | -18.071B |  | -22.830B |
+| 20:00 | USD | MBA 30-Year Mortgage Rate | 7.61% |  | 7.86% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) | 2.5% |  | -2.1% |
+| 20:00 | USD | MBA Purchase Index | 129.0 |  | 125.2 |
+| 20:00 | USD | Mortgage Market Index | 165.9 |  | 161.8 |
+| 20:00 | USD | Mortgage Refinance Index | 347.3 |  | 341.7 |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.02 |
 | 23:00 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.0% | -0.1% |

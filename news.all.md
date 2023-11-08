@@ -42,20 +42,20 @@
 | 18:00 | EUR | Low | Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.7% |
 | 18:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction | 2.640% |  | 2.900% |
+| 19:00 | CAD | Low | Leading Index (MoM) (Oct) | -0.01% |  | 0.08% |
 | 19:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 0.51% |  | 0.05% |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 17 min | BRL | Low | Budget Balance (Sep) |  | -64.800B | -106.561B |
-| 17 min | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
-| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.86% |
-| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.1% |
-| 47 min | USD | Low | MBA Purchase Index |  |  | 125.2 |
-| 47 min | USD | Low | Mortgage Market Index |  |  | 161.8 |
-| 47 min | USD | Low | Mortgage Refinance Index |  |  | 341.7 |
-| 47 min | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.08% |
-| 47 min | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
-| 47 min | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.5% | 2.3% |
+| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) | 60.0% |  | 59.9% |
+| 19:30 | BRL | Low | Budget Balance (Sep) | -99.785B | -64.800B | -106.561B |
+| 19:30 | BRL | Low | Budget Surplus (Sep) | -18.071B |  | -22.830B |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) | 74.4% | 74.4% | 74.3% |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.61% |  | 7.86% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.5% |  | -2.1% |
+| 20:00 | USD | Low | MBA Purchase Index | 129.0 |  | 125.2 |
+| 20:00 | USD | Low | Mortgage Market Index | 165.9 |  | 161.8 |
+| 20:00 | USD | Low | Mortgage Refinance Index | 347.3 |  | 341.7 |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 3.3% | 2.5% | 2.4% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | 0.6% | 0.0% | -0.1% |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -1.6% | 3.4% |
 | 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
