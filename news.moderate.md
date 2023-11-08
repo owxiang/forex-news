@@ -1,25 +1,20 @@
-## 08 November 2023 - Moderate Impact Forex News
+## 09 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | Atlanta Fed GDPNow (Q4) | 2.1% | 1.2% | 1.2% |
-| 00:00 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 01:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 02:00 | USD | 3-Year Note Auction | 4.701% |  | 4.740% |
-| 03:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 06:00 | USD | API Weekly Crude Oil Stock | 11.900M | -0.300M | 1.347M |
-| 08:30 | AUD | Building Approvals (MoM) | -4.6% | -4.6% | 8.1% |
-| 10:20 | NZD | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
-| 15:00 | EUR | German CPI (YoY) (Oct) | 3.8% | 3.8% | 4.5% |
-| 16:45 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
-| 16:45 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | EUR | Eurogroup Meetings |  |  |  |
-| 18:30 | EUR | German 10-Year Bund Auction | 2.640% |  | 2.900% |
-| 19:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) | 74.4% | 74.4% | 74.3% |
-| 20:00 | BRL | Retail Sales (MoM) (Sep) | 0.6% | 0.0% | -0.1% |
-| 20:00 | BRL | Retail Sales (YoY) (Sep) | 3.3% | 2.5% | 2.4% |
-| 21:30 | CAD | Building Permits (MoM) (Sep) | -6.5% | -1.6% | 4.3% |
-| 22:00 | EUR | ECB's Enria Speaks |  |  |  |
+| 10 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.1% | 2.1% |
+| 02:00 | USD | 10-Year Note Auction |  |  | 4.610% |
+| 02:40 | USD | FOMC Member Williams Speaks |  |  |  |
+| 05:45 | NZD | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
+| 07:50 | JPY | Adjusted Current Account (Sep) |  |  | 1.63T |
+| 07:50 | JPY | Current Account n.s.a. (Sep) |  | 3.000T | 2.280T |
+| 08:01 | GBP | RICS House Price Balance (Oct) |  | -65% | -69% |
+| 09:30 | CNY | CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:30 | CNY | CPI (YoY) (Oct) |  | -0.2% | 0.0% |
+| 09:30 | CNY | PPI (YoY) (Oct) |  | -2.8% | -2.5% |
+| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 16:10 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
+| 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 17:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 20:00 | MXN | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
+| 20:00 | MXN | CPI (YoY) (Oct) |  | 4.26% | 4.45% |

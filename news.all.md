@@ -1,69 +1,53 @@
-## 08 November 2023 - All Forex News
+## 09 November 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.1% | 1.2% | 1.2% |
-| 00:00 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 01:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 02:00 | USD | Moderate | 3-Year Note Auction | 4.701% |  | 4.740% |
-| 02:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 03:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 04:00 | USD | Low | Consumer Credit (Sep) | 9.06B | 10.00B | -15.79B |
-| 06:00 | USD | Moderate | API Weekly Crude Oil Stock | 11.900M | -0.300M | 1.347M |
-| 07:00 | KRW | Low | Current Account (Sep) | 5.42B |  | 4.98B |
-| 07:00 | JPY | Low | Reuters Tankan Index (Nov) | 6 |  | 4 |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Oct) | 1,238.0B |  | 1,237.2B |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) | -4.6% | -4.6% | 8.1% |
-| 08:30 | AUD | Low | Private House Approvals | -4.6% | -4.6% | 7.2% |
-| 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 10:20 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
-| 11:00 | IDR | Low | Consumer Confidence (Oct) | 124.3 |  | 121.7 |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
-| 13:00 | JPY | Low | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
-| 13:00 | JPY | Low | Leading Index | 108.7 | 108.8 | 109.2 |
-| 15:00 | EUR | Moderate | German CPI (YoY) (Oct) | 3.8% | 3.8% | 4.5% |
-| 15:00 | EUR | High | German CPI (MoM) (Oct) | 0.0% | 0.0% | 0.3% |
-| 15:00 | EUR | Low | German HICP (YoY) (Oct) | 3.0% | 3.0% | 4.3% |
-| 15:00 | EUR | Low | German HICP (MoM) (Oct) | -0.2% | -0.2% | 0.2% |
-| 15:45 | EUR | Low | French Current Account (Sep) | -2.50B |  | -1.10B |
-| 15:45 | EUR | Low | French Exports (Sep) | 49.1B |  | 50.5B |
-| 15:45 | EUR | Low | French Imports (Sep) | 58.0B |  | 58.9B |
-| 15:45 | EUR | Low | French Reserve Assets Total (Oct) | 224,598.0M |  | 214,351.0M |
-| 15:45 | EUR | Low | French Trade Balance (Sep) | -8.9B | -8.1B | -8.3B |
-| 16:45 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
-| 16:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.4% |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) | 1.3% |  | 2.4% |
-| 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 17:45 | IDR | Low | Car Sales (YoY) | -13.90% |  | -20.10% |
-| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.7% |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) | -2.9% | -3.1% | -1.8% |
-| 18:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | EUR | Moderate | German 10-Year Bund Auction | 2.640% |  | 2.900% |
-| 19:00 | CAD | Low | Leading Index (MoM) (Oct) | -0.01% |  | 0.08% |
-| 19:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Sep) | 0.51% |  | 0.05% |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) | 60.0% |  | 59.9% |
-| 19:30 | BRL | Low | Budget Balance (Sep) | -99.785B | -64.800B | -106.561B |
-| 19:30 | BRL | Low | Budget Surplus (Sep) | -18.071B |  | -22.830B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) | 74.4% | 74.4% | 74.3% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.61% |  | 7.86% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.5% |  | -2.1% |
-| 20:00 | USD | Low | MBA Purchase Index | 129.0 |  | 125.2 |
-| 20:00 | USD | Low | Mortgage Market Index | 165.9 |  | 161.8 |
-| 20:00 | USD | Low | Mortgage Refinance Index | 347.3 |  | 341.7 |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) | 0.6% | 0.0% | -0.1% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) | 3.3% | 2.5% | 2.4% |
-| 21:00 | BRL | Low | Auto Production (MoM) (Oct) | -4.4% |  | -8.0% |
-| 21:00 | BRL | Low | Auto Sales (MoM) (Oct) | 10.2% |  | -4.8% |
-| 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) | -6.5% | -1.6% | 4.3% |
-| 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) | 52.15 |  | 52.02 |
-| 23:00 | USD | Low | Wholesale Inventories (MoM) (Sep) | 0.2% | 0.0% | -0.1% |
-| 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) | 2.2% |  | 2.0% |
-| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 47.26 |  | 45.56 |
-| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 60.76 |  | 58.46 |
-| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 57.11 |  | 58.46 |
+| 10 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.1% | 2.1% |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.445B |
+| 02:00 | USD | Moderate | 10-Year Note Auction |  |  | 4.610% |
+| 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 02:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 03:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 05:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) |  |  | 1.6% |
+| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
+| 07:50 | JPY | Moderate | Adjusted Current Account (Sep) |  |  | 1.63T |
+| 07:50 | JPY | Low | Bank Lending (YoY) (Oct) |  | 2.8% | 2.9% |
+| 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 07:50 | JPY | Moderate | Current Account n.s.a. (Sep) |  | 3.000T | 2.280T |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 238.5B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 10.6B |
+| 08:01 | GBP | Moderate | RICS House Price Balance (Oct) |  | -65% | -69% |
+| 09:30 | CNY | Moderate | CPI (MoM) (Oct) |  |  | 0.2% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Oct) |  | -0.2% | 0.0% |
+| 09:30 | CNY | Moderate | PPI (YoY) (Oct) |  | -2.8% | -2.5% |
+| 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 1.1% |
+| 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.691% |
+| 13:00 | JPY | Low | Economy Watchers Current Index (Oct) |  | 50.1 | 49.9 |
+| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:10 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
+| 16:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 17:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | 0.6% |
+| 17:30 | ZAR | Low | Mining Production (Sep) |  |  | -2.5% |
+| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.9 |
+| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.80 |
+| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 44.86 |
+| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.27 |
+| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 46.94 |
+| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 44.08 |
+| 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.942% |
+| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.5% |
+| 20:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
+| 20:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 5.49% | 5.76% |
+| 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
+| 20:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
+| 21:30 | USD | Low | Continuing Jobless Claims |  | 1,815K | 1,818K |
+| 21:30 | USD | High | Initial Jobless Claims |  | 215K | 217K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.00K |
+| 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
+| 23:30 | USD | Low | Natural Gas Storage |  |  | 79B |
