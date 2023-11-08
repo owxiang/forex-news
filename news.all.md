@@ -17,22 +17,22 @@
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | -4.6% | -4.6% | 8.1% |
 | 08:30 | AUD | Low | Private House Approvals | -4.6% | -4.6% | 7.2% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 36 min | IDR | Low | Consumer Confidence (Oct) |  |  | 121.7 |
+| 11:00 | IDR | Low | Consumer Confidence (Oct) | 124.3 |  | 121.7 |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.0% |
 | 13:00 | JPY | Low | Leading Index |  | 108.8 | 109.2 |
-| 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
 | 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
-| 15:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
+| 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
 | 15:00 | EUR | Low | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
+| 15:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:45 | EUR | Low | French Current Account (Sep) |  |  | -0.80B |
 | 15:45 | EUR | Low | French Exports (Sep) |  |  | 50.8B |
 | 15:45 | EUR | Low | French Imports (Sep) |  |  | 59.0B |
 | 15:45 | EUR | Low | French Reserve Assets Total (Oct) |  |  | 214,351.0M |
 | 15:45 | EUR | Low | French Trade Balance (Sep) |  | -8.1B | -8.2B |
 | 16:45 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
 | 17:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -56,8 +56,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 125.2 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 161.8 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 341.7 |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.4% | 2.3% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.1% | -0.2% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.4% | 2.3% |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -2.4% | 3.4% |
 | 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
