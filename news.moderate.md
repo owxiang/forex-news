@@ -16,5 +16,5 @@
 | 16:10 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
 | 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 20:00 | MXN | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
 | 20:00 | MXN | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
+| 20:00 | MXN | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
