@@ -4,4 +4,3 @@
 |------|----------|-------|--------|----------|----------|
 | 15:00 | EUR | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
 | 22:15 | USD | Fed Chair Powell Speaks |  |  |  |
-| 23:30 | USD | Crude Oil Inventories |  |  | 0.774M |

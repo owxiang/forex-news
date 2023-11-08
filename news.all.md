@@ -17,12 +17,13 @@
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | -4.6% | -4.6% | 8.1% |
 | 08:30 | AUD | Low | Private House Approvals | -4.6% | -4.6% | 7.2% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 10:20 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
 | 11:00 | IDR | Low | Consumer Confidence (Oct) | 124.3 |  | 121.7 |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
-| 13:00 | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.0% |
-| 13:00 | JPY | Low | Leading Index |  | 108.8 | 109.2 |
-| 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
+| 41 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
+| 41 min | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.0% |
+| 41 min | JPY | Low | Leading Index |  | 108.8 | 109.2 |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
+| 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
 | 15:00 | EUR | Low | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:45 | EUR | Low | French Current Account (Sep) |  |  | -0.80B |
@@ -36,29 +37,28 @@
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
 | 18:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | 19:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | USD | Low | Milk Auctions |  |  | 3,202.0 |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
 | 19:30 | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
-| 19:30 | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
+| 19:30 | BRL | Low | Budget Balance (Sep) |  | -64.800B | -106.561B |
 | 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
 | 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.6% | 74.4% |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.86% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.1% |
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 125.2 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 161.8 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 341.7 |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.1% | -0.2% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.4% | 2.3% |
-| 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -2.4% | 3.4% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.5% | 2.3% |
+| 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -1.6% | 3.4% |
 | 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
@@ -68,13 +68,4 @@
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.56 |
 | 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.46 |
 | 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 58.46 |
-| 23:30 | USD | High | Crude Oil Inventories |  |  | 0.774M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | 0.348M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.272M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | -0.153M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.792M |
-| 23:30 | USD | Low | Gasoline Production |  |  | -0.330M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.304M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
 | 23:30 | USD | Low | Gasoline Inventories |  |  | 0.065M |

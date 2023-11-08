@@ -10,9 +10,9 @@
 | 08:30 | AUD | Private House Approvals | -4.6% | -4.6% | 7.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:00 | IDR | Consumer Confidence (Oct) | 124.3 |  | 121.7 |
-| 13:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
-| 13:00 | JPY | Leading Index (MoM) (Sep) |  |  | 1.0% |
-| 13:00 | JPY | Leading Index |  | 108.8 | 109.2 |
+| 41 min | JPY | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
+| 41 min | JPY | Leading Index (MoM) (Sep) |  |  | 1.0% |
+| 41 min | JPY | Leading Index |  | 108.8 | 109.2 |
 | 15:00 | EUR | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:00 | EUR | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:45 | EUR | French Current Account (Sep) |  |  | -0.80B |
@@ -22,16 +22,15 @@
 | 15:45 | EUR | French Trade Balance (Sep) |  | -8.1B | -8.2B |
 | 17:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
+| 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
-| 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.2% | -2.1% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | USD | Milk Auctions |  |  | 3,202.0 |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
 | 19:30 | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
-| 19:30 | BRL | Budget Balance (Sep) |  | -68.000B | -106.561B |
+| 19:30 | BRL | Budget Balance (Sep) |  | -64.800B | -106.561B |
 | 19:30 | BRL | Budget Surplus (Sep) |  |  | -22.830B |
 | 19:30 | BRL | Budget Surplus (Sep) |  |  | -22.830B |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.86% |
@@ -46,11 +45,4 @@
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.56 |
 | 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.46 |
 | 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 58.46 |
-| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 23:30 | USD | Crude Oil Imports |  |  | 0.348M |
-| 23:30 | USD | Distillate Fuel Production |  |  | -0.153M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.792M |
-| 23:30 | USD | Gasoline Production |  |  | -0.330M |
-| 23:30 | USD | Heating Oil Stockpiles |  |  | 0.304M |
-| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
 | 23:30 | USD | Gasoline Inventories |  |  | 0.065M |
