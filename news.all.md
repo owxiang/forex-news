@@ -17,13 +17,12 @@
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | -4.6% | -4.6% | 8.1% |
 | 08:30 | AUD | Low | Private House Approvals | -4.6% | -4.6% | 7.2% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 51 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
-| 11:00 | IDR | Low | Consumer Confidence (Oct) |  |  | 121.7 |
+| 36 min | IDR | Low | Consumer Confidence (Oct) |  |  | 121.7 |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.0% |
 | 13:00 | JPY | Low | Leading Index |  | 108.8 | 109.2 |
-| 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
+| 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
 | 15:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:00 | EUR | Low | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:45 | EUR | Low | French Current Account (Sep) |  |  | -0.80B |
@@ -57,8 +56,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 125.2 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 161.8 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 341.7 |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.1% | -0.2% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.4% | 2.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.1% | -0.2% |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -2.4% | 3.4% |
 | 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |

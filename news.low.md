@@ -9,7 +9,7 @@
 | 07:50 | JPY | Foreign Reserves (USD) (Oct) | 1,238.0B |  | 1,237.2B |
 | 08:30 | AUD | Private House Approvals | -4.6% | -4.6% | 7.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 11:00 | IDR | Consumer Confidence (Oct) |  |  | 121.7 |
+| 36 min | IDR | Consumer Confidence (Oct) |  |  | 121.7 |
 | 13:00 | JPY | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
 | 13:00 | JPY | Leading Index (MoM) (Sep) |  |  | 1.0% |
 | 13:00 | JPY | Leading Index |  | 108.8 | 109.2 |
