@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.1% | 2.1% |
-| 02:00 | USD | 10-Year Note Auction |  |  | 4.610% |
+| 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.1% | 2.1% | 2.1% |
+| 45 min | USD | 10-Year Note Auction |  |  | 4.610% |
 | 02:40 | USD | FOMC Member Williams Speaks |  |  |  |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
 | 07:50 | JPY | Adjusted Current Account (Sep) |  |  | 1.63T |
@@ -16,5 +16,5 @@
 | 16:10 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
 | 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 20:00 | MXN | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
 | 20:00 | MXN | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
+| 20:00 | MXN | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
