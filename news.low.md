@@ -13,17 +13,17 @@
 | 13:00 | JPY | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
 | 13:00 | JPY | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
 | 13:00 | JPY | Leading Index | 108.7 | 108.8 | 109.2 |
-| 15:00 | EUR | German HICP (YoY) (Oct) | 3.0% | 3.0% | 4.3% |
 | 15:00 | EUR | German HICP (MoM) (Oct) | -0.2% | -0.2% | 0.2% |
+| 15:00 | EUR | German HICP (YoY) (Oct) | 3.0% | 3.0% | 4.3% |
 | 15:45 | EUR | French Current Account (Sep) | -2.50B |  | -1.10B |
 | 15:45 | EUR | French Exports (Sep) | 49.1B |  | 50.5B |
 | 15:45 | EUR | French Imports (Sep) | 58.0B |  | 58.9B |
 | 15:45 | EUR | French Reserve Assets Total (Oct) | 224,598.0M |  | 214,351.0M |
 | 15:45 | EUR | French Trade Balance (Sep) | -8.9B | -8.1B | -8.3B |
-| 40 min | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
-| 40 min | EUR | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
-| 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
-| 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
+| 17:00 | EUR | Italian Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.4% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Sep) | 1.3% |  | 2.4% |
+| 45 min | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
+| 45 min | EUR | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
