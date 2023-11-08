@@ -21,5 +21,5 @@
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) | 74.4% | 74.4% | 74.3% |
 | 20:00 | BRL | Retail Sales (MoM) (Sep) | 0.6% | 0.0% | -0.1% |
 | 20:00 | BRL | Retail Sales (YoY) (Sep) | 3.3% | 2.5% | 2.4% |
-| 11 min | CAD | Building Permits (MoM) (Sep) |  | -1.6% | 3.4% |
-| 41 min | EUR | ECB's Enria Speaks |  |  |  |
+| 21:30 | CAD | Building Permits (MoM) (Sep) | -6.5% | -1.6% | 4.3% |
+| 22:00 | EUR | ECB's Enria Speaks |  |  |  |
