@@ -22,24 +22,24 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
 | 13:00 | JPY | Low | Leading Index | 108.7 | 108.8 | 109.2 |
-| 15:00 | EUR | High | German CPI (MoM) (Oct) | 0.0% | 0.0% | 0.3% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Oct) | 3.8% | 3.8% | 4.5% |
+| 15:00 | EUR | High | German CPI (MoM) (Oct) | 0.0% | 0.0% | 0.3% |
 | 15:00 | EUR | Low | German HICP (YoY) (Oct) | 3.0% | 3.0% | 4.3% |
 | 15:00 | EUR | Low | German HICP (MoM) (Oct) | -0.2% | -0.2% | 0.2% |
-| 31 min | EUR | Low | French Current Account (Sep) |  |  | -0.80B |
-| 31 min | EUR | Low | French Exports (Sep) |  |  | 50.8B |
-| 31 min | EUR | Low | French Imports (Sep) |  |  | 59.0B |
-| 31 min | EUR | Low | French Reserve Assets Total (Oct) |  |  | 214,351.0M |
-| 31 min | EUR | Low | French Trade Balance (Sep) |  | -8.1B | -8.2B |
-| 16:45 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
-| 16:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
+| 15:45 | EUR | Low | French Current Account (Sep) | -2.50B |  | -1.10B |
+| 15:45 | EUR | Low | French Exports (Sep) | 49.1B |  | 50.5B |
+| 15:45 | EUR | Low | French Imports (Sep) | 58.0B |  | 58.9B |
+| 15:45 | EUR | Low | French Reserve Assets Total (Oct) | 224,598.0M |  | 214,351.0M |
+| 15:45 | EUR | Low | French Trade Balance (Sep) | -8.9B | -8.1B | -8.3B |
+| 25 min | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
+| 25 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 40 min | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
+| 40 min | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | 19:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -65,4 +65,3 @@
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.56 |
 | 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.46 |
 | 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 58.46 |
-| 23:30 | USD | Low | Gasoline Inventories |  |  | 0.065M |
