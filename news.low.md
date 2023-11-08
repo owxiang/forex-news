@@ -20,11 +20,11 @@
 | 15:45 | EUR | French Imports (Sep) | 58.0B |  | 58.9B |
 | 15:45 | EUR | French Reserve Assets Total (Oct) | 224,598.0M |  | 214,351.0M |
 | 15:45 | EUR | French Trade Balance (Sep) | -8.9B | -8.1B | -8.3B |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Sep) | 1.3% |  | 2.4% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.4% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Sep) | 1.3% |  | 2.4% |
 | 17:45 | IDR | Car Sales (YoY) | -13.90% |  | -20.10% |
-| 18:00 | EUR | Retail Sales (YoY) (Sep) | -2.9% | -3.1% | -1.8% |
 | 18:00 | EUR | Retail Sales (MoM) (Sep) | -0.3% | -0.2% | -0.7% |
+| 18:00 | EUR | Retail Sales (YoY) (Sep) | -2.9% | -3.1% | -1.8% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Oct) | -0.01% |  | 0.08% |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Sep) | 0.51% |  | 0.05% |
@@ -36,6 +36,8 @@
 | 20:00 | USD | MBA Purchase Index | 129.0 |  | 125.2 |
 | 20:00 | USD | Mortgage Market Index | 165.9 |  | 161.8 |
 | 20:00 | USD | Mortgage Refinance Index | 347.3 |  | 341.7 |
+| 21:00 | BRL | Auto Production (MoM) (Oct) | -4.4% |  | -8.0% |
+| 21:00 | BRL | Auto Sales (MoM) (Oct) | 10.2% |  | -4.8% |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.02 |
 | 23:00 | USD | Wholesale Inventories (MoM) (Sep) |  | 0.0% | -0.1% |

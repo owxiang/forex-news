@@ -3,4 +3,4 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 15:00 | EUR | German CPI (MoM) (Oct) | 0.0% | 0.0% | 0.3% |
-| 22:15 | USD | Fed Chair Powell Speaks |  |  |  |
+| 56 min | USD | Fed Chair Powell Speaks |  |  |  |
