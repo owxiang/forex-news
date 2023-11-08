@@ -11,7 +11,7 @@
 | 06:00 | USD | API Weekly Crude Oil Stock | 11.900M | -0.300M | 1.347M |
 | 08:30 | AUD | Building Approvals (MoM) | -4.6% | -4.6% | 8.1% |
 | 10:20 | NZD | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
-| 15:00 | EUR | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
+| 40 min | EUR | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
 | 16:45 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
 | 16:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
@@ -20,7 +20,7 @@
 | 19:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
-| 20:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
 | 20:00 | BRL | Retail Sales (YoY) (Sep) |  | 2.5% | 2.3% |
+| 20:00 | BRL | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
 | 21:30 | CAD | Building Permits (MoM) (Sep) |  | -1.6% | 3.4% |
 | 22:00 | EUR | ECB's Enria Speaks |  |  |  |

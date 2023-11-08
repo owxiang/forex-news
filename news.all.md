@@ -22,10 +22,10 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
 | 13:00 | JPY | Low | Leading Index | 108.7 | 108.8 | 109.2 |
-| 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
-| 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
-| 15:00 | EUR | Low | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
-| 15:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
+| 40 min | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
+| 40 min | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
+| 40 min | EUR | Low | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
+| 40 min | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:45 | EUR | Low | French Current Account (Sep) |  |  | -0.80B |
 | 15:45 | EUR | Low | French Exports (Sep) |  |  | 50.8B |
 | 15:45 | EUR | Low | French Imports (Sep) |  |  | 59.0B |
@@ -38,16 +38,16 @@
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:15 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Oct) |  |  | 0.08% |
 | 19:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Sep) |  |  | 59.9% |
-| 19:30 | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
 | 19:30 | BRL | Low | Budget Balance (Sep) |  | -64.800B | -106.561B |
+| 19:30 | BRL | Low | Budget Balance (Sep) |  | -68.000B | -106.561B |
 | 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
 | 19:30 | BRL | Low | Budget Surplus (Sep) |  |  | -22.830B |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Sep) |  | 74.4% | 74.4% |
@@ -57,8 +57,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 125.2 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 161.8 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 341.7 |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Sep) |  | 2.5% | 2.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.2% |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) |  | -1.6% | 3.4% |
 | 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
