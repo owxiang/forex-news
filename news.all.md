@@ -19,11 +19,11 @@
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 10:20 | NZD | Moderate | Inflation Expectations (QoQ) | 2.8% |  | 2.8% |
 | 11:00 | IDR | Low | Consumer Confidence (Oct) | 124.3 |  | 121.7 |
-| 41 min | JPY | Low | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
-| 41 min | JPY | Low | Leading Index (MoM) (Sep) |  |  | 1.0% |
-| 41 min | JPY | Low | Leading Index |  | 108.8 | 109.2 |
-| 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
+| 13:00 | JPY | Low | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
+| 13:00 | JPY | Low | Leading Index | 108.7 | 108.8 | 109.2 |
 | 15:00 | EUR | High | German CPI (MoM) (Oct) |  | 0.0% | 0.3% |
+| 15:00 | EUR | Moderate | German CPI (YoY) (Oct) |  | 3.8% | 4.5% |
 | 15:00 | EUR | Low | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:00 | EUR | Low | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:45 | EUR | Low | French Current Account (Sep) |  |  | -0.80B |
@@ -32,8 +32,9 @@
 | 15:45 | EUR | Low | French Reserve Assets Total (Oct) |  |  | 214,351.0M |
 | 15:45 | EUR | Low | French Trade Balance (Sep) |  | -8.1B | -8.2B |
 | 16:45 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
+| 16:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
 | 17:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.900% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

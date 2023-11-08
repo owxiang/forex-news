@@ -10,9 +10,9 @@
 | 08:30 | AUD | Private House Approvals | -4.6% | -4.6% | 7.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:00 | IDR | Consumer Confidence (Oct) | 124.3 |  | 121.7 |
-| 41 min | JPY | Coincident Indicator (MoM) (Sep) |  |  | 0.4% |
-| 41 min | JPY | Leading Index (MoM) (Sep) |  |  | 1.0% |
-| 41 min | JPY | Leading Index |  | 108.8 | 109.2 |
+| 13:00 | JPY | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
+| 13:00 | JPY | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
+| 13:00 | JPY | Leading Index | 108.7 | 108.8 | 109.2 |
 | 15:00 | EUR | German HICP (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:00 | EUR | German HICP (YoY) (Oct) |  | 3.0% | 4.3% |
 | 15:45 | EUR | French Current Account (Sep) |  |  | -0.80B |
@@ -20,8 +20,8 @@
 | 15:45 | EUR | French Imports (Sep) |  |  | 59.0B |
 | 15:45 | EUR | French Reserve Assets Total (Oct) |  |  | 214,351.0M |
 | 15:45 | EUR | French Trade Balance (Sep) |  | -8.1B | -8.2B |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Sep) |  | -0.2% | -0.4% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Sep) |  |  | 2.4% |
 | 18:00 | EUR | Retail Sales (YoY) (Sep) |  | -3.1% | -2.1% |
 | 18:00 | EUR | Retail Sales (MoM) (Sep) |  | -0.2% | -1.2% |
 | 18:15 | USD | Fed Governor Cook Speaks |  |  |  |
