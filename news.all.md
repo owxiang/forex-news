@@ -22,10 +22,10 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Sep) | 0.1% |  | 0.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Sep) | -0.5% |  | 1.0% |
 | 13:00 | JPY | Low | Leading Index | 108.7 | 108.8 | 109.2 |
-| 15:00 | EUR | High | German CPI (MoM) (Oct) | 0.0% | 0.0% | 0.3% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Oct) | 3.8% | 3.8% | 4.5% |
-| 15:00 | EUR | Low | German HICP (MoM) (Oct) | -0.2% | -0.2% | 0.2% |
+| 15:00 | EUR | High | German CPI (MoM) (Oct) | 0.0% | 0.0% | 0.3% |
 | 15:00 | EUR | Low | German HICP (YoY) (Oct) | 3.0% | 3.0% | 4.3% |
+| 15:00 | EUR | Low | German HICP (MoM) (Oct) | -0.2% | -0.2% | 0.2% |
 | 15:45 | EUR | Low | French Current Account (Sep) | -2.50B |  | -1.10B |
 | 15:45 | EUR | Low | French Exports (Sep) | 49.1B |  | 50.5B |
 | 15:45 | EUR | Low | French Imports (Sep) | 58.0B |  | 58.9B |
@@ -61,10 +61,9 @@
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Sep) | -6.5% | -1.6% | 4.3% |
 | 22:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 46 min | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 46 min | USD | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 52.02 |
-| 46 min | USD | Low | Wholesale Inventories (MoM) (Sep) |  | 0.0% | -0.1% |
-| 46 min | USD | Low | Wholesale Trade Sales (MoM) (Sep) |  |  | 1.8% |
-| 46 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 45.56 |
-| 46 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 58.46 |
-| 46 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) |  |  | 58.46 |
+| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Nov) | 52.15 |  | 52.02 |
+| 23:00 | USD | Low | Wholesale Inventories (MoM) (Sep) | 0.2% | 0.0% | -0.1% |
+| 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Sep) | 2.2% |  | 2.0% |
+| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 47.26 |  | 45.56 |
+| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 60.76 |  | 58.46 |
+| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Nov) | 57.11 |  | 58.46 |
