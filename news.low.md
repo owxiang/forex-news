@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 03:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 31 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 31 min | NZD | Electronic Card Retail Sales (YoY) |  |  | 1.6% |
+| 05:45 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) |  |  | 1.6% |
 | 07:50 | JPY | Bank Lending (YoY) (Oct) |  | 2.8% | 2.9% |
 | 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 238.5B |
@@ -27,8 +27,8 @@
 | 19:00 | ZAR | Manufacturing Production (MoM) (Sep) |  |  | 0.5% |
 | 20:00 | MXN | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 5.49% | 5.76% |
-| 20:00 | MXN | PPI (MoM) (Oct) |  |  | 0.50% |
 | 20:00 | MXN | PPI (YoY) (Oct) |  |  | 0.70% |
+| 20:00 | MXN | PPI (MoM) (Oct) |  |  | 0.50% |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,815K | 1,818K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |

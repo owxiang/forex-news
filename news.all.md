@@ -7,9 +7,9 @@
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 02:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 03:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 31 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 31 min | NZD | Low | Electronic Card Retail Sales (YoY) |  |  | 1.6% |
-| 31 min | NZD | Moderate | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
+| 05:45 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) |  |  | 1.6% |
+| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Sep) |  |  | 1.63T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Oct) |  | 2.8% | 2.9% |
 | 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
@@ -43,8 +43,8 @@
 | 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 5.49% | 5.76% |
-| 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
+| 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,815K | 1,818K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 215K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.00K |

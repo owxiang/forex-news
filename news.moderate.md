@@ -5,7 +5,7 @@
 | 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.1% | 2.1% | 2.1% |
 | 02:00 | USD | 10-Year Note Auction | 4.519% |  | 4.610% |
 | 02:40 | USD | FOMC Member Williams Speaks |  |  |  |
-| 31 min | NZD | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
+| 05:45 | NZD | Electronic Card Retail Sales (MoM) |  |  | -0.8% |
 | 07:50 | JPY | Adjusted Current Account (Sep) |  |  | 1.63T |
 | 07:50 | JPY | Current Account n.s.a. (Sep) |  | 3.000T | 2.280T |
 | 08:01 | GBP | RICS House Price Balance (Oct) |  | -65% | -69% |
