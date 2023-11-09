@@ -23,12 +23,12 @@
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 44.08 |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.942% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.5% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 20:00 | MXN | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 5.50% | 5.76% |
-| 20:00 | MXN | PPI (MoM) (Oct) |  |  | 0.50% |
 | 20:00 | MXN | PPI (YoY) (Oct) |  |  | 0.70% |
+| 20:00 | MXN | PPI (MoM) (Oct) |  |  | 0.50% |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,818K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |

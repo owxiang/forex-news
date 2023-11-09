@@ -8,8 +8,8 @@
 | 07:50 | JPY | Adjusted Current Account (Sep) | 2.01T | 2.30T | 1.50T |
 | 07:50 | JPY | Current Account n.s.a. (Sep) | 2.724T | 3.000T | 2.280T |
 | 08:01 | GBP | RICS House Price Balance (Oct) | -63% | -65% | -67% |
-| 09:30 | CNY | CPI (YoY) (Oct) | -0.2% | -0.1% | 0.0% |
 | 09:30 | CNY | CPI (MoM) (Oct) | -0.1% | 0.0% | 0.2% |
+| 09:30 | CNY | CPI (YoY) (Oct) | -0.2% | -0.1% | 0.0% |
 | 09:30 | CNY | PPI (YoY) (Oct) | -2.6% | -2.7% | -2.5% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:10 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
