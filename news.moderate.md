@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | EUR | German Buba Balz Speaks |  |  |  |
-| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 24 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 39 min | USD | WASDE Report |  |  |  |
-| 01:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 00:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 00:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 00:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 01:00 | USD | WASDE Report |  |  |  |
+| 16 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 03:00 | MXN | Interest Rate Decision (Nov) |  | 11.25% | 11.25% |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 7,867B |
 | 05:30 | NZD | Business NZ PMI (Oct) |  |  | 45.3 |

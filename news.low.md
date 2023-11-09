@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 9 min | USD | 4-Week Bill Auction |  |  | 5.290% |
-| 9 min | USD | 8-Week Bill Auction |  |  | 5.300% |
-| 39 min | USD | 30-Year Bond Auction |  |  | 4.837% |
-| 54 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.290% |
+| 00:30 | USD | 8-Week Bill Auction | 5.290% |  | 5.300% |
+| 01:15 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 46 min | USD | 30-Year Bond Auction |  |  | 4.837% |
 | 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.315T |
 | 07:50 | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
 | 07:50 | JPY | M3 Money Supply (Oct) |  |  | 2,114.9% |
@@ -16,8 +16,8 @@
 | 10:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.06 |
 | 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
 | 15:00 | GBP | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
+| 15:00 | GBP | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | GDP (YoY) (Sep) |  |  | 0.5% |
 | 15:00 | GBP | Index of Services |  | -0.2% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Sep) |  | 1.1% | 1.3% |
@@ -30,10 +30,10 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.4% | 10.3% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 10.9% |
 | 16:00 | CNY | Chinese Total Social Financing |  |  | 4,120.0B |
-| 16:30 | HKD | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 16:30 | HKD | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
+| 16:30 | HKD | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.93% |

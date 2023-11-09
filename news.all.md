@@ -3,15 +3,15 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 9 min | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
-| 9 min | USD | Low | 8-Week Bill Auction |  |  | 5.300% |
-| 9 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 9 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 24 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 39 min | USD | Low | 30-Year Bond Auction |  |  | 4.837% |
-| 39 min | USD | Moderate | WASDE Report |  |  |  |
-| 54 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 01:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 00:30 | USD | Low | 4-Week Bill Auction | 5.290% |  | 5.290% |
+| 00:30 | USD | Low | 8-Week Bill Auction | 5.290% |  | 5.300% |
+| 00:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 00:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 00:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 01:00 | USD | Moderate | WASDE Report |  |  |  |
+| 01:15 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 16 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 46 min | USD | Low | 30-Year Bond Auction |  |  | 4.837% |
 | 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Nov) |  | 11.25% | 11.25% |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,867B |
@@ -27,11 +27,11 @@
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (MoM) (Sep) |  | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Sep) |  |  | 0.5% |
 | 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
@@ -50,10 +50,10 @@
 | 16:00 | CNY | Moderate | New Loans |  | 650.0B | 2,310.0B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 10.9% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  |  | 4,120.0B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.93% |
