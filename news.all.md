@@ -21,9 +21,9 @@
 | 11:00 | IDR | Low | Retail Sales (YoY) (Sep) | 1.5% |  | 1.1% |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.741% |  | 1.691% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Oct) | 49.5 | 50.1 | 49.9 |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:10 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
-| 16:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 46 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 56 min | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
+| 56 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:35 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |

@@ -11,9 +11,9 @@
 | 09:30 | CNY | CPI (MoM) (Oct) | -0.1% | 0.0% | 0.2% |
 | 09:30 | CNY | CPI (YoY) (Oct) | -0.2% | -0.1% | 0.0% |
 | 09:30 | CNY | PPI (YoY) (Oct) | -2.6% | -2.7% | -2.5% |
-| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:10 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
-| 16:10 | EUR | ECB's Lane Speaks |  |  |  |
+| 46 min | EUR | German Buba Balz Speaks |  |  |  |
+| 56 min | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
+| 56 min | EUR | ECB's Lane Speaks |  |  |  |
 | 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 20:00 | MXN | CPI (YoY) (Oct) |  | 4.28% | 4.45% |
