@@ -21,12 +21,12 @@
 | 11:00 | IDR | Low | Retail Sales (YoY) (Sep) | 1.5% |  | 1.1% |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.741% |  | 1.691% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Oct) | 49.5 | 50.1 | 49.9 |
-| 46 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 56 min | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
-| 56 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 16:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 16:35 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 16:10 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
+| 16:10 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 41 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Sep) |  |  | 0.6% |
 | 17:30 | ZAR | Low | Mining Production (Sep) |  | -2.0% | -2.5% |
 | 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.9 |
@@ -43,8 +43,8 @@
 | 20:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.28% | 4.45% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.39% | 0.44% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 5.50% | 5.76% |
-| 20:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
 | 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
+| 20:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,820K | 1,818K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 215K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.00K |
