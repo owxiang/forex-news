@@ -8,8 +8,8 @@
 | 01:00 | USD | WASDE Report |  |  |  |
 | 01:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 03:00 | MXN | Interest Rate Decision (Nov) | 11.25% | 11.25% | 11.25% |
-| 17 min | USD | Fed's Balance Sheet |  |  | 7,867B |
-| 17 min | NZD | Business NZ PMI (Oct) |  |  | 45.3 |
+| 05:30 | USD | Fed's Balance Sheet | 7,861B |  | 7,867B |
+| 05:30 | NZD | Business NZ PMI (Oct) | 42.5 |  | 45.3 |
 | 08:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 15:00 | GBP | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
 | 15:00 | GBP | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |

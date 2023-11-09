@@ -8,7 +8,7 @@
 | 01:15 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 01:30 | BRL | Foreign Exchange Flows | 1.757B |  | -1.445B |
 | 02:00 | USD | 30-Year Bond Auction | 4.769% |  | 4.837% |
-| 17 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.315T |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.360T |  | 3.315T |
 | 07:50 | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
 | 07:50 | JPY | M3 Money Supply (Oct) |  |  | 2,114.9% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 39.21 |
@@ -17,8 +17,8 @@
 | 10:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.06 |
 | 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
 | 15:00 | GBP | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
+| 15:00 | GBP | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | GDP (YoY) (Sep) |  |  | 0.5% |
 | 15:00 | GBP | Index of Services |  | -0.2% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Sep) |  | 1.1% | 1.3% |

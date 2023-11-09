@@ -15,9 +15,9 @@
 | 02:00 | USD | Low | 30-Year Bond Auction | 4.769% |  | 4.837% |
 | 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Nov) | 11.25% | 11.25% | 11.25% |
-| 17 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,867B |
-| 17 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.315T |
-| 17 min | NZD | Moderate | Business NZ PMI (Oct) |  |  | 45.3 |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,861B |  | 7,867B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.360T |  | 3.315T |
+| 05:30 | NZD | Moderate | Business NZ PMI (Oct) | 42.5 |  | 45.3 |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
 | 07:50 | JPY | Low | M3 Money Supply (Oct) |  |  | 2,114.9% |
 | 08:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
@@ -28,11 +28,11 @@
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (MoM) (Sep) |  | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Sep) |  |  | 0.5% |
 | 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
@@ -66,8 +66,8 @@
 | 20:00 | INR | Low | Cumulative Industrial Production (Sep) |  |  | 6.10% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Sep) |  |  | 10.3% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Sep) |  |  | 9.3% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.86% | 5.19% |
 | 20:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.28% | 0.26% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.86% | 5.19% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.31% |
 | 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
