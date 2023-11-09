@@ -27,18 +27,18 @@
 | 16:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 16:35 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 15 min | ZAR | Low | Gold Production (YoY) (Sep) |  |  | 0.6% |
-| 15 min | ZAR | Low | Mining Production (Sep) |  | -2.0% | -2.5% |
-| 45 min | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) |  |  | 49.9 |
-| 45 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.80 |
-| 45 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) |  |  | 44.86 |
-| 45 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) |  |  | 43.27 |
-| 45 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 46.94 |
-| 45 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 44.08 |
-| 55 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.942% |
+| 17:30 | ZAR | Low | Gold Production (YoY) (Sep) | -0.1% |  | 0.5% |
+| 17:30 | ZAR | Low | Mining Production (Sep) | -1.9% | -2.0% | -2.0% |
+| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Nov) | 45.8 |  | 49.9 |
+| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Nov) | 44.59 |  | 43.80 |
+| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Nov) | 47.11 |  | 44.86 |
+| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Nov) | 42.83 |  | 43.27 |
+| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 45.82 |  | 46.94 |
+| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 39.21 |  | 44.08 |
+| 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.942% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.5% |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
+| 44 min | ZAR | Low | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.5% |
+| 44 min | ZAR | Low | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.28% | 4.45% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.39% | 0.44% |
