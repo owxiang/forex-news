@@ -9,7 +9,7 @@
 | 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 07:50 | JPY | Foreign Bonds Buying | -388.4B |  | 240.8B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 313.5B |  | 10.5B |
-| 11:00 | IDR | Retail Sales (YoY) |  |  | 1.1% |
+| 36 min | IDR | Retail Sales (YoY) |  |  | 1.1% |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.691% |
 | 13:00 | JPY | Economy Watchers Current Index (Oct) |  | 50.1 | 49.9 |
 | 17:30 | ZAR | Gold Production (YoY) (Sep) |  |  | 0.6% |
@@ -22,8 +22,8 @@
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 44.08 |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.942% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Sep) |  |  | 0.5% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 20:00 | MXN | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 5.49% | 5.76% |
 | 20:00 | MXN | PPI (MoM) (Oct) |  |  | 0.50% |

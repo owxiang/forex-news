@@ -15,10 +15,10 @@
 | 07:50 | JPY | Low | Foreign Bonds Buying | -388.4B |  | 240.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 313.5B |  | 10.5B |
 | 08:01 | GBP | Moderate | RICS House Price Balance (Oct) | -63% | -65% | -67% |
-| 20 min | CNY | Moderate | CPI (MoM) (Oct) |  |  | 0.2% |
-| 20 min | CNY | Moderate | CPI (YoY) (Oct) |  | -0.2% | 0.0% |
-| 20 min | CNY | Moderate | PPI (YoY) (Oct) |  | -2.8% | -2.5% |
-| 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 1.1% |
+| 09:30 | CNY | Moderate | CPI (MoM) (Oct) | -0.1% |  | 0.2% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Oct) | -0.2% | -0.2% | 0.0% |
+| 09:30 | CNY | Moderate | PPI (YoY) (Oct) | -2.6% | -2.8% | -2.5% |
+| 36 min | IDR | Low | Retail Sales (YoY) |  |  | 1.1% |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.691% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Oct) |  | 50.1 | 49.9 |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -35,11 +35,11 @@
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 44.08 |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.942% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) |  |  | 0.5% |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) |  | -2.6% | 1.6% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 5.49% | 5.76% |
 | 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
