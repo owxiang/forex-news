@@ -18,8 +18,8 @@
 | 09:30 | CNY | Moderate | CPI (MoM) (Oct) | -0.1% |  | 0.2% |
 | 09:30 | CNY | Moderate | CPI (YoY) (Oct) | -0.2% | -0.2% | 0.0% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Oct) | -2.6% | -2.8% | -2.5% |
-| 36 min | IDR | Low | Retail Sales (YoY) |  |  | 1.1% |
-| 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.691% |
+| 11:00 | IDR | Low | Retail Sales (YoY) (Sep) | 1.5% |  | 1.1% |
+| 19 min | JPY | Low | 30-Year JGB Auction |  |  | 1.691% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Oct) |  | 50.1 | 49.9 |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:10 | CAD | Moderate | BoC Gov Council Member Lane Speaks |  |  |  |
@@ -41,8 +41,8 @@
 | 20:00 | MXN | Moderate | CPI (YoY) (Oct) |  | 4.26% | 4.45% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Oct) |  | 0.38% | 0.44% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 5.49% | 5.76% |
-| 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
+| 20:00 | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,815K | 1,818K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 215K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.00K |
