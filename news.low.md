@@ -26,9 +26,8 @@
 | 19:00 | ZAR | Manufacturing Production (YoY) (Sep) | -4.3% | -2.6% | 1.5% |
 | 20:00 | MXN | Core CPI (MoM) (Oct) | 0.39% | 0.38% | 0.36% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Oct) | 5.50% | 5.50% | 5.76% |
-| 20:00 | MXN | PPI (YoY) (Oct) | 1.30% |  | 0.60% |
 | 20:00 | MXN | PPI (MoM) (Oct) | 0.50% |  | 0.30% |
+| 20:00 | MXN | PPI (YoY) (Oct) | 1.30% |  | 0.60% |
 | 21:30 | USD | Continuing Jobless Claims | 1,834K | 1,820K | 1,812K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. | 212.25K |  | 210.75K |
-| Tentative | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 23:30 | USD | Natural Gas Storage |  |  | 79B |
+| 14 min | USD | Natural Gas Storage |  |  | 79B |

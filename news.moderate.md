@@ -16,6 +16,6 @@
 | 16:10 | EUR | ECB's Lane Speaks |  |  |  |
 | 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 20:00 | MXN | CPI (MoM) (Oct) | 0.38% | 0.39% | 0.44% |
 | 20:00 | MXN | CPI (YoY) (Oct) | 4.26% | 4.28% | 4.45% |
-| 16 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 20:00 | MXN | CPI (MoM) (Oct) | 0.38% | 0.39% | 0.44% |
+| 22:30 | USD | FOMC Member Bostic Speaks |  |  |  |
