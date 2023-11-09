@@ -11,7 +11,7 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 313.5B |  | 10.5B |
 | 11:00 | IDR | Retail Sales (YoY) (Sep) | 1.5% |  | 1.1% |
 | 11:35 | JPY | 30-Year JGB Auction | 1.741% |  | 1.691% |
-| 41 min | JPY | Economy Watchers Current Index (Oct) |  | 50.1 | 49.9 |
+| 13:00 | JPY | Economy Watchers Current Index (Oct) | 49.5 | 50.1 | 49.9 |
 | 16:35 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 17:30 | ZAR | Gold Production (YoY) (Sep) |  |  | 0.6% |
 | 17:30 | ZAR | Mining Production (Sep) |  | -2.0% | -2.5% |
@@ -27,8 +27,8 @@
 | 19:00 | ZAR | Manufacturing Production (MoM) (Sep) |  | 0.1% | 0.5% |
 | 20:00 | MXN | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Oct) |  | 5.50% | 5.76% |
-| 20:00 | MXN | PPI (YoY) (Oct) |  |  | 0.70% |
 | 20:00 | MXN | PPI (MoM) (Oct) |  |  | 0.50% |
+| 20:00 | MXN | PPI (YoY) (Oct) |  |  | 0.70% |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,820K | 1,818K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
