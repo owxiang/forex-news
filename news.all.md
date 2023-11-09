@@ -10,10 +10,11 @@
 | 00:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 01:00 | USD | Moderate | WASDE Report |  |  |  |
 | 01:15 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 16 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 46 min | USD | Low | 30-Year Bond Auction |  |  | 4.837% |
-| 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 03:00 | MXN | Moderate | Interest Rate Decision (Nov) |  | 11.25% | 11.25% |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 1.757B |  | -1.445B |
+| 01:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 02:00 | USD | Low | 30-Year Bond Auction | 4.769% |  | 4.837% |
+| 40 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 40 min | MXN | Moderate | Interest Rate Decision (Nov) |  | 11.25% | 11.25% |
 | 04:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,867B |
 | 04:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.315T |
 | 05:30 | NZD | Moderate | Business NZ PMI (Oct) |  |  | 45.3 |
@@ -27,11 +28,11 @@
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
+| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
 | 15:00 | GBP | High | GDP (MoM) (Sep) |  | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Sep) |  |  | 0.5% |
 | 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
@@ -43,17 +44,17 @@
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Sep) |  |  | -4.90B |
 | 15:00 | NOK | Low | Core CPI YTD (Oct) |  | 5.6% | 5.7% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Oct) |  | 0.3% | 0.4% |
-| 15:00 | NOK | Low | CPI (YoY) (Oct) |  | 3.4% | 3.3% |
 | 15:00 | NOK | Low | CPI (MoM) (Oct) |  |  | -0.1% |
+| 15:00 | NOK | Low | CPI (YoY) (Oct) |  | 3.4% | 3.3% |
 | 15:00 | NOK | Low | PPI (YoY) (Oct) |  |  | -29.3% |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.4% | 10.3% |
 | 16:00 | CNY | Moderate | New Loans |  | 650.0B | 2,310.0B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 10.9% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  |  | 4,120.0B |
-| 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
 | 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
+| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.93% |
