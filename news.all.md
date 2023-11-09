@@ -36,15 +36,14 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 45.82 |  | 46.94 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 39.21 |  | 44.08 |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction | 3.860% |  | 3.942% |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | -4.3% | -2.6% | 1.5% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Sep) | -0.5% | 0.1% | 0.4% |
-| 47 min | MXN | Low | Core CPI (MoM) (Oct) |  | 0.38% | 0.36% |
-| 47 min | MXN | Moderate | CPI (MoM) (Oct) |  | 0.39% | 0.44% |
-| 47 min | MXN | Moderate | CPI (YoY) (Oct) |  | 4.28% | 4.45% |
-| 47 min | MXN | Low | Month Core Inflation (MoM) (Oct) |  | 5.50% | 5.76% |
-| 47 min | MXN | Low | PPI (YoY) (Oct) |  |  | 0.70% |
-| 47 min | MXN | Low | PPI (MoM) (Oct) |  |  | 0.50% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Sep) | -4.3% | -2.6% | 1.5% |
+| 20:00 | MXN | Low | Core CPI (MoM) (Oct) | 0.39% | 0.38% | 0.36% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Oct) | 0.38% | 0.39% | 0.44% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Oct) | 4.26% | 4.28% | 4.45% |
+| 20:00 | MXN | Low | Month Core Inflation (MoM) (Oct) | 5.50% | 5.50% | 5.76% |
+| 20:00 | MXN | Low | PPI (YoY) (Oct) | 1.30% |  | 0.60% |
+| 20:00 | MXN | Low | PPI (MoM) (Oct) | 0.50% |  | 0.30% |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,820K | 1,818K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 215K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.00K |
