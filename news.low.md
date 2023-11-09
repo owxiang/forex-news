@@ -8,7 +8,7 @@
 | 01:15 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 01:30 | BRL | Foreign Exchange Flows | 1.757B |  | -1.445B |
 | 02:00 | USD | 30-Year Bond Auction | 4.769% |  | 4.837% |
-| 04:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.315T |
+| 13 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.315T |
 | 07:50 | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
 | 07:50 | JPY | M3 Money Supply (Oct) |  |  | 2,114.9% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 39.21 |
@@ -25,24 +25,24 @@
 | 15:00 | GBP | Manufacturing Production (YoY) (Sep) |  | 3.1% | 2.8% |
 | 15:00 | NOK | Core CPI YTD (Oct) |  | 5.6% | 5.7% |
 | 15:00 | NOK | Core Inflation (MoM) (Oct) |  | 0.3% | 0.4% |
-| 15:00 | NOK | CPI (YoY) (Oct) |  | 3.4% | 3.3% |
 | 15:00 | NOK | CPI (MoM) (Oct) |  |  | -0.1% |
+| 15:00 | NOK | CPI (YoY) (Oct) |  | 3.4% | 3.3% |
 | 15:00 | NOK | PPI (YoY) (Oct) |  |  | -29.3% |
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.4% | 10.3% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 10.9% |
 | 16:00 | CNY | Chinese Total Social Financing |  |  | 4,120.0B |
 | 16:30 | HKD | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
 | 16:30 | HKD | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.93% |
 | 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 4.37% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | INR | FX Reserves, USD |  |  | 586.11B |
-| 20:00 | MXN | Industrial Production (YoY) (Sep) |  | 4.0% | 5.2% |
 | 20:00 | MXN | Industrial Production (MoM) (Sep) |  |  | 0.3% |
+| 20:00 | MXN | Industrial Production (YoY) (Sep) |  | 4.0% | 5.2% |
 | 20:00 | INR | Cumulative Industrial Production (Sep) |  |  | 6.10% |
 | 20:00 | INR | Industrial Production (YoY) (Sep) |  |  | 10.3% |
 | 20:00 | INR | Manufacturing Output (MoM) (Sep) |  |  | 9.3% |
