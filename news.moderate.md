@@ -1,21 +1,28 @@
-## 09 November 2023 - Moderate Impact Forex News
+## 10 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.1% | 2.1% | 2.1% |
-| 02:00 | USD | 10-Year Note Auction | 4.519% |  | 4.610% |
-| 02:40 | USD | FOMC Member Williams Speaks |  |  |  |
-| 07:50 | JPY | Adjusted Current Account (Sep) | 2.01T | 2.30T | 1.50T |
-| 07:50 | JPY | Current Account n.s.a. (Sep) | 2.724T | 3.000T | 2.280T |
-| 08:01 | GBP | RICS House Price Balance (Oct) | -63% | -65% | -67% |
-| 09:30 | CNY | CPI (MoM) (Oct) | -0.1% | 0.0% | 0.2% |
-| 09:30 | CNY | CPI (YoY) (Oct) | -0.2% | -0.1% | 0.0% |
-| 09:30 | CNY | PPI (YoY) (Oct) | -2.6% | -2.7% | -2.5% |
-| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:10 | CAD | BoC Gov Council Member Lane Speaks |  |  |  |
-| 16:10 | EUR | ECB's Lane Speaks |  |  |  |
-| 16:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 17:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 20:00 | MXN | CPI (YoY) (Oct) | 4.26% | 4.28% | 4.45% |
-| 20:00 | MXN | CPI (MoM) (Oct) | 0.38% | 0.39% | 0.44% |
-| 22:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 9 min | EUR | German Buba Balz Speaks |  |  |  |
+| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 24 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 39 min | USD | WASDE Report |  |  |  |
+| 01:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 03:00 | MXN | Interest Rate Decision (Nov) |  | 11.25% | 11.25% |
+| 04:30 | USD | Fed's Balance Sheet |  |  | 7,867B |
+| 05:30 | NZD | Business NZ PMI (Oct) |  |  | 45.3 |
+| 08:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 15:00 | GBP | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
+| 15:00 | GBP | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
+| 15:00 | GBP | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
+| 15:00 | GBP | Monthly GDP 3M/3M Change (Sep) |  |  | 0.3% |
+| 15:00 | GBP | Trade Balance (Sep) |  | -15.30B | -15.95B |
+| 15:00 | GBP | Trade Balance Non-EU (Sep) |  |  | -4.90B |
+| 16:00 | CNY | New Loans |  | 650.0B | 2,310.0B |
+| 20:00 | BRL | CPI (YoY) (Oct) |  | 4.86% | 5.19% |
+| 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.2% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
+| 23:00 | USD | Michigan Consumer Expectations (Nov) |  |  | 59.3 |
+| 23:00 | USD | Michigan Consumer Sentiment (Nov) |  | 64.0 | 63.8 |
+| 23:20 | EUR | German Buba President Nagel Speaks |  |  |  |
