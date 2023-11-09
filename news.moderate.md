@@ -7,7 +7,7 @@
 | 00:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 01:00 | USD | WASDE Report |  |  |  |
 | 01:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 40 min | MXN | Interest Rate Decision (Nov) |  | 11.25% | 11.25% |
+| 03:00 | MXN | Interest Rate Decision (Nov) | 11.25% | 11.25% | 11.25% |
 | 04:30 | USD | Fed's Balance Sheet |  |  | 7,867B |
 | 05:30 | NZD | Business NZ PMI (Oct) |  |  | 45.3 |
 | 08:30 | AUD | RBA Monetary Policy Statement |  |  |  |
