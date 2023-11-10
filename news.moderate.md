@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
-| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 618 |
+| 47 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
+| 47 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 618 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | -20.4K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 262.3K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 163.4K |
