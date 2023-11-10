@@ -1,28 +1,15 @@
-## 10 November 2023 - Moderate Impact Forex News
+## 11 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 00:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 00:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 01:00 | USD | WASDE Report |  |  |  |
-| 01:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 03:00 | MXN | Interest Rate Decision (Nov) | 11.25% | 11.25% | 11.25% |
-| 05:30 | USD | Fed's Balance Sheet | 7,861B |  | 7,867B |
-| 05:30 | NZD | Business NZ PMI (Oct) | 42.5 |  | 45.3 |
-| 08:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 15:00 | GBP | Business Investment (QoQ) (Q3) | -4.2% | -3.5% | 4.1% |
-| 15:00 | GBP | Industrial Production (MoM) (Sep) | 0.0% | 0.1% | -0.5% |
-| 15:00 | GBP | Manufacturing Production (MoM) (Sep) | 0.1% | 0.3% | -0.7% |
-| 15:00 | GBP | Monthly GDP 3M/3M Change (Sep) | 0.0% | -0.1% | 0.3% |
-| 15:00 | GBP | Trade Balance (Sep) | -14.29B | -15.30B | -15.52B |
-| 15:00 | GBP | Trade Balance Non-EU (Sep) | -4.45B |  | -4.83B |
-| 20:00 | BRL | CPI (YoY) (Oct) | 4.82% | 4.87% | 5.19% |
-| 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | GBP | NIESR Monthly GDP Tracker | 0.1% |  | -0.1% |
-| 22:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 4.4% | 4.0% | 4.2% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.0% | 3.0% |
-| 23:00 | USD | Michigan Consumer Expectations (Nov) | 56.9 | 59.5 | 59.3 |
-| 23:00 | USD | Michigan Consumer Sentiment (Nov) | 60.4 | 63.7 | 63.8 |
-| 4 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 618 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | -20.4K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 262.3K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 163.4K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 6.7K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | 4.3K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -75.1K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 9.3K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -103.8K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 85.4K |
