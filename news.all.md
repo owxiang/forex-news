@@ -10,7 +10,7 @@
 | 00:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 01:00 | USD | Moderate | WASDE Report |  |  |  |
 | 01:15 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows | 1.757B |  | -1.445B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 0.286B |  | -1.445B |
 | 01:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 02:00 | USD | Low | 30-Year Bond Auction | 4.769% |  | 4.837% |
 | 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
@@ -28,33 +28,33 @@
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) | 75.58 |  | 78.01 |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -4.2% | -3.5% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) | 2.8% |  | 9.2% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | 0.0% | 2.7% | 2.8% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.4% | -0.5% | -0.8% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | -0.1% | 0.2% |
+| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | 2.8% | 2.7% | 1.8% |
 | 15:00 | GBP | High | GDP (MoM) (Sep) | 0.2% | 0.0% | 0.1% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) | 0.6% | 0.5% | 0.6% |
-| 15:00 | GBP | Low | GDP (YoY) (Sep) | 0.0% | 1.0% | 1.3% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | -0.1% | 0.2% |
+| 15:00 | GBP | Low | GDP (YoY) (Sep) | 1.3% | 1.0% | 0.5% |
 | 15:00 | GBP | Low | Index of Services | -0.1% | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | 0.0% | 0.1% | -0.5% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Sep) | 0.0% | 1.1% | 1.5% |
+| 15:00 | GBP | Low | Industrial Production (YoY) (Sep) | 1.5% | 1.1% | 1.5% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) | 0.1% | 0.3% | -0.7% |
-| 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | 0.0% | 3.1% | 3.0% |
+| 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | 3.0% | 3.1% | 3.0% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.0% | -0.1% | 0.3% |
 | 15:00 | GBP | Moderate | Trade Balance (Sep) | -14.29B | -15.30B | -15.52B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -4.45B |  | -4.83B |
 | 15:00 | NOK | Low | Core CPI YTD (Oct) | 6.0% | 5.6% | 5.7% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Oct) | 0.6% | 0.3% | 0.4% |
-| 15:00 | NOK | Low | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | Low | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
+| 15:00 | NOK | Low | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | Low | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 46 min | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
-| 46 min | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
-| 46 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
-| 46 min | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
-| 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
-| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 11 min | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
+| 11 min | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
+| 41 min | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 41 min | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
+| 41 min | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
+| 41 min | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
+| 41 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
+| 41 min | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.93% |
