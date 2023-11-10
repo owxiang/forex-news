@@ -9,13 +9,13 @@
 | 01:30 | BRL | Foreign Exchange Flows | 1.757B |  | -1.445B |
 | 02:00 | USD | 30-Year Bond Auction | 4.769% |  | 4.837% |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.360T |  | 3.315T |
-| 34 min | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
-| 34 min | JPY | M3 Money Supply (Oct) |  |  | 2,114.9% |
-| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 39.21 |
-| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 64.06 |
-| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.52 |
-| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.06 |
-| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
+| 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.4% | 2.4% |
+| 07:50 | JPY | M3 Money Supply (Oct) | 2,115.4% |  | 2,114.7% |
+| 50 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 39.21 |
+| 50 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 64.06 |
+| 50 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Nov) |  |  | 49.52 |
+| 50 min | JPY | Thomson Reuters IPSOS PCSI (Nov) |  |  | 38.06 |
+| 50 min | CNY | China Thomson Reuters IPSOS PCSI (Nov) |  |  | 78.01 |
 | 15:00 | GBP | Business Investment (YoY) (Q3) |  |  | 9.2% |
 | 15:00 | GBP | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
