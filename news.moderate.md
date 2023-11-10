@@ -17,7 +17,7 @@
 | 15:00 | GBP | Monthly GDP 3M/3M Change (Sep) | 0.0% | -0.1% | 0.3% |
 | 15:00 | GBP | Trade Balance (Sep) | -14.29B | -15.30B | -15.52B |
 | 15:00 | GBP | Trade Balance Non-EU (Sep) | -4.45B |  | -4.83B |
-| 19:00 | CNY | New Loans |  | 665.0B | 2,310.0B |
+| 44 min | CNY | New Loans |  | 665.0B | 2,310.0B |
 | 20:00 | BRL | CPI (YoY) (Oct) |  | 4.87% | 5.19% |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |

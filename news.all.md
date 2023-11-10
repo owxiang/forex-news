@@ -37,38 +37,39 @@
 | 15:00 | GBP | Low | Index of Services | -0.1% | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | 0.0% | 0.1% | -0.5% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Sep) | 1.5% | 1.1% | 1.5% |
-| 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | 3.0% | 3.1% | 3.0% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) | 0.1% | 0.3% | -0.7% |
+| 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) | 3.0% | 3.1% | 3.0% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) | 0.0% | -0.1% | 0.3% |
 | 15:00 | GBP | Moderate | Trade Balance (Sep) | -14.29B | -15.30B | -15.52B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Sep) | -4.45B |  | -4.83B |
 | 15:00 | NOK | Low | Core CPI YTD (Oct) | 6.0% | 5.6% | 5.7% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Oct) | 0.6% | 0.3% | 0.4% |
-| 15:00 | NOK | Low | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
 | 15:00 | NOK | Low | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
+| 15:00 | NOK | Low | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
 | 15:00 | NOK | Low | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 16:30 | HKD | Low | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
-| 45 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 45 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 55 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.93% |
-| 55 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.890% |
-| 55 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.37% |
+| 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 18:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.37% |
+| 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.93% |
+| 18:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.890% |
+| 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.37% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
-| 19:00 | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
-| 19:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
-| 19:00 | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
+| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
+| 44 min | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
+| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
+| 44 min | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 586.11B |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Sep) |  | 4.4% | 5.2% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Sep) |  | 0.1% | 0.3% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Sep) |  |  | 6.10% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Sep) |  | 7.0% | 10.3% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Sep) |  |  | 9.3% |
-| 20:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.29% | 0.26% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.87% | 5.19% |
+| 20:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.29% | 0.26% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.31% |
 | 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
