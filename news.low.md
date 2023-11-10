@@ -25,31 +25,30 @@
 | 15:00 | GBP | Manufacturing Production (YoY) (Sep) | 3.0% | 3.1% | 3.0% |
 | 15:00 | NOK | Core CPI YTD (Oct) | 6.0% | 5.6% | 5.7% |
 | 15:00 | NOK | Core Inflation (MoM) (Oct) | 0.6% | 0.3% | 0.4% |
-| 15:00 | NOK | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
+| 15:00 | NOK | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 16:30 | HKD | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
+| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 18:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.37% |
-| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.93% |
-| 18:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.890% |
-| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 4.37% |
-| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 44 min | CNY | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
-| 44 min | CNY | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
-| 44 min | CNY | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
-| 19:30 | INR | FX Reserves, USD |  |  | 586.11B |
-| 20:00 | MXN | Industrial Production (YoY) (Sep) |  | 4.4% | 5.2% |
-| 20:00 | MXN | Industrial Production (MoM) (Sep) |  | 0.1% | 0.3% |
-| 20:00 | INR | Cumulative Industrial Production (Sep) |  |  | 6.10% |
-| 20:00 | INR | Industrial Production (YoY) (Sep) |  | 7.0% | 10.3% |
-| 20:00 | INR | Manufacturing Output (MoM) (Sep) |  |  | 9.3% |
-| 20:00 | BRL | CPI (MoM) (Oct) |  | 0.29% | 0.26% |
-| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.31% |
+| 18:20 | EUR | Italian 15-Year BTP Auction | 4.84% |  | 4.37% |
+| 18:20 | EUR | Italian 3-Year BTP Auction | 3.75% |  | 3.93% |
+| 18:20 | EUR | Italian 30-Year BTP Auction | 5.050% |  | 4.890% |
+| 18:20 | EUR | Italian 7-Year BTP Auction | 4.21% |  | 4.37% |
+| 17 min | INR | FX Reserves, USD |  |  | 586.11B |
+| 47 min | MXN | Industrial Production (MoM) (Sep) |  | 0.1% | 0.3% |
+| 47 min | MXN | Industrial Production (YoY) (Sep) |  | 4.4% | 5.2% |
+| 47 min | INR | Cumulative Industrial Production (Sep) |  |  | 6.10% |
+| 47 min | INR | Industrial Production (YoY) (Sep) |  | 7.0% | 10.3% |
+| 47 min | INR | Manufacturing Output (MoM) (Sep) |  |  | 9.3% |
+| 47 min | BRL | CPI (MoM) (Oct) |  | 0.29% | 0.26% |
+| 47 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.31% |
+| 47 min | CNY | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
+| 47 min | CNY | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
+| 47 min | CNY | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
 | 20:30 | USD | Fed Logan Speaks |  |  |  |
 | Tentative | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
 | 23:00 | USD | Michigan Current Conditions (Nov) |  | 69.5 | 70.6 |
