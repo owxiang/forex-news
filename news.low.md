@@ -28,18 +28,19 @@
 | 15:00 | NOK | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
 | 15:00 | NOK | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 11 min | HKD | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 11 min | HKD | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
-| 41 min | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
-| 41 min | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
-| 41 min | CNY | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
-| 41 min | CNY | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
-| 41 min | CNY | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
-| 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.93% |
-| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 4.37% |
+| 16:30 | HKD | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
+| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
+| 17:00 | EUR | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
+| 45 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 45 min | EUR | ECOFIN Meetings |  |  |  |
+| 55 min | EUR | Italian 3-Year BTP Auction |  |  | 3.93% |
+| 55 min | EUR | Italian 30-Year BTP Auction |  |  | 4.890% |
+| 55 min | EUR | Italian 7-Year BTP Auction |  |  | 4.37% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | CNY | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
+| 19:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
+| 19:00 | CNY | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
 | 19:30 | INR | FX Reserves, USD |  |  | 586.11B |
 | 20:00 | MXN | Industrial Production (YoY) (Sep) |  | 4.4% | 5.2% |
 | 20:00 | MXN | Industrial Production (MoM) (Sep) |  | 0.1% | 0.3% |
