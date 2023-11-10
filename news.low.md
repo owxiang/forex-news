@@ -17,21 +17,21 @@
 | 10:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) | 38.20 |  | 38.06 |
 | 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) | 75.58 |  | 78.01 |
 | 15:00 | GBP | Business Investment (YoY) (Q3) | 2.8% |  | 9.2% |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Sep) | 2.8% | 2.7% | 1.8% |
 | 15:00 | GBP | Construction Output (MoM) (Sep) | 0.4% | -0.5% | -0.8% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Sep) | 2.8% | 2.7% | 1.8% |
 | 15:00 | GBP | GDP (YoY) (Sep) | 1.3% | 1.0% | 0.5% |
 | 15:00 | GBP | Index of Services | -0.1% | -0.2% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Sep) | 1.5% | 1.1% | 1.5% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Sep) | 3.0% | 3.1% | 3.0% |
 | 15:00 | NOK | Core CPI YTD (Oct) | 6.0% | 5.6% | 5.7% |
 | 15:00 | NOK | Core Inflation (MoM) (Oct) | 0.6% | 0.3% | 0.4% |
-| 15:00 | NOK | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
+| 15:00 | NOK | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 16:30 | HKD | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
-| 17:00 | EUR | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
+| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
+| 17:00 | EUR | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:20 | EUR | Italian 15-Year BTP Auction | 4.84% |  | 4.37% |
