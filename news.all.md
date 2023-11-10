@@ -28,11 +28,11 @@
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) | 75.58 |  | 78.01 |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -4.2% | -3.5% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) | 2.8% |  | 9.2% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.4% | -0.5% | -0.8% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) | 2.8% | 2.7% | 1.8% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Sep) | 0.4% | -0.5% | -0.8% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (MoM) (Sep) | 0.2% | 0.0% | 0.1% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) | 0.6% | 0.5% | 0.6% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) | 0.0% | -0.1% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Sep) | 1.3% | 1.0% | 0.5% |
 | 15:00 | GBP | Low | Index of Services | -0.1% | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) | 0.0% | 0.1% | -0.5% |
@@ -47,10 +47,10 @@
 | 15:00 | NOK | Low | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | Low | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
 | 15:00 | NOK | Low | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 16:30 | HKD | Low | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 16:30 | HKD | Low | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
+| 16:30 | HKD | Low | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
+| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:20 | EUR | Low | Italian 15-Year BTP Auction | 4.84% |  | 4.37% |
@@ -58,23 +58,22 @@
 | 18:20 | EUR | Low | Italian 30-Year BTP Auction | 5.050% |  | 4.890% |
 | 18:20 | EUR | Low | Italian 7-Year BTP Auction | 4.21% |  | 4.37% |
 | 19:30 | INR | Low | FX Reserves, USD | 590.78B |  | 586.11B |
-| 20:00 | MXN | Low | Industrial Production (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Sep) | 3.9% | 4.4% | 4.7% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Sep) | 6.00% |  | 6.10% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Sep) | 5.8% | 7.0% | 10.3% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Sep) | 4.5% |  | 9.3% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Oct) | 4.82% | 4.87% | 5.19% |
 | 20:00 | BRL | Low | CPI (MoM) (Oct) | 0.24% | 0.29% | 0.26% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Oct) | 4.82% | 4.87% | 5.19% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.23% |  | 0.31% |
 | 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.1% |  | -0.1% |
 | 22:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| Tentative | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 46 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.2% |
-| 46 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
-| 46 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 59.5 | 59.3 |
-| 46 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 63.7 | 63.8 |
-| 46 min | USD | Low | Michigan Current Conditions (Nov) |  | 69.5 | 70.6 |
-| 23:20 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 7.6 |
+| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 4.4% | 4.0% | 4.2% |
+| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.0% | 3.0% |
+| 23:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 56.9 | 59.5 | 59.3 |
+| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 60.4 | 63.7 | 63.8 |
+| 23:00 | USD | Low | Michigan Current Conditions (Nov) | 65.7 | 69.5 | 70.6 |
+| 4 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14 min | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 7.6 |

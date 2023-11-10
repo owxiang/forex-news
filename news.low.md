@@ -17,8 +17,8 @@
 | 10:00 | JPY | Thomson Reuters IPSOS PCSI (Nov) | 38.20 |  | 38.06 |
 | 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Nov) | 75.58 |  | 78.01 |
 | 15:00 | GBP | Business Investment (YoY) (Q3) | 2.8% |  | 9.2% |
-| 15:00 | GBP | Construction Output (MoM) (Sep) | 0.4% | -0.5% | -0.8% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Sep) | 2.8% | 2.7% | 1.8% |
+| 15:00 | GBP | Construction Output (MoM) (Sep) | 0.4% | -0.5% | -0.8% |
 | 15:00 | GBP | GDP (YoY) (Sep) | 1.3% | 1.0% | 0.5% |
 | 15:00 | GBP | Index of Services | -0.1% | -0.2% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Sep) | 1.5% | 1.1% | 1.5% |
@@ -28,10 +28,10 @@
 | 15:00 | NOK | CPI (YoY) (Oct) | 4.0% | 3.6% | 3.3% |
 | 15:00 | NOK | CPI (MoM) (Oct) | 1.0% | 0.6% | -0.1% |
 | 15:00 | NOK | PPI (YoY) (Oct) | -10.9% |  | -29.3% |
-| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 16:30 | HKD | GDP (QoQ) (Q3) | 0.1% | 0.1% | -1.3% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
+| 16:30 | HKD | GDP (YoY) (Q3) | 4.1% | 4.1% | 1.5% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Sep) | -2.0% |  | -4.2% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Sep) | 0.0% | -0.2% | 0.3% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:20 | EUR | Italian 15-Year BTP Auction | 4.84% |  | 4.37% |
@@ -39,14 +39,13 @@
 | 18:20 | EUR | Italian 30-Year BTP Auction | 5.050% |  | 4.890% |
 | 18:20 | EUR | Italian 7-Year BTP Auction | 4.21% |  | 4.37% |
 | 19:30 | INR | FX Reserves, USD | 590.78B |  | 586.11B |
-| 20:00 | MXN | Industrial Production (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 20:00 | MXN | Industrial Production (YoY) (Sep) | 3.9% | 4.4% | 4.7% |
+| 20:00 | MXN | Industrial Production (MoM) (Sep) | 0.2% | 0.1% | 0.3% |
 | 20:00 | INR | Cumulative Industrial Production (Sep) | 6.00% |  | 6.10% |
 | 20:00 | INR | Industrial Production (YoY) (Sep) | 5.8% | 7.0% | 10.3% |
 | 20:00 | INR | Manufacturing Output (MoM) (Sep) | 4.5% |  | 9.3% |
 | 20:00 | BRL | CPI (MoM) (Oct) | 0.24% | 0.29% | 0.26% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Oct) | 0.23% |  | 0.31% |
 | 20:30 | USD | Fed Logan Speaks |  |  |  |
-| Tentative | USD | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
-| 46 min | USD | Michigan Current Conditions (Nov) |  | 69.5 | 70.6 |
-| 23:30 | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 7.6 |
+| 23:00 | USD | Michigan Current Conditions (Nov) | 65.7 | 69.5 | 70.6 |
+| 14 min | CAD | BoC Senior Loan Officer Survey (Q3) |  |  | 7.6 |

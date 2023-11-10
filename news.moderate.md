@@ -21,8 +21,8 @@
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker | 0.1% |  | -0.1% |
 | 22:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 46 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.2% |
-| 46 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
-| 46 min | USD | Michigan Consumer Expectations (Nov) |  | 59.5 | 59.3 |
-| 46 min | USD | Michigan Consumer Sentiment (Nov) |  | 63.7 | 63.8 |
-| 23:20 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 4.4% | 4.0% | 4.2% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.0% | 3.0% |
+| 23:00 | USD | Michigan Consumer Expectations (Nov) | 56.9 | 59.5 | 59.3 |
+| 23:00 | USD | Michigan Consumer Sentiment (Nov) | 60.4 | 63.7 | 63.8 |
+| 4 min | EUR | German Buba President Nagel Speaks |  |  |  |
