@@ -28,55 +28,56 @@
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) | 75.58 |  | 78.01 |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  |  | 2.3% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
-| 15:00 | GBP | High | GDP (MoM) (Sep) |  | -0.1% | 0.2% |
+| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | 2.7% | 2.3% |
+| 15:00 | GBP | High | GDP (MoM) (Sep) |  | 0.0% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
-| 15:00 | GBP | Low | GDP (YoY) (Sep) |  |  | 0.5% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
+| 15:00 | GBP | Low | GDP (YoY) (Sep) |  | 1.0% | 0.5% |
 | 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
+| 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Sep) |  | 1.1% | 1.3% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) |  | 3.1% | 2.8% |
-| 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  |  | 0.3% |
+| 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  | -0.1% | 0.3% |
 | 15:00 | GBP | Moderate | Trade Balance (Sep) |  | -15.30B | -15.95B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Sep) |  |  | -4.90B |
 | 15:00 | NOK | Low | Core CPI YTD (Oct) |  | 5.6% | 5.7% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Oct) |  | 0.3% | 0.4% |
-| 15:00 | NOK | Low | CPI (YoY) (Oct) |  | 3.4% | 3.3% |
-| 15:00 | NOK | Low | CPI (MoM) (Oct) |  |  | -0.1% |
+| 15:00 | NOK | Low | CPI (MoM) (Oct) |  | 0.6% | -0.1% |
+| 15:00 | NOK | Low | CPI (YoY) (Oct) |  | 3.6% | 3.3% |
 | 15:00 | NOK | Low | PPI (YoY) (Oct) |  |  | -29.3% |
-| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.4% | 10.3% |
-| 16:00 | CNY | Moderate | New Loans |  | 650.0B | 2,310.0B |
-| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 10.9% |
-| 16:00 | CNY | Low | Chinese Total Social Financing |  |  | 4,120.0B |
-| 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
+| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
+| 16:00 | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
+| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
+| 16:00 | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
 | 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
+| 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
+| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.93% |
 | 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.37% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 586.11B |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Sep) |  | 4.0% | 5.2% |
-| 20:00 | MXN | Low | Industrial Production (MoM) (Sep) |  |  | 0.3% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Sep) |  | 0.1% | 0.3% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Sep) |  | 4.4% | 5.2% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Sep) |  |  | 6.10% |
-| 20:00 | INR | Low | Industrial Production (YoY) (Sep) |  |  | 10.3% |
+| 20:00 | INR | Low | Industrial Production (YoY) (Sep) |  | 7.0% | 10.3% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Sep) |  |  | 9.3% |
-| 20:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.28% | 0.26% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.86% | 5.19% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Oct) |  | 4.87% | 5.19% |
+| 20:00 | BRL | Low | CPI (MoM) (Oct) |  | 0.29% | 0.26% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Oct) |  |  | 0.31% |
 | 20:30 | USD | Low | Fed Logan Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | -0.1% |
+| 22:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | Tentative | USD | Low | IBD/TIPP Economic Optimism |  | 40.2 | 36.3 |
 | 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.2% |
 | 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
-| 23:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  |  | 59.3 |
-| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 64.0 | 63.8 |
-| 23:00 | USD | Low | Michigan Current Conditions (Nov) |  |  | 70.6 |
+| 23:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 59.5 | 59.3 |
+| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 63.7 | 63.8 |
+| 23:00 | USD | Low | Michigan Current Conditions (Nov) |  | 69.5 | 70.6 |
 | 23:20 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 23:30 | CAD | Low | BoC Senior Loan Officer Survey (Q3) |  |  | 7.6 |
