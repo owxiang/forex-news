@@ -35,8 +35,8 @@
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
 | 15:00 | GBP | Low | GDP (YoY) (Sep) |  |  | 0.5% |
 | 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Sep) |  | 1.1% | 1.3% |
+| 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | -0.1% | -0.7% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) |  | 3.1% | 2.8% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  |  | 0.3% |
@@ -51,8 +51,8 @@
 | 16:00 | CNY | Moderate | New Loans |  | 650.0B | 2,310.0B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 10.9% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  |  | 4,120.0B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
