@@ -17,10 +17,9 @@
 | 15:00 | GBP | Monthly GDP 3M/3M Change (Sep) | 0.0% | -0.1% | 0.3% |
 | 15:00 | GBP | Trade Balance (Sep) | -14.29B | -15.30B | -15.52B |
 | 15:00 | GBP | Trade Balance Non-EU (Sep) | -4.45B |  | -4.83B |
-| 47 min | BRL | CPI (YoY) (Oct) |  | 4.87% | 5.19% |
-| 47 min | CNY | New Loans |  | 665.0B | 2,310.0B |
+| 20:00 | BRL | CPI (YoY) (Oct) | 4.82% | 4.87% | 5.19% |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
+| 30 min | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
 | 22:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  |  | 4.2% |
 | 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  |  | 3.0% |
