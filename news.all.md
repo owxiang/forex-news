@@ -26,27 +26,27 @@
 | 10:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Nov) | 50.19 |  | 49.52 |
 | 10:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Nov) | 38.20 |  | 38.06 |
 | 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Nov) | 75.58 |  | 78.01 |
-| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
-| 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | 2.7% | 2.3% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
-| 15:00 | GBP | High | GDP (MoM) (Sep) |  | 0.0% | 0.2% |
-| 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
-| 15:00 | GBP | Low | GDP (YoY) (Sep) |  | 1.0% | 0.5% |
-| 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Sep) |  | 1.1% | 1.3% |
-| 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
-| 15:00 | GBP | Low | Manufacturing Production (YoY) (Sep) |  | 3.1% | 2.8% |
-| 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  | -0.1% | 0.3% |
-| 15:00 | GBP | Moderate | Trade Balance (Sep) |  | -15.30B | -15.95B |
-| 15:00 | GBP | Moderate | Trade Balance Non-EU (Sep) |  |  | -4.90B |
-| 15:00 | NOK | Low | Core CPI YTD (Oct) |  | 5.6% | 5.7% |
-| 15:00 | NOK | Low | Core Inflation (MoM) (Oct) |  | 0.3% | 0.4% |
-| 15:00 | NOK | Low | CPI (MoM) (Oct) |  | 0.6% | -0.1% |
-| 15:00 | NOK | Low | CPI (YoY) (Oct) |  | 3.6% | 3.3% |
-| 15:00 | NOK | Low | PPI (YoY) (Oct) |  |  | -29.3% |
+| 40 min | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
+| 40 min | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
+| 40 min | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | 2.7% | 2.3% |
+| 40 min | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
+| 40 min | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
+| 40 min | GBP | High | GDP (MoM) (Sep) |  | 0.0% | 0.2% |
+| 40 min | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
+| 40 min | GBP | Low | GDP (YoY) (Sep) |  | 1.0% | 0.5% |
+| 40 min | GBP | Low | Index of Services |  | -0.2% | 0.1% |
+| 40 min | GBP | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
+| 40 min | GBP | Low | Industrial Production (YoY) (Sep) |  | 1.1% | 1.3% |
+| 40 min | GBP | Moderate | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
+| 40 min | GBP | Low | Manufacturing Production (YoY) (Sep) |  | 3.1% | 2.8% |
+| 40 min | GBP | Moderate | Monthly GDP 3M/3M Change (Sep) |  | -0.1% | 0.3% |
+| 40 min | GBP | Moderate | Trade Balance (Sep) |  | -15.30B | -15.95B |
+| 40 min | GBP | Moderate | Trade Balance Non-EU (Sep) |  |  | -4.90B |
+| 40 min | NOK | Low | Core CPI YTD (Oct) |  | 5.6% | 5.7% |
+| 40 min | NOK | Low | Core Inflation (MoM) (Oct) |  | 0.3% | 0.4% |
+| 40 min | NOK | Low | CPI (MoM) (Oct) |  | 0.6% | -0.1% |
+| 40 min | NOK | Low | CPI (YoY) (Oct) |  | 3.6% | 3.3% |
+| 40 min | NOK | Low | PPI (YoY) (Oct) |  |  | -29.3% |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
 | 16:00 | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |

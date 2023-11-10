@@ -11,12 +11,12 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,861B |  | 7,867B |
 | 05:30 | NZD | Business NZ PMI (Oct) | 42.5 |  | 45.3 |
 | 08:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 15:00 | GBP | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
-| 15:00 | GBP | Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
-| 15:00 | GBP | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
-| 15:00 | GBP | Monthly GDP 3M/3M Change (Sep) |  | -0.1% | 0.3% |
-| 15:00 | GBP | Trade Balance (Sep) |  | -15.30B | -15.95B |
-| 15:00 | GBP | Trade Balance Non-EU (Sep) |  |  | -4.90B |
+| 40 min | GBP | Business Investment (QoQ) (Q3) |  | -3.5% | 4.1% |
+| 40 min | GBP | Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
+| 40 min | GBP | Manufacturing Production (MoM) (Sep) |  | 0.3% | -0.8% |
+| 40 min | GBP | Monthly GDP 3M/3M Change (Sep) |  | -0.1% | 0.3% |
+| 40 min | GBP | Trade Balance (Sep) |  | -15.30B | -15.95B |
+| 40 min | GBP | Trade Balance Non-EU (Sep) |  |  | -4.90B |
 | 16:00 | CNY | New Loans |  | 665.0B | 2,310.0B |
 | 20:00 | BRL | CPI (YoY) (Oct) |  | 4.87% | 5.19% |
 | 20:30 | EUR | ECB President Lagarde Speaks |  |  |  |
