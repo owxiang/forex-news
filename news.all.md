@@ -30,9 +30,9 @@
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  |  | 9.2% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Sep) |  | -0.5% | -0.5% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Sep) |  | 2.7% | 2.3% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (MoM) (Sep) |  | 0.0% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.5% | 0.6% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | -0.1% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Sep) |  | 1.0% | 0.5% |
 | 15:00 | GBP | Low | Index of Services |  | -0.2% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Sep) |  | 0.1% | -0.7% |
@@ -51,8 +51,8 @@
 | 16:00 | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
-| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 16:30 | HKD | Low | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 18:00 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |

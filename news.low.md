@@ -31,8 +31,8 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
-| 16:30 | HKD | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 16:30 | HKD | GDP (YoY) (Q3) |  | 4.1% | 4.1% |
+| 16:30 | HKD | GDP (QoQ) (Q3) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Sep) |  |  | -4.2% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Sep) |  | -0.2% | 0.2% |
 | 18:00 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
