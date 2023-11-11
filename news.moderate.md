@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 04:30 | USD | FOMC Member Bostic Speaks |  |  |  |
