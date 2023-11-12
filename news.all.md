@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 17 min | NZD | Low | Performance of Services Index |  |  | 50.7 |
+| 05:30 | NZD | Low | Performance of Services Index |  |  | 50.7 |
 | 07:30 | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:50 | JPY | Low | PPI (YoY) (Oct) |  |  | 2.0% |
 | 07:50 | JPY | Low | PPI (MoM) (Oct) |  |  | -0.3% |
