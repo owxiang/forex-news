@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | NZD | Performance of Services Index |  |  | 50.7 |
 | 07:30 | AUD | RBA Kohler Speaks |  |  |  |
-| 07:50 | JPY | PPI (YoY) (Oct) |  |  | 2.0% |
 | 07:50 | JPY | PPI (MoM) (Oct) |  |  | -0.3% |
+| 07:50 | JPY | PPI (YoY) (Oct) |  |  | 2.0% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -11.2% |
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
