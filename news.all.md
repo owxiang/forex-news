@@ -3,16 +3,21 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:30 | NZD | Low | Performance of Services Index | 48.9 |  | 50.6 |
+| 07:00 | USD | Moderate | Michigan 1-Year Inflation Expectations | 4.4% | 4.4% | 4.2% |
+| 07:00 | USD | Moderate | Michigan 5-Year Inflation Expectations | 3.2% | 3.2% | 3.0% |
+| 07:00 | USD | Moderate | Michigan Consumer Expectations | 56.9 | 56.9 | 59.3 |
+| 07:00 | USD | Moderate | Michigan Consumer Sentiment | 60.4 | 60.4 | 63.8 |
+| 07:00 | USD | Low | Michigan Current Conditions | 65.7 | 65.7 | 70.6 |
 | 07:30 | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:50 | JPY | Low | PPI (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
 | 07:50 | JPY | Low | PPI (YoY) (Oct) | 0.8% | 0.9% | 2.2% |
 | 08:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.7% |  | 0.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -20.6% |  | -11.2% |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
-| 16:00 | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
-| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
-| 16:00 | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
+| 45 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 45 min | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
+| 45 min | CNY | Moderate | New Loans |  | 665.0B | 2,310.0B |
+| 45 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.9% | 10.9% |
+| 45 min | CNY | Low | Chinese Total Social Financing |  | 1,900.0B | 4,120.0B |
 | 16:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
