@@ -6,7 +6,7 @@
 | 00:05 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.285% |  | 5.285% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.270% |  | 5.260% |
-| 40 min | USD | Moderate | Federal Budget Balance |  | -65.0B | -171.0B |
+| 03:00 | USD | Moderate | Federal Budget Balance | -67.0B | -65.0B | -171.0B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.4K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 7.1K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -17.2K |
@@ -46,16 +46,16 @@
 | 15:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 15.0K | 20.4K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | -82K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
-| 15:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.0% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 15:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.0% |
 | 15:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | EUR | Low | Core CPI (YoY) (Oct) |  |  | 5.8% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.5% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.3% | 0.2% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.6% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.5% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.6% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:45 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
