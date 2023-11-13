@@ -4,8 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:30 | NZD | Low | Performance of Services Index | 48.9 |  | 50.6 |
 | 07:30 | AUD | Low | RBA Kohler Speaks |  |  |  |
-| 07:50 | JPY | Low | PPI (YoY) (Oct) | 0.8% |  | 2.2% |
-| 07:50 | JPY | Low | PPI (MoM) (Oct) | -0.4% |  | -0.2% |
+| 07:50 | JPY | Low | PPI (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
+| 07:50 | JPY | Low | PPI (YoY) (Oct) | 0.8% | 0.9% | 2.2% |
+| 08:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.7% |  | 0.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -11.2% |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.3% | 10.3% |
