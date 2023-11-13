@@ -30,7 +30,7 @@
 | 05:00 | KRW | Low | Export Price Index (YoY) (Oct) | -9.5% |  | -8.9% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Oct) | -10.2% |  | -9.6% |
 | 05:45 | NZD | Low | FPI (MoM) (Oct) | -0.9% |  | -0.4% |
-| 07:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
+| 14 min | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Oct) |  |  | 1 |
 | 08:30 | AUD | Low | NAB Business Survey (Oct) |  |  | 11 |
 | 11:00 | KRW | Low | M3 Money Supply (Sep) |  |  | 5,177.2B |
@@ -52,10 +52,10 @@
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | EUR | Low | Core CPI (YoY) (Oct) |  |  | 5.8% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.5% | 3.5% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.6% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.5% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.6% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:45 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -68,19 +68,19 @@
 | 18:00 | EUR | Low | Employment Change (YoY) |  |  | 1.3% |
 | 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Low | Employment Overall (Q3) |  |  | 166,745.3K |
-| 18:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | GDP (QoQ) |  | -0.1% | 0.2% |
+| 18:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 6.1 | 2.3 |
 | 18:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.120% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 20:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 21:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | Low | Core CPI Index (Oct) |  | 311.67 | 310.66 |
 | 21:30 | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
 | 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |

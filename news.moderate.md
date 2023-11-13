@@ -30,8 +30,8 @@
 | 17:00 | USD | IEA Monthly Report |  |  |  |
 | 18:00 | EUR | German ZEW Current Conditions (Nov) |  | -76.7 | -79.9 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Nov) |  | 5.0 | -1.1 |
-| 18:00 | EUR | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | GDP (QoQ) |  | -0.1% | 0.2% |
+| 18:00 | EUR | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | ZEW Economic Sentiment (Nov) |  | 6.1 | 2.3 |
 | 21:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:30 | USD | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |

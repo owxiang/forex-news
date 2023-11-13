@@ -19,7 +19,7 @@
 | 05:00 | KRW | Export Price Index (YoY) (Oct) | -9.5% |  | -8.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Oct) | -10.2% |  | -9.6% |
 | 05:45 | NZD | FPI (MoM) (Oct) | -0.9% |  | -0.4% |
-| 07:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
+| 14 min | AUD | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
 | 08:30 | AUD | NAB Business Survey (Oct) |  |  | 11 |
 | 11:00 | KRW | M3 Money Supply (Sep) |  |  | 5,177.2B |
 | 11:00 | KRW | M2 Money supply (Sep) |  |  | 1.90% |
@@ -45,8 +45,8 @@
 | 19:00 | USD | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 20:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 21:30 | USD | Core CPI Index (Oct) |  | 311.67 | 310.66 |
 | 21:30 | USD | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | CPI Index, s.a (Oct) |  |  | 307.48 |
