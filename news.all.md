@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:30 | NZD | Low | Performance of Services Index | 48.9 |  | 50.6 |
 | 07:30 | AUD | Low | RBA Kohler Speaks |  |  |  |
-| 07:50 | JPY | Low | PPI (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
 | 07:50 | JPY | Low | PPI (YoY) (Oct) | 0.8% | 0.9% | 2.2% |
+| 07:50 | JPY | Low | PPI (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
 | 08:01 | GBP | Low | Rightmove House Price Index (MoM) | -1.7% |  | 0.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -20.6% |  | -11.2% |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -22,7 +22,7 @@
 | 19:55 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 20:00 | INR | Moderate | CPI (YoY) (Oct) | 4.87% | 4.80% | 5.02% |
-| 31 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 36 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.682% |
-| 36 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.796% |
-| 36 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.758% |
+| 21:50 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.674% |  | 3.682% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.796% |  | 3.796% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.796% |  | 3.758% |
