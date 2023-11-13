@@ -6,7 +6,7 @@
 | 00:05 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.285% |  | 5.285% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.270% |  | 5.260% |
-| 03:00 | USD | Moderate | Federal Budget Balance |  | -65.0B | -171.0B |
+| 40 min | USD | Moderate | Federal Budget Balance |  | -65.0B | -171.0B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.4K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 7.1K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -17.2K |
@@ -46,14 +46,14 @@
 | 15:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 15.0K | 20.4K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | -82K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
-| 15:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 15:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.0% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 15:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | EUR | Low | Core CPI (YoY) (Oct) |  |  | 5.8% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) |  | 3.5% | 3.5% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) |  | 0.3% | 0.6% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) |  | 3.5% | 3.3% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -76,14 +76,14 @@
 | 19:00 | USD | Low | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 20:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 21:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | Low | Core CPI Index (Oct) |  | 311.67 | 310.66 |
-| 21:30 | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
 | 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |
+| 21:30 | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | Low | CPI Index, s.a (Oct) |  |  | 307.48 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |

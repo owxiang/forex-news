@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:05 | GBP | BoE MPC Member Mann |  |  |  |
-| 03:00 | USD | Federal Budget Balance |  | -65.0B | -171.0B |
+| 40 min | USD | Federal Budget Balance |  | -65.0B | -171.0B |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | -20.4K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 262.3K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 163.4K |

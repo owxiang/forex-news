@@ -45,8 +45,8 @@
 | 19:00 | USD | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 20:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 21:30 | USD | Core CPI Index (Oct) |  | 311.67 | 310.66 |
 | 21:30 | USD | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | CPI Index, s.a (Oct) |  |  | 307.48 |
