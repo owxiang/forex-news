@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | 1-Year Consumer Inflation Expectations | 3.60% |  | 3.70% |
-| 9 min | USD | 3-Month Bill Auction |  |  | 5.285% |
-| 9 min | USD | 6-Month Bill Auction |  |  | 5.260% |
+| 00:30 | USD | 3-Month Bill Auction | 5.285% |  | 5.285% |
+| 00:30 | USD | 6-Month Bill Auction | 5.270% |  | 5.260% |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 7.1K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -17.2K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -87.7K |
@@ -37,8 +37,8 @@
 | 17:30 | ZAR | Unemployment Rate (Q3) |  |  | 32.60% |
 | 17:30 | ZAR | Unemployment (Q3) |  |  | 7.921M |
 | 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.556% |
-| 18:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Employment Change (YoY) |  |  | 1.3% |
+| 18:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Employment Overall (Q3) |  |  | 166,745.3K |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
