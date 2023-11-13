@@ -3,16 +3,16 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:05 | GBP | BoE MPC Member Mann |  |  |  |
-| 03:00 | USD | Federal Budget Balance | -67.0B | -65.0B | -171.0B |
-| 15 min | GBP | CFTC GBP speculative net positions |  |  | -20.4K |
-| 15 min | USD | CFTC Crude Oil speculative net positions |  |  | 262.3K |
-| 15 min | USD | CFTC Gold speculative net positions |  |  | 163.4K |
-| 15 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 6.7K |
-| 15 min | USD | CFTC S&P 500 speculative net positions |  |  | 4.3K |
-| 15 min | AUD | CFTC AUD speculative net positions |  |  | -75.1K |
-| 15 min | BRL | CFTC BRL speculative net positions |  |  | 9.3K |
-| 15 min | JPY | CFTC JPY speculative net positions |  |  | -103.8K |
-| 15 min | EUR | CFTC EUR speculative net positions |  |  | 85.4K |
+| 03:00 | USD | Federal Budget Balance (Oct) | -67.0B | -65.0B | -171.0B |
+| 04:30 | GBP | CFTC GBP speculative net positions | -16.3K |  | -20.4K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions | 236.0K |  | 262.3K |
+| 04:30 | USD | CFTC Gold speculative net positions | 166.2K |  | 163.4K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | 16.3K |  | 6.7K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions | -53.4K |  | 4.3K |
+| 04:30 | AUD | CFTC AUD speculative net positions | -65.6K |  | -75.1K |
+| 04:30 | BRL | CFTC BRL speculative net positions | 26.6K |  | 9.3K |
+| 04:30 | JPY | CFTC JPY speculative net positions | -104.0K |  | -103.8K |
+| 04:30 | EUR | CFTC EUR speculative net positions | 89.1K |  | 85.4K |
 | 08:30 | AUD | NAB Business Confidence (Oct) |  |  | 1 |
 | 14:30 | INR | WPI Inflation (YoY) (Oct) |  | -0.20% | -0.26% |
 | 15:00 | GBP | Average Earnings Index +Bonus (Sep) |  | 7.4% | 8.1% |
@@ -30,8 +30,8 @@
 | 17:00 | USD | IEA Monthly Report |  |  |  |
 | 18:00 | EUR | German ZEW Current Conditions (Nov) |  | -76.7 | -79.9 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Nov) |  | 5.0 | -1.1 |
-| 18:00 | EUR | GDP (QoQ) |  | -0.1% | 0.2% |
 | 18:00 | EUR | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
+| 18:00 | EUR | GDP (QoQ) |  | -0.1% | 0.2% |
 | 18:00 | EUR | ZEW Economic Sentiment (Nov) |  | 6.1 | 2.3 |
 | 21:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:30 | USD | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
