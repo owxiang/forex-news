@@ -6,5 +6,5 @@
 | 16:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 18:00 | CNY | New Loans (Oct) | 738.4B | 665.0B | 2,310.0B |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
-| 47 min | USD | OPEC Monthly Report |  |  |  |
-| 47 min | INR | CPI (YoY) (Oct) |  | 4.80% | 5.02% |
+| 20:00 | USD | OPEC Monthly Report |  |  |  |
+| 20:00 | INR | CPI (YoY) (Oct) | 4.87% | 4.80% | 5.02% |

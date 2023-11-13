@@ -12,8 +12,9 @@
 | 18:00 | CNY | M2 Money Stock (YoY) (Oct) | 10.3% | 10.3% | 10.3% |
 | 18:00 | CNY | Outstanding Loan Growth (YoY) (Oct) | 10.9% | 10.9% | 10.9% |
 | 18:00 | CNY | Chinese Total Social Financing (Oct) | 1,850.0B | 1,900.0B | 4,120.0B |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 42 min | GBP | BoE Breeden Speaks |  |  |  |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19:30 | GBP | Rightmove House Price Index (YoY) (Nov) | -1.3% |  | -0.8% |
+| 19:55 | GBP | BoE Breeden Speaks |  |  |  |
 | 21:50 | USD | Fed Governor Cook Speaks |  |  |  |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.682% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.796% |
