@@ -5,19 +5,19 @@
 | 00:00 | USD | 1-Year Consumer Inflation Expectations | 3.60% |  | 3.70% |
 | 00:30 | USD | 3-Month Bill Auction | 5.285% |  | 5.285% |
 | 00:30 | USD | 6-Month Bill Auction | 5.270% |  | 5.260% |
-| 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 7.1K |
-| 04:30 | USD | CFTC Copper speculative net positions |  |  | -17.2K |
-| 04:30 | USD | CFTC Corn speculative net positions |  |  | -87.7K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions |  |  | -54.7K |
-| 04:30 | USD | CFTC Silver speculative net positions |  |  | 20.2K |
-| 04:30 | USD | CFTC Soybeans speculative net positions |  |  | 16.3K |
-| 04:30 | USD | CFTC Wheat speculative net positions |  |  | -69.6K |
-| 04:30 | CAD | CFTC CAD speculative net positions |  |  | -49.3K |
-| 04:30 | MXN | CFTC MXN speculative net positions |  |  | 31.3K |
-| 04:30 | CHF | CFTC CHF speculative net positions |  |  | -14.9K |
-| 04:30 | NZD | CFTC NZD speculative net positions |  |  | -12.8K |
-| 05:00 | KRW | Export Price Index (YoY) (Oct) |  |  | -8.9% |
-| 05:00 | KRW | Import Price Index (YoY) (Oct) |  |  | -9.6% |
+| 15 min | USD | CFTC Aluminium speculative net positions |  |  | 7.1K |
+| 15 min | USD | CFTC Copper speculative net positions |  |  | -17.2K |
+| 15 min | USD | CFTC Corn speculative net positions |  |  | -87.7K |
+| 15 min | USD | CFTC Natural Gas speculative net positions |  |  | -54.7K |
+| 15 min | USD | CFTC Silver speculative net positions |  |  | 20.2K |
+| 15 min | USD | CFTC Soybeans speculative net positions |  |  | 16.3K |
+| 15 min | USD | CFTC Wheat speculative net positions |  |  | -69.6K |
+| 15 min | CAD | CFTC CAD speculative net positions |  |  | -49.3K |
+| 15 min | MXN | CFTC MXN speculative net positions |  |  | 31.3K |
+| 15 min | CHF | CFTC CHF speculative net positions |  |  | -14.9K |
+| 15 min | NZD | CFTC NZD speculative net positions |  |  | -12.8K |
+| 45 min | KRW | Export Price Index (YoY) (Oct) |  |  | -8.9% |
+| 45 min | KRW | Import Price Index (YoY) (Oct) |  |  | -9.6% |
 | 05:45 | NZD | FPI (MoM) (Oct) |  |  | -0.4% |
 | 07:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
 | 08:30 | AUD | NAB Business Survey (Oct) |  |  | 11 |

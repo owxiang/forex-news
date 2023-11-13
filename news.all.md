@@ -7,28 +7,28 @@
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.285% |  | 5.285% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.270% |  | 5.260% |
 | 03:00 | USD | Moderate | Federal Budget Balance | -67.0B | -65.0B | -171.0B |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.4K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 7.1K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -17.2K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions |  |  | -87.7K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 262.3K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 163.4K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 6.7K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -54.7K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 4.3K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions |  |  | 20.2K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 16.3K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -69.6K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -49.3K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 31.3K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -14.9K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -75.1K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 9.3K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -103.8K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -12.8K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 85.4K |
-| 05:00 | KRW | Low | Export Price Index (YoY) (Oct) |  |  | -8.9% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Oct) |  |  | -9.6% |
+| 15 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.4K |
+| 15 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 7.1K |
+| 15 min | USD | Low | CFTC Copper speculative net positions |  |  | -17.2K |
+| 15 min | USD | Low | CFTC Corn speculative net positions |  |  | -87.7K |
+| 15 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 262.3K |
+| 15 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 163.4K |
+| 15 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 6.7K |
+| 15 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -54.7K |
+| 15 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | 4.3K |
+| 15 min | USD | Low | CFTC Silver speculative net positions |  |  | 20.2K |
+| 15 min | USD | Low | CFTC Soybeans speculative net positions |  |  | 16.3K |
+| 15 min | USD | Low | CFTC Wheat speculative net positions |  |  | -69.6K |
+| 15 min | CAD | Low | CFTC CAD speculative net positions |  |  | -49.3K |
+| 15 min | MXN | Low | CFTC MXN speculative net positions |  |  | 31.3K |
+| 15 min | CHF | Low | CFTC CHF speculative net positions |  |  | -14.9K |
+| 15 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -75.1K |
+| 15 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 9.3K |
+| 15 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | -103.8K |
+| 15 min | NZD | Low | CFTC NZD speculative net positions |  |  | -12.8K |
+| 15 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 85.4K |
+| 45 min | KRW | Low | Export Price Index (YoY) (Oct) |  |  | -8.9% |
+| 45 min | KRW | Low | Import Price Index (YoY) (Oct) |  |  | -9.6% |
 | 05:45 | NZD | Low | FPI (MoM) (Oct) |  |  | -0.4% |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Oct) |  |  | 1 |
@@ -68,8 +68,8 @@
 | 18:00 | EUR | Low | Employment Change (YoY) |  |  | 1.3% |
 | 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Low | Employment Overall (Q3) |  |  | 166,745.3K |
-| 18:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | GDP (QoQ) |  | -0.1% | 0.2% |
+| 18:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) |  | 6.1 | 2.3 |
 | 18:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.120% |
@@ -82,8 +82,8 @@
 | 21:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | Low | Core CPI Index (Oct) |  | 311.67 | 310.66 |
-| 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |
 | 21:30 | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
+| 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | Low | CPI Index, s.a (Oct) |  |  | 307.48 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
