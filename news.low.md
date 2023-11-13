@@ -18,7 +18,7 @@
 | 04:30 | NZD | CFTC NZD speculative net positions | -14.9K |  | -12.8K |
 | 05:00 | KRW | Export Price Index (YoY) (Oct) | -9.5% |  | -8.9% |
 | 05:00 | KRW | Import Price Index (YoY) (Oct) | -10.2% |  | -9.6% |
-| 31 min | NZD | FPI (MoM) (Oct) |  |  | -0.4% |
+| 05:45 | NZD | FPI (MoM) (Oct) | -0.9% |  | -0.4% |
 | 07:30 | AUD | Westpac Consumer Sentiment (Nov) |  |  | 2.9% |
 | 08:30 | AUD | NAB Business Survey (Oct) |  |  | 11 |
 | 11:00 | KRW | M3 Money Supply (Sep) |  |  | 5,177.2B |
@@ -37,8 +37,8 @@
 | 17:30 | ZAR | Unemployment Rate (Q3) |  |  | 32.60% |
 | 17:30 | ZAR | Unemployment (Q3) |  |  | 7.921M |
 | 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.556% |
-| 18:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Employment Change (YoY) |  |  | 1.3% |
+| 18:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Employment Overall (Q3) |  |  | 166,745.3K |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
