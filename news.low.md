@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | NZD | Performance of Services Index | 48.9 |  | 50.6 |
 | 07:30 | AUD | RBA Kohler Speaks |  |  |  |
-| 07:50 | JPY | PPI (YoY) (Oct) | 0.8% | 0.9% | 2.2% |
 | 07:50 | JPY | PPI (MoM) (Oct) | -0.4% | 0.0% | -0.2% |
+| 07:50 | JPY | PPI (YoY) (Oct) | 0.8% | 0.9% | 2.2% |
 | 08:01 | GBP | Rightmove House Price Index (MoM) | -1.7% |  | 0.5% |
 | 14:00 | JPY | Machine Tool Orders (YoY) | -20.6% |  | -11.2% |
 | 16:20 | EUR | German Current Account Balance n.s.a (Sep) | 28.1B |  | 22.8B |
