@@ -1,38 +1,28 @@
-## 14 November 2023 - Moderate Impact Forex News
+## 15 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:05 | GBP | BoE MPC Member Mann |  |  |  |
-| 03:00 | USD | Federal Budget Balance (Oct) | -67.0B | -65.0B | -171.0B |
-| 04:30 | GBP | CFTC GBP speculative net positions | -16.3K |  | -20.4K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 236.0K |  | 262.3K |
-| 04:30 | USD | CFTC Gold speculative net positions | 166.2K |  | 163.4K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | 16.3K |  | 6.7K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | -53.4K |  | 4.3K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -65.6K |  | -75.1K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 26.6K |  | 9.3K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -104.0K |  | -103.8K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 89.1K |  | 85.4K |
-| 08:30 | AUD | NAB Business Confidence (Oct) | -2 |  | 0 |
-| 14:30 | INR | WPI Inflation (YoY) (Oct) | -0.52% | -0.20% | -0.26% |
-| 15:00 | GBP | Average Earnings Index +Bonus (Sep) | 7.9% | 7.4% | 8.2% |
-| 15:00 | GBP | Claimant Count Change (Oct) | 17.8K | 15.0K | 9.0K |
-| 15:00 | GBP | Employment Change 3M/3M (MoM) (Sep) | 54K | -198K | -82K |
-| 15:00 | GBP | Unemployment Rate (Sep) | 4.2% | 4.3% | 4.2% |
-| 15:30 | CHF | PPI (MoM) (Oct) | 0.2% | 0.1% | -0.1% |
-| 15:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 15:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 16:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 16:00 | EUR | Spanish CPI (YoY) (Oct) | 3.5% | 3.5% | 3.5% |
-| 16:00 | EUR | Spanish HICP (YoY) (Oct) | 3.5% | 3.5% | 3.3% |
-| 16:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 16:45 | EUR | ECB's Enria Speaks |  |  |  |
-| 17:00 | USD | IEA Monthly Report |  |  |  |
-| 18:00 | EUR | German ZEW Current Conditions (Nov) | -79.8 | -76.9 | -79.9 |
-| 18:00 | EUR | German ZEW Economic Sentiment (Nov) | 9.8 | 5.0 | -1.1 |
-| 18:00 | EUR | GDP (YoY) (Q3) | 0.1% | 0.1% | 0.5% |
-| 18:00 | EUR | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.2% |
-| 18:00 | EUR | ZEW Economic Sentiment (Nov) | 13.8 | 6.1 | 2.3 |
-| 21:15 | EUR | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | Core CPI (YoY) (Oct) | 4.0% | 4.1% | 4.1% |
-| 21:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | 1.400M | 11.900M |
+| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.8% |
+| 07:50 | JPY | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
+| 08:30 | AUD | Wage Price Index (QoQ) (Q3) |  | 1.3% | 0.8% |
+| 10:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
+| 10:00 | CNY | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
+| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
+| 10:00 | CNY | Chinese Unemployment Rate (Oct) |  | 5.0% | 5.0% |
+| 10:00 | CNY | NBS Press Conference |  |  |  |
+| 12:30 | JPY | Industrial Production (MoM) (Sep) |  | 0.2% | -0.7% |
+| 15:00 | GBP | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
+| 15:00 | GBP | PPI Input (MoM) (Oct) |  | 0.1% | 0.4% |
+| 15:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -0.5% |
+| 15:45 | EUR | French HICP (MoM) (Oct) |  | 0.2% | -0.6% |
+| 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 18:00 | EUR | Industrial Production (MoM) (Sep) |  | -0.7% | 0.6% |
+| 18:00 | EUR | Trade Balance (Sep) |  |  | 6.7B |
+| 21:30 | USD | Core PPI (MoM) (Oct) |  | 0.2% | 0.3% |
+| 21:30 | USD | NY Empire State Manufacturing Index (Nov) |  | -2.60 | -4.60 |
+| 21:30 | USD | Retail Control (MoM) (Oct) |  |  | 0.6% |
+| 21:30 | CAD | Wholesale Sales (MoM) (Sep) |  | 0.0% | 2.3% |
+| 23:00 | USD | Business Inventories (MoM) (Sep) |  | 0.3% | 0.4% |
+| 23:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.5% |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.272M |
