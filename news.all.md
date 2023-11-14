@@ -33,8 +33,8 @@
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Nov) | -2.6% |  | 2.9% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Oct) | -2 |  | 1 |
 | 08:30 | AUD | Low | NAB Business Survey (Oct) | 13 |  | 11 |
-| 11:00 | KRW | Low | M3 Money Supply (Sep) |  |  | 5,177.2B |
-| 11:00 | KRW | Low | M2 Money supply (Sep) |  |  | 1.90% |
+| 35 min | KRW | Low | M3 Money Supply (Sep) |  |  | 5,177.2B |
+| 35 min | KRW | Low | M2 Money supply (Sep) |  |  | 1.90% |
 | 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.330% |
 | 13:30 | NOK | Low | Consumer Confidence (Q4) |  |  | -30.20 |
 | 14:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | 3.35% |
@@ -46,8 +46,8 @@
 | 15:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 15.0K | 20.4K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | -82K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
-| 15:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 15:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.0% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 15:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
@@ -65,8 +65,8 @@
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.556% |
 | 18:00 | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -76.7 | -79.9 |
 | 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 5.0 | -1.1 |
-| 18:00 | EUR | Low | Employment Change (YoY) |  |  | 1.3% |
 | 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.2% |
+| 18:00 | EUR | Low | Employment Change (YoY) |  |  | 1.3% |
 | 18:00 | EUR | Low | Employment Overall (Q3) |  |  | 166,745.3K |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | GDP (QoQ) |  | -0.1% | 0.2% |
@@ -79,8 +79,8 @@
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
 | 21:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:30 | USD | Low | Core CPI Index (Oct) |  | 311.67 | 310.66 |
 | 21:30 | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
 | 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |

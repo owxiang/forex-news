@@ -21,8 +21,8 @@
 | 05:45 | NZD | FPI (MoM) (Oct) | -0.9% |  | -0.4% |
 | 07:30 | AUD | Westpac Consumer Sentiment (Nov) | -2.6% |  | 2.9% |
 | 08:30 | AUD | NAB Business Survey (Oct) | 13 |  | 11 |
-| 11:00 | KRW | M3 Money Supply (Sep) |  |  | 5,177.2B |
-| 11:00 | KRW | M2 Money supply (Sep) |  |  | 1.90% |
+| 35 min | KRW | M3 Money Supply (Sep) |  |  | 5,177.2B |
+| 35 min | KRW | M2 Money supply (Sep) |  |  | 1.90% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.330% |
 | 13:30 | NOK | Consumer Confidence (Q4) |  |  | -30.20 |
 | 14:30 | INR | WPI Food (YoY) (Oct) |  |  | 3.35% |
@@ -37,8 +37,8 @@
 | 17:30 | ZAR | Unemployment Rate (Q3) |  |  | 32.60% |
 | 17:30 | ZAR | Unemployment (Q3) |  |  | 7.921M |
 | 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.556% |
-| 18:00 | EUR | Employment Change (YoY) |  |  | 1.3% |
 | 18:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.2% |
+| 18:00 | EUR | Employment Change (YoY) |  |  | 1.3% |
 | 18:00 | EUR | Employment Overall (Q3) |  |  | 166,745.3K |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
