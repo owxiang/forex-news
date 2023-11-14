@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Cleveland CPI (MoM) (Oct) | 0.3% |  | 0.5% |
-| 33 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 01:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 05:45 | NZD | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.6% |
 | 05:45 | NZD | External Migration & Visitors (Sep) |  |  | 59.40% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Sep) |  |  | 9,980 |

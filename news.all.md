@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Oct) | 0.3% |  | 0.5% |
-| 33 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 01:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.400M | 11.900M |
 | 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.6% |
 | 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.8% |
