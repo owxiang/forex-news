@@ -75,11 +75,11 @@
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 3.060% |  | 3.120% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Oct) | 90.7 | 90.5 | 90.8 |
 | 20:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | -1.2% |  | 0.6% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | -0.3% |  | -1.3% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | -1.2% |  | 0.6% |
 | 21:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | High | Core CPI (MoM) (Oct) | 0.2% | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Oct) | 4.0% | 4.1% | 4.1% |
+| 21:30 | USD | High | Core CPI (MoM) (Oct) | 0.2% | 0.3% | 0.3% |
 | 21:30 | USD | Low | Core CPI Index (Oct) | 311.37 | 311.67 | 310.66 |
 | 21:30 | USD | High | CPI (MoM) (Oct) | 0.0% | 0.1% | 0.4% |
 | 21:30 | USD | High | CPI (YoY) (Oct) | 3.2% | 3.3% | 3.7% |
@@ -89,4 +89,4 @@
 | 21:30 | USD | Low | Real Earnings (MoM) (Oct) | -0.1% |  | -0.1% |
 | 21:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) | 3.0% |  | 3.1% |
-| 45 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

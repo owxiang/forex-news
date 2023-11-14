@@ -44,12 +44,12 @@
 | 18:30 | EUR | German 2-Year Schatz Auction | 3.060% |  | 3.120% |
 | 19:00 | USD | NFIB Small Business Optimism (Oct) | 90.7 | 90.5 | 90.8 |
 | 20:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | -1.2% |  | 0.6% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | -0.3% |  | -1.3% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | -1.2% |  | 0.6% |
 | 21:30 | USD | Core CPI Index (Oct) | 311.37 | 311.67 | 310.66 |
 | 21:30 | USD | CPI Index, n.s.a. (Oct) | 307.67 | 307.86 | 307.79 |
 | 21:30 | USD | CPI Index, s.a (Oct) | 307.62 |  | 307.48 |
 | 21:30 | USD | CPI, n.s.a (MoM) (Oct) | -0.04% |  | 0.25% |
 | 21:30 | USD | Real Earnings (MoM) (Oct) | -0.1% |  | -0.1% |
 | 21:55 | USD | Redbook (YoY) | 3.0% |  | 3.1% |
-| 45 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
