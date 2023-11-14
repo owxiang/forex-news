@@ -4,21 +4,21 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Oct) | 0.3% |  | 0.5% |
 | 01:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.400M | 11.900M |
-| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.6% |
-| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.8% |
-| 05:45 | NZD | Low | External Migration & Visitors (Sep) |  |  | 59.40% |
-| 05:45 | NZD | Low | Permanent/Long-Term Migration (Sep) |  |  | 9,980 |
-| 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -4.1% |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.400M | 11.900M |
+| 29 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Oct) |  |  | -0.8% |
+| 29 min | NZD | Low | Electronic Card Retail Sales (YoY) (Oct) |  |  | 1.6% |
+| 29 min | NZD | Low | External Migration & Visitors (Sep) |  |  | 59.40% |
+| 29 min | NZD | Low | Permanent/Long-Term Migration (Sep) |  |  | 9,980 |
+| 29 min | NZD | Low | Visitor Arrivals (MoM) |  |  | -4.1% |
 | 07:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.6% |
-| 07:50 | JPY | Moderate | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
 | 07:50 | JPY | High | GDP (QoQ) (Q3) |  | -0.1% | 1.2% |
+| 07:50 | JPY | Moderate | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  | 0.3% | -1.0% |
 | 07:50 | JPY | Low | GDP (YoY) (Q3) |  | 4.8% | 3.5% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.1% | 1.8% |
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | -0.6% |
-| 08:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) |  | 1.3% | 0.8% |
 | 08:30 | AUD | Low | Wage Price Index (YoY) (Q3) |  | 3.9% | 3.6% |
+| 08:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) |  | 1.3% | 0.8% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
 | 10:00 | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
 | 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
@@ -34,38 +34,38 @@
 | 14:30 | EUR | Low | French Unemployment Rate (Q3) |  |  | 7.2% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Oct) |  | 5.8% | 6.1% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Oct) |  | 0.4% | 0.5% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Oct) |  |  | 0.7% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Oct) |  |  | 7.6% |
+| 15:00 | GBP | Low | Core PPI Output (MoM) (Oct) |  |  | 0.0% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Oct) |  |  | 0.4% |
+| 15:00 | GBP | Low | Core RPI (YoY) (Oct) |  |  | 7.6% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
 | 15:00 | GBP | High | CPI (YoY) (Oct) |  | 4.8% | 6.7% |
 | 15:00 | GBP | Low | CPI, n.s.a (Oct) |  |  | 132.00 |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Oct) |  | 0.1% | 0.4% |
 | 15:00 | GBP | Low | PPI Input (YoY) (Oct) |  |  | -2.6% |
-| 15:00 | GBP | Low | PPI Output (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | GBP | Low | PPI Output (MoM) (Oct) |  | 0.1% | 0.4% |
+| 15:00 | GBP | Low | PPI Output (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Oct) |  | 6.4% | 8.9% |
 | 15:00 | GBP | Low | RPI (MoM) (Oct) |  | 0.2% | 0.5% |
-| 15:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | -4.1% |
 | 15:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 15:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | -4.1% |
 | 15:00 | NOK | Low | Trade Balance (Oct) |  |  | 45.6B |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Oct) |  |  | -0.50% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Oct) |  |  | 4.90% |
-| 15:45 | EUR | Low | French CPI (YoY) |  | 4.0% | 4.9% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -0.5% |
-| 15:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.2% | -0.6% |
+| 15:45 | EUR | Low | French CPI (YoY) |  | 4.0% | 4.9% |
 | 15:45 | EUR | Low | French HICP (YoY) (Oct) |  | 4.5% | 5.7% |
+| 15:45 | EUR | Moderate | French HICP (MoM) (Oct) |  | 0.2% | -0.6% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 4.80% |
 | 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Oct) |  | 1.8% | 5.3% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Oct) |  | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 5.1% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.7% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Oct) |  | 1.9% | 5.6% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Oct) |  | 0.2% | 1.7% |
 | 17:30 | GBP | Low | House Price Index (YoY) |  | 0.3% | 0.2% |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | -0.7% | 0.6% |
 | 18:00 | EUR | Low | Industrial Production (YoY) (Sep) |  | -6.3% | -5.1% |
+| 18:00 | EUR | Moderate | Industrial Production (MoM) (Sep) |  | -0.7% | 0.6% |
 | 18:00 | EUR | Moderate | Trade Balance (Sep) |  |  | 6.7B |
 | 18:30 | EUR | Low | German 30-Year Bund Auction |  |  | 3.040% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
@@ -84,10 +84,10 @@
 | 21:30 | USD | Moderate | Core PPI (MoM) (Oct) |  | 0.2% | 0.3% |
 | 21:30 | USD | High | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
 | 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) |  | -2.60 | -4.60 |
-| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
-| 21:30 | USD | Low | PPI (YoY) (Oct) |  |  | 2.2% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.8% |
 | 21:30 | USD | High | PPI (MoM) (Oct) |  | 0.1% | 0.5% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
+| 21:30 | USD | Low | PPI (YoY) (Oct) |  |  | 2.2% |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Oct) |  |  | 0.6% |
 | 21:30 | USD | High | Retail Sales (MoM) (Oct) |  | -0.1% | 0.7% |
 | 21:30 | USD | Low | Retail Sales (YoY) (Oct) |  |  | 3.75% |
