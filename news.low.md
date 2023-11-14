@@ -33,20 +33,20 @@
 | 16:00 | EUR | Core CPI (YoY) (Oct) | 5.2% |  | 5.8% |
 | 16:00 | EUR | Spanish CPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
 | 16:00 | EUR | Spanish HICP (MoM) (Oct) | 0.3% | 0.3% | 0.6% |
-| 14 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 14 min | ZAR | Unemployment Rate (Q3) |  |  | 32.60% |
-| 14 min | ZAR | Unemployment (Q3) |  |  | 7.921M |
-| 24 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.556% |
-| 44 min | EUR | Employment Change (YoY) |  | 1.2% | 1.3% |
-| 44 min | EUR | Employment Change (QoQ) |  | 0.1% | 0.2% |
-| 44 min | EUR | Employment Overall (Q3) |  |  | 166,745.3K |
-| 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
-| 19:00 | USD | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
+| 17:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 17:30 | ZAR | Unemployment Rate (Q3) | 31.90% |  | 32.60% |
+| 17:30 | ZAR | Unemployment (Q3) | 7.849M |  | 7.921M |
+| 17:50 | EUR | Spanish 3-Month Letras Auction | 3.552% |  | 3.556% |
+| 18:00 | EUR | Employment Change (YoY) | 1.4% | 1.2% | 1.3% |
+| 18:00 | EUR | Employment Change (QoQ) | 0.3% | 0.1% | 0.1% |
+| 18:00 | EUR | Employment Overall (Q3) | 166,966.2K |  | 166,499.3K |
+| 12 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 12 min | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
+| 42 min | USD | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 20:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
 | 21:30 | USD | Core CPI Index (Oct) |  | 311.67 | 310.66 |
 | 21:30 | USD | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | CPI Index, s.a (Oct) |  |  | 307.48 |
