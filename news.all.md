@@ -46,16 +46,16 @@
 | 15:00 | GBP | Moderate | Claimant Count Change (Oct) | 17.8K | 15.0K | 9.0K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) | 54K | -198K | -82K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Sep) | 4.2% | 4.3% | 4.2% |
-| 15:30 | CHF | Moderate | PPI (MoM) (Oct) | 0.2% | 0.1% | -0.1% |
 | 15:30 | CHF | Low | PPI (YoY) (Oct) | -0.9% |  | -1.0% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Oct) | 0.2% | 0.1% | -0.1% |
 | 15:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 15:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 16:00 | EUR | Low | Core CPI (YoY) (Oct) | 5.2% |  | 5.8% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.5% | 3.5% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Oct) | 0.3% | 0.3% | 0.2% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.5% | 3.5% | 3.3% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Oct) | 3.5% | 3.5% | 3.5% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Oct) | 0.3% | 0.3% | 0.6% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Oct) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 16:45 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -65,28 +65,28 @@
 | 17:50 | EUR | Low | Spanish 3-Month Letras Auction | 3.552% |  | 3.556% |
 | 18:00 | EUR | Moderate | German ZEW Current Conditions (Nov) | -79.8 | -76.9 | -79.9 |
 | 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) | 9.8 | 5.0 | -1.1 |
-| 18:00 | EUR | Low | Employment Change (YoY) | 1.4% | 1.2% | 1.3% |
 | 18:00 | EUR | Low | Employment Change (QoQ) | 0.3% | 0.1% | 0.1% |
+| 18:00 | EUR | Low | Employment Change (YoY) | 1.4% | 1.2% | 1.3% |
 | 18:00 | EUR | Low | Employment Overall (Q3) | 166,966.2K |  | 166,499.3K |
-| 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.2% |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.1% | 0.1% | 0.5% |
+| 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.2% |
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) | 13.8 | 6.1 | 2.3 |
 | 18:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 3.060% |  | 3.120% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Oct) | 90.7 | 90.5 | 90.8 |
 | 20:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | -0.3% |  | -1.3% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) | -1.2% |  | 0.6% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) | -0.3% |  | -1.3% |
 | 21:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 10 min | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
-| 10 min | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
-| 10 min | USD | Low | Core CPI Index (Oct) |  | 311.67 | 310.66 |
-| 10 min | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |
-| 10 min | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
-| 10 min | USD | Low | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
-| 10 min | USD | Low | CPI Index, s.a (Oct) |  |  | 307.48 |
-| 10 min | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
-| 10 min | USD | Low | Real Earnings (MoM) (Oct) |  |  | -0.2% |
-| 25 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 35 min | USD | Low | Redbook (YoY) |  |  | 3.1% |
-| 23:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:30 | USD | High | Core CPI (MoM) (Oct) | 0.2% | 0.3% | 0.3% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Oct) | 4.0% | 4.1% | 4.1% |
+| 21:30 | USD | Low | Core CPI Index (Oct) | 311.37 | 311.67 | 310.66 |
+| 21:30 | USD | High | CPI (MoM) (Oct) | 0.0% | 0.1% | 0.4% |
+| 21:30 | USD | High | CPI (YoY) (Oct) | 3.2% | 3.3% | 3.7% |
+| 21:30 | USD | Low | CPI Index, n.s.a. (Oct) | 307.67 | 307.86 | 307.79 |
+| 21:30 | USD | Low | CPI Index, s.a (Oct) | 307.62 |  | 307.48 |
+| 21:30 | USD | Low | CPI, n.s.a (MoM) (Oct) | -0.04% |  | 0.25% |
+| 21:30 | USD | Low | Real Earnings (MoM) (Oct) | -0.1% |  | -0.1% |
+| 21:45 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 21:55 | USD | Low | Redbook (YoY) | 3.0% |  | 3.1% |
+| 45 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
