@@ -71,19 +71,18 @@
 | 18:00 | EUR | Moderate | GDP (YoY) (Q3) | 0.1% | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.2% |
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Nov) | 13.8 | 6.1 | 2.3 |
-| 12 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 12 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.120% |
-| 42 min | USD | Low | NFIB Small Business Optimism (Oct) |  | 90.5 | 90.8 |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 20:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
+| 18:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 18:30 | EUR | Low | German 2-Year Schatz Auction | 3.060% |  | 3.120% |
+| 19:00 | USD | Low | NFIB Small Business Optimism (Oct) | 90.7 | 90.5 | 90.8 |
+| 47 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 47 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
+| 47 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
 | 21:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
+| 21:30 | USD | High | Core CPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 21:30 | USD | Low | Core CPI Index (Oct) |  | 311.67 | 310.66 |
-| 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |
 | 21:30 | USD | High | CPI (MoM) (Oct) |  | 0.1% | 0.4% |
+| 21:30 | USD | High | CPI (YoY) (Oct) |  | 3.3% | 3.7% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | Low | CPI Index, s.a (Oct) |  |  | 307.48 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.25% |
