@@ -33,6 +33,6 @@
 | 18:00 | EUR | GDP (YoY) (Q3) | 0.1% | 0.1% | 0.5% |
 | 18:00 | EUR | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.2% |
 | 18:00 | EUR | ZEW Economic Sentiment (Nov) | 13.8 | 6.1 | 2.3 |
-| 21:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 45 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:30 | USD | Core CPI (YoY) (Oct) |  | 4.1% | 4.1% |
 | 21:45 | GBP | BoE MPC Member Pill Speaks |  |  |  |

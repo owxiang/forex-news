@@ -37,15 +37,15 @@
 | 17:30 | ZAR | Unemployment Rate (Q3) | 31.90% |  | 32.60% |
 | 17:30 | ZAR | Unemployment (Q3) | 7.849M |  | 7.921M |
 | 17:50 | EUR | Spanish 3-Month Letras Auction | 3.552% |  | 3.556% |
-| 18:00 | EUR | Employment Change (YoY) | 1.4% | 1.2% | 1.3% |
 | 18:00 | EUR | Employment Change (QoQ) | 0.3% | 0.1% | 0.1% |
+| 18:00 | EUR | Employment Change (YoY) | 1.4% | 1.2% | 1.3% |
 | 18:00 | EUR | Employment Overall (Q3) | 166,966.2K |  | 166,499.3K |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction | 3.060% |  | 3.120% |
 | 19:00 | USD | NFIB Small Business Optimism (Oct) | 90.7 | 90.5 | 90.8 |
-| 47 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 47 min | BRL | Brazilian Service Sector Growth (MoM) (Sep) |  |  | -0.9% |
-| 47 min | BRL | Brazilian Service Sector Growth (YoY) (Sep) |  |  | 0.9% |
+| 20:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Sep) | -1.2% |  | 0.6% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Sep) | -0.3% |  | -1.3% |
 | 21:30 | USD | Core CPI Index (Oct) |  | 311.67 | 310.66 |
 | 21:30 | USD | CPI Index, n.s.a. (Oct) |  | 307.86 | 307.79 |
 | 21:30 | USD | CPI Index, s.a (Oct) |  |  | 307.48 |
