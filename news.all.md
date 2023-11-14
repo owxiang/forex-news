@@ -31,11 +31,11 @@
 | 05:00 | KRW | Low | Import Price Index (YoY) (Oct) | -10.2% |  | -9.6% |
 | 05:45 | NZD | Low | FPI (MoM) (Oct) | -0.9% |  | -0.4% |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Nov) | -2.6% |  | 2.9% |
-| 08:30 | AUD | Moderate | NAB Business Confidence (Oct) | -2 |  | 1 |
+| 08:30 | AUD | Moderate | NAB Business Confidence (Oct) | -2 |  | 0 |
 | 08:30 | AUD | Low | NAB Business Survey (Oct) | 13 |  | 12 |
 | 11:00 | KRW | Low | M3 Money Supply (Sep) | 5,177.0B |  | 5,189.4B |
 | 11:00 | KRW | Low | M2 Money supply (Sep) | 1.90% |  | 2.00% |
-| 19 min | JPY | Low | 5-Year JGB Auction |  |  | 0.330% |
+| 11:35 | JPY | Low | 5-Year JGB Auction | 0.418% |  | 0.330% |
 | 13:30 | NOK | Low | Consumer Confidence (Q4) |  |  | -30.20 |
 | 14:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | 3.35% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -3.35% |
@@ -44,8 +44,8 @@
 | 15:00 | GBP | Low | Average Earnings ex Bonus (Sep) |  | 7.7% | 7.8% |
 | 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Sep) |  | 7.4% | 8.1% |
 | 15:00 | GBP | Moderate | Claimant Count Change (Oct) |  | 15.0K | 20.4K |
-| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  |  | -82K |
-| 15:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.2% | 4.2% |
+| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Sep) |  | -198K | -82K |
+| 15:00 | GBP | Moderate | Unemployment Rate (Sep) |  | 4.3% | 4.2% |
 | 15:30 | CHF | Low | PPI (YoY) (Oct) |  |  | -1.0% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 15:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
@@ -63,10 +63,10 @@
 | 17:30 | ZAR | Low | Unemployment Rate (Q3) |  |  | 32.60% |
 | 17:30 | ZAR | Low | Unemployment (Q3) |  |  | 7.921M |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.556% |
-| 18:00 | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -76.7 | -79.9 |
+| 18:00 | EUR | Moderate | German ZEW Current Conditions (Nov) |  | -76.9 | -79.9 |
 | 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Nov) |  | 5.0 | -1.1 |
-| 18:00 | EUR | Low | Employment Change (YoY) |  |  | 1.3% |
-| 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.2% | 0.2% |
+| 18:00 | EUR | Low | Employment Change (YoY) |  | 1.2% | 1.3% |
+| 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.1% | 0.2% |
 | 18:00 | EUR | Low | Employment Overall (Q3) |  |  | 166,745.3K |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q3) |  | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | GDP (QoQ) |  | -0.1% | 0.2% |

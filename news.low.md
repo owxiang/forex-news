@@ -23,7 +23,7 @@
 | 08:30 | AUD | NAB Business Survey (Oct) | 13 |  | 12 |
 | 11:00 | KRW | M3 Money Supply (Sep) | 5,177.0B |  | 5,189.4B |
 | 11:00 | KRW | M2 Money supply (Sep) | 1.90% |  | 2.00% |
-| 19 min | JPY | 5-Year JGB Auction |  |  | 0.330% |
+| 11:35 | JPY | 5-Year JGB Auction | 0.418% |  | 0.330% |
 | 13:30 | NOK | Consumer Confidence (Q4) |  |  | -30.20 |
 | 14:30 | INR | WPI Food (YoY) (Oct) |  |  | 3.35% |
 | 14:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -3.35% |
@@ -37,8 +37,8 @@
 | 17:30 | ZAR | Unemployment Rate (Q3) |  |  | 32.60% |
 | 17:30 | ZAR | Unemployment (Q3) |  |  | 7.921M |
 | 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.556% |
-| 18:00 | EUR | Employment Change (YoY) |  |  | 1.3% |
-| 18:00 | EUR | Employment Change (QoQ) |  | 0.2% | 0.2% |
+| 18:00 | EUR | Employment Change (YoY) |  | 1.2% | 1.3% |
+| 18:00 | EUR | Employment Change (QoQ) |  | 0.1% | 0.2% |
 | 18:00 | EUR | Employment Overall (Q3) |  |  | 166,745.3K |
 | 18:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.120% |
