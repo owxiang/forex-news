@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | USD | API Weekly Crude Oil Stock | 1.335M | 1.400M | 11.900M |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Oct) | -0.7% |  | -0.8% |
-| 07:50 | JPY | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
+| 34 min | JPY | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
 | 08:30 | AUD | Wage Price Index (QoQ) (Q3) |  | 1.3% | 0.8% |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
 | 10:00 | CNY | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
