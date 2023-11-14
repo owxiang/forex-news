@@ -24,7 +24,7 @@
 | 11:00 | KRW | M3 Money Supply (Sep) | 5,177.0B |  | 5,189.4B |
 | 11:00 | KRW | M2 Money supply (Sep) | 1.90% |  | 2.00% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.418% |  | 0.330% |
-| 13:30 | NOK | Consumer Confidence (Q4) |  |  | -30.20 |
+| 15 min | NOK | Consumer Confidence (Q4) |  |  | -30.20 |
 | 14:30 | INR | WPI Food (YoY) (Oct) |  |  | 3.35% |
 | 14:30 | INR | WPI Fuel (YoY) (Oct) |  |  | -3.35% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Oct) |  |  | -1.34% |

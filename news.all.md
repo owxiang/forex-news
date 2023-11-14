@@ -36,7 +36,7 @@
 | 11:00 | KRW | Low | M3 Money Supply (Sep) | 5,177.0B |  | 5,189.4B |
 | 11:00 | KRW | Low | M2 Money supply (Sep) | 1.90% |  | 2.00% |
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.418% |  | 0.330% |
-| 13:30 | NOK | Low | Consumer Confidence (Q4) |  |  | -30.20 |
+| 15 min | NOK | Low | Consumer Confidence (Q4) |  |  | -30.20 |
 | 14:30 | INR | Low | WPI Food (YoY) (Oct) |  |  | 3.35% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Oct) |  |  | -3.35% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Oct) |  | -0.20% | -0.26% |
