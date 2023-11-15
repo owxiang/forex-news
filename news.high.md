@@ -6,5 +6,5 @@
 | 15:00 | GBP | CPI (YoY) (Oct) |  | 4.8% | 6.7% |
 | 21:30 | USD | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
 | 21:30 | USD | PPI (MoM) (Oct) |  | 0.1% | 0.5% |
-| 21:30 | USD | Retail Sales (MoM) (Oct) |  | -0.1% | 0.7% |
-| 23:30 | USD | Crude Oil Inventories |  | -0.300M | 0.774M |
+| 21:30 | USD | Retail Sales (MoM) (Oct) |  | -0.3% | 0.7% |
+| 23:30 | USD | Crude Oil Inventories |  | 1.793M | 0.774M |
