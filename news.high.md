@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:50 | JPY | GDP (QoQ) (Q3) | -0.5% | -0.1% | 1.1% |
 | 15:00 | GBP | CPI (YoY) (Oct) | 4.6% | 4.8% | 6.7% |
-| 58 min | USD | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
-| 58 min | USD | PPI (MoM) (Oct) |  | 0.1% | 0.5% |
-| 58 min | USD | Retail Sales (MoM) (Oct) |  | -0.3% | 0.7% |
+| 10 min | USD | Core Retail Sales (MoM) (Oct) |  | -0.2% | 0.6% |
+| 10 min | USD | PPI (MoM) (Oct) |  | 0.1% | 0.5% |
+| 10 min | USD | Retail Sales (MoM) (Oct) |  | -0.3% | 0.7% |
 | 23:30 | USD | Crude Oil Inventories |  | 1.793M | 0.774M |

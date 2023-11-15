@@ -21,10 +21,10 @@
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 18:00 | EUR | Industrial Production (MoM) (Sep) | -1.1% | -1.0% | 0.6% |
 | 18:00 | EUR | Trade Balance (Sep) | 10.0B |  | 5.9B |
-| 58 min | USD | Core PPI (MoM) (Oct) |  | 0.3% | 0.3% |
-| 58 min | USD | NY Empire State Manufacturing Index (Nov) |  | -2.80 | -4.60 |
-| 58 min | USD | Retail Control (MoM) (Oct) |  |  | 0.6% |
-| 58 min | CAD | Wholesale Sales (MoM) (Sep) |  | 0.0% | 2.3% |
+| 10 min | USD | Core PPI (MoM) (Oct) |  | 0.3% | 0.3% |
+| 10 min | USD | NY Empire State Manufacturing Index (Nov) |  | -2.80 | -4.60 |
+| 10 min | USD | Retail Control (MoM) (Oct) |  |  | 0.6% |
+| 10 min | CAD | Wholesale Sales (MoM) (Sep) |  | 0.0% | 2.3% |
 | 23:00 | USD | Business Inventories (MoM) (Sep) |  | 0.4% | 0.4% |
 | 23:00 | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.5% |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.272M |

@@ -24,19 +24,19 @@
 | 15:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
 | 15:00 | GBP | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.0% |
-| 15:00 | GBP | Core RPI (YoY) (Oct) | 4.8% |  | 7.6% |
 | 15:00 | GBP | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
+| 15:00 | GBP | Core RPI (YoY) (Oct) | 4.8% |  | 7.6% |
 | 15:00 | GBP | CPI, n.s.a (Oct) | 132.00 |  | 132.00 |
 | 15:00 | GBP | PPI Input (YoY) (Oct) | -2.6% | -3.3% | -2.1% |
-| 15:00 | GBP | PPI Output (YoY) (Oct) | -0.6% | -1.0% | 0.2% |
 | 15:00 | GBP | PPI Output (MoM) (Oct) | 0.1% | 0.1% | 0.6% |
+| 15:00 | GBP | PPI Output (YoY) (Oct) | -0.6% | -1.0% | 0.2% |
 | 15:00 | GBP | RPI (YoY) (Oct) | 6.1% | 6.4% | 8.9% |
 | 15:00 | GBP | RPI (MoM) (Oct) | -0.2% | 0.1% | 0.5% |
-| 15:00 | EUR | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
 | 15:00 | EUR | German WPI (YoY) (Oct) | -4.2% |  | -4.1% |
+| 15:00 | EUR | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
 | 15:00 | NOK | Trade Balance (Oct) | 86.9B |  | 44.0B |
-| 15:45 | EUR | CPI NSA (MoM) (Oct) | 0.10% |  | -0.50% |
 | 15:45 | EUR | CPI NSA (YoY) (Oct) | 4.00% |  | 4.90% |
+| 15:45 | EUR | CPI NSA (MoM) (Oct) | 0.10% |  | -0.50% |
 | 15:45 | EUR | French CPI (YoY) | 4.0% | 4.0% | 4.9% |
 | 15:45 | EUR | French HICP (YoY) (Oct) | 4.5% | 4.5% | 5.7% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 3.90% |  | 4.80% |
@@ -61,14 +61,14 @@
 | 20:00 | USD | MBA Purchase Index | 133.2 |  | 129.0 |
 | 20:00 | USD | Mortgage Market Index | 170.5 |  | 165.9 |
 | 20:00 | USD | Mortgage Refinance Index | 354.3 |  | 347.3 |
-| 58 min | USD | Core PPI (YoY) (Oct) |  | 2.7% | 2.7% |
-| 58 min | USD | PPI (YoY) (Oct) |  | 1.9% | 2.2% |
-| 58 min | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.8% |
-| 58 min | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
-| 58 min | USD | Retail Sales (YoY) (Oct) |  |  | 3.75% |
-| 58 min | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  | 0.0% | 0.6% |
-| 58 min | CAD | Manufacturing Sales (MoM) (Sep) |  | -0.1% | 0.7% |
-| 58 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 158.5K |
+| 10 min | USD | Core PPI (YoY) (Oct) |  | 2.7% | 2.7% |
+| 10 min | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
+| 10 min | USD | PPI (YoY) (Oct) |  | 1.9% | 2.2% |
+| 10 min | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.8% |
+| 10 min | USD | Retail Sales (YoY) (Oct) |  |  | 3.75% |
+| 10 min | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  | 0.0% | 0.6% |
+| 10 min | CAD | Manufacturing Sales (MoM) (Sep) |  | -0.1% | 0.7% |
+| 10 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 158.5K |
 | 22:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
 | 23:30 | USD | Crude Oil Imports |  |  | 0.348M |
