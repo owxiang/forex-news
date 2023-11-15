@@ -15,9 +15,9 @@
 | 08:30 | AUD | Wage Price Index (YoY) (Q3) | 4.0% | 3.9% | 3.6% |
 | 10:00 | CNY | Retail Sales (YoY) (Oct) | 7.6% | 7.0% | 5.5% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 6.90% |  | 6.81% |
-| 12:00 | IDR | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
-| 12:00 | IDR | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
-| 12:00 | IDR | Trade Balance (Oct) |  | 3.30B | 3.42B |
+| 43 min | IDR | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
+| 43 min | IDR | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
+| 43 min | IDR | Trade Balance (Oct) |  | 3.30B | 3.42B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Sep) |  |  | 0.5% |
 | 14:30 | EUR | French Unemployment Rate (Q3) |  |  | 7.2% |
 | 15:00 | GBP | Core CPI (YoY) (Oct) |  | 5.8% | 6.1% |
@@ -32,8 +32,8 @@
 | 15:00 | GBP | PPI Output (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | GBP | RPI (YoY) (Oct) |  | 6.4% | 8.9% |
 | 15:00 | GBP | RPI (MoM) (Oct) |  | 0.2% | 0.5% |
-| 15:00 | EUR | German WPI (YoY) (Oct) |  |  | -4.1% |
 | 15:00 | EUR | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 15:00 | EUR | German WPI (YoY) (Oct) |  |  | -4.1% |
 | 15:00 | NOK | Trade Balance (Oct) |  |  | 45.6B |
 | 15:45 | EUR | CPI NSA (MoM) (Oct) |  |  | -0.50% |
 | 15:45 | EUR | CPI NSA (YoY) (Oct) |  |  | 4.90% |

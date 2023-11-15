@@ -26,9 +26,9 @@
 | 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 6.90% |  | 6.81% |
 | 10:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.0% | 5.0% | 5.0% |
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 12:00 | IDR | Low | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
-| 12:00 | IDR | Low | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
-| 12:00 | IDR | Low | Trade Balance (Oct) |  | 3.30B | 3.42B |
+| 43 min | IDR | Low | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
+| 43 min | IDR | Low | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
+| 43 min | IDR | Low | Trade Balance (Oct) |  | 3.30B | 3.42B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Sep) |  |  | 0.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Sep) |  | 0.2% | -0.7% |
 | 14:30 | EUR | Low | French Unemployment Rate (Q3) |  |  | 7.2% |
@@ -47,8 +47,8 @@
 | 15:00 | GBP | Low | PPI Output (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Oct) |  | 6.4% | 8.9% |
 | 15:00 | GBP | Low | RPI (MoM) (Oct) |  | 0.2% | 0.5% |
-| 15:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | -4.1% |
 | 15:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 15:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | -4.1% |
 | 15:00 | NOK | Low | Trade Balance (Oct) |  |  | 45.6B |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Oct) |  |  | -0.50% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Oct) |  |  | 4.90% |
