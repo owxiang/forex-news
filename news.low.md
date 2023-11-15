@@ -8,14 +8,13 @@
 | 05:45 | NZD | External Migration & Visitors (Sep) | 48.70% |  | 59.40% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Sep) | 7,510 |  | 12,350 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | 2.4% |  | -3.0% |
-| 07:00 | KRW | Unemployment Rate (Oct) |  |  | 2.6% |
-| 34 min | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | 0.3% | -1.0% |
-| 34 min | JPY | GDP (YoY) (Q3) |  | 4.8% | 3.5% |
-| 34 min | JPY | GDP External Demand (QoQ) (Q3) |  | -0.1% | 1.8% |
-| 34 min | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | -0.6% |
-| 08:30 | AUD | Wage Price Index (YoY) (Q3) |  | 3.9% | 3.6% |
-| 10:00 | CNY | Retail Sales (YoY) (Oct) |  | 7.0% | 5.5% |
-| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 6.81% |
+| 07:00 | KRW | Unemployment Rate (Oct) | 2.5% | 2.7% | 2.6% |
+| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) | -0.6% | 0.3% | -1.0% |
+| 07:50 | JPY | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.8% |
+| 07:50 | JPY | GDP Private Consumption (QoQ) (Q3) | 0.0% | 0.2% | -0.9% |
+| 08:30 | AUD | Wage Price Index (YoY) (Q3) | 4.0% | 3.9% | 3.6% |
+| 49 min | CNY | Retail Sales (YoY) (Oct) |  | 7.0% | 5.5% |
+| 49 min | CNY | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 6.81% |
 | 12:00 | IDR | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
 | 12:00 | IDR | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
 | 12:00 | IDR | Trade Balance (Oct) |  | 3.30B | 3.42B |

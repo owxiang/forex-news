@@ -4,13 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | USD | API Weekly Crude Oil Stock | 1.335M | 1.400M | 11.900M |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Oct) | -0.7% |  | -0.8% |
-| 34 min | JPY | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
-| 08:30 | AUD | Wage Price Index (QoQ) (Q3) |  | 1.3% | 0.8% |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
-| 10:00 | CNY | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
-| 10:00 | CNY | Chinese Unemployment Rate (Oct) |  | 5.0% | 5.0% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
+| 07:50 | JPY | GDP (YoY) (Q3) | -2.1% | -0.6% | 4.5% |
+| 07:50 | JPY | GDP Price Index (YoY) (Q3) | 5.1% | 4.8% | 3.5% |
+| 08:30 | AUD | Wage Price Index (QoQ) (Q3) | 1.3% | 1.3% | 0.9% |
+| 49 min | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
+| 49 min | CNY | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
+| 49 min | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
+| 49 min | CNY | Chinese Unemployment Rate (Oct) |  | 5.0% | 5.0% |
+| 49 min | CNY | NBS Press Conference |  |  |  |
 | 12:30 | JPY | Industrial Production (MoM) (Sep) |  | 0.2% | -0.7% |
 | 15:00 | GBP | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
 | 15:00 | GBP | PPI Input (MoM) (Oct) |  | 0.1% | 0.4% |

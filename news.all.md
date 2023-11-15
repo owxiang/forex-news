@@ -10,22 +10,22 @@
 | 05:45 | NZD | Low | External Migration & Visitors (Sep) | 48.70% |  | 59.40% |
 | 05:45 | NZD | Low | Permanent/Long-Term Migration (Sep) | 7,510 |  | 12,350 |
 | 05:45 | NZD | Low | Visitor Arrivals (MoM) | 2.4% |  | -3.0% |
-| 07:00 | KRW | Low | Unemployment Rate (Oct) |  |  | 2.6% |
-| 34 min | JPY | High | GDP (QoQ) (Q3) |  | -0.1% | 1.2% |
-| 34 min | JPY | Moderate | GDP (YoY) (Q3) |  | -0.6% | 4.8% |
-| 34 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) |  | 0.3% | -1.0% |
-| 34 min | JPY | Low | GDP (YoY) (Q3) |  | 4.8% | 3.5% |
-| 34 min | JPY | Low | GDP External Demand (QoQ) (Q3) |  | -0.1% | 1.8% |
-| 34 min | JPY | Low | GDP Private Consumption (QoQ) (Q3) |  | 0.2% | -0.6% |
-| 08:30 | AUD | Low | Wage Price Index (YoY) (Q3) |  | 3.9% | 3.6% |
-| 08:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) |  | 1.3% | 0.8% |
-| 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
-| 10:00 | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
-| 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
-| 10:00 | CNY | Low | Retail Sales (YoY) (Oct) |  | 7.0% | 5.5% |
-| 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 6.81% |
-| 10:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) |  | 5.0% | 5.0% |
-| 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 07:00 | KRW | Low | Unemployment Rate (Oct) | 2.5% | 2.7% | 2.6% |
+| 07:50 | JPY | Moderate | GDP (YoY) (Q3) | -2.1% | -0.6% | 4.5% |
+| 07:50 | JPY | High | GDP (QoQ) (Q3) | -0.5% | -0.1% | 1.1% |
+| 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) | -0.6% | 0.3% | -1.0% |
+| 07:50 | JPY | Low | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.8% |
+| 07:50 | JPY | Moderate | GDP Price Index (YoY) (Q3) | 5.1% | 4.8% | 3.5% |
+| 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q3) | 0.0% | 0.2% | -0.9% |
+| 08:30 | AUD | Low | Wage Price Index (YoY) (Q3) | 4.0% | 3.9% | 3.6% |
+| 08:30 | AUD | Moderate | Wage Price Index (QoQ) (Q3) | 1.3% | 1.3% | 0.9% |
+| 49 min | CNY | Moderate | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
+| 49 min | CNY | Moderate | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
+| 49 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
+| 49 min | CNY | Low | Retail Sales (YoY) (Oct) |  | 7.0% | 5.5% |
+| 49 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 6.81% |
+| 49 min | CNY | Moderate | Chinese Unemployment Rate (Oct) |  | 5.0% | 5.0% |
+| 49 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 12:00 | IDR | Low | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
 | 12:00 | IDR | Low | Trade Balance (Oct) |  | 3.30B | 3.42B |
