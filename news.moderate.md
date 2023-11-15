@@ -16,9 +16,9 @@
 | 12:30 | JPY | Industrial Production (MoM) (Sep) | 0.5% | 0.2% | -0.7% |
 | 15:00 | GBP | CPI (MoM) (Oct) | 0.0% | 0.1% | 0.5% |
 | 15:00 | GBP | PPI Input (MoM) (Oct) | 0.4% | 0.2% | 0.6% |
-| 30 min | EUR | French CPI (MoM) (Oct) |  | 0.1% | -0.5% |
-| 30 min | EUR | French HICP (MoM) (Oct) |  | 0.2% | -0.6% |
-| 45 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 15:45 | EUR | French CPI (MoM) (Oct) | 0.1% | 0.1% | -0.5% |
+| 15:45 | EUR | French HICP (MoM) (Oct) | 0.2% | 0.2% | -0.6% |
+| 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 18:00 | EUR | Industrial Production (MoM) (Sep) |  | -1.0% | 0.6% |
 | 18:00 | EUR | Trade Balance (Sep) |  |  | 6.7B |
 | 21:30 | USD | Core PPI (MoM) (Oct) |  | 0.3% | 0.3% |
