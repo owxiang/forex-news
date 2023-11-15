@@ -35,17 +35,17 @@
 | 14:30 | EUR | Low | French Unemployment Rate (Q3) | 7.4% | 7.3% | 7.2% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Oct) | 5.7% | 5.8% | 6.1% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
-| 15:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.0% |
-| 15:00 | GBP | Low | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
+| 15:00 | GBP | Low | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Oct) | 4.8% |  | 7.6% |
+| 15:00 | GBP | Low | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Oct) | 0.0% | 0.1% | 0.5% |
 | 15:00 | GBP | High | CPI (YoY) (Oct) | 4.6% | 4.8% | 6.7% |
 | 15:00 | GBP | Low | CPI, n.s.a (Oct) | 132.00 |  | 132.00 |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Oct) | 0.4% | 0.2% | 0.6% |
 | 15:00 | GBP | Low | PPI Input (YoY) (Oct) | -2.6% | -3.3% | -2.1% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Oct) | 0.1% | 0.1% | 0.6% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Oct) | -0.6% | -1.0% | 0.2% |
+| 15:00 | GBP | Low | PPI Output (MoM) (Oct) | 0.1% | 0.1% | 0.6% |
 | 15:00 | GBP | Low | RPI (YoY) (Oct) | 6.1% | 6.4% | 8.9% |
 | 15:00 | GBP | Low | RPI (MoM) (Oct) | -0.2% | 0.1% | 0.5% |
 | 15:00 | EUR | Low | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
@@ -55,15 +55,15 @@
 | 15:45 | EUR | Low | CPI NSA (YoY) (Oct) | 4.00% |  | 4.90% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) | 0.1% | 0.1% | -0.5% |
 | 15:45 | EUR | Low | French CPI (YoY) | 4.0% | 4.0% | 4.9% |
-| 15:45 | EUR | Low | French HICP (YoY) (Oct) | 4.5% | 4.5% | 5.7% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Oct) | 0.2% | 0.2% | -0.6% |
+| 15:45 | EUR | Low | French HICP (YoY) (Oct) | 4.5% | 4.5% | 5.7% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Oct) | 3.90% |  | 4.80% |
 | 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 16:10 | INR | Low | Exports (USD) (Oct) | 33.57B |  | 34.47B |
 | 16:10 | INR | Low | Imports (USD) (Oct) | 65.03B |  | 53.84B |
 | 16:10 | INR | Low | Trade Balance (Oct) | -31.46B | -20.50B | -19.37B |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Oct) | -0.2% | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Oct) | 1.7% | 1.8% | 5.3% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Oct) | -0.2% | -0.1% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Oct) | 1.7% |  | 5.1% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Oct) | 0.1% | 0.2% | 1.7% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Oct) | 1.8% | 1.9% | 5.6% |
@@ -86,26 +86,26 @@
 | 21:30 | USD | Moderate | Core PPI (MoM) (Oct) | 0.0% | 0.3% | 0.2% |
 | 21:30 | USD | High | Core Retail Sales (MoM) (Oct) | 0.1% | -0.2% | 0.8% |
 | 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Nov) | 9.10 | -2.80 | -4.60 |
-| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) | 2.9% |  | 3.0% |
-| 21:30 | USD | High | PPI (MoM) (Oct) | -0.5% | 0.1% | 0.4% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.1% |  | 0.3% |
 | 21:30 | USD | Low | PPI (YoY) (Oct) | 1.3% | 1.9% | 2.2% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Oct) | 2.9% |  | 3.0% |
+| 21:30 | USD | High | PPI (MoM) (Oct) | -0.5% | 0.1% | 0.4% |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Oct) | 0.2% |  | 0.7% |
 | 21:30 | USD | High | Retail Sales (MoM) (Oct) | -0.1% | -0.3% | 0.9% |
 | 21:30 | USD | Low | Retail Sales (YoY) (Oct) | 2.48% |  | 4.05% |
 | 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.1% | 0.0% | 0.8% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) (Sep) | 0.4% | -0.1% | 1.0% |
 | 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Sep) | 0.4% | 0.0% | 1.8% |
-| 15 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 45 min | USD | Moderate | Business Inventories (MoM) (Sep) |  | 0.4% | 0.4% |
-| 45 min | USD | Moderate | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.5% |
-| 23:30 | USD | High | Crude Oil Inventories |  | 1.793M | 0.774M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | 0.348M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.272M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | -0.153M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.242M | -0.792M |
-| 23:30 | USD | Low | Gasoline Production |  |  | -0.330M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.304M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 23:30 | USD | Low | Gasoline Inventories |  | 0.622M | 0.065M |
+| 22:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:00 | USD | Moderate | Business Inventories (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
+| 23:00 | USD | Moderate | Retail Inventories Ex Auto (Sep) | 0.4% | 0.3% | 0.5% |
+| 13 min | USD | High | Crude Oil Inventories |  | 1.793M | 0.774M |
+| 13 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
+| 13 min | USD | Low | Crude Oil Imports |  |  | 0.348M |
+| 13 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.272M |
+| 13 min | USD | Low | Distillate Fuel Production |  |  | -0.153M |
+| 13 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.242M | -0.792M |
+| 13 min | USD | Low | Gasoline Production |  |  | -0.330M |
+| 13 min | USD | Low | Heating Oil Stockpiles |  |  | 0.304M |
+| 13 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 13 min | USD | Low | Gasoline Inventories |  | 0.622M | 0.065M |

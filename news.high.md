@@ -7,4 +7,4 @@
 | 21:30 | USD | Core Retail Sales (MoM) (Oct) | 0.1% | -0.2% | 0.8% |
 | 21:30 | USD | PPI (MoM) (Oct) | -0.5% | 0.1% | 0.4% |
 | 21:30 | USD | Retail Sales (MoM) (Oct) | -0.1% | -0.3% | 0.9% |
-| 23:30 | USD | Crude Oil Inventories |  | 1.793M | 0.774M |
+| 13 min | USD | Crude Oil Inventories |  | 1.793M | 0.774M |

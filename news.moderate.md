@@ -25,6 +25,6 @@
 | 21:30 | USD | NY Empire State Manufacturing Index (Nov) | 9.10 | -2.80 | -4.60 |
 | 21:30 | USD | Retail Control (MoM) (Oct) | 0.2% |  | 0.7% |
 | 21:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.4% | 0.0% | 1.8% |
-| 45 min | USD | Business Inventories (MoM) (Sep) |  | 0.4% | 0.4% |
-| 45 min | USD | Retail Inventories Ex Auto (Sep) |  | 0.3% | 0.5% |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.272M |
+| 23:00 | USD | Business Inventories (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
+| 23:00 | USD | Retail Inventories Ex Auto (Sep) | 0.4% | 0.3% | 0.5% |
+| 13 min | USD | Cushing Crude Oil Inventories |  |  | 0.272M |

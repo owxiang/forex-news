@@ -22,14 +22,14 @@
 | 14:30 | EUR | French Unemployment Rate (Q3) | 7.4% | 7.3% | 7.2% |
 | 15:00 | GBP | Core CPI (YoY) (Oct) | 5.7% | 5.8% | 6.1% |
 | 15:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
-| 15:00 | GBP | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.0% |
-| 15:00 | GBP | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
+| 15:00 | GBP | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Core RPI (YoY) (Oct) | 4.8% |  | 7.6% |
+| 15:00 | GBP | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
 | 15:00 | GBP | CPI, n.s.a (Oct) | 132.00 |  | 132.00 |
 | 15:00 | GBP | PPI Input (YoY) (Oct) | -2.6% | -3.3% | -2.1% |
-| 15:00 | GBP | PPI Output (MoM) (Oct) | 0.1% | 0.1% | 0.6% |
 | 15:00 | GBP | PPI Output (YoY) (Oct) | -0.6% | -1.0% | 0.2% |
+| 15:00 | GBP | PPI Output (MoM) (Oct) | 0.1% | 0.1% | 0.6% |
 | 15:00 | GBP | RPI (YoY) (Oct) | 6.1% | 6.4% | 8.9% |
 | 15:00 | GBP | RPI (MoM) (Oct) | -0.2% | 0.1% | 0.5% |
 | 15:00 | EUR | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
@@ -43,8 +43,8 @@
 | 16:10 | INR | Exports (USD) (Oct) | 33.57B |  | 34.47B |
 | 16:10 | INR | Imports (USD) (Oct) | 65.03B |  | 53.84B |
 | 16:10 | INR | Trade Balance (Oct) | -31.46B | -20.50B | -19.37B |
-| 17:00 | EUR | Italian CPI (MoM) (Oct) | -0.2% | -0.1% | 0.2% |
 | 17:00 | EUR | Italian CPI (YoY) (Oct) | 1.7% | 1.8% | 5.3% |
+| 17:00 | EUR | Italian CPI (MoM) (Oct) | -0.2% | -0.1% | 0.2% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 1.7% |  | 5.1% |
 | 17:00 | EUR | Italian HICP (MoM) (Oct) | 0.1% | 0.2% | 1.7% |
 | 17:00 | EUR | Italian HICP (YoY) (Oct) | 1.8% | 1.9% | 5.6% |
@@ -62,18 +62,18 @@
 | 20:00 | USD | Mortgage Market Index | 170.5 |  | 165.9 |
 | 20:00 | USD | Mortgage Refinance Index | 354.3 |  | 347.3 |
 | 21:30 | USD | Core PPI (YoY) (Oct) | 2.4% | 2.7% | 2.7% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) | 2.9% |  | 3.0% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) | 0.1% |  | 0.3% |
 | 21:30 | USD | PPI (YoY) (Oct) | 1.3% | 1.9% | 2.2% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) | 2.9% |  | 3.0% |
 | 21:30 | USD | Retail Sales (YoY) (Oct) | 2.48% |  | 4.05% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) | 0.1% | 0.0% | 0.8% |
 | 21:30 | CAD | Manufacturing Sales (MoM) (Sep) | 0.4% | -0.1% | 1.0% |
-| 15 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
-| 23:30 | USD | Crude Oil Imports |  |  | 0.348M |
-| 23:30 | USD | Distillate Fuel Production |  |  | -0.153M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | -1.242M | -0.792M |
-| 23:30 | USD | Gasoline Production |  |  | -0.330M |
-| 23:30 | USD | Heating Oil Stockpiles |  |  | 0.304M |
-| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 23:30 | USD | Gasoline Inventories |  | 0.622M | 0.065M |
+| 22:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 13 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.062M |
+| 13 min | USD | Crude Oil Imports |  |  | 0.348M |
+| 13 min | USD | Distillate Fuel Production |  |  | -0.153M |
+| 13 min | USD | EIA Weekly Distillates Stocks |  | -1.242M | -0.792M |
+| 13 min | USD | Gasoline Production |  |  | -0.330M |
+| 13 min | USD | Heating Oil Stockpiles |  |  | 0.304M |
+| 13 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 13 min | USD | Gasoline Inventories |  | 0.622M | 0.065M |
