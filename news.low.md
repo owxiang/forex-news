@@ -18,33 +18,33 @@
 | 12:00 | IDR | Export Growth (YoY) (Oct) | -10.43% | -15.35% | -16.17% |
 | 12:00 | IDR | Import Growth (YoY) (Oct) | -2.42% | -7.40% | -12.45% |
 | 12:00 | IDR | Trade Balance (Oct) | 3.48B | 3.00B | 3.42B |
-| 11 min | JPY | Capacity Utilization (MoM) (Sep) |  |  | 0.5% |
+| 12:30 | JPY | Capacity Utilization (MoM) (Sep) | 0.4% |  | 0.5% |
 | 14:30 | EUR | French Unemployment Rate (Q3) |  | 7.3% | 7.2% |
-| 15:00 | GBP | Core CPI (YoY) (Oct) |  | 5.8% | 6.1% |
 | 15:00 | GBP | Core CPI (MoM) (Oct) |  | 0.4% | 0.5% |
-| 15:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 0.7% |
+| 15:00 | GBP | Core CPI (YoY) (Oct) |  | 5.8% | 6.1% |
 | 15:00 | GBP | Core PPI Output (MoM) (Oct) |  |  | 0.0% |
-| 15:00 | GBP | Core RPI (YoY) (Oct) |  |  | 7.6% |
+| 15:00 | GBP | Core PPI Output (YoY) (Oct) |  |  | 0.7% |
 | 15:00 | GBP | Core RPI (MoM) (Oct) |  |  | 0.4% |
+| 15:00 | GBP | Core RPI (YoY) (Oct) |  |  | 7.6% |
 | 15:00 | GBP | CPI, n.s.a (Oct) |  |  | 132.00 |
 | 15:00 | GBP | PPI Input (YoY) (Oct) |  | -3.3% | -2.6% |
-| 15:00 | GBP | PPI Output (YoY) (Oct) |  | -1.0% | -0.1% |
 | 15:00 | GBP | PPI Output (MoM) (Oct) |  | 0.1% | 0.4% |
+| 15:00 | GBP | PPI Output (YoY) (Oct) |  | -1.0% | -0.1% |
 | 15:00 | GBP | RPI (YoY) (Oct) |  | 6.4% | 8.9% |
 | 15:00 | GBP | RPI (MoM) (Oct) |  | 0.1% | 0.5% |
-| 15:00 | EUR | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 15:00 | EUR | German WPI (YoY) (Oct) |  |  | -4.1% |
+| 15:00 | EUR | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 15:00 | NOK | Trade Balance (Oct) |  |  | 45.6B |
-| 15:45 | EUR | CPI NSA (MoM) (Oct) |  |  | -0.50% |
 | 15:45 | EUR | CPI NSA (YoY) (Oct) |  |  | 4.90% |
+| 15:45 | EUR | CPI NSA (MoM) (Oct) |  |  | -0.50% |
 | 15:45 | EUR | French CPI (YoY) |  | 4.0% | 4.9% |
 | 15:45 | EUR | French HICP (YoY) (Oct) |  | 4.5% | 5.7% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) |  |  | 4.80% |
-| 17:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.8% | 5.3% |
 | 17:00 | EUR | Italian CPI (MoM) (Oct) |  | -0.1% | 0.2% |
+| 17:00 | EUR | Italian CPI (YoY) (Oct) |  | 1.8% | 5.3% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) |  |  | 5.1% |
-| 17:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.2% | 1.7% |
 | 17:00 | EUR | Italian HICP (YoY) (Oct) |  | 1.9% | 5.6% |
+| 17:00 | EUR | Italian HICP (MoM) (Oct) |  | 0.2% | 1.7% |
 | 17:30 | GBP | House Price Index (YoY) |  | -0.8% | 0.2% |
 | 18:00 | EUR | Industrial Production (YoY) (Sep) |  | -6.3% | -5.1% |
 | 18:30 | EUR | German 30-Year Bund Auction |  |  | 3.040% |
@@ -61,9 +61,9 @@
 | 20:20 | INR | Imports (USD) |  |  | 53.84B |
 | 20:20 | INR | Trade Balance |  | -20.50B | -19.37B |
 | 21:30 | USD | Core PPI (YoY) (Oct) |  | 2.7% | 2.7% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
 | 21:30 | USD | PPI (YoY) (Oct) |  | 1.9% | 2.2% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.8% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
 | 21:30 | USD | Retail Sales (YoY) (Oct) |  |  | 3.75% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  | 0.0% | 0.6% |
 | 21:30 | CAD | Manufacturing Sales (MoM) (Sep) |  | -0.1% | 0.7% |
