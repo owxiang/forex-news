@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
-| 45 min | GBP | MPC Member Haskel Speaks |  |  |  |
+| 02:00 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.71T | -0.43T |
 | 07:50 | JPY | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
 | 07:50 | JPY | Trade Balance (Oct) |  | -735.7B | 62.4B |
@@ -18,8 +18,8 @@
 | 21:30 | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
 | 21:30 | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
-| 22:15 | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
 | 22:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
+| 22:15 | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
 | 22:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 22:25 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | USD | Fed Governor Kroszner Speaks |  |  |  |

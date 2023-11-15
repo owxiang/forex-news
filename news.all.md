@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
-| 45 min | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 02:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 04:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
 | 07:50 | JPY | Moderate | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -388.4B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.5B |
@@ -51,8 +51,8 @@
 | 21:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 4.4 |
 | 21:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 23.10 |
 | 22:15 | USD | Low | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
-| 22:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 0.08% |
 | 22:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 0.08% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
 | 22:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 22:25 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
