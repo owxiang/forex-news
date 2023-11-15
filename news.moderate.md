@@ -7,11 +7,11 @@
 | 07:50 | JPY | GDP (YoY) (Q3) | -2.1% | -0.6% | 4.5% |
 | 07:50 | JPY | GDP Price Index (YoY) (Q3) | 5.1% | 4.8% | 3.5% |
 | 08:30 | AUD | Wage Price Index (QoQ) (Q3) | 1.3% | 1.3% | 0.9% |
-| 49 min | CNY | Fixed Asset Investment (YoY) (Oct) |  | 3.1% | 3.1% |
-| 49 min | CNY | Industrial Production (YoY) (Oct) |  | 4.3% | 4.5% |
-| 49 min | CNY | Chinese Industrial Production YTD (YoY) (Oct) |  |  | 4.0% |
-| 49 min | CNY | Chinese Unemployment Rate (Oct) |  | 5.0% | 5.0% |
-| 49 min | CNY | NBS Press Conference |  |  |  |
+| 10:00 | CNY | Fixed Asset Investment (YoY) (Oct) | 2.9% | 3.1% | 3.1% |
+| 10:00 | CNY | Industrial Production (YoY) (Oct) | 4.6% | 4.3% | 4.5% |
+| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) | 4.1% |  | 4.0% |
+| 10:00 | CNY | Chinese Unemployment Rate (Oct) | 5.0% | 5.0% | 5.0% |
+| 10:00 | CNY | NBS Press Conference |  |  |  |
 | 12:30 | JPY | Industrial Production (MoM) (Sep) |  | 0.2% | -0.7% |
 | 15:00 | GBP | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
 | 15:00 | GBP | PPI Input (MoM) (Oct) |  | 0.1% | 0.4% |

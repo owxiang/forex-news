@@ -13,8 +13,8 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.8% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q3) | 0.0% | 0.2% | -0.9% |
 | 08:30 | AUD | Wage Price Index (YoY) (Q3) | 4.0% | 3.9% | 3.6% |
-| 49 min | CNY | Retail Sales (YoY) (Oct) |  | 7.0% | 5.5% |
-| 49 min | CNY | Chinese Retail Sales YTD (YoY) (Oct) |  |  | 6.81% |
+| 10:00 | CNY | Retail Sales (YoY) (Oct) | 7.6% | 7.0% | 5.5% |
+| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Oct) | 6.90% |  | 6.81% |
 | 12:00 | IDR | Export Growth (YoY) (Oct) |  | -15.60% | -16.17% |
 | 12:00 | IDR | Import Growth (YoY) (Oct) |  | -8.70% | -12.45% |
 | 12:00 | IDR | Trade Balance (Oct) |  | 3.30B | 3.42B |
