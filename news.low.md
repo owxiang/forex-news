@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -388.4B |
