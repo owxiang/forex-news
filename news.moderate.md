@@ -14,8 +14,8 @@
 | 10:00 | CNY | Chinese Unemployment Rate (Oct) | 5.0% | 5.0% | 5.0% |
 | 10:00 | CNY | NBS Press Conference |  |  |  |
 | 12:30 | JPY | Industrial Production (MoM) (Sep) | 0.5% | 0.2% | -0.7% |
-| 15:00 | GBP | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
-| 15:00 | GBP | PPI Input (MoM) (Oct) |  | 0.2% | 0.4% |
+| 39 min | GBP | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
+| 39 min | GBP | PPI Input (MoM) (Oct) |  | 0.2% | 0.4% |
 | 15:45 | EUR | French CPI (MoM) (Oct) |  | 0.1% | -0.5% |
 | 15:45 | EUR | French HICP (MoM) (Oct) |  | 0.2% | -0.6% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |

@@ -27,30 +27,30 @@
 | 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Oct) | 6.90% |  | 6.81% |
 | 10:00 | CNY | Moderate | Chinese Unemployment Rate (Oct) | 5.0% | 5.0% | 5.0% |
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 12:00 | IDR | Low | Export Growth (YoY) (Oct) | -10.43% | -15.35% | -16.17% |
+| 12:00 | IDR | Low | Export Growth (YoY) (Oct) | -10.43% | -15.35% | -16.27% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Oct) | -2.42% | -7.40% | -12.45% |
-| 12:00 | IDR | Low | Trade Balance (Oct) | 3.48B | 3.00B | 3.42B |
+| 12:00 | IDR | Low | Trade Balance (Oct) | 3.48B | 3.00B | 3.41B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Sep) | 0.4% |  | 0.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Sep) | 0.5% | 0.2% | -0.7% |
-| 14:30 | EUR | Low | French Unemployment Rate (Q3) |  | 7.3% | 7.2% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Oct) |  | 0.4% | 0.5% |
-| 15:00 | GBP | Low | Core CPI (YoY) (Oct) |  | 5.8% | 6.1% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Oct) |  |  | 0.0% |
-| 15:00 | GBP | Low | Core PPI Output (YoY) (Oct) |  |  | 0.7% |
-| 15:00 | GBP | Low | Core RPI (MoM) (Oct) |  |  | 0.4% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Oct) |  |  | 7.6% |
-| 15:00 | GBP | High | CPI (YoY) (Oct) |  | 4.8% | 6.7% |
-| 15:00 | GBP | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
-| 15:00 | GBP | Low | CPI, n.s.a (Oct) |  |  | 132.00 |
-| 15:00 | GBP | Low | PPI Input (YoY) (Oct) |  | -3.3% | -2.6% |
-| 15:00 | GBP | Moderate | PPI Input (MoM) (Oct) |  | 0.2% | 0.4% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Oct) |  | 0.1% | 0.4% |
-| 15:00 | GBP | Low | PPI Output (YoY) (Oct) |  | -1.0% | -0.1% |
-| 15:00 | GBP | Low | RPI (YoY) (Oct) |  | 6.4% | 8.9% |
-| 15:00 | GBP | Low | RPI (MoM) (Oct) |  | 0.1% | 0.5% |
-| 15:00 | EUR | Low | German WPI (YoY) (Oct) |  |  | -4.1% |
-| 15:00 | EUR | Low | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 15:00 | NOK | Low | Trade Balance (Oct) |  |  | 45.6B |
+| 9 min | EUR | Low | French Unemployment Rate (Q3) |  | 7.3% | 7.2% |
+| 39 min | GBP | Low | Core CPI (MoM) (Oct) |  | 0.4% | 0.5% |
+| 39 min | GBP | Low | Core CPI (YoY) (Oct) |  | 5.8% | 6.1% |
+| 39 min | GBP | Low | Core PPI Output (MoM) (Oct) |  |  | 0.0% |
+| 39 min | GBP | Low | Core PPI Output (YoY) (Oct) |  |  | 0.7% |
+| 39 min | GBP | Low | Core RPI (MoM) (Oct) |  |  | 0.4% |
+| 39 min | GBP | Low | Core RPI (YoY) (Oct) |  |  | 7.6% |
+| 39 min | GBP | High | CPI (YoY) (Oct) |  | 4.8% | 6.7% |
+| 39 min | GBP | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.5% |
+| 39 min | GBP | Low | CPI, n.s.a (Oct) |  |  | 132.00 |
+| 39 min | GBP | Low | PPI Input (YoY) (Oct) |  | -3.3% | -2.6% |
+| 39 min | GBP | Moderate | PPI Input (MoM) (Oct) |  | 0.2% | 0.4% |
+| 39 min | GBP | Low | PPI Output (MoM) (Oct) |  | 0.1% | 0.4% |
+| 39 min | GBP | Low | PPI Output (YoY) (Oct) |  | -1.0% | -0.1% |
+| 39 min | GBP | Low | RPI (YoY) (Oct) |  | 6.4% | 8.9% |
+| 39 min | GBP | Low | RPI (MoM) (Oct) |  | 0.1% | 0.5% |
+| 39 min | EUR | Low | German WPI (YoY) (Oct) |  |  | -4.1% |
+| 39 min | EUR | Low | German WPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 39 min | NOK | Low | Trade Balance (Oct) |  |  | 45.6B |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Oct) |  |  | 4.90% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Oct) |  |  | -0.50% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Oct) |  | 0.1% | -0.5% |
