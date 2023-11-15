@@ -20,10 +20,10 @@
 | 12:00 | IDR | Trade Balance (Oct) | 3.48B | 3.00B | 3.41B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Sep) | 0.4% |  | 0.5% |
 | 14:30 | EUR | French Unemployment Rate (Q3) | 7.4% | 7.3% | 7.2% |
-| 15:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
 | 15:00 | GBP | Core CPI (YoY) (Oct) | 5.7% | 5.8% | 6.1% |
-| 15:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.0% |
+| 15:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
 | 15:00 | GBP | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
+| 15:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.0% |
 | 15:00 | GBP | Core RPI (YoY) (Oct) | 4.8% |  | 7.6% |
 | 15:00 | GBP | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
 | 15:00 | GBP | CPI, n.s.a (Oct) | 132.00 |  | 132.00 |
@@ -32,11 +32,11 @@
 | 15:00 | GBP | PPI Output (YoY) (Oct) | -0.6% | -1.0% | 0.2% |
 | 15:00 | GBP | RPI (YoY) (Oct) | 6.1% | 6.4% | 8.9% |
 | 15:00 | GBP | RPI (MoM) (Oct) | -0.2% | 0.1% | 0.5% |
-| 15:00 | EUR | German WPI (YoY) (Oct) | -4.2% |  | -4.1% |
 | 15:00 | EUR | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
+| 15:00 | EUR | German WPI (YoY) (Oct) | -4.2% |  | -4.1% |
 | 15:00 | NOK | Trade Balance (Oct) | 86.9B |  | 44.0B |
-| 15:45 | EUR | CPI NSA (YoY) (Oct) | 4.00% |  | 4.90% |
 | 15:45 | EUR | CPI NSA (MoM) (Oct) | 0.10% |  | -0.50% |
+| 15:45 | EUR | CPI NSA (YoY) (Oct) | 4.00% |  | 4.90% |
 | 15:45 | EUR | French CPI (YoY) | 4.0% | 4.0% | 4.9% |
 | 15:45 | EUR | French HICP (YoY) (Oct) | 4.5% | 4.5% | 5.7% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Oct) | 3.90% |  | 4.80% |
@@ -48,12 +48,14 @@
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Oct) | 1.7% |  | 5.1% |
 | 17:00 | EUR | Italian HICP (MoM) (Oct) | 0.1% | 0.2% | 1.7% |
 | 17:00 | EUR | Italian HICP (YoY) (Oct) | 1.8% | 1.9% | 5.6% |
-| 13 min | GBP | House Price Index (YoY) |  | -0.8% | 0.2% |
-| 43 min | EUR | Industrial Production (YoY) (Sep) |  | -6.3% | -5.1% |
-| 18:30 | EUR | German 30-Year Bund Auction |  |  | 3.040% |
+| 17:00 | EUR | Italian Trade Balance (Sep) | 2.350B |  | 2.350B |
+| 17:00 | EUR | Italian Trade Balance EU (Sep) | -0.47B |  | -1.13B |
+| 17:30 | GBP | House Price Index (YoY) | -0.1% | -0.8% | 0.8% |
+| 18:00 | EUR | Industrial Production (YoY) (Sep) | -6.9% | -6.3% | -5.1% |
+| 12 min | EUR | German 30-Year Bund Auction |  |  | 3.040% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | EUR | Reserve Assets Total (Oct) |  |  | 1,113.49B |
-| 19:00 | ZAR | Retail Sales (YoY) (Sep) |  | 0.1% | -0.5% |
+| 42 min | EUR | Reserve Assets Total (Oct) |  |  | 1,113.49B |
+| 42 min | ZAR | Retail Sales (YoY) (Sep) |  | 0.1% | -0.5% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.5% |
