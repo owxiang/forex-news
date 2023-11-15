@@ -1,30 +1,27 @@
-## 15 November 2023 - Moderate Impact Forex News
+## 16 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock | 1.335M | 1.400M | 11.900M |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Oct) | -0.7% |  | -0.8% |
-| 07:50 | JPY | GDP (YoY) (Q3) | -2.1% | -0.6% | 4.5% |
-| 07:50 | JPY | GDP Price Index (YoY) (Q3) | 5.1% | 4.8% | 3.5% |
-| 08:30 | AUD | Wage Price Index (QoQ) (Q3) | 1.3% | 1.3% | 0.9% |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Oct) | 2.9% | 3.1% | 3.1% |
-| 10:00 | CNY | Industrial Production (YoY) (Oct) | 4.6% | 4.4% | 4.5% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Oct) | 4.1% |  | 4.0% |
-| 10:00 | CNY | Chinese Unemployment Rate (Oct) | 5.0% | 5.0% | 5.0% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
-| 12:30 | JPY | Industrial Production (MoM) (Sep) | 0.5% | 0.2% | -0.7% |
-| 15:00 | GBP | CPI (MoM) (Oct) | 0.0% | 0.1% | 0.5% |
-| 15:00 | GBP | PPI Input (MoM) (Oct) | 0.4% | 0.2% | 0.6% |
-| 15:45 | EUR | French CPI (MoM) (Oct) | 0.1% | 0.1% | -0.5% |
-| 15:45 | EUR | French HICP (MoM) (Oct) | 0.2% | 0.2% | -0.6% |
-| 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 18:00 | EUR | Industrial Production (MoM) (Sep) | -1.1% | -1.0% | 0.6% |
-| 18:00 | EUR | Trade Balance (Sep) | 10.0B |  | 5.9B |
-| 21:30 | USD | Core PPI (MoM) (Oct) | 0.0% | 0.3% | 0.2% |
-| 21:30 | USD | NY Empire State Manufacturing Index (Nov) | 9.10 | -2.80 | -4.60 |
-| 21:30 | USD | Retail Control (MoM) (Oct) | 0.2% |  | 0.7% |
-| 21:30 | CAD | Wholesale Sales (MoM) (Sep) | 0.4% | 0.0% | 1.8% |
-| 23:00 | USD | Business Inventories (MoM) (Sep) | 0.4% | 0.4% | 0.4% |
-| 23:00 | USD | Retail Inventories Ex Auto (Sep) | 0.4% | 0.3% | 0.5% |
-| 13 min | USD | Cushing Crude Oil Inventories |  |  | 0.272M |
+| 8 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.1% | 2.1% |
+| 02:00 | GBP | MPC Member Haskel Speaks |  |  |  |
+| 07:50 | JPY | Adjusted Trade Balance |  | -0.71T | -0.43T |
+| 07:50 | JPY | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
+| 07:50 | JPY | Trade Balance (Oct) |  | -735.7B | 62.4B |
+| 08:30 | AUD | Employment Change (Oct) |  | 20.0K | 6.7K |
+| 08:30 | AUD | Full Employment Change (Oct) |  |  | -39.9K |
+| 08:30 | AUD | Unemployment Rate (Oct) |  | 3.7% | 3.6% |
+| 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:10 | EUR | ECB's Enria Speaks |  |  |  |
+| 20:15 | CAD | Housing Starts (Oct) |  | 252.9K | 270.5K |
+| 21:15 | CAD | Housing Starts (Oct) |  | 255.0K | 270.5K |
+| 21:30 | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
+| 21:30 | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 21:30 | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
+| 22:15 | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
+| 22:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
+| 22:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 22:25 | USD | FOMC Member Williams Speaks |  |  |  |
+| 23:00 | USD | Fed Governor Kroszner Speaks |  |  |  |
+| 23:30 | USD | Fed Waller Speaks |  |  |  |
+| 23:45 | GBP | MPC Member Ramsden Speaks |  |  |  |
