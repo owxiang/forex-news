@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
 | 02:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
-| 13 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 04:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
