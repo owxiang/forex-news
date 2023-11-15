@@ -20,7 +20,7 @@
 | 15:45 | EUR | French HICP (MoM) (Oct) | 0.2% | 0.2% | -0.6% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 18:00 | EUR | Industrial Production (MoM) (Sep) | -1.1% | -1.0% | 0.6% |
-| 18:00 | EUR | Trade Balance (Sep) | 10.0B |  | 6.7B |
+| 18:00 | EUR | Trade Balance (Sep) | 10.0B |  | 5.9B |
 | 21:30 | USD | Core PPI (MoM) (Oct) |  | 0.3% | 0.3% |
 | 21:30 | USD | NY Empire State Manufacturing Index (Nov) |  | -2.80 | -4.60 |
 | 21:30 | USD | Retail Control (MoM) (Oct) |  |  | 0.6% |

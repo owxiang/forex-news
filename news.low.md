@@ -22,8 +22,8 @@
 | 14:30 | EUR | French Unemployment Rate (Q3) | 7.4% | 7.3% | 7.2% |
 | 15:00 | GBP | Core CPI (YoY) (Oct) | 5.7% | 5.8% | 6.1% |
 | 15:00 | GBP | Core CPI (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
-| 15:00 | GBP | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Core PPI Output (MoM) (Oct) | 0.1% |  | 0.0% |
+| 15:00 | GBP | Core PPI Output (YoY) (Oct) | 0.2% |  | 0.8% |
 | 15:00 | GBP | Core RPI (YoY) (Oct) | 4.8% |  | 7.6% |
 | 15:00 | GBP | Core RPI (MoM) (Oct) | -0.3% |  | 0.4% |
 | 15:00 | GBP | CPI, n.s.a (Oct) | 132.00 |  | 132.00 |
@@ -32,8 +32,8 @@
 | 15:00 | GBP | PPI Output (YoY) (Oct) | -0.6% | -1.0% | 0.2% |
 | 15:00 | GBP | RPI (YoY) (Oct) | 6.1% | 6.4% | 8.9% |
 | 15:00 | GBP | RPI (MoM) (Oct) | -0.2% | 0.1% | 0.5% |
-| 15:00 | EUR | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
 | 15:00 | EUR | German WPI (YoY) (Oct) | -4.2% |  | -4.1% |
+| 15:00 | EUR | German WPI (MoM) (Oct) | -0.7% | 0.2% | 0.2% |
 | 15:00 | NOK | Trade Balance (Oct) | 86.9B |  | 44.0B |
 | 15:45 | EUR | CPI NSA (MoM) (Oct) | 0.10% |  | -0.50% |
 | 15:45 | EUR | CPI NSA (YoY) (Oct) | 4.00% |  | 4.90% |
@@ -52,20 +52,19 @@
 | 17:00 | EUR | Italian Trade Balance EU (Sep) | -0.47B |  | -1.13B |
 | 17:30 | GBP | House Price Index (YoY) | -0.1% | -0.8% | 0.8% |
 | 18:00 | EUR | Industrial Production (YoY) (Sep) | -6.9% | -6.3% | -5.1% |
-| 12 min | EUR | German 30-Year Bund Auction |  |  | 3.040% |
-| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 42 min | EUR | Reserve Assets Total (Oct) |  |  | 1,113.49B |
-| 42 min | ZAR | Retail Sales (YoY) (Sep) |  | 0.1% | -0.5% |
-| 19:30 | INR | M3 Money Supply |  |  | 10.8% |
-| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.5% |
-| 20:00 | USD | MBA Purchase Index |  |  | 129.0 |
-| 20:00 | USD | Mortgage Market Index |  |  | 165.9 |
-| 20:00 | USD | Mortgage Refinance Index |  |  | 347.3 |
+| 18:30 | EUR | German 30-Year Bund Auction | 2.760% |  | 3.040% |
+| 19:00 | EUR | Reserve Assets Total (Oct) | 1,154.15B |  | 1,113.49B |
+| 19:00 | ZAR | Retail Sales (YoY) (Sep) | 0.9% | 0.1% | -0.3% |
+| 17 min | INR | M3 Money Supply |  |  | 10.8% |
+| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
+| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.5% |
+| 47 min | USD | MBA Purchase Index |  |  | 129.0 |
+| 47 min | USD | Mortgage Market Index |  |  | 165.9 |
+| 47 min | USD | Mortgage Refinance Index |  |  | 347.3 |
 | 21:30 | USD | Core PPI (YoY) (Oct) |  | 2.7% | 2.7% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.8% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Oct) |  |  | 0.2% |
 | 21:30 | USD | PPI (YoY) (Oct) |  | 1.9% | 2.2% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Oct) |  |  | 2.8% |
 | 21:30 | USD | Retail Sales (YoY) (Oct) |  |  | 3.75% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Oct) |  | 0.0% | 0.6% |
 | 21:30 | CAD | Manufacturing Sales (MoM) (Sep) |  | -0.1% | 0.7% |
