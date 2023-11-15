@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 8 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.1% | 2.1% |
-| 02:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 01:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
+| 45 min | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 04:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
@@ -38,8 +38,8 @@
 | 20:15 | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
 | 21:15 | CAD | Moderate | Housing Starts (Oct) |  | 255.0K | 270.5K |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
 | 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
+| 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |

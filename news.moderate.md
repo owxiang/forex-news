@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.1% | 2.1% |
-| 02:00 | GBP | MPC Member Haskel Speaks |  |  |  |
+| 01:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
+| 45 min | GBP | MPC Member Haskel Speaks |  |  |  |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.71T | -0.43T |
 | 07:50 | JPY | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
 | 07:50 | JPY | Trade Balance (Oct) |  | -735.7B | 62.4B |
