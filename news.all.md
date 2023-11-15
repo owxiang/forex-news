@@ -6,8 +6,8 @@
 | 02:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 04:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
 | 07:50 | JPY | Moderate | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -388.4B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.5B |
@@ -38,8 +38,8 @@
 | 20:15 | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
 | 21:15 | CAD | Moderate | Housing Starts (Oct) |  | 255.0K | 270.5K |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |
@@ -51,8 +51,8 @@
 | 21:30 | USD | Low | Philly Fed New Orders (Nov) |  |  | 4.4 |
 | 21:30 | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 23.10 |
 | 22:15 | USD | Low | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
-| 22:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
 | 22:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 0.08% |
+| 22:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
 | 22:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 22:25 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

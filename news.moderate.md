@@ -18,8 +18,8 @@
 | 21:30 | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
 | 21:30 | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
-| 22:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
 | 22:15 | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
+| 22:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
 | 22:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 22:25 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | USD | Fed Governor Kroszner Speaks |  |  |  |
