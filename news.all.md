@@ -5,15 +5,15 @@
 | 01:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
 | 02:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 04:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
-| 07:50 | JPY | Moderate | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -388.4B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.5B |
-| 07:50 | JPY | Low | Imports (YoY) (Oct) |  | -12.2% | -16.3% |
-| 07:50 | JPY | Moderate | Trade Balance (Oct) |  | -735.7B | 62.4B |
-| 08:00 | AUD | Low | MI Inflation Expectations |  |  | 4.8% |
+| 34 min | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
+| 34 min | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
+| 34 min | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
+| 34 min | JPY | Moderate | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -388.4B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.5B |
+| 34 min | JPY | Low | Imports (YoY) (Oct) |  | -12.2% | -16.3% |
+| 34 min | JPY | Moderate | Trade Balance (Oct) |  | -735.7B | 62.4B |
+| 44 min | AUD | Low | MI Inflation Expectations |  |  | 4.8% |
 | 08:30 | AUD | Moderate | Employment Change (Oct) |  | 20.0K | 6.7K |
 | 08:30 | AUD | Moderate | Full Employment Change (Oct) |  |  | -39.9K |
 | 08:30 | AUD | Low | Participation Rate (Oct) |  | 66.7% | 66.7% |
@@ -38,10 +38,10 @@
 | 20:15 | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
 | 21:15 | CAD | Moderate | Housing Starts (Oct) |  | 255.0K | 270.5K |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
 | 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
-| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
+| 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |

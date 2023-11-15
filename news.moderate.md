@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
 | 02:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 07:50 | JPY | Adjusted Trade Balance |  | -0.71T | -0.43T |
-| 07:50 | JPY | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
-| 07:50 | JPY | Trade Balance (Oct) |  | -735.7B | 62.4B |
+| 34 min | JPY | Adjusted Trade Balance |  | -0.71T | -0.43T |
+| 34 min | JPY | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
+| 34 min | JPY | Trade Balance (Oct) |  | -735.7B | 62.4B |
 | 08:30 | AUD | Employment Change (Oct) |  | 20.0K | 6.7K |
 | 08:30 | AUD | Full Employment Change (Oct) |  |  | -39.9K |
 | 08:30 | AUD | Unemployment Rate (Oct) |  | 3.7% | 3.6% |

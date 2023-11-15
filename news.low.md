@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | -388.4B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 313.5B |
-| 07:50 | JPY | Imports (YoY) (Oct) |  | -12.2% | -16.3% |
-| 08:00 | AUD | MI Inflation Expectations |  |  | 4.8% |
+| 34 min | JPY | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
+| 34 min | JPY | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
+| 34 min | JPY | Foreign Bonds Buying |  |  | -388.4B |
+| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 313.5B |
+| 34 min | JPY | Imports (YoY) (Oct) |  | -12.2% | -16.3% |
+| 44 min | AUD | MI Inflation Expectations |  |  | 4.8% |
 | 08:30 | AUD | Participation Rate (Oct) |  | 66.7% | 66.7% |
 | 08:30 | AUD | Reserve Assets Total (Oct) |  |  | 93.2B |
 | 09:30 | CNY | House Prices (YoY) (Oct) |  |  | -0.1% |
