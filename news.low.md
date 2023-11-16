@@ -10,8 +10,8 @@
 | 05:00 | USD | US Foreign Buying, T-bonds (Sep) | -17.50B |  | 21.70B |
 | 05:00 | USD | Overall Net Capital Flow (Sep) | -67.40B |  | 131.00B |
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | -1.70B |  | 62.20B |
-| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |
-| 31 min | NZD | PPI Output (QoQ) (Q3) |  |  | 0.2% |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
+| 05:45 | NZD | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
 | 08:00 | SGD | Non-Oil Exports (MoM) (Oct) |  |  | 11.10% |
 | 08:00 | SGD | Non-Oil Exports (YoY) (Oct) |  |  | -13.20% |
 | 10:00 | SGD | Trade Balance |  |  | 4.943B |

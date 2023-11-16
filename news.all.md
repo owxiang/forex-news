@@ -12,15 +12,15 @@
 | 05:00 | USD | Low | Overall Net Capital Flow (Sep) | -67.40B |  | 131.00B |
 | 05:00 | USD | Moderate | TIC Net Long-Term Transactions (Sep) | -1.7B | 89.4B | 62.2B |
 | 05:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Sep) | -1.70B |  | 62.20B |
-| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,861B |
-| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |
-| 31 min | NZD | Moderate | PPI Input (QoQ) (Q3) |  |  | -0.2% |
-| 31 min | NZD | Low | PPI Output (QoQ) (Q3) |  |  | 0.2% |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,815B |  | 7,861B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
+| 05:45 | NZD | Moderate | PPI Input (QoQ) (Q3) | 1.2% |  | -0.2% |
+| 05:45 | NZD | Low | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
 | 08:00 | SGD | Low | Non-Oil Exports (MoM) (Oct) |  |  | 11.10% |
 | 08:00 | SGD | Low | Non-Oil Exports (YoY) (Oct) |  |  | -13.20% |
 | 10:00 | SGD | Low | Trade Balance |  |  | 4.943B |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.5% | -1.0% |
+| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | -1.5% | -1.0% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | 0.3% | -0.9% |
 | 15:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -29,10 +29,10 @@
 | 17:00 | EUR | Low | Spanish Trade Balance |  |  | -4.40B |
 | 17:00 | EUR | Low | Current Account (Sep) |  | 20.3B | 27.7B |
 | 17:00 | EUR | Low | Current Account n.s.a. (Sep) |  |  | 30.7B |
-| 18:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
-| 18:00 | EUR | High | CPI (YoY) (Oct) |  | 2.9% | 4.3% |
+| 18:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
+| 18:00 | EUR | High | CPI (YoY) (Oct) |  | 2.9% | 4.3% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | Low | CPI, n.s.a |  |  | 124.55 |
