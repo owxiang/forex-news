@@ -7,22 +7,21 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.290% |
 | 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.290% |
 | 01:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 16 min | BRL | Foreign Exchange Flows |  |  | 0.286B |
 | 05:00 | USD | US Foreign Buying, T-bonds (Sep) |  |  | 22.10B |
 | 05:00 | USD | Overall Net Capital Flow (Sep) |  |  | 134.40B |
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 63.50B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |
 | 05:45 | NZD | PPI Output (QoQ) (Q3) |  |  | 0.2% |
-| 08:00 | SGD | Non-Oil Exports (YoY) (Oct) |  |  | -13.20% |
 | 08:00 | SGD | Non-Oil Exports (MoM) (Oct) |  |  | 11.10% |
+| 08:00 | SGD | Non-Oil Exports (YoY) (Oct) |  |  | -13.20% |
 | 10:00 | SGD | Trade Balance |  |  | 4.943B |
 | 15:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.80% |
 | 17:00 | EUR | Spanish Trade Balance |  |  | -4.40B |
 | 17:00 | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
 | 17:00 | EUR | Current Account n.s.a. (Sep) |  |  | 30.7B |
 | 18:00 | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | CPI, n.s.a |  |  | 124.55 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
 | 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |

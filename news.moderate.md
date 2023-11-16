@@ -6,8 +6,8 @@
 | 05:00 | USD | TIC Net Long-Term Transactions (Sep) |  | 89.4B | 63.5B |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,861B |
 | 05:45 | NZD | PPI Input (QoQ) (Q3) |  |  | -0.2% |
-| 15:00 | GBP | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
 | 15:00 | GBP | Core Retail Sales (MoM) (Oct) |  | 0.5% | -1.0% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
 | 15:00 | GBP | Retail Sales (MoM) (Oct) |  | 0.3% | -0.9% |
 | 15:00 | GBP | Retail Sales (YoY) (Oct) |  | -1.5% | -1.0% |
 | 15:10 | EUR | German Buba Balz Speaks |  |  |  |
