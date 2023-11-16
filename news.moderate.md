@@ -10,7 +10,7 @@
 | 08:30 | AUD | Employment Change (Oct) | 55.0K | 20.0K | 7.8K |
 | 08:30 | AUD | Full Employment Change (Oct) | 17.0K |  | -36.6K |
 | 08:30 | AUD | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
-| 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 39 min | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:10 | EUR | ECB's Enria Speaks |  |  |  |
 | 20:15 | CAD | Housing Starts (Oct) |  | 252.9K | 270.5K |
