@@ -18,10 +18,9 @@
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction | 3.610% |  | 4.067% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction | 3.245% |  | 3.527% |
 | 18:00 | EUR | French 6-Year OAT Auction | 2.92% |  | 3.30% |
-| 43 min | USD | Fed Governor Cook Speaks |  |  |  |
-| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 20:00 | BRL | IBC-Br Economic Activity (Sep) |  | 0.20% | -0.77% |
-| 20:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 47 min | BRL | IBC-Br Economic Activity (Sep) |  | 0.20% | -0.77% |
+| 57 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,847K | 1,834K |
 | 21:30 | USD | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Import Price Index (YoY) |  |  | -1.7% |
