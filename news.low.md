@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | KC Fed Composite Index (Nov) | -2 |  | -8 |
 | 00:00 | USD | KC Fed Manufacturing Index (Nov) | -3 |  | -8 |
-| 8 min | USD | 4-Week Bill Auction |  |  | 5.290% |
-| 8 min | USD | 8-Week Bill Auction |  |  | 5.290% |
-| 38 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 0.286B |
+| 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.290% |
+| 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.290% |
+| 01:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 16 min | BRL | Foreign Exchange Flows |  |  | 0.286B |
 | 05:00 | USD | US Foreign Buying, T-bonds (Sep) |  |  | 22.10B |
 | 05:00 | USD | Overall Net Capital Flow (Sep) |  |  | 134.40B |
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 63.50B |
