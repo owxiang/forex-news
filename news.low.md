@@ -14,7 +14,7 @@
 | 09:30 | CNY | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
 | 10:00 | NZD | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Sep) | 2.10 |  | -0.90 |
-| 16:30 | HKD | Unemployment Rate (Oct) |  |  | 2.8% |
+| 10 min | HKD | Unemployment Rate (Oct) |  |  | 2.8% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 18:00 | EUR | French 6-Year OAT Auction |  |  | -0.03% |

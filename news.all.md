@@ -23,7 +23,7 @@
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 2.10 |  | -0.90 |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 16:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 2.8% |
+| 10 min | HKD | Low | Unemployment Rate (Oct) |  |  | 2.8% |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 18:00 | EUR | Low | French 6-Year OAT Auction |  |  | -0.03% |
