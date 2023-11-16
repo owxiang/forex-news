@@ -11,13 +11,12 @@
 | 08:30 | AUD | Full Employment Change (Oct) | 17.0K |  | -36.6K |
 | 08:30 | AUD | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
 | 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 17 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 57 min | EUR | ECB's Enria Speaks |  |  |  |
-| 20:15 | CAD | Housing Starts (Oct) |  | 252.9K | 270.5K |
-| 21:15 | CAD | Housing Starts (Oct) |  | 255.0K | 270.5K |
-| 21:30 | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
-| 21:30 | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
-| 21:30 | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
+| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:10 | EUR | ECB's Enria Speaks |  |  |  |
+| 43 min | CAD | Housing Starts (Oct) |  | 252.9K | 270.5K |
+| 58 min | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
+| 58 min | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 58 min | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
 | 22:15 | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
 | 22:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
 | 22:15 | EUR | ECB's De Guindos Speaks |  |  |  |
