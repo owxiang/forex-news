@@ -19,8 +19,8 @@
 | 08:30 | AUD | Low | Participation Rate (Oct) | 67.0% | 66.7% | 66.8% |
 | 08:30 | AUD | Low | Reserve Assets Total (Oct) | 94,568.0B |  | 93,232.0B |
 | 08:30 | AUD | Moderate | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
-| 18 min | CNY | Low | House Prices (YoY) (Oct) |  |  | -0.1% |
-| 48 min | NZD | Low | RBNZ Offshore Holdings (Oct) |  |  | 58.50% |
+| 09:30 | CNY | Low | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
+| 10:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 2.8% |
@@ -38,10 +38,10 @@
 | 20:15 | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
 | 21:15 | CAD | Moderate | Housing Starts (Oct) |  | 255.0K | 270.5K |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
-| 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
+| 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |

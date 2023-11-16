@@ -11,8 +11,8 @@
 | 08:00 | AUD | MI Inflation Expectations | 4.9% |  | 4.8% |
 | 08:30 | AUD | Participation Rate (Oct) | 67.0% | 66.7% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Oct) | 94,568.0B |  | 93,232.0B |
-| 18 min | CNY | House Prices (YoY) (Oct) |  |  | -0.1% |
-| 48 min | NZD | RBNZ Offshore Holdings (Oct) |  |  | 58.50% |
+| 09:30 | CNY | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
+| 10:00 | NZD | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
 | 16:30 | HKD | Unemployment Rate (Oct) |  |  | 2.8% |
 | 17:00 | EUR | Italian Trade Balance (Sep) |  | 3.450B | 2.070B |
