@@ -5,22 +5,22 @@
 | 01:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
 | 02:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 04:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 34 min | JPY | Moderate | Adjusted Trade Balance |  | -0.71T | -0.43T |
-| 34 min | JPY | Low | Core Machinery Orders (MoM) (Sep) |  | 0.9% | -0.5% |
-| 34 min | JPY | Low | Core Machinery Orders (YoY) (Sep) |  | -3.6% | -7.7% |
-| 34 min | JPY | Moderate | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -388.4B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 313.5B |
-| 34 min | JPY | Low | Imports (YoY) (Oct) |  | -12.2% | -16.3% |
-| 34 min | JPY | Moderate | Trade Balance (Oct) |  | -735.7B | 62.4B |
-| 44 min | AUD | Low | MI Inflation Expectations |  |  | 4.8% |
-| 08:30 | AUD | Moderate | Employment Change (Oct) |  | 20.0K | 6.7K |
-| 08:30 | AUD | Moderate | Full Employment Change (Oct) |  |  | -39.9K |
-| 08:30 | AUD | Low | Participation Rate (Oct) |  | 66.7% | 66.7% |
-| 08:30 | AUD | Low | Reserve Assets Total (Oct) |  |  | 93.2B |
-| 08:30 | AUD | Moderate | Unemployment Rate (Oct) |  | 3.7% | 3.6% |
-| 09:30 | CNY | Low | House Prices (YoY) (Oct) |  |  | -0.1% |
-| 10:00 | NZD | Low | RBNZ Offshore Holdings (Oct) |  |  | 58.50% |
+| 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.46T | -0.71T | -0.42T |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Sep) | 1.4% | 0.9% | -0.5% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Sep) | -2.2% | -3.6% | -7.7% |
+| 07:50 | JPY | Moderate | Exports (YoY) (Oct) | 1.6% | 1.2% | 4.3% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | -68.2B |  | -388.2B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 388.4B |  | 312.9B |
+| 07:50 | JPY | Low | Imports (YoY) (Oct) | -12.5% | -12.2% | -16.6% |
+| 07:50 | JPY | Moderate | Trade Balance (Oct) | -662.5B | -735.7B | 72.1B |
+| 08:00 | AUD | Low | MI Inflation Expectations | 4.9% |  | 4.8% |
+| 08:30 | AUD | Moderate | Employment Change (Oct) | 55.0K | 20.0K | 7.8K |
+| 08:30 | AUD | Moderate | Full Employment Change (Oct) | 17.0K |  | -36.6K |
+| 08:30 | AUD | Low | Participation Rate (Oct) | 67.0% | 66.7% | 66.8% |
+| 08:30 | AUD | Low | Reserve Assets Total (Oct) | 94,568.0B |  | 93,232.0B |
+| 08:30 | AUD | Moderate | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
+| 18 min | CNY | Low | House Prices (YoY) (Oct) |  |  | -0.1% |
+| 48 min | NZD | Low | RBNZ Offshore Holdings (Oct) |  |  | 58.50% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 2.8% |

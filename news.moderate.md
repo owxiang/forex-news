@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
 | 02:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 34 min | JPY | Adjusted Trade Balance |  | -0.71T | -0.43T |
-| 34 min | JPY | Exports (YoY) (Oct) |  | 1.2% | 4.3% |
-| 34 min | JPY | Trade Balance (Oct) |  | -735.7B | 62.4B |
-| 08:30 | AUD | Employment Change (Oct) |  | 20.0K | 6.7K |
-| 08:30 | AUD | Full Employment Change (Oct) |  |  | -39.9K |
-| 08:30 | AUD | Unemployment Rate (Oct) |  | 3.7% | 3.6% |
+| 07:50 | JPY | Adjusted Trade Balance | -0.46T | -0.71T | -0.42T |
+| 07:50 | JPY | Exports (YoY) (Oct) | 1.6% | 1.2% | 4.3% |
+| 07:50 | JPY | Trade Balance (Oct) | -662.5B | -735.7B | 72.1B |
+| 08:30 | AUD | Employment Change (Oct) | 55.0K | 20.0K | 7.8K |
+| 08:30 | AUD | Full Employment Change (Oct) | 17.0K |  | -36.6K |
+| 08:30 | AUD | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
 | 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:10 | EUR | ECB's Enria Speaks |  |  |  |
