@@ -1,35 +1,39 @@
-## 16 November 2023 - Low Impact Forex News
+## 17 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Sep) | 1.4% | 0.9% | -0.5% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Sep) | -2.2% | -3.6% | -7.7% |
-| 07:50 | JPY | Foreign Bonds Buying | -68.2B |  | -388.2B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 388.4B |  | 312.9B |
-| 07:50 | JPY | Imports (YoY) (Oct) | -12.5% | -12.2% | -16.6% |
-| 08:00 | AUD | MI Inflation Expectations | 4.9% |  | 4.8% |
-| 08:30 | AUD | Participation Rate (Oct) | 67.0% | 66.7% | 66.8% |
-| 08:30 | AUD | Reserve Assets Total (Oct) | 94,568.0B |  | 93,232.0B |
-| 09:30 | CNY | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
-| 10:00 | NZD | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
-| 12:30 | JPY | Tertiary Industry Activity Index (Sep) | 2.10 |  | -0.90 |
-| 16:30 | HKD | Unemployment Rate (Oct) | 2.9% |  | 2.8% |
-| 17:40 | EUR | Spanish 10-Year Obligacion Auction | 3.610% |  | 4.067% |
-| 17:40 | EUR | Spanish 3-Year Bonos Auction | 3.245% |  | 3.527% |
-| 18:00 | EUR | French 6-Year OAT Auction | 2.92% |  | 3.30% |
-| 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 20:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | Continuing Jobless Claims | 1,865K | 1,847K | 1,833K |
-| 21:30 | USD | Export Price Index (YoY) | -4.9% |  | -4.3% |
-| 21:30 | USD | Import Price Index (YoY) | -2.0% |  | -1.5% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 220.25K |  | 212.50K |
-| 21:30 | USD | Philly Fed Business Conditions (Nov) | -2.1 |  | 9.2 |
-| 21:30 | USD | Philly Fed CAPEX Index (Nov) | -1.30 |  | -4.80 |
-| 21:30 | USD | Philly Fed New Orders (Nov) | 1.3 |  | 4.4 |
-| 21:30 | USD | Philly Fed Prices Paid (Nov) | 14.80 |  | 23.10 |
-| 22:15 | USD | Capacity Utilization Rate (Oct) | 78.9% | 79.4% | 79.5% |
-| 22:15 | USD | Manufacturing Production (MoM) (Oct) | -0.7% | -0.3% | 0.2% |
-| 23:00 | USD | NAHB Housing Market Index (Nov) | 34 | 40 | 40 |
-| 13 min | USD | Natural Gas Storage |  | 40B | 79B |
-| 18 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 00:00 | USD | KC Fed Composite Index (Nov) | -2 |  | -8 |
+| 00:00 | USD | KC Fed Manufacturing Index (Nov) | -3 |  | -8 |
+| 8 min | USD | 4-Week Bill Auction |  |  | 5.290% |
+| 8 min | USD | 8-Week Bill Auction |  |  | 5.290% |
+| 38 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 0.286B |
+| 05:00 | USD | US Foreign Buying, T-bonds (Sep) |  |  | 22.10B |
+| 05:00 | USD | Overall Net Capital Flow (Sep) |  |  | 134.40B |
+| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) |  |  | 63.50B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.360T |
+| 05:45 | NZD | PPI Output (QoQ) (Q3) |  |  | 0.2% |
+| 08:00 | SGD | Non-Oil Exports (YoY) (Oct) |  |  | -13.20% |
+| 08:00 | SGD | Non-Oil Exports (MoM) (Oct) |  |  | 11.10% |
+| 10:00 | SGD | Trade Balance |  |  | 4.943B |
+| 15:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.80% |
+| 17:00 | EUR | Spanish Trade Balance |  |  | -4.40B |
+| 17:00 | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
+| 17:00 | EUR | Current Account n.s.a. (Sep) |  |  | 30.7B |
+| 18:00 | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
+| 18:00 | EUR | CPI, n.s.a |  |  | 124.55 |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |
+| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
+| 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
+| 19:30 | INR | Deposit Growth |  |  | 13.4% |
+| 19:30 | INR | FX Reserves, USD |  |  | 590.78B |
+| 20:00 | BRL | IBC-Br Economic Activity (Sep) |  | 0.20% | -0.77% |
+| 21:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
+| 21:30 | CAD | IPPI (YoY) (Oct) |  |  | 0.6% |
+| 21:30 | CAD | IPPI (MoM) (Oct) |  |  | 0.4% |
+| 21:30 | CAD | RMPI (YoY) (Oct) |  |  | 2.4% |
+| 22:45 | USD | Fed Goolsbee Speaks |  |  |  |

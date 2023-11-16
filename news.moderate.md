@@ -1,26 +1,24 @@
-## 16 November 2023 - Moderate Impact Forex News
+## 17 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.1% | 2.1% |
-| 02:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 07:50 | JPY | Adjusted Trade Balance | -0.46T | -0.71T | -0.42T |
-| 07:50 | JPY | Exports (YoY) (Oct) | 1.6% | 1.2% | 4.3% |
-| 07:50 | JPY | Trade Balance (Oct) | -662.5B | -735.7B | 72.1B |
-| 08:30 | AUD | Employment Change (Oct) | 55.0K | 20.0K | 7.8K |
-| 08:30 | AUD | Full Employment Change (Oct) | 17.0K |  | -36.6K |
-| 08:30 | AUD | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
-| 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 20:10 | EUR | ECB's Enria Speaks |  |  |  |
-| 21:15 | CAD | Housing Starts (Oct) | 274.7K | 252.9K | 270.7K |
-| 21:30 | USD | Export Price Index (MoM) (Oct) | -1.1% | -0.5% | 0.5% |
-| 21:30 | USD | Import Price Index (MoM) (Oct) | -0.8% | -0.3% | 0.4% |
-| 21:30 | USD | Philly Fed Employment (Nov) | 0.8 |  | 4.0 |
-| 22:15 | USD | Industrial Production (YoY) (Oct) | -0.68% |  | -0.16% |
-| 22:15 | USD | Industrial Production (MoM) (Oct) | -0.6% | -0.3% | 0.1% |
-| 22:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 22:25 | USD | FOMC Member Williams Speaks |  |  |  |
-| 23:00 | USD | Fed Governor Kroszner Speaks |  |  |  |
-| 13 min | USD | Fed Waller Speaks |  |  |  |
-| 28 min | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 38 min | USD | FOMC Member Mester Speaks |  |  |  |
+| 05:00 | USD | TIC Net Long-Term Transactions (Sep) |  | 89.4B | 63.5B |
+| 05:30 | USD | Fed's Balance Sheet |  |  | 7,861B |
+| 05:45 | NZD | PPI Input (QoQ) (Q3) |  |  | -0.2% |
+| 15:00 | GBP | Core Retail Sales (MoM) (Oct) |  | 0.5% | -1.0% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
+| 15:00 | GBP | Retail Sales (MoM) (Oct) |  | 0.3% | -0.9% |
+| 15:00 | GBP | Retail Sales (YoY) (Oct) |  | -1.5% | -1.0% |
+| 15:10 | EUR | German Buba Balz Speaks |  |  |  |
+| 16:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | EUR | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
+| 18:00 | EUR | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
+| 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 21:10 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 21:30 | USD | Building Permits (MoM) (Oct) |  |  | -4.5% |
+| 21:30 | USD | Housing Starts (MoM) (Oct) |  |  | 7.0% |
+| 21:30 | USD | Housing Starts (Oct) |  | 1.345M | 1.358M |
+| 21:30 | CAD | Foreign Securities Purchases (Sep) |  |  | -8.47B |
+| 21:30 | CAD | RMPI (MoM) (Oct) |  |  | 3.5% |
+| 23:00 | USD | FOMC Member Daly Speaks |  |  |  |
