@@ -20,16 +20,16 @@
 | 18:00 | EUR | French 6-Year OAT Auction | 2.92% |  | 3.30% |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 58 min | USD | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 58 min | USD | Export Price Index (YoY) |  |  | -4.1% |
-| 58 min | USD | Import Price Index (YoY) |  |  | -1.7% |
-| 58 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 58 min | USD | Philly Fed Business Conditions (Nov) |  |  | 9.2 |
-| 58 min | USD | Philly Fed CAPEX Index (Nov) |  |  | -4.80 |
-| 58 min | USD | Philly Fed New Orders (Nov) |  |  | 4.4 |
-| 58 min | USD | Philly Fed Prices Paid (Nov) |  |  | 23.10 |
-| 22:15 | USD | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
-| 22:15 | USD | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
+| 10 min | USD | Continuing Jobless Claims |  | 1,847K | 1,834K |
+| 10 min | USD | Export Price Index (YoY) |  |  | -4.1% |
+| 10 min | USD | Import Price Index (YoY) |  |  | -1.7% |
+| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 10 min | USD | Philly Fed Business Conditions (Nov) |  |  | 9.2 |
+| 10 min | USD | Philly Fed CAPEX Index (Nov) |  |  | -4.80 |
+| 10 min | USD | Philly Fed New Orders (Nov) |  |  | 4.4 |
+| 10 min | USD | Philly Fed Prices Paid (Nov) |  |  | 23.10 |
+| 55 min | USD | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
+| 55 min | USD | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
 | 23:00 | USD | NAHB Housing Market Index (Nov) |  | 40 | 40 |
 | 23:30 | USD | Natural Gas Storage |  | 40B | 79B |
 | 23:35 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

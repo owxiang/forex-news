@@ -31,25 +31,25 @@
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:10 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:10 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 43 min | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
-| 58 min | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 58 min | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
-| 58 min | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
-| 58 min | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
-| 58 min | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
-| 58 min | USD | High | Initial Jobless Claims |  | 220K | 217K |
-| 58 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 58 min | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |
-| 58 min | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 9.2 |
-| 58 min | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | -4.80 |
-| 58 min | USD | Moderate | Philly Fed Employment (Nov) |  |  | 4.0 |
-| 58 min | USD | Low | Philly Fed New Orders (Nov) |  |  | 4.4 |
-| 58 min | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 23.10 |
-| 22:15 | USD | Low | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
-| 22:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 0.08% |
-| 22:15 | USD | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
-| 22:15 | USD | Low | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
-| 22:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 21:15 | CAD | Moderate | Housing Starts (Oct) | 274.7K | 252.9K | 270.7K |
+| 10 min | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
+| 10 min | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
+| 10 min | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
+| 10 min | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
+| 10 min | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 10 min | USD | High | Initial Jobless Claims |  | 220K | 217K |
+| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 10 min | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |
+| 10 min | USD | Low | Philly Fed Business Conditions (Nov) |  |  | 9.2 |
+| 10 min | USD | Low | Philly Fed CAPEX Index (Nov) |  |  | -4.80 |
+| 10 min | USD | Moderate | Philly Fed Employment (Nov) |  |  | 4.0 |
+| 10 min | USD | Low | Philly Fed New Orders (Nov) |  |  | 4.4 |
+| 10 min | USD | Low | Philly Fed Prices Paid (Nov) |  |  | 23.10 |
+| 55 min | USD | Low | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
+| 55 min | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 0.08% |
+| 55 min | USD | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
+| 55 min | USD | Low | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
+| 55 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 22:25 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
 | 23:00 | USD | Low | NAHB Housing Market Index (Nov) |  | 40 | 40 |

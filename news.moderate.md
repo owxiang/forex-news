@@ -13,13 +13,13 @@
 | 15:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:10 | EUR | ECB's Enria Speaks |  |  |  |
-| 43 min | CAD | Housing Starts (Oct) |  | 252.9K | 270.5K |
-| 58 min | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
-| 58 min | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
-| 58 min | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
-| 22:15 | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
-| 22:15 | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
-| 22:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 21:15 | CAD | Housing Starts (Oct) | 274.7K | 252.9K | 270.7K |
+| 10 min | USD | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
+| 10 min | USD | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 10 min | USD | Philly Fed Employment (Nov) |  |  | 4.0 |
+| 55 min | USD | Industrial Production (YoY) (Oct) |  |  | 0.08% |
+| 55 min | USD | Industrial Production (MoM) (Oct) |  | -0.3% | 0.3% |
+| 55 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 22:25 | USD | FOMC Member Williams Speaks |  |  |  |
 | 23:00 | USD | Fed Governor Kroszner Speaks |  |  |  |
 | 23:30 | USD | Fed Waller Speaks |  |  |  |

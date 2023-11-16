@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 58 min | USD | Initial Jobless Claims |  | 220K | 217K |
-| 58 min | USD | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |
+| 10 min | USD | Initial Jobless Claims |  | 220K | 217K |
+| 10 min | USD | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |
