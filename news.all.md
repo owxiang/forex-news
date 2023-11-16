@@ -35,8 +35,8 @@
 | 21:30 | USD | Low | Continuing Jobless Claims | 1,865K | 1,847K | 1,833K |
 | 21:30 | USD | Low | Export Price Index (YoY) | -4.9% |  | -4.3% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) | -1.1% | -0.5% | 0.5% |
+| 21:30 | USD | Low | Import Price Index (YoY) | -2.0% |  | -1.5% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) | -0.8% | -0.3% | 0.4% |
-| 21:30 | USD | Low | Import Price Index (YoY) | -2.0% |  | -1.7% |
 | 21:30 | USD | High | Initial Jobless Claims | 231K | 220K | 218K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.25K |  | 212.50K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) | -5.9 | -9.0 | -9.0 |
@@ -46,14 +46,14 @@
 | 21:30 | USD | Low | Philly Fed New Orders (Nov) | 1.3 |  | 4.4 |
 | 21:30 | USD | Low | Philly Fed Prices Paid (Nov) | 14.80 |  | 23.10 |
 | 22:15 | USD | Low | Capacity Utilization Rate (Oct) | 78.9% | 79.4% | 79.5% |
-| 22:15 | USD | Moderate | Industrial Production (YoY) (Oct) |  |  | 0.08% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Oct) | -0.68% |  | -0.16% |
 | 22:15 | USD | Moderate | Industrial Production (MoM) (Oct) | -0.6% | -0.3% | 0.1% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Oct) | -0.7% | -0.3% | 0.2% |
 | 22:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 45 min | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
-| 45 min | USD | Low | NAHB Housing Market Index (Nov) |  | 40 | 40 |
-| 23:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  | 40B | 79B |
-| 23:35 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:45 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 22:25 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 23:00 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
+| 23:00 | USD | Low | NAHB Housing Market Index (Nov) | 34 | 40 | 40 |
+| 13 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 13 min | USD | Low | Natural Gas Storage |  | 40B | 79B |
+| 18 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 28 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |

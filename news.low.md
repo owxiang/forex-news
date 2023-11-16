@@ -22,7 +22,7 @@
 | 20:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | Continuing Jobless Claims | 1,865K | 1,847K | 1,833K |
 | 21:30 | USD | Export Price Index (YoY) | -4.9% |  | -4.3% |
-| 21:30 | USD | Import Price Index (YoY) | -2.0% |  | -1.7% |
+| 21:30 | USD | Import Price Index (YoY) | -2.0% |  | -1.5% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. | 220.25K |  | 212.50K |
 | 21:30 | USD | Philly Fed Business Conditions (Nov) | -2.1 |  | 9.2 |
 | 21:30 | USD | Philly Fed CAPEX Index (Nov) | -1.30 |  | -4.80 |
@@ -30,6 +30,6 @@
 | 21:30 | USD | Philly Fed Prices Paid (Nov) | 14.80 |  | 23.10 |
 | 22:15 | USD | Capacity Utilization Rate (Oct) | 78.9% | 79.4% | 79.5% |
 | 22:15 | USD | Manufacturing Production (MoM) (Oct) | -0.7% | -0.3% | 0.2% |
-| 45 min | USD | NAHB Housing Market Index (Nov) |  | 40 | 40 |
-| 23:30 | USD | Natural Gas Storage |  | 40B | 79B |
-| 23:35 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:00 | USD | NAHB Housing Market Index (Nov) | 34 | 40 | 40 |
+| 13 min | USD | Natural Gas Storage |  | 40B | 79B |
+| 18 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
