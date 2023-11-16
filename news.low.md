@@ -13,10 +13,8 @@
 | 08:30 | AUD | Reserve Assets Total (Oct) | 94,568.0B |  | 93,232.0B |
 | 09:30 | CNY | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
 | 10:00 | NZD | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
-| 12:30 | JPY | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
+| 11 min | JPY | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
 | 16:30 | HKD | Unemployment Rate (Oct) |  |  | 2.8% |
-| 17:00 | EUR | Italian Trade Balance (Sep) |  | 3.450B | 2.070B |
-| 17:00 | EUR | Italian Trade Balance EU (Sep) |  |  | -1.01B |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.580% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
@@ -35,5 +33,5 @@
 | 22:15 | USD | Capacity Utilization Rate (Oct) |  | 79.4% | 79.7% |
 | 22:15 | USD | Manufacturing Production (MoM) (Oct) |  | -0.3% | 0.4% |
 | 23:00 | USD | NAHB Housing Market Index (Nov) |  | 40 | 40 |
-| 23:30 | USD | Natural Gas Storage |  | -7B | 79B |
+| 23:30 | USD | Natural Gas Storage |  | 40B | 79B |
 | 23:35 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

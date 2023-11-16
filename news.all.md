@@ -21,11 +21,9 @@
 | 08:30 | AUD | Moderate | Unemployment Rate (Oct) | 3.7% | 3.7% | 3.6% |
 | 09:30 | CNY | Low | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
-| 12:30 | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
+| 11 min | JPY | Low | Tertiary Industry Activity Index (Sep) |  |  | -1.60 |
 | 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 2.8% |
-| 17:00 | EUR | Low | Italian Trade Balance (Sep) |  | 3.450B | 2.070B |
-| 17:00 | EUR | Low | Italian Trade Balance EU (Sep) |  |  | -1.01B |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.580% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.334% |
@@ -38,8 +36,8 @@
 | 20:15 | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
 | 21:15 | CAD | Moderate | Housing Starts (Oct) |  | 255.0K | 270.5K |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |
@@ -59,6 +57,6 @@
 | 23:00 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
 | 23:00 | USD | Low | NAHB Housing Market Index (Nov) |  | 40 | 40 |
 | 23:30 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  | -7B | 79B |
+| 23:30 | USD | Low | Natural Gas Storage |  | 40B | 79B |
 | 23:35 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:45 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
