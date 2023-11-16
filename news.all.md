@@ -22,11 +22,10 @@
 | 09:30 | CNY | Low | House Prices (YoY) (Oct) | -0.1% |  | -0.1% |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Sep) | 2.10 |  | -0.90 |
-| 39 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 15:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Oct) |  |  | 2.8% |
-| 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.580% |
+| 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.527% |
-| 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.334% |
 | 18:00 | EUR | Low | French 6-Year OAT Auction |  |  | -0.03% |
 | 19:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
@@ -37,10 +36,10 @@
 | 20:15 | CAD | Moderate | Housing Starts (Oct) |  | 252.9K | 270.5K |
 | 21:15 | CAD | Moderate | Housing Starts (Oct) |  | 255.0K | 270.5K |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,847K | 1,834K |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Oct) |  | -0.5% | 0.7% |
-| 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.1% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.7% |
+| 21:30 | USD | Moderate | Import Price Index (MoM) (Oct) |  | -0.3% | 0.1% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 217K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Nov) |  | -9.0 | -9.0 |

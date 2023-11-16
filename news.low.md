@@ -15,9 +15,8 @@
 | 10:00 | NZD | RBNZ Offshore Holdings (Oct) | 57.90% |  | 58.50% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Sep) | 2.10 |  | -0.90 |
 | 16:30 | HKD | Unemployment Rate (Oct) |  |  | 2.8% |
-| 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.580% |
+| 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 4.067% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.527% |
-| 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
 | 18:00 | EUR | French 6-Year OAT Auction |  |  | -0.03% |
 | 19:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
