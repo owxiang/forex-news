@@ -6,12 +6,12 @@
 | 05:00 | USD | TIC Net Long-Term Transactions (Sep) | -1.7B | 89.4B | 62.2B |
 | 05:30 | USD | Fed's Balance Sheet | 7,815B |  | 7,861B |
 | 05:45 | NZD | PPI Input (QoQ) (Q3) | 1.2% |  | -0.2% |
-| 15:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
 | 15:00 | GBP | Core Retail Sales (YoY) (Oct) | -2.4% | -1.5% | -1.5% |
-| 15:00 | GBP | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
+| 15:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
 | 15:00 | GBP | Retail Sales (YoY) (Oct) | -2.7% | -1.5% | -1.3% |
+| 15:00 | GBP | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
 | 15:10 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | EUR | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
 | 18:00 | EUR | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |

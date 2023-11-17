@@ -19,25 +19,25 @@
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
 | 10:00 | SGD | Low | Trade Balance | 6.524B |  | 5.118B |
-| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | -2.4% | -1.5% | -1.5% |
-| 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
+| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | -2.7% | -1.5% | -1.3% |
+| 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
 | 15:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16 min | CHF | Low | Industrial Production (YoY) (Q3) |  |  | -0.80% |
-| 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 17:00 | EUR | Low | Spanish Trade Balance |  |  | -4.40B |
-| 17:00 | EUR | Low | Current Account (Sep) |  | 20.3B | 27.7B |
-| 17:00 | EUR | Low | Current Account n.s.a. (Sep) |  |  | 30.7B |
+| 15:30 | CHF | Low | Industrial Production (YoY) (Q3) | 2.00% |  | -0.70% |
+| 10 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 40 min | EUR | Low | Spanish Trade Balance |  |  | -4.40B |
+| 40 min | EUR | Low | Current Account (Sep) |  | 20.3B | 27.7B |
+| 40 min | EUR | Low | Current Account n.s.a. (Sep) |  |  | 30.7B |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
 | 18:00 | EUR | High | CPI (YoY) (Oct) |  | 2.9% | 4.3% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
-| 18:00 | EUR | Low | CPI, n.s.a |  |  | 124.55 |
+| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | Low | CPI, n.s.a |  | 124.55 | 124.43 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
-| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |
+| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.7% |
@@ -46,16 +46,16 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Sep) |  | 0.20% | -0.77% |
 | 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:10 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 21:30 | USD | High | Building Permits (Oct) |  | 1.450M | 1.471M |
 | 21:30 | USD | Moderate | Building Permits (MoM) (Oct) |  |  | -4.5% |
+| 21:30 | USD | High | Building Permits (Oct) |  | 1.450M | 1.471M |
 | 21:30 | USD | Moderate | Housing Starts (Oct) |  | 1.345M | 1.358M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | 7.0% |
 | 21:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | -8.47B |
 | 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
 | 21:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | 0.6% |
 | 21:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
-| 21:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | 2.4% |
 | 21:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | -2.0% | 3.5% |
+| 21:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | 2.4% |
 | 21:45 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:45 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |

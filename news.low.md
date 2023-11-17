@@ -15,16 +15,16 @@
 | 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
 | 10:00 | SGD | Trade Balance | 6.524B |  | 5.118B |
-| 16 min | CHF | Industrial Production (YoY) (Q3) |  |  | -0.80% |
-| 17:00 | EUR | Spanish Trade Balance |  |  | -4.40B |
-| 17:00 | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
-| 17:00 | EUR | Current Account n.s.a. (Sep) |  |  | 30.7B |
+| 15:30 | CHF | Industrial Production (YoY) (Q3) | 2.00% |  | -0.70% |
+| 40 min | EUR | Spanish Trade Balance |  |  | -4.40B |
+| 40 min | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
+| 40 min | EUR | Current Account n.s.a. (Sep) |  |  | 30.7B |
 | 18:00 | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
-| 18:00 | EUR | CPI, n.s.a |  |  | 124.55 |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | CPI, n.s.a |  | 124.55 | 124.43 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
