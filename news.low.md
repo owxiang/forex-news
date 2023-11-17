@@ -12,9 +12,9 @@
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | -1.70B |  | 62.20B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 44 min | SGD | Non-Oil Exports (YoY) (Oct) |  |  | -13.20% |
-| 44 min | SGD | Non-Oil Exports (MoM) (Oct) |  |  | 11.10% |
-| 10:00 | SGD | Trade Balance |  |  | 4.943B |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% |  | -13.20% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% |  | 11.10% |
+| 48 min | SGD | Trade Balance |  |  | 4.943B |
 | 15:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.80% |
 | 17:00 | EUR | Spanish Trade Balance |  |  | -4.40B |
 | 17:00 | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
