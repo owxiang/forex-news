@@ -12,8 +12,8 @@
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | -1.70B |  | 62.20B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 10:00 | SGD | Trade Balance | 6.524B |  | 5.118B |
 | 15:30 | CHF | Industrial Production (YoY) (Q3) | 2.00% |  | -0.70% |
 | 17:00 | EUR | Spanish Trade Balance | -3.80B |  | -4.40B |
@@ -31,11 +31,11 @@
 | 19:30 | INR | Deposit Growth | 13.5% |  | 13.4% |
 | 19:30 | INR | FX Reserves, USD | 590.32B |  | 590.78B |
 | 20:00 | BRL | IBC-Br Economic Activity (Sep) | -0.06% | 0.20% | -0.81% |
-| 11 min | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
-| 11 min | CAD | IPPI (YoY) (Oct) |  |  | 0.6% |
-| 11 min | CAD | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
-| 11 min | CAD | RMPI (YoY) (Oct) |  |  | 2.4% |
-| 26 min | USD | Fed Collins Speaks |  |  |  |
-| 26 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 22:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 21:30 | CAD | Foreign Securities Purchases by Canadians (Sep) | 11.60B |  | 14.75B |
+| 21:30 | CAD | IPPI (MoM) (Oct) | -1.0% | 0.2% | 0.4% |
+| 21:30 | CAD | IPPI (YoY) (Oct) | -2.7% |  | 0.6% |
+| 21:30 | CAD | RMPI (YoY) (Oct) | -0.8% |  | 2.9% |
+| 21:45 | USD | Fed Collins Speaks |  |  |  |
+| 21:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 30 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:15 | USD | Fed Collins Speaks |  |  |  |
