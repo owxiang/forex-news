@@ -19,14 +19,15 @@
 | 17:00 | EUR | Spanish Trade Balance | -3.80B |  | -4.40B |
 | 17:00 | EUR | Current Account (Sep) | 31.2B | 20.3B | 30.8B |
 | 17:00 | EUR | Current Account n.s.a. (Sep) | 40.8B |  | 33.7B |
-| 44 min | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 44 min | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
-| 44 min | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
-| 44 min | EUR | CPI, n.s.a |  | 124.55 | 124.43 |
-| 44 min | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
-| 44 min | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
+| 17:20 | CNY | FDI (Oct) | -9.40% |  | -8.40% |
+| 18:00 | EUR | Core CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) | 0.1% |  | 0.3% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Oct) | 2.8% |  | 4.3% |
+| 18:00 | EUR | CPI, n.s.a | 124.54 | 124.55 | 124.43 |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) | 5.0% | 5.0% | 5.5% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
+| 43 min | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |
 | 19:30 | INR | Deposit Growth |  |  | 13.4% |
 | 19:30 | INR | FX Reserves, USD |  |  | 590.78B |
