@@ -18,7 +18,7 @@
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% |  | -13.20% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% |  | 11.10% |
-| 48 min | SGD | Low | Trade Balance |  |  | 4.943B |
+| 10:00 | SGD | Low | Trade Balance | 6.524B |  | 5.118B |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.5% | -1.0% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | 0.3% | -0.9% |

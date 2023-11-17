@@ -14,7 +14,7 @@
 | 05:45 | NZD | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% |  | -13.20% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% |  | 11.10% |
-| 48 min | SGD | Trade Balance |  |  | 4.943B |
+| 10:00 | SGD | Trade Balance | 6.524B |  | 5.118B |
 | 15:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.80% |
 | 17:00 | EUR | Spanish Trade Balance |  |  | -4.40B |
 | 17:00 | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
