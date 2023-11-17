@@ -1,24 +1,17 @@
-## 17 November 2023 - Moderate Impact Forex News
+## 18 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 05:00 | USD | TIC Net Long-Term Transactions (Sep) | -1.7B | 89.4B | 62.2B |
-| 05:30 | USD | Fed's Balance Sheet | 7,815B |  | 7,861B |
-| 05:45 | NZD | PPI Input (QoQ) (Q3) | 1.2% |  | -0.2% |
-| 15:00 | GBP | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
-| 15:00 | GBP | Core Retail Sales (YoY) (Oct) | -2.4% | -1.5% | -1.5% |
-| 15:00 | GBP | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
-| 15:00 | GBP | Retail Sales (YoY) (Oct) | -2.7% | -1.5% | -1.3% |
-| 15:10 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | EUR | Core CPI (YoY) (Oct) | 4.2% | 4.2% | 4.5% |
-| 18:00 | EUR | CPI (MoM) (Oct) | 0.1% | 0.1% | 0.3% |
-| 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:10 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 21:30 | USD | Building Permits (MoM) (Oct) | 1.1% |  | -4.5% |
-| 21:30 | USD | Housing Starts (MoM) (Oct) | 1.9% |  | 3.1% |
-| 21:30 | USD | Housing Starts (Oct) | 1.372M | 1.345M | 1.346M |
-| 21:30 | CAD | Foreign Securities Purchases (Sep) | -15.09B |  | -8.77B |
-| 21:30 | CAD | RMPI (MoM) (Oct) | -2.5% | -2.0% | 3.9% |
-| 23:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 6 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 494 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 616 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | -16.3K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 236.0K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 166.2K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 16.3K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -53.4K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -65.6K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 26.6K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -104.0K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 89.1K |
+| 17:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
