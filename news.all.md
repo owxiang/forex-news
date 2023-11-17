@@ -16,13 +16,13 @@
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | Moderate | PPI Input (QoQ) (Q3) | 1.2% |  | -0.2% |
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
 | 10:00 | SGD | Low | Trade Balance | 6.524B |  | 5.118B |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | -2.4% | -1.5% | -1.5% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
-| 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | -2.7% | -1.5% | -1.3% |
+| 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
 | 15:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:30 | CHF | Low | Industrial Production (YoY) (Q3) | 2.00% |  | -0.70% |
 | 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -32,30 +32,30 @@
 | 17:20 | CNY | Low | FDI (Oct) | -9.40% |  | -8.40% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Oct) | 4.2% | 4.2% | 4.5% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.1% | 0.1% | 0.3% |
 | 18:00 | EUR | High | CPI (YoY) (Oct) | 2.9% | 2.9% | 4.3% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) | 2.8% |  | 4.3% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Oct) | 0.1% | 0.1% | 0.3% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) | 0.1% |  | 0.3% |
+| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) | 2.8% |  | 4.3% |
 | 18:00 | EUR | Low | CPI, n.s.a | 124.54 | 124.55 | 124.43 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) | 5.0% | 5.0% | 5.5% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) | 0.2% | 0.2% | 0.2% |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) | 0.5% |  | 0.5% |
-| 17 min | INR | Low | Bank Loan Growth |  |  | 19.7% |
-| 17 min | INR | Low | Deposit Growth |  |  | 13.4% |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 590.78B |
-| 47 min | BRL | Low | IBC-Br Economic Activity (Sep) |  | 0.20% | -0.77% |
-| 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:10 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 21:30 | USD | Moderate | Building Permits (MoM) (Oct) |  |  | -4.5% |
-| 21:30 | USD | High | Building Permits (Oct) |  | 1.450M | 1.471M |
-| 21:30 | USD | Moderate | Housing Starts (Oct) |  | 1.345M | 1.358M |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | 7.0% |
-| 21:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | -8.47B |
-| 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
-| 21:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | 0.6% |
-| 21:30 | CAD | Low | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
-| 21:30 | CAD | Moderate | RMPI (MoM) (Oct) |  | -2.0% | 3.5% |
-| 21:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | 2.4% |
+| 19:30 | INR | Low | Bank Loan Growth | 20.4% |  | 19.7% |
+| 19:30 | INR | Low | Deposit Growth | 13.5% |  | 13.4% |
+| 19:30 | INR | Low | FX Reserves, USD | 590.32B |  | 590.78B |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Sep) | -0.06% | 0.20% | -0.81% |
+| 29 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 39 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 59 min | USD | Moderate | Building Permits (MoM) (Oct) |  |  | -4.5% |
+| 59 min | USD | High | Building Permits (Oct) |  | 1.450M | 1.471M |
+| 59 min | USD | Moderate | Housing Starts (Oct) |  | 1.345M | 1.358M |
+| 59 min | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | 7.0% |
+| 59 min | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | -8.47B |
+| 59 min | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
+| 59 min | CAD | Low | IPPI (YoY) (Oct) |  |  | 0.6% |
+| 59 min | CAD | Low | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
+| 59 min | CAD | Moderate | RMPI (MoM) (Oct) |  | -2.0% | 3.5% |
+| 59 min | CAD | Low | RMPI (YoY) (Oct) |  |  | 2.4% |
 | 21:45 | USD | Low | Fed Collins Speaks |  |  |  |
 | 21:45 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
