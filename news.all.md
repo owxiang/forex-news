@@ -16,11 +16,11 @@
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | Moderate | PPI Input (QoQ) (Q3) | 1.2% |  | -0.2% |
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% |  | 11.10% |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% |  | -13.20% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 10:00 | SGD | Low | Trade Balance | 6.524B |  | 5.118B |
-| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.5% | -1.0% |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | -1.6% | -1.2% |
+| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) |  | -1.5% | -1.2% |
+| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.4% | -1.0% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Oct) |  | -1.5% | -1.0% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) |  | 0.3% | -0.9% |
 | 15:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -29,12 +29,12 @@
 | 17:00 | EUR | Low | Spanish Trade Balance |  |  | -4.40B |
 | 17:00 | EUR | Low | Current Account (Sep) |  | 20.3B | 27.7B |
 | 17:00 | EUR | Low | Current Account n.s.a. (Sep) |  |  | 30.7B |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
 | 18:00 | EUR | High | CPI (YoY) (Oct) |  | 2.9% | 4.3% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
 | 18:00 | EUR | Low | CPI, n.s.a |  |  | 124.55 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |
@@ -52,9 +52,12 @@
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Oct) |  |  | 7.0% |
 | 21:30 | CAD | Moderate | Foreign Securities Purchases (Sep) |  |  | -8.47B |
 | 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
-| 21:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | 0.6% |
 | 21:30 | CAD | Low | IPPI (MoM) (Oct) |  |  | 0.4% |
+| 21:30 | CAD | Low | IPPI (YoY) (Oct) |  |  | 0.6% |
 | 21:30 | CAD | Moderate | RMPI (MoM) (Oct) |  |  | 3.5% |
 | 21:30 | CAD | Low | RMPI (YoY) (Oct) |  |  | 2.4% |
+| 21:45 | USD | Low | Fed Collins Speaks |  |  |  |
+| 21:45 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 23:15 | USD | Low | Fed Collins Speaks |  |  |  |
