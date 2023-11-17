@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.0% | 2.2% | 2.2% |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 0.286B |
-| 46 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 494 |
-| 46 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 616 |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -1.767B |  | 0.286B |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 500 |  | 494 |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 618 |  | 616 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -16.3K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.1K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -10.3K |
