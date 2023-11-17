@@ -12,19 +12,19 @@
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | -1.70B |  | 62.20B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 10:00 | SGD | Trade Balance | 6.524B |  | 5.118B |
 | 15:30 | CHF | Industrial Production (YoY) (Q3) | 2.00% |  | -0.70% |
-| 40 min | EUR | Spanish Trade Balance |  |  | -4.40B |
-| 40 min | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
-| 40 min | EUR | Current Account n.s.a. (Sep) |  |  | 30.7B |
-| 18:00 | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
-| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
-| 18:00 | EUR | CPI, n.s.a |  | 124.55 | 124.43 |
-| 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
+| 17:00 | EUR | Spanish Trade Balance | -3.80B |  | -4.40B |
+| 17:00 | EUR | Current Account (Sep) | 31.2B | 20.3B | 30.8B |
+| 17:00 | EUR | Current Account n.s.a. (Sep) | 40.8B |  | 33.7B |
+| 44 min | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 44 min | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 44 min | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
+| 44 min | EUR | CPI, n.s.a |  | 124.55 | 124.43 |
+| 44 min | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
+| 44 min | EUR | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.7% |

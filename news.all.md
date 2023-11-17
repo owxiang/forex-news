@@ -16,28 +16,28 @@
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | Moderate | PPI Input (QoQ) (Q3) | 1.2% |  | -0.2% |
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
 | 10:00 | SGD | Low | Trade Balance | 6.524B |  | 5.118B |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Oct) | -2.4% | -1.5% | -1.5% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Oct) | -0.1% | 0.4% | -1.3% |
-| 15:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | -2.7% | -1.5% | -1.3% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.3% | -1.1% |
+| 15:00 | GBP | Moderate | Retail Sales (YoY) (Oct) | -2.7% | -1.5% | -1.3% |
 | 15:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:30 | CHF | Low | Industrial Production (YoY) (Q3) | 2.00% |  | -0.70% |
-| 10 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 40 min | EUR | Low | Spanish Trade Balance |  |  | -4.40B |
-| 40 min | EUR | Low | Current Account (Sep) |  | 20.3B | 27.7B |
-| 40 min | EUR | Low | Current Account n.s.a. (Sep) |  |  | 30.7B |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
-| 18:00 | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | High | CPI (YoY) (Oct) |  | 2.9% | 4.3% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
-| 18:00 | EUR | Low | CPI, n.s.a |  | 124.55 | 124.43 |
-| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
-| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
+| 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | EUR | Low | Spanish Trade Balance | -3.80B |  | -4.40B |
+| 17:00 | EUR | Low | Current Account (Sep) | 31.2B | 20.3B | 30.8B |
+| 17:00 | EUR | Low | Current Account n.s.a. (Sep) | 40.8B |  | 33.7B |
+| 44 min | EUR | Low | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
+| 44 min | EUR | Moderate | Core CPI (YoY) (Oct) |  | 4.2% | 4.5% |
+| 44 min | EUR | High | CPI (YoY) (Oct) |  | 2.9% | 4.3% |
+| 44 min | EUR | Moderate | CPI (MoM) (Oct) |  | 0.1% | 0.3% |
+| 44 min | EUR | Low | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
+| 44 min | EUR | Low | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
+| 44 min | EUR | Low | CPI, n.s.a |  | 124.55 | 124.43 |
+| 44 min | EUR | Low | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
+| 44 min | EUR | Low | HICP ex Energy and Food (MoM) (Oct) |  | 0.2% | 0.2% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Nov) |  |  | 0.5% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.7% |
