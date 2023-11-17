@@ -12,16 +12,16 @@
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Sep) | -1.70B |  | 62.20B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.483T |  | 3.360T |
 | 05:45 | NZD | PPI Output (QoQ) (Q3) | 0.8% |  | 0.2% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Oct) | 3.40% | 1.50% | 11.10% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Oct) | -3.40% | -6.50% | -13.20% |
 | 10:00 | SGD | Trade Balance | 6.524B |  | 5.118B |
 | 15:30 | CHF | Industrial Production (YoY) (Q3) |  |  | -0.80% |
 | 17:00 | EUR | Spanish Trade Balance |  |  | -4.40B |
 | 17:00 | EUR | Current Account (Sep) |  | 20.3B | 27.7B |
 | 17:00 | EUR | Current Account n.s.a. (Sep) |  |  | 30.7B |
 | 18:00 | EUR | Core CPI (MoM) (Oct) |  | 0.2% | 0.2% |
-| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Oct) |  |  | 4.3% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Oct) |  |  | 0.3% |
 | 18:00 | EUR | CPI, n.s.a |  |  | 124.55 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Oct) |  | 5.0% | 5.5% |
 | 18:00 | EUR | HICP ex Energy and Food (MoM) (Oct) |  |  | 0.2% |
@@ -32,8 +32,8 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 590.78B |
 | 20:00 | BRL | IBC-Br Economic Activity (Sep) |  | 0.20% | -0.77% |
 | 21:30 | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
-| 21:30 | CAD | IPPI (MoM) (Oct) |  |  | 0.4% |
 | 21:30 | CAD | IPPI (YoY) (Oct) |  |  | 0.6% |
+| 21:30 | CAD | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
 | 21:30 | CAD | RMPI (YoY) (Oct) |  |  | 2.4% |
 | 21:45 | USD | Fed Collins Speaks |  |  |  |
 | 21:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
