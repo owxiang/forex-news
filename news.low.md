@@ -31,11 +31,11 @@
 | 19:30 | INR | Deposit Growth | 13.5% |  | 13.4% |
 | 19:30 | INR | FX Reserves, USD | 590.32B |  | 590.78B |
 | 20:00 | BRL | IBC-Br Economic Activity (Sep) | -0.06% | 0.20% | -0.81% |
-| 59 min | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
-| 59 min | CAD | IPPI (YoY) (Oct) |  |  | 0.6% |
-| 59 min | CAD | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
-| 59 min | CAD | RMPI (YoY) (Oct) |  |  | 2.4% |
-| 21:45 | USD | Fed Collins Speaks |  |  |  |
-| 21:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 11 min | CAD | Foreign Securities Purchases by Canadians (Sep) |  |  | 14.94B |
+| 11 min | CAD | IPPI (YoY) (Oct) |  |  | 0.6% |
+| 11 min | CAD | IPPI (MoM) (Oct) |  | 0.2% | 0.4% |
+| 11 min | CAD | RMPI (YoY) (Oct) |  |  | 2.4% |
+| 26 min | USD | Fed Collins Speaks |  |  |  |
+| 26 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:15 | USD | Fed Collins Speaks |  |  |  |
