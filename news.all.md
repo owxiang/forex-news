@@ -26,4 +26,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -130.2K |  | -104.0K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -17.0K |  | -14.9K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 108.9K |  | 89.1K |
-| 17:00 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
+| 42 min | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |

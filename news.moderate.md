@@ -14,4 +14,4 @@
 | 04:30 | BRL | CFTC BRL speculative net positions | 31.7K |  | 26.6K |
 | 04:30 | JPY | CFTC JPY speculative net positions | -130.2K |  | -104.0K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 108.9K |  | 89.1K |
-| 17:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
+| 42 min | CHF | SNB Board Member Jordan Speaks |  |  |  |
