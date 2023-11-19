@@ -15,4 +15,4 @@
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.674% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.796% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.796% |
-| 23:00 | USD | Low | US Leading Index (MoM) (Oct) |  | -0.7% | -0.7% |
+| 23:00 | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.5% | -0.7% |
