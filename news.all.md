@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.270% |  | 5.285% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.230% |  | 5.270% |
-| 48 min | USD | Moderate | 20-Year Bond Auction |  |  | 5.245% |
-| 02:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 02:00 | USD | Moderate | 20-Year Bond Auction | 4.780% |  | 5.245% |
+| 25 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 05:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.3% |
 | 05:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
 | 05:45 | NZD | Low | Exports (Oct) |  |  | 4.87B |
@@ -24,8 +24,8 @@
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
 | 15:00 | CHF | Low | Trade Balance (Oct) |  | 5.870B | 6.316B |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | -17.9% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 37.6% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 10.7% |
 | 15:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 110.90% |
@@ -48,8 +48,8 @@
 | 21:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | -0.1% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
-| 21:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 21:30 | CAD | Low | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
 | 21:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |

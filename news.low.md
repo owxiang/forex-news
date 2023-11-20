@@ -19,8 +19,8 @@
 | 15:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
 | 15:00 | CHF | Trade Balance (Oct) |  | 5.870B | 6.316B |
-| 15:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | EUR | German Car Registration (MoM) (Oct) |  |  | -17.9% |
+| 15:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -0.1% |
 | 15:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 37.6% |
 | 15:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 10.7% |
 | 15:00 | ZAR | Leading Indicators (Sep) |  |  | 110.90% |
