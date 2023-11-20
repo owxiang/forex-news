@@ -8,7 +8,6 @@
 | 18:30 | EUR | German 12-Month Bubill Auction |  |  | 3.729% |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.674% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.796% |
 | 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.796% |
