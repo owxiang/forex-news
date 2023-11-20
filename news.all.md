@@ -6,12 +6,12 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.230% |  | 5.270% |
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.780% |  | 5.245% |
 | 02:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 43 min | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
-| 43 min | KRW | Low | PPI (YoY) (Oct) |  |  | 1.3% |
-| 05:45 | NZD | Low | Exports (Oct) |  |  | 4.87B |
-| 05:45 | NZD | Low | Imports (Oct) |  |  | 7.20B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Oct) |  |  | -15,330M |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Oct) |  | -1,150M | -2,329M |
+| 05:00 | KRW | Low | PPI (MoM) (Oct) | -0.1% |  | 0.4% |
+| 05:00 | KRW | Low | PPI (YoY) (Oct) | 0.8% |  | 1.3% |
+| 31 min | NZD | Low | Exports (Oct) |  |  | 4.87B |
+| 31 min | NZD | Low | Imports (Oct) |  |  | 7.20B |
+| 31 min | NZD | Low | Trade Balance (YoY) (Oct) |  |  | -15,330M |
+| 31 min | NZD | Low | Trade Balance (MoM) (Oct) |  | -1,150M | -2,329M |
 | 07:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 08:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |

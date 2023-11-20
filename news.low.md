@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.270% |  | 5.285% |
 | 00:30 | USD | 6-Month Bill Auction | 5.230% |  | 5.270% |
-| 43 min | KRW | PPI (MoM) (Oct) |  |  | 0.4% |
-| 43 min | KRW | PPI (YoY) (Oct) |  |  | 1.3% |
-| 05:45 | NZD | Exports (Oct) |  |  | 4.87B |
-| 05:45 | NZD | Imports (Oct) |  |  | 7.20B |
-| 05:45 | NZD | Trade Balance (YoY) (Oct) |  |  | -15,330M |
-| 05:45 | NZD | Trade Balance (MoM) (Oct) |  | -1,150M | -2,329M |
+| 05:00 | KRW | PPI (MoM) (Oct) | -0.1% |  | 0.4% |
+| 05:00 | KRW | PPI (YoY) (Oct) | 0.8% |  | 1.3% |
+| 31 min | NZD | Exports (Oct) |  |  | 4.87B |
+| 31 min | NZD | Imports (Oct) |  |  | 7.20B |
+| 31 min | NZD | Trade Balance (YoY) (Oct) |  |  | -15,330M |
+| 31 min | NZD | Trade Balance (MoM) (Oct) |  | -1,150M | -2,329M |
 | 07:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 3.3% |
 | 15:00 | GBP | Car Registration (MoM) (Oct) |  |  | 218.3% |
