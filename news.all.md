@@ -7,7 +7,7 @@
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Oct) | -0.1% | -0.1% | -0.2% |
 | 15:00 | EUR | Low | German PPI (YoY) (Oct) | -11.0% | -11.0% | -14.7% |
-| 18:00 | EUR | Low | Construction Output (MoM) (Sep) |  |  | -1.06% |
+| 43 min | EUR | Low | Construction Output (MoM) (Sep) |  |  | -1.06% |
 | 18:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.729% |
 | 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
