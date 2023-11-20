@@ -10,7 +10,7 @@
 | 05:45 | NZD | Imports (Oct) | 7.11B |  | 7.19B |
 | 05:45 | NZD | Trade Balance (YoY) (Oct) | -14,810M |  | -15,410M |
 | 05:45 | NZD | Trade Balance (MoM) (Oct) | -1,709M | -1,150M | -2,425M |
-| 44 min | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 07:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 3.3% |
 | 15:00 | GBP | Car Registration (MoM) (Oct) |  |  | 218.3% |
 | 15:00 | GBP | Car Registration (YoY) (Oct) |  |  | 21.0% |

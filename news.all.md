@@ -12,8 +12,8 @@
 | 05:45 | NZD | Low | Imports (Oct) | 7.11B |  | 7.19B |
 | 05:45 | NZD | Low | Trade Balance (YoY) (Oct) | -14,810M |  | -15,410M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Oct) | -1,709M | -1,150M | -2,425M |
-| 44 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 08:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 07:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 59 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 3.3% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 218.3% |
