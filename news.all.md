@@ -1,16 +1,62 @@
-## 20 November 2023 - All Forex News
+## 21 November 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 09:15 | CNY | Low | China Loan Prime Rate 5Y (Nov) | 4.20% | 4.20% | 4.20% |
-| 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 15:00 | EUR | Low | German PPI (YoY) (Oct) | -11.0% | -11.0% | -14.7% |
-| 15:00 | EUR | Moderate | German PPI (MoM) (Oct) | -0.1% | -0.1% | -0.2% |
-| 18:00 | EUR | Low | Construction Output (MoM) (Sep) | 0.45% |  | -1.06% |
-| 18:30 | EUR | Low | German 12-Month Bubill Auction | 3.565% |  | 3.729% |
-| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.650% |  | 3.674% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.791% |  | 3.796% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.788% |  | 3.796% |
-| 23:00 | USD | Moderate | US Leading Index (MoM) (Oct) | -0.8% | -0.7% | -0.7% |
+| 9 min | USD | Low | 3-Month Bill Auction |  |  | 5.285% |
+| 9 min | USD | Low | 6-Month Bill Auction |  |  | 5.270% |
+| 02:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.245% |
+| 02:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 05:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.3% |
+| 05:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
+| 05:45 | NZD | Low | Exports (Oct) |  |  | 4.87B |
+| 05:45 | NZD | Low | Imports (Oct) |  |  | 7.20B |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Oct) |  |  | -15,330M |
+| 05:45 | NZD | Low | Trade Balance (MoM) (Oct) |  | -1,150M | -2,329M |
+| 07:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 08:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
+| 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 3.3% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 218.3% |
+| 15:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 21.0% |
+| 15:00 | GBP | Moderate | Labour Productivity |  |  | 0.3% |
+| 15:00 | GBP | Low | Public Sector Net Borrowing (Oct) |  | 21.00B | 13.53B |
+| 15:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -11.812B |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
+| 15:00 | CHF | Low | Trade Balance (Oct) |  | 5.870B | 6.316B |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -0.1% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | -17.9% |
+| 15:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 37.6% |
+| 15:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 10.7% |
+| 15:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 110.90% |
+| 16:00 | CHF | Low | M3 Money Supply (Oct) |  |  | 1,129,200.0B |
+| 16:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 16:30 | HKD | Low | CPI (MoM) (Oct) |  |  | 0.40% |
+| 16:30 | HKD | Low | CPI (YoY) (Oct) |  |  | 2.00% |
+| 17:05 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 18:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 18:15 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 18:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 18:15 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 18:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.710% |
+| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.7% |
+| 20:00 | USD | Low | Milk Auctions |  |  | 3,255.0 |
+| 20:30 | CHF | Low | Trade Balance |  |  | 6.316B |
+| 21:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | 0.02 |
+| 21:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
+| 21:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | -0.1% |
+| 21:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 21:30 | CAD | Low | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
+| 21:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
+| 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
+| 21:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |
+| 21:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 21:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | -2.0% |
+| 23:00 | USD | High | Existing Home Sales (Oct) |  | 3.90M | 3.96M |
+| 23:00 | USD | High | Existing Home Sales |  |  | 3.96M |
+| 23:50 | IDR | Low | Balance of Payments (EUR) (Q3) |  |  | -7.4B |
+| 23:50 | IDR | Low | Current Account % of GDP (Q3) |  |  | -0.50% |
