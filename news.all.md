@@ -10,7 +10,7 @@
 | 18:00 | EUR | Low | Construction Output (MoM) (Sep) | 0.45% |  | -1.06% |
 | 18:30 | EUR | Low | German 12-Month Bubill Auction | 3.565% |  | 3.729% |
 | 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 34 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.674% |
-| 34 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.796% |
-| 34 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.796% |
-| 23:00 | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.7% | -0.7% |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.650% |  | 3.674% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.791% |  | 3.796% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.788% |  | 3.796% |
+| 44 min | USD | Moderate | US Leading Index (MoM) (Oct) |  | -0.7% | -0.7% |
