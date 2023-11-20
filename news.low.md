@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 3 min | CNY | China Loan Prime Rate 5Y (Nov) |  | 4.20% | 4.20% |
+| 09:15 | CNY | China Loan Prime Rate 5Y (Nov) | 4.20% | 4.20% | 4.20% |
 | 15:00 | EUR | German PPI (YoY) (Oct) |  | -11.0% | -14.7% |
 | 18:00 | EUR | Construction Output (MoM) (Sep) |  |  | -1.06% |
 | 18:30 | EUR | German 12-Month Bubill Auction |  |  | 3.729% |
