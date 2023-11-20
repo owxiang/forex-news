@@ -7,6 +7,6 @@
 | 18:00 | EUR | Construction Output (MoM) (Sep) | 0.45% |  | -1.06% |
 | 18:30 | EUR | German 12-Month Bubill Auction | 3.565% |  | 3.729% |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.674% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.796% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.796% |
+| 34 min | EUR | French 12-Month BTF Auction |  |  | 3.674% |
+| 34 min | EUR | French 3-Month BTF Auction |  |  | 3.796% |
+| 34 min | EUR | French 6-Month BTF Auction |  |  | 3.796% |
