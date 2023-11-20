@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | USD | 3-Month Bill Auction |  |  | 5.285% |
-| 9 min | USD | 6-Month Bill Auction |  |  | 5.270% |
+| 00:30 | USD | 3-Month Bill Auction | 5.270% |  | 5.285% |
+| 00:30 | USD | 6-Month Bill Auction | 5.230% |  | 5.270% |
 | 05:00 | KRW | PPI (YoY) (Oct) |  |  | 1.3% |
 | 05:00 | KRW | PPI (MoM) (Oct) |  |  | 0.4% |
 | 05:45 | NZD | Exports (Oct) |  |  | 4.87B |

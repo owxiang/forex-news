@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 20-Year Bond Auction |  |  | 5.245% |
+| 48 min | USD | 20-Year Bond Auction |  |  | 5.245% |
 | 02:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 08:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 08:30 | AUD | RBA Meeting Minutes |  |  |  |

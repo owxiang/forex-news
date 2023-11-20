@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 9 min | USD | Low | 3-Month Bill Auction |  |  | 5.285% |
-| 9 min | USD | Low | 6-Month Bill Auction |  |  | 5.270% |
-| 02:00 | USD | Moderate | 20-Year Bond Auction |  |  | 5.245% |
+| 00:30 | USD | Low | 3-Month Bill Auction | 5.270% |  | 5.285% |
+| 00:30 | USD | Low | 6-Month Bill Auction | 5.230% |  | 5.270% |
+| 48 min | USD | Moderate | 20-Year Bond Auction |  |  | 5.245% |
 | 02:45 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 05:00 | KRW | Low | PPI (YoY) (Oct) |  |  | 1.3% |
 | 05:00 | KRW | Low | PPI (MoM) (Oct) |  |  | 0.4% |
