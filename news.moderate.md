@@ -18,4 +18,4 @@
 | 21:30 | CAD | CPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
 | 21:30 | CAD | New Housing Price Index (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
 | 21:45 | EUR | ECB McCaul Speaks |  |  |  |
-| 44 min | USD | Existing Home Sales (MoM) (Oct) |  |  | -2.0% |
+| 23:00 | USD | Existing Home Sales (MoM) (Oct) | -4.1% |  | -2.2% |

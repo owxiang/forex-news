@@ -17,8 +17,8 @@
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | -2.9% |  | 2.8% |
 | 11:00 | IDR | Low | Balance of Payments (EUR) (Q3) | -1.5B |  | -7.4B |
 | 11:00 | IDR | Low | Current Account % of GDP (Q3) | -0.20% |  | -0.50% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Oct) | -43.7% |  | 218.3% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Oct) | 14.3% |  | 21.0% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Oct) | -43.7% |  | 218.3% |
 | 15:00 | GBP | Moderate | Labour Productivity | -0.2% |  | 0.7% |
 | 15:00 | GBP | Low | Public Sector Net Borrowing (Oct) | 13.97B | 21.00B | 13.72B |
 | 15:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) | 13.329B |  | -11.724B |
@@ -42,6 +42,8 @@
 | 18:15 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 18:30 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.710% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.7% |
+| 20:00 | USD | Low | Milk Auctions | 3,268.0 |  | 3,255.0 |
 | 21:30 | USD | Low | Chicago Fed National Activity (Oct) | -0.49 |  | -0.02 |
 | 21:30 | CAD | Low | Common CPI (YoY) (Oct) | 4.2% | 4.3% | 4.4% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Oct) | 0.3% |  | -0.1% |
@@ -53,8 +55,5 @@
 | 21:30 | CAD | Low | Trimmed CPI (YoY) (Oct) | 3.5% | 3.6% | 3.7% |
 | 21:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) | 3.4% |  | 3.0% |
-| 44 min | USD | Moderate | Existing Home Sales (MoM) (Oct) |  |  | -2.0% |
-| 44 min | USD | High | Existing Home Sales (Oct) |  | 3.90M | 3.96M |
-| 44 min | USD | High | Existing Home Sales |  |  | 3.96M |
-| 44 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.7% |
-| 44 min | USD | Low | Milk Auctions |  |  | 3,255.0 |
+| 23:00 | USD | High | Existing Home Sales (Oct) | 3.79M | 3.90M | 3.95M |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Oct) | -4.1% |  | -2.2% |
