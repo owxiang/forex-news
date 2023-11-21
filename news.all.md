@@ -7,10 +7,10 @@
 | 02:00 | USD | Moderate | 10-Year TIPS Auction | 2.180% |  | 2.094% |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
-| 07:30 | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
-| 08:00 | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
-| 08:00 | SGD | Low | GDP (QoQ) |  | 1.0% | 0.1% |
-| 08:00 | SGD | Low | GDP (YoY) |  | 0.7% | 0.5% |
+| 13 min | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
+| 43 min | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
+| 43 min | SGD | Low | GDP (YoY) |  | 0.7% | 0.5% |
+| 43 min | SGD | Low | GDP (QoQ) |  | 1.0% | 0.1% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Oct) |  |  | 0.2% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Oct) |  |  | 4.5% |
 | 16:00 | ZAR | Low | CPI (MoM) (Oct) |  |  | 0.6% |
