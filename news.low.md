@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:30 | AUD | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | AUD | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
-| 08:00 | SGD | GDP (YoY) |  | 0.7% | 0.5% |
 | 08:00 | SGD | GDP (QoQ) |  | 1.0% | 0.1% |
+| 08:00 | SGD | GDP (YoY) |  | 0.7% | 0.5% |
 | 16:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Oct) |  |  | 5.4% |
