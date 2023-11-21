@@ -14,18 +14,18 @@
 | 10:00 | NZD | Credit Card Spending (YoY) | -2.9% |  | 2.8% |
 | 11:00 | IDR | Balance of Payments (EUR) (Q3) | -1.5B |  | -7.4B |
 | 11:00 | IDR | Current Account % of GDP (Q3) | -0.20% |  | -0.50% |
-| 15:00 | GBP | Car Registration (YoY) (Oct) |  |  | 21.0% |
-| 15:00 | GBP | Car Registration (MoM) (Oct) |  |  | 218.3% |
-| 15:00 | GBP | Public Sector Net Borrowing (Oct) |  | 21.00B | 13.53B |
-| 15:00 | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -11.812B |
-| 15:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
-| 15:00 | CHF | Trade Balance (Oct) |  | 5.870B | 6.316B |
-| 15:00 | EUR | German Car Registration (MoM) (Oct) |  |  | -17.9% |
-| 15:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -0.1% |
-| 15:00 | EUR | French Car Registration (YoY) (Oct) |  |  | 10.7% |
-| 15:00 | EUR | French Car Registration (MoM) (Oct) |  |  | 37.6% |
-| 15:00 | ZAR | Leading Indicators (Sep) |  |  | 110.90% |
+| 39 min | GBP | Car Registration (MoM) (Oct) |  |  | 218.3% |
+| 39 min | GBP | Car Registration (YoY) (Oct) |  |  | 21.0% |
+| 39 min | GBP | Public Sector Net Borrowing (Oct) |  | 21.00B | 13.53B |
+| 39 min | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -11.812B |
+| 39 min | EUR | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
+| 39 min | EUR | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
+| 39 min | CHF | Trade Balance (Oct) |  | 5.870B | 6.316B |
+| 39 min | EUR | German Car Registration (YoY) (Oct) |  |  | -0.1% |
+| 39 min | EUR | German Car Registration (MoM) (Oct) |  |  | -17.9% |
+| 39 min | EUR | French Car Registration (YoY) (Oct) |  |  | 10.7% |
+| 39 min | EUR | French Car Registration (MoM) (Oct) |  |  | 37.6% |
+| 39 min | ZAR | Leading Indicators (Sep) |  |  | 110.90% |
 | 16:00 | CHF | M3 Money Supply (Oct) |  |  | 1,129.2B |
 | 16:30 | HKD | CPI (MoM) (Oct) |  |  | 0.40% |
 | 16:30 | HKD | CPI (YoY) (Oct) |  | 2.10% | 2.00% |

@@ -17,19 +17,19 @@
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | -2.9% |  | 2.8% |
 | 11:00 | IDR | Low | Balance of Payments (EUR) (Q3) | -1.5B |  | -7.4B |
 | 11:00 | IDR | Low | Current Account % of GDP (Q3) | -0.20% |  | -0.50% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Oct) |  |  | 21.0% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Oct) |  |  | 218.3% |
-| 15:00 | GBP | Moderate | Labour Productivity |  |  | 0.7% |
-| 15:00 | GBP | Low | Public Sector Net Borrowing (Oct) |  | 21.00B | 13.53B |
-| 15:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -11.812B |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
-| 15:00 | CHF | Low | Trade Balance (Oct) |  | 5.870B | 6.316B |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Oct) |  |  | -17.9% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -0.1% |
-| 15:00 | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 10.7% |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 37.6% |
-| 15:00 | ZAR | Low | Leading Indicators (Sep) |  |  | 110.90% |
+| 39 min | GBP | Low | Car Registration (MoM) (Oct) |  |  | 218.3% |
+| 39 min | GBP | Low | Car Registration (YoY) (Oct) |  |  | 21.0% |
+| 39 min | GBP | Moderate | Labour Productivity |  |  | 0.7% |
+| 39 min | GBP | Low | Public Sector Net Borrowing (Oct) |  | 21.00B | 13.53B |
+| 39 min | GBP | Low | Public Sector Net Cash Requirement (Oct) |  |  | -11.812B |
+| 39 min | EUR | Low | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
+| 39 min | EUR | Low | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
+| 39 min | CHF | Low | Trade Balance (Oct) |  | 5.870B | 6.316B |
+| 39 min | EUR | Low | German Car Registration (YoY) (Oct) |  |  | -0.1% |
+| 39 min | EUR | Low | German Car Registration (MoM) (Oct) |  |  | -17.9% |
+| 39 min | EUR | Low | French Car Registration (YoY) (Oct) |  |  | 10.7% |
+| 39 min | EUR | Low | French Car Registration (MoM) (Oct) |  |  | 37.6% |
+| 39 min | ZAR | Low | Leading Indicators (Sep) |  |  | 110.90% |
 | 16:00 | CHF | Low | M3 Money Supply (Oct) |  |  | 1,129.2B |
 | 16:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 16:30 | HKD | Low | CPI (MoM) (Oct) |  |  | 0.40% |
@@ -46,8 +46,8 @@
 | 21:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | -0.1% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
-| 21:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 21:30 | CAD | Low | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
 | 21:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |

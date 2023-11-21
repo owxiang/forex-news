@@ -5,7 +5,7 @@
 | 02:00 | USD | 20-Year Bond Auction | 4.780% |  | 5.245% |
 | 02:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 08:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 15:00 | GBP | Labour Productivity |  |  | 0.7% |
+| 39 min | GBP | Labour Productivity |  |  | 0.7% |
 | 16:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 17:05 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 18:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
