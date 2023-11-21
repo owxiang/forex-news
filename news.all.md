@@ -6,7 +6,7 @@
 | 01:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 02:00 | USD | Moderate | 10-Year TIPS Auction | 2.180% |  | 2.094% |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.467M | 1.335M |
+| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.467M | 1.335M |
 | 07:30 | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | SGD | Low | GDP (YoY) |  | 0.7% | 0.5% |
