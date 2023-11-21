@@ -13,9 +13,9 @@
 | 18:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 18:15 | GBP | Inflation Report Hearings |  |  |  |
 | 18:15 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 10 min | CAD | Core CPI (MoM) (Oct) |  |  | -0.1% |
-| 10 min | CAD | Core CPI (YoY) (Oct) |  |  | 2.8% |
-| 10 min | CAD | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 10 min | CAD | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
-| 25 min | EUR | ECB McCaul Speaks |  |  |  |
-| 23:00 | USD | Existing Home Sales (MoM) (Oct) |  |  | -2.0% |
+| 21:30 | CAD | Core CPI (MoM) (Oct) | 0.3% |  | -0.1% |
+| 21:30 | CAD | Core CPI (YoY) (Oct) | 2.7% |  | 2.8% |
+| 21:30 | CAD | CPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
+| 21:30 | CAD | New Housing Price Index (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
+| 21:45 | EUR | ECB McCaul Speaks |  |  |  |
+| 44 min | USD | Existing Home Sales (MoM) (Oct) |  |  | -2.0% |
