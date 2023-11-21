@@ -13,8 +13,8 @@
 | 18:15 | GBP | BoE MPC Member Mann |  |  |  |
 | 18:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 18:15 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 21:30 | CAD | Core CPI (MoM) (Oct) |  |  | -0.1% |
 | 21:30 | CAD | Core CPI (YoY) (Oct) |  |  | 2.8% |
+| 21:30 | CAD | Core CPI (MoM) (Oct) |  |  | -0.1% |
 | 21:30 | CAD | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
 | 21:30 | CAD | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
 | 21:45 | EUR | ECB McCaul Speaks |  |  |  |
