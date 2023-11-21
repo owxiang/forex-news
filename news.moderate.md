@@ -4,6 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 01:15 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 02:00 | USD | 10-Year TIPS Auction | 2.180% |  | 2.094% |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | 1.467M | 1.335M |
 | 17:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | ECB Financial Stability Review |  |  |  |

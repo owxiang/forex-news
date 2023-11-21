@@ -2,15 +2,14 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | USD | 10-Year TIPS Auction |  |  | 2.094% |
 | 07:30 | AUD | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | AUD | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | SGD | GDP (YoY) |  | 0.7% | 0.5% |
 | 08:00 | SGD | GDP (QoQ) |  | 1.0% | 0.1% |
-| 16:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.5% |
-| 16:00 | ZAR | CPI (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Oct) |  |  | 5.4% |
+| 16:00 | ZAR | CPI (MoM) (Oct) |  |  | 0.6% |
 | 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 19:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -25 | -26 |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
