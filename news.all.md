@@ -17,8 +17,8 @@
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | -2.9% |  | 2.8% |
 | 11:00 | IDR | Low | Balance of Payments (EUR) (Q3) | -1.5B |  | -7.4B |
 | 11:00 | IDR | Low | Current Account % of GDP (Q3) | -0.20% |  | -0.50% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Oct) | 14.3% |  | 21.0% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Oct) | -43.7% |  | 218.3% |
+| 15:00 | GBP | Low | Car Registration (YoY) (Oct) | 14.3% |  | 21.0% |
 | 15:00 | GBP | Moderate | Labour Productivity | -0.2% |  | 0.7% |
 | 15:00 | GBP | Low | Public Sector Net Borrowing (Oct) | 13.97B | 21.00B | 13.72B |
 | 15:00 | GBP | Low | Public Sector Net Cash Requirement (Oct) | 13.329B |  | -11.724B |
@@ -41,16 +41,16 @@
 | 18:15 | GBP | Moderate | Inflation Report Hearings |  |  |  |
 | 18:15 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 18:30 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.710% |
-| 11 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 21:30 | USD | Low | Chicago Fed National Activity (Oct) |  |  | 0.02 |
-| 21:30 | CAD | Low | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
-| 21:30 | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
-| 21:30 | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | -0.1% |
-| 21:30 | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
-| 21:30 | CAD | Low | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
-| 21:30 | CAD | Low | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
-| 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
-| 21:30 | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 58 min | USD | Low | Chicago Fed National Activity (Oct) |  |  | 0.02 |
+| 58 min | CAD | Low | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
+| 58 min | CAD | Moderate | Core CPI (MoM) (Oct) |  |  | -0.1% |
+| 58 min | CAD | Moderate | Core CPI (YoY) (Oct) |  |  | 2.8% |
+| 58 min | CAD | Moderate | CPI (MoM) (Oct) |  | 0.1% | -0.1% |
+| 58 min | CAD | Low | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
+| 58 min | CAD | Low | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
+| 58 min | CAD | Moderate | New Housing Price Index (MoM) (Oct) |  | 0.0% | -0.2% |
+| 58 min | CAD | Low | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |
 | 21:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
 | 23:00 | USD | High | Existing Home Sales |  |  | 3.96M |

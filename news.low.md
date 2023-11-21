@@ -14,8 +14,8 @@
 | 10:00 | NZD | Credit Card Spending (YoY) | -2.9% |  | 2.8% |
 | 11:00 | IDR | Balance of Payments (EUR) (Q3) | -1.5B |  | -7.4B |
 | 11:00 | IDR | Current Account % of GDP (Q3) | -0.20% |  | -0.50% |
-| 15:00 | GBP | Car Registration (YoY) (Oct) | 14.3% |  | 21.0% |
 | 15:00 | GBP | Car Registration (MoM) (Oct) | -43.7% |  | 218.3% |
+| 15:00 | GBP | Car Registration (YoY) (Oct) | 14.3% |  | 21.0% |
 | 15:00 | GBP | Public Sector Net Borrowing (Oct) | 13.97B | 21.00B | 13.72B |
 | 15:00 | GBP | Public Sector Net Cash Requirement (Oct) | 13.329B |  | -11.724B |
 | 15:00 | EUR | Italian Car Registration (MoM) (Oct) | 2.1% |  | 70.9% |
@@ -30,12 +30,12 @@
 | 16:30 | HKD | CPI (MoM) (Oct) | 1.00% |  | 0.40% |
 | 16:30 | HKD | CPI (YoY) (Oct) | 2.70% | 2.10% | 2.00% |
 | 18:30 | EUR | German 5-Year Bobl Auction | 2.560% |  | 2.710% |
-| 11 min | BRL | BCB Focus Market Readout |  |  |  |
-| 21:30 | USD | Chicago Fed National Activity (Oct) |  |  | 0.02 |
-| 21:30 | CAD | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
-| 21:30 | CAD | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
-| 21:30 | CAD | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
-| 21:30 | CAD | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 58 min | USD | Chicago Fed National Activity (Oct) |  |  | 0.02 |
+| 58 min | CAD | Common CPI (YoY) (Oct) |  | 4.3% | 4.4% |
+| 58 min | CAD | CPI (YoY) (Oct) |  | 3.2% | 3.8% |
+| 58 min | CAD | Median CPI (YoY) (Oct) |  | 3.6% | 3.8% |
+| 58 min | CAD | Trimmed CPI (YoY) (Oct) |  | 3.6% | 3.7% |
 | 21:55 | USD | Redbook (YoY) |  |  | 3.0% |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.7% |
 | 23:00 | USD | Milk Auctions |  |  | 3,255.0 |
