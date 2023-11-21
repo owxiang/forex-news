@@ -3,18 +3,18 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 02:00 | USD | Low | 10-Year TIPS Auction |  |  | 2.094% |
+| 01:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 43 min | USD | Low | 10-Year TIPS Auction |  |  | 2.094% |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.467M | 1.335M |
 | 07:30 | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
 | 08:00 | AUD | Low | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
-| 08:00 | SGD | Low | GDP (QoQ) |  | 1.0% | 0.1% |
 | 08:00 | SGD | Low | GDP (YoY) |  | 0.7% | 0.5% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Oct) |  |  | 4.5% |
+| 08:00 | SGD | Low | GDP (QoQ) |  | 1.0% | 0.1% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Oct) |  |  | 0.2% |
-| 16:00 | ZAR | Low | CPI (YoY) (Oct) |  |  | 5.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Oct) |  |  | 4.5% |
 | 16:00 | ZAR | Low | CPI (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | ZAR | Low | CPI (YoY) (Oct) |  |  | 5.4% |
 | 16:35 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 17:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
@@ -25,8 +25,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 133.2 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 170.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 354.3 |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Sep) |  |  | -0.4% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
 | 20:30 | EUR | Low | German Import Price Index (MoM) |  |  | 1.6% |
 | 21:30 | USD | Low | Continuing Jobless Claims |  |  | 1,865K |
 | 21:30 | USD | High | Core Durable Goods Orders (MoM) (Oct) |  | 0.1% | 0.5% |

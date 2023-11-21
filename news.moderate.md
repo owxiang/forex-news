@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 01:15 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | 1.467M | 1.335M |
 | 17:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | ECB Financial Stability Review |  |  |  |
