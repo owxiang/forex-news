@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.270% |  | 5.285% |
 | 00:30 | USD | 6-Month Bill Auction | 5.230% |  | 5.270% |
-| 05:00 | KRW | PPI (MoM) (Oct) | -0.1% |  | 0.5% |
 | 05:00 | KRW | PPI (YoY) (Oct) | 0.8% |  | 1.4% |
+| 05:00 | KRW | PPI (MoM) (Oct) | -0.1% |  | 0.5% |
 | 05:45 | NZD | Exports (Oct) | 5.40B |  | 4.77B |
 | 05:45 | NZD | Imports (Oct) | 7.11B |  | 7.19B |
 | 05:45 | NZD | Trade Balance (YoY) (Oct) | -14,810M |  | -15,410M |
@@ -18,8 +18,8 @@
 | 15:00 | GBP | Car Registration (MoM) (Oct) |  |  | 218.3% |
 | 15:00 | GBP | Public Sector Net Borrowing (Oct) |  | 21.00B | 13.53B |
 | 15:00 | GBP | Public Sector Net Cash Requirement (Oct) |  |  | -11.812B |
-| 15:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Oct) |  |  | 22.7% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Oct) |  |  | 70.9% |
 | 15:00 | CHF | Trade Balance (Oct) |  | 5.870B | 6.316B |
 | 15:00 | EUR | German Car Registration (MoM) (Oct) |  |  | -17.9% |
 | 15:00 | EUR | German Car Registration (YoY) (Oct) |  |  | -0.1% |
