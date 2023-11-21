@@ -1,21 +1,17 @@
-## 21 November 2023 - Moderate Impact Forex News
+## 22 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 20-Year Bond Auction | 4.780% |  | 5.245% |
-| 02:45 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 08:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 15:00 | GBP | Labour Productivity | -0.2% |  | 0.7% |
-| 16:30 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 17:05 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 18:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:15 | GBP | BoE MPC Member Mann |  |  |  |
-| 18:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 18:15 | GBP | Inflation Report Hearings |  |  |  |
-| 18:15 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 21:30 | CAD | Core CPI (MoM) (Oct) | 0.3% |  | -0.1% |
-| 21:30 | CAD | Core CPI (YoY) (Oct) | 2.7% |  | 2.8% |
-| 21:30 | CAD | CPI (MoM) (Oct) | 0.1% | 0.1% | -0.1% |
-| 21:30 | CAD | New Housing Price Index (MoM) (Oct) | 0.0% | 0.0% | -0.2% |
-| 21:45 | EUR | ECB McCaul Speaks |  |  |  |
-| 23:00 | USD | Existing Home Sales (MoM) (Oct) | -4.1% |  | -2.2% |
+| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | 1.467M | 1.335M |
+| 17:00 | GBP | BoE Financial Stability Report |  |  |  |
+| 17:00 | EUR | ECB Financial Stability Review |  |  |  |
+| 21:30 | USD | Durable Goods Orders (MoM) (Oct) |  | -3.2% | 4.7% |
+| 21:30 | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
+| 22:10 | EUR | ECB's Elderson Speaks |  |  |  |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
+| 23:00 | USD | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |
+| 23:00 | USD | Michigan Consumer Sentiment (Nov) |  | 60.4 | 63.8 |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.925M |

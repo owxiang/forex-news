@@ -1,41 +1,39 @@
-## 21 November 2023 - Low Impact Forex News
+## 22 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 3-Month Bill Auction | 5.270% |  | 5.285% |
-| 00:30 | USD | 6-Month Bill Auction | 5.230% |  | 5.270% |
-| 05:00 | KRW | PPI (YoY) (Oct) | 0.8% |  | 1.4% |
-| 05:00 | KRW | PPI (MoM) (Oct) | -0.1% |  | 0.5% |
-| 05:45 | NZD | Exports (Oct) | 5.40B |  | 4.77B |
-| 05:45 | NZD | Imports (Oct) | 7.11B |  | 7.19B |
-| 05:45 | NZD | Trade Balance (YoY) (Oct) | -14,810M |  | -15,410M |
-| 05:45 | NZD | Trade Balance (MoM) (Oct) | -1,709M | -1,150M | -2,425M |
-| 07:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 10:00 | NZD | Credit Card Spending (YoY) | -2.9% |  | 2.8% |
-| 11:00 | IDR | Balance of Payments (EUR) (Q3) | -1.5B |  | -7.4B |
-| 11:00 | IDR | Current Account % of GDP (Q3) | -0.20% |  | -0.50% |
-| 15:00 | GBP | Car Registration (YoY) (Oct) | 14.3% |  | 21.0% |
-| 15:00 | GBP | Car Registration (MoM) (Oct) | -43.7% |  | 218.3% |
-| 15:00 | GBP | Public Sector Net Borrowing (Oct) | 13.97B | 21.00B | 13.72B |
-| 15:00 | GBP | Public Sector Net Cash Requirement (Oct) | 13.329B |  | -11.724B |
-| 15:00 | EUR | Italian Car Registration (YoY) (Oct) | 20.0% |  | 22.7% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Oct) | 2.1% |  | 70.9% |
-| 15:00 | CHF | Trade Balance (Oct) | 4.600B | 5.870B | 6.282B |
-| 15:00 | EUR | German Car Registration (YoY) (Oct) | 4.9% |  | -0.1% |
-| 15:00 | EUR | German Car Registration (MoM) (Oct) | -2.5% |  | -17.9% |
-| 15:00 | EUR | French Car Registration (YoY) (Oct) | 21.9% |  | 10.7% |
-| 15:00 | EUR | French Car Registration (MoM) (Oct) | -2.5% |  | 37.6% |
-| 15:00 | ZAR | Leading Indicators (Sep) | 111.60% |  | 110.90% |
-| 16:00 | CHF | M3 Money Supply (Oct) | 1,132.5B |  | 1,127.5B |
-| 16:30 | HKD | CPI (MoM) (Oct) | 1.00% |  | 0.40% |
-| 16:30 | HKD | CPI (YoY) (Oct) | 2.70% | 2.10% | 2.00% |
-| 18:30 | EUR | German 5-Year Bobl Auction | 2.560% |  | 2.710% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | NZD | GlobalDairyTrade Price Index |  |  | -0.7% |
-| 20:00 | USD | Milk Auctions | 3,268.0 |  | 3,255.0 |
-| 21:30 | USD | Chicago Fed National Activity (Oct) | -0.49 |  | -0.02 |
-| 21:30 | CAD | Common CPI (YoY) (Oct) | 4.2% | 4.3% | 4.4% |
-| 21:30 | CAD | CPI (YoY) (Oct) | 3.1% | 3.2% | 3.8% |
-| 21:30 | CAD | Median CPI (YoY) (Oct) | 3.6% | 3.6% | 3.9% |
-| 21:30 | CAD | Trimmed CPI (YoY) (Oct) | 3.5% | 3.6% | 3.7% |
-| 21:55 | USD | Redbook (YoY) | 3.4% |  | 3.0% |
+| 02:00 | USD | 10-Year TIPS Auction |  |  | 2.094% |
+| 07:30 | AUD | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
+| 08:00 | AUD | MI Leading Index (MoM) (Oct) |  |  | 0.1% |
+| 08:00 | SGD | GDP (QoQ) |  | 1.0% | 0.1% |
+| 08:00 | SGD | GDP (YoY) |  | 0.7% | 0.5% |
+| 16:00 | ZAR | Core CPI (YoY) (Oct) |  |  | 4.5% |
+| 16:00 | ZAR | Core CPI (MoM) (Oct) |  |  | 0.2% |
+| 16:00 | ZAR | CPI (YoY) (Oct) |  |  | 5.4% |
+| 16:00 | ZAR | CPI (MoM) (Oct) |  |  | 0.6% |
+| 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 19:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -25 | -26 |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
+| 20:00 | USD | MBA Purchase Index |  |  | 133.2 |
+| 20:00 | USD | Mortgage Market Index |  |  | 170.5 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 354.3 |
+| 20:00 | MXN | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
+| 20:00 | MXN | Retail Sales (MoM) (Sep) |  |  | -0.4% |
+| 20:30 | EUR | German Import Price Index (MoM) |  |  | 1.6% |
+| 21:30 | USD | Continuing Jobless Claims |  |  | 1,865K |
+| 21:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 5.7% |
+| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.1% | 0.6% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
+| 21:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
+| 22:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 23:00 | USD | Michigan Current Conditions (Nov) |  | 65.7 | 65.7 |
+| 23:00 | EUR | Consumer Confidence (Nov) |  | -17.6 | -17.9 |
+| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
+| 23:30 | USD | Crude Oil Imports |  |  | -0.385M |
+| 23:30 | USD | Distillate Fuel Production |  |  | 0.053M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.422M |
+| 23:30 | USD | Gasoline Production |  |  | -0.813M |
+| 23:30 | USD | Heating Oil Stockpiles |  |  | -0.148M |
+| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 23:30 | USD | Gasoline Inventories |  |  | -1.540M |
