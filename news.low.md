@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 07:30 | AUD | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
 | 07:30 | AUD | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
-| 08:00 | SGD | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 08:00 | SGD | GDP (YoY) | 1.1% | 0.7% | 0.5% |
-| 16:00 | ZAR | Core CPI (MoM) (Oct) |  | 0.3% | 0.2% |
+| 08:00 | SGD | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 16:00 | ZAR | Core CPI (YoY) (Oct) |  | 4.3% | 4.5% |
-| 16:00 | ZAR | CPI (YoY) (Oct) |  | 5.5% | 5.4% |
+| 16:00 | ZAR | Core CPI (MoM) (Oct) |  | 0.3% | 0.2% |
 | 16:00 | ZAR | CPI (MoM) (Oct) |  | 0.5% | 0.6% |
+| 16:00 | ZAR | CPI (YoY) (Oct) |  | 5.5% | 5.4% |
 | 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 19:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -25 | -26 |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
@@ -17,8 +17,8 @@
 | 20:00 | USD | MBA Purchase Index |  |  | 133.2 |
 | 20:00 | USD | Mortgage Market Index |  |  | 170.5 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 354.3 |
-| 20:00 | MXN | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
 | 20:00 | MXN | Retail Sales (MoM) (Sep) |  | 0.3% | -0.4% |
+| 20:00 | MXN | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
 | 20:30 | EUR | German Import Price Index (MoM) |  |  | 1.6% |
 | 21:30 | USD | Continuing Jobless Claims |  |  | 1,865K |
 | 21:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 5.7% |
