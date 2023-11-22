@@ -1,35 +1,31 @@
-## 22 November 2023 - Low Impact Forex News
+## 23 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:30 | AUD | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
-| 08:00 | SGD | GDP (YoY) | 1.1% | 0.7% | 0.5% |
-| 08:00 | SGD | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
-| 16:00 | ZAR | Core CPI (YoY) (Oct) | 4.4% | 4.3% | 4.5% |
-| 16:00 | ZAR | Core CPI (MoM) (Oct) | 0.4% | 0.3% | 0.2% |
-| 16:00 | ZAR | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
-| 16:00 | ZAR | CPI (MoM) (Oct) | 0.9% | 0.5% | 0.6% |
-| 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 19:00 | GBP | CBI Industrial Trends Orders (Nov) | -35 | -25 | -26 |
-| 20:00 | USD | MBA 30-Year Mortgage Rate | 7.41% |  | 7.61% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) | 3.0% |  | 2.8% |
-| 20:00 | USD | MBA Purchase Index | 138.4 |  | 133.2 |
-| 20:00 | USD | Mortgage Market Index | 175.6 |  | 170.5 |
-| 20:00 | USD | Mortgage Refinance Index | 359.9 |  | 354.3 |
-| 20:00 | MXN | Retail Sales (MoM) (Sep) | -0.2% | 0.3% | -0.5% |
-| 20:00 | MXN | Retail Sales (YoY) (Sep) | 2.3% | 3.6% | 3.2% |
-| 21:30 | USD | Continuing Jobless Claims | 1,840K |  | 1,862K |
-| 21:30 | USD | Durables Excluding Defense (MoM) (Oct) | -6.7% |  | 5.0% |
-| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) | -0.1% | 0.1% | -0.2% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 220.00K |  | 220.75K |
-| 22:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 23:00 | USD | Michigan Current Conditions (Nov) | 68.3 | 65.7 | 70.6 |
-| 23:00 | EUR | Consumer Confidence (Nov) | -16.9 | -17.6 | -17.8 |
-| 14 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
-| 14 min | USD | Crude Oil Imports |  |  | -0.385M |
-| 14 min | USD | Distillate Fuel Production |  |  | 0.053M |
-| 14 min | USD | EIA Weekly Distillates Stocks |  | -0.761M | -1.422M |
-| 14 min | USD | Gasoline Production |  |  | -0.813M |
-| 14 min | USD | Heating Oil Stockpiles |  |  | -0.148M |
-| 14 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 14 min | USD | Gasoline Inventories |  | -0.150M | -1.540M |
+| 9 min | GBP | CBI Industrial Trends Orders |  |  | -26 |
+| 9 min | USD | 4-Week Bill Auction |  |  | 5.290% |
+| 9 min | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 39 min | USD | Natural Gas Storage |  | 7B | 60B |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.481B |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
+| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.9 |
+| 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.00% |
+| 13:00 | SGD | CPI (MoM) (Oct) |  |  | 0.50% |
+| 13:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 10.7% |
+| 13:00 | SGD | Industrial Production (YoY) (Oct) |  |  | -2.1% |
+| 15:00 | NOK | M3 Money Supply (Oct) |  |  | 3,111.2B |
+| 15:00 | NOK | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
+| 15:00 | NOK | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
+| 15:00 | NOK | House Price Index (YoY) |  |  | -0.50% |
+| 15:00 | NOK | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
+| 15:00 | NOK | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
+| 15:20 | IDR | Loans (YoY) |  |  | 8.96% |
+| 15:30 | IDR | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
+| 15:30 | IDR | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
+| 15:45 | EUR | French Business Survey (Nov) |  | 98 | 98 |
+| 16:15 | EUR | HCOB France Composite PMI (Nov) |  | 45.0 | 44.6 |
+| 16:30 | EUR | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
+| 20:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
+| 20:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
+| 21:00 | ZAR | Prime Rate (Nov) |  |  | 11.75% |
+| 21:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |

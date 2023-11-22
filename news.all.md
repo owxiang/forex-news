@@ -1,53 +1,54 @@
-## 22 November 2023 - All Forex News
+## 23 November 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 01:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 02:00 | USD | Moderate | 10-Year TIPS Auction | 2.180% |  | 2.094% |
-| 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
-| 07:30 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
-| 08:00 | SGD | Low | GDP (YoY) | 1.1% | 0.7% | 0.5% |
-| 08:00 | SGD | Low | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Oct) | 4.4% | 4.3% | 4.5% |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Oct) | 0.4% | 0.3% | 0.2% |
-| 16:00 | ZAR | Low | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
-| 16:00 | ZAR | Low | CPI (MoM) (Oct) | 0.9% | 0.5% | 0.6% |
-| 16:35 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 17:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 17:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
-| 19:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -35 | -25 | -26 |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.41% |  | 7.61% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 3.0% |  | 2.8% |
-| 20:00 | USD | Low | MBA Purchase Index | 138.4 |  | 133.2 |
-| 20:00 | USD | Low | Mortgage Market Index | 175.6 |  | 170.5 |
-| 20:00 | USD | Low | Mortgage Refinance Index | 359.9 |  | 354.3 |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Sep) | -0.2% | 0.3% | -0.5% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Sep) | 2.3% | 3.6% | 3.2% |
-| 20:30 | GBP | High | Autumn Forecast Statement |  |  |  |
-| 21:30 | USD | Low | Continuing Jobless Claims | 1,840K |  | 1,862K |
-| 21:30 | USD | High | Core Durable Goods Orders (MoM) (Oct) | 0.0% | 0.1% | 0.2% |
-| 21:30 | USD | Moderate | Durable Goods Orders (MoM) (Oct) | -5.4% | -3.1% | 4.0% |
-| 21:30 | USD | Low | Durables Excluding Defense (MoM) (Oct) | -6.7% |  | 5.0% |
-| 21:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) | -0.1% | 0.1% | -0.2% |
-| 21:30 | USD | High | Initial Jobless Claims | 209K | 225K | 233K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.00K |  | 220.75K |
-| 22:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 22:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 4.5% | 4.4% | 4.2% |
-| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.2% | 3.0% |
-| 23:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 56.8 | 56.9 | 59.3 |
-| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 61.3 | 60.4 | 63.8 |
-| 23:00 | USD | Low | Michigan Current Conditions (Nov) | 68.3 | 65.7 | 70.6 |
-| 23:00 | EUR | Low | Consumer Confidence (Nov) | -16.9 | -17.6 | -17.8 |
-| 14 min | USD | High | Crude Oil Inventories |  | 1.160M | 3.592M |
-| 14 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
-| 14 min | USD | Low | Crude Oil Imports |  |  | -0.385M |
-| 14 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.925M |
-| 14 min | USD | Low | Distillate Fuel Production |  |  | 0.053M |
-| 14 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.761M | -1.422M |
-| 14 min | USD | Low | Gasoline Production |  |  | -0.813M |
-| 14 min | USD | Low | Heating Oil Stockpiles |  |  | -0.148M |
-| 14 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 14 min | USD | Low | Gasoline Inventories |  | -0.150M | -1.540M |
+| 00:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 9 min | GBP | Low | CBI Industrial Trends Orders |  |  | -26 |
+| 9 min | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
+| 9 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
+| 9 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.0% | 2.0% |
+| 24 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 39 min | USD | Low | Natural Gas Storage |  | 7B | 60B |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.481B |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 618 |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 47.9 |
+| 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.00% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Oct) |  | 3.00% | 3.00% |
+| 13:00 | SGD | Low | CPI (MoM) (Oct) |  |  | 0.50% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Oct) |  | 4.5% | 4.1% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 10.7% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
+| 15:00 | NOK | Low | M3 Money Supply (Oct) |  |  | 3,111.2B |
+| 15:00 | NOK | Low | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
+| 15:00 | NOK | Low | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
+| 15:00 | NOK | Low | House Price Index (YoY) |  |  | -0.50% |
+| 15:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
+| 15:00 | NOK | Low | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
+| 15:20 | IDR | Low | Loans (YoY) |  |  | 8.96% |
+| 15:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
+| 15:30 | IDR | Low | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
+| 15:30 | IDR | Low | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
+| 15:45 | EUR | Low | French Business Survey (Nov) |  | 98 | 98 |
+| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 43.1 | 42.8 |
+| 16:15 | EUR | Low | HCOB France Composite PMI (Nov) |  | 45.0 | 44.6 |
+| 16:15 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.6 | 45.2 |
+| 16:30 | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
+| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 41.2 | 40.8 |
+| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 48.5 | 48.2 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 43.4 | 43.1 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 46.9 | 46.5 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.1 | 47.8 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.7 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 44.8 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.5 | 49.5 |
+| 17:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 20:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
+| 20:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
+| 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 21:00 | ZAR | Moderate | Interest Rate Decision (Nov) |  | 8.25% | 8.25% |
+| 21:00 | ZAR | Low | Prime Rate (Nov) |  |  | 11.75% |
+| 21:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.4% |
+| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |

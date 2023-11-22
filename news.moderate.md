@@ -1,17 +1,27 @@
-## 22 November 2023 - Moderate Impact Forex News
+## 23 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 01:15 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 02:00 | USD | 10-Year TIPS Auction | 2.180% |  | 2.094% |
-| 05:30 | USD | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
-| 17:00 | GBP | BoE Financial Stability Report |  |  |  |
-| 17:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 21:30 | USD | Durable Goods Orders (MoM) (Oct) | -5.4% | -3.1% | 4.0% |
-| 22:10 | EUR | ECB's Elderson Speaks |  |  |  |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 4.5% | 4.4% | 4.2% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.2% | 3.0% |
-| 23:00 | USD | Michigan Consumer Expectations (Nov) | 56.8 | 56.9 | 59.3 |
-| 23:00 | USD | Michigan Consumer Sentiment (Nov) | 61.3 | 60.4 | 63.8 |
-| 14 min | USD | Cushing Crude Oil Inventories |  |  | 1.925M |
+| 00:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 9 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.0% | 2.0% |
+| 24 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 618 |
+| 13:00 | SGD | Core CPI (YoY) (Oct) |  | 3.00% | 3.00% |
+| 13:00 | SGD | CPI (YoY) (Oct) |  | 4.5% | 4.1% |
+| 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
+| 16:15 | EUR | HCOB France Manufacturing PMI (Nov) |  | 43.1 | 42.8 |
+| 16:15 | EUR | HCOB France Services PMI (Nov) |  | 45.6 | 45.2 |
+| 16:30 | EUR | HCOB Germany Manufacturing PMI (Nov) |  | 41.2 | 40.8 |
+| 16:30 | EUR | HCOB Germany Services PMI (Nov) |  | 48.5 | 48.2 |
+| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) |  | 43.4 | 43.1 |
+| 17:00 | EUR | HCOB Eurozone Composite PMI (Nov) |  | 46.9 | 46.5 |
+| 17:00 | EUR | HCOB Eurozone Services PMI (Nov) |  | 48.1 | 47.8 |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.7 |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 44.8 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI |  | 49.5 | 49.5 |
+| 17:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 21:00 | ZAR | Interest Rate Decision (Nov) |  | 8.25% | 8.25% |
+| 21:30 | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
+| 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
