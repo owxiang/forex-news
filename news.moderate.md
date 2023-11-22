@@ -8,11 +8,10 @@
 | 05:30 | USD | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
 | 17:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 9 min | USD | Durable Goods Orders (MoM) (Oct) |  | -3.1% | 4.7% |
-| 9 min | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
-| 49 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
-| 23:00 | USD | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |
-| 23:00 | USD | Michigan Consumer Sentiment (Nov) |  | 60.4 | 63.8 |
+| 21:30 | USD | Durable Goods Orders (MoM) (Oct) | -5.4% | -3.1% | 4.0% |
+| 22:10 | EUR | ECB's Elderson Speaks |  |  |  |
+| 44 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
+| 44 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
+| 44 min | USD | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |
+| 44 min | USD | Michigan Consumer Sentiment (Nov) |  | 60.4 | 63.8 |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.925M |

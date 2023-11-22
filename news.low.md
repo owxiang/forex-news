@@ -5,10 +5,10 @@
 | 07:30 | AUD | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
 | 08:00 | SGD | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 08:00 | SGD | GDP (YoY) | 1.1% | 0.7% | 0.5% |
-| 16:00 | ZAR | Core CPI (MoM) (Oct) | 0.4% | 0.3% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Oct) | 4.4% | 4.3% | 4.5% |
-| 16:00 | ZAR | CPI (MoM) (Oct) | 0.9% | 0.5% | 0.6% |
+| 16:00 | ZAR | Core CPI (MoM) (Oct) | 0.4% | 0.3% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
+| 16:00 | ZAR | CPI (MoM) (Oct) | 0.9% | 0.5% | 0.6% |
 | 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 19:00 | GBP | CBI Industrial Trends Orders (Nov) | -35 | -25 | -26 |
 | 20:00 | USD | MBA 30-Year Mortgage Rate | 7.41% |  | 7.61% |
@@ -18,14 +18,13 @@
 | 20:00 | USD | Mortgage Refinance Index | 359.9 |  | 354.3 |
 | 20:00 | MXN | Retail Sales (MoM) (Sep) | -0.2% | 0.3% | -0.5% |
 | 20:00 | MXN | Retail Sales (YoY) (Sep) | 2.3% | 3.6% | 3.2% |
-| 9 min | USD | Continuing Jobless Claims |  |  | 1,865K |
-| 9 min | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 5.7% |
-| 9 min | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.1% | 0.6% |
-| 9 min | USD | Jobless Claims 4-Week Avg. |  |  | 220.25K |
-| 9 min | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
-| 44 min | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 23:00 | USD | Michigan Current Conditions (Nov) |  | 65.7 | 70.6 |
-| 23:00 | EUR | Consumer Confidence (Nov) |  | -17.6 | -17.9 |
+| 21:30 | USD | Continuing Jobless Claims | 1,840K |  | 1,862K |
+| 21:30 | USD | Durables Excluding Defense (MoM) (Oct) | -6.7% |  | 5.0% |
+| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Oct) | -0.1% | 0.1% | -0.2% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. | 220.00K |  | 220.75K |
+| 22:05 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 44 min | USD | Michigan Current Conditions (Nov) |  | 65.7 | 70.6 |
+| 44 min | EUR | Consumer Confidence (Nov) |  | -17.6 | -17.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.385M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.053M |
