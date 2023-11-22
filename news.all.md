@@ -19,14 +19,14 @@
 | 17:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
 | 18:00 | GBP | High | Autumn Forecast Statement |  |  |  |
-| 42 min | GBP | Low | CBI Industrial Trends Orders (Nov) |  | -25 | -26 |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.61% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.8% |
-| 20:00 | USD | Low | MBA Purchase Index |  |  | 133.2 |
-| 20:00 | USD | Low | Mortgage Market Index |  |  | 170.5 |
-| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 354.3 |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Sep) |  | 0.3% | -0.4% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
+| 19:00 | GBP | Low | CBI Industrial Trends Orders (Nov) | -35 | -25 | -26 |
+| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.61% |
+| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.8% |
+| 47 min | USD | Low | MBA Purchase Index |  |  | 133.2 |
+| 47 min | USD | Low | Mortgage Market Index |  |  | 170.5 |
+| 47 min | USD | Low | Mortgage Refinance Index |  |  | 354.3 |
+| 47 min | MXN | Low | Retail Sales (MoM) (Sep) |  | 0.3% | -0.4% |
+| 47 min | MXN | Low | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
 | 20:30 | EUR | Low | German Import Price Index (MoM) |  |  | 1.6% |
 | 21:30 | USD | Low | Continuing Jobless Claims |  |  | 1,865K |
 | 21:30 | USD | High | Core Durable Goods Orders (MoM) (Oct) |  | 0.1% | 0.5% |
@@ -45,7 +45,7 @@
 | 23:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 60.4 | 63.8 |
 | 23:00 | USD | Low | Michigan Current Conditions (Nov) |  | 65.7 | 70.6 |
 | 23:00 | EUR | Low | Consumer Confidence (Nov) |  | -17.6 | -17.9 |
-| 23:30 | USD | High | Crude Oil Inventories |  | 0.900M | 3.592M |
+| 23:30 | USD | High | Crude Oil Inventories |  | 1.160M | 3.592M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.385M |
 | 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.925M |

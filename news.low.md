@@ -11,14 +11,14 @@
 | 16:00 | ZAR | CPI (MoM) (Oct) | 0.9% | 0.5% | 0.6% |
 | 16:00 | ZAR | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
 | 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 42 min | GBP | CBI Industrial Trends Orders (Nov) |  | -25 | -26 |
-| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
-| 20:00 | USD | MBA Purchase Index |  |  | 133.2 |
-| 20:00 | USD | Mortgage Market Index |  |  | 170.5 |
-| 20:00 | USD | Mortgage Refinance Index |  |  | 354.3 |
-| 20:00 | MXN | Retail Sales (MoM) (Sep) |  | 0.3% | -0.4% |
-| 20:00 | MXN | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
+| 19:00 | GBP | CBI Industrial Trends Orders (Nov) | -35 | -25 | -26 |
+| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |
+| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
+| 47 min | USD | MBA Purchase Index |  |  | 133.2 |
+| 47 min | USD | Mortgage Market Index |  |  | 170.5 |
+| 47 min | USD | Mortgage Refinance Index |  |  | 354.3 |
+| 47 min | MXN | Retail Sales (MoM) (Sep) |  | 0.3% | -0.4% |
+| 47 min | MXN | Retail Sales (YoY) (Sep) |  | 3.6% | 3.2% |
 | 20:30 | EUR | German Import Price Index (MoM) |  |  | 1.6% |
 | 21:30 | USD | Continuing Jobless Claims |  |  | 1,865K |
 | 21:30 | USD | Durables Excluding Defense (MoM) (Oct) |  |  | 5.7% |
