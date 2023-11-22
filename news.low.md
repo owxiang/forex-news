@@ -9,8 +9,8 @@
 | 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.9 |
 | 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.00% |
 | 13:00 | SGD | CPI (MoM) (Oct) |  |  | 0.50% |
-| 13:00 | SGD | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 13:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 10.7% |
+| 13:00 | SGD | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 15:00 | NOK | M3 Money Supply (Oct) |  |  | 3,111.2B |
 | 15:00 | NOK | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
 | 15:00 | NOK | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
