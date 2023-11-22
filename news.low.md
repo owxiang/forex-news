@@ -2,11 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | GBP | CBI Industrial Trends Orders |  |  | -26 |
-| 9 min | USD | 4-Week Bill Auction |  |  | 5.290% |
-| 9 min | USD | 8-Week Bill Auction |  |  | 5.280% |
-| 39 min | USD | Natural Gas Storage |  | 7B | 60B |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.481B |
+| 00:30 | USD | 4-Week Bill Auction | 5.300% |  | 5.290% |
+| 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.280% |
+| 01:00 | USD | Natural Gas Storage | -7B | 7B | 60B |
+| 15 min | BRL | Foreign Exchange Flows |  |  | -1.481B |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.9 |
 | 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.00% |

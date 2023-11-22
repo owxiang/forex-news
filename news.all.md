@@ -3,15 +3,14 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 9 min | GBP | Low | CBI Industrial Trends Orders |  |  | -26 |
-| 9 min | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
-| 9 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
-| 9 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.0% | 2.0% |
-| 24 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 39 min | USD | Low | Natural Gas Storage |  | 7B | 60B |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.481B |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 618 |
+| 00:30 | USD | Low | 4-Week Bill Auction | 5.300% |  | 5.290% |
+| 00:30 | USD | Low | 8-Week Bill Auction | 5.280% |  | 5.280% |
+| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.0% | 2.0% |
+| 00:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 01:00 | USD | Low | Natural Gas Storage | -7B | 7B | 60B |
+| 15 min | BRL | Low | Foreign Exchange Flows |  |  | -1.481B |
+| 45 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
+| 45 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 618 |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 47.9 |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.00% |

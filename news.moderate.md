@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 9 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.0% | 2.0% |
-| 24 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
-| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 618 |
+| 00:30 | USD | Atlanta Fed GDPNow (Q4) |  | 2.0% | 2.0% |
+| 00:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 45 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
+| 45 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 618 |
 | 13:00 | SGD | Core CPI (YoY) (Oct) |  | 3.00% | 3.00% |
 | 13:00 | SGD | CPI (YoY) (Oct) |  | 4.5% | 4.1% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
