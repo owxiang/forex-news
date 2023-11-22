@@ -8,8 +8,8 @@
 | 08:00 | SGD | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 16:00 | ZAR | Core CPI (YoY) (Oct) |  | 4.3% | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Oct) |  | 0.3% | 0.2% |
-| 16:00 | ZAR | CPI (MoM) (Oct) |  | 0.5% | 0.6% |
 | 16:00 | ZAR | CPI (YoY) (Oct) |  | 5.5% | 5.4% |
+| 16:00 | ZAR | CPI (MoM) (Oct) |  | 0.5% | 0.6% |
 | 16:35 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 19:00 | GBP | CBI Industrial Trends Orders (Nov) |  | -25 | -26 |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.61% |

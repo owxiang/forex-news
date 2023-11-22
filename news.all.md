@@ -13,8 +13,8 @@
 | 08:00 | SGD | Low | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Oct) |  | 4.3% | 4.5% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Oct) |  | 0.3% | 0.2% |
-| 16:00 | ZAR | Low | CPI (MoM) (Oct) |  | 0.5% | 0.6% |
 | 16:00 | ZAR | Low | CPI (YoY) (Oct) |  | 5.5% | 5.4% |
+| 16:00 | ZAR | Low | CPI (MoM) (Oct) |  | 0.5% | 0.6% |
 | 16:35 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 17:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
