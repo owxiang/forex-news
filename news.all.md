@@ -8,8 +8,8 @@
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
 | 07:30 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
-| 08:00 | SGD | Low | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 08:00 | SGD | Low | GDP (YoY) | 1.1% | 0.7% | 0.5% |
+| 08:00 | SGD | Low | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Oct) | 4.4% | 4.3% | 4.5% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Oct) | 0.4% | 0.3% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
@@ -35,19 +35,19 @@
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.00K |  | 220.75K |
 | 22:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 22:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 44 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
-| 44 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
-| 44 min | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |
-| 44 min | USD | Moderate | Michigan Consumer Sentiment (Nov) |  | 60.4 | 63.8 |
-| 44 min | USD | Low | Michigan Current Conditions (Nov) |  | 65.7 | 70.6 |
-| 44 min | EUR | Low | Consumer Confidence (Nov) |  | -17.6 | -17.9 |
-| 23:30 | USD | High | Crude Oil Inventories |  | 1.160M | 3.592M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | -0.385M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.925M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | 0.053M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.761M | -1.422M |
-| 23:30 | USD | Low | Gasoline Production |  |  | -0.813M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.148M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 23:30 | USD | Low | Gasoline Inventories |  | -0.150M | -1.540M |
+| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) | 4.5% | 4.4% | 4.2% |
+| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.2% | 3.0% |
+| 23:00 | USD | Moderate | Michigan Consumer Expectations (Nov) | 56.8 | 56.9 | 59.3 |
+| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Nov) | 61.3 | 60.4 | 63.8 |
+| 23:00 | USD | Low | Michigan Current Conditions (Nov) | 68.3 | 65.7 | 70.6 |
+| 23:00 | EUR | Low | Consumer Confidence (Nov) | -16.9 | -17.6 | -17.8 |
+| 14 min | USD | High | Crude Oil Inventories |  | 1.160M | 3.592M |
+| 14 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.164M |
+| 14 min | USD | Low | Crude Oil Imports |  |  | -0.385M |
+| 14 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.925M |
+| 14 min | USD | Low | Distillate Fuel Production |  |  | 0.053M |
+| 14 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.761M | -1.422M |
+| 14 min | USD | Low | Gasoline Production |  |  | -0.813M |
+| 14 min | USD | Low | Heating Oil Stockpiles |  |  | -0.148M |
+| 14 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 14 min | USD | Low | Gasoline Inventories |  | -0.150M | -1.540M |

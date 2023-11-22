@@ -10,8 +10,8 @@
 | 17:00 | EUR | ECB Financial Stability Review |  |  |  |
 | 21:30 | USD | Durable Goods Orders (MoM) (Oct) | -5.4% | -3.1% | 4.0% |
 | 22:10 | EUR | ECB's Elderson Speaks |  |  |  |
-| 44 min | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
-| 44 min | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
-| 44 min | USD | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |
-| 44 min | USD | Michigan Consumer Sentiment (Nov) |  | 60.4 | 63.8 |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.925M |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) | 4.5% | 4.4% | 4.2% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) | 3.2% | 3.2% | 3.0% |
+| 23:00 | USD | Michigan Consumer Expectations (Nov) | 56.8 | 56.9 | 59.3 |
+| 23:00 | USD | Michigan Consumer Sentiment (Nov) | 61.3 | 60.4 | 63.8 |
+| 14 min | USD | Cushing Crude Oil Inventories |  |  | 1.925M |
