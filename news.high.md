@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | FOMC Meeting Minutes |  |  |  |
-| 44 min | GBP | Autumn Forecast Statement |  |  |  |
+| 18:00 | GBP | Autumn Forecast Statement |  |  |  |
 | 21:30 | USD | Core Durable Goods Orders (MoM) (Oct) |  | 0.1% | 0.5% |
 | 21:30 | USD | Initial Jobless Claims |  | 225K | 231K |
 | 23:30 | USD | Crude Oil Inventories |  | 0.900M | 3.592M |
