@@ -10,14 +10,14 @@
 | 01:00 | USD | Low | Natural Gas Storage | -7B | 7B | 60B |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 500 |  | 500 |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 622 |  | 618 |
-| 46 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 48.2 |
-| 46 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 47.9 |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 |  | 48.2 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 46.3 |  | 47.9 |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.00% |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Oct) |  | 3.00% | 3.00% |
 | 13:00 | SGD | Low | CPI (MoM) (Oct) |  |  | 0.50% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Oct) |  | 4.5% | 4.1% |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 10.7% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 15:00 | NOK | Low | M3 Money Supply (Oct) |  |  | 3,111.2B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
 | 15:00 | NOK | Low | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
