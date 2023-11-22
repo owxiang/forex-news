@@ -8,9 +8,9 @@
 | 05:30 | USD | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
 | 17:00 | GBP | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | ECB Financial Stability Review |  |  |  |
-| 58 min | USD | Durable Goods Orders (MoM) (Oct) |  | -3.1% | 4.7% |
-| 58 min | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
-| 22:10 | EUR | ECB's Elderson Speaks |  |  |  |
+| 9 min | USD | Durable Goods Orders (MoM) (Oct) |  | -3.1% | 4.7% |
+| 9 min | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
+| 49 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 23:00 | USD | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
 | 23:00 | USD | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
 | 23:00 | USD | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |

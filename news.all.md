@@ -8,12 +8,12 @@
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.047M | 1.467M | 1.335M |
 | 07:30 | AUD | Low | MI Leading Index (MoM) (Oct) | 0.0% |  | 0.1% |
-| 08:00 | SGD | Low | GDP (YoY) | 1.1% | 0.7% | 0.5% |
 | 08:00 | SGD | Low | GDP (QoQ) | 1.4% | 1.0% | 0.1% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Oct) | 4.4% | 4.3% | 4.5% |
+| 08:00 | SGD | Low | GDP (YoY) | 1.1% | 0.7% | 0.5% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Oct) | 0.4% | 0.3% | 0.2% |
-| 16:00 | ZAR | Low | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Oct) | 4.4% | 4.3% | 4.5% |
 | 16:00 | ZAR | Low | CPI (MoM) (Oct) | 0.9% | 0.5% | 0.6% |
+| 16:00 | ZAR | Low | CPI (YoY) (Oct) | 5.9% | 5.5% | 5.4% |
 | 16:35 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 17:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 17:00 | EUR | Moderate | ECB Financial Stability Review |  |  |  |
@@ -23,20 +23,20 @@
 | 20:00 | USD | Low | MBA Purchase Index | 138.4 |  | 133.2 |
 | 20:00 | USD | Low | Mortgage Market Index | 175.6 |  | 170.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 359.9 |  | 354.3 |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Sep) | -0.2% | 0.3% | -0.4% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Sep) | -0.2% | 0.3% | -0.5% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Sep) | 2.3% | 3.6% | 3.2% |
 | 20:30 | GBP | High | Autumn Forecast Statement |  |  |  |
-| 58 min | USD | Low | Continuing Jobless Claims |  |  | 1,865K |
-| 58 min | USD | High | Core Durable Goods Orders (MoM) (Oct) |  | 0.1% | 0.5% |
-| 58 min | USD | Moderate | Durable Goods Orders (MoM) (Oct) |  | -3.1% | 4.7% |
-| 58 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | 5.7% |
-| 58 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.1% | 0.6% |
-| 58 min | USD | High | Initial Jobless Claims |  | 225K | 231K |
-| 58 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.25K |
-| 58 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
-| 58 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.4% |
-| 22:05 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 22:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 9 min | USD | Low | Continuing Jobless Claims |  |  | 1,865K |
+| 9 min | USD | High | Core Durable Goods Orders (MoM) (Oct) |  | 0.1% | 0.5% |
+| 9 min | USD | Moderate | Durable Goods Orders (MoM) (Oct) |  | -3.1% | 4.7% |
+| 9 min | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | 5.7% |
+| 9 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Oct) |  | 0.1% | 0.6% |
+| 9 min | USD | High | Initial Jobless Claims |  | 225K | 231K |
+| 9 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.25K |
+| 9 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
+| 9 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.4% |
+| 44 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 49 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Nov) |  | 4.4% | 4.2% |
 | 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Nov) |  | 3.2% | 3.0% |
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Nov) |  | 56.9 | 59.3 |
