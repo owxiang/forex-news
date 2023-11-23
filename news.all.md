@@ -20,20 +20,20 @@
 | 15:00 | NOK | Low | GDP (QoQ) (Q3) | -0.5% | 0.3% | -0.5% |
 | 15:00 | NOK | Low | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.0% |
 | 15:00 | NOK | Low | Unemployment Rate (Oct) | 3.6% | 3.5% | 3.5% |
-| 6 min | IDR | Low | Loans (YoY) |  |  | 8.96% |
-| 16 min | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
-| 16 min | IDR | Low | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
-| 16 min | IDR | Low | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
-| 31 min | EUR | Low | French Business Survey (Nov) |  | 98 | 98 |
-| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 43.1 | 42.8 |
-| 16:15 | EUR | Low | HCOB France Composite PMI (Nov) |  | 45.0 | 44.6 |
-| 16:15 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.6 | 45.2 |
-| 16:30 | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
-| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 41.2 | 40.8 |
-| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 48.5 | 48.2 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 43.4 | 43.1 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 46.9 | 46.5 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.1 | 47.8 |
+| 15:20 | IDR | Low | Loans (YoY) (Oct) | 8.99% |  | 8.96% |
+| 15:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
+| 15:30 | IDR | Low | Deposit Facility Rate (Nov) | 5.25% | 5.25% | 5.25% |
+| 15:30 | IDR | Low | Lending Facility Rate (Nov) | 6.75% | 6.75% | 6.75% |
+| 15:45 | EUR | Low | French Business Survey (Nov) | 99 | 98 | 99 |
+| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 42.6 | 43.1 | 42.8 |
+| 16:15 | EUR | Low | HCOB France Composite PMI (Nov) | 44.5 | 45.0 | 44.6 |
+| 16:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 45.3 | 45.6 | 45.2 |
+| 10 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
+| 10 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 41.2 | 40.8 |
+| 10 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 48.5 | 48.2 |
+| 40 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 43.4 | 43.1 |
+| 40 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 46.9 | 46.5 |
+| 40 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.1 | 47.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 44.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.5 | 49.5 |

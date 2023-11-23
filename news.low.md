@@ -13,12 +13,12 @@
 | 15:00 | NOK | GDP (QoQ) (Q3) | -0.5% | 0.3% | -0.5% |
 | 15:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.0% |
 | 15:00 | NOK | Unemployment Rate (Oct) | 3.6% | 3.5% | 3.5% |
-| 6 min | IDR | Loans (YoY) |  |  | 8.96% |
-| 16 min | IDR | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
-| 16 min | IDR | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
-| 31 min | EUR | French Business Survey (Nov) |  | 98 | 98 |
-| 16:15 | EUR | HCOB France Composite PMI (Nov) |  | 45.0 | 44.6 |
-| 16:30 | EUR | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
+| 15:20 | IDR | Loans (YoY) (Oct) | 8.99% |  | 8.96% |
+| 15:30 | IDR | Deposit Facility Rate (Nov) | 5.25% | 5.25% | 5.25% |
+| 15:30 | IDR | Lending Facility Rate (Nov) | 6.75% | 6.75% | 6.75% |
+| 15:45 | EUR | French Business Survey (Nov) | 99 | 98 | 99 |
+| 16:15 | EUR | HCOB France Composite PMI (Nov) | 44.5 | 45.0 | 44.6 |
+| 10 min | EUR | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
 | 20:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
 | 21:00 | ZAR | Prime Rate (Nov) |  |  | 11.75% |
