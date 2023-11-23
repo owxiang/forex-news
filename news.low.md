@@ -1,24 +1,27 @@
-## 23 November 2023 - Low Impact Forex News
+## 24 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 4-Week Bill Auction | 5.300% |  | 5.290% |
-| 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.280% |
-| 01:00 | USD | Natural Gas Storage | -7B | 7B | 60B |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 |  | 48.2 |
-| 06:00 | AUD | Judo Bank Australia Services PMI | 46.3 |  | 47.9 |
-| 13:00 | SGD | CPI (MoM) (Oct) | 0.20% |  | 0.50% |
-| 15:00 | NOK | M3 Money Supply (Oct) | 3,089.8B |  | 3,111.2B |
-| 15:00 | NOK | Credit Indicator (YoY) (Oct) | 3.7% | 4.0% | 4.1% |
-| 15:00 | NOK | GDP (QoQ) (Q3) | -0.5% | 0.3% | -0.5% |
-| 15:00 | NOK | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.0% |
-| 15:00 | NOK | Unemployment Rate (Oct) | 3.6% | 3.5% | 3.5% |
-| 15:20 | IDR | Loans (YoY) (Oct) | 8.99% |  | 8.96% |
-| 15:30 | IDR | Deposit Facility Rate (Nov) | 5.25% | 5.25% | 5.25% |
-| 15:30 | IDR | Lending Facility Rate (Nov) | 6.75% | 6.75% | 6.75% |
-| 15:45 | EUR | French Business Survey (Nov) | 99 | 98 | 99 |
-| 16:15 | EUR | HCOB France Composite PMI (Nov) | 44.5 | 45.0 | 44.6 |
-| 16:30 | EUR | HCOB Germany Composite PMI (Nov) | 47.1 | 46.5 | 45.9 |
-| 20:00 | MXN | 1st Half-Month Core CPI (Nov) | 0.20% | 0.22% | 0.24% |
-| 20:00 | MXN | 1st Half-Month CPI (Nov) | 0.63% | 0.60% | 0.24% |
-| 21:00 | ZAR | Prime Rate (Nov) | 11.75% |  | 11.75% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.481B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
+| 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | -3.5% |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | 0.3% |
+| 07:30 | JPY | National CPI (YoY) (Oct) |  |  | 3.0% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | -68.2B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 388.4B |
+| 08:01 | GBP | GfK Consumer Confidence (Nov) |  | -27 | -30 |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.8 | 48.7 |
+| 13:00 | JPY | Coincident Indicator (MoM) |  |  | 0.1% |
+| 13:00 | JPY | Leading Index |  | 108.7 | 109.2 |
+| 13:00 | SGD | Industrial Production (YoY) (Oct) |  |  | -2.1% |
+| 13:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 10.7% |
+| 15:00 | EUR | GDP (YoY) (Q3) |  |  | -0.20% |
+| 16:00 | EUR | Spanish PPI (YoY) |  |  | -8.6% |
+| 19:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
+| 19:30 | INR | FX Reserves, USD |  |  | 590.32B |
+| 20:00 | MXN | Economic Activity (MoM) (Sep) |  |  | 0.40% |
+| 20:00 | MXN | Economic Activity (YoY) (Sep) |  | 3.10% | 3.70% |
+| 20:00 | BRL | FGV Consumer confidence (Nov) |  |  | 93.2 |
+| 21:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
+| 22:00 | MXN | Current Account (USD) (Q3) |  |  | 6,247M |
+| 22:00 | MXN | Current Account % of GDP (Q3) |  |  | 1.40% |
