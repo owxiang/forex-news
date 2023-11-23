@@ -15,17 +15,16 @@
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 3.30% | 3.00% | 3.00% |
 | 13:00 | SGD | Low | CPI (MoM) (Oct) | 0.20% |  | 0.50% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Oct) | 4.7% | 4.5% | 4.1% |
-| 39 min | NOK | Low | M3 Money Supply (Oct) |  |  | 3,111.2B |
-| 39 min | NOK | Low | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
-| 39 min | NOK | Low | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
-| 39 min | NOK | Low | House Price Index (YoY) |  |  | -0.50% |
-| 39 min | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
-| 39 min | NOK | Low | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
-| 59 min | IDR | Low | Loans (YoY) |  |  | 8.96% |
-| 15:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
-| 15:30 | IDR | Low | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
-| 15:30 | IDR | Low | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
-| 15:45 | EUR | Low | French Business Survey (Nov) |  | 98 | 98 |
+| 15:00 | NOK | Low | M3 Money Supply (Oct) | 3,089.8B |  | 3,111.2B |
+| 15:00 | NOK | Low | Credit Indicator (YoY) (Oct) | 3.7% | 4.0% | 4.1% |
+| 15:00 | NOK | Low | GDP (QoQ) (Q3) | -0.5% | 0.3% | -0.5% |
+| 15:00 | NOK | Low | GDP Mainland (QoQ) (Q3) | 0.1% | 0.2% | 0.0% |
+| 15:00 | NOK | Low | Unemployment Rate (Oct) | 3.6% | 3.5% | 3.5% |
+| 6 min | IDR | Low | Loans (YoY) |  |  | 8.96% |
+| 16 min | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
+| 16 min | IDR | Low | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
+| 16 min | IDR | Low | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
+| 31 min | EUR | Low | French Business Survey (Nov) |  | 98 | 98 |
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 43.1 | 42.8 |
 | 16:15 | EUR | Low | HCOB France Composite PMI (Nov) |  | 45.0 | 44.6 |
 | 16:15 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.6 | 45.2 |
