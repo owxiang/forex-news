@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 39 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.481B |
+| 01:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -1.481B |
 | 03:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,815B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
@@ -20,8 +20,8 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 51.6 |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index |  | 108.7 | 109.2 |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 10.7% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | 0.0% |
 | 15:00 | EUR | Low | GDP (YoY) (Q3) |  |  | -0.20% |

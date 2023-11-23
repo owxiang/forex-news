@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 01:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 03:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,815B |
 | 05:45 | NZD | Core Retail Sales (QoQ) |  | -1.5% | -1.8% |
