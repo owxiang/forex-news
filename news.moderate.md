@@ -7,8 +7,8 @@
 | 00:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 02:00 | USD | U.S. Baker Hughes Oil Rig Count | 500 |  | 500 |
 | 02:00 | USD | U.S. Baker Hughes Total Rig Count | 622 |  | 618 |
-| 41 min | SGD | Core CPI (YoY) (Oct) |  | 3.00% | 3.00% |
-| 41 min | SGD | CPI (YoY) (Oct) |  | 4.5% | 4.1% |
+| 13:00 | SGD | Core CPI (YoY) (Oct) | 3.30% | 3.00% | 3.00% |
+| 13:00 | SGD | CPI (YoY) (Oct) | 4.7% | 4.5% | 4.1% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 16:15 | EUR | HCOB France Manufacturing PMI (Nov) |  | 43.1 | 42.8 |
 | 16:15 | EUR | HCOB France Services PMI (Nov) |  | 45.6 | 45.2 |
