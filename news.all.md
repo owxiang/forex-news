@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.708B |  | -1.767B |
-| 03:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 18 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,815B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
 | 05:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | -1.5% | -1.8% |
@@ -22,8 +22,8 @@
 | 13:00 | JPY | Low | Leading Index |  | 108.7 | 109.2 |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 10.7% |
-| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | 0.0% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | Low | GDP (YoY) (Q3) |  |  | -0.20% |
 | 15:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.432M |
 | 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.6% |
@@ -37,8 +37,8 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 590.32B |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  |  | 0.40% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 3.10% | 3.70% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  |  | 0.40% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.2 |

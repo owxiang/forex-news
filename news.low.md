@@ -19,8 +19,8 @@
 | 16:00 | EUR | Spanish PPI (YoY) |  |  | -8.6% |
 | 19:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
 | 19:30 | INR | FX Reserves, USD |  |  | 590.32B |
-| 20:00 | MXN | Economic Activity (MoM) (Sep) |  |  | 0.40% |
 | 20:00 | MXN | Economic Activity (YoY) (Sep) |  | 3.10% | 3.70% |
+| 20:00 | MXN | Economic Activity (MoM) (Sep) |  |  | 0.40% |
 | 20:00 | BRL | FGV Consumer confidence (Nov) |  |  | 93.2 |
 | 21:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
 | 22:00 | MXN | Current Account (USD) (Q3) |  |  | 6,247M |
