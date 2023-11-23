@@ -24,4 +24,4 @@
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:00 | ZAR | Interest Rate Decision (Nov) | 8.25% | 8.25% | 8.25% |
 | 21:30 | CAD | Wholesale Sales (MoM) | -1.1% |  | 0.4% |
-| 45 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
