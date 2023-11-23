@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -1.708B |  | -1.767B |
 | 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) | -3.4% |  | -3.5% |
-| 07:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | 0.3% |
-| 07:30 | JPY | National CPI (YoY) (Oct) |  |  | 3.0% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | -68.2B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 388.4B |
-| 08:01 | GBP | GfK Consumer Confidence (Nov) |  | -27 | -30 |
+| 14 min | JPY | CPI, n.s.a (MoM) (Oct) |  |  | 0.3% |
+| 14 min | JPY | National CPI (YoY) (Oct) |  |  | 3.0% |
+| 34 min | JPY | Foreign Bonds Buying |  |  | -68.2B |
+| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 388.4B |
+| 45 min | GBP | GfK Consumer Confidence (Nov) |  | -27 | -30 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.8 | 48.7 |
 | 13:00 | JPY | Coincident Indicator (MoM) |  |  | 0.1% |
 | 13:00 | JPY | Leading Index |  | 108.7 | 109.2 |

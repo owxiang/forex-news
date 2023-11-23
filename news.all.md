@@ -7,12 +7,12 @@
 | 03:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 05:45 | NZD | Moderate | Retail Sales (QoQ) (Q3) | 0.0% | -0.8% | -0.9% |
 | 05:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q3) | -3.4% |  | -3.5% |
-| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.3% |
-| 07:30 | JPY | Moderate | National Core CPI (YoY) (Oct) |  | 3.0% | 2.8% |
-| 07:30 | JPY | Low | National CPI (YoY) (Oct) |  |  | 3.0% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -68.2B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 388.4B |
-| 08:01 | GBP | Low | GfK Consumer Confidence (Nov) |  | -27 | -30 |
+| 14 min | JPY | Low | CPI, n.s.a (MoM) (Oct) |  |  | 0.3% |
+| 14 min | JPY | Moderate | National Core CPI (YoY) (Oct) |  | 3.0% | 2.8% |
+| 14 min | JPY | Low | National CPI (YoY) (Oct) |  |  | 3.0% |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -68.2B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 388.4B |
+| 45 min | GBP | Low | GfK Consumer Confidence (Nov) |  | -27 | -30 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.8 | 48.7 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 51.6 |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
