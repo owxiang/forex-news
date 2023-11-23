@@ -12,7 +12,7 @@
 | 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 622 |  | 618 |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 |  | 48.2 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 46.3 |  | 47.9 |
-| 33 min | IDR | Low | M2 Money Supply (YoY) |  |  | 6.00% |
+| 11:00 | IDR | Low | M2 Money Supply (YoY) |  |  | 6.00% |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Oct) |  | 3.00% | 3.00% |
 | 13:00 | SGD | Low | CPI (MoM) (Oct) |  |  | 0.50% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Oct) |  | 4.5% | 4.1% |
