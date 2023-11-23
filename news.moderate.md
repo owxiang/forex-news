@@ -4,9 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 03:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17 min | USD | Fed's Balance Sheet |  |  | 7,815B |
-| 32 min | NZD | Core Retail Sales (QoQ) |  | -1.5% | -1.8% |
-| 32 min | NZD | Retail Sales (QoQ) (Q3) |  | -0.8% | -1.0% |
+| 05:45 | NZD | Retail Sales (QoQ) (Q3) | 0.0% | -0.8% | -0.9% |
 | 07:30 | JPY | National Core CPI (YoY) (Oct) |  | 3.0% | 2.8% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 51.6 |
 | 15:00 | EUR | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
