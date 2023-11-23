@@ -38,11 +38,11 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 46.7 | 45.0 | 44.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 50.5 | 49.5 | 49.5 |
 | 17:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 47 min | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
-| 47 min | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
+| 20:00 | MXN | Low | 1st Half-Month Core CPI (Nov) | 0.20% | 0.22% | 0.24% |
+| 20:00 | MXN | Low | 1st Half-Month CPI (Nov) | 0.63% | 0.60% | 0.24% |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:00 | ZAR | Moderate | Interest Rate Decision (Nov) |  | 8.25% | 8.25% |
-| 21:00 | ZAR | Low | Prime Rate (Nov) |  |  | 11.75% |
-| 21:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
-| 21:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.4% |
+| 29 min | ZAR | Moderate | Interest Rate Decision (Nov) |  | 8.25% | 8.25% |
+| 29 min | ZAR | Low | Prime Rate (Nov) |  |  | 11.75% |
+| 59 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
+| 59 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.4% |
 | 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
