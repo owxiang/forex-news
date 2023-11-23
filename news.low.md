@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | BRL | Foreign Exchange Flows | -1.708B |  | -1.767B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
-| 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | -3.5% |
+| 17 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
+| 32 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q3) |  |  | -3.5% |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Oct) |  |  | 0.3% |
 | 07:30 | JPY | National CPI (YoY) (Oct) |  |  | 3.0% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -68.2B |
@@ -13,8 +13,8 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.8 | 48.7 |
 | 13:00 | JPY | Coincident Indicator (MoM) |  |  | 0.1% |
 | 13:00 | JPY | Leading Index |  | 108.7 | 109.2 |
-| 13:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 10.7% |
 | 13:00 | SGD | Industrial Production (YoY) (Oct) |  |  | -2.1% |
+| 13:00 | SGD | Industrial Production (MoM) (Oct) |  |  | 10.7% |
 | 15:00 | EUR | GDP (YoY) (Q3) |  |  | -0.20% |
 | 16:00 | EUR | Spanish PPI (YoY) |  |  | -8.6% |
 | 19:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
