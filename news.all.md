@@ -28,16 +28,16 @@
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 42.6 | 43.1 | 42.8 |
 | 16:15 | EUR | Low | HCOB France Composite PMI (Nov) | 44.5 | 45.0 | 44.6 |
 | 16:15 | EUR | Moderate | HCOB France Services PMI (Nov) | 45.3 | 45.6 | 45.2 |
-| 10 min | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 46.5 | 45.9 |
-| 10 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 41.2 | 40.8 |
-| 10 min | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 48.5 | 48.2 |
-| 40 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 43.4 | 43.1 |
-| 40 min | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 46.9 | 46.5 |
-| 40 min | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.1 | 47.8 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.7 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 44.8 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.5 | 49.5 |
-| 17:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 16:30 | EUR | Low | HCOB Germany Composite PMI (Nov) | 47.1 | 46.5 | 45.9 |
+| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 42.3 | 41.2 | 40.8 |
+| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 48.7 | 48.5 | 48.2 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 43.8 | 43.4 | 43.1 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 47.1 | 46.9 | 46.5 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 48.2 | 48.1 | 47.8 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 48.7 | 48.7 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 45.0 | 44.8 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 49.5 | 49.5 |
+| 14 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
