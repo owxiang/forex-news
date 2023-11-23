@@ -19,7 +19,7 @@
 | 15:45 | EUR | French Business Survey (Nov) | 99 | 98 | 99 |
 | 16:15 | EUR | HCOB France Composite PMI (Nov) | 44.5 | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Nov) | 47.1 | 46.5 | 45.9 |
-| 20:00 | MXN | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
-| 20:00 | MXN | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
+| 47 min | MXN | 1st Half-Month Core CPI (Nov) |  | 0.22% | 0.24% |
+| 47 min | MXN | 1st Half-Month CPI (Nov) |  | 0.60% | 0.24% |
 | 21:00 | ZAR | Prime Rate (Nov) |  |  | 11.75% |
 | 21:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
