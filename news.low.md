@@ -21,5 +21,5 @@
 | 16:30 | EUR | HCOB Germany Composite PMI (Nov) | 47.1 | 46.5 | 45.9 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Nov) | 0.20% | 0.22% | 0.24% |
 | 20:00 | MXN | 1st Half-Month CPI (Nov) | 0.63% | 0.60% | 0.24% |
-| 29 min | ZAR | Prime Rate (Nov) |  |  | 11.75% |
-| 59 min | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
+| 21:00 | ZAR | Prime Rate (Nov) | 11.75% |  | 11.75% |
+| 10 min | CAD | Corporate Profits (QoQ) |  |  | -2.0% |

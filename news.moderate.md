@@ -22,6 +22,6 @@
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI | 50.5 | 49.5 | 49.5 |
 | 17:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 29 min | ZAR | Interest Rate Decision (Nov) |  | 8.25% | 8.25% |
-| 59 min | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
+| 21:00 | ZAR | Interest Rate Decision (Nov) | 8.25% | 8.25% | 8.25% |
+| 10 min | CAD | Wholesale Sales (MoM) |  |  | 0.4% |
 | 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
