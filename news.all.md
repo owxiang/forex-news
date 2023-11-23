@@ -43,6 +43,5 @@
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:00 | ZAR | Moderate | Interest Rate Decision (Nov) | 8.25% | 8.25% | 8.25% |
 | 21:00 | ZAR | Low | Prime Rate (Nov) | 11.75% |  | 11.75% |
-| 10 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
-| 10 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.4% |
-| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) | -1.1% |  | 0.4% |
+| 45 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
