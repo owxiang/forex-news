@@ -15,13 +15,13 @@
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Oct) | 3.30% | 3.00% | 3.00% |
 | 13:00 | SGD | Low | CPI (MoM) (Oct) | 0.20% |  | 0.50% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Oct) | 4.7% | 4.5% | 4.1% |
-| 15:00 | NOK | Low | M3 Money Supply (Oct) |  |  | 3,111.2B |
-| 15:00 | NOK | Low | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
-| 15:00 | NOK | Low | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
-| 15:00 | NOK | Low | House Price Index (YoY) |  |  | -0.50% |
-| 15:00 | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
-| 15:00 | NOK | Low | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
-| 15:20 | IDR | Low | Loans (YoY) |  |  | 8.96% |
+| 39 min | NOK | Low | M3 Money Supply (Oct) |  |  | 3,111.2B |
+| 39 min | NOK | Low | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
+| 39 min | NOK | Low | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
+| 39 min | NOK | Low | House Price Index (YoY) |  |  | -0.50% |
+| 39 min | NOK | Low | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
+| 39 min | NOK | Low | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
+| 59 min | IDR | Low | Loans (YoY) |  |  | 8.96% |
 | 15:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 15:30 | IDR | Low | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
 | 15:30 | IDR | Low | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |

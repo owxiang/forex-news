@@ -8,13 +8,13 @@
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 |  | 48.2 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 46.3 |  | 47.9 |
 | 13:00 | SGD | CPI (MoM) (Oct) | 0.20% |  | 0.50% |
-| 15:00 | NOK | M3 Money Supply (Oct) |  |  | 3,111.2B |
-| 15:00 | NOK | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
-| 15:00 | NOK | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
-| 15:00 | NOK | House Price Index (YoY) |  |  | -0.50% |
-| 15:00 | NOK | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
-| 15:00 | NOK | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
-| 15:20 | IDR | Loans (YoY) |  |  | 8.96% |
+| 39 min | NOK | M3 Money Supply (Oct) |  |  | 3,111.2B |
+| 39 min | NOK | Credit Indicator (YoY) (Oct) |  | 4.0% | 4.1% |
+| 39 min | NOK | GDP (QoQ) (Q3) |  | 0.3% | 0.0% |
+| 39 min | NOK | House Price Index (YoY) |  |  | -0.50% |
+| 39 min | NOK | GDP Mainland (QoQ) (Q3) |  | 0.2% | 0.0% |
+| 39 min | NOK | Unemployment Rate (Oct) |  | 3.5% | 3.5% |
+| 59 min | IDR | Loans (YoY) |  |  | 8.96% |
 | 15:30 | IDR | Deposit Facility Rate (Nov) |  | 5.25% | 5.25% |
 | 15:30 | IDR | Lending Facility Rate (Nov) |  | 6.75% | 6.75% |
 | 15:45 | EUR | French Business Survey (Nov) |  | 98 | 98 |
