@@ -18,8 +18,8 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.1% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.3% |  | -0.5% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.0% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.4% | -0.3% | 0.1% |
 | 15:30 | CHF | Moderate | Employment Level (Q3) | 5.465M |  | 5.432M |
@@ -38,13 +38,13 @@
 | 20:00 | MXN | Low | Economic Activity (YoY) (Sep) | 3.30% | 3.00% | 3.70% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q3) | 1.1% | 0.9% | 0.8% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q3) | 3.3% | 3.3% | 3.6% |
-| 30 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
-| 21:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
-| 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
-| 21:30 | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
-| 22:00 | MXN | Low | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
-| 22:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.40% |
+| 21:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 11 min | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
+| 11 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
+| 11 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
+| 11 min | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
+| 41 min | MXN | Low | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
+| 41 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.40% |
 | 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 50.7 |
 | 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.4 | 50.6 |

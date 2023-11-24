@@ -19,8 +19,8 @@
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q3) | 1.1% | 0.9% | 0.8% |
 | 20:00 | MXN | GDP (YoY) (Q3) | 3.3% | 3.3% | 3.6% |
-| 30 min | EUR | ECB's De Guindos Speaks |  |  |  |
-| 21:30 | CAD | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
-| 21:30 | CAD | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
+| 21:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11 min | CAD | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
+| 11 min | CAD | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
 | 22:45 | USD | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
 | 22:45 | USD | S&P Global Composite PMI (Nov) |  |  | 50.7 |
