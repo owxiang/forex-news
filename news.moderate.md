@@ -16,7 +16,7 @@
 | 17:00 | EUR | German Business Expectations (Nov) | 85.2 | 85.7 | 84.8 |
 | 17:00 | EUR | German Current Assessment (Nov) | 89.4 | 89.5 | 89.2 |
 | 17:00 | EUR | German Ifo Business Climate Index (Nov) | 87.3 | 87.5 | 86.9 |
-| 44 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
 | 20:00 | MXN | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
 | 21:00 | EUR | ECB's De Guindos Speaks |  |  |  |
