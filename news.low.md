@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
+| 17 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.483T |
