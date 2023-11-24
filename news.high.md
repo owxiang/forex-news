@@ -1,6 +1,3 @@
-## 24 November 2023 - High Impact Forex News
+## 25 November 2023 - High Impact Forex News
 
-| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 15:00 | EUR | German GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.0% |
-| 22:45 | USD | S&P Global Services PMI (Nov) | 50.8 | 50.4 | 50.6 |
+There is no high impact news today.
