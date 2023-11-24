@@ -10,10 +10,10 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 285.9B |  | 384.2B |
 | 08:01 | GBP | GfK Consumer Confidence (Nov) | -24 | -28 | -30 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.1 | 48.8 | 48.7 |
-| 42 min | JPY | Coincident Indicator (MoM) |  |  | 0.1% |
-| 42 min | JPY | Leading Index |  | 108.7 | 109.2 |
-| 42 min | SGD | Industrial Production (YoY) (Oct) |  | -2.1% | -2.1% |
-| 42 min | SGD | Industrial Production (MoM) (Oct) |  | 0.1% | 10.7% |
+| 13:00 | JPY | Coincident Indicator (MoM) | 0.1% |  | 0.1% |
+| 13:00 | JPY | Leading Index | 108.9 | 108.7 | 109.2 |
+| 13:00 | SGD | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
+| 13:00 | SGD | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 15:00 | EUR | GDP (YoY) (Q3) |  |  | -0.20% |
 | 16:00 | EUR | Spanish PPI (YoY) |  |  | -8.6% |
 | 19:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |

@@ -15,10 +15,10 @@
 | 08:01 | GBP | Low | GfK Consumer Confidence (Nov) | -24 | -28 | -30 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.1 | 48.8 | 48.7 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 51.7 |  | 51.6 |
-| 42 min | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
-| 42 min | JPY | Low | Leading Index |  | 108.7 | 109.2 |
-| 42 min | SGD | Low | Industrial Production (YoY) (Oct) |  | -2.1% | -2.1% |
-| 42 min | SGD | Low | Industrial Production (MoM) (Oct) |  | 0.1% | 10.7% |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.1% |  | 0.1% |
+| 13:00 | JPY | Low | Leading Index | 108.9 | 108.7 | 109.2 |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | 0.0% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | Low | GDP (YoY) (Q3) |  |  | -0.20% |
