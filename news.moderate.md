@@ -17,9 +17,9 @@
 | 17:00 | EUR | German Current Assessment (Nov) | 89.4 | 89.5 | 89.2 |
 | 17:00 | EUR | German Ifo Business Climate Index (Nov) | 87.3 | 87.5 | 86.9 |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 47 min | MXN | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
-| 47 min | MXN | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
-| 21:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 20:00 | MXN | GDP (QoQ) (Q3) | 1.1% | 0.9% | 0.8% |
+| 20:00 | MXN | GDP (YoY) (Q3) | 3.3% | 3.3% | 3.6% |
+| 30 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | CAD | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
 | 21:30 | CAD | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
 | 22:45 | USD | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
