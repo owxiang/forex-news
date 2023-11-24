@@ -19,8 +19,8 @@
 | 13:00 | JPY | Low | Leading Index |  | 108.7 | 109.2 |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 10.7% |
-| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | 0.0% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | Low | GDP (YoY) (Q3) |  |  | -0.20% |
 | 15:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.432M |
 | 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.6% |
