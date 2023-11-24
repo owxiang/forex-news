@@ -7,7 +7,7 @@
 | 05:45 | NZD | Retail Sales (QoQ) (Q3) | 0.0% | -0.8% | -0.9% |
 | 07:30 | JPY | National Core CPI (YoY) (Oct) | 2.9% | 3.0% | 2.8% |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 51.7 |  | 51.6 |
-| 15:00 | EUR | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
+| 39 min | EUR | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:30 | CHF | Employment Level (Q3) |  |  | 5.432M |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
