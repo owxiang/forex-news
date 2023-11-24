@@ -18,8 +18,8 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.1% |  | 0.1% |
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.3% |  | -0.5% |
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.7 | 109.2 |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.0% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.4% | -0.3% | 0.1% |
 | 15:30 | CHF | Moderate | Employment Level (Q3) | 5.465M |  | 5.432M |
@@ -32,13 +32,13 @@
 | 17:00 | EUR | Moderate | German Current Assessment (Nov) | 89.4 | 89.5 | 89.2 |
 | 17:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) | 87.3 | 87.5 | 86.9 |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 19:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 590.32B |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 3.00% | 3.70% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
-| 20:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.2 |
+| 19:00 | BRL | Low | FGV Consumer confidence (Nov) | 93.0 |  | 93.2 |
+| 17 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 590.32B |
+| 47 min | MXN | Low | Economic Activity (YoY) (Sep) |  | 3.00% | 3.70% |
+| 47 min | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
+| 47 min | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
+| 47 min | MXN | Moderate | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
 | 21:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
