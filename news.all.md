@@ -16,12 +16,12 @@
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.1 | 48.8 | 48.7 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 51.7 |  | 51.6 |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | 0.1% |  | 0.1% |
-| 13:00 | JPY | Low | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | JPY | Low | Leading Index (MoM) | -0.3% |  | -0.5% |
+| 13:00 | JPY | Low | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
-| 15:00 | EUR | High | German GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.0% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.4% | -0.3% | 0.1% |
+| 15:00 | EUR | High | German GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.0% |
 | 15:30 | CHF | Moderate | Employment Level (Q3) | 5.465M |  | 5.432M |
 | 16:00 | EUR | Low | Spanish PPI (YoY) | -7.8% |  | -8.5% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -39,12 +39,11 @@
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q3) | 1.1% | 0.9% | 0.8% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q3) | 3.3% | 3.3% | 3.6% |
 | 21:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 11 min | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
-| 11 min | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
-| 11 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
-| 11 min | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
-| 41 min | MXN | Low | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
-| 41 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.40% |
-| 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
-| 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 50.7 |
-| 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.4 | 50.6 |
+| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.2% | -0.2% | 0.2% |
+| 21:30 | CAD | Low | Manufacturing Sales (MoM) | -2.7% |  | 0.4% |
+| 21:30 | CAD | Moderate | Retail Sales (MoM) (Sep) | 0.6% | 0.0% | -0.1% |
+| 31 min | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
+| 31 min | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 50.7 |
+| 31 min | USD | High | S&P Global Services PMI (Nov) |  | 50.4 | 50.6 |
+| 46 min | MXN | Low | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
+| 46 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.40% |

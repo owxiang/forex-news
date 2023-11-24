@@ -11,8 +11,8 @@
 | 08:01 | GBP | GfK Consumer Confidence (Nov) | -24 | -28 | -30 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.1 | 48.8 | 48.7 |
 | 13:00 | JPY | Coincident Indicator (MoM) | 0.1% |  | 0.1% |
-| 13:00 | JPY | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | JPY | Leading Index (MoM) | -0.3% |  | -0.5% |
+| 13:00 | JPY | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | SGD | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
 | 13:00 | SGD | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
 | 16:00 | EUR | Spanish PPI (YoY) | -7.8% |  | -8.5% |
@@ -20,7 +20,6 @@
 | 19:30 | INR | FX Reserves, USD | 595.40B |  | 590.32B |
 | 20:00 | MXN | Economic Activity (MoM) (Sep) | 0.60% | 0.30% | 0.40% |
 | 20:00 | MXN | Economic Activity (YoY) (Sep) | 3.30% | 3.00% | 3.70% |
-| 11 min | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
-| 11 min | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
-| 41 min | MXN | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
-| 41 min | MXN | Current Account % of GDP (Q3) |  |  | 1.40% |
+| 21:30 | CAD | Manufacturing Sales (MoM) | -2.7% |  | 0.4% |
+| 46 min | MXN | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
+| 46 min | MXN | Current Account % of GDP (Q3) |  |  | 1.40% |
