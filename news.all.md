@@ -19,11 +19,11 @@
 | 13:00 | JPY | Low | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
-| 39 min | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
-| 39 min | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | 0.0% |
-| 39 min | EUR | Low | GDP (YoY) (Q3) |  |  | -0.20% |
-| 15:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.432M |
-| 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.6% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) | -0.8% | -0.3% | -0.2% |
+| 15:00 | EUR | High | German GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.0% |
+| 15:00 | EUR | Low | GDP (YoY) (Q3) | -0.40% |  | -0.20% |
+| 16 min | CHF | Moderate | Employment Level (Q3) |  |  | 5.432M |
+| 46 min | EUR | Low | Spanish PPI (YoY) |  |  | -8.6% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -34,8 +34,8 @@
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 590.32B |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 3.00% | 3.70% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.2 |

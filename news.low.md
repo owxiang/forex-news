@@ -14,12 +14,12 @@
 | 13:00 | JPY | Leading Index | 108.9 | 108.7 | 109.2 |
 | 13:00 | SGD | Industrial Production (YoY) (Oct) | 7.4% | -2.1% | -1.1% |
 | 13:00 | SGD | Industrial Production (MoM) (Oct) | 9.8% | 0.1% | 13.1% |
-| 39 min | EUR | GDP (YoY) (Q3) |  |  | -0.20% |
-| 16:00 | EUR | Spanish PPI (YoY) |  |  | -8.6% |
+| 15:00 | EUR | GDP (YoY) (Q3) | -0.40% |  | -0.20% |
+| 46 min | EUR | Spanish PPI (YoY) |  |  | -8.6% |
 | 19:30 | CAD | Corporate Profits (QoQ) |  |  | -2.0% |
 | 19:30 | INR | FX Reserves, USD |  |  | 590.32B |
-| 20:00 | MXN | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
 | 20:00 | MXN | Economic Activity (YoY) (Sep) |  | 3.00% | 3.70% |
+| 20:00 | MXN | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
 | 20:00 | BRL | FGV Consumer confidence (Nov) |  |  | 93.2 |
 | 21:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
 | 22:00 | MXN | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
