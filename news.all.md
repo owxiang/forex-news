@@ -42,8 +42,8 @@
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) | 0.2% | -0.2% | 0.2% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) | -2.7% |  | 0.4% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Sep) | 0.6% | 0.0% | -0.1% |
-| 31 min | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
-| 31 min | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 50.7 |
-| 31 min | USD | High | S&P Global Services PMI (Nov) |  | 50.4 | 50.6 |
-| 46 min | MXN | Low | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
-| 46 min | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.40% |
+| 22:00 | MXN | Low | Current Account (USD) (Q3) | 2,628M | 2,725M | 3,496M |
+| 22:00 | MXN | Low | Current Account % of GDP (Q3) | 0.60% |  | 0.80% |
+| 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) | 49.4 | 49.8 | 50.0 |
+| 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) | 50.7 |  | 50.7 |
+| 22:45 | USD | High | S&P Global Services PMI (Nov) | 50.8 | 50.4 | 50.6 |

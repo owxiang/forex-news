@@ -21,5 +21,5 @@
 | 20:00 | MXN | Economic Activity (MoM) (Sep) | 0.60% | 0.30% | 0.40% |
 | 20:00 | MXN | Economic Activity (YoY) (Sep) | 3.30% | 3.00% | 3.70% |
 | 21:30 | CAD | Manufacturing Sales (MoM) | -2.7% |  | 0.4% |
-| 46 min | MXN | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
-| 46 min | MXN | Current Account % of GDP (Q3) |  |  | 1.40% |
+| 22:00 | MXN | Current Account (USD) (Q3) | 2,628M | 2,725M | 3,496M |
+| 22:00 | MXN | Current Account % of GDP (Q3) | 0.60% |  | 0.80% |
