@@ -14,7 +14,7 @@
 | 17:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | EUR | German Business Expectations (Nov) |  | 85.7 | 84.7 |
-| 17:00 | EUR | German Current Assessment (Nov) |  | 89.4 | 89.2 |
+| 17:00 | EUR | German Current Assessment (Nov) |  | 89.5 | 89.2 |
 | 17:00 | EUR | German Ifo Business Climate Index (Nov) |  | 87.5 | 86.9 |
 | 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:00 | MXN | GDP (YoY) (Q3) |  | 3.3% | 3.6% |

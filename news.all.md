@@ -12,15 +12,15 @@
 | 07:30 | JPY | Low | National CPI (YoY) (Oct) | 3.3% | 3.4% | 3.0% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 2.5B |  | -65.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 285.9B |  | 384.2B |
-| 08:01 | GBP | Low | GfK Consumer Confidence (Nov) | -24 | -27 | -30 |
+| 08:01 | GBP | Low | GfK Consumer Confidence (Nov) | -24 | -28 | -30 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.1 | 48.8 | 48.7 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 51.7 |  | 51.6 |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
-| 13:00 | JPY | Low | Leading Index |  | 108.7 | 109.2 |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Oct) |  |  | -2.1% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Oct) |  |  | 10.7% |
-| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
+| 42 min | JPY | Low | Coincident Indicator (MoM) |  |  | 0.1% |
+| 42 min | JPY | Low | Leading Index |  | 108.7 | 109.2 |
+| 42 min | SGD | Low | Industrial Production (YoY) (Oct) |  | -2.1% | -2.1% |
+| 42 min | SGD | Low | Industrial Production (MoM) (Oct) |  | 0.1% | 10.7% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q3) |  | -0.1% | 0.0% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q3) |  | -0.3% | -0.2% |
 | 15:00 | EUR | Low | GDP (YoY) (Q3) |  |  | -0.20% |
 | 15:30 | CHF | Moderate | Employment Level (Q3) |  |  | 5.432M |
 | 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.6% |
@@ -29,13 +29,13 @@
 | 17:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Business Expectations (Nov) |  | 85.7 | 84.7 |
-| 17:00 | EUR | Moderate | German Current Assessment (Nov) |  | 89.4 | 89.2 |
+| 17:00 | EUR | Moderate | German Current Assessment (Nov) |  | 89.5 | 89.2 |
 | 17:00 | EUR | Moderate | German Ifo Business Climate Index (Nov) |  | 87.5 | 86.9 |
 | 17:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | CAD | Low | Corporate Profits (QoQ) |  |  | -2.0% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 590.32B |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 3.10% | 3.70% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  |  | 0.40% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Sep) |  | 3.00% | 3.70% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Sep) |  | 0.30% | 0.40% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q3) |  | 3.3% | 3.6% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q3) |  | 0.9% | 0.8% |
 | 20:00 | BRL | Low | FGV Consumer confidence (Nov) |  |  | 93.2 |
@@ -43,8 +43,8 @@
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Sep) |  | -0.2% | 0.1% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Sep) |  | 0.0% | -0.1% |
-| 22:00 | MXN | Low | Current Account (USD) (Q3) |  |  | 6,247M |
+| 22:00 | MXN | Low | Current Account (USD) (Q3) |  | 2,725M | 6,247M |
 | 22:00 | MXN | Low | Current Account % of GDP (Q3) |  |  | 1.40% |
 | 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.8 | 50.0 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  |  | 50.7 |
-| 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.3 | 50.6 |
+| 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.4 | 50.6 |
