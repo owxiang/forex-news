@@ -15,12 +15,12 @@
 | 19:30 | BRL | Low | Foreign direct investment (USD) |  |  | 3.75B |
 | 20:00 | MXN | Low | Trade Balance (Oct) |  |  | -1.481B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.822B |
-| 21:00 | USD | Moderate | Building Permits (MoM) |  | 1.1% | -4.5% |
 | 21:00 | USD | High | Building Permits |  | 1.487M | 1.471M |
+| 21:00 | USD | Moderate | Building Permits (MoM) |  | 1.1% | -4.5% |
 | 21:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.650% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.791% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.788% |
-| 23:00 | USD | High | New Home Sales (Oct) |  | 730K | 759K |
 | 23:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 12.3% |
+| 23:00 | USD | High | New Home Sales (Oct) |  | 730K | 759K |
 | 23:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
