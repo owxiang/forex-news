@@ -8,7 +8,7 @@
 | 16:30 | HKD | Exports (MoM) (Oct) |  |  | -5.3% |
 | 16:30 | HKD | Imports (MoM) (Oct) |  |  | -0.4% |
 | 16:30 | HKD | Trade Balance |  |  | -64.6B |
-| 19:00 | GBP | CBI Distributive Trades Survey (Nov) |  |  | -36 |
+| 19:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -30 | -36 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) |  |  | -1.38B |
 | 19:30 | BRL | Foreign direct investment (USD) |  |  | 3.75B |

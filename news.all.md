@@ -8,7 +8,7 @@
 | 16:30 | HKD | Low | Exports (MoM) (Oct) |  |  | -5.3% |
 | 16:30 | HKD | Low | Imports (MoM) (Oct) |  |  | -0.4% |
 | 16:30 | HKD | Low | Trade Balance |  |  | -64.6B |
-| 19:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  |  | -36 |
+| 19:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -30 | -36 |
 | 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,812.2K |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) |  |  | -1.38B |
