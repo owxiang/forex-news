@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 09:30 | CNY | Chinese Industrial profit YTD (Oct) |  |  | -9.0% |
 | 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.00% |
-| 15:00 | NOK | Core Retail Sales (MoM) (Oct) |  |  | -0.3% |
+| 15:00 | NOK | Core Retail Sales (MoM) (Oct) |  | -0.3% | -0.3% |
 | 16:30 | HKD | Exports (MoM) (Oct) |  |  | -5.3% |
 | 16:30 | HKD | Imports (MoM) (Oct) |  |  | -0.4% |
 | 16:30 | HKD | Trade Balance |  |  | -64.6B |
@@ -12,7 +12,7 @@
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) |  |  | -1.38B |
 | 19:30 | BRL | Foreign direct investment (USD) |  |  | 3.75B |
-| 20:00 | MXN | Trade Balance (Oct) |  |  | -1.481B |
+| 20:00 | MXN | Trade Balance (Oct) |  | -1.650B | -1.481B |
 | 20:00 | MXN | Trade Balance (USD) (Oct) |  |  | -0.822B |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.650% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.791% |
