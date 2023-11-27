@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18 min | CNY | Chinese Industrial profit YTD (Oct) |  |  | -9.0% |
-| 11:00 | IDR | M2 Money Supply (YoY) |  |  | 6.00% |
+| 09:30 | CNY | Chinese Industrial profit YTD (Oct) | -7.8% |  | -9.0% |
+| 32 min | IDR | M2 Money Supply (YoY) |  |  | 6.00% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Oct) |  | -0.3% | -0.3% |
 | 16:30 | HKD | Exports (MoM) (Oct) |  |  | -5.3% |
 | 16:30 | HKD | Imports (MoM) (Oct) |  |  | -0.4% |
