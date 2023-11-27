@@ -53,8 +53,8 @@
 | 22:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
 | 22:00 | USD | Low | House Price Index (Sep) |  |  | 411.8 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.2% | 2.2% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
 | 23:00 | USD | High | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |
 | 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | 1 | 3 |
