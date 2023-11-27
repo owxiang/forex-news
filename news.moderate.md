@@ -19,7 +19,7 @@
 | 15:00 | EUR | GfK German Consumer Climate (Dec) |  | -27.0 | -28.1 |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | EUR | ECB McCaul Speaks |  |  |  |
-| 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.2% | 2.2% |
+| 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
 | 23:05 | USD | Fed Waller Speaks |  |  |  |
 | 23:45 | USD | FOMC Member Bowman Speaks |  |  |  |
