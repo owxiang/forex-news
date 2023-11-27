@@ -5,9 +5,9 @@
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | -7.8% |  | -9.0% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 3.40% |  | 6.00% |
 | 15:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.6% | -0.3% | -0.3% |
-| 16:30 | HKD | Low | Exports (MoM) (Oct) |  |  | -5.3% |
-| 16:30 | HKD | Low | Imports (MoM) (Oct) |  |  | -0.4% |
-| 16:30 | HKD | Low | Trade Balance |  |  | -64.6B |
+| 8 min | HKD | Low | Exports (MoM) (Oct) |  |  | -5.3% |
+| 8 min | HKD | Low | Imports (MoM) (Oct) |  |  | -0.4% |
+| 8 min | HKD | Low | Trade Balance |  |  | -64.6B |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -30 | -36 |
 | 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,812.2K |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
