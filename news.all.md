@@ -8,13 +8,13 @@
 | 16:30 | HKD | Low | Exports (MoM) (Oct) | 1.4% |  | -5.3% |
 | 16:30 | HKD | Low | Imports (MoM) (Oct) | 2.6% |  | -0.4% |
 | 16:30 | HKD | Low | Trade Balance | -25.8B |  | -64.6B |
-| 42 min | GBP | Low | CBI Distributive Trades Survey (Nov) |  | -30 | -36 |
-| 42 min | EUR | Moderate | France Jobseekers Total |  |  | 2,812.2K |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Low | Current Account (USD) |  |  | -1.38B |
-| 19:30 | BRL | Low | Foreign direct investment (USD) |  |  | 3.75B |
-| 20:00 | MXN | Low | Trade Balance (Oct) |  | -1.650B | -1.481B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.822B |
+| 19:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -11 | -30 | -36 |
+| 19:00 | EUR | Moderate | France Jobseekers Total | 2,821.4K |  | 2,812.2K |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Low | Current Account (USD) |  |  | -1.38B |
+| 17 min | BRL | Low | Foreign direct investment (USD) |  |  | 3.75B |
+| 47 min | MXN | Low | Trade Balance (Oct) |  | -1.650B | -1.481B |
+| 47 min | MXN | Low | Trade Balance (USD) (Oct) |  |  | -0.822B |
 | 21:00 | USD | Moderate | Building Permits (MoM) |  | 1.1% | -4.5% |
 | 21:00 | USD | High | Building Permits |  | 1.487M | 1.471M |
 | 21:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
