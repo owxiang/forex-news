@@ -15,4 +15,4 @@
 | 21:55 | EUR | French 12-Month BTF Auction | 3.659% |  | 3.650% |
 | 21:55 | EUR | French 3-Month BTF Auction | 3.785% |  | 3.791% |
 | 21:55 | EUR | French 6-Month BTF Auction | 3.776% |  | 3.788% |
-| 23:30 | USD | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
+| 13 min | USD | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |

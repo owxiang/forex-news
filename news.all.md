@@ -20,6 +20,6 @@
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.785% |  | 3.791% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.776% |  | 3.788% |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 45 min | USD | High | New Home Sales (Oct) |  | 721K | 759K |
-| 45 min | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 12.3% |
-| 23:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
+| 23:00 | USD | Moderate | New Home Sales (MoM) (Oct) | -5.6% | -4.5% | 8.6% |
+| 23:00 | USD | High | New Home Sales (Oct) | 679K | 721K | 719K |
+| 13 min | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
