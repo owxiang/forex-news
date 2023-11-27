@@ -1,6 +1,5 @@
-## 27 November 2023 - High Impact Forex News
+## 28 November 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 20:50 | USD | Building Permits | 1.498M | 1.487M | 1.471M |
-| 23:00 | USD | New Home Sales (Oct) | 679K | 721K | 719K |
+| 23:00 | USD | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |

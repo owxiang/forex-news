@@ -1,18 +1,44 @@
-## 27 November 2023 - Low Impact Forex News
+## 28 November 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:30 | CNY | Chinese Industrial profit YTD (Oct) | -7.8% |  | -9.0% |
-| 11:00 | IDR | M2 Money Supply (YoY) (Oct) | 3.40% |  | 6.00% |
-| 15:00 | NOK | Core Retail Sales (MoM) (Oct) | 0.6% | -0.3% | -0.3% |
-| 16:30 | HKD | Exports (MoM) (Oct) | 1.4% |  | -5.3% |
-| 16:30 | HKD | Imports (MoM) (Oct) | 2.6% |  | -0.4% |
-| 16:30 | HKD | Trade Balance | -25.8B |  | -64.6B |
-| 19:00 | GBP | CBI Distributive Trades Survey (Nov) | -11 | -30 | -36 |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Trade Balance (Oct) | -0.252B | -1.650B | -1.481B |
-| 20:00 | MXN | Trade Balance (USD) (Oct) | 0.314B |  | -0.638B |
-| 21:55 | EUR | French 12-Month BTF Auction | 3.659% |  | 3.650% |
-| 21:55 | EUR | French 3-Month BTF Auction | 3.785% |  | 3.791% |
-| 21:55 | EUR | French 6-Month BTF Auction | 3.776% |  | 3.788% |
-| 13 min | USD | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
+| 9 min | USD | 6-Month Bill Auction |  |  | 5.230% |
+| 02:00 | USD | 3-Month Bill Auction |  |  | 5.270% |
+| 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.2K |
+| 04:30 | USD | CFTC Copper speculative net positions |  |  | -16.6K |
+| 04:30 | USD | CFTC Corn speculative net positions |  |  | -109.2K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions |  |  | -102.6K |
+| 04:30 | USD | CFTC Silver speculative net positions |  |  | 22.4K |
+| 04:30 | USD | CFTC Soybeans speculative net positions |  |  | 86.7K |
+| 04:30 | USD | CFTC Wheat speculative net positions |  |  | -59.0K |
+| 04:30 | CAD | CFTC CAD speculative net positions |  |  | -70.4K |
+| 04:30 | MXN | CFTC MXN speculative net positions |  |  | 43.4K |
+| 04:30 | CHF | CFTC CHF speculative net positions |  |  | -20.2K |
+| 04:30 | NZD | CFTC NZD speculative net positions |  |  | -17.0K |
+| 05:00 | KRW | Consumer Confidence (Nov) |  |  | 98.1 |
+| 08:01 | GBP | BRC Shop Price Index (YoY) |  |  | 5.2% |
+| 11:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 15:45 | EUR | French Consumer Confidence (Nov) |  | 85 | 84 |
+| 16:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
+| 16:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
+| 17:00 | EUR | Italian Trade Balance Non-EU (Oct) |  |  | 2.78B |
+| 17:00 | EUR | M3 Money Supply (YoY) (Oct) |  | -0.9% | -1.2% |
+| 17:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 0.2% |
+| 17:00 | EUR | Private Sector Loans (YoY) |  | 0.7% | 0.8% |
+| 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.926% |
+| 18:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.976% |
+| 19:30 | BRL | Bank lending (MoM) |  |  | 0.8% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| Tentative | BRL | Federal Tax Revenue |  | 212.50B | 174.32B |
+| 21:55 | USD | Redbook (YoY) |  |  | 3.4% |
+| 22:00 | USD | House Price Index (YoY) (Sep) |  |  | 5.6% |
+| 22:00 | USD | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
+| 22:00 | USD | House Price Index (Sep) |  |  | 411.8 |
+| 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
+| 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | Richmond Manufacturing Index (Nov) |  | 1 | 3 |
+| 23:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | 9 |
+| 23:00 | USD | Richmond Services Index (Nov) |  |  | -11 |
+| 23:30 | USD | Dallas Fed Services Revenues (Nov) |  |  | 0.7 |
+| 23:30 | USD | Texas Services Sector Outlook (Nov) |  |  | -18.2 |

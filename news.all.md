@@ -1,25 +1,66 @@
-## 27 November 2023 - All Forex News
+## 28 November 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | -7.8% |  | -9.0% |
-| 11:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 3.40% |  | 6.00% |
-| 15:00 | NOK | Low | Core Retail Sales (MoM) (Oct) | 0.6% | -0.3% | -0.3% |
-| 16:30 | HKD | Low | Exports (MoM) (Oct) | 1.4% |  | -5.3% |
-| 16:30 | HKD | Low | Imports (MoM) (Oct) | 2.6% |  | -0.4% |
-| 16:30 | HKD | Low | Trade Balance | -25.8B |  | -64.6B |
-| 19:00 | GBP | Low | CBI Distributive Trades Survey (Nov) | -11 | -30 | -36 |
-| 19:00 | EUR | Moderate | France Jobseekers Total | 2,821.4K |  | 2,812.2K |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Trade Balance (Oct) | -0.252B | -1.650B | -1.481B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Oct) | 0.314B |  | -0.638B |
-| 20:50 | USD | Moderate | Building Permits (MoM) | 1.8% | 1.1% | -4.5% |
-| 20:50 | USD | High | Building Permits | 1.498M | 1.487M | 1.471M |
-| 21:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.659% |  | 3.650% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.785% |  | 3.791% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.776% |  | 3.788% |
-| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | USD | Moderate | New Home Sales (MoM) (Oct) | -5.6% | -4.5% | 8.6% |
-| 23:00 | USD | High | New Home Sales (Oct) | 679K | 721K | 719K |
-| 13 min | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
+| 9 min | USD | Moderate | 2-Year Note Auction |  |  | 5.055% |
+| 9 min | USD | Low | 6-Month Bill Auction |  |  | 5.230% |
+| 02:00 | USD | Low | 3-Month Bill Auction |  |  | 5.270% |
+| 02:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.899% |
+| 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -27.7K |
+| 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.2K |
+| 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -16.6K |
+| 04:30 | USD | Low | CFTC Corn speculative net positions |  |  | -109.2K |
+| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 215.7K |
+| 04:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 155.4K |
+| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 0.3K |
+| 04:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -102.6K |
+| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -52.8K |
+| 04:30 | USD | Low | CFTC Silver speculative net positions |  |  | 22.4K |
+| 04:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 86.7K |
+| 04:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -59.0K |
+| 04:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -70.4K |
+| 04:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 43.4K |
+| 04:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -20.2K |
+| 04:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -71.0K |
+| 04:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 31.7K |
+| 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -130.2K |
+| 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -17.0K |
+| 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 108.9K |
+| 05:00 | KRW | Low | Consumer Confidence (Nov) |  |  | 98.1 |
+| 08:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 5.2% |
+| 08:30 | AUD | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
+| 11:20 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 11:20 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 3.4% | 3.4% |
+| 15:00 | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -27.0 | -28.1 |
+| 15:45 | EUR | Low | French Consumer Confidence (Nov) |  | 85 | 84 |
+| 16:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -14.1% |
+| 16:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.78B |
+| 17:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | -0.9% | -1.2% |
+| 17:00 | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 0.2% |
+| 17:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.7% | 0.8% |
+| 18:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.926% |
+| 18:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.976% |
+| 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.8% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| Tentative | BRL | Low | Federal Tax Revenue |  | 212.50B | 174.32B |
+| 21:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |
+| 22:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 5.6% |
+| 22:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
+| 22:00 | USD | Low | House Price Index (Sep) |  |  | 411.8 |
+| 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.2% | 2.2% |
+| 23:00 | USD | High | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |
+| 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | 1 | 3 |
+| 23:00 | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | 9 |
+| 23:00 | USD | Low | Richmond Services Index (Nov) |  |  | -11 |
+| 23:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 23:30 | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | 0.7 |
+| 23:30 | USD | Low | Texas Services Sector Outlook (Nov) |  |  | -18.2 |
+| 23:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
