@@ -12,7 +12,7 @@
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Trade Balance (Oct) | -0.252B | -1.650B | -1.481B |
 | 20:00 | MXN | Trade Balance (USD) (Oct) | 0.314B |  | -0.638B |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.650% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.791% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.788% |
+| 35 min | EUR | French 12-Month BTF Auction |  |  | 3.650% |
+| 35 min | EUR | French 3-Month BTF Auction |  |  | 3.791% |
+| 35 min | EUR | French 6-Month BTF Auction |  |  | 3.788% |
 | 23:30 | USD | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |

@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 19:00 | EUR | France Jobseekers Total | 2,821.4K |  | 2,812.2K |
-| 28 min | USD | Building Permits (MoM) |  | 1.1% | -4.5% |
-| 38 min | EUR | German Buba Balz Speaks |  |  |  |
-| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:50 | USD | Building Permits (MoM) | 1.8% | 1.1% | -4.5% |
+| 21:10 | EUR | German Buba Balz Speaks |  |  |  |
+| 40 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | USD | New Home Sales (MoM) (Oct) |  |  | 12.3% |
