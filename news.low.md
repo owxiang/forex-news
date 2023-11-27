@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 6-Month Bill Auction | 5.240% |  | 5.230% |
-| 46 min | USD | 3-Month Bill Auction |  |  | 5.270% |
+| 02:00 | USD | 3-Month Bill Auction | 5.280% |  | 5.270% |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.2K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -16.6K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -109.2K |
@@ -19,8 +19,8 @@
 | 08:01 | GBP | BRC Shop Price Index (YoY) |  |  | 5.2% |
 | 11:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 15:45 | EUR | French Consumer Confidence (Nov) |  | 85 | 84 |
-| 16:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
 | 16:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
+| 16:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
 | 17:00 | EUR | Italian Trade Balance Non-EU (Oct) |  |  | 2.78B |
 | 17:00 | EUR | M3 Money Supply (YoY) (Oct) |  | -0.9% | -1.2% |
 | 17:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 0.2% |
@@ -28,12 +28,12 @@
 | 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.926% |
 | 18:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.976% |
 | 19:30 | BRL | Bank lending (MoM) |  |  | 0.8% |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | Tentative | BRL | Federal Tax Revenue |  | 212.50B | 174.32B |
 | 21:55 | USD | Redbook (YoY) |  |  | 3.4% |
-| 22:00 | USD | House Price Index (YoY) (Sep) |  |  | 5.6% |
 | 22:00 | USD | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
+| 22:00 | USD | House Price Index (YoY) (Sep) |  |  | 5.6% |
 | 22:00 | USD | House Price Index (Sep) |  |  | 411.8 |
 | 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
 | 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
