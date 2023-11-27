@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:00 | USD | Building Permits |  | 1.487M | 1.471M |
+| 28 min | USD | Building Permits |  | 1.487M | 1.471M |
 | 23:00 | USD | New Home Sales (Oct) |  | 721K | 759K |

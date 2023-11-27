@@ -9,11 +9,9 @@
 | 16:30 | HKD | Imports (MoM) (Oct) | 2.6% |  | -0.4% |
 | 16:30 | HKD | Trade Balance | -25.8B |  | -64.6B |
 | 19:00 | GBP | CBI Distributive Trades Survey (Nov) | -11 | -30 | -36 |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 17 min | BRL | Current Account (USD) |  |  | -1.38B |
-| 17 min | BRL | Foreign direct investment (USD) |  |  | 3.75B |
-| 47 min | MXN | Trade Balance (Oct) |  | -1.650B | -1.481B |
-| 47 min | MXN | Trade Balance (USD) (Oct) |  |  | -0.822B |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Trade Balance (Oct) | -0.252B | -1.650B | -1.481B |
+| 20:00 | MXN | Trade Balance (USD) (Oct) | 0.314B |  | -0.638B |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.650% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.791% |
 | 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.788% |
