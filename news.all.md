@@ -13,13 +13,13 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Trade Balance (Oct) | -0.252B | -1.650B | -1.481B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Oct) | 0.314B |  | -0.638B |
-| 20:50 | USD | High | Building Permits | 1.498M | 1.487M | 1.471M |
 | 20:50 | USD | Moderate | Building Permits (MoM) | 1.8% | 1.1% | -4.5% |
+| 20:50 | USD | High | Building Permits | 1.498M | 1.487M | 1.471M |
 | 21:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.650% |
-| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.791% |
-| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.788% |
-| 40 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | USD | High | New Home Sales (Oct) |  | 721K | 759K |
-| 23:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 12.3% |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.659% |  | 3.650% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.785% |  | 3.791% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.776% |  | 3.788% |
+| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 45 min | USD | High | New Home Sales (Oct) |  | 721K | 759K |
+| 45 min | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 12.3% |
 | 23:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
