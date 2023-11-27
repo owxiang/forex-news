@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Oct) | -7.8% |  | -9.0% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Oct) | 3.40% |  | 6.00% |
-| 15:00 | NOK | Low | Core Retail Sales (MoM) (Oct) |  | -0.3% | -0.3% |
+| 38 min | NOK | Low | Core Retail Sales (MoM) (Oct) |  | -0.3% | -0.3% |
 | 16:30 | HKD | Low | Exports (MoM) (Oct) |  |  | -5.3% |
 | 16:30 | HKD | Low | Imports (MoM) (Oct) |  |  | -0.4% |
 | 16:30 | HKD | Low | Trade Balance |  |  | -64.6B |
@@ -22,6 +22,6 @@
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.791% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.788% |
 | 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | USD | High | New Home Sales (Oct) |  | 721K | 759K |
 | 23:00 | USD | Moderate | New Home Sales (MoM) (Oct) |  |  | 12.3% |
+| 23:00 | USD | High | New Home Sales (Oct) |  | 721K | 759K |
 | 23:30 | USD | Low | Dallas Fed Mfg Business Index (Nov) |  |  | -19.2 |
