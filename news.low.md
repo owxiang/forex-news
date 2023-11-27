@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | USD | 6-Month Bill Auction |  |  | 5.230% |
-| 02:00 | USD | 3-Month Bill Auction |  |  | 5.270% |
+| 00:30 | USD | 6-Month Bill Auction | 5.240% |  | 5.230% |
+| 46 min | USD | 3-Month Bill Auction |  |  | 5.270% |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.2K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -16.6K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -109.2K |

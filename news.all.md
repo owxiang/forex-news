@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 9 min | USD | Moderate | 2-Year Note Auction |  |  | 5.055% |
-| 9 min | USD | Low | 6-Month Bill Auction |  |  | 5.230% |
-| 02:00 | USD | Low | 3-Month Bill Auction |  |  | 5.270% |
-| 02:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.899% |
+| 00:30 | USD | Moderate | 2-Year Note Auction | 4.887% |  | 5.055% |
+| 00:30 | USD | Low | 6-Month Bill Auction | 5.240% |  | 5.230% |
+| 46 min | USD | Low | 3-Month Bill Auction |  |  | 5.270% |
+| 46 min | USD | Moderate | 5-Year Note Auction |  |  | 4.899% |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -27.7K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.2K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -16.6K |

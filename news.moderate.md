@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | USD | 2-Year Note Auction |  |  | 5.055% |
-| 02:00 | USD | 5-Year Note Auction |  |  | 4.899% |
+| 00:30 | USD | 2-Year Note Auction | 4.887% |  | 5.055% |
+| 46 min | USD | 5-Year Note Auction |  |  | 4.899% |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | -27.7K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 215.7K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 155.4K |
