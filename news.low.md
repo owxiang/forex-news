@@ -5,9 +5,9 @@
 | 09:30 | CNY | Chinese Industrial profit YTD (Oct) | -7.8% |  | -9.0% |
 | 11:00 | IDR | M2 Money Supply (YoY) (Oct) | 3.40% |  | 6.00% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Oct) | 0.6% | -0.3% | -0.3% |
-| 8 min | HKD | Exports (MoM) (Oct) |  |  | -5.3% |
-| 8 min | HKD | Imports (MoM) (Oct) |  |  | -0.4% |
-| 8 min | HKD | Trade Balance |  |  | -64.6B |
+| 16:30 | HKD | Exports (MoM) (Oct) | 1.4% |  | -5.3% |
+| 16:30 | HKD | Imports (MoM) (Oct) | 2.6% |  | -0.4% |
+| 16:30 | HKD | Trade Balance | -25.8B |  | -64.6B |
 | 19:00 | GBP | CBI Distributive Trades Survey (Nov) |  | -30 | -36 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) |  |  | -1.38B |
