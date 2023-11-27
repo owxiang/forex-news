@@ -6,27 +6,27 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.240% |  | 5.230% |
 | 02:00 | USD | Low | 3-Month Bill Auction | 5.280% |  | 5.270% |
 | 02:00 | USD | Moderate | 5-Year Note Auction | 4.420% |  | 4.899% |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -27.7K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.2K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -16.6K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions |  |  | -109.2K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 215.7K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 155.4K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 0.3K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -102.6K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -52.8K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions |  |  | 22.4K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | 86.7K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -59.0K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -70.4K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 43.4K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -20.2K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -71.0K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 31.7K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -130.2K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -17.0K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 108.9K |
-| 05:00 | KRW | Low | Consumer Confidence (Nov) |  |  | 98.1 |
+| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | -26.1K |  | -27.7K |
+| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 6.3K |  | 6.2K |
+| 04:30 | USD | Low | CFTC Copper speculative net positions | -3.5K |  | -16.6K |
+| 04:30 | USD | Low | CFTC Corn speculative net positions | -124.0K |  | -109.2K |
+| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 207.3K |  | 215.7K |
+| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 171.7K |  | 155.4K |
+| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 5.0K |  | 0.3K |
+| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -120.3K |  | -102.6K |
+| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -80.1K |  | -52.8K |
+| 04:30 | USD | Low | CFTC Silver speculative net positions | 27.5K |  | 22.4K |
+| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 73.8K |  | 86.7K |
+| 04:30 | USD | Low | CFTC Wheat speculative net positions | -77.5K |  | -59.0K |
+| 04:30 | CAD | Low | CFTC CAD speculative net positions | -65.4K |  | -70.4K |
+| 04:30 | MXN | Low | CFTC MXN speculative net positions | 58.9K |  | 43.4K |
+| 04:30 | CHF | Low | CFTC CHF speculative net positions | -19.0K |  | -20.2K |
+| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -78.0K |  | -71.0K |
+| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 33.9K |  | 31.7K |
+| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -105.5K |  | -130.2K |
+| 04:30 | NZD | Low | CFTC NZD speculative net positions | -16.9K |  | -17.0K |
+| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 129.7K |  | 108.9K |
+| 05:00 | KRW | Low | Consumer Confidence (Nov) | 97.2 |  | 98.1 |
 | 08:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 5.2% |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.9% |
 | 11:20 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
@@ -53,8 +53,8 @@
 | 22:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
 | 22:00 | USD | Low | House Price Index (Sep) |  |  | 411.8 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.2% | 2.2% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.2% | 2.2% |
 | 23:00 | USD | High | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |
 | 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | 1 | 3 |

@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 6-Month Bill Auction | 5.240% |  | 5.230% |
 | 02:00 | USD | 3-Month Bill Auction | 5.280% |  | 5.270% |
-| 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.2K |
-| 04:30 | USD | CFTC Copper speculative net positions |  |  | -16.6K |
-| 04:30 | USD | CFTC Corn speculative net positions |  |  | -109.2K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions |  |  | -102.6K |
-| 04:30 | USD | CFTC Silver speculative net positions |  |  | 22.4K |
-| 04:30 | USD | CFTC Soybeans speculative net positions |  |  | 86.7K |
-| 04:30 | USD | CFTC Wheat speculative net positions |  |  | -59.0K |
-| 04:30 | CAD | CFTC CAD speculative net positions |  |  | -70.4K |
-| 04:30 | MXN | CFTC MXN speculative net positions |  |  | 43.4K |
-| 04:30 | CHF | CFTC CHF speculative net positions |  |  | -20.2K |
-| 04:30 | NZD | CFTC NZD speculative net positions |  |  | -17.0K |
-| 05:00 | KRW | Consumer Confidence (Nov) |  |  | 98.1 |
+| 04:30 | USD | CFTC Aluminium speculative net positions | 6.3K |  | 6.2K |
+| 04:30 | USD | CFTC Copper speculative net positions | -3.5K |  | -16.6K |
+| 04:30 | USD | CFTC Corn speculative net positions | -124.0K |  | -109.2K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions | -120.3K |  | -102.6K |
+| 04:30 | USD | CFTC Silver speculative net positions | 27.5K |  | 22.4K |
+| 04:30 | USD | CFTC Soybeans speculative net positions | 73.8K |  | 86.7K |
+| 04:30 | USD | CFTC Wheat speculative net positions | -77.5K |  | -59.0K |
+| 04:30 | CAD | CFTC CAD speculative net positions | -65.4K |  | -70.4K |
+| 04:30 | MXN | CFTC MXN speculative net positions | 58.9K |  | 43.4K |
+| 04:30 | CHF | CFTC CHF speculative net positions | -19.0K |  | -20.2K |
+| 04:30 | NZD | CFTC NZD speculative net positions | -16.9K |  | -17.0K |
+| 05:00 | KRW | Consumer Confidence (Nov) | 97.2 |  | 98.1 |
 | 08:01 | GBP | BRC Shop Price Index (YoY) |  |  | 5.2% |
 | 11:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 15:45 | EUR | French Consumer Confidence (Nov) |  | 85 | 84 |
