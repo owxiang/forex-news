@@ -8,7 +8,7 @@
 | 01:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 02:00 | USD | Moderate | 7-Year Note Auction | 4.399% |  | 4.908% |
 | 02:05 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 9 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 02:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 04:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Dec) |  |  | 71 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.047M |
@@ -24,8 +24,8 @@
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  | 3.1% | 3.1% |
 | 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  |  | -14.3% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.3% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  |  | 0.3% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 6.5% |
@@ -63,8 +63,8 @@
 | 18:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 4.12% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
-| 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
 | 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
+| 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.58% | 0.50% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
@@ -79,8 +79,8 @@
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
 | 21:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.0% |
 | 21:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
-| 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
+| 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
 | 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
 | 21:30 | USD | High | GDP (QoQ) (Q3) |  | 4.9% | 2.1% |

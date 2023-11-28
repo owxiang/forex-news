@@ -46,8 +46,8 @@
 | 18:00 | EUR | Services Sentiment (Nov) |  | 4.3 | 4.5 |
 | 18:00 | EUR | Industrial Sentiment (Nov) |  | -8.8 | -9.3 |
 | 18:10 | EUR | Italian 5-Year BTP Auction |  |  | 4.12% |
-| 19:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
+| 19:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Nov) |  | 0.58% | 0.50% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
@@ -59,8 +59,8 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 359.9 |
 | 20:00 | EUR | Spanish Business Confidence |  |  | -8.7 |
 | 20:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
-| 21:00 | EUR | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:00 | EUR | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
+| 21:00 | EUR | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:30 | USD | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
 | 21:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
 | 21:30 | USD | GDP Sales (Q3) |  | 3.5% | 2.1% |
