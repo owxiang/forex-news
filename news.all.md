@@ -35,20 +35,21 @@
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Dec) | -27.8 | -27.9 | -28.3 |
 | 15:45 | EUR | Low | French Consumer Confidence (Nov) | 87 | 84 | 84 |
 | 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 40 min | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.78B |
-| 40 min | EUR | Low | M3 Money Supply (YoY) (Oct) |  | -0.9% | -1.2% |
-| 40 min | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 0.2% |
-| 40 min | EUR | Low | Private Sector Loans (YoY) |  | 0.7% | 0.8% |
-| 18:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.926% |
-| 18:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.976% |
+| 17:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) | 5.37B |  | 2.82B |
+| 17:00 | EUR | Low | M3 Money Supply (Oct) | 10,000,000.0M |  | 10,000,000.0M |
+| 17:00 | EUR | Low | M3 Money Supply (YoY) (Oct) | -1.0% | -0.9% | -1.2% |
+| 17:00 | EUR | Low | Loans to Non Financial Corporations (Oct) | -0.3% |  | 0.2% |
+| 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.6% | 0.7% | 0.8% |
+| 44 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.926% |
+| 54 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.976% |
 | 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.8% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 212.50B | 174.32B |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |
-| 22:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 5.6% |
 | 22:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
+| 22:00 | USD | Low | House Price Index (YoY) (Sep) |  |  | 5.6% |
 | 22:00 | USD | Low | House Price Index (Sep) |  |  | 411.8 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
