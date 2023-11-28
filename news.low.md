@@ -18,9 +18,9 @@
 | 05:00 | KRW | Consumer Confidence (Nov) | 97.2 |  | 98.1 |
 | 08:01 | GBP | BRC Shop Price Index (YoY) | 4.3% |  | 5.2% |
 | 11:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 15:45 | EUR | French Consumer Confidence (Nov) |  | 84 | 84 |
-| 16:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
-| 16:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
+| 30 min | EUR | French Consumer Confidence (Nov) |  | 84 | 84 |
+| 45 min | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
+| 45 min | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
 | 17:00 | EUR | Italian Trade Balance Non-EU (Oct) |  |  | 2.78B |
 | 17:00 | EUR | M3 Money Supply (YoY) (Oct) |  | -0.9% | -1.2% |
 | 17:00 | EUR | Loans to Non Financial Corporations (Oct) |  |  | 0.2% |

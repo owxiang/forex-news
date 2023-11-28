@@ -32,11 +32,11 @@
 | 11:20 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 11:20 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.4% |
-| 39 min | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -27.9 | -28.1 |
-| 15:45 | EUR | Low | French Consumer Confidence (Nov) |  | 84 | 84 |
-| 16:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -14.1% |
-| 16:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.6% |
-| 16:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:00 | EUR | Moderate | GfK German Consumer Climate (Dec) | -27.8 | -27.9 | -28.3 |
+| 30 min | EUR | Low | French Consumer Confidence (Nov) |  | 84 | 84 |
+| 45 min | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -14.1% |
+| 45 min | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.6% |
+| 45 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:00 | EUR | Low | Italian Trade Balance Non-EU (Oct) |  |  | 2.78B |
 | 17:00 | EUR | Low | M3 Money Supply (YoY) (Oct) |  | -0.9% | -1.2% |
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Oct) |  |  | 0.2% |

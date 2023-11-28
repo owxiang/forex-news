@@ -16,8 +16,8 @@
 | 08:30 | AUD | Retail Sales (MoM) (Oct) | -0.2% | 0.1% | 0.9% |
 | 11:20 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 13:00 | JPY | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.4% |
-| 39 min | EUR | GfK German Consumer Climate (Dec) |  | -27.9 | -28.1 |
-| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 15:00 | EUR | GfK German Consumer Climate (Dec) | -27.8 | -27.9 | -28.3 |
+| 45 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.0% | 2.2% |
