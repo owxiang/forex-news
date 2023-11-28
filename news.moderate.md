@@ -14,8 +14,8 @@
 | 04:30 | JPY | CFTC JPY speculative net positions | -105.5K |  | -130.2K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 129.7K |  | 108.9K |
 | 08:30 | AUD | Retail Sales (MoM) (Oct) | -0.2% | 0.2% | 0.9% |
-| 3 min | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 13:00 | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.4% |
+| 11:20 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 41 min | JPY | BoJ Core CPI (YoY) |  | 3.4% | 3.4% |
 | 15:00 | EUR | GfK German Consumer Climate (Dec) |  | -27.0 | -28.1 |
 | 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | EUR | ECB McCaul Speaks |  |  |  |
