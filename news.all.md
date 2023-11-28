@@ -41,9 +41,8 @@
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.6% | 0.7% | 0.8% |
 | 18:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.664% |  | 4.926% |
 | 18:10 | EUR | Low | Italian 6-Month BOT Auction | 3.859% |  | 3.976% |
-| 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.8% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 47 min | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
+| 47 min | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 212.50B | 174.32B |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |
@@ -51,8 +50,8 @@
 | 22:00 | USD | Low | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
 | 22:00 | USD | Low | House Price Index (Sep) |  |  | 411.8 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.0% | 2.2% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) |  |  | 0.4% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) |  | 4.0% | 2.2% |
 | 23:00 | USD | High | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |
 | 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Low | Richmond Manufacturing Index (Nov) |  | 1 | 3 |
