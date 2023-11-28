@@ -41,8 +41,8 @@
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.6% | 0.7% | 0.8% |
 | 18:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.664% |  | 4.926% |
 | 18:10 | EUR | Low | Italian 6-Month BOT Auction | 3.859% |  | 3.976% |
-| 47 min | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
-| 47 min | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.33% | 0.30% | 0.21% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.84% | 4.80% | 5.05% |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 212.50B | 174.32B |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |
