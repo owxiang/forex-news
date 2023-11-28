@@ -24,8 +24,8 @@
 | 17:00 | EUR | Bavaria CPI (YoY) (Nov) |  | 3.7% | 3.7% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 4.6% |
-| 17:00 | EUR | Hesse CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 17:00 | EUR | Hesse CPI (MoM) (Nov) |  | -0.1% | -0.1% |
+| 17:00 | EUR | Hesse CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  | 0.0% | 0.2% |
 | 17:30 | GBP | BoE Consumer Credit (Oct) |  |  | 1.391B |
 | 17:30 | GBP | M3 Money Supply (Oct) |  |  | 2,985.4B |

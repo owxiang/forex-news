@@ -26,8 +26,8 @@
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  |  | -14.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.3% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  |  | 0.3% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 6.5% |
 | 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 17:00 | EUR | Low | Italian Business Confidence (Nov) |  | 96.0 | 96.0 |
@@ -38,8 +38,8 @@
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  | 3.7% | 3.7% |
 | 17:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 4.6% |
-| 17:00 | EUR | Low | Hesse CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  | -0.1% | -0.1% |
+| 17:00 | EUR | Low | Hesse CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 17:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) |  | 0.0% | 0.2% |
 | 17:30 | GBP | Low | BoE Consumer Credit (Oct) |  |  | 1.391B |
 | 17:30 | GBP | Low | M3 Money Supply (Oct) |  |  | 2,985.4B |
