@@ -9,8 +9,8 @@
 | 02:00 | USD | Moderate | 7-Year Note Auction | 4.399% |  | 4.908% |
 | 02:05 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 02:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 04:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 05:00 | KRW | Low | Manufacturing BSI Index (Dec) |  |  | 71 |
+| 13 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 43 min | KRW | Low | Manufacturing BSI Index (Dec) |  |  | 71 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.047M |
 | 08:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) |  | 5.20% | 5.60% |
@@ -24,8 +24,8 @@
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  | 3.1% | 3.1% |
 | 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Oct) |  |  | -14.3% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  |  | 0.3% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 6.5% |
@@ -50,8 +50,8 @@
 | 18:00 | GBP | Low | 2-Year Treasury Gilt Auction |  |  | 4.964% |
 | 18:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.6% |
 | 18:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -14.1% |
-| 18:00 | EUR | Low | Saxony CPI (YoY) (Nov) |  | 4.5% | 5.4% |
 | 18:00 | EUR | Low | Saxony CPI (MoM) (Nov) |  | 0.1% | 0.3% |
+| 18:00 | EUR | Low | Saxony CPI (YoY) (Nov) |  | 4.5% | 5.4% |
 | 18:00 | EUR | Low | Business and Consumer Survey (Nov) |  | 93.8 | 93.3 |
 | 18:00 | EUR | Low | Business Climate (Nov) |  |  | -0.33 |
 | 18:00 | EUR | Low | Consumer Confidence (Nov) |  | -16.9 | -17.9 |

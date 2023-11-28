@@ -5,8 +5,8 @@
 | 00:00 | BRL | CAGED Net Payroll Jobs (Oct) | 190.37K |  | 211.76K |
 | 00:30 | USD | 52-Week Bill Auction | 4.935% |  | 5.135% |
 | 02:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 04:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 05:00 | KRW | Manufacturing BSI Index (Dec) |  |  | 71 |
+| 13 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 43 min | KRW | Manufacturing BSI Index (Dec) |  |  | 71 |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Oct) |  | 5.20% | 5.60% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 7.67% |
 | 14:00 | ZAR | Private Sector Credit (Oct) |  |  | 4.60% |
@@ -36,8 +36,8 @@
 | 18:00 | GBP | 2-Year Treasury Gilt Auction |  |  | 4.964% |
 | 18:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
 | 18:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
-| 18:00 | EUR | Saxony CPI (YoY) (Nov) |  | 4.5% | 5.4% |
 | 18:00 | EUR | Saxony CPI (MoM) (Nov) |  | 0.1% | 0.3% |
+| 18:00 | EUR | Saxony CPI (YoY) (Nov) |  | 4.5% | 5.4% |
 | 18:00 | EUR | Business and Consumer Survey (Nov) |  | 93.8 | 93.3 |
 | 18:00 | EUR | Business Climate (Nov) |  |  | -0.33 |
 | 18:00 | EUR | Consumer Confidence (Nov) |  | -16.9 | -17.9 |
