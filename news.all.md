@@ -32,7 +32,7 @@
 | 11:20 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 11:20 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.4% |
-| 15:00 | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -27.9 | -28.1 |
+| 39 min | EUR | Moderate | GfK German Consumer Climate (Dec) |  | -27.9 | -28.1 |
 | 15:45 | EUR | Low | French Consumer Confidence (Nov) |  | 84 | 84 |
 | 16:00 | EUR | Low | Italian PPI (YoY) (Oct) |  |  | -14.1% |
 | 16:00 | EUR | Low | Italian PPI (MoM) (Oct) |  |  | 0.6% |
@@ -44,8 +44,8 @@
 | 18:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.926% |
 | 18:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.976% |
 | 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.8% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | Tentative | BRL | Low | Federal Tax Revenue |  | 212.50B | 174.32B |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |

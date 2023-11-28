@@ -28,8 +28,8 @@
 | 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.926% |
 | 18:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.976% |
 | 19:30 | BRL | Bank lending (MoM) |  |  | 0.8% |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Nov) |  | 4.80% | 5.05% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) |  | 0.30% | 0.21% |
 | Tentative | BRL | Federal Tax Revenue |  | 212.50B | 174.32B |
 | 21:55 | USD | Redbook (YoY) |  |  | 3.4% |
 | 22:00 | USD | House Price Index (YoY) (Sep) |  |  | 5.6% |
