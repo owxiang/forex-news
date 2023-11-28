@@ -6,7 +6,7 @@
 | 01:00 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 02:00 | USD | 7-Year Note Auction | 4.399% |  | 4.908% |
 | 02:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 16 min | USD | API Weekly Crude Oil Stock |  | -2.000M | 9.047M |
+| 05:30 | USD | API Weekly Crude Oil Stock | -0.817M | -2.000M | 9.047M |
 | 08:30 | AUD | Construction Work Done (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 09:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 09:00 | NZD | RBNZ Rate Statement |  |  |  |
