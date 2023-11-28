@@ -41,22 +41,22 @@
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.6% | 0.7% | 0.8% |
 | 18:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.664% |  | 4.926% |
 | 18:10 | EUR | Low | Italian 6-Month BOT Auction | 3.859% |  | 3.976% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.84% | 4.80% | 5.05% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Nov) | 0.33% | 0.30% | 0.21% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Nov) | 4.84% | 4.80% | 5.05% |
 | 20:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) | 6.3% |  | 3.4% |
 | 22:00 | USD | Low | House Price Index (YoY) (Sep) | 6.1% |  | 5.8% |
 | 22:00 | USD | Low | House Price Index (MoM) (Sep) | 0.6% | 0.4% | 0.7% |
 | 22:00 | USD | Low | House Price Index (Sep) | 414.8 |  | 412.2 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) | 0.7% |  | 0.8% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 3.9% | 4.0% | 2.1% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | 0.2% |  | 0.3% |
-| 45 min | USD | High | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |
-| 45 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 45 min | USD | Low | Richmond Manufacturing Index (Nov) |  | 1 | 3 |
-| 45 min | USD | Low | Richmond Manufacturing Shipments (Nov) |  |  | 9 |
-| 45 min | USD | Low | Richmond Services Index (Nov) |  |  | -11 |
-| 50 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:30 | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | 0.7 |
-| 23:30 | USD | Low | Texas Services Sector Outlook (Nov) |  |  | -18.2 |
-| 23:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 3.9% | 4.0% | 2.1% |
+| 23:00 | USD | High | CB Consumer Confidence (Nov) | 102.0 | 101.0 | 99.1 |
+| 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | Low | Richmond Manufacturing Index (Nov) | -5 | 1 | 3 |
+| 23:00 | USD | Low | Richmond Manufacturing Shipments (Nov) | -8 |  | 9 |
+| 23:00 | USD | Low | Richmond Services Index (Nov) | 1 |  | -11 |
+| 23:05 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 12 min | USD | Low | Dallas Fed Services Revenues (Nov) |  |  | 0.7 |
+| 12 min | USD | Low | Texas Services Sector Outlook (Nov) |  |  | -18.2 |
+| 27 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

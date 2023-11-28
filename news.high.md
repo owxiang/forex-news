@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | USD | CB Consumer Confidence (Nov) |  | 101.0 | 102.6 |
+| 23:00 | USD | CB Consumer Confidence (Nov) | 102.0 | 101.0 | 99.1 |
