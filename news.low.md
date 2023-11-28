@@ -25,14 +25,14 @@
 | 17:00 | EUR | Private Sector Loans (YoY) | 0.6% | 0.7% | 0.8% |
 | 18:00 | GBP | 30-Year Treasury Gilt Auction | 4.664% |  | 4.926% |
 | 18:10 | EUR | Italian 6-Month BOT Auction | 3.859% |  | 3.976% |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.33% | 0.30% | 0.21% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Nov) | 4.84% | 4.80% | 5.05% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Nov) | 0.33% | 0.30% | 0.21% |
 | Tentative | BRL | Federal Tax Revenue |  | 212.50B | 174.32B |
-| 21:55 | USD | Redbook (YoY) |  |  | 3.4% |
-| 22:00 | USD | House Price Index (YoY) (Sep) |  |  | 5.6% |
-| 22:00 | USD | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
-| 22:00 | USD | House Price Index (Sep) |  |  | 411.8 |
-| 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
+| 35 min | USD | Redbook (YoY) |  |  | 3.4% |
+| 40 min | USD | House Price Index (YoY) (Sep) |  |  | 5.6% |
+| 40 min | USD | House Price Index (MoM) (Sep) |  | 0.4% | 0.6% |
+| 40 min | USD | House Price Index (Sep) |  |  | 411.8 |
+| 40 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Sep) |  |  | 1.0% |
 | 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Richmond Manufacturing Index (Nov) |  | 1 | 3 |
 | 23:00 | USD | Richmond Manufacturing Shipments (Nov) |  |  | 9 |
