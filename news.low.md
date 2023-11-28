@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | BRL | CAGED Net Payroll Jobs (Oct) | 190.37K |  | 211.76K |
 | 00:30 | USD | 52-Week Bill Auction | 4.935% |  | 5.135% |
-| 51 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 02:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:00 | KRW | Manufacturing BSI Index (Dec) |  |  | 71 |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Oct) |  | 5.20% | 5.60% |
@@ -20,10 +20,10 @@
 | 17:00 | EUR | Italian Consumer Confidence (Nov) |  | 102.0 | 101.6 |
 | 17:00 | CHF | ZEW Expectations (Nov) |  |  | -37.8 |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  | 4.4% | 4.4% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Nov) |  | 3.7% | 3.7% |
-| 17:00 | EUR | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 4.6% |
+| 17:00 | EUR | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Hesse CPI (MoM) (Nov) |  | -0.1% | -0.1% |
 | 17:00 | EUR | Hesse CPI (YoY) (Nov) |  | 3.6% | 3.6% |
 | 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Nov) |  | 0.0% | 0.2% |
