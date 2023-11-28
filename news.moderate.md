@@ -1,25 +1,28 @@
-## 28 November 2023 - Moderate Impact Forex News
+## 29 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 2-Year Note Auction | 4.887% |  | 5.055% |
-| 02:00 | USD | 5-Year Note Auction | 4.420% |  | 4.899% |
-| 04:30 | GBP | CFTC GBP speculative net positions | -26.1K |  | -27.7K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 207.3K |  | 215.7K |
-| 04:30 | USD | CFTC Gold speculative net positions | 171.7K |  | 155.4K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | 5.0K |  | 0.3K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | -80.1K |  | -52.8K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -78.0K |  | -71.0K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 33.9K |  | 31.7K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -105.5K |  | -130.2K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 129.7K |  | 108.9K |
-| 08:30 | AUD | Retail Sales (MoM) (Oct) | -0.2% | 0.1% | 0.9% |
-| 11:20 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 13:00 | JPY | BoJ Core CPI (YoY) | 3.0% | 3.4% | 3.4% |
-| 15:00 | EUR | GfK German Consumer Climate (Dec) | -27.8 | -27.9 | -28.3 |
-| 16:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 20:30 | EUR | ECB McCaul Speaks |  |  |  |
-| 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep) | 0.2% |  | 0.3% |
-| 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep) | 3.9% | 4.0% | 2.1% |
-| 23:05 | USD | Fed Waller Speaks |  |  |  |
-| 27 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 38 min | GBP | MPC Member Haskel Speaks |  |  |  |
+| 02:00 | USD | 7-Year Note Auction |  |  | 4.908% |
+| 02:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | 9.047M |
+| 08:30 | AUD | Construction Work Done (QoQ) (Q3) |  | 0.3% | 0.4% |
+| 09:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 09:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 09:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
+| 10:00 | NZD | RBNZ Press Conference |  |  |  |
+| 16:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
+| 16:00 | EUR | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
+| 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.76% |
+| 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
+| 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
+| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 74.4% |
+| 21:00 | EUR | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
+| 21:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
+| 21:30 | USD | Goods Trade Balance (Oct) |  | -86.70B | -86.84B |
+| 21:30 | USD | Retail Inventories Ex Auto (Oct) |  |  | 0.4% |
+| 21:30 | CAD | Current Account (Q3) |  | -8.5B | -6.6B |
+| 23:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.858M |
