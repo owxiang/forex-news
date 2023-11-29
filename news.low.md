@@ -35,8 +35,8 @@
 | 15:45 | EUR | CPI NSA (MoM) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
 | 15:45 | EUR | French HICP (YoY) |  | 4.1% | 4.5% |
-| 15:45 | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
 | 15:45 | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
+| 15:45 | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
 | 16:00 | CHF | Official Reserves Assets (Oct) |  |  | 747.9B |
 | 16:30 | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |
@@ -47,8 +47,8 @@
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
 | 17:30 | ZAR | PPI (YoY) (Oct) |  |  | 5.1% |
 | 17:30 | ZAR | PPI (MoM) (Oct) |  |  | 1.5% |
-| 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
 | 18:00 | INR | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |

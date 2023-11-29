@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 25 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 40 min | USD | Moderate | Beige Book |  |  |  |
+| 02:45 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 03:00 | USD | Moderate | Beige Book |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Oct) |  |  | -4.7% |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.5% | 1.8% |
@@ -40,8 +40,8 @@
 | 13:00 | JPY | Low | Construction Orders (YoY) (Oct) |  |  | -3.0% |
 | 13:00 | JPY | Low | Household Confidence (Nov) |  | 35.6 | 35.7 |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Oct) |  | -6.8% | -6.8% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | 0.9% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | -3.3% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | 0.9% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  | -1.9% | -4.3% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.5% | -0.8% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
@@ -53,8 +53,8 @@
 | 15:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.1% | 0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) |  | 4.1% | 4.5% |
-| 15:45 | EUR | Low | French PPI (MoM) (Oct) |  |  | 0.7% |
 | 15:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -1.70% |
+| 15:45 | EUR | Low | French PPI (MoM) (Oct) |  |  | 0.7% |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 96.7 | 95.8 |
 | 16:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 747.9B |
 | 16:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 2.3% |
@@ -69,8 +69,8 @@
 | 17:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 5.1% |
 | 17:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | 1.5% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 18:00 | EUR | Low | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |
@@ -90,8 +90,8 @@
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.7% |
 | 20:00 | ZAR | Low | Trade Balance (Oct) |  |  | 13.14B |
 | 21:30 | USD | Low | Continuing Jobless Claims |  | 1,855K | 1,840K |
-| 21:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
 | 21:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  | 3.5% | 3.7% |
+| 21:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 218K | 209K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.00K |
 | 21:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  | 3.1% | 3.4% |
