@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.188B |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -3.188B |
 | 02:45 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 03:00 | USD | Moderate | Beige Book |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Oct) |  |  | -4.7% |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.5% | 1.8% |
+| 07:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | 0.2% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | 0.4% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 2.5B |
@@ -52,8 +52,8 @@
 | 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.1% | 0.1% |
 | 15:45 | EUR | Moderate | French GDP (YoY) |  | 0.7% | 0.9% |
 | 15:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
-| 15:45 | EUR | Low | French HICP (YoY) |  | 4.1% | 4.5% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.1% | 0.2% |
+| 15:45 | EUR | Low | French HICP (YoY) |  | 4.1% | 4.5% |
 | 15:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -1.70% |
 | 15:45 | EUR | Low | French PPI (MoM) (Oct) |  |  | 0.7% |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 96.7 | 95.8 |
@@ -67,8 +67,8 @@
 | 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
 | 17:00 | EUR | Low | Spanish Current account (Sep) |  |  | 4.19B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
-| 17:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | 1.5% |
 | 17:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 5.1% |
+| 17:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | 1.5% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
@@ -102,9 +102,9 @@
 | 21:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
 | 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 4.15% |
 | 21:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.70% |
-| 21:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.0% |
 | 21:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 21:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.12% |
+| 21:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.0% |
 | 21:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
 | 21:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
 | 21:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |

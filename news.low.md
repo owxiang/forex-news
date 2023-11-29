@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -3.188B |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -3.188B |
 | 05:45 | NZD | Building Consents (MoM) (Oct) |  |  | -4.7% |
-| 07:00 | KRW | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
 | 07:00 | KRW | Industrial Production (MoM) (Oct) |  | 0.5% | 1.8% |
+| 07:00 | KRW | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
 | 07:00 | KRW | Retail Sales (MoM) (Oct) |  |  | 0.2% |
 | 07:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | 0.4% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 2.5B |
@@ -46,8 +46,8 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
 | 17:00 | EUR | Spanish Current account (Sep) |  |  | 4.19B |
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
-| 17:30 | ZAR | PPI (MoM) (Oct) |  |  | 1.5% |
 | 17:30 | ZAR | PPI (YoY) (Oct) |  |  | 5.1% |
+| 17:30 | ZAR | PPI (MoM) (Oct) |  |  | 1.5% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
