@@ -15,7 +15,7 @@
 | 16:00 | EUR | Spanish CPI (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
 | 16:00 | EUR | Spanish HICP (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.76% |
+| 54 min | EUR | Italian 10-Year BTP Auction |  |  | 4.76% |
 | 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
 | 21:00 | EUR | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
 | 21:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |

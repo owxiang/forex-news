@@ -10,44 +10,44 @@
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 5.20% | 5.60% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Oct) | 6.08% | 7.10% | 7.67% |
 | 14:00 | ZAR | Private Sector Credit (Oct) | 3.94% | 4.40% | 4.60% |
-| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
 | 14:30 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% | 0.0% | 0.2% |
+| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
 | 14:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | -0.1% |
 | 15:00 | EUR | German Import Price Index (MoM) (Oct) | 0.3% | -0.1% | 1.6% |
 | 15:00 | EUR | German Import Price Index (YoY) (Oct) | -13.0% | -13.4% | -14.3% |
 | 16:00 | EUR | Spanish CPI (MoM) (Nov) | -0.4% | 0.1% | 0.3% |
 | 16:00 | EUR | Spanish HICP (MoM) (Nov) | -0.6% | -0.1% | 0.3% |
 | 16:00 | EUR | Spanish Retail Sales (YoY) (Oct) | 5.0% |  | 6.3% |
-| 39 min | EUR | Italian Business Confidence (Nov) |  | 96.0 | 96.0 |
-| 39 min | EUR | Italian Consumer Confidence (Nov) |  | 102.0 | 101.6 |
-| 39 min | CHF | ZEW Expectations (Nov) |  |  | -37.8 |
-| 39 min | EUR | Baden Wuerttemberg CPI (MoM) |  | 0.0% | 0.2% |
-| 39 min | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  | 4.4% | 5.1% |
-| 39 min | EUR | Bavaria CPI (YoY) (Nov) |  | 3.7% | 4.1% |
-| 39 min | EUR | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
-| 39 min | EUR | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 5.6% |
-| 39 min | EUR | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
-| 39 min | EUR | Hesse CPI (YoY) (Nov) |  | 3.6% | 4.7% |
-| 39 min | EUR | Hesse CPI (MoM) (Nov) |  | -0.1% | 0.3% |
-| 17:30 | GBP | BoE Consumer Credit (Oct) |  | 1.500B | 1.391B |
-| 17:30 | GBP | M3 Money Supply (Oct) |  |  | 2,985.4B |
-| 17:30 | GBP | M4 Money Supply (MoM) (Oct) |  | -0.2% | -1.1% |
-| 17:30 | GBP | Mortgage Approvals (Oct) |  | 45.00K | 43.33K |
-| 17:30 | GBP | Mortgage Lending (Oct) |  | -0.10B | -0.94B |
-| 17:30 | GBP | Net Lending to Individuals |  | 1.2B | 0.5B |
-| 18:00 | GBP | 2-Year Treasury Gilt Auction |  |  | 4.964% |
-| 18:00 | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
-| 18:00 | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
-| 18:00 | EUR | Saxony CPI (YoY) (Nov) |  | 4.5% | 5.4% |
-| 18:00 | EUR | Saxony CPI (MoM) (Nov) |  | 0.1% | 0.3% |
-| 18:00 | EUR | Business and Consumer Survey (Nov) |  | 93.7 | 93.3 |
-| 18:00 | EUR | Business Climate (Nov) |  |  | -0.33 |
-| 18:00 | EUR | Consumer Confidence (Nov) |  | -16.9 | -17.9 |
-| 18:00 | EUR | Consumer Inflation Expectation (Nov) |  |  | 11.4 |
-| 18:00 | EUR | Selling Price Expectations (Nov) |  |  | 3.6 |
-| 18:00 | EUR | Services Sentiment (Nov) |  | 4.3 | 4.5 |
-| 18:00 | EUR | Industrial Sentiment (Nov) |  | -8.9 | -9.3 |
-| 18:10 | EUR | Italian 5-Year BTP Auction |  |  | 4.12% |
+| 17:00 | EUR | Italian Business Confidence (Nov) | 96.6 | 96.0 | 96.1 |
+| 17:00 | EUR | Italian Consumer Confidence (Nov) | 103.6 | 102.0 | 101.6 |
+| 17:00 | CHF | ZEW Expectations (Nov) | -29.6 |  | -37.8 |
+| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) | 3.4% | 4.4% | 5.1% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) | -0.3% | 0.0% | 0.2% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Nov) | -0.4% | 0.0% | 0.3% |
+| 17:00 | EUR | Bavaria CPI (YoY) (Nov) | 2.8% | 3.7% | 4.1% |
+| 17:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.3% | 0.3% | 0.3% |
+| 17:00 | EUR | Brandenburg CPI (YoY) (Nov) | 4.1% | 4.6% | 5.6% |
+| 17:00 | EUR | Hesse CPI (YoY) (Nov) | 2.9% | 3.6% | 4.7% |
+| 17:00 | EUR | Hesse CPI (MoM) (Nov) | -0.4% | -0.1% | 0.3% |
+| 17:00 | EUR | Saxony CPI (YoY) (Nov) | 3.9% | 4.5% | 5.4% |
+| 17:00 | EUR | Saxony CPI (MoM) (Nov) | -0.3% | 0.1% | 0.3% |
+| 14 min | GBP | BoE Consumer Credit (Oct) |  | 1.500B | 1.391B |
+| 14 min | GBP | M3 Money Supply (Oct) |  |  | 2,985.4B |
+| 14 min | GBP | M4 Money Supply (MoM) (Oct) |  | -0.2% | -1.1% |
+| 14 min | GBP | Mortgage Approvals (Oct) |  | 45.00K | 43.33K |
+| 14 min | GBP | Mortgage Lending (Oct) |  | -0.10B | -0.94B |
+| 14 min | GBP | Net Lending to Individuals |  | 1.2B | 0.5B |
+| 44 min | GBP | 2-Year Treasury Gilt Auction |  |  | 4.964% |
+| 44 min | EUR | Italian PPI (MoM) (Oct) |  |  | 0.6% |
+| 44 min | EUR | Italian PPI (YoY) (Oct) |  |  | -14.1% |
+| 44 min | EUR | Business and Consumer Survey (Nov) |  | 93.7 | 93.3 |
+| 44 min | EUR | Business Climate (Nov) |  |  | -0.33 |
+| 44 min | EUR | Consumer Confidence (Nov) |  | -16.9 | -17.9 |
+| 44 min | EUR | Consumer Inflation Expectation (Nov) |  |  | 11.4 |
+| 44 min | EUR | Selling Price Expectations (Nov) |  |  | 3.6 |
+| 44 min | EUR | Services Sentiment (Nov) |  | 4.3 | 4.5 |
+| 44 min | EUR | Industrial Sentiment (Nov) |  | -8.9 | -9.3 |
+| 54 min | EUR | Italian 5-Year BTP Auction |  |  | 4.12% |
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Nov) |  | 0.60% | 0.50% |
@@ -59,8 +59,8 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 359.9 |
 | 20:00 | EUR | Spanish Business Confidence |  |  | -8.7 |
 | 20:00 | BRL | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
-| 21:00 | EUR | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:00 | EUR | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
+| 21:00 | EUR | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:30 | USD | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
 | 21:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
 | 21:30 | USD | GDP Sales (Q3) |  | 3.5% | 2.1% |
