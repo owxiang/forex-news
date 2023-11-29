@@ -22,15 +22,15 @@
 | 10:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 6.08% | 7.10% | 7.67% |
 | 14:00 | ZAR | Low | Private Sector Credit (Oct) | 3.94% | 4.40% | 4.60% |
-| 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% | 0.0% | 0.2% |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
+| 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% | 0.0% | 0.2% |
 | 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | -0.1% |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.3% | -0.1% | 1.6% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -13.0% | -13.4% | -14.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) | -0.4% | 0.1% | 0.3% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.6% | -0.1% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.6% | -0.1% | 0.3% |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) | 5.0% |  | 6.3% |
 | 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 17:00 | EUR | Low | Italian Business Confidence (Nov) | 96.6 | 96.0 | 96.1 |
@@ -38,10 +38,10 @@
 | 17:00 | CHF | Low | ZEW Expectations (Nov) | -29.6 |  | -37.8 |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) | 3.4% | 4.4% | 5.1% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | -0.3% | 0.0% | 0.2% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) | -0.4% | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Nov) | 2.8% | 3.7% | 4.1% |
-| 17:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 4.1% | 4.6% | 5.6% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) | -0.4% | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) | -0.3% | 0.3% | 0.3% |
+| 17:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 4.1% | 4.6% | 5.6% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.9% | 3.6% | 4.7% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Nov) | -0.4% | -0.1% | 0.3% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Nov) | 3.9% | 4.5% | 5.4% |
@@ -62,24 +62,24 @@
 | 18:00 | EUR | Low | Selling Price Expectations (Nov) | 2.3 |  | 3.5 |
 | 18:00 | EUR | Low | Services Sentiment (Nov) | 4.9 | 4.3 | 4.6 |
 | 18:00 | EUR | Low | Industrial Sentiment (Nov) | -9.5 | -8.9 | -9.2 |
-| 18:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.76% |
-| 18:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 4.12% |
-| 12 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
-| 42 min | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
-| 42 min | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
-| 42 min | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.60% | 0.50% |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.0% |
-| 20:00 | USD | Low | MBA Purchase Index |  |  | 138.4 |
-| 20:00 | USD | Low | Mortgage Market Index |  |  | 175.6 |
-| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 359.9 |
-| 20:00 | EUR | Low | Spanish Business Confidence |  |  | -8.7 |
-| 20:00 | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
+| 18:10 | EUR | Moderate | Italian 10-Year BTP Auction | 4.17% |  | 4.76% |
+| 18:10 | EUR | Low | Italian 5-Year BTP Auction | 3.61% |  | 4.12% |
+| 18:40 | EUR | Moderate | German 10-Year Bund Auction | 2.450% |  | 2.640% |
+| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) | 1.20% |  | -0.40% |
+| 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) | -2.60% |  | -5.00% |
+| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) | 0.59% | 0.60% | 0.50% |
+| 17 min | INR | Low | M3 Money Supply |  |  | 11.0% |
+| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
+| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.0% |
+| 47 min | USD | Low | MBA Purchase Index |  |  | 138.4 |
+| 47 min | USD | Low | Mortgage Market Index |  |  | 175.6 |
+| 47 min | USD | Low | Mortgage Refinance Index |  |  | 359.9 |
+| 47 min | EUR | Low | Spanish Business Confidence |  |  | -8.7 |
+| 47 min | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
 | 21:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.0% |
 | 21:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
-| 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
 | 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
+| 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
 | 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
 | 21:30 | USD | High | GDP (QoQ) (Q3) |  | 4.9% | 2.1% |
