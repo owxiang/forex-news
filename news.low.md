@@ -7,7 +7,7 @@
 | 02:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:00 | KRW | Manufacturing BSI Index (Dec) | 72 |  | 71 |
-| 08:30 | AUD | Monthly CPI Indicator (YoY) (Oct) |  | 5.20% | 5.60% |
+| 08:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 5.20% | 5.60% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Oct) |  |  | 7.67% |
 | 14:00 | ZAR | Private Sector Credit (Oct) |  |  | 4.60% |
 | 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Nov) |  | 3.1% | 3.1% |
@@ -20,8 +20,8 @@
 | 17:00 | EUR | Italian Consumer Confidence (Nov) |  | 102.0 | 101.6 |
 | 17:00 | CHF | ZEW Expectations (Nov) |  |  | -37.8 |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Nov) |  | 4.4% | 4.4% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Nov) |  | 3.7% | 3.7% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 4.6% |
 | 17:00 | EUR | Hesse CPI (MoM) (Nov) |  | -0.1% | -0.1% |

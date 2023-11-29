@@ -12,13 +12,13 @@
 | 04:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Dec) | 72 |  | 71 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.817M | -2.000M | 9.047M |
-| 08:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) |  | 0.3% | 0.4% |
-| 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) |  | 5.20% | 5.60% |
-| 09:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 08:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | 1.3% | 0.3% | 0.4% |
+| 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 5.20% | 5.60% |
+| 09:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 09:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 09:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 09:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
-| 10:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 18 min | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
+| 48 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) |  |  | 7.67% |
 | 14:00 | ZAR | Low | Private Sector Credit (Oct) |  |  | 4.60% |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  | 3.1% | 3.1% |
@@ -34,8 +34,8 @@
 | 17:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 102.0 | 101.6 |
 | 17:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -37.8 |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) |  | 4.4% | 4.4% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  | 3.7% | 3.7% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 4.6% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  | -0.1% | -0.1% |
@@ -77,8 +77,8 @@
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 359.9 |
 | 20:00 | EUR | Low | Spanish Business Confidence |  |  | -8.7 |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
-| 21:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
 | 21:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.0% |
+| 21:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
 | 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.40% | 3.70% |

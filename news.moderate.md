@@ -7,11 +7,11 @@
 | 02:00 | USD | 7-Year Note Auction | 4.399% |  | 4.908% |
 | 02:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | -0.817M | -2.000M | 9.047M |
-| 08:30 | AUD | Construction Work Done (QoQ) (Q3) |  | 0.3% | 0.4% |
+| 08:30 | AUD | Construction Work Done (QoQ) (Q3) | 1.3% | 0.3% | 0.4% |
 | 09:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 09:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 09:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
-| 10:00 | NZD | RBNZ Press Conference |  |  |  |
+| 18 min | JPY | BoJ Board Member Adachi Speaks |  |  |  |
+| 48 min | NZD | RBNZ Press Conference |  |  |  |
 | 16:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
