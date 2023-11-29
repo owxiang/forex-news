@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 32 min | NZD | Building Consents (MoM) (Oct) |  |  | -4.7% |
-| 07:00 | KRW | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
-| 07:00 | KRW | Industrial Production (MoM) (Oct) |  | 0.5% | 1.8% |
-| 07:00 | KRW | Retail Sales (MoM) (Oct) |  |  | 0.2% |
-| 07:00 | KRW | Service Sector Output (MoM) (Oct) |  |  | 0.4% |
+| 05:45 | NZD | Building Consents (MoM) (Oct) | 8.7% |  | -4.6% |
+| 45 min | KRW | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
+| 45 min | KRW | Industrial Production (MoM) (Oct) |  | 0.5% | 1.8% |
+| 45 min | KRW | Retail Sales (MoM) (Oct) |  |  | 0.2% |
+| 45 min | KRW | Service Sector Output (MoM) (Oct) |  |  | 0.4% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 2.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 285.9B |
 | 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Nov) |  |  | 3.9% |
@@ -16,16 +16,15 @@
 | 07:50 | JPY | Retail Sales (YoY) (Oct) |  | 5.9% | 5.8% |
 | 08:00 | NZD | ANZ Business Confidence (Nov) |  |  | 23.4 |
 | 08:00 | NZD | NBNZ Own Activity (Nov) |  |  | 23.1% |
-| 08:30 | AUD | Building Approvals (YoY) (Oct) |  | -7.10% | -7.10% |
+| 08:30 | AUD | Building Approvals (YoY) (Oct) |  |  | -20.60% |
 | 08:30 | AUD | Building Capital Expenditure (MoM) (Q3) |  |  | 3.5% |
 | 08:30 | AUD | Housing Credit (Oct) |  |  | 0.4% |
 | 08:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) |  |  | 1.9% |
 | 08:30 | AUD | Private House Approvals (Oct) |  |  | -4.6% |
 | 08:30 | AUD | Private Sector Credit (MoM) (Oct) |  | 0.4% | 0.5% |
-| 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Interest Rate Decision (Nov) |  |  | 3.50% |
+| 09:00 | KRW | Interest Rate Decision (Nov) |  | 3.50% | 3.50% |
 | 10:00 | SGD | Bank Lending |  |  | 787.7B |
-| 10:00 | NZD | M3 Money Supply (Oct) |  |  | 404,877.0B |
+| 10:00 | NZD | M3 Money Supply (Oct) |  |  | 404.9B |
 | 11:35 | JPY | 2-Year JGB Auction |  |  | 0.106% |
 | 13:00 | JPY | Construction Orders (YoY) (Oct) |  |  | -3.0% |
 | 13:00 | JPY | Household Confidence (Nov) |  | 35.6 | 35.7 |
@@ -51,11 +50,12 @@
 | 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
-| 18:00 | INR | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
 | 18:00 | EUR | CPI, n.s.a (Nov) |  |  | 124.54 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  |  | 5.0% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.2% |
+| 18:30 | INR | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 2.90% |
@@ -69,6 +69,6 @@
 | 21:30 | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 0.70% |
 | 21:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 23:00 | USD | Pending Home Sales Index (Oct) |  |  | 72.6 |
-| 23:30 | USD | Natural Gas Storage |  |  | -7B |
+| 23:30 | USD | Natural Gas Storage |  | -12B | -7B |
 | 23:50 | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
 | 23:50 | ZAR | Budget Balance (MoM) (Oct) |  |  | -14.59B |
