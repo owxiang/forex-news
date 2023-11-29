@@ -7,7 +7,7 @@
 | 02:00 | USD | 7-Year Note Auction | 4.399% |  | 4.908% |
 | 02:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | -0.817M | -2.000M | 9.047M |
-| 08:30 | AUD | Construction Work Done (QoQ) (Q3) | 1.3% | 0.3% | 0.4% |
+| 08:30 | AUD | Construction Work Done (QoQ) (Q3) | 1.3% | 0.4% | 0.4% |
 | 09:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 09:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 09:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
@@ -23,6 +23,6 @@
 | 21:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
 | 21:30 | USD | Goods Trade Balance (Oct) |  | -86.70B | -86.84B |
 | 21:30 | USD | Retail Inventories Ex Auto (Oct) |  |  | 0.4% |
-| 21:30 | CAD | Current Account (Q3) |  | -8.5B | -6.6B |
+| 21:30 | CAD | Current Account (Q3) |  | 1.0B | -6.6B |
 | 23:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.858M |
