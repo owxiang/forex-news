@@ -1,103 +1,121 @@
-## 29 November 2023 - All Forex News
+## 30 November 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | BRL | Low | CAGED Net Payroll Jobs (Oct) | 190.37K | 123.40K | 211.76K |
-| 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 00:30 | USD | Low | 52-Week Bill Auction | 4.935% |  | 5.135% |
-| 01:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
-| 02:00 | USD | Moderate | 7-Year Note Auction | 4.399% |  | 4.908% |
-| 02:00 | USD | Low | M2 Money Supply (MoM) (Oct) | 20.73T |  | 20.76T |
-| 02:05 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 02:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 04:30 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 05:00 | KRW | Low | Manufacturing BSI Index (Dec) | 72 |  | 71 |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -0.817M | -2.000M | 9.047M |
-| 08:30 | AUD | Moderate | Construction Work Done (QoQ) (Q3) | 1.3% | 0.4% | 0.4% |
-| 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 5.20% | 5.60% |
-| 09:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 09:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
-| 09:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 09:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
-| 10:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 6.08% | 7.10% | 7.67% |
-| 14:00 | ZAR | Low | Private Sector Credit (Oct) | 3.94% | 4.40% | 4.60% |
-| 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% | 0.0% | 0.2% |
-| 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
-| 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | -0.1% |
-| 15:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.3% | -0.1% | 1.6% |
-| 15:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -13.0% | -13.4% | -14.3% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) | -0.4% | 0.1% | 0.3% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.6% | -0.1% | 0.3% |
-| 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) | 5.0% |  | 6.3% |
-| 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 17:00 | EUR | Low | Italian Business Confidence (Nov) | 96.6 | 96.0 | 96.1 |
-| 17:00 | EUR | Low | Italian Consumer Confidence (Nov) | 103.6 | 102.0 | 101.6 |
-| 17:00 | CHF | Low | ZEW Expectations (Nov) | -29.6 |  | -37.8 |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | -0.3% | 0.0% | 0.2% |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) | 3.4% | 4.4% | 5.1% |
-| 17:00 | EUR | Low | Bavaria CPI (YoY) (Nov) | 2.8% | 3.7% | 4.1% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) | -0.4% | 0.0% | 0.3% |
-| 17:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) | 4.1% | 4.6% | 5.6% |
-| 17:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) | -0.3% | 0.3% | 0.3% |
-| 17:00 | EUR | Low | Hesse CPI (MoM) (Nov) | -0.4% | -0.1% | 0.3% |
-| 17:00 | EUR | Low | Hesse CPI (YoY) (Nov) | 2.9% | 3.6% | 4.7% |
-| 17:00 | EUR | Low | Saxony CPI (MoM) (Nov) | -0.3% | 0.1% | 0.3% |
-| 17:00 | EUR | Low | Saxony CPI (YoY) (Nov) | 3.9% | 4.5% | 5.4% |
-| 17:30 | GBP | Low | BoE Consumer Credit (Oct) | 1.289B | 1.500B | 1.370B |
-| 17:30 | GBP | Low | M3 Money Supply (Oct) | 2,988.6B |  | 2,983.7B |
-| 17:30 | GBP | Low | M4 Money Supply (MoM) (Oct) | 0.3% | -0.2% | -1.1% |
-| 17:30 | GBP | Low | Mortgage Approvals (Oct) | 47.38K | 45.00K | 43.68K |
-| 17:30 | GBP | Low | Mortgage Lending (Oct) | -0.05B | -0.10B | -0.96B |
-| 17:30 | GBP | Low | Net Lending to Individuals | 1.2B | 1.2B | 0.5B |
-| 18:00 | GBP | Low | 2-Year Treasury Gilt Auction | 4.554% |  | 4.964% |
-| 18:00 | EUR | Low | Italian PPI (MoM) (Oct) | 1.5% |  | 0.6% |
-| 18:00 | EUR | Low | Italian PPI (YoY) (Oct) | -9.5% |  | -14.1% |
-| 18:00 | EUR | Low | Business and Consumer Survey (Nov) | 93.8 | 93.7 | 93.5 |
-| 18:00 | EUR | Low | Business Climate (Nov) | -0.39 |  | -0.33 |
-| 18:00 | EUR | Low | Consumer Confidence (Nov) | -16.9 | -16.9 | -17.9 |
-| 18:00 | EUR | Low | Consumer Inflation Expectation (Nov) | 9.3 |  | 11.3 |
-| 18:00 | EUR | Low | Selling Price Expectations (Nov) | 2.3 |  | 3.5 |
-| 18:00 | EUR | Low | Services Sentiment (Nov) | 4.9 | 4.3 | 4.6 |
-| 18:00 | EUR | Low | Industrial Sentiment (Nov) | -9.5 | -8.9 | -9.2 |
-| 18:10 | EUR | Moderate | Italian 10-Year BTP Auction | 4.17% |  | 4.76% |
-| 18:10 | EUR | Low | Italian 5-Year BTP Auction | 3.61% |  | 4.12% |
-| 18:40 | EUR | Moderate | German 10-Year Bund Auction | 2.450% |  | 2.640% |
-| 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) | -2.60% |  | -5.00% |
-| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) | 1.20% |  | -0.40% |
-| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) | 0.59% | 0.60% | 0.50% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.37% |  | 7.41% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.3% |  | 3.0% |
-| 20:00 | USD | Low | MBA Purchase Index | 144.9 |  | 138.4 |
-| 20:00 | USD | Low | Mortgage Market Index | 176.1 |  | 175.6 |
-| 20:00 | USD | Low | Mortgage Refinance Index | 327.8 |  | 359.9 |
-| 20:00 | EUR | Low | Spanish Business Confidence | -9.6 |  | -8.7 |
-| 20:00 | BRL | Low | Brazilian PPI (MoM) (Oct) | 1.11% |  | 1.06% |
-| 21:00 | EUR | High | German CPI (MoM) (Nov) | -0.4% | -0.2% | 0.0% |
-| 21:00 | EUR | Moderate | German CPI (YoY) (Nov) | 3.2% | 3.5% | 3.8% |
-| 21:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.3% | -0.2% |
-| 21:00 | EUR | Low | German HICP (YoY) (Nov) | 2.3% | 2.7% | 3.0% |
-| 21:30 | USD | Low | Core PCE Prices (Q3) | 2.30% | 2.40% | 3.70% |
-| 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) | 4.1% |  | 0.5% |
-| 21:30 | USD | High | GDP (QoQ) (Q3) | 5.2% | 4.9% | 2.1% |
-| 21:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) | 3.5% | 3.5% | 1.7% |
-| 21:30 | USD | Low | GDP Sales (Q3) | 3.7% | 3.5% | 2.1% |
-| 21:30 | USD | Moderate | Goods Trade Balance (Oct) | -89.84B | -86.70B | -86.84B |
-| 21:30 | USD | Low | PCE Prices (Q3) | 2.8% | 2.9% | 2.5% |
-| 21:30 | USD | Low | Real Consumer Spending (Q3) | 3.6% | 4.0% | 0.8% |
-| 21:30 | USD | Moderate | Retail Inventories Ex Auto (Oct) | -0.9% |  | -0.4% |
-| 21:30 | USD | Low | Wholesale Inventories (MoM) | -0.2% | 0.1% | 0.1% |
-| 21:30 | CAD | Moderate | Current Account (Q3) | -3.2B | 1.0B | -7.3B |
-| 23:05 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 13 min | USD | High | Crude Oil Inventories |  | -0.933M | 8.701M |
-| 13 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.105M |
-| 13 min | USD | Low | Crude Oil Imports |  |  | 0.259M |
-| 13 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.858M |
-| 13 min | USD | Low | Distillate Fuel Production |  |  | 0.185M |
-| 13 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.394M | -1.018M |
-| 13 min | USD | Low | Gasoline Production |  |  | -0.043M |
-| 13 min | USD | Low | Heating Oil Stockpiles |  |  | -0.179M |
-| 13 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 13 min | USD | Low | Gasoline Inventories |  | 0.229M | 0.749M |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -3.188B |
+| 02:45 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 03:00 | USD | Moderate | Beige Book |  |  |  |
+| 05:45 | NZD | Low | Building Consents (MoM) (Oct) |  |  | -4.7% |
+| 07:00 | KRW | Low | Industrial Production (YoY) (Oct) |  | 5.0% | 0.3% |
+| 07:00 | KRW | Low | Industrial Production (MoM) (Oct) |  | 0.5% | 1.8% |
+| 07:00 | KRW | Low | Retail Sales (MoM) (Oct) |  |  | 0.2% |
+| 07:00 | KRW | Low | Service Sector Output (MoM) (Oct) |  |  | 0.4% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 2.5B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 285.9B |
+| 07:50 | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 0.8% | 0.5% |
+| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Nov) |  |  | 3.9% |
+| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Dec) |  |  | -2.8% |
+| 07:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | -0.1% |
+| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Oct) |  |  | 5.0% |
+| 07:50 | JPY | Low | Retail Sales (YoY) (Oct) |  | 5.9% | 5.8% |
+| 08:00 | NZD | Low | ANZ Business Confidence (Nov) |  |  | 23.4 |
+| 08:00 | NZD | Low | NBNZ Own Activity (Nov) |  |  | 23.1% |
+| 08:30 | AUD | Low | Building Approvals (YoY) (Oct) |  | -7.10% | -7.10% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) (Oct) |  | 1.4% | -4.6% |
+| 08:30 | AUD | Low | Building Capital Expenditure (MoM) (Q3) |  |  | 3.5% |
+| 08:30 | AUD | Low | Housing Credit (Oct) |  |  | 0.4% |
+| 08:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q3) |  |  | 1.9% |
+| 08:30 | AUD | Low | Private House Approvals (Oct) |  |  | -4.6% |
+| 08:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q3) |  | 1.0% | 2.8% |
+| 08:30 | AUD | Low | Private Sector Credit (MoM) (Oct) |  | 0.4% | 0.5% |
+| 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
+| 09:00 | KRW | Low | Interest Rate Decision (Nov) |  |  | 3.50% |
+| 09:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
+| 09:30 | CNY | Moderate | Chinese Composite PMI (Nov) |  |  | 50.7 |
+| 09:30 | CNY | High | Manufacturing PMI (Nov) |  | 49.6 | 49.5 |
+| 09:30 | CNY | Moderate | Non-Manufacturing PMI (Nov) |  | 51.1 | 50.6 |
+| 10:00 | SGD | Low | Bank Lending |  |  | 787.7B |
+| 10:00 | NZD | Low | M3 Money Supply (Oct) |  |  | 404,877.0B |
+| 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.106% |
+| 13:00 | JPY | Low | Construction Orders (YoY) (Oct) |  |  | -3.0% |
+| 13:00 | JPY | Low | Household Confidence (Nov) |  | 35.6 | 35.7 |
+| 13:00 | JPY | Low | Housing Starts (YoY) (Oct) |  | -6.8% | -6.8% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | -3.3% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | 0.9% |
+| 15:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  | -1.9% | -4.3% |
+| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.5% | -0.8% |
+| 15:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
+| 15:45 | EUR | Low | CPI NSA (MoM) |  |  | 0.10% |
+| 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | -0.4% | 0.2% |
+| 15:45 | EUR | Low | French CPI (YoY) (Nov) |  |  | 4.0% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | 0.1% | 0.1% |
+| 15:45 | EUR | Moderate | French GDP (YoY) |  | 0.7% | 0.9% |
+| 15:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
+| 15:45 | EUR | Low | French HICP (YoY) |  | 4.1% | 4.5% |
+| 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.1% | 0.2% |
+| 15:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -1.70% |
+| 15:45 | EUR | Low | French PPI (MoM) (Oct) |  |  | 0.7% |
+| 16:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 96.7 | 95.8 |
+| 16:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 747.9B |
+| 16:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 2.3% |
+| 16:30 | HKD | Low | Retail Sales (YoY) (Oct) |  |  | 13.0% |
+| 16:55 | EUR | Moderate | German Unemployment Change (Nov) |  | 23K | 30K |
+| 16:55 | EUR | Moderate | German Unemployment Rate (Nov) |  | 5.8% | 5.8% |
+| 16:55 | EUR | Low | German Unemployment (Nov) |  |  | 2.678M |
+| 16:55 | EUR | Low | German Unemployment n.s.a. (Nov) |  |  | 2.607M |
+| 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
+| 17:00 | EUR | Low | Spanish Current account (Sep) |  |  | 4.19B |
+| 17:00 | NOK | Low | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
+| 17:30 | ZAR | Low | PPI (MoM) (Oct) |  |  | 1.5% |
+| 17:30 | ZAR | Low | PPI (YoY) (Oct) |  |  | 5.1% |
+| 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Nov) |  |  | 1.7% |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 18:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
+| 18:00 | INR | Low | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |
+| 18:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 18:00 | EUR | Low | Core CPI (MoM) |  |  | 0.2% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) |  | 3.9% | 4.2% |
+| 18:00 | EUR | High | CPI (YoY) (Nov) |  | 2.8% | 2.9% |
+| 18:00 | EUR | Moderate | CPI (MoM) |  |  | 0.1% |
+| 18:00 | EUR | Low | CPI, n.s.a (Nov) |  |  | 124.54 |
+| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  |  | 5.0% |
+| 18:00 | EUR | Moderate | Unemployment Rate (Oct) |  | 6.5% | 6.5% |
+| 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 20:00 | MXN | Low | Unemployment Rate (Oct) |  |  | 2.70% |
+| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 2.90% |
+| 20:00 | INR | Moderate | GDP Quarterly (YoY) (Q2) |  |  | 7.8% |
+| 20:00 | INR | Low | Infrastructure Output (YoY) (Oct) |  |  | 8.1% |
+| 20:00 | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.7% |
+| 20:00 | ZAR | Low | Trade Balance (Oct) |  |  | 13.14B |
+| 21:30 | USD | Low | Continuing Jobless Claims |  | 1,855K | 1,840K |
+| 21:30 | USD | High | Core PCE Price Index (YoY) (Oct) |  | 3.5% | 3.7% |
+| 21:30 | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
+| 21:30 | USD | High | Initial Jobless Claims |  | 218K | 209K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.00K |
+| 21:30 | USD | Moderate | PCE Price index (YoY) (Oct) |  | 3.1% | 3.4% |
+| 21:30 | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
+| 21:30 | USD | Low | Personal Income (MoM) (Oct) |  | 0.2% | 0.3% |
+| 21:30 | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
+| 21:30 | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
+| 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 4.15% |
+| 21:30 | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.70% |
+| 21:30 | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.0% |
+| 21:30 | CAD | Moderate | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
+| 21:30 | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.12% |
+| 21:30 | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
+| 21:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
+| 21:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 21:35 | CAD | Moderate | GDP (MoM) |  |  | 0.0% |
+| 21:45 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 22:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 22:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 22:45 | USD | Moderate | Chicago PMI (Nov) |  | 45.0 | 44.0 |
+| 23:00 | USD | High | Pending Home Sales (MoM) (Oct) |  | -1.5% | 1.1% |
+| 23:00 | USD | Low | Pending Home Sales Index (Oct) |  |  | 72.6 |
+| 23:30 | USD | Low | Natural Gas Storage |  |  | -7B |
+| 23:45 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 23:50 | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |
+| 23:50 | ZAR | Low | Budget Balance (MoM) (Oct) |  |  | -14.59B |

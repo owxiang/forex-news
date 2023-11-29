@@ -1,26 +1,44 @@
-## 29 November 2023 - Moderate Impact Forex News
+## 30 November 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 01:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 02:00 | USD | 7-Year Note Auction | 4.399% |  | 4.908% |
-| 02:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock | -0.817M | -2.000M | 9.047M |
-| 08:30 | AUD | Construction Work Done (QoQ) (Q3) | 1.3% | 0.4% | 0.4% |
-| 09:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 09:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 09:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
-| 10:00 | NZD | RBNZ Press Conference |  |  |  |
-| 16:00 | EUR | Spanish CPI (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
-| 16:00 | EUR | Spanish HICP (YoY) (Nov) | 3.2% | 3.7% | 3.5% |
-| 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 18:10 | EUR | Italian 10-Year BTP Auction | 4.17% |  | 4.76% |
-| 18:40 | EUR | German 10-Year Bund Auction | 2.450% |  | 2.640% |
-| 21:00 | EUR | German CPI (YoY) (Nov) | 3.2% | 3.5% | 3.8% |
-| 21:30 | USD | GDP Price Index (QoQ) (Q3) | 3.5% | 3.5% | 1.7% |
-| 21:30 | USD | Goods Trade Balance (Oct) | -89.84B | -86.70B | -86.84B |
-| 21:30 | USD | Retail Inventories Ex Auto (Oct) | -0.9% |  | -0.4% |
-| 21:30 | CAD | Current Account (Q3) | -3.2B | 1.0B | -7.3B |
-| 23:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13 min | USD | Cushing Crude Oil Inventories |  |  | 0.858M |
+| 02:45 | USD | FOMC Member Mester Speaks |  |  |  |
+| 03:00 | USD | Beige Book |  |  |  |
+| 07:50 | JPY | Industrial Production (MoM) (Oct) |  | 0.8% | 0.5% |
+| 08:30 | AUD | Building Approvals (MoM) (Oct) |  | 1.4% | -4.6% |
+| 08:30 | AUD | Private New Capital Expenditure (QoQ) (Q3) |  | 1.0% | 2.8% |
+| 09:00 | KRW | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
+| 09:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
+| 09:30 | CNY | Chinese Composite PMI (Nov) |  |  | 50.7 |
+| 09:30 | CNY | Non-Manufacturing PMI (Nov) |  | 51.1 | 50.6 |
+| 15:00 | GBP | Nationwide HPI (YoY) |  |  | -3.3% |
+| 15:00 | GBP | Nationwide HPI (MoM) |  |  | 0.9% |
+| 15:00 | EUR | German Retail Sales (MoM) (Oct) |  | 0.5% | -0.8% |
+| 15:45 | EUR | French Consumer Spending (MoM) (Oct) |  | -0.4% | 0.2% |
+| 15:45 | EUR | French CPI (MoM) (Nov) |  | 0.1% | 0.1% |
+| 15:45 | EUR | French GDP (YoY) |  | 0.7% | 0.9% |
+| 15:45 | EUR | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
+| 15:45 | EUR | French HICP (MoM) |  | -0.1% | 0.2% |
+| 16:00 | CHF | KOF Leading Indicators (Nov) |  | 96.7 | 95.8 |
+| 16:55 | EUR | German Unemployment Change (Nov) |  | 23K | 30K |
+| 16:55 | EUR | German Unemployment Rate (Nov) |  | 5.8% | 5.8% |
+| 18:00 | USD | OPEC Meeting |  |  |  |
+| 18:00 | EUR | Core CPI (YoY) |  | 3.9% | 4.2% |
+| 18:00 | EUR | CPI (MoM) |  |  | 0.1% |
+| 18:00 | EUR | Unemployment Rate (Oct) |  | 6.5% | 6.5% |
+| 20:00 | INR | GDP Quarterly (YoY) (Q2) |  |  | 7.8% |
+| 20:00 | BRL | Unemployment Rate |  | 7.7% | 7.7% |
+| 21:30 | USD | PCE Price index (YoY) (Oct) |  | 3.1% | 3.4% |
+| 21:30 | USD | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
+| 21:30 | USD | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
+| 21:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
+| 21:30 | CAD | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
+| 21:30 | CAD | GDP (YoY) (Q3) |  |  | 1.12% |
+| 21:30 | CAD | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
+| 21:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:35 | CAD | GDP (MoM) |  |  | 0.0% |
+| 21:45 | EUR | ECB's Enria Speaks |  |  |  |
+| 22:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 22:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 22:45 | USD | Chicago PMI (Nov) |  | 45.0 | 44.0 |
+| 23:45 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
