@@ -22,5 +22,5 @@
 | 21:30 | USD | Goods Trade Balance (Oct) | -89.84B | -86.70B | -86.84B |
 | 21:30 | USD | Retail Inventories Ex Auto (Oct) | -0.9% |  | -0.4% |
 | 21:30 | CAD | Current Account (Q3) | -3.2B | 1.0B | -7.3B |
-| 51 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.858M |
+| 23:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13 min | USD | Cushing Crude Oil Inventories |  |  | 0.858M |

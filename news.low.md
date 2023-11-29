@@ -11,8 +11,8 @@
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Oct) | 4.90% | 5.20% | 5.60% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Oct) | 6.08% | 7.10% | 7.67% |
 | 14:00 | ZAR | Private Sector Credit (Oct) | 3.94% | 4.40% | 4.60% |
-| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
 | 14:30 | EUR | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% | 0.0% | 0.2% |
+| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
 | 14:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | -0.1% |
 | 15:00 | EUR | German Import Price Index (MoM) (Oct) | 0.3% | -0.1% | 1.6% |
 | 15:00 | EUR | German Import Price Index (YoY) (Oct) | -13.0% | -13.4% | -14.3% |
@@ -30,8 +30,8 @@
 | 17:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.3% | 0.3% | 0.3% |
 | 17:00 | EUR | Hesse CPI (MoM) (Nov) | -0.4% | -0.1% | 0.3% |
 | 17:00 | EUR | Hesse CPI (YoY) (Nov) | 2.9% | 3.6% | 4.7% |
-| 17:00 | EUR | Saxony CPI (YoY) (Nov) | 3.9% | 4.5% | 5.4% |
 | 17:00 | EUR | Saxony CPI (MoM) (Nov) | -0.3% | 0.1% | 0.3% |
+| 17:00 | EUR | Saxony CPI (YoY) (Nov) | 3.9% | 4.5% | 5.4% |
 | 17:30 | GBP | BoE Consumer Credit (Oct) | 1.289B | 1.500B | 1.370B |
 | 17:30 | GBP | M3 Money Supply (Oct) | 2,988.6B |  | 2,983.7B |
 | 17:30 | GBP | M4 Money Supply (MoM) (Oct) | 0.3% | -0.2% | -1.1% |
@@ -39,8 +39,8 @@
 | 17:30 | GBP | Mortgage Lending (Oct) | -0.05B | -0.10B | -0.96B |
 | 17:30 | GBP | Net Lending to Individuals | 1.2B | 1.2B | 0.5B |
 | 18:00 | GBP | 2-Year Treasury Gilt Auction | 4.554% |  | 4.964% |
-| 18:00 | EUR | Italian PPI (YoY) (Oct) | -9.5% |  | -14.1% |
 | 18:00 | EUR | Italian PPI (MoM) (Oct) | 1.5% |  | 0.6% |
+| 18:00 | EUR | Italian PPI (YoY) (Oct) | -9.5% |  | -14.1% |
 | 18:00 | EUR | Business and Consumer Survey (Nov) | 93.8 | 93.7 | 93.5 |
 | 18:00 | EUR | Business Climate (Nov) | -0.39 |  | -0.33 |
 | 18:00 | EUR | Consumer Confidence (Nov) | -16.9 | -16.9 | -17.9 |
@@ -67,11 +67,11 @@
 | 21:30 | USD | PCE Prices (Q3) | 2.8% | 2.9% | 2.5% |
 | 21:30 | USD | Real Consumer Spending (Q3) | 3.6% | 4.0% | 0.8% |
 | 21:30 | USD | Wholesale Inventories (MoM) | -0.2% | 0.1% | 0.1% |
-| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.105M |
-| 23:30 | USD | Crude Oil Imports |  |  | 0.259M |
-| 23:30 | USD | Distillate Fuel Production |  |  | 0.185M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | -0.394M | -1.018M |
-| 23:30 | USD | Gasoline Production |  |  | -0.043M |
-| 23:30 | USD | Heating Oil Stockpiles |  |  | -0.179M |
-| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 23:30 | USD | Gasoline Inventories |  | 0.229M | 0.749M |
+| 13 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.105M |
+| 13 min | USD | Crude Oil Imports |  |  | 0.259M |
+| 13 min | USD | Distillate Fuel Production |  |  | 0.185M |
+| 13 min | USD | EIA Weekly Distillates Stocks |  | -0.394M | -1.018M |
+| 13 min | USD | Gasoline Production |  |  | -0.043M |
+| 13 min | USD | Heating Oil Stockpiles |  |  | -0.179M |
+| 13 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 13 min | USD | Gasoline Inventories |  | 0.229M | 0.749M |
