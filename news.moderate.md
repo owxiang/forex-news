@@ -17,8 +17,6 @@
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.76% |
 | 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
-| 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 74.4% |
 | 21:00 | EUR | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
 | 21:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
 | 21:30 | USD | Goods Trade Balance (Oct) |  | -86.70B | -86.84B |

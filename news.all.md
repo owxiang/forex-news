@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | BRL | Low | CAGED Net Payroll Jobs (Oct) | 190.37K |  | 211.76K |
+| 00:00 | BRL | Low | CAGED Net Payroll Jobs (Oct) | 190.37K | 123.40K | 211.76K |
 | 00:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 00:30 | USD | Low | 52-Week Bill Auction | 4.935% |  | 5.135% |
 | 01:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
@@ -19,8 +19,8 @@
 | 09:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 09:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
 | 10:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) |  | 7.10% | 7.67% |
-| 14:00 | ZAR | Low | Private Sector Credit (Oct) |  | 4.40% | 4.60% |
+| 45 min | ZAR | Low | M3 Money Supply (YoY) (Oct) |  | 7.10% | 7.67% |
+| 45 min | ZAR | Low | Private Sector Credit (Oct) |  | 4.40% | 4.60% |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  | 3.1% | 4.2% |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) |  | 0.0% | 0.2% |
 | 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
@@ -61,14 +61,10 @@
 | 18:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.76% |
 | 18:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 4.12% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
-| 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
-| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
 | 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
+| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.60% | 0.50% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
-| 19:30 | BRL | Low | Budget Balance (Oct) |  |  | -99.785B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  |  | 74.4% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.0% |
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 138.4 |
@@ -76,13 +72,13 @@
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 359.9 |
 | 20:00 | EUR | Low | Spanish Business Confidence |  |  | -8.7 |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
-| 21:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.0% |
 | 21:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
-| 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
+| 21:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.0% |
 | 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
+| 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
 | 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
-| 21:30 | USD | High | GDP (QoQ) (Q3) |  | 5.0% | 2.1% |
+| 21:30 | USD | High | GDP (QoQ) (Q3) |  | 4.9% | 2.1% |
 | 21:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
 | 21:30 | USD | Low | GDP Sales (Q3) |  | 3.5% | 2.1% |
 | 21:30 | USD | Moderate | Goods Trade Balance (Oct) |  | -86.70B | -86.84B |
@@ -102,4 +98,3 @@
 | 23:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.179M |
 | 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
 | 23:30 | USD | Low | Gasoline Inventories |  | 0.229M | 0.749M |
-| 23:30 | USD | Low | Natural Gas Storage |  |  | -7B |
