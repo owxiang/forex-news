@@ -21,25 +21,27 @@
 | 10:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Oct) | 6.08% | 7.10% | 7.67% |
 | 14:00 | ZAR | Low | Private Sector Credit (Oct) | 3.94% | 4.40% | 4.60% |
-| 9 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) |  | 0.0% | 0.2% |
-| 9 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) |  | 3.1% | 4.2% |
-| 9 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | -0.1% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.3% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  |  | 0.3% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
-| 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 6.5% |
-| 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Nov) | 3.0% | 3.1% | 4.2% |
+| 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Nov) | -0.3% | 0.0% | 0.2% |
+| 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | -0.1% |
+| 15:00 | EUR | Low | German Import Price Index (MoM) (Oct) | 0.3% |  | 1.6% |
+| 15:00 | EUR | Low | German Import Price Index (YoY) (Oct) | -13.0% |  | -14.3% |
+| 45 min | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
+| 45 min | EUR | Low | Spanish CPI (MoM) (Nov) |  |  | 0.3% |
+| 45 min | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
+| 45 min | EUR | Low | Spanish HICP (MoM) (Nov) |  |  | 0.3% |
+| 45 min | EUR | Low | Spanish Retail Sales (YoY) (Oct) |  |  | 6.5% |
+| 45 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 17:00 | EUR | Low | Italian Business Confidence (Nov) |  | 96.0 | 96.0 |
 | 17:00 | EUR | Low | Italian Consumer Confidence (Nov) |  | 102.0 | 101.6 |
 | 17:00 | CHF | Low | ZEW Expectations (Nov) |  |  | -37.8 |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Nov) |  | 4.4% | 5.1% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Nov) |  | 3.7% | 4.1% |
-| 17:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Nov) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Nov) |  | 4.6% | 5.6% |
-| 17:00 | EUR | Low | Hesse CPI (YoY) (Nov) |  | 3.6% | 4.7% |
+| 17:00 | EUR | Low | Brandenburg CPI (MoM) (Nov) |  | 0.3% | 0.3% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Nov) |  | -0.1% | 0.3% |
+| 17:00 | EUR | Low | Hesse CPI (YoY) (Nov) |  | 3.6% | 4.7% |
 | 17:30 | GBP | Low | BoE Consumer Credit (Oct) |  | 1.500B | 1.391B |
 | 17:30 | GBP | Low | M3 Money Supply (Oct) |  |  | 2,985.4B |
 | 17:30 | GBP | Low | M4 Money Supply (MoM) (Oct) |  | -0.2% | -1.1% |
@@ -61,8 +63,8 @@
 | 18:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 4.76% |
 | 18:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 4.12% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.640% |
-| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
 | 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Sep) |  |  | -5.00% |
+| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Sep) |  |  | -0.40% |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Nov) |  | 0.60% | 0.50% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.41% |
@@ -74,8 +76,8 @@
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
 | 21:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.2% | 0.0% |
 | 21:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
-| 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
+| 21:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
 | 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
 | 21:30 | USD | High | GDP (QoQ) (Q3) |  | 4.9% | 2.1% |

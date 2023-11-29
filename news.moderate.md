@@ -12,9 +12,9 @@
 | 09:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 09:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
 | 10:00 | NZD | RBNZ Press Conference |  |  |  |
-| 16:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
-| 16:00 | EUR | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
-| 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 45 min | EUR | Spanish CPI (YoY) (Nov) |  | 3.7% | 3.5% |
+| 45 min | EUR | Spanish HICP (YoY) (Nov) |  | 3.7% | 3.5% |
+| 45 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.76% |
 | 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.640% |
 | 21:00 | EUR | German CPI (YoY) (Nov) |  | 3.5% | 3.8% |
