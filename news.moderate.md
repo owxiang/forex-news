@@ -18,9 +18,9 @@
 | 18:10 | EUR | Italian 10-Year BTP Auction | 4.17% |  | 4.76% |
 | 18:40 | EUR | German 10-Year Bund Auction | 2.450% |  | 2.640% |
 | 21:00 | EUR | German CPI (YoY) (Nov) | 3.2% | 3.5% | 3.8% |
-| 10 min | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
-| 10 min | USD | Goods Trade Balance (Oct) |  | -86.70B | -86.84B |
-| 10 min | USD | Retail Inventories Ex Auto (Oct) |  |  | 0.4% |
-| 10 min | CAD | Current Account (Q3) |  | 1.0B | -6.6B |
-| 23:05 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:30 | USD | GDP Price Index (QoQ) (Q3) | 3.5% | 3.5% | 1.7% |
+| 21:30 | USD | Goods Trade Balance (Oct) | -89.84B | -86.70B | -86.84B |
+| 21:30 | USD | Retail Inventories Ex Auto (Oct) | -0.9% |  | -0.4% |
+| 21:30 | CAD | Current Account (Q3) | -3.2B | 1.0B | -7.3B |
+| 51 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.858M |
