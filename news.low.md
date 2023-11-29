@@ -28,8 +28,8 @@
 | 17:00 | EUR | Bavaria CPI (MoM) (Nov) | -0.4% | 0.0% | 0.3% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Nov) | -0.3% | 0.3% | 0.3% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Nov) | 4.1% | 4.6% | 5.6% |
-| 17:00 | EUR | Hesse CPI (YoY) (Nov) | 2.9% | 3.6% | 4.7% |
 | 17:00 | EUR | Hesse CPI (MoM) (Nov) | -0.4% | -0.1% | 0.3% |
+| 17:00 | EUR | Hesse CPI (YoY) (Nov) | 2.9% | 3.6% | 4.7% |
 | 17:00 | EUR | Saxony CPI (YoY) (Nov) | 3.9% | 4.5% | 5.4% |
 | 17:00 | EUR | Saxony CPI (MoM) (Nov) | -0.3% | 0.1% | 0.3% |
 | 17:30 | GBP | BoE Consumer Credit (Oct) | 1.289B | 1.500B | 1.370B |
@@ -39,8 +39,8 @@
 | 17:30 | GBP | Mortgage Lending (Oct) | -0.05B | -0.10B | -0.96B |
 | 17:30 | GBP | Net Lending to Individuals | 1.2B | 1.2B | 0.5B |
 | 18:00 | GBP | 2-Year Treasury Gilt Auction | 4.554% |  | 4.964% |
-| 18:00 | EUR | Italian PPI (MoM) (Oct) | 1.5% |  | 0.6% |
 | 18:00 | EUR | Italian PPI (YoY) (Oct) | -9.5% |  | -14.1% |
+| 18:00 | EUR | Italian PPI (MoM) (Oct) | 1.5% |  | 0.6% |
 | 18:00 | EUR | Business and Consumer Survey (Nov) | 93.8 | 93.7 | 93.5 |
 | 18:00 | EUR | Business Climate (Nov) | -0.39 |  | -0.33 |
 | 18:00 | EUR | Consumer Confidence (Nov) | -16.9 | -16.9 | -17.9 |
@@ -52,22 +52,22 @@
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Sep) | 1.20% |  | -0.40% |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Sep) | -2.60% |  | -5.00% |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Nov) | 0.59% | 0.60% | 0.50% |
-| 17 min | INR | M3 Money Supply |  |  | 11.0% |
-| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.41% |
-| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.0% |
-| 47 min | USD | MBA Purchase Index |  |  | 138.4 |
-| 47 min | USD | Mortgage Market Index |  |  | 175.6 |
-| 47 min | USD | Mortgage Refinance Index |  |  | 359.9 |
-| 47 min | EUR | Spanish Business Confidence |  |  | -8.7 |
-| 47 min | BRL | Brazilian PPI (MoM) (Oct) |  |  | 1.11% |
-| 21:00 | EUR | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
-| 21:00 | EUR | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
-| 21:30 | USD | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
-| 21:30 | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
-| 21:30 | USD | GDP Sales (Q3) |  | 3.5% | 2.1% |
-| 21:30 | USD | PCE Prices (Q3) |  | 2.9% | 2.5% |
-| 21:30 | USD | Real Consumer Spending (Q3) |  | 4.0% | 0.8% |
-| 21:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.2% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate | 7.37% |  | 7.41% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) | 0.3% |  | 3.0% |
+| 20:00 | USD | MBA Purchase Index | 144.9 |  | 138.4 |
+| 20:00 | USD | Mortgage Market Index | 176.1 |  | 175.6 |
+| 20:00 | USD | Mortgage Refinance Index | 327.8 |  | 359.9 |
+| 20:00 | EUR | Spanish Business Confidence | -9.6 |  | -8.7 |
+| 20:00 | BRL | Brazilian PPI (MoM) (Oct) | 1.11% |  | 1.06% |
+| 29 min | INR | M3 Money Supply |  |  | 11.0% |
+| 29 min | EUR | German HICP (YoY) (Nov) |  | 2.7% | 3.0% |
+| 29 min | EUR | German HICP (MoM) (Nov) |  | -0.3% | -0.2% |
+| 59 min | USD | Core PCE Prices (Q3) |  | 2.40% | 3.70% |
+| 59 min | USD | Corporate Profits (QoQ) (Q3) |  |  | 0.5% |
+| 59 min | USD | GDP Sales (Q3) |  | 3.5% | 2.1% |
+| 59 min | USD | PCE Prices (Q3) |  | 2.9% | 2.5% |
+| 59 min | USD | Real Consumer Spending (Q3) |  | 4.0% | 0.8% |
+| 59 min | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.2% |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.105M |
 | 23:30 | USD | Crude Oil Imports |  |  | 0.259M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.185M |
