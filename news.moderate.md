@@ -24,16 +24,16 @@
 | 18:00 | EUR | Core CPI (YoY) | 3.6% | 3.9% | 4.2% |
 | 18:00 | EUR | CPI (MoM) | -0.5% |  | 0.1% |
 | 18:00 | EUR | Unemployment Rate (Oct) | 6.5% | 6.5% | 6.5% |
-| 46 min | INR | GDP Quarterly (YoY) (Q2) |  | 6.8% | 7.8% |
-| 46 min | BRL | Unemployment Rate |  | 7.7% | 7.7% |
-| 21:30 | USD | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
-| 21:30 | USD | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
-| 21:30 | USD | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
-| 21:30 | CAD | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
-| 21:30 | CAD | GDP (YoY) (Q3) |  |  | 1.12% |
-| 21:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
-| 21:30 | CAD | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
-| 21:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | INR | GDP Quarterly (YoY) (Q2) | 7.6% | 6.8% | 7.8% |
+| 20:00 | BRL | Unemployment Rate | 7.6% | 7.7% | 7.7% |
+| 59 min | USD | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
+| 59 min | USD | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
+| 59 min | USD | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
+| 59 min | CAD | GDP (YoY) (Q3) |  |  | 1.12% |
+| 59 min | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
+| 59 min | CAD | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
+| 59 min | CAD | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
+| 59 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:35 | CAD | GDP (MoM) |  |  | 0.0% |
 | 21:45 | EUR | ECB's Enria Speaks |  |  |  |
 | 22:05 | USD | FOMC Member Williams Speaks |  |  |  |
