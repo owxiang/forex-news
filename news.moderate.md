@@ -16,8 +16,8 @@
 | 15:00 | EUR | German Retail Sales (MoM) (Oct) |  | 0.4% | -0.8% |
 | 15:45 | EUR | French Consumer Spending (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:45 | EUR | French CPI (MoM) (Nov) |  | 0.1% | 0.1% |
-| 15:45 | EUR | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 15:45 | EUR | French GDP (YoY) |  | 0.7% | 0.9% |
+| 15:45 | EUR | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 15:45 | EUR | French HICP (MoM) |  | -0.1% | 0.2% |
 | 16:00 | CHF | KOF Leading Indicators (Nov) |  | 96.6 | 95.8 |
 | 16:55 | EUR | German Unemployment Change (Nov) |  | 22K | 30K |
@@ -31,9 +31,9 @@
 | 21:30 | USD | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
 | 21:30 | USD | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
 | 21:30 | USD | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
+| 21:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
 | 21:30 | CAD | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 21:30 | CAD | GDP (YoY) (Q3) |  |  | 1.12% |
-| 21:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
 | 21:30 | CAD | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
 | 21:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:35 | CAD | GDP (MoM) |  |  | 0.0% |
