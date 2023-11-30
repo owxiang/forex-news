@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | CNY | Manufacturing PMI (Nov) |  | 49.6 | 49.5 |
+| 09:30 | CNY | Manufacturing PMI (Nov) | 49.4 | 49.6 | 49.5 |
 | 18:00 | EUR | CPI (YoY) (Nov) |  | 2.8% | 2.9% |
 | 21:30 | USD | Core PCE Price Index (YoY) (Oct) |  | 3.5% | 3.7% |
 | 21:30 | USD | Core PCE Price Index (MoM) (Oct) |  | 0.2% | 0.3% |

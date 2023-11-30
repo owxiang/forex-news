@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Building Consents (MoM) (Oct) | 8.7% |  | -4.6% |
-| 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
 | 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
+| 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
 | 07:00 | KRW | Retail Sales (MoM) (Oct) | -0.8% |  | 0.1% |
 | 07:00 | KRW | Service Sector Output (MoM) (Oct) | -0.9% |  | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying | -84.5B |  | 4.0B |
@@ -23,9 +23,9 @@
 | 08:30 | AUD | Private House Approvals (Oct) | 2.2% |  | -4.6% |
 | 08:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
 | 09:00 | KRW | Interest Rate Decision (Nov) | 3.50% | 3.50% | 3.50% |
-| 49 min | SGD | Bank Lending |  |  | 787.7B |
-| 49 min | NZD | M3 Money Supply (Oct) |  |  | 404.9B |
+| 10:00 | SGD | Bank Lending | 791.5B |  | 787.6B |
 | 11:35 | JPY | 2-Year JGB Auction |  |  | 0.106% |
+| 12:00 | NZD | M3 Money Supply (Oct) |  |  | 404.9B |
 | 13:00 | JPY | Construction Orders (YoY) (Oct) |  |  | -3.0% |
 | 13:00 | JPY | Household Confidence (Nov) |  | 35.6 | 35.7 |
 | 13:00 | JPY | Housing Starts (YoY) (Oct) |  | -6.8% | -6.8% |
@@ -34,8 +34,8 @@
 | 15:45 | EUR | CPI NSA (MoM) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
 | 15:45 | EUR | French HICP (YoY) |  | 4.1% | 4.5% |
-| 15:45 | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
 | 15:45 | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
+| 15:45 | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
 | 16:00 | CHF | Official Reserves Assets (Oct) |  |  | 747.9B |
 | 16:30 | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |
@@ -44,10 +44,10 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
 | 17:00 | EUR | Spanish Current account (Sep) |  |  | 4.19B |
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
-| 17:30 | ZAR | PPI (YoY) (Oct) |  |  | 5.1% |
 | 17:30 | ZAR | PPI (MoM) (Oct) |  |  | 1.5% |
-| 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 17:30 | ZAR | PPI (YoY) (Oct) |  |  | 5.1% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
+| 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
 | 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
