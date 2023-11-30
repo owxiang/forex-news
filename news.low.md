@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Building Consents (MoM) (Oct) | 8.7% |  | -4.6% |
-| 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
 | 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
+| 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
 | 07:00 | KRW | Retail Sales (MoM) (Oct) | -0.8% |  | 0.1% |
 | 07:00 | KRW | Service Sector Output (MoM) (Oct) | -0.9% |  | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying | -84.5B |  | 4.0B |
@@ -29,26 +29,26 @@
 | 13:00 | JPY | Household Confidence (Nov) | 36.1 | 35.6 | 35.7 |
 | 13:00 | JPY | Housing Starts (YoY) (Oct) | -6.3% | -6.8% | -6.8% |
 | 15:00 | EUR | German Retail Sales (YoY) (Oct) | -0.1% | -2.0% | -4.3% |
-| 16 min | CHF | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
-| 31 min | EUR | CPI NSA (MoM) |  |  | 0.10% |
-| 31 min | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
-| 31 min | EUR | French HICP (YoY) |  | 4.1% | 4.5% |
-| 31 min | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
-| 31 min | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
-| 46 min | CHF | Official Reserves Assets (Oct) |  |  | 747.9B |
-| 16:30 | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
-| 16:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |
-| 16:55 | EUR | German Unemployment (Nov) |  |  | 2.678M |
-| 16:55 | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.607M |
-| 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
-| 17:00 | EUR | Spanish Current account (Sep) |  |  | 4.19B |
-| 17:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
+| 15:30 | CHF | Retail Sales (YoY) (Oct) | -0.1% | 0.2% | -1.2% |
+| 15:45 | EUR | French CPI (YoY) (Nov) | 3.4% |  | 4.0% |
+| 15:45 | EUR | French HICP (YoY) | 3.8% | 4.1% | 4.5% |
+| 15:45 | EUR | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
+| 15:45 | EUR | French PPI (MoM) (Oct) | 0.0% |  | 0.7% |
+| 16:00 | CHF | Official Reserves Assets (Oct) | 731.2B |  | 747.9B |
+| 10 min | EUR | CPI NSA (MoM) |  |  | 0.10% |
+| 10 min | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
+| 10 min | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |
+| 35 min | EUR | German Unemployment (Nov) |  |  | 2.678M |
+| 35 min | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.607M |
+| 40 min | EUR | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
+| 40 min | EUR | Spanish Current account (Sep) |  |  | 4.19B |
+| 40 min | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
 | 17:30 | ZAR | PPI (YoY) (Oct) |  | 5.8% | 5.1% |
 | 17:30 | ZAR | PPI (MoM) (Oct) |  | 1.1% | 1.5% |
-| 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
+| 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
+| 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
 | 18:00 | EUR | CPI, n.s.a (Nov) |  |  | 124.54 |
