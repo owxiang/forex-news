@@ -2,12 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 8 min | USD | Low | 4-Week Bill Auction |  |  | 5.300% |
-| 8 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
-| 8 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |
-| 38 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 01:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.708B |
+| 00:30 | USD | Low | 4-Week Bill Auction | 5.290% |  | 5.300% |
+| 00:30 | USD | Low | 8-Week Bill Auction | 5.280% |  | 5.280% |
+| 00:45 | USD | Low | Dallas Fed PCE (Oct) | 2.70% |  | 4.10% |
+| 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 05:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -132.56B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,811B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
@@ -24,16 +23,16 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) |  | 49.3 | 49.5 |
 | 12:00 | NZD | Low | M3 Money Supply (Oct) |  |  | 403.4B |
 | 12:00 | IDR | Low | Core Inflation (YoY) |  | 1.97% | 1.91% |
-| 12:00 | IDR | Low | Inflation (MoM) |  |  | 0.17% |
 | 12:00 | IDR | Low | Inflation (YoY) |  | 2.71% | 2.56% |
+| 12:00 | IDR | Low | Inflation (MoM) |  |  | 0.17% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  |  | -3.3% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  |  | 0.9% |
 | 15:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -186.1B |
 | 16:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | CHF | Moderate | GDP (YoY) (Q3) |  |  | 0.5% |
 | 16:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
+| 16:00 | CHF | Moderate | GDP (YoY) (Q3) |  |  | 0.5% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 45.6 | 45.1 |
 | 16:30 | CHF | Moderate | procure.ch PMI (Nov) |  | 42.0 | 40.6 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 45.5 | 44.9 |
@@ -53,6 +52,7 @@
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 595.40B |
+| 19:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.708B |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Oct) |  | 0.8% | 0.6% |
@@ -65,6 +65,7 @@
 | 21:30 | CAD | Low | Part Time Employment Change (Nov) |  |  | 20.8K |
 | 21:30 | CAD | Low | Participation Rate (Nov) |  |  | 65.6% |
 | 21:30 | CAD | Moderate | Unemployment Rate (Nov) |  | 5.8% | 5.7% |
+| 22:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |
 | 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
 | 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.4 | 50.0 |
 | 23:00 | USD | Low | Construction Spending (MoM) (Oct) |  | 0.4% | 0.4% |

@@ -2,10 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | USD | 4-Week Bill Auction |  |  | 5.300% |
-| 8 min | USD | 8-Week Bill Auction |  |  | 5.280% |
-| 8 min | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.708B |
+| 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.300% |
+| 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.280% |
+| 00:45 | USD | Dallas Fed PCE (Oct) | 2.70% |  | 4.10% |
 | 05:00 | MXN | Fiscal Balance (Oct) |  |  | -132.56B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
@@ -19,8 +18,8 @@
 | 08:30 | IDR | Nikkei Manufacturing PMI (Nov) |  |  | 51.5 |
 | 12:00 | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
 | 12:00 | IDR | Core Inflation (YoY) |  | 1.97% | 1.91% |
-| 12:00 | IDR | Inflation (MoM) |  |  | 0.17% |
 | 12:00 | IDR | Inflation (YoY) |  | 2.71% | 2.56% |
+| 12:00 | IDR | Inflation (MoM) |  |  | 0.17% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
@@ -36,6 +35,7 @@
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
+| 19:30 | BRL | Foreign Exchange Flows |  |  | -1.708B |
 | 20:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.45K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.6 |
@@ -43,6 +43,7 @@
 | 21:30 | CAD | Full Employment Change (Nov) |  |  | -3.3K |
 | 21:30 | CAD | Part Time Employment Change (Nov) |  |  | 20.8K |
 | 21:30 | CAD | Participation Rate (Nov) |  |  | 65.6% |
+| 22:30 | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
 | 22:30 | CAD | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
 | 23:00 | USD | Construction Spending (MoM) (Oct) |  | 0.4% | 0.4% |
 | 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
