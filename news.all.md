@@ -42,12 +42,12 @@
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) | 1.1% | 0.4% | -0.8% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Oct) | -0.1% | 0.2% | -1.2% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) | -0.9% | -0.2% | 0.0% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | 0.1% | 0.1% |
 | 15:45 | EUR | Low | French CPI (YoY) (Nov) | 3.4% |  | 4.0% |
-| 15:45 | EUR | Moderate | French GDP (YoY) | 0.6% | 0.7% | 0.9% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | 0.1% | 0.1% |
 | 15:45 | EUR | Moderate | French GDP (QoQ) (Q3) | -0.1% | 0.1% | 0.5% |
-| 15:45 | EUR | Low | French HICP (YoY) | 3.8% | 4.1% | 4.5% |
+| 15:45 | EUR | Moderate | French GDP (YoY) | 0.6% | 0.7% | 0.9% |
 | 15:45 | EUR | Moderate | French HICP (MoM) | -0.3% | -0.1% | 0.2% |
+| 15:45 | EUR | Low | French HICP (YoY) | 3.8% | 4.1% | 4.5% |
 | 15:45 | EUR | Low | French PPI (MoM) (Oct) | 0.0% |  | 0.7% |
 | 15:45 | EUR | Low | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Nov) | 96.7 | 96.6 | 95.1 |
@@ -67,14 +67,14 @@
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Nov) | 0.8% |  | 1.7% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Oct) | 8,037.00B |  | 7,018.61B |
 | 18:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 18:00 | EUR | Low | Core CPI (MoM) | -0.6% |  | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) | 3.6% | 3.9% | 4.2% |
-| 18:00 | EUR | Moderate | CPI (MoM) | -0.5% |  | 0.1% |
+| 18:00 | EUR | Low | Core CPI (MoM) | -0.6% |  | 0.2% |
 | 18:00 | EUR | High | CPI (YoY) (Nov) | 2.4% | 2.7% | 2.9% |
+| 18:00 | EUR | Moderate | CPI (MoM) | -0.5% |  | 0.1% |
 | 18:00 | EUR | Low | CPI, n.s.a (Nov) | 123.86 |  | 124.54 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) | 4.2% |  | 5.0% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) | -0.4% | -0.1% | 0.1% |
@@ -87,27 +87,27 @@
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Oct) | 12.1% |  | 9.2% |
 | 20:00 | BRL | Moderate | Unemployment Rate | 7.6% | 7.7% | 7.7% |
 | 20:00 | ZAR | Low | Trade Balance (Oct) | -12.66B | 9.05B | 13.14B |
-| 59 min | USD | Low | Continuing Jobless Claims |  | 1,872K | 1,840K |
-| 59 min | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
-| 59 min | USD | High | Core PCE Price Index (YoY) (Oct) |  | 3.5% | 3.7% |
-| 59 min | USD | High | Initial Jobless Claims |  | 220K | 209K |
-| 59 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.00K |
-| 59 min | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
-| 59 min | USD | Moderate | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
-| 59 min | USD | Low | Personal Income (MoM) (Oct) |  | 0.2% | 0.3% |
-| 59 min | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
-| 59 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 59 min | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 4.15% |
-| 59 min | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.70% |
-| 59 min | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.12% |
-| 59 min | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.0% |
-| 59 min | CAD | Moderate | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
-| 59 min | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
-| 59 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:35 | CAD | Moderate | GDP (MoM) |  |  | 0.0% |
-| 21:45 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 22:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 22:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10 min | USD | Low | Continuing Jobless Claims |  | 1,872K | 1,840K |
+| 10 min | USD | High | Core PCE Price Index (MoM) (Oct) |  | 0.2% | 0.3% |
+| 10 min | USD | High | Core PCE Price Index (YoY) (Oct) |  | 3.5% | 3.7% |
+| 10 min | USD | High | Initial Jobless Claims |  | 220K | 209K |
+| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.00K |
+| 10 min | USD | Moderate | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
+| 10 min | USD | Moderate | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
+| 10 min | USD | Low | Personal Income (MoM) (Oct) |  | 0.2% | 0.3% |
+| 10 min | USD | Moderate | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
+| 10 min | USD | Low | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
+| 10 min | CAD | Low | Average Weekly Earnings (YoY) (Sep) |  |  | 4.15% |
+| 10 min | CAD | Low | GDP Implicit Price (QoQ) (Q3) |  |  | 0.70% |
+| 10 min | CAD | Moderate | GDP (YoY) (Q3) |  |  | 1.12% |
+| 10 min | CAD | Moderate | GDP (QoQ) (Q3) |  |  | 0.0% |
+| 10 min | CAD | Moderate | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
+| 10 min | CAD | Moderate | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
+| 10 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15 min | CAD | Moderate | GDP (MoM) |  |  | 0.0% |
+| 25 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 45 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 55 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 22:45 | USD | Moderate | Chicago PMI (Nov) |  | 45.4 | 44.0 |
 | 23:00 | USD | High | Pending Home Sales (MoM) (Oct) |  | -2.0% | 1.1% |
 | 23:00 | USD | Low | Pending Home Sales Index (Oct) |  |  | 72.6 |
