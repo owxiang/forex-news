@@ -5,6 +5,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.300% |
 | 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:45 | USD | Dallas Fed PCE (Oct) | 2.70% |  | 4.10% |
+| 01:30 | BRL | Foreign Exchange Flows | 0.264B |  | -1.708B |
 | 05:00 | MXN | Fiscal Balance (Oct) |  |  | -132.56B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
@@ -30,8 +31,8 @@
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
-| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |

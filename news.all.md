@@ -6,7 +6,8 @@
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:45 | USD | Low | Dallas Fed PCE (Oct) | 2.70% |  | 4.10% |
 | 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 01:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 0.264B |  | -1.708B |
 | 05:00 | MXN | Low | Fiscal Balance (Oct) |  |  | -132.56B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,811B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
@@ -47,8 +48,8 @@
 | 17:00 | ZAR | Low | Manufacturing PMI |  |  | 45.4 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 46.6 | 44.8 |
 | 18:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 19:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 19:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 595.40B |
