@@ -6,9 +6,9 @@
 | 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:45 | USD | Dallas Fed PCE (Oct) | 2.70% |  | 4.10% |
 | 01:30 | BRL | Foreign Exchange Flows | 0.264B |  | -1.708B |
-| 43 min | MXN | Fiscal Balance (Oct) |  |  | -132.56B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
+| 05:00 | MXN | Fiscal Balance (Oct) | -674.80B |  | -645.30B |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
+| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
 | 07:30 | JPY | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
 | 07:30 | JPY | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
 | 08:00 | KRW | Exports (YoY) (Nov) |  |  | 5.1% |

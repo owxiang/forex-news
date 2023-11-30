@@ -8,10 +8,10 @@
 | 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 01:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 0.264B |  | -1.708B |
-| 43 min | MXN | Low | Fiscal Balance (Oct) |  |  | -132.56B |
-| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,811B |
-| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
+| 05:00 | MXN | Low | Fiscal Balance (Oct) | -674.80B |  | -645.30B |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,811B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
+| 46 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
 | 07:30 | JPY | Low | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
 | 07:30 | JPY | Low | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
 | 07:50 | JPY | Moderate | Capital Spending (YoY) (Q3) |  | 3.4% | 4.5% |

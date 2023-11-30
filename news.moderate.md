@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 01:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 05:30 | USD | Fed's Balance Sheet |  |  | 7,811B |
+| 16 min | USD | Fed's Balance Sheet |  |  | 7,811B |
 | 07:50 | JPY | Capital Spending (YoY) (Q3) |  | 3.4% | 4.5% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Nov) |  | 49.3 | 49.5 |
 | 15:00 | GBP | Nationwide HPI (MoM) (Nov) |  |  | 0.9% |
