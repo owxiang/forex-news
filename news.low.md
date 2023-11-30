@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Building Consents (MoM) (Oct) | 8.7% |  | -4.6% |
-| 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
 | 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
+| 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
 | 07:00 | KRW | Retail Sales (MoM) (Oct) | -0.8% |  | 0.1% |
 | 07:00 | KRW | Service Sector Output (MoM) (Oct) | -0.9% |  | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying | -84.5B |  | 4.0B |
@@ -32,8 +32,8 @@
 | 15:30 | CHF | Retail Sales (YoY) (Oct) | -0.1% | 0.2% | -1.2% |
 | 15:45 | EUR | French CPI (YoY) (Nov) | 3.4% |  | 4.0% |
 | 15:45 | EUR | French HICP (YoY) | 3.8% | 4.1% | 4.5% |
-| 15:45 | EUR | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
 | 15:45 | EUR | French PPI (MoM) (Oct) | 0.0% |  | 0.7% |
+| 15:45 | EUR | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
 | 16:00 | CHF | Official Reserves Assets (Oct) | 731.2B |  | 747.9B |
 | 16:30 | HKD | M3 Money Supply (Oct) | 3.3% |  | 2.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Oct) | 5.6% |  | 13.0% |
@@ -43,23 +43,23 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 7.8% | 7.5% | 7.6% |
 | 17:00 | EUR | Spanish Current account (Sep) | 3.45B |  | 4.19B |
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) | 1,400.0M |  | 1,400.0M |
-| 17:30 | ZAR | PPI (YoY) (Oct) | 5.8% | 5.8% | 5.1% |
 | 17:30 | ZAR | PPI (MoM) (Oct) | 1.0% | 1.1% | 1.5% |
-| 18:00 | EUR | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
+| 17:30 | ZAR | PPI (YoY) (Oct) | 5.8% | 5.8% | 5.1% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) | 0.8% |  | 1.7% |
-| 18:00 | EUR | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
+| 18:00 | EUR | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
+| 18:00 | EUR | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
+| 18:00 | INR | Federal Fiscal Deficit (Oct) | 8,037.00B |  | 7,018.61B |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Core CPI (MoM) | -0.6% |  | 0.2% |
 | 18:00 | EUR | CPI, n.s.a (Nov) | 123.86 |  | 124.54 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 4.2% |  | 5.0% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) | -0.4% |  | 0.2% |
-| 12 min | INR | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |
-| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
-| 20:00 | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 2.90% |
-| 20:00 | INR | Infrastructure Output (YoY) (Oct) |  |  | 8.1% |
-| 20:00 | ZAR | Trade Balance (Oct) |  | 9.05B | 13.14B |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) | -0.4% | -0.1% | 0.1% |
+| 16 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 46 min | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
+| 46 min | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 2.90% |
+| 46 min | INR | Infrastructure Output (YoY) (Oct) |  |  | 8.1% |
+| 46 min | ZAR | Trade Balance (Oct) |  | 9.05B | 13.14B |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,872K | 1,840K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.00K |
 | 21:30 | USD | Personal Income (MoM) (Oct) |  | 0.2% | 0.3% |
