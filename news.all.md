@@ -24,12 +24,12 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) |  | 49.3 | 49.5 |
 | 12:00 | NZD | Low | M3 Money Supply (Oct) |  |  | 403.4B |
 | 12:00 | IDR | Low | Core Inflation (YoY) |  | 1.97% | 1.91% |
-| 12:00 | IDR | Low | Inflation (YoY) |  | 2.71% | 2.56% |
 | 12:00 | IDR | Low | Inflation (MoM) |  |  | 0.17% |
+| 12:00 | IDR | Low | Inflation (YoY) |  | 2.71% | 2.56% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -16.8% |
-| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  |  | -3.3% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  |  | 0.9% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  |  | -3.3% |
 | 15:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -186.1B |
 | 16:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
@@ -39,8 +39,8 @@
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 45.5 | 44.9 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 42.6 | 42.8 |
 | 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 42.3 | 40.8 |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
 | 17:00 | NOK | Low | Manufacturing PMI (Nov) |  |  | 47.9 |
 | 17:00 | NOK | Low | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
