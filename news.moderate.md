@@ -14,8 +14,8 @@
 | 15:00 | EUR | German Retail Sales (MoM) (Oct) | 1.1% | 0.4% | -0.8% |
 | 15:45 | EUR | French Consumer Spending (MoM) (Oct) | -0.9% | -0.2% | 0.0% |
 | 15:45 | EUR | French CPI (MoM) (Nov) | -0.2% | 0.1% | 0.1% |
-| 15:45 | EUR | French GDP (QoQ) (Q3) | -0.1% | 0.1% | 0.5% |
 | 15:45 | EUR | French GDP (YoY) | 0.6% | 0.7% | 0.9% |
+| 15:45 | EUR | French GDP (QoQ) (Q3) | -0.1% | 0.1% | 0.5% |
 | 15:45 | EUR | French HICP (MoM) | -0.3% | -0.1% | 0.2% |
 | 16:00 | CHF | KOF Leading Indicators (Nov) | 96.7 | 96.6 | 95.1 |
 | 16:55 | EUR | German Unemployment Change (Nov) | 22K | 22K | 31K |
@@ -26,17 +26,17 @@
 | 18:00 | EUR | Unemployment Rate (Oct) | 6.5% | 6.5% | 6.5% |
 | 20:00 | INR | GDP Quarterly (YoY) (Q2) | 7.6% | 6.8% | 7.8% |
 | 20:00 | BRL | Unemployment Rate | 7.6% | 7.7% | 7.7% |
-| 10 min | USD | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
-| 10 min | USD | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
-| 10 min | USD | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
-| 10 min | CAD | GDP (YoY) (Q3) |  |  | 1.12% |
-| 10 min | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
-| 10 min | CAD | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
-| 10 min | CAD | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
-| 10 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15 min | CAD | GDP (MoM) |  |  | 0.0% |
-| 25 min | EUR | ECB's Enria Speaks |  |  |  |
-| 45 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 55 min | EUR | ECB McCaul Speaks |  |  |  |
-| 22:45 | USD | Chicago PMI (Nov) |  | 45.4 | 44.0 |
+| 21:30 | USD | PCE Price index (YoY) (Oct) | 3.0% | 3.0% | 3.4% |
+| 21:30 | USD | PCE price index (MoM) (Oct) | 0.0% | 0.1% | 0.4% |
+| 21:30 | USD | Personal Spending (MoM) (Oct) | 0.2% | 0.2% | 0.7% |
+| 21:30 | CAD | GDP (YoY) (Q3) | 0.47% |  | 1.20% |
+| 21:30 | CAD | GDP (QoQ) (Q3) | -0.3% |  | 0.3% |
+| 21:30 | CAD | GDP (MoM) (Sep) | 0.1% | 0.0% | 0.0% |
+| 21:30 | CAD | GDP Annualized (QoQ) (Q3) | -1.1% | 0.2% | 1.4% |
+| 21:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:35 | CAD | GDP (MoM) | 0.2% |  | 0.1% |
+| 21:45 | EUR | ECB's Enria Speaks |  |  |  |
+| 22:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 22:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 30 min | USD | Chicago PMI (Nov) |  | 45.4 | 44.0 |
 | 23:45 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |

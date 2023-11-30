@@ -43,12 +43,12 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 7.8% | 7.5% | 7.6% |
 | 17:00 | EUR | Spanish Current account (Sep) | 3.45B |  | 4.19B |
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) | 1,400.0M |  | 1,400.0M |
-| 17:30 | ZAR | PPI (MoM) (Oct) | 1.0% | 1.1% | 1.5% |
 | 17:30 | ZAR | PPI (YoY) (Oct) | 5.8% | 5.8% | 5.1% |
+| 17:30 | ZAR | PPI (MoM) (Oct) | 1.0% | 1.1% | 1.5% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) | 0.8% |  | 1.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
-| 18:00 | EUR | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
 | 18:00 | EUR | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
+| 18:00 | EUR | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
 | 18:00 | INR | Federal Fiscal Deficit (Oct) | 8,037.00B |  | 7,018.61B |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Core CPI (MoM) | -0.6% |  | 0.2% |
@@ -61,12 +61,12 @@
 | 20:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.70% | 2.80% | 2.90% |
 | 20:00 | INR | Infrastructure Output (YoY) (Oct) | 12.1% |  | 9.2% |
 | 20:00 | ZAR | Trade Balance (Oct) | -12.66B | 9.05B | 13.14B |
-| 10 min | USD | Continuing Jobless Claims |  | 1,872K | 1,840K |
-| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 220.00K |
-| 10 min | USD | Personal Income (MoM) (Oct) |  | 0.2% | 0.3% |
-| 10 min | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
-| 10 min | CAD | Average Weekly Earnings (YoY) (Sep) |  |  | 4.15% |
-| 10 min | CAD | GDP Implicit Price (QoQ) (Q3) |  |  | 0.70% |
-| 23:00 | USD | Pending Home Sales Index (Oct) |  |  | 72.6 |
+| 21:30 | USD | Continuing Jobless Claims | 1,927K | 1,872K | 1,841K |
+| 21:30 | USD | Jobless Claims 4-Week Avg. | 220.00K |  | 220.50K |
+| 21:30 | USD | Personal Income (MoM) (Oct) | 0.2% | 0.2% | 0.4% |
+| 21:30 | USD | Real Personal Consumption (MoM) (Oct) | 0.2% |  | 0.3% |
+| 21:30 | CAD | Average Weekly Earnings (YoY) (Sep) | 4.00% |  | 3.90% |
+| 21:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 1.80% |  | 0.40% |
+| 45 min | USD | Pending Home Sales Index (Oct) |  |  | 72.6 |
 | 23:30 | USD | Natural Gas Storage |  | -12B | -7B |
 | 23:50 | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
