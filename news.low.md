@@ -24,12 +24,12 @@
 | 08:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
 | 09:00 | KRW | Interest Rate Decision (Nov) | 3.50% | 3.50% | 3.50% |
 | 10:00 | SGD | Bank Lending | 791.5B |  | 787.6B |
-| 19 min | JPY | 2-Year JGB Auction |  |  | 0.106% |
-| 44 min | NZD | M3 Money Supply (Oct) |  |  | 404.9B |
-| 13:00 | JPY | Construction Orders (YoY) (Oct) |  |  | -3.0% |
-| 13:00 | JPY | Household Confidence (Nov) |  | 35.6 | 35.7 |
-| 13:00 | JPY | Housing Starts (YoY) (Oct) |  | -6.8% | -6.8% |
-| 15:00 | EUR | German Retail Sales (YoY) (Oct) |  | -1.9% | -4.3% |
+| 11:35 | JPY | 2-Year JGB Auction | 0.046% |  | 0.106% |
+| 41 min | JPY | Construction Orders (YoY) (Oct) |  |  | -3.0% |
+| 41 min | JPY | Household Confidence (Nov) |  | 35.6 | 35.7 |
+| 41 min | JPY | Housing Starts (YoY) (Oct) |  | -6.8% | -6.8% |
+| 14:00 | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
+| 15:00 | EUR | German Retail Sales (YoY) (Oct) |  | -2.0% | -4.3% |
 | 15:30 | CHF | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
 | 15:45 | EUR | CPI NSA (MoM) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
@@ -44,8 +44,8 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
 | 17:00 | EUR | Spanish Current account (Sep) |  |  | 4.19B |
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
-| 17:30 | ZAR | PPI (MoM) (Oct) |  |  | 1.5% |
-| 17:30 | ZAR | PPI (YoY) (Oct) |  |  | 5.1% |
+| 17:30 | ZAR | PPI (MoM) (Oct) |  | 1.1% | 1.5% |
+| 17:30 | ZAR | PPI (YoY) (Oct) |  | 5.8% | 5.1% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
@@ -60,8 +60,8 @@
 | 20:00 | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Oct) |  | 2.80% | 2.90% |
 | 20:00 | INR | Infrastructure Output (YoY) (Oct) |  |  | 8.1% |
-| 20:00 | ZAR | Trade Balance (Oct) |  |  | 13.14B |
-| 21:30 | USD | Continuing Jobless Claims |  | 1,855K | 1,840K |
+| 20:00 | ZAR | Trade Balance (Oct) |  | 9.05B | 13.14B |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,872K | 1,840K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.00K |
 | 21:30 | USD | Personal Income (MoM) (Oct) |  | 0.2% | 0.3% |
 | 21:30 | USD | Real Personal Consumption (MoM) (Oct) |  |  | 0.4% |
