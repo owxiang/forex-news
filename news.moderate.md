@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 01:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 16 min | USD | Fed's Balance Sheet |  |  | 7,811B |
+| 05:30 | USD | Fed's Balance Sheet | 7,796B |  | 7,811B |
 | 07:50 | JPY | Capital Spending (YoY) (Q3) |  | 3.4% | 4.5% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Nov) |  | 49.3 | 49.5 |
 | 15:00 | GBP | Nationwide HPI (MoM) (Nov) |  |  | 0.9% |
 | 15:00 | GBP | Nationwide HPI (YoY) (Nov) |  |  | -3.3% |
-| 16:00 | CHF | GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 16:00 | CHF | GDP (YoY) (Q3) |  |  | 0.5% |
+| 16:00 | CHF | GDP (QoQ) (Q3) |  | 0.0% | 0.0% |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Nov) |  | 45.6 | 45.1 |
 | 16:30 | CHF | procure.ch PMI (Nov) |  | 42.0 | 40.6 |
 | 16:45 | EUR | HCOB Italy Manufacturing PMI (Nov) |  | 45.5 | 44.9 |
