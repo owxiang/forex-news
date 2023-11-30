@@ -28,15 +28,14 @@
 | 13:00 | JPY | Construction Orders (YoY) (Oct) | 4.2% |  | -3.0% |
 | 13:00 | JPY | Household Confidence (Nov) | 36.1 | 35.6 | 35.7 |
 | 13:00 | JPY | Housing Starts (YoY) (Oct) | -6.3% | -6.8% | -6.8% |
-| 39 min | EUR | German Retail Sales (YoY) (Oct) |  | -2.0% | -4.3% |
-| 39 min | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
-| 15:30 | CHF | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
-| 15:45 | EUR | CPI NSA (MoM) |  |  | 0.10% |
-| 15:45 | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
-| 15:45 | EUR | French HICP (YoY) |  | 4.1% | 4.5% |
-| 15:45 | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
-| 15:45 | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
-| 16:00 | CHF | Official Reserves Assets (Oct) |  |  | 747.9B |
+| 15:00 | EUR | German Retail Sales (YoY) (Oct) | -0.1% | -2.0% | -4.3% |
+| 16 min | CHF | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
+| 31 min | EUR | CPI NSA (MoM) |  |  | 0.10% |
+| 31 min | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
+| 31 min | EUR | French HICP (YoY) |  | 4.1% | 4.5% |
+| 31 min | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
+| 31 min | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
+| 46 min | CHF | Official Reserves Assets (Oct) |  |  | 747.9B |
 | 16:30 | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |
 | 16:55 | EUR | German Unemployment (Nov) |  |  | 2.678M |
@@ -46,10 +45,10 @@
 | 17:00 | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
 | 17:30 | ZAR | PPI (YoY) (Oct) |  | 5.8% | 5.1% |
 | 17:30 | ZAR | PPI (MoM) (Oct) |  | 1.1% | 1.5% |
-| 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
-| 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
+| 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
+| 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
 | 18:00 | EUR | CPI, n.s.a (Nov) |  |  | 124.54 |
