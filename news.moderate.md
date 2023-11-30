@@ -18,20 +18,20 @@
 | 15:45 | EUR | French GDP (QoQ) (Q3) | -0.1% | 0.1% | 0.5% |
 | 15:45 | EUR | French HICP (MoM) | -0.3% | -0.1% | 0.2% |
 | 16:00 | CHF | KOF Leading Indicators (Nov) | 96.7 | 96.6 | 95.1 |
-| 35 min | EUR | German Unemployment Change (Nov) |  | 22K | 30K |
-| 35 min | EUR | German Unemployment Rate (Nov) |  | 5.8% | 5.8% |
-| 18:00 | USD | OPEC Meeting |  |  |  |
-| 18:00 | EUR | Core CPI (YoY) |  | 3.9% | 4.2% |
-| 18:00 | EUR | CPI (MoM) |  |  | 0.1% |
-| 18:00 | EUR | Unemployment Rate (Oct) |  | 6.5% | 6.5% |
+| 16:55 | EUR | German Unemployment Change (Nov) | 22K | 22K | 30K |
+| 16:55 | EUR | German Unemployment Rate (Nov) | 5.9% | 5.8% | 5.8% |
+| 44 min | USD | OPEC Meeting |  |  |  |
+| 44 min | EUR | Core CPI (YoY) |  | 3.9% | 4.2% |
+| 44 min | EUR | CPI (MoM) |  |  | 0.1% |
+| 44 min | EUR | Unemployment Rate (Oct) |  | 6.5% | 6.5% |
 | 20:00 | INR | GDP Quarterly (YoY) (Q2) |  | 6.8% | 7.8% |
 | 20:00 | BRL | Unemployment Rate |  | 7.7% | 7.7% |
 | 21:30 | USD | PCE Price index (YoY) (Oct) |  | 3.0% | 3.4% |
 | 21:30 | USD | PCE price index (MoM) (Oct) |  | 0.1% | 0.4% |
 | 21:30 | USD | Personal Spending (MoM) (Oct) |  | 0.2% | 0.7% |
-| 21:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
 | 21:30 | CAD | GDP (MoM) (Sep) |  | 0.0% | 0.0% |
 | 21:30 | CAD | GDP (YoY) (Q3) |  |  | 1.12% |
+| 21:30 | CAD | GDP (QoQ) (Q3) |  |  | 0.0% |
 | 21:30 | CAD | GDP Annualized (QoQ) (Q3) |  | 0.2% | -0.2% |
 | 21:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:35 | CAD | GDP (MoM) |  |  | 0.0% |

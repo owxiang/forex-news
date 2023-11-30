@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Building Consents (MoM) (Oct) | 8.7% |  | -4.6% |
-| 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
 | 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
+| 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
 | 07:00 | KRW | Retail Sales (MoM) (Oct) | -0.8% |  | 0.1% |
 | 07:00 | KRW | Service Sector Output (MoM) (Oct) | -0.9% |  | 0.5% |
 | 07:50 | JPY | Foreign Bonds Buying | -84.5B |  | 4.0B |
@@ -16,7 +16,7 @@
 | 07:50 | JPY | Retail Sales (YoY) (Oct) | 4.2% | 5.9% | 6.2% |
 | 08:00 | NZD | ANZ Business Confidence (Nov) | 30.8 |  | 23.4 |
 | 08:00 | NZD | NBNZ Own Activity (Nov) | 26.3% |  | 23.1% |
-| 08:30 | AUD | Building Approvals (YoY) (Oct) | 1.80% |  | -7.60% |
+| 08:30 | AUD | Building Approvals (YoY) (Oct) | -6.10% |  | -20.90% |
 | 08:30 | AUD | Building Capital Expenditure (MoM) (Q3) | 0.7% |  | 4.4% |
 | 08:30 | AUD | Housing Credit (Oct) | 0.4% |  | 0.4% |
 | 08:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 0.5% |  | 2.2% |
@@ -32,28 +32,29 @@
 | 15:30 | CHF | Retail Sales (YoY) (Oct) | -0.1% | 0.2% | -1.2% |
 | 15:45 | EUR | French CPI (YoY) (Nov) | 3.4% |  | 4.0% |
 | 15:45 | EUR | French HICP (YoY) | 3.8% | 4.1% | 4.5% |
-| 15:45 | EUR | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
 | 15:45 | EUR | French PPI (MoM) (Oct) | 0.0% |  | 0.7% |
+| 15:45 | EUR | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
 | 16:00 | CHF | Official Reserves Assets (Oct) | 731.2B |  | 747.9B |
-| 10 min | EUR | CPI NSA (MoM) |  |  | 0.10% |
-| 10 min | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
-| 10 min | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |
-| 35 min | EUR | German Unemployment (Nov) |  |  | 2.678M |
-| 35 min | EUR | German Unemployment n.s.a. (Nov) |  |  | 2.607M |
-| 40 min | EUR | Italian Monthly Unemployment Rate (Oct) |  | 7.5% | 7.4% |
-| 40 min | EUR | Spanish Current account (Sep) |  |  | 4.19B |
-| 40 min | NOK | Central Bank Currency Purchase (Dec) |  |  | 1,400.0M |
-| 17:30 | ZAR | PPI (YoY) (Oct) |  | 5.8% | 5.1% |
-| 17:30 | ZAR | PPI (MoM) (Oct) |  | 1.1% | 1.5% |
-| 18:00 | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
-| 18:00 | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
-| 18:00 | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
-| 18:00 | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
-| 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 18:00 | EUR | Core CPI (MoM) |  |  | 0.2% |
-| 18:00 | EUR | CPI, n.s.a (Nov) |  |  | 124.54 |
-| 18:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  |  | 5.0% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.2% |
+| 16:30 | HKD | M3 Money Supply (Oct) | 3.3% |  | 2.3% |
+| 16:30 | HKD | Retail Sales (YoY) (Oct) | 5.6% |  | 13.0% |
+| 16:55 | EUR | German Unemployment (Nov) | 2.702M |  | 2.678M |
+| 16:55 | EUR | German Unemployment n.s.a. (Nov) | 2.606M |  | 2.607M |
+| 16:58 | ZAR | Budget Balance (MoM) (Oct) | -41.23B |  | -14.59B |
+| 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 7.8% | 7.5% | 7.6% |
+| 17:00 | EUR | Spanish Current account (Sep) | 3.45B |  | 4.19B |
+| 17:00 | NOK | Central Bank Currency Purchase (Dec) | 1,400.0M |  | 1,400.0M |
+| 14 min | EUR | CPI NSA (MoM) |  |  | 0.10% |
+| 14 min | ZAR | PPI (MoM) (Oct) |  | 1.1% | 1.5% |
+| 14 min | ZAR | PPI (YoY) (Oct) |  | 5.8% | 5.1% |
+| 44 min | EUR | Italian CPI (YoY) (Nov) |  |  | 1.7% |
+| 44 min | EUR | Italian CPI (MoM) (Nov) |  | -0.2% | -0.2% |
+| 44 min | EUR | Italian HICP (YoY) (Nov) |  | 1.4% | 1.8% |
+| 44 min | EUR | Italian HICP (MoM) (Nov) |  | 0.1% | 0.1% |
+| 44 min | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 44 min | EUR | Core CPI (MoM) |  |  | 0.2% |
+| 44 min | EUR | CPI, n.s.a (Nov) |  |  | 124.54 |
+| 44 min | EUR | HICP ex Energy & Food (YoY) (Nov) |  |  | 5.0% |
+| 44 min | EUR | HICP ex Energy and Food (MoM) |  |  | 0.2% |
 | 18:30 | INR | Federal Fiscal Deficit (Oct) |  |  | 7,018.61B |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | MXN | Unemployment Rate (Oct) |  |  | 2.70% |
@@ -70,4 +71,3 @@
 | 23:00 | USD | Pending Home Sales Index (Oct) |  |  | 72.6 |
 | 23:30 | USD | Natural Gas Storage |  | -12B | -7B |
 | 23:50 | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
-| 23:50 | ZAR | Budget Balance (MoM) (Oct) |  |  | -14.59B |
