@@ -47,8 +47,8 @@
 | 17:30 | ZAR | PPI (MoM) (Oct) | 1.0% | 1.1% | 1.5% |
 | 18:00 | EUR | Italian CPI (YoY) (Nov) | 0.8% |  | 1.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
-| 18:00 | EUR | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
 | 18:00 | EUR | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
+| 18:00 | EUR | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
 | 18:00 | INR | Federal Fiscal Deficit (Oct) | 8,037.00B |  | 7,018.61B |
 | 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Core CPI (MoM) | -0.6% |  | 0.2% |
@@ -67,6 +67,6 @@
 | 21:30 | USD | Real Personal Consumption (MoM) (Oct) | 0.2% |  | 0.3% |
 | 21:30 | CAD | Average Weekly Earnings (YoY) (Sep) | 4.00% |  | 3.90% |
 | 21:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 1.80% |  | 0.40% |
-| 45 min | USD | Pending Home Sales Index (Oct) |  |  | 72.6 |
-| 23:30 | USD | Natural Gas Storage |  | -12B | -7B |
-| 23:50 | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
+| 23:00 | USD | Pending Home Sales Index (Oct) | 71.4 |  | 72.5 |
+| 12 min | USD | Natural Gas Storage |  | -12B | -7B |
+| 32 min | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |

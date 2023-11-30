@@ -42,8 +42,8 @@
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Oct) | -0.1% | -2.0% | -4.3% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Oct) | -0.1% | 0.2% | -1.2% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) | -0.9% | -0.2% | 0.0% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | 0.1% | 0.1% |
 | 15:45 | EUR | Low | French CPI (YoY) (Nov) | 3.4% |  | 4.0% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | 0.1% | 0.1% |
 | 15:45 | EUR | Moderate | French GDP (YoY) | 0.6% | 0.7% | 0.9% |
 | 15:45 | EUR | Moderate | French GDP (QoQ) (Q3) | -0.1% | 0.1% | 0.5% |
 | 15:45 | EUR | Moderate | French HICP (MoM) | -0.3% | -0.1% | 0.2% |
@@ -67,8 +67,8 @@
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Nov) | 0.8% |  | 1.7% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Oct) | 8,037.00B |  | 7,018.61B |
 | 18:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 18:00 | EUR | Low | Core CPI (MoM) | -0.6% |  | 0.2% |
@@ -108,9 +108,9 @@
 | 21:45 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 22:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 22:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 30 min | USD | Moderate | Chicago PMI (Nov) |  | 45.4 | 44.0 |
-| 45 min | USD | High | Pending Home Sales (MoM) (Oct) |  | -2.0% | 1.1% |
-| 45 min | USD | Low | Pending Home Sales Index (Oct) |  |  | 72.6 |
-| 23:30 | USD | Low | Natural Gas Storage |  | -12B | -7B |
-| 23:45 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 23:50 | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |
+| 22:45 | USD | Moderate | Chicago PMI (Nov) | 55.8 | 45.4 | 44.0 |
+| 23:00 | USD | High | Pending Home Sales (MoM) (Oct) | -1.5% | -2.0% | 1.0% |
+| 23:00 | USD | Low | Pending Home Sales Index (Oct) | 71.4 |  | 72.5 |
+| 12 min | USD | Low | Natural Gas Storage |  | -12B | -7B |
+| 27 min | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 32 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |

@@ -38,5 +38,5 @@
 | 21:45 | EUR | ECB's Enria Speaks |  |  |  |
 | 22:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 22:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 30 min | USD | Chicago PMI (Nov) |  | 45.4 | 44.0 |
-| 23:45 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 22:45 | USD | Chicago PMI (Nov) | 55.8 | 45.4 | 44.0 |
+| 27 min | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
