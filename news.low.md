@@ -1,72 +1,50 @@
-## 30 November 2023 - Low Impact Forex News
+## 01 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | Building Consents (MoM) (Oct) | 8.7% |  | -4.6% |
-| 07:00 | KRW | Industrial Production (YoY) (Oct) | 1.1% | 5.0% | 2.9% |
-| 07:00 | KRW | Industrial Production (MoM) (Oct) | -3.5% | 0.5% | 1.7% |
-| 07:00 | KRW | Retail Sales (MoM) (Oct) | -0.8% |  | 0.1% |
-| 07:00 | KRW | Service Sector Output (MoM) (Oct) | -0.9% |  | 0.5% |
-| 07:50 | JPY | Foreign Bonds Buying | -84.5B |  | 4.0B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 4.2B |  | 286.0B |
-| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Nov) | -0.3% |  | 3.9% |
-| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Dec) | 3.2% |  | -2.8% |
-| 07:50 | JPY | Large Retailers' Sales (MoM) | -1.6% |  | -0.1% |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Oct) | 4.0% |  | 5.0% |
-| 07:50 | JPY | Retail Sales (YoY) (Oct) | 4.2% | 5.9% | 6.2% |
-| 08:00 | NZD | ANZ Business Confidence (Nov) | 30.8 |  | 23.4 |
-| 08:00 | NZD | NBNZ Own Activity (Nov) | 26.3% |  | 23.1% |
-| 08:30 | AUD | Building Approvals (YoY) (Oct) | -6.10% |  | -20.90% |
-| 08:30 | AUD | Building Capital Expenditure (MoM) (Q3) | 0.7% |  | 4.4% |
-| 08:30 | AUD | Housing Credit (Oct) | 0.4% |  | 0.4% |
-| 08:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q3) | 0.5% |  | 2.2% |
-| 08:30 | AUD | Private House Approvals (Oct) | 2.2% |  | -4.6% |
-| 08:30 | AUD | Private Sector Credit (MoM) (Oct) | 0.3% | 0.4% | 0.5% |
-| 09:00 | KRW | Interest Rate Decision (Nov) | 3.50% | 3.50% | 3.50% |
-| 10:00 | SGD | Bank Lending | 791.5B |  | 787.6B |
-| 11:35 | JPY | 2-Year JGB Auction | 0.046% |  | 0.106% |
-| 13:00 | JPY | Construction Orders (YoY) (Oct) | 4.2% |  | -3.0% |
-| 13:00 | JPY | Household Confidence (Nov) | 36.1 | 35.6 | 35.7 |
-| 13:00 | JPY | Housing Starts (YoY) (Oct) | -6.3% | -6.8% | -6.8% |
-| 15:00 | EUR | German Retail Sales (YoY) (Oct) | -0.1% | -2.0% | -4.3% |
-| 15:30 | CHF | Retail Sales (YoY) (Oct) | -0.1% | 0.2% | -1.2% |
-| 15:45 | EUR | French CPI (YoY) (Nov) | 3.4% |  | 4.0% |
-| 15:45 | EUR | French HICP (YoY) | 3.8% | 4.1% | 4.5% |
-| 15:45 | EUR | French PPI (MoM) (Oct) | 0.0% |  | 0.7% |
-| 15:45 | EUR | PPI (YoY) (Oct) | -1.20% |  | -1.50% |
-| 16:00 | CHF | Official Reserves Assets (Oct) | 731.2B |  | 747.9B |
-| 16:30 | HKD | M3 Money Supply (Oct) | 3.3% |  | 2.3% |
-| 16:30 | HKD | Retail Sales (YoY) (Oct) | 5.6% |  | 13.0% |
-| 16:55 | EUR | German Unemployment (Nov) | 2.702M |  | 2.678M |
-| 16:55 | EUR | German Unemployment n.s.a. (Nov) | 2.606M |  | 2.607M |
-| 16:58 | ZAR | Budget Balance (MoM) (Oct) | -41.23B |  | -14.59B |
-| 17:00 | EUR | Italian Monthly Unemployment Rate (Oct) | 7.8% | 7.5% | 7.6% |
-| 17:00 | EUR | Spanish Current account (Sep) | 3.45B |  | 4.19B |
-| 17:00 | NOK | Central Bank Currency Purchase (Dec) | 1,400.0M |  | 1,400.0M |
-| 17:30 | ZAR | PPI (YoY) (Oct) | 5.8% | 5.8% | 5.1% |
-| 17:30 | ZAR | PPI (MoM) (Oct) | 1.0% | 1.1% | 1.5% |
-| 18:00 | EUR | Italian CPI (YoY) (Nov) | 0.8% |  | 1.7% |
-| 18:00 | EUR | Italian CPI (MoM) (Nov) | -0.4% | -0.2% | -0.2% |
-| 18:00 | EUR | Italian HICP (YoY) (Nov) | 0.7% | 1.4% | 1.8% |
-| 18:00 | EUR | Italian HICP (MoM) (Nov) | -0.4% | 0.1% | 0.1% |
-| 18:00 | INR | Federal Fiscal Deficit (Oct) | 8,037.00B |  | 7,018.61B |
-| 18:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 18:00 | EUR | Core CPI (MoM) | -0.6% |  | 0.2% |
-| 18:00 | EUR | CPI, n.s.a (Nov) | 123.86 |  | 124.54 |
-| 18:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 4.2% |  | 5.0% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) | -0.4% | -0.1% | 0.1% |
-| 19:30 | INR | M3 Money Supply | 11.2% |  | 11.0% |
-| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 20:00 | MXN | Unemployment Rate (Oct) | 2.60% |  | 2.70% |
-| 20:00 | MXN | Unemployment Rate n.s.a. (Oct) | 2.70% | 2.80% | 2.90% |
-| 20:00 | INR | Infrastructure Output (YoY) (Oct) | 12.1% |  | 9.2% |
-| 20:00 | ZAR | Trade Balance (Oct) | -12.66B | 9.05B | 13.14B |
-| 21:30 | USD | Continuing Jobless Claims | 1,927K | 1,872K | 1,841K |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 220.00K |  | 220.50K |
-| 21:30 | USD | Personal Income (MoM) (Oct) | 0.2% | 0.2% | 0.4% |
-| 21:30 | USD | Real Personal Consumption (MoM) (Oct) | 0.2% |  | 0.3% |
-| 21:30 | CAD | Average Weekly Earnings (YoY) (Sep) | 4.00% |  | 3.90% |
-| 21:30 | CAD | GDP Implicit Price (QoQ) (Q3) | 1.80% |  | 0.40% |
-| 23:00 | USD | Pending Home Sales Index (Oct) | 71.4 |  | 72.5 |
-| 12 min | USD | Natural Gas Storage |  | -12B | -7B |
-| 32 min | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
+| 8 min | USD | 4-Week Bill Auction |  |  | 5.300% |
+| 8 min | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 8 min | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -1.708B |
+| 05:00 | MXN | Fiscal Balance (Oct) |  |  | -132.56B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.455T |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 48.2 |
+| 07:30 | JPY | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
+| 07:30 | JPY | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
+| 08:00 | KRW | Exports (YoY) (Nov) |  |  | 5.1% |
+| 08:00 | KRW | Imports (YoY) (Nov) |  |  | -9.7% |
+| 08:00 | KRW | Trade Balance (Nov) |  |  | 1.63B |
+| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) |  |  | 49.8 |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.1 | 48.7 |
+| 08:30 | IDR | Nikkei Manufacturing PMI (Nov) |  |  | 51.5 |
+| 12:00 | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
+| 12:00 | IDR | Core Inflation (YoY) |  | 1.97% | 1.91% |
+| 12:00 | IDR | Inflation (MoM) |  |  | 0.17% |
+| 12:00 | IDR | Inflation (YoY) |  | 2.71% | 2.56% |
+| 13:00 | INR | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
+| 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
+| 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
+| 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
+| 17:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.9 |
+| 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
+| 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
+| 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
+| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
+| 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
+| 19:30 | INR | Deposit Growth |  |  | 13.5% |
+| 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
+| 20:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
+| Tentative | ZAR | Total Vehicle Sales |  |  | 45.45K |
+| 21:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.6 |
+| 21:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 5.0% |
+| 21:30 | CAD | Full Employment Change (Nov) |  |  | -3.3K |
+| 21:30 | CAD | Part Time Employment Change (Nov) |  |  | 20.8K |
+| 21:30 | CAD | Participation Rate (Nov) |  |  | 65.6% |
+| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
+| 23:00 | USD | Construction Spending (MoM) (Oct) |  | 0.4% | 0.4% |
+| 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | ISM Manufacturing New Orders Index (Nov) |  |  | 45.5 |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Nov) |  |  | 52.10 |
