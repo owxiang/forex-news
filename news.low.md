@@ -28,14 +28,14 @@
 | 13:00 | JPY | Construction Orders (YoY) (Oct) | 4.2% |  | -3.0% |
 | 13:00 | JPY | Household Confidence (Nov) | 36.1 | 35.6 | 35.7 |
 | 13:00 | JPY | Housing Starts (YoY) (Oct) | -6.3% | -6.8% | -6.8% |
-| 45 min | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
-| 15:00 | EUR | German Retail Sales (YoY) (Oct) |  | -2.0% | -4.3% |
+| 39 min | EUR | German Retail Sales (YoY) (Oct) |  | -2.0% | -4.3% |
+| 39 min | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
 | 15:30 | CHF | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
 | 15:45 | EUR | CPI NSA (MoM) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) (Nov) |  |  | 4.0% |
 | 15:45 | EUR | French HICP (YoY) |  | 4.1% | 4.5% |
-| 15:45 | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
 | 15:45 | EUR | French PPI (MoM) (Oct) |  |  | 0.7% |
+| 15:45 | EUR | PPI (YoY) (Oct) |  |  | -1.70% |
 | 16:00 | CHF | Official Reserves Assets (Oct) |  |  | 747.9B |
 | 16:30 | HKD | M3 Money Supply (Oct) |  |  | 2.3% |
 | 16:30 | HKD | Retail Sales (YoY) (Oct) |  |  | 13.0% |

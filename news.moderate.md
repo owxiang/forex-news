@@ -11,9 +11,7 @@
 | 09:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
 | 09:30 | CNY | Chinese Composite PMI (Nov) | 50.4 |  | 50.7 |
 | 09:30 | CNY | Non-Manufacturing PMI (Nov) | 50.2 | 51.1 | 50.6 |
-| 15:00 | GBP | Nationwide HPI (YoY) |  |  | -3.3% |
-| 15:00 | GBP | Nationwide HPI (MoM) |  |  | 0.9% |
-| 15:00 | EUR | German Retail Sales (MoM) (Oct) |  | 0.4% | -0.8% |
+| 39 min | EUR | German Retail Sales (MoM) (Oct) |  | 0.4% | -0.8% |
 | 15:45 | EUR | French Consumer Spending (MoM) (Oct) |  | -0.2% | 0.2% |
 | 15:45 | EUR | French CPI (MoM) (Nov) |  | 0.1% | 0.1% |
 | 15:45 | EUR | French GDP (YoY) |  | 0.7% | 0.9% |

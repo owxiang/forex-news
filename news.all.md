@@ -38,11 +38,9 @@
 | 13:00 | JPY | Low | Construction Orders (YoY) (Oct) | 4.2% |  | -3.0% |
 | 13:00 | JPY | Low | Household Confidence (Nov) | 36.1 | 35.6 | 35.7 |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Oct) | -6.3% | -6.8% | -6.8% |
-| 45 min | NZD | Low | M3 Money Supply (Oct) |  |  | 403.4B |
-| 15:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | -3.3% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | 0.9% |
-| 15:00 | EUR | Low | German Retail Sales (YoY) (Oct) |  | -2.0% | -4.3% |
-| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.4% | -0.8% |
+| 39 min | EUR | Low | German Retail Sales (YoY) (Oct) |  | -2.0% | -4.3% |
+| 39 min | EUR | Moderate | German Retail Sales (MoM) (Oct) |  | 0.4% | -0.8% |
+| 39 min | NZD | Low | M3 Money Supply (Oct) |  |  | 403.4B |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Oct) |  | 0.2% | -0.6% |
 | 15:45 | EUR | Low | CPI NSA (MoM) |  |  | 0.10% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Oct) |  | -0.2% | 0.2% |
@@ -52,8 +50,8 @@
 | 15:45 | EUR | Moderate | French GDP (QoQ) (Q3) |  | 0.1% | 0.5% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.1% | 0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) |  | 4.1% | 4.5% |
-| 15:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -1.70% |
 | 15:45 | EUR | Low | French PPI (MoM) (Oct) |  |  | 0.7% |
+| 15:45 | EUR | Low | PPI (YoY) (Oct) |  |  | -1.70% |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Nov) |  | 96.6 | 95.8 |
 | 16:00 | CHF | Low | Official Reserves Assets (Oct) |  |  | 747.9B |
 | 16:30 | HKD | Low | M3 Money Supply (Oct) |  |  | 2.3% |
