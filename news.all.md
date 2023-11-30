@@ -12,12 +12,12 @@
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,796B |  | 7,811B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.395T |  | 3.455T |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 | 47.7 | 48.2 |
-| 07:30 | JPY | Low | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
-| 07:30 | JPY | Low | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
-| 07:50 | JPY | Moderate | Capital Spending (YoY) (Q3) |  | 3.4% | 4.5% |
-| 08:00 | KRW | Low | Exports (YoY) (Nov) |  |  | 5.1% |
-| 08:00 | KRW | Low | Imports (YoY) (Nov) |  |  | -9.7% |
-| 08:00 | KRW | Low | Trade Balance (Nov) |  |  | 1.63B |
+| 14 min | JPY | Low | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
+| 14 min | JPY | Low | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
+| 34 min | JPY | Moderate | Capital Spending (YoY) (Q3) |  | 3.4% | 4.5% |
+| 44 min | KRW | Low | Exports (YoY) (Nov) |  |  | 5.1% |
+| 44 min | KRW | Low | Imports (YoY) (Nov) |  |  | -9.7% |
+| 44 min | KRW | Low | Trade Balance (Nov) |  |  | 1.63B |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Nov) |  |  | 49.8 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.1 | 48.7 |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) |  |  | 51.5 |
@@ -39,8 +39,8 @@
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 45.5 | 44.9 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 42.6 | 42.8 |
 | 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 42.3 | 40.8 |
-| 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
+| 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | NOK | Low | Manufacturing PMI (Nov) |  |  | 47.9 |
 | 17:00 | NOK | Low | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |

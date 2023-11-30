@@ -9,11 +9,11 @@
 | 05:00 | MXN | Fiscal Balance (Oct) | -674.80B |  | -645.30B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.395T |  | 3.455T |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 | 47.7 | 48.2 |
-| 07:30 | JPY | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
-| 07:30 | JPY | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
-| 08:00 | KRW | Exports (YoY) (Nov) |  |  | 5.1% |
-| 08:00 | KRW | Imports (YoY) (Nov) |  |  | -9.7% |
-| 08:00 | KRW | Trade Balance (Nov) |  |  | 1.63B |
+| 14 min | JPY | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
+| 14 min | JPY | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
+| 44 min | KRW | Exports (YoY) (Nov) |  |  | 5.1% |
+| 44 min | KRW | Imports (YoY) (Nov) |  |  | -9.7% |
+| 44 min | KRW | Trade Balance (Nov) |  |  | 1.63B |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) |  |  | 49.8 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.1 | 48.7 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Nov) |  |  | 51.5 |
@@ -25,8 +25,8 @@
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.9 |
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
