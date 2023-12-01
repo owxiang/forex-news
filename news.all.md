@@ -27,26 +27,26 @@
 | 10:15 | IDR | Low | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -10.5% |  | -15.8% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 0.2% | -0.4% | 0.9% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | -2.0% | -2.3% | -3.3% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 0.2% | -0.4% | 0.9% |
 | 15:45 | EUR | Low | French Government Budget Balance (Oct) | -177.7B |  | -186.1B |
 | 16:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 16:00 | CHF | Moderate | GDP (YoY) (Q3) | 0.3% | 0.5% | 0.3% |
 | 16:00 | CHF | Moderate | GDP (QoQ) (Q3) | 0.3% | 0.1% | -0.1% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) | 46.3 | 45.5 | 45.1 |
-| 10 min | CHF | Moderate | procure.ch PMI (Nov) |  | 42.0 | 40.6 |
-| 25 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 45.3 | 44.9 |
-| 30 min | EUR | Moderate | HCOB France Manufacturing PMI (Nov) |  | 42.6 | 42.8 |
-| 35 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) |  | 42.3 | 40.8 |
-| 40 min | EUR | Low | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
-| 40 min | EUR | Low | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
-| 40 min | NOK | Low | Manufacturing PMI (Nov) |  |  | 47.9 |
-| 40 min | NOK | Low | Unemployment Change (Nov) |  |  | 67.78K |
-| 40 min | NOK | Low | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
-| 40 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) |  | 43.8 | 43.1 |
-| 40 min | ZAR | Low | Manufacturing PMI |  |  | 45.4 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 46.7 | 44.8 |
-| 18:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 16:30 | CHF | Moderate | procure.ch PMI (Nov) | 42.1 | 42.0 | 40.6 |
+| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) | 44.4 | 45.3 | 44.9 |
+| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 42.9 | 42.6 | 42.8 |
+| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 42.6 | 42.3 | 40.8 |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
+| 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.1% | 0.0% | -0.4% |
+| 17:00 | NOK | Low | Manufacturing PMI (Nov) | 49.9 |  | 47.9 |
+| 17:00 | NOK | Low | Unemployment Change (Nov) | 68.82K |  | 67.81K |
+| 17:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 1.80% |  | 1.80% |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Nov) | 44.2 | 43.8 | 43.1 |
+| 17:00 | ZAR | Low | Manufacturing PMI | 48.2 |  | 45.4 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Nov) |  | 46.7 | 44.8 |
+| 44 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 19:00 | EUR | Low | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Nov) |  |  | 18.10% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |
