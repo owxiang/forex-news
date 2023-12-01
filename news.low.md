@@ -24,8 +24,8 @@
 | 13:30 | AUD | Commodity Prices (YoY) | -10.5% |  | -15.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) | -177.7B |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) | 0.1% | 0.0% | -0.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | NOK | Manufacturing PMI (Nov) | 49.9 |  | 47.9 |
 | 17:00 | NOK | Unemployment Change (Nov) | 68.82K |  | 67.81K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) | 1.80% |  | 1.80% |
@@ -36,13 +36,13 @@
 | 19:30 | INR | Deposit Growth | 13.6% |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD | 597.94B |  | 595.40B |
 | 20:00 | BRL | Industrial Production (MoM) (Oct) | 0.1% | 0.3% | 0.1% |
-| Tentative | ZAR | Total Vehicle Sales |  |  | 45.45K |
-| 29 min | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.6 |
-| 29 min | ZAR | Total Vehicle Sales (YoY) |  |  | -2.00% |
-| 59 min | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 5.0% |
-| 59 min | CAD | Full Employment Change (Nov) |  |  | -3.3K |
-| 59 min | CAD | Part Time Employment Change (Nov) |  |  | 20.8K |
-| 59 min | CAD | Participation Rate (Nov) |  |  | 65.6% |
+| 20:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | -13.40% |  | -2.00% |
+| Tentative | ZAR | Total Vehicle Sales (Nov) | 43.28K |  | 45.45K |
+| 21:00 | BRL | S&P Global Manufacturing PMI (Nov) | 49.4 |  | 48.6 |
+| 10 min | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 5.0% |
+| 10 min | CAD | Full Employment Change (Nov) |  |  | -3.3K |
+| 10 min | CAD | Part Time Employment Change (Nov) |  |  | 20.8K |
+| 10 min | CAD | Participation Rate (Nov) |  |  | 65.6% |
 | 22:30 | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
 | 22:30 | CAD | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
 | 23:00 | USD | Construction Spending (MoM) (Oct) |  | 0.4% | 0.4% |

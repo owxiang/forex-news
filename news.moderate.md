@@ -22,7 +22,7 @@
 | 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | EUR | ECB's Enria Speaks |  |  |  |
 | 20:00 | BRL | Industrial Production (YoY) (Oct) | 1.2% | 1.3% | 0.6% |
-| 59 min | CAD | Employment Change (Nov) |  | 15.0K | 17.5K |
-| 59 min | CAD | Unemployment Rate (Nov) |  | 5.8% | 5.7% |
+| 10 min | CAD | Employment Change (Nov) |  | 15.0K | 17.5K |
+| 10 min | CAD | Unemployment Rate (Nov) |  | 5.8% | 5.7% |
 | 22:45 | USD | S&P Global US Manufacturing PMI (Nov) |  | 49.4 | 50.0 |
 | 23:00 | USD | ISM Manufacturing Employment (Nov) |  |  | 46.8 |

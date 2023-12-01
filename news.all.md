@@ -38,8 +38,8 @@
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) | 44.4 | 45.3 | 44.9 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 42.9 | 42.6 | 42.8 |
 | 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 42.6 | 42.3 | 40.8 |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.1% | 0.0% | -0.4% |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | NOK | Low | Manufacturing PMI (Nov) | 49.9 |  | 47.9 |
 | 17:00 | NOK | Low | Unemployment Change (Nov) | 68.82K |  | 67.81K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 1.80% |  | 1.80% |
@@ -56,15 +56,15 @@
 | 19:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 1.2% | 1.3% | 0.6% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Oct) | 0.1% | 0.3% | 0.1% |
-| Tentative | ZAR | Low | Total Vehicle Sales |  |  | 45.45K |
-| 29 min | BRL | Low | S&P Global Manufacturing PMI (Nov) |  |  | 48.6 |
-| 29 min | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -2.00% |
-| 59 min | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 5.0% |
-| 59 min | CAD | Moderate | Employment Change (Nov) |  | 15.0K | 17.5K |
-| 59 min | CAD | Low | Full Employment Change (Nov) |  |  | -3.3K |
-| 59 min | CAD | Low | Part Time Employment Change (Nov) |  |  | 20.8K |
-| 59 min | CAD | Low | Participation Rate (Nov) |  |  | 65.6% |
-| 59 min | CAD | Moderate | Unemployment Rate (Nov) |  | 5.8% | 5.7% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | -13.40% |  | -2.00% |
+| Tentative | ZAR | Low | Total Vehicle Sales (Nov) | 43.28K |  | 45.45K |
+| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 49.4 |  | 48.6 |
+| 10 min | CAD | Low | Avg hourly wages Permanent employee (Nov) |  |  | 5.0% |
+| 10 min | CAD | Moderate | Employment Change (Nov) |  | 15.0K | 17.5K |
+| 10 min | CAD | Low | Full Employment Change (Nov) |  |  | -3.3K |
+| 10 min | CAD | Low | Part Time Employment Change (Nov) |  |  | 20.8K |
+| 10 min | CAD | Low | Participation Rate (Nov) |  |  | 65.6% |
+| 10 min | CAD | Moderate | Unemployment Rate (Nov) |  | 5.8% | 5.7% |
 | 22:30 | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |
 | 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
 | 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.4 | 50.0 |
