@@ -22,8 +22,8 @@
 | 10:15 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
 | 13:30 | AUD | Commodity Prices (YoY) | -10.5% |  | -15.8% |
-| 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
-| 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 30 min | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
+| 45 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.9 |

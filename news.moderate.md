@@ -7,10 +7,10 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,796B |  | 7,811B |
 | 07:50 | JPY | Capital Spending (YoY) (Q3) | 3.4% | 3.4% | 4.5% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Nov) | 50.7 | 49.3 | 49.5 |
-| 38 min | GBP | Nationwide HPI (YoY) (Nov) |  | -2.3% | -3.3% |
-| 38 min | GBP | Nationwide HPI (MoM) (Nov) |  | -0.4% | 0.9% |
-| 16:00 | CHF | GDP (QoQ) (Q3) |  | 0.1% | 0.0% |
-| 16:00 | CHF | GDP (YoY) (Q3) |  | 0.5% | 0.5% |
+| 15:00 | GBP | Nationwide HPI (YoY) (Nov) | -2.0% | -2.3% | -3.3% |
+| 15:00 | GBP | Nationwide HPI (MoM) (Nov) | 0.2% | -0.4% | 0.9% |
+| 45 min | CHF | GDP (QoQ) (Q3) |  | 0.1% | 0.0% |
+| 45 min | CHF | GDP (YoY) (Q3) |  | 0.5% | 0.5% |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Nov) |  | 45.5 | 45.1 |
 | 16:30 | CHF | procure.ch PMI (Nov) |  | 42.0 | 40.6 |
 | 16:45 | EUR | HCOB Italy Manufacturing PMI (Nov) |  | 45.3 | 44.9 |

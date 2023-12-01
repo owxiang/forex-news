@@ -27,12 +27,12 @@
 | 10:15 | IDR | Low | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -10.5% |  | -15.8% |
-| 38 min | GBP | Moderate | Nationwide HPI (YoY) (Nov) |  | -2.3% | -3.3% |
-| 38 min | GBP | Moderate | Nationwide HPI (MoM) (Nov) |  | -0.4% | 0.9% |
-| 15:45 | EUR | Low | French Government Budget Balance (Oct) |  |  | -186.1B |
-| 16:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.1% | 0.0% |
-| 16:00 | CHF | Moderate | GDP (YoY) (Q3) |  | 0.5% | 0.5% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Nov) | -2.0% | -2.3% | -3.3% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 0.2% | -0.4% | 0.9% |
+| 30 min | EUR | Low | French Government Budget Balance (Oct) |  |  | -186.1B |
+| 45 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 45 min | CHF | Moderate | GDP (QoQ) (Q3) |  | 0.1% | 0.0% |
+| 45 min | CHF | Moderate | GDP (YoY) (Q3) |  | 0.5% | 0.5% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Nov) |  | 45.5 | 45.1 |
 | 16:30 | CHF | Moderate | procure.ch PMI (Nov) |  | 42.0 | 40.6 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) |  | 45.3 | 44.9 |
