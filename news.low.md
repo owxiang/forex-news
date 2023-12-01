@@ -17,10 +17,10 @@
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) | 50.0 |  | 49.8 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.3 | 48.1 | 48.7 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Nov) | 51.7 |  | 51.5 |
-| 12:00 | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
-| 12:00 | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
-| 12:00 | IDR | Inflation (MoM) | 0.38% |  | 0.17% |
-| 12:00 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
+| 43 min | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
+| 43 min | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
+| 43 min | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
+| 43 min | IDR | Inflation (MoM) | 0.38% |  | 0.17% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
@@ -31,8 +31,8 @@
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
-| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
