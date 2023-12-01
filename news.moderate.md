@@ -1,28 +1,16 @@
-## 01 December 2023 - Moderate Impact Forex News
+## 02 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 01:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 05:30 | USD | Fed's Balance Sheet | 7,796B |  | 7,811B |
-| 07:50 | JPY | Capital Spending (YoY) (Q3) | 3.4% | 3.4% | 4.5% |
-| 09:45 | CNY | Caixin Manufacturing PMI (Nov) | 50.7 | 49.3 | 49.5 |
-| 15:00 | GBP | Nationwide HPI (MoM) (Nov) | 0.2% | -0.4% | 0.9% |
-| 15:00 | GBP | Nationwide HPI (YoY) (Nov) | -2.0% | -2.3% | -3.3% |
-| 16:00 | CHF | GDP (QoQ) (Q3) | 0.3% | 0.1% | -0.1% |
-| 16:00 | CHF | GDP (YoY) (Q3) | 0.3% | 0.5% | 0.3% |
-| 16:15 | EUR | HCOB Spain Manufacturing PMI (Nov) | 46.3 | 45.5 | 45.1 |
-| 16:30 | CHF | procure.ch PMI (Nov) | 42.1 | 42.0 | 40.6 |
-| 16:45 | EUR | HCOB Italy Manufacturing PMI (Nov) | 44.4 | 45.3 | 44.9 |
-| 16:50 | EUR | HCOB France Manufacturing PMI (Nov) | 42.9 | 42.6 | 42.8 |
-| 16:55 | EUR | HCOB Germany Manufacturing PMI (Nov) | 42.6 | 42.3 | 40.8 |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Nov) | 44.2 | 43.8 | 43.1 |
-| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Nov) | 47.2 | 46.7 | 44.8 |
-| 18:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 19:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 19:30 | EUR | ECB's Enria Speaks |  |  |  |
-| 20:00 | BRL | Industrial Production (YoY) (Oct) | 1.2% | 1.3% | 0.6% |
-| 21:30 | CAD | Employment Change (Nov) | 24.9K | 15.0K | 17.5K |
-| 21:30 | CAD | Unemployment Rate (Nov) | 5.8% | 5.8% | 5.7% |
-| 22:45 | USD | S&P Global US Manufacturing PMI (Nov) | 49.4 | 49.4 | 50.0 |
-| 23:00 | USD | ISM Manufacturing Employment (Nov) | 45.8 |  | 46.8 |
+| 9 min | USD | Atlanta Fed GDPNow (Q4) |  | 1.8% | 1.8% |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 622 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | -26.1K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 207.3K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 171.7K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 5.0K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -80.1K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -78.0K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 33.9K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -105.5K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 129.7K |
