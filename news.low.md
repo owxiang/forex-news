@@ -11,33 +11,33 @@
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 | 47.7 | 48.2 |
 | 07:30 | JPY | Jobs/applications ratio (Oct) | 1.30 | 1.29 | 1.29 |
 | 07:30 | JPY | Unemployment Rate (Oct) | 2.5% | 2.6% | 2.6% |
-| 08:00 | KRW | Exports (YoY) (Nov) | 7.8% |  | 5.1% |
-| 08:00 | KRW | Imports (YoY) (Nov) | -11.6% |  | -9.7% |
-| 08:00 | KRW | Trade Balance (Nov) | 3.80B |  | 1.63B |
+| 08:00 | KRW | Exports (YoY) (Nov) | 7.8% | 4.7% | 5.1% |
+| 08:00 | KRW | Imports (YoY) (Nov) | -11.6% | -8.6% | -9.7% |
+| 08:00 | KRW | Trade Balance (Nov) | 3.80B | 1.30B | 1.63B |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) | 50.0 |  | 49.8 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.3 | 48.1 | 48.7 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Nov) | 51.7 |  | 51.5 |
-| 43 min | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
-| 43 min | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
-| 43 min | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
-| 43 min | IDR | Inflation (MoM) | 0.38% |  | 0.17% |
-| 13:00 | INR | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
+| 10:15 | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
+| 10:15 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
+| 10:15 | IDR | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
+| 40 min | INR | S&P Global India Manufacturing PMI (Nov) |  | 56.0 | 55.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
 | 17:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.9 |
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
-| 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
 | 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
+| 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
 | 19:30 | BRL | Foreign Exchange Flows |  |  | -1.708B |
-| 20:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.1% | 0.1% |
+| 20:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.3% | 0.1% |
+| 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -2.00% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.45K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Nov) |  |  | 48.6 |
 | 21:30 | CAD | Avg hourly wages Permanent employee (Nov) |  |  | 5.0% |
