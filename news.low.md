@@ -9,18 +9,18 @@
 | 05:00 | MXN | Fiscal Balance (Oct) | -674.80B |  | -645.30B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.395T |  | 3.455T |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 | 47.7 | 48.2 |
-| 14 min | JPY | Jobs/applications ratio (Oct) |  | 1.29 | 1.29 |
-| 14 min | JPY | Unemployment Rate (Oct) |  | 2.6% | 2.6% |
-| 44 min | KRW | Exports (YoY) (Nov) |  |  | 5.1% |
-| 44 min | KRW | Imports (YoY) (Nov) |  |  | -9.7% |
-| 44 min | KRW | Trade Balance (Nov) |  |  | 1.63B |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) |  |  | 49.8 |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) |  | 48.1 | 48.7 |
-| 08:30 | IDR | Nikkei Manufacturing PMI (Nov) |  |  | 51.5 |
+| 07:30 | JPY | Jobs/applications ratio (Oct) | 1.30 | 1.29 | 1.29 |
+| 07:30 | JPY | Unemployment Rate (Oct) | 2.5% | 2.6% | 2.6% |
+| 08:00 | KRW | Exports (YoY) (Nov) | 7.8% |  | 5.1% |
+| 08:00 | KRW | Imports (YoY) (Nov) | -11.6% |  | -9.7% |
+| 08:00 | KRW | Trade Balance (Nov) | 3.80B |  | 1.63B |
+| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Nov) | 50.0 |  | 49.8 |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.3 | 48.1 | 48.7 |
+| 08:30 | IDR | Nikkei Manufacturing PMI (Nov) | 51.7 |  | 51.5 |
 | 12:00 | NZD | M3 Money Supply (Oct) |  |  | 403.4B |
 | 12:00 | IDR | Core Inflation (YoY) |  | 1.97% | 1.91% |
-| 12:00 | IDR | Inflation (MoM) |  |  | 0.17% |
 | 12:00 | IDR | Inflation (YoY) |  | 2.71% | 2.56% |
+| 12:00 | IDR | Inflation (MoM) |  |  | 0.17% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Nov) |  |  | 55.5 |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
@@ -31,8 +31,8 @@
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
-| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
