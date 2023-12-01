@@ -7,8 +7,8 @@
 | 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 505 |  | 500 |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 625 |  | 622 |
 | 02:00 | BRL | Low | Trade Balance (Nov) | 8.78B | 9.00B | 8.96B |
-| 40 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 40 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 03:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -26.1K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.3K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -3.5K |
