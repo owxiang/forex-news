@@ -5,7 +5,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.300% |
 | 00:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:45 | USD | Dallas Fed PCE (Oct) | 2.70% |  | 4.10% |
-| 01:30 | BRL | Foreign Exchange Flows | 0.264B |  | -1.708B |
+| 01:30 | BRL | Foreign Exchange Flows | -2.924B |  | -3.188B |
 | 05:00 | MXN | Fiscal Balance (Oct) | -674.80B |  | -645.30B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.395T |  | 3.455T |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 | 47.7 | 48.2 |
@@ -20,12 +20,12 @@
 | 10:15 | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
 | 10:15 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
 | 10:15 | IDR | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
-| 40 min | INR | S&P Global India Manufacturing PMI (Nov) |  | 56.0 | 55.5 |
-| 13:30 | AUD | Commodity Prices (YoY) |  |  | -16.8% |
+| 13:00 | INR | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
+| 15 min | AUD | Commodity Prices (YoY) |  |  | -16.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q3) |  | 0.0% | -0.4% |
 | 17:00 | NOK | Manufacturing PMI (Nov) |  |  | 47.9 |
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
