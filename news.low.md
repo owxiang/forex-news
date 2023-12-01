@@ -24,18 +24,17 @@
 | 13:30 | AUD | Commodity Prices (YoY) | -10.5% |  | -15.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) | -177.7B |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) | 0.1% | 0.0% | -0.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | NOK | Manufacturing PMI (Nov) | 49.9 |  | 47.9 |
 | 17:00 | NOK | Unemployment Change (Nov) | 68.82K |  | 67.81K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) | 1.80% |  | 1.80% |
 | 17:00 | ZAR | Manufacturing PMI | 48.2 |  | 45.4 |
-| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
-| 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 42 min | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
+| 42 min | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
-| 19:30 | BRL | Foreign Exchange Flows |  |  | -1.708B |
 | 20:00 | BRL | Industrial Production (MoM) (Oct) |  | 0.3% | 0.1% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -2.00% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.45K |
