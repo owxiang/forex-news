@@ -2,8 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | USD | Total Vehicle Sales |  | 15.50M | 15.50M |
-| 02:00 | BRL | Trade Balance (Nov) |  | 9.00B | 8.96B |
+| 46 min | BRL | Trade Balance (Nov) |  | 9.00B | 8.96B |
 | 03:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.3K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -3.5K |
