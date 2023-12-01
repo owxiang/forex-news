@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 1.8% | 1.8% |
-| 46 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
-| 46 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |
-| 46 min | BRL | Low | Trade Balance (Nov) |  | 9.00B | 8.96B |
-| 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 03:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 1.2% | 1.8% | 1.8% |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 505 |  | 500 |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 625 |  | 622 |
+| 02:00 | BRL | Low | Trade Balance (Nov) | 8.78B | 9.00B | 8.96B |
+| 40 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 40 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -26.1K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.3K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -3.5K |

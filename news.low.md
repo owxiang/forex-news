@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | BRL | Trade Balance (Nov) |  | 9.00B | 8.96B |
-| 03:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 02:00 | BRL | Trade Balance (Nov) | 8.78B | 9.00B | 8.96B |
+| 40 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.3K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -3.5K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -124.0K |
