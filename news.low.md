@@ -18,14 +18,14 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.3 | 48.1 | 48.7 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Nov) | 51.7 |  | 51.5 |
 | 10:15 | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
-| 10:15 | IDR | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
 | 10:15 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
+| 10:15 | IDR | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
 | 13:30 | AUD | Commodity Prices (YoY) | -10.5% |  | -15.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) | -177.7B |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q3) | 0.1% | 0.0% | -0.4% |
+| 17:00 | EUR | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | NOK | Manufacturing PMI (Nov) | 49.9 |  | 47.9 |
 | 17:00 | NOK | Unemployment Change (Nov) | 68.82K |  | 67.81K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) | 1.80% |  | 1.80% |
@@ -43,10 +43,9 @@
 | 21:30 | CAD | Full Employment Change (Nov) | 59.6K |  | -3.3K |
 | 21:30 | CAD | Part Time Employment Change (Nov) | -34.7K |  | 20.8K |
 | 21:30 | CAD | Participation Rate (Nov) | 65.6% |  | 65.6% |
-| 15 min | USD | Dallas Fed PCE (Oct) |  |  | 4.00% |
-| 15 min | CAD | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
-| 45 min | USD | Construction Spending (MoM) (Oct) |  | 0.4% | 0.4% |
-| 45 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 45 min | USD | ISM Manufacturing New Orders Index (Nov) |  |  | 45.5 |
-| 45 min | MXN | S&P Global Mexico Manufacturing PMI (Nov) |  |  | 52.10 |
-| 23:30 | USD | Total Vehicle Sales |  | 15.50M | 15.50M |
+| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Nov) | 47.7 |  | 48.6 |
+| 23:00 | USD | Construction Spending (MoM) (Oct) | 0.6% | 0.4% | 0.2% |
+| 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | ISM Manufacturing New Orders Index (Nov) | 48.3 |  | 45.5 |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Nov) | 52.50 |  | 52.10 |
+| 13 min | USD | Total Vehicle Sales |  | 15.50M | 15.50M |

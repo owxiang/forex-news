@@ -24,5 +24,5 @@
 | 20:00 | BRL | Industrial Production (YoY) (Oct) | 1.2% | 1.3% | 0.6% |
 | 21:30 | CAD | Employment Change (Nov) | 24.9K | 15.0K | 17.5K |
 | 21:30 | CAD | Unemployment Rate (Nov) | 5.8% | 5.8% | 5.7% |
-| 30 min | USD | S&P Global US Manufacturing PMI (Nov) |  | 49.4 | 50.0 |
-| 45 min | USD | ISM Manufacturing Employment (Nov) |  |  | 46.8 |
+| 22:45 | USD | S&P Global US Manufacturing PMI (Nov) | 49.4 | 49.4 | 50.0 |
+| 23:00 | USD | ISM Manufacturing Employment (Nov) | 45.8 |  | 46.8 |

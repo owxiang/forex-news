@@ -23,8 +23,8 @@
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Nov) | 51.7 |  | 51.5 |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Nov) | 50.7 | 49.3 | 49.5 |
 | 10:15 | IDR | Low | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
-| 10:15 | IDR | Low | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
 | 10:15 | IDR | Low | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
+| 10:15 | IDR | Low | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -10.5% |  | -15.8% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Nov) | 0.2% | -0.4% | 0.9% |
@@ -38,8 +38,8 @@
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Nov) | 44.4 | 45.3 | 44.9 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Nov) | 42.9 | 42.6 | 42.8 |
 | 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Nov) | 42.6 | 42.3 | 40.8 |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q3) | 0.1% | 0.0% | -0.4% |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q3) | 0.1% | 0.0% | 0.3% |
 | 17:00 | NOK | Low | Manufacturing PMI (Nov) | 49.9 |  | 47.9 |
 | 17:00 | NOK | Low | Unemployment Change (Nov) | 68.82K |  | 67.81K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Nov) | 1.80% |  | 1.80% |
@@ -54,8 +54,8 @@
 | 19:30 | INR | Low | FX Reserves, USD | 597.94B |  | 595.40B |
 | 19:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:30 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Oct) | 0.1% | 0.3% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Oct) | 1.2% | 1.3% | 0.6% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Oct) | 0.1% | 0.3% | 0.1% |
 | Tentative | ZAR | Low | Total Vehicle Sales (Nov) | 43.28K |  | 45.45K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | -13.40% |  | -2.00% |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Nov) | 49.4 |  | 48.6 |
@@ -65,14 +65,13 @@
 | 21:30 | CAD | Low | Part Time Employment Change (Nov) | -34.7K |  | 20.8K |
 | 21:30 | CAD | Low | Participation Rate (Nov) | 65.6% |  | 65.6% |
 | 21:30 | CAD | Moderate | Unemployment Rate (Nov) | 5.8% | 5.8% | 5.7% |
-| 15 min | USD | Low | Dallas Fed PCE (Oct) |  |  | 4.00% |
-| 15 min | CAD | Low | S&P Global Canada Manufacturing PMI (Nov) |  |  | 48.6 |
-| 30 min | USD | Moderate | S&P Global US Manufacturing PMI (Nov) |  | 49.4 | 50.0 |
-| 45 min | USD | Low | Construction Spending (MoM) (Oct) |  | 0.4% | 0.4% |
-| 45 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 45 min | USD | Moderate | ISM Manufacturing Employment (Nov) |  |  | 46.8 |
-| 45 min | USD | Low | ISM Manufacturing New Orders Index (Nov) |  |  | 45.5 |
-| 45 min | USD | High | ISM Manufacturing PMI (Nov) |  | 47.6 | 46.7 |
-| 45 min | USD | High | ISM Manufacturing Prices (Nov) |  | 46.2 | 45.1 |
-| 45 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Nov) |  |  | 52.10 |
-| 23:30 | USD | Low | Total Vehicle Sales |  | 15.50M | 15.50M |
+| 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Nov) | 47.7 |  | 48.6 |
+| 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Nov) | 49.4 | 49.4 | 50.0 |
+| 23:00 | USD | Low | Construction Spending (MoM) (Oct) | 0.6% | 0.4% | 0.2% |
+| 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | Moderate | ISM Manufacturing Employment (Nov) | 45.8 |  | 46.8 |
+| 23:00 | USD | Low | ISM Manufacturing New Orders Index (Nov) | 48.3 |  | 45.5 |
+| 23:00 | USD | High | ISM Manufacturing PMI (Nov) | 46.7 | 47.6 | 46.7 |
+| 23:00 | USD | High | ISM Manufacturing Prices (Nov) | 49.9 | 46.2 | 45.1 |
+| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Nov) | 52.50 |  | 52.10 |
+| 13 min | USD | Low | Total Vehicle Sales |  | 15.50M | 15.50M |
