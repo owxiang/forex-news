@@ -18,10 +18,10 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Nov) | 48.3 | 48.1 | 48.7 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Nov) | 51.7 |  | 51.5 |
 | 10:15 | IDR | Core Inflation (YoY) | 1.87% | 1.97% | 1.91% |
-| 10:15 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
 | 10:15 | IDR | Inflation (MoM) | 0.38% | 0.22% | 0.17% |
+| 10:15 | IDR | Inflation (YoY) | 2.86% | 2.71% | 2.56% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Nov) | 56.0 | 56.0 | 55.5 |
-| 15 min | AUD | Commodity Prices (YoY) |  |  | -16.8% |
+| 13:30 | AUD | Commodity Prices (YoY) | -10.5% |  | -15.8% |
 | 15:45 | EUR | French Government Budget Balance (Oct) |  |  | -186.1B |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | EUR | Italian GDP (YoY) (Q3) |  | 0.0% | 0.3% |
@@ -30,8 +30,8 @@
 | 17:00 | NOK | Unemployment Change (Nov) |  |  | 67.78K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Nov) |  |  | 1.80% |
 | 17:00 | ZAR | Manufacturing PMI |  |  | 45.4 |
-| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:00 | EUR | Car Registration (YoY) (Nov) |  |  | 18.10% |
+| 19:00 | EUR | Car Registration (MoM) (Nov) |  |  | 13.20% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 19:30 | INR | Deposit Growth |  |  | 13.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 595.40B |
@@ -50,3 +50,4 @@
 | 23:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | ISM Manufacturing New Orders Index (Nov) |  |  | 45.5 |
 | 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Nov) |  |  | 52.10 |
+| 23:30 | USD | Total Vehicle Sales |  | 15.50M | 15.50M |
