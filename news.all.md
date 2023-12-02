@@ -19,16 +19,16 @@
 | 15:00 | EUR | Low | German Exports (MoM) (Oct) |  |  | -2.4% |
 | 15:00 | EUR | Low | German Imports (MoM) (Oct) |  |  | -1.7% |
 | 15:00 | EUR | Moderate | German Trade Balance (Oct) |  |  | 16.5B |
-| 15:30 | CHF | Moderate | CPI (MoM) (Nov) |  |  | 0.1% |
 | 15:30 | CHF | Low | CPI (YoY) (Nov) |  |  | 1.7% |
+| 15:30 | CHF | Moderate | CPI (MoM) (Nov) |  |  | 0.1% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | 36.9K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
 | 17:30 | EUR | Low | Sentix Investor Confidence (Dec) |  |  | -18.6 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Oct) |  |  | -1.38B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.785% |
