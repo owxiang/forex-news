@@ -15,4 +15,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 65.5K |  | 58.9K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -20.3K |  | -19.0K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -19.6K |  | -16.9K |
-| 21:00 | SGD | S&P Global Singapore PMI (Nov) |  |  | 50.2 |
+| 32 min | SGD | S&P Global Singapore PMI (Nov) |  |  | 50.2 |
