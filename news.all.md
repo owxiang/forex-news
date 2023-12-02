@@ -1,32 +1,40 @@
-## 02 December 2023 - All Forex News
+## 04 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 1.2% | 1.8% | 1.8% |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 505 |  | 500 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 625 |  | 622 |
-| 02:00 | BRL | Low | Trade Balance (Nov) | 8.78B | 9.00B | 8.96B |
-| 03:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 03:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | -7.9K |  | -26.1K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 6.3K |  | 6.3K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -3.9K |  | -3.5K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -157.1K |  | -124.0K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 183.2K |  | 207.3K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 200.1K |  | 171.7K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 7.3K |  | 5.0K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -107.9K |  | -120.3K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -65.0K |  | -80.1K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 34.3K |  | 27.5K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 50.7K |  | 73.8K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -97.2K |  | -77.5K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -63.2K |  | -65.4K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 65.5K |  | 58.9K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -20.3K |  | -19.0K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -71.2K |  | -78.0K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 32.9K |  | 33.9K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -109.2K |  | -105.5K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | -19.6K |  | -16.9K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 143.2K |  | 129.7K |
-| 21:00 | SGD | Low | S&P Global Singapore PMI (Nov) | 50.3 |  | 50.2 |
+| 05:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) |  |  | -0.6% |
+| 05:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | 6.8% |
+| 05:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) |  |  | -1.0% |
+| 05:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  |  | 0.4% |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Nov) |  |  | 9.5% |
+| 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | -0.1% |
+| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -3.0% |
+| 08:30 | AUD | Low | Business inventories (MoM) (Q3) |  | -0.5% | -1.9% |
+| 08:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) |  | -0.5% | -13.1% |
+| 08:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) |  |  | -14.6% |
+| 08:30 | AUD | Moderate | Home Loans (MoM) |  |  | -0.1% |
+| 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 08:30 | AUD | Moderate | Retail Sales (MoM) |  | -0.2% | 0.9% |
+| 12:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 15:00 | EUR | Low | German Exports (MoM) (Oct) |  |  | -2.4% |
+| 15:00 | EUR | Low | German Imports (MoM) (Oct) |  |  | -1.7% |
+| 15:00 | EUR | Moderate | German Trade Balance (Oct) |  |  | 16.5B |
+| 15:30 | CHF | Moderate | CPI (MoM) (Nov) |  |  | 0.1% |
+| 15:30 | CHF | Low | CPI (YoY) (Nov) |  |  | 1.7% |
+| 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | 36.9K |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
+| 17:30 | EUR | Low | Sentix Investor Confidence (Dec) |  |  | -18.6 |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 19:30 | BRL | Low | Current Account (USD) (Oct) |  |  | -1.38B |
+| 19:30 | BRL | Low | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
+| 20:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
+| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.785% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.776% |
+| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | -6.7% |
+| 23:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.4% |
+| 23:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  |  | 2.8% |
+| 23:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.8% |

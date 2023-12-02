@@ -1,16 +1,14 @@
-## 02 December 2023 - Moderate Impact Forex News
+## 04 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | Atlanta Fed GDPNow (Q4) | 1.2% | 1.8% | 1.8% |
-| 02:00 | USD | U.S. Baker Hughes Oil Rig Count | 505 |  | 500 |
-| 02:00 | USD | U.S. Baker Hughes Total Rig Count | 625 |  | 622 |
-| 04:30 | GBP | CFTC GBP speculative net positions | -7.9K |  | -26.1K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 183.2K |  | 207.3K |
-| 04:30 | USD | CFTC Gold speculative net positions | 200.1K |  | 171.7K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | 7.3K |  | 5.0K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | -65.0K |  | -80.1K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -71.2K |  | -78.0K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 32.9K |  | 33.9K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -109.2K |  | -105.5K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 143.2K |  | 129.7K |
+| 08:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) |  | -0.5% | -13.1% |
+| 08:30 | AUD | Home Loans (MoM) |  |  | -0.1% |
+| 08:30 | AUD | Retail Sales (MoM) |  | -0.2% | 0.9% |
+| 12:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 15:00 | EUR | German Trade Balance (Oct) |  |  | 16.5B |
+| 15:30 | CHF | CPI (MoM) (Nov) |  |  | 0.1% |
+| 16:00 | EUR | Spanish Unemployment Change |  |  | 36.9K |
+| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
+| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 23:00 | USD | Factory Orders (MoM) (Oct) |  |  | 2.8% |
