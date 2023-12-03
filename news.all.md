@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 32 min | NZD | Low | Terms of Trade - Exports Prices (Q3) |  |  | -0.6% |
-| 32 min | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) |  |  | 6.8% |
-| 32 min | NZD | Low | Terms of Trade - Imports Prices (Q3) |  |  | -1.0% |
-| 32 min | NZD | Low | Terms of Trade Index (QoQ) (Q3) |  |  | 0.4% |
+| 05:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) | -1.4% |  | -0.6% |
+| 05:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) | -5.5% |  | 6.8% |
+| 05:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) | -0.8% |  | -1.0% |
+| 05:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) | -0.6% |  | 0.3% |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Nov) |  |  | 9.5% |
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | -0.1% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -3.0% |
@@ -31,8 +31,8 @@
 | 19:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Oct) |  | -0.40B | -1.38B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
 | 21:35 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
