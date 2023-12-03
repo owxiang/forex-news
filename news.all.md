@@ -20,8 +20,8 @@
 | 15:00 | EUR | Low | German Exports (MoM) (Oct) |  | 1.1% | -2.4% |
 | 15:00 | EUR | Low | German Imports (MoM) (Oct) |  | 0.8% | -1.7% |
 | 15:00 | EUR | Moderate | German Trade Balance (Oct) |  | 17.1B | 16.5B |
-| 15:30 | CHF | Low | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | 0.1% |
+| 15:30 | CHF | Low | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  | 28.1K | 36.9K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
 | 16:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
