@@ -6,8 +6,8 @@
 | 05:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) | -5.5% |  | 6.8% |
 | 05:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) | -0.8% |  | -1.0% |
 | 05:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) | -0.6% |  | 0.3% |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Nov) |  |  | 9.5% |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | -0.1% |
+| 35 min | JPY | Low | Monetary Base (YoY) (Nov) |  |  | 9.5% |
+| 45 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | -0.1% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -3.0% |
 | 08:30 | AUD | Low | Business inventories (MoM) (Q3) |  | -0.6% | -1.9% |
 | 08:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) |  | -0.5% | -13.1% |
@@ -20,8 +20,8 @@
 | 15:00 | EUR | Low | German Exports (MoM) (Oct) |  | 1.1% | -2.4% |
 | 15:00 | EUR | Low | German Imports (MoM) (Oct) |  | 0.8% | -1.7% |
 | 15:00 | EUR | Moderate | German Trade Balance (Oct) |  | 17.1B | 16.5B |
-| 15:30 | CHF | Low | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Nov) |  | -0.1% | 0.1% |
+| 15:30 | CHF | Low | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  | 28.1K | 36.9K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
 | 16:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
