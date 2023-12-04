@@ -24,15 +24,15 @@
 | 15:30 | CHF | Low | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change | -24.6K | 28.1K | 36.9K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
-| 24 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:30 | EUR | Low | Sentix Investor Confidence (Dec) |  | -15.0 | -18.6 |
+| 16:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 13 min | EUR | Low | Sentix Investor Confidence (Dec) |  | -15.0 | -18.6 |
 | 19:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Oct) |  | -0.40B | -1.38B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
 | 20:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
 | 21:35 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
