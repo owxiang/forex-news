@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.280% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.190% |  | 5.240% |
-| 43 min | KRW | Low | FX Reserves - USD (Nov) |  |  | 412.87B |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
+| 05:00 | KRW | Low | FX Reserves - USD (Nov) | 417.08B |  | 412.87B |
+| 47 min | AUD | Low | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
 | 07:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
 | 07:00 | KRW | Low | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
 | 07:00 | KRW | Low | GDP (YoY) (Q3) |  |  | 1.4% |
@@ -42,18 +42,18 @@
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.2 | 47.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
-| 17:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 1.6% |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.6% |
+| 17:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 1.6% |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.606% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.709% |
 | 18:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | -0.50% |
-| 18:00 | EUR | Low | PPI (YoY) (Oct) |  | -9.4% | -12.4% |
 | 18:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
+| 18:00 | EUR | Low | PPI (YoY) (Oct) |  | -9.4% | -12.4% |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
 | 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |

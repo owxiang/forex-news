@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.280% |
 | 00:30 | USD | 6-Month Bill Auction | 5.190% |  | 5.240% |
-| 43 min | KRW | FX Reserves - USD (Nov) |  |  | 412.87B |
-| 06:00 | AUD | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
+| 05:00 | KRW | FX Reserves - USD (Nov) | 417.08B |  | 412.87B |
+| 47 min | AUD | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
 | 07:00 | KRW | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
 | 07:00 | KRW | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
 | 07:00 | KRW | GDP (YoY) (Q3) |  |  | 1.4% |
@@ -29,8 +29,8 @@
 | 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.606% |
 | 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.709% |
 | 18:00 | NOK | House Price Index (YoY) (Nov) |  |  | -0.50% |
-| 18:00 | EUR | PPI (YoY) (Oct) |  | -9.4% | -12.4% |
 | 18:00 | EUR | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
+| 18:00 | EUR | PPI (YoY) (Oct) |  | -9.4% | -12.4% |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.060% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Bank lending (MoM) (Oct) |  |  | 0.8% |
