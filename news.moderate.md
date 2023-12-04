@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) |  | -0.5% | -13.1% |
-| 08:30 | AUD | Home Loans (MoM) |  | 0.8% | -0.1% |
-| 08:30 | AUD | Retail Sales (MoM) |  | -0.2% | 0.9% |
+| 08:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | -1.3% | -0.5% | -13.1% |
+| 08:30 | AUD | Home Loans (MoM) | 5.6% | 0.8% | -0.1% |
+| 10:30 | AUD | Retail Sales (MoM) |  | -0.2% | 0.9% |
 | 12:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 15:00 | EUR | German Trade Balance (Oct) |  | 17.1B | 16.5B |
