@@ -20,13 +20,13 @@
 | 15:00 | EUR | Low | German Exports (MoM) (Oct) | -0.2% | 1.1% | -2.5% |
 | 15:00 | EUR | Low | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
 | 15:00 | EUR | Moderate | German Trade Balance (Oct) | 17.8B | 17.1B | 16.7B |
-| 15:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
 | 15:30 | CHF | Low | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
+| 15:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change | -24.6K | 28.1K | 36.9K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
 | 16:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 13 min | EUR | Low | Sentix Investor Confidence (Dec) |  | -15.0 | -18.6 |
-| 19:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 17:30 | EUR | Low | Sentix Investor Confidence (Dec) | -16.8 | -15.0 | -18.6 |
+| 51 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Oct) |  | -0.40B | -1.38B |

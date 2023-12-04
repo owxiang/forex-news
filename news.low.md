@@ -15,7 +15,7 @@
 | 15:00 | EUR | German Exports (MoM) (Oct) | -0.2% | 1.1% | -2.5% |
 | 15:00 | EUR | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
 | 15:30 | CHF | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
-| 13 min | EUR | Sentix Investor Confidence (Dec) |  | -15.0 | -18.6 |
+| 17:30 | EUR | Sentix Investor Confidence (Dec) | -16.8 | -15.0 | -18.6 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Oct) |  | -0.40B | -1.38B |
