@@ -6,14 +6,14 @@
 | 00:30 | USD | 6-Month Bill Auction | 5.190% |  | 5.240% |
 | 05:00 | KRW | FX Reserves - USD (Nov) | 417.08B |  | 412.87B |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 46.0 | 46.3 | 47.9 |
-| 45 min | KRW | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
-| 45 min | KRW | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
-| 45 min | KRW | GDP (YoY) (Q3) |  |  | 1.4% |
-| 45 min | KRW | GDP (QoQ) (Q3) |  | 0.6% | 0.6% |
-| 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
-| 07:30 | JPY | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
-| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.4% |
-| 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.9% |
+| 07:00 | KRW | CPI (MoM) (Nov) | -0.6% | -0.2% | 0.3% |
+| 07:00 | KRW | CPI (YoY) (Nov) | 3.3% | 3.7% | 3.8% |
+| 07:00 | KRW | GDP (YoY) (Q3) | 1.4% |  | 0.9% |
+| 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.6% |
+| 14 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
+| 14 min | JPY | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
+| 14 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.4% |
+| 44 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.9% |
 | 08:30 | AUD | Net Exports Contribution (Q3) |  | -0.3% | 0.8% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Nov) |  |  | 48.9 |
 | 13:00 | INR | S&P Global India Services PMI (Nov) |  | 58.0 | 58.4 |
@@ -29,8 +29,8 @@
 | 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.606% |
 | 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.709% |
 | 18:00 | NOK | House Price Index (YoY) (Nov) |  |  | -0.50% |
-| 18:00 | EUR | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
 | 18:00 | EUR | PPI (YoY) (Oct) |  | -9.4% | -12.4% |
+| 18:00 | EUR | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.060% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Bank lending (MoM) (Oct) |  |  | 0.8% |

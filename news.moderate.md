@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.4% | 2.7% |
-| 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) |  | 2.5% | 2.6% |
+| 14 min | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.4% | 2.7% |
+| 45 min | GBP | BRC Retail Sales Monitor (YoY) (Nov) |  | 2.5% | 2.6% |
 | 08:30 | AUD | Current Account (Q3) |  | 3.0B | 7.7B |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Nov) |  | 51.7 | 51.6 |
 | 09:45 | CNY | Caixin Services PMI (Nov) |  | 50.7 | 50.4 |
@@ -19,8 +19,8 @@
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
 | 17:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.6% |
-| 20:00 | BRL | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 20:00 | BRL | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
+| 20:00 | BRL | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 21:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 22:45 | USD | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
 | 23:00 | USD | ISM Non-Manufacturing Employment (Nov) |  |  | 50.2 |
