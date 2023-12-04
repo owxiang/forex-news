@@ -21,13 +21,11 @@
 | 19:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Oct) | -0.23B | -0.40B | -1.09B |
 | 19:30 | BRL | Foreign direct investment (USD) (Oct) | 3.31B | 4.60B | 3.75B |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Sep) | -1.50% |  | 2.20% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Sep) | 21.90% |  | 29.20% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Sep) | -1.50% |  | 2.20% |
 | 21:55 | EUR | French 12-Month BTF Auction | 3.393% |  | 3.659% |
 | 21:55 | EUR | French 3-Month BTF Auction | 3.766% |  | 3.785% |
 | 21:55 | EUR | French 6-Month BTF Auction | 3.739% |  | 3.776% |
-| 15 min | EUR | German Car Registration (YoY) |  |  | 4.9% |
-| 45 min | USD | Durables Excluding Defense (MoM) (Oct) |  |  | -6.7% |
-| 45 min | USD | Durables Excluding Transport (MoM) (Oct) |  |  | 0.4% |
-| 45 min | USD | Factory orders ex transportation (MoM) (Oct) |  |  | 0.8% |
-| 45 min | USD | Total Vehicle Sales |  | 15.50M | 15.50M |
+| 23:00 | USD | Durables Excluding Defense (MoM) (Oct) | -6.7% |  | -6.7% |
+| 23:00 | USD | Durables Excluding Transport (MoM) (Oct) | 0.0% |  | 0.4% |
+| 23:00 | USD | Factory orders ex transportation (MoM) (Oct) | -1.2% |  | 0.4% |

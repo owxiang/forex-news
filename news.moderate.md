@@ -15,5 +15,5 @@
 | 19:10 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:35 | EUR | ECB's Elderson Speaks |  |  |  |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 45 min | USD | Factory Orders (MoM) (Oct) |  | -2.6% | 2.8% |
+| 22:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 23:00 | USD | Factory Orders (MoM) (Oct) | -3.6% | -2.6% | 2.3% |
