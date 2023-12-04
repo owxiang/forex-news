@@ -14,7 +14,7 @@
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 15:00 | EUR | German Exports (MoM) (Oct) | -0.2% | 1.1% | -2.5% |
 | 15:00 | EUR | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
-| 15 min | CHF | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
+| 15:30 | CHF | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
 | 17:30 | EUR | Sentix Investor Confidence (Dec) |  | -15.0 | -18.6 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
