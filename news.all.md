@@ -52,8 +52,8 @@
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
 | 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
