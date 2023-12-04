@@ -21,8 +21,8 @@
 | 15:00 | EUR | Low | German Exports (MoM) (Oct) | -0.2% | 1.1% | -2.5% |
 | 15:00 | EUR | Low | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
 | 15:00 | EUR | Moderate | German Trade Balance (Oct) | 17.8B | 17.1B | 16.7B |
-| 15:30 | CHF | Low | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
+| 15:30 | CHF | Low | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change | -24.6K | 28.1K | 36.9K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
 | 16:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -32,16 +32,17 @@
 | 19:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Oct) | -0.23B | -0.40B | -1.09B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 3.31B | 4.60B | 3.75B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) | 21.90% |  | 32.00% |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) | -1.50% |  | 3.10% |
-| 20:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
-| 21:35 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.785% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.776% |
-| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) | 21.90% |  | 29.20% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) | -1.50% |  | 2.20% |
+| 15 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.659% |
+| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.785% |
+| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.776% |
+| 40 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 22:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
 | 22:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 23:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) |  |  | -6.7% |
 | 23:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) |  |  | 0.4% |
 | 23:00 | USD | Moderate | Factory Orders (MoM) (Oct) |  | -2.6% | 2.8% |
 | 23:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) |  |  | 0.8% |
+| 23:00 | USD | Low | Total Vehicle Sales |  | 15.50M | 15.50M |
