@@ -1,46 +1,73 @@
-## 04 December 2023 - All Forex News
+## 05 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) | -1.4% |  | -0.6% |
-| 05:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) | -5.5% |  | 6.8% |
-| 05:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) | -0.8% |  | -1.0% |
-| 05:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) | -0.6% | -2.1% | 0.3% |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Nov) | 9.1% | 8.9% | 9.5% |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | -0.1% |
-| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -4.6% |  | -3.4% |
-| 08:30 | AUD | Low | Business inventories (MoM) (Q3) | 1.2% | -0.6% | -1.3% |
-| 08:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | -1.3% | -0.3% | -12.1% |
-| 08:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) | 1.6% |  | -14.5% |
-| 08:30 | AUD | Moderate | Home Loans (MoM) | 5.6% | 0.8% | -0.1% |
-| 08:30 | AUD | Low | Invest Housing Finance (MoM) | 5.0% |  | 2.8% |
-| 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 09:00 | AUD | Moderate | Retail Sales (MoM) | -0.2% | -0.2% | 0.9% |
-| 12:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 13:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15:00 | EUR | Low | German Exports (MoM) (Oct) | -0.2% | 1.1% | -2.5% |
-| 15:00 | EUR | Low | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
-| 15:00 | EUR | Moderate | German Trade Balance (Oct) | 17.8B | 17.1B | 16.7B |
-| 15:30 | CHF | Moderate | CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
-| 15:30 | CHF | Low | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
-| 16:00 | EUR | Moderate | Spanish Unemployment Change | -24.6K | 28.1K | 36.9K |
-| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
-| 16:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:30 | EUR | Low | Sentix Investor Confidence (Dec) | -16.8 | -15.0 | -18.6 |
-| 19:10 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:30 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 19:30 | BRL | Low | Current Account (USD) (Oct) | -0.23B | -0.40B | -1.09B |
-| 19:30 | BRL | Low | Foreign direct investment (USD) (Oct) | 3.31B | 4.60B | 3.75B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Sep) | 21.90% |  | 29.20% |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Sep) | -1.50% |  | 2.20% |
-| 21:35 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.393% |  | 3.659% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.766% |  | 3.785% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.739% |  | 3.776% |
-| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 23:00 | USD | Low | Durables Excluding Defense (MoM) (Oct) | -6.7% |  | -6.7% |
-| 23:00 | USD | Low | Durables Excluding Transport (MoM) (Oct) | 0.0% |  | 0.4% |
-| 23:00 | USD | Moderate | Factory Orders (MoM) (Oct) | -3.6% | -2.6% | 2.3% |
-| 23:00 | USD | Low | Factory orders ex transportation (MoM) (Oct) | -1.2% |  | 0.4% |
+| 8 min | USD | Low | 3-Month Bill Auction |  |  | 5.280% |
+| 8 min | USD | Low | 6-Month Bill Auction |  |  | 5.240% |
+| 05:00 | KRW | Low | FX Reserves - USD (Nov) |  |  | 412.87B |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
+| 07:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
+| 07:00 | KRW | Low | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
+| 07:00 | KRW | Low | GDP (YoY) (Q3) |  |  | 1.4% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.6% | 0.6% |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
+| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) |  | 2.4% | 2.7% |
+| 07:30 | JPY | Low | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.4% |
+| 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.9% |
+| 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Nov) |  | 2.5% | 2.6% |
+| 08:30 | AUD | Moderate | Current Account (Q3) |  | 3.0B | 7.7B |
+| 08:30 | AUD | Low | Net Exports Contribution (Q3) |  | -0.3% | 0.8% |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) |  | 51.7 | 51.6 |
+| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Nov) |  |  | 48.9 |
+| 09:45 | CNY | Moderate | Caixin Services PMI (Nov) |  | 50.7 | 50.4 |
+| 09:45 | CNY | Moderate | Chinese Composite PMI |  |  | 50.4 |
+| 11:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
+| 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.910% |
+| 13:00 | INR | Low | S&P Global India Services PMI (Nov) |  | 58.0 | 58.4 |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 0.6% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Oct) |  |  | -1.6% |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 48.9 |
+| 15:45 | EUR | Low | French Industrial Production (MoM) (Oct) |  | 0.2% | -0.5% |
+| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  |  | -1.4% |
+| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 51.5 | 51.1 |
+| 16:45 | EUR | Low | HCOB Italy Composite PMI (Nov) |  |  | 47.0 |
+| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 48.2 | 47.7 |
+| 16:50 | EUR | Low | HCOB France Composite PMI (Nov) |  | 44.5 | 44.6 |
+| 16:50 | EUR | Moderate | HCOB France Services PMI (Nov) |  | 45.3 | 45.2 |
+| 16:55 | EUR | Low | HCOB Germany Composite PMI (Nov) |  | 47.1 | 45.9 |
+| 16:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) |  | 48.7 | 48.2 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) |  | 47.1 | 46.5 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.2 | 47.8 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.6% |
+| 17:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 1.6% |
+| 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.606% |
+| 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.709% |
+| 18:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | -0.50% |
+| 18:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
+| 18:00 | EUR | Low | PPI (YoY) (Oct) |  | -9.4% | -12.4% |
+| 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
+| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
+| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
+| 20:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
+| 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
+| 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
+| 21:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 112.5B |
+| 21:20 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 21:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 22:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
+| 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
+| 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.8 | 50.6 |
+| 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
+| 23:00 | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
+| 23:00 | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  |  | 50.2 |
+| 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  |  | 55.5 |
+| 23:00 | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 52.0 | 51.8 |
+| 23:00 | USD | High | ISM Non-Manufacturing Prices (Nov) |  |  | 58.6 |
+| 23:00 | USD | High | JOLTs Job Openings (Oct) |  | 9.350M | 9.553M |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |

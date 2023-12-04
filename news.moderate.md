@@ -1,19 +1,26 @@
-## 04 December 2023 - Moderate Impact Forex News
+## 05 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | Company Gross Operating Profits (QoQ) (Q3) | -1.3% | -0.3% | -12.1% |
-| 08:30 | AUD | Home Loans (MoM) | 5.6% | 0.8% | -0.1% |
-| 09:00 | AUD | Retail Sales (MoM) | -0.2% | -0.2% | 0.9% |
-| 12:30 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 13:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 15:00 | EUR | German Trade Balance (Oct) | 17.8B | 17.1B | 16.7B |
-| 15:30 | CHF | CPI (MoM) (Nov) | -0.2% | -0.1% | 0.1% |
-| 16:00 | EUR | Spanish Unemployment Change | -24.6K | 28.1K | 36.9K |
-| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
-| 16:45 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 19:10 | EUR | ECB's Elderson Speaks |  |  |  |
-| 21:35 | EUR | ECB's Elderson Speaks |  |  |  |
-| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 23:00 | USD | Factory Orders (MoM) (Oct) | -3.6% | -2.6% | 2.3% |
+| 07:30 | JPY | Tokyo Core CPI (YoY) (Nov) |  | 2.4% | 2.7% |
+| 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) |  | 2.5% | 2.6% |
+| 08:30 | AUD | Current Account (Q3) |  | 3.0B | 7.7B |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI (Nov) |  | 51.7 | 51.6 |
+| 09:45 | CNY | Caixin Services PMI (Nov) |  | 50.7 | 50.4 |
+| 09:45 | CNY | Chinese Composite PMI |  |  | 50.4 |
+| 11:30 | AUD | RBA Rate Statement |  |  |  |
+| 11:35 | JPY | 10-Year JGB Auction |  |  | 0.910% |
+| 16:15 | EUR | HCOB Spain Services PMI (Nov) |  | 51.5 | 51.1 |
+| 16:45 | EUR | HCOB Italy Services PMI (Nov) |  | 48.2 | 47.7 |
+| 16:50 | EUR | HCOB France Services PMI (Nov) |  | 45.3 | 45.2 |
+| 16:55 | EUR | HCOB Germany Services PMI (Nov) |  | 48.7 | 48.2 |
+| 17:00 | EUR | HCOB Eurozone Composite PMI (Nov) |  | 47.1 | 46.5 |
+| 17:00 | EUR | HCOB Eurozone Services PMI (Nov) |  | 48.2 | 47.8 |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
+| 17:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.6% |
+| 20:00 | BRL | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
+| 21:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 22:45 | USD | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
+| 23:00 | USD | ISM Non-Manufacturing Employment (Nov) |  |  | 50.2 |
