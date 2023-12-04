@@ -16,12 +16,12 @@
 | 15:00 | EUR | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
 | 15:30 | CHF | CPI (YoY) (Nov) | 1.4% | 1.7% | 1.7% |
 | 17:30 | EUR | Sentix Investor Confidence (Dec) | -16.8 | -15.0 | -18.6 |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 19:30 | BRL | Current Account (USD) (Oct) |  | -0.40B | -1.38B |
-| 19:30 | BRL | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
+| 11 min | BRL | BCB Focus Market Readout |  |  |  |
+| 16 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 16 min | BRL | Current Account (USD) (Oct) |  | -0.40B | -1.38B |
+| 16 min | BRL | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
+| 46 min | MXN | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
+| 46 min | MXN | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:30 | EUR | German Car Registration (YoY) |  |  | 4.9% |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.659% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.785% |

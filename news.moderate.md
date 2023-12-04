@@ -12,7 +12,7 @@
 | 16:00 | EUR | Spanish Unemployment Change | -24.6K | 28.1K | 36.9K |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
 | 16:45 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 51 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 19:10 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:35 | EUR | ECB's Elderson Speaks |  |  |  |
 | 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 22:30 | EUR | ECB's Elderson Speaks |  |  |  |
