@@ -20,8 +20,8 @@
 | 19:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Oct) |  | -0.40B | -1.38B |
 | 19:30 | BRL | Foreign direct investment (USD) (Oct) |  |  | 3.75B |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Sep) |  |  | 3.10% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Sep) |  |  | 32.00% |
 | 20:30 | EUR | German Car Registration (YoY) |  |  | 4.9% |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.659% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.785% |
