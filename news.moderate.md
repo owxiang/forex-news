@@ -7,10 +7,10 @@
 | 09:00 | AUD | Retail Sales (MoM) | -0.2% | -0.2% | 0.9% |
 | 12:30 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 38 min | EUR | German Trade Balance (Oct) |  | 17.1B | 16.5B |
-| 15:30 | CHF | CPI (MoM) (Nov) |  | -0.1% | 0.1% |
-| 16:00 | EUR | Spanish Unemployment Change |  | 28.1K | 36.9K |
-| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
+| 15:00 | EUR | German Trade Balance (Oct) | 17.8B | 17.1B | 16.7B |
+| 15 min | CHF | CPI (MoM) (Nov) |  | -0.1% | 0.1% |
+| 45 min | EUR | Spanish Unemployment Change |  | 28.1K | 36.9K |
+| 45 min | BRL | IPC-Fipe Inflation Index (MoM) (Nov) |  |  | 0.30% |
 | 16:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 19:10 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:35 | EUR | ECB's Elderson Speaks |  |  |  |

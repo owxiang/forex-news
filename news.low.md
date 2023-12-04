@@ -12,9 +12,9 @@
 | 08:30 | AUD | Business inventories (MoM) (Q3) | 1.2% | -0.6% | -1.3% |
 | 08:30 | AUD | Company Profits Pre-Tax (QoQ) (Q3) | 1.6% |  | -14.5% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 38 min | EUR | German Exports (MoM) (Oct) |  | 1.1% | -2.4% |
-| 38 min | EUR | German Imports (MoM) (Oct) |  | 0.8% | -1.7% |
-| 15:30 | CHF | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
+| 15:00 | EUR | German Exports (MoM) (Oct) | -0.2% | 1.1% | -2.5% |
+| 15:00 | EUR | German Imports (MoM) (Oct) | -1.2% | 0.8% | -1.9% |
+| 15 min | CHF | CPI (YoY) (Nov) |  | 1.7% | 1.7% |
 | 17:30 | EUR | Sentix Investor Confidence (Dec) |  | -15.0 | -18.6 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
