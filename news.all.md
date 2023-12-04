@@ -5,11 +5,11 @@
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.280% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.190% |  | 5.240% |
 | 05:00 | KRW | Low | FX Reserves - USD (Nov) | 417.08B |  | 412.87B |
-| 47 min | AUD | Low | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
-| 07:00 | KRW | Low | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
-| 07:00 | KRW | Low | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
-| 07:00 | KRW | Low | GDP (YoY) (Q3) |  |  | 1.4% |
-| 07:00 | KRW | Low | GDP (QoQ) (Q3) |  | 0.6% | 0.6% |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 46.0 | 46.3 | 47.9 |
+| 45 min | KRW | Low | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
+| 45 min | KRW | Low | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
+| 45 min | KRW | Low | GDP (YoY) (Q3) |  |  | 1.4% |
+| 45 min | KRW | Low | GDP (QoQ) (Q3) |  | 0.6% | 0.6% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) |  | 2.4% | 2.7% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
@@ -42,8 +42,8 @@
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.2 | 47.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
-| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.6% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q3) |  |  | 1.6% |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.6% |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.606% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.709% |
 | 18:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | -0.50% |

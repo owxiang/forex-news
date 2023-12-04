@@ -5,11 +5,11 @@
 | 00:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.280% |
 | 00:30 | USD | 6-Month Bill Auction | 5.190% |  | 5.240% |
 | 05:00 | KRW | FX Reserves - USD (Nov) | 417.08B |  | 412.87B |
-| 47 min | AUD | Judo Bank Australia Services PMI |  | 46.3 | 47.9 |
-| 07:00 | KRW | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
-| 07:00 | KRW | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
-| 07:00 | KRW | GDP (YoY) (Q3) |  |  | 1.4% |
-| 07:00 | KRW | GDP (QoQ) (Q3) |  | 0.6% | 0.6% |
+| 06:00 | AUD | Judo Bank Australia Services PMI | 46.0 | 46.3 | 47.9 |
+| 45 min | KRW | CPI (MoM) (Nov) |  | -0.2% | 0.3% |
+| 45 min | KRW | CPI (YoY) (Nov) |  | 3.7% | 3.8% |
+| 45 min | KRW | GDP (YoY) (Q3) |  |  | 1.4% |
+| 45 min | KRW | GDP (QoQ) (Q3) |  | 0.6% | 0.6% |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
 | 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.4% |
