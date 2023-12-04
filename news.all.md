@@ -10,7 +10,7 @@
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | -0.1% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -4.6% |  | -3.4% |
 | 08:30 | AUD | Low | Business inventories (MoM) (Q3) | 1.2% | -0.6% | -1.3% |
-| 08:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | -1.3% | -0.5% | -13.1% |
+| 08:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q3) | -1.3% | -0.5% | -12.1% |
 | 08:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q3) | 1.6% |  | -14.5% |
 | 08:30 | AUD | Moderate | Home Loans (MoM) | 5.6% | 0.8% | -0.1% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
