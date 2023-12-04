@@ -5,8 +5,8 @@
 | 05:45 | NZD | Low | Terms of Trade - Exports Prices (Q3) | -1.4% |  | -0.6% |
 | 05:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q3) | -5.5% |  | 6.8% |
 | 05:45 | NZD | Low | Terms of Trade - Imports Prices (Q3) | -0.8% |  | -1.0% |
-| 05:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) | -0.6% |  | 0.3% |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Nov) | 9.1% |  | 9.5% |
+| 05:45 | NZD | Low | Terms of Trade Index (QoQ) (Q3) | -0.6% | -2.1% | 0.3% |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Nov) | 9.1% | 8.9% | 9.5% |
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | -0.1% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | -4.6% |  | -3.4% |
 | 08:30 | AUD | Low | Business inventories (MoM) (Q3) | 1.2% | -0.6% | -1.3% |
@@ -15,8 +15,8 @@
 | 08:30 | AUD | Moderate | Home Loans (MoM) | 5.6% | 0.8% | -0.1% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 09:00 | AUD | Moderate | Retail Sales (MoM) | -0.2% | -0.2% | 0.9% |
-| 11 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 13:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 12:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 30 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 15:00 | EUR | Low | German Exports (MoM) (Oct) |  | 1.1% | -2.4% |
 | 15:00 | EUR | Low | German Imports (MoM) (Oct) |  | 0.8% | -1.7% |
 | 15:00 | EUR | Moderate | German Trade Balance (Oct) |  | 17.1B | 16.5B |

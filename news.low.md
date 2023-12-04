@@ -5,8 +5,8 @@
 | 05:45 | NZD | Terms of Trade - Exports Prices (Q3) | -1.4% |  | -0.6% |
 | 05:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q3) | -5.5% |  | 6.8% |
 | 05:45 | NZD | Terms of Trade - Imports Prices (Q3) | -0.8% |  | -1.0% |
-| 05:45 | NZD | Terms of Trade Index (QoQ) (Q3) | -0.6% |  | 0.3% |
-| 07:50 | JPY | Monetary Base (YoY) (Nov) | 9.1% |  | 9.5% |
+| 05:45 | NZD | Terms of Trade Index (QoQ) (Q3) | -0.6% | -2.1% | 0.3% |
+| 07:50 | JPY | Monetary Base (YoY) (Nov) | 9.1% | 8.9% | 9.5% |
 | 08:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | -0.1% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) | -4.6% |  | -3.4% |
 | 08:30 | AUD | Business inventories (MoM) (Q3) | 1.2% | -0.6% | -1.3% |
