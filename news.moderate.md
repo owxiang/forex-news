@@ -13,7 +13,7 @@
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Nov) | 0.43% |  | 0.30% |
 | 16:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 19:10 | EUR | ECB's Elderson Speaks |  |  |  |
+| 21:35 | EUR | ECB's Elderson Speaks |  |  |  |
+| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 40 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 23:00 | USD | Factory Orders (MoM) (Oct) |  | -2.6% | 2.8% |
+| 45 min | USD | Factory Orders (MoM) (Oct) |  | -2.6% | 2.8% |
