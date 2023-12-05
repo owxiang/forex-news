@@ -19,8 +19,8 @@
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
 | 17:30 | ZAR | GDP Annualized (QoQ) |  | -0.1% | 0.6% |
-| 20:00 | BRL | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 20:00 | BRL | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 21:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 22:45 | USD | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
 | 23:00 | USD | ISM Non-Manufacturing Employment (Nov) |  |  | 50.2 |

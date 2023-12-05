@@ -28,7 +28,7 @@
 | 13:00 | INR | Low | S&P Global India Services PMI (Nov) | 56.9 | 58.0 | 58.4 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Oct) | -0.8% |  | -1.6% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
-| 15:15 | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 48.9 |
+| 54 min | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 48.9 |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Oct) |  | 0.2% | -0.5% |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  | -1.7% | -1.4% |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 51.5 | 51.1 |
@@ -42,8 +42,8 @@
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) |  | 48.2 | 47.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
-| 17:30 | ZAR | Low | GDP (YoY) (Q3) |  | -0.2% | 1.6% |
 | 17:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | -0.1% | 0.6% |
+| 17:30 | ZAR | Low | GDP (YoY) (Q3) |  | -0.2% | 1.6% |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.606% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.709% |
 | 18:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | -0.50% |
@@ -51,8 +51,8 @@
 | 18:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
 | 21:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 112.5B |
