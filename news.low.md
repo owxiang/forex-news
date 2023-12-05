@@ -37,11 +37,10 @@
 | 21:00 | BRL | S&P Global Composite PMI (Nov) | 50.7 |  | 50.3 |
 | 21:00 | BRL | S&P Global Services PMI (Nov) | 51.2 |  | 51.0 |
 | 21:15 | CAD | Reserve Assets Total (Nov) | 115.4B |  | 112.5B |
-| 34 min | USD | Redbook (YoY) |  |  | 6.3% |
-| 39 min | USD | Milk Auctions |  |  | 3,268.0 |
-| 22:30 | EUR | German Car Registration (YoY) |  |  | 4.9% |
-| 23:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
-| 23:00 | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
-| 23:00 | USD | ISM Non-Manufacturing New Orders (Nov) |  |  | 55.5 |
-| 23:00 | USD | Total Vehicle Sales |  |  | 15.50M |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |
+| 21:55 | USD | Redbook (YoY) | 3.0% |  | 6.3% |
+| 15 min | EUR | German Car Registration (YoY) |  |  | 4.9% |
+| 45 min | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
+| 45 min | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
+| 45 min | USD | ISM Non-Manufacturing New Orders (Nov) |  | 54.9 | 55.5 |
+| 45 min | USD | Total Vehicle Sales |  |  | 15.50M |
+| 45 min | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |

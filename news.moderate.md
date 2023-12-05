@@ -22,5 +22,5 @@
 | 20:00 | BRL | GDP (YoY) (Q3) | 2.0% | 1.9% | 3.5% |
 | 20:00 | BRL | GDP (QoQ) (Q3) | 0.1% | -0.2% | 1.0% |
 | 21:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 22:45 | USD | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
-| 23:00 | USD | ISM Non-Manufacturing Employment (Nov) |  |  | 50.2 |
+| 30 min | USD | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
+| 45 min | USD | ISM Non-Manufacturing Employment (Nov) |  | 51.4 | 50.2 |

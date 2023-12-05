@@ -58,17 +58,16 @@
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) | 51.2 |  | 51.0 |
 | 21:15 | CAD | Low | Reserve Assets Total (Nov) | 115.4B |  | 112.5B |
 | 21:20 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 34 min | USD | Low | Redbook (YoY) |  |  | 6.3% |
-| 39 min | USD | Low | Milk Auctions |  |  | 3,268.0 |
-| 22:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
-| 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
-| 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.8 | 50.6 |
-| 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
-| 23:00 | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
-| 23:00 | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  |  | 50.2 |
-| 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  |  | 55.5 |
-| 23:00 | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 52.0 | 51.8 |
-| 23:00 | USD | High | ISM Non-Manufacturing Prices (Nov) |  |  | 58.6 |
-| 23:00 | USD | High | JOLTs Job Openings (Oct) |  | 9.300M | 9.553M |
-| 23:00 | USD | Low | Total Vehicle Sales |  |  | 15.50M |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |
+| 21:55 | USD | Low | Redbook (YoY) | 3.0% |  | 6.3% |
+| 15 min | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
+| 30 min | USD | Moderate | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
+| 30 min | USD | High | S&P Global Services PMI (Nov) |  | 50.8 | 50.6 |
+| 45 min | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
+| 45 min | USD | Low | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
+| 45 min | USD | Moderate | ISM Non-Manufacturing Employment (Nov) |  | 51.4 | 50.2 |
+| 45 min | USD | Low | ISM Non-Manufacturing New Orders (Nov) |  | 54.9 | 55.5 |
+| 45 min | USD | High | ISM Non-Manufacturing PMI (Nov) |  | 52.0 | 51.8 |
+| 45 min | USD | High | ISM Non-Manufacturing Prices (Nov) |  | 58.0 | 58.6 |
+| 45 min | USD | High | JOLTs Job Openings (Oct) |  | 9.300M | 9.553M |
+| 45 min | USD | Low | Total Vehicle Sales |  |  | 15.50M |
+| 45 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.0% |
