@@ -10,18 +10,18 @@
 | 07:00 | KRW | Low | CPI (YoY) (Nov) | 3.3% | 3.7% | 3.8% |
 | 07:00 | KRW | Low | GDP (YoY) (Q3) | 1.4% |  | 0.9% |
 | 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.6% |
-| 14 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
-| 14 min | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) |  | 2.4% | 2.7% |
-| 14 min | JPY | Low | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
-| 14 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.4% |
-| 44 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.9% |
-| 45 min | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Nov) |  | 2.5% | 2.6% |
-| 08:30 | AUD | Moderate | Current Account (Q3) |  | 3.0B | 7.7B |
-| 08:30 | AUD | Low | Net Exports Contribution (Q3) |  | -0.3% | 0.8% |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) |  | 51.7 | 51.6 |
-| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Nov) |  |  | 48.9 |
-| 09:45 | CNY | Moderate | Caixin Services PMI (Nov) |  | 50.7 | 50.4 |
-| 09:45 | CNY | Moderate | Chinese Composite PMI |  |  | 50.4 |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) | 2.7% |  | 2.7% |
+| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) | 2.3% | 2.4% | 2.7% |
+| 07:30 | JPY | Low | Tokyo CPI (YoY) (Nov) | 2.6% |  | 3.3% |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Nov) | 0.0% |  | 0.4% |
+| 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.3% |  | 2.8% |
+| 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Nov) | 2.6% | 2.5% | 2.6% |
+| 08:30 | AUD | Moderate | Current Account (Q3) | -0.2B | 3.0B | 7.7B |
+| 08:30 | AUD | Low | Net Exports Contribution (Q3) | -0.6% | -0.3% | 0.8% |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) | 50.8 | 51.7 | 51.6 |
+| 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Nov) | 50.1 |  | 48.9 |
+| 32 min | CNY | Moderate | Caixin Services PMI (Nov) |  | 50.7 | 50.4 |
+| 32 min | CNY | Moderate | Chinese Composite PMI |  |  | 50.4 |
 | 11:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.910% |
@@ -52,8 +52,8 @@
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
 | 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |

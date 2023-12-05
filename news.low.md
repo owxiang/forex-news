@@ -10,12 +10,12 @@
 | 07:00 | KRW | CPI (YoY) (Nov) | 3.3% | 3.7% | 3.8% |
 | 07:00 | KRW | GDP (YoY) (Q3) | 1.4% |  | 0.9% |
 | 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.6% |
-| 14 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) |  |  | 2.7% |
-| 14 min | JPY | Tokyo CPI (YoY) (Nov) |  |  | 3.3% |
-| 14 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) |  |  | 0.4% |
-| 44 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.9% |
-| 08:30 | AUD | Net Exports Contribution (Q3) |  | -0.3% | 0.8% |
-| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Nov) |  |  | 48.9 |
+| 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) | 2.7% |  | 2.7% |
+| 07:30 | JPY | Tokyo CPI (YoY) (Nov) | 2.6% |  | 3.3% |
+| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Nov) | 0.0% |  | 0.4% |
+| 08:00 | NZD | ANZ Commodity Price Index (MoM) | -1.3% |  | 2.8% |
+| 08:30 | AUD | Net Exports Contribution (Q3) | -0.6% | -0.3% | 0.8% |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Nov) | 50.1 |  | 48.9 |
 | 13:00 | INR | S&P Global India Services PMI (Nov) |  | 58.0 | 58.4 |
 | 13:00 | SGD | Retail Sales (MoM) (Oct) |  |  | -1.6% |
 | 13:00 | SGD | Retail Sales (YoY) (Oct) |  |  | 0.6% |
