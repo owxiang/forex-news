@@ -6,9 +6,9 @@
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.594M | -2.267M | -0.817M |
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
-| 45 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 6 |
-| 08:30 | AUD | Moderate | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
+| 07:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 6 |
 | 08:30 | AUD | Moderate | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
+| 08:30 | AUD | Moderate | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) |  |  | 2.4% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) |  |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) |  |  | 0.2% |
