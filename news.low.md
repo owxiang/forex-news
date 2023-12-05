@@ -6,8 +6,8 @@
 | 00:30 | USD | 6-Month Bill Auction | 5.190% |  | 5.240% |
 | 05:00 | KRW | FX Reserves - USD (Nov) | 417.08B |  | 412.87B |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 46.0 | 46.3 | 47.9 |
-| 07:00 | KRW | CPI (MoM) (Nov) | -0.6% | -0.2% | 0.3% |
 | 07:00 | KRW | CPI (YoY) (Nov) | 3.3% | 3.7% | 3.8% |
+| 07:00 | KRW | CPI (MoM) (Nov) | -0.6% | -0.2% | 0.3% |
 | 07:00 | KRW | GDP (YoY) (Q3) | 1.4% |  | 0.9% |
 | 07:00 | KRW | GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.6% |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Nov) | 2.7% |  | 2.7% |
@@ -33,14 +33,14 @@
 | 18:00 | EUR | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
 | 18:00 | EUR | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
 | 18:30 | EUR | German 2-Year Schatz Auction | 2.640% |  | 3.060% |
+| 19:30 | EUR | German Car Registration (YoY) | -5.7% |  | 4.9% |
 | 19:30 | BRL | Bank lending (MoM) (Oct) | 0.1% |  | 1.0% |
+| 20:00 | NZD | GlobalDairyTrade Price Index | 1.6% |  | 0.0% |
+| 20:00 | USD | Milk Auctions | 3,323.0 |  | 3,268.0 |
 | 21:00 | BRL | S&P Global Composite PMI (Nov) | 50.7 |  | 50.3 |
 | 21:00 | BRL | S&P Global Services PMI (Nov) | 51.2 |  | 51.0 |
 | 21:15 | CAD | Reserve Assets Total (Nov) | 115.4B |  | 112.5B |
 | 21:55 | USD | Redbook (YoY) | 3.0% |  | 6.3% |
-| 15 min | EUR | German Car Registration (YoY) |  |  | 4.9% |
-| 45 min | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
-| 45 min | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
-| 45 min | USD | ISM Non-Manufacturing New Orders (Nov) |  | 54.9 | 55.5 |
-| 45 min | USD | Total Vehicle Sales |  |  | 15.50M |
-| 45 min | NZD | GlobalDairyTrade Price Index |  |  | 0.0% |
+| 23:00 | USD | IBD/TIPP Economic Optimism | 40.0 | 45.2 | 44.5 |
+| 23:00 | USD | ISM Non-Manufacturing Business Activity (Nov) | 55.1 |  | 54.1 |
+| 23:00 | USD | ISM Non-Manufacturing New Orders (Nov) | 55.5 | 54.9 | 55.5 |
