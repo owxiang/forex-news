@@ -11,14 +11,14 @@
 | 11:30 | AUD | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | 10-Year JGB Auction | 0.697% |  | 0.910% |
 | 16:15 | EUR | HCOB Spain Services PMI (Nov) | 51.0 | 51.5 | 51.1 |
-| 24 min | EUR | HCOB Italy Services PMI (Nov) |  | 48.2 | 47.7 |
-| 29 min | EUR | HCOB France Services PMI (Nov) |  | 45.3 | 45.2 |
-| 34 min | EUR | HCOB Germany Services PMI (Nov) |  | 48.7 | 48.2 |
-| 39 min | EUR | HCOB Eurozone Composite PMI (Nov) |  | 47.1 | 46.5 |
-| 39 min | EUR | HCOB Eurozone Services PMI (Nov) |  | 48.2 | 47.8 |
-| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
-| 17:30 | ZAR | GDP Annualized (QoQ) |  | -0.1% | 0.6% |
+| 16:45 | EUR | HCOB Italy Services PMI (Nov) | 49.5 | 48.2 | 47.7 |
+| 16:50 | EUR | HCOB France Services PMI (Nov) | 45.4 | 45.3 | 45.2 |
+| 16:55 | EUR | HCOB Germany Services PMI (Nov) | 49.6 | 48.7 | 48.2 |
+| 17:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 47.6 | 47.1 | 46.5 |
+| 17:00 | EUR | HCOB Eurozone Services PMI (Nov) | 48.7 | 48.2 | 47.8 |
+| 13 min | GBP | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
+| 13 min | GBP | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
+| 13 min | ZAR | GDP Annualized (QoQ) |  | -0.1% | 0.6% |
 | 20:00 | BRL | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 20:00 | BRL | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 21:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
