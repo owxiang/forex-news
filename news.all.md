@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 04:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
-| 46 min | AUD | Low | AIG Construction Index (Nov) |  |  | 18.5 |
-| 46 min | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -20.9 |
-| 07:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 6 |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.594M | -2.267M | -0.817M |
+| 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
+| 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
+| 45 min | JPY | Low | Reuters Tankan Index (Dec) |  |  | 6 |
 | 08:30 | AUD | Moderate | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
 | 08:30 | AUD | Moderate | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) |  |  | 2.4% |
@@ -20,8 +20,8 @@
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.7 | 45.6 |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | -0.9% | -2.9% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | -0.9% | -2.9% |
 | 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
