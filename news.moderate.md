@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 48 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 04:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
 | 08:30 | AUD | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 08:30 | AUD | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
@@ -17,7 +17,7 @@
 | 21:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.7% | 3.5% |
 | 21:30 | USD | Trade Balance (Oct) |  | -64.10B | -61.50B |
 | 21:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | -0.8% | 2.2% |
-| 21:30 | CAD | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.6% |
+| 21:30 | CAD | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
 | 21:30 | CAD | Trade Balance (Oct) |  | 1.50B | 2.04B |
 | 21:35 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 23:00 | CAD | BoC Rate Statement |  |  |  |

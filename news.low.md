@@ -19,7 +19,7 @@
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
-| 19:30 | BRL | Budget Balance (Oct) |  |  | -99.785B |
+| 19:30 | BRL | Budget Balance (Oct) |  | -41.750B | -99.785B |
 | 19:30 | BRL | Budget Surplus (Oct) |  |  | -18.071B |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.37% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.3% |
@@ -32,13 +32,12 @@
 | 21:30 | CAD | Exports (Oct) |  |  | 67.03B |
 | 21:30 | CAD | Imports (Oct) |  |  | 64.99B |
 | 22:00 | USD | Milk Auctions |  |  | 3,268.0 |
-| 23:00 | USD | Total Vehicle Sales |  |  | 15.50M |
 | 23:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.665M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.060M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  |  | 5.217M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | 1.526M | 5.217M |
 | 23:30 | USD | Gasoline Production |  |  | -0.035M |
 | 23:30 | USD | Heating Oil Stockpiles |  |  | 0.003M |
 | 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
-| 23:30 | USD | Gasoline Inventories |  |  | 1.764M |
+| 23:30 | USD | Gasoline Inventories |  | 1.027M | 1.764M |

@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 48 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 04:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
 | 06:00 | AUD | Low | AIG Construction Index (Nov) |  |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -20.9 |
@@ -27,7 +27,7 @@
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
-| 19:30 | BRL | Low | Budget Balance (Oct) |  |  | -99.785B |
+| 19:30 | BRL | Low | Budget Balance (Oct) |  | -41.750B | -99.785B |
 | 19:30 | BRL | Low | Budget Surplus (Oct) |  |  | -18.071B |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  | 74.5% | 74.4% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.37% |
@@ -47,23 +47,22 @@
 | 21:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.8% | 2.2% |
 | 21:30 | CAD | Low | Exports (Oct) |  |  | 67.03B |
 | 21:30 | CAD | Low | Imports (Oct) |  |  | 64.99B |
-| 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.6% |
+| 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
 | 21:30 | CAD | Moderate | Trade Balance (Oct) |  | 1.50B | 2.04B |
 | 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 22:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
-| 23:00 | USD | Low | Total Vehicle Sales |  |  | 15.50M |
 | 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 23:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 23:00 | CAD | Moderate | Ivey PMI (Nov) |  | 54.2 | 53.4 |
 | 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:30 | USD | High | Crude Oil Inventories |  |  | 1.609M |
+| 23:30 | USD | High | Crude Oil Inventories |  | -1.354M | 1.609M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.665M |
 | 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.854M |
 | 23:30 | USD | Low | Distillate Fuel Production |  |  | 0.060M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 5.217M |
+| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.526M | 5.217M |
 | 23:30 | USD | Low | Gasoline Production |  |  | -0.035M |
 | 23:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.003M |
 | 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
-| 23:30 | USD | Low | Gasoline Inventories |  |  | 1.764M |
+| 23:30 | USD | Low | Gasoline Inventories |  | 1.027M | 1.764M |
