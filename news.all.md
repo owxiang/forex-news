@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 04:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 48 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
 | 06:00 | AUD | Low | AIG Construction Index (Nov) |  |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -20.9 |

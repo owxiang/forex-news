@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 48 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
 | 08:30 | AUD | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 08:30 | AUD | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
