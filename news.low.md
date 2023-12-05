@@ -32,8 +32,8 @@
 | 18:00 | NOK | House Price Index (YoY) (Nov) | 0.50% |  | -0.50% |
 | 18:00 | EUR | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
 | 18:00 | EUR | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
-| 12 min | EUR | German 2-Year Schatz Auction |  |  | 3.060% |
-| 19:30 | BRL | Bank lending (MoM) (Oct) |  |  | 0.8% |
+| 18:30 | EUR | German 2-Year Schatz Auction | 2.640% |  | 3.060% |
+| 17 min | BRL | Bank lending (MoM) (Oct) |  |  | 0.8% |
 | 21:00 | BRL | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | S&P Global Services PMI (Nov) |  |  | 51.0 |
 | 21:15 | CAD | Reserve Assets Total (Nov) |  |  | 112.5B |

@@ -50,10 +50,10 @@
 | 18:00 | NOK | Low | House Price Index (YoY) (Nov) | 0.50% |  | -0.50% |
 | 18:00 | EUR | Low | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
 | 18:00 | EUR | Low | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
-| 12 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
-| 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
+| 18:30 | EUR | Low | German 2-Year Schatz Auction | 2.640% |  | 3.060% |
+| 17 min | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
+| 47 min | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
+| 47 min | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
 | 21:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 112.5B |
