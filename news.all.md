@@ -26,8 +26,8 @@
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.697% |  | 0.910% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Nov) | 56.9 | 58.0 | 58.4 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Oct) | -0.8% |  | -1.6% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Nov) | 50.0 |  | 48.9 |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Oct) | -0.3% | 0.2% | -0.6% |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) | -1.5% | -1.7% | -1.2% |
@@ -43,23 +43,23 @@
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 48.7 | 48.2 | 47.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) | 50.7 | 50.1 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) | 50.9 | 50.5 | 49.5 |
-| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | -0.2% | -0.1% | 0.5% |
 | 17:30 | ZAR | Low | GDP (YoY) (Q3) | -0.7% | -0.2% | 1.5% |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | -0.2% | -0.1% | 0.5% |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.305% |  | 3.606% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.617% |  | 3.709% |
 | 18:00 | NOK | Low | House Price Index (YoY) (Nov) | 0.50% |  | -0.50% |
 | 18:00 | EUR | Low | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
 | 18:00 | EUR | Low | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 2.640% |  | 3.060% |
-| 19:30 | BRL | Low | Bank lending (MoM) (Oct) | 0.1% |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) | 0.1% | -0.2% | 0.9% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) | 2.0% | 1.9% | 3.4% |
-| 29 min | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
-| 29 min | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
-| 44 min | CAD | Low | Reserve Assets Total (Nov) |  |  | 112.5B |
-| 49 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
-| 22:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
+| 19:30 | BRL | Low | Bank lending (MoM) (Oct) | 0.1% |  | 1.0% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) | 2.0% | 1.9% | 3.5% |
+| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) | 0.1% | -0.2% | 1.0% |
+| 21:00 | BRL | Low | S&P Global Composite PMI (Nov) | 50.7 |  | 50.3 |
+| 21:00 | BRL | Low | S&P Global Services PMI (Nov) | 51.2 |  | 51.0 |
+| 21:15 | CAD | Low | Reserve Assets Total (Nov) | 115.4B |  | 112.5B |
+| 21:20 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 34 min | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 39 min | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 22:30 | EUR | Low | German Car Registration (YoY) |  |  | 4.9% |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Nov) |  | 50.7 | 50.7 |
 | 22:45 | USD | High | S&P Global Services PMI (Nov) |  | 50.8 | 50.6 |

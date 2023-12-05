@@ -17,8 +17,8 @@
 | 08:30 | AUD | Net Exports Contribution (Q3) | -0.6% | -0.2% | 0.8% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Nov) | 50.1 |  | 48.9 |
 | 13:00 | INR | S&P Global India Services PMI (Nov) | 56.9 | 58.0 | 58.4 |
-| 13:00 | SGD | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
 | 13:00 | SGD | Retail Sales (MoM) (Oct) | -0.8% |  | -1.6% |
+| 13:00 | SGD | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Nov) | 50.0 |  | 48.9 |
 | 15:45 | EUR | French Industrial Production (MoM) (Oct) | -0.3% | 0.2% | -0.6% |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Oct) | -1.5% | -1.7% | -1.2% |
@@ -33,12 +33,12 @@
 | 18:00 | EUR | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
 | 18:00 | EUR | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
 | 18:30 | EUR | German 2-Year Schatz Auction | 2.640% |  | 3.060% |
-| 19:30 | BRL | Bank lending (MoM) (Oct) | 0.1% |  | 0.8% |
-| 29 min | BRL | S&P Global Composite PMI (Nov) |  |  | 50.3 |
-| 29 min | BRL | S&P Global Services PMI (Nov) |  |  | 51.0 |
-| 44 min | CAD | Reserve Assets Total (Nov) |  |  | 112.5B |
-| 21:55 | USD | Redbook (YoY) |  |  | 6.3% |
-| 22:00 | USD | Milk Auctions |  |  | 3,268.0 |
+| 19:30 | BRL | Bank lending (MoM) (Oct) | 0.1% |  | 1.0% |
+| 21:00 | BRL | S&P Global Composite PMI (Nov) | 50.7 |  | 50.3 |
+| 21:00 | BRL | S&P Global Services PMI (Nov) | 51.2 |  | 51.0 |
+| 21:15 | CAD | Reserve Assets Total (Nov) | 115.4B |  | 112.5B |
+| 34 min | USD | Redbook (YoY) |  |  | 6.3% |
+| 39 min | USD | Milk Auctions |  |  | 3,268.0 |
 | 22:30 | EUR | German Car Registration (YoY) |  |  | 4.9% |
 | 23:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.5 |
 | 23:00 | USD | ISM Non-Manufacturing Business Activity (Nov) |  |  | 54.1 |
