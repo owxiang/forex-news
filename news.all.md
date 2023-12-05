@@ -8,8 +8,8 @@
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 46.0 | 46.3 | 47.9 |
 | 07:00 | KRW | Low | CPI (MoM) (Nov) | -0.6% | -0.2% | 0.3% |
 | 07:00 | KRW | Low | CPI (YoY) (Nov) | 3.3% | 3.7% | 3.8% |
-| 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q3) | 1.4% |  | 0.9% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q3) | 0.6% | 0.6% | 0.6% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Nov) | 2.7% |  | 2.7% |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Nov) | 2.3% | 2.4% | 2.7% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Nov) | 2.6% |  | 3.3% |
@@ -25,9 +25,9 @@
 | 11:30 | AUD | High | RBA Interest Rate Decision (Dec) | 4.35% | 4.35% | 4.35% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.697% |  | 0.910% |
-| 41 min | INR | Low | S&P Global India Services PMI (Nov) |  | 58.0 | 58.4 |
-| 41 min | SGD | Low | Retail Sales (MoM) (Oct) |  |  | -1.6% |
-| 41 min | SGD | Low | Retail Sales (YoY) (Oct) |  |  | 0.6% |
+| 13:00 | INR | Low | S&P Global India Services PMI (Nov) | 56.9 | 58.0 | 58.4 |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Oct) | -0.8% |  | -1.6% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 48.9 |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Oct) |  | 0.2% | -0.5% |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  | -1.7% | -1.4% |
@@ -47,13 +47,12 @@
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.606% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.709% |
 | 18:00 | NOK | Low | House Price Index (YoY) (Nov) |  |  | -0.50% |
-| 18:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
 | 18:00 | EUR | Low | PPI (YoY) (Oct) |  | -9.5% | -12.4% |
+| 18:00 | EUR | Low | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
+| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
 | 21:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 112.5B |
