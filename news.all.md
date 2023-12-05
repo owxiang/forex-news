@@ -28,9 +28,9 @@
 | 13:00 | INR | Low | S&P Global India Services PMI (Nov) | 56.9 | 58.0 | 58.4 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Oct) | -0.8% |  | -1.6% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Oct) | -0.1% |  | 0.8% |
-| 54 min | ZAR | Low | S&P Global South Africa PMI (Nov) |  |  | 48.9 |
-| 15:45 | EUR | Low | French Industrial Production (MoM) (Oct) |  | 0.2% | -0.5% |
-| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  | -1.7% | -1.4% |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Nov) | 50.0 |  | 48.9 |
+| 30 min | EUR | Low | French Industrial Production (MoM) (Oct) |  | 0.2% | -0.5% |
+| 45 min | EUR | Low | Spanish Industrial Production (YoY) (Oct) |  | -1.7% | -1.4% |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Nov) |  | 51.5 | 51.1 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Nov) |  |  | 47.0 |
 | 16:45 | EUR | Moderate | HCOB Italy Services PMI (Nov) |  | 48.2 | 47.7 |
