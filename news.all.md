@@ -3,23 +3,23 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 04:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
-| 06:00 | AUD | Low | AIG Construction Index (Nov) |  |  | 18.5 |
-| 06:00 | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -20.9 |
+| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
+| 46 min | AUD | Low | AIG Construction Index (Nov) |  |  | 18.5 |
+| 46 min | AUD | Low | AIG Manufacturing Index (Nov) |  |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) |  |  | 6 |
-| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 08:30 | AUD | Moderate | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
+| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) |  |  | 2.4% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) |  |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) |  |  | 0.2% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.0% | 0.2% |
+| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.2% | 0.2% |
 | 15:00 | NOK | Low | Current Account (Q3) |  |  | 171.3B |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
-| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.9 | 45.6 |
+| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.7 | 45.6 |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | -0.9% | -2.9% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
 | 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
@@ -39,7 +39,7 @@
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.7 |
 | 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | 0.51% |
 | 20:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 21:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 128K | 113K |
+| 21:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 129K | 113K |
 | 21:30 | USD | Moderate | Exports |  |  | 261.10B |
 | 21:30 | USD | Moderate | Imports |  |  | 322.70B |
 | 21:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.7% | 3.5% |
@@ -47,8 +47,8 @@
 | 21:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.8% | 2.2% |
 | 21:30 | CAD | Low | Exports (Oct) |  |  | 67.03B |
 | 21:30 | CAD | Low | Imports (Oct) |  |  | 64.99B |
-| 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
-| 21:30 | CAD | Moderate | Trade Balance (Oct) |  | 1.50B | 2.04B |
+| 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.6% |
+| 21:30 | CAD | Moderate | Trade Balance (Oct) |  | 1.80B | 2.04B |
 | 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 22:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
@@ -56,7 +56,7 @@
 | 23:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 23:00 | CAD | Moderate | Ivey PMI (Nov) |  | 54.2 | 53.4 |
 | 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:30 | USD | High | Crude Oil Inventories |  | -1.354M | 1.609M |
+| 23:30 | USD | High | Crude Oil Inventories |  | -2.900M | 1.609M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.665M |
 | 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.854M |

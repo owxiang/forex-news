@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | AIG Construction Index (Nov) |  |  | 18.5 |
-| 06:00 | AUD | AIG Manufacturing Index (Nov) |  |  | -20.9 |
+| 46 min | AUD | AIG Construction Index (Nov) |  |  | 18.5 |
+| 46 min | AUD | AIG Manufacturing Index (Nov) |  |  | -20.9 |
 | 07:00 | JPY | Reuters Tankan Index (Dec) |  |  | 6 |
 | 08:30 | AUD | GDP Capital Expenditure (Q3) |  |  | 2.4% |
 | 08:30 | AUD | GDP Chain Price Index (Q3) |  |  | -2.2% |
