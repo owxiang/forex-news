@@ -1,26 +1,26 @@
-## 05 December 2023 - Moderate Impact Forex News
+## 06 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Nov) | 2.3% | 2.4% | 2.7% |
-| 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Nov) | 2.6% | 2.5% | 2.6% |
-| 08:30 | AUD | Current Account (Q3) | -0.2B | 3.1B | 7.8B |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI (Nov) | 50.8 | 51.7 | 51.6 |
-| 09:45 | CNY | Caixin Services PMI (Nov) | 51.5 | 50.7 | 50.4 |
-| 09:45 | CNY | Chinese Composite PMI | 51.6 |  | 50.4 |
-| 11:30 | AUD | RBA Rate Statement |  |  |  |
-| 11:35 | JPY | 10-Year JGB Auction | 0.697% |  | 0.910% |
-| 16:15 | EUR | HCOB Spain Services PMI (Nov) | 51.0 | 51.5 | 51.1 |
-| 16:45 | EUR | HCOB Italy Services PMI (Nov) | 49.5 | 48.2 | 47.7 |
-| 16:50 | EUR | HCOB France Services PMI (Nov) | 45.4 | 45.3 | 45.2 |
-| 16:55 | EUR | HCOB Germany Services PMI (Nov) | 49.6 | 48.7 | 48.2 |
-| 17:00 | EUR | HCOB Eurozone Composite PMI (Nov) | 47.6 | 47.1 | 46.5 |
-| 17:00 | EUR | HCOB Eurozone Services PMI (Nov) | 48.7 | 48.2 | 47.8 |
-| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Nov) | 50.7 | 50.1 | 48.7 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Nov) | 50.9 | 50.5 | 49.5 |
-| 17:30 | ZAR | GDP Annualized (QoQ) | -0.2% | -0.1% | 0.5% |
-| 20:00 | BRL | GDP (QoQ) (Q3) | 0.1% | -0.2% | 1.0% |
-| 20:00 | BRL | GDP (YoY) (Q3) | 2.0% | 1.9% | 3.5% |
-| 21:20 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 22:45 | USD | S&P Global Composite PMI (Nov) | 50.7 | 50.7 | 50.7 |
-| 23:00 | USD | ISM Non-Manufacturing Employment (Nov) | 50.7 | 51.4 | 50.2 |
+| 04:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | -2.267M | -0.817M |
+| 08:30 | AUD | GDP (QoQ) (Q3) |  | 0.3% | 0.4% |
+| 08:30 | AUD | GDP (YoY) (Q3) |  | 1.7% | 2.1% |
+| 15:00 | EUR | German Factory Orders (MoM) (Oct) |  | 0.0% | 0.2% |
+| 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.9 | 45.6 |
+| 18:30 | GBP | BoE Financial Stability Report |  |  |  |
+| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) |  | 74.5% | 74.4% |
+| 20:45 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 21:30 | USD | Exports |  |  | 261.10B |
+| 21:30 | USD | Imports |  |  | 322.70B |
+| 21:30 | USD | Nonfarm Productivity (QoQ) (Q3) |  | 4.7% | 3.5% |
+| 21:30 | USD | Trade Balance (Oct) |  | -64.10B | -61.50B |
+| 21:30 | USD | Unit Labor Costs (QoQ) (Q3) |  | -0.8% | 2.2% |
+| 21:30 | CAD | Labor Productivity (QoQ) (Q3) |  | 0.2% | -0.6% |
+| 21:30 | CAD | Trade Balance (Oct) |  | 1.50B | 2.04B |
+| 21:35 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 23:00 | CAD | BoC Rate Statement |  |  |  |
+| 23:00 | CAD | Ivey PMI (Nov) |  | 54.2 | 53.4 |
+| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.854M |

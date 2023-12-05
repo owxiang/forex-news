@@ -1,9 +1,7 @@
-## 05 December 2023 - High Impact Forex News
+## 06 December 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:30 | AUD | RBA Interest Rate Decision (Dec) | 4.35% | 4.35% | 4.35% |
-| 22:45 | USD | S&P Global Services PMI (Nov) | 50.8 | 50.8 | 50.6 |
-| 23:00 | USD | ISM Non-Manufacturing PMI (Nov) | 52.7 | 52.0 | 51.8 |
-| 23:00 | USD | ISM Non-Manufacturing Prices (Nov) | 58.3 | 58.0 | 58.6 |
-| 23:00 | USD | JOLTs Job Openings (Oct) | 8.733M | 9.300M | 9.350M |
+| 21:15 | USD | ADP Nonfarm Employment Change (Nov) |  | 128K | 113K |
+| 23:00 | CAD | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 23:30 | USD | Crude Oil Inventories |  |  | 1.609M |
