@@ -38,21 +38,22 @@
 | 16:50 | EUR | Moderate | HCOB France Services PMI (Nov) | 45.4 | 45.3 | 45.2 |
 | 16:55 | EUR | Low | HCOB Germany Composite PMI (Nov) | 47.8 | 47.1 | 45.9 |
 | 16:55 | EUR | Moderate | HCOB Germany Services PMI (Nov) | 49.6 | 48.7 | 48.2 |
+| 17:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Nov) | 156,525.0 |  | 153,529.0 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Nov) | 47.6 | 47.1 | 46.5 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Nov) | 48.7 | 48.2 | 47.8 |
-| 13 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) |  | 50.1 | 48.7 |
-| 13 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) |  | 50.5 | 49.5 |
-| 13 min | ZAR | Low | GDP (YoY) (Q3) |  | -0.2% | 1.6% |
-| 13 min | ZAR | Moderate | GDP Annualized (QoQ) |  | -0.1% | 0.6% |
-| 23 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.606% |
-| 23 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.709% |
-| 43 min | NOK | Low | House Price Index (YoY) (Nov) |  |  | -0.50% |
-| 43 min | EUR | Low | PPI (YoY) (Oct) |  | -9.5% | -12.4% |
-| 43 min | EUR | Low | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
-| 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Nov) | 50.7 | 50.1 | 48.7 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Nov) | 50.9 | 50.5 | 49.5 |
+| 17:30 | ZAR | Low | GDP (YoY) (Q3) | -0.7% | -0.2% | 1.5% |
+| 17:30 | ZAR | Moderate | GDP Annualized (QoQ) | -0.2% | -0.1% | 0.5% |
+| 17:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.305% |  | 3.606% |
+| 17:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.617% |  | 3.709% |
+| 18:00 | NOK | Low | House Price Index (YoY) (Nov) | 0.50% |  | -0.50% |
+| 18:00 | EUR | Low | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
+| 18:00 | EUR | Low | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
+| 12 min | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
+| 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 1.9% | 3.4% |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
 | 21:15 | CAD | Low | Reserve Assets Total (Nov) |  |  | 112.5B |

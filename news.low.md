@@ -25,13 +25,14 @@
 | 16:45 | EUR | HCOB Italy Composite PMI (Nov) | 48.1 |  | 47.0 |
 | 16:50 | EUR | HCOB France Composite PMI (Nov) | 44.6 | 44.5 | 44.6 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Nov) | 47.8 | 47.1 | 45.9 |
-| 13 min | ZAR | GDP (YoY) (Q3) |  | -0.2% | 1.6% |
-| 23 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.606% |
-| 23 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.709% |
-| 43 min | NOK | House Price Index (YoY) (Nov) |  |  | -0.50% |
-| 43 min | EUR | PPI (YoY) (Oct) |  | -9.5% | -12.4% |
-| 43 min | EUR | PPI (MoM) (Oct) |  | 0.2% | 0.5% |
-| 18:30 | EUR | German 2-Year Schatz Auction |  |  | 3.060% |
+| 17:00 | GBP | United Kingdom New Passenger Cars Registration (Nov) | 156,525.0 |  | 153,529.0 |
+| 17:30 | ZAR | GDP (YoY) (Q3) | -0.7% | -0.2% | 1.5% |
+| 17:40 | EUR | Spanish 12-Month Letras Auction | 3.305% |  | 3.606% |
+| 17:40 | EUR | Spanish 6-Month Letras Auction | 3.617% |  | 3.709% |
+| 18:00 | NOK | House Price Index (YoY) (Nov) | 0.50% |  | -0.50% |
+| 18:00 | EUR | PPI (YoY) (Oct) | -9.4% | -9.5% | -12.4% |
+| 18:00 | EUR | PPI (MoM) (Oct) | 0.2% | 0.2% | 0.5% |
+| 12 min | EUR | German 2-Year Schatz Auction |  |  | 3.060% |
 | 19:30 | BRL | Bank lending (MoM) (Oct) |  |  | 0.8% |
 | 21:00 | BRL | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | S&P Global Services PMI (Nov) |  |  | 51.0 |
