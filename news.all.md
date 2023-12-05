@@ -20,8 +20,8 @@
 | 08:30 | AUD | Low | Net Exports Contribution (Q3) | -0.6% | -0.3% | 0.8% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Nov) | 50.8 | 51.7 | 51.6 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Nov) | 50.1 |  | 48.9 |
-| 32 min | CNY | Moderate | Caixin Services PMI (Nov) |  | 50.7 | 50.4 |
-| 32 min | CNY | Moderate | Chinese Composite PMI |  |  | 50.4 |
+| 09:45 | CNY | Moderate | Caixin Services PMI (Nov) | 51.5 | 50.7 | 50.4 |
+| 09:45 | CNY | Moderate | Chinese Composite PMI | 51.6 |  | 50.4 |
 | 11:30 | AUD | High | RBA Interest Rate Decision (Dec) |  | 4.35% | 4.35% |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.910% |
@@ -52,8 +52,8 @@
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.060% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:30 | BRL | Low | Bank lending (MoM) (Oct) |  |  | 0.8% |
-| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 20:00 | BRL | Moderate | GDP (YoY) (Q3) |  | 2.0% | 3.4% |
+| 20:00 | BRL | Moderate | GDP (QoQ) (Q3) |  | -0.2% | 0.9% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Nov) |  |  | 50.3 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Nov) |  |  | 51.0 |
