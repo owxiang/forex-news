@@ -7,8 +7,8 @@
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) | 12 |  | 6 |
-| 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
+| 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.1% |  | 2.7% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
@@ -27,28 +27,28 @@
 | 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 0.50% |  | 0.51% |
-| 16 min | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
-| 16 min | BRL | Low | Budget Balance (Oct) |  | -41.750B | -99.785B |
-| 16 min | BRL | Low | Budget Surplus (Oct) |  |  | -18.071B |
-| 16 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  | 74.5% | 74.4% |
-| 46 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.37% |
-| 46 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
-| 46 min | USD | Low | MBA Purchase Index |  |  | 144.9 |
-| 46 min | USD | Low | Mortgage Market Index |  |  | 176.1 |
-| 46 min | USD | Low | Mortgage Refinance Index |  |  | 327.8 |
-| 46 min | MXN | Low | Consumer Confidence |  |  | 46.0 |
-| 46 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.7 |
-| 20:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 21:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 130K | 113K |
-| 21:30 | USD | Moderate | Exports |  |  | 261.10B |
-| 21:30 | USD | Moderate | Imports |  |  | 322.70B |
-| 21:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.5% |
-| 21:30 | USD | Moderate | Trade Balance (Oct) |  | -64.20B | -61.50B |
-| 21:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.9% | 2.2% |
-| 21:30 | CAD | Low | Exports (Oct) |  |  | 67.03B |
-| 21:30 | CAD | Low | Imports (Oct) |  |  | 64.99B |
-| 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
-| 21:30 | CAD | Moderate | Trade Balance (Oct) |  | 1.60B | 2.04B |
+| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) | 60.0% |  | 60.0% |
+| 19:30 | BRL | Low | Budget Balance (Oct) | -47.148B | -41.750B | -99.785B |
+| 19:30 | BRL | Low | Budget Surplus (Oct) | 14.798B |  | -18.071B |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) | 74.7% | 74.5% | 74.4% |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.17% |  | 7.37% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.8% |  | 0.3% |
+| 20:00 | USD | Low | MBA Purchase Index | 144.5 |  | 144.9 |
+| 20:00 | USD | Low | Mortgage Market Index | 181.1 |  | 176.1 |
+| 20:00 | USD | Low | Mortgage Refinance Index | 373.3 |  | 327.8 |
+| 20:00 | MXN | Low | Consumer Confidence | 47.3 |  | 46.0 |
+| 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.9 |  | 45.7 |
+| 14 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 44 min | USD | High | ADP Nonfarm Employment Change (Nov) |  | 130K | 113K |
+| 59 min | USD | Moderate | Exports |  |  | 261.10B |
+| 59 min | USD | Moderate | Imports |  |  | 322.70B |
+| 59 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.5% |
+| 59 min | USD | Moderate | Trade Balance (Oct) |  | -64.20B | -61.50B |
+| 59 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.9% | 2.2% |
+| 59 min | CAD | Low | Exports (Oct) |  |  | 67.03B |
+| 59 min | CAD | Low | Imports (Oct) |  |  | 64.99B |
+| 59 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
+| 59 min | CAD | Moderate | Trade Balance (Oct) |  | 1.60B | 2.04B |
 | 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 23:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |

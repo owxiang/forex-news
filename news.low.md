@@ -18,18 +18,18 @@
 | 18:00 | EUR | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 0.50% |  | 0.51% |
-| 16 min | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
-| 16 min | BRL | Budget Balance (Oct) |  | -41.750B | -99.785B |
-| 16 min | BRL | Budget Surplus (Oct) |  |  | -18.071B |
-| 46 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.37% |
-| 46 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.3% |
-| 46 min | USD | MBA Purchase Index |  |  | 144.9 |
-| 46 min | USD | Mortgage Market Index |  |  | 176.1 |
-| 46 min | USD | Mortgage Refinance Index |  |  | 327.8 |
-| 46 min | MXN | Consumer Confidence |  |  | 46.0 |
-| 46 min | MXN | Consumer Confidence n.s.a. |  |  | 45.7 |
-| 21:30 | CAD | Exports (Oct) |  |  | 67.03B |
-| 21:30 | CAD | Imports (Oct) |  |  | 64.99B |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Oct) | 60.0% |  | 60.0% |
+| 19:30 | BRL | Budget Balance (Oct) | -47.148B | -41.750B | -99.785B |
+| 19:30 | BRL | Budget Surplus (Oct) | 14.798B |  | -18.071B |
+| 20:00 | USD | MBA 30-Year Mortgage Rate | 7.17% |  | 7.37% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) | 2.8% |  | 0.3% |
+| 20:00 | USD | MBA Purchase Index | 144.5 |  | 144.9 |
+| 20:00 | USD | Mortgage Market Index | 181.1 |  | 176.1 |
+| 20:00 | USD | Mortgage Refinance Index | 373.3 |  | 327.8 |
+| 20:00 | MXN | Consumer Confidence | 47.3 |  | 46.0 |
+| 20:00 | MXN | Consumer Confidence n.s.a. | 46.9 |  | 45.7 |
+| 59 min | CAD | Exports (Oct) |  |  | 67.03B |
+| 59 min | CAD | Imports (Oct) |  |  | 64.99B |
 | 23:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.665M |
