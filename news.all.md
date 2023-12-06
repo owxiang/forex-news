@@ -7,8 +7,8 @@
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) | 12 |  | 6 |
+| 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.7% | 2.0% |
 | 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.3% | 0.4% |
-| 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.7% | 2.1% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.1% |  | 2.4% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
