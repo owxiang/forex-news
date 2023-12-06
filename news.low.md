@@ -9,7 +9,7 @@
 | 08:30 | AUD | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 15:00 | NOK | Current Account (Q3) |  |  | 171.3B |
+| 39 min | NOK | Current Account (Q3) |  |  | 171.3B |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |

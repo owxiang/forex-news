@@ -13,8 +13,8 @@
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.2% | 0.2% |
-| 15:00 | NOK | Low | Current Account (Q3) |  |  | 171.3B |
+| 39 min | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.2% | 0.2% |
+| 39 min | NOK | Low | Current Account (Q3) |  |  | 171.3B |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
