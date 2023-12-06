@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | 0.594M | -2.267M | -0.817M |
-| 08:30 | AUD | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 08:30 | AUD | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
+| 08:30 | AUD | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 09:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 15:00 | EUR | German Factory Orders (MoM) (Oct) | -3.7% | 0.2% | 0.7% |
 | 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Nov) | 45.5 | 46.3 | 45.6 |
@@ -21,7 +21,7 @@
 | 21:30 | CAD | Labor Productivity (QoQ) (Q3) | -0.8% | -0.6% | -0.1% |
 | 21:30 | CAD | Trade Balance (Oct) | 2.97B | 1.60B | 1.12B |
 | 21:35 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 45 min | CAD | BoC Rate Statement |  |  |  |
-| 45 min | CAD | Ivey PMI (Nov) |  | 54.2 | 53.4 |
-| 45 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.854M |
+| 23:00 | CAD | BoC Rate Statement |  |  |  |
+| 23:00 | CAD | Ivey PMI (Nov) | 54.7 | 54.2 | 53.4 |
+| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12 min | USD | Cushing Crude Oil Inventories |  |  | 1.854M |

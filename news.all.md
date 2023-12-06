@@ -7,8 +7,8 @@
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) | 12 |  | 6 |
-| 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
+| 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.1% |  | 2.7% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
@@ -63,18 +63,18 @@
 | 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | -0.8% | -0.6% | -0.1% |
 | 21:30 | CAD | Moderate | Trade Balance (Oct) | 2.97B | 1.60B | 1.12B |
 | 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 45 min | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 45 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
-| 45 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 45 min | CAD | Moderate | Ivey PMI (Nov) |  | 54.2 | 53.4 |
-| 45 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:30 | USD | High | Crude Oil Inventories |  | -1.354M | 1.609M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | -0.665M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.854M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | 0.060M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.526M | 5.217M |
-| 23:30 | USD | Low | Gasoline Production |  |  | -0.035M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.003M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
-| 23:30 | USD | Low | Gasoline Inventories |  | 1.027M | 1.764M |
+| 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 23:00 | CAD | Low | Ivey PMI n.s.a (Nov) | 53.2 |  | 51.9 |
+| 23:00 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
+| 23:00 | CAD | Moderate | Ivey PMI (Nov) | 54.7 | 54.2 | 53.4 |
+| 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12 min | USD | High | Crude Oil Inventories |  | -1.354M | 1.609M |
+| 12 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
+| 12 min | USD | Low | Crude Oil Imports |  |  | -0.665M |
+| 12 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.854M |
+| 12 min | USD | Low | Distillate Fuel Production |  |  | 0.060M |
+| 12 min | USD | Low | EIA Weekly Distillates Stocks |  | 1.526M | 5.217M |
+| 12 min | USD | Low | Gasoline Production |  |  | -0.035M |
+| 12 min | USD | Low | Heating Oil Stockpiles |  |  | 0.003M |
+| 12 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
+| 12 min | USD | Low | Gasoline Inventories |  | 1.027M | 1.764M |

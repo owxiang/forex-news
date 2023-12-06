@@ -43,12 +43,12 @@
 | 21:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.76M |
 | 21:30 | CAD | Exports (Oct) | 65.98B |  | 65.93B |
 | 21:30 | CAD | Imports (Oct) | 63.01B |  | 64.81B |
-| 45 min | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
-| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
-| 23:30 | USD | Crude Oil Imports |  |  | -0.665M |
-| 23:30 | USD | Distillate Fuel Production |  |  | 0.060M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | 1.526M | 5.217M |
-| 23:30 | USD | Gasoline Production |  |  | -0.035M |
-| 23:30 | USD | Heating Oil Stockpiles |  |  | 0.003M |
-| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
-| 23:30 | USD | Gasoline Inventories |  | 1.027M | 1.764M |
+| 23:00 | CAD | Ivey PMI n.s.a (Nov) | 53.2 |  | 51.9 |
+| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
+| 12 min | USD | Crude Oil Imports |  |  | -0.665M |
+| 12 min | USD | Distillate Fuel Production |  |  | 0.060M |
+| 12 min | USD | EIA Weekly Distillates Stocks |  | 1.526M | 5.217M |
+| 12 min | USD | Gasoline Production |  |  | -0.035M |
+| 12 min | USD | Heating Oil Stockpiles |  |  | 0.003M |
+| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.8% |
+| 12 min | USD | Gasoline Inventories |  | 1.027M | 1.764M |
