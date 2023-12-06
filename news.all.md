@@ -7,8 +7,8 @@
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) | 12 |  | 6 |
-| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
 | 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
+| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.1% |  | 2.7% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
@@ -16,13 +16,13 @@
 | 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) | -3.7% | 0.2% | 0.7% |
 | 15:00 | NOK | Low | Current Account (Q3) | 193.0B |  | 175.1B |
-| 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
-| 16:30 | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
-| 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
-| 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
+| 10 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
+| 10 min | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
+| 10 min | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
+| 10 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.3 | 45.6 |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
+| 18:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
 | 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
@@ -51,7 +51,6 @@
 | 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
 | 21:30 | CAD | Moderate | Trade Balance (Oct) |  | 1.60B | 2.04B |
 | 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 22:00 | USD | Low | Milk Auctions |  |  | 3,268.0 |
 | 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 23:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |

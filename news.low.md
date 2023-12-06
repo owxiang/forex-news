@@ -10,12 +10,12 @@
 | 08:30 | AUD | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 15:00 | NOK | Current Account (Q3) | 193.0B |  | 175.1B |
-| 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
-| 16:30 | EUR | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
-| 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
-| 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
-| 18:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
+| 10 min | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
+| 10 min | EUR | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
+| 10 min | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
+| 10 min | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
 | 18:00 | EUR | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
+| 18:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
@@ -31,7 +31,6 @@
 | 20:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) |  |  | 0.51% |
 | 21:30 | CAD | Exports (Oct) |  |  | 67.03B |
 | 21:30 | CAD | Imports (Oct) |  |  | 64.99B |
-| 22:00 | USD | Milk Auctions |  |  | 3,268.0 |
 | 23:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.665M |
