@@ -7,8 +7,8 @@
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) | 12 |  | 6 |
-| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
 | 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
+| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.1% |  | 2.7% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
@@ -21,6 +21,7 @@
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 45.5 | 46.3 | 45.6 |
+| 18:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.091% |  | 4.405% |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
 | 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
@@ -36,25 +37,37 @@
 | 20:00 | USD | Low | MBA Purchase Index | 144.5 |  | 144.9 |
 | 20:00 | USD | Low | Mortgage Market Index | 181.1 |  | 176.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 373.3 |  | 327.8 |
-| 20:00 | MXN | Low | Consumer Confidence | 47.3 |  | 46.0 |
+| 20:00 | MXN | Low | Consumer Confidence | 47.3 |  | 46.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.9 |  | 45.7 |
 | 20:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 21:15 | USD | High | ADP Nonfarm Employment Change (Nov) | 103K | 130K | 106K |
-| 10 min | USD | Moderate | Exports |  |  | 261.10B |
-| 10 min | USD | Moderate | Imports |  |  | 322.70B |
-| 10 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.5% |
-| 10 min | USD | Moderate | Trade Balance (Oct) |  | -64.20B | -61.50B |
-| 10 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.9% | 2.2% |
-| 10 min | CAD | Low | Exports (Oct) |  |  | 67.03B |
-| 10 min | CAD | Low | Imports (Oct) |  |  | 64.99B |
-| 10 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
-| 10 min | CAD | Moderate | Trade Balance (Oct) |  | 1.60B | 2.04B |
-| 15 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 23:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
-| 23:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 23:00 | CAD | Moderate | Ivey PMI (Nov) |  | 54.2 | 53.4 |
-| 23:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 21:15 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.96M | 0.96M | 0.96M |
+| 21:15 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.27M |
+| 21:15 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.21M | 0.21M | 0.21M |
+| 21:15 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M | 0.05M | 0.05M |
+| 21:15 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.20M | 3.20M | 3.20M |
+| 21:15 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.23M | 4.23M | 4.23M |
+| 21:15 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
+| 21:15 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.16M | 1.16M | 1.16M |
+| 21:15 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M | 1.45M | 1.45M |
+| 21:15 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
+| 21:15 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
+| 21:15 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.76M |
+| 21:30 | USD | Moderate | Exports | 258.80B |  | 261.10B |
+| 21:30 | USD | Moderate | Imports | 323.00B |  | 322.70B |
+| 21:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) | 5.2% | 4.9% | 3.5% |
+| 21:30 | USD | Moderate | Trade Balance (Oct) | -64.30B | -64.20B | -61.20B |
+| 21:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q3) | -1.2% | -0.9% | 2.2% |
+| 21:30 | CAD | Low | Exports (Oct) | 65.98B |  | 65.93B |
+| 21:30 | CAD | Low | Imports (Oct) | 63.01B |  | 64.81B |
+| 21:30 | CAD | Moderate | Labor Productivity (QoQ) (Q3) | -0.8% | -0.6% | -0.1% |
+| 21:30 | CAD | Moderate | Trade Balance (Oct) | 2.97B | 1.60B | 1.12B |
+| 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 45 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 45 min | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
+| 45 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 45 min | CAD | Moderate | Ivey PMI (Nov) |  | 54.2 | 53.4 |
+| 45 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 23:30 | USD | High | Crude Oil Inventories |  | -1.354M | 1.609M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.665M |

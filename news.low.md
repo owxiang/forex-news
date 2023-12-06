@@ -14,6 +14,7 @@
 | 16:30 | EUR | HCOB Germany Construction PMI (Nov) | 36.2 |  | 38.3 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
+| 18:00 | GBP | 10-Year Treasury Gilt Auction | 4.091% |  | 4.405% |
 | 18:00 | EUR | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
 | 18:00 | EUR | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
@@ -26,11 +27,23 @@
 | 20:00 | USD | MBA Purchase Index | 144.5 |  | 144.9 |
 | 20:00 | USD | Mortgage Market Index | 181.1 |  | 176.1 |
 | 20:00 | USD | Mortgage Refinance Index | 373.3 |  | 327.8 |
-| 20:00 | MXN | Consumer Confidence | 47.3 |  | 46.0 |
+| 20:00 | MXN | Consumer Confidence | 47.3 |  | 46.2 |
 | 20:00 | MXN | Consumer Confidence n.s.a. | 46.9 |  | 45.7 |
-| 10 min | CAD | Exports (Oct) |  |  | 67.03B |
-| 10 min | CAD | Imports (Oct) |  |  | 64.99B |
-| 23:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
+| 21:15 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.96M | 0.96M | 0.96M |
+| 21:15 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.27M |
+| 21:15 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.21M | 0.21M | 0.21M |
+| 21:15 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M | 0.05M | 0.05M |
+| 21:15 | USD | OPEC Crude oil Production Iran (Barrel) | 3.20M | 3.20M | 3.20M |
+| 21:15 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.23M | 4.23M | 4.23M |
+| 21:15 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.55M | 2.55M | 2.55M |
+| 21:15 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.16M | 1.16M | 1.16M |
+| 21:15 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M | 1.45M | 1.45M |
+| 21:15 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
+| 21:15 | USD | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
+| 21:15 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.76M | 0.76M | 0.76M |
+| 21:30 | CAD | Exports (Oct) | 65.98B |  | 65.93B |
+| 21:30 | CAD | Imports (Oct) | 63.01B |  | 64.81B |
+| 45 min | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.665M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.060M |
