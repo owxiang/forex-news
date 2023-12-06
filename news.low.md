@@ -14,8 +14,8 @@
 | 16:30 | EUR | HCOB Germany Construction PMI (Nov) | 36.2 |  | 38.3 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
-| 18:00 | EUR | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
 | 18:00 | EUR | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
+| 18:00 | EUR | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Nov) | 0.50% |  | 0.51% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) | 60.0% |  | 60.0% |
@@ -28,8 +28,8 @@
 | 20:00 | USD | Mortgage Refinance Index | 373.3 |  | 327.8 |
 | 20:00 | MXN | Consumer Confidence | 47.3 |  | 46.0 |
 | 20:00 | MXN | Consumer Confidence n.s.a. | 46.9 |  | 45.7 |
-| 59 min | CAD | Exports (Oct) |  |  | 67.03B |
-| 59 min | CAD | Imports (Oct) |  |  | 64.99B |
+| 10 min | CAD | Exports (Oct) |  |  | 67.03B |
+| 10 min | CAD | Imports (Oct) |  |  | 64.99B |
 | 23:00 | CAD | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.518M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.665M |

@@ -21,8 +21,8 @@
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 45.5 | 46.3 | 45.6 |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
+| 18:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
 | 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
@@ -38,18 +38,18 @@
 | 20:00 | USD | Low | Mortgage Refinance Index | 373.3 |  | 327.8 |
 | 20:00 | MXN | Low | Consumer Confidence | 47.3 |  | 46.0 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. | 46.9 |  | 45.7 |
-| 14 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 44 min | USD | High | ADP Nonfarm Employment Change (Nov) |  | 130K | 113K |
-| 59 min | USD | Moderate | Exports |  |  | 261.10B |
-| 59 min | USD | Moderate | Imports |  |  | 322.70B |
-| 59 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.5% |
-| 59 min | USD | Moderate | Trade Balance (Oct) |  | -64.20B | -61.50B |
-| 59 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.9% | 2.2% |
-| 59 min | CAD | Low | Exports (Oct) |  |  | 67.03B |
-| 59 min | CAD | Low | Imports (Oct) |  |  | 64.99B |
-| 59 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
-| 59 min | CAD | Moderate | Trade Balance (Oct) |  | 1.60B | 2.04B |
-| 21:35 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 20:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 21:15 | USD | High | ADP Nonfarm Employment Change (Nov) | 103K | 130K | 106K |
+| 10 min | USD | Moderate | Exports |  |  | 261.10B |
+| 10 min | USD | Moderate | Imports |  |  | 322.70B |
+| 10 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q3) |  | 4.9% | 3.5% |
+| 10 min | USD | Moderate | Trade Balance (Oct) |  | -64.20B | -61.50B |
+| 10 min | USD | Moderate | Unit Labor Costs (QoQ) (Q3) |  | -0.9% | 2.2% |
+| 10 min | CAD | Low | Exports (Oct) |  |  | 67.03B |
+| 10 min | CAD | Low | Imports (Oct) |  |  | 64.99B |
+| 10 min | CAD | Moderate | Labor Productivity (QoQ) (Q3) |  | -0.6% | -0.6% |
+| 10 min | CAD | Moderate | Trade Balance (Oct) |  | 1.60B | 2.04B |
+| 15 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 23:00 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 23:00 | CAD | Low | Ivey PMI n.s.a (Nov) |  |  | 51.9 |
 | 23:00 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
