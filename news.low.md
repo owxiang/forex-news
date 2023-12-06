@@ -15,7 +15,7 @@
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
 | 18:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
-| 18:00 | EUR | Retail Sales (YoY) (Oct) |  | -0.9% | -2.9% |
+| 18:00 | EUR | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
