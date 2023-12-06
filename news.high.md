@@ -1,7 +1,5 @@
-## 06 December 2023 - High Impact Forex News
+## 07 December 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:15 | USD | ADP Nonfarm Employment Change (Nov) | 103K | 130K | 106K |
-| 23:00 | CAD | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
-| 12 min | USD | Crude Oil Inventories |  | -1.354M | 1.609M |
+| 21:30 | USD | Initial Jobless Claims |  | 222K | 218K |

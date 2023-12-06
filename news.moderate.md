@@ -1,27 +1,23 @@
-## 06 December 2023 - Moderate Impact Forex News
+## 07 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock | 0.594M | -2.267M | -0.817M |
-| 08:30 | AUD | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
-| 08:30 | AUD | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
-| 09:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
-| 15:00 | EUR | German Factory Orders (MoM) (Oct) | -3.7% | 0.2% | 0.7% |
-| 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Nov) | 45.5 | 46.3 | 45.6 |
-| 18:30 | GBP | BoE Financial Stability Report |  |  |  |
-| 19:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Oct) | 74.7% | 74.5% | 74.4% |
-| 20:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 21:30 | USD | Exports | 258.80B |  | 261.10B |
-| 21:30 | USD | Imports | 323.00B |  | 322.70B |
-| 21:30 | USD | Nonfarm Productivity (QoQ) (Q3) | 5.2% | 4.9% | 3.5% |
-| 21:30 | USD | Trade Balance (Oct) | -64.30B | -64.20B | -61.20B |
-| 21:30 | USD | Unit Labor Costs (QoQ) (Q3) | -1.2% | -0.9% | 2.2% |
-| 21:30 | CAD | Labor Productivity (QoQ) (Q3) | -0.8% | -0.6% | -0.1% |
-| 21:30 | CAD | Trade Balance (Oct) | 2.97B | 1.60B | 1.12B |
-| 21:35 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 23:00 | CAD | BoC Rate Statement |  |  |  |
-| 23:00 | CAD | Ivey PMI (Nov) | 54.7 | 54.2 | 53.4 |
-| 23:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12 min | USD | Cushing Crude Oil Inventories |  |  | 1.854M |
+| 8 min | USD | Atlanta Fed GDPNow (Q4) |  | 1.2% | 1.2% |
+| 08:30 | AUD | Building Approvals (MoM) |  | 7.5% | -4.6% |
+| 08:30 | AUD | Trade Balance (Oct) |  | 7.500B | 6.786B |
+| 11:00 | CNY | Exports (YoY) (Nov) |  | -1.1% | -6.4% |
+| 11:00 | CNY | Imports (YoY) (Nov) |  | 3.3% | 3.0% |
+| 11:00 | CNY | Trade Balance (USD) (Nov) |  | 58.00B | 56.53B |
+| 15:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 1.1% |
+| 15:00 | GBP | Halifax House Price Index (YoY) (Nov) |  |  | -3.2% |
+| 15:00 | EUR | German Industrial Production (MoM) (Oct) |  | 0.2% | -1.4% |
+| 17:20 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 17:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.726% |
+| 18:00 | GBP | Mortgage Rate (GBP) |  |  | 8.01% |
+| 18:00 | EUR | Eurogroup Meetings |  |  |  |
+| 18:00 | EUR | GDP (YoY) |  | 0.1% | 0.5% |
+| 18:00 | EUR | GDP (QoQ) (Q3) |  | -0.1% | 0.1% |
+| 20:00 | MXN | CPI (YoY) (Nov) |  | 4.40% | 4.26% |
+| 20:00 | MXN | CPI (MoM) (Nov) |  | 0.72% | 0.38% |
+| 21:30 | CAD | Building Permits (MoM) (Oct) |  | 2.9% | -6.5% |
+| 22:30 | EUR | ECB's Elderson Speaks |  |  |  |
