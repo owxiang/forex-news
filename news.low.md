@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | AUD | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
-| 07:00 | JPY | Reuters Tankan Index (Dec) |  |  | 6 |
-| 08:30 | AUD | GDP Capital Expenditure (Q3) |  |  | 2.4% |
-| 08:30 | AUD | GDP Chain Price Index (Q3) |  |  | -2.2% |
-| 08:30 | AUD | GDP Final Consumption (Q3) |  |  | 0.2% |
+| 07:00 | JPY | Reuters Tankan Index (Dec) | 12 |  | 6 |
+| 08:30 | AUD | GDP Capital Expenditure (Q3) | 1.1% |  | 2.4% |
+| 08:30 | AUD | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
+| 08:30 | AUD | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 15:00 | NOK | Current Account (Q3) |  |  | 171.3B |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
