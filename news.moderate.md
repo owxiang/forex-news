@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | 0.594M | -2.267M | -0.817M |
-| 08:30 | AUD | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 08:30 | AUD | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
+| 08:30 | AUD | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
 | 15:00 | EUR | German Factory Orders (MoM) (Oct) |  | 0.2% | 0.2% |
 | 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.3 | 45.6 |
 | 18:30 | GBP | BoE Financial Stability Report |  |  |  |

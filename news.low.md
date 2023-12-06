@@ -5,7 +5,7 @@
 | 06:00 | AUD | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Reuters Tankan Index (Dec) | 12 |  | 6 |
-| 08:30 | AUD | GDP Capital Expenditure (Q3) | 1.1% |  | 2.4% |
+| 08:30 | AUD | GDP Capital Expenditure (Q3) | 1.1% |  | 2.7% |
 | 08:30 | AUD | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
@@ -14,8 +14,8 @@
 | 16:30 | EUR | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
-| 18:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
 | 18:00 | EUR | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
+| 18:00 | EUR | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
 | 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
