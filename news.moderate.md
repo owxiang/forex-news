@@ -19,5 +19,6 @@
 | 18:00 | EUR | GDP (QoQ) (Q3) |  | -0.1% | 0.1% |
 | 20:00 | MXN | CPI (YoY) (Nov) |  | 4.40% | 4.26% |
 | 20:00 | MXN | CPI (MoM) (Nov) |  | 0.72% | 0.38% |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,910K | 1,927K |
 | 21:30 | CAD | Building Permits (MoM) (Oct) |  | 2.9% | -6.5% |
 | 22:30 | EUR | ECB's Elderson Speaks |  |  |  |

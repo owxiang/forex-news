@@ -38,8 +38,8 @@
 | 15:45 | EUR | Low | French Trade Balance (Oct) |  | -8.5B | -8.9B |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 657.8B |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
+| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
 | 17:00 | ZAR | Low | Current Account (Q3) |  | -111.2B | -160.7B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q3) |  |  | -2.30% |
@@ -47,8 +47,8 @@
 | 17:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.726% |
 | 17:40 | EUR | Low | Spanish 6-Year Obligacion Auction |  |  | 0.849% |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 8.01% |
-| 18:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.1% | -0.3% |
 | 18:00 | EUR | Low | Italian Retail Sales (YoY) (Oct) |  |  | 1.3% |
+| 18:00 | EUR | Low | Italian Retail Sales (MoM) (Oct) |  | 0.1% | -0.3% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.32% |
 | 18:00 | EUR | Low | Employment Change (YoY) (Q3) |  | 1.4% | 1.3% |
 | 18:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.3% | 0.2% |
@@ -61,11 +61,11 @@
 | 20:00 | MXN | Moderate | CPI (YoY) (Nov) |  | 4.40% | 4.26% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Nov) |  | 0.72% | 0.38% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
-| 20:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 1.30% |
 | 20:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.50% |
+| 20:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 1.30% |
 | 20:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 36.836K |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
-| 21:30 | USD | Low | Continuing Jobless Claims |  | 1,910K | 1,927K |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,927K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 222K | 218K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.00K |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Oct) |  | 2.9% | -6.5% |
