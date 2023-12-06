@@ -7,8 +7,8 @@
 | 06:00 | AUD | Low | AIG Construction Index (Nov) | -22.2 |  | 18.5 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Nov) | -25.3 |  | -20.9 |
 | 07:00 | JPY | Low | Reuters Tankan Index (Dec) | 12 |  | 6 |
-| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
 | 08:30 | AUD | Moderate | GDP (YoY) (Q3) | 2.1% | 1.8% | 2.0% |
+| 08:30 | AUD | Moderate | GDP (QoQ) (Q3) | 0.2% | 0.4% | 0.4% |
 | 08:30 | AUD | Low | GDP Capital Expenditure (Q3) | 1.1% |  | 2.7% |
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
@@ -21,24 +21,23 @@
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 45.5 | 46.3 | 45.6 |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
-| 13 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 13 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 43 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 43 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
-| 19:30 | BRL | Low | Budget Balance (Oct) |  | -41.750B | -99.785B |
-| 19:30 | BRL | Low | Budget Surplus (Oct) |  |  | -18.071B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  | 74.5% | 74.4% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.37% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
-| 20:00 | USD | Low | MBA Purchase Index |  |  | 144.9 |
-| 20:00 | USD | Low | Mortgage Market Index |  |  | 176.1 |
-| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 327.8 |
-| 20:00 | MXN | Low | Consumer Confidence |  |  | 46.0 |
-| 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.7 |
-| 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) |  |  | 0.51% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
+| 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Nov) | 0.50% |  | 0.51% |
+| 16 min | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
+| 16 min | BRL | Low | Budget Balance (Oct) |  | -41.750B | -99.785B |
+| 16 min | BRL | Low | Budget Surplus (Oct) |  |  | -18.071B |
+| 16 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Oct) |  | 74.5% | 74.4% |
+| 46 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.37% |
+| 46 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.3% |
+| 46 min | USD | Low | MBA Purchase Index |  |  | 144.9 |
+| 46 min | USD | Low | Mortgage Market Index |  |  | 176.1 |
+| 46 min | USD | Low | Mortgage Refinance Index |  |  | 327.8 |
+| 46 min | MXN | Low | Consumer Confidence |  |  | 46.0 |
+| 46 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 45.7 |
 | 20:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 21:15 | USD | High | ADP Nonfarm Employment Change (Nov) |  | 130K | 113K |
 | 21:30 | USD | Moderate | Exports |  |  | 261.10B |
