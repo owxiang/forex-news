@@ -20,13 +20,13 @@
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Nov) | 36.2 |  | 38.3 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
-| 14 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.3 | 45.6 |
-| 44 min | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
-| 44 min | EUR | Low | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
-| 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) | 45.5 | 46.3 | 45.6 |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
+| 18:00 | EUR | Low | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
+| 13 min | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 13 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 43 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 43 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
 | 19:30 | BRL | Low | Budget Balance (Oct) |  | -41.750B | -99.785B |
 | 19:30 | BRL | Low | Budget Surplus (Oct) |  |  | -18.071B |

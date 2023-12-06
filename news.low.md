@@ -14,10 +14,10 @@
 | 16:30 | EUR | HCOB Germany Construction PMI (Nov) | 36.2 |  | 38.3 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Nov) | 44.6 |  | 41.0 |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Nov) | 43.4 |  | 42.7 |
-| 44 min | EUR | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
-| 44 min | EUR | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
-| 18:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 18:00 | EUR | Retail Sales (YoY) (Oct) | -1.2% | -1.1% | -2.9% |
+| 18:00 | EUR | Retail Sales (MoM) (Oct) | 0.1% | 0.2% | -0.1% |
+| 13 min | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 43 min | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Oct) |  |  | 60.0% |
 | 19:30 | BRL | Budget Balance (Oct) |  | -41.750B | -99.785B |
 | 19:30 | BRL | Budget Surplus (Oct) |  |  | -18.071B |
