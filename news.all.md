@@ -13,15 +13,16 @@
 | 08:30 | AUD | Low | GDP Chain Price Index (Q3) | 0.6% |  | -2.2% |
 | 08:30 | AUD | Low | GDP Final Consumption (Q3) | 0.4% |  | 0.2% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 39 min | EUR | Moderate | German Factory Orders (MoM) (Oct) |  | 0.2% | 0.2% |
-| 39 min | NOK | Low | Current Account (Q3) |  |  | 171.3B |
+| 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Oct) | -3.7% | 0.2% | 0.7% |
+| 15:00 | NOK | Low | Current Account (Q3) | 193.0B |  | 175.1B |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Nov) |  |  | 51.8 |
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Nov) |  |  | 38.3 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Nov) |  |  | 41.0 |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Nov) |  |  | 42.7 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Nov) |  | 46.3 | 45.6 |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Oct) |  | 0.2% | -0.3% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Oct) |  | -1.1% | -2.9% |
 | 18:30 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 18:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 19:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
