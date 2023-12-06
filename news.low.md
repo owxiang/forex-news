@@ -29,23 +29,23 @@
 | 15:45 | EUR | French Trade Balance (Oct) |  | -8.5B | -8.9B |
 | 16:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 657.8B |
 | 16:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
 | 17:00 | ZAR | Current Account (Q3) |  | -111.2B | -160.7B |
 | 17:00 | ZAR | Current Account % of GDP (Q3) |  |  | -2.30% |
 | 17:40 | EUR | Spanish 6-Year Obligacion Auction |  |  | 0.849% |
-| 18:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 1.3% |
 | 18:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.1% | -0.3% |
+| 18:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 1.3% |
 | 18:00 | EUR | French 10-Year OAT Auction |  |  | 3.32% |
-| 18:00 | EUR | Employment Change (YoY) (Q3) |  | 1.4% | 1.3% |
 | 18:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.3% | 0.2% |
+| 18:00 | EUR | Employment Change (YoY) (Q3) |  | 1.4% | 1.3% |
 | 18:00 | EUR | Employment Overall (Q3) |  | 166,966.2K | 166,745.3K |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 20:00 | MXN | Core CPI (MoM) (Nov) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
-| 20:00 | MXN | PPI (MoM) (Nov) |  |  | 0.50% |
 | 20:00 | MXN | PPI (YoY) (Nov) |  |  | 1.30% |
+| 20:00 | MXN | PPI (MoM) (Nov) |  |  | 0.50% |
 | 20:30 | USD | Challenger Job Cuts (Nov) |  |  | 36.836K |
 | 20:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.00K |
