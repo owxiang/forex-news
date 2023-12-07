@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | Foreign Bonds Buying |  |  | -84.5B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 4.2B |
-| 34 min | JPY | Foreign Reserves (USD) (Nov) |  |  | 1,238.0B |
+| 07:50 | JPY | Foreign Bonds Buying | 64.5B |  | -84.3B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | -358.3B |  | 4.5B |
+| 07:50 | JPY | Foreign Reserves (USD) (Nov) | 1,269.7B |  | 1,238.0B |
 | 08:30 | AUD | Building Approvals (YoY) |  | -6.10% | -20.60% |
-| 08:30 | AUD | Exports (MoM) (Oct) |  |  | -1.4% |
-| 08:30 | AUD | Imports (MoM) (Oct) |  |  | 7.5% |
+| 08:30 | AUD | Exports (MoM) (Oct) | 0.4% |  | -1.4% |
+| 08:30 | AUD | Imports (MoM) (Oct) | -1.9% |  | 7.5% |
 | 11:00 | CNY | Exports (Nov) |  |  | -3.10M |
 | 11:00 | CNY | Imports (Nov) |  |  | 6.40M |
 | 11:00 | CNY | Trade Balance (Nov) |  | 380.00B | 405.47B |
@@ -29,14 +29,14 @@
 | 15:45 | EUR | French Trade Balance (Oct) |  | -8.5B | -8.9B |
 | 16:00 | CHF | Foreign Reserves (USD) (Nov) |  |  | 657.8B |
 | 16:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
-| 17:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
+| 17:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
 | 17:00 | ZAR | Current Account (Q3) |  | -111.2B | -160.7B |
 | 17:00 | ZAR | Current Account % of GDP (Q3) |  |  | -2.30% |
 | 17:40 | EUR | Spanish 6-Year Obligacion Auction |  |  | 0.849% |
-| 18:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.1% | -0.3% |
 | 18:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 1.3% |
+| 18:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.1% | -0.3% |
 | 18:00 | EUR | French 10-Year OAT Auction |  |  | 3.32% |
 | 18:00 | EUR | Employment Change (YoY) (Q3) |  | 1.4% | 1.3% |
 | 18:00 | EUR | Employment Change (QoQ) (Q3) |  | 0.3% | 0.2% |
@@ -44,10 +44,10 @@
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 20:00 | MXN | Core CPI (MoM) (Nov) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
-| 20:00 | MXN | PPI (YoY) (Nov) |  |  | 1.30% |
 | 20:00 | MXN | PPI (MoM) (Nov) |  |  | 0.50% |
-| 20:30 | USD | Challenger Job Cuts (Nov) |  |  | 36.836K |
+| 20:00 | MXN | PPI (YoY) (Nov) |  |  | 1.30% |
 | 20:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 20:30 | USD | Challenger Job Cuts (Nov) |  |  | 36.836K |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.00K |
 | 23:00 | USD | Wholesale Inventories (MoM) (Oct) |  | -0.2% | 0.2% |
 | 23:00 | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | 2.2% |
