@@ -6,8 +6,8 @@
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.280% |
 | 01:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 01:30 | BRL | Foreign Exchange Flows | 3.609B |  | 0.264B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.395T |
-| 05:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 2.9% |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.395T |
+| 31 min | NZD | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 2.9% |
 | 07:00 | KRW | Current Account (Oct) |  |  | 5.42B |
 | 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.0% | 1.2% |
 | 07:30 | JPY | Overall wage income of employees (Oct) |  |  | 1.2% |
