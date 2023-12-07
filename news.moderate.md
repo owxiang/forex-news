@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:40 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 01:45 | USD | Atlanta Fed GDPNow (Q4) | 1.2% | 1.3% | 1.3% |
-| 45 min | USD | Consumer Credit (Oct) |  | 9.00B | 9.06B |
+| 04:00 | USD | Consumer Credit (Oct) | 5.13B | 9.00B | 12.22B |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,796B |
 | 07:30 | JPY | Household Spending (YoY) (Oct) |  | -3.0% | -2.8% |
 | 07:30 | JPY | Household Spending (MoM) (Oct) |  | -0.2% | 0.3% |

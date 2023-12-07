@@ -8,7 +8,7 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | 3.609B |  | 0.264B |
 | 01:40 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 01:45 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 1.2% | 1.3% | 1.3% |
-| 45 min | USD | Moderate | Consumer Credit (Oct) |  | 9.00B | 9.06B |
+| 04:00 | USD | Moderate | Consumer Credit (Oct) | 5.13B | 9.00B | 12.22B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,796B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.395T |
 | 05:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) |  |  | 2.9% |
