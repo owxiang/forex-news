@@ -27,22 +27,23 @@
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Nov) | 2.1% |  | 2.0% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Nov) | 2.1% | 2.1% | 2.1% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) | -1.0% |  | -3.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 0.5% | 0.3% | 1.1% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) | 0.5% | 0.3% | 1.2% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) | -0.4% | 0.2% | -1.3% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Oct) | -3.38% |  | -3.76% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Oct) | 0.6% |  | -1.3% |
-| 30 min | EUR | Low | French Current Account (Oct) |  |  | -2.50B |
-| 30 min | EUR | Low | French Exports (Oct) |  |  | 49.1B |
-| 30 min | EUR | Low | French Imports (Oct) |  |  | 58.0B |
-| 30 min | EUR | Low | French Reserve Assets Total (Nov) |  |  | 224,598.0M |
-| 30 min | EUR | Low | French Trade Balance (Oct) |  | -8.5B | -8.9B |
-| 45 min | CHF | Low | Foreign Reserves (USD) (Nov) |  |  | 657.8B |
-| 16:30 | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
-| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
-| 17:00 | ZAR | Low | Current Account (Q3) |  | -111.2B | -160.7B |
-| 17:00 | ZAR | Low | Current Account % of GDP (Q3) |  |  | -2.30% |
+| 15:45 | EUR | Low | French Current Account (Oct) | -2.90B |  | -2.80B |
+| 15:45 | EUR | Low | French Exports (Oct) | 49.7B |  | 49.1B |
+| 15:45 | EUR | Low | French Imports (Oct) | 58.3B |  | 57.9B |
+| 15:45 | EUR | Low | French Trade Balance (Oct) | -8.6B | -8.5B | -8.9B |
+| 16:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 641.7B |  | 657.5B |
+| 16:15 | CNY | Low | FX Reserves (USD) (Nov) | 3.172T | 3.120T | 3.101T |
+| 10 min | HKD | Low | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
+| 40 min | EUR | Low | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
+| 40 min | EUR | Low | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
+| 40 min | EUR | Low | French Reserve Assets Total (Nov) |  |  | 224,598.0M |
+| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
+| 40 min | ZAR | Low | Current Account (Q3) |  | -111.2B | -160.7B |
+| 40 min | ZAR | Low | Current Account % of GDP (Q3) |  |  | -2.30% |
 | 17:20 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 17:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.726% |
 | 17:40 | EUR | Low | Spanish 6-Year Obligacion Auction |  |  | 0.849% |
@@ -54,8 +55,8 @@
 | 18:00 | EUR | Low | Employment Change (QoQ) (Q3) |  | 0.3% | 0.2% |
 | 18:00 | EUR | Low | Employment Overall (Q3) |  | 166,966.2K | 166,745.3K |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | -0.1% | 0.1% |
 | 18:00 | EUR | Moderate | GDP (YoY) |  | 0.1% | 0.5% |
+| 18:00 | EUR | Moderate | GDP (QoQ) (Q3) |  | -0.1% | 0.1% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Nov) |  | 0.30% | 0.39% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Nov) |  | 4.40% | 4.26% |
@@ -63,8 +64,8 @@
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
 | 20:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 1.30% |
-| 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 20:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 36.836K |
+| 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,927K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 222K | 218K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.00K |
@@ -73,4 +74,3 @@
 | 23:00 | USD | Low | Wholesale Inventories (MoM) (Oct) |  | -0.2% | 0.2% |
 | 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | 2.2% |
 | 23:30 | USD | Low | Natural Gas Storage |  | -105B | 10B |
-| 23:50 | CNY | Low | FX Reserves (USD) (Nov) |  | 3.120T | 3.101T |

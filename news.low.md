@@ -22,18 +22,19 @@
 | 14:45 | CHF | Unemployment Rate s.a. (Nov) | 2.1% | 2.1% | 2.1% |
 | 15:00 | EUR | German Industrial Production (YoY) (Oct) | -3.38% |  | -3.76% |
 | 15:00 | NOK | Manufacturing Production (MoM) (Oct) | 0.6% |  | -1.3% |
-| 30 min | EUR | French Current Account (Oct) |  |  | -2.50B |
-| 30 min | EUR | French Exports (Oct) |  |  | 49.1B |
-| 30 min | EUR | French Imports (Oct) |  |  | 58.0B |
-| 30 min | EUR | French Reserve Assets Total (Nov) |  |  | 224,598.0M |
-| 30 min | EUR | French Trade Balance (Oct) |  | -8.5B | -8.9B |
-| 45 min | CHF | Foreign Reserves (USD) (Nov) |  |  | 657.8B |
-| 16:30 | HKD | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
-| 17:00 | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
-| 17:00 | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
-| 17:00 | ZAR | Current Account (Q3) |  | -111.2B | -160.7B |
-| 17:00 | ZAR | Current Account % of GDP (Q3) |  |  | -2.30% |
+| 15:45 | EUR | French Current Account (Oct) | -2.90B |  | -2.80B |
+| 15:45 | EUR | French Exports (Oct) | 49.7B |  | 49.1B |
+| 15:45 | EUR | French Imports (Oct) | 58.3B |  | 57.9B |
+| 15:45 | EUR | French Trade Balance (Oct) | -8.6B | -8.5B | -8.9B |
+| 16:00 | CHF | Foreign Reserves (USD) (Nov) | 641.7B |  | 657.5B |
+| 16:15 | CNY | FX Reserves (USD) (Nov) | 3.172T | 3.120T | 3.101T |
+| 10 min | HKD | Foreign Reserves (USD) (Nov) |  |  | 416.00B |
+| 40 min | EUR | Italian Industrial Production (YoY) (Oct) |  |  | -2.0% |
+| 40 min | EUR | Italian Industrial Production (MoM) (Oct) |  | -0.3% | 0.0% |
+| 40 min | EUR | French Reserve Assets Total (Nov) |  |  | 224,598.0M |
+| 40 min | SGD | Foreign Reserves USD (MoM) (Nov) |  |  | 338.2B |
+| 40 min | ZAR | Current Account (Q3) |  | -111.2B | -160.7B |
+| 40 min | ZAR | Current Account % of GDP (Q3) |  |  | -2.30% |
 | 17:40 | EUR | Spanish 6-Year Obligacion Auction |  |  | 0.849% |
 | 18:00 | EUR | Italian Retail Sales (YoY) (Oct) |  |  | 1.3% |
 | 18:00 | EUR | Italian Retail Sales (MoM) (Oct) |  | 0.1% | -0.3% |
@@ -46,10 +47,9 @@
 | 20:00 | MXN | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
 | 20:00 | MXN | PPI (MoM) (Nov) |  |  | 0.50% |
 | 20:00 | MXN | PPI (YoY) (Nov) |  |  | 1.30% |
-| 20:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 20:30 | USD | Challenger Job Cuts (Nov) |  |  | 36.836K |
+| 20:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.00K |
 | 23:00 | USD | Wholesale Inventories (MoM) (Oct) |  | -0.2% | 0.2% |
 | 23:00 | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | 2.2% |
 | 23:30 | USD | Natural Gas Storage |  | -105B | 10B |
-| 23:50 | CNY | FX Reserves (USD) (Nov) |  | 3.120T | 3.101T |
