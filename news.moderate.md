@@ -6,12 +6,12 @@
 | 01:45 | USD | Atlanta Fed GDPNow (Q4) | 1.2% | 1.3% | 1.3% |
 | 04:00 | USD | Consumer Credit (Oct) | 5.13B | 9.00B | 12.22B |
 | 05:30 | USD | Fed's Balance Sheet | 7,737B |  | 7,796B |
-| 07:30 | JPY | Household Spending (YoY) (Oct) |  | -3.0% | -2.8% |
-| 07:30 | JPY | Household Spending (MoM) (Oct) |  | -0.2% | 0.3% |
-| 07:50 | JPY | Adjusted Current Account (Oct) |  | 1.85T | 2.01T |
-| 07:50 | JPY | Current Account n.s.a. (Oct) |  |  | 2.724T |
-| 07:50 | JPY | GDP (YoY) (Q3) |  | -2.1% | 4.8% |
-| 07:50 | JPY | GDP Price Index (YoY) (Q3) |  | 5.1% | 3.5% |
+| 14 min | JPY | Household Spending (YoY) (Oct) |  | -3.0% | -2.8% |
+| 14 min | JPY | Household Spending (MoM) (Oct) |  | -0.2% | 0.3% |
+| 34 min | JPY | Adjusted Current Account (Oct) |  | 1.85T | 2.01T |
+| 34 min | JPY | Current Account n.s.a. (Oct) |  |  | 2.724T |
+| 34 min | JPY | GDP (YoY) (Q3) |  | -2.1% | 4.8% |
+| 34 min | JPY | GDP Price Index (YoY) (Q3) |  | 5.1% | 3.5% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 15:00 | EUR | German CPI (YoY) (Nov) |  | 3.2% | 3.8% |
 | 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  | 4.0% | 4.1% |

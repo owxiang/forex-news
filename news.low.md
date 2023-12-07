@@ -7,16 +7,16 @@
 | 01:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 01:30 | BRL | Foreign Exchange Flows | 3.609B |  | 0.264B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.497T |  | 3.395T |
-| 05:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) | -1.1% | 0.6% | -15.5% |
-| 45 min | KRW | Current Account (Oct) |  |  | 5.42B |
-| 07:30 | JPY | Average Cash Earnings (YoY) |  | 1.0% | 1.2% |
-| 07:30 | JPY | Overall wage income of employees (Oct) |  |  | 1.2% |
-| 07:30 | JPY | Overtime Pay (YoY) (Oct) |  |  | 0.70% |
-| 07:50 | JPY | Bank Lending (YoY) (Nov) |  | 2.8% | 2.8% |
-| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.6% | -1.0% |
-| 07:50 | JPY | GDP External Demand (QoQ) (Q3) |  | -0.1% | 1.8% |
-| 07:50 | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.0% | -0.6% |
-| 07:50 | JPY | M2 Money Stock (YoY) |  |  | 2.4% |
+| 05:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) | -2.7% | 0.6% | 2.6% |
+| 07:00 | KRW | Current Account (Oct) | 6.80B |  | 5.42B |
+| 14 min | JPY | Average Cash Earnings (YoY) |  | 1.0% | 1.2% |
+| 14 min | JPY | Overall wage income of employees (Oct) |  |  | 1.2% |
+| 14 min | JPY | Overtime Pay (YoY) (Oct) |  |  | 0.70% |
+| 34 min | JPY | Bank Lending (YoY) (Nov) |  | 2.8% | 2.8% |
+| 34 min | JPY | GDP Capital Expenditure (QoQ) (Q3) |  | -0.6% | -1.0% |
+| 34 min | JPY | GDP External Demand (QoQ) (Q3) |  | -0.1% | 1.8% |
+| 34 min | JPY | GDP Private Consumption (QoQ) (Q3) |  | 0.0% | -0.6% |
+| 34 min | JPY | M2 Money Stock (YoY) |  |  | 2.4% |
 | 11:00 | IDR | Consumer Confidence (Nov) |  |  | 124.3 |
 | 11:00 | IDR | Retail Sales (YoY) |  |  | 1.5% |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
