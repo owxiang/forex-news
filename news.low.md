@@ -5,12 +5,12 @@
 | 07:50 | JPY | Foreign Bonds Buying | 64.5B |  | -84.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -358.3B |  | 4.5B |
 | 07:50 | JPY | Foreign Reserves (USD) (Nov) | 1,269.7B |  | 1,238.0B |
-| 08:30 | AUD | Building Approvals (YoY) |  | -6.10% | -20.60% |
-| 08:30 | AUD | Exports (MoM) (Oct) | 0.4% |  | -1.4% |
-| 08:30 | AUD | Imports (MoM) (Oct) | -1.9% |  | 7.5% |
-| 11:00 | CNY | Exports (Nov) |  |  | -3.10M |
-| 11:00 | CNY | Imports (Nov) |  |  | 6.40M |
-| 11:00 | CNY | Trade Balance (Nov) |  | 380.00B | 405.47B |
+| 08:30 | AUD | Building Approvals (YoY) | -6.10% | -6.10% | -20.60% |
+| 08:30 | AUD | Exports (MoM) (Oct) | 0.4% |  | -1.8% |
+| 08:30 | AUD | Imports (MoM) (Oct) | -1.9% |  | 8.0% |
+| 31 min | CNY | Exports (Nov) |  |  | -3.10M |
+| 31 min | CNY | Imports (Nov) |  |  | 6.40M |
+| 31 min | CNY | Trade Balance (Nov) |  | 380.00B | 405.47B |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.741% |
 | 12:00 | IDR | FX Reserves (USD) (Nov) |  |  | 133.10B |
 | 13:00 | JPY | Coincident Indicator (MoM) (Oct) |  |  | 0.1% |

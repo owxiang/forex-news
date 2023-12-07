@@ -6,17 +6,17 @@
 | 07:50 | JPY | Low | Foreign Bonds Buying | 64.5B |  | -84.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -358.3B |  | 4.5B |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Nov) | 1,269.7B |  | 1,238.0B |
-| 08:30 | AUD | Low | Building Approvals (YoY) |  | -6.10% | -20.60% |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) |  | 7.5% | -4.6% |
-| 08:30 | AUD | Low | Exports (MoM) (Oct) | 0.4% |  | -1.4% |
-| 08:30 | AUD | Low | Imports (MoM) (Oct) | -1.9% |  | 7.5% |
-| 08:30 | AUD | Moderate | Trade Balance (Oct) | 7.129B | 7.500B | 6.786B |
-| 11:00 | CNY | Low | Exports (Nov) |  |  | -3.10M |
-| 11:00 | CNY | Low | Imports (Nov) |  |  | 6.40M |
-| 11:00 | CNY | Low | Trade Balance (Nov) |  | 380.00B | 405.47B |
-| 11:00 | CNY | Moderate | Exports (YoY) (Nov) |  | -1.1% | -6.4% |
-| 11:00 | CNY | Moderate | Imports (YoY) (Nov) |  | 3.3% | 3.0% |
-| 11:00 | CNY | Moderate | Trade Balance (USD) (Nov) |  | 58.00B | 56.53B |
+| 08:30 | AUD | Low | Building Approvals (YoY) | -6.10% | -6.10% | -20.60% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) | 7.5% | 7.5% | -4.6% |
+| 08:30 | AUD | Low | Exports (MoM) (Oct) | 0.4% |  | -1.8% |
+| 08:30 | AUD | Low | Imports (MoM) (Oct) | -1.9% |  | 8.0% |
+| 08:30 | AUD | Moderate | Trade Balance (Oct) | 7.129B | 7.500B | 6.184B |
+| 31 min | CNY | Low | Exports (Nov) |  |  | -3.10M |
+| 31 min | CNY | Low | Imports (Nov) |  |  | 6.40M |
+| 31 min | CNY | Low | Trade Balance (Nov) |  | 380.00B | 405.47B |
+| 31 min | CNY | Moderate | Exports (YoY) (Nov) |  | -1.1% | -6.4% |
+| 31 min | CNY | Moderate | Imports (YoY) (Nov) |  | 3.3% | 3.0% |
+| 31 min | CNY | Moderate | Trade Balance (USD) (Nov) |  | 58.00B | 56.53B |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.741% |
 | 12:00 | IDR | Low | FX Reserves (USD) (Nov) |  |  | 133.10B |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Oct) |  |  | 0.1% |

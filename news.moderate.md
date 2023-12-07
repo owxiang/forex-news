@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | Atlanta Fed GDPNow (Q4) | 1.3% | 1.2% | 1.2% |
-| 08:30 | AUD | Building Approvals (MoM) |  | 7.5% | -4.6% |
-| 08:30 | AUD | Trade Balance (Oct) | 7.129B | 7.500B | 6.786B |
-| 11:00 | CNY | Exports (YoY) (Nov) |  | -1.1% | -6.4% |
-| 11:00 | CNY | Imports (YoY) (Nov) |  | 3.3% | 3.0% |
-| 11:00 | CNY | Trade Balance (USD) (Nov) |  | 58.00B | 56.53B |
+| 08:30 | AUD | Building Approvals (MoM) | 7.5% | 7.5% | -4.6% |
+| 08:30 | AUD | Trade Balance (Oct) | 7.129B | 7.500B | 6.184B |
+| 31 min | CNY | Exports (YoY) (Nov) |  | -1.1% | -6.4% |
+| 31 min | CNY | Imports (YoY) (Nov) |  | 3.3% | 3.0% |
+| 31 min | CNY | Trade Balance (USD) (Nov) |  | 58.00B | 56.53B |
 | 15:00 | GBP | Halifax House Price Index (YoY) (Nov) |  |  | -3.2% |
 | 15:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 1.1% |
 | 15:00 | EUR | German Industrial Production (MoM) (Oct) |  | 0.2% | -1.4% |
