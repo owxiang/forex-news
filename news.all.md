@@ -39,8 +39,8 @@
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Nov) | 641.7B |  | 657.5B |
 | 16:00 | CNY | Low | FX Reserves (USD) (Nov) | 3.172T | 3.120T | 3.101T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Nov) | 424.60B |  | 416.00B |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) | -1.1% |  | -2.0% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Oct) | -0.2% | -0.3% | 0.1% |
+| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Oct) | -1.1% |  | -2.0% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Nov) | 345.5B |  | 338.2B |
 | 17:00 | ZAR | Low | Current Account (Q3) | -19.3B | -111.2B | -185.2B |
 | 17:00 | ZAR | Low | Current Account % of GDP (Q3) | -0.30% |  | -2.70% |
@@ -55,15 +55,14 @@
 | 18:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.3% | 0.1% |
 | 18:00 | EUR | Low | Employment Overall (Q3) | 166,966.2K | 166,966.2K | 166,745.3K |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Moderate | GDP (YoY) | 0.0% | 0.1% | 0.5% |
 | 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.1% |
-| 42 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
-| 20:00 | MXN | Low | Core CPI (MoM) (Nov) |  | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Nov) |  | 4.40% | 4.26% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Nov) |  | 0.72% | 0.38% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
-| 20:00 | MXN | Low | PPI (MoM) (Nov) |  |  | 0.50% |
-| 20:00 | MXN | Low | PPI (YoY) (Nov) |  |  | 1.30% |
+| 18:00 | EUR | Moderate | GDP (YoY) | 0.0% | 0.1% | 0.6% |
+| 46 min | MXN | Low | Core CPI (MoM) (Nov) |  | 0.30% | 0.39% |
+| 46 min | MXN | Moderate | CPI (YoY) (Nov) |  | 4.40% | 4.26% |
+| 46 min | MXN | Moderate | CPI (MoM) (Nov) |  | 0.72% | 0.38% |
+| 46 min | MXN | Low | Month Core Inflation (MoM) (Nov) |  | 5.34% | 5.50% |
+| 46 min | MXN | Low | PPI (YoY) (Nov) |  |  | 1.30% |
+| 46 min | MXN | Low | PPI (MoM) (Nov) |  |  | 0.50% |
 | 20:30 | USD | Low | Challenger Job Cuts (Nov) |  |  | 36.836K |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,910K | 1,927K |
