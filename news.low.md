@@ -13,15 +13,15 @@
 | 11:00 | CNY | Trade Balance (Nov) | 490.82B | 380.00B | 405.47B |
 | 11:00 | IDR | FX Reserves (USD) (Nov) | 138.10B |  | 133.10B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.623% |  | 1.741% |
-| 13:00 | JPY | Coincident Indicator (MoM) (Oct) | 1.0% |  | 0.3% |
+| 13:00 | JPY | Coincident Indicator (MoM) (Oct) | 0.2% |  | 0.3% |
 | 13:00 | JPY | Leading Index (MoM) (Oct) | -0.6% |  | -0.2% |
-| 13:00 | JPY | Leading Index | 108.7 | 108.2 | 108.9 |
-| 45 min | ZAR | Foreign Reserves (USD) (Nov) |  |  | 60.96B |
-| 45 min | ZAR | Net FX Reserves (USD) (Nov) |  |  | 55.510B |
-| 14:45 | CHF | Unemployment Rate n.s.a. (Nov) |  |  | 2.0% |
-| 14:45 | CHF | Unemployment Rate s.a. (Nov) |  | 2.1% | 2.1% |
-| 15:00 | EUR | German Industrial Production (YoY) (Oct) |  |  | -3.86% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.3% |
+| 13:00 | JPY | Leading Index | 108.7 | 108.2 | 109.3 |
+| 14:00 | ZAR | Foreign Reserves (USD) (Nov) | 61.72B |  | 60.96B |
+| 14:00 | ZAR | Net FX Reserves (USD) (Nov) | 56.319B |  | 55.510B |
+| 24 min | CHF | Unemployment Rate n.s.a. (Nov) |  |  | 2.0% |
+| 24 min | CHF | Unemployment Rate s.a. (Nov) |  | 2.1% | 2.1% |
+| 39 min | EUR | German Industrial Production (YoY) (Oct) |  |  | -3.86% |
+| 39 min | NOK | Manufacturing Production (MoM) (Oct) |  |  | -1.3% |
 | 15:45 | EUR | French Current Account (Oct) |  |  | -2.50B |
 | 15:45 | EUR | French Exports (Oct) |  |  | 49.1B |
 | 15:45 | EUR | French Imports (Oct) |  |  | 58.0B |

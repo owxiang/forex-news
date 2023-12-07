@@ -19,18 +19,18 @@
 | 11:00 | CNY | Moderate | Trade Balance (USD) (Nov) | 68.39B | 58.00B | 56.53B |
 | 11:00 | IDR | Low | FX Reserves (USD) (Nov) | 138.10B |  | 133.10B |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.623% |  | 1.741% |
-| 13:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 1.0% |  | 0.3% |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) (Oct) | 0.2% |  | 0.3% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Oct) | -0.6% |  | -0.2% |
-| 13:00 | JPY | Low | Leading Index | 108.7 | 108.2 | 108.9 |
-| 45 min | ZAR | Low | Foreign Reserves (USD) (Nov) |  |  | 60.96B |
-| 45 min | ZAR | Low | Net FX Reserves (USD) (Nov) |  |  | 55.510B |
-| 14:45 | CHF | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.0% |
-| 14:45 | CHF | Low | Unemployment Rate s.a. (Nov) |  | 2.1% | 2.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  |  | -3.2% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 1.1% |
-| 15:00 | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 0.2% | -1.4% |
-| 15:00 | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -3.86% |
-| 15:00 | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -1.3% |
+| 13:00 | JPY | Low | Leading Index | 108.7 | 108.2 | 109.3 |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) (Nov) | 61.72B |  | 60.96B |
+| 14:00 | ZAR | Low | Net FX Reserves (USD) (Nov) | 56.319B |  | 55.510B |
+| 24 min | CHF | Low | Unemployment Rate n.s.a. (Nov) |  |  | 2.0% |
+| 24 min | CHF | Low | Unemployment Rate s.a. (Nov) |  | 2.1% | 2.1% |
+| 39 min | GBP | Moderate | Halifax House Price Index (YoY) (Nov) |  |  | -3.2% |
+| 39 min | GBP | Moderate | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 1.1% |
+| 39 min | EUR | Moderate | German Industrial Production (MoM) (Oct) |  | 0.2% | -1.4% |
+| 39 min | EUR | Low | German Industrial Production (YoY) (Oct) |  |  | -3.86% |
+| 39 min | NOK | Low | Manufacturing Production (MoM) (Oct) |  |  | -1.3% |
 | 15:45 | EUR | Low | French Current Account (Oct) |  |  | -2.50B |
 | 15:45 | EUR | Low | French Exports (Oct) |  |  | 49.1B |
 | 15:45 | EUR | Low | French Imports (Oct) |  |  | 58.0B |

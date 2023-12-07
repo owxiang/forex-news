@@ -8,9 +8,9 @@
 | 11:00 | CNY | Exports (YoY) (Nov) | 0.5% | -1.1% | -6.4% |
 | 11:00 | CNY | Imports (YoY) (Nov) | -0.6% | 3.3% | 3.0% |
 | 11:00 | CNY | Trade Balance (USD) (Nov) | 68.39B | 58.00B | 56.53B |
-| 15:00 | GBP | Halifax House Price Index (YoY) (Nov) |  |  | -3.2% |
-| 15:00 | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 1.1% |
-| 15:00 | EUR | German Industrial Production (MoM) (Oct) |  | 0.2% | -1.4% |
+| 39 min | GBP | Halifax House Price Index (YoY) (Nov) |  |  | -3.2% |
+| 39 min | GBP | Halifax House Price Index (MoM) (Nov) |  | 0.3% | 1.1% |
+| 39 min | EUR | German Industrial Production (MoM) (Oct) |  | 0.2% | -1.4% |
 | 17:20 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 17:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.726% |
 | 18:00 | GBP | Mortgage Rate (GBP) |  |  | 8.01% |
