@@ -17,8 +17,8 @@
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
 | 18:00 | EUR | GDP (YoY) | 0.0% | 0.1% | 0.6% |
 | 18:00 | EUR | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.1% |
-| 20:00 | MXN | CPI (YoY) (Nov) | 4.32% | 4.40% | 4.26% |
 | 20:00 | MXN | CPI (MoM) (Nov) | 0.64% | 0.72% | 0.38% |
-| 59 min | USD | Continuing Jobless Claims |  | 1,910K | 1,927K |
-| 59 min | CAD | Building Permits (MoM) (Oct) |  | 2.9% | -6.5% |
+| 20:00 | MXN | CPI (YoY) (Nov) | 4.32% | 4.40% | 4.26% |
+| 10 min | USD | Continuing Jobless Claims |  | 1,910K | 1,927K |
+| 10 min | CAD | Building Permits (MoM) (Oct) |  | 2.9% | -6.5% |
 | 22:30 | EUR | ECB's Elderson Speaks |  |  |  |
