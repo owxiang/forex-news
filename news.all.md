@@ -55,23 +55,23 @@
 | 18:00 | EUR | Low | Employment Change (QoQ) (Q3) | 0.2% | 0.3% | 0.1% |
 | 18:00 | EUR | Low | Employment Overall (Q3) | 168,734.0K | 166,966.2K | 166,745.3K |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Moderate | GDP (YoY) | 0.0% | 0.1% | 0.6% |
 | 18:00 | EUR | Moderate | GDP (QoQ) (Q3) | -0.1% | -0.1% | 0.1% |
+| 18:00 | EUR | Moderate | GDP (YoY) | 0.0% | 0.1% | 0.6% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Nov) | 0.26% | 0.30% | 0.39% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.64% | 0.72% | 0.38% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Nov) | 4.32% | 4.40% | 4.26% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Nov) | 0.64% | 0.72% | 0.38% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Nov) | 5.30% | 5.34% | 5.50% |
 | 20:00 | MXN | Low | PPI (YoY) (Nov) | 1.20% |  | 1.40% |
 | 20:00 | MXN | Low | PPI (MoM) (Nov) | -0.40% |  | 0.50% |
-| 20:30 | USD | Low | Challenger Job Cuts (YoY) | -40.8% |  | 8.8% |
 | 20:30 | USD | Low | Challenger Job Cuts (Nov) | 45.510K |  | 36.836K |
+| 20:30 | USD | Low | Challenger Job Cuts (YoY) | -40.8% |  | 8.8% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Nov) | 1.5% |  | -4.4% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Nov) | -2.4% |  | 10.2% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims | 1,861K | 1,910K | 1,925K |
 | 21:30 | USD | High | Initial Jobless Claims | 220K | 222K | 219K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 220.75K |  | 220.25K |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Oct) | 2.3% | 2.9% | -8.1% |
-| 15 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 45 min | USD | Low | Wholesale Inventories (MoM) (Oct) |  | -0.2% | 0.2% |
-| 45 min | USD | Low | Wholesale Trade Sales (MoM) (Oct) |  |  | 2.2% |
-| 23:30 | USD | Low | Natural Gas Storage |  | -105B | 10B |
+| 22:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 23:00 | USD | Low | Wholesale Inventories (MoM) (Oct) | -0.4% | -0.2% | 0.0% |
+| 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Oct) | -1.3% |  | 2.0% |
+| 13 min | USD | Low | Natural Gas Storage |  | -105B | 10B |

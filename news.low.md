@@ -46,11 +46,11 @@
 | 20:00 | MXN | Month Core Inflation (MoM) (Nov) | 5.30% | 5.34% | 5.50% |
 | 20:00 | MXN | PPI (YoY) (Nov) | 1.20% |  | 1.40% |
 | 20:00 | MXN | PPI (MoM) (Nov) | -0.40% |  | 0.50% |
-| 20:30 | USD | Challenger Job Cuts (YoY) | -40.8% |  | 8.8% |
 | 20:30 | USD | Challenger Job Cuts (Nov) | 45.510K |  | 36.836K |
+| 20:30 | USD | Challenger Job Cuts (YoY) | -40.8% |  | 8.8% |
 | 21:00 | BRL | Auto Production (MoM) (Nov) | 1.5% |  | -4.4% |
 | 21:00 | BRL | Auto Sales (MoM) (Nov) | -2.4% |  | 10.2% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. | 220.75K |  | 220.25K |
-| 45 min | USD | Wholesale Inventories (MoM) (Oct) |  | -0.2% | 0.2% |
-| 45 min | USD | Wholesale Trade Sales (MoM) (Oct) |  |  | 2.2% |
-| 23:30 | USD | Natural Gas Storage |  | -105B | 10B |
+| 23:00 | USD | Wholesale Inventories (MoM) (Oct) | -0.4% | -0.2% | 0.0% |
+| 23:00 | USD | Wholesale Trade Sales (MoM) (Oct) | -1.3% |  | 2.0% |
+| 13 min | USD | Natural Gas Storage |  | -105B | 10B |
