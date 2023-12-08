@@ -16,15 +16,15 @@
 | 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) | -0.4% | -0.6% | -1.0% |
 | 07:50 | JPY | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.8% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q3) | -0.2% | 0.0% | -0.6% |
-| 31 min | IDR | Consumer Confidence (Nov) |  |  | 124.3 |
-| 31 min | IDR | Retail Sales (YoY) |  |  | 1.5% |
-| 12:00 | JPY | M2 Money Stock (YoY) |  |  | 2.4% |
+| 11:00 | IDR | Consumer Confidence (Nov) | 123.6 |  | 124.3 |
+| 43 min | JPY | M2 Money Stock (YoY) |  |  | 2.4% |
+| 43 min | IDR | Retail Sales (YoY) |  |  | 1.5% |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Nov) |  | 49.0 | 49.5 |
 | 14:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.1% |
-| 15:00 | EUR | German HICP (YoY) (Nov) |  | 2.3% | 3.0% |
 | 15:00 | EUR | German HICP (MoM) (Nov) |  | -0.7% | -0.2% |
+| 15:00 | EUR | German HICP (YoY) (Nov) |  | 2.3% | 3.0% |
 | 17:30 | GBP | Inflation Expectations |  |  | 3.6% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |

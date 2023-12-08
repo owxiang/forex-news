@@ -14,31 +14,31 @@
 | 05:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) | -2.7% | 0.6% | 2.6% |
 | 07:00 | KRW | Low | Current Account (Oct) | 6.80B |  | 5.42B |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.5% | 1.0% | 0.6% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Oct) | -2.5% | -3.0% | -2.8% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
 | 07:30 | JPY | Low | Overall wage income of employees (Oct) | 1.5% |  | 0.6% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Oct) | -0.10% |  | -0.50% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Oct) | 262.17T | 1.85T | 2.01T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Nov) | 2.8% | 2.8% | 2.8% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Oct) | 2.583T |  | 2.724T |
-| 07:50 | JPY | High | GDP (QoQ) (Q3) | -0.7% | -0.5% | 1.2% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q3) | -2.9% | -2.1% | 4.8% |
+| 07:50 | JPY | High | GDP (QoQ) (Q3) | -0.7% | -0.5% | 1.2% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) | -0.4% | -0.6% | -1.0% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.8% |
 | 07:50 | JPY | Moderate | GDP Price Index (YoY) (Q3) | 5.2% | 5.1% | 5.1% |
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q3) | -0.2% | 0.0% | -0.6% |
-| 31 min | IDR | Low | Consumer Confidence (Nov) |  |  | 124.3 |
-| 31 min | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
-| 12:00 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.4% |
+| 11:00 | IDR | Low | Consumer Confidence (Nov) | 123.6 |  | 124.3 |
+| 43 min | JPY | Low | M2 Money Stock (YoY) |  |  | 2.4% |
+| 43 min | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
 | 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
 | 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Nov) |  | 49.0 | 49.5 |
 | 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.1% |
-| 15:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.4% | 0.0% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Nov) |  | 3.2% | 3.8% |
-| 15:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.3% | 3.0% |
+| 15:00 | EUR | High | German CPI (MoM) (Nov) |  | -0.4% | 0.0% |
 | 15:00 | EUR | Low | German HICP (MoM) (Nov) |  | -0.7% | -0.2% |
+| 15:00 | EUR | Low | German HICP (YoY) (Nov) |  | 2.3% | 3.0% |
 | 17:30 | GBP | Low | Inflation Expectations |  |  | 3.6% |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
