@@ -16,8 +16,8 @@
 | 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q3) | -0.4% | -0.6% | -1.0% |
 | 07:50 | JPY | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.8% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q3) | -0.2% | 0.0% | -0.6% |
-| 11:00 | IDR | Consumer Confidence (Nov) |  |  | 124.3 |
-| 11:00 | IDR | Retail Sales (YoY) |  |  | 1.5% |
+| 31 min | IDR | Consumer Confidence (Nov) |  |  | 124.3 |
+| 31 min | IDR | Retail Sales (YoY) |  |  | 1.5% |
 | 12:00 | JPY | M2 Money Stock (YoY) |  |  | 2.4% |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
