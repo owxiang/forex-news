@@ -26,9 +26,9 @@
 | 15:20 | EUR | French Reserve Assets Total (Nov) | 222,926.0M |  | 224,598.0M |
 | 17:30 | GBP | Inflation Expectations | 3.3% |  | 3.6% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 17 min | INR | FX Reserves, USD |  |  | 597.94B |
-| 21:30 | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
-| 21:30 | USD | Government Payrolls (Nov) |  |  | 51.0K |
-| 21:30 | USD | Manufacturing Payrolls (Nov) |  | 30K | -35K |
-| 21:30 | CAD | Capacity Utilization Rate (Q3) |  | 81.0% | 81.4% |
+| 19:30 | INR | FX Reserves, USD | 604.04B |  | 597.94B |
+| 59 min | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
+| 59 min | USD | Government Payrolls (Nov) |  |  | 51.0K |
+| 59 min | USD | Manufacturing Payrolls (Nov) |  | 30K | -35K |
+| 59 min | CAD | Capacity Utilization Rate (Q3) |  | 81.0% | 81.4% |
 | 23:00 | USD | Michigan Current Conditions (Dec) |  | 68.5 | 68.3 |

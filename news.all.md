@@ -14,8 +14,8 @@
 | 05:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) | -2.7% | 0.6% | 2.6% |
 | 07:00 | KRW | Low | Current Account (Oct) | 6.80B |  | 5.42B |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.5% | 1.0% | 0.6% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Oct) | -2.5% | -3.0% | -2.8% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
 | 07:30 | JPY | Low | Overall wage income of employees (Oct) | 1.5% |  | 0.6% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Oct) | -0.10% |  | -0.50% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Oct) | 262.17T | 1.85T | 2.01T |
@@ -40,18 +40,18 @@
 | 15:20 | EUR | Low | French Reserve Assets Total (Nov) | 222,926.0M |  | 224,598.0M |
 | 17:30 | GBP | Low | Inflation Expectations | 3.3% |  | 3.6% |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 597.94B |
-| 21:30 | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
-| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  | 4.0% | 4.1% |
-| 21:30 | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
-| 21:30 | USD | Low | Government Payrolls (Nov) |  |  | 51.0K |
-| 21:30 | USD | Low | Manufacturing Payrolls (Nov) |  | 30K | -35K |
-| 21:30 | USD | High | Nonfarm Payrolls (Nov) |  | 180K | 150K |
-| 21:30 | USD | Moderate | Participation Rate (Nov) |  |  | 62.7% |
-| 21:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) |  | 153K | 99K |
-| 21:30 | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 7.2% |
-| 21:30 | USD | High | Unemployment Rate (Nov) |  | 3.9% | 3.9% |
-| 21:30 | CAD | Low | Capacity Utilization Rate (Q3) |  | 81.0% | 81.4% |
+| 19:30 | INR | Low | FX Reserves, USD | 604.04B |  | 597.94B |
+| 59 min | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
+| 59 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  | 4.0% | 4.1% |
+| 59 min | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
+| 59 min | USD | Low | Government Payrolls (Nov) |  |  | 51.0K |
+| 59 min | USD | Low | Manufacturing Payrolls (Nov) |  | 30K | -35K |
+| 59 min | USD | High | Nonfarm Payrolls (Nov) |  | 180K | 150K |
+| 59 min | USD | Moderate | Participation Rate (Nov) |  |  | 62.7% |
+| 59 min | USD | Moderate | Private Nonfarm Payrolls (Nov) |  | 153K | 99K |
+| 59 min | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 7.2% |
+| 59 min | USD | High | Unemployment Rate (Nov) |  | 3.9% | 3.9% |
+| 59 min | CAD | Low | Capacity Utilization Rate (Q3) |  | 81.0% | 81.4% |
 | 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  |  | 4.5% |
 | 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  |  | 3.2% |
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 57.0 | 56.8 |
