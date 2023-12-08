@@ -1,24 +1,19 @@
-## 08 December 2023 - Moderate Impact Forex News
+## 09 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:40 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 01:45 | USD | Atlanta Fed GDPNow (Q4) | 1.2% | 1.3% | 1.3% |
-| 04:00 | USD | Consumer Credit (Oct) | 5.13B | 9.00B | 12.22B |
-| 05:30 | USD | Fed's Balance Sheet | 7,737B |  | 7,796B |
-| 07:30 | JPY | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
-| 07:30 | JPY | Household Spending (YoY) (Oct) | -2.5% | -3.0% | -2.8% |
-| 07:50 | JPY | Adjusted Current Account (Oct) | 262.17T | 1.85T | 2.01T |
-| 07:50 | JPY | Current Account n.s.a. (Oct) | 2.583T |  | 2.724T |
-| 07:50 | JPY | GDP (YoY) (Q3) | -2.9% | -2.1% | 3.6% |
-| 07:50 | JPY | GDP Price Index (YoY) (Q3) | 5.3% | 5.1% | 3.8% |
-| 12:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 15:00 | EUR | German CPI (YoY) (Nov) | 3.2% | 3.2% | 3.8% |
-| 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 4.0% | 4.0% |
-| 21:30 | USD | Participation Rate (Nov) | 62.8% | 62.7% | 62.7% |
-| 21:30 | USD | Private Nonfarm Payrolls (Nov) | 150K | 153K | 85K |
-| 21:30 | USD | U6 Unemployment Rate (Nov) | 7.0% |  | 7.2% |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Dec) | 3.1% | 4.3% | 4.5% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Dec) | 2.8% | 3.1% | 3.2% |
-| 23:00 | USD | Michigan Consumer Expectations (Dec) | 66.4 | 57.0 | 56.8 |
-| 23:00 | USD | Michigan Consumer Sentiment (Dec) | 69.4 | 62.0 | 61.3 |
+| 39 min | USD | WASDE Report |  |  |  |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 505 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 625 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | -7.9K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 183.2K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 200.1K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 7.3K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -65.0K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -71.2K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 32.9K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -109.2K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 143.2K |
+| 09:30 | CNY | CPI (MoM) (Nov) |  | -0.1% | -0.1% |
+| 09:30 | CNY | CPI (YoY) (Nov) |  | -0.1% | -0.2% |
+| 09:30 | CNY | PPI (YoY) (Nov) |  | -2.8% | -2.6% |
