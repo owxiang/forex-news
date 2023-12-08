@@ -24,9 +24,9 @@
 | 15:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | -0.2% |
 | 15:00 | EUR | German HICP (YoY) (Nov) | 2.3% | 2.3% | 3.0% |
 | 15:20 | EUR | French Reserve Assets Total (Nov) | 222,926.0M |  | 224,598.0M |
-| 14 min | GBP | Inflation Expectations |  |  | 3.6% |
-| 44 min | EUR | ECOFIN Meetings |  |  |  |
-| 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 17:30 | GBP | Inflation Expectations | 3.3% |  | 3.6% |
+| 18:00 | EUR | ECOFIN Meetings |  |  |  |
+| 43 min | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD |  |  | 597.94B |
 | 21:30 | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
 | 21:30 | USD | Government Payrolls (Nov) |  |  | 51.0K |
