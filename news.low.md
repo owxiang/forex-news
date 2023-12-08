@@ -5,7 +5,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.290% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.280% |
 | 01:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 01:30 | BRL | Foreign Exchange Flows | 3.609B |  | 0.264B |
+| 01:30 | BRL | Foreign Exchange Flows | 0.388B |  | -2.924B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.497T |  | 3.395T |
 | 05:45 | NZD | Manufacturing Sales Volume (QoQ) (Q3) | -2.7% | 0.6% | 2.6% |
 | 07:00 | KRW | Current Account (Oct) | 6.80B |  | 5.42B |
@@ -20,9 +20,9 @@
 | 12:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Nov) | 49.5 | 49.0 | 49.5 |
-| 14:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.1% |
-| 15:00 | EUR | German HICP (MoM) (Nov) |  | -0.7% | -0.2% |
-| 15:00 | EUR | German HICP (YoY) (Nov) |  | 2.3% | 3.0% |
+| 9 min | EUR | French Non-Farm Payrolls (QoQ) (Q3) |  | -0.1% | 0.1% |
+| 39 min | EUR | German HICP (YoY) (Nov) |  | 2.3% | 3.0% |
+| 39 min | EUR | German HICP (MoM) (Nov) |  | -0.7% | -0.2% |
 | 17:30 | GBP | Inflation Expectations |  |  | 3.6% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
