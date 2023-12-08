@@ -13,7 +13,7 @@
 | 07:50 | JPY | GDP (YoY) (Q3) | -2.9% | -2.1% | 3.6% |
 | 07:50 | JPY | GDP Price Index (YoY) (Q3) | 5.3% | 5.1% | 3.8% |
 | 12:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 39 min | EUR | German CPI (YoY) (Nov) |  | 3.2% | 3.8% |
+| 15:00 | EUR | German CPI (YoY) (Nov) | 3.2% | 3.2% | 3.8% |
 | 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Nov) |  | 4.0% | 4.1% |
 | 21:30 | USD | Participation Rate (Nov) |  |  | 62.7% |
 | 21:30 | USD | Private Nonfarm Payrolls (Nov) |  | 153K | 99K |
