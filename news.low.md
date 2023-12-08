@@ -21,8 +21,8 @@
 | 12:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Nov) | 49.5 | 49.0 | 49.5 |
 | 14:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | 0.1% |
-| 15:00 | EUR | German HICP (YoY) (Nov) | 2.3% | 2.3% | 3.0% |
 | 15:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | -0.2% |
+| 15:00 | EUR | German HICP (YoY) (Nov) | 2.3% | 2.3% | 3.0% |
 | 15:20 | EUR | French Reserve Assets Total (Nov) | 222,926.0M |  | 224,598.0M |
 | 17:30 | GBP | Inflation Expectations | 3.3% |  | 3.6% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
@@ -31,4 +31,4 @@
 | 21:30 | USD | Government Payrolls (Nov) | 49.0K |  | 65.0K |
 | 21:30 | USD | Manufacturing Payrolls (Nov) | 28K | 30K | -35K |
 | 21:30 | CAD | Capacity Utilization Rate (Q3) | 79.7% | 81.0% | 79.6% |
-| 45 min | USD | Michigan Current Conditions (Dec) |  | 68.5 | 68.3 |
+| 23:00 | USD | Michigan Current Conditions (Dec) | 74.0 | 68.5 | 68.3 |
