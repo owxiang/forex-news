@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 39 min | USD | Moderate | WASDE Report |  |  |  |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 505 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 625 |
+| 01:00 | USD | Moderate | WASDE Report |  |  |  |
+| 46 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 505 |
+| 46 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 625 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -7.9K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 6.3K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -3.9K |
