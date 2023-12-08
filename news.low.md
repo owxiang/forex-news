@@ -21,13 +21,12 @@
 | 12:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Nov) | 49.5 | 49.0 | 49.5 |
 | 14:30 | EUR | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | 0.1% |
-| 15:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | -0.2% |
 | 15:00 | EUR | German HICP (YoY) (Nov) | 2.3% | 2.3% | 3.0% |
+| 15:00 | EUR | German HICP (MoM) (Nov) | -0.7% | -0.7% | -0.2% |
 | 15:20 | EUR | French Reserve Assets Total (Nov) | 222,926.0M |  | 224,598.0M |
 | 17:30 | GBP | Inflation Expectations | 3.3% |  | 3.6% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 43 min | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
-| 19:30 | INR | FX Reserves, USD |  |  | 597.94B |
+| 17 min | INR | FX Reserves, USD |  |  | 597.94B |
 | 21:30 | USD | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
 | 21:30 | USD | Government Payrolls (Nov) |  |  | 51.0K |
 | 21:30 | USD | Manufacturing Payrolls (Nov) |  | 30K | -35K |
