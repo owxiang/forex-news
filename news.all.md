@@ -14,15 +14,15 @@
 | 05:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q3) | -2.7% | 0.6% | 2.6% |
 | 07:00 | KRW | Low | Current Account (Oct) | 6.80B |  | 5.42B |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) | 1.5% | 1.0% | 0.6% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Oct) | -2.5% | -3.0% | -2.8% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Oct) | -0.1% | -0.2% | 0.3% |
 | 07:30 | JPY | Low | Overall wage income of employees (Oct) | 1.5% |  | 0.6% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Oct) | -0.10% |  | -0.50% |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Oct) | 262.17T | 1.85T | 2.01T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Nov) | 2.8% | 2.8% | 2.7% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Oct) | 2.583T |  | 2.724T |
-| 07:50 | JPY | High | GDP (QoQ) (Q3) | -0.7% | -0.5% | 0.9% |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q3) | -2.9% | -2.1% | 3.6% |
+| 07:50 | JPY | High | GDP (QoQ) (Q3) | -0.7% | -0.5% | 0.9% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q3) | -0.4% | -0.6% | -1.3% |
 | 07:50 | JPY | Low | GDP External Demand (QoQ) (Q3) | -0.1% | -0.1% | 1.6% |
 | 07:50 | JPY | Moderate | GDP Price Index (YoY) (Q3) | 5.3% | 5.1% | 3.8% |
@@ -33,27 +33,27 @@
 | 12:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Nov) | 49.5 | 49.0 | 49.5 |
 | 14:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q3) | 0.1% | -0.1% | 0.1% |
-| 15:00 | EUR | High | German CPI (MoM) (Nov) | -0.4% | -0.4% | 0.0% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Nov) | 3.2% | 3.2% | 3.8% |
-| 15:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.7% | -0.2% |
+| 15:00 | EUR | High | German CPI (MoM) (Nov) | -0.4% | -0.4% | 0.0% |
 | 15:00 | EUR | Low | German HICP (YoY) (Nov) | 2.3% | 2.3% | 3.0% |
+| 15:00 | EUR | Low | German HICP (MoM) (Nov) | -0.7% | -0.7% | -0.2% |
 | 15:20 | EUR | Low | French Reserve Assets Total (Nov) | 222,926.0M |  | 224,598.0M |
 | 17:30 | GBP | Low | Inflation Expectations | 3.3% |  | 3.6% |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 19:30 | INR | Low | FX Reserves, USD | 604.04B |  | 597.94B |
-| 11 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) |  | 4.0% | 4.1% |
-| 11 min | USD | High | Average Hourly Earnings (MoM) (Nov) |  | 0.3% | 0.2% |
-| 11 min | USD | Low | Average Weekly Hours (Nov) |  | 34.3 | 34.3 |
-| 11 min | USD | Low | Government Payrolls (Nov) |  |  | 51.0K |
-| 11 min | USD | Low | Manufacturing Payrolls (Nov) |  | 30K | -35K |
-| 11 min | USD | High | Nonfarm Payrolls (Nov) |  | 180K | 150K |
-| 11 min | USD | Moderate | Participation Rate (Nov) |  | 62.7% | 62.7% |
-| 11 min | USD | Moderate | Private Nonfarm Payrolls (Nov) |  | 153K | 99K |
-| 11 min | USD | Moderate | U6 Unemployment Rate (Nov) |  |  | 7.2% |
-| 11 min | USD | High | Unemployment Rate (Nov) |  | 3.9% | 3.9% |
-| 11 min | CAD | Low | Capacity Utilization Rate (Q3) |  | 81.0% | 81.4% |
-| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 4.3% | 4.5% |
-| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
-| 23:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 57.0 | 56.8 |
-| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 62.0 | 61.3 |
-| 23:00 | USD | Low | Michigan Current Conditions (Dec) |  | 68.5 | 68.3 |
+| 21:30 | USD | High | Average Hourly Earnings (MoM) (Nov) | 0.4% | 0.3% | 0.2% |
+| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Nov) | 4.0% | 4.0% | 4.0% |
+| 21:30 | USD | Low | Average Weekly Hours (Nov) | 34.4 | 34.3 | 34.3 |
+| 21:30 | USD | Low | Government Payrolls (Nov) | 49.0K |  | 65.0K |
+| 21:30 | USD | Low | Manufacturing Payrolls (Nov) | 28K | 30K | -35K |
+| 21:30 | USD | High | Nonfarm Payrolls (Nov) | 199K | 180K | 150K |
+| 21:30 | USD | Moderate | Participation Rate (Nov) | 62.8% | 62.7% | 62.7% |
+| 21:30 | USD | Moderate | Private Nonfarm Payrolls (Nov) | 150K | 153K | 85K |
+| 21:30 | USD | Moderate | U6 Unemployment Rate (Nov) | 7.0% |  | 7.2% |
+| 21:30 | USD | High | Unemployment Rate (Nov) | 3.7% | 3.9% | 3.9% |
+| 21:30 | CAD | Low | Capacity Utilization Rate (Q3) | 79.7% | 81.0% | 79.6% |
+| 45 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 4.3% | 4.5% |
+| 45 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 3.1% | 3.2% |
+| 45 min | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 57.0 | 56.8 |
+| 45 min | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 62.0 | 61.3 |
+| 45 min | USD | Low | Michigan Current Conditions (Dec) |  | 68.5 | 68.3 |
