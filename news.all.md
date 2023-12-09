@@ -1,30 +1,22 @@
-## 09 December 2023 - All Forex News
+## 11 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:00 | USD | Moderate | WASDE Report |  |  |  |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 503 |  | 505 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 626 |  | 625 |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | 11.7K |  | -7.9K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 5.7K |  | 6.3K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -2.0K |  | -3.9K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -110.4K |  | -157.1K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 169.0K |  | 183.2K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 203.5K |  | 200.1K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 8.4K |  | 7.3K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -111.1K |  | -107.9K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -47.3K |  | -65.0K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 36.3K |  | 34.3K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 20.3K |  | 50.7K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -67.1K |  | -97.2K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -57.8K |  | -63.2K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 73.5K |  | 65.5K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -17.9K |  | -20.3K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -57.7K |  | -71.2K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 50.2K |  | 32.9K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -105.0K |  | -109.2K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | -16.4K |  | -19.6K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 152.4K |  | 143.2K |
-| 09:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.5% | -0.1% | -0.1% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Nov) | -0.5% | -0.1% | -0.2% |
-| 09:30 | CNY | Moderate | PPI (YoY) (Nov) | -3.0% | -2.8% | -2.6% |
+| 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  |  | 5.4 |
+| 07:50 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.4% |
+| 07:50 | JPY | Low | M3 Money Supply (Nov) |  |  | 2,115.4% |
+| 08:01 | GBP | Low | Rightmove House Price Index (YoY) (Dec) |  |  | -1.3% |
+| 10:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
+| 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
+| 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -20.6% |
+| 15:00 | NOK | Low | Core CPI YTD (Nov) |  |  | 6.0% |
+| 15:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.6% |
+| 15:00 | NOK | Low | CPI (MoM) (Nov) |  |  | 1.0% |
+| 15:00 | NOK | Low | CPI (YoY) (Nov) |  |  | 4.0% |
+| 15:00 | NOK | Low | PPI (YoY) (Nov) |  |  | -10.9% |
+| 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.393% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.766% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
+| 23:00 | USD | Low | CB Employment Trends Index (Nov) |  |  | 114.16 |
