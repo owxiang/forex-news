@@ -25,6 +25,6 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -105.0K |  | -109.2K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -16.4K |  | -19.6K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 152.4K |  | 143.2K |
-| 09:30 | CNY | Moderate | CPI (YoY) (Nov) | -0.5% | -0.1% | -0.2% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Nov) | -0.5% | -0.1% | -0.1% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Nov) | -0.5% | -0.1% | -0.2% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Nov) | -3.0% | -2.8% | -2.6% |
