@@ -2,10 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  |  | 5.4 |
-| 07:50 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.4% |
+| 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) |  | 5.6 | 5.4 |
+| 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.5% | 2.4% |
 | 07:50 | JPY | Low | M3 Money Supply (Nov) |  |  | 2,115.4% |
-| 08:01 | GBP | Low | Rightmove House Price Index (YoY) (Dec) |  |  | -1.3% |
 | 10:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
 | 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -20.6% |

@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  |  | 5.4 |
+| 07:50 | JPY | BSI Large Manufacturing Conditions (Q4) |  | 5.6 | 5.4 |

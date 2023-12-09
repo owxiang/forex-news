@@ -2,9 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | M2 Money Stock (YoY) |  |  | 2.4% |
+| 07:50 | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.4% |
 | 07:50 | JPY | M3 Money Supply (Nov) |  |  | 2,115.4% |
-| 08:01 | GBP | Rightmove House Price Index (YoY) (Dec) |  |  | -1.3% |
 | 10:30 | SGD | Unemployment Rate |  |  | 2.0% |
 | 11:00 | IDR | Retail Sales (YoY) |  |  | 1.5% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -20.6% |
