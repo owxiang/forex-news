@@ -9,8 +9,8 @@
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -20.6% |
 | 15:00 | NOK | Core CPI YTD (Nov) |  |  | 6.0% |
 | 15:00 | NOK | Core Inflation (MoM) (Nov) |  |  | 0.6% |
-| 15:00 | NOK | CPI (MoM) (Nov) |  |  | 1.0% |
 | 15:00 | NOK | CPI (YoY) (Nov) |  |  | 4.0% |
+| 15:00 | NOK | CPI (MoM) (Nov) |  |  | 1.0% |
 | 15:00 | NOK | PPI (YoY) (Nov) |  |  | -10.9% |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
