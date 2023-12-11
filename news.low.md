@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 6-Month Bill Auction | 5.190% |  | 5.190% |
 | 02:00 | USD | 3-Month Bill Auction | 5.260% |  | 5.250% |
-| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
-| 05:45 | NZD | External Migration & Visitors (Oct) |  |  | 48.70% |
-| 05:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 7,510 |
-| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.4% |
+| 31 min | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
+| 31 min | NZD | External Migration & Visitors (Oct) |  |  | 48.70% |
+| 31 min | NZD | Permanent/Long-Term Migration (Oct) |  |  | 7,510 |
+| 31 min | NZD | Visitor Arrivals (MoM) |  |  | 2.4% |
 | 06:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | -2.6% |
-| 07:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | -0.4% |
 | 07:50 | JPY | PPI (YoY) (Nov) |  | 0.1% | 0.8% |
+| 07:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | -0.4% |
 | 08:30 | AUD | NAB Business Survey (Nov) |  |  | 13 |
 | 15:00 | GBP | Average Earnings ex Bonus (Oct) |  | 7.4% | 7.7% |
 | 15:00 | EUR | German WPI (MoM) (Nov) |  | -0.1% | -0.7% |

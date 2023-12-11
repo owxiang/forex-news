@@ -8,15 +8,15 @@
 | 02:00 | USD | High | 10-Year Note Auction | 4.296% |  | 4.519% |
 | 02:00 | USD | Low | 3-Month Bill Auction | 5.260% |  | 5.250% |
 | 04:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | -0.7% |
-| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
-| 05:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 48.70% |
-| 05:45 | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 7,510 |
-| 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.4% |
+| 31 min | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
+| 31 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | -0.7% |
+| 31 min | NZD | Low | External Migration & Visitors (Oct) |  |  | 48.70% |
+| 31 min | NZD | Low | Permanent/Long-Term Migration (Oct) |  |  | 7,510 |
+| 31 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 2.4% |
 | 06:20 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Dec) |  |  | -2.6% |
-| 07:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.2% | -0.4% |
 | 07:50 | JPY | Low | PPI (YoY) (Nov) |  | 0.1% | 0.8% |
+| 07:50 | JPY | Low | PPI (MoM) (Nov) |  | 0.2% | -0.4% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Nov) |  |  | -2 |
 | 08:30 | AUD | Low | NAB Business Survey (Nov) |  |  | 13 |
 | 15:00 | GBP | Low | Average Earnings ex Bonus (Oct) |  | 7.4% | 7.7% |
@@ -47,11 +47,11 @@
 | 20:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.30% | 0.24% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.70% | 4.82% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.23% |
-| 21:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
 | 21:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
 | 21:30 | USD | Low | Core CPI Index (Nov) |  |  | 311.37 |
-| 21:30 | USD | High | CPI (MoM) (Nov) |  | 0.0% | 0.0% |
 | 21:30 | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.2% |
+| 21:30 | USD | High | CPI (MoM) (Nov) |  | 0.0% | 0.0% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Nov) |  | 307.00 | 307.67 |
 | 21:30 | USD | Low | CPI Index, s.a (Nov) |  |  | 307.62 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |
