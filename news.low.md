@@ -14,7 +14,7 @@
 | 15:00 | NOK | CPI (MoM) (Nov) | 0.5% | 0.7% | 1.0% |
 | 15:00 | NOK | PPI (YoY) (Nov) | -15.6% |  | -10.9% |
 | 18:20 | GBP | Rightmove House Price Index (YoY) (Dec) | -1.1% |  | -1.3% |
-| 11 min | BRL | BCB Focus Market Readout |  |  |  |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.393% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.766% |
 | 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.739% |
