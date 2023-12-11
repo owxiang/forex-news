@@ -5,7 +5,7 @@
 | 07:50 | JPY | M2 Money Stock (YoY) | 2.3% | 2.5% | 2.4% |
 | 07:50 | JPY | M3 Money Supply (Nov) | 2,121.5% |  | 2,118.2% |
 | 10:30 | SGD | Unemployment Rate |  |  | 2.0% |
-| 11:00 | IDR | Retail Sales (YoY) |  |  | 1.5% |
+| 31 min | IDR | Retail Sales (YoY) |  |  | 1.5% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -20.6% |
 | 15:00 | NOK | Core CPI YTD (Nov) |  |  | 6.0% |
 | 15:00 | NOK | Core Inflation (MoM) (Nov) |  |  | 0.6% |

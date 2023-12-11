@@ -6,7 +6,7 @@
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.3% | 2.5% | 2.4% |
 | 07:50 | JPY | Low | M3 Money Supply (Nov) | 2,121.5% |  | 2,118.2% |
 | 10:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
-| 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
+| 31 min | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -20.6% |
 | 15:00 | NOK | Low | Core CPI YTD (Nov) |  |  | 6.0% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.6% |
