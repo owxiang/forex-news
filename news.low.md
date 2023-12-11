@@ -1,21 +1,40 @@
-## 11 December 2023 - Low Impact Forex News
+## 12 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | M2 Money Stock (YoY) | 2.3% | 2.5% | 2.4% |
-| 07:50 | JPY | M3 Money Supply (Nov) | 2,121.5% |  | 2,118.2% |
-| 08:01 | GBP | Rightmove House Price Index (MoM) | -1.9% |  | -1.7% |
-| 11:00 | IDR | Motorbike Sales (YoY) (Nov) | -2.80% |  | -4.00% |
-| 11:40 | IDR | Retail Sales (YoY) | 2.4% |  | 1.5% |
-| 14:00 | JPY | Machine Tool Orders (YoY) | -13.6% |  | -20.6% |
-| 15:00 | NOK | Core CPI YTD (Nov) | 5.8% | 6.0% | 6.0% |
-| 15:00 | NOK | Core Inflation (MoM) (Nov) | -0.2% | -0.1% | 0.6% |
-| 15:00 | NOK | CPI (MoM) (Nov) | 0.5% | 0.7% | 1.0% |
-| 15:00 | NOK | CPI (YoY) (Nov) | 4.8% | 4.9% | 4.0% |
-| 15:00 | NOK | PPI (YoY) (Nov) | -15.6% |  | -10.9% |
-| 18:20 | GBP | Rightmove House Price Index (YoY) (Dec) | -1.1% |  | -1.3% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21:55 | EUR | French 12-Month BTF Auction | 3.423% |  | 3.393% |
-| 21:55 | EUR | French 3-Month BTF Auction | 3.778% |  | 3.766% |
-| 21:55 | EUR | French 6-Month BTF Auction | 3.739% |  | 3.739% |
-| 23:00 | USD | CB Employment Trends Index (Nov) | 113.05 |  | 113.09 |
+| 8 min | USD | 6-Month Bill Auction |  |  | 5.190% |
+| 02:00 | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
+| 05:45 | NZD | External Migration & Visitors (Oct) |  |  | 48.70% |
+| 05:45 | NZD | Permanent/Long-Term Migration (Oct) |  |  | 7,510 |
+| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | 2.4% |
+| 06:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 07:30 | AUD | Westpac Consumer Sentiment (Dec) |  |  | -2.6% |
+| 07:50 | JPY | PPI (MoM) (Nov) |  | 0.2% | -0.4% |
+| 07:50 | JPY | PPI (YoY) (Nov) |  | 0.1% | 0.8% |
+| 08:30 | AUD | NAB Business Survey (Nov) |  |  | 13 |
+| 15:00 | GBP | Average Earnings ex Bonus (Oct) |  | 7.4% | 7.7% |
+| 15:00 | EUR | German WPI (MoM) (Nov) |  | -0.1% | -0.7% |
+| 15:00 | EUR | German WPI (YoY) (Nov) |  |  | -4.2% |
+| 17:30 | ZAR | Business Confidence |  |  | 108.2 |
+| 17:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -0.1% |
+| 17:30 | ZAR | Mining Production (Oct) |  |  | -1.9% |
+| 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.552% |
+| 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.474% |
+| 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.860% |
+| 19:00 | USD | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Oct) |  |  | -4.3% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
+| 20:00 | MXN | Industrial Production (MoM) (Oct) |  |  | 0.2% |
+| 20:00 | MXN | Industrial Production (YoY) (Oct) |  | 4.6% | 3.9% |
+| 20:00 | INR | Cumulative Industrial Production (Oct) |  |  | 6.00% |
+| 20:00 | INR | Industrial Production (YoY) (Oct) |  | 10.0% | 5.8% |
+| 20:00 | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.5% |
+| 20:00 | BRL | CPI (MoM) (Nov) |  | 0.30% | 0.24% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.23% |
+| 21:30 | USD | Core CPI Index (Nov) |  |  | 311.37 |
+| 21:30 | USD | CPI Index, n.s.a. (Nov) |  | 307.00 | 307.67 |
+| 21:30 | USD | CPI Index, s.a (Nov) |  |  | 307.62 |
+| 21:30 | USD | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |
+| 21:30 | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
+| 21:55 | USD | Redbook (YoY) |  |  | 3.0% |
