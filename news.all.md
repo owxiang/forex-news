@@ -5,13 +5,14 @@
 | 07:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q4) | 5.7 | 5.6 | 5.4 |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.3% | 2.5% | 2.4% |
 | 07:50 | JPY | Low | M3 Money Supply (Nov) | 2,121.5% |  | 2,118.2% |
-| 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 1.5% |
-| 12:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
+| 11:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -2.80% |  | -4.00% |
+| 11:40 | IDR | Low | Retail Sales (YoY) | 2.4% |  | 1.5% |
+| 10 min | SGD | Low | Unemployment Rate |  |  | 2.0% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -20.6% |
-| 15:00 | NOK | Low | Core CPI YTD (Nov) |  |  | 6.0% |
-| 15:00 | NOK | Low | Core Inflation (MoM) (Nov) |  |  | 0.6% |
-| 15:00 | NOK | Low | CPI (YoY) (Nov) |  |  | 4.0% |
-| 15:00 | NOK | Low | CPI (MoM) (Nov) |  |  | 1.0% |
+| 15:00 | NOK | Low | Core CPI YTD (Nov) |  | 6.0% | 6.0% |
+| 15:00 | NOK | Low | Core Inflation (MoM) (Nov) |  | -0.1% | 0.6% |
+| 15:00 | NOK | Low | CPI (YoY) (Nov) |  | 4.9% | 4.0% |
+| 15:00 | NOK | Low | CPI (MoM) (Nov) |  | 0.7% | 1.0% |
 | 15:00 | NOK | Low | PPI (YoY) (Nov) |  |  | -10.9% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |

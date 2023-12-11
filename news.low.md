@@ -4,13 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 07:50 | JPY | M2 Money Stock (YoY) | 2.3% | 2.5% | 2.4% |
 | 07:50 | JPY | M3 Money Supply (Nov) | 2,121.5% |  | 2,118.2% |
-| 11:00 | IDR | Retail Sales (YoY) |  |  | 1.5% |
-| 12:30 | SGD | Unemployment Rate |  |  | 2.0% |
+| 11:00 | IDR | Motorbike Sales (YoY) (Nov) | -2.80% |  | -4.00% |
+| 11:40 | IDR | Retail Sales (YoY) | 2.4% |  | 1.5% |
+| 10 min | SGD | Unemployment Rate |  |  | 2.0% |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -20.6% |
-| 15:00 | NOK | Core CPI YTD (Nov) |  |  | 6.0% |
-| 15:00 | NOK | Core Inflation (MoM) (Nov) |  |  | 0.6% |
-| 15:00 | NOK | CPI (YoY) (Nov) |  |  | 4.0% |
-| 15:00 | NOK | CPI (MoM) (Nov) |  |  | 1.0% |
+| 15:00 | NOK | Core CPI YTD (Nov) |  | 6.0% | 6.0% |
+| 15:00 | NOK | Core Inflation (MoM) (Nov) |  | -0.1% | 0.6% |
+| 15:00 | NOK | CPI (YoY) (Nov) |  | 4.9% | 4.0% |
+| 15:00 | NOK | CPI (MoM) (Nov) |  | 0.7% | 1.0% |
 | 15:00 | NOK | PPI (YoY) (Nov) |  |  | -10.9% |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
