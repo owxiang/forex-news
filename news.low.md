@@ -7,12 +7,12 @@
 | 08:01 | GBP | Rightmove House Price Index (MoM) | -1.9% |  | -1.7% |
 | 11:00 | IDR | Motorbike Sales (YoY) (Nov) | -2.80% |  | -4.00% |
 | 11:40 | IDR | Retail Sales (YoY) | 2.4% |  | 1.5% |
-| 45 min | JPY | Machine Tool Orders (YoY) |  |  | -20.6% |
-| 15:00 | NOK | Core CPI YTD (Nov) |  | 6.0% | 6.0% |
-| 15:00 | NOK | Core Inflation (MoM) (Nov) |  | -0.1% | 0.6% |
-| 15:00 | NOK | CPI (YoY) (Nov) |  | 4.9% | 4.0% |
-| 15:00 | NOK | CPI (MoM) (Nov) |  | 0.7% | 1.0% |
-| 15:00 | NOK | PPI (YoY) (Nov) |  |  | -10.9% |
+| 14:00 | JPY | Machine Tool Orders (YoY) | -13.6% |  | -20.6% |
+| 38 min | NOK | Core CPI YTD (Nov) |  | 6.0% | 6.0% |
+| 38 min | NOK | Core Inflation (MoM) (Nov) |  | -0.1% | 0.6% |
+| 38 min | NOK | CPI (YoY) (Nov) |  | 4.9% | 4.0% |
+| 38 min | NOK | CPI (MoM) (Nov) |  | 0.7% | 1.0% |
+| 38 min | NOK | PPI (YoY) (Nov) |  |  | -10.9% |
 | 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.393% |
