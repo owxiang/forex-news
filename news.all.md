@@ -7,7 +7,7 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.190% |  | 5.190% |
 | 02:00 | USD | High | 10-Year Note Auction | 4.296% |  | 4.519% |
 | 02:00 | USD | Low | 3-Month Bill Auction | 5.260% |  | 5.250% |
-| 04:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 57 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | -0.7% |
 | 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
 | 05:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 48.70% |
@@ -36,8 +36,8 @@
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 11.2 | 13.8 |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.860% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  |  | -4.3% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  |  | -0.5% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Oct) |  |  | 0.2% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | 4.6% | 3.9% |
 | 20:00 | INR | Moderate | CPI (YoY) (Nov) |  | 5.70% | 4.87% |
