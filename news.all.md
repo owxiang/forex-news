@@ -9,11 +9,11 @@
 | 11:00 | IDR | Low | Motorbike Sales (YoY) (Nov) | -2.80% |  | -4.00% |
 | 11:40 | IDR | Low | Retail Sales (YoY) | 2.4% |  | 1.5% |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -13.6% |  | -20.6% |
-| 38 min | NOK | Low | Core CPI YTD (Nov) |  | 6.0% | 6.0% |
-| 38 min | NOK | Low | Core Inflation (MoM) (Nov) |  | -0.1% | 0.6% |
-| 38 min | NOK | Low | CPI (YoY) (Nov) |  | 4.9% | 4.0% |
-| 38 min | NOK | Low | CPI (MoM) (Nov) |  | 0.7% | 1.0% |
-| 38 min | NOK | Low | PPI (YoY) (Nov) |  |  | -10.9% |
+| 15:00 | NOK | Low | Core CPI YTD (Nov) | 5.8% | 6.0% | 6.0% |
+| 15:00 | NOK | Low | Core Inflation (MoM) (Nov) | -0.2% | -0.1% | 0.6% |
+| 15:00 | NOK | Low | CPI (YoY) (Nov) | 4.8% | 4.9% | 4.0% |
+| 15:00 | NOK | Low | CPI (MoM) (Nov) | 0.5% | 0.7% | 1.0% |
+| 15:00 | NOK | Low | PPI (YoY) (Nov) | -15.6% |  | -10.9% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.393% |
