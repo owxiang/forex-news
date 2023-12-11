@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.40% |  | 3.60% |
-| 8 min | USD | 3-Year Note Auction |  |  | 4.701% |
+| 00:30 | USD | 3-Year Note Auction | 4.490% |  | 4.701% |
 | 04:10 | EUR | ECB McCaul Speaks |  |  |  |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) |  |  | -0.7% |
 | 08:30 | AUD | NAB Business Confidence (Nov) |  |  | -2 |
