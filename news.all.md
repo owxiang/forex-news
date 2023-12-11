@@ -7,7 +7,7 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.190% |  | 5.190% |
 | 02:00 | USD | High | 10-Year Note Auction | 4.296% |  | 4.519% |
 | 02:00 | USD | Low | 3-Month Bill Auction | 5.260% |  | 5.250% |
-| 57 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 04:10 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Nov) |  |  | -0.7% |
 | 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Nov) |  |  | -2.0% |
 | 05:45 | NZD | Low | External Migration & Visitors (Oct) |  |  | 48.70% |
