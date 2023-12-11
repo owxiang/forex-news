@@ -11,12 +11,12 @@
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -13.6% |  | -20.6% |
 | 15:00 | NOK | Low | Core CPI YTD (Nov) | 5.8% | 6.0% | 6.0% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Nov) | -0.2% | -0.1% | 0.6% |
-| 15:00 | NOK | Low | CPI (MoM) (Nov) | 0.5% | 0.7% | 1.0% |
 | 15:00 | NOK | Low | CPI (YoY) (Nov) | 4.8% | 4.9% | 4.0% |
+| 15:00 | NOK | Low | CPI (MoM) (Nov) | 0.5% | 0.7% | 1.0% |
 | 15:00 | NOK | Low | PPI (YoY) (Nov) | -15.6% |  | -10.9% |
 | 18:20 | GBP | Low | Rightmove House Price Index (YoY) (Dec) | -1.1% |  | -1.3% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.393% |
-| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.766% |
-| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
-| 23:00 | USD | Low | CB Employment Trends Index (Nov) |  |  | 114.16 |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.423% |  | 3.393% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.778% |  | 3.766% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.739% |  | 3.739% |
+| 44 min | USD | Low | CB Employment Trends Index (Nov) |  |  | 114.16 |
