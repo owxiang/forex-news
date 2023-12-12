@@ -36,26 +36,25 @@
 | 18:20 | GBP | Low | 5-Year Treasury Gilt Auction | 4.041% |  | 4.474% |
 | 18:20 | EUR | Low | Italian 12-Month BOT Auction | 3.528% |  | 3.860% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Nov) | 90.6 | 90.7 | 90.7 |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) | -0.2% | 0.4% | -0.8% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) | 2.1% | 1.8% | -4.1% |
-| 20:00 | MXN | Low | Industrial Production (MoM) (Oct) | 0.6% | -0.1% | 0.2% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) | -0.2% | 0.4% | -0.8% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Oct) | 5.5% | 4.2% | 4.0% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Oct) | 0.6% | -0.1% | 0.2% |
 | 20:00 | INR | Moderate | CPI (YoY) (Nov) | 5.55% | 5.70% | 4.87% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Oct) | 6.90% |  | 6.00% |
-| 20:00 | INR | Low | Industrial Production (YoY) (Oct) | 11.7% | 10.0% | 5.8% |
+| 20:00 | INR | Low | Industrial Production (YoY) (Oct) | 11.7% | 10.0% | 6.2% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Oct) | 10.4% |  | 4.9% |
 | 20:00 | BRL | Low | CPI (MoM) (Nov) | 0.28% | 0.30% | 0.24% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Nov) | 4.68% | 4.70% | 4.82% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.23% |  | 0.23% |
-| 29 min | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
-| 59 min | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
-| 59 min | USD | Moderate | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
-| 59 min | USD | Low | Core CPI Index (Nov) |  |  | 311.37 |
-| 59 min | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.2% |
-| 59 min | USD | High | CPI (MoM) (Nov) |  | 0.0% | 0.0% |
-| 59 min | USD | Low | CPI Index, n.s.a. (Nov) |  | 306.90 | 307.67 |
-| 59 min | USD | Low | CPI Index, s.a (Nov) |  |  | 307.62 |
-| 59 min | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |
-| 59 min | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 59 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
+| 10 min | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
+| 10 min | USD | Moderate | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
+| 10 min | USD | Low | Core CPI Index (Nov) |  |  | 311.37 |
+| 10 min | USD | High | CPI (MoM) (Nov) |  | 0.0% | 0.0% |
+| 10 min | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.2% |
+| 10 min | USD | Low | CPI Index, n.s.a. (Nov) |  | 306.90 | 307.67 |
+| 10 min | USD | Low | CPI Index, s.a (Nov) |  |  | 307.62 |
+| 10 min | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |
+| 10 min | USD | Low | Real Earnings (MoM) (Nov) |  |  | -0.1% |
+| 10 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 35 min | USD | Low | Redbook (YoY) |  |  | 3.0% |

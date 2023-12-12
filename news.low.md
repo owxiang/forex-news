@@ -23,18 +23,18 @@
 | 18:20 | GBP | 5-Year Treasury Gilt Auction | 4.041% |  | 4.474% |
 | 18:20 | EUR | Italian 12-Month BOT Auction | 3.528% |  | 3.860% |
 | 19:00 | USD | NFIB Small Business Optimism (Nov) | 90.6 | 90.7 | 90.7 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) | -0.2% | 0.4% | -0.8% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Oct) | 2.1% | 1.8% | -4.1% |
-| 20:00 | MXN | Industrial Production (MoM) (Oct) | 0.6% | -0.1% | 0.2% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) | -0.2% | 0.4% | -0.8% |
 | 20:00 | MXN | Industrial Production (YoY) (Oct) | 5.5% | 4.2% | 4.0% |
+| 20:00 | MXN | Industrial Production (MoM) (Oct) | 0.6% | -0.1% | 0.2% |
 | 20:00 | INR | Cumulative Industrial Production (Oct) | 6.90% |  | 6.00% |
-| 20:00 | INR | Industrial Production (YoY) (Oct) | 11.7% | 10.0% | 5.8% |
+| 20:00 | INR | Industrial Production (YoY) (Oct) | 11.7% | 10.0% | 6.2% |
 | 20:00 | INR | Manufacturing Output (MoM) (Oct) | 10.4% |  | 4.9% |
 | 20:00 | BRL | CPI (MoM) (Nov) | 0.28% | 0.30% | 0.24% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.23% |  | 0.23% |
-| 59 min | USD | Core CPI Index (Nov) |  |  | 311.37 |
-| 59 min | USD | CPI Index, n.s.a. (Nov) |  | 306.90 | 307.67 |
-| 59 min | USD | CPI Index, s.a (Nov) |  |  | 307.62 |
-| 59 min | USD | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |
-| 59 min | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
-| 21:55 | USD | Redbook (YoY) |  |  | 3.0% |
+| 10 min | USD | Core CPI Index (Nov) |  |  | 311.37 |
+| 10 min | USD | CPI Index, n.s.a. (Nov) |  | 306.90 | 307.67 |
+| 10 min | USD | CPI Index, s.a (Nov) |  |  | 307.62 |
+| 10 min | USD | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |
+| 10 min | USD | Real Earnings (MoM) (Nov) |  |  | -0.1% |
+| 35 min | USD | Redbook (YoY) |  |  | 3.0% |
