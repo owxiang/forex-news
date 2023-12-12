@@ -9,10 +9,10 @@
 | 05:45 | NZD | Permanent/Long-Term Migration (Oct) | 7,810 |  | 10,010 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | -8.0% |  | 2.3% |
 | 06:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 14 min | AUD | Westpac Consumer Sentiment (Dec) |  |  | -2.6% |
-| 34 min | JPY | PPI (MoM) (Nov) |  | 0.2% | -0.4% |
-| 34 min | JPY | PPI (YoY) (Nov) |  | 0.1% | 0.8% |
-| 08:30 | AUD | NAB Business Survey (Nov) |  |  | 13 |
+| 07:30 | AUD | Westpac Consumer Sentiment (Dec) | 2.7% |  | -2.6% |
+| 07:50 | JPY | PPI (MoM) (Nov) | 0.2% | 0.2% | -0.3% |
+| 07:50 | JPY | PPI (YoY) (Nov) | 0.3% | 0.1% | 0.9% |
+| 08:30 | AUD | NAB Business Survey (Nov) | 9 |  | 13 |
 | 15:00 | GBP | Average Earnings ex Bonus (Oct) |  | 7.4% | 7.7% |
 | 15:00 | EUR | German WPI (MoM) (Nov) |  | -0.1% | -0.7% |
 | 15:00 | EUR | German WPI (YoY) (Nov) |  |  | -4.2% |
