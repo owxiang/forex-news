@@ -6,7 +6,7 @@
 | 00:30 | USD | 3-Year Note Auction | 4.490% |  | 4.701% |
 | 04:10 | EUR | ECB McCaul Speaks |  |  |  |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) | 1.6% |  | -0.6% |
-| 08:30 | AUD | NAB Business Confidence (Nov) | -9 |  | -2 |
+| 08:30 | AUD | NAB Business Confidence (Nov) | -9 |  | -3 |
 | 15:00 | GBP | Average Earnings Index +Bonus (Oct) |  | 7.7% | 7.9% |
 | 15:00 | GBP | Claimant Count Change (Nov) |  | 15.0K | 17.8K |
 | 15:00 | GBP | Employment Change 3M/3M (MoM) (Oct) |  |  | 54K |
