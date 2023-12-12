@@ -15,8 +15,8 @@
 | 07:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 8 |
 | 07:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) |  |  | 12 |
 | 11:00 | KRW | M2 Money supply |  |  | 1.90% |
-| 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
+| 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
 | 15:00 | GBP | Index of Services |  | 0.2% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
@@ -43,8 +43,8 @@
 | 20:00 | USD | MBA Purchase Index |  |  | 144.5 |
 | 20:00 | USD | Mortgage Market Index |  |  | 181.1 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 373.3 |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |

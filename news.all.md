@@ -5,7 +5,7 @@
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Nov) | 0.4% |  | 0.3% |
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 02:00 | USD | High | 30-Year Bond Auction | 4.344% |  | 4.769% |
-| 39 min | USD | Moderate | Federal Budget Balance (Nov) |  | -301.1B | -67.0B |
+| 03:00 | USD | Moderate | Federal Budget Balance (Nov) | -314.0B | -301.1B | -67.0B |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | -9.5% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -10.2% |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | 0.594M |
@@ -25,8 +25,8 @@
 | 07:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 8 |
 | 07:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) |  |  | 12 |
 | 11:00 | KRW | Low | M2 Money supply |  |  | 1.90% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | High | GDP (MoM) (Oct) |  | 0.0% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
 | 15:00 | GBP | Low | Index of Services |  | 0.2% | -0.1% |
@@ -48,8 +48,8 @@
 | 16:00 | ZAR | Low | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
 | 17:30 | ZAR | Low | Business Confidence (Nov) |  |  | 108.2 |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
 | 18:00 | EUR | Low | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
+| 18:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
 | 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.75% |
 | 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
 | 18:30 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.664% |
@@ -62,11 +62,11 @@
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 181.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 373.3 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.1% |
-| 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
+| 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
