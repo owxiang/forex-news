@@ -27,8 +27,8 @@
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
 | 16:00 | ZAR | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
-| 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 16:00 | ZAR | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
+| 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
 | 17:30 | ZAR | Business Confidence (Nov) |  |  | 108.2 |
 | 18:00 | EUR | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
@@ -46,9 +46,9 @@
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 22:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |

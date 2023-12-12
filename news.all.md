@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Nov) | 0.4% |  | 0.3% |
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 45 min | USD | High | 30-Year Bond Auction |  |  | 4.769% |
-| 03:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -301.1B | -67.0B |
+| 02:00 | USD | High | 30-Year Bond Auction | 4.344% |  | 4.769% |
+| 39 min | USD | Moderate | Federal Budget Balance (Nov) |  | -301.1B | -67.0B |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | -9.5% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -10.2% |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | 0.594M |
@@ -44,8 +44,8 @@
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
-| 16:00 | ZAR | Low | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 16:00 | ZAR | Low | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
+| 16:00 | ZAR | Low | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
 | 17:30 | ZAR | Low | Business Confidence (Nov) |  |  | 108.2 |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
@@ -67,10 +67,10 @@
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.1% |
 | 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | Low | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
-| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 22:00 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
