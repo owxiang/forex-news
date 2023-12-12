@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Nov) | 0.4% |  | 0.3% |
-| 40 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 02:00 | USD | High | 30-Year Bond Auction |  |  | 4.769% |
+| 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 45 min | USD | High | 30-Year Bond Auction |  |  | 4.769% |
 | 03:00 | USD | Moderate | Federal Budget Balance (Nov) |  | -301.1B | -67.0B |
 | 05:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | -9.5% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -10.2% |
@@ -30,8 +30,8 @@
 | 15:00 | GBP | High | GDP (MoM) (Oct) |  | 0.0% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
 | 15:00 | GBP | Low | Index of Services |  | 0.2% | -0.1% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
+| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  | 1.9% | 3.0% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
@@ -65,8 +65,8 @@
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.1% |
-| 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
+| 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | Low | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
