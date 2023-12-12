@@ -6,11 +6,11 @@
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 02:00 | USD | High | 30-Year Bond Auction | 4.344% |  | 4.769% |
 | 03:00 | USD | Moderate | Federal Budget Balance (Nov) | -314.0B | -301.1B | -67.0B |
-| 05:00 | KRW | Low | Export Price Index (YoY) (Nov) |  |  | -9.5% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -10.2% |
+| 43 min | KRW | Low | Export Price Index (YoY) (Nov) |  |  | -9.5% |
+| 43 min | KRW | Low | Import Price Index (YoY) (Nov) |  |  | -10.2% |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.500M | 0.594M |
-| 05:45 | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.85B | -4.21B |
 | 05:45 | NZD | Moderate | Current Account (YoY) (Q3) |  |  | -29.76B |
+| 05:45 | NZD | Moderate | Current Account (QoQ) (Q3) |  | -10.85B | -4.21B |
 | 05:45 | NZD | Low | Current Account % of GDP (Q3) |  |  | -7.50% |
 | 07:00 | KRW | Low | Unemployment Rate (Nov) |  |  | 2.5% |
 | 07:00 | NZD | Low | FPI (MoM) (Nov) |  |  | -0.9% |
@@ -30,8 +30,8 @@
 | 15:00 | GBP | High | GDP (MoM) (Oct) |  | 0.0% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
 | 15:00 | GBP | Low | Index of Services |  | 0.2% | -0.1% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
+| 15:00 | GBP | Low | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  | 1.9% | 3.0% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
@@ -42,8 +42,8 @@
 | 16:00 | CNY | Moderate | New Loans |  | 1,300.0B | 738.4B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.0% | 10.9% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
 | 16:00 | ZAR | Low | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |

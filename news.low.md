@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Cleveland CPI (MoM) (Nov) | 0.4% |  | 0.3% |
-| 05:00 | KRW | Export Price Index (YoY) (Nov) |  |  | -9.5% |
-| 05:00 | KRW | Import Price Index (YoY) (Nov) |  |  | -10.2% |
+| 43 min | KRW | Export Price Index (YoY) (Nov) |  |  | -9.5% |
+| 43 min | KRW | Import Price Index (YoY) (Nov) |  |  | -10.2% |
 | 05:45 | NZD | Current Account % of GDP (Q3) |  |  | -7.50% |
 | 07:00 | KRW | Unemployment Rate (Nov) |  |  | 2.5% |
 | 07:00 | NZD | FPI (MoM) (Nov) |  |  | -0.9% |
@@ -25,8 +25,8 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.3% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.0% | 10.9% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
-| 16:00 | ZAR | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
+| 16:00 | ZAR | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
 | 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
