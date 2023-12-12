@@ -27,15 +27,15 @@
 | 15:00 | GBP | Moderate | Unemployment Rate (Oct) | 4.2% | 4.2% | 4.2% |
 | 15:00 | EUR | Low | German WPI (MoM) (Nov) | -0.2% | -0.1% | -0.7% |
 | 15:00 | EUR | Low | German WPI (YoY) (Nov) | -3.6% |  | -4.2% |
-| 17:30 | ZAR | Low | Business Confidence |  |  | 108.2 |
-| 17:30 | ZAR | Low | Gold Production (YoY) (Oct) |  |  | -0.1% |
-| 17:30 | ZAR | Low | Mining Production (Oct) |  | 1.5% | -1.9% |
-| 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.552% |
-| 18:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.474% |
-| 18:00 | EUR | Moderate | German ZEW Current Conditions (Dec) |  | -76.0 | -79.8 |
-| 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  | 8.8 | 9.8 |
-| 18:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 11.2 | 13.8 |
-| 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.860% |
+| 14 min | ZAR | Low | Business Confidence |  |  | 108.2 |
+| 14 min | ZAR | Low | Gold Production (YoY) (Oct) |  |  | -0.1% |
+| 14 min | ZAR | Low | Mining Production (Oct) |  | 1.5% | -1.9% |
+| 24 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.552% |
+| 44 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.474% |
+| 44 min | EUR | Moderate | German ZEW Current Conditions (Dec) |  | -76.0 | -79.8 |
+| 44 min | EUR | Moderate | German ZEW Economic Sentiment (Dec) |  | 8.8 | 9.8 |
+| 44 min | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 11.2 | 13.8 |
+| 54 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.860% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  | 1.8% | -4.3% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |

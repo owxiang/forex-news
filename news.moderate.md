@@ -11,9 +11,9 @@
 | 15:00 | GBP | Claimant Count Change (Nov) | 16.0K | 15.0K | 8.9K |
 | 15:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | 50K |  | 52K |
 | 15:00 | GBP | Unemployment Rate (Oct) | 4.2% | 4.2% | 4.2% |
-| 18:00 | EUR | German ZEW Current Conditions (Dec) |  | -76.0 | -79.8 |
-| 18:00 | EUR | German ZEW Economic Sentiment (Dec) |  | 8.8 | 9.8 |
-| 18:00 | EUR | ZEW Economic Sentiment (Dec) |  | 11.2 | 13.8 |
+| 44 min | EUR | German ZEW Current Conditions (Dec) |  | -76.0 | -79.8 |
+| 44 min | EUR | German ZEW Economic Sentiment (Dec) |  | 8.8 | 9.8 |
+| 44 min | EUR | ZEW Economic Sentiment (Dec) |  | 11.2 | 13.8 |
 | 20:00 | GBP | NIESR GDP Estimate |  |  | 0.1% |
 | 20:00 | INR | CPI (YoY) (Nov) |  | 5.70% | 4.87% |
 | 20:00 | BRL | CPI (YoY) (Nov) |  | 4.70% | 4.82% |

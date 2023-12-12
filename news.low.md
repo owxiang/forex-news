@@ -17,12 +17,12 @@
 | 15:00 | GBP | Average Earnings ex Bonus (Oct) | 7.3% | 7.4% | 7.8% |
 | 15:00 | EUR | German WPI (MoM) (Nov) | -0.2% | -0.1% | -0.7% |
 | 15:00 | EUR | German WPI (YoY) (Nov) | -3.6% |  | -4.2% |
-| 17:30 | ZAR | Business Confidence |  |  | 108.2 |
-| 17:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -0.1% |
-| 17:30 | ZAR | Mining Production (Oct) |  | 1.5% | -1.9% |
-| 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.552% |
-| 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.474% |
-| 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.860% |
+| 14 min | ZAR | Business Confidence |  |  | 108.2 |
+| 14 min | ZAR | Gold Production (YoY) (Oct) |  |  | -0.1% |
+| 14 min | ZAR | Mining Production (Oct) |  | 1.5% | -1.9% |
+| 24 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.552% |
+| 44 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.474% |
+| 54 min | EUR | Italian 12-Month BOT Auction |  |  | 3.860% |
 | 19:00 | USD | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Oct) |  | 1.8% | -4.3% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
