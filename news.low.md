@@ -20,18 +20,18 @@
 | 17:30 | ZAR | Gold Production (YoY) (Oct) | 2.2% |  | -0.2% |
 | 17:30 | ZAR | Mining Production (Oct) | 3.9% | 1.5% | -1.9% |
 | 17:40 | EUR | Spanish 3-Month Letras Auction | 3.580% |  | 3.552% |
-| 3 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.474% |
-| 3 min | EUR | Italian 12-Month BOT Auction |  |  | 3.860% |
-| 43 min | USD | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
-| 43 min | ZAR | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
-| 43 min | ZAR | Manufacturing Production (YoY) (Oct) |  | 1.8% | -4.3% |
-| 20:00 | MXN | Industrial Production (YoY) (Oct) |  | 4.2% | 3.9% |
-| 20:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.1% | 0.2% |
-| 20:00 | INR | Cumulative Industrial Production (Oct) |  |  | 6.00% |
-| 20:00 | INR | Industrial Production (YoY) (Oct) |  | 10.0% | 5.8% |
-| 20:00 | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.5% |
-| 20:00 | BRL | CPI (MoM) (Nov) |  | 0.30% | 0.24% |
-| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.23% |
+| 18:20 | GBP | 5-Year Treasury Gilt Auction | 4.041% |  | 4.474% |
+| 18:20 | EUR | Italian 12-Month BOT Auction | 3.528% |  | 3.860% |
+| 19:00 | USD | NFIB Small Business Optimism (Nov) | 90.6 | 90.7 | 90.7 |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Oct) | 2.1% | 1.8% | -4.1% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) | -0.2% | 0.4% | -0.8% |
+| 46 min | MXN | Industrial Production (MoM) (Oct) |  | -0.1% | 0.2% |
+| 46 min | MXN | Industrial Production (YoY) (Oct) |  | 4.2% | 3.9% |
+| 46 min | INR | Cumulative Industrial Production (Oct) |  |  | 6.00% |
+| 46 min | INR | Industrial Production (YoY) (Oct) |  | 10.0% | 5.8% |
+| 46 min | INR | Manufacturing Output (MoM) (Oct) |  |  | 4.5% |
+| 46 min | BRL | CPI (MoM) (Nov) |  | 0.30% | 0.24% |
+| 46 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.23% |
 | 21:30 | USD | Core CPI Index (Nov) |  |  | 311.37 |
 | 21:30 | USD | CPI Index, n.s.a. (Nov) |  | 306.90 | 307.67 |
 | 21:30 | USD | CPI Index, s.a (Nov) |  |  | 307.62 |
