@@ -16,5 +16,5 @@
 | 18:00 | EUR | ZEW Economic Sentiment (Dec) | 23.0 | 11.2 | 13.8 |
 | 20:00 | INR | CPI (YoY) (Nov) | 5.55% | 5.70% | 4.87% |
 | 20:00 | BRL | CPI (YoY) (Nov) | 4.68% | 4.70% | 4.82% |
-| 10 min | USD | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
-| 10 min | EUR | ECB McCaul Speaks |  |  |  |
+| 21:30 | USD | Core CPI (YoY) (Nov) | 4.0% | 4.0% | 4.0% |
+| 21:30 | EUR | ECB McCaul Speaks |  |  |  |
