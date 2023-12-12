@@ -5,9 +5,9 @@
 | 00:00 | USD | Cleveland CPI (MoM) (Nov) | 0.4% |  | 0.3% |
 | 05:00 | KRW | Export Price Index (YoY) (Nov) | -7.2% |  | -9.3% |
 | 05:00 | KRW | Import Price Index (YoY) (Nov) | -8.5% |  | -9.9% |
-| 31 min | NZD | Current Account % of GDP (Q3) |  |  | -7.50% |
-| 07:00 | KRW | Unemployment Rate (Nov) |  |  | 2.5% |
-| 07:00 | NZD | FPI (MoM) (Nov) |  |  | -0.9% |
+| 05:45 | NZD | Current Account % of GDP (Q3) | -7.60% |  | -7.60% |
+| 45 min | KRW | Unemployment Rate (Nov) |  |  | 2.5% |
+| 45 min | NZD | FPI (MoM) (Nov) |  |  | -0.9% |
 | 07:50 | JPY | Tankan All Small Industry CAPEX (Q4) |  |  | 8.0% |
 | 07:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  | 25 | 21 |
 | 07:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q4) |  |  | -2 |
@@ -15,8 +15,8 @@
 | 07:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 8 |
 | 07:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) |  |  | 12 |
 | 11:00 | KRW | M2 Money supply |  |  | 1.90% |
-| 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
+| 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
 | 15:00 | GBP | Index of Services |  | 0.2% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
@@ -27,8 +27,8 @@
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
 | 16:00 | ZAR | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 16:00 | ZAR | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
-| 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 16:00 | ZAR | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
+| 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
 | 17:30 | ZAR | Business Confidence (Nov) |  |  | 108.2 |
 | 18:00 | EUR | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
@@ -43,8 +43,8 @@
 | 20:00 | USD | MBA Purchase Index |  |  | 144.5 |
 | 20:00 | USD | Mortgage Market Index |  |  | 181.1 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 373.3 |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
