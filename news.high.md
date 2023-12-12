@@ -1,8 +1,8 @@
-## 12 December 2023 - High Impact Forex News
+## 13 December 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 10-Year Note Auction | 4.296% |  | 4.519% |
-| 21:30 | USD | Core CPI (MoM) (Nov) | 0.3% | 0.3% | 0.2% |
-| 21:30 | USD | CPI (YoY) (Nov) | 3.1% | 3.1% | 3.2% |
-| 21:30 | USD | CPI (MoM) (Nov) | 0.1% | 0.0% | 0.0% |
+| 02:00 | USD | 30-Year Bond Auction |  |  | 4.769% |
+| 15:00 | GBP | GDP (MoM) (Oct) |  | 0.0% | 0.2% |
+| 21:30 | USD | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
+| 23:30 | USD | Crude Oil Inventories |  | -1.500M | -4.632M |

@@ -1,20 +1,24 @@
-## 12 December 2023 - Moderate Impact Forex News
+## 13 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.40% |  | 3.60% |
-| 00:30 | USD | 3-Year Note Auction | 4.490% |  | 4.701% |
-| 04:10 | EUR | ECB McCaul Speaks |  |  |  |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Nov) | 1.6% |  | -0.6% |
-| 08:30 | AUD | NAB Business Confidence (Nov) | -9 |  | -3 |
-| 15:00 | GBP | Average Earnings Index +Bonus (Oct) | 7.2% | 7.7% | 8.0% |
-| 15:00 | GBP | Claimant Count Change (Nov) | 16.0K | 15.0K | 8.9K |
-| 15:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | 50K |  | 52K |
-| 15:00 | GBP | Unemployment Rate (Oct) | 4.2% | 4.2% | 4.2% |
-| 18:00 | EUR | German ZEW Current Conditions (Dec) | -77.1 | -76.0 | -79.8 |
-| 18:00 | EUR | German ZEW Economic Sentiment (Dec) | 12.8 | 8.8 | 9.8 |
-| 18:00 | EUR | ZEW Economic Sentiment (Dec) | 23.0 | 11.2 | 13.8 |
-| 20:00 | INR | CPI (YoY) (Nov) | 5.55% | 5.70% | 4.87% |
-| 20:00 | BRL | CPI (YoY) (Nov) | 4.68% | 4.70% | 4.82% |
-| 21:30 | USD | Core CPI (YoY) (Nov) | 4.0% | 4.0% | 4.0% |
-| 21:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 40 min | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 03:00 | USD | Federal Budget Balance (Nov) |  | -301.1B | -67.0B |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | -1.500M | 0.594M |
+| 05:45 | NZD | Current Account (QoQ) (Q3) |  | -10.85B | -4.21B |
+| 05:45 | NZD | Current Account (YoY) (Q3) |  |  | -29.76B |
+| 07:50 | JPY | Tankan All Big Industry CAPEX (Q4) |  | 12.4% | 13.6% |
+| 07:50 | JPY | Tankan Big Manufacturing Outlook Index (Q4) |  | 9 | 10 |
+| 07:50 | JPY | Tankan Large Manufacturers Index (Q4) |  | 10 | 9 |
+| 07:50 | JPY | Tankan Large Non-Manufacturers Index (Q4) |  | 27 | 27 |
+| 15:00 | GBP | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
+| 15:00 | GBP | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
+| 15:00 | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
+| 15:00 | GBP | Trade Balance (Oct) |  | -14.10B | -14.29B |
+| 15:00 | GBP | Trade Balance Non-EU (Oct) |  |  | -4.45B |
+| 16:00 | CNY | New Loans |  | 1,300.0B | 738.4B |
+| 18:00 | EUR | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
+| 20:00 | USD | OPEC Monthly Report |  |  |  |
+| 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.1% |
+| 21:30 | USD | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.829M |

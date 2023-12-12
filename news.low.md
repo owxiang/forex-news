@@ -1,40 +1,64 @@
-## 12 December 2023 - Low Impact Forex News
+## 13 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 6-Month Bill Auction | 5.190% |  | 5.190% |
-| 02:00 | USD | 3-Month Bill Auction | 5.260% |  | 5.250% |
-| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Nov) | 2.1% |  | -2.0% |
-| 05:45 | NZD | External Migration & Visitors (Oct) | 39.80% |  | 48.70% |
-| 05:45 | NZD | Permanent/Long-Term Migration (Oct) | 7,810 |  | 10,010 |
-| 05:45 | NZD | Visitor Arrivals (MoM) | -8.0% |  | 2.3% |
-| 06:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:30 | AUD | Westpac Consumer Sentiment (Dec) | 2.7% |  | -2.6% |
-| 07:50 | JPY | PPI (YoY) (Nov) | 0.3% | 0.1% | 0.9% |
-| 07:50 | JPY | PPI (MoM) (Nov) | 0.2% | 0.2% | -0.3% |
-| 08:30 | AUD | NAB Business Survey (Nov) | 9 |  | 13 |
-| 11:35 | JPY | 5-Year JGB Auction | 0.325% |  | 0.418% |
-| 15:00 | GBP | Average Earnings ex Bonus (Oct) | 7.3% | 7.4% | 7.8% |
-| 15:00 | EUR | German WPI (MoM) (Nov) | -0.2% | -0.1% | -0.7% |
-| 15:00 | EUR | German WPI (YoY) (Nov) | -3.6% |  | -4.2% |
-| 17:30 | ZAR | Gold Production (YoY) (Oct) | 2.2% |  | -0.2% |
-| 17:30 | ZAR | Mining Production (Oct) | 3.9% | 1.5% | -1.9% |
-| 17:40 | EUR | Spanish 3-Month Letras Auction | 3.580% |  | 3.552% |
-| 18:20 | GBP | 5-Year Treasury Gilt Auction | 4.041% |  | 4.474% |
-| 18:20 | EUR | Italian 12-Month BOT Auction | 3.528% |  | 3.860% |
-| 19:00 | USD | NFIB Small Business Optimism (Nov) | 90.6 | 90.7 | 90.7 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Oct) | 2.1% | 1.8% | -4.1% |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) | -0.2% | 0.4% | -0.8% |
-| 20:00 | MXN | Industrial Production (MoM) (Oct) | 0.6% | -0.1% | 0.2% |
-| 20:00 | MXN | Industrial Production (YoY) (Oct) | 5.5% | 4.2% | 4.0% |
-| 20:00 | INR | Cumulative Industrial Production (Oct) | 6.90% |  | 6.00% |
-| 20:00 | INR | Industrial Production (YoY) (Oct) | 11.7% | 10.0% | 6.2% |
-| 20:00 | INR | Manufacturing Output (MoM) (Oct) | 10.4% |  | 4.9% |
-| 20:00 | BRL | CPI (MoM) (Nov) | 0.28% | 0.30% | 0.24% |
-| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Nov) | 0.23% |  | 0.23% |
-| 21:30 | USD | Core CPI Index (Nov) | 312.25 |  | 311.37 |
-| 21:30 | USD | CPI Index, n.s.a. (Nov) | 307.05 | 306.90 | 307.67 |
-| 21:30 | USD | CPI Index, s.a (Nov) | 307.92 |  | 307.62 |
-| 21:30 | USD | CPI, n.s.a (MoM) (Nov) | -0.20% |  | -0.04% |
-| 21:30 | USD | Real Earnings (MoM) (Nov) | 0.5% |  | -0.1% |
-| 21:55 | USD | Redbook (YoY) | 3.4% |  | 3.0% |
+| 00:00 | USD | Cleveland CPI (MoM) (Nov) | 0.4% |  | 0.3% |
+| 05:00 | KRW | Export Price Index (YoY) (Nov) |  |  | -9.5% |
+| 05:00 | KRW | Import Price Index (YoY) (Nov) |  |  | -10.2% |
+| 05:45 | NZD | Current Account % of GDP (Q3) |  |  | -7.50% |
+| 07:00 | KRW | Unemployment Rate (Nov) |  |  | 2.5% |
+| 07:00 | NZD | FPI (MoM) (Nov) |  |  | -0.9% |
+| 07:50 | JPY | Tankan All Small Industry CAPEX (Q4) |  |  | 8.0% |
+| 07:50 | JPY | Tankan Large Non-Manufacturers Diffusion Index (Q4) |  | 25 | 21 |
+| 07:50 | JPY | Tankan Small Manufacturers Diffusion Index (Q4) |  |  | -2 |
+| 07:50 | JPY | Tankan Small Manufacturing Index (Q4) |  | -4 | -5 |
+| 07:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q4) |  |  | 8 |
+| 07:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) |  |  | 12 |
+| 11:00 | KRW | M2 Money supply |  |  | 1.90% |
+| 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
+| 15:00 | GBP | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
+| 15:00 | GBP | Index of Services |  | 0.2% | -0.1% |
+| 15:00 | GBP | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
+| 15:00 | GBP | Manufacturing Production (YoY) (Oct) |  | 1.9% | 3.0% |
+| 16:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 16:00 | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.3% |
+| 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.0% | 10.9% |
+| 16:00 | CNY | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
+| 16:00 | ZAR | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
+| 16:00 | ZAR | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
+| 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
+| 16:00 | ZAR | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
+| 17:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
+| 17:30 | ZAR | Business Confidence (Nov) |  |  | 108.2 |
+| 18:00 | EUR | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
+| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.75% |
+| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 4.21% |
+| 18:30 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.664% |
+| 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 19:00 | ZAR | Retail Sales (YoY) (Oct) |  | 0.9% | 0.9% |
+| 19:30 | INR | M3 Money Supply |  |  | 11.2% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.17% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
+| 20:00 | USD | MBA Purchase Index |  |  | 144.5 |
+| 20:00 | USD | Mortgage Market Index |  |  | 181.1 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 373.3 |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
+| 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
+| 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
+| 22:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 60.76 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 57.11 |
+| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.179M |
+| 23:30 | USD | Crude Oil Imports |  |  | 2.091M |
+| 23:30 | USD | Distillate Fuel Production |  |  | 0.072M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | 1.167M | 1.267M |
+| 23:30 | USD | Gasoline Production |  |  | 0.180M |
+| 23:30 | USD | Heating Oil Stockpiles |  |  | -1.126M |
+| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
+| 23:30 | USD | Gasoline Inventories |  | 2.400M | 5.421M |
