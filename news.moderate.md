@@ -14,8 +14,8 @@
 | 18:00 | EUR | German ZEW Current Conditions (Dec) | -77.1 | -76.0 | -79.8 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Dec) | 12.8 | 8.8 | 9.8 |
 | 18:00 | EUR | ZEW Economic Sentiment (Dec) | 23.0 | 11.2 | 13.8 |
-| 46 min | GBP | NIESR GDP Estimate |  |  | 0.1% |
-| 46 min | INR | CPI (YoY) (Nov) |  | 5.70% | 4.87% |
-| 46 min | BRL | CPI (YoY) (Nov) |  | 4.70% | 4.82% |
-| 21:30 | USD | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
-| 21:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 20:00 | INR | CPI (YoY) (Nov) | 5.55% | 5.70% | 4.87% |
+| 20:00 | BRL | CPI (YoY) (Nov) | 4.68% | 4.70% | 4.82% |
+| 29 min | GBP | NIESR GDP Estimate |  |  | 0.1% |
+| 59 min | USD | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
+| 59 min | EUR | ECB McCaul Speaks |  |  |  |
