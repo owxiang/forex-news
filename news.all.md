@@ -37,22 +37,23 @@
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Dec) |  | 11.2 | 13.8 |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.860% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Oct) |  | 1.8% | -4.3% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
+| 20:00 | GBP | Moderate | NIESR GDP Estimate |  |  | 0.1% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Oct) |  | -0.1% | 0.2% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Oct) |  | 4.2% | 3.9% |
 | 20:00 | INR | Moderate | CPI (YoY) (Nov) |  | 5.70% | 4.87% |
 | 20:00 | INR | Low | Cumulative Industrial Production (Oct) |  |  | 6.00% |
 | 20:00 | INR | Low | Industrial Production (YoY) (Oct) |  | 10.0% | 5.8% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Oct) |  |  | 4.5% |
-| 20:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.30% | 0.24% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Nov) |  | 4.70% | 4.82% |
+| 20:00 | BRL | Low | CPI (MoM) (Nov) |  | 0.30% | 0.24% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Nov) |  |  | 0.23% |
-| 21:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
 | 21:30 | USD | High | Core CPI (MoM) (Nov) |  | 0.3% | 0.2% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Nov) |  | 4.0% | 4.0% |
 | 21:30 | USD | Low | Core CPI Index (Nov) |  |  | 311.37 |
-| 21:30 | USD | High | CPI (MoM) (Nov) |  | 0.0% | 0.0% |
 | 21:30 | USD | High | CPI (YoY) (Nov) |  | 3.1% | 3.2% |
+| 21:30 | USD | High | CPI (MoM) (Nov) |  | 0.0% | 0.0% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Nov) |  | 306.90 | 307.67 |
 | 21:30 | USD | Low | CPI Index, s.a (Nov) |  |  | 307.62 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Nov) |  |  | -0.04% |

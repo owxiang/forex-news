@@ -24,8 +24,8 @@
 | 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.474% |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.860% |
 | 19:00 | USD | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Oct) |  | 1.8% | -4.3% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
 | 20:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.1% | 0.2% |
 | 20:00 | MXN | Industrial Production (YoY) (Oct) |  | 4.2% | 3.9% |
 | 20:00 | INR | Cumulative Industrial Production (Oct) |  |  | 6.00% |
