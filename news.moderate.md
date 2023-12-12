@@ -9,7 +9,7 @@
 | 08:30 | AUD | NAB Business Confidence (Nov) | -9 |  | -3 |
 | 15:00 | GBP | Average Earnings Index +Bonus (Oct) | 7.2% | 7.7% | 8.0% |
 | 15:00 | GBP | Claimant Count Change (Nov) | 16.0K | 15.0K | 8.9K |
-| 15:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | 50K |  | 54K |
+| 15:00 | GBP | Employment Change 3M/3M (MoM) (Oct) | 50K |  | 52K |
 | 15:00 | GBP | Unemployment Rate (Oct) | 4.2% | 4.2% | 4.2% |
 | 18:00 | EUR | German ZEW Current Conditions (Dec) |  | -76.0 | -79.8 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Dec) |  | 8.8 | 9.8 |

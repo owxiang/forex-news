@@ -23,7 +23,7 @@
 | 15:00 | GBP | Low | Average Earnings ex Bonus (Oct) | 7.3% | 7.4% | 7.8% |
 | 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Oct) | 7.2% | 7.7% | 8.0% |
 | 15:00 | GBP | Moderate | Claimant Count Change (Nov) | 16.0K | 15.0K | 8.9K |
-| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | 50K |  | 54K |
+| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Oct) | 50K |  | 52K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Oct) | 4.2% | 4.2% | 4.2% |
 | 15:00 | EUR | Low | German WPI (MoM) (Nov) | -0.2% | -0.1% | -0.7% |
 | 15:00 | EUR | Low | German WPI (YoY) (Nov) | -3.6% |  | -4.2% |
