@@ -10,13 +10,13 @@
 | 05:45 | NZD | Visitor Arrivals (MoM) | -8.0% |  | 2.3% |
 | 06:20 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:30 | AUD | Westpac Consumer Sentiment (Dec) | 2.7% |  | -2.6% |
-| 07:50 | JPY | PPI (MoM) (Nov) | 0.2% | 0.2% | -0.3% |
 | 07:50 | JPY | PPI (YoY) (Nov) | 0.3% | 0.1% | 0.9% |
+| 07:50 | JPY | PPI (MoM) (Nov) | 0.2% | 0.2% | -0.3% |
 | 08:30 | AUD | NAB Business Survey (Nov) | 9 |  | 13 |
 | 11:35 | JPY | 5-Year JGB Auction | 0.325% |  | 0.418% |
-| 38 min | GBP | Average Earnings ex Bonus (Oct) |  | 7.4% | 7.7% |
-| 38 min | EUR | German WPI (YoY) (Nov) |  |  | -4.2% |
-| 38 min | EUR | German WPI (MoM) (Nov) |  | -0.1% | -0.7% |
+| 15:00 | GBP | Average Earnings ex Bonus (Oct) | 7.3% | 7.4% | 7.8% |
+| 15:00 | EUR | German WPI (MoM) (Nov) | -0.2% | -0.1% | -0.7% |
+| 15:00 | EUR | German WPI (YoY) (Nov) | -3.6% |  | -4.2% |
 | 17:30 | ZAR | Business Confidence |  |  | 108.2 |
 | 17:30 | ZAR | Gold Production (YoY) (Oct) |  |  | -0.1% |
 | 17:30 | ZAR | Mining Production (Oct) |  | 1.5% | -1.9% |
@@ -24,8 +24,8 @@
 | 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.474% |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.860% |
 | 19:00 | USD | NFIB Small Business Optimism (Nov) |  | 90.7 | 90.7 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Oct) |  | 1.8% | -4.3% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Oct) |  | 0.4% | -0.5% |
 | 20:00 | MXN | Industrial Production (MoM) (Oct) |  | -0.1% | 0.2% |
 | 20:00 | MXN | Industrial Production (YoY) (Oct) |  | 4.2% | 3.9% |
 | 20:00 | INR | Cumulative Industrial Production (Oct) |  |  | 6.00% |
