@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | BRL | Foreign Exchange Flows |  |  | 0.388B |
 | 05:45 | NZD | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
 | 05:45 | NZD | GDP Annual Average (Q3) |  |  | 3.2% |
 | 05:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |

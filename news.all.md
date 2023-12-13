@@ -2,15 +2,14 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 15 min | BRL | Low | Foreign Exchange Flows |  |  | 0.388B |
-| 03:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 5.1% |
-| 03:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.9% |
-| 03:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) |  |  | 2.9% |
-| 03:00 | USD | Moderate | Interest Rate Projection - Current (Q4) |  |  | 5.6% |
-| 03:00 | USD | Moderate | Interest Rate Projection - Longer (Q4) |  |  | 2.5% |
-| 03:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 03:00 | USD | High | FOMC Statement |  |  |  |
-| 03:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 41 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 5.1% |
+| 41 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.9% |
+| 41 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) |  |  | 2.9% |
+| 41 min | USD | Moderate | Interest Rate Projection - Current (Q4) |  |  | 5.6% |
+| 41 min | USD | Moderate | Interest Rate Projection - Longer (Q4) |  |  | 2.5% |
+| 41 min | USD | High | FOMC Economic Projections |  |  |  |
+| 41 min | USD | High | FOMC Statement |  |  |  |
+| 41 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 03:30 | USD | High | FOMC Press Conference |  |  |  |
 | 05:30 | BRL | Moderate | Interest Rate Decision |  | 11.75% | 12.25% |
 | 05:45 | NZD | High | GDP (QoQ) (Q3) |  | 0.2% | 0.9% |
@@ -37,8 +36,8 @@
 | 14:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | -1.13% |
-| 15:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -0.9% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
+| 15:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -0.9% |
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 5.2% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
@@ -82,8 +81,8 @@
 | 21:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
 | 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
-| 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
+| 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 220K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |

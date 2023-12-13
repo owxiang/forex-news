@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | FOMC Economic Projections |  |  |  |
-| 03:00 | USD | FOMC Statement |  |  |  |
-| 03:00 | USD | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 41 min | USD | FOMC Economic Projections |  |  |  |
+| 41 min | USD | FOMC Statement |  |  |  |
+| 41 min | USD | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 03:30 | USD | FOMC Press Conference |  |  |  |
 | 05:45 | NZD | GDP (QoQ) (Q3) |  | 0.2% | 0.9% |
 | 16:30 | CHF | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |

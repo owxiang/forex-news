@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 5.1% |
-| 03:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.9% |
-| 03:00 | USD | Interest Rate Projection - 3rd Yr (Q4) |  |  | 2.9% |
-| 03:00 | USD | Interest Rate Projection - Current (Q4) |  |  | 5.6% |
-| 03:00 | USD | Interest Rate Projection - Longer (Q4) |  |  | 2.5% |
+| 41 min | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 5.1% |
+| 41 min | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.9% |
+| 41 min | USD | Interest Rate Projection - 3rd Yr (Q4) |  |  | 2.9% |
+| 41 min | USD | Interest Rate Projection - Current (Q4) |  |  | 5.6% |
+| 41 min | USD | Interest Rate Projection - Longer (Q4) |  |  | 2.5% |
 | 05:30 | BRL | Interest Rate Decision |  | 11.75% | 12.25% |
 | 08:01 | GBP | RICS House Price Balance (Nov) |  | -57% | -63% |
 | 08:30 | AUD | Employment Change (Nov) |  | 11.0K | 55.0K |
