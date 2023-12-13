@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | NZD | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
-| 30 min | NZD | GDP Annual Average (Q3) |  |  | 3.2% |
-| 30 min | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |
+| 05:45 | NZD | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
+| 05:45 | NZD | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
+| 05:45 | NZD | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 64.5B |

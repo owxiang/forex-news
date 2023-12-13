@@ -11,11 +11,11 @@
 | 03:00 | USD | High | FOMC Statement |  |  |  |
 | 03:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:30 | USD | High | FOMC Press Conference |  |  |  |
-| 15 min | BRL | Moderate | Interest Rate Decision |  | 11.75% | 12.25% |
-| 30 min | NZD | High | GDP (QoQ) (Q3) |  | 0.2% | 0.9% |
-| 30 min | NZD | Low | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
-| 30 min | NZD | Low | GDP Annual Average (Q3) |  |  | 3.2% |
-| 30 min | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |
+| 05:00 | BRL | Moderate | Interest Rate Decision | 11.75% | 11.75% | 12.25% |
+| 05:45 | NZD | High | GDP (QoQ) (Q3) | -0.3% | 0.2% | 0.5% |
+| 05:45 | NZD | Low | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
+| 05:45 | NZD | Low | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
+| 05:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 64.5B |
@@ -41,8 +41,8 @@
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 5.2% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |
 | 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -85,8 +85,8 @@
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 220K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |
-| 21:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.48% |
 | 21:30 | USD | High | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
+| 21:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.48% |
 | 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
 | 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 163.3K |

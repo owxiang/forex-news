@@ -7,7 +7,7 @@
 | 03:00 | USD | Interest Rate Projection - 3rd Yr (Q4) | 2.9% |  | 2.9% |
 | 03:00 | USD | Interest Rate Projection - Current (Q4) | 5.4% |  | 5.6% |
 | 03:00 | USD | Interest Rate Projection - Longer (Q4) | 2.5% |  | 2.5% |
-| 15 min | BRL | Interest Rate Decision |  | 11.75% | 12.25% |
+| 05:00 | BRL | Interest Rate Decision | 11.75% | 11.75% | 12.25% |
 | 08:01 | GBP | RICS House Price Balance (Nov) |  | -57% | -63% |
 | 08:30 | AUD | Employment Change (Nov) |  | 11.0K | 55.0K |
 | 08:30 | AUD | Full Employment Change (Nov) |  |  | 17.0K |
