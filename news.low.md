@@ -25,9 +25,9 @@
 | 16:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 16:00 | ZAR | Core CPI (MoM) (Nov) | 0.2% | 0.1% | 0.4% |
 | 16:00 | ZAR | Core CPI (YoY) (Nov) | 4.5% | 4.4% | 4.4% |
-| 16:00 | ZAR | CPI (YoY) (Nov) | 5.5% | 5.6% | 5.9% |
 | 16:00 | ZAR | CPI (MoM) (Nov) | -0.1% | 0.1% | 0.9% |
-| 17:00 | EUR | Italian Quarterly Unemployment Rate | 7.6% | 7.6% | 7.6% |
+| 16:00 | ZAR | CPI (YoY) (Nov) | 5.5% | 5.6% | 5.9% |
+| 17:00 | EUR | Italian Quarterly Unemployment Rate | 7.6% | 7.6% | 7.7% |
 | 17:00 | CNY | M2 Money Stock (YoY) (Nov) | 10.0% | 10.1% | 10.3% |
 | 17:00 | CNY | Outstanding Loan Growth (YoY) (Nov) | 10.8% | 11.0% | 10.9% |
 | 17:00 | CNY | Chinese Total Social Financing (Nov) | 2,450.0B | 2,600.0B | 1,850.0B |
@@ -38,18 +38,18 @@
 | 18:10 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.75% |
 | 18:10 | EUR | Italian 7-Year BTP Auction | 3.63% |  | 4.21% |
 | 19:00 | ZAR | Retail Sales (YoY) (Oct) | -2.5% | 0.9% | 1.0% |
-| 16 min | INR | M3 Money Supply |  |  | 11.2% |
-| 46 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.17% |
-| 46 min | USD | MBA Mortgage Applications (WoW) |  |  | 2.8% |
-| 46 min | USD | MBA Purchase Index |  |  | 144.5 |
-| 46 min | USD | Mortgage Market Index |  |  | 181.1 |
-| 46 min | USD | Mortgage Refinance Index |  |  | 373.3 |
-| 46 min | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
-| 46 min | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
-| 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
-| 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
+| 19:30 | INR | M3 Money Supply | 11.2% |  | 11.2% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate | 7.07% |  | 7.17% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) | 7.4% |  | 2.8% |
+| 20:00 | USD | MBA Purchase Index | 149.6 |  | 144.5 |
+| 20:00 | USD | Mortgage Market Index | 194.5 |  | 181.1 |
+| 20:00 | USD | Mortgage Refinance Index | 445.8 |  | 373.3 |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) | -0.6% |  | -0.3% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) | -0.4% |  | -1.1% |
+| 59 min | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
+| 59 min | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
+| 59 min | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
+| 59 min | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 22:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
