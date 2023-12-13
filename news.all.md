@@ -26,13 +26,13 @@
 | 07:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | Low | M2 Money supply | 1.60% |  | 2.00% |
 | 11:00 | IDR | Low | Car Sales (YoY) | -7.50% |  | -13.80% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Oct) | -0.5% | -0.2% | 0.4% |
+| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
 | 15:00 | GBP | High | GDP (MoM) (Oct) | -0.3% | 0.0% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Oct) | 0.3% | 0.6% | 1.3% |
 | 15:00 | GBP | Low | Index of Services | 0.1% | 0.2% | -0.1% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) | -0.8% | -0.1% | 0.0% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Oct) | 0.4% | 1.1% | 1.5% |
+| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) | -0.8% | -0.1% | 0.0% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) | -1.1% | 0.0% | 0.1% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Oct) | 0.8% | 1.9% | 3.0% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) | 0.0% | 0.1% | 0.0% |
@@ -43,16 +43,16 @@
 | 16:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.2% | 0.1% | 0.4% |
 | 16:00 | ZAR | Low | CPI (YoY) (Nov) | 5.5% | 5.6% | 5.9% |
 | 16:00 | ZAR | Low | CPI (MoM) (Nov) | -0.1% | 0.1% | 0.9% |
-| 40 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
-| 17:30 | ZAR | Low | Business Confidence (Nov) |  |  | 108.2 |
-| 18:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.3% |
-| 18:00 | CNY | Moderate | New Loans |  | 1,300.0B | 738.4B |
-| 18:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.0% | 10.9% |
-| 18:00 | CNY | Low | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
-| 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.75% |
-| 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
+| 17:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.6% | 7.6% | 7.6% |
+| 17:00 | CNY | Low | M2 Money Stock (YoY) (Nov) | 10.0% | 10.1% | 10.3% |
+| 17:00 | CNY | Moderate | New Loans (Nov) | 1,090.0B | 1,300.0B | 738.4B |
+| 17:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) | 10.8% | 11.0% | 10.9% |
+| 17:00 | CNY | Low | Chinese Total Social Financing (Nov) | 2,450.0B | 2,600.0B | 1,850.0B |
+| 14 min | ZAR | Low | Business Confidence (Nov) |  |  | 108.2 |
+| 44 min | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
+| 44 min | EUR | Low | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
+| 54 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.75% |
+| 54 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
 | 18:30 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.664% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Oct) |  | 0.9% | 0.9% |
@@ -66,8 +66,8 @@
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.1% |
-| 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
+| 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
