@@ -1,24 +1,42 @@
-## 13 December 2023 - Moderate Impact Forex News
+## 14 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 03:00 | USD | Federal Budget Balance (Nov) | -314.0B | -301.1B | -67.0B |
-| 05:30 | USD | API Weekly Crude Oil Stock | -2.349M | -1.500M | 0.594M |
-| 05:45 | NZD | Current Account (QoQ) (Q3) | -11.47B | -10.85B | -4.65B |
-| 05:45 | NZD | Current Account (YoY) (Q3) | -30.58B |  | -30.20B |
-| 07:50 | JPY | Tankan All Big Industry CAPEX (Q4) | 13.5% | 12.4% | 13.6% |
-| 07:50 | JPY | Tankan Big Manufacturing Outlook Index (Q4) | 8 | 9 | 10 |
-| 07:50 | JPY | Tankan Large Manufacturers Index (Q4) | 12 | 10 | 9 |
-| 07:50 | JPY | Tankan Large Non-Manufacturers Index (Q4) | 30 | 27 | 27 |
-| 15:00 | GBP | Industrial Production (MoM) (Oct) | -0.8% | -0.1% | 0.0% |
-| 15:00 | GBP | Manufacturing Production (MoM) (Oct) | -1.1% | 0.0% | 0.1% |
-| 15:00 | GBP | Monthly GDP 3M/3M Change (Oct) | 0.0% | 0.1% | 0.0% |
-| 15:00 | GBP | Trade Balance (Oct) | -17.03B | -14.30B | -14.29B |
-| 15:00 | GBP | Trade Balance Non-EU (Oct) | -4.83B |  | -4.45B |
-| 17:00 | CNY | New Loans (Nov) | 1,090.0B | 1,300.0B | 738.4B |
-| 18:00 | EUR | Industrial Production (MoM) (Oct) | -0.7% | -0.3% | -1.0% |
-| 20:00 | USD | OPEC Monthly Report |  |  |  |
-| 21:00 | GBP | NIESR Monthly GDP Tracker | -0.1% |  | 0.0% |
-| 21:30 | USD | Core PPI (MoM) (Nov) | 0.0% | 0.2% | 0.0% |
-| 13 min | USD | Cushing Crude Oil Inventories |  |  | 1.829M |
+| 03:00 | USD | Interest Rate Projection - 1st Yr (Q4) |  |  | 5.1% |
+| 03:00 | USD | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.9% |
+| 03:00 | USD | Interest Rate Projection - 3rd Yr (Q4) |  |  | 2.9% |
+| 03:00 | USD | Interest Rate Projection - Current (Q4) |  |  | 5.6% |
+| 03:00 | USD | Interest Rate Projection - Longer (Q4) |  |  | 2.5% |
+| 05:30 | BRL | Interest Rate Decision |  | 11.75% | 12.25% |
+| 08:01 | GBP | RICS House Price Balance (Nov) |  | -57% | -63% |
+| 08:30 | AUD | Employment Change (Nov) |  | 11.0K | 55.0K |
+| 08:30 | AUD | Full Employment Change (Nov) |  |  | 17.0K |
+| 08:30 | AUD | Unemployment Rate (Nov) |  | 3.8% | 3.7% |
+| 12:30 | JPY | Industrial Production (MoM) (Oct) |  | 1.0% | 0.5% |
+| 14:30 | INR | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
+| 15:30 | CHF | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
+| 16:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
+| 16:00 | EUR | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
+| 16:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 17:00 | USD | IEA Monthly Report |  |  |  |
+| 17:00 | CHF | SNB Press Conference |  |  |  |
+| 17:00 | NOK | Interest Rate Decision |  | 4.25% | 4.25% |
+| 18:00 | EUR | EU Leaders Summit |  |  |  |
+| 20:00 | GBP | BoE MPC vote cut (Dec) |  | 0 | 0 |
+| 20:00 | GBP | BoE MPC vote hike (Dec) |  | 2 | 3 |
+| 20:00 | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
+| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 20:00 | BRL | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
+| 20:00 | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:30 | GBP | BOE Inflation Letter |  |  |  |
+| 21:00 | GBP | BOE Inflation Letter |  |  |  |
+| 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,887K | 1,861K |
+| 21:30 | USD | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
+| 21:30 | USD | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
+| 21:30 | USD | Retail Control (MoM) (Nov) |  |  | 0.2% |
+| 22:45 | EUR | ECB Economic Bulletin |  |  |  |
+| 23:00 | USD | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
+| 23:00 | USD | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |
+| 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
