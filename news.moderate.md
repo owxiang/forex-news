@@ -17,7 +17,7 @@
 | 15:00 | GBP | Trade Balance (Oct) | -17.03B | -14.30B | -14.29B |
 | 15:00 | GBP | Trade Balance Non-EU (Oct) | -4.83B |  | -4.45B |
 | 17:00 | CNY | New Loans (Nov) | 1,090.0B | 1,300.0B | 738.4B |
-| 44 min | EUR | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
+| 18:00 | EUR | Industrial Production (MoM) (Oct) | -0.7% | -0.3% | -1.0% |
 | 20:00 | USD | OPEC Monthly Report |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.1% |
 | 21:30 | USD | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |

@@ -26,8 +26,8 @@
 | 07:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | Low | M2 Money supply | 1.60% |  | 2.00% |
 | 11:00 | IDR | Low | Car Sales (YoY) | -7.50% |  | -13.80% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Oct) | -0.5% | -0.2% | 0.4% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Oct) | -0.5% | -0.2% | 0.4% |
 | 15:00 | GBP | High | GDP (MoM) (Oct) | -0.3% | 0.0% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Oct) | 0.3% | 0.6% | 1.3% |
 | 15:00 | GBP | Low | Index of Services | 0.1% | 0.2% | -0.1% |
@@ -48,14 +48,15 @@
 | 17:00 | CNY | Moderate | New Loans (Nov) | 1,090.0B | 1,300.0B | 738.4B |
 | 17:00 | CNY | Low | Outstanding Loan Growth (YoY) (Nov) | 10.8% | 11.0% | 10.9% |
 | 17:00 | CNY | Low | Chinese Total Social Financing (Nov) | 2,450.0B | 2,600.0B | 1,850.0B |
-| 14 min | ZAR | Low | Business Confidence (Nov) |  |  | 108.2 |
-| 44 min | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
-| 44 min | EUR | Low | Industrial Production (YoY) (Oct) |  | -4.6% | -6.9% |
-| 54 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.75% |
-| 54 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
-| 18:30 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.664% |
-| 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
-| 19:00 | ZAR | Low | Retail Sales (YoY) (Oct) |  | 0.9% | 0.9% |
+| 17:25 | ZAR | Low | Business Confidence | 108.6 |  | 108.2 |
+| 17:30 | ZAR | Low | Business Confidence (Nov) | 111.5 |  | 108.6 |
+| 18:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.430% |  | 4.664% |
+| 18:00 | EUR | Moderate | Industrial Production (MoM) (Oct) | -0.7% | -0.3% | -1.0% |
+| 18:00 | EUR | Low | Industrial Production (YoY) (Oct) | -6.6% | -4.6% | -6.8% |
+| 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.75% |
+| 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 4.21% |
+| 43 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 43 min | ZAR | Low | Retail Sales (YoY) (Oct) |  | 0.9% | 0.9% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.17% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 2.8% |
@@ -63,15 +64,15 @@
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 181.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 373.3 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.1% |
-| 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
-| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
-| 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
+| 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | Low | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
+| 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
 | 22:00 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
