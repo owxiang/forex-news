@@ -2,15 +2,15 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) |  |  | 5.1% |
-| 41 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) |  |  | 3.9% |
-| 41 min | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) |  |  | 2.9% |
-| 41 min | USD | Moderate | Interest Rate Projection - Current (Q4) |  |  | 5.6% |
-| 41 min | USD | Moderate | Interest Rate Projection - Longer (Q4) |  |  | 2.5% |
-| 41 min | USD | High | FOMC Economic Projections |  |  |  |
-| 41 min | USD | High | FOMC Statement |  |  |  |
-| 41 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 03:30 | USD | High | FOMC Press Conference |  |  |  |
+| 03:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) | 4.6% |  | 5.1% |
+| 03:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) | 3.6% |  | 3.9% |
+| 03:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) | 2.9% |  | 2.9% |
+| 03:00 | USD | Moderate | Interest Rate Projection - Current (Q4) | 5.4% |  | 5.6% |
+| 03:00 | USD | Moderate | Interest Rate Projection - Longer (Q4) | 2.5% |  | 2.5% |
+| 03:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 03:00 | USD | High | FOMC Statement |  |  |  |
+| 03:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 17 min | USD | High | FOMC Press Conference |  |  |  |
 | 05:30 | BRL | Moderate | Interest Rate Decision |  | 11.75% | 12.25% |
 | 05:45 | NZD | High | GDP (QoQ) (Q3) |  | 0.2% | 0.9% |
 | 05:45 | NZD | Low | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
@@ -39,10 +39,10 @@
 | 15:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
 | 15:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -0.9% |
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 5.2% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |
 | 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -51,8 +51,8 @@
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 17:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 17:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
-| 17:30 | ZAR | Low | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:30 | ZAR | Low | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
+| 17:30 | ZAR | Low | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.334% |
@@ -69,10 +69,9 @@
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 21:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -81,8 +80,8 @@
 | 21:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
 | 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
-| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
+| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 220K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |

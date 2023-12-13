@@ -26,8 +26,8 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
+| 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
