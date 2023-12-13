@@ -16,12 +16,12 @@
 | 05:45 | NZD | Low | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
 | 05:45 | NZD | Low | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
 | 05:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 64.5B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -358.3B |
-| 08:00 | AUD | Low | MI Inflation Expectations |  |  | 4.9% |
-| 08:01 | GBP | Moderate | RICS House Price Balance (Nov) |  | -57% | -63% |
+| 34 min | JPY | Low | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
+| 34 min | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 64.5B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -358.3B |
+| 44 min | AUD | Low | MI Inflation Expectations |  |  | 4.9% |
+| 45 min | GBP | Moderate | RICS House Price Balance (Nov) |  | -57% | -63% |
 | 08:30 | AUD | Moderate | Employment Change (Nov) |  | 11.0K | 55.0K |
 | 08:30 | AUD | Moderate | Full Employment Change (Nov) |  |  | 17.0K |
 | 08:30 | AUD | Low | Participation Rate (Nov) |  | 66.9% | 67.0% |
@@ -41,8 +41,8 @@
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 5.2% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |
 | 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -69,8 +69,8 @@
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
@@ -85,8 +85,8 @@
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 220K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |
-| 21:30 | USD | High | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
 | 21:30 | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.48% |
+| 21:30 | USD | High | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
 | 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
 | 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 163.3K |
