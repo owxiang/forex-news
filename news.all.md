@@ -9,8 +9,8 @@
 | 05:00 | KRW | Low | Export Price Index (YoY) (Nov) | -7.2% |  | -9.3% |
 | 05:00 | KRW | Low | Import Price Index (YoY) (Nov) | -8.5% |  | -9.9% |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.349M | -1.500M | 0.594M |
-| 05:45 | NZD | Moderate | Current Account (QoQ) (Q3) | -11.47B | -10.85B | -4.65B |
 | 05:45 | NZD | Moderate | Current Account (YoY) (Q3) | -30.58B |  | -30.20B |
+| 05:45 | NZD | Moderate | Current Account (QoQ) (Q3) | -11.47B | -10.85B | -4.65B |
 | 05:45 | NZD | Low | Current Account % of GDP (Q3) | -7.60% |  | -7.60% |
 | 07:00 | KRW | Low | Unemployment Rate (Nov) | 2.8% |  | 2.5% |
 | 07:00 | NZD | Low | FPI (MoM) (Nov) | -0.2% |  | -0.9% |
@@ -26,21 +26,21 @@
 | 07:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | Low | M2 Money supply | 1.60% |  | 2.00% |
 | 11:00 | IDR | Low | Car Sales (YoY) | -7.50% |  | -13.80% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Oct) | -0.5% | -0.2% | 0.4% |
+| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
 | 15:00 | GBP | High | GDP (MoM) (Oct) | -0.3% | 0.0% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Oct) | 0.3% | 0.6% | 1.3% |
 | 15:00 | GBP | Low | Index of Services | 0.1% | 0.2% | -0.1% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) | -0.8% | -0.1% | 0.0% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Oct) | 0.4% | 1.1% | 1.5% |
+| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) | -0.8% | -0.1% | 0.0% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) | -1.1% | 0.0% | 0.1% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Oct) | 0.8% | 1.9% | 3.0% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) | 0.0% | 0.1% | 0.0% |
 | 15:00 | GBP | Moderate | Trade Balance (Oct) | -17.03B | -14.30B | -14.29B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Oct) | -4.83B |  | -4.45B |
 | 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Nov) | 4.5% | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Nov) | 0.2% | 0.1% | 0.4% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Nov) | 4.5% | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | CPI (YoY) (Nov) | 5.5% | 5.6% | 5.9% |
 | 16:00 | ZAR | Low | CPI (MoM) (Nov) | -0.1% | 0.1% | 0.9% |
 | 17:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.6% | 7.6% | 7.7% |
@@ -63,20 +63,20 @@
 | 20:00 | USD | Low | Mortgage Market Index | 194.5 |  | 181.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 445.8 |  | 373.3 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) | -0.4% |  | -1.1% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) | -0.6% |  | -0.3% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) | -0.4% |  | -1.1% |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker | -0.1% |  | 0.0% |
-| 11 min | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
-| 11 min | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
-| 11 min | USD | Low | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
-| 11 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
-| 11 min | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
-| 11 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
-| 41 min | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
-| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
-| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
-| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 60.76 |
-| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 57.11 |
+| 21:30 | USD | Low | Core PPI (YoY) (Nov) | 2.0% | 2.2% | 2.3% |
+| 21:30 | USD | Moderate | Core PPI (MoM) (Nov) | 0.0% | 0.2% | 0.0% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% |  | 0.1% |
+| 21:30 | USD | High | PPI (MoM) (Nov) | 0.0% | 0.1% | -0.4% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) | 2.5% |  | 2.8% |
+| 21:30 | USD | Low | PPI (YoY) (Nov) | 0.9% | 1.0% | 1.2% |
+| 22:00 | EUR | Low | German Current Account Balance n.s.a (Oct) | 21.4B |  | 28.1B |
+| 44 min | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
+| 44 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
+| 44 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 60.76 |
+| 44 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 57.11 |
 | 23:30 | USD | High | Crude Oil Inventories |  | -0.650M | -4.632M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.179M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | 2.091M |

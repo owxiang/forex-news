@@ -16,15 +16,15 @@
 | 07:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | M2 Money supply | 1.60% |  | 2.00% |
 | 11:00 | IDR | Car Sales (YoY) | -7.50% |  | -13.80% |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
 | 15:00 | GBP | Construction Output (MoM) (Oct) | -0.5% | -0.2% | 0.4% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Oct) | 1.1% | 1.2% | 2.8% |
 | 15:00 | GBP | GDP (YoY) (Oct) | 0.3% | 0.6% | 1.3% |
 | 15:00 | GBP | Index of Services | 0.1% | 0.2% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Oct) | 0.4% | 1.1% | 1.5% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Oct) | 0.8% | 1.9% | 3.0% |
 | 16:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 16:00 | ZAR | Core CPI (YoY) (Nov) | 4.5% | 4.4% | 4.4% |
 | 16:00 | ZAR | Core CPI (MoM) (Nov) | 0.2% | 0.1% | 0.4% |
+| 16:00 | ZAR | Core CPI (YoY) (Nov) | 4.5% | 4.4% | 4.4% |
 | 16:00 | ZAR | CPI (YoY) (Nov) | 5.5% | 5.6% | 5.9% |
 | 16:00 | ZAR | CPI (MoM) (Nov) | -0.1% | 0.1% | 0.9% |
 | 17:00 | EUR | Italian Quarterly Unemployment Rate | 7.6% | 7.6% | 7.7% |
@@ -44,17 +44,17 @@
 | 20:00 | USD | MBA Purchase Index | 149.6 |  | 144.5 |
 | 20:00 | USD | Mortgage Market Index | 194.5 |  | 181.1 |
 | 20:00 | USD | Mortgage Refinance Index | 445.8 |  | 373.3 |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) | -0.4% |  | -1.1% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) | -0.6% |  | -0.3% |
-| 11 min | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
-| 11 min | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
-| 11 min | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
-| 11 min | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
-| 41 min | EUR | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
-| 23:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
-| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
-| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 60.76 |
-| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 57.11 |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) | -0.4% |  | -1.1% |
+| 21:30 | USD | Core PPI (YoY) (Nov) | 2.0% | 2.2% | 2.3% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) | 0.1% |  | 0.1% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) | 2.5% |  | 2.8% |
+| 21:30 | USD | PPI (YoY) (Nov) | 0.9% | 1.0% | 1.2% |
+| 22:00 | EUR | German Current Account Balance n.s.a (Oct) | 21.4B |  | 28.1B |
+| 44 min | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
+| 44 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
+| 44 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 60.76 |
+| 44 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Dec) |  |  | 57.11 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.179M |
 | 23:30 | USD | Crude Oil Imports |  |  | 2.091M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.072M |
