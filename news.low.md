@@ -16,8 +16,8 @@
 | 07:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | M2 Money supply | 1.60% |  | 2.00% |
 | 11:00 | IDR | Car Sales (YoY) | -7.50% |  | -13.80% |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
 | 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
 | 15:00 | GBP | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
 | 15:00 | GBP | Index of Services |  | 0.2% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
@@ -26,8 +26,8 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.3% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 11.0% | 10.9% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
-| 16:00 | ZAR | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 16:00 | ZAR | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
+| 16:00 | ZAR | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
 | 16:00 | ZAR | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
 | 16:00 | ZAR | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
 | 17:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
@@ -47,9 +47,9 @@
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
-| 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
+| 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
 | 22:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
