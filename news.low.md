@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 0.388B |
+| 15 min | BRL | Foreign Exchange Flows |  |  | 0.388B |
 | 05:45 | NZD | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
 | 05:45 | NZD | GDP Annual Average (Q3) |  |  | 3.2% |
 | 05:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |
@@ -17,7 +17,6 @@
 | 10:30 | HKD | Interest Rate Decision |  |  | 5.75% |
 | Tentative | CNY | FDI |  |  | -9.40% |
 | 12:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
-| 13:30 | BRL | Foreign Exchange Flows |  |  | 3.609B |
 | 14:30 | INR | WPI Food (YoY) (Nov) |  |  | 2.53% |
 | 14:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | -1.13% |
@@ -28,8 +27,8 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
