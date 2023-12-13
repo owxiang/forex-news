@@ -11,11 +11,11 @@
 | 03:00 | USD | High | FOMC Statement |  |  |  |
 | 03:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:30 | USD | High | FOMC Press Conference |  |  |  |
-| 05:30 | BRL | Moderate | Interest Rate Decision |  | 11.75% | 12.25% |
-| 05:45 | NZD | High | GDP (QoQ) (Q3) |  | 0.2% | 0.9% |
-| 05:45 | NZD | Low | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
-| 05:45 | NZD | Low | GDP Annual Average (Q3) |  |  | 3.2% |
-| 05:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |
+| 15 min | BRL | Moderate | Interest Rate Decision |  | 11.75% | 12.25% |
+| 30 min | NZD | High | GDP (QoQ) (Q3) |  | 0.2% | 0.9% |
+| 30 min | NZD | Low | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
+| 30 min | NZD | Low | GDP Annual Average (Q3) |  |  | 3.2% |
+| 30 min | NZD | Low | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 64.5B |
