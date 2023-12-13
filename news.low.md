@@ -5,8 +5,8 @@
 | 05:45 | NZD | GDP (YoY) (Q3) |  | 0.5% | 1.8% |
 | 05:45 | NZD | GDP Annual Average (Q3) |  |  | 3.2% |
 | 05:45 | NZD | GDP Expenditure (QoQ) (Q3) |  |  | 1.3% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 64.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -358.3B |
 | 08:00 | AUD | MI Inflation Expectations |  |  | 4.9% |
@@ -26,8 +26,8 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |

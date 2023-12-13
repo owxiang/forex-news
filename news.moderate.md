@@ -26,8 +26,8 @@
 | 20:00 | GBP | BoE MPC vote hike (Dec) |  | 2 | 3 |
 | 20:00 | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:00 | BRL | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
+| 20:00 | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:30 | GBP | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
