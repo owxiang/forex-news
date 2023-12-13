@@ -11,11 +11,11 @@
 | 07:50 | JPY | Tankan Big Manufacturing Outlook Index (Q4) | 8 | 9 | 10 |
 | 07:50 | JPY | Tankan Large Manufacturers Index (Q4) | 12 | 10 | 9 |
 | 07:50 | JPY | Tankan Large Non-Manufacturers Index (Q4) | 30 | 27 | 27 |
-| 15:00 | GBP | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
-| 15:00 | GBP | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
-| 15:00 | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
-| 15:00 | GBP | Trade Balance (Oct) |  | -14.30B | -14.29B |
-| 15:00 | GBP | Trade Balance Non-EU (Oct) |  |  | -4.45B |
+| 39 min | GBP | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
+| 39 min | GBP | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
+| 39 min | GBP | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
+| 39 min | GBP | Trade Balance (Oct) |  | -14.30B | -14.29B |
+| 39 min | GBP | Trade Balance Non-EU (Oct) |  |  | -4.45B |
 | 16:00 | CNY | New Loans |  | 1,300.0B | 738.4B |
 | 18:00 | EUR | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
 | 20:00 | USD | OPEC Monthly Report |  |  |  |

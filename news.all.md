@@ -26,27 +26,27 @@
 | 07:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | Low | M2 Money supply | 1.60% |  | 2.00% |
 | 11:00 | IDR | Low | Car Sales (YoY) | -7.50% |  | -13.80% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
-| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
-| 15:00 | GBP | High | GDP (MoM) (Oct) |  | 0.0% | 0.2% |
-| 15:00 | GBP | Low | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
-| 15:00 | GBP | Low | Index of Services |  | 0.2% | -0.1% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
-| 15:00 | GBP | Moderate | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
-| 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
-| 15:00 | GBP | Low | Manufacturing Production (YoY) (Oct) |  | 1.9% | 3.0% |
-| 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
-| 15:00 | GBP | Moderate | Trade Balance (Oct) |  | -14.30B | -14.29B |
-| 15:00 | GBP | Moderate | Trade Balance Non-EU (Oct) |  |  | -4.45B |
+| 39 min | GBP | Low | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
+| 39 min | GBP | Low | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
+| 39 min | GBP | High | GDP (MoM) (Oct) |  | 0.0% | 0.2% |
+| 39 min | GBP | Low | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
+| 39 min | GBP | Low | Index of Services |  | 0.2% | -0.1% |
+| 39 min | GBP | Moderate | Industrial Production (MoM) (Oct) |  | -0.1% | 0.0% |
+| 39 min | GBP | Low | Industrial Production (YoY) (Oct) |  | 1.1% | 1.5% |
+| 39 min | GBP | Low | Manufacturing Production (YoY) (Oct) |  | 1.9% | 3.0% |
+| 39 min | GBP | Moderate | Manufacturing Production (MoM) (Oct) |  | 0.0% | 0.1% |
+| 39 min | GBP | Moderate | Monthly GDP 3M/3M Change (Oct) |  | 0.1% | 0.0% |
+| 39 min | GBP | Moderate | Trade Balance (Oct) |  | -14.30B | -14.29B |
+| 39 min | GBP | Moderate | Trade Balance Non-EU (Oct) |  |  | -4.45B |
 | 16:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.3% |
 | 16:00 | CNY | Moderate | New Loans |  | 1,300.0B | 738.4B |
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 11.0% | 10.9% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,600.0B | 1,850.0B |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Nov) |  | 0.1% | 0.4% |
-| 16:00 | ZAR | Low | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Nov) |  | 4.4% | 4.4% |
 | 16:00 | ZAR | Low | CPI (YoY) (Nov) |  | 5.6% | 5.9% |
+| 16:00 | ZAR | Low | CPI (MoM) (Nov) |  | 0.1% | 0.9% |
 | 17:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.6% | 7.6% |
 | 17:30 | ZAR | Low | Business Confidence (Nov) |  |  | 108.2 |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Oct) |  | -0.3% | -1.1% |
@@ -63,15 +63,15 @@
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 181.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 373.3 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.1% |
-| 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Nov) |  | 0.2% | 0.0% |
-| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
+| 21:30 | USD | Low | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
 | 21:30 | USD | High | PPI (MoM) (Nov) |  | 0.1% | -0.5% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | Low | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
 | 22:00 | EUR | Low | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
