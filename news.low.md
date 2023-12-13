@@ -15,6 +15,7 @@
 | 07:50 | JPY | Tankan Small Non-Manufacturers Diffusion Index (Q4) | 7 |  | 8 |
 | 07:50 | JPY | Tankan Small Non-Manufacturing Index (Q4) | 14 |  | 12 |
 | 11:00 | KRW | M2 Money supply | 1.60% |  | 2.00% |
+| 11:00 | IDR | Car Sales (YoY) | -7.50% |  | -13.80% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Oct) |  | 1.2% | 2.8% |
 | 15:00 | GBP | Construction Output (MoM) (Oct) |  | -0.2% | 0.4% |
 | 15:00 | GBP | GDP (YoY) (Oct) |  | 0.6% | 1.3% |
@@ -43,12 +44,12 @@
 | 20:00 | USD | MBA Purchase Index |  |  | 144.5 |
 | 20:00 | USD | Mortgage Market Index |  |  | 181.1 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 373.3 |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Oct) |  |  | -1.2% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Oct) |  |  | -0.3% |
 | 21:30 | USD | Core PPI (YoY) (Nov) |  | 2.2% | 2.4% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 21:30 | USD | PPI (YoY) (Nov) |  | 1.0% | 1.3% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Nov) |  |  | 0.1% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Nov) |  |  | 2.9% |
 | 22:00 | EUR | German Current Account Balance n.s.a (Oct) |  |  | 28.1B |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Dec) |  |  | 52.15 |
 | 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 47.26 |
@@ -57,8 +58,8 @@
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.179M |
 | 23:30 | USD | Crude Oil Imports |  |  | 2.091M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.072M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | 1.167M | 1.267M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | 0.623M | 1.267M |
 | 23:30 | USD | Gasoline Production |  |  | 0.180M |
 | 23:30 | USD | Heating Oil Stockpiles |  |  | -1.126M |
 | 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.7% |
-| 23:30 | USD | Gasoline Inventories |  | 2.400M | 5.421M |
+| 23:30 | USD | Gasoline Inventories |  | 1.933M | 5.421M |
