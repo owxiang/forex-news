@@ -23,14 +23,14 @@
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.9% |
 | 08:01 | GBP | Moderate | RICS House Price Balance (Nov) | -43% | -57% | -61% |
 | 08:30 | AUD | Moderate | Employment Change (Nov) | 61.5K | 11.0K | 42.7K |
-| 08:30 | AUD | Moderate | Full Employment Change (Nov) | 57.0K |  | 17.0K |
+| 08:30 | AUD | Moderate | Full Employment Change (Nov) | 57.0K |  | 10.7K |
 | 08:30 | AUD | Low | Participation Rate (Nov) | 67.2% | 66.9% | 67.0% |
 | 08:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
 | 08:30 | AUD | Moderate | Unemployment Rate (Nov) | 3.9% | 3.8% | 3.8% |
 | 09:20 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
 | 10:30 | SGD | Low | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
-| 12:30 | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
-| 12:30 | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 1.0% | 0.5% |
+| 10 min | JPY | Low | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
+| 10 min | JPY | Moderate | Industrial Production (MoM) (Oct) |  | 1.0% | 0.5% |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
 | 14:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | 2.53% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.47% |

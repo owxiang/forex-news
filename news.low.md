@@ -14,7 +14,7 @@
 | 08:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 09:20 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
 | 10:30 | SGD | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
-| 12:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
+| 10 min | JPY | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
 | Tentative | CNY | FDI |  |  | -9.40% |
 | 14:30 | INR | WPI Food (YoY) (Nov) |  |  | 2.53% |
 | 14:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
