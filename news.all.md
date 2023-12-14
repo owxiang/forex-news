@@ -31,17 +31,17 @@
 | 10:30 | SGD | Low | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Oct) | 1.5% |  | 0.4% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Oct) | 1.3% | 1.0% | 0.5% |
-| 14:30 | INR | Low | WPI Food (YoY) (Nov) |  |  | 2.53% |
-| 14:30 | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
-| 14:30 | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
-| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | -1.13% |
-| 15:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -0.9% |
+| 9 min | INR | Low | WPI Food (YoY) (Nov) |  |  | 2.53% |
+| 9 min | INR | Low | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
+| 9 min | INR | Moderate | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
+| 9 min | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) |  |  | -1.13% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
+| 15:30 | CHF | Low | PPI (YoY) (Nov) |  |  | -0.9% |
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) |  |  | 5.2% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |
 | 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -51,8 +51,8 @@
 | 17:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
 | 17:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
-| 17:30 | ZAR | Low | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:30 | ZAR | Low | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| 17:30 | ZAR | Low | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.334% |
@@ -69,8 +69,8 @@
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
