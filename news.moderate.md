@@ -12,7 +12,7 @@
 | 08:30 | AUD | Employment Change (Nov) | 61.5K | 11.0K | 42.7K |
 | 08:30 | AUD | Full Employment Change (Nov) | 57.0K |  | 10.7K |
 | 08:30 | AUD | Unemployment Rate (Nov) | 3.9% | 3.8% | 3.8% |
-| 10 min | JPY | Industrial Production (MoM) (Oct) |  | 1.0% | 0.5% |
+| 12:30 | JPY | Industrial Production (MoM) (Oct) | 1.3% | 1.0% | 0.5% |
 | 14:30 | INR | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
 | 15:30 | CHF | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
 | 16:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |

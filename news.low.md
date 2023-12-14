@@ -14,8 +14,7 @@
 | 08:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 09:20 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
 | 10:30 | SGD | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
-| 10 min | JPY | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
-| Tentative | CNY | FDI |  |  | -9.40% |
+| 12:30 | JPY | Capacity Utilization (MoM) (Oct) | 1.5% |  | 0.4% |
 | 14:30 | INR | WPI Food (YoY) (Nov) |  |  | 2.53% |
 | 14:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | -1.13% |
@@ -26,8 +25,9 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| Tentative | CNY | FDI |  |  | -9.40% |
 | 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
+| 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
@@ -45,4 +45,4 @@
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
 | 21:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
 | 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 163.3K |
-| 23:30 | USD | Natural Gas Storage |  | -60B | -117B |
+| 23:30 | USD | Natural Gas Storage |  | -54B | -117B |
