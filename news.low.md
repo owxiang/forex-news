@@ -25,18 +25,15 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) | 4.40% |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) | 3.00% |  | -0.20% |
-| 14 min | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
-| 14 min | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
-| 24 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
-| 24 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
-| 24 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
-| 44 min | GBP | Thomson Reuters IPSOS PCSI (Dec) |  |  | 45.8 |
-| 44 min | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 44.59 |
-| 44 min | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 47.11 |
-| 44 min | EUR | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.83 |
-| 44 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 45.82 |
-| 44 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 39.21 |
-| 19:00 | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 17:30 | ZAR | PPI (YoY) (Nov) | 4.6% | 5.5% | 5.8% |
+| 17:30 | ZAR | PPI (MoM) (Nov) | -0.6% | 0.1% | 1.0% |
+| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) | 48.7 |  | 45.8 |
+| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.26 |  | 44.59 |
+| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) | 47.26 |  | 47.11 |
+| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) | 40.60 |  | 42.83 |
+| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 44.25 |  | 45.82 |
+| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 41.91 |  | 39.21 |
+| 42 min | CAD | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 21:30 | USD | Export Price Index (YoY) |  |  | -4.9% |
 | 21:30 | USD | Import Price Index (YoY) |  |  | -2.0% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.75K |

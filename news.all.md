@@ -50,26 +50,23 @@
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 17:00 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 17:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.25% | 4.25% |
-| 14 min | ZAR | Low | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
-| 14 min | ZAR | Low | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
-| 24 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
-| 24 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.245% |
-| 24 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.334% |
-| 44 min | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 45.8 |
-| 44 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) |  |  | 44.59 |
-| 44 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) |  |  | 47.11 |
-| 44 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) |  |  | 42.83 |
-| 44 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 45.82 |
-| 44 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 44 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 39.21 |
-| 19:00 | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
+| 17:30 | ZAR | Low | PPI (YoY) (Nov) | 4.6% | 5.5% | 5.8% |
+| 17:30 | ZAR | Low | PPI (MoM) (Nov) | -0.6% | 0.1% | 1.0% |
+| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) | 48.7 |  | 45.8 |
+| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.26 |  | 44.59 |
+| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) | 47.26 |  | 47.11 |
+| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) | 40.60 |  | 42.83 |
+| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 44.25 |  | 45.82 |
+| 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 41.91 |  | 39.21 |
+| 42 min | CAD | Low | Leading Index (MoM) (Nov) |  |  | -0.01% |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Dec) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Dec) |  | 2 | 3 |
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
@@ -77,8 +74,8 @@
 | 21:15 | EUR | High | ECB Interest Rate Decision (Dec) |  | 4.50% | 4.50% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,887K | 1,861K |
 | 21:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 220K |

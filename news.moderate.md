@@ -21,13 +21,13 @@
 | 17:00 | USD | IEA Monthly Report |  |  |  |
 | 17:00 | CHF | SNB Press Conference |  |  |  |
 | 17:00 | NOK | Interest Rate Decision | 4.50% | 4.25% | 4.25% |
-| 44 min | EUR | EU Leaders Summit |  |  |  |
+| 18:00 | EUR | EU Leaders Summit |  |  |  |
 | 20:00 | GBP | BoE MPC vote cut (Dec) |  | 0 | 0 |
 | 20:00 | GBP | BoE MPC vote hike (Dec) |  | 2 | 3 |
 | 20:00 | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:00 | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:00 | BRL | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:30 | GBP | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
