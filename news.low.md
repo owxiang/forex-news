@@ -13,7 +13,7 @@
 | 08:30 | AUD | Participation Rate (Nov) | 67.2% | 66.9% | 67.0% |
 | 08:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
 | 09:20 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
-| 2 min | SGD | Unemployment Rate (Q3) |  | 2.0% | 2.0% |
+| 10:30 | SGD | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
 | 12:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
 | Tentative | CNY | FDI |  |  | -9.40% |
 | 14:30 | INR | WPI Food (YoY) (Nov) |  |  | 2.53% |
@@ -26,8 +26,8 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
