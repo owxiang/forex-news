@@ -1,94 +1,92 @@
-## 14 December 2023 - All Forex News
+## 15 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q4) | 4.6% |  | 5.1% |
-| 03:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q4) | 3.6% |  | 3.9% |
-| 03:00 | USD | Moderate | Interest Rate Projection - 3rd Yr (Q4) | 2.9% |  | 2.9% |
-| 03:00 | USD | Moderate | Interest Rate Projection - Current (Q4) | 5.4% |  | 5.6% |
-| 03:00 | USD | Moderate | Interest Rate Projection - Longer (Q4) | 2.5% |  | 2.5% |
-| 03:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 03:00 | USD | High | FOMC Statement |  |  |  |
-| 03:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 03:30 | USD | High | FOMC Press Conference |  |  |  |
-| 05:00 | BRL | Moderate | Interest Rate Decision | 11.75% | 11.75% | 12.25% |
-| 05:45 | NZD | High | GDP (QoQ) (Q3) | -0.3% | 0.2% | 0.5% |
-| 05:45 | NZD | Low | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
-| 05:45 | NZD | Low | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
-| 05:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) | -2.2% | -5.1% | -2.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) | 0.7% | -0.5% | 1.4% |
-| 07:50 | JPY | Low | Foreign Bonds Buying | -1,080.0B |  | 46.3B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -990.6B |  | -357.2B |
-| 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.9% |
-| 08:01 | GBP | Moderate | RICS House Price Balance (Nov) | -43% | -57% | -61% |
-| 08:30 | AUD | Moderate | Employment Change (Nov) | 61.5K | 11.0K | 42.7K |
-| 08:30 | AUD | Moderate | Full Employment Change (Nov) | 57.0K |  | 10.7K |
-| 08:30 | AUD | Low | Participation Rate (Nov) | 67.2% | 66.9% | 67.0% |
-| 08:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 08:30 | AUD | Moderate | Unemployment Rate (Nov) | 3.9% | 3.8% | 3.8% |
-| 09:20 | HKD | Low | Interest Rate Decision | 5.75% |  | 5.75% |
-| 10:30 | SGD | Low | Unemployment Rate (Q3) | 2.0% | 2.0% | 2.0% |
-| 12:30 | JPY | Low | Capacity Utilization (MoM) (Oct) | 1.5% |  | 0.4% |
-| 12:30 | JPY | Moderate | Industrial Production (MoM) (Oct) | 1.3% | 1.0% | 0.5% |
-| 14:30 | INR | Low | WPI Food (YoY) (Nov) | 8.18% |  | 2.53% |
-| 14:30 | INR | Low | WPI Fuel (YoY) (Nov) | -4.61% |  | -2.47% |
-| 14:30 | INR | Moderate | WPI Inflation (YoY) (Nov) | 0.26% | 0.08% | -0.52% |
-| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) | -0.64% |  | -1.13% |
-| 15:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.9% | 0.1% | 0.2% |
-| 15:30 | CHF | Low | PPI (YoY) (Nov) | -1.3% |  | -0.9% |
-| 16:00 | EUR | Low | Core CPI (YoY) (Nov) | 4.5% |  | 5.2% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) | -0.3% | -0.4% | 0.3% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.2% | 3.5% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.3% | 3.2% | 3.5% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
-| 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 16:30 | CHF | High | SNB Interest Rate Decision (Q4) | 1.75% | 1.75% | 1.75% |
-| 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 16:30 | HKD | Low | Industrial Production (YoY) (Q3) | 4.40% |  | 2.70% |
-| 16:30 | HKD | Low | PPI (YoY) (Q3) | 3.00% |  | -0.20% |
-| 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 17:00 | CHF | Moderate | SNB Press Conference |  |  |  |
-| 17:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.25% | 4.25% |
-| 17:30 | ZAR | Low | PPI (YoY) (Nov) | 4.6% | 5.5% | 5.8% |
-| 17:30 | ZAR | Low | PPI (MoM) (Nov) | -0.6% | 0.1% | 1.0% |
-| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Dec) | 48.7 |  | 45.8 |
-| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.26 |  | 44.59 |
-| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Dec) | 47.26 |  | 47.11 |
-| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Dec) | 40.60 |  | 42.83 |
-| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 44.25 |  | 45.82 |
+| 12 min | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
+| 12 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 12 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 1.2% | 1.2% |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.388B |
+| 03:00 | MXN | Moderate | Interest Rate Decision (Dec) |  | 11.25% | 11.25% |
+| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,737B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.497T |
+| 05:30 | NZD | Moderate | Business NZ PMI (Nov) |  |  | 42.5 |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 47.7 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 46.0 |
+| 07:55 | KRW | Low | Exports (YoY) (Nov) |  |  | 7.8% |
+| 07:55 | KRW | Low | Imports (YoY) (Nov) |  |  | -11.6% |
+| 07:55 | KRW | Low | Trade Balance (Nov) |  |  | 3.80B |
+| 08:01 | GBP | Low | GfK Consumer Confidence (Dec) |  | -22 | -24 |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 48.2 | 48.3 |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 50.8 |
+| 09:30 | CNY | Low | House Prices (YoY) (Nov) |  |  | -0.1% |
+| 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 39.36 |
+| 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 63.11 |
+| 10:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 50.19 |
+| 10:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 38.20 |
+| 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 75.58 |
+| 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) |  | 3.0% | 2.9% |
+| 10:00 | CNY | Moderate | Industrial Production (YoY) (Nov) |  | 5.6% | 4.6% |
+| 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 4.1% |
+| 10:00 | CNY | Low | Retail Sales (YoY) (Nov) |  | 12.5% | 7.6% |
+| 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 6.90% |
+| 10:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
+| 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 10:00 | IDR | Low | Export Growth (YoY) (Nov) |  | -9.36% | -10.43% |
+| 10:00 | IDR | Low | Import Growth (YoY) (Nov) |  | 0.20% | -2.42% |
+| 10:00 | IDR | Low | Trade Balance (Nov) |  | 3.05B | 3.48B |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 2.10 |
+| 15:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | -4.2% |
+| 15:00 | EUR | Low | German WPI (MoM) (Nov) |  |  | -0.7% |
+| 15:00 | NOK | Low | Trade Balance (Nov) |  |  | 86.9B |
+| 15:45 | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
+| 15:45 | EUR | Low | CPI NSA (MoM) (Nov) |  |  | 0.10% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
+| 15:45 | EUR | Low | French CPI (YoY) |  | 3.4% | 4.0% |
+| 15:45 | EUR | Low | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
+| 15:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
+| 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
+| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.3 | 42.9 |
+| 16:15 | EUR | Low | HCOB France Composite PMI (Dec) |  | 45.0 | 44.6 |
+| 16:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.0 | 45.4 |
+| 16:30 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
+| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
+| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
+| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.6 | 44.2 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  | 48.0 | 47.6 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.0 | 48.7 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.9 | 50.7 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.2 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 50.9 |
+| 18:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 18:00 | EUR | Low | Italian Trade Balance |  | 3.450B | 2.350B |
+| 18:00 | EUR | Low | Italian Trade Balance EU |  |  | -0.47B |
 | 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 41.91 |  | 39.21 |
-| 20:00 | GBP | Moderate | BoE MPC vote cut (Dec) | 0 | 0 | 0 |
-| 20:00 | GBP | Moderate | BoE MPC vote hike (Dec) | 3 | 2 | 3 |
-| 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) | 6 | 7 | 6 |
-| 20:00 | GBP | High | BoE Interest Rate Decision (Dec) | 5.25% | 5.25% | 5.25% |
-| 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.2% | 0.5% |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 0.2% | 1.8% | 3.2% |
-| 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:15 | EUR | High | Deposit Facility Rate (Dec) | 4.00% | 4.00% | 4.00% |
-| 21:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
-| 21:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 21:15 | EUR | High | ECB Interest Rate Decision (Dec) | 4.50% | 4.50% | 4.50% |
-| 21:30 | USD | Moderate | Continuing Jobless Claims | 1,876K | 1,887K | 1,856K |
-| 21:30 | USD | High | Core Retail Sales (MoM) (Nov) | 0.2% | -0.1% | 0.1% |
-| 21:30 | USD | Moderate | Export Price Index (MoM) (Nov) | -0.9% | -1.0% | -0.9% |
-| 21:30 | USD | Low | Export Price Index (YoY) | -5.2% |  | -4.9% |
-| 21:30 | USD | Low | Import Price Index (YoY) | -1.4% |  | -2.0% |
-| 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) | -0.4% | -0.8% | -0.6% |
-| 21:30 | USD | High | Initial Jobless Claims | 202K | 220K | 221K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 213.25K |  | 221.00K |
-| 21:30 | USD | Moderate | Retail Control (MoM) (Nov) | 0.4% |  | 0.2% |
-| 21:30 | USD | Low | Retail Sales (YoY) (Nov) | 4.09% |  | 2.24% |
-| 21:30 | USD | High | Retail Sales (MoM) (Nov) | 0.3% | -0.1% | -0.2% |
-| 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) | 0.6% |  | 0.1% |
-| 21:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | -2.8% | -2.7% | 0.7% |
-| 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 151.1K |  | 163.2K |
-| 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 22:45 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 23:00 | USD | Moderate | Business Inventories (MoM) (Oct) | -0.1% | 0.0% | 0.2% |
-| 23:00 | USD | Moderate | Retail Inventories Ex Auto (Oct) | -0.9% | -0.9% | 0.4% |
-| 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13 min | USD | Low | Natural Gas Storage |  | -54B | -117B |
+| 18:00 | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 4.60% |
+| 18:00 | EUR | Low | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
+| 18:00 | EUR | Moderate | Trade Balance (Oct) |  |  | 10.0B |
+| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.5% |
+| 19:00 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,154.15B |
+| 19:30 | INR | Low | Bank Loan Growth |  |  | 20.6% |
+| 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 604.04B |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Oct) |  | 0.10% | -0.06% |
+| 20:20 | INR | Low | Exports (USD) |  |  | 33.57B |
+| 20:20 | INR | Low | Imports (USD) |  |  | 65.03B |
+| 20:20 | INR | Low | Trade Balance |  | -23.60B | -31.46B |
+| 21:15 | CAD | Moderate | Housing Starts (Nov) |  | 257.1K | 274.7K |
+| 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
+| 21:30 | CAD | Moderate | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
+| 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 11.60B |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
+| 22:15 | USD | Low | Capacity Utilization Rate (Nov) |  | 79.1% | 78.9% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | -0.68% |
+| 22:15 | USD | Moderate | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
+| 22:15 | USD | Low | Manufacturing Production (MoM) (Nov) |  | 0.4% | -0.7% |
+| 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
+| 22:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 50.7 |
+| 22:45 | USD | High | S&P Global Services PMI (Dec) |  | 50.6 | 50.8 |
