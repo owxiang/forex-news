@@ -16,8 +16,8 @@
 | 05:45 | NZD | Low | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
 | 05:45 | NZD | Low | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
 | 05:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) | -2.2% | -5.1% | -2.2% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) | 0.7% | -0.5% | 1.4% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) | -2.2% | -5.1% | -2.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -1,080.0B |  | 46.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -990.6B |  | -357.2B |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.9% |
@@ -40,8 +40,8 @@
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) | 4.5% |  | 5.2% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) | -0.3% | -0.4% | 0.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.2% | 3.5% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.3% | 3.2% | 3.5% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.3% | 3.2% | 3.5% |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | CHF | High | SNB Interest Rate Decision (Q4) | 1.75% | 1.75% | 1.75% |
 | 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -67,25 +67,26 @@
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) | -0.3% | 0.2% | 0.5% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) | 0.2% | 1.8% | 3.2% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 44 min | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
-| 44 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
-| 44 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 44 min | EUR | High | ECB Interest Rate Decision (Dec) |  | 4.50% | 4.50% |
-| 59 min | USD | Moderate | Continuing Jobless Claims |  | 1,887K | 1,861K |
-| 59 min | USD | High | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
-| 59 min | USD | Moderate | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
-| 59 min | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
-| 59 min | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
-| 59 min | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
-| 59 min | USD | High | Initial Jobless Claims |  | 220K | 220K |
-| 59 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
-| 59 min | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |
-| 59 min | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.48% |
-| 59 min | USD | High | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
-| 59 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
-| 59 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
-| 59 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 163.3K |
-| 21:45 | EUR | High | ECB Press Conference |  |  |  |
+| 21:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 21:15 | EUR | High | Deposit Facility Rate (Dec) | 4.00% | 4.00% | 4.00% |
+| 21:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
+| 21:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 21:15 | EUR | High | ECB Interest Rate Decision (Dec) | 4.50% | 4.50% | 4.50% |
+| 10 min | USD | Moderate | Continuing Jobless Claims |  | 1,887K | 1,861K |
+| 10 min | USD | High | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
+| 10 min | USD | Moderate | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
+| 10 min | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
+| 10 min | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
+| 10 min | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
+| 10 min | USD | High | Initial Jobless Claims |  | 220K | 220K |
+| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
+| 10 min | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |
+| 10 min | USD | Low | Retail Sales (YoY) (Nov) |  |  | 2.48% |
+| 10 min | USD | High | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
+| 10 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
+| 10 min | CAD | Low | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
+| 10 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 163.3K |
+| 25 min | EUR | High | ECB Press Conference |  |  |  |
 | 22:45 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 23:00 | USD | Moderate | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
 | 23:00 | USD | Moderate | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |

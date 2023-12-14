@@ -29,12 +29,13 @@
 | 20:00 | BRL | Retail Sales (MoM) (Oct) | -0.3% | 0.2% | 0.5% |
 | 20:00 | BRL | Retail Sales (YoY) (Oct) | 0.2% | 1.8% | 3.2% |
 | 20:30 | GBP | BOE Inflation Letter |  |  |  |
-| 44 min | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
-| 44 min | EUR | ECB Monetary Policy Statement |  |  |  |
-| 59 min | USD | Continuing Jobless Claims |  | 1,887K | 1,861K |
-| 59 min | USD | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
-| 59 min | USD | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
-| 59 min | USD | Retail Control (MoM) (Nov) |  |  | 0.2% |
+| 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:15 | EUR | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
+| 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 10 min | USD | Continuing Jobless Claims |  | 1,887K | 1,861K |
+| 10 min | USD | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
+| 10 min | USD | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
+| 10 min | USD | Retail Control (MoM) (Nov) |  |  | 0.2% |
 | 22:45 | EUR | ECB Economic Bulletin |  |  |  |
 | 23:00 | USD | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
 | 23:00 | USD | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |

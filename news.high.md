@@ -9,9 +9,9 @@
 | 05:45 | NZD | GDP (QoQ) (Q3) | -0.3% | 0.2% | 0.5% |
 | 16:30 | CHF | SNB Interest Rate Decision (Q4) | 1.75% | 1.75% | 1.75% |
 | 20:00 | GBP | BoE Interest Rate Decision (Dec) | 5.25% | 5.25% | 5.25% |
-| 44 min | EUR | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
-| 44 min | EUR | ECB Interest Rate Decision (Dec) |  | 4.50% | 4.50% |
-| 59 min | USD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
-| 59 min | USD | Initial Jobless Claims |  | 220K | 220K |
-| 59 min | USD | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
-| 21:45 | EUR | ECB Press Conference |  |  |  |
+| 21:15 | EUR | Deposit Facility Rate (Dec) | 4.00% | 4.00% | 4.00% |
+| 21:15 | EUR | ECB Interest Rate Decision (Dec) | 4.50% | 4.50% | 4.50% |
+| 10 min | USD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
+| 10 min | USD | Initial Jobless Claims |  | 220K | 220K |
+| 10 min | USD | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
+| 25 min | EUR | ECB Press Conference |  |  |  |
