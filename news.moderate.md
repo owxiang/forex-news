@@ -22,19 +22,19 @@
 | 17:00 | CHF | SNB Press Conference |  |  |  |
 | 17:00 | NOK | Interest Rate Decision | 4.50% | 4.25% | 4.25% |
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
-| 46 min | GBP | BoE MPC vote cut (Dec) |  | 0 | 0 |
-| 46 min | GBP | BoE MPC vote hike (Dec) |  | 2 | 3 |
-| 46 min | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
-| 46 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 46 min | BRL | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
-| 46 min | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:00 | GBP | BoE MPC vote cut (Dec) | 0 | 0 | 0 |
+| 20:00 | GBP | BoE MPC vote hike (Dec) | 3 | 2 | 3 |
+| 20:00 | GBP | BoE MPC vote unchanged (Dec) | 6 | 7 | 6 |
+| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 20:00 | BRL | Retail Sales (MoM) (Oct) | -0.3% | 0.2% | 0.5% |
+| 20:00 | BRL | Retail Sales (YoY) (Oct) | 0.2% | 1.8% | 3.2% |
 | 20:30 | GBP | BOE Inflation Letter |  |  |  |
-| 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
-| 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 21:30 | USD | Continuing Jobless Claims |  | 1,887K | 1,861K |
-| 21:30 | USD | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
-| 21:30 | USD | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
-| 21:30 | USD | Retail Control (MoM) (Nov) |  |  | 0.2% |
+| 44 min | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 44 min | EUR | ECB Monetary Policy Statement |  |  |  |
+| 59 min | USD | Continuing Jobless Claims |  | 1,887K | 1,861K |
+| 59 min | USD | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
+| 59 min | USD | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
+| 59 min | USD | Retail Control (MoM) (Nov) |  |  | 0.2% |
 | 22:45 | EUR | ECB Economic Bulletin |  |  |  |
 | 23:00 | USD | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
 | 23:00 | USD | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |

@@ -25,19 +25,19 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) | 4.40% |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) | 3.00% |  | -0.20% |
-| 17:30 | ZAR | PPI (MoM) (Nov) | -0.6% | 0.1% | 1.0% |
 | 17:30 | ZAR | PPI (YoY) (Nov) | 4.6% | 5.5% | 5.8% |
+| 17:30 | ZAR | PPI (MoM) (Nov) | -0.6% | 0.1% | 1.0% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Dec) | 48.7 |  | 45.8 |
 | 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Dec) | 44.26 |  | 44.59 |
 | 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Dec) | 47.26 |  | 47.11 |
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Dec) | 40.60 |  | 42.83 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 44.25 |  | 45.82 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 41.91 |  | 39.21 |
-| 21:30 | USD | Export Price Index (YoY) |  |  | -4.9% |
-| 21:30 | USD | Import Price Index (YoY) |  |  | -2.0% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 220.75K |
-| 21:30 | USD | Retail Sales (YoY) (Nov) |  |  | 2.48% |
-| 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
-| 21:30 | CAD | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
-| 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 163.3K |
+| 59 min | USD | Export Price Index (YoY) |  |  | -4.9% |
+| 59 min | USD | Import Price Index (YoY) |  |  | -2.0% |
+| 59 min | USD | Jobless Claims 4-Week Avg. |  |  | 220.75K |
+| 59 min | USD | Retail Sales (YoY) (Nov) |  |  | 2.48% |
+| 59 min | USD | Retail Sales Ex Gas/Autos (MoM) (Nov) |  |  | 0.1% |
+| 59 min | CAD | Manufacturing Sales (MoM) (Oct) |  | -2.7% | 0.4% |
+| 59 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 163.3K |
 | 23:30 | USD | Natural Gas Storage |  | -54B | -117B |
