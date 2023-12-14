@@ -28,8 +28,8 @@
 | 15:00 | EUR | German WPI (YoY) (Nov) |  |  | -4.2% |
 | 15:00 | EUR | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | NOK | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
+| 15:45 | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.4% | 4.0% |
 | 15:45 | EUR | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
