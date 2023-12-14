@@ -5,17 +5,17 @@
 | 05:45 | NZD | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
 | 05:45 | NZD | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
 | 05:45 | NZD | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Oct) | 0.7% | -0.5% | 1.4% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Oct) | -2.2% | -5.1% | -2.2% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Oct) | 0.7% | -0.5% | 1.4% |
 | 07:50 | JPY | Foreign Bonds Buying | -1,080.0B |  | 46.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | -990.6B |  | -357.2B |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.9% |
 | 08:30 | AUD | Participation Rate (Nov) | 67.2% | 66.9% | 67.0% |
 | 08:30 | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
-| 10:30 | SGD | Unemployment Rate (Q3) |  | 2.0% | 2.0% |
-| 10:30 | HKD | Interest Rate Decision |  |  | 5.75% |
-| Tentative | CNY | FDI |  |  | -9.40% |
+| 09:20 | HKD | Interest Rate Decision | 5.75% |  | 5.75% |
+| 2 min | SGD | Unemployment Rate (Q3) |  | 2.0% | 2.0% |
 | 12:30 | JPY | Capacity Utilization (MoM) (Oct) |  |  | 0.4% |
+| Tentative | CNY | FDI |  |  | -9.40% |
 | 14:30 | INR | WPI Food (YoY) (Nov) |  |  | 2.53% |
 | 14:30 | INR | WPI Fuel (YoY) (Nov) |  |  | -2.47% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) |  |  | -1.13% |
@@ -26,8 +26,8 @@
 | 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
 | 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
+| 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
