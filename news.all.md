@@ -7,11 +7,11 @@
 | 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.6% | 1.2% | 1.2% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -0.775B |  | 3.609B |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Dec) | 11.25% | 11.25% | 11.25% |
-| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,737B |
-| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.497T |
-| 16 min | NZD | Moderate | Business NZ PMI (Nov) |  |  | 42.5 |
-| 46 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 47.7 |
-| 46 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 46.0 |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,740B |  | 7,737B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.568T |  | 3.497T |
+| 05:30 | NZD | Moderate | Business NZ PMI (Nov) | 46.7 |  | 42.9 |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.8 |  | 47.7 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.6 |  | 46.0 |
 | 07:55 | KRW | Low | Exports (YoY) (Nov) |  |  | 7.8% |
 | 07:55 | KRW | Low | Imports (YoY) (Nov) |  |  | -11.6% |
 | 07:55 | KRW | Low | Trade Balance (Nov) |  |  | 3.80B |

@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.6% | 1.2% | 1.2% |
 | 03:00 | MXN | Interest Rate Decision (Dec) | 11.25% | 11.25% | 11.25% |
-| 16 min | USD | Fed's Balance Sheet |  |  | 7,737B |
-| 16 min | NZD | Business NZ PMI (Nov) |  |  | 42.5 |
+| 05:30 | USD | Fed's Balance Sheet | 7,740B |  | 7,737B |
+| 05:30 | NZD | Business NZ PMI (Nov) | 46.7 |  | 42.9 |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 50.8 |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Nov) |  | 3.0% | 2.9% |
 | 10:00 | CNY | Industrial Production (YoY) (Nov) |  | 5.6% | 4.6% |

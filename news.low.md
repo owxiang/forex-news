@@ -5,9 +5,9 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.285% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | -0.775B |  | 3.609B |
-| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.497T |
-| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.7 |
-| 46 min | AUD | Judo Bank Australia Services PMI |  |  | 46.0 |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.568T |  | 3.497T |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.8 |  | 47.7 |
+| 06:00 | AUD | Judo Bank Australia Services PMI | 47.6 |  | 46.0 |
 | 07:55 | KRW | Exports (YoY) (Nov) |  |  | 7.8% |
 | 07:55 | KRW | Imports (YoY) (Nov) |  |  | -11.6% |
 | 07:55 | KRW | Trade Balance (Nov) |  |  | 3.80B |
