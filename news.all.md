@@ -16,17 +16,17 @@
 | 05:45 | NZD | Low | GDP (YoY) (Q3) | -0.6% | 0.5% | 1.5% |
 | 05:45 | NZD | Low | GDP Annual Average (Q3) | 1.3% |  | 3.0% |
 | 05:45 | NZD | Low | GDP Expenditure (QoQ) (Q3) | -0.7% |  | 0.9% |
-| 34 min | JPY | Low | Core Machinery Orders (YoY) (Oct) |  | -5.1% | -2.2% |
-| 34 min | JPY | Low | Core Machinery Orders (MoM) (Oct) |  | -0.5% | 1.4% |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 64.5B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -358.3B |
-| 44 min | AUD | Low | MI Inflation Expectations |  |  | 4.9% |
-| 45 min | GBP | Moderate | RICS House Price Balance (Nov) |  | -57% | -63% |
-| 08:30 | AUD | Moderate | Employment Change (Nov) |  | 11.0K | 55.0K |
-| 08:30 | AUD | Moderate | Full Employment Change (Nov) |  |  | 17.0K |
-| 08:30 | AUD | Low | Participation Rate (Nov) |  | 66.9% | 67.0% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Oct) | 0.7% | -0.5% | 1.4% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Oct) | -2.2% | -5.1% | -2.2% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | -1,080.0B |  | 46.3B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -990.6B |  | -357.2B |
+| 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.9% |
+| 08:01 | GBP | Moderate | RICS House Price Balance (Nov) | -43% | -57% | -61% |
+| 08:30 | AUD | Moderate | Employment Change (Nov) | 61.5K | 11.0K | 55.0K |
+| 08:30 | AUD | Moderate | Full Employment Change (Nov) | 57.0K |  | 17.0K |
+| 08:30 | AUD | Low | Participation Rate (Nov) | 67.2% | 66.9% | 67.0% |
 | 08:30 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 08:30 | AUD | Moderate | Unemployment Rate (Nov) |  | 3.8% | 3.7% |
+| 08:30 | AUD | Moderate | Unemployment Rate (Nov) | 3.9% | 3.8% | 3.8% |
 | 10:30 | SGD | Low | Unemployment Rate (Q3) |  | 2.0% | 2.0% |
 | 10:30 | HKD | Low | Interest Rate Decision |  |  | 5.75% |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
@@ -69,8 +69,8 @@
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |

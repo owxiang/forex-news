@@ -8,10 +8,10 @@
 | 03:00 | USD | Interest Rate Projection - Current (Q4) | 5.4% |  | 5.6% |
 | 03:00 | USD | Interest Rate Projection - Longer (Q4) | 2.5% |  | 2.5% |
 | 05:00 | BRL | Interest Rate Decision | 11.75% | 11.75% | 12.25% |
-| 45 min | GBP | RICS House Price Balance (Nov) |  | -57% | -63% |
-| 08:30 | AUD | Employment Change (Nov) |  | 11.0K | 55.0K |
-| 08:30 | AUD | Full Employment Change (Nov) |  |  | 17.0K |
-| 08:30 | AUD | Unemployment Rate (Nov) |  | 3.8% | 3.7% |
+| 08:01 | GBP | RICS House Price Balance (Nov) | -43% | -57% | -61% |
+| 08:30 | AUD | Employment Change (Nov) | 61.5K | 11.0K | 55.0K |
+| 08:30 | AUD | Full Employment Change (Nov) | 57.0K |  | 17.0K |
+| 08:30 | AUD | Unemployment Rate (Nov) | 3.9% | 3.8% | 3.8% |
 | 12:30 | JPY | Industrial Production (MoM) (Oct) |  | 1.0% | 0.5% |
 | 14:30 | INR | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
 | 15:30 | CHF | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
@@ -26,8 +26,8 @@
 | 20:00 | GBP | BoE MPC vote hike (Dec) |  | 2 | 3 |
 | 20:00 | GBP | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:00 | BRL | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
+| 20:00 | BRL | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
 | 20:30 | GBP | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
