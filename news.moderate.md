@@ -13,10 +13,10 @@
 | 08:30 | AUD | Full Employment Change (Nov) | 57.0K |  | 10.7K |
 | 08:30 | AUD | Unemployment Rate (Nov) | 3.9% | 3.8% | 3.8% |
 | 12:30 | JPY | Industrial Production (MoM) (Oct) | 1.3% | 1.0% | 0.5% |
-| 9 min | INR | WPI Inflation (YoY) (Nov) |  | 0.08% | -0.52% |
-| 15:30 | CHF | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
-| 16:00 | EUR | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
-| 16:00 | EUR | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
+| 14:30 | INR | WPI Inflation (YoY) (Nov) | 0.26% | 0.08% | -0.52% |
+| 15 min | CHF | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
+| 45 min | EUR | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
+| 45 min | EUR | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
 | 16:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 17:00 | USD | IEA Monthly Report |  |  |  |
 | 17:00 | CHF | SNB Press Conference |  |  |  |
