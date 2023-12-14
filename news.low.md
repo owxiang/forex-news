@@ -5,9 +5,9 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.285% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | -0.775B |  | 3.609B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.497T |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.7 |
-| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 46.0 |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.497T |
+| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.7 |
+| 46 min | AUD | Judo Bank Australia Services PMI |  |  | 46.0 |
 | 07:55 | KRW | Exports (YoY) (Nov) |  |  | 7.8% |
 | 07:55 | KRW | Imports (YoY) (Nov) |  |  | -11.6% |
 | 07:55 | KRW | Trade Balance (Nov) |  |  | 3.80B |
@@ -28,8 +28,8 @@
 | 15:00 | EUR | German WPI (YoY) (Nov) |  |  | -4.2% |
 | 15:00 | EUR | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | NOK | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
 | 15:45 | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
+| 15:45 | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.4% | 4.0% |
 | 15:45 | EUR | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
