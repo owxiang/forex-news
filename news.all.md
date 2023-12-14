@@ -38,8 +38,8 @@
 | 15:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.9% | 0.1% | 0.2% |
 | 15:30 | CHF | Low | PPI (YoY) (Nov) | -1.3% |  | -0.9% |
 | 16:00 | EUR | Low | Core CPI (YoY) (Nov) | 4.5% |  | 5.2% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.2% | 3.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) | -0.3% | -0.4% | 0.3% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.2% | 3.5% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.3% | 3.2% | 3.5% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
 | 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -87,8 +87,8 @@
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) (Oct) | -2.8% | -2.7% | 0.7% |
 | 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 151.1K |  | 163.2K |
 | 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 30 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 45 min | USD | Moderate | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
-| 45 min | USD | Moderate | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |
+| 22:45 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 23:00 | USD | Moderate | Business Inventories (MoM) (Oct) | -0.1% | 0.0% | 0.2% |
+| 23:00 | USD | Moderate | Retail Inventories Ex Auto (Oct) | -0.9% | -0.9% | 0.4% |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  | -54B | -117B |
+| 13 min | USD | Low | Natural Gas Storage |  | -54B | -117B |

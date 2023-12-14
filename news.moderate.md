@@ -36,7 +36,7 @@
 | 21:30 | USD | Export Price Index (MoM) (Nov) | -0.9% | -1.0% | -0.9% |
 | 21:30 | USD | Import Price Index (MoM) (Nov) | -0.4% | -0.8% | -0.6% |
 | 21:30 | USD | Retail Control (MoM) (Nov) | 0.4% |  | 0.2% |
-| 30 min | EUR | ECB Economic Bulletin |  |  |  |
-| 45 min | USD | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
-| 45 min | USD | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |
+| 22:45 | EUR | ECB Economic Bulletin |  |  |  |
+| 23:00 | USD | Business Inventories (MoM) (Oct) | -0.1% | 0.0% | 0.2% |
+| 23:00 | USD | Retail Inventories Ex Auto (Oct) | -0.9% | -0.9% | 0.4% |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
