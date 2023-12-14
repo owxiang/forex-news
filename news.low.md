@@ -8,10 +8,10 @@
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.568T |  | 3.497T |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.8 |  | 47.7 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.6 |  | 46.0 |
-| 07:55 | KRW | Exports (YoY) (Nov) |  |  | 7.8% |
-| 07:55 | KRW | Imports (YoY) (Nov) |  |  | -11.6% |
-| 07:55 | KRW | Trade Balance (Nov) |  |  | 3.80B |
-| 08:01 | GBP | GfK Consumer Confidence (Dec) |  | -22 | -24 |
+| 39 min | KRW | Exports (YoY) (Nov) |  |  | 7.8% |
+| 39 min | KRW | Imports (YoY) (Nov) |  |  | -11.6% |
+| 39 min | KRW | Trade Balance (Nov) |  |  | 3.80B |
+| 45 min | GBP | GfK Consumer Confidence (Dec) |  | -22 | -24 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 48.2 | 48.3 |
 | 09:30 | CNY | House Prices (YoY) (Nov) |  |  | -0.1% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 39.36 |
@@ -28,18 +28,18 @@
 | 15:00 | EUR | German WPI (YoY) (Nov) |  |  | -4.2% |
 | 15:00 | EUR | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | NOK | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
+| 15:45 | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.4% | 4.0% |
 | 15:45 | EUR | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
 | 16:15 | EUR | HCOB France Composite PMI (Dec) |  | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
-| 17:00 | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
+| 17:00 | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
-| 17:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
 | 17:00 | EUR | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
+| 17:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
 | 18:00 | EUR | Italian Trade Balance |  | 3.450B | 2.350B |
 | 18:00 | EUR | Italian Trade Balance EU |  |  | -0.47B |
 | 18:00 | EUR | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
