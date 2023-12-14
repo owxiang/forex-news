@@ -11,7 +11,7 @@
 | 20:00 | GBP | BoE Interest Rate Decision (Dec) | 5.25% | 5.25% | 5.25% |
 | 21:15 | EUR | Deposit Facility Rate (Dec) | 4.00% | 4.00% | 4.00% |
 | 21:15 | EUR | ECB Interest Rate Decision (Dec) | 4.50% | 4.50% | 4.50% |
-| 10 min | USD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
-| 10 min | USD | Initial Jobless Claims |  | 220K | 220K |
-| 10 min | USD | Retail Sales (MoM) (Nov) |  | -0.1% | -0.1% |
-| 25 min | EUR | ECB Press Conference |  |  |  |
+| 21:30 | USD | Core Retail Sales (MoM) (Nov) | 0.2% | -0.1% | 0.1% |
+| 21:30 | USD | Initial Jobless Claims | 202K | 220K | 221K |
+| 21:30 | USD | Retail Sales (MoM) (Nov) | 0.3% | -0.1% | -0.2% |
+| 21:45 | EUR | ECB Press Conference |  |  |  |

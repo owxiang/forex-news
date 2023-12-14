@@ -32,11 +32,11 @@
 | 21:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:15 | EUR | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
 | 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 10 min | USD | Continuing Jobless Claims |  | 1,887K | 1,861K |
-| 10 min | USD | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
-| 10 min | USD | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
-| 10 min | USD | Retail Control (MoM) (Nov) |  |  | 0.2% |
-| 22:45 | EUR | ECB Economic Bulletin |  |  |  |
-| 23:00 | USD | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
-| 23:00 | USD | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |
+| 21:30 | USD | Continuing Jobless Claims | 1,876K | 1,887K | 1,856K |
+| 21:30 | USD | Export Price Index (MoM) (Nov) | -0.9% | -1.0% | -0.9% |
+| 21:30 | USD | Import Price Index (MoM) (Nov) | -0.4% | -0.8% | -0.6% |
+| 21:30 | USD | Retail Control (MoM) (Nov) | 0.4% |  | 0.2% |
+| 30 min | EUR | ECB Economic Bulletin |  |  |  |
+| 45 min | USD | Business Inventories (MoM) (Oct) |  | 0.0% | 0.4% |
+| 45 min | USD | Retail Inventories Ex Auto (Oct) |  | -0.9% | 0.4% |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
