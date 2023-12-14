@@ -35,24 +35,24 @@
 | 14:30 | INR | Low | WPI Fuel (YoY) (Nov) | -4.61% |  | -2.47% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Nov) | 0.26% | 0.08% | -0.52% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Nov) | -0.64% |  | -1.13% |
-| 15 min | CHF | Low | PPI (YoY) (Nov) |  |  | -0.9% |
-| 15 min | CHF | Moderate | PPI (MoM) (Nov) |  | 0.1% | 0.2% |
-| 45 min | EUR | Low | Core CPI (YoY) (Nov) |  |  | 5.2% |
-| 45 min | EUR | Moderate | Spanish CPI (YoY) (Nov) |  | 3.2% | 3.5% |
-| 45 min | EUR | Low | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
-| 45 min | EUR | Moderate | Spanish HICP (YoY) (Nov) |  | 3.2% | 3.5% |
-| 45 min | EUR | Low | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
-| 45 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
-| 16:30 | CHF | High | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |
-| 16:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 16:30 | HKD | Low | Industrial Production (YoY) (Q3) |  |  | 2.70% |
-| 16:30 | HKD | Low | PPI (YoY) (Q3) |  |  | -0.20% |
-| 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 17:00 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 15:30 | CHF | Moderate | PPI (MoM) (Nov) | -0.9% | 0.1% | 0.2% |
+| 15:30 | CHF | Low | PPI (YoY) (Nov) | -1.3% |  | -0.9% |
+| 16:00 | EUR | Low | Core CPI (YoY) (Nov) | 4.5% |  | 5.2% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Nov) | -0.3% | -0.4% | 0.3% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Nov) | 3.2% | 3.2% | 3.5% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Nov) | 3.3% | 3.2% | 3.5% |
+| 16:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 9 min | CHF | High | SNB Interest Rate Decision (Q4) |  | 1.75% | 1.75% |
+| 9 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 9 min | HKD | Low | Industrial Production (YoY) (Q3) |  |  | 2.70% |
+| 9 min | HKD | Low | PPI (YoY) (Q3) |  |  | -0.20% |
+| 39 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 39 min | CHF | Moderate | SNB Press Conference |  |  |  |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
-| 17:00 | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
-| 17:30 | ZAR | Low | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
+| 39 min | NOK | Moderate | Interest Rate Decision |  | 4.25% | 4.25% |
 | 17:30 | ZAR | Low | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| 17:30 | ZAR | Low | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 3.334% |
@@ -69,8 +69,8 @@
 | 20:00 | GBP | Moderate | BoE MPC vote unchanged (Dec) |  | 7 | 6 |
 | 20:00 | GBP | High | BoE Interest Rate Decision (Dec) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Oct) |  | 1.8% | 3.3% |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Oct) |  | 0.2% | 0.6% |
 | 20:30 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 21:15 | EUR | High | Deposit Facility Rate (Dec) |  | 4.00% | 4.00% |
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
@@ -78,10 +78,10 @@
 | 21:15 | EUR | High | ECB Interest Rate Decision (Dec) |  | 4.50% | 4.50% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,887K | 1,861K |
 | 21:30 | USD | High | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.1% |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Nov) |  | -1.0% | -1.1% |
-| 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -4.9% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -2.0% |
+| 21:30 | USD | Moderate | Import Price Index (MoM) (Nov) |  | -0.8% | -0.8% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 220K | 220K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 220.75K |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Nov) |  |  | 0.2% |

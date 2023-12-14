@@ -18,16 +18,16 @@
 | 14:30 | INR | WPI Food (YoY) (Nov) | 8.18% |  | 2.53% |
 | 14:30 | INR | WPI Fuel (YoY) (Nov) | -4.61% |  | -2.47% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Nov) | -0.64% |  | -1.13% |
-| 15 min | CHF | PPI (YoY) (Nov) |  |  | -0.9% |
-| 45 min | EUR | Core CPI (YoY) (Nov) |  |  | 5.2% |
-| 45 min | EUR | Spanish CPI (MoM) (Nov) |  | -0.4% | 0.3% |
-| 45 min | EUR | Spanish HICP (MoM) (Nov) |  | -0.6% | 0.3% |
-| 45 min | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 16:30 | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
-| 16:30 | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
+| 15:30 | CHF | PPI (YoY) (Nov) | -1.3% |  | -0.9% |
+| 16:00 | EUR | Core CPI (YoY) (Nov) | 4.5% |  | 5.2% |
+| 16:00 | EUR | Spanish CPI (MoM) (Nov) | -0.3% | -0.4% | 0.3% |
+| 16:00 | EUR | Spanish HICP (MoM) (Nov) | -0.5% | -0.6% | 0.3% |
+| 16:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 9 min | HKD | Industrial Production (YoY) (Q3) |  |  | 2.70% |
+| 9 min | HKD | PPI (YoY) (Q3) |  |  | -0.20% |
 | Tentative | CNY | FDI |  |  | -9.40% |
-| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:30 | ZAR | PPI (MoM) (Nov) |  | 0.1% | 1.0% |
+| 17:30 | ZAR | PPI (YoY) (Nov) |  | 5.5% | 5.8% |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
