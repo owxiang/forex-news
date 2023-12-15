@@ -46,27 +46,27 @@
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 42.0 | 43.3 | 42.9 |
 | 16:15 | EUR | Low | HCOB France Composite PMI (Dec) | 43.7 | 45.0 | 44.6 |
 | 16:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 44.3 | 46.0 | 45.4 |
-| 9 min | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
-| 9 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
-| 9 min | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
-| 39 min | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
-| 39 min | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
-| 39 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
-| 39 min | EUR | Low | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
-| 39 min | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
-| 39 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.6 | 44.2 |
-| 39 min | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  | 48.0 | 47.6 |
-| 39 min | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.0 | 48.7 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.9 | 50.7 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.2 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 50.9 |
-| 18:00 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
-| 18:00 | EUR | Low | Italian Trade Balance |  | 3.450B | 2.350B |
-| 18:00 | EUR | Low | Italian Trade Balance EU |  |  | -0.47B |
-| 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 18:00 | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 4.60% |
-| 18:00 | EUR | Low | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
-| 18:00 | EUR | Moderate | Trade Balance (Oct) |  |  | 10.0B |
+| 16:30 | EUR | Low | HCOB Germany Composite PMI (Dec) | 46.7 | 48.2 | 47.8 |
+| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 43.1 | 43.2 | 42.6 |
+| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 48.4 | 49.8 | 49.6 |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.5% | -0.4% | -0.2% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Nov) | 0.7% | 0.8% | 1.7% |
+| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 0.7% |  | 1.7% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.6% | -0.4% | 0.1% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Nov) | 0.6% | 0.7% | 1.8% |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 44.2 | 44.6 | 44.2 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 47.0 | 48.0 | 47.6 |
+| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 48.1 | 49.0 | 48.7 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.9 | 50.7 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.2 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 50.9 |
+| 44 min | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
+| 44 min | EUR | Low | Italian Trade Balance |  | 3.450B | 2.350B |
+| 44 min | EUR | Low | Italian Trade Balance EU |  |  | -0.47B |
+| 44 min | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 44 min | EUR | Moderate | Wages in euro zone (YoY) (Q3) |  |  | 4.60% |
+| 44 min | EUR | Low | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
+| 44 min | EUR | Moderate | Trade Balance (Oct) |  |  | 10.0B |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.5% |
 | 19:00 | EUR | Low | Reserve Assets Total (Nov) |  |  | 1,154.15B |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.6% |
