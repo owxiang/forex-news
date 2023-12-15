@@ -22,16 +22,16 @@
 | 10:00 | IDR | Import Growth (YoY) (Nov) | 3.29% | 0.20% | -2.42% |
 | 10:00 | IDR | Trade Balance (Nov) | 2.41B | 3.05B | 3.47B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Oct) | -1.20 |  | 1.90 |
-| 39 min | NOK | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
-| 15:45 | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
-| 15:45 | EUR | French CPI (YoY) |  | 3.4% | 4.0% |
-| 15:45 | EUR | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
-| 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
+| 15:00 | NOK | Trade Balance (Nov) | 80.1B |  | 85.8B |
+| 30 min | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
+| 30 min | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
+| 30 min | EUR | French CPI (YoY) |  | 3.4% | 4.0% |
+| 30 min | EUR | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
+| 30 min | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
 | 16:15 | EUR | HCOB France Composite PMI (Dec) |  | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
-| 17:00 | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
+| 17:00 | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
 | 17:00 | EUR | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
 | 17:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |

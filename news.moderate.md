@@ -12,8 +12,8 @@
 | 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) | 4.3% |  | 4.1% |
 | 10:00 | CNY | Chinese Unemployment Rate (Nov) | 5.0% | 5.0% | 5.0% |
 | 10:00 | CNY | NBS Press Conference |  |  |  |
-| 15:45 | EUR | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
-| 15:45 | EUR | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
+| 30 min | EUR | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
+| 30 min | EUR | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
 | 16:15 | EUR | HCOB France Manufacturing PMI (Dec) |  | 43.3 | 42.9 |
 | 16:15 | EUR | HCOB France Services PMI (Dec) |  | 46.0 | 45.4 |
 | 16:30 | EUR | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
