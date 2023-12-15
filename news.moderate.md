@@ -12,15 +12,15 @@
 | 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) | 4.3% |  | 4.1% |
 | 10:00 | CNY | Chinese Unemployment Rate (Nov) | 5.0% | 5.0% | 5.0% |
 | 10:00 | CNY | NBS Press Conference |  |  |  |
-| 30 min | EUR | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
-| 30 min | EUR | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
-| 16:15 | EUR | HCOB France Manufacturing PMI (Dec) |  | 43.3 | 42.9 |
-| 16:15 | EUR | HCOB France Services PMI (Dec) |  | 46.0 | 45.4 |
-| 16:30 | EUR | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
-| 16:30 | EUR | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.6 | 44.2 |
-| 17:00 | EUR | HCOB Eurozone Composite PMI (Dec) |  | 48.0 | 47.6 |
-| 17:00 | EUR | HCOB Eurozone Services PMI (Dec) |  | 49.0 | 48.7 |
+| 15:45 | EUR | French CPI (MoM) (Nov) | -0.2% | -0.2% | 0.1% |
+| 15:45 | EUR | French HICP (MoM) (Nov) | -0.2% | -0.3% | 0.2% |
+| 16:15 | EUR | HCOB France Manufacturing PMI (Dec) | 42.0 | 43.3 | 42.9 |
+| 16:15 | EUR | HCOB France Services PMI (Dec) | 44.3 | 46.0 | 45.4 |
+| 9 min | EUR | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
+| 9 min | EUR | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
+| 39 min | EUR | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.6 | 44.2 |
+| 39 min | EUR | HCOB Eurozone Composite PMI (Dec) |  | 48.0 | 47.6 |
+| 39 min | EUR | HCOB Eurozone Services PMI (Dec) |  | 49.0 | 48.7 |
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 50.9 | 50.7 |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.2 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI |  | 51.0 | 50.9 |
@@ -34,5 +34,4 @@
 | 21:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
 | 22:15 | USD | Industrial Production (YoY) (Nov) |  |  | -0.68% |
 | 22:15 | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
-| 22:45 | USD | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
 | 22:45 | USD | S&P Global Composite PMI (Dec) |  |  | 50.7 |

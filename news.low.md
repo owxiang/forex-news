@@ -23,18 +23,21 @@
 | 10:00 | IDR | Trade Balance (Nov) | 2.41B | 3.05B | 3.47B |
 | 12:30 | JPY | Tertiary Industry Activity Index (Oct) | -1.20 |  | 1.90 |
 | 15:00 | NOK | Trade Balance (Nov) | 80.1B |  | 85.8B |
-| 30 min | EUR | CPI NSA (MoM) (Nov) |  |  | 0.10% |
-| 30 min | EUR | CPI NSA (YoY) (Nov) |  |  | 4.00% |
-| 30 min | EUR | French CPI (YoY) |  | 3.4% | 4.0% |
-| 30 min | EUR | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
-| 30 min | EUR | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
-| 16:15 | EUR | HCOB France Composite PMI (Dec) |  | 45.0 | 44.6 |
-| 16:30 | EUR | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
-| 17:00 | EUR | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
-| 17:00 | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
-| 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
-| 17:00 | EUR | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
-| 17:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
+| 15:45 | EUR | CPI NSA (MoM) (Nov) | -0.20% |  | 0.10% |
+| 15:45 | EUR | CPI NSA (YoY) (Nov) | 3.50% |  | 4.00% |
+| 15:45 | EUR | French CPI (YoY) | 3.5% | 3.4% | 4.0% |
+| 15:45 | EUR | French HICP (YoY) (Nov) | 3.9% | 3.8% | 4.5% |
+| 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Nov) | 3.30% |  | 3.90% |
+| 16:15 | INR | Exports (USD) (Nov) | 33.90B |  | 33.57B |
+| 16:15 | INR | Imports (USD) (Nov) | 54.48B |  | 65.03B |
+| 16:15 | INR | Trade Balance (Nov) | -20.58B | -23.60B | -31.46B |
+| 16:15 | EUR | HCOB France Composite PMI (Dec) | 43.7 | 45.0 | 44.6 |
+| 9 min | EUR | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
+| 39 min | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
+| 39 min | EUR | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
+| 39 min | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
+| 39 min | EUR | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
+| 39 min | EUR | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
 | 18:00 | EUR | Italian Trade Balance |  | 3.450B | 2.350B |
 | 18:00 | EUR | Italian Trade Balance EU |  |  | -0.47B |
 | 18:00 | EUR | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
@@ -44,9 +47,6 @@
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD |  |  | 604.04B |
 | 20:00 | BRL | IBC-Br Economic Activity (Oct) |  | 0.10% | -0.06% |
-| 20:20 | INR | Exports (USD) |  |  | 33.57B |
-| 20:20 | INR | Imports (USD) |  |  | 65.03B |
-| 20:20 | INR | Trade Balance |  | -23.60B | -31.46B |
 | 21:30 | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 11.60B |
 | 22:15 | USD | Capacity Utilization Rate (Nov) |  | 79.1% | 78.9% |
 | 22:15 | USD | Manufacturing Production (MoM) (Nov) |  | 0.4% | -0.7% |

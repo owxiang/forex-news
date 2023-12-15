@@ -33,27 +33,30 @@
 | 10:00 | IDR | Low | Trade Balance (Nov) | 2.41B | 3.05B | 3.47B |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | -1.20 |  | 1.90 |
 | 15:00 | NOK | Low | Trade Balance (Nov) | 80.1B |  | 85.8B |
-| 30 min | EUR | Low | CPI NSA (MoM) (Nov) |  |  | 0.10% |
-| 30 min | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
-| 30 min | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
-| 30 min | EUR | Low | French CPI (YoY) |  | 3.4% | 4.0% |
-| 30 min | EUR | Low | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
-| 30 min | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
-| 30 min | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
-| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 43.3 | 42.9 |
-| 16:15 | EUR | Low | HCOB France Composite PMI (Dec) |  | 45.0 | 44.6 |
-| 16:15 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 46.0 | 45.4 |
-| 16:30 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
-| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
-| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
-| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.6 | 44.2 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  | 48.0 | 47.6 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.0 | 48.7 |
+| 15:45 | EUR | Low | CPI NSA (MoM) (Nov) | -0.20% |  | 0.10% |
+| 15:45 | EUR | Low | CPI NSA (YoY) (Nov) | 3.50% |  | 4.00% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | -0.2% | 0.1% |
+| 15:45 | EUR | Low | French CPI (YoY) | 3.5% | 3.4% | 4.0% |
+| 15:45 | EUR | Low | French HICP (YoY) (Nov) | 3.9% | 3.8% | 4.5% |
+| 15:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.2% | -0.3% | 0.2% |
+| 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) | 3.30% |  | 3.90% |
+| 16:15 | INR | Low | Exports (USD) (Nov) | 33.90B |  | 33.57B |
+| 16:15 | INR | Low | Imports (USD) (Nov) | 54.48B |  | 65.03B |
+| 16:15 | INR | Low | Trade Balance (Nov) | -20.58B | -23.60B | -31.46B |
+| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 42.0 | 43.3 | 42.9 |
+| 16:15 | EUR | Low | HCOB France Composite PMI (Dec) | 43.7 | 45.0 | 44.6 |
+| 16:15 | EUR | Moderate | HCOB France Services PMI (Dec) | 44.3 | 46.0 | 45.4 |
+| 9 min | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
+| 9 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
+| 9 min | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
+| 39 min | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
+| 39 min | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
+| 39 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
+| 39 min | EUR | Low | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
+| 39 min | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
+| 39 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.6 | 44.2 |
+| 39 min | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) |  | 48.0 | 47.6 |
+| 39 min | EUR | Moderate | HCOB Eurozone Services PMI (Dec) |  | 49.0 | 48.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 50.9 | 50.7 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.2 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 51.0 | 50.9 |
@@ -70,9 +73,6 @@
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 604.04B |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Oct) |  | 0.10% | -0.06% |
-| 20:20 | INR | Low | Exports (USD) |  |  | 33.57B |
-| 20:20 | INR | Low | Imports (USD) |  |  | 65.03B |
-| 20:20 | INR | Low | Trade Balance |  | -23.60B | -31.46B |
 | 21:15 | CAD | Moderate | Housing Starts (Nov) |  | 257.1K | 274.7K |
 | 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
 | 21:30 | CAD | Moderate | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
@@ -82,6 +82,6 @@
 | 22:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | -0.68% |
 | 22:15 | USD | Moderate | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Nov) |  | 0.4% | -0.7% |
-| 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
+| 22:45 | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 50.7 |
 | 22:45 | USD | High | S&P Global Services PMI (Dec) |  | 50.6 | 50.8 |
