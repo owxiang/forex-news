@@ -6,12 +6,12 @@
 | 03:00 | MXN | Interest Rate Decision (Dec) | 11.25% | 11.25% | 11.25% |
 | 05:30 | USD | Fed's Balance Sheet | 7,740B |  | 7,737B |
 | 05:30 | NZD | Business NZ PMI (Nov) | 46.7 |  | 42.9 |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 50.8 |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Nov) |  | 3.0% | 2.9% |
-| 10:00 | CNY | Industrial Production (YoY) (Nov) |  | 5.6% | 4.6% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 4.1% |
-| 10:00 | CNY | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI | 52.0 |  | 50.8 |
+| 47 min | CNY | Fixed Asset Investment (YoY) (Nov) |  | 3.0% | 2.9% |
+| 47 min | CNY | Industrial Production (YoY) (Nov) |  | 5.6% | 4.6% |
+| 47 min | CNY | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 4.1% |
+| 47 min | CNY | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
+| 47 min | CNY | NBS Press Conference |  |  |  |
 | 15:45 | EUR | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
 | 15:45 | EUR | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
 | 16:15 | EUR | HCOB France Manufacturing PMI (Dec) |  | 43.3 | 42.9 |
