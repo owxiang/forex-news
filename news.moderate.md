@@ -15,4 +15,3 @@
 | 04:30 | BRL | CFTC BRL speculative net positions | 46.7K |  | 50.2K |
 | 04:30 | JPY | CFTC JPY speculative net positions | -81.1K |  | -105.0K |
 | 04:30 | EUR | CFTC EUR speculative net positions | 147.3K |  | 152.4K |
-| 05:00 | USD | TIC Net Long-Term Transactions |  | 45.8B | -1.7B |

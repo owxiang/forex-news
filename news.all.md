@@ -26,4 +26,3 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -81.1K |  | -105.0K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -13.5K |  | -16.4K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 147.3K |  | 152.4K |
-| 05:00 | USD | Moderate | TIC Net Long-Term Transactions |  | 45.8B | -1.7B |
