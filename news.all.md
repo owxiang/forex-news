@@ -15,28 +15,28 @@
 | 08:01 | GBP | Low | GfK Consumer Confidence (Dec) | -22 | -22 | -24 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) | 47.7 | 48.2 | 48.3 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 52.0 |  | 50.8 |
-| 17 min | CNY | Low | House Prices (YoY) (Nov) |  |  | -0.1% |
-| 47 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 39.36 |
-| 47 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 63.11 |
-| 47 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) |  |  | 50.19 |
-| 47 min | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) |  |  | 38.20 |
-| 47 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) |  |  | 75.58 |
-| 47 min | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) |  | 3.0% | 2.9% |
-| 47 min | CNY | Moderate | Industrial Production (YoY) (Nov) |  | 5.6% | 4.6% |
-| 47 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) |  |  | 4.1% |
-| 47 min | CNY | Low | Retail Sales (YoY) (Nov) |  | 12.5% | 7.6% |
-| 47 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) |  |  | 6.90% |
-| 47 min | CNY | Moderate | Chinese Unemployment Rate (Nov) |  | 5.0% | 5.0% |
-| 47 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 47 min | IDR | Low | Export Growth (YoY) (Nov) |  | -9.36% | -10.43% |
-| 47 min | IDR | Low | Import Growth (YoY) (Nov) |  | 0.20% | -2.42% |
-| 47 min | IDR | Low | Trade Balance (Nov) |  | 3.05B | 3.48B |
+| 09:30 | CNY | Low | House Prices (YoY) (Nov) | -0.2% |  | -0.1% |
+| 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 39.05 |  | 39.36 |
+| 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 64.31 |  | 63.11 |
+| 10:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Dec) | 47.39 |  | 50.19 |
+| 10:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Dec) | 37.52 |  | 38.20 |
+| 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Dec) | 71.41 |  | 75.58 |
+| 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Nov) | 2.9% | 3.0% | 2.9% |
+| 10:00 | CNY | Moderate | Industrial Production (YoY) (Nov) | 6.6% | 5.6% | 4.6% |
+| 10:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Nov) | 4.3% |  | 4.1% |
+| 10:00 | CNY | Low | Retail Sales (YoY) (Nov) | 10.1% | 12.5% | 7.6% |
+| 10:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Nov) | 7.20% |  | 6.90% |
+| 10:00 | CNY | Moderate | Chinese Unemployment Rate (Nov) | 5.0% | 5.0% | 5.0% |
+| 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 10:00 | IDR | Low | Export Growth (YoY) (Nov) | -8.56% | -9.36% | -10.43% |
+| 10:00 | IDR | Low | Import Growth (YoY) (Nov) | 3.29% | 0.20% | -2.42% |
+| 10:00 | IDR | Low | Trade Balance (Nov) | 2.41B | 3.05B | 3.48B |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 2.10 |
-| 15:00 | EUR | Low | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | -4.2% |
+| 15:00 | EUR | Low | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | NOK | Low | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Nov) |  |  | 0.10% |
+| 15:45 | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
 | 15:45 | EUR | Low | French CPI (YoY) |  | 3.4% | 4.0% |
 | 15:45 | EUR | Low | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
@@ -48,8 +48,8 @@
 | 16:30 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
 | 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
