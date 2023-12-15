@@ -21,17 +21,17 @@
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 44.2 | 44.6 | 44.2 |
 | 17:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 47.0 | 48.0 | 47.6 |
 | 17:00 | EUR | HCOB Eurozone Services PMI (Dec) | 48.1 | 49.0 | 48.7 |
-| 14 min | GBP | S&P Global/CIPS UK Composite PMI |  | 50.9 | 50.7 |
-| 14 min | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.2 |
-| 14 min | GBP | S&P Global/CIPS UK Services PMI |  | 51.0 | 50.9 |
-| 44 min | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 44 min | EUR | EU Leaders Summit |  |  |  |
-| 44 min | EUR | Wages in euro zone (YoY) (Q3) |  |  | 4.60% |
-| 44 min | EUR | Trade Balance (Oct) |  |  | 10.0B |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI | 51.7 | 50.9 | 50.7 |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 46.4 | 47.5 | 47.2 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI | 52.7 | 51.0 | 50.9 |
+| 18:00 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 18:00 | EUR | EU Leaders Summit |  |  |  |
+| 18:00 | EUR | Wages in euro zone (YoY) (Q3) | 5.30% |  | 4.60% |
+| 18:00 | EUR | Trade Balance (Oct) | 11.1B |  | 10.0B |
 | 21:15 | CAD | Housing Starts (Nov) |  | 257.1K | 274.7K |
 | 21:30 | USD | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
 | 21:30 | CAD | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
 | 21:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
-| 22:15 | USD | Industrial Production (YoY) (Nov) |  |  | -0.68% |
 | 22:15 | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
+| 22:15 | USD | Industrial Production (YoY) (Nov) |  |  | -0.68% |
 | 22:45 | USD | S&P Global Composite PMI (Dec) |  |  | 50.7 |

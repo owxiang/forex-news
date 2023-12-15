@@ -33,16 +33,16 @@
 | 16:15 | INR | Trade Balance (Nov) | -20.58B | -23.60B | -31.46B |
 | 16:15 | EUR | HCOB France Composite PMI (Dec) | 43.7 | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Dec) | 46.7 | 48.2 | 47.8 |
-| 17:00 | EUR | Italian CPI (MoM) (Nov) | -0.5% | -0.4% | -0.2% |
 | 17:00 | EUR | Italian CPI (YoY) (Nov) | 0.7% | 0.8% | 1.7% |
+| 17:00 | EUR | Italian CPI (MoM) (Nov) | -0.5% | -0.4% | -0.2% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 0.7% |  | 1.7% |
-| 17:00 | EUR | Italian HICP (MoM) (Nov) | -0.6% | -0.4% | 0.1% |
 | 17:00 | EUR | Italian HICP (YoY) (Nov) | 0.6% | 0.7% | 1.8% |
-| 44 min | EUR | Italian Trade Balance |  | 3.450B | 2.350B |
-| 44 min | EUR | Italian Trade Balance EU |  |  | -0.47B |
-| 44 min | EUR | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
-| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.5% |
-| 19:00 | EUR | Reserve Assets Total (Nov) |  |  | 1,154.15B |
+| 17:00 | EUR | Italian HICP (MoM) (Nov) | -0.6% | -0.4% | 0.1% |
+| 18:00 | EUR | Italian Trade Balance | 4.699B | 3.450B | 2.393B |
+| 18:00 | EUR | Italian Trade Balance EU | -0.68B |  | -0.42B |
+| 18:00 | EUR | Labor Cost Index (YoY) (Q3) | 5.30% |  | 4.50% |
+| 42 min | BRL | IGP-10 Inflation Index (MoM) (Dec) |  |  | 0.5% |
+| 42 min | EUR | Reserve Assets Total (Nov) |  |  | 1,154.15B |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.6% |
 | 19:30 | INR | Deposit Growth |  |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD |  |  | 604.04B |
