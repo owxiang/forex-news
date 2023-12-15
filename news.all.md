@@ -5,7 +5,7 @@
 | 00:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.285% |
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.6% | 1.2% | 1.2% |
-| 01:30 | BRL | Low | Foreign Exchange Flows | -0.775B |  | 3.609B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -0.387B |  | 0.388B |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Dec) | 11.25% | 11.25% | 11.25% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,740B |  | 7,737B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.568T |  | 3.497T |
@@ -31,14 +31,14 @@
 | 10:00 | IDR | Low | Export Growth (YoY) (Nov) | -8.56% | -9.36% | -10.43% |
 | 10:00 | IDR | Low | Import Growth (YoY) (Nov) | 3.29% | 0.20% | -2.42% |
 | 10:00 | IDR | Low | Trade Balance (Nov) | 2.41B | 3.05B | 3.47B |
-| 10 min | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 2.10 |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Oct) | -1.20 |  | 1.90 |
 | 15:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | -4.2% |
 | 15:00 | EUR | Low | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | NOK | Low | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Nov) |  |  | 0.10% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
+| 15:45 | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
 | 15:45 | EUR | Low | French CPI (YoY) |  | 3.4% | 4.0% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) (Nov) |  | 3.8% | 4.5% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) |  |  | 3.90% |
@@ -81,8 +81,8 @@
 | 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 11.60B |
 | 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
 | 22:15 | USD | Low | Capacity Utilization Rate (Nov) |  | 79.1% | 78.9% |
-| 22:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | -0.68% |
 | 22:15 | USD | Moderate | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | -0.68% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Nov) |  | 0.4% | -0.7% |
 | 22:45 | USD | Moderate | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 50.7 |
