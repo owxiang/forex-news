@@ -28,7 +28,7 @@
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
 | 18:00 | EUR | Wages in euro zone (YoY) (Q3) | 5.30% |  | 4.60% |
 | 18:00 | EUR | Trade Balance (Oct) | 11.1B |  | 9.8B |
-| 21:15 | CAD | Housing Starts (Nov) |  | 257.1K | 274.7K |
+| 45 min | CAD | Housing Starts (Nov) |  | 257.1K | 274.7K |
 | 21:30 | USD | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
 | 21:30 | CAD | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
 | 21:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
