@@ -36,8 +36,8 @@
 | 17:00 | EUR | Italian CPI (MoM) (Nov) | -0.5% | -0.4% | -0.2% |
 | 17:00 | EUR | Italian CPI (YoY) (Nov) | 0.7% | 0.8% | 1.7% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) | 0.7% |  | 1.7% |
-| 17:00 | EUR | Italian HICP (YoY) (Nov) | 0.6% | 0.7% | 1.8% |
 | 17:00 | EUR | Italian HICP (MoM) (Nov) | -0.6% | -0.4% | 0.1% |
+| 17:00 | EUR | Italian HICP (YoY) (Nov) | 0.6% | 0.7% | 1.8% |
 | 18:00 | EUR | Italian Trade Balance | 4.699B | 3.450B | 2.393B |
 | 18:00 | EUR | Italian Trade Balance EU | -0.68B |  | -0.42B |
 | 18:00 | EUR | Labor Cost Index (YoY) (Q3) | 5.30% |  | 4.50% |
@@ -46,6 +46,6 @@
 | 19:30 | INR | Bank Loan Growth | 20.8% |  | 20.6% |
 | 19:30 | INR | Deposit Growth | 13.4% |  | 13.6% |
 | 19:30 | INR | FX Reserves, USD | 606.86B |  | 604.04B |
-| 10 min | CAD | Foreign Securities Purchases by Canadians (Oct) |  |  | 11.60B |
-| 55 min | USD | Capacity Utilization Rate (Nov) |  | 79.1% | 78.9% |
-| 55 min | USD | Manufacturing Production (MoM) (Nov) |  | 0.4% | -0.7% |
+| 21:30 | CAD | Foreign Securities Purchases by Canadians (Oct) | -8.20B |  | 9.60B |
+| 22:15 | USD | Capacity Utilization Rate (Nov) | 78.8% | 79.1% | 78.7% |
+| 22:15 | USD | Manufacturing Production (MoM) (Nov) | 0.3% | 0.4% | -0.8% |

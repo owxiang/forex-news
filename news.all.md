@@ -37,8 +37,8 @@
 | 15:45 | EUR | Low | CPI NSA (YoY) (Nov) | 3.50% |  | 4.00% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Nov) | -0.2% | -0.2% | 0.1% |
 | 15:45 | EUR | Low | French CPI (YoY) | 3.5% | 3.4% | 4.0% |
-| 15:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.2% | -0.3% | 0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) (Nov) | 3.9% | 3.8% | 4.5% |
+| 15:45 | EUR | Moderate | French HICP (MoM) (Nov) | -0.2% | -0.3% | 0.2% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Nov) | 3.30% |  | 3.90% |
 | 16:15 | INR | Low | Exports (USD) (Nov) | 33.90B |  | 33.57B |
 | 16:15 | INR | Low | Imports (USD) (Nov) | 54.48B |  | 65.03B |
@@ -52,8 +52,8 @@
 | 17:00 | EUR | Low | Italian CPI (MoM) (Nov) | -0.5% | -0.4% | -0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Nov) | 0.7% | 0.8% | 1.7% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) | 0.7% |  | 1.7% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Nov) | 0.6% | 0.7% | 1.8% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Nov) | -0.6% | -0.4% | 0.1% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Nov) | 0.6% | 0.7% | 1.8% |
 | 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 44.2 | 44.6 | 44.2 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Dec) | 47.0 | 48.0 | 47.6 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Dec) | 48.1 | 49.0 | 48.7 |
@@ -73,14 +73,14 @@
 | 19:30 | INR | Low | Deposit Growth | 13.4% |  | 13.6% |
 | 19:30 | INR | Low | FX Reserves, USD | 606.86B |  | 604.04B |
 | 21:15 | CAD | Moderate | Housing Starts (Nov) | 212.6K | 257.1K | 272.3K |
-| 10 min | USD | Moderate | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
-| 10 min | CAD | Moderate | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
-| 10 min | CAD | Low | Foreign Securities Purchases by Canadians (Oct) |  |  | 11.60B |
-| 10 min | CAD | Moderate | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
-| 55 min | USD | Low | Capacity Utilization Rate (Nov) |  | 79.1% | 78.9% |
-| 55 min | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | -0.68% |
-| 55 min | USD | Moderate | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
-| 55 min | USD | Low | Manufacturing Production (MoM) (Nov) |  | 0.4% | -0.7% |
-| 22:45 | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
-| 22:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 50.7 |
-| 22:45 | USD | High | S&P Global Services PMI (Dec) |  | 50.6 | 50.8 |
+| 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Dec) | -14.50 | 2.00 | 9.10 |
+| 21:30 | CAD | Moderate | Foreign Securities Purchases (Oct) | -15.75B | -3.98B | -15.06B |
+| 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Oct) | -8.20B |  | 9.60B |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Oct) | -0.5% | 0.5% | -0.6% |
+| 22:15 | USD | Low | Capacity Utilization Rate (Nov) | 78.8% | 79.1% | 78.7% |
+| 22:15 | USD | Moderate | Industrial Production (MoM) (Nov) | 0.2% | 0.3% | -0.9% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Nov) |  |  | -0.68% |
+| 22:15 | USD | Low | Manufacturing Production (MoM) (Nov) | 0.3% | 0.4% | -0.8% |
+| 30 min | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
+| 30 min | USD | Moderate | S&P Global Composite PMI (Dec) |  |  | 50.7 |
+| 30 min | USD | High | S&P Global Services PMI (Dec) |  | 50.6 | 50.8 |

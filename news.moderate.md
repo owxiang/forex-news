@@ -29,9 +29,9 @@
 | 18:00 | EUR | Wages in euro zone (YoY) (Q3) | 5.30% |  | 4.60% |
 | 18:00 | EUR | Trade Balance (Oct) | 11.1B |  | 9.8B |
 | 21:15 | CAD | Housing Starts (Nov) | 212.6K | 257.1K | 272.3K |
-| 10 min | USD | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
-| 10 min | CAD | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
-| 10 min | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
-| 55 min | USD | Industrial Production (YoY) (Nov) |  |  | -0.68% |
-| 55 min | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
-| 22:45 | USD | S&P Global Composite PMI (Dec) |  |  | 50.7 |
+| 21:30 | USD | NY Empire State Manufacturing Index (Dec) | -14.50 | 2.00 | 9.10 |
+| 21:30 | CAD | Foreign Securities Purchases (Oct) | -15.75B | -3.98B | -15.06B |
+| 21:30 | CAD | Wholesale Sales (MoM) (Oct) | -0.5% | 0.5% | -0.6% |
+| 22:15 | USD | Industrial Production (MoM) (Nov) | 0.2% | 0.3% | -0.9% |
+| 22:15 | USD | Industrial Production (YoY) (Nov) |  |  | -0.68% |
+| 30 min | USD | S&P Global Composite PMI (Dec) |  |  | 50.7 |
