@@ -30,13 +30,13 @@
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 10:00 | IDR | Low | Export Growth (YoY) (Nov) | -8.56% | -9.36% | -10.43% |
 | 10:00 | IDR | Low | Import Growth (YoY) (Nov) | 3.29% | 0.20% | -2.42% |
-| 10:00 | IDR | Low | Trade Balance (Nov) | 2.41B | 3.05B | 3.48B |
-| 12:30 | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 2.10 |
+| 10:00 | IDR | Low | Trade Balance (Nov) | 2.41B | 3.05B | 3.47B |
+| 10 min | JPY | Low | Tertiary Industry Activity Index (Oct) |  |  | 2.10 |
 | 15:00 | EUR | Low | German WPI (YoY) (Nov) |  |  | -4.2% |
 | 15:00 | EUR | Low | German WPI (MoM) (Nov) |  |  | -0.7% |
 | 15:00 | NOK | Low | Trade Balance (Nov) |  |  | 86.9B |
-| 15:45 | EUR | Low | CPI NSA (MoM) (Nov) |  |  | 0.10% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Nov) |  |  | 4.00% |
+| 15:45 | EUR | Low | CPI NSA (MoM) (Nov) |  |  | 0.10% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Nov) |  | -0.2% | 0.1% |
 | 15:45 | EUR | Low | French CPI (YoY) |  | 3.4% | 4.0% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Nov) |  | -0.3% | 0.2% |
@@ -48,8 +48,8 @@
 | 16:30 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 48.2 | 47.8 |
 | 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.2 | 42.6 |
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 49.8 | 49.6 |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Nov) |  |  | -0.4% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
