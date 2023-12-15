@@ -35,8 +35,8 @@
 | 17:00 | EUR | Italian CPI (YoY) (Nov) |  | 0.8% | 1.7% |
 | 17:00 | EUR | Italian CPI (MoM) (Nov) |  |  | -0.4% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Nov) |  |  | 1.7% |
-| 17:00 | EUR | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
 | 17:00 | EUR | Italian HICP (MoM) (Nov) |  | -0.4% | 0.1% |
+| 17:00 | EUR | Italian HICP (YoY) (Nov) |  | 0.7% | 1.8% |
 | 18:00 | EUR | Italian Trade Balance |  | 3.450B | 2.350B |
 | 18:00 | EUR | Italian Trade Balance EU |  |  | -0.47B |
 | 18:00 | EUR | Labor Cost Index (YoY) (Q3) |  |  | 4.50% |
