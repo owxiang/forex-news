@@ -2,9 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 25 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 45 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 503 |
-| 45 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 626 |
+| 01:40 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 501 |  | 503 |
+| 02:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 623 |  | 626 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 11.7K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.7K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -2.0K |

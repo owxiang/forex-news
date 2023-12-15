@@ -2,9 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 45 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 503 |
-| 45 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 626 |
+| 01:40 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count | 501 |  | 503 |
+| 02:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count | 623 |  | 626 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 11.7K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 169.0K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 203.5K |
