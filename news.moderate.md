@@ -32,7 +32,7 @@
 | 21:30 | USD | NY Empire State Manufacturing Index (Dec) |  | 2.00 | 9.10 |
 | 21:30 | CAD | Foreign Securities Purchases (Oct) |  | -3.98B | -15.09B |
 | 21:30 | CAD | Wholesale Sales (MoM) (Oct) |  | 0.5% | 0.4% |
-| 22:15 | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
 | 22:15 | USD | Industrial Production (YoY) (Nov) |  |  | -0.68% |
+| 22:15 | USD | Industrial Production (MoM) (Nov) |  | 0.3% | -0.6% |
 | 22:45 | USD | S&P Global US Manufacturing PMI (Dec) |  | 49.3 | 49.4 |
 | 22:45 | USD | S&P Global Composite PMI (Dec) |  |  | 50.7 |
