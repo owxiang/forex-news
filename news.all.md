@@ -1,28 +1,26 @@
-## 16 December 2023 - All Forex News
+## 18 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:40 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 501 |  | 503 |
-| 02:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 623 |  | 626 |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | 21.6K |  | 11.7K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 5.7K |  | 5.7K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -4.0K |  | -2.0K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -101.2K |  | -110.4K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 151.6K |  | 169.0K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 188.2K |  | 203.5K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 8.1K |  | 8.4K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -111.6K |  | -111.1K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -65.1K |  | -47.3K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 28.5K |  | 36.3K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | 17.5K |  | 20.3K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -40.0K |  | -67.1K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -55.2K |  | -57.8K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 74.1K |  | 73.5K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -14.5K |  | -17.9K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -52.3K |  | -57.7K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 46.7K |  | 50.2K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -81.1K |  | -105.0K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | -13.5K |  | -16.4K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 147.3K |  | 152.4K |
+| 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 80.2 |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) |  | 0.20% | 3.40% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
+| 08:30 | SGD | Low | Trade Balance |  |  | 6.524B |
+| 10:00 | NZD | Low | RBNZ Offshore Holdings (Nov) |  |  | 57.90% |
+| Tentative | CNY | Low | FDI |  |  | -9.40% |
+| 17:00 | EUR | Moderate | German Business Expectations (Dec) |  | 85.8 | 85.2 |
+| 17:00 | EUR | Moderate | German Current Assessment (Dec) |  | 89.5 | 89.4 |
+| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Dec) |  | 87.8 | 87.3 |
+| 17:00 | EUR | Low | Spanish Trade Balance |  |  | -3.80B |
+| 18:30 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
+| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 4.80% |
+| 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.30% |
+| 20:00 | MXN | Low | Private Spending (QoQ) (Q3) |  |  | 1.00% |
+| 20:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | 4.30% |
+| 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  |  | 0.0% |
+| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.423% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.778% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
+| 23:00 | USD | Low | NAHB Housing Market Index (Dec) |  |  | 34 |
