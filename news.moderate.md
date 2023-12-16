@@ -8,3 +8,4 @@
 | 17:00 | EUR | German Ifo Business Climate Index (Dec) |  | 87.8 | 87.3 |
 | 18:30 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
 | 21:30 | CAD | New Housing Price Index (MoM) (Nov) |  |  | 0.0% |
+| 21:30 | EUR | ECB's Schnabel Speaks |  |  |  |
