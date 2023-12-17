@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | NZD | Performance of Services Index |  |  | 48.9 |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Nov) |  | 0.20% | 3.40% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
 | 08:30 | SGD | Trade Balance |  |  | 6.524B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Nov) |  |  | 57.90% |
 | Tentative | CNY | FDI |  |  | -9.40% |

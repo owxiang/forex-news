@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 80.2 |
 | 05:30 | NZD | Low | Performance of Services Index |  |  | 48.9 |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) |  | 0.20% | 3.40% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
 | 08:30 | SGD | Low | Trade Balance |  |  | 6.524B |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Nov) |  |  | 57.90% |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
