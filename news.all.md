@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) |  |  | 80.2 |
+| 44 min | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 88.9 |  | 80.2 |
 | 05:30 | NZD | Low | Performance of Services Index |  |  | 48.9 |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) |  | 0.20% | 3.40% |

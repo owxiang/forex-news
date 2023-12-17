@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | NZD | Westpac Consumer Sentiment (Q4) |  |  | 80.2 |
+| 44 min | NZD | Westpac Consumer Sentiment (Q4) | 88.9 |  | 80.2 |
 | 17:00 | EUR | German Business Expectations (Dec) |  | 85.8 | 85.2 |
 | 17:00 | EUR | German Current Assessment (Dec) |  | 89.5 | 89.4 |
 | 17:00 | EUR | German Ifo Business Climate Index (Dec) |  | 87.8 | 87.3 |
