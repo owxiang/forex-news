@@ -11,8 +11,8 @@
 | 17:00 | EUR | Spanish Trade Balance |  |  | -3.80B |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 4.80% |
 | 20:00 | MXN | Aggregate Demand (QoQ) (Q3) |  |  | 1.30% |
+| 20:00 | MXN | Aggregate Demand (YoY) (Q3) |  |  | 4.80% |
 | 20:00 | MXN | Private Spending (YoY) (Q3) |  |  | 4.30% |
 | 20:00 | MXN | Private Spending (QoQ) (Q3) |  |  | 1.00% |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.423% |

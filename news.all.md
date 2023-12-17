@@ -16,8 +16,8 @@
 | 18:30 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 4.80% |
 | 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.30% |
+| 20:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 4.80% |
 | 20:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | 4.30% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q3) |  |  | 1.00% |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | 0.0% |
