@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | NZD | Moderate | Westpac Consumer Sentiment (Q4) | 88.9 |  | 80.2 |
-| 17 min | NZD | Low | Performance of Services Index |  |  | 48.9 |
+| 05:30 | NZD | Low | Performance of Services Index | 51.2 |  | 49.2 |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Nov) |  | 2.30% | -3.40% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Nov) |  | 0.20% | 3.40% |
 | 08:30 | SGD | Low | Trade Balance |  |  | 6.524B |
@@ -18,8 +18,8 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) |  |  | 1.30% |
 | 20:00 | MXN | Low | Aggregate Demand (YoY) (Q3) |  |  | 4.80% |
-| 20:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | 4.30% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q3) |  |  | 1.00% |
+| 20:00 | MXN | Low | Private Spending (YoY) (Q3) |  |  | 4.30% |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | 0.0% |
 | 21:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.423% |
