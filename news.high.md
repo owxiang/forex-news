@@ -1,3 +1,6 @@
-## 18 December 2023 - High Impact Forex News
+## 19 December 2023 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 18:00 | EUR | CPI (YoY) (Nov) |  | 2.4% | 2.9% |
+| 21:30 | USD | Building Permits (Nov) |  | 1.470M | 1.498M |

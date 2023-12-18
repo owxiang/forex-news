@@ -1,20 +1,36 @@
-## 18 December 2023 - Low Impact Forex News
+## 19 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | NZD | Performance of Services Index | 51.2 |  | 49.2 |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Nov) | 1.00% | 2.30% | -3.50% |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Nov) | 0.30% | 0.20% | 5.70% |
-| 09:30 | SGD | Trade Balance | 6.270B |  | 6.506B |
-| 10:00 | NZD | RBNZ Offshore Holdings (Nov) | 56.80% |  | 57.90% |
-| 17:00 | EUR | Spanish Trade Balance | -5.10B |  | -3.80B |
-| 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Aggregate Demand (YoY) (Q3) | 2.70% |  | 4.80% |
-| 20:00 | MXN | Aggregate Demand (QoQ) (Q3) | 0.00% |  | 0.90% |
-| 20:00 | MXN | Private Spending (YoY) (Q3) | 4.30% |  | 3.70% |
-| 20:00 | MXN | Private Spending (QoQ) (Q3) | 1.20% |  | 0.70% |
-| 21:55 | EUR | French 12-Month BTF Auction | 3.333% |  | 3.423% |
-| 21:55 | EUR | French 3-Month BTF Auction | 3.729% |  | 3.778% |
-| 21:55 | EUR | French 6-Month BTF Auction | 3.690% |  | 3.739% |
-| 23:00 | USD | NAHB Housing Market Index (Dec) | 37 | 36 | 34 |
+| 9 min | USD | 3-Month Bill Auction |  |  | 5.260% |
+| 9 min | USD | 6-Month Bill Auction |  |  | 5.190% |
+| 05:45 | NZD | Exports (Nov) |  |  | 5.40B |
+| 05:45 | NZD | Imports (Nov) |  |  | 7.11B |
+| 05:45 | NZD | Trade Balance (YoY) (Nov) |  |  | -14,810M |
+| 05:45 | NZD | Trade Balance (MoM) (Nov) |  | -1,200M | -1,709M |
+| 08:00 | NZD | ANZ Business Confidence (Dec) |  |  | 30.8 |
+| 08:00 | NZD | NBNZ Own Activity (Dec) |  |  | 26.3% |
+| Tentative | CNY | FDI |  |  | -9.40% |
+| 15:00 | CHF | Trade Balance (Nov) |  | 3.500B | 4.600B |
+| 15:00 | ZAR | Leading Indicators (Oct) |  |  | 111.60% |
+| 16:30 | HKD | Unemployment Rate (Nov) |  |  | 2.9% |
+| 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.091% |
+| 18:00 | EUR | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Nov) |  |  | 0.1% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 2.8% |
+| 18:00 | EUR | CPI, n.s.a |  | 123.86 | 124.54 |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Nov) |  | 4.2% | 5.0% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
+| 19:00 | GBP | CBI Industrial Trends Orders (Dec) |  |  | -35 |
+| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 20:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 20:00 | USD | Milk Auctions |  |  | 3,323.0 |
+| 21:00 | GBP | BoE Breeden Speaks |  |  |  |
+| 21:30 | CAD | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
+| 21:30 | CAD | CPI (YoY) (Nov) |  | 2.9% | 3.1% |
+| 21:30 | CAD | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
+| 21:30 | CAD | IPPI (YoY) (Nov) |  |  | -2.7% |
+| 21:30 | CAD | Median CPI (YoY) (Nov) |  | 3.3% | 3.6% |
+| 21:30 | CAD | RMPI (YoY) (Nov) |  |  | -0.8% |
+| 21:30 | CAD | Trimmed CPI (YoY) (Nov) |  | 3.3% | 3.5% |
+| 21:55 | USD | Redbook (YoY) |  |  | 3.4% |
