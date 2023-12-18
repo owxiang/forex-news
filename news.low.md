@@ -12,9 +12,9 @@
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Aggregate Demand (QoQ) (Q3) | 0.00% |  | 1.30% |
 | 20:00 | MXN | Aggregate Demand (YoY) (Q3) | 2.70% |  | 4.80% |
-| 20:00 | MXN | Private Spending (YoY) (Q3) | 4.30% |  | 3.70% |
 | 20:00 | MXN | Private Spending (QoQ) (Q3) | 1.20% |  | 1.00% |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.423% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.778% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.739% |
+| 20:00 | MXN | Private Spending (YoY) (Q3) | 4.30% |  | 3.70% |
+| 35 min | EUR | French 12-Month BTF Auction |  |  | 3.423% |
+| 35 min | EUR | French 3-Month BTF Auction |  |  | 3.778% |
+| 35 min | EUR | French 6-Month BTF Auction |  |  | 3.739% |
 | 23:00 | USD | NAHB Housing Market Index (Dec) |  | 36 | 34 |

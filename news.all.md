@@ -17,12 +17,12 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Aggregate Demand (QoQ) (Q3) | 0.00% |  | 1.30% |
 | 20:00 | MXN | Low | Aggregate Demand (YoY) (Q3) | 2.70% |  | 4.80% |
-| 20:00 | MXN | Low | Private Spending (YoY) (Q3) | 4.30% |  | 3.70% |
 | 20:00 | MXN | Low | Private Spending (QoQ) (Q3) | 1.20% |  | 1.00% |
-| 58 min | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | 0.0% |
-| 58 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.423% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.778% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
+| 20:00 | MXN | Low | Private Spending (YoY) (Q3) | 4.30% |  | 3.70% |
+| 10 min | CAD | Moderate | New Housing Price Index (MoM) (Nov) |  | 0.1% | 0.0% |
+| 10 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.423% |
+| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.778% |
+| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
 | 23:00 | USD | Low | NAHB Housing Market Index (Dec) |  | 36 | 34 |
 | 23:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
