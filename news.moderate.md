@@ -9,4 +9,4 @@
 | 18:30 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
 | 21:30 | CAD | New Housing Price Index (MoM) (Nov) | -0.2% | 0.1% | 0.0% |
 | 21:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 45 min | EUR | ECB's Lane Speaks |  |  |  |
+| 23:00 | EUR | ECB's Lane Speaks |  |  |  |
