@@ -8,8 +8,8 @@
 | 05:45 | NZD | Low | Imports (Nov) | 7.23B |  | 7.10B |
 | 05:45 | NZD | Low | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
-| 08:00 | NZD | Low | ANZ Business Confidence (Dec) |  |  | 30.8 |
-| 08:00 | NZD | Low | NBNZ Own Activity (Dec) |  |  | 26.3% |
+| 44 min | NZD | Low | ANZ Business Confidence (Dec) |  |  | 30.8 |
+| 44 min | NZD | Low | NBNZ Own Activity (Dec) |  |  | 26.3% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
@@ -26,8 +26,8 @@
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Nov) |  | -0.5% | 0.1% |
 | 18:00 | EUR | High | CPI (YoY) (Nov) |  | 2.4% | 2.9% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) |  |  | 0.1% |
+| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI, n.s.a |  | 123.86 | 124.54 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  | 4.2% | 5.0% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
@@ -45,8 +45,8 @@
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.3% |
 | 21:30 | CAD | Low | CPI (YoY) (Nov) |  | 2.9% | 3.1% |
 | 21:30 | CAD | Moderate | CPI (MoM) (Nov) |  | -0.2% | 0.1% |
-| 21:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | -2.7% |
 | 21:30 | CAD | Low | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
+| 21:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | -2.7% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Nov) |  | 3.3% | 3.6% |
 | 21:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | -3.5% | -2.5% |
 | 21:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -0.8% |
