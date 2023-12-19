@@ -32,11 +32,13 @@
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) | -0.5% | -0.4% | 0.2% |
 | 19:00 | GBP | Low | CBI Industrial Trends Orders (Dec) | -23 |  | -35 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index | 2.3% |  | 1.6% |
+| 20:00 | USD | Low | Milk Auctions | 3,388.0 |  | 3,323.0 |
 | 21:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 21:30 | USD | Moderate | Building Permits (MoM) (Nov) | -2.5% |  | 1.8% |
 | 21:30 | USD | High | Building Permits (Nov) | 1.460M | 1.470M | 1.498M |
-| 21:30 | USD | Moderate | Housing Starts (Nov) | 1.560M | 1.360M | 1.359M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) | 14.8% |  | 0.2% |
+| 21:30 | USD | Moderate | Housing Starts (Nov) | 1.560M | 1.360M | 1.359M |
 | 21:30 | CAD | Low | Common CPI (YoY) (Nov) | 3.9% | 4.0% | 4.2% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Nov) | 2.8% |  | 2.7% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) | 0.1% |  | 0.3% |
@@ -45,9 +47,7 @@
 | 21:30 | CAD | Low | IPPI (MoM) (Nov) | -0.4% | -0.8% | -0.9% |
 | 21:30 | CAD | Low | IPPI (YoY) (Nov) | -2.3% |  | -2.6% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Nov) | 3.4% | 3.3% | 3.4% |
-| 21:30 | CAD | Moderate | RMPI (MoM) (Nov) | -4.2% | -3.5% | -2.6% |
 | 21:30 | CAD | Low | RMPI (YoY) (Nov) | -4.6% |  | -0.9% |
+| 21:30 | CAD | Moderate | RMPI (MoM) (Nov) | -4.2% | -3.5% | -2.6% |
 | 21:30 | CAD | Low | Trimmed CPI (YoY) (Nov) | 3.5% | 3.3% | 3.5% |
 | 21:55 | USD | Low | Redbook (YoY) | 3.6% |  | 3.4% |
-| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 46 min | USD | Low | Milk Auctions |  |  | 3,323.0 |

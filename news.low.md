@@ -22,6 +22,8 @@
 | 18:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.5% | -0.4% | 0.2% |
 | 19:00 | GBP | CBI Industrial Trends Orders (Dec) | -23 |  | -35 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 20:00 | NZD | GlobalDairyTrade Price Index | 2.3% |  | 1.6% |
+| 20:00 | USD | Milk Auctions | 3,388.0 |  | 3,323.0 |
 | 21:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 21:30 | CAD | Common CPI (YoY) (Nov) | 3.9% | 4.0% | 4.2% |
 | 21:30 | CAD | CPI (YoY) (Nov) | 3.1% | 2.9% | 3.1% |
@@ -31,5 +33,3 @@
 | 21:30 | CAD | RMPI (YoY) (Nov) | -4.6% |  | -0.9% |
 | 21:30 | CAD | Trimmed CPI (YoY) (Nov) | 3.5% | 3.3% | 3.5% |
 | 21:55 | USD | Redbook (YoY) | 3.6% |  | 3.4% |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 46 min | USD | Milk Auctions |  |  | 3,323.0 |
