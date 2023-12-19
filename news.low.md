@@ -28,8 +28,8 @@
 | 21:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 21:30 | CAD | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
 | 21:30 | CAD | CPI (YoY) (Nov) |  | 2.9% | 3.1% |
-| 21:30 | CAD | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
 | 21:30 | CAD | IPPI (YoY) (Nov) |  |  | -2.7% |
+| 21:30 | CAD | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
 | 21:30 | CAD | Median CPI (YoY) (Nov) |  | 3.3% | 3.6% |
 | 21:30 | CAD | RMPI (YoY) (Nov) |  |  | -0.8% |
 | 21:30 | CAD | Trimmed CPI (YoY) (Nov) |  | 3.3% | 3.5% |
