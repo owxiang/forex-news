@@ -5,9 +5,9 @@
 | 00:15 | USD | Atlanta Fed GDPNow (Q4) | 2.7% | 2.6% | 2.6% |
 | 05:00 | USD | TIC Net Long-Term Transactions (Oct) | 3.3B | 45.8B | 0.9B |
 | 05:30 | USD | API Weekly Crude Oil Stock | 0.939M | -2.233M | -2.349M |
-| 07:50 | JPY | Adjusted Trade Balance |  | -0.72T | -0.46T |
-| 07:50 | JPY | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
-| 07:50 | JPY | Trade Balance (Nov) |  | -962.4B | -661.0B |
+| 38 min | JPY | Adjusted Trade Balance |  | -0.72T | -0.46T |
+| 38 min | JPY | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
+| 38 min | JPY | Trade Balance (Nov) |  | -962.4B | -661.0B |
 | 09:15 | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
 | 15:00 | GBP | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 15:00 | GBP | PPI Input (MoM) (Nov) |  | -0.6% | 0.4% |

@@ -8,41 +8,41 @@
 | 05:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) | 3.3B | 45.8B | 0.9B |
 | 05:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) | 3.30B |  | 0.90B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.939M | -2.233M | -2.349M |
-| 07:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.46T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
-| 07:50 | JPY | Low | Imports (YoY) (Nov) |  | -8.6% | -12.5% |
-| 07:50 | JPY | Moderate | Trade Balance (Nov) |  | -962.4B | -661.0B |
-| 08:00 | AUD | Low | MI Leading Index (MoM) (Nov) |  |  | 0.0% |
-| 08:00 | NZD | Low | Budget Balance (Jul) |  |  | -22.430B |
-| 08:00 | NZD | Low | Net Debt Forecast (Jul) |  |  | 38.50% |
-| 08:00 | NZD | Low | Economic Forecast (Jul) |  |  | -10.034B |
+| 18 min | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
+| 38 min | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.46T |
+| 38 min | JPY | Moderate | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
+| 38 min | JPY | Low | Imports (YoY) (Nov) |  | -8.6% | -12.5% |
+| 38 min | JPY | Moderate | Trade Balance (Nov) |  | -962.4B | -661.0B |
+| 48 min | AUD | Low | MI Leading Index (MoM) (Nov) |  |  | 0.0% |
+| 48 min | NZD | Low | Budget Balance (Jul) |  |  | -22.430B |
+| 48 min | NZD | Low | Net Debt Forecast (Jul) |  |  | 38.50% |
+| 48 min | NZD | Low | Economic Forecast (Jul) |  |  | -10.034B |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Dec) |  | 4.20% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
 | 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -43.7% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | 14.3% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -43.7% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Nov) |  | 5.5% | 5.7% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Nov) |  |  | -0.3% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Nov) |  |  | 4.8% |
-| 15:00 | GBP | High | CPI (YoY) (Nov) |  | 4.3% | 4.6% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
+| 15:00 | GBP | High | CPI (YoY) (Nov) |  | 4.3% | 4.6% |
 | 15:00 | GBP | Low | CPI, n.s.a (Nov) |  |  | 132.00 |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Nov) |  | -0.6% | 0.4% |
 | 15:00 | GBP | Low | PPI Input (YoY) (Nov) |  |  | -2.6% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Nov) |  | -0.1% | 0.1% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Nov) |  |  | -0.6% |
+| 15:00 | GBP | Low | PPI Output (MoM) (Nov) |  | -0.1% | 0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
 | 15:00 | GBP | Low | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 4.9% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Nov) |  |  | -2.5% |
-| 15:00 | EUR | Low | German PPI (YoY) (Nov) |  |  | -11.0% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 4.9% |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Nov) |  | -0.2% | -0.1% |
+| 15:00 | EUR | Low | German PPI (YoY) (Nov) |  |  | -11.0% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -27.0 | -27.8 |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 21.9% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Nov) |  |  | -2.5% |
