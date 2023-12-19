@@ -17,29 +17,28 @@
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | CHF | Low | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
 | 15:00 | ZAR | Low | Leading Indicators (Oct) | 112.00% |  | 111.60% |
-| 10 min | HKD | Low | Unemployment Rate (Nov) |  |  | 2.9% |
-| Tentative | CNY | Low | FDI |  |  | -9.40% |
-| 40 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 40 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
-| 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.091% |
-| 18:00 | EUR | Low | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Nov) |  | -0.5% | 0.1% |
-| 18:00 | EUR | High | CPI (YoY) (Nov) |  | 2.4% | 2.9% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 2.8% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) |  |  | 0.1% |
-| 18:00 | EUR | Low | CPI, n.s.a |  | 123.86 | 124.54 |
-| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  | 4.2% | 5.0% |
-| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
+| 16:30 | HKD | Low | Unemployment Rate (Nov) | 2.9% |  | 2.9% |
+| 17:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 17:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 44 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.091% |
+| 44 min | EUR | Low | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
+| 44 min | EUR | Moderate | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
+| 44 min | EUR | Moderate | CPI (MoM) (Nov) |  | -0.5% | 0.1% |
+| 44 min | EUR | High | CPI (YoY) (Nov) |  | 2.4% | 2.9% |
+| 44 min | EUR | Low | CPI ex Tobacco (YoY) (Nov) |  |  | 2.8% |
+| 44 min | EUR | Low | CPI ex Tobacco (MoM) (Nov) |  |  | 0.1% |
+| 44 min | EUR | Low | CPI, n.s.a |  | 123.86 | 124.54 |
+| 44 min | EUR | Low | HICP ex Energy & Food (YoY) (Nov) |  | 4.2% | 5.0% |
+| 44 min | EUR | Low | HICP ex Energy and Food (MoM) (Nov) |  | -0.4% | 0.2% |
 | 19:00 | GBP | Low | CBI Industrial Trends Orders (Dec) |  |  | -35 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,323.0 |
 | 21:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 21:30 | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
 | 21:30 | USD | Moderate | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
+| 21:30 | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
 | 21:30 | USD | Moderate | Housing Starts (Nov) |  | 1.360M | 1.372M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
 | 21:30 | CAD | Low | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.7% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.3% |

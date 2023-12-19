@@ -7,13 +7,13 @@
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 10:49 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
-| 40 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 40 min | EUR | ECB's Enria Speaks |  |  |  |
-| 18:00 | EUR | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
-| 18:00 | EUR | CPI (MoM) (Nov) |  | -0.5% | 0.1% |
+| 17:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 17:00 | EUR | ECB's Enria Speaks |  |  |  |
+| 44 min | EUR | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
+| 44 min | EUR | CPI (MoM) (Nov) |  | -0.5% | 0.1% |
 | 21:30 | USD | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 21:30 | USD | Housing Starts (MoM) (Nov) |  |  | 1.9% |
 | 21:30 | USD | Housing Starts (Nov) |  | 1.360M | 1.372M |
+| 21:30 | USD | Housing Starts (MoM) (Nov) |  |  | 1.9% |
 | 21:30 | CAD | Core CPI (YoY) (Nov) |  |  | 2.7% |
 | 21:30 | CAD | Core CPI (MoM) (Nov) |  |  | 0.3% |
 | 21:30 | CAD | CPI (MoM) (Nov) |  | -0.2% | 0.1% |
