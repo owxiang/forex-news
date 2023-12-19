@@ -11,10 +11,10 @@
 | 17:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 18:00 | EUR | Core CPI (YoY) (Nov) | 3.6% | 3.6% | 4.2% |
 | 18:00 | EUR | CPI (MoM) (Nov) | -0.6% | -0.5% | 0.1% |
-| 59 min | USD | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 59 min | USD | Housing Starts (MoM) (Nov) |  |  | 1.9% |
-| 59 min | USD | Housing Starts (Nov) |  | 1.360M | 1.372M |
-| 59 min | CAD | Core CPI (YoY) (Nov) |  |  | 2.7% |
-| 59 min | CAD | Core CPI (MoM) (Nov) |  |  | 0.3% |
-| 59 min | CAD | CPI (MoM) (Nov) |  | -0.2% | 0.1% |
-| 59 min | CAD | RMPI (MoM) (Nov) |  | -3.5% | -2.5% |
+| 11 min | USD | Building Permits (MoM) (Nov) |  |  | 1.8% |
+| 11 min | USD | Housing Starts (MoM) (Nov) |  |  | 1.9% |
+| 11 min | USD | Housing Starts (Nov) |  | 1.360M | 1.372M |
+| 11 min | CAD | Core CPI (YoY) (Nov) |  |  | 2.7% |
+| 11 min | CAD | Core CPI (MoM) (Nov) |  |  | 0.3% |
+| 11 min | CAD | CPI (MoM) (Nov) |  | -0.2% | 0.1% |
+| 11 min | CAD | RMPI (MoM) (Nov) |  | -3.5% | -2.5% |
