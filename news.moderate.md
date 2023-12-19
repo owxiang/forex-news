@@ -6,7 +6,7 @@
 | 09:00 | KRW | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 10:49 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 14:30 | JPY | BoJ Press Conference |  |  |  |
+| 9 min | JPY | BoJ Press Conference |  |  |  |
 | 17:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 17:00 | EUR | ECB's Enria Speaks |  |  |  |
 | 18:00 | EUR | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
