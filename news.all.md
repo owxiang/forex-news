@@ -6,15 +6,15 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.130% |  | 5.190% |
 | 05:45 | NZD | Low | Exports (Nov) | 5.99B |  | 5.37B |
 | 05:45 | NZD | Low | Imports (Nov) | 7.23B |  | 7.10B |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
 | 05:45 | NZD | Low | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
+| 05:45 | NZD | Low | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
 | 08:00 | NZD | Low | ANZ Business Confidence (Dec) | 33.2 |  | 30.8 |
 | 08:00 | NZD | Low | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
-| 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 2 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
-| 11:00 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 32 min | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | CHF | Low | Trade Balance (Nov) |  | 3.500B | 4.600B |
 | 15:00 | ZAR | Low | Leading Indicators (Oct) |  |  | 111.60% |
@@ -36,10 +36,10 @@
 | 20:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
 | 20:00 | USD | Low | Milk Auctions |  |  | 3,323.0 |
 | 21:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 21:30 | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
 | 21:30 | USD | Moderate | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
+| 21:30 | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
 | 21:30 | USD | Moderate | Housing Starts (Nov) |  | 1.360M | 1.372M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
 | 21:30 | CAD | Low | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.7% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.3% |
@@ -48,7 +48,7 @@
 | 21:30 | CAD | Low | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
 | 21:30 | CAD | Low | IPPI (YoY) (Nov) |  |  | -2.7% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Nov) |  | 3.3% | 3.6% |
-| 21:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -0.8% |
 | 21:30 | CAD | Moderate | RMPI (MoM) (Nov) |  | -3.5% | -2.5% |
+| 21:30 | CAD | Low | RMPI (YoY) (Nov) |  |  | -0.8% |
 | 21:30 | CAD | Low | Trimmed CPI (YoY) (Nov) |  | 3.3% | 3.5% |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |

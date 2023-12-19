@@ -6,8 +6,8 @@
 | 00:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.190% |
 | 05:45 | NZD | Exports (Nov) | 5.99B |  | 5.37B |
 | 05:45 | NZD | Imports (Nov) | 7.23B |  | 7.10B |
-| 05:45 | NZD | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
 | 05:45 | NZD | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
+| 05:45 | NZD | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
 | 08:00 | NZD | ANZ Business Confidence (Dec) | 33.2 |  | 30.8 |
 | 08:00 | NZD | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
 | Tentative | CNY | FDI |  |  | -9.40% |
