@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | EUR | CPI (YoY) (Nov) |  | 2.4% | 2.9% |
+| 18:00 | EUR | CPI (YoY) (Nov) | 2.4% | 2.4% | 2.9% |
 | 21:30 | USD | Building Permits (Nov) |  | 1.470M | 1.498M |
