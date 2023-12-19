@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | USD | US Foreign Buying, T-bonds (Oct) |  |  | -17.50B |
-| 05:00 | USD | Overall Net Capital Flow (Oct) |  |  | -67.40B |
-| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | -1.70B |
+| 46 min | USD | US Foreign Buying, T-bonds (Oct) |  |  | -17.50B |
+| 46 min | USD | Overall Net Capital Flow (Oct) |  |  | -67.40B |
+| 46 min | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | -1.70B |
 | 07:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
 | 07:50 | JPY | Imports (YoY) (Nov) |  | -8.6% | -12.5% |
 | 08:00 | AUD | MI Leading Index (MoM) (Nov) |  |  | 0.0% |

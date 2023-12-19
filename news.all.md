@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:15 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% | 2.6% | 2.6% |
-| 05:00 | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | -17.50B |
-| 05:00 | USD | Low | Overall Net Capital Flow (Oct) |  |  | -67.40B |
-| 05:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  | 45.8B | -1.7B |
-| 05:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | -1.70B |
+| 46 min | USD | Low | US Foreign Buying, T-bonds (Oct) |  |  | -17.50B |
+| 46 min | USD | Low | Overall Net Capital Flow (Oct) |  |  | -67.40B |
+| 46 min | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  | 45.8B | -1.7B |
+| 46 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | -1.70B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.233M | -2.349M |
 | 07:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.46T |
