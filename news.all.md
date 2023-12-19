@@ -7,7 +7,7 @@
 | 05:00 | USD | Low | Overall Net Capital Flow (Oct) |  |  | -67.40B |
 | 05:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) |  | 45.8B | -1.7B |
 | 05:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | -1.70B |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.349M |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.233M | -2.349M |
 | 07:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.46T |
 | 07:50 | JPY | Moderate | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
@@ -28,8 +28,8 @@
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Nov) |  |  | 4.8% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Nov) |  |  | -0.3% |
-| 15:00 | GBP | Moderate | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 15:00 | GBP | High | CPI (YoY) (Nov) |  | 4.3% | 4.6% |
+| 15:00 | GBP | Moderate | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 15:00 | GBP | Low | CPI, n.s.a (Nov) |  |  | 132.00 |
 | 15:00 | GBP | Low | PPI Input (YoY) (Nov) |  |  | -2.6% |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Nov) |  | -0.6% | 0.4% |
@@ -39,10 +39,10 @@
 | 15:00 | GBP | Low | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Nov) |  |  | -2.5% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 4.9% |
-| 15:00 | EUR | Moderate | German PPI (MoM) (Nov) |  | -0.2% | -0.1% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Nov) |  |  | -2.5% |
 | 15:00 | EUR | Low | German PPI (YoY) (Nov) |  |  | -11.0% |
+| 15:00 | EUR | Moderate | German PPI (MoM) (Nov) |  | -0.2% | -0.1% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Jan) |  | -27.0 | -27.8 |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Nov) |  |  | -2.5% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Nov) |  |  | 21.9% |
@@ -57,8 +57,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 149.6 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 194.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 445.8 |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Oct) |  |  | -0.2% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Oct) |  |  | 2.3% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Oct) |  |  | -0.2% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Oct) |  | 0.10% | -0.06% |
 | 21:30 | USD | Moderate | Current Account (Q3) |  | -197.0B | -212.1B |
 | 22:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
