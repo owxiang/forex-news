@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:15 | USD | Atlanta Fed GDPNow (Q4) | 2.7% | 2.6% | 2.6% |
 | 05:00 | USD | TIC Net Long-Term Transactions (Oct) | 3.3B | 45.8B | 0.9B |
-| 18 min | USD | API Weekly Crude Oil Stock |  | -2.233M | -2.349M |
+| 05:30 | USD | API Weekly Crude Oil Stock | 0.939M | -2.233M | -2.349M |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.72T | -0.46T |
 | 07:50 | JPY | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
 | 07:50 | JPY | Trade Balance (Nov) |  | -962.4B | -661.0B |
