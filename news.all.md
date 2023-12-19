@@ -6,8 +6,8 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.130% |  | 5.190% |
 | 05:45 | NZD | Low | Exports (Nov) | 5.99B |  | 5.37B |
 | 05:45 | NZD | Low | Imports (Nov) | 7.23B |  | 7.10B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
 | 08:00 | NZD | Low | ANZ Business Confidence (Dec) | 33.2 |  | 30.8 |
 | 08:00 | NZD | Low | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
@@ -23,8 +23,8 @@
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction | 3.739% |  | 4.091% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Nov) | -0.6% | -0.6% | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Nov) | 3.6% | 3.6% | 4.2% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.6% | -0.5% | 0.1% |
 | 18:00 | EUR | High | CPI (YoY) (Nov) | 2.4% | 2.4% | 2.9% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Nov) | -0.6% | -0.5% | 0.1% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Nov) | -0.6% |  | 0.1% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Nov) | 2.3% |  | 2.8% |
 | 18:00 | EUR | Low | CPI, n.s.a | 123.85 | 123.86 | 124.54 |
@@ -33,21 +33,21 @@
 | 19:00 | GBP | Low | CBI Industrial Trends Orders (Dec) | -23 |  | -35 |
 | 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 21:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 11 min | USD | Moderate | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 11 min | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
-| 11 min | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
-| 11 min | USD | Moderate | Housing Starts (Nov) |  | 1.360M | 1.372M |
-| 11 min | CAD | Low | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
-| 11 min | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.7% |
-| 11 min | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.3% |
-| 11 min | CAD | Low | CPI (YoY) (Nov) |  | 2.9% | 3.1% |
-| 11 min | CAD | Moderate | CPI (MoM) (Nov) |  | -0.2% | 0.1% |
-| 11 min | CAD | Low | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
-| 11 min | CAD | Low | IPPI (YoY) (Nov) |  |  | -2.7% |
-| 11 min | CAD | Low | Median CPI (YoY) (Nov) |  | 3.3% | 3.6% |
-| 11 min | CAD | Low | RMPI (YoY) (Nov) |  |  | -0.8% |
-| 11 min | CAD | Moderate | RMPI (MoM) (Nov) |  | -3.5% | -2.5% |
-| 11 min | CAD | Low | Trimmed CPI (YoY) (Nov) |  | 3.3% | 3.5% |
-| 36 min | USD | Low | Redbook (YoY) |  |  | 3.4% |
-| 41 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 41 min | USD | Low | Milk Auctions |  |  | 3,323.0 |
+| 21:30 | USD | Moderate | Building Permits (MoM) (Nov) | -2.5% |  | 1.8% |
+| 21:30 | USD | High | Building Permits (Nov) | 1.460M | 1.470M | 1.498M |
+| 21:30 | USD | Moderate | Housing Starts (Nov) | 1.560M | 1.360M | 1.359M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) | 14.8% |  | 0.2% |
+| 21:30 | CAD | Low | Common CPI (YoY) (Nov) | 3.9% | 4.0% | 4.2% |
+| 21:30 | CAD | Moderate | Core CPI (YoY) (Nov) | 2.8% |  | 2.7% |
+| 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) | 0.1% |  | 0.3% |
+| 21:30 | CAD | Low | CPI (YoY) (Nov) | 3.1% | 2.9% | 3.1% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Nov) | 0.1% | -0.2% | 0.1% |
+| 21:30 | CAD | Low | IPPI (MoM) (Nov) | -0.4% | -0.8% | -0.9% |
+| 21:30 | CAD | Low | IPPI (YoY) (Nov) | -2.3% |  | -2.6% |
+| 21:30 | CAD | Low | Median CPI (YoY) (Nov) | 3.4% | 3.3% | 3.4% |
+| 21:30 | CAD | Moderate | RMPI (MoM) (Nov) | -4.2% | -3.5% | -2.6% |
+| 21:30 | CAD | Low | RMPI (YoY) (Nov) | -4.6% |  | -0.9% |
+| 21:30 | CAD | Low | Trimmed CPI (YoY) (Nov) | 3.5% | 3.3% | 3.5% |
+| 21:55 | USD | Low | Redbook (YoY) | 3.6% |  | 3.4% |
+| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 46 min | USD | Low | Milk Auctions |  |  | 3,323.0 |

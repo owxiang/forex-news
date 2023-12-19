@@ -6,8 +6,8 @@
 | 00:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.190% |
 | 05:45 | NZD | Exports (Nov) | 5.99B |  | 5.37B |
 | 05:45 | NZD | Imports (Nov) | 7.23B |  | 7.10B |
-| 05:45 | NZD | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
 | 05:45 | NZD | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
+| 05:45 | NZD | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
 | 08:00 | NZD | ANZ Business Confidence (Dec) | 33.2 |  | 30.8 |
 | 08:00 | NZD | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
 | 15:00 | CHF | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
@@ -23,13 +23,13 @@
 | 19:00 | GBP | CBI Industrial Trends Orders (Dec) | -23 |  | -35 |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 21:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 11 min | CAD | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
-| 11 min | CAD | CPI (YoY) (Nov) |  | 2.9% | 3.1% |
-| 11 min | CAD | IPPI (MoM) (Nov) |  | -0.8% | -1.0% |
-| 11 min | CAD | IPPI (YoY) (Nov) |  |  | -2.7% |
-| 11 min | CAD | Median CPI (YoY) (Nov) |  | 3.3% | 3.6% |
-| 11 min | CAD | RMPI (YoY) (Nov) |  |  | -0.8% |
-| 11 min | CAD | Trimmed CPI (YoY) (Nov) |  | 3.3% | 3.5% |
-| 36 min | USD | Redbook (YoY) |  |  | 3.4% |
-| 41 min | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
-| 41 min | USD | Milk Auctions |  |  | 3,323.0 |
+| 21:30 | CAD | Common CPI (YoY) (Nov) | 3.9% | 4.0% | 4.2% |
+| 21:30 | CAD | CPI (YoY) (Nov) | 3.1% | 2.9% | 3.1% |
+| 21:30 | CAD | IPPI (MoM) (Nov) | -0.4% | -0.8% | -0.9% |
+| 21:30 | CAD | IPPI (YoY) (Nov) | -2.3% |  | -2.6% |
+| 21:30 | CAD | Median CPI (YoY) (Nov) | 3.4% | 3.3% | 3.4% |
+| 21:30 | CAD | RMPI (YoY) (Nov) | -4.6% |  | -0.9% |
+| 21:30 | CAD | Trimmed CPI (YoY) (Nov) | 3.5% | 3.3% | 3.5% |
+| 21:55 | USD | Redbook (YoY) | 3.6% |  | 3.4% |
+| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 1.6% |
+| 46 min | USD | Milk Auctions |  |  | 3,323.0 |
