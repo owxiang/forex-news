@@ -17,10 +17,10 @@
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | CHF | Low | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
 | 15:00 | ZAR | Low | Leading Indicators (Oct) | 112.00% |  | 111.60% |
+| 10 min | HKD | Low | Unemployment Rate (Nov) |  |  | 2.9% |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
-| 16:30 | HKD | Low | Unemployment Rate (Nov) |  |  | 2.9% |
-| 17:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 17:00 | EUR | Moderate | ECB's Enria Speaks |  |  |  |
+| 40 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 40 min | EUR | Moderate | ECB's Enria Speaks |  |  |  |
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.091% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Nov) |  | 3.6% | 4.2% |
@@ -38,8 +38,8 @@
 | 21:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 21:30 | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
 | 21:30 | USD | Moderate | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 21:30 | USD | Moderate | Housing Starts (Nov) |  | 1.360M | 1.372M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
+| 21:30 | USD | Moderate | Housing Starts (Nov) |  | 1.360M | 1.372M |
 | 21:30 | CAD | Low | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.7% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.3% |

@@ -12,8 +12,8 @@
 | 08:00 | NZD | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
 | 15:00 | CHF | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
 | 15:00 | ZAR | Leading Indicators (Oct) | 112.00% |  | 111.60% |
+| 10 min | HKD | Unemployment Rate (Nov) |  |  | 2.9% |
 | Tentative | CNY | FDI |  |  | -9.40% |
-| 16:30 | HKD | Unemployment Rate (Nov) |  |  | 2.9% |
 | 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.091% |
 | 18:00 | EUR | Core CPI (MoM) (Nov) |  | -0.6% | 0.2% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Nov) |  |  | 2.8% |
