@@ -10,8 +10,8 @@
 | 05:45 | NZD | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
 | 08:00 | NZD | ANZ Business Confidence (Dec) | 33.2 |  | 30.8 |
 | 08:00 | NZD | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
-| 39 min | CHF | Trade Balance (Nov) |  | 3.500B | 4.600B |
-| 39 min | ZAR | Leading Indicators (Oct) |  |  | 111.60% |
+| 15:00 | CHF | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
+| 15:00 | ZAR | Leading Indicators (Oct) | 112.00% |  | 111.60% |
 | Tentative | CNY | FDI |  |  | -9.40% |
 | 16:30 | HKD | Unemployment Rate (Nov) |  |  | 2.9% |
 | 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.091% |

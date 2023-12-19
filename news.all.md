@@ -14,9 +14,9 @@
 | 09:00 | KRW | Moderate | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 10:49 | JPY | Moderate | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 9 min | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 39 min | CHF | Low | Trade Balance (Nov) |  | 3.500B | 4.600B |
-| 39 min | ZAR | Low | Leading Indicators (Oct) |  |  | 111.60% |
+| 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 15:00 | CHF | Low | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
+| 15:00 | ZAR | Low | Leading Indicators (Oct) | 112.00% |  | 111.60% |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
 | 16:30 | HKD | Low | Unemployment Rate (Nov) |  |  | 2.9% |
 | 17:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
@@ -38,8 +38,8 @@
 | 21:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 21:30 | USD | High | Building Permits (Nov) |  | 1.470M | 1.498M |
 | 21:30 | USD | Moderate | Building Permits (MoM) (Nov) |  |  | 1.8% |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
 | 21:30 | USD | Moderate | Housing Starts (Nov) |  | 1.360M | 1.372M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Nov) |  |  | 1.9% |
 | 21:30 | CAD | Low | Common CPI (YoY) (Nov) |  | 4.0% | 4.2% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Nov) |  |  | 2.7% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Nov) |  |  | 0.3% |
