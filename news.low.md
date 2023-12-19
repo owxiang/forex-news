@@ -1,35 +1,60 @@
-## 19 December 2023 - Low Impact Forex News
+## 20 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 3-Month Bill Auction | 5.260% |  | 5.260% |
-| 00:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.190% |
-| 05:45 | NZD | Exports (Nov) | 5.99B |  | 5.37B |
-| 05:45 | NZD | Imports (Nov) | 7.23B |  | 7.10B |
-| 05:45 | NZD | Trade Balance (MoM) (Nov) | -1,234M | -1,200M | -1,730M |
-| 05:45 | NZD | Trade Balance (YoY) (Nov) | -13,870M |  | -14,820M |
-| 08:00 | NZD | ANZ Business Confidence (Dec) | 33.2 |  | 30.8 |
-| 08:00 | NZD | NBNZ Own Activity (Dec) | 29.3% |  | 26.3% |
-| 15:00 | CHF | Trade Balance (Nov) | 3.707B | 3.500B | 4.712B |
-| 15:00 | ZAR | Leading Indicators (Oct) | 112.00% |  | 111.60% |
-| 16:30 | HKD | Unemployment Rate (Nov) | 2.9% |  | 2.9% |
-| 18:00 | GBP | 10-Year Treasury Gilt Auction | 3.739% |  | 4.091% |
-| 18:00 | EUR | Core CPI (MoM) (Nov) | -0.6% | -0.6% | 0.2% |
-| 18:00 | EUR | CPI ex Tobacco (MoM) (Nov) | -0.6% |  | 0.1% |
-| 18:00 | EUR | CPI ex Tobacco (YoY) (Nov) | 2.3% |  | 2.8% |
-| 18:00 | EUR | CPI, n.s.a | 123.85 | 123.86 | 124.54 |
-| 18:00 | EUR | HICP ex Energy & Food (YoY) (Nov) | 4.2% | 4.2% | 5.0% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) (Nov) | -0.5% | -0.4% | 0.2% |
-| 19:00 | GBP | CBI Industrial Trends Orders (Dec) | -23 |  | -35 |
-| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 20:00 | NZD | GlobalDairyTrade Price Index | 2.3% |  | 1.6% |
-| 20:00 | USD | Milk Auctions | 3,388.0 |  | 3,323.0 |
-| 21:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 21:30 | CAD | Common CPI (YoY) (Nov) | 3.9% | 4.0% | 4.2% |
-| 21:30 | CAD | CPI (YoY) (Nov) | 3.1% | 2.9% | 3.1% |
-| 21:30 | CAD | IPPI (MoM) (Nov) | -0.4% | -0.8% | -0.9% |
-| 21:30 | CAD | IPPI (YoY) (Nov) | -2.3% |  | -2.6% |
-| 21:30 | CAD | Median CPI (YoY) (Nov) | 3.4% | 3.3% | 3.4% |
-| 21:30 | CAD | RMPI (YoY) (Nov) | -4.6% |  | -0.9% |
-| 21:30 | CAD | Trimmed CPI (YoY) (Nov) | 3.5% | 3.3% | 3.5% |
-| 21:55 | USD | Redbook (YoY) | 3.6% |  | 3.4% |
+| 05:00 | USD | US Foreign Buying, T-bonds (Oct) |  |  | -17.50B |
+| 05:00 | USD | Overall Net Capital Flow (Oct) |  |  | -67.40B |
+| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) |  |  | -1.70B |
+| 07:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
+| 07:50 | JPY | Imports (YoY) (Nov) |  | -8.6% | -12.5% |
+| 08:00 | AUD | MI Leading Index (MoM) (Nov) |  |  | 0.0% |
+| 08:00 | NZD | Budget Balance (Jul) |  |  | -22.430B |
+| 08:00 | NZD | Net Debt Forecast (Jul) |  |  | 38.50% |
+| 08:00 | NZD | Economic Forecast (Jul) |  |  | -10.034B |
+| 09:15 | CNY | China Loan Prime Rate 5Y (Dec) |  | 4.20% | 4.20% |
+| 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
+| 15:00 | GBP | Car Registration (MoM) (Nov) |  |  | -43.7% |
+| 15:00 | GBP | Car Registration (YoY) (Nov) |  |  | 14.3% |
+| 15:00 | GBP | Core CPI (MoM) (Nov) |  | 0.2% | 0.3% |
+| 15:00 | GBP | Core CPI (YoY) (Nov) |  | 5.5% | 5.7% |
+| 15:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
+| 15:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
+| 15:00 | GBP | Core RPI (YoY) (Nov) |  |  | 4.8% |
+| 15:00 | GBP | Core RPI (MoM) (Nov) |  |  | -0.3% |
+| 15:00 | GBP | CPI, n.s.a (Nov) |  |  | 132.00 |
+| 15:00 | GBP | PPI Input (YoY) (Nov) |  |  | -2.6% |
+| 15:00 | GBP | PPI Output (MoM) (Nov) |  | -0.1% | 0.1% |
+| 15:00 | GBP | PPI Output (YoY) (Nov) |  |  | -0.6% |
+| 15:00 | GBP | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
+| 15:00 | GBP | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
+| 15:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
+| 15:00 | EUR | German Car Registration (MoM) (Nov) |  |  | -2.5% |
+| 15:00 | EUR | German Car Registration (YoY) (Nov) |  |  | 4.9% |
+| 15:00 | EUR | German PPI (YoY) (Nov) |  |  | -11.0% |
+| 15:00 | EUR | French Car Registration (MoM) (Nov) |  |  | -2.5% |
+| 15:00 | EUR | French Car Registration (YoY) (Nov) |  |  | 21.9% |
+| Tentative | CNY | FDI |  |  | -9.40% |
+| 17:00 | EUR | Current Account (Oct) |  | 27.0B | 31.2B |
+| 17:00 | EUR | Current Account n.s.a. (Oct) |  |  | 40.8B |
+| 17:30 | GBP | House Price Index (YoY) |  | 0.0% | -0.1% |
+| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
+| 18:00 | EUR | Construction Output (MoM) (Oct) |  |  | 0.45% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.07% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 7.4% |
+| 20:00 | USD | MBA Purchase Index |  |  | 149.6 |
+| 20:00 | USD | Mortgage Market Index |  |  | 194.5 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 445.8 |
+| 20:00 | MXN | Retail Sales (MoM) (Oct) |  |  | -0.2% |
+| 20:00 | MXN | Retail Sales (YoY) (Oct) |  |  | 2.3% |
+| 20:00 | BRL | IBC-Br Economic Activity (Oct) |  | 0.10% | -0.06% |
+| 22:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 23:00 | EUR | Consumer Confidence (Dec) |  | -16.5 | -16.9 |
+| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
+| 23:30 | USD | Crude Oil Imports |  |  | -0.423M |
+| 23:30 | USD | Distillate Fuel Production |  |  | -0.083M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.494M |
+| 23:30 | USD | Gasoline Production |  |  | 0.025M |
+| 23:30 | USD | Heating Oil Stockpiles |  |  | 0.832M |
+| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 23:30 | USD | Gasoline Inventories |  |  | 0.408M |

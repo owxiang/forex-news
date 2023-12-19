@@ -1,20 +1,19 @@
-## 19 December 2023 - Moderate Impact Forex News
+## 20 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 09:00 | KRW | Monetary Policy Board's Policy Setting Meeting Dates |  |  |  |
-| 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 10:49 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 14:30 | JPY | BoJ Press Conference |  |  |  |
-| 17:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 17:00 | EUR | ECB's Enria Speaks |  |  |  |
-| 18:00 | EUR | Core CPI (YoY) (Nov) | 3.6% | 3.6% | 4.2% |
-| 18:00 | EUR | CPI (MoM) (Nov) | -0.6% | -0.5% | 0.1% |
-| 21:30 | USD | Building Permits (MoM) (Nov) | -2.5% |  | 1.8% |
-| 21:30 | USD | Housing Starts (MoM) (Nov) | 14.8% |  | 0.2% |
-| 21:30 | USD | Housing Starts (Nov) | 1.560M | 1.360M | 1.359M |
-| 21:30 | CAD | Core CPI (YoY) (Nov) | 2.8% |  | 2.7% |
-| 21:30 | CAD | Core CPI (MoM) (Nov) | 0.1% |  | 0.3% |
-| 21:30 | CAD | CPI (MoM) (Nov) | 0.1% | -0.2% | 0.1% |
-| 21:30 | CAD | RMPI (MoM) (Nov) | -4.2% | -3.5% | -2.6% |
+| 00:15 | USD | Atlanta Fed GDPNow (Q4) | 2.7% | 2.6% | 2.6% |
+| 05:00 | USD | TIC Net Long-Term Transactions (Oct) |  | 45.8B | -1.7B |
+| 05:30 | USD | API Weekly Crude Oil Stock |  |  | -2.349M |
+| 07:50 | JPY | Adjusted Trade Balance |  | -0.72T | -0.46T |
+| 07:50 | JPY | Exports (YoY) (Nov) |  | 1.5% | 1.6% |
+| 07:50 | JPY | Trade Balance (Nov) |  | -962.4B | -661.0B |
+| 09:15 | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 15:00 | GBP | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
+| 15:00 | GBP | PPI Input (MoM) (Nov) |  | -0.6% | 0.4% |
+| 15:00 | EUR | German PPI (MoM) (Nov) |  | -0.2% | -0.1% |
+| 15:00 | EUR | GfK German Consumer Climate (Jan) |  | -27.0 | -27.8 |
+| 21:30 | USD | Current Account (Q3) |  | -197.0B | -212.1B |
+| 22:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 23:00 | USD | Existing Home Sales (MoM) (Nov) |  |  | -4.1% |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.228M |
