@@ -17,8 +17,8 @@
 | 15:00 | GBP | Car Registration (YoY) (Nov) |  |  | 14.3% |
 | 15:00 | GBP | Core CPI (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | GBP | Core CPI (YoY) (Nov) |  | 5.5% | 5.7% |
-| 15:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | GBP | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
+| 15:00 | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | GBP | Core RPI (YoY) (Nov) |  |  | 4.8% |
 | 15:00 | GBP | Core RPI (MoM) (Nov) |  |  | -0.3% |
 | 15:00 | GBP | CPI, n.s.a (Nov) |  |  | 132.00 |
@@ -27,8 +27,8 @@
 | 15:00 | GBP | PPI Output (YoY) (Nov) |  |  | -0.6% |
 | 15:00 | GBP | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | GBP | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
 | 15:00 | EUR | German Car Registration (YoY) (Nov) |  |  | 4.9% |
 | 15:00 | EUR | German Car Registration (MoM) (Nov) |  |  | -2.5% |
 | 15:00 | EUR | German PPI (YoY) (Nov) |  |  | -11.0% |

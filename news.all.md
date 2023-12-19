@@ -24,21 +24,21 @@
 | 15:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | 14.3% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Nov) |  | 5.5% | 5.7% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
+| 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Nov) |  |  | 4.8% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Nov) |  |  | -0.3% |
 | 15:00 | GBP | High | CPI (YoY) (Nov) |  | 4.3% | 4.6% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 15:00 | GBP | Low | CPI, n.s.a (Nov) |  |  | 132.00 |
-| 15:00 | GBP | Low | PPI Input (YoY) (Nov) |  |  | -2.6% |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Nov) |  | -0.6% | 0.4% |
+| 15:00 | GBP | Low | PPI Input (YoY) (Nov) |  |  | -2.6% |
 | 15:00 | GBP | Low | PPI Output (MoM) (Nov) |  | -0.1% | 0.1% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Nov) |  |  | -0.6% |
 | 15:00 | GBP | Low | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | GBP | Low | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Nov) |  |  | 4.9% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Nov) |  |  | -2.5% |
 | 15:00 | EUR | Low | German PPI (YoY) (Nov) |  |  | -11.0% |
