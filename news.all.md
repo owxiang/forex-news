@@ -19,29 +19,35 @@
 | 08:00 | NZD | Low | Economic Forecast (Jul) | -9.320B |  | -10.034B |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Dec) | 4.20% | 4.20% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 15:00 | GBP | Low | Core CPI (YoY) (Nov) | 5.1% | 5.5% | 5.7% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Nov) | 2.0% |  | -43.7% |
+| 15:00 | GBP | Low | Car Registration (YoY) (Nov) | 9.5% |  | 14.3% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Nov) | -0.3% | 0.2% | 0.3% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
+| 15:00 | GBP | Low | Core CPI (YoY) (Nov) | 5.1% | 5.5% | 5.7% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 0.2% |  | 0.4% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Nov) | 4.1% |  | 4.8% |
+| 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Nov) | -0.2% |  | -0.3% |
+| 15:00 | GBP | Low | Core RPI (YoY) (Nov) | 4.1% |  | 4.8% |
 | 15:00 | GBP | High | CPI (YoY) (Nov) | 3.9% | 4.3% | 4.6% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Nov) | -0.2% | 0.2% | 0.0% |
 | 15:00 | GBP | Low | CPI, n.s.a (Nov) | 131.70 |  | 132.00 |
-| 15:00 | GBP | Low | PPI Input (YoY) (Nov) | -2.6% |  | -2.6% |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Nov) | -0.3% | -0.6% | 0.5% |
+| 15:00 | GBP | Low | PPI Input (YoY) (Nov) | -2.6% |  | -2.6% |
 | 15:00 | GBP | Low | PPI Output (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.2% |  | -0.3% |
-| 15:00 | GBP | Low | RPI (MoM) (Nov) | -0.1% | 0.3% | -0.2% |
 | 15:00 | GBP | Low | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
-| 15:00 | EUR | Moderate | German PPI (MoM) (Nov) | -0.5% | -0.2% | -0.1% |
+| 15:00 | GBP | Low | RPI (MoM) (Nov) | -0.1% | 0.3% | -0.2% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | 16.2% |  | 20.0% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | 0.1% |  | 2.1% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Nov) | -5.7% |  | 4.9% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Nov) | 12.2% |  | -2.5% |
 | 15:00 | EUR | Low | German PPI (YoY) (Nov) | -7.9% |  | -11.0% |
+| 15:00 | EUR | Moderate | German PPI (MoM) (Nov) | -0.5% | -0.2% | -0.1% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -25.1 | -27.0 | -27.6 |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Nov) | 14.0% |  | 21.9% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Nov) | 0.2% |  | -2.5% |
 | Tentative | CNY | Low | FDI |  |  | -9.40% |
-| 17:00 | EUR | Low | Current Account (Oct) |  | 27.0B | 31.2B |
-| 17:00 | EUR | Low | Current Account n.s.a. (Oct) |  |  | 40.8B |
+| 44 min | EUR | Low | Current Account (Oct) |  | 27.0B | 31.2B |
+| 44 min | EUR | Low | Current Account n.s.a. (Oct) |  |  | 40.8B |
 | 17:30 | GBP | Low | House Price Index (YoY) |  | 0.0% | -0.1% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 18:00 | EUR | Low | Construction Output (MoM) (Oct) |  |  | 0.45% |
