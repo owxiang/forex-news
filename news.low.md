@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 05:00 | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
 | 05:00 | KRW | PPI (YoY) (Nov) |  |  | 0.8% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
