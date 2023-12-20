@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -0.775B |
+| 17 min | BRL | Foreign Exchange Flows |  |  | -0.775B |
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 05:00 | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
 | 05:00 | KRW | PPI (YoY) (Nov) |  |  | 0.8% |

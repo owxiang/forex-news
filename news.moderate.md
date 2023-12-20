@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 20-Year Bond Auction |  |  | 4.780% |
+| 47 min | USD | 20-Year Bond Auction |  |  | 4.780% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 21:30 | USD | Continuing Jobless Claims |  |  | 1,876K |
 | 21:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |

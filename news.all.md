@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.775B |
-| 02:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.780% |
+| 17 min | BRL | Low | Foreign Exchange Flows |  |  | -0.775B |
+| 47 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.780% |
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 05:00 | KRW | Low | PPI (MoM) (Nov) |  |  | -0.1% |
 | 05:00 | KRW | Low | PPI (YoY) (Nov) |  |  | 0.8% |
