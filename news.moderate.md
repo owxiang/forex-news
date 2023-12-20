@@ -15,5 +15,5 @@
 | 15:00 | EUR | GfK German Consumer Climate (Jan) | -25.1 | -27.0 | -27.6 |
 | 21:30 | USD | Current Account (Q3) | -200.3B | -197.0B | -216.8B |
 | 22:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 48 min | USD | Existing Home Sales (MoM) (Nov) |  |  | -4.1% |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.228M |
+| 23:00 | USD | Existing Home Sales (MoM) (Nov) | 0.8% |  | -4.1% |
+| 16 min | USD | Cushing Crude Oil Inventories |  |  | 1.228M |

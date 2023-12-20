@@ -19,8 +19,8 @@
 | 08:00 | NZD | Low | Economic Forecast (Jul) | -9.320B |  | -10.034B |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Dec) | 4.20% | 4.20% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Nov) | 9.5% |  | 14.3% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Nov) | 2.0% |  | -43.7% |
+| 15:00 | GBP | Low | Car Registration (YoY) (Nov) | 9.5% |  | 14.3% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Nov) | -0.3% | 0.2% | 0.3% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Nov) | 5.1% | 5.5% | 5.7% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
@@ -34,8 +34,8 @@
 | 15:00 | GBP | Low | PPI Input (YoY) (Nov) | -2.6% | -3.3% | -2.6% |
 | 15:00 | GBP | Low | PPI Output (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.2% | -0.5% | -0.3% |
-| 15:00 | GBP | Low | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
 | 15:00 | GBP | Low | RPI (MoM) (Nov) | -0.1% | 0.3% | -0.2% |
+| 15:00 | GBP | Low | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | 0.1% |  | 2.1% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | 16.2% |  | 20.0% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Nov) | 12.2% |  | -2.5% |
@@ -59,17 +59,17 @@
 | 21:30 | USD | Moderate | Current Account (Q3) | -200.3B | -197.0B | -216.8B |
 | 22:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 22:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 48 min | USD | High | CB Consumer Confidence (Dec) |  | 103.8 | 102.0 |
-| 48 min | USD | Moderate | Existing Home Sales (MoM) (Nov) |  |  | -4.1% |
-| 48 min | USD | High | Existing Home Sales (Nov) |  | 3.78M | 3.79M |
-| 48 min | EUR | Low | Consumer Confidence (Dec) |  | -16.5 | -16.9 |
-| 23:30 | USD | High | Crude Oil Inventories |  |  | -4.259M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | -0.423M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.228M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | -0.083M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.494M |
-| 23:30 | USD | Low | Gasoline Production |  |  | 0.025M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.832M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 23:30 | USD | Low | Gasoline Inventories |  |  | 0.408M |
+| 23:00 | USD | High | CB Consumer Confidence (Dec) | 110.7 | 103.8 | 101.0 |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 0.8% |  | -4.1% |
+| 23:00 | USD | High | Existing Home Sales (Nov) | 3.82M | 3.78M | 3.79M |
+| 23:00 | EUR | Low | Consumer Confidence (Dec) | -15.1 | -16.5 | -16.9 |
+| 16 min | USD | High | Crude Oil Inventories |  |  | -4.259M |
+| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
+| 16 min | USD | Low | Crude Oil Imports |  |  | -0.423M |
+| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.228M |
+| 16 min | USD | Low | Distillate Fuel Production |  |  | -0.083M |
+| 16 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.494M |
+| 16 min | USD | Low | Gasoline Production |  |  | 0.025M |
+| 16 min | USD | Low | Heating Oil Stockpiles |  |  | 0.832M |
+| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 16 min | USD | Low | Gasoline Inventories |  |  | 0.408M |
