@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.213% |  | 4.780% |
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | Low | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 05:00 | KRW | Low | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
+| 05:00 | KRW | Low | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -1,080.0B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -990.6B |
 | 08:30 | AUD | Low | Reserve Assets Total (Nov) |  |  | 94.6B |
