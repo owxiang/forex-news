@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.213% |  | 4.780% |
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 43 min | KRW | Low | PPI (MoM) (Nov) |  |  | -0.1% |
-| 43 min | KRW | Low | PPI (YoY) (Nov) |  |  | 0.8% |
+| 05:00 | KRW | Low | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
+| 05:00 | KRW | Low | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -1,080.0B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -990.6B |
 | 08:30 | AUD | Low | Reserve Assets Total (Nov) |  |  | 94.6B |
@@ -35,13 +35,13 @@
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.50% | 0.20% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.40% | 0.63% |
 | 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 21:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,876K |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,888K | 1,876K |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
 | 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
 | 21:30 | USD | High | GDP (QoQ) (Q3) |  | 5.2% | 2.1% |
 | 21:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
 | 21:30 | USD | Low | GDP Sales (Q3) |  | 3.7% | 2.1% |
-| 21:30 | USD | High | Initial Jobless Claims |  | 218K | 202K |
+| 21:30 | USD | High | Initial Jobless Claims |  | 214K | 202K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.25K |
 | 21:30 | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.5% |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Dec) |  | -3.0 | -5.9 |
@@ -55,4 +55,4 @@
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.5% | 0.2% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | 0.6% |
 | 23:00 | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.4% | -0.8% |
-| 23:30 | USD | Low | Natural Gas Storage |  |  | -55B |
+| 23:30 | USD | Low | Natural Gas Storage |  | -82B | -55B |

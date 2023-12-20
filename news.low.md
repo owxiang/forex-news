@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 43 min | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
-| 43 min | KRW | PPI (YoY) (Nov) |  |  | 0.8% |
+| 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
+| 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -990.6B |
 | 08:30 | AUD | Reserve Assets Total (Nov) |  |  | 94.6B |
@@ -44,4 +44,4 @@
 | 21:30 | USD | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
 | 21:30 | USD | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
 | 21:30 | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
-| 23:30 | USD | Natural Gas Storage |  |  | -55B |
+| 23:30 | USD | Natural Gas Storage |  | -82B | -55B |

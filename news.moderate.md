@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 20-Year Bond Auction | 4.213% |  | 4.780% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
-| 21:30 | USD | Continuing Jobless Claims |  |  | 1,876K |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,888K | 1,876K |
 | 21:30 | USD | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
 | 21:30 | USD | Philly Fed Employment (Dec) |  |  | 0.8 |
 | 21:30 | CAD | Core Retail Sales (MoM) (Oct) |  | 0.5% | 0.2% |
