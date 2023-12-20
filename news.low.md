@@ -12,27 +12,21 @@
 | 08:00 | NZD | Net Debt Forecast (Jul) | 43.50% |  | 38.50% |
 | 08:00 | NZD | Economic Forecast (Jul) | -9.320B |  | -10.034B |
 | 09:15 | CNY | China Loan Prime Rate 5Y (Dec) | 4.20% | 4.20% | 4.20% |
-| 43 min | GBP | Car Registration (MoM) (Nov) |  |  | -43.7% |
-| 43 min | GBP | Car Registration (YoY) (Nov) |  |  | 14.3% |
-| 43 min | GBP | Core CPI (MoM) (Nov) |  | 0.2% | 0.3% |
-| 43 min | GBP | Core CPI (YoY) (Nov) |  | 5.5% | 5.7% |
-| 43 min | GBP | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
-| 43 min | GBP | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
-| 43 min | GBP | Core RPI (YoY) (Nov) |  |  | 4.8% |
-| 43 min | GBP | Core RPI (MoM) (Nov) |  |  | -0.3% |
-| 43 min | GBP | CPI, n.s.a (Nov) |  |  | 132.00 |
-| 43 min | GBP | PPI Input (YoY) (Nov) |  |  | -2.6% |
-| 43 min | GBP | PPI Output (MoM) (Nov) |  | -0.1% | 0.1% |
-| 43 min | GBP | PPI Output (YoY) (Nov) |  |  | -0.6% |
-| 43 min | GBP | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
-| 43 min | GBP | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
-| 43 min | EUR | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
-| 43 min | EUR | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
-| 43 min | EUR | German Car Registration (YoY) (Nov) |  |  | 4.9% |
-| 43 min | EUR | German Car Registration (MoM) (Nov) |  |  | -2.5% |
-| 43 min | EUR | German PPI (YoY) (Nov) |  |  | -11.0% |
-| 43 min | EUR | French Car Registration (MoM) (Nov) |  |  | -2.5% |
-| 43 min | EUR | French Car Registration (YoY) (Nov) |  |  | 21.9% |
+| 15:00 | GBP | Core CPI (YoY) (Nov) | 5.1% | 5.5% | 5.7% |
+| 15:00 | GBP | Core CPI (MoM) (Nov) | -0.3% | 0.2% | 0.3% |
+| 15:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
+| 15:00 | GBP | Core PPI Output (YoY) (Nov) | 0.2% |  | 0.4% |
+| 15:00 | GBP | Core RPI (YoY) (Nov) | 4.1% |  | 4.8% |
+| 15:00 | GBP | Core RPI (MoM) (Nov) | -0.2% |  | -0.3% |
+| 15:00 | GBP | CPI, n.s.a (Nov) | 131.70 |  | 132.00 |
+| 15:00 | GBP | PPI Input (YoY) (Nov) | -2.6% |  | -2.6% |
+| 15:00 | GBP | PPI Output (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
+| 15:00 | GBP | PPI Output (YoY) (Nov) | -0.2% |  | -0.3% |
+| 15:00 | GBP | RPI (MoM) (Nov) | -0.1% | 0.3% | -0.2% |
+| 15:00 | GBP | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
+| 15:00 | EUR | German PPI (YoY) (Nov) | -7.9% |  | -11.0% |
+| 15:00 | EUR | French Car Registration (YoY) (Nov) | 14.0% |  | 21.9% |
+| 15:00 | EUR | French Car Registration (MoM) (Nov) | 0.2% |  | -2.5% |
 | Tentative | CNY | FDI |  |  | -9.40% |
 | 17:00 | EUR | Current Account (Oct) |  | 27.0B | 31.2B |
 | 17:00 | EUR | Current Account n.s.a. (Oct) |  |  | 40.8B |
