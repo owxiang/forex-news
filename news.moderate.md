@@ -13,7 +13,7 @@
 | 15:00 | GBP | PPI Input (MoM) (Nov) | -0.3% | -0.6% | 0.5% |
 | 15:00 | EUR | German PPI (MoM) (Nov) | -0.5% | -0.2% | -0.1% |
 | 15:00 | EUR | GfK German Consumer Climate (Jan) | -25.1 | -27.0 | -27.6 |
-| 15 min | USD | Current Account (Q3) |  | -197.0B | -212.1B |
-| 45 min | EUR | ECB's Lane Speaks |  |  |  |
-| 23:00 | USD | Existing Home Sales (MoM) (Nov) |  |  | -4.1% |
+| 21:30 | USD | Current Account (Q3) | -200.3B | -197.0B | -216.8B |
+| 22:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 48 min | USD | Existing Home Sales (MoM) (Nov) |  |  | -4.1% |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 1.228M |
