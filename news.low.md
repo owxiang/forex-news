@@ -28,8 +28,8 @@
 | 15:00 | GBP | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
 | 15:00 | EUR | Italian Car Registration (MoM) (Nov) | 0.1% |  | 2.1% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Nov) | 16.2% |  | 20.0% |
-| 15:00 | EUR | German Car Registration (YoY) (Nov) | -5.7% |  | 4.9% |
 | 15:00 | EUR | German Car Registration (MoM) (Nov) | 12.2% |  | -2.5% |
+| 15:00 | EUR | German Car Registration (YoY) (Nov) | -5.7% |  | 4.9% |
 | 15:00 | EUR | German PPI (YoY) (Nov) | -7.9% |  | -11.0% |
 | 15:00 | EUR | French Car Registration (MoM) (Nov) | 0.2% |  | -2.5% |
 | 15:00 | EUR | French Car Registration (YoY) (Nov) | 14.0% |  | 21.9% |
@@ -41,10 +41,10 @@
 | 20:00 | USD | MBA Purchase Index | 148.7 |  | 149.6 |
 | 20:00 | USD | Mortgage Market Index | 191.6 |  | 194.5 |
 | 20:00 | USD | Mortgage Refinance Index | 437.6 |  | 445.8 |
-| 20:00 | MXN | Retail Sales (MoM) (Oct) | 0.8% |  | -0.2% |
-| 20:00 | MXN | Retail Sales (YoY) (Oct) | 3.4% |  | 2.3% |
+| 20:00 | MXN | Retail Sales (YoY) (Oct) | 3.4% | 2.0% | 2.3% |
+| 20:00 | MXN | Retail Sales (MoM) (Oct) | 0.8% | 0.0% | -0.2% |
 | 20:00 | BRL | IBC-Br Economic Activity (Oct) | -0.06% | 0.10% | -0.06% |
-| 22:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 45 min | CHF | SNB Quarterly Bulletin |  |  |  |
 | 23:00 | EUR | Consumer Confidence (Dec) |  | -16.5 | -16.9 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.423M |
