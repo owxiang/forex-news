@@ -2,9 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 17 min | BRL | Low | Foreign Exchange Flows |  |  | -0.775B |
-| 47 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.780% |
-| 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 02:00 | USD | Moderate | 20-Year Bond Auction | 4.213% |  | 4.780% |
+| 10 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 05:00 | KRW | Low | PPI (MoM) (Nov) |  |  | -0.1% |
 | 05:00 | KRW | Low | PPI (YoY) (Nov) |  |  | 0.8% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -1,080.0B |
@@ -28,8 +27,8 @@
 | 17:00 | NOK | Low | Unemployment Change (Dec) |  |  | 68.82K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) |  |  | 1.80% |
 | 17:30 | GBP | Low | House Price Index (YoY) |  | 0.0% | -0.1% |
-| 18:00 | EUR | Low | Italian PPI (YoY) |  |  | -9.5% |
 | 18:00 | EUR | Low | Italian PPI (MoM) |  |  | 1.5% |
+| 18:00 | EUR | Low | Italian PPI (YoY) |  |  | -9.5% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
 | 19:00 | BRL | Low | BCB Inflation Report |  |  |  |

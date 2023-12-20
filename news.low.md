@@ -2,8 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | BRL | Foreign Exchange Flows |  |  | -0.775B |
-| 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 10 min | CAD | BOC Summary of Deliberations |  |  |  |
 | 05:00 | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
 | 05:00 | KRW | PPI (YoY) (Nov) |  |  | 0.8% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
@@ -26,8 +25,8 @@
 | 17:00 | NOK | Unemployment Change (Dec) |  |  | 68.82K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Dec) |  |  | 1.80% |
 | 17:30 | GBP | House Price Index (YoY) |  | 0.0% | -0.1% |
-| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
 | 18:00 | EUR | Italian PPI (MoM) |  |  | 1.5% |
+| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
 | 19:00 | BRL | BCB Inflation Report |  |  |  |
