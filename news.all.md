@@ -18,16 +18,16 @@
 | 08:00 | NZD | Low | Net Debt Forecast (Jul) | 43.50% |  | 38.50% |
 | 08:00 | NZD | Low | Economic Forecast (Jul) | -9.320B |  | -10.034B |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Dec) | 4.20% | 4.20% | 4.20% |
-| 09:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -43.7% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Nov) |  |  | 14.3% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Nov) |  |  | -43.7% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Nov) |  | 5.5% | 5.7% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Nov) |  |  | 0.2% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Nov) |  |  | 4.8% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Nov) |  |  | -0.3% |
+| 15:00 | GBP | Low | Core RPI (YoY) (Nov) |  |  | 4.8% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Nov) |  | 0.2% | 0.0% |
 | 15:00 | GBP | High | CPI (YoY) (Nov) |  | 4.3% | 4.6% |
 | 15:00 | GBP | Low | CPI, n.s.a (Nov) |  |  | 132.00 |
@@ -35,8 +35,8 @@
 | 15:00 | GBP | Low | PPI Input (YoY) (Nov) |  |  | -2.6% |
 | 15:00 | GBP | Low | PPI Output (MoM) (Nov) |  | -0.1% | 0.1% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Nov) |  |  | -0.6% |
-| 15:00 | GBP | Low | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | GBP | Low | RPI (YoY) (Nov) |  | 5.8% | 6.1% |
+| 15:00 | GBP | Low | RPI (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) |  |  | 2.1% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) |  |  | 20.0% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Nov) |  |  | -2.5% |
@@ -64,8 +64,8 @@
 | 22:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 22:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 23:00 | USD | High | CB Consumer Confidence (Dec) |  | 103.8 | 102.0 |
-| 23:00 | USD | High | Existing Home Sales (Nov) |  | 3.78M | 3.79M |
 | 23:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) |  |  | -4.1% |
+| 23:00 | USD | High | Existing Home Sales (Nov) |  | 3.78M | 3.79M |
 | 23:00 | EUR | Low | Consumer Confidence (Dec) |  | -16.5 | -16.9 |
 | 23:30 | USD | High | Crude Oil Inventories |  |  | -4.259M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
