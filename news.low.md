@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -990.6B |
+| 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
+| 34 min | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
+| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -990.6B |
 | 08:30 | AUD | Reserve Assets Total (Nov) |  |  | 94.6B |
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | -2.9% |
 | 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
