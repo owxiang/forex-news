@@ -1,75 +1,60 @@
-## 20 December 2023 - All Forex News
+## 21 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:15 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.7% | 2.6% | 2.6% |
-| 05:00 | USD | Low | US Foreign Buying, T-bonds (Oct) | 54.00B |  | -15.50B |
-| 05:00 | USD | Low | Overall Net Capital Flow (Oct) | -83.80B |  | -64.80B |
-| 05:00 | USD | Moderate | TIC Net Long-Term Transactions (Oct) | 3.3B | 45.8B | 0.9B |
-| 05:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Oct) | 3.30B |  | 0.90B |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.939M | -2.233M | -2.349M |
-| 07:30 | AUD | Low | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.0% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.41T | -0.72T | -0.46T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Nov) | -0.2% | 1.5% | 1.6% |
-| 07:50 | JPY | Low | Imports (YoY) (Nov) | -11.9% | -8.6% | -12.5% |
-| 07:50 | JPY | Moderate | Trade Balance (Nov) | -776.9B | -962.4B | -661.0B |
-| 08:00 | AUD | Low | MI Leading Index (MoM) (Nov) | 0.1% |  | -0.0% |
-| 08:00 | NZD | Low | Budget Balance (Jul) | -25.830B |  | -22.430B |
-| 08:00 | NZD | Low | Net Debt Forecast (Jul) | 43.50% |  | 38.50% |
-| 08:00 | NZD | Low | Economic Forecast (Jul) | -9.320B |  | -10.034B |
-| 09:15 | CNY | Low | China Loan Prime Rate 5Y (Dec) | 4.20% | 4.20% | 4.20% |
-| 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Nov) | 2.0% |  | -43.7% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Nov) | 9.5% |  | 14.3% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Nov) | -0.3% | 0.2% | 0.3% |
-| 15:00 | GBP | Low | Core CPI (YoY) (Nov) | 5.1% | 5.5% | 5.7% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
-| 15:00 | GBP | Low | Core PPI Output (YoY) (Nov) | 0.2% |  | 0.4% |
-| 15:00 | GBP | Low | Core RPI (MoM) (Nov) | -0.2% |  | -0.3% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Nov) | 4.1% |  | 4.8% |
-| 15:00 | GBP | Moderate | CPI (MoM) (Nov) | -0.2% | 0.2% | 0.0% |
-| 15:00 | GBP | High | CPI (YoY) (Nov) | 3.9% | 4.3% | 4.6% |
-| 15:00 | GBP | Low | CPI, n.s.a (Nov) | 131.70 |  | 132.00 |
-| 15:00 | GBP | Moderate | PPI Input (MoM) (Nov) | -0.3% | -0.6% | 0.5% |
-| 15:00 | GBP | Low | PPI Input (YoY) (Nov) | -2.6% | -3.3% | -2.6% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
-| 15:00 | GBP | Low | PPI Output (YoY) (Nov) | -0.2% | -0.5% | -0.3% |
-| 15:00 | GBP | Low | RPI (MoM) (Nov) | -0.1% | 0.3% | -0.2% |
-| 15:00 | GBP | Low | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Nov) | 0.1% |  | 2.1% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Nov) | 16.2% |  | 20.0% |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Nov) | 12.2% |  | -2.5% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Nov) | -5.7% |  | 4.9% |
-| 15:00 | EUR | Moderate | German PPI (MoM) (Nov) | -0.5% | -0.2% | -0.1% |
-| 15:00 | EUR | Low | German PPI (YoY) (Nov) | -7.9% | -7.5% | -11.0% |
-| 15:00 | EUR | Moderate | GfK German Consumer Climate (Jan) | -25.1 | -27.0 | -27.6 |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Nov) | 0.2% |  | -2.5% |
-| 15:00 | EUR | Low | French Car Registration (YoY) (Nov) | 14.0% |  | 21.9% |
-| 17:00 | EUR | Low | Current Account (Oct) | 33.8B | 27.0B | 31.2B |
-| 17:00 | EUR | Low | Current Account n.s.a. (Oct) | 30.1B |  | 40.8B |
-| 18:00 | EUR | Low | Construction Output (MoM) (Oct) | -0.97% |  | 0.89% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.83% |  | 7.07% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.5% |  | 7.4% |
-| 20:00 | USD | Low | MBA Purchase Index | 148.7 |  | 149.6 |
-| 20:00 | USD | Low | Mortgage Market Index | 191.6 |  | 194.5 |
-| 20:00 | USD | Low | Mortgage Refinance Index | 437.6 |  | 445.8 |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Oct) | 3.4% | 2.0% | 2.3% |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Oct) | 0.8% | 0.0% | -0.2% |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Oct) | -0.06% | 0.10% | -0.06% |
-| 21:30 | USD | Moderate | Current Account (Q3) | -200.3B | -197.0B | -216.8B |
-| 22:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 22:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 23:00 | USD | High | CB Consumer Confidence (Dec) | 110.7 | 103.8 | 101.0 |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Nov) | 0.8% |  | -4.1% |
-| 23:00 | USD | High | Existing Home Sales (Nov) | 3.82M | 3.78M | 3.79M |
-| 23:00 | EUR | Low | Consumer Confidence (Dec) | -15.1 | -16.5 | -16.9 |
-| 16 min | USD | High | Crude Oil Inventories |  |  | -4.259M |
-| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
-| 16 min | USD | Low | Crude Oil Imports |  |  | -0.423M |
-| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.228M |
-| 16 min | USD | Low | Distillate Fuel Production |  |  | -0.083M |
-| 16 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.494M |
-| 16 min | USD | Low | Gasoline Production |  |  | 0.025M |
-| 16 min | USD | Low | Heating Oil Stockpiles |  |  | 0.832M |
-| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 16 min | USD | Low | Gasoline Inventories |  |  | 0.408M |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.775B |
+| 02:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.780% |
+| 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 05:00 | KRW | Low | PPI (MoM) (Nov) |  |  | -0.1% |
+| 05:00 | KRW | Low | PPI (YoY) (Nov) |  |  | 0.8% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -1,080.0B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -990.6B |
+| 08:30 | AUD | Low | Reserve Assets Total (Nov) |  |  | 94.6B |
+| 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -2.9% |
+| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
+| 15:00 | GBP | Low | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
+| 15:00 | GBP | Low | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
+| 15:00 | IDR | Low | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
+| 15:00 | IDR | Low | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
+| 15:00 | NOK | Low | Unemployment Rate (Nov) |  |  | 3.6% |
+| 15:20 | IDR | Low | Loans (YoY) |  |  | 8.99% |
+| 15:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
+| 15:45 | EUR | Low | French Business Survey (Dec) |  |  | 99 |
+| 16:00 | CHF | Low | M3 Money Supply (Nov) |  |  | 1,132.5B |
+| 16:30 | HKD | Low | CPI (MoM) (Nov) |  |  | 1.00% |
+| 16:30 | HKD | Low | CPI (YoY) (Nov) |  |  | 2.70% |
+| Tentative | CNY | Low | FDI |  |  | -9.40% |
+| 17:00 | NOK | Low | Unemployment Change (Dec) |  |  | 68.82K |
+| 17:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) |  |  | 1.80% |
+| 17:30 | GBP | Low | House Price Index (YoY) |  | 0.0% | -0.1% |
+| 18:00 | EUR | Low | Italian PPI (YoY) |  |  | -9.5% |
+| 18:00 | EUR | Low | Italian PPI (MoM) |  |  | 1.5% |
+| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
+| 19:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 20:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  |  | 0.20% |
+| 20:00 | MXN | Low | 1st Half-Month CPI (Dec) |  |  | 0.63% |
+| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| Tentative | BRL | Low | Federal Tax Revenue |  |  | 215.60B |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,876K |
+| 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
+| 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
+| 21:30 | USD | High | GDP (QoQ) (Q3) |  | 5.2% | 2.1% |
+| 21:30 | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
+| 21:30 | USD | Low | GDP Sales (Q3) |  | 3.7% | 2.1% |
+| 21:30 | USD | High | Initial Jobless Claims |  | 218K | 202K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.25K |
+| 21:30 | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.5% |
+| 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Dec) |  | -3.0 | -5.9 |
+| 21:30 | USD | Low | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
+| 21:30 | USD | Low | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
+| 21:30 | USD | Moderate | Philly Fed Employment (Dec) |  |  | 0.8 |
+| 21:30 | USD | Low | Philly Fed New Orders (Dec) |  |  | 1.3 |
+| 21:30 | USD | Low | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
+| 21:30 | USD | Low | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
+| 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
+| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  |  | 0.2% |
+| 21:30 | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | 0.6% |
+| 23:00 | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.4% | -0.8% |
+| 23:30 | USD | Low | Natural Gas Storage |  |  | -55B |

@@ -1,8 +1,7 @@
-## 20 December 2023 - High Impact Forex News
+## 21 December 2023 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | GBP | CPI (YoY) (Nov) | 3.9% | 4.3% | 4.6% |
-| 23:00 | USD | CB Consumer Confidence (Dec) | 110.7 | 103.8 | 101.0 |
-| 23:00 | USD | Existing Home Sales (Nov) | 3.82M | 3.78M | 3.79M |
-| 16 min | USD | Crude Oil Inventories |  |  | -4.259M |
+| 21:30 | USD | GDP (QoQ) (Q3) |  | 5.2% | 2.1% |
+| 21:30 | USD | Initial Jobless Claims |  | 218K | 202K |
+| 21:30 | USD | Philadelphia Fed Manufacturing Index (Dec) |  | -3.0 | -5.9 |

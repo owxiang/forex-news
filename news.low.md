@@ -1,56 +1,49 @@
-## 20 December 2023 - Low Impact Forex News
+## 21 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | USD | US Foreign Buying, T-bonds (Oct) | 54.00B |  | -15.50B |
-| 05:00 | USD | Overall Net Capital Flow (Oct) | -83.80B |  | -64.80B |
-| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Oct) | 3.30B |  | 0.90B |
-| 07:30 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | 0.0% |
-| 07:50 | JPY | Imports (YoY) (Nov) | -11.9% | -8.6% | -12.5% |
-| 08:00 | AUD | MI Leading Index (MoM) (Nov) | 0.1% |  | -0.0% |
-| 08:00 | NZD | Budget Balance (Jul) | -25.830B |  | -22.430B |
-| 08:00 | NZD | Net Debt Forecast (Jul) | 43.50% |  | 38.50% |
-| 08:00 | NZD | Economic Forecast (Jul) | -9.320B |  | -10.034B |
-| 09:15 | CNY | China Loan Prime Rate 5Y (Dec) | 4.20% | 4.20% | 4.20% |
-| 15:00 | GBP | Car Registration (MoM) (Nov) | 2.0% |  | -43.7% |
-| 15:00 | GBP | Car Registration (YoY) (Nov) | 9.5% |  | 14.3% |
-| 15:00 | GBP | Core CPI (MoM) (Nov) | -0.3% | 0.2% | 0.3% |
-| 15:00 | GBP | Core CPI (YoY) (Nov) | 5.1% | 5.5% | 5.7% |
-| 15:00 | GBP | Core PPI Output (MoM) (Nov) | 0.0% |  | 0.1% |
-| 15:00 | GBP | Core PPI Output (YoY) (Nov) | 0.2% |  | 0.4% |
-| 15:00 | GBP | Core RPI (MoM) (Nov) | -0.2% |  | -0.3% |
-| 15:00 | GBP | Core RPI (YoY) (Nov) | 4.1% |  | 4.8% |
-| 15:00 | GBP | CPI, n.s.a (Nov) | 131.70 |  | 132.00 |
-| 15:00 | GBP | PPI Input (YoY) (Nov) | -2.6% | -3.3% | -2.6% |
-| 15:00 | GBP | PPI Output (MoM) (Nov) | -0.1% | -0.1% | 0.3% |
-| 15:00 | GBP | PPI Output (YoY) (Nov) | -0.2% | -0.5% | -0.3% |
-| 15:00 | GBP | RPI (MoM) (Nov) | -0.1% | 0.3% | -0.2% |
-| 15:00 | GBP | RPI (YoY) (Nov) | 5.3% | 5.8% | 6.1% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Nov) | 0.1% |  | 2.1% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Nov) | 16.2% |  | 20.0% |
-| 15:00 | EUR | German Car Registration (MoM) (Nov) | 12.2% |  | -2.5% |
-| 15:00 | EUR | German Car Registration (YoY) (Nov) | -5.7% |  | 4.9% |
-| 15:00 | EUR | German PPI (YoY) (Nov) | -7.9% | -7.5% | -11.0% |
-| 15:00 | EUR | French Car Registration (MoM) (Nov) | 0.2% |  | -2.5% |
-| 15:00 | EUR | French Car Registration (YoY) (Nov) | 14.0% |  | 21.9% |
-| 17:00 | EUR | Current Account (Oct) | 33.8B | 27.0B | 31.2B |
-| 17:00 | EUR | Current Account n.s.a. (Oct) | 30.1B |  | 40.8B |
-| 18:00 | EUR | Construction Output (MoM) (Oct) | -0.97% |  | 0.89% |
-| 20:00 | USD | MBA 30-Year Mortgage Rate | 6.83% |  | 7.07% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) | -1.5% |  | 7.4% |
-| 20:00 | USD | MBA Purchase Index | 148.7 |  | 149.6 |
-| 20:00 | USD | Mortgage Market Index | 191.6 |  | 194.5 |
-| 20:00 | USD | Mortgage Refinance Index | 437.6 |  | 445.8 |
-| 20:00 | MXN | Retail Sales (YoY) (Oct) | 3.4% | 2.0% | 2.3% |
-| 20:00 | MXN | Retail Sales (MoM) (Oct) | 0.8% | 0.0% | -0.2% |
-| 20:00 | BRL | IBC-Br Economic Activity (Oct) | -0.06% | 0.10% | -0.06% |
-| 22:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 23:00 | EUR | Consumer Confidence (Dec) | -15.1 | -16.5 | -16.9 |
-| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.104M |
-| 16 min | USD | Crude Oil Imports |  |  | -0.423M |
-| 16 min | USD | Distillate Fuel Production |  |  | -0.083M |
-| 16 min | USD | EIA Weekly Distillates Stocks |  |  | 1.494M |
-| 16 min | USD | Gasoline Production |  |  | 0.025M |
-| 16 min | USD | Heating Oil Stockpiles |  |  | 0.832M |
-| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 16 min | USD | Gasoline Inventories |  |  | 0.408M |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -0.775B |
+| 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 05:00 | KRW | PPI (MoM) (Nov) |  |  | -0.1% |
+| 05:00 | KRW | PPI (YoY) (Nov) |  |  | 0.8% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -990.6B |
+| 08:30 | AUD | Reserve Assets Total (Nov) |  |  | 94.6B |
+| 10:00 | NZD | Credit Card Spending (YoY) |  |  | -2.9% |
+| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
+| 15:00 | GBP | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
+| 15:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
+| 15:00 | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
+| 15:00 | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
+| 15:00 | NOK | Unemployment Rate (Nov) |  |  | 3.6% |
+| 15:20 | IDR | Loans (YoY) |  |  | 8.99% |
+| 15:45 | EUR | French Business Survey (Dec) |  |  | 99 |
+| 16:00 | CHF | M3 Money Supply (Nov) |  |  | 1,132.5B |
+| 16:30 | HKD | CPI (MoM) (Nov) |  |  | 1.00% |
+| 16:30 | HKD | CPI (YoY) (Nov) |  |  | 2.70% |
+| Tentative | CNY | FDI |  |  | -9.40% |
+| 17:00 | NOK | Unemployment Change (Dec) |  |  | 68.82K |
+| 17:00 | NOK | Unemployment Rate n.s.a. (Dec) |  |  | 1.80% |
+| 17:30 | GBP | House Price Index (YoY) |  | 0.0% | -0.1% |
+| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
+| 18:00 | EUR | Italian PPI (MoM) |  |  | 1.5% |
+| Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
+| 19:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
+| 19:00 | BRL | BCB Inflation Report |  |  |  |
+| 20:00 | MXN | 1st Half-Month Core CPI (Dec) |  |  | 0.20% |
+| 20:00 | MXN | 1st Half-Month CPI (Dec) |  |  | 0.63% |
+| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| Tentative | BRL | Federal Tax Revenue |  |  | 215.60B |
+| 21:30 | USD | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
+| 21:30 | USD | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
+| 21:30 | USD | GDP Sales (Q3) |  | 3.7% | 2.1% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
+| 21:30 | USD | PCE Prices (Q3) |  | 2.8% | 2.5% |
+| 21:30 | USD | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
+| 21:30 | USD | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
+| 21:30 | USD | Philly Fed New Orders (Dec) |  |  | 1.3 |
+| 21:30 | USD | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
+| 21:30 | USD | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
+| 21:30 | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
+| 23:30 | USD | Natural Gas Storage |  |  | -55B |
