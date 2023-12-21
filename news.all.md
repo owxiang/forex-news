@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.213% |  | 4.780% |
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | Low | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 05:00 | KRW | Low | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
+| 05:00 | KRW | Low | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 2,286.1B |  | -1,079.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Low | Reserve Assets Total (Nov) | 91,918.0B |  | 94,568.0B |
@@ -26,11 +26,11 @@
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
 | 18:00 | EUR | Low | Italian PPI (MoM) | -0.9% |  | 1.5% |
 | 18:00 | EUR | Low | Italian PPI (YoY) | -12.6% |  | -9.5% |
-| 43 min | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
-| 43 min | BRL | Low | BCB Inflation Report |  |  |  |
-| 20:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.50% | 0.20% |
-| 20:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.40% | 0.63% |
-| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 19:00 | GBP | Low | CBI Distributive Trades Survey (Dec) | -32 | -12 | -11 |
+| 19:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 47 min | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.50% | 0.20% |
+| 47 min | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.40% | 0.63% |
+| 47 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,888K | 1,876K |
 | 21:30 | USD | Low | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
 | 21:30 | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |

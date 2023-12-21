@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
+| 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 07:50 | JPY | Foreign Bonds Buying | 2,286.1B |  | -1,079.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Reserve Assets Total (Nov) | 91,918.0B |  | 94,568.0B |
@@ -24,11 +24,11 @@
 | 17:00 | NOK | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
 | 18:00 | EUR | Italian PPI (MoM) | -0.9% |  | 1.5% |
 | 18:00 | EUR | Italian PPI (YoY) | -12.6% |  | -9.5% |
-| 43 min | GBP | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
-| 43 min | BRL | BCB Inflation Report |  |  |  |
-| 20:00 | MXN | 1st Half-Month Core CPI (Dec) |  | 0.50% | 0.20% |
-| 20:00 | MXN | 1st Half-Month CPI (Dec) |  | 0.40% | 0.63% |
-| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 19:00 | GBP | CBI Distributive Trades Survey (Dec) | -32 | -12 | -11 |
+| 19:00 | BRL | BCB Inflation Report |  |  |  |
+| 47 min | MXN | 1st Half-Month Core CPI (Dec) |  | 0.50% | 0.20% |
+| 47 min | MXN | 1st Half-Month CPI (Dec) |  | 0.40% | 0.63% |
+| 47 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 21:30 | USD | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
 | 21:30 | USD | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
 | 21:30 | USD | GDP Sales (Q3) |  | 3.7% | 2.1% |
