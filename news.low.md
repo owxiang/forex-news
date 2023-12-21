@@ -5,11 +5,11 @@
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
 | 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | -1,080.0B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -990.6B |
-| 08:30 | AUD | Reserve Assets Total (Nov) |  |  | 94.6B |
-| 10:00 | NZD | Credit Card Spending (YoY) |  |  | -2.9% |
-| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:50 | JPY | Foreign Bonds Buying | 2,286.1B |  | -1,079.5B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
+| 08:30 | AUD | Reserve Assets Total (Nov) | 91,918.0B |  | 94,568.0B |
+| 50 min | NZD | Credit Card Spending (YoY) |  |  | -2.9% |
+| 50 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
 | 15:00 | GBP | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
 | 15:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
