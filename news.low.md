@@ -9,7 +9,7 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Reserve Assets Total (Nov) | 91,918.0B |  | 94,568.0B |
 | 10:00 | NZD | Credit Card Spending (YoY) | 3.3% |  | -2.8% |
-| 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
+| 44 min | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
 | 15:00 | GBP | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
 | 15:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
 | 15:00 | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
@@ -24,8 +24,8 @@
 | 17:00 | NOK | Unemployment Change (Dec) |  |  | 68.82K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Dec) |  | 1.90% | 1.80% |
 | 17:30 | GBP | House Price Index (YoY) |  | 0.0% | -0.1% |
-| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
 | 18:00 | EUR | Italian PPI (MoM) |  |  | 1.5% |
+| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
 | 19:00 | BRL | BCB Inflation Report |  |  |  |
