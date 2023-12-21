@@ -1,43 +1,44 @@
-## 21 December 2023 - Low Impact Forex News
+## 22 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
-| 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
-| 07:50 | JPY | Foreign Bonds Buying | 2,286.1B |  | -1,079.5B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
-| 08:30 | AUD | Reserve Assets Total (Nov) | 91.9B |  | 94.6B |
-| 10:00 | NZD | Credit Card Spending (YoY) | 3.3% |  | -2.8% |
-| 15:00 | GBP | Public Sector Net Borrowing (Nov) | 13.41B | 11.90B | 15.10B |
-| 15:00 | GBP | Public Sector Net Cash Requirement (Nov) | 12.453B |  | 11.808B |
-| 15:00 | IDR | Deposit Facility Rate (Dec) | 5.25% | 5.25% | 5.25% |
-| 15:00 | IDR | Lending Facility Rate (Dec) | 6.75% | 6.75% | 6.75% |
-| 15:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 3.7% |
-| 15:20 | IDR | Loans (YoY) (Nov) | 9.74% |  | 8.99% |
-| 15:45 | EUR | French Business Survey (Dec) | 100 | 98 | 99 |
-| 16:00 | CHF | M3 Money Supply (Nov) | 1,132.5B |  | 1,132.0B |
-| 16:30 | HKD | CPI (MoM) (Nov) | 0.00% |  | 1.00% |
-| 16:30 | HKD | CPI (YoY) (Nov) | 2.60% | 2.70% | 2.70% |
-| 17:00 | CNY | FDI (Nov) | -10.00% |  | -9.40% |
-| 17:00 | NOK | Unemployment Change (Dec) | 69.46K |  | 68.82K |
-| 17:00 | NOK | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
-| 18:00 | EUR | Italian PPI (MoM) | -0.9% |  | 1.5% |
-| 18:00 | EUR | Italian PPI (YoY) | -12.6% |  | -9.5% |
-| 19:00 | GBP | CBI Distributive Trades Survey (Dec) | -32 | -12 | -11 |
-| 19:00 | BRL | BCB Inflation Report |  |  |  |
-| 20:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.46% | 0.50% | 0.20% |
-| 20:00 | MXN | 1st Half-Month CPI (Dec) | 0.52% | 0.40% | 0.63% |
-| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 21:30 | USD | Core PCE Prices (Q3) | 2.00% | 2.30% | 3.70% |
-| 21:30 | USD | Corporate Profits (QoQ) (Q3) | 3.7% | 4.1% | 0.5% |
-| 21:30 | USD | GDP Sales (Q3) | 3.6% | 3.7% | 2.1% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 212.00K |  | 213.50K |
-| 21:30 | USD | PCE Prices (Q3) | 2.6% | 2.8% | 2.5% |
-| 21:30 | USD | Philly Fed Business Conditions (Dec) | 12.1 |  | -2.1 |
-| 21:30 | USD | Philly Fed CAPEX Index (Dec) | -7.50 |  | -1.30 |
-| 21:30 | USD | Philly Fed New Orders (Dec) | -25.6 |  | 1.3 |
-| 21:30 | USD | Philly Fed Prices Paid (Dec) | 25.10 |  | 14.80 |
-| 21:30 | USD | Real Consumer Spending (Q3) | 3.1% | 3.6% | 3.6% |
-| 21:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 4.03% |  | 3.92% |
-| 14 min | USD | Natural Gas Storage |  | -82B | -55B |
+| 00:00 | USD | KC Fed Composite Index (Dec) | -1 |  | -2 |
+| 00:00 | USD | KC Fed Manufacturing Index (Dec) | -4 |  | -3 |
+| 9 min | USD | 4-Week Bill Auction |  |  | 5.270% |
+| 9 min | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -0.775B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.568T |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.9% |
+| 07:30 | JPY | National CPI (YoY) (Nov) |  |  | 3.3% |
+| 08:30 | AUD | Housing Credit (Nov) |  |  | 0.4% |
+| 08:30 | AUD | Private Sector Credit (MoM) (Nov) |  |  | 0.3% |
+| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
+| 15:00 | GBP | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
+| 15:00 | EUR | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |
+| 15:00 | EUR | German Import Price Index (YoY) (Nov) |  |  | -13.0% |
+| 15:00 | NOK | M3 Money Supply (Nov) |  |  | 3,089.8B |
+| 15:00 | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.7% |
+| 15:45 | EUR | French Consumer Confidence (Dec) |  |  | 87 |
+| 15:45 | EUR | French PPI (MoM) (Nov) |  |  | 0.0% |
+| 15:45 | EUR | PPI (YoY) (Nov) |  |  | -1.20% |
+| 16:00 | EUR | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
+| 17:00 | EUR | Italian Business Confidence (Dec) |  |  | 96.6 |
+| 17:00 | EUR | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
+| 18:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
+| 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
+| 19:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
+| 19:30 | INR | FX Reserves, USD |  |  | 606.86B |
+| 19:30 | BRL | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
+| 19:30 | BRL | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
+| 20:00 | MXN | Economic Activity (MoM) (Oct) |  | 0.20% | 0.60% |
+| 20:00 | MXN | Economic Activity (YoY) (Oct) |  | 4.10% | 3.30% |
+| 20:00 | MXN | Trade Balance (Nov) |  | 0.404B | -0.252B |
+| 20:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.314B |
+| 20:00 | BRL | FGV Consumer confidence (Dec) |  |  | 93.0 |
+| 21:30 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
+| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
+| 21:30 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |
+| 21:30 | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.2% |
+| 22:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.70% |
+| 23:00 | USD | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
