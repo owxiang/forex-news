@@ -9,22 +9,22 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Reserve Assets Total (Nov) | 91,918.0B |  | 94,568.0B |
 | 10:00 | NZD | Credit Card Spending (YoY) | 3.3% |  | -2.8% |
-| 39 min | GBP | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
-| 39 min | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
-| 39 min | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
-| 39 min | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
-| 39 min | NOK | Unemployment Rate (Nov) |  |  | 3.6% |
-| 59 min | IDR | Loans (YoY) |  |  | 8.99% |
-| 15:45 | EUR | French Business Survey (Dec) |  | 98 | 99 |
-| 16:00 | CHF | M3 Money Supply (Nov) |  |  | 1,132.5B |
+| 15:00 | GBP | Public Sector Net Borrowing (Nov) | 13.41B | 11.90B | 15.10B |
+| 15:00 | GBP | Public Sector Net Cash Requirement (Nov) | 12.453B |  | 11.808B |
+| 15:00 | NOK | Unemployment Rate (Nov) | 3.7% |  | 3.7% |
+| 5 min | IDR | Loans (YoY) |  |  | 8.99% |
+| 15 min | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
+| 15 min | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
+| 30 min | EUR | French Business Survey (Dec) |  | 98 | 99 |
+| 45 min | CHF | M3 Money Supply (Nov) |  |  | 1,132.5B |
 | 16:30 | HKD | CPI (MoM) (Nov) |  |  | 1.00% |
 | 16:30 | HKD | CPI (YoY) (Nov) |  | 2.70% | 2.70% |
 | Tentative | CNY | FDI |  |  | -9.40% |
 | 17:00 | NOK | Unemployment Change (Dec) |  |  | 68.82K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Dec) |  | 1.90% | 1.80% |
 | 17:30 | GBP | House Price Index (YoY) |  | 0.0% | -0.1% |
-| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
 | 18:00 | EUR | Italian PPI (MoM) |  |  | 1.5% |
+| 18:00 | EUR | Italian PPI (YoY) |  |  | -9.5% |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:00 | GBP | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
 | 19:00 | BRL | BCB Inflation Report |  |  |  |
