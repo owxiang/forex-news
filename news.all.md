@@ -24,12 +24,10 @@
 | 17:00 | CNY | Low | FDI (Nov) | -10.00% |  | -9.40% |
 | 17:00 | NOK | Low | Unemployment Change (Dec) | 69.46K |  | 68.82K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
-| 15 min | GBP | Low | House Price Index (YoY) |  | 0.0% | -0.1% |
-| 45 min | EUR | Low | Italian PPI (YoY) |  |  | -9.5% |
-| 45 min | EUR | Low | Italian PPI (MoM) |  |  | 1.5% |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
-| 19:00 | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
-| 19:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 18:00 | EUR | Low | Italian PPI (MoM) | -0.9% |  | 1.5% |
+| 18:00 | EUR | Low | Italian PPI (YoY) | -12.6% |  | -9.5% |
+| 43 min | GBP | Low | CBI Distributive Trades Survey (Dec) |  | -12 | -11 |
+| 43 min | BRL | Low | BCB Inflation Report |  |  |  |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Dec) |  | 0.50% | 0.20% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Dec) |  | 0.40% | 0.63% |
 | 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
