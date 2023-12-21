@@ -22,22 +22,22 @@
 | 17:00 | CNY | FDI (Nov) | -10.00% |  | -9.40% |
 | 17:00 | NOK | Unemployment Change (Dec) | 69.46K |  | 68.82K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
-| 18:00 | EUR | Italian PPI (MoM) | -0.9% |  | 1.5% |
 | 18:00 | EUR | Italian PPI (YoY) | -12.6% |  | -9.5% |
+| 18:00 | EUR | Italian PPI (MoM) | -0.9% |  | 1.5% |
 | 19:00 | GBP | CBI Distributive Trades Survey (Dec) | -32 | -12 | -11 |
 | 19:00 | BRL | BCB Inflation Report |  |  |  |
 | 20:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.46% | 0.50% | 0.20% |
 | 20:00 | MXN | 1st Half-Month CPI (Dec) | 0.52% | 0.40% | 0.63% |
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 11 min | USD | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
-| 11 min | USD | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
-| 11 min | USD | GDP Sales (Q3) |  | 3.7% | 2.1% |
-| 11 min | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
-| 11 min | USD | PCE Prices (Q3) |  | 2.8% | 2.5% |
-| 11 min | USD | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
-| 11 min | USD | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
-| 11 min | USD | Philly Fed New Orders (Dec) |  |  | 1.3 |
-| 11 min | USD | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
-| 11 min | USD | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
-| 11 min | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
+| 21:30 | USD | Core PCE Prices (Q3) | 2.00% | 2.30% | 3.70% |
+| 21:30 | USD | Corporate Profits (QoQ) (Q3) | 3.7% | 4.1% | 0.5% |
+| 21:30 | USD | GDP Sales (Q3) | 3.6% | 3.7% | 2.1% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. | 212.00K |  | 213.50K |
+| 21:30 | USD | PCE Prices (Q3) | 2.6% | 2.8% | 2.5% |
+| 21:30 | USD | Philly Fed Business Conditions (Dec) | 12.1 |  | -2.1 |
+| 21:30 | USD | Philly Fed CAPEX Index (Dec) | -7.50 |  | -1.30 |
+| 21:30 | USD | Philly Fed New Orders (Dec) | -25.6 |  | 1.3 |
+| 21:30 | USD | Philly Fed Prices Paid (Dec) | 25.10 |  | 14.80 |
+| 21:30 | USD | Real Consumer Spending (Q3) | 3.1% | 3.6% | 3.6% |
+| 21:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 4.00% |  | 4.00% |
 | 23:30 | USD | Natural Gas Storage |  | -82B | -55B |

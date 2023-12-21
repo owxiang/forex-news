@@ -2,6 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11 min | USD | GDP (QoQ) (Q3) |  | 5.2% | 2.1% |
-| 11 min | USD | Initial Jobless Claims |  | 214K | 202K |
-| 11 min | USD | Philadelphia Fed Manufacturing Index (Dec) |  | -3.0 | -5.9 |
+| 21:30 | USD | GDP (QoQ) (Q3) | 4.9% | 5.2% | 2.1% |
+| 21:30 | USD | Initial Jobless Claims | 205K | 214K | 203K |
+| 21:30 | USD | Philadelphia Fed Manufacturing Index (Dec) | -10.5 | -3.0 | -5.9 |
