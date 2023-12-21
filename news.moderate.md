@@ -17,8 +17,8 @@
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 21:30 | USD | Building Permits (MoM) |  | -2.5% | 1.8% |
 | 21:30 | USD | Durable Goods Orders (MoM) (Nov) |  | 1.7% | -5.4% |
-| 21:30 | USD | PCE price index (MoM) (Nov) |  | 0.0% | 0.0% |
 | 21:30 | USD | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
+| 21:30 | USD | PCE price index (MoM) (Nov) |  | 0.0% | 0.0% |
 | 21:30 | USD | Personal Spending (MoM) (Nov) |  | 0.2% | 0.2% |
 | 21:30 | CAD | GDP (MoM) (Oct) |  | 0.2% | 0.1% |
 | 21:30 | CAD | Wholesale Sales (MoM) |  |  | -0.5% |
