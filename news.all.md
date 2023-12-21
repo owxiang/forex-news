@@ -9,8 +9,8 @@
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -2.279B |  | -0.775B |
 | 02:00 | USD | Moderate | 5-Year TIPS Auction | 1.710% |  | 2.440% |
-| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,740B |
-| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.568T |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,740B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.568T |
 | 07:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.9% |
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 2.5% | 2.9% |
 | 07:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 3.3% |
@@ -35,8 +35,8 @@
 | 15:45 | EUR | Low | French Consumer Confidence (Dec) |  |  | 87 |
 | 15:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -1.20% |
 | 15:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
-| 16:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
 | 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
+| 16:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
 | 17:00 | EUR | Low | Italian Business Confidence (Dec) |  |  | 96.6 |
 | 17:00 | EUR | Low | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
@@ -73,5 +73,5 @@
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 66.4 | 56.8 |
 | 23:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 69.4 | 61.3 |
 | 23:00 | USD | Low | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
-| 23:00 | USD | High | New Home Sales (Nov) |  | 695K | 679K |
 | 23:00 | USD | Moderate | New Home Sales (MoM) (Nov) |  |  | -5.6% |
+| 23:00 | USD | High | New Home Sales (Nov) |  | 695K | 679K |

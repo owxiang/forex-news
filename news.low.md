@@ -7,7 +7,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.265% |  | 5.270% |
 | 00:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | -2.279B |  | -0.775B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.568T |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.568T |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.9% |
 | 07:30 | JPY | National CPI (YoY) (Nov) |  |  | 3.3% |
 | 08:30 | AUD | Housing Credit (Nov) |  |  | 0.4% |
