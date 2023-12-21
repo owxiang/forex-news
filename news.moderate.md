@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 02:00 | USD | 5-Year TIPS Auction | 1.710% |  | 2.440% |
-| 16 min | USD | Fed's Balance Sheet |  |  | 7,740B |
+| 05:30 | USD | Fed's Balance Sheet | 7,724B |  | 7,740B |
 | 07:30 | JPY | National Core CPI (YoY) (Nov) |  | 2.5% | 2.9% |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | GBP | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |

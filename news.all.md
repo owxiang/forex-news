@@ -9,8 +9,8 @@
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -2.279B |  | -0.775B |
 | 02:00 | USD | Moderate | 5-Year TIPS Auction | 1.710% |  | 2.440% |
-| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,740B |
-| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.568T |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,724B |  | 7,740B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.477T |  | 3.568T |
 | 07:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.9% |
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 2.5% | 2.9% |
 | 07:30 | JPY | Low | National CPI (YoY) (Nov) |  |  | 3.3% |
@@ -19,13 +19,13 @@
 | 08:30 | AUD | Low | Private Sector Credit (MoM) (Nov) |  |  | 0.3% |
 | 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
-| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
+| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  |  | -2.4% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.1% |
 | 15:00 | GBP | Moderate | Current Account (Q3) |  | -13.1B | -25.3B |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | 0.0% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.6% | 0.6% |
+| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | 0.0% | 0.2% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Nov) |  | -1.8% | -2.7% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.4% | -0.3% |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |
@@ -33,15 +33,15 @@
 | 15:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,089.8B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.7% |
 | 15:45 | EUR | Low | French Consumer Confidence (Dec) |  |  | 87 |
-| 15:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -1.20% |
 | 15:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
-| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
+| 15:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -1.20% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
+| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
 | 17:00 | EUR | Low | Italian Business Confidence (Dec) |  |  | 96.6 |
 | 17:00 | EUR | Low | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
-| 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
 | 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
+| 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 606.86B |
 | 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
@@ -73,5 +73,5 @@
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 66.4 | 56.8 |
 | 23:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 69.4 | 61.3 |
 | 23:00 | USD | Low | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
-| 23:00 | USD | Moderate | New Home Sales (MoM) (Nov) |  |  | -5.6% |
 | 23:00 | USD | High | New Home Sales (Nov) |  | 695K | 679K |
+| 23:00 | USD | Moderate | New Home Sales (MoM) (Nov) |  |  | -5.6% |
