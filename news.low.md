@@ -9,12 +9,12 @@
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Reserve Assets Total (Nov) | 91,918.0B |  | 94,568.0B |
 | 10:00 | NZD | Credit Card Spending (YoY) | 3.3% |  | -2.8% |
-| 15:00 | GBP | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
-| 15:00 | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
-| 15:00 | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
-| 15:00 | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
-| 15:00 | NOK | Unemployment Rate (Nov) |  |  | 3.6% |
-| 15:20 | IDR | Loans (YoY) |  |  | 8.99% |
+| 39 min | GBP | Public Sector Net Borrowing (Nov) |  | 11.90B | 13.97B |
+| 39 min | GBP | Public Sector Net Cash Requirement (Nov) |  |  | 13.329B |
+| 39 min | IDR | Deposit Facility Rate (Dec) |  | 5.25% | 5.25% |
+| 39 min | IDR | Lending Facility Rate (Dec) |  | 6.75% | 6.75% |
+| 39 min | NOK | Unemployment Rate (Nov) |  |  | 3.6% |
+| 59 min | IDR | Loans (YoY) |  |  | 8.99% |
 | 15:45 | EUR | French Business Survey (Dec) |  | 98 | 99 |
 | 16:00 | CHF | M3 Money Supply (Nov) |  |  | 1,132.5B |
 | 16:30 | HKD | CPI (MoM) (Nov) |  |  | 1.00% |
