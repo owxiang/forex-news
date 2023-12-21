@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.213% |  | 4.780% |
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | Low | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 05:00 | KRW | Low | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
+| 05:00 | KRW | Low | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 2,286.1B |  | -1,079.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Low | Reserve Assets Total (Nov) | 91.9B |  | 94.6B |
@@ -24,8 +24,8 @@
 | 17:00 | CNY | Low | FDI (Nov) | -10.00% |  | -9.40% |
 | 17:00 | NOK | Low | Unemployment Change (Dec) | 69.46K |  | 68.82K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
-| 18:00 | EUR | Low | Italian PPI (YoY) | -12.6% |  | -9.5% |
 | 18:00 | EUR | Low | Italian PPI (MoM) | -0.9% |  | 1.5% |
+| 18:00 | EUR | Low | Italian PPI (YoY) | -12.6% |  | -9.5% |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Dec) | -32 | -12 | -11 |
 | 19:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Dec) | 0.46% | 0.50% | 0.20% |
@@ -47,8 +47,8 @@
 | 21:30 | USD | Low | Philly Fed New Orders (Dec) | -25.6 |  | 1.3 |
 | 21:30 | USD | Low | Philly Fed Prices Paid (Dec) | 25.10 |  | 14.80 |
 | 21:30 | USD | Low | Real Consumer Spending (Q3) | 3.1% | 3.6% | 3.6% |
-| 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 4.00% |  | 4.00% |
+| 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Oct) | 4.03% |  | 3.92% |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Oct) | 0.6% | 0.5% | 0.1% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Oct) | 0.7% | 0.8% | 0.5% |
-| 45 min | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.4% | -0.8% |
-| 23:30 | USD | Low | Natural Gas Storage |  | -82B | -55B |
+| 23:00 | USD | Moderate | US Leading Index (MoM) (Nov) | -0.5% | -0.4% | -1.0% |
+| 14 min | USD | Low | Natural Gas Storage |  | -82B | -55B |

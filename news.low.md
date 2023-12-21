@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 05:00 | KRW | PPI (YoY) (Nov) | 0.6% |  | 0.8% |
+| 05:00 | KRW | PPI (MoM) (Nov) | -0.4% |  | -0.1% |
 | 07:50 | JPY | Foreign Bonds Buying | 2,286.1B |  | -1,079.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 273.8B |  | -992.0B |
 | 08:30 | AUD | Reserve Assets Total (Nov) | 91.9B |  | 94.6B |
@@ -22,8 +22,8 @@
 | 17:00 | CNY | FDI (Nov) | -10.00% |  | -9.40% |
 | 17:00 | NOK | Unemployment Change (Dec) | 69.46K |  | 68.82K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Dec) | 1.90% | 1.90% | 1.80% |
-| 18:00 | EUR | Italian PPI (YoY) | -12.6% |  | -9.5% |
 | 18:00 | EUR | Italian PPI (MoM) | -0.9% |  | 1.5% |
+| 18:00 | EUR | Italian PPI (YoY) | -12.6% |  | -9.5% |
 | 19:00 | GBP | CBI Distributive Trades Survey (Dec) | -32 | -12 | -11 |
 | 19:00 | BRL | BCB Inflation Report |  |  |  |
 | 20:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.46% | 0.50% | 0.20% |
@@ -39,5 +39,5 @@
 | 21:30 | USD | Philly Fed New Orders (Dec) | -25.6 |  | 1.3 |
 | 21:30 | USD | Philly Fed Prices Paid (Dec) | 25.10 |  | 14.80 |
 | 21:30 | USD | Real Consumer Spending (Q3) | 3.1% | 3.6% | 3.6% |
-| 21:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 4.00% |  | 4.00% |
-| 23:30 | USD | Natural Gas Storage |  | -82B | -55B |
+| 21:30 | CAD | Average Weekly Earnings (YoY) (Oct) | 4.03% |  | 3.92% |
+| 14 min | USD | Natural Gas Storage |  | -82B | -55B |

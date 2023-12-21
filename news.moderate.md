@@ -9,4 +9,4 @@
 | 21:30 | USD | Philly Fed Employment (Dec) | -1.7 |  | 0.8 |
 | 21:30 | CAD | Core Retail Sales (MoM) (Oct) | 0.6% | 0.5% | 0.1% |
 | 21:30 | CAD | Retail Sales (MoM) (Oct) | 0.7% | 0.8% | 0.5% |
-| 45 min | USD | US Leading Index (MoM) (Nov) |  | -0.4% | -0.8% |
+| 23:00 | USD | US Leading Index (MoM) (Nov) | -0.5% | -0.4% | -1.0% |
