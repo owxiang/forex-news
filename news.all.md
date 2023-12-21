@@ -31,24 +31,24 @@
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Dec) | 0.46% | 0.50% | 0.20% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Dec) | 0.52% | 0.40% | 0.63% |
 | 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 58 min | USD | Moderate | Continuing Jobless Claims |  | 1,888K | 1,876K |
-| 58 min | USD | Low | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
-| 58 min | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
-| 58 min | USD | High | GDP (QoQ) (Q3) |  | 5.2% | 2.1% |
-| 58 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
-| 58 min | USD | Low | GDP Sales (Q3) |  | 3.7% | 2.1% |
-| 58 min | USD | High | Initial Jobless Claims |  | 214K | 202K |
-| 58 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.25K |
-| 58 min | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.5% |
-| 58 min | USD | High | Philadelphia Fed Manufacturing Index (Dec) |  | -3.0 | -5.9 |
-| 58 min | USD | Low | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
-| 58 min | USD | Low | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
-| 58 min | USD | Moderate | Philly Fed Employment (Dec) |  |  | 0.8 |
-| 58 min | USD | Low | Philly Fed New Orders (Dec) |  |  | 1.3 |
-| 58 min | USD | Low | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
-| 58 min | USD | Low | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
-| 58 min | CAD | Low | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
-| 58 min | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.5% | 0.2% |
-| 58 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | 0.6% |
+| 11 min | USD | Moderate | Continuing Jobless Claims |  | 1,888K | 1,876K |
+| 11 min | USD | Low | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
+| 11 min | USD | Low | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
+| 11 min | USD | High | GDP (QoQ) (Q3) |  | 5.2% | 2.1% |
+| 11 min | USD | Moderate | GDP Price Index (QoQ) (Q3) |  | 3.5% | 1.7% |
+| 11 min | USD | Low | GDP Sales (Q3) |  | 3.7% | 2.1% |
+| 11 min | USD | High | Initial Jobless Claims |  | 214K | 202K |
+| 11 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.25K |
+| 11 min | USD | Low | PCE Prices (Q3) |  | 2.8% | 2.5% |
+| 11 min | USD | High | Philadelphia Fed Manufacturing Index (Dec) |  | -3.0 | -5.9 |
+| 11 min | USD | Low | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
+| 11 min | USD | Low | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
+| 11 min | USD | Moderate | Philly Fed Employment (Dec) |  |  | 0.8 |
+| 11 min | USD | Low | Philly Fed New Orders (Dec) |  |  | 1.3 |
+| 11 min | USD | Low | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
+| 11 min | USD | Low | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
+| 11 min | CAD | Low | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
+| 11 min | CAD | Moderate | Core Retail Sales (MoM) (Oct) |  | 0.5% | 0.2% |
+| 11 min | CAD | Moderate | Retail Sales (MoM) (Oct) |  |  | 0.6% |
 | 23:00 | USD | Moderate | US Leading Index (MoM) (Nov) |  | -0.4% | -0.8% |
 | 23:30 | USD | Low | Natural Gas Storage |  | -82B | -55B |

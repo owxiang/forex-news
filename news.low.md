@@ -29,15 +29,15 @@
 | 20:00 | MXN | 1st Half-Month Core CPI (Dec) | 0.46% | 0.50% | 0.20% |
 | 20:00 | MXN | 1st Half-Month CPI (Dec) | 0.52% | 0.40% | 0.63% |
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 58 min | USD | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
-| 58 min | USD | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
-| 58 min | USD | GDP Sales (Q3) |  | 3.7% | 2.1% |
-| 58 min | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
-| 58 min | USD | PCE Prices (Q3) |  | 2.8% | 2.5% |
-| 58 min | USD | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
-| 58 min | USD | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
-| 58 min | USD | Philly Fed New Orders (Dec) |  |  | 1.3 |
-| 58 min | USD | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
-| 58 min | USD | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
-| 58 min | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
+| 11 min | USD | Core PCE Prices (Q3) |  | 2.30% | 3.70% |
+| 11 min | USD | Corporate Profits (QoQ) (Q3) |  | 4.1% | 0.5% |
+| 11 min | USD | GDP Sales (Q3) |  | 3.7% | 2.1% |
+| 11 min | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
+| 11 min | USD | PCE Prices (Q3) |  | 2.8% | 2.5% |
+| 11 min | USD | Philly Fed Business Conditions (Dec) |  |  | -2.1 |
+| 11 min | USD | Philly Fed CAPEX Index (Dec) |  |  | -1.30 |
+| 11 min | USD | Philly Fed New Orders (Dec) |  |  | 1.3 |
+| 11 min | USD | Philly Fed Prices Paid (Dec) |  |  | 14.80 |
+| 11 min | USD | Real Consumer Spending (Q3) |  | 3.6% | 3.6% |
+| 11 min | CAD | Average Weekly Earnings (YoY) (Oct) |  |  | 4.00% |
 | 23:30 | USD | Natural Gas Storage |  | -82B | -55B |
