@@ -8,8 +8,8 @@
 | 07:30 | JPY | National Core CPI (YoY) (Nov) |  | 2.5% | 2.9% |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | GBP | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |
-| 15:00 | GBP | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.1% |
 | 15:00 | GBP | Core Retail Sales (YoY) (Nov) |  |  | -2.4% |
+| 15:00 | GBP | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.1% |
 | 15:00 | GBP | Current Account (Q3) |  | -13.1B | -25.3B |
 | 15:00 | GBP | Retail Sales (YoY) (Nov) |  | -1.8% | -2.7% |
 | 15:00 | GBP | Retail Sales (MoM) (Nov) |  | 0.4% | -0.3% |
@@ -17,8 +17,8 @@
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 21:30 | USD | Building Permits (MoM) |  | -2.5% | 1.8% |
 | 21:30 | USD | Durable Goods Orders (MoM) (Nov) |  | 1.7% | -5.4% |
-| 21:30 | USD | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
 | 21:30 | USD | PCE price index (MoM) (Nov) |  | 0.0% | 0.0% |
+| 21:30 | USD | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
 | 21:30 | USD | Personal Spending (MoM) (Nov) |  | 0.2% | 0.2% |
 | 21:30 | CAD | GDP (MoM) (Oct) |  | 0.2% | 0.1% |
 | 21:30 | CAD | Wholesale Sales (MoM) |  |  | -0.5% |
