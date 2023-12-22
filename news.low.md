@@ -13,15 +13,15 @@
 | 08:30 | AUD | Housing Credit (Nov) | 0.4% |  | 0.4% |
 | 08:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.4% |  | 0.3% |
 | 12:00 | IDR | M2 Money Supply (YoY) (Nov) | 3.30% |  | 3.40% |
-| 39 min | GBP | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
-| 39 min | EUR | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |
-| 39 min | EUR | German Import Price Index (YoY) (Nov) |  |  | -13.0% |
-| 39 min | NOK | M3 Money Supply (Nov) |  |  | 3,089.8B |
-| 39 min | NOK | Credit Indicator (YoY) (Nov) |  |  | 3.7% |
-| 15:45 | EUR | French Consumer Confidence (Dec) |  |  | 87 |
-| 15:45 | EUR | PPI (YoY) (Nov) |  |  | -1.20% |
-| 15:45 | EUR | French PPI (MoM) (Nov) |  |  | 0.0% |
-| 16:00 | EUR | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
+| 15:00 | GBP | Business Investment (YoY) (Q3) | 2.3% | 2.8% | 8.0% |
+| 15:00 | EUR | German Import Price Index (MoM) (Nov) | -0.1% | -0.4% | 0.3% |
+| 15:00 | EUR | German Import Price Index (YoY) (Nov) | -9.0% |  | -13.0% |
+| 15:00 | NOK | M3 Money Supply (Nov) | 3,129.7B |  | 3,089.8B |
+| 15:00 | NOK | Credit Indicator (YoY) (Nov) | 3.7% |  | 3.7% |
+| 30 min | EUR | French Consumer Confidence (Dec) |  |  | 87 |
+| 30 min | EUR | PPI (YoY) (Nov) |  |  | -1.20% |
+| 30 min | EUR | French PPI (MoM) (Nov) |  |  | 0.0% |
+| 45 min | EUR | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
 | 17:00 | EUR | Italian Business Confidence (Dec) |  |  | 96.6 |
 | 17:00 | EUR | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
