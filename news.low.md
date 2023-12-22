@@ -33,9 +33,9 @@
 | 20:00 | MXN | Economic Activity (MoM) (Oct) | -0.10% | 0.20% | 0.60% |
 | 20:00 | MXN | Trade Balance (Nov) | 0.630B | 0.404B | -0.252B |
 | 20:00 | MXN | Trade Balance (USD) (Nov) | 0.030B |  | 0.242B |
-| 21:30 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
-| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
-| 21:30 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |
-| 21:30 | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.2% |
-| 22:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.70% |
+| 12 min | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
+| 12 min | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
+| 12 min | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |
+| 12 min | USD | Real Personal Consumption (MoM) (Nov) |  |  | 0.2% |
+| 42 min | USD | Dallas Fed PCE (Nov) |  |  | 2.70% |
 | 23:00 | USD | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
