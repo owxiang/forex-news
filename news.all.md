@@ -20,8 +20,8 @@
 | 12:00 | IDR | Low | M2 Money Supply (YoY) (Nov) | 3.30% |  | 3.40% |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -3.2% | -4.2% | 1.4% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) | 2.3% | 2.8% | 8.0% |
-| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | 1.3% | 0.0% | 0.2% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 0.3% |  | -2.1% |
+| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | 1.3% | 0.0% | 0.2% |
 | 15:00 | GBP | Moderate | Current Account (Q3) | -17.2B | -13.1B | -24.0B |
 | 15:00 | GBP | High | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) | 0.3% | 0.6% | 0.6% |
@@ -34,8 +34,8 @@
 | 15:45 | EUR | Low | French Consumer Confidence (Dec) | 89 |  | 88 |
 | 15:45 | EUR | Low | PPI (YoY) (Nov) | 0.30% |  | -1.40% |
 | 15:45 | EUR | Low | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
-| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.3% | 0.5% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 1.8% | 1.8% | 2.2% |
+| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.3% | 0.5% |
 | 17:00 | EUR | Low | Italian Business Confidence (Dec) | 95.4 |  | 96.6 |
 | 17:00 | EUR | Low | Italian Consumer Confidence (Dec) | 106.7 | 103.8 | 103.6 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) | 6.22B |  | 5.37B |
@@ -48,27 +48,27 @@
 | 20:00 | MXN | Low | Economic Activity (MoM) (Oct) | -0.10% | 0.20% | 0.60% |
 | 20:00 | MXN | Low | Trade Balance (Nov) | 0.630B | 0.404B | -0.252B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Nov) | 0.030B |  | 0.242B |
-| 12 min | USD | Moderate | Building Permits (MoM) |  | -2.5% | 1.8% |
-| 12 min | USD | High | Building Permits |  | 1.460M | 1.498M |
-| 12 min | USD | High | Core Durable Goods Orders (MoM) (Nov) |  | 0.2% | 0.0% |
-| 12 min | USD | High | Core PCE Price Index (YoY) (Nov) |  | 3.4% | 3.5% |
-| 12 min | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |
-| 12 min | USD | Moderate | Durable Goods Orders (MoM) (Nov) |  | 1.7% | -5.4% |
-| 12 min | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
-| 12 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
-| 12 min | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
-| 12 min | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.0% | 0.0% |
-| 12 min | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |
-| 12 min | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.2% | 0.2% |
-| 12 min | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.2% |
-| 12 min | CAD | Moderate | GDP (MoM) (Oct) |  | 0.2% | 0.1% |
-| 12 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | -0.5% |
-| 17 min | CAD | Moderate | GDP (MoM) |  |  |  |
-| 42 min | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.70% |
-| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 3.1% | 4.5% |
-| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 2.8% | 3.2% |
-| 23:00 | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 66.4 | 56.8 |
-| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 69.4 | 61.3 |
-| 23:00 | USD | Low | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
-| 23:00 | USD | High | New Home Sales (Nov) |  | 695K | 679K |
-| 23:00 | USD | Moderate | New Home Sales (MoM) (Nov) |  |  | -5.6% |
+| 20:30 | USD | Low | Building Permits (MoM) (Nov) | -2.1% | -2.5% | 1.8% |
+| 20:30 | USD | Moderate | Building Permits (Nov) | 1.467M | 1.460M | 1.498M |
+| 21:30 | USD | High | Core Durable Goods Orders (MoM) (Nov) | 0.5% | 0.2% | -0.3% |
+| 21:30 | USD | High | Core PCE Price Index (MoM) (Nov) | 0.1% | 0.2% | 0.1% |
+| 21:30 | USD | High | Core PCE Price Index (YoY) (Nov) | 3.2% | 3.3% | 3.4% |
+| 21:30 | USD | Moderate | Durable Goods Orders (MoM) (Nov) | 5.4% | 1.7% | -5.1% |
+| 21:30 | USD | Low | Durables Excluding Defense (MoM) (Nov) | 6.5% |  | -6.4% |
+| 21:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Nov) | 0.8% | 0.2% | -0.6% |
+| 21:30 | USD | Moderate | PCE price index (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
+| 21:30 | USD | Moderate | PCE Price index (YoY) (Nov) | 2.6% | 2.8% | 2.9% |
+| 21:30 | USD | Low | Personal Income (MoM) (Nov) | 0.4% | 0.4% | 0.3% |
+| 21:30 | USD | Moderate | Personal Spending (MoM) (Nov) | 0.2% | 0.2% | 0.1% |
+| 21:30 | USD | Low | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
+| 21:30 | CAD | Moderate | GDP (MoM) (Oct) | 0.0% | 0.2% | 0.1% |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) | 0.8% |  | -0.5% |
+| 21:35 | CAD | Moderate | GDP (MoM) (Nov) | 0.1% |  | 0.0% |
+| 22:00 | USD | Low | Dallas Fed PCE (Nov) |  |  | 2.70% |
+| 46 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Dec) |  | 3.1% | 4.5% |
+| 46 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Dec) |  | 2.8% | 3.2% |
+| 46 min | USD | Moderate | Michigan Consumer Expectations (Dec) |  | 66.4 | 56.8 |
+| 46 min | USD | Moderate | Michigan Consumer Sentiment (Dec) |  | 69.4 | 61.3 |
+| 46 min | USD | Low | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
+| 46 min | USD | High | New Home Sales (Nov) |  | 695K | 679K |
+| 46 min | USD | Moderate | New Home Sales (MoM) (Nov) |  |  | -5.6% |
