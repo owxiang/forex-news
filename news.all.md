@@ -18,29 +18,29 @@
 | 08:30 | AUD | Low | Housing Credit (Nov) | 0.4% |  | 0.4% |
 | 08:30 | AUD | Low | Private Sector Credit (MoM) (Nov) | 0.4% |  | 0.3% |
 | 12:00 | IDR | Low | M2 Money Supply (YoY) (Nov) | 3.30% |  | 3.40% |
-| 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
-| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |
-| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.1% |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  |  | -2.4% |
-| 15:00 | GBP | Moderate | Current Account (Q3) |  | -13.1B | -25.3B |
-| 15:00 | GBP | High | GDP (YoY) (Q3) |  | 0.6% | 0.6% |
-| 15:00 | GBP | High | GDP (QoQ) (Q3) |  | 0.0% | 0.2% |
-| 15:00 | GBP | Moderate | Retail Sales (YoY) (Nov) |  | -1.8% | -2.7% |
-| 15:00 | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.4% | -0.3% |
-| 15:00 | EUR | Low | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |
-| 15:00 | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -13.0% |
-| 15:00 | NOK | Low | M3 Money Supply (Nov) |  |  | 3,089.8B |
-| 15:00 | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.7% |
+| 39 min | GBP | Low | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
+| 39 min | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |
+| 39 min | GBP | Moderate | Core Retail Sales (YoY) (Nov) |  |  | -2.4% |
+| 39 min | GBP | Moderate | Core Retail Sales (MoM) (Nov) |  | 0.0% | -0.1% |
+| 39 min | GBP | Moderate | Current Account (Q3) |  | -13.1B | -25.3B |
+| 39 min | GBP | High | GDP (QoQ) (Q3) |  | 0.0% | 0.2% |
+| 39 min | GBP | High | GDP (YoY) (Q3) |  | 0.6% | 0.6% |
+| 39 min | GBP | Moderate | Retail Sales (YoY) (Nov) |  | -1.8% | -2.7% |
+| 39 min | GBP | Moderate | Retail Sales (MoM) (Nov) |  | 0.4% | -0.3% |
+| 39 min | EUR | Low | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |
+| 39 min | EUR | Low | German Import Price Index (YoY) (Nov) |  |  | -13.0% |
+| 39 min | NOK | Low | M3 Money Supply (Nov) |  |  | 3,089.8B |
+| 39 min | NOK | Low | Credit Indicator (YoY) (Nov) |  |  | 3.7% |
 | 15:45 | EUR | Low | French Consumer Confidence (Dec) |  |  | 87 |
-| 15:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
 | 15:45 | EUR | Low | PPI (YoY) (Nov) |  |  | -1.20% |
+| 15:45 | EUR | Low | French PPI (MoM) (Nov) |  |  | 0.0% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q3) |  | 1.8% | 2.2% |
 | 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) |  | 0.3% | 0.5% |
 | 17:00 | EUR | Low | Italian Business Confidence (Dec) |  |  | 96.6 |
 | 17:00 | EUR | Low | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
-| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
 | 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
+| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 606.86B |
 | 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
@@ -58,8 +58,8 @@
 | 21:30 | USD | Moderate | Durable Goods Orders (MoM) (Nov) |  | 1.7% | -5.4% |
 | 21:30 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
 | 21:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
-| 21:30 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
 | 21:30 | USD | Moderate | PCE price index (MoM) (Nov) |  | 0.0% | 0.0% |
+| 21:30 | USD | Moderate | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
 | 21:30 | USD | Low | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |
 | 21:30 | USD | Moderate | Personal Spending (MoM) (Nov) |  | 0.2% | 0.2% |
 | 21:30 | USD | Low | Real Personal Consumption (MoM) (Nov) |  |  | 0.2% |
