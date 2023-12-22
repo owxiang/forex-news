@@ -12,7 +12,8 @@
 | 07:30 | JPY | National CPI (YoY) (Nov) | 2.8% |  | 3.3% |
 | 08:30 | AUD | Housing Credit (Nov) | 0.4% |  | 0.4% |
 | 08:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.4% |  | 0.3% |
-| 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
+| 43 min | IDR | M2 Money Supply (YoY) (Nov) | 3.30% |  | 3.40% |
+| 43 min | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
 | 15:00 | GBP | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
 | 15:00 | EUR | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |
 | 15:00 | EUR | German Import Price Index (YoY) (Nov) |  |  | -13.0% |
@@ -25,8 +26,8 @@
 | 17:00 | EUR | Italian Business Confidence (Dec) |  |  | 96.6 |
 | 17:00 | EUR | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
-| 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
+| 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
 | 19:30 | INR | FX Reserves, USD |  |  | 606.86B |
 | 19:30 | BRL | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
 | 19:30 | BRL | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
