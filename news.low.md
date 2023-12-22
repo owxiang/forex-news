@@ -25,16 +25,16 @@
 | 17:00 | EUR | Italian Business Confidence (Dec) | 95.4 |  | 96.6 |
 | 17:00 | EUR | Italian Consumer Confidence (Dec) | 106.7 | 103.8 | 103.6 |
 | 18:00 | EUR | Italian Trade Balance Non-EU (Nov) | 6.22B |  | 5.37B |
-| 43 min | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
-| 43 min | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
-| 19:30 | INR | FX Reserves, USD |  |  | 606.86B |
-| 19:30 | BRL | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
-| 19:30 | BRL | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
-| 20:00 | MXN | Economic Activity (MoM) (Oct) |  | 0.20% | 0.60% |
-| 20:00 | MXN | Economic Activity (YoY) (Oct) |  | 4.10% | 3.30% |
-| 20:00 | MXN | Trade Balance (Nov) |  | 0.404B | -0.252B |
-| 20:00 | MXN | Trade Balance (USD) (Nov) |  |  | 0.314B |
-| 20:00 | BRL | FGV Consumer confidence (Dec) |  |  | 93.0 |
+| 19:00 | EUR | Italian Industrial Sales (YoY) (Oct) | -1.70% |  | -2.60% |
+| 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) | 0.10% |  | 1.10% |
+| 19:00 | BRL | FGV Consumer confidence (Dec) | 93.7 |  | 93.0 |
+| 17 min | INR | FX Reserves, USD |  |  | 606.86B |
+| 17 min | BRL | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
+| 17 min | BRL | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
+| 47 min | MXN | Economic Activity (MoM) (Oct) |  | 0.20% | 0.60% |
+| 47 min | MXN | Economic Activity (YoY) (Oct) |  | 4.10% | 3.30% |
+| 47 min | MXN | Trade Balance (Nov) |  | 0.404B | -0.252B |
+| 47 min | MXN | Trade Balance (USD) (Nov) |  |  | 0.314B |
 | 21:30 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
 | 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
 | 21:30 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |

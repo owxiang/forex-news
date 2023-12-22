@@ -14,7 +14,7 @@
 | 15:00 | GBP | Retail Sales (YoY) (Nov) | 0.1% | -1.8% | -2.5% |
 | 15:00 | GBP | Retail Sales (MoM) (Nov) | 1.3% | 0.4% | -0.3% |
 | 16:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.3% | 0.3% | 0.5% |
-| 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 17 min | INR | RBI MPC Meeting Minutes |  |  |  |
 | 21:30 | USD | Building Permits (MoM) |  | -2.5% | 1.8% |
 | 21:30 | USD | Durable Goods Orders (MoM) (Nov) |  | 1.7% | -5.4% |
 | 21:30 | USD | PCE Price index (YoY) (Nov) |  | 2.8% | 3.0% |
