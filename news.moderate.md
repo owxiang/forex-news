@@ -8,8 +8,8 @@
 | 07:30 | JPY | National Core CPI (YoY) (Nov) | 2.5% | 2.5% | 2.9% |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | GBP | Business Investment (QoQ) (Q3) | -3.2% | -4.2% | 1.4% |
-| 15:00 | GBP | Core Retail Sales (YoY) (Nov) | 0.3% |  | -2.1% |
 | 15:00 | GBP | Core Retail Sales (MoM) (Nov) | 1.3% | 0.0% | 0.2% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Nov) | 0.3% |  | -2.1% |
 | 15:00 | GBP | Current Account (Q3) | -17.2B | -13.1B | -24.0B |
 | 15:00 | GBP | Retail Sales (YoY) (Nov) | 0.1% | -1.8% | -2.5% |
 | 15:00 | GBP | Retail Sales (MoM) (Nov) | 1.3% | 0.4% | -0.3% |
