@@ -19,14 +19,14 @@
 | 15:00 | NOK | M3 Money Supply (Nov) | 3,129.7B |  | 3,089.8B |
 | 15:00 | NOK | Credit Indicator (YoY) (Nov) | 3.7% |  | 3.7% |
 | 15:45 | EUR | French Consumer Confidence (Dec) | 89 |  | 88 |
-| 15:45 | EUR | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
 | 15:45 | EUR | PPI (YoY) (Nov) | 0.30% |  | -1.40% |
+| 15:45 | EUR | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
 | 16:00 | EUR | Spanish GDP (YoY) (Q3) | 1.8% | 1.8% | 2.2% |
-| 40 min | EUR | Italian Business Confidence (Dec) |  |  | 96.6 |
-| 40 min | EUR | Italian Consumer Confidence (Dec) |  | 103.8 | 103.6 |
-| 18:00 | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
-| 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
+| 17:00 | EUR | Italian Business Confidence (Dec) | 95.4 |  | 96.6 |
+| 17:00 | EUR | Italian Consumer Confidence (Dec) | 106.7 | 103.8 | 103.6 |
+| 44 min | EUR | Italian Trade Balance Non-EU (Nov) |  |  | 5.37B |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Oct) |  |  | -2.60% |
+| 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) |  |  | 1.20% |
 | 19:30 | INR | FX Reserves, USD |  |  | 606.86B |
 | 19:30 | BRL | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
 | 19:30 | BRL | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
