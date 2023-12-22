@@ -1,30 +1,16 @@
-## 22 December 2023 - Moderate Impact Forex News
+## 23 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 02:00 | USD | 5-Year TIPS Auction | 1.710% |  | 2.440% |
-| 05:30 | USD | Fed's Balance Sheet | 7,724B |  | 7,740B |
-| 07:30 | JPY | National Core CPI (YoY) (Nov) | 2.5% | 2.5% | 2.9% |
-| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 15:00 | GBP | Business Investment (QoQ) (Q3) | -3.2% | -4.2% | 1.4% |
-| 15:00 | GBP | Core Retail Sales (MoM) (Nov) | 1.3% | 0.0% | 0.2% |
-| 15:00 | GBP | Core Retail Sales (YoY) (Nov) | 0.3% |  | -2.1% |
-| 15:00 | GBP | Current Account (Q3) | -17.2B | -13.1B | -24.0B |
-| 15:00 | GBP | Retail Sales (YoY) (Nov) | 0.1% | -1.8% | -2.5% |
-| 15:00 | GBP | Retail Sales (MoM) (Nov) | 1.3% | 0.4% | -0.3% |
-| 16:00 | EUR | Spanish GDP (QoQ) (Q3) | 0.3% | 0.3% | 0.5% |
-| 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 20:30 | USD | Building Permits (Nov) | 1.467M | 1.460M | 1.498M |
-| 21:30 | USD | Durable Goods Orders (MoM) (Nov) | 5.4% | 1.7% | -5.1% |
-| 21:30 | USD | PCE Price index (YoY) (Nov) | 2.6% | 2.8% | 2.9% |
-| 21:30 | USD | PCE price index (MoM) (Nov) | -0.1% | 0.0% | 0.0% |
-| 21:30 | USD | Personal Spending (MoM) (Nov) | 0.2% | 0.2% | 0.1% |
-| 21:30 | CAD | GDP (MoM) (Oct) | 0.0% | 0.2% | 0.1% |
-| 21:30 | CAD | Wholesale Sales (MoM) | 0.8% |  | -0.5% |
-| 21:35 | CAD | GDP (MoM) (Nov) | 0.1% |  | 0.0% |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Dec) | 3.1% | 3.1% | 4.5% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Dec) | 2.9% | 2.8% | 3.2% |
-| 23:00 | USD | Michigan Consumer Expectations (Dec) | 67.4 | 66.4 | 56.8 |
-| 23:00 | USD | Michigan Consumer Sentiment (Dec) | 69.7 | 69.4 | 61.3 |
-| 23:00 | USD | New Home Sales (MoM) (Nov) | -12.2% |  | -4.0% |
+| 02:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 501 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 623 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 151.6K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 188.2K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 8.1K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -65.1K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -52.3K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 46.7K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -81.1K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 147.3K |
