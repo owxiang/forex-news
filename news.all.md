@@ -18,10 +18,10 @@
 | 08:30 | AUD | Low | Housing Credit (Nov) | 0.4% |  | 0.4% |
 | 08:30 | AUD | Low | Private Sector Credit (MoM) (Nov) | 0.4% |  | 0.3% |
 | 12:00 | IDR | Low | M2 Money Supply (YoY) (Nov) | 3.30% |  | 3.40% |
-| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -3.2% | -4.2% | 1.4% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) | 2.3% | 2.8% | 8.0% |
-| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | 1.3% | 0.0% | 0.2% |
+| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) | -3.2% | -4.2% | 1.4% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Nov) | 0.3% |  | -2.1% |
+| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Nov) | 1.3% | 0.0% | 0.2% |
 | 15:00 | GBP | Moderate | Current Account (Q3) | -17.2B | -13.1B | -24.0B |
 | 15:00 | GBP | High | GDP (QoQ) (Q3) | -0.1% | 0.0% | 0.2% |
 | 15:00 | GBP | High | GDP (YoY) (Q3) | 0.3% | 0.6% | 0.6% |
@@ -32,26 +32,24 @@
 | 15:00 | NOK | Low | M3 Money Supply (Nov) | 3,129.7B |  | 3,089.8B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Nov) | 3.7% |  | 3.7% |
 | 15:45 | EUR | Low | French Consumer Confidence (Dec) | 89 |  | 88 |
-| 15:45 | EUR | Low | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
 | 15:45 | EUR | Low | PPI (YoY) (Nov) | 0.30% |  | -1.40% |
-| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.3% | 0.5% |
+| 15:45 | EUR | Low | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q3) | 1.8% | 1.8% | 2.2% |
+| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q3) | 0.3% | 0.3% | 0.5% |
 | 17:00 | EUR | Low | Italian Business Confidence (Dec) | 95.4 |  | 96.6 |
 | 17:00 | EUR | Low | Italian Consumer Confidence (Dec) | 106.7 | 103.8 | 103.6 |
 | 18:00 | EUR | Low | Italian Trade Balance Non-EU (Nov) | 6.22B |  | 5.37B |
 | 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Oct) | -1.70% |  | -2.60% |
 | 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Oct) | 0.10% |  | 1.10% |
 | 19:00 | BRL | Low | FGV Consumer confidence (Dec) | 93.7 |  | 93.0 |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 606.86B |
-| 17 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 17 min | BRL | Low | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
-| 17 min | BRL | Low | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
-| 47 min | MXN | Low | Economic Activity (MoM) (Oct) |  | 0.20% | 0.60% |
-| 47 min | MXN | Low | Economic Activity (YoY) (Oct) |  | 4.10% | 3.30% |
-| 47 min | MXN | Low | Trade Balance (Nov) |  | 0.404B | -0.252B |
-| 47 min | MXN | Low | Trade Balance (USD) (Nov) |  |  | 0.314B |
-| 21:30 | USD | High | Building Permits |  | 1.460M | 1.498M |
+| 19:30 | INR | Low | FX Reserves, USD | 615.97B |  | 606.86B |
+| 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Oct) | 4.20% | 4.10% | 3.40% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Oct) | -0.10% | 0.20% | 0.60% |
+| 20:00 | MXN | Low | Trade Balance (Nov) | 0.630B | 0.404B | -0.252B |
+| 20:00 | MXN | Low | Trade Balance (USD) (Nov) | 0.030B |  | 0.242B |
 | 21:30 | USD | Moderate | Building Permits (MoM) |  | -2.5% | 1.8% |
+| 21:30 | USD | High | Building Permits |  | 1.460M | 1.498M |
 | 21:30 | USD | High | Core Durable Goods Orders (MoM) (Nov) |  | 0.2% | 0.0% |
 | 21:30 | USD | High | Core PCE Price Index (YoY) (Nov) |  | 3.4% | 3.5% |
 | 21:30 | USD | High | Core PCE Price Index (MoM) (Nov) |  | 0.2% | 0.2% |

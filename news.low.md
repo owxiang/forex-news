@@ -19,8 +19,8 @@
 | 15:00 | NOK | M3 Money Supply (Nov) | 3,129.7B |  | 3,089.8B |
 | 15:00 | NOK | Credit Indicator (YoY) (Nov) | 3.7% |  | 3.7% |
 | 15:45 | EUR | French Consumer Confidence (Dec) | 89 |  | 88 |
-| 15:45 | EUR | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
 | 15:45 | EUR | PPI (YoY) (Nov) | 0.30% |  | -1.40% |
+| 15:45 | EUR | French PPI (MoM) (Nov) | 2.4% |  | -0.1% |
 | 16:00 | EUR | Spanish GDP (YoY) (Q3) | 1.8% | 1.8% | 2.2% |
 | 17:00 | EUR | Italian Business Confidence (Dec) | 95.4 |  | 96.6 |
 | 17:00 | EUR | Italian Consumer Confidence (Dec) | 106.7 | 103.8 | 103.6 |
@@ -28,13 +28,11 @@
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Oct) | -1.70% |  | -2.60% |
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Oct) | 0.10% |  | 1.10% |
 | 19:00 | BRL | FGV Consumer confidence (Dec) | 93.7 |  | 93.0 |
-| 17 min | INR | FX Reserves, USD |  |  | 606.86B |
-| 17 min | BRL | Current Account (USD) (Nov) |  | 0.47B | -0.23B |
-| 17 min | BRL | Foreign direct investment (USD) (Nov) |  |  | 3.31B |
-| 47 min | MXN | Economic Activity (MoM) (Oct) |  | 0.20% | 0.60% |
-| 47 min | MXN | Economic Activity (YoY) (Oct) |  | 4.10% | 3.30% |
-| 47 min | MXN | Trade Balance (Nov) |  | 0.404B | -0.252B |
-| 47 min | MXN | Trade Balance (USD) (Nov) |  |  | 0.314B |
+| 19:30 | INR | FX Reserves, USD | 615.97B |  | 606.86B |
+| 20:00 | MXN | Economic Activity (YoY) (Oct) | 4.20% | 4.10% | 3.40% |
+| 20:00 | MXN | Economic Activity (MoM) (Oct) | -0.10% | 0.20% | 0.60% |
+| 20:00 | MXN | Trade Balance (Nov) | 0.630B | 0.404B | -0.252B |
+| 20:00 | MXN | Trade Balance (USD) (Nov) | 0.030B |  | 0.242B |
 | 21:30 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | -6.7% |
 | 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) |  | 0.2% | -0.1% |
 | 21:30 | USD | Personal Income (MoM) (Nov) |  | 0.4% | 0.2% |
