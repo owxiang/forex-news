@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
-| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 501 |
-| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 623 |
+| 46 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.7% | 2.7% |
+| 46 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 501 |
+| 46 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 623 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 21.6K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 151.6K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 188.2K |
