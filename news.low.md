@@ -38,5 +38,5 @@
 | 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Nov) | 0.8% | 0.2% | -0.6% |
 | 21:30 | USD | Personal Income (MoM) (Nov) | 0.4% | 0.4% | 0.3% |
 | 21:30 | USD | Real Personal Consumption (MoM) (Nov) | 0.3% |  | 0.1% |
-| 22:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.70% |
-| 46 min | USD | Michigan Current Conditions (Dec) |  | 74.0 | 68.3 |
+| 23:00 | USD | Dallas Fed PCE (Nov) |  |  | 2.70% |
+| 23:00 | USD | Michigan Current Conditions (Dec) | 73.3 | 74.0 | 68.3 |
