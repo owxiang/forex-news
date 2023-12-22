@@ -8,11 +8,11 @@
 | 00:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | -2.279B |  | -0.775B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.477T |  | 3.568T |
-| 14 min | JPY | CPI, n.s.a (MoM) (Nov) |  |  | 0.9% |
-| 14 min | JPY | National CPI (YoY) (Nov) |  |  | 3.3% |
-| 08:30 | AUD | Housing Credit (Nov) |  |  | 0.4% |
-| 08:30 | AUD | Private Sector Credit (MoM) (Nov) |  |  | 0.3% |
-| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Nov) | -0.2% |  | 0.9% |
+| 07:30 | JPY | National CPI (YoY) (Nov) | 2.8% |  | 3.3% |
+| 08:30 | AUD | Housing Credit (Nov) | 0.4% |  | 0.4% |
+| 08:30 | AUD | Private Sector Credit (MoM) (Nov) | 0.4% |  | 0.3% |
+| 50 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 12:00 | IDR | Motorbike Sales (YoY) |  |  | -2.80% |
 | 15:00 | GBP | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
 | 15:00 | EUR | German Import Price Index (MoM) (Nov) |  | -0.4% | 0.3% |

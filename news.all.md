@@ -11,13 +11,13 @@
 | 02:00 | USD | Moderate | 5-Year TIPS Auction | 1.710% |  | 2.440% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,724B |  | 7,740B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.477T |  | 3.568T |
-| 14 min | JPY | Low | CPI, n.s.a (MoM) (Nov) |  |  | 0.9% |
-| 14 min | JPY | Moderate | National Core CPI (YoY) (Nov) |  | 2.5% | 2.9% |
-| 14 min | JPY | Low | National CPI (YoY) (Nov) |  |  | 3.3% |
-| 34 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 08:30 | AUD | Low | Housing Credit (Nov) |  |  | 0.4% |
-| 08:30 | AUD | Low | Private Sector Credit (MoM) (Nov) |  |  | 0.3% |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Nov) | -0.2% |  | 0.9% |
+| 07:30 | JPY | Moderate | National Core CPI (YoY) (Nov) | 2.5% | 2.5% | 2.9% |
+| 07:30 | JPY | Low | National CPI (YoY) (Nov) | 2.8% |  | 3.3% |
+| 07:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 08:30 | AUD | Low | Housing Credit (Nov) | 0.4% |  | 0.4% |
+| 08:30 | AUD | Low | Private Sector Credit (MoM) (Nov) | 0.4% |  | 0.3% |
+| 50 min | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q3) |  | 2.8% | 9.2% |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q3) |  | -4.2% | 4.1% |
