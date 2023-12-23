@@ -11,9 +11,8 @@
 | 04:30 | USD | CFTC Silver speculative net positions | 29.8K |  | 28.5K |
 | 04:30 | USD | CFTC Soybeans speculative net positions | 2.0K |  | 17.5K |
 | 04:30 | USD | CFTC Wheat speculative net positions | -37.0K |  | -40.0K |
-| 04:30 | USD | Dallas Fed PCE (Nov) |  |  | 2.70% |
+| 04:30 | USD | Dallas Fed PCE (Nov) | 1.50% |  | 2.70% |
 | 04:30 | CAD | CFTC CAD speculative net positions | -54.3K |  | -55.2K |
 | 04:30 | MXN | CFTC MXN speculative net positions | 84.0K |  | 74.1K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -6.1K |  | -14.5K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -3.4K |  | -13.5K |
-| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
