@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | Tentative | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 48 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 13:00 | JPY | Coincident Indicator (MoM) |  | 0.2% | 0.1% |
 | 13:00 | JPY | Leading Index (MoM) |  | -0.6% | -0.3% |
 | 13:00 | JPY | Leading Index |  | 108.7 | 109.3 |
