@@ -12,14 +12,14 @@
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Nov) |  | 3.20% | 3.30% |
 | 13:00 | SGD | Low | CPI (MoM) (Nov) |  |  | 0.20% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Nov) |  | 3.8% | 4.7% |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Nov) |  | 3.1% | 7.4% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Nov) |  | -7.1% | 9.8% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Nov) |  | 3.1% | 7.4% |
 | 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -7.8% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.49 |
-| 22:00 | USD | Low | House Price Index (YoY) (Oct) |  |  | 6.1% |
 | 22:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.6% |
+| 22:00 | USD | Low | House Price Index (YoY) (Oct) |  |  | 6.1% |
 | 22:00 | USD | Low | House Price Index (Oct) |  |  | 414.8 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.7% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | 0.2% |
