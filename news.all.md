@@ -5,7 +5,7 @@
 | 07:30 | JPY | Low | Jobs/applications ratio (Nov) | 1.28 | 1.30 | 1.30 |
 | 07:30 | JPY | Low | Unemployment Rate (Nov) | 2.5% | 2.5% | 2.5% |
 | 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.4% | 2.3% |
-| 51 min | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.046% |
 | 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 3.0% |
