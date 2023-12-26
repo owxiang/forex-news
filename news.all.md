@@ -5,15 +5,14 @@
 | 07:30 | JPY | Low | Jobs/applications ratio (Nov) | 1.28 | 1.30 | 1.30 |
 | 07:30 | JPY | Low | Unemployment Rate (Nov) | 2.5% | 2.5% | 2.5% |
 | 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.4% | 2.3% |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
-| 11:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.046% |
-| 12:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
+| 19 min | JPY | Low | 2-Year JGB Auction |  |  | 0.046% |
+| 44 min | IDR | Low | Motorbike Sales (YoY) |  |  | -2.80% |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  |  | 3.0% |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Nov) |  | 3.20% | 3.30% |
 | 13:00 | SGD | Low | CPI (MoM) (Nov) |  |  | 0.20% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Nov) |  | 3.8% | 4.7% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Nov) |  | -7.1% | 9.8% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Nov) |  | 3.1% | 7.4% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Nov) |  | -7.1% | 9.8% |
 | 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -7.8% |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.2 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
