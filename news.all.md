@@ -1,28 +1,28 @@
-## 26 December 2023 - All Forex News
+## 27 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:30 | JPY | Low | Jobs/applications ratio (Nov) | 1.28 | 1.30 | 1.30 |
-| 07:30 | JPY | Low | Unemployment Rate (Nov) | 2.5% | 2.5% | 2.5% |
-| 07:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.4% | 2.3% |
-| 11:35 | JPY | Low | 2-Year JGB Auction | 0.064% |  | 0.046% |
-| 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.7% | 3.0% | 3.0% |
-| 13:00 | SGD | Moderate | Core CPI (YoY) (Nov) | 3.20% | 3.20% | 3.30% |
-| 13:00 | SGD | Low | CPI (MoM) (Nov) | -0.20% |  | 0.20% |
-| 13:00 | SGD | Moderate | CPI (YoY) (Nov) | 3.6% | 3.8% | 4.7% |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Nov) | 1.0% | 3.1% | 7.6% |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Nov) | -7.8% | -7.1% | 9.9% |
-| 16:00 | EUR | Low | Spanish PPI (YoY) | -7.4% |  | -7.7% |
-| 19:00 | INR | Low | Balance of Payments (USD) (Q3) | 2.500B |  | 24.400B |
-| 19:00 | INR | Low | Current Account % of GDP (QoQ) (Q3) | -1.00% |  | -1.10% |
-| 19:00 | INR | Low | Current Account (USD) (Q3) | -8.30B | -9.00B | -9.20B |
-| 19:00 | INR | Low | Trade Balance (USD) (Q3) | -61.000B |  | -56.600B |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 21:30 | USD | Low | Chicago Fed National Activity (Nov) | 0.03 |  | -0.49 |
-| 22:00 | USD | Low | House Price Index (MoM) (Oct) | 0.3% | 0.5% | 0.7% |
-| 22:00 | USD | Low | House Price Index (YoY) (Oct) | 6.3% |  | 6.2% |
-| 22:00 | USD | Low | House Price Index (Oct) | 416.3 |  | 414.9 |
-| 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) | 0.6% |  | 0.7% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) | 0.1% |  | 0.2% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) | 4.9% | 5.0% | 3.9% |
-| 15 min | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -19.9 |
+| 10 min | USD | Low | 3-Month Bill Auction |  |  | 5.260% |
+| 10 min | USD | Low | 6-Month Bill Auction |  |  | 5.130% |
+| 02:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.887% |
+| 02:00 | USD | Low | 52-Week Bill Auction |  |  | 4.935% |
+| 02:00 | USD | Low | M2 Money Supply (MoM) (Nov) |  |  | 20.73T |
+| 05:00 | KRW | Low | Consumer Confidence (Dec) |  |  | 97.2 |
+| 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 09:30 | CNY | Low | Chinese Industrial profit YTD (Nov) |  |  | -7.8% |
+| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 13:00 | JPY | Low | Construction Orders (YoY) (Nov) |  |  | 4.2% |
+| 13:00 | JPY | Low | Housing Starts (YoY) (Nov) |  | -4.3% | -6.3% |
+| 15:00 | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.6% |
+| 17:00 | CHF | Low | ZEW Expectations (Dec) |  |  | -29.6 |
+| 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
+| 20:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.1% |
+| 21:55 | USD | Low | Redbook (YoY) |  |  | 3.6% |
+| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.729% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.690% |
+| 23:00 | USD | Low | Richmond Manufacturing Index (Dec) |  | -7 | -5 |
+| 23:00 | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -8 |
+| 23:00 | USD | Low | Richmond Services Index (Dec) |  |  | 1 |
+| 23:30 | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.4 |
+| 23:30 | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -11.6 |
