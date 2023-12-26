@@ -15,9 +15,9 @@
 | 19:00 | INR | Current Account (USD) (Q3) | -8.30B | -9.00B | -9.20B |
 | 19:00 | INR | Trade Balance (USD) (Q3) | -61.000B |  | -56.600B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.49 |
-| 22:00 | USD | House Price Index (YoY) (Oct) |  |  | 6.1% |
-| 22:00 | USD | House Price Index (MoM) (Oct) |  | 0.5% | 0.6% |
-| 22:00 | USD | House Price Index (Oct) |  |  | 414.8 |
-| 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.7% |
+| 13 min | USD | Chicago Fed National Activity (Nov) |  |  | -0.49 |
+| 43 min | USD | House Price Index (YoY) (Oct) |  |  | 6.1% |
+| 43 min | USD | House Price Index (MoM) (Oct) |  | 0.5% | 0.6% |
+| 43 min | USD | House Price Index (Oct) |  |  | 414.8 |
+| 43 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.7% |
 | 23:30 | USD | Dallas Fed Mfg Business Index (Dec) |  |  | -19.9 |

@@ -18,11 +18,11 @@
 | 19:00 | INR | Low | Current Account (USD) (Q3) | -8.30B | -9.00B | -9.20B |
 | 19:00 | INR | Low | Trade Balance (USD) (Q3) | -61.000B |  | -56.600B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 21:30 | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.49 |
-| 22:00 | USD | Low | House Price Index (YoY) (Oct) |  |  | 6.1% |
-| 22:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.6% |
-| 22:00 | USD | Low | House Price Index (Oct) |  |  | 414.8 |
-| 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.7% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | 0.2% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 5.0% | 3.9% |
+| 13 min | USD | Low | Chicago Fed National Activity (Nov) |  |  | -0.49 |
+| 43 min | USD | Low | House Price Index (YoY) (Oct) |  |  | 6.1% |
+| 43 min | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.6% |
+| 43 min | USD | Low | House Price Index (Oct) |  |  | 414.8 |
+| 43 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.7% |
+| 43 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | 0.2% |
+| 43 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 5.0% | 3.9% |
 | 23:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -19.9 |
