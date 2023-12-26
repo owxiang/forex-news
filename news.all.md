@@ -19,6 +19,6 @@
 | 22:00 | USD | Low | House Price Index (MoM) (Oct) |  | 0.5% | 0.6% |
 | 22:00 | USD | Low | House Price Index (Oct) |  |  | 414.8 |
 | 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Oct) |  |  | 0.7% |
-| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 5.0% | 3.9% |
 | 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct) |  |  | 0.2% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct) |  | 5.0% | 3.9% |
 | 23:30 | USD | Low | Dallas Fed Mfg Business Index (Dec) |  |  | -19.9 |
