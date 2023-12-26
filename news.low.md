@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | USD | 3-Month Bill Auction |  |  | 5.260% |
-| 10 min | USD | 6-Month Bill Auction |  |  | 5.130% |
-| 02:00 | USD | 52-Week Bill Auction |  |  | 4.935% |
-| 02:00 | USD | M2 Money Supply (MoM) (Nov) |  |  | 20.73T |
+| 00:30 | USD | 3-Month Bill Auction | 5.260% |  | 5.260% |
+| 00:30 | USD | 6-Month Bill Auction | 5.080% |  | 5.130% |
+| 46 min | USD | 52-Week Bill Auction |  |  | 4.935% |
+| 46 min | USD | M2 Money Supply (MoM) (Nov) |  |  | 20.73T |
 | 05:00 | KRW | Consumer Confidence (Dec) |  |  | 97.2 |
 | 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 09:30 | CNY | Chinese Industrial profit YTD (Nov) |  |  | -7.8% |
