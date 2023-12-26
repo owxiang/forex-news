@@ -9,7 +9,7 @@
 | 13:00 | SGD | CPI (MoM) (Nov) | -0.20% |  | 0.20% |
 | 13:00 | SGD | Industrial Production (MoM) (Nov) | -7.8% | -7.1% | 9.9% |
 | 13:00 | SGD | Industrial Production (YoY) (Nov) | 1.0% | 3.1% | 7.6% |
-| 16:00 | EUR | Spanish PPI (YoY) |  |  | -7.8% |
+| 45 min | EUR | Spanish PPI (YoY) |  |  | -7.8% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 21:30 | USD | Chicago Fed National Activity (Nov) |  |  | -0.49 |
 | 22:00 | USD | House Price Index (YoY) (Oct) |  |  | 6.1% |
