@@ -9,8 +9,8 @@
 | 05:00 | KRW | Consumer Confidence (Dec) | 99.5 |  | 97.2 |
 | 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 09:30 | CNY | Chinese Industrial profit YTD (Nov) | -4.4% |  | -7.8% |
-| 41 min | JPY | Construction Orders (YoY) (Nov) |  |  | 4.2% |
-| 41 min | JPY | Housing Starts (YoY) (Nov) |  | -4.3% | -6.3% |
+| 13:00 | JPY | Construction Orders (YoY) (Nov) | 33.6% |  | 4.2% |
+| 13:00 | JPY | Housing Starts (YoY) (Nov) | -8.5% | -4.3% | -6.3% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Nov) |  | 0.3% | 0.6% |
 | 17:00 | CHF | ZEW Expectations (Dec) |  |  | -29.6 |
 | 19:30 | INR | M3 Money Supply |  |  | 11.2% |
