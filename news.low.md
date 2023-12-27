@@ -13,7 +13,7 @@
 | 13:00 | JPY | Housing Starts (YoY) (Nov) | -8.5% | -4.3% | -6.3% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
 | 17:00 | CHF | ZEW Expectations (Dec) | -23.7 |  | -29.6 |
-| 17 min | INR | M3 Money Supply |  |  | 11.2% |
+| 31 min | INR | M3 Money Supply |  |  | 11.2% |
 | 21:55 | USD | Redbook (YoY) |  |  | 3.6% |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.333% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.729% |
