@@ -8,8 +8,7 @@
 | 02:00 | USD | M2 Money Supply (MoM) (Nov) | 20.77T |  | 20.73T |
 | 05:00 | KRW | Consumer Confidence (Dec) | 99.5 |  | 97.2 |
 | 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 20 min | CNY | Chinese Industrial profit YTD (Nov) |  |  | -7.8% |
-| 50 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 09:30 | CNY | Chinese Industrial profit YTD (Nov) | -4.4% |  | -7.8% |
 | 13:00 | JPY | Construction Orders (YoY) (Nov) |  |  | 4.2% |
 | 13:00 | JPY | Housing Starts (YoY) (Nov) |  | -4.3% | -6.3% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Nov) |  |  | 0.6% |
