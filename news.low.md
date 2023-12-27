@@ -1,21 +1,32 @@
-## 27 December 2023 - Low Impact Forex News
+## 28 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 3-Month Bill Auction | 5.260% |  | 5.260% |
-| 00:30 | USD | 6-Month Bill Auction | 5.080% |  | 5.130% |
-| 02:00 | USD | 52-Week Bill Auction | 4.595% |  | 4.935% |
-| 02:00 | USD | M2 Money Supply (MoM) (Nov) | 20.77T |  | 20.73T |
-| 05:00 | KRW | Consumer Confidence (Dec) | 99.5 |  | 97.2 |
-| 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 09:30 | CNY | Chinese Industrial profit YTD (Nov) | -4.4% |  | -7.8% |
-| 13:00 | JPY | Construction Orders (YoY) (Nov) | 33.6% |  | 4.2% |
-| 13:00 | JPY | Housing Starts (YoY) (Nov) | -8.5% | -4.3% | -6.3% |
-| 15:00 | NOK | Core Retail Sales (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
-| 17:00 | CHF | ZEW Expectations (Dec) | -23.7 |  | -29.6 |
-| 21:55 | USD | Redbook (YoY) | 4.1% |  | 3.6% |
-| 23:00 | USD | Richmond Manufacturing Index (Dec) | -11 | -7 | -5 |
-| 23:00 | USD | Richmond Manufacturing Shipments (Dec) | -17 |  | -8 |
-| 23:00 | USD | Richmond Services Index (Dec) | 0 |  | 1 |
-| 14 min | USD | Dallas Fed Services Revenues (Dec) |  |  | -2.4 |
-| 14 min | USD | Texas Services Sector Outlook (Dec) |  |  | -11.6 |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -2.279B |
+| 05:00 | KRW | Manufacturing BSI Index (Jan) |  |  | 72 |
+| 07:00 | KRW | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |
+| 07:00 | KRW | Industrial Production (MoM) (Nov) |  | 1.0% | -3.5% |
+| 07:00 | KRW | Retail Sales (MoM) (Nov) |  |  | -0.8% |
+| 07:00 | KRW | Service Sector Output (MoM) (Nov) |  |  | -0.9% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 2,286.1B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 273.8B |
+| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -0.3% |
+| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | 3.2% |
+| 07:50 | JPY | Large Retailers' Sales (MoM) |  |  | -1.6% |
+| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | 4.0% |
+| 07:50 | JPY | Retail Sales (YoY) (Nov) |  | 5.0% | 4.2% |
+| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 16:00 | EUR | Spanish Retail Sales (YoY) (Nov) |  |  | 5.0% |
+| 16:30 | HKD | Exports (MoM) (Nov) |  |  | 1.4% |
+| 16:30 | HKD | Imports (MoM) (Nov) |  |  | 2.6% |
+| 16:30 | HKD | Trade Balance |  |  | -25.8B |
+| 19:00 | BRL | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
+| 20:00 | MXN | Unemployment Rate (Nov) |  |  | 2.60% |
+| 20:00 | MXN | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
+| 21:30 | USD | Wholesale Inventories (MoM) |  | -0.2% | -0.4% |
+| 21:30 | INR | M3 Money Supply |  |  | 11.2% |
+| 23:00 | USD | Pending Home Sales Index (Nov) |  |  | 71.4 |
+| 23:30 | USD | Natural Gas Storage |  |  | -87B |

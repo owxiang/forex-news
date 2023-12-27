@@ -1,22 +1,42 @@
-## 27 December 2023 - All Forex News
+## 28 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | USD | Low | 3-Month Bill Auction | 5.260% |  | 5.260% |
-| 00:30 | USD | Low | 6-Month Bill Auction | 5.080% |  | 5.130% |
-| 02:00 | USD | Moderate | 2-Year Note Auction | 4.314% |  | 4.887% |
-| 02:00 | USD | Low | 52-Week Bill Auction | 4.595% |  | 4.935% |
-| 02:00 | USD | Low | M2 Money Supply (MoM) (Nov) | 20.77T |  | 20.73T |
-| 05:00 | KRW | Low | Consumer Confidence (Dec) | 99.5 |  | 97.2 |
-| 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Nov) | -4.4% |  | -7.8% |
-| 13:00 | JPY | Low | Construction Orders (YoY) (Nov) | 33.6% |  | 4.2% |
-| 13:00 | JPY | Low | Housing Starts (YoY) (Nov) | -8.5% | -4.3% | -6.3% |
-| 15:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
-| 17:00 | CHF | Low | ZEW Expectations (Dec) | -23.7 |  | -29.6 |
-| 21:55 | USD | Low | Redbook (YoY) | 4.1% |  | 3.6% |
-| 23:00 | USD | Low | Richmond Manufacturing Index (Dec) | -11 | -7 | -5 |
-| 23:00 | USD | Low | Richmond Manufacturing Shipments (Dec) | -17 |  | -8 |
-| 23:00 | USD | Low | Richmond Services Index (Dec) | 0 |  | 1 |
-| 14 min | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.4 |
-| 14 min | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -11.6 |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.279B |
+| 02:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.420% |
+| 05:00 | KRW | Low | Manufacturing BSI Index (Jan) |  |  | 72 |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.939M |
+| 07:00 | KRW | Low | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |
+| 07:00 | KRW | Low | Industrial Production (MoM) (Nov) |  | 1.0% | -3.5% |
+| 07:00 | KRW | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
+| 07:00 | KRW | Low | Service Sector Output (MoM) (Nov) |  |  | -0.9% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 2,286.1B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 273.8B |
+| 07:50 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -1.6% | 1.3% |
+| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -0.3% |
+| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | 3.2% |
+| 07:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | -1.6% |
+| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | 4.0% |
+| 07:50 | JPY | Low | Retail Sales (YoY) (Nov) |  | 5.0% | 4.2% |
+| 09:00 | KRW | Moderate | BOK Financial Stability Board Meeting Minutes |  |  |  |
+| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  |  | 5.0% |
+| 16:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 1.4% |
+| 16:30 | HKD | Low | Imports (MoM) (Nov) |  |  | 2.6% |
+| 16:30 | HKD | Low | Trade Balance |  |  | -25.8B |
+| 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,821.4K |
+| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
+| 20:00 | MXN | Low | Unemployment Rate (Nov) |  |  | 2.60% |
+| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
+| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,875K | 1,865K |
+| 21:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -88.40B | -89.56B |
+| 21:30 | USD | High | Initial Jobless Claims |  | 210K | 205K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
+| 21:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | -0.9% |
+| 21:30 | USD | Low | Wholesale Inventories (MoM) |  | -0.2% | -0.4% |
+| 21:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
+| 23:00 | USD | High | Pending Home Sales (MoM) (Nov) |  | 1.0% | -1.5% |
+| 23:00 | USD | Low | Pending Home Sales Index (Nov) |  |  | 71.4 |
+| 23:30 | USD | Low | Natural Gas Storage |  |  | -87B |
