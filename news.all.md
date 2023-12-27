@@ -8,9 +8,9 @@
 | 02:00 | USD | Low | 52-Week Bill Auction | 4.595% |  | 4.935% |
 | 02:00 | USD | Low | M2 Money Supply (MoM) (Nov) | 20.77T |  | 20.73T |
 | 05:00 | KRW | Low | Consumer Confidence (Dec) | 99.5 |  | 97.2 |
-| 33 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Nov) |  |  | -7.8% |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 20 min | CNY | Low | Chinese Industrial profit YTD (Nov) |  |  | -7.8% |
+| 50 min | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Nov) |  |  | 4.2% |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Nov) |  | -4.3% | -6.3% |
 | 15:00 | NOK | Low | Core Retail Sales (MoM) (Nov) |  |  | 0.6% |
