@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | KRW | Manufacturing BSI Index (Jan) |  |  | 72 |
+| 05:00 | KRW | Manufacturing BSI Index (Jan) | 72 |  | 72 |
 | 07:00 | KRW | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |
 | 07:00 | KRW | Industrial Production (MoM) (Nov) |  | 1.0% | -3.5% |
 | 07:00 | KRW | Retail Sales (MoM) (Nov) |  |  | -0.8% |
