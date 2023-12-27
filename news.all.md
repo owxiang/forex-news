@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 5-Year Note Auction | 3.801% |  | 4.420% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Jan) | 72 |  | 72 |
-| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.939M |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Nov) |  | 1.0% | -3.5% |
-| 07:00 | KRW | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Nov) |  |  | -0.9% |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.837M |  | 0.939M |
+| 45 min | KRW | Low | Industrial Production (MoM) (Nov) |  | 1.0% | -3.5% |
+| 45 min | KRW | Low | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |
+| 45 min | KRW | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
+| 45 min | KRW | Low | Service Sector Output (MoM) (Nov) |  |  | -0.9% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 2,286.1B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 273.8B |
 | 07:50 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -1.6% | 1.3% |
@@ -27,8 +27,8 @@
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
 | 20:00 | MXN | Low | Unemployment Rate (Nov) |  |  | 2.60% |
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,875K | 1,865K |
 | 21:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -88.40B | -89.56B |
 | 21:30 | USD | High | Initial Jobless Claims |  | 210K | 205K |
