@@ -13,11 +13,11 @@
 | 13:00 | JPY | Housing Starts (YoY) (Nov) | -8.5% | -4.3% | -6.3% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
 | 17:00 | CHF | ZEW Expectations (Dec) | -23.7 |  | -29.6 |
-| 31 min | INR | M3 Money Supply |  |  | 11.2% |
-| 21:55 | USD | Redbook (YoY) |  |  | 3.6% |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.333% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.729% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.690% |
+| 12 min | INR | M3 Money Supply |  |  | 11.2% |
+| 37 min | USD | Redbook (YoY) |  |  | 3.6% |
+| 37 min | EUR | French 12-Month BTF Auction |  |  | 3.333% |
+| 37 min | EUR | French 3-Month BTF Auction |  |  | 3.729% |
+| 37 min | EUR | French 6-Month BTF Auction |  |  | 3.690% |
 | 23:00 | USD | Richmond Manufacturing Index (Dec) |  | -7 | -5 |
 | 23:00 | USD | Richmond Manufacturing Shipments (Dec) |  |  | -8 |
 | 23:00 | USD | Richmond Services Index (Dec) |  |  | 1 |
