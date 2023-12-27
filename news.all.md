@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.279B |
-| 02:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.420% |
+| 17 min | BRL | Low | Foreign Exchange Flows |  |  | -2.279B |
+| 47 min | USD | Moderate | 5-Year Note Auction |  |  | 4.420% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Jan) |  |  | 72 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.939M |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |

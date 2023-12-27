@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -2.279B |
+| 17 min | BRL | Foreign Exchange Flows |  |  | -2.279B |
 | 05:00 | KRW | Manufacturing BSI Index (Jan) |  |  | 72 |
 | 07:00 | KRW | Industrial Production (YoY) (Nov) |  | 3.0% | 1.1% |
 | 07:00 | KRW | Industrial Production (MoM) (Nov) |  | 1.0% | -3.5% |
