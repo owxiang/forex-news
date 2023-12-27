@@ -15,8 +15,8 @@
 | 15:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
 | 17:00 | CHF | Low | ZEW Expectations (Dec) | -23.7 |  | -29.6 |
 | 21:55 | USD | Low | Redbook (YoY) | 4.1% |  | 3.6% |
-| 46 min | USD | Low | Richmond Manufacturing Index (Dec) |  | -7 | -5 |
-| 46 min | USD | Low | Richmond Manufacturing Shipments (Dec) |  |  | -8 |
-| 46 min | USD | Low | Richmond Services Index (Dec) |  |  | 1 |
-| 23:30 | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.4 |
-| 23:30 | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -11.6 |
+| 23:00 | USD | Low | Richmond Manufacturing Index (Dec) | -11 | -7 | -5 |
+| 23:00 | USD | Low | Richmond Manufacturing Shipments (Dec) | -17 |  | -8 |
+| 23:00 | USD | Low | Richmond Services Index (Dec) | 0 |  | 1 |
+| 14 min | USD | Low | Dallas Fed Services Revenues (Dec) |  |  | -2.4 |
+| 14 min | USD | Low | Texas Services Sector Outlook (Dec) |  |  | -11.6 |
