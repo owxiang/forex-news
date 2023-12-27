@@ -15,7 +15,6 @@
 | 15:00 | NOK | Low | Core Retail Sales (MoM) (Nov) | 0.4% | 0.3% | 0.4% |
 | 17:00 | CHF | Low | ZEW Expectations (Dec) | -23.7 |  | -29.6 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
-| 20:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.1% |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 3.6% |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.729% |
