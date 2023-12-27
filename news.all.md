@@ -12,7 +12,7 @@
 | 09:30 | CNY | Low | Chinese Industrial profit YTD (Nov) | -4.4% |  | -7.8% |
 | 13:00 | JPY | Low | Construction Orders (YoY) (Nov) | 33.6% |  | 4.2% |
 | 13:00 | JPY | Low | Housing Starts (YoY) (Nov) | -8.5% | -4.3% | -6.3% |
-| 15:00 | NOK | Low | Core Retail Sales (MoM) (Nov) |  | 0.3% | 0.6% |
+| 39 min | NOK | Low | Core Retail Sales (MoM) (Nov) |  | 0.3% | 0.6% |
 | 17:00 | CHF | Low | ZEW Expectations (Dec) |  |  | -29.6 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 20:30 | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.1% |
