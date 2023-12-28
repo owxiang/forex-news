@@ -1,13 +1,14 @@
-## 28 December 2023 - Moderate Impact Forex News
+## 29 December 2023 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 5-Year Note Auction | 3.801% |  | 4.420% |
-| 05:30 | USD | API Weekly Crude Oil Stock | 1.837M |  | 0.939M |
-| 07:50 | JPY | Industrial Production (MoM) (Nov) | -0.9% | -1.6% | 1.3% |
-| 09:00 | KRW | BOK Financial Stability Board Meeting Minutes |  |  |  |
-| 19:00 | EUR | France Jobseekers Total | 2,826.6K |  | 2,821.4K |
-| 21:30 | USD | Continuing Jobless Claims | 1,875K | 1,875K | 1,861K |
-| 21:30 | USD | Goods Trade Balance (Nov) | -90.27B | -88.40B | -89.56B |
-| 21:30 | USD | Retail Inventories Ex Auto (Nov) | -0.8% |  | -1.1% |
-| 23:00 | USD | Pending Home Sales (MoM) (Nov) | 0.0% | 1.0% | -1.2% |
+| 00:00 | USD | Cushing Crude Oil Inventories | 1.508M |  | 1.686M |
+| 02:00 | USD | 7-Year Note Auction |  |  | 4.399% |
+| 05:30 | USD | Fed's Balance Sheet |  |  | 7,724B |
+| 15:00 | GBP | Nationwide HPI (YoY) (Dec) |  | -1.4% | -2.0% |
+| 15:00 | GBP | Nationwide HPI (MoM) (Dec) |  | 0.0% | 0.2% |
+| 16:00 | CHF | KOF Leading Indicators (Dec) |  | 97.0 | 96.7 |
+| 16:00 | EUR | Spanish CPI (YoY) (Dec) |  | 3.4% | 3.2% |
+| 16:00 | EUR | Spanish HICP (YoY) (Dec) |  | 3.6% | 3.3% |
+| 20:00 | BRL | Unemployment Rate |  | 7.5% | 7.6% |
+| 20:10 | EUR | German Buba Balz Speaks |  |  |  |

@@ -1,29 +1,42 @@
-## 28 December 2023 - Low Impact Forex News
+## 29 December 2023 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Manufacturing BSI Index (Jan) | 72 |  | 72 |
-| 07:00 | KRW | Industrial Production (MoM) (Nov) | 3.3% | 1.0% | -3.5% |
-| 07:00 | KRW | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 0.9% |
-| 07:00 | KRW | Retail Sales (MoM) (Nov) | 1.0% |  | -0.8% |
-| 07:00 | KRW | Service Sector Output (MoM) (Nov) | -0.1% |  | -0.9% |
-| 07:50 | JPY | Foreign Bonds Buying | -167.4B |  | 2,286.3B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | -120.0B |  | 273.1B |
-| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Dec) | 6.0% |  | -0.3% |
-| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jan) | -7.2% |  | 3.2% |
-| 07:50 | JPY | Large Retailers' Sales (MoM) | 1.0% |  | -1.6% |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Nov) | 5.0% |  | 4.0% |
-| 07:50 | JPY | Retail Sales (YoY) (Nov) | 5.3% | 5.0% | 4.1% |
-| 16:00 | EUR | Spanish Retail Sales (YoY) (Nov) | 5.2% |  | 5.3% |
-| 16:30 | HKD | Exports (MoM) (Nov) | 7.4% |  | 1.4% |
-| 16:30 | HKD | Imports (MoM) (Nov) | 7.1% |  | 2.6% |
-| 16:30 | HKD | Trade Balance | -27.9B |  | -25.8B |
-| 19:00 | BRL | IGP-M Inflation Index (MoM) (Dec) | 0.74% | 0.66% | 0.59% |
-| 20:00 | MXN | Unemployment Rate (Nov) | 2.80% |  | 2.60% |
-| 20:00 | MXN | Unemployment Rate n.s.a. (Nov) | 2.70% | 2.60% | 2.70% |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Dec) | 0.40% | 0.27% | 0.33% |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.72% | 4.59% | 4.84% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 212.00K |  | 212.25K |
-| 21:30 | USD | Wholesale Inventories (MoM) | -0.2% | -0.2% | -0.4% |
-| 23:00 | USD | Pending Home Sales Index (Nov) | 71.6 |  | 71.6 |
-| 15 min | USD | Natural Gas Storage |  | -79B | -87B |
+| 00:00 | USD | EIA Refinery Crude Runs (WoW) | 0.058M |  | 0.403M |
+| 00:00 | USD | Crude Oil Imports | -0.268M |  | -0.117M |
+| 00:00 | USD | Distillate Fuel Production | 0.243M |  | -0.114M |
+| 00:00 | USD | EIA Weekly Distillates Stocks | 0.833M | 0.600M | 1.485M |
+| 00:00 | USD | Gasoline Production | -0.008M |  | 0.496M |
+| 00:00 | USD | Heating Oil Stockpiles | 0.325M |  | -0.335M |
+| 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 2.2% |
+| 00:00 | USD | Gasoline Inventories | -0.575M | 0.400M | 2.710M |
+| 10 min | USD | 4-Week Bill Auction |  |  | 5.265% |
+| 10 min | USD | 8-Week Bill Auction |  |  | 5.270% |
+| Tentative | BRL | CAGED Net Payroll Jobs (Nov) |  | 142.84K | 190.37K |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -2.666B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.477T |
+| 07:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
+| 07:00 | KRW | CPI (YoY) (Dec) |  | 3.3% | 3.3% |
+| 08:30 | AUD | Housing Credit (Nov) |  |  | 0.4% |
+| 10:00 | SGD | Bank Lending |  |  | 791.5B |
+| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 14:00 | ZAR | M3 Money Supply (YoY) (Nov) |  | 5.90% | 6.08% |
+| 14:00 | ZAR | Private Sector Credit (Nov) |  | 4.35% | 3.94% |
+| 16:00 | CHF | Official Reserves Assets (Nov) |  |  | 731.2B |
+| 16:00 | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | -0.3% |
+| 16:00 | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | -0.5% |
+| 17:00 | EUR | Spanish Current account (Oct) |  |  | 3.45B |
+| 17:00 | NOK | Central Bank Currency Purchase (Jan) |  |  | 1,400.0M |
+| 18:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
+| 19:30 | INR | Bank Loan Growth |  |  | 20.8% |
+| 19:30 | INR | Deposit Growth |  |  | 13.4% |
+| 19:30 | INR | FX Reserves, USD |  |  | 615.97B |
+| 19:30 | INR | M3 Money Supply |  |  | 11.2% |
+| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 19:30 | BRL | Budget Balance (Nov) |  |  | -47.148B |
+| 19:30 | BRL | Budget Surplus (Nov) |  |  | 14.798B |
+| 20:00 | INR | Foreign Debt (USD) (Q3) |  |  | 629.1B |
+| 20:00 | INR | Infrastructure Output (YoY) (Nov) |  |  | 12.1% |
+| 20:00 | ZAR | Budget Balance (MoM) (Nov) |  | -17.05B | -41.23B |
+| 20:00 | ZAR | Trade Balance (Nov) |  | 5.80B | -12.66B |
+| 21:30 | BRL | Long Term Interest Rate TJLP |  |  | 6.55% |

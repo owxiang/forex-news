@@ -1,39 +1,54 @@
-## 28 December 2023 - All Forex News
+## 29 December 2023 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | 5-Year Note Auction | 3.801% |  | 4.420% |
-| 05:00 | KRW | Low | Manufacturing BSI Index (Jan) | 72 |  | 72 |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.837M |  | 0.939M |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Nov) | 3.3% | 1.0% | -3.5% |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 0.9% |
-| 07:00 | KRW | Low | Retail Sales (MoM) (Nov) | 1.0% |  | -0.8% |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Nov) | -0.1% |  | -0.9% |
-| 07:50 | JPY | Low | Foreign Bonds Buying | -167.4B |  | 2,286.3B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -120.0B |  | 273.1B |
-| 07:50 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -1.6% | 1.3% |
-| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) | 6.0% |  | -0.3% |
-| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) | -7.2% |  | 3.2% |
-| 07:50 | JPY | Low | Large Retailers' Sales (MoM) | 1.0% |  | -1.6% |
-| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) | 5.0% |  | 4.0% |
-| 07:50 | JPY | Low | Retail Sales (YoY) (Nov) | 5.3% | 5.0% | 4.1% |
-| 09:00 | KRW | Moderate | BOK Financial Stability Board Meeting Minutes |  |  |  |
-| 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 5.2% |  | 5.3% |
-| 16:30 | HKD | Low | Exports (MoM) (Nov) | 7.4% |  | 1.4% |
-| 16:30 | HKD | Low | Imports (MoM) (Nov) | 7.1% |  | 2.6% |
-| 16:30 | HKD | Low | Trade Balance | -27.9B |  | -25.8B |
-| 19:00 | EUR | Moderate | France Jobseekers Total | 2,826.6K |  | 2,821.4K |
-| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) | 0.74% | 0.66% | 0.59% |
-| 20:00 | MXN | Low | Unemployment Rate (Nov) | 2.80% |  | 2.60% |
-| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) | 2.70% | 2.60% | 2.70% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.40% | 0.27% | 0.33% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.72% | 4.59% | 4.84% |
-| 21:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,875K | 1,861K |
-| 21:30 | USD | Moderate | Goods Trade Balance (Nov) | -90.27B | -88.40B | -89.56B |
-| 21:30 | USD | High | Initial Jobless Claims | 218K | 210K | 206K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.00K |  | 212.25K |
-| 21:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) | -0.8% |  | -1.1% |
-| 21:30 | USD | Low | Wholesale Inventories (MoM) | -0.2% | -0.2% | -0.4% |
-| 23:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) | 0.0% | 1.0% | -1.2% |
-| 23:00 | USD | Low | Pending Home Sales Index (Nov) | 71.6 |  | 71.6 |
-| 15 min | USD | Low | Natural Gas Storage |  | -79B | -87B |
+| 00:00 | USD | High | Crude Oil Inventories | -6.911M | -2.704M | 2.909M |
+| 00:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.058M |  | 0.403M |
+| 00:00 | USD | Low | Crude Oil Imports | -0.268M |  | -0.117M |
+| 00:00 | USD | Moderate | Cushing Crude Oil Inventories | 1.508M |  | 1.686M |
+| 00:00 | USD | Low | Distillate Fuel Production | 0.243M |  | -0.114M |
+| 00:00 | USD | Low | EIA Weekly Distillates Stocks | 0.833M | 0.600M | 1.485M |
+| 00:00 | USD | Low | Gasoline Production | -0.008M |  | 0.496M |
+| 00:00 | USD | Low | Heating Oil Stockpiles | 0.325M |  | -0.335M |
+| 00:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 2.2% |
+| 00:00 | USD | Low | Gasoline Inventories | -0.575M | 0.400M | 2.710M |
+| 10 min | USD | Low | 4-Week Bill Auction |  |  | 5.265% |
+| 10 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
+| Tentative | BRL | Low | CAGED Net Payroll Jobs (Nov) |  | 142.84K | 190.37K |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.666B |
+| 02:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.399% |
+| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,724B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.477T |
+| 07:00 | KRW | Low | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
+| 07:00 | KRW | Low | CPI (YoY) (Dec) |  | 3.3% | 3.3% |
+| 08:30 | AUD | Low | Housing Credit (Nov) |  |  | 0.4% |
+| 10:00 | SGD | Low | Bank Lending |  |  | 791.5B |
+| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 14:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  | 5.90% | 6.08% |
+| 14:00 | ZAR | Low | Private Sector Credit (Nov) |  | 4.35% | 3.94% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | -1.4% | -2.0% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.0% | 0.2% |
+| 16:00 | CHF | Moderate | KOF Leading Indicators (Dec) |  | 97.0 | 96.7 |
+| 16:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 731.2B |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | -0.3% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 3.4% | 3.2% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.6% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | -0.5% |
+| 17:00 | EUR | Low | Spanish Current account (Oct) |  |  | 3.45B |
+| 17:00 | NOK | Low | Central Bank Currency Purchase (Jan) |  |  | 1,400.0M |
+| 18:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
+| 19:30 | INR | Low | Bank Loan Growth |  |  | 20.8% |
+| 19:30 | INR | Low | Deposit Growth |  |  | 13.4% |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 615.97B |
+| 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
+| 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 19:30 | BRL | Low | Budget Balance (Nov) |  |  | -47.148B |
+| 19:30 | BRL | Low | Budget Surplus (Nov) |  |  | 14.798B |
+| 20:00 | INR | Low | Foreign Debt (USD) (Q3) |  |  | 629.1B |
+| 20:00 | INR | Low | Infrastructure Output (YoY) (Nov) |  |  | 12.1% |
+| 20:00 | BRL | Moderate | Unemployment Rate |  | 7.5% | 7.6% |
+| 20:00 | ZAR | Low | Budget Balance (MoM) (Nov) |  | -17.05B | -41.23B |
+| 20:00 | ZAR | Low | Trade Balance (Nov) |  | 5.80B | -12.66B |
+| 20:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 21:30 | BRL | Low | Long Term Interest Rate TJLP |  |  | 6.55% |
+| 22:45 | USD | High | Chicago PMI (Dec) |  | 51.0 | 55.8 |
