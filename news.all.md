@@ -28,12 +28,12 @@
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) | 2.70% | 2.60% | 2.70% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) | 0.40% | 0.27% | 0.33% |
 | 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) | 4.72% | 4.59% | 4.84% |
-| 12 min | USD | Moderate | Continuing Jobless Claims |  | 1,875K | 1,865K |
-| 12 min | USD | Moderate | Goods Trade Balance (Nov) |  | -88.40B | -89.56B |
-| 12 min | USD | High | Initial Jobless Claims |  | 210K | 205K |
-| 12 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
-| 12 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  |  | -0.9% |
-| 12 min | USD | Low | Wholesale Inventories (MoM) |  | -0.2% | -0.4% |
-| 23:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 1.0% | -1.5% |
-| 23:00 | USD | Low | Pending Home Sales Index (Nov) |  |  | 71.4 |
+| 21:30 | USD | Moderate | Continuing Jobless Claims | 1,875K | 1,875K | 1,861K |
+| 21:30 | USD | Moderate | Goods Trade Balance (Nov) | -90.27B | -88.40B | -89.56B |
+| 21:30 | USD | High | Initial Jobless Claims | 218K | 210K | 206K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.00K |  | 212.25K |
+| 21:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) | -0.8% |  | -1.1% |
+| 21:30 | USD | Low | Wholesale Inventories (MoM) | -0.2% | -0.2% | -0.4% |
+| 46 min | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 1.0% | -1.5% |
+| 46 min | USD | Low | Pending Home Sales Index (Nov) |  |  | 71.4 |
 | 23:30 | USD | Low | Natural Gas Storage |  | -79B | -87B |
