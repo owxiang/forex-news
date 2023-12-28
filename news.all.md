@@ -18,17 +18,17 @@
 | 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) | 5.0% |  | 4.0% |
 | 07:50 | JPY | Low | Retail Sales (YoY) (Nov) | 5.3% | 5.0% | 4.1% |
 | 09:00 | KRW | Moderate | BOK Financial Stability Board Meeting Minutes |  |  |  |
-| 46 min | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  |  | 5.0% |
-| 16:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 1.4% |
-| 16:30 | HKD | Low | Imports (MoM) (Nov) |  |  | 2.6% |
-| 16:30 | HKD | Low | Trade Balance |  |  | -25.8B |
+| 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) | 5.2% |  | 5.3% |
+| 11 min | HKD | Low | Exports (MoM) (Nov) |  |  | 1.4% |
+| 11 min | HKD | Low | Imports (MoM) (Nov) |  |  | 2.6% |
+| 11 min | HKD | Low | Trade Balance |  |  | -25.8B |
 | 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,821.4K |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 20:00 | MXN | Low | Unemployment Rate (Nov) |  |  | 2.60% |
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,875K | 1,865K |
 | 21:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -88.40B | -89.56B |
 | 21:30 | USD | High | Initial Jobless Claims |  | 210K | 205K |
