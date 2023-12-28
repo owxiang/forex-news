@@ -13,7 +13,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.325% |  | 5.265% |
 | 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.270% |
 | Tentative | BRL | CAGED Net Payroll Jobs (Nov) | 130.10K | 142.84K | 190.37K |
-| 16 min | BRL | Foreign Exchange Flows |  |  | -2.666B |
+| 01:30 | BRL | Foreign Exchange Flows | -5.505B |  | -2.666B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.477T |
 | 07:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
 | 07:00 | KRW | CPI (YoY) (Dec) |  | 3.3% | 3.3% |
