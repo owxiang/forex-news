@@ -10,4 +10,4 @@
 | 21:30 | USD | Continuing Jobless Claims | 1,875K | 1,875K | 1,861K |
 | 21:30 | USD | Goods Trade Balance (Nov) | -90.27B | -88.40B | -89.56B |
 | 21:30 | USD | Retail Inventories Ex Auto (Nov) | -0.8% |  | -1.1% |
-| 46 min | USD | Pending Home Sales (MoM) (Nov) |  | 1.0% | -1.5% |
+| 23:00 | USD | Pending Home Sales (MoM) (Nov) | 0.0% | 1.0% | -1.2% |

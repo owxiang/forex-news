@@ -25,5 +25,5 @@
 | 20:00 | BRL | Mid-Month CPI (YoY) (Dec) | 4.72% | 4.59% | 4.84% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. | 212.00K |  | 212.25K |
 | 21:30 | USD | Wholesale Inventories (MoM) | -0.2% | -0.2% | -0.4% |
-| 46 min | USD | Pending Home Sales Index (Nov) |  |  | 71.4 |
-| 23:30 | USD | Natural Gas Storage |  | -79B | -87B |
+| 23:00 | USD | Pending Home Sales Index (Nov) | 71.6 |  | 71.6 |
+| 15 min | USD | Natural Gas Storage |  | -79B | -87B |

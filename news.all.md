@@ -34,6 +34,6 @@
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.00K |  | 212.25K |
 | 21:30 | USD | Moderate | Retail Inventories Ex Auto (Nov) | -0.8% |  | -1.1% |
 | 21:30 | USD | Low | Wholesale Inventories (MoM) | -0.2% | -0.2% | -0.4% |
-| 46 min | USD | Moderate | Pending Home Sales (MoM) (Nov) |  | 1.0% | -1.5% |
-| 46 min | USD | Low | Pending Home Sales Index (Nov) |  |  | 71.4 |
-| 23:30 | USD | Low | Natural Gas Storage |  | -79B | -87B |
+| 23:00 | USD | Moderate | Pending Home Sales (MoM) (Nov) | 0.0% | 1.0% | -1.2% |
+| 23:00 | USD | Low | Pending Home Sales Index (Nov) | 71.6 |  | 71.6 |
+| 15 min | USD | Low | Natural Gas Storage |  | -79B | -87B |
