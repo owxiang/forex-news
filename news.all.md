@@ -9,16 +9,15 @@
 | 07:00 | KRW | Low | Industrial Production (MoM) (Nov) | 3.3% | 1.0% | -3.5% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Nov) | 1.0% |  | -0.8% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Nov) | -0.1% |  | -0.9% |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 2,286.1B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 273.8B |
-| 34 min | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -1.6% | 1.3% |
-| 34 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) |  |  | -0.3% |
-| 34 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) |  |  | 3.2% |
-| 34 min | JPY | Low | Large Retailers' Sales (MoM) |  |  | -1.6% |
-| 34 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) |  |  | 4.0% |
-| 34 min | JPY | Low | Retail Sales (YoY) (Nov) |  | 5.0% | 4.2% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | -167.4B |  | 2,286.3B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | -120.0B |  | 273.1B |
+| 07:50 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -1.6% | 1.3% |
+| 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Dec) | 6.0% |  | -0.3% |
+| 07:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jan) | -7.2% |  | 3.2% |
+| 07:50 | JPY | Low | Large Retailers' Sales (MoM) | 1.0% |  | -1.6% |
+| 07:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Nov) | 5.0% |  | 4.0% |
+| 07:50 | JPY | Low | Retail Sales (YoY) (Nov) | 5.3% | 5.0% | 4.1% |
 | 09:00 | KRW | Moderate | BOK Financial Stability Board Meeting Minutes |  |  |  |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Nov) |  |  | 5.0% |
 | 16:30 | HKD | Low | Exports (MoM) (Nov) |  |  | 1.4% |
 | 16:30 | HKD | Low | Imports (MoM) (Nov) |  |  | 2.6% |

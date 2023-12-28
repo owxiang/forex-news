@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 5-Year Note Auction | 3.801% |  | 4.420% |
 | 05:30 | USD | API Weekly Crude Oil Stock | 1.837M |  | 0.939M |
-| 34 min | JPY | Industrial Production (MoM) (Nov) |  | -1.6% | 1.3% |
+| 07:50 | JPY | Industrial Production (MoM) (Nov) | -0.9% | -1.6% | 1.3% |
 | 09:00 | KRW | BOK Financial Stability Board Meeting Minutes |  |  |  |
 | 19:00 | EUR | France Jobseekers Total |  |  | 2,821.4K |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,875K | 1,865K |
