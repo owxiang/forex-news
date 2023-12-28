@@ -5,15 +5,15 @@
 | 00:00 | USD | EIA Refinery Crude Runs (WoW) | 0.058M |  | 0.403M |
 | 00:00 | USD | Crude Oil Imports | -0.268M |  | -0.117M |
 | 00:00 | USD | Distillate Fuel Production | 0.243M |  | -0.114M |
-| 00:00 | USD | EIA Weekly Distillates Stocks | 0.833M | 0.600M | 1.485M |
+| 00:00 | USD | EIA Weekly Distillates Stocks | 0.741M | 0.600M | 1.485M |
 | 00:00 | USD | Gasoline Production | -0.008M |  | 0.496M |
-| 00:00 | USD | Heating Oil Stockpiles | 0.325M |  | -0.335M |
+| 00:00 | USD | Heating Oil Stockpiles | 0.286M |  | -0.335M |
 | 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 2.2% |
-| 00:00 | USD | Gasoline Inventories | -0.575M | 0.400M | 2.710M |
-| 10 min | USD | 4-Week Bill Auction |  |  | 5.265% |
-| 10 min | USD | 8-Week Bill Auction |  |  | 5.270% |
-| Tentative | BRL | CAGED Net Payroll Jobs (Nov) |  | 142.84K | 190.37K |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -2.666B |
+| 00:00 | USD | Gasoline Inventories | -0.669M | 0.400M | 2.710M |
+| 00:30 | USD | 4-Week Bill Auction | 5.325% |  | 5.265% |
+| 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.270% |
+| Tentative | BRL | CAGED Net Payroll Jobs (Nov) | 130.10K | 142.84K | 190.37K |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -2.666B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.477T |
 | 07:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
 | 07:00 | KRW | CPI (YoY) (Dec) |  | 3.3% | 3.3% |
