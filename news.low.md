@@ -14,9 +14,9 @@
 | 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.270% |
 | 01:00 | BRL | CAGED Net Payroll Jobs (Nov) | 130.10K | 142.84K | 190.37K |
 | 01:30 | BRL | Foreign Exchange Flows | -5.505B |  | -2.666B |
-| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.477T |
-| 07:00 | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
-| 07:00 | KRW | CPI (YoY) (Dec) |  | 3.3% | 3.3% |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.434T |  | 3.477T |
+| 45 min | KRW | CPI (YoY) (Dec) |  | 3.3% | 3.3% |
+| 45 min | KRW | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
 | 08:30 | AUD | Housing Credit (Nov) |  |  | 0.4% |
 | 10:00 | SGD | Bank Lending |  |  | 791.5B |
 | 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
