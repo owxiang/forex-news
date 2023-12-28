@@ -22,13 +22,13 @@
 | 16:30 | HKD | Low | Exports (MoM) (Nov) | 7.4% |  | 1.4% |
 | 16:30 | HKD | Low | Imports (MoM) (Nov) | 7.1% |  | 2.6% |
 | 16:30 | HKD | Low | Trade Balance | -27.9B |  | -25.8B |
-| 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,821.4K |
-| 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
+| 43 min | EUR | Moderate | France Jobseekers Total |  |  | 2,821.4K |
+| 43 min | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 20:00 | MXN | Low | Unemployment Rate (Nov) |  |  | 2.60% |
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,875K | 1,865K |
 | 21:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -88.40B | -89.56B |
 | 21:30 | USD | High | Initial Jobless Claims |  | 210K | 205K |
