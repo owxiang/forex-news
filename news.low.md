@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Jan) | 72 |  | 72 |
-| 07:00 | KRW | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 1.1% |
+| 07:00 | KRW | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 0.9% |
 | 07:00 | KRW | Industrial Production (MoM) (Nov) | 3.3% | 1.0% | -3.5% |
 | 07:00 | KRW | Retail Sales (MoM) (Nov) | 1.0% |  | -0.8% |
 | 07:00 | KRW | Service Sector Output (MoM) (Nov) | -0.1% |  | -0.9% |
@@ -14,7 +14,7 @@
 | 07:50 | JPY | Large Retailers' Sales (MoM) | 1.0% |  | -1.6% |
 | 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Nov) | 5.0% |  | 4.0% |
 | 07:50 | JPY | Retail Sales (YoY) (Nov) | 5.3% | 5.0% | 4.1% |
-| 16:00 | EUR | Spanish Retail Sales (YoY) (Nov) |  |  | 5.0% |
+| 46 min | EUR | Spanish Retail Sales (YoY) (Nov) |  |  | 5.0% |
 | 16:30 | HKD | Exports (MoM) (Nov) |  |  | 1.4% |
 | 16:30 | HKD | Imports (MoM) (Nov) |  |  | 2.6% |
 | 16:30 | HKD | Trade Balance |  |  | -25.8B |
