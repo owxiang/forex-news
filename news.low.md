@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Jan) | 72 |  | 72 |
-| 07:00 | KRW | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 1.1% |
 | 07:00 | KRW | Industrial Production (MoM) (Nov) | 3.3% | 1.0% | -3.5% |
+| 07:00 | KRW | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 1.1% |
 | 07:00 | KRW | Retail Sales (MoM) (Nov) | 1.0% |  | -0.8% |
 | 07:00 | KRW | Service Sector Output (MoM) (Nov) | -0.1% |  | -0.9% |
 | 07:50 | JPY | Foreign Bonds Buying | -167.4B |  | 2,286.3B |

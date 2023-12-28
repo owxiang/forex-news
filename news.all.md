@@ -5,8 +5,8 @@
 | 02:00 | USD | Moderate | 5-Year Note Auction | 3.801% |  | 4.420% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Jan) | 72 |  | 72 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 1.837M |  | 0.939M |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 1.1% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Nov) | 3.3% | 1.0% | -3.5% |
+| 07:00 | KRW | Low | Industrial Production (YoY) (Nov) | 5.3% | 3.0% | 1.1% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Nov) | 1.0% |  | -0.8% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Nov) | -0.1% |  | -0.9% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -167.4B |  | 2,286.3B |
