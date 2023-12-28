@@ -26,8 +26,8 @@
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
 | 20:00 | MXN | Low | Unemployment Rate (Nov) |  |  | 2.60% |
 | 20:00 | MXN | Low | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,875K | 1,865K |
 | 21:30 | USD | Moderate | Goods Trade Balance (Nov) |  | -88.40B | -89.56B |
 | 21:30 | USD | High | Initial Jobless Claims |  | 210K | 205K |

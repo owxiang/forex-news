@@ -21,8 +21,8 @@
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Dec) |  | 0.66% | 0.59% |
 | 20:00 | MXN | Unemployment Rate (Nov) |  |  | 2.60% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Nov) |  | 2.60% | 2.70% |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Dec) |  | 0.27% | 0.33% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Dec) |  | 4.59% | 4.84% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
 | 21:30 | USD | Wholesale Inventories (MoM) |  | -0.2% | -0.4% |
 | 21:30 | INR | M3 Money Supply |  |  | 11.2% |
