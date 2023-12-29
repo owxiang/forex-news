@@ -5,8 +5,8 @@
 | 00:00 | USD | Cushing Crude Oil Inventories | 1.508M |  | 1.686M |
 | 02:00 | USD | 7-Year Note Auction | 3.859% |  | 4.399% |
 | 05:30 | USD | Fed's Balance Sheet | 7,713B |  | 7,724B |
-| 15:00 | GBP | Nationwide HPI (YoY) (Dec) |  | -1.4% | -2.0% |
 | 15:00 | GBP | Nationwide HPI (MoM) (Dec) |  | 0.0% | 0.2% |
+| 15:00 | GBP | Nationwide HPI (YoY) (Dec) |  | -1.4% | -2.0% |
 | 16:00 | CHF | KOF Leading Indicators (Dec) |  | 97.0 | 96.7 |
 | 16:00 | EUR | Spanish CPI (YoY) (Dec) |  | 3.4% | 3.2% |
 | 16:00 | EUR | Spanish HICP (YoY) (Dec) |  | 3.6% | 3.3% |

@@ -15,11 +15,10 @@
 | 01:00 | BRL | CAGED Net Payroll Jobs (Nov) | 130.10K | 142.84K | 190.37K |
 | 01:30 | BRL | Foreign Exchange Flows | -5.505B |  | -2.666B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.434T |  | 3.477T |
-| 07:00 | KRW | CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
 | 07:00 | KRW | CPI (MoM) (Dec) | 0.0% | 0.2% | -0.5% |
-| 08:30 | AUD | Housing Credit (Nov) |  |  | 0.4% |
-| 10:00 | SGD | Bank Lending |  |  | 791.5B |
-| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:00 | KRW | CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
+| 59 min | SGD | Bank Lending |  |  | 791.5B |
+| 59 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Nov) |  | 5.90% | 6.08% |
 | 14:00 | ZAR | Private Sector Credit (Nov) |  | 4.35% | 3.94% |
 | 16:00 | CHF | Official Reserves Assets (Nov) |  |  | 731.2B |
