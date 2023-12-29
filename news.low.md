@@ -27,15 +27,15 @@
 | 16:30 | HKD | M3 Money Supply (Nov) | 2.6% |  | 3.3% |
 | 17:00 | EUR | Spanish Current account (Oct) | 3.77B |  | 3.45B |
 | 17:00 | NOK | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
-| 44 min | INR | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
+| 18:13 | ZAR | Budget Balance (MoM) (Nov) | -17.81B | -17.05B | -41.23B |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.8% |
 | 19:30 | INR | Deposit Growth |  |  | 13.4% |
+| 19:30 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
 | 19:30 | INR | FX Reserves, USD |  |  | 615.97B |
 | 19:30 | INR | M3 Money Supply |  |  | 11.2% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Budget Balance (Nov) |  |  | -47.148B |
 | 19:30 | BRL | Budget Surplus (Nov) |  |  | 14.798B |
 | 20:00 | INR | Infrastructure Output (YoY) (Nov) |  |  | 12.1% |
-| 20:00 | ZAR | Budget Balance (MoM) (Nov) |  | -17.05B | -41.23B |
 | 20:00 | ZAR | Trade Balance (Nov) |  | 5.80B | -12.66B |
 | 21:30 | BRL | Long Term Interest Rate TJLP |  |  | 6.55% |
