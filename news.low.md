@@ -36,4 +36,3 @@
 | 19:30 | INR | M3 Money Supply | 11.6% |  | 11.2% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | ZAR | Trade Balance (Nov) | 21.02B | 5.80B | -12.88B |
-| 12 min | BRL | Long Term Interest Rate TJLP |  |  | 6.55% |

@@ -31,8 +31,8 @@
 | 16:00 | CHF | Low | Official Reserves Assets (Nov) | 714.9B |  | 731.2B |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 3.1% | 3.4% | 3.2% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.0% | 0.3% | -0.3% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.3% | 3.6% | 3.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.0% | 0.3% | -0.5% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.3% | 3.6% | 3.3% |
 | 16:30 | HKD | Low | M3 Money Supply (Nov) | 2.6% |  | 3.3% |
 | 17:00 | EUR | Low | Spanish Current account (Oct) | 3.77B |  | 3.45B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
@@ -47,5 +47,4 @@
 | 20:00 | BRL | Moderate | Unemployment Rate | 7.5% | 7.5% | 7.6% |
 | 20:00 | ZAR | Low | Trade Balance (Nov) | 21.02B | 5.80B | -12.88B |
 | 20:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 12 min | BRL | Low | Long Term Interest Rate TJLP |  |  | 6.55% |
-| 22:45 | USD | High | Chicago PMI (Dec) |  | 51.0 | 55.8 |
+| 31 min | USD | High | Chicago PMI (Dec) |  | 51.0 | 55.8 |
