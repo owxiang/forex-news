@@ -25,14 +25,14 @@
 | 16:00 | EUR | Spanish CPI (MoM) (Dec) | 0.0% | 0.3% | -0.3% |
 | 16:00 | EUR | Spanish HICP (MoM) (Dec) | 0.0% | 0.3% | -0.5% |
 | 16:30 | HKD | M3 Money Supply (Nov) | 2.6% |  | 3.3% |
-| 17:00 | EUR | Spanish Current account (Oct) | 3.77B |  | 3.45B |
+| 17:00 | EUR | Spanish Current account (Oct) | 3.77B |  | 2.97B |
 | 17:00 | NOK | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
 | 18:15 | ZAR | Budget Balance (MoM) (Nov) | -17.81B | -17.05B | -41.23B |
 | 18:30 | INR | Federal Fiscal Deficit (Nov) | 9,065.84B |  | 8,037.00B |
 | 19:30 | INR | Bank Loan Growth | 20.2% |  | 20.8% |
 | 19:30 | INR | Deposit Growth | 14.0% |  | 13.4% |
 | 19:30 | INR | FX Reserves, USD | 620.44B |  | 615.97B |
-| 19:30 | INR | Infrastructure Output (YoY) (Nov) | 7.8% |  | 12.1% |
+| 19:30 | INR | Infrastructure Output (YoY) (Nov) | 7.8% |  | 12.0% |
 | 19:30 | INR | M3 Money Supply | 11.6% |  | 11.2% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | ZAR | Trade Balance (Nov) | 21.02B | 5.80B | -12.88B |

@@ -24,27 +24,27 @@
 | 10:00 | SGD | Low | Bank Lending | 792.9B |  | 791.5B |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) | 5.46% | 5.90% | 6.08% |
 | 14:00 | ZAR | Low | Private Sector Credit (Nov) | 3.84% | 4.35% | 3.94% |
-| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | -1.8% | -1.4% | -2.0% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.0% | 0.0% | 0.2% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | -1.8% | -1.4% | -2.0% |
 | 15:00 | INR | Low | Foreign Debt (USD) (Q3) | 635.3B |  | 629.1B |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Dec) | 97.8 | 97.0 | 97.2 |
 | 16:00 | CHF | Low | Official Reserves Assets (Nov) | 714.9B |  | 731.2B |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 3.1% | 3.4% | 3.2% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.0% | 0.3% | -0.3% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.0% | 0.3% | -0.5% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.3% | 3.6% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.0% | 0.3% | -0.5% |
 | 16:30 | HKD | Low | M3 Money Supply (Nov) | 2.6% |  | 3.3% |
-| 17:00 | EUR | Low | Spanish Current account (Oct) | 3.77B |  | 3.45B |
+| 17:00 | EUR | Low | Spanish Current account (Oct) | 3.77B |  | 2.97B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
 | 18:15 | ZAR | Low | Budget Balance (MoM) (Nov) | -17.81B | -17.05B | -41.23B |
 | 18:30 | INR | Low | Federal Fiscal Deficit (Nov) | 9,065.84B |  | 8,037.00B |
 | 19:30 | INR | Low | Bank Loan Growth | 20.2% |  | 20.8% |
 | 19:30 | INR | Low | Deposit Growth | 14.0% |  | 13.4% |
 | 19:30 | INR | Low | FX Reserves, USD | 620.44B |  | 615.97B |
-| 19:30 | INR | Low | Infrastructure Output (YoY) (Nov) | 7.8% |  | 12.1% |
+| 19:30 | INR | Low | Infrastructure Output (YoY) (Nov) | 7.8% |  | 12.0% |
 | 19:30 | INR | Low | M3 Money Supply | 11.6% |  | 11.2% |
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | BRL | Moderate | Unemployment Rate | 7.5% | 7.5% | 7.6% |
 | 20:00 | ZAR | Low | Trade Balance (Nov) | 21.02B | 5.80B | -12.88B |
 | 20:10 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 31 min | USD | High | Chicago PMI (Dec) |  | 51.0 | 55.8 |
+| 22:45 | USD | High | Chicago PMI (Dec) | 46.9 | 51.0 | 55.8 |
