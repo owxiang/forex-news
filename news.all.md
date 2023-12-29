@@ -19,14 +19,13 @@
 | 02:00 | USD | Moderate | 7-Year Note Auction | 3.859% |  | 4.399% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,713B |  | 7,724B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.434T |  | 3.477T |
-| 07:00 | KRW | Low | CPI (MoM) (Dec) | 0.0% | 0.2% | -0.5% |
 | 07:00 | KRW | Low | CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
-| 10:00 | SGD | Low | Bank Lending |  |  | 791.5B |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:00 | KRW | Low | CPI (MoM) (Dec) | 0.0% | 0.2% | -0.5% |
+| 10:00 | SGD | Low | Bank Lending | 792.9B |  | 791.5B |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) |  | 5.90% | 6.08% |
 | 14:00 | ZAR | Low | Private Sector Credit (Nov) |  | 4.35% | 3.94% |
-| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.0% | 0.2% |
 | 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | -1.4% | -2.0% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.0% | 0.2% |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Dec) |  | 97.0 | 96.7 |
 | 16:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 731.2B |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 3.4% | 3.2% |
