@@ -24,9 +24,10 @@
 | 16:00 | CHF | Official Reserves Assets (Nov) | 714.9B |  | 731.2B |
 | 16:00 | EUR | Spanish CPI (MoM) (Dec) | 0.0% | 0.3% | -0.3% |
 | 16:00 | EUR | Spanish HICP (MoM) (Dec) | 0.0% | 0.3% | -0.5% |
-| 41 min | EUR | Spanish Current account (Oct) |  |  | 3.45B |
-| 41 min | NOK | Central Bank Currency Purchase (Jan) |  |  | 1,400.0M |
-| 18:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
+| 16:30 | HKD | M3 Money Supply (Nov) | 2.6% |  | 3.3% |
+| 17:00 | EUR | Spanish Current account (Oct) | 3.77B |  | 3.45B |
+| 17:00 | NOK | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
+| 44 min | INR | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.8% |
 | 19:30 | INR | Deposit Growth |  |  | 13.4% |
 | 19:30 | INR | FX Reserves, USD |  |  | 615.97B |

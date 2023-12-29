@@ -33,9 +33,10 @@
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 3.1% | 3.4% | 3.2% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.0% | 0.3% | -0.5% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.3% | 3.6% | 3.3% |
-| 41 min | EUR | Low | Spanish Current account (Oct) |  |  | 3.45B |
-| 41 min | NOK | Low | Central Bank Currency Purchase (Jan) |  |  | 1,400.0M |
-| 18:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
+| 16:30 | HKD | Low | M3 Money Supply (Nov) | 2.6% |  | 3.3% |
+| 17:00 | EUR | Low | Spanish Current account (Oct) | 3.77B |  | 3.45B |
+| 17:00 | NOK | Low | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
+| 44 min | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.8% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.4% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 615.97B |
