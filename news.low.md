@@ -17,8 +17,8 @@
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.434T |  | 3.477T |
 | 07:00 | KRW | CPI (MoM) (Dec) | 0.0% | 0.2% | -0.5% |
 | 07:00 | KRW | CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
-| 59 min | SGD | Bank Lending |  |  | 791.5B |
-| 59 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 10:00 | SGD | Bank Lending |  |  | 791.5B |
+| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Nov) |  | 5.90% | 6.08% |
 | 14:00 | ZAR | Private Sector Credit (Nov) |  | 4.35% | 3.94% |
 | 16:00 | CHF | Official Reserves Assets (Nov) |  |  | 731.2B |
