@@ -15,8 +15,8 @@
 | 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.270% |
 | 01:30 | BRL | Foreign Exchange Flows | -5.505B |  | -2.666B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.434T |  | 3.477T |
-| 07:00 | KRW | CPI (MoM) (Dec) | 0.0% | 0.2% | -0.5% |
 | 07:00 | KRW | CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
+| 07:00 | KRW | CPI (MoM) (Dec) | 0.0% | 0.2% | -0.5% |
 | 10:00 | SGD | Bank Lending | 792.9B |  | 791.5B |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Nov) | 5.46% | 5.90% | 6.08% |
 | 14:00 | ZAR | Private Sector Credit (Nov) | 3.84% | 4.35% | 3.94% |
@@ -29,13 +29,11 @@
 | 17:00 | NOK | Central Bank Currency Purchase (Jan) | 350.0M |  | 1,400.0M |
 | 18:15 | ZAR | Budget Balance (MoM) (Nov) | -17.81B | -17.05B | -41.23B |
 | 18:30 | INR | Federal Fiscal Deficit (Nov) | 9,065.84B |  | 8,037.00B |
-| 16 min | INR | Bank Loan Growth |  |  | 20.8% |
-| 16 min | INR | Deposit Growth |  |  | 13.4% |
-| 16 min | INR | FX Reserves, USD |  |  | 615.97B |
-| 16 min | INR | M3 Money Supply |  |  | 11.2% |
-| 16 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 16 min | BRL | Budget Balance (Nov) |  |  | -47.148B |
-| 16 min | BRL | Budget Surplus (Nov) |  |  | 14.798B |
-| 46 min | INR | Infrastructure Output (YoY) (Nov) |  |  | 12.1% |
-| 46 min | ZAR | Trade Balance (Nov) |  | 5.80B | -12.66B |
+| 19:30 | INR | Infrastructure Output (YoY) (Nov) | 7.8% |  | 12.1% |
+| 19:30 | INR | M3 Money Supply | 11.6% |  | 11.2% |
+| 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 20:00 | ZAR | Trade Balance (Nov) | 21.02B | 5.80B | -12.66B |
+| 3 min | INR | Bank Loan Growth |  |  | 20.8% |
+| 3 min | INR | Deposit Growth |  |  | 13.4% |
+| 3 min | INR | FX Reserves, USD |  |  | 615.97B |
 | 21:30 | BRL | Long Term Interest Rate TJLP |  |  | 6.55% |
