@@ -10,9 +10,9 @@
 | 00:00 | USD | Heating Oil Stockpiles | 0.286M |  | -0.335M |
 | 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 2.2% |
 | 00:00 | USD | Gasoline Inventories | -0.669M | 0.400M | 2.710M |
+| 00:00 | BRL | CAGED Net Payroll Jobs (Nov) | 130.10K | 142.84K | 190.37K |
 | 00:30 | USD | 4-Week Bill Auction | 5.325% |  | 5.265% |
 | 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.270% |
-| 01:00 | BRL | CAGED Net Payroll Jobs (Nov) | 130.10K | 142.84K | 190.37K |
 | 01:30 | BRL | Foreign Exchange Flows | -5.505B |  | -2.666B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.434T |  | 3.477T |
 | 07:00 | KRW | CPI (YoY) (Dec) | 3.2% | 3.3% | 3.3% |
