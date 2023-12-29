@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| Tentative | MXN | Fiscal Balance (Nov) |  |  | -674.80B |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.8K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | 5.6K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -127.6K |
