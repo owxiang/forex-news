@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 498 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 620 |
+| 44 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 498 |
+| 44 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 620 |
 | Tentative | MXN | Low | Fiscal Balance (Nov) |  |  | -674.80B |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 19.9K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.8K |
