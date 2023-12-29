@@ -20,9 +20,10 @@
 | 10:00 | SGD | Bank Lending | 792.9B |  | 791.5B |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Nov) | 5.46% | 5.90% | 6.08% |
 | 14:00 | ZAR | Private Sector Credit (Nov) | 3.84% | 4.35% | 3.94% |
-| 16:00 | CHF | Official Reserves Assets (Nov) |  |  | 731.2B |
-| 16:00 | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | -0.3% |
-| 16:00 | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | -0.5% |
+| 15:00 | INR | Foreign Debt (USD) (Q3) | 635.3B |  | 629.1B |
+| 45 min | CHF | Official Reserves Assets (Nov) |  |  | 731.2B |
+| 45 min | EUR | Spanish CPI (MoM) (Dec) |  | 0.3% | -0.3% |
+| 45 min | EUR | Spanish HICP (MoM) (Dec) |  | 0.3% | -0.5% |
 | 17:00 | EUR | Spanish Current account (Oct) |  |  | 3.45B |
 | 17:00 | NOK | Central Bank Currency Purchase (Jan) |  |  | 1,400.0M |
 | 18:00 | INR | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
@@ -33,7 +34,6 @@
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Budget Balance (Nov) |  |  | -47.148B |
 | 19:30 | BRL | Budget Surplus (Nov) |  |  | 14.798B |
-| 20:00 | INR | Foreign Debt (USD) (Q3) |  |  | 629.1B |
 | 20:00 | INR | Infrastructure Output (YoY) (Nov) |  |  | 12.1% |
 | 20:00 | ZAR | Budget Balance (MoM) (Nov) |  | -17.05B | -41.23B |
 | 20:00 | ZAR | Trade Balance (Nov) |  | 5.80B | -12.66B |

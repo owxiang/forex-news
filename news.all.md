@@ -24,14 +24,15 @@
 | 10:00 | SGD | Low | Bank Lending | 792.9B |  | 791.5B |
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Nov) | 5.46% | 5.90% | 6.08% |
 | 14:00 | ZAR | Low | Private Sector Credit (Nov) | 3.84% | 4.35% | 3.94% |
-| 39 min | GBP | Moderate | Nationwide HPI (MoM) (Dec) |  | 0.0% | 0.2% |
-| 39 min | GBP | Moderate | Nationwide HPI (YoY) (Dec) |  | -1.4% | -2.0% |
-| 16:00 | CHF | Moderate | KOF Leading Indicators (Dec) |  | 97.0 | 96.7 |
-| 16:00 | CHF | Low | Official Reserves Assets (Nov) |  |  | 731.2B |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 3.4% | 3.2% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | -0.3% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.6% | 3.3% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | -0.5% |
+| 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Dec) | 0.0% | 0.0% | 0.2% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Dec) | -1.8% | -1.4% | -2.0% |
+| 15:00 | INR | Low | Foreign Debt (USD) (Q3) | 635.3B |  | 629.1B |
+| 45 min | CHF | Moderate | KOF Leading Indicators (Dec) |  | 97.0 | 96.7 |
+| 45 min | CHF | Low | Official Reserves Assets (Nov) |  |  | 731.2B |
+| 45 min | EUR | Low | Spanish CPI (MoM) (Dec) |  | 0.3% | -0.3% |
+| 45 min | EUR | Moderate | Spanish CPI (YoY) (Dec) |  | 3.4% | 3.2% |
+| 45 min | EUR | Moderate | Spanish HICP (YoY) (Dec) |  | 3.6% | 3.3% |
+| 45 min | EUR | Low | Spanish HICP (MoM) (Dec) |  | 0.3% | -0.5% |
 | 17:00 | EUR | Low | Spanish Current account (Oct) |  |  | 3.45B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Jan) |  |  | 1,400.0M |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Nov) |  |  | 8,037.00B |
@@ -42,7 +43,6 @@
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 19:30 | BRL | Low | Budget Balance (Nov) |  |  | -47.148B |
 | 19:30 | BRL | Low | Budget Surplus (Nov) |  |  | 14.798B |
-| 20:00 | INR | Low | Foreign Debt (USD) (Q3) |  |  | 629.1B |
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Nov) |  |  | 12.1% |
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 7.5% | 7.6% |
 | 20:00 | ZAR | Low | Budget Balance (MoM) (Nov) |  | -17.05B | -41.23B |
