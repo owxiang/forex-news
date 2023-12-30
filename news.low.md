@@ -14,4 +14,3 @@
 | 04:30 | MXN | Fiscal Balance (Nov) | -87.78B |  | -29.58B |
 | 04:30 | CHF | CFTC CHF speculative net positions | -3.4K |  | -6.1K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -3.7K |  | -3.4K |
-| 51 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
