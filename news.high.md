@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | CNY | Manufacturing PMI (Dec) |  | 49.6 | 49.4 |
+| 09:30 | CNY | Manufacturing PMI (Dec) | 49.0 | 49.6 | 49.4 |

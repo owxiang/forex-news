@@ -2,5 +2,5 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14 min | CNY | Chinese Composite PMI (Dec) |  |  | 50.4 |
-| 14 min | CNY | Non-Manufacturing PMI (Dec) |  | 50.5 | 50.2 |
+| 09:30 | CNY | Chinese Composite PMI (Dec) | 50.3 |  | 50.4 |
+| 09:30 | CNY | Non-Manufacturing PMI (Dec) | 50.4 | 50.5 | 50.2 |
