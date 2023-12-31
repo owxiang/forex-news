@@ -1,7 +1,7 @@
-## 31 December 2023 - All Forex News
+## 01 January 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 09:30 | CNY | Moderate | Chinese Composite PMI (Dec) | 50.3 |  | 50.4 |
-| 09:30 | CNY | High | Manufacturing PMI (Dec) | 49.0 | 49.6 | 49.4 |
-| 09:30 | CNY | Moderate | Non-Manufacturing PMI (Dec) | 50.4 | 50.5 | 50.2 |
+| 08:00 | KRW | Low | Exports (YoY) (Dec) |  | 6.6% | 7.8% |
+| 08:00 | KRW | Low | Imports (YoY) (Dec) |  | -11.4% | -11.6% |
+| 08:00 | KRW | Low | Trade Balance (Dec) |  | 6.26B | 3.78B |
