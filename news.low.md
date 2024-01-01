@@ -3,16 +3,16 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 47.8 | 47.7 |
-| 08:00 | SGD | GDP (QoQ) (Q4) |  |  | 1.4% |
 | 08:00 | SGD | GDP (YoY) (Q4) |  |  | 1.1% |
+| 08:00 | SGD | GDP (QoQ) (Q4) |  |  | 1.4% |
 | 08:01 | GBP | BRC Shop Price Index (YoY) |  |  | 4.3% |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Dec) |  |  | 50.0 |
 | 08:30 | SGD | URA Property Index (QoQ) (Q4) |  |  | 0.80% |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Dec) |  |  | 51.7 |
 | 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 12:00 | IDR | Core Inflation (YoY) (Dec) |  | 1.85% | 1.87% |
-| 12:00 | IDR | Inflation (YoY) (Dec) |  | 2.72% | 2.86% |
 | 12:00 | IDR | Inflation (MoM) (Dec) |  | 0.50% | 0.38% |
+| 12:00 | IDR | Inflation (YoY) (Dec) |  | 2.72% | 2.86% |
 | 13:30 | AUD | Commodity Prices (YoY) |  |  | -10.5% |
 | 17:00 | NOK | Manufacturing PMI (Dec) |  |  | 49.9 |
 | 17:00 | EUR | M3 Money Supply (YoY) (Nov) |  | -1.0% | -1.0% |

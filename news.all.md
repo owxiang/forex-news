@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 47.8 | 47.7 |
-| 08:00 | SGD | Low | GDP (QoQ) (Q4) |  |  | 1.4% |
 | 08:00 | SGD | Low | GDP (YoY) (Q4) |  |  | 1.1% |
+| 08:00 | SGD | Low | GDP (QoQ) (Q4) |  |  | 1.4% |
 | 08:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 4.3% |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) |  |  | 50.0 |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) |  |  | 0.80% |
@@ -12,8 +12,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) |  | 50.4 | 50.7 |
 | 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Dec) |  | 1.85% | 1.87% |
-| 12:00 | IDR | Low | Inflation (YoY) (Dec) |  | 2.72% | 2.86% |
 | 12:00 | IDR | Low | Inflation (MoM) (Dec) |  | 0.50% | 0.38% |
+| 12:00 | IDR | Low | Inflation (YoY) (Dec) |  | 2.72% | 2.86% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -10.5% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 47.0 | 46.3 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 44.4 | 44.4 |
