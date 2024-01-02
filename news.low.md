@@ -13,12 +13,12 @@
 | 12:00 | IDR | Inflation (YoY) (Dec) | 2.61% | 2.72% | 2.86% |
 | 12:00 | IDR | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
 | 13:30 | AUD | Commodity Prices (YoY) | -10.7% |  | -12.8% |
-| 40 min | NOK | Manufacturing PMI (Dec) |  |  | 49.9 |
-| 40 min | EUR | M3 Money Supply (YoY) (Nov) |  | -1.0% | -1.0% |
-| 40 min | EUR | Loans to Non Financial Corporations (Nov) |  |  | -0.3% |
-| 40 min | EUR | Private Sector Loans (YoY) |  | 0.8% | 0.6% |
-| 19:00 | EUR | Car Registration (YoY) (Dec) |  |  | 7.00% |
+| 17:00 | NOK | Manufacturing PMI (Dec) | 51.7 |  | 50.1 |
+| 17:00 | EUR | M3 Money Supply (YoY) (Nov) | -0.9% | -1.0% | -1.0% |
+| 17:00 | EUR | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
+| 17:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
 | 19:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 19:00 | EUR | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.333% |

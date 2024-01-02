@@ -15,17 +15,17 @@
 | 12:00 | IDR | Low | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) | -10.7% |  | -12.8% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) | 46.2 | 47.0 | 46.3 |
-| 25 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 44.4 | 44.4 |
-| 30 min | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 42.0 | 42.9 |
-| 35 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) |  | 43.1 | 42.6 |
-| 40 min | NOK | Low | Manufacturing PMI (Dec) |  |  | 49.9 |
-| 40 min | EUR | Low | M3 Money Supply (YoY) (Nov) |  | -1.0% | -1.0% |
-| 40 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) |  | 44.2 | 44.2 |
-| 40 min | EUR | Low | Loans to Non Financial Corporations (Nov) |  |  | -0.3% |
-| 40 min | EUR | Low | Private Sector Loans (YoY) |  | 0.8% | 0.6% |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 46.4 | 47.2 |
-| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
+| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) | 45.3 | 44.4 | 44.4 |
+| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 42.1 | 42.0 | 42.9 |
+| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 43.3 | 43.1 | 42.6 |
+| 17:00 | NOK | Low | Manufacturing PMI (Dec) | 51.7 |  | 50.1 |
+| 17:00 | EUR | Low | M3 Money Supply (YoY) (Nov) | -0.9% | -1.0% | -1.0% |
+| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 44.4 | 44.2 | 44.2 |
+| 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
+| 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
+| 15 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 46.4 | 47.2 |
 | 19:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
