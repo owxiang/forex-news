@@ -26,13 +26,13 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 46.2 | 46.4 | 47.2 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:50 | EUR | Low | Car Registration (YoY) (Dec) | 10.60% |  | 7.00% |
+| 20:00 | NZD | Low | GlobalDairyTrade Price Index | 1.2% |  | 2.3% |
+| 20:00 | USD | Low | Milk Auctions | 3,363.0 |  | 3,388.0 |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 48.4 |  | 49.4 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction | 3.215% |  | 3.333% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.757% |  | 3.729% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.663% |  | 3.690% |
-| 15 min | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) |  |  | 47.7 |
-| 30 min | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 48.2 | 49.4 |
-| 45 min | USD | Moderate | Construction Spending (MoM) (Nov) |  | 0.5% | 0.6% |
-| 45 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Dec) |  |  | 52.50 |
-| 45 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 45 min | USD | Low | Milk Auctions |  |  | 3,388.0 |
+| 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) | 45.4 |  | 47.7 |
+| 22:45 | USD | High | S&P Global US Manufacturing PMI (Dec) | 47.9 | 48.2 | 49.4 |
+| 23:00 | USD | Moderate | Construction Spending (MoM) (Nov) | 0.4% | 0.5% | 1.2% |
+| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Dec) | 52.00 |  | 52.50 |

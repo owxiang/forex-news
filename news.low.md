@@ -19,11 +19,11 @@
 | 17:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:50 | EUR | Car Registration (YoY) (Dec) | 10.60% |  | 7.00% |
+| 20:00 | NZD | GlobalDairyTrade Price Index | 1.2% |  | 2.3% |
+| 20:00 | USD | Milk Auctions | 3,363.0 |  | 3,388.0 |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Dec) | 48.4 |  | 49.4 |
 | 21:55 | EUR | French 12-Month BTF Auction | 3.215% |  | 3.333% |
 | 21:55 | EUR | French 3-Month BTF Auction | 3.757% |  | 3.729% |
 | 21:55 | EUR | French 6-Month BTF Auction | 3.663% |  | 3.690% |
-| 15 min | CAD | S&P Global Canada Manufacturing PMI (Dec) |  |  | 47.7 |
-| 45 min | MXN | S&P Global Mexico Manufacturing PMI (Dec) |  |  | 52.50 |
-| 45 min | NZD | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 45 min | USD | Milk Auctions |  |  | 3,388.0 |
+| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Dec) | 45.4 |  | 47.7 |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Dec) | 52.00 |  | 52.50 |
