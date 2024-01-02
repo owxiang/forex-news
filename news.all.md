@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11 min | USD | Low | 3-Month Bill Auction |  |  | 5.260% |
-| 11 min | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
-| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
-| 02:00 | BRL | Low | Trade Balance |  | 7.80B | 8.78B |
+| 00:30 | USD | Low | 3-Month Bill Auction | 5.245% |  | 5.260% |
+| 00:30 | USD | Low | 6-Month Bill Auction | 5.045% |  | 5.080% |
+| 45 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
+| 45 min | BRL | Low | Trade Balance |  | 7.80B | 8.78B |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
