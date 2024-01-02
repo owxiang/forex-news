@@ -24,13 +24,13 @@
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 46.2 | 46.4 | 47.2 |
-| 19:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:30 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
-| 30 min | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.729% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.690% |
+| 19:50 | EUR | Low | Car Registration (YoY) (Dec) | 10.60% |  | 7.00% |
+| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 48.4 |  | 49.4 |
+| 37 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
+| 37 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.729% |
+| 37 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.690% |
+| 42 min | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) |  |  | 47.7 |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 48.2 | 49.4 |
 | 23:00 | USD | Moderate | Construction Spending (MoM) (Nov) |  | 0.5% | 0.6% |

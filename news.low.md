@@ -17,13 +17,13 @@
 | 17:00 | EUR | M3 Money Supply (YoY) (Nov) | -0.9% | -1.0% | -1.0% |
 | 17:00 | EUR | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
-| 19:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:30 | EUR | Car Registration (YoY) (Dec) |  |  | 7.00% |
-| 30 min | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.333% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.729% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.690% |
+| 19:50 | EUR | Car Registration (YoY) (Dec) | 10.60% |  | 7.00% |
+| 21:00 | BRL | S&P Global Manufacturing PMI (Dec) | 48.4 |  | 49.4 |
+| 37 min | EUR | French 12-Month BTF Auction |  |  | 3.333% |
+| 37 min | EUR | French 3-Month BTF Auction |  |  | 3.729% |
+| 37 min | EUR | French 6-Month BTF Auction |  |  | 3.690% |
+| 42 min | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 22:30 | CAD | S&P Global Canada Manufacturing PMI (Dec) |  |  | 47.7 |
 | 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Dec) |  |  | 52.50 |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.3% |
