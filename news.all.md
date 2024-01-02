@@ -9,11 +9,10 @@
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 49.9 |  | 50.0 |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Dec) | 52.2 |  | 51.7 |
-| 35 min | CNY | Moderate | Caixin Manufacturing PMI (Dec) |  | 50.4 | 50.7 |
-| 50 min | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.8 | 50.4 | 50.7 |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Dec) |  | 1.85% | 1.87% |
-| 12:00 | IDR | Low | Inflation (MoM) (Dec) |  | 0.50% | 0.38% |
 | 12:00 | IDR | Low | Inflation (YoY) (Dec) |  | 2.72% | 2.86% |
+| 12:00 | IDR | Low | Inflation (MoM) (Dec) |  | 0.50% | 0.38% |
 | 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -10.5% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 47.0 | 46.3 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 44.4 | 44.4 |
@@ -25,8 +24,8 @@
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) |  |  | -0.3% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.8% | 0.6% |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 46.4 | 46.4 |
-| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
