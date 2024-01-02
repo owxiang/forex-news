@@ -1,38 +1,34 @@
-## 02 January 2024 - All Forex News
+## 03 January 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.6 | 47.8 | 47.7 |
-| 08:00 | SGD | Low | GDP (YoY) (Q4) | 2.8% |  | 1.0% |
-| 08:00 | SGD | Low | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
-| 08:01 | GBP | Low | BRC Shop Price Index (YoY) | 4.3% |  | 4.3% |
-| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 49.9 |  | 50.0 |
-| 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
-| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Dec) | 52.2 |  | 51.7 |
-| 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.8 | 50.4 | 50.7 |
-| 12:00 | IDR | Low | Core Inflation (YoY) (Dec) | 1.80% | 1.85% | 1.87% |
-| 12:00 | IDR | Low | Inflation (YoY) (Dec) | 2.61% | 2.72% | 2.86% |
-| 12:00 | IDR | Low | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
-| 13:30 | AUD | Low | Commodity Prices (YoY) | -10.7% |  | -12.8% |
-| 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) | 46.2 | 47.0 | 46.3 |
-| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) | 45.3 | 44.4 | 44.4 |
-| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) | 42.1 | 42.0 | 42.9 |
-| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Dec) | 43.3 | 43.1 | 42.6 |
-| 17:00 | NOK | Low | Manufacturing PMI (Dec) | 51.7 |  | 50.1 |
-| 17:00 | EUR | Low | M3 Money Supply (YoY) (Nov) | -0.9% | -1.0% | -1.0% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 44.4 | 44.2 | 44.2 |
-| 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
-| 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 46.2 | 46.4 | 47.2 |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:50 | EUR | Low | Car Registration (YoY) (Dec) | 10.60% |  | 7.00% |
-| 20:00 | NZD | Low | GlobalDairyTrade Price Index | 1.2% |  | 2.3% |
-| 20:00 | USD | Low | Milk Auctions | 3,363.0 |  | 3,388.0 |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) | 48.4 |  | 49.4 |
-| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.215% |  | 3.333% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.757% |  | 3.729% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.663% |  | 3.690% |
-| 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) | 45.4 |  | 47.7 |
-| 22:45 | USD | High | S&P Global US Manufacturing PMI (Dec) | 47.9 | 48.2 | 49.4 |
-| 23:00 | USD | Moderate | Construction Spending (MoM) (Nov) | 0.4% | 0.5% | 1.2% |
-| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Dec) | 52.00 |  | 52.50 |
+| 11 min | USD | Low | 3-Month Bill Auction |  |  | 5.260% |
+| 11 min | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
+| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.3% | 2.3% |
+| 02:00 | BRL | Low | Trade Balance |  | 7.80B | 8.78B |
+| 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
+| 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | -24.6K |
+| 16:30 | CHF | Moderate | procure.ch PMI (Dec) |  | 43.0 | 42.1 |
+| 16:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 20K | 22K |
+| 16:55 | EUR | Moderate | German Unemployment Rate (Dec) |  | 5.9% | 5.9% |
+| 16:55 | EUR | Low | German Unemployment (Dec) |  |  | 2.702M |
+| 16:55 | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.606M |
+| 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.640% |
+| 19:30 | BRL | Low | Current Account (USD) (Nov) |  | -0.40B | -0.23B |
+| 19:30 | BRL | Low | Foreign direct investment (USD) (Nov) |  | 3.90B | 3.31B |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.83% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.5% |
+| 20:00 | USD | Low | MBA Purchase Index |  |  | 148.7 |
+| 20:00 | USD | Low | Mortgage Market Index |  |  | 191.6 |
+| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 437.6 |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 50.3 |
+| 21:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 21:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |
+| 22:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 23:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
+| 23:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
+| 23:00 | USD | High | ISM Manufacturing PMI (Dec) |  | 47.1 | 46.7 |
+| 23:00 | USD | High | ISM Manufacturing Prices (Dec) |  | 48.3 | 49.9 |
+| 23:00 | USD | High | JOLTs Job Openings (Nov) |  | 8.850M | 8.733M |

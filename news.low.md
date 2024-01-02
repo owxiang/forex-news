@@ -1,29 +1,25 @@
-## 02 January 2024 - Low Impact Forex News
+## 03 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.6 | 47.8 | 47.7 |
-| 08:00 | SGD | GDP (YoY) (Q4) | 2.8% |  | 1.0% |
-| 08:00 | SGD | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
-| 08:01 | GBP | BRC Shop Price Index (YoY) | 4.3% |  | 4.3% |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Dec) | 49.9 |  | 50.0 |
-| 08:30 | SGD | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
-| 08:30 | IDR | Nikkei Manufacturing PMI (Dec) | 52.2 |  | 51.7 |
-| 12:00 | IDR | Core Inflation (YoY) (Dec) | 1.80% | 1.85% | 1.87% |
-| 12:00 | IDR | Inflation (YoY) (Dec) | 2.61% | 2.72% | 2.86% |
-| 12:00 | IDR | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
-| 13:30 | AUD | Commodity Prices (YoY) | -10.7% |  | -12.8% |
-| 17:00 | NOK | Manufacturing PMI (Dec) | 51.7 |  | 50.1 |
-| 17:00 | EUR | M3 Money Supply (YoY) (Nov) | -0.9% | -1.0% | -1.0% |
-| 17:00 | EUR | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
-| 17:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:50 | EUR | Car Registration (YoY) (Dec) | 10.60% |  | 7.00% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | 1.2% |  | 2.3% |
-| 20:00 | USD | Milk Auctions | 3,363.0 |  | 3,388.0 |
-| 21:00 | BRL | S&P Global Manufacturing PMI (Dec) | 48.4 |  | 49.4 |
-| 21:55 | EUR | French 12-Month BTF Auction | 3.215% |  | 3.333% |
-| 21:55 | EUR | French 3-Month BTF Auction | 3.757% |  | 3.729% |
-| 21:55 | EUR | French 6-Month BTF Auction | 3.663% |  | 3.690% |
-| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Dec) | 45.4 |  | 47.7 |
-| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Dec) | 52.00 |  | 52.50 |
+| 11 min | USD | 3-Month Bill Auction |  |  | 5.260% |
+| 11 min | USD | 6-Month Bill Auction |  |  | 5.080% |
+| 02:00 | BRL | Trade Balance |  | 7.80B | 8.78B |
+| 08:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 13:00 | INR | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
+| 16:55 | EUR | German Unemployment (Dec) |  |  | 2.702M |
+| 16:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.606M |
+| 18:30 | EUR | German 2-Year Schatz Auction |  |  | 2.640% |
+| 19:30 | BRL | Current Account (USD) (Nov) |  | -0.40B | -0.23B |
+| 19:30 | BRL | Foreign direct investment (USD) (Nov) |  | 3.90B | 3.31B |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.83% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.5% |
+| 20:00 | USD | MBA Purchase Index |  |  | 148.7 |
+| 20:00 | USD | Mortgage Market Index |  |  | 191.6 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 437.6 |
+| 21:00 | SGD | S&P Global Singapore PMI (Dec) |  |  | 50.3 |
+| 21:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:55 | USD | Redbook (YoY) |  |  | 4.1% |
+| 22:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 23:00 | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |

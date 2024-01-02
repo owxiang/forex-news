@@ -1,5 +1,7 @@
-## 02 January 2024 - High Impact Forex News
+## 03 January 2024 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22:45 | USD | S&P Global US Manufacturing PMI (Dec) | 47.9 | 48.2 | 49.4 |
+| 23:00 | USD | ISM Manufacturing PMI (Dec) |  | 47.1 | 46.7 |
+| 23:00 | USD | ISM Manufacturing Prices (Dec) |  | 48.3 | 49.9 |
+| 23:00 | USD | JOLTs Job Openings (Nov) |  | 8.850M | 8.733M |
