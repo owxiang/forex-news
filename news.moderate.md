@@ -8,4 +8,4 @@
 | 16:50 | EUR | HCOB France Manufacturing PMI (Dec) | 42.1 | 42.0 | 42.9 |
 | 16:55 | EUR | HCOB Germany Manufacturing PMI (Dec) | 43.3 | 43.1 | 42.6 |
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Dec) | 44.4 | 44.2 | 44.2 |
-| 15 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 46.4 | 47.2 |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Dec) | 46.2 | 46.4 | 47.2 |

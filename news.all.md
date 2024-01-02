@@ -23,9 +23,9 @@
 | 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Dec) | 44.4 | 44.2 | 44.2 |
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
-| 15 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 46.4 | 47.2 |
-| 19:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
-| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 46.2 | 46.4 | 47.2 |
+| 43 min | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
+| 43 min | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
