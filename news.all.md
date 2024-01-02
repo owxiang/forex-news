@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.6 | 47.8 | 47.7 |
-| 08:00 | SGD | Low | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
 | 08:00 | SGD | Low | GDP (YoY) (Q4) | 2.8% |  | 1.0% |
+| 08:00 | SGD | Low | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
 | 08:01 | GBP | Low | BRC Shop Price Index (YoY) | 4.3% |  | 4.3% |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Dec) | 49.9 |  | 50.0 |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
@@ -24,16 +24,16 @@
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) | 46.2 | 46.4 | 47.2 |
-| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 17 min | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
-| 17 min | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
+| 19:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:30 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
+| 30 min | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.729% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.690% |
 | 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Dec) |  |  | 47.7 |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Dec) |  | 48.2 | 49.4 |
-| 23:00 | USD | Low | Construction Spending (MoM) (Nov) |  | 0.5% | 0.6% |
+| 23:00 | USD | Moderate | Construction Spending (MoM) (Nov) |  | 0.5% | 0.6% |
 | 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Dec) |  |  | 52.50 |
 | 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.3% |
 | 23:00 | USD | Low | Milk Auctions |  |  | 3,388.0 |
