@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:45 | CNY | Caixin Manufacturing PMI (Dec) |  | 50.4 | 50.7 |
+| 35 min | CNY | Caixin Manufacturing PMI (Dec) |  | 50.4 | 50.7 |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Dec) |  | 47.0 | 46.3 |
 | 16:45 | EUR | HCOB Italy Manufacturing PMI (Dec) |  | 44.4 | 44.4 |
 | 16:50 | EUR | HCOB France Manufacturing PMI (Dec) |  | 42.0 | 42.0 |
