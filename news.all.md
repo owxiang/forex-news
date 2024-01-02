@@ -10,10 +10,10 @@
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Dec) | 52.2 |  | 51.7 |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Dec) | 50.8 | 50.4 | 50.7 |
+| 12:00 | IDR | Low | Core Inflation (YoY) (Dec) | 1.80% | 1.85% | 1.87% |
 | 12:00 | IDR | Low | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
 | 12:00 | IDR | Low | Inflation (YoY) (Dec) | 2.61% | 2.72% | 2.86% |
-| 41 min | IDR | Low | Core Inflation (YoY) (Dec) |  | 1.85% | 1.87% |
-| 13:30 | AUD | Low | Commodity Prices (YoY) |  |  | -10.5% |
+| 14 min | AUD | Low | Commodity Prices (YoY) |  |  | -10.5% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 47.0 | 46.3 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 44.4 | 44.4 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 42.0 | 42.9 |
