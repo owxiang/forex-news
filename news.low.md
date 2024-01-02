@@ -3,20 +3,20 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.6 | 47.8 | 47.7 |
-| 08:00 | SGD | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
 | 08:00 | SGD | GDP (YoY) (Q4) | 2.8% |  | 1.0% |
+| 08:00 | SGD | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
 | 08:01 | GBP | BRC Shop Price Index (YoY) | 4.3% |  | 4.3% |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Dec) | 49.9 |  | 50.0 |
 | 08:30 | SGD | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Dec) | 52.2 |  | 51.7 |
 | 12:00 | IDR | Core Inflation (YoY) (Dec) | 1.80% | 1.85% | 1.87% |
-| 12:00 | IDR | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
 | 12:00 | IDR | Inflation (YoY) (Dec) | 2.61% | 2.72% | 2.86% |
+| 12:00 | IDR | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
 | 13:30 | AUD | Commodity Prices (YoY) | -10.7% |  | -12.8% |
-| 17:00 | NOK | Manufacturing PMI (Dec) |  |  | 49.9 |
-| 17:00 | EUR | M3 Money Supply (YoY) (Nov) |  | -1.0% | -1.0% |
-| 17:00 | EUR | Loans to Non Financial Corporations (Nov) |  |  | -0.3% |
-| 17:00 | EUR | Private Sector Loans (YoY) |  | 0.8% | 0.6% |
+| 40 min | NOK | Manufacturing PMI (Dec) |  |  | 49.9 |
+| 40 min | EUR | M3 Money Supply (YoY) (Nov) |  | -1.0% | -1.0% |
+| 40 min | EUR | Loans to Non Financial Corporations (Nov) |  |  | -0.3% |
+| 40 min | EUR | Private Sector Loans (YoY) |  | 0.8% | 0.6% |
 | 19:00 | EUR | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
