@@ -13,7 +13,7 @@
 | 12:00 | IDR | Low | Core Inflation (YoY) (Dec) | 1.80% | 1.85% | 1.87% |
 | 12:00 | IDR | Low | Inflation (MoM) (Dec) | 0.41% | 0.50% | 0.38% |
 | 12:00 | IDR | Low | Inflation (YoY) (Dec) | 2.61% | 2.72% | 2.86% |
-| 14 min | AUD | Low | Commodity Prices (YoY) |  |  | -10.5% |
+| 13:30 | AUD | Low | Commodity Prices (YoY) | -10.7% |  | -12.8% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Dec) |  | 47.0 | 46.3 |
 | 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Dec) |  | 44.4 | 44.4 |
 | 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Dec) |  | 42.0 | 42.9 |
@@ -24,8 +24,8 @@
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Nov) |  |  | -0.3% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.8% | 0.6% |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Dec) |  | 46.4 | 47.2 |
-| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Dec) |  |  | 7.00% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.333% |
