@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.6 | 47.8 | 47.7 |
-| 08:00 | SGD | GDP (YoY) (Q4) | 2.8% |  | 1.0% |
 | 08:00 | SGD | GDP (QoQ) (Q4) | 1.7% |  | 1.3% |
+| 08:00 | SGD | GDP (YoY) (Q4) | 2.8% |  | 1.0% |
 | 08:01 | GBP | BRC Shop Price Index (YoY) | 4.3% |  | 4.3% |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Dec) | 49.9 |  | 50.0 |
 | 08:30 | SGD | URA Property Index (QoQ) (Q4) | 2.70% |  | 0.80% |
@@ -17,9 +17,9 @@
 | 17:00 | EUR | M3 Money Supply (YoY) (Nov) | -0.9% | -1.0% | -1.0% |
 | 17:00 | EUR | Loans to Non Financial Corporations (Nov) | 0.0% |  | -0.3% |
 | 17:00 | EUR | Private Sector Loans (YoY) | 0.5% | 0.8% | 0.6% |
-| 43 min | EUR | Car Registration (YoY) (Dec) |  |  | 7.00% |
-| 43 min | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 17 min | EUR | Car Registration (YoY) (Dec) |  |  | 7.00% |
+| 17 min | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Dec) |  |  | 49.4 |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.333% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.729% |
