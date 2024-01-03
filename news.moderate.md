@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | USD | Atlanta Fed GDPNow |  | 2.0% | 2.0% |
+| 02:00 | USD | Atlanta Fed GDPNow | 2.5% | 2.0% | 2.0% |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | -2.967M | 1.837M |
 | 09:45 | CNY | Caixin Services PMI (Dec) |  | 51.6 | 51.5 |
 | 15:45 | EUR | French CPI (MoM) (Dec) |  |  | -0.2% |
