@@ -22,11 +22,10 @@
 | 20:00 | USD | Low | Mortgage Market Index | 173.5 |  | 191.6 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 358.2 |  | 437.6 |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Dec) | 50.5 |  | 50.3 |
-| 11 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 36 min | USD | Low | Redbook (YoY) |  |  | 4.1% |
-| 41 min | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
-| 23:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
-| 23:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
-| 23:00 | USD | High | ISM Manufacturing PMI (Dec) |  | 47.1 | 46.7 |
-| 23:00 | USD | High | ISM Manufacturing Prices (Dec) |  | 47.5 | 49.9 |
-| 23:00 | USD | High | JOLTs Job Openings (Nov) |  | 8.850M | 8.733M |
+| 21:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 21:55 | USD | Low | Redbook (YoY) | 5.6% |  | 4.1% |
+| 46 min | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
+| 46 min | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
+| 46 min | USD | High | ISM Manufacturing PMI (Dec) |  | 47.1 | 46.7 |
+| 46 min | USD | High | ISM Manufacturing Prices (Dec) |  | 47.5 | 49.9 |
+| 46 min | USD | High | JOLTs Job Openings (Nov) |  | 8.850M | 8.733M |

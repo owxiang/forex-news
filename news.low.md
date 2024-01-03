@@ -17,7 +17,6 @@
 | 20:00 | USD | Mortgage Market Index | 173.5 |  | 191.6 |
 | 20:00 | USD | Mortgage Refinance Index | 358.2 |  | 437.6 |
 | 21:00 | SGD | S&P Global Singapore PMI (Dec) | 50.5 |  | 50.3 |
-| 11 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 36 min | USD | Redbook (YoY) |  |  | 4.1% |
-| 41 min | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
-| 23:00 | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
+| 21:30 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:55 | USD | Redbook (YoY) | 5.6% |  | 4.1% |
+| 46 min | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |

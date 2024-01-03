@@ -7,4 +7,4 @@
 | 16:30 | CHF | procure.ch PMI (Dec) | 43.0 | 43.0 | 42.1 |
 | 16:55 | EUR | German Unemployment Change (Dec) | 5K | 20K | 21K |
 | 16:55 | EUR | German Unemployment Rate (Dec) | 5.9% | 5.9% | 5.8% |
-| 23:00 | USD | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
+| 46 min | USD | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
