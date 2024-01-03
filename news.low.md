@@ -5,7 +5,6 @@
 | 00:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.260% |
 | 00:30 | USD | 6-Month Bill Auction | 5.045% |  | 5.080% |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 49 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
 | 16:55 | EUR | German Unemployment (Dec) |  |  | 2.702M |
 | 16:55 | EUR | German Unemployment n.s.a. (Dec) |  |  | 2.606M |
