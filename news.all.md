@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -5.505B |
-| 02:00 | USD | Moderate | Atlanta Fed GDPNow |  | 2.0% | 2.0% |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -5.505B |
+| 46 min | USD | Moderate | Atlanta Fed GDPNow |  | 2.0% | 2.0% |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:00 | KRW | Low | FX Reserves - USD (Dec) |  |  | 417.08B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.967M | 1.837M |
@@ -27,8 +27,8 @@
 | 16:50 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 44.3 | 45.4 |
 | 16:55 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 46.7 | 47.8 |
 | 16:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 48.4 | 49.6 |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
+| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.8% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.4% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) |  |  | 4.1% |
