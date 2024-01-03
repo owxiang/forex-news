@@ -16,8 +16,8 @@
 | 16:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 48.1 |
 | 16:50 | EUR | HCOB France Composite PMI (Dec) |  | 43.7 | 44.6 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 46.7 | 47.8 |
-| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.8% |
 | 17:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.4% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 4.1% |
@@ -42,12 +42,13 @@
 | 18:00 | NOK | House Price Index (YoY) (Dec) |  |  | 0.50% |
 | 19:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 19:30 | BRL | Bank lending (MoM) (Nov) |  |  | 0.1% |
+| 20:00 | USD | Challenger Job Cuts (YoY) |  |  | -40.8% |
 | 20:00 | BRL | Brazilian PPI (MoM) (Nov) |  |  | 1.11% |
 | 20:30 | USD | Challenger Job Cuts (Dec) |  |  | 45.510K |
-| 21:00 | EUR | German HICP (MoM) (Dec) |  | 0.3% | -0.7% |
 | 21:00 | EUR | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
+| 21:00 | EUR | German HICP (MoM) (Dec) |  | 0.3% | -0.7% |
 | 21:00 | BRL | S&P Global Composite PMI (Dec) |  |  | 50.7 |
 | 21:00 | BRL | S&P Global Services PMI (Dec) |  |  | 51.2 |
 | 21:15 | CAD | Reserve Assets Total (Dec) |  |  | 115.4B |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.00K |
-| 23:30 | USD | Natural Gas Storage |  |  | -87B |
+| 23:30 | USD | Natural Gas Storage |  | -33B | -87B |

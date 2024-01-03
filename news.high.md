@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | FOMC Meeting Minutes |  |  |  |
+| 03:00 | USD | FOMC Meeting Minutes |  |  |  |
 | 21:00 | EUR | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
 | 21:15 | USD | ADP Nonfarm Employment Change (Dec) |  | 115K | 103K |
 | 21:30 | USD | Initial Jobless Claims |  | 216K | 218K |
