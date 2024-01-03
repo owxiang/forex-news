@@ -6,8 +6,8 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.045% |  | 5.080% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.0% | 2.3% | 2.3% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
-| 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | -24.6K |
+| 41 min | INR | Low | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
+| 16:00 | EUR | Moderate | Spanish Unemployment Change |  | -15.7K | -24.6K |
 | 16:30 | CHF | Moderate | procure.ch PMI (Dec) |  | 43.0 | 42.1 |
 | 16:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 20K | 22K |
 | 16:55 | EUR | Moderate | German Unemployment Rate (Dec) |  | 5.9% | 5.9% |
@@ -28,5 +28,5 @@
 | 23:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
 | 23:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
 | 23:00 | USD | High | ISM Manufacturing PMI (Dec) |  | 47.1 | 46.7 |
-| 23:00 | USD | High | ISM Manufacturing Prices (Dec) |  | 48.3 | 49.9 |
+| 23:00 | USD | High | ISM Manufacturing Prices (Dec) |  | 47.5 | 49.9 |
 | 23:00 | USD | High | JOLTs Job Openings (Nov) |  | 8.850M | 8.733M |
