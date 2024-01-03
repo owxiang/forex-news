@@ -21,10 +21,10 @@
 | 20:00 | USD | Low | MBA Purchase Index | 140.7 |  | 148.7 |
 | 20:00 | USD | Low | Mortgage Market Index | 173.5 |  | 191.6 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 358.2 |  | 437.6 |
-| 29 min | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 50.3 |
-| 59 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |
-| 22:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Dec) | 50.5 |  | 50.3 |
+| 11 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 36 min | USD | Low | Redbook (YoY) |  |  | 4.1% |
+| 41 min | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 23:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
 | 23:00 | USD | Low | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
 | 23:00 | USD | High | ISM Manufacturing PMI (Dec) |  | 47.1 | 46.7 |
