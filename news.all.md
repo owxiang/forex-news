@@ -14,15 +14,15 @@
 | 16:55 | EUR | Low | German Unemployment (Dec) | 2.703M |  | 2.698M |
 | 16:55 | EUR | Low | German Unemployment n.s.a. (Dec) | 2.637M |  | 2.606M |
 | 18:40 | EUR | Low | German 2-Year Schatz Auction | 2.440% |  | 2.640% |
-| 17 min | BRL | Low | Current Account (USD) (Nov) |  | -0.40B | -0.23B |
-| 17 min | BRL | Low | Foreign direct investment (USD) (Nov) |  | 3.90B | 3.31B |
-| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.83% |
-| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.5% |
-| 47 min | USD | Low | MBA Purchase Index |  |  | 148.7 |
-| 47 min | USD | Low | Mortgage Market Index |  |  | 191.6 |
-| 47 min | USD | Low | Mortgage Refinance Index |  |  | 437.6 |
-| 21:00 | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 50.3 |
-| 21:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 19:33 | BRL | Low | Current Account (USD) (Nov) | -1.60B | -0.40B | -0.23B |
+| 19:34 | BRL | Low | Foreign direct investment (USD) (Nov) | 7.80B | 3.90B | 3.31B |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.76% |  | 6.83% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.7% |  | -1.5% |
+| 20:00 | USD | Low | MBA Purchase Index | 140.7 |  | 148.7 |
+| 20:00 | USD | Low | Mortgage Market Index | 173.5 |  | 191.6 |
+| 20:00 | USD | Low | Mortgage Refinance Index | 358.2 |  | 437.6 |
+| 29 min | SGD | Low | S&P Global Singapore PMI (Dec) |  |  | 50.3 |
+| 59 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 4.1% |
 | 22:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 23:00 | USD | Moderate | ISM Manufacturing Employment (Dec) |  |  | 45.8 |
