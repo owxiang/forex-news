@@ -2,13 +2,13 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | FX Reserves - USD (Dec) |  |  | 417.08B |
+| 44 min | KRW | FX Reserves - USD (Dec) |  |  | 417.08B |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  | 47.6 | 46.0 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 47.7 | 47.7 |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Dec) |  |  | 50.1 |
 | 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
-| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 3.0% |
 | 14:30 | EUR | North Rhine Westphalia CPI (MoM) (Dec) |  |  | -0.3% |
+| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 3.0% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Dec) |  |  | 50.0 |
 | 15:45 | EUR | French CPI (YoY) (Dec) |  | 3.8% | 3.5% |
 | 15:45 | EUR | French HICP (YoY) |  | 4.1% | 3.9% |
@@ -16,8 +16,8 @@
 | 16:45 | EUR | HCOB Italy Composite PMI (Dec) |  |  | 48.1 |
 | 16:50 | EUR | HCOB France Composite PMI (Dec) |  | 43.7 | 44.6 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Dec) |  | 46.7 | 47.8 |
-| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.8% |
 | 17:00 | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.4% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 4.1% |

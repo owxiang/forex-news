@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow | 2.5% | 2.0% | 2.0% |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 05:00 | KRW | Low | FX Reserves - USD (Dec) |  |  | 417.08B |
+| 44 min | KRW | Low | FX Reserves - USD (Dec) |  |  | 417.08B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.967M | 1.837M |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI |  | 47.6 | 46.0 |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Dec) |  | 47.7 | 47.7 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Dec) |  |  | 50.1 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Dec) |  | 51.6 | 51.5 |
 | 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
-| 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 3.0% |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) |  |  | -0.3% |
+| 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) |  |  | 3.0% |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Dec) |  |  | 50.0 |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Dec) |  |  | -0.2% |
 | 15:45 | EUR | Low | French CPI (YoY) (Dec) |  | 3.8% | 3.5% |
@@ -26,8 +26,8 @@
 | 16:50 | EUR | Moderate | HCOB France Services PMI (Dec) |  | 44.3 | 45.4 |
 | 16:55 | EUR | Low | HCOB Germany Composite PMI (Dec) |  | 46.7 | 47.8 |
 | 16:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) |  | 48.4 | 49.6 |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
+| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Dec) |  |  | 2.8% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Dec) |  |  | -0.4% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) |  |  | 4.1% |
@@ -59,8 +59,8 @@
 | 20:00 | USD | Low | Challenger Job Cuts (YoY) |  |  | -40.8% |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Nov) |  |  | 1.11% |
 | 20:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 45.510K |
-| 21:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
 | 21:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
+| 21:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
 | 21:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 21:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.3% | -0.7% |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 50.7 |
