@@ -19,4 +19,4 @@
 | 21:00 | SGD | S&P Global Singapore PMI (Dec) | 50.5 |  | 50.3 |
 | 21:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:55 | USD | Redbook (YoY) | 5.6% |  | 4.1% |
-| 46 min | USD | ISM Manufacturing New Orders Index (Dec) |  |  | 48.3 |
+| 23:00 | USD | ISM Manufacturing New Orders Index (Dec) | 47.1 | 49.1 | 48.3 |
