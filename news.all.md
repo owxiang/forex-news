@@ -6,7 +6,7 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.045% |  | 5.080% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.0% | 2.3% | 2.3% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 49 min | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  |  | -24.6K |
 | 16:30 | CHF | Moderate | procure.ch PMI (Dec) |  | 43.0 | 42.1 |
