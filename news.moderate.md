@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | Atlanta Fed GDPNow (Q4) | 2.0% | 2.3% | 2.3% |
 | 16:00 | EUR | Spanish Unemployment Change | -27.4K | -15.7K | -24.6K |
-| 10 min | CHF | procure.ch PMI (Dec) |  | 43.0 | 42.1 |
-| 35 min | EUR | German Unemployment Change (Dec) |  | 20K | 22K |
-| 35 min | EUR | German Unemployment Rate (Dec) |  | 5.9% | 5.9% |
+| 16:30 | CHF | procure.ch PMI (Dec) | 43.0 | 43.0 | 42.1 |
+| 16:55 | EUR | German Unemployment Change (Dec) | 5K | 20K | 21K |
+| 16:55 | EUR | German Unemployment Rate (Dec) | 5.9% | 5.9% | 5.9% |
 | 23:00 | USD | ISM Manufacturing Employment (Dec) |  |  | 45.8 |

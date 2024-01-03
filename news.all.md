@@ -8,11 +8,11 @@
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Dec) | 54.9 | 55.9 | 56.0 |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change | -27.4K | -15.7K | -24.6K |
-| 10 min | CHF | Moderate | procure.ch PMI (Dec) |  | 43.0 | 42.1 |
-| 35 min | EUR | Moderate | German Unemployment Change (Dec) |  | 20K | 22K |
-| 35 min | EUR | Moderate | German Unemployment Rate (Dec) |  | 5.9% | 5.9% |
-| 35 min | EUR | Low | German Unemployment (Dec) |  |  | 2.702M |
-| 35 min | EUR | Low | German Unemployment n.s.a. (Dec) |  |  | 2.606M |
+| 16:30 | CHF | Moderate | procure.ch PMI (Dec) | 43.0 | 43.0 | 42.1 |
+| 16:55 | EUR | Moderate | German Unemployment Change (Dec) | 5K | 20K | 21K |
+| 16:55 | EUR | Moderate | German Unemployment Rate (Dec) | 5.9% | 5.9% | 5.9% |
+| 16:55 | EUR | Low | German Unemployment (Dec) | 2.703M |  | 2.702M |
+| 16:55 | EUR | Low | German Unemployment n.s.a. (Dec) | 2.637M |  | 2.606M |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.640% |
 | 19:30 | BRL | Low | Current Account (USD) (Nov) |  | -0.40B | -0.23B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Nov) |  | 3.90B | 3.31B |
