@@ -1,7 +1,9 @@
-## 03 January 2024 - High Impact Forex News
+## 04 January 2024 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:00 | USD | ISM Manufacturing PMI (Dec) | 47.4 | 47.1 | 46.7 |
-| 23:00 | USD | ISM Manufacturing Prices (Dec) | 45.2 | 47.5 | 49.9 |
-| 23:00 | USD | JOLTs Job Openings (Nov) | 8.790M | 8.850M | 8.852M |
+| 03:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 21:00 | EUR | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
+| 21:15 | USD | ADP Nonfarm Employment Change (Dec) |  | 115K | 103K |
+| 21:30 | USD | Initial Jobless Claims |  | 216K | 218K |
+| 22:45 | USD | S&P Global Services PMI (Dec) |  | 51.3 | 50.8 |
