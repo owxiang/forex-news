@@ -6,7 +6,7 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.045% |  | 5.080% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.0% | 2.3% | 2.3% |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 41 min | INR | Low | S&P Global India Manufacturing PMI (Dec) |  | 55.9 | 56.0 |
+| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Dec) | 54.9 | 55.9 | 56.0 |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  | -15.7K | -24.6K |
 | 16:30 | CHF | Moderate | procure.ch PMI (Dec) |  | 43.0 | 42.1 |
 | 16:55 | EUR | Moderate | German Unemployment Change (Dec) |  | 20K | 22K |
