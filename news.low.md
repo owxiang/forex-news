@@ -6,39 +6,39 @@
 | 06:00 | AUD | Judo Bank Australia Services PMI | 47.1 | 47.6 | 46.0 |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Dec) | 47.9 | 47.7 | 48.3 |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Dec) | 51.3 |  | 50.1 |
-| 14:30 | EUR | North Rhine Westphalia CPI (MoM) (Dec) | -0.1% |  | -0.3% |
 | 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Dec) | 3.5% |  | 3.0% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Dec) | 49.0 |  | 50.0 |
 | 15:45 | EUR | French CPI (YoY) (Dec) | 3.7% | 3.8% | 3.5% |
 | 15:45 | EUR | French HICP (YoY) | 4.1% | 4.1% | 3.9% |
-| 10 min | HKD | Retail Sales (YoY) (Nov) |  |  | 5.6% |
-| 25 min | EUR | HCOB Italy Composite PMI (Dec) |  |  | 48.1 |
-| 30 min | EUR | HCOB France Composite PMI (Dec) |  | 43.7 | 44.6 |
-| 35 min | EUR | HCOB Germany Composite PMI (Dec) |  | 46.7 | 47.8 |
-| 40 min | EUR | Baden Wuerttemberg CPI (MoM) |  |  | -0.3% |
-| 40 min | EUR | Baden Wuerttemberg CPI (YoY) (Dec) |  |  | 3.4% |
-| 40 min | EUR | Bavaria CPI (YoY) (Dec) |  |  | 2.8% |
-| 40 min | EUR | Bavaria CPI (MoM) (Dec) |  |  | -0.4% |
-| 40 min | EUR | Brandenburg CPI (YoY) (Dec) |  |  | 4.1% |
-| 40 min | EUR | Brandenburg CPI (MoM) (Dec) |  |  | -0.3% |
-| 40 min | EUR | Hesse CPI (YoY) (Dec) |  |  | 2.9% |
-| 40 min | EUR | Hesse CPI (MoM) (Dec) |  |  | -0.4% |
-| 17:30 | GBP | BoE Consumer Credit (Nov) |  | 1.400B | 1.289B |
-| 17:30 | GBP | M3 Money Supply (Nov) |  |  | 2,988.6B |
-| 17:30 | GBP | M4 Money Supply (MoM) (Nov) |  | 0.2% | 0.3% |
-| 17:30 | GBP | Mortgage Approvals (Nov) |  | 48.50K | 47.38K |
-| 17:30 | GBP | Mortgage Lending (Nov) |  |  | -0.05B |
-| 17:30 | GBP | Net Lending to Individuals |  | 1.6B | 1.2B |
-| 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
-| 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
-| 17:40 | EUR | Spanish 30-Year Obligacion Auction |  |  | 4.465% |
-| 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
-| 18:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.871% |
-| 18:00 | EUR | Saxony CPI (YoY) (Dec) |  |  | 3.9% |
-| 18:00 | EUR | Saxony CPI (MoM) (Dec) |  |  | -0.3% |
-| 18:00 | EUR | French 10-Year OAT Auction |  |  | 2.75% |
-| 18:00 | EUR | French 30-Year OAT Auction |  |  | 1.65% |
-| 18:00 | NOK | House Price Index (YoY) (Dec) |  |  | 0.50% |
+| 16:30 | HKD | Retail Sales (YoY) (Nov) | 15.9% |  | 5.6% |
+| 16:45 | EUR | HCOB Italy Composite PMI (Dec) | 48.6 |  | 48.1 |
+| 16:50 | EUR | HCOB France Composite PMI (Dec) | 44.8 | 43.7 | 44.6 |
+| 16:55 | EUR | HCOB Germany Composite PMI (Dec) | 47.4 | 46.7 | 47.8 |
+| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Dec) | 3.8% |  | 3.4% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.1% |  | -0.3% |
+| 17:00 | EUR | Bavaria CPI (YoY) (Dec) | 3.4% |  | 2.8% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Dec) | 0.1% |  | -0.4% |
+| 17:00 | EUR | Brandenburg CPI (MoM) (Dec) | 0.0% |  | -0.3% |
+| 17:00 | EUR | Brandenburg CPI (YoY) (Dec) | 4.5% |  | 4.1% |
+| 17:00 | EUR | Hesse CPI (YoY) (Dec) | 3.5% |  | 2.9% |
+| 17:00 | EUR | Hesse CPI (MoM) (Dec) | 0.0% |  | -0.4% |
+| 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Dec) | 0.1% |  | -0.3% |
+| 17:00 | EUR | Saxony CPI (YoY) (Dec) | 4.3% |  | 3.9% |
+| 17:00 | EUR | Saxony CPI (MoM) (Dec) | 0.2% |  | -0.3% |
+| 14 min | GBP | BoE Consumer Credit (Nov) |  | 1.400B | 1.289B |
+| 14 min | GBP | M3 Money Supply (Nov) |  |  | 2,988.6B |
+| 14 min | GBP | M4 Money Supply (MoM) (Nov) |  | 0.2% | 0.3% |
+| 14 min | GBP | Mortgage Approvals (Nov) |  | 48.50K | 47.38K |
+| 14 min | GBP | Mortgage Lending (Nov) |  |  | -0.05B |
+| 14 min | GBP | Net Lending to Individuals |  | 1.6B | 1.2B |
+| 24 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
+| 24 min | EUR | Spanish 3-Year Bonos Auction |  |  | 3.245% |
+| 24 min | EUR | Spanish 30-Year Obligacion Auction |  |  | 4.465% |
+| 24 min | EUR | Spanish 5-Year Bonos Auction |  |  | 3.334% |
+| 44 min | GBP | 15-Year Treasury Gilt Auction |  |  | 4.871% |
+| 44 min | EUR | French 10-Year OAT Auction |  |  | 2.75% |
+| 44 min | EUR | French 30-Year OAT Auction |  |  | 1.65% |
+| 44 min | NOK | House Price Index (YoY) (Dec) |  |  | 0.50% |
 | 19:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 19:30 | BRL | Bank lending (MoM) (Nov) |  |  | 0.1% |
 | 20:00 | BRL | Brazilian PPI (MoM) (Nov) |  |  | 1.11% |

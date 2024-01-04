@@ -8,13 +8,13 @@
 | 15:45 | EUR | French CPI (MoM) (Dec) | 0.1% | 0.2% | -0.2% |
 | 15:45 | EUR | French HICP (MoM) | 0.1% | 0.3% | -0.2% |
 | 16:15 | EUR | HCOB Spain Services PMI (Dec) | 51.5 | 51.2 | 51.0 |
-| 25 min | EUR | HCOB Italy Services PMI (Dec) |  | 49.8 | 49.5 |
-| 30 min | EUR | HCOB France Services PMI (Dec) |  | 44.3 | 45.4 |
-| 35 min | EUR | HCOB Germany Services PMI (Dec) |  | 48.4 | 49.6 |
-| 40 min | EUR | HCOB Eurozone Composite PMI (Dec) |  | 47.0 | 47.6 |
-| 40 min | EUR | HCOB Eurozone Services PMI (Dec) |  | 48.1 | 48.7 |
-| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Dec) |  | 51.7 | 50.7 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Dec) |  | 52.7 | 50.9 |
+| 16:45 | EUR | HCOB Italy Services PMI (Dec) | 49.8 | 49.8 | 49.5 |
+| 16:50 | EUR | HCOB France Services PMI (Dec) | 45.7 | 44.3 | 45.4 |
+| 16:55 | EUR | HCOB Germany Services PMI (Dec) | 49.3 | 48.4 | 49.6 |
+| 17:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 47.6 | 47.0 | 47.6 |
+| 17:00 | EUR | HCOB Eurozone Services PMI (Dec) | 48.8 | 48.1 | 48.7 |
+| 14 min | GBP | S&P Global/CIPS UK Composite PMI (Dec) |  | 51.7 | 50.7 |
+| 14 min | GBP | S&P Global/CIPS UK Services PMI (Dec) |  | 52.7 | 50.9 |
 | 21:00 | EUR | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,883K | 1,875K |
 | 22:45 | USD | S&P Global Composite PMI (Dec) |  | 51.0 | 50.7 |
