@@ -16,6 +16,6 @@
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Dec) | 52.1 | 51.7 | 50.7 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI (Dec) | 53.4 | 52.7 | 50.9 |
 | 21:00 | EUR | German CPI (YoY) (Dec) | 3.7% | 3.7% | 3.2% |
-| 11 min | USD | Continuing Jobless Claims |  | 1,883K | 1,875K |
-| 22:45 | USD | S&P Global Composite PMI (Dec) |  | 51.0 | 50.7 |
-| 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 21:30 | USD | Continuing Jobless Claims | 1,855K | 1,883K | 1,886K |
+| 30 min | USD | S&P Global Composite PMI (Dec) |  | 51.0 | 50.7 |
+| 45 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
