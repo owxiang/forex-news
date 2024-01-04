@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | Atlanta Fed GDPNow | 2.5% | 2.0% | 2.0% |
 | 05:30 | USD | API Weekly Crude Oil Stock | -7.418M | -2.967M | 1.837M |
-| 33 min | CNY | Caixin Services PMI (Dec) |  | 51.6 | 51.5 |
+| 09:45 | CNY | Caixin Services PMI (Dec) | 52.9 | 51.6 | 51.5 |
 | 15:45 | EUR | French CPI (MoM) (Dec) |  |  | -0.2% |
 | 15:45 | EUR | French HICP (MoM) |  | 0.3% | -0.2% |
 | 16:15 | EUR | HCOB Spain Services PMI (Dec) |  | 51.2 | 51.0 |
