@@ -14,7 +14,7 @@
 | 00:00 | USD | Low | Gasoline Inventories | 10.900M |  | -0.669M |
 | 00:30 | USD | Low | 4-Week Bill Auction | 5.290% |  | 5.325% |
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.285% |  | 5.285% |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -5.505B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -4.888B |  | -5.505B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,713B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Dec) |  | 9.0% | 9.1% |
@@ -37,8 +37,8 @@
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Low | Italian Public Deficit (Q3) |  |  | 5.4% |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI |  | 46.1 | 45.5 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
@@ -51,8 +51,8 @@
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 18:00 | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 18:00 | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
+| 18:00 | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
