@@ -35,8 +35,8 @@
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 44.6 |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 424.60B |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Low | Italian Public Deficit (Q3) |  |  | 5.4% |
@@ -51,8 +51,8 @@
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 18:00 | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
 | 18:00 | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
+| 18:00 | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
@@ -61,8 +61,8 @@
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
 | 20:00 | EUR | Low | Spanish Business Confidence |  |  | -9.6 |
 | 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.50% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
 | 21:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
