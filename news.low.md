@@ -29,8 +29,8 @@
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
 | 17:00 | EUR | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
 | 17:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
+| 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
 | 17:00 | EUR | Italian Public Deficit (Q3) |  |  | 5.4% |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
 | 18:00 | EUR | German Car Registration (YoY) |  |  | -5.7% |
