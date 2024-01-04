@@ -10,16 +10,16 @@
 | 00:00 | USD | Heating Oil Stockpiles | -0.433M |  | 0.286M |
 | 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 0.9% |
 | 00:00 | USD | Gasoline Inventories | 10.900M |  | -0.669M |
-| 9 min | USD | 4-Week Bill Auction |  |  | 5.325% |
-| 9 min | USD | 8-Week Bill Auction |  |  | 5.285% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -5.505B |
+| 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.325% |
+| 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.285% |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -5.505B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
 | 07:50 | JPY | Monetary Base (YoY) (Dec) |  | 9.0% | 9.1% |
 | 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
 | 13:00 | INR | S&P Global India Services PMI (Dec) |  | 56.5 | 56.9 |
 | 13:00 | JPY | Household Confidence (Dec) |  | 36.6 | 36.1 |
-| 13:00 | SGD | Retail Sales (YoY) (Nov) |  |  | -0.1% |
 | 13:00 | SGD | Retail Sales (MoM) (Nov) |  |  | -0.8% |
+| 13:00 | SGD | Retail Sales (YoY) (Nov) |  |  | -0.1% |
 | 15:00 | EUR | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
 | 16:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
@@ -29,8 +29,9 @@
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
 | 17:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
-| 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
+| 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
+| 17:00 | EUR | Italian Public Deficit (Q3) |  |  | 5.4% |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
 | 18:00 | EUR | German Car Registration (YoY) |  |  | -5.7% |
 | 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
