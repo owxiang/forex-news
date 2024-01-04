@@ -13,8 +13,8 @@
 | 16:55 | EUR | HCOB Germany Services PMI (Dec) | 49.3 | 48.4 | 49.6 |
 | 17:00 | EUR | HCOB Eurozone Composite PMI (Dec) | 47.6 | 47.0 | 47.6 |
 | 17:00 | EUR | HCOB Eurozone Services PMI (Dec) | 48.8 | 48.1 | 48.7 |
-| 14 min | GBP | S&P Global/CIPS UK Composite PMI (Dec) |  | 51.7 | 50.7 |
-| 14 min | GBP | S&P Global/CIPS UK Services PMI (Dec) |  | 52.7 | 50.9 |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Dec) | 52.1 | 51.7 | 50.7 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Dec) | 53.4 | 52.7 | 50.9 |
 | 21:00 | EUR | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,883K | 1,875K |
 | 22:45 | USD | S&P Global Composite PMI (Dec) |  | 51.0 | 50.7 |
