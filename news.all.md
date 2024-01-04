@@ -13,10 +13,10 @@
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (MoM) (Dec) | 0.1% |  | -0.3% |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Dec) | 3.5% |  | 3.0% |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Dec) | 49.0 |  | 50.0 |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.1% | 0.2% | -0.2% |
 | 15:45 | EUR | Low | French CPI (YoY) (Dec) | 3.7% | 3.8% | 3.5% |
-| 15:45 | EUR | Low | French HICP (YoY) | 4.1% | 4.1% | 3.9% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.1% | 0.2% | -0.2% |
 | 15:45 | EUR | Moderate | French HICP (MoM) | 0.1% | 0.3% | -0.2% |
+| 15:45 | EUR | Low | French HICP (YoY) | 4.1% | 4.1% | 3.9% |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Dec) | 51.5 | 51.2 | 51.0 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Nov) | 15.9% |  | 5.6% |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Dec) | 48.6 |  | 48.1 |
@@ -27,10 +27,10 @@
 | 16:55 | EUR | Moderate | HCOB Germany Services PMI (Dec) | 49.3 | 48.4 | 49.6 |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Dec) | 3.8% |  | 3.4% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.1% |  | -0.3% |
-| 17:00 | EUR | Low | Bavaria CPI (YoY) (Dec) | 3.4% |  | 2.8% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Dec) | 0.1% |  | -0.4% |
-| 17:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) | 0.0% |  | -0.3% |
+| 17:00 | EUR | Low | Bavaria CPI (YoY) (Dec) | 3.4% |  | 2.8% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Dec) | 4.5% |  | 4.1% |
+| 17:00 | EUR | Low | Brandenburg CPI (MoM) (Dec) | 0.0% |  | -0.3% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Dec) | 3.5% |  | 2.9% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Dec) | 0.0% |  | -0.4% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Dec) | 4.3% |  | 3.9% |
@@ -52,22 +52,24 @@
 | 18:00 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.693% |  | 4.465% |
 | 18:00 | EUR | Low | Spanish 5-Year Bonos Auction | 2.621% |  | 3.334% |
 | 18:00 | NOK | Low | House Price Index (YoY) (Dec) | 0.50% |  | 0.50% |
-| 16 min | BRL | Low | Bank lending (MoM) (Nov) |  |  | 0.1% |
-| 46 min | BRL | Low | Brazilian PPI (MoM) (Nov) |  |  | 1.11% |
+| 19:30 | BRL | Low | Bank lending (MoM) (Nov) | 0.9% |  | 0.1% |
+| 20:00 | BRL | Low | Brazilian PPI (MoM) (Nov) | -0.43% |  | 1.11% |
+| 20:30 | USD | Low | Challenger Job Cuts (Dec) | 34.817K |  | 45.510K |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -40.8% |
-| 20:30 | USD | Low | Challenger Job Cuts (Dec) |  |  | 45.510K |
-| 21:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
-| 21:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
-| 21:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.3% | -0.7% |
-| 21:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
-| 21:00 | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 50.7 |
-| 21:00 | BRL | Low | S&P Global Services PMI (Dec) |  |  | 51.2 |
-| 21:15 | USD | High | ADP Nonfarm Employment Change (Dec) |  | 115K | 103K |
-| 21:15 | CAD | Low | Reserve Assets Total (Dec) |  |  | 115.4B |
+| 30 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
+| 30 min | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
+| 30 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.3% | -0.7% |
+| 30 min | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
+| 30 min | BRL | Low | S&P Global Composite PMI (Dec) |  |  | 50.7 |
+| 30 min | BRL | Low | S&P Global Services PMI (Dec) |  |  | 51.2 |
+| 45 min | USD | High | ADP Nonfarm Employment Change (Dec) |  | 115K | 103K |
+| 45 min | CAD | Low | Reserve Assets Total (Dec) |  |  | 115.4B |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,883K | 1,875K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 216K | 218K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.00K |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Dec) |  | 51.0 | 50.7 |
 | 22:45 | USD | High | S&P Global Services PMI (Dec) |  | 51.3 | 50.8 |
+| 23:00 | USD | Low | All Car Sales (Dec) | 3.07M |  | 3.00M |
+| 23:00 | USD | Low | All Truck Sales (Dec) | 12.76M |  | 12.34M |
 | 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  | -40B | -87B |
