@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Cushing Crude Oil Inventories | 0.706M |  | 1.508M |
 | 05:30 | USD | Fed's Balance Sheet | 7,681B |  | 7,713B |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI (Dec) |  | 52.0 | 52.0 |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
 | 15:00 | GBP | Halifax House Price Index (YoY) (Dec) |  |  | -1.0% |
 | 15:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
 | 15:00 | EUR | German Retail Sales (MoM) (Nov) |  | -0.1% | 1.1% |

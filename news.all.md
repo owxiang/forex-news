@@ -17,17 +17,16 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | -4.888B |  | -5.505B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,681B |  | 7,713B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.434T |
-| 07:50 | JPY | Low | Monetary Base (YoY) (Dec) |  | 9.0% | 9.1% |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) |  | 52.0 | 52.0 |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 07:50 | JPY | Low | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Dec) |  | 56.5 | 56.9 |
 | 13:00 | JPY | Low | Household Confidence (Dec) |  | 36.6 | 36.1 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Nov) |  |  | -0.1% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Nov) |  |  | -0.1% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | -1.0% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
-| 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | -0.1% | 1.1% |
+| 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.43% |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
@@ -35,19 +34,19 @@
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 44.6 |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Dec) |  |  | 424.60B |
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
 | 17:00 | EUR | Low | Italian Public Deficit (Q3) |  |  | 5.4% |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI |  | 46.1 | 45.5 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
 | 18:00 | EUR | Low | German Car Registration (YoY) |  |  | -5.7% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
-| 18:00 | EUR | Moderate | Core CPI (YoY) |  | 3.5% | 3.6% |
 | 18:00 | EUR | Low | Core CPI (MoM) |  |  | -0.6% |
-| 18:00 | EUR | High | CPI (YoY) (Dec) |  | 3.0% | 2.4% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) |  | 3.5% | 3.6% |
 | 18:00 | EUR | Moderate | CPI (MoM) |  |  | -0.6% |
+| 18:00 | EUR | High | CPI (YoY) (Dec) |  | 3.0% | 2.4% |
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | -0.5% |
