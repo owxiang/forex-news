@@ -14,12 +14,12 @@
 | 18:00 | EUR | CPI (MoM) | 0.2% |  | -0.6% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) | 73.8% | 75.0% | 74.7% |
 | 20:00 | BRL | Industrial Production (YoY) (Nov) | 1.3% | 0.7% | 1.1% |
-| 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
-| 21:30 | USD | Participation Rate (Dec) |  |  | 62.8% |
-| 21:30 | USD | Private Nonfarm Payrolls (Dec) |  | 130K | 150K |
-| 21:30 | USD | U6 Unemployment Rate (Dec) |  |  | 7.0% |
-| 21:30 | CAD | Employment Change (Dec) |  | 13.5K | 24.9K |
-| 21:30 | CAD | Unemployment Rate (Dec) |  | 5.9% | 5.8% |
+| 11 min | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
+| 11 min | USD | Participation Rate (Dec) |  |  | 62.8% |
+| 11 min | USD | Private Nonfarm Payrolls (Dec) |  | 130K | 150K |
+| 11 min | USD | U6 Unemployment Rate (Dec) |  |  | 7.0% |
+| 11 min | CAD | Employment Change (Dec) |  | 13.5K | 24.9K |
+| 11 min | CAD | Unemployment Rate (Dec) |  | 5.9% | 5.8% |
 | 23:00 | USD | Factory Orders (MoM) (Nov) |  | 2.1% | -3.6% |
 | 23:00 | USD | ISM Non-Manufacturing Employment (Dec) |  |  | 50.7 |
 | 23:00 | CAD | Ivey PMI (Dec) |  | 55.0 | 54.7 |

@@ -17,8 +17,8 @@
 | 07:50 | JPY | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
 | 13:00 | INR | S&P Global India Services PMI (Dec) | 59.0 | 56.5 | 56.9 |
 | 13:00 | JPY | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
-| 13:00 | SGD | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 13:00 | SGD | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
+| 13:00 | SGD | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 15:00 | EUR | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) | 55.2 |  | 52.9 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Dec) | 37.0 |  | 36.2 |
@@ -29,17 +29,17 @@
 | 17:00 | EUR | Italian Public Deficit (Q3) | 5.0% |  | 5.1% |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
 | 18:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
-| 18:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
-| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
 | 18:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
 | 18:00 | EUR | German Car Registration (YoY) | -23.0% |  | -5.7% |
 | 18:00 | EUR | Core CPI (MoM) | 0.4% |  | -0.6% |
 | 18:00 | EUR | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 3.9% |  | 4.2% |
 | 18:00 | EUR | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
-| 18:00 | EUR | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 18:00 | EUR | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
+| 18:00 | EUR | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.64% |  | 0.50% |
 | 19:30 | INR | FX Reserves, USD | 623.20B |  | 620.44B |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Nov) | 59.5% |  | 60.0% |
@@ -48,14 +48,14 @@
 | 20:00 | INR | GDP Annual | 7.3% |  | 7.2% |
 | 20:00 | EUR | Spanish Business Confidence | -6.8 |  | -9.4 |
 | 20:00 | BRL | Industrial Production (MoM) (Nov) | 0.5% | 0.2% | 0.1% |
-| 21:30 | USD | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
-| 21:30 | USD | Government Payrolls (Dec) |  |  | 49.0K |
-| 21:30 | USD | Manufacturing Payrolls (Dec) |  | 5K | 28K |
-| 21:30 | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 5.0% |
-| 21:30 | CAD | Full Employment Change (Dec) |  |  | 59.6K |
-| 21:30 | CAD | Part Time Employment Change (Dec) |  |  | -34.7K |
-| 21:30 | CAD | Participation Rate (Dec) |  |  | 65.6% |
-| 22:00 | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 11 min | USD | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
+| 11 min | USD | Government Payrolls (Dec) |  |  | 49.0K |
+| 11 min | USD | Manufacturing Payrolls (Dec) |  | 5K | 28K |
+| 11 min | CAD | Avg hourly wages Permanent employee (Dec) |  |  | 5.0% |
+| 11 min | CAD | Full Employment Change (Dec) |  |  | 59.6K |
+| 11 min | CAD | Part Time Employment Change (Dec) |  |  | -34.7K |
+| 11 min | CAD | Participation Rate (Dec) |  |  | 65.6% |
+| 41 min | EUR | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 23:00 | USD | Durables Excluding Defense (MoM) (Nov) |  |  | 6.5% |
 | 23:00 | USD | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
 | 23:00 | USD | Factory orders ex transportation (MoM) (Nov) |  |  | -1.2% |

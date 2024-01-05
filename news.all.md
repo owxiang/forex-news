@@ -21,8 +21,8 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Dec) | 59.0 | 56.5 | 56.9 |
 | 13:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 1.7% |  | -0.8% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
@@ -38,20 +38,20 @@
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
 | 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
-| 18:00 | EUR | Low | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
 | 18:00 | EUR | Low | German Car Registration (YoY) | -23.0% |  | -5.7% |
 | 18:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | -0.6% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
-| 18:00 | EUR | Moderate | CPI (MoM) | 0.2% |  | -0.6% |
 | 18:00 | EUR | High | CPI (YoY) (Dec) | 2.9% | 3.0% | 2.4% |
+| 18:00 | EUR | Moderate | CPI (MoM) | 0.2% |  | -0.6% |
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 3.9% |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
-| 18:00 | EUR | Low | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 18:00 | EUR | Low | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
+| 18:00 | EUR | Low | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) | 0.64% |  | 0.50% |
 | 19:30 | INR | Low | FX Reserves, USD | 623.20B |  | 620.44B |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) | 59.5% |  | 60.0% |
@@ -60,25 +60,25 @@
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 73.8% | 75.0% | 74.7% |
 | 20:00 | INR | Low | GDP Annual | 7.3% |  | 7.2% |
 | 20:00 | EUR | Low | Spanish Business Confidence | -6.8 |  | -9.4 |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.5% | 0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | 1.3% | 0.7% | 1.1% |
-| 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
-| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
-| 21:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
-| 21:30 | USD | Low | Government Payrolls (Dec) |  |  | 49.0K |
-| 21:30 | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 28K |
-| 21:30 | USD | High | Nonfarm Payrolls (Dec) |  | 170K | 199K |
-| 21:30 | USD | Moderate | Participation Rate (Dec) |  |  | 62.8% |
-| 21:30 | USD | Moderate | Private Nonfarm Payrolls (Dec) |  | 130K | 150K |
-| 21:30 | USD | Moderate | U6 Unemployment Rate (Dec) |  |  | 7.0% |
-| 21:30 | USD | High | Unemployment Rate (Dec) |  | 3.8% | 3.7% |
-| 21:30 | CAD | Low | Avg hourly wages Permanent employee (Dec) |  |  | 5.0% |
-| 21:30 | CAD | Moderate | Employment Change (Dec) |  | 13.5K | 24.9K |
-| 21:30 | CAD | Low | Full Employment Change (Dec) |  |  | 59.6K |
-| 21:30 | CAD | Low | Part Time Employment Change (Dec) |  |  | -34.7K |
-| 21:30 | CAD | Low | Participation Rate (Dec) |  |  | 65.6% |
-| 21:30 | CAD | Moderate | Unemployment Rate (Dec) |  | 5.9% | 5.8% |
-| 22:00 | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.5% | 0.2% | 0.1% |
+| 11 min | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
+| 11 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
+| 11 min | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
+| 11 min | USD | Low | Government Payrolls (Dec) |  |  | 49.0K |
+| 11 min | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 28K |
+| 11 min | USD | High | Nonfarm Payrolls (Dec) |  | 170K | 199K |
+| 11 min | USD | Moderate | Participation Rate (Dec) |  |  | 62.8% |
+| 11 min | USD | Moderate | Private Nonfarm Payrolls (Dec) |  | 130K | 150K |
+| 11 min | USD | Moderate | U6 Unemployment Rate (Dec) |  |  | 7.0% |
+| 11 min | USD | High | Unemployment Rate (Dec) |  | 3.8% | 3.7% |
+| 11 min | CAD | Low | Avg hourly wages Permanent employee (Dec) |  |  | 5.0% |
+| 11 min | CAD | Moderate | Employment Change (Dec) |  | 13.5K | 24.9K |
+| 11 min | CAD | Low | Full Employment Change (Dec) |  |  | 59.6K |
+| 11 min | CAD | Low | Part Time Employment Change (Dec) |  |  | -34.7K |
+| 11 min | CAD | Low | Participation Rate (Dec) |  |  | 65.6% |
+| 11 min | CAD | Moderate | Unemployment Rate (Dec) |  | 5.9% | 5.8% |
+| 41 min | EUR | Low | Car Registration (MoM) (Dec) |  |  | 0.50% |
 | 23:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | 6.5% |
 | 23:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
 | 23:00 | USD | Moderate | Factory Orders (MoM) (Nov) |  | 2.1% | -3.6% |
