@@ -23,8 +23,8 @@
 | 13:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 1.7% |  | -0.8% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -2.5% | -0.1% | 1.1% |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) | 0.38% |  | 0.43% |
@@ -38,15 +38,15 @@
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
 | 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
-| 18:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
 | 18:00 | EUR | Low | German Car Registration (YoY) | -23.0% |  | -5.7% |
-| 18:00 | EUR | Moderate | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
 | 18:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | -0.6% |
-| 18:00 | EUR | Moderate | CPI (MoM) | 0.2% |  | -0.6% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
 | 18:00 | EUR | High | CPI (YoY) (Dec) | 2.9% | 3.0% | 2.4% |
+| 18:00 | EUR | Moderate | CPI (MoM) | 0.2% |  | -0.6% |
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 3.9% |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
@@ -60,8 +60,8 @@
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) | 73.8% | 75.0% | 74.7% |
 | 20:00 | INR | Low | GDP Annual | 7.3% |  | 7.2% |
 | 20:00 | EUR | Low | Spanish Business Confidence | -6.8 |  | -9.4 |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.5% | 0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) | 1.3% | 0.7% | 1.1% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) | 0.5% | 0.2% | 0.1% |
 | 21:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.95M | 0.95M | 0.95M |
 | 21:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.27M | 0.27M | 0.27M |
 | 21:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.21M | 0.21M | 0.21M |
@@ -74,8 +74,8 @@
 | 21:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.95M | 8.95M | 8.95M |
 | 21:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.89M | 2.89M | 2.89M |
 | 21:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.77M | 0.77M | 0.77M |
-| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 4.1% | 3.9% | 4.0% |
 | 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) | 0.4% | 0.3% | 0.4% |
+| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) | 4.1% | 3.9% | 4.0% |
 | 21:30 | USD | Low | Average Weekly Hours (Dec) | 34.3 | 34.4 | 34.4 |
 | 21:30 | USD | Low | Government Payrolls (Dec) | 52.0K |  | 37.0K |
 | 21:30 | USD | Low | Manufacturing Payrolls (Dec) | 6K | 5K | 26K |
@@ -90,14 +90,14 @@
 | 21:30 | CAD | Low | Part Time Employment Change (Dec) | 23.6K |  | -34.7K |
 | 21:30 | CAD | Low | Participation Rate (Dec) | 65.4% |  | 65.6% |
 | 21:30 | CAD | Moderate | Unemployment Rate (Dec) | 5.8% | 5.9% | 5.8% |
-| 45 min | USD | Low | Durables Excluding Defense (MoM) (Nov) |  |  | 6.5% |
-| 45 min | USD | Low | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
-| 45 min | USD | Moderate | Factory Orders (MoM) (Nov) |  | 2.1% | -3.6% |
-| 45 min | USD | Low | Factory orders ex transportation (MoM) (Nov) |  |  | -1.2% |
-| 45 min | USD | Low | ISM Non-Manufacturing Business Activity (Dec) |  |  | 55.1 |
-| 45 min | USD | Moderate | ISM Non-Manufacturing Employment (Dec) |  | 51.0 | 50.7 |
-| 45 min | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  | 56.1 | 55.5 |
-| 45 min | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 52.6 | 52.7 |
-| 45 min | USD | High | ISM Non-Manufacturing Prices (Dec) |  | 57.3 | 58.3 |
-| 45 min | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 53.2 |
-| 45 min | CAD | Moderate | Ivey PMI (Dec) |  | 55.0 | 54.7 |
+| 23:00 | USD | Low | Durables Excluding Defense (MoM) (Nov) | 6.5% |  | 6.5% |
+| 23:00 | USD | Low | Durables Excluding Transport (MoM) (Nov) | 0.4% |  | 0.5% |
+| 23:00 | USD | Moderate | Factory Orders (MoM) (Nov) | 2.6% | 2.1% | -3.4% |
+| 23:00 | USD | Low | Factory orders ex transportation (MoM) (Nov) | 0.1% |  | -1.3% |
+| 23:00 | USD | Low | ISM Non-Manufacturing Business Activity (Dec) | 56.6 |  | 55.1 |
+| 23:00 | USD | Moderate | ISM Non-Manufacturing Employment (Dec) | 43.3 | 51.0 | 50.7 |
+| 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) | 52.8 | 56.1 | 55.5 |
+| 23:00 | USD | High | ISM Non-Manufacturing PMI (Dec) | 50.6 | 52.6 | 52.7 |
+| 23:00 | USD | High | ISM Non-Manufacturing Prices (Dec) | 57.4 | 57.3 | 58.3 |
+| 23:00 | CAD | Low | Ivey PMI n.s.a (Dec) | 43.7 |  | 53.2 |
+| 23:00 | CAD | Moderate | Ivey PMI (Dec) | 56.3 | 55.0 | 54.7 |

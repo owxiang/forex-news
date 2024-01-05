@@ -5,8 +5,8 @@
 | 00:00 | USD | Cushing Crude Oil Inventories | 0.706M |  | 1.508M |
 | 05:30 | USD | Fed's Balance Sheet | 7,681B |  | 7,713B |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
-| 15:00 | GBP | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | GBP | Halifax House Price Index (YoY) (Dec) | 1.7% |  | -0.8% |
+| 15:00 | GBP | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | EUR | German Retail Sales (MoM) (Nov) | -2.5% | -0.1% | 1.1% |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) | 0.38% |  | 0.43% |
 | 17:30 | GBP | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
@@ -20,6 +20,6 @@
 | 21:30 | USD | U6 Unemployment Rate (Dec) | 7.1% |  | 7.0% |
 | 21:30 | CAD | Employment Change (Dec) | 0.1K | 13.5K | 24.9K |
 | 21:30 | CAD | Unemployment Rate (Dec) | 5.8% | 5.9% | 5.8% |
-| 45 min | USD | Factory Orders (MoM) (Nov) |  | 2.1% | -3.6% |
-| 45 min | USD | ISM Non-Manufacturing Employment (Dec) |  | 51.0 | 50.7 |
-| 45 min | CAD | Ivey PMI (Dec) |  | 55.0 | 54.7 |
+| 23:00 | USD | Factory Orders (MoM) (Nov) | 2.6% | 2.1% | -3.4% |
+| 23:00 | USD | ISM Non-Manufacturing Employment (Dec) | 43.3 | 51.0 | 50.7 |
+| 23:00 | CAD | Ivey PMI (Dec) | 56.3 | 55.0 | 54.7 |

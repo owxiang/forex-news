@@ -29,10 +29,10 @@
 | 17:00 | EUR | Italian Public Deficit (Q3) | 5.0% |  | 5.1% |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
 | 18:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
-| 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
-| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
 | 18:00 | EUR | German Car Registration (YoY) | -23.0% |  | -5.7% |
 | 18:00 | EUR | Core CPI (MoM) | 0.4% |  | -0.6% |
 | 18:00 | EUR | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
@@ -67,9 +67,9 @@
 | 21:30 | CAD | Full Employment Change (Dec) | -23.5K |  | 59.6K |
 | 21:30 | CAD | Part Time Employment Change (Dec) | 23.6K |  | -34.7K |
 | 21:30 | CAD | Participation Rate (Dec) | 65.4% |  | 65.6% |
-| 45 min | USD | Durables Excluding Defense (MoM) (Nov) |  |  | 6.5% |
-| 45 min | USD | Durables Excluding Transport (MoM) (Nov) |  |  | 0.5% |
-| 45 min | USD | Factory orders ex transportation (MoM) (Nov) |  |  | -1.2% |
-| 45 min | USD | ISM Non-Manufacturing Business Activity (Dec) |  |  | 55.1 |
-| 45 min | USD | ISM Non-Manufacturing New Orders (Dec) |  | 56.1 | 55.5 |
-| 45 min | CAD | Ivey PMI n.s.a (Dec) |  |  | 53.2 |
+| 23:00 | USD | Durables Excluding Defense (MoM) (Nov) | 6.5% |  | 6.5% |
+| 23:00 | USD | Durables Excluding Transport (MoM) (Nov) | 0.4% |  | 0.5% |
+| 23:00 | USD | Factory orders ex transportation (MoM) (Nov) | 0.1% |  | -1.3% |
+| 23:00 | USD | ISM Non-Manufacturing Business Activity (Dec) | 56.6 |  | 55.1 |
+| 23:00 | USD | ISM Non-Manufacturing New Orders (Dec) | 52.8 | 56.1 | 55.5 |
+| 23:00 | CAD | Ivey PMI n.s.a (Dec) | 43.7 |  | 53.2 |
