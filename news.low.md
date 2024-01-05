@@ -19,8 +19,8 @@
 | 13:00 | JPY | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
 | 13:00 | SGD | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 13:00 | SGD | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
-| 39 min | EUR | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
-| 16:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
+| 15:00 | EUR | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
+| 45 min | CHF | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Dec) |  |  | 36.2 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 44.6 |

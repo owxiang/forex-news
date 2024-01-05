@@ -23,12 +23,12 @@
 | 13:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
-| 39 min | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | -1.0% |
-| 39 min | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
-| 39 min | EUR | Low | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
-| 39 min | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | -0.1% | 1.1% |
-| 16:00 | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
-| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.43% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 1.7% |  | -0.8% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
+| 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
+| 15:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) | -2.5% | -0.1% | 1.1% |
+| 45 min | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
+| 45 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.43% |
 | 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
 | 16:30 | EUR | Low | HCOB Germany Construction PMI (Dec) |  |  | 36.2 |
 | 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Dec) |  |  | 44.6 |
