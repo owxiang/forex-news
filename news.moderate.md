@@ -12,8 +12,8 @@
 | 17:30 | GBP | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
 | 18:00 | EUR | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
 | 18:00 | EUR | CPI (MoM) | 0.2% |  | -0.6% |
-| 16 min | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
-| 46 min | BRL | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
+| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) | 73.8% | 75.0% | 74.7% |
+| 20:00 | BRL | Industrial Production (YoY) (Nov) | 1.3% | 0.7% | 1.1% |
 | 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
 | 21:30 | USD | Participation Rate (Dec) |  |  | 62.8% |
 | 21:30 | USD | Private Nonfarm Payrolls (Dec) |  | 130K | 150K |

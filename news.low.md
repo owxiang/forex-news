@@ -31,8 +31,8 @@
 | 18:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
 | 18:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
 | 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
-| 18:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
 | 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
 | 18:00 | EUR | German Car Registration (YoY) | -23.0% |  | -5.7% |
 | 18:00 | EUR | Core CPI (MoM) | 0.4% |  | -0.6% |
 | 18:00 | EUR | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
@@ -41,13 +41,13 @@
 | 18:00 | EUR | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 18:00 | EUR | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.64% |  | 0.50% |
-| 16 min | INR | FX Reserves, USD |  |  | 620.44B |
-| 16 min | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
-| 16 min | BRL | Budget Balance (Nov) |  | -84.900B | -47.148B |
-| 16 min | BRL | Budget Surplus (Nov) |  |  | 14.798B |
-| 46 min | INR | GDP Annual |  |  | 7.2% |
-| 46 min | EUR | Spanish Business Confidence |  |  | -9.6 |
-| 46 min | BRL | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
+| 19:30 | INR | FX Reserves, USD | 623.20B |  | 620.44B |
+| 19:30 | BRL | Net Debt-to-GDP ratio (Nov) | 59.5% |  | 60.0% |
+| 19:30 | BRL | Budget Balance (Nov) | -80.887B | -84.900B | -47.148B |
+| 19:30 | BRL | Budget Surplus (Nov) | -37.270B |  | 14.798B |
+| 20:00 | INR | GDP Annual | 7.3% |  | 7.2% |
+| 20:00 | EUR | Spanish Business Confidence | -6.8 |  | -9.4 |
+| 20:00 | BRL | Industrial Production (MoM) (Nov) | 0.5% | 0.2% | 0.1% |
 | 21:30 | USD | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
 | 21:30 | USD | Government Payrolls (Dec) |  |  | 49.0K |
 | 21:30 | USD | Manufacturing Payrolls (Dec) |  | 5K | 28K |
