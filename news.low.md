@@ -20,17 +20,16 @@
 | 13:00 | SGD | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 13:00 | SGD | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 15:00 | EUR | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
-| 45 min | CHF | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
-| 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
-| 16:30 | EUR | HCOB Germany Construction PMI (Dec) |  |  | 36.2 |
-| 16:30 | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 44.6 |
-| 16:30 | HKD | Foreign Reserves (USD) (Dec) |  |  | 424.60B |
-| 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
-| 17:00 | EUR | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
-| 17:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 17:00 | EUR | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
-| 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
-| 17:00 | EUR | Italian Public Deficit (Q3) |  |  | 5.4% |
+| 10 min | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
+| 10 min | EUR | HCOB Germany Construction PMI (Dec) |  |  | 36.2 |
+| 10 min | EUR | HCOB France Construction PMI (MoM) (Dec) |  |  | 44.6 |
+| 10 min | HKD | Foreign Reserves (USD) (Dec) |  |  | 424.60B |
+| 10 min | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) |  |  | 43.4 |
+| 40 min | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 40 min | EUR | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
+| 40 min | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
+| 40 min | EUR | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
+| 40 min | EUR | Italian Public Deficit (Q3) |  |  | 5.4% |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
 | 18:00 | EUR | German Car Registration (YoY) |  |  | -5.7% |
 | 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
@@ -38,8 +37,8 @@
 | 18:00 | EUR | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 18:00 | EUR | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 18:00 | EUR | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
+| 18:00 | EUR | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
