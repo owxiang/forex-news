@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | BRL | Trade Balance (Dec) | 9.36B | 7.80B | 8.77B |
-| 11 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 02:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.7K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | 7.1K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -127.7K |
