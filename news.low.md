@@ -27,20 +27,20 @@
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Dec) | 43.6 |  | 43.4 |
 | 17:00 | GBP | Car Registration (YoY) | 9.8% |  | 9.5% |
 | 17:00 | EUR | Italian Public Deficit (Q3) | 5.0% |  | 5.1% |
-| 14 min | GBP | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
-| 44 min | EUR | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
-| 44 min | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 44 min | EUR | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
-| 44 min | EUR | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
-| 44 min | EUR | German Car Registration (YoY) |  |  | -5.7% |
-| 44 min | EUR | Spanish Consumer Confidence |  |  | 76.7 |
-| 44 min | EUR | Core CPI (MoM) |  |  | -0.6% |
-| 44 min | EUR | CPI, n.s.a (Dec) |  |  | 123.85 |
-| 44 min | EUR | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
-| 44 min | EUR | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 44 min | EUR | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
-| 44 min | EUR | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
-| 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 17:30 | GBP | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
+| 18:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
+| 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
+| 18:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
+| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | German Car Registration (YoY) | -23.0% |  | -5.7% |
+| 18:00 | EUR | Core CPI (MoM) | 0.4% |  | -0.6% |
+| 18:00 | EUR | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Dec) | 3.9% |  | 4.2% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
+| 18:00 | EUR | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
+| 18:00 | EUR | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
+| 43 min | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
 | 19:30 | BRL | Budget Balance (Nov) |  | -84.900B | -47.148B |

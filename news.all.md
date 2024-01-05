@@ -35,24 +35,24 @@
 | 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Dec) | 43.6 |  | 43.4 |
 | 17:00 | GBP | Low | Car Registration (YoY) | 9.8% |  | 9.5% |
 | 17:00 | EUR | Low | Italian Public Deficit (Q3) | 5.0% |  | 5.1% |
-| 14 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI |  | 46.0 | 45.5 |
-| 14 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
-| 44 min | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.7% | 0.7% |
-| 44 min | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 44 min | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
-| 44 min | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
-| 44 min | EUR | Low | German Car Registration (YoY) |  |  | -5.7% |
-| 44 min | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
-| 44 min | EUR | Moderate | Core CPI (YoY) |  | 3.5% | 3.6% |
-| 44 min | EUR | Low | Core CPI (MoM) |  |  | -0.6% |
-| 44 min | EUR | High | CPI (YoY) (Dec) |  | 3.0% | 2.4% |
-| 44 min | EUR | Moderate | CPI (MoM) |  |  | -0.6% |
-| 44 min | EUR | Low | CPI, n.s.a (Dec) |  |  | 123.85 |
-| 44 min | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
-| 44 min | EUR | Low | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 44 min | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
-| 44 min | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
-| 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
+| 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
+| 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Low | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Low | German Car Registration (YoY) | -23.0% |  | -5.7% |
+| 18:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | -0.6% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
+| 18:00 | EUR | Moderate | CPI (MoM) | 0.2% |  | -0.6% |
+| 18:00 | EUR | High | CPI (YoY) (Dec) | 2.9% | 3.0% | 2.4% |
+| 18:00 | EUR | Low | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
+| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) | 3.9% |  | 4.2% |
+| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
+| 18:00 | EUR | Low | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
+| 18:00 | EUR | Low | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
+| 43 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
 | 19:30 | BRL | Low | Budget Balance (Nov) |  | -84.900B | -47.148B |
@@ -61,8 +61,8 @@
 | 20:00 | INR | Low | GDP Annual |  |  | 7.2% |
 | 20:00 | EUR | Low | Spanish Business Confidence |  |  | -9.6 |
 | 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.50% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
 | 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
 | 21:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |

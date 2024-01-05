@@ -9,9 +9,9 @@
 | 15:00 | GBP | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | EUR | German Retail Sales (MoM) (Nov) | -2.5% | -0.1% | 1.1% |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) | 0.38% |  | 0.43% |
-| 14 min | GBP | S&P Global / CIPS UK Construction PMI |  | 46.0 | 45.5 |
-| 44 min | EUR | Core CPI (YoY) |  | 3.5% | 3.6% |
-| 44 min | EUR | CPI (MoM) |  |  | -0.6% |
+| 17:30 | GBP | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
+| 18:00 | EUR | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
+| 18:00 | EUR | CPI (MoM) | 0.2% |  | -0.6% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
 | 20:00 | BRL | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
 | 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
