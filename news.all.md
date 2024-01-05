@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |
-| 02:00 | BRL | Low | Trade Balance (Dec) |  | 7.80B | 8.78B |
+| 44 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 500 |
+| 44 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |
+| 44 min | BRL | Low | Trade Balance (Dec) |  | 7.80B | 8.78B |
 | 02:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 14.1K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.7K |
