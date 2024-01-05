@@ -12,13 +12,13 @@
 | 00:00 | USD | Gasoline Inventories | 10.900M | -0.215M | -0.669M |
 | 00:30 | USD | 4-Week Bill Auction | 5.290% |  | 5.325% |
 | 00:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.285% |
-| 01:30 | BRL | Foreign Exchange Flows | -4.888B |  | -5.505B |
+| 01:30 | BRL | Foreign Exchange Flows | -13.057B | -8.755B | -8.170B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.434T |
 | 07:50 | JPY | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
 | 13:00 | INR | S&P Global India Services PMI (Dec) | 59.0 | 56.5 | 56.9 |
 | 13:00 | JPY | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
-| 13:00 | SGD | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 13:00 | SGD | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
+| 13:00 | SGD | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 15:00 | EUR | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) | 55.2 |  | 52.9 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Dec) | 37.0 |  | 36.2 |
@@ -29,10 +29,10 @@
 | 17:00 | EUR | Italian Public Deficit (Q3) | 5.0% |  | 5.1% |
 | 17:30 | GBP | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
 | 18:00 | GBP | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
-| 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
-| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
 | 18:00 | EUR | German Car Registration (YoY) | -23.0% |  | -5.7% |
 | 18:00 | EUR | Core CPI (MoM) | 0.4% |  | -0.6% |
 | 18:00 | EUR | CPI, n.s.a (Dec) | 124.04 |  | 123.85 |
@@ -40,15 +40,14 @@
 | 18:00 | EUR | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
 | 18:00 | EUR | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 18:00 | EUR | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
-| 43 min | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
-| 19:30 | INR | FX Reserves, USD |  |  | 620.44B |
-| 19:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
-| 19:30 | BRL | Budget Balance (Nov) |  | -84.900B | -47.148B |
-| 19:30 | BRL | Budget Surplus (Nov) |  |  | 14.798B |
-| 20:00 | INR | GDP Annual |  |  | 7.2% |
-| 20:00 | EUR | Spanish Business Confidence |  |  | -9.6 |
-| 20:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.50% |
-| 20:00 | BRL | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
+| 19:00 | BRL | IGP-DI Inflation Index (MoM) (Dec) | 0.64% |  | 0.50% |
+| 16 min | INR | FX Reserves, USD |  |  | 620.44B |
+| 16 min | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
+| 16 min | BRL | Budget Balance (Nov) |  | -84.900B | -47.148B |
+| 16 min | BRL | Budget Surplus (Nov) |  |  | 14.798B |
+| 46 min | INR | GDP Annual |  |  | 7.2% |
+| 46 min | EUR | Spanish Business Confidence |  |  | -9.6 |
+| 46 min | BRL | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 21:30 | USD | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
 | 21:30 | USD | Government Payrolls (Dec) |  |  | 49.0K |
 | 21:30 | USD | Manufacturing Payrolls (Dec) |  | 5K | 28K |

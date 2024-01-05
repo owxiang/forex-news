@@ -14,15 +14,15 @@
 | 00:00 | USD | Low | Gasoline Inventories | 10.900M | -0.215M | -0.669M |
 | 00:30 | USD | Low | 4-Week Bill Auction | 5.290% |  | 5.325% |
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.285% |  | 5.285% |
-| 01:30 | BRL | Low | Foreign Exchange Flows | -4.888B |  | -5.505B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | -13.057B | -8.755B | -8.170B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,681B |  | 7,713B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.434T |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
 | 13:00 | INR | Low | S&P Global India Services PMI (Dec) | 59.0 | 56.5 | 56.9 |
 | 13:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) | 1.7% |  | -0.8% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) | 1.1% | 0.1% | 0.6% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) | -2.4% | -0.5% | -0.1% |
@@ -38,10 +38,10 @@
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI | 46.8 | 46.0 | 45.5 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -21.8B |  | -23.5B |
 | 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Dec) | 141,092.0 |  | 156,525.0 |
-| 18:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Dec) | 0.6% | 0.7% | 0.7% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Dec) | 0.5% | 0.4% | 0.6% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Dec) | 0.2% | 0.1% | -0.6% |
 | 18:00 | EUR | Low | German Car Registration (YoY) | -23.0% |  | -5.7% |
 | 18:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | -0.6% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) | 3.4% | 3.5% | 3.6% |
@@ -52,17 +52,16 @@
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.3% |  | -0.5% |
 | 18:00 | EUR | Low | PPI (MoM) (Nov) | -0.3% | -0.1% | 0.3% |
 | 18:00 | EUR | Low | PPI (YoY) (Nov) | -8.8% | -8.7% | -9.4% |
-| 43 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 620.44B |
-| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
-| 19:30 | BRL | Low | Budget Balance (Nov) |  | -84.900B | -47.148B |
-| 19:30 | BRL | Low | Budget Surplus (Nov) |  |  | 14.798B |
-| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
-| 20:00 | INR | Low | GDP Annual |  |  | 7.2% |
-| 20:00 | EUR | Low | Spanish Business Confidence |  |  | -9.6 |
-| 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.50% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
+| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) | 0.64% |  | 0.50% |
+| 16 min | INR | Low | FX Reserves, USD |  |  | 620.44B |
+| 16 min | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
+| 16 min | BRL | Low | Budget Balance (Nov) |  | -84.900B | -47.148B |
+| 16 min | BRL | Low | Budget Surplus (Nov) |  |  | 14.798B |
+| 16 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
+| 46 min | INR | Low | GDP Annual |  |  | 7.2% |
+| 46 min | EUR | Low | Spanish Business Confidence |  |  | -9.6 |
+| 46 min | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
+| 46 min | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
 | 21:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
