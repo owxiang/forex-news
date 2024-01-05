@@ -2,16 +2,16 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | High | Crude Oil Inventories | -5.503M | -3.200M | -7.114M |
+| 00:00 | USD | High | Crude Oil Inventories | -5.503M | -3.725M | -7.114M |
 | 00:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.121M |  | 0.058M |
 | 00:00 | USD | Low | Crude Oil Imports | -0.758M |  | -0.268M |
 | 00:00 | USD | Moderate | Cushing Crude Oil Inventories | 0.706M |  | 1.508M |
 | 00:00 | USD | Low | Distillate Fuel Production | 0.115M |  | 0.243M |
-| 00:00 | USD | Low | EIA Weekly Distillates Stocks | 10.090M |  | 0.741M |
+| 00:00 | USD | Low | EIA Weekly Distillates Stocks | 10.090M | 0.588M | 0.741M |
 | 00:00 | USD | Low | Gasoline Production | -1.275M |  | -0.008M |
 | 00:00 | USD | Low | Heating Oil Stockpiles | -0.433M |  | 0.286M |
 | 00:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.2% |  | 0.9% |
-| 00:00 | USD | Low | Gasoline Inventories | 10.900M |  | -0.669M |
+| 00:00 | USD | Low | Gasoline Inventories | 10.900M | -0.215M | -0.669M |
 | 00:30 | USD | Low | 4-Week Bill Auction | 5.290% |  | 5.325% |
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.285% |  | 5.285% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | -4.888B |  | -5.505B |
@@ -19,12 +19,12 @@
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.434T |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
-| 13:00 | INR | Low | S&P Global India Services PMI (Dec) |  | 56.5 | 56.9 |
-| 13:00 | JPY | Low | Household Confidence (Dec) |  | 36.6 | 36.1 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Nov) |  |  | -0.1% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
+| 41 min | INR | Low | S&P Global India Services PMI (Dec) |  | 56.5 | 56.9 |
+| 41 min | JPY | Low | Household Confidence (Dec) |  | 36.6 | 36.1 |
+| 41 min | SGD | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
+| 41 min | SGD | Low | Retail Sales (YoY) (Nov) |  |  | -0.1% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | -1.0% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Nov) |  | -0.1% | 1.1% |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
@@ -39,7 +39,7 @@
 | 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.1% | -0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.4% | 0.6% |
 | 17:00 | EUR | Low | Italian Public Deficit (Q3) |  |  | 5.4% |
-| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI |  | 46.1 | 45.5 |
+| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI |  | 46.0 | 45.5 |
 | 17:30 | GBP | Low | Housing Equity Withdrawal (QoQ) |  |  | -23.2B |
 | 18:00 | EUR | Low | German Car Registration (YoY) |  |  | -5.7% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
@@ -50,20 +50,21 @@
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 18:00 | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
 | 18:00 | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
+| 18:00 | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
 | 19:30 | BRL | Low | Budget Balance (Nov) |  | -84.900B | -47.148B |
 | 19:30 | BRL | Low | Budget Surplus (Nov) |  |  | 14.798B |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
+| 20:00 | INR | Low | GDP Annual |  |  | 7.2% |
 | 20:00 | EUR | Low | Spanish Business Confidence |  |  | -9.6 |
 | 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.50% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
-| 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
+| 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
 | 21:30 | USD | Low | Government Payrolls (Dec) |  |  | 49.0K |
 | 21:30 | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 28K |
@@ -88,6 +89,5 @@
 | 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Dec) |  |  | 55.5 |
 | 23:00 | USD | High | ISM Non-Manufacturing PMI (Dec) |  | 52.6 | 52.7 |
 | 23:00 | USD | High | ISM Non-Manufacturing Prices (Dec) |  |  | 58.3 |
-| 23:00 | USD | Low | Total Vehicle Sales |  | 15.50M | 15.32M |
 | 23:00 | CAD | Low | Ivey PMI n.s.a (Dec) |  |  | 53.2 |
 | 23:00 | CAD | Moderate | Ivey PMI (Dec) |  | 55.0 | 54.7 |

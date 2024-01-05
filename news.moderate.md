@@ -5,11 +5,11 @@
 | 00:00 | USD | Cushing Crude Oil Inventories | 0.706M |  | 1.508M |
 | 05:30 | USD | Fed's Balance Sheet | 7,681B |  | 7,713B |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
-| 15:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
 | 15:00 | GBP | Halifax House Price Index (YoY) (Dec) |  |  | -1.0% |
+| 15:00 | GBP | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
 | 15:00 | EUR | German Retail Sales (MoM) (Nov) |  | -0.1% | 1.1% |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Dec) |  |  | 0.43% |
-| 17:30 | GBP | S&P Global / CIPS UK Construction PMI |  | 46.1 | 45.5 |
+| 17:30 | GBP | S&P Global / CIPS UK Construction PMI |  | 46.0 | 45.5 |
 | 18:00 | EUR | Core CPI (YoY) |  | 3.5% | 3.6% |
 | 18:00 | EUR | CPI (MoM) |  |  | -0.6% |
 | 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Nov) |  | 75.0% | 74.7% |
