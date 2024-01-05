@@ -15,10 +15,10 @@
 | 01:30 | BRL | Foreign Exchange Flows | -4.888B |  | -5.505B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.434T |
 | 07:50 | JPY | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
-| 41 min | INR | S&P Global India Services PMI (Dec) |  | 56.5 | 56.9 |
-| 41 min | JPY | Household Confidence (Dec) |  | 36.6 | 36.1 |
-| 41 min | SGD | Retail Sales (MoM) (Nov) |  |  | -0.8% |
-| 41 min | SGD | Retail Sales (YoY) (Nov) |  |  | -0.1% |
+| 13:00 | INR | S&P Global India Services PMI (Dec) | 59.0 | 56.5 | 56.9 |
+| 13:00 | JPY | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
+| 13:00 | SGD | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
+| 13:00 | SGD | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 15:00 | EUR | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
 | 16:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Dec) |  |  | 52.9 |
@@ -38,8 +38,8 @@
 | 18:00 | EUR | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 18:00 | EUR | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 18:00 | EUR | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
+| 18:00 | EUR | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |

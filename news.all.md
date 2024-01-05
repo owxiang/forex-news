@@ -19,10 +19,10 @@
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.459T |  | 3.434T |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Dec) | 7.9% | 9.0% | 8.9% |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Dec) | 51.5 | 52.0 | 50.8 |
-| 41 min | INR | Low | S&P Global India Services PMI (Dec) |  | 56.5 | 56.9 |
-| 41 min | JPY | Low | Household Confidence (Dec) |  | 36.6 | 36.1 |
-| 41 min | SGD | Low | Retail Sales (MoM) (Nov) |  |  | -0.8% |
-| 41 min | SGD | Low | Retail Sales (YoY) (Nov) |  |  | -0.1% |
+| 13:00 | INR | Low | S&P Global India Services PMI (Dec) | 59.0 | 56.5 | 56.9 |
+| 13:00 | JPY | Low | Household Confidence (Dec) | 37.2 | 36.6 | 36.1 |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Nov) | 0.5% |  | -0.9% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Nov) | 2.5% |  | -0.1% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Dec) |  |  | -1.0% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Dec) |  | 0.1% | 0.5% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Nov) |  | -0.5% | -0.1% |
@@ -50,8 +50,8 @@
 | 18:00 | EUR | Low | CPI, n.s.a (Dec) |  |  | 123.85 |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  |  | 4.2% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) |  |  | -0.5% |
-| 18:00 | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 18:00 | EUR | Low | PPI (YoY) (Nov) |  | -8.7% | -9.4% |
+| 18:00 | EUR | Low | PPI (MoM) (Nov) |  | -0.1% | 0.2% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 620.44B |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Nov) |  |  | 60.0% |
@@ -63,8 +63,8 @@
 | 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Dec) |  |  | 0.50% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Nov) |  | 0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Nov) |  | 0.7% | 1.2% |
-| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
 | 21:30 | USD | High | Average Hourly Earnings (MoM) (Dec) |  | 0.3% | 0.4% |
+| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Dec) |  | 3.9% | 4.0% |
 | 21:30 | USD | Low | Average Weekly Hours (Dec) |  | 34.4 | 34.4 |
 | 21:30 | USD | Low | Government Payrolls (Dec) |  |  | 49.0K |
 | 21:30 | USD | Low | Manufacturing Payrolls (Dec) |  | 5K | 28K |
