@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16:00 | CNY | FX Reserves (USD) (Dec) |  |  | 3.172T |
+| 23:36 | CNY | FX Reserves (USD) (Dec) |  |  | 3.172T |
