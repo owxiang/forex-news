@@ -26,4 +26,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -57.2K |  | -55.6K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -0.5K |  | -3.7K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 119.5K |  | 117.4K |
-| 10:00 | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |
+| 49 min | NZD | Low | M3 Money Supply (Nov) |  |  | 405.9B |

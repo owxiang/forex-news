@@ -15,4 +15,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 89.1K |  | 87.7K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -5.2K |  | -3.4K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -0.5K |  | -3.7K |
-| 10:00 | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
+| 49 min | NZD | M3 Money Supply (Nov) |  |  | 405.9B |
