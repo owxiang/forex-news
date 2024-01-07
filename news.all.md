@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| Tentative | CNY | Low | FX Reserves (USD) (Dec) | 3.238T | 3.200T | 3.172T |
+| 10:02 | CNY | Low | FX Reserves (USD) (Dec) | 3.238T | 3.200T | 3.172T |
