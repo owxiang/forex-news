@@ -10,8 +10,8 @@
 | 15:00 | EUR | Moderate | German Trade Balance (Nov) |  | 17.9B | 17.8B |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.6% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Nov) |  | 0.0% | -0.1% |
-| 15:30 | CHF | Low | CPI (YoY) (Dec) |  | 1.5% | 1.4% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Dec) |  | -0.1% | -0.2% |
+| 15:30 | CHF | Low | CPI (YoY) (Dec) |  | 1.5% | 1.4% |
 | 15:45 | EUR | Low | French Reserve Assets Total (Dec) |  |  | 222,926.0M |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 345.5B |
 | 17:00 | ZAR | Low | Manufacturing PMI |  |  | 48.2 |
