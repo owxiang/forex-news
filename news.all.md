@@ -15,19 +15,19 @@
 | 15:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | -0.2% | -0.2% |
 | 15:30 | CHF | Low | CPI (YoY) (Dec) | 1.7% | 1.5% | 1.4% |
 | 15:45 | EUR | Low | French Reserve Assets Total (Dec) | 223,167.0M |  | 222,926.0M |
-| 38 min | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 345.5B |
-| 38 min | ZAR | Low | Manufacturing PMI |  |  | 48.2 |
-| 17:30 | EUR | Low | Sentix Investor Confidence (Jan) |  | -15.5 | -16.8 |
-| 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 8.03% |
-| 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
-| 18:00 | EUR | Low | Consumer Confidence |  | -15.1 | -16.9 |
-| 18:00 | EUR | Low | Consumer Inflation Expectation |  |  | 9.3 |
-| 18:00 | EUR | Low | Selling Price Expectations |  |  | 2.3 |
-| 18:00 | EUR | Low | Services Sentiment |  |  | 4.9 |
-| 18:00 | EUR | Low | Industrial Sentiment |  |  | -9.5 |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Nov) |  | -0.3% | 0.1% |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Nov) |  | -1.5% | -1.2% |
-| 18:00 | EUR | Moderate | Unemployment Rate (Nov) |  |  | 6.5% |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) | 351.0B |  | 345.5B |
+| 17:00 | ZAR | Low | Manufacturing PMI | 50.9 |  | 48.2 |
+| 13 min | EUR | Low | Sentix Investor Confidence (Jan) |  | -15.5 | -16.8 |
+| 43 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 8.03% |
+| 43 min | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
+| 43 min | EUR | Low | Consumer Confidence |  | -15.1 | -16.9 |
+| 43 min | EUR | Low | Consumer Inflation Expectation |  |  | 9.3 |
+| 43 min | EUR | Low | Selling Price Expectations |  |  | 2.3 |
+| 43 min | EUR | Low | Services Sentiment |  |  | 4.9 |
+| 43 min | EUR | Low | Industrial Sentiment |  |  | -9.5 |
+| 43 min | EUR | Low | Retail Sales (MoM) (Nov) |  | -0.3% | 0.1% |
+| 43 min | EUR | Low | Retail Sales (YoY) (Nov) |  | -1.5% | -1.2% |
+| 43 min | EUR | Moderate | Unemployment Rate (Nov) |  |  | 6.5% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 47.3 |
