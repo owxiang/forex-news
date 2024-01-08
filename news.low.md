@@ -14,16 +14,17 @@
 | 15:45 | EUR | French Reserve Assets Total (Dec) | 223,167.0M |  | 222,926.0M |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 351.0B |  | 345.5B |
 | 17:00 | ZAR | Manufacturing PMI | 50.9 |  | 48.2 |
-| 13 min | EUR | Sentix Investor Confidence (Jan) |  | -15.5 | -16.8 |
-| 43 min | EUR | Spanish Consumer Confidence |  |  | 76.7 |
-| 43 min | EUR | Consumer Confidence |  | -15.1 | -16.9 |
-| 43 min | EUR | Consumer Inflation Expectation |  |  | 9.3 |
-| 43 min | EUR | Selling Price Expectations |  |  | 2.3 |
-| 43 min | EUR | Services Sentiment |  |  | 4.9 |
-| 43 min | EUR | Industrial Sentiment |  |  | -9.5 |
-| 43 min | EUR | Retail Sales (MoM) (Nov) |  | -0.3% | 0.1% |
-| 43 min | EUR | Retail Sales (YoY) (Nov) |  | -1.5% | -1.2% |
-| 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 17:30 | EUR | Sentix Investor Confidence (Jan) | -15.8 | -15.5 | -16.8 |
+| 18:00 | EUR | Business and Consumer Survey (Dec) | 96.4 |  | 94.0 |
+| 18:00 | EUR | Business Climate (Dec) | -0.45 |  | -0.39 |
+| 18:00 | EUR | Consumer Confidence | -15.0 | -15.1 | -16.9 |
+| 18:00 | EUR | Consumer Inflation Expectation | 10.5 |  | 9.3 |
+| 18:00 | EUR | Selling Price Expectations | 3.2 |  | 2.4 |
+| 18:00 | EUR | Services Sentiment | 8.4 |  | 5.5 |
+| 18:00 | EUR | Industrial Sentiment | -9.2 |  | -9.5 |
+| 18:00 | EUR | Retail Sales (MoM) (Nov) | -0.3% | -0.3% | 0.4% |
+| 18:00 | EUR | Retail Sales (YoY) (Nov) | -1.1% | -1.5% | -0.8% |
+| 42 min | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Consumer Confidence |  |  | 47.3 |
 | 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.9 |
