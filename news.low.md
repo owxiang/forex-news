@@ -8,12 +8,12 @@
 | 14:00 | ZAR | Net FX Reserves (USD) (Dec) | 56.900B |  | 56.319B |
 | 15:00 | EUR | German Exports (MoM) (Nov) | 3.7% | 0.3% | -0.4% |
 | 15:00 | EUR | German Imports (MoM) (Nov) | 1.9% | 0.2% | -1.1% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Nov) | -0.3% |  | 0.6% |
-| 15 min | CHF | Retail Sales (YoY) (Nov) |  | 0.0% | -0.1% |
-| 15 min | CHF | CPI (YoY) (Dec) |  | 1.5% | 1.4% |
-| 30 min | EUR | French Reserve Assets Total (Dec) |  |  | 222,926.0M |
-| 17:00 | SGD | Foreign Reserves USD (MoM) (Dec) |  |  | 345.5B |
-| 17:00 | ZAR | Manufacturing PMI |  |  | 48.2 |
+| 15:00 | NOK | Manufacturing Production (MoM) (Nov) | -0.3% |  | 0.5% |
+| 15:30 | CHF | Retail Sales (YoY) (Nov) | 0.7% | 0.0% | -0.3% |
+| 15:30 | CHF | CPI (YoY) (Dec) | 1.7% | 1.5% | 1.4% |
+| 15:45 | EUR | French Reserve Assets Total (Dec) | 223,167.0M |  | 222,926.0M |
+| 38 min | SGD | Foreign Reserves USD (MoM) (Dec) |  |  | 345.5B |
+| 38 min | ZAR | Manufacturing PMI |  |  | 48.2 |
 | 17:30 | EUR | Sentix Investor Confidence (Jan) |  | -15.5 | -16.8 |
 | 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
 | 18:00 | EUR | Consumer Confidence |  | -15.1 | -16.9 |

@@ -10,13 +10,13 @@
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | 0.3% | 1.0% | -3.8% |
 | 15:00 | EUR | Low | German Imports (MoM) (Nov) | 1.9% | 0.2% | -1.1% |
 | 15:00 | EUR | Moderate | German Trade Balance (Nov) | 20.4B | 17.9B | 17.7B |
-| 15:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | -0.3% |  | 0.6% |
-| 15 min | CHF | Low | Retail Sales (YoY) (Nov) |  | 0.0% | -0.1% |
-| 15 min | CHF | Low | CPI (YoY) (Dec) |  | 1.5% | 1.4% |
-| 15 min | CHF | Moderate | CPI (MoM) (Dec) |  | -0.2% | -0.2% |
-| 30 min | EUR | Low | French Reserve Assets Total (Dec) |  |  | 222,926.0M |
-| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 345.5B |
-| 17:00 | ZAR | Low | Manufacturing PMI |  |  | 48.2 |
+| 15:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | -0.3% |  | 0.5% |
+| 15:30 | CHF | Low | Retail Sales (YoY) (Nov) | 0.7% | 0.0% | -0.3% |
+| 15:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | -0.2% | -0.2% |
+| 15:30 | CHF | Low | CPI (YoY) (Dec) | 1.7% | 1.5% | 1.4% |
+| 15:45 | EUR | Low | French Reserve Assets Total (Dec) | 223,167.0M |  | 222,926.0M |
+| 38 min | SGD | Low | Foreign Reserves USD (MoM) (Dec) |  |  | 345.5B |
+| 38 min | ZAR | Low | Manufacturing PMI |  |  | 48.2 |
 | 17:30 | EUR | Low | Sentix Investor Confidence (Jan) |  | -15.5 | -16.8 |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 8.03% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
