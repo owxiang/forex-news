@@ -7,14 +7,14 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.030% |  | 5.045% |
 | 01:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 04:00 | USD | Moderate | Consumer Credit (Nov) | 23.75B | 9.00B | 5.78B |
-| 46 min | KRW | Low | Current Account (Nov) |  |  | 6.80B |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -2.3% | -2.5% |
-| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.1% | 2.3% |
-| 07:30 | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
-| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.0% |
-| 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) |  | 2.3% | 2.6% |
+| 07:00 | KRW | Low | Current Account (Nov) | 4.06B |  | 6.80B |
+| 14 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
+| 14 min | JPY | Moderate | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
+| 14 min | JPY | Moderate | Household Spending (YoY) (Nov) |  | -2.3% | -2.5% |
+| 14 min | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.1% | 2.3% |
+| 14 min | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
+| 14 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.0% |
+| 45 min | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) |  | 2.3% | 2.6% |
 | 08:30 | AUD | Low | Building Approvals (YoY) (Nov) |  |  | 1.80% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) (Nov) |  | -2.0% | 7.5% |
 | 08:30 | AUD | Low | Private House Approvals (Nov) |  | 2.2% | 2.2% |
