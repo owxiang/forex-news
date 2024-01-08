@@ -29,9 +29,9 @@
 | 18:00 | EUR | Low | Retail Sales (MoM) (Nov) | -0.3% | -0.3% | 0.4% |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Nov) | -1.1% | -1.5% | -0.8% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 47.3 |
+| 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 47.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. | 47.2 |  | 46.9 |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.215% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.757% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.663% |
+| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.215% |
+| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.757% |
+| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.663% |
 | 23:00 | USD | Low | CB Employment Trends Index (Dec) |  |  | 113.05 |
