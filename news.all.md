@@ -1,37 +1,54 @@
-## 08 January 2024 - All Forex News
+## 09 January 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 10:00 | IDR | Low | Motorbike Sales (YoY) (Dec) | -11.60% |  | -2.80% |
-| 11:00 | IDR | Low | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
-| 14:00 | ZAR | Low | Foreign Reserves (USD) | 62.52B |  | 61.72B |
-| 14:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 56.900B |  | 56.319B |
-| 15:00 | EUR | Low | German Exports (MoM) (Nov) | 3.7% | 0.3% | -0.4% |
-| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) | 0.3% | 1.0% | -3.8% |
-| 15:00 | EUR | Low | German Imports (MoM) (Nov) | 1.9% | 0.2% | -1.1% |
-| 15:00 | EUR | Moderate | German Trade Balance (Nov) | 20.4B | 17.9B | 17.7B |
-| 15:00 | NOK | Low | Manufacturing Production (MoM) (Nov) | -0.3% |  | 0.5% |
-| 15:30 | CHF | Low | Retail Sales (YoY) (Nov) | 0.7% | 0.0% | -0.3% |
-| 15:30 | CHF | Low | CPI (YoY) (Dec) | 1.7% | 1.5% | 1.4% |
-| 15:30 | CHF | Moderate | CPI (MoM) (Dec) | 0.0% | -0.2% | -0.2% |
-| 15:45 | EUR | Low | French Reserve Assets Total (Dec) | 223,167.0M |  | 222,926.0M |
-| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Dec) | 351.0B |  | 345.5B |
-| 17:00 | ZAR | Low | Manufacturing PMI | 50.9 |  | 48.2 |
-| 17:30 | EUR | Low | Sentix Investor Confidence (Jan) | -15.8 | -15.5 | -16.8 |
-| 17:50 | GBP | Moderate | Mortgage Rate (GBP) (Dec) | 7.96% |  | 8.03% |
-| 18:00 | EUR | Low | Business and Consumer Survey (Dec) | 96.4 |  | 94.0 |
-| 18:00 | EUR | Low | Business Climate (Dec) | -0.45 |  | -0.39 |
-| 18:00 | EUR | Low | Consumer Confidence | -15.0 | -15.1 | -16.9 |
-| 18:00 | EUR | Low | Consumer Inflation Expectation | 10.5 |  | 9.3 |
-| 18:00 | EUR | Low | Selling Price Expectations | 3.2 |  | 2.4 |
-| 18:00 | EUR | Low | Services Sentiment | 8.4 |  | 5.5 |
-| 18:00 | EUR | Low | Industrial Sentiment | -9.2 |  | -9.5 |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Nov) | -0.3% | -0.3% | 0.4% |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Nov) | -1.1% | -1.5% | -0.8% |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 47.2 |
-| 20:00 | MXN | Low | Consumer Confidence n.s.a. | 47.2 |  | 46.9 |
-| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.341% |  | 3.215% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.844% |  | 3.757% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.766% |  | 3.663% |
-| 45 min | USD | Low | CB Employment Trends Index (Dec) |  |  | 113.05 |
+| 00:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.40% |
+| 9 min | USD | Low | 3-Month Bill Auction |  |  | 5.245% |
+| 9 min | USD | Low | 6-Month Bill Auction |  |  | 5.045% |
+| 39 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 04:00 | USD | Moderate | Consumer Credit (Nov) |  | 9.00B | 5.13B |
+| 07:00 | KRW | Low | Current Account (Nov) |  |  | 6.80B |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -2.3% | -2.5% |
+| 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.1% | 2.3% |
+| 07:30 | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
+| 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.0% |
+| 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) |  | 2.3% | 2.6% |
+| 08:30 | AUD | Low | Building Approvals (YoY) (Nov) |  |  | 1.80% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) (Nov) |  | -2.0% | 7.5% |
+| 08:30 | AUD | Low | Private House Approvals (Nov) |  | 2.2% | 2.2% |
+| 08:30 | AUD | Moderate | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
+| 12:00 | IDR | Low | Consumer Confidence |  |  | 123.6 |
+| 14:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
+| 14:45 | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
+| 15:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
+| 15:00 | EUR | Low | German Industrial Production (YoY) (Nov) |  |  | -3.38% |
+| 15:45 | EUR | Low | French Current Account (Nov) |  |  | -2.90B |
+| 15:45 | EUR | Low | French Exports (Nov) |  |  | 49.7B |
+| 15:45 | EUR | Low | French Imports (Nov) |  |  | 58.3B |
+| 15:45 | EUR | Low | French Trade Balance (Nov) |  | -7.9B | -8.6B |
+| 16:00 | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
+| 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 7.9% | 7.8% |
+| 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.305% |
+| 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.617% |
+| 18:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 1.392% |
+| 18:00 | EUR | Moderate | Unemployment Rate (Nov) |  | 6.5% | 6.5% |
+| 19:00 | USD | Low | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
+| 20:00 | MXN | Low | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 4.56% | 4.32% |
+| 20:00 | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
+| 20:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 1.20% |
+| 20:00 | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -9.80% |
+| Tentative | ZAR | Low | Total Vehicle Sales |  |  | 45.08K |
+| 21:30 | USD | Moderate | Exports |  |  | 258.80B |
+| 21:30 | USD | Moderate | Imports |  |  | 323.00B |
+| 21:30 | USD | Moderate | Trade Balance (Nov) |  | -65.00B | -64.30B |
+| 21:30 | CAD | Moderate | Building Permits (MoM) (Nov) |  | -1.2% | 2.3% |
+| 21:30 | CAD | Low | Exports (Nov) |  |  | 65.98B |
+| 21:30 | CAD | Low | Imports (Nov) |  |  | 63.01B |
+| 21:30 | CAD | Moderate | Trade Balance (Nov) |  | 1.80B | 2.97B |
+| 21:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
+| 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |

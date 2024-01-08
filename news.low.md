@@ -1,33 +1,36 @@
-## 08 January 2024 - Low Impact Forex News
+## 09 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | IDR | Motorbike Sales (YoY) (Dec) | -11.60% |  | -2.80% |
-| 11:00 | IDR | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
-| 14:00 | ZAR | Foreign Reserves (USD) | 62.52B |  | 61.72B |
-| 14:00 | ZAR | Net FX Reserves (USD) (Dec) | 56.900B |  | 56.319B |
-| 15:00 | EUR | German Exports (MoM) (Nov) | 3.7% | 0.3% | -0.4% |
-| 15:00 | EUR | German Imports (MoM) (Nov) | 1.9% | 0.2% | -1.1% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Nov) | -0.3% |  | 0.5% |
-| 15:30 | CHF | Retail Sales (YoY) (Nov) | 0.7% | 0.0% | -0.3% |
-| 15:30 | CHF | CPI (YoY) (Dec) | 1.7% | 1.5% | 1.4% |
-| 15:45 | EUR | French Reserve Assets Total (Dec) | 223,167.0M |  | 222,926.0M |
-| 17:00 | SGD | Foreign Reserves USD (MoM) (Dec) | 351.0B |  | 345.5B |
-| 17:00 | ZAR | Manufacturing PMI | 50.9 |  | 48.2 |
-| 17:30 | EUR | Sentix Investor Confidence (Jan) | -15.8 | -15.5 | -16.8 |
-| 18:00 | EUR | Business and Consumer Survey (Dec) | 96.4 |  | 94.0 |
-| 18:00 | EUR | Business Climate (Dec) | -0.45 |  | -0.39 |
-| 18:00 | EUR | Consumer Confidence | -15.0 | -15.1 | -16.9 |
-| 18:00 | EUR | Consumer Inflation Expectation | 10.5 |  | 9.3 |
-| 18:00 | EUR | Selling Price Expectations | 3.2 |  | 2.4 |
-| 18:00 | EUR | Services Sentiment | 8.4 |  | 5.5 |
-| 18:00 | EUR | Industrial Sentiment | -9.2 |  | -9.5 |
-| 18:00 | EUR | Retail Sales (MoM) (Nov) | -0.3% | -0.3% | 0.4% |
-| 18:00 | EUR | Retail Sales (YoY) (Nov) | -1.1% | -1.5% | -0.8% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | MXN | Consumer Confidence | 46.8 |  | 47.2 |
-| 20:00 | MXN | Consumer Confidence n.s.a. | 47.2 |  | 46.9 |
-| 21:55 | EUR | French 12-Month BTF Auction | 3.341% |  | 3.215% |
-| 21:55 | EUR | French 3-Month BTF Auction | 3.844% |  | 3.757% |
-| 21:55 | EUR | French 6-Month BTF Auction | 3.766% |  | 3.663% |
-| 45 min | USD | CB Employment Trends Index (Dec) |  |  | 113.05 |
+| 9 min | USD | 3-Month Bill Auction |  |  | 5.245% |
+| 9 min | USD | 6-Month Bill Auction |  |  | 5.045% |
+| 07:00 | KRW | Current Account (Nov) |  |  | 6.80B |
+| 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
+| 07:30 | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
+| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.0% |
+| 08:30 | AUD | Building Approvals (YoY) (Nov) |  |  | 1.80% |
+| 08:30 | AUD | Private House Approvals (Nov) |  | 2.2% | 2.2% |
+| 12:00 | IDR | Consumer Confidence |  |  | 123.6 |
+| 14:45 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
+| 14:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
+| 15:00 | EUR | German Industrial Production (YoY) (Nov) |  |  | -3.38% |
+| 15:45 | EUR | French Current Account (Nov) |  |  | -2.90B |
+| 15:45 | EUR | French Exports (Nov) |  |  | 49.7B |
+| 15:45 | EUR | French Imports (Nov) |  |  | 58.3B |
+| 15:45 | EUR | French Trade Balance (Nov) |  | -7.9B | -8.6B |
+| 16:00 | CHF | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
+| 17:00 | EUR | Italian Monthly Unemployment Rate (Nov) |  | 7.9% | 7.8% |
+| 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.305% |
+| 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.617% |
+| 18:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 1.392% |
+| 19:00 | USD | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
+| 20:00 | MXN | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
+| 20:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
+| 20:00 | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
+| 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
+| 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -9.80% |
+| Tentative | ZAR | Total Vehicle Sales |  |  | 45.08K |
+| 21:30 | CAD | Exports (Nov) |  |  | 65.98B |
+| 21:30 | CAD | Imports (Nov) |  |  | 63.01B |
+| 21:55 | USD | Redbook (YoY) |  |  | 5.6% |
+| 23:00 | USD | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |
