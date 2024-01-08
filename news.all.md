@@ -4,12 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 10:00 | IDR | Low | Motorbike Sales (YoY) (Dec) | -11.60% |  | -2.80% |
 | 11:00 | IDR | Low | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
-| 45 min | ZAR | Low | Foreign Reserves (USD) |  |  | 61.72B |
-| 15:00 | EUR | Low | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
-| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | 1.0% | -3.7% |
-| 15:00 | EUR | Low | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
-| 15:00 | EUR | Moderate | German Trade Balance (Nov) |  | 17.9B | 17.8B |
-| 15:00 | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.6% |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) | 62.52B |  | 61.72B |
+| 14:00 | ZAR | Low | Net FX Reserves (USD) (Dec) | 56.900B |  | 56.319B |
+| 38 min | EUR | Low | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
+| 38 min | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | 1.0% | -3.7% |
+| 38 min | EUR | Low | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
+| 38 min | EUR | Moderate | German Trade Balance (Nov) |  | 17.9B | 17.8B |
+| 38 min | NOK | Low | Manufacturing Production (MoM) (Nov) |  |  | 0.6% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Nov) |  | 0.0% | -0.1% |
 | 15:30 | CHF | Low | CPI (YoY) (Dec) |  | 1.5% | 1.4% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Dec) |  | -0.2% | -0.2% |

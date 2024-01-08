@@ -4,10 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 10:00 | IDR | Motorbike Sales (YoY) (Dec) | -11.60% |  | -2.80% |
 | 11:00 | IDR | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
-| 45 min | ZAR | Foreign Reserves (USD) |  |  | 61.72B |
-| 15:00 | EUR | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
-| 15:00 | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Nov) |  |  | 0.6% |
+| 14:00 | ZAR | Foreign Reserves (USD) | 62.52B |  | 61.72B |
+| 14:00 | ZAR | Net FX Reserves (USD) (Dec) | 56.900B |  | 56.319B |
+| 38 min | EUR | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
+| 38 min | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
+| 38 min | NOK | Manufacturing Production (MoM) (Nov) |  |  | 0.6% |
 | 15:30 | CHF | Retail Sales (YoY) (Nov) |  | 0.0% | -0.1% |
 | 15:30 | CHF | CPI (YoY) (Dec) |  | 1.5% | 1.4% |
 | 15:45 | EUR | French Reserve Assets Total (Dec) |  |  | 222,926.0M |
