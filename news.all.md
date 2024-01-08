@@ -7,7 +7,7 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.030% |  | 5.045% |
 | 01:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 04:00 | USD | Moderate | Consumer Credit (Nov) | 23.75B | 9.00B | 5.78B |
-| 07:00 | KRW | Low | Current Account (Nov) |  |  | 6.80B |
+| 46 min | KRW | Low | Current Account (Nov) |  |  | 6.80B |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -2.3% | -2.5% |
@@ -36,11 +36,11 @@
 | 18:00 | EUR | Moderate | Unemployment Rate (Nov) |  | 6.5% | 6.5% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 4.56% | 4.32% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 1.20% |
 | 20:00 | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
+| 20:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 1.20% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | USD | Moderate | Exports |  |  | 258.80B |

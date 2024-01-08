@@ -13,8 +13,8 @@
 | 08:30 | AUD | Retail Sales (MoM) (Nov) |  | 1.2% | -0.2% |
 | 15:00 | EUR | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
 | 18:00 | EUR | Unemployment Rate (Nov) |  | 6.5% | 6.5% |
-| 20:00 | MXN | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | CPI (YoY) (Dec) |  | 4.56% | 4.32% |
+| 20:00 | MXN | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 21:30 | USD | Exports |  |  | 258.80B |
 | 21:30 | USD | Imports |  |  | 323.00B |
 | 21:30 | USD | Trade Balance (Nov) |  | -65.00B | -64.30B |
