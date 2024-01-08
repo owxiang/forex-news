@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | USD | 3-Month Bill Auction |  |  | 5.245% |
-| 9 min | USD | 6-Month Bill Auction |  |  | 5.045% |
+| 00:30 | USD | 3-Month Bill Auction | 5.235% |  | 5.245% |
+| 00:30 | USD | 6-Month Bill Auction | 5.030% |  | 5.045% |
 | 07:00 | KRW | Current Account (Nov) |  |  | 6.80B |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
@@ -26,8 +26,8 @@
 | 19:00 | USD | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
 | 20:00 | MXN | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
 | 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
+| 20:00 | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | CAD | Exports (Nov) |  |  | 65.98B |
