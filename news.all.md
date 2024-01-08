@@ -31,7 +31,7 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 20:00 | MXN | Low | Consumer Confidence | 46.8 |  | 47.2 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. | 47.2 |  | 46.9 |
-| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.215% |
-| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.757% |
-| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.663% |
-| 23:00 | USD | Low | CB Employment Trends Index (Dec) |  |  | 113.05 |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.341% |  | 3.215% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.844% |  | 3.757% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.766% |  | 3.663% |
+| 45 min | USD | Low | CB Employment Trends Index (Dec) |  |  | 113.05 |
