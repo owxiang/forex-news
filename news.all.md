@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 10:00 | IDR | Low | Motorbike Sales (YoY) (Dec) | -11.60% |  | -2.80% |
 | 11:00 | IDR | Low | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
-| 14:00 | ZAR | Low | Foreign Reserves (USD) |  |  | 61.72B |
+| 45 min | ZAR | Low | Foreign Reserves (USD) |  |  | 61.72B |
 | 15:00 | EUR | Low | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Nov) |  | 1.0% | -3.7% |
 | 15:00 | EUR | Low | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
