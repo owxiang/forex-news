@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:00 | IDR | FX Reserves (USD) (Dec) |  |  | 138.10B |
+| 43 min | IDR | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
 | 14:00 | ZAR | Foreign Reserves (USD) |  |  | 61.72B |
 | 15:00 | EUR | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
