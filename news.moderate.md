@@ -5,8 +5,8 @@
 | 00:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.40% |
 | 01:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 04:00 | USD | Consumer Credit (Nov) |  | 9.00B | 5.13B |
-| 07:30 | JPY | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
 | 07:30 | JPY | Household Spending (YoY) (Nov) |  | -2.3% | -2.5% |
+| 07:30 | JPY | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Dec) |  | 2.1% | 2.3% |
 | 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Dec) |  | 2.3% | 2.6% |
 | 08:30 | AUD | Building Approvals (MoM) (Nov) |  | -2.0% | 7.5% |

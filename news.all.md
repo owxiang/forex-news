@@ -9,8 +9,8 @@
 | 04:00 | USD | Moderate | Consumer Credit (Nov) |  | 9.00B | 5.13B |
 | 07:00 | KRW | Low | Current Account (Nov) |  |  | 6.80B |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
 | 07:30 | JPY | Moderate | Household Spending (YoY) (Nov) |  | -2.3% | -2.5% |
+| 07:30 | JPY | Moderate | Household Spending (MoM) (Nov) |  | 0.2% | -0.1% |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Dec) |  | 2.1% | 2.3% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.0% |
@@ -39,8 +39,8 @@
 | 20:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 4.56% | 4.32% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 1.20% |
+| 20:00 | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | USD | Moderate | Exports |  |  | 258.80B |
