@@ -2,7 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | IDR | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
+| 10:00 | IDR | Motorbike Sales (YoY) (Dec) | -11.60% |  | -2.80% |
+| 11:00 | IDR | FX Reserves (USD) (Dec) | 146.40B |  | 138.10B |
 | 14:00 | ZAR | Foreign Reserves (USD) |  |  | 61.72B |
 | 15:00 | EUR | German Exports (MoM) (Nov) |  | 0.3% | -0.2% |
 | 15:00 | EUR | German Imports (MoM) (Nov) |  | 0.2% | -1.2% |
@@ -16,6 +17,7 @@
 | 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
 | 18:00 | EUR | Consumer Confidence |  | -15.1 | -16.9 |
 | 18:00 | EUR | Consumer Inflation Expectation |  |  | 9.3 |
+| 18:00 | EUR | Selling Price Expectations |  |  | 2.3 |
 | 18:00 | EUR | Services Sentiment |  |  | 4.9 |
 | 18:00 | EUR | Industrial Sentiment |  |  | -9.5 |
 | 18:00 | EUR | Retail Sales (MoM) (Nov) |  | -0.3% | 0.1% |
