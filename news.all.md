@@ -20,10 +20,10 @@
 | 08:30 | AUD | Low | Private House Approvals (Nov) | -1.7% |  | 2.9% |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) (Nov) | 2.0% | 1.2% | -0.4% |
 | 11:00 | IDR | Low | Consumer Confidence (Dec) | 123.8 |  | 123.6 |
-| 14:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
-| 14:45 | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
-| 15:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
-| 15:00 | EUR | Low | German Industrial Production (YoY) (Nov) |  |  | -3.38% |
+| 23 min | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
+| 23 min | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
+| 38 min | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
+| 38 min | EUR | Low | German Industrial Production (YoY) (Nov) |  |  | -3.38% |
 | 15:45 | EUR | Low | French Current Account (Nov) |  |  | -2.90B |
 | 15:45 | EUR | Low | French Exports (Nov) |  |  | 49.7B |
 | 15:45 | EUR | Low | French Imports (Nov) |  |  | 58.3B |

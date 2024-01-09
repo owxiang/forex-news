@@ -11,9 +11,9 @@
 | 08:30 | AUD | Building Approvals (YoY) (Nov) | -4.60% |  | -5.50% |
 | 08:30 | AUD | Private House Approvals (Nov) | -1.7% |  | 2.9% |
 | 11:00 | IDR | Consumer Confidence (Dec) | 123.8 |  | 123.6 |
-| 14:45 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
-| 14:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
-| 15:00 | EUR | German Industrial Production (YoY) (Nov) |  |  | -3.38% |
+| 23 min | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
+| 23 min | CHF | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
+| 38 min | EUR | German Industrial Production (YoY) (Nov) |  |  | -3.38% |
 | 15:45 | EUR | French Current Account (Nov) |  |  | -2.90B |
 | 15:45 | EUR | French Exports (Nov) |  |  | 49.7B |
 | 15:45 | EUR | French Imports (Nov) |  |  | 58.3B |

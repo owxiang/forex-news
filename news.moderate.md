@@ -11,7 +11,7 @@
 | 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Dec) | 1.9% | 2.3% | 2.6% |
 | 08:30 | AUD | Building Approvals (MoM) (Nov) | 1.6% | -2.0% | 7.2% |
 | 08:30 | AUD | Retail Sales (MoM) (Nov) | 2.0% | 1.2% | -0.4% |
-| 15:00 | EUR | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
+| 38 min | EUR | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
 | 18:00 | EUR | Unemployment Rate (Nov) |  | 6.5% | 6.5% |
 | 20:00 | MXN | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | CPI (YoY) (Dec) |  | 4.55% | 4.32% |
