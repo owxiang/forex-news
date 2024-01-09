@@ -1,3 +1,5 @@
-## 09 January 2024 - High Impact Forex News
+## 10 January 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 23:30 | USD | Crude Oil Inventories |  | -1.200M | -5.503M |
