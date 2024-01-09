@@ -28,8 +28,8 @@
 | 20:00 | USD | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 21:00 | BRL | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |

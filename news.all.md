@@ -36,8 +36,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
