@@ -18,8 +18,8 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 17:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
 | 17:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
+| 17:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
 | 18:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.6% |
@@ -28,8 +28,8 @@
 | 20:00 | USD | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 21:00 | BRL | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
