@@ -25,8 +25,8 @@
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |
