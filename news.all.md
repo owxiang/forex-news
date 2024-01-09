@@ -36,19 +36,18 @@
 | 18:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.4% | 6.5% | 6.5% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Dec) | 91.9 | 90.7 | 90.6 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.44% | 0.50% | 0.26% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.71% | 0.61% | 0.64% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Dec) | 4.66% | 4.55% | 4.32% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.71% | 0.61% | 0.64% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Dec) | 5.09% | 5.15% | 5.30% |
 | 20:00 | MXN | Low | PPI (MoM) (Dec) | -0.30% |  | -0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Dec) | 1.00% |  | 1.30% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (Nov) | 40.33K |  | 45.46K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Nov) | -3.30% |  | -2.00% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (Nov) | 40.33K |  | 45.45K |
-| 4 min | USD | Moderate | Exports |  |  | 258.80B |
-| 4 min | USD | Moderate | Imports |  |  | 323.00B |
-| 4 min | USD | Moderate | Trade Balance (Nov) |  | -65.00B | -64.30B |
-| 4 min | CAD | Moderate | Building Permits (MoM) (Nov) |  | -1.7% | 2.3% |
-| 4 min | CAD | Low | Exports (Nov) |  |  | 65.98B |
-| 4 min | CAD | Low | Imports (Nov) |  |  | 63.01B |
-| 4 min | CAD | Moderate | Trade Balance (Nov) |  | 2.00B | 2.97B |
-| 29 min | USD | Low | Redbook (YoY) |  |  | 5.6% |
-| 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |
+| 21:30 | USD | Moderate | Exports | 253.70B |  | 258.80B |
+| 21:30 | USD | Moderate | Imports | 316.90B |  | 323.00B |
+| 21:30 | USD | Moderate | Trade Balance (Nov) | -63.20B | -65.00B | -64.50B |
+| 21:30 | CAD | Moderate | Building Permits (MoM) (Nov) | -3.9% | -1.7% | 3.0% |
+| 21:30 | CAD | Low | Exports (Nov) | 65.74B |  | 66.17B |
+| 21:30 | CAD | Low | Imports (Nov) | 64.17B |  | 62.97B |
+| 21:30 | CAD | Moderate | Trade Balance (Nov) | 1.57B | 2.00B | 3.20B |
+| 45 min | USD | Low | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |

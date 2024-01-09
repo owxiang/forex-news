@@ -28,9 +28,8 @@
 | 20:00 | MXN | Month Core Inflation (MoM) (Dec) | 5.09% | 5.15% | 5.30% |
 | 20:00 | MXN | PPI (MoM) (Dec) | -0.30% |  | -0.30% |
 | 20:00 | MXN | PPI (YoY) (Dec) | 1.00% |  | 1.30% |
+| 20:00 | ZAR | Total Vehicle Sales (Nov) | 40.33K |  | 45.46K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | -3.30% |  | -2.00% |
-| 20:00 | ZAR | Total Vehicle Sales (Nov) | 40.33K |  | 45.45K |
-| 4 min | CAD | Exports (Nov) |  |  | 65.98B |
-| 4 min | CAD | Imports (Nov) |  |  | 63.01B |
-| 29 min | USD | Redbook (YoY) |  |  | 5.6% |
-| 23:00 | USD | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |
+| 21:30 | CAD | Exports (Nov) | 65.74B |  | 66.17B |
+| 21:30 | CAD | Imports (Nov) | 64.17B |  | 62.97B |
+| 45 min | USD | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |
