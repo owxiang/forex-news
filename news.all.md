@@ -24,12 +24,12 @@
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Dec) | 2.2% | 2.2% | 2.1% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) | -0.7% | 0.2% | -0.3% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Nov) | -4.87% |  | -3.38% |
-| 28 min | EUR | Low | French Current Account (Nov) |  |  | -2.90B |
-| 28 min | EUR | Low | French Exports (Nov) |  |  | 49.7B |
-| 28 min | EUR | Low | French Imports (Nov) |  |  | 58.3B |
-| 28 min | EUR | Low | French Trade Balance (Nov) |  | -7.9B | -8.6B |
-| 43 min | CHF | Low | Foreign Reserves (USD) (Dec) |  |  | 641.7B |
-| 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 7.9% | 7.8% |
+| 15:45 | EUR | Low | French Current Account (Nov) | -2.80B |  | -3.40B |
+| 15:45 | EUR | Low | French Exports (Nov) | 49.5B |  | 49.7B |
+| 15:45 | EUR | Low | French Imports (Nov) | 55.4B |  | 58.2B |
+| 15:45 | EUR | Low | French Trade Balance (Nov) | -5.9B | -7.9B | -8.5B |
+| 16:00 | CHF | Low | Foreign Reserves (USD) (Dec) | 653.7B |  | 642.4B |
+| 39 min | EUR | Low | Italian Monthly Unemployment Rate (Nov) |  | 7.9% | 7.8% |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.305% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.617% |
 | 18:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 1.392% |
