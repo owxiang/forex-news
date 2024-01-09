@@ -30,11 +30,10 @@
 | 15:45 | EUR | Low | French Trade Balance (Nov) | -5.9B | -7.9B | -8.5B |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Dec) | 653.7B |  | 642.4B |
 | 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Nov) | 7.5% | 7.9% | 7.7% |
-| 24 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.305% |
-| 24 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.617% |
-| 44 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 1.392% |
-| 44 min | EUR | Moderate | Unemployment Rate (Nov) |  | 6.5% | 6.5% |
-| 19:00 | USD | Low | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
+| 17:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.293% |  | 3.305% |
+| 17:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.580% |  | 3.617% |
+| 18:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.4% | 6.5% | 6.5% |
+| 42 min | USD | Low | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
 | 20:00 | MXN | Low | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 4.55% | 4.32% |
