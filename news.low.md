@@ -19,15 +19,15 @@
 | 15:45 | EUR | French Imports (Nov) | 55.4B |  | 58.2B |
 | 15:45 | EUR | French Trade Balance (Nov) | -5.9B | -7.9B | -8.5B |
 | 16:00 | CHF | Foreign Reserves (USD) (Dec) | 653.7B |  | 642.4B |
-| 39 min | EUR | Italian Monthly Unemployment Rate (Nov) |  | 7.9% | 7.8% |
-| 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.305% |
-| 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.617% |
-| 18:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 1.392% |
+| 17:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 7.5% | 7.9% | 7.7% |
+| 24 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.305% |
+| 24 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.617% |
+| 44 min | GBP | 20-Year Treasury Gilt Auction |  |  | 1.392% |
 | 19:00 | USD | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
 | 20:00 | MXN | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
+| 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | CAD | Exports (Nov) |  |  | 65.98B |
