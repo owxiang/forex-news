@@ -9,7 +9,7 @@
 | 07:30 | JPY | Tokyo CPI (YoY) (Dec) | 2.4% |  | 2.7% |
 | 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) | 0.1% |  | 0.0% |
 | 08:30 | AUD | Building Approvals (YoY) (Nov) | -4.60% |  | -5.50% |
-| 08:30 | AUD | Private House Approvals (Nov) | -1.7% | 2.2% | 2.2% |
+| 08:30 | AUD | Private House Approvals (Nov) | -1.7% | 2.2% | 2.9% |
 | 12:00 | IDR | Consumer Confidence |  |  | 123.6 |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
 | 14:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
@@ -26,8 +26,8 @@
 | 19:00 | USD | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
 | 20:00 | MXN | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
+| 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | CAD | Exports (Nov) |  |  | 65.98B |

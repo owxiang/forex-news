@@ -17,7 +17,7 @@
 | 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Dec) | 1.9% | 2.3% | 2.6% |
 | 08:30 | AUD | Low | Building Approvals (YoY) (Nov) | -4.60% |  | -5.50% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 1.6% | -2.0% | 7.2% |
-| 08:30 | AUD | Low | Private House Approvals (Nov) | -1.7% | 2.2% | 2.2% |
+| 08:30 | AUD | Low | Private House Approvals (Nov) | -1.7% | 2.2% | 2.9% |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) (Nov) | 2.0% | 1.2% | -0.4% |
 | 12:00 | IDR | Low | Consumer Confidence |  |  | 123.6 |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
@@ -39,8 +39,8 @@
 | 20:00 | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Dec) |  | 4.56% | 4.32% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | MXN | Low | PPI (YoY) (Dec) |  |  | 1.20% |
+| 20:00 | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | USD | Moderate | Exports |  |  | 258.80B |
