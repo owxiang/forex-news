@@ -35,20 +35,18 @@
 | 18:00 | GBP | Low | 20-Year Treasury Gilt Auction | 4.391% |  | 1.392% |
 | 18:00 | EUR | Moderate | Unemployment Rate (Nov) | 6.4% | 6.5% | 6.5% |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Dec) | 91.9 | 90.7 | 90.6 |
-| 47 min | MXN | Low | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
-| 47 min | MXN | Moderate | CPI (MoM) (Dec) |  | 0.61% | 0.64% |
-| 47 min | MXN | Moderate | CPI (YoY) (Dec) |  | 4.55% | 4.32% |
-| 47 min | MXN | Low | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 47 min | MXN | Low | PPI (YoY) (Dec) |  |  | 1.20% |
-| 47 min | MXN | Low | PPI (MoM) (Dec) |  |  | -0.40% |
-| 47 min | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -9.80% |
-| Tentative | ZAR | Low | Total Vehicle Sales |  |  | 45.08K |
-| 21:30 | USD | Moderate | Exports |  |  | 258.80B |
-| 21:30 | USD | Moderate | Imports |  |  | 323.00B |
-| 21:30 | USD | Moderate | Trade Balance (Nov) |  | -65.00B | -64.30B |
-| 21:30 | CAD | Moderate | Building Permits (MoM) (Nov) |  | -1.7% | 2.3% |
-| 21:30 | CAD | Low | Exports (Nov) |  |  | 65.98B |
-| 21:30 | CAD | Low | Imports (Nov) |  |  | 63.01B |
-| 21:30 | CAD | Moderate | Trade Balance (Nov) |  | 2.00B | 2.97B |
+| 20:00 | MXN | Low | Core CPI (MoM) (Dec) | 0.44% | 0.50% | 0.26% |
+| 20:00 | MXN | Moderate | CPI (MoM) (Dec) | 0.71% | 0.61% | 0.64% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Dec) | 4.66% | 4.55% | 4.32% |
+| 20:00 | MXN | Low | Month Core Inflation (MoM) (Dec) | 5.09% | 5.15% | 5.30% |
+| 20:00 | MXN | Low | PPI (MoM) (Dec) | -0.30% |  | -0.30% |
+| 20:00 | MXN | Low | PPI (YoY) (Dec) | 1.00% |  | 1.30% |
+| 59 min | USD | Moderate | Exports |  |  | 258.80B |
+| 59 min | USD | Moderate | Imports |  |  | 323.00B |
+| 59 min | USD | Moderate | Trade Balance (Nov) |  | -65.00B | -64.30B |
+| 59 min | CAD | Moderate | Building Permits (MoM) (Nov) |  | -1.7% | 2.3% |
+| 59 min | CAD | Low | Exports (Nov) |  |  | 65.98B |
+| 59 min | CAD | Low | Imports (Nov) |  |  | 63.01B |
+| 59 min | CAD | Moderate | Trade Balance (Nov) |  | 2.00B | 2.97B |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 5.6% |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |
