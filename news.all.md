@@ -6,7 +6,7 @@
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 02:00 | USD | Moderate | 3-Year Note Auction | 4.105% |  | 4.490% |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.200M | -7.418M |
+| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.200M | -7.418M |
 | 07:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.8% |
 | 07:30 | JPY | Low | Overall wage income of employees (Nov) |  | 1.5% | 1.5% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | -0.10% |

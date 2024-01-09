@@ -5,7 +5,7 @@
 | 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.5% | 2.5% |
 | 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 02:00 | USD | 3-Year Note Auction | 4.105% |  | 4.490% |
-| 05:30 | USD | API Weekly Crude Oil Stock |  | -1.200M | -7.418M |
+| 16 min | USD | API Weekly Crude Oil Stock |  | -1.200M | -7.418M |
 | 11:35 | JPY | 10-Year JGB Auction |  |  | 0.697% |
 | 16:00 | CNY | New Loans |  | 1,400.0B | 1,090.0B |
 | 16:20 | EUR | ECB's De Guindos Speaks |  |  |  |
