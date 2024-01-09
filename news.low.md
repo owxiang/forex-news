@@ -10,7 +10,7 @@
 | 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) | 0.1% |  | 0.0% |
 | 08:30 | AUD | Building Approvals (YoY) (Nov) | -4.60% |  | -5.50% |
 | 08:30 | AUD | Private House Approvals (Nov) | -1.7% | 2.2% | 2.9% |
-| 12:00 | IDR | Consumer Confidence |  |  | 123.6 |
+| 43 min | IDR | Consumer Confidence |  |  | 123.6 |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
 | 14:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
 | 15:00 | EUR | German Industrial Production (YoY) (Nov) |  |  | -3.38% |

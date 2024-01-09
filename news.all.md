@@ -19,7 +19,7 @@
 | 08:30 | AUD | Moderate | Building Approvals (MoM) (Nov) | 1.6% | -2.0% | 7.2% |
 | 08:30 | AUD | Low | Private House Approvals (Nov) | -1.7% | 2.2% | 2.9% |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) (Nov) | 2.0% | 1.2% | -0.4% |
-| 12:00 | IDR | Low | Consumer Confidence |  |  | 123.6 |
+| 43 min | IDR | Low | Consumer Confidence |  |  | 123.6 |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Nov) |  | 0.2% | -0.4% |
