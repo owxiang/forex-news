@@ -32,4 +32,6 @@
 | 20:00 | ZAR | Total Vehicle Sales (YoY) (Nov) | -3.30% |  | -2.00% |
 | 21:30 | CAD | Exports (Nov) | 65.74B |  | 66.17B |
 | 21:30 | CAD | Imports (Nov) | 64.17B |  | 62.97B |
-| 45 min | USD | IBD/TIPP Economic Optimism |  | 42.0 | 40.0 |
+| 21:55 | USD | Redbook (YoY) | 5.9% |  | 5.6% |
+| 21:55 | USD | Redbook (YoY) | 5.9% |  | 5.6% |
+| 23:00 | USD | IBD/TIPP Economic Optimism | 44.7 | 42.0 | 40.0 |
