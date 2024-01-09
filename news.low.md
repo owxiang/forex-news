@@ -22,12 +22,13 @@
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Nov) | 7.5% | 7.9% | 7.7% |
 | 17:40 | EUR | Spanish 12-Month Letras Auction | 3.293% |  | 3.305% |
 | 17:40 | EUR | Spanish 6-Month Letras Auction | 3.580% |  | 3.617% |
-| 42 min | USD | NFIB Small Business Optimism (Dec) |  | 90.7 | 90.6 |
-| 20:00 | MXN | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
-| 20:00 | MXN | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
-| 20:00 | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
-| 20:00 | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -9.80% |
+| 18:00 | GBP | 20-Year Treasury Gilt Auction | 4.391% |  | 1.392% |
+| 19:00 | USD | NFIB Small Business Optimism (Dec) | 91.9 | 90.7 | 90.6 |
+| 47 min | MXN | Core CPI (MoM) (Dec) |  | 0.50% | 0.26% |
+| 47 min | MXN | Month Core Inflation (MoM) (Dec) |  | 5.15% | 5.30% |
+| 47 min | MXN | PPI (YoY) (Dec) |  |  | 1.20% |
+| 47 min | MXN | PPI (MoM) (Dec) |  |  | -0.40% |
+| 47 min | ZAR | Total Vehicle Sales (YoY) |  |  | -9.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 45.08K |
 | 21:30 | CAD | Exports (Nov) |  |  | 65.98B |
 | 21:30 | CAD | Imports (Nov) |  |  | 63.01B |
