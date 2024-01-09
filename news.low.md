@@ -5,11 +5,11 @@
 | 00:30 | USD | 3-Month Bill Auction | 5.235% |  | 5.245% |
 | 00:30 | USD | 6-Month Bill Auction | 5.030% |  | 5.045% |
 | 07:00 | KRW | Current Account (Nov) | 4.06B |  | 6.80B |
-| 14 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) |  |  | 2.7% |
-| 14 min | JPY | Tokyo CPI (YoY) (Dec) |  |  | 2.6% |
-| 14 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) |  |  | 0.0% |
-| 08:30 | AUD | Building Approvals (YoY) (Nov) |  |  | 1.80% |
-| 08:30 | AUD | Private House Approvals (Nov) |  | 2.2% | 2.2% |
+| 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Dec) | 2.7% |  | 2.7% |
+| 07:30 | JPY | Tokyo CPI (YoY) (Dec) | 2.4% |  | 2.7% |
+| 07:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Dec) | 0.1% |  | 0.0% |
+| 08:30 | AUD | Building Approvals (YoY) (Nov) | -4.60% |  | -5.50% |
+| 08:30 | AUD | Private House Approvals (Nov) | -1.7% | 2.2% | 2.2% |
 | 12:00 | IDR | Consumer Confidence |  |  | 123.6 |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Dec) |  |  | 2.1% |
 | 14:45 | CHF | Unemployment Rate s.a. (Dec) |  | 2.2% | 2.1% |
