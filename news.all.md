@@ -6,8 +6,8 @@
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 02:00 | USD | Moderate | 3-Year Note Auction | 4.105% |  | 4.490% |
-| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.200M | -7.418M |
-| 07:00 | KRW | Low | Unemployment Rate (Dec) |  |  | 2.8% |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.215M | -1.200M | -7.418M |
+| 45 min | KRW | Low | Unemployment Rate (Dec) |  |  | 2.8% |
 | 07:30 | JPY | Low | Overall wage income of employees (Nov) |  | 1.5% | 1.5% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | -0.10% |
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -1.3% |
@@ -36,8 +36,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
