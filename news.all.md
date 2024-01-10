@@ -34,9 +34,9 @@
 | 20:00 | USD | Low | Mortgage Refinance Index | 425.4 |  | 358.2 |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) | 1.90% |  | -1.50% |
-| 29 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
-| 29 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
-| 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 21:00 | BRL | Low | Auto Production (MoM) (Dec) | -15.3% |  | 1.5% |
+| 21:00 | BRL | Low | Auto Sales (MoM) (Dec) | 16.9% |  | -2.4% |
+| 40 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
 | 23:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
 | 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |

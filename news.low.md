@@ -27,8 +27,8 @@
 | 20:00 | USD | Mortgage Refinance Index | 425.4 |  | 358.2 |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 1.90% |  | -1.50% |
-| 29 min | BRL | Auto Production (MoM) (Dec) |  |  | 1.5% |
-| 29 min | BRL | Auto Sales (MoM) (Dec) |  |  | -2.4% |
+| 21:00 | BRL | Auto Production (MoM) (Dec) | -15.3% |  | 1.5% |
+| 21:00 | BRL | Auto Sales (MoM) (Dec) | 16.9% |  | -2.4% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
 | 23:00 | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
 | 23:00 | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |
