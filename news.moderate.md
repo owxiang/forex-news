@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 46 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 02:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.2% | 2.2% |
 | 04:15 | USD | FOMC Member Williams Speaks |  |  |  |
 | 08:01 | GBP | RICS House Price Balance (Dec) |  |  | -43% |
 | 08:30 | AUD | Trade Balance (Nov) |  | 7.500B | 7.129B |

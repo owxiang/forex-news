@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | BRL | Foreign Exchange Flows |  |  | -13.057B |
 | 05:45 | NZD | Building Consents (MoM) (Nov) |  |  | 8.7% |
 | 07:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
 | 08:30 | AUD | Exports (MoM) (Nov) |  |  | 0.4% |
@@ -10,8 +9,8 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Jan) |  | 3.50% | 3.50% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
-| 13:00 | JPY | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 13:00 | JPY | Leading Index |  | 107.9 | 108.9 |
+| 13:00 | JPY | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |

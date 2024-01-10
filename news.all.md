@@ -3,9 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -13.057B |
-| 46 min | USD | High | 10-Year Note Auction |  |  | 4.296% |
-| 46 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 02:00 | USD | High | 10-Year Note Auction | 4.024% |  | 4.296% |
+| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.2% | 2.2% |
 | 04:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Nov) |  |  | 8.7% |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
@@ -16,8 +15,8 @@
 | 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Low | Interest Rate Decision (Jan) |  | 3.50% | 3.50% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
-| 13:00 | JPY | Low | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 13:00 | JPY | Low | Leading Index |  | 107.9 | 108.9 |
+| 13:00 | JPY | Low | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
