@@ -1,45 +1,43 @@
-## 10 January 2024 - Low Impact Forex News
+## 11 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 07:00 | KRW | Unemployment Rate (Dec) | 3.3% |  | 2.8% |
-| 07:30 | JPY | Overall wage income of employees (Nov) | 0.2% | 1.5% | 1.5% |
-| 07:30 | JPY | Overtime Pay (YoY) (Nov) | 0.90% |  | -0.10% |
-| 08:00 | NZD | ANZ Commodity Price Index (MoM) | 2.4% |  | -1.3% |
-| 08:30 | AUD | Monthly CPI Indicator (YoY) (Nov) | 4.30% | 4.40% | 4.90% |
-| 09:00 | IDR | Retail Sales (YoY) (Nov) | 2.1% |  | 2.4% |
-| 15:00 | NOK | Core CPI YTD (Dec) | 5.5% | 5.6% | 5.8% |
-| 15:00 | NOK | Core Inflation (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 15:00 | NOK | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
-| 15:00 | NOK | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
-| 15:00 | NOK | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
-| 15:45 | EUR | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
-| 17:00 | EUR | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
-| 18:00 | GBP | 3-Year Treasury Gilt Auction | 3.887% |  | 4.151% |
-| 18:10 | EUR | Italian 12-Month BOT Auction | 3.442% |  | 3.528% |
-| 19:30 | INR | M3 Money Supply | 10.9% |  | 11.6% |
-| 20:00 | USD | MBA 30-Year Mortgage Rate | 6.81% |  | 6.76% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) | 9.9% |  | -10.7% |
-| 20:00 | USD | MBA Purchase Index | 148.6 |  | 140.7 |
-| 20:00 | USD | Mortgage Market Index | 190.6 |  | 173.5 |
-| 20:00 | USD | Mortgage Refinance Index | 425.4 |  | 358.2 |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Oct) | 1.90% |  | -1.50% |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
-| 21:00 | BRL | Auto Production (MoM) (Dec) | -15.3% |  | 1.5% |
-| 21:00 | BRL | Auto Sales (MoM) (Dec) | 16.9% |  | -2.4% |
-| 23:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 52.90 |  | 51.08 |
-| 23:00 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | -0.2% | -0.4% |
-| 23:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 0.0% |  | -1.5% |
-| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.46 |  | 46.57 |
-| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.74 |  | 59.95 |
-| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 56.12 |  | 56.50 |
-| 14 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
-| 14 min | USD | Crude Oil Imports |  |  | -0.758M |
-| 14 min | USD | Distillate Fuel Production |  |  | 0.115M |
-| 14 min | USD | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
-| 14 min | USD | Gasoline Production |  |  | -1.275M |
-| 14 min | USD | Heating Oil Stockpiles |  |  | -0.433M |
-| 14 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 14 min | USD | Gasoline Inventories |  | 2.489M | 10.900M |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -13.057B |
+| 05:45 | NZD | Building Consents (MoM) (Nov) |  |  | 8.7% |
+| 07:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
+| 08:30 | AUD | Exports (MoM) (Nov) |  |  | 0.4% |
+| 08:30 | AUD | Imports (MoM) (Nov) |  |  | -2.0% |
+| 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 09:00 | KRW | Interest Rate Decision (Jan) |  | 3.50% | 3.50% |
+| 13:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
+| 13:00 | JPY | Leading Index |  | 107.9 | 108.9 |
+| 13:00 | JPY | Leading Index (MoM) (Nov) |  |  | -0.4% |
+| 16:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
+| 17:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
+| 17:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
+| 17:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
+| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 48.7 |
+| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 44.26 |
+| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.26 |
+| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.60 |
+| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 44.25 |
+| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 41.91 |
+| 18:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
+| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.24% |
+| 18:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
+| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
+| 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
+| 20:00 | MXN | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
+| 20:00 | BRL | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
+| 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
+| 21:30 | USD | Core CPI Index (Dec) |  | 313.00 | 312.25 |
+| 21:30 | USD | CPI Index, n.s.a. (Dec) |  | 306.61 | 307.05 |
+| 21:30 | USD | CPI Index, s.a (Dec) |  |  | 307.92 |
+| 21:30 | USD | CPI, n.s.a (MoM) (Dec) |  |  | -0.20% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
+| 21:30 | USD | Real Earnings (MoM) (Dec) |  |  | 0.5% |
+| 22:00 | EUR | German Current Account Balance n.s.a (Nov) |  |  | 21.4B |
+| 23:30 | USD | Natural Gas Storage |  |  | -14B |

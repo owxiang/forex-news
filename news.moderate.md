@@ -1,14 +1,13 @@
-## 10 January 2024 - Moderate Impact Forex News
+## 11 January 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.5% | 2.5% |
-| 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 02:00 | USD | 3-Year Note Auction | 4.105% |  | 4.490% |
-| 05:30 | USD | API Weekly Crude Oil Stock | -5.215M | -1.200M | -7.418M |
-| 11:35 | JPY | 10-Year JGB Auction | 0.596% |  | 0.697% |
-| 16:20 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 18:30 | EUR | German 10-Year Bund Auction | 2.190% |  | 2.450% |
-| 22:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 23:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 14 min | USD | Cushing Crude Oil Inventories |  |  | 0.706M |
+| 39 min | EUR | German Buba Balz Speaks |  |  |  |
+| 02:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 04:15 | USD | FOMC Member Williams Speaks |  |  |  |
+| 08:01 | GBP | RICS House Price Balance (Dec) |  |  | -43% |
+| 08:30 | AUD | Trade Balance (Nov) |  | 7.500B | 7.129B |
+| 17:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 20:00 | BRL | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,871K | 1,855K |
+| 21:30 | USD | Core CPI (YoY) (Dec) |  | 3.8% | 4.0% |
