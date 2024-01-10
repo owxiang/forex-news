@@ -12,8 +12,8 @@
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Nov) | 0.90% |  | -0.10% |
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.4% |  | -1.3% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 4.30% | 4.40% | 4.90% |
-| 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 2.4% |
-| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.697% |
+| 09:00 | IDR | Low | Retail Sales (YoY) (Nov) | 2.1% |  | 2.4% |
+| 18 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.697% |
 | 15:00 | NOK | Low | Core CPI YTD (Dec) |  | 5.6% | 5.8% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | NOK | Low | CPI (YoY) (Dec) |  | 4.8% | 4.8% |
@@ -36,8 +36,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
