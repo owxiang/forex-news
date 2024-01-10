@@ -14,12 +14,12 @@
 | 15:00 | NOK | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
 | 15:00 | NOK | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
-| 30 min | EUR | French Industrial Production (MoM) (Nov) |  | 0.0% | -0.3% |
-| 45 min | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 45 min | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 45 min | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 17:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
+| 15:45 | EUR | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
+| 39 min | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
+| 39 min | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
+| 39 min | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
+| 39 min | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
+| 39 min | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
 | 18:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.6% |

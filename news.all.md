@@ -19,14 +19,14 @@
 | 15:00 | NOK | Low | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
 | 15:00 | NOK | Low | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
-| 30 min | EUR | Low | French Industrial Production (MoM) (Nov) |  | 0.0% | -0.3% |
-| 45 min | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 45 min | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
-| 45 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 45 min | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
+| 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
+| 39 min | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
+| 39 min | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
+| 39 min | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
+| 39 min | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
+| 39 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
+| 39 min | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |
@@ -41,13 +41,13 @@
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 22:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
 | 23:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
 | 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.57 |
 | 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.95 |
 | 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 56.50 |
+| 23:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 23:30 | USD | High | Crude Oil Inventories |  | -0.675M | -5.503M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.758M |
