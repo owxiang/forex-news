@@ -9,11 +9,11 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Jan) |  | 3.50% | 3.50% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
-| 13:00 | JPY | Leading Index |  | 107.9 | 108.9 |
 | 13:00 | JPY | Leading Index (MoM) (Nov) |  |  | -0.4% |
+| 13:00 | JPY | Leading Index |  | 107.9 | 108.9 |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
-| 17:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
+| 17:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 17:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 48.7 |
@@ -26,8 +26,8 @@
 | 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.24% |
 | 18:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
 | 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
 | 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | MXN | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
 | 20:00 | BRL | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
