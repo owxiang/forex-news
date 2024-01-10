@@ -21,14 +21,14 @@
 | 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 39 min | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
-| 39 min | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
-| 39 min | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 39 min | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
-| 39 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 39 min | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
-| 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
+| 44 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
+| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
+| 44 min | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
+| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
+| 44 min | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
+| 54 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.6% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.76% |
