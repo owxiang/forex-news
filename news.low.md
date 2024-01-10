@@ -11,8 +11,8 @@
 | 09:00 | IDR | Retail Sales (YoY) (Nov) | 2.1% |  | 2.4% |
 | 15:00 | NOK | Core CPI YTD (Dec) | 5.5% | 5.6% | 5.8% |
 | 15:00 | NOK | Core Inflation (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 15:00 | NOK | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
+| 15:00 | NOK | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 17:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
@@ -29,17 +29,17 @@
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
 | 21:00 | BRL | Auto Production (MoM) (Dec) | -15.3% |  | 1.5% |
 | 21:00 | BRL | Auto Sales (MoM) (Dec) | 16.9% |  | -2.4% |
-| 44 min | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
-| 44 min | USD | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
-| 44 min | USD | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |
-| 44 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.57 |
-| 44 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.95 |
-| 44 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 56.50 |
-| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
-| 23:30 | USD | Crude Oil Imports |  |  | -0.758M |
-| 23:30 | USD | Distillate Fuel Production |  |  | 0.115M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
-| 23:30 | USD | Gasoline Production |  |  | -1.275M |
-| 23:30 | USD | Heating Oil Stockpiles |  |  | -0.433M |
-| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 23:30 | USD | Gasoline Inventories |  | 2.489M | 10.900M |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Jan) | 52.90 |  | 51.08 |
+| 23:00 | USD | Wholesale Inventories (MoM) (Nov) | -0.2% | -0.2% | -0.4% |
+| 23:00 | USD | Wholesale Trade Sales (MoM) (Nov) | 0.0% |  | -1.5% |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.46 |  | 46.57 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.74 |  | 59.95 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jan) | 56.12 |  | 56.50 |
+| 14 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
+| 14 min | USD | Crude Oil Imports |  |  | -0.758M |
+| 14 min | USD | Distillate Fuel Production |  |  | 0.115M |
+| 14 min | USD | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
+| 14 min | USD | Gasoline Production |  |  | -1.275M |
+| 14 min | USD | Heating Oil Stockpiles |  |  | -0.433M |
+| 14 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 14 min | USD | Gasoline Inventories |  | 2.489M | 10.900M |

@@ -16,8 +16,8 @@
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.596% |  | 0.697% |
 | 15:00 | NOK | Low | Core CPI YTD (Dec) | 5.5% | 5.6% | 5.8% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 15:00 | NOK | Low | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | Low | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
+| 15:00 | NOK | Low | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
@@ -37,20 +37,20 @@
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) | -15.3% |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) | 16.9% |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 44 min | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
-| 44 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
-| 44 min | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |
-| 44 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.57 |
-| 44 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.95 |
-| 44 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 56.50 |
-| 59 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 23:30 | USD | High | Crude Oil Inventories |  | -0.675M | -5.503M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | -0.758M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.706M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | 0.115M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
-| 23:30 | USD | Low | Gasoline Production |  |  | -1.275M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.433M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 23:30 | USD | Low | Gasoline Inventories |  | 2.489M | 10.900M |
+| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) | 52.90 |  | 51.08 |
+| 23:00 | USD | Low | Wholesale Inventories (MoM) (Nov) | -0.2% | -0.2% | -0.4% |
+| 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) | 0.0% |  | -1.5% |
+| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 49.46 |  | 46.57 |
+| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 55.74 |  | 59.95 |
+| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) | 56.12 |  | 56.50 |
+| 23:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 14 min | USD | High | Crude Oil Inventories |  | -0.675M | -5.503M |
+| 14 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
+| 14 min | USD | Low | Crude Oil Imports |  |  | -0.758M |
+| 14 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.706M |
+| 14 min | USD | Low | Distillate Fuel Production |  |  | 0.115M |
+| 14 min | USD | Low | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
+| 14 min | USD | Low | Gasoline Production |  |  | -1.275M |
+| 14 min | USD | Low | Heating Oil Stockpiles |  |  | -0.433M |
+| 14 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
+| 14 min | USD | Low | Gasoline Inventories |  | 2.489M | 10.900M |

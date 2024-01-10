@@ -10,5 +10,5 @@
 | 16:20 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 18:30 | EUR | German 10-Year Bund Auction | 2.190% |  | 2.450% |
 | 22:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 59 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.706M |
+| 23:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14 min | USD | Cushing Crude Oil Inventories |  |  | 0.706M |

@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:30 | USD | Crude Oil Inventories |  | -0.675M | -5.503M |
+| 14 min | USD | Crude Oil Inventories |  | -0.675M | -5.503M |
