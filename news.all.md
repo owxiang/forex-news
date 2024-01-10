@@ -21,21 +21,21 @@
 | 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction | 3.887% |  | 4.151% |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction | 3.442% |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction | 2.190% |  | 2.450% |
-| 16 min | INR | Low | M3 Money Supply |  |  | 11.6% |
-| 46 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.76% |
-| 46 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.7% |
-| 46 min | USD | Low | MBA Purchase Index |  |  | 140.7 |
-| 46 min | USD | Low | Mortgage Market Index |  |  | 173.5 |
-| 46 min | USD | Low | Mortgage Refinance Index |  |  | 358.2 |
-| 46 min | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
-| 46 min | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
-| 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
-| 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
+| 19:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.6% |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.81% |  | 6.76% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 9.9% |  | -10.7% |
+| 20:00 | USD | Low | MBA Purchase Index | 148.6 |  | 140.7 |
+| 20:00 | USD | Low | Mortgage Market Index | 190.6 |  | 173.5 |
+| 20:00 | USD | Low | Mortgage Refinance Index | 425.4 |  | 358.2 |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) | 1.90% |  | -1.50% |
+| 29 min | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
+| 29 min | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
 | 23:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
