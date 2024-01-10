@@ -16,13 +16,13 @@
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.596% |  | 0.697% |
 | 15:00 | NOK | Low | Core CPI YTD (Dec) | 5.5% | 5.6% | 5.8% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
-| 15:00 | NOK | Low | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
 | 15:00 | NOK | Low | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
+| 15:00 | NOK | Low | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
 | 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
 | 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction | 3.887% |  | 4.151% |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction | 3.442% |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction | 2.190% |  | 2.450% |
@@ -32,18 +32,18 @@
 | 20:00 | USD | Low | MBA Purchase Index | 148.6 |  | 140.7 |
 | 20:00 | USD | Low | Mortgage Market Index | 190.6 |  | 173.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 425.4 |  | 358.2 |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) | 1.90% |  | -1.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) | 25.50% | 22.80% | 21.90% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) | -15.3% |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) | 16.9% |  | -2.4% |
-| 40 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
-| 23:00 | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
-| 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |
-| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.57 |
-| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.95 |
-| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 56.50 |
-| 23:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 44 min | USD | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
+| 44 min | USD | Low | Wholesale Inventories (MoM) (Nov) |  | -0.2% | -0.4% |
+| 44 min | USD | Low | Wholesale Trade Sales (MoM) (Nov) |  |  | -1.3% |
+| 44 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.57 |
+| 44 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.95 |
+| 44 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 56.50 |
+| 59 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 23:30 | USD | High | Crude Oil Inventories |  | -0.675M | -5.503M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.758M |
