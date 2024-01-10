@@ -26,10 +26,10 @@
 | 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.24% |
 | 18:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
 | 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
-| 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
 | 20:00 | MXN | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
+| 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | BRL | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
 | 21:30 | USD | Core CPI Index (Dec) |  | 313.00 | 312.25 |
