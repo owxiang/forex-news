@@ -41,8 +41,8 @@
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.758M |
 | 23:30 | USD | Distillate Fuel Production |  |  | 0.115M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | 4.000M | 10.090M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
 | 23:30 | USD | Gasoline Production |  |  | -1.275M |
 | 23:30 | USD | Heating Oil Stockpiles |  |  | -0.433M |
 | 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 23:30 | USD | Gasoline Inventories |  | 4.000M | 10.900M |
+| 23:30 | USD | Gasoline Inventories |  | 2.489M | 10.900M |

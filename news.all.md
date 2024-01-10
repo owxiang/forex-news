@@ -13,7 +13,7 @@
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.4% |  | -1.3% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 4.30% | 4.40% | 4.90% |
 | 09:00 | IDR | Low | Retail Sales (YoY) (Nov) | 2.1% |  | 2.4% |
-| 18 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.697% |
+| 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.596% |  | 0.697% |
 | 15:00 | NOK | Low | Core CPI YTD (Dec) |  | 5.6% | 5.8% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | NOK | Low | CPI (YoY) (Dec) |  | 4.8% | 4.8% |
@@ -48,13 +48,13 @@
 | 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 46.57 |
 | 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 59.95 |
 | 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jan) |  |  | 56.50 |
-| 23:30 | USD | High | Crude Oil Inventories |  | -1.200M | -5.503M |
+| 23:30 | USD | High | Crude Oil Inventories |  | -0.675M | -5.503M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.121M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.758M |
 | 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.706M |
 | 23:30 | USD | Low | Distillate Fuel Production |  |  | 0.115M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | 4.000M | 10.090M |
+| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | 2.382M | 10.090M |
 | 23:30 | USD | Low | Gasoline Production |  |  | -1.275M |
 | 23:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.433M |
 | 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.2% |
-| 23:30 | USD | Low | Gasoline Inventories |  | 4.000M | 10.900M |
+| 23:30 | USD | Low | Gasoline Inventories |  | 2.489M | 10.900M |
