@@ -7,8 +7,8 @@
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.2% | 2.2% |
 | 04:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Nov) | -10.6% |  | 8.5% |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
-| 08:01 | GBP | Moderate | RICS House Price Balance (Dec) |  |  | -43% |
+| 34 min | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
+| 45 min | GBP | Moderate | RICS House Price Balance (Dec) |  |  | -43% |
 | 08:30 | AUD | Low | Exports (MoM) (Nov) |  |  | 0.4% |
 | 08:30 | AUD | Low | Imports (MoM) (Nov) |  |  | -2.0% |
 | 08:30 | AUD | Moderate | Trade Balance (Nov) |  | 7.500B | 7.129B |
@@ -18,8 +18,8 @@
 | 13:00 | JPY | Low | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 13:00 | JPY | Low | Leading Index |  | 107.9 | 108.9 |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
+| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 17:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
@@ -35,8 +35,8 @@
 | 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.63% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
-| 20:00 | MXN | Low | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
+| 20:00 | MXN | Low | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
 | 20:00 | BRL | Low | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |

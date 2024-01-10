@@ -5,7 +5,7 @@
 | 01:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 02:00 | USD | Atlanta Fed GDPNow (Q4) | 2.2% | 2.2% | 2.2% |
 | 04:15 | USD | FOMC Member Williams Speaks |  |  |  |
-| 08:01 | GBP | RICS House Price Balance (Dec) |  |  | -43% |
+| 45 min | GBP | RICS House Price Balance (Dec) |  |  | -43% |
 | 08:30 | AUD | Trade Balance (Nov) |  | 7.500B | 7.129B |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 20:00 | BRL | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
