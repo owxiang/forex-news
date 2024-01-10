@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | Building Consents (MoM) (Nov) |  |  | 8.7% |
+| 32 min | NZD | Building Consents (MoM) (Nov) |  |  | 8.7% |
 | 07:50 | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
 | 08:30 | AUD | Exports (MoM) (Nov) |  |  | 0.4% |
 | 08:30 | AUD | Imports (MoM) (Nov) |  |  | -2.0% |

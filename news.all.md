@@ -6,7 +6,7 @@
 | 02:00 | USD | High | 10-Year Note Auction | 4.024% |  | 4.296% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.2% | 2.2% |
 | 04:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 05:45 | NZD | Low | Building Consents (MoM) (Nov) |  |  | 8.7% |
+| 32 min | NZD | Low | Building Consents (MoM) (Nov) |  |  | 8.7% |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
 | 08:01 | GBP | Moderate | RICS House Price Balance (Dec) |  |  | -43% |
 | 08:30 | AUD | Low | Exports (MoM) (Nov) |  |  | 0.4% |
