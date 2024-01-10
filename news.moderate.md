@@ -7,7 +7,7 @@
 | 02:00 | USD | 3-Year Note Auction | 4.105% |  | 4.490% |
 | 05:30 | USD | API Weekly Crude Oil Stock | -5.215M | -1.200M | -7.418M |
 | 11:35 | JPY | 10-Year JGB Auction | 0.596% |  | 0.697% |
-| 16:00 | CNY | New Loans |  | 1,400.0B | 1,090.0B |
+| 45 min | CNY | New Loans |  | 1,400.0B | 1,090.0B |
 | 16:20 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.450% |
 | 22:00 | EUR | ECB's Schnabel Speaks |  |  |  |

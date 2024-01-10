@@ -14,19 +14,19 @@
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 4.30% | 4.40% | 4.90% |
 | 09:00 | IDR | Low | Retail Sales (YoY) (Nov) | 2.1% |  | 2.4% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.596% |  | 0.697% |
-| 39 min | NOK | Low | Core CPI YTD (Dec) |  | 5.6% | 5.8% |
-| 39 min | NOK | Low | Core Inflation (MoM) (Dec) |  | 0.2% | -0.2% |
-| 39 min | NOK | Low | CPI (YoY) (Dec) |  | 4.8% | 4.8% |
-| 39 min | NOK | Low | CPI (MoM) (Dec) |  | 0.2% | 0.5% |
-| 39 min | NOK | Low | PPI (YoY) (Dec) |  |  | -15.6% |
-| 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) |  | 0.0% | -0.3% |
-| 16:00 | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 16:00 | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
-| 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
+| 15:00 | NOK | Low | Core CPI YTD (Dec) | 5.5% | 5.6% | 5.8% |
+| 15:00 | NOK | Low | Core Inflation (MoM) (Dec) | 0.2% | 0.2% | -0.2% |
+| 15:00 | NOK | Low | CPI (YoY) (Dec) | 4.8% | 4.8% | 4.8% |
+| 15:00 | NOK | Low | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
+| 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
+| 30 min | EUR | Low | French Industrial Production (MoM) (Nov) |  | 0.0% | -0.3% |
+| 45 min | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
+| 45 min | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
+| 45 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
+| 45 min | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |
@@ -36,8 +36,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
