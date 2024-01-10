@@ -8,10 +8,10 @@
 | 02:00 | USD | Moderate | 3-Year Note Auction | 4.105% |  | 4.490% |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.215M | -1.200M | -7.418M |
 | 07:00 | KRW | Low | Unemployment Rate (Dec) | 3.3% |  | 2.8% |
-| 15 min | JPY | Low | Overall wage income of employees (Nov) |  | 1.5% | 1.5% |
-| 15 min | JPY | Low | Overtime Pay (YoY) (Nov) |  |  | -0.10% |
-| 45 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -1.3% |
-| 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) |  | 4.40% | 4.90% |
+| 07:30 | JPY | Low | Overall wage income of employees (Nov) | 0.2% | 1.5% | 1.5% |
+| 07:30 | JPY | Low | Overtime Pay (YoY) (Nov) | 0.90% |  | -0.10% |
+| 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.4% |  | -1.3% |
+| 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Nov) | 4.30% | 4.40% | 4.90% |
 | 11:00 | IDR | Low | Retail Sales (YoY) |  |  | 2.4% |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.697% |
 | 15:00 | NOK | Low | Core CPI YTD (Dec) |  | 5.6% | 5.8% |
@@ -25,8 +25,8 @@
 | 16:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
 | 16:00 | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |

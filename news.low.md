@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 07:00 | KRW | Unemployment Rate (Dec) | 3.3% |  | 2.8% |
-| 15 min | JPY | Overall wage income of employees (Nov) |  | 1.5% | 1.5% |
-| 15 min | JPY | Overtime Pay (YoY) (Nov) |  |  | -0.10% |
-| 45 min | NZD | ANZ Commodity Price Index (MoM) |  |  | -1.3% |
-| 08:30 | AUD | Monthly CPI Indicator (YoY) (Nov) |  | 4.40% | 4.90% |
+| 07:30 | JPY | Overall wage income of employees (Nov) | 0.2% | 1.5% | 1.5% |
+| 07:30 | JPY | Overtime Pay (YoY) (Nov) | 0.90% |  | -0.10% |
+| 08:00 | NZD | ANZ Commodity Price Index (MoM) | 2.4% |  | -1.3% |
+| 08:30 | AUD | Monthly CPI Indicator (YoY) (Nov) | 4.30% | 4.40% | 4.90% |
 | 11:00 | IDR | Retail Sales (YoY) |  |  | 2.4% |
 | 15:00 | NOK | Core CPI YTD (Dec) |  | 5.6% | 5.8% |
 | 15:00 | NOK | Core Inflation (MoM) (Dec) |  | 0.2% | -0.2% |
@@ -18,8 +18,8 @@
 | 16:00 | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
 | 16:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
 | 16:00 | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Nov) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Nov) |  |  | 0.3% |
 | 18:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.151% |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.528% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.6% |
