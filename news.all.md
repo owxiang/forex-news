@@ -21,23 +21,19 @@
 | 15:00 | NOK | Low | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
 | 16:20 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
-| 44 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.151% |
-| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 44 min | CNY | Moderate | New Loans |  | 1,400.0B | 1,090.0B |
-| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 44 min | CNY | Low | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 54 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.528% |
-| 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
+| 18:00 | GBP | Low | 3-Year Treasury Gilt Auction | 3.887% |  | 4.151% |
+| 18:10 | EUR | Low | Italian 12-Month BOT Auction | 3.442% |  | 3.528% |
+| 13 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.450% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.6% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.76% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -10.7% |
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 22:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |

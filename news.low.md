@@ -15,21 +15,18 @@
 | 15:00 | NOK | CPI (MoM) (Dec) | 0.1% | 0.2% | 0.5% |
 | 15:00 | NOK | PPI (YoY) (Dec) | -25.6% |  | -15.6% |
 | 15:45 | EUR | French Industrial Production (MoM) (Nov) | 0.5% | 0.0% | -0.3% |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Nov) | 0.4% | 0.2% | 0.4% |
-| 44 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.151% |
-| 44 min | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 44 min | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 44 min | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 54 min | EUR | Italian 12-Month BOT Auction |  |  | 3.528% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Nov) | 1.5% |  | 0.5% |
+| 18:00 | GBP | 3-Year Treasury Gilt Auction | 3.887% |  | 4.151% |
+| 18:10 | EUR | Italian 12-Month BOT Auction | 3.442% |  | 3.528% |
 | 19:30 | INR | M3 Money Supply |  |  | 11.6% |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.76% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.7% |
 | 20:00 | USD | MBA Purchase Index |  |  | 140.7 |
 | 20:00 | USD | Mortgage Market Index |  |  | 173.5 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 358.2 |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Oct) |  |  | -1.50% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Oct) |  | 22.80% | 21.90% |
 | 21:00 | BRL | Auto Production (MoM) (Dec) |  |  | 1.5% |
 | 21:00 | BRL | Auto Sales (MoM) (Dec) |  |  | -2.4% |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Jan) |  |  | 51.08 |
