@@ -8,7 +8,7 @@
 | 05:30 | USD | API Weekly Crude Oil Stock | -5.215M | -1.200M | -7.418M |
 | 11:35 | JPY | 10-Year JGB Auction | 0.596% |  | 0.697% |
 | 16:20 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13 min | EUR | German 10-Year Bund Auction |  |  | 2.450% |
+| 18:30 | EUR | German 10-Year Bund Auction | 2.190% |  | 2.450% |
 | 22:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 23:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | 0.706M |
