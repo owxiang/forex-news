@@ -15,11 +15,11 @@
 | 09:00 | KRW | Low | Interest Rate Decision (Jan) | 3.50% | 3.50% | 3.50% |
 | 11:00 | IDR | Low | Car Sales (YoY) | -19.10% |  | -7.50% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Nov) | -1.4% |  | 0.2% |
-| 13:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.2% |  | -0.4% |
 | 13:00 | JPY | Low | Leading Index | 107.7 | 107.9 | 108.9 |
-| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
+| 13:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.2% |  | -0.4% |
+| 45 min | EUR | Low | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
+| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
 | 17:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 17:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
@@ -35,17 +35,17 @@
 | 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.63% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Nov) |  |  | 0.6% |
-| 20:00 | BRL | Low | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
+| 20:00 | BRL | Low | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,871K | 1,855K |
 | 21:30 | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Dec) |  | 3.8% | 4.0% |
 | 21:30 | USD | Low | Core CPI Index (Dec) |  | 313.00 | 312.25 |
-| 21:30 | USD | High | CPI (MoM) (Dec) |  | 0.2% | 0.1% |
 | 21:30 | USD | High | CPI (YoY) (Dec) |  | 3.2% | 3.1% |
+| 21:30 | USD | High | CPI (MoM) (Dec) |  | 0.2% | 0.1% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Dec) |  | 306.61 | 307.05 |
 | 21:30 | USD | Low | CPI Index, s.a (Dec) |  |  | 307.92 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.20% |
