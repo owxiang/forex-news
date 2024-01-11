@@ -5,9 +5,9 @@
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Dec) | 0.4% |  | 0.4% |
 | 00:30 | USD | Low | 4-Week Bill Auction | 5.280% |  | 5.290% |
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.285% |
-| 26 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 46 min | USD | High | 30-Year Bond Auction |  |  | 4.344% |
-| 03:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -65.3B | -314.0B |
+| 01:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 02:00 | USD | High | 30-Year Bond Auction | 4.229% |  | 4.344% |
+| 40 min | USD | Moderate | Federal Budget Balance (Dec) |  | -65.3B | -314.0B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,681B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.18T | 2.62T |
@@ -17,8 +17,8 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -120.0B |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  | 0.0% | 5.6% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 5.0% |
-| 09:30 | CNY | Moderate | CPI (YoY) (Dec) |  | -0.4% | -0.5% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 09:30 | CNY | Moderate | CPI (YoY) (Dec) |  | -0.4% | -0.5% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Dec) |  | -2.6% | -3.0% |
 | 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 39.05 |
 | 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 64.31 |
@@ -40,13 +40,13 @@
 | 15:00 | GBP | Low | Index of Services |  | 0.1% | 0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Nov) |  | 0.3% | -0.8% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Nov) |  | 0.7% | 0.4% |
-| 15:00 | GBP | Low | Manufacturing Production (YoY) (Nov) |  | 1.7% | 0.8% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) |  | 0.3% | -1.1% |
+| 15:00 | GBP | Low | Manufacturing Production (YoY) (Nov) |  | 1.7% | 0.8% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) |  | -0.1% | 0.0% |
 | 15:00 | GBP | Moderate | Trade Balance (Nov) |  | -15.70B | -17.03B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Nov) |  |  | -4.83B |
-| 15:45 | EUR | Low | CPI NSA (YoY) (Dec) |  |  | 3.70% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Dec) |  |  | 0.10% |
+| 15:45 | EUR | Low | CPI NSA (YoY) (Dec) |  |  | 3.70% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | -0.1% | -0.9% |
 | 15:45 | EUR | Low | French CPI (YoY) |  | 3.7% | 3.5% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
@@ -74,8 +74,8 @@
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | -0.1% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
 | 21:30 | USD | Low | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
-| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
-| 21:30 | USD | High | PPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
 | 21:30 | USD | Low | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
+| 21:30 | USD | High | PPI (MoM) (Dec) |  | 0.1% | 0.0% |
 | 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
