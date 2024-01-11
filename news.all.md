@@ -3,11 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Dec) | 0.4% |  | 0.4% |
-| 8 min | USD | Low | 4-Week Bill Auction |  |  | 5.290% |
-| 8 min | USD | Low | 8-Week Bill Auction |  |  | 5.285% |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -13.057B |
-| 01:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 02:00 | USD | High | 30-Year Bond Auction |  |  | 4.344% |
+| 00:30 | USD | Low | 4-Week Bill Auction | 5.280% |  | 5.290% |
+| 00:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.285% |
+| 26 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 46 min | USD | High | 30-Year Bond Auction |  |  | 4.344% |
 | 03:00 | USD | Moderate | Federal Budget Balance (Dec) |  | -65.3B | -314.0B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,681B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
@@ -18,8 +17,8 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -120.0B |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  | 0.0% | 5.6% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 5.0% |
-| 09:30 | CNY | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 09:30 | CNY | Moderate | CPI (YoY) (Dec) |  | -0.4% | -0.5% |
+| 09:30 | CNY | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Dec) |  | -2.6% | -3.0% |
 | 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 39.05 |
 | 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 64.31 |
@@ -49,8 +48,8 @@
 | 15:45 | EUR | Low | CPI NSA (YoY) (Dec) |  |  | 3.70% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | -0.1% | -0.9% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
 | 15:45 | EUR | Low | French CPI (YoY) |  | 3.7% | 3.5% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) (Dec) |  | 4.1% | 3.9% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 3.30% |
