@@ -48,8 +48,8 @@
 | 15:45 | EUR | Low | CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Dec) |  |  | 3.70% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) |  | -0.1% | -0.9% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
 | 15:45 | EUR | Low | French CPI (YoY) |  | 3.7% | 3.5% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) (Dec) |  | 4.1% | 3.9% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 3.30% |
