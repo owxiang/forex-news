@@ -10,11 +10,11 @@
 | 03:00 | USD | Moderate | Federal Budget Balance (Dec) | -129.0B | -65.3B | -314.0B |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,687B |  | 7,681B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.537T |  | 3.459T |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.18T | 2.62T |
-| 07:50 | JPY | Low | Bank Lending (YoY) (Dec) |  | 2.7% | 2.8% |
-| 07:50 | JPY | Moderate | Current Account n.s.a. (Nov) |  | 2.385T | 2.583T |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -167.4B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -120.0B |
+| 34 min | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.18T | 2.62T |
+| 34 min | JPY | Low | Bank Lending (YoY) (Dec) |  | 2.7% | 2.8% |
+| 34 min | JPY | Moderate | Current Account n.s.a. (Nov) |  | 2.385T | 2.583T |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -167.4B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -120.0B |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  | 0.0% | 5.6% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 5.0% |
 | 09:30 | CNY | Moderate | CPI (YoY) (Dec) |  | -0.4% | -0.5% |

@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | Federal Budget Balance (Dec) | -129.0B | -65.3B | -314.0B |
 | 05:30 | USD | Fed's Balance Sheet | 7,687B |  | 7,681B |
-| 07:50 | JPY | Adjusted Current Account (Nov) |  | 2.18T | 2.62T |
-| 07:50 | JPY | Current Account n.s.a. (Nov) |  | 2.385T | 2.583T |
+| 34 min | JPY | Adjusted Current Account (Nov) |  | 2.18T | 2.62T |
+| 34 min | JPY | Current Account n.s.a. (Nov) |  | 2.385T | 2.583T |
 | 08:30 | AUD | Home Loans (MoM) |  | 0.0% | 5.6% |
 | 09:30 | CNY | CPI (YoY) (Dec) |  | -0.4% | -0.5% |
 | 09:30 | CNY | CPI (MoM) (Dec) |  | 0.2% | -0.5% |
