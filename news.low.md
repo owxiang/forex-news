@@ -6,7 +6,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.290% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.285% |
 | 01:40 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
 | 07:50 | JPY | Bank Lending (YoY) (Dec) |  | 2.7% | 2.8% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -167.4B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -120.0B |
@@ -27,8 +27,8 @@
 | 15:00 | GBP | Index of Services |  | 0.1% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) |  | 0.7% | 0.4% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Nov) |  | 1.7% | 0.8% |
-| 15:45 | EUR | CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 15:45 | EUR | CPI NSA (YoY) (Dec) |  |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.7% | 3.5% |
 | 15:45 | EUR | French HICP (YoY) (Dec) |  | 4.1% | 3.9% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 3.30% |
@@ -46,6 +46,6 @@
 | 20:00 | INR | Industrial Production (YoY) (Nov) |  | 4.0% | 11.7% |
 | 20:00 | INR | Manufacturing Output (MoM) (Nov) |  |  | 10.4% |
 | 21:30 | USD | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
 | 21:30 | USD | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
