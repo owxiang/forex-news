@@ -9,9 +9,9 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Jan) | 3.50% | 3.50% | 3.50% |
 | 11:00 | IDR | Car Sales (YoY) | -19.10% |  | -7.50% |
-| 40 min | JPY | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
-| 40 min | JPY | Leading Index (MoM) (Nov) |  |  | -0.4% |
-| 40 min | JPY | Leading Index |  | 107.9 | 108.9 |
+| 13:00 | JPY | Coincident Indicator (MoM) (Nov) | -1.4% |  | 0.2% |
+| 13:00 | JPY | Leading Index (MoM) (Nov) | -1.2% |  | -0.4% |
+| 13:00 | JPY | Leading Index | 107.7 | 107.9 | 108.9 |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
