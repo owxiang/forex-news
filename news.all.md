@@ -18,8 +18,8 @@
 | 13:00 | JPY | Low | Leading Index (MoM) (Nov) | -1.2% |  | -0.4% |
 | 13:00 | JPY | Low | Leading Index | 107.7 | 107.9 | 108.9 |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Nov) | 0.8% |  | -1.4% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) | -1.5% | -0.2% | -0.2% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Nov) | -3.1% |  | -1.1% |
+| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Nov) | -1.5% | -0.2% | -0.2% |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jan) | 54.7 |  | 48.7 |
 | 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jan) | 45.31 |  | 44.26 |
@@ -28,19 +28,19 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 46.05 |  | 44.25 |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 45.95 |  | 41.91 |
 | 18:10 | EUR | Low | Italian 3-Year BTP Auction | 3.03% |  | 3.24% |
-| 42 min | ZAR | Low | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
-| 42 min | ZAR | Low | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
-| 20:00 | MXN | Low | Industrial Production (MoM) (Nov) |  |  | 0.6% |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
-| 20:00 | BRL | Low | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
-| 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Nov) | 0.8% | 1.0% | -0.1% |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) | 1.9% | 1.9% | 2.3% |
+| 46 min | MXN | Low | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
+| 46 min | MXN | Low | Industrial Production (MoM) (Nov) |  |  | 0.6% |
+| 46 min | BRL | Low | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
+| 46 min | BRL | Moderate | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
+| 46 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,871K | 1,855K |
 | 21:30 | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Dec) |  | 3.8% | 4.0% |
 | 21:30 | USD | Low | Core CPI Index (Dec) |  | 313.00 | 312.25 |
-| 21:30 | USD | High | CPI (YoY) (Dec) |  | 3.2% | 3.1% |
 | 21:30 | USD | High | CPI (MoM) (Dec) |  | 0.2% | 0.1% |
+| 21:30 | USD | High | CPI (YoY) (Dec) |  | 3.2% | 3.1% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Dec) |  | 306.61 | 307.05 |
 | 21:30 | USD | Low | CPI Index, s.a (Dec) |  |  | 307.92 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.20% |
