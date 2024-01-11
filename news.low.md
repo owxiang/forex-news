@@ -10,13 +10,13 @@
 | 09:00 | KRW | Interest Rate Decision (Jan) | 3.50% | 3.50% | 3.50% |
 | 11:00 | IDR | Car Sales (YoY) | -19.10% |  | -7.50% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Nov) | -1.4% |  | 0.2% |
-| 13:00 | JPY | Leading Index | 107.7 | 107.9 | 108.9 |
 | 13:00 | JPY | Leading Index (MoM) (Nov) | -1.2% |  | -0.4% |
-| 45 min | EUR | Spanish Industrial Production (YoY) (Nov) |  |  | -1.5% |
-| 17:00 | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
-| 17:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
-| 17:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
+| 13:00 | JPY | Leading Index | 107.7 | 107.9 | 108.9 |
+| 16:00 | EUR | Spanish Industrial Production (YoY) (Nov) | 0.8% |  | -1.4% |
+| 39 min | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
+| 39 min | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
+| 39 min | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
+| 39 min | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 48.7 |
 | 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 44.26 |
 | 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.26 |
@@ -29,8 +29,8 @@
 | 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
-| 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | MXN | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
+| 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | BRL | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
 | 21:30 | USD | Core CPI Index (Dec) |  | 313.00 | 312.25 |
