@@ -13,22 +13,20 @@
 | 13:00 | JPY | Leading Index (MoM) (Nov) | -1.2% |  | -0.4% |
 | 13:00 | JPY | Leading Index | 107.7 | 107.9 | 108.9 |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Nov) | 0.8% |  | -1.4% |
-| 39 min | EUR | Italian Industrial Production (MoM) (Nov) |  | -0.2% | -0.2% |
-| 39 min | EUR | Italian Industrial Production (YoY) (Nov) |  |  | -1.1% |
-| 39 min | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
-| 39 min | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
-| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 48.7 |
-| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 44.26 |
-| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.26 |
-| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.60 |
-| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 44.25 |
-| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 41.91 |
-| 18:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
-| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.24% |
-| 18:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Nov) | -1.5% | -0.2% | -0.2% |
+| 17:00 | EUR | Italian Industrial Production (YoY) (Nov) | -3.1% |  | -1.1% |
+| 44 min | GBP | Thomson Reuters IPSOS PCSI (Jan) |  |  | 48.7 |
+| 44 min | EUR | Italy Thomson Reuters IPSOS PCSI (Jan) |  |  | 44.26 |
+| 44 min | EUR | Germany Thomson Reuters IPSOS PCSI (Jan) |  |  | 47.26 |
+| 44 min | EUR | France Thomson Reuters IPSOS PCSI (Jan) |  |  | 40.60 |
+| 44 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 44.25 |
+| 44 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 41.91 |
+| 54 min | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
+| 54 min | EUR | Italian 3-Year BTP Auction |  |  | 3.24% |
+| 54 min | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
+| 54 min | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Nov) |  | 1.0% | -0.2% |
 | 20:00 | MXN | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
 | 20:00 | MXN | Industrial Production (MoM) (Nov) |  |  | 0.6% |
 | 20:00 | BRL | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
