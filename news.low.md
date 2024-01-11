@@ -6,7 +6,7 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.290% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.285% |
 | 01:40 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.537T |  | 3.459T |
 | 07:50 | JPY | Bank Lending (YoY) (Dec) |  | 2.7% | 2.8% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -167.4B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -120.0B |

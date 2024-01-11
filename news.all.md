@@ -8,8 +8,8 @@
 | 01:40 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 02:00 | USD | High | 30-Year Bond Auction | 4.229% |  | 4.344% |
 | 03:00 | USD | Moderate | Federal Budget Balance (Dec) | -129.0B | -65.3B | -314.0B |
-| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,681B |
-| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.459T |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,687B |  | 7,681B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.537T |  | 3.459T |
 | 07:50 | JPY | Moderate | Adjusted Current Account (Nov) |  | 2.18T | 2.62T |
 | 07:50 | JPY | Low | Bank Lending (YoY) (Dec) |  | 2.7% | 2.8% |
 | 07:50 | JPY | Moderate | Current Account n.s.a. (Nov) |  | 2.385T | 2.583T |
