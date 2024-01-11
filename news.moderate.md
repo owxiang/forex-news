@@ -8,5 +8,5 @@
 | 08:30 | AUD | Trade Balance (Nov) | 11.437B | 7.500B | 7.660B |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 20:00 | BRL | CPI (YoY) (Dec) | 4.62% | 4.54% | 4.68% |
-| 59 min | USD | Continuing Jobless Claims |  | 1,871K | 1,855K |
-| 59 min | USD | Core CPI (YoY) (Dec) |  | 3.8% | 4.0% |
+| 11 min | USD | Continuing Jobless Claims |  | 1,871K | 1,855K |
+| 11 min | USD | Core CPI (YoY) (Dec) |  | 3.8% | 4.0% |
