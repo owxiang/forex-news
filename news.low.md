@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Building Consents (MoM) (Nov) | -10.6% |  | 8.5% |
-| 34 min | JPY | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
-| 08:30 | AUD | Exports (MoM) (Nov) |  |  | 0.4% |
-| 08:30 | AUD | Imports (MoM) (Nov) |  |  | -2.0% |
+| 07:50 | JPY | Foreign Reserves (USD) (Dec) | 1,294.6B |  | 1,269.7B |
+| 08:30 | AUD | Exports (MoM) (Nov) | 1.7% |  | 0.4% |
+| 08:30 | AUD | Imports (MoM) (Nov) | -7.9% |  | -2.9% |
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Interest Rate Decision (Jan) |  | 3.50% | 3.50% |
+| 09:00 | KRW | Interest Rate Decision (Jan) | 3.50% | 3.50% | 3.50% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
 | 13:00 | JPY | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 13:00 | JPY | Leading Index |  | 107.9 | 108.9 |

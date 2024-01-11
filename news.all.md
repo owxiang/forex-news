@@ -7,13 +7,12 @@
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.2% | 2.2% | 2.2% |
 | 04:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:45 | NZD | Low | Building Consents (MoM) (Nov) | -10.6% |  | 8.5% |
-| 34 min | JPY | Low | Foreign Reserves (USD) (Dec) |  |  | 1,269.7B |
-| 45 min | GBP | Moderate | RICS House Price Balance (Dec) |  |  | -43% |
-| 08:30 | AUD | Low | Exports (MoM) (Nov) |  |  | 0.4% |
-| 08:30 | AUD | Low | Imports (MoM) (Nov) |  |  | -2.0% |
-| 08:30 | AUD | Moderate | Trade Balance (Nov) |  | 7.500B | 7.129B |
+| 07:50 | JPY | Low | Foreign Reserves (USD) (Dec) | 1,294.6B |  | 1,269.7B |
+| 08:30 | AUD | Low | Exports (MoM) (Nov) | 1.7% |  | 0.4% |
+| 08:30 | AUD | Low | Imports (MoM) (Nov) | -7.9% |  | -2.9% |
+| 08:30 | AUD | Moderate | Trade Balance (Nov) | 11.437B | 7.500B | 7.660B |
 | 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Low | Interest Rate Decision (Jan) |  | 3.50% | 3.50% |
+| 09:00 | KRW | Low | Interest Rate Decision (Jan) | 3.50% | 3.50% | 3.50% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Nov) |  |  | 0.2% |
 | 13:00 | JPY | Low | Leading Index (MoM) (Nov) |  |  | -0.4% |
 | 13:00 | JPY | Low | Leading Index |  | 107.9 | 108.9 |
@@ -37,15 +36,15 @@
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Nov) |  | 1.9% | 2.1% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Nov) |  | 4.8% | 5.5% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Nov) |  |  | 0.6% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
 | 20:00 | BRL | Low | CPI (MoM) (Dec) |  | 0.48% | 0.28% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Dec) |  | 4.54% | 4.68% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Dec) |  |  | 0.23% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,871K | 1,855K |
 | 21:30 | USD | High | Core CPI (MoM) (Dec) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Dec) |  | 3.8% | 4.0% |
 | 21:30 | USD | Low | Core CPI Index (Dec) |  | 313.00 | 312.25 |
-| 21:30 | USD | High | CPI (YoY) (Dec) |  | 3.2% | 3.1% |
 | 21:30 | USD | High | CPI (MoM) (Dec) |  | 0.2% | 0.1% |
+| 21:30 | USD | High | CPI (YoY) (Dec) |  | 3.2% | 3.1% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Dec) |  | 306.61 | 307.05 |
 | 21:30 | USD | Low | CPI Index, s.a (Dec) |  |  | 307.92 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.20% |
