@@ -37,10 +37,10 @@
 | 16:00 | EUR | Core CPI (YoY) (Dec) | 3.8% |  | 4.5% |
 | 16:00 | EUR | Spanish CPI (MoM) (Dec) | 0.0% | 0.0% | -0.3% |
 | 16:00 | EUR | Spanish HICP (MoM) (Dec) | 0.0% | 0.0% | -0.5% |
-| 43 min | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
-| 43 min | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
-| 43 min | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
-| 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 17:40 | CNY | M2 Money Stock (YoY) (Dec) | 9.7% | 10.1% | 10.0% |
+| 17:40 | CNY | Outstanding Loan Growth (YoY) (Dec) | 10.6% | 10.8% | 10.8% |
+| 17:40 | CNY | Chinese Total Social Financing (Dec) | 1,940.0B | 2,200.0B | 2,450.0B |
+| 42 min | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.2% |
 | 19:30 | INR | Deposit Growth |  |  | 14.0% |
 | 19:30 | INR | FX Reserves, USD |  |  | 623.20B |
