@@ -2,6 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 01:30 | BRL | Foreign Exchange Flows | -2.062B |  | -4.888B |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 6.3K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | 8.6K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -146.7K |

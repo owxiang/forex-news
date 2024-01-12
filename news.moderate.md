@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | WASDE Report |  |  |  |
-| 46 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 501 |
-| 46 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 621 |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count | 499 |  | 501 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count | 619 |  | 621 |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 15.2K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 163.7K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 207.6K |
