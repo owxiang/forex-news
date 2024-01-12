@@ -16,14 +16,14 @@
 | 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 50.16 |  | 47.39 |
 | 10:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) | 37.84 |  | 37.52 |
 | 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 70.38 |  | 71.41 |
-| 29 min | CNY | Exports (Dec) | 3.80M |  | 1.70M |
-| 29 min | CNY | Imports (Dec) | 1.60M |  | 0.60M |
-| 29 min | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
-| 11:35 | JPY | 30-Year JGB Auction |  |  | 1.623% |
-| 12:00 | IDR | Car Sales (YoY) (Dec) | -19.10% |  | -7.50% |
+| 11:00 | CNY | Exports (Dec) | 3.80M |  | 1.70M |
+| 11:00 | CNY | Imports (Dec) | 1.60M |  | 0.60M |
+| 11:00 | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
+| 18 min | JPY | 30-Year JGB Auction |  |  | 1.623% |
+| 43 min | IDR | Car Sales (YoY) (Dec) | -19.10% |  | -7.50% |
 | 13:00 | JPY | Economy Watchers Current Index (Dec) |  | 49.9 | 49.5 |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
 | 15:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
 | 15:00 | GBP | GDP (YoY) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | GBP | Index of Services |  | 0.1% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) |  | 0.7% | 0.4% |
