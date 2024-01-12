@@ -24,8 +24,8 @@
 | 16:00 | EUR | Spanish CPI (YoY) (Dec) | 3.1% | 3.1% | 3.2% |
 | 16:00 | EUR | Spanish HICP (YoY) (Dec) | 3.3% | 3.3% | 3.3% |
 | 17:40 | CNY | New Loans (Dec) | 1,170.0B | 1,400.0B | 1,090.0B |
-| 46 min | INR | CPI (YoY) (Dec) |  | 5.87% | 5.55% |
+| 20:00 | INR | CPI (YoY) (Dec) | 5.69% | 5.87% | 5.55% |
 | 20:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
-| 21:30 | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
+| 29 min | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
+| 59 min | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
 | 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
