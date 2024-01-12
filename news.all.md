@@ -35,43 +35,42 @@
 | 11:00 | CNY | Moderate | Trade Balance (USD) (Dec) | 75.34B | 74.75B | 68.39B |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.629% |  | 1.623% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Dec) | 50.7 | 49.9 | 49.5 |
-| 15:00 | GBP | Low | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) | 0.9% | 1.3% | 1.3% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
 | 15:00 | GBP | High | GDP (MoM) (Nov) | 0.3% | 0.2% | -0.3% |
 | 15:00 | GBP | Low | GDP (YoY) (Nov) | 0.2% | 0.2% | -0.1% |
 | 15:00 | GBP | Low | Index of Services | 0.0% | 0.1% | -0.1% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | 0.3% | 0.3% | -1.3% |
+| 15:00 | GBP | Low | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | 0.4% | 0.3% | -1.2% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Nov) | 1.3% | 1.7% | 0.2% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) | -0.2% | -0.1% | 0.0% |
 | 15:00 | GBP | Moderate | Trade Balance (Nov) | -14.19B | -15.70B | -15.94B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Nov) | -2.84B |  | -3.92B |
-| 15:45 | EUR | Low | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Dec) | 3.70% |  | 3.70% |
+| 15:45 | EUR | Low | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
 | 15:45 | EUR | Moderate | French Consumer Spending (MoM) (Nov) | 0.7% | -0.1% | -0.9% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
 | 15:45 | EUR | Low | French CPI (YoY) | 3.7% | 3.7% | 3.5% |
-| 15:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
 | 15:45 | EUR | Low | French HICP (YoY) (Dec) | 4.1% | 4.1% | 3.9% |
+| 15:45 | EUR | Moderate | French HICP (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Dec) | 3.60% |  | 3.30% |
 | 16:00 | EUR | Low | Core CPI (YoY) (Dec) | 3.8% |  | 4.5% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Dec) | 0.0% | 0.0% | -0.3% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Dec) | 3.1% | 3.1% | 3.2% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.3% | 3.3% | 3.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Dec) | 0.0% | 0.0% | -0.5% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Dec) | 3.3% | 3.3% | 3.3% |
 | 17:40 | CNY | Low | M2 Money Stock (YoY) (Dec) | 9.7% | 10.1% | 10.0% |
 | 17:40 | CNY | Moderate | New Loans (Dec) | 1,170.0B | 1,400.0B | 1,090.0B |
 | 17:40 | CNY | Low | Outstanding Loan Growth (YoY) (Dec) | 10.6% | 10.8% | 10.8% |
 | 17:40 | CNY | Low | Chinese Total Social Financing (Dec) | 1,940.0B | 2,200.0B | 2,450.0B |
-| 42 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
-| 19:30 | INR | Low | Bank Loan Growth |  |  | 20.2% |
-| 19:30 | INR | Low | Deposit Growth |  |  | 14.0% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 623.20B |
-| 20:00 | INR | Moderate | CPI (YoY) (Dec) |  | 5.87% | 5.55% |
-| 20:00 | INR | Low | Cumulative Industrial Production (Nov) |  |  | 6.90% |
-| 20:00 | INR | Low | Industrial Production (YoY) (Nov) |  | 4.0% | 11.7% |
-| 20:00 | INR | Low | Manufacturing Output (MoM) (Nov) |  |  | 10.4% |
+| 16 min | INR | Low | Bank Loan Growth |  |  | 20.2% |
+| 16 min | INR | Low | Deposit Growth |  |  | 14.0% |
+| 16 min | INR | Low | FX Reserves, USD |  |  | 623.20B |
+| 46 min | INR | Moderate | CPI (YoY) (Dec) |  | 5.87% | 5.55% |
+| 46 min | INR | Low | Cumulative Industrial Production (Nov) |  |  | 6.90% |
+| 46 min | INR | Low | Industrial Production (YoY) (Nov) |  | 4.0% | 11.7% |
+| 46 min | INR | Low | Manufacturing Output (MoM) (Nov) |  |  | 10.4% |
 | 20:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | -0.1% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |

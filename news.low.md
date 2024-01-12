@@ -23,14 +23,14 @@
 | 11:00 | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.629% |  | 1.623% |
 | 13:00 | JPY | Economy Watchers Current Index (Dec) | 50.7 | 49.9 | 49.5 |
-| 15:00 | GBP | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Nov) | 0.9% | 1.3% | 1.3% |
+| 15:00 | GBP | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
 | 15:00 | GBP | GDP (YoY) (Nov) | 0.2% | 0.2% | -0.1% |
 | 15:00 | GBP | Index of Services | 0.0% | 0.1% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Nov) | 1.3% | 1.7% | 0.2% |
-| 15:45 | EUR | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
 | 15:45 | EUR | CPI NSA (YoY) (Dec) | 3.70% |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) | 3.7% | 3.7% | 3.5% |
 | 15:45 | EUR | French HICP (YoY) (Dec) | 4.1% | 4.1% | 3.9% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) | 3.60% |  | 3.30% |
@@ -40,13 +40,12 @@
 | 17:40 | CNY | M2 Money Stock (YoY) (Dec) | 9.7% | 10.1% | 10.0% |
 | 17:40 | CNY | Outstanding Loan Growth (YoY) (Dec) | 10.6% | 10.8% | 10.8% |
 | 17:40 | CNY | Chinese Total Social Financing (Dec) | 1,940.0B | 2,200.0B | 2,450.0B |
-| 42 min | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
-| 19:30 | INR | Bank Loan Growth |  |  | 20.2% |
-| 19:30 | INR | Deposit Growth |  |  | 14.0% |
-| 19:30 | INR | FX Reserves, USD |  |  | 623.20B |
-| 20:00 | INR | Cumulative Industrial Production (Nov) |  |  | 6.90% |
-| 20:00 | INR | Industrial Production (YoY) (Nov) |  | 4.0% | 11.7% |
-| 20:00 | INR | Manufacturing Output (MoM) (Nov) |  |  | 10.4% |
+| 16 min | INR | Bank Loan Growth |  |  | 20.2% |
+| 16 min | INR | Deposit Growth |  |  | 14.0% |
+| 16 min | INR | FX Reserves, USD |  |  | 623.20B |
+| 46 min | INR | Cumulative Industrial Production (Nov) |  |  | 6.90% |
+| 46 min | INR | Industrial Production (YoY) (Nov) |  | 4.0% | 11.7% |
+| 46 min | INR | Manufacturing Output (MoM) (Nov) |  |  | 10.4% |
 | 21:30 | USD | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
 | 21:30 | USD | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
