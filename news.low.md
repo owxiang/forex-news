@@ -10,7 +10,7 @@
 | 07:50 | JPY | Bank Lending (YoY) (Dec) | 3.1% | 2.7% | 2.8% |
 | 07:50 | JPY | Foreign Bonds Buying | 542.3B |  | -164.8B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 296.2B |  | -120.5B |
-| 08:30 | AUD | Invest Housing Finance (MoM) | 1.9% |  | 5.0% |
+| 08:30 | AUD | Invest Housing Finance (MoM) | 1.9% |  | 8.3% |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 38.79 |  | 39.05 |
 | 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 66.51 |  | 64.31 |
 | 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 50.16 |  | 47.39 |
@@ -19,11 +19,10 @@
 | 11:00 | CNY | Exports (Dec) | 3.80M |  | 1.70M |
 | 11:00 | CNY | Imports (Dec) | 1.60M |  | 0.60M |
 | 11:00 | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
-| 18 min | JPY | 30-Year JGB Auction |  |  | 1.623% |
-| 43 min | IDR | Car Sales (YoY) (Dec) | -19.10% |  | -7.50% |
-| 13:00 | JPY | Economy Watchers Current Index (Dec) |  | 49.9 | 49.5 |
-| 15:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |
+| 11:35 | JPY | 30-Year JGB Auction | 1.629% |  | 1.623% |
+| 40 min | JPY | Economy Watchers Current Index (Dec) |  | 49.9 | 49.5 |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
+| 15:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |
 | 15:00 | GBP | GDP (YoY) (Nov) |  | 0.2% | 0.3% |
 | 15:00 | GBP | Index of Services |  | 0.1% | 0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) |  | 0.7% | 0.4% |
