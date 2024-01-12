@@ -11,15 +11,16 @@
 | 07:50 | JPY | Foreign Bonds Buying | 542.3B |  | -164.8B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 296.2B |  | -120.5B |
 | 08:30 | AUD | Invest Housing Finance (MoM) | 1.9% |  | 5.0% |
-| 47 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 39.05 |
-| 47 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 64.31 |
-| 47 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.39 |
-| 47 min | JPY | Thomson Reuters IPSOS PCSI (Jan) |  |  | 37.52 |
-| 47 min | CNY | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 71.41 |
-| 11:00 | CNY | Exports (Dec) |  |  | 1.70M |
-| 11:00 | CNY | Imports (Dec) |  |  | 0.60M |
-| 11:00 | CNY | Trade Balance (Dec) |  | 520.00B | 490.82B |
+| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 38.79 |  | 39.05 |
+| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 66.51 |  | 64.31 |
+| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 50.16 |  | 47.39 |
+| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Jan) | 37.84 |  | 37.52 |
+| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Jan) | 70.38 |  | 71.41 |
+| 29 min | CNY | Exports (Dec) | 3.80M |  | 1.70M |
+| 29 min | CNY | Imports (Dec) | 1.60M |  | 0.60M |
+| 29 min | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.623% |
+| 12:00 | IDR | Car Sales (YoY) (Dec) | -19.10% |  | -7.50% |
 | 13:00 | JPY | Economy Watchers Current Index (Dec) |  | 49.9 | 49.5 |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
 | 15:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |

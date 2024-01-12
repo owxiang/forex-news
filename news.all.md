@@ -17,21 +17,22 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 296.2B |  | -120.5B |
 | 08:30 | AUD | Moderate | Home Loans (MoM) | 0.5% | 0.0% | 5.6% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) | 1.9% |  | 5.0% |
-| 17 min | CNY | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 17 min | CNY | Moderate | CPI (YoY) (Dec) |  | -0.4% | -0.5% |
-| 17 min | CNY | Moderate | PPI (YoY) (Dec) |  | -2.6% | -3.0% |
-| 47 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 39.05 |
-| 47 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 64.31 |
-| 47 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) |  |  | 47.39 |
-| 47 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) |  |  | 37.52 |
-| 47 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) |  |  | 71.41 |
-| 11:00 | CNY | Low | Exports (Dec) |  |  | 1.70M |
-| 11:00 | CNY | Low | Imports (Dec) |  |  | 0.60M |
-| 11:00 | CNY | Low | Trade Balance (Dec) |  | 520.00B | 490.82B |
-| 11:00 | CNY | Moderate | Exports (YoY) (Dec) |  | 1.7% | 0.5% |
-| 11:00 | CNY | Moderate | Imports (YoY) (Dec) |  | 0.3% | -0.6% |
-| 11:00 | CNY | Moderate | Trade Balance (USD) (Dec) |  | 74.75B | 68.39B |
+| 09:30 | CNY | Moderate | CPI (YoY) (Dec) | -0.3% | -0.4% | -0.5% |
+| 09:30 | CNY | Moderate | CPI (MoM) (Dec) | 0.1% | 0.2% | -0.5% |
+| 09:30 | CNY | Moderate | PPI (YoY) (Dec) | -2.7% | -2.6% | -3.0% |
+| 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 38.79 |  | 39.05 |
+| 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 66.51 |  | 64.31 |
+| 10:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jan) | 50.16 |  | 47.39 |
+| 10:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jan) | 37.84 |  | 37.52 |
+| 10:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jan) | 70.38 |  | 71.41 |
+| 29 min | CNY | Low | Exports (Dec) | 3.80M |  | 1.70M |
+| 29 min | CNY | Low | Imports (Dec) | 1.60M |  | 0.60M |
+| 29 min | CNY | Low | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
+| 29 min | CNY | Moderate | Exports (YoY) (Dec) | 2.3% | 1.7% | 0.5% |
+| 29 min | CNY | Moderate | Imports (YoY) (Dec) | 0.2% | 0.3% | -0.6% |
+| 29 min | CNY | Moderate | Trade Balance (USD) (Dec) | 75.34B | 74.75B | 68.39B |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.623% |
+| 12:00 | IDR | Low | Car Sales (YoY) (Dec) | -19.10% |  | -7.50% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Dec) |  | 49.9 | 49.5 |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |
