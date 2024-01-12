@@ -23,12 +23,12 @@
 | 11:00 | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.629% |  | 1.623% |
 | 13:00 | JPY | Economy Watchers Current Index (Dec) | 50.7 | 49.9 | 49.5 |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
-| 15:00 | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |
-| 15:00 | GBP | GDP (YoY) (Nov) |  | 0.2% | 0.3% |
-| 15:00 | GBP | Index of Services |  | 0.1% | 0.1% |
-| 15:00 | GBP | Industrial Production (YoY) (Nov) |  | 0.7% | 0.4% |
-| 15:00 | GBP | Manufacturing Production (YoY) (Nov) |  | 1.7% | 0.8% |
+| 38 min | GBP | Construction Output (MoM) (Nov) |  | 0.4% | -0.5% |
+| 38 min | GBP | U.K. Construction Output (YoY) (Nov) |  | 1.3% | 1.1% |
+| 38 min | GBP | GDP (YoY) (Nov) |  | 0.2% | 0.3% |
+| 38 min | GBP | Index of Services |  | 0.1% | 0.1% |
+| 38 min | GBP | Industrial Production (YoY) (Nov) |  | 0.7% | 0.4% |
+| 38 min | GBP | Manufacturing Production (YoY) (Nov) |  | 1.7% | 0.8% |
 | 15:45 | EUR | CPI NSA (YoY) (Dec) |  |  | 3.70% |
 | 15:45 | EUR | CPI NSA (MoM) (Dec) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.7% | 3.5% |
