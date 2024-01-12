@@ -18,11 +18,11 @@
 | 15:00 | GBP | Monthly GDP 3M/3M Change (Nov) | -0.2% | -0.1% | 0.0% |
 | 15:00 | GBP | Trade Balance (Nov) | -14.19B | -15.70B | -15.94B |
 | 15:00 | GBP | Trade Balance Non-EU (Nov) | -2.84B |  | -3.92B |
-| 30 min | EUR | French Consumer Spending (MoM) (Nov) |  | -0.1% | -0.9% |
-| 30 min | EUR | French CPI (MoM) (Dec) |  | 0.1% | -0.2% |
-| 30 min | EUR | French HICP (MoM) (Dec) |  | 0.1% | -0.2% |
-| 45 min | EUR | Spanish CPI (YoY) (Dec) |  | 3.1% | 3.2% |
-| 45 min | EUR | Spanish HICP (YoY) (Dec) |  | 3.3% | 3.3% |
+| 15:45 | EUR | French Consumer Spending (MoM) (Nov) | 0.7% | -0.1% | -0.9% |
+| 15:45 | EUR | French CPI (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
+| 15:45 | EUR | French HICP (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
+| 16:00 | EUR | Spanish CPI (YoY) (Dec) | 3.1% | 3.1% | 3.2% |
+| 16:00 | EUR | Spanish HICP (YoY) (Dec) | 3.3% | 3.3% | 3.3% |
 | 18:00 | CNY | New Loans |  | 1,400.0B | 1,090.0B |
 | 20:00 | INR | CPI (YoY) (Dec) |  | 5.87% | 5.55% |
 | 20:30 | EUR | ECB's Lane Speaks |  |  |  |

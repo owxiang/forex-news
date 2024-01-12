@@ -23,20 +23,20 @@
 | 11:00 | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.629% |  | 1.623% |
 | 13:00 | JPY | Economy Watchers Current Index (Dec) | 50.7 | 49.9 | 49.5 |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Nov) | 0.9% | 1.3% | 1.3% |
 | 15:00 | GBP | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Nov) | 0.9% | 1.3% | 1.3% |
 | 15:00 | GBP | GDP (YoY) (Nov) | 0.2% | 0.2% | -0.1% |
 | 15:00 | GBP | Index of Services | 0.0% | 0.1% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Nov) | 1.3% | 1.7% | 0.2% |
-| 30 min | EUR | CPI NSA (MoM) (Dec) |  |  | 0.10% |
-| 30 min | EUR | CPI NSA (YoY) (Dec) |  |  | 3.70% |
-| 30 min | EUR | French CPI (YoY) |  | 3.7% | 3.5% |
-| 30 min | EUR | French HICP (YoY) (Dec) |  | 4.1% | 3.9% |
-| 30 min | EUR | France Inflation Ex-Tobacco (YoY) (Dec) |  |  | 3.30% |
-| 45 min | EUR | Core CPI (YoY) (Dec) |  |  | 4.5% |
-| 45 min | EUR | Spanish CPI (MoM) (Dec) |  | 0.0% | -0.3% |
-| 45 min | EUR | Spanish HICP (MoM) (Dec) |  | 0.0% | -0.5% |
+| 15:45 | EUR | CPI NSA (YoY) (Dec) | 3.70% |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
+| 15:45 | EUR | French CPI (YoY) | 3.7% | 3.7% | 3.5% |
+| 15:45 | EUR | French HICP (YoY) (Dec) | 4.1% | 4.1% | 3.9% |
+| 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) | 3.60% |  | 3.30% |
+| 16:00 | EUR | Core CPI (YoY) (Dec) | 3.8% |  | 4.5% |
+| 16:00 | EUR | Spanish CPI (MoM) (Dec) | 0.0% | 0.0% | -0.3% |
+| 16:00 | EUR | Spanish HICP (MoM) (Dec) | 0.0% | 0.0% | -0.5% |
 | 18:00 | CNY | M2 Money Stock (YoY) |  | 10.1% | 10.0% |
 | 18:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.8% | 10.8% |
 | 18:00 | CNY | Chinese Total Social Financing |  | 2,200.0B | 2,450.0B |
@@ -48,6 +48,6 @@
 | 20:00 | INR | Industrial Production (YoY) (Nov) |  | 4.0% | 11.7% |
 | 20:00 | INR | Manufacturing Output (MoM) (Nov) |  |  | 10.4% |
 | 21:30 | USD | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
 | 21:30 | USD | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
