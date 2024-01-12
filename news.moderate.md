@@ -26,6 +26,6 @@
 | 17:40 | CNY | New Loans (Dec) | 1,170.0B | 1,400.0B | 1,090.0B |
 | 20:00 | INR | CPI (YoY) (Dec) | 5.69% | 5.87% | 5.55% |
 | 20:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 29 min | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
-| 59 min | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
+| 20:35 | GBP | NIESR Monthly GDP Tracker | 0.0% |  | -0.2% |
+| 11 min | USD | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
 | 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |

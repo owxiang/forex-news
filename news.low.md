@@ -23,8 +23,8 @@
 | 11:00 | CNY | Trade Balance (Dec) | 540.90B | 520.00B | 490.82B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.629% |  | 1.623% |
 | 13:00 | JPY | Economy Watchers Current Index (Dec) | 50.7 | 49.9 | 49.5 |
-| 15:00 | GBP | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Nov) | 0.9% | 1.3% | 1.3% |
+| 15:00 | GBP | Construction Output (MoM) (Nov) | -0.2% | 0.4% | -0.4% |
 | 15:00 | GBP | GDP (YoY) (Nov) | 0.2% | 0.2% | -0.1% |
 | 15:00 | GBP | Index of Services | 0.0% | 0.1% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
@@ -47,7 +47,7 @@
 | 20:00 | INR | Cumulative Industrial Production (Nov) | 6.40% |  | 6.90% |
 | 20:00 | INR | Industrial Production (YoY) (Nov) | 2.4% | 4.0% | 11.6% |
 | 20:00 | INR | Manufacturing Output (MoM) (Nov) | 1.2% |  | 10.2% |
-| 59 min | USD | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
-| 59 min | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
-| 59 min | USD | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
-| 59 min | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
+| 11 min | USD | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
+| 11 min | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
+| 11 min | USD | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
+| 11 min | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
