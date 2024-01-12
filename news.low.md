@@ -47,7 +47,7 @@
 | 20:00 | INR | Cumulative Industrial Production (Nov) | 6.40% |  | 6.90% |
 | 20:00 | INR | Industrial Production (YoY) (Nov) | 2.4% | 4.0% | 11.6% |
 | 20:00 | INR | Manufacturing Output (MoM) (Nov) | 1.2% |  | 10.2% |
-| 11 min | USD | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
-| 11 min | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
-| 11 min | USD | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
-| 11 min | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
+| 21:30 | USD | Core PPI (YoY) (Dec) | 1.8% | 1.9% | 2.0% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 2.5% |  | 2.4% |
+| 21:30 | USD | PPI (YoY) (Dec) | 1.0% | 1.3% | 0.8% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.2% |  | 0.1% |

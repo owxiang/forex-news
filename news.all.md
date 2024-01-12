@@ -40,8 +40,8 @@
 | 15:00 | GBP | High | GDP (MoM) (Nov) | 0.3% | 0.2% | -0.3% |
 | 15:00 | GBP | Low | GDP (YoY) (Nov) | 0.2% | 0.2% | -0.1% |
 | 15:00 | GBP | Low | Index of Services | 0.0% | 0.1% | -0.1% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Nov) | 0.3% | 0.3% | -1.3% |
+| 15:00 | GBP | Low | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Nov) | 0.4% | 0.3% | -1.2% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Nov) | 1.3% | 1.7% | 0.2% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Nov) | -0.2% | -0.1% | 0.0% |
@@ -74,10 +74,10 @@
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Nov) | 1.2% |  | 10.2% |
 | 20:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:35 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.0% |  | -0.2% |
-| 11 min | USD | Moderate | Core PPI (MoM) (Dec) |  | 0.2% | 0.0% |
-| 11 min | USD | Low | Core PPI (YoY) (Dec) |  | 1.9% | 2.0% |
-| 11 min | USD | High | PPI (MoM) (Dec) |  | 0.1% | 0.0% |
-| 11 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) |  |  | 2.5% |
-| 11 min | USD | Low | PPI (YoY) (Dec) |  | 1.3% | 0.9% |
-| 11 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) |  |  | 0.1% |
-| 23:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 21:30 | USD | Low | Core PPI (YoY) (Dec) | 1.8% | 1.9% | 2.0% |
+| 21:30 | USD | Moderate | Core PPI (MoM) (Dec) | 0.0% | 0.2% | 0.0% |
+| 21:30 | USD | High | PPI (MoM) (Dec) | -0.1% | 0.1% | -0.1% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Dec) | 2.5% |  | 2.4% |
+| 21:30 | USD | Low | PPI (YoY) (Dec) | 1.0% | 1.3% | 0.8% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.2% |  | 0.1% |
+| 45 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
