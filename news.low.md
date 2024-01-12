@@ -29,8 +29,8 @@
 | 15:00 | GBP | Index of Services | 0.0% | 0.1% | -0.1% |
 | 15:00 | GBP | Industrial Production (YoY) (Nov) | -0.1% | 0.7% | -0.5% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Nov) | 1.3% | 1.7% | 0.2% |
-| 15:45 | EUR | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
 | 15:45 | EUR | CPI NSA (YoY) (Dec) | 3.70% |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Dec) | 0.10% |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) | 3.7% | 3.7% | 3.5% |
 | 15:45 | EUR | French HICP (YoY) (Dec) | 4.1% | 4.1% | 3.9% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Dec) | 3.60% |  | 3.30% |
@@ -48,6 +48,6 @@
 | 20:00 | INR | Industrial Production (YoY) (Nov) | 2.4% | 4.0% | 11.6% |
 | 20:00 | INR | Manufacturing Output (MoM) (Nov) | 1.2% |  | 10.2% |
 | 21:30 | USD | Core PPI (YoY) (Dec) | 1.8% | 1.9% | 2.0% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.2% |  | 0.1% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Dec) | 2.5% |  | 2.4% |
 | 21:30 | USD | PPI (YoY) (Dec) | 1.0% | 1.3% | 0.8% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Dec) | 0.2% |  | 0.1% |

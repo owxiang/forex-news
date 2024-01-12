@@ -28,4 +28,4 @@
 | 20:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:35 | GBP | NIESR Monthly GDP Tracker | 0.0% |  | -0.2% |
 | 21:30 | USD | Core PPI (MoM) (Dec) | 0.0% | 0.2% | 0.0% |
-| 45 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 23:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
