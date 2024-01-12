@@ -23,7 +23,7 @@
 | 15:45 | EUR | French HICP (MoM) (Dec) | 0.1% | 0.1% | -0.2% |
 | 16:00 | EUR | Spanish CPI (YoY) (Dec) | 3.1% | 3.1% | 3.2% |
 | 16:00 | EUR | Spanish HICP (YoY) (Dec) | 3.3% | 3.3% | 3.3% |
-| 18:00 | CNY | New Loans |  | 1,400.0B | 1,090.0B |
+| 43 min | CNY | New Loans |  | 1,400.0B | 1,090.0B |
 | 20:00 | INR | CPI (YoY) (Dec) |  | 5.87% | 5.55% |
 | 20:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker |  |  | -0.1% |
