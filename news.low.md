@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | M2 Money Stock (YoY) |  |  | 2.3% |
+| 07:50 | JPY | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
 | 07:50 | JPY | M3 Money Supply (Dec) |  |  | 2,121.5% |
 | 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.3% |
 | 08:01 | GBP | Rightmove House Price Index (MoM) |  |  | -1.9% |
@@ -15,11 +15,11 @@
 | 14:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | -0.64% |
 | 15:00 | EUR | German WPI (YoY) (Dec) |  |  | -3.6% |
-| 15:00 | EUR | German WPI (MoM) (Dec) |  |  | -0.2% |
+| 15:00 | EUR | German WPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | NOK | Trade Balance (Dec) |  |  | 80.1B |
-| 17:00 | EUR | Italian Trade Balance (Nov) |  |  | 4.699B |
+| 17:00 | EUR | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
 | 17:00 | EUR | Italian Trade Balance EU (Nov) |  |  | -0.68B |
-| 17:00 | EUR | German GDP Annual |  |  | 1.90% |
+| 17:00 | EUR | German GDP Annual |  | -0.30% | 1.90% |
 | 18:00 | INR | Exports (USD) |  |  | 33.90B |
 | 18:00 | INR | Imports (USD) |  |  | 54.48B |
 | 18:00 | INR | Trade Balance |  | -21.00B | -20.58B |

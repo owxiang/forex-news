@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Low | M2 Money Stock (YoY) |  |  | 2.3% |
+| 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
 | 07:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,121.5% |
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
 | 08:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | -1.9% |
@@ -16,11 +16,12 @@
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 0.90% | 0.26% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | -0.64% |
 | 15:00 | EUR | Low | German WPI (YoY) (Dec) |  |  | -3.6% |
-| 15:00 | EUR | Low | German WPI (MoM) (Dec) |  |  | -0.2% |
+| 15:00 | EUR | Low | German WPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | NOK | Low | Trade Balance (Dec) |  |  | 80.1B |
-| 17:00 | EUR | Low | Italian Trade Balance (Nov) |  |  | 4.699B |
+| 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 17:00 | EUR | Low | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
 | 17:00 | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.68B |
-| 17:00 | EUR | Low | German GDP Annual |  |  | 1.90% |
+| 17:00 | EUR | Low | German GDP Annual |  | -0.30% | 1.90% |
 | 17:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.3% | 0.7% |
 | 18:00 | INR | Low | Exports (USD) |  |  | 33.90B |
 | 18:00 | INR | Low | Imports (USD) |  |  | 54.48B |
@@ -28,7 +29,7 @@
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 18:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -6.4% | -6.6% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |
-| 18:00 | EUR | Moderate | Trade Balance (Nov) |  |  | 11.1B |
+| 18:00 | EUR | Moderate | Trade Balance (Nov) |  | 11.2B | 11.1B |
 | 18:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.565% |
 | 19:00 | EUR | Low | Reserve Assets Total (Dec) |  |  | 1,145.50B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
