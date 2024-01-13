@@ -26,8 +26,8 @@
 | 18:00 | INR | Low | Imports (USD) |  |  | 54.48B |
 | 18:00 | INR | Low | Trade Balance |  | -21.00B | -20.58B |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -6.4% | -6.6% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |
+| 18:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -6.4% | -6.6% |
 | 18:00 | EUR | Moderate | Trade Balance (Nov) |  |  | 11.1B |
 | 18:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.565% |
 | 19:00 | EUR | Low | Reserve Assets Total (Dec) |  |  | 1,145.50B |
