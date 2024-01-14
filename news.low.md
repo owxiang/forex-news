@@ -14,8 +14,8 @@
 | 14:30 | INR | WPI Food (YoY) (Dec) |  |  | 8.18% |
 | 14:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | -0.64% |
-| 15:00 | EUR | German WPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | EUR | German WPI (YoY) (Dec) |  |  | -3.6% |
+| 15:00 | EUR | German WPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | NOK | Trade Balance (Dec) |  |  | 80.1B |
 | 17:00 | EUR | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
 | 17:00 | EUR | Italian Trade Balance EU (Nov) |  |  | -0.68B |
