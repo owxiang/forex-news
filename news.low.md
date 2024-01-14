@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
-| 07:50 | JPY | M3 Money Supply (Dec) |  |  | 2,121.5% |
-| 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.3% |
-| 08:01 | GBP | Rightmove House Price Index (MoM) |  |  | -1.9% |
+| 33 min | JPY | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
+| 33 min | JPY | M3 Money Supply (Dec) |  |  | 2,121.5% |
+| 43 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.3% |
+| 44 min | GBP | Rightmove House Price Index (MoM) |  |  | -1.9% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | -4.6% |
 | 12:00 | IDR | Export Growth (YoY) (Dec) |  | -8.10% | -8.56% |
 | 12:00 | IDR | Import Growth (YoY) (Dec) |  | 0.40% | 3.29% |

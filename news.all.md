@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
-| 07:50 | JPY | Low | M3 Money Supply (Dec) |  |  | 2,121.5% |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
-| 08:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | -1.9% |
+| 33 min | JPY | Low | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
+| 33 min | JPY | Low | M3 Money Supply (Dec) |  |  | 2,121.5% |
+| 43 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
+| 44 min | GBP | Low | Rightmove House Price Index (MoM) |  |  | -1.9% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -4.6% |
 | 12:00 | IDR | Low | Export Growth (YoY) (Dec) |  | -8.10% | -8.56% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Dec) |  | 0.40% | 3.29% |
@@ -27,8 +27,8 @@
 | 18:00 | INR | Low | Imports (USD) |  |  | 54.48B |
 | 18:00 | INR | Low | Trade Balance |  | -21.00B | -20.58B |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |
 | 18:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -6.4% | -6.6% |
+| 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |
 | 18:00 | EUR | Moderate | Trade Balance (Nov) |  | 11.2B | 11.1B |
 | 18:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.565% |
 | 19:00 | EUR | Low | Reserve Assets Total (Dec) |  |  | 1,145.50B |
