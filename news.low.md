@@ -30,8 +30,8 @@
 | 19:40 | INR | Exports (USD) (Dec) | 38.45B |  | 33.90B |
 | 19:40 | INR | Imports (USD) (Dec) | 58.25B |  | 54.48B |
 | 19:40 | INR | Trade Balance (Dec) | -19.80B | -21.00B | -20.58B |
-| 59 min | CAD | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
-| 59 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.341% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.844% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.766% |
+| 10 min | CAD | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
+| 10 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
+| 35 min | EUR | French 12-Month BTF Auction |  |  | 3.341% |
+| 35 min | EUR | French 3-Month BTF Auction |  |  | 3.844% |
+| 35 min | EUR | French 6-Month BTF Auction |  |  | 3.766% |

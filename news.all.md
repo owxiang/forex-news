@@ -35,10 +35,10 @@
 | 19:40 | INR | Low | Exports (USD) (Dec) | 38.45B |  | 33.90B |
 | 19:40 | INR | Low | Imports (USD) (Dec) | 58.25B |  | 54.48B |
 | 19:40 | INR | Low | Trade Balance (Dec) | -19.80B | -21.00B | -20.58B |
-| 59 min | CAD | Low | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
-| 59 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
-| 59 min | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.8% | -0.5% |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.341% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.844% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.766% |
+| 10 min | CAD | Low | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
+| 10 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
+| 10 min | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.8% | -0.5% |
+| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.341% |
+| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.844% |
+| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.766% |
 | 23:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |

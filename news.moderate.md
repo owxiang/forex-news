@@ -7,5 +7,5 @@
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
 | 18:00 | EUR | Industrial Production (MoM) (Nov) | -0.3% | -0.3% | -0.7% |
 | 18:00 | EUR | Trade Balance (Nov) | 20.3B | 11.2B | 11.4B |
-| 59 min | CAD | Wholesale Sales (MoM) (Nov) |  | 0.8% | -0.5% |
+| 10 min | CAD | Wholesale Sales (MoM) (Nov) |  | 0.8% | -0.5% |
 | 23:30 | CAD | BoC Business Outlook Survey |  |  |  |
