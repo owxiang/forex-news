@@ -13,14 +13,14 @@
 | 12:00 | IDR | Low | Import Growth (YoY) (Dec) | -3.81% | 0.40% | 3.29% |
 | 12:00 | IDR | Low | Trade Balance (Dec) | 3.30B | 1.92B | 2.41B |
 | 14:00 | JPY | Low | Machine Tool Orders (YoY) | -9.9% |  | -13.6% |
-| 7 min | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.18% |
-| 7 min | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
-| 7 min | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 0.90% | 0.26% |
-| 7 min | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) |  |  | -0.64% |
-| 37 min | EUR | Low | German WPI (YoY) (Dec) |  |  | -3.6% |
-| 37 min | EUR | Low | German WPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 37 min | NOK | Low | Trade Balance (Dec) |  |  | 80.1B |
-| 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 14:30 | INR | Low | WPI Food (YoY) (Dec) | 9.38% |  | 8.18% |
+| 14:30 | INR | Low | WPI Fuel (YoY) (Dec) | -2.41% |  | -4.61% |
+| 14:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.73% | 0.90% | 0.26% |
+| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | -0.71% |  | -0.64% |
+| 15:00 | EUR | Low | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
+| 15:00 | EUR | Low | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
+| 15:00 | NOK | Low | Trade Balance (Dec) | 77.3B |  | 79.3B |
+| 44 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:00 | EUR | Low | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
 | 17:00 | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.68B |
 | 17:00 | EUR | Low | German GDP Annual |  | -0.30% | 1.90% |

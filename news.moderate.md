@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 7 min | INR | WPI Inflation (YoY) (Dec) |  | 0.90% | 0.26% |
-| 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 14:30 | INR | WPI Inflation (YoY) (Dec) | 0.73% | 0.90% | 0.26% |
+| 44 min | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | GBP | Labour Productivity (Q3) |  | -0.3% | 0.7% |
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
 | 18:00 | EUR | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |

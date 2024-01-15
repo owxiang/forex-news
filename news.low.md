@@ -13,12 +13,12 @@
 | 12:00 | IDR | Import Growth (YoY) (Dec) | -3.81% | 0.40% | 3.29% |
 | 12:00 | IDR | Trade Balance (Dec) | 3.30B | 1.92B | 2.41B |
 | 14:00 | JPY | Machine Tool Orders (YoY) | -9.9% |  | -13.6% |
-| 7 min | INR | WPI Food (YoY) (Dec) |  |  | 8.18% |
-| 7 min | INR | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
-| 7 min | INR | WPI Manufacturing Inflation (YoY) (Dec) |  |  | -0.64% |
-| 37 min | EUR | German WPI (YoY) (Dec) |  |  | -3.6% |
-| 37 min | EUR | German WPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 37 min | NOK | Trade Balance (Dec) |  |  | 80.1B |
+| 14:30 | INR | WPI Food (YoY) (Dec) | 9.38% |  | 8.18% |
+| 14:30 | INR | WPI Fuel (YoY) (Dec) | -2.41% |  | -4.61% |
+| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | -0.71% |  | -0.64% |
+| 15:00 | EUR | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
+| 15:00 | EUR | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
+| 15:00 | NOK | Trade Balance (Dec) | 77.3B |  | 79.3B |
 | 17:00 | EUR | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
 | 17:00 | EUR | Italian Trade Balance EU (Nov) |  |  | -0.68B |
 | 17:00 | EUR | German GDP Annual |  | -0.30% | 1.90% |
