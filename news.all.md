@@ -28,12 +28,13 @@
 | 18:00 | EUR | Low | Industrial Production (YoY) (Nov) | -6.8% | -5.9% | -6.6% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) | -0.3% | -0.3% | -0.7% |
 | 18:00 | EUR | Moderate | Trade Balance (Nov) | 20.3B | 11.2B | 11.4B |
-| 11 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.565% |
-| 41 min | EUR | Low | Reserve Assets Total (Dec) |  |  | 1,145.50B |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 20:00 | INR | Low | Exports (USD) |  |  | 33.90B |
-| 20:00 | INR | Low | Imports (USD) |  |  | 54.48B |
-| 20:00 | INR | Low | Trade Balance |  | -21.00B | -20.58B |
+| 18:55 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | -0.7% |  | -1.1% |
+| 19:00 | EUR | Low | German 12-Month Bubill Auction | 3.189% |  | 3.565% |
+| 19:00 | EUR | Low | Reserve Assets Total (Dec) | 1,147.67B |  | 1,145.50B |
+| 11 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 46 min | INR | Low | Exports (USD) |  |  | 33.90B |
+| 46 min | INR | Low | Imports (USD) |  |  | 54.48B |
+| 46 min | INR | Low | Trade Balance |  | -21.00B | -20.58B |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
 | 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
 | 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) |  | 0.8% | -0.5% |
@@ -41,4 +42,3 @@
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.844% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.766% |
 | 23:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 23:36 | GBP | Low | Rightmove House Price Index (YoY) (Jan) |  |  | -1.1% |

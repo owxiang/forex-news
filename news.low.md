@@ -23,15 +23,15 @@
 | 17:00 | EUR | Italian Trade Balance EU (Nov) | -2.39B |  | -0.65B |
 | 17:00 | EUR | German GDP Annual | -0.30% | -0.30% | 1.90% |
 | 18:00 | EUR | Industrial Production (YoY) (Nov) | -6.8% | -5.9% | -6.6% |
-| 11 min | EUR | German 12-Month Bubill Auction |  |  | 3.565% |
-| 41 min | EUR | Reserve Assets Total (Dec) |  |  | 1,145.50B |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | INR | Exports (USD) |  |  | 33.90B |
-| 20:00 | INR | Imports (USD) |  |  | 54.48B |
-| 20:00 | INR | Trade Balance |  | -21.00B | -20.58B |
+| 18:55 | GBP | Rightmove House Price Index (YoY) (Feb) | -0.7% |  | -1.1% |
+| 19:00 | EUR | German 12-Month Bubill Auction | 3.189% |  | 3.565% |
+| 19:00 | EUR | Reserve Assets Total (Dec) | 1,147.67B |  | 1,145.50B |
+| 11 min | BRL | BCB Focus Market Readout |  |  |  |
+| 46 min | INR | Exports (USD) |  |  | 33.90B |
+| 46 min | INR | Imports (USD) |  |  | 54.48B |
+| 46 min | INR | Trade Balance |  | -21.00B | -20.58B |
 | 21:30 | CAD | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
 | 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.341% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.844% |
 | 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.766% |
-| 23:36 | GBP | Rightmove House Price Index (YoY) (Jan) |  |  | -1.1% |
