@@ -1,44 +1,53 @@
-## 15 January 2024 - All Forex News
+## 16 January 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.3% | 2.2% | 2.3% |
-| 08:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.3% |  | -1.9% |
-| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.1% |  | -5.1% |
-| 08:30 | AUD | Low | MI Inflation Gauge (MoM) | 1.0% |  | 0.3% |
-| 10:00 | KRW | Low | Exports (YoY) (Dec) | 5.0% |  | 5.1% |
-| 10:00 | KRW | Low | Imports (YoY) (Dec) | -10.8% |  | -10.8% |
-| 10:00 | KRW | Low | Trade Balance (Dec) | 4.46B |  | 4.48B |
-| 12:00 | IDR | Low | Export Growth (YoY) (Dec) | -5.76% | -8.10% | -8.56% |
-| 12:00 | IDR | Low | Import Growth (YoY) (Dec) | -3.81% | 0.40% | 3.29% |
-| 12:00 | IDR | Low | Trade Balance (Dec) | 3.30B | 1.92B | 2.41B |
-| 14:00 | JPY | Low | Machine Tool Orders (YoY) | -9.9% |  | -13.6% |
-| 14:30 | INR | Low | WPI Food (YoY) (Dec) | 9.38% |  | 8.18% |
-| 14:30 | INR | Low | WPI Fuel (YoY) (Dec) | -2.41% |  | -4.61% |
-| 14:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.73% | 0.90% | 0.26% |
-| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | -0.71% |  | -0.64% |
-| 15:00 | EUR | Low | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
-| 15:00 | EUR | Low | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
-| 15:00 | NOK | Low | Trade Balance (Dec) | 77.3B |  | 79.3B |
+| 05:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | -7.2% |
+| 05:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | -8.5% |
+| 05:00 | NZD | Moderate | NZIER Business Confidence (Q4) |  |  | -52% |
+| 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) |  |  | 87.3% |
+| 07:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | 2.7% |
+| 07:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.0% | 0.2% |
+| 07:50 | JPY | Low | PPI (YoY) (Dec) |  | -0.3% | 0.3% |
+| 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
+| 08:30 | AUD | Low | Building Approvals (YoY) |  | -4.60% | -6.10% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) |  | 1.6% | 7.5% |
+| 08:30 | AUD | Low | Private House Approvals |  | -1.7% | 2.2% |
+| 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.325% |
+| 15:00 | GBP | Low | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
+| 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 6.8% | 7.2% |
+| 15:00 | GBP | Moderate | Claimant Count Change (Dec) |  | 18.1K | 16.0K |
+| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  |  | 50K |
+| 15:00 | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.2% |
+| 15:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
+| 15:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
+| 15:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
+| 15:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | EUR | Low | Italian Trade Balance (Nov) | 3.889B | 5.200B | 4.732B |
-| 17:00 | EUR | Low | Italian Trade Balance EU (Nov) | -2.39B |  | -0.65B |
-| 17:00 | EUR | Low | German GDP Annual | -0.30% | -0.30% | 1.80% |
-| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) | -0.3% | -0.3% | -0.7% |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Nov) | -6.8% | -5.9% | -6.6% |
-| 18:00 | EUR | Moderate | Trade Balance (Nov) | 20.3B | 11.2B | 11.4B |
-| 18:55 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | -0.7% |  | -1.1% |
-| 19:00 | EUR | Low | German 12-Month Bubill Auction | 3.189% |  | 3.565% |
-| 19:00 | EUR | Low | Reserve Assets Total (Dec) | 1,147.67B |  | 1,145.50B |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 19:40 | INR | Low | Exports (USD) (Dec) | 38.45B |  | 33.90B |
-| 19:40 | INR | Low | Imports (USD) (Dec) | 58.25B |  | 54.48B |
-| 19:40 | INR | Low | Trade Balance (Dec) | -19.80B | -21.00B | -20.58B |
-| 21:30 | CAD | Low | Manufacturing Sales (MoM) | 1.2% | 1.0% | -2.9% |
-| 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 143.7K |  | 151.1K |
-| 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Nov) | 0.9% | 0.8% | -0.3% |
-| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.319% |  | 3.341% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.829% |  | 3.844% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.697% |  | 3.766% |
-| 13 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
+| 17:00 | EUR | Low | Consumer Inflation Expectation |  |  | 10.5 |
+| 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.580% |
+| 18:00 | EUR | Moderate | German ZEW Current Conditions (Jan) |  | -77.0 | -77.1 |
+| 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Jan) |  | 12.7 | 12.8 |
+| 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 18:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) |  | 21.9 | 23.0 |
+| 18:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
+| 19:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | -0.6% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | -0.4% |
+| 21:15 | CAD | Moderate | Housing Starts (Dec) |  | 243.0K | 212.6K |
+| 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | -5.00 | -14.50 |
+| 21:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 3.8% | 3.9% |
+| 21:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.8% |
+| 21:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | 0.1% |
+| 21:30 | CAD | Low | CPI (YoY) (Dec) |  | 3.3% | 3.1% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.3% | 0.1% |
+| 21:30 | CAD | Low | Median CPI (YoY) (Dec) |  | 3.4% | 3.4% |
+| 21:30 | CAD | Low | Trimmed CPI (YoY) (Dec) |  | 3.5% | 3.5% |
+| 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.2% |
+| 23:00 | USD | Low | Milk Auctions |  |  | 3,363.0 |

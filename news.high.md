@@ -1,3 +1,5 @@
-## 15 January 2024 - High Impact Forex News
+## 16 January 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | EUR | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
