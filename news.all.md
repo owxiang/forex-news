@@ -25,8 +25,8 @@
 | 17:00 | EUR | Low | Italian Trade Balance EU (Nov) | -2.39B |  | -0.65B |
 | 17:00 | EUR | Low | German GDP Annual | -0.30% | -0.30% | 1.80% |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Nov) | -6.8% | -5.9% | -6.6% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) | -0.3% | -0.3% | -0.7% |
+| 18:00 | EUR | Low | Industrial Production (YoY) (Nov) | -6.8% | -5.9% | -6.6% |
 | 18:00 | EUR | Moderate | Trade Balance (Nov) | 20.3B | 11.2B | 11.4B |
 | 18:55 | GBP | Low | Rightmove House Price Index (YoY) (Feb) | -0.7% |  | -1.1% |
 | 19:00 | EUR | Low | German 12-Month Bubill Auction | 3.189% |  | 3.565% |
@@ -41,4 +41,4 @@
 | 21:55 | EUR | Low | French 12-Month BTF Auction | 3.319% |  | 3.341% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.829% |  | 3.844% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.697% |  | 3.766% |
-| 23:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 13 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |

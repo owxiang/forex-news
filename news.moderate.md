@@ -8,4 +8,4 @@
 | 18:00 | EUR | Industrial Production (MoM) (Nov) | -0.3% | -0.3% | -0.7% |
 | 18:00 | EUR | Trade Balance (Nov) | 20.3B | 11.2B | 11.4B |
 | 21:30 | CAD | Wholesale Sales (MoM) (Nov) | 0.9% | 0.8% | -0.3% |
-| 23:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 13 min | CAD | BoC Business Outlook Survey |  |  |  |
