@@ -17,20 +17,20 @@
 | 14:30 | INR | Low | WPI Fuel (YoY) (Dec) | -2.41% |  | -4.61% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Dec) | 0.73% | 0.90% | 0.26% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Dec) | -0.71% |  | -0.64% |
-| 15:00 | EUR | Low | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
 | 15:00 | EUR | Low | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
+| 15:00 | EUR | Low | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
 | 15:00 | NOK | Low | Trade Balance (Dec) | 77.3B |  | 79.3B |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 38 min | EUR | Low | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
-| 38 min | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.68B |
-| 38 min | EUR | Low | German GDP Annual |  | -0.30% | 1.90% |
-| 18:00 | INR | Low | Exports (USD) |  |  | 33.90B |
-| 18:00 | INR | Low | Imports (USD) |  |  | 54.48B |
-| 18:00 | INR | Low | Trade Balance |  | -21.00B | -20.58B |
-| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Nov) |  | -5.9% | -6.6% |
-| 18:00 | EUR | Moderate | Trade Balance (Nov) |  | 11.2B | 11.1B |
+| 17:00 | EUR | Low | Italian Trade Balance (Nov) | 3.889B | 5.200B | 4.732B |
+| 17:00 | EUR | Low | Italian Trade Balance EU (Nov) | -2.39B |  | -0.65B |
+| 17:00 | EUR | Low | German GDP Annual | -0.30% | -0.30% | 1.90% |
+| 43 min | INR | Low | Exports (USD) |  |  | 33.90B |
+| 43 min | INR | Low | Imports (USD) |  |  | 54.48B |
+| 43 min | INR | Low | Trade Balance |  | -21.00B | -20.58B |
+| 43 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 43 min | EUR | Moderate | Industrial Production (MoM) (Nov) |  | -0.3% | -0.7% |
+| 43 min | EUR | Low | Industrial Production (YoY) (Nov) |  | -5.9% | -6.6% |
+| 43 min | EUR | Moderate | Trade Balance (Nov) |  | 11.2B | 11.1B |
 | 18:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.565% |
 | 19:00 | EUR | Low | Reserve Assets Total (Dec) |  |  | 1,145.50B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
