@@ -6,10 +6,13 @@
 | 08:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.3% |  | -1.9% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | 0.1% |  | -5.1% |
 | 08:30 | AUD | Low | MI Inflation Gauge (MoM) | 1.0% |  | 0.3% |
+| 10:00 | KRW | Low | Exports (YoY) (Dec) | 5.0% |  | 5.1% |
+| 10:00 | KRW | Low | Imports (YoY) (Dec) | -10.8% |  | -10.8% |
+| 10:00 | KRW | Low | Trade Balance (Dec) | 4.46B |  | 4.48B |
 | 12:00 | IDR | Low | Export Growth (YoY) (Dec) | -5.76% | -8.10% | -8.56% |
 | 12:00 | IDR | Low | Import Growth (YoY) (Dec) | -3.81% | 0.40% | 3.29% |
 | 12:00 | IDR | Low | Trade Balance (Dec) | 3.30B | 1.92B | 2.41B |
-| 14:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -13.6% |
+| 44 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -13.6% |
 | 14:30 | INR | Low | WPI Food (YoY) (Dec) |  |  | 8.18% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Dec) |  | 0.90% | 0.26% |
