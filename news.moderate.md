@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | NZD | NZIER Business Confidence (Q4) |  |  | -52% |
+| 43 min | NZD | NZIER Business Confidence (Q4) |  |  | -52% |
 | 08:30 | AUD | Building Approvals (MoM) |  | 1.6% | 7.5% |
 | 15:00 | GBP | Average Earnings Index +Bonus (Nov) |  | 6.8% | 7.2% |
 | 15:00 | GBP | Claimant Count Change (Dec) |  | 18.1K | 16.0K |

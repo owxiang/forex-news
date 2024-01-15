@@ -2,13 +2,13 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | Export Price Index (YoY) (Dec) |  |  | -7.2% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Dec) |  |  | -8.5% |
-| 05:00 | NZD | Moderate | NZIER Business Confidence (Q4) |  |  | -52% |
-| 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) |  |  | 87.3% |
+| 43 min | KRW | Low | Export Price Index (YoY) (Dec) |  |  | -7.2% |
+| 43 min | KRW | Low | Import Price Index (YoY) (Dec) |  |  | -8.5% |
+| 43 min | NZD | Moderate | NZIER Business Confidence (Q4) |  |  | -52% |
+| 43 min | NZD | Low | NZIER QSBO Capacity Utilization (Q4) |  |  | 87.3% |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | 2.7% |
-| 07:50 | JPY | Low | PPI (YoY) (Dec) |  | -0.3% | 0.3% |
 | 07:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.0% | 0.2% |
+| 07:50 | JPY | Low | PPI (YoY) (Dec) |  | -0.3% | 0.3% |
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
 | 08:30 | AUD | Low | Building Approvals (YoY) |  | -4.60% | -6.10% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) |  | 1.6% | 7.5% |
@@ -21,14 +21,14 @@
 | 15:00 | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.2% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
 | 15:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
-| 15:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
 | 15:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
+| 15:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
 | 17:00 | EUR | Low | Consumer Inflation Expectation |  |  | 10.5 |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.580% |
 | 18:00 | EUR | Moderate | German ZEW Current Conditions (Jan) |  | -77.0 | -77.1 |
