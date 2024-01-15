@@ -6,9 +6,9 @@
 | 08:01 | GBP | Rightmove House Price Index (MoM) | 1.3% |  | -1.9% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) | 0.1% |  | -5.1% |
 | 08:30 | AUD | MI Inflation Gauge (MoM) | 1.0% |  | 0.3% |
-| 43 min | IDR | Export Growth (YoY) (Dec) |  | -8.10% | -8.56% |
-| 43 min | IDR | Import Growth (YoY) (Dec) |  | 0.40% | 3.29% |
-| 43 min | IDR | Trade Balance (Dec) |  | 1.92B | 2.41B |
+| 12:00 | IDR | Export Growth (YoY) (Dec) | -5.76% | -8.10% | -8.56% |
+| 12:00 | IDR | Import Growth (YoY) (Dec) | -3.81% | 0.40% | 3.29% |
+| 12:00 | IDR | Trade Balance (Dec) | 3.30B | 1.92B | 2.41B |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -13.6% |
 | 14:30 | INR | WPI Food (YoY) (Dec) |  |  | 8.18% |
 | 14:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
@@ -22,11 +22,11 @@
 | 18:00 | INR | Exports (USD) |  |  | 33.90B |
 | 18:00 | INR | Imports (USD) |  |  | 54.48B |
 | 18:00 | INR | Trade Balance |  | -21.00B | -20.58B |
-| 18:00 | EUR | Industrial Production (YoY) (Nov) |  | -6.4% | -6.6% |
+| 18:00 | EUR | Industrial Production (YoY) (Nov) |  | -5.9% | -6.6% |
 | 18:30 | EUR | German 12-Month Bubill Auction |  |  | 3.565% |
 | 19:00 | EUR | Reserve Assets Total (Dec) |  |  | 1,145.50B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21:30 | CAD | Manufacturing Sales (MoM) |  | 1.2% | -2.8% |
+| 21:30 | CAD | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
 | 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.341% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.844% |
