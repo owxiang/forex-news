@@ -21,14 +21,14 @@
 | 15:00 | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.2% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
 | 15:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
-| 15:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 15:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
+| 15:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
 | 17:00 | EUR | Low | Consumer Inflation Expectation |  |  | 10.5 |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.580% |
 | 18:00 | EUR | Moderate | German ZEW Current Conditions (Jan) |  | -77.0 | -77.1 |
@@ -44,8 +44,8 @@
 | 21:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 3.8% | 3.9% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.8% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | 0.1% |
-| 21:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.3% | 0.1% |
 | 21:30 | CAD | Low | CPI (YoY) (Dec) |  | 3.3% | 3.1% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.3% | 0.1% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Dec) |  | 3.4% | 3.4% |
 | 21:30 | CAD | Low | Trimmed CPI (YoY) (Dec) |  | 3.5% | 3.5% |
 | 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |

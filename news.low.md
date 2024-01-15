@@ -13,13 +13,13 @@
 | 08:30 | AUD | Private House Approvals |  | -1.7% | 2.2% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.325% |
 | 15:00 | GBP | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
-| 15:00 | EUR | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 15:00 | EUR | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
+| 15:00 | EUR | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 17:00 | EUR | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
-| 17:00 | EUR | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
 | 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
+| 17:00 | EUR | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
 | 17:00 | EUR | Consumer Inflation Expectation |  |  | 10.5 |
 | 17:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.580% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
