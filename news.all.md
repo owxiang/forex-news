@@ -2,14 +2,14 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | Export Price Index (YoY) (Dec) | -2.3% |  | -7.2% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Dec) | -4.1% |  | -8.5% |
+| 05:00 | KRW | Low | Export Price Index (YoY) (Dec) | -2.3% |  | -7.4% |
+| 05:00 | KRW | Low | Import Price Index (YoY) (Dec) | -4.1% |  | -8.8% |
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q4) | -2% |  | -52% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 91.4% |  | 87.3% |
-| 07:30 | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | 2.7% |
-| 07:50 | JPY | Low | PPI (YoY) (Dec) |  | -0.3% | 0.3% |
-| 07:50 | JPY | Low | PPI (MoM) (Dec) |  | 0.0% | 0.2% |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
+| 14 min | AUD | Low | Westpac Consumer Sentiment (Jan) |  |  | 2.7% |
+| 34 min | JPY | Low | PPI (MoM) (Dec) |  | 0.0% | 0.2% |
+| 34 min | JPY | Low | PPI (YoY) (Dec) |  | -0.3% | 0.3% |
+| 44 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
 | 08:30 | AUD | Low | Building Approvals (YoY) |  | -4.60% | -6.10% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) |  | 1.6% | 7.5% |
 | 08:30 | AUD | Low | Private House Approvals |  | -1.7% | 2.2% |
@@ -24,8 +24,8 @@
 | 15:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
 | 15:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
@@ -37,13 +37,13 @@
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) |  | 21.9 | 23.0 |
 | 18:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
 | 19:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | -0.6% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | -0.4% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | -0.6% |
 | 21:15 | CAD | Moderate | Housing Starts (Dec) |  | 243.0K | 212.6K |
 | 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | -5.00 | -14.50 |
 | 21:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 3.8% | 3.9% |
-| 21:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.8% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | 0.1% |
+| 21:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.8% |
 | 21:30 | CAD | Low | CPI (YoY) (Dec) |  | 3.3% | 3.1% |
 | 21:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.3% | 0.1% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Dec) |  | 3.4% | 3.4% |
