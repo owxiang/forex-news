@@ -6,9 +6,9 @@
 | 08:01 | GBP | Rightmove House Price Index (MoM) | 1.3% |  | -1.9% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) | 0.1% |  | -5.1% |
 | 08:30 | AUD | MI Inflation Gauge (MoM) | 1.0% |  | 0.3% |
-| 12:00 | IDR | Export Growth (YoY) (Dec) |  | -8.10% | -8.56% |
-| 12:00 | IDR | Import Growth (YoY) (Dec) |  | 0.40% | 3.29% |
-| 12:00 | IDR | Trade Balance (Dec) |  | 1.92B | 2.41B |
+| 43 min | IDR | Export Growth (YoY) (Dec) |  | -8.10% | -8.56% |
+| 43 min | IDR | Import Growth (YoY) (Dec) |  | 0.40% | 3.29% |
+| 43 min | IDR | Trade Balance (Dec) |  | 1.92B | 2.41B |
 | 14:00 | JPY | Machine Tool Orders (YoY) |  |  | -13.6% |
 | 14:30 | INR | WPI Food (YoY) (Dec) |  |  | 8.18% |
 | 14:30 | INR | WPI Fuel (YoY) (Dec) |  |  | -4.61% |
