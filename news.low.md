@@ -19,9 +19,9 @@
 | 15:00 | EUR | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
 | 15:00 | EUR | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
 | 15:00 | NOK | Trade Balance (Dec) | 77.3B |  | 79.3B |
-| 17:00 | EUR | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
-| 17:00 | EUR | Italian Trade Balance EU (Nov) |  |  | -0.68B |
-| 17:00 | EUR | German GDP Annual |  | -0.30% | 1.90% |
+| 38 min | EUR | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
+| 38 min | EUR | Italian Trade Balance EU (Nov) |  |  | -0.68B |
+| 38 min | EUR | German GDP Annual |  | -0.30% | 1.90% |
 | 18:00 | INR | Exports (USD) |  |  | 33.90B |
 | 18:00 | INR | Imports (USD) |  |  | 54.48B |
 | 18:00 | INR | Trade Balance |  | -21.00B | -20.58B |

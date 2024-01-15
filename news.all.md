@@ -20,11 +20,10 @@
 | 15:00 | EUR | Low | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
 | 15:00 | EUR | Low | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
 | 15:00 | NOK | Low | Trade Balance (Dec) | 77.3B |  | 79.3B |
-| 44 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | EUR | Low | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
-| 17:00 | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.68B |
-| 17:00 | EUR | Low | German GDP Annual |  | -0.30% | 1.90% |
-| 17:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.3% | 0.7% |
+| 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 38 min | EUR | Low | Italian Trade Balance (Nov) |  | 5.200B | 4.699B |
+| 38 min | EUR | Low | Italian Trade Balance EU (Nov) |  |  | -0.68B |
+| 38 min | EUR | Low | German GDP Annual |  | -0.30% | 1.90% |
 | 18:00 | INR | Low | Exports (USD) |  |  | 33.90B |
 | 18:00 | INR | Low | Imports (USD) |  |  | 54.48B |
 | 18:00 | INR | Low | Trade Balance |  | -21.00B | -20.58B |
