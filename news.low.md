@@ -6,8 +6,8 @@
 | 05:00 | KRW | Import Price Index (YoY) (Dec) |  |  | -8.5% |
 | 05:00 | NZD | NZIER QSBO Capacity Utilization (Q4) |  |  | 87.3% |
 | 07:30 | AUD | Westpac Consumer Sentiment (Jan) |  |  | 2.7% |
-| 07:50 | JPY | PPI (MoM) (Dec) |  | 0.0% | 0.2% |
 | 07:50 | JPY | PPI (YoY) (Dec) |  | -0.3% | 0.3% |
+| 07:50 | JPY | PPI (MoM) (Dec) |  | 0.0% | 0.2% |
 | 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.3% |
 | 08:30 | AUD | Building Approvals (YoY) |  | -4.60% | -6.10% |
 | 08:30 | AUD | Private House Approvals |  | -1.7% | 2.2% |
@@ -15,8 +15,8 @@
 | 15:00 | GBP | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
 | 15:00 | EUR | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 15:00 | EUR | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
-| 17:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 17:00 | EUR | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
 | 17:00 | EUR | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
 | 17:00 | EUR | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
