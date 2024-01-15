@@ -16,19 +16,19 @@
 | 14:30 | INR | WPI Food (YoY) (Dec) | 9.38% |  | 8.18% |
 | 14:30 | INR | WPI Fuel (YoY) (Dec) | -2.41% |  | -4.61% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Dec) | -0.71% |  | -0.64% |
-| 15:00 | EUR | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
 | 15:00 | EUR | German WPI (YoY) (Dec) | -2.6% |  | -3.6% |
+| 15:00 | EUR | German WPI (MoM) (Dec) | -0.6% | 0.2% | -0.2% |
 | 15:00 | NOK | Trade Balance (Dec) | 77.3B |  | 79.3B |
 | 17:00 | EUR | Italian Trade Balance (Nov) | 3.889B | 5.200B | 4.732B |
 | 17:00 | EUR | Italian Trade Balance EU (Nov) | -2.39B |  | -0.65B |
 | 17:00 | EUR | German GDP Annual | -0.30% | -0.30% | 1.90% |
-| 43 min | INR | Exports (USD) |  |  | 33.90B |
-| 43 min | INR | Imports (USD) |  |  | 54.48B |
-| 43 min | INR | Trade Balance |  | -21.00B | -20.58B |
-| 43 min | EUR | Industrial Production (YoY) (Nov) |  | -5.9% | -6.6% |
-| 18:30 | EUR | German 12-Month Bubill Auction |  |  | 3.565% |
-| 19:00 | EUR | Reserve Assets Total (Dec) |  |  | 1,145.50B |
+| 18:00 | EUR | Industrial Production (YoY) (Nov) | -6.8% | -5.9% | -6.6% |
+| 11 min | EUR | German 12-Month Bubill Auction |  |  | 3.565% |
+| 41 min | EUR | Reserve Assets Total (Dec) |  |  | 1,145.50B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | INR | Exports (USD) |  |  | 33.90B |
+| 20:00 | INR | Imports (USD) |  |  | 54.48B |
+| 20:00 | INR | Trade Balance |  | -21.00B | -20.58B |
 | 21:30 | CAD | Manufacturing Sales (MoM) |  | 1.0% | -2.8% |
 | 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 151.1K |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.341% |
