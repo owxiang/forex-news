@@ -7,8 +7,8 @@
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q4) | -2% |  | -52% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 91.4% |  | 87.3% |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Jan) | -1.3% |  | 2.7% |
-| 07:50 | JPY | Low | PPI (MoM) (Dec) | 0.3% | 0.0% | 0.3% |
 | 07:50 | JPY | Low | PPI (YoY) (Dec) | 0.0% | -0.3% | 0.3% |
+| 07:50 | JPY | Low | PPI (MoM) (Dec) | 0.3% | 0.0% | 0.3% |
 | 08:30 | AUD | Low | Building Approvals (YoY) | -4.60% | -4.60% | -5.50% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | 1.6% | 1.6% | 7.2% |
 | 08:30 | AUD | Low | Private House Approvals | -1.7% | -1.7% | 2.9% |
@@ -16,19 +16,19 @@
 | 15:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 6.6% | 6.6% | 7.2% |
 | 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) | 6.5% | 6.8% | 7.2% |
 | 15:00 | GBP | Moderate | Claimant Count Change (Dec) | 11.7K | 18.1K | 0.6K |
-| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) | 73K | 50K | 50K |
+| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) | 73K | 50K | 55K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Nov) | 4.2% | 4.3% | 4.2% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Dec) | 3.7% | 3.7% | 3.2% |
 | 15:00 | EUR | High | German CPI (MoM) (Dec) | 0.1% | 0.1% | -0.4% |
-| 15:00 | EUR | Low | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.7% |
 | 15:00 | EUR | Low | German HICP (YoY) (Dec) | 3.8% | 3.8% | 2.3% |
-| 45 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
-| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
-| 17:00 | EUR | Low | Consumer Inflation Expectation |  |  | 10.5 |
+| 15:00 | EUR | Low | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.7% |
+| 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 39 min | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
+| 39 min | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 39 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
+| 39 min | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
+| 39 min | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
+| 39 min | EUR | Low | Consumer Inflation Expectation |  |  | 10.5 |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.580% |
 | 18:00 | EUR | Moderate | German ZEW Current Conditions (Jan) |  | -77.0 | -77.1 |
 | 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Jan) |  | 12.0 | 12.8 |
