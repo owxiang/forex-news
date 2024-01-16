@@ -7,24 +7,24 @@
 | 05:00 | NZD | Moderate | NZIER Business Confidence (Q4) | -2% |  | -52% |
 | 05:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q4) | 91.4% |  | 87.3% |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Jan) | -1.3% |  | 2.7% |
-| 07:50 | JPY | Low | PPI (YoY) (Dec) | 0.0% | -0.3% | 0.3% |
 | 07:50 | JPY | Low | PPI (MoM) (Dec) | 0.3% | 0.0% | 0.3% |
+| 07:50 | JPY | Low | PPI (YoY) (Dec) | 0.0% | -0.3% | 0.3% |
 | 08:30 | AUD | Low | Building Approvals (YoY) | -4.60% | -4.60% | -5.50% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | 1.6% | 1.6% | 7.2% |
 | 08:30 | AUD | Low | Private House Approvals | -1.7% | -1.7% | 2.9% |
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.197% |  | 0.325% |
-| 15:00 | GBP | Low | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
-| 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 6.8% | 7.2% |
-| 15:00 | GBP | Moderate | Claimant Count Change (Dec) |  | 18.1K | 16.0K |
-| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  | 50K | 50K |
-| 15:00 | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.2% |
-| 15:00 | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
-| 15:00 | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
-| 15:00 | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
-| 15:00 | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
+| 38 min | GBP | Low | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
+| 38 min | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 6.8% | 7.2% |
+| 38 min | GBP | Moderate | Claimant Count Change (Dec) |  | 18.1K | 16.0K |
+| 38 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  | 50K | 50K |
+| 38 min | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.2% |
+| 38 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
+| 38 min | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
+| 38 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
+| 38 min | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Dec) |  | 0.2% | -0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Dec) |  | 0.5% | 0.6% |
@@ -41,8 +41,8 @@
 | 21:15 | CAD | Moderate | Housing Starts (Dec) |  | 243.0K | 212.6K |
 | 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | -5.00 | -14.50 |
 | 21:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 3.8% | 3.9% |
-| 21:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | 0.1% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Dec) |  |  | 2.8% |
+| 21:30 | CAD | Moderate | Core CPI (MoM) (Dec) |  |  | 0.1% |
 | 21:30 | CAD | Low | CPI (YoY) (Dec) |  | 3.4% | 3.1% |
 | 21:30 | CAD | Moderate | CPI (MoM) (Dec) |  | -0.3% | 0.1% |
 | 21:30 | CAD | Low | Median CPI (YoY) (Dec) |  | 3.4% | 3.4% |
