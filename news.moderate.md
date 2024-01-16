@@ -10,10 +10,10 @@
 | 15:00 | GBP | Unemployment Rate (Nov) | 4.2% | 4.3% | 4.2% |
 | 15:00 | EUR | German CPI (YoY) (Dec) | 3.7% | 3.7% | 3.2% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 44 min | EUR | German ZEW Current Conditions (Jan) |  | -77.0 | -77.1 |
-| 44 min | EUR | German ZEW Economic Sentiment (Jan) |  | 12.0 | 12.8 |
-| 44 min | EUR | ZEW Economic Sentiment (Jan) |  | 21.9 | 23.0 |
-| 19:10 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | EUR | German ZEW Current Conditions (Jan) | -77.3 | -77.0 | -77.1 |
+| 18:00 | EUR | German ZEW Economic Sentiment (Jan) | 15.2 | 12.0 | 12.8 |
+| 18:00 | EUR | ZEW Economic Sentiment (Jan) | 22.7 | 21.9 | 23.0 |
+| 52 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:15 | CAD | Housing Starts (Dec) |  | 243.0K | 212.6K |
 | 21:30 | USD | NY Empire State Manufacturing Index (Jan) |  | -5.00 | -14.50 |
 | 21:30 | CAD | Core CPI (YoY) (Dec) |  |  | 2.8% |

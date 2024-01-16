@@ -19,12 +19,11 @@
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) | 0.6% |  | 0.7% |
 | 17:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.5% | 0.6% |
-| 24 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.580% |
-| 24 min | EUR | Consumer Inflation Expectation |  |  | 10.5 |
-| 44 min | EUR | ECOFIN Meetings |  |  |  |
-| 18:30 | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | -0.4% |
+| 17:50 | EUR | Spanish 3-Month Letras Auction | 3.506% |  | 3.580% |
+| 18:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12 min | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) |  |  | -0.6% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) |  |  | -0.4% |
 | 21:30 | CAD | Common CPI (YoY) (Dec) |  | 3.8% | 3.9% |
 | 21:30 | CAD | CPI (YoY) (Dec) |  | 3.4% | 3.1% |
 | 21:30 | CAD | Median CPI (YoY) (Dec) |  | 3.4% | 3.4% |
