@@ -4,26 +4,26 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.225% |  | 5.235% |
 | 00:30 | USD | 6-Month Bill Auction | 4.975% |  | 5.030% |
-| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 2.1% |
+| 31 min | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 2.1% |
 | 07:00 | JPY | Reuters Tankan Index (Jan) |  |  | 12 |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Dec) |  | -1.50% | 0.30% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
 | 09:30 | SGD | Trade Balance |  |  | 6.270B |
 | 09:30 | CNY | House Prices (YoY) (Dec) |  |  | -0.2% |
 | 10:00 | CNY | Retail Sales (YoY) (Dec) |  | 8.0% | 10.1% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 7.20% |
 | 11:00 | KRW | M3 Money Supply (Nov) |  |  | 5,177.0B |
 | 11:00 | KRW | M2 Money supply (Nov) |  |  | 1.60% |
-| 15:00 | GBP | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 15:00 | GBP | Core CPI (YoY) (Dec) |  | 4.9% | 5.1% |
+| 15:00 | GBP | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 15:00 | GBP | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
 | 15:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 0.2% |
 | 15:00 | GBP | Core RPI (YoY) (Dec) |  |  | 4.1% |
 | 15:00 | GBP | Core RPI (MoM) (Dec) |  |  | -0.2% |
 | 15:00 | GBP | CPI, n.s.a (Dec) |  |  | 131.70 |
 | 15:00 | GBP | PPI Input (YoY) (Dec) |  | -1.9% | -2.6% |
-| 15:00 | GBP | PPI Output (MoM) (Dec) |  | -0.2% | -0.1% |
 | 15:00 | GBP | PPI Output (YoY) (Dec) |  | 0.4% | -0.2% |
+| 15:00 | GBP | PPI Output (MoM) (Dec) |  | -0.2% | -0.1% |
 | 15:00 | GBP | RPI (MoM) (Dec) |  | 0.4% | -0.1% |
 | 15:00 | GBP | RPI (YoY) (Dec) |  | 5.1% | 5.3% |
 | 15:00 | IDR | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |

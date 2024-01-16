@@ -5,11 +5,11 @@
 | 00:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.225% |  | 5.235% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 4.975% |  | 5.030% |
-| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.6% |
-| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | 2.1% |
+| 31 min | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) |  |  | 2.1% |
+| 31 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.6% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Jan) |  |  | 12 |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) |  | -1.50% | 0.30% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
 | 09:30 | SGD | Low | Trade Balance |  |  | 6.270B |
 | 09:30 | CNY | Low | House Prices (YoY) (Dec) |  |  | -0.2% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) |  | 2.9% | 2.9% |
@@ -24,8 +24,8 @@
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 11:00 | KRW | Low | M3 Money Supply (Nov) |  |  | 5,177.0B |
 | 11:00 | KRW | Low | M2 Money supply (Nov) |  |  | 1.60% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Dec) |  | 4.9% | 5.1% |
+| 15:00 | GBP | Low | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Dec) |  |  | 0.2% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Dec) |  |  | 4.1% |
@@ -35,8 +35,8 @@
 | 15:00 | GBP | Low | CPI, n.s.a (Dec) |  |  | 131.70 |
 | 15:00 | GBP | Low | PPI Input (YoY) (Dec) |  | -1.9% | -2.6% |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Dec) |  | -0.7% | -0.3% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Dec) |  | -0.2% | -0.1% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Dec) |  | 0.4% | -0.2% |
+| 15:00 | GBP | Low | PPI Output (MoM) (Dec) |  | -0.2% | -0.1% |
 | 15:00 | GBP | Low | RPI (MoM) (Dec) |  | 0.4% | -0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Dec) |  | 5.1% | 5.3% |
 | 15:00 | IDR | Low | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
@@ -47,8 +47,8 @@
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | GBP | Low | House Price Index (YoY) |  | -1.9% | -1.2% |
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.739% |
-| 18:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.4% | -0.6% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 3.4% | 3.6% |
+| 18:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.4% | -0.6% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
 | 18:00 | EUR | High | CPI (YoY) (Dec) |  | 2.9% | 2.4% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.3% |
@@ -71,11 +71,11 @@
 | 21:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.2% |
 | 21:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
 | 21:30 | USD | Low | Export Price Index (YoY) |  |  | -5.2% |
-| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.4% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | -0.5% | -0.4% |
+| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.4% |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Dec) |  |  | 0.4% |
-| 21:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 4.09% |
 | 21:30 | USD | High | Retail Sales (MoM) (Dec) |  | 0.4% | 0.3% |
+| 21:30 | USD | Low | Retail Sales (YoY) (Dec) |  |  | 4.09% |
 | 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.6% |
 | 21:30 | CAD | Moderate | Foreign Securities Purchases (Nov) |  |  | -15.75B |
 | 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) |  |  | -8.20B |

@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Waller Speaks |  |  |  |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.6% |
+| 31 min | NZD | Electronic Card Retail Sales (MoM) (Dec) |  |  | 1.6% |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Dec) |  | 2.9% | 2.9% |
 | 10:00 | CNY | GDP (QoQ) (Q4) |  | 1.0% | 1.3% |
 | 10:00 | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 5.2% |
