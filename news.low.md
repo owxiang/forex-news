@@ -1,32 +1,62 @@
-## 16 January 2024 - Low Impact Forex News
+## 17 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Export Price Index (YoY) (Dec) | -2.3% |  | -7.4% |
-| 05:00 | KRW | Import Price Index (YoY) (Dec) | -4.1% |  | -8.8% |
-| 05:00 | NZD | NZIER QSBO Capacity Utilization (Q4) | 91.4% |  | 87.3% |
-| 07:30 | AUD | Westpac Consumer Sentiment (Jan) | -1.3% |  | 2.7% |
-| 07:50 | JPY | PPI (MoM) (Dec) | 0.3% | 0.0% | 0.3% |
-| 07:50 | JPY | PPI (YoY) (Dec) | 0.0% | -0.3% | 0.3% |
-| 08:30 | AUD | Building Approvals (YoY) | -4.60% | -4.60% | -5.50% |
-| 08:30 | AUD | Private House Approvals | -1.7% | -1.7% | 2.9% |
-| 11:35 | JPY | 5-Year JGB Auction | 0.197% |  | 0.325% |
-| 15:00 | GBP | Average Earnings ex Bonus (Nov) | 6.6% | 6.6% | 7.2% |
-| 15:00 | EUR | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.7% |
-| 15:00 | EUR | German HICP (YoY) (Dec) | 3.8% | 3.8% | 2.3% |
-| 17:00 | EUR | Italian CPI (YoY) (Dec) | 0.6% | 0.6% | 0.7% |
-| 17:00 | EUR | Italian CPI (MoM) (Dec) | 0.2% | 0.2% | -0.5% |
-| 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Dec) | 0.6% |  | 0.7% |
-| 17:00 | EUR | Italian HICP (YoY) (Dec) | 0.5% | 0.5% | 0.6% |
-| 17:00 | EUR | Italian HICP (MoM) (Dec) | 0.2% | 0.2% | -0.6% |
-| 17:50 | EUR | Spanish 3-Month Letras Auction | 3.506% |  | 3.580% |
-| 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 18:30 | EUR | German 5-Year Bobl Auction | 2.120% |  | 2.560% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Nov) | 0.4% |  | -0.5% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Nov) | -0.3% |  | -0.3% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | 2.3% |  | 1.2% |
-| 20:00 | USD | Milk Auctions | 3,493.0 |  | 3,363.0 |
-| 21:30 | CAD | Common CPI (YoY) (Dec) | 3.9% | 3.8% | 3.9% |
-| 21:30 | CAD | CPI (YoY) (Dec) | 3.4% | 3.4% | 3.1% |
-| 21:30 | CAD | Median CPI (YoY) (Dec) | 3.6% | 3.4% | 3.6% |
-| 21:30 | CAD | Trimmed CPI (YoY) (Dec) | 3.7% | 3.5% | 3.5% |
+| 9 min | USD | 3-Month Bill Auction |  |  | 5.235% |
+| 9 min | USD | 6-Month Bill Auction |  |  | 5.030% |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) |  |  | 2.1% |
+| 07:00 | JPY | Reuters Tankan Index (Jan) |  |  | 12 |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Dec) |  | -1.50% | 0.30% |
+| 09:30 | SGD | Trade Balance |  |  | 6.270B |
+| 09:30 | CNY | House Prices (YoY) (Dec) |  |  | -0.2% |
+| 10:00 | CNY | Retail Sales (YoY) (Dec) |  | 8.0% | 10.1% |
+| 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 7.20% |
+| 11:00 | KRW | M3 Money Supply (Nov) |  |  | 5,177.0B |
+| 11:00 | KRW | M2 Money supply (Nov) |  |  | 1.60% |
+| 15:00 | GBP | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
+| 15:00 | GBP | Core CPI (YoY) (Dec) |  | 4.9% | 5.1% |
+| 15:00 | GBP | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
+| 15:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 0.2% |
+| 15:00 | GBP | Core RPI (MoM) (Dec) |  |  | -0.2% |
+| 15:00 | GBP | Core RPI (YoY) (Dec) |  |  | 4.1% |
+| 15:00 | GBP | CPI, n.s.a (Dec) |  |  | 131.70 |
+| 15:00 | GBP | PPI Input (YoY) (Dec) |  | -1.9% | -2.6% |
+| 15:00 | GBP | PPI Output (MoM) (Dec) |  | -0.2% | -0.1% |
+| 15:00 | GBP | PPI Output (YoY) (Dec) |  | 0.4% | -0.2% |
+| 15:00 | GBP | RPI (MoM) (Dec) |  | 0.4% | -0.1% |
+| 15:00 | GBP | RPI (YoY) (Dec) |  | 5.1% | 5.3% |
+| 15:00 | IDR | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
+| 15:00 | IDR | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
+| 15:00 | IDR | Loans (YoY) (Dec) |  |  | 9.74% |
+| 15:45 | EUR | French Government Budget Balance (Nov) |  |  | -177.7B |
+| 17:30 | GBP | House Price Index (YoY) |  | -1.9% | -1.2% |
+| 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.739% |
+| 18:00 | EUR | Core CPI (MoM) (Dec) |  | 0.4% | -0.6% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Dec) |  |  | -0.6% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Dec) |  |  | 2.3% |
+| 18:00 | EUR | CPI, n.s.a |  | 124.04 | 123.85 |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Dec) |  | 3.9% | 4.2% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) (Dec) |  | 0.3% | -0.5% |
+| 18:30 | EUR | German 30-Year Bund Auction |  |  | 2.760% |
+| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
+| 19:00 | ZAR | Retail Sales (YoY) (Nov) |  |  | -2.5% |
+| 19:30 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.739% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.81% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 9.9% |
+| 20:00 | USD | MBA Purchase Index |  |  | 148.6 |
+| 20:00 | USD | Mortgage Market Index |  |  | 190.6 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 425.4 |
+| 21:30 | USD | Export Price Index (YoY) |  |  | -5.2% |
+| 21:30 | USD | Import Price Index (YoY) |  |  | -1.4% |
+| 21:30 | USD | Retail Sales (YoY) (Dec) |  |  | 4.09% |
+| 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.6% |
+| 21:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -8.20B |
+| 21:30 | CAD | IPPI (MoM) (Dec) |  | -0.7% | -0.4% |
+| 21:30 | CAD | IPPI (YoY) (Dec) |  |  | -2.3% |
+| 21:30 | CAD | RMPI (YoY) (Dec) |  |  | -4.6% |
+| 21:55 | USD | Redbook (YoY) |  |  | 5.9% |
+| 22:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 22:15 | USD | Capacity Utilization Rate (Dec) |  | 78.7% | 78.8% |
+| 22:15 | USD | Manufacturing Production (MoM) (Dec) |  | 0.0% | 0.3% |
+| 23:00 | USD | NAHB Housing Market Index (Jan) |  | 39 | 37 |
