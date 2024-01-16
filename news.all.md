@@ -13,16 +13,16 @@
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | 1.6% | 1.6% | 7.2% |
 | 08:30 | AUD | Low | Private House Approvals | -1.7% | -1.7% | 2.9% |
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.197% |  | 0.325% |
-| 38 min | GBP | Low | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
-| 38 min | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 6.8% | 7.2% |
-| 38 min | GBP | Moderate | Claimant Count Change (Dec) |  | 18.1K | 16.0K |
-| 38 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) |  | 50K | 50K |
-| 38 min | GBP | Moderate | Unemployment Rate (Nov) |  | 4.3% | 4.2% |
-| 38 min | EUR | Moderate | German CPI (YoY) (Dec) |  | 3.7% | 3.2% |
-| 38 min | EUR | High | German CPI (MoM) (Dec) |  | 0.1% | -0.4% |
-| 38 min | EUR | Low | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
-| 38 min | EUR | Low | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |
-| 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 15:00 | GBP | Low | Average Earnings ex Bonus (Nov) | 6.6% | 6.6% | 7.2% |
+| 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) | 6.5% | 6.8% | 7.2% |
+| 15:00 | GBP | Moderate | Claimant Count Change (Dec) | 11.7K | 18.1K | 0.6K |
+| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Nov) | 73K | 50K | 50K |
+| 15:00 | GBP | Moderate | Unemployment Rate (Nov) | 4.2% | 4.3% | 4.2% |
+| 15:00 | EUR | Moderate | German CPI (YoY) (Dec) | 3.7% | 3.7% | 3.2% |
+| 15:00 | EUR | High | German CPI (MoM) (Dec) | 0.1% | 0.1% | -0.4% |
+| 15:00 | EUR | Low | German HICP (MoM) (Dec) | 0.2% | 0.2% | -0.7% |
+| 15:00 | EUR | Low | German HICP (YoY) (Dec) | 3.8% | 3.8% | 2.3% |
+| 45 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Dec) |  | 0.6% | 0.7% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Dec) |  | 0.2% | -0.5% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Dec) |  |  | 0.7% |
@@ -36,8 +36,8 @@
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Jan) |  | 21.9 | 23.0 |
 | 18:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
 | 19:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | -0.4% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Nov) |  |  | -0.6% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Nov) |  |  | -0.4% |
 | 21:15 | CAD | Moderate | Housing Starts (Dec) |  | 243.0K | 212.6K |
 | 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Jan) |  | -5.00 | -14.50 |
 | 21:30 | CAD | Low | Common CPI (YoY) (Dec) |  | 3.8% | 3.9% |
