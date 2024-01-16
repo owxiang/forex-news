@@ -15,8 +15,8 @@
 | 18:00 | EUR | ZEW Economic Sentiment (Jan) | 22.7 | 21.9 | 23.0 |
 | 19:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:15 | CAD | Housing Starts (Dec) | 249.3K | 243.0K | 210.9K |
-| 10 min | USD | NY Empire State Manufacturing Index (Jan) |  | -5.00 | -14.50 |
-| 10 min | CAD | Core CPI (MoM) (Dec) |  |  | 0.1% |
-| 10 min | CAD | Core CPI (YoY) (Dec) |  |  | 2.8% |
-| 10 min | CAD | CPI (MoM) (Dec) |  | -0.3% | 0.1% |
-| 23:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:30 | USD | NY Empire State Manufacturing Index (Jan) | -43.70 | -5.00 | -14.50 |
+| 21:30 | CAD | Core CPI (YoY) (Dec) | 2.6% |  | 2.8% |
+| 21:30 | CAD | Core CPI (MoM) (Dec) | -0.5% |  | 0.1% |
+| 21:30 | CAD | CPI (MoM) (Dec) | -0.3% | -0.3% | 0.1% |
+| 45 min | GBP | BoE Gov Bailey Speaks |  |  |  |
