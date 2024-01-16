@@ -16,7 +16,7 @@
 | 19:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:15 | CAD | Housing Starts (Dec) | 249.3K | 243.0K | 210.9K |
 | 21:30 | USD | NY Empire State Manufacturing Index (Jan) | -43.70 | -5.00 | -14.50 |
-| 21:30 | CAD | Core CPI (YoY) (Dec) | 2.6% |  | 2.8% |
 | 21:30 | CAD | Core CPI (MoM) (Dec) | -0.5% |  | 0.1% |
+| 21:30 | CAD | Core CPI (YoY) (Dec) | 2.6% |  | 2.8% |
 | 21:30 | CAD | CPI (MoM) (Dec) | -0.3% | -0.3% | 0.1% |
-| 45 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
