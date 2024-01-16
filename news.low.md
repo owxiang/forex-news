@@ -10,7 +10,7 @@
 | 07:50 | JPY | PPI (YoY) (Dec) | 0.0% | -0.3% | 0.3% |
 | 08:30 | AUD | Building Approvals (YoY) | -4.60% | -4.60% | -5.50% |
 | 08:30 | AUD | Private House Approvals | -1.7% | -1.7% | 2.9% |
-| 11:35 | JPY | 5-Year JGB Auction |  |  | 0.325% |
+| 17 min | JPY | 5-Year JGB Auction |  |  | 0.325% |
 | 15:00 | GBP | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
 | 15:00 | EUR | German HICP (MoM) (Dec) |  | 0.2% | -0.7% |
 | 15:00 | EUR | German HICP (YoY) (Dec) |  | 3.8% | 2.3% |

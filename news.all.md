@@ -12,7 +12,7 @@
 | 08:30 | AUD | Low | Building Approvals (YoY) | -4.60% | -4.60% | -5.50% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) | 1.6% | 1.6% | 7.2% |
 | 08:30 | AUD | Low | Private House Approvals | -1.7% | -1.7% | 2.9% |
-| 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.325% |
+| 17 min | JPY | Low | 5-Year JGB Auction |  |  | 0.325% |
 | 15:00 | GBP | Low | Average Earnings ex Bonus (Nov) |  | 6.6% | 7.3% |
 | 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Nov) |  | 6.8% | 7.2% |
 | 15:00 | GBP | Moderate | Claimant Count Change (Dec) |  | 18.1K | 16.0K |
