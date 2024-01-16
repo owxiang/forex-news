@@ -5,19 +5,19 @@
 | 00:30 | USD | 3-Month Bill Auction | 5.225% |  | 5.235% |
 | 00:30 | USD | 6-Month Bill Auction | 4.975% |  | 5.030% |
 | 05:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) | -0.6% |  | 2.1% |
-| 45 min | JPY | Reuters Tankan Index (Jan) |  |  | 12 |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
+| 07:00 | JPY | Reuters Tankan Index (Jan) | 6 |  | 12 |
 | 08:30 | SGD | Non-Oil Exports (MoM) (Dec) |  | -1.50% | 0.30% |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Dec) |  | 3.30% | 1.00% |
 | 09:30 | SGD | Trade Balance |  |  | 6.270B |
 | 09:30 | CNY | House Prices (YoY) (Dec) |  |  | -0.2% |
 | 10:00 | CNY | Retail Sales (YoY) (Dec) |  | 8.0% | 10.1% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) |  |  | 7.20% |
 | 11:00 | KRW | M3 Money Supply (Nov) |  |  | 5,177.0B |
 | 11:00 | KRW | M2 Money supply (Nov) |  |  | 1.60% |
-| 15:00 | GBP | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 15:00 | GBP | Core CPI (YoY) (Dec) |  | 4.9% | 5.1% |
-| 15:00 | GBP | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
+| 15:00 | GBP | Core CPI (MoM) (Dec) |  | 0.4% | -0.3% |
 | 15:00 | GBP | Core PPI Output (YoY) (Dec) |  |  | 0.2% |
+| 15:00 | GBP | Core PPI Output (MoM) (Dec) |  |  | 0.0% |
 | 15:00 | GBP | Core RPI (MoM) (Dec) |  |  | -0.2% |
 | 15:00 | GBP | Core RPI (YoY) (Dec) |  |  | 4.1% |
 | 15:00 | GBP | CPI, n.s.a (Dec) |  |  | 131.70 |
@@ -52,8 +52,8 @@
 | 21:30 | USD | Retail Sales (YoY) (Dec) |  |  | 4.09% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.6% |
 | 21:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -8.20B |
-| 21:30 | CAD | IPPI (MoM) (Dec) |  | -0.7% | -0.4% |
 | 21:30 | CAD | IPPI (YoY) (Dec) |  |  | -2.3% |
+| 21:30 | CAD | IPPI (MoM) (Dec) |  | -0.7% | -0.4% |
 | 21:30 | CAD | RMPI (YoY) (Dec) |  |  | -4.6% |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.9% |
 | 22:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
