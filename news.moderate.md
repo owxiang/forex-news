@@ -13,13 +13,13 @@
 | 10:00 | CNY | NBS Press Conference |  |  |  |
 | 15:00 | GBP | CPI (MoM) (Dec) | 0.4% | 0.2% | -0.2% |
 | 15:00 | GBP | PPI Input (MoM) (Dec) | -1.2% | -0.7% | -0.4% |
-| 14 min | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
-| 44 min | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 15:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
+| 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 18:00 | EUR | Core CPI (YoY) (Dec) |  | 3.4% | 3.6% |
 | 18:00 | EUR | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
 | 20:00 | USD | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Retail Sales (YoY) (Nov) |  | 2.1% | 0.2% |
 | 20:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | -0.3% |
+| 20:00 | BRL | Retail Sales (YoY) (Nov) |  | 2.1% | 0.2% |
 | 21:30 | USD | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
 | 21:30 | USD | Import Price Index (MoM) (Dec) |  | -0.5% | -0.4% |
 | 21:30 | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
