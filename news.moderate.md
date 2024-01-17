@@ -27,8 +27,8 @@
 | 21:30 | CAD | RMPI (MoM) (Dec) |  | -1.6% | -4.2% |
 | 22:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 22:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 22:15 | USD | Industrial Production (MoM) (Dec) |  | 0.0% | 0.2% |
 | 22:15 | USD | Industrial Production (YoY) (Dec) |  |  | -0.39% |
+| 22:15 | USD | Industrial Production (MoM) (Dec) |  | 0.0% | 0.2% |
 | 23:00 | USD | Business Inventories (MoM) (Nov) |  | -0.1% | -0.1% |
 | 23:00 | USD | Retail Inventories Ex Auto (Nov) |  | -0.8% | -0.9% |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
