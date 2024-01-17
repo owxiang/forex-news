@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | 542.3B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 296.2B |
-| 08:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
+| 32 min | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
+| 32 min | JPY | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
+| 32 min | JPY | Foreign Bonds Buying |  |  | 542.3B |
+| 32 min | JPY | Foreign Investments in Japanese Stocks |  |  | 296.2B |
+| 42 min | AUD | MI Inflation Expectations |  |  | 4.5% |
 | 08:30 | AUD | Participation Rate (Dec) |  | 67.1% | 67.2% |
 | 08:30 | AUD | Reserve Assets Total (Dec) |  |  | 91.9B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Dec) |  |  | 56.80% |

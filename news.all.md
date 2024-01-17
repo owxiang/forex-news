@@ -9,12 +9,12 @@
 | 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.483M | -2.400M | -5.215M |
 | 05:45 | NZD | Low | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 542.3B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 296.2B |
-| 08:00 | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
-| 08:01 | GBP | Moderate | RICS House Price Balance (Dec) |  | -34% | -43% |
+| 32 min | JPY | Low | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
+| 32 min | JPY | Low | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
+| 32 min | JPY | Low | Foreign Bonds Buying |  |  | 542.3B |
+| 32 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 296.2B |
+| 42 min | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
+| 43 min | GBP | Moderate | RICS House Price Balance (Dec) |  | -34% | -43% |
 | 08:30 | AUD | Moderate | Employment Change (Dec) |  | 17.6K | 61.5K |
 | 08:30 | AUD | Moderate | Full Employment Change (Dec) |  |  | 57.0K |
 | 08:30 | AUD | Low | Participation Rate (Dec) |  | 67.1% | 67.2% |
