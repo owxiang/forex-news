@@ -1,34 +1,26 @@
-## 17 January 2024 - Moderate Impact Forex News
+## 18 January 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | Fed Waller Speaks |  |  |  |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) | -2.0% |  | 1.7% |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Dec) | 3.0% | 2.9% | 2.9% |
-| 10:00 | CNY | GDP (QoQ) (Q4) | 1.0% | 1.0% | 1.5% |
-| 10:00 | CNY | Chinese GDP YTD (YoY) (Q4) | 5.2% |  | 5.2% |
-| 10:00 | CNY | Industrial Production (YoY) (Dec) | 6.8% | 6.6% | 6.6% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) | 4.6% |  | 4.3% |
-| 10:00 | CNY | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
-| 15:00 | GBP | CPI (MoM) (Dec) | 0.4% | 0.2% | -0.2% |
-| 15:00 | GBP | PPI Input (MoM) (Dec) | -1.2% | -0.7% | -0.4% |
-| 15:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
+| 02:00 | USD | 20-Year Bond Auction |  |  | 4.213% |
+| 02:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 02:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 03:00 | USD | Beige Book |  |  |  |
+| 04:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
+| 08:01 | GBP | RICS House Price Balance (Dec) |  | -34% | -43% |
+| 08:30 | AUD | Employment Change (Dec) |  | 17.6K | 61.5K |
+| 08:30 | AUD | Full Employment Change (Dec) |  |  | 57.0K |
+| 08:30 | AUD | Unemployment Rate (Dec) |  | 3.9% | 3.9% |
+| 12:30 | JPY | Industrial Production (MoM) (Nov) |  | -0.9% | 1.3% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 18:00 | EUR | Core CPI (YoY) (Dec) | 3.4% | 3.4% | 3.6% |
-| 18:00 | EUR | CPI (MoM) (Dec) | 0.2% | 0.2% | -0.6% |
-| 20:00 | USD | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Retail Sales (MoM) (Nov) | 0.1% | 0.1% | -0.3% |
-| 20:00 | BRL | Retail Sales (YoY) (Nov) | 2.2% | 2.1% | 0.2% |
-| 21:30 | USD | Export Price Index (MoM) (Dec) | -0.9% | -0.6% | -0.9% |
-| 21:30 | USD | Import Price Index (MoM) (Dec) | 0.0% | -0.5% | -0.5% |
-| 21:30 | USD | Retail Control (MoM) (Dec) | 0.8% |  | 0.5% |
-| 21:30 | CAD | Foreign Securities Purchases (Nov) | 11.43B |  | -15.88B |
-| 21:30 | CAD | RMPI (MoM) (Dec) | -4.9% | -1.6% | -4.9% |
-| 22:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 22:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 22:15 | USD | Industrial Production (YoY) (Dec) | 0.98% |  | -0.62% |
-| 22:15 | USD | Industrial Production (MoM) (Dec) | 0.1% | 0.0% | 0.2% |
-| 23:00 | USD | Business Inventories (MoM) (Nov) | -0.1% | -0.1% | -0.1% |
-| 23:00 | USD | Retail Inventories Ex Auto (Nov) | -0.9% | -0.8% | -0.9% |
+| 17:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 18:30 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 21:30 | USD | Building Permits (Dec) |  | 1.480M | 1.467M |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,845K | 1,834K |
+| 21:30 | USD | Housing Starts (MoM) (Dec) |  |  | 14.8% |
+| 21:30 | USD | Housing Starts (Dec) |  | 1.426M | 1.560M |
+| 21:30 | USD | Philly Fed Employment (Jan) |  |  | -1.7 |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
