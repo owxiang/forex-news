@@ -8,8 +8,8 @@
 | 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Dec) | -0.6% |  | 2.1% |
 | 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Dec) | -2.0% |  | 1.7% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Jan) | 6 |  | 12 |
-| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | -1.50% | 3.30% | 1.00% |
 | 08:30 | SGD | Low | Non-Oil Exports (MoM) (Dec) | -2.80% | -1.50% | 0.30% |
+| 08:30 | SGD | Low | Non-Oil Exports (YoY) (Dec) | -1.50% | 3.30% | 1.00% |
 | 09:30 | SGD | Low | Trade Balance | 7.778B |  | 6.153B |
 | 09:30 | CNY | Low | House Prices (YoY) (Dec) | -0.4% |  | -0.2% |
 | 10:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Dec) | 3.0% | 2.9% | 2.9% |
@@ -24,10 +24,10 @@
 | 10:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 11:00 | KRW | Low | M3 Money Supply (Nov) | 5,283.9B |  | 5,177.0B |
 | 11:00 | KRW | Low | M2 Money supply (Nov) | 2.40% |  | 1.60% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Dec) | 0.6% | 0.4% | -0.3% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Dec) | 5.1% | 4.9% | 5.1% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
+| 15:00 | GBP | Low | Core CPI (MoM) (Dec) | 0.6% | 0.4% | -0.3% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Dec) | 0.1% |  | 0.2% |
+| 15:00 | GBP | Low | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Dec) | 4.0% |  | 4.1% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.4% |  | -0.2% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.4% | 0.2% | -0.2% |
@@ -48,8 +48,8 @@
 | 17:30 | GBP | Low | House Price Index (YoY) | -2.1% | -1.9% | -1.3% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Dec) | 3.4% | 3.4% | 3.6% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Dec) | 0.5% | 0.4% | -0.6% |
-| 18:00 | EUR | High | CPI (YoY) (Dec) | 2.9% | 2.9% | 2.4% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Dec) | 0.2% | 0.2% | -0.6% |
+| 18:00 | EUR | High | CPI (YoY) (Dec) | 2.9% | 2.9% | 2.4% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) | 0.2% |  | -0.6% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) | 2.8% |  | 2.3% |
 | 18:00 | EUR | Low | CPI, n.s.a | 124.05 | 124.04 | 123.85 |
@@ -73,24 +73,24 @@
 | 21:30 | USD | Low | Import Price Index (YoY) | -1.6% |  | -1.4% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Dec) | 0.0% | -0.5% | -0.5% |
 | 21:30 | USD | Moderate | Retail Control (MoM) (Dec) | 0.8% |  | 0.5% |
-| 21:30 | USD | High | Retail Sales (MoM) (Dec) | 0.6% | 0.4% | 0.3% |
 | 21:30 | USD | Low | Retail Sales (YoY) (Dec) | 5.59% |  | 3.97% |
+| 21:30 | USD | High | Retail Sales (MoM) (Dec) | 0.6% | 0.4% | 0.3% |
 | 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.6% |  | 0.6% |
 | 21:30 | CAD | Moderate | Foreign Securities Purchases (Nov) | 11.43B |  | -15.88B |
 | 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Nov) | 12.53B |  | -8.20B |
 | 21:30 | CAD | Low | IPPI (MoM) (Dec) | -1.5% | -0.7% | -0.3% |
 | 21:30 | CAD | Low | IPPI (YoY) (Dec) | -2.7% |  | -2.0% |
-| 21:30 | CAD | Low | RMPI (YoY) (Dec) | -7.9% |  | -5.4% |
 | 21:30 | CAD | Moderate | RMPI (MoM) (Dec) | -4.9% | -1.6% | -4.9% |
+| 21:30 | CAD | Low | RMPI (YoY) (Dec) | -7.9% |  | -5.4% |
 | 21:55 | USD | Low | Redbook (YoY) | 5.0% |  | 5.9% |
 | 22:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 22:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 22:15 | USD | Low | Capacity Utilization Rate (Dec) | 78.6% | 78.7% | 78.6% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Dec) | 0.98% |  | -0.62% |
 | 22:15 | USD | Moderate | Industrial Production (MoM) (Dec) | 0.1% | 0.0% | 0.2% |
-| 22:15 | USD | Moderate | Industrial Production (YoY) (Dec) | 1.00% |  | -0.39% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Dec) | 0.1% | 0.0% | 0.2% |
-| 44 min | USD | Moderate | Business Inventories (MoM) (Nov) |  | -0.1% | -0.1% |
-| 44 min | USD | Low | NAHB Housing Market Index (Jan) |  | 39 | 37 |
-| 44 min | USD | Moderate | Retail Inventories Ex Auto (Nov) |  | -0.8% | -0.9% |
-| 59 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:00 | USD | Moderate | Business Inventories (MoM) (Nov) | -0.1% | -0.1% | -0.1% |
+| 23:00 | USD | Low | NAHB Housing Market Index (Jan) | 44 | 39 | 37 |
+| 23:00 | USD | Moderate | Retail Inventories Ex Auto (Nov) | -0.9% | -0.8% | -0.9% |
+| 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
