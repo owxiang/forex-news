@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | CNY | GDP (YoY) (Q4) |  | 5.3% | 4.9% |
+| 46 min | CNY | GDP (YoY) (Q4) |  | 5.3% | 4.9% |
 | 15:00 | GBP | CPI (YoY) (Dec) |  | 3.8% | 3.9% |
 | 18:00 | EUR | CPI (YoY) (Dec) |  | 2.9% | 2.4% |
 | 21:30 | USD | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.2% |

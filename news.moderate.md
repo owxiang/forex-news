@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Waller Speaks |  |  |  |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) | -2.0% |  | 1.7% |
-| 10:00 | CNY | Fixed Asset Investment (YoY) (Dec) |  | 2.9% | 2.9% |
-| 10:00 | CNY | GDP (QoQ) (Q4) |  | 1.0% | 1.3% |
-| 10:00 | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 5.2% |
-| 10:00 | CNY | Industrial Production (YoY) (Dec) |  | 6.6% | 6.6% |
-| 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 4.3% |
-| 10:00 | CNY | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
-| 10:00 | CNY | NBS Press Conference |  |  |  |
+| 46 min | CNY | Fixed Asset Investment (YoY) (Dec) |  | 2.9% | 2.9% |
+| 46 min | CNY | GDP (QoQ) (Q4) |  | 1.0% | 1.3% |
+| 46 min | CNY | Chinese GDP YTD (YoY) (Q4) |  |  | 5.2% |
+| 46 min | CNY | Industrial Production (YoY) (Dec) |  | 6.6% | 6.6% |
+| 46 min | CNY | Chinese Industrial Production YTD (YoY) (Dec) |  |  | 4.3% |
+| 46 min | CNY | Chinese Unemployment Rate (Dec) |  | 5.0% | 5.0% |
+| 46 min | CNY | NBS Press Conference |  |  |  |
 | 15:00 | GBP | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
 | 15:00 | GBP | PPI Input (MoM) (Dec) |  | -0.7% | -0.3% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
