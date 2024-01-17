@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | FPI (MoM) (Dec) |  |  | -0.2% |
+| 30 min | NZD | FPI (MoM) (Dec) |  |  | -0.2% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 542.3B |

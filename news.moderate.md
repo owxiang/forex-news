@@ -7,7 +7,7 @@
 | 02:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Beige Book |  |  |  |
 | 04:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
+| 15 min | USD | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
 | 08:01 | GBP | RICS House Price Balance (Dec) |  | -34% | -43% |
 | 08:30 | AUD | Employment Change (Dec) |  | 17.6K | 61.5K |
 | 08:30 | AUD | Full Employment Change (Dec) |  |  | 57.0K |

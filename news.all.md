@@ -7,8 +7,8 @@
 | 02:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Moderate | Beige Book |  |  |  |
 | 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
-| 05:45 | NZD | Low | FPI (MoM) (Dec) |  |  | -0.2% |
+| 15 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
+| 30 min | NZD | Low | FPI (MoM) (Dec) |  |  | -0.2% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 542.3B |
