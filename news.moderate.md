@@ -11,8 +11,8 @@
 | 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) | 4.6% |  | 4.3% |
 | 10:00 | CNY | Chinese Unemployment Rate (Dec) | 5.1% | 5.0% | 5.0% |
 | 10:00 | CNY | NBS Press Conference |  |  |  |
-| 15:00 | GBP | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
-| 15:00 | GBP | PPI Input (MoM) (Dec) |  | -0.7% | -0.3% |
+| 39 min | GBP | CPI (MoM) (Dec) |  | 0.2% | -0.2% |
+| 39 min | GBP | PPI Input (MoM) (Dec) |  | -0.7% | -0.3% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 18:00 | EUR | Core CPI (YoY) (Dec) |  | 3.4% | 3.6% |
