@@ -2,11 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 15 min | BRL | Low | Foreign Exchange Flows |  |  | -2.062B |
-| 45 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.213% |
-| 45 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
-| 02:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 03:00 | USD | Moderate | Beige Book |  |  |  |
+| 02:00 | USD | Moderate | 20-Year Bond Auction | 4.423% |  | 4.213% |
+| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.2% | 2.2% |
+| 9 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 39 min | USD | Moderate | Beige Book |  |  |  |
 | 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
 | 05:45 | NZD | Low | FPI (MoM) (Dec) |  |  | -0.2% |
@@ -27,12 +26,12 @@
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -0.9% | 1.3% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
+| 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) |  |  | -2.2 |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Dec) |  |  | 2.9% |
@@ -54,8 +53,8 @@
 | 21:30 | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
 | 21:30 | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 207K | 202K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -7.0 | -10.5 |

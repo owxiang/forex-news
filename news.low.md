@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15 min | BRL | Foreign Exchange Flows |  |  | -2.062B |
 | 05:45 | NZD | FPI (MoM) (Dec) |  |  | -0.2% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
@@ -16,12 +15,12 @@
 | 12:30 | JPY | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
 | 15:00 | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
 | 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 12.2% |
-| 15:00 | EUR | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | French Car Registration (YoY) (Dec) |  |  | 14.0% |
+| 15:00 | EUR | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | NOK | Industrial Confidence (Q4) |  |  | -2.2 |
 | 16:30 | HKD | Unemployment Rate (Dec) |  |  | 2.9% |
 | 17:00 | EUR | Spanish Trade Balance |  |  | -5.10B |

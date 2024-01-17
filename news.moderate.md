@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | USD | 20-Year Bond Auction |  |  | 4.213% |
-| 45 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
-| 02:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 03:00 | USD | Beige Book |  |  |  |
+| 02:00 | USD | 20-Year Bond Auction | 4.423% |  | 4.213% |
+| 02:00 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.2% | 2.2% |
+| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 39 min | USD | Beige Book |  |  |  |
 | 04:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
 | 08:01 | GBP | RICS House Price Balance (Dec) |  | -34% | -43% |
@@ -20,7 +20,7 @@
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Building Permits (Dec) |  | 1.480M | 1.467M |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,845K | 1,834K |
-| 21:30 | USD | Housing Starts (MoM) (Dec) |  |  | 14.8% |
 | 21:30 | USD | Housing Starts (Dec) |  | 1.426M | 1.560M |
+| 21:30 | USD | Housing Starts (MoM) (Dec) |  |  | 14.8% |
 | 21:30 | USD | Philly Fed Employment (Jan) |  |  | -1.7 |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
