@@ -5,7 +5,7 @@
 | 00:00 | USD | Fed Waller Speaks |  |  |  |
 | 05:45 | NZD | Electronic Card Retail Sales (MoM) (Dec) | -2.0% |  | 1.7% |
 | 10:00 | CNY | Fixed Asset Investment (YoY) (Dec) | 3.0% | 2.9% | 2.9% |
-| 10:00 | CNY | GDP (QoQ) (Q4) | 1.0% | 1.0% | 1.3% |
+| 10:00 | CNY | GDP (QoQ) (Q4) | 1.0% | 1.0% | 1.5% |
 | 10:00 | CNY | Chinese GDP YTD (YoY) (Q4) | 5.2% |  | 5.2% |
 | 10:00 | CNY | Industrial Production (YoY) (Dec) | 6.8% | 6.6% | 6.6% |
 | 10:00 | CNY | Chinese Industrial Production YTD (YoY) (Dec) | 4.6% |  | 4.3% |
@@ -18,8 +18,8 @@
 | 18:00 | EUR | Core CPI (YoY) (Dec) |  | 3.4% | 3.6% |
 | 18:00 | EUR | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
 | 20:00 | USD | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | -0.3% |
 | 20:00 | BRL | Retail Sales (YoY) (Nov) |  | 2.1% | 0.2% |
+| 20:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | -0.3% |
 | 21:30 | USD | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
 | 21:30 | USD | Import Price Index (MoM) (Dec) |  | -0.5% | -0.4% |
 | 21:30 | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
