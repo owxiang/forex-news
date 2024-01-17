@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 20-Year Bond Auction |  |  | 4.213% |
-| 02:00 | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 45 min | USD | 20-Year Bond Auction |  |  | 4.213% |
+| 45 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
 | 02:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Beige Book |  |  |  |
 | 04:00 | USD | FOMC Member Williams Speaks |  |  |  |

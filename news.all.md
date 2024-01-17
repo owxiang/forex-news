@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.062B |
-| 02:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.213% |
-| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
+| 15 min | BRL | Low | Foreign Exchange Flows |  |  | -2.062B |
+| 45 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.213% |
+| 45 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.2% | 2.2% |
 | 02:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 03:00 | USD | Moderate | Beige Book |  |  |  |
 | 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
@@ -29,8 +29,8 @@
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) |  |  | -2.2 |
