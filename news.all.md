@@ -28,15 +28,15 @@
 | 15:00 | GBP | Low | Core CPI (YoY) (Dec) | 5.1% | 4.9% | 5.1% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Dec) | 0.0% |  | 0.0% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Dec) | 0.1% |  | 0.2% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Dec) | 4.0% |  | 4.1% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Dec) | 0.4% |  | -0.2% |
+| 15:00 | GBP | Low | Core RPI (YoY) (Dec) | 4.0% |  | 4.1% |
 | 15:00 | GBP | High | CPI (YoY) (Dec) | 4.0% | 3.8% | 3.9% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Dec) | 0.4% | 0.2% | -0.2% |
 | 15:00 | GBP | Low | CPI, n.s.a (Dec) | 132.20 |  | 131.70 |
 | 15:00 | GBP | Low | PPI Input (YoY) (Dec) | -2.8% | -1.9% | -2.7% |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Dec) | -1.2% | -0.7% | -0.4% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Dec) | -0.6% | -0.2% | 0.0% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Dec) | 0.1% | 0.4% | -0.1% |
+| 15:00 | GBP | Low | PPI Output (MoM) (Dec) | -0.6% | -0.2% | 0.0% |
 | 15:00 | GBP | Low | RPI (MoM) (Dec) | 0.5% | 0.4% | -0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Dec) | 5.2% | 5.1% | 5.3% |
 | 15:00 | IDR | Low | Deposit Facility Rate (Jan) | 5.25% | 5.25% | 5.25% |
@@ -45,17 +45,17 @@
 | 15:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 15:45 | EUR | Low | French Government Budget Balance (Nov) | -198.0B |  | -177.7B |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 17:30 | GBP | Low | House Price Index (YoY) |  | -1.9% | -1.2% |
-| 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.739% |
-| 18:00 | EUR | Low | Core CPI (MoM) (Dec) |  | 0.4% | -0.6% |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Dec) |  | 3.4% | 3.6% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
-| 18:00 | EUR | High | CPI (YoY) (Dec) |  | 2.9% | 2.4% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.3% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.6% |
-| 18:00 | EUR | Low | CPI, n.s.a |  | 124.04 | 123.85 |
-| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 3.9% | 4.2% |
-| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.3% | -0.5% |
+| 13 min | GBP | Low | House Price Index (YoY) |  | -1.9% | -1.2% |
+| 43 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.739% |
+| 43 min | EUR | Low | Core CPI (MoM) (Dec) |  | 0.4% | -0.6% |
+| 43 min | EUR | Moderate | Core CPI (YoY) (Dec) |  | 3.4% | 3.6% |
+| 43 min | EUR | Moderate | CPI (MoM) (Dec) |  | 0.2% | -0.6% |
+| 43 min | EUR | High | CPI (YoY) (Dec) |  | 2.9% | 2.4% |
+| 43 min | EUR | Low | CPI ex Tobacco (MoM) (Dec) |  |  | -0.6% |
+| 43 min | EUR | Low | CPI ex Tobacco (YoY) (Dec) |  |  | 2.3% |
+| 43 min | EUR | Low | CPI, n.s.a |  | 124.04 | 123.85 |
+| 43 min | EUR | Low | HICP ex Energy & Food (YoY) (Dec) |  | 3.9% | 4.2% |
+| 43 min | EUR | Low | HICP ex Energy and Food (MoM) (Dec) |  | 0.3% | -0.5% |
 | 18:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.760% |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Nov) |  |  | -2.5% |
@@ -69,8 +69,8 @@
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Nov) |  | 0.1% | -0.3% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Nov) |  | 2.1% | 0.2% |
 | 21:30 | USD | High | Core Retail Sales (MoM) (Dec) |  | 0.2% | 0.2% |
-| 21:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
 | 21:30 | USD | Low | Export Price Index (YoY) |  |  | -5.2% |
+| 21:30 | USD | Moderate | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
 | 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.4% |
 | 21:30 | USD | Moderate | Import Price Index (MoM) (Dec) |  | -0.5% | -0.4% |
 | 21:30 | USD | Low | Import Price Index ex Petroleum (MoM) |  |  | 0.2% |
