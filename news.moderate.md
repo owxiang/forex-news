@@ -20,15 +20,15 @@
 | 20:00 | USD | OPEC Monthly Report |  |  |  |
 | 20:00 | BRL | Retail Sales (MoM) (Nov) | 0.1% | 0.1% | -0.3% |
 | 20:00 | BRL | Retail Sales (YoY) (Nov) | 2.2% | 2.1% | 0.2% |
-| 10 min | USD | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
-| 10 min | USD | Import Price Index (MoM) (Dec) |  | -0.5% | -0.4% |
-| 10 min | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
-| 10 min | CAD | Foreign Securities Purchases (Nov) |  |  | -15.75B |
-| 10 min | CAD | RMPI (MoM) (Dec) |  | -1.6% | -4.2% |
-| 40 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 55 min | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 55 min | USD | Industrial Production (YoY) (Dec) |  |  | -0.39% |
-| 55 min | USD | Industrial Production (MoM) (Dec) |  | 0.0% | 0.2% |
-| 23:00 | USD | Business Inventories (MoM) (Nov) |  | -0.1% | -0.1% |
-| 23:00 | USD | Retail Inventories Ex Auto (Nov) |  | -0.8% | -0.9% |
-| 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:30 | USD | Export Price Index (MoM) (Dec) | -0.9% | -0.6% | -0.9% |
+| 21:30 | USD | Import Price Index (MoM) (Dec) | 0.0% | -0.5% | -0.5% |
+| 21:30 | USD | Retail Control (MoM) (Dec) | 0.8% |  | 0.5% |
+| 21:30 | CAD | Foreign Securities Purchases (Nov) | 11.43B |  | -15.88B |
+| 21:30 | CAD | RMPI (MoM) (Dec) | -4.9% | -1.6% | -4.9% |
+| 22:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 22:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 22:15 | USD | Industrial Production (MoM) (Dec) | 0.1% | 0.0% | 0.2% |
+| 22:15 | USD | Industrial Production (YoY) (Dec) | 1.00% |  | -0.39% |
+| 44 min | USD | Business Inventories (MoM) (Nov) |  | -0.1% | -0.1% |
+| 44 min | USD | Retail Inventories Ex Auto (Nov) |  | -0.8% | -0.9% |
+| 59 min | EUR | ECB President Lagarde Speaks |  |  |  |

@@ -22,8 +22,8 @@
 | 15:00 | GBP | Core RPI (MoM) (Dec) | 0.4% |  | -0.2% |
 | 15:00 | GBP | CPI, n.s.a (Dec) | 132.20 |  | 131.70 |
 | 15:00 | GBP | PPI Input (YoY) (Dec) | -2.8% | -1.9% | -2.7% |
-| 15:00 | GBP | PPI Output (MoM) (Dec) | -0.6% | -0.2% | 0.0% |
 | 15:00 | GBP | PPI Output (YoY) (Dec) | 0.1% | 0.4% | -0.1% |
+| 15:00 | GBP | PPI Output (MoM) (Dec) | -0.6% | -0.2% | 0.0% |
 | 15:00 | GBP | RPI (MoM) (Dec) | 0.5% | 0.4% | -0.1% |
 | 15:00 | GBP | RPI (YoY) (Dec) | 5.2% | 5.1% | 5.3% |
 | 15:00 | IDR | Deposit Facility Rate (Jan) | 5.25% | 5.25% | 5.25% |
@@ -46,17 +46,16 @@
 | 20:00 | USD | MBA Purchase Index | 162.2 |  | 148.6 |
 | 20:00 | USD | Mortgage Market Index | 210.5 |  | 190.6 |
 | 20:00 | USD | Mortgage Refinance Index | 471.2 |  | 425.4 |
-| 10 min | USD | Export Price Index (YoY) |  |  | -5.2% |
-| 10 min | USD | Import Price Index (YoY) |  |  | -1.4% |
-| 10 min | USD | Import Price Index ex Petroleum (MoM) |  |  | 0.2% |
-| 10 min | USD | Retail Sales (YoY) (Dec) |  |  | 4.09% |
-| 10 min | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.6% |
-| 10 min | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -8.20B |
-| 10 min | CAD | IPPI (MoM) (Dec) |  | -0.7% | -0.4% |
-| 10 min | CAD | IPPI (YoY) (Dec) |  |  | -2.3% |
-| 10 min | CAD | RMPI (YoY) (Dec) |  |  | -4.6% |
-| 35 min | USD | Redbook (YoY) |  |  | 5.9% |
-| 40 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 55 min | USD | Capacity Utilization Rate (Dec) |  | 78.7% | 78.8% |
-| 55 min | USD | Manufacturing Production (MoM) (Dec) |  | 0.0% | 0.3% |
-| 23:00 | USD | NAHB Housing Market Index (Jan) |  | 39 | 37 |
+| 21:30 | USD | Export Price Index (YoY) | -3.2% |  | -5.2% |
+| 21:30 | USD | Import Price Index (YoY) | -1.6% |  | -1.4% |
+| 21:30 | USD | Retail Sales (YoY) (Dec) | 5.59% |  | 3.97% |
+| 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) | 0.6% |  | 0.6% |
+| 21:30 | CAD | Foreign Securities Purchases by Canadians (Nov) | 12.53B |  | -8.20B |
+| 21:30 | CAD | IPPI (MoM) (Dec) | -1.5% | -0.7% | -0.3% |
+| 21:30 | CAD | IPPI (YoY) (Dec) | -2.7% |  | -2.0% |
+| 21:30 | CAD | RMPI (YoY) (Dec) | -7.9% |  | -5.4% |
+| 21:55 | USD | Redbook (YoY) | 5.0% |  | 5.9% |
+| 22:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 22:15 | USD | Capacity Utilization Rate (Dec) | 78.6% | 78.7% | 78.6% |
+| 22:15 | USD | Manufacturing Production (MoM) (Dec) | 0.1% | 0.0% | 0.2% |
+| 44 min | USD | NAHB Housing Market Index (Jan) |  | 39 | 37 |
