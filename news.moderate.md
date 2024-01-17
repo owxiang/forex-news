@@ -17,9 +17,9 @@
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 18:00 | EUR | Core CPI (YoY) (Dec) | 3.4% | 3.4% | 3.6% |
 | 18:00 | EUR | CPI (MoM) (Dec) | 0.2% | 0.2% | -0.6% |
-| 20:00 | USD | OPEC Monthly Report |  |  |  |
-| 20:00 | BRL | Retail Sales (YoY) (Nov) |  | 2.1% | 0.2% |
-| 20:00 | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | -0.3% |
+| 46 min | USD | OPEC Monthly Report |  |  |  |
+| 46 min | BRL | Retail Sales (YoY) (Nov) |  | 2.1% | 0.2% |
+| 46 min | BRL | Retail Sales (MoM) (Nov) |  | 0.1% | -0.3% |
 | 21:30 | USD | Export Price Index (MoM) (Dec) |  | -0.6% | -0.9% |
 | 21:30 | USD | Import Price Index (MoM) (Dec) |  | -0.5% | -0.4% |
 | 21:30 | USD | Retail Control (MoM) (Dec) |  |  | 0.4% |
