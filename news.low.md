@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | FPI (MoM) (Dec) |  |  | -0.2% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 542.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 296.2B |
 | 08:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
@@ -13,12 +13,12 @@
 | 10:00 | NZD | RBNZ Offshore Holdings (Dec) |  |  | 56.80% |
 | Tentative | CNY | FDI |  |  | -10.00% |
 | 12:30 | JPY | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
-| 15:00 | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Car Registration (YoY) (Dec) |  |  | 9.5% |
+| 15:00 | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | 15:00 | EUR | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | NOK | Industrial Confidence (Q4) |  |  | -2.2 |

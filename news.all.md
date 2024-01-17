@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.423% |  | 4.213% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.2% | 2.2% |
-| 9 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 39 min | USD | Moderate | Beige Book |  |  |  |
-| 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 02:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 03:00 | USD | Moderate | Beige Book |  |  |  |
+| 47 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
 | 05:45 | NZD | Low | FPI (MoM) (Dec) |  |  | -0.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 542.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 296.2B |
 | 08:00 | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
@@ -24,12 +24,12 @@
 | Tentative | CNY | Low | FDI |  |  | -10.00% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) |  |  | -2.2 |
@@ -50,8 +50,8 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
+| 21:30 | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
 | 21:30 | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |

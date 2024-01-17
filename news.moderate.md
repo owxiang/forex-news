@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 20-Year Bond Auction | 4.423% |  | 4.213% |
 | 02:00 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.2% | 2.2% |
-| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 39 min | USD | Beige Book |  |  |  |
-| 04:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 02:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 03:00 | USD | Beige Book |  |  |  |
+| 47 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | -2.400M | -5.215M |
 | 08:01 | GBP | RICS House Price Balance (Dec) |  | -34% | -43% |
 | 08:30 | AUD | Employment Change (Dec) |  | 17.6K | 61.5K |
