@@ -6,10 +6,10 @@
 | 00:30 | USD | 6-Month Bill Auction | 4.975% |  | 5.030% |
 | 05:45 | NZD | Electronic Card Retail Sales (YoY) (Dec) | -0.6% |  | 2.1% |
 | 07:00 | JPY | Reuters Tankan Index (Jan) | 6 |  | 12 |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Dec) | -2.80% | -1.50% | 0.30% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Dec) | -1.50% | 3.30% | 1.00% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Dec) | -2.80% | -1.50% | 0.30% |
+| 09:30 | SGD | Trade Balance | 7.778B |  | 6.153B |
 | 09:30 | CNY | House Prices (YoY) (Dec) | -0.4% |  | -0.2% |
-| 10:00 | SGD | Trade Balance | 7.778B |  | 6.153B |
 | 10:00 | CNY | Retail Sales (YoY) (Dec) | 7.4% | 8.0% | 10.1% |
 | 10:00 | CNY | Chinese Retail Sales YTD (YoY) (Dec) | 7.22% |  | 7.20% |
 | 11:00 | KRW | M3 Money Supply (Nov) | 5,283.9B |  | 5,177.0B |
@@ -22,13 +22,13 @@
 | 15:00 | GBP | Core RPI (MoM) (Dec) |  |  | -0.2% |
 | 15:00 | GBP | CPI, n.s.a (Dec) |  |  | 131.70 |
 | 15:00 | GBP | PPI Input (YoY) (Dec) |  | -1.9% | -2.6% |
-| 15:00 | GBP | PPI Output (YoY) (Dec) |  | 0.4% | -0.2% |
 | 15:00 | GBP | PPI Output (MoM) (Dec) |  | -0.2% | -0.1% |
+| 15:00 | GBP | PPI Output (YoY) (Dec) |  | 0.4% | -0.2% |
 | 15:00 | GBP | RPI (MoM) (Dec) |  | 0.4% | -0.1% |
 | 15:00 | GBP | RPI (YoY) (Dec) |  | 5.1% | 5.3% |
-| 15:00 | IDR | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
-| 15:00 | IDR | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
-| 15:00 | IDR | Loans (YoY) (Dec) |  |  | 9.74% |
+| 15:20 | IDR | Loans (YoY) (Dec) |  |  | 9.74% |
+| 15:30 | IDR | Deposit Facility Rate (Jan) |  | 5.25% | 5.25% |
+| 15:30 | IDR | Lending Facility Rate (Jan) |  | 6.75% | 6.75% |
 | 15:45 | EUR | French Government Budget Balance (Nov) |  |  | -177.7B |
 | 17:30 | GBP | House Price Index (YoY) |  | -1.9% | -1.2% |
 | 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.739% |
@@ -49,6 +49,7 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 425.4 |
 | 21:30 | USD | Export Price Index (YoY) |  |  | -5.2% |
 | 21:30 | USD | Import Price Index (YoY) |  |  | -1.4% |
+| 21:30 | USD | Import Price Index ex Petroleum (MoM) |  |  | -0.5% |
 | 21:30 | USD | Retail Sales (YoY) (Dec) |  |  | 4.09% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Dec) |  |  | 0.6% |
 | 21:30 | CAD | Foreign Securities Purchases by Canadians (Nov) |  |  | -8.20B |
