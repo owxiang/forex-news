@@ -23,29 +23,27 @@
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 10 min | HKD | Low | Unemployment Rate (Dec) |  |  | 2.9% |
-| 40 min | EUR | Low | Spanish Trade Balance |  |  | -5.10B |
-| 40 min | EUR | Low | Current Account (Nov) |  | 30.9B | 33.8B |
-| 40 min | EUR | Low | Current Account n.s.a. (Nov) |  |  | 30.1B |
-| 17:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 17:30 | ZAR | Low | Gold Production (YoY) (Nov) |  |  | 2.2% |
-| 17:30 | ZAR | Low | Mining Production (Nov) |  | 3.0% | 3.9% |
-| 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
-| 17:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.589% |
-| 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.582% |
-| 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.621% |
-| 17:40 | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.680% |
-| 18:00 | EUR | Low | Construction Output (MoM) (Nov) |  |  | -0.97% |
+| 16:30 | HKD | Low | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
+| 17:00 | EUR | Low | Spanish Trade Balance | -2.40B |  | -5.10B |
+| 17:00 | EUR | Low | Current Account (Nov) | 24.6B | 30.9B | 33.8B |
+| 17:00 | EUR | Low | Current Account n.s.a. (Nov) | 31.7B |  | 30.1B |
+| 14 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 14 min | ZAR | Low | Gold Production (YoY) (Nov) |  |  | 2.2% |
+| 14 min | ZAR | Low | Mining Production (Nov) |  | 3.0% | 3.9% |
+| 24 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.589% |
+| 24 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.582% |
+| 24 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.680% |
+| 44 min | EUR | Low | Construction Output (MoM) (Nov) |  |  | -0.97% |
 | 18:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |

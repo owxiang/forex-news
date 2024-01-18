@@ -14,8 +14,8 @@
 | 08:30 | AUD | Unemployment Rate (Dec) | 3.9% | 3.9% | 3.9% |
 | 12:30 | JPY | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 17:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 17:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.589% |
+| 14 min | GBP | BOE Credit Conditions Survey |  |  |  |
+| 24 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.589% |
 | 18:30 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
