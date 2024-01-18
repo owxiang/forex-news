@@ -25,12 +25,12 @@
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
-| 15:00 | EUR | Low | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
+| 15:00 | EUR | Low | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
@@ -45,16 +45,15 @@
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
 | 17:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
 | 18:00 | EUR | Low | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
-| 11 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 41 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
+| 18:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 46 min | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
 | 21:30 | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
 | 21:30 | USD | High | Initial Jobless Claims |  | 207K | 202K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -7.0 | -10.5 |
