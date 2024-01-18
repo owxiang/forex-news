@@ -21,14 +21,14 @@
 | 08:30 | AUD | Low | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
 | 08:30 | AUD | Moderate | Unemployment Rate (Dec) | 3.9% | 3.9% | 3.9% |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
-| 11 min | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
-| 11 min | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -0.9% | 1.3% |
+| 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
+| 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |

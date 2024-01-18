@@ -11,13 +11,13 @@
 | 08:30 | AUD | Participation Rate (Dec) | 66.8% | 67.1% | 67.3% |
 | 08:30 | AUD | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
-| 11 min | JPY | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
+| 12:30 | JPY | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
 | 15:00 | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
+| 15:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | Tentative | CNY | FDI |  |  | -10.00% |
