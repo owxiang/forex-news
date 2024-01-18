@@ -13,10 +13,10 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | 5.637B |  | -2.062B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
-| 05:45 | NZD | External Migration & Visitors (Nov) |  |  | 39.80% |
-| 05:45 | NZD | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |
-| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | -8.0% |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
+| 31 min | NZD | External Migration & Visitors (Nov) |  |  | 39.80% |
+| 31 min | NZD | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |
+| 31 min | NZD | Visitor Arrivals (MoM) |  |  | -8.0% |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
 | 07:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.8% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
@@ -26,7 +26,7 @@
 | 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
 | 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD |  |  | 617.30B |
-| 20:00 | MXN | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
 | 20:00 | MXN | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
+| 20:00 | MXN | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
 | 20:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 23:00 | USD | Michigan Current Conditions (Jan) |  |  | 73.3 |
