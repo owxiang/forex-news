@@ -23,20 +23,20 @@
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
+| 15:00 | GBP | Low | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
-| 44 min | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 16:30 | HKD | Low | Unemployment Rate (Dec) |  |  | 2.9% |
-| 17:00 | EUR | Low | Spanish Trade Balance |  |  | -5.10B |
-| 17:00 | EUR | Low | Current Account (Nov) |  | 30.9B | 33.8B |
-| 17:00 | EUR | Low | Current Account n.s.a. (Nov) |  |  | 30.1B |
+| 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
+| 10 min | HKD | Low | Unemployment Rate (Dec) |  |  | 2.9% |
+| 40 min | EUR | Low | Spanish Trade Balance |  |  | -5.10B |
+| 40 min | EUR | Low | Current Account (Nov) |  | 30.9B | 33.8B |
+| 40 min | EUR | Low | Current Account n.s.a. (Nov) |  |  | 30.1B |
 | 17:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Nov) |  |  | 2.2% |
 | 17:30 | ZAR | Low | Mining Production (Nov) |  | 3.0% | 3.9% |
@@ -51,8 +51,8 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
 | 21:30 | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
+| 21:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
 | 21:30 | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
