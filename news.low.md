@@ -12,6 +12,7 @@
 | 00:00 | USD | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
+| 01:30 | BRL | Foreign Exchange Flows | 5.637B |  | -2.062B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
 | 05:45 | NZD | External Migration & Visitors (Nov) |  |  | 39.80% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |

@@ -6,14 +6,14 @@
 | 00:30 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.4% | 2.4% |
 | 00:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 01:05 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 45 min | USD | 10-Year TIPS Auction |  |  | 2.180% |
+| 02:00 | USD | 10-Year TIPS Auction | 1.810% |  | 2.180% |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,687B |
 | 05:30 | NZD | Business NZ PMI (Dec) |  |  | 46.7 |
 | 07:30 | JPY | National Core CPI (YoY) (Dec) |  | 2.3% | 2.5% |
-| 15:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
-| 15:00 | GBP | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
+| 15:00 | GBP | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
 | 15:00 | EUR | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
 | 15:30 | CHF | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
