@@ -34,26 +34,27 @@
 | 15:00 | NOK | Low | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
+| 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Low | Spanish Trade Balance | -2.40B |  | -5.10B |
-| 17:00 | EUR | Low | Current Account (Nov) | 24.6B | 30.9B | 33.8B |
-| 17:00 | EUR | Low | Current Account n.s.a. (Nov) | 31.7B |  | 30.1B |
-| 14 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 14 min | ZAR | Low | Gold Production (YoY) (Nov) |  |  | 2.2% |
-| 14 min | ZAR | Low | Mining Production (Nov) |  | 3.0% | 3.9% |
-| 24 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.589% |
-| 24 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.582% |
-| 24 min | EUR | Low | Spanish 7-Year Obligacion Auction |  |  | 3.680% |
-| 44 min | EUR | Low | Construction Output (MoM) (Nov) |  |  | -0.97% |
-| 18:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
+| 17:00 | EUR | Low | Current Account (Nov) | 24.6B | 30.9B | 32.3B |
+| 17:00 | EUR | Low | Current Account n.s.a. (Nov) | 31.7B |  | 28.4B |
+| 17:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 17:30 | ZAR | Low | Gold Production (YoY) (Nov) | -3.0% |  | 2.2% |
+| 17:30 | ZAR | Low | Mining Production (Nov) | 6.8% | 3.0% | 3.6% |
+| 17:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.630% |  | 3.589% |
+| 17:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
+| 17:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
+| 18:00 | EUR | Low | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
+| 11 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 41 min | BRL | Low | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
-| 21:30 | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
+| 21:30 | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
 | 21:30 | USD | High | Initial Jobless Claims |  | 207K | 202K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -7.0 | -10.5 |

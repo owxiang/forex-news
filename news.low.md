@@ -23,14 +23,14 @@
 | 15:00 | NOK | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:30 | HKD | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
 | 17:00 | EUR | Spanish Trade Balance | -2.40B |  | -5.10B |
-| 17:00 | EUR | Current Account (Nov) | 24.6B | 30.9B | 33.8B |
-| 17:00 | EUR | Current Account n.s.a. (Nov) | 31.7B |  | 30.1B |
-| 14 min | ZAR | Gold Production (YoY) (Nov) |  |  | 2.2% |
-| 14 min | ZAR | Mining Production (Nov) |  | 3.0% | 3.9% |
-| 24 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.582% |
-| 24 min | EUR | Spanish 7-Year Obligacion Auction |  |  | 3.680% |
-| 44 min | EUR | Construction Output (MoM) (Nov) |  |  | -0.97% |
-| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
+| 17:00 | EUR | Current Account (Nov) | 24.6B | 30.9B | 32.3B |
+| 17:00 | EUR | Current Account n.s.a. (Nov) | 31.7B |  | 28.4B |
+| 17:30 | ZAR | Gold Production (YoY) (Nov) | -3.0% |  | 2.2% |
+| 17:30 | ZAR | Mining Production (Nov) | 6.8% | 3.0% | 3.6% |
+| 17:40 | EUR | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
+| 17:40 | EUR | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
+| 18:00 | EUR | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
+| 41 min | BRL | IGP-10 Inflation Index (MoM) (Jan) |  |  | 0.6% |
 | 20:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 21:30 | USD | Building Permits (MoM) (Dec) |  |  | -2.1% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
