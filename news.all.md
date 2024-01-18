@@ -48,18 +48,18 @@
 | 18:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 58 min | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
-| 58 min | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
-| 58 min | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
-| 58 min | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
-| 58 min | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
-| 58 min | USD | High | Initial Jobless Claims |  | 207K | 202K |
-| 58 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 58 min | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -7.0 | -10.5 |
-| 58 min | USD | Low | Philly Fed Business Conditions (Jan) |  |  | 12.1 |
-| 58 min | USD | Low | Philly Fed CAPEX Index (Jan) |  |  | -7.50 |
-| 58 min | USD | Moderate | Philly Fed Employment (Jan) |  |  | -1.7 |
-| 58 min | USD | Low | Philly Fed New Orders (Jan) |  |  | -25.6 |
-| 58 min | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
+| 10 min | USD | Moderate | Building Permits (Dec) |  | 1.480M | 1.467M |
+| 10 min | USD | Low | Building Permits (MoM) (Dec) |  |  | -2.1% |
+| 10 min | USD | Moderate | Continuing Jobless Claims |  | 1,845K | 1,834K |
+| 10 min | USD | Moderate | Housing Starts (MoM) (Dec) |  |  | 14.8% |
+| 10 min | USD | Moderate | Housing Starts (Dec) |  | 1.426M | 1.560M |
+| 10 min | USD | High | Initial Jobless Claims |  | 207K | 202K |
+| 10 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
+| 10 min | USD | High | Philadelphia Fed Manufacturing Index (Jan) |  | -7.0 | -10.5 |
+| 10 min | USD | Low | Philly Fed Business Conditions (Jan) |  |  | 12.1 |
+| 10 min | USD | Low | Philly Fed CAPEX Index (Jan) |  |  | -7.50 |
+| 10 min | USD | Moderate | Philly Fed Employment (Jan) |  |  | -1.7 |
+| 10 min | USD | Low | Philly Fed New Orders (Jan) |  |  | -25.6 |
+| 10 min | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  | -164B | -140B |

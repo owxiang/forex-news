@@ -20,9 +20,9 @@
 | 18:30 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 58 min | USD | Building Permits (Dec) |  | 1.480M | 1.467M |
-| 58 min | USD | Continuing Jobless Claims |  | 1,845K | 1,834K |
-| 58 min | USD | Housing Starts (Dec) |  | 1.426M | 1.560M |
-| 58 min | USD | Housing Starts (MoM) (Dec) |  |  | 14.8% |
-| 58 min | USD | Philly Fed Employment (Jan) |  |  | -1.7 |
+| 10 min | USD | Building Permits (Dec) |  | 1.480M | 1.467M |
+| 10 min | USD | Continuing Jobless Claims |  | 1,845K | 1,834K |
+| 10 min | USD | Housing Starts (MoM) (Dec) |  |  | 14.8% |
+| 10 min | USD | Housing Starts (Dec) |  | 1.426M | 1.560M |
+| 10 min | USD | Philly Fed Employment (Jan) |  |  | -1.7 |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |

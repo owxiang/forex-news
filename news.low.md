@@ -30,10 +30,10 @@
 | 17:40 | EUR | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
 | 17:40 | EUR | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
 | 18:00 | EUR | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
-| 58 min | USD | Building Permits (MoM) (Dec) |  |  | -2.1% |
-| 58 min | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 58 min | USD | Philly Fed Business Conditions (Jan) |  |  | 12.1 |
-| 58 min | USD | Philly Fed CAPEX Index (Jan) |  |  | -7.50 |
-| 58 min | USD | Philly Fed New Orders (Jan) |  |  | -25.6 |
-| 58 min | USD | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
+| 10 min | USD | Building Permits (MoM) (Dec) |  |  | -2.1% |
+| 10 min | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
+| 10 min | USD | Philly Fed Business Conditions (Jan) |  |  | 12.1 |
+| 10 min | USD | Philly Fed CAPEX Index (Jan) |  |  | -7.50 |
+| 10 min | USD | Philly Fed New Orders (Jan) |  |  | -25.6 |
+| 10 min | USD | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
 | 23:30 | USD | Natural Gas Storage |  | -164B | -140B |
