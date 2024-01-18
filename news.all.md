@@ -12,13 +12,12 @@
 | 00:00 | USD | Low | Heating Oil Stockpiles | 0.542M |  | -0.623M |
 | 00:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.6% |
 | 00:00 | USD | Low | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
-| 9 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 9 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 9 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
-| 9 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 44 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.062B |
-| 02:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.180% |
+| 00:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.280% |
+| 00:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
+| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.4% | 2.4% |
+| 00:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 01:05 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 45 min | USD | Moderate | 10-Year TIPS Auction |  |  | 2.180% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,687B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
 | 05:30 | NZD | Moderate | Business NZ PMI (Dec) |  |  | 46.7 |
@@ -31,8 +30,8 @@
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
-| 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
 | 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |

@@ -10,9 +10,8 @@
 | 00:00 | USD | Heating Oil Stockpiles | 0.542M |  | -0.623M |
 | 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.6% |
 | 00:00 | USD | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
-| 9 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 9 min | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -2.062B |
+| 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
+| 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
 | 05:45 | NZD | External Migration & Visitors (Nov) |  |  | 39.80% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |
