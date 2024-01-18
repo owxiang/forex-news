@@ -13,10 +13,10 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | 5.637B |  | -2.062B |
-| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
-| 31 min | NZD | External Migration & Visitors (Nov) |  |  | 39.80% |
-| 31 min | NZD | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |
-| 31 min | NZD | Visitor Arrivals (MoM) |  |  | -8.0% |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.592T |  | 3.537T |
+| 05:45 | NZD | External Migration & Visitors (Nov) | 30.40% |  | 39.80% |
+| 05:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,740 |  | 9,090 |
+| 05:45 | NZD | Visitor Arrivals (MoM) | -1.5% |  | -6.7% |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
 | 07:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.8% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
