@@ -1,28 +1,28 @@
-## 18 January 2024 - Moderate Impact Forex News
+## 19 January 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 20-Year Bond Auction | 4.423% |  | 4.213% |
-| 02:00 | USD | Atlanta Fed GDPNow (Q4) | 2.4% | 2.2% | 2.2% |
-| 02:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 03:00 | USD | Beige Book |  |  |  |
-| 04:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock | 0.483M | -2.400M | -5.215M |
-| 08:01 | GBP | RICS House Price Balance (Dec) | -30% | -34% | -41% |
-| 08:30 | AUD | Employment Change (Dec) | -65.1K | 17.6K | 72.6K |
-| 08:30 | AUD | Full Employment Change (Dec) | -106.6K |  | 57.0K |
-| 08:30 | AUD | Unemployment Rate (Dec) | 3.9% | 3.9% | 3.9% |
-| 12:30 | JPY | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
+| 00:00 | USD | Cushing Crude Oil Inventories | -2.099M |  | -0.506M |
+| 9 min | USD | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
+| 9 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 44 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 02:00 | USD | 10-Year TIPS Auction |  |  | 2.180% |
+| 05:30 | USD | Fed's Balance Sheet |  |  | 7,687B |
+| 05:30 | NZD | Business NZ PMI (Dec) |  |  | 46.7 |
+| 07:30 | JPY | National Core CPI (YoY) (Dec) |  | 2.3% | 2.5% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
+| 15:00 | GBP | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
+| 15:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
+| 15:00 | GBP | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 15:00 | EUR | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
+| 15:30 | CHF | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 17:00 | USD | IEA Monthly Report |  |  |  |
-| 17:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 17:40 | EUR | Spanish 15-Year Obligacion Auction | 3.630% |  | 3.589% |
-| 18:30 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 20:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Building Permits (Dec) | 1.495M | 1.480M | 1.467M |
-| 21:30 | USD | Continuing Jobless Claims | 1,806K | 1,845K | 1,832K |
-| 21:30 | USD | Housing Starts (MoM) (Dec) | -4.3% |  | 10.8% |
-| 21:30 | USD | Housing Starts (Dec) | 1.460M | 1.426M | 1.525M |
-| 21:30 | USD | Philly Fed Employment (Jan) | -1.8 |  | -2.5 |
-| 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 21:30 | CAD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
+| 21:30 | CAD | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
+| 23:00 | USD | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
+| 23:00 | USD | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
+| 23:00 | USD | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |

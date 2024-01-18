@@ -1,6 +1,6 @@
-## 18 January 2024 - High Impact Forex News
+## 19 January 2024 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:30 | USD | Initial Jobless Claims | 187K | 207K | 203K |
-| 21:30 | USD | Philadelphia Fed Manufacturing Index (Jan) | -10.6 | -7.0 | -12.8 |
+| 00:00 | USD | Crude Oil Inventories | -2.492M | -0.313M | 1.338M |
+| 23:00 | USD | Existing Home Sales (Dec) |  | 3.82M | 3.82M |

@@ -1,39 +1,32 @@
-## 18 January 2024 - Low Impact Forex News
+## 19 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Nov) | -5.0% | 0.2% | -2.2% |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Nov) | -4.9% | -0.8% | 0.7% |
-| 07:50 | JPY | Foreign Bonds Buying | 1,642.8B |  | 545.2B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 1,202.6B |  | 296.8B |
-| 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:30 | AUD | Participation Rate (Dec) | 66.8% | 67.1% | 67.3% |
-| 08:30 | AUD | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
-| 10:00 | NZD | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
-| 12:30 | JPY | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
-| 15:00 | GBP | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
-| 15:00 | GBP | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
-| 15:00 | EUR | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
-| 15:00 | EUR | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
-| 15:00 | EUR | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
-| 15:00 | EUR | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
-| 15:00 | NOK | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
-| 16:30 | HKD | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
-| 17:00 | EUR | Spanish Trade Balance | -2.40B |  | -5.10B |
-| 17:00 | EUR | Current Account (Nov) | 24.6B | 30.9B | 32.3B |
-| 17:00 | EUR | Current Account n.s.a. (Nov) | 31.7B |  | 28.4B |
-| 17:30 | ZAR | Gold Production (YoY) (Nov) | -3.0% |  | 2.2% |
-| 17:30 | ZAR | Mining Production (Nov) | 6.8% | 3.0% | 3.6% |
-| 17:40 | EUR | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
-| 17:40 | EUR | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
-| 18:00 | EUR | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
-| 21:30 | USD | Building Permits (MoM) (Dec) | 1.9% |  | -2.1% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 203.25K |  | 208.00K |
-| 21:30 | USD | Philly Fed Business Conditions (Jan) | -4.0 |  | 12.6 |
-| 21:30 | USD | Philly Fed CAPEX Index (Jan) | 7.50 |  | -7.50 |
-| 21:30 | USD | Philly Fed New Orders (Jan) | -17.9 |  | -22.1 |
-| 21:30 | USD | Philly Fed Prices Paid (Jan) | 11.30 |  | 24.30 |
-| 13 min | USD | Natural Gas Storage |  | -164B | -140B |
+| 00:00 | USD | EIA Refinery Crude Runs (WoW) | 0.135M |  | -0.161M |
+| 00:00 | USD | Crude Oil Imports | -0.528M |  | 1.316M |
+| 00:00 | USD | Distillate Fuel Production | -0.265M |  | -0.064M |
+| 00:00 | USD | EIA Weekly Distillates Stocks | 2.370M | 0.880M | 6.528M |
+| 00:00 | USD | Gasoline Production | -0.291M |  | 0.901M |
+| 00:00 | USD | Heating Oil Stockpiles | 0.542M |  | -0.623M |
+| 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.6% |
+| 00:00 | USD | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
+| 9 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 9 min | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -2.062B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
+| 05:45 | NZD | External Migration & Visitors (Nov) |  |  | 39.80% |
+| 05:45 | NZD | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |
+| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | -8.0% |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
+| 07:30 | JPY | National CPI (YoY) (Dec) |  |  | 2.8% |
+| 12:30 | JPY | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
+| 15:00 | EUR | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
+| Tentative | CNY | FDI |  |  | -10.00% |
+| 15:30 | CHF | PPI (YoY) (Dec) |  |  | -1.3% |
+| 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
+| 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 19:30 | INR | FX Reserves, USD |  |  | 617.30B |
+| 20:00 | MXN | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
+| 20:00 | MXN | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
+| 20:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
+| 23:00 | USD | Michigan Current Conditions (Jan) |  |  | 73.3 |

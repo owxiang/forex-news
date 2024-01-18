@@ -1,65 +1,58 @@
-## 18 January 2024 - All Forex News
+## 19 January 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | 20-Year Bond Auction | 4.423% |  | 4.213% |
-| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.2% | 2.2% |
-| 02:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 03:00 | USD | Moderate | Beige Book |  |  |  |
-| 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.483M | -2.400M | -5.215M |
-| 05:45 | NZD | Low | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | -5.0% | 0.2% | -2.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) | -4.9% | -0.8% | 0.7% |
-| 07:50 | JPY | Low | Foreign Bonds Buying | 1,642.8B |  | 545.2B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,202.6B |  | 296.8B |
-| 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:01 | GBP | Moderate | RICS House Price Balance (Dec) | -30% | -34% | -41% |
-| 08:30 | AUD | Moderate | Employment Change (Dec) | -65.1K | 17.6K | 72.6K |
-| 08:30 | AUD | Moderate | Full Employment Change (Dec) | -106.6K |  | 57.0K |
-| 08:30 | AUD | Low | Participation Rate (Dec) | 66.8% | 67.1% | 67.3% |
-| 08:30 | AUD | Low | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
-| 08:30 | AUD | Moderate | Unemployment Rate (Dec) | 3.9% | 3.9% | 3.9% |
-| 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
-| 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
-| 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
-| 15:00 | EUR | Low | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
-| 15:00 | NOK | Low | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
+| 00:00 | USD | High | Crude Oil Inventories | -2.492M | -0.313M | 1.338M |
+| 00:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.135M |  | -0.161M |
+| 00:00 | USD | Low | Crude Oil Imports | -0.528M |  | 1.316M |
+| 00:00 | USD | Moderate | Cushing Crude Oil Inventories | -2.099M |  | -0.506M |
+| 00:00 | USD | Low | Distillate Fuel Production | -0.265M |  | -0.064M |
+| 00:00 | USD | Low | EIA Weekly Distillates Stocks | 2.370M | 0.880M | 6.528M |
+| 00:00 | USD | Low | Gasoline Production | -0.291M |  | 0.901M |
+| 00:00 | USD | Low | Heating Oil Stockpiles | 0.542M |  | -0.623M |
+| 00:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.6% |
+| 00:00 | USD | Low | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
+| 9 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 9 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 9 min | USD | Moderate | Atlanta Fed GDPNow (Q4) |  | 2.4% | 2.4% |
+| 9 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 44 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.062B |
+| 02:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.180% |
+| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,687B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
+| 05:30 | NZD | Moderate | Business NZ PMI (Dec) |  |  | 46.7 |
+| 05:45 | NZD | Low | External Migration & Visitors (Nov) |  |  | 39.80% |
+| 05:45 | NZD | Low | Permanent/Long-Term Migration (Nov) |  |  | 7,810 |
+| 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -8.0% |
+| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
+| 07:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 2.3% | 2.5% |
+| 07:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.8% |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
+| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
+| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
+| 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
+| 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
+| 15:00 | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
+| Tentative | CNY | Low | FDI |  |  | -10.00% |
+| 15:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.3% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
-| 16:30 | HKD | Low | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
-| 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 17:00 | EUR | Low | Spanish Trade Balance | -2.40B |  | -5.10B |
-| 17:00 | EUR | Low | Current Account (Nov) | 24.6B | 30.9B | 32.3B |
-| 17:00 | EUR | Low | Current Account n.s.a. (Nov) | 31.7B |  | 28.4B |
-| 17:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 17:30 | ZAR | Low | Gold Production (YoY) (Nov) | -3.0% |  | 2.2% |
-| 17:30 | ZAR | Low | Mining Production (Nov) | 6.8% | 3.0% | 3.6% |
-| 17:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.630% |  | 3.589% |
-| 17:40 | EUR | Low | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
-| 17:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
-| 18:00 | EUR | Low | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
-| 18:30 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 20:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Moderate | Building Permits (Dec) | 1.495M | 1.480M | 1.467M |
-| 21:30 | USD | Low | Building Permits (MoM) (Dec) | 1.9% |  | -2.1% |
-| 21:30 | USD | Moderate | Continuing Jobless Claims | 1,806K | 1,845K | 1,832K |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) | -4.3% |  | 10.8% |
-| 21:30 | USD | Moderate | Housing Starts (Dec) | 1.460M | 1.426M | 1.525M |
-| 21:30 | USD | High | Initial Jobless Claims | 187K | 207K | 203K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 203.25K |  | 208.00K |
-| 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) | -10.6 | -7.0 | -12.8 |
-| 21:30 | USD | Low | Philly Fed Business Conditions (Jan) | -4.0 |  | 12.6 |
-| 21:30 | USD | Low | Philly Fed CAPEX Index (Jan) | 7.50 |  | -7.50 |
-| 21:30 | USD | Moderate | Philly Fed Employment (Jan) | -1.8 |  | -2.5 |
-| 21:30 | USD | Low | Philly Fed New Orders (Jan) | -17.9 |  | -22.1 |
-| 21:30 | USD | Low | Philly Fed Prices Paid (Jan) | 11.30 |  | 24.30 |
-| 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 13 min | USD | Low | Natural Gas Storage |  | -164B | -140B |
+| 17:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
+| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 617.30B |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
+| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
+| 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
+| 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
+| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
+| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
+| 23:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
+| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |
+| 23:00 | USD | Low | Michigan Current Conditions (Jan) |  |  | 73.3 |
