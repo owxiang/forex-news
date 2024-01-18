@@ -49,8 +49,8 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
 | 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
 | 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
 | 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
