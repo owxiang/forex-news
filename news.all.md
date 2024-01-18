@@ -21,16 +21,16 @@
 | 02:00 | USD | Moderate | 10-Year TIPS Auction | 1.810% |  | 2.180% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,674B |  | 7,687B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.592T |  | 3.537T |
-| 05:30 | NZD | Moderate | Business NZ PMI (Dec) | 43.1 |  | 46.7 |
+| 05:30 | NZD | Moderate | Business NZ PMI (Dec) | 43.1 |  | 46.5 |
 | 05:45 | NZD | Low | External Migration & Visitors (Nov) | 30.40% |  | 39.80% |
 | 05:45 | NZD | Low | Permanent/Long-Term Migration (Nov) | 2,740 |  | 9,090 |
 | 05:45 | NZD | Low | Visitor Arrivals (MoM) | -1.5% |  | -6.7% |
-| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
-| 07:30 | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 2.3% | 2.5% |
-| 07:30 | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.8% |
+| 13 min | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
+| 13 min | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 2.3% | 2.5% |
+| 13 min | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.8% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
+| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
 | 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
