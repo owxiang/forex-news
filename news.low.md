@@ -14,12 +14,12 @@
 | 12:30 | JPY | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
 | 15:00 | GBP | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
 | 15:00 | GBP | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
 | 15:00 | EUR | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
 | 15:00 | EUR | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
-| 15:00 | EUR | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
 | 15:00 | EUR | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
+| 15:00 | EUR | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
 | 15:00 | NOK | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:30 | HKD | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
 | 17:00 | EUR | Spanish Trade Balance | -2.40B |  | -5.10B |
@@ -30,11 +30,10 @@
 | 17:40 | EUR | Spanish 3-Year Bonos Auction | 2.799% |  | 2.582% |
 | 17:40 | EUR | Spanish 7-Year Obligacion Auction | 2.954% |  | 3.680% |
 | 18:00 | EUR | Construction Output (MoM) (Nov) | -0.98% |  | -0.71% |
-| 46 min | BRL | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
-| 21:30 | USD | Building Permits (MoM) (Dec) |  |  | -2.1% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 21:30 | USD | Philly Fed Business Conditions (Jan) |  |  | 12.1 |
-| 21:30 | USD | Philly Fed CAPEX Index (Jan) |  |  | -7.50 |
-| 21:30 | USD | Philly Fed New Orders (Jan) |  |  | -25.6 |
-| 21:30 | USD | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
+| 58 min | USD | Building Permits (MoM) (Dec) |  |  | -2.1% |
+| 58 min | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
+| 58 min | USD | Philly Fed Business Conditions (Jan) |  |  | 12.1 |
+| 58 min | USD | Philly Fed CAPEX Index (Jan) |  |  | -7.50 |
+| 58 min | USD | Philly Fed New Orders (Jan) |  |  | -25.6 |
+| 58 min | USD | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
 | 23:30 | USD | Natural Gas Storage |  | -164B | -140B |
