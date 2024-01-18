@@ -9,8 +9,8 @@
 | 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.483M | -2.400M | -5.215M |
 | 05:45 | NZD | Low | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) | -4.9% | -0.8% | 0.7% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | -5.0% | 0.2% | -2.2% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) | -4.9% | -0.8% | 0.7% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 1,642.8B |  | 545.2B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,202.6B |  | 296.8B |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.5% |
@@ -23,14 +23,14 @@
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
+| 15:00 | EUR | Low | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Dec) | 2.9% |  | 2.9% |
@@ -51,8 +51,8 @@
 | 21:30 | USD | Moderate | Building Permits (Dec) | 1.495M | 1.480M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) (Dec) | 1.9% |  | -2.1% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims | 1,806K | 1,845K | 1,832K |
-| 21:30 | USD | Moderate | Housing Starts (Dec) | 1.460M | 1.426M | 1.525M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Dec) | -4.3% |  | 10.8% |
+| 21:30 | USD | Moderate | Housing Starts (Dec) | 1.460M | 1.426M | 1.525M |
 | 21:30 | USD | High | Initial Jobless Claims | 187K | 207K | 203K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 203.25K |  | 208.00K |
 | 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Jan) | -10.6 | -7.0 | -12.8 |
@@ -62,4 +62,4 @@
 | 21:30 | USD | Low | Philly Fed New Orders (Jan) | -17.9 |  | -22.1 |
 | 21:30 | USD | Low | Philly Fed Prices Paid (Jan) | 11.30 |  | 24.30 |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  | -164B | -140B |
+| 13 min | USD | Low | Natural Gas Storage |  | -164B | -140B |

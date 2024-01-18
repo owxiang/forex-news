@@ -22,7 +22,7 @@
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Building Permits (Dec) | 1.495M | 1.480M | 1.467M |
 | 21:30 | USD | Continuing Jobless Claims | 1,806K | 1,845K | 1,832K |
-| 21:30 | USD | Housing Starts (Dec) | 1.460M | 1.426M | 1.525M |
 | 21:30 | USD | Housing Starts (MoM) (Dec) | -4.3% |  | 10.8% |
+| 21:30 | USD | Housing Starts (Dec) | 1.460M | 1.426M | 1.525M |
 | 21:30 | USD | Philly Fed Employment (Jan) | -1.8 |  | -2.5 |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
