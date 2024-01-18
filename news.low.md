@@ -12,16 +12,15 @@
 | 08:30 | AUD | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
 | 10:00 | NZD | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
 | 12:30 | JPY | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
-| 38 min | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
-| 38 min | GBP | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 38 min | EUR | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 38 min | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
-| 38 min | EUR | German Car Registration (MoM) (Dec) |  |  | 12.2% |
-| 38 min | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
-| 38 min | EUR | French Car Registration (MoM) (Dec) |  |  | 0.2% |
-| 38 min | EUR | French Car Registration (YoY) (Dec) |  |  | 14.0% |
-| Tentative | CNY | FDI |  |  | -10.00% |
-| 38 min | NOK | Industrial Confidence (Q4) |  |  | -2.2 |
+| 15:00 | GBP | Car Registration (YoY) (Dec) | 9.8% |  | 9.5% |
+| 15:00 | GBP | Car Registration (MoM) (Dec) | -9.9% |  | 2.0% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Dec) | -20.2% |  | 0.1% |
+| 15:00 | EUR | Italian Car Registration (YoY) (Dec) | 5.9% |  | 16.2% |
+| 15:00 | EUR | German Car Registration (MoM) (Dec) | -1.6% |  | 12.2% |
+| 15:00 | EUR | German Car Registration (YoY) (Dec) | -23.0% |  | -5.7% |
+| 15:00 | EUR | French Car Registration (YoY) (Dec) | 14.5% |  | 14.0% |
+| 15:00 | EUR | French Car Registration (MoM) (Dec) | 18.5% |  | 0.2% |
+| 15:00 | NOK | Industrial Confidence (Q4) | -4.9 |  | -2.5 |
 | 16:30 | HKD | Unemployment Rate (Dec) |  |  | 2.9% |
 | 17:00 | EUR | Spanish Trade Balance |  |  | -5.10B |
 | 17:00 | EUR | Current Account (Nov) |  | 30.9B | 33.8B |
