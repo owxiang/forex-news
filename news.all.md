@@ -23,16 +23,16 @@
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) | 57.40% |  | 56.80% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) | 0.3% |  | 1.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) | -0.9% | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
-| 15:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
-| 15:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
+| 38 min | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
+| 38 min | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
+| 38 min | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
+| 38 min | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
+| 38 min | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 38 min | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
+| 38 min | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
+| 38 min | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |
-| 15:00 | NOK | Low | Industrial Confidence (Q4) |  |  | -2.2 |
+| 38 min | NOK | Low | Industrial Confidence (Q4) |  |  | -2.2 |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | HKD | Low | Unemployment Rate (Dec) |  |  | 2.9% |
 | 17:00 | EUR | Low | Spanish Trade Balance |  |  | -5.10B |
@@ -65,6 +65,5 @@
 | 21:30 | USD | Moderate | Philly Fed Employment (Jan) |  |  | -1.7 |
 | 21:30 | USD | Low | Philly Fed New Orders (Jan) |  |  | -25.6 |
 | 21:30 | USD | Low | Philly Fed Prices Paid (Jan) |  |  | 25.10 |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  | -164B | -140B |
