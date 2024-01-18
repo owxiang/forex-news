@@ -3,22 +3,22 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 32 min | JPY | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
-| 32 min | JPY | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
-| 32 min | JPY | Foreign Bonds Buying |  |  | 542.3B |
-| 32 min | JPY | Foreign Investments in Japanese Stocks |  |  | 296.2B |
-| 42 min | AUD | MI Inflation Expectations |  |  | 4.5% |
-| 08:30 | AUD | Participation Rate (Dec) |  | 67.1% | 67.2% |
-| 08:30 | AUD | Reserve Assets Total (Dec) |  |  | 91.9B |
-| 10:00 | NZD | RBNZ Offshore Holdings (Dec) |  |  | 56.80% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Nov) | -5.0% | 0.2% | -2.2% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Nov) | -4.9% | -0.8% | 0.7% |
+| 07:50 | JPY | Foreign Bonds Buying | 1,642.8B |  | 545.2B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 1,202.6B |  | 296.8B |
+| 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
+| 08:30 | AUD | Participation Rate (Dec) | 66.8% | 67.1% | 67.3% |
+| 08:30 | AUD | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
+| 48 min | NZD | RBNZ Offshore Holdings (Dec) |  |  | 56.80% |
 | Tentative | CNY | FDI |  |  | -10.00% |
 | 12:30 | JPY | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
-| 15:00 | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
+| 15:00 | GBP | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | EUR | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
+| 15:00 | EUR | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 15:00 | EUR | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | 15:00 | NOK | Industrial Confidence (Q4) |  |  | -2.2 |

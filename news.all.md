@@ -9,27 +9,27 @@
 | 04:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.483M | -2.400M | -5.215M |
 | 05:45 | NZD | Low | FPI (MoM) (Dec) | -0.1% |  | -0.2% |
-| 32 min | JPY | Low | Core Machinery Orders (YoY) (Nov) |  | 0.2% | -2.2% |
-| 32 min | JPY | Low | Core Machinery Orders (MoM) (Nov) |  | -0.8% | 0.7% |
-| 32 min | JPY | Low | Foreign Bonds Buying |  |  | 542.3B |
-| 32 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 296.2B |
-| 42 min | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
-| 43 min | GBP | Moderate | RICS House Price Balance (Dec) |  | -34% | -43% |
-| 08:30 | AUD | Moderate | Employment Change (Dec) |  | 17.6K | 61.5K |
-| 08:30 | AUD | Moderate | Full Employment Change (Dec) |  |  | 57.0K |
-| 08:30 | AUD | Low | Participation Rate (Dec) |  | 67.1% | 67.2% |
-| 08:30 | AUD | Low | Reserve Assets Total (Dec) |  |  | 91.9B |
-| 08:30 | AUD | Moderate | Unemployment Rate (Dec) |  | 3.9% | 3.9% |
-| 10:00 | NZD | Low | RBNZ Offshore Holdings (Dec) |  |  | 56.80% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Nov) | -5.0% | 0.2% | -2.2% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Nov) | -4.9% | -0.8% | 0.7% |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 1,642.8B |  | 545.2B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,202.6B |  | 296.8B |
+| 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.5% |
+| 08:01 | GBP | Moderate | RICS House Price Balance (Dec) | -30% | -34% | -41% |
+| 08:30 | AUD | Moderate | Employment Change (Dec) | -65.1K | 17.6K | 72.6K |
+| 08:30 | AUD | Moderate | Full Employment Change (Dec) | -106.6K |  | 57.0K |
+| 08:30 | AUD | Low | Participation Rate (Dec) | 66.8% | 67.1% | 67.3% |
+| 08:30 | AUD | Low | Reserve Assets Total (Dec) | 89,432.0B |  | 91,918.0B |
+| 08:30 | AUD | Moderate | Unemployment Rate (Dec) | 3.9% | 3.9% | 3.9% |
+| 48 min | NZD | Low | RBNZ Offshore Holdings (Dec) |  |  | 56.80% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Nov) |  |  | 1.5% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Nov) |  | -0.9% | 1.3% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Dec) |  |  | 9.5% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Dec) |  |  | 2.0% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Dec) |  |  | 0.1% |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Dec) |  |  | 16.2% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Dec) |  |  | 12.2% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Dec) |  |  | -5.7% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Dec) |  |  | 0.2% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Dec) |  |  | 14.0% |
 | 15:00 | NOK | Low | Industrial Confidence (Q4) |  |  | -2.2 |
