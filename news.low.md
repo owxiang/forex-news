@@ -17,8 +17,8 @@
 | 05:45 | NZD | External Migration & Visitors (Nov) | 30.40% |  | 39.80% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,740 |  | 9,090 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | -1.5% |  | -6.7% |
-| 13 min | JPY | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
-| 13 min | JPY | National CPI (YoY) (Dec) |  |  | 2.8% |
+| 07:30 | JPY | CPI, n.s.a (MoM) (Dec) | -0.1% |  | -0.2% |
+| 07:30 | JPY | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
 | 15:00 | EUR | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | Tentative | CNY | FDI |  |  | -10.00% |

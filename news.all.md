@@ -25,9 +25,9 @@
 | 05:45 | NZD | Low | External Migration & Visitors (Nov) | 30.40% |  | 39.80% |
 | 05:45 | NZD | Low | Permanent/Long-Term Migration (Nov) | 2,740 |  | 9,090 |
 | 05:45 | NZD | Low | Visitor Arrivals (MoM) | -1.5% |  | -6.7% |
-| 13 min | JPY | Low | CPI, n.s.a (MoM) (Dec) |  |  | -0.2% |
-| 13 min | JPY | Moderate | National Core CPI (YoY) (Dec) |  | 2.3% | 2.5% |
-| 13 min | JPY | Low | National CPI (YoY) (Dec) |  |  | 2.8% |
+| 07:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) | -0.1% |  | -0.2% |
+| 07:30 | JPY | Moderate | National Core CPI (YoY) (Dec) | 2.3% | 2.3% | 2.5% |
+| 07:30 | JPY | Low | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
@@ -36,8 +36,8 @@
 | 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |
-| 15:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.3% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
+| 15:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
