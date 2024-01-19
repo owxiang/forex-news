@@ -10,13 +10,13 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,674B |  | 7,687B |
 | 05:30 | NZD | Business NZ PMI (Dec) | 43.1 |  | 46.5 |
 | 07:30 | JPY | National Core CPI (YoY) (Dec) | 2.3% | 2.3% | 2.5% |
-| 39 min | GBP | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
-| 39 min | GBP | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
-| 39 min | GBP | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
-| 39 min | GBP | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
-| 39 min | EUR | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
-| 15:30 | CHF | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
-| 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
+| 15:00 | GBP | Core Retail Sales (MoM) (Dec) | -3.3% | -0.6% | 1.5% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Dec) | -2.1% | 1.3% | 0.5% |
+| 15:00 | GBP | Retail Sales (YoY) (Dec) | -2.4% | 1.1% | 0.2% |
+| 15:00 | GBP | Retail Sales (MoM) (Dec) | -3.2% | -0.5% | 1.4% |
+| 15:00 | EUR | German PPI (MoM) (Dec) | -1.2% | -0.5% | -0.5% |
+| 15 min | CHF | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
+| 45 min | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | CAD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
