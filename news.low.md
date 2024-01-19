@@ -25,7 +25,7 @@
 | 16:30 | CNY | FDI (Dec) | -8.00% |  | -10.00% |
 | 18:00 | EUR | Spanish Consumer Confidence | 77.6 |  | 76.7 |
 | 19:30 | INR | FX Reserves, USD | 618.94B |  | 617.30B |
-| 20:00 | MXN | Retail Sales (MoM) (Nov) | 0.1% | 0.5% | 0.8% |
+| 20:00 | MXN | Retail Sales (MoM) (Nov) | 0.1% | 0.5% | 0.7% |
 | 20:00 | MXN | Retail Sales (YoY) (Nov) | 2.7% | 3.2% | 3.4% |
 | 20:00 | BRL | IBC-Br Economic Activity (Nov) | 0.01% | 0.10% | -0.18% |
 | 23:00 | USD | Michigan Current Conditions (Jan) |  |  | 73.3 |
