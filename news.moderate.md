@@ -10,8 +10,8 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,674B |  | 7,687B |
 | 05:30 | NZD | Business NZ PMI (Dec) | 43.1 |  | 46.5 |
 | 07:30 | JPY | National Core CPI (YoY) (Dec) | 2.3% | 2.3% | 2.5% |
-| 15:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
+| 15:00 | GBP | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
 | 15:00 | GBP | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
 | 15:00 | EUR | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
