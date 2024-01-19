@@ -31,22 +31,21 @@
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) | -3.3% | -0.6% | 1.5% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) | -2.1% | 1.3% | 0.5% |
-| 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) | -2.4% | 1.1% | 0.2% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) | -3.2% | -0.5% | 1.4% |
-| 15:00 | EUR | Moderate | German PPI (MoM) (Dec) | -1.2% | -0.5% | -0.5% |
+| 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) | -2.4% | 1.1% | 0.2% |
 | 15:00 | EUR | Low | German PPI (YoY) (Dec) | -8.6% | -8.0% | -7.9% |
-| 15:30 | CHF | Low | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
+| 15:00 | EUR | Moderate | German PPI (MoM) (Dec) | -1.2% | -0.5% | -0.5% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Dec) | -0.6% | -0.6% | -0.9% |
+| 15:30 | CHF | Low | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | CNY | Low | FDI (Dec) | -8.00% |  | -10.00% |
 | 17:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence | 77.6 |  | 76.7 |
 | 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 42 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 617.30B |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
+| 16 min | INR | Low | FX Reserves, USD |  |  | 617.30B |
+| 46 min | MXN | Low | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
+| 46 min | MXN | Low | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
+| 46 min | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
 | 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |

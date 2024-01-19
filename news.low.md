@@ -24,9 +24,8 @@
 | 15:30 | CHF | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
 | 16:30 | CNY | FDI (Dec) | -8.00% |  | -10.00% |
 | 18:00 | EUR | Spanish Consumer Confidence | 77.6 |  | 76.7 |
-| 42 min | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
-| 19:30 | INR | FX Reserves, USD |  |  | 617.30B |
-| 20:00 | MXN | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
-| 20:00 | MXN | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
-| 20:00 | BRL | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
+| 16 min | INR | FX Reserves, USD |  |  | 617.30B |
+| 46 min | MXN | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
+| 46 min | MXN | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |
+| 46 min | BRL | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 23:00 | USD | Michigan Current Conditions (Jan) |  |  | 73.3 |
