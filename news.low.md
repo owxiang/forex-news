@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 02:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.3K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -13.2K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -173.0K |
