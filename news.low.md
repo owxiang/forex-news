@@ -1,31 +1,19 @@
-## 19 January 2024 - Low Impact Forex News
+## 20 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | EIA Refinery Crude Runs (WoW) | 0.135M |  | -0.161M |
-| 00:00 | USD | Crude Oil Imports | -0.528M |  | 1.316M |
-| 00:00 | USD | Distillate Fuel Production | -0.265M |  | -0.064M |
-| 00:00 | USD | EIA Weekly Distillates Stocks | 2.370M | 0.880M | 6.528M |
-| 00:00 | USD | Gasoline Production | -0.291M |  | 0.901M |
-| 00:00 | USD | Heating Oil Stockpiles | 0.542M |  | -0.623M |
-| 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.6% |
-| 00:00 | USD | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
-| 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
-| 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
-| 01:30 | BRL | Foreign Exchange Flows | 3.575B |  | -2.062B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.592T |  | 3.537T |
-| 05:45 | NZD | External Migration & Visitors (Nov) | 30.40% |  | 39.80% |
-| 05:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,740 |  | 9,090 |
-| 05:45 | NZD | Visitor Arrivals (MoM) | -1.5% |  | -6.7% |
-| 07:30 | JPY | CPI, n.s.a (MoM) (Dec) | -0.1% |  | -0.2% |
-| 07:30 | JPY | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
-| 12:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
-| 15:00 | EUR | German PPI (YoY) (Dec) | -8.6% | -8.0% | -7.9% |
-| 15:30 | CHF | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
-| 16:30 | CNY | FDI (Dec) | -8.00% |  | -10.00% |
-| 18:00 | EUR | Spanish Consumer Confidence | 77.6 |  | 76.7 |
-| 19:30 | INR | FX Reserves, USD | 618.94B |  | 617.30B |
-| 20:00 | MXN | Retail Sales (MoM) (Nov) | 0.1% | 0.5% | 0.7% |
-| 20:00 | MXN | Retail Sales (YoY) (Nov) | 2.7% | 3.2% | 3.4% |
-| 20:00 | BRL | IBC-Br Economic Activity (Nov) | 0.01% | 0.10% | -0.18% |
-| 23:00 | USD | Michigan Current Conditions (Jan) | 83.3 | 73.0 | 73.3 |
+| 02:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 5.3K |
+| 04:30 | USD | CFTC Copper speculative net positions |  |  | -13.2K |
+| 04:30 | USD | CFTC Corn speculative net positions |  |  | -173.0K |
+| 04:30 | USD | CFTC Natural Gas speculative net positions |  |  | -66.1K |
+| 04:30 | USD | CFTC Silver speculative net positions |  |  | 26.4K |
+| 04:30 | USD | CFTC Soybeans speculative net positions |  |  | -38.0K |
+| 04:30 | USD | CFTC Wheat speculative net positions |  |  | -33.4K |
+| 04:30 | CAD | CFTC CAD speculative net positions |  |  | -7.4K |
+| 04:30 | MXN | CFTC MXN speculative net positions |  |  | 88.4K |
+| 04:30 | CHF | CFTC CHF speculative net positions |  |  | -4.4K |
+| 04:30 | NZD | CFTC NZD speculative net positions |  |  | -1.8K |
+| 05:00 | USD | US Foreign Buying, T-bonds (Nov) |  |  | 54.00B |
+| 05:00 | USD | Overall Net Capital Flow (Nov) |  |  | -83.80B |
+| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Nov) |  |  | 3.30B |
