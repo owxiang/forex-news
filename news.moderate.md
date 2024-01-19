@@ -19,10 +19,10 @@
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10 min | CAD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
-| 10 min | CAD | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
-| 23:00 | USD | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
-| 23:00 | USD | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
-| 23:00 | USD | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |
+| 21:30 | CAD | Core Retail Sales (MoM) (Nov) | -0.5% | -0.1% | 0.4% |
+| 21:30 | CAD | Retail Sales (MoM) (Nov) | -0.2% | 0.0% | 0.5% |
+| 45 min | USD | Existing Home Sales (MoM) (Dec) |  | 0.3% | 0.8% |
+| 45 min | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 3.1% | 3.1% |
+| 45 min | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 3.0% | 2.9% |
+| 45 min | USD | Michigan Consumer Expectations (Jan) |  | 67.0 | 67.4 |
+| 45 min | USD | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |

@@ -33,8 +33,8 @@
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) | -2.1% | 1.3% | 0.5% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) | -3.2% | -0.5% | 1.4% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) | -2.4% | 1.1% | 0.2% |
-| 15:00 | EUR | Low | German PPI (YoY) (Dec) | -8.6% | -8.0% | -7.9% |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Dec) | -1.2% | -0.5% | -0.5% |
+| 15:00 | EUR | Low | German PPI (YoY) (Dec) | -8.6% | -8.0% | -7.9% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Dec) | -0.6% | -0.6% | -0.9% |
 | 15:30 | CHF | Low | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
@@ -46,12 +46,12 @@
 | 20:00 | MXN | Low | Retail Sales (MoM) (Nov) | 0.1% | 0.5% | 0.7% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Nov) | 2.7% | 3.2% | 3.4% |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) | 0.01% | 0.10% | -0.18% |
-| 10 min | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
-| 10 min | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
-| 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
-| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
-| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
-| 23:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
-| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |
-| 23:00 | USD | Low | Michigan Current Conditions (Jan) |  |  | 73.3 |
+| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | -0.5% | -0.1% | 0.4% |
+| 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | -0.2% | 0.0% | 0.5% |
+| 45 min | USD | Moderate | Existing Home Sales (MoM) (Dec) |  | 0.3% | 0.8% |
+| 45 min | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
+| 45 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.1% | 3.1% |
+| 45 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.0% | 2.9% |
+| 45 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 67.0 | 67.4 |
+| 45 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |
+| 45 min | USD | Low | Michigan Current Conditions (Jan) |  | 73.0 | 73.3 |

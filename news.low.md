@@ -28,4 +28,4 @@
 | 20:00 | MXN | Retail Sales (MoM) (Nov) | 0.1% | 0.5% | 0.7% |
 | 20:00 | MXN | Retail Sales (YoY) (Nov) | 2.7% | 3.2% | 3.4% |
 | 20:00 | BRL | IBC-Br Economic Activity (Nov) | 0.01% | 0.10% | -0.18% |
-| 23:00 | USD | Michigan Current Conditions (Jan) |  |  | 73.3 |
+| 45 min | USD | Michigan Current Conditions (Jan) |  | 73.0 | 73.3 |
