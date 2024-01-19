@@ -35,14 +35,14 @@
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) | -3.2% | -0.5% | 1.4% |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Dec) | -1.2% | -0.5% | -0.5% |
 | 15:00 | EUR | Low | German PPI (YoY) (Dec) | -8.6% | -8.0% | -7.9% |
-| 15:30 | CHF | Moderate | PPI (MoM) (Dec) | -0.6% | -0.6% | -0.9% |
 | 15:30 | CHF | Low | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Dec) | -0.6% | -0.6% | -0.9% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 16:30 | CNY | Low | FDI (Dec) | -8.00% |  | -10.00% |
-| 14 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 44 min | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
-| 44 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 19:00 | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
+| 17:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 18:00 | EUR | Low | Spanish Consumer Confidence | 77.6 |  | 76.7 |
+| 18:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 42 min | CAD | Low | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 617.30B |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Nov) |  | 3.2% | 3.4% |

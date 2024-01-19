@@ -17,8 +17,8 @@
 | 15:00 | EUR | German PPI (MoM) (Dec) | -1.2% | -0.5% | -0.5% |
 | 15:30 | CHF | PPI (MoM) (Dec) | -0.6% | -0.6% | -0.9% |
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
-| 14 min | EUR | ECB McCaul Speaks |  |  |  |
-| 44 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 17:30 | EUR | ECB McCaul Speaks |  |  |  |
+| 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:30 | CAD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
 | 21:30 | CAD | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
 | 23:00 | USD | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
