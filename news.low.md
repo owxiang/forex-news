@@ -12,14 +12,14 @@
 | 00:00 | USD | Gasoline Inventories | 3.083M | 2.150M | 8.029M |
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
-| 01:30 | BRL | Foreign Exchange Flows | 5.637B |  | -2.062B |
+| 01:30 | BRL | Foreign Exchange Flows | 3.575B |  | -2.062B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.592T |  | 3.537T |
 | 05:45 | NZD | External Migration & Visitors (Nov) | 30.40% |  | 39.80% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Nov) | 2,740 |  | 9,090 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | -1.5% |  | -6.7% |
 | 07:30 | JPY | CPI, n.s.a (MoM) (Dec) | -0.1% |  | -0.2% |
 | 07:30 | JPY | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
-| 10 min | JPY | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
+| 12:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
 | 15:00 | EUR | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | Tentative | CNY | FDI |  |  | -10.00% |
 | 15:30 | CHF | PPI (YoY) (Dec) |  |  | -1.3% |

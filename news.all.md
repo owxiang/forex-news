@@ -17,7 +17,7 @@
 | 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q4) | 2.4% | 2.4% | 2.4% |
 | 00:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 01:05 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows | 5.637B |  | -2.062B |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 3.575B |  | -2.062B |
 | 02:00 | USD | Moderate | 10-Year TIPS Auction | 1.810% |  | 2.180% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,674B |  | 7,687B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.592T |  | 3.537T |
@@ -28,16 +28,16 @@
 | 07:30 | JPY | Low | CPI, n.s.a (MoM) (Dec) | -0.1% |  | -0.2% |
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Dec) | 2.3% | 2.3% | 2.5% |
 | 07:30 | JPY | Low | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
-| 10 min | JPY | Low | Tertiary Industry Activity Index (Nov) |  | 0.20 | -1.20 |
+| 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
-| 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | 15:00 | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
+| 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |
-| 15:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.3% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
+| 15:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.3% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
@@ -49,8 +49,8 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
-| 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
 | 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
+| 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
 | 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
 | 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
