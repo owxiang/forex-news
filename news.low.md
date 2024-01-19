@@ -20,7 +20,7 @@
 | 07:30 | JPY | CPI, n.s.a (MoM) (Dec) | -0.1% |  | -0.2% |
 | 07:30 | JPY | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
 | 12:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
-| 15:00 | EUR | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
+| 39 min | EUR | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
 | Tentative | CNY | FDI |  |  | -10.00% |
 | 15:30 | CHF | PPI (YoY) (Dec) |  |  | -1.3% |
 | 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |

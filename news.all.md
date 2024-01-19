@@ -29,15 +29,15 @@
 | 07:30 | JPY | Moderate | National Core CPI (YoY) (Dec) | 2.3% | 2.3% | 2.5% |
 | 07:30 | JPY | Low | National CPI (YoY) (Dec) | 2.6% |  | 2.8% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
-| 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
-| 15:00 | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
-| 15:00 | GBP | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
-| 15:00 | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
-| 15:00 | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
+| 39 min | GBP | Moderate | Core Retail Sales (YoY) (Dec) |  | 1.3% | 0.3% |
+| 39 min | GBP | Moderate | Core Retail Sales (MoM) (Dec) |  | -0.6% | 1.3% |
+| 39 min | GBP | Moderate | Retail Sales (MoM) (Dec) |  | -0.5% | 1.3% |
+| 39 min | GBP | Moderate | Retail Sales (YoY) (Dec) |  | 1.1% | 0.1% |
+| 39 min | EUR | Low | German PPI (YoY) (Dec) |  | -8.0% | -7.9% |
+| 39 min | EUR | Moderate | German PPI (MoM) (Dec) |  | -0.5% | -0.5% |
 | Tentative | CNY | Low | FDI |  |  | -10.00% |
-| 15:30 | CHF | Moderate | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
 | 15:30 | CHF | Low | PPI (YoY) (Dec) |  |  | -1.3% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Dec) |  | -0.6% | -0.9% |
 | 16:00 | CHF | Moderate | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence |  |  | 76.7 |
@@ -49,8 +49,8 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) |  | 0.10% | -0.06% |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
 | 23:00 | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
 | 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
 | 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
 | 23:00 | USD | Moderate | Michigan Consumer Expectations (Jan) |  |  | 67.4 |
