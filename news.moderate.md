@@ -19,8 +19,8 @@
 | 16:00 | CHF | World Economic Forum Annual Meetings |  |  |  |
 | 17:30 | EUR | ECB McCaul Speaks |  |  |  |
 | 18:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:30 | CAD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
-| 21:30 | CAD | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
+| 59 min | CAD | Core Retail Sales (MoM) (Nov) |  | -0.1% | 0.6% |
+| 59 min | CAD | Retail Sales (MoM) (Nov) |  | 0.0% | 0.7% |
 | 23:00 | USD | Existing Home Sales (MoM) (Dec) |  |  | 0.8% |
 | 23:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  |  | 3.1% |
 | 23:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  |  | 2.9% |
