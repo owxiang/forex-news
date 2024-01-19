@@ -22,7 +22,8 @@
 | 12:30 | JPY | Tertiary Industry Activity Index (Nov) | -0.80 | 0.20 | -0.70 |
 | 15:00 | EUR | German PPI (YoY) (Dec) | -8.6% | -8.0% | -7.9% |
 | 15:30 | CHF | PPI (YoY) (Dec) | -1.1% |  | -1.3% |
-| 18:00 | EUR | Spanish Consumer Confidence |  |  | 76.7 |
+| 16:30 | CNY | FDI (Dec) | -8.00% |  | -10.00% |
+| 44 min | EUR | Spanish Consumer Confidence |  |  | 76.7 |
 | 19:00 | CAD | Leading Index (MoM) (Dec) |  |  | -0.01% |
 | 19:30 | INR | FX Reserves, USD |  |  | 617.30B |
 | 20:00 | MXN | Retail Sales (MoM) (Nov) |  | 0.5% | 0.8% |
