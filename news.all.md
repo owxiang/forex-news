@@ -48,10 +48,10 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Nov) | 0.01% | 0.10% | -0.18% |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Nov) | -0.5% | -0.1% | 0.4% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Nov) | -0.2% | 0.0% | 0.5% |
-| 45 min | USD | Moderate | Existing Home Sales (MoM) (Dec) |  | 0.3% | 0.8% |
-| 45 min | USD | High | Existing Home Sales (Dec) |  | 3.82M | 3.82M |
-| 45 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) |  | 3.1% | 3.1% |
-| 45 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) |  | 3.0% | 2.9% |
-| 45 min | USD | Moderate | Michigan Consumer Expectations (Jan) |  | 67.0 | 67.4 |
-| 45 min | USD | Moderate | Michigan Consumer Sentiment (Jan) |  | 70.0 | 69.7 |
-| 45 min | USD | Low | Michigan Current Conditions (Jan) |  | 73.0 | 73.3 |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Dec) | -1.0% | 0.3% | 0.8% |
+| 23:00 | USD | High | Existing Home Sales (Dec) | 3.78M | 3.82M | 3.82M |
+| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jan) | 2.9% | 3.1% | 3.1% |
+| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jan) | 2.8% | 3.0% | 2.9% |
+| 23:00 | USD | Moderate | Michigan Consumer Expectations (Jan) | 75.9 | 67.0 | 67.4 |
+| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Jan) | 78.8 | 70.0 | 69.7 |
+| 23:00 | USD | Low | Michigan Current Conditions (Jan) | 83.3 | 73.0 | 73.3 |
