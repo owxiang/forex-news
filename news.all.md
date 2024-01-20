@@ -12,4 +12,5 @@
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.319% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.829% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.697% |
-| 23:00 | USD | Moderate | US Leading Index (MoM) (Dec) |  |  | -0.5% |
+| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:00 | USD | Moderate | US Leading Index (MoM) (Dec) |  | -0.3% | -0.5% |
