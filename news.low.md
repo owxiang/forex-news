@@ -1,13 +1,19 @@
-## 22 January 2024 - Low Impact Forex News
+## 23 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:15 | CNY | China Loan Prime Rate 5Y (Jan) | 4.20% | 4.20% | 4.20% |
-| 11:00 | IDR | M2 Money Supply (YoY) (Nov) | 3.50% |  | 3.40% |
-| 16:00 | CHF | M3 Money Supply (Dec) | 1,136.2B |  | 1,134.6B |
-| 16:30 | HKD | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
-| 16:30 | HKD | CPI (YoY) (Dec) | 2.40% | 2.50% | 2.60% |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21:55 | EUR | French 12-Month BTF Auction | 3.406% |  | 3.319% |
-| 21:55 | EUR | French 3-Month BTF Auction | 3.837% |  | 3.829% |
-| 21:55 | EUR | French 6-Month BTF Auction | 3.755% |  | 3.697% |
+| 10 min | USD | 3-Month Bill Auction |  |  | 5.225% |
+| 10 min | USD | 6-Month Bill Auction |  |  | 4.975% |
+| 05:00 | KRW | PPI (YoY) (Dec) |  |  | 0.6% |
+| 05:00 | KRW | PPI (MoM) (Dec) |  |  | -0.4% |
+| 08:30 | AUD | NAB Business Survey (Dec) |  |  | 9 |
+| 13:00 | SGD | CPI (MoM) (Dec) |  |  | -0.20% |
+| 15:00 | GBP | Public Sector Net Borrowing (Dec) |  | 11.20B | 13.41B |
+| 15:00 | GBP | Public Sector Net Cash Requirement (Dec) |  |  | 12.453B |
+| 15:00 | ZAR | Leading Indicators (Nov) |  |  | 112.00% |
+| 17:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 21:55 | USD | Redbook (YoY) |  |  | 5.0% |
+| 23:00 | USD | Richmond Manufacturing Index (Jan) |  | -7 | -11 |
+| 23:00 | USD | Richmond Manufacturing Shipments (Jan) |  |  | -17 |
+| 23:00 | USD | Richmond Services Index (Jan) |  |  | 0 |
+| 23:00 | EUR | Consumer Confidence (Jan) |  | -14.0 | -15.0 |
