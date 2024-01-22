@@ -8,7 +8,7 @@
 | 16:00 | CHF | Low | M3 Money Supply (Dec) | 1,136.2B |  | 1,134.6B |
 | 16:30 | HKD | Low | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Dec) | 2.40% | 2.50% | 2.60% |
-| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.319% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.829% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.697% |
