@@ -9,8 +9,8 @@
 | 16:30 | HKD | Low | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Dec) | 2.40% | 2.50% | 2.60% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.319% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.829% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.697% |
-| 22:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.319% |
+| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.829% |
+| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.697% |
+| 40 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | USD | Moderate | US Leading Index (MoM) (Dec) |  | -0.3% | -0.5% |

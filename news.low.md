@@ -8,6 +8,6 @@
 | 16:30 | HKD | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Dec) | 2.40% | 2.50% | 2.60% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.319% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.829% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.697% |
+| 35 min | EUR | French 12-Month BTF Auction |  |  | 3.319% |
+| 35 min | EUR | French 3-Month BTF Auction |  |  | 3.829% |
+| 35 min | EUR | French 6-Month BTF Auction |  |  | 3.697% |
