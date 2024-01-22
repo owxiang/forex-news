@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 10 min | USD | Low | 3-Month Bill Auction |  |  | 5.225% |
-| 10 min | USD | Low | 6-Month Bill Auction |  |  | 4.975% |
-| 05:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 0.6% |
+| 00:30 | USD | Low | 3-Month Bill Auction | 5.225% |  | 5.225% |
+| 00:30 | USD | Low | 6-Month Bill Auction | 5.020% |  | 4.975% |
 | 05:00 | KRW | Low | PPI (MoM) (Dec) |  |  | -0.4% |
+| 05:00 | KRW | Low | PPI (YoY) (Dec) |  |  | 0.6% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Dec) |  |  | -9 |
 | 08:30 | AUD | Low | NAB Business Survey (Dec) |  |  | 9 |
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
