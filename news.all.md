@@ -6,8 +6,8 @@
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 11:00 | IDR | Low | M2 Money Supply (YoY) (Nov) | 3.50% |  | 3.40% |
 | 16:00 | CHF | Low | M3 Money Supply (Dec) | 1,136.2B |  | 1,134.6B |
-| 8 min | HKD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
-| 8 min | HKD | Low | CPI (YoY) (Dec) |  | 2.50% | 2.60% |
+| 16:30 | HKD | Low | CPI (MoM) (Dec) | 0.10% |  | 0.00% |
+| 16:30 | HKD | Low | CPI (YoY) (Dec) | 2.40% | 2.50% | 2.60% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.319% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.829% |
