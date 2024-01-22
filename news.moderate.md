@@ -3,5 +3,5 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 09:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 40 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | USD | US Leading Index (MoM) (Dec) |  | -0.3% | -0.5% |
+| 22:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 44 min | USD | US Leading Index (MoM) (Dec) |  | -0.3% | -0.5% |
