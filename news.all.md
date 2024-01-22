@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Jan) | 4.20% | 4.20% | 4.20% |
 | 09:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 12:00 | IDR | Low | M2 Money Supply (YoY) (Dec) |  |  | 3.30% |
+| 42 min | IDR | Low | M2 Money Supply (YoY) (Dec) | 3.50% |  | 3.30% |
 | 16:00 | CHF | Low | M3 Money Supply (Dec) |  |  | 1,132.5B |
 | 16:30 | HKD | Low | CPI (MoM) (Dec) |  |  | 0.00% |
 | 16:30 | HKD | Low | CPI (YoY) (Dec) |  |  | 2.60% |

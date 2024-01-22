@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 09:15 | CNY | China Loan Prime Rate 5Y (Jan) | 4.20% | 4.20% | 4.20% |
-| 12:00 | IDR | M2 Money Supply (YoY) (Dec) |  |  | 3.30% |
+| 42 min | IDR | M2 Money Supply (YoY) (Dec) | 3.50% |  | 3.30% |
 | 16:00 | CHF | M3 Money Supply (Dec) |  |  | 1,132.5B |
 | 16:30 | HKD | CPI (MoM) (Dec) |  |  | 0.00% |
 | 16:30 | HKD | CPI (YoY) (Dec) |  |  | 2.60% |
