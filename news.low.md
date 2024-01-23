@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 8 min | USD | 52-Week Bill Auction |  |  | 4.595% |
+| 00:30 | USD | 52-Week Bill Auction | 4.570% |  | 4.595% |
 | 05:00 | KRW | Consumer Confidence (Jan) |  |  | 99.5 |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.6 |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.1 |
@@ -11,8 +11,8 @@
 | 08:00 | AUD | MI Leading Index (MoM) (Dec) |  |  | 0.1% |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) |  | 48.2 | 47.9 |
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 3.3% |
-| 16:00 | ZAR | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
+| 16:00 | ZAR | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
 | 16:00 | ZAR | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
 | 16:15 | EUR | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
