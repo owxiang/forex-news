@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | USD | 2-Year Note Auction |  |  | 4.314% |
+| 02:00 | USD | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | -3.000M | 0.483M |
 | 05:45 | NZD | CPI (QoQ) (Q4) |  | 0.5% | 1.8% |
 | 05:45 | NZD | CPI (YoY) (Q4) |  | 4.7% | 5.6% |

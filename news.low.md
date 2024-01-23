@@ -13,8 +13,8 @@
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 3.3% |
 | 16:00 | ZAR | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
-| 16:00 | ZAR | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
 | 16:00 | ZAR | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
+| 16:00 | ZAR | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
 | 16:15 | EUR | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
 | 16:20 | IDR | Foreign Direct Investment (YoY) |  |  | 16.20% |
 | 16:30 | EUR | HCOB Germany Composite PMI (Jan) |  | 47.8 | 47.4 |
