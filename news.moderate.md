@@ -1,13 +1,26 @@
-## 23 January 2024 - Moderate Impact Forex News
+## 24 January 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | NAB Business Confidence (Dec) | -1 |  | -8 |
-| 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 11:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 11:00 | JPY | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 13:00 | JPY | BoJ Core CPI (YoY) | 2.6% | 2.8% | 2.7% |
-| 13:00 | SGD | Core CPI (YoY) (Dec) | 3.30% | 3.10% | 3.20% |
-| 13:00 | SGD | CPI (YoY) (Dec) | 3.7% | 3.5% | 3.6% |
-| 14:30 | JPY | BoJ Press Conference |  |  |  |
-| 21:30 | CAD | New Housing Price Index (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
+| 02:00 | USD | 2-Year Note Auction |  |  | 4.314% |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | -3.000M | 0.483M |
+| 05:45 | NZD | CPI (YoY) (Q4) |  | 4.7% | 5.6% |
+| 05:45 | NZD | CPI (QoQ) (Q4) |  | 0.5% | 1.8% |
+| 07:50 | JPY | Adjusted Trade Balance |  | -0.45T | -0.41T |
+| 07:50 | JPY | Exports (YoY) (Dec) |  | 9.1% | -0.2% |
+| 07:50 | JPY | Trade Balance (Dec) |  | -122.1B | -776.9B |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 51.5 |
+| 16:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
+| 16:15 | EUR | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
+| 16:30 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 43.7 | 43.3 |
+| 16:30 | EUR | HCOB Germany Services PMI (Jan) |  | 49.5 | 49.3 |
+| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 44.8 | 44.4 |
+| 17:00 | EUR | HCOB Eurozone Composite PMI (Jan) |  | 48.8 | 47.6 |
+| 17:00 | EUR | HCOB Eurozone Services PMI (Jan) |  | 49.0 | 48.8 |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 52.2 | 52.1 |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 46.7 | 46.2 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI |  | 53.2 | 53.4 |
+| 22:45 | USD | S&P Global Composite PMI (Jan) |  |  | 50.9 |
+| 22:45 | CAD | BoC Rate Statement |  |  |  |
+| 23:00 | CAD | BoC Monetary Policy Report |  |  |  |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | -2.099M |
