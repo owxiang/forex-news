@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.225% |  | 5.225% |
 | 00:30 | USD | 6-Month Bill Auction | 5.020% |  | 4.975% |
-| 05:00 | KRW | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
 | 05:00 | KRW | PPI (MoM) (Dec) | 0.1% |  | -0.4% |
+| 05:00 | KRW | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
 | 08:30 | AUD | NAB Business Survey (Dec) | 7 |  | 9 |
 | 13:00 | SGD | CPI (MoM) (Dec) | 0.40% |  | -0.20% |
 | 15:00 | GBP | Public Sector Net Borrowing (Dec) | 6.85B | 11.40B | 12.78B |
