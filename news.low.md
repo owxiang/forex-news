@@ -3,9 +3,9 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 52-Week Bill Auction | 4.570% |  | 4.595% |
-| 42 min | KRW | Consumer Confidence (Jan) |  |  | 99.5 |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.6 |
-| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 47.1 |
+| 05:00 | KRW | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
+| 46 min | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.6 |
+| 46 min | AUD | Judo Bank Australia Services PMI |  |  | 47.1 |
 | 07:30 | AUD | MI Leading Index (MoM) |  |  | 0.1% |
 | 07:50 | JPY | Imports (YoY) (Dec) |  | -5.3% | -11.9% |
 | 08:00 | AUD | MI Leading Index (MoM) (Dec) |  |  | 0.1% |
@@ -13,8 +13,8 @@
 | 10:00 | NZD | Credit Card Spending (YoY) |  |  | 3.3% |
 | 16:00 | ZAR | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
-| 16:00 | ZAR | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
 | 16:00 | ZAR | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
+| 16:00 | ZAR | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
 | 16:15 | EUR | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
 | 16:20 | IDR | Foreign Direct Investment (YoY) |  |  | 16.20% |
 | 16:30 | EUR | HCOB Germany Composite PMI (Jan) |  | 47.8 | 47.4 |
