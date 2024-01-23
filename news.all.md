@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.225% |  | 5.225% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.020% |  | 4.975% |
-| 05:00 | KRW | Low | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
 | 05:00 | KRW | Low | PPI (MoM) (Dec) | 0.1% |  | -0.4% |
+| 05:00 | KRW | Low | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Dec) | -1 |  | -8 |
 | 08:30 | AUD | Low | NAB Business Survey (Dec) | 7 |  | 9 |
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
@@ -22,8 +22,8 @@
 | 17:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 18:30 | EUR | Low | German 30-Year Bund Auction | 2.470% |  | 2.450% |
 | 18:30 | EUR | Low | German 5-Year Bobl Auction | 2.210% |  | 2.120% |
-| 58 min | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | 0.0% | -0.2% |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 5.0% |
+| 10 min | CAD | Moderate | New Housing Price Index (MoM) (Dec) |  | 0.0% | -0.2% |
+| 35 min | USD | Low | Redbook (YoY) |  |  | 5.0% |
 | 23:00 | USD | Low | Richmond Manufacturing Index (Jan) |  | -7 | -11 |
 | 23:00 | USD | Low | Richmond Manufacturing Shipments (Jan) |  |  | -17 |
 | 23:00 | USD | Low | Richmond Services Index (Jan) |  |  | 0 |
