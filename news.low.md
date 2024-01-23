@@ -7,7 +7,7 @@
 | 05:00 | KRW | PPI (MoM) (Dec) | 0.1% |  | -0.4% |
 | 05:00 | KRW | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
 | 08:30 | AUD | NAB Business Survey (Dec) | 7 |  | 9 |
-| 40 min | SGD | CPI (MoM) (Dec) |  |  | -0.20% |
+| 13:00 | SGD | CPI (MoM) (Dec) | 0.40% |  | -0.20% |
 | 15:00 | GBP | Public Sector Net Borrowing (Dec) |  | 11.40B | 13.41B |
 | 15:00 | GBP | Public Sector Net Cash Requirement (Dec) |  |  | 12.453B |
 | 15:00 | ZAR | Leading Indicators (Nov) |  |  | 112.00% |

@@ -11,10 +11,10 @@
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 11:00 | JPY | Moderate | BoJ Interest Rate Decision | -0.10% | -0.10% | -0.10% |
-| 40 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.8% | 2.7% |
-| 40 min | SGD | Moderate | Core CPI (YoY) (Dec) |  | 3.10% | 3.20% |
-| 40 min | SGD | Low | CPI (MoM) (Dec) |  |  | -0.20% |
-| 40 min | SGD | Moderate | CPI (YoY) (Dec) |  | 3.5% | 3.6% |
+| 13:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.6% | 2.8% | 2.7% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Dec) | 3.30% | 3.10% | 3.20% |
+| 13:00 | SGD | Low | CPI (MoM) (Dec) | 0.40% |  | -0.20% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Dec) | 3.7% | 3.5% | 3.6% |
 | 14:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 15:00 | GBP | Low | Public Sector Net Borrowing (Dec) |  | 11.40B | 13.41B |
 | 15:00 | GBP | Low | Public Sector Net Cash Requirement (Dec) |  |  | 12.453B |
