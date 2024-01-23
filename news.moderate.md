@@ -10,4 +10,4 @@
 | 13:00 | SGD | Core CPI (YoY) (Dec) | 3.30% | 3.10% | 3.20% |
 | 13:00 | SGD | CPI (YoY) (Dec) | 3.7% | 3.5% | 3.6% |
 | 14:30 | JPY | BoJ Press Conference |  |  |  |
-| 10 min | CAD | New Housing Price Index (MoM) (Dec) |  | 0.0% | -0.2% |
+| 21:30 | CAD | New Housing Price Index (MoM) (Dec) | 0.0% | 0.0% | -0.2% |
