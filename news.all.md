@@ -10,19 +10,19 @@
 | 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
-| 07:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.45T | -0.41T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Dec) |  | 9.1% | -0.2% |
-| 07:50 | JPY | Low | Imports (YoY) (Dec) |  | -5.3% | -11.9% |
-| 07:50 | JPY | Moderate | Trade Balance (Dec) |  | -122.1B | -776.9B |
-| 08:00 | AUD | Low | MI Leading Index (MoM) (Dec) |  |  | 0.1% |
+| 14 min | AUD | Low | MI Leading Index (MoM) |  |  | 0.1% |
+| 34 min | JPY | Moderate | Adjusted Trade Balance |  | -0.45T | -0.41T |
+| 34 min | JPY | Moderate | Exports (YoY) (Dec) |  | 9.1% | -0.2% |
+| 34 min | JPY | Low | Imports (YoY) (Dec) |  | -5.3% | -11.9% |
+| 34 min | JPY | Moderate | Trade Balance (Dec) |  | -122.1B | -776.9B |
+| 44 min | AUD | Low | MI Leading Index (MoM) (Dec) |  |  | 0.1% |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) |  | 48.2 | 47.9 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 51.5 |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 3.3% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
-| 16:00 | ZAR | Low | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
 | 16:00 | ZAR | Low | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
+| 16:00 | ZAR | Low | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
 | 16:15 | EUR | Low | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
 | 16:15 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
