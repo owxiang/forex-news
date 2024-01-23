@@ -5,7 +5,7 @@
 | 08:30 | AUD | NAB Business Confidence (Dec) | -1 |  | -8 |
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 10:30 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
-| 11:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
+| 29 min | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 13:00 | JPY | BoJ Core CPI (YoY) |  | 2.8% | 2.7% |
 | 13:00 | SGD | Core CPI (YoY) (Dec) |  | 3.10% | 3.20% |
 | 13:00 | SGD | CPI (YoY) (Dec) |  | 3.5% | 3.6% |

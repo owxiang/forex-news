@@ -4,13 +4,13 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.225% |  | 5.225% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.020% |  | 4.975% |
-| 05:00 | KRW | Low | PPI (MoM) (Dec) | 0.1% |  | -0.4% |
 | 05:00 | KRW | Low | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
+| 05:00 | KRW | Low | PPI (MoM) (Dec) | 0.1% |  | -0.4% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Dec) | -1 |  | -8 |
 | 08:30 | AUD | Low | NAB Business Survey (Dec) | 7 |  | 9 |
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 10:30 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
-| 11:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
+| 29 min | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 13:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.8% | 2.7% |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Dec) |  | 3.10% | 3.20% |
 | 13:00 | SGD | Low | CPI (MoM) (Dec) |  |  | -0.20% |
