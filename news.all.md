@@ -6,8 +6,8 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.020% |  | 4.975% |
 | 05:00 | KRW | Low | PPI (MoM) (Dec) | 0.1% |  | -0.4% |
 | 05:00 | KRW | Low | PPI (YoY) (Dec) | 1.2% |  | 0.6% |
-| 08:30 | AUD | Moderate | NAB Business Confidence (Dec) |  |  | -9 |
-| 08:30 | AUD | Low | NAB Business Survey (Dec) |  |  | 9 |
+| 08:30 | AUD | Moderate | NAB Business Confidence (Dec) | -1 |  | -8 |
+| 08:30 | AUD | Low | NAB Business Survey (Dec) | 7 |  | 9 |
 | 10:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 10:30 | JPY | Moderate | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 11:00 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |

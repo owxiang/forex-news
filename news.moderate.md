@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | NAB Business Confidence (Dec) |  |  | -9 |
+| 08:30 | AUD | NAB Business Confidence (Dec) | -1 |  | -8 |
 | 10:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 10:30 | JPY | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
 | 11:00 | JPY | BoJ Outlook Report (YoY) |  |  |  |
