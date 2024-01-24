@@ -50,12 +50,12 @@
 | 20:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.49% | 0.38% | 0.52% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Nov) | -0.50% | -0.20% | -0.10% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Nov) | 2.30% | 3.20% | 4.40% |
-| 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 47.9 | 47.9 |
-| 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 50.9 |
-| 22:45 | USD | High | S&P Global Services PMI (Jan) |  | 51.0 | 51.4 |
-| 22:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 22:45 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 23:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 29 min | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 47.9 | 47.9 |
+| 29 min | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 50.9 |
+| 29 min | USD | High | S&P Global Services PMI (Jan) |  | 51.0 | 51.4 |
+| 29 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 29 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 44 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 23:30 | USD | High | Crude Oil Inventories |  | -2.150M | -2.492M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | -0.528M |
