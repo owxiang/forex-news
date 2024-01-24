@@ -6,8 +6,8 @@
 | 02:00 | USD | Moderate | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:00 | KRW | Low | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
+| 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
 | 07:30 | AUD | Low | MI Leading Index (MoM) | 0.0% |  | 0.1% |
@@ -21,10 +21,10 @@
 | 11:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
 | 15:55 | CNY | Moderate | PBoC Reserve Requirement Ratio | 10.00% |  | 10.50% |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
-| 16:00 | ZAR | Low | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
+| 16:00 | ZAR | Low | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) | 43.2 | 42.5 | 42.1 |
 | 16:15 | EUR | Low | HCOB France Composite PMI (Jan) | 44.2 | 45.2 | 44.8 |
 | 16:15 | EUR | Moderate | HCOB France Services PMI (Jan) | 45.0 | 46.0 | 45.7 |
@@ -38,19 +38,19 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 47.3 | 46.7 | 46.2 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 53.8 | 53.2 | 53.4 |
 | 18:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.946% |  | 4.041% |
-| 12 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.470% |
-| 42 min | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -23 | -23 |
-| 42 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 10.4% |
-| 20:00 | USD | Low | MBA Purchase Index |  |  | 162.2 |
-| 20:00 | USD | Low | Mortgage Market Index |  |  | 210.5 |
-| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 471.2 |
-| 20:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
-| 20:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
+| 18:45 | EUR | Low | German 30-Year Bund Auction | 2.530% |  | 2.470% |
+| 19:00 | GBP | Low | CBI Industrial Trends Orders (Jan) | -30 | -23 | -23 |
+| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 16 min | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 46 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
+| 46 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 10.4% |
+| 46 min | USD | Low | MBA Purchase Index |  |  | 162.2 |
+| 46 min | USD | Low | Mortgage Market Index |  |  | 210.5 |
+| 46 min | USD | Low | Mortgage Refinance Index |  |  | 471.2 |
+| 46 min | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
+| 46 min | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
+| 46 min | MXN | Low | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
+| 46 min | MXN | Low | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 47.9 | 47.9 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 50.9 |
 | 22:45 | USD | High | S&P Global Services PMI (Jan) |  | 51.0 | 51.4 |
