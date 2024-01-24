@@ -30,8 +30,8 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 471.2 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
 | 20:00 | MXN | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
-| 20:00 | MXN | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
 | 20:00 | MXN | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
+| 20:00 | MXN | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.528M |
 | 23:30 | USD | Distillate Fuel Production |  |  | -0.265M |

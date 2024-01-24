@@ -49,8 +49,8 @@
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 471.2 |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 47.9 | 47.9 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 50.9 |
 | 22:45 | USD | High | S&P Global Services PMI (Jan) |  | 51.0 | 51.4 |
