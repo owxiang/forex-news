@@ -5,10 +5,10 @@
 | 00:00 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 02:00 | USD | Moderate | 5-Year Note Auction | 4.055% |  | 3.801% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Feb) | 72 |  | 72 |
-| 45 min | KRW | Low | GDP (YoY) (Q4) |  | 2.1% | 1.4% |
-| 45 min | KRW | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.6% |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,642.8B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,202.6B |
+| 07:00 | KRW | Low | GDP (YoY) (Q4) |  | 2.1% | 1.4% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 1,642.8B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,202.6B |
 | 08:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 15:00 | NOK | Low | Unemployment Rate (Dec) |  |  | 3.7% |
 | 15:45 | EUR | Low | French Business Survey (Jan) |  | 100 | 100 |
