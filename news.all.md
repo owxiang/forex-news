@@ -1,68 +1,66 @@
-## 24 January 2024 - All Forex News
+## 25 January 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | USD | Low | 52-Week Bill Auction | 4.570% |  | 4.595% |
-| 02:00 | USD | Moderate | 2-Year Note Auction | 4.365% |  | 4.314% |
-| 05:00 | KRW | Low | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
-| 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
-| 07:30 | AUD | Low | MI Leading Index (MoM) | 0.0% |  | 0.1% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance | -0.35T | -0.45T | -0.41T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Dec) | 9.8% | 9.1% | -0.2% |
-| 07:50 | JPY | Low | Imports (YoY) (Dec) | -6.8% | -5.3% | -11.9% |
-| 07:50 | JPY | Moderate | Trade Balance (Dec) | 62.1B | -122.1B | -780.4B |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 52.7 |  | 51.5 |
-| 10:00 | NZD | Low | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
-| 11:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 12:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 15:55 | CNY | Moderate | PBoC Reserve Requirement Ratio | 10.00% |  | 10.50% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
-| 16:00 | ZAR | Low | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
-| 16:00 | ZAR | Low | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
-| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) | 43.2 | 42.5 | 42.1 |
-| 16:15 | EUR | Low | HCOB France Composite PMI (Jan) | 44.2 | 45.2 | 44.8 |
-| 16:15 | EUR | Moderate | HCOB France Services PMI (Jan) | 45.0 | 46.0 | 45.7 |
-| 16:30 | EUR | Low | HCOB Germany Composite PMI (Jan) | 47.1 | 47.8 | 47.4 |
-| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) | 45.4 | 43.7 | 43.3 |
-| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Jan) | 47.6 | 49.5 | 49.3 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 44.8 | 44.4 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 47.9 | 48.0 | 47.6 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 48.4 | 49.0 | 48.8 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.5 | 52.2 | 52.1 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 47.3 | 46.7 | 46.2 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 53.8 | 53.2 | 53.4 |
-| 18:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.946% |  | 4.041% |
-| 18:45 | EUR | Low | German 30-Year Bund Auction | 2.530% |  | 2.470% |
-| 19:00 | GBP | Low | CBI Industrial Trends Orders (Jan) | -30 | -23 | -23 |
-| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.78% |  | 6.75% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 3.7% |  | 10.4% |
-| 20:00 | USD | Low | MBA Purchase Index | 174.3 |  | 162.2 |
-| 20:00 | USD | Low | Mortgage Market Index | 218.2 |  | 210.5 |
-| 20:00 | USD | Low | Mortgage Refinance Index | 438.4 |  | 471.2 |
-| 20:00 | MXN | Low | 1st Half-Month Core CPI (Jan) | 0.25% | 0.25% | 0.46% |
-| 20:00 | MXN | Low | 1st Half-Month CPI (Jan) | 0.49% | 0.38% | 0.52% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Nov) | -0.50% | -0.20% | -0.10% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Nov) | 2.30% | 3.20% | 4.40% |
-| 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) | 50.3 | 47.9 | 47.9 |
-| 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) | 52.3 |  | 50.9 |
-| 22:45 | USD | High | S&P Global Services PMI (Jan) | 52.9 | 51.0 | 51.4 |
-| 22:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 22:45 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
-| 23:00 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 12 min | USD | High | Crude Oil Inventories |  | -2.150M | -2.492M |
-| 12 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
-| 12 min | USD | Low | Crude Oil Imports |  |  | -0.528M |
-| 12 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -2.099M |
-| 12 min | USD | Low | Distillate Fuel Production |  |  | -0.265M |
-| 12 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.348M | 2.370M |
-| 12 min | USD | Low | Gasoline Production |  |  | -0.291M |
-| 12 min | USD | Low | Heating Oil Stockpiles |  |  | 0.542M |
-| 12 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 12 min | USD | Low | Gasoline Inventories |  | 2.300M | 3.083M |
+| 00:00 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.575B |
+| 02:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.801% |
+| 05:00 | KRW | Low | Manufacturing BSI Index (Feb) |  |  | 72 |
+| 07:00 | KRW | Low | GDP (YoY) (Q4) |  | 2.1% | 1.4% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.6% |
+| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,642.8B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,202.6B |
+| 08:30 | AUD | Low | RBA Bulletin |  |  |  |
+| 15:00 | NOK | Low | Unemployment Rate (Dec) |  |  | 3.7% |
+| 15:45 | EUR | Low | French Business Survey (Jan) |  | 100 | 100 |
+| 16:00 | EUR | Low | Spanish PPI (YoY) |  |  | -7.4% |
+| 16:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 7.4% |
+| 16:30 | HKD | Low | Imports (MoM) (Dec) |  |  | 7.1% |
+| 16:30 | HKD | Low | Trade Balance |  |  | -27.9B |
+| 17:00 | EUR | Moderate | German Business Expectations (Jan) |  | 84.8 | 84.3 |
+| 17:00 | EUR | Moderate | German Current Assessment (Jan) |  | 88.6 | 88.5 |
+| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
+| 17:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
+| 17:30 | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
+| 17:30 | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
+| 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
+| 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,826.6K |
+| 19:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 93.7 |
+| 19:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 19:30 | BRL | Low | Current Account (USD) |  | -7.43B | -1.60B |
+| 19:30 | BRL | Low | Foreign direct investment (USD) |  |  | 7.80B |
+| 20:00 | MXN | Low | Unemployment Rate (Dec) |  |  | 2.80% |
+| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) |  | 2.60% | 2.70% |
+| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 21:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  |  | 8.25% |
+| 21:00 | ZAR | Low | Prime Rate (Jan) |  |  | 11.75% |
+| 21:15 | EUR | High | Deposit Facility Rate (Jan) |  | 4.00% | 4.00% |
+| 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
+| 21:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 21:15 | EUR | High | ECB Interest Rate Decision (Jan) |  | 4.50% | 4.50% |
+| 21:30 | USD | Moderate | Building Permits |  | 1.495M | 1.467M |
+| 21:30 | USD | Low | Building Permits (MoM) |  |  | -2.1% |
+| 21:30 | USD | Low | Chicago Fed National Activity (Dec) |  |  | 0.03 |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,828K | 1,806K |
+| 21:30 | USD | High | Core Durable Goods Orders (MoM) (Dec) |  | 0.2% | 0.5% |
+| 21:30 | USD | Low | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
+| 21:30 | USD | Moderate | Durable Goods Orders (MoM) (Dec) |  | 1.1% | 5.4% |
+| 21:30 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
+| 21:30 | USD | High | GDP (QoQ) (Q4) |  | 2.0% | 4.9% |
+| 21:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 2.3% | 3.3% |
+| 21:30 | USD | Low | GDP Sales (Q4) |  |  | 3.6% |
+| 21:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.1% | 0.8% |
+| 21:30 | USD | Moderate | Goods Trade Balance (Dec) |  | -88.70B | -90.27B |
+| 21:30 | USD | High | Initial Jobless Claims |  | 200K | 187K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 203.25K |
+| 21:30 | USD | Low | PCE Prices (Q4) |  |  | 2.6% |
+| 21:30 | USD | Low | Real Consumer Spending (Q4) |  |  | 3.1% |
+| 21:30 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  |  | -0.9% |
+| 21:30 | USD | Low | Wholesale Inventories (MoM) |  | -0.2% | -0.2% |
+| 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
+| 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.2% |
+| 21:45 | EUR | High | ECB Press Conference |  |  |  |
+| 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
+| 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
+| 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23:30 | USD | Low | Natural Gas Storage |  |  | -154B |

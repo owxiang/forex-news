@@ -1,40 +1,41 @@
-## 24 January 2024 - Low Impact Forex News
+## 25 January 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 52-Week Bill Auction | 4.570% |  | 4.595% |
-| 05:00 | KRW | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
-| 06:00 | AUD | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
-| 07:30 | AUD | MI Leading Index (MoM) | 0.0% |  | 0.1% |
-| 07:50 | JPY | Imports (YoY) (Dec) | -6.8% | -5.3% | -11.9% |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
-| 10:00 | NZD | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
-| 12:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 16:00 | ZAR | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
-| 16:00 | ZAR | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
-| 16:00 | ZAR | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
-| 16:00 | ZAR | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
-| 16:15 | EUR | HCOB France Composite PMI (Jan) | 44.2 | 45.2 | 44.8 |
-| 16:30 | EUR | HCOB Germany Composite PMI (Jan) | 47.1 | 47.8 | 47.4 |
-| 18:00 | GBP | 5-Year Treasury Gilt Auction | 3.946% |  | 4.041% |
-| 18:45 | EUR | German 30-Year Bund Auction | 2.530% |  | 2.470% |
-| 19:00 | GBP | CBI Industrial Trends Orders (Jan) | -30 | -23 | -23 |
-| 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 20:00 | USD | MBA 30-Year Mortgage Rate | 6.78% |  | 6.75% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) | 3.7% |  | 10.4% |
-| 20:00 | USD | MBA Purchase Index | 174.3 |  | 162.2 |
-| 20:00 | USD | Mortgage Market Index | 218.2 |  | 210.5 |
-| 20:00 | USD | Mortgage Refinance Index | 438.4 |  | 471.2 |
-| 20:00 | MXN | 1st Half-Month Core CPI (Jan) | 0.25% | 0.25% | 0.46% |
-| 20:00 | MXN | 1st Half-Month CPI (Jan) | 0.49% | 0.38% | 0.52% |
-| 20:00 | MXN | Economic Activity (MoM) (Nov) | -0.50% | -0.20% | -0.10% |
-| 20:00 | MXN | Economic Activity (YoY) (Nov) | 2.30% | 3.20% | 4.40% |
-| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
-| 12 min | USD | Crude Oil Imports |  |  | -0.528M |
-| 12 min | USD | Distillate Fuel Production |  |  | -0.265M |
-| 12 min | USD | EIA Weekly Distillates Stocks |  | 0.348M | 2.370M |
-| 12 min | USD | Gasoline Production |  |  | -0.291M |
-| 12 min | USD | Heating Oil Stockpiles |  |  | 0.542M |
-| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 12 min | USD | Gasoline Inventories |  | 2.300M | 3.083M |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.575B |
+| 05:00 | KRW | Manufacturing BSI Index (Feb) |  |  | 72 |
+| 07:00 | KRW | GDP (YoY) (Q4) |  | 2.1% | 1.4% |
+| 07:00 | KRW | GDP (QoQ) (Q4) |  | 0.5% | 0.6% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 1,642.8B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 1,202.6B |
+| 08:30 | AUD | RBA Bulletin |  |  |  |
+| 15:00 | NOK | Unemployment Rate (Dec) |  |  | 3.7% |
+| 15:45 | EUR | French Business Survey (Jan) |  | 100 | 100 |
+| 16:00 | EUR | Spanish PPI (YoY) |  |  | -7.4% |
+| 16:30 | HKD | Exports (MoM) (Dec) |  |  | 7.4% |
+| 16:30 | HKD | Imports (MoM) (Dec) |  |  | 7.1% |
+| 16:30 | HKD | Trade Balance |  |  | -27.9B |
+| 17:30 | ZAR | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
+| 17:30 | ZAR | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
+| 19:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
+| 19:00 | BRL | FGV Consumer confidence (Jan) |  |  | 93.7 |
+| 19:30 | INR | M3 Money Supply |  |  | 10.9% |
+| 19:30 | BRL | Current Account (USD) |  | -7.43B | -1.60B |
+| 19:30 | BRL | Foreign direct investment (USD) |  |  | 7.80B |
+| 20:00 | MXN | Unemployment Rate (Dec) |  |  | 2.80% |
+| 20:00 | MXN | Unemployment Rate n.s.a. (Dec) |  | 2.60% | 2.70% |
+| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 21:00 | ZAR | Prime Rate (Jan) |  |  | 11.75% |
+| 21:30 | USD | Building Permits (MoM) |  |  | -2.1% |
+| 21:30 | USD | Chicago Fed National Activity (Dec) |  |  | 0.03 |
+| 21:30 | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
+| 21:30 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
+| 21:30 | USD | GDP Sales (Q4) |  |  | 3.6% |
+| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.1% | 0.8% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
+| 21:30 | USD | PCE Prices (Q4) |  |  | 2.6% |
+| 21:30 | USD | Real Consumer Spending (Q4) |  |  | 3.1% |
+| 21:30 | USD | Wholesale Inventories (MoM) |  | -0.2% | -0.2% |
+| 21:30 | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
+| 21:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.2% |
+| 23:30 | USD | Natural Gas Storage |  |  | -154B |
