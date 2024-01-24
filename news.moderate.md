@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:30 | USD | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 05:45 | NZD | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
+| 05:45 | NZD | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 07:50 | JPY | Adjusted Trade Balance | -0.35T | -0.45T | -0.41T |
 | 07:50 | JPY | Exports (YoY) (Dec) | 9.8% | 9.1% | -0.2% |
 | 07:50 | JPY | Trade Balance (Dec) |  | -122.1B | -780.4B |
