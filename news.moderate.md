@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:30 | USD | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 05:45 | NZD | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
+| 05:45 | NZD | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 07:50 | JPY | Adjusted Trade Balance | -0.35T | -0.45T | -0.41T |
 | 07:50 | JPY | Exports (YoY) (Dec) | 9.8% | 9.1% | -0.2% |
 | 07:50 | JPY | Trade Balance (Dec) | 62.1B | -122.1B | -780.4B |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 52.7 |  | 51.5 |
 | 11:05 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:15 | EUR | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
-| 16:15 | EUR | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
+| 59 min | EUR | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
+| 59 min | EUR | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
 | 16:30 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 43.7 | 43.3 |
 | 16:30 | EUR | HCOB Germany Services PMI (Jan) |  | 49.5 | 49.3 |
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 44.8 | 44.4 |

@@ -6,8 +6,8 @@
 | 02:00 | USD | Moderate | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:00 | KRW | Low | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
+| 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
 | 07:30 | AUD | Low | MI Leading Index (MoM) | 0.0% |  | 0.1% |
@@ -15,19 +15,18 @@
 | 07:50 | JPY | Moderate | Exports (YoY) (Dec) | 9.8% | 9.1% | -0.2% |
 | 07:50 | JPY | Low | Imports (YoY) (Dec) | -6.8% | -5.3% | -11.9% |
 | 07:50 | JPY | Moderate | Trade Balance (Dec) | 62.1B | -122.1B | -780.4B |
-| 08:00 | AUD | Low | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 52.7 |  | 51.5 |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 11:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
-| 16:00 | ZAR | Low | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
-| 16:00 | ZAR | Low | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
-| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
-| 16:15 | EUR | Low | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
-| 16:15 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
+| 44 min | ZAR | Low | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
+| 44 min | ZAR | Low | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
+| 44 min | ZAR | Low | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
+| 44 min | ZAR | Low | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
+| 59 min | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
+| 59 min | EUR | Low | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
+| 59 min | EUR | Moderate | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
 | 16:30 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.8 | 47.4 |
 | 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 43.7 | 43.3 |
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 49.5 | 49.3 |
@@ -49,8 +48,8 @@
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 471.2 |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
+| 20:00 | MXN | Low | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 47.9 | 47.9 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  |  | 50.9 |
 | 22:45 | USD | High | S&P Global Services PMI (Jan) |  | 51.0 | 51.4 |
