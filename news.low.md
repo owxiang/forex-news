@@ -12,10 +12,10 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
 | 10:00 | NZD | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 12:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 16:00 | ZAR | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 16:00 | ZAR | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
+| 16:00 | ZAR | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
 | 16:00 | ZAR | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
+| 16:00 | ZAR | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
 | 16:15 | EUR | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Jan) |  | 47.8 | 47.4 |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.041% |
@@ -30,8 +30,8 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 471.2 |
 | 20:00 | MXN | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
 | 20:00 | MXN | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
-| 20:00 | MXN | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
 | 20:00 | MXN | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
+| 20:00 | MXN | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.528M |
 | 23:30 | USD | Distillate Fuel Production |  |  | -0.265M |
