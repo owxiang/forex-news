@@ -6,8 +6,8 @@
 | 02:00 | USD | Moderate | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:00 | KRW | Low | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
 | 07:30 | AUD | Low | MI Leading Index (MoM) | 0.0% |  | 0.1% |
@@ -20,19 +20,20 @@
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 11:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 44 min | ZAR | Low | Core CPI (MoM) (Dec) |  | 0.3% | 0.2% |
-| 44 min | ZAR | Low | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
-| 44 min | ZAR | Low | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
-| 44 min | ZAR | Low | CPI (YoY) (Dec) |  | 5.2% | 5.5% |
-| 59 min | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 42.5 | 42.1 |
-| 59 min | EUR | Low | HCOB France Composite PMI (Jan) |  | 45.2 | 44.8 |
-| 59 min | EUR | Moderate | HCOB France Services PMI (Jan) |  | 46.0 | 45.7 |
-| 16:30 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.8 | 47.4 |
-| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 43.7 | 43.3 |
-| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 49.5 | 49.3 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 44.8 | 44.4 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 48.0 | 47.6 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 49.0 | 48.8 |
+| 15:55 | CNY | Moderate | PBoC Reserve Requirement Ratio | 10.00% |  | 10.50% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
+| 16:00 | ZAR | Low | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
+| 16:00 | ZAR | Low | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
+| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) | 43.2 | 42.5 | 42.1 |
+| 16:15 | EUR | Low | HCOB France Composite PMI (Jan) | 44.2 | 45.2 | 44.8 |
+| 16:15 | EUR | Moderate | HCOB France Services PMI (Jan) | 45.0 | 46.0 | 45.7 |
+| 9 min | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.8 | 47.4 |
+| 9 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 43.7 | 43.3 |
+| 9 min | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 49.5 | 49.3 |
+| 39 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 44.8 | 44.4 |
+| 39 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 48.0 | 47.6 |
+| 39 min | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 49.0 | 48.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.2 | 52.1 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 46.7 | 46.2 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.2 | 53.4 |
