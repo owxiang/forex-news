@@ -11,26 +11,26 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
 | 10:00 | NZD | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 12:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 16:00 | ZAR | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
-| 16:00 | ZAR | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
+| 16:00 | ZAR | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
 | 16:00 | ZAR | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
+| 16:00 | ZAR | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
 | 16:15 | EUR | HCOB France Composite PMI (Jan) | 44.2 | 45.2 | 44.8 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Jan) | 47.1 | 47.8 | 47.4 |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction | 3.946% |  | 4.041% |
 | 18:45 | EUR | German 30-Year Bund Auction | 2.530% |  | 2.470% |
 | 19:00 | GBP | CBI Industrial Trends Orders (Jan) | -30 | -23 | -23 |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 16 min | INR | M3 Money Supply |  |  | 10.9% |
-| 46 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.75% |
-| 46 min | USD | MBA Mortgage Applications (WoW) |  |  | 10.4% |
-| 46 min | USD | MBA Purchase Index |  |  | 162.2 |
-| 46 min | USD | Mortgage Market Index |  |  | 210.5 |
-| 46 min | USD | Mortgage Refinance Index |  |  | 471.2 |
-| 46 min | MXN | 1st Half-Month Core CPI (Jan) |  | 0.25% | 0.46% |
-| 46 min | MXN | 1st Half-Month CPI (Jan) |  | 0.38% | 0.52% |
-| 46 min | MXN | Economic Activity (MoM) (Nov) |  | -0.20% | -0.10% |
-| 46 min | MXN | Economic Activity (YoY) (Nov) |  | 3.20% | 4.20% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate | 6.78% |  | 6.75% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) | 3.7% |  | 10.4% |
+| 20:00 | USD | MBA Purchase Index | 174.3 |  | 162.2 |
+| 20:00 | USD | Mortgage Market Index | 218.2 |  | 210.5 |
+| 20:00 | USD | Mortgage Refinance Index | 438.4 |  | 471.2 |
+| 20:00 | MXN | 1st Half-Month Core CPI (Jan) | 0.25% | 0.25% | 0.46% |
+| 20:00 | MXN | 1st Half-Month CPI (Jan) | 0.49% | 0.38% | 0.52% |
+| 20:00 | MXN | Economic Activity (MoM) (Nov) | -0.50% | -0.20% | -0.10% |
+| 20:00 | MXN | Economic Activity (YoY) (Nov) | 2.30% | 3.20% | 4.40% |
+| 20:30 | INR | M3 Money Supply |  |  | 10.9% |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
 | 23:30 | USD | Crude Oil Imports |  |  | -0.528M |
 | 23:30 | USD | Distillate Fuel Production |  |  | -0.265M |
