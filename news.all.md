@@ -6,8 +6,8 @@
 | 02:00 | USD | Moderate | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:00 | KRW | Low | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
 | 07:30 | AUD | Low | MI Leading Index (MoM) | 0.0% |  | 0.1% |
@@ -18,7 +18,7 @@
 | 08:00 | AUD | Low | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 52.7 |  | 51.5 |
-| 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 3.3% |
+| 10:00 | NZD | Low | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
 | 16:00 | ZAR | Low | CPI (MoM) (Dec) |  | 0.1% | -0.1% |

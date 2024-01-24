@@ -10,7 +10,7 @@
 | 07:50 | JPY | Imports (YoY) (Dec) | -6.8% | -5.3% | -11.9% |
 | 08:00 | AUD | MI Leading Index (MoM) (Dec) | -0.0% |  | 0.1% |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
-| 10:00 | NZD | Credit Card Spending (YoY) |  |  | 3.3% |
+| 10:00 | NZD | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 16:00 | ZAR | Core CPI (MoM) (Dec) |  | 0.2% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Dec) |  | 4.6% | 4.5% |
 | 16:00 | ZAR | CPI (MoM) (Dec) |  | 0.1% | -0.1% |
