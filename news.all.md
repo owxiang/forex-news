@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 3.575B |
-| 02:00 | USD | Moderate | 5-Year Note Auction |  |  | 3.801% |
+| 15 min | BRL | Low | Foreign Exchange Flows |  |  | 3.575B |
+| 45 min | USD | Moderate | 5-Year Note Auction |  |  | 3.801% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Feb) |  |  | 72 |
-| 07:00 | KRW | Low | GDP (YoY) (Q4) |  | 2.1% | 1.4% |
 | 07:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.6% |
+| 07:00 | KRW | Low | GDP (YoY) (Q4) |  | 2.1% | 1.4% |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,642.8B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,202.6B |
 | 08:30 | AUD | Low | RBA Bulletin |  |  |  |
@@ -21,8 +21,8 @@
 | 17:00 | EUR | Moderate | German Current Assessment (Jan) |  | 88.6 | 88.5 |
 | 17:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
 | 17:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
-| 17:30 | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
 | 17:30 | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
+| 17:30 | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
 | 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,826.6K |
 | 19:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 93.7 |
@@ -60,7 +60,7 @@
 | 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
 | 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
+| 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  |  | -154B |
