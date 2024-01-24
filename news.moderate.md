@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | CAD | BOC Press Conference |  |  |  |
-| 45 min | USD | 5-Year Note Auction |  |  | 3.801% |
+| 02:00 | USD | 5-Year Note Auction | 4.055% |  | 3.801% |
 | 17:00 | EUR | German Business Expectations (Jan) |  | 84.8 | 84.3 |
 | 17:00 | EUR | German Current Assessment (Jan) |  | 88.6 | 88.5 |
 | 17:00 | EUR | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
