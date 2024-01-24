@@ -22,7 +22,7 @@
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.5 | 52.2 | 52.1 |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 47.3 | 46.7 | 46.2 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI | 53.8 | 53.2 | 53.4 |
-| 29 min | USD | S&P Global Composite PMI (Jan) |  |  | 50.9 |
-| 29 min | CAD | BoC Rate Statement |  |  |  |
-| 44 min | CAD | BoC Monetary Policy Report |  |  |  |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | -2.099M |
+| 22:45 | USD | S&P Global Composite PMI (Jan) | 52.3 |  | 50.9 |
+| 22:45 | CAD | BoC Rate Statement |  |  |  |
+| 23:00 | CAD | BoC Monetary Policy Report |  |  |  |
+| 12 min | USD | Cushing Crude Oil Inventories |  |  | -2.099M |

@@ -30,11 +30,11 @@
 | 20:00 | MXN | 1st Half-Month CPI (Jan) | 0.49% | 0.38% | 0.52% |
 | 20:00 | MXN | Economic Activity (MoM) (Nov) | -0.50% | -0.20% | -0.10% |
 | 20:00 | MXN | Economic Activity (YoY) (Nov) | 2.30% | 3.20% | 4.40% |
-| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
-| 23:30 | USD | Crude Oil Imports |  |  | -0.528M |
-| 23:30 | USD | Distillate Fuel Production |  |  | -0.265M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | 0.348M | 2.370M |
-| 23:30 | USD | Gasoline Production |  |  | -0.291M |
-| 23:30 | USD | Heating Oil Stockpiles |  |  | 0.542M |
-| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 23:30 | USD | Gasoline Inventories |  | 2.300M | 3.083M |
+| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.135M |
+| 12 min | USD | Crude Oil Imports |  |  | -0.528M |
+| 12 min | USD | Distillate Fuel Production |  |  | -0.265M |
+| 12 min | USD | EIA Weekly Distillates Stocks |  | 0.348M | 2.370M |
+| 12 min | USD | Gasoline Production |  |  | -0.291M |
+| 12 min | USD | Heating Oil Stockpiles |  |  | 0.542M |
+| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 12 min | USD | Gasoline Inventories |  | 2.300M | 3.083M |
