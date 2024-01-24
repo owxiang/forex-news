@@ -11,16 +11,16 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.2 | 47.9 |
 | 10:00 | NZD | Credit Card Spending (YoY) | 4.3% |  | 3.3% |
 | 12:00 | IDR | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
-| 16:00 | ZAR | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
+| 16:00 | ZAR | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
 | 16:00 | ZAR | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
 | 16:00 | ZAR | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
 | 16:15 | EUR | HCOB France Composite PMI (Jan) | 44.2 | 45.2 | 44.8 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Jan) | 47.1 | 47.8 | 47.4 |
-| 43 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.041% |
-| 18:30 | EUR | German 30-Year Bund Auction |  |  | 2.470% |
-| 19:00 | GBP | CBI Industrial Trends Orders (Jan) |  | -23 | -23 |
-| 19:00 | EUR | German Buba Monthly Report |  |  |  |
+| 18:00 | GBP | 5-Year Treasury Gilt Auction | 3.946% |  | 4.041% |
+| 12 min | EUR | German 30-Year Bund Auction |  |  | 2.470% |
+| 42 min | GBP | CBI Industrial Trends Orders (Jan) |  | -23 | -23 |
+| 42 min | EUR | German Buba Monthly Report |  |  |  |
 | 19:30 | INR | M3 Money Supply |  |  | 10.9% |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.75% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 10.4% |

@@ -6,8 +6,8 @@
 | 02:00 | USD | Moderate | 2-Year Note Auction | 4.365% |  | 4.314% |
 | 05:00 | KRW | Low | Consumer Confidence (Jan) | 101.6 |  | 99.5 |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.674M | -3.000M | 0.483M |
-| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
 | 05:45 | NZD | Moderate | CPI (YoY) (Q4) | 4.7% | 4.7% | 5.6% |
+| 05:45 | NZD | Moderate | CPI (QoQ) (Q4) | 0.5% | 0.5% | 1.8% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.3 |  | 47.6 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 47.9 |  | 47.1 |
 | 07:30 | AUD | Low | MI Leading Index (MoM) | 0.0% |  | 0.1% |
@@ -21,8 +21,8 @@
 | 11:05 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 12:00 | IDR | Low | Foreign Direct Investment (YoY) (Q4) | 5.30% |  | 16.20% |
 | 15:55 | CNY | Moderate | PBoC Reserve Requirement Ratio | 10.00% |  | 10.50% |
-| 16:00 | ZAR | Low | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Dec) | 0.2% | 0.3% | 0.2% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Dec) | 4.5% | 4.6% | 4.5% |
 | 16:00 | ZAR | Low | CPI (MoM) (Dec) | 0.0% | 0.1% | -0.1% |
 | 16:00 | ZAR | Low | CPI (YoY) (Dec) | 5.1% | 5.2% | 5.5% |
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) | 43.2 | 42.5 | 42.1 |
@@ -34,13 +34,13 @@
 | 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 44.8 | 44.4 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 47.9 | 48.0 | 47.6 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 48.4 | 49.0 | 48.8 |
-| 13 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.2 | 52.1 |
-| 13 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 46.7 | 46.2 |
-| 13 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.2 | 53.4 |
-| 43 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.041% |
-| 18:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.470% |
-| 19:00 | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -23 | -23 |
-| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.5 | 52.2 | 52.1 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 47.3 | 46.7 | 46.2 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 53.8 | 53.2 | 53.4 |
+| 18:00 | GBP | Low | 5-Year Treasury Gilt Auction | 3.946% |  | 4.041% |
+| 12 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.470% |
+| 42 min | GBP | Low | CBI Industrial Trends Orders (Jan) |  | -23 | -23 |
+| 42 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.75% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 10.4% |
