@@ -6,6 +6,7 @@
 | 00:00 | USD | KC Fed Manufacturing Index (Jan) | -17 |  | -5 |
 | 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.285% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
+| 01:30 | BRL | Foreign Exchange Flows | 1.272B |  | 5.637B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.592T |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 2.7% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Jan) |  |  | 2.4% |

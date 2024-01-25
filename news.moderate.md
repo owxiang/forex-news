@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 45 min | USD | 7-Year Note Auction |  |  | 3.859% |
+| 02:00 | USD | 7-Year Note Auction | 4.109% |  | 3.859% |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,674B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 1.9% | 2.1% |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
