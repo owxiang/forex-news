@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 02:00 | USD | 7-Year Note Auction | 4.109% |  | 3.859% |
-| 05:30 | USD | Fed's Balance Sheet |  |  | 7,674B |
+| 17 min | USD | Fed's Balance Sheet |  |  | 7,674B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Jan) |  | 1.9% | 2.1% |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |

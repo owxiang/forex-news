@@ -9,8 +9,8 @@
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 1.272B |  | 5.637B |
 | 02:00 | USD | Moderate | 7-Year Note Auction | 4.109% |  | 3.859% |
-| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,674B |
-| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.592T |
+| 17 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,674B |
+| 17 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.592T |
 | 07:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 2.7% |
 | 07:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jan) |  | 1.9% | 2.1% |
 | 07:30 | JPY | Low | Tokyo CPI (YoY) (Jan) |  |  | 2.4% |
@@ -20,8 +20,8 @@
 | 08:01 | GBP | Low | GfK Consumer Confidence (Jan) |  | -21 | -22 |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) |  | 2.70% | 0.80% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | -1.4% |
-| 13:00 | JPY | Low | Leading Index |  | 107.7 | 108.9 |
 | 13:00 | JPY | Low | Leading Index (MoM) |  |  | -1.2% |
+| 13:00 | JPY | Low | Leading Index |  | 107.7 | 108.9 |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | 2.1% | -7.8% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Dec) |  | 1.0% | 1.0% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |
@@ -39,10 +39,10 @@
 | 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.9% |
 | 20:00 | MXN | Low | Trade Balance (Dec) |  | 1.400B | 0.630B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
-| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 21:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
+| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
 | 21:30 | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.6% | 2.6% |
 | 21:30 | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.2% | -0.1% |
 | 21:30 | USD | Low | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
