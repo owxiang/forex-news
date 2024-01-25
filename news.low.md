@@ -3,19 +3,19 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Feb) | 72 |  | 72 |
-| 07:00 | KRW | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
+| 07:00 | KRW | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Foreign Bonds Buying | -48.0B |  | 1,689.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 286.7B |  | 1,202.0B |
 | 08:30 | AUD | RBA Bulletin |  |  |  |
-| 15:00 | NOK | Unemployment Rate (Dec) |  |  | 3.7% |
+| 38 min | NOK | Unemployment Rate (Dec) |  |  | 3.7% |
 | 15:45 | EUR | French Business Survey (Jan) |  | 100 | 100 |
 | 16:00 | EUR | Spanish PPI (YoY) |  |  | -7.4% |
 | 16:30 | HKD | Exports (MoM) (Dec) |  |  | 7.4% |
 | 16:30 | HKD | Imports (MoM) (Dec) |  |  | 7.1% |
 | 16:30 | HKD | Trade Balance |  |  | -27.9B |
-| 17:30 | ZAR | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
 | 17:30 | ZAR | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
+| 17:30 | ZAR | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
 | 19:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
 | 19:00 | BRL | FGV Consumer confidence (Jan) |  |  | 93.7 |
 | 19:30 | INR | M3 Money Supply |  |  | 10.9% |
