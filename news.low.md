@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Feb) | 72 |  | 72 |
-| 07:00 | KRW | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
+| 07:00 | KRW | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Foreign Bonds Buying | -48.0B |  | 1,689.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 286.7B |  | 1,202.0B |
 | 08:30 | AUD | RBA Bulletin |  |  |  |
@@ -14,25 +14,25 @@
 | 16:30 | HKD | Exports (MoM) (Dec) | 11.0% |  | 7.4% |
 | 16:30 | HKD | Imports (MoM) (Dec) | 11.6% |  | 7.1% |
 | 16:30 | HKD | Trade Balance | -59.9B |  | -27.9B |
-| 17:30 | ZAR | PPI (YoY) (Dec) | 4.0% | 4.3% | 4.6% |
 | 17:30 | ZAR | PPI (MoM) (Dec) | -0.6% | -0.3% | -0.6% |
+| 17:30 | ZAR | PPI (YoY) (Dec) | 4.0% | 4.3% | 4.6% |
 | 19:00 | GBP | CBI Distributive Trades Survey (Jan) | -50 | -30 | -32 |
 | 19:00 | BRL | FGV Consumer confidence (Jan) | 90.8 |  | 93.2 |
 | 19:30 | INR | M3 Money Supply | 10.8% |  | 10.9% |
 | 20:00 | MXN | Unemployment Rate (Dec) | 2.80% |  | 2.80% |
 | 20:00 | MXN | Unemployment Rate n.s.a. (Dec) | 2.60% | 2.60% | 2.70% |
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 27 min | ZAR | Prime Rate (Jan) |  |  | 11.75% |
-| 57 min | USD | Building Permits (MoM) |  |  | -2.1% |
-| 57 min | USD | Chicago Fed National Activity (Dec) |  |  | 0.03 |
-| 57 min | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
-| 57 min | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
-| 57 min | USD | GDP Sales (Q4) |  |  | 3.6% |
-| 57 min | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.1% | 0.8% |
-| 57 min | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
-| 57 min | USD | PCE Prices (Q4) |  |  | 2.6% |
-| 57 min | USD | Real Consumer Spending (Q4) |  |  | 3.1% |
-| 57 min | USD | Wholesale Inventories (MoM) |  | -0.2% | -0.2% |
-| 57 min | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
-| 57 min | CAD | Manufacturing Sales (MoM) |  |  | 1.2% |
+| 20:40 | USD | Building Permits (MoM) | 1.8% |  | -2.1% |
+| 21:00 | ZAR | Prime Rate (Jan) | 11.75% |  | 11.75% |
+| 11 min | USD | Chicago Fed National Activity (Dec) |  |  | 0.03 |
+| 11 min | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
+| 11 min | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
+| 11 min | USD | GDP Sales (Q4) |  |  | 3.6% |
+| 11 min | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.1% | 0.8% |
+| 11 min | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
+| 11 min | USD | PCE Prices (Q4) |  |  | 2.6% |
+| 11 min | USD | Real Consumer Spending (Q4) |  |  | 3.1% |
+| 11 min | USD | Wholesale Inventories (MoM) |  | -0.2% | -0.2% |
+| 11 min | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
+| 11 min | CAD | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 23:30 | USD | Natural Gas Storage |  | -322B | -154B |
