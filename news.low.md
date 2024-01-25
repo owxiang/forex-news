@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Manufacturing BSI Index (Feb) | 72 |  | 72 |
-| 07:00 | KRW | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
 | 07:00 | KRW | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
+| 07:00 | KRW | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
 | 07:50 | JPY | Foreign Bonds Buying | -48.0B |  | 1,689.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 286.7B |  | 1,202.0B |
 | 08:30 | AUD | RBA Bulletin |  |  |  |
