@@ -21,15 +21,15 @@
 | 17:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 17:30 | ZAR | Low | PPI (MoM) (Dec) | -0.6% | -0.3% | -0.6% |
 | 17:30 | ZAR | Low | PPI (YoY) (Dec) | 4.0% | 4.3% | 4.6% |
-| 43 min | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
-| 43 min | EUR | Moderate | France Jobseekers Total |  |  | 2,826.6K |
-| 43 min | BRL | Low | FGV Consumer confidence (Jan) |  |  | 93.7 |
-| 19:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 19:30 | BRL | Low | Current Account (USD) |  | -7.43B | -1.60B |
-| 19:30 | BRL | Low | Foreign direct investment (USD) |  |  | 7.80B |
-| 20:00 | MXN | Low | Unemployment Rate (Dec) |  |  | 2.80% |
-| 20:00 | MXN | Low | Unemployment Rate n.s.a. (Dec) |  | 2.60% | 2.70% |
-| 20:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) | -50 | -30 | -32 |
+| 19:00 | EUR | Moderate | France Jobseekers Total | 2,825.2K |  | 2,826.6K |
+| 19:00 | BRL | Low | FGV Consumer confidence (Jan) | 90.8 |  | 93.2 |
+| 16 min | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 16 min | BRL | Low | Current Account (USD) |  | -7.43B | -1.60B |
+| 16 min | BRL | Low | Foreign direct investment (USD) |  |  | 7.80B |
+| 46 min | MXN | Low | Unemployment Rate (Dec) |  |  | 2.80% |
+| 46 min | MXN | Low | Unemployment Rate n.s.a. (Dec) |  | 2.60% | 2.70% |
+| 46 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 21:00 | ZAR | Moderate | Interest Rate Decision (Jan) |  |  | 8.25% |
 | 21:00 | ZAR | Low | Prime Rate (Jan) |  |  | 11.75% |
 | 21:15 | EUR | High | Deposit Facility Rate (Jan) |  | 4.00% | 4.00% |
@@ -58,7 +58,7 @@
 | 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
 | 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
+| 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  | -322B | -154B |

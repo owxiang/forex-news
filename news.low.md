@@ -16,14 +16,14 @@
 | 16:30 | HKD | Trade Balance | -59.9B |  | -27.9B |
 | 17:30 | ZAR | PPI (MoM) (Dec) | -0.6% | -0.3% | -0.6% |
 | 17:30 | ZAR | PPI (YoY) (Dec) | 4.0% | 4.3% | 4.6% |
-| 43 min | GBP | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
-| 43 min | BRL | FGV Consumer confidence (Jan) |  |  | 93.7 |
-| 19:30 | INR | M3 Money Supply |  |  | 10.9% |
-| 19:30 | BRL | Current Account (USD) |  | -7.43B | -1.60B |
-| 19:30 | BRL | Foreign direct investment (USD) |  |  | 7.80B |
-| 20:00 | MXN | Unemployment Rate (Dec) |  |  | 2.80% |
-| 20:00 | MXN | Unemployment Rate n.s.a. (Dec) |  | 2.60% | 2.70% |
-| 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 19:00 | GBP | CBI Distributive Trades Survey (Jan) | -50 | -30 | -32 |
+| 19:00 | BRL | FGV Consumer confidence (Jan) | 90.8 |  | 93.2 |
+| 16 min | INR | M3 Money Supply |  |  | 10.9% |
+| 16 min | BRL | Current Account (USD) |  | -7.43B | -1.60B |
+| 16 min | BRL | Foreign direct investment (USD) |  |  | 7.80B |
+| 46 min | MXN | Unemployment Rate (Dec) |  |  | 2.80% |
+| 46 min | MXN | Unemployment Rate n.s.a. (Dec) |  | 2.60% | 2.70% |
+| 46 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 21:00 | ZAR | Prime Rate (Jan) |  |  | 11.75% |
 | 21:30 | USD | Building Permits (MoM) |  |  | -2.1% |
 | 21:30 | USD | Chicago Fed National Activity (Dec) |  |  | 0.03 |

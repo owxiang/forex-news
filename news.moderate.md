@@ -7,7 +7,7 @@
 | 17:00 | EUR | German Current Assessment (Jan) | 87.0 | 88.6 | 88.5 |
 | 17:00 | EUR | German Ifo Business Climate Index (Jan) | 85.2 | 86.7 | 86.3 |
 | 17:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 43 min | EUR | France Jobseekers Total |  |  | 2,826.6K |
+| 19:00 | EUR | France Jobseekers Total | 2,825.2K |  | 2,826.6K |
 | 21:00 | ZAR | Interest Rate Decision (Jan) |  |  | 8.25% |
 | 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
