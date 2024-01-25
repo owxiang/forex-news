@@ -4,9 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | KC Fed Composite Index (Jan) | -9 |  | -1 |
 | 00:00 | USD | KC Fed Manufacturing Index (Jan) | -17 |  | -5 |
-| 8 min | USD | 4-Week Bill Auction |  |  | 5.285% |
-| 8 min | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 3.575B |
+| 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.285% |
+| 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.592T |
 | 07:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jan) |  |  | 2.7% |
 | 07:30 | JPY | Tokyo CPI (YoY) (Jan) |  |  | 2.4% |
@@ -17,8 +16,8 @@
 | 13:00 | JPY | Coincident Indicator (MoM) |  |  | -1.4% |
 | 13:00 | JPY | Leading Index (MoM) |  |  | -1.2% |
 | 13:00 | JPY | Leading Index |  | 107.7 | 108.9 |
-| 13:00 | SGD | Industrial Production (YoY) (Dec) |  | 1.0% | 1.0% |
 | 13:00 | SGD | Industrial Production (MoM) (Dec) |  | 2.1% | -7.8% |
+| 13:00 | SGD | Industrial Production (YoY) (Dec) |  | 1.0% | 1.0% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Dec) |  |  | 0.4% |
 | 15:45 | EUR | French Consumer Confidence (Jan) |  | 90 | 89 |
 | 16:00 | EUR | Spanish Unemployment Rate (Q4) |  | 11.90% | 11.84% |
@@ -33,8 +32,8 @@
 | 19:30 | BRL | Bank lending (MoM) |  |  | 0.9% |
 | 20:00 | MXN | Trade Balance (Dec) |  | 1.400B | 0.630B |
 | 20:00 | MXN | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 21:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
 | 22:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
