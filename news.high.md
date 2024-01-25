@@ -2,10 +2,10 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:15 | EUR | Deposit Facility Rate (Jan) |  | 4.00% | 4.00% |
-| 21:15 | EUR | ECB Interest Rate Decision (Jan) |  | 4.50% | 4.50% |
-| 21:30 | USD | Core Durable Goods Orders (MoM) (Dec) |  | 0.2% | 0.5% |
-| 21:30 | USD | GDP (QoQ) (Q4) |  | 2.0% | 4.9% |
-| 21:30 | USD | Initial Jobless Claims |  | 200K | 187K |
+| 42 min | EUR | Deposit Facility Rate (Jan) |  | 4.00% | 4.00% |
+| 42 min | EUR | ECB Interest Rate Decision (Jan) |  | 4.50% | 4.50% |
+| 57 min | USD | Core Durable Goods Orders (MoM) (Dec) |  | 0.2% | 0.5% |
+| 57 min | USD | GDP (QoQ) (Q4) |  | 2.0% | 4.9% |
+| 57 min | USD | Initial Jobless Claims |  | 200K | 187K |
 | 21:45 | EUR | ECB Press Conference |  |  |  |
 | 23:00 | USD | New Home Sales (Dec) |  | 645K | 590K |
