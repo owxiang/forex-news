@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | Moderate | 5-Year Note Auction | 4.055% |  | 3.801% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Feb) | 72 |  | 72 |
-| 07:00 | KRW | Low | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -48.0B |  | 1,689.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 286.7B |  | 1,202.0B |
 | 08:30 | AUD | Low | RBA Bulletin |  |  |  |
@@ -19,11 +19,11 @@
 | 17:00 | EUR | Moderate | German Current Assessment (Jan) | 87.0 | 88.6 | 88.5 |
 | 17:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 85.2 | 86.7 | 86.3 |
 | 17:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 14 min | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
-| 14 min | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
-| 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
-| 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,826.6K |
-| 19:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 93.7 |
+| 17:30 | ZAR | Low | PPI (MoM) (Dec) | -0.6% | -0.3% | -0.6% |
+| 17:30 | ZAR | Low | PPI (YoY) (Dec) | 4.0% | 4.3% | 4.6% |
+| 43 min | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
+| 43 min | EUR | Moderate | France Jobseekers Total |  |  | 2,826.6K |
+| 43 min | BRL | Low | FGV Consumer confidence (Jan) |  |  | 93.7 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 19:30 | BRL | Low | Current Account (USD) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) |  |  | 7.80B |
@@ -36,8 +36,8 @@
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 21:15 | EUR | High | ECB Interest Rate Decision (Jan) |  | 4.50% | 4.50% |
-| 21:30 | USD | Moderate | Building Permits |  | 1.495M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) |  |  | -2.1% |
+| 21:30 | USD | Moderate | Building Permits |  | 1.495M | 1.467M |
 | 21:30 | USD | Low | Chicago Fed National Activity (Dec) |  |  | 0.03 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,828K | 1,806K |
 | 21:30 | USD | High | Core Durable Goods Orders (MoM) (Dec) |  | 0.2% | 0.5% |
@@ -58,7 +58,7 @@
 | 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
 | 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
+| 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  | -322B | -154B |
