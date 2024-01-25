@@ -56,7 +56,7 @@
 | 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) | 4.10% |  | 4.03% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) | -0.6% |  | 1.2% |
 | 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 45 min | USD | High | New Home Sales (Dec) |  | 645K | 590K |
-| 45 min | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
+| 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) | 8.0% |  | -9.0% |
+| 23:00 | USD | High | New Home Sales (Dec) | 664K | 645K | 615K |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  | -322B | -154B |
+| 13 min | USD | Low | Natural Gas Storage |  | -322B | -154B |

@@ -35,4 +35,4 @@
 | 21:30 | USD | Wholesale Inventories (MoM) | 0.4% | -0.2% | -0.4% |
 | 21:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 4.10% |  | 4.03% |
 | 21:30 | CAD | Manufacturing Sales (MoM) | -0.6% |  | 1.2% |
-| 23:30 | USD | Natural Gas Storage |  | -322B | -154B |
+| 13 min | USD | Natural Gas Storage |  | -322B | -154B |

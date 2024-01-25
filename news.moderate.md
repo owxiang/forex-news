@@ -17,5 +17,5 @@
 | 21:30 | USD | GDP Price Index (QoQ) (Q4) | 1.5% | 2.3% | 3.3% |
 | 21:30 | USD | Goods Trade Balance (Dec) | -88.46B | -88.70B | -90.27B |
 | 21:30 | USD | Retail Inventories Ex Auto (Dec) | 0.6% |  | -0.6% |
-| 45 min | USD | New Home Sales (MoM) (Dec) |  |  | -12.2% |
+| 23:00 | USD | New Home Sales (MoM) (Dec) | 8.0% |  | -9.0% |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |

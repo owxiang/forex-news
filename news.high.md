@@ -8,4 +8,4 @@
 | 21:30 | USD | GDP (QoQ) (Q4) | 3.3% | 2.0% | 4.9% |
 | 21:30 | USD | Initial Jobless Claims | 214K | 200K | 189K |
 | 21:45 | EUR | ECB Press Conference |  |  |  |
-| 45 min | USD | New Home Sales (Dec) |  | 645K | 590K |
+| 23:00 | USD | New Home Sales (Dec) | 664K | 645K | 615K |
