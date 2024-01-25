@@ -5,8 +5,8 @@
 | 00:00 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 02:00 | USD | Moderate | 5-Year Note Auction | 4.055% |  | 3.801% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Feb) | 72 |  | 72 |
-| 07:00 | KRW | Low | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:00 | KRW | Low | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
+| 07:00 | KRW | Low | GDP (QoQ) (Q4) | 0.6% | 0.5% | 0.6% |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -48.0B |  | 1,689.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 286.7B |  | 1,202.0B |
 | 08:30 | AUD | Low | RBA Bulletin |  |  |  |
@@ -37,8 +37,8 @@
 | 21:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
 | 21:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 21:15 | EUR | High | ECB Interest Rate Decision (Jan) |  | 4.50% | 4.50% |
-| 21:30 | USD | Moderate | Building Permits |  | 1.495M | 1.467M |
 | 21:30 | USD | Low | Building Permits (MoM) |  |  | -2.1% |
+| 21:30 | USD | Moderate | Building Permits |  | 1.495M | 1.467M |
 | 21:30 | USD | Low | Chicago Fed National Activity (Dec) |  |  | 0.03 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,828K | 1,806K |
 | 21:30 | USD | High | Core Durable Goods Orders (MoM) (Dec) |  | 0.2% | 0.5% |
