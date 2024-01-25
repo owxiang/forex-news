@@ -22,8 +22,8 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) |  |  | -1.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) |  |  | -1.2% |
 | 13:00 | JPY | Low | Leading Index |  | 107.7 | 108.9 |
-| 13:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | 2.1% | -7.8% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Dec) |  | 1.0% | 1.0% |
+| 13:00 | SGD | Low | Industrial Production (MoM) (Dec) |  | 2.1% | -7.8% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |
 | 15:00 | NOK | Low | Core Retail Sales (MoM) (Dec) |  |  | 0.4% |
 | 15:45 | EUR | Low | French Consumer Confidence (Jan) |  | 90 | 89 |

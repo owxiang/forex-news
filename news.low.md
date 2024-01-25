@@ -17,8 +17,8 @@
 | 13:00 | JPY | Coincident Indicator (MoM) |  |  | -1.4% |
 | 13:00 | JPY | Leading Index (MoM) |  |  | -1.2% |
 | 13:00 | JPY | Leading Index |  | 107.7 | 108.9 |
-| 13:00 | SGD | Industrial Production (MoM) (Dec) |  | 2.1% | -7.8% |
 | 13:00 | SGD | Industrial Production (YoY) (Dec) |  | 1.0% | 1.0% |
+| 13:00 | SGD | Industrial Production (MoM) (Dec) |  | 2.1% | -7.8% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Dec) |  |  | 0.4% |
 | 15:45 | EUR | French Consumer Confidence (Jan) |  | 90 | 89 |
 | 16:00 | EUR | Spanish Unemployment Rate (Q4) |  | 11.90% | 11.84% |
