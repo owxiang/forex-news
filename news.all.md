@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 02:00 | USD | Moderate | 5-Year Note Auction | 4.055% |  | 3.801% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Feb) | 72 |  | 72 |
 | 07:00 | KRW | Low | GDP (YoY) (Q4) | 2.2% | 2.1% | 1.4% |
@@ -19,7 +18,7 @@
 | 17:00 | EUR | Moderate | German Business Expectations (Jan) |  | 84.8 | 84.3 |
 | 17:00 | EUR | Moderate | German Current Assessment (Jan) |  | 88.6 | 88.5 |
 | 17:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
-| 17:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
+| 17:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 17:30 | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
 | 17:30 | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
@@ -62,4 +61,4 @@
 | 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
 | 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  |  | -154B |
+| 23:30 | USD | Low | Natural Gas Storage |  | -322B | -154B |
