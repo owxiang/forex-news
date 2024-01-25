@@ -10,12 +10,12 @@
 | 08:30 | AUD | RBA Bulletin |  |  |  |
 | 15:00 | NOK | Unemployment Rate (Dec) | 3.5% |  | 3.8% |
 | 15:45 | EUR | French Business Survey (Jan) | 99 | 100 | 99 |
-| 16:00 | EUR | Spanish PPI (YoY) | -6.3% |  | -7.4% |
-| 9 min | HKD | Exports (MoM) (Dec) |  |  | 7.4% |
-| 9 min | HKD | Imports (MoM) (Dec) |  |  | 7.1% |
-| 9 min | HKD | Trade Balance |  |  | -27.9B |
-| 17:30 | ZAR | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
-| 17:30 | ZAR | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
+| 16:00 | EUR | Spanish PPI (YoY) | -6.3% |  | -7.6% |
+| 16:30 | HKD | Exports (MoM) (Dec) | 11.0% |  | 7.4% |
+| 16:30 | HKD | Imports (MoM) (Dec) | 11.6% |  | 7.1% |
+| 16:30 | HKD | Trade Balance | -59.9B |  | -27.9B |
+| 14 min | ZAR | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
+| 14 min | ZAR | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
 | 19:00 | GBP | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
 | 19:00 | BRL | FGV Consumer confidence (Jan) |  |  | 93.7 |
 | 19:30 | INR | M3 Money Supply |  |  | 10.9% |

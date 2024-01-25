@@ -11,16 +11,16 @@
 | 08:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 15:00 | NOK | Low | Unemployment Rate (Dec) | 3.5% |  | 3.8% |
 | 15:45 | EUR | Low | French Business Survey (Jan) | 99 | 100 | 99 |
-| 16:00 | EUR | Low | Spanish PPI (YoY) | -6.3% |  | -7.4% |
-| 9 min | HKD | Low | Exports (MoM) (Dec) |  |  | 7.4% |
-| 9 min | HKD | Low | Imports (MoM) (Dec) |  |  | 7.1% |
-| 9 min | HKD | Low | Trade Balance |  |  | -27.9B |
-| 39 min | EUR | Moderate | German Business Expectations (Jan) |  | 84.8 | 84.3 |
-| 39 min | EUR | Moderate | German Current Assessment (Jan) |  | 88.6 | 88.5 |
-| 39 min | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
-| 39 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 17:30 | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
-| 17:30 | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
+| 16:00 | EUR | Low | Spanish PPI (YoY) | -6.3% |  | -7.6% |
+| 16:30 | HKD | Low | Exports (MoM) (Dec) | 11.0% |  | 7.4% |
+| 16:30 | HKD | Low | Imports (MoM) (Dec) | 11.6% |  | 7.1% |
+| 16:30 | HKD | Low | Trade Balance | -59.9B |  | -27.9B |
+| 17:00 | EUR | Moderate | German Business Expectations (Jan) | 83.5 | 84.8 | 84.2 |
+| 17:00 | EUR | Moderate | German Current Assessment (Jan) | 87.0 | 88.6 | 88.5 |
+| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) | 85.2 | 86.7 | 86.3 |
+| 17:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 14 min | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
+| 14 min | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
 | 19:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,826.6K |
 | 19:00 | BRL | Low | FGV Consumer confidence (Jan) |  |  | 93.7 |
@@ -58,7 +58,7 @@
 | 21:30 | CAD | Low | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.2% |
 | 21:45 | EUR | High | ECB Press Conference |  |  |  |
-| 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
 | 23:00 | USD | High | New Home Sales (Dec) |  | 645K | 590K |
+| 23:00 | USD | Moderate | New Home Sales (MoM) (Dec) |  |  | -12.2% |
 | 23:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  | -322B | -154B |
