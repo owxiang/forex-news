@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 5-Year Note Auction | 4.055% |  | 3.801% |
-| 17:00 | EUR | German Business Expectations (Jan) |  | 84.8 | 84.3 |
-| 17:00 | EUR | German Current Assessment (Jan) |  | 88.6 | 88.5 |
-| 17:00 | EUR | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
-| 17:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
+| 39 min | EUR | German Business Expectations (Jan) |  | 84.8 | 84.3 |
+| 39 min | EUR | German Current Assessment (Jan) |  | 88.6 | 88.5 |
+| 39 min | EUR | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
+| 39 min | NOK | Interest Rate Decision |  | 4.50% | 4.50% |
 | 19:00 | EUR | France Jobseekers Total |  |  | 2,826.6K |
 | 21:00 | ZAR | Interest Rate Decision (Jan) |  |  | 8.25% |
 | 21:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |

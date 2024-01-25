@@ -10,15 +10,15 @@
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 286.7B |  | 1,202.0B |
 | 08:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 15:00 | NOK | Low | Unemployment Rate (Dec) | 3.5% |  | 3.8% |
-| 30 min | EUR | Low | French Business Survey (Jan) |  | 100 | 100 |
-| 45 min | EUR | Low | Spanish PPI (YoY) |  |  | -7.4% |
-| 16:30 | HKD | Low | Exports (MoM) (Dec) |  |  | 7.4% |
-| 16:30 | HKD | Low | Imports (MoM) (Dec) |  |  | 7.1% |
-| 16:30 | HKD | Low | Trade Balance |  |  | -27.9B |
-| 17:00 | EUR | Moderate | German Business Expectations (Jan) |  | 84.8 | 84.3 |
-| 17:00 | EUR | Moderate | German Current Assessment (Jan) |  | 88.6 | 88.5 |
-| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
-| 17:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 15:45 | EUR | Low | French Business Survey (Jan) | 99 | 100 | 99 |
+| 16:00 | EUR | Low | Spanish PPI (YoY) | -6.3% |  | -7.4% |
+| 9 min | HKD | Low | Exports (MoM) (Dec) |  |  | 7.4% |
+| 9 min | HKD | Low | Imports (MoM) (Dec) |  |  | 7.1% |
+| 9 min | HKD | Low | Trade Balance |  |  | -27.9B |
+| 39 min | EUR | Moderate | German Business Expectations (Jan) |  | 84.8 | 84.3 |
+| 39 min | EUR | Moderate | German Current Assessment (Jan) |  | 88.6 | 88.5 |
+| 39 min | EUR | Moderate | German Ifo Business Climate Index (Jan) |  | 86.7 | 86.4 |
+| 39 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
 | 17:30 | ZAR | Low | PPI (YoY) (Dec) |  | 4.3% | 4.6% |
 | 17:30 | ZAR | Low | PPI (MoM) (Dec) |  | -0.3% | -0.6% |
 | 19:00 | GBP | Low | CBI Distributive Trades Survey (Jan) |  | -30 | -32 |
