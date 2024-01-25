@@ -24,15 +24,15 @@
 | 20:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 20:40 | USD | Building Permits (MoM) | 1.8% |  | -2.1% |
 | 21:00 | ZAR | Prime Rate (Jan) | 11.75% |  | 11.75% |
-| 11 min | USD | Chicago Fed National Activity (Dec) |  |  | 0.03 |
-| 11 min | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
-| 11 min | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 6.5% |
-| 11 min | USD | GDP Sales (Q4) |  |  | 3.6% |
-| 11 min | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) |  | 0.1% | 0.8% |
-| 11 min | USD | Jobless Claims 4-Week Avg. |  |  | 203.25K |
-| 11 min | USD | PCE Prices (Q4) |  |  | 2.6% |
-| 11 min | USD | Real Consumer Spending (Q4) |  |  | 3.1% |
-| 11 min | USD | Wholesale Inventories (MoM) |  | -0.2% | -0.2% |
-| 11 min | CAD | Average Weekly Earnings (YoY) (Nov) |  |  | 4.03% |
-| 11 min | CAD | Manufacturing Sales (MoM) |  |  | 1.2% |
+| 21:30 | USD | Chicago Fed National Activity (Dec) | -0.15 |  | 0.01 |
+| 21:30 | USD | Core PCE Prices (Q4) | 2.00% | 2.00% | 2.00% |
+| 21:30 | USD | Durables Excluding Defense (MoM) (Dec) | 0.5% |  | 6.9% |
+| 21:30 | USD | GDP Sales (Q4) | 3.2% |  | 3.6% |
+| 21:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Dec) | 0.3% | 0.1% | 1.0% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. | 202.25K |  | 203.75K |
+| 21:30 | USD | PCE Prices (Q4) | 1.7% |  | 2.6% |
+| 21:30 | USD | Real Consumer Spending (Q4) | 2.8% |  | 3.1% |
+| 21:30 | USD | Wholesale Inventories (MoM) | 0.4% | -0.2% | -0.4% |
+| 21:30 | CAD | Average Weekly Earnings (YoY) (Nov) | 4.10% |  | 4.03% |
+| 21:30 | CAD | Manufacturing Sales (MoM) | -0.6% |  | 1.2% |
 | 23:30 | USD | Natural Gas Storage |  | -322B | -154B |

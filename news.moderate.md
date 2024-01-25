@@ -12,10 +12,10 @@
 | 21:00 | ZAR | Interest Rate Decision (Jan) | 8.25% |  | 8.25% |
 | 21:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
 | 21:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 11 min | USD | Continuing Jobless Claims |  | 1,828K | 1,806K |
-| 11 min | USD | Durable Goods Orders (MoM) (Dec) |  | 1.1% | 5.4% |
-| 11 min | USD | GDP Price Index (QoQ) (Q4) |  | 2.3% | 3.3% |
-| 11 min | USD | Goods Trade Balance (Dec) |  | -88.70B | -90.27B |
-| 11 min | USD | Retail Inventories Ex Auto (Dec) |  |  | -0.9% |
-| 23:00 | USD | New Home Sales (MoM) (Dec) |  |  | -12.2% |
+| 21:30 | USD | Continuing Jobless Claims | 1,833K | 1,828K | 1,806K |
+| 21:30 | USD | Durable Goods Orders (MoM) (Dec) | 0.0% | 1.1% | 5.5% |
+| 21:30 | USD | GDP Price Index (QoQ) (Q4) | 1.5% | 2.3% | 3.3% |
+| 21:30 | USD | Goods Trade Balance (Dec) | -88.46B | -88.70B | -90.27B |
+| 21:30 | USD | Retail Inventories Ex Auto (Dec) | 0.6% |  | -0.6% |
+| 45 min | USD | New Home Sales (MoM) (Dec) |  |  | -12.2% |
 | 23:15 | EUR | ECB President Lagarde Speaks |  |  |  |
