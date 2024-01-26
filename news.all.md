@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | CAD | Low | Budget Balance (Nov) | -4.01B |  | -6.96B |
 | 00:00 | CAD | Low | Budget Balance (YoY) (Nov) | -19.14B |  | -15.13B |
-| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  |  |  |
-| 47 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
-| 47 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 620 |
+| 00:00 | CAD | Low | Budget Balance (Nov) | -4.01B |  | -6.96B |
+| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.0% |  |  |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 499 |  | 497 |
+| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 620 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 30.9K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 5.3K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -25.3K |
