@@ -20,11 +20,11 @@
 | 13:00 | SGD | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
 | 13:00 | SGD | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Dec) | -0.9% |  | 0.4% |
-| 31 min | EUR | French Consumer Confidence (Jan) |  | 90 | 89 |
-| 46 min | EUR | Spanish Unemployment Rate (Q4) |  | 11.90% | 11.84% |
-| 17:00 | EUR | M3 Money Supply (YoY) (Dec) |  | -0.7% | -0.9% |
-| 17:00 | EUR | Loans to Non Financial Corporations (Dec) |  |  | 0.0% |
-| 17:00 | EUR | Private Sector Loans (YoY) |  | 0.6% | 0.5% |
+| 15:45 | EUR | French Consumer Confidence (Jan) | 91 | 90 | 89 |
+| 16:00 | EUR | Spanish Unemployment Rate (Q4) | 11.76% | 11.90% | 11.84% |
+| 41 min | EUR | M3 Money Supply (YoY) (Dec) |  | -0.7% | -0.9% |
+| 41 min | EUR | Loans to Non Financial Corporations (Dec) |  |  | 0.0% |
+| 41 min | EUR | Private Sector Loans (YoY) |  | 0.6% | 0.5% |
 | 18:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.859% |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.9% |
@@ -33,8 +33,8 @@
 | 19:30 | BRL | Bank lending (MoM) |  |  | 0.9% |
 | 20:00 | MXN | Trade Balance (Dec) |  | 1.400B | 0.630B |
 | 20:00 | MXN | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 21:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
 | 22:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
