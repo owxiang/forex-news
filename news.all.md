@@ -20,8 +20,8 @@
 | 08:01 | GBP | Low | GfK Consumer Confidence (Jan) | -19 | -21 | -22 |
 | 08:30 | SGD | Low | URA Property Index (QoQ) (Q4) | 2.80% | 2.70% | 0.80% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | -1.3% |  | -1.4% |
-| 13:00 | JPY | Low | Leading Index (MoM) | -1.3% |  | -1.2% |
 | 13:00 | JPY | Low | Leading Index | 107.6 | 107.7 | 108.9 |
+| 13:00 | JPY | Low | Leading Index (MoM) | -1.3% |  | -1.2% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
 | 13:00 | SGD | Low | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -29.7 | -24.5 | -25.4 |
@@ -33,17 +33,17 @@
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.6% | 0.5% |
 | 17:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:10 | EUR | Low | Italian 6-Month BOT Auction | 3.770% |  | 3.859% |
-| 43 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 19:30 | INR | Low | Bank Loan Growth |  |  | 19.9% |
-| 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 618.94B |
-| 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.9% |
-| 20:00 | MXN | Low | Trade Balance (Dec) |  | 1.400B | 0.630B |
-| 20:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
-| 20:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
-| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
+| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 19.9% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.2% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 618.94B |
+| 17 min | BRL | Low | Bank lending (MoM) |  |  | 0.9% |
+| 47 min | MXN | Low | Trade Balance (Dec) |  | 1.400B | 0.630B |
+| 47 min | MXN | Low | Trade Balance (USD) (Dec) |  |  | 0.030B |
+| 47 min | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
+| 47 min | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 21:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
+| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
 | 21:30 | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.6% | 2.6% |
 | 21:30 | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.2% | -0.1% |
 | 21:30 | USD | Low | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
