@@ -22,8 +22,8 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | -1.3% |  | -1.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) | -1.3% |  | -1.2% |
 | 13:00 | JPY | Low | Leading Index | 107.6 | 107.7 | 108.9 |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
 | 15:00 | EUR | Moderate | GfK German Consumer Climate (Feb) | -29.7 | -24.5 | -25.4 |
 | 15:00 | NOK | Low | Core Retail Sales (MoM) (Dec) | -0.9% |  | 0.4% |
 | 15:45 | EUR | Low | French Consumer Confidence (Jan) | 91 | 90 | 89 |
@@ -39,16 +39,15 @@
 | 19:30 | INR | Low | FX Reserves, USD | 616.14B |  | 618.94B |
 | 20:00 | MXN | Low | Trade Balance (Dec) | 4.242B | 1.400B | 0.630B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Dec) | 1.856B |  | 0.071B |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.47% | 4.63% | 4.72% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) | 0.31% | 0.47% | 0.40% |
-| 13 min | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
-| 13 min | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
-| 13 min | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.6% | 2.6% |
-| 13 min | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.2% | -0.1% |
-| 13 min | USD | Low | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13 min | USD | Moderate | Personal Spending (MoM) (Dec) |  | 0.4% | 0.2% |
-| 13 min | USD | Low | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
-| 13 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.9% |
-| 43 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 23:00 | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | 1.5% | 0.0% |
-| 23:00 | USD | Low | Pending Home Sales Index (Dec) |  |  | 71.6 |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) | 4.47% | 4.63% | 4.72% |
+| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) | 2.9% | 3.0% | 3.2% |
+| 21:30 | USD | High | Core PCE Price Index (MoM) (Dec) | 0.2% | 0.2% | 0.1% |
+| 21:30 | USD | Moderate | PCE Price index (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
+| 21:30 | USD | Moderate | PCE price index (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
+| 21:30 | USD | Low | Personal Income (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
+| 21:30 | USD | Moderate | Personal Spending (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
+| 21:30 | USD | Low | Real Personal Consumption (MoM) (Dec) | 0.5% | 0.3% | 0.5% |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) | 0.8% |  | 0.9% |
+| 46 min | USD | Moderate | Pending Home Sales (MoM) (Dec) |  | 1.5% | 0.0% |
+| 46 min | USD | Low | Pending Home Sales Index (Dec) |  |  | 71.6 |

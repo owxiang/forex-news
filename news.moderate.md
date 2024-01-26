@@ -9,8 +9,8 @@
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | GfK German Consumer Climate (Feb) | -29.7 | -24.5 | -25.4 |
 | 17:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 13 min | USD | PCE Price index (YoY) (Dec) |  | 2.6% | 2.6% |
-| 13 min | USD | PCE price index (MoM) (Dec) |  | 0.2% | -0.1% |
-| 13 min | USD | Personal Spending (MoM) (Dec) |  | 0.4% | 0.2% |
-| 13 min | CAD | Wholesale Sales (MoM) |  |  | 0.9% |
-| 23:00 | USD | Pending Home Sales (MoM) (Dec) |  | 1.5% | 0.0% |
+| 21:30 | USD | PCE Price index (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
+| 21:30 | USD | PCE price index (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
+| 21:30 | USD | Personal Spending (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
+| 21:30 | CAD | Wholesale Sales (MoM) | 0.8% |  | 0.9% |
+| 46 min | USD | Pending Home Sales (MoM) (Dec) |  | 1.5% | 0.0% |

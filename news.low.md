@@ -17,8 +17,8 @@
 | 13:00 | JPY | Coincident Indicator (MoM) | -1.3% |  | -1.4% |
 | 13:00 | JPY | Leading Index (MoM) | -1.3% |  | -1.2% |
 | 13:00 | JPY | Leading Index | 107.6 | 107.7 | 108.9 |
-| 13:00 | SGD | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
 | 13:00 | SGD | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
+| 13:00 | SGD | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Dec) | -0.9% |  | 0.4% |
 | 15:45 | EUR | French Consumer Confidence (Jan) | 91 | 90 | 89 |
 | 16:00 | EUR | Spanish Unemployment Rate (Q4) | 11.76% | 11.90% | 11.84% |
@@ -32,9 +32,8 @@
 | 19:30 | INR | FX Reserves, USD | 616.14B |  | 618.94B |
 | 20:00 | MXN | Trade Balance (Dec) | 4.242B | 1.400B | 0.630B |
 | 20:00 | MXN | Trade Balance (USD) (Dec) | 1.856B |  | 0.071B |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.47% | 4.63% | 4.72% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.31% | 0.47% | 0.40% |
-| 13 min | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
-| 13 min | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
-| 43 min | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
-| 23:00 | USD | Pending Home Sales Index (Dec) |  |  | 71.6 |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.47% | 4.63% | 4.72% |
+| 21:30 | USD | Personal Income (MoM) (Dec) | 0.3% | 0.3% | 0.4% |
+| 21:30 | USD | Real Personal Consumption (MoM) (Dec) | 0.5% | 0.3% | 0.5% |
+| 46 min | USD | Pending Home Sales Index (Dec) |  |  | 71.6 |
