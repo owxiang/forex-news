@@ -7,7 +7,7 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,677B |  | 7,674B |
 | 07:30 | JPY | Tokyo Core CPI (YoY) (Jan) | 1.6% | 1.9% | 2.1% |
 | 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 15:00 | EUR | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |
+| 40 min | EUR | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |
 | 17:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | PCE Price index (YoY) (Dec) |  | 2.6% | 2.6% |
 | 21:30 | USD | PCE price index (MoM) (Dec) |  | 0.2% | -0.1% |

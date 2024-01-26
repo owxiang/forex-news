@@ -22,13 +22,14 @@
 | 13:00 | JPY | Low | Coincident Indicator (MoM) | -1.3% |  | -1.4% |
 | 13:00 | JPY | Low | Leading Index (MoM) | -1.3% |  | -1.2% |
 | 13:00 | JPY | Low | Leading Index | 107.6 | 107.7 | 108.9 |
-| 13:00 | SGD | Low | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 1.0% |
 | 13:00 | SGD | Low | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
-| 15:00 | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |
-| 15:00 | NOK | Low | Core Retail Sales (MoM) (Dec) |  |  | 0.4% |
+| 13:00 | SGD | Low | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
+| 40 min | EUR | Moderate | GfK German Consumer Climate (Feb) |  | -24.5 | -25.1 |
+| 40 min | NOK | Low | Core Retail Sales (MoM) (Dec) |  |  | 0.4% |
 | 15:45 | EUR | Low | French Consumer Confidence (Jan) |  | 90 | 89 |
 | 16:00 | EUR | Low | Spanish Unemployment Rate (Q4) |  | 11.90% | 11.84% |
 | 17:00 | EUR | Low | M3 Money Supply (YoY) (Dec) |  | -0.7% | -0.9% |
+| 17:00 | EUR | Low | M3 Money Supply (Dec) |  |  | 10,000,000.0M |
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Dec) |  |  | 0.0% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.6% | 0.5% |
 | 17:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
