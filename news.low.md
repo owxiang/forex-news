@@ -15,10 +15,10 @@
 | 08:01 | GBP | GfK Consumer Confidence (Jan) | -19 | -21 | -22 |
 | 08:30 | SGD | URA Property Index (QoQ) (Q4) | 2.80% | 2.70% | 0.80% |
 | 13:00 | JPY | Coincident Indicator (MoM) | -1.3% |  | -1.4% |
-| 13:00 | JPY | Leading Index | 107.6 | 107.7 | 108.9 |
 | 13:00 | JPY | Leading Index (MoM) | -1.3% |  | -1.2% |
-| 13:00 | SGD | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
+| 13:00 | JPY | Leading Index | 107.6 | 107.7 | 108.9 |
 | 13:00 | SGD | Industrial Production (YoY) (Dec) | -2.5% | 1.0% | 0.0% |
+| 13:00 | SGD | Industrial Production (MoM) (Dec) | -1.7% | 2.1% | -8.0% |
 | 15:00 | NOK | Core Retail Sales (MoM) (Dec) | -0.9% |  | 0.4% |
 | 15:45 | EUR | French Consumer Confidence (Jan) | 91 | 90 | 89 |
 | 16:00 | EUR | Spanish Unemployment Rate (Q4) | 11.76% | 11.90% | 11.84% |
@@ -27,14 +27,13 @@
 | 17:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.6% | 0.5% |
 | 18:10 | EUR | Italian 6-Month BOT Auction | 3.770% |  | 3.859% |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 17 min | INR | Bank Loan Growth |  |  | 19.9% |
-| 17 min | INR | Deposit Growth |  |  | 13.2% |
-| 17 min | INR | FX Reserves, USD |  |  | 618.94B |
-| 17 min | BRL | Bank lending (MoM) |  |  | 0.9% |
-| 47 min | MXN | Trade Balance (Dec) |  | 1.400B | 0.630B |
-| 47 min | MXN | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 47 min | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
-| 47 min | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
+| 19:30 | INR | Bank Loan Growth | 20.3% |  | 19.9% |
+| 19:30 | INR | Deposit Growth | 13.1% |  | 13.2% |
+| 19:30 | INR | FX Reserves, USD | 616.14B |  | 618.94B |
+| 20:00 | MXN | Trade Balance (Dec) | 4.242B | 1.400B | 0.630B |
+| 20:00 | MXN | Trade Balance (USD) (Dec) | 1.856B |  | 0.071B |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.31% | 0.47% | 0.40% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.47% | 4.63% | 4.72% |
 | 21:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
 | 22:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
