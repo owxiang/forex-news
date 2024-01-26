@@ -32,9 +32,9 @@
 | 19:30 | INR | FX Reserves, USD | 616.14B |  | 618.94B |
 | 20:00 | MXN | Trade Balance (Dec) | 4.242B | 1.400B | 0.630B |
 | 20:00 | MXN | Trade Balance (USD) (Dec) | 1.856B |  | 0.071B |
-| 20:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.31% | 0.47% | 0.40% |
 | 20:00 | BRL | Mid-Month CPI (YoY) (Jan) | 4.47% | 4.63% | 4.72% |
-| 21:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
-| 21:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
-| 22:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 20:00 | BRL | Mid-Month CPI (MoM) (Jan) | 0.31% | 0.47% | 0.40% |
+| 13 min | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
+| 13 min | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
+| 43 min | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 23:00 | USD | Pending Home Sales Index (Dec) |  |  | 71.6 |
