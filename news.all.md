@@ -31,9 +31,9 @@
 | 17:00 | EUR | Low | M3 Money Supply (YoY) (Dec) | 0.1% | -0.7% | -0.9% |
 | 17:00 | EUR | Low | Loans to Non Financial Corporations (Dec) | 0.4% |  | 0.0% |
 | 17:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.6% | 0.5% |
-| 14 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 54 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.859% |
-| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 17:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 18:10 | EUR | Low | Italian 6-Month BOT Auction | 3.770% |  | 3.859% |
+| 43 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 19.9% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 618.94B |

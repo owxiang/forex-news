@@ -25,8 +25,8 @@
 | 17:00 | EUR | M3 Money Supply (YoY) (Dec) | 0.1% | -0.7% | -0.9% |
 | 17:00 | EUR | Loans to Non Financial Corporations (Dec) | 0.4% |  | 0.0% |
 | 17:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.6% | 0.5% |
-| 54 min | EUR | Italian 6-Month BOT Auction |  |  | 3.859% |
-| 19:00 | EUR | German Buba Monthly Report |  |  |  |
+| 18:10 | EUR | Italian 6-Month BOT Auction | 3.770% |  | 3.859% |
+| 43 min | EUR | German Buba Monthly Report |  |  |  |
 | 19:30 | INR | Bank Loan Growth |  |  | 19.9% |
 | 19:30 | INR | Deposit Growth |  |  | 13.2% |
 | 19:30 | INR | FX Reserves, USD |  |  | 618.94B |
