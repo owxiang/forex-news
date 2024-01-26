@@ -1,16 +1,16 @@
-## 26 January 2024 - Moderate Impact Forex News
+## 27 January 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 02:00 | USD | 7-Year Note Auction | 4.109% |  | 3.859% |
-| 05:30 | USD | Fed's Balance Sheet | 7,677B |  | 7,674B |
-| 07:30 | JPY | Tokyo Core CPI (YoY) (Jan) | 1.6% | 1.9% | 2.1% |
-| 07:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 15:00 | EUR | GfK German Consumer Climate (Feb) | -29.7 | -24.5 | -25.4 |
-| 17:30 | EUR | German Buba Balz Speaks |  |  |  |
-| 21:30 | USD | PCE price index (MoM) (Dec) | 0.2% | 0.2% | -0.1% |
-| 21:30 | USD | PCE Price index (YoY) (Dec) | 2.6% | 2.6% | 2.6% |
-| 21:30 | USD | Personal Spending (MoM) (Dec) | 0.7% | 0.4% | 0.4% |
-| 21:30 | CAD | Wholesale Sales (MoM) | 0.8% |  | 0.9% |
-| 23:00 | USD | Pending Home Sales (MoM) (Dec) | 8.3% | 1.5% | -0.3% |
+| 11 min | USD | Atlanta Fed GDPNow (Q1) |  |  |  |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 620 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 30.9K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 162.0K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 179.9K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 36.6K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -169.2K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -47.9K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 24.7K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -56.6K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 104.1K |
