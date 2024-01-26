@@ -33,8 +33,8 @@
 | 19:30 | BRL | Bank lending (MoM) |  |  | 0.9% |
 | 20:00 | MXN | Trade Balance (Dec) |  | 1.400B | 0.630B |
 | 20:00 | MXN | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 20:00 | BRL | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
+| 20:00 | BRL | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 21:30 | USD | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
 | 21:30 | USD | Real Personal Consumption (MoM) (Dec) |  |  | 0.3% |
 | 22:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |

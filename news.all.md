@@ -39,10 +39,10 @@
 | 19:30 | BRL | Low | Bank lending (MoM) |  |  | 0.9% |
 | 20:00 | MXN | Low | Trade Balance (Dec) |  | 1.400B | 0.630B |
 | 20:00 | MXN | Low | Trade Balance (USD) (Dec) |  |  | 0.030B |
-| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 20:00 | BRL | Low | Mid-Month CPI (MoM) (Jan) |  | 0.47% | 0.40% |
-| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
+| 20:00 | BRL | Low | Mid-Month CPI (YoY) (Jan) |  | 4.63% | 4.72% |
 | 21:30 | USD | High | Core PCE Price Index (MoM) (Dec) |  | 0.2% | 0.1% |
+| 21:30 | USD | High | Core PCE Price Index (YoY) (Dec) |  | 3.0% | 3.2% |
 | 21:30 | USD | Moderate | PCE Price index (YoY) (Dec) |  | 2.6% | 2.6% |
 | 21:30 | USD | Moderate | PCE price index (MoM) (Dec) |  | 0.2% | -0.1% |
 | 21:30 | USD | Low | Personal Income (MoM) (Dec) |  | 0.3% | 0.4% |
