@@ -27,4 +27,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -70.6K |  | -56.6K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | -1.7K |  | -2.9K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 88.3K |  | 104.1K |
-| 09:30 | CNY | Low | Chinese Industrial profit YTD (Dec) |  |  | -4.4% |
+| 23 min | CNY | Low | Chinese Industrial profit YTD (Dec) |  |  | -4.4% |

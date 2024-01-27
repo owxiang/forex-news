@@ -15,4 +15,4 @@
 | 04:30 | MXN | CFTC MXN speculative net positions | 75.1K |  | 81.6K |
 | 04:30 | CHF | CFTC CHF speculative net positions | -5.2K |  | -3.7K |
 | 04:30 | NZD | CFTC NZD speculative net positions | -1.7K |  | -2.9K |
-| 09:30 | CNY | Chinese Industrial profit YTD (Dec) |  |  | -4.4% |
+| 23 min | CNY | Chinese Industrial profit YTD (Dec) |  |  | -4.4% |
