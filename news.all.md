@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:45 | NZD | Low | Exports (Dec) |  |  | 5.99B |
 | 05:45 | NZD | Low | Imports (Dec) |  |  | 7.23B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -13,870M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Dec) |  |  | -1,234M |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Dec) |  |  | -13,870M |
 | 15:00 | NOK | Low | M3 Money Supply (Dec) |  |  | 3,129.7B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Dec) |  |  | 3.7% |
 | 17:01 | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 6.22B |
