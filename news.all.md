@@ -12,6 +12,7 @@
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Budget Balance |  |  | -80.887B |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) |  |  | 73.8% |
+| 21:10 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.406% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.837% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.755% |
