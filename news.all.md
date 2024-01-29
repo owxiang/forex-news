@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11 min | USD | Low | 3-Month Bill Auction |  |  | 5.225% |
-| 11 min | USD | Low | 6-Month Bill Auction |  |  | 5.020% |
+| 00:30 | USD | Low | 3-Month Bill Auction | 5.210% |  | 5.225% |
+| 00:30 | USD | Low | 6-Month Bill Auction | 4.985% |  | 5.020% |
 | 07:30 | JPY | Low | Jobs/applications ratio (Dec) |  | 1.28 | 1.28 |
 | 07:30 | JPY | Low | Unemployment Rate (Dec) |  | 2.5% | 2.5% |
 | 08:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 4.3% |
@@ -12,18 +12,18 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) |  | 5.50% | 5.46% |
 | 14:00 | ZAR | Low | Private Sector Credit (Dec) |  | 4.10% | 3.84% |
 | 14:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) |  | 0.0% | 0.7% |
-| 14:30 | EUR | Moderate | French GDP (YoY) (Q4) |  |  | 0.6% |
 | 14:30 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
+| 14:30 | EUR | Moderate | French GDP (YoY) (Q4) |  |  | 0.6% |
 | 15:00 | CHF | Low | Trade Balance (Dec) |  | 2.550B | 3.707B |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Jan) |  | 98.2 | 97.8 |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 3.1% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  |  | 0.0% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 3.1% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 1.5% | 1.8% |
 | 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.4% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 3.1% | 3.3% |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.4% | 0.0% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
+| 17:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
 | 17:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
 | 17:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
