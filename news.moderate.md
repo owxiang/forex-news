@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 42 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 21:10 | EUR | ECB's De Guindos Speaks |  |  |  |

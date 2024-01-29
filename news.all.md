@@ -10,9 +10,9 @@
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 3.4% |  | 3.5% |
 | 17:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 8.34B |  | 6.27B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 42 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.406% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.837% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.755% |
-| 22:00 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 21:10 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 37 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.406% |
+| 37 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.837% |
+| 37 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.755% |
+| 42 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 23:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | -9.3 |

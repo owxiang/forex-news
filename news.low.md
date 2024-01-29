@@ -10,8 +10,8 @@
 | 15:00 | NOK | Credit Indicator (YoY) (Dec) | 3.4% |  | 3.5% |
 | 17:00 | EUR | Italian Trade Balance Non-EU (Dec) | 8.34B |  | 6.27B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.406% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.837% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.755% |
-| 22:00 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 37 min | EUR | French 12-Month BTF Auction |  |  | 3.406% |
+| 37 min | EUR | French 3-Month BTF Auction |  |  | 3.837% |
+| 37 min | EUR | French 6-Month BTF Auction |  |  | 3.755% |
+| 42 min | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 23:30 | USD | Dallas Fed Mfg Business Index (Jan) |  |  | -9.3 |
