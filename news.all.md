@@ -8,7 +8,7 @@
 | 05:45 | NZD | Low | Trade Balance (YoY) (Dec) | -13,570M |  | -13,900M |
 | 15:00 | NOK | Low | M3 Money Supply (Dec) | 3,086.4B |  | 3,129.7B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Dec) | 3.4% |  | 3.5% |
-| 41 min | EUR | Low | Italian Trade Balance Non-EU (Dec) |  |  | 6.22B |
+| 17:00 | EUR | Low | Italian Trade Balance Non-EU (Dec) | 8.34B |  | 6.22B |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Budget Balance |  |  | -80.887B |
 | 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) |  |  | 73.8% |
