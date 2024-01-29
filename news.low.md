@@ -39,8 +39,8 @@
 | 21:00 | USD | IMF Meetings |  |  |  |
 | 21:30 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.2% |
-| 22:00 | USD | House Price Index (YoY) (Nov) |  |  | 6.3% |
 | 22:00 | USD | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
+| 22:00 | USD | House Price Index (YoY) (Nov) |  |  | 6.3% |
 | 22:00 | USD | House Price Index (Nov) |  |  | 416.3 |
 | 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 4.3 |
