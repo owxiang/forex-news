@@ -16,8 +16,8 @@
 | 18:00 | EUR | GDP (YoY) (Q4) |  | 0.0% | 0.0% |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.17% |
 | 19:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 20:00 | MXN | GDP (YoY) (Q4) |  | 3.0% | 3.3% |
 | 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.3% | 1.1% |
+| 20:00 | MXN | GDP (YoY) (Q4) |  | 3.0% | 3.3% |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | 0.1% |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 5.8% | 4.9% |
 | 23:30 | EUR | German Buba President Nagel Speaks |  |  |  |
