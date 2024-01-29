@@ -6,9 +6,9 @@
 | 05:45 | NZD | Imports (Dec) | 6.26B |  | 7.20B |
 | 05:45 | NZD | Trade Balance (YoY) (Dec) | -13,570M |  | -13,900M |
 | 05:45 | NZD | Trade Balance (MoM) (Dec) | -323M | -975M | -1,250M |
-| 40 min | NOK | M3 Money Supply (Dec) |  |  | 3,129.7B |
-| 40 min | NOK | Credit Indicator (YoY) (Dec) |  |  | 3.7% |
-| 17:01 | EUR | Italian Trade Balance Non-EU (Dec) |  |  | 6.22B |
+| 15:00 | NOK | M3 Money Supply (Dec) | 3,086.4B |  | 3,129.7B |
+| 15:00 | NOK | Credit Indicator (YoY) (Dec) | 3.4% |  | 3.5% |
+| 17:00 | EUR | Italian Trade Balance Non-EU (Dec) |  |  | 6.22B |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Budget Balance |  |  | -80.887B |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.406% |
