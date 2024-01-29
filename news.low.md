@@ -9,8 +9,8 @@
 | 15:00 | NOK | M3 Money Supply (Dec) | 3,086.4B |  | 3,129.7B |
 | 15:00 | NOK | Credit Indicator (YoY) (Dec) | 3.4% |  | 3.5% |
 | 17:00 | EUR | Italian Trade Balance Non-EU (Dec) | 8.34B |  | 6.27B |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Budget Balance (Dec) |  |  | -80.887B |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Budget Balance (Dec) |  |  | -80.887B |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.406% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.837% |
 | 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.755% |
