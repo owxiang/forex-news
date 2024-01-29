@@ -22,8 +22,8 @@
 | 17:30 | GBP | Mortgage Approvals (Dec) |  | 53.00K | 50.07K |
 | 17:30 | GBP | Mortgage Lending (Dec) |  |  | -0.04B |
 | 17:30 | GBP | Net Lending to Individuals |  | 1.5B | 2.0B |
-| 18:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.5% |
 | 18:00 | EUR | Italian PPI (YoY) (Dec) |  |  | -9.5% |
+| 18:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.5% |
 | 18:00 | EUR | Business and Consumer Survey (Jan) |  | 96.2 | 96.4 |
 | 18:00 | EUR | Business Climate (Jan) |  |  | -0.45 |
 | 18:00 | EUR | Consumer Confidence (Jan) |  | -16.1 | -15.1 |
