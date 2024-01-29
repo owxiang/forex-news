@@ -24,8 +24,8 @@
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 3.1% | 3.3% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
-| 17:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
 | 17:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
+| 17:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:30 | GBP | Low | BoE Consumer Credit (Dec) |  |  | 2.005B |
 | 17:30 | GBP | Low | M3 Money Supply (Dec) |  |  | 2,984.7B |
@@ -33,8 +33,8 @@
 | 17:30 | GBP | Low | Mortgage Approvals (Dec) |  | 53.00K | 50.07K |
 | 17:30 | GBP | Low | Mortgage Lending (Dec) |  |  | -0.04B |
 | 17:30 | GBP | Low | Net Lending to Individuals |  | 1.5B | 2.0B |
-| 18:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -9.5% |
 | 18:00 | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.5% |
+| 18:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -9.5% |
 | 18:00 | EUR | Low | Business and Consumer Survey (Jan) |  | 96.2 | 96.4 |
 | 18:00 | EUR | Low | Business Climate (Jan) |  |  | -0.45 |
 | 18:00 | EUR | Low | Consumer Confidence (Jan) |  | -16.1 | -15.1 |
