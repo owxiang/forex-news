@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 08:30 | AUD | Retail Sales (MoM) (Dec) |  | -1.0% | 2.0% |
 | 14:30 | EUR | French Consumer Spending (MoM) (Dec) |  | 0.0% | 0.7% |
-| 14:30 | EUR | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 14:30 | EUR | French GDP (YoY) (Q4) |  |  | 0.6% |
+| 14:30 | EUR | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 16:00 | CHF | KOF Leading Indicators (Jan) |  | 98.2 | 97.8 |
 | 16:00 | EUR | Spanish CPI (YoY) (Jan) |  | 3.0% | 3.1% |
 | 16:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.2% | 0.3% |

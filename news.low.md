@@ -14,8 +14,8 @@
 | 16:00 | EUR | Spanish CPI (MoM) (Jan) |  |  | 0.0% |
 | 16:00 | EUR | Spanish GDP (YoY) (Q4) |  | 1.5% | 1.8% |
 | 16:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.4% | 0.0% |
-| 17:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
 | 17:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
 | 17:30 | GBP | BoE Consumer Credit (Dec) |  |  | 2.005B |
 | 17:30 | GBP | M3 Money Supply (Dec) |  |  | 2,984.7B |
 | 17:30 | GBP | M4 Money Supply (MoM) (Dec) |  | 0.2% | -0.1% |
