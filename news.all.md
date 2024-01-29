@@ -14,5 +14,5 @@
 | 21:55 | EUR | Low | French 12-Month BTF Auction | 3.239% |  | 3.406% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.822% |  | 3.837% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.687% |  | 3.755% |
-| 23:30 | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | -9.3 |
-| 23:30 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 15 min | USD | Low | Dallas Fed Mfg Business Index (Jan) |  |  | -9.3 |
+| 15 min | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
