@@ -34,10 +34,9 @@
 | 18:30 | EUR | Italian 5-Year BTP Auction | 3.14% |  | 3.61% |
 | 18:30 | EUR | German 2-Year Schatz Auction | 2.490% |  | 2.440% |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.07% | 0.24% | 0.74% |
-| 47 min | EUR | Spanish Business Confidence (Jan) |  |  | -6.8 |
-| 47 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
-| 21:00 | USD | IMF Meetings |  |  |  |
-| 21:30 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 20:00 | EUR | Spanish Business Confidence (Jan) | -5.6 |  | -6.7 |
+| 33 min | USD | IMF Meetings |  |  |  |
+| 33 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 22:00 | USD | House Price Index (YoY) (Nov) |  |  | 6.3% |
 | 22:00 | USD | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |

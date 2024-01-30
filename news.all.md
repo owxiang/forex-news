@@ -12,20 +12,20 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) | 7.63% | 5.50% | 5.46% |
 | 14:00 | ZAR | Low | Private Sector Credit (Dec) | 4.94% | 4.10% | 3.84% |
 | 14:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) | 0.3% | 0.3% | 0.6% |
-| 14:30 | EUR | Moderate | French GDP (YoY) (Q4) | 0.7% |  | 0.6% |
 | 14:30 | EUR | Moderate | French GDP (QoQ) (Q4) | 0.0% | 0.0% | 0.0% |
+| 14:30 | EUR | Moderate | French GDP (YoY) (Q4) | 0.7% |  | 0.6% |
 | 15:00 | CHF | Low | Trade Balance (Dec) | 1.248B | 2.550B | 3.833B |
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Jan) | 101.5 | 98.2 | 98.0 |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.1% | 3.1% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | -0.2% | 0.0% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 1.5% | 1.9% |
 | 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.6% | 0.2% | 0.4% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.3% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.1% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.3% | 0.0% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.5% | 0.3% | 0.1% |
 | 17:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.0% | 0.1% |
-| 17:00 | EUR | High | German GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
 | 17:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
+| 17:00 | EUR | High | German GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
 | 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:30 | GBP | Low | BoE Consumer Credit (Dec) | 1.197B | 1.350B | 2.058B |
 | 17:30 | GBP | Low | M3 Money Supply (Dec) | 2,998.2B |  | 2,983.1B |
@@ -48,13 +48,12 @@
 | 18:30 | EUR | Low | Italian 5-Year BTP Auction | 3.14% |  | 3.61% |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 2.490% |  | 2.440% |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) | 0.07% | 0.24% | 0.74% |
-| 32 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 47 min | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.4% | 1.1% |
-| 47 min | MXN | Moderate | GDP (YoY) (Q4) |  | 3.1% | 3.3% |
-| 47 min | EUR | Low | Spanish Business Confidence (Jan) |  |  | -6.8 |
-| 47 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -17.81B |
-| 21:00 | USD | Low | IMF Meetings |  |  |  |
-| 21:30 | USD | Low | Dallas Fed PCE (Dec) |  |  | 1.50% |
+| 19:45 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.4% | 1.1% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q4) | 2.4% | 3.1% | 3.3% |
+| 20:00 | EUR | Low | Spanish Business Confidence (Jan) | -5.6 |  | -6.7 |
+| 33 min | USD | Low | IMF Meetings |  |  |  |
+| 33 min | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 22:00 | USD | Low | House Price Index (YoY) (Nov) |  |  | 6.3% |
 | 22:00 | USD | Low | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
