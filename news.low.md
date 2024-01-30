@@ -48,23 +48,23 @@
 | 16:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
 | 17:00 | CHF | ZEW Expectations (Jan) |  |  | -23.7 |
-| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
-| 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
+| 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
-| 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
+| 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 17:00 | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
+| 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
+| 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 17:00 | EUR | Spanish Current account (Nov) |  |  | 3.77B |
 | 17:00 | NOK | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
 | 17:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 18:00 | INR | Federal Fiscal Deficit (Dec) |  |  | 9,065.84B |
-| 19:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
+| 19:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.78% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
@@ -73,8 +73,8 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 438.4 |
 | 20:00 | INR | Infrastructure Output (YoY) (Dec) |  |  | 7.8% |
 | 20:00 | ZAR | Trade Balance (Dec) |  | 15.00B | 21.02B |
-| 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | EUR | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
+| 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.90% |
 | 21:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 1.20% |

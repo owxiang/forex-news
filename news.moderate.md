@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | USD | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
+| 15 min | USD | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
 | 07:50 | JPY | Industrial Production (MoM) (Dec) |  | 2.4% | -0.9% |
 | 08:30 | AUD | CPI (YoY) (Q4) |  | 4.3% | 5.4% |
 | 08:30 | AUD | CPI (QoQ) (Q4) |  | 0.8% | 1.2% |

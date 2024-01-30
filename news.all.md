@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
 | 02:00 | MXN | Low | Fiscal Balance (Dec) | -291.23B |  | -87.78B |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
+| 15 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
@@ -46,10 +46,10 @@
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | -2.4% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.7% | -2.5% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.9% | 0.7% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.1% |
 | 15:45 | EUR | Low | French CPI (YoY) (Jan) |  |  | 3.7% |
-| 15:45 | EUR | Low | French HICP (YoY) |  | 3.3% | 4.1% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.1% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 0.1% |
+| 15:45 | EUR | Low | French HICP (YoY) |  | 3.3% | 4.1% |
 | 15:45 | EUR | Low | PPI (YoY) (Dec) |  |  | 0.30% |
 | 15:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 2.4% |
 | 16:00 | CHF | Low | Official Reserves Assets (Dec) |  |  | 714.9B |
@@ -63,24 +63,24 @@
 | 16:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
 | 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
 | 17:00 | CHF | Low | ZEW Expectations (Jan) |  |  | -23.7 |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
-| 17:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
+| 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
+| 17:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
 | 17:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
-| 17:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
+| 17:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
+| 17:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
+| 17:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 17:00 | EUR | Low | Spanish Current account (Nov) |  |  | 3.77B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
 | 17:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 18:00 | INR | Low | Federal Fiscal Deficit (Dec) |  |  | 9,065.84B |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.190% |
-| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 19:00 | EUR | Low | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
+| 19:00 | EUR | Low | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
 | 19:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.78% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.7% |
@@ -90,10 +90,10 @@
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Dec) |  |  | 7.8% |
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 7.6% | 7.5% |
 | 20:00 | ZAR | Low | Trade Balance (Dec) |  | 15.00B | 21.02B |
-| 21:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
 | 21:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 3.0% | 3.7% |
-| 21:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
+| 21:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
 | 21:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
+| 21:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:15 | USD | High | ADP Nonfarm Employment Change (Jan) |  | 145K | 164K |
 | 21:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.90% |
