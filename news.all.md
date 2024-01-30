@@ -18,8 +18,8 @@
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Jan) |  | 98.2 | 97.8 |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.0% | 3.1% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  |  | 0.0% |
-| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 1.5% | 1.8% |
+| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.4% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 3.1% | 3.3% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
@@ -49,8 +49,8 @@
 | 18:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.440% |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) |  | 0.26% | 0.74% |
 | 19:45 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 3.0% | 3.3% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.3% | 1.1% |
+| 20:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 3.0% | 3.3% |
 | 20:00 | EUR | Low | Spanish Business Confidence |  |  | -6.8 |
 | 20:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:00 | USD | Low | IMF Meetings |  |  |  |
