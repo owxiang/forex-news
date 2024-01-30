@@ -5,8 +5,8 @@
 | 01:00 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
 | 02:00 | MXN | Low | Fiscal Balance (Dec) | -291.23B |  | -87.78B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
+| 07:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
 | 07:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 07:00 | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | -0.1% |
 | 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
@@ -46,8 +46,8 @@
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | -2.4% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.7% | -2.5% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.9% | 0.7% |
-| 15:45 | EUR | Low | French CPI (YoY) (Jan) |  |  | 3.7% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.1% |
+| 15:45 | EUR | Low | French CPI (YoY) (Jan) |  |  | 3.7% |
 | 15:45 | EUR | Low | French HICP (YoY) |  | 3.3% | 4.1% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 0.1% |
 | 15:45 | EUR | Low | PPI (YoY) (Dec) |  |  | 0.30% |
@@ -65,8 +65,8 @@
 | 17:00 | CHF | Low | ZEW Expectations (Jan) |  |  | -23.7 |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 17:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |

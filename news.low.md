@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | BRL | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
 | 02:00 | MXN | Fiscal Balance (Dec) | -291.23B |  | -87.78B |
-| 07:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
 | 07:00 | KRW | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
+| 07:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
 | 07:00 | KRW | Retail Sales (MoM) (Dec) |  |  | 1.0% |
 | 07:00 | KRW | Service Sector Output (MoM) (Dec) |  |  | -0.1% |
 | 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
@@ -50,8 +50,8 @@
 | 17:00 | CHF | ZEW Expectations (Jan) |  |  | -23.7 |
 | 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
 | 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
