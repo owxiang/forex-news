@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
-| Tentative | MXN | Low | Fiscal Balance (Dec) |  |  | -87.78B |
+| 02:00 | MXN | Low | Fiscal Balance (Dec) | -291.23B |  | -87.78B |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
 | 07:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
 | 07:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
@@ -26,8 +26,8 @@
 | 08:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q4) |  | 0.9% | 1.2% |
 | 08:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q4) |  | 4.3% | 5.2% |
 | 08:30 | AUD | Low | Monthly CPI Indicator (YoY) (Dec) |  | 3.70% | 4.30% |
-| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) |  | 4.5% | 5.2% |
 | 08:30 | AUD | Low | Weighted mean CPI (QoQ) (Q4) |  | 1.0% | 1.3% |
+| 08:30 | AUD | Low | Weighted mean CPI (YoY) (Q4) |  | 4.5% | 5.2% |
 | 09:30 | CNY | Moderate | Chinese Composite PMI (Jan) |  |  | 50.3 |
 | 09:30 | CNY | High | Manufacturing PMI (Jan) |  | 49.3 | 49.0 |
 | 09:30 | CNY | Moderate | Non-Manufacturing PMI (Jan) |  | 50.6 | 50.4 |
@@ -46,16 +46,16 @@
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | -2.4% |
 | 15:00 | EUR | Moderate | German Retail Sales (MoM) (Dec) |  | 0.7% | -2.5% |
 | 15:30 | CHF | Low | Retail Sales (YoY) (Dec) |  | 0.9% | 0.7% |
-| 15:45 | EUR | Low | French CPI (YoY) (Jan) |  |  | 3.7% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | 0.0% | 0.1% |
+| 15:45 | EUR | Low | French CPI (YoY) (Jan) |  |  | 3.7% |
 | 15:45 | EUR | Low | French HICP (YoY) |  | 3.3% | 4.1% |
 | 15:45 | EUR | Moderate | French HICP (MoM) |  | -0.2% | 0.1% |
 | 15:45 | EUR | Low | PPI (YoY) (Dec) |  |  | 0.30% |
 | 15:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 2.4% |
 | 16:00 | CHF | Low | Official Reserves Assets (Dec) |  |  | 714.9B |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  |  | 5.2% |
-| 16:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
 | 16:30 | HKD | Low | GDP (YoY) (Q4) |  | 4.7% | 4.1% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
 | 16:30 | HKD | Low | M3 Money Supply |  |  | 2.6% |
 | 16:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 11K | 5K |
 | 16:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 5.9% | 5.9% |
@@ -72,8 +72,8 @@
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
 | 17:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
+| 17:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 17:00 | EUR | Low | Spanish Current account (Nov) |  |  | 3.77B |
 | 17:00 | NOK | Low | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
 | 17:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
