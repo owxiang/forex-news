@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | Retail Sales (MoM) (Dec) |  | -1.0% | 2.0% |
+| 08:30 | AUD | Retail Sales (MoM) (Dec) | -2.7% | -1.0% | 1.6% |
 | 14:30 | EUR | French Consumer Spending (MoM) (Dec) |  | 0.0% | 0.7% |
 | 14:30 | EUR | French GDP (YoY) (Q4) |  |  | 0.6% |
 | 14:30 | EUR | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
@@ -16,8 +16,8 @@
 | 18:00 | EUR | GDP (YoY) (Q4) |  | 0.0% | 0.0% |
 | 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.17% |
 | 19:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.3% | 1.1% |
 | 20:00 | MXN | GDP (YoY) (Q4) |  | 3.0% | 3.3% |
+| 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.3% | 1.1% |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | 0.1% |
 | 22:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 5.8% | 4.9% |
 | 23:30 | EUR | German Buba President Nagel Speaks |  |  |  |
