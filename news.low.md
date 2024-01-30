@@ -4,18 +4,18 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | BRL | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
 | 02:00 | MXN | Fiscal Balance (Dec) | -291.23B |  | -87.78B |
-| 46 min | KRW | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
-| 46 min | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
-| 46 min | KRW | Retail Sales (MoM) (Dec) |  |  | 1.0% |
-| 46 min | KRW | Service Sector Output (MoM) (Dec) |  |  | -0.1% |
-| 07:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 07:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 6.0% |
-| 07:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | -7.2% |
-| 07:50 | JPY | Large Retailers' Sales (MoM) |  |  | 1.0% |
-| 07:50 | JPY | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 4.0% |
-| 07:50 | JPY | Retail Sales (YoY) (Dec) |  | 4.7% | 5.4% |
-| 08:00 | NZD | ANZ Business Confidence (Jan) |  |  | 33.2 |
-| 08:00 | NZD | NBNZ Own Activity (Jan) |  |  | 29.3% |
+| 07:00 | KRW | Industrial Production (YoY) (Dec) | 6.2% | 6.0% | 5.5% |
+| 07:00 | KRW | Industrial Production (MoM) (Dec) | 0.6% | 0.5% | 3.6% |
+| 07:00 | KRW | Retail Sales (MoM) (Dec) | -0.8% |  | 0.9% |
+| 07:00 | KRW | Service Sector Output (MoM) (Dec) |  |  | -0.1% |
+| 33 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 33 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 6.0% |
+| 33 min | JPY | Industrial Production forecast 2m ahead (MoM) (Feb) |  |  | -7.2% |
+| 33 min | JPY | Large Retailers' Sales (MoM) |  |  | 1.0% |
+| 33 min | JPY | Large Scale Retail Sales YoY (YoY) (Dec) |  |  | 4.0% |
+| 33 min | JPY | Retail Sales (YoY) (Dec) |  | 4.7% | 5.4% |
+| 43 min | NZD | ANZ Business Confidence (Jan) |  |  | 33.2 |
+| 43 min | NZD | NBNZ Own Activity (Jan) |  |  | 29.3% |
 | 08:30 | AUD | CPI Index Number (Q4) |  |  | 135.30 |
 | 08:30 | AUD | Housing Credit (Dec) |  |  | 0.4% |
 | 08:30 | AUD | Private Sector Credit (MoM) (Dec) |  | 0.4% | 0.4% |
@@ -48,14 +48,14 @@
 | 16:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
 | 17:00 | CHF | ZEW Expectations (Jan) |  |  | -23.7 |
-| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
 | 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
 | 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
-| 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
+| 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
 | 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
@@ -73,8 +73,8 @@
 | 20:00 | USD | Mortgage Refinance Index |  |  | 438.4 |
 | 20:00 | INR | Infrastructure Output (YoY) (Dec) |  |  | 7.8% |
 | 20:00 | ZAR | Trade Balance (Dec) |  | 15.00B | 21.02B |
-| 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | EUR | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
+| 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.90% |
 | 21:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 1.20% |
