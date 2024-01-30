@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | BRL | Low | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
 | 02:00 | MXN | Low | Fiscal Balance (Dec) | -291.23B |  | -87.78B |
-| 15 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.867M | -6.674M |
-| 07:00 | KRW | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
-| 07:00 | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
-| 07:00 | KRW | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
-| 07:00 | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | -0.1% |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.500M | -0.867M | -6.674M |
+| 46 min | KRW | Low | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
+| 46 min | KRW | Low | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
+| 46 min | KRW | Low | Retail Sales (MoM) (Dec) |  |  | 1.0% |
+| 46 min | KRW | Low | Service Sector Output (MoM) (Dec) |  |  | -0.1% |
 | 07:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 07:50 | JPY | Moderate | Industrial Production (MoM) (Dec) |  | 2.4% | -0.9% |
 | 07:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jan) |  |  | 6.0% |
@@ -18,8 +18,8 @@
 | 07:50 | JPY | Low | Retail Sales (YoY) (Dec) |  | 4.7% | 5.4% |
 | 08:00 | NZD | Low | ANZ Business Confidence (Jan) |  |  | 33.2 |
 | 08:00 | NZD | Low | NBNZ Own Activity (Jan) |  |  | 29.3% |
-| 08:30 | AUD | Moderate | CPI (YoY) (Q4) |  | 4.3% | 5.4% |
 | 08:30 | AUD | Moderate | CPI (QoQ) (Q4) |  | 0.8% | 1.2% |
+| 08:30 | AUD | Moderate | CPI (YoY) (Q4) |  | 4.3% | 5.4% |
 | 08:30 | AUD | Low | CPI Index Number (Q4) |  |  | 135.30 |
 | 08:30 | AUD | Low | Housing Credit (Dec) |  |  | 0.4% |
 | 08:30 | AUD | Low | Private Sector Credit (MoM) (Dec) |  | 0.4% | 0.4% |
@@ -39,8 +39,8 @@
 | 13:00 | JPY | Low | Housing Starts (YoY) (Dec) |  | -6.2% | -8.5% |
 | 13:00 | SGD | Low | Business Expectations (Q4) |  |  | 7.00 |
 | 14:30 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jan) |  | 3.5% | 3.5% |
-| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | -0.9% | -1.8% |
 | 15:00 | GBP | Moderate | Nationwide HPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 15:00 | GBP | Moderate | Nationwide HPI (YoY) (Jan) |  | -0.9% | -1.8% |
 | 15:00 | EUR | Low | German Import Price Index (MoM) (Dec) |  | -0.5% | -0.1% |
 | 15:00 | EUR | Low | German Import Price Index (YoY) (Dec) |  | -8.2% | -9.0% |
 | 15:00 | EUR | Low | German Retail Sales (YoY) (Dec) |  |  | -2.4% |
@@ -54,8 +54,8 @@
 | 15:45 | EUR | Low | French PPI (MoM) (Dec) |  |  | 2.4% |
 | 16:00 | CHF | Low | Official Reserves Assets (Dec) |  |  | 714.9B |
 | 16:00 | EUR | Low | Spanish Retail Sales (YoY) (Dec) |  |  | 5.2% |
-| 16:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
 | 16:30 | HKD | Low | GDP (YoY) (Q4) |  | 4.7% | 4.1% |
+| 16:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
 | 16:30 | HKD | Low | M3 Money Supply |  |  | 2.6% |
 | 16:55 | EUR | Moderate | German Unemployment Change (Jan) |  | 11K | 5K |
 | 16:55 | EUR | Moderate | German Unemployment Rate (Jan) |  | 5.9% | 5.9% |
@@ -63,14 +63,14 @@
 | 16:55 | EUR | Low | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
 | 17:00 | EUR | Low | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
 | 17:00 | CHF | Low | ZEW Expectations (Jan) |  |  | -23.7 |
-| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
 | 17:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
-| 17:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
+| 17:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
 | 17:00 | EUR | Low | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
+| 17:00 | EUR | Low | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
 | 17:00 | EUR | Low | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
-| 17:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
 | 17:00 | EUR | Low | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
+| 17:00 | EUR | Low | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
 | 17:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
 | 17:00 | EUR | Low | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
 | 17:00 | EUR | Low | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
@@ -90,10 +90,10 @@
 | 20:00 | INR | Low | Infrastructure Output (YoY) (Dec) |  |  | 7.8% |
 | 20:00 | BRL | Moderate | Unemployment Rate |  | 7.6% | 7.5% |
 | 20:00 | ZAR | Low | Trade Balance (Dec) |  | 15.00B | 21.02B |
-| 21:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 3.0% | 3.7% |
 | 21:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 21:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
+| 21:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 3.0% | 3.7% |
 | 21:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
+| 21:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
 | 21:00 | ZAR | Low | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:15 | USD | High | ADP Nonfarm Employment Change (Jan) |  | 145K | 164K |
 | 21:30 | USD | Low | Employment Benefits (QoQ) (Q4) |  |  | 0.90% |
