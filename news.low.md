@@ -10,10 +10,10 @@
 | 11:35 | JPY | 2-Year JGB Auction | 0.075% |  | 0.064% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Dec) | 7.63% | 5.50% | 5.46% |
 | 14:00 | ZAR | Private Sector Credit (Dec) | 4.94% | 4.10% | 3.84% |
-| 40 min | CHF | Trade Balance (Dec) |  | 2.550B | 3.707B |
-| 16:00 | EUR | Spanish CPI (MoM) (Jan) |  | -0.2% | 0.0% |
-| 16:00 | EUR | Spanish GDP (YoY) (Q4) |  | 1.5% | 1.8% |
-| 16:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.0% |
+| 15:00 | CHF | Trade Balance (Dec) | 1.248B | 2.550B | 3.833B |
+| 44 min | EUR | Spanish CPI (MoM) (Jan) |  | -0.2% | 0.0% |
+| 44 min | EUR | Spanish GDP (YoY) (Q4) |  | 1.5% | 1.8% |
+| 44 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.0% |
 | 17:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
 | 17:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
 | 17:30 | GBP | BoE Consumer Credit (Dec) |  | 1.350B | 2.005B |
