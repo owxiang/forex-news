@@ -2,6 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 01:00 | BRL | CAGED Net Payroll Jobs (Dec) | -430.16K |  | 130.10K |
 | Tentative | MXN | Fiscal Balance (Dec) |  |  | -87.78B |
 | 07:00 | KRW | Industrial Production (YoY) (Dec) |  | 6.0% | 5.3% |
 | 07:00 | KRW | Industrial Production (MoM) (Dec) |  | 0.5% | 3.3% |
@@ -20,8 +21,8 @@
 | 08:30 | AUD | Private Sector Credit (MoM) (Dec) |  | 0.4% | 0.4% |
 | 08:30 | AUD | Trimmed Mean CPI (YoY) (Q4) |  | 4.3% | 5.2% |
 | 08:30 | AUD | Monthly CPI Indicator (YoY) (Dec) |  | 3.70% | 4.30% |
-| 08:30 | AUD | Weighted mean CPI (QoQ) (Q4) |  | 1.0% | 1.3% |
 | 08:30 | AUD | Weighted mean CPI (YoY) (Q4) |  | 4.5% | 5.2% |
+| 08:30 | AUD | Weighted mean CPI (QoQ) (Q4) |  | 1.0% | 1.3% |
 | 10:00 | SGD | Bank Lending (Dec) |  |  | 792.9B |
 | 10:00 | NZD | M3 Money Supply (Dec) |  |  | 410,533.0B |
 | 10:30 | SGD | Unemployment Rate (Q4) |  |  | 2.0% |
@@ -40,8 +41,8 @@
 | 15:45 | EUR | French PPI (MoM) (Dec) |  |  | 2.4% |
 | 16:00 | CHF | Official Reserves Assets (Dec) |  |  | 714.9B |
 | 16:00 | EUR | Spanish Retail Sales (YoY) (Dec) |  |  | 5.2% |
-| 16:30 | HKD | GDP (YoY) (Q4) |  | 4.7% | 4.1% |
 | 16:30 | HKD | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
+| 16:30 | HKD | GDP (YoY) (Q4) |  | 4.7% | 4.1% |
 | 16:30 | HKD | M3 Money Supply |  |  | 2.6% |
 | 16:55 | EUR | German Unemployment (Jan) |  |  | 2.703M |
 | 16:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
@@ -56,14 +57,14 @@
 | 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
 | 17:00 | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
 | 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
 | 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
+| 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
 | 17:00 | EUR | Spanish Current account (Nov) |  |  | 3.77B |
 | 17:00 | NOK | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
 | 17:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 18:00 | INR | Federal Fiscal Deficit (Dec) |  |  | 9,065.84B |
-| 19:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
+| 19:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.78% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
