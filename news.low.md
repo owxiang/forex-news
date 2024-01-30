@@ -7,7 +7,7 @@
 | 07:30 | JPY | Jobs/applications ratio (Dec) | 1.27 | 1.28 | 1.28 |
 | 07:30 | JPY | Unemployment Rate (Dec) | 2.4% | 2.5% | 2.5% |
 | 08:01 | GBP | BRC Shop Price Index (YoY) | 2.9% |  | 4.3% |
-| 11:35 | JPY | 2-Year JGB Auction |  |  | 0.064% |
+| 19 min | JPY | 2-Year JGB Auction |  |  | 0.064% |
 | 14:00 | ZAR | M3 Money Supply (YoY) (Dec) |  | 5.50% | 5.46% |
 | 14:00 | ZAR | Private Sector Credit (Dec) |  | 4.10% | 3.84% |
 | 15:00 | CHF | Trade Balance (Dec) |  | 2.550B | 3.707B |
@@ -22,8 +22,8 @@
 | 17:30 | GBP | Mortgage Approvals (Dec) |  | 53.00K | 50.07K |
 | 17:30 | GBP | Mortgage Lending (Dec) |  |  | -0.04B |
 | 17:30 | GBP | Net Lending to Individuals |  | 1.5B | 2.0B |
-| 18:00 | EUR | Italian PPI (YoY) (Dec) |  |  | -9.5% |
 | 18:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.5% |
+| 18:00 | EUR | Italian PPI (YoY) (Dec) |  |  | -9.5% |
 | 18:00 | EUR | Business and Consumer Survey (Jan) |  | 96.2 | 96.4 |
 | 18:00 | EUR | Business Climate (Jan) |  |  | -0.45 |
 | 18:00 | EUR | Consumer Confidence (Jan) |  | -16.1 | -15.1 |
@@ -39,8 +39,8 @@
 | 21:00 | USD | IMF Meetings |  |  |  |
 | 21:30 | USD | Dallas Fed PCE (Dec) |  |  | 1.50% |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.2% |
-| 22:00 | USD | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
 | 22:00 | USD | House Price Index (YoY) (Nov) |  |  | 6.3% |
+| 22:00 | USD | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
 | 22:00 | USD | House Price Index (Nov) |  |  | 416.3 |
 | 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 4.3 |
