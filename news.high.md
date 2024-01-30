@@ -1,7 +1,9 @@
-## 30 January 2024 - High Impact Forex News
+## 31 January 2024 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17:00 | EUR | German GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
-| 23:00 | USD | CB Consumer Confidence (Jan) | 114.8 | 115.0 | 108.0 |
-| 23:00 | USD | JOLTs Job Openings (Dec) | 9.026M | 8.750M | 8.925M |
+| 09:30 | CNY | Manufacturing PMI (Jan) |  | 49.3 | 49.0 |
+| 21:00 | EUR | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 21:15 | USD | ADP Nonfarm Employment Change (Jan) |  | 145K | 164K |
+| 22:45 | USD | Chicago PMI (Jan) |  | 48.0 | 47.2 |
+| 23:30 | USD | Crude Oil Inventories |  | -0.867M | -9.233M |
