@@ -22,8 +22,8 @@
 | 17:30 | GBP | Mortgage Approvals (Dec) | 50.46K | 52.50K | 49.31K |
 | 17:30 | GBP | Mortgage Lending (Dec) | -0.83B | 0.25B | 0.01B |
 | 17:30 | GBP | Net Lending to Individuals (Dec) | 0.4B | 1.5B | 2.1B |
-| 18:00 | EUR | Italian PPI (YoY) (Dec) | -16.0% |  | -12.8% |
 | 18:00 | EUR | Italian PPI (MoM) (Dec) | -0.9% |  | -1.1% |
+| 18:00 | EUR | Italian PPI (YoY) (Dec) | -16.0% |  | -12.8% |
 | 18:00 | EUR | Business and Consumer Survey (Jan) | 96.2 | 96.2 | 96.3 |
 | 18:00 | EUR | Business Climate (Jan) | -0.40 |  | -0.50 |
 | 18:00 | EUR | Consumer Confidence (Jan) | -16.1 | -16.1 | -15.1 |
@@ -35,12 +35,11 @@
 | 18:30 | EUR | German 2-Year Schatz Auction | 2.490% |  | 2.440% |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Jan) | 0.07% | 0.24% | 0.74% |
 | 20:00 | EUR | Spanish Business Confidence (Jan) | -5.6 |  | -6.7 |
-| 33 min | USD | IMF Meetings |  |  |  |
-| 33 min | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
-| 21:55 | USD | Redbook (YoY) |  |  | 5.2% |
-| 22:00 | USD | House Price Index (YoY) (Nov) |  |  | 6.3% |
-| 22:00 | USD | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
-| 22:00 | USD | House Price Index (Nov) |  |  | 416.3 |
-| 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.6% |
+| 21:00 | USD | IMF Meetings |  |  |  |
+| 38 min | USD | Redbook (YoY) |  |  | 5.2% |
+| 43 min | USD | House Price Index (YoY) (Nov) |  |  | 6.3% |
+| 43 min | USD | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
+| 43 min | USD | House Price Index (Nov) |  |  | 416.3 |
+| 43 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.6% |
 | 23:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 4.3 |
 | 23:30 | USD | Texas Services Sector Outlook (Jan) |  |  | -8.7 |
