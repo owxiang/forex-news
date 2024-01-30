@@ -18,8 +18,8 @@
 | 16:00 | CHF | Moderate | KOF Leading Indicators (Jan) | 101.5 | 98.2 | 98.0 |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.1% | 3.1% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | -0.2% | 0.0% |
-| 16:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 1.5% | 1.9% |
 | 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.6% | 0.2% | 0.4% |
+| 16:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 1.5% | 1.9% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.3% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.1% | 3.3% |
 | 17:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.5% | 0.3% | 0.1% |
@@ -33,8 +33,8 @@
 | 17:30 | GBP | Low | Mortgage Approvals (Dec) | 50.46K | 52.50K | 49.31K |
 | 17:30 | GBP | Low | Mortgage Lending (Dec) | -0.83B | 0.25B | 0.01B |
 | 17:30 | GBP | Low | Net Lending to Individuals (Dec) | 0.4B | 1.5B | 2.1B |
-| 18:00 | EUR | Low | Italian PPI (MoM) (Dec) | -0.9% |  | -1.1% |
 | 18:00 | EUR | Low | Italian PPI (YoY) (Dec) | -16.0% |  | -12.8% |
+| 18:00 | EUR | Low | Italian PPI (MoM) (Dec) | -0.9% |  | -1.1% |
 | 18:00 | EUR | Low | Business and Consumer Survey (Jan) | 96.2 | 96.2 | 96.3 |
 | 18:00 | EUR | Low | Business Climate (Jan) | -0.40 |  | -0.50 |
 | 18:00 | EUR | Low | Consumer Confidence (Jan) | -16.1 | -16.1 | -15.1 |
@@ -49,19 +49,18 @@
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 2.490% |  | 2.440% |
 | 19:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jan) | 0.07% | 0.24% | 0.74% |
 | 19:45 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.4% | 1.1% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q4) | 2.4% | 3.1% | 3.3% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.4% | 1.1% |
 | 20:00 | EUR | Low | Spanish Business Confidence (Jan) | -5.6 |  | -6.7 |
 | 21:00 | USD | Low | IMF Meetings |  |  |  |
-| 38 min | USD | Low | Redbook (YoY) |  |  | 5.2% |
-| 43 min | USD | Low | House Price Index (YoY) (Nov) |  |  | 6.3% |
-| 43 min | USD | Low | House Price Index (MoM) (Nov) |  | 0.2% | 0.3% |
-| 43 min | USD | Low | House Price Index (Nov) |  |  | 416.3 |
-| 43 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) |  |  | 0.6% |
-| 43 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) |  |  | 0.1% |
-| 43 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) |  | 5.8% | 4.9% |
-| 23:00 | USD | High | CB Consumer Confidence (Jan) |  | 115.0 | 110.7 |
-| 23:00 | USD | High | JOLTs Job Openings (Dec) |  | 8.750M | 8.790M |
+| 22:00 | USD | Low | House Price Index (YoY) (Nov) | 6.6% |  | 6.3% |
+| 22:00 | USD | Low | House Price Index (MoM) (Nov) | 0.3% | 0.2% | 0.3% |
+| 22:00 | USD | Low | House Price Index (Nov) | 417.4 |  | 416.1 |
+| 22:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.1% |  | 0.6% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov) | -0.2% |  | 0.1% |
+| 22:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov) | 5.4% | 5.8% | 4.9% |
+| 46 min | USD | High | CB Consumer Confidence (Jan) |  | 115.0 | 110.7 |
+| 46 min | USD | High | JOLTs Job Openings (Dec) |  | 8.750M | 8.790M |
 | 23:30 | USD | Low | Dallas Fed Services Revenues (Jan) |  |  | 4.3 |
 | 23:30 | USD | Low | Texas Services Sector Outlook (Jan) |  |  | -8.7 |
 | 23:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
