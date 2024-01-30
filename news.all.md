@@ -12,29 +12,29 @@
 | 14:00 | ZAR | Low | M3 Money Supply (YoY) (Dec) | 7.63% | 5.50% | 5.46% |
 | 14:00 | ZAR | Low | Private Sector Credit (Dec) | 4.94% | 4.10% | 3.84% |
 | 14:30 | EUR | Moderate | French Consumer Spending (MoM) (Dec) | 0.3% | 0.3% | 0.6% |
-| 14:30 | EUR | Moderate | French GDP (YoY) (Q4) | 0.7% |  | 0.6% |
 | 14:30 | EUR | Moderate | French GDP (QoQ) (Q4) | 0.0% | 0.0% | 0.0% |
+| 14:30 | EUR | Moderate | French GDP (YoY) (Q4) | 0.7% |  | 0.6% |
 | 15:00 | CHF | Low | Trade Balance (Dec) | 1.248B | 2.550B | 3.833B |
-| 44 min | CHF | Moderate | KOF Leading Indicators (Jan) |  | 98.2 | 97.8 |
-| 44 min | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.1% | 3.1% |
-| 44 min | EUR | Low | Spanish CPI (MoM) (Jan) |  | -0.2% | 0.0% |
-| 44 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 1.5% | 1.8% |
-| 44 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.2% | 0.3% |
-| 44 min | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.3% | 0.0% |
-| 44 min | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 3.1% | 3.3% |
-| 17:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
-| 17:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
-| 17:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
-| 17:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
-| 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 16:00 | CHF | Moderate | KOF Leading Indicators (Jan) | 101.5 | 98.2 | 98.0 |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.1% | 3.1% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | -0.2% | 0.0% |
+| 16:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 1.5% | 1.9% |
+| 16:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.6% | 0.2% | 0.4% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.3% | 0.0% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.1% | 3.3% |
+| 41 min | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
+| 41 min | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
+| 41 min | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
+| 41 min | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
+| 41 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:30 | GBP | Low | BoE Consumer Credit (Dec) |  | 1.350B | 2.005B |
 | 17:30 | GBP | Low | M3 Money Supply (Dec) |  |  | 2,984.7B |
 | 17:30 | GBP | Low | M4 Money Supply (MoM) (Dec) |  | 0.2% | -0.1% |
 | 17:30 | GBP | Low | Mortgage Approvals (Dec) |  | 52.50K | 50.07K |
 | 17:30 | GBP | Low | Mortgage Lending (Dec) |  | 0.25B | -0.04B |
 | 17:30 | GBP | Low | Net Lending to Individuals (Dec) |  | 1.5B | 2.0B |
-| 18:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -9.5% |
 | 18:00 | EUR | Low | Italian PPI (MoM) (Dec) |  |  | 1.5% |
+| 18:00 | EUR | Low | Italian PPI (YoY) (Dec) |  |  | -9.5% |
 | 18:00 | EUR | Low | Business and Consumer Survey (Jan) |  | 96.2 | 96.4 |
 | 18:00 | EUR | Low | Business Climate (Jan) |  |  | -0.45 |
 | 18:00 | EUR | Low | Consumer Confidence (Jan) |  | -16.1 | -15.1 |
