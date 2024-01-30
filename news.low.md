@@ -14,24 +14,24 @@
 | 16:00 | EUR | Spanish CPI (MoM) (Jan) | 0.1% | -0.2% | 0.0% |
 | 16:00 | EUR | Spanish GDP (YoY) (Q4) | 2.0% | 1.5% | 1.9% |
 | 16:00 | EUR | Spanish HICP (MoM) (Jan) | -0.2% | -0.3% | 0.0% |
-| 41 min | EUR | Italian GDP (YoY) (Q4) |  | 0.3% | 0.1% |
-| 41 min | EUR | Italian GDP (QoQ) (Q4) |  | 0.0% | 0.1% |
-| 17:30 | GBP | BoE Consumer Credit (Dec) |  | 1.350B | 2.005B |
-| 17:30 | GBP | M3 Money Supply (Dec) |  |  | 2,984.7B |
-| 17:30 | GBP | M4 Money Supply (MoM) (Dec) |  | 0.2% | -0.1% |
-| 17:30 | GBP | Mortgage Approvals (Dec) |  | 52.50K | 50.07K |
-| 17:30 | GBP | Mortgage Lending (Dec) |  | 0.25B | -0.04B |
-| 17:30 | GBP | Net Lending to Individuals (Dec) |  | 1.5B | 2.0B |
-| 18:00 | EUR | Italian PPI (MoM) (Dec) |  |  | 1.5% |
-| 18:00 | EUR | Italian PPI (YoY) (Dec) |  |  | -9.5% |
-| 18:00 | EUR | Business and Consumer Survey (Jan) |  | 96.2 | 96.4 |
-| 18:00 | EUR | Business Climate (Jan) |  |  | -0.45 |
-| 18:00 | EUR | Consumer Confidence (Jan) |  | -16.1 | -15.1 |
-| 18:00 | EUR | Consumer Inflation Expectation (Jan) |  |  | 10.5 |
-| 18:00 | EUR | Selling Price Expectations (Jan) |  |  | 3.2 |
-| 18:00 | EUR | Services Sentiment (Jan) |  | 8.0 | 8.4 |
-| 18:00 | EUR | Industrial Sentiment (Jan) |  | -9.0 | -9.2 |
-| 18:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.61% |
+| 17:00 | EUR | Italian GDP (YoY) (Q4) | 0.5% | 0.3% | 0.1% |
+| 17:00 | EUR | Italian GDP (QoQ) (Q4) | 0.2% | 0.0% | 0.1% |
+| 14 min | GBP | BoE Consumer Credit (Dec) |  | 1.350B | 2.005B |
+| 14 min | GBP | M3 Money Supply (Dec) |  |  | 2,984.7B |
+| 14 min | GBP | M4 Money Supply (MoM) (Dec) |  | 0.2% | -0.1% |
+| 14 min | GBP | Mortgage Approvals (Dec) |  | 52.50K | 50.07K |
+| 14 min | GBP | Mortgage Lending (Dec) |  | 0.25B | -0.04B |
+| 14 min | GBP | Net Lending to Individuals (Dec) |  | 1.5B | 2.0B |
+| 44 min | EUR | Italian PPI (YoY) (Dec) |  |  | -9.5% |
+| 44 min | EUR | Italian PPI (MoM) (Dec) |  |  | 1.5% |
+| 44 min | EUR | Business and Consumer Survey (Jan) |  | 96.2 | 96.4 |
+| 44 min | EUR | Business Climate (Jan) |  |  | -0.45 |
+| 44 min | EUR | Consumer Confidence (Jan) |  | -16.1 | -15.1 |
+| 44 min | EUR | Consumer Inflation Expectation (Jan) |  |  | 10.5 |
+| 44 min | EUR | Selling Price Expectations (Jan) |  |  | 3.2 |
+| 44 min | EUR | Services Sentiment (Jan) |  | 8.0 | 8.4 |
+| 44 min | EUR | Industrial Sentiment (Jan) |  | -9.0 | -9.2 |
+| 54 min | EUR | Italian 5-Year BTP Auction |  |  | 3.61% |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 2.440% |
 | 19:00 | BRL | IGP-M Inflation Index (MoM) (Jan) |  | 0.24% | 0.74% |
 | 20:00 | EUR | Spanish Business Confidence (Jan) |  |  | -6.8 |
