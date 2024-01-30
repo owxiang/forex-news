@@ -39,6 +39,7 @@
 | 22:00 | USD | House Price Index (YoY) (Nov) | 6.6% |  | 6.3% |
 | 22:00 | USD | House Price Index (MoM) (Nov) | 0.3% | 0.2% | 0.3% |
 | 22:00 | USD | House Price Index (Nov) | 417.4 |  | 416.1 |
-| 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.1% |  | 0.6% |
-| 23:30 | USD | Dallas Fed Services Revenues (Jan) |  |  | 4.3 |
-| 23:30 | USD | Texas Services Sector Outlook (Jan) |  |  | -8.7 |
+| 22:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Nov) | 0.1% | 0.5% | 0.6% |
+| 22:46 | ZAR | Budget Balance (MoM) (Dec) | 19.47B |  | -17.81B |
+| 14 min | USD | Dallas Fed Services Revenues (Jan) |  |  | 4.3 |
+| 14 min | USD | Texas Services Sector Outlook (Jan) |  |  | -8.7 |
