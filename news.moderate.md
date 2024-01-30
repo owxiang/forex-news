@@ -12,9 +12,9 @@
 | 16:00 | EUR | Spanish HICP (YoY) (Jan) | 3.5% | 3.1% | 3.3% |
 | 17:00 | EUR | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
 | 17:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 44 min | EUR | GDP (QoQ) (Q4) |  | -0.1% | -0.1% |
-| 44 min | EUR | GDP (YoY) (Q4) |  | 0.0% | 0.0% |
-| 54 min | EUR | Italian 10-Year BTP Auction |  |  | 4.17% |
+| 18:00 | EUR | GDP (QoQ) (Q4) | 0.0% | -0.1% | -0.1% |
+| 18:00 | EUR | GDP (YoY) (Q4) | 0.1% | 0.0% | 0.0% |
+| 18:10 | EUR | Italian 10-Year BTP Auction |  |  | 4.17% |
 | 19:45 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.4% | 1.1% |
 | 20:00 | MXN | GDP (YoY) (Q4) |  | 3.1% | 3.3% |
