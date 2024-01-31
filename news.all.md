@@ -5,8 +5,8 @@
 | 03:00 | USD | High | FOMC Statement |  |  |  |
 | 03:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:30 | USD | High | FOMC Press Conference |  |  |  |
-| 44 min | BRL | Moderate | Interest Rate Decision |  | 11.25% | 11.75% |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 50.3 | 47.6 |
+| 05:00 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 11.75% |
+| 45 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 50.3 | 47.6 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -48.0B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 286.7B |
 | 08:00 | KRW | Low | Exports (YoY) (Jan) |  |  | 5.0% |

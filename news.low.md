@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 50.3 | 47.6 |
+| 45 min | AUD | Judo Bank Australia Manufacturing PMI |  | 50.3 | 47.6 |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | -48.0B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 286.7B |
 | 08:00 | KRW | Exports (YoY) (Jan) |  |  | 5.0% |
