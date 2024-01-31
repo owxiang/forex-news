@@ -1,25 +1,34 @@
-## 31 January 2024 - Moderate Impact Forex News
+## 01 February 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | USD | API Weekly Crude Oil Stock | -2.500M | -0.867M | -6.674M |
-| 07:50 | JPY | Industrial Production (MoM) (Dec) | 1.8% | 2.4% | -0.9% |
-| 08:30 | AUD | CPI (QoQ) (Q4) | 0.6% | 0.8% | 1.2% |
-| 08:30 | AUD | CPI (YoY) (Q4) | 4.1% | 4.3% | 5.4% |
-| 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.8% | 0.9% | 1.2% |
-| 09:30 | CNY | Chinese Composite PMI (Jan) | 50.9 |  | 50.3 |
-| 09:30 | CNY | Non-Manufacturing PMI (Jan) | 50.7 | 50.6 | 50.4 |
-| 15:00 | GBP | Nationwide HPI (YoY) (Jan) | -0.2% | -0.9% | -1.8% |
-| 15:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.7% | 0.1% | 0.0% |
-| 15:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.7% | -0.8% |
-| 15:45 | EUR | French CPI (MoM) (Jan) | -0.2% | 0.0% | 0.1% |
-| 15:45 | EUR | French HICP (MoM) | -0.2% | -0.2% | 0.1% |
-| 16:55 | EUR | German Unemployment Change (Jan) | -2K | 11K | 2K |
-| 16:55 | EUR | German Unemployment Rate (Jan) | 5.8% | 5.9% | 5.8% |
-| 18:30 | EUR | German 10-Year Bund Auction | 2.230% |  | 2.190% |
-| 20:00 | BRL | Unemployment Rate | 7.4% | 7.6% | 7.5% |
-| 21:00 | EUR | German CPI (YoY) (Jan) | 2.9% | 3.0% | 3.7% |
-| 21:30 | USD | Employment Cost Index (QoQ) (Q4) | 0.9% | 1.0% | 1.1% |
-| 21:30 | CAD | GDP (MoM) (Nov) | 0.2% | 0.1% | 0.0% |
-| 21:31 | CAD | GDP (MoM) (Dec) | 0.3% |  | 0.2% |
-| 15 min | USD | Cushing Crude Oil Inventories |  |  | -2.008M |
+| 05:00 | BRL | Interest Rate Decision |  | 11.25% | 11.75% |
+| 08:30 | AUD | Building Approvals (MoM) (Dec) |  | 0.5% | 1.6% |
+| 09:45 | CNY | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
+| 11:35 | JPY | 10-Year JGB Auction |  |  | 0.596% |
+| 14:00 | INR | Indian Union Budget |  |  |  |
+| 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
+| 16:30 | CHF | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
+| 16:45 | EUR | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
+| 16:50 | EUR | HCOB France Manufacturing PMI (Jan) |  | 43.2 | 42.1 |
+| 16:55 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 45.4 | 43.3 |
+| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 46.6 | 44.4 |
+| 17:30 | GBP | Labour Productivity (Q3) |  | -0.2% | 0.7% |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jan) |  | 47.3 | 46.2 |
+| 18:00 | USD | OPEC Meeting |  |  |  |
+| 18:00 | EUR | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
+| 18:00 | EUR | CPI (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | EU Leaders Summit |  |  |  |
+| 18:00 | EUR | Unemployment Rate (Dec) |  | 6.4% | 6.4% |
+| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 20:00 | GBP | BoE MPC vote cut (Feb) |  | 0 | 0 |
+| 20:00 | GBP | BoE MPC vote hike (Feb) |  | 2 | 3 |
+| 20:00 | GBP | BoE MPC vote unchanged (Feb) |  | 7 | 6 |
+| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 21:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,833K |
+| 21:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 5.2% |
+| 21:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 1.3% | -1.2% |
+| 21:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 22:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 23:00 | USD | Construction Spending (MoM) (Dec) |  | 0.5% | 0.4% |
+| 23:00 | USD | ISM Manufacturing Employment (Jan) |  |  | 48.1 |
