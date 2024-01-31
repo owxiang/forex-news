@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 45 min | USD | High | FOMC Statement |  |  |  |
-| 45 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 03:30 | USD | High | FOMC Press Conference |  |  |  |
+| 03:00 | USD | High | FOMC Statement |  |  |  |
+| 03:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 19 min | USD | High | FOMC Press Conference |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision |  | 11.25% | 11.75% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 50.3 | 47.6 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | -48.0B |
@@ -24,8 +24,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.596% |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 12:00 | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
+| 12:00 | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
@@ -48,12 +48,12 @@
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.59% |
 | 18:00 | EUR | Low | French 30-Year OAT Auction |  |  | 1.65% |
-| 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
+| 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.7% | 2.9% |
 | 18:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 124.05 |
@@ -72,8 +72,8 @@
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 40.33K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
-| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |

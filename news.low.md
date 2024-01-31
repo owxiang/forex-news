@@ -17,8 +17,8 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) |  | 48.0 | 48.0 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Jan) |  |  | 52.2 |
 | 12:00 | IDR | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 12:00 | IDR | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 12:00 | IDR | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
+| 12:00 | IDR | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 16:00 | EUR | French Car Registration (MoM) |  |  | 18.5% |
@@ -31,8 +31,8 @@
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.621% |
 | 18:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
 | 18:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
-| 18:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
+| 18:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | French 10-Year OAT Auction |  |  | 2.59% |
 | 18:00 | EUR | French 30-Year OAT Auction |  |  | 1.65% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  |  | 0.5% |
@@ -44,8 +44,8 @@
 | 20:00 | BRL | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 40.33K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.30% |
-| 20:30 | USD | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 20:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.25K |
 | 22:30 | CAD | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |
