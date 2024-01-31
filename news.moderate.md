@@ -3,12 +3,12 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | USD | API Weekly Crude Oil Stock | -2.500M | -0.867M | -6.674M |
-| 33 min | JPY | Industrial Production (MoM) (Dec) |  | 2.4% | -0.9% |
-| 08:30 | AUD | CPI (QoQ) (Q4) |  | 0.8% | 1.2% |
-| 08:30 | AUD | CPI (YoY) (Q4) |  | 4.3% | 5.4% |
-| 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) |  | 0.9% | 1.2% |
-| 09:30 | CNY | Chinese Composite PMI (Jan) |  |  | 50.3 |
-| 09:30 | CNY | Non-Manufacturing PMI (Jan) |  | 50.6 | 50.4 |
+| 07:50 | JPY | Industrial Production (MoM) (Dec) | 1.8% | 2.4% | -0.9% |
+| 08:30 | AUD | CPI (YoY) (Q4) | 4.1% | 4.3% | 5.4% |
+| 08:30 | AUD | CPI (QoQ) (Q4) | 0.6% | 0.8% | 1.2% |
+| 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.8% | 0.9% | 1.2% |
+| 22 min | CNY | Chinese Composite PMI (Jan) |  |  | 50.3 |
+| 22 min | CNY | Non-Manufacturing PMI (Jan) |  | 50.6 | 50.4 |
 | 15:00 | GBP | Nationwide HPI (YoY) (Jan) |  | -0.9% | -1.8% |
 | 15:00 | GBP | Nationwide HPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 15:00 | EUR | German Retail Sales (MoM) (Dec) |  | 0.7% | -2.5% |
