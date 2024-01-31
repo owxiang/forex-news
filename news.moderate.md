@@ -7,8 +7,8 @@
 | 08:30 | AUD | CPI (YoY) (Q4) | 4.1% | 4.3% | 5.4% |
 | 08:30 | AUD | CPI (QoQ) (Q4) | 0.6% | 0.8% | 1.2% |
 | 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.8% | 0.9% | 1.2% |
-| 22 min | CNY | Chinese Composite PMI (Jan) |  |  | 50.3 |
-| 22 min | CNY | Non-Manufacturing PMI (Jan) |  | 50.6 | 50.4 |
+| 09:30 | CNY | Chinese Composite PMI (Jan) | 50.9 |  | 50.3 |
+| 09:30 | CNY | Non-Manufacturing PMI (Jan) | 50.7 | 50.6 | 50.4 |
 | 15:00 | GBP | Nationwide HPI (YoY) (Jan) |  | -0.9% | -1.8% |
 | 15:00 | GBP | Nationwide HPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 15:00 | EUR | German Retail Sales (MoM) (Dec) |  | 0.7% | -2.5% |
