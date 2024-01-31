@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 05:30 | USD | API Weekly Crude Oil Stock | -2.500M | -0.867M | -6.674M |
 | 07:50 | JPY | Industrial Production (MoM) (Dec) | 1.8% | 2.4% | -0.9% |
-| 08:30 | AUD | CPI (QoQ) (Q4) | 0.6% | 0.8% | 1.2% |
 | 08:30 | AUD | CPI (YoY) (Q4) | 4.1% | 4.3% | 5.4% |
+| 08:30 | AUD | CPI (QoQ) (Q4) | 0.6% | 0.8% | 1.2% |
 | 08:30 | AUD | Trimmed Mean CPI (QoQ) (Q4) | 0.8% | 0.9% | 1.2% |
 | 09:30 | CNY | Chinese Composite PMI (Jan) | 50.9 |  | 50.3 |
 | 09:30 | CNY | Non-Manufacturing PMI (Jan) | 50.7 | 50.6 | 50.4 |
-| 15:00 | GBP | Nationwide HPI (YoY) (Jan) | -0.2% | -0.9% | -1.8% |
 | 15:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.7% | 0.1% | 0.0% |
+| 15:00 | GBP | Nationwide HPI (YoY) (Jan) | -0.2% | -0.9% | -1.8% |
 | 15:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.7% | -0.8% |
 | 15:45 | EUR | French CPI (MoM) (Jan) | -0.2% | 0.0% | 0.1% |
 | 15:45 | EUR | French HICP (MoM) | -0.2% | -0.2% | 0.1% |
@@ -19,7 +19,7 @@
 | 18:30 | EUR | German 10-Year Bund Auction | 2.230% |  | 2.190% |
 | 20:00 | BRL | Unemployment Rate | 7.4% | 7.6% | 7.5% |
 | 21:00 | EUR | German CPI (YoY) (Jan) | 2.9% | 3.0% | 3.7% |
-| 13 min | USD | Employment Cost Index (QoQ) (Q4) |  | 1.0% | 1.1% |
-| 13 min | CAD | GDP (MoM) (Nov) |  | 0.1% | 0.0% |
-| 14 min | CAD | GDP (MoM) (Dec) |  |  |  |
+| 21:30 | USD | Employment Cost Index (QoQ) (Q4) | 0.9% | 1.0% | 1.1% |
+| 21:30 | CAD | GDP (MoM) (Nov) | 0.2% | 0.1% | 0.0% |
+| 21:31 | CAD | GDP (MoM) (Dec) | 0.3% |  | 0.2% |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | -2.008M |
