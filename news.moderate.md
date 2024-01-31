@@ -17,8 +17,8 @@
 | 16:55 | EUR | German Unemployment Change (Jan) | -2K | 11K | 2K |
 | 16:55 | EUR | German Unemployment Rate (Jan) | 5.8% | 5.9% | 5.8% |
 | 18:30 | EUR | German 10-Year Bund Auction | 2.230% |  | 2.190% |
-| 46 min | BRL | Unemployment Rate |  | 7.6% | 7.5% |
-| 21:00 | EUR | German CPI (YoY) (Jan) |  | 3.0% | 3.7% |
+| 20:00 | BRL | Unemployment Rate | 7.4% | 7.6% | 7.5% |
+| 32 min | EUR | German CPI (YoY) (Jan) |  | 3.0% | 3.7% |
 | 21:30 | USD | Employment Cost Index (QoQ) (Q4) |  | 1.0% | 1.1% |
 | 21:30 | CAD | GDP (MoM) (Nov) |  | 0.1% | 0.0% |
 | 21:31 | CAD | GDP (MoM) (Dec) |  |  |  |
