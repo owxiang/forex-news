@@ -24,21 +24,22 @@
 | 08:30 | AUD | Weighted mean CPI (YoY) (Q4) | 4.4% | 4.5% | 5.2% |
 | 08:30 | AUD | Weighted mean CPI (QoQ) (Q4) | 0.9% | 1.0% | 1.3% |
 | 10:00 | SGD | Bank Lending (Dec) | 793.7B |  | 792.9B |
-| 10:00 | NZD | M3 Money Supply (Dec) | 413,042.0B |  | 410,532.0B |
+| 10:00 | NZD | M3 Money Supply (Dec) | 413.0B |  | 410.5B |
 | 10:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
-| 13:00 | JPY | Construction Orders (YoY) (Dec) |  |  | 33.6% |
-| 13:00 | JPY | Household Confidence (Jan) |  | 37.6 | 37.2 |
-| 13:00 | JPY | Housing Starts (YoY) (Dec) |  | -6.2% | -8.5% |
-| 13:00 | SGD | Business Expectations (Q4) |  |  | 7.00 |
-| 14:30 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  | 3.5% | 3.5% |
+| 42 min | JPY | Construction Orders (YoY) (Dec) |  |  | 33.6% |
+| 42 min | JPY | Household Confidence (Jan) |  | 37.6 | 37.2 |
+| 42 min | JPY | Housing Starts (YoY) (Dec) |  | -6.2% | -8.5% |
+| 42 min | SGD | Business Expectations (Q4) |  |  | 7.00 |
+| 14:00 | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  | 3.5% | 3.0% |
+| 14:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | -0.3% |
 | 15:00 | EUR | German Import Price Index (MoM) (Dec) |  | -0.5% | -0.1% |
 | 15:00 | EUR | German Import Price Index (YoY) (Dec) |  | -8.2% | -9.0% |
 | 15:00 | EUR | German Retail Sales (YoY) (Dec) |  |  | -2.4% |
 | 15:30 | CHF | Retail Sales (YoY) (Dec) |  | 0.9% | 0.7% |
 | 15:45 | EUR | French CPI (YoY) (Jan) |  |  | 3.7% |
 | 15:45 | EUR | French HICP (YoY) |  | 3.3% | 4.1% |
-| 15:45 | EUR | PPI (YoY) (Dec) |  |  | 0.30% |
 | 15:45 | EUR | French PPI (MoM) (Dec) |  |  | 2.4% |
+| 15:45 | EUR | PPI (YoY) (Dec) |  |  | 0.30% |
 | 16:00 | CHF | Official Reserves Assets (Dec) |  |  | 714.9B |
 | 16:00 | EUR | Spanish Retail Sales (YoY) (Dec) |  |  | 5.2% |
 | 16:30 | HKD | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
@@ -48,33 +49,32 @@
 | 16:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
 | 17:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
 | 17:00 | CHF | ZEW Expectations (Jan) |  |  | -23.7 |
-| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.8% |
 | 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 3.4% |
+| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.4% |
+| 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 2.8% |
+| 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | -0.4% |
 | 17:00 | EUR | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
-| 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.5% |
-| 17:00 | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 3.5% |
+| 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.1% |
 | 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
-| 17:00 | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 4.3% |
-| 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | 0.2% |
+| 17:00 | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 2.9% |
+| 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 3.9% |
+| 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | -0.3% |
 | 17:00 | EUR | Spanish Current account (Nov) |  |  | 3.77B |
 | 17:00 | NOK | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
 | 17:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 18:00 | INR | Federal Fiscal Deficit (Dec) |  |  | 9,065.84B |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
+| 19:30 | INR | Infrastructure Output (YoY) (Dec) |  |  | 7.8% |
 | 19:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.78% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
 | 20:00 | USD | MBA Purchase Index |  |  | 174.3 |
 | 20:00 | USD | Mortgage Market Index |  |  | 218.2 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 438.4 |
-| 20:00 | INR | Infrastructure Output (YoY) (Dec) |  |  | 7.8% |
 | 20:00 | ZAR | Trade Balance (Dec) |  | 15.00B | 21.02B |
-| 21:00 | EUR | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
 | 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
+| 21:00 | EUR | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
 | 21:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.90% |
 | 21:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 1.20% |
@@ -83,8 +83,8 @@
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -1.377M |
 | 23:30 | USD | Crude Oil Imports |  |  | -1.245M |
 | 23:30 | USD | Distillate Fuel Production |  |  | -0.402M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | -0.450M | -1.417M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | -0.425M | -1.417M |
 | 23:30 | USD | Gasoline Production |  |  | -1.040M |
 | 23:30 | USD | Heating Oil Stockpiles |  |  | -0.379M |
 | 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -7.1% |
-| 23:30 | USD | Gasoline Inventories |  | 1.700M | 4.913M |
+| 23:30 | USD | Gasoline Inventories |  | 1.483M | 4.913M |
