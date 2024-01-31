@@ -32,36 +32,36 @@
 | 13:00 | SGD | Business Expectations (Q4) | 10.00 |  | 7.00 |
 | 15:00 | EUR | German Import Price Index (MoM) (Dec) | -1.1% | -0.5% | -0.1% |
 | 15:00 | EUR | German Import Price Index (YoY) (Dec) | -8.5% | -8.2% | -9.0% |
-| 15:00 | EUR | German Retail Sales (YoY) (Dec) | -1.7% |  | -2.4% |
-| 15 min | CHF | Retail Sales (YoY) (Dec) |  | 0.9% | 0.7% |
-| 30 min | EUR | French CPI (YoY) (Jan) |  |  | 3.7% |
-| 30 min | EUR | French HICP (YoY) |  | 3.3% | 4.1% |
-| 30 min | EUR | PPI (YoY) (Dec) |  |  | 0.30% |
-| 30 min | EUR | French PPI (MoM) (Dec) |  |  | 2.4% |
-| 45 min | CHF | Official Reserves Assets (Dec) |  |  | 714.9B |
-| 45 min | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  | 3.5% | 3.5% |
-| 45 min | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | -0.1% | -0.3% |
-| 45 min | EUR | Spanish Retail Sales (YoY) (Dec) |  |  | 5.2% |
-| 16:30 | HKD | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
-| 16:30 | HKD | GDP (YoY) (Q4) |  | 4.7% | 4.1% |
-| 16:30 | HKD | M3 Money Supply |  |  | 2.6% |
-| 16:55 | EUR | German Unemployment (Jan) |  |  | 2.703M |
-| 16:55 | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
-| 17:00 | EUR | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
-| 17:00 | CHF | ZEW Expectations (Jan) |  |  | -23.7 |
-| 17:00 | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
-| 17:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.4% |
-| 17:00 | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 2.8% |
-| 17:00 | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | -0.4% |
-| 17:00 | EUR | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
-| 17:00 | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.1% |
-| 17:00 | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
-| 17:00 | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 2.9% |
-| 17:00 | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 3.9% |
-| 17:00 | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | -0.3% |
-| 17:00 | EUR | Spanish Current account (Nov) |  |  | 3.77B |
-| 17:00 | NOK | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
-| 17:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 15:00 | EUR | German Retail Sales (YoY) (Dec) | -1.7% |  | -1.7% |
+| 15:30 | CHF | Retail Sales (YoY) (Dec) | -0.8% | 0.9% | -1.5% |
+| 15:45 | EUR | French CPI (YoY) (Jan) | 3.1% |  | 3.7% |
+| 15:45 | EUR | French HICP (YoY) | 3.4% | 3.3% | 4.1% |
+| 15:45 | EUR | PPI (YoY) (Dec) | -0.90% |  | 0.30% |
+| 15:45 | EUR | French PPI (MoM) (Dec) | 0.1% |  | 2.3% |
+| 16:00 | CHF | Official Reserves Assets (Dec) | 724.4B |  | 714.9B |
+| 16:00 | EUR | Spanish Retail Sales (YoY) (Dec) | 3.1% |  | 5.0% |
+| 11 min | HKD | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
+| 11 min | HKD | GDP (YoY) (Q4) |  | 4.7% | 4.1% |
+| 11 min | HKD | M3 Money Supply |  |  | 2.6% |
+| 36 min | EUR | German Unemployment (Jan) |  |  | 2.703M |
+| 36 min | EUR | German Unemployment n.s.a. (Jan) |  |  | 2.637M |
+| 41 min | EUR | Italian Monthly Unemployment Rate (Dec) |  | 7.6% | 7.5% |
+| 41 min | CHF | ZEW Expectations (Jan) |  |  | -23.7 |
+| 41 min | EUR | Baden Wuerttemberg CPI (YoY) (Jan) |  | 3.8% | 3.4% |
+| 41 min | EUR | Baden Wuerttemberg CPI (MoM) (Jan) |  | 0.1% | -0.3% |
+| 41 min | EUR | Bavaria CPI (YoY) (Jan) |  | 3.4% | 2.8% |
+| 41 min | EUR | Bavaria CPI (MoM) (Jan) |  | 0.1% | -0.4% |
+| 41 min | EUR | Brandenburg CPI (MoM) (Jan) |  | 0.0% | -0.3% |
+| 41 min | EUR | Brandenburg CPI (YoY) (Jan) |  | 4.5% | 4.1% |
+| 41 min | EUR | Hesse CPI (YoY) (Jan) |  | 3.5% | 2.9% |
+| 41 min | EUR | Hesse CPI (MoM) (Jan) |  | 0.0% | -0.4% |
+| 41 min | EUR | North Rhine Westphalia CPI (YoY) (Jan) |  | 3.5% | 3.5% |
+| 41 min | EUR | North Rhine Westphalia CPI (MoM) (Jan) |  | -0.1% | -0.3% |
+| 41 min | EUR | Saxony CPI (YoY) (Jan) |  | 4.3% | 3.9% |
+| 41 min | EUR | Saxony CPI (MoM) (Jan) |  | 0.2% | -0.3% |
+| 41 min | EUR | Spanish Current account (Nov) |  |  | 3.77B |
+| 41 min | NOK | Central Bank Currency Purchase (Feb) |  |  | 350.0M |
+| 41 min | EUR | ECB Bank Lending Survey |  |  |  |
 | 18:00 | INR | Federal Fiscal Deficit (Dec) |  |  | 9,065.84B |
 | 19:00 | EUR | Italian Industrial Sales (YoY) (Nov) |  |  | -1.70% |
 | 19:00 | EUR | Italian Industrial Sales (MoM) (Nov) |  |  | 0.10% |
@@ -73,8 +73,8 @@
 | 20:00 | USD | Mortgage Market Index |  |  | 218.2 |
 | 20:00 | USD | Mortgage Refinance Index |  |  | 438.4 |
 | 20:00 | ZAR | Trade Balance (Dec) |  | 15.00B | 21.02B |
-| 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | EUR | German HICP (YoY) (Jan) |  | 3.2% | 3.8% |
+| 21:00 | EUR | German HICP (MoM) (Jan) |  | -0.1% | 0.2% |
 | 21:00 | ZAR | Budget Balance (MoM) (Dec) |  |  | -17.81B |
 | 21:30 | USD | Employment Benefits (QoQ) (Q4) |  |  | 0.90% |
 | 21:30 | USD | Employment Wages (QoQ) (Q4) |  |  | 1.20% |

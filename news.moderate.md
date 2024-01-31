@@ -11,11 +11,11 @@
 | 09:30 | CNY | Non-Manufacturing PMI (Jan) | 50.7 | 50.6 | 50.4 |
 | 15:00 | GBP | Nationwide HPI (YoY) (Jan) | -0.2% | -0.9% | -1.8% |
 | 15:00 | GBP | Nationwide HPI (MoM) (Jan) | 0.7% | 0.1% | 0.0% |
-| 15:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.7% | -2.5% |
-| 30 min | EUR | French CPI (MoM) (Jan) |  | 0.0% | 0.1% |
-| 30 min | EUR | French HICP (MoM) |  | -0.2% | 0.1% |
-| 16:55 | EUR | German Unemployment Change (Jan) |  | 11K | 5K |
-| 16:55 | EUR | German Unemployment Rate (Jan) |  | 5.9% | 5.9% |
+| 15:00 | EUR | German Retail Sales (MoM) (Dec) | -1.6% | 0.7% | -0.8% |
+| 15:45 | EUR | French CPI (MoM) (Jan) | -0.2% | 0.0% | 0.1% |
+| 15:45 | EUR | French HICP (MoM) | -0.2% | -0.2% | 0.1% |
+| 36 min | EUR | German Unemployment Change (Jan) |  | 11K | 5K |
+| 36 min | EUR | German Unemployment Rate (Jan) |  | 5.9% | 5.9% |
 | 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.190% |
 | 20:00 | BRL | Unemployment Rate |  | 7.6% | 7.5% |
 | 21:00 | EUR | German CPI (YoY) (Jan) |  | 3.0% | 3.7% |
