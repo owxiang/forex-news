@@ -9,9 +9,9 @@
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.1 | 50.3 | 47.6 |
 | 07:50 | JPY | Low | Foreign Bonds Buying | 382.9B |  | -43.5B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 720.3B |  | 287.0B |
-| 08:00 | KRW | Low | Exports (YoY) (Jan) | 18.0% |  | 5.0% |
+| 08:00 | KRW | Low | Exports (YoY) (Jan) | 18.0% | 17.8% | 5.0% |
 | 08:00 | KRW | Low | Imports (YoY) (Jan) | -7.8% | -7.6% | -10.8% |
-| 08:00 | KRW | Low | Trade Balance (Jan) | 0.30B |  | 4.46B |
+| 08:00 | KRW | Low | Trade Balance (Jan) | 0.30B | 0.08B | 4.46B |
 | 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 49.9 |
 | 08:30 | AUD | Low | Building Approvals (YoY) (Dec) | -2.00% |  | -1.20% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -9.5% | 0.5% | 0.3% |
@@ -22,11 +22,11 @@
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
-| 19 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.596% |
-| 44 min | IDR | Low | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 44 min | IDR | Low | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
-| 44 min | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
-| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
+| 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.741% |  | 0.596% |
+| 12:00 | IDR | Low | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
+| 12:00 | IDR | Low | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
+| 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
+| 40 min | INR | Low | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
 | 16:00 | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |

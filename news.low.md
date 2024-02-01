@@ -5,9 +5,9 @@
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 50.1 | 50.3 | 47.6 |
 | 07:50 | JPY | Foreign Bonds Buying | 382.9B |  | -43.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 720.3B |  | 287.0B |
-| 08:00 | KRW | Exports (YoY) (Jan) | 18.0% |  | 5.0% |
+| 08:00 | KRW | Exports (YoY) (Jan) | 18.0% | 17.8% | 5.0% |
 | 08:00 | KRW | Imports (YoY) (Jan) | -7.8% | -7.6% | -10.8% |
-| 08:00 | KRW | Trade Balance (Jan) | 0.30B |  | 4.46B |
+| 08:00 | KRW | Trade Balance (Jan) | 0.30B | 0.08B | 4.46B |
 | 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 49.9 |
 | 08:30 | AUD | Building Approvals (YoY) (Dec) | -2.00% |  | -1.20% |
 | 08:30 | AUD | Export Price Index (QoQ) (Q4) | 5.6% |  | -3.1% |
@@ -16,10 +16,10 @@
 | 08:30 | AUD | Private House Approvals (Dec) | -0.5% |  | -1.7% |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
-| 44 min | IDR | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 44 min | IDR | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
-| 44 min | IDR | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
-| 13:00 | INR | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
+| 12:00 | IDR | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
+| 12:00 | IDR | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
+| 12:00 | IDR | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
+| 40 min | INR | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 16:00 | EUR | French Car Registration (MoM) |  |  | 18.5% |
 | 16:00 | EUR | French Car Registration (YoY) |  |  | 14.5% |
