@@ -25,10 +25,10 @@
 | 20:00 | GBP | BoE MPC vote hike (Feb) | 2 | 2 | 3 |
 | 20:00 | GBP | BoE MPC vote unchanged (Feb) | 6 | 7 | 6 |
 | 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 2 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,833K |
-| 21:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 5.2% |
-| 21:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 1.3% | -1.2% |
-| 21:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13 min | USD | Continuing Jobless Claims |  | 1,840K | 1,833K |
+| 13 min | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 5.2% |
+| 13 min | USD | Unit Labor Costs (QoQ) (Q4) |  | 1.3% | -1.2% |
+| 28 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | USD | Construction Spending (MoM) (Dec) |  | 0.5% | 0.4% |
 | 23:00 | USD | ISM Manufacturing Employment (Jan) |  |  | 48.1 |
