@@ -7,13 +7,13 @@
 | 09:45 | CNY | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
 | 11:35 | JPY | 10-Year JGB Auction | 0.741% |  | 0.596% |
 | 14:00 | INR | Indian Union Budget |  |  |  |
-| 45 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
-| 16:30 | CHF | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
-| 16:45 | EUR | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
-| 16:50 | EUR | HCOB France Manufacturing PMI (Jan) |  | 43.2 | 42.1 |
-| 16:55 | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 45.4 | 43.3 |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 46.6 | 44.4 |
+| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) | 49.2 | 47.9 | 46.2 |
+| 11 min | CHF | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
+| 26 min | EUR | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
+| 31 min | EUR | HCOB France Manufacturing PMI (Jan) |  | 43.2 | 42.1 |
+| 36 min | EUR | HCOB Germany Manufacturing PMI (Jan) |  | 45.4 | 43.3 |
+| 41 min | EUR | HCOB Eurozone Manufacturing PMI (Jan) |  | 46.6 | 44.4 |
 | 17:30 | GBP | Labour Productivity (Q3) |  | -0.2% | 0.7% |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jan) |  | 47.3 | 46.2 |
 | 18:00 | USD | OPEC Meeting |  |  |  |

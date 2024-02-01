@@ -21,18 +21,18 @@
 | 12:00 | IDR | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
 | 13:30 | AUD | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
-| 45 min | EUR | French Car Registration (YoY) |  |  | 14.5% |
-| 45 min | EUR | French Car Registration (MoM) |  |  | 18.5% |
-| 16:30 | HKD | Retail Sales (YoY) (Dec) |  |  | 15.9% |
-| 17:00 | NOK | Manufacturing PMI (Jan) |  |  | 51.7 |
-| 17:00 | ZAR | Manufacturing PMI (Jan) |  |  | 50.9 |
+| 11 min | HKD | Retail Sales (YoY) (Dec) |  |  | 15.9% |
+| 41 min | EUR | French Car Registration (MoM) |  |  | 18.5% |
+| 41 min | EUR | French Car Registration (YoY) |  |  | 14.5% |
+| 41 min | NOK | Manufacturing PMI (Jan) |  |  | 51.7 |
+| 41 min | ZAR | Manufacturing PMI (Jan) |  |  | 50.9 |
 | 17:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.799% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.621% |
 | 18:00 | EUR | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
 | 18:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
-| 18:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
+| 18:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | French 10-Year OAT Auction |  |  | 2.59% |
 | 18:00 | EUR | French 30-Year OAT Auction |  |  | 1.65% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  |  | 0.5% |
@@ -44,8 +44,8 @@
 | 20:00 | BRL | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 40.33K |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.30% |
-| 20:30 | USD | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 20:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.25K |
 | 22:30 | CAD | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |

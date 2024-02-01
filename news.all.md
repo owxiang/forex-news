@@ -29,18 +29,18 @@
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
-| 45 min | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
-| 45 min | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
-| 45 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
-| 16:30 | CHF | Moderate | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
-| 16:30 | HKD | Low | Retail Sales (YoY) (Dec) |  |  | 15.9% |
-| 16:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
-| 16:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 43.2 | 42.1 |
-| 16:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 45.4 | 43.3 |
-| 17:00 | NOK | Low | Manufacturing PMI (Jan) |  |  | 51.7 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 46.6 | 44.4 |
-| 17:00 | ZAR | Low | Manufacturing PMI (Jan) |  |  | 50.9 |
+| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) | 49.2 | 47.9 | 46.2 |
+| 11 min | CHF | Moderate | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
+| 11 min | HKD | Low | Retail Sales (YoY) (Dec) |  |  | 15.9% |
+| 26 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
+| 31 min | EUR | Moderate | HCOB France Manufacturing PMI (Jan) |  | 43.2 | 42.1 |
+| 36 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jan) |  | 45.4 | 43.3 |
+| 41 min | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
+| 41 min | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
+| 41 min | NOK | Low | Manufacturing PMI (Jan) |  |  | 51.7 |
+| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) |  | 46.6 | 44.4 |
+| 41 min | ZAR | Low | Manufacturing PMI (Jan) |  |  | 50.9 |
 | 17:30 | GBP | Moderate | Labour Productivity (Q3) |  | -0.2% | 0.7% |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jan) |  | 47.3 | 46.2 |
 | 17:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
@@ -49,8 +49,8 @@
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.59% |
 | 18:00 | EUR | Low | French 30-Year OAT Auction |  |  | 1.65% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
@@ -74,8 +74,8 @@
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 40.33K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
 | 20:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |
