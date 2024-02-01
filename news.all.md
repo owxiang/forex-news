@@ -78,12 +78,12 @@
 | 21:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 3.2% | 2.4% | 4.9% |
 | 21:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 0.5% | 1.3% | -1.1% |
 | 21:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16 min | CAD | Low | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |
-| 31 min | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 50.3 | 47.9 |
-| 46 min | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.5% | 0.4% |
-| 46 min | USD | Moderate | ISM Manufacturing Employment (Jan) |  |  | 48.1 |
-| 46 min | USD | Low | ISM Manufacturing New Orders Index (Jan) |  |  | 47.1 |
-| 46 min | USD | High | ISM Manufacturing PMI (Jan) |  | 47.2 | 47.4 |
-| 46 min | USD | High | ISM Manufacturing Prices (Jan) |  | 46.0 | 45.2 |
-| 46 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Jan) |  |  | 52.00 |
-| 23:30 | USD | Low | Natural Gas Storage |  | -202B | -326B |
+| 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jan) | 48.3 |  | 45.4 |
+| 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) | 50.7 | 50.3 | 47.9 |
+| 23:00 | USD | Moderate | Construction Spending (MoM) (Dec) | 0.9% | 0.5% | 0.9% |
+| 23:00 | USD | Moderate | ISM Manufacturing Employment (Jan) | 47.1 | 47.0 | 47.5 |
+| 23:00 | USD | Low | ISM Manufacturing New Orders Index (Jan) | 52.5 | 48.2 | 47.0 |
+| 23:00 | USD | High | ISM Manufacturing PMI (Jan) | 49.1 | 47.2 | 47.1 |
+| 23:00 | USD | High | ISM Manufacturing Prices (Jan) | 52.9 | 46.0 | 45.2 |
+| 23:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jan) | 50.20 |  | 52.00 |
+| 15 min | USD | Low | Natural Gas Storage |  | -202B | -326B |

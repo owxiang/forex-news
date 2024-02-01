@@ -44,7 +44,7 @@
 | 20:30 | USD | Challenger Job Cuts (YoY) | -20.0% |  | -20.2% |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jan) | 52.8 |  | 48.4 |
 | 21:30 | USD | Jobless Claims 4-Week Avg. | 207.75K |  | 202.50K |
-| 16 min | CAD | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |
-| 46 min | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 47.1 |
-| 46 min | MXN | S&P Global Mexico Manufacturing PMI (Jan) |  |  | 52.00 |
-| 23:30 | USD | Natural Gas Storage |  | -202B | -326B |
+| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Jan) | 48.3 |  | 45.4 |
+| 23:00 | USD | ISM Manufacturing New Orders Index (Jan) | 52.5 | 48.2 | 47.0 |
+| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Jan) | 50.20 |  | 52.00 |
+| 15 min | USD | Natural Gas Storage |  | -202B | -326B |

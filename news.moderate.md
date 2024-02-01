@@ -30,5 +30,5 @@
 | 21:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 3.2% | 2.4% | 4.9% |
 | 21:30 | USD | Unit Labor Costs (QoQ) (Q4) | 0.5% | 1.3% | -1.1% |
 | 21:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 46 min | USD | Construction Spending (MoM) (Dec) |  | 0.5% | 0.4% |
-| 46 min | USD | ISM Manufacturing Employment (Jan) |  |  | 48.1 |
+| 23:00 | USD | Construction Spending (MoM) (Dec) | 0.9% | 0.5% | 0.9% |
+| 23:00 | USD | ISM Manufacturing Employment (Jan) | 47.1 | 47.0 | 47.5 |
