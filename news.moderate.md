@@ -1,34 +1,24 @@
-## 01 February 2024 - Moderate Impact Forex News
+## 02 February 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | BRL | Interest Rate Decision | 11.25% | 11.25% | 11.75% |
-| 08:30 | AUD | Building Approvals (MoM) (Dec) | -9.5% | 0.5% | 0.3% |
-| 09:45 | CNY | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
-| 11:35 | JPY | 10-Year JGB Auction | 0.741% |  | 0.596% |
-| 14:00 | INR | Indian Union Budget |  |  |  |
-| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) | 49.2 | 47.9 | 46.2 |
-| 16:30 | CHF | procure.ch PMI (Jan) | 43.1 | 44.5 | 43.0 |
-| 16:45 | EUR | HCOB Italy Manufacturing PMI (Jan) | 48.5 | 47.0 | 45.3 |
-| 16:50 | EUR | HCOB France Manufacturing PMI (Jan) | 43.1 | 43.2 | 42.1 |
-| 16:55 | EUR | HCOB Germany Manufacturing PMI (Jan) | 45.5 | 45.4 | 43.3 |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 46.6 | 44.4 |
-| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jan) | 47.0 | 47.3 | 46.2 |
-| 18:00 | USD | OPEC Meeting |  |  |  |
-| 18:00 | EUR | Core CPI (YoY) (Jan) | 3.3% | 3.2% | 3.4% |
-| 18:00 | EUR | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
-| 18:00 | EUR | EU Leaders Summit |  |  |  |
-| 18:00 | EUR | Unemployment Rate (Dec) | 6.4% | 6.4% | 6.4% |
-| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:00 | GBP | BoE MPC vote cut (Feb) | 1 | 0 | 0 |
-| 20:00 | GBP | BoE MPC vote hike (Feb) | 2 | 2 | 3 |
-| 20:00 | GBP | BoE MPC vote unchanged (Feb) | 6 | 7 | 6 |
-| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 20:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Continuing Jobless Claims | 1,898K | 1,840K | 1,828K |
-| 21:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 3.2% | 2.4% | 4.9% |
-| 21:30 | USD | Unit Labor Costs (QoQ) (Q4) | 0.5% | 1.3% | -1.1% |
-| 21:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | USD | Construction Spending (MoM) (Dec) | 0.9% | 0.5% | 0.9% |
-| 23:00 | USD | ISM Manufacturing Employment (Jan) | 47.1 | 47.0 | 47.5 |
+| 11 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 11 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 05:30 | USD | Fed's Balance Sheet |  |  | 7,677B |
+| 08:30 | AUD | Home Loans (MoM) |  |  | 0.5% |
+| 08:30 | AUD | PPI (YoY) (Q4) |  |  | 3.8% |
+| 08:30 | AUD | PPI (QoQ) (Q4) |  | 1.9% | 1.8% |
+| 16:00 | CHF | SECO Consumer Climate |  |  | -28 |
+| 16:00 | EUR | Spanish Unemployment Change |  | -38.6K | -27.4K |
+| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.38% |
+| 20:00 | BRL | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
+| 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
+| 21:30 | USD | Participation Rate (Jan) |  |  | 62.5% |
+| 21:30 | USD | Private Nonfarm Payrolls (Jan) |  | 155K | 164K |
+| 21:30 | USD | U6 Unemployment Rate (Jan) |  |  | 7.1% |
+| 23:00 | USD | Factory Orders (MoM) (Dec) |  | 0.3% | 2.6% |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 2.9% | 3.1% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 2.8% | 2.9% |
+| 23:00 | USD | Michigan Consumer Expectations (Jan) |  | 75.9 | 67.4 |
+| 23:00 | USD | Michigan Consumer Sentiment (Jan) |  | 78.8 | 69.7 |

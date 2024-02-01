@@ -1,50 +1,37 @@
-## 01 February 2024 - Low Impact Forex News
+## 02 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 50.1 | 50.3 | 47.6 |
-| 07:50 | JPY | Foreign Bonds Buying | 382.9B |  | -43.5B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks | 720.3B |  | 287.0B |
-| 08:00 | KRW | Exports (YoY) (Jan) | 18.0% | 17.8% | 5.0% |
-| 08:00 | KRW | Imports (YoY) (Jan) | -7.8% | -7.6% | -10.8% |
-| 08:00 | KRW | Trade Balance (Jan) | 0.30B | 0.08B | 4.46B |
-| 08:30 | KRW | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 49.9 |
-| 08:30 | AUD | Building Approvals (YoY) (Dec) | -2.00% |  | -1.20% |
-| 08:30 | AUD | Export Price Index (QoQ) (Q4) | 5.6% |  | -3.1% |
-| 08:30 | AUD | Import Price Index (QoQ) (Q4) | 1.1% | 0.6% | 0.8% |
-| 08:30 | AUD | NAB Quarterly Business Confidence | -6 |  | -1 |
-| 08:30 | AUD | Private House Approvals (Dec) | -0.5% |  | -1.7% |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
-| 08:30 | IDR | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
-| 12:00 | IDR | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
-| 12:00 | IDR | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
-| 12:00 | IDR | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
-| 13:00 | INR | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
-| 13:30 | AUD | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
-| 16:30 | HKD | Retail Sales (YoY) (Dec) | 7.8% |  | 15.9% |
-| 17:00 | NOK | Manufacturing PMI (Jan) | 50.7 |  | 51.6 |
-| 17:00 | ZAR | Manufacturing PMI (Jan) | 43.6 |  | 50.9 |
-| 17:45 | EUR | Spanish 10-Year Obligacion Auction | 3.170% |  | 3.610% |
-| 18:00 | EUR | Italian CPI (MoM) (Jan) | 0.3% | 0.5% | 0.2% |
-| 18:00 | EUR | Italian CPI (YoY) (Jan) | 0.8% | 1.1% | 0.6% |
-| 18:00 | EUR | Italian HICP (MoM) (Jan) | -1.1% | -1.3% | 0.2% |
-| 18:00 | EUR | Italian HICP (YoY) (Jan) | 0.9% | 0.7% | 0.5% |
-| 18:00 | EUR | French 10-Year OAT Auction | 2.70% |  | 2.59% |
-| 18:00 | EUR | French 30-Year OAT Auction | 3.27% |  | 3.13% |
-| 18:00 | EUR | Core CPI (MoM) (Jan) | -0.9% |  | 0.5% |
-| 18:00 | EUR | CPI, n.s.a (Jan) | 123.58 |  | 124.05 |
-| 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 3.6% |  | 3.9% |
-| 18:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.6% |  | 0.3% |
-| 19:00 | EUR | Car Registration (YoY) (Jan) | 7.30% |  | 10.60% |
-| 19:00 | EUR | Car Registration (MoM) (Jan) | -16.00% |  | 4.40% |
-| 20:00 | BRL | Brazilian PPI (MoM) (Dec) | -0.18% |  | -0.34% |
-| 20:00 | ZAR | Total Vehicle Sales (YoY) (Jan) | -3.80% |  | -3.30% |
-| 20:00 | ZAR | Total Vehicle Sales (Jan) | 41.64K |  | 40.33K |
-| 20:30 | USD | Challenger Job Cuts (Jan) | 82.307K |  | 34.817K |
-| 20:30 | USD | Challenger Job Cuts (YoY) | -20.0% |  | -20.2% |
-| 21:00 | BRL | S&P Global Manufacturing PMI (Jan) | 52.8 |  | 48.4 |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 207.75K |  | 202.50K |
-| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Jan) | 48.3 |  | 45.4 |
-| 23:00 | USD | ISM Manufacturing New Orders Index (Jan) | 52.5 | 48.2 | 47.0 |
-| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Jan) | 50.20 |  | 52.00 |
-| 15 min | USD | Natural Gas Storage |  | -202B | -326B |
+| 11 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 11 min | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 41 min | EUR | Italian Car Registration (MoM) |  |  | -20.2% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 4.846B |
+| 02:00 | BRL | Trade Balance (Jan) |  |  | 9.36B |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 05:45 | NZD | Building Consents (MoM) (Dec) |  |  | -10.6% |
+| 07:00 | KRW | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
+| 07:00 | KRW | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
+| 07:50 | JPY | Monetary Base (YoY) (Jan) |  | 7.5% | 7.9% |
+| 08:30 | AUD | Invest Housing Finance (MoM) |  |  | 1.9% |
+| 15:45 | EUR | French Government Budget Balance (Dec) |  |  | -198.0B |
+| 15:45 | EUR | French Industrial Production (MoM) (Dec) |  | 0.2% | 0.5% |
+| 16:00 | EUR | French Car Registration (MoM) |  |  | 18.5% |
+| 16:00 | EUR | French Car Registration (YoY) |  |  | 14.5% |
+| 17:00 | NOK | Unemployment Change (Jan) |  |  | 69.46K |
+| 17:00 | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
+| 18:00 | EUR | French Car Registration (YoY) |  |  | 14.5% |
+| 19:30 | INR | FX Reserves, USD |  |  | 616.14B |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
+| 20:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
+| 20:00 | BRL | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
+| 21:00 | SGD | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
+| 21:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
+| 21:30 | USD | Government Payrolls (Jan) |  |  | 52.0K |
+| 21:30 | USD | Manufacturing Payrolls (Jan) |  | 5K | 6K |
+| 21:30 | USD | Payrolls Benchmark |  |  | 568.00 |
+| 21:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -306.00K |
+| 23:00 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 0.5% |
+| 23:00 | USD | Durables Excluding Transport (MoM) (Dec) |  |  | 0.6% |
+| 23:00 | USD | Factory orders ex transportation (MoM) (Dec) |  |  | 0.1% |
+| 23:00 | USD | Michigan Current Conditions (Jan) |  | 83.3 | 73.3 |
+| 23:00 | USD | Total Vehicle Sales |  | 15.70M | 15.83M |
