@@ -21,7 +21,7 @@
 | 08:30 | AUD | Low | Private House Approvals (Dec) | -0.5% |  | -1.7% |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
-| 34 min | CNY | Moderate | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
+| 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.596% |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
