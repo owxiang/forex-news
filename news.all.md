@@ -8,11 +8,11 @@
 | 00:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 1.509B |  | 1.272B |
 | 01:45 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 4.2% | 3.0% | 3.0% |
-| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,677B |
-| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 05:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | -10.6% |
-| 07:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,677B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 31 min | NZD | Low | Building Consents (MoM) (Dec) |  |  | -10.6% |
 | 07:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
+| 07:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Jan) |  | 7.5% | 7.9% |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  |  | 0.5% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 1.9% |
@@ -31,8 +31,8 @@
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 616.14B |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
-| 20:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
+| 20:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |

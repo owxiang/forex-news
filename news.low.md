@@ -5,10 +5,10 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.265% |  | 5.275% |
 | 01:30 | BRL | Foreign Exchange Flows | 1.509B |  | 1.272B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 05:45 | NZD | Building Consents (MoM) (Dec) |  |  | -10.6% |
-| 07:00 | KRW | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
+| 16 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 31 min | NZD | Building Consents (MoM) (Dec) |  |  | -10.6% |
 | 07:00 | KRW | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
+| 07:00 | KRW | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
 | 07:50 | JPY | Monetary Base (YoY) (Jan) |  | 7.5% | 7.9% |
 | 08:30 | AUD | Invest Housing Finance (MoM) |  |  | 1.9% |
 | 15:45 | EUR | French Government Budget Balance (Dec) |  |  | -198.0B |
