@@ -24,8 +24,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.741% |  | 0.596% |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
-| 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
+| 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
@@ -39,29 +39,26 @@
 | 17:00 | NOK | Low | Manufacturing PMI (Jan) | 50.7 |  | 51.6 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 46.6 | 44.4 |
 | 17:00 | ZAR | Low | Manufacturing PMI (Jan) | 43.6 |  | 50.9 |
-| 14 min | GBP | Moderate | Labour Productivity (Q3) |  | -0.2% | 0.7% |
-| 14 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jan) |  | 47.3 | 46.2 |
-| 24 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.610% |
-| 24 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.799% |
-| 24 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.621% |
-| 44 min | USD | Moderate | OPEC Meeting |  |  |  |
-| 44 min | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
-| 44 min | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
-| 44 min | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
-| 44 min | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
-| 44 min | EUR | Low | French 10-Year OAT Auction |  |  | 2.59% |
-| 44 min | EUR | Low | French 30-Year OAT Auction |  |  | 1.65% |
-| 44 min | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
-| 44 min | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
-| 44 min | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.2% |
-| 44 min | EUR | High | CPI (YoY) (Jan) |  | 2.7% | 2.9% |
-| 44 min | EUR | Low | CPI, n.s.a (Jan) |  |  | 124.05 |
-| 44 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 44 min | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 3.9% |
-| 44 min | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
-| 44 min | EUR | Moderate | Unemployment Rate (Dec) |  | 6.4% | 6.4% |
-| 19:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 10.60% |
-| 19:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 4.40% |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jan) | 47.0 | 47.3 | 46.2 |
+| 17:45 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.170% |  | 3.610% |
+| 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.5% | 0.2% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 1.1% | 0.6% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.3% | 0.2% |
+| 18:00 | EUR | Low | Italian HICP (YoY) (Jan) | 0.9% | 0.7% | 0.5% |
+| 18:00 | EUR | Low | French 10-Year OAT Auction | 2.70% |  | 2.59% |
+| 18:00 | EUR | Low | French 30-Year OAT Auction | 3.27% |  | 3.13% |
+| 18:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% |  | 0.5% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.2% | 3.4% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
+| 18:00 | EUR | High | CPI (YoY) (Jan) | 2.8% | 2.7% | 2.9% |
+| 18:00 | EUR | Low | CPI, n.s.a (Jan) | 123.58 |  | 124.05 |
+| 18:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 3.6% |  | 3.9% |
+| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.6% |  | 0.3% |
+| 18:00 | EUR | Moderate | Unemployment Rate (Dec) | 6.4% | 6.4% | 6.4% |
+| 43 min | EUR | Low | Car Registration (YoY) (Jan) |  |  | 10.60% |
+| 43 min | EUR | Low | Car Registration (MoM) (Jan) |  |  | 4.40% |
 | 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 2 | 3 |

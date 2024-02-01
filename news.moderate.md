@@ -14,13 +14,12 @@
 | 16:50 | EUR | HCOB France Manufacturing PMI (Jan) | 43.1 | 43.2 | 42.1 |
 | 16:55 | EUR | HCOB Germany Manufacturing PMI (Jan) | 45.5 | 45.4 | 43.3 |
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Jan) | 46.6 | 46.6 | 44.4 |
-| 14 min | GBP | Labour Productivity (Q3) |  | -0.2% | 0.7% |
-| 14 min | GBP | S&P Global/CIPS UK Manufacturing PMI (Jan) |  | 47.3 | 46.2 |
-| 44 min | USD | OPEC Meeting |  |  |  |
-| 44 min | EUR | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
-| 44 min | EUR | CPI (MoM) (Jan) |  |  | 0.2% |
-| 44 min | EUR | EU Leaders Summit |  |  |  |
-| 44 min | EUR | Unemployment Rate (Dec) |  | 6.4% | 6.4% |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jan) | 47.0 | 47.3 | 46.2 |
+| 18:00 | USD | OPEC Meeting |  |  |  |
+| 18:00 | EUR | Core CPI (YoY) (Jan) | 3.3% | 3.2% | 3.4% |
+| 18:00 | EUR | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
+| 18:00 | EUR | EU Leaders Summit |  |  |  |
+| 18:00 | EUR | Unemployment Rate (Dec) | 6.4% | 6.4% | 6.4% |
 | 19:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | GBP | BoE MPC vote cut (Feb) |  | 0 | 0 |
 | 20:00 | GBP | BoE MPC vote hike (Feb) |  | 2 | 3 |

@@ -5,7 +5,7 @@
 | 03:00 | USD | FOMC Statement |  |  |  |
 | 03:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:30 | USD | FOMC Press Conference |  |  |  |
-| 44 min | EUR | CPI (YoY) (Jan) |  | 2.7% | 2.9% |
+| 18:00 | EUR | CPI (YoY) (Jan) | 2.8% | 2.7% | 2.9% |
 | 20:00 | GBP | BoE Interest Rate Decision (Jan) |  | 5.25% | 5.25% |
 | 21:30 | USD | Initial Jobless Claims |  | 213K | 214K |
 | 22:45 | USD | S&P Global US Manufacturing PMI (Jan) |  | 50.3 | 47.9 |
