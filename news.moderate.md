@@ -4,10 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 00:30 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 01:45 | USD | Atlanta Fed GDPNow (Q1) | 4.2% | 3.0% | 3.0% |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,677B |
 | 08:30 | AUD | Home Loans (MoM) |  |  | 0.5% |
-| 08:30 | AUD | PPI (QoQ) (Q4) |  | 1.9% | 1.8% |
 | 08:30 | AUD | PPI (YoY) (Q4) |  |  | 3.8% |
+| 08:30 | AUD | PPI (QoQ) (Q4) |  | 1.9% | 1.8% |
 | 16:00 | CHF | SECO Consumer Climate |  |  | -28 |
 | 16:00 | EUR | Spanish Unemployment Change |  | -38.6K | -27.4K |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.38% |
