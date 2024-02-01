@@ -7,30 +7,30 @@
 | 03:30 | USD | High | FOMC Press Conference |  |  |  |
 | 05:00 | BRL | Moderate | Interest Rate Decision | 11.25% | 11.25% | 11.75% |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 50.1 | 50.3 | 47.6 |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | -48.0B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 286.7B |
-| 44 min | KRW | Low | Exports (YoY) (Jan) |  |  | 5.0% |
-| 44 min | KRW | Low | Imports (YoY) (Jan) |  | -7.6% | -10.8% |
-| 44 min | KRW | Low | Trade Balance (Jan) |  |  | 4.46B |
-| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jan) |  |  | 49.9 |
-| 08:30 | AUD | Low | Building Approvals (YoY) (Dec) |  |  | -1.60% |
-| 08:30 | AUD | Moderate | Building Approvals (MoM) (Dec) |  | 0.5% | 1.6% |
-| 08:30 | AUD | Low | Export Price Index (QoQ) (Q4) |  |  | -3.1% |
-| 08:30 | AUD | Low | Import Price Index (QoQ) (Q4) |  | 0.6% | 0.8% |
-| 08:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -1 |
-| 08:30 | AUD | Low | Private House Approvals (Dec) |  |  | -1.7% |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) |  | 48.0 | 48.0 |
-| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Jan) |  |  | 52.2 |
-| 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
+| 07:50 | JPY | Low | Foreign Bonds Buying | 382.9B |  | -43.5B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 720.3B |  | 287.0B |
+| 08:00 | KRW | Low | Exports (YoY) (Jan) | 18.0% |  | 5.0% |
+| 08:00 | KRW | Low | Imports (YoY) (Jan) | -7.8% | -7.6% | -10.8% |
+| 08:00 | KRW | Low | Trade Balance (Jan) | 0.30B |  | 4.46B |
+| 08:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jan) | 51.2 |  | 49.9 |
+| 08:30 | AUD | Low | Building Approvals (YoY) (Dec) | -2.00% |  | -1.20% |
+| 08:30 | AUD | Moderate | Building Approvals (MoM) (Dec) | -9.5% | 0.5% | 0.3% |
+| 08:30 | AUD | Low | Export Price Index (QoQ) (Q4) | 5.6% |  | -3.1% |
+| 08:30 | AUD | Low | Import Price Index (QoQ) (Q4) | 1.1% | 0.6% | 0.8% |
+| 08:30 | AUD | Low | NAB Quarterly Business Confidence | -6 |  | -1 |
+| 08:30 | AUD | Low | Private House Approvals (Dec) | -0.5% |  | -1.7% |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
+| 08:30 | IDR | Low | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
+| 34 min | CNY | Moderate | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.596% |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 12:00 | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
+| 12:00 | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
-| 16:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
 | 16:00 | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
+| 16:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
 | 16:30 | CHF | Moderate | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Dec) |  |  | 15.9% |
@@ -46,14 +46,14 @@
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.799% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.621% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 18:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
 | 18:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
-| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
+| 18:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
+| 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.59% |
 | 18:00 | EUR | Low | French 30-Year OAT Auction |  |  | 1.65% |
-| 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
+| 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.7% | 2.9% |
 | 18:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 124.05 |
@@ -61,8 +61,8 @@
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 3.9% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
 | 18:00 | EUR | Moderate | Unemployment Rate (Dec) |  | 6.4% | 6.4% |
-| 19:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 10.60% |
 | 19:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 4.40% |
+| 19:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 10.60% |
 | 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 2 | 3 |
@@ -70,10 +70,10 @@
 | 20:00 | GBP | High | BoE Interest Rate Decision (Jan) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
-| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 40.33K |
-| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |

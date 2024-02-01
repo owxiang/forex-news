@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | BRL | Interest Rate Decision | 11.25% | 11.25% | 11.75% |
-| 08:30 | AUD | Building Approvals (MoM) (Dec) |  | 0.5% | 1.6% |
-| 09:45 | CNY | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
+| 08:30 | AUD | Building Approvals (MoM) (Dec) | -9.5% | 0.5% | 0.3% |
+| 34 min | CNY | Caixin Manufacturing PMI (Jan) |  | 50.8 | 50.8 |
 | 11:35 | JPY | 10-Year JGB Auction |  |  | 0.596% |
 | 14:00 | INR | Indian Union Budget |  |  |  |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
