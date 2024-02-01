@@ -8,35 +8,35 @@
 | 00:30 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 01:30 | BRL | Low | Foreign Exchange Flows | 1.509B |  | 1.272B |
 | 01:45 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 4.2% | 3.0% | 3.0% |
-| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,677B |
-| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 31 min | NZD | Low | Building Consents (MoM) (Dec) |  |  | -10.6% |
-| 07:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
-| 07:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,630B |  | 7,677B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.412T |  | 3.490T |
+| 05:45 | NZD | Low | Building Consents (MoM) (Dec) | 3.7% |  | -10.6% |
+| 45 min | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
+| 45 min | KRW | Low | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Jan) |  | 7.5% | 7.9% |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  |  | 0.5% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 1.9% |
-| 08:30 | AUD | Moderate | PPI (YoY) (Q4) |  |  | 3.8% |
 | 08:30 | AUD | Moderate | PPI (QoQ) (Q4) |  | 1.9% | 1.8% |
+| 08:30 | AUD | Moderate | PPI (YoY) (Q4) |  |  | 3.8% |
 | 15:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -198.0B |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:00 | CHF | Moderate | SECO Consumer Climate |  |  | -28 |
-| 16:00 | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
 | 16:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
+| 16:00 | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
 | 16:00 | EUR | Moderate | Spanish Unemployment Change |  | -38.6K | -27.4K |
 | 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.38% |
 | 17:00 | NOK | Low | Unemployment Change (Jan) |  |  | 69.46K |
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
 | 18:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 616.14B |
-| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
+| 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
-| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
 | 21:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.4% |
+| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
 | 21:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 21:30 | USD | Low | Government Payrolls (Jan) |  |  | 52.0K |
 | 21:30 | USD | Low | Manufacturing Payrolls (Jan) |  | 5K | 6K |
