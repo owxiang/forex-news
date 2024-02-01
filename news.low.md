@@ -17,16 +17,16 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
 | 12:00 | IDR | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
-| 12:00 | IDR | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 12:00 | IDR | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
+| 12:00 | IDR | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
 | 13:30 | AUD | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
 | 16:30 | HKD | Retail Sales (YoY) (Dec) | 7.8% |  | 15.9% |
 | 17:00 | NOK | Manufacturing PMI (Jan) | 50.7 |  | 51.6 |
 | 17:00 | ZAR | Manufacturing PMI (Jan) | 43.6 |  | 50.9 |
 | 17:45 | EUR | Spanish 10-Year Obligacion Auction | 3.170% |  | 3.610% |
-| 18:00 | EUR | Italian CPI (YoY) (Jan) | 0.8% | 1.1% | 0.6% |
 | 18:00 | EUR | Italian CPI (MoM) (Jan) | 0.3% | 0.5% | 0.2% |
+| 18:00 | EUR | Italian CPI (YoY) (Jan) | 0.8% | 1.1% | 0.6% |
 | 18:00 | EUR | Italian HICP (MoM) (Jan) | -1.1% | -1.3% | 0.2% |
 | 18:00 | EUR | Italian HICP (YoY) (Jan) | 0.9% | 0.7% | 0.5% |
 | 18:00 | EUR | French 10-Year OAT Auction | 2.70% |  | 2.59% |
@@ -43,8 +43,8 @@
 | 20:30 | USD | Challenger Job Cuts (Jan) | 82.307K |  | 34.817K |
 | 20:30 | USD | Challenger Job Cuts (YoY) | -20.0% |  | -20.2% |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jan) | 52.8 |  | 48.4 |
-| 13 min | USD | Jobless Claims 4-Week Avg. |  |  | 202.25K |
-| 22:30 | CAD | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |
-| 23:00 | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 47.1 |
-| 23:00 | MXN | S&P Global Mexico Manufacturing PMI (Jan) |  |  | 52.00 |
+| 21:30 | USD | Jobless Claims 4-Week Avg. | 207.75K |  | 202.50K |
+| 16 min | CAD | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |
+| 46 min | USD | ISM Manufacturing New Orders Index (Jan) |  |  | 47.1 |
+| 46 min | MXN | S&P Global Mexico Manufacturing PMI (Jan) |  |  | 52.00 |
 | 23:30 | USD | Natural Gas Storage |  | -202B | -326B |
