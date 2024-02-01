@@ -26,11 +26,12 @@
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
 | 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
-| 40 min | INR | Low | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
-| 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
-| 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
+| 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
+| 15 min | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
+| 45 min | INR | Moderate | Indian Union Budget |  |  |  |
 | 16:00 | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
 | 16:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
+| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
 | 16:30 | CHF | Moderate | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
 | 16:30 | HKD | Low | Retail Sales (YoY) (Dec) |  |  | 15.9% |
@@ -46,14 +47,14 @@
 | 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.799% |
 | 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.621% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 18:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.5% | 0.2% |
-| 18:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 1.1% | 0.6% |
 | 18:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.3% | 0.2% |
+| 18:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.7% | 0.5% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.59% |
 | 18:00 | EUR | Low | French 30-Year OAT Auction |  |  | 1.65% |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  |  | 0.5% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.2% | 3.4% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.7% | 2.9% |
 | 18:00 | EUR | Low | CPI, n.s.a (Jan) |  |  | 124.05 |
@@ -61,8 +62,8 @@
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  |  | 3.9% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) |  |  | 0.3% |
 | 18:00 | EUR | Moderate | Unemployment Rate (Dec) |  | 6.4% | 6.4% |
-| 19:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 4.40% |
 | 19:00 | EUR | Low | Car Registration (YoY) (Jan) |  |  | 10.60% |
+| 19:00 | EUR | Low | Car Registration (MoM) (Jan) |  |  | 4.40% |
 | 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:00 | GBP | Moderate | BoE MPC vote cut (Feb) |  | 0 | 0 |
 | 20:00 | GBP | Moderate | BoE MPC vote hike (Feb) |  | 2 | 3 |
@@ -70,10 +71,11 @@
 | 20:00 | GBP | High | BoE Interest Rate Decision (Jan) |  | 5.25% | 5.25% |
 | 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 20:00 | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
-| Tentative | ZAR | Low | Total Vehicle Sales |  |  | 40.33K |
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
-| 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| Tentative | ZAR | Low | Total Vehicle Sales |  |  | 40.33K |
+| 20:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
+| 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |
@@ -81,7 +83,6 @@
 | 21:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 5.2% |
 | 21:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 1.3% | -1.2% |
 | 21:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 22:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Jan) |  | 50.3 | 47.9 |
 | 23:00 | USD | Moderate | Construction Spending (MoM) (Dec) |  | 0.5% | 0.4% |

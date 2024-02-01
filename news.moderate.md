@@ -6,7 +6,8 @@
 | 08:30 | AUD | Building Approvals (MoM) (Dec) | -9.5% | 0.5% | 0.3% |
 | 09:45 | CNY | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
 | 11:35 | JPY | 10-Year JGB Auction | 0.741% |  | 0.596% |
-| 14:00 | INR | Indian Union Budget |  |  |  |
+| 45 min | INR | Indian Union Budget |  |  |  |
+| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
 | 16:30 | CHF | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
 | 16:45 | EUR | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
@@ -25,10 +26,10 @@
 | 20:00 | GBP | BoE MPC vote hike (Feb) |  | 2 | 3 |
 | 20:00 | GBP | BoE MPC vote unchanged (Feb) |  | 7 | 6 |
 | 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 20:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 5.2% |
 | 21:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 1.3% | -1.2% |
 | 21:45 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 22:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 23:00 | USD | Construction Spending (MoM) (Dec) |  | 0.5% | 0.4% |
 | 23:00 | USD | ISM Manufacturing Employment (Jan) |  |  | 48.1 |
