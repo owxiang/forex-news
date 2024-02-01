@@ -20,7 +20,7 @@
 | 12:00 | IDR | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
 | 12:00 | IDR | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
-| 15 min | AUD | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
+| 13:30 | AUD | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
 | 16:00 | EUR | French Car Registration (MoM) |  |  | 18.5% |
 | 16:00 | EUR | French Car Registration (YoY) |  |  | 14.5% |
 | 16:30 | HKD | Retail Sales (YoY) (Dec) |  |  | 15.9% |
@@ -44,8 +44,8 @@
 | 20:00 | BRL | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
 | 20:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.30% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 40.33K |
-| 20:30 | USD | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 20:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 202.25K |
 | 22:30 | CAD | S&P Global Canada Manufacturing PMI (Jan) |  |  | 45.4 |

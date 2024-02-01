@@ -27,8 +27,8 @@
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
 | 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
-| 15 min | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
-| 45 min | INR | Moderate | Indian Union Budget |  |  |  |
+| 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
+| 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
 | 16:00 | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
 | 16:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -74,8 +74,8 @@
 | 20:00 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
 | Tentative | ZAR | Low | Total Vehicle Sales |  |  | 40.33K |
 | 20:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
 | 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |
