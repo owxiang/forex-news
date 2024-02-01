@@ -11,8 +11,8 @@
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,677B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 05:45 | NZD | Low | Building Consents (MoM) (Dec) |  |  | -10.6% |
-| 07:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
 | 07:00 | KRW | Low | CPI (MoM) (Jan) |  | 0.4% | 0.0% |
+| 07:00 | KRW | Low | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Jan) |  | 7.5% | 7.9% |
 | 08:30 | AUD | Moderate | Home Loans (MoM) |  |  | 0.5% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 1.9% |
