@@ -7,7 +7,7 @@
 | 09:45 | CNY | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
 | 11:35 | JPY | 10-Year JGB Auction | 0.741% |  | 0.596% |
 | 14:00 | INR | Indian Union Budget |  |  |  |
-| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 45 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:15 | EUR | HCOB Spain Manufacturing PMI (Jan) |  | 47.9 | 46.2 |
 | 16:30 | CHF | procure.ch PMI (Jan) |  | 44.5 | 43.0 |
 | 16:45 | EUR | HCOB Italy Manufacturing PMI (Jan) |  | 47.0 | 45.3 |
