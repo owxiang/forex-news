@@ -2,11 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 11 min | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 41 min | EUR | Italian Car Registration (MoM) |  |  | -20.2% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 4.846B |
-| 02:00 | BRL | Trade Balance (Jan) |  |  | 9.36B |
+| 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
+| 00:30 | USD | 8-Week Bill Auction | 5.265% |  | 5.275% |
+| 44 min | BRL | Trade Balance (Jan) |  |  | 9.36B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 05:45 | NZD | Building Consents (MoM) (Dec) |  |  | -10.6% |
 | 07:00 | KRW | CPI (YoY) (Jan) |  | 2.9% | 3.2% |
@@ -21,8 +19,8 @@
 | 17:00 | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
 | 18:00 | EUR | French Car Registration (YoY) |  |  | 14.5% |
 | 19:30 | INR | FX Reserves, USD |  |  | 616.14B |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
+| 20:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
 | 20:00 | BRL | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
 | 21:00 | SGD | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
 | 21:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
