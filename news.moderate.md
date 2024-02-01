@@ -20,12 +20,12 @@
 | 18:00 | EUR | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
 | 18:00 | EUR | EU Leaders Summit |  |  |  |
 | 18:00 | EUR | Unemployment Rate (Dec) | 6.4% | 6.4% | 6.4% |
-| 17 min | EUR | ECB's Lane Speaks |  |  |  |
-| 47 min | GBP | BoE MPC vote cut (Feb) |  | 0 | 0 |
-| 47 min | GBP | BoE MPC vote hike (Feb) |  | 2 | 3 |
-| 47 min | GBP | BoE MPC vote unchanged (Feb) |  | 7 | 6 |
-| 47 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 20:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 19:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 20:00 | GBP | BoE MPC vote cut (Feb) | 1 | 0 | 0 |
+| 20:00 | GBP | BoE MPC vote hike (Feb) | 2 | 2 | 3 |
+| 20:00 | GBP | BoE MPC vote unchanged (Feb) | 6 | 7 | 6 |
+| 20:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 2 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 2.4% | 5.2% |
 | 21:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 1.3% | -1.2% |

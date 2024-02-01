@@ -24,8 +24,8 @@
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
 | 11:35 | JPY | Moderate | 10-Year JGB Auction | 0.741% |  | 0.596% |
 | 12:00 | IDR | Low | Core Inflation (YoY) (Jan) | 1.68% | 1.76% | 1.80% |
-| 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 12:00 | IDR | Low | Inflation (MoM) (Jan) | 0.04% | 0.29% | 0.41% |
+| 12:00 | IDR | Low | Inflation (YoY) (Jan) | 2.57% | 2.55% | 2.61% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) | 56.5 |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) | -10.4% |  | -11.2% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |
@@ -42,8 +42,8 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Jan) | 47.0 | 47.3 | 46.2 |
 | 17:45 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.170% |  | 3.610% |
 | 18:00 | USD | Moderate | OPEC Meeting |  |  |  |
-| 18:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 1.1% | 0.6% |
 | 18:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.5% | 0.2% |
+| 18:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 1.1% | 0.6% |
 | 18:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.3% | 0.2% |
 | 18:00 | EUR | Low | Italian HICP (YoY) (Jan) | 0.9% | 0.7% | 0.5% |
 | 18:00 | EUR | Low | French 10-Year OAT Auction | 2.70% |  | 2.59% |
@@ -57,21 +57,21 @@
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 3.6% |  | 3.9% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.6% |  | 0.3% |
 | 18:00 | EUR | Moderate | Unemployment Rate (Dec) | 6.4% | 6.4% | 6.4% |
-| 18:15 | ZAR | Low | Total Vehicle Sales | 40.33K |  | 45.08K |
-| 17 min | EUR | Low | Car Registration (YoY) (Jan) |  |  | 10.60% |
-| 17 min | EUR | Low | Car Registration (MoM) (Jan) |  |  | 4.40% |
-| 17 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 47 min | GBP | Moderate | BoE MPC vote cut (Feb) |  | 0 | 0 |
-| 47 min | GBP | Moderate | BoE MPC vote hike (Feb) |  | 2 | 3 |
-| 47 min | GBP | Moderate | BoE MPC vote unchanged (Feb) |  | 7 | 6 |
-| 47 min | GBP | High | BoE Interest Rate Decision (Jan) |  | 5.25% | 5.25% |
-| 47 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 47 min | BRL | Low | Brazilian PPI (MoM) (Dec) |  |  | -0.43% |
-| 47 min | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.30% |
-| 20:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 20:30 | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
-| 20:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
-| 21:00 | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
+| 19:00 | EUR | Low | Car Registration (YoY) (Jan) | 7.30% |  | 10.60% |
+| 19:00 | EUR | Low | Car Registration (MoM) (Jan) | -16.00% |  | 4.40% |
+| 19:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 20:00 | GBP | Moderate | BoE MPC vote cut (Feb) | 1 | 0 | 0 |
+| 20:00 | GBP | Moderate | BoE MPC vote hike (Feb) | 2 | 2 | 3 |
+| 20:00 | GBP | Moderate | BoE MPC vote unchanged (Feb) | 6 | 7 | 6 |
+| 20:00 | GBP | High | BoE Interest Rate Decision (Jan) | 5.25% | 5.25% | 5.25% |
+| 20:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 20:00 | BRL | Low | Brazilian PPI (MoM) (Dec) | -0.18% |  | -0.34% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jan) | -3.80% |  | -3.30% |
+| 20:00 | ZAR | Low | Total Vehicle Sales (Jan) | 41.64K |  | 40.33K |
+| 2 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 2 min | USD | Low | Challenger Job Cuts (Jan) |  |  | 34.817K |
+| 2 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.2% |
+| 32 min | BRL | Low | S&P Global Manufacturing PMI (Jan) |  |  | 48.4 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,833K |
 | 21:30 | USD | High | Initial Jobless Claims |  | 213K | 214K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 202.25K |
