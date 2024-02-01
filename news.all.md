@@ -22,10 +22,10 @@
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
 | 08:30 | IDR | Low | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
 | 09:45 | CNY | Moderate | Caixin Manufacturing PMI (Jan) | 50.8 | 50.8 | 50.8 |
-| 11:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.596% |
-| 12:00 | IDR | Low | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 12:00 | IDR | Low | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
-| 12:00 | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
+| 19 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.596% |
+| 44 min | IDR | Low | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
+| 44 min | IDR | Low | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
+| 44 min | IDR | Low | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 13:00 | INR | Low | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Low | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 14:00 | INR | Moderate | Indian Union Budget |  |  |  |

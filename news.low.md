@@ -16,9 +16,9 @@
 | 08:30 | AUD | Private House Approvals (Dec) | -0.5% |  | -1.7% |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jan) | 48.0 | 48.0 | 48.0 |
 | 08:30 | IDR | Nikkei Manufacturing PMI (Jan) | 52.9 |  | 52.2 |
-| 12:00 | IDR | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
-| 12:00 | IDR | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
-| 12:00 | IDR | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
+| 44 min | IDR | Core Inflation (YoY) (Jan) |  | 1.76% | 1.80% |
+| 44 min | IDR | Inflation (MoM) (Jan) |  | 0.29% | 0.41% |
+| 44 min | IDR | Inflation (YoY) (Jan) |  | 2.55% | 2.61% |
 | 13:00 | INR | S&P Global India Manufacturing PMI (Jan) |  |  | 54.9 |
 | 13:30 | AUD | Commodity Prices (YoY) (Jan) |  |  | -10.7% |
 | 16:00 | EUR | French Car Registration (MoM) |  |  | 18.5% |
