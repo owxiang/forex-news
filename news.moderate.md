@@ -13,12 +13,12 @@
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) | 0.46% |  | 0.38% |
 | 20:00 | BRL | Industrial Production (YoY) (Dec) | 1.0% | 0.1% | 1.3% |
 | 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 14 min | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
-| 14 min | USD | Participation Rate (Jan) |  |  | 62.5% |
-| 14 min | USD | Private Nonfarm Payrolls (Jan) |  | 155K | 164K |
-| 14 min | USD | U6 Unemployment Rate (Jan) |  |  | 7.1% |
-| 23:00 | USD | Factory Orders (MoM) (Dec) |  | 0.3% | 2.6% |
-| 23:00 | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 2.9% | 3.1% |
-| 23:00 | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 2.8% | 2.9% |
-| 23:00 | USD | Michigan Consumer Expectations (Jan) |  | 75.9 | 67.4 |
-| 23:00 | USD | Michigan Consumer Sentiment (Jan) |  | 78.8 | 69.7 |
+| 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) | 4.5% | 4.1% | 4.3% |
+| 21:30 | USD | Participation Rate (Jan) | 62.5% |  | 62.5% |
+| 21:30 | USD | Private Nonfarm Payrolls (Jan) | 317K | 155K | 278K |
+| 21:30 | USD | U6 Unemployment Rate (Jan) | 7.2% |  | 7.1% |
+| 46 min | USD | Factory Orders (MoM) (Dec) |  | 0.3% | 2.6% |
+| 46 min | USD | Michigan 1-Year Inflation Expectations (Jan) |  | 2.9% | 3.1% |
+| 46 min | USD | Michigan 5-Year Inflation Expectations (Jan) |  | 2.8% | 2.9% |
+| 46 min | USD | Michigan Consumer Expectations (Jan) |  | 75.9 | 67.4 |
+| 46 min | USD | Michigan Consumer Sentiment (Jan) |  | 78.8 | 69.7 |
