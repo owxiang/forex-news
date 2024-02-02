@@ -11,13 +11,13 @@
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,630B |  | 7,677B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.412T |  | 3.490T |
 | 05:45 | NZD | Low | Building Consents (MoM) (Dec) | 3.7% |  | -10.6% |
-| 07:00 | KRW | Low | CPI (YoY) (Jan) | 2.8% | 2.9% | 3.2% |
 | 07:00 | KRW | Low | CPI (MoM) (Jan) | 0.4% | 0.4% | 0.0% |
+| 07:00 | KRW | Low | CPI (YoY) (Jan) | 2.8% | 2.9% | 3.2% |
 | 07:50 | JPY | Low | Monetary Base (YoY) (Jan) | 4.7% | 7.5% | 8.2% |
 | 08:30 | AUD | Moderate | Home Loans (MoM) | -5.6% |  | 0.5% |
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) | -1.3% |  | 1.9% |
-| 08:30 | AUD | Moderate | PPI (QoQ) (Q4) | 0.9% | 1.9% | 1.8% |
 | 08:30 | AUD | Moderate | PPI (YoY) (Q4) | 4.1% |  | 3.8% |
+| 08:30 | AUD | Moderate | PPI (QoQ) (Q4) | 0.9% | 1.9% | 1.8% |
 | 15:45 | EUR | Low | French Government Budget Balance (Dec) |  |  | -198.0B |
 | 15:45 | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | 0.5% |
 | 16:00 | CHF | Moderate | SECO Consumer Climate |  |  | -28 |
@@ -29,10 +29,10 @@
 | 17:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
 | 18:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 616.14B |
-| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
-| 20:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
+| 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
 | 20:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
+| 20:00 | BRL | Moderate | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
