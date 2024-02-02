@@ -9,9 +9,9 @@
 | 08:30 | AUD | Home Loans (MoM) | -5.6% |  | 0.3% |
 | 08:30 | AUD | PPI (QoQ) (Q4) | 0.9% | 1.9% | 1.8% |
 | 08:30 | AUD | PPI (YoY) (Q4) | 4.1% |  | 3.8% |
-| 47 min | CHF | SECO Consumer Climate |  |  | -28 |
-| 47 min | EUR | Spanish Unemployment Change |  | -38.6K | -27.4K |
-| 47 min | BRL | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.38% |
+| 16:00 | EUR | Spanish Unemployment Change | 60.4K | -38.6K | -27.4K |
+| 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) | 0.46% |  | 0.38% |
+| 41 min | CHF | SECO Consumer Climate |  |  | -28 |
 | 20:00 | BRL | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
 | 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |

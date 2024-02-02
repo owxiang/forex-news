@@ -11,13 +11,10 @@
 | 07:00 | KRW | CPI (YoY) (Jan) | 2.8% | 2.9% | 3.2% |
 | 07:50 | JPY | Monetary Base (YoY) (Jan) | 4.7% | 7.5% | 8.2% |
 | 08:30 | AUD | Invest Housing Finance (MoM) | -1.3% |  | 1.9% |
-| 32 min | EUR | French Government Budget Balance (Dec) |  |  | -198.0B |
-| 32 min | EUR | French Industrial Production (MoM) (Dec) |  | 0.2% | 0.5% |
-| 47 min | EUR | French Car Registration (YoY) |  |  | 14.5% |
-| 47 min | EUR | French Car Registration (MoM) |  |  | 18.5% |
-| 17:00 | NOK | Unemployment Change (Jan) |  |  | 69.46K |
-| 17:00 | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
-| 18:00 | EUR | French Car Registration (YoY) |  |  | 14.5% |
+| 15:45 | EUR | French Government Budget Balance (Dec) | -173.3B |  | -198.0B |
+| 15:45 | EUR | French Industrial Production (MoM) (Dec) | 1.1% | 0.2% | 0.5% |
+| 41 min | NOK | Unemployment Change (Jan) |  |  | 69.46K |
+| 41 min | NOK | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
 | 19:30 | INR | FX Reserves, USD |  |  | 616.14B |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |

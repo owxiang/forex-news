@@ -18,16 +18,13 @@
 | 08:30 | AUD | Low | Invest Housing Finance (MoM) | -1.3% |  | 1.9% |
 | 08:30 | AUD | Moderate | PPI (QoQ) (Q4) | 0.9% | 1.9% | 1.8% |
 | 08:30 | AUD | Moderate | PPI (YoY) (Q4) | 4.1% |  | 3.8% |
-| 32 min | EUR | Low | French Government Budget Balance (Dec) |  |  | -198.0B |
-| 32 min | EUR | Low | French Industrial Production (MoM) (Dec) |  | 0.2% | 0.5% |
-| 47 min | CHF | Moderate | SECO Consumer Climate |  |  | -28 |
-| 47 min | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
-| 47 min | EUR | Low | French Car Registration (MoM) |  |  | 18.5% |
-| 47 min | EUR | Moderate | Spanish Unemployment Change |  | -38.6K | -27.4K |
-| 47 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) |  |  | 0.38% |
-| 17:00 | NOK | Low | Unemployment Change (Jan) |  |  | 69.46K |
-| 17:00 | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
-| 18:00 | EUR | Low | French Car Registration (YoY) |  |  | 14.5% |
+| 15:45 | EUR | Low | French Government Budget Balance (Dec) | -173.3B |  | -198.0B |
+| 15:45 | EUR | Low | French Industrial Production (MoM) (Dec) | 1.1% | 0.2% | 0.5% |
+| 16:00 | EUR | Moderate | Spanish Unemployment Change | 60.4K | -38.6K | -27.4K |
+| 16:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Jan) | 0.46% |  | 0.38% |
+| 41 min | CHF | Moderate | SECO Consumer Climate |  |  | -28 |
+| 41 min | NOK | Low | Unemployment Change (Jan) |  |  | 69.46K |
+| 41 min | NOK | Low | Unemployment Rate n.s.a. (Jan) |  | 2.10% | 1.90% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 616.14B |
 | 20:00 | MXN | Low | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
 | 20:00 | MXN | Low | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
@@ -35,8 +32,8 @@
 | 20:00 | BRL | Low | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 21:00 | SGD | Low | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
-| 21:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.4% |
 | 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
+| 21:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.4% |
 | 21:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 21:30 | USD | Low | Government Payrolls (Jan) |  |  | 52.0K |
 | 21:30 | USD | Low | Manufacturing Payrolls (Jan) |  | 5K | 6K |
