@@ -11,7 +11,7 @@
 | 08:30 | AUD | PPI (YoY) (Q4) | 4.1% |  | 3.8% |
 | 16:00 | EUR | Spanish Unemployment Change | 60.4K | -38.6K | -27.4K |
 | 16:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jan) | 0.46% |  | 0.38% |
-| 47 min | BRL | Industrial Production (YoY) (Dec) |  | 0.1% | 1.3% |
+| 20:00 | BRL | Industrial Production (YoY) (Dec) | 1.0% | 0.1% | 1.3% |
 | 20:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 21:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
 | 21:30 | USD | Participation Rate (Jan) |  |  | 62.5% |
