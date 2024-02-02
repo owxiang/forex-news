@@ -2,9 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 43 min | EUR | Low | Italian Car Registration (MoM) |  |  | -20.2% |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |
+| 44 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
+| 44 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 31.4K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 4.3K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -29.9K |

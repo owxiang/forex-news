@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 43 min | EUR | Italian Car Registration (MoM) |  |  | -20.2% |
 | 04:30 | USD | CFTC Aluminium speculative net positions |  |  | 4.3K |
 | 04:30 | USD | CFTC Copper speculative net positions |  |  | -29.9K |
 | 04:30 | USD | CFTC Corn speculative net positions |  |  | -219.2K |
