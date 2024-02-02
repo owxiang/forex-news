@@ -15,10 +15,10 @@
 | 15:45 | EUR | French Industrial Production (MoM) (Dec) | 1.1% | 0.2% | 0.5% |
 | 17:00 | NOK | Unemployment Change (Jan) | 69.84K |  | 69.51K |
 | 17:00 | NOK | Unemployment Rate n.s.a. (Jan) | 2.10% | 2.10% | 1.90% |
-| 19:30 | INR | FX Reserves, USD |  |  | 616.14B |
-| 20:00 | MXN | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
-| 20:00 | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
-| 20:00 | BRL | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
+| 17 min | INR | FX Reserves, USD |  |  | 616.14B |
+| 47 min | MXN | Gross Fixed Investments (YoY) (Nov) |  | 21.30% | 25.50% |
+| 47 min | MXN | Gross Fixed Investments (MoM) (Nov) |  |  | 1.90% |
+| 47 min | BRL | Industrial Production (MoM) (Dec) |  | 0.3% | 0.5% |
 | 21:00 | SGD | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
 | 21:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
 | 21:30 | USD | Government Payrolls (Jan) |  |  | 52.0K |
