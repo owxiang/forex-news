@@ -19,12 +19,14 @@
 | 20:00 | MXN | Gross Fixed Investments (YoY) (Nov) | 19.20% | 21.30% | 25.50% |
 | 20:00 | MXN | Gross Fixed Investments (MoM) (Nov) | -1.30% |  | 1.70% |
 | 20:00 | BRL | Industrial Production (MoM) (Dec) | 1.1% | 0.3% | 0.7% |
-| 32 min | SGD | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
-| 21:30 | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
-| 21:30 | USD | Government Payrolls (Jan) |  |  | 52.0K |
-| 21:30 | USD | Manufacturing Payrolls (Jan) |  | 5K | 6K |
-| 21:30 | USD | Payrolls Benchmark |  |  | 568.00 |
-| 21:30 | USD | Payrolls Benchmark, n.s.a. |  |  | -306.00K |
+| 20:30 | USD | All Car Sales (Jan) | 3.01M |  | 3.19M |
+| 20:30 | USD | All Truck Sales (Jan) | 11.99M |  | 12.92M |
+| 21:00 | SGD | S&P Global Singapore PMI (Jan) | 50.7 |  | 50.5 |
+| 14 min | USD | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
+| 14 min | USD | Government Payrolls (Jan) |  |  | 52.0K |
+| 14 min | USD | Manufacturing Payrolls (Jan) |  | 5K | 6K |
+| 14 min | USD | Payrolls Benchmark |  |  | 568.00 |
+| 14 min | USD | Payrolls Benchmark, n.s.a. |  |  | -306.00K |
 | 23:00 | USD | Durables Excluding Defense (MoM) (Dec) |  |  | 0.5% |
 | 23:00 | USD | Durables Excluding Transport (MoM) (Dec) |  |  | 0.6% |
 | 23:00 | USD | Factory orders ex transportation (MoM) (Dec) |  |  | 0.1% |

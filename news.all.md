@@ -30,19 +30,21 @@
 | 20:00 | BRL | Low | Industrial Production (MoM) (Dec) | 1.1% | 0.3% | 0.7% |
 | 20:00 | BRL | Moderate | Industrial Production (YoY) (Dec) | 1.0% | 0.1% | 1.3% |
 | 20:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 32 min | SGD | Low | S&P Global Singapore PMI (Jan) |  |  | 50.5 |
-| 21:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
-| 21:30 | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.4% |
-| 21:30 | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
-| 21:30 | USD | Low | Government Payrolls (Jan) |  |  | 52.0K |
-| 21:30 | USD | Low | Manufacturing Payrolls (Jan) |  | 5K | 6K |
-| 21:30 | USD | High | Nonfarm Payrolls (Jan) |  | 187K | 216K |
-| 21:30 | USD | Moderate | Participation Rate (Jan) |  |  | 62.5% |
-| 21:30 | USD | Low | Payrolls Benchmark |  |  | 568.00 |
-| 21:30 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | -306.00K |
-| 21:30 | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 155K | 164K |
-| 21:30 | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 7.1% |
-| 21:30 | USD | High | Unemployment Rate (Jan) |  | 3.8% | 3.7% |
+| 20:30 | USD | Low | All Car Sales (Jan) | 3.01M |  | 3.19M |
+| 20:30 | USD | Low | All Truck Sales (Jan) | 11.99M |  | 12.92M |
+| 21:00 | SGD | Low | S&P Global Singapore PMI (Jan) | 50.7 |  | 50.5 |
+| 14 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jan) |  | 4.1% | 4.1% |
+| 14 min | USD | High | Average Hourly Earnings (MoM) (Jan) |  | 0.3% | 0.4% |
+| 14 min | USD | Low | Average Weekly Hours (Jan) |  | 34.3 | 34.3 |
+| 14 min | USD | Low | Government Payrolls (Jan) |  |  | 52.0K |
+| 14 min | USD | Low | Manufacturing Payrolls (Jan) |  | 5K | 6K |
+| 14 min | USD | High | Nonfarm Payrolls (Jan) |  | 187K | 216K |
+| 14 min | USD | Moderate | Participation Rate (Jan) |  |  | 62.5% |
+| 14 min | USD | Low | Payrolls Benchmark |  |  | 568.00 |
+| 14 min | USD | Low | Payrolls Benchmark, n.s.a. |  |  | -306.00K |
+| 14 min | USD | Moderate | Private Nonfarm Payrolls (Jan) |  | 155K | 164K |
+| 14 min | USD | Moderate | U6 Unemployment Rate (Jan) |  |  | 7.1% |
+| 14 min | USD | High | Unemployment Rate (Jan) |  | 3.8% | 3.7% |
 | 23:00 | USD | Low | Durables Excluding Defense (MoM) (Dec) |  |  | 0.5% |
 | 23:00 | USD | Low | Durables Excluding Transport (MoM) (Dec) |  |  | 0.6% |
 | 23:00 | USD | Moderate | Factory Orders (MoM) (Dec) |  | 0.3% | 2.6% |
