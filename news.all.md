@@ -14,8 +14,8 @@
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jan) |  | 52.7 | 51.5 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jan) |  |  | 51.3 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Jan) |  | 53.0 | 52.9 |
-| 12:00 | IDR | Low | GDP (QoQ) |  | 0.41% | 1.60% |
 | 12:00 | IDR | Low | GDP (YoY) |  | 5.00% | 4.94% |
+| 12:00 | IDR | Low | GDP (QoQ) |  | 0.41% | 1.60% |
 | 12:00 | IDR | Low | GDP Annual |  |  | 5.31% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
@@ -39,11 +39,11 @@
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.6 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
+| 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
