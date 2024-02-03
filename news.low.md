@@ -26,11 +26,11 @@
 | 17:30 | EUR | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.6 |
 | 18:00 | NOK | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 18:00 | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
+| 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
