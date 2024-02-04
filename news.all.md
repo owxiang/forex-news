@@ -39,8 +39,8 @@
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.6 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
+| 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
