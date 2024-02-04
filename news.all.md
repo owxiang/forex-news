@@ -42,8 +42,8 @@
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
