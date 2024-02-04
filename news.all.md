@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | KRW | Low | FX Reserves - USD (Jan) | 415.76B |  | 420.15B |
-| 48 min | AUD | Low | Judo Bank Australia Services PMI |  | 47.9 | 47.1 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 49.1 | 47.9 | 47.1 |
 | 08:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 1.0% |
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
@@ -39,8 +39,8 @@
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.6 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
+| 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |

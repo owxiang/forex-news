@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | FX Reserves - USD (Jan) | 415.76B |  | 420.15B |
-| 48 min | AUD | Judo Bank Australia Services PMI |  | 47.9 | 47.1 |
+| 06:00 | AUD | Judo Bank Australia Services PMI | 49.1 | 47.9 | 47.1 |
 | 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 1.0% |
 | 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 0.1% |
@@ -26,8 +26,8 @@
 | 17:30 | EUR | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
 | Tentative | EUR | Spanish Consumer Confidence |  |  | 77.6 |
 | 18:00 | NOK | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 18:00 | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
+| 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
