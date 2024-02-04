@@ -10,8 +10,8 @@
 | 08:30 | AUD | Exports (MoM) |  |  | 1.7% |
 | 08:30 | AUD | Imports (MoM) |  |  | -7.9% |
 | 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jan) |  |  | 51.3 |
-| 12:00 | IDR | GDP (QoQ) |  | 0.41% | 1.60% |
 | 12:00 | IDR | GDP (YoY) |  | 5.00% | 4.94% |
+| 12:00 | IDR | GDP (QoQ) |  | 0.41% | 1.60% |
 | 12:00 | IDR | GDP Annual |  |  | 5.31% |
 | 13:00 | INR | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
 | 13:00 | SGD | Retail Sales (MoM) (Dec) |  |  | 0.5% |
