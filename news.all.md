@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | FX Reserves - USD (Jan) |  |  | 420.15B |
+| 45 min | KRW | Low | FX Reserves - USD (Jan) |  |  | 420.15B |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI |  | 47.9 | 47.1 |
 | 08:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 1.0% |
@@ -18,8 +18,8 @@
 | 12:00 | IDR | Low | GDP (YoY) |  | 5.00% | 4.94% |
 | 12:00 | IDR | Low | GDP Annual |  |  | 5.31% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 2.5% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
 | 15:00 | EUR | Low | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
 | 15:00 | EUR | Low | German Imports (MoM) (Dec) |  | -1.8% | 1.9% |
 | 15:00 | EUR | Moderate | German Trade Balance (Dec) |  | 19.8B | 20.4B |
@@ -39,8 +39,8 @@
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
 | Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.6 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
+| 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
