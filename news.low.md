@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | FX Reserves - USD (Jan) | 415.76B |  | 420.15B |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 49.1 | 47.9 | 47.1 |
-| 08:00 | AUD | MI Inflation Gauge (MoM) |  |  | 1.0% |
-| 08:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
+| 46 min | AUD | MI Inflation Gauge (MoM) |  |  | 1.0% |
+| 46 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
 | 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 0.1% |
 | 08:30 | AUD | Exports (MoM) |  |  | 1.7% |
 | 08:30 | AUD | Imports (MoM) |  |  | -7.9% |

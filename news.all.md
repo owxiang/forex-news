@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | KRW | Low | FX Reserves - USD (Jan) | 415.76B |  | 420.15B |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 49.1 | 47.9 | 47.1 |
-| 08:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 1.0% |
-| 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
+| 46 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 46 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 1.0% |
+| 46 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 0.1% |
 | 08:30 | AUD | Low | Exports (MoM) |  |  | 1.7% |
 | 08:30 | AUD | Low | Imports (MoM) |  |  | -7.9% |
