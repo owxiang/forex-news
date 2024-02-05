@@ -14,8 +14,8 @@
 | 12:08 | IDR | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | GDP Annual | 5.05% |  | 5.31% |
 | 13:00 | INR | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
-| 13:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 13:00 | SGD | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
+| 13:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 15:00 | EUR | German Exports (MoM) (Dec) | -4.6% | -2.0% | 3.5% |
 | 15:00 | EUR | German Imports (MoM) (Dec) | -6.7% | -1.5% | 1.5% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Jan) | 49.2 |  | 49.0 |
@@ -28,13 +28,9 @@
 | 18:00 | NOK | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
 | 18:00 | EUR | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
 | 18:00 | EUR | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
-| 43 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 43 min | EUR | German Car Registration (MoM) |  |  | -1.6% |
-| 43 min | EUR | German Car Registration (YoY) |  |  | -23.0% |
-| 43 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 19:30 | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
-| 19:30 | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
+| 17 min | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
 | 21:00 | BRL | S&P Global Composite PMI (Jan) |  |  | 50.0 |
 | 21:00 | BRL | S&P Global Services PMI (Jan) |  |  | 50.5 |
 | 21:15 | CAD | Reserve Assets Total (Jan) |  |  | 118.3B |
