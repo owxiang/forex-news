@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | Trade Balance |  | 10.510B | 11.437B |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI (Jan) |  | 52.7 | 51.5 |
-| 09:45 | CNY | Caixin Services PMI (Jan) |  | 53.0 | 52.9 |
+| 08:30 | AUD | Trade Balance | 10.959B | 10.510B | 11.764B |
+| 08:30 | JPY | au Jibun Bank Japan Services PMI (Jan) | 53.1 | 52.7 | 51.5 |
+| 35 min | CNY | Caixin Services PMI (Jan) |  | 53.0 | 52.9 |
 | 15:00 | EUR | German Trade Balance (Dec) |  | 19.8B | 20.4B |
 | 16:15 | EUR | HCOB Spain Services PMI (Jan) |  | 52.2 | 51.5 |
 | 16:45 | EUR | HCOB Italy Services PMI (Jan) |  | 50.7 | 49.8 |

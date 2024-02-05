@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | FX Reserves - USD (Jan) | 415.76B |  | 420.15B |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 49.1 | 47.9 | 47.1 |
-| 46 min | AUD | MI Inflation Gauge (MoM) |  |  | 1.0% |
-| 46 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 2.4% |
-| 08:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 0.1% |
-| 08:30 | AUD | Exports (MoM) |  |  | 1.7% |
-| 08:30 | AUD | Imports (MoM) |  |  | -7.9% |
-| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jan) |  |  | 51.3 |
-| 12:00 | IDR | GDP (QoQ) |  | 0.41% | 1.60% |
+| 08:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 1.0% |
+| 08:00 | NZD | ANZ Commodity Price Index (MoM) | 2.2% |  | 2.4% |
+| 08:30 | AUD | ANZ Job Advertisements (MoM) | 1.7% |  | 0.6% |
+| 08:30 | AUD | Exports (MoM) | 1.8% |  | 1.7% |
+| 08:30 | AUD | Imports (MoM) | 4.8% |  | -7.9% |
+| 08:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jan) | 49.9 |  | 51.3 |
 | 12:00 | IDR | GDP (YoY) |  | 5.00% | 4.94% |
+| 12:00 | IDR | GDP (QoQ) |  | 0.41% | 1.60% |
 | 12:00 | IDR | GDP Annual |  |  | 5.31% |
 | 13:00 | INR | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
 | 13:00 | SGD | Retail Sales (MoM) (Dec) |  |  | 0.5% |
@@ -29,8 +29,8 @@
 | 18:00 | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
