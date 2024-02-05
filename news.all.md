@@ -17,16 +17,16 @@
 | 12:07 | IDR | Low | GDP (QoQ) (Q4) | 0.45% | 0.41% | 1.60% |
 | 12:08 | IDR | Low | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | Low | GDP Annual | 5.05% |  | 5.31% |
-| 41 min | INR | Low | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
-| 41 min | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
-| 41 min | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 2.5% |
+| 13:00 | INR | Low | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
 | 15:00 | EUR | Low | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
 | 15:00 | EUR | Low | German Imports (MoM) (Dec) |  | -1.5% | 1.9% |
-| 15:00 | EUR | Moderate | German Trade Balance (Dec) |  | 18.8B | 20.4B |
+| 15:00 | EUR | Moderate | German Trade Balance (Dec) |  | 19.0B | 20.4B |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jan) |  |  | 49.0 |
-| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 52.1 | 51.5 |
+| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 52.2 | 51.5 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
-| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.8 | 49.8 |
+| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.7 | 49.8 |
 | 16:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 44.2 | 44.8 |
 | 16:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 45.0 | 45.7 |
 | 16:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.1 | 47.4 |

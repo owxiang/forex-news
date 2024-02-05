@@ -13,9 +13,9 @@
 | 12:07 | IDR | GDP (QoQ) (Q4) | 0.45% | 0.41% | 1.60% |
 | 12:08 | IDR | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | GDP Annual | 5.05% |  | 5.31% |
-| 41 min | INR | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
-| 41 min | SGD | Retail Sales (MoM) (Dec) |  |  | 0.5% |
-| 41 min | SGD | Retail Sales (YoY) (Dec) |  |  | 2.5% |
+| 13:00 | INR | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
+| 13:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
+| 13:00 | SGD | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
 | 15:00 | EUR | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
 | 15:00 | EUR | German Imports (MoM) (Dec) |  | -1.5% | 1.9% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Jan) |  |  | 49.0 |
