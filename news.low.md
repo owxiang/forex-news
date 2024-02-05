@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.235% |  | 5.210% |
 | 00:30 | USD | 6-Month Bill Auction | 5.045% |  | 4.985% |
-| 39 min | USD | Loan Officer Survey |  |  |  |
+| 03:00 | USD | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Average Cash Earnings (YoY) (Dec) |  | 1.3% | 0.2% |
 | 07:30 | JPY | Overall wage income of employees (Dec) |  |  | 0.2% |
 | 07:30 | JPY | Overtime Pay (YoY) (Dec) |  |  | 0.90% |
@@ -21,8 +21,8 @@
 | 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
 | 18:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 18:00 | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
+| 18:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
