@@ -13,9 +13,9 @@
 | 08:30 | AUD | Moderate | Trade Balance | 10.959B | 10.510B | 11.764B |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jan) | 53.1 | 52.7 | 51.5 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jan) | 49.9 |  | 51.3 |
-| 35 min | CNY | Moderate | Caixin Services PMI (Jan) |  | 53.0 | 52.9 |
-| 12:00 | IDR | Low | GDP (YoY) |  | 5.00% | 4.94% |
+| 09:45 | CNY | Moderate | Caixin Services PMI (Jan) | 52.7 | 53.0 | 52.9 |
 | 12:00 | IDR | Low | GDP (QoQ) |  | 0.41% | 1.60% |
+| 12:00 | IDR | Low | GDP (YoY) |  | 5.00% | 4.94% |
 | 12:00 | IDR | Low | GDP Annual |  |  | 5.31% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
