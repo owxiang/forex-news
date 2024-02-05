@@ -18,22 +18,22 @@
 | 12:08 | IDR | Low | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | Low | GDP Annual | 5.05% |  | 5.31% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 15:00 | EUR | Low | German Exports (MoM) (Dec) | -4.6% | -2.0% | 3.5% |
 | 15:00 | EUR | Low | German Imports (MoM) (Dec) | -6.7% | -1.5% | 1.5% |
 | 15:00 | EUR | Moderate | German Trade Balance (Dec) | 22.2B | 19.0B | 20.7B |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jan) | 49.2 |  | 49.0 |
-| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 52.2 | 51.5 |
-| 16:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
-| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.7 | 49.8 |
-| 16:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 44.2 | 44.8 |
-| 16:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 45.0 | 45.7 |
-| 16:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.1 | 47.4 |
-| 16:55 | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 47.6 | 49.3 |
-| 17:00 | GBP | Low | Car Registration (YoY) |  |  | 9.8% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 47.9 | 47.6 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 48.4 | 48.8 |
+| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) | 52.1 | 52.2 | 51.5 |
+| 26 min | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
+| 26 min | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.7 | 49.8 |
+| 31 min | EUR | Low | HCOB France Composite PMI (Jan) |  | 44.2 | 44.8 |
+| 31 min | EUR | Moderate | HCOB France Services PMI (Jan) |  | 45.0 | 45.7 |
+| 36 min | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.1 | 47.4 |
+| 36 min | EUR | Moderate | HCOB Germany Services PMI (Jan) |  | 47.6 | 49.3 |
+| 41 min | GBP | Low | Car Registration (YoY) |  |  | 9.8% |
+| 41 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) |  | 47.9 | 47.6 |
+| 41 min | EUR | Moderate | HCOB Eurozone Services PMI (Jan) |  | 48.4 | 48.8 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jan) |  | 52.5 | 52.1 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jan) |  | 53.8 | 53.4 |
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
@@ -42,8 +42,8 @@
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
+| 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
