@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | 3-Month Bill Auction | 5.235% |  | 5.210% |
 | 00:30 | USD | 6-Month Bill Auction | 5.045% |  | 4.985% |
-| 03:00 | USD | Loan Officer Survey |  |  |  |
+| 39 min | USD | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Average Cash Earnings (YoY) (Dec) |  | 1.3% | 0.2% |
 | 07:30 | JPY | Overall wage income of employees (Dec) |  |  | 0.2% |
 | 07:30 | JPY | Overtime Pay (YoY) (Dec) |  |  | 0.90% |
