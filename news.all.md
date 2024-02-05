@@ -5,12 +5,12 @@
 | 05:00 | KRW | Low | FX Reserves - USD (Jan) | 415.76B |  | 420.15B |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 49.1 | 47.9 | 47.1 |
 | 08:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 08:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 1.0% |
+| 08:00 | AUD | Low | MI Inflation Gauge (MoM) (Jan) | 0.3% |  | 1.0% |
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.2% |  | 2.4% |
-| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | 1.7% |  | 0.6% |
-| 08:30 | AUD | Low | Exports (MoM) | 1.8% |  | 1.7% |
-| 08:30 | AUD | Low | Imports (MoM) | 4.8% |  | -8.4% |
-| 08:30 | AUD | Moderate | Trade Balance | 10.959B | 10.510B | 11.764B |
+| 08:30 | AUD | Low | ANZ Job Advertisements (MoM) (Jan) | 1.7% |  | 0.6% |
+| 08:30 | AUD | Low | Exports (MoM) (Dec) | 1.8% |  | 1.7% |
+| 08:30 | AUD | Low | Imports (MoM) (Dec) | 4.8% |  | -8.4% |
+| 08:30 | AUD | Moderate | Trade Balance (Dec) | 10.959B | 10.510B | 11.764B |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jan) | 53.1 | 52.7 | 51.5 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jan) | 49.9 |  | 51.3 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Jan) | 52.7 | 53.0 | 52.9 |
@@ -20,10 +20,10 @@
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
-| 40 min | EUR | Low | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
-| 40 min | EUR | Low | German Imports (MoM) (Dec) |  | -1.5% | 1.9% |
-| 40 min | EUR | Moderate | German Trade Balance (Dec) |  | 19.0B | 20.4B |
-| 55 min | ZAR | Low | S&P Global South Africa PMI (Jan) |  |  | 49.0 |
+| 15:00 | EUR | Low | German Exports (MoM) (Dec) | -4.6% | -2.0% | 3.5% |
+| 15:00 | EUR | Low | German Imports (MoM) (Dec) | -6.7% | -1.5% | 1.5% |
+| 15:00 | EUR | Moderate | German Trade Balance (Dec) | 22.2B | 19.0B | 20.7B |
+| 15:15 | ZAR | Low | S&P Global South Africa PMI (Jan) | 49.2 |  | 49.0 |
 | 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 52.2 | 51.5 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
 | 16:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.7 | 49.8 |
@@ -37,7 +37,7 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jan) |  | 52.5 | 52.1 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jan) |  | 53.8 | 53.4 |
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
-| Tentative | EUR | Low | Spanish Consumer Confidence |  |  | 77.6 |
+| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) |  |  | 0.50% |
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
@@ -50,8 +50,6 @@
 | 21:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 50.0 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Jan) |  |  | 50.5 |
 | 21:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 118.3B |
-| 21:30 | USD | Low | Payrolls Benchmark |  |  | 568.00 |
-| 21:30 | USD | Low | Payrolls Benchmark, n.s.a. |  |  | -306.00K |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.239% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.687% |
@@ -63,4 +61,4 @@
 | 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  |  | 52.8 |
 | 23:00 | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 52.0 | 50.6 |
 | 23:00 | USD | High | ISM Non-Manufacturing Prices (Jan) |  |  | 57.4 |
-| 23:00 | USD | Low | Total Vehicle Sales |  | 15.70M | 15.83M |
+| 23:00 | USD | Low | Total Vehicle Sales (Jan) |  | 15.70M | 15.83M |
