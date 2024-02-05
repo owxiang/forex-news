@@ -26,18 +26,18 @@
 | 17:30 | EUR | Sentix Investor Confidence (Feb) | -12.9 | -15.0 | -15.8 |
 | 18:00 | GBP | United Kingdom New Passenger Cars Registration (Jan) | 142,876.0 |  | 141,092.0 |
 | 18:00 | NOK | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
-| 18:00 | EUR | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
 | 18:00 | EUR | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
+| 18:00 | EUR | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Dec) | -5.80B | -7.43B | -1.60B |
 | 19:30 | BRL | Foreign direct investment (USD) (Dec) | -0.39B | 5.85B | 7.80B |
-| 31 min | BRL | S&P Global Composite PMI (Jan) |  |  | 50.0 |
-| 31 min | BRL | S&P Global Services PMI (Jan) |  |  | 50.5 |
-| 46 min | CAD | Reserve Assets Total (Jan) |  |  | 118.3B |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.239% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.822% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.687% |
+| 21:00 | BRL | S&P Global Composite PMI (Jan) | 53.2 |  | 50.0 |
+| 21:00 | BRL | S&P Global Services PMI (Jan) | 53.1 |  | 50.5 |
+| 21:15 | CAD | Reserve Assets Total (Jan) |  |  | 118.3B |
+| 38 min | EUR | French 12-Month BTF Auction |  |  | 3.239% |
+| 38 min | EUR | French 3-Month BTF Auction |  |  | 3.822% |
+| 38 min | EUR | French 6-Month BTF Auction |  |  | 3.687% |
 | 23:00 | USD | CB Employment Trends Index (Jan) |  |  | 113.15 |
 | 23:00 | USD | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.6 |
-| 23:00 | USD | ISM Non-Manufacturing New Orders (Jan) |  |  | 52.8 |
+| 23:00 | USD | ISM Non-Manufacturing New Orders (Jan) |  | 54.8 | 52.8 |
 | 23:00 | USD | Total Vehicle Sales (Jan) |  | 15.70M | 15.83M |

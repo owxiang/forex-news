@@ -39,23 +39,23 @@
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) | -12.9 | -15.0 | -15.8 |
 | 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jan) | 142,876.0 |  | 141,092.0 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
-| 18:00 | EUR | Low | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
+| 18:00 | EUR | Low | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) | -5.80B | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) | -0.39B | 5.85B | 7.80B |
-| 31 min | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 50.0 |
-| 31 min | BRL | Low | S&P Global Services PMI (Jan) |  |  | 50.5 |
-| 46 min | CAD | Low | Reserve Assets Total (Jan) |  |  | 118.3B |
-| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.239% |
-| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
-| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.687% |
+| 21:00 | BRL | Low | S&P Global Composite PMI (Jan) | 53.2 |  | 50.0 |
+| 21:00 | BRL | Low | S&P Global Services PMI (Jan) | 53.1 |  | 50.5 |
+| 21:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 118.3B |
+| 38 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.239% |
+| 38 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
+| 38 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.687% |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.3 | 50.9 |
 | 22:45 | USD | High | S&P Global Services PMI (Jan) |  | 52.9 | 51.4 |
 | 23:00 | USD | Low | CB Employment Trends Index (Jan) |  |  | 113.15 |
 | 23:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.6 |
-| 23:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  |  | 43.3 |
-| 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  |  | 52.8 |
+| 23:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  | 49.4 | 43.3 |
+| 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  | 54.8 | 52.8 |
 | 23:00 | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 52.0 | 50.6 |
-| 23:00 | USD | High | ISM Non-Manufacturing Prices (Jan) |  |  | 57.4 |
+| 23:00 | USD | High | ISM Non-Manufacturing Prices (Jan) |  | 56.5 | 57.4 |
 | 23:00 | USD | Low | Total Vehicle Sales (Jan) |  | 15.70M | 15.83M |

@@ -15,4 +15,4 @@
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Jan) | 52.9 | 52.5 | 52.1 |
 | 17:30 | GBP | S&P Global/CIPS UK Services PMI (Jan) | 54.3 | 53.8 | 53.4 |
 | 22:45 | USD | S&P Global Composite PMI (Jan) |  | 52.3 | 50.9 |
-| 23:00 | USD | ISM Non-Manufacturing Employment (Jan) |  |  | 43.3 |
+| 23:00 | USD | ISM Non-Manufacturing Employment (Jan) |  | 49.4 | 43.3 |
