@@ -7,12 +7,12 @@
 | 01:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 03:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 07:30 | JPY | Low | Average Cash Earnings (YoY) (Dec) |  | 1.3% | 0.2% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Dec) |  | -2.0% | -2.9% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Dec) |  | 0.2% | -1.0% |
-| 07:30 | JPY | Low | Overall wage income of employees (Dec) |  |  | 0.2% |
-| 07:30 | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 0.90% |
-| 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) |  | 1.2% | 1.9% |
+| 14 min | JPY | Low | Average Cash Earnings (YoY) (Dec) |  | 1.3% | 0.2% |
+| 14 min | JPY | Moderate | Household Spending (YoY) (Dec) |  | -2.0% | -2.9% |
+| 14 min | JPY | Moderate | Household Spending (MoM) (Dec) |  | 0.2% | -1.0% |
+| 14 min | JPY | Low | Overall wage income of employees (Dec) |  |  | 0.2% |
+| 14 min | JPY | Low | Overtime Pay (YoY) (Dec) |  |  | 0.90% |
+| 45 min | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) |  | 1.2% | 1.9% |
 | 08:30 | AUD | Moderate | Retail Sales (MoM) (Dec) |  | 0.1% | 1.6% |
 | 08:30 | AUD | Low | Retail Sales (QoQ) (Q4) |  |  | 0.2% |
 | 11:30 | AUD | High | RBA Interest Rate Decision (Feb) |  | 4.35% | 4.35% |
