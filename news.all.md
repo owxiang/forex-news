@@ -18,8 +18,8 @@
 | 12:08 | IDR | Low | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | Low | GDP Annual | 5.05% |  | 5.31% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 13:00 | SGD | Low | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
+| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 15:00 | EUR | Low | German Exports (MoM) (Dec) | -4.6% | -2.0% | 3.5% |
 | 15:00 | EUR | Low | German Imports (MoM) (Dec) | -6.7% | -1.5% | 1.5% |
 | 15:00 | EUR | Moderate | German Trade Balance (Dec) | 22.2B | 19.0B | 20.7B |
@@ -39,24 +39,25 @@
 | 17:30 | EUR | Low | Sentix Investor Confidence (Feb) | -12.9 | -15.0 | -15.8 |
 | 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jan) | 142,876.0 |  | 141,092.0 |
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
-| 18:00 | EUR | Low | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
 | 18:00 | EUR | Low | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
+| 18:00 | EUR | Low | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) | -5.80B | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) | -0.39B | 5.85B | 7.80B |
 | 21:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:00 | BRL | Low | S&P Global Composite PMI (Jan) | 53.2 |  | 50.0 |
 | 21:00 | BRL | Low | S&P Global Services PMI (Jan) | 53.1 |  | 50.5 |
+| 21:15 | CAD | Low | Reserve Assets Total (Jan) | 116.3B |  | 118.3B |
 | 21:55 | EUR | Low | French 12-Month BTF Auction | 3.358% |  | 3.239% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.825% |  | 3.822% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.739% |  | 3.687% |
-| 31 min | USD | Moderate | S&P Global Composite PMI (Jan) |  | 52.3 | 50.9 |
-| 31 min | USD | High | S&P Global Services PMI (Jan) |  | 52.9 | 51.4 |
-| 46 min | USD | Low | CB Employment Trends Index (Jan) |  |  | 113.15 |
-| 46 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 46 min | USD | Low | ISM Non-Manufacturing Business Activity (Jan) |  |  | 56.6 |
-| 46 min | USD | Moderate | ISM Non-Manufacturing Employment (Jan) |  | 49.4 | 43.3 |
-| 46 min | USD | Low | ISM Non-Manufacturing New Orders (Jan) |  | 54.8 | 52.8 |
-| 46 min | USD | High | ISM Non-Manufacturing PMI (Jan) |  | 52.0 | 50.6 |
-| 46 min | USD | High | ISM Non-Manufacturing Prices (Jan) |  | 56.5 | 57.4 |
-| 46 min | USD | Low | Total Vehicle Sales (Jan) |  | 15.70M | 15.83M |
+| 22:45 | USD | Moderate | S&P Global Composite PMI (Jan) | 52.0 | 52.3 | 50.9 |
+| 22:45 | USD | High | S&P Global Services PMI (Jan) | 52.5 | 52.9 | 51.4 |
+| 23:00 | USD | Low | CB Employment Trends Index (Jan) | 113.71 |  | 112.91 |
+| 23:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | Low | ISM Non-Manufacturing Business Activity (Jan) | 55.8 |  | 55.8 |
+| 23:00 | USD | Moderate | ISM Non-Manufacturing Employment (Jan) | 50.5 | 49.4 | 43.8 |
+| 23:00 | USD | Low | ISM Non-Manufacturing New Orders (Jan) | 55.0 | 54.8 | 52.8 |
+| 23:00 | USD | High | ISM Non-Manufacturing PMI (Jan) | 53.4 | 52.0 | 50.5 |
+| 23:00 | USD | High | ISM Non-Manufacturing Prices (Jan) | 64.0 | 56.5 | 57.4 |
+| 23:00 | USD | Low | Total Vehicle Sales (Jan) | 15.00M | 15.70M | 16.12M |
