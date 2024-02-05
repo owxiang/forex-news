@@ -23,14 +23,15 @@
 | 16:50 | EUR | HCOB France Composite PMI (Jan) | 44.6 | 44.2 | 44.8 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Jan) | 47.0 | 47.1 | 47.4 |
 | 17:00 | GBP | Car Registration (YoY) (Jan) | 8.0% |  | 9.8% |
-| 14 min | EUR | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
-| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 44 min | NOK | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 44 min | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
-| 44 min | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
-| 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
+| 17:30 | EUR | Sentix Investor Confidence (Feb) | -12.9 | -15.0 | -15.8 |
+| 18:00 | GBP | United Kingdom New Passenger Cars Registration (Jan) | 142,876.0 |  | 141,092.0 |
+| 18:00 | NOK | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
+| 18:00 | EUR | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
+| 18:00 | EUR | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
+| 43 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 43 min | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 43 min | EUR | German Car Registration (YoY) |  |  | -23.0% |
+| 43 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |

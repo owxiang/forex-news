@@ -34,16 +34,17 @@
 | 17:00 | GBP | Low | Car Registration (YoY) (Jan) | 8.0% |  | 9.8% |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jan) | 47.9 | 47.9 | 47.6 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jan) | 48.4 | 48.4 | 48.8 |
-| 14 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jan) |  | 52.5 | 52.1 |
-| 14 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jan) |  | 53.8 | 53.4 |
-| 14 min | EUR | Low | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
-| 44 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 44 min | NOK | Low | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 44 min | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
-| 44 min | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
-| 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
-| 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jan) | 52.9 | 52.5 | 52.1 |
+| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jan) | 54.3 | 53.8 | 53.4 |
+| 17:30 | EUR | Low | Sentix Investor Confidence (Feb) | -12.9 | -15.0 | -15.8 |
+| 18:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Jan) | 142,876.0 |  | 141,092.0 |
+| 18:00 | NOK | Low | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
+| 18:00 | EUR | Low | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
+| 18:00 | EUR | Low | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
+| 43 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 43 min | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
+| 43 min | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
+| 43 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |

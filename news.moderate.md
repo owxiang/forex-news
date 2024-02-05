@@ -12,7 +12,7 @@
 | 16:55 | EUR | HCOB Germany Services PMI (Jan) | 47.7 | 47.6 | 49.3 |
 | 17:00 | EUR | HCOB Eurozone Composite PMI (Jan) | 47.9 | 47.9 | 47.6 |
 | 17:00 | EUR | HCOB Eurozone Services PMI (Jan) | 48.4 | 48.4 | 48.8 |
-| 14 min | GBP | S&P Global/CIPS UK Composite PMI (Jan) |  | 52.5 | 52.1 |
-| 14 min | GBP | S&P Global/CIPS UK Services PMI (Jan) |  | 53.8 | 53.4 |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Jan) | 52.9 | 52.5 | 52.1 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Jan) | 54.3 | 53.8 | 53.4 |
 | 22:45 | USD | S&P Global Composite PMI (Jan) |  | 52.3 | 50.9 |
 | 23:00 | USD | ISM Non-Manufacturing Employment (Jan) |  |  | 43.3 |
