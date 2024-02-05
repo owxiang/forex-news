@@ -1,19 +1,16 @@
-## 05 February 2024 - Moderate Impact Forex News
+## 06 February 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | AUD | Trade Balance (Dec) | 10.959B | 10.510B | 11.764B |
-| 08:30 | JPY | au Jibun Bank Japan Services PMI (Jan) | 53.1 | 52.7 | 51.5 |
-| 09:45 | CNY | Caixin Services PMI (Jan) | 52.7 | 53.0 | 52.9 |
-| 15:00 | EUR | German Trade Balance (Dec) | 22.2B | 19.0B | 20.7B |
-| 16:15 | EUR | HCOB Spain Services PMI (Jan) | 52.1 | 52.2 | 51.5 |
-| 16:45 | EUR | HCOB Italy Services PMI (Jan) | 51.2 | 50.7 | 49.8 |
-| 16:50 | EUR | HCOB France Services PMI (Jan) | 45.4 | 45.0 | 45.7 |
-| 16:55 | EUR | HCOB Germany Services PMI (Jan) | 47.7 | 47.6 | 49.3 |
-| 17:00 | EUR | HCOB Eurozone Composite PMI (Jan) | 47.9 | 47.9 | 47.6 |
-| 17:00 | EUR | HCOB Eurozone Services PMI (Jan) | 48.4 | 48.4 | 48.8 |
-| 17:30 | GBP | S&P Global/CIPS UK Composite PMI (Jan) | 52.9 | 52.5 | 52.1 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI (Jan) | 54.3 | 53.8 | 53.4 |
-| 21:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 22:45 | USD | S&P Global Composite PMI (Jan) | 52.0 | 52.3 | 50.9 |
-| 23:00 | USD | ISM Non-Manufacturing Employment (Jan) | 50.5 | 49.4 | 43.8 |
+| 01:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 03:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 07:30 | JPY | Household Spending (YoY) (Dec) |  | -2.0% | -2.9% |
+| 07:30 | JPY | Household Spending (MoM) (Dec) |  | 0.2% | -1.0% |
+| 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) |  | 1.2% | 1.9% |
+| 08:30 | AUD | Retail Sales (MoM) (Dec) |  | 0.1% | 1.6% |
+| 11:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 11:30 | AUD | RBA Rate Statement |  |  |  |
+| 15:00 | EUR | German Factory Orders (MoM) (Dec) |  | -0.1% | 0.3% |
+| 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Jan) |  | 47.2 | 46.8 |
+| 21:30 | CAD | Building Permits (MoM) (Dec) |  | 1.2% | -3.9% |
+| 23:00 | CAD | Ivey PMI (Jan) |  | 55.0 | 56.3 |
