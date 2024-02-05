@@ -9,24 +9,24 @@
 | 08:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 2.2% |  | 2.4% |
 | 08:30 | AUD | Low | ANZ Job Advertisements (MoM) | 1.7% |  | 0.6% |
 | 08:30 | AUD | Low | Exports (MoM) | 1.8% |  | 1.7% |
-| 08:30 | AUD | Low | Imports (MoM) | 4.8% |  | -7.9% |
+| 08:30 | AUD | Low | Imports (MoM) | 4.8% |  | -8.4% |
 | 08:30 | AUD | Moderate | Trade Balance | 10.959B | 10.510B | 11.764B |
 | 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jan) | 53.1 | 52.7 | 51.5 |
 | 08:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jan) | 49.9 |  | 51.3 |
 | 09:45 | CNY | Moderate | Caixin Services PMI (Jan) | 52.7 | 53.0 | 52.9 |
-| 43 min | IDR | Low | GDP (QoQ) |  | 0.41% | 1.60% |
-| 43 min | IDR | Low | GDP (YoY) |  | 5.00% | 4.94% |
-| 43 min | IDR | Low | GDP Annual |  |  | 5.31% |
-| 13:00 | INR | Low | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 2.5% |
-| 13:00 | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
+| 12:07 | IDR | Low | GDP (QoQ) (Q4) | 0.45% | 0.41% | 1.60% |
+| 12:08 | IDR | Low | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
+| 12:08 | IDR | Low | GDP Annual | 5.05% |  | 5.31% |
+| 41 min | INR | Low | S&P Global India Services PMI (Jan) |  | 60.0 | 59.0 |
+| 41 min | SGD | Low | Retail Sales (MoM) (Dec) |  |  | 0.5% |
+| 41 min | SGD | Low | Retail Sales (YoY) (Dec) |  |  | 2.5% |
 | 15:00 | EUR | Low | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
-| 15:00 | EUR | Low | German Imports (MoM) (Dec) |  | -1.8% | 1.9% |
-| 15:00 | EUR | Moderate | German Trade Balance (Dec) |  | 19.8B | 20.4B |
+| 15:00 | EUR | Low | German Imports (MoM) (Dec) |  | -1.5% | 1.9% |
+| 15:00 | EUR | Moderate | German Trade Balance (Dec) |  | 18.8B | 20.4B |
 | 15:15 | ZAR | Low | S&P Global South Africa PMI (Jan) |  |  | 49.0 |
-| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 52.2 | 51.5 |
+| 16:15 | EUR | Moderate | HCOB Spain Services PMI (Jan) |  | 52.1 | 51.5 |
 | 16:45 | EUR | Low | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
-| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.7 | 49.8 |
+| 16:45 | EUR | Moderate | HCOB Italy Services PMI (Jan) |  | 50.8 | 49.8 |
 | 16:50 | EUR | Low | HCOB France Composite PMI (Jan) |  | 44.2 | 44.8 |
 | 16:50 | EUR | Moderate | HCOB France Services PMI (Jan) |  | 45.0 | 45.7 |
 | 16:55 | EUR | Low | HCOB Germany Composite PMI (Jan) |  | 47.1 | 47.4 |
@@ -42,8 +42,8 @@
 | 18:00 | EUR | Low | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
+| 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
 | 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Low | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
