@@ -18,8 +18,8 @@
 | 12:08 | IDR | Low | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | Low | GDP Annual | 5.05% |  | 5.31% |
 | 13:00 | INR | Low | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
-| 13:00 | SGD | Low | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
 | 13:00 | SGD | Low | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
+| 13:00 | SGD | Low | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
 | 15:00 | EUR | Low | German Exports (MoM) (Dec) | -4.6% | -2.0% | 3.5% |
 | 15:00 | EUR | Low | German Imports (MoM) (Dec) | -6.7% | -1.5% | 1.5% |
 | 15:00 | EUR | Moderate | German Trade Balance (Dec) | 22.2B | 19.0B | 20.7B |
@@ -41,12 +41,12 @@
 | 18:00 | NOK | Low | House Price Index (YoY) (Jan) | 1.40% |  | 0.90% |
 | 18:00 | EUR | Low | PPI (YoY) (Dec) | -10.6% | -10.5% | -8.8% |
 | 18:00 | EUR | Low | PPI (MoM) (Dec) | -0.8% | -0.8% | -0.3% |
-| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 17 min | BRL | Low | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
-| 17 min | BRL | Low | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
-| 21:00 | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 50.0 |
-| 21:00 | BRL | Low | S&P Global Services PMI (Jan) |  |  | 50.5 |
-| 21:15 | CAD | Low | Reserve Assets Total (Jan) |  |  | 118.3B |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 19:30 | BRL | Low | Current Account (USD) (Dec) | -5.80B | -7.43B | -1.60B |
+| 19:30 | BRL | Low | Foreign direct investment (USD) (Dec) | -0.39B | 5.85B | 7.80B |
+| 31 min | BRL | Low | S&P Global Composite PMI (Jan) |  |  | 50.0 |
+| 31 min | BRL | Low | S&P Global Services PMI (Jan) |  |  | 50.5 |
+| 46 min | CAD | Low | Reserve Assets Total (Jan) |  |  | 118.3B |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.239% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.822% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.687% |
