@@ -14,23 +14,23 @@
 | 12:08 | IDR | GDP (YoY) (Q4) | 5.04% | 5.00% | 4.94% |
 | 12:08 | IDR | GDP Annual | 5.05% |  | 5.31% |
 | 13:00 | INR | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
-| 13:00 | SGD | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
 | 13:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
+| 13:00 | SGD | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
 | 15:00 | EUR | German Exports (MoM) (Dec) | -4.6% | -2.0% | 3.5% |
 | 15:00 | EUR | German Imports (MoM) (Dec) | -6.7% | -1.5% | 1.5% |
 | 15:15 | ZAR | S&P Global South Africa PMI (Jan) | 49.2 |  | 49.0 |
-| 26 min | EUR | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
-| 31 min | EUR | HCOB France Composite PMI (Jan) |  | 44.2 | 44.8 |
-| 36 min | EUR | HCOB Germany Composite PMI (Jan) |  | 47.1 | 47.4 |
-| 41 min | GBP | Car Registration (YoY) |  |  | 9.8% |
-| 17:30 | EUR | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
-| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | NOK | House Price Index (YoY) (Jan) |  |  | 0.50% |
-| 18:00 | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
-| 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
+| 16:45 | EUR | HCOB Italy Composite PMI (Jan) | 50.7 |  | 48.6 |
+| 16:50 | EUR | HCOB France Composite PMI (Jan) | 44.6 | 44.2 | 44.8 |
+| 16:55 | EUR | HCOB Germany Composite PMI (Jan) | 47.0 | 47.1 | 47.4 |
+| 17:00 | GBP | Car Registration (YoY) (Jan) | 8.0% |  | 9.8% |
+| 14 min | EUR | Sentix Investor Confidence (Feb) |  | -15.0 | -15.8 |
+| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 44 min | NOK | House Price Index (YoY) (Jan) |  |  | 0.50% |
+| 44 min | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
+| 44 min | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
