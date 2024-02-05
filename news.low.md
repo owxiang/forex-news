@@ -16,9 +16,9 @@
 | 13:00 | INR | S&P Global India Services PMI (Jan) | 61.8 | 60.0 | 59.0 |
 | 13:00 | SGD | Retail Sales (MoM) (Dec) | -1.5% |  | 0.5% |
 | 13:00 | SGD | Retail Sales (YoY) (Dec) | -0.4% |  | 2.4% |
-| 15:00 | EUR | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
-| 15:00 | EUR | German Imports (MoM) (Dec) |  | -1.5% | 1.9% |
-| 15:15 | ZAR | S&P Global South Africa PMI (Jan) |  |  | 49.0 |
+| 40 min | EUR | German Exports (MoM) (Dec) |  | -2.0% | 3.7% |
+| 40 min | EUR | German Imports (MoM) (Dec) |  | -1.5% | 1.9% |
+| 55 min | ZAR | S&P Global South Africa PMI (Jan) |  |  | 49.0 |
 | 16:45 | EUR | HCOB Italy Composite PMI (Jan) |  |  | 48.6 |
 | 16:50 | EUR | HCOB France Composite PMI (Jan) |  | 44.2 | 44.8 |
 | 16:55 | EUR | HCOB Germany Composite PMI (Jan) |  | 47.1 | 47.4 |
@@ -29,8 +29,8 @@
 | 18:00 | EUR | PPI (YoY) (Dec) |  | -10.5% | -8.8% |
 | 18:00 | EUR | PPI (MoM) (Dec) |  | -0.8% | -0.3% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 19:30 | BRL | Current Account (USD) (Dec) |  | -7.43B | -1.60B |
 | 19:30 | BRL | Foreign direct investment (USD) (Dec) |  | 5.85B | 7.80B |
