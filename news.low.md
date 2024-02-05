@@ -24,8 +24,8 @@
 | 18:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 18:00 | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
+| 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Bank lending (MoM) (Dec) |  |  | 0.9% |
 | 20:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.64% |
