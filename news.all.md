@@ -8,8 +8,8 @@
 | 03:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 03:00 | USD | Low | Loan Officer Survey |  |  |  |
 | 07:30 | JPY | Low | Average Cash Earnings (YoY) (Dec) | 1.0% | 1.3% | 0.2% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Dec) | -2.5% | -2.0% | -2.9% |
 | 07:30 | JPY | Moderate | Household Spending (MoM) (Dec) | -0.9% | 0.2% | -1.0% |
+| 07:30 | JPY | Moderate | Household Spending (YoY) (Dec) | -2.5% | -2.0% | -2.9% |
 | 07:30 | JPY | Low | Overall wage income of employees (Dec) | 1.0% |  | 0.7% |
 | 07:30 | JPY | Low | Overtime Pay (YoY) (Dec) | -0.70% |  | 0.90% |
 | 08:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
@@ -30,14 +30,11 @@
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.342% |  | 3.293% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.653% |  | 3.580% |
 | 18:00 | EUR | Low | German Car Registration (YoY) | 19.1% |  | -23.0% |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Dec) | -0.8% | -0.9% | -0.4% |
 | 18:00 | EUR | Low | Retail Sales (MoM) (Dec) | -1.1% | -0.9% | 0.3% |
-| 43 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 43 min | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
-| 43 min | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
-| 43 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 19:30 | BRL | Low | Bank lending (MoM) (Dec) |  |  | 0.9% |
-| 20:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.64% |
+| 18:00 | EUR | Low | Retail Sales (YoY) (Dec) | -0.8% | -0.9% | -0.4% |
+| 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) | -0.27% |  | 0.64% |
+| 17 min | BRL | Low | Bank lending (MoM) (Dec) |  |  | 0.9% |
 | 21:30 | CAD | Moderate | Building Permits (MoM) (Dec) |  | 1.8% | -3.9% |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 5.0% |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.2 | 44.7 |
