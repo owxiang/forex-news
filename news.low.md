@@ -3,21 +3,21 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | USD | Fed Collins Speaks |  |  |  |
-| 05:45 | NZD | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
-| 05:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 3.8% | 4.1% |
-| 05:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
-| 05:45 | NZD | Participation Rate (Q4) |  | 72.00% | 72.00% |
-| 05:45 | NZD | Unemployment Rate (Q4) |  | 4.3% | 3.9% |
-| 06:00 | AUD | AIG Construction Index (Dec) |  |  | -22.2 |
-| 06:00 | AUD | AIG Manufacturing Index (Dec) |  |  | -25.3 |
+| 32 min | NZD | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
+| 32 min | NZD | Labor Cost Index (YoY) (Q4) |  | 3.8% | 4.1% |
+| 32 min | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 32 min | NZD | Participation Rate (Q4) |  | 72.00% | 72.00% |
+| 32 min | NZD | Unemployment Rate (Q4) |  | 4.3% | 3.9% |
+| 47 min | AUD | AIG Construction Index (Dec) |  |  | -22.2 |
+| 47 min | AUD | AIG Manufacturing Index (Dec) |  |  | -25.3 |
 | 07:00 | KRW | Current Account (Dec) |  |  | 4.06B |
 | 07:50 | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.629% |
 | 12:00 | IDR | FX Reserves (USD) (Jan) |  |  | 146.40B |
 | 13:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
-| 13:00 | JPY | Leading Index |  | 109.4 | 107.6 |
 | 13:00 | JPY | Leading Index (MoM) (Dec) |  |  | -1.3% |
+| 13:00 | JPY | Leading Index |  | 109.4 | 107.6 |
 | 14:00 | ZAR | Foreign Reserves (USD) |  |  | 62.52B |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
 | 14:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
