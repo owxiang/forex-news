@@ -8,8 +8,8 @@
 | 02:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 02:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | 0.674M | 2.133M | -2.500M |
-| 15:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
+| 15:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | EUR | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
 | 18:00 | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |

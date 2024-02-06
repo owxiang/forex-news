@@ -16,8 +16,8 @@
 | 05:45 | NZD | Low | Unemployment Rate (Q4) | 4.0% | 4.3% | 3.9% |
 | 06:00 | AUD | Low | AIG Construction Index (Dec) | -11.5 |  | -22.2 |
 | 06:00 | AUD | Low | AIG Manufacturing Index (Dec) | -23.8 |  | -25.3 |
-| 46 min | KRW | Low | Current Account (Dec) |  |  | 4.06B |
-| 07:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
+| 07:00 | KRW | Low | Current Account (Dec) | 7.41B |  | 4.06B |
+| 35 min | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.629% |
 | 12:00 | IDR | Low | FX Reserves (USD) (Jan) |  |  | 146.40B |
@@ -27,8 +27,8 @@
 | 14:00 | ZAR | Low | Foreign Reserves (USD) |  |  | 62.52B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
@@ -43,8 +43,8 @@
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.217T | 3.238T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
 | 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
 | 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |

@@ -10,8 +10,8 @@
 | 05:45 | NZD | Unemployment Rate (Q4) | 4.0% | 4.3% | 3.9% |
 | 06:00 | AUD | AIG Construction Index (Dec) | -11.5 |  | -22.2 |
 | 06:00 | AUD | AIG Manufacturing Index (Dec) | -23.8 |  | -25.3 |
-| 46 min | KRW | Current Account (Dec) |  |  | 4.06B |
-| 07:50 | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
+| 07:00 | KRW | Current Account (Dec) | 7.41B |  | 4.06B |
+| 35 min | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.629% |
 | 12:00 | IDR | FX Reserves (USD) (Jan) |  |  | 146.40B |
@@ -34,8 +34,8 @@
 | 16:00 | CNY | FX Reserves (USD) |  | 3.217T | 3.238T |
 | 16:30 | HKD | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
 | 16:40 | GBP | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
 | 17:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
+| 17:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
 | 18:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 3.887% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
