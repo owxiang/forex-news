@@ -22,13 +22,13 @@
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.629% |
 | 12:00 | IDR | Low | FX Reserves (USD) (Jan) |  |  | 146.40B |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
-| 13:00 | JPY | Low | Leading Index (MoM) (Dec) |  |  | -1.3% |
 | 13:00 | JPY | Low | Leading Index |  | 109.4 | 107.6 |
+| 13:00 | JPY | Low | Leading Index (MoM) (Dec) |  |  | -1.3% |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) |  |  | 62.52B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
@@ -63,8 +63,8 @@
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 445.6 |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.8 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.2 |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
 | 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |

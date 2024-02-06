@@ -16,8 +16,8 @@
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.629% |
 | 12:00 | IDR | FX Reserves (USD) (Jan) |  |  | 146.40B |
 | 13:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
-| 13:00 | JPY | Leading Index (MoM) (Dec) |  |  | -1.3% |
 | 13:00 | JPY | Leading Index |  | 109.4 | 107.6 |
+| 13:00 | JPY | Leading Index (MoM) (Dec) |  |  | -1.3% |
 | 14:00 | ZAR | Foreign Reserves (USD) |  |  | 62.52B |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
 | 14:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
