@@ -1,17 +1,24 @@
-## 06 February 2024 - Moderate Impact Forex News
+## 07 February 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 03:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 07:30 | JPY | Household Spending (MoM) (Dec) | -0.9% | 0.2% | -1.0% |
-| 07:30 | JPY | Household Spending (YoY) (Dec) | -2.5% | -2.0% | -2.9% |
-| 08:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 1.4% | 1.2% | 1.9% |
-| 08:30 | AUD | Retail Sales (MoM) (Dec) | -2.7% | 0.1% | 1.6% |
-| 11:30 | AUD | RBA Monetary Policy Statement |  |  |  |
-| 11:30 | AUD | RBA Rate Statement |  |  |  |
-| 15:00 | EUR | German Factory Orders (MoM) (Dec) | 8.9% | -0.1% | 0.0% |
-| 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Jan) | 48.8 | 47.2 | 46.8 |
-| 21:30 | CAD | Building Permits (MoM) (Dec) | -14.0% | 1.8% | -5.0% |
-| 23:00 | CAD | Ivey PMI (Jan) | 56.5 | 55.0 | 56.3 |
+| 40 min | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 40 min | USD | FOMC Member Mester Speaks |  |  |  |
+| 02:00 | USD | 3-Year Note Auction |  |  | 4.105% |
+| 02:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 02:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 05:30 | USD | API Weekly Crude Oil Stock |  | 2.133M | -2.500M |
+| 15:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
+| 15:00 | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
+| 15:00 | EUR | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
+| 18:00 | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
+| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 75.0% | 73.8% |
+| 20:00 | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
+| 20:00 | BRL | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
+| 20:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:30 | USD | Exports |  |  | 253.70B |
+| 21:30 | USD | Imports |  |  | 316.90B |
+| 21:30 | USD | Trade Balance (Dec) |  | -62.00B | -63.20B |
+| 21:30 | CAD | Trade Balance (Dec) |  | 1.10B | 1.57B |
+| 23:30 | USD | Cushing Crude Oil Inventories |  |  | -1.972M |

@@ -1,41 +1,90 @@
-## 06 February 2024 - All Forex News
+## 07 February 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | USD | Low | 3-Month Bill Auction | 5.235% |  | 5.210% |
-| 00:30 | USD | Low | 6-Month Bill Auction | 5.045% |  | 4.985% |
-| 01:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 03:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 03:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 07:30 | JPY | Low | Average Cash Earnings (YoY) (Dec) | 1.0% | 1.3% | 0.2% |
-| 07:30 | JPY | Moderate | Household Spending (MoM) (Dec) | -0.9% | 0.2% | -1.0% |
-| 07:30 | JPY | Moderate | Household Spending (YoY) (Dec) | -2.5% | -2.0% | -2.9% |
-| 07:30 | JPY | Low | Overall wage income of employees (Dec) | 1.0% |  | 0.7% |
-| 07:30 | JPY | Low | Overtime Pay (YoY) (Dec) | -0.70% |  | 0.90% |
-| 08:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 08:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jan) | 1.4% | 1.2% | 1.9% |
-| 08:30 | AUD | Moderate | Retail Sales (MoM) (Dec) | -2.7% | 0.1% | 1.6% |
-| 08:30 | AUD | Low | Retail Sales (QoQ) (Q4) | 0.3% |  | -0.1% |
-| 11:30 | AUD | High | RBA Interest Rate Decision (Feb) | 4.35% | 4.35% | 4.35% |
-| 11:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 15:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) | 8.9% | -0.1% | 0.0% |
-| 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jan) | 51.6 |  | 55.2 |
-| 16:30 | EUR | Low | HCOB Germany Construction PMI (Jan) | 36.3 |  | 37.0 |
-| 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jan) | 39.6 |  | 42.6 |
-| 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) | 41.3 |  | 43.6 |
-| 17:00 | EUR | Low | Italian Business Confidence (Jan) | 88.3 |  | 87.3 |
-| 17:00 | EUR | Low | Italian Consumer Confidence (Dec) | 96.4 |  | 95.8 |
-| 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jan) | 48.8 | 47.2 | 46.8 |
-| 17:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.342% |  | 3.293% |
-| 17:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.653% |  | 3.580% |
-| 18:00 | EUR | Low | German Car Registration (YoY) | 19.1% |  | -23.0% |
-| 18:00 | EUR | Low | Retail Sales (YoY) (Dec) | -0.8% | -0.9% | -0.4% |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Dec) | -1.1% | -0.9% | 0.3% |
-| 19:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 19:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jan) | -0.27% |  | 0.64% |
-| 19:30 | BRL | Low | Bank lending (MoM) (Dec) | 1.4% |  | 1.1% |
-| 21:30 | CAD | Moderate | Building Permits (MoM) (Dec) | -14.0% | 1.8% | -5.0% |
-| 21:55 | USD | Low | Redbook (YoY) | 6.1% |  | 5.0% |
-| 23:00 | CAD | Low | Ivey PMI n.s.a (Jan) | 54.4 |  | 43.7 |
-| 23:00 | CAD | Moderate | Ivey PMI (Jan) | 56.5 | 55.0 | 56.3 |
+| 40 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 40 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 40 min | EUR | Low | Italian Car Registration (YoY) |  |  | 5.9% |
+| 02:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.105% |
+| 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 02:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 03:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.133M | -2.500M |
+| 05:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
+| 05:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.8% | 4.1% |
+| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
+| 05:45 | NZD | Low | Participation Rate (Q4) |  | 72.00% | 72.00% |
+| 05:45 | NZD | Low | Unemployment Rate (Q4) |  | 4.3% | 3.9% |
+| 06:00 | AUD | Low | AIG Construction Index (Dec) |  |  | -22.2 |
+| 06:00 | AUD | Low | AIG Manufacturing Index (Dec) |  |  | -25.3 |
+| 07:00 | KRW | Low | Current Account (Dec) |  |  | 4.06B |
+| 07:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
+| 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.629% |
+| 12:00 | IDR | Low | FX Reserves (USD) (Jan) |  |  | 146.40B |
+| 13:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
+| 13:00 | JPY | Low | Leading Index (MoM) (Dec) |  |  | -1.3% |
+| 13:00 | JPY | Low | Leading Index |  | 109.4 | 107.6 |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) |  |  | 62.52B |
+| 14:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
+| 14:45 | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
+| 15:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
+| 15:00 | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
+| 15:00 | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
+| 15:45 | EUR | Low | French Current Account (Dec) |  |  | -2.80B |
+| 15:45 | EUR | Low | French Exports (Dec) |  |  | 49.5B |
+| 15:45 | EUR | Low | French Imports (Dec) |  |  | 55.4B |
+| 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) |  | -0.1% | 0.1% |
+| 15:45 | EUR | Low | French Reserve Assets Total (Jan) |  |  | 223,167.0M |
+| 15:45 | EUR | Low | French Trade Balance (Dec) |  | -6.0B | -5.9B |
+| 16:00 | CHF | Low | Foreign Reserves (USD) (Jan) |  |  | 653.7B |
+| 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) |  | -0.2% | 0.8% |
+| 16:00 | CNY | Low | FX Reserves (USD) |  | 3.217T | 3.238T |
+| 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
+| 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
+| 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
+| 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 18:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.946% |
+| 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
+| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
+| 19:30 | BRL | Low | Budget Balance (Dec) |  | -180.000B | -80.887B |
+| 19:30 | BRL | Low | Budget Surplus (Dec) |  |  | -37.270B |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 75.0% | 73.8% |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.78% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -7.2% |
+| 20:00 | USD | Low | MBA Purchase Index |  |  | 154.5 |
+| 20:00 | USD | Low | Mortgage Market Index |  |  | 202.5 |
+| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 445.6 |
+| 20:00 | MXN | Low | Consumer Confidence |  |  | 46.8 |
+| 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.2 |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
+| 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
+| 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
+| 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
+| 21:30 | USD | Moderate | Exports |  |  | 253.70B |
+| 21:30 | USD | Moderate | Imports |  |  | 316.90B |
+| 21:30 | USD | Moderate | Trade Balance (Dec) |  | -62.00B | -63.20B |
+| 21:30 | CAD | Low | Exports (Dec) |  |  | 65.74B |
+| 21:30 | CAD | Low | Imports (Dec) |  |  | 64.17B |
+| 21:30 | CAD | Moderate | Trade Balance (Dec) |  | 1.10B | 1.57B |
+| 23:00 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.2 | 44.7 |
+| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.3% |
+| 23:00 | USD | Low | Milk Auctions |  |  | 3,493.0 |
+| 23:30 | USD | High | Crude Oil Inventories |  | 2.133M | 1.234M |
+| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.428M |
+| 23:30 | USD | Low | Crude Oil Imports |  |  | 0.565M |
+| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.972M |
+| 23:30 | USD | Low | Distillate Fuel Production |  |  | -0.115M |
+| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.200M | -2.542M |
+| 23:30 | USD | Low | Gasoline Production |  |  | 0.956M |
+| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.456M |
+| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.6% |
+| 23:30 | USD | Low | Gasoline Inventories |  | 0.533M | 1.156M |
