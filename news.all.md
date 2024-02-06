@@ -20,21 +20,21 @@
 | 11:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 11:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 15:00 | EUR | Moderate | German Factory Orders (MoM) (Dec) | 8.9% | -0.1% | 0.0% |
-| 16:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 55.2 |
-| 16:30 | EUR | Low | HCOB Germany Construction PMI (Jan) |  |  | 37.0 |
-| 16:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
-| 16:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 43.6 |
-| 17:00 | EUR | Low | Italian Business Confidence (Jan) |  |  | 95.4 |
-| 17:00 | EUR | Low | Italian Consumer Confidence (Jan) |  |  | 106.7 |
-| 17:00 | EUR | Low | Consumer Inflation Expectation |  |  | 11.9 |
+| 11 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 55.2 |
+| 11 min | EUR | Low | HCOB Germany Construction PMI (Jan) |  |  | 37.0 |
+| 11 min | EUR | Low | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
+| 11 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 43.6 |
+| 41 min | EUR | Low | Italian Business Confidence (Jan) |  |  | 95.4 |
+| 41 min | EUR | Low | Italian Consumer Confidence (Jan) |  |  | 106.7 |
+| 41 min | EUR | Low | Consumer Inflation Expectation |  |  | 11.9 |
 | 17:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jan) |  | 47.2 | 46.8 |
 | 17:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.293% |
 | 17:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.580% |
 | 18:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
 | 18:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
+| 18:00 | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
