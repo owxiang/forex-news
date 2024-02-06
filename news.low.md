@@ -21,16 +21,16 @@
 | 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
 | 18:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
 | 18:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
+| 18:00 | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Bank lending (MoM) (Dec) |  |  | 0.9% |
 | 20:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.64% |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.0% |
-| 23:00 | USD | IBD/TIPP Economic Optimism |  | 47.2 | 44.7 |
+| 23:00 | USD | IBD/TIPP Economic Optimism (Feb) |  | 47.2 | 44.7 |
 | 23:00 | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.7 |
 | 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.3% |
 | 23:00 | USD | Milk Auctions |  |  | 3,493.0 |
