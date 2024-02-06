@@ -18,13 +18,10 @@
 | 17:40 | EUR | Spanish 12-Month Letras Auction | 3.342% |  | 3.293% |
 | 17:40 | EUR | Spanish 6-Month Letras Auction | 3.653% |  | 3.580% |
 | 18:00 | EUR | German Car Registration (YoY) | 19.1% |  | -23.0% |
-| 18:00 | EUR | Retail Sales (MoM) (Dec) | -1.1% | -0.9% | 0.3% |
 | 18:00 | EUR | Retail Sales (YoY) (Dec) | -0.8% | -0.9% | -0.4% |
+| 18:00 | EUR | Retail Sales (MoM) (Dec) | -1.1% | -0.9% | 0.3% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) | -0.27% |  | 0.64% |
 | 19:30 | BRL | Bank lending (MoM) (Dec) | 1.4% |  | 1.1% |
 | 21:55 | USD | Redbook (YoY) | 6.1% |  | 5.0% |
-| 46 min | USD | IBD/TIPP Economic Optimism (Feb) |  | 47.2 | 44.7 |
-| 46 min | CAD | Ivey PMI n.s.a (Jan) |  |  | 43.7 |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 46 min | USD | Milk Auctions |  |  | 3,493.0 |
+| 23:00 | CAD | Ivey PMI n.s.a (Jan) | 54.4 |  | 43.7 |
