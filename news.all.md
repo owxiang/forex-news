@@ -33,8 +33,8 @@
 | 18:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
 | 18:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 18:00 | EUR | Low | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
+| 18:00 | EUR | Low | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Low | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | EUR | Low | German Car Registration (YoY) |  |  | -23.0% |
