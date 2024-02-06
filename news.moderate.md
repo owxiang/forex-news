@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 03:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 07:30 | JPY | Household Spending (MoM) (Dec) | -0.9% | 0.2% | -1.0% |
 | 07:30 | JPY | Household Spending (YoY) (Dec) | -2.5% | -2.0% | -2.9% |
+| 07:30 | JPY | Household Spending (MoM) (Dec) | -0.9% | 0.2% | -1.0% |
 | 08:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 08:01 | GBP | BRC Retail Sales Monitor (YoY) (Jan) | 1.4% | 1.2% | 1.9% |
 | 08:30 | AUD | Retail Sales (MoM) (Dec) | -2.7% | 0.1% | 1.6% |
