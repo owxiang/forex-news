@@ -8,15 +8,15 @@
 | 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 02:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 03:00 | USD | Low | Fed Collins Speaks |  |  |  |
-| 17 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.133M | -2.500M |
-| 32 min | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
-| 32 min | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.8% | 4.1% |
-| 32 min | NZD | Low | Labor Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
-| 32 min | NZD | Low | Participation Rate (Q4) |  | 72.00% | 72.00% |
-| 32 min | NZD | Low | Unemployment Rate (Q4) |  | 4.3% | 3.9% |
-| 47 min | AUD | Low | AIG Construction Index (Dec) |  |  | -22.2 |
-| 47 min | AUD | Low | AIG Manufacturing Index (Dec) |  |  | -25.3 |
-| 07:00 | KRW | Low | Current Account (Dec) |  |  | 4.06B |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.674M | 2.133M | -2.500M |
+| 05:45 | NZD | Low | Employment Change (QoQ) (Q4) | 0.4% | 0.3% | -0.1% |
+| 05:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 3.9% | 3.8% | 4.1% |
+| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 1.0% | 0.8% | 0.8% |
+| 05:45 | NZD | Low | Participation Rate (Q4) | 71.90% | 72.00% | 72.00% |
+| 05:45 | NZD | Low | Unemployment Rate (Q4) | 4.0% | 4.3% | 3.9% |
+| 06:00 | AUD | Low | AIG Construction Index (Dec) | -11.5 |  | -22.2 |
+| 06:00 | AUD | Low | AIG Manufacturing Index (Dec) | -23.8 |  | -25.3 |
+| 46 min | KRW | Low | Current Account (Dec) |  |  | 4.06B |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.629% |
@@ -43,8 +43,8 @@
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.217T | 3.238T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
 | 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
@@ -63,8 +63,8 @@
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 445.6 |
 | 20:00 | MXN | Low | Consumer Confidence |  |  | 46.8 |
 | 20:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.2 |
-| 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
 | 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
