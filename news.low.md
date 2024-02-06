@@ -14,18 +14,16 @@
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Jan) | 39.6 |  | 42.6 |
 | 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) | 41.3 |  | 43.6 |
 | 17:00 | EUR | Italian Business Confidence (Jan) | 88.3 |  | 87.3 |
-| 17:00 | EUR | Italian Consumer Confidence (Dec) | 96.4 |  | 103.6 |
-| 24 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.293% |
-| 24 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.580% |
-| 44 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 44 min | EUR | German Car Registration (YoY) |  |  | -23.0% |
-| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 44 min | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
-| 44 min | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
-| 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
-| 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
-| 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 17:00 | EUR | Italian Consumer Confidence (Dec) | 96.4 |  | 95.8 |
+| 17:40 | EUR | Spanish 12-Month Letras Auction | 3.342% |  | 3.293% |
+| 17:40 | EUR | Spanish 6-Month Letras Auction | 3.653% |  | 3.580% |
+| 18:00 | EUR | German Car Registration (YoY) | 19.1% |  | -23.0% |
+| 18:00 | EUR | Retail Sales (YoY) (Dec) | -0.8% | -0.9% | -0.4% |
+| 18:00 | EUR | Retail Sales (MoM) (Dec) | -1.1% | -0.9% | 0.3% |
+| 43 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 43 min | EUR | German Car Registration (MoM) |  |  | -1.6% |
+| 43 min | EUR | German Car Registration (YoY) |  |  | -23.0% |
+| 43 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Bank lending (MoM) (Dec) |  |  | 0.9% |
 | 20:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.64% |
 | 21:55 | USD | Redbook (YoY) |  |  | 5.0% |
