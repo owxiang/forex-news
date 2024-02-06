@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 40 min | USD | FOMC Member Mester Speaks |  |  |  |
-| 02:00 | USD | 3-Year Note Auction |  |  | 4.105% |
-| 02:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 02:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 01:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 47 min | USD | 3-Year Note Auction |  |  | 4.105% |
+| 47 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 47 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | 2.133M | -2.500M |
 | 15:00 | GBP | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
 | 15:00 | GBP | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |

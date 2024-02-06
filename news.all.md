@@ -2,12 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 40 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 40 min | EUR | Low | Italian Car Registration (YoY) |  |  | 5.9% |
-| 02:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.105% |
-| 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 02:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 01:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 47 min | USD | Moderate | 3-Year Note Auction |  |  | 4.105% |
+| 47 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 47 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 03:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.133M | -2.500M |
 | 05:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
@@ -44,8 +43,8 @@
 | 16:00 | CNY | Low | FX Reserves (USD) |  | 3.217T | 3.238T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
 | 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
 | 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
