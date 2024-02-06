@@ -11,7 +11,7 @@
 | 08:30 | AUD | Retail Sales (MoM) (Dec) | -2.7% | 0.1% | 1.6% |
 | 11:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 11:30 | AUD | RBA Rate Statement |  |  |  |
-| 15:00 | EUR | German Factory Orders (MoM) (Dec) |  | -0.1% | 0.3% |
+| 41 min | EUR | German Factory Orders (MoM) (Dec) |  | -0.1% | 0.3% |
 | 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Jan) |  | 47.2 | 46.8 |
 | 21:30 | CAD | Building Permits (MoM) (Dec) |  | 1.8% | -3.9% |
 | 23:00 | CAD | Ivey PMI (Jan) |  | 55.0 | 56.3 |
