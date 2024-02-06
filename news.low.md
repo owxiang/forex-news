@@ -9,23 +9,22 @@
 | 07:30 | JPY | Overall wage income of employees (Dec) | 1.0% |  | 0.7% |
 | 07:30 | JPY | Overtime Pay (YoY) (Dec) | -0.70% |  | 0.90% |
 | 08:30 | AUD | Retail Sales (QoQ) (Q4) | 0.3% |  | -0.1% |
-| 11 min | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 55.2 |
-| 11 min | EUR | HCOB Germany Construction PMI (Jan) |  |  | 37.0 |
-| 11 min | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
-| 11 min | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) |  |  | 43.6 |
-| 41 min | EUR | Italian Business Confidence (Jan) |  |  | 95.4 |
-| 41 min | EUR | Italian Consumer Confidence (Jan) |  |  | 106.7 |
-| 41 min | EUR | Consumer Inflation Expectation |  |  | 11.9 |
-| 17:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.293% |
-| 17:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.580% |
-| 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 18:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
-| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
-| 18:00 | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
+| 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) | 51.6 |  | 55.2 |
+| 16:30 | EUR | HCOB Germany Construction PMI (Jan) | 36.3 |  | 37.0 |
+| 16:30 | EUR | HCOB France Construction PMI (MoM) (Jan) | 39.6 |  | 42.6 |
+| 16:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jan) | 41.3 |  | 43.6 |
+| 17:00 | EUR | Italian Business Confidence (Jan) | 88.3 |  | 87.3 |
+| 17:00 | EUR | Italian Consumer Confidence (Dec) | 96.4 |  | 103.6 |
+| 24 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.293% |
+| 24 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.580% |
+| 44 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
+| 44 min | EUR | German Car Registration (YoY) |  |  | -23.0% |
+| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 44 min | EUR | Retail Sales (MoM) (Dec) |  | -0.9% | -0.3% |
+| 44 min | EUR | Retail Sales (YoY) (Dec) |  | -0.9% | -1.1% |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | EUR | German Car Registration (YoY) |  |  | -23.0% |
+| 19:00 | EUR | German Car Registration (MoM) |  |  | -1.6% |
 | 19:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 19:30 | BRL | Bank lending (MoM) (Dec) |  |  | 0.9% |
 | 20:00 | BRL | IGP-DI Inflation Index (MoM) (Jan) |  |  | 0.64% |
