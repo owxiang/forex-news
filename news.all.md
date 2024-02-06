@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 01:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 47 min | USD | Moderate | 3-Year Note Auction |  |  | 4.105% |
-| 47 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 47 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 03:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 02:00 | USD | Moderate | 3-Year Note Auction | 4.169% |  | 4.105% |
+| 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 02:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 43 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.133M | -2.500M |
 | 05:45 | NZD | Low | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
 | 05:45 | NZD | Low | Labor Cost Index (YoY) (Q4) |  | 3.8% | 4.1% |

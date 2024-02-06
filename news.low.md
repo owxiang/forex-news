@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | USD | Fed Collins Speaks |  |  |  |
+| 43 min | USD | Fed Collins Speaks |  |  |  |
 | 05:45 | NZD | Employment Change (QoQ) (Q4) |  | 0.3% | -0.2% |
 | 05:45 | NZD | Labor Cost Index (YoY) (Q4) |  | 3.8% | 4.1% |
 | 05:45 | NZD | Labor Cost Index (QoQ) (Q4) |  | 0.8% | 0.8% |
