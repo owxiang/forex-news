@@ -5,10 +5,10 @@
 | 00:30 | USD | 3-Month Bill Auction | 5.235% |  | 5.210% |
 | 00:30 | USD | 6-Month Bill Auction | 5.045% |  | 4.985% |
 | 03:00 | USD | Loan Officer Survey |  |  |  |
-| 14 min | JPY | Average Cash Earnings (YoY) (Dec) |  | 1.3% | 0.2% |
-| 14 min | JPY | Overall wage income of employees (Dec) |  |  | 0.2% |
-| 14 min | JPY | Overtime Pay (YoY) (Dec) |  |  | 0.90% |
-| 08:30 | AUD | Retail Sales (QoQ) (Q4) |  |  | 0.2% |
+| 07:30 | JPY | Average Cash Earnings (YoY) (Dec) | 1.0% | 1.3% | 0.2% |
+| 07:30 | JPY | Overall wage income of employees (Dec) | 1.0% |  | 0.7% |
+| 07:30 | JPY | Overtime Pay (YoY) (Dec) | -0.70% |  | 0.90% |
+| 08:30 | AUD | Retail Sales (QoQ) (Q4) | 0.3% |  | -0.1% |
 | 16:30 | EUR | HCOB Italy Construction PMI (MoM) (Jan) |  |  | 55.2 |
 | 16:30 | EUR | HCOB Germany Construction PMI (Jan) |  |  | 37.0 |
 | 16:30 | EUR | HCOB France Construction PMI (MoM) (Jan) |  |  | 42.6 |
