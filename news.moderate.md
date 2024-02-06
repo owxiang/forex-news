@@ -13,5 +13,5 @@
 | 11:30 | AUD | RBA Rate Statement |  |  |  |
 | 15:00 | EUR | German Factory Orders (MoM) (Dec) | 8.9% | -0.1% | 0.0% |
 | 17:30 | GBP | S&P Global / CIPS UK Construction PMI (Jan) | 48.8 | 47.2 | 46.8 |
-| 11 min | CAD | Building Permits (MoM) (Dec) |  | 1.8% | -3.9% |
-| 23:00 | CAD | Ivey PMI (Jan) |  | 55.0 | 56.3 |
+| 21:30 | CAD | Building Permits (MoM) (Dec) | -14.0% | 1.8% | -5.0% |
+| 46 min | CAD | Ivey PMI (Jan) |  | 55.0 | 56.3 |
