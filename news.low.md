@@ -24,7 +24,7 @@
 | 14:45 | CHF | Unemployment Rate s.a. (Jan) | 2.2% | 2.2% | 2.2% |
 | 15:00 | EUR | German Industrial Production (YoY) (Dec) | -3.13% |  | -4.37% |
 | 15:00 | NOK | Manufacturing Production (MoM) (Dec) | 0.3% |  | -0.2% |
-| 15:45 | EUR | French Current Account (Dec) | -0.70B |  | -2.80B |
+| 15:45 | EUR | French Current Account (Dec) | -0.70B |  | -2.90B |
 | 15:45 | EUR | French Exports (Dec) | 50.2B |  | 49.6B |
 | 15:45 | EUR | French Imports (Dec) | 57.0B |  | 55.6B |
 | 15:45 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | 0.0% | -0.1% | 0.1% |
@@ -33,13 +33,13 @@
 | 16:00 | CHF | Foreign Reserves (USD) (Jan) | 662.4B |  | 654.2B |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Dec) | -0.2% | -0.2% | 0.9% |
 | 16:00 | CNY | FX Reserves (USD) (Jan) | 3.219T | 3.217T | 3.238T |
-| 11 min | HKD | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
-| 21 min | GBP | BoE Breeden Speaks |  |  |  |
-| 41 min | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
-| 41 min | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
-| 41 min | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
-| 18:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 3.887% |
-| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 16:30 | HKD | Foreign Reserves (USD) (Jan) | 423.20B |  | 425.60B |
+| 16:40 | GBP | BoE Breeden Speaks |  |  |  |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
+| 17:00 | EUR | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
+| 17:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
+| 45 min | GBP | 3-Year Treasury Gilt Auction |  |  | 3.887% |
+| 45 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.946% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |

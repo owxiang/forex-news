@@ -33,7 +33,7 @@
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) | -1.6% | -0.4% | -0.2% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Dec) | -3.13% |  | -4.37% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Dec) | 0.3% |  | -0.2% |
-| 15:45 | EUR | Low | French Current Account (Dec) | -0.70B |  | -2.80B |
+| 15:45 | EUR | Low | French Current Account (Dec) | -0.70B |  | -2.90B |
 | 15:45 | EUR | Low | French Exports (Dec) | 50.2B |  | 49.6B |
 | 15:45 | EUR | Low | French Imports (Dec) | 57.0B |  | 55.6B |
 | 15:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q4) | 0.0% | -0.1% | 0.1% |
@@ -42,15 +42,15 @@
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Jan) | 662.4B |  | 654.2B |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) | -0.2% | -0.2% | 0.9% |
 | 16:00 | CNY | Low | FX Reserves (USD) (Jan) | 3.219T | 3.217T | 3.238T |
-| 11 min | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
-| 21 min | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 41 min | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
-| 41 min | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
-| 41 min | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
-| 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
-| 18:00 | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.96% |
-| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 423.20B |  | 425.60B |
+| 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
+| 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
+| 45 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
+| 45 min | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.96% |
+| 45 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 45 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.946% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
