@@ -10,12 +10,12 @@
 | 02:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 03:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 04:00 | USD | Moderate | Consumer Credit (Dec) | 1.56B | 14.90B | 23.48B |
-| 07:50 | JPY | Moderate | Adjusted Current Account (Dec) |  | 1.93T | 1.89T |
-| 07:50 | JPY | Low | Bank Lending (YoY) (Jan) |  | 3.2% | 3.1% |
-| 07:50 | JPY | Moderate | Current Account n.s.a. (Dec) |  | 1.018T | 1.926T |
-| 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 382.9B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 720.3B |
-| 08:01 | GBP | Moderate | RICS House Price Balance (Jan) |  | -22% | -30% |
+| 34 min | JPY | Moderate | Adjusted Current Account (Dec) |  | 1.93T | 1.89T |
+| 34 min | JPY | Low | Bank Lending (YoY) (Jan) |  | 3.2% | 3.1% |
+| 34 min | JPY | Moderate | Current Account n.s.a. (Dec) |  | 1.018T | 1.926T |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 382.9B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 720.3B |
+| 45 min | GBP | Moderate | RICS House Price Balance (Jan) |  | -22% | -30% |
 | 08:30 | AUD | Moderate | Building Approvals (MoM) |  | -9.5% | 1.6% |
 | 08:30 | AUD | Low | Private House Approvals |  | -0.5% | -1.7% |
 | 09:30 | CNY | Moderate | CPI (MoM) (Jan) |  | 0.4% | 0.1% |
@@ -29,16 +29,16 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jan) |  | 50.3 | 50.7 |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
+| 20:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
-| 20:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 1.00% |
 | 20:00 | MXN | Low | PPI (MoM) (Jan) |  |  | -0.30% |
-| 20:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.34% | 0.56% |
+| 20:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 1.00% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.42% | 4.62% |
+| 20:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.34% | 0.56% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.49% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
