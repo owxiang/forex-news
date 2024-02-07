@@ -11,7 +11,7 @@
 | 06:00 | AUD | AIG Construction Index (Dec) | -11.5 |  | -22.2 |
 | 06:00 | AUD | AIG Manufacturing Index (Dec) | -23.8 |  | -25.3 |
 | 07:00 | KRW | Current Account (Dec) | 7.41B |  | 4.06B |
-| 35 min | JPY | Foreign Reserves (USD) (Jan) |  |  | 1,294.6B |
+| 07:50 | JPY | Foreign Reserves (USD) (Jan) | 1,291.8B |  | 1,294.6B |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:35 | JPY | 30-Year JGB Auction |  |  | 1.629% |
 | 12:00 | IDR | FX Reserves (USD) (Jan) |  |  | 146.40B |
