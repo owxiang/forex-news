@@ -17,8 +17,8 @@
 | 20:00 | BRL | Retail Sales (MoM) (Dec) | -1.3% | -0.2% | 0.1% |
 | 20:00 | BRL | Retail Sales (YoY) (Dec) | 1.3% | 2.9% | 2.5% |
 | 20:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 14 min | USD | Exports (Dec) |  |  | 253.70B |
-| 14 min | USD | Imports (Dec) |  |  | 316.90B |
-| 14 min | USD | Trade Balance (Dec) |  | -62.00B | -63.20B |
-| 14 min | CAD | Trade Balance (Dec) |  | 1.10B | 1.57B |
+| 21:30 | USD | Exports (Dec) | 258.20B |  | 254.30B |
+| 21:30 | USD | Imports (Dec) | 320.40B |  | 316.20B |
+| 21:30 | USD | Trade Balance (Dec) | -62.20B | -62.00B | -61.90B |
+| 21:30 | CAD | Trade Balance (Dec) | -0.31B | 1.10B | 1.06B |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | -1.972M |

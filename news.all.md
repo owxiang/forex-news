@@ -10,8 +10,8 @@
 | 03:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.674M | 2.133M | -2.500M |
 | 05:45 | NZD | Low | Employment Change (QoQ) (Q4) | 0.4% | 0.3% | -0.1% |
-| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 1.0% | 0.8% | 0.8% |
 | 05:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 3.9% | 3.8% | 4.1% |
+| 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 1.0% | 0.8% | 0.8% |
 | 05:45 | NZD | Low | Participation Rate (Q4) | 71.90% | 72.00% | 72.00% |
 | 05:45 | NZD | Low | Unemployment Rate (Q4) | 4.0% | 4.3% | 3.9% |
 | 06:00 | AUD | Low | AIG Construction Index (Dec) | -11.5 |  | -22.2 |
@@ -44,8 +44,8 @@
 | 16:00 | CNY | Low | FX Reserves (USD) (Jan) | 3.219T | 3.217T | 3.238T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 423.20B |  | 425.60B |
 | 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
 | 17:30 | GBP | Moderate | Mortgage Rate (GBP) (Jan) | 7.96% |  | 7.96% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.131% |  | 3.887% |
@@ -66,14 +66,12 @@
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Dec) | -1.3% | -0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 1.3% | 2.9% | 2.5% |
 | 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 14 min | USD | Moderate | Exports (Dec) |  |  | 253.70B |
-| 14 min | USD | Moderate | Imports (Dec) |  |  | 316.90B |
-| 14 min | USD | Moderate | Trade Balance (Dec) |  | -62.00B | -63.20B |
-| 14 min | CAD | Low | Exports (Dec) |  |  | 65.74B |
-| 14 min | CAD | Low | Imports (Dec) |  |  | 64.17B |
-| 14 min | CAD | Moderate | Trade Balance (Dec) |  | 1.10B | 1.57B |
-| 14 min | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
-| 14 min | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
+| 21:30 | USD | Moderate | Exports (Dec) | 258.20B |  | 254.30B |
+| 21:30 | USD | Moderate | Imports (Dec) | 320.40B |  | 316.20B |
+| 21:30 | USD | Moderate | Trade Balance (Dec) | -62.20B | -62.00B | -61.90B |
+| 21:30 | CAD | Low | Exports (Dec) | 64.07B |  | 65.33B |
+| 21:30 | CAD | Low | Imports (Dec) | 64.39B |  | 64.27B |
+| 21:30 | CAD | Moderate | Trade Balance (Dec) | -0.31B | 1.10B | 1.06B |
 | 23:30 | USD | High | Crude Oil Inventories |  | 1.700M | 1.234M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.428M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | 0.565M |
