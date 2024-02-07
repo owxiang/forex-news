@@ -13,11 +13,11 @@
 | 07:00 | KRW | Current Account (Dec) | 7.41B |  | 4.06B |
 | 07:50 | JPY | Foreign Reserves (USD) (Jan) | 1,291.8B |  | 1,294.6B |
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 18 min | JPY | 30-Year JGB Auction |  |  | 1.629% |
-| 43 min | IDR | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
-| 13:00 | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
-| 13:00 | JPY | Leading Index |  | 109.4 | 107.6 |
-| 13:00 | JPY | Leading Index (MoM) (Dec) |  |  | -1.3% |
+| 11:00 | IDR | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
+| 11:35 | JPY | 30-Year JGB Auction | 1.791% |  | 1.629% |
+| 42 min | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
+| 42 min | JPY | Leading Index (MoM) (Dec) |  |  | -1.3% |
+| 42 min | JPY | Leading Index |  | 109.4 | 107.6 |
 | 14:00 | ZAR | Foreign Reserves (USD) |  |  | 62.52B |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
 | 14:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
@@ -61,8 +61,8 @@
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.428M |
 | 23:30 | USD | Crude Oil Imports |  |  | 0.565M |
 | 23:30 | USD | Distillate Fuel Production |  |  | -0.115M |
-| 23:30 | USD | EIA Weekly Distillates Stocks |  | -1.200M | -2.542M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | -1.000M | -2.542M |
 | 23:30 | USD | Gasoline Production |  |  | 0.956M |
 | 23:30 | USD | Heating Oil Stockpiles |  |  | 0.456M |
 | 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -2.6% |
-| 23:30 | USD | Gasoline Inventories |  | 0.533M | 1.156M |
+| 23:30 | USD | Gasoline Inventories |  | 0.140M | 1.156M |
