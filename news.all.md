@@ -22,8 +22,8 @@
 | 11:00 | IDR | Low | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.791% |  | 1.629% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | 1.6% |  | -1.3% |
-| 13:00 | JPY | Low | Leading Index (Dec) | 110.0 | 109.4 | 107.6 |
 | 13:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.9% |  | -0.9% |
+| 13:00 | JPY | Low | Leading Index (Dec) | 110.0 | 109.4 | 107.6 |
 | 14:00 | ZAR | Low | Foreign Reserves (USD) (Jan) | 61.19B |  | 62.52B |
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 56.662B |  | 56.900B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) | 2.5% |  | 2.3% |
@@ -44,30 +44,30 @@
 | 16:00 | CNY | Low | FX Reserves (USD) (Jan) | 3.219T | 3.217T | 3.238T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) | 423.20B |  | 425.60B |
 | 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
 | 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
 | 17:30 | GBP | Moderate | Mortgage Rate (GBP) (Jan) | 7.96% |  | 7.96% |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.131% |  | 3.887% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.131% |  | 3.946% |
-| 17 min | INR | Low | M3 Money Supply |  |  | 10.8% |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
-| 17 min | BRL | Low | Budget Balance (Dec) |  | -180.000B | -80.887B |
-| 17 min | BRL | Low | Budget Surplus (Dec) |  |  | -37.270B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 75.0% | 73.8% |
-| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.78% |
-| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -7.2% |
-| 47 min | USD | Low | MBA Purchase Index |  |  | 154.5 |
-| 47 min | USD | Low | Mortgage Market Index |  |  | 202.5 |
-| 47 min | USD | Low | Mortgage Refinance Index |  |  | 445.6 |
-| 47 min | MXN | Low | Consumer Confidence |  |  | 46.8 |
-| 47 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.2 |
-| 47 min | BRL | Moderate | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
-| 47 min | BRL | Moderate | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
+| 19:30 | INR | Low | M3 Money Supply | 11.0% |  | -44.6% |
+| 19:30 | BRL | Low | Net Debt-to-GDP ratio (Dec) | 60.8% |  | 59.5% |
+| 19:30 | BRL | Low | Budget Balance (Dec) | -193.430B | -180.000B | -80.887B |
+| 19:30 | BRL | Low | Budget Surplus (Dec) | -129.573B |  | -37.270B |
+| 19:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Dec) | 74.3% | 75.0% | 73.8% |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.80% |  | 6.78% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | 3.7% |  | -7.2% |
+| 20:00 | USD | Low | MBA Purchase Index | 153.5 |  | 154.5 |
+| 20:00 | USD | Low | Mortgage Market Index | 210.0 |  | 202.5 |
+| 20:00 | USD | Low | Mortgage Refinance Index | 500.2 |  | 445.6 |
+| 20:00 | MXN | Low | Consumer Confidence | 47.1 |  | 46.8 |
+| 20:00 | MXN | Low | Consumer Confidence n.s.a. | 47.6 |  | 47.2 |
+| 20:00 | BRL | Moderate | Retail Sales (MoM) (Dec) | -1.3% | -0.2% | 0.1% |
+| 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 1.3% | 2.9% | 2.5% |
 | 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
-| 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
+| 33 min | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
+| 33 min | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
 | 21:30 | USD | Moderate | Exports (Dec) |  |  | 253.70B |
 | 21:30 | USD | Moderate | Imports (Dec) |  |  | 316.90B |
 | 21:30 | USD | Moderate | Trade Balance (Dec) |  | -62.00B | -63.20B |
