@@ -19,8 +19,8 @@
 | 07:00 | KRW | Low | Current Account (Dec) | 7.41B |  | 4.06B |
 | 07:50 | JPY | Low | Foreign Reserves (USD) (Jan) | 1,291.8B |  | 1,294.6B |
 | 08:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
-| 11:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.629% |
-| 12:00 | IDR | Low | FX Reserves (USD) (Jan) |  |  | 146.40B |
+| 18 min | JPY | Low | 30-Year JGB Auction |  |  | 1.629% |
+| 43 min | IDR | Low | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
 | 13:00 | JPY | Low | Leading Index |  | 109.4 | 107.6 |
 | 13:00 | JPY | Low | Leading Index (MoM) (Dec) |  |  | -1.3% |
