@@ -1,24 +1,24 @@
-## 07 February 2024 - Moderate Impact Forex News
+## 08 February 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 01:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 02:00 | USD | 3-Year Note Auction | 4.169% |  | 4.105% |
-| 02:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 02:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 05:30 | USD | API Weekly Crude Oil Stock | 0.674M | 2.133M | -2.500M |
-| 15:00 | GBP | Halifax House Price Index (YoY) (Jan) | 2.5% |  | 1.8% |
-| 15:00 | GBP | Halifax House Price Index (MoM) (Jan) | 1.3% | 0.8% | 1.1% |
-| 15:00 | EUR | German Industrial Production (MoM) (Dec) | -1.6% | -0.4% | -0.2% |
-| 17:30 | GBP | Mortgage Rate (GBP) (Jan) | 7.96% |  | 7.96% |
-| 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) | 74.3% | 75.0% | 73.8% |
-| 20:00 | BRL | Retail Sales (MoM) (Dec) | -1.3% | -0.2% | 0.1% |
-| 20:00 | BRL | Retail Sales (YoY) (Dec) | 1.3% | 2.9% | 2.5% |
-| 20:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
-| 21:30 | USD | Exports (Dec) | 258.20B |  | 254.30B |
-| 21:30 | USD | Imports (Dec) | 320.40B |  | 316.20B |
-| 21:30 | USD | Trade Balance (Dec) | -62.20B | -62.00B | -61.90B |
-| 21:30 | CAD | Trade Balance (Dec) | -0.31B | 1.10B | 1.06B |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | -1.972M |
+| 00:30 | USD | Atlanta Fed GDPNow (Q1) | 3.4% | 4.2% | 4.2% |
+| 41 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 04:00 | USD | Consumer Credit (Dec) |  | 14.90B | 23.75B |
+| 07:50 | JPY | Adjusted Current Account (Dec) |  | 1.93T | 1.89T |
+| 07:50 | JPY | Current Account n.s.a. (Dec) |  | 1.018T | 1.926T |
+| 08:01 | GBP | RICS House Price Balance (Jan) |  | -22% | -30% |
+| 08:30 | AUD | Building Approvals (MoM) |  | -9.5% | 1.6% |
+| 09:30 | CNY | CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 09:30 | CNY | CPI (YoY) (Jan) |  | -0.5% | -0.3% |
+| 09:30 | CNY | PPI (YoY) (Jan) |  | -2.6% | -2.7% |
+| 10:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 17:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 20:00 | MXN | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
+| 20:00 | MXN | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
+| 20:00 | BRL | CPI (YoY) (Jan) |  | 4.42% | 4.62% |
+| 21:30 | USD | Continuing Jobless Claims |  |  | 1,898K |
+| 22:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 23:00 | GBP | BoE MPC Member Mann |  |  |  |
+| 23:30 | EUR | ECB's Lane Speaks |  |  |  |
