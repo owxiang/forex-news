@@ -13,9 +13,9 @@
 | 15:00 | EUR | German Industrial Production (MoM) (Dec) | -1.6% | -0.4% | -0.2% |
 | 17:30 | GBP | Mortgage Rate (GBP) (Jan) | 7.96% |  | 7.96% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 19:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 75.0% | 73.8% |
-| 20:00 | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
-| 20:00 | BRL | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
+| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Dec) |  | 75.0% | 73.8% |
+| 47 min | BRL | Retail Sales (MoM) (Dec) |  | -0.2% | 0.1% |
+| 47 min | BRL | Retail Sales (YoY) (Dec) |  | 2.9% | 2.2% |
 | 20:15 | GBP | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:30 | USD | Exports (Dec) |  |  | 253.70B |
 | 21:30 | USD | Imports (Dec) |  |  | 316.90B |

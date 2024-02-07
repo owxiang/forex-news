@@ -16,8 +16,8 @@
 | 11:00 | IDR | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.791% |  | 1.629% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.6% |  | -1.3% |
-| 13:00 | JPY | Leading Index (MoM) (Dec) | 1.9% |  | -0.9% |
 | 13:00 | JPY | Leading Index (Dec) | 110.0 | 109.4 | 107.6 |
+| 13:00 | JPY | Leading Index (MoM) (Dec) | 1.9% |  | -0.9% |
 | 14:00 | ZAR | Foreign Reserves (USD) (Jan) | 61.19B |  | 62.52B |
 | 14:00 | ZAR | Net FX Reserves (USD) (Jan) | 56.662B |  | 56.900B |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Jan) | 2.5% |  | 2.3% |
@@ -35,22 +35,22 @@
 | 16:00 | CNY | FX Reserves (USD) (Jan) | 3.219T | 3.217T | 3.238T |
 | 16:30 | HKD | Foreign Reserves (USD) (Jan) | 423.20B |  | 425.60B |
 | 16:40 | GBP | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
 | 18:00 | GBP | 3-Year Treasury Gilt Auction | 4.131% |  | 3.887% |
-| 14 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.946% |
-| 19:30 | INR | M3 Money Supply |  |  | 10.8% |
-| 19:30 | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
-| 19:30 | BRL | Budget Balance (Dec) |  | -180.000B | -80.887B |
-| 19:30 | BRL | Budget Surplus (Dec) |  |  | -37.270B |
-| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.78% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | -7.2% |
-| 20:00 | USD | MBA Purchase Index |  |  | 154.5 |
-| 20:00 | USD | Mortgage Market Index |  |  | 202.5 |
-| 20:00 | USD | Mortgage Refinance Index |  |  | 445.6 |
-| 20:00 | MXN | Consumer Confidence |  |  | 46.8 |
-| 20:00 | MXN | Consumer Confidence n.s.a. |  |  | 47.2 |
+| 18:30 | GBP | 5-Year Treasury Gilt Auction | 4.131% |  | 3.946% |
+| 17 min | INR | M3 Money Supply |  |  | 10.8% |
+| 17 min | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
+| 17 min | BRL | Budget Balance (Dec) |  | -180.000B | -80.887B |
+| 17 min | BRL | Budget Surplus (Dec) |  |  | -37.270B |
+| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.78% |
+| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | -7.2% |
+| 47 min | USD | MBA Purchase Index |  |  | 154.5 |
+| 47 min | USD | Mortgage Market Index |  |  | 202.5 |
+| 47 min | USD | Mortgage Refinance Index |  |  | 445.6 |
+| 47 min | MXN | Consumer Confidence |  |  | 46.8 |
+| 47 min | MXN | Consumer Confidence n.s.a. |  |  | 47.2 |
 | 21:00 | BRL | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Auto Sales (MoM) (Jan) |  |  | 16.9% |
 | 21:30 | CAD | Exports (Dec) |  |  | 65.74B |
