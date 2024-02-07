@@ -15,10 +15,10 @@
 | 08:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 11:00 | IDR | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.791% |  | 1.629% |
-| 42 min | JPY | Coincident Indicator (MoM) (Dec) |  |  | -1.3% |
-| 42 min | JPY | Leading Index (MoM) (Dec) |  |  | -1.3% |
-| 42 min | JPY | Leading Index |  | 109.4 | 107.6 |
-| 14:00 | ZAR | Foreign Reserves (USD) |  |  | 62.52B |
+| 13:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.6% |  | -1.3% |
+| 13:00 | JPY | Leading Index (MoM) (Dec) | 1.9% |  | -0.9% |
+| 13:00 | JPY | Leading Index | 110.0 | 109.4 | 107.6 |
+| 45 min | ZAR | Foreign Reserves (USD) |  |  | 62.52B |
 | 14:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
 | 14:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
 | 15:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
