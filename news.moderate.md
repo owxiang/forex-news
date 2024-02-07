@@ -15,8 +15,8 @@
 | 10:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 20:00 | MXN | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
 | 20:00 | MXN | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
+| 20:00 | MXN | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
 | 20:00 | BRL | CPI (YoY) (Jan) |  | 4.42% | 4.62% |
 | 21:30 | USD | Continuing Jobless Claims |  |  | 1,898K |
 | 22:15 | EUR | ECB's Elderson Speaks |  |  |  |
