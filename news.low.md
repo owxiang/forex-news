@@ -38,9 +38,8 @@
 | 17:00 | EUR | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
-| 45 min | GBP | 3-Year Treasury Gilt Auction |  |  | 3.887% |
-| 45 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:30 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.946% |
+| 18:00 | GBP | 3-Year Treasury Gilt Auction | 4.131% |  | 3.887% |
+| 14 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.946% |
 | 19:30 | INR | M3 Money Supply |  |  | 10.8% |
 | 19:30 | BRL | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
 | 19:30 | BRL | Budget Balance (Dec) |  | -180.000B | -80.887B |

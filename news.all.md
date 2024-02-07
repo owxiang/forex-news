@@ -28,8 +28,8 @@
 | 14:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 56.662B |  | 56.900B |
 | 14:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) | 2.5% |  | 2.3% |
 | 14:45 | CHF | Low | Unemployment Rate s.a. (Jan) | 2.2% | 2.2% | 2.2% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) | 1.3% | 0.8% | 1.1% |
 | 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) | 2.5% |  | 1.8% |
+| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) | 1.3% | 0.8% | 1.1% |
 | 15:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) | -1.6% | -0.4% | -0.2% |
 | 15:00 | EUR | Low | German Industrial Production (YoY) (Dec) | -3.13% |  | -4.37% |
 | 15:00 | NOK | Low | Manufacturing Production (MoM) (Dec) | 0.3% |  | -0.2% |
@@ -47,11 +47,10 @@
 | 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) | 0.3% |  | 1.4% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) | -0.1% | 0.2% | 0.3% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) | 357.8B |  | 351.0B |
-| 45 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
-| 45 min | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.96% |
-| 45 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 45 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.946% |
+| 17:30 | GBP | Moderate | Mortgage Rate (GBP) (Jan) | 7.96% |  | 7.96% |
+| 18:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.131% |  | 3.887% |
+| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 14 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.946% |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 10.8% |
 | 19:30 | BRL | Low | Net Debt-to-GDP ratio (Dec) |  |  | 59.5% |
 | 19:30 | BRL | Low | Budget Balance (Dec) |  | -180.000B | -80.887B |
