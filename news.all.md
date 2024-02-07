@@ -22,16 +22,17 @@
 | 11:00 | IDR | Low | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
 | 11:35 | JPY | Low | 30-Year JGB Auction | 1.791% |  | 1.629% |
 | 13:00 | JPY | Low | Coincident Indicator (MoM) (Dec) | 1.6% |  | -1.3% |
+| 13:00 | JPY | Low | Leading Index (Dec) | 110.0 | 109.4 | 107.6 |
 | 13:00 | JPY | Low | Leading Index (MoM) (Dec) | 1.9% |  | -0.9% |
-| 13:00 | JPY | Low | Leading Index | 110.0 | 109.4 | 107.6 |
-| 45 min | ZAR | Low | Foreign Reserves (USD) |  |  | 62.52B |
-| 14:45 | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
-| 14:45 | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
-| 15:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
-| 15:00 | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
-| 15:00 | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
-| 15:00 | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
+| 14:00 | ZAR | Low | Foreign Reserves (USD) (Jan) | 61.19B |  | 62.52B |
+| 14:00 | ZAR | Low | Net FX Reserves (USD) (Jan) | 56.662B |  | 56.900B |
+| 26 min | CHF | Low | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
+| 26 min | CHF | Low | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
+| 41 min | GBP | Moderate | Halifax House Price Index (YoY) (Jan) |  |  | 1.7% |
+| 41 min | GBP | Moderate | Halifax House Price Index (MoM) (Jan) |  | 0.8% | 1.1% |
+| 41 min | EUR | Moderate | German Industrial Production (MoM) (Dec) |  | -0.4% | -0.7% |
+| 41 min | EUR | Low | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
+| 41 min | NOK | Low | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
 | 15:45 | EUR | Low | French Current Account (Dec) |  |  | -2.80B |
 | 15:45 | EUR | Low | French Exports (Dec) |  |  | 49.5B |
 | 15:45 | EUR | Low | French Imports (Dec) |  |  | 55.4B |
@@ -40,14 +41,14 @@
 | 15:45 | EUR | Low | French Trade Balance (Dec) |  | -6.0B | -5.9B |
 | 16:00 | CHF | Low | Foreign Reserves (USD) (Jan) |  |  | 653.7B |
 | 16:00 | EUR | Low | Spanish Industrial Production (YoY) (Dec) |  | -0.2% | 0.8% |
-| 16:00 | CNY | Low | FX Reserves (USD) |  | 3.217T | 3.238T |
+| 16:00 | CNY | Low | FX Reserves (USD) (Jan) |  | 3.217T | 3.238T |
 | 16:30 | HKD | Low | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
 | 16:40 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | EUR | Low | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Low | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | SGD | Low | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
 | 18:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 3.887% |
-| 18:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
+| 18:00 | GBP | Moderate | Mortgage Rate (GBP) (Jan) |  |  | 7.96% |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.946% |
@@ -68,15 +69,13 @@
 | 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
 | 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
-| 21:30 | USD | Moderate | Exports |  |  | 253.70B |
-| 21:30 | USD | Moderate | Imports |  |  | 316.90B |
+| 21:30 | USD | Moderate | Exports (Dec) |  |  | 253.70B |
+| 21:30 | USD | Moderate | Imports (Dec) |  |  | 316.90B |
 | 21:30 | USD | Moderate | Trade Balance (Dec) |  | -62.00B | -63.20B |
 | 21:30 | CAD | Low | Exports (Dec) |  |  | 65.74B |
 | 21:30 | CAD | Low | Imports (Dec) |  |  | 64.17B |
 | 21:30 | CAD | Moderate | Trade Balance (Dec) |  | 1.10B | 1.57B |
 | 23:00 | USD | Low | IBD/TIPP Economic Optimism (Feb) |  | 47.2 | 44.7 |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 23:00 | USD | Low | Milk Auctions |  |  | 3,493.0 |
 | 23:30 | USD | High | Crude Oil Inventories |  | 1.700M | 1.234M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.428M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | 0.565M |

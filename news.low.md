@@ -16,13 +16,14 @@
 | 11:00 | IDR | FX Reserves (USD) (Jan) | 145.10B |  | 146.40B |
 | 11:35 | JPY | 30-Year JGB Auction | 1.791% |  | 1.629% |
 | 13:00 | JPY | Coincident Indicator (MoM) (Dec) | 1.6% |  | -1.3% |
+| 13:00 | JPY | Leading Index (Dec) | 110.0 | 109.4 | 107.6 |
 | 13:00 | JPY | Leading Index (MoM) (Dec) | 1.9% |  | -0.9% |
-| 13:00 | JPY | Leading Index | 110.0 | 109.4 | 107.6 |
-| 45 min | ZAR | Foreign Reserves (USD) |  |  | 62.52B |
-| 14:45 | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
-| 14:45 | CHF | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
-| 15:00 | EUR | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
-| 15:00 | NOK | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
+| 14:00 | ZAR | Foreign Reserves (USD) (Jan) | 61.19B |  | 62.52B |
+| 14:00 | ZAR | Net FX Reserves (USD) (Jan) | 56.662B |  | 56.900B |
+| 26 min | CHF | Unemployment Rate n.s.a. (Jan) |  |  | 2.3% |
+| 26 min | CHF | Unemployment Rate s.a. (Jan) |  | 2.2% | 2.2% |
+| 41 min | EUR | German Industrial Production (YoY) (Dec) |  |  | -4.87% |
+| 41 min | NOK | Manufacturing Production (MoM) (Dec) |  |  | -0.3% |
 | 15:45 | EUR | French Current Account (Dec) |  |  | -2.80B |
 | 15:45 | EUR | French Exports (Dec) |  |  | 49.5B |
 | 15:45 | EUR | French Imports (Dec) |  |  | 55.4B |
@@ -31,11 +32,11 @@
 | 15:45 | EUR | French Trade Balance (Dec) |  | -6.0B | -5.9B |
 | 16:00 | CHF | Foreign Reserves (USD) (Jan) |  |  | 653.7B |
 | 16:00 | EUR | Spanish Industrial Production (YoY) (Dec) |  | -0.2% | 0.8% |
-| 16:00 | CNY | FX Reserves (USD) |  | 3.217T | 3.238T |
+| 16:00 | CNY | FX Reserves (USD) (Jan) |  | 3.217T | 3.238T |
 | 16:30 | HKD | Foreign Reserves (USD) (Jan) |  |  | 425.50B |
 | 16:40 | GBP | BoE Breeden Speaks |  |  |  |
-| 17:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | EUR | Italian Retail Sales (MoM) (Dec) |  | 0.2% | 0.4% |
+| 17:00 | EUR | Italian Retail Sales (YoY) (Dec) |  |  | 1.5% |
 | 17:00 | SGD | Foreign Reserves USD (MoM) (Jan) |  |  | 351.0B |
 | 18:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 3.887% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
@@ -56,8 +57,6 @@
 | 21:30 | CAD | Exports (Dec) |  |  | 65.74B |
 | 21:30 | CAD | Imports (Dec) |  |  | 64.17B |
 | 23:00 | USD | IBD/TIPP Economic Optimism (Feb) |  | 47.2 | 44.7 |
-| 23:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.3% |
-| 23:00 | USD | Milk Auctions |  |  | 3,493.0 |
 | 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.428M |
 | 23:30 | USD | Crude Oil Imports |  |  | 0.565M |
 | 23:30 | USD | Distillate Fuel Production |  |  | -0.115M |
