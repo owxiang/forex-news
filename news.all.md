@@ -10,8 +10,8 @@
 | 03:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.674M | 2.133M | -2.500M |
 | 05:45 | NZD | Low | Employment Change (QoQ) (Q4) | 0.4% | 0.3% | -0.1% |
-| 05:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 3.9% | 3.8% | 4.1% |
 | 05:45 | NZD | Low | Labor Cost Index (QoQ) (Q4) | 1.0% | 0.8% | 0.8% |
+| 05:45 | NZD | Low | Labor Cost Index (YoY) (Q4) | 3.9% | 3.8% | 4.1% |
 | 05:45 | NZD | Low | Participation Rate (Q4) | 71.90% | 72.00% | 72.00% |
 | 05:45 | NZD | Low | Unemployment Rate (Q4) | 4.0% | 4.3% | 3.9% |
 | 06:00 | AUD | Low | AIG Construction Index (Dec) | -11.5 |  | -22.2 |
@@ -66,14 +66,14 @@
 | 20:00 | BRL | Moderate | Retail Sales (MoM) (Dec) | -1.3% | -0.2% | 0.1% |
 | 20:00 | BRL | Moderate | Retail Sales (YoY) (Dec) | 1.3% | 2.9% | 2.5% |
 | 20:15 | GBP | Moderate | BoE Deputy Governor Woods Speaks |  |  |  |
-| 33 min | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
-| 33 min | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
-| 21:30 | USD | Moderate | Exports (Dec) |  |  | 253.70B |
-| 21:30 | USD | Moderate | Imports (Dec) |  |  | 316.90B |
-| 21:30 | USD | Moderate | Trade Balance (Dec) |  | -62.00B | -63.20B |
-| 21:30 | CAD | Low | Exports (Dec) |  |  | 65.74B |
-| 21:30 | CAD | Low | Imports (Dec) |  |  | 64.17B |
-| 21:30 | CAD | Moderate | Trade Balance (Dec) |  | 1.10B | 1.57B |
+| 14 min | USD | Moderate | Exports (Dec) |  |  | 253.70B |
+| 14 min | USD | Moderate | Imports (Dec) |  |  | 316.90B |
+| 14 min | USD | Moderate | Trade Balance (Dec) |  | -62.00B | -63.20B |
+| 14 min | CAD | Low | Exports (Dec) |  |  | 65.74B |
+| 14 min | CAD | Low | Imports (Dec) |  |  | 64.17B |
+| 14 min | CAD | Moderate | Trade Balance (Dec) |  | 1.10B | 1.57B |
+| 14 min | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
+| 14 min | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
 | 23:30 | USD | High | Crude Oil Inventories |  | 1.700M | 1.234M |
 | 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.428M |
 | 23:30 | USD | Low | Crude Oil Imports |  |  | 0.565M |
