@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | Atlanta Fed GDPNow (Q1) | 3.4% | 4.2% | 4.2% |
-| 41 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 04:00 | USD | Consumer Credit (Dec) |  | 14.90B | 23.75B |
+| 03:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 48 min | USD | Consumer Credit (Dec) |  | 14.90B | 23.75B |
 | 07:50 | JPY | Adjusted Current Account (Dec) |  | 1.93T | 1.89T |
 | 07:50 | JPY | Current Account n.s.a. (Dec) |  | 1.018T | 1.926T |
 | 08:01 | GBP | RICS House Price Balance (Jan) |  | -22% | -30% |

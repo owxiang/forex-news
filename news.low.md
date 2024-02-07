@@ -5,7 +5,7 @@
 | 00:30 | USD | Fed Collins Speaks |  |  |  |
 | 01:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 02:00 | BRL | Trade Balance (Jan) | 6.53B |  | 9.36B |
-| 11 min | CAD | BOC Summary of Deliberations |  |  |  |
+| 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 07:50 | JPY | Bank Lending (YoY) (Jan) |  | 3.2% | 3.1% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 382.9B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 720.3B |
@@ -15,8 +15,8 @@
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Jan) |  | 50.3 | 50.7 |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
 | 19:30 | BRL | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 19:30 | BRL | Auto Sales (MoM) (Jan) |  |  | 16.9% |
 | 20:00 | MXN | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
