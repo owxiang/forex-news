@@ -6,13 +6,13 @@
 | 00:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.265% |
 | 01:05 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 01:30 | BRL | Foreign Exchange Flows | -1.473B |  | 1.509B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.412T |
+| 15 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.412T |
 | 06:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
 | 07:50 | JPY | M3 Money Supply (Jan) |  |  | 2,125.5% |
 | 11:35 | JPY | 5-Year JGB Auction |  |  | 0.197% |
-| 15:00 | EUR | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
 | 15:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
+| 15:00 | EUR | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
 | 15:00 | NOK | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
 | 15:00 | NOK | Core Inflation (MoM) (Jan) |  | -0.1% | 0.2% |
 | 15:00 | NOK | CPI (MoM) (Jan) |  | 0.1% | 0.1% |

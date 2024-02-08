@@ -10,8 +10,8 @@
 | 02:00 | USD | High | 30-Year Bond Auction | 4.360% |  | 4.229% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.4% | 3.4% | 3.4% |
 | 03:00 | MXN | Moderate | Interest Rate Decision (Feb) | 11.25% | 11.25% | 11.25% |
-| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,630B |
-| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.412T |
+| 15 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,630B |
+| 15 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.412T |
 | 06:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
 | 07:50 | JPY | Low | M3 Money Supply (Jan) |  |  | 2,125.5% |
@@ -19,8 +19,8 @@
 | 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.197% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.9% | 3.7% |
 | 15:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 15:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
 | 15:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
+| 15:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
 | 15:00 | NOK | Low | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Jan) |  | -0.1% | 0.2% |
 | 15:00 | NOK | Low | CPI (MoM) (Jan) |  | 0.1% | 0.1% |
