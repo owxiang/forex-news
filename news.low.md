@@ -6,10 +6,10 @@
 | 01:30 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 02:00 | BRL | Trade Balance (Jan) | 6.53B |  | 9.36B |
 | 02:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 34 min | JPY | Bank Lending (YoY) (Jan) |  | 3.2% | 3.1% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | 382.9B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 720.3B |
-| 08:30 | AUD | Private House Approvals |  | -0.5% | -1.7% |
+| 07:50 | JPY | Bank Lending (YoY) (Jan) | 3.1% | 3.2% | 3.0% |
+| 07:50 | JPY | Foreign Bonds Buying | 456.6B |  | 385.5B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 308.4B |  | 721.0B |
+| 08:30 | AUD | Private House Approvals | -0.5% | -0.5% | -4.3% |
 | 11:00 | IDR | Consumer Confidence |  |  | 123.8 |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
@@ -19,8 +19,8 @@
 | 19:00 | ZAR | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 20:00 | MXN | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
-| 20:00 | MXN | PPI (MoM) (Jan) |  |  | -0.30% |
 | 20:00 | MXN | PPI (YoY) (Jan) |  |  | 1.00% |
+| 20:00 | MXN | PPI (MoM) (Jan) |  |  | -0.30% |
 | 20:00 | BRL | CPI (MoM) (Jan) |  | 0.34% | 0.56% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.49% |
 | 21:00 | BRL | Auto Production (MoM) (Jan) |  |  | -15.3% |

@@ -5,14 +5,14 @@
 | 00:30 | USD | Atlanta Fed GDPNow (Q1) | 3.4% | 4.2% | 4.2% |
 | 03:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 04:00 | USD | Consumer Credit (Dec) | 1.56B | 14.90B | 23.48B |
-| 34 min | JPY | Adjusted Current Account (Dec) |  | 1.93T | 1.89T |
-| 34 min | JPY | Current Account n.s.a. (Dec) |  | 1.018T | 1.926T |
-| 45 min | GBP | RICS House Price Balance (Jan) |  | -22% | -30% |
-| 08:30 | AUD | Building Approvals (MoM) |  | -9.5% | 1.6% |
-| 09:30 | CNY | CPI (MoM) (Jan) |  | 0.4% | 0.1% |
-| 09:30 | CNY | CPI (YoY) (Jan) |  | -0.5% | -0.3% |
-| 09:30 | CNY | PPI (YoY) (Jan) |  | -2.6% | -2.7% |
-| 10:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 07:50 | JPY | Adjusted Current Account (Dec) | 181.00T | 1.93T | 1.89T |
+| 07:50 | JPY | Current Account n.s.a. (Dec) | 0.744T | 1.018T | 1.926T |
+| 08:01 | GBP | RICS House Price Balance (Jan) | -18% | -22% | -29% |
+| 08:30 | AUD | Building Approvals (MoM) | -9.5% | -9.5% | 0.3% |
+| 24 min | CNY | CPI (MoM) (Jan) |  | 0.4% | 0.1% |
+| 24 min | CNY | CPI (YoY) (Jan) |  | -0.5% | -0.3% |
+| 24 min | CNY | PPI (YoY) (Jan) |  | -2.6% | -2.7% |
+| 54 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 20:00 | MXN | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
