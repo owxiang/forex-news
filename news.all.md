@@ -33,8 +33,8 @@
 | 20:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
-| 20:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 1.00% |
 | 20:00 | MXN | Low | PPI (MoM) (Jan) |  |  | -0.30% |
+| 20:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 1.00% |
 | 20:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.34% | 0.56% |
 | 20:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.42% | 4.62% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.49% |
