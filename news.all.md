@@ -21,12 +21,10 @@
 | 09:30 | CNY | Moderate | CPI (MoM) (Jan) | 0.3% | 0.4% | 0.1% |
 | 09:30 | CNY | Moderate | CPI (YoY) (Jan) | -0.8% | -0.5% | -0.3% |
 | 09:30 | CNY | Moderate | PPI (YoY) (Jan) | -2.5% | -2.6% | -2.7% |
-| 11:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
-| 11:00 | IDR | Low | Consumer Confidence |  |  | 123.8 |
-| 12:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 12:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 12:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 13:00 | JPY | Low | Economy Watchers Current Index (Jan) |  | 50.3 | 50.7 |
+| 11 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 11 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 11 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 41 min | JPY | Low | Economy Watchers Current Index (Jan) |  | 50.3 | 50.7 |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
@@ -42,7 +40,7 @@
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.49% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
-| 21:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,898K |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,878K | 1,898K |
 | 21:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | High | Initial Jobless Claims |  | 221K | 224K |
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
