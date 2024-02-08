@@ -13,9 +13,9 @@
 | 12:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Jan) | 50.2 | 50.3 | 51.8 |
-| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
+| 45 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 20:00 | MXN | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
 | 20:00 | MXN | PPI (MoM) (Jan) |  |  | -0.30% |

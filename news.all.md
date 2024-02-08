@@ -26,9 +26,9 @@
 | 12:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jan) | 50.2 | 50.3 | 51.8 |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
+| 45 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
