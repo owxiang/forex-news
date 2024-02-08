@@ -9,7 +9,7 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | -1.473B |  | 1.509B |
 | 02:00 | USD | High | 30-Year Bond Auction | 4.360% |  | 4.229% |
 | 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.4% | 3.4% | 3.4% |
-| 41 min | MXN | Moderate | Interest Rate Decision (Feb) |  | 11.25% | 11.25% |
+| 03:00 | MXN | Moderate | Interest Rate Decision (Feb) | 11.25% | 11.25% | 11.25% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,630B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.412T |
 | 06:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
