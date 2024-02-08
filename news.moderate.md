@@ -17,7 +17,7 @@
 | 20:00 | MXN | CPI (MoM) (Jan) | 0.89% | 0.88% | 0.71% |
 | 20:00 | MXN | CPI (YoY) (Jan) | 4.88% | 4.88% | 4.66% |
 | 20:00 | BRL | CPI (YoY) (Jan) | 4.51% | 4.42% | 4.62% |
-| 21:30 | USD | Continuing Jobless Claims |  | 1,878K | 1,898K |
-| 22:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 12 min | USD | Continuing Jobless Claims |  | 1,878K | 1,898K |
+| 57 min | EUR | ECB's Elderson Speaks |  |  |  |
 | 23:00 | GBP | BoE MPC Member Mann |  |  |  |
 | 23:30 | EUR | ECB's Lane Speaks |  |  |  |

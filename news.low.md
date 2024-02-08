@@ -14,19 +14,19 @@
 | 12:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Jan) | 50.2 | 50.3 | 51.8 |
 | 17:30 | ZAR | Business Confidence (Dec) | 112.3 |  | 111.5 |
-| 19:00 | ZAR | Manufacturing Production (MoM) (Dec) | -1.7% | 0.5% | 1.2% |
 | 19:00 | ZAR | Manufacturing Production (YoY) (Dec) | 0.7% | 2.5% | 2.5% |
+| 19:00 | ZAR | Manufacturing Production (MoM) (Dec) | -1.7% | 0.5% | 1.2% |
 | 20:00 | MXN | Core CPI (MoM) (Jan) | 0.40% | 0.37% | 0.44% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jan) | 4.76% | 4.72% | 5.09% |
 | 20:00 | MXN | PPI (MoM) (Jan) | 0.40% |  | -0.30% |
 | 20:00 | MXN | PPI (YoY) (Jan) | 1.00% |  | 1.00% |
 | 20:00 | BRL | CPI (MoM) (Jan) | 0.42% | 0.34% | 0.56% |
 | 20:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.32% |  | 0.49% |
-| 32 min | BRL | Auto Production (MoM) (Jan) |  |  | -15.3% |
-| 32 min | BRL | Auto Sales (MoM) (Jan) |  |  | 16.9% |
-| 21:30 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 22:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 21:00 | BRL | Auto Production (MoM) (Jan) | -11.0% |  | -15.3% |
+| 21:00 | BRL | Auto Sales (MoM) (Jan) | -34.9% |  | 16.9% |
+| 12 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 12 min | USD | Jobless Claims 4-Week Avg. |  |  | 207.75K |
+| 42 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 23:00 | USD | Wholesale Inventories (MoM) (Dec) |  | 0.4% | -0.2% |
 | 23:00 | USD | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.0% |
 | 23:30 | USD | Natural Gas Storage |  | -73B | -197B |

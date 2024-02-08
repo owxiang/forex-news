@@ -27,25 +27,25 @@
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jan) | 50.2 | 50.3 | 51.8 |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 17:30 | ZAR | Low | Business Confidence (Dec) | 112.3 |  | 111.5 |
-| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) | -1.7% | 0.5% | 1.2% |
 | 19:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) | 0.7% | 2.5% | 2.5% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) | -1.7% | 0.5% | 1.2% |
 | 20:00 | MXN | Low | Core CPI (MoM) (Jan) | 0.40% | 0.37% | 0.44% |
 | 20:00 | MXN | Moderate | CPI (MoM) (Jan) | 0.89% | 0.88% | 0.71% |
 | 20:00 | MXN | Moderate | CPI (YoY) (Jan) | 4.88% | 4.88% | 4.66% |
 | 20:00 | MXN | Low | Month Core Inflation (MoM) (Jan) | 4.76% | 4.72% | 5.09% |
 | 20:00 | MXN | Low | PPI (MoM) (Jan) | 0.40% |  | -0.30% |
 | 20:00 | MXN | Low | PPI (YoY) (Jan) | 1.00% |  | 1.00% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Jan) | 4.51% | 4.42% | 4.62% |
 | 20:00 | BRL | Low | CPI (MoM) (Jan) | 0.42% | 0.34% | 0.56% |
+| 20:00 | BRL | Moderate | CPI (YoY) (Jan) | 4.51% | 4.42% | 4.62% |
 | 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) | 0.32% |  | 0.49% |
-| 32 min | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
-| 32 min | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
-| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,878K | 1,898K |
-| 21:30 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | High | Initial Jobless Claims |  | 221K | 224K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
-| 22:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 22:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 21:00 | BRL | Low | Auto Production (MoM) (Jan) | -11.0% |  | -15.3% |
+| 21:00 | BRL | Low | Auto Sales (MoM) (Jan) | -34.9% |  | 16.9% |
+| 12 min | USD | Moderate | Continuing Jobless Claims |  | 1,878K | 1,898K |
+| 12 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 12 min | USD | High | Initial Jobless Claims |  | 221K | 224K |
+| 12 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 207.75K |
+| 42 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 57 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 23:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 23:00 | USD | Low | Wholesale Inventories (MoM) (Dec) |  | 0.4% | -0.2% |
 | 23:00 | USD | Low | Wholesale Trade Sales (MoM) (Dec) |  |  | 0.0% |
