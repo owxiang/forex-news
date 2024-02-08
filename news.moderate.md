@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | USD | WASDE Report |  |  |  |
-| 02:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.4% | 3.4% |
+| 01:00 | USD | WASDE Report |  |  |  |
+| 45 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.4% | 3.4% |
 | 03:00 | MXN | Interest Rate Decision (Feb) |  | 11.25% | 11.25% |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,630B |
 | 11:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
