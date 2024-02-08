@@ -12,7 +12,7 @@
 | 09:30 | CNY | CPI (MoM) (Jan) | 0.3% | 0.4% | 0.1% |
 | 09:30 | CNY | CPI (YoY) (Jan) | -0.8% | -0.5% | -0.3% |
 | 09:30 | CNY | PPI (YoY) (Jan) | -2.5% | -2.6% | -2.7% |
-| 40 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 11:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 20:00 | MXN | CPI (MoM) (Jan) |  | 0.88% | 0.71% |

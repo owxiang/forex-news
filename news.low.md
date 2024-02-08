@@ -10,13 +10,13 @@
 | 07:50 | JPY | Foreign Bonds Buying | 456.6B |  | 385.5B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks | 308.4B |  | 721.0B |
 | 08:30 | AUD | Private House Approvals | -0.5% | -0.5% | -4.3% |
-| 40 min | IDR | Consumer Confidence |  |  | 123.8 |
+| 11:00 | IDR | Consumer Confidence |  |  | 123.8 |
 | 12:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 12:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 13:00 | JPY | Economy Watchers Current Index (Jan) |  | 50.3 | 50.7 |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 19:00 | ZAR | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 19:00 | ZAR | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
+| 19:00 | ZAR | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
 | 20:00 | MXN | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
 | 20:00 | MXN | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
 | 20:00 | MXN | PPI (MoM) (Jan) |  |  | -0.30% |
