@@ -1,6 +1,6 @@
-## 08 February 2024 - High Impact Forex News
+## 09 February 2024 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | 10-Year Note Auction | 4.093% |  | 4.024% |
-| 12 min | USD | Initial Jobless Claims |  | 221K | 224K |
+| 02:00 | USD | 30-Year Bond Auction |  |  | 4.229% |
+| 15:00 | EUR | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
