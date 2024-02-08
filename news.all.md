@@ -19,8 +19,8 @@
 | 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.197% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.9% | 3.7% |
 | 15:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 15:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 15:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
+| 15:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 15:00 | NOK | Low | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Jan) |  | -0.1% | 0.2% |
 | 15:00 | NOK | Low | CPI (MoM) (Jan) |  | 0.1% | 0.1% |
