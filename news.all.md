@@ -26,17 +26,18 @@
 | 12:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 13:00 | JPY | Low | Economy Watchers Current Index (Jan) | 50.2 | 50.3 | 51.8 |
 | 17:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 44 min | ZAR | Low | Manufacturing Production (MoM) (Dec) |  | 0.5% | 0.8% |
-| 44 min | ZAR | Low | Manufacturing Production (YoY) (Dec) |  | 2.5% | 1.9% |
-| 20:00 | MXN | Low | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
-| 20:00 | MXN | Moderate | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
-| 20:00 | MXN | Moderate | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
-| 20:00 | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
-| 20:00 | MXN | Low | PPI (YoY) (Jan) |  |  | 1.00% |
-| 20:00 | MXN | Low | PPI (MoM) (Jan) |  |  | -0.30% |
-| 20:00 | BRL | Low | CPI (MoM) (Jan) |  | 0.34% | 0.56% |
-| 20:00 | BRL | Moderate | CPI (YoY) (Jan) |  | 4.42% | 4.62% |
-| 20:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.49% |
+| 17:30 | ZAR | Low | Business Confidence (Dec) | 112.3 |  | 111.5 |
+| 19:00 | ZAR | Low | Manufacturing Production (YoY) (Dec) | 0.7% | 2.5% | 2.5% |
+| 19:00 | ZAR | Low | Manufacturing Production (MoM) (Dec) | -1.7% | 0.5% | 1.2% |
+| 47 min | MXN | Low | Core CPI (MoM) (Jan) |  | 0.37% | 0.44% |
+| 47 min | MXN | Moderate | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
+| 47 min | MXN | Moderate | CPI (YoY) (Jan) |  | 4.88% | 4.66% |
+| 47 min | MXN | Low | Month Core Inflation (MoM) (Jan) |  | 4.72% | 5.09% |
+| 47 min | MXN | Low | PPI (YoY) (Jan) |  |  | 1.00% |
+| 47 min | MXN | Low | PPI (MoM) (Jan) |  |  | -0.30% |
+| 47 min | BRL | Low | CPI (MoM) (Jan) |  | 0.34% | 0.56% |
+| 47 min | BRL | Moderate | CPI (YoY) (Jan) |  | 4.42% | 4.62% |
+| 47 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jan) |  |  | 0.49% |
 | 21:00 | BRL | Low | Auto Production (MoM) (Jan) |  |  | -15.3% |
 | 21:00 | BRL | Low | Auto Sales (MoM) (Jan) |  |  | 16.9% |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,878K | 1,898K |
