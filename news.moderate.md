@@ -9,10 +9,10 @@
 | 07:50 | JPY | Current Account n.s.a. (Dec) | 0.744T | 1.018T | 1.926T |
 | 08:01 | GBP | RICS House Price Balance (Jan) | -18% | -22% | -29% |
 | 08:30 | AUD | Building Approvals (MoM) | -9.5% | -9.5% | 0.3% |
-| 24 min | CNY | CPI (MoM) (Jan) |  | 0.4% | 0.1% |
-| 24 min | CNY | CPI (YoY) (Jan) |  | -0.5% | -0.3% |
-| 24 min | CNY | PPI (YoY) (Jan) |  | -2.6% | -2.7% |
-| 54 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 09:30 | CNY | CPI (MoM) (Jan) | 0.3% | 0.4% | 0.1% |
+| 09:30 | CNY | CPI (YoY) (Jan) | -0.8% | -0.5% | -0.3% |
+| 09:30 | CNY | PPI (YoY) (Jan) | -2.5% | -2.6% | -2.7% |
+| 40 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 12:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 17:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 20:00 | MXN | CPI (MoM) (Jan) |  | 0.88% | 0.71% |
