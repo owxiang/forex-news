@@ -15,7 +15,7 @@
 | 06:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.2% | 2.3% |
 | 07:50 | JPY | Low | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
-| 11:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 40 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.197% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.9% | 3.7% |
 | 15:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
