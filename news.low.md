@@ -19,20 +19,19 @@
 | 15:00 | CNY | Chinese Total Social Financing (Jan) | 6,500.0B | 5,550.0B | 1,940.0B |
 | 15:00 | NOK | Core CPI YTD (Jan) | 5.3% | 5.2% | 5.5% |
 | 15:00 | NOK | Core Inflation (MoM) (Jan) | 0.0% | -0.1% | 0.2% |
-| 15:00 | NOK | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
 | 15:00 | NOK | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
+| 15:00 | NOK | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
 | 15:00 | NOK | PPI (YoY) (Jan) | -12.9% |  | -25.6% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Dec) | 1.1% | 0.8% | -1.3% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Dec) | -2.1% |  | -2.9% |
-| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 54 min | EUR | Italian 12-Month BOT Auction |  |  | 3.442% |
+| 18:10 | EUR | Italian 12-Month BOT Auction | 3.522% |  | 3.442% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.3% |
 | 19:30 | INR | Deposit Growth |  |  | 13.1% |
 | 19:30 | INR | FX Reserves, USD |  |  | 616.73B |
-| 20:00 | MXN | Industrial Production (MoM) (Dec) |  | -0.1% | -1.0% |
 | 20:00 | MXN | Industrial Production (YoY) (Dec) |  | 2.0% | 2.8% |
-| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | -0.3% |
+| 20:00 | MXN | Industrial Production (MoM) (Dec) |  | -0.1% | -1.0% |
 | 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | 0.4% |
+| 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | -0.3% |
 | 21:30 | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 5.7% |
 | 21:30 | CAD | Full Employment Change (Jan) |  |  | -23.5K |
 | 21:30 | CAD | Part Time Employment Change (Jan) |  |  | 23.6K |
