@@ -6,7 +6,7 @@
 | 02:00 | USD | Atlanta Fed GDPNow (Q1) | 3.4% | 3.4% | 3.4% |
 | 03:00 | MXN | Interest Rate Decision (Feb) | 11.25% | 11.25% | 11.25% |
 | 05:30 | USD | Fed's Balance Sheet | 7,631B |  | 7,630B |
-| 40 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 44 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 15:00 | EUR | German CPI (YoY) (Jan) |  | 2.9% | 3.7% |
 | 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | CAD | Employment Change (Jan) |  | 16.0K | 0.1K |
