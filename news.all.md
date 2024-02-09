@@ -30,8 +30,8 @@
 | 15:00 | NOK | Low | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
 | 15:00 | NOK | Low | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
 | 15:00 | NOK | Low | PPI (YoY) (Jan) | -12.9% |  | -25.6% |
-| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
-| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
+| 42 min | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
+| 42 min | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.442% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |

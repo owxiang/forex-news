@@ -22,8 +22,8 @@
 | 15:00 | NOK | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
 | 15:00 | NOK | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
 | 15:00 | NOK | PPI (YoY) (Jan) | -12.9% |  | -25.6% |
-| 17:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
+| 42 min | EUR | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
+| 42 min | EUR | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.442% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.3% |
