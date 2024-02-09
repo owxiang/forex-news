@@ -9,5 +9,5 @@
 | 15:00 | EUR | German CPI (YoY) (Jan) | 2.9% | 2.9% | 3.7% |
 | 15:00 | CNY | New Loans (Jan) | 4,920.0B | 4,500.0B | 1,170.0B |
 | 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | CAD | Employment Change (Jan) |  | 16.0K | 0.1K |
-| 21:30 | CAD | Unemployment Rate (Jan) |  | 5.9% | 5.8% |
+| 14 min | CAD | Employment Change (Jan) |  | 16.0K | 0.1K |
+| 14 min | CAD | Unemployment Rate (Jan) |  | 5.9% | 5.8% |
