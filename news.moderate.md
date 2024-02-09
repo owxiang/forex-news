@@ -8,6 +8,6 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,631B |  | 7,630B |
 | 15:00 | EUR | German CPI (YoY) (Jan) | 2.9% | 2.9% | 3.7% |
 | 15:00 | CNY | New Loans (Jan) | 4,920.0B | 4,500.0B | 1,170.0B |
-| 14 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | CAD | Employment Change (Jan) |  | 16.0K | 0.1K |
 | 21:30 | CAD | Unemployment Rate (Jan) |  | 5.9% | 5.8% |
