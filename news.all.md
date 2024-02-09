@@ -17,29 +17,29 @@
 | 07:50 | JPY | Low | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
 | 08:40 | IDR | Low | Motorbike Sales (YoY) | -3.70% |  | -11.60% |
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.310% |  | 0.197% |
-| 15:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.9% | 2.9% | 3.7% |
 | 15:00 | EUR | High | German CPI (MoM) (Jan) | 0.2% | 0.2% | 0.1% |
-| 15:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.2% |
+| 15:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.9% | 2.9% | 3.7% |
 | 15:00 | EUR | Low | German HICP (YoY) (Jan) | 3.1% | 3.1% | 3.8% |
+| 15:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.2% |
 | 15:00 | CNY | Low | M2 Money Stock (YoY) (Jan) | 8.7% | 9.3% | 9.7% |
 | 15:00 | CNY | Moderate | New Loans (Jan) | 4,920.0B | 4,500.0B | 1,170.0B |
 | 15:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) | 10.4% | 10.4% | 10.6% |
 | 15:00 | CNY | Low | Chinese Total Social Financing (Jan) | 6,500.0B | 5,550.0B | 1,940.0B |
 | 15:00 | NOK | Low | Core CPI YTD (Jan) | 5.3% | 5.2% | 5.5% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Jan) | 0.0% | -0.1% | 0.2% |
-| 15:00 | NOK | Low | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
 | 15:00 | NOK | Low | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
+| 15:00 | NOK | Low | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
 | 15:00 | NOK | Low | PPI (YoY) (Jan) | -12.9% |  | -25.6% |
-| 42 min | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
-| 42 min | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
-| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.442% |
+| 17:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) | 1.1% | 0.8% | -1.3% |
+| 17:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) | -2.1% |  | -2.9% |
+| 44 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 54 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.442% |
 | 18:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.3% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.1% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 616.73B |
-| 20:00 | MXN | Low | Industrial Production (YoY) (Dec) |  | 2.0% | 2.8% |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Dec) |  | -0.1% | -1.0% |
+| 20:00 | MXN | Low | Industrial Production (YoY) (Dec) |  | 2.0% | 2.8% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | -0.3% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | 0.4% |
 | 21:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 5.7% |
