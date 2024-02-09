@@ -22,18 +22,18 @@
 | 15:00 | NOK | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
 | 15:00 | NOK | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
 | 15:00 | NOK | PPI (YoY) (Jan) | -12.9% |  | -25.6% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Dec) | 1.1% | 0.8% | -1.3% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Dec) | -2.1% |  | -2.9% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Dec) | 1.1% | 0.8% | -1.3% |
 | 18:10 | EUR | Italian 12-Month BOT Auction | 3.522% |  | 3.442% |
 | 19:30 | INR | Bank Loan Growth | 20.3% |  | 20.3% |
 | 19:30 | INR | Deposit Growth | 13.2% |  | 13.1% |
 | 19:30 | INR | FX Reserves, USD | 622.47B |  | 616.73B |
-| 20:00 | MXN | Industrial Production (YoY) (Dec) | 0.0% | 2.0% | 2.9% |
 | 20:00 | MXN | Industrial Production (MoM) (Dec) | -0.7% | -0.1% | -1.0% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) | 0.3% |  | 0.9% |
+| 20:00 | MXN | Industrial Production (YoY) (Dec) | 0.0% | 2.0% | 2.9% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) | -2.0% |  | 0.4% |
-| 14 min | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 5.7% |
-| 14 min | CAD | Full Employment Change (Jan) |  |  | -23.5K |
-| 14 min | CAD | Part Time Employment Change (Jan) |  |  | 23.6K |
-| 14 min | CAD | Participation Rate (Jan) |  |  | 65.4% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) | 0.3% |  | 0.9% |
+| 21:30 | CAD | Avg hourly wages Permanent employee (Jan) | 5.3% |  | 5.7% |
+| 21:30 | CAD | Full Employment Change (Jan) | -11.6K |  | 12.1K |
+| 21:30 | CAD | Part Time Employment Change (Jan) | 48.9K |  | 0.3K |
+| 21:30 | CAD | Participation Rate (Jan) | 65.3% |  | 0.1% |
 | 23:30 | CAD | BoC Senior Loan Officer Survey |  |  | 13.2 |
