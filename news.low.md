@@ -5,11 +5,12 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.265% |
 | 01:05 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 01:30 | BRL | Foreign Exchange Flows | -1.473B |  | 1.509B |
+| 01:30 | BRL | Foreign Exchange Flows | -0.315B |  | 6.355B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.556T |  | 3.412T |
 | 06:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.2% | 2.3% |
 | 07:50 | JPY | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
+| 08:40 | IDR | Motorbike Sales (YoY) | -3.70% |  | -11.60% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.310% |  | 0.197% |
 | 15:00 | EUR | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
 | 15:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
@@ -27,8 +28,8 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 616.73B |
 | 20:00 | MXN | Industrial Production (YoY) (Dec) |  | 2.0% | 2.8% |
 | 20:00 | MXN | Industrial Production (MoM) (Dec) |  | -0.1% | -1.0% |
-| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | 0.4% |
 | 20:00 | BRL | Brazilian Service Sector Growth (YoY) (Dec) |  |  | -0.3% |
+| 20:00 | BRL | Brazilian Service Sector Growth (MoM) (Dec) |  |  | 0.4% |
 | 21:30 | CAD | Avg hourly wages Permanent employee (Jan) |  |  | 5.7% |
 | 21:30 | CAD | Full Employment Change (Jan) |  |  | -23.5K |
 | 21:30 | CAD | Part Time Employment Change (Jan) |  |  | 23.6K |
