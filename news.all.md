@@ -19,8 +19,8 @@
 | 11:35 | JPY | Low | 5-Year JGB Auction | 0.310% |  | 0.197% |
 | 15:00 | EUR | High | German CPI (MoM) (Jan) | 0.2% | 0.2% | 0.1% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Jan) | 2.9% | 2.9% | 3.7% |
-| 15:00 | EUR | Low | German HICP (YoY) (Jan) | 3.1% | 3.1% | 3.8% |
 | 15:00 | EUR | Low | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.2% |
+| 15:00 | EUR | Low | German HICP (YoY) (Jan) | 3.1% | 3.1% | 3.8% |
 | 15:00 | CNY | Low | M2 Money Stock (YoY) (Jan) | 8.7% | 9.3% | 9.7% |
 | 15:00 | CNY | Moderate | New Loans (Jan) | 4,920.0B | 4,500.0B | 1,170.0B |
 | 15:00 | CNY | Low | Outstanding Loan Growth (YoY) (Jan) | 10.4% | 10.4% | 10.6% |
@@ -47,4 +47,4 @@
 | 21:30 | CAD | Low | Part Time Employment Change (Jan) | 48.9K |  | 0.3K |
 | 21:30 | CAD | Low | Participation Rate (Jan) | 65.3% |  | 0.1% |
 | 21:30 | CAD | Moderate | Unemployment Rate (Jan) | 5.7% | 5.9% | 5.8% |
-| 23:30 | CAD | Low | BoC Senior Loan Officer Survey |  |  | 13.2 |
+| 14 min | CAD | Low | BoC Senior Loan Officer Survey |  |  | 13.2 |

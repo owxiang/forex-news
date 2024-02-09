@@ -12,8 +12,8 @@
 | 07:50 | JPY | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
 | 08:40 | IDR | Motorbike Sales (YoY) | -3.70% |  | -11.60% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.310% |  | 0.197% |
-| 15:00 | EUR | German HICP (YoY) (Jan) | 3.1% | 3.1% | 3.8% |
 | 15:00 | EUR | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.2% |
+| 15:00 | EUR | German HICP (YoY) (Jan) | 3.1% | 3.1% | 3.8% |
 | 15:00 | CNY | M2 Money Stock (YoY) (Jan) | 8.7% | 9.3% | 9.7% |
 | 15:00 | CNY | Outstanding Loan Growth (YoY) (Jan) | 10.4% | 10.4% | 10.6% |
 | 15:00 | CNY | Chinese Total Social Financing (Jan) | 6,500.0B | 5,550.0B | 1,940.0B |
@@ -36,4 +36,4 @@
 | 21:30 | CAD | Full Employment Change (Jan) | -11.6K |  | 12.1K |
 | 21:30 | CAD | Part Time Employment Change (Jan) | 48.9K |  | 0.3K |
 | 21:30 | CAD | Participation Rate (Jan) | 65.3% |  | 0.1% |
-| 23:30 | CAD | BoC Senior Loan Officer Survey |  |  | 13.2 |
+| 14 min | CAD | BoC Senior Loan Officer Survey |  |  | 13.2 |
