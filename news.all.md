@@ -13,12 +13,12 @@
 | 05:30 | USD | Moderate | Fed's Balance Sheet | 7,631B |  | 7,630B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.556T |  | 3.412T |
 | 06:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
-| 34 min | JPY | Low | M2 Money Stock (YoY) |  | 2.2% | 2.3% |
-| 34 min | JPY | Low | M3 Money Supply (Jan) |  |  | 2,125.5% |
+| 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.2% | 2.3% |
+| 07:50 | JPY | Low | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
 | 11:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 11:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.197% |
-| 15:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.9% | 3.7% |
+| 15:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
 | 15:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 15:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
 | 15:00 | NOK | Low | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
@@ -36,8 +36,8 @@
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 616.73B |
 | 20:00 | MXN | Low | Industrial Production (MoM) (Dec) |  | -0.1% | -1.0% |
 | 20:00 | MXN | Low | Industrial Production (YoY) (Dec) |  | 2.0% | 2.8% |
-| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | 0.4% |
 | 20:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Dec) |  |  | -0.3% |
+| 20:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Dec) |  |  | 0.4% |
 | 21:30 | CAD | Low | Avg hourly wages Permanent employee (Jan) |  |  | 5.7% |
 | 21:30 | CAD | Moderate | Employment Change (Jan) |  | 16.0K | 0.1K |
 | 21:30 | CAD | Low | Full Employment Change (Jan) |  |  | -23.5K |
