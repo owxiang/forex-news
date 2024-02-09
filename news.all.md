@@ -15,16 +15,16 @@
 | 06:30 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | Low | M2 Money Stock (YoY) | 2.4% | 2.2% | 2.3% |
 | 07:50 | JPY | Low | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
-| 19 min | JPY | Low | 5-Year JGB Auction |  |  | 0.197% |
-| 44 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 11:35 | JPY | Low | 5-Year JGB Auction | 0.310% |  | 0.197% |
+| 12 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 15:00 | EUR | Moderate | German CPI (YoY) (Jan) |  | 2.9% | 3.7% |
 | 15:00 | EUR | High | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
-| 15:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 15:00 | EUR | Low | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
+| 15:00 | EUR | Low | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 15:00 | NOK | Low | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
 | 15:00 | NOK | Low | Core Inflation (MoM) (Jan) |  | -0.1% | 0.2% |
-| 15:00 | NOK | Low | CPI (YoY) (Jan) |  | 4.6% | 4.8% |
 | 15:00 | NOK | Low | CPI (MoM) (Jan) |  | 0.1% | 0.1% |
+| 15:00 | NOK | Low | CPI (YoY) (Jan) |  | 4.6% | 4.8% |
 | 15:00 | NOK | Low | PPI (YoY) (Jan) |  |  | -25.6% |
 | 17:00 | EUR | Low | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
 | 17:00 | EUR | Low | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |

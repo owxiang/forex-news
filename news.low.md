@@ -10,13 +10,13 @@
 | 06:30 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | M2 Money Stock (YoY) | 2.4% | 2.2% | 2.3% |
 | 07:50 | JPY | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
-| 19 min | JPY | 5-Year JGB Auction |  |  | 0.197% |
-| 15:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
+| 11:35 | JPY | 5-Year JGB Auction | 0.310% |  | 0.197% |
 | 15:00 | EUR | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
+| 15:00 | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
 | 15:00 | NOK | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
 | 15:00 | NOK | Core Inflation (MoM) (Jan) |  | -0.1% | 0.2% |
-| 15:00 | NOK | CPI (YoY) (Jan) |  | 4.6% | 4.8% |
 | 15:00 | NOK | CPI (MoM) (Jan) |  | 0.1% | 0.1% |
+| 15:00 | NOK | CPI (YoY) (Jan) |  | 4.6% | 4.8% |
 | 15:00 | NOK | PPI (YoY) (Jan) |  |  | -25.6% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
 | 17:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
