@@ -12,15 +12,18 @@
 | 07:50 | JPY | M3 Money Supply (Jan) | 2,130.3% |  | 2,124.4% |
 | 08:40 | IDR | Motorbike Sales (YoY) | -3.70% |  | -11.60% |
 | 11:35 | JPY | 5-Year JGB Auction | 0.310% |  | 0.197% |
-| 40 min | EUR | German HICP (YoY) (Jan) |  | 3.1% | 3.8% |
-| 40 min | EUR | German HICP (MoM) (Jan) |  | -0.2% | 0.2% |
-| 40 min | NOK | Core CPI YTD (Jan) |  | 5.2% | 5.5% |
-| 40 min | NOK | Core Inflation (MoM) (Jan) |  | -0.1% | 0.2% |
-| 40 min | NOK | CPI (MoM) (Jan) |  | 0.1% | 0.1% |
-| 40 min | NOK | CPI (YoY) (Jan) |  | 4.6% | 4.8% |
-| 40 min | NOK | PPI (YoY) (Jan) |  |  | -25.6% |
-| 17:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
+| 15:00 | EUR | German HICP (MoM) (Jan) | -0.2% | -0.2% | 0.2% |
+| 15:00 | EUR | German HICP (YoY) (Jan) | 3.1% | 3.1% | 3.8% |
+| 15:00 | CNY | M2 Money Stock (YoY) (Jan) | 8.7% | 9.3% | 9.7% |
+| 15:00 | CNY | Outstanding Loan Growth (YoY) (Jan) | 10.4% | 10.4% | 10.6% |
+| 15:00 | CNY | Chinese Total Social Financing (Jan) | 6,500.0B | 5,550.0B | 1,940.0B |
+| 15:00 | NOK | Core CPI YTD (Jan) | 5.3% | 5.2% | 5.5% |
+| 15:00 | NOK | Core Inflation (MoM) (Jan) | 0.0% | -0.1% | 0.2% |
+| 15:00 | NOK | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.1% |
+| 15:00 | NOK | CPI (YoY) (Jan) | 4.7% | 4.6% | 4.8% |
+| 15:00 | NOK | PPI (YoY) (Jan) | -12.9% |  | -25.6% |
 | 17:00 | EUR | Italian Industrial Production (YoY) (Dec) |  |  | -3.1% |
+| 17:00 | EUR | Italian Industrial Production (MoM) (Dec) |  | 0.8% | -1.5% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.442% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.3% |

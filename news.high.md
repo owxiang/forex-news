@@ -3,4 +3,4 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 30-Year Bond Auction | 4.360% |  | 4.229% |
-| 40 min | EUR | German CPI (MoM) (Jan) |  | 0.2% | 0.1% |
+| 15:00 | EUR | German CPI (MoM) (Jan) | 0.2% | 0.2% | 0.1% |
