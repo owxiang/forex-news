@@ -1,13 +1,15 @@
-## 09 February 2024 - Moderate Impact Forex News
+## 10 February 2024 - Moderate Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | WASDE Report |  |  |  |
-| 02:00 | USD | Atlanta Fed GDPNow (Q1) | 3.4% | 3.4% | 3.4% |
-| 03:00 | MXN | Interest Rate Decision (Feb) | 11.25% | 11.25% | 11.25% |
-| 05:30 | USD | Fed's Balance Sheet | 7,631B |  | 7,630B |
-| 15:00 | EUR | German CPI (YoY) (Jan) | 2.9% | 2.9% | 3.7% |
-| 15:00 | CNY | New Loans (Jan) | 4,920.0B | 4,500.0B | 1,170.0B |
-| 18:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | CAD | Employment Change (Jan) | 37.3K | 16.0K | 12.3K |
-| 21:30 | CAD | Unemployment Rate (Jan) | 5.7% | 5.9% | 5.8% |
+| 02:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
+| 02:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
+| 04:30 | GBP | CFTC GBP speculative net positions |  |  | 34.2K |
+| 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 196.7K |
+| 04:30 | USD | CFTC Gold speculative net positions |  |  | 147.8K |
+| 04:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 39.3K |
+| 04:30 | USD | CFTC S&P 500 speculative net positions |  |  | -226.0K |
+| 04:30 | AUD | CFTC AUD speculative net positions |  |  | -58.3K |
+| 04:30 | BRL | CFTC BRL speculative net positions |  |  | 18.3K |
+| 04:30 | JPY | CFTC JPY speculative net positions |  |  | -80.5K |
+| 04:30 | EUR | CFTC EUR speculative net positions |  |  | 88.8K |
