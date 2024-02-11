@@ -1,27 +1,19 @@
-## 10 February 2024 - All Forex News
+## 12 February 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 499 |  | 499 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 623 |  | 619 |
-| 02:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.2K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.9K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -8.6K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions |  |  | -224.8K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 196.7K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 147.8K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 39.3K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -103.2K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -226.0K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions |  |  | 21.4K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -140.6K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -36.5K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -2.4K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 80.4K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -3.9K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -58.3K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 18.3K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -80.5K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -1.0K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 88.8K |
+| 08:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 20:00 | INR | Moderate | CPI (YoY) (Jan) |  | 5.09% | 5.69% |
+| 20:00 | INR | Low | Cumulative Industrial Production (Dec) |  |  | 6.40% |
+| 20:00 | INR | Low | Industrial Production (YoY) (Dec) |  | 2.4% | 2.4% |
+| 20:00 | INR | Low | Manufacturing Output (MoM) (Dec) |  |  | 1.2% |
+| 20:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.358% |
+| 20:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.825% |
+| 20:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
+| 21:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 22:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
