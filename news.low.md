@@ -2,6 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 44 min | IDR | Motorbike Sales (YoY) (Jan) | -3.70% |  | -11.60% |
 | 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 20:00 | INR | Cumulative Industrial Production (Dec) |  |  | 6.40% |

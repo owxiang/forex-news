@@ -3,6 +3,7 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 08:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 44 min | IDR | Low | Motorbike Sales (YoY) (Jan) | -3.70% |  | -11.60% |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
