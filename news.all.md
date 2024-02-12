@@ -9,7 +9,7 @@
 | 02:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 03:00 | USD | Moderate | Federal Budget Balance (Jan) | -22.0B | -39.3B | -129.0B |
-| 05:55 | AUD | Low | RBA Kohler Speaks |  |  |  |
+| 42 min | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.3% |
 | 07:50 | JPY | Low | PPI (MoM) (Jan) |  | 0.1% | 0.3% |
 | 07:50 | JPY | Low | PPI (YoY) (Jan) |  | 0.1% | 0.0% |
