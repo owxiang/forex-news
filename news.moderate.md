@@ -5,5 +5,5 @@
 | 08:30 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 17:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | INR | CPI (YoY) (Jan) | 5.10% | 5.09% | 5.69% |
-| 46 min | EUR | ECB's Lane Speaks |  |  |  |
+| 21:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 22:20 | USD | FOMC Member Bowman Speaks |  |  |  |
