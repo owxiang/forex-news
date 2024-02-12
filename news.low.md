@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | USD | 3-Month Bill Auction |  |  | 5.235% |
-| 10 min | USD | 6-Month Bill Auction |  |  | 5.045% |
-| 40 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 00:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.235% |
+| 00:30 | USD | 6-Month Bill Auction | 5.065% |  | 5.045% |
+| 01:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 05:55 | AUD | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Westpac Consumer Sentiment (Feb) |  |  | -1.3% |
 | 07:50 | JPY | PPI (YoY) (Jan) |  | 0.1% | 0.0% |

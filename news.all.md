@@ -3,11 +3,11 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.00% |
-| 10 min | USD | Low | 3-Month Bill Auction |  |  | 5.235% |
-| 10 min | USD | Low | 6-Month Bill Auction |  |  | 5.045% |
-| 40 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 02:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 00:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.235% |
+| 00:30 | USD | Low | 6-Month Bill Auction | 5.065% |  | 5.045% |
+| 01:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 46 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 46 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 03:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -39.3B | -129.0B |
 | 05:55 | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.3% |
