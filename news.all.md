@@ -47,8 +47,8 @@
 | 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.8% | 3.9% |
 | 21:30 | USD | Low | Core CPI Index (Jan) |  |  | 313.22 |
-| 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
 | 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
+| 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
 | 21:30 | USD | Low | CPI Index, s.a (Jan) |  |  | 308.85 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.10% |
