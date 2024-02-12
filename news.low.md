@@ -6,6 +6,6 @@
 | 20:00 | INR | Cumulative Industrial Production (Dec) |  |  | 6.40% |
 | 20:00 | INR | Industrial Production (YoY) (Dec) |  | 2.4% | 2.4% |
 | 20:00 | INR | Manufacturing Output (MoM) (Dec) |  |  | 1.2% |
-| 20:55 | EUR | French 12-Month BTF Auction |  |  | 3.358% |
-| 20:55 | EUR | French 3-Month BTF Auction |  |  | 3.825% |
-| 20:55 | EUR | French 6-Month BTF Auction |  |  | 3.739% |
+| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.358% |
+| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.825% |
+| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.739% |
