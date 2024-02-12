@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 20:00 | INR | Cumulative Industrial Production (Dec) |  |  | 6.40% |
 | 20:00 | INR | Industrial Production (YoY) (Dec) |  | 2.4% | 2.4% |

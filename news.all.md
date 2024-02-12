@@ -4,7 +4,6 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 08:30 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
 | 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
