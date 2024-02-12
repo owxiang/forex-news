@@ -12,4 +12,4 @@
 | 21:55 | EUR | Low | French 12-Month BTF Auction | 3.408% |  | 3.358% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction | 3.825% |  | 3.825% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction | 3.714% |  | 3.739% |
-| 6 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 22:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |

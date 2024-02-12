@@ -6,4 +6,4 @@
 | 17:45 | EUR | ECB's Lane Speaks |  |  |  |
 | 20:00 | INR | CPI (YoY) (Jan) | 5.10% | 5.09% | 5.69% |
 | 21:15 | EUR | ECB's Lane Speaks |  |  |  |
-| 6 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 22:20 | USD | FOMC Member Bowman Speaks |  |  |  |
