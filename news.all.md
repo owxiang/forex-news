@@ -6,9 +6,9 @@
 | 00:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.235% |
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.065% |  | 5.045% |
 | 01:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 46 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 46 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 03:00 | USD | Moderate | Federal Budget Balance (Jan) |  | -39.3B | -129.0B |
+| 02:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 41 min | USD | Moderate | Federal Budget Balance (Jan) |  | -39.3B | -129.0B |
 | 05:55 | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.3% |
 | 07:50 | JPY | Low | PPI (YoY) (Jan) |  | 0.1% | 0.0% |
@@ -47,8 +47,8 @@
 | 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.8% | 3.9% |
 | 21:30 | USD | Low | Core CPI Index (Jan) |  |  | 313.22 |
-| 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
 | 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
+| 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
 | 21:30 | USD | Low | CPI Index, s.a (Jan) |  |  | 308.85 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.10% |
