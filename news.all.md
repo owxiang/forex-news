@@ -9,7 +9,7 @@
 | 20:00 | INR | Low | Industrial Production (YoY) (Dec) | 3.8% | 2.4% | 2.4% |
 | 20:00 | INR | Low | Manufacturing Output (MoM) (Dec) | 3.9% |  | 1.2% |
 | 21:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 37 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.358% |
-| 37 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.825% |
-| 37 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.739% |
-| 22:20 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 21:55 | EUR | Low | French 12-Month BTF Auction | 3.408% |  | 3.358% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction | 3.825% |  | 3.825% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction | 3.714% |  | 3.739% |
+| 6 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
