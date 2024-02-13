@@ -11,21 +11,20 @@
 | 03:00 | USD | Moderate | Federal Budget Balance (Jan) | -22.0B | -39.3B | -129.0B |
 | 05:55 | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Feb) | 6.2% |  | -1.3% |
-| 07:50 | JPY | Low | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
 | 07:50 | JPY | Low | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
+| 07:50 | JPY | Low | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Jan) | 1 |  | 0 |
 | 08:30 | AUD | Low | NAB Business Survey (Jan) | 6 |  | 8 |
 | 10:30 | NZD | Moderate | Inflation Expectations (QoQ) | 2.5% |  | 2.8% |
 | 11:00 | IDR | Low | Consumer Confidence (Jan) | 125.0 |  | 123.8 |
 | 12:30 | IDR | Low | Car Sales (YoY) (Jan) | -26.10% |  | -19.10% |
-| 15 min | NOK | Low | Consumer Confidence |  |  | -33.50 |
-| 45 min | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | -9.9% |
-| 14:30 | EUR | Low | French Unemployment Rate (Q4) |  | 7.4% | 7.4% |
-| 15:00 | GBP | Low | Average Earnings ex Bonus (Dec) |  | 6.0% | 6.6% |
-| 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 5.6% | 6.5% |
-| 15:00 | GBP | Moderate | Claimant Count Change (Jan) |  | 15.2K | 11.7K |
-| 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  | 73K | 73K |
-| 15:00 | GBP | Moderate | Unemployment Rate (Dec) |  | 4.0% | 4.2% |
+| 14:00 | JPY | Low | Machine Tool Orders (YoY) (Jan) | -14.1% |  | -9.6% |
+| 9 min | EUR | Low | French Unemployment Rate (Q4) |  | 7.4% | 7.4% |
+| 39 min | GBP | Low | Average Earnings ex Bonus (Dec) |  | 6.0% | 6.6% |
+| 39 min | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 5.6% | 6.5% |
+| 39 min | GBP | Moderate | Claimant Count Change (Jan) |  | 15.2K | 11.7K |
+| 39 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  | 73K | 73K |
+| 39 min | GBP | Moderate | Unemployment Rate (Dec) |  | 4.0% | 4.2% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Jan) |  | 0.6% | 0.0% |
 | 15:30 | CHF | Low | CPI (YoY) (Jan) |  | 1.7% | 1.7% |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -3.0% |
