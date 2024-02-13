@@ -1,7 +1,6 @@
-## 13 February 2024 - High Impact Forex News
+## 14 February 2024 - High Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:30 | USD | Core CPI (MoM) (Jan) | 0.4% | 0.3% | 0.3% |
-| 21:30 | USD | CPI (YoY) (Jan) | 3.1% | 2.9% | 3.4% |
-| 21:30 | USD | CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
+| 15:00 | GBP | CPI (YoY) (Jan) |  | 4.1% | 4.0% |
+| 23:30 | USD | Crude Oil Inventories |  | 2.600M | 5.521M |

@@ -1,32 +1,53 @@
-## 13 February 2024 - Low Impact Forex News
+## 14 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.235% |
-| 00:30 | USD | 6-Month Bill Auction | 5.065% |  | 5.045% |
-| 01:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 05:55 | AUD | RBA Kohler Speaks |  |  |  |
-| 07:30 | AUD | Westpac Consumer Sentiment (Feb) | 6.2% |  | -1.3% |
-| 07:50 | JPY | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
-| 07:50 | JPY | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
-| 08:30 | AUD | NAB Business Survey (Jan) | 6 |  | 8 |
-| 11:00 | IDR | Consumer Confidence (Jan) | 125.0 |  | 123.8 |
-| 12:30 | IDR | Car Sales (YoY) (Jan) | -26.10% |  | -19.10% |
-| 14:00 | JPY | Machine Tool Orders (YoY) (Jan) | -14.1% |  | -9.6% |
-| 14:30 | EUR | French Unemployment Rate (Q4) | 7.5% | 7.4% | 7.5% |
-| 15:00 | GBP | Average Earnings ex Bonus (Dec) | 6.2% | 6.0% | 6.7% |
-| 15:30 | CHF | CPI (YoY) (Jan) | 1.3% | 1.7% | 1.7% |
-| 17:30 | ZAR | Gold Production (YoY) (Dec) | -3.4% |  | -2.9% |
-| 17:30 | ZAR | Mining Production (Dec) | 0.6% | 4.9% | 6.9% |
-| 17:40 | EUR | Spanish 3-Month Letras Auction | 3.703% |  | 3.506% |
-| 18:20 | EUR | Italian 3-Year BTP Auction | 3.15% |  | 3.03% |
-| 18:20 | EUR | Italian 7-Year BTP Auction | 3.53% |  | 3.63% |
-| 18:30 | EUR | German 5-Year Bobl Auction | 2.300% |  | 2.120% |
-| 19:00 | USD | NFIB Small Business Optimism (Jan) | 89.9 | 92.3 | 91.9 |
-| 21:30 | USD | Core CPI Index (Jan) | 314.44 | 314.08 | 313.21 |
-| 21:30 | USD | CPI Index, n.s.a. (Jan) | 308.42 | 307.99 | 306.75 |
-| 21:30 | USD | CPI Index, s.a (Jan) | 309.69 |  | 308.74 |
-| 21:30 | USD | CPI, n.s.a (MoM) (Jan) | 0.54% |  | -0.10% |
-| 21:30 | USD | Real Earnings (MoM) (Jan) | -0.3% |  | -0.1% |
-| 21:55 | USD | Redbook (YoY) | 2.5% |  | 6.1% |
-| 22:00 | EUR | German Current Account Balance n.s.a (Dec) | 31.4B |  | 30.5B |
+| 00:00 | USD | Cleveland CPI (MoM) (Jan) | 0.5% |  | 0.3% |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -0.6% |
+| 05:45 | NZD | FPI (MoM) (Jan) |  |  | -0.1% |
+| 14:30 | INR | WPI Food (YoY) (Jan) |  |  | 9.38% |
+| 14:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -2.41% |
+| 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | -0.71% |
+| 15:00 | GBP | Core CPI (MoM) (Jan) |  | -0.8% | 0.6% |
+| 15:00 | GBP | Core CPI (YoY) (Jan) |  | 5.2% | 5.1% |
+| 15:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
+| 15:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
+| 15:00 | GBP | Core RPI (YoY) (Jan) |  |  | 4.0% |
+| 15:00 | GBP | Core RPI (MoM) (Jan) |  |  | 0.4% |
+| 15:00 | GBP | CPI, n.s.a (Jan) |  |  | 132.20 |
+| 15:00 | GBP | PPI Input (YoY) (Jan) |  | -3.0% | -2.8% |
+| 15:00 | GBP | PPI Output (MoM) (Jan) |  | -0.2% | -0.6% |
+| 15:00 | GBP | PPI Output (YoY) (Jan) |  | -0.5% | 0.1% |
+| 15:00 | GBP | RPI (YoY) (Jan) |  | 5.1% | 5.2% |
+| 15:00 | GBP | RPI (MoM) (Jan) |  | -0.1% | 0.5% |
+| 15:00 | NOK | GDP (QoQ) (Q4) |  |  | -0.5% |
+| 15:00 | NOK | GDP Mainland (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 17:30 | GBP | House Price Index (YoY) |  | -1.8% | -2.1% |
+| 18:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.973% |
+| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 18:00 | EUR | Employment Change (QoQ) |  | 0.3% | 0.2% |
+| 18:00 | EUR | Employment Change (YoY) |  | 1.1% | 1.3% |
+| 18:00 | EUR | Employment Overall (Q4) |  |  | 168,734.0K |
+| 18:00 | EUR | Industrial Production (YoY) (Dec) |  | -4.1% | -6.8% |
+| 18:30 | EUR | German 30-Year Bund Auction |  |  | 2.530% |
+| 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 19:00 | ZAR | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.80% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
+| 20:00 | USD | MBA Purchase Index |  |  | 153.5 |
+| 20:00 | USD | Mortgage Market Index |  |  | 210.0 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 500.2 |
+| 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 143.7K |
+| 22:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | USD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 52.90 |
+| 23:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.46 |
+| 23:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 55.74 |
+| 23:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Feb) |  |  | 56.12 |
+| 23:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.008M |
+| 23:30 | USD | Crude Oil Imports |  |  | 1.600M |
+| 23:30 | USD | Distillate Fuel Production |  |  | -0.028M |
+| 23:30 | USD | EIA Weekly Distillates Stocks |  | -1.500M | -3.220M |
+| 23:30 | USD | Gasoline Production |  |  | -0.270M |
+| 23:30 | USD | Heating Oil Stockpiles |  |  | -0.222M |
+| 23:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 23:30 | USD | Gasoline Inventories |  | -1.000M | -3.145M |
