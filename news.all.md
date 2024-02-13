@@ -11,11 +11,11 @@
 | 03:00 | USD | Moderate | Federal Budget Balance (Jan) | -22.0B | -39.3B | -129.0B |
 | 05:55 | AUD | Low | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Low | Westpac Consumer Sentiment (Feb) | 6.2% |  | -1.3% |
-| 07:50 | JPY | Low | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 07:50 | JPY | Low | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
+| 07:50 | JPY | Low | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 08:30 | AUD | Moderate | NAB Business Confidence (Jan) | 1 |  | 0 |
 | 08:30 | AUD | Low | NAB Business Survey (Jan) | 6 |  | 8 |
-| 52 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 12:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 12:00 | IDR | Low | Car Sales (YoY) (Jan) |  |  | -19.10% |
 | 12:00 | IDR | Low | Consumer Confidence (Jan) |  |  | 123.8 |
 | 13:30 | NOK | Low | Consumer Confidence |  |  | -33.50 |
@@ -44,11 +44,11 @@
 | 18:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 91.1 | 91.9 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.8% | 3.9% |
 | 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
+| 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.8% | 3.9% |
 | 21:30 | USD | Low | Core CPI Index (Jan) |  |  | 313.22 |
-| 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
 | 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
+| 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
 | 21:30 | USD | Low | CPI Index, s.a (Jan) |  |  | 308.85 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.10% |

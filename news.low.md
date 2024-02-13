@@ -7,8 +7,8 @@
 | 01:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 05:55 | AUD | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Westpac Consumer Sentiment (Feb) | 6.2% |  | -1.3% |
-| 07:50 | JPY | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 07:50 | JPY | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
+| 07:50 | JPY | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 08:30 | AUD | NAB Business Survey (Jan) | 6 |  | 8 |
 | 12:00 | IDR | Car Sales (YoY) (Jan) |  |  | -19.10% |
 | 12:00 | IDR | Consumer Confidence (Jan) |  |  | 123.8 |

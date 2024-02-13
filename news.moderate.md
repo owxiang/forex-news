@@ -7,7 +7,7 @@
 | 02:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 03:00 | USD | Federal Budget Balance (Jan) | -22.0B | -39.3B | -129.0B |
 | 08:30 | AUD | NAB Business Confidence (Jan) | 1 |  | 0 |
-| 52 min | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 12:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 15:00 | GBP | Average Earnings Index +Bonus (Dec) |  | 5.6% | 6.5% |
 | 15:00 | GBP | Claimant Count Change (Jan) |  | 15.2K | 11.7K |
 | 15:00 | GBP | Employment Change 3M/3M (MoM) (Dec) |  |  | 73K |
