@@ -18,4 +18,4 @@
 | 18:00 | EUR | ZEW Economic Sentiment (Feb) | 25.0 | 20.1 | 22.7 |
 | 18:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 20:00 | USD | OPEC Monthly Report |  |  |  |
-| 12 min | USD | Core CPI (YoY) (Jan) |  | 3.7% | 3.9% |
+| 21:30 | USD | Core CPI (YoY) (Jan) | 3.9% | 3.7% | 3.9% |

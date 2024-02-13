@@ -2,6 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12 min | USD | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
-| 12 min | USD | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
-| 12 min | USD | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
+| 21:30 | USD | Core CPI (MoM) (Jan) | 0.4% | 0.3% | 0.3% |
+| 21:30 | USD | CPI (YoY) (Jan) | 3.1% | 2.9% | 3.4% |
+| 21:30 | USD | CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
