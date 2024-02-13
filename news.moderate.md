@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | USD | API Weekly Crude Oil Stock |  | 2.600M | 0.674M |
-| 05:45 | NZD | Electronic Card Retail Sales (MoM) (Jan) |  |  | -2.0% |
+| 16 min | USD | API Weekly Crude Oil Stock |  | 2.600M | 0.674M |
+| 31 min | NZD | Electronic Card Retail Sales (MoM) (Jan) |  |  | -2.0% |
 | 14:30 | INR | WPI Inflation (YoY) (Jan) |  | 0.53% | 0.73% |
 | 15:00 | GBP | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
 | 15:00 | GBP | PPI Input (MoM) (Jan) |  | 0.1% | -1.2% |

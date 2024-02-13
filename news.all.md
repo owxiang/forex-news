@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Jan) | 0.5% |  | 0.3% |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.600M | 0.674M |
-| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | -2.0% |
-| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -0.6% |
-| 05:45 | NZD | Low | FPI (MoM) (Jan) |  |  | -0.1% |
+| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.600M | 0.674M |
+| 31 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) |  |  | -2.0% |
+| 31 min | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) |  |  | -0.6% |
+| 31 min | NZD | Low | FPI (MoM) (Jan) |  |  | -0.1% |
 | 14:30 | INR | Low | WPI Food (YoY) (Jan) |  |  | 9.38% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -2.41% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 0.53% | 0.73% |
@@ -15,8 +15,8 @@
 | 15:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 5.2% | 5.1% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
-| 15:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.4% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.0% |
+| 15:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.4% |
 | 15:00 | GBP | High | CPI (YoY) (Jan) |  | 4.1% | 4.0% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
 | 15:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 132.20 |
