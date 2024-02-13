@@ -17,8 +17,8 @@
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.0% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.4% |
-| 15:00 | GBP | High | CPI (YoY) (Jan) |  | 4.1% | 4.0% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
+| 15:00 | GBP | High | CPI (YoY) (Jan) |  | 4.1% | 4.0% |
 | 15:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 132.20 |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.1% | -1.2% |
 | 15:00 | GBP | Low | PPI Input (YoY) (Jan) |  | -3.0% | -2.8% |
