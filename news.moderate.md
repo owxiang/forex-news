@@ -15,8 +15,7 @@
 | 15:30 | CHF | CPI (MoM) (Jan) | 0.2% | 0.6% | 0.0% |
 | 18:00 | EUR | German ZEW Current Conditions (Feb) | -81.7 | -79.0 | -77.3 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Feb) | 19.9 | 17.4 | 15.2 |
-| 18:00 | EUR | EU Economic Forecasts |  |  |  |
 | 18:00 | EUR | ZEW Economic Sentiment (Feb) | 25.0 | 20.1 | 22.7 |
-| 24 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 20:00 | USD | OPEC Monthly Report |  |  |  |
+| 18:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 45 min | USD | OPEC Monthly Report |  |  |  |
 | 21:30 | USD | Core CPI (YoY) (Jan) |  | 3.7% | 3.9% |

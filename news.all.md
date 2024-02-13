@@ -25,21 +25,20 @@
 | 15:00 | GBP | Moderate | Claimant Count Change (Jan) | 14.1K | 15.2K | 5.5K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) | 72K | 73K | 73K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Dec) | 3.8% | 4.0% | 4.2% |
-| 15:30 | CHF | Moderate | CPI (MoM) (Jan) | 0.2% | 0.6% | 0.0% |
 | 15:30 | CHF | Low | CPI (YoY) (Jan) | 1.3% | 1.7% | 1.7% |
+| 15:30 | CHF | Moderate | CPI (MoM) (Jan) | 0.2% | 0.6% | 0.0% |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Dec) | -3.4% |  | -2.9% |
 | 17:30 | ZAR | Low | Mining Production (Dec) | 0.6% | 4.9% | 6.9% |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.703% |  | 3.506% |
 | 18:00 | EUR | Moderate | German ZEW Current Conditions (Feb) | -81.7 | -79.0 | -77.3 |
 | 18:00 | EUR | Moderate | German ZEW Economic Sentiment (Feb) | 19.9 | 17.4 | 15.2 |
-| 18:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 18:00 | EUR | Moderate | ZEW Economic Sentiment (Feb) | 25.0 | 20.1 | 22.7 |
-| 18:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.03% |
-| 18:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.63% |
-| 14 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.210% |
-| 24 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 44 min | USD | Low | NFIB Small Business Optimism (Jan) |  | 92.3 | 91.9 |
-| 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 18:20 | EUR | Low | Italian 3-Year BTP Auction | 3.15% |  | 3.03% |
+| 18:20 | EUR | Low | Italian 7-Year BTP Auction | 3.53% |  | 3.63% |
+| 18:30 | EUR | Low | German 5-Year Bobl Auction | 2.300% |  | 2.120% |
+| 18:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 19:00 | USD | Low | NFIB Small Business Optimism (Jan) | 89.9 | 92.3 | 91.9 |
+| 45 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.7% | 3.9% |
 | 21:30 | USD | Low | Core CPI Index (Jan) |  |  | 313.22 |

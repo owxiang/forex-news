@@ -19,10 +19,10 @@
 | 17:30 | ZAR | Gold Production (YoY) (Dec) | -3.4% |  | -2.9% |
 | 17:30 | ZAR | Mining Production (Dec) | 0.6% | 4.9% | 6.9% |
 | 17:40 | EUR | Spanish 3-Month Letras Auction | 3.703% |  | 3.506% |
-| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.03% |
-| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
-| 14 min | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
-| 44 min | USD | NFIB Small Business Optimism (Jan) |  | 92.3 | 91.9 |
+| 18:20 | EUR | Italian 3-Year BTP Auction | 3.15% |  | 3.03% |
+| 18:20 | EUR | Italian 7-Year BTP Auction | 3.53% |  | 3.63% |
+| 18:30 | EUR | German 5-Year Bobl Auction | 2.300% |  | 2.120% |
+| 19:00 | USD | NFIB Small Business Optimism (Jan) | 89.9 | 92.3 | 91.9 |
 | 21:30 | USD | Core CPI Index (Jan) |  |  | 313.22 |
 | 21:30 | USD | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
 | 21:30 | USD | CPI Index, s.a (Jan) |  |  | 308.85 |
