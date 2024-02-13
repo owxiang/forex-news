@@ -8,11 +8,11 @@
 | 03:00 | USD | Federal Budget Balance (Jan) | -22.0B | -39.3B | -129.0B |
 | 08:30 | AUD | NAB Business Confidence (Jan) | 1 |  | 0 |
 | 10:30 | NZD | Inflation Expectations (QoQ) | 2.5% |  | 2.8% |
-| 39 min | GBP | Average Earnings Index +Bonus (Dec) |  | 5.6% | 6.5% |
-| 39 min | GBP | Claimant Count Change (Jan) |  | 15.2K | 11.7K |
-| 39 min | GBP | Employment Change 3M/3M (MoM) (Dec) |  | 73K | 73K |
-| 39 min | GBP | Unemployment Rate (Dec) |  | 4.0% | 4.2% |
-| 15:30 | CHF | CPI (MoM) (Jan) |  | 0.6% | 0.0% |
+| 15:00 | GBP | Average Earnings Index +Bonus (Dec) | 5.8% | 5.6% | 6.7% |
+| 15:00 | GBP | Claimant Count Change (Jan) | 14.1K | 15.2K | 5.5K |
+| 15:00 | GBP | Employment Change 3M/3M (MoM) (Dec) | 72K | 73K | 73K |
+| 15:00 | GBP | Unemployment Rate (Dec) | 3.8% | 4.0% | 4.2% |
+| 16 min | CHF | CPI (MoM) (Jan) |  | 0.6% | 0.0% |
 | 18:00 | EUR | German ZEW Current Conditions (Feb) |  | -79.0 | -77.3 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Feb) |  | 17.4 | 15.2 |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
