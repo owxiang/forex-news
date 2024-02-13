@@ -7,8 +7,8 @@
 | 01:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 05:55 | AUD | RBA Kohler Speaks |  |  |  |
 | 07:30 | AUD | Westpac Consumer Sentiment (Feb) | 6.2% |  | -1.3% |
-| 07:50 | JPY | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 07:50 | JPY | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
+| 07:50 | JPY | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 08:30 | AUD | NAB Business Survey (Jan) | 6 |  | 8 |
 | 11:00 | IDR | Consumer Confidence (Jan) | 125.0 |  | 123.8 |
 | 12:30 | IDR | Car Sales (YoY) (Jan) | -26.10% |  | -19.10% |
@@ -23,10 +23,10 @@
 | 18:20 | EUR | Italian 7-Year BTP Auction | 3.53% |  | 3.63% |
 | 18:30 | EUR | German 5-Year Bobl Auction | 2.300% |  | 2.120% |
 | 19:00 | USD | NFIB Small Business Optimism (Jan) | 89.9 | 92.3 | 91.9 |
-| 21:30 | USD | Core CPI Index (Jan) |  |  | 313.22 |
-| 21:30 | USD | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
-| 21:30 | USD | CPI Index, s.a (Jan) |  |  | 308.85 |
-| 21:30 | USD | CPI, n.s.a (MoM) (Jan) |  |  | -0.10% |
-| 21:30 | USD | Real Earnings (MoM) (Jan) |  |  | -0.2% |
-| 21:55 | USD | Redbook (YoY) |  |  | 6.1% |
-| 22:00 | EUR | German Current Account Balance n.s.a (Dec) |  |  | 30.8B |
+| 12 min | USD | Core CPI Index (Jan) |  |  | 313.22 |
+| 12 min | USD | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
+| 12 min | USD | CPI Index, s.a (Jan) |  |  | 308.85 |
+| 12 min | USD | CPI, n.s.a (MoM) (Jan) |  |  | -0.10% |
+| 12 min | USD | Real Earnings (MoM) (Jan) |  |  | -0.2% |
+| 37 min | USD | Redbook (YoY) |  |  | 6.1% |
+| 42 min | EUR | German Current Account Balance n.s.a (Dec) |  |  | 30.8B |
