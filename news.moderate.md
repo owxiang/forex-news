@@ -12,7 +12,7 @@
 | 15:00 | GBP | Claimant Count Change (Jan) | 14.1K | 15.2K | 5.5K |
 | 15:00 | GBP | Employment Change 3M/3M (MoM) (Dec) | 72K | 73K | 73K |
 | 15:00 | GBP | Unemployment Rate (Dec) | 3.8% | 4.0% | 4.2% |
-| 16 min | CHF | CPI (MoM) (Jan) |  | 0.6% | 0.0% |
+| 15:30 | CHF | CPI (MoM) (Jan) | 0.2% | 0.6% | 0.0% |
 | 18:00 | EUR | German ZEW Current Conditions (Feb) |  | -79.0 | -77.3 |
 | 18:00 | EUR | German ZEW Economic Sentiment (Feb) |  | 17.4 | 15.2 |
 | 18:00 | EUR | EU Economic Forecasts |  |  |  |
