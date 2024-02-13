@@ -13,10 +13,10 @@
 | 15:00 | GBP | Employment Change 3M/3M (MoM) (Dec) | 72K | 73K | 73K |
 | 15:00 | GBP | Unemployment Rate (Dec) | 3.8% | 4.0% | 4.2% |
 | 15:30 | CHF | CPI (MoM) (Jan) | 0.2% | 0.6% | 0.0% |
-| 45 min | EUR | German ZEW Current Conditions (Feb) |  | -79.0 | -77.3 |
-| 45 min | EUR | German ZEW Economic Sentiment (Feb) |  | 17.4 | 15.2 |
-| 45 min | EUR | EU Economic Forecasts |  |  |  |
-| 45 min | EUR | ZEW Economic Sentiment (Feb) |  | 20.1 | 22.7 |
-| 18:40 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 18:00 | EUR | German ZEW Current Conditions (Feb) | -81.7 | -79.0 | -77.3 |
+| 18:00 | EUR | German ZEW Economic Sentiment (Feb) | 19.9 | 17.4 | 15.2 |
+| 18:00 | EUR | EU Economic Forecasts |  |  |  |
+| 18:00 | EUR | ZEW Economic Sentiment (Feb) | 25.0 | 20.1 | 22.7 |
+| 24 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 20:00 | USD | OPEC Monthly Report |  |  |  |
 | 21:30 | USD | Core CPI (YoY) (Jan) |  | 3.7% | 3.9% |

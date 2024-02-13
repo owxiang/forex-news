@@ -16,15 +16,13 @@
 | 14:30 | EUR | French Unemployment Rate (Q4) | 7.5% | 7.4% | 7.5% |
 | 15:00 | GBP | Average Earnings ex Bonus (Dec) | 6.2% | 6.0% | 6.7% |
 | 15:30 | CHF | CPI (YoY) (Jan) | 1.3% | 1.7% | 1.7% |
-| 15 min | ZAR | Gold Production (YoY) (Dec) |  |  | -3.0% |
-| 15 min | ZAR | Mining Production (Dec) |  | 4.9% | 6.8% |
-| 25 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.506% |
-| 55 min | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
-| 55 min | EUR | Italian 3-Year BTP Auction |  |  | 3.03% |
-| 55 min | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 55 min | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
-| 18:30 | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
-| 19:00 | USD | NFIB Small Business Optimism (Jan) |  | 92.3 | 91.9 |
+| 17:30 | ZAR | Gold Production (YoY) (Dec) | -3.4% |  | -2.9% |
+| 17:30 | ZAR | Mining Production (Dec) | 0.6% | 4.9% | 6.9% |
+| 17:40 | EUR | Spanish 3-Month Letras Auction | 3.703% |  | 3.506% |
+| 18:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.03% |
+| 18:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.63% |
+| 14 min | EUR | German 5-Year Bobl Auction |  |  | 2.210% |
+| 44 min | USD | NFIB Small Business Optimism (Jan) |  | 92.3 | 91.9 |
 | 21:30 | USD | Core CPI Index (Jan) |  |  | 313.22 |
 | 21:30 | USD | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
 | 21:30 | USD | CPI Index, s.a (Jan) |  |  | 308.85 |
