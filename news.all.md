@@ -17,16 +17,17 @@
 | 08:30 | AUD | Low | NAB Business Survey (Jan) | 6 |  | 8 |
 | 10:30 | NZD | Moderate | Inflation Expectations (QoQ) | 2.5% |  | 2.8% |
 | 11:00 | IDR | Low | Consumer Confidence (Jan) | 125.0 |  | 123.8 |
-| 13:30 | NOK | Low | Consumer Confidence |  |  | -33.50 |
-| 14:00 | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | -9.9% |
+| 12:30 | IDR | Low | Car Sales (YoY) (Jan) | -26.10% |  | -19.10% |
+| 15 min | NOK | Low | Consumer Confidence |  |  | -33.50 |
+| 45 min | JPY | Low | Machine Tool Orders (YoY) (Jan) |  |  | -9.9% |
 | 14:30 | EUR | Low | French Unemployment Rate (Q4) |  | 7.4% | 7.4% |
 | 15:00 | GBP | Low | Average Earnings ex Bonus (Dec) |  | 6.0% | 6.6% |
 | 15:00 | GBP | Moderate | Average Earnings Index +Bonus (Dec) |  | 5.6% | 6.5% |
 | 15:00 | GBP | Moderate | Claimant Count Change (Jan) |  | 15.2K | 11.7K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  | 73K | 73K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Dec) |  | 4.0% | 4.2% |
-| 15:30 | CHF | Low | CPI (YoY) (Jan) |  | 1.7% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Jan) |  | 0.6% | 0.0% |
+| 15:30 | CHF | Low | CPI (YoY) (Jan) |  | 1.7% | 1.7% |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -3.0% |
 | 17:30 | ZAR | Low | Mining Production (Dec) |  | 4.9% | 6.8% |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.506% |
@@ -42,11 +43,11 @@
 | 18:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 92.3 | 91.9 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.7% | 3.9% |
+| 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Low | Core CPI Index (Jan) |  |  | 313.22 |
-| 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
 | 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
+| 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
 | 21:30 | USD | Low | CPI Index, n.s.a. (Jan) |  | 307.99 | 306.75 |
 | 21:30 | USD | Low | CPI Index, s.a (Jan) |  |  | 308.85 |
 | 21:30 | USD | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.10% |

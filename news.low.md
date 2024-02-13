@@ -11,8 +11,9 @@
 | 07:50 | JPY | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
 | 08:30 | AUD | NAB Business Survey (Jan) | 6 |  | 8 |
 | 11:00 | IDR | Consumer Confidence (Jan) | 125.0 |  | 123.8 |
-| 13:30 | NOK | Consumer Confidence |  |  | -33.50 |
-| 14:00 | JPY | Machine Tool Orders (YoY) (Jan) |  |  | -9.9% |
+| 12:30 | IDR | Car Sales (YoY) (Jan) | -26.10% |  | -19.10% |
+| 15 min | NOK | Consumer Confidence |  |  | -33.50 |
+| 45 min | JPY | Machine Tool Orders (YoY) (Jan) |  |  | -9.9% |
 | 14:30 | EUR | French Unemployment Rate (Q4) |  | 7.4% | 7.4% |
 | 15:00 | GBP | Average Earnings ex Bonus (Dec) |  | 6.0% | 6.6% |
 | 15:30 | CHF | CPI (YoY) (Jan) |  | 1.7% | 1.7% |
