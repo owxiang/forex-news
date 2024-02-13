@@ -3,15 +3,15 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Cleveland CPI (MoM) (Jan) | 0.5% |  | 0.3% |
-| 31 min | NZD | Electronic Card Retail Sales (YoY) (Jan) |  |  | -0.6% |
-| 31 min | NZD | FPI (MoM) (Jan) |  |  | -0.1% |
+| 05:45 | NZD | Electronic Card Retail Sales (YoY) (Jan) | 1.6% |  | -0.6% |
+| 05:45 | NZD | FPI (MoM) (Jan) | 0.9% |  | -0.1% |
 | 14:30 | INR | WPI Food (YoY) (Jan) |  |  | 9.38% |
 | 14:30 | INR | WPI Fuel (YoY) (Jan) |  |  | -2.41% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) |  |  | -0.71% |
-| 15:00 | GBP | Core CPI (MoM) (Jan) |  | -0.8% | 0.6% |
 | 15:00 | GBP | Core CPI (YoY) (Jan) |  | 5.2% | 5.1% |
-| 15:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
+| 15:00 | GBP | Core CPI (MoM) (Jan) |  | -0.8% | 0.6% |
 | 15:00 | GBP | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
+| 15:00 | GBP | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
 | 15:00 | GBP | Core RPI (YoY) (Jan) |  |  | 4.0% |
 | 15:00 | GBP | Core RPI (MoM) (Jan) |  |  | 0.4% |
 | 15:00 | GBP | CPI, n.s.a (Jan) |  |  | 132.20 |
