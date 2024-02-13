@@ -10,12 +10,12 @@
 | 02:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 03:00 | USD | Moderate | Federal Budget Balance (Jan) | -22.0B | -39.3B | -129.0B |
 | 05:55 | AUD | Low | RBA Kohler Speaks |  |  |  |
-| 15 min | AUD | Low | Westpac Consumer Sentiment (Feb) |  |  | -1.3% |
-| 35 min | JPY | Low | PPI (YoY) (Jan) |  | 0.1% | 0.0% |
-| 35 min | JPY | Low | PPI (MoM) (Jan) |  | 0.1% | 0.3% |
-| 08:30 | AUD | Moderate | NAB Business Confidence (Jan) |  |  | -1 |
-| 08:30 | AUD | Low | NAB Business Survey (Jan) |  |  | 7 |
-| 10:00 | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
+| 07:30 | AUD | Low | Westpac Consumer Sentiment (Feb) | 6.2% |  | -1.3% |
+| 07:50 | JPY | Low | PPI (YoY) (Jan) | 0.2% | 0.1% | 0.2% |
+| 07:50 | JPY | Low | PPI (MoM) (Jan) | 0.0% | 0.1% | 0.3% |
+| 08:30 | AUD | Moderate | NAB Business Confidence (Jan) | 1 |  | 0 |
+| 08:30 | AUD | Low | NAB Business Survey (Jan) | 6 |  | 8 |
+| 52 min | NZD | Moderate | Inflation Expectations (QoQ) |  |  | 2.8% |
 | 12:00 | IDR | Low | Car Sales (YoY) (Jan) |  |  | -19.10% |
 | 12:00 | IDR | Low | Consumer Confidence (Jan) |  |  | 123.8 |
 | 13:30 | NOK | Low | Consumer Confidence |  |  | -33.50 |
@@ -26,8 +26,8 @@
 | 15:00 | GBP | Moderate | Claimant Count Change (Jan) |  | 15.2K | 11.7K |
 | 15:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Dec) |  |  | 73K |
 | 15:00 | GBP | Moderate | Unemployment Rate (Dec) |  | 4.0% | 4.2% |
-| 15:30 | CHF | Low | CPI (YoY) (Jan) |  | 1.6% | 1.7% |
 | 15:30 | CHF | Moderate | CPI (MoM) (Jan) |  | 0.6% | 0.0% |
+| 15:30 | CHF | Low | CPI (YoY) (Jan) |  | 1.6% | 1.7% |
 | 17:30 | ZAR | Low | Gold Production (YoY) (Dec) |  |  | -3.0% |
 | 17:30 | ZAR | Low | Mining Production (Dec) |  | 4.9% | 6.8% |
 | 17:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.506% |
@@ -44,8 +44,8 @@
 | 18:40 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 19:00 | USD | Low | NFIB Small Business Optimism (Jan) |  | 91.1 | 91.9 |
 | 20:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Moderate | Core CPI (YoY) (Jan) |  | 3.8% | 3.9% |
+| 21:30 | USD | High | Core CPI (MoM) (Jan) |  | 0.3% | 0.3% |
 | 21:30 | USD | Low | Core CPI Index (Jan) |  |  | 313.22 |
 | 21:30 | USD | High | CPI (MoM) (Jan) |  | 0.2% | 0.3% |
 | 21:30 | USD | High | CPI (YoY) (Jan) |  | 2.9% | 3.4% |
