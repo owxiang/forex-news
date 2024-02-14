@@ -1,64 +1,113 @@
-## 14 February 2024 - All Forex News
+## 15 February 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | Low | Cleveland CPI (MoM) (Jan) | 0.5% |  | 0.3% |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 8.520M | 2.600M | 0.674M |
-| 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) | 1.6% |  | -0.6% |
-| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) | 1.7% |  | -1.7% |
-| 05:45 | NZD | Low | FPI (MoM) (Jan) | 0.9% |  | -0.1% |
-| 14:30 | INR | Low | WPI Food (YoY) (Jan) | 6.85% |  | 9.38% |
-| 14:30 | INR | Low | WPI Fuel (YoY) (Jan) | -0.51% |  | -2.41% |
-| 14:30 | INR | Moderate | WPI Inflation (YoY) (Jan) | 0.27% | 0.53% | 0.73% |
-| 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | -1.13% |  | -0.71% |
-| 15:00 | GBP | Low | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
-| 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
-| 15:00 | GBP | Low | Core RPI (MoM) (Jan) | -0.4% |  | 0.4% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Jan) | 3.8% |  | 4.0% |
-| 15:00 | GBP | High | CPI (YoY) (Jan) | 4.0% | 4.1% | 4.0% |
-| 15:00 | GBP | Moderate | CPI (MoM) (Jan) | -0.6% | -0.3% | 0.4% |
-| 15:00 | GBP | Low | CPI, n.s.a (Jan) | 131.50 |  | 132.20 |
-| 15:00 | GBP | Moderate | PPI Input (MoM) (Jan) | -0.8% | 0.1% | -0.4% |
-| 15:00 | GBP | Low | PPI Input (YoY) (Jan) | -3.3% | -3.0% | -2.1% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Jan) | -0.2% | -0.2% | -0.5% |
-| 15:00 | GBP | Low | PPI Output (YoY) (Jan) | -0.6% | -0.5% | 0.1% |
-| 15:00 | GBP | Low | RPI (YoY) (Jan) | 4.9% | 5.1% | 5.2% |
-| 15:00 | GBP | Low | RPI (MoM) (Jan) | -0.3% | -0.1% | 0.5% |
-| 15:00 | NOK | Low | GDP (QoQ) (Q4) | 1.5% |  | 1.5% |
-| 15:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | 0.2% | 0.1% | 0.1% |
-| 16:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 17:30 | GBP | Low | House Price Index (YoY) | -1.4% | -1.8% | -2.1% |
-| 18:00 | EUR | Low | Employment Change (QoQ) | 0.3% | 0.3% | 0.2% |
-| 18:00 | EUR | Low | Employment Change (YoY) | 1.3% | 1.1% | 1.3% |
-| 18:00 | EUR | Low | Employment Overall (Q4) | 167,479.4K |  | 166,966.1K |
-| 18:00 | EUR | Moderate | GDP (QoQ) | 0.0% | 0.0% | -0.1% |
-| 18:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.0% |
-| 18:00 | EUR | Moderate | Industrial Production (MoM) (Dec) | 2.6% | -0.2% | 0.4% |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Dec) | 1.2% | -4.1% | -5.4% |
-| 18:30 | EUR | Low | German 30-Year Bund Auction | 2.530% |  | 2.470% |
-| 19:00 | ZAR | Low | Retail Sales (YoY) (Dec) | 2.7% | -0.7% | -1.0% |
-| 19:30 | GBP | Low | 10-Year Treasury Gilt Auction | 4.132% |  | 3.973% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.87% |  | 6.80% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.3% |  | 3.7% |
-| 20:00 | USD | Low | MBA Purchase Index | 149.6 |  | 153.5 |
-| 20:00 | USD | Low | Mortgage Market Index | 205.1 |  | 210.0 |
-| 20:00 | USD | Low | Mortgage Refinance Index | 489.6 |  | 500.2 |
-| 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 128.2K |  | 143.7K |
-| 22:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Feb) | 52.03 |  | 52.90 |
-| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 47.38 |  | 49.46 |
-| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 57.50 |  | 55.74 |
-| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Feb) | 58.00 |  | 56.12 |
-| 15 min | USD | High | Crude Oil Inventories |  | 3.300M | 5.521M |
-| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.008M |
-| 15 min | USD | Low | Crude Oil Imports |  |  | 1.600M |
-| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.033M |
-| 15 min | USD | Low | Distillate Fuel Production |  |  | -0.028M |
-| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.600M | -3.220M |
-| 15 min | USD | Low | Gasoline Production |  |  | -0.270M |
-| 15 min | USD | Low | Heating Oil Stockpiles |  |  | -0.222M |
-| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 15 min | USD | Low | Gasoline Inventories |  | -1.160M | -3.145M |
+| 41 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
+| 05:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 05:45 | NZD | Low | External Migration & Visitors (Dec) |  |  | 30.40% |
+| 05:45 | NZD | Low | Permanent/Long-Term Migration (Dec) |  |  | 2,740 |
+| 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -1.5% |
+| 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 07:50 | JPY | Moderate | GDP (YoY) (Q4) |  |  | -2.9% |
+| 07:50 | JPY | High | GDP (QoQ) (Q4) |  | 0.2% | -0.7% |
+| 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.3% | -0.4% |
+| 07:50 | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.3% | -0.1% |
+| 07:50 | JPY | Moderate | GDP Price Index (YoY) (Q4) |  | 4.0% | 5.3% |
+| 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | -0.2% |
+| 07:55 | KRW | Low | Exports (YoY) (Jan) |  |  | 18.0% |
+| 07:55 | KRW | Low | Imports (YoY) (Jan) |  |  | -7.8% |
+| 07:55 | KRW | Low | Trade Balance (Jan) |  |  | 0.30B |
+| 08:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 08:00 | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
+| 08:00 | SGD | Low | GDP (QoQ) |  | 1.7% | 1.4% |
+| 08:00 | SGD | Low | GDP (YoY) (Q4) |  | 2.8% | 1.1% |
+| 08:30 | AUD | Moderate | Employment Change (Jan) |  | 26.4K | -65.1K |
+| 08:30 | AUD | Moderate | Full Employment Change (Jan) |  |  | -106.6K |
+| 08:30 | AUD | Low | Participation Rate (Jan) |  | 66.9% | 66.8% |
+| 08:30 | AUD | Low | Reserve Assets Total (Jan) |  |  | 89.4B |
+| 08:30 | AUD | Moderate | Unemployment Rate (Jan) |  | 4.0% | 3.9% |
+| 12:00 | IDR | Low | Export Growth (YoY) (Jan) |  | -2.70% | -5.76% |
+| 12:00 | IDR | Low | Import Growth (YoY) (Jan) |  | 1.30% | -3.81% |
+| 12:00 | IDR | Low | Trade Balance (Jan) |  | 2.99B | 3.30B |
+| 12:30 | JPY | Low | Capacity Utilization (MoM) (Dec) |  |  | 0.3% |
+| 12:30 | JPY | Moderate | Industrial Production (MoM) (Dec) |  | 1.8% | -0.9% |
+| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | -0.1% | -3.2% |
+| 15:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 2.3% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
+| 15:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
+| 15:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | -0.1% |
+| 15:00 | GBP | High | GDP (MoM) (Dec) |  | -0.2% | 0.3% |
+| 15:00 | GBP | High | GDP (YoY) (Q4) |  | 0.1% | 0.3% |
+| 15:00 | GBP | Low | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
+| 15:00 | GBP | Low | Index of Services |  | 0.1% | 0.0% |
+| 15:00 | GBP | Low | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
+| 15:00 | GBP | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
+| 15:00 | GBP | Moderate | Labour Productivity |  | -0.2% | 0.7% |
+| 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | -0.1% | 0.4% |
+| 15:00 | GBP | Low | Manufacturing Production (YoY) (Dec) |  | 0.6% | 1.3% |
+| 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) |  | -0.1% | -0.2% |
+| 15:00 | GBP | Moderate | Trade Balance (Dec) |  | -15.00B | -14.19B |
+| 15:00 | GBP | Moderate | Trade Balance Non-EU (Dec) |  |  | -2.84B |
+| 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |
+| 15:00 | NOK | Low | Trade Balance (Jan) |  |  | 77.3B |
+| 15:30 | CHF | Low | PPI (YoY) (Jan) |  |  | -1.1% |
+| 15:30 | CHF | Moderate | PPI (MoM) (Jan) |  | -0.2% | -0.6% |
+| 16:00 | CHF | Moderate | SECO Consumer Climate (Q1) |  | -33 | -28 |
+| 16:00 | EUR | Low | Core CPI (YoY) (Jan) |  |  | 3.8% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.4% | 3.1% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.2% | 0.0% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 3.5% | 3.3% |
+| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 17:00 | EUR | Low | Italian Trade Balance (Dec) |  | 3.650B | 3.889B |
+| 17:00 | EUR | Low | Italian Trade Balance EU (Dec) |  |  | -2.39B |
+| 17:30 | ZAR | Low | Business Confidence |  |  | 111.5 |
+| 17:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.799% |
+| 17:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.621% |
+| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 54.7 |
+| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.31 |
+| 18:00 | INR | Low | Exports (USD) |  |  | 38.45B |
+| 18:00 | INR | Low | Imports (USD) |  |  | 58.25B |
+| 18:00 | INR | Low | Trade Balance |  | -20.00B | -19.80B |
+| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 48.91 |
+| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.20 |
+| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 46.05 |
+| 18:00 | EUR | Moderate | Trade Balance (Dec) |  | 21.5B | 20.3B |
+| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 45.95 |
+| 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 19:00 | EUR | Low | Reserve Assets Total (Jan) |  |  | 1,147.67B |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
+| 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
+| 21:15 | CAD | Moderate | Housing Starts (Jan) |  | 236.0K | 249.3K |
+| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
+| 21:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
+| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -3.2% |
+| 21:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | -0.1% | -0.9% |
+| 21:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.0% | 0.0% |
+| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.6% |
+| 21:30 | USD | High | Initial Jobless Claims |  | 219K | 218K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -13.70 | -43.70 |
+| 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Feb) |  | -8.0 | -10.6 |
+| 21:30 | USD | Low | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
+| 21:30 | USD | Low | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
+| 21:30 | USD | Moderate | Philly Fed Employment (Feb) |  |  | -1.8 |
+| 21:30 | USD | Low | Philly Fed New Orders (Feb) |  |  | -17.9 |
+| 21:30 | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
+| 21:30 | USD | Moderate | Retail Control (MoM) (Jan) |  |  | 0.8% |
+| 21:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.6% |
+| 21:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 5.59% |
+| 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
+| 21:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -0.5% | 1.2% |
+| 21:50 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 22:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
+| 22:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 22:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
+| 23:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
+| 23:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 44 |
+| 23:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |
+| 23:30 | USD | Low | Natural Gas Storage |  | -67B | -75B |
