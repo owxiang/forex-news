@@ -8,9 +8,9 @@
 | 14:30 | INR | WPI Food (YoY) (Jan) | 6.85% |  | 9.38% |
 | 14:30 | INR | WPI Fuel (YoY) (Jan) | -0.51% |  | -2.41% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) | -1.13% |  | -0.71% |
-| 15:00 | GBP | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
 | 15:00 | GBP | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
-| 15:00 | GBP | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.1% |
+| 15:00 | GBP | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
+| 15:00 | GBP | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
 | 15:00 | GBP | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
 | 15:00 | GBP | Core RPI (MoM) (Jan) | -0.4% |  | 0.4% |
 | 15:00 | GBP | Core RPI (YoY) (Jan) | 3.8% |  | 4.0% |
