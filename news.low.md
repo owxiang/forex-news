@@ -27,15 +27,14 @@
 | 18:00 | EUR | Employment Change (YoY) | 1.3% | 1.1% | 1.3% |
 | 18:00 | EUR | Employment Overall (Q4) | 167,479.4K |  | 166,966.1K |
 | 18:00 | EUR | Industrial Production (YoY) (Dec) | 1.2% | -4.1% | -5.4% |
-| 4 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.973% |
-| 14 min | EUR | German 30-Year Bund Auction |  |  | 2.530% |
-| 44 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 44 min | ZAR | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
-| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.80% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
-| 20:00 | USD | MBA Purchase Index |  |  | 153.5 |
-| 20:00 | USD | Mortgage Market Index |  |  | 210.0 |
-| 20:00 | USD | Mortgage Refinance Index |  |  | 500.2 |
+| 18:30 | EUR | German 30-Year Bund Auction | 2.530% |  | 2.470% |
+| 19:00 | ZAR | Retail Sales (YoY) (Dec) | 2.7% | -0.7% | -1.0% |
+| 15 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.973% |
+| 45 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.80% |
+| 45 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
+| 45 min | USD | MBA Purchase Index |  |  | 153.5 |
+| 45 min | USD | Mortgage Market Index |  |  | 210.0 |
+| 45 min | USD | Mortgage Refinance Index |  |  | 500.2 |
 | 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 143.7K |
 | 22:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 52.90 |

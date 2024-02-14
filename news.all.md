@@ -37,15 +37,14 @@
 | 18:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.0% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Dec) | 2.6% | -0.2% | 0.4% |
 | 18:00 | EUR | Low | Industrial Production (YoY) (Dec) | 1.2% | -4.1% | -5.4% |
-| 4 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.973% |
-| 14 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.530% |
-| 44 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 44 min | ZAR | Low | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
-| 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.80% |
-| 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.7% |
-| 20:00 | USD | Low | MBA Purchase Index |  |  | 153.5 |
-| 20:00 | USD | Low | Mortgage Market Index |  |  | 210.0 |
-| 20:00 | USD | Low | Mortgage Refinance Index |  |  | 500.2 |
+| 18:30 | EUR | Low | German 30-Year Bund Auction | 2.530% |  | 2.470% |
+| 19:00 | ZAR | Low | Retail Sales (YoY) (Dec) | 2.7% | -0.7% | -1.0% |
+| 15 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.973% |
+| 45 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.80% |
+| 45 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.7% |
+| 45 min | USD | Low | MBA Purchase Index |  |  | 153.5 |
+| 45 min | USD | Low | Mortgage Market Index |  |  | 210.0 |
+| 45 min | USD | Low | Mortgage Refinance Index |  |  | 500.2 |
 | 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 143.7K |
 | 22:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
