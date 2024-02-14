@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:50 | JPY | GDP (QoQ) (Q4) |  | 0.2% | -0.7% |
+| 34 min | JPY | GDP (QoQ) (Q4) |  | 0.2% | -0.7% |
 | 15:00 | GBP | GDP (YoY) (Q4) |  | 0.1% | 0.3% |
 | 15:00 | GBP | GDP (QoQ) (Q4) |  | -0.1% | -0.1% |
 | 15:00 | GBP | GDP (MoM) (Dec) |  | -0.2% | 0.3% |

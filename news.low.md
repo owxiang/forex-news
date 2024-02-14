@@ -5,17 +5,17 @@
 | 05:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:45 | NZD | External Migration & Visitors (Dec) | 14.80% |  | 30.40% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Dec) | 7,260 |  | 6,870 |
-| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | -1.5% |
+| 05:45 | NZD | Visitor Arrivals (MoM) | -2.2% |  | -1.6% |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.3% | -0.4% |
-| 07:50 | JPY | GDP External Demand (QoQ) (Q4) |  | 0.3% | -0.1% |
-| 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | -0.2% |
-| 07:55 | KRW | Exports (YoY) (Jan) |  |  | 18.0% |
-| 07:55 | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
-| 07:55 | KRW | Trade Balance (Jan) |  |  | 0.30B |
-| 08:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
-| 08:00 | SGD | GDP (YoY) (Q4) |  | 2.8% | 1.1% |
-| 08:00 | SGD | GDP (QoQ) |  | 1.7% | 1.4% |
+| 34 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.3% | -0.4% |
+| 34 min | JPY | GDP External Demand (QoQ) (Q4) |  | 0.3% | -0.1% |
+| 34 min | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | -0.2% |
+| 39 min | KRW | Exports (YoY) (Jan) |  |  | 18.0% |
+| 39 min | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
+| 39 min | KRW | Trade Balance (Jan) |  |  | 0.30B |
+| 44 min | AUD | MI Inflation Expectations |  |  | 4.5% |
+| 44 min | SGD | GDP (YoY) (Q4) |  | 2.8% | 1.1% |
+| 44 min | SGD | GDP (QoQ) |  | 1.7% | 1.4% |
 | 08:30 | AUD | Participation Rate (Jan) |  | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) |  |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) |  | -2.70% | -5.76% |
