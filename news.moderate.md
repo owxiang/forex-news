@@ -11,5 +11,5 @@
 | 18:00 | EUR | GDP (QoQ) | 0.0% | 0.0% | -0.1% |
 | 18:00 | EUR | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.0% |
 | 18:00 | EUR | Industrial Production (MoM) (Dec) | 2.6% | -0.2% | 0.4% |
-| 46 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 23:30 | USD | Cushing Crude Oil Inventories |  |  | -0.033M |
+| 23:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 15 min | USD | Cushing Crude Oil Inventories |  |  | -0.033M |

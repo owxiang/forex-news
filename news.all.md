@@ -4,17 +4,17 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Low | Cleveland CPI (MoM) (Jan) | 0.5% |  | 0.3% |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 8.520M | 2.600M | 0.674M |
-| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) | 1.7% |  | -1.7% |
 | 05:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jan) | 1.6% |  | -0.6% |
+| 05:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jan) | 1.7% |  | -1.7% |
 | 05:45 | NZD | Low | FPI (MoM) (Jan) | 0.9% |  | -0.1% |
 | 14:30 | INR | Low | WPI Food (YoY) (Jan) | 6.85% |  | 9.38% |
 | 14:30 | INR | Low | WPI Fuel (YoY) (Jan) | -0.51% |  | -2.41% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Jan) | 0.27% | 0.53% | 0.73% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | -1.13% |  | -0.71% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
-| 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
+| 15:00 | GBP | Low | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
+| 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Jan) | -0.4% |  | 0.4% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Jan) | 3.8% |  | 4.0% |
 | 15:00 | GBP | High | CPI (YoY) (Jan) | 4.0% | 4.1% | 4.0% |
@@ -46,19 +46,19 @@
 | 20:00 | USD | Low | Mortgage Market Index | 205.1 |  | 210.0 |
 | 20:00 | USD | Low | Mortgage Refinance Index | 489.6 |  | 500.2 |
 | 21:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 128.2K |  | 143.7K |
-| 16 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 46 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 46 min | USD | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 52.90 |
-| 46 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 49.46 |
-| 46 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 55.74 |
-| 46 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Feb) |  |  | 56.12 |
-| 23:30 | USD | High | Crude Oil Inventories |  | 3.300M | 5.521M |
-| 23:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.008M |
-| 23:30 | USD | Low | Crude Oil Imports |  |  | 1.600M |
-| 23:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.033M |
-| 23:30 | USD | Low | Distillate Fuel Production |  |  | -0.028M |
-| 23:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.600M | -3.220M |
-| 23:30 | USD | Low | Gasoline Production |  |  | -0.270M |
-| 23:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.222M |
-| 23:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
-| 23:30 | USD | Low | Gasoline Inventories |  | -1.160M | -3.145M |
+| 22:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 23:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 23:00 | USD | Low | Thomson Reuters IPSOS PCSI (Feb) | 52.03 |  | 52.90 |
+| 23:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 47.38 |  | 49.46 |
+| 23:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 57.50 |  | 55.74 |
+| 23:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Feb) | 58.00 |  | 56.12 |
+| 15 min | USD | High | Crude Oil Inventories |  | 3.300M | 5.521M |
+| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.008M |
+| 15 min | USD | Low | Crude Oil Imports |  |  | 1.600M |
+| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.033M |
+| 15 min | USD | Low | Distillate Fuel Production |  |  | -0.028M |
+| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.600M | -3.220M |
+| 15 min | USD | Low | Gasoline Production |  |  | -0.270M |
+| 15 min | USD | Low | Heating Oil Stockpiles |  |  | -0.222M |
+| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.5% |
+| 15 min | USD | Low | Gasoline Inventories |  | -1.160M | -3.145M |
