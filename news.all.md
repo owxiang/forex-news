@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 41 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
+| 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
 | 05:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:45 | NZD | Low | External Migration & Visitors (Dec) |  |  | 30.40% |
 | 05:45 | NZD | Low | Permanent/Long-Term Migration (Dec) |  |  | 2,740 |
@@ -36,13 +36,13 @@
 | 15:00 | GBP | Low | Business Investment (YoY) (Q4) |  |  | 2.3% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
-| 15:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | -0.1% |
 | 15:00 | GBP | High | GDP (MoM) (Dec) |  | -0.2% | 0.3% |
 | 15:00 | GBP | High | GDP (YoY) (Q4) |  | 0.1% | 0.3% |
+| 15:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.1% | -0.1% |
 | 15:00 | GBP | Low | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
 | 15:00 | GBP | Low | Index of Services |  | 0.1% | 0.0% |
-| 15:00 | GBP | Low | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
+| 15:00 | GBP | Low | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
 | 15:00 | GBP | Moderate | Labour Productivity |  | -0.2% | 0.7% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) |  | -0.1% | 0.4% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Dec) |  | 0.6% | 1.3% |
@@ -57,8 +57,8 @@
 | 16:00 | EUR | Low | Core CPI (YoY) (Jan) |  |  | 3.8% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) |  | 3.4% | 3.1% |
-| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.2% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) |  | 3.5% | 3.3% |
+| 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) |  | -0.2% | 0.0% |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Low | Italian Trade Balance (Dec) |  | 3.650B | 3.889B |
@@ -104,8 +104,8 @@
 | 21:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -0.5% | 1.2% |
 | 21:50 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 22:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
-| 22:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 22:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 22:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 22:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
 | 23:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
 | 23:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 44 |

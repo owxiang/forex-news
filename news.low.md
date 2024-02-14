@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -0.315B |
 | 05:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:45 | NZD | External Migration & Visitors (Dec) |  |  | 30.40% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Dec) |  |  | 2,740 |

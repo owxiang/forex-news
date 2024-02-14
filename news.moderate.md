@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 01:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 07:50 | JPY | GDP (YoY) (Q4) |  |  | -2.9% |
 | 07:50 | JPY | GDP Price Index (YoY) (Q4) |  | 4.0% | 5.3% |
 | 08:00 | USD | FOMC Member Bostic Speaks |  |  |  |
@@ -34,7 +34,7 @@
 | 21:30 | USD | Philly Fed Employment (Feb) |  |  | -1.8 |
 | 21:30 | USD | Retail Control (MoM) (Jan) |  |  | 0.8% |
 | 21:50 | GBP | BoE MPC Member Mann |  |  |  |
-| 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 22:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 23:00 | USD | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
 | 23:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |
