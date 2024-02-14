@@ -15,15 +15,15 @@
 | 15:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 5.2% | 5.1% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
-| 15:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.0% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.4% |
+| 15:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.0% |
 | 15:00 | GBP | High | CPI (YoY) (Jan) |  | 4.1% | 4.0% |
 | 15:00 | GBP | Moderate | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
 | 15:00 | GBP | Low | CPI, n.s.a (Jan) |  |  | 132.20 |
-| 15:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.1% | -1.2% |
 | 15:00 | GBP | Low | PPI Input (YoY) (Jan) |  | -3.0% | -2.8% |
-| 15:00 | GBP | Low | PPI Output (YoY) (Jan) |  | -0.5% | 0.1% |
+| 15:00 | GBP | Moderate | PPI Input (MoM) (Jan) |  | 0.1% | -1.2% |
 | 15:00 | GBP | Low | PPI Output (MoM) (Jan) |  | -0.2% | -0.6% |
+| 15:00 | GBP | Low | PPI Output (YoY) (Jan) |  | -0.5% | 0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Jan) |  | 5.1% | 5.2% |
 | 15:00 | GBP | Low | RPI (MoM) (Jan) |  | -0.1% | 0.5% |
 | 15:00 | NOK | Low | GDP (QoQ) (Q4) |  |  | -0.5% |
@@ -32,13 +32,13 @@
 | 17:30 | GBP | Low | House Price Index (YoY) |  | -1.8% | -2.1% |
 | 18:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.973% |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 18:00 | EUR | Low | Employment Change (YoY) |  | 1.1% | 1.3% |
 | 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.3% | 0.2% |
+| 18:00 | EUR | Low | Employment Change (YoY) |  | 1.1% | 1.3% |
 | 18:00 | EUR | Low | Employment Overall (Q4) |  |  | 168,734.0K |
 | 18:00 | EUR | Moderate | GDP (QoQ) |  | 0.0% | -0.1% |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
-| 18:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | -4.1% | -6.8% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -0.2% | -0.3% |
+| 18:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | -4.1% | -6.8% |
 | 18:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.530% |
 | 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | ZAR | Low | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
