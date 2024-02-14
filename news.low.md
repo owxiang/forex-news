@@ -8,8 +8,8 @@
 | 14:30 | INR | WPI Food (YoY) (Jan) | 6.85% |  | 9.38% |
 | 14:30 | INR | WPI Fuel (YoY) (Jan) | -0.51% |  | -2.41% |
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) | -1.13% |  | -0.71% |
-| 15:00 | GBP | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
 | 15:00 | GBP | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
+| 15:00 | GBP | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
 | 15:00 | GBP | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
 | 15:00 | GBP | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
 | 15:00 | GBP | Core RPI (MoM) (Jan) | -0.4% |  | 0.4% |
@@ -29,12 +29,12 @@
 | 18:00 | EUR | Industrial Production (YoY) (Dec) | 1.2% | -4.1% | -5.4% |
 | 18:30 | EUR | German 30-Year Bund Auction | 2.530% |  | 2.470% |
 | 19:00 | ZAR | Retail Sales (YoY) (Dec) | 2.7% | -0.7% | -1.0% |
-| 15 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.973% |
-| 45 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.80% |
-| 45 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
-| 45 min | USD | MBA Purchase Index |  |  | 153.5 |
-| 45 min | USD | Mortgage Market Index |  |  | 210.0 |
-| 45 min | USD | Mortgage Refinance Index |  |  | 500.2 |
+| 19:30 | GBP | 10-Year Treasury Gilt Auction | 4.132% |  | 3.973% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate | 6.87% |  | 6.80% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | 3.7% |
+| 20:00 | USD | MBA Purchase Index | 149.6 |  | 153.5 |
+| 20:00 | USD | Mortgage Market Index | 205.1 |  | 210.0 |
+| 20:00 | USD | Mortgage Refinance Index | 489.6 |  | 500.2 |
 | 21:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 143.7K |
 | 22:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:00 | USD | Thomson Reuters IPSOS PCSI (Feb) |  |  | 52.90 |
