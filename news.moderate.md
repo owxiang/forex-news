@@ -8,8 +8,8 @@
 | 15:00 | GBP | CPI (MoM) (Jan) |  | -0.3% | 0.4% |
 | 15:00 | GBP | PPI Input (MoM) (Jan) |  | 0.1% | -1.2% |
 | 16:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 18:00 | EUR | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 18:00 | EUR | GDP (QoQ) |  | 0.0% | -0.1% |
+| 18:00 | EUR | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 18:00 | EUR | Industrial Production (MoM) (Dec) |  | -0.2% | -0.3% |
 | 23:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 23:30 | USD | Cushing Crude Oil Inventories |  |  | -0.033M |
