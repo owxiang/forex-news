@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 31 min | NZD | External Migration & Visitors (Dec) |  |  | 30.40% |
-| 31 min | NZD | Permanent/Long-Term Migration (Dec) |  |  | 2,740 |
-| 31 min | NZD | Visitor Arrivals (MoM) |  |  | -1.5% |
-| 46 min | AUD | RBA Gov Bullock Speaks |  |  |  |
+| 05:45 | NZD | External Migration & Visitors (Dec) | 14.80% |  | 30.40% |
+| 05:45 | NZD | Permanent/Long-Term Migration (Dec) | 7,260 |  | 6,870 |
+| 05:45 | NZD | Visitor Arrivals (MoM) |  |  | -1.5% |
+| 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.3% | -0.4% |
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) |  | 0.3% | -0.1% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | -0.2% |

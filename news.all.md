@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 05:00 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 31 min | NZD | Low | External Migration & Visitors (Dec) |  |  | 30.40% |
-| 31 min | NZD | Low | Permanent/Long-Term Migration (Dec) |  |  | 2,740 |
-| 31 min | NZD | Low | Visitor Arrivals (MoM) |  |  | -1.5% |
-| 46 min | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
+| 05:45 | NZD | Low | External Migration & Visitors (Dec) | 14.80% |  | 30.40% |
+| 05:45 | NZD | Low | Permanent/Long-Term Migration (Dec) | 7,260 |  | 6,870 |
+| 05:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -1.5% |
+| 06:00 | AUD | Low | RBA Gov Bullock Speaks |  |  |  |
 | 07:50 | JPY | Moderate | GDP (YoY) (Q4) |  |  | -2.9% |
 | 07:50 | JPY | High | GDP (QoQ) (Q4) |  | 0.2% | -0.7% |
 | 07:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | 0.3% | -0.4% |
