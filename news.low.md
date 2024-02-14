@@ -2,7 +2,6 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | BRL | Foreign Exchange Flows |  |  | -0.315B |
 | 05:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 05:45 | NZD | External Migration & Visitors (Dec) |  |  | 30.40% |
 | 05:45 | NZD | Permanent/Long-Term Migration (Dec) |  |  | 2,740 |
@@ -15,8 +14,8 @@
 | 07:55 | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
 | 07:55 | KRW | Trade Balance (Jan) |  |  | 0.30B |
 | 08:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
-| 08:00 | SGD | GDP (QoQ) |  | 1.7% | 1.4% |
 | 08:00 | SGD | GDP (YoY) (Q4) |  | 2.8% | 1.1% |
+| 08:00 | SGD | GDP (QoQ) |  | 1.7% | 1.4% |
 | 08:30 | AUD | Participation Rate (Jan) |  | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) |  |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) |  | -2.70% | -5.76% |
@@ -52,6 +51,7 @@
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 45.95 |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Reserve Assets Total (Jan) |  |  | 1,147.67B |
+| 19:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
 | 20:00 | BRL | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
 | 21:30 | USD | Export Price Index (YoY) |  |  | -3.2% |
 | 21:30 | USD | Import Price Index (YoY) |  |  | -1.6% |
