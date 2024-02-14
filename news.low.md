@@ -10,28 +10,27 @@
 | 14:30 | INR | WPI Manufacturing Inflation (YoY) (Jan) | -1.13% |  | -0.71% |
 | 15:00 | GBP | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
 | 15:00 | GBP | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
-| 15:00 | GBP | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
 | 15:00 | GBP | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
+| 15:00 | GBP | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
 | 15:00 | GBP | Core RPI (MoM) (Jan) | -0.4% |  | 0.4% |
 | 15:00 | GBP | Core RPI (YoY) (Jan) | 3.8% |  | 4.0% |
 | 15:00 | GBP | CPI, n.s.a (Jan) | 131.50 |  | 132.20 |
 | 15:00 | GBP | PPI Input (YoY) (Jan) | -3.3% | -3.0% | -2.1% |
-| 15:00 | GBP | PPI Output (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
+| 15:00 | GBP | PPI Output (MoM) (Jan) | -0.2% | -0.2% | -0.5% |
 | 15:00 | GBP | PPI Output (YoY) (Jan) | -0.6% | -0.5% | 0.1% |
 | 15:00 | GBP | RPI (YoY) (Jan) | 4.9% | 5.1% | 5.2% |
 | 15:00 | GBP | RPI (MoM) (Jan) | -0.3% | -0.1% | 0.5% |
 | 15:00 | NOK | GDP (QoQ) (Q4) | 1.5% |  | 1.5% |
 | 15:00 | NOK | GDP Mainland (QoQ) (Q4) | 0.2% | 0.1% | 0.1% |
-| 14 min | GBP | House Price Index (YoY) |  | -1.8% | -2.1% |
-| 44 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.973% |
-| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 44 min | EUR | Employment Change (QoQ) |  | 0.3% | 0.2% |
-| 44 min | EUR | Employment Change (YoY) |  | 1.1% | 1.3% |
-| 44 min | EUR | Employment Overall (Q4) |  |  | 168,734.0K |
-| 44 min | EUR | Industrial Production (YoY) (Dec) |  | -4.1% | -6.8% |
-| 18:30 | EUR | German 30-Year Bund Auction |  |  | 2.530% |
-| 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | ZAR | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
+| 17:30 | GBP | House Price Index (YoY) | -1.4% | -1.8% | -2.1% |
+| 18:00 | EUR | Employment Change (QoQ) | 0.3% | 0.3% | 0.2% |
+| 18:00 | EUR | Employment Change (YoY) | 1.3% | 1.1% | 1.3% |
+| 18:00 | EUR | Employment Overall (Q4) | 167,479.4K |  | 166,966.1K |
+| 18:00 | EUR | Industrial Production (YoY) (Dec) | 1.2% | -4.1% | -5.4% |
+| 4 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.973% |
+| 14 min | EUR | German 30-Year Bund Auction |  |  | 2.530% |
+| 44 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 44 min | ZAR | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.80% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.7% |
 | 20:00 | USD | MBA Purchase Index |  |  | 153.5 |

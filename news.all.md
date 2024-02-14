@@ -13,8 +13,8 @@
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) | -1.13% |  | -0.71% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Jan) | 5.1% | 5.2% | 5.1% |
 | 15:00 | GBP | Low | Core CPI (MoM) (Jan) | -0.9% | -0.8% | 0.6% |
-| 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
 | 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) | -0.4% |  | 0.0% |
+| 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) | 0.2% |  | -0.1% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Jan) | -0.4% |  | 0.4% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Jan) | 3.8% |  | 4.0% |
 | 15:00 | GBP | High | CPI (YoY) (Jan) | 4.0% | 4.1% | 4.0% |
@@ -22,26 +22,25 @@
 | 15:00 | GBP | Low | CPI, n.s.a (Jan) | 131.50 |  | 132.20 |
 | 15:00 | GBP | Moderate | PPI Input (MoM) (Jan) | -0.8% | 0.1% | -0.4% |
 | 15:00 | GBP | Low | PPI Input (YoY) (Jan) | -3.3% | -3.0% | -2.1% |
-| 15:00 | GBP | Low | PPI Output (MoM) (Jan) | -0.2% | -0.2% | -0.1% |
+| 15:00 | GBP | Low | PPI Output (MoM) (Jan) | -0.2% | -0.2% | -0.5% |
 | 15:00 | GBP | Low | PPI Output (YoY) (Jan) | -0.6% | -0.5% | 0.1% |
 | 15:00 | GBP | Low | RPI (YoY) (Jan) | 4.9% | 5.1% | 5.2% |
 | 15:00 | GBP | Low | RPI (MoM) (Jan) | -0.3% | -0.1% | 0.5% |
 | 15:00 | NOK | Low | GDP (QoQ) (Q4) | 1.5% |  | 1.5% |
 | 15:00 | NOK | Low | GDP Mainland (QoQ) (Q4) | 0.2% | 0.1% | 0.1% |
 | 16:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 14 min | GBP | Low | House Price Index (YoY) |  | -1.8% | -2.1% |
-| 44 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.973% |
-| 44 min | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
-| 44 min | EUR | Low | Employment Change (QoQ) |  | 0.3% | 0.2% |
-| 44 min | EUR | Low | Employment Change (YoY) |  | 1.1% | 1.3% |
-| 44 min | EUR | Low | Employment Overall (Q4) |  |  | 168,734.0K |
-| 44 min | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
-| 44 min | EUR | Moderate | GDP (QoQ) |  | 0.0% | -0.1% |
-| 44 min | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -0.2% | -0.3% |
-| 44 min | EUR | Low | Industrial Production (YoY) (Dec) |  | -4.1% | -6.8% |
-| 18:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.530% |
-| 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | ZAR | Low | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
+| 17:30 | GBP | Low | House Price Index (YoY) | -1.4% | -1.8% | -2.1% |
+| 18:00 | EUR | Low | Employment Change (QoQ) | 0.3% | 0.3% | 0.2% |
+| 18:00 | EUR | Low | Employment Change (YoY) | 1.3% | 1.1% | 1.3% |
+| 18:00 | EUR | Low | Employment Overall (Q4) | 167,479.4K |  | 166,966.1K |
+| 18:00 | EUR | Moderate | GDP (QoQ) | 0.0% | 0.0% | -0.1% |
+| 18:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.0% |
+| 18:00 | EUR | Moderate | Industrial Production (MoM) (Dec) | 2.6% | -0.2% | 0.4% |
+| 18:00 | EUR | Low | Industrial Production (YoY) (Dec) | 1.2% | -4.1% | -5.4% |
+| 4 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.973% |
+| 14 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.530% |
+| 44 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 44 min | ZAR | Low | Retail Sales (YoY) (Dec) |  | -0.7% | -0.9% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.80% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.7% |
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 153.5 |
