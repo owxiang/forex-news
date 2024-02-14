@@ -11,10 +11,10 @@
 | 14:30 | INR | Low | WPI Fuel (YoY) (Jan) |  |  | -2.41% |
 | 14:30 | INR | Moderate | WPI Inflation (YoY) (Jan) |  | 0.53% | 0.73% |
 | 14:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jan) |  |  | -0.71% |
-| 15:00 | GBP | Low | Core CPI (MoM) (Jan) |  | -0.8% | 0.6% |
 | 15:00 | GBP | Low | Core CPI (YoY) (Jan) |  | 5.2% | 5.1% |
-| 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
+| 15:00 | GBP | Low | Core CPI (MoM) (Jan) |  | -0.8% | 0.6% |
 | 15:00 | GBP | Low | Core PPI Output (MoM) (Jan) |  |  | 0.0% |
+| 15:00 | GBP | Low | Core PPI Output (YoY) (Jan) |  |  | 0.1% |
 | 15:00 | GBP | Low | Core RPI (MoM) (Jan) |  |  | 0.4% |
 | 15:00 | GBP | Low | Core RPI (YoY) (Jan) |  |  | 4.0% |
 | 15:00 | GBP | High | CPI (YoY) (Jan) |  | 4.1% | 4.0% |
@@ -35,8 +35,8 @@
 | 18:00 | EUR | Low | Employment Change (QoQ) |  | 0.3% | 0.2% |
 | 18:00 | EUR | Low | Employment Change (YoY) |  | 1.1% | 1.3% |
 | 18:00 | EUR | Low | Employment Overall (Q4) |  |  | 168,734.0K |
-| 18:00 | EUR | Moderate | GDP (QoQ) |  | 0.0% | -0.1% |
 | 18:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
+| 18:00 | EUR | Moderate | GDP (QoQ) |  | 0.0% | -0.1% |
 | 18:00 | EUR | Moderate | Industrial Production (MoM) (Dec) |  | -0.2% | -0.3% |
 | 18:00 | EUR | Low | Industrial Production (YoY) (Dec) |  | -4.1% | -6.8% |
 | 18:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.530% |
