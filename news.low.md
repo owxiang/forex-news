@@ -44,10 +44,8 @@
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 43.57 |  | 45.20 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 44.15 |  | 46.05 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
-| 43 min | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 43 min | EUR | Reserve Assets Total (Jan) |  |  | 1,147.67B |
-| 19:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
-| 20:00 | BRL | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
+| 19:00 | EUR | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
+| 46 min | BRL | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
 | 21:30 | USD | Export Price Index (YoY) |  |  | -3.2% |
 | 21:30 | USD | Import Price Index (YoY) |  |  | -1.6% |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |

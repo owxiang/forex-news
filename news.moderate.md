@@ -25,7 +25,7 @@
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | IEA Monthly Report |  |  |  |
 | 18:00 | EUR | Trade Balance (Dec) | 16.8B | 21.5B | 20.3B |
-| 20:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 46 min | EUR | ECB's Lane Speaks |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
 | 21:15 | CAD | Housing Starts (Jan) |  | 236.0K | 249.3K |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,871K |

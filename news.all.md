@@ -28,8 +28,8 @@
 | 12:00 | IDR | Low | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | 1.4% | 1.8% | -0.9% |
-| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.5% | -0.1% | -2.8% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
+| 15:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.5% | -0.1% | -2.8% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) | -3.2% | -1.4% | -0.7% |
 | 15:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | 0.1% | 0.2% |
@@ -40,8 +40,8 @@
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Dec) | 0.6% | -0.1% | 0.5% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Dec) | 0.6% | -0.4% | 0.1% |
 | 15:00 | GBP | Moderate | Labour Productivity (Q3) | 0.7% | -0.2% | 0.6% |
-| 15:00 | GBP | Low | Manufacturing Production (YoY) (Dec) | 2.3% | 0.6% | 1.9% |
 | 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) | 0.8% | -0.1% | 0.8% |
+| 15:00 | GBP | Low | Manufacturing Production (YoY) (Dec) | 2.3% | 0.6% | 1.9% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) | -0.3% | -0.1% | -0.2% |
 | 15:00 | GBP | Moderate | Trade Balance (Dec) | -13.99B | -15.00B | -15.13B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -3.32B |  | -3.75B |
@@ -53,8 +53,8 @@
 | 16:00 | EUR | Low | Core CPI (YoY) (Jan) | 3.6% |  | 3.8% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.4% | 3.1% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.2% | 0.0% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:15 | INR | Low | Exports (USD) (Jan) | 36.92B |  | 38.45B |
 | 16:15 | INR | Low | Imports (USD) (Jan) | 54.41B |  | 58.25B |
@@ -71,11 +71,9 @@
 | 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 44.15 |  | 46.05 |
 | 18:00 | EUR | Moderate | Trade Balance (Dec) | 16.8B | 21.5B | 20.3B |
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
-| 43 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 43 min | EUR | Low | Reserve Assets Total (Jan) |  |  | 1,147.67B |
-| 19:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
-| 20:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
-| 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 19:00 | EUR | Low | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
+| 46 min | BRL | Low | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
+| 46 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
 | 21:15 | CAD | Moderate | Housing Starts (Jan) |  | 236.0K | 249.3K |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
