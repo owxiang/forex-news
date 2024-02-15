@@ -73,33 +73,33 @@
 | 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
 | 19:00 | EUR | Low | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
 | 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 32 min | GBP | Moderate | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
-| 47 min | CAD | Moderate | Housing Starts (Jan) |  | 236.0K | 249.3K |
-| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
-| 21:30 | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
-| 21:30 | USD | Moderate | Export Price Index (MoM) (Jan) |  | -0.1% | -0.9% |
-| 21:30 | USD | Low | Export Price Index (YoY) |  |  | -3.2% |
-| 21:30 | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.0% | 0.0% |
-| 21:30 | USD | Low | Import Price Index (YoY) |  |  | -1.6% |
-| 21:30 | USD | High | Initial Jobless Claims |  | 219K | 218K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -13.70 | -43.70 |
-| 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Feb) |  | -8.0 | -10.6 |
-| 21:30 | USD | Low | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
-| 21:30 | USD | Low | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
-| 21:30 | USD | Moderate | Philly Fed Employment (Feb) |  |  | -1.8 |
-| 21:30 | USD | Low | Philly Fed New Orders (Feb) |  |  | -17.9 |
-| 21:30 | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
-| 21:30 | USD | Moderate | Retail Control (MoM) (Jan) |  |  | 0.8% |
-| 21:30 | USD | Low | Retail Sales (YoY) (Jan) |  |  | 5.59% |
-| 21:30 | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.6% |
-| 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
-| 21:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
-| 21:50 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 22:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
-| 22:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.98% |
-| 22:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
-| 22:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
+| 20:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) | -0.1% | 0.0% | -0.3% |
+| 21:15 | CAD | Moderate | Housing Starts (Jan) |  | 236.0K | 249.3K |
+| 13 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
+| 13 min | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
+| 13 min | USD | Moderate | Export Price Index (MoM) (Jan) |  | -0.1% | -0.9% |
+| 13 min | USD | Low | Export Price Index (YoY) |  |  | -3.2% |
+| 13 min | USD | Low | Import Price Index (YoY) |  |  | -1.6% |
+| 13 min | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.0% | 0.0% |
+| 13 min | USD | High | Initial Jobless Claims |  | 219K | 218K |
+| 13 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 13 min | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -13.70 | -43.70 |
+| 13 min | USD | High | Philadelphia Fed Manufacturing Index (Feb) |  | -8.0 | -10.6 |
+| 13 min | USD | Low | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
+| 13 min | USD | Low | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
+| 13 min | USD | Moderate | Philly Fed Employment (Feb) |  |  | -1.8 |
+| 13 min | USD | Low | Philly Fed New Orders (Feb) |  |  | -17.9 |
+| 13 min | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
+| 13 min | USD | Moderate | Retail Control (MoM) (Jan) |  |  | 0.8% |
+| 13 min | USD | Low | Retail Sales (YoY) (Jan) |  |  | 5.59% |
+| 13 min | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.6% |
+| 13 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
+| 13 min | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
+| 33 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 58 min | USD | Low | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
+| 58 min | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 58 min | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
+| 58 min | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
 | 23:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
 | 23:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 44 |
 | 23:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |

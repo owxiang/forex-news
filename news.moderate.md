@@ -26,16 +26,16 @@
 | 17:00 | USD | IEA Monthly Report |  |  |  |
 | 18:00 | EUR | Trade Balance (Dec) | 16.8B | 21.5B | 20.3B |
 | 20:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 32 min | GBP | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
-| 47 min | CAD | Housing Starts (Jan) |  | 236.0K | 249.3K |
-| 21:30 | USD | Continuing Jobless Claims |  | 1,880K | 1,871K |
-| 21:30 | USD | Export Price Index (MoM) (Jan) |  | -0.1% | -0.9% |
-| 21:30 | USD | Import Price Index (MoM) (Jan) |  | 0.0% | 0.0% |
-| 21:30 | USD | NY Empire State Manufacturing Index (Feb) |  | -13.70 | -43.70 |
-| 21:30 | USD | Philly Fed Employment (Feb) |  |  | -1.8 |
-| 21:30 | USD | Retail Control (MoM) (Jan) |  |  | 0.8% |
-| 21:50 | GBP | BoE MPC Member Mann |  |  |  |
-| 22:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
-| 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
+| 20:30 | GBP | NIESR Monthly GDP Tracker (Jan) | -0.1% | 0.0% | -0.3% |
+| 21:15 | CAD | Housing Starts (Jan) |  | 236.0K | 249.3K |
+| 13 min | USD | Continuing Jobless Claims |  | 1,880K | 1,871K |
+| 13 min | USD | Export Price Index (MoM) (Jan) |  | -0.1% | -0.9% |
+| 13 min | USD | Import Price Index (MoM) (Jan) |  | 0.0% | 0.0% |
+| 13 min | USD | NY Empire State Manufacturing Index (Feb) |  | -13.70 | -43.70 |
+| 13 min | USD | Philly Fed Employment (Feb) |  |  | -1.8 |
+| 13 min | USD | Retail Control (MoM) (Jan) |  |  | 0.8% |
+| 33 min | GBP | BoE MPC Member Mann |  |  |  |
+| 58 min | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 58 min | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 23:00 | USD | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
 | 23:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |

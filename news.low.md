@@ -45,17 +45,17 @@
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 44.15 |  | 46.05 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
 | 19:00 | EUR | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
-| 21:30 | USD | Export Price Index (YoY) |  |  | -3.2% |
-| 21:30 | USD | Import Price Index (YoY) |  |  | -1.6% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 21:30 | USD | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
-| 21:30 | USD | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
-| 21:30 | USD | Philly Fed New Orders (Feb) |  |  | -17.9 |
-| 21:30 | USD | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
-| 21:30 | USD | Retail Sales (YoY) (Jan) |  |  | 5.59% |
-| 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
-| 21:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
-| 22:15 | USD | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
-| 22:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
+| 13 min | USD | Export Price Index (YoY) |  |  | -3.2% |
+| 13 min | USD | Import Price Index (YoY) |  |  | -1.6% |
+| 13 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 13 min | USD | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
+| 13 min | USD | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
+| 13 min | USD | Philly Fed New Orders (Feb) |  |  | -17.9 |
+| 13 min | USD | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
+| 13 min | USD | Retail Sales (YoY) (Jan) |  |  | 5.59% |
+| 13 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
+| 13 min | CAD | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
+| 58 min | USD | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
+| 58 min | USD | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
 | 23:00 | USD | NAHB Housing Market Index (Feb) |  | 46 | 44 |
 | 23:30 | USD | Natural Gas Storage |  | -67B | -75B |
