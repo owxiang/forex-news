@@ -7,9 +7,9 @@
 | 07:50 | JPY | GDP Price Index (YoY) (Q4) | 3.8% | 4.0% | 5.3% |
 | 08:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 08:30 | AUD | Employment Change (Jan) | 0.5K | 26.4K | -62.7K |
-| 08:30 | AUD | Full Employment Change (Jan) | 11.1K |  | -106.6K |
+| 08:30 | AUD | Full Employment Change (Jan) | 11.1K |  | -109.5K |
 | 08:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.0% | 3.9% |
-| 12:30 | JPY | Industrial Production (MoM) (Dec) |  | 1.8% | -0.9% |
+| 11 min | JPY | Industrial Production (MoM) (Dec) |  | 1.8% | -0.9% |
 | 15:00 | GBP | Business Investment (QoQ) (Q4) |  | -0.1% | -3.2% |
 | 15:00 | GBP | Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
 | 15:00 | GBP | Labour Productivity |  | -0.2% | 0.7% |
