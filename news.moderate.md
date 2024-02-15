@@ -23,8 +23,8 @@
 | 16:00 | EUR | Spanish CPI (YoY) (Jan) | 3.4% | 3.4% | 3.1% |
 | 16:00 | EUR | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 41 min | USD | IEA Monthly Report |  |  |  |
-| 18:00 | EUR | Trade Balance (Dec) |  | 21.5B | 20.3B |
+| 17:00 | USD | IEA Monthly Report |  |  |  |
+| 42 min | EUR | Trade Balance (Dec) |  | 21.5B | 20.3B |
 | 20:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
 | 21:15 | CAD | Housing Starts (Jan) |  | 236.0K | 249.3K |

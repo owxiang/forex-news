@@ -11,8 +11,8 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
+| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.85% |
@@ -33,19 +33,18 @@
 | 16:00 | EUR | Spanish HICP (MoM) (Jan) | -0.2% | -0.2% | 0.0% |
 | 16:15 | INR | Exports (USD) (Jan) | 36.92B |  | 38.45B |
 | 16:15 | INR | Imports (USD) (Jan) | 54.41B |  | 58.25B |
-| 16:16 | INR | Trade Balance (Jan) | -17.49B | -20.00B | -19.80B |
-| 41 min | EUR | Italian Trade Balance (Dec) |  | 3.650B | 3.889B |
-| 41 min | EUR | Italian Trade Balance EU (Dec) |  |  | -2.39B |
-| 41 min | NOK | Consumer Confidence |  |  | -33.50 |
-| 17:30 | ZAR | Business Confidence |  |  | 111.5 |
-| 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.799% |
-| 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.621% |
-| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 54.7 |
-| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.31 |
-| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 48.91 |
-| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.20 |
-| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 46.05 |
-| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 45.95 |
+| 16:15 | INR | Trade Balance (Jan) | -17.49B | -20.00B | -19.80B |
+| 17:00 | EUR | Italian Trade Balance (Dec) | 5.614B | 3.650B | 3.884B |
+| 17:00 | EUR | Italian Trade Balance EU (Dec) | -2.75B |  | -2.39B |
+| 12 min | ZAR | Business Confidence |  |  | 111.5 |
+| 22 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.799% |
+| 22 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.621% |
+| 42 min | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 54.7 |
+| 42 min | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.31 |
+| 42 min | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 48.91 |
+| 42 min | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.20 |
+| 42 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 46.05 |
+| 42 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 45.95 |
 | 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
 | 19:00 | EUR | Reserve Assets Total (Jan) |  |  | 1,147.67B |
 | 19:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
