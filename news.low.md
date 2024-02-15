@@ -2,9 +2,9 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 11 min | USD | 8-Week Bill Auction |  |  | 5.270% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
+| 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
+| 00:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.270% |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -0.315B |
 | 05:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
 | 05:00 | USD | Overall Net Capital Flow (Dec) |  |  | 260.20B |
 | 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 126.10B |

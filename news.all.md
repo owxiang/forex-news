@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 11 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
-| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
-| 02:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.4% | 3.4% |
-| 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 00:30 | USD | Low | 4-Week Bill Auction | 5.280% |  | 5.280% |
+| 00:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.270% |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
+| 46 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.4% | 3.4% |
+| 46 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 02:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 02:40 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 05:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
@@ -39,8 +39,8 @@
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Dec) |  | 0.20 | -0.80 |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 1.7% | -3.3% |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | -1.6% | -2.1% |
-| 15:00 | GBP | Moderate | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | -1.4% | -2.4% |
+| 15:00 | GBP | Moderate | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
 | 15:00 | EUR | Low | German WPI (MoM) (Jan) |  | -0.4% | -0.6% |
 | 15:00 | EUR | Low | German WPI (YoY) (Jan) |  |  | -2.6% |
 | 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |

@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.4% | 3.4% |
-| 02:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 46 min | USD | Atlanta Fed GDPNow (Q1) |  | 3.4% | 3.4% |
+| 46 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 02:15 | USD | Fed Waller Speaks |  |  |  |
 | 02:40 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 05:00 | USD | TIC Net Long-Term Transactions (Dec) |  | 42.6B | 126.1B |
@@ -12,8 +12,8 @@
 | 08:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 1.7% | -3.3% |
 | 15:00 | GBP | Core Retail Sales (YoY) (Jan) |  | -1.6% | -2.1% |
-| 15:00 | GBP | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
 | 15:00 | GBP | Retail Sales (YoY) (Jan) |  | -1.4% | -2.4% |
+| 15:00 | GBP | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
 | 15:45 | EUR | French CPI (MoM) (Jan) |  | -0.2% | 0.1% |
 | 15:45 | EUR | French HICP (MoM) (Jan) |  | -0.2% | 0.1% |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
