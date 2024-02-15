@@ -1,61 +1,51 @@
-## 15 February 2024 - Low Impact Forex News
+## 16 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 05:45 | NZD | External Migration & Visitors (Dec) | 14.80% |  | 30.40% |
-| 05:45 | NZD | Permanent/Long-Term Migration (Dec) | 7,260 |  | 6,870 |
-| 05:45 | NZD | Visitor Arrivals (MoM) | -2.2% |  | -1.6% |
-| 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) | -0.1% | 0.3% | -0.6% |
-| 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
-| 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
-| 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
-| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
-| 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
-| 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
-| 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.85% |
-| 12:00 | IDR | Import Growth (YoY) (Jan) | 0.36% | 1.30% | -3.81% |
-| 12:00 | IDR | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
-| 12:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
-| 15:00 | GBP | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Dec) | -3.2% | -1.4% | -0.7% |
-| 15:00 | GBP | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
-| 15:00 | GBP | GDP (YoY) (Dec) | 0.0% | 0.3% | -0.3% |
-| 15:00 | GBP | Index of Services | -0.2% | 0.1% | -0.2% |
-| 15:00 | GBP | Industrial Production (YoY) (Dec) | 0.6% | -0.4% | 0.1% |
-| 15:00 | GBP | Manufacturing Production (YoY) (Dec) | 2.3% | 0.6% | 1.9% |
-| 15:00 | NOK | Trade Balance (Jan) | 72.9B |  | 77.3B |
-| 15:30 | CHF | PPI (YoY) (Jan) | -2.3% |  | -1.1% |
-| 16:00 | EUR | Core CPI (YoY) (Jan) | 3.6% |  | 3.8% |
-| 16:00 | EUR | Spanish CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
-| 16:00 | EUR | Spanish HICP (MoM) (Jan) | -0.2% | -0.2% | 0.0% |
-| 16:15 | INR | Exports (USD) (Jan) | 36.92B |  | 38.45B |
-| 16:15 | INR | Imports (USD) (Jan) | 54.41B |  | 58.25B |
-| 16:15 | INR | Trade Balance (Jan) | -17.49B | -20.00B | -19.80B |
-| 17:00 | EUR | Italian Trade Balance (Dec) | 5.614B | 3.650B | 3.884B |
-| 17:00 | EUR | Italian Trade Balance EU (Dec) | -2.75B |  | -2.39B |
-| 17:50 | EUR | Spanish 3-Year Bonos Auction | 2.875% |  | 2.799% |
-| 17:50 | EUR | Spanish 5-Year Bonos Auction | 2.873% |  | 2.621% |
-| 18:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) | 51.5 |  | 54.7 |
-| 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) | 44.33 |  | 45.31 |
-| 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) | 46.86 |  | 48.91 |
-| 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) | 43.57 |  | 45.20 |
-| 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 44.15 |  | 46.05 |
-| 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
-| 19:00 | EUR | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
-| 21:30 | USD | Export Price Index (YoY) | -2.4% |  | -2.9% |
-| 21:30 | USD | Import Price Index (YoY) | -1.3% | -1.3% | -1.6% |
-| 21:30 | USD | Jobless Claims 4-Week Avg. | 218.50K |  | 212.75K |
-| 21:30 | USD | Philly Fed Business Conditions (Feb) | 7.2 |  | -4.0 |
-| 21:30 | USD | Philly Fed CAPEX Index (Feb) | 12.70 |  | 7.50 |
-| 21:30 | USD | Philly Fed New Orders (Feb) | -5.2 |  | -17.9 |
-| 21:30 | USD | Philly Fed Prices Paid (Feb) | 16.60 |  | 11.30 |
-| 21:30 | USD | Retail Sales (YoY) (Jan) | 0.65% |  | 5.31% |
-| 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.6% |
-| 21:30 | CAD | Manufacturing Sales (MoM) (Dec) | -0.7% | -0.6% | 1.5% |
-| 22:15 | USD | Capacity Utilization Rate (Jan) | 78.5% | 78.8% | 78.7% |
-| 22:15 | USD | Manufacturing Production (MoM) (Jan) | -0.5% | 0.0% | 0.1% |
-| 23:00 | USD | NAHB Housing Market Index (Feb) | 48 | 46 | 44 |
-| 15 min | USD | Natural Gas Storage |  | -67B | -75B |
+| 11 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 11 min | USD | 8-Week Bill Auction |  |  | 5.270% |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
+| 05:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
+| 05:00 | USD | Overall Net Capital Flow (Dec) |  |  | 260.20B |
+| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 126.10B |
+| 05:00 | KRW | Export Price Index (YoY) (Jan) |  |  | -2.3% |
+| 05:00 | KRW | Import Price Index (YoY) (Jan) |  |  | -4.1% |
+| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.556T |
+| 07:00 | KRW | Unemployment Rate (Jan) |  |  | 3.3% |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 456.6B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 308.4B |
+| 07:55 | KRW | Exports (YoY) (Jan) |  |  | 18.0% |
+| 07:55 | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
+| 07:55 | KRW | Trade Balance (Jan) |  |  | 0.30B |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Jan) |  | 5.40% | -1.50% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Jan) |  | 0.50% | -2.80% |
+| 09:30 | SGD | Trade Balance |  |  | 7.778B |
+| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 38.79 |
+| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 66.51 |
+| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 50.16 |
+| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 37.84 |
+| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 70.38 |
+| 11:00 | KRW | M3 Money Supply (Dec) |  |  | 5,283.9B |
+| 11:00 | KRW | M2 Money supply (Dec) |  |  | 2.40% |
+| 11:00 | IDR | Retail Sales (YoY) (Dec) |  |  | 2.1% |
+| 12:30 | JPY | Tertiary Industry Activity Index (Dec) |  | 0.20 | -0.80 |
+| 15:00 | EUR | German WPI (MoM) (Jan) |  | -0.4% | -0.6% |
+| 15:00 | EUR | German WPI (YoY) (Jan) |  |  | -2.6% |
+| 15:00 | NOK | Consumer Confidence |  |  | -33.50 |
+| 15:30 | CHF | Industrial Production (YoY) |  |  | 2.00% |
+| 15:45 | EUR | CPI NSA (YoY) (Jan) |  |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Jan) |  |  | 0.10% |
+| 15:45 | EUR | French CPI (YoY) |  | 3.1% | 3.7% |
+| 15:45 | EUR | French HICP (YoY) (Jan) |  | 3.4% | 4.1% |
+| 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 3.60% |
+| 19:00 | CAD | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.4% |
+| 19:30 | INR | FX Reserves, USD |  |  | 622.47B |
+| 21:30 | USD | Building Permits (MoM) (Jan) |  |  | 1.8% |
+| 21:30 | USD | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
+| 21:30 | USD | PPI (YoY) (Jan) |  | 0.6% | 1.0% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 2.5% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
+| 21:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 12.53B |
+| 22:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 23:00 | USD | Michigan Current Conditions (Feb) |  | 82.0 | 81.9 |
