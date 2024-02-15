@@ -9,11 +9,11 @@
 | 05:00 | USD | TIC Net Long-Term Transactions (Dec) | 160.2B | 42.6B | 99.7B |
 | 05:30 | USD | Fed's Balance Sheet | 7,634B |  | 7,631B |
 | 05:30 | NZD | Business NZ PMI (Jan) | 47.3 |  | 43.1 |
-| 08:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 1.7% | -3.3% |
+| 44 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 15:00 | GBP | Core Retail Sales (YoY) (Jan) |  | -1.6% | -2.1% |
-| 15:00 | GBP | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
+| 15:00 | GBP | Core Retail Sales (MoM) (Jan) |  | 1.7% | -3.3% |
 | 15:00 | GBP | Retail Sales (YoY) (Jan) |  | -1.4% | -2.4% |
+| 15:00 | GBP | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
 | 15:45 | EUR | French CPI (MoM) (Jan) |  | -0.2% | 0.1% |
 | 15:45 | EUR | French HICP (MoM) (Jan) |  | -0.2% | 0.1% |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
