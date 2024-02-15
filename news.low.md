@@ -15,23 +15,23 @@
 | 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
-| 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.76% |
+| 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.85% |
 | 12:00 | IDR | Import Growth (YoY) (Jan) | 0.36% | 1.30% | -3.81% |
 | 12:00 | IDR | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
-| 40 min | GBP | Business Investment (YoY) (Q4) |  |  | 2.3% |
-| 40 min | GBP | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
-| 40 min | GBP | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
-| 40 min | GBP | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
-| 40 min | GBP | Index of Services |  | 0.1% | 0.0% |
-| 40 min | GBP | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
-| 40 min | GBP | Manufacturing Production (YoY) (Dec) |  | 0.6% | 1.3% |
-| 40 min | NOK | Consumer Confidence |  |  | -33.50 |
-| 40 min | NOK | Trade Balance (Jan) |  |  | 77.3B |
-| 15:30 | CHF | PPI (YoY) (Jan) |  |  | -1.1% |
-| 16:00 | EUR | Core CPI (YoY) (Jan) |  |  | 3.8% |
-| 16:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 16:00 | EUR | Spanish HICP (MoM) (Jan) |  | -0.2% | 0.0% |
+| 15:00 | GBP | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
+| 15:00 | GBP | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Dec) | -3.2% | -1.4% | -0.7% |
+| 15:00 | GBP | GDP (YoY) (Dec) | 0.0% | 0.3% | -0.3% |
+| 15:00 | GBP | Index of Services | -0.2% | 0.1% | -0.2% |
+| 15:00 | GBP | Industrial Production (YoY) (Dec) | 0.6% | -0.4% | 0.1% |
+| 15:00 | GBP | Manufacturing Production (YoY) (Dec) | 2.3% | 0.6% | 1.9% |
+| 15:00 | NOK | Trade Balance (Jan) | 72.9B |  | 77.3B |
+| 16 min | CHF | PPI (YoY) (Jan) |  |  | -1.1% |
+| 16 min | NOK | Consumer Confidence |  |  | -33.50 |
+| 46 min | EUR | Core CPI (YoY) (Jan) |  |  | 3.8% |
+| 46 min | EUR | Spanish CPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 46 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.2% | 0.0% |
 | 17:00 | EUR | Italian Trade Balance (Dec) |  | 3.650B | 3.889B |
 | 17:00 | EUR | Italian Trade Balance EU (Dec) |  |  | -2.39B |
 | 17:30 | ZAR | Business Confidence |  |  | 111.5 |
