@@ -9,12 +9,12 @@
 | 02:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 02:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 02:40 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 05:00 | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
-| 05:00 | USD | Low | Overall Net Capital Flow (Dec) |  |  | 260.20B |
-| 05:00 | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  | 42.6B | 126.1B |
-| 05:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 126.10B |
-| 05:00 | KRW | Low | Export Price Index (YoY) (Jan) |  |  | -2.3% |
-| 05:00 | KRW | Low | Import Price Index (YoY) (Jan) |  |  | -4.1% |
+| 46 min | USD | Low | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
+| 46 min | USD | Low | Overall Net Capital Flow (Dec) |  |  | 260.20B |
+| 46 min | USD | Moderate | TIC Net Long-Term Transactions (Dec) |  | 42.6B | 126.1B |
+| 46 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 126.10B |
+| 46 min | KRW | Low | Export Price Index (YoY) (Jan) |  |  | -2.3% |
+| 46 min | KRW | Low | Import Price Index (YoY) (Jan) |  |  | -4.1% |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,631B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.556T |
 | 05:30 | NZD | Moderate | Business NZ PMI (Jan) |  |  | 43.1 |
@@ -25,8 +25,8 @@
 | 07:55 | KRW | Low | Imports (YoY) (Jan) |  |  | -7.8% |
 | 07:55 | KRW | Low | Trade Balance (Jan) |  |  | 0.30B |
 | 08:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) |  | 0.50% | -2.80% |
 | 08:30 | SGD | Low | Non-Oil Exports (YoY) (Jan) |  | 5.40% | -1.50% |
+| 08:30 | SGD | Low | Non-Oil Exports (MoM) (Jan) |  | 0.50% | -2.80% |
 | 09:30 | SGD | Low | Trade Balance |  |  | 7.778B |
 | 10:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 38.79 |
 | 10:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 66.51 |
@@ -37,18 +37,18 @@
 | 11:00 | KRW | Low | M2 Money supply (Dec) |  |  | 2.40% |
 | 11:00 | IDR | Low | Retail Sales (YoY) (Dec) |  |  | 2.1% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Dec) |  | 0.20 | -0.80 |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | -1.6% | -2.1% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) |  | 1.7% | -3.3% |
-| 15:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | -1.4% | -2.4% |
+| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) |  | -1.6% | -2.1% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Jan) |  | 1.5% | -3.2% |
+| 15:00 | GBP | Moderate | Retail Sales (YoY) (Jan) |  | -1.4% | -2.4% |
 | 15:00 | EUR | Low | German WPI (MoM) (Jan) |  | -0.4% | -0.6% |
 | 15:00 | EUR | Low | German WPI (YoY) (Jan) |  |  | -2.6% |
 | 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |
 | 15:30 | CHF | Low | Industrial Production (YoY) |  |  | 2.00% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Jan) |  |  | 3.70% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Jan) |  |  | 0.10% |
-| 15:45 | EUR | Low | French CPI (YoY) |  | 3.1% | 3.7% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Jan) |  | -0.2% | 0.1% |
+| 15:45 | EUR | Low | French CPI (YoY) |  | 3.1% | 3.7% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Jan) |  | -0.2% | 0.1% |
 | 15:45 | EUR | Low | French HICP (YoY) (Jan) |  | 3.4% | 4.1% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 3.60% |
@@ -57,10 +57,10 @@
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.4% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 622.47B |
 | 19:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
-| 21:30 | USD | Moderate | Building Permits (Jan) |  | 1.509M | 1.493M |
 | 21:30 | USD | Low | Building Permits (MoM) (Jan) |  |  | 1.8% |
-| 21:30 | USD | Low | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
+| 21:30 | USD | Moderate | Building Permits (Jan) |  | 1.509M | 1.493M |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 21:30 | USD | Low | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
 | 21:30 | USD | Moderate | Housing Starts (Jan) |  | 1.450M | 1.460M |
 | 21:30 | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | -4.3% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |

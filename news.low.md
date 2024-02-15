@@ -5,11 +5,11 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.270% |
 | 01:30 | BRL | Foreign Exchange Flows | 0.321B |  | -1.473B |
-| 05:00 | USD | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
-| 05:00 | USD | Overall Net Capital Flow (Dec) |  |  | 260.20B |
-| 05:00 | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 126.10B |
-| 05:00 | KRW | Export Price Index (YoY) (Jan) |  |  | -2.3% |
-| 05:00 | KRW | Import Price Index (YoY) (Jan) |  |  | -4.1% |
+| 46 min | USD | US Foreign Buying, T-bonds (Dec) |  |  | 91.00B |
+| 46 min | USD | Overall Net Capital Flow (Dec) |  |  | 260.20B |
+| 46 min | USD | TIC Net Long-Term Transactions including Swaps (Dec) |  |  | 126.10B |
+| 46 min | KRW | Export Price Index (YoY) (Jan) |  |  | -2.3% |
+| 46 min | KRW | Import Price Index (YoY) (Jan) |  |  | -4.1% |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.556T |
 | 07:00 | KRW | Unemployment Rate (Jan) |  |  | 3.3% |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 456.6B |
@@ -17,8 +17,8 @@
 | 07:55 | KRW | Exports (YoY) (Jan) |  |  | 18.0% |
 | 07:55 | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
 | 07:55 | KRW | Trade Balance (Jan) |  |  | 0.30B |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Jan) |  | 0.50% | -2.80% |
 | 08:30 | SGD | Non-Oil Exports (YoY) (Jan) |  | 5.40% | -1.50% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Jan) |  | 0.50% | -2.80% |
 | 09:30 | SGD | Trade Balance |  |  | 7.778B |
 | 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 38.79 |
 | 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 66.51 |
