@@ -33,8 +33,8 @@
 | 15:00 | EUR | German WPI (YoY) (Jan) |  |  | -2.6% |
 | 15:00 | NOK | Consumer Confidence |  |  | -33.50 |
 | 15:30 | CHF | Industrial Production (YoY) |  |  | 2.00% |
-| 15:45 | EUR | CPI NSA (MoM) (Jan) |  |  | 0.10% |
 | 15:45 | EUR | CPI NSA (YoY) (Jan) |  |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Jan) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.1% | 3.7% |
 | 15:45 | EUR | French HICP (YoY) (Jan) |  | 3.4% | 4.1% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 3.60% |
@@ -44,9 +44,9 @@
 | 19:30 | BRL | Foreign Exchange Flows |  |  | -0.315B |
 | 21:30 | USD | Building Permits (MoM) (Jan) |  |  | 1.8% |
 | 21:30 | USD | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
+| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
 | 21:30 | USD | PPI (YoY) (Jan) |  | 0.6% | 1.0% |
 | 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 2.5% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
 | 21:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 12.53B |
 | 22:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:00 | USD | Michigan Current Conditions (Feb) |  | 82.0 | 81.9 |
