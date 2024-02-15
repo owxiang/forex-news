@@ -11,8 +11,8 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
+| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.85% |
@@ -27,21 +27,21 @@
 | 15:00 | GBP | Industrial Production (YoY) (Dec) | 0.6% | -0.4% | 0.1% |
 | 15:00 | GBP | Manufacturing Production (YoY) (Dec) | 2.3% | 0.6% | 1.9% |
 | 15:00 | NOK | Trade Balance (Jan) | 72.9B |  | 77.3B |
-| 16 min | CHF | PPI (YoY) (Jan) |  |  | -1.1% |
-| 16 min | NOK | Consumer Confidence |  |  | -33.50 |
-| 46 min | EUR | Core CPI (YoY) (Jan) |  |  | 3.8% |
-| 46 min | EUR | Spanish CPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 46 min | EUR | Spanish HICP (MoM) (Jan) |  | -0.2% | 0.0% |
-| 17:00 | EUR | Italian Trade Balance (Dec) |  | 3.650B | 3.889B |
-| 17:00 | EUR | Italian Trade Balance EU (Dec) |  |  | -2.39B |
+| 15:30 | CHF | PPI (YoY) (Jan) | -2.3% |  | -1.1% |
+| 16:00 | EUR | Core CPI (YoY) (Jan) | 3.6% |  | 3.8% |
+| 16:00 | EUR | Spanish CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 16:00 | EUR | Spanish HICP (MoM) (Jan) | -0.2% | -0.2% | 0.0% |
+| 16:15 | INR | Exports (USD) (Jan) | 36.92B |  | 38.45B |
+| 16:15 | INR | Imports (USD) (Jan) | 54.41B |  | 58.25B |
+| 16:16 | INR | Trade Balance (Jan) | -17.49B | -20.00B | -19.80B |
+| 41 min | EUR | Italian Trade Balance (Dec) |  | 3.650B | 3.889B |
+| 41 min | EUR | Italian Trade Balance EU (Dec) |  |  | -2.39B |
+| 41 min | NOK | Consumer Confidence |  |  | -33.50 |
 | 17:30 | ZAR | Business Confidence |  |  | 111.5 |
 | 17:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.799% |
 | 17:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.621% |
 | 18:00 | GBP | Thomson Reuters IPSOS PCSI (Feb) |  |  | 54.7 |
 | 18:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.31 |
-| 18:00 | INR | Exports (USD) |  |  | 38.45B |
-| 18:00 | INR | Imports (USD) |  |  | 58.25B |
-| 18:00 | INR | Trade Balance |  | -20.00B | -19.80B |
 | 18:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 48.91 |
 | 18:00 | EUR | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.20 |
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 46.05 |
