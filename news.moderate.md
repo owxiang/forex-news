@@ -10,7 +10,6 @@
 | 08:30 | AUD | Full Employment Change (Jan) | 11.1K |  | -109.5K |
 | 08:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.0% | 3.9% |
 | 12:30 | JPY | Industrial Production (MoM) (Dec) | 1.4% | 1.8% | -0.9% |
-| 14:00 | GBP | Labour Productivity (Q3) | 0.6% |  | 0.2% |
 | 15:00 | GBP | Business Investment (QoQ) (Q4) | 1.5% | -0.1% | -2.8% |
 | 15:00 | GBP | Industrial Production (MoM) (Dec) | 0.6% | -0.1% | 0.5% |
 | 15:00 | GBP | Labour Productivity (Q3) | 0.7% | -0.2% | 0.6% |
@@ -18,13 +17,14 @@
 | 15:00 | GBP | Monthly GDP 3M/3M Change (Dec) | -0.3% | -0.1% | -0.2% |
 | 15:00 | GBP | Trade Balance (Dec) | -13.99B | -15.00B | -15.13B |
 | 15:00 | GBP | Trade Balance Non-EU (Dec) | -3.32B |  | -3.75B |
+| 15:01 | GBP | Labour Productivity (Q4) | -1.0% |  | 0.7% |
 | 15:30 | CHF | PPI (MoM) (Jan) | -0.5% | -0.2% | -0.6% |
-| 16:00 | CHF | SECO Consumer Climate (Q1) | -41 | -33 | -28 |
+| 16:00 | CHF | SECO Consumer Climate (Q1) | -26 | -33 | -35 |
 | 16:00 | EUR | Spanish CPI (YoY) (Jan) | 3.4% | 3.4% | 3.1% |
 | 16:00 | EUR | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | IEA Monthly Report |  |  |  |
-| 42 min | EUR | Trade Balance (Dec) |  | 21.5B | 20.3B |
+| 18:00 | EUR | Trade Balance (Dec) | 16.8B | 21.5B | 20.3B |
 | 20:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:00 | GBP | NIESR Monthly GDP Tracker |  | 0.0% | 0.0% |
 | 21:15 | CAD | Housing Starts (Jan) |  | 236.0K | 249.3K |

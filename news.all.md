@@ -16,8 +16,8 @@
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | Low | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:00 | SGD | Low | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
+| 08:00 | SGD | Low | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:30 | AUD | Moderate | Employment Change (Jan) | 0.5K | 26.4K | -62.7K |
 | 08:30 | AUD | Moderate | Full Employment Change (Jan) | 11.1K |  | -109.5K |
 | 08:30 | AUD | Low | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
@@ -28,31 +28,31 @@
 | 12:00 | IDR | Low | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
 | 12:30 | JPY | Low | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | 1.4% | 1.8% | -0.9% |
-| 14:00 | GBP | Moderate | Labour Productivity (Q3) | 0.6% |  | 0.2% |
-| 15:00 | GBP | Low | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.5% | -0.1% | -2.8% |
+| 15:00 | GBP | Low | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
 | 15:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) | -3.2% | -1.4% | -0.7% |
+| 15:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | 0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (MoM) (Dec) | -0.1% | -0.2% | 0.2% |
 | 15:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.1% | -0.1% |
-| 15:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | 0.1% | 0.2% |
 | 15:00 | GBP | Low | GDP (YoY) (Dec) | 0.0% | 0.3% | -0.3% |
 | 15:00 | GBP | Low | Index of Services | -0.2% | 0.1% | -0.2% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Dec) | 0.6% | -0.1% | 0.5% |
 | 15:00 | GBP | Low | Industrial Production (YoY) (Dec) | 0.6% | -0.4% | 0.1% |
 | 15:00 | GBP | Moderate | Labour Productivity (Q3) | 0.7% | -0.2% | 0.6% |
-| 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) | 0.8% | -0.1% | 0.8% |
 | 15:00 | GBP | Low | Manufacturing Production (YoY) (Dec) | 2.3% | 0.6% | 1.9% |
+| 15:00 | GBP | Moderate | Manufacturing Production (MoM) (Dec) | 0.8% | -0.1% | 0.8% |
 | 15:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Dec) | -0.3% | -0.1% | -0.2% |
 | 15:00 | GBP | Moderate | Trade Balance (Dec) | -13.99B | -15.00B | -15.13B |
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -3.32B |  | -3.75B |
 | 15:00 | NOK | Low | Trade Balance (Jan) | 72.9B |  | 77.3B |
-| 15:30 | CHF | Low | PPI (YoY) (Jan) | -2.3% |  | -1.1% |
+| 15:01 | GBP | Moderate | Labour Productivity (Q4) | -1.0% |  | 0.7% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Jan) | -0.5% | -0.2% | -0.6% |
-| 16:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -41 | -33 | -28 |
+| 15:30 | CHF | Low | PPI (YoY) (Jan) | -2.3% |  | -1.1% |
+| 16:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -26 | -33 | -35 |
 | 16:00 | EUR | Low | Core CPI (YoY) (Jan) | 3.6% |  | 3.8% |
-| 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.4% | 3.1% |
+| 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.2% | 0.0% |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -62,18 +62,17 @@
 | 17:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 17:00 | EUR | Low | Italian Trade Balance (Dec) | 5.614B | 3.650B | 3.884B |
 | 17:00 | EUR | Low | Italian Trade Balance EU (Dec) | -2.75B |  | -2.39B |
-| 12 min | ZAR | Low | Business Confidence |  |  | 111.5 |
-| 22 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.799% |
-| 22 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.621% |
-| 42 min | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) |  |  | 54.7 |
-| 42 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.31 |
-| 42 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) |  |  | 48.91 |
-| 42 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) |  |  | 45.20 |
-| 42 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 46.05 |
-| 42 min | EUR | Moderate | Trade Balance (Dec) |  | 21.5B | 20.3B |
-| 42 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 45.95 |
-| 19:00 | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
-| 19:00 | EUR | Low | Reserve Assets Total (Jan) |  |  | 1,147.67B |
+| 17:50 | EUR | Low | Spanish 3-Year Bonos Auction | 2.875% |  | 2.799% |
+| 17:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.873% |  | 2.621% |
+| 18:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Feb) | 51.5 |  | 54.7 |
+| 18:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Feb) | 44.33 |  | 45.31 |
+| 18:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Feb) | 46.86 |  | 48.91 |
+| 18:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Feb) | 43.57 |  | 45.20 |
+| 18:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 44.15 |  | 46.05 |
+| 18:00 | EUR | Moderate | Trade Balance (Dec) | 16.8B | 21.5B | 20.3B |
+| 18:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
+| 43 min | CAD | Low | Leading Index (MoM) (Jan) |  |  | 0.05% |
+| 43 min | EUR | Low | Reserve Assets Total (Jan) |  |  | 1,147.67B |
 | 19:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.315B |
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
 | 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
