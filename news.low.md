@@ -11,8 +11,8 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
+| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.85% |
@@ -20,8 +20,8 @@
 | 12:00 | IDR | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
 | 15:00 | GBP | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
-| 15:00 | GBP | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Dec) | -3.2% | -1.4% | -0.7% |
+| 15:00 | GBP | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
 | 15:00 | GBP | GDP (YoY) (Dec) | 0.0% | 0.3% | -0.3% |
 | 15:00 | GBP | Index of Services | -0.2% | 0.1% | -0.2% |
 | 15:00 | GBP | Industrial Production (YoY) (Dec) | 0.6% | -0.4% | 0.1% |
@@ -45,17 +45,17 @@
 | 18:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 44.15 |  | 46.05 |
 | 18:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Feb) | 45.92 |  | 45.95 |
 | 19:00 | EUR | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
-| 13 min | USD | Export Price Index (YoY) |  |  | -3.2% |
-| 13 min | USD | Import Price Index (YoY) |  |  | -1.6% |
-| 13 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 13 min | USD | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
-| 13 min | USD | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
-| 13 min | USD | Philly Fed New Orders (Feb) |  |  | -17.9 |
-| 13 min | USD | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
-| 13 min | USD | Retail Sales (YoY) (Jan) |  |  | 5.59% |
-| 13 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
-| 13 min | CAD | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
-| 58 min | USD | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
-| 58 min | USD | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
-| 23:00 | USD | NAHB Housing Market Index (Feb) |  | 46 | 44 |
+| 21:30 | USD | Export Price Index (YoY) | -2.4% |  | -2.9% |
+| 21:30 | USD | Import Price Index (YoY) | -1.3% | -1.3% | -1.6% |
+| 21:30 | USD | Jobless Claims 4-Week Avg. | 218.50K |  | 212.75K |
+| 21:30 | USD | Philly Fed Business Conditions (Feb) | 7.2 |  | -4.0 |
+| 21:30 | USD | Philly Fed CAPEX Index (Feb) | 12.70 |  | 7.50 |
+| 21:30 | USD | Philly Fed New Orders (Feb) | -5.2 |  | -17.9 |
+| 21:30 | USD | Philly Fed Prices Paid (Feb) | 16.60 |  | 11.30 |
+| 21:30 | USD | Retail Sales (YoY) (Jan) | 0.65% |  | 5.31% |
+| 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.6% |
+| 21:30 | CAD | Manufacturing Sales (MoM) (Dec) | -0.7% | -0.6% | 1.5% |
+| 22:15 | USD | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
+| 22:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
+| 46 min | USD | NAHB Housing Market Index (Feb) |  | 46 | 44 |
 | 23:30 | USD | Natural Gas Storage |  | -67B | -75B |

@@ -16,8 +16,8 @@
 | 07:50 | JPY | Low | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 08:00 | AUD | Low | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | Low | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:00 | SGD | Low | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
+| 08:00 | SGD | Low | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:30 | AUD | Moderate | Employment Change (Jan) | 0.5K | 26.4K | -62.7K |
 | 08:30 | AUD | Moderate | Full Employment Change (Jan) | 11.1K |  | -109.5K |
 | 08:30 | AUD | Low | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
@@ -30,11 +30,11 @@
 | 12:30 | JPY | Moderate | Industrial Production (MoM) (Dec) | 1.4% | 1.8% | -0.9% |
 | 15:00 | GBP | Low | Business Investment (YoY) (Q4) | 3.7% |  | 2.6% |
 | 15:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.5% | -0.1% | -2.8% |
-| 15:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
 | 15:00 | GBP | Low | U.K. Construction Output (YoY) (Dec) | -3.2% | -1.4% | -0.7% |
+| 15:00 | GBP | Low | Construction Output (MoM) (Dec) | -0.5% | -0.1% | -0.7% |
+| 15:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.1% | -0.1% |
 | 15:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | 0.1% | 0.2% |
 | 15:00 | GBP | High | GDP (MoM) (Dec) | -0.1% | -0.2% | 0.2% |
-| 15:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.1% | -0.1% |
 | 15:00 | GBP | Low | GDP (YoY) (Dec) | 0.0% | 0.3% | -0.3% |
 | 15:00 | GBP | Low | Index of Services | -0.2% | 0.1% | -0.2% |
 | 15:00 | GBP | Moderate | Industrial Production (MoM) (Dec) | 0.6% | -0.1% | 0.5% |
@@ -47,14 +47,14 @@
 | 15:00 | GBP | Moderate | Trade Balance Non-EU (Dec) | -3.32B |  | -3.75B |
 | 15:00 | NOK | Low | Trade Balance (Jan) | 72.9B |  | 77.3B |
 | 15:01 | GBP | Moderate | Labour Productivity (Q4) | -1.0% |  | 0.7% |
-| 15:30 | CHF | Low | PPI (YoY) (Jan) | -2.3% |  | -1.1% |
 | 15:30 | CHF | Moderate | PPI (MoM) (Jan) | -0.5% | -0.2% | -0.6% |
+| 15:30 | CHF | Low | PPI (YoY) (Jan) | -2.3% |  | -1.1% |
 | 16:00 | CHF | Moderate | SECO Consumer Climate (Q1) | -26 | -33 | -35 |
 | 16:00 | EUR | Low | Core CPI (YoY) (Jan) | 3.6% |  | 3.8% |
-| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.4% | 3.1% |
 | 16:00 | EUR | Low | Spanish CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
-| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
+| 16:00 | EUR | Moderate | Spanish CPI (YoY) (Jan) | 3.4% | 3.4% | 3.1% |
 | 16:00 | EUR | Low | Spanish HICP (MoM) (Jan) | -0.2% | -0.2% | 0.0% |
+| 16:00 | EUR | Moderate | Spanish HICP (YoY) (Jan) | 3.5% | 3.5% | 3.3% |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:15 | INR | Low | Exports (USD) (Jan) | 36.92B |  | 38.45B |
 | 16:15 | INR | Low | Imports (USD) (Jan) | 54.41B |  | 58.25B |
@@ -74,33 +74,33 @@
 | 19:00 | EUR | Low | Reserve Assets Total (Jan) | 1,158.00B |  | 1,147.63B |
 | 20:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:30 | GBP | Moderate | NIESR Monthly GDP Tracker (Jan) | -0.1% | 0.0% | -0.3% |
-| 21:15 | CAD | Moderate | Housing Starts (Jan) |  | 236.0K | 249.3K |
-| 13 min | USD | Moderate | Continuing Jobless Claims |  | 1,880K | 1,871K |
-| 13 min | USD | High | Core Retail Sales (MoM) (Jan) |  | 0.2% | 0.4% |
-| 13 min | USD | Moderate | Export Price Index (MoM) (Jan) |  | -0.1% | -0.9% |
-| 13 min | USD | Low | Export Price Index (YoY) |  |  | -3.2% |
-| 13 min | USD | Low | Import Price Index (YoY) |  |  | -1.6% |
-| 13 min | USD | Moderate | Import Price Index (MoM) (Jan) |  | 0.0% | 0.0% |
-| 13 min | USD | High | Initial Jobless Claims |  | 219K | 218K |
-| 13 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 13 min | USD | Moderate | NY Empire State Manufacturing Index (Feb) |  | -13.70 | -43.70 |
-| 13 min | USD | High | Philadelphia Fed Manufacturing Index (Feb) |  | -8.0 | -10.6 |
-| 13 min | USD | Low | Philly Fed Business Conditions (Feb) |  |  | -4.0 |
-| 13 min | USD | Low | Philly Fed CAPEX Index (Feb) |  |  | 7.50 |
-| 13 min | USD | Moderate | Philly Fed Employment (Feb) |  |  | -1.8 |
-| 13 min | USD | Low | Philly Fed New Orders (Feb) |  |  | -17.9 |
-| 13 min | USD | Low | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
-| 13 min | USD | Moderate | Retail Control (MoM) (Jan) |  |  | 0.8% |
-| 13 min | USD | Low | Retail Sales (YoY) (Jan) |  |  | 5.59% |
-| 13 min | USD | High | Retail Sales (MoM) (Jan) |  | -0.2% | 0.6% |
-| 13 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
-| 13 min | CAD | Low | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
-| 33 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 58 min | USD | Low | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
-| 58 min | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.98% |
-| 58 min | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
-| 58 min | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
-| 23:00 | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
-| 23:00 | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 44 |
-| 23:00 | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |
+| 21:15 | CAD | Moderate | Housing Starts (Jan) | 223.6K | 236.0K | 249.0K |
+| 21:30 | USD | Moderate | Continuing Jobless Claims | 1,895K | 1,880K | 1,865K |
+| 21:30 | USD | High | Core Retail Sales (MoM) (Jan) | -0.6% | 0.2% | 0.4% |
+| 21:30 | USD | Low | Export Price Index (YoY) | -2.4% |  | -2.9% |
+| 21:30 | USD | Moderate | Export Price Index (MoM) (Jan) | 0.8% | -0.1% | -0.7% |
+| 21:30 | USD | Low | Import Price Index (YoY) | -1.3% | -1.3% | -1.6% |
+| 21:30 | USD | Moderate | Import Price Index (MoM) (Jan) | 0.8% | 0.0% | -0.7% |
+| 21:30 | USD | High | Initial Jobless Claims | 212K | 219K | 220K |
+| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 218.50K |  | 212.75K |
+| 21:30 | USD | Moderate | NY Empire State Manufacturing Index (Feb) | -2.40 | -13.70 | -43.70 |
+| 21:30 | USD | High | Philadelphia Fed Manufacturing Index (Feb) | 5.2 | -8.0 | -10.6 |
+| 21:30 | USD | Low | Philly Fed Business Conditions (Feb) | 7.2 |  | -4.0 |
+| 21:30 | USD | Low | Philly Fed CAPEX Index (Feb) | 12.70 |  | 7.50 |
+| 21:30 | USD | Moderate | Philly Fed Employment (Feb) | -10.3 |  | -1.8 |
+| 21:30 | USD | Low | Philly Fed New Orders (Feb) | -5.2 |  | -17.9 |
+| 21:30 | USD | Low | Philly Fed Prices Paid (Feb) | 16.60 |  | 11.30 |
+| 21:30 | USD | Moderate | Retail Control (MoM) (Jan) | -0.4% | 0.2% | 0.6% |
+| 21:30 | USD | High | Retail Sales (MoM) (Jan) | -0.8% | -0.2% | 0.4% |
+| 21:30 | USD | Low | Retail Sales (YoY) (Jan) | 0.65% |  | 5.31% |
+| 21:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.6% |
+| 21:30 | CAD | Low | Manufacturing Sales (MoM) (Dec) | -0.7% | -0.6% | 1.5% |
+| 21:50 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 22:15 | USD | Low | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
+| 22:15 | USD | Moderate | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 22:15 | USD | Moderate | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
+| 22:15 | USD | Low | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
+| 46 min | USD | Moderate | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
+| 46 min | USD | Low | NAHB Housing Market Index (Feb) |  | 46 | 44 |
+| 46 min | USD | Moderate | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |
 | 23:30 | USD | Low | Natural Gas Storage |  | -67B | -75B |
