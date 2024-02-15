@@ -11,8 +11,8 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
+| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.85% |
@@ -55,7 +55,7 @@
 | 21:30 | USD | Retail Sales (YoY) (Jan) | 0.65% |  | 5.31% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) | -0.5% |  | 0.6% |
 | 21:30 | CAD | Manufacturing Sales (MoM) (Dec) | -0.7% | -0.6% | 1.5% |
-| 22:15 | USD | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
-| 22:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
-| 46 min | USD | NAHB Housing Market Index (Feb) |  | 46 | 44 |
-| 23:30 | USD | Natural Gas Storage |  | -67B | -75B |
+| 22:15 | USD | Capacity Utilization Rate (Jan) | 78.5% | 78.8% | 78.7% |
+| 22:15 | USD | Manufacturing Production (MoM) (Jan) | -0.5% | 0.0% | 0.1% |
+| 23:00 | USD | NAHB Housing Market Index (Feb) | 48 | 46 | 44 |
+| 15 min | USD | Natural Gas Storage |  | -67B | -75B |

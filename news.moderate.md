@@ -35,7 +35,7 @@
 | 21:30 | USD | Philly Fed Employment (Feb) | -10.3 |  | -1.8 |
 | 21:30 | USD | Retail Control (MoM) (Jan) | -0.4% | 0.2% | 0.6% |
 | 21:50 | GBP | BoE MPC Member Mann |  |  |  |
-| 22:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
-| 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
-| 46 min | USD | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
-| 46 min | USD | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |
+| 22:15 | USD | Industrial Production (YoY) (Jan) | 0.03% |  | 1.17% |
+| 22:15 | USD | Industrial Production (MoM) (Jan) | -0.1% | 0.2% | 0.1% |
+| 23:00 | USD | Business Inventories (MoM) (Dec) | 0.4% | 0.4% | -0.1% |
+| 23:00 | USD | Retail Inventories Ex Auto (Dec) | 0.4% | 0.6% | -0.9% |
