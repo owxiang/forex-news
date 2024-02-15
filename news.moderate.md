@@ -9,7 +9,7 @@
 | 08:30 | AUD | Employment Change (Jan) | 0.5K | 26.4K | -62.7K |
 | 08:30 | AUD | Full Employment Change (Jan) | 11.1K |  | -109.5K |
 | 08:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.0% | 3.9% |
-| 11 min | JPY | Industrial Production (MoM) (Dec) |  | 1.8% | -0.9% |
+| 12:30 | JPY | Industrial Production (MoM) (Dec) | 1.4% | 1.8% | -0.9% |
 | 15:00 | GBP | Business Investment (QoQ) (Q4) |  | -0.1% | -3.2% |
 | 15:00 | GBP | Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
 | 15:00 | GBP | Labour Productivity |  | -0.2% | 0.7% |
@@ -34,7 +34,7 @@
 | 21:30 | USD | Philly Fed Employment (Feb) |  |  | -1.8 |
 | 21:30 | USD | Retail Control (MoM) (Jan) |  |  | 0.8% |
 | 21:50 | GBP | BoE MPC Member Mann |  |  |  |
-| 22:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
 | 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
+| 22:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
 | 23:00 | USD | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
 | 23:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |

@@ -11,17 +11,17 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
+| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.76% |
 | 12:00 | IDR | Import Growth (YoY) (Jan) | 0.36% | 1.30% | -3.81% |
 | 12:00 | IDR | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
-| 11 min | JPY | Capacity Utilization (MoM) (Dec) |  |  | 0.3% |
+| 12:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
 | 15:00 | GBP | Business Investment (YoY) (Q4) |  |  | 2.3% |
-| 15:00 | GBP | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
 | 15:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
+| 15:00 | GBP | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
 | 15:00 | GBP | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
 | 15:00 | GBP | Index of Services |  | 0.1% | 0.0% |
 | 15:00 | GBP | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
