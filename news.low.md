@@ -11,23 +11,23 @@
 | 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | 0.0% |
 | 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
 | 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
-| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.0% |
+| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
 | 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
 | 08:30 | AUD | Reserve Assets Total (Jan) | 92.3B |  | 89.4B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) | -8.06% | -2.70% | -5.76% |
 | 12:00 | IDR | Import Growth (YoY) (Jan) | 0.36% | 1.30% | -3.81% |
 | 12:00 | IDR | Trade Balance (Jan) | 2.01B | 2.99B | 3.30B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Dec) | -0.1% |  | 0.3% |
-| 15:00 | GBP | Business Investment (YoY) (Q4) |  |  | 2.3% |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
-| 15:00 | GBP | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
-| 15:00 | GBP | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
-| 15:00 | GBP | Index of Services |  | 0.1% | 0.0% |
-| 15:00 | GBP | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
-| 15:00 | GBP | Manufacturing Production (YoY) (Dec) |  | 0.6% | 1.3% |
-| 15:00 | NOK | Consumer Confidence |  |  | -33.50 |
-| 15:00 | NOK | Trade Balance (Jan) |  |  | 77.3B |
+| 40 min | GBP | Business Investment (YoY) (Q4) |  |  | 2.3% |
+| 40 min | GBP | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
+| 40 min | GBP | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
+| 40 min | GBP | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
+| 40 min | GBP | Index of Services |  | 0.1% | 0.0% |
+| 40 min | GBP | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
+| 40 min | GBP | Manufacturing Production (YoY) (Dec) |  | 0.6% | 1.3% |
+| 40 min | NOK | Consumer Confidence |  |  | -33.50 |
+| 40 min | NOK | Trade Balance (Jan) |  |  | 77.3B |
 | 15:30 | CHF | PPI (YoY) (Jan) |  |  | -1.1% |
 | 16:00 | EUR | Core CPI (YoY) (Jan) |  |  | 3.8% |
 | 16:00 | EUR | Spanish CPI (MoM) (Jan) |  | 0.1% | 0.0% |
@@ -59,7 +59,7 @@
 | 21:30 | USD | Philly Fed Prices Paid (Feb) |  |  | 11.30 |
 | 21:30 | USD | Retail Sales (YoY) (Jan) |  |  | 5.59% |
 | 21:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jan) |  |  | 0.6% |
-| 21:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | -0.5% | 1.2% |
+| 21:30 | CAD | Manufacturing Sales (MoM) (Dec) |  | -0.6% | 1.2% |
 | 22:15 | USD | Capacity Utilization Rate (Jan) |  | 78.8% | 78.6% |
 | 22:15 | USD | Manufacturing Production (MoM) (Jan) |  | 0.0% | 0.1% |
 | 23:00 | USD | NAHB Housing Market Index (Feb) |  | 46 | 44 |

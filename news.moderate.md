@@ -10,13 +10,13 @@
 | 08:30 | AUD | Full Employment Change (Jan) | 11.1K |  | -109.5K |
 | 08:30 | AUD | Unemployment Rate (Jan) | 4.1% | 4.0% | 3.9% |
 | 12:30 | JPY | Industrial Production (MoM) (Dec) | 1.4% | 1.8% | -0.9% |
-| 15:00 | GBP | Business Investment (QoQ) (Q4) |  | -0.1% | -3.2% |
-| 15:00 | GBP | Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
-| 15:00 | GBP | Labour Productivity |  | -0.2% | 0.7% |
-| 15:00 | GBP | Manufacturing Production (MoM) (Dec) |  | -0.1% | 0.4% |
-| 15:00 | GBP | Monthly GDP 3M/3M Change (Dec) |  | -0.1% | -0.2% |
-| 15:00 | GBP | Trade Balance (Dec) |  | -15.00B | -14.19B |
-| 15:00 | GBP | Trade Balance Non-EU (Dec) |  |  | -2.84B |
+| 40 min | GBP | Business Investment (QoQ) (Q4) |  | -0.1% | -3.2% |
+| 40 min | GBP | Industrial Production (MoM) (Dec) |  | -0.1% | 0.3% |
+| 40 min | GBP | Labour Productivity |  | -0.2% | 0.7% |
+| 40 min | GBP | Manufacturing Production (MoM) (Dec) |  | -0.1% | 0.4% |
+| 40 min | GBP | Monthly GDP 3M/3M Change (Dec) |  | -0.1% | -0.2% |
+| 40 min | GBP | Trade Balance (Dec) |  | -15.00B | -14.19B |
+| 40 min | GBP | Trade Balance Non-EU (Dec) |  |  | -2.84B |
 | 15:30 | CHF | PPI (MoM) (Jan) |  | -0.2% | -0.6% |
 | 16:00 | CHF | SECO Consumer Climate (Q1) |  | -33 | -28 |
 | 16:00 | EUR | Spanish CPI (YoY) (Jan) |  | 3.4% | 3.1% |
@@ -34,7 +34,7 @@
 | 21:30 | USD | Philly Fed Employment (Feb) |  |  | -1.8 |
 | 21:30 | USD | Retail Control (MoM) (Jan) |  |  | 0.8% |
 | 21:50 | GBP | BoE MPC Member Mann |  |  |  |
-| 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 22:15 | USD | Industrial Production (YoY) (Jan) |  |  | 0.98% |
+| 22:15 | USD | Industrial Production (MoM) (Jan) |  | 0.2% | 0.1% |
 | 23:00 | USD | Business Inventories (MoM) (Dec) |  | 0.4% | -0.1% |
 | 23:00 | USD | Retail Inventories Ex Auto (Dec) |  | 0.6% | -0.9% |
