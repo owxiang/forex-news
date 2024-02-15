@@ -7,24 +7,21 @@
 | 05:45 | NZD | Permanent/Long-Term Migration (Dec) | 7,260 |  | 6,870 |
 | 05:45 | NZD | Visitor Arrivals (MoM) | -2.2% |  | -1.6% |
 | 06:00 | AUD | RBA Gov Bullock Speaks |  |  |  |
-| 34 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | 0.3% | -0.4% |
-| 34 min | JPY | GDP External Demand (QoQ) (Q4) |  | 0.3% | -0.1% |
-| 34 min | JPY | GDP Private Consumption (QoQ) (Q4) |  | 0.1% | -0.2% |
-| 39 min | KRW | Exports (YoY) (Jan) |  |  | 18.0% |
-| 39 min | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
-| 39 min | KRW | Trade Balance (Jan) |  |  | 0.30B |
-| 44 min | AUD | MI Inflation Expectations |  |  | 4.5% |
-| 44 min | SGD | GDP (YoY) (Q4) |  | 2.8% | 1.1% |
-| 44 min | SGD | GDP (QoQ) |  | 1.7% | 1.4% |
-| 08:30 | AUD | Participation Rate (Jan) |  | 66.9% | 66.8% |
-| 08:30 | AUD | Reserve Assets Total (Jan) |  |  | 89.4B |
+| 07:50 | JPY | GDP Capital Expenditure (QoQ) (Q4) | -0.1% | 0.3% | -0.6% |
+| 07:50 | JPY | GDP External Demand (QoQ) (Q4) | 0.2% | 0.3% | -0.1% |
+| 07:50 | JPY | GDP Private Consumption (QoQ) (Q4) | -0.2% | 0.1% | -0.3% |
+| 08:00 | AUD | MI Inflation Expectations | 4.5% |  | 4.5% |
+| 08:00 | SGD | GDP (QoQ) | 1.2% | 1.7% | 1.3% |
+| 08:00 | SGD | GDP (YoY) (Q4) | 2.2% | 2.8% | 1.0% |
+| 08:30 | AUD | Participation Rate (Jan) | 66.8% | 66.9% | 66.8% |
+| 08:30 | AUD | Reserve Assets Total (Jan) | 92,252.0B |  | 89,432.0B |
 | 12:00 | IDR | Export Growth (YoY) (Jan) |  | -2.70% | -5.76% |
 | 12:00 | IDR | Import Growth (YoY) (Jan) |  | 1.30% | -3.81% |
 | 12:00 | IDR | Trade Balance (Jan) |  | 2.99B | 3.30B |
 | 12:30 | JPY | Capacity Utilization (MoM) (Dec) |  |  | 0.3% |
 | 15:00 | GBP | Business Investment (YoY) (Q4) |  |  | 2.3% |
-| 15:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
 | 15:00 | GBP | Construction Output (MoM) (Dec) |  | -0.1% | -0.2% |
+| 15:00 | GBP | U.K. Construction Output (YoY) (Dec) |  | -1.4% | 0.9% |
 | 15:00 | GBP | GDP (YoY) (Dec) |  | 0.3% | 0.2% |
 | 15:00 | GBP | Index of Services |  | 0.1% | 0.0% |
 | 15:00 | GBP | Industrial Production (YoY) (Dec) |  | -0.4% | -0.1% |
