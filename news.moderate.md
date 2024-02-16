@@ -10,13 +10,13 @@
 | 05:30 | USD | Fed's Balance Sheet | 7,634B |  | 7,631B |
 | 05:30 | NZD | Business NZ PMI (Jan) | 47.3 |  | 43.1 |
 | 08:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 15:00 | GBP | Core Retail Sales (MoM) (Jan) | 3.2% | 1.7% | -3.5% |
 | 15:00 | GBP | Core Retail Sales (YoY) (Jan) | 0.7% | -1.6% | -2.1% |
+| 15:00 | GBP | Core Retail Sales (MoM) (Jan) | 3.2% | 1.7% | -3.5% |
 | 15:00 | GBP | Retail Sales (MoM) (Jan) | 3.4% | 1.5% | -3.3% |
 | 15:00 | GBP | Retail Sales (YoY) (Jan) | 0.7% | -1.4% | -2.4% |
-| 30 min | EUR | French CPI (MoM) (Jan) |  | -0.2% | 0.1% |
-| 30 min | EUR | French HICP (MoM) (Jan) |  | -0.2% | 0.1% |
-| 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15:45 | EUR | French CPI (MoM) (Jan) | -0.3% | -0.2% | 0.1% |
+| 15:45 | EUR | French HICP (MoM) (Jan) | -0.2% | -0.2% | 0.1% |
+| 26 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | Building Permits (Jan) |  | 1.509M | 1.493M |
 | 21:30 | USD | Core PPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 21:30 | USD | Housing Starts (MoM) (Jan) |  |  | -4.3% |
