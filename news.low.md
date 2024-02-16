@@ -12,19 +12,16 @@
 | 05:00 | KRW | Import Price Index (YoY) (Jan) | 0.2% |  | -4.1% |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.537T |  | 3.556T |
 | 07:00 | KRW | Unemployment Rate (Jan) | 3.0% |  | 3.3% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | 456.6B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 308.4B |
-| 39 min | KRW | Exports (YoY) (Jan) |  |  | 18.0% |
-| 39 min | KRW | Imports (YoY) (Jan) |  |  | -7.8% |
-| 39 min | KRW | Trade Balance (Jan) |  |  | 0.30B |
-| 08:30 | SGD | Non-Oil Exports (MoM) (Jan) |  | 0.50% | -2.80% |
-| 08:30 | SGD | Non-Oil Exports (YoY) (Jan) |  | 5.40% | -1.50% |
-| 09:30 | SGD | Trade Balance |  |  | 7.778B |
-| 10:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 38.79 |
-| 10:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 66.51 |
-| 10:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 50.16 |
-| 10:00 | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 37.84 |
-| 10:00 | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 70.38 |
+| 07:50 | JPY | Foreign Bonds Buying | 1,499.3B |  | 456.7B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 621.3B |  | 308.2B |
+| 08:30 | SGD | Non-Oil Exports (YoY) (Jan) | 16.80% | 5.40% | -1.50% |
+| 08:30 | SGD | Non-Oil Exports (MoM) (Jan) | 2.30% | 0.50% | -1.70% |
+| 23 min | SGD | Trade Balance |  |  | 7.778B |
+| 53 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 38.79 |
+| 53 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 66.51 |
+| 53 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Feb) |  |  | 50.16 |
+| 53 min | JPY | Thomson Reuters IPSOS PCSI (Feb) |  |  | 37.84 |
+| 53 min | CNY | China Thomson Reuters IPSOS PCSI (Feb) |  |  | 70.38 |
 | 11:00 | KRW | M3 Money Supply (Dec) |  |  | 5,283.9B |
 | 11:00 | KRW | M2 Money supply (Dec) |  |  | 2.40% |
 | 11:00 | IDR | Retail Sales (YoY) (Dec) |  |  | 2.1% |
@@ -33,8 +30,8 @@
 | 15:00 | EUR | German WPI (YoY) (Jan) |  |  | -2.6% |
 | 15:00 | NOK | Consumer Confidence |  |  | -33.50 |
 | 15:30 | CHF | Industrial Production (YoY) |  |  | 2.00% |
-| 15:45 | EUR | CPI NSA (MoM) (Jan) |  |  | 0.10% |
 | 15:45 | EUR | CPI NSA (YoY) (Jan) |  |  | 3.70% |
+| 15:45 | EUR | CPI NSA (MoM) (Jan) |  |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) |  | 3.1% | 3.7% |
 | 15:45 | EUR | French HICP (YoY) (Jan) |  | 3.4% | 4.1% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) |  |  | 3.60% |
