@@ -29,12 +29,12 @@
 | 15:00 | EUR | German WPI (MoM) (Jan) | 0.1% | -0.4% | -0.6% |
 | 15:00 | EUR | German WPI (YoY) (Jan) | -2.7% |  | -2.6% |
 | 15:30 | CHF | Industrial Production (YoY) (Q4) | -0.40% |  | 1.80% |
-| 15:45 | EUR | CPI NSA (YoY) (Jan) | 3.10% |  | 3.70% |
-| 15:45 | EUR | CPI NSA (MoM) (Jan) | -0.20% |  | 0.10% |
+| 15:45 | EUR | French CPI NSA (YoY) (Jan) | 3.10% |  | 3.70% |
+| 15:45 | EUR | French CPI NSA (MoM) (Jan) | -0.20% |  | 0.10% |
 | 15:45 | EUR | French CPI (YoY) (Jan) | 3.1% | 3.1% | 3.7% |
 | 15:45 | EUR | French HICP (YoY) (Jan) | 3.4% | 3.4% | 4.1% |
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 2.90% |  | 3.60% |
-| 19:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.4% |
+| 43 min | BRL | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.4% |
 | 19:30 | INR | FX Reserves, USD |  |  | 622.47B |
 | 21:30 | USD | Building Permits (MoM) (Jan) |  |  | 1.8% |
 | 21:30 | USD | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
