@@ -49,8 +49,8 @@
 | 15:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | 0.1% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 2.90% |  | 3.60% |
 | 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 43 min | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.4% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 622.47B |
+| 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) | -0.7% |  | 0.4% |
+| 19 min | INR | Low | FX Reserves, USD |  |  | 622.47B |
 | 21:30 | USD | Low | Building Permits (MoM) (Jan) |  |  | 1.8% |
 | 21:30 | USD | Moderate | Building Permits (Jan) |  | 1.509M | 1.493M |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.1% | 0.0% |
