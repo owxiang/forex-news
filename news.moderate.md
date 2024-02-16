@@ -19,11 +19,11 @@
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | Building Permits (Jan) | 1.470M | 1.509M | 1.493M |
 | 21:30 | USD | Core PPI (MoM) (Jan) | 0.5% | 0.1% | -0.1% |
-| 21:30 | USD | Housing Starts (MoM) (Jan) | -14.8% | 0.0% | 3.3% |
 | 21:30 | USD | Housing Starts (Jan) | 1.331M | 1.450M | 1.562M |
+| 21:30 | USD | Housing Starts (MoM) (Jan) | -14.8% | 0.0% | 3.3% |
 | 21:30 | CAD | Foreign Securities Purchases (Dec) | 10.44B | -6.45B | 11.31B |
 | 21:30 | CAD | Wholesale Sales (MoM) (Dec) | 0.3% | 0.7% | 0.9% |
-| 45 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 2.9% | 2.9% |
-| 45 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  |  | 2.9% |
-| 45 min | USD | Michigan Consumer Expectations (Feb) |  | 76.5 | 77.1 |
-| 45 min | USD | Michigan Consumer Sentiment (Feb) |  | 80.0 | 79.0 |
+| 23:00 | USD | Michigan 1-Year Inflation Expectations (Feb) | 3.0% | 2.9% | 2.9% |
+| 23:00 | USD | Michigan 5-Year Inflation Expectations (Feb) | 2.9% |  | 2.9% |
+| 23:00 | USD | Michigan Consumer Expectations (Feb) | 78.4 | 76.5 | 77.1 |
+| 23:00 | USD | Michigan Consumer Sentiment (Feb) | 79.6 | 80.0 | 79.0 |
