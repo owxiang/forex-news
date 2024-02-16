@@ -34,17 +34,17 @@
 | 11:00 | KRW | Low | M2 Money supply (Dec) | 2.80% |  | 2.40% |
 | 11:00 | IDR | Low | Retail Sales (YoY) (Dec) | 0.2% |  | 2.1% |
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.00 | 0.20 | -1.50 |
-| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 0.7% | -1.6% | -2.1% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 3.2% | 1.7% | -3.5% |
+| 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 0.7% | -1.6% | -2.1% |
 | 15:00 | GBP | Moderate | Retail Sales (MoM) (Jan) | 3.4% | 1.5% | -3.3% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Jan) | 0.7% | -1.4% | -2.4% |
 | 15:00 | EUR | Low | German WPI (MoM) (Jan) | 0.1% | -0.4% | -0.6% |
 | 15:00 | EUR | Low | German WPI (YoY) (Jan) | -2.7% |  | -2.6% |
 | 15:30 | CHF | Low | Industrial Production (YoY) (Q4) | -0.40% |  | 1.80% |
-| 15:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 3.10% |  | 3.70% |
 | 15:45 | EUR | Low | French CPI NSA (MoM) (Jan) | -0.20% |  | 0.10% |
-| 15:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.2% | 0.1% |
+| 15:45 | EUR | Low | French CPI NSA (YoY) (Jan) | 3.10% |  | 3.70% |
 | 15:45 | EUR | Low | French CPI (YoY) (Jan) | 3.1% | 3.1% | 3.7% |
+| 15:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.2% | 0.1% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | 0.1% |
 | 15:45 | EUR | Low | French HICP (YoY) (Jan) | 3.4% | 3.4% | 4.1% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 2.90% |  | 3.60% |
@@ -52,22 +52,22 @@
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) | -0.7% |  | 0.4% |
 | 19:30 | INR | Low | FX Reserves, USD | 617.23B |  | 622.47B |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 13 min | USD | Moderate | Building Permits (Jan) |  | 1.509M | 1.493M |
-| 13 min | USD | Low | Building Permits (MoM) (Jan) |  |  | 1.8% |
-| 13 min | USD | Low | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
-| 13 min | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 13 min | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | -4.3% |
-| 13 min | USD | Moderate | Housing Starts (Jan) |  | 1.450M | 1.460M |
-| 13 min | USD | Low | PPI (YoY) (Jan) |  | 0.6% | 1.0% |
-| 13 min | USD | High | PPI (MoM) (Jan) |  | 0.1% | -0.1% |
-| 13 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 2.5% |
-| 13 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
-| 13 min | CAD | Moderate | Foreign Securities Purchases (Dec) |  | -6.45B | 11.43B |
-| 13 min | CAD | Low | Foreign Securities Purchases by Canadians (Dec) |  |  | 12.53B |
-| 13 min | CAD | Moderate | Wholesale Sales (MoM) (Dec) |  | 0.7% | 0.9% |
-| 53 min | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 23:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  |  | 2.9% |
-| 23:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 2.9% |
-| 23:00 | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 76.5 | 77.1 |
-| 23:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 80.0 | 79.0 |
-| 23:00 | USD | Low | Michigan Current Conditions (Feb) |  | 82.0 | 81.9 |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jan) | 2.6% |  | 2.6% |
+| 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) | 0.6% | 0.1% | 0.2% |
+| 21:30 | USD | Low | Building Permits (MoM) (Jan) | -1.5% | 1.3% | 1.8% |
+| 21:30 | USD | Moderate | Building Permits (Jan) | 1.470M | 1.509M | 1.493M |
+| 21:30 | USD | Moderate | Core PPI (MoM) (Jan) | 0.5% | 0.1% | -0.1% |
+| 21:30 | USD | Low | Core PPI (YoY) (Jan) | 2.0% | 1.6% | 1.7% |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Jan) | -14.8% | 0.0% | 3.3% |
+| 21:30 | USD | Moderate | Housing Starts (Jan) | 1.331M | 1.450M | 1.562M |
+| 21:30 | USD | Low | PPI (YoY) (Jan) | 0.9% | 0.6% | 1.0% |
+| 21:30 | USD | High | PPI (MoM) (Jan) | 0.3% | 0.1% | -0.1% |
+| 21:30 | CAD | Moderate | Foreign Securities Purchases (Dec) | 10.44B | -6.45B | 11.31B |
+| 21:30 | CAD | Low | Foreign Securities Purchases by Canadians (Dec) | 29.40B |  | 12.38B |
+| 21:30 | CAD | Moderate | Wholesale Sales (MoM) (Dec) | 0.3% | 0.7% | 0.9% |
+| 22:10 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 45 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 2.9% | 2.9% |
+| 45 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  |  | 2.9% |
+| 45 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 76.5 | 77.1 |
+| 45 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 80.0 | 79.0 |
+| 45 min | USD | Low | Michigan Current Conditions (Feb) |  | 82.0 | 81.9 |
