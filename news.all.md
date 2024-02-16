@@ -36,27 +36,27 @@
 | 12:30 | JPY | Low | Tertiary Industry Activity Index (Dec) | 7.00 | 0.20 | -1.50 |
 | 15:00 | GBP | Moderate | Core Retail Sales (YoY) (Jan) | 0.7% | -1.6% | -2.1% |
 | 15:00 | GBP | Moderate | Core Retail Sales (MoM) (Jan) | 3.2% | 1.7% | -3.5% |
-| 15:00 | GBP | Moderate | Retail Sales (MoM) (Jan) | 3.4% | 1.5% | -3.3% |
 | 15:00 | GBP | Moderate | Retail Sales (YoY) (Jan) | 0.7% | -1.4% | -2.4% |
+| 15:00 | GBP | Moderate | Retail Sales (MoM) (Jan) | 3.4% | 1.5% | -3.3% |
 | 15:00 | EUR | Low | German WPI (MoM) (Jan) | 0.1% | -0.4% | -0.6% |
 | 15:00 | EUR | Low | German WPI (YoY) (Jan) | -2.7% |  | -2.6% |
 | 15:30 | CHF | Low | Industrial Production (YoY) (Q4) | -0.40% |  | 1.80% |
 | 15:45 | EUR | Low | CPI NSA (YoY) (Jan) | 3.10% |  | 3.70% |
 | 15:45 | EUR | Low | CPI NSA (MoM) (Jan) | -0.20% |  | 0.10% |
-| 15:45 | EUR | Low | French CPI (YoY) (Jan) | 3.1% | 3.1% | 3.7% |
 | 15:45 | EUR | Moderate | French CPI (MoM) (Jan) | -0.3% | -0.2% | 0.1% |
+| 15:45 | EUR | Low | French CPI (YoY) (Jan) | 3.1% | 3.1% | 3.7% |
 | 15:45 | EUR | Moderate | French HICP (MoM) (Jan) | -0.2% | -0.2% | 0.1% |
 | 15:45 | EUR | Low | French HICP (YoY) (Jan) | 3.4% | 3.4% | 4.1% |
 | 15:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jan) | 2.90% |  | 3.60% |
-| 26 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 19:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Feb) |  |  | 0.4% |
 | 19:30 | INR | Low | FX Reserves, USD |  |  | 622.47B |
-| 21:30 | USD | Moderate | Building Permits (Jan) |  | 1.509M | 1.493M |
 | 21:30 | USD | Low | Building Permits (MoM) (Jan) |  |  | 1.8% |
+| 21:30 | USD | Moderate | Building Permits (Jan) |  | 1.509M | 1.493M |
 | 21:30 | USD | Low | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
 | 21:30 | USD | Moderate | Core PPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 21:30 | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | -4.3% |
 | 21:30 | USD | Moderate | Housing Starts (Jan) |  | 1.450M | 1.460M |
+| 21:30 | USD | Moderate | Housing Starts (MoM) (Jan) |  |  | -4.3% |
 | 21:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
 | 21:30 | USD | Low | PPI (YoY) (Jan) |  | 0.6% | 1.0% |
 | 21:30 | USD | High | PPI (MoM) (Jan) |  | 0.1% | -0.1% |
