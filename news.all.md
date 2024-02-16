@@ -6,7 +6,7 @@
 | 01:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 497 |  | 499 |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 623 |
-| 03:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 27 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 34.5K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.9K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -13.7K |

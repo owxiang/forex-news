@@ -6,7 +6,7 @@
 | 01:10 | USD | FOMC Member Daly Speaks |  |  |  |
 | 02:00 | USD | U.S. Baker Hughes Oil Rig Count | 497 |  | 499 |
 | 02:00 | USD | U.S. Baker Hughes Total Rig Count | 621 |  | 623 |
-| 03:40 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 27 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 04:30 | GBP | CFTC GBP speculative net positions |  |  | 34.5K |
 | 04:30 | USD | CFTC Crude Oil speculative net positions |  |  | 161.8K |
 | 04:30 | USD | CFTC Gold speculative net positions |  |  | 161.7K |
