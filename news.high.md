@@ -2,4 +2,4 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:30 | USD | PPI (MoM) (Jan) |  | 0.1% | -0.1% |
+| 13 min | USD | PPI (MoM) (Jan) |  | 0.1% | -0.1% |

@@ -36,11 +36,12 @@
 | 15:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jan) | 2.90% |  | 3.60% |
 | 19:00 | BRL | IGP-10 Inflation Index (MoM) (Feb) | -0.7% |  | 0.4% |
 | 19:30 | INR | FX Reserves, USD | 617.23B |  | 622.47B |
-| 21:30 | USD | Building Permits (MoM) (Jan) |  |  | 1.8% |
-| 21:30 | USD | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
-| 21:30 | USD | PPI (YoY) (Jan) |  | 0.6% | 1.0% |
-| 21:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 2.5% |
-| 21:30 | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 12.53B |
-| 22:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 13 min | USD | Building Permits (MoM) (Jan) |  |  | 1.8% |
+| 13 min | USD | Core PPI (YoY) (Jan) |  | 1.6% | 1.8% |
+| 13 min | USD | PPI (YoY) (Jan) |  | 0.6% | 1.0% |
+| 13 min | USD | PPI ex. Food/Energy/Transport (YoY) (Jan) |  |  | 2.5% |
+| 13 min | USD | PPI ex. Food/Energy/Transport (MoM) (Jan) |  |  | 0.2% |
+| 13 min | CAD | Foreign Securities Purchases by Canadians (Dec) |  |  | 12.53B |
+| 53 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 23:00 | USD | Michigan Current Conditions (Feb) |  | 82.0 | 81.9 |
