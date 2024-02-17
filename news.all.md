@@ -1,29 +1,24 @@
-## 17 February 2024 - All Forex News
+## 19 February 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.9% | 2.9% | 2.9% |
-| 01:10 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 497 |  | 499 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 623 |
-| 03:40 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 04:30 | GBP | Moderate | CFTC GBP speculative net positions | 50.5K |  | 34.5K |
-| 04:30 | USD | Low | CFTC Aluminium speculative net positions | 3.9K |  | 2.9K |
-| 04:30 | USD | Low | CFTC Copper speculative net positions | -32.7K |  | -13.7K |
-| 04:30 | USD | Low | CFTC Corn speculative net positions | -245.9K |  | -229.4K |
-| 04:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 171.0K |  | 161.8K |
-| 04:30 | USD | Moderate | CFTC Gold speculative net positions | 131.2K |  | 161.7K |
-| 04:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 32.1K |  | 32.9K |
-| 04:30 | USD | Low | CFTC Natural Gas speculative net positions | -136.6K |  | -114.2K |
-| 04:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -215.8K |  | -233.0K |
-| 04:30 | USD | Low | CFTC Silver speculative net positions | 12.4K |  | 16.9K |
-| 04:30 | USD | Low | CFTC Soybeans speculative net positions | -161.8K |  | -160.8K |
-| 04:30 | USD | Low | CFTC Wheat speculative net positions | -29.0K |  | -38.3K |
-| 04:30 | CAD | Low | CFTC CAD speculative net positions | -5.5K |  | -7.7K |
-| 04:30 | MXN | Low | CFTC MXN speculative net positions | 100.4K |  | 86.8K |
-| 04:30 | CHF | Low | CFTC CHF speculative net positions | -6.0K |  | -5.6K |
-| 04:30 | AUD | Moderate | CFTC AUD speculative net positions | -79.0K |  | -71.8K |
-| 04:30 | BRL | Moderate | CFTC BRL speculative net positions | 19.3K |  | 19.7K |
-| 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -111.5K |  | -84.2K |
-| 04:30 | NZD | Low | CFTC NZD speculative net positions | 3.4K |  | 0.8K |
-| 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 52.8K |  | 62.2K |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  |  | -4.9% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
+| 08:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 1.3% |
+| 10:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.40% |
+| 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |
+| 17:00 | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
+| 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 18:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.189% |
+| 19:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 19:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 20:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 20:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
+| 21:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | -2.7% |
+| 21:30 | CAD | Low | IPPI (MoM) (Jan) |  |  | -1.5% |
+| 21:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | -7.9% |
+| 21:30 | CAD | Moderate | RMPI (MoM) (Jan) |  |  | -4.9% |
+| 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.408% |
+| 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.825% |
+| 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.714% |
+| 23:00 | GBP | Low | Rightmove House Price Index (YoY) (Feb) |  |  | -0.7% |

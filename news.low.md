@@ -1,15 +1,22 @@
-## 17 February 2024 - Low Impact Forex News
+## 19 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:30 | USD | CFTC Aluminium speculative net positions | 3.9K |  | 2.9K |
-| 04:30 | USD | CFTC Copper speculative net positions | -32.7K |  | -13.7K |
-| 04:30 | USD | CFTC Corn speculative net positions | -245.9K |  | -229.4K |
-| 04:30 | USD | CFTC Natural Gas speculative net positions | -136.6K |  | -114.2K |
-| 04:30 | USD | CFTC Silver speculative net positions | 12.4K |  | 16.9K |
-| 04:30 | USD | CFTC Soybeans speculative net positions | -161.8K |  | -160.8K |
-| 04:30 | USD | CFTC Wheat speculative net positions | -29.0K |  | -38.3K |
-| 04:30 | CAD | CFTC CAD speculative net positions | -5.5K |  | -7.7K |
-| 04:30 | MXN | CFTC MXN speculative net positions | 100.4K |  | 86.8K |
-| 04:30 | CHF | CFTC CHF speculative net positions | -6.0K |  | -5.6K |
-| 04:30 | NZD | CFTC NZD speculative net positions | 3.4K |  | 0.8K |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Dec) |  |  | -4.9% |
+| 07:50 | JPY | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
+| 08:01 | GBP | Rightmove House Price Index (MoM) |  |  | 1.3% |
+| 10:00 | NZD | RBNZ Offshore Holdings (Jan) |  |  | 57.40% |
+| 15:00 | NOK | Consumer Confidence |  |  | -33.50 |
+| 17:00 | EUR | Spanish Trade Balance |  |  | -2.40B |
+| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 18:30 | EUR | German 12-Month Bubill Auction |  |  | 3.189% |
+| 19:00 | EUR | German Buba Monthly Report |  |  |  |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | BRL | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
+| 21:30 | CAD | IPPI (YoY) (Jan) |  |  | -2.7% |
+| 21:30 | CAD | IPPI (MoM) (Jan) |  |  | -1.5% |
+| 21:30 | CAD | RMPI (YoY) (Jan) |  |  | -7.9% |
+| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.408% |
+| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.825% |
+| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.714% |
+| 23:00 | GBP | Rightmove House Price Index (YoY) (Feb) |  |  | -0.7% |
