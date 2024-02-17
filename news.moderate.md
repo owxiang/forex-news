@@ -3,4 +3,4 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 20:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 21:30 | CAD | RMPI (MoM) (Jan) |  |  | -4.9% |
+| 21:30 | CAD | RMPI (MoM) (Jan) |  | 0.8% | -4.9% |
