@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  |  | -4.9% |
 | 07:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  |  | -4.9% |
 | 08:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 1.3% |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.40% |
 | 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |
