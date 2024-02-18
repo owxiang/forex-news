@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:50 | NZD | Low | Performance of Services Index |  |  | 48.8 |
-| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
 | 07:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 2.7% | -4.9% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
 | 08:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 1.3% |
 | 10:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.40% |
 | 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |
@@ -17,8 +17,8 @@
 | 20:00 | BRL | Low | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
 | 21:30 | CAD | Low | IPPI (YoY) (Jan) |  |  | -2.7% |
 | 21:30 | CAD | Low | IPPI (MoM) (Jan) |  | 0.1% | -1.5% |
-| 21:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | -7.9% |
 | 21:30 | CAD | Moderate | RMPI (MoM) (Jan) |  | 0.8% | -4.9% |
+| 21:30 | CAD | Low | RMPI (YoY) (Jan) |  |  | -7.9% |
 | 21:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.408% |
 | 21:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.825% |
 | 21:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.714% |
