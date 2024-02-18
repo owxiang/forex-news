@@ -14,8 +14,8 @@
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 20:00 | BRL | IBC-Br Economic Activity (Dec) |  | 0.40% | 0.01% |
-| 21:30 | CAD | IPPI (YoY) (Jan) |  |  | -2.7% |
 | 21:30 | CAD | IPPI (MoM) (Jan) |  | 0.1% | -1.5% |
+| 21:30 | CAD | IPPI (YoY) (Jan) |  |  | -2.7% |
 | 21:30 | CAD | RMPI (YoY) (Jan) |  |  | -7.9% |
 | 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.408% |
 | 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.825% |
