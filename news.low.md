@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:50 | NZD | Performance of Services Index |  |  | 48.8 |
+| 38 min | NZD | Performance of Services Index |  |  | 48.8 |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
 | 07:50 | JPY | Core Machinery Orders (MoM) (Dec) |  | 2.7% | -4.9% |
 | 08:01 | GBP | Rightmove House Price Index (MoM) |  |  | 1.3% |
