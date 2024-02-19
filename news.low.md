@@ -7,8 +7,8 @@
 | 07:50 | JPY | Core Machinery Orders (MoM) (Dec) | 2.7% | 2.7% | -4.9% |
 | 08:01 | GBP | Rightmove House Price Index (MoM) | 0.9% |  | 1.3% |
 | 10:00 | NZD | RBNZ Offshore Holdings (Jan) | 57.70% |  | 57.40% |
-| 40 min | EUR | Spanish Trade Balance |  |  | -2.40B |
-| 18:00 | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 44 min | EUR | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
+| 44 min | EUR | Spanish Trade Balance |  |  | -2.40B |
 | 18:30 | EUR | German 12-Month Bubill Auction |  |  | 3.189% |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
 | 19:25 | BRL | BCB Focus Market Readout |  |  |  |
