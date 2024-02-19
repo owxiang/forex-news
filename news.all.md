@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | KRW | Low | Consumer Confidence (Feb) |  |  | 101.6 |
+| 44 min | KRW | Low | Consumer Confidence (Feb) |  |  | 101.6 |
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Feb) |  | 4.10% | 4.20% |
 | 09:45 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |

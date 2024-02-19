@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Consumer Confidence (Feb) |  |  | 101.6 |
+| 44 min | KRW | Consumer Confidence (Feb) |  |  | 101.6 |
 | 09:15 | CNY | China Loan Prime Rate 5Y (Feb) |  | 4.10% | 4.20% |
 | 15:00 | GBP | Car Registration (MoM) (Jan) |  |  | -9.9% |
 | 15:00 | GBP | Car Registration (YoY) (Jan) |  |  | 9.8% |
