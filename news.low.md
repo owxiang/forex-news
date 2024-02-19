@@ -3,8 +3,8 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:50 | NZD | Performance of Services Index | 52.1 |  | 48.8 |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Dec) | 2.7% | 2.7% | -4.9% |
 | 07:50 | JPY | Core Machinery Orders (YoY) (Dec) | -0.7% |  | -5.0% |
+| 07:50 | JPY | Core Machinery Orders (MoM) (Dec) | 2.7% | 2.7% | -4.9% |
 | 08:01 | GBP | Rightmove House Price Index (MoM) | 0.9% |  | 1.3% |
 | 10:00 | NZD | RBNZ Offshore Holdings (Jan) | 57.70% |  | 57.40% |
 | 15:00 | NOK | Consumer Confidence |  |  | -33.50 |
