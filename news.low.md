@@ -1,22 +1,31 @@
-## 19 February 2024 - Low Impact Forex News
+## 20 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | NZD | Performance of Services Index | 52.1 |  | 48.8 |
-| 07:50 | JPY | Core Machinery Orders (MoM) (Dec) | 2.7% | 2.7% | -4.9% |
-| 07:50 | JPY | Core Machinery Orders (YoY) (Dec) | -0.7% | -1.4% | -5.0% |
-| 08:01 | GBP | Rightmove House Price Index (MoM) | 0.9% |  | 1.3% |
-| 08:01 | GBP | Rightmove House Price Index (YoY) (Feb) | 0.1% |  | -0.7% |
-| 10:00 | NZD | RBNZ Offshore Holdings (Jan) | 57.70% |  | 57.40% |
-| 17:50 | EUR | Spanish Consumer Confidence (Jan) | 78.6 |  | 77.6 |
-| 17:50 | EUR | Spanish Trade Balance (Dec) | -3.40B |  | -2.40B |
-| 18:30 | EUR | German 12-Month Bubill Auction | 3.359% |  | 3.189% |
-| 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 20:00 | BRL | IBC-Br Economic Activity (Dec) | 0.82% | 0.75% | 0.10% |
-| 21:30 | CAD | IPPI (YoY) (Jan) | -2.9% |  | -2.8% |
-| 21:30 | CAD | IPPI (MoM) (Jan) | -0.1% | -0.1% | -1.6% |
-| 21:30 | CAD | RMPI (YoY) (Jan) | -6.4% |  | -7.9% |
-| 21:55 | EUR | French 12-Month BTF Auction |  |  | 3.408% |
-| 21:55 | EUR | French 3-Month BTF Auction |  |  | 3.825% |
-| 21:55 | EUR | French 6-Month BTF Auction |  |  | 3.714% |
+| 05:00 | KRW | Consumer Confidence (Feb) |  |  | 101.6 |
+| 09:15 | CNY | China Loan Prime Rate 5Y (Feb) |  | 4.10% | 4.20% |
+| 15:00 | GBP | Car Registration (MoM) (Jan) |  |  | -9.9% |
+| 15:00 | GBP | Car Registration (YoY) (Jan) |  |  | 9.8% |
+| 15:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | 5.9% |
+| 15:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -20.2% |
+| 15:00 | CHF | Trade Balance (Jan) |  | 2.350B | 1.248B |
+| 15:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -23.0% |
+| 15:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -1.6% |
+| 15:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 14.5% |
+| 15:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 18.5% |
+| 15:00 | ZAR | Leading Indicators (Dec) |  |  | 111.80% |
+| 16:30 | HKD | Unemployment Rate (Jan) |  |  | 2.9% |
+| 17:00 | EUR | Current Account (Dec) |  | 20.3B | 24.6B |
+| 17:00 | EUR | Current Account n.s.a. (Dec) |  |  | 31.7B |
+| 17:30 | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
+| 17:30 | ZAR | Unemployment (Q4) |  |  | 7.849M |
+| 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
+| 18:00 | EUR | Construction Output (MoM) (Dec) |  |  | -0.98% |
+| 18:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 18:30 | EUR | German 2-Year Schatz Auction |  |  | 2.490% |
+| 20:00 | NZD | GlobalDairyTrade Price Index |  |  | 4.2% |
+| 20:00 | USD | Milk Auctions |  |  | 3,571.0 |
+| 21:30 | CAD | Common CPI (YoY) (Jan) |  | 3.8% | 3.9% |
+| 21:30 | CAD | CPI (YoY) (Jan) |  | 3.2% | 3.4% |
+| 21:30 | CAD | Median CPI (YoY) (Jan) |  | 3.6% | 3.6% |
+| 21:30 | CAD | Trimmed CPI (YoY) (Jan) |  | 3.6% | 3.7% |
