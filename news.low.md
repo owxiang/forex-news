@@ -12,8 +12,8 @@
 | 17:50 | EUR | Spanish Trade Balance (Dec) | -3.40B |  | -2.40B |
 | 18:30 | EUR | German 12-Month Bubill Auction | 3.359% |  | 3.189% |
 | 19:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 47 min | BRL | IBC-Br Economic Activity (Dec) |  | 0.75% | 0.01% |
+| 19:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 20:00 | BRL | IBC-Br Economic Activity (Dec) | 0.82% | 0.75% | 0.10% |
 | 21:30 | CAD | IPPI (YoY) (Jan) |  |  | -2.7% |
 | 21:30 | CAD | IPPI (MoM) (Jan) |  | -0.1% | -1.5% |
 | 21:30 | CAD | RMPI (YoY) (Jan) |  |  | -7.9% |
