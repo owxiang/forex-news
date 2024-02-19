@@ -3,10 +3,10 @@
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:50 | NZD | Low | Performance of Services Index | 52.1 |  | 48.8 |
-| 36 min | JPY | Low | Core Machinery Orders (MoM) (Dec) |  | 2.7% | -4.9% |
-| 36 min | JPY | Low | Core Machinery Orders (YoY) (Dec) |  |  | -5.0% |
-| 47 min | GBP | Low | Rightmove House Price Index (MoM) |  |  | 1.3% |
-| 10:00 | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.40% |
+| 07:50 | JPY | Low | Core Machinery Orders (YoY) (Dec) | -0.7% |  | -5.0% |
+| 07:50 | JPY | Low | Core Machinery Orders (MoM) (Dec) | 2.7% | 2.7% | -4.9% |
+| 08:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.9% |  | 1.3% |
+| 51 min | NZD | Low | RBNZ Offshore Holdings (Jan) |  |  | 57.40% |
 | 15:00 | NOK | Low | Consumer Confidence |  |  | -33.50 |
 | 17:00 | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
 | 18:00 | EUR | Low | Spanish Consumer Confidence (Jan) |  |  | 77.6 |
