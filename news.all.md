@@ -6,15 +6,15 @@
 | 08:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 09:15 | CNY | Low | China Loan Prime Rate 5Y (Feb) |  | 4.10% | 4.20% |
 | 09:45 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
-| 15:00 | GBP | Low | Car Registration (MoM) (Jan) |  |  | -9.9% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Jan) |  |  | 9.8% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -20.2% |
+| 15:00 | GBP | Low | Car Registration (MoM) (Jan) |  |  | -9.9% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Jan) |  |  | 5.9% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Jan) |  |  | -20.2% |
 | 15:00 | CHF | Low | Trade Balance (Jan) |  | 2.350B | 1.248B |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Jan) |  |  | -1.6% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Jan) |  |  | -23.0% |
-| 15:00 | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 18.5% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Jan) |  |  | 14.5% |
+| 15:00 | EUR | Low | French Car Registration (MoM) (Jan) |  |  | 18.5% |
 | 15:00 | ZAR | Low | Leading Indicators (Dec) |  |  | 111.80% |
 | 16:30 | HKD | Low | Unemployment Rate (Jan) |  |  | 2.9% |
 | 17:00 | EUR | Low | Current Account (Dec) |  | 20.3B | 24.6B |
