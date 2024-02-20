@@ -1,30 +1,40 @@
-## 20 February 2024 - Low Impact Forex News
+## 21 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | KRW | Consumer Confidence (Feb) | 101.9 |  | 101.6 |
-| 09:15 | CNY | China Loan Prime Rate 5Y (Feb) | 3.95% | 4.10% | 4.20% |
-| 15:00 | GBP | Car Registration (MoM) (Jan) | 1.3% |  | -9.9% |
-| 15:00 | GBP | Car Registration (YoY) (Jan) | 8.2% |  | 9.8% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
-| 15:00 | CHF | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
-| 15:00 | EUR | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
-| 15:00 | EUR | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
-| 15:00 | EUR | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
-| 15:00 | EUR | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
-| 15:00 | ZAR | Leading Indicators (Dec) | 111.00% |  | 111.80% |
-| 16:30 | HKD | Unemployment Rate (Jan) | 2.9% |  | 2.9% |
-| 17:00 | EUR | Current Account (Dec) | 32.0B | 20.3B | 22.5B |
-| 17:00 | EUR | Current Account n.s.a. (Dec) | 42.7B |  | 31.4B |
-| 17:30 | ZAR | Unemployment Rate (Q4) | 32.10% |  | 31.90% |
-| 17:30 | ZAR | Unemployment (Q4) | 7.895M |  | 7.849M |
-| 18:00 | EUR | Construction Output (MoM) (Dec) | 0.80% |  | -0.98% |
-| 18:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 18:30 | EUR | German 2-Year Schatz Auction | 2.790% |  | 2.490% |
-| 20:00 | NZD | GlobalDairyTrade Price Index | 0.5% |  | 4.2% |
-| 20:00 | USD | Milk Auctions | 3,664.0 |  | 3,571.0 |
-| 21:30 | CAD | Common CPI (YoY) (Jan) | 3.4% | 3.8% | 3.9% |
-| 21:30 | CAD | CPI (YoY) (Jan) | 2.9% | 3.3% | 3.4% |
-| 21:30 | CAD | Median CPI (YoY) (Jan) | 3.3% | 3.6% | 3.5% |
-| 21:30 | CAD | Trimmed CPI (YoY) (Jan) | 3.4% | 3.6% | 3.7% |
+| 10 min | USD | 3-Month Bill Auction |  |  | 5.230% |
+| 10 min | USD | 6-Month Bill Auction |  |  | 5.065% |
+| 02:00 | USD | 52-Week Bill Auction |  |  | 4.570% |
+| 05:00 | KRW | Manufacturing BSI Index (Mar) |  |  | 72 |
+| 05:00 | KRW | PPI (YoY) (Jan) |  |  | 1.2% |
+| 05:00 | KRW | PPI (MoM) (Jan) |  |  | 0.1% |
+| 05:45 | NZD | PPI Output (QoQ) (Q4) |  | 0.4% | 0.8% |
+| 07:00 | JPY | Reuters Tankan Index (Feb) |  |  | 6 |
+| 07:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
+| 07:50 | JPY | Imports (YoY) (Jan) |  | -8.4% | -6.8% |
+| 08:00 | AUD | MI Leading Index (MoM) (Jan) |  |  | -0.0% |
+| 08:30 | AUD | Wage Price Index (YoY) (Q4) |  | 4.1% | 4.0% |
+| 15:00 | GBP | Public Sector Net Borrowing (Jan) |  | -18.40B | 6.85B |
+| 15:00 | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 12.863B |
+| 15:20 | IDR | Loans (YoY) (Jan) |  |  | 10.38% |
+| 15:30 | IDR | Deposit Facility Rate (Feb) |  | 5.25% | 5.25% |
+| 15:30 | IDR | Lending Facility Rate (Feb) |  | 6.75% | 6.75% |
+| 16:00 | CHF | M3 Money Supply (Jan) |  |  | 1,136.2B |
+| 16:00 | ZAR | Core CPI (MoM) (Jan) |  | 0.2% | 0.2% |
+| 16:00 | ZAR | Core CPI (YoY) (Jan) |  | 4.5% | 4.5% |
+| 16:00 | ZAR | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
+| 16:00 | ZAR | CPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.131% |
+| 19:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
+| 19:30 | INR | M3 Money Supply |  |  | 11.0% |
+| 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
+| 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
+| 20:00 | USD | MBA Purchase Index |  |  | 149.6 |
+| 20:00 | USD | Mortgage Market Index |  |  | 205.1 |
+| 20:00 | USD | Mortgage Refinance Index |  |  | 489.6 |
+| 20:00 | MXN | Retail Sales (MoM) (Dec) |  | 0.2% | 0.1% |
+| 20:00 | MXN | Retail Sales (YoY) (Dec) |  | 2.5% | 2.7% |
+| 21:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 21:55 | USD | Redbook (YoY) |  |  | 2.5% |
+| 22:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 23:00 | EUR | Consumer Confidence (Feb) |  | -16.0 | -16.1 |
