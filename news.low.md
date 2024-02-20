@@ -4,16 +4,16 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Consumer Confidence (Feb) | 101.9 |  | 101.6 |
 | 09:15 | CNY | China Loan Prime Rate 5Y (Feb) | 3.95% | 4.10% | 4.20% |
-| 15:00 | GBP | Car Registration (MoM) (Jan) |  |  | -9.9% |
-| 15:00 | GBP | Car Registration (YoY) (Jan) |  |  | 9.8% |
-| 15:00 | EUR | Italian Car Registration (MoM) (Jan) |  |  | -20.2% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Jan) |  |  | 5.9% |
-| 15:00 | CHF | Trade Balance (Jan) |  | 2.350B | 1.248B |
-| 15:00 | EUR | German Car Registration (YoY) (Jan) |  |  | -23.0% |
-| 15:00 | EUR | German Car Registration (MoM) (Jan) |  |  | -1.6% |
-| 15:00 | EUR | French Car Registration (MoM) (Jan) |  |  | 18.5% |
-| 15:00 | EUR | French Car Registration (YoY) (Jan) |  |  | 14.5% |
-| 15:00 | ZAR | Leading Indicators (Dec) |  |  | 111.80% |
+| 40 min | GBP | Car Registration (YoY) (Jan) |  |  | 9.8% |
+| 40 min | GBP | Car Registration (MoM) (Jan) |  |  | -9.9% |
+| 40 min | EUR | Italian Car Registration (MoM) (Jan) |  |  | -20.2% |
+| 40 min | EUR | Italian Car Registration (YoY) (Jan) |  |  | 5.9% |
+| 40 min | CHF | Trade Balance (Jan) |  | 2.350B | 1.248B |
+| 40 min | EUR | German Car Registration (MoM) (Jan) |  |  | -1.6% |
+| 40 min | EUR | German Car Registration (YoY) (Jan) |  |  | -23.0% |
+| 40 min | EUR | French Car Registration (YoY) (Jan) |  |  | 14.5% |
+| 40 min | EUR | French Car Registration (MoM) (Jan) |  |  | 18.5% |
+| 40 min | ZAR | Leading Indicators (Dec) |  |  | 111.80% |
 | 16:30 | HKD | Unemployment Rate (Jan) |  |  | 2.9% |
 | 17:00 | EUR | Current Account (Dec) |  | 20.3B | 24.6B |
 | 17:00 | EUR | Current Account n.s.a. (Dec) |  |  | 31.7B |
