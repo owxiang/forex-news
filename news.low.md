@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:00 | KRW | Consumer Confidence (Feb) | 101.9 |  | 101.6 |
 | 09:15 | CNY | China Loan Prime Rate 5Y (Feb) | 3.95% | 4.10% | 4.20% |
-| 15:00 | GBP | Car Registration (YoY) (Jan) | 8.2% |  | 9.8% |
 | 15:00 | GBP | Car Registration (MoM) (Jan) | 1.3% |  | -9.9% |
+| 15:00 | GBP | Car Registration (YoY) (Jan) | 8.2% |  | 9.8% |
 | 15:00 | EUR | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | CHF | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
@@ -21,7 +21,7 @@
 | 17:30 | ZAR | Unemployment (Q4) | 7.895M |  | 7.849M |
 | 18:00 | EUR | Construction Output (MoM) (Dec) | 0.80% |  | -0.98% |
 | 18:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 14 min | EUR | German 2-Year Schatz Auction |  |  | 2.490% |
+| 18:30 | EUR | German 2-Year Schatz Auction | 2.790% |  | 2.490% |
 | 21:30 | CAD | Common CPI (YoY) (Jan) |  | 3.8% | 3.9% |
 | 21:30 | CAD | CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 21:30 | CAD | Median CPI (YoY) (Jan) |  | 3.6% | 3.6% |
