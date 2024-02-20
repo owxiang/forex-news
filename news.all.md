@@ -6,17 +6,17 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.100% |  | 5.065% |
 | 02:00 | USD | Low | 52-Week Bill Auction | 4.695% |  | 4.570% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:00 | KRW | Low | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
+| 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | 0.9% | 0.4% | 1.2% |
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
-| 46 min | JPY | Low | Reuters Tankan Index (Feb) |  |  | 6 |
-| 07:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
-| 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.23T | -0.41T |
-| 07:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 9.5% | 9.8% |
-| 07:50 | JPY | Low | Imports (YoY) (Jan) |  | -8.4% | -6.8% |
-| 07:50 | JPY | Moderate | Trade Balance (Jan) |  | -1,925.9B | 62.1B |
-| 08:00 | AUD | Low | MI Leading Index (MoM) (Jan) |  |  | -0.0% |
+| 15 min | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
+| 35 min | JPY | Moderate | Adjusted Trade Balance |  | -0.23T | -0.41T |
+| 35 min | JPY | Moderate | Exports (YoY) (Jan) |  | 9.5% | 9.8% |
+| 35 min | JPY | Low | Imports (YoY) (Jan) |  | -8.4% | -6.8% |
+| 35 min | JPY | Low | Reuters Tankan Index (Feb) |  |  | 6 |
+| 35 min | JPY | Moderate | Trade Balance (Jan) |  | -1,925.9B | 62.1B |
+| 45 min | AUD | Low | MI Leading Index (MoM) (Jan) |  |  | -0.0% |
 | 08:30 | AUD | Low | Wage Price Index (YoY) (Q4) |  | 4.1% | 4.0% |
 | 08:30 | AUD | Moderate | Wage Price Index (QoQ) (Q4) |  | 0.9% | 1.3% |
 | 15:00 | GBP | Low | Public Sector Net Borrowing (Jan) |  | -18.40B | 6.85B |

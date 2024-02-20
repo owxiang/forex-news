@@ -6,13 +6,13 @@
 | 00:30 | USD | 6-Month Bill Auction | 5.100% |  | 5.065% |
 | 02:00 | USD | 52-Week Bill Auction | 4.695% |  | 4.570% |
 | 05:00 | KRW | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:00 | KRW | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
+| 05:00 | KRW | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:45 | NZD | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
-| 46 min | JPY | Reuters Tankan Index (Feb) |  |  | 6 |
-| 07:30 | AUD | MI Leading Index (MoM) |  |  | 0.0% |
-| 07:50 | JPY | Imports (YoY) (Jan) |  | -8.4% | -6.8% |
-| 08:00 | AUD | MI Leading Index (MoM) (Jan) |  |  | -0.0% |
+| 15 min | AUD | MI Leading Index (MoM) |  |  | 0.0% |
+| 35 min | JPY | Imports (YoY) (Jan) |  | -8.4% | -6.8% |
+| 35 min | JPY | Reuters Tankan Index (Feb) |  |  | 6 |
+| 45 min | AUD | MI Leading Index (MoM) (Jan) |  |  | -0.0% |
 | 08:30 | AUD | Wage Price Index (YoY) (Q4) |  | 4.1% | 4.0% |
 | 15:00 | GBP | Public Sector Net Borrowing (Jan) |  | -18.40B | 6.85B |
 | 15:00 | GBP | Public Sector Net Cash Requirement (Jan) |  |  | 12.863B |
