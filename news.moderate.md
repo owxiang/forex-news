@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 08:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 39 min | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 09:45 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 18:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:15 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
 | 20:45 | EUR | German Buba Balz Speaks |  |  |  |
