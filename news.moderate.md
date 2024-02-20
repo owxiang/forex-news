@@ -2,7 +2,7 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | PPI Input (QoQ) (Q4) |  | 0.4% | 1.2% |
+| 32 min | NZD | PPI Input (QoQ) (Q4) |  | 0.4% | 1.2% |
 | 07:50 | JPY | Adjusted Trade Balance |  | -0.23T | -0.41T |
 | 07:50 | JPY | Exports (YoY) (Jan) |  | 9.5% | 9.8% |
 | 07:50 | JPY | Trade Balance (Jan) |  | -1,925.9B | 62.1B |
