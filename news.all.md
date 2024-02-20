@@ -29,8 +29,8 @@
 | 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 16:00 | ZAR | Low | Core CPI (MoM) (Jan) |  | 0.2% | 0.2% |
-| 16:00 | ZAR | Low | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 16:00 | ZAR | Low | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
 | 18:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.131% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:25 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
