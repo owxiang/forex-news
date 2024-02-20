@@ -11,8 +11,8 @@
 | 15:00 | CHF | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
 | 15:00 | EUR | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
 | 15:00 | EUR | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
-| 15:00 | EUR | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | EUR | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
+| 15:00 | EUR | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | ZAR | Leading Indicators (Dec) | 111.00% |  | 111.80% |
 | 16:30 | HKD | Unemployment Rate (Jan) | 2.9% |  | 2.9% |
 | 17:00 | EUR | Current Account (Dec) | 32.0B | 20.3B | 22.5B |
@@ -22,9 +22,9 @@
 | 18:00 | EUR | Construction Output (MoM) (Dec) | 0.80% |  | -0.98% |
 | 18:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction | 2.790% |  | 2.490% |
+| 20:00 | NZD | GlobalDairyTrade Price Index | 0.5% |  | 4.2% |
+| 20:00 | USD | Milk Auctions | 3,664.0 |  | 3,571.0 |
 | 21:30 | CAD | Common CPI (YoY) (Jan) | 3.4% | 3.8% | 3.9% |
 | 21:30 | CAD | CPI (YoY) (Jan) | 2.9% | 3.3% | 3.4% |
 | 21:30 | CAD | Median CPI (YoY) (Jan) | 3.3% | 3.6% | 3.5% |
 | 21:30 | CAD | Trimmed CPI (YoY) (Jan) | 3.4% | 3.6% | 3.7% |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | 4.2% |
-| 46 min | USD | Milk Auctions |  |  | 3,571.0 |

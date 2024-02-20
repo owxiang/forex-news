@@ -10,4 +10,4 @@
 | 21:30 | CAD | Core CPI (MoM) (Jan) | 0.1% |  | -0.5% |
 | 21:30 | CAD | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
 | 21:30 | CAD | CPI (MoM) (Jan) | 0.0% | 0.4% | -0.3% |
-| 46 min | USD | US Leading Index (MoM) (Jan) |  | -0.3% | -0.1% |
+| 23:00 | USD | US Leading Index (MoM) (Jan) | -0.4% | -0.3% | -0.2% |
