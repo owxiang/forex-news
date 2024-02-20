@@ -11,8 +11,8 @@
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | CHF | Low | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
 | 15:00 | ZAR | Low | Leading Indicators (Dec) | 111.00% |  | 111.80% |
@@ -26,7 +26,7 @@
 | 18:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:15 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 2.790% |  | 2.490% |
-| 20:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 17 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:30 | CAD | Low | Common CPI (YoY) (Jan) |  | 3.8% | 3.9% |
 | 21:30 | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.5% |
 | 21:30 | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 2.6% |

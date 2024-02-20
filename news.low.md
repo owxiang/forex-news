@@ -9,8 +9,8 @@
 | 15:00 | EUR | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
 | 15:00 | EUR | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | CHF | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
-| 15:00 | EUR | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
 | 15:00 | EUR | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
+| 15:00 | EUR | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
 | 15:00 | EUR | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | EUR | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
 | 15:00 | ZAR | Leading Indicators (Dec) | 111.00% |  | 111.80% |
