@@ -8,21 +8,21 @@
 | 09:45 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Jan) | 1.3% |  | -9.9% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Jan) | 8.2% |  | 9.8% |
-| 15:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
+| 15:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | CHF | Low | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
-| 15:00 | EUR | Low | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
 | 15:00 | EUR | Low | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
+| 15:00 | EUR | Low | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
 | 15:00 | ZAR | Low | Leading Indicators (Dec) | 111.00% |  | 111.80% |
-| 11 min | HKD | Low | Unemployment Rate (Jan) |  |  | 2.9% |
-| 41 min | EUR | Low | Current Account (Dec) |  | 20.3B | 24.6B |
-| 41 min | EUR | Low | Current Account n.s.a. (Dec) |  |  | 31.7B |
-| 17:30 | ZAR | Low | Unemployment Rate (Q4) |  |  | 31.90% |
-| 17:30 | ZAR | Low | Unemployment (Q4) |  |  | 7.849M |
-| 18:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 18:00 | EUR | Low | Construction Output (MoM) (Dec) |  |  | -0.98% |
+| 16:30 | HKD | Low | Unemployment Rate (Jan) | 2.9% |  | 2.9% |
+| 17:00 | EUR | Low | Current Account (Dec) | 32.0B | 20.3B | 24.6B |
+| 17:00 | EUR | Low | Current Account n.s.a. (Dec) | 42.7B |  | 31.7B |
+| 15 min | ZAR | Low | Unemployment Rate (Q4) |  |  | 31.90% |
+| 15 min | ZAR | Low | Unemployment (Q4) |  |  | 7.849M |
+| 45 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
+| 45 min | EUR | Low | Construction Output (MoM) (Dec) |  |  | -0.98% |
 | 18:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:15 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:15 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |

@@ -6,21 +6,21 @@
 | 09:15 | CNY | China Loan Prime Rate 5Y (Feb) | 3.95% | 4.10% | 4.20% |
 | 15:00 | GBP | Car Registration (MoM) (Jan) | 1.3% |  | -9.9% |
 | 15:00 | GBP | Car Registration (YoY) (Jan) | 8.2% |  | 9.8% |
-| 15:00 | EUR | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | EUR | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
+| 15:00 | EUR | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
 | 15:00 | CHF | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
-| 15:00 | EUR | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
 | 15:00 | EUR | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
+| 15:00 | EUR | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
 | 15:00 | EUR | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | EUR | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
 | 15:00 | ZAR | Leading Indicators (Dec) | 111.00% |  | 111.80% |
-| 11 min | HKD | Unemployment Rate (Jan) |  |  | 2.9% |
-| 41 min | EUR | Current Account (Dec) |  | 20.3B | 24.6B |
-| 41 min | EUR | Current Account n.s.a. (Dec) |  |  | 31.7B |
-| 17:30 | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
-| 17:30 | ZAR | Unemployment (Q4) |  |  | 7.849M |
-| 18:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 18:00 | EUR | Construction Output (MoM) (Dec) |  |  | -0.98% |
+| 16:30 | HKD | Unemployment Rate (Jan) | 2.9% |  | 2.9% |
+| 17:00 | EUR | Current Account (Dec) | 32.0B | 20.3B | 24.6B |
+| 17:00 | EUR | Current Account n.s.a. (Dec) | 42.7B |  | 31.7B |
+| 15 min | ZAR | Unemployment Rate (Q4) |  |  | 31.90% |
+| 15 min | ZAR | Unemployment (Q4) |  |  | 7.849M |
+| 45 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
+| 45 min | EUR | Construction Output (MoM) (Dec) |  |  | -0.98% |
 | 18:15 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 18:30 | EUR | German 2-Year Schatz Auction |  |  | 2.490% |
 | 21:30 | CAD | Common CPI (YoY) (Jan) |  | 3.8% | 3.9% |
