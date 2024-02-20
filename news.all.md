@@ -6,11 +6,11 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.100% |  | 5.065% |
 | 02:00 | USD | Low | 52-Week Bill Auction | 4.695% |  | 4.570% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | Low | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
 | 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
-| 32 min | NZD | Moderate | PPI Input (QoQ) (Q4) |  | 0.4% | 1.2% |
-| 32 min | NZD | Low | PPI Output (QoQ) (Q4) |  | 0.4% | 0.8% |
-| 07:00 | JPY | Low | Reuters Tankan Index (Feb) |  |  | 6 |
+| 05:00 | KRW | Low | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
+| 05:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | 0.9% | 0.4% | 1.2% |
+| 05:45 | NZD | Low | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
+| 46 min | JPY | Low | Reuters Tankan Index (Feb) |  |  | 6 |
 | 07:30 | AUD | Low | MI Leading Index (MoM) |  |  | 0.0% |
 | 07:50 | JPY | Moderate | Adjusted Trade Balance |  | -0.23T | -0.41T |
 | 07:50 | JPY | Moderate | Exports (YoY) (Jan) |  | 9.5% | 9.8% |
@@ -42,8 +42,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 149.6 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 205.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 489.6 |
-| 20:00 | MXN | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.7% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Dec) |  | 0.2% | 0.1% |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.7% |
 | 21:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
