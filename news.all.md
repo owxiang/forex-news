@@ -8,11 +8,11 @@
 | 09:45 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 15:00 | GBP | Low | Car Registration (MoM) (Jan) | 1.3% |  | -9.9% |
 | 15:00 | GBP | Low | Car Registration (YoY) (Jan) | 8.2% |  | 9.8% |
-| 15:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
 | 15:00 | EUR | Low | Italian Car Registration (YoY) (Jan) | 10.6% |  | 5.9% |
+| 15:00 | EUR | Low | Italian Car Registration (MoM) (Jan) | 27.7% |  | -20.2% |
 | 15:00 | CHF | Low | Trade Balance (Jan) | 4.738B | 2.350B | 1.271B |
-| 15:00 | EUR | Low | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
 | 15:00 | EUR | Low | German Car Registration (YoY) (Jan) | 19.1% |  | -23.0% |
+| 15:00 | EUR | Low | German Car Registration (MoM) (Jan) | -11.7% |  | -1.6% |
 | 15:00 | EUR | Low | French Car Registration (MoM) (Jan) | -32.4% |  | 18.5% |
 | 15:00 | EUR | Low | French Car Registration (YoY) (Jan) | 9.2% |  | 14.5% |
 | 15:00 | ZAR | Low | Leading Indicators (Dec) | 111.00% |  | 111.80% |
@@ -27,13 +27,13 @@
 | 18:15 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 18:30 | EUR | Low | German 2-Year Schatz Auction | 2.790% |  | 2.490% |
 | 20:45 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 12 min | CAD | Low | Common CPI (YoY) (Jan) |  | 3.8% | 3.9% |
-| 12 min | CAD | Moderate | Core CPI (MoM) (Jan) |  |  | -0.5% |
-| 12 min | CAD | Moderate | Core CPI (YoY) (Jan) |  |  | 2.6% |
-| 12 min | CAD | Low | CPI (YoY) (Jan) |  | 3.3% | 3.4% |
-| 12 min | CAD | Moderate | CPI (MoM) (Jan) |  | 0.4% | -0.3% |
-| 12 min | CAD | Low | Median CPI (YoY) (Jan) |  | 3.6% | 3.6% |
-| 12 min | CAD | Low | Trimmed CPI (YoY) (Jan) |  | 3.6% | 3.7% |
-| 23:00 | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.3% | -0.1% |
-| 23:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.2% |
-| 23:00 | USD | Low | Milk Auctions |  |  | 3,571.0 |
+| 21:30 | CAD | Low | Common CPI (YoY) (Jan) | 3.4% | 3.8% | 3.9% |
+| 21:30 | CAD | Moderate | Core CPI (MoM) (Jan) | 0.1% |  | -0.5% |
+| 21:30 | CAD | Moderate | Core CPI (YoY) (Jan) | 2.4% |  | 2.6% |
+| 21:30 | CAD | Low | CPI (YoY) (Jan) | 2.9% | 3.3% | 3.4% |
+| 21:30 | CAD | Moderate | CPI (MoM) (Jan) | 0.0% | 0.4% | -0.3% |
+| 21:30 | CAD | Low | Median CPI (YoY) (Jan) | 3.3% | 3.6% | 3.5% |
+| 21:30 | CAD | Low | Trimmed CPI (YoY) (Jan) | 3.4% | 3.6% | 3.7% |
+| 46 min | USD | Moderate | US Leading Index (MoM) (Jan) |  | -0.3% | -0.1% |
+| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 4.2% |
+| 46 min | USD | Low | Milk Auctions |  |  | 3,571.0 |
