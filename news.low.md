@@ -22,8 +22,8 @@
 | 16:00 | CHF | M3 Money Supply (Jan) | 1,135.4B |  | 1,136.1B |
 | 16:00 | ZAR | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Jan) | 4.7% | 4.5% | 4.5% |
-| 16:00 | ZAR | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 16:00 | ZAR | CPI (YoY) (Jan) | 5.3% | 5.4% | 5.1% |
+| 16:00 | ZAR | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction | 4.095% |  | 4.131% |
 | 19:00 | GBP | CBI Industrial Trends Orders (Feb) | -20 | -27 | -30 |
 | 19:30 | INR | M3 Money Supply | 11.3% |  | 11.0% |
@@ -32,9 +32,9 @@
 | 20:00 | USD | MBA Purchase Index | 133.6 |  | 149.6 |
 | 20:00 | USD | Mortgage Market Index | 181.6 |  | 205.1 |
 | 20:00 | USD | Mortgage Refinance Index | 427.0 |  | 489.6 |
-| 20:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | 2.5% | 2.7% |
 | 20:00 | MXN | Retail Sales (MoM) (Dec) | -0.9% | 0.2% | 0.1% |
-| 13 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 38 min | USD | Redbook (YoY) |  |  | 2.5% |
-| 43 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 23:00 | EUR | Consumer Confidence (Feb) |  | -16.0 | -16.1 |
+| 20:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | 2.5% | 2.7% |
+| 21:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 21:55 | USD | Redbook (YoY) | 3.0% |  | 2.5% |
+| 22:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 46 min | EUR | Consumer Confidence (Feb) |  | -16.0 | -16.1 |
