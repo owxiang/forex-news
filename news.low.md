@@ -20,10 +20,10 @@
 | 15:30 | IDR | Deposit Facility Rate (Feb) |  | 5.25% | 5.25% |
 | 15:30 | IDR | Lending Facility Rate (Feb) |  | 6.75% | 6.75% |
 | 16:00 | CHF | M3 Money Supply (Jan) |  |  | 1,136.2B |
-| 16:00 | ZAR | Core CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 16:00 | ZAR | Core CPI (MoM) (Jan) |  | 0.2% | 0.2% |
-| 16:00 | ZAR | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
+| 16:00 | ZAR | Core CPI (YoY) (Jan) |  | 4.5% | 4.5% |
 | 16:00 | ZAR | CPI (MoM) (Jan) |  | 0.1% | 0.0% |
+| 16:00 | ZAR | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.131% |
 | 19:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
