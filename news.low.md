@@ -20,12 +20,12 @@
 | 15:30 | IDR | Deposit Facility Rate (Feb) | 5.25% | 5.25% | 5.25% |
 | 15:30 | IDR | Lending Facility Rate (Feb) | 6.75% | 6.75% | 6.75% |
 | 16:00 | CHF | M3 Money Supply (Jan) | 1,135.4B |  | 1,136.1B |
-| 16:00 | ZAR | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Jan) | 4.7% | 4.5% | 4.5% |
+| 16:00 | ZAR | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
 | 16:00 | ZAR | CPI (YoY) (Jan) | 5.3% | 5.4% | 5.1% |
 | 16:00 | ZAR | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
-| 42 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.131% |
-| 19:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
+| 18:00 | GBP | 5-Year Treasury Gilt Auction | 4.095% |  | 4.131% |
+| 43 min | GBP | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
 | 20:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 20:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |

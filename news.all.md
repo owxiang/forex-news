@@ -27,15 +27,15 @@
 | 15:30 | IDR | Low | Lending Facility Rate (Feb) | 6.75% | 6.75% | 6.75% |
 | 16:00 | CHF | Low | M3 Money Supply (Jan) | 1,135.4B |  | 1,136.1B |
 | 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 16:00 | ZAR | Low | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
 | 16:00 | ZAR | Low | Core CPI (YoY) (Jan) | 4.7% | 4.5% | 4.5% |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
 | 16:00 | ZAR | Low | CPI (YoY) (Jan) | 5.3% | 5.4% | 5.1% |
 | 16:00 | ZAR | Low | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
-| 42 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.131% |
-| 42 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:25 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 18:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.230% |
-| 19:00 | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
+| 18:00 | GBP | Low | 5-Year Treasury Gilt Auction | 4.095% |  | 4.131% |
+| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 8 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 13 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.230% |
+| 43 min | GBP | Low | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
 | 19:30 | INR | Low | M3 Money Supply |  |  | 11.0% |
 | 20:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 20:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
