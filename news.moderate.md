@@ -10,8 +10,8 @@
 | 15:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 8 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 13 min | EUR | German 10-Year Bund Auction |  |  | 2.230% |
+| 18:25 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 18:30 | EUR | German 10-Year Bund Auction | 2.380% |  | 2.230% |
 | 21:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
 | 23:10 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
