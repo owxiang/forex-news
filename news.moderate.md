@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | PPI Input (QoQ) (Q4) | 0.9% | 0.4% | 1.2% |
 | 07:50 | JPY | Adjusted Trade Balance | 0.24T | -0.23T | -0.41T |
-| 07:50 | JPY | Exports (YoY) (Jan) | 11.9% | 9.5% | 9.8% |
-| 07:50 | JPY | Trade Balance (Jan) | -1,758.3B | -1,925.9B | 62.1B |
+| 07:50 | JPY | Exports (YoY) (Jan) | 11.9% | 9.5% | 9.7% |
+| 07:50 | JPY | Trade Balance (Jan) | -1,758.3B | -1,925.9B | 68.9B |
 | 08:30 | AUD | Wage Price Index (QoQ) (Q4) | 0.9% | 0.9% | 1.3% |
 | 15:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
