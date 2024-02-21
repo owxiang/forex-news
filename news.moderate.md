@@ -9,7 +9,7 @@
 | 08:30 | AUD | Wage Price Index (QoQ) (Q4) | 0.9% | 0.9% | 1.3% |
 | 15:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 16:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 42 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:25 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 18:30 | EUR | German 10-Year Bund Auction |  |  | 2.230% |
 | 21:00 | USD | FOMC Member Bostic Speaks |  |  |  |
