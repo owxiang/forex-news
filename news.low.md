@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Exports (Jan) | 4.93B |  | 5.85B |
 | 05:45 | NZD | Imports (Jan) | 5.91B |  | 6.22B |
-| 05:45 | NZD | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
 | 05:45 | NZD | Trade Balance (MoM) (Jan) | -976M | -200M | -368M |
+| 05:45 | NZD | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
-| 07:50 | JPY | Foreign Bonds Buying |  |  | 1,499.3B |
-| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 621.3B |
+| 34 min | JPY | Foreign Bonds Buying |  |  | 1,499.3B |
+| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 621.3B |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Feb) |  | 3.50% | 3.50% |
@@ -20,14 +20,14 @@
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
+| 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
 | 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
