@@ -6,8 +6,8 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.100% |  | 5.065% |
 | 02:00 | USD | Low | 52-Week Bill Auction | 4.695% |  | 4.570% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:00 | KRW | Low | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
+| 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | 0.9% | 0.4% | 1.2% |
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Feb) | -1 |  | 6 |
@@ -21,16 +21,16 @@
 | 08:30 | AUD | Moderate | Wage Price Index (QoQ) (Q4) | 0.9% | 0.9% | 1.3% |
 | 15:00 | GBP | Low | Public Sector Net Borrowing (Jan) | -17.62B | -18.40B | 6.45B |
 | 15:00 | GBP | Low | Public Sector Net Cash Requirement (Jan) | -23.344B |  | 14.335B |
-| 6 min | IDR | Low | Loans (YoY) (Jan) |  |  | 10.38% |
-| 16 min | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
-| 16 min | IDR | Low | Deposit Facility Rate (Feb) |  | 5.25% | 5.25% |
-| 16 min | IDR | Low | Lending Facility Rate (Feb) |  | 6.75% | 6.75% |
-| 46 min | CHF | Low | M3 Money Supply (Jan) |  |  | 1,136.2B |
-| 46 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 46 min | ZAR | Low | Core CPI (MoM) (Jan) |  | 0.2% | 0.2% |
-| 46 min | ZAR | Low | Core CPI (YoY) (Jan) |  | 4.5% | 4.5% |
-| 46 min | ZAR | Low | CPI (MoM) (Jan) |  | 0.1% | 0.0% |
-| 46 min | ZAR | Low | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
+| 15:20 | IDR | Low | Loans (YoY) (Jan) | 11.83% |  | 10.38% |
+| 15:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
+| 15:30 | IDR | Low | Deposit Facility Rate (Feb) | 5.25% | 5.25% | 5.25% |
+| 15:30 | IDR | Low | Lending Facility Rate (Feb) | 6.75% | 6.75% | 6.75% |
+| 16:00 | CHF | Low | M3 Money Supply (Jan) | 1,135.4B |  | 1,136.1B |
+| 16:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 16:00 | ZAR | Low | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
+| 16:00 | ZAR | Low | Core CPI (YoY) (Jan) | 4.7% | 4.5% | 4.5% |
+| 16:00 | ZAR | Low | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
+| 16:00 | ZAR | Low | CPI (YoY) (Jan) | 5.3% | 5.4% | 5.1% |
 | 18:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.131% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:25 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
@@ -42,8 +42,8 @@
 | 20:00 | USD | Low | MBA Purchase Index |  |  | 149.6 |
 | 20:00 | USD | Low | Mortgage Market Index |  |  | 205.1 |
 | 20:00 | USD | Low | Mortgage Refinance Index |  |  | 489.6 |
-| 20:00 | MXN | Low | Retail Sales (MoM) (Dec) |  | 0.2% | 0.1% |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.7% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Dec) |  | 0.2% | 0.1% |
 | 21:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
