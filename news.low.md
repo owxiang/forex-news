@@ -1,40 +1,45 @@
-## 21 February 2024 - Low Impact Forex News
+## 22 February 2024 - Low Impact Forex News
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.230% |
-| 00:30 | USD | 6-Month Bill Auction | 5.100% |  | 5.065% |
-| 02:00 | USD | 52-Week Bill Auction | 4.695% |  | 4.570% |
-| 05:00 | KRW | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
-| 05:00 | KRW | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
-| 05:45 | NZD | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
-| 07:00 | JPY | Reuters Tankan Index (Feb) | -1 |  | 6 |
-| 07:30 | AUD | MI Leading Index (MoM) | -0.1% |  | 0.0% |
-| 07:50 | JPY | Imports (YoY) (Jan) | -9.6% | -8.4% | -6.9% |
-| 08:00 | AUD | MI Leading Index (MoM) (Jan) | -0.1% |  | 0.0% |
-| 08:30 | AUD | Wage Price Index (YoY) (Q4) | 4.2% | 4.1% | 4.1% |
-| 15:00 | GBP | Public Sector Net Borrowing (Jan) | -17.62B | -18.40B | 6.45B |
-| 15:00 | GBP | Public Sector Net Cash Requirement (Jan) | -23.344B |  | 14.335B |
-| 15:20 | IDR | Loans (YoY) (Jan) | 11.83% |  | 10.38% |
-| 15:30 | IDR | Deposit Facility Rate (Feb) | 5.25% | 5.25% | 5.25% |
-| 15:30 | IDR | Lending Facility Rate (Feb) | 6.75% | 6.75% | 6.75% |
-| 16:00 | CHF | M3 Money Supply (Jan) | 1,135.4B |  | 1,136.1B |
-| 16:00 | ZAR | Core CPI (YoY) (Jan) | 4.7% | 4.5% | 4.5% |
-| 16:00 | ZAR | Core CPI (MoM) (Jan) | 0.3% | 0.2% | 0.2% |
-| 16:00 | ZAR | CPI (MoM) (Jan) | 0.1% | 0.1% | 0.0% |
-| 16:00 | ZAR | CPI (YoY) (Jan) | 5.3% | 5.4% | 5.1% |
-| 18:00 | GBP | 5-Year Treasury Gilt Auction | 4.095% |  | 4.131% |
-| 19:00 | GBP | CBI Industrial Trends Orders (Feb) | -20 | -27 | -30 |
-| 19:30 | INR | M3 Money Supply | 11.3% |  | 11.0% |
-| 20:00 | USD | MBA 30-Year Mortgage Rate | 7.06% |  | 6.87% |
-| 20:00 | USD | MBA Mortgage Applications (WoW) | -10.6% |  | -2.3% |
-| 20:00 | USD | MBA Purchase Index | 133.6 |  | 149.6 |
-| 20:00 | USD | Mortgage Market Index | 181.6 |  | 205.1 |
-| 20:00 | USD | Mortgage Refinance Index | 427.0 |  | 489.6 |
-| 20:00 | MXN | Retail Sales (MoM) (Dec) | -0.9% | 0.2% | 0.1% |
-| 20:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | 2.5% | 2.7% |
-| 21:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 21:55 | USD | Redbook (YoY) | 3.0% |  | 2.5% |
-| 22:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 23:00 | EUR | Consumer Confidence (Feb) | -15.5 | -16.0 | -16.1 |
+| 01:30 | BRL | Foreign Exchange Flows |  |  | 0.005B |
+| 05:45 | NZD | Exports (Jan) |  |  | 5.94B |
+| 05:45 | NZD | Imports (Jan) |  |  | 6.26B |
+| 05:45 | NZD | Trade Balance (MoM) (Jan) |  | -200M | -323M |
+| 05:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -13,570M |
+| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
+| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 49.1 |
+| 07:50 | JPY | Foreign Bonds Buying |  |  | 1,499.3B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 621.3B |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |
+| 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 09:00 | KRW | Interest Rate Decision (Feb) |  | 3.50% | 3.50% |
+| 10:00 | NZD | Credit Card Spending (YoY) |  |  | 4.3% |
+| 13:00 | INR | S&P Global India Services PMI |  |  | 61.8 |
+| 15:45 | EUR | French Business Survey (Feb) |  | 99 | 99 |
+| 16:15 | EUR | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
+| 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
+| 16:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
+| 16:30 | HKD | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
+| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
+| 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
+| 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
+| 18:00 | EUR | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
+| 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | CPI, n.s.a |  | 123.58 | 124.05 |
+| 18:00 | EUR | ECOFIN Meetings |  |  |  |
+| 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
+| 18:00 | EUR | HICP ex Energy and Food (MoM) (Jan) |  | -0.6% | 0.3% |
+| 20:00 | MXN | 1st Half-Month Core CPI (Feb) |  | 0.28% | 0.25% |
+| 20:00 | MXN | 1st Half-Month CPI (Feb) |  | 0.15% | 0.49% |
+| 20:00 | MXN | Economic Activity (MoM) (Dec) |  | -0.20% | -0.50% |
+| 20:00 | MXN | Economic Activity (YoY) (Dec) |  | 0.70% | 2.30% |
+| 21:30 | USD | Chicago Fed National Activity (Jan) |  |  | -0.15 |
+| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.50K |
+| 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 23:30 | USD | Natural Gas Storage |  |  | -49B |
+| 23:31 | IDR | Balance of Payments (EUR) (Q4) |  |  | -1.5B |
+| 23:31 | IDR | Current Account % of GDP (Q4) |  |  | -0.20% |
