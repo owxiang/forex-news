@@ -34,7 +34,7 @@
 | 20:00 | USD | Mortgage Refinance Index | 427.0 |  | 489.6 |
 | 20:00 | MXN | Retail Sales (YoY) (Dec) | -0.2% | 2.5% | 2.7% |
 | 20:00 | MXN | Retail Sales (MoM) (Dec) | -0.9% | 0.2% | 0.1% |
-| 21:30 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 21:55 | USD | Redbook (YoY) |  |  | 2.5% |
-| 22:00 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 13 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 38 min | USD | Redbook (YoY) |  |  | 2.5% |
+| 43 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 23:00 | EUR | Consumer Confidence (Feb) |  | -16.0 | -16.1 |

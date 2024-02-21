@@ -44,10 +44,10 @@
 | 20:00 | USD | Low | Mortgage Refinance Index | 427.0 |  | 489.6 |
 | 20:00 | MXN | Low | Retail Sales (YoY) (Dec) | -0.2% | 2.5% | 2.7% |
 | 20:00 | MXN | Low | Retail Sales (MoM) (Dec) | -0.9% | 0.2% | 0.1% |
-| 32 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
-| 21:55 | USD | Low | Redbook (YoY) |  |  | 2.5% |
-| 22:00 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 21:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 13 min | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
+| 38 min | USD | Low | Redbook (YoY) |  |  | 2.5% |
+| 43 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 23:00 | EUR | Low | Consumer Confidence (Feb) |  | -16.0 | -16.1 |
 | 23:10 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
