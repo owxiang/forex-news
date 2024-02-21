@@ -2,12 +2,12 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:45 | NZD | Exports (Jan) |  |  | 5.94B |
-| 05:45 | NZD | Imports (Jan) |  |  | 6.26B |
-| 05:45 | NZD | Trade Balance (MoM) (Jan) |  | -200M | -323M |
-| 05:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -13,570M |
-| 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
-| 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 49.1 |
+| 32 min | NZD | Exports (Jan) |  |  | 5.94B |
+| 32 min | NZD | Imports (Jan) |  |  | 6.26B |
+| 32 min | NZD | Trade Balance (MoM) (Jan) |  | -200M | -323M |
+| 32 min | NZD | Trade Balance (YoY) (Jan) |  |  | -13,570M |
+| 47 min | AUD | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
+| 47 min | AUD | Judo Bank Australia Services PMI |  |  | 49.1 |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 1,499.3B |
 | 07:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 621.3B |
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |

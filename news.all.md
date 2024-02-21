@@ -5,13 +5,13 @@
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.595% |  | 4.423% |
 | 02:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 4.298M | 8.520M |
-| 05:45 | NZD | Low | Exports (Jan) |  |  | 5.94B |
-| 05:45 | NZD | Low | Imports (Jan) |  |  | 6.26B |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Jan) |  | -200M | -323M |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -13,570M |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 49.1 |
+| 17 min | USD | Moderate | API Weekly Crude Oil Stock |  | 4.298M | 8.520M |
+| 32 min | NZD | Low | Exports (Jan) |  |  | 5.94B |
+| 32 min | NZD | Low | Imports (Jan) |  |  | 6.26B |
+| 32 min | NZD | Low | Trade Balance (MoM) (Jan) |  | -200M | -323M |
+| 32 min | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -13,570M |
+| 47 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
+| 47 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 49.1 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,499.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 621.3B |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |
@@ -44,8 +44,8 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
+| 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | Low | CPI, n.s.a |  | 123.58 | 124.05 |
