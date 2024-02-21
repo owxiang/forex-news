@@ -6,8 +6,8 @@
 | 00:30 | USD | Low | 6-Month Bill Auction | 5.100% |  | 5.065% |
 | 02:00 | USD | Low | 52-Week Bill Auction | 4.695% |  | 4.570% |
 | 05:00 | KRW | Low | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:00 | KRW | Low | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
+| 05:00 | KRW | Low | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:45 | NZD | Moderate | PPI Input (QoQ) (Q4) | 0.9% | 0.4% | 1.2% |
 | 05:45 | NZD | Low | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
 | 07:00 | JPY | Low | Reuters Tankan Index (Feb) | -1 |  | 6 |
@@ -36,15 +36,15 @@
 | 18:25 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 18:30 | EUR | Moderate | German 10-Year Bund Auction | 2.380% |  | 2.230% |
 | 19:00 | GBP | Low | CBI Industrial Trends Orders (Feb) | -20 | -27 | -30 |
-| 17 min | INR | Low | M3 Money Supply |  |  | 11.0% |
-| 47 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 47 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
-| 47 min | USD | Low | MBA Purchase Index |  |  | 149.6 |
-| 47 min | USD | Low | Mortgage Market Index |  |  | 205.1 |
-| 47 min | USD | Low | Mortgage Refinance Index |  |  | 489.6 |
-| 47 min | MXN | Low | Retail Sales (MoM) (Dec) |  | 0.2% | 0.1% |
-| 47 min | MXN | Low | Retail Sales (YoY) (Dec) |  | 2.5% | 2.7% |
-| 21:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 19:30 | INR | Low | M3 Money Supply | 11.3% |  | 11.0% |
+| 20:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.06% |  | 6.87% |
+| 20:00 | USD | Low | MBA Mortgage Applications (WoW) | -10.6% |  | -2.3% |
+| 20:00 | USD | Low | MBA Purchase Index | 133.6 |  | 149.6 |
+| 20:00 | USD | Low | Mortgage Market Index | 181.6 |  | 205.1 |
+| 20:00 | USD | Low | Mortgage Refinance Index | 427.0 |  | 489.6 |
+| 20:00 | MXN | Low | Retail Sales (YoY) (Dec) | -0.2% | 2.5% | 2.7% |
+| 20:00 | MXN | Low | Retail Sales (MoM) (Dec) | -0.9% | 0.2% | 0.1% |
+| 32 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 21:30 | CAD | Moderate | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
 | 21:55 | USD | Low | Redbook (YoY) |  |  | 2.5% |

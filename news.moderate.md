@@ -12,6 +12,6 @@
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:25 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 18:30 | EUR | German 10-Year Bund Auction | 2.380% |  | 2.230% |
-| 21:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 32 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | CAD | New Housing Price Index (MoM) (Jan) |  | 0.1% | 0.0% |
 | 23:10 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
