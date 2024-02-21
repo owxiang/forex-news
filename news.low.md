@@ -6,8 +6,8 @@
 | 00:30 | USD | 6-Month Bill Auction | 5.100% |  | 5.065% |
 | 02:00 | USD | 52-Week Bill Auction | 4.695% |  | 4.570% |
 | 05:00 | KRW | Manufacturing BSI Index (Mar) | 76 |  | 72 |
-| 05:00 | KRW | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:00 | KRW | PPI (YoY) (Jan) | 1.3% |  | 1.2% |
+| 05:00 | KRW | PPI (MoM) (Jan) | 0.5% |  | 0.1% |
 | 05:45 | NZD | PPI Output (QoQ) (Q4) | 0.7% | 0.4% | 0.8% |
 | 07:00 | JPY | Reuters Tankan Index (Feb) | -1 |  | 6 |
 | 07:30 | AUD | MI Leading Index (MoM) | -0.1% |  | 0.0% |
@@ -22,8 +22,8 @@
 | 16:00 | CHF | M3 Money Supply (Jan) |  |  | 1,136.2B |
 | 16:00 | ZAR | Core CPI (MoM) (Jan) |  | 0.2% | 0.2% |
 | 16:00 | ZAR | Core CPI (YoY) (Jan) |  | 4.5% | 4.5% |
-| 16:00 | ZAR | CPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 16:00 | ZAR | CPI (YoY) (Jan) |  | 5.4% | 5.1% |
+| 16:00 | ZAR | CPI (MoM) (Jan) |  | 0.1% | 0.0% |
 | 18:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.131% |
 | 19:00 | GBP | CBI Industrial Trends Orders (Feb) |  | -27 | -30 |
 | 19:30 | INR | M3 Money Supply |  |  | 11.0% |
