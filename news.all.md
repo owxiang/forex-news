@@ -5,13 +5,13 @@
 | 02:00 | USD | Moderate | 20-Year Bond Auction | 4.595% |  | 4.423% |
 | 02:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 17 min | USD | Moderate | API Weekly Crude Oil Stock |  | 4.298M | 8.520M |
-| 32 min | NZD | Low | Exports (Jan) |  |  | 5.94B |
-| 32 min | NZD | Low | Imports (Jan) |  |  | 6.26B |
-| 32 min | NZD | Low | Trade Balance (MoM) (Jan) |  | -200M | -323M |
-| 32 min | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -13,570M |
-| 47 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
-| 47 min | AUD | Low | Judo Bank Australia Services PMI |  |  | 49.1 |
+| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 7.168M | 4.298M | 8.520M |
+| 05:45 | NZD | Low | Exports (Jan) | 4.93B |  | 5.85B |
+| 05:45 | NZD | Low | Imports (Jan) | 5.91B |  | 6.22B |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
+| 05:45 | NZD | Low | Trade Balance (MoM) (Jan) | -976M | -200M | -368M |
+| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
+| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,499.3B |
 | 07:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 621.3B |
 | 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |
@@ -30,8 +30,8 @@
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
 | 16:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | Low | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
@@ -44,10 +44,10 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
@@ -69,8 +69,8 @@
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Feb) |  | 50.5 | 50.7 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.0 |
 | 22:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.4 | 52.5 |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
 | 23:00 | USD | High | Existing Home Sales (Jan) |  | 3.96M | 3.78M |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
 | 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  |  | -49B |
 | 23:31 | IDR | Low | Balance of Payments (EUR) (Q4) |  |  | -1.5B |

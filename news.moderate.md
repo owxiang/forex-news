@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | USD | 20-Year Bond Auction | 4.595% |  | 4.423% |
 | 02:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 17 min | USD | API Weekly Crude Oil Stock |  | 4.298M | 8.520M |
+| 05:30 | USD | API Weekly Crude Oil Stock | 7.168M | 4.298M | 8.520M |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 53.1 |
 | 15:30 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 16:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 43.5 | 43.1 |
