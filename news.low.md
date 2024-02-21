@@ -2,11 +2,11 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 0.005B |
+| 17 min | BRL | Foreign Exchange Flows |  |  | 0.005B |
 | 05:45 | NZD | Exports (Jan) |  |  | 5.94B |
 | 05:45 | NZD | Imports (Jan) |  |  | 6.26B |
-| 05:45 | NZD | Trade Balance (MoM) (Jan) |  | -200M | -323M |
 | 05:45 | NZD | Trade Balance (YoY) (Jan) |  |  | -13,570M |
+| 05:45 | NZD | Trade Balance (MoM) (Jan) |  | -200M | -323M |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
 | 06:00 | AUD | Judo Bank Australia Services PMI |  |  | 49.1 |
 | 07:50 | JPY | Foreign Bonds Buying |  |  | 1,499.3B |
@@ -21,14 +21,14 @@
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
 | 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
