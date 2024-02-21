@@ -2,15 +2,14 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 17 min | BRL | Low | Foreign Exchange Flows |  |  | 0.005B |
-| 47 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.423% |
-| 47 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 02:00 | USD | Moderate | 20-Year Bond Auction | 4.595% |  | 4.423% |
+| 02:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 41 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 4.298M | 8.520M |
 | 05:45 | NZD | Low | Exports (Jan) |  |  | 5.94B |
 | 05:45 | NZD | Low | Imports (Jan) |  |  | 6.26B |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -13,570M |
 | 05:45 | NZD | Low | Trade Balance (MoM) (Jan) |  | -200M | -323M |
+| 05:45 | NZD | Low | Trade Balance (YoY) (Jan) |  |  | -13,570M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 50.1 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 49.1 |
 | 07:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,499.3B |
@@ -31,8 +30,8 @@
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
 | 16:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | Low | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
@@ -47,8 +46,8 @@
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
+| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | Low | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
@@ -58,8 +57,8 @@
 | 20:00 | MXN | Low | 1st Half-Month CPI (Feb) |  | 0.15% | 0.49% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Dec) |  | -0.20% | -0.50% |
 | 20:00 | MXN | Low | Economic Activity (YoY) (Dec) |  | 0.70% | 2.30% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 2.4% | 3.3% |
+| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.15 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,885K | 1,895K |

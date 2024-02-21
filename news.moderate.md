@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 47 min | USD | 20-Year Bond Auction |  |  | 4.423% |
-| 47 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 02:00 | USD | 20-Year Bond Auction | 4.595% |  | 4.423% |
+| 02:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock |  | 4.298M | 8.520M |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 53.1 |
 | 15:30 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
@@ -21,8 +21,8 @@
 | 18:00 | EUR | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
 | 20:00 | MXN | GDP (YoY) (Q4) |  | 2.4% | 3.3% |
+| 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Continuing Jobless Claims |  | 1,885K | 1,895K |
 | 21:30 | CAD | Core Retail Sales (MoM) (Dec) |  | 0.7% | -0.5% |
