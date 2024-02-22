@@ -12,7 +12,7 @@
 | 00:00 | USD | Gasoline Inventories | -0.294M | -2.113M | -3.658M |
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
-| 16 min | BRL | Foreign Exchange Flows |  |  | 0.005B |
+| 01:30 | BRL | Foreign Exchange Flows | 0.212B |  | 0.321B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
 | 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | -3.4% |
 | 06:00 | USD | Fed Governor Cook Speaks |  |  |  |

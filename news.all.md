@@ -14,8 +14,8 @@
 | 00:00 | USD | Low | Gasoline Inventories | -0.294M | -2.113M | -3.658M |
 | 00:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.270% |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | 0.005B |
-| 46 min | USD | Moderate | 30-Year TIPS Auction |  |  | 1.970% |
+| 01:30 | BRL | Low | Foreign Exchange Flows | 0.212B |  | 0.321B |
+| 02:00 | USD | Moderate | 30-Year TIPS Auction | 2.200% |  | 1.970% |
 | 04:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,634B |
 | 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |

@@ -3,7 +3,7 @@
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Cushing Crude Oil Inventories | 0.741M |  | 0.710M |
-| 46 min | USD | 30-Year TIPS Auction |  |  | 1.970% |
+| 02:00 | USD | 30-Year TIPS Auction | 2.200% |  | 1.970% |
 | 04:15 | USD | FOMC Member Harker Speaks |  |  |  |
 | 05:30 | USD | Fed's Balance Sheet |  |  | 7,634B |
 | 05:45 | NZD | Core Retail Sales (QoQ) |  | -0.1% | 1.0% |
