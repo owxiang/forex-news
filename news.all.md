@@ -8,8 +8,8 @@
 | 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 7.168M | 4.298M | 8.520M |
 | 05:45 | NZD | Low | Exports (Jan) | 4.93B |  | 5.85B |
 | 05:45 | NZD | Low | Imports (Jan) | 5.91B |  | 6.22B |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Jan) | -976M | -200M | -368M |
 | 05:45 | NZD | Low | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
+| 05:45 | NZD | Low | Trade Balance (MoM) (Jan) | -976M | -200M | -368M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
 | 07:50 | JPY | Low | Foreign Bonds Buying | -560.8B |  | 1,495.1B |
@@ -22,30 +22,30 @@
 | 11:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
 | 11:00 | IDR | Low | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
 | 13:00 | INR | Low | S&P Global India Services PMI | 62.0 |  | 61.8 |
-| 15 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 30 min | EUR | Low | French Business Survey (Feb) |  | 99 | 99 |
-| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 43.5 | 43.1 |
-| 16:15 | EUR | Low | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
-| 16:15 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 45.7 | 45.4 |
-| 16:30 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
-| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.5 |
-| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
-| 16:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
-| 16:30 | HKD | Low | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
-| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.0 | 46.6 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.5 | 47.9 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 48.8 | 48.4 |
+| 15:30 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 15:45 | EUR | Low | French Business Survey (Feb) | 100 | 99 | 98 |
+| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) | 46.8 | 43.5 | 43.1 |
+| 16:15 | EUR | Low | HCOB France Composite PMI (Feb) | 47.7 | 45.0 | 44.6 |
+| 16:15 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.0 | 45.7 | 45.4 |
+| 11 min | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
+| 11 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.5 |
+| 11 min | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
+| 11 min | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
+| 11 min | HKD | Low | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
+| 41 min | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 41 min | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
+| 41 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
+| 41 min | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
+| 41 min | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
+| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.0 | 46.6 |
+| 41 min | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.5 | 47.9 |
+| 41 min | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 48.8 | 48.4 |
 | 17:25 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.9 | 52.9 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.0 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |

@@ -6,14 +6,14 @@
 | 02:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | 7.168M | 4.298M | 8.520M |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 52.5 |  | 53.1 |
-| 15 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 16:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 43.5 | 43.1 |
-| 16:15 | EUR | HCOB France Services PMI (Feb) |  | 45.7 | 45.4 |
-| 16:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.5 |
-| 16:30 | EUR | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
-| 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.0 | 46.6 |
-| 17:00 | EUR | HCOB Eurozone Composite PMI (Feb) |  | 48.5 | 47.9 |
-| 17:00 | EUR | HCOB Eurozone Services PMI (Feb) |  | 48.8 | 48.4 |
+| 15:30 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 16:15 | EUR | HCOB France Manufacturing PMI (Feb) | 46.8 | 43.5 | 43.1 |
+| 16:15 | EUR | HCOB France Services PMI (Feb) | 48.0 | 45.7 | 45.4 |
+| 11 min | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.5 |
+| 11 min | EUR | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
+| 41 min | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.0 | 46.6 |
+| 41 min | EUR | HCOB Eurozone Composite PMI (Feb) |  | 48.5 | 47.9 |
+| 41 min | EUR | HCOB Eurozone Services PMI (Feb) |  | 48.8 | 48.4 |
 | 17:25 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 52.9 | 52.9 |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.0 |
