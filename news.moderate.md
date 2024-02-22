@@ -24,8 +24,9 @@
 | 20:00 | MXN | GDP (QoQ) (Q4) | 0.1% | 0.1% | 1.1% |
 | 20:00 | MXN | GDP (YoY) (Q4) | 2.5% | 2.4% | 3.3% |
 | 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 12 min | USD | Continuing Jobless Claims |  | 1,885K | 1,895K |
-| 12 min | CAD | Core Retail Sales (MoM) (Dec) |  | 0.7% | -0.5% |
-| 12 min | CAD | Retail Sales (MoM) (Dec) |  | 0.8% | -0.2% |
-| 22:45 | USD | S&P Global Composite PMI (Feb) |  |  | 52.0 |
-| 23:00 | USD | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
+| 21:30 | USD | Continuing Jobless Claims | 1,862K | 1,885K | 1,889K |
+| 21:30 | CAD | Core Retail Sales (MoM) (Dec) | 0.6% | 0.7% | -0.4% |
+| 21:30 | CAD | Retail Sales (MoM) (Dec) | 0.9% | 0.8% | -0.2% |
+| 29 min | USD | S&P Global Composite PMI (Feb) |  |  | 52.0 |
+| 44 min | USD | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
+| 44 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
