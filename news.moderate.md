@@ -8,7 +8,7 @@
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 52.5 |  | 53.1 |
 | 15:30 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 16:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 43.5 | 43.1 |
-| 16:15 | EUR | HCOB France Services PMI (Feb) |  | 45.7 | 45.4 |
+| 16:15 | EUR | HCOB France Services PMI (Feb) |  | 45.6 | 45.4 |
 | 16:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.5 |
 | 16:30 | EUR | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.0 | 46.6 |
@@ -17,7 +17,7 @@
 | 17:25 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 17:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 52.9 | 52.9 |
 | 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.0 |
-| 17:30 | GBP | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI |  | 54.1 | 54.3 |
 | 18:00 | EUR | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |

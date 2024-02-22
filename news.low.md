@@ -14,9 +14,9 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
 | 10:00 | NZD | Credit Card Spending (YoY) | -0.3% |  | 4.3% |
-| 11:03 | IDR | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
-| 11:03 | IDR | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
-| 13:00 | INR | S&P Global India Services PMI |  |  | 61.8 |
+| 11:00 | IDR | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
+| 11:00 | IDR | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
+| 42 min | INR | S&P Global India Services PMI |  |  | 61.8 |
 | 15:45 | EUR | French Business Survey (Feb) |  | 99 | 99 |
 | 16:15 | EUR | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
@@ -41,4 +41,4 @@
 | 21:30 | USD | Chicago Fed National Activity (Jan) |  |  | -0.15 |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.50K |
 | 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 23:30 | USD | Natural Gas Storage |  |  | -49B |
+| 23:30 | USD | Natural Gas Storage |  | -64B | -49B |
