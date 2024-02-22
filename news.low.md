@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 05:45 | NZD | Exports (Jan) | 4.93B |  | 5.85B |
 | 05:45 | NZD | Imports (Jan) | 5.91B |  | 6.22B |
-| 05:45 | NZD | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
 | 05:45 | NZD | Trade Balance (MoM) (Jan) | -976M | -200M | -368M |
+| 05:45 | NZD | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
 | 07:50 | JPY | Foreign Bonds Buying | -560.8B |  | 1,495.1B |
@@ -22,11 +22,11 @@
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) | 46.1 | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) | -0.10% |  | 0.10% |
 | 16:30 | HKD | CPI (YoY) (Jan) | 1.70% | 2.20% | 2.40% |
-| 17:00 | EUR | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
+| 17:00 | EUR | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | 0.8% |  | 0.6% |
-| 17:00 | EUR | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
 | 17:00 | EUR | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
+| 17:00 | EUR | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) | -0.9% | -0.9% | 0.5% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) | 2.7% |  | 2.8% |
 | 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) | -0.4% |  | 0.2% |
@@ -34,10 +34,10 @@
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) | 3.6% | 3.6% | 3.9% |
 | 18:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.6% | -0.6% | 0.3% |
-| 47 min | MXN | 1st Half-Month Core CPI (Feb) |  | 0.28% | 0.25% |
-| 47 min | MXN | 1st Half-Month CPI (Feb) |  | 0.15% | 0.49% |
-| 47 min | MXN | Economic Activity (MoM) (Dec) |  | -0.20% | -0.50% |
-| 47 min | MXN | Economic Activity (YoY) (Dec) |  | 0.70% | 2.30% |
+| 20:00 | MXN | 1st Half-Month Core CPI (Feb) | 0.24% | 0.28% | 0.25% |
+| 20:00 | MXN | 1st Half-Month CPI (Feb) | -0.10% | 0.15% | 0.49% |
+| 20:00 | MXN | Economic Activity (YoY) (Dec) | 1.10% | 0.70% | 2.30% |
+| 20:00 | MXN | Economic Activity (MoM) (Dec) | 0.00% | -0.20% | -0.40% |
 | 21:30 | USD | Chicago Fed National Activity (Jan) |  |  | -0.15 |
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.50K |
 | 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
