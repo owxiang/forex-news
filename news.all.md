@@ -1,78 +1,58 @@
-## 22 February 2024 - All Forex News
+## 23 February 2024 - All Forex News
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | USD | Moderate | 20-Year Bond Auction | 4.595% |  | 4.423% |
-| 02:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 03:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 05:30 | USD | Moderate | API Weekly Crude Oil Stock | 7.168M | 4.298M | 8.520M |
-| 05:45 | NZD | Low | Exports (Jan) | 4.93B |  | 5.85B |
-| 05:45 | NZD | Low | Imports (Jan) | 5.91B |  | 6.22B |
-| 05:45 | NZD | Low | Trade Balance (MoM) (Jan) | -976M | -200M | -368M |
-| 05:45 | NZD | Low | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
-| 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
-| 06:00 | AUD | Low | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
-| 07:50 | JPY | Low | Foreign Bonds Buying | -560.8B |  | 1,495.1B |
-| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 382.0B |  | 621.2B |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 48.2 | 48.0 |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 52.5 |  | 53.1 |
-| 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Low | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
-| 10:00 | NZD | Low | Credit Card Spending (YoY) | -0.3% |  | 4.3% |
-| 11:00 | IDR | Low | Balance of Payments (EUR) (Q1) | 8.6B |  | -1.5B |
-| 11:00 | IDR | Low | Current Account % of GDP (Q1) | -0.40% |  | -0.20% |
-| 13:00 | INR | Low | S&P Global India Services PMI | 62.0 |  | 61.8 |
-| 15:30 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 15:45 | EUR | Low | French Business Survey (Feb) | 100 | 99 | 98 |
-| 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) | 46.8 | 43.5 | 43.1 |
-| 16:15 | EUR | Low | HCOB France Composite PMI (Feb) | 47.7 | 45.0 | 44.6 |
-| 16:15 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.0 | 45.7 | 45.4 |
-| 16:30 | EUR | Low | HCOB Germany Composite PMI (Feb) | 46.1 | 47.5 | 47.0 |
-| 16:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Feb) | 42.3 | 46.1 | 45.5 |
-| 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.2 | 48.0 | 47.7 |
-| 16:30 | HKD | Low | CPI (MoM) (Jan) | -0.10% |  | 0.10% |
-| 16:30 | HKD | Low | CPI (YoY) (Jan) | 1.70% | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
-| 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 0.8% |  | 0.6% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
-| 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 46.1 | 47.0 | 46.6 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 48.9 | 48.5 | 47.9 |
-| 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.0 | 48.8 | 48.4 |
-| 17:25 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 53.3 | 52.9 | 52.9 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 47.1 | 47.5 | 47.0 |
-| 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 54.3 | 54.2 | 54.3 |
-| 18:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -0.9% | 0.5% |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.3% | 3.4% |
-| 18:00 | EUR | High | CPI (YoY) (Jan) | 2.8% | 2.8% | 2.9% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.7% |  | 2.8% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.4% |  | 0.2% |
-| 18:00 | EUR | Low | CPI, n.s.a | 123.60 | 123.58 | 124.05 |
+| 00:00 | USD | High | Crude Oil Inventories | 3.514M | 3.879M | 12.018M |
+| 00:00 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.031M |  | -0.298M |
+| 00:00 | USD | Low | Crude Oil Imports | -0.434M |  | -1.188M |
+| 00:00 | USD | Moderate | Cushing Crude Oil Inventories | 0.741M |  | 0.710M |
+| 00:00 | USD | Low | Distillate Fuel Production | 0.095M |  | -0.281M |
+| 00:00 | USD | Low | EIA Weekly Distillates Stocks | -4.009M | -1.739M | -1.915M |
+| 00:00 | USD | Low | Gasoline Production | -0.146M |  | 0.164M |
+| 00:00 | USD | Low | Heating Oil Stockpiles | -0.351M |  | 1.536M |
+| 00:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | -1.8% |
+| 00:00 | USD | Low | Gasoline Inventories | -0.294M | -2.113M | -3.658M |
+| 10 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 10 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
+| 40 min | USD | Moderate | 30-Year TIPS Auction |  |  | 1.970% |
+| 01:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.005B |
+| 04:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
+| 05:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,634B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
+| 05:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | -0.1% | 1.0% |
+| 05:45 | NZD | Moderate | Retail Sales (QoQ) (Q4) |  | -0.2% | 0.0% |
+| 05:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | -3.4% |
+| 06:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 06:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 08:01 | GBP | Low | GfK Consumer Confidence (Feb) |  | -18 | -19 |
+| 08:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 09:30 | CNY | Low | House Prices (YoY) (Jan) |  |  | -0.4% |
+| 12:00 | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 3.50% |
+| 13:00 | SGD | Moderate | Core CPI (YoY) (Jan) |  | 3.60% | 3.30% |
+| 13:00 | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
+| 13:00 | SGD | Moderate | CPI (YoY) (Jan) |  | 3.8% | 3.7% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
+| 15:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
+| 15:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,086.4B |
+| 15:00 | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 3.4% |
+| 15:30 | CHF | Moderate | Employment Level (Q4) |  |  | 5.465M |
+| 16:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 17:00 | EUR | Moderate | German Business Expectations (Feb) |  | 84.0 | 83.5 |
+| 17:00 | EUR | Moderate | German Current Assessment (Feb) |  | 86.7 | 87.0 |
+| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 85.5 | 85.2 |
+| 17:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 17:30 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 3.6% | 3.6% | 3.9% |
-| 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.6% | -0.6% | 0.3% |
-| 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 20:00 | MXN | Low | 1st Half-Month Core CPI (Feb) | 0.24% | 0.28% | 0.25% |
-| 20:00 | MXN | Low | 1st Half-Month CPI (Feb) | -0.10% | 0.15% | 0.49% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Dec) | 0.00% | -0.20% | -0.40% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Dec) | 1.10% | 0.70% | 2.30% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.1% | 1.1% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q4) | 2.5% | 2.4% | 3.3% |
-| 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Low | Chicago Fed National Activity (Jan) | -0.30 |  | 0.02 |
-| 21:30 | USD | Moderate | Continuing Jobless Claims | 1,862K | 1,885K | 1,889K |
-| 21:30 | USD | High | Initial Jobless Claims | 201K | 217K | 213K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.25K |  | 218.75K |
-| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) | 0.6% | 0.7% | -0.4% |
-| 21:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | 0.9% | 0.8% | -0.2% |
-| 22:45 | USD | High | S&P Global US Manufacturing PMI (Feb) | 51.5 | 50.5 | 50.7 |
-| 22:45 | USD | Moderate | S&P Global Composite PMI (Feb) | 51.4 | 51.8 | 52.0 |
-| 22:45 | USD | High | S&P Global Services PMI (Feb) | 51.3 | 52.4 | 52.5 |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) | 3.1% |  | -0.8% |
-| 23:00 | USD | High | Existing Home Sales (Jan) | 4.00M | 3.96M | 3.88M |
-| 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 14 min | USD | Low | Natural Gas Storage |  | -59B | -49B |
+| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 18:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.970% |
+| 19:30 | INR | Low | Bank Loan Growth |  |  | 20.3% |
+| 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
+| 19:30 | INR | Low | FX Reserves, USD |  |  | 617.23B |
+| 20:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 90.8 |
+| 21:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 21:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
+| 21:30 | BRL | Low | Federal Tax Revenue |  |  | 231.23B |
+| 22:00 | MXN | Low | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
+| 22:00 | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.60% |
