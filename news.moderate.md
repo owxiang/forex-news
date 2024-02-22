@@ -6,7 +6,7 @@
 | 02:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:30 | USD | API Weekly Crude Oil Stock | 7.168M | 4.298M | 8.520M |
 | 08:30 | JPY | au Jibun Bank Japan Services PMI | 52.5 |  | 53.1 |
-| 15:30 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 15 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 16:15 | EUR | HCOB France Manufacturing PMI (Feb) |  | 43.5 | 43.1 |
 | 16:15 | EUR | HCOB France Services PMI (Feb) |  | 45.7 | 45.4 |
 | 16:30 | EUR | HCOB Germany Manufacturing PMI (Feb) |  | 46.1 | 45.5 |

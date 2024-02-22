@@ -17,7 +17,7 @@
 | 11:00 | IDR | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
 | 11:00 | IDR | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
 | 13:00 | INR | S&P Global India Services PMI | 62.0 |  | 61.8 |
-| 15:45 | EUR | French Business Survey (Feb) |  | 99 | 99 |
+| 30 min | EUR | French Business Survey (Feb) |  | 99 | 99 |
 | 16:15 | EUR | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |

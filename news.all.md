@@ -22,8 +22,8 @@
 | 11:00 | IDR | Low | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
 | 11:00 | IDR | Low | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
 | 13:00 | INR | Low | S&P Global India Services PMI | 62.0 |  | 61.8 |
-| 15:30 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 15:45 | EUR | Low | French Business Survey (Feb) |  | 99 | 99 |
+| 15 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 30 min | EUR | Low | French Business Survey (Feb) |  | 99 | 99 |
 | 16:15 | EUR | Moderate | HCOB France Manufacturing PMI (Feb) |  | 43.5 | 43.1 |
 | 16:15 | EUR | Low | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
 | 16:15 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 45.7 | 45.4 |
