@@ -10,9 +10,9 @@
 | 00:00 | USD | Heating Oil Stockpiles | -0.351M |  | 1.536M |
 | 00:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.0% |  | -1.8% |
 | 00:00 | USD | Gasoline Inventories | -0.294M | -2.113M | -3.658M |
-| 10 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 10 min | USD | 8-Week Bill Auction |  |  | 5.270% |
-| 01:30 | BRL | Foreign Exchange Flows |  |  | 0.005B |
+| 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
+| 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
+| 16 min | BRL | Foreign Exchange Flows |  |  | 0.005B |
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
 | 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | -3.4% |
 | 06:00 | USD | Fed Governor Cook Speaks |  |  |  |
