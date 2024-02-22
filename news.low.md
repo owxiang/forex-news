@@ -16,7 +16,7 @@
 | 05:30 | USD | Reserve Balances with Federal Reserve Banks | 3.523T |  | 3.537T |
 | 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q4) | -4.1% |  | -3.4% |
 | 06:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 08:01 | GBP | GfK Consumer Confidence (Feb) |  | -18 | -19 |
+| 42 min | GBP | GfK Consumer Confidence (Feb) |  | -18 | -19 |
 | 09:30 | CNY | House Prices (YoY) (Jan) |  |  | -0.4% |
 | 12:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 3.50% |
 | 13:00 | SGD | CPI (MoM) (Jan) |  |  | 0.40% |
