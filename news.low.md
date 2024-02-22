@@ -8,12 +8,12 @@
 | 05:45 | NZD | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
 | 06:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
 | 06:00 | AUD | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
-| 34 min | JPY | Foreign Bonds Buying |  |  | 1,499.3B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | 621.3B |
-| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |
+| 07:50 | JPY | Foreign Bonds Buying | -560.8B |  | 1,495.1B |
+| 07:50 | JPY | Foreign Investments in Japanese Stocks | 382.0B |  | 621.2B |
+| 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 48.2 | 48.0 |
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Interest Rate Decision (Feb) |  | 3.50% | 3.50% |
-| 10:00 | NZD | Credit Card Spending (YoY) |  |  | 4.3% |
+| 09:00 | KRW | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
+| 54 min | NZD | Credit Card Spending (YoY) |  |  | 4.3% |
 | 13:00 | INR | S&P Global India Services PMI |  |  | 61.8 |
 | 15:45 | EUR | French Business Survey (Feb) |  | 99 | 99 |
 | 16:15 | EUR | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |

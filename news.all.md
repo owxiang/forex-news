@@ -12,13 +12,13 @@
 | 05:45 | NZD | Low | Trade Balance (YoY) (Jan) | -12,500M |  | -13,620M |
 | 06:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.7 |  | 50.1 |
 | 06:00 | AUD | Low | Judo Bank Australia Services PMI | 52.8 |  | 49.1 |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 1,499.3B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 621.3B |
-| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Feb) |  | 48.2 | 48.0 |
-| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 53.1 |
+| 07:50 | JPY | Low | Foreign Bonds Buying | -560.8B |  | 1,495.1B |
+| 07:50 | JPY | Low | Foreign Investments in Japanese Stocks | 382.0B |  | 621.2B |
+| 08:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 48.2 | 48.0 |
+| 08:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 52.5 |  | 53.1 |
 | 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 09:00 | KRW | Low | Interest Rate Decision (Feb) |  | 3.50% | 3.50% |
-| 10:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 4.3% |
+| 09:00 | KRW | Low | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
+| 54 min | NZD | Low | Credit Card Spending (YoY) |  |  | 4.3% |
 | 13:00 | INR | Low | S&P Global India Services PMI |  |  | 61.8 |
 | 15:30 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 15:45 | EUR | Low | French Business Survey (Feb) |  | 99 | 99 |
@@ -44,8 +44,8 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
+| 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
 | 18:00 | EUR | Low | CPI, n.s.a |  | 123.58 | 124.05 |
