@@ -32,8 +32,8 @@
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.2 | 48.0 | 47.7 |
 | 16:30 | HKD | Low | CPI (MoM) (Jan) | -0.10% |  | 0.10% |
 | 16:30 | HKD | Low | CPI (YoY) (Jan) | 1.70% | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 0.8% |  | 0.6% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
@@ -48,19 +48,19 @@
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.3% | 3.4% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) | 2.8% | 2.8% | 2.9% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.4% |  | 0.2% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.7% |  | 2.8% |
+| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.4% |  | 0.2% |
 | 18:00 | EUR | Low | CPI, n.s.a | 123.60 | 123.58 | 124.05 |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 3.6% | 3.6% | 3.9% |
 | 18:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jan) | -0.6% | -0.6% | 0.3% |
-| 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 20:00 | MXN | Low | 1st Half-Month Core CPI (Feb) |  | 0.28% | 0.25% |
-| 20:00 | MXN | Low | 1st Half-Month CPI (Feb) |  | 0.15% | 0.49% |
-| 20:00 | MXN | Low | Economic Activity (MoM) (Dec) |  | -0.20% | -0.50% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Dec) |  | 0.70% | 2.30% |
-| 20:00 | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
-| 20:00 | MXN | Moderate | GDP (YoY) (Q4) |  | 2.4% | 3.3% |
+| 17 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 47 min | MXN | Low | 1st Half-Month Core CPI (Feb) |  | 0.28% | 0.25% |
+| 47 min | MXN | Low | 1st Half-Month CPI (Feb) |  | 0.15% | 0.49% |
+| 47 min | MXN | Low | Economic Activity (MoM) (Dec) |  | -0.20% | -0.50% |
+| 47 min | MXN | Low | Economic Activity (YoY) (Dec) |  | 0.70% | 2.30% |
+| 47 min | MXN | Moderate | GDP (YoY) (Q4) |  | 2.4% | 3.3% |
+| 47 min | MXN | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
 | 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.15 |
 | 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,885K | 1,895K |
