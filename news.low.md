@@ -13,9 +13,9 @@
 | 00:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.280% |
 | 00:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 01:30 | BRL | Foreign Exchange Flows | 0.212B |  | 0.321B |
-| 05:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
-| 05:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | -3.4% |
-| 06:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 17 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
+| 32 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | -3.4% |
+| 47 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 08:01 | GBP | GfK Consumer Confidence (Feb) |  | -18 | -19 |
 | 09:30 | CNY | House Prices (YoY) (Jan) |  |  | -0.4% |
 | 12:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 3.50% |

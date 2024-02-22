@@ -5,10 +5,10 @@
 | 00:00 | USD | Cushing Crude Oil Inventories | 0.741M |  | 0.710M |
 | 02:00 | USD | 30-Year TIPS Auction | 2.200% |  | 1.970% |
 | 04:15 | USD | FOMC Member Harker Speaks |  |  |  |
-| 05:30 | USD | Fed's Balance Sheet |  |  | 7,634B |
-| 05:45 | NZD | Core Retail Sales (QoQ) |  | -0.1% | 1.0% |
-| 05:45 | NZD | Retail Sales (QoQ) (Q4) |  | -0.2% | 0.0% |
-| 06:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 17 min | USD | Fed's Balance Sheet |  |  | 7,634B |
+| 32 min | NZD | Core Retail Sales (QoQ) |  | -0.1% | 1.0% |
+| 32 min | NZD | Retail Sales (QoQ) (Q4) |  | -0.2% | 0.0% |
+| 47 min | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 08:35 | USD | Fed Waller Speaks |  |  |  |
 | 13:00 | SGD | Core CPI (YoY) (Jan) |  | 3.60% | 3.30% |
 | 13:00 | SGD | CPI (YoY) (Jan) |  | 3.8% | 3.7% |
