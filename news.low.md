@@ -14,20 +14,22 @@
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
 | 10:00 | NZD | Credit Card Spending (YoY) | -0.3% |  | 4.3% |
+| 11:03 | IDR | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
+| 11:03 | IDR | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
 | 13:00 | INR | S&P Global India Services PMI |  |  | 61.8 |
 | 15:45 | EUR | French Business Survey (Feb) |  | 99 | 99 |
 | 16:15 | EUR | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
-| 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
+| 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
@@ -40,5 +42,3 @@
 | 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.50K |
 | 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 23:30 | USD | Natural Gas Storage |  |  | -49B |
-| 23:31 | IDR | Balance of Payments (EUR) (Q4) |  |  | -1.5B |
-| 23:31 | IDR | Current Account % of GDP (Q4) |  |  | -0.20% |

@@ -19,6 +19,8 @@
 | 09:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Low | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
 | 10:00 | NZD | Low | Credit Card Spending (YoY) | -0.3% |  | 4.3% |
+| 11:03 | IDR | Low | Balance of Payments (EUR) (Q4) | 8.6B |  | -1.5B |
+| 11:03 | IDR | Low | Current Account % of GDP (Q4) | -0.40% |  | -0.20% |
 | 13:00 | INR | Low | S&P Global India Services PMI |  |  | 61.8 |
 | 15:30 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 15:45 | EUR | Low | French Business Survey (Feb) |  | 99 | 99 |
@@ -30,11 +32,11 @@
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.0 | 47.7 |
 | 16:30 | HKD | Low | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | Low | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Low | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 17:00 | EUR | Low | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
-| 17:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
+| 17:00 | EUR | Low | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) |  | 47.0 | 46.6 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.5 | 47.9 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 48.8 | 48.4 |
@@ -42,12 +44,12 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.9 | 52.9 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.0 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
-| 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
 | 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
+| 18:00 | EUR | Low | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) |  | 2.8% | 2.9% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
-| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | Low | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
@@ -69,9 +71,7 @@
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Feb) |  | 50.5 | 50.7 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.0 |
 | 22:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.4 | 52.5 |
-| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
 | 23:00 | USD | High | Existing Home Sales (Jan) |  | 3.96M | 3.78M |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
 | 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 23:30 | USD | Low | Natural Gas Storage |  |  | -49B |
-| 23:31 | IDR | Low | Balance of Payments (EUR) (Q4) |  |  | -1.5B |
-| 23:31 | IDR | Low | Current Account % of GDP (Q4) |  |  | -0.20% |
