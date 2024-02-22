@@ -22,14 +22,14 @@
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) |  | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) |  |  | 0.10% |
 | 16:30 | HKD | CPI (YoY) (Jan) |  | 2.20% | 2.40% |
-| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
+| 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
 | 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
-| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
+| 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI, n.s.a |  | 123.58 | 124.05 |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | HICP ex Energy & Food (YoY) (Jan) |  | 3.6% | 3.9% |
