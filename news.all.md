@@ -17,13 +17,13 @@
 | 01:30 | BRL | Low | Foreign Exchange Flows | 0.212B |  | 0.321B |
 | 02:00 | USD | Moderate | 30-Year TIPS Auction | 2.200% |  | 1.970% |
 | 04:15 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 17 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,634B |
-| 17 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.537T |
-| 32 min | NZD | Moderate | Core Retail Sales (QoQ) |  | -0.1% | 1.0% |
-| 32 min | NZD | Moderate | Retail Sales (QoQ) (Q4) |  | -0.2% | 0.0% |
-| 32 min | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q4) |  |  | -3.4% |
-| 47 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 47 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 05:30 | USD | Moderate | Fed's Balance Sheet | 7,582B |  | 7,634B |
+| 05:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.523T |  | 3.537T |
+| 05:45 | NZD | Moderate | Core Retail Sales (QoQ) | -1.7% | -0.1% | 0.4% |
+| 05:45 | NZD | Moderate | Retail Sales (QoQ) (Q4) | -1.9% | -0.2% | 0.0% |
+| 05:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q4) | -4.1% |  | -3.4% |
+| 06:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 06:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 08:01 | GBP | Low | GfK Consumer Confidence (Feb) |  | -18 | -19 |
 | 08:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 09:30 | CNY | Low | House Prices (YoY) (Jan) |  |  | -0.4% |
