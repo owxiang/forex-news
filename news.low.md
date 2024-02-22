@@ -22,8 +22,8 @@
 | 16:30 | EUR | HCOB Germany Composite PMI (Feb) | 46.1 | 47.5 | 47.0 |
 | 16:30 | HKD | CPI (MoM) (Jan) | -0.10% |  | 0.10% |
 | 16:30 | HKD | CPI (YoY) (Jan) | 1.70% | 2.20% | 2.40% |
-| 17:00 | EUR | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
+| 17:00 | EUR | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) | 0.8% |  | 0.6% |
 | 17:00 | EUR | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
@@ -36,9 +36,9 @@
 | 18:00 | EUR | HICP ex Energy and Food (MoM) (Jan) | -0.6% | -0.6% | 0.3% |
 | 20:00 | MXN | 1st Half-Month Core CPI (Feb) | 0.24% | 0.28% | 0.25% |
 | 20:00 | MXN | 1st Half-Month CPI (Feb) | -0.10% | 0.15% | 0.49% |
-| 20:00 | MXN | Economic Activity (YoY) (Dec) | 1.10% | 0.70% | 2.30% |
 | 20:00 | MXN | Economic Activity (MoM) (Dec) | 0.00% | -0.20% | -0.40% |
-| 21:30 | USD | Chicago Fed National Activity (Jan) |  |  | -0.15 |
-| 21:30 | USD | Jobless Claims 4-Week Avg. |  |  | 218.50K |
+| 20:00 | MXN | Economic Activity (YoY) (Dec) | 1.10% | 0.70% | 2.30% |
+| 12 min | USD | Chicago Fed National Activity (Jan) |  |  | -0.15 |
+| 12 min | USD | Jobless Claims 4-Week Avg. |  |  | 218.50K |
 | 23:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 23:30 | USD | Natural Gas Storage |  | -59B | -49B |

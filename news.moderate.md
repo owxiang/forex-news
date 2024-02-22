@@ -23,9 +23,9 @@
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q4) | 0.1% | 0.1% | 1.1% |
 | 20:00 | MXN | GDP (YoY) (Q4) | 2.5% | 2.4% | 3.3% |
-| 2 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Continuing Jobless Claims |  | 1,885K | 1,895K |
-| 21:30 | CAD | Core Retail Sales (MoM) (Dec) |  | 0.7% | -0.5% |
-| 21:30 | CAD | Retail Sales (MoM) (Dec) |  | 0.8% | -0.2% |
+| 20:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 12 min | USD | Continuing Jobless Claims |  | 1,885K | 1,895K |
+| 12 min | CAD | Core Retail Sales (MoM) (Dec) |  | 0.7% | -0.5% |
+| 12 min | CAD | Retail Sales (MoM) (Dec) |  | 0.8% | -0.2% |
 | 22:45 | USD | S&P Global Composite PMI (Feb) |  |  | 52.0 |
 | 23:00 | USD | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |

@@ -32,8 +32,8 @@
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.2 | 48.0 | 47.7 |
 | 16:30 | HKD | Low | CPI (MoM) (Jan) | -0.10% |  | 0.10% |
 | 16:30 | HKD | Low | CPI (YoY) (Jan) | 1.70% | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 0.8% |  | 0.6% |
 | 17:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
@@ -57,17 +57,17 @@
 | 19:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 20:00 | MXN | Low | 1st Half-Month Core CPI (Feb) | 0.24% | 0.28% | 0.25% |
 | 20:00 | MXN | Low | 1st Half-Month CPI (Feb) | -0.10% | 0.15% | 0.49% |
-| 20:00 | MXN | Low | Economic Activity (YoY) (Dec) | 1.10% | 0.70% | 2.30% |
 | 20:00 | MXN | Low | Economic Activity (MoM) (Dec) | 0.00% | -0.20% | -0.40% |
+| 20:00 | MXN | Low | Economic Activity (YoY) (Dec) | 1.10% | 0.70% | 2.30% |
 | 20:00 | MXN | Moderate | GDP (QoQ) (Q4) | 0.1% | 0.1% | 1.1% |
 | 20:00 | MXN | Moderate | GDP (YoY) (Q4) | 2.5% | 2.4% | 3.3% |
-| 2 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.15 |
-| 21:30 | USD | Moderate | Continuing Jobless Claims |  | 1,885K | 1,895K |
-| 21:30 | USD | High | Initial Jobless Claims |  | 217K | 212K |
-| 21:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.50K |
-| 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.7% | -0.5% |
-| 21:30 | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 0.8% | -0.2% |
+| 20:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 12 min | USD | Low | Chicago Fed National Activity (Jan) |  |  | -0.15 |
+| 12 min | USD | Moderate | Continuing Jobless Claims |  | 1,885K | 1,895K |
+| 12 min | USD | High | Initial Jobless Claims |  | 217K | 212K |
+| 12 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 218.50K |
+| 12 min | CAD | Moderate | Core Retail Sales (MoM) (Dec) |  | 0.7% | -0.5% |
+| 12 min | CAD | Moderate | Retail Sales (MoM) (Dec) |  | 0.8% | -0.2% |
 | 22:45 | USD | High | S&P Global US Manufacturing PMI (Feb) |  | 50.5 | 50.7 |
 | 22:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.0 |
 | 22:45 | USD | High | S&P Global Services PMI (Feb) |  | 52.4 | 52.5 |
