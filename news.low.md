@@ -13,7 +13,7 @@
 | 08:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 48.2 | 48.0 |
 | 09:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 09:00 | KRW | Interest Rate Decision (Feb) | 3.50% | 3.50% | 3.50% |
-| 54 min | NZD | Credit Card Spending (YoY) |  |  | 4.3% |
+| 10:00 | NZD | Credit Card Spending (YoY) | -0.3% |  | 4.3% |
 | 13:00 | INR | S&P Global India Services PMI |  |  | 61.8 |
 | 15:45 | EUR | French Business Survey (Feb) |  | 99 | 99 |
 | 16:15 | EUR | HCOB France Composite PMI (Feb) |  | 45.0 | 44.6 |
@@ -23,8 +23,8 @@
 | 17:00 | EUR | Italian CPI (YoY) (Jan) |  | 0.8% | 0.6% |
 | 17:00 | EUR | Italian CPI (MoM) (Jan) |  | 0.3% | 0.2% |
 | 17:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jan) |  |  | 0.6% |
-| 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
 | 17:00 | EUR | Italian HICP (YoY) (Jan) |  | 0.9% | 0.5% |
+| 17:00 | EUR | Italian HICP (MoM) (Jan) |  | -1.1% | 0.2% |
 | 18:00 | EUR | Core CPI (MoM) (Jan) |  | -0.9% | 0.5% |
 | 18:00 | EUR | CPI ex Tobacco (YoY) (Jan) |  |  | 2.8% |
 | 18:00 | EUR | CPI ex Tobacco (MoM) (Jan) |  |  | 0.2% |
