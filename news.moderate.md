@@ -14,12 +14,12 @@
 | 17:00 | EUR | HCOB Eurozone Manufacturing PMI (Feb) | 46.1 | 47.0 | 46.6 |
 | 17:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 48.9 | 48.5 | 47.9 |
 | 17:00 | EUR | HCOB Eurozone Services PMI (Feb) | 50.0 | 48.8 | 48.4 |
-| 9 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 14 min | GBP | S&P Global/CIPS UK Composite PMI |  | 52.9 | 52.9 |
-| 14 min | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 47.5 | 47.0 |
-| 14 min | GBP | S&P Global/CIPS UK Services PMI |  | 54.2 | 54.3 |
-| 44 min | EUR | Core CPI (YoY) (Jan) |  | 3.3% | 3.4% |
-| 44 min | EUR | CPI (MoM) (Jan) |  | -0.4% | 0.2% |
+| 17:25 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 17:30 | GBP | S&P Global/CIPS UK Composite PMI | 53.3 | 52.9 | 52.9 |
+| 17:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 47.1 | 47.5 | 47.0 |
+| 17:30 | GBP | S&P Global/CIPS UK Services PMI | 54.3 | 54.2 | 54.3 |
+| 18:00 | EUR | Core CPI (YoY) (Jan) | 3.3% | 3.3% | 3.4% |
+| 18:00 | EUR | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
 | 19:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 20:00 | MXN | GDP (QoQ) (Q4) |  | 0.1% | 1.1% |
 | 20:00 | MXN | GDP (YoY) (Q4) |  | 2.4% | 3.3% |
