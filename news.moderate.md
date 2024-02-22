@@ -27,6 +27,6 @@
 | 21:30 | USD | Continuing Jobless Claims | 1,862K | 1,885K | 1,889K |
 | 21:30 | CAD | Core Retail Sales (MoM) (Dec) | 0.6% | 0.7% | -0.4% |
 | 21:30 | CAD | Retail Sales (MoM) (Dec) | 0.9% | 0.8% | -0.2% |
-| 29 min | USD | S&P Global Composite PMI (Feb) |  |  | 52.0 |
-| 44 min | USD | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
-| 44 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 22:45 | USD | S&P Global Composite PMI (Feb) | 51.4 | 51.8 | 52.0 |
+| 23:00 | USD | Existing Home Sales (MoM) (Jan) | 3.1% |  | -0.8% |
+| 23:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |

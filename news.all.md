@@ -32,11 +32,11 @@
 | 16:30 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.2 | 48.0 | 47.7 |
 | 16:30 | HKD | Low | CPI (MoM) (Jan) | -0.10% |  | 0.10% |
 | 16:30 | HKD | Low | CPI (YoY) (Jan) | 1.70% | 2.20% | 2.40% |
-| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI (YoY) (Jan) | 0.8% | 0.8% | 0.6% |
+| 17:00 | EUR | Low | Italian CPI (MoM) (Jan) | 0.3% | 0.3% | 0.2% |
 | 17:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jan) | 0.8% |  | 0.6% |
-| 17:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
 | 17:00 | EUR | Low | Italian HICP (YoY) (Jan) | 0.9% | 0.9% | 0.5% |
+| 17:00 | EUR | Low | Italian HICP (MoM) (Jan) | -1.1% | -1.1% | 0.2% |
 | 17:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 46.1 | 47.0 | 46.6 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 48.9 | 48.5 | 47.9 |
 | 17:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.0 | 48.8 | 48.4 |
@@ -44,12 +44,12 @@
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 53.3 | 52.9 | 52.9 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 47.1 | 47.5 | 47.0 |
 | 17:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 54.3 | 54.2 | 54.3 |
-| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.3% | 3.4% |
 | 18:00 | EUR | Low | Core CPI (MoM) (Jan) | -0.9% | -0.9% | 0.5% |
+| 18:00 | EUR | Moderate | Core CPI (YoY) (Jan) | 3.3% | 3.3% | 3.4% |
 | 18:00 | EUR | High | CPI (YoY) (Jan) | 2.8% | 2.8% | 2.9% |
 | 18:00 | EUR | Moderate | CPI (MoM) (Jan) | -0.4% | -0.4% | 0.2% |
-| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.4% |  | 0.2% |
 | 18:00 | EUR | Low | CPI ex Tobacco (YoY) (Jan) | 2.7% |  | 2.8% |
+| 18:00 | EUR | Low | CPI ex Tobacco (MoM) (Jan) | -0.4% |  | 0.2% |
 | 18:00 | EUR | Low | CPI, n.s.a | 123.60 | 123.58 | 124.05 |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jan) | 3.6% | 3.6% | 3.9% |
@@ -68,11 +68,11 @@
 | 21:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.25K |  | 218.75K |
 | 21:30 | CAD | Moderate | Core Retail Sales (MoM) (Dec) | 0.6% | 0.7% | -0.4% |
 | 21:30 | CAD | Moderate | Retail Sales (MoM) (Dec) | 0.9% | 0.8% | -0.2% |
-| 29 min | USD | High | S&P Global US Manufacturing PMI (Feb) |  | 50.5 | 50.7 |
-| 29 min | USD | Moderate | S&P Global Composite PMI (Feb) |  |  | 52.0 |
-| 29 min | USD | High | S&P Global Services PMI (Feb) |  | 52.4 | 52.5 |
-| 44 min | USD | High | Existing Home Sales (Jan) |  | 3.96M | 3.78M |
-| 44 min | USD | Moderate | Existing Home Sales (MoM) (Jan) |  |  | -1.0% |
-| 44 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 44 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 23:30 | USD | Low | Natural Gas Storage |  | -59B | -49B |
+| 22:45 | USD | High | S&P Global US Manufacturing PMI (Feb) | 51.5 | 50.5 | 50.7 |
+| 22:45 | USD | Moderate | S&P Global Composite PMI (Feb) | 51.4 | 51.8 | 52.0 |
+| 22:45 | USD | High | S&P Global Services PMI (Feb) | 51.3 | 52.4 | 52.5 |
+| 23:00 | USD | Moderate | Existing Home Sales (MoM) (Jan) | 3.1% |  | -0.8% |
+| 23:00 | USD | High | Existing Home Sales (Jan) | 4.00M | 3.96M | 3.88M |
+| 23:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 23:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 14 min | USD | Low | Natural Gas Storage |  | -59B | -49B |
