@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | CAD | Low | Budget Balance (Dec) | -4.47B |  | -4.01B |
 | 00:00 | CAD | Low | Budget Balance (YoY) (Dec) | -23.61B |  | -19.14B |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
-| 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |
+| 46 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 46 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 50.5K |
 | 04:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.9K |
 | 04:30 | USD | Low | CFTC Copper speculative net positions |  |  | -32.7K |
