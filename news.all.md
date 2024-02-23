@@ -47,11 +47,11 @@
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.970% |
-| 19:30 | INR | Low | Bank Loan Growth |  |  | 20.3% |
-| 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |
-| 19:30 | INR | Low | FX Reserves, USD |  |  | 617.23B |
-| 20:00 | BRL | Low | FGV Consumer confidence (Feb) |  |  | 90.8 |
+| 19:00 | EUR | Low | Italian 2-Year CTZ Auction | 3.410% |  | 3.970% |
+| 19:00 | BRL | Low | FGV Consumer confidence (Feb) | 89.7 |  | 90.8 |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 20.3% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.2% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 617.23B |
 | 21:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
 | 22:00 | MXN | Low | Current Account (USD) (Q4) |  | 5,000M | 2,628M |

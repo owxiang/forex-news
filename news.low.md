@@ -25,11 +25,11 @@
 | 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 16:35 | CNY | FDI (Jan) | -11.70% |  | -8.00% |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
-| 13 min | EUR | Italian 2-Year CTZ Auction |  |  | 3.970% |
-| 19:30 | INR | Bank Loan Growth |  |  | 20.3% |
-| 19:30 | INR | Deposit Growth |  |  | 13.2% |
-| 19:30 | INR | FX Reserves, USD |  |  | 617.23B |
-| 20:00 | BRL | FGV Consumer confidence (Feb) |  |  | 90.8 |
+| 19:00 | EUR | Italian 2-Year CTZ Auction | 3.410% |  | 3.970% |
+| 19:00 | BRL | FGV Consumer confidence (Feb) | 89.7 |  | 90.8 |
+| 17 min | INR | Bank Loan Growth |  |  | 20.3% |
+| 17 min | INR | Deposit Growth |  |  | 13.2% |
+| 17 min | INR | FX Reserves, USD |  |  | 617.23B |
 | 21:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
 | 22:00 | MXN | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
 | 22:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.60% |
