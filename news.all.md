@@ -36,16 +36,17 @@
 | 15:00 | NOK | Low | M3 Money Supply (Jan) | 3,113.7B |  | 3,086.4B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
 | 15:30 | CHF | Moderate | Employment Level (Q4) | 5.488M |  | 5.465M |
-| 10 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 40 min | EUR | Moderate | German Business Expectations (Feb) |  | 84.0 | 83.5 |
-| 40 min | EUR | Moderate | German Current Assessment (Feb) |  | 86.7 | 87.0 |
-| 40 min | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 85.5 | 85.2 |
-| 17:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:30 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 18:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 16:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 16:35 | CNY | Low | FDI (Jan) | -11.70% |  | -8.00% |
+| 17:00 | EUR | Moderate | German Business Expectations (Feb) | 84.1 | 84.0 | 83.5 |
+| 17:00 | EUR | Moderate | German Current Assessment (Feb) | 86.9 | 86.7 | 86.9 |
+| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) | 85.5 | 85.5 | 85.2 |
+| 5 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15 min | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 45 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 45 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 45 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 45 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 18:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.970% |
 | 19:30 | INR | Low | Bank Loan Growth |  |  | 20.3% |
 | 19:30 | INR | Low | Deposit Growth |  |  | 13.2% |

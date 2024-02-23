@@ -14,12 +14,12 @@
 | 13:00 | SGD | CPI (YoY) (Jan) | 2.9% | 3.8% | 3.7% |
 | 15:00 | EUR | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
 | 15:30 | CHF | Employment Level (Q4) | 5.488M |  | 5.465M |
-| 40 min | EUR | German Business Expectations (Feb) |  | 84.0 | 83.5 |
-| 40 min | EUR | German Current Assessment (Feb) |  | 86.7 | 87.0 |
-| 40 min | EUR | German Ifo Business Climate Index (Feb) |  | 85.5 | 85.2 |
-| 17:20 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:30 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 18:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 18:00 | EUR | Eurogroup Meetings |  |  |  |
+| 17:00 | EUR | German Business Expectations (Feb) | 84.1 | 84.0 | 83.5 |
+| 17:00 | EUR | German Current Assessment (Feb) | 86.9 | 86.7 | 86.9 |
+| 17:00 | EUR | German Ifo Business Climate Index (Feb) | 85.5 | 85.5 | 85.2 |
+| 5 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 15 min | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 45 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 45 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 45 min | EUR | Eurogroup Meetings |  |  |  |
 | 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |
