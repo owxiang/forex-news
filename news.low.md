@@ -22,7 +22,7 @@
 | 13:00 | SGD | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
 | 15:00 | NOK | M3 Money Supply (Jan) | 3,113.7B |  | 3,086.4B |
 | 15:00 | NOK | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
-| 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 10 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.970% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.3% |

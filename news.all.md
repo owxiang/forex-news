@@ -35,11 +35,11 @@
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
 | 15:00 | NOK | Low | M3 Money Supply (Jan) | 3,113.7B |  | 3,086.4B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
-| 15 min | CHF | Moderate | Employment Level (Q4) |  |  | 5.465M |
-| 16:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 17:00 | EUR | Moderate | German Business Expectations (Feb) |  | 84.0 | 83.5 |
-| 17:00 | EUR | Moderate | German Current Assessment (Feb) |  | 86.7 | 87.0 |
-| 17:00 | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 85.5 | 85.2 |
+| 15:30 | CHF | Moderate | Employment Level (Q4) | 5.488M |  | 5.465M |
+| 10 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 40 min | EUR | Moderate | German Business Expectations (Feb) |  | 84.0 | 83.5 |
+| 40 min | EUR | Moderate | German Current Assessment (Feb) |  | 86.7 | 87.0 |
+| 40 min | EUR | Moderate | German Ifo Business Climate Index (Feb) |  | 85.5 | 85.2 |
 | 17:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 17:30 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 18:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
