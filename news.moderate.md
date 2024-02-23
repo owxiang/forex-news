@@ -22,4 +22,4 @@
 | 18:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | EUR | Eurogroup Meetings |  |  |  |
-| 32 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 21:00 | EUR | ECB's Schnabel Speaks |  |  |  |

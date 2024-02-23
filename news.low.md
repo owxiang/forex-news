@@ -30,6 +30,6 @@
 | 19:30 | INR | Bank Loan Growth | 20.3% |  | 20.3% |
 | 19:30 | INR | Deposit Growth | 13.6% |  | 13.2% |
 | 19:30 | INR | FX Reserves, USD | 616.10B |  | 617.23B |
-| 21:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
-| 22:00 | MXN | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
-| 22:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.60% |
+| 13 min | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
+| 43 min | MXN | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
+| 43 min | MXN | Current Account % of GDP (Q4) |  |  | 0.60% |
