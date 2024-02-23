@@ -31,8 +31,8 @@
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Jan) | 3.10% | 3.60% | 3.30% |
 | 13:00 | SGD | Low | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Jan) | 2.9% | 3.8% | 3.7% |
-| 15:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
 | 15:00 | NOK | Low | M3 Money Supply (Jan) | 3,113.7B |  | 3,086.4B |
 | 15:00 | NOK | Low | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
 | 15:30 | CHF | Moderate | Employment Level (Q4) | 5.488M |  | 5.465M |
@@ -53,5 +53,5 @@
 | 19:30 | INR | Low | Deposit Growth | 13.6% |  | 13.2% |
 | 19:30 | INR | Low | FX Reserves, USD | 616.10B |  | 617.23B |
 | 21:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 46 min | MXN | Low | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
-| 46 min | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.60% |
+| 22:00 | MXN | Low | Current Account (USD) (Q4) |  | 5,000M | 908M |
+| 23:00 | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.60% |
