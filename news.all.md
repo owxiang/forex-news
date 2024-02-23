@@ -27,10 +27,10 @@
 | 08:01 | GBP | Low | GfK Consumer Confidence (Feb) | -21 | -18 | -19 |
 | 08:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 09:30 | CNY | Low | House Prices (YoY) (Jan) | -0.7% |  | -0.4% |
-| 45 min | IDR | Low | M2 Money Supply (YoY) (Jan) | 5.40% |  | 3.50% |
-| 13:00 | SGD | Moderate | Core CPI (YoY) (Jan) |  | 3.60% | 3.30% |
-| 13:00 | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
-| 13:00 | SGD | Moderate | CPI (YoY) (Jan) |  | 3.8% | 3.7% |
+| 11:00 | IDR | Low | M2 Money Supply (YoY) (Jan) | 5.40% |  | 3.50% |
+| 43 min | SGD | Moderate | Core CPI (YoY) (Jan) |  | 3.60% | 3.30% |
+| 43 min | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
+| 43 min | SGD | Moderate | CPI (YoY) (Jan) |  | 3.8% | 3.7% |
 | 15:00 | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
 | 15:00 | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
 | 15:00 | NOK | Low | M3 Money Supply (Jan) |  |  | 3,086.4B |
