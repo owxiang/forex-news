@@ -24,9 +24,9 @@
 | 05:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q4) | -4.1% |  | -3.4% |
 | 06:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 42 min | GBP | Low | GfK Consumer Confidence (Feb) |  | -18 | -19 |
+| 08:01 | GBP | Low | GfK Consumer Confidence (Feb) | -21 | -18 | -19 |
 | 08:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 09:30 | CNY | Low | House Prices (YoY) (Jan) |  |  | -0.4% |
+| 24 min | CNY | Low | House Prices (YoY) (Jan) |  |  | -0.4% |
 | 12:00 | IDR | Low | M2 Money Supply (YoY) (Jan) |  |  | 3.50% |
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Jan) |  | 3.60% | 3.30% |
 | 13:00 | SGD | Low | CPI (MoM) (Jan) |  |  | 0.40% |
