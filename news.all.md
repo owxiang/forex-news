@@ -53,6 +53,5 @@
 | 19:30 | INR | Low | Deposit Growth | 13.6% |  | 13.2% |
 | 19:30 | INR | Low | FX Reserves, USD | 616.10B |  | 617.23B |
 | 21:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13 min | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
-| 43 min | MXN | Low | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
-| 43 min | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.60% |
+| 46 min | MXN | Low | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
+| 46 min | MXN | Low | Current Account % of GDP (Q4) |  |  | 0.60% |
