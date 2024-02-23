@@ -24,8 +24,8 @@
 | 15:00 | NOK | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
 | 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 16:35 | CNY | FDI (Jan) | -11.70% |  | -8.00% |
-| 45 min | EUR | ECOFIN Meetings |  |  |  |
-| 18:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.970% |
+| 18:00 | EUR | ECOFIN Meetings |  |  |  |
+| 13 min | EUR | Italian 2-Year CTZ Auction |  |  | 3.970% |
 | 19:30 | INR | Bank Loan Growth |  |  | 20.3% |
 | 19:30 | INR | Deposit Growth |  |  | 13.2% |
 | 19:30 | INR | FX Reserves, USD |  |  | 617.23B |
