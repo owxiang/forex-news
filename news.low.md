@@ -19,7 +19,7 @@
 | 08:01 | GBP | GfK Consumer Confidence (Feb) | -21 | -18 | -19 |
 | 09:30 | CNY | House Prices (YoY) (Jan) | -0.7% |  | -0.4% |
 | 11:00 | IDR | M2 Money Supply (YoY) (Jan) | 5.40% |  | 3.50% |
-| 43 min | SGD | CPI (MoM) (Jan) |  |  | 0.40% |
+| 13:00 | SGD | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
 | 15:00 | NOK | M3 Money Supply (Jan) |  |  | 3,086.4B |
 | 15:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 3.4% |
 | 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
@@ -30,6 +30,5 @@
 | 19:30 | INR | FX Reserves, USD |  |  | 617.23B |
 | 20:00 | BRL | FGV Consumer confidence (Feb) |  |  | 90.8 |
 | 21:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
-| 21:30 | BRL | Federal Tax Revenue |  |  | 231.23B |
 | 22:00 | MXN | Current Account (USD) (Q4) |  | 5,000M | 2,628M |
 | 22:00 | MXN | Current Account % of GDP (Q4) |  |  | 0.60% |
