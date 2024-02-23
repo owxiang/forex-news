@@ -31,11 +31,11 @@
 | 13:00 | SGD | Moderate | Core CPI (YoY) (Jan) | 3.10% | 3.60% | 3.30% |
 | 13:00 | SGD | Low | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
 | 13:00 | SGD | Moderate | CPI (YoY) (Jan) | 2.9% | 3.8% | 3.7% |
-| 40 min | EUR | High | German GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
-| 40 min | EUR | Moderate | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
-| 40 min | NOK | Low | M3 Money Supply (Jan) |  |  | 3,086.4B |
-| 40 min | NOK | Low | Credit Indicator (YoY) (Jan) |  |  | 3.4% |
-| 15:30 | CHF | Moderate | Employment Level (Q4) |  |  | 5.465M |
+| 15:00 | EUR | High | German GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
+| 15:00 | EUR | Moderate | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
+| 15:00 | NOK | Low | M3 Money Supply (Jan) | 3,113.7B |  | 3,086.4B |
+| 15:00 | NOK | Low | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
+| 15 min | CHF | Moderate | Employment Level (Q4) |  |  | 5.465M |
 | 16:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 17:00 | EUR | Moderate | German Business Expectations (Feb) |  | 84.0 | 83.5 |
 | 17:00 | EUR | Moderate | German Current Assessment (Feb) |  | 86.7 | 87.0 |

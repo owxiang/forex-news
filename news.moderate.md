@@ -12,8 +12,8 @@
 | 08:35 | USD | Fed Waller Speaks |  |  |  |
 | 13:00 | SGD | Core CPI (YoY) (Jan) | 3.10% | 3.60% | 3.30% |
 | 13:00 | SGD | CPI (YoY) (Jan) | 2.9% | 3.8% | 3.7% |
-| 40 min | EUR | German GDP (YoY) (Q4) |  | -0.2% | -0.4% |
-| 15:30 | CHF | Employment Level (Q4) |  |  | 5.465M |
+| 15:00 | EUR | German GDP (YoY) (Q4) | -0.2% | -0.2% | -0.4% |
+| 15 min | CHF | Employment Level (Q4) |  |  | 5.465M |
 | 17:00 | EUR | German Business Expectations (Feb) |  | 84.0 | 83.5 |
 | 17:00 | EUR | German Current Assessment (Feb) |  | 86.7 | 87.0 |
 | 17:00 | EUR | German Ifo Business Climate Index (Feb) |  | 85.5 | 85.2 |

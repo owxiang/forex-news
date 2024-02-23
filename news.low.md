@@ -20,8 +20,8 @@
 | 09:30 | CNY | House Prices (YoY) (Jan) | -0.7% |  | -0.4% |
 | 11:00 | IDR | M2 Money Supply (YoY) (Jan) | 5.40% |  | 3.50% |
 | 13:00 | SGD | CPI (MoM) (Jan) | -0.70% |  | 0.40% |
-| 40 min | NOK | M3 Money Supply (Jan) |  |  | 3,086.4B |
-| 40 min | NOK | Credit Indicator (YoY) (Jan) |  |  | 3.4% |
+| 15:00 | NOK | M3 Money Supply (Jan) | 3,113.7B |  | 3,086.4B |
+| 15:00 | NOK | Credit Indicator (YoY) (Jan) | 3.5% |  | 3.7% |
 | 16:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | EUR | ECOFIN Meetings |  |  |  |
 | 18:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.970% |
