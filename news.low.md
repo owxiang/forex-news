@@ -18,7 +18,7 @@
 | 06:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 08:01 | GBP | GfK Consumer Confidence (Feb) | -21 | -18 | -19 |
 | 09:30 | CNY | House Prices (YoY) (Jan) | -0.7% |  | -0.4% |
-| 12:00 | IDR | M2 Money Supply (YoY) (Jan) |  |  | 3.50% |
+| 45 min | IDR | M2 Money Supply (YoY) (Jan) | 5.40% |  | 3.50% |
 | 13:00 | SGD | CPI (MoM) (Jan) |  |  | 0.40% |
 | 15:00 | NOK | M3 Money Supply (Jan) |  |  | 3,086.4B |
 | 15:00 | NOK | Credit Indicator (YoY) (Jan) |  |  | 3.4% |
