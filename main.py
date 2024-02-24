@@ -93,11 +93,11 @@ def scrape_forex_events():
     if not moderate_events:
         message_moderate_events = f"There is no moderate impact news on {formatted_date}.\n\n"
     else:
-        message_moderate_events = f"{formatted_date} Forex Moderate Impact News Alert in GMT+8\n\n{high_events}"
+        message_moderate_events = f"{formatted_date} Forex Moderate Impact News Alert in GMT+8\n\n{moderate_events}"
     if not low_events:
         message_low_events = f"There is no low impact news on {formatted_date}.\n\n"
     else:
-        message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT+8\n\n{high_events}"
+        message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT+8\n\n{low_events}"
         
     current_hour = datetime.now().hour
     if current_hour == 11: # 0100 (GMT+8) = 1700 (GMT+0)
