@@ -8,13 +8,13 @@ import os
 
 def scrape_forex_events():
     # Initialize
-    url = os.environ['URL']
+    url = os.environ['URL_GMT_0']
     all_events = ""
     high_events = ""
     moderate_events = ""
     low_events = ""
-    table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
-    table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+    table_header_for_all = "| Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
+    table_header_for_the_rest = "| Time (GMT) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     
     # Create a string variable to hold the table
     table_for_all_readme = table_header_for_all
@@ -30,7 +30,6 @@ def scrape_forex_events():
     driver = webdriver.Chrome(options=chrome_options)
 
     # Load the webpage
-    # timezone = 27 = GMT+8
     driver.get(url)
 
     # Wait for the table to load (adjust the wait time as needed)
@@ -89,15 +88,15 @@ def scrape_forex_events():
     if not high_events:
         message_high_events = f"There is no high impact news on {formatted_date}.\n\n"
     else:
-        message_high_events = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
+        message_high_events = f"{formatted_date} Forex High Impact News Alert in GMT\n\n{high_events}"
     if not moderate_events:
         message_moderate_events = f"There is no moderate impact news on {formatted_date}.\n\n"
     else:
-        message_moderate_events = f"{formatted_date} Forex Moderate Impact News Alert in GMT+8\n\n{moderate_events}"
+        message_moderate_events = f"{formatted_date} Forex Moderate Impact News Alert in GMT\n\n{moderate_events}"
     if not low_events:
         message_low_events = f"There is no low impact news on {formatted_date}.\n\n"
     else:
-        message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT+8\n\n{low_events}"
+        message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT\n\n{low_events}"
         
     current_hour = datetime.now().hour
     if current_hour == 11: # 0100 (GMT+8) = 1700 (GMT+0)
