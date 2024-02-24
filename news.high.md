@@ -1,3 +1,5 @@
 ## 24 February 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 12:00 | EUR | ECOFIN Meetings |  |  |  |
