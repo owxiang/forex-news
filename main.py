@@ -8,7 +8,7 @@ import os
 
 def scrape_forex_events():
     # Initialize
-    url = os.environ['URL_GMT_ZERO']
+    url = os.environ['URL']
     all_events = ""
     high_events = ""
     moderate_events = ""
