@@ -1,98 +1,108 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from datetime import datetime
 import requests
 import os
 
+def initialize_table():
+    table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
+    table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+    return table_header_for_all, table_header_for_the_rest
+
+def initialize_webdriver():
+    chrome_options = Options()
+    chrome_options.add_argument('--headless')  
+    driver = webdriver.Chrome(options=chrome_options)
+    return driver
+
+def get_date(driver):
+    date_element = driver.find_element(By.CLASS_NAME, 'theDay')
+    date_str = date_element.text.strip()
+    date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
+    formatted_date = date_obj.strftime("%d %B %Y")
+    return formatted_date
+
+def get_event_rows(driver):
+    table = driver.find_element(By.ID, 'ecEventsTable')
+    event_rows = table.find_elements(By.TAG_NAME, 'tr')
+    return event_rows
+
+def process_event_row(event_row):
+    cells = event_row.find_elements(By.TAG_NAME, 'td')
+    if len(cells) >= 8:
+        time = cells[0].text.strip()
+        currency = cells[1].text.strip()
+        sentiment = cells[2].get_attribute('title')
+        event = cells[3].text.strip()
+        actual = cells[4].text.strip()
+        forecast = cells[5].text.strip()
+        previous = cells[6].text.strip()
+        return time, currency, sentiment, event, actual, forecast, previous
+    return None
+
+def write_to_readme(table_for_all_readme,table_for_high_readme,table_for_moderate_readme,table_for_low_readme,table_header_for_all,table_header_for_the_rest,formatted_date):
+    with open('README.md', 'w') as f:
+        f.write(f"# Forex Calendar Events for {formatted_date}\n\n")
+        f.write("## All Events\n\n")
+        f.write(table_for_all_readme)
+        f.write("\n\n## High Impact Events\n\n")
+        if table_for_high_readme == table_header_for_the_rest:
+            f.write("No high impact events for today.\n")
+        else:
+            f.write(table_for_high_readme)
+        f.write("\n\n## Moderate Impact Events\n\n")
+        if table_for_moderate_readme == table_header_for_the_rest:
+            f.write("No moderate impact events for today.\n")
+        else:
+            f.write(table_for_moderate_readme)
+        f.write("\n\n## Low Impact Events\n\n")
+        if table_for_low_readme == table_header_for_the_rest:
+            f.write("No low impact events for today.\n")
+        else:
+            f.write(table_for_low_readme)
+
 def scrape_forex_events():
-    # Initialize
     url = os.environ['URL']
     all_events = ""
     high_events = ""
-    table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
-    table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
-    
-    # Create a string variable to hold the table
+    table_header_for_all, table_header_for_the_rest = initialize_table()
     table_for_all_readme = table_header_for_all
     table_for_low_readme = table_for_moderate_readme = table_for_high_readme = table_header_for_the_rest
-
-    # Set Chrome options to run in headless mode
-    chrome_options = Options()
-
-    # Run Chrome in headless mode
-    chrome_options.add_argument('--headless')  
-    
-    # Start the WebDriver
-    driver = webdriver.Chrome(options=chrome_options)
-
-    # Load the webpage
-    # timezone = 27 = GMT+8
+    driver = initialize_webdriver()
     driver.get(url)
-
-    # Wait for the table to load (adjust the wait time as needed)
     driver.implicitly_wait(10)
-
-    # Find the date element
-    date_element = driver.find_element(By.CLASS_NAME, 'theDay')
-    
-    # Extract the date
-    date_str = date_element.text.strip()
-    
-    # Convert the string to a datetime object
-    date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
-    
-    # Format the datetime object as a string in the desired format
-    formatted_date = date_obj.strftime("%d %B %Y")
-
-    # Find the table element
-    table = driver.find_element(By.ID, 'ecEventsTable')
-
-    # Find all the event rows in the table
-    event_rows = table.find_elements(By.TAG_NAME, 'tr')
-
-    # Iterate over the event rows and print the event details
+    formatted_date = get_date(driver)
+    event_rows = get_event_rows(driver)
     for event_row in event_rows:
-        cells = event_row.find_elements(By.TAG_NAME, 'td')
-        if len(cells) >= 8:
-            time = cells[0].text.strip()
-            currency = cells[1].text.strip()
-            sentiment = cells[2].get_attribute('title')
-            event = cells[3].text.strip()
-            actual = cells[4].text.strip()
-            forecast = cells[5].text.strip()
-            previous = cells[6].text.strip()
-
+        event_data = process_event_row(event_row)
+        if event_data:
+            time, currency, sentiment, event, actual, forecast, previous = event_data
             if "High Volatility Expected" in sentiment:
                 high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_high_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "High"
-                
             elif "Moderate Volatility Expected" in sentiment:
+                moderate_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_moderate_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Moderate"
-                
             elif "Low Volatility Expected" in sentiment:
+                low_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_low_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Low"
-                
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
             table_for_all_readme += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
-    
+            
     write_to_readme(table_for_all_readme,table_for_high_readme,table_for_moderate_readme,table_for_low_readme,table_header_for_all,table_header_for_the_rest,formatted_date)
-
+    
     if not high_events:
         message = f"There is no high impact news on {formatted_date}.\n\n"
     else:
         message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
-        
     current_hour = datetime.now().hour
-    if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
+    send_hour = 10 # 0100 (GMT+8) = 1700 (GMT+0)
+    if current_hour == send_hour:
         send_telegram(message)
-
-    # Close the WebDriver
-    driver.quit()
     
 def send_telegram(message):
     bot = os.environ['TELEGRAM_BOT_TOKEN']
@@ -123,37 +133,5 @@ def send_telegram(message):
             print(f"Telegram message sent successfully but failed to pin. Status code: {pin_response.status_code}. Error message: {pin_response.text}")
     else:
         print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
-    
-def write_to_readme(table_for_all_readme, table_for_high_readme, table_for_moderate_readme, table_for_low_readme, table_header_for_all, table_header_for_the_rest, formatted_date):
-    table_content = {
-        'table_for_all_readme.txt': table_for_all_readme,
-        'table_for_high_readme.txt': table_for_high_readme,
-        'table_for_moderate_readme.txt': table_for_moderate_readme,
-        'table_for_low_readme.txt': table_for_low_readme
-    }
-
-    headers = {
-        'table_for_all_readme.txt': f"## {formatted_date} - All Forex News",
-        'table_for_high_readme.txt': f"## {formatted_date} - High Impact Forex News",
-        'table_for_moderate_readme.txt': f"## {formatted_date} - Moderate Impact Forex News",
-        'table_for_low_readme.txt': f"## {formatted_date} - Low Impact Forex News"
-    }
-
-    no_news_messages = {
-        'table_for_all_readme.txt': "There is no news today.",
-        'table_for_high_readme.txt': "There is no high impact news today.",
-        'table_for_moderate_readme.txt': "There is no moderate impact news today.",
-        'table_for_low_readme.txt': "There is no low impact news today."
-    }
-
-    for filename, content in table_content.items():
-        if content == table_header_for_all or content == table_header_for_the_rest:
-            content = no_news_messages[filename]
-            
-        content = f"{headers[filename]}\n\n{content}"
-        
-        with open(filename, 'w') as file:
-            file.write(content)
-
-
+   
 scrape_forex_events()
