@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | CAD | Low | Budget Balance (Dec) | -4.47B |  | -4.01B |
 | 00:00 | CAD | Low | Budget Balance (YoY) (Dec) | -23.61B |  | -19.14B |
+| 00:00 | CAD | Low | Budget Balance (Dec) | -4.47B |  | -4.01B |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 503 |  | 497 |
 | 02:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 626 |  | 621 |
 | 04:30 | GBP | Moderate | CFTC GBP speculative net positions | 46.3K |  | 50.5K |
@@ -26,4 +26,4 @@
 | 04:30 | JPY | Moderate | CFTC JPY speculative net positions | -120.8K |  | -111.5K |
 | 04:30 | NZD | Low | CFTC NZD speculative net positions | 6.6K |  | 3.4K |
 | 04:30 | EUR | Moderate | CFTC EUR speculative net positions | 68.0K |  | 52.8K |
-| 18:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 47 min | EUR | Low | ECOFIN Meetings |  |  |  |
