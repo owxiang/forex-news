@@ -11,6 +11,8 @@ def scrape_forex_events():
     url = os.environ['URL']
     all_events = ""
     high_events = ""
+    moderate_events = ""
+    low_events = ""
     table_header_for_all = "| Time (GMT+8) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n"
     table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     
@@ -70,10 +72,12 @@ def scrape_forex_events():
                 sentiment = "High"
                 
             elif "Moderate Volatility Expected" in sentiment:
+                moderate_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_moderate_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Moderate"
                 
             elif "Low Volatility Expected" in sentiment:
+                low_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
                 table_for_low_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Low"
                 
@@ -83,13 +87,23 @@ def scrape_forex_events():
     write_to_readme(table_for_all_readme,table_for_high_readme,table_for_moderate_readme,table_for_low_readme,table_header_for_all,table_header_for_the_rest,formatted_date)
 
     if not high_events:
-        message = f"There is no high impact news on {formatted_date}.\n\n"
+        message_high_events = f"There is no high impact news on {formatted_date}.\n\n"
     else:
-        message = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
+        message_high_events = f"{formatted_date} Forex High Impact News Alert in GMT+8\n\n{high_events}"
+    if not moderate_events:
+        message_moderate_events = f"There is no moderate impact news on {formatted_date}.\n\n"
+    else:
+        message_moderate_events = f"{formatted_date} Forex Moderate Impact News Alert in GMT+8\n\n{high_events}"
+    if not low_events:
+        message_low_events = f"There is no low impact news on {formatted_date}.\n\n"
+    else:
+        message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT+8\n\n{high_events}"
         
     current_hour = datetime.now().hour
     if current_hour == 11: # 0100 (GMT+8) = 1700 (GMT+0)
-        send_telegram(message)
+        send_telegram(message_high_events)
+        send_telegram(message_moderate_events)
+        send_telegram(message_low_events)
 
     # Close the WebDriver
     driver.quit()
@@ -109,18 +123,20 @@ def send_telegram(message):
     }
     response = requests.get(telegram_url, params=params)
     if response.status_code == 200:
-        message_id = response.json()["result"]["message_id"]
-        pin_params = {
-            "chat_id": chat_id,
-            "message_id": message_id,
-            "disable_notification": True
-        }
-        pin_response = requests.get(pin_message_url, params=pin_params)
+        print("Telegram message sent successfully!")
+        # Code related to pinning the message is commented out.
+        # message_id = response.json()["result"]["message_id"]
+        # pin_params = {
+        #     "chat_id": chat_id,
+        #     "message_id": message_id,
+        #     "disable_notification": True
+        # }
+        # pin_response = requests.get(pin_message_url, params=pin_params)
         
-        if pin_response.status_code == 200:
-            print("Telegram message sent and pinned successfully!")
-        else:
-            print(f"Telegram message sent successfully but failed to pin. Status code: {pin_response.status_code}. Error message: {pin_response.text}")
+        # if pin_response.status_code == 200:
+        #     print("Telegram message sent and pinned successfully!")
+        # else:
+        #     print(f"Telegram message sent successfully but failed to pin. Status code: {pin_response.status_code}. Error message: {pin_response.text}")
     else:
         print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
     
