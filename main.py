@@ -15,8 +15,8 @@ def scrape_forex_events():
     table_header_for_the_rest = "| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     
     # Create a string variable to hold the table
-    table_for_all_md = table_header_for_all
-    table_for_low_md = table_for_moderate_md = table_for_high_md = table_header_for_the_rest
+    table_for_all_readme = table_header_for_all
+    table_for_low_readme = table_for_moderate_readme = table_for_high_readme = table_header_for_the_rest
 
     # Set Chrome options to run in headless mode
     chrome_options = Options()
@@ -66,21 +66,21 @@ def scrape_forex_events():
 
             if "High Volatility Expected" in sentiment:
                 high_events += f"Time: {time}\nCurrency: {currency}\nEvent: {event}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-                table_for_high_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                table_for_high_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "High"
                 
             elif "Moderate Volatility Expected" in sentiment:
-                table_for_moderate_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                table_for_moderate_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Moderate"
                 
             elif "Low Volatility Expected" in sentiment:
-                table_for_low_md += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+                table_for_low_readme += f"| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
                 sentiment = "Low"
                 
             all_events += f"Time: {time}\nCurrency: {currency}\nImportance: {sentiment}\nEvent: {event}\nActual: {actual}\nForecast: {forecast}\nPrevious: {previous}\n\n"
-            table_for_all_md += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
+            table_for_all_readme += f"| {time} | {currency} | {sentiment} | {event} | {actual} | {forecast} | {previous} |\n"
     
-    write_to_md(table_for_all_md,table_for_high_md,table_for_moderate_md,table_for_low_md,table_header_for_all,table_header_for_the_rest,formatted_date)
+    write_to_readme(table_for_all_readme,table_for_high_readme,table_for_moderate_readme,table_for_low_readme,table_header_for_all,table_header_for_the_rest,formatted_date)
 
     if not high_events:
         message = f"There is no high impact news on {formatted_date}.\n\n"
@@ -124,26 +124,26 @@ def send_telegram(message):
     else:
         print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
     
-def write_to_md(table_for_all_md, table_for_high_md, table_for_moderate_md, table_for_low_md, table_header_for_all, table_header_for_the_rest, formatted_date):
+def write_to_readme(table_for_all_readme, table_for_high_readme, table_for_moderate_readme, table_for_low_readme, table_header_for_all, table_header_for_the_rest, formatted_date):
     table_content = {
-        'table_for_all_md.txt': table_for_all_md,
-        'table_for_high_md.txt': table_for_high_md,
-        'table_for_moderate_md.txt': table_for_moderate_md,
-        'table_for_low_md.txt': table_for_low_md
+        'table_for_all_readme.txt': table_for_all_readme,
+        'table_for_high_readme.txt': table_for_high_readme,
+        'table_for_moderate_readme.txt': table_for_moderate_readme,
+        'table_for_low_readme.txt': table_for_low_readme
     }
 
     headers = {
-        'table_for_all_md.txt': f"## {formatted_date} - All Forex News",
-        'table_for_high_md.txt': f"## {formatted_date} - High Impact Forex News",
-        'table_for_moderate_md.txt': f"## {formatted_date} - Moderate Impact Forex News",
-        'table_for_low_md.txt': f"## {formatted_date} - Low Impact Forex News"
+        'table_for_all_readme.txt': f"## {formatted_date} - All Forex News",
+        'table_for_high_readme.txt': f"## {formatted_date} - High Impact Forex News",
+        'table_for_moderate_readme.txt': f"## {formatted_date} - Moderate Impact Forex News",
+        'table_for_low_readme.txt': f"## {formatted_date} - Low Impact Forex News"
     }
 
     no_news_messages = {
-        'table_for_all_md.txt': "There is no news today.",
-        'table_for_high_md.txt': "There is no high impact news today.",
-        'table_for_moderate_md.txt': "There is no moderate impact news today.",
-        'table_for_low_md.txt': "There is no low impact news today."
+        'table_for_all_readme.txt': "There is no news today.",
+        'table_for_high_readme.txt': "There is no high impact news today.",
+        'table_for_moderate_readme.txt': "There is no moderate impact news today.",
+        'table_for_low_readme.txt': "There is no low impact news today."
     }
 
     for filename, content in table_content.items():
