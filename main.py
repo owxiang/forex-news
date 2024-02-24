@@ -99,7 +99,7 @@ def scrape_forex_events():
         message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT\n\n{low_events}"
         
     current_hour = datetime.now().hour
-    if current_hour == 17: # 0100 (GMT+8) = 1700 (GMT+0)
+    if current_hour == 1: # GMT+0
         send_telegram(message_high_events)
         send_telegram(message_moderate_events)
         send_telegram(message_low_events)
