@@ -2,8 +2,8 @@
 
 | Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | CAD | Budget Balance (Dec) | -4.47B |  | -4.01B |
 | 00:00 | CAD | Budget Balance (YoY) (Dec) | -23.61B |  | -19.14B |
+| 00:00 | CAD | Budget Balance (Dec) | -4.47B |  | -4.01B |
 | 04:30 | USD | CFTC Aluminium speculative net positions | 4.0K |  | 3.9K |
 | 04:30 | USD | CFTC Copper speculative net positions | -15.9K |  | -32.7K |
 | 04:30 | USD | CFTC Corn speculative net positions | -266.1K |  | -245.9K |
