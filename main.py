@@ -66,6 +66,8 @@ def scrape_forex_events():
     url = os.environ['URL']
     all_events = ""
     high_events = ""
+    moderate_events = "" 
+    low_events = ""       
     table_header_for_all, table_header_for_the_rest = initialize_table()
     table_for_all_readme = table_header_for_all
     table_for_low_readme = table_for_moderate_readme = table_for_high_readme = table_header_for_the_rest
