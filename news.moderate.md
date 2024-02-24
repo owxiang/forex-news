@@ -1,15 +1,3 @@
 ## 24 February 2024 - Moderate Impact Forex News
 
-| Time (GMT+8) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 02:00 | USD | U.S. Baker Hughes Oil Rig Count | 503 |  | 497 |
-| 02:00 | USD | U.S. Baker Hughes Total Rig Count | 626 |  | 621 |
-| 04:30 | GBP | CFTC GBP speculative net positions | 46.3K |  | 50.5K |
-| 04:30 | USD | CFTC Crude Oil speculative net positions | 191.9K |  | 171.0K |
-| 04:30 | USD | CFTC Gold speculative net positions | 140.3K |  | 131.2K |
-| 04:30 | USD | CFTC Nasdaq 100 speculative net positions | 25.6K |  | 32.1K |
-| 04:30 | USD | CFTC S&P 500 speculative net positions | -218.5K |  | -215.8K |
-| 04:30 | AUD | CFTC AUD speculative net positions | -81.9K |  | -79.0K |
-| 04:30 | BRL | CFTC BRL speculative net positions | 16.5K |  | 19.3K |
-| 04:30 | JPY | CFTC JPY speculative net positions | -120.8K |  | -111.5K |
-| 04:30 | EUR | CFTC EUR speculative net positions | 68.0K |  | 52.8K |
+There is no moderate impact news today.
