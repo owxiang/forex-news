@@ -88,17 +88,17 @@ def scrape_forex_events():
     write_to_readme(table_for_all_readme,table_for_high_readme,table_for_moderate_readme,table_for_low_readme,table_header_for_all,table_header_for_the_rest,formatted_date)
 
     if not high_events:
-        message_high_events = f"There is no high impact news on {formatted_date}.\n\n"
+        message_high_events = f"No Forex high impact news on {formatted_date}.\n\n"
     else:
-        message_high_events = f"{formatted_date} Forex High Impact News Alert in GMT\n\n{high_events}"
+        message_high_events = f"Forex **High** Impact News Alert on {formatted_date} (GMT)\n\n{high_events}"
     if not moderate_events:
-        message_moderate_events = f"There is no moderate impact news on {formatted_date}.\n\n"
+        message_moderate_events = f"No Forex moderate impact news on {formatted_date}.\n\n"
     else:
-        message_moderate_events = f"{formatted_date} Forex Moderate Impact News Alert in GMT\n\n{moderate_events}"
+        message_moderate_events = f"Forex **Moderate** Impact News Alert on {formatted_date} (GMT)\n\n{moderate_events}"
     if not low_events:
-        message_low_events = f"There is no low impact news on {formatted_date}.\n\n"
+        message_low_events = f"No Forex low impact news on {formatted_date}.\n\n"
     else:
-        message_low_events = f"{formatted_date} Forex Low Impact News Alert in GMT\n\n{low_events}"
+        message_low_events = f"Forex **Low** Impact News Alert on {formatted_date} (GMT)\n\n{low_events}"
         
     current_hour = datetime.now().hour
     if current_hour == 1: # GMT+0
