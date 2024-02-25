@@ -34,8 +34,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          URL: ${{ vars.URL_GMT }}
-
+          URL:  ${{ secrets.URL }}
+          
       - name: Retrieve table content
         run: |
           cat table_for_all_readme.txt > news.all.md
