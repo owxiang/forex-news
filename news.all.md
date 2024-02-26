@@ -12,17 +12,17 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Moderate | Building Permits | 1.489M | 1.470M | 1.493M |
 | 13:30 | USD | Low | Building Permits (MoM) | -0.3% | -1.5% | 1.8% |
+| 13:30 | USD | Moderate | Building Permits | 1.489M | 1.470M | 1.493M |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) | 0.4% |  | -0.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) | -0.6% |  | 0.3% |
 | 13:55 | EUR | Low | French 12-Month BTF Auction | 3.471% |  | 3.477% |
 | 13:55 | EUR | Low | French 3-Month BTF Auction | 3.845% |  | 3.838% |
 | 13:55 | EUR | Low | French 6-Month BTF Auction | 3.768% |  | 3.746% |
-| 44 min | USD | High | New Home Sales (Jan) |  | 680K | 664K |
-| 44 min | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | 8.0% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | -27.4 |
-| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) | 1.5% |  | 7.2% |
+| 15:00 | USD | High | New Home Sales (Jan) | 661K | 680K | 651K |
+| 14 min | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | -27.4 |
+| 44 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Moderate | 2-Year Note Auction |  |  | 4.365% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.100% |
 | 18:00 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |

@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | USD | New Home Sales (Jan) |  | 680K | 664K |
+| 15:00 | USD | New Home Sales (Jan) | 661K | 680K | 651K |
