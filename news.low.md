@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
 | 05:00 | SGD | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
+| 05:00 | SGD | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
 | 07:00 | NOK | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
-| 41 min | GBP | BoE Breeden Speaks |  |  |  |
+| 09:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 11:00 | GBP | CBI Distributive Trades Survey (Feb) |  | -33 | -50 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Building Permits (MoM) |  | -1.5% | 1.8% |
