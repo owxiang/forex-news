@@ -7,9 +7,9 @@
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 43 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 43 min | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -33 | -50 |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) | -7 | -33 | -50 |
+| 13 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Low | Building Permits (MoM) |  | -1.5% | 1.8% |
 | 13:00 | USD | Moderate | Building Permits |  | 1.470M | 1.493M |
 | 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

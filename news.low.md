@@ -7,8 +7,8 @@
 | 07:00 | NOK | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
 | 09:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 43 min | GBP | CBI Distributive Trades Survey (Feb) |  | -33 | -50 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:00 | GBP | CBI Distributive Trades Survey (Feb) | -7 | -33 | -50 |
+| 13 min | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | USD | Building Permits (MoM) |  | -1.5% | 1.8% |
 | 13:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) |  |  | -0.7% |
