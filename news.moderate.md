@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 43 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | USD | Building Permits |  | 1.470M | 1.493M |
 | 13:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
