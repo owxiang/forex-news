@@ -9,12 +9,11 @@
 | 09:00 | GBP | BoE Breeden Speaks |  |  |  |
 | 11:00 | GBP | CBI Distributive Trades Survey (Feb) | -7 | -33 | -50 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13 min | USD | Building Permits (MoM) |  | -1.5% | 1.8% |
-| 13 min | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
-| 13 min | CAD | Manufacturing Sales (MoM) |  |  | -0.7% |
-| 38 min | EUR | French 12-Month BTF Auction |  |  | 3.477% |
-| 38 min | EUR | French 3-Month BTF Auction |  |  | 3.838% |
-| 38 min | EUR | French 6-Month BTF Auction |  |  | 3.746% |
+| 13:30 | USD | Building Permits (MoM) | -0.3% | -1.5% | 1.8% |
+| 13:30 | CAD | Manufacturing Sales (MoM) | 0.4% |  | -0.7% |
+| 13:55 | EUR | French 12-Month BTF Auction | 3.471% |  | 3.477% |
+| 13:55 | EUR | French 3-Month BTF Auction | 3.845% |  | 3.838% |
+| 13:55 | EUR | French 6-Month BTF Auction | 3.768% |  | 3.746% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) |  |  | -27.4 |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.100% |
 | 18:00 | USD | 3-Month Bill Auction |  |  | 5.230% |
