@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
@@ -27,6 +27,6 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.130% |  | 5.100% |
 | 18:00 | USD | Low | 3-Month Bill Auction | 5.255% |  | 5.230% |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.320% |  | 4.055% |
-| 23:30 | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.1% |
-| 23:30 | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 1.9% | 2.3% |
-| 23:30 | JPY | Low | National CPI (YoY) (Jan) |  |  | 2.6% |
+| 14 min | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.1% |
+| 14 min | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 1.9% | 2.3% |
+| 14 min | JPY | Low | National CPI (YoY) (Jan) |  |  | 2.6% |

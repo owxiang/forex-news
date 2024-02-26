@@ -11,4 +11,4 @@
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | 2-Year Note Auction | 4.691% |  | 4.365% |
 | 18:00 | USD | 5-Year Note Auction | 4.320% |  | 4.055% |
-| 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 1.9% | 2.3% |
+| 14 min | JPY | National Core CPI (YoY) (Jan) |  | 1.9% | 2.3% |
