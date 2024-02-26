@@ -16,6 +16,6 @@
 | 13:55 | EUR | French 6-Month BTF Auction | 3.768% |  | 3.746% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | -11.3 |  | -27.4 |
 | 16:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.100% |
-| 46 min | USD | 3-Month Bill Auction |  |  | 5.230% |
+| 18:00 | USD | 3-Month Bill Auction | 5.255% |  | 5.230% |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Jan) |  |  | -0.1% |
 | 23:30 | JPY | National CPI (YoY) (Jan) |  |  | 2.6% |

@@ -12,8 +12,8 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) | -0.3% | -1.5% | 1.8% |
 | 13:30 | USD | Moderate | Building Permits | 1.489M | 1.470M | 1.493M |
+| 13:30 | USD | Low | Building Permits (MoM) | -0.3% | -1.5% | 1.8% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) | 0.4% |  | -0.7% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) | -0.6% |  | 0.3% |
 | 13:55 | EUR | Low | French 12-Month BTF Auction | 3.471% |  | 3.477% |
@@ -25,8 +25,8 @@
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Moderate | 2-Year Note Auction | 4.691% |  | 4.365% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.130% |  | 5.100% |
-| 46 min | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
-| 46 min | USD | Moderate | 5-Year Note Auction |  |  | 4.055% |
+| 18:00 | USD | Low | 3-Month Bill Auction | 5.255% |  | 5.230% |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.320% |  | 4.055% |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Jan) |  |  | -0.1% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Jan) |  | 1.9% | 2.3% |
 | 23:30 | JPY | Low | National CPI (YoY) (Jan) |  |  | 2.6% |
