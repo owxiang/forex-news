@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 11:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:00 | USD | Building Permits |  | 1.470M | 1.493M |
-| 13:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 31 min | USD | Building Permits |  | 1.470M | 1.493M |
+| 31 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 31 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Wholesale Sales (MoM) |  |  | 0.3% |
 | 15:00 | USD | New Home Sales (MoM) (Jan) |  |  | 8.0% |
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
