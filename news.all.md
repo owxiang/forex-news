@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) |  | 3.0% | -1.7% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Jan) |  | 4.5% | -2.5% |
+| 42 min | SGD | Low | Industrial Production (YoY) (Jan) |  | 4.5% | -2.5% |
+| 42 min | SGD | Low | Industrial Production (MoM) (Jan) |  | 3.0% | -1.7% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) |  |  | 3.5% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -6.3% |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 11:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) |  | -33 | -50 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | USD | Moderate | Building Permits |  | 1.470M | 1.493M |
 | 13:00 | USD | Low | Building Permits (MoM) |  | -1.5% | 1.8% |
+| 13:00 | USD | Moderate | Building Permits |  | 1.470M | 1.493M |
 | 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |

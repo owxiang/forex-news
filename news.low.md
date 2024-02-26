@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (MoM) (Jan) |  | 3.0% | -1.7% |
-| 05:00 | SGD | Industrial Production (YoY) (Jan) |  | 4.5% | -2.5% |
+| 42 min | SGD | Industrial Production (YoY) (Jan) |  | 4.5% | -2.5% |
+| 42 min | SGD | Industrial Production (MoM) (Jan) |  | 3.0% | -1.7% |
 | 07:00 | NOK | Unemployment Rate (Jan) |  |  | 3.5% |
 | 08:00 | EUR | Spanish PPI (YoY) |  |  | -6.3% |
 | 09:00 | GBP | BoE Breeden Speaks |  |  |  |
