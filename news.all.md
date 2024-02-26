@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
@@ -19,8 +19,8 @@
 | 13:55 | EUR | Low | French 12-Month BTF Auction | 3.471% |  | 3.477% |
 | 13:55 | EUR | Low | French 3-Month BTF Auction | 3.845% |  | 3.838% |
 | 13:55 | EUR | Low | French 6-Month BTF Auction | 3.768% |  | 3.746% |
-| 15:00 | USD | High | New Home Sales (Jan) | 661K | 680K | 651K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) | 1.5% | 3.0% | 7.2% |
+| 15:00 | USD | High | New Home Sales (Jan) | 661K | 680K | 651K |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) | -11.3 |  | -27.4 |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Moderate | 2-Year Note Auction | 4.691% |  | 4.365% |
