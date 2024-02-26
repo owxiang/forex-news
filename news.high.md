@@ -1,3 +1,5 @@
-## 25 February 2024 - High Impact Forex News
+## 26 February 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | New Home Sales (Jan) |  | 680K | 664K |
