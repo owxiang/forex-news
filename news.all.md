@@ -2,24 +2,24 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 07:00 | NOK | Low | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
 | 09:00 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 11:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Feb) | -7 | -33 | -50 |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 31 min | USD | Moderate | Building Permits |  | 1.470M | 1.493M |
-| 31 min | USD | Low | Building Permits (MoM) |  | -1.5% | 1.8% |
-| 31 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 31 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | -0.7% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.3% |
-| 13:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.477% |
-| 13:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.838% |
-| 13:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.746% |
+| 13:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13 min | USD | Low | Building Permits (MoM) |  | -1.5% | 1.8% |
+| 13 min | USD | Moderate | Building Permits |  | 1.470M | 1.493M |
+| 13 min | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
+| 13 min | CAD | Low | Manufacturing Sales (MoM) |  |  | -0.7% |
+| 13 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.3% |
+| 38 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.477% |
+| 38 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.838% |
+| 38 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.746% |
 | 15:00 | USD | High | New Home Sales (Jan) |  | 680K | 664K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jan) |  |  | 8.0% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Feb) |  |  | -27.4 |
