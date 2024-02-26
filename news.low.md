@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 05:00 | SGD | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
+| 05:00 | SGD | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
 | 07:00 | NOK | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
 | 08:00 | EUR | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
 | 09:00 | GBP | BoE Breeden Speaks |  |  |  |
@@ -15,7 +15,7 @@
 | 13:55 | EUR | French 3-Month BTF Auction | 3.845% |  | 3.838% |
 | 13:55 | EUR | French 6-Month BTF Auction | 3.768% |  | 3.746% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | -11.3 |  | -27.4 |
-| 10 min | USD | 6-Month Bill Auction |  |  | 5.100% |
-| 18:00 | USD | 3-Month Bill Auction |  |  | 5.230% |
+| 16:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.100% |
+| 46 min | USD | 3-Month Bill Auction |  |  | 5.230% |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Jan) |  |  | -0.1% |
 | 23:30 | JPY | National CPI (YoY) (Jan) |  |  | 2.6% |

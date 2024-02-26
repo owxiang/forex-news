@@ -9,6 +9,6 @@
 | 13:30 | CAD | Wholesale Sales (MoM) | -0.6% |  | 0.3% |
 | 15:00 | USD | New Home Sales (MoM) (Jan) | 1.5% | 3.0% | 7.2% |
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10 min | USD | 2-Year Note Auction |  |  | 4.365% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.055% |
+| 16:30 | USD | 2-Year Note Auction | 4.691% |  | 4.365% |
+| 46 min | USD | 5-Year Note Auction |  |  | 4.055% |
 | 23:30 | JPY | National Core CPI (YoY) (Jan) |  | 1.9% | 2.3% |
