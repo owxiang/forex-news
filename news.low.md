@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
 | 05:30 | NOK | Consumer Confidence (Q1) | -26.60 |  | -29.70 |
-| 29 min | EUR | French Consumer Confidence (Feb) |  | 92 | 91 |
-| 08:30 | HKD | Exports (MoM) (Jan) |  |  | 11.0% |
-| 08:30 | HKD | Imports (MoM) (Jan) |  |  | 11.6% |
-| 08:30 | HKD | Trade Balance (Jan) |  |  | -59.9B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
-| 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
+| 07:45 | EUR | French Consumer Confidence (Feb) | 89 | 92 | 91 |
+| 11 min | HKD | Exports (MoM) (Jan) |  |  | 11.0% |
+| 11 min | HKD | Imports (MoM) (Jan) |  |  | 11.6% |
+| 11 min | HKD | Trade Balance (Jan) |  |  | -59.9B |
+| 41 min | EUR | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
+| 41 min | EUR | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
+| 41 min | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.770% |
 | 12:00 | MXN | Trade Balance (Jan) |  | -2.286B | 4.242B |
 | 12:00 | MXN | Trade Balance (USD) (Jan) |  |  | 1.856B |

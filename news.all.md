@@ -5,13 +5,13 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) | -26.60 |  | -29.70 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) | -29.0 | -29.0 | -29.6 |
-| 29 min | EUR | Low | French Consumer Confidence (Feb) |  | 92 | 91 |
-| 08:30 | HKD | Low | Exports (MoM) (Jan) |  |  | 11.0% |
-| 08:30 | HKD | Low | Imports (MoM) (Jan) |  |  | 11.6% |
-| 08:30 | HKD | Low | Trade Balance (Jan) |  |  | -59.9B |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
+| 07:45 | EUR | Low | French Consumer Confidence (Feb) | 89 | 92 | 91 |
+| 11 min | HKD | Low | Exports (MoM) (Jan) |  |  | 11.0% |
+| 11 min | HKD | Low | Imports (MoM) (Jan) |  |  | 11.6% |
+| 11 min | HKD | Low | Trade Balance (Jan) |  |  | -59.9B |
+| 41 min | EUR | Low | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
+| 41 min | EUR | Low | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
+| 41 min | EUR | Low | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.770% |
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,825.2K |
 | 12:00 | MXN | Low | Trade Balance (Jan) |  | -2.286B | 4.242B |
@@ -30,8 +30,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 417.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 6.0% | 5.4% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) |  | 6.0% | 5.4% |
 | 14:05 | USD | Low | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | CB Consumer Confidence (Feb) |  | 114.8 | 114.8 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Feb) |  | -4 | -15 |
