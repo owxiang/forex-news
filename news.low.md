@@ -1,21 +1,32 @@
-## 26 February 2024 - Low Impact Forex News
+## 27 February 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (YoY) (Jan) | 1.1% | 4.5% | -2.4% |
-| 05:00 | SGD | Industrial Production (MoM) (Jan) | -5.7% | 3.0% | -1.3% |
-| 07:00 | NOK | Unemployment Rate (Jan) | 4.5% |  | 3.5% |
-| 08:00 | EUR | Spanish PPI (YoY) (Jan) | -3.8% |  | -6.3% |
-| 09:00 | GBP | BoE Breeden Speaks |  |  |  |
-| 11:00 | GBP | CBI Distributive Trades Survey (Feb) | -7 | -33 | -50 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | USD | Building Permits (MoM) | -0.3% | -1.5% | 1.8% |
-| 13:30 | CAD | Manufacturing Sales (MoM) | 0.4% |  | -0.7% |
-| 13:55 | EUR | French 12-Month BTF Auction | 3.471% |  | 3.477% |
-| 13:55 | EUR | French 3-Month BTF Auction | 3.845% |  | 3.838% |
-| 13:55 | EUR | French 6-Month BTF Auction | 3.768% |  | 3.746% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (Feb) | -11.3 |  | -27.4 |
-| 16:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.100% |
-| 18:00 | USD | 3-Month Bill Auction | 5.255% |  | 5.230% |
-| 14 min | JPY | CPI, n.s.a (MoM) (Jan) |  |  | -0.1% |
-| 14 min | JPY | National CPI (YoY) (Jan) |  |  | 2.6% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
+| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -33.50 |
+| 07:45 | EUR | French Consumer Confidence (Feb) |  |  | 91 |
+| 08:30 | HKD | Exports (MoM) (Jan) |  |  | 11.0% |
+| 08:30 | HKD | Imports (MoM) (Jan) |  |  | 11.6% |
+| 08:30 | HKD | Trade Balance |  |  | -59.9B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
+| 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.770% |
+| 12:00 | MXN | Trade Balance (Jan) |  | -2.286B | 4.242B |
+| 12:00 | MXN | Trade Balance (USD) (Jan) |  |  | 1.856B |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) |  | 4.52% | 4.47% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Feb) |  | 0.82% | 0.31% |
+| 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 0.5% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.1% | 0.3% |
+| 13:55 | USD | Redbook (YoY) |  |  | 3.0% |
+| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 6.6% |
+| 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
+| 14:00 | USD | House Price Index (Dec) |  |  | 417.4 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.1% |
+| 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Richmond Manufacturing Index (Feb) |  | -4 | -15 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Feb) |  | -4 | -15 |
+| 15:00 | USD | Richmond Services Index (Feb) |  |  | 4 |
+| 15:30 | USD | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
+| 15:30 | USD | Texas Services Sector Outlook (Feb) |  |  | -9.3 |
