@@ -14,8 +14,8 @@
 | 10:10 | EUR | Italian 6-Month BOT Auction | 3.769% |  | 3.770% |
 | 12:00 | MXN | Trade Balance (Jan) | -4.315B | -2.286B | 4.242B |
 | 12:00 | MXN | Trade Balance (USD) (Jan) | -0.302B |  | 1.659B |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) | 0.78% | 0.82% | 0.31% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jan) | -7.3% |  | 0.1% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
 | 13:55 | USD | Redbook (YoY) | 2.7% |  | 3.0% |
