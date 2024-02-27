@@ -16,8 +16,8 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,825.2K |
 | 12:00 | MXN | Low | Trade Balance (Jan) |  | -2.286B | 4.242B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Jan) |  |  | 1.856B |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 4.52% | 4.47% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 0.82% | 0.31% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 4.52% | 4.47% |
 | 12:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
 | 13:30 | USD | High | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.6% |
 | 13:30 | USD | Moderate | Durable Goods Orders (MoM) (Jan) |  | -4.7% | 0.0% |
