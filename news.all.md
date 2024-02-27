@@ -16,8 +16,8 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,827.7K |  | 2,825.2K |
 | 12:00 | MXN | Low | Trade Balance (Jan) | -4.315B | -2.286B | 4.242B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Jan) | -0.302B |  | 1.659B |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 0.78% | 0.82% | 0.31% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 0.78% | 0.82% | 0.31% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) | -0.3% | 0.2% | -0.1% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jan) | -6.1% | -4.9% | -0.3% |
@@ -41,4 +41,4 @@
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.2% | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.327% |  | 4.109% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.168M |
+| 17 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.168M |

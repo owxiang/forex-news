@@ -13,4 +13,4 @@
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 3.2% | 2.9% | 2.9% |
 | 18:00 | USD | 7-Year Note Auction | 4.327% |  | 4.109% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 7.168M |
+| 17 min | USD | API Weekly Crude Oil Stock |  |  | 7.168M |
