@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | GfK German Consumer Climate (Mar) | -29.0 | -29.0 | -29.6 |
-| 11:00 | EUR | France Jobseekers Total |  |  | 2,825.2K |
+| 43 min | EUR | France Jobseekers Total |  |  | 2,825.2K |
 | 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Durable Goods Orders (MoM) (Jan) |  | -4.9% | 0.0% |
 | 13:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
