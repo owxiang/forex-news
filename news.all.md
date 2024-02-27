@@ -29,8 +29,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.4% |
 | 14:00 | USD | Low | House Price Index (Dec) | 417.8 |  | 417.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.3% |  | -0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 6.1% | 6.0% | 5.4% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.3% |  | -0.2% |
 | 14:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | CB Consumer Confidence (Feb) | 106.7 | 114.8 | 110.9 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Feb) | -5 | -9 | -15 |
@@ -41,4 +41,4 @@
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.2% | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.327% |  | 4.109% |
-| 17 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.168M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 8.428M |  | 7.168M |
