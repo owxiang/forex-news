@@ -26,5 +26,5 @@
 | 15:00 | USD | Richmond Manufacturing Index (Feb) | -5 | -9 | -15 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Feb) | -15 | -4 | -15 |
 | 15:00 | USD | Richmond Services Index (Feb) | -16 |  | 4 |
-| 14 min | USD | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
-| 14 min | USD | Texas Services Sector Outlook (Feb) |  |  | -9.3 |
+| 15:30 | USD | Dallas Fed Services Revenues (Feb) | 5.2 |  | -3.6 |
+| 15:30 | USD | Texas Services Sector Outlook (Feb) | -3.9 |  | -9.3 |

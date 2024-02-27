@@ -36,9 +36,9 @@
 | 15:00 | USD | Low | Richmond Manufacturing Index (Feb) | -5 | -9 | -15 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Feb) | -15 | -4 | -15 |
 | 15:00 | USD | Low | Richmond Services Index (Feb) | -16 |  | 4 |
-| 14 min | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
-| 14 min | USD | Low | Texas Services Sector Outlook (Feb) |  |  | -9.3 |
-| 44 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Feb) | 5.2 |  | -3.6 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Feb) | -3.9 |  | -9.3 |
+| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 9 min | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.2% | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.109% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.168M |
