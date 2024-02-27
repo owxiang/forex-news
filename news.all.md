@@ -13,11 +13,11 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) | 0.2% |  | 0.5% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.4% |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction | 3.769% |  | 3.770% |
-| 43 min | EUR | Moderate | France Jobseekers Total |  |  | 2,825.2K |
-| 12:00 | MXN | Low | Trade Balance (Jan) |  | -2.286B | 4.242B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Jan) |  |  | 1.856B |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 0.82% | 0.31% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 4.52% | 4.47% |
+| 11:00 | EUR | Moderate | France Jobseekers Total | 2,827.7K |  | 2,825.2K |
+| 47 min | MXN | Low | Trade Balance (Jan) |  | -2.286B | 4.242B |
+| 47 min | MXN | Low | Trade Balance (USD) (Jan) |  |  | 1.856B |
+| 47 min | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 4.52% | 4.47% |
+| 47 min | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 0.82% | 0.31% |
 | 12:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | High | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.6% |
