@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
-| 05:30 | NOK | Consumer Confidence (Q1) |  |  | -33.50 |
+| 15 min | NOK | Consumer Confidence (Q1) |  |  | -33.50 |
 | 07:45 | EUR | French Consumer Confidence (Feb) |  | 92 | 91 |
 | 08:30 | HKD | Exports (MoM) (Jan) |  |  | 11.0% |
 | 08:30 | HKD | Imports (MoM) (Jan) |  |  | 11.6% |
-| 08:30 | HKD | Trade Balance |  |  | -59.9B |
+| 08:30 | HKD | Trade Balance (Jan) |  |  | -59.9B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |

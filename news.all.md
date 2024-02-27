@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
-| 05:30 | NOK | Low | Consumer Confidence (Q1) |  |  | -33.50 |
+| 15 min | NOK | Low | Consumer Confidence (Q1) |  |  | -33.50 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -29.0 | -29.7 |
 | 07:45 | EUR | Low | French Consumer Confidence (Feb) |  | 92 | 91 |
 | 08:30 | HKD | Low | Exports (MoM) (Jan) |  |  | 11.0% |
 | 08:30 | HKD | Low | Imports (MoM) (Jan) |  |  | 11.6% |
-| 08:30 | HKD | Low | Trade Balance |  |  | -59.9B |
+| 08:30 | HKD | Low | Trade Balance (Jan) |  |  | -59.9B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jan) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jan) |  |  | 0.4% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
