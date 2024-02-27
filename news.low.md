@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
 | 05:30 | NOK | Consumer Confidence (Q1) |  |  | -33.50 |
-| 07:45 | EUR | French Consumer Confidence (Feb) |  |  | 91 |
+| 07:45 | EUR | French Consumer Confidence (Feb) |  | 92 | 91 |
 | 08:30 | HKD | Exports (MoM) (Jan) |  |  | 11.0% |
 | 08:30 | HKD | Imports (MoM) (Jan) |  |  | 11.6% |
 | 08:30 | HKD | Trade Balance |  |  | -59.9B |
@@ -20,8 +20,8 @@
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 0.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.1% | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 3.0% |
-| 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
 | 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 6.6% |
+| 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
 | 14:00 | USD | House Price Index (Dec) |  |  | 417.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.1% |
 | 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

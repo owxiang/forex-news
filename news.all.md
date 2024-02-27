@@ -5,7 +5,7 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 2.5% |  | 2.9% |
 | 05:30 | NOK | Low | Consumer Confidence (Q1) |  |  | -33.50 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Mar) |  | -29.0 | -29.7 |
-| 07:45 | EUR | Low | French Consumer Confidence (Feb) |  |  | 91 |
+| 07:45 | EUR | Low | French Consumer Confidence (Feb) |  | 92 | 91 |
 | 08:30 | HKD | Low | Exports (MoM) (Jan) |  |  | 11.0% |
 | 08:30 | HKD | Low | Imports (MoM) (Jan) |  |  | 11.6% |
 | 08:30 | HKD | Low | Trade Balance |  |  | -59.9B |
@@ -19,14 +19,15 @@
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) |  | 0.82% | 0.31% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) |  | 4.52% | 4.47% |
 | 12:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
+| 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | High | Core Durable Goods Orders (MoM) (Jan) |  | 0.2% | 0.6% |
-| 13:30 | USD | Moderate | Durable Goods Orders (MoM) (Jan) |  | -4.7% | 0.0% |
+| 13:30 | USD | Moderate | Durable Goods Orders (MoM) (Jan) |  | -4.9% | 0.0% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | 0.5% |
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.1% | 0.3% |
 | 13:40 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
-| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
 | 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 6.6% |
+| 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 417.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.2% |
