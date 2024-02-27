@@ -40,5 +40,5 @@
 | 15:30 | USD | Low | Texas Services Sector Outlook (Feb) | -3.9 |  | -9.3 |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.2% | 2.9% | 2.9% |
-| 44 min | USD | Moderate | 7-Year Note Auction |  |  | 4.109% |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 4.327% |  | 4.109% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.168M |
