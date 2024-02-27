@@ -20,8 +20,8 @@
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | 0.5% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.1% | 0.3% |
 | 13:55 | USD | Redbook (YoY) |  |  | 3.0% |
-| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 6.6% |
 | 14:00 | USD | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
+| 14:00 | USD | House Price Index (YoY) (Dec) |  |  | 6.6% |
 | 14:00 | USD | House Price Index (Dec) |  |  | 417.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.1% |
 | 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

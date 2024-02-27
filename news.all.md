@@ -25,8 +25,8 @@
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jan) |  | 0.1% | 0.3% |
 | 13:40 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
-| 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 6.6% |
 | 14:00 | USD | Low | House Price Index (MoM) (Dec) |  | 0.3% | 0.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (Dec) |  |  | 6.6% |
 | 14:00 | USD | Low | House Price Index (Dec) |  |  | 417.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) |  |  | 0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) |  |  | -0.2% |
