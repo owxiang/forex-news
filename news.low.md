@@ -14,8 +14,8 @@
 | 10:10 | EUR | Italian 6-Month BOT Auction | 3.769% |  | 3.770% |
 | 12:00 | MXN | Trade Balance (Jan) | -4.315B | -2.286B | 4.242B |
 | 12:00 | MXN | Trade Balance (USD) (Jan) | -0.302B |  | 1.659B |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Feb) | 0.78% | 0.82% | 0.31% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Jan) | -7.3% |  | 0.1% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
 | 13:55 | USD | Redbook (YoY) | 2.7% |  | 3.0% |
@@ -23,8 +23,8 @@
 | 14:00 | USD | House Price Index (MoM) (Dec) | 0.1% | 0.3% | 0.4% |
 | 14:00 | USD | House Price Index (Dec) | 417.8 |  | 417.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Dec) | 0.2% | 0.2% | 0.2% |
-| 46 min | USD | Richmond Manufacturing Index (Feb) |  | -9 | -15 |
-| 46 min | USD | Richmond Manufacturing Shipments (Feb) |  | -4 | -15 |
-| 46 min | USD | Richmond Services Index (Feb) |  |  | 4 |
-| 15:30 | USD | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
-| 15:30 | USD | Texas Services Sector Outlook (Feb) |  |  | -9.3 |
+| 15:00 | USD | Richmond Manufacturing Index (Feb) | -5 | -9 | -15 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Feb) | -15 | -4 | -15 |
+| 15:00 | USD | Richmond Services Index (Feb) | -16 |  | 4 |
+| 14 min | USD | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
+| 14 min | USD | Texas Services Sector Outlook (Feb) |  |  | -9.3 |

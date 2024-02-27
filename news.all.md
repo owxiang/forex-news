@@ -16,8 +16,8 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,827.7K |  | 2,825.2K |
 | 12:00 | MXN | Low | Trade Balance (Jan) | -4.315B | -2.286B | 4.242B |
 | 12:00 | MXN | Low | Trade Balance (USD) (Jan) | -0.302B |  | 1.659B |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Feb) | 0.78% | 0.82% | 0.31% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Feb) | 4.49% | 4.52% | 4.47% |
 | 13:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jan) | -0.3% | 0.2% | -0.1% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Jan) | -6.1% | -4.9% | -0.3% |
@@ -32,13 +32,13 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.3% |  | -0.2% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 6.1% | 6.0% | 5.4% |
 | 14:05 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 46 min | USD | High | CB Consumer Confidence (Feb) |  | 114.8 | 114.8 |
-| 46 min | USD | Low | Richmond Manufacturing Index (Feb) |  | -9 | -15 |
-| 46 min | USD | Low | Richmond Manufacturing Shipments (Feb) |  | -4 | -15 |
-| 46 min | USD | Low | Richmond Services Index (Feb) |  |  | 4 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Feb) |  |  | -9.3 |
-| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | USD | High | CB Consumer Confidence (Feb) | 106.7 | 114.8 | 110.9 |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Feb) | -5 | -9 | -15 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Feb) | -15 | -4 | -15 |
+| 15:00 | USD | Low | Richmond Services Index (Feb) | -16 |  | 4 |
+| 14 min | USD | Low | Dallas Fed Services Revenues (Feb) |  |  | -3.6 |
+| 14 min | USD | Low | Texas Services Sector Outlook (Feb) |  |  | -9.3 |
+| 44 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.109% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 7.168M |
