@@ -6,8 +6,8 @@
 | 05:00 | JPY | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:00 | HKD | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
 | 08:00 | HKD | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
+| 08:00 | HKD | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
 | 09:00 | EUR | Italian Business Confidence (Feb) | 87.3 | 88.7 | 88.1 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) | 97.0 | 96.9 | 96.4 |
 | 09:00 | CHF | ZEW Expectations (Feb) | 10.2 |  | -19.5 |
@@ -26,15 +26,13 @@
 | 12:00 | USD | MBA Purchase Index | 127.6 |  | 133.6 |
 | 12:00 | USD | Mortgage Market Index | 171.5 |  | 181.6 |
 | 12:00 | USD | Mortgage Refinance Index | 395.9 |  | 427.0 |
-| 2 min | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
-| 32 min | EUR | Spanish Business Confidence |  |  | -5.6 |
-| 13:30 | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 13:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.6% |
-| 13:30 | USD | PCE Prices (Q4) |  | 1.7% | 2.6% |
-| 13:30 | USD | Real Consumer Spending (Q4) |  | 2.8% | 3.1% |
-| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.4% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 4.10% |
+| 14 min | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
+| 14 min | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
+| 14 min | USD | GDP Sales (Q4) |  | 3.2% | 3.6% |
+| 14 min | USD | PCE Prices (Q4) |  | 1.7% | 2.6% |
+| 14 min | USD | Real Consumer Spending (Q4) |  | 2.8% | 3.1% |
+| 14 min | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.4% |
+| 14 min | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 4.10% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.031M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.434M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.095M |

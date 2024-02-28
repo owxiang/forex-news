@@ -7,11 +7,11 @@
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 10:25 | EUR | Italian 10-Year BTP Auction | 3.91% |  | 3.69% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 1.5% | 3.3% |
-| 13:30 | USD | Goods Trade Balance (Jan) |  | -88.40B | -88.46B |
-| 13:30 | USD | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
-| 13:30 | CAD | Current Account (Q4) |  | -1.9B | -3.2B |
-| 14:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 14 min | USD | GDP Price Index (QoQ) (Q4) |  | 1.5% | 3.3% |
+| 14 min | USD | Goods Trade Balance (Jan) |  | -88.40B | -88.46B |
+| 14 min | USD | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
+| 14 min | CAD | Current Account (Q4) |  | -1.9B | -3.2B |
+| 44 min | EUR | ECB McCaul Speaks |  |  |  |
 | 15:30 | GBP | BoE MPC Member Mann |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.741M |
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
