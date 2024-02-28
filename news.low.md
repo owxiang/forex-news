@@ -19,15 +19,14 @@
 | 10:00 | EUR | Selling Price Expectations (Feb) | 3.8 |  | 4.4 |
 | 10:00 | EUR | Services Sentiment (Feb) | 6.0 | 9.0 | 8.4 |
 | 10:00 | EUR | Industrial Sentiment (Feb) | -9.5 | -9.2 | -9.3 |
-| 13 min | EUR | Italian 5-Year BTP Auction |  |  | 3.14% |
-| 43 min | BRL | IGP-M Inflation Index (MoM) (Feb) |  | -0.50% | 0.07% |
-| 11:30 | BRL | Bank lending (MoM) |  |  | 1.4% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.06% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -10.6% |
-| 12:00 | USD | MBA Purchase Index |  |  | 133.6 |
-| 12:00 | USD | Mortgage Market Index |  |  | 181.6 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 427.0 |
-| 12:00 | EUR | Spanish Business Confidence |  |  | -5.6 |
+| 10:25 | EUR | Italian 5-Year BTP Auction | 3.41% |  | 3.14% |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) | -0.52% | -0.50% | 0.07% |
+| 46 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.06% |
+| 46 min | USD | MBA Mortgage Applications (WoW) |  |  | -10.6% |
+| 46 min | USD | MBA Purchase Index |  |  | 133.6 |
+| 46 min | USD | Mortgage Market Index |  |  | 181.6 |
+| 46 min | USD | Mortgage Refinance Index |  |  | 427.0 |
+| 46 min | EUR | Spanish Business Confidence |  |  | -5.6 |
 | 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
