@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | 0.7% | 0.6% | 1.3% |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | 0.7% | 0.6% | 1.4% |
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |

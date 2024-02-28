@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q4) | 0.7% | 0.6% | 1.3% |
+| 00:30 | AUD | Moderate | Construction Work Done (QoQ) (Q4) | 0.7% | 0.6% | 1.4% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Jan) | 3.40% | 3.60% | 3.40% |
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 05:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 1.6% |
-| 05:00 | JPY | Low | Leading Index |  | 110.0 | 108.1 |
-| 05:00 | JPY | Low | Leading Index (MoM) |  | 1.9% | -1.3% |
-| 08:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
-| 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 4.3% | 4.1% |
+| 41 min | JPY | Low | Coincident Indicator (MoM) |  |  | 1.6% |
+| 41 min | JPY | Low | Leading Index (MoM) |  | 1.9% | -1.3% |
+| 41 min | JPY | Low | Leading Index |  | 110.0 | 108.1 |
+| 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 4.3% | 4.3% |
+| 08:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.5% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) |  | 88.7 | 88.3 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) |  | 96.9 | 96.4 |
 | 09:00 | CHF | Low | ZEW Expectations (Feb) |  |  | -19.5 |
