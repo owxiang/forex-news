@@ -6,8 +6,8 @@
 | 05:00 | JPY | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:00 | HKD | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
 | 08:00 | HKD | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
+| 08:00 | HKD | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
 | 09:00 | EUR | Italian Business Confidence (Feb) | 87.3 | 88.7 | 88.1 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) | 97.0 | 96.9 | 96.4 |
 | 09:00 | CHF | ZEW Expectations (Feb) | 10.2 |  | -19.5 |
