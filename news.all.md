@@ -57,9 +57,8 @@
 | 15:30 | USD | Low | Gasoline Inventories | -2.832M | -1.460M | -0.294M |
 | 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 17:15 | USD | Low | Fed Collins Speaks |  |  |  |
-| 15 min | BRL | Low | Foreign Exchange Flows |  |  | 0.218B |
-| 30 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 17:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 51 min | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -560.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 382.0B |
 | 23:50 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | -6.7% | 1.4% |
@@ -67,4 +66,4 @@
 | 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 2.2% |
 | 23:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | -2.9% |
 | 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Jan) |  | 2.0% | 2.4% |
+| 23:50 | JPY | Low | Retail Sales (YoY) (Jan) |  | 2.0% | 2.1% |
