@@ -21,18 +21,18 @@
 | 10:00 | EUR | Industrial Sentiment (Feb) | -9.5 | -9.2 | -9.3 |
 | 10:25 | EUR | Italian 5-Year BTP Auction | 3.41% |  | 3.14% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) | -0.52% | -0.50% | 0.07% |
-| 46 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.06% |
-| 46 min | USD | MBA Mortgage Applications (WoW) |  |  | -10.6% |
-| 46 min | USD | MBA Purchase Index |  |  | 133.6 |
-| 46 min | USD | Mortgage Market Index |  |  | 181.6 |
-| 46 min | USD | Mortgage Refinance Index |  |  | 427.0 |
-| 46 min | EUR | Spanish Business Confidence |  |  | -5.6 |
-| 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.04% |  | 7.06% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -5.6% |  | -10.6% |
+| 12:00 | USD | MBA Purchase Index | 127.6 |  | 133.6 |
+| 12:00 | USD | Mortgage Market Index | 171.5 |  | 181.6 |
+| 12:00 | USD | Mortgage Refinance Index | 395.9 |  | 427.0 |
+| 2 min | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
+| 32 min | EUR | Spanish Business Confidence |  |  | -5.6 |
 | 13:30 | USD | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
 | 13:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 13:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.2% |
-| 13:30 | USD | PCE Prices (Q4) |  | 1.7% | 1.7% |
-| 13:30 | USD | Real Consumer Spending (Q4) |  | 2.8% | 2.8% |
+| 13:30 | USD | GDP Sales (Q4) |  | 3.2% | 3.6% |
+| 13:30 | USD | PCE Prices (Q4) |  | 1.7% | 2.6% |
+| 13:30 | USD | Real Consumer Spending (Q4) |  | 2.8% | 3.1% |
 | 13:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.4% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) |  |  | 4.10% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.031M |
