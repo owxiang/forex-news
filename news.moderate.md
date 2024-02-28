@@ -5,7 +5,7 @@
 | 00:30 | AUD | Construction Work Done (QoQ) (Q4) | 0.7% | 0.6% | 1.3% |
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 54 min | NZD | RBNZ Press Conference |  |  |  |
+| 02:00 | NZD | RBNZ Press Conference |  |  |  |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.69% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 1.5% | 3.3% |
 | 13:30 | USD | Goods Trade Balance (Jan) |  | -88.40B | -87.89B |

@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Jan) | 3.40% | 3.60% | 3.40% |
 | 05:00 | JPY | Coincident Indicator (MoM) |  |  | 1.6% |
-| 05:00 | JPY | Leading Index (MoM) |  | 1.9% | -1.3% |
 | 05:00 | JPY | Leading Index |  | 110.0 | 108.1 |
+| 05:00 | JPY | Leading Index (MoM) |  | 1.9% | -1.3% |
 | 08:30 | HKD | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
 | 08:30 | HKD | GDP (YoY) (Q4) |  | 4.3% | 4.1% |
 | 09:00 | EUR | Italian Business Confidence (Feb) |  | 88.7 | 88.3 |

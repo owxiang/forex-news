@@ -7,10 +7,10 @@
 | 01:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 01:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 54 min | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 02:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) |  |  | 1.6% |
-| 05:00 | JPY | Low | Leading Index (MoM) |  | 1.9% | -1.3% |
 | 05:00 | JPY | Low | Leading Index |  | 110.0 | 108.1 |
+| 05:00 | JPY | Low | Leading Index (MoM) |  | 1.9% | -1.3% |
 | 08:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
 | 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 4.3% | 4.1% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) |  | 88.7 | 88.3 |
