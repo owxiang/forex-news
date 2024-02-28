@@ -11,11 +11,11 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Low | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Low | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:30 | HKD | Low | GDP (YoY) (Q4) |  | 4.3% | 4.1% |
-| 08:30 | HKD | Low | GDP (QoQ) (Q4) |  | 0.5% | 0.1% |
-| 09:00 | EUR | Low | Italian Business Confidence (Feb) |  | 88.7 | 88.3 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Feb) |  | 96.9 | 96.4 |
-| 09:00 | CHF | Low | ZEW Expectations (Feb) |  |  | -19.5 |
+| 08:00 | HKD | Low | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
+| 08:00 | HKD | Low | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
+| 41 min | EUR | Low | Italian Business Confidence (Feb) |  | 88.7 | 88.3 |
+| 41 min | EUR | Low | Italian Consumer Confidence (Feb) |  | 96.9 | 96.4 |
+| 41 min | CHF | Low | ZEW Expectations (Feb) |  |  | -19.5 |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  |  |
 | 10:00 | EUR | Low | Business and Consumer Survey (Feb) |  | 96.7 | 96.2 |
 | 10:00 | EUR | Low | Business Climate (Feb) |  |  | -0.40 |
