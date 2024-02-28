@@ -32,15 +32,15 @@
 | 13:30 | USD | Real Consumer Spending (Q4) | 3.0% | 2.8% | 3.1% |
 | 13:30 | USD | Wholesale Inventories (MoM) | -0.1% | 0.1% | 0.4% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Dec) | 3.77% |  | 3.88% |
-| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.031M |
-| 15 min | USD | Crude Oil Imports |  |  | -0.434M |
-| 15 min | USD | Distillate Fuel Production |  |  | 0.095M |
-| 15 min | USD | EIA Weekly Distillates Stocks |  | -2.140M | -4.009M |
-| 15 min | USD | Gasoline Production |  |  | -0.146M |
-| 15 min | USD | Heating Oil Stockpiles |  |  | -0.351M |
-| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  |  |
-| 15 min | USD | Gasoline Inventories |  | -1.460M | -0.294M |
-| 17:15 | USD | Fed Collins Speaks |  |  |  |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.100M |  | 0.031M |
+| 15:30 | USD | Crude Oil Imports | -0.032M |  | -0.434M |
+| 15:30 | USD | Distillate Fuel Production | 0.118M |  | 0.095M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -0.510M | -2.140M | -4.009M |
+| 15:30 | USD | Gasoline Production | 0.390M |  | -0.146M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.137M |  | -0.351M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  |  |
+| 15:30 | USD | Gasoline Inventories | -2.832M | -1.460M | -0.294M |
+| 55 min | USD | Fed Collins Speaks |  |  |  |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.218B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -560.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 382.0B |

@@ -44,19 +44,19 @@
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Dec) | 3.77% |  | 3.88% |
 | 13:30 | CAD | Moderate | Current Account (Q4) | -1.6B | -1.9B | -4.7B |
 | 14:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 15 min | USD | High | Crude Oil Inventories |  | 3.100M | 3.514M |
-| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.031M |
-| 15 min | USD | Low | Crude Oil Imports |  |  | -0.434M |
-| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.741M |
-| 15 min | USD | Low | Distillate Fuel Production |  |  | 0.095M |
-| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | -2.140M | -4.009M |
-| 15 min | USD | Low | Gasoline Production |  |  | -0.146M |
-| 15 min | USD | Low | Heating Oil Stockpiles |  |  | -0.351M |
-| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  |  |
-| 15 min | USD | Low | Gasoline Inventories |  | -1.460M | -0.294M |
-| 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 17:15 | USD | Low | Fed Collins Speaks |  |  |  |
+| 15:30 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 4.199M | 3.100M | 3.514M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.100M |  | 0.031M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.032M |  | -0.434M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 1.458M |  | 0.741M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.118M |  | 0.095M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.510M | -2.140M | -4.009M |
+| 15:30 | USD | Low | Gasoline Production | 0.390M |  | -0.146M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.137M |  | -0.351M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  |  |
+| 15:30 | USD | Low | Gasoline Inventories | -2.832M | -1.460M | -0.294M |
+| 40 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 55 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.218B |
 | 17:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
