@@ -6,7 +6,7 @@
 | 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 01:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 02:00 | NZD | RBNZ Press Conference |  |  |  |
-| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.69% |
+| 55 min | EUR | Italian 10-Year BTP Auction |  |  | 3.69% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 1.5% | 3.3% |
 | 13:30 | USD | Goods Trade Balance (Jan) |  | -88.40B | -87.89B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |

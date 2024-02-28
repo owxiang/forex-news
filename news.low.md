@@ -6,20 +6,20 @@
 | 05:00 | JPY | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:00 | HKD | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 08:00 | HKD | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
-| 41 min | EUR | Italian Business Confidence (Feb) |  | 88.7 | 88.3 |
-| 41 min | EUR | Italian Consumer Confidence (Feb) |  | 96.9 | 96.4 |
-| 41 min | CHF | ZEW Expectations (Feb) |  |  | -19.5 |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  |  |
-| 10:00 | EUR | Business and Consumer Survey (Feb) |  | 96.7 | 96.2 |
-| 10:00 | EUR | Business Climate (Feb) |  |  | -0.40 |
-| 10:00 | EUR | Consumer Confidence (Feb) |  | -15.5 | -16.1 |
-| 10:00 | EUR | Consumer Inflation Expectation (Feb) |  |  | 11.9 |
-| 10:00 | EUR | Selling Price Expectations (Feb) |  |  | 4.6 |
-| 10:00 | EUR | Services Sentiment (Feb) |  | 9.0 | 8.8 |
-| 10:00 | EUR | Industrial Sentiment (Feb) |  | -9.2 | -9.4 |
-| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.14% |
+| 08:00 | HKD | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
+| 09:00 | EUR | Italian Business Confidence (Feb) | 87.3 | 88.7 | 88.1 |
+| 09:00 | CHF | ZEW Expectations (Feb) | 10.2 |  | -19.5 |
+| 09:01 | EUR | Italian Consumer Confidence (Feb) | 97.0 | 96.9 | 96.4 |
+| 45 min | GBP | 7-Year Treasury Gilt Auction |  |  |  |
+| 45 min | EUR | Business and Consumer Survey (Feb) |  | 96.7 | 96.2 |
+| 45 min | EUR | Business Climate (Feb) |  |  | -0.40 |
+| 45 min | EUR | Consumer Confidence (Feb) |  | -15.5 | -16.1 |
+| 45 min | EUR | Consumer Inflation Expectation (Feb) |  |  | 11.9 |
+| 45 min | EUR | Selling Price Expectations (Feb) |  |  | 4.6 |
+| 45 min | EUR | Services Sentiment (Feb) |  | 9.0 | 8.8 |
+| 45 min | EUR | Industrial Sentiment (Feb) |  | -9.2 | -9.4 |
+| 55 min | EUR | Italian 5-Year BTP Auction |  |  | 3.14% |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Feb) |  | -0.50% | 0.07% |
 | 11:30 | BRL | Bank lending (MoM) |  |  | 1.4% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.06% |
