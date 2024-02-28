@@ -14,7 +14,7 @@
 | 14:00 | EUR | ECB McCaul Speaks |  |  |  |
 | 15:30 | GBP | BoE MPC Member Mann |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.458M |  | 0.741M |
-| 40 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 17:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 30 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 23:50 | JPY | Industrial Production (MoM) (Jan) |  | -6.7% | 1.4% |

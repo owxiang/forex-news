@@ -6,8 +6,8 @@
 | 05:00 | JPY | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:00 | HKD | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 08:00 | HKD | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
+| 08:00 | HKD | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Italian Business Confidence (Feb) | 87.3 | 88.7 | 88.1 |
 | 09:00 | EUR | Italian Consumer Confidence (Feb) | 97.0 | 96.9 | 96.4 |
 | 09:00 | CHF | ZEW Expectations (Feb) | 10.2 |  | -19.5 |
@@ -40,8 +40,8 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.137M |  | -0.351M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  |  |
 | 15:30 | USD | Gasoline Inventories | -2.832M | -1.460M | -0.294M |
-| 55 min | USD | Fed Collins Speaks |  |  |  |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.218B |
+| 17:15 | USD | Fed Collins Speaks |  |  |  |
+| 15 min | BRL | Foreign Exchange Flows |  |  | 0.218B |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -560.8B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 382.0B |
 | 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | -6.2% |

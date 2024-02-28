@@ -11,8 +11,8 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Low | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Low | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:00 | HKD | Low | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 08:00 | HKD | Low | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
+| 08:00 | HKD | Low | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.3 | 88.7 | 88.1 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) | 97.0 | 96.9 | 96.4 |
 | 09:00 | CHF | Low | ZEW Expectations (Feb) | 10.2 |  | -19.5 |
@@ -55,10 +55,10 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.137M |  | -0.351M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  |  |
 | 15:30 | USD | Low | Gasoline Inventories | -2.832M | -1.460M | -0.294M |
-| 40 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 55 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.218B |
-| 17:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 17:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 17:15 | USD | Low | Fed Collins Speaks |  |  |  |
+| 15 min | BRL | Low | Foreign Exchange Flows |  |  | 0.218B |
+| 30 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -560.8B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 382.0B |
