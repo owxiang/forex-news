@@ -11,8 +11,8 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) | 1.3% |  | 1.6% |
 | 05:00 | JPY | Low | Leading Index (MoM) | 2.1% | 1.9% | -1.3% |
 | 05:00 | JPY | Low | Leading Index (Dec) | 110.2 | 110.0 | 108.1 |
-| 08:00 | HKD | Low | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 08:00 | HKD | Low | GDP (YoY) (Q3) | 4.3% | 4.3% | 4.1% |
+| 08:00 | HKD | Low | GDP (QoQ) (Q4) | 0.4% | 0.5% | 0.1% |
 | 09:00 | EUR | Low | Italian Business Confidence (Feb) | 87.3 | 88.7 | 88.1 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Feb) | 97.0 | 96.9 | 96.4 |
 | 09:00 | CHF | Low | ZEW Expectations (Feb) | 10.2 |  | -19.5 |
@@ -32,19 +32,18 @@
 | 12:00 | USD | Low | MBA Purchase Index | 127.6 |  | 133.6 |
 | 12:00 | USD | Low | Mortgage Market Index | 171.5 |  | 181.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 395.9 |  | 427.0 |
-| 14 min | USD | Low | Core PCE Prices (Q4) |  | 2.00% | 2.00% |
-| 14 min | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 14 min | USD | High | GDP (QoQ) (Q4) |  | 3.3% | 4.9% |
-| 14 min | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 1.5% | 3.3% |
-| 14 min | USD | Low | GDP Sales (Q4) |  | 3.2% | 3.6% |
-| 14 min | USD | Moderate | Goods Trade Balance (Jan) |  | -88.40B | -88.46B |
-| 14 min | USD | Low | PCE Prices (Q4) |  | 1.7% | 2.6% |
-| 14 min | USD | Low | Real Consumer Spending (Q4) |  | 2.8% | 3.1% |
-| 14 min | USD | Moderate | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
-| 14 min | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | 0.4% |
-| 14 min | CAD | Low | Average Weekly Earnings (YoY) (Dec) |  |  | 4.10% |
-| 14 min | CAD | Moderate | Current Account (Q4) |  | -1.9B | -3.2B |
-| 44 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 13:30 | USD | Low | Core PCE Prices (Q4) | 2.10% | 2.00% | 2.00% |
+| 13:30 | USD | High | GDP (QoQ) (Q4) | 3.2% | 3.3% | 4.9% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 1.7% | 1.5% | 3.3% |
+| 13:30 | USD | Low | GDP Sales (Q4) | 3.5% | 3.2% | 3.6% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Jan) | -90.20B | -88.40B | -88.46B |
+| 13:30 | USD | Low | PCE Prices (Q4) | 1.8% | 1.7% | 2.6% |
+| 13:30 | USD | Low | Real Consumer Spending (Q4) | 3.0% | 2.8% | 3.1% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jan) | 0.3% |  | 0.4% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) | -0.1% | 0.1% | 0.4% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Dec) | 3.77% |  | 3.88% |
+| 13:30 | CAD | Moderate | Current Account (Q4) | -1.6B | -1.9B | -4.7B |
+| 14:00 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:30 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 3.100M | 3.514M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.031M |
