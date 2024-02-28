@@ -1,16 +1,20 @@
-## 27 February 2024 - Moderate Impact Forex News
+## 28 February 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | GfK German Consumer Climate (Mar) | -29.0 | -29.0 | -29.6 |
-| 11:00 | EUR | France Jobseekers Total | 2,827.7K |  | 2,825.2K |
-| 13:00 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Jan) | -0.3% | 0.2% | -0.1% |
-| 13:40 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec) | -0.3% |  | -0.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec) | 6.1% | 6.0% | 5.4% |
-| 14:05 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 3.2% | 2.9% | 2.9% |
-| 18:00 | USD | 7-Year Note Auction | 4.327% |  | 4.109% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 8.428M |  | 7.168M |
+| 00:30 | AUD | Construction Work Done (QoQ) (Q4) | 0.7% | 0.6% | 1.3% |
+| 01:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 01:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 54 min | NZD | RBNZ Press Conference |  |  |  |
+| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.69% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q4) |  | 1.5% | 3.3% |
+| 13:30 | USD | Goods Trade Balance (Jan) |  | -88.40B | -87.89B |
+| 13:30 | USD | Retail Inventories Ex Auto (Jan) |  |  | 0.4% |
+| 13:30 | CAD | Current Account (Q4) |  | -1.9B | -3.2B |
+| 14:00 | EUR | ECB McCaul Speaks |  |  |  |
+| 15:30 | GBP | BoE MPC Member Mann |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.741M |
+| 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 17:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 23:50 | JPY | Industrial Production (MoM) (Jan) |  | -6.7% | 1.4% |
