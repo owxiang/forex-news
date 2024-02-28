@@ -41,10 +41,10 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  |  |
 | 15:30 | USD | Gasoline Inventories | -2.832M | -1.460M | -0.294M |
 | 17:15 | USD | Fed Collins Speaks |  |  |  |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | -560.8B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 382.0B |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | -6.2% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 2.2% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) |  |  | -2.9% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Jan) |  | 2.0% | 2.1% |
+| 32 min | JPY | Foreign Bonds Buying |  |  | -560.8B |
+| 32 min | JPY | Foreign Investments in Japanese Stocks |  |  | 382.0B |
+| 32 min | JPY | Industrial Production forecast 1m ahead (MoM) (Feb) |  |  | -6.2% |
+| 32 min | JPY | Industrial Production forecast 2m ahead (MoM) (Mar) |  |  | 2.2% |
+| 32 min | JPY | Large Retailers' Sales (MoM) |  |  | -2.9% |
+| 32 min | JPY | Large Scale Retail Sales YoY (YoY) (Jan) |  |  | 3.0% |
+| 32 min | JPY | Retail Sales (YoY) (Jan) |  | 2.0% | 2.1% |

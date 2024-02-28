@@ -17,4 +17,4 @@
 | 17:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 17:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 23:50 | JPY | Industrial Production (MoM) (Jan) |  | -6.7% | 1.4% |
+| 32 min | JPY | Industrial Production (MoM) (Jan) |  | -6.7% | 1.4% |
