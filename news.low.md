@@ -20,8 +20,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -1.1% |
 | 07:45 | EUR | French CPI (YoY) (Feb) | 2.9% | 2.7% | 3.1% |
 | 07:45 | EUR | French HICP (YoY) | 3.1% | 3.0% | 3.4% |
-| 07:45 | EUR | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
 | 07:45 | EUR | PPI (YoY) (Jan) | -5.10% |  | -1.30% |
+| 07:45 | EUR | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
 | 08:00 | CHF | Official Reserves Assets (Jan) | 733.7B |  | 724.4B |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.3% | 0.3% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.2% | -0.2% |
@@ -33,8 +33,8 @@
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) | 2.10% |  | -0.90% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 3.5% |  | 3.7% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.5% |  | 0.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
@@ -53,15 +53,15 @@
 | 09:30 | GBP | Net Lending to Individuals | 0.8B | 1.9B | 0.4B |
 | 09:30 | ZAR | PPI (YoY) (Jan) | 4.7% | 4.8% | 4.0% |
 | 09:30 | ZAR | PPI (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
-| 12 min | INR | Federal Fiscal Deficit (Jan) |  |  | 9,822.78B |
-| 42 min | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.33B |
-| 11:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | MXN | Unemployment Rate (Jan) |  |  | 2.80% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Jan) |  | 2.80% | 2.60% |
-| 12:00 | INR | GDP Annual |  | 7.3% | 7.2% |
-| 12:00 | INR | Infrastructure Output (YoY) (Jan) |  |  | 3.8% |
-| 12:00 | ZAR | Trade Balance (Jan) |  | -5.20B | 14.06B |
+| 10:00 | INR | Federal Fiscal Deficit (Jan) | 11,026.02B |  | 9,822.78B |
+| 17 min | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
+| 17 min | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.33B |
+| 17 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 47 min | MXN | Unemployment Rate (Jan) |  |  | 2.80% |
+| 47 min | MXN | Unemployment Rate n.s.a. (Jan) |  | 2.80% | 2.60% |
+| 47 min | INR | GDP Annual |  | 7.3% | 7.2% |
+| 47 min | INR | Infrastructure Output (YoY) (Jan) |  |  | 3.8% |
+| 47 min | ZAR | Trade Balance (Jan) |  | -5.20B | 14.06B |
 | 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
 | 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |

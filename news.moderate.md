@@ -8,8 +8,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | -0.4% | 0.5% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) | -0.3% | -0.1% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Feb) | 0.8% | 0.7% | -0.2% |
-| 07:45 | EUR | French GDP (QoQ) (Q4) | 0.1% | 0.0% | -0.1% |
 | 07:45 | EUR | French GDP (YoY) | 0.7% | 0.7% | 0.6% |
+| 07:45 | EUR | French GDP (QoQ) (Q4) | 0.1% | 0.0% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) | 0.9% | 0.7% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) | 101.6 | 101.6 | 102.5 |
 | 08:00 | CHF | GDP (QoQ) (Q4) | 0.3% | 0.1% | 0.3% |
@@ -18,17 +18,17 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:55 | EUR | German Unemployment Change (Feb) | 11K | 6K | -2K |
 | 08:55 | EUR | German Unemployment Rate (Feb) | 5.9% | 5.8% | 5.8% |
-| 12:00 | INR | GDP Quarterly (YoY) (Q3) |  | 6.6% | 7.6% |
-| 12:00 | BRL | Unemployment Rate |  | 7.8% | 7.4% |
+| 47 min | INR | GDP Quarterly (YoY) (Q3) |  | 6.6% | 7.6% |
+| 47 min | BRL | Unemployment Rate |  | 7.8% | 7.4% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Feb) |  | 2.6% | 2.9% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,874K | 1,862K |
 | 13:30 | USD | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.2% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
+| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | CAD | GDP (YoY) (Q4) |  |  | 0.47% |
 | 13:30 | CAD | GDP (QoQ) (Q4) |  |  | -0.3% |
-| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 0.8% | -1.1% |
 | 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | 8.3% |
