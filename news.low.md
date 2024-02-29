@@ -17,41 +17,41 @@
 | 06:00 | ZAR | Private Sector Credit (Jan) | 3.16% | 4.34% | 4.94% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | 0.0% | 0.0% | 0.2% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jan) | -1.4% | -1.5% | -1.7% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.9% |
-| 28 min | EUR | French CPI (YoY) (Feb) |  | 2.7% | 3.1% |
-| 28 min | EUR | French HICP (YoY) |  | 3.0% | 3.4% |
-| 28 min | EUR | French PPI (MoM) (Jan) |  |  | 0.1% |
-| 28 min | EUR | PPI (YoY) (Jan) |  |  | -0.90% |
-| 43 min | CHF | Official Reserves Assets (Jan) |  |  | 724.4B |
-| 43 min | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
-| 43 min | EUR | Spanish HICP (MoM) (Feb) |  | 0.2% | -0.2% |
-| 08:30 | HKD | M3 Money Supply (Jan) |  |  | 1.9% |
-| 08:55 | EUR | German Unemployment (Feb) |  |  | 2.694M |
-| 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 3.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.4% |
-| 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 3.5% |
-| 09:00 | EUR | Spanish Current account (Dec) |  |  | 2.77B |
-| 09:00 | NOK | Central Bank Currency Purchase (Mar) |  |  | 350.0M |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -1.1% |
+| 07:45 | EUR | French CPI (YoY) (Feb) | 2.9% | 2.7% | 3.1% |
+| 07:45 | EUR | French HICP (YoY) | 3.1% | 3.0% | 3.4% |
+| 07:45 | EUR | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
+| 07:45 | EUR | PPI (YoY) (Jan) | -5.10% |  | -1.30% |
+| 08:00 | CHF | Official Reserves Assets (Jan) | 733.7B |  | 724.4B |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.3% | 0.3% | 0.1% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.2% | -0.2% |
+| 12 min | HKD | M3 Money Supply (Jan) |  |  | 1.9% |
+| 37 min | EUR | German Unemployment (Feb) |  |  | 2.694M |
+| 37 min | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
+| 42 min | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
+| 42 min | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
+| 42 min | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
+| 42 min | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 42 min | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
+| 42 min | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
+| 42 min | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |
+| 42 min | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
+| 42 min | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
+| 42 min | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
+| 42 min | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 3.0% |
+| 42 min | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
+| 42 min | EUR | Saxony CPI (YoY) (Feb) |  |  | 3.5% |
+| 42 min | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.4% |
+| 42 min | EUR | Spanish Current account (Dec) |  |  | 2.77B |
+| 42 min | NOK | Central Bank Currency Purchase (Mar) |  |  | 350.0M |
 | 09:30 | GBP | BoE Consumer Credit (Jan) |  | 1.600B | 1.197B |
 | 09:30 | GBP | M3 Money Supply (Jan) |  |  | 2,998.2B |
 | 09:30 | GBP | M4 Money Supply (MoM) (Jan) |  | 0.3% | 0.5% |
 | 09:30 | GBP | Mortgage Approvals (Jan) |  | 52.00K | 50.46K |
 | 09:30 | GBP | Mortgage Lending (Jan) |  | 0.20B | -0.83B |
 | 09:30 | GBP | Net Lending to Individuals |  | 1.9B | 0.4B |
-| 09:30 | ZAR | PPI (YoY) (Jan) |  | 4.8% | 4.0% |
 | 09:30 | ZAR | PPI (MoM) (Jan) |  | 0.1% | -0.6% |
+| 09:30 | ZAR | PPI (YoY) (Jan) |  | 4.8% | 4.0% |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) |  |  | 9,822.78B |
 | 11:00 | EUR | Italian Trade Balance Non-EU (Jan) |  |  | 8.33B |
 | 11:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
@@ -62,8 +62,8 @@
 | 12:00 | INR | Infrastructure Output (YoY) (Jan) |  |  | 3.8% |
 | 12:00 | ZAR | Trade Balance (Jan) |  | -5.20B | 14.06B |
 | 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
-| 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
+| 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
 | 13:30 | USD | Personal Income (MoM) (Jan) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.5% |
