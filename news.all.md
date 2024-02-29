@@ -84,26 +84,26 @@
 | 13:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.5% | 2.6% | 2.9% |
 | 13:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
-| 14 min | USD | Moderate | Continuing Jobless Claims |  | 1,874K | 1,862K |
-| 14 min | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.2% |
-| 14 min | USD | High | Core PCE Price Index (YoY) (Jan) |  | 2.8% | 2.9% |
-| 14 min | USD | High | Initial Jobless Claims |  | 209K | 201K |
-| 14 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 215.25K |
-| 14 min | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
-| 14 min | USD | Moderate | PCE price index (MoM) (Jan) |  | 0.3% | 0.2% |
-| 14 min | USD | Low | Personal Income (MoM) (Jan) |  | 0.4% | 0.3% |
-| 14 min | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
-| 14 min | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.5% |
-| 14 min | CAD | Low | GDP Implicit Price (QoQ) (Q4) |  |  | 1.80% |
-| 14 min | CAD | Moderate | GDP (YoY) (Q4) |  |  | 0.47% |
-| 14 min | CAD | Moderate | GDP (QoQ) (Q4) |  |  | -0.3% |
-| 14 min | CAD | Moderate | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
-| 14 min | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 0.8% | -1.1% |
-| 15 min | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
-| 44 min | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.60% |
-| 14:45 | USD | High | Chicago PMI (Feb) |  | 48.1 | 46.0 |
-| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | 1.4% | 8.3% |
-| 15:00 | USD | Low | Pending Home Sales Index (Jan) |  |  | 77.3 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,905K | 1,874K | 1,860K |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.4% | 0.4% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) | 2.8% | 2.8% | 2.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 215K | 209K | 202K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.50K |  | 215.50K |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Personal Income (MoM) (Jan) | 1.0% | 0.4% | 0.3% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Jan) | 0.2% | 0.2% | 0.7% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Jan) | -0.1% |  | 0.6% |
+| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) | 1.40% |  | 1.70% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q4) | 0.93% |  | 0.46% |
+| 13:30 | CAD | Moderate | GDP (QoQ) (Q4) | 0.2% |  | -0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.0% | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) | 1.0% | 0.8% | -0.5% |
+| 13:31 | CAD | Moderate | GDP (MoM) (Jan) | 0.4% |  | 0.3% |
+| 14:00 | USD | Low | Dallas Fed PCE (Jan) | 2.40% |  | 2.60% |
+| 28 min | USD | High | Chicago PMI (Feb) |  | 48.1 | 46.0 |
+| 43 min | USD | Moderate | Pending Home Sales (MoM) (Jan) |  | 1.4% | 8.3% |
+| 43 min | USD | Low | Pending Home Sales Index (Jan) |  |  | 77.3 |
 | 15:30 | USD | Low | Natural Gas Storage |  | -86B | -60B |
 | 15:50 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |

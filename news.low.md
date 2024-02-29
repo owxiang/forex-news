@@ -63,12 +63,12 @@
 | 12:00 | ZAR | Trade Balance (Jan) | -9.44B | -5.20B | 14.06B |
 | 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
-| 14 min | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
-| 14 min | USD | Personal Income (MoM) (Jan) |  | 0.4% | 0.3% |
-| 14 min | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.5% |
-| 14 min | CAD | GDP Implicit Price (QoQ) (Q4) |  |  | 1.80% |
-| 44 min | USD | Dallas Fed PCE (Jan) |  |  | 2.60% |
-| 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 77.3 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 212.50K |  | 215.50K |
+| 13:30 | USD | Personal Income (MoM) (Jan) | 1.0% | 0.4% | 0.3% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.1% |  | 0.6% |
+| 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) | 1.40% |  | 1.70% |
+| 14:00 | USD | Dallas Fed PCE (Jan) | 2.40% |  | 2.60% |
+| 43 min | USD | Pending Home Sales Index (Jan) |  |  | 77.3 |
 | 15:30 | USD | Natural Gas Storage |  | -86B | -60B |
 | 16:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:00 | USD | KC Fed Composite Index (Feb) |  |  | -9 |

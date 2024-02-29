@@ -22,16 +22,16 @@
 | 12:00 | BRL | Unemployment Rate | 7.6% | 7.8% | 7.4% |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Feb) | 2.5% | 2.6% | 2.9% |
-| 14 min | USD | Continuing Jobless Claims |  | 1,874K | 1,862K |
-| 14 min | USD | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
-| 14 min | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.2% |
-| 14 min | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
-| 14 min | CAD | GDP (YoY) (Q4) |  |  | 0.47% |
-| 14 min | CAD | GDP (QoQ) (Q4) |  |  | -0.3% |
-| 14 min | CAD | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
-| 14 min | CAD | GDP Annualized (QoQ) (Q4) |  | 0.8% | -1.1% |
-| 15 min | CAD | GDP (MoM) (Jan) |  |  |  |
-| 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | 8.3% |
+| 13:30 | USD | Continuing Jobless Claims | 1,905K | 1,874K | 1,860K |
+| 13:30 | USD | PCE Price index (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.1% |
+| 13:30 | USD | Personal Spending (MoM) (Jan) | 0.2% | 0.2% | 0.7% |
+| 13:30 | CAD | GDP (YoY) (Q4) | 0.93% |  | 0.46% |
+| 13:30 | CAD | GDP (QoQ) (Q4) | 0.2% |  | -0.1% |
+| 13:30 | CAD | GDP (MoM) (Dec) | 0.0% | 0.2% | 0.2% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q4) | 1.0% | 0.8% | -0.5% |
+| 13:31 | CAD | GDP (MoM) (Jan) | 0.4% |  | 0.3% |
+| 43 min | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | 8.3% |
 | 15:50 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.2% | 3.2% |
 | 18:15 | USD | FOMC Member Mester Speaks |  |  |  |
