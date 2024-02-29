@@ -31,18 +31,18 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) | 2.814M |  | 2.805M |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -0.10% |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) | 2.10% |  | -0.90% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 3.5% |  | 3.7% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.5% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 0.6% |  | 0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 0.6% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) | 3.0% |  | 3.5% |
+| 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) | 1.07B |  | 2.77B |
 | 09:00 | NOK | Central Bank Currency Purchase (Mar) | 350.0M |  | 350.0M |
 | 09:30 | GBP | BoE Consumer Credit (Jan) | 1.877B | 1.600B | 1.257B |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Mortgage Approvals (Jan) | 55.23K | 52.00K | 51.51K |
 | 09:30 | GBP | Mortgage Lending (Jan) | -1.09B | 0.20B | -0.85B |
 | 09:30 | GBP | Net Lending to Individuals | 0.8B | 1.9B | 0.4B |
-| 09:30 | ZAR | PPI (YoY) (Jan) | 4.7% | 4.8% | 4.0% |
 | 09:30 | ZAR | PPI (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
+| 09:30 | ZAR | PPI (YoY) (Jan) | 4.7% | 4.8% | 4.0% |
 | 10:00 | INR | Federal Fiscal Deficit (Jan) | 11,026.02B |  | 9,822.78B |
 | 11:00 | EUR | Italian Trade Balance Non-EU (Jan) | 2.89B |  | 8.33B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
@@ -61,8 +61,8 @@
 | 12:00 | INR | GDP Annual | 7.6% | 7.3% | 7.2% |
 | 12:00 | INR | Infrastructure Output (YoY) (Jan) | 3.6% |  | 4.9% |
 | 12:00 | ZAR | Trade Balance (Jan) | -9.44B | -5.20B | 14.06B |
-| 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 212.50K |  | 215.50K |
 | 13:30 | USD | Personal Income (MoM) (Jan) | 1.0% | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.1% |  | 0.6% |
