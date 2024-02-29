@@ -11,17 +11,17 @@
 | 02:00 | SGD | Bank Lending | 794.3B |  | 793.6B |
 | 02:00 | NZD | M3 Money Supply (Jan) | 408.3B |  | 413.0B |
 | 03:35 | JPY | 2-Year JGB Auction | 0.180% |  | 0.075% |
-| 42 min | JPY | Construction Orders (YoY) (Jan) |  |  | 0.4% |
-| 42 min | JPY | Housing Starts (YoY) (Jan) |  | -7.6% | -4.0% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  | 7.05% | 7.63% |
-| 06:00 | ZAR | Private Sector Credit (Jan) |  | 4.34% | 4.94% |
+| 05:00 | JPY | Construction Orders (YoY) (Jan) | 9.1% |  | 0.4% |
+| 05:00 | JPY | Housing Starts (YoY) (Jan) | -7.5% | -7.6% | -4.0% |
+| 44 min | ZAR | M3 Money Supply (YoY) (Jan) |  | 7.05% | 7.63% |
+| 44 min | ZAR | Private Sector Credit (Jan) |  | 4.34% | 4.94% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | 0.0% | 0.0% |
 | 07:00 | EUR | German Retail Sales (YoY) (Jan) |  | -1.5% | -1.7% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jan) |  | 0.2% | -0.9% |
 | 07:45 | EUR | French CPI (YoY) (Feb) |  | 2.7% | 3.1% |
 | 07:45 | EUR | French HICP (YoY) |  | 3.0% | 3.4% |
-| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 0.1% |
 | 07:45 | EUR | PPI (YoY) (Jan) |  |  | -0.90% |
+| 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 0.1% |
 | 08:00 | CHF | Official Reserves Assets (Jan) |  |  | 724.4B |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.2% | -0.2% |
@@ -30,16 +30,16 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 3.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 3.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) |  |  | 2.77B |
@@ -72,14 +72,14 @@
 | 14:00 | USD | Dallas Fed PCE (Jan) |  |  | 2.60% |
 | 15:00 | USD | Pending Home Sales Index (Jan) |  |  | 77.3 |
 | 15:30 | USD | Natural Gas Storage |  | -86B | -60B |
-| 15:31 | ZAR | Budget Balance (MoM) (Jan) |  |  | 19.47B |
+| 15:30 | ZAR | Budget Balance (MoM) (Jan) |  | -69.75B | 19.47B |
 | 16:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 16:00 | USD | KC Fed Composite Index (Feb) |  |  | -9 |
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -17 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.212B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.218B |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.212B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | 3.7% |
 | 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
