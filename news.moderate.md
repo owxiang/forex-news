@@ -8,8 +8,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) | -0.4% | 0.5% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) | -0.3% | -0.1% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Feb) | 0.8% | 0.7% | -0.2% |
-| 07:45 | EUR | French GDP (YoY) | 0.7% | 0.7% | 0.6% |
 | 07:45 | EUR | French GDP (QoQ) (Q4) | 0.1% | 0.0% | -0.1% |
+| 07:45 | EUR | French GDP (YoY) | 0.7% | 0.7% | 0.6% |
 | 07:45 | EUR | French HICP (MoM) | 0.9% | 0.7% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) | 101.6 | 101.6 | 102.5 |
 | 08:00 | CHF | GDP (QoQ) (Q4) | 0.3% | 0.1% | 0.3% |
@@ -20,17 +20,17 @@
 | 08:55 | EUR | German Unemployment Rate (Feb) | 5.9% | 5.8% | 5.8% |
 | 12:00 | INR | GDP Quarterly (YoY) (Q3) | 8.4% | 6.6% | 7.6% |
 | 12:00 | BRL | Unemployment Rate | 7.6% | 7.8% | 7.4% |
-| 32 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 32 min | EUR | German CPI (YoY) (Feb) |  | 2.6% | 2.9% |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,874K | 1,862K |
-| 13:30 | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.2% |
-| 13:30 | USD | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
-| 13:30 | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
-| 13:30 | CAD | GDP (YoY) (Q4) |  |  | 0.47% |
-| 13:30 | CAD | GDP (QoQ) (Q4) |  |  | -0.3% |
-| 13:30 | CAD | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
-| 13:30 | CAD | GDP Annualized (QoQ) (Q4) |  | 0.8% | -1.1% |
-| 13:31 | CAD | GDP (MoM) (Jan) |  |  |  |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | EUR | German CPI (YoY) (Feb) | 2.5% | 2.6% | 2.9% |
+| 14 min | USD | Continuing Jobless Claims |  | 1,874K | 1,862K |
+| 14 min | USD | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
+| 14 min | USD | PCE price index (MoM) (Jan) |  | 0.3% | 0.2% |
+| 14 min | USD | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
+| 14 min | CAD | GDP (YoY) (Q4) |  |  | 0.47% |
+| 14 min | CAD | GDP (QoQ) (Q4) |  |  | -0.3% |
+| 14 min | CAD | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
+| 14 min | CAD | GDP Annualized (QoQ) (Q4) |  | 0.8% | -1.1% |
+| 15 min | CAD | GDP (MoM) (Jan) |  |  |  |
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) |  | 1.4% | 8.3% |
 | 15:50 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 3.2% | 3.2% |
