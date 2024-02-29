@@ -29,16 +29,16 @@
 | 08:35 | ZAR | Budget Balance (MoM) (Jan) | -54.66B | -69.75B | 19.47B |
 | 08:55 | EUR | German Unemployment (Feb) | 2.713M |  | 2.694M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) | 2.814M |  | 2.805M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -0.10% |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) | 2.10% |  | -0.90% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -0.10% |  | -3.40% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.5% |  | 0.1% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 3.5% |  | 3.7% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
+| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 0.6% |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) | 3.0% |  | 3.5% |
@@ -75,7 +75,7 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) | 3 |  | -17 |
 | 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.275% |
-| 16 min | BRL | Foreign Exchange Flows |  |  | 0.212B |
+| 17:30 | BRL | Foreign Exchange Flows | -2.534B |  | 0.212B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | 3.7% |
 | 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
