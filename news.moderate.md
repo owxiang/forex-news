@@ -12,8 +12,8 @@
 | 07:45 | EUR | French GDP (QoQ) (Q4) | 0.1% | 0.0% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) | 0.9% | 0.7% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) | 101.6 | 101.6 | 102.5 |
-| 08:00 | CHF | GDP (YoY) (Q4) | 0.6% | 0.7% | 0.4% |
 | 08:00 | CHF | GDP (QoQ) (Q4) | 0.3% | 0.1% | 0.3% |
+| 08:00 | CHF | GDP (YoY) (Q4) | 0.6% | 0.7% | 0.4% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:55 | EUR | German Unemployment Change (Feb) | 11K | 6K | -2K |
@@ -26,9 +26,9 @@
 | 13:30 | USD | PCE Price index (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jan) | 0.3% | 0.3% | 0.1% |
 | 13:30 | USD | Personal Spending (MoM) (Jan) | 0.2% | 0.2% | 0.7% |
+| 13:30 | CAD | GDP (MoM) (Dec) | 0.0% | 0.2% | 0.2% |
 | 13:30 | CAD | GDP (YoY) (Q4) | 0.93% |  | 0.46% |
 | 13:30 | CAD | GDP (QoQ) (Q4) | 0.2% |  | -0.1% |
-| 13:30 | CAD | GDP (MoM) (Dec) | 0.0% | 0.2% | 0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q4) | 1.0% | 0.8% | -0.5% |
 | 13:31 | CAD | GDP (MoM) (Jan) | 0.4% |  | 0.3% |
 | 15:00 | USD | Pending Home Sales (MoM) (Jan) | -4.9% | 1.4% | 5.7% |
