@@ -10,8 +10,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Jan) |  | 0.5% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | -0.1% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
-| 07:45 | EUR | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 07:45 | EUR | French GDP (YoY) |  | 0.7% | 0.6% |
+| 07:45 | EUR | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 07:45 | EUR | French HICP (MoM) |  | 0.7% | -0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Feb) |  | 101.6 | 101.5 |
 | 08:00 | CHF | GDP (QoQ) (Q4) |  | 0.1% | 0.3% |

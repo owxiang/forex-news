@@ -9,8 +9,8 @@
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.1% |  | 0.6% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.4% | 0.4% | 0.4% |
 | 02:00 | SGD | Bank Lending | 794.3B |  | 793.7B |
-| 03:35 | JPY | 2-Year JGB Auction |  |  | 0.075% |
-| 04:00 | NZD | M3 Money Supply (Jan) |  |  | 413.0B |
+| 02:00 | NZD | M3 Money Supply (Jan) | 408,324.0B |  | 413,042.0B |
+| 17 min | JPY | 2-Year JGB Auction |  |  | 0.075% |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 0.4% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) |  | -7.6% | -4.0% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  | 7.05% | 7.63% |
@@ -28,10 +28,10 @@
 | 08:30 | HKD | M3 Money Supply (Jan) |  |  | 1.9% |
 | 08:55 | EUR | German Unemployment (Feb) |  |  | 2.694M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |

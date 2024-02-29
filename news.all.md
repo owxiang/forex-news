@@ -11,8 +11,8 @@
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Jan) | 0.4% | 0.4% | 0.4% |
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Jan) | 1.1% | 1.6% | -2.1% |
 | 02:00 | SGD | Low | Bank Lending | 794.3B |  | 793.7B |
-| 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.075% |
-| 04:00 | NZD | Low | M3 Money Supply (Jan) |  |  | 413.0B |
+| 02:00 | NZD | Low | M3 Money Supply (Jan) | 408,324.0B |  | 413,042.0B |
+| 17 min | JPY | Low | 2-Year JGB Auction |  |  | 0.075% |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.3% | 2.6% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 0.4% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Jan) |  | -7.6% | -4.0% |
@@ -27,8 +27,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | -0.1% | 0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 2.7% | 3.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) |  | 0.7% | 0.6% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.7% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) |  | 3.0% | 3.4% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 0.1% |
@@ -46,10 +46,10 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Feb) |  | 5.8% | 5.8% |
 | 08:55 | EUR | Low | German Unemployment (Feb) |  |  | 2.694M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |
