@@ -23,22 +23,22 @@
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Jan) | -0.4% | 0.5% | -1.6% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -1.1% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) | -0.3% | -0.1% | 0.3% |
-| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 2.9% | 2.7% | 3.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.8% | 0.7% | -0.2% |
-| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) | 0.1% | 0.0% | -0.1% |
+| 07:45 | EUR | Low | French CPI (YoY) (Feb) | 2.9% | 2.7% | 3.1% |
 | 07:45 | EUR | Moderate | French GDP (YoY) | 0.7% | 0.7% | 0.6% |
-| 07:45 | EUR | Low | French HICP (YoY) | 3.1% | 3.0% | 3.4% |
+| 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) | 0.1% | 0.0% | -0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) | 0.9% | 0.7% | -0.2% |
-| 07:45 | EUR | Low | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) | 3.1% | 3.0% | 3.4% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) | -5.10% |  | -1.30% |
+| 07:45 | EUR | Low | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Feb) | 101.6 | 101.6 | 102.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (Jan) | 733.7B |  | 724.4B |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) | 0.3% | 0.1% | 0.3% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q4) | 0.6% | 0.7% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.3% | 0.3% | 0.1% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.2% | -0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.2% | -0.2% |
 | 08:30 | HKD | Low | M3 Money Supply (Jan) | -0.7% |  | 1.9% |
 | 08:35 | ZAR | Low | Budget Balance (MoM) (Jan) | -54.66B | -69.75B | 19.47B |
 | 08:55 | EUR | Moderate | German Unemployment Change (Feb) | 11K | 6K | -2K |
@@ -47,16 +47,16 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) | 2.814M |  | 2.805M |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) | -0.10% |  | -3.40% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) | 2.10% |  | -0.90% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) | 3.5% |  | 3.7% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) | 0.5% |  | 0.1% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) | 0.6% |  | 0.2% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) | 3.0% |  | 3.5% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Spanish Current account (Dec) | 1.07B |  | 2.77B |
@@ -80,13 +80,13 @@
 | 12:00 | BRL | Moderate | Unemployment Rate | 7.6% | 7.8% | 7.4% |
 | 12:00 | ZAR | Low | Trade Balance (Jan) | -9.44B | -5.20B | 14.06B |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.5% | 0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.5% | 2.6% | 2.9% |
-| 13:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 13:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.5% | 0.2% |
 | 13:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
+| 13:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,905K | 1,874K | 1,860K |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.4% | 0.4% | 0.1% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) | 2.8% | 2.8% | 2.9% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) | 0.4% | 0.4% | 0.1% |
 | 13:30 | USD | High | Initial Jobless Claims | 215K | 209K | 202K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.50K |  | 215.50K |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) | 2.4% | 2.4% | 2.6% |
@@ -95,9 +95,9 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jan) | 0.2% | 0.2% | 0.7% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jan) | -0.1% |  | 0.6% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) | 1.40% |  | 1.70% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q4) | 0.93% |  | 0.46% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q4) | 0.2% |  | -0.1% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Dec) | 0.0% | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q4) | 0.93% |  | 0.46% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) | 1.0% | 0.8% | -0.5% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jan) | 0.4% |  | 0.3% |
 | 14:00 | USD | Low | Dallas Fed PCE (Jan) | 5.00% |  | 1.80% |
@@ -114,10 +114,10 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 3.0% | 3.2% | 3.2% |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -2.534B |  | 0.212B |
 | 18:15 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,582B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
-| 21:45 | NZD | Low | Building Consents (MoM) (Jan) |  |  | 3.7% |
-| 22:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 47.7 | 50.1 |
+| 12 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,582B |
+| 12 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
+| 27 min | NZD | Low | Building Consents (MoM) (Jan) |  |  | 3.7% |
+| 42 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 42 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 47.7 | 50.1 |
 | 23:30 | JPY | Low | Jobs/applications ratio (Jan) |  | 1.27 | 1.27 |
 | 23:30 | JPY | Low | Unemployment Rate (Jan) |  | 2.4% | 2.4% |

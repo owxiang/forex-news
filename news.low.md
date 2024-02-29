@@ -20,8 +20,8 @@
 | 07:00 | NOK | Core Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -1.1% |
 | 07:45 | EUR | French CPI (YoY) (Feb) | 2.9% | 2.7% | 3.1% |
 | 07:45 | EUR | French HICP (YoY) | 3.1% | 3.0% | 3.4% |
-| 07:45 | EUR | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
 | 07:45 | EUR | PPI (YoY) (Jan) | -5.10% |  | -1.30% |
+| 07:45 | EUR | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
 | 08:00 | CHF | Official Reserves Assets (Jan) | 733.7B |  | 724.4B |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.3% | 0.3% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.2% | -0.2% |
@@ -31,16 +31,16 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) | 2.814M |  | 2.805M |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -0.10% |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) | 2.10% |  | -0.90% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 3.5% |  | 3.7% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.5% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
 | 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 0.6% |  | 0.2% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) | 3.0% |  | 3.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) | 1.07B |  | 2.77B |
@@ -61,8 +61,8 @@
 | 12:00 | INR | GDP Annual | 7.6% | 7.3% | 7.2% |
 | 12:00 | INR | Infrastructure Output (YoY) (Jan) | 3.6% |  | 4.9% |
 | 12:00 | ZAR | Trade Balance (Jan) | -9.44B | -5.20B | 14.06B |
-| 13:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
 | 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
+| 13:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 212.50K |  | 215.50K |
 | 13:30 | USD | Personal Income (MoM) (Jan) | 1.0% | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.1% |  | 0.6% |
@@ -76,9 +76,9 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.275% |
 | 17:30 | BRL | Foreign Exchange Flows | -2.534B |  | 0.212B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
-| 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | 3.7% |
-| 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 50.1 |
+| 12 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
+| 27 min | NZD | Building Consents (MoM) (Jan) |  |  | 3.7% |
+| 42 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 42 min | AUD | Judo Bank Australia Manufacturing PMI |  | 47.7 | 50.1 |
 | 23:30 | JPY | Jobs/applications ratio (Jan) |  | 1.27 | 1.27 |
 | 23:30 | JPY | Unemployment Rate (Jan) |  | 2.4% | 2.4% |
