@@ -16,12 +16,11 @@
 | 08:00 | CHF | GDP (YoY) (Q4) | 0.6% | 0.7% | 0.4% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
-| 37 min | EUR | German Unemployment Change (Feb) |  | 6K | -2K |
-| 37 min | EUR | German Unemployment Rate (Feb) |  | 5.8% | 5.8% |
-| 42 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 42 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 08:55 | EUR | German Unemployment Change (Feb) | 11K | 6K | -2K |
+| 08:55 | EUR | German Unemployment Rate (Feb) | 5.9% | 5.8% | 5.8% |
 | 12:00 | INR | GDP Quarterly (YoY) (Q3) |  | 6.6% | 7.6% |
 | 12:00 | BRL | Unemployment Rate |  | 7.8% | 7.4% |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Feb) |  | 2.6% | 2.9% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,874K | 1,862K |
 | 13:30 | USD | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
