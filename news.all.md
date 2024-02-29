@@ -10,9 +10,9 @@
 | 00:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q4) | 0.8% | 0.4% | 0.3% |
 | 00:30 | AUD | Low | Private Sector Credit (MoM) (Jan) | 0.4% | 0.4% | 0.4% |
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Jan) | 1.1% | 1.6% | -2.1% |
-| 53 min | SGD | Low | Bank Lending |  |  | 793.7B |
-| 53 min | NZD | Low | M3 Money Supply (Jan) |  |  | 413.0B |
+| 02:00 | SGD | Low | Bank Lending | 794.3B |  | 793.7B |
 | 03:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.075% |
+| 04:00 | NZD | Low | M3 Money Supply (Jan) |  |  | 413.0B |
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.3% | 2.6% |
 | 05:00 | JPY | Low | Construction Orders (YoY) (Jan) |  |  | 0.4% |
 | 05:00 | JPY | Low | Housing Starts (YoY) (Jan) |  | -7.6% | -4.0% |
@@ -25,22 +25,22 @@
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Jan) |  | -1.5% | -1.7% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jan) |  | 0.2% | -0.9% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Jan) |  | -0.1% | 0.3% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Feb) |  | 2.7% | 3.1% |
-| 07:45 | EUR | Moderate | French GDP (YoY) |  | 0.7% | 0.6% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
+| 07:45 | EUR | Moderate | French GDP (YoY) |  | 0.7% | 0.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.7% | -0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) |  | 3.0% | 3.4% |
 | 07:45 | EUR | Low | French PPI (MoM) (Jan) |  |  | 0.1% |
 | 07:45 | EUR | Low | PPI (YoY) (Jan) |  |  | -0.90% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Feb) |  | 101.6 | 101.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (Jan) |  |  | 724.4B |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  | 0.7% | 0.3% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.3% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q4) |  | 0.7% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.2% | -0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
 | 08:30 | HKD | Low | M3 Money Supply (Jan) |  |  | 1.9% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Feb) |  | 6K | -2K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Feb) |  | 5.8% | 5.8% |
@@ -48,18 +48,18 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
 | 09:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 3.0% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Feb) |  |  | 3.5% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Feb) |  |  | 0.4% |
 | 09:00 | EUR | Low | Spanish Current account (Dec) |  |  | 2.77B |
@@ -87,13 +87,13 @@
 | 12:00 | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.4% |
 | 12:00 | ZAR | Low | Trade Balance (Jan) |  | -5.20B | 14.06B |
 | 12:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
-| 13:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.5% | 0.2% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.6% | 2.9% |
-| 13:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
+| 13:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.5% | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
+| 13:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,874K | 1,862K |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jan) |  | 2.8% | 2.9% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jan) |  | 0.4% | 0.2% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 209K | 201K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 215.25K |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jan) |  | 2.4% | 2.6% |
@@ -102,9 +102,9 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jan) |  | 0.2% | 0.7% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jan) |  |  | 0.5% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q4) |  |  | 1.80% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 0.47% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q4) |  |  | -0.3% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Dec) |  | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q4) |  |  | 0.47% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q4) |  | 0.8% | -1.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Jan) |  |  |  |
 | 14:00 | USD | Low | Dallas Fed PCE (Jan) |  |  | 2.60% |
@@ -120,8 +120,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.2% | 3.2% |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.212B |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.218B |
+| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.212B |
 | 18:15 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,582B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |

@@ -8,9 +8,9 @@
 | 00:30 | AUD | Housing Credit (Jan) | 0.4% |  | 0.4% |
 | 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.1% |  | 0.6% |
 | 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.4% | 0.4% | 0.4% |
-| 53 min | SGD | Bank Lending |  |  | 793.7B |
-| 53 min | NZD | M3 Money Supply (Jan) |  |  | 413.0B |
+| 02:00 | SGD | Bank Lending | 794.3B |  | 793.7B |
 | 03:35 | JPY | 2-Year JGB Auction |  |  | 0.075% |
+| 04:00 | NZD | M3 Money Supply (Jan) |  |  | 413.0B |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) |  |  | 0.4% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) |  | -7.6% | -4.0% |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Jan) |  | 7.05% | 7.63% |
@@ -30,16 +30,16 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Feb) |  |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) |  |  | 3.7% |
 | 09:00 | EUR | Hesse CPI (MoM) (Feb) |  |  | 0.0% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
+| 09:00 | EUR | Hesse CPI (YoY) (Feb) |  |  | 2.2% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) |  |  | 3.0% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Saxony CPI (YoY) (Feb) |  |  | 3.5% |
 | 09:00 | EUR | Saxony CPI (MoM) (Feb) |  |  | 0.4% |
 | 09:00 | EUR | Spanish Current account (Dec) |  |  | 2.77B |
@@ -64,8 +64,8 @@
 | 12:00 | EUR | Spanish Business Confidence |  |  | -5.6 |
 | 12:00 | ZAR | Trade Balance (Jan) |  | -5.20B | 14.06B |
 | 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
-| 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 13:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
+| 13:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 215.25K |
 | 13:30 | USD | Personal Income (MoM) (Jan) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jan) |  |  | 0.5% |
@@ -79,8 +79,8 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -17 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.212B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.218B |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.212B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | 3.7% |
 | 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
