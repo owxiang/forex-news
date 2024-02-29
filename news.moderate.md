@@ -5,9 +5,7 @@
 | 00:30 | AUD | Private New Capital Expenditure (QoQ) (Q4) | 0.8% | 0.4% | 0.3% |
 | 00:30 | AUD | Retail Sales (MoM) (Jan) | 1.1% | 1.6% | -2.1% |
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.6% | 2.3% | 2.6% |
-| 07:00 | GBP | Nationwide HPI (YoY) |  | 0.7% | -0.2% |
-| 07:00 | GBP | Nationwide HPI (MoM) |  | 0.3% | 0.7% |
-| 07:00 | EUR | German Retail Sales (MoM) (Jan) |  | 0.5% | -1.6% |
+| 40 min | EUR | German Retail Sales (MoM) (Jan) |  | 0.5% | -1.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Jan) |  | -0.1% | 0.3% |
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.7% | -0.3% |
 | 07:45 | EUR | French GDP (YoY) |  | 0.7% | 0.6% |

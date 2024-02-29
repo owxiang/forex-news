@@ -13,23 +13,23 @@
 | 03:35 | JPY | 2-Year JGB Auction | 0.180% |  | 0.075% |
 | 05:00 | JPY | Construction Orders (YoY) (Jan) | 9.1% |  | 0.4% |
 | 05:00 | JPY | Housing Starts (YoY) (Jan) | -7.5% | -7.6% | -4.0% |
-| 44 min | ZAR | M3 Money Supply (YoY) (Jan) |  | 7.05% | 7.63% |
-| 44 min | ZAR | Private Sector Credit (Jan) |  | 4.34% | 4.94% |
-| 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | 0.0% | 0.0% |
-| 07:00 | EUR | German Retail Sales (YoY) (Jan) |  | -1.5% | -1.7% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jan) |  | 0.2% | -0.9% |
+| 06:00 | ZAR | M3 Money Supply (YoY) (Jan) | 6.58% | 7.05% | 7.63% |
+| 06:00 | ZAR | Private Sector Credit (Jan) | 3.16% | 4.34% | 4.94% |
+| 10 min | EUR | French Non-Farm Payrolls (QoQ) (Q4) |  | 0.0% | 0.0% |
+| 40 min | EUR | German Retail Sales (YoY) (Jan) |  | -1.5% | -1.7% |
+| 40 min | NOK | Core Retail Sales (MoM) (Jan) |  | 0.2% | -0.9% |
 | 07:45 | EUR | French CPI (YoY) (Feb) |  | 2.7% | 3.1% |
 | 07:45 | EUR | French HICP (YoY) |  | 3.0% | 3.4% |
-| 07:45 | EUR | PPI (YoY) (Jan) |  |  | -0.90% |
 | 07:45 | EUR | French PPI (MoM) (Jan) |  |  | 0.1% |
+| 07:45 | EUR | PPI (YoY) (Jan) |  |  | -0.90% |
 | 08:00 | CHF | Official Reserves Assets (Jan) |  |  | 724.4B |
 | 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.2% | -0.2% |
 | 08:30 | HKD | M3 Money Supply (Jan) |  |  | 1.9% |
 | 08:55 | EUR | German Unemployment (Feb) |  |  | 2.694M |
 | 08:55 | EUR | German Unemployment n.s.a. (Feb) |  |  | 2.805M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) |  |  | -1.00% |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) |  |  | -3.40% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) |  |  | 3.2% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Feb) |  |  | 2.9% |
@@ -78,7 +78,6 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Feb) |  |  | -17 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | 0.218B |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | 0.212B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.523T |
 | 21:45 | NZD | Building Consents (MoM) (Jan) |  |  | 3.7% |
