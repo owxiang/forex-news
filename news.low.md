@@ -22,8 +22,8 @@
 | 09:00 | ZAR | Manufacturing PMI | 51.7 |  | 43.6 |
 | 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) | 0.8% | 0.9% | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.3% | -1.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) | 0.7% |  | -0.9% |
 | 10:00 | EUR | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
