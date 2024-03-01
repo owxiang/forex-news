@@ -8,8 +8,8 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 47.2 | 47.2 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Feb) | 52.7 |  | 52.9 |
 | 02:00 | IDR | Core Inflation (YoY) (Feb) | 1.68% | 1.71% | 1.68% |
-| 02:00 | IDR | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
 | 02:00 | IDR | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
+| 02:00 | IDR | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
 | 05:00 | INR | S&P Global India Manufacturing PMI (Feb) | 56.9 |  | 56.5 |
 | 05:00 | JPY | Household Confidence (Feb) | 39.1 | 38.4 | 38.0 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -11.0% |  | -10.4% |
@@ -28,13 +28,13 @@
 | 10:00 | EUR | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.6% |  | -0.6% |
-| 10:50 | EUR | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
+| 11:00 | EUR | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
+| 11:00 | EUR | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:30 | INR | FX Reserves, USD | 619.07B |  | 616.10B |
-| Tentative | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
-| 31 min | BRL | S&P Global Manufacturing PMI (Feb) |  |  | 52.8 |
+| 12:00 | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
+| 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 54.1 |  | 52.8 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Feb) |  |  | 48.3 |
-| 14:30 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 52.5 |
 | 15:00 | USD | Michigan Current Conditions (Feb) |  | 81.5 | 81.9 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Feb) |  |  | 50.20 |
