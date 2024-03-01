@@ -39,16 +39,16 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.9% | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.1% | 0.3% | -1.1% |
-| 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | -0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
+| 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | -0.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.5% | 2.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.6% |  | -0.6% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
 | 11:30 | INR | Low | FX Reserves, USD | 619.07B |  | 616.10B |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
@@ -76,24 +76,24 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 506 |  | 503 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 629 |  | 626 |
 | 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 13 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 46.3K |
-| 13 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 4.0K |
-| 13 min | USD | Low | CFTC Copper speculative net positions |  |  | -15.9K |
-| 13 min | USD | Low | CFTC Corn speculative net positions |  |  | -266.1K |
-| 13 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 191.9K |
-| 13 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 140.3K |
-| 13 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 25.6K |
-| 13 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -153.9K |
-| 13 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -218.5K |
-| 13 min | USD | Low | CFTC Silver speculative net positions |  |  | 22.4K |
-| 13 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -160.3K |
-| 13 min | USD | Low | CFTC Wheat speculative net positions |  |  | -44.6K |
-| 13 min | CAD | Low | CFTC CAD speculative net positions |  |  | -0.9K |
-| 13 min | MXN | Low | CFTC MXN speculative net positions |  |  | 96.0K |
-| 13 min | CHF | Low | CFTC CHF speculative net positions |  |  | -9.9K |
-| 13 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -81.9K |
-| 13 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | 16.5K |
-| 13 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | -120.8K |
-| 13 min | NZD | Low | CFTC NZD speculative net positions |  |  | 6.6K |
-| 13 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 68.0K |
-| 43 min | MXN | Low | Fiscal Balance (Jan) |  |  | -291.23B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 46.3K |  | 46.3K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 4.0K |  | 4.0K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | -15.9K |  | -15.9K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | -266.1K |  | -266.1K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 224.8K |  | 191.9K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 140.3K |  | 140.3K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 25.6K |  | 25.6K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -141.6K |  | -153.9K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -218.5K |  | -218.5K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 22.4K |  | 22.4K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -160.3K |  | -160.3K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -44.6K |  | -44.6K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -0.9K |  | -0.9K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 96.0K |  | 96.0K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -9.9K |  | -9.9K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -81.9K |  | -81.9K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | 16.5K |  | 16.5K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -120.8K |  | -120.8K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | 6.6K |  | 6.6K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 68.0K |  | 68.0K |
+| 21:00 | MXN | Low | Fiscal Balance (Jan) | -159.14B |  | -291.23B |
