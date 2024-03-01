@@ -7,9 +7,9 @@
 | 00:00 | KRW | Trade Balance (Feb) | 4.30B | 1.90B | 0.33B |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 48.0 | 47.2 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Feb) | 52.7 |  | 52.9 |
-| 47 min | IDR | Core Inflation (YoY) (Feb) |  | 1.71% | 1.68% |
-| 47 min | IDR | Inflation (YoY) (Feb) |  | 2.60% | 2.57% |
-| 47 min | IDR | Inflation (MoM) (Feb) |  | 0.23% | 0.04% |
+| 02:00 | IDR | Core Inflation (YoY) (Feb) | 1.68% | 1.71% | 1.68% |
+| 02:00 | IDR | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
+| 02:00 | IDR | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
 | 05:00 | INR | S&P Global India Manufacturing PMI (Feb) |  |  | 56.5 |
 | 05:00 | JPY | Household Confidence (Feb) |  | 38.4 | 38.0 |
 | 05:30 | AUD | Commodity Prices (YoY) |  |  | -10.4% |
@@ -22,15 +22,15 @@
 | 09:00 | ZAR | Manufacturing PMI |  |  | 43.6 |
 | 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.9% | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.3% | -1.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | -0.9% |
 | 10:00 | EUR | CPI, n.s.a (Feb) |  |  | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | -0.6% |
 | 11:00 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 7.30% |
+| 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
 | 11:30 | INR | FX Reserves, USD |  |  | 616.10B |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 41.64K |
