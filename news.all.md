@@ -14,8 +14,8 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Feb) | 51.4 | 50.9 | 50.7 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.9 | 50.7 | 50.8 |
 | 02:00 | IDR | Low | Core Inflation (YoY) (Feb) | 1.68% | 1.71% | 1.68% |
-| 02:00 | IDR | Low | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
 | 02:00 | IDR | Low | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
+| 02:00 | IDR | Low | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
 | 05:00 | INR | Low | S&P Global India Manufacturing PMI (Feb) | 56.9 |  | 56.5 |
 | 05:00 | JPY | Low | Household Confidence (Feb) | 39.1 | 38.4 | 38.0 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | -11.0% |  | -10.4% |
@@ -35,40 +35,40 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Feb) | 46.5 | 46.1 | 46.6 |
 | 09:00 | ZAR | Low | Manufacturing PMI | 51.7 |  | 43.6 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Feb) | 47.5 | 47.1 | 47.0 |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.9% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.9% | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.1% | 0.3% | -1.1% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | -0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.5% | 2.8% |
+| 10:00 | EUR | Moderate | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.6% |  | -0.6% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:30 | INR | Low | FX Reserves, USD | 619.07B |  | 616.10B |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 54.1 |  | 52.8 |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 16 min | CAD | Low | S&P Global Canada Manufacturing PMI (Feb) |  |  | 48.3 |
-| 31 min | USD | High | S&P Global US Manufacturing PMI (Feb) |  | 51.5 | 50.7 |
-| 46 min | USD | Moderate | Construction Spending (MoM) (Jan) |  | 0.2% | 0.9% |
-| 46 min | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 47.1 |
-| 46 min | USD | Low | ISM Manufacturing New Orders Index (Feb) |  |  | 52.5 |
-| 46 min | USD | High | ISM Manufacturing PMI (Feb) |  | 49.5 | 49.1 |
-| 46 min | USD | High | ISM Manufacturing Prices (Feb) |  | 53.5 | 52.9 |
-| 46 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) |  | 3.0% | 2.9% |
-| 46 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) |  | 2.9% | 2.9% |
-| 46 min | USD | Moderate | Michigan Consumer Expectations (Feb) |  | 78.4 | 77.1 |
-| 46 min | USD | Moderate | Michigan Consumer Sentiment (Feb) |  | 79.6 | 79.0 |
-| 46 min | USD | Low | Michigan Current Conditions (Feb) |  | 81.5 | 81.9 |
-| 46 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Feb) |  |  | 50.20 |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Feb) | 49.7 |  | 48.3 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Feb) | 52.2 | 51.5 | 50.7 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Jan) | -0.2% | 0.2% | 1.1% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Feb) | 45.9 |  | 47.1 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Feb) | 49.2 |  | 52.5 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Feb) | 47.8 | 49.5 | 49.1 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Feb) | 52.5 | 53.5 | 52.9 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Feb) | 3.0% | 3.0% | 2.9% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Feb) | 2.9% | 2.9% | 2.9% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Feb) | 75.2 | 78.4 | 77.1 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Feb) | 76.9 | 79.6 | 79.0 |
+| 15:00 | USD | Low | Michigan Current Conditions (Feb) | 79.4 | 81.5 | 81.9 |
+| 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Feb) | 52.30 |  | 50.20 |
 | 15:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 17:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

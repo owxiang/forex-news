@@ -19,15 +19,15 @@
 | 10:00 | EUR | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
 | 10:00 | EUR | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 12:00 | BRL | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 12:00 | BRL | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
+| 12:00 | BRL | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 46 min | USD | Construction Spending (MoM) (Jan) |  | 0.2% | 0.9% |
-| 46 min | USD | ISM Manufacturing Employment (Feb) |  |  | 47.1 |
-| 46 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.0% | 2.9% |
-| 46 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 2.9% | 2.9% |
-| 46 min | USD | Michigan Consumer Expectations (Feb) |  | 78.4 | 77.1 |
-| 46 min | USD | Michigan Consumer Sentiment (Feb) |  | 79.6 | 79.0 |
+| 15:00 | USD | Construction Spending (MoM) (Jan) | -0.2% | 0.2% | 1.1% |
+| 15:00 | USD | ISM Manufacturing Employment (Feb) | 45.9 |  | 47.1 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) | 3.0% | 3.0% | 2.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) | 2.9% | 2.9% | 2.9% |
+| 15:00 | USD | Michigan Consumer Expectations (Feb) | 75.2 | 78.4 | 77.1 |
+| 15:00 | USD | Michigan Consumer Sentiment (Feb) | 76.9 | 79.6 | 79.0 |
 | 15:15 | USD | Fed Waller Speaks |  |  |  |
 | 17:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
