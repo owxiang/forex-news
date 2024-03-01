@@ -7,8 +7,8 @@
 | 01:30 | CNY | Chinese Composite PMI (Feb) | 50.9 |  | 50.9 |
 | 01:30 | CNY | Non-Manufacturing PMI (Feb) | 51.4 | 50.9 | 50.7 |
 | 01:45 | CNY | Caixin Manufacturing PMI (Feb) | 50.9 | 50.7 | 50.8 |
-| 07:00 | GBP | Nationwide HPI (YoY) |  | 0.7% | -0.2% |
-| 07:00 | GBP | Nationwide HPI (MoM) |  | 0.2% | 0.7% |
+| 40 min | GBP | Nationwide HPI (MoM) (Feb) |  | 0.2% | 0.7% |
+| 40 min | GBP | Nationwide HPI (YoY) (Feb) |  | 0.7% | -0.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Feb) |  | 49.7 | 49.2 |
 | 08:30 | CHF | procure.ch PMI (Feb) |  | 44.3 | 43.1 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Feb) |  | 49.0 | 48.5 |

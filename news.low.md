@@ -12,7 +12,7 @@
 | 02:00 | IDR | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
 | 05:00 | INR | S&P Global India Manufacturing PMI (Feb) | 56.9 |  | 56.5 |
 | 05:00 | JPY | Household Confidence (Feb) | 39.1 | 38.4 | 38.0 |
-| 15 min | AUD | Commodity Prices (YoY) |  |  | -10.4% |
+| 05:30 | AUD | Commodity Prices (YoY) (Feb) | -11.0% |  | -10.4% |
 | 07:30 | CHF | Retail Sales (YoY) (Jan) |  | 0.4% | -0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | 7.8% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 7.2% | 7.2% |
@@ -22,15 +22,15 @@
 | 09:00 | ZAR | Manufacturing PMI |  |  | 43.6 |
 | 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.9% | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.3% | -1.1% |
+| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | -0.9% |
 | 10:00 | EUR | CPI, n.s.a (Feb) |  |  | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | -0.6% |
 | 11:00 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 7.30% |
+| 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
 | 11:30 | INR | FX Reserves, USD |  |  | 616.10B |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 41.64K |
