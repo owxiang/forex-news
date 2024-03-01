@@ -7,8 +7,8 @@
 | 01:30 | CNY | Chinese Composite PMI (Feb) | 50.9 |  | 50.9 |
 | 01:30 | CNY | Non-Manufacturing PMI (Feb) | 51.4 | 50.9 | 50.7 |
 | 01:45 | CNY | Caixin Manufacturing PMI (Feb) | 50.9 | 50.7 | 50.8 |
-| 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 1.2% | 0.7% | -0.2% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.7% | 0.2% | 0.7% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 1.2% | 0.7% | -0.2% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Feb) | 51.5 | 49.7 | 49.2 |
 | 08:30 | CHF | procure.ch PMI (Feb) | 44.0 | 44.3 | 43.1 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Feb) | 48.7 | 49.0 | 48.5 |
@@ -21,13 +21,13 @@
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
 | 12:00 | BRL | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 12:00 | BRL | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
-| 40 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (Jan) |  | 0.2% | 0.9% |
-| 15:00 | USD | ISM Manufacturing Employment (Feb) |  |  | 47.1 |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.0% | 2.9% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 2.9% | 2.9% |
-| 15:00 | USD | Michigan Consumer Expectations (Feb) |  | 78.4 | 77.1 |
-| 15:00 | USD | Michigan Consumer Sentiment (Feb) |  | 79.6 | 79.0 |
+| 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 46 min | USD | Construction Spending (MoM) (Jan) |  | 0.2% | 0.9% |
+| 46 min | USD | ISM Manufacturing Employment (Feb) |  |  | 47.1 |
+| 46 min | USD | Michigan 1-Year Inflation Expectations (Feb) |  | 3.0% | 2.9% |
+| 46 min | USD | Michigan 5-Year Inflation Expectations (Feb) |  | 2.9% | 2.9% |
+| 46 min | USD | Michigan Consumer Expectations (Feb) |  | 78.4 | 77.1 |
+| 46 min | USD | Michigan Consumer Sentiment (Feb) |  | 79.6 | 79.0 |
 | 15:15 | USD | Fed Waller Speaks |  |  |  |
 | 17:15 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
