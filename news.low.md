@@ -31,8 +31,8 @@
 | 11:00 | EUR | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:30 | INR | FX Reserves, USD | 619.07B |  | 616.10B |
-| 12:00 | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
+| 12:00 | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 54.1 |  | 52.8 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Feb) | 49.7 |  | 48.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Feb) | 49.2 |  | 52.5 |

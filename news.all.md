@@ -52,8 +52,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 619.07B |  | 616.10B |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
+| 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 54.1 |  | 52.8 |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Feb) | 49.7 |  | 48.3 |
@@ -71,7 +71,7 @@
 | 15:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Feb) | 52.30 |  | 50.20 |
 | 15:15 | USD | Low | Fed Logan Speaks |  |  |  |
 | 15:15 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 17:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 57 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 503 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 626 |

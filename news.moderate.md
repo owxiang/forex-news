@@ -29,7 +29,7 @@
 | 15:00 | USD | Michigan Consumer Expectations (Feb) | 75.2 | 78.4 | 77.1 |
 | 15:00 | USD | Michigan Consumer Sentiment (Feb) | 76.9 | 79.6 | 79.0 |
 | 15:15 | USD | Fed Waller Speaks |  |  |  |
-| 17:15 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 57 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 3.0% | 3.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 503 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 626 |
