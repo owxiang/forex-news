@@ -22,8 +22,8 @@
 | 09:00 | ZAR | Manufacturing PMI | 51.7 |  | 43.6 |
 | 10:00 | EUR | Italian CPI (MoM) (Feb) | 0.1% | 0.3% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) | 0.8% | 0.9% | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.3% | -1.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
+| 10:00 | EUR | Italian HICP (MoM) (Feb) | 0.1% | 0.3% | -1.1% |
 | 10:00 | EUR | Core CPI (MoM) | 0.7% |  | -0.9% |
 | 10:00 | EUR | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
@@ -31,23 +31,23 @@
 | 11:00 | EUR | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
 | 11:00 | EUR | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:30 | INR | FX Reserves, USD | 619.07B |  | 616.10B |
-| 12:00 | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
+| 12:00 | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
 | 13:00 | BRL | S&P Global Manufacturing PMI (Feb) | 54.1 |  | 52.8 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Feb) | 49.7 |  | 48.3 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Feb) | 49.2 |  | 52.5 |
 | 15:00 | USD | Michigan Current Conditions (Feb) | 79.4 | 81.5 | 81.9 |
 | 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Feb) | 52.30 |  | 50.20 |
 | 15:15 | USD | Fed Logan Speaks |  |  |  |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 4.0K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | -15.9K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -266.1K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -153.9K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.4K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -160.3K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -44.6K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -0.9K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 96.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -9.9K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 6.6K |
-| 21:00 | MXN | Fiscal Balance (Jan) |  |  | -291.23B |
+| 13 min | USD | CFTC Aluminium speculative net positions |  |  | 4.0K |
+| 13 min | USD | CFTC Copper speculative net positions |  |  | -15.9K |
+| 13 min | USD | CFTC Corn speculative net positions |  |  | -266.1K |
+| 13 min | USD | CFTC Natural Gas speculative net positions |  |  | -153.9K |
+| 13 min | USD | CFTC Silver speculative net positions |  |  | 22.4K |
+| 13 min | USD | CFTC Soybeans speculative net positions |  |  | -160.3K |
+| 13 min | USD | CFTC Wheat speculative net positions |  |  | -44.6K |
+| 13 min | CAD | CFTC CAD speculative net positions |  |  | -0.9K |
+| 13 min | MXN | CFTC MXN speculative net positions |  |  | 96.0K |
+| 13 min | CHF | CFTC CHF speculative net positions |  |  | -9.9K |
+| 13 min | NZD | CFTC NZD speculative net positions |  |  | 6.6K |
+| 43 min | MXN | Fiscal Balance (Jan) |  |  | -291.23B |

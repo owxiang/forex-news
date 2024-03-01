@@ -7,8 +7,8 @@
 | 01:30 | CNY | Chinese Composite PMI (Feb) | 50.9 |  | 50.9 |
 | 01:30 | CNY | Non-Manufacturing PMI (Feb) | 51.4 | 50.9 | 50.7 |
 | 01:45 | CNY | Caixin Manufacturing PMI (Feb) | 50.9 | 50.7 | 50.8 |
-| 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.7% | 0.2% | 0.7% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Feb) | 1.2% | 0.7% | -0.2% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Feb) | 0.7% | 0.2% | 0.7% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Feb) | 51.5 | 49.7 | 49.2 |
 | 08:30 | CHF | procure.ch PMI (Feb) | 44.0 | 44.3 | 43.1 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Feb) | 48.7 | 49.0 | 48.5 |
@@ -19,8 +19,8 @@
 | 10:00 | EUR | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
 | 10:00 | EUR | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 12:00 | BRL | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
 | 12:00 | BRL | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
+| 12:00 | BRL | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
 | 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Jan) | -0.2% | 0.2% | 1.1% |
 | 15:00 | USD | ISM Manufacturing Employment (Feb) | 45.9 |  | 47.1 |
@@ -34,12 +34,12 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 503 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 629 |  | 626 |
 | 18:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 46.3K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
-| 20:30 | USD | CFTC Gold speculative net positions |  |  | 140.3K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 25.6K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -218.5K |
-| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -81.9K |
-| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 16.5K |
-| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -120.8K |
-| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 68.0K |
+| 13 min | GBP | CFTC GBP speculative net positions |  |  | 46.3K |
+| 13 min | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
+| 13 min | USD | CFTC Gold speculative net positions |  |  | 140.3K |
+| 13 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 25.6K |
+| 13 min | USD | CFTC S&P 500 speculative net positions |  |  | -218.5K |
+| 13 min | AUD | CFTC AUD speculative net positions |  |  | -81.9K |
+| 13 min | BRL | CFTC BRL speculative net positions |  |  | 16.5K |
+| 13 min | JPY | CFTC JPY speculative net positions |  |  | -120.8K |
+| 13 min | EUR | CFTC EUR speculative net positions |  |  | 68.0K |
