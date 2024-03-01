@@ -1,84 +1,55 @@
-## 29 February 2024 - Low Impact Forex News
+## 01 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | NZD | ANZ Business Confidence (Feb) | 34.7 |  | 36.6 |
-| 00:00 | NZD | NBNZ Own Activity (Feb) | 29.5% |  | 25.6% |
-| 00:30 | AUD | Building Capital Expenditure (MoM) (Q4) | 1.5% |  | 0.7% |
-| 00:30 | AUD | Housing Credit (Jan) | 0.4% |  | 0.4% |
-| 00:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q4) | -0.1% |  | 0.6% |
-| 00:30 | AUD | Private Sector Credit (MoM) (Jan) | 0.4% | 0.4% | 0.4% |
-| 02:00 | SGD | Bank Lending | 794.3B |  | 793.6B |
-| 02:00 | NZD | M3 Money Supply (Jan) | 408.3B |  | 413.0B |
-| 03:35 | JPY | 2-Year JGB Auction | 0.180% |  | 0.075% |
-| 05:00 | JPY | Construction Orders (YoY) (Jan) | 9.1% |  | 0.4% |
-| 05:00 | JPY | Housing Starts (YoY) (Jan) | -7.5% | -7.6% | -4.0% |
-| 06:00 | ZAR | M3 Money Supply (YoY) (Jan) | 6.58% | 7.05% | 7.65% |
-| 06:00 | ZAR | Private Sector Credit (Jan) | 3.16% | 4.34% | 4.94% |
-| 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q4) | 0.0% | 0.0% | 0.2% |
-| 07:00 | EUR | German Retail Sales (YoY) (Jan) | -1.4% | -1.5% | -1.7% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -1.1% |
-| 07:45 | EUR | French CPI (YoY) (Feb) | 2.9% | 2.7% | 3.1% |
-| 07:45 | EUR | French HICP (YoY) | 3.1% | 3.0% | 3.4% |
-| 07:45 | EUR | French PPI (MoM) (Jan) | -1.3% |  | -0.1% |
-| 07:45 | EUR | PPI (YoY) (Jan) | -5.10% |  | -1.30% |
-| 08:00 | CHF | Official Reserves Assets (Jan) | 733.7B |  | 724.4B |
-| 08:00 | EUR | Spanish CPI (MoM) (Feb) | 0.3% | 0.3% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.2% | -0.2% |
-| 08:30 | HKD | M3 Money Supply (Jan) | -0.7% |  | 1.9% |
-| 08:35 | ZAR | Budget Balance (MoM) (Jan) | -54.66B | -69.75B | 19.47B |
-| 08:55 | EUR | German Unemployment (Feb) | 2.713M |  | 2.694M |
-| 08:55 | EUR | German Unemployment n.s.a. (Feb) | 2.814M |  | 2.805M |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Dec) | -0.10% |  | -3.40% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Dec) | 2.10% |  | -0.90% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.3% |  | 0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Feb) | 2.7% |  | 3.2% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Feb) | 2.6% |  | 2.9% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Feb) | 0.5% |  | 0.2% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Feb) | 3.5% |  | 3.7% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Feb) | 0.5% |  | 0.1% |
-| 09:00 | EUR | Hesse CPI (MoM) (Feb) | 0.5% |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (Feb) | 2.1% |  | 2.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Feb) | 0.6% |  | 0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Feb) | 2.6% |  | 3.0% |
-| 09:00 | EUR | Saxony CPI (MoM) (Feb) | 0.3% |  | 0.4% |
-| 09:00 | EUR | Saxony CPI (YoY) (Feb) | 3.0% |  | 3.5% |
-| 09:00 | EUR | Spanish Current account (Dec) | 1.07B |  | 2.77B |
-| 09:00 | NOK | Central Bank Currency Purchase (Mar) | 350.0M |  | 350.0M |
-| 09:30 | GBP | BoE Consumer Credit (Jan) | 1.877B | 1.600B | 1.257B |
-| 09:30 | GBP | M3 Money Supply (Jan) | 2,993.9B |  | 2,996.2B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Jan) | -0.1% | 0.3% | 0.5% |
-| 09:30 | GBP | Mortgage Approvals (Jan) | 55.23K | 52.00K | 51.51K |
-| 09:30 | GBP | Mortgage Lending (Jan) | -1.09B | 0.20B | -0.85B |
-| 09:30 | GBP | Net Lending to Individuals | 0.8B | 1.9B | 0.4B |
-| 09:30 | ZAR | PPI (YoY) (Jan) | 4.7% | 4.8% | 4.0% |
-| 09:30 | ZAR | PPI (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
-| 10:00 | INR | Federal Fiscal Deficit (Jan) | 11,026.02B |  | 9,822.78B |
-| 11:00 | EUR | Italian Trade Balance Non-EU (Jan) | 2.89B |  | 8.33B |
-| 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:00 | MXN | Unemployment Rate (Jan) | 2.80% |  | 2.80% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Jan) | 2.90% | 2.80% | 2.60% |
-| 12:00 | INR | GDP Annual | 7.6% | 7.3% | 7.2% |
-| 12:00 | INR | Infrastructure Output (YoY) (Jan) | 3.6% |  | 4.9% |
-| 12:00 | ZAR | Trade Balance (Jan) | -9.44B | -5.20B | 14.06B |
-| 13:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
-| 13:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 212.50K |  | 215.50K |
-| 13:30 | USD | Personal Income (MoM) (Jan) | 1.0% | 0.4% | 0.3% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jan) | -0.1% |  | 0.6% |
-| 13:30 | CAD | GDP Implicit Price (QoQ) (Q4) | 1.40% |  | 1.70% |
-| 14:00 | USD | Dallas Fed PCE (Jan) | 5.00% |  | 1.80% |
-| 15:00 | USD | Pending Home Sales Index (Jan) | 74.3 |  | 78.1 |
-| 15:30 | USD | Natural Gas Storage | -96B | -86B | -60B |
-| 16:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 16:00 | USD | KC Fed Composite Index (Feb) | -4 |  | -9 |
-| 16:00 | USD | KC Fed Manufacturing Index (Feb) | 3 |  | -17 |
-| 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.285% |
-| 16:30 | USD | 8-Week Bill Auction | 5.285% |  | 5.275% |
-| 17:30 | BRL | Foreign Exchange Flows | -2.534B |  | 0.212B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.541T |  | 3.523T |
-| 21:45 | NZD | Building Consents (MoM) (Jan) | -8.8% |  | 3.6% |
-| 22:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.8 | 47.7 | 50.1 |
-| 14 min | JPY | Jobs/applications ratio (Jan) |  | 1.27 | 1.27 |
-| 14 min | JPY | Unemployment Rate (Jan) |  | 2.4% | 2.4% |
+| 00:00 | KRW | Exports (YoY) (Feb) | 4.8% | 1.9% | 18.0% |
+| 00:00 | KRW | Imports (YoY) (Feb) | -13.1% | -10.4% | -7.9% |
+| 00:00 | KRW | Trade Balance (Feb) | 4.30B | 1.90B | 0.33B |
+| 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 48.0 | 47.2 |
+| 00:30 | IDR | Nikkei Manufacturing PMI (Feb) | 52.7 |  | 52.9 |
+| 47 min | IDR | Core Inflation (YoY) (Feb) |  | 1.71% | 1.68% |
+| 47 min | IDR | Inflation (YoY) (Feb) |  | 2.60% | 2.57% |
+| 47 min | IDR | Inflation (MoM) (Feb) |  | 0.23% | 0.04% |
+| 05:00 | INR | S&P Global India Manufacturing PMI (Feb) |  |  | 56.5 |
+| 05:00 | JPY | Household Confidence (Feb) |  | 38.4 | 38.0 |
+| 05:30 | AUD | Commodity Prices (YoY) |  |  | -10.4% |
+| 07:30 | CHF | Retail Sales (YoY) (Jan) |  | 0.4% | -0.8% |
+| 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | 7.8% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 7.2% | 7.2% |
+| 09:00 | NOK | Manufacturing PMI (Feb) |  |  | 50.7 |
+| 09:00 | NOK | Unemployment Change (Feb) |  |  | 69.84K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.00% | 2.10% |
+| 09:00 | ZAR | Manufacturing PMI |  |  | 43.6 |
+| 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.9% | 0.8% |
+| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
+| 10:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.3% | -1.1% |
+| 10:00 | EUR | Core CPI (MoM) |  |  | -0.9% |
+| 10:00 | EUR | CPI, n.s.a (Feb) |  |  | 123.60 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 3.6% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | -0.6% |
+| 11:00 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
+| 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
+| 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 7.30% |
+| 11:30 | INR | FX Reserves, USD |  |  | 616.10B |
+| 12:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.80% |
+| Tentative | ZAR | Total Vehicle Sales |  |  | 41.64K |
+| 12:30 | CAD | Corporate Profits (QoQ) |  |  | 4.7% |
+| 13:00 | BRL | S&P Global Manufacturing PMI (Feb) |  |  | 52.8 |
+| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Feb) |  |  | 48.3 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Feb) |  |  | 52.5 |
+| 15:00 | USD | Michigan Current Conditions (Feb) |  | 81.5 | 81.9 |
+| 15:00 | MXN | S&P Global Mexico Manufacturing PMI (Feb) |  |  | 50.20 |
+| 15:15 | USD | Fed Logan Speaks |  |  |  |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 4.0K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | -15.9K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -266.1K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -153.9K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 22.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -160.3K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -44.6K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -0.9K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 96.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -9.9K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 6.6K |
+| 21:00 | MXN | Fiscal Balance (Jan) |  |  | -291.23B |
