@@ -52,8 +52,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 619.07B |  | 616.10B |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
-| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
 | 12:00 | ZAR | Low | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
 | 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) | 54.1 |  | 52.8 |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Feb) | 49.7 |  | 48.3 |
@@ -75,7 +75,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 3.0% | 3.0% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 506 |  | 503 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 629 |  | 626 |
-| 9 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 46.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 4.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | -15.9K |

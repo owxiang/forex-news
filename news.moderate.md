@@ -33,7 +33,7 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 3.0% | 3.0% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 503 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 629 |  | 626 |
-| 9 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 46.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 191.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 140.3K |
