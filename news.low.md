@@ -8,20 +8,20 @@
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Feb) | 47.2 | 47.2 | 47.2 |
 | 00:30 | IDR | Nikkei Manufacturing PMI (Feb) | 52.7 |  | 52.9 |
 | 02:00 | IDR | Core Inflation (YoY) (Feb) | 1.68% | 1.71% | 1.68% |
-| 02:00 | IDR | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
 | 02:00 | IDR | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
+| 02:00 | IDR | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
 | 05:00 | INR | S&P Global India Manufacturing PMI (Feb) | 56.9 |  | 56.5 |
 | 05:00 | JPY | Household Confidence (Feb) | 39.1 | 38.4 | 38.0 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -11.0% |  | -10.4% |
-| 07:30 | CHF | Retail Sales (YoY) (Jan) |  | 0.4% | -0.8% |
+| 16 min | CHF | Retail Sales (YoY) (Jan) |  | 0.4% | -0.8% |
 | 08:30 | HKD | Retail Sales (YoY) (Jan) |  |  | 7.8% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) |  | 7.2% | 7.2% |
 | 09:00 | NOK | Manufacturing PMI (Feb) |  |  | 50.7 |
 | 09:00 | NOK | Unemployment Change (Feb) |  |  | 69.84K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.00% | 2.10% |
 | 09:00 | ZAR | Manufacturing PMI |  |  | 43.6 |
-| 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.9% | 0.8% |
+| 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.3% | -1.1% |
 | 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | -0.9% |
