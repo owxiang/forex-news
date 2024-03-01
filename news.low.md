@@ -14,23 +14,23 @@
 | 05:00 | JPY | Household Confidence (Feb) | 39.1 | 38.4 | 38.0 |
 | 05:30 | AUD | Commodity Prices (YoY) (Feb) | -11.0% |  | -10.4% |
 | 07:30 | CHF | Retail Sales (YoY) (Jan) | 0.3% | 0.4% | -0.1% |
-| 11 min | HKD | Retail Sales (YoY) (Jan) |  |  | 7.8% |
-| 41 min | EUR | Italian Monthly Unemployment Rate (Jan) |  | 7.2% | 7.2% |
-| 41 min | NOK | Manufacturing PMI (Feb) |  |  | 50.7 |
-| 41 min | NOK | Unemployment Change (Feb) |  |  | 69.84K |
-| 41 min | NOK | Unemployment Rate n.s.a. (Feb) |  | 2.00% | 2.10% |
-| 41 min | ZAR | Manufacturing PMI |  |  | 43.6 |
-| 10:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.9% | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.3% | -1.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) |  |  | -0.9% |
-| 10:00 | EUR | CPI, n.s.a (Feb) |  |  | 123.60 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 3.6% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | -0.6% |
+| 08:30 | HKD | Retail Sales (YoY) (Jan) | 0.9% |  | 7.8% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Jan) | 7.2% | 7.2% | 7.2% |
+| 09:00 | NOK | Manufacturing PMI (Feb) | 51.9 |  | 51.1 |
+| 09:00 | NOK | Unemployment Change (Feb) | 71.08K |  | 70.10K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Feb) | 2.10% | 2.00% | 2.10% |
+| 09:00 | ZAR | Manufacturing PMI | 51.7 |  | 43.6 |
+| 43 min | EUR | Italian CPI (MoM) (Feb) |  | 0.3% | 0.3% |
+| 43 min | EUR | Italian CPI (YoY) (Feb) |  | 0.9% | 0.8% |
+| 43 min | EUR | Italian HICP (YoY) (Feb) |  | 1.0% | 0.9% |
+| 43 min | EUR | Italian HICP (MoM) (Feb) |  | 0.3% | -1.1% |
+| 43 min | EUR | Core CPI (MoM) |  |  | -0.9% |
+| 43 min | EUR | CPI, n.s.a (Feb) |  |  | 123.60 |
+| 43 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  |  | 3.6% |
+| 43 min | EUR | HICP ex Energy and Food (MoM) |  |  | -0.6% |
 | 11:00 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 7.30% |
 | 11:00 | EUR | Car Registration (MoM) (Feb) |  |  | -16.00% |
+| 11:00 | EUR | Car Registration (YoY) (Feb) |  |  | 7.30% |
 | 11:30 | INR | FX Reserves, USD |  |  | 616.10B |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) |  |  | -3.80% |
 | Tentative | ZAR | Total Vehicle Sales |  |  | 41.64K |
