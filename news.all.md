@@ -39,16 +39,16 @@
 | 10:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.9% | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.9% | 1.0% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.1% | 0.3% | -1.1% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.5% | 2.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.6% |  | -0.6% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:30 | INR | Low | FX Reserves, USD | 619.07B |  | 616.10B |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.0% |

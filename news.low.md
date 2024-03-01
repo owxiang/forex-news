@@ -28,8 +28,8 @@
 | 10:00 | EUR | CPI, n.s.a (Feb) | 124.37 |  | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.6% |  | -0.6% |
-| 11:00 | EUR | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:00 | EUR | Car Registration (MoM) (Feb) | 18.40% |  | -16.00% |
+| 11:00 | EUR | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
 | 11:30 | INR | FX Reserves, USD | 619.07B |  | 616.10B |
 | 12:00 | ZAR | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
 | 12:00 | ZAR | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
