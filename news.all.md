@@ -14,8 +14,8 @@
 | 01:30 | CNY | Moderate | Non-Manufacturing PMI (Feb) | 51.4 | 50.9 | 50.7 |
 | 01:45 | CNY | Moderate | Caixin Manufacturing PMI (Feb) | 50.9 | 50.7 | 50.8 |
 | 02:00 | IDR | Low | Core Inflation (YoY) (Feb) | 1.68% | 1.71% | 1.68% |
-| 02:00 | IDR | Low | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
 | 02:00 | IDR | Low | Inflation (MoM) (Feb) | 0.37% | 0.23% | 0.04% |
+| 02:00 | IDR | Low | Inflation (YoY) (Feb) | 2.75% | 2.60% | 2.57% |
 | 05:00 | INR | Low | S&P Global India Manufacturing PMI (Feb) | 56.9 |  | 56.5 |
 | 05:00 | JPY | Low | Household Confidence (Feb) | 39.1 | 38.4 | 38.0 |
 | 05:30 | AUD | Low | Commodity Prices (YoY) (Feb) | -11.0% |  | -10.4% |
@@ -47,17 +47,16 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 3.3% |  | 3.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.6% |  | -0.6% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 616.10B |
-| 17 min | EUR | Low | Car Registration (MoM) (Feb) |  |  | -16.00% |
-| 17 min | EUR | Low | Car Registration (YoY) (Feb) |  |  | 7.30% |
-| 47 min | BRL | Moderate | GDP (YoY) (Q4) |  | 2.2% | 2.0% |
-| 47 min | BRL | Moderate | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
-| 47 min | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -3.80% |
-| Tentative | ZAR | Low | Total Vehicle Sales |  |  | 41.64K |
-| 12:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 4.7% |
-| 13:00 | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 52.8 |
+| 10:50 | EUR | Low | Car Registration (YoY) (Feb) | 9.90% |  | 7.30% |
+| 11:30 | INR | Low | FX Reserves, USD | 619.07B |  | 616.10B |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.1% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
+| Tentative | ZAR | Low | Total Vehicle Sales (Feb) | 44.75K |  | 41.64K |
+| 12:00 | ZAR | Low | Total Vehicle Sales (YoY) (Feb) | -0.90% |  | -3.80% |
+| 31 min | BRL | Low | S&P Global Manufacturing PMI (Feb) |  |  | 52.8 |
 | 14:00 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Feb) |  |  | 48.3 |
+| 14:30 | EUR | Low | Car Registration (MoM) (Feb) |  |  | -16.00% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Feb) |  | 51.5 | 50.7 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Jan) |  | 0.2% | 0.9% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Feb) |  |  | 47.1 |

@@ -19,8 +19,8 @@
 | 10:00 | EUR | Core CPI (YoY) | 3.1% | 2.9% | 3.3% |
 | 10:00 | EUR | CPI (MoM) | 0.6% |  | -0.4% |
 | 10:00 | EUR | Unemployment Rate (Jan) | 6.4% | 6.4% | 6.5% |
-| 47 min | BRL | GDP (YoY) (Q4) |  | 2.2% | 2.0% |
-| 47 min | BRL | GDP (QoQ) (Q4) |  | 0.1% | 0.1% |
+| 12:00 | BRL | GDP (QoQ) (Q4) | 0.0% | 0.1% | 0.1% |
+| 12:00 | BRL | GDP (YoY) (Q4) | 2.1% | 2.2% | 2.0% |
 | 14:00 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Jan) |  | 0.2% | 0.9% |
 | 15:00 | USD | ISM Manufacturing Employment (Feb) |  |  | 47.1 |
