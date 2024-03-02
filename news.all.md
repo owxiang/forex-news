@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 34 min | SGD | Low | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
+| 13:00 | SGD | Low | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
