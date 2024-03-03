@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:50 | JPY | Capital Spending (YoY) (Q4) |  | 2.9% | 3.4% |
+| 36 min | JPY | Capital Spending (YoY) (Q4) |  | 2.9% | 3.4% |
