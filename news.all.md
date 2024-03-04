@@ -21,16 +21,17 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Low | Gross Fixed Investments (YoY) (Dec) | 13.40% |  | 19.20% |
 | 12:00 | MXN | Low | Gross Fixed Investments (MoM) (Dec) | 0.00% |  | -1.30% |
-| 22 min | SGD | Low | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
-| 13:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.471% |
-| 13:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.845% |
-| 13:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.768% |
+| 13:00 | USD | Low | All Car Sales (Feb) | 3.13M |  | 2.99M |
+| 13:00 | USD | Low | All Truck Sales (Feb) | 12.68M |  | 11.93M |
+| 35 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.471% |
+| 35 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.845% |
+| 35 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.768% |
 | 16:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.130% |
 | 22:00 | AUD | Low | Judo Bank Australia Services PMI |  | 52.8 | 49.1 |
-| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 23:00 | KRW | Low | GDP (YoY) (Q4) |  | 2.2% | 1.4% |
+| 23:00 | KRW | Low | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.5% |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Feb) |  | 2.5% | 1.6% |
 | 23:30 | JPY | Low | Tokyo CPI (YoY) (Feb) |  |  | 1.6% |
