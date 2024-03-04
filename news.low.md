@@ -13,8 +13,8 @@
 | 07:45 | EUR | French Government Budget Balance (Jan) |  |  | -173.3B |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -10.8 | -12.9 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  |  | 19.20% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  |  | -1.30% |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  |  | 19.20% |
 | 13:00 | SGD | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
 | 13:55 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
 | 13:55 | EUR | French 3-Month BTF Auction |  |  | 3.845% |
@@ -22,8 +22,8 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.255% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.130% |
 | 22:00 | AUD | Judo Bank Australia Services PMI |  | 52.8 | 49.1 |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 23:00 | KRW | GDP (YoY) (Q4) |  | 2.2% | 1.4% |
+| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.2% |
 | 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.4% |
