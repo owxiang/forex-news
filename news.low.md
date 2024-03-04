@@ -23,9 +23,9 @@
 | 13:55 | EUR | French 6-Month BTF Auction | 3.792% |  | 3.768% |
 | 16:30 | USD | 3-Month Bill Auction | 5.240% |  | 5.255% |
 | 16:30 | USD | 6-Month Bill Auction | 5.105% |  | 5.130% |
-| 22:00 | AUD | Judo Bank Australia Services PMI |  | 52.8 | 49.1 |
-| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
+| 46 min | AUD | Judo Bank Australia Services PMI |  | 52.8 | 49.1 |
 | 23:00 | KRW | GDP (YoY) (Q4) |  | 2.2% | 1.4% |
+| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.5% |
 | 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.1% |
