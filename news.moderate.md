@@ -8,4 +8,4 @@
 | 08:00 | EUR | Spanish Unemployment Change | -7.5K | 50.0K | 60.4K |
 | 08:00 | BRL | IPC-Fipe Inflation Index (MoM) (Feb) | 0.46% |  | 0.46% |
 | 16:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Feb) |  | 2.5% | 1.6% |
+| 14 min | JPY | Tokyo Core CPI (YoY) (Feb) |  | 2.5% | 1.6% |
