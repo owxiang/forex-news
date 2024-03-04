@@ -1,13 +1,29 @@
-## 03 March 2024 - Low Impact Forex News
+## 04 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 21:45 | NZD | Terms of Trade - Exports Prices (Q4) | -4.2% | -0.4% | -1.4% |
-| 21:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q4) | 2.6% |  | -5.5% |
-| 21:45 | NZD | Terms of Trade - Imports Prices (Q4) | 3.8% | -0.2% | -0.9% |
-| 21:45 | NZD | Terms of Trade Index (QoQ) (Q4) | -7.8% | -0.1% | -0.6% |
-| 23:00 | KRW | Industrial Production (YoY) (Jan) | 12.9% | 9.3% | 6.2% |
-| 23:00 | KRW | Industrial Production (MoM) (Jan) | 0.8% | 1.0% | 0.6% |
-| 23:00 | KRW | Retail Sales (MoM) (Jan) | 0.8% |  | 0.6% |
-| 23:00 | KRW | Service Sector Output (MoM) (Jan) | -1.3% |  | 0.3% |
-| 36 min | JPY | Monetary Base (YoY) (Feb) |  | 4.7% | 4.7% |
+| 00:00 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.3% |
+| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Feb) | 50.7 |  | 51.2 |
+| 00:30 | AUD | ANZ Job Advertisements (MoM) | -2.8% |  | 3.4% |
+| 00:30 | AUD | Building Approvals (YoY) (Jan) | 10.00% | -2.00% | -1.70% |
+| 00:30 | AUD | Business inventories (MoM) (Q4) | -1.7% | 0.0% | 1.2% |
+| 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 4.7% |  | 1.6% |
+| 00:30 | AUD | Private House Approvals (Jan) | -9.9% |  | -1.8% |
+| 07:30 | CHF | CPI (YoY) (Feb) |  | 1.1% | 1.3% |
+| 07:45 | EUR | French Government Budget Balance (Jan) |  |  | -173.3B |
+| 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -10.8 | -12.9 |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  |  | 19.20% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  |  | -1.30% |
+| 13:00 | SGD | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
+| 13:55 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
+| 13:55 | EUR | French 3-Month BTF Auction |  |  | 3.845% |
+| 13:55 | EUR | French 6-Month BTF Auction |  |  | 3.768% |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 5.255% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 5.130% |
+| 22:00 | AUD | Judo Bank Australia Services PMI |  | 52.8 | 49.1 |
+| 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
+| 23:00 | KRW | GDP (YoY) (Q4) |  | 2.2% | 1.4% |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.2% |
+| 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.6% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.4% |
