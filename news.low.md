@@ -9,9 +9,10 @@
 | 00:30 | AUD | Business inventories (MoM) (Q4) | -1.7% | 0.0% | 1.2% |
 | 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 4.7% |  | 1.6% |
 | 00:30 | AUD | Private House Approvals (Jan) | -9.9% |  | -1.8% |
-| 23 min | CHF | CPI (YoY) (Feb) |  | 1.1% | 1.3% |
-| 38 min | EUR | French Government Budget Balance (Jan) |  |  | -173.3B |
-| 09:30 | EUR | Sentix Investor Confidence (Mar) |  | -10.8 | -12.9 |
+| 07:30 | CHF | CPI (YoY) (Feb) | 1.2% | 1.1% | 1.3% |
+| 07:45 | EUR | French Government Budget Balance (Jan) | -25.7B |  | -173.3B |
+| 09:25 | EUR | French Car Registration (YoY) | 13.0% |  | 9.2% |
+| 09:30 | EUR | Sentix Investor Confidence (Mar) | -10.5 | -10.8 | -12.9 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) |  |  | 19.20% |
 | 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) |  |  | -1.30% |
@@ -24,6 +25,6 @@
 | 22:00 | AUD | Judo Bank Australia Services PMI |  | 52.8 | 49.1 |
 | 23:00 | KRW | GDP (QoQ) (Q4) |  | 0.6% | 0.6% |
 | 23:00 | KRW | GDP (YoY) (Q4) |  | 2.2% | 1.4% |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.2% |
+| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.5% |
 | 23:30 | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.6% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.4% |
+| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.1% |
