@@ -14,8 +14,8 @@
 | 09:25 | EUR | French Car Registration (YoY) | 13.0% |  | 9.2% |
 | 09:30 | EUR | Sentix Investor Confidence (Mar) | -10.5 | -10.8 | -12.9 |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.00% |  | -1.30% |
 | 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 13.40% |  | 19.20% |
+| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.00% |  | -1.30% |
 | 13:00 | USD | All Car Sales (Feb) | 3.13M |  | 2.99M |
 | 13:00 | USD | All Truck Sales (Feb) | 12.68M |  | 11.93M |
 | 13:55 | EUR | French 12-Month BTF Auction | 3.507% |  | 3.471% |
