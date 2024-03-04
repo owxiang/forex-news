@@ -6,9 +6,9 @@
 | 00:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Feb) | 50.7 |  | 51.2 |
 | 00:30 | AUD | Low | ANZ Job Advertisements (MoM) | -2.8% |  | 3.4% |
 | 00:30 | AUD | Low | Building Approvals (YoY) (Jan) | 10.00% | -2.00% | -1.70% |
-| 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | -1.0% | 4.0% | -10.1% |
+| 00:30 | AUD | Moderate | Building Approvals (MoM) (Jan) | -1.0% | 3.8% | -10.1% |
 | 00:30 | AUD | Low | Business inventories (MoM) (Q4) | -1.7% | 0.0% | 1.2% |
-| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q4) | 7.4% | 1.8% | -1.6% |
+| 00:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q4) | 7.4% | 1.1% | -1.6% |
 | 00:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q4) | 4.7% |  | 1.6% |
 | 00:30 | AUD | Low | Private House Approvals (Jan) | -9.9% |  | -1.8% |
 | 07:30 | CHF | Low | CPI (YoY) (Feb) |  | 1.1% | 1.3% |
