@@ -21,4 +21,4 @@
 | 15:00 | USD | ISM Non-Manufacturing Employment (Feb) | 48.0 | 51.4 | 50.5 |
 | 17:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 8.428M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.600M | 8.428M |

@@ -22,8 +22,8 @@
 | 10:00 | EUR | Spanish 12-Month Letras Auction | 3.508% |  | 3.342% |
 | 10:00 | EUR | Spanish 6-Month Letras Auction | 3.702% |  | 3.653% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) | 4.90% |  | 1.40% |
-| 10:00 | EUR | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
 | 10:00 | EUR | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
+| 10:00 | EUR | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.314% |  | 4.095% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.300% |
 | 11:15 | USD | Total Vehicle Sales | 15.81M |  | 14.92M |
@@ -42,5 +42,5 @@
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 22:00 | AUD | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
