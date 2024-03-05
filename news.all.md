@@ -4,16 +4,16 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 3.5% |  | 2.1% |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Feb) | 1.0% | 1.6% | 1.4% |
-| 00:30 | AUD | Moderate | Current Account (Q4) | 11.8B | 4.8B | 1.3B |
-| 00:30 | AUD | Low | Net Exports Contribution (Q4) | 0.6% |  | -0.6% |
+| 00:30 | AUD | Moderate | Current Account (Q4) | 11.8B | 4.9B | 1.3B |
+| 00:30 | AUD | Low | Net Exports Contribution (Q4) | 0.6% | 0.2% | -0.6% |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Feb) | 52.9 | 52.5 | 53.1 |
 | 00:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Feb) | 49.7 |  | 49.9 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
-| 18 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.741% |
-| 43 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 05:00 | INR | Low | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -1.5% |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) |  |  | -0.4% |
+| 03:35 | JPY | Moderate | 10-Year JGB Auction | 0.718% |  | 0.741% |
+| 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 41 min | INR | Low | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
+| 41 min | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -1.5% |
+| 41 min | SGD | Low | Retail Sales (YoY) (Jan) |  |  | -0.4% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 53.4 | 52.1 |
@@ -35,7 +35,7 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 1.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jan) |  |  | -10.6% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) |  | -8.1% | -10.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) |  | -0.1% | -0.8% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.300% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
@@ -50,13 +50,13 @@
 | 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 51.3 | 52.5 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -7.3% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | 0.3% | 0.2% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 55.8 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 55.0 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 52.9 | 53.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 53.0 | 53.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) |  |  | 64.0 |
 | 15:00 | USD | Low | Total Vehicle Sales |  |  | 15.00M |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.5% |
