@@ -30,8 +30,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) | 53.8 | 54.3 | 54.3 |
 | 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) | 84,886.0 |  | 142,876.0 |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 1.2% | 0.9% | -0.7% |
 | 09:30 | ZAR | Moderate | GDP Annualized (QoQ) | 0.1% | 0.3% | -0.2% |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 1.2% | 0.9% | -0.7% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.314% |  | 4.131% |
 | 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 3.508% |  | 3.342% |
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 3.702% |  | 3.653% |
@@ -65,5 +65,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.600M | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
