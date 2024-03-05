@@ -1,31 +1,48 @@
-## 04 March 2024 - Low Impact Forex News
+## 05 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | MI Inflation Gauge (MoM) | -0.1% |  | 0.3% |
-| 00:30 | KRW | S&P Global South Korea Manufacturing PMI (Feb) | 50.7 |  | 51.2 |
-| 00:30 | AUD | ANZ Job Advertisements (MoM) | -2.8% |  | 3.4% |
-| 00:30 | AUD | Building Approvals (YoY) (Jan) | 10.00% | -2.00% | -1.70% |
-| 00:30 | AUD | Business inventories (MoM) (Q4) | -1.7% | 0.0% | 1.2% |
-| 00:30 | AUD | Company Profits Pre-Tax (QoQ) (Q4) | 4.7% |  | 1.6% |
-| 00:30 | AUD | Private House Approvals (Jan) | -9.9% |  | -1.8% |
-| 07:30 | CHF | CPI (YoY) (Feb) | 1.2% | 1.1% | 1.3% |
-| 07:45 | EUR | French Government Budget Balance (Jan) | -25.7B |  | -173.3B |
-| 09:25 | EUR | French Car Registration (YoY) | 13.0% |  | 9.2% |
-| 09:30 | EUR | Sentix Investor Confidence (Mar) | -10.5 | -10.8 | -12.9 |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | MXN | Gross Fixed Investments (YoY) (Dec) | 13.40% |  | 19.20% |
-| 12:00 | MXN | Gross Fixed Investments (MoM) (Dec) | 0.00% |  | -1.30% |
-| 13:00 | USD | All Car Sales (Feb) | 3.13M |  | 2.99M |
-| 13:00 | USD | All Truck Sales (Feb) | 12.68M |  | 11.93M |
-| 13:55 | EUR | French 12-Month BTF Auction | 3.507% |  | 3.471% |
-| 13:55 | EUR | French 3-Month BTF Auction | 3.860% |  | 3.845% |
-| 13:55 | EUR | French 6-Month BTF Auction | 3.792% |  | 3.768% |
-| 16:30 | USD | 3-Month Bill Auction | 5.240% |  | 5.255% |
-| 16:30 | USD | 6-Month Bill Auction | 5.105% |  | 5.130% |
-| 22:00 | AUD | Judo Bank Australia Services PMI | 53.1 | 52.8 | 49.1 |
-| 23:00 | KRW | GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.6% |
-| 23:00 | KRW | GDP (YoY) (Q4) | 2.2% | 2.2% | 1.4% |
-| 14 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Feb) |  |  | 2.5% |
-| 14 min | JPY | Tokyo CPI (YoY) (Feb) |  |  | 1.6% |
-| 14 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Feb) |  |  | -0.1% |
+| 00:00 | NZD | ANZ Commodity Price Index (MoM) | 3.5% |  | 2.1% |
+| 00:30 | AUD | Net Exports Contribution (Q4) | 0.6% |  | -0.6% |
+| 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Feb) | 49.7 |  | 49.9 |
+| 04:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 05:00 | INR | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
+| 05:00 | SGD | Retail Sales (MoM) (Jan) |  |  | -1.5% |
+| 05:00 | SGD | Retail Sales (YoY) (Jan) |  |  | -0.4% |
+| 07:15 | ZAR | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
+| 07:45 | EUR | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
+| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
+| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
+| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
+| 09:30 | ZAR | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
+| 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.342% |
+| 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.653% |
+| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.131% |
+| 10:00 | NOK | House Price Index (YoY) (Feb) |  |  | 1.40% |
+| 10:00 | EUR | PPI (YoY) (Jan) |  |  | -10.6% |
+| 10:00 | EUR | PPI (MoM) (Jan) |  | -0.1% | -0.8% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.300% |
+| 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
+| 11:30 | EUR | Spanish Consumer Confidence |  |  | 78.6 |
+| 12:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | -0.18% |
+| 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 53.2 |
+| 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 53.1 |
+| 13:00 | SGD | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
+| 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 116.3B |
+| 13:55 | USD | Redbook (YoY) |  |  | 2.7% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -7.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.5% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 55.8 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 55.0 |
+| 15:00 | USD | Total Vehicle Sales |  |  | 15.00M |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.5% |
+| 15:00 | USD | Milk Auctions |  |  | 3,664.0 |
+| 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 415.76B |
+| 22:00 | AUD | AIG Construction Index (Feb) |  |  | -11.5 |
+| 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -23.8 |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
