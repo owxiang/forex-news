@@ -13,9 +13,9 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
-| 15 min | GBP | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
-| 15 min | GBP | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
-| 15 min | ZAR | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Feb) | 53.8 | 54.3 | 54.3 |
+| 09:30 | ZAR | GDP Annualized (QoQ) | 0.1% | 0.3% | -0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Feb) |  | 51.4 | 52.0 |
 | 15:00 | USD | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |

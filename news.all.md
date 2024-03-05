@@ -23,24 +23,24 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.4 | 48.0 | 45.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 46.3 | 46.1 | 47.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.1% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
-| 15 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
-| 15 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
-| 15 min | ZAR | Low | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
-| 15 min | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
-| 25 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.342% |
-| 25 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
-| 45 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
-| 45 min | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) | 84,886.0 |  | 142,876.0 |
-| 45 min | NOK | Low | House Price Index (YoY) (Feb) |  |  | 1.40% |
-| 45 min | EUR | Low | PPI (YoY) (Jan) |  | -8.1% | -10.6% |
-| 45 min | EUR | Low | PPI (MoM) (Jan) |  | -0.1% | -0.8% |
-| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.300% |
-| 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) | 53.8 | 54.3 | 54.3 |
+| 09:30 | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) | 84,886.0 |  | 142,876.0 |
+| 09:30 | ZAR | Low | GDP (YoY) (Q4) | 1.2% | 0.9% | -0.7% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) | 0.1% | 0.3% | -0.2% |
+| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction | 4.314% |  | 4.131% |
+| 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 3.508% |  | 3.342% |
+| 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 3.702% |  | 3.653% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Feb) | 4.90% |  | 1.40% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
+| 10:00 | EUR | Low | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
+| 12 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
+| 12 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.300% |
+| 42 min | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | EUR | Low | Spanish Consumer Confidence |  |  | 78.6 |
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Jan) |  |  | -0.18% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) |  |  | 53.2 |
