@@ -8,7 +8,7 @@
 | 01:45 | CNY | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
 | 03:35 | JPY | 10-Year JGB Auction | 0.718% |  | 0.741% |
 | 08:15 | EUR | HCOB Spain Services PMI (Feb) |  | 53.4 | 52.1 |
-| 08:45 | EUR | HCOB Italy Services PMI (Feb) |  | 52.3 | 51.2 |
+| 08:45 | EUR | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
 | 08:50 | EUR | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
 | 08:55 | EUR | HCOB Germany Services PMI (Feb) |  | 48.2 | 47.7 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) |  | 48.9 | 47.9 |

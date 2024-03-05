@@ -11,14 +11,14 @@
 | 01:45 | CNY | Moderate | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 0.718% |  | 0.741% |
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 41 min | INR | Low | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
-| 41 min | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -1.5% |
-| 41 min | SGD | Low | Retail Sales (YoY) (Jan) |  |  | -0.4% |
+| 05:00 | INR | Low | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 53.4 | 52.1 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.3 | 51.2 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
 | 08:50 | EUR | Low | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
@@ -35,8 +35,9 @@
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 1.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jan) |  | -8.1% | -10.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) |  | -0.1% | -0.8% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) |  | -8.1% | -10.6% |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.300% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | EUR | Low | Spanish Consumer Confidence |  |  | 78.6 |
@@ -67,5 +68,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
