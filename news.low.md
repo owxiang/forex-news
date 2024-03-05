@@ -14,8 +14,8 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
 | 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
-| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.342% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.653% |

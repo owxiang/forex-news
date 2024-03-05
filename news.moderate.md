@@ -5,7 +5,7 @@
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Feb) | 1.0% | 1.6% | 1.4% |
 | 00:30 | AUD | Current Account (Q4) | 11.8B | 4.8B | 1.3B |
 | 00:30 | JPY | au Jibun Bank Japan Services PMI (Feb) | 52.9 | 52.5 | 53.1 |
-| 39 min | CNY | Caixin Services PMI (Feb) |  | 52.9 | 52.7 |
+| 01:45 | CNY | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
 | 03:35 | JPY | 10-Year JGB Auction |  |  | 0.741% |
 | 08:15 | EUR | HCOB Spain Services PMI (Feb) |  | 53.4 | 52.1 |
 | 08:45 | EUR | HCOB Italy Services PMI (Feb) |  | 52.3 | 51.2 |

@@ -8,7 +8,7 @@
 | 00:30 | AUD | Low | Net Exports Contribution (Q4) | 0.6% |  | -0.6% |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Feb) | 52.9 | 52.5 | 53.1 |
 | 00:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Feb) | 49.7 |  | 49.9 |
-| 39 min | CNY | Moderate | Caixin Services PMI (Feb) |  | 52.9 | 52.7 |
+| 01:45 | CNY | Moderate | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
 | 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.741% |
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 05:00 | INR | Low | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
@@ -23,8 +23,8 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.2 | 47.7 |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.9 | 47.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
