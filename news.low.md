@@ -7,8 +7,8 @@
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Feb) | 49.7 |  | 49.9 |
 | 04:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 05:00 | INR | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
-| 05:00 | SGD | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
+| 05:00 | SGD | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 07:15 | ZAR | S&P Global South Africa PMI (Feb) | 50.8 |  | 49.2 |
 | 07:45 | EUR | French Industrial Production (MoM) (Jan) | -1.1% | -0.1% | 0.4% |
 | 08:45 | EUR | HCOB Italy Composite PMI (Feb) | 51.1 |  | 50.7 |
@@ -42,5 +42,5 @@
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 22:00 | AUD | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
