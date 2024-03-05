@@ -9,13 +9,13 @@
 | 05:00 | INR | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
 | 05:00 | SGD | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
-| 07:15 | ZAR | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
-| 31 min | EUR | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
-| 08:45 | EUR | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
-| 08:50 | EUR | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
-| 09:00 | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
+| 07:15 | ZAR | S&P Global South Africa PMI (Feb) | 50.8 |  | 49.2 |
+| 07:45 | EUR | French Industrial Production (MoM) (Jan) | -1.1% | -0.1% | 0.4% |
+| 25 min | EUR | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
+| 30 min | EUR | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
+| 35 min | EUR | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
+| 40 min | EUR | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
+| 40 min | EUR | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
 | 09:30 | ZAR | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
 | 09:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.342% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.653% |

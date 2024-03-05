@@ -14,19 +14,19 @@
 | 05:00 | INR | Low | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
-| 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
-| 31 min | EUR | Low | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 53.4 | 52.1 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.2 | 47.7 |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.9 | 47.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
+| 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) | 50.8 |  | 49.2 |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) | -1.1% | -0.1% | 0.4% |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) | 54.7 | 53.4 | 52.1 |
+| 25 min | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
+| 25 min | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
+| 30 min | EUR | Low | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
+| 30 min | EUR | Moderate | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
+| 35 min | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
+| 35 min | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.2 | 47.7 |
+| 40 min | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
+| 40 min | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
+| 40 min | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.9 | 47.9 |
+| 40 min | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
