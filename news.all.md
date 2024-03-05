@@ -17,26 +17,27 @@
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) | 50.8 |  | 49.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) | -1.1% | -0.1% | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) | 54.7 | 53.4 | 52.1 |
-| 25 min | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
-| 25 min | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
-| 30 min | EUR | Low | HCOB France Composite PMI (Feb) |  | 47.7 | 44.6 |
-| 30 min | EUR | Moderate | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
-| 35 min | EUR | Low | HCOB Germany Composite PMI (Feb) |  | 46.1 | 47.0 |
-| 35 min | EUR | Moderate | HCOB Germany Services PMI (Feb) |  | 48.2 | 47.7 |
-| 40 min | EUR | Low | Italian GDP (YoY) (Q4) |  | 0.5% | 0.1% |
-| 40 min | EUR | Low | Italian GDP (QoQ) (Q4) |  | 0.2% | 0.1% |
-| 40 min | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) |  | 48.9 | 47.9 |
-| 40 min | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
-| 09:30 | ZAR | Low | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.342% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
-| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
-| 10:00 | NOK | Low | House Price Index (YoY) (Feb) |  |  | 1.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jan) |  | -8.1% | -10.6% |
-| 10:00 | EUR | Low | PPI (MoM) (Jan) |  | -0.1% | -0.8% |
+| 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) | 51.1 |  | 50.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) | 52.2 | 52.2 | 51.2 |
+| 08:50 | EUR | Low | HCOB France Composite PMI (Feb) | 48.1 | 47.7 | 44.6 |
+| 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.4 | 48.0 | 45.4 |
+| 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 46.3 | 46.1 | 47.0 |
+| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.1% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.1% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
+| 15 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
+| 15 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
+| 15 min | ZAR | Low | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
+| 15 min | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
+| 25 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.342% |
+| 25 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
+| 45 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
+| 45 min | GBP | Low | United Kingdom New Passenger Cars Registration (Feb) | 84,886.0 |  | 142,876.0 |
+| 45 min | NOK | Low | House Price Index (YoY) (Feb) |  |  | 1.40% |
+| 45 min | EUR | Low | PPI (YoY) (Jan) |  | -8.1% | -10.6% |
+| 45 min | EUR | Low | PPI (MoM) (Jan) |  | -0.1% | -0.8% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.095% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.300% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
@@ -68,5 +69,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
 | 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |

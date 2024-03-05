@@ -8,14 +8,14 @@
 | 01:45 | CNY | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
 | 03:35 | JPY | 10-Year JGB Auction | 0.718% |  | 0.741% |
 | 08:15 | EUR | HCOB Spain Services PMI (Feb) | 54.7 | 53.4 | 52.1 |
-| 25 min | EUR | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
-| 30 min | EUR | HCOB France Services PMI (Feb) |  | 48.0 | 45.4 |
-| 35 min | EUR | HCOB Germany Services PMI (Feb) |  | 48.2 | 47.7 |
-| 40 min | EUR | HCOB Eurozone Composite PMI (Feb) |  | 48.9 | 47.9 |
-| 40 min | EUR | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
-| 09:30 | ZAR | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
+| 08:45 | EUR | HCOB Italy Services PMI (Feb) | 52.2 | 52.2 | 51.2 |
+| 08:50 | EUR | HCOB France Services PMI (Feb) | 48.4 | 48.0 | 45.4 |
+| 08:55 | EUR | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
+| 15 min | GBP | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
+| 15 min | GBP | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
+| 15 min | ZAR | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
 | 14:45 | USD | S&P Global Composite PMI (Feb) |  | 51.4 | 52.0 |
 | 15:00 | USD | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |
