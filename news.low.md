@@ -42,5 +42,5 @@
 | 21:00 | KRW | FX Reserves - USD (Feb) | 415.73B |  | 415.76B |
 | 22:00 | AUD | AIG Construction Index (Feb) | -18.4 |  | -11.5 |
 | 22:00 | AUD | AIG Manufacturing Index (Feb) | -12.6 |  | -23.8 |
-| 46 min | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
-| 46 min | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | CPI (YoY) (Feb) | 3.1% | 2.9% | 2.8% |
+| 23:00 | KRW | CPI (MoM) (Feb) | 0.5% | 0.4% | 0.4% |
