@@ -12,8 +12,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 0.718% |  | 0.741% |
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 05:00 | INR | Low | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
-| 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
+| 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) | 50.8 |  | 49.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) | -1.1% | -0.1% | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) | 54.7 | 53.4 | 52.1 |
@@ -23,8 +23,8 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.4 | 48.0 | 45.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 46.3 | 46.1 | 47.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
@@ -44,27 +44,27 @@
 | 12:00 | BRL | Low | Brazilian PPI (MoM) (Jan) | -0.31% |  | -0.20% |
 | 13:00 | BRL | Low | S&P Global Composite PMI (Feb) | 55.1 |  | 53.2 |
 | 13:00 | BRL | Low | S&P Global Services PMI (Feb) | 54.6 |  | 53.1 |
-| 13:15 | CAD | Low | Reserve Assets Total (Feb) |  |  | 116.3B |
-| 38 min | USD | Low | Redbook (YoY) |  |  | 2.7% |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Feb) |  | 51.4 | 52.0 |
-| 14:45 | USD | High | S&P Global Services PMI (Feb) |  | 51.3 | 52.5 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -7.3% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.5% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 55.8 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 55.0 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 53.0 | 53.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) |  |  | 64.0 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.5% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,664.0 |
+| 13:15 | CAD | Low | Reserve Assets Total (Feb) | 116.3B |  | 116.3B |
+| 13:55 | USD | Low | Redbook (YoY) | 3.1% |  | 2.7% |
+| 30 min | USD | Moderate | S&P Global Composite PMI (Feb) |  | 51.4 | 52.0 |
+| 30 min | USD | High | S&P Global Services PMI (Feb) |  | 51.3 | 52.5 |
+| 45 min | USD | Low | Durables Excluding Defense (MoM) (Jan) |  |  | -7.3% |
+| 45 min | USD | Low | Durables Excluding Transport (MoM) (Jan) |  |  | 0.5% |
+| 45 min | USD | Moderate | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
+| 45 min | USD | Low | Factory orders ex transportation (MoM) (Jan) |  |  | 0.4% |
+| 45 min | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
+| 45 min | USD | Low | ISM Non-Manufacturing Business Activity (Feb) |  |  | 55.8 |
+| 45 min | USD | Moderate | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |
+| 45 min | USD | Low | ISM Non-Manufacturing New Orders (Feb) |  |  | 55.0 |
+| 45 min | USD | High | ISM Non-Manufacturing PMI (Feb) |  | 53.0 | 53.4 |
+| 45 min | USD | High | ISM Non-Manufacturing Prices (Feb) |  |  | 64.0 |
+| 45 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.5% |
+| 45 min | USD | Low | Milk Auctions |  |  | 3,664.0 |
 | 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |

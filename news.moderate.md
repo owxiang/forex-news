@@ -16,9 +16,9 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Feb) | 53.8 | 54.3 | 54.3 |
 | 09:30 | ZAR | GDP Annualized (QoQ) | 0.1% | 0.3% | -0.2% |
-| 14:45 | USD | S&P Global Composite PMI (Feb) |  | 51.4 | 52.0 |
-| 15:00 | USD | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |
+| 30 min | USD | S&P Global Composite PMI (Feb) |  | 51.4 | 52.0 |
+| 45 min | USD | Factory Orders (MoM) (Jan) |  | -3.1% | 0.2% |
+| 45 min | USD | ISM Non-Manufacturing Employment (Feb) |  |  | 50.5 |
 | 17:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 8.428M |
