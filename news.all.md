@@ -12,8 +12,8 @@
 | 03:35 | JPY | Moderate | 10-Year JGB Auction | 0.718% |  | 0.741% |
 | 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 05:00 | INR | Low | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
-| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
+| 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
 | 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) | 50.8 |  | 49.2 |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) | -1.1% | -0.1% | 0.4% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) | 54.7 | 53.4 | 52.1 |
@@ -59,11 +59,11 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Feb) | 56.1 | 54.4 | 55.0 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) | 52.6 | 53.0 | 53.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) | 58.6 | 62.0 | 64.0 |
-| 41 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
