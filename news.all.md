@@ -23,8 +23,8 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.4 | 48.0 | 45.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 46.3 | 46.1 | 47.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
@@ -36,8 +36,8 @@
 | 10:00 | EUR | Low | Spanish 12-Month Letras Auction | 3.508% |  | 3.342% |
 | 10:00 | EUR | Low | Spanish 6-Month Letras Auction | 3.702% |  | 3.653% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Feb) | 4.90% |  | 1.40% |
-| 10:00 | EUR | Low | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
 | 10:00 | EUR | Low | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
+| 10:00 | EUR | Low | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
 | 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.314% |  | 4.095% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.400% |  | 2.300% |
 | 11:15 | USD | Low | Total Vehicle Sales | 15.81M |  | 14.92M |
@@ -60,8 +60,8 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) | 52.6 | 53.0 | 53.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) | 58.6 | 62.0 | 64.0 |
 | 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 20:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 21:00 | KRW | Low | FX Reserves - USD (Feb) |  |  | 415.76B |
+| 14 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 44 min | KRW | Low | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.600M | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
