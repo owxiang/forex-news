@@ -22,16 +22,16 @@
 | 10:00 | EUR | Spanish 12-Month Letras Auction | 3.508% |  | 3.342% |
 | 10:00 | EUR | Spanish 6-Month Letras Auction | 3.702% |  | 3.653% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) | 4.90% |  | 1.40% |
-| 10:00 | EUR | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
 | 10:00 | EUR | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
+| 10:00 | EUR | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.314% |  | 4.095% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.300% |
-| 15 min | EUR | Spanish Consumer Confidence |  |  | 78.6 |
-| 45 min | BRL | Brazilian PPI (MoM) (Jan) |  |  | -0.18% |
-| 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 53.2 |
-| 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 53.1 |
-| 13:00 | SGD | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
-| 13:15 | CAD | Reserve Assets Total (Feb) |  |  | 116.3B |
+| 11:15 | USD | Total Vehicle Sales | 15.81M |  | 14.92M |
+| 12:00 | BRL | Brazilian PPI (MoM) (Jan) | -0.31% |  | -0.20% |
+| 31 min | BRL | S&P Global Composite PMI (Feb) |  |  | 53.2 |
+| 31 min | BRL | S&P Global Services PMI (Feb) |  |  | 53.1 |
+| 31 min | SGD | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
+| 46 min | CAD | Reserve Assets Total (Feb) |  |  | 116.3B |
 | 13:55 | USD | Redbook (YoY) |  |  | 2.7% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Jan) |  |  | -7.3% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Jan) |  |  | 0.5% |
@@ -39,11 +39,10 @@
 | 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Feb) |  |  | 55.8 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Feb) |  |  | 55.0 |
-| 15:00 | USD | Total Vehicle Sales |  |  | 15.00M |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.5% |
 | 15:00 | USD | Milk Auctions |  |  | 3,664.0 |
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 22:00 | AUD | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
