@@ -14,8 +14,8 @@
 | 05:00 | INR | Low | S&P Global India Services PMI (Feb) | 60.6 | 62.0 | 61.8 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) | -0.7% |  | 0.1% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) | 1.3% |  | -0.5% |
-| 55 min | ZAR | Low | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
+| 07:15 | ZAR | Low | S&P Global South Africa PMI (Feb) |  |  | 49.2 |
+| 31 min | EUR | Low | French Industrial Production (MoM) (Jan) |  | -0.1% | 1.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Feb) |  | 53.4 | 52.1 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Feb) |  |  | 50.7 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Feb) |  | 52.2 | 51.2 |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.342% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
@@ -68,5 +68,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
+| 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
