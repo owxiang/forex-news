@@ -22,13 +22,12 @@
 | 10:00 | EUR | Spanish 12-Month Letras Auction | 3.508% |  | 3.342% |
 | 10:00 | EUR | Spanish 6-Month Letras Auction | 3.702% |  | 3.653% |
 | 10:00 | NOK | House Price Index (YoY) (Feb) | 4.90% |  | 1.40% |
-| 10:00 | EUR | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
 | 10:00 | EUR | PPI (MoM) (Jan) | -0.9% | -0.1% | -0.9% |
-| 12 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.095% |
-| 12 min | EUR | German 5-Year Bobl Auction |  |  | 2.300% |
-| 42 min | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
-| 11:30 | EUR | Spanish Consumer Confidence |  |  | 78.6 |
-| 12:00 | BRL | Brazilian PPI (MoM) (Jan) |  |  | -0.18% |
+| 10:00 | EUR | PPI (YoY) (Jan) | -8.6% | -8.1% | -10.7% |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.314% |  | 4.095% |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.400% |  | 2.300% |
+| 15 min | EUR | Spanish Consumer Confidence |  |  | 78.6 |
+| 45 min | BRL | Brazilian PPI (MoM) (Jan) |  |  | -0.18% |
 | 13:00 | BRL | S&P Global Composite PMI (Feb) |  |  | 53.2 |
 | 13:00 | BRL | S&P Global Services PMI (Feb) |  |  | 53.1 |
 | 13:00 | SGD | S&P Global Singapore PMI (Feb) |  |  | 50.7 |
