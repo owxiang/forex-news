@@ -9,8 +9,8 @@
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Feb) | 52.9 | 52.5 | 53.1 |
 | 00:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Feb) | 49.7 |  | 49.9 |
 | 01:45 | CNY | Moderate | Caixin Services PMI (Feb) | 52.5 | 52.9 | 52.7 |
-| 03:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.741% |
-| 04:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 18 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.741% |
+| 43 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
 | 05:00 | INR | Low | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
 | 05:00 | SGD | Low | Retail Sales (MoM) (Jan) |  |  | -1.5% |
 | 05:00 | SGD | Low | Retail Sales (YoY) (Jan) |  |  | -0.4% |
@@ -29,8 +29,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) |  | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) |  | 53.3 | 52.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Feb) |  | 54.3 | 54.3 |
-| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
 | 09:30 | ZAR | Low | GDP (YoY) (Q4) |  | 0.9% | -0.7% |
+| 09:30 | ZAR | Moderate | GDP Annualized (QoQ) |  | 0.3% | -0.2% |
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.342% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.653% |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.131% |
@@ -67,5 +67,5 @@
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 8.428M |
 | 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
 | 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |

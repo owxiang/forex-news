@@ -5,7 +5,7 @@
 | 00:00 | NZD | ANZ Commodity Price Index (MoM) | 3.5% |  | 2.1% |
 | 00:30 | AUD | Net Exports Contribution (Q4) | 0.6% |  | -0.6% |
 | 00:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Feb) | 49.7 |  | 49.9 |
-| 04:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 43 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 05:00 | INR | S&P Global India Services PMI (Feb) |  | 62.0 | 61.8 |
 | 05:00 | SGD | Retail Sales (MoM) (Jan) |  |  | -1.5% |
 | 05:00 | SGD | Retail Sales (YoY) (Jan) |  |  | -0.4% |
@@ -44,5 +44,5 @@
 | 21:00 | KRW | FX Reserves - USD (Feb) |  |  | 415.76B |
 | 22:00 | AUD | AIG Construction Index (Feb) |  |  | -11.5 |
 | 22:00 | AUD | AIG Manufacturing Index (Feb) |  |  | -23.8 |
-| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
 | 23:00 | KRW | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
+| 23:00 | KRW | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
