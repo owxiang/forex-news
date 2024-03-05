@@ -23,8 +23,8 @@
 | 08:50 | EUR | Moderate | HCOB France Services PMI (Feb) | 48.4 | 48.0 | 45.4 |
 | 08:55 | EUR | Low | HCOB Germany Composite PMI (Feb) | 46.3 | 46.1 | 47.0 |
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Feb) | 48.3 | 48.2 | 47.7 |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q4) | 0.6% | 0.5% | 0.5% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Feb) | 49.2 | 48.9 | 47.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Feb) | 50.2 | 50.0 | 48.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Feb) | 53.0 | 53.3 | 52.9 |
@@ -60,10 +60,10 @@
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Feb) | 52.6 | 53.0 | 53.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Feb) | 58.6 | 62.0 | 64.0 |
 | 17:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 14 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 44 min | KRW | Low | FX Reserves - USD (Feb) |  |  | 415.76B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.600M | 8.428M |
-| 22:00 | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
-| 22:00 | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
+| 20:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 21:00 | KRW | Low | FX Reserves - USD (Feb) | 415.73B |  | 415.76B |
+| 16 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.600M | 8.428M |
+| 46 min | AUD | Low | AIG Construction Index (Feb) |  |  | -11.5 |
+| 46 min | AUD | Low | AIG Manufacturing Index (Feb) |  |  | -23.8 |
 | 23:00 | KRW | Low | CPI (YoY) (Feb) |  | 2.9% | 2.8% |
 | 23:00 | KRW | Low | CPI (MoM) (Feb) |  | 0.4% | 0.4% |
