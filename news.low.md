@@ -13,8 +13,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 39.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 41.3 |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 19.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
 | 10:00 | ZAR | Business Confidence |  |  | 112.3 |
 | 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.3% |
@@ -41,7 +41,7 @@
 | 15:30 | USD | Gasoline Production |  |  | 0.390M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.137M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 15:30 | USD | Gasoline Inventories |  | -1.600M | -2.832M |
+| 15:30 | USD | Gasoline Inventories |  | -1.640M | -2.832M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
 | 18:00 | BRL | Trade Balance (Feb) |  | 5.79B | 6.53B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |

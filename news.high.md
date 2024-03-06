@@ -7,4 +7,4 @@
 | 14:45 | CAD | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | USD | JOLTs Job Openings (Jan) |  | 8.800M | 9.026M |
-| 15:30 | USD | Crude Oil Inventories |  | 2.600M | 4.199M |
+| 15:30 | USD | Crude Oil Inventories |  | 2.400M | 4.199M |
