@@ -13,8 +13,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 39.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 41.3 |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | 19.1% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
+| 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
 | 10:00 | ZAR | Business Confidence |  |  | 112.3 |
 | 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.3% |
