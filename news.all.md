@@ -18,8 +18,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Feb) | 49.7 | 49.0 | 48.8 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 11:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.3% |
 | 11:30 | BRL | Low | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
@@ -30,8 +30,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 428.1 |  | 395.9 |
 | 12:00 | MXN | Low | Consumer Confidence | 47.0 |  | 47.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) | 3.6% | 2.8% | 1.0% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
 | 12:30 | GBP | High | Spring Forecast Statement |  |  |  |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) | 140K | 149K | 111K |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) | 0.4% | 0.2% | -0.5% |
