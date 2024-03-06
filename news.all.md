@@ -33,8 +33,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 395.9 |
 | 12:00 | MXN | Low | Consumer Confidence |  |  | 47.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.6 |
-| 12:00 | BRL | Low | Industrial Production (MoM) (Jan) |  | -1.3% | 1.1% |
 | 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) |  | 2.8% | 1.0% |
+| 12:00 | BRL | Low | Industrial Production (MoM) (Jan) |  | -1.3% | 1.1% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 149K | 107K |
