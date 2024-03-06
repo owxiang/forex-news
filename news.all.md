@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.3% |
 | 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 1.5% | 1.4% | 2.1% |
+| 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.3% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | -0.2% |  | 1.6% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 2.0% |  | 0.5% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.2% |  | 0.3% |
@@ -18,8 +18,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Feb) | 49.7 | 49.0 | 48.8 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 11:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.3% |
 | 11:30 | BRL | Low | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
@@ -55,10 +55,10 @@
 | 15:30 | USD | Low | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
 | 15:30 | USD | Low | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 39 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.317B |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
-| 18:00 | BRL | Low | Trade Balance (Feb) |  | 5.79B | 6.53B |
+| 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -2.317B |
+| 46 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
+| 46 min | BRL | Low | Trade Balance (Feb) |  | 5.79B | 6.53B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |

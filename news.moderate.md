@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.3% |
 | 00:30 | AUD | GDP (YoY) (Q4) | 1.5% | 1.4% | 2.1% |
+| 00:30 | AUD | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.3% |
 | 00:30 | AUD | Retail Sales (MoM) | 1.1% | 1.1% | -2.1% |
 | 07:00 | EUR | German Trade Balance (Jan) | 27.5B | 21.0B | 23.3B |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Feb) | 49.7 | 49.0 | 48.8 |
@@ -13,7 +13,7 @@
 | 15:00 | CAD | Ivey PMI (Feb) | 53.9 |  | 56.5 |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.701M |  | 1.458M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 39 min | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
+| 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 46 min | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
 | 19:00 | USD | Beige Book |  |  |  |
 | 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |

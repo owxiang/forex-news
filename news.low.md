@@ -13,8 +13,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 41.9 |  | 39.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
 | 10:00 | EUR | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
+| 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 11:30 | INR | M3 Money Supply | 10.9% |  | 11.3% |
 | 11:30 | BRL | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
 | 11:30 | BRL | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
@@ -38,8 +38,8 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | 0.9% |
 | 15:30 | USD | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
 | 15:30 | USD | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
-| 18:00 | BRL | Trade Balance (Feb) |  | 5.79B | 6.53B |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -2.317B |
+| 46 min | BRL | Trade Balance (Feb) |  | 5.79B | 6.53B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
 | 23:00 | JPY | Overall wage income of employees (Jan) |  |  | 1.0% |
 | 23:00 | JPY | Overtime Pay (YoY) (Jan) |  |  | -0.70% |
