@@ -8,10 +8,10 @@
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 2.0% |  | 0.5% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.2% |  | 0.3% |
 | 00:30 | AUD | Moderate | Retail Sales (MoM) | 1.1% | 1.1% | -2.1% |
-| 38 min | EUR | Low | German Exports (MoM) (Jan) |  | 1.5% | -4.6% |
-| 38 min | EUR | Low | German Imports (MoM) (Jan) |  | 1.8% | -6.7% |
-| 38 min | EUR | Moderate | German Trade Balance (Jan) |  | 21.0B | 22.2B |
-| 38 min | NOK | Low | Current Account (Q4) |  |  | 193.0B |
+| 07:00 | EUR | Low | German Exports (MoM) (Jan) | 6.3% | 1.5% | -4.6% |
+| 07:00 | EUR | Low | German Imports (MoM) (Jan) | 3.6% | 1.8% | -6.7% |
+| 07:00 | EUR | Moderate | German Trade Balance (Jan) | 27.5B | 21.0B | 22.2B |
+| 07:00 | NOK | Low | Current Account (Q4) | 235.3B |  | 193.1B |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 51.6 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 36.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 39.6 |
@@ -19,8 +19,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Feb) |  | 49.0 | 48.8 |
 | 10:00 | GBP | High | Spring Forecast Statement |  |  |  |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 19.1% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
 | 10:00 | ZAR | Low | Business Confidence |  |  | 112.3 |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 11.3% |
