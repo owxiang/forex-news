@@ -8,10 +8,10 @@
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 2.0% |  | 0.5% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.2% |  | 0.3% |
 | 00:30 | AUD | Moderate | Retail Sales (MoM) | 1.1% | 1.1% | -2.1% |
-| 07:00 | EUR | Low | German Exports (MoM) (Jan) |  | 1.5% | -4.6% |
-| 07:00 | EUR | Low | German Imports (MoM) (Jan) |  | 1.8% | -6.7% |
-| 07:00 | EUR | Moderate | German Trade Balance (Jan) |  | 21.0B | 22.2B |
-| 07:00 | NOK | Low | Current Account (Q4) |  |  | 193.0B |
+| 38 min | EUR | Low | German Exports (MoM) (Jan) |  | 1.5% | -4.6% |
+| 38 min | EUR | Low | German Imports (MoM) (Jan) |  | 1.8% | -6.7% |
+| 38 min | EUR | Moderate | German Trade Balance (Jan) |  | 21.0B | 22.2B |
+| 38 min | NOK | Low | Current Account (Q4) |  |  | 193.0B |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 51.6 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 36.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 39.6 |
