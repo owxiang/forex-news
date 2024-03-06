@@ -8,9 +8,9 @@
 | 07:00 | EUR | German Trade Balance (Jan) | 27.5B | 21.0B | 23.3B |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Feb) | 49.7 | 49.0 | 48.8 |
 | 12:00 | BRL | Industrial Production (YoY) (Jan) | 3.6% | 2.8% | 1.0% |
-| 13 min | CAD | Labor Productivity (QoQ) (Q4) |  | 0.2% | -0.8% |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | CAD | Ivey PMI (Feb) |  |  | 56.5 |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q4) | 0.4% | 0.2% | -0.5% |
+| 31 min | CAD | BoC Rate Statement |  |  |  |
+| 46 min | CAD | Ivey PMI (Feb) |  |  | 56.5 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.458M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |

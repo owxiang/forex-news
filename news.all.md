@@ -34,16 +34,16 @@
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
 | 12:30 | GBP | High | Spring Forecast Statement |  |  |  |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) | 140K | 149K | 111K |
-| 13 min | CAD | Moderate | Labor Productivity (QoQ) (Q4) |  | 0.2% | -0.8% |
-| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
-| 15:00 | USD | High | JOLTs Job Openings (Jan) |  | 8.800M | 9.026M |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 54.4 |
-| 15:00 | CAD | Moderate | Ivey PMI (Feb) |  |  | 56.5 |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q4) | 0.4% | 0.2% | -0.5% |
+| 31 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 31 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 46 min | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 46 min | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
+| 46 min | USD | High | JOLTs Job Openings (Jan) |  | 8.800M | 9.026M |
+| 46 min | USD | Low | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
+| 46 min | USD | Low | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
+| 46 min | CAD | Low | Ivey PMI n.s.a (Feb) |  |  | 54.4 |
+| 46 min | CAD | Moderate | Ivey PMI (Feb) |  |  | 56.5 |
 | 15:30 | USD | High | Crude Oil Inventories |  | 2.400M | 4.199M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.100M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.032M |

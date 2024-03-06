@@ -26,10 +26,10 @@
 | 12:00 | MXN | Consumer Confidence | 47.0 |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
 | 12:00 | BRL | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
-| 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
-| 15:00 | CAD | Ivey PMI n.s.a (Feb) |  |  | 54.4 |
+| 46 min | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
+| 46 min | USD | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
+| 46 min | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
+| 46 min | CAD | Ivey PMI n.s.a (Feb) |  |  | 54.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.100M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.032M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.118M |
