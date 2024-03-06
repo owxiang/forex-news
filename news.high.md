@@ -1,7 +1,10 @@
-## 05 March 2024 - High Impact Forex News
+## 06 March 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global Services PMI (Feb) | 52.3 | 51.3 | 52.5 |
-| 15:00 | USD | ISM Non-Manufacturing PMI (Feb) | 52.6 | 53.0 | 53.4 |
-| 15:00 | USD | ISM Non-Manufacturing Prices (Feb) | 58.6 | 62.0 | 64.0 |
+| 10:00 | GBP | Spring Forecast Statement |  |  |  |
+| 13:15 | USD | ADP Nonfarm Employment Change (Feb) |  | 149K | 107K |
+| 14:45 | CAD | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
+| 15:00 | USD | JOLTs Job Openings (Jan) |  | 8.800M | 9.026M |
+| 15:30 | USD | Crude Oil Inventories |  | 2.600M | 4.199M |
