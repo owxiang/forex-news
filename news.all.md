@@ -12,16 +12,16 @@
 | 07:00 | EUR | Low | German Imports (MoM) (Jan) | 3.6% | 1.8% | -6.7% |
 | 07:00 | EUR | Moderate | German Trade Balance (Jan) | 27.5B | 21.0B | 23.3B |
 | 07:00 | NOK | Low | Current Account (Q4) | 235.3B |  | 193.1B |
-| 8 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 51.6 |
-| 8 min | EUR | Low | HCOB Germany Construction PMI (Feb) |  |  | 36.3 |
-| 8 min | EUR | Low | HCOB France Construction PMI (MoM) (Feb) |  |  | 39.6 |
-| 8 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 41.3 |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Feb) |  | 49.0 | 48.8 |
-| 10:00 | GBP | High | Spring Forecast Statement |  |  |  |
-| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 19.1% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
-| 10:00 | ZAR | Low | Business Confidence |  |  | 112.3 |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Feb) | 50.3 |  | 51.6 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Feb) | 39.1 |  | 36.3 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Feb) | 41.9 |  | 39.6 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
+| 14 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Feb) |  | 49.0 | 48.8 |
+| 44 min | GBP | High | Spring Forecast Statement |  |  |  |
+| 44 min | EUR | Low | German Car Registration (YoY) |  |  | 19.1% |
+| 44 min | EUR | Low | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
+| 44 min | EUR | Low | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
+| 44 min | ZAR | Low | Business Confidence |  |  | 112.3 |
 | 11:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | INR | Low | M3 Money Supply |  |  | 11.3% |
 | 11:30 | BRL | Low | Current Account (USD) (Jan) |  | -5.60B | -5.80B |
@@ -33,8 +33,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 395.9 |
 | 12:00 | MXN | Low | Consumer Confidence |  |  | 47.1 |
 | 12:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.6 |
-| 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) |  | 2.8% | 1.0% |
 | 12:00 | BRL | Low | Industrial Production (MoM) (Jan) |  | -1.3% | 1.1% |
+| 12:00 | BRL | Moderate | Industrial Production (YoY) (Jan) |  | 2.8% | 1.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Feb) |  | 149K | 107K |

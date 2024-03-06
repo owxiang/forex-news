@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | GBP | Spring Forecast Statement |  |  |  |
+| 44 min | GBP | Spring Forecast Statement |  |  |  |
 | 13:15 | USD | ADP Nonfarm Employment Change (Feb) |  | 149K | 107K |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 15:00 | USD | Fed Chair Powell Testifies |  |  |  |

@@ -8,14 +8,14 @@
 | 07:00 | EUR | German Exports (MoM) (Jan) | 6.3% | 1.5% | -4.5% |
 | 07:00 | EUR | German Imports (MoM) (Jan) | 3.6% | 1.8% | -6.7% |
 | 07:00 | NOK | Current Account (Q4) | 235.3B |  | 193.1B |
-| 8 min | EUR | HCOB Italy Construction PMI (MoM) (Feb) |  |  | 51.6 |
-| 8 min | EUR | HCOB Germany Construction PMI (Feb) |  |  | 36.3 |
-| 8 min | EUR | HCOB France Construction PMI (MoM) (Feb) |  |  | 39.6 |
-| 8 min | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) |  |  | 41.3 |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | 19.1% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
-| 10:00 | ZAR | Business Confidence |  |  | 112.3 |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) | 50.3 |  | 51.6 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Feb) | 39.1 |  | 36.3 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 41.9 |  | 39.6 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
+| 44 min | EUR | German Car Registration (YoY) |  |  | 19.1% |
+| 44 min | EUR | Retail Sales (MoM) (Jan) |  | 0.1% | -1.1% |
+| 44 min | EUR | Retail Sales (YoY) (Jan) |  | -1.3% | -0.8% |
+| 44 min | ZAR | Business Confidence |  |  | 112.3 |
 | 11:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 11:30 | INR | M3 Money Supply |  |  | 11.3% |
 | 11:30 | BRL | Current Account (USD) (Jan) |  | -5.60B | -5.80B |
