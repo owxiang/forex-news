@@ -39,7 +39,7 @@
 | 15:30 | USD | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
 | 15:30 | USD | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
 | 18:00 | BRL | Trade Balance (Feb) | 5.45B | 5.79B | 6.50B |
-| 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
+| 31 min | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
 | 23:00 | JPY | Overall wage income of employees (Jan) |  |  | 1.0% |
 | 23:00 | JPY | Overtime Pay (YoY) (Jan) |  |  | -0.70% |
 | 23:30 | JPY | Average Cash Earnings (YoY) |  | 1.3% | 1.0% |
