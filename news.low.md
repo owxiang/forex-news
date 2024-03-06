@@ -13,8 +13,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 41.9 |  | 39.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
 | 10:00 | EUR | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
 | 11:30 | INR | M3 Money Supply | 10.9% |  | 11.3% |
 | 11:30 | BRL | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
 | 11:30 | BRL | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
@@ -26,18 +26,18 @@
 | 12:00 | MXN | Consumer Confidence | 47.0 |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
 | 12:00 | BRL | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
-| 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) | -0.3% | -0.1% | 0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) | -1.7% | 0.3% | 0.3% |
 | 15:00 | CAD | Ivey PMI n.s.a (Feb) | 56.3 |  | 54.4 |
-| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.100M |
-| 12 min | USD | Crude Oil Imports |  |  | -0.032M |
-| 12 min | USD | Distillate Fuel Production |  |  | 0.118M |
-| 12 min | USD | EIA Weekly Distillates Stocks |  | -1.000M | -0.510M |
-| 12 min | USD | Gasoline Production |  |  | 0.390M |
-| 12 min | USD | Heating Oil Stockpiles |  |  | -0.137M |
-| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 12 min | USD | Gasoline Inventories |  | -1.640M | -2.832M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.594M |  | 0.100M |
+| 15:30 | USD | Crude Oil Imports | 0.928M |  | -0.032M |
+| 15:30 | USD | Distillate Fuel Production | 0.056M |  | 0.118M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | -4.131M | -1.000M | -0.510M |
+| 15:30 | USD | Gasoline Production | 0.207M |  | 0.390M |
+| 15:30 | USD | Heating Oil Stockpiles | -0.812M |  | -0.137M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | 0.9% |
+| 15:30 | USD | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
+| 15:30 | USD | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
 | 18:00 | BRL | Trade Balance (Feb) |  | 5.79B | 6.53B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |

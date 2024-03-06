@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 1.5% | 1.4% | 2.1% |
 | 00:30 | AUD | Moderate | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.3% |
+| 00:30 | AUD | Moderate | GDP (YoY) (Q4) | 1.5% | 1.4% | 2.1% |
 | 00:30 | AUD | Low | GDP Capital Expenditure (Q4) | -0.2% |  | 1.6% |
 | 00:30 | AUD | Low | GDP Chain Price Index (Q4) | 2.0% |  | 0.5% |
 | 00:30 | AUD | Low | GDP Final Consumption (Q4) | 0.2% |  | 0.3% |
@@ -18,8 +18,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Feb) | 49.7 | 49.0 | 48.8 |
 | 10:00 | EUR | Low | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
 | 11:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.3% |
 | 11:30 | BRL | Low | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
@@ -38,24 +38,24 @@
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
 | 15:00 | USD | High | JOLTs Job Openings (Jan) | 8.863M | 8.800M | 8.889M |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Jan) | -0.3% | -0.1% | 0.4% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Jan) | -1.7% | 0.3% | 0.3% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Feb) | 56.3 |  | 54.4 |
 | 15:00 | CAD | Moderate | Ivey PMI (Feb) | 53.9 |  | 56.5 |
-| 12 min | USD | High | Crude Oil Inventories |  | 2.400M | 4.199M |
-| 12 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.100M |
-| 12 min | USD | Low | Crude Oil Imports |  |  | -0.032M |
-| 12 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.458M |
-| 12 min | USD | Low | Distillate Fuel Production |  |  | 0.118M |
-| 12 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.000M | -0.510M |
-| 12 min | USD | Low | Gasoline Production |  |  | 0.390M |
-| 12 min | USD | Low | Heating Oil Stockpiles |  |  | -0.137M |
-| 12 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 12 min | USD | Low | Gasoline Inventories |  | -1.640M | -2.832M |
-| 12 min | CAD | Moderate | BOC Press Conference |  |  |  |
-| 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 1.367M | 2.400M | 4.199M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.594M |  | 0.100M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.928M |  | -0.032M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.701M |  | 1.458M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.056M |  | 0.118M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -4.131M | -1.000M | -0.510M |
+| 15:30 | USD | Low | Gasoline Production | 0.207M |  | 0.390M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.812M |  | -0.137M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | 0.9% |
+| 15:30 | USD | Low | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
+| 15:30 | USD | Low | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 39 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -2.317B |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
 | 18:00 | BRL | Low | Trade Balance (Feb) |  | 5.79B | 6.53B |
