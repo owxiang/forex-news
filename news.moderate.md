@@ -15,5 +15,5 @@
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.1% | 2.1% |
-| 40 min | USD | Beige Book |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
 | 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
