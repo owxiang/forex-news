@@ -38,8 +38,7 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | 0.9% |
 | 15:30 | USD | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
 | 15:30 | USD | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
-| 16 min | BRL | Foreign Exchange Flows |  |  | -2.317B |
-| 46 min | BRL | Trade Balance (Feb) |  | 5.79B | 6.53B |
+| 18:00 | BRL | Trade Balance (Feb) | 5.45B | 5.79B | 6.53B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
 | 23:00 | JPY | Overall wage income of employees (Jan) |  |  | 1.0% |
 | 23:00 | JPY | Overtime Pay (YoY) (Jan) |  |  | -0.70% |

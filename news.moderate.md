@@ -14,6 +14,6 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.701M |  | 1.458M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 46 min | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
-| 19:00 | USD | Beige Book |  |  |  |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.1% | 2.1% |
+| 40 min | USD | Beige Book |  |  |  |
 | 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |

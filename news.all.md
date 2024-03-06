@@ -56,10 +56,9 @@
 | 15:30 | USD | Low | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
 | 17:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -2.317B |
-| 46 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
-| 46 min | BRL | Low | Trade Balance (Feb) |  | 5.79B | 6.53B |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.5% | 2.1% | 2.1% |
+| 18:00 | BRL | Low | Trade Balance (Feb) | 5.45B | 5.79B | 6.53B |
+| 40 min | USD | Moderate | Beige Book |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
 | 23:00 | JPY | Low | Overall wage income of employees (Jan) |  |  | 1.0% |
