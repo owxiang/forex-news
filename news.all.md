@@ -60,9 +60,9 @@
 | 18:00 | BRL | Low | Trade Balance (Feb) | 5.45B | 5.79B | 6.50B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 20:15 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 31 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
-| 23:00 | JPY | Low | Overall wage income of employees (Jan) |  |  | 1.0% |
-| 23:00 | JPY | Low | Overtime Pay (YoY) (Jan) |  |  | -0.70% |
+| 21:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q4) | -0.6% |  | -2.7% |
+| 45 min | JPY | Low | Overall wage income of employees (Jan) |  |  | 1.0% |
+| 45 min | JPY | Low | Overtime Pay (YoY) (Jan) |  |  | -0.70% |
 | 23:30 | JPY | Low | Average Cash Earnings (YoY) |  | 1.3% | 1.0% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -257.0B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -206.0B |
