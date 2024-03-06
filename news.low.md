@@ -26,18 +26,18 @@
 | 12:00 | MXN | Consumer Confidence | 47.0 |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
 | 12:00 | BRL | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
-| 46 min | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
-| 46 min | USD | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
-| 46 min | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
-| 46 min | CAD | Ivey PMI n.s.a (Feb) |  |  | 54.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.100M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.032M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.118M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.000M | -0.510M |
-| 15:30 | USD | Gasoline Production |  |  | 0.390M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.137M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 15:30 | USD | Gasoline Inventories |  | -1.640M | -2.832M |
+| 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
+| 15:00 | USD | Wholesale Inventories (MoM) (Jan) | -0.3% | -0.1% | 0.4% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) | -1.7% | 0.3% | 0.3% |
+| 15:00 | CAD | Ivey PMI n.s.a (Feb) | 56.3 |  | 54.4 |
+| 12 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.100M |
+| 12 min | USD | Crude Oil Imports |  |  | -0.032M |
+| 12 min | USD | Distillate Fuel Production |  |  | 0.118M |
+| 12 min | USD | EIA Weekly Distillates Stocks |  | -1.000M | -0.510M |
+| 12 min | USD | Gasoline Production |  |  | 0.390M |
+| 12 min | USD | Heating Oil Stockpiles |  |  | -0.137M |
+| 12 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 12 min | USD | Gasoline Inventories |  | -1.640M | -2.832M |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
 | 18:00 | BRL | Trade Balance (Feb) |  | 5.79B | 6.53B |
 | 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) |  |  | -2.7% |
