@@ -15,19 +15,19 @@
 | 10:00 | EUR | German Car Registration (YoY) | 5.4% |  | 19.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
-| 17 min | INR | M3 Money Supply |  |  | 11.3% |
-| 17 min | BRL | Current Account (USD) (Jan) |  | -5.60B | -5.80B |
-| 17 min | BRL | Foreign direct investment (USD) (Jan) |  | 4.05B | -0.39B |
-| 47 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.04% |
-| 47 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.6% |
-| 47 min | USD | MBA Purchase Index |  |  | 127.6 |
-| 47 min | USD | Mortgage Market Index |  |  | 171.5 |
-| 47 min | USD | Mortgage Refinance Index |  |  | 395.9 |
-| 47 min | MXN | Consumer Confidence |  |  | 47.1 |
-| 47 min | MXN | Consumer Confidence n.s.a. |  |  | 47.6 |
-| 47 min | BRL | Industrial Production (MoM) (Jan) |  | -1.3% | 1.1% |
-| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
+| 11:30 | INR | M3 Money Supply | 10.9% |  | 11.3% |
+| 11:30 | BRL | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
+| 11:30 | BRL | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.04% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 9.7% |  | -5.6% |
+| 12:00 | USD | MBA Purchase Index | 141.1 |  | 127.6 |
+| 12:00 | USD | Mortgage Market Index | 188.2 |  | 171.5 |
+| 12:00 | USD | Mortgage Refinance Index | 428.1 |  | 395.9 |
+| 12:00 | MXN | Consumer Confidence | 47.0 |  | 47.1 |
+| 12:00 | MXN | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
+| 12:00 | BRL | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
+| 31 min | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
+| 31 min | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
