@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 12:30 | GBP | Spring Forecast Statement |  |  |  |
-| 46 min | USD | ADP Nonfarm Employment Change (Feb) |  | 149K | 107K |
+| 13:15 | USD | ADP Nonfarm Employment Change (Feb) | 140K | 149K | 111K |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | USD | JOLTs Job Openings (Jan) |  | 8.800M | 9.026M |

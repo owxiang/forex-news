@@ -13,8 +13,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 41.9 |  | 39.6 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
 | 10:00 | EUR | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
+| 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
 | 11:30 | INR | M3 Money Supply | 10.9% |  | 11.3% |
 | 11:30 | BRL | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
 | 11:30 | BRL | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
@@ -26,8 +26,6 @@
 | 12:00 | MXN | Consumer Confidence | 47.0 |  | 47.1 |
 | 12:00 | MXN | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
 | 12:00 | BRL | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
-| 31 min | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 31 min | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 44.0 |
 | 15:00 | USD | Wholesale Inventories (MoM) (Jan) |  | -0.1% | 0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) |  |  | 0.7% |
