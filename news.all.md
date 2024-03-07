@@ -44,8 +44,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
 | 13:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
@@ -80,10 +80,10 @@
 | 20:00 | USD | Moderate | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 7,539B |  | 7,568B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.621T |  | 3.541T |
-| 46 min | KRW | Low | Current Account (Jan) |  |  | 7.41B |
-| 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
-| 23:50 | JPY | Moderate | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
-| 23:50 | JPY | Low | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
-| 23:50 | JPY | Moderate | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
-| 23:50 | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,291.8B |
+| 23:00 | KRW | Low | Current Account (Jan) | 3.05B |  | 7.41B |
+| 12 min | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
+| 12 min | JPY | Moderate | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 32 min | JPY | Moderate | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
+| 32 min | JPY | Low | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
+| 32 min | JPY | Moderate | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
+| 32 min | JPY | Low | Foreign Reserves (USD) (Feb) |  |  | 1,291.8B |

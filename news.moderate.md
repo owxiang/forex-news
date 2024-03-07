@@ -31,7 +31,7 @@
 | 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
 | 21:30 | USD | Fed's Balance Sheet | 7,539B |  | 7,568B |
-| 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
-| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
-| 23:50 | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
-| 23:50 | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
+| 12 min | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
+| 12 min | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 32 min | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
+| 32 min | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
