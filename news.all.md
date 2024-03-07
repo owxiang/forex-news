@@ -20,8 +20,8 @@
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 56.652B |  | 56.662B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 2.4% |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) | 2.2% | 2.2% | 2.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 225,601.0M |  | 226,483.0M |
@@ -44,10 +44,10 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
+| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
 | 13:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
@@ -68,10 +68,10 @@
 | 13:30 | CAD | Low | Imports (Jan) | 61.79B |  | 64.24B |
 | 13:30 | CAD | Moderate | Trade Balance (Jan) | 0.50B | -0.10B | -0.86B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 44 min | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 44 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 44 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -42B | -96B |
+| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 15:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15 min | USD | Low | Natural Gas Storage |  | -42B | -96B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |

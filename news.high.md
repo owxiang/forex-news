@@ -6,4 +6,4 @@
 | 13:15 | EUR | ECB Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
 | 13:30 | USD | Initial Jobless Claims | 217K | 217K | 217K |
 | 13:45 | EUR | ECB Press Conference |  |  |  |
-| 44 min | USD | Fed Chair Powell Testifies |  |  |  |
+| 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
