@@ -1,10 +1,9 @@
-## 06 March 2024 - High Impact Forex News
+## 07 March 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:30 | GBP | Spring Forecast Statement |  |  |  |
-| 13:15 | USD | ADP Nonfarm Employment Change (Feb) | 140K | 149K | 111K |
-| 14:45 | CAD | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
+| 13:15 | EUR | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
+| 13:15 | EUR | ECB Interest Rate Decision (Mar) |  | 4.50% | 4.50% |
+| 13:30 | USD | Initial Jobless Claims |  | 217K | 215K |
+| 13:45 | EUR | ECB Press Conference |  |  |  |
 | 15:00 | USD | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | JOLTs Job Openings (Jan) | 8.863M | 8.800M | 8.889M |
-| 15:30 | USD | Crude Oil Inventories | 1.367M | 2.400M | 4.199M |

@@ -1,48 +1,55 @@
-## 06 March 2024 - Low Impact Forex News
+## 07 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | GDP Capital Expenditure (Q4) | -0.2% |  | 1.6% |
-| 00:30 | AUD | GDP Chain Price Index (Q4) | 2.0% |  | 0.5% |
-| 00:30 | AUD | GDP Final Consumption (Q4) | 0.2% |  | 0.3% |
-| 07:00 | EUR | German Exports (MoM) (Jan) | 6.3% | 1.5% | -4.5% |
-| 07:00 | EUR | German Imports (MoM) (Jan) | 3.6% | 1.8% | -6.7% |
-| 07:00 | NOK | Current Account (Q4) | 235.3B |  | 193.1B |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Feb) | 50.3 |  | 51.6 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Feb) | 39.1 |  | 36.3 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Feb) | 41.9 |  | 39.6 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Feb) | 42.9 |  | 41.3 |
-| 10:00 | EUR | German Car Registration (YoY) | 5.4% |  | 19.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Jan) | -1.0% | -1.3% | -0.5% |
-| 10:00 | EUR | Retail Sales (MoM) (Jan) | 0.1% | 0.1% | -0.6% |
-| 11:30 | INR | M3 Money Supply | 10.9% |  | 11.3% |
-| 11:30 | BRL | Current Account (USD) (Jan) | -5.07B | -5.60B | -5.80B |
-| 11:30 | BRL | Foreign direct investment (USD) (Jan) | 8.74B | 4.05B | -0.39B |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.04% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 9.7% |  | -5.6% |
-| 12:00 | USD | MBA Purchase Index | 141.1 |  | 127.6 |
-| 12:00 | USD | Mortgage Market Index | 188.2 |  | 171.5 |
-| 12:00 | USD | Mortgage Refinance Index | 428.1 |  | 395.9 |
-| 12:00 | MXN | Consumer Confidence | 47.0 |  | 47.1 |
-| 12:00 | MXN | Consumer Confidence n.s.a. | 47.1 |  | 47.6 |
-| 12:00 | BRL | Industrial Production (MoM) (Jan) | -1.6% | -1.3% | 1.6% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Jan) | -0.3% | -0.1% | 0.4% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Jan) | -1.7% | 0.3% | 0.3% |
-| 15:00 | CAD | Ivey PMI n.s.a (Feb) | 56.3 |  | 54.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.594M |  | 0.100M |
-| 15:30 | USD | Crude Oil Imports | 0.928M |  | -0.032M |
-| 15:30 | USD | Distillate Fuel Production | 0.056M |  | 0.118M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -4.131M | -1.000M | -0.510M |
-| 15:30 | USD | Gasoline Production | 0.207M |  | 0.390M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.812M |  | -0.137M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 3.4% |  | 0.9% |
-| 15:30 | USD | Gasoline Inventories | -4.460M | -1.640M | -2.832M |
-| 15:30 | USD | IBD/TIPP Economic Optimism | 43.5 | 45.2 | 44.0 |
-| 18:00 | BRL | Trade Balance (Feb) | 5.45B | 5.79B | 6.50B |
-| 21:45 | NZD | Manufacturing Sales Volume (QoQ) (Q4) | -0.6% |  | -3.2% |
-| 14 min | JPY | Average Cash Earnings (YoY) |  | 1.3% | 1.0% |
-| 14 min | JPY | Overall wage income of employees (Jan) |  |  | 1.0% |
-| 14 min | JPY | Overtime Pay (YoY) (Jan) |  |  | -0.70% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | -257.0B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -206.0B |
-| 34 min | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,291.8B |
+| 00:30 | AUD | Exports (MoM) | 1.6% |  | 1.5% |
+| 00:30 | AUD | Imports (MoM) | 1.3% |  | 4.8% |
+| 00:30 | AUD | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
+| 03:00 | CNY | Exports (Feb) |  |  | 3.80M |
+| 03:00 | CNY | Imports (Feb) |  |  | 1.60M |
+| 03:00 | CNY | Trade Balance (Feb) |  | 620.00B | 540.90B |
+| 03:35 | JPY | 30-Year JGB Auction |  |  | 1.791% |
+| 04:00 | IDR | FX Reserves (USD) (Feb) |  |  | 145.10B |
+| 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
+| 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
+| 06:45 | CHF | Unemployment Rate s.a. (Feb) |  | 2.2% | 2.2% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | 0.3% |
+| 07:45 | EUR | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
+| 08:00 | CHF | Foreign Reserves (USD) (Feb) |  |  | 662,429.0B |
+| 08:00 | CNY | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
+| 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
+| 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
+| 09:00 | ZAR | Current Account |  | -92.0B | -19.3B |
+| 09:00 | ZAR | Current Account % of GDP |  |  | -0.30% |
+| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.170% |
+| 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.875% |
+| 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.873% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.70% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.27% |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
+| 11:30 | BRL | Budget Balance (Jan) |  |  | -193.430B |
+| 11:30 | BRL | Budget Surplus (Jan) |  |  | -129.573B |
+| 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
+| 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
+| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
+| 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
+| 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
+| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
+| 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
+| 13:30 | CAD | Exports (Jan) |  |  | 64.07B |
+| 13:30 | CAD | Imports (Jan) |  |  | 64.39B |
+| 15:30 | USD | Natural Gas Storage |  | -42B | -96B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.285% |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
+| 23:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
+| 23:00 | KRW | Current Account (Jan) |  |  | 7.41B |
+| 23:50 | JPY | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
+| 23:50 | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,291.8B |

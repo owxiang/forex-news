@@ -1,19 +1,37 @@
-## 06 March 2024 - Moderate Impact Forex News
+## 07 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | GDP (YoY) (Q4) | 1.5% | 1.4% | 2.1% |
-| 00:30 | AUD | GDP (QoQ) (Q4) | 0.2% | 0.2% | 0.3% |
-| 00:30 | AUD | Retail Sales (MoM) | 1.1% | 1.1% | -2.1% |
-| 07:00 | EUR | German Trade Balance (Jan) | 27.5B | 21.0B | 23.3B |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Feb) | 49.7 | 49.0 | 48.8 |
-| 12:00 | BRL | Industrial Production (YoY) (Jan) | 3.6% | 2.8% | 1.0% |
-| 13:30 | CAD | Labor Productivity (QoQ) (Q4) | 0.4% | 0.2% | -0.5% |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | CAD | Ivey PMI (Feb) | 53.9 |  | 56.5 |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.701M |  | 1.458M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 17:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 18:00 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.1% | 2.1% |
-| 19:00 | USD | Beige Book |  |  |  |
-| 20:15 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.6% |
+| 00:30 | AUD | Trade Balance | 11.027B | 11.420B | 10.743B |
+| 34 min | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 03:00 | CNY | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
+| 03:00 | CNY | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
+| 03:00 | CNY | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
+| 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
+| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
+| 12:00 | MXN | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
+| 12:00 | MXN | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,889K | 1,905K |
+| 13:30 | USD | Exports |  |  | 258.20B |
+| 13:30 | USD | Imports |  |  | 320.40B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 3.1% | 3.2% |
+| 13:30 | USD | Trade Balance (Jan) |  | -63.40B | -62.20B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 0.7% | 0.5% |
+| 13:30 | CAD | Building Permits (MoM) (Jan) |  | 4.6% | -14.0% |
+| 13:30 | CAD | Trade Balance (Jan) |  | -0.10B | -0.31B |
+| 15:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |
+| 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
+| 20:00 | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,568B |
+| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
+| 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 23:50 | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
+| 23:50 | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
