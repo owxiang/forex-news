@@ -16,8 +16,8 @@
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
 | 03:00 | IDR | Low | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
 | 03:35 | JPY | Low | 30-Year JGB Auction | 1.770% |  | 1.791% |
-| 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
-| 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
+| 47 min | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
+| 47 min | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.2% | 2.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
@@ -45,8 +45,8 @@
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |

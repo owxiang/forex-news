@@ -10,8 +10,8 @@
 | 03:00 | CNY | Trade Balance (Feb) | 890.86B | 620.00B | 540.90B |
 | 03:00 | IDR | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
 | 03:35 | JPY | 30-Year JGB Auction | 1.770% |  | 1.791% |
-| 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
+| 47 min | ZAR | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
+| 47 min | ZAR | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Feb) |  | 2.2% | 2.2% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jan) |  |  | 0.3% |
@@ -32,8 +32,8 @@
 | 11:30 | BRL | Budget Surplus (Jan) |  |  | -129.573B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
 | 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 82.307K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
