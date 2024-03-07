@@ -41,13 +41,13 @@
 | 11:30 | BRL | Low | Budget Surplus (Jan) | 102.146B |  | -129.573B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) | 0.49% | 0.49% | 0.40% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
 | 13:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
@@ -78,8 +78,8 @@
 | 16:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.322B |  | -2.534B |
 | 20:00 | USD | Moderate | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,568B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
+| 16 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,568B |
+| 16 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:00 | KRW | Low | Current Account (Jan) |  |  | 7.41B |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
