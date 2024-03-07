@@ -18,15 +18,15 @@
 | 03:35 | JPY | Low | 30-Year JGB Auction | 1.770% |  | 1.791% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) | 61.65B |  | 61.19B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 56.652B |  | 56.662B |
-| 25 min | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
-| 25 min | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.2% | 2.2% |
-| 40 min | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
-| 40 min | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
-| 40 min | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
-| 40 min | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 0.3% |
-| 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
-| 08:00 | CNY | Low | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 2.4% |  | 2.5% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) | 2.2% | 2.2% | 2.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
+| 32 min | EUR | Low | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
+| 47 min | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
+| 47 min | CNY | Low | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
 | 09:00 | ZAR | Low | Current Account |  | -92.0B | -19.3B |

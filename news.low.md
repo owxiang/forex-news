@@ -12,12 +12,12 @@
 | 03:35 | JPY | 30-Year JGB Auction | 1.770% |  | 1.791% |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) | 61.65B |  | 61.19B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) | 56.652B |  | 56.662B |
-| 25 min | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
-| 25 min | CHF | Unemployment Rate s.a. (Feb) |  | 2.2% | 2.2% |
-| 40 min | NOK | Manufacturing Production (MoM) (Jan) |  |  | 0.3% |
-| 07:45 | EUR | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
-| 08:00 | CHF | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
-| 08:00 | CNY | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
+| 06:45 | CHF | Unemployment Rate n.s.a. (Feb) | 2.4% |  | 2.5% |
+| 06:45 | CHF | Unemployment Rate s.a. (Feb) | 2.2% | 2.2% | 2.2% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
+| 32 min | EUR | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
+| 47 min | CHF | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
+| 47 min | CNY | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
 | 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
 | 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
 | 09:00 | ZAR | Current Account |  | -92.0B | -19.3B |
