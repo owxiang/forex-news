@@ -8,20 +8,20 @@
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
 | 00:30 | AUD | Moderate | Trade Balance | 11.027B | 11.420B | 10.743B |
 | 01:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 03:00 | CNY | Low | Exports (Feb) |  |  | 3.80M |
-| 03:00 | CNY | Low | Imports (Feb) |  |  | 1.60M |
-| 03:00 | CNY | Low | Trade Balance (Feb) |  | 620.00B | 540.90B |
-| 03:00 | CNY | Moderate | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
+| 44 min | CNY | Low | Exports (Feb) |  |  | 3.80M |
+| 44 min | CNY | Low | Imports (Feb) |  |  | 1.60M |
+| 44 min | CNY | Low | Trade Balance (Feb) |  | 620.00B | 540.90B |
+| 44 min | CNY | Moderate | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
+| 44 min | CNY | Moderate | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
+| 44 min | CNY | Moderate | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
 | 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.791% |
 | 04:00 | IDR | Low | FX Reserves (USD) (Feb) |  |  | 145.10B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) |  | 2.2% | 2.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 0.3% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
@@ -42,14 +42,14 @@
 | 11:30 | BRL | Low | Budget Surplus (Jan) |  |  | -129.573B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |

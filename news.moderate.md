@@ -5,16 +5,16 @@
 | 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.6% |
 | 00:30 | AUD | Trade Balance | 11.027B | 11.420B | 10.743B |
 | 01:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 03:00 | CNY | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
-| 03:00 | CNY | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
-| 03:00 | CNY | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
+| 44 min | CNY | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
+| 44 min | CNY | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
+| 44 min | CNY | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
-| 12:00 | MXN | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
+| 12:00 | MXN | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,889K | 1,905K |

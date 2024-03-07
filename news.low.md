@@ -5,9 +5,9 @@
 | 00:30 | AUD | Exports (MoM) | 1.6% |  | 1.5% |
 | 00:30 | AUD | Imports (MoM) | 1.3% |  | 4.8% |
 | 00:30 | AUD | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
-| 03:00 | CNY | Exports (Feb) |  |  | 3.80M |
-| 03:00 | CNY | Imports (Feb) |  |  | 1.60M |
-| 03:00 | CNY | Trade Balance (Feb) |  | 620.00B | 540.90B |
+| 44 min | CNY | Exports (Feb) |  |  | 3.80M |
+| 44 min | CNY | Imports (Feb) |  |  | 1.60M |
+| 44 min | CNY | Trade Balance (Feb) |  | 620.00B | 540.90B |
 | 03:35 | JPY | 30-Year JGB Auction |  |  | 1.791% |
 | 04:00 | IDR | FX Reserves (USD) (Feb) |  |  | 145.10B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
@@ -32,11 +32,11 @@
 | 11:30 | BRL | Budget Surplus (Jan) |  |  | -129.573B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
+| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
