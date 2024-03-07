@@ -36,25 +36,25 @@
 | 09:50 | EUR | Low | Spanish 8-Year Obligacion Auction | 2.965% |  | 3.582% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 2.81% |  | 2.70% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) | -0.41% |  | -0.27% |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
-| 17 min | BRL | Low | Budget Balance (Jan) |  |  | -193.430B |
-| 17 min | BRL | Low | Budget Surplus (Jan) |  |  | -129.573B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
-| 47 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
-| 47 min | MXN | Low | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
-| 47 min | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
-| 47 min | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
-| 47 min | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 47 min | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
-| 47 min | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
-| 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
-| 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
-| 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Mar) |  | 4.50% | 4.50% |
+| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Jan) | 60.0% |  | 60.8% |
+| 11:30 | BRL | Low | Budget Balance (Jan) | 22.232B |  | -193.430B |
+| 11:30 | BRL | Low | Budget Surplus (Jan) | 102.146B |  | -129.573B |
+| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
+| 12:00 | MXN | Low | Core CPI (MoM) (Feb) | 0.49% | 0.49% | 0.40% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
+| 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
+| 2 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
+| 2 min | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 32 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
+| 32 min | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
+| 32 min | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
+| 47 min | EUR | High | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
+| 47 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
+| 47 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 47 min | EUR | High | ECB Interest Rate Decision (Mar) |  | 4.50% | 4.50% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,889K | 1,905K |
 | 13:30 | USD | Moderate | Exports |  |  | 258.20B |
 | 13:30 | USD | Moderate | Imports |  |  | 320.40B |

@@ -11,12 +11,12 @@
 | 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
-| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
-| 47 min | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
-| 47 min | MXN | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
-| 47 min | MXN | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
-| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
+| 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
+| 12:00 | MXN | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
+| 32 min | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
+| 47 min | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 47 min | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,889K | 1,905K |
 | 13:30 | USD | Exports |  |  | 258.20B |
 | 13:30 | USD | Imports |  |  | 320.40B |
