@@ -26,16 +26,16 @@
 | 09:50 | EUR | Spanish 5-Year Bonos Auction | 2.857% |  | 2.873% |
 | 09:50 | EUR | Spanish 8-Year Obligacion Auction | 2.965% |  | 3.582% |
 | 10:00 | EUR | French 10-Year OAT Auction | 2.81% |  | 2.70% |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
-| 11:30 | BRL | Budget Balance (Jan) |  |  | -193.430B |
-| 11:30 | BRL | Budget Surplus (Jan) |  |  | -129.573B |
-| 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
-| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
+| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) | -0.41% |  | -0.27% |
+| 17 min | BRL | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
+| 17 min | BRL | Budget Balance (Jan) |  |  | -193.430B |
+| 17 min | BRL | Budget Surplus (Jan) |  |  | -129.573B |
+| 47 min | MXN | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
+| 47 min | MXN | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
+| 47 min | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
+| 47 min | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 13:00 | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
@@ -46,7 +46,6 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.285% |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
-| 23:00 | CAD | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 23:00 | KRW | Current Account (Jan) |  |  | 7.41B |
 | 23:50 | JPY | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
 | 23:50 | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,291.8B |

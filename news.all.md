@@ -35,20 +35,20 @@
 | 09:50 | EUR | Low | Spanish 5-Year Bonos Auction | 2.857% |  | 2.873% |
 | 09:50 | EUR | Low | Spanish 8-Year Obligacion Auction | 2.965% |  | 3.582% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 2.81% |  | 2.70% |
-| 45 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
-| 11:30 | BRL | Low | Budget Balance (Jan) |  |  | -193.430B |
-| 11:30 | BRL | Low | Budget Surplus (Jan) |  |  | -129.573B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
-| 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
-| 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
+| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) | -0.41% |  | -0.27% |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
+| 17 min | BRL | Low | Budget Balance (Jan) |  |  | -193.430B |
+| 17 min | BRL | Low | Budget Surplus (Jan) |  |  | -129.573B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
+| 47 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
+| 47 min | MXN | Low | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
+| 47 min | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
+| 47 min | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
+| 47 min | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
+| 47 min | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
+| 47 min | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
@@ -80,7 +80,6 @@
 | 20:00 | USD | Moderate | Consumer Credit (Jan) |  | 10.10B | 1.56B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,568B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
-| 23:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 23:00 | KRW | Low | Current Account (Jan) |  |  | 7.41B |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
