@@ -27,11 +27,11 @@
 | 13:30 | CAD | Trade Balance (Jan) | 0.50B | -0.10B | -0.86B |
 | 15:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 11 min | USD | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |
-| 11 min | USD | FOMC Member Mester Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
+| 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,568B |
-| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:50 | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
 | 23:50 | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
