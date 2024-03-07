@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.6% |
+| 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.5% |
 | 00:30 | AUD | Trade Balance | 11.027B | 11.420B | 10.743B |
 | 01:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 03:00 | CNY | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |

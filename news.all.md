@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Low | Exports (MoM) | 1.6% |  | 1.5% |
-| 00:30 | AUD | Moderate | Home Loans (MoM) | -4.6% |  | -5.6% |
-| 00:30 | AUD | Low | Imports (MoM) | 1.3% |  | 4.8% |
+| 00:30 | AUD | Moderate | Home Loans (MoM) | -4.6% |  | -5.5% |
+| 00:30 | AUD | Low | Imports (MoM) | 1.3% |  | 4.0% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
 | 00:30 | AUD | Moderate | Trade Balance | 11.027B | 11.420B | 10.743B |
 | 01:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
@@ -14,8 +14,8 @@
 | 03:00 | CNY | Moderate | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |
 | 03:00 | CNY | Moderate | Imports (YoY) (Feb) | 3.5% | 1.5% | 0.2% |
 | 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
-| 21 min | JPY | Low | 30-Year JGB Auction |  |  | 1.791% |
-| 46 min | IDR | Low | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
+| 03:00 | IDR | Low | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
+| 03:35 | JPY | Low | 30-Year JGB Auction | 1.770% |  | 1.791% |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
@@ -25,7 +25,7 @@
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) |  |  | 0.3% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 662,429.0B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
 | 08:00 | CNY | Low | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
 | 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
 | 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
@@ -51,8 +51,6 @@
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
