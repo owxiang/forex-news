@@ -20,8 +20,8 @@
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) | 56.652B |  | 56.662B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) | 2.4% |  | 2.5% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Feb) | 2.2% | 2.2% | 2.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 225,601.0M |  | 226,483.0M |
@@ -41,13 +41,13 @@
 | 11:30 | BRL | Low | Budget Surplus (Jan) | 102.146B |  | -129.573B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) | 0.49% | 0.49% | 0.40% |
-| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
+| 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
 | 13:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
@@ -76,6 +76,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.280% |  | 5.285% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
 | 16:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | -0.322B |  | -2.534B |
 | 20:00 | USD | Moderate | Consumer Credit (Jan) |  | 10.10B | 1.56B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,568B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
