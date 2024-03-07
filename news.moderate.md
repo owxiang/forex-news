@@ -12,8 +12,8 @@
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
-| 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 12:00 | MXN | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
+| 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 13:00 | GBP | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
 | 13:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
@@ -30,7 +30,7 @@
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
 | 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
-| 16 min | USD | Fed's Balance Sheet |  |  | 7,568B |
+| 21:30 | USD | Fed's Balance Sheet | 7,539B |  | 7,568B |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:50 | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
