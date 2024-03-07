@@ -5,9 +5,9 @@
 | 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.6% |
 | 00:30 | AUD | Trade Balance | 11.027B | 11.420B | 10.743B |
 | 01:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 44 min | CNY | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
-| 44 min | CNY | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
-| 44 min | CNY | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
+| 03:00 | CNY | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |
+| 03:00 | CNY | Imports (YoY) (Feb) | 3.5% | 1.5% | 0.2% |
+| 03:00 | CNY | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |

@@ -5,11 +5,11 @@
 | 00:30 | AUD | Exports (MoM) | 1.6% |  | 1.5% |
 | 00:30 | AUD | Imports (MoM) | 1.3% |  | 4.8% |
 | 00:30 | AUD | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
-| 44 min | CNY | Exports (Feb) |  |  | 3.80M |
-| 44 min | CNY | Imports (Feb) |  |  | 1.60M |
-| 44 min | CNY | Trade Balance (Feb) |  | 620.00B | 540.90B |
-| 03:35 | JPY | 30-Year JGB Auction |  |  | 1.791% |
-| 04:00 | IDR | FX Reserves (USD) (Feb) |  |  | 145.10B |
+| 03:00 | CNY | Exports (Feb) | 10.30M |  | 3.80M |
+| 03:00 | CNY | Imports (Feb) | 6.70M |  | 1.60M |
+| 03:00 | CNY | Trade Balance (Feb) | 890.86B | 620.00B | 540.90B |
+| 21 min | JPY | 30-Year JGB Auction |  |  | 1.791% |
+| 46 min | IDR | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
 | 06:00 | ZAR | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
 | 06:00 | ZAR | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |

@@ -8,14 +8,14 @@
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
 | 00:30 | AUD | Moderate | Trade Balance | 11.027B | 11.420B | 10.743B |
 | 01:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 44 min | CNY | Low | Exports (Feb) |  |  | 3.80M |
-| 44 min | CNY | Low | Imports (Feb) |  |  | 1.60M |
-| 44 min | CNY | Low | Trade Balance (Feb) |  | 620.00B | 540.90B |
-| 44 min | CNY | Moderate | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
-| 44 min | CNY | Moderate | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
-| 44 min | CNY | Moderate | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
-| 03:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.791% |
-| 04:00 | IDR | Low | FX Reserves (USD) (Feb) |  |  | 145.10B |
+| 03:00 | CNY | Low | Exports (Feb) | 10.30M |  | 3.80M |
+| 03:00 | CNY | Low | Imports (Feb) | 6.70M |  | 1.60M |
+| 03:00 | CNY | Low | Trade Balance (Feb) | 890.86B | 620.00B | 540.90B |
+| 03:00 | CNY | Moderate | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |
+| 03:00 | CNY | Moderate | Imports (YoY) (Feb) | 3.5% | 1.5% | 0.2% |
+| 03:00 | CNY | Moderate | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
+| 21 min | JPY | Low | 30-Year JGB Auction |  |  | 1.791% |
+| 46 min | IDR | Low | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
 | 06:00 | ZAR | Low | Foreign Reserves (USD) (Feb) |  |  | 61.19B |
 | 06:00 | ZAR | Low | Net FX Reserves (USD) (Feb) |  |  | 56.662B |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Feb) |  |  | 2.5% |
