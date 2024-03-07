@@ -52,25 +52,25 @@
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) | 4.00% | 4.00% | 4.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
-| 13 min | USD | Moderate | Continuing Jobless Claims |  | 1,889K | 1,905K |
-| 13 min | USD | Moderate | Exports |  |  | 258.20B |
-| 13 min | USD | Moderate | Imports |  |  | 320.40B |
-| 13 min | USD | High | Initial Jobless Claims |  | 217K | 215K |
-| 13 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
-| 13 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 3.1% | 3.2% |
-| 13 min | USD | Moderate | Trade Balance (Jan) |  | -63.40B | -62.20B |
-| 13 min | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 0.7% | 0.5% |
-| 13 min | CAD | Moderate | Building Permits (MoM) (Jan) |  | 4.6% | -14.0% |
-| 13 min | CAD | Low | Exports (Jan) |  |  | 64.07B |
-| 13 min | CAD | Low | Imports (Jan) |  |  | 64.39B |
-| 13 min | CAD | Moderate | Trade Balance (Jan) |  | -0.10B | -0.31B |
-| 28 min | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,906K | 1,889K | 1,898K |
+| 13:30 | USD | Moderate | Exports | 257.20B |  | 258.20B |
+| 13:30 | USD | Moderate | Imports | 324.60B |  | 320.40B |
+| 13:30 | USD | High | Initial Jobless Claims | 217K | 217K | 217K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 212.25K |  | 213.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) | 3.2% | 3.1% | 3.2% |
+| 13:30 | USD | Moderate | Trade Balance (Jan) | -67.40B | -63.40B | -64.20B |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) | 0.4% | 0.7% | 0.5% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Jan) | 13.5% | 4.6% | -11.5% |
+| 13:30 | CAD | Low | Exports (Jan) | 62.29B |  | 63.37B |
+| 13:30 | CAD | Low | Imports (Jan) | 61.79B |  | 64.24B |
+| 13:30 | CAD | Moderate | Trade Balance (Jan) | 0.50B | -0.10B | -0.86B |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 44 min | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 44 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 44 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -42B | -96B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.285% |

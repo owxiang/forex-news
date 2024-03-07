@@ -38,9 +38,9 @@
 | 12:30 | USD | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
 | 13:00 | BRL | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
 | 13:00 | BRL | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
-| 13 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
-| 13 min | CAD | Exports (Jan) |  |  | 64.07B |
-| 13 min | CAD | Imports (Jan) |  |  | 64.39B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 212.25K |  | 213.00K |
+| 13:30 | CAD | Exports (Jan) | 62.29B |  | 63.37B |
+| 13:30 | CAD | Imports (Jan) | 61.79B |  | 64.24B |
 | 15:30 | USD | Natural Gas Storage |  | -42B | -96B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.285% |
