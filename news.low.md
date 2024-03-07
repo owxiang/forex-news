@@ -32,15 +32,15 @@
 | 11:30 | BRL | Budget Surplus (Jan) | 102.146B |  | -129.573B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) | 0.49% | 0.49% | 0.40% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
-| 12:00 | MXN | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:00 | MXN | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
-| 2 min | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
-| 2 min | USD | Challenger Job Cuts (Feb) |  |  | 82.307K |
-| 32 min | BRL | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 32 min | BRL | Auto Sales (MoM) (Feb) |  |  | -34.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
-| 13:30 | CAD | Exports (Jan) |  |  | 64.07B |
-| 13:30 | CAD | Imports (Jan) |  |  | 64.39B |
+| 12:00 | MXN | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
+| 12:30 | USD | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
+| 13:00 | BRL | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
+| 13:00 | BRL | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
+| 13 min | USD | Jobless Claims 4-Week Avg. |  |  | 212.50K |
+| 13 min | CAD | Exports (Jan) |  |  | 64.07B |
+| 13 min | CAD | Imports (Jan) |  |  | 64.39B |
 | 15:30 | USD | Natural Gas Storage |  | -42B | -96B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.285% |

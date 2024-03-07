@@ -14,17 +14,17 @@
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
 | 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 12:00 | MXN | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
-| 32 min | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
-| 47 min | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
-| 47 min | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,889K | 1,905K |
-| 13:30 | USD | Exports |  |  | 258.20B |
-| 13:30 | USD | Imports |  |  | 320.40B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) |  | 3.1% | 3.2% |
-| 13:30 | USD | Trade Balance (Jan) |  | -63.40B | -62.20B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) |  | 0.7% | 0.5% |
-| 13:30 | CAD | Building Permits (MoM) (Jan) |  | 4.6% | -14.0% |
-| 13:30 | CAD | Trade Balance (Jan) |  | -0.10B | -0.31B |
+| 13:00 | GBP | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13 min | USD | Continuing Jobless Claims |  | 1,889K | 1,905K |
+| 13 min | USD | Exports |  |  | 258.20B |
+| 13 min | USD | Imports |  |  | 320.40B |
+| 13 min | USD | Nonfarm Productivity (QoQ) (Q4) |  | 3.1% | 3.2% |
+| 13 min | USD | Trade Balance (Jan) |  | -63.40B | -62.20B |
+| 13 min | USD | Unit Labor Costs (QoQ) (Q4) |  | 0.7% | 0.5% |
+| 13 min | CAD | Building Permits (MoM) (Jan) |  | 4.6% | -14.0% |
+| 13 min | CAD | Trade Balance (Jan) |  | -0.10B | -0.31B |
 | 15:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |

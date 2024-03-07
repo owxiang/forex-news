@@ -44,30 +44,30 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
-| 2 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
-| 2 min | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
-| 32 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
-| 32 min | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
-| 32 min | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
-| 47 min | EUR | High | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
-| 47 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
-| 47 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 47 min | EUR | High | ECB Interest Rate Decision (Mar) |  | 4.50% | 4.50% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,889K | 1,905K |
-| 13:30 | USD | Moderate | Exports |  |  | 258.20B |
-| 13:30 | USD | Moderate | Imports |  |  | 320.40B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 217K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 3.1% | 3.2% |
-| 13:30 | USD | Moderate | Trade Balance (Jan) |  | -63.40B | -62.20B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 0.7% | 0.5% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Jan) |  | 4.6% | -14.0% |
-| 13:30 | CAD | Low | Exports (Jan) |  |  | 64.07B |
-| 13:30 | CAD | Low | Imports (Jan) |  |  | 64.39B |
-| 13:30 | CAD | Moderate | Trade Balance (Jan) |  | -0.10B | -0.31B |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 12:00 | MXN | Low | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
+| 12:30 | USD | Low | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
+| 13:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
+| 13:00 | BRL | Low | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
+| 13:00 | BRL | Low | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
+| 13:15 | EUR | High | Deposit Facility Rate (Mar) | 4.00% | 4.00% | 4.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Mar) | 4.50% | 4.50% | 4.50% |
+| 13 min | USD | Moderate | Continuing Jobless Claims |  | 1,889K | 1,905K |
+| 13 min | USD | Moderate | Exports |  |  | 258.20B |
+| 13 min | USD | Moderate | Imports |  |  | 320.40B |
+| 13 min | USD | High | Initial Jobless Claims |  | 217K | 215K |
+| 13 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.50K |
+| 13 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q4) |  | 3.1% | 3.2% |
+| 13 min | USD | Moderate | Trade Balance (Jan) |  | -63.40B | -62.20B |
+| 13 min | USD | Moderate | Unit Labor Costs (QoQ) (Q4) |  | 0.7% | 0.5% |
+| 13 min | CAD | Moderate | Building Permits (MoM) (Jan) |  | 4.6% | -14.0% |
+| 13 min | CAD | Low | Exports (Jan) |  |  | 64.07B |
+| 13 min | CAD | Low | Imports (Jan) |  |  | 64.39B |
+| 13 min | CAD | Moderate | Trade Balance (Jan) |  | -0.10B | -0.31B |
+| 28 min | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
