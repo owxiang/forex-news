@@ -27,29 +27,29 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 225,601.0M |  | 226,483.0M |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) | 677.6B |  | 662.2B |
 | 08:00 | CNY | Low | FX Reserves (USD) (Feb) | 3.226T | 3.205T | 3.219T |
-| 14 min | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
-| 44 min | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
-| 44 min | ZAR | Low | Current Account |  | -92.0B | -19.3B |
-| 44 min | ZAR | Low | Current Account % of GDP |  |  | -0.30% |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.170% |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.875% |
-| 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.873% |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.70% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.27% |
+| 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) | 425.10B |  | 423.10B |
+| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) | 357.3B |  | 357.8B |
+| 09:00 | ZAR | Low | Current Account | -165.5B | -92.0B | -34.4B |
+| 09:00 | ZAR | Low | Current Account % of GDP | -2.30% |  | -0.50% |
+| 27 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.170% |
+| 27 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.875% |
+| 27 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.873% |
+| 47 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.96% |
+| 47 min | EUR | Low | French 10-Year OAT Auction |  |  | 2.70% |
+| 47 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.27% |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Jan) |  |  | 60.8% |
 | 11:30 | BRL | Low | Budget Balance (Jan) |  |  | -193.430B |
 | 11:30 | BRL | Low | Budget Surplus (Jan) |  |  | -129.573B |
 | 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
 | 12:00 | MXN | Low | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
-| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
+| 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
 | 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 13:00 | BRL | Low | Auto Production (MoM) (Feb) |  |  | -11.0% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Feb) |  |  | -34.9% |
 | 13:15 | EUR | High | Deposit Facility Rate (Mar) |  | 4.00% | 4.00% |
@@ -83,8 +83,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 23:00 | KRW | Low | Current Account (Jan) |  |  | 7.41B |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
 | 23:50 | JPY | Low | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
 | 23:50 | JPY | Moderate | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
