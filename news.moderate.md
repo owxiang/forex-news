@@ -8,13 +8,13 @@
 | 03:00 | CNY | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |
 | 03:00 | CNY | Imports (YoY) (Feb) | 3.5% | 1.5% | 0.2% |
 | 03:00 | CNY | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
-| 07:00 | EUR | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
+| 40 min | GBP | Halifax House Price Index (YoY) (Feb) |  |  | 2.5% |
+| 40 min | GBP | Halifax House Price Index (MoM) (Feb) |  | 0.8% | 1.3% |
+| 40 min | EUR | German Factory Orders (MoM) (Jan) |  | -6.0% | 8.9% |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.96% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) |  |  | 74.3% |
-| 12:00 | MXN | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
 | 12:00 | MXN | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
+| 12:00 | MXN | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,889K | 1,905K |
@@ -31,7 +31,7 @@
 | 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,568B |
-| 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
+| 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:50 | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
 | 23:50 | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
