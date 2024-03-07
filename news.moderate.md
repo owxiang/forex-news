@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.6% |
 | 00:30 | AUD | Trade Balance | 11.027B | 11.420B | 10.743B |
-| 34 min | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 01:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 03:00 | CNY | Exports (YoY) (Feb) |  | 1.9% | 2.3% |
 | 03:00 | CNY | Imports (YoY) (Feb) |  | 1.5% | 0.2% |
 | 03:00 | CNY | Trade Balance (USD) (Feb) |  | 110.30B | 75.34B |
@@ -31,7 +31,7 @@
 | 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,568B |
-| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:50 | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
 | 23:50 | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |

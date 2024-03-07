@@ -7,7 +7,7 @@
 | 00:30 | AUD | Low | Imports (MoM) | 1.3% |  | 4.8% |
 | 00:30 | AUD | Low | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
 | 00:30 | AUD | Moderate | Trade Balance | 11.027B | 11.420B | 10.743B |
-| 34 min | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
+| 01:30 | JPY | Moderate | BoJ Board Member Nakagawa Speaks |  |  |  |
 | 03:00 | CNY | Low | Exports (Feb) |  |  | 3.80M |
 | 03:00 | CNY | Low | Imports (Feb) |  |  | 1.60M |
 | 03:00 | CNY | Low | Trade Balance (Feb) |  | 620.00B | 540.90B |
@@ -85,8 +85,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:00 | CAD | Low | Leading Index (MoM) (Feb) |  |  | 0.13% |
 | 23:00 | KRW | Low | Current Account (Jan) |  |  | 7.41B |
-| 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:30 | JPY | Moderate | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
+| 23:30 | JPY | Moderate | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
 | 23:50 | JPY | Moderate | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
 | 23:50 | JPY | Low | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
 | 23:50 | JPY | Moderate | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
