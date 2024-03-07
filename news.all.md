@@ -24,13 +24,13 @@
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
-| 32 min | EUR | Low | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
-| 47 min | CHF | Low | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
-| 47 min | CNY | Low | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
-| 08:30 | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
-| 09:00 | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
-| 09:00 | ZAR | Low | Current Account |  | -92.0B | -19.3B |
-| 09:00 | ZAR | Low | Current Account % of GDP |  |  | -0.30% |
+| 07:45 | EUR | Low | French Reserve Assets Total (Feb) | 225,601.0M |  | 226,483.0M |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Feb) | 677.6B |  | 662.2B |
+| 08:00 | CNY | Low | FX Reserves (USD) (Feb) | 3.226T | 3.205T | 3.219T |
+| 14 min | HKD | Low | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
+| 44 min | SGD | Low | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
+| 44 min | ZAR | Low | Current Account |  | -92.0B | -19.3B |
+| 44 min | ZAR | Low | Current Account % of GDP |  |  | -0.30% |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.170% |
 | 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.875% |
 | 09:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.873% |
@@ -45,8 +45,8 @@
 | 12:00 | MXN | Moderate | CPI (YoY) (Feb) |  | 4.42% | 4.88% |
 | 12:00 | MXN | Moderate | CPI (MoM) (Feb) |  | 0.11% | 0.89% |
 | 12:00 | MXN | Low | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | MXN | Low | PPI (MoM) (Feb) |  |  | 0.40% |
+| 12:00 | MXN | Low | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 12:30 | USD | Low | Challenger Job Cuts (Feb) |  |  | 82.307K |

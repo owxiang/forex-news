@@ -15,13 +15,13 @@
 | 06:45 | CHF | Unemployment Rate n.s.a. (Feb) | 2.4% |  | 2.5% |
 | 06:45 | CHF | Unemployment Rate s.a. (Feb) | 2.2% | 2.2% | 2.2% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
-| 32 min | EUR | French Reserve Assets Total (Feb) |  |  | 226,483.0M |
-| 47 min | CHF | Foreign Reserves (USD) (Feb) |  |  | 662.4B |
-| 47 min | CNY | FX Reserves (USD) (Feb) |  | 3.205T | 3.219T |
-| 08:30 | HKD | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
-| 09:00 | ZAR | Current Account |  | -92.0B | -19.3B |
-| 09:00 | ZAR | Current Account % of GDP |  |  | -0.30% |
+| 07:45 | EUR | French Reserve Assets Total (Feb) | 225,601.0M |  | 226,483.0M |
+| 08:00 | CHF | Foreign Reserves (USD) (Feb) | 677.6B |  | 662.2B |
+| 08:00 | CNY | FX Reserves (USD) (Feb) | 3.226T | 3.205T | 3.219T |
+| 14 min | HKD | Foreign Reserves (USD) (Feb) |  |  | 423.20B |
+| 44 min | SGD | Foreign Reserves USD (MoM) (Feb) |  |  | 357.8B |
+| 44 min | ZAR | Current Account |  | -92.0B | -19.3B |
+| 44 min | ZAR | Current Account % of GDP |  |  | -0.30% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.170% |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.875% |
 | 09:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.873% |
@@ -32,8 +32,8 @@
 | 11:30 | BRL | Budget Surplus (Jan) |  |  | -129.573B |
 | 12:00 | MXN | Core CPI (MoM) (Feb) |  | 0.49% | 0.40% |
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) |  | 4.62% | 4.76% |
-| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | MXN | PPI (MoM) (Feb) |  |  | 0.40% |
+| 12:00 | MXN | PPI (YoY) (Feb) |  |  | 1.00% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) |  |  | -0.27% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.0% |
 | 12:30 | USD | Challenger Job Cuts (Feb) |  |  | 82.307K |
