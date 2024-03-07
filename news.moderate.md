@@ -8,12 +8,12 @@
 | 03:00 | CNY | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |
 | 03:00 | CNY | Imports (YoY) (Feb) | 3.5% | 1.5% | 0.2% |
 | 03:00 | CNY | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
 | 07:00 | EUR | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
-| 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 12:00 | MXN | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
+| 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
 | 13:00 | GBP | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
 | 13:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
@@ -29,7 +29,7 @@
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
 | 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
+| 49 min | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,568B |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |

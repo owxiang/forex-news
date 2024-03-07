@@ -34,8 +34,8 @@
 | 12:00 | MXN | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
 | 12:00 | MXN | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
 | 12:00 | MXN | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
-| 12:30 | USD | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
+| 12:30 | USD | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
 | 13:00 | BRL | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
 | 13:00 | BRL | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 212.25K |  | 213.00K |
