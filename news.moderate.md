@@ -29,7 +29,7 @@
 | 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
 | 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
-| 49 min | USD | Consumer Credit (Jan) |  | 10.10B | 1.56B |
+| 20:00 | USD | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,568B |
 | 23:30 | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
 | 23:30 | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |

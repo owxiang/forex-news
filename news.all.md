@@ -77,7 +77,7 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
 | 16:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | -0.322B |  | -2.534B |
-| 49 min | USD | Moderate | Consumer Credit (Jan) |  | 10.10B | 1.56B |
+| 20:00 | USD | Moderate | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,568B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:00 | KRW | Low | Current Account (Jan) |  |  | 7.41B |
