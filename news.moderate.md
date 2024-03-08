@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | EUR | German Industrial Production (MoM) (Jan) |  | 0.5% | -1.6% |
-| 41 min | EUR | German PPI (MoM) (Jan) |  | 0.1% | -1.2% |
+| 07:00 | EUR | German Industrial Production (MoM) (Jan) | 1.0% | 0.5% | -2.0% |
+| 07:00 | EUR | German PPI (MoM) (Jan) | 0.2% | 0.1% | -0.8% |
 | 10:00 | EUR | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
 | 12:00 | USD | FOMC Member Williams Speaks |  |  |  |
