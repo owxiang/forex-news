@@ -22,14 +22,14 @@
 | 11:30 | INR | Deposit Growth | 13.1% |  | 13.6% |
 | 11:30 | INR | FX Reserves, USD | 625.63B |  | 619.07B |
 | 11:30 | BRL | Bank lending (MoM) (Jan) | -0.3% |  | 1.6% |
-| 13 min | USD | Average Weekly Hours (Feb) |  | 34.3 | 34.1 |
-| 13 min | USD | Government Payrolls (Feb) |  |  | 36.0K |
-| 13 min | USD | Manufacturing Payrolls (Feb) |  | 10K | 23K |
-| 13 min | CAD | Avg hourly wages Permanent employee (Feb) |  |  | 5.3% |
-| 13 min | CAD | Capacity Utilization Rate (Q4) |  | 80.2% | 79.7% |
-| 13 min | CAD | Full Employment Change (Feb) |  |  | -11.6K |
-| 13 min | CAD | Part Time Employment Change (Feb) |  |  | 48.9K |
-| 13 min | CAD | Participation Rate (Feb) |  |  | 65.3% |
+| 13:30 | USD | Average Weekly Hours (Feb) | 34.3 | 34.3 | 34.2 |
+| 13:30 | USD | Government Payrolls (Feb) | 52.0K |  | 52.0K |
+| 13:30 | USD | Manufacturing Payrolls (Feb) | -4K | 10K | 8K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Feb) | 4.9% |  | 5.3% |
+| 13:30 | CAD | Capacity Utilization Rate (Q4) | 78.7% | 80.2% | 78.8% |
+| 13:30 | CAD | Full Employment Change (Feb) | 70.6K |  | -11.6K |
+| 13:30 | CAD | Part Time Employment Change (Feb) | -29.9K |  | 48.9K |
+| 13:30 | CAD | Participation Rate (Feb) | 65.3% |  | 65.3% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | -1.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -232.6K |

@@ -29,23 +29,23 @@
 | 11:30 | INR | Low | FX Reserves, USD | 625.63B |  | 619.07B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) | -0.3% |  | 1.6% |
 | 12:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.4% | 4.5% |
-| 13 min | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.2% | 0.6% |
-| 13 min | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.1 |
-| 13 min | USD | Low | Government Payrolls (Feb) |  |  | 36.0K |
-| 13 min | USD | Low | Manufacturing Payrolls (Feb) |  | 10K | 23K |
-| 13 min | USD | High | Nonfarm Payrolls (Feb) |  | 198K | 353K |
-| 13 min | USD | Moderate | Participation Rate (Feb) |  |  | 62.5% |
-| 13 min | USD | Moderate | Private Nonfarm Payrolls (Feb) |  | 160K | 317K |
-| 13 min | USD | Moderate | U6 Unemployment Rate (Feb) |  |  | 7.2% |
-| 13 min | USD | High | Unemployment Rate (Feb) |  | 3.7% | 3.7% |
-| 13 min | CAD | Low | Avg hourly wages Permanent employee (Feb) |  |  | 5.3% |
-| 13 min | CAD | Low | Capacity Utilization Rate (Q4) |  | 80.2% | 79.7% |
-| 13 min | CAD | Moderate | Employment Change (Feb) |  | 21.1K | 37.3K |
-| 13 min | CAD | Low | Full Employment Change (Feb) |  |  | -11.6K |
-| 13 min | CAD | Low | Part Time Employment Change (Feb) |  |  | 48.9K |
-| 13 min | CAD | Low | Participation Rate (Feb) |  |  | 65.3% |
-| 13 min | CAD | Moderate | Unemployment Rate (Feb) |  | 5.8% | 5.7% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.3% | 4.4% | 4.4% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.1% | 0.2% | 0.5% |
+| 13:30 | USD | Low | Average Weekly Hours (Feb) | 34.3 | 34.3 | 34.2 |
+| 13:30 | USD | Low | Government Payrolls (Feb) | 52.0K |  | 52.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Feb) | -4K | 10K | 8K |
+| 13:30 | USD | High | Nonfarm Payrolls (Feb) | 275K | 198K | 229K |
+| 13:30 | USD | Moderate | Participation Rate (Feb) | 62.5% |  | 62.5% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Feb) | 223K | 160K | 177K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Feb) | 7.3% |  | 7.2% |
+| 13:30 | USD | High | Unemployment Rate (Feb) | 3.9% | 3.7% | 3.7% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Feb) | 4.9% |  | 5.3% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (Q4) | 78.7% | 80.2% | 78.8% |
+| 13:30 | CAD | Moderate | Employment Change (Feb) | 40.7K | 21.1K | 37.3K |
+| 13:30 | CAD | Low | Full Employment Change (Feb) | 70.6K |  | -11.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Feb) | -29.9K |  | 48.9K |
+| 13:30 | CAD | Low | Participation Rate (Feb) | 65.3% |  | 65.3% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Feb) | 5.8% | 5.8% | 5.7% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |

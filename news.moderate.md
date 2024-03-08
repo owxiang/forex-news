@@ -8,12 +8,12 @@
 | 10:00 | EUR | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | GDP (QoQ) (Q4) | 0.0% | 0.0% | -0.1% |
 | 12:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13 min | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.4% | 4.5% |
-| 13 min | USD | Participation Rate (Feb) |  |  | 62.5% |
-| 13 min | USD | Private Nonfarm Payrolls (Feb) |  | 160K | 317K |
-| 13 min | USD | U6 Unemployment Rate (Feb) |  |  | 7.2% |
-| 13 min | CAD | Employment Change (Feb) |  | 21.1K | 37.3K |
-| 13 min | CAD | Unemployment Rate (Feb) |  | 5.8% | 5.7% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.3% | 4.4% | 4.4% |
+| 13:30 | USD | Participation Rate (Feb) | 62.5% |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Feb) | 223K | 160K | 177K |
+| 13:30 | USD | U6 Unemployment Rate (Feb) | 7.3% |  | 7.2% |
+| 13:30 | CAD | Employment Change (Feb) | 40.7K | 21.1K | 37.3K |
+| 13:30 | CAD | Unemployment Rate (Feb) | 5.8% | 5.8% | 5.7% |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
