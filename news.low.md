@@ -5,9 +5,9 @@
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) | -5.8% |  | 1.3% |
 | 05:00 | JPY | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 05:00 | JPY | Leading Index (Jan) | 109.9 | 109.7 | 110.5 |
-| 13 min | JPY | Economy Watchers Current Index (Feb) |  | 50.6 | 50.2 |
-| 07:00 | EUR | German PPI (YoY) (Jan) |  | -6.6% | -8.6% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.13% |
+| 06:00 | JPY | Economy Watchers Current Index (Dec) | 51.3 | 50.6 | 49.5 |
+| 41 min | EUR | German PPI (YoY) (Jan) |  | -6.6% | -8.6% |
+| 41 min | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.13% |
 | 07:45 | EUR | French Current Account (Jan) |  |  | -0.70B |
 | 07:45 | EUR | French Exports (Jan) |  |  | 50.2B |
 | 07:45 | EUR | French Imports (Jan) |  |  | 57.0B |
@@ -15,8 +15,8 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) |  |  | -0.2% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | -0.9% |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
 | 11:30 | INR | Bank Loan Growth |  |  | 20.3% |
 | 11:30 | INR | Deposit Growth |  |  | 13.6% |

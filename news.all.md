@@ -6,11 +6,11 @@
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) | -5.8% |  | 1.3% |
 | 05:00 | JPY | Low | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 05:00 | JPY | Low | Leading Index (Jan) | 109.9 | 109.7 | 110.5 |
-| 13 min | JPY | Low | Economy Watchers Current Index (Feb) |  | 50.6 | 50.2 |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 0.5% | -1.6% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jan) |  | -6.6% | -8.6% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.1% | -1.2% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) |  |  | -3.13% |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Dec) | 51.3 | 50.6 | 49.5 |
+| 41 min | EUR | Moderate | German Industrial Production (MoM) (Jan) |  | 0.5% | -1.6% |
+| 41 min | EUR | Low | German PPI (YoY) (Jan) |  | -6.6% | -8.6% |
+| 41 min | EUR | Moderate | German PPI (MoM) (Jan) |  | 0.1% | -1.2% |
+| 41 min | EUR | Low | German Industrial Production (YoY) (Jan) |  |  | -3.13% |
 | 07:45 | EUR | Low | French Current Account (Jan) |  |  | -0.70B |
 | 07:45 | EUR | Low | French Exports (Jan) |  |  | 50.2B |
 | 07:45 | EUR | Low | French Imports (Jan) |  |  | 57.0B |
@@ -18,8 +18,8 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  |  | -0.2% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.9% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
