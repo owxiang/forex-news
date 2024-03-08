@@ -4,25 +4,25 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:00 | USD | High | U.S. President Biden Speaks |  |  |  |
 | 05:00 | JPY | Low | Coincident Indicator (MoM) (Jan) | -5.8% |  | 1.3% |
-| 05:00 | JPY | Low | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 05:00 | JPY | Low | Leading Index (Jan) | 109.9 | 109.7 | 110.5 |
+| 05:00 | JPY | Low | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Dec) | 51.3 | 50.6 | 49.5 |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Jan) | 1.0% | 0.5% | -2.0% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jan) | 0.2% | 0.1% | -0.8% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jan) | -4.4% | -6.6% | -5.1% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -5.50% |  | -3.13% |
-| 27 min | EUR | Low | French Current Account (Jan) |  |  | -0.70B |
-| 27 min | EUR | Low | French Exports (Jan) |  |  | 50.2B |
-| 27 min | EUR | Low | French Imports (Jan) |  |  | 57.0B |
-| 27 min | EUR | Low | French Trade Balance (Jan) |  | -6.5B | -6.8B |
-| 42 min | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  |  | -0.2% |
-| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.9% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Jan) | -5.35% |  | -3.53% |
+| 07:45 | EUR | Low | French Current Account (Jan) | -1.00B |  | -0.20B |
+| 07:45 | EUR | Low | French Exports (Jan) | 48.8B |  | 50.4B |
+| 07:45 | EUR | Low | French Imports (Jan) | 56.2B |  | 56.8B |
+| 07:45 | EUR | Low | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
+| 40 min | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -16.0% |
+| 40 min | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.9% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 20.3% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 619.07B |

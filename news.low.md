@@ -3,18 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) | -5.8% |  | 1.3% |
-| 05:00 | JPY | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 05:00 | JPY | Leading Index (Jan) | 109.9 | 109.7 | 110.5 |
+| 05:00 | JPY | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 06:00 | JPY | Economy Watchers Current Index (Dec) | 51.3 | 50.6 | 49.5 |
 | 07:00 | EUR | German PPI (YoY) (Jan) | -4.4% | -6.6% | -5.1% |
-| 07:00 | EUR | German Industrial Production (YoY) (Jan) | -5.50% |  | -3.13% |
-| 27 min | EUR | French Current Account (Jan) |  |  | -0.70B |
-| 27 min | EUR | French Exports (Jan) |  |  | 50.2B |
-| 27 min | EUR | French Imports (Jan) |  |  | 57.0B |
-| 27 min | EUR | French Trade Balance (Jan) |  | -6.5B | -6.8B |
-| 42 min | EUR | Spanish Industrial Production (YoY) (Jan) |  |  | -0.2% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | -0.9% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jan) | -5.35% |  | -3.53% |
+| 07:45 | EUR | French Current Account (Jan) | -1.00B |  | -0.20B |
+| 07:45 | EUR | French Exports (Jan) | 48.8B |  | 50.4B |
+| 07:45 | EUR | French Imports (Jan) | 56.2B |  | 56.8B |
+| 07:45 | EUR | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
+| 40 min | EUR | Italian PPI (YoY) (Jan) |  |  | -16.0% |
+| 40 min | EUR | Italian PPI (MoM) (Jan) |  |  | -0.9% |
 | 10:00 | EUR | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
