@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German Industrial Production (MoM) (Jan) | 1.0% | 0.5% | -2.0% |
 | 07:00 | EUR | German PPI (MoM) (Jan) | 0.2% | 0.1% | -0.8% |
-| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
-| 10:00 | EUR | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
+| 45 min | EUR | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
+| 45 min | EUR | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 12:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.4% | 4.5% |
 | 13:30 | USD | Participation Rate (Feb) |  |  | 62.5% |

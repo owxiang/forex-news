@@ -16,13 +16,13 @@
 | 07:45 | EUR | Low | French Imports (Jan) | 56.2B |  | 56.8B |
 | 07:45 | EUR | Low | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
-| 40 min | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 40 min | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.9% |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
-| 10:00 | EUR | Low | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Jan) | -10.7% |  | -16.0% |
+| 09:00 | EUR | Low | Italian PPI (MoM) (Jan) | -1.7% |  | -0.9% |
+| 45 min | EUR | Low | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
+| 45 min | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
+| 45 min | EUR | Low | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
+| 45 min | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
+| 45 min | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 11:30 | INR | Low | Bank Loan Growth |  |  | 20.3% |
 | 11:30 | INR | Low | Deposit Growth |  |  | 13.6% |
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 619.07B |

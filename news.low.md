@@ -13,11 +13,11 @@
 | 07:45 | EUR | French Imports (Jan) | 56.2B |  | 56.8B |
 | 07:45 | EUR | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
-| 40 min | EUR | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 40 min | EUR | Italian PPI (MoM) (Jan) |  |  | -0.9% |
-| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
-| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
-| 10:00 | EUR | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) | -10.7% |  | -16.0% |
+| 09:00 | EUR | Italian PPI (MoM) (Jan) | -1.7% |  | -0.9% |
+| 45 min | EUR | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
+| 45 min | EUR | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
+| 45 min | EUR | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
 | 11:30 | INR | Bank Loan Growth |  |  | 20.3% |
 | 11:30 | INR | Deposit Growth |  |  | 13.6% |
 | 11:30 | INR | FX Reserves, USD |  |  | 619.07B |
