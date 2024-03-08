@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) (Jan) | -5.8% |  | 1.3% |
-| 05:00 | JPY | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 05:00 | JPY | Leading Index (Jan) | 109.9 | 109.7 | 110.5 |
+| 05:00 | JPY | Leading Index (MoM) (Jan) | -0.6% |  | 1.8% |
 | 06:00 | JPY | Economy Watchers Current Index (Dec) | 51.3 | 50.6 | 49.5 |
 | 07:00 | EUR | German PPI (YoY) (Jan) | -4.4% | -6.6% | -5.1% |
 | 07:00 | EUR | German Industrial Production (YoY) (Jan) | -5.35% |  | -3.53% |
@@ -13,10 +13,10 @@
 | 07:45 | EUR | French Imports (Jan) | 56.2B |  | 56.8B |
 | 07:45 | EUR | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
-| 09:00 | EUR | Italian PPI (MoM) (Jan) | -2.5% |  | -1.0% |
 | 09:00 | EUR | Italian PPI (YoY) (Jan) | -14.0% |  | -16.0% |
-| 10:00 | EUR | Employment Change (YoY) (Q4) | 1.2% | 1.3% | 1.3% |
+| 09:00 | EUR | Italian PPI (MoM) (Jan) | -2.5% |  | -1.0% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.3% | 0.3% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) | 1.2% | 1.3% | 1.3% |
 | 10:00 | EUR | Employment Overall (Q4) | 167,534.6K | 167,479.4K | 168,734.0K |
 | 11:30 | INR | Bank Loan Growth | 20.5% |  | 20.3% |
 | 11:30 | INR | Deposit Growth | 13.1% |  | 13.6% |
@@ -30,14 +30,14 @@
 | 13:30 | CAD | Full Employment Change (Feb) | 70.6K |  | -11.6K |
 | 13:30 | CAD | Part Time Employment Change (Feb) | -29.9K |  | 48.9K |
 | 13:30 | CAD | Participation Rate (Feb) | 65.3% |  | 65.3% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | -1.6K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -232.6K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -141.6K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 14.5K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -191.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -37.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -1.4K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 93.8K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -12.0K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 10.1K |
+| 16 min | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
+| 16 min | USD | CFTC Copper speculative net positions |  |  | -1.6K |
+| 16 min | USD | CFTC Corn speculative net positions |  |  | -232.6K |
+| 16 min | USD | CFTC Natural Gas speculative net positions |  |  | -141.6K |
+| 16 min | USD | CFTC Silver speculative net positions |  |  | 14.5K |
+| 16 min | USD | CFTC Soybeans speculative net positions |  |  | -191.2K |
+| 16 min | USD | CFTC Wheat speculative net positions |  |  | -37.0K |
+| 16 min | CAD | CFTC CAD speculative net positions |  |  | -1.4K |
+| 16 min | MXN | CFTC MXN speculative net positions |  |  | 93.8K |
+| 16 min | CHF | CFTC CHF speculative net positions |  |  | -12.0K |
+| 16 min | NZD | CFTC NZD speculative net positions |  |  | 10.1K |
