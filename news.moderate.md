@@ -1,37 +1,27 @@
-## 07 March 2024 - Moderate Impact Forex News
+## 08 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Home Loans (MoM) | -4.6% |  | -5.5% |
-| 00:30 | AUD | Trade Balance | 11.027B | 11.420B | 10.743B |
-| 01:30 | JPY | BoJ Board Member Nakagawa Speaks |  |  |  |
-| 03:00 | CNY | Exports (YoY) (Feb) | 7.1% | 1.9% | 2.3% |
-| 03:00 | CNY | Imports (YoY) (Feb) | 3.5% | 1.5% | 0.2% |
-| 03:00 | CNY | Trade Balance (USD) (Feb) | 125.16B | 110.30B | 75.34B |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Feb) | 1.7% |  | 2.3% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Feb) | 0.4% | 0.8% | 1.2% |
-| 07:00 | EUR | German Factory Orders (MoM) (Jan) | -11.3% | -6.0% | 12.0% |
-| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jan) | 75.0% |  | 74.3% |
-| 12:00 | MXN | CPI (MoM) (Feb) | 0.09% | 0.11% | 0.89% |
-| 12:00 | MXN | CPI (YoY) (Feb) | 4.40% | 4.42% | 4.88% |
-| 13:00 | GBP | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
-| 13:15 | EUR | ECB Marginal Lending Facility | 4.75% |  | 4.75% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,906K | 1,889K | 1,898K |
-| 13:30 | USD | Exports | 257.20B |  | 258.20B |
-| 13:30 | USD | Imports | 324.60B |  | 320.40B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q4) | 3.2% | 3.1% | 3.2% |
-| 13:30 | USD | Trade Balance (Jan) | -67.40B | -63.40B | -64.20B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q4) | 0.4% | 0.7% | 0.5% |
-| 13:30 | CAD | Building Permits (MoM) (Jan) | 13.5% | 4.6% | -11.5% |
-| 13:30 | CAD | Trade Balance (Jan) | 0.50B | -0.10B | -0.86B |
-| 15:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 15:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.5% | 2.5% |
-| 16:30 | USD | FOMC Member Mester Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (Jan) | 19.49B | 10.10B | 0.92B |
-| 21:30 | USD | Fed's Balance Sheet | 7,539B |  | 7,568B |
-| 12 min | JPY | Household Spending (MoM) (Jan) |  | 0.4% | -0.9% |
-| 12 min | JPY | Household Spending (YoY) (Jan) |  | -4.1% | -2.5% |
-| 32 min | JPY | Adjusted Current Account (Jan) |  | 2.07T | 1.81T |
-| 32 min | JPY | Current Account n.s.a. (Jan) |  | -0.330T | 0.744T |
+| 07:00 | EUR | German Industrial Production (MoM) (Jan) |  | 0.5% | -1.6% |
+| 07:00 | EUR | German PPI (MoM) (Jan) |  | 0.1% | -1.2% |
+| 10:00 | EUR | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
+| 10:00 | EUR | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
+| 12:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.4% | 4.5% |
+| 13:30 | USD | Participation Rate (Feb) |  |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Feb) |  | 160K | 317K |
+| 13:30 | USD | U6 Unemployment Rate (Feb) |  |  | 7.2% |
+| 13:30 | CAD | Employment Change (Feb) |  | 21.1K | 37.3K |
+| 13:30 | CAD | Unemployment Rate (Feb) |  | 5.8% | 5.7% |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 46.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 224.8K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 141.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 10.2K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -224.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -79.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 17.5K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -132.7K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 62.9K |

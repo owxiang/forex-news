@@ -1,51 +1,43 @@
-## 07 March 2024 - Low Impact Forex News
+## 08 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Exports (MoM) | 1.6% |  | 1.5% |
-| 00:30 | AUD | Imports (MoM) | 1.3% |  | 4.0% |
-| 00:30 | AUD | Invest Housing Finance (MoM) | -2.6% |  | -1.3% |
-| 03:00 | CNY | Exports (Feb) | 10.30M |  | 3.80M |
-| 03:00 | CNY | Imports (Feb) | 6.70M |  | 1.60M |
-| 03:00 | CNY | Trade Balance (Feb) | 890.86B | 620.00B | 540.90B |
-| 03:00 | IDR | FX Reserves (USD) (Feb) | 144.00B |  | 145.10B |
-| 03:35 | JPY | 30-Year JGB Auction | 1.770% |  | 1.791% |
-| 06:00 | ZAR | Foreign Reserves (USD) (Feb) | 61.65B |  | 61.19B |
-| 06:00 | ZAR | Net FX Reserves (USD) (Feb) | 56.652B |  | 56.662B |
-| 06:45 | CHF | Unemployment Rate n.s.a. (Feb) | 2.4% |  | 2.5% |
-| 06:45 | CHF | Unemployment Rate s.a. (Feb) | 2.2% | 2.2% | 2.2% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Jan) | 0.0% |  | 0.3% |
-| 07:45 | EUR | French Reserve Assets Total (Feb) | 225,601.0M |  | 226,483.0M |
-| 08:00 | CHF | Foreign Reserves (USD) (Feb) | 677.6B |  | 662.2B |
-| 08:00 | CNY | FX Reserves (USD) (Feb) | 3.226T | 3.205T | 3.219T |
-| 08:30 | HKD | Foreign Reserves (USD) (Feb) | 425.10B |  | 423.10B |
-| 09:00 | SGD | Foreign Reserves USD (MoM) (Feb) | 357.3B |  | 357.8B |
-| 09:00 | ZAR | Current Account | -165.5B | -92.0B | -34.4B |
-| 09:00 | ZAR | Current Account % of GDP | -2.30% |  | -0.50% |
-| 09:50 | EUR | Spanish 10-Year Obligacion Auction | 3.162% |  | 3.170% |
-| 09:50 | EUR | Spanish 5-Year Bonos Auction | 2.857% |  | 2.873% |
-| 09:50 | EUR | Spanish 8-Year Obligacion Auction | 2.965% |  | 3.582% |
-| 10:00 | EUR | French 10-Year OAT Auction | 2.81% |  | 2.70% |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Feb) | -0.41% |  | -0.27% |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Jan) | 60.0% |  | 60.8% |
-| 11:30 | BRL | Budget Balance (Jan) | 22.232B |  | -193.430B |
-| 11:30 | BRL | Budget Surplus (Jan) | 102.146B |  | -129.573B |
-| 12:00 | MXN | Core CPI (MoM) (Feb) | 0.49% | 0.49% | 0.40% |
-| 12:00 | MXN | Month Core Inflation (MoM) (Feb) | 4.64% | 4.62% | 4.76% |
-| 12:00 | MXN | PPI (YoY) (Feb) | 1.40% |  | 0.90% |
-| 12:00 | MXN | PPI (MoM) (Feb) | 0.40% |  | 0.40% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | 8.8% |  | -20.0% |
-| 12:30 | USD | Challenger Job Cuts (Feb) | 84.638K |  | 82.307K |
-| 13:00 | BRL | Auto Production (MoM) (Feb) | 24.3% |  | -11.0% |
-| 13:00 | BRL | Auto Sales (MoM) (Feb) | 2.2% |  | -34.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 212.25K |  | 213.00K |
-| 13:30 | CAD | Exports (Jan) | 62.29B |  | 63.37B |
-| 13:30 | CAD | Imports (Jan) | 61.79B |  | 64.24B |
-| 15:30 | USD | Natural Gas Storage | -40B | -42B | -96B |
-| 16:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.285% |
-| 16:30 | USD | 8-Week Bill Auction | 5.280% |  | 5.285% |
-| 17:30 | BRL | Foreign Exchange Flows | -0.322B |  | -2.534B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.621T |  | 3.541T |
-| 23:00 | KRW | Current Account (Jan) | 3.05B |  | 7.41B |
-| 32 min | JPY | Bank Lending (YoY) (Feb) |  | 3.2% | 3.1% |
-| 32 min | JPY | Foreign Reserves (USD) (Feb) |  |  | 1,291.8B |
+| 05:00 | JPY | Coincident Indicator (MoM) (Jan) |  |  | 1.3% |
+| 05:00 | JPY | Economy Watchers Current Index (Feb) |  | 50.6 | 50.2 |
+| 05:00 | JPY | Leading Index (MoM) (Jan) |  |  | 2.1% |
+| 05:00 | JPY | Leading Index |  | 109.7 | 110.2 |
+| 07:00 | EUR | German PPI (YoY) (Jan) |  | -6.6% | -8.6% |
+| 07:00 | EUR | German Industrial Production (YoY) (Jan) |  |  | -3.13% |
+| 07:45 | EUR | French Current Account (Jan) |  |  | -0.70B |
+| 07:45 | EUR | French Exports (Jan) |  |  | 50.2B |
+| 07:45 | EUR | French Imports (Jan) |  |  | 57.0B |
+| 07:45 | EUR | French Trade Balance (Jan) |  | -6.5B | -6.8B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) |  |  | -0.2% |
+| 09:00 | EUR | Italian PPI (MoM) (Jan) |  |  | -0.9% |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) |  |  | -16.0% |
+| 10:00 | EUR | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
+| 10:00 | EUR | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
+| 10:00 | EUR | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
+| 11:30 | INR | Bank Loan Growth |  |  | 20.3% |
+| 11:30 | INR | Deposit Growth |  |  | 13.6% |
+| 11:30 | INR | FX Reserves, USD |  |  | 619.07B |
+| 11:30 | BRL | Bank lending (MoM) (Jan) |  |  | 1.4% |
+| 13:30 | USD | Average Weekly Hours (Feb) |  | 34.3 | 34.1 |
+| 13:30 | USD | Government Payrolls (Feb) |  |  | 36.0K |
+| 13:30 | USD | Manufacturing Payrolls (Feb) |  | 10K | 23K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Feb) |  |  | 5.3% |
+| 13:30 | CAD | Capacity Utilization Rate (Q4) |  | 80.2% | 79.7% |
+| 13:30 | CAD | Full Employment Change (Feb) |  |  | -11.6K |
+| 13:30 | CAD | Part Time Employment Change (Feb) |  |  | 48.9K |
+| 13:30 | CAD | Participation Rate (Feb) |  |  | 65.3% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | -1.6K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -232.6K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -141.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 14.5K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -191.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -37.0K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -1.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 93.8K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -12.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 10.1K |
