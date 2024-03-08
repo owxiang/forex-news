@@ -13,8 +13,8 @@
 | 07:45 | EUR | French Imports (Jan) | 56.2B |  | 56.8B |
 | 07:45 | EUR | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) | -14.0% |  | -16.0% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) | -2.5% |  | -1.0% |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) | -14.0% |  | -16.0% |
 | 10:00 | EUR | Employment Change (YoY) (Q4) | 1.2% | 1.3% | 1.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.3% | 0.3% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q4) | 167,534.6K | 167,479.4K | 168,734.0K |

@@ -14,9 +14,9 @@
 | 13:30 | USD | U6 Unemployment Rate (Feb) | 7.3% |  | 7.2% |
 | 13:30 | CAD | Employment Change (Feb) | 40.7K | 21.1K | 37.3K |
 | 13:30 | CAD | Unemployment Rate (Feb) | 5.8% | 5.8% | 5.7% |
-| 42 min | USD | WASDE Report |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 46 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 46 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 46.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 224.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 141.6K |
