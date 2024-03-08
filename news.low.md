@@ -13,8 +13,8 @@
 | 07:45 | EUR | French Imports (Jan) | 56.2B |  | 56.8B |
 | 07:45 | EUR | French Trade Balance (Jan) | -7.4B | -6.5B | -6.4B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Jan) | -0.6% |  | -1.4% |
-| 09:00 | EUR | Italian PPI (YoY) (Jan) | -14.0% |  | -16.0% |
 | 09:00 | EUR | Italian PPI (MoM) (Jan) | -2.5% |  | -1.0% |
+| 09:00 | EUR | Italian PPI (YoY) (Jan) | -14.0% |  | -16.0% |
 | 10:00 | EUR | Employment Change (YoY) (Q4) | 1.2% | 1.3% | 1.3% |
 | 10:00 | EUR | Employment Change (QoQ) (Q4) | 0.3% | 0.3% | 0.2% |
 | 10:00 | EUR | Employment Overall (Q4) | 167,534.6K | 167,479.4K | 168,734.0K |
@@ -30,13 +30,13 @@
 | 13:30 | CAD | Full Employment Change (Feb) | 70.6K |  | -11.6K |
 | 13:30 | CAD | Part Time Employment Change (Feb) | -29.9K |  | 48.9K |
 | 13:30 | CAD | Participation Rate (Feb) | 65.3% |  | 65.3% |
-| 20:30 | USD | CFTC Aluminium speculative net positions | 3.3K |  | 3.3K |
-| 20:30 | USD | CFTC Copper speculative net positions | -1.6K |  | -1.6K |
-| 20:30 | USD | CFTC Corn speculative net positions | -232.6K |  | -232.6K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 2.6K |  | 3.3K |
+| 20:30 | USD | CFTC Copper speculative net positions | -5.3K |  | -1.6K |
+| 20:30 | USD | CFTC Corn speculative net positions | -230.9K |  | -232.6K |
 | 20:30 | USD | CFTC Natural Gas speculative net positions | -128.7K |  | -141.6K |
-| 20:30 | USD | CFTC Silver speculative net positions | 14.5K |  | 14.5K |
+| 20:30 | USD | CFTC Silver speculative net positions | 28.3K |  | 14.5K |
 | 20:30 | USD | CFTC Soybeans speculative net positions | -197.2K |  | -191.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -37.0K |  | -37.0K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -44.8K |  | -37.0K |
 | 20:30 | CAD | CFTC CAD speculative net positions | -19.8K |  | -1.4K |
 | 20:30 | MXN | CFTC MXN speculative net positions | 106.6K |  | 93.8K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -17.6K |  | -12.0K |
