@@ -46,7 +46,7 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Feb) | -29.9K |  | 48.9K |
 | 13:30 | CAD | Low | Participation Rate (Feb) | 65.3% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Feb) | 5.8% | 5.8% | 5.7% |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 42 min | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 46.4K |
