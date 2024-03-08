@@ -29,8 +29,8 @@
 | 11:30 | INR | Low | FX Reserves, USD | 625.63B |  | 619.07B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) | -0.3% |  | 1.6% |
 | 12:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.3% | 4.4% | 4.4% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.1% | 0.2% | 0.5% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.3% | 4.4% | 4.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) | 34.3 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Feb) | 52.0K |  | 52.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) | -4K | 10K | 8K |
@@ -47,8 +47,8 @@
 | 13:30 | CAD | Low | Participation Rate (Feb) | 65.3% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Feb) | 5.8% | 5.8% | 5.7% |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 46 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 46 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 504 |  | 506 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 622 |  | 629 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 46.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | -1.6K |
