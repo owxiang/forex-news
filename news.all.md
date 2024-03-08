@@ -17,8 +17,8 @@
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Jan) |  |  | -0.2% |
 | 09:00 | EUR | Low | Italian PPI (MoM) (Jan) |  |  | -0.9% |
 | 09:00 | EUR | Low | Italian PPI (YoY) (Jan) |  |  | -16.0% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) |  | 1.3% | 1.3% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q4) |  | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) |  | 167,479.4K | 168,734.0K |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q4) |  | 0.1% | 0.0% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) |  | 0.0% | -0.1% |
@@ -27,8 +27,8 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 619.07B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) |  |  | 1.4% |
 | 12:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.2% | 0.6% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) |  | 4.4% | 4.5% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) |  | 0.2% | 0.6% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) |  | 34.3 | 34.1 |
 | 13:30 | USD | Low | Government Payrolls (Feb) |  |  | 36.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) |  | 10K | 23K |
