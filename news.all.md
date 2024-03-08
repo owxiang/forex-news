@@ -22,15 +22,15 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q4) | 1.2% | 1.3% | 1.3% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q4) | 0.3% | 0.3% | 0.2% |
 | 10:00 | EUR | Low | Employment Overall (Q4) | 167,534.6K | 167,479.4K | 168,734.0K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q4) | 0.0% | 0.0% | -0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q4) | 0.1% | 0.1% | 0.1% |
 | 11:30 | INR | Low | Bank Loan Growth | 20.5% |  | 20.3% |
 | 11:30 | INR | Low | Deposit Growth | 13.1% |  | 13.6% |
 | 11:30 | INR | Low | FX Reserves, USD | 625.63B |  | 619.07B |
 | 11:30 | BRL | Low | Bank lending (MoM) (Jan) | -0.3% |  | 1.6% |
 | 12:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.1% | 0.2% | 0.5% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Feb) | 4.3% | 4.4% | 4.4% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Feb) | 0.1% | 0.2% | 0.5% |
 | 13:30 | USD | Low | Average Weekly Hours (Feb) | 34.3 | 34.3 | 34.2 |
 | 13:30 | USD | Low | Government Payrolls (Feb) | 52.0K |  | 52.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Feb) | -4K | 10K | 8K |
