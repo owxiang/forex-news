@@ -6,8 +6,8 @@
 | 06:00 | IDR | Car Sales (YoY) |  |  | -26.10% |
 | 07:00 | NOK | Core CPI YTD (Feb) |  | 5.2% | 5.3% |
 | 07:00 | NOK | Core Inflation (MoM) (Feb) |  | 0.7% | 0.0% |
-| 07:00 | NOK | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
 | 07:00 | NOK | CPI (YoY) (Feb) |  | 4.9% | 4.7% |
+| 07:00 | NOK | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
 | 07:00 | NOK | PPI (YoY) (Feb) |  |  | -12.9% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 3.1% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
