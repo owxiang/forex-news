@@ -13,11 +13,11 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 0.3% |  | 2.7% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 38 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
-| 38 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
-| 38 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.792% |
-| 43 min | USD | Low | CB Employment Trends Index (Feb) |  |  | 113.71 |
-| 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
+| 14:00 | USD | Low | CB Employment Trends Index (Feb) | 112.29 |  | 113.18 |
+| 16 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
+| 16 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
+| 16 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.792% |
+| 46 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 5.240% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 5.105% |
 | 17:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
@@ -27,5 +27,5 @@
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment |  |  |  |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.2 | 5.7 |
-| 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
 | 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 0.6% | 0.2% |

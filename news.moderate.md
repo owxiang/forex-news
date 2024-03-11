@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 08:00 | CHF | SECO Consumer Climate | -42 | -35 | -41 |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
-| 15:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
+| 46 min | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 17:00 | GBP | BoE MPC Member Mann |  |  |  |
 | 17:00 | USD | 3-Year Note Auction |  |  | 4.169% |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
