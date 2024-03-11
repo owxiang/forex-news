@@ -2,12 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | Machine Tool Orders (YoY) |  |  | -14.1% |
-| 06:00 | IDR | Car Sales (YoY) |  |  | -26.10% |
-| 07:00 | NOK | Core CPI YTD (Feb) |  | 5.2% | 5.3% |
+| 00:20 | IDR | Motorbike Sales (YoY) | -2.90% |  | -3.70% |
+| 44 min | JPY | Machine Tool Orders (YoY) |  |  | -14.1% |
+| 44 min | IDR | Car Sales (YoY) |  |  | -26.10% |
+| 07:00 | NOK | Core CPI YTD (Feb) |  | 5.3% | 5.3% |
 | 07:00 | NOK | Core Inflation (MoM) (Feb) |  | 0.7% | 0.0% |
 | 07:00 | NOK | CPI (YoY) (Feb) |  | 4.9% | 4.7% |
-| 07:00 | NOK | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
+| 07:00 | NOK | CPI (MoM) (Feb) |  | 0.5% | 0.1% |
 | 07:00 | NOK | PPI (YoY) (Feb) |  |  | -12.9% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 3.1% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
@@ -19,5 +20,5 @@
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.105% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | AUD | Westpac Consumer Sentiment |  |  |  |
-| 23:50 | JPY | PPI (YoY) (Feb) |  | 0.5% | 0.2% |
 | 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 23:50 | JPY | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
