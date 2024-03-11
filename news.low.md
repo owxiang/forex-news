@@ -3,13 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:20 | IDR | Motorbike Sales (YoY) | -2.90% |  | -3.70% |
-| 44 min | JPY | Machine Tool Orders (YoY) |  |  | -14.1% |
-| 44 min | IDR | Car Sales (YoY) |  |  | -26.10% |
-| 07:00 | NOK | Core CPI YTD (Feb) |  | 5.3% | 5.3% |
-| 07:00 | NOK | Core Inflation (MoM) (Feb) |  | 0.7% | 0.0% |
-| 07:00 | NOK | CPI (YoY) (Feb) |  | 4.9% | 4.7% |
-| 07:00 | NOK | CPI (MoM) (Feb) |  | 0.5% | 0.1% |
-| 07:00 | NOK | PPI (YoY) (Feb) |  |  | -12.9% |
+| 06:00 | JPY | Machine Tool Orders (YoY) | -8.0% |  | -14.1% |
+| 40 min | NOK | Core CPI YTD (Feb) |  | 5.3% | 5.3% |
+| 40 min | NOK | Core Inflation (MoM) (Feb) |  | 0.7% | 0.0% |
+| 40 min | NOK | CPI (YoY) (Feb) |  | 4.9% | 4.7% |
+| 40 min | NOK | CPI (MoM) (Feb) |  | 0.5% | 0.1% |
+| 40 min | NOK | PPI (YoY) (Feb) |  |  | -12.9% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 3.1% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:55 | EUR | French 12-Month BTF Auction |  |  | 3.507% |
