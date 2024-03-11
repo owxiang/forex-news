@@ -9,4 +9,4 @@
 | 17:00 | USD | 3-Year Note Auction | 4.256% |  | 4.169% |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 21:45 | NZD | Electronic Card Retail Sales (MoM) (Feb) | -1.8% |  | 2.0% |
-| 23:50 | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.2 | 5.7 |
+| 34 min | JPY | BSI Large Manufacturing Conditions (Q1) |  | 6.2 | 5.7 |

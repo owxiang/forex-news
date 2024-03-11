@@ -18,6 +18,6 @@
 | 15:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.240% |
 | 15:30 | USD | 6-Month Bill Auction | 5.100% |  | 5.105% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) | 2.5% |  | 1.6% |
-| 23:30 | AUD | Westpac Consumer Sentiment |  |  |  |
-| 23:50 | JPY | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
-| 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 14 min | AUD | Westpac Consumer Sentiment |  |  |  |
+| 34 min | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 34 min | JPY | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
