@@ -9,9 +9,9 @@
 | 07:00 | NOK | Low | CPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
 | 07:00 | NOK | Low | CPI (MoM) (Feb) | 0.2% | 0.5% | 0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Feb) | -12.6% |  | -12.9% |
-| 08:00 | CHF | Moderate | SECO Consumer Climate | -42 | -35 | -26 |
+| 08:00 | CHF | Moderate | SECO Consumer Climate | -42 | -35 | -41 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 0.3% |  | 2.7% |
-| 43 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
 | 13:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
