@@ -1,9 +1,23 @@
-## 10 March 2024 - Low Impact Forex News
+## 11 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | GDP Capital Expenditure (QoQ) (Q4) |  | -0.1% | -0.4% |
-| 34 min | JPY | GDP External Demand (QoQ) (Q4) |  | 0.2% | -0.1% |
-| 34 min | JPY | GDP Private Consumption (QoQ) (Q4) |  | -0.2% | -0.2% |
-| 34 min | JPY | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
-| 34 min | JPY | M3 Money Supply (Feb) |  |  | 2,130.3% |
+| 06:00 | JPY | Machine Tool Orders (YoY) |  |  | -14.1% |
+| 06:00 | IDR | Car Sales (YoY) |  |  | -26.10% |
+| 07:00 | NOK | Core CPI YTD (Feb) |  | 5.2% | 5.3% |
+| 07:00 | NOK | Core Inflation (MoM) (Feb) |  | 0.7% | 0.0% |
+| 07:00 | NOK | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
+| 07:00 | NOK | CPI (YoY) (Feb) |  | 4.9% | 4.7% |
+| 07:00 | NOK | PPI (YoY) (Feb) |  |  | -12.9% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 3.1% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:55 | EUR | French 12-Month BTF Auction |  |  | 3.507% |
+| 13:55 | EUR | French 3-Month BTF Auction |  |  | 3.860% |
+| 13:55 | EUR | French 6-Month BTF Auction |  |  | 3.792% |
+| 14:00 | USD | CB Employment Trends Index (Feb) |  |  | 113.71 |
+| 15:30 | USD | 3-Month Bill Auction |  |  | 5.240% |
+| 15:30 | USD | 6-Month Bill Auction |  |  | 5.105% |
+| 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
+| 23:30 | AUD | Westpac Consumer Sentiment |  |  |  |
+| 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 23:50 | JPY | PPI (YoY) (Feb) |  | 0.5% | 0.2% |

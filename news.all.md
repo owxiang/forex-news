@@ -1,12 +1,31 @@
-## 10 March 2024 - All Forex News
+## 11 March 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 34 min | JPY | High | GDP (QoQ) (Q4) |  | 0.3% | -0.7% |
-| 34 min | JPY | Moderate | GDP (YoY) (Q4) |  | -0.4% | -2.9% |
-| 34 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q4) |  | -0.1% | -0.4% |
-| 34 min | JPY | Low | GDP External Demand (QoQ) (Q4) |  | 0.2% | -0.1% |
-| 34 min | JPY | Moderate | GDP Price Index (YoY) (Q4) |  | 3.8% | 5.3% |
-| 34 min | JPY | Low | GDP Private Consumption (QoQ) (Q4) |  | -0.2% | -0.2% |
-| 34 min | JPY | Low | M2 Money Stock (YoY) |  | 2.4% | 2.4% |
-| 34 min | JPY | Low | M3 Money Supply (Feb) |  |  | 2,130.3% |
+| 06:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -14.1% |
+| 06:00 | IDR | Low | Car Sales (YoY) |  |  | -26.10% |
+| 07:00 | NOK | Low | Core CPI YTD (Feb) |  | 5.2% | 5.3% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Feb) |  | 0.7% | 0.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Feb) |  | 0.6% | 0.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Feb) |  | 4.9% | 4.7% |
+| 07:00 | NOK | Low | PPI (YoY) (Feb) |  |  | -12.9% |
+| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -35 | -26 |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) |  |  | 3.1% |
+| 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
+| 13:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
+| 13:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.792% |
+| 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 113.71 |
+| 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
+| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 5.240% |
+| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 5.105% |
+| 17:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 17:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.169% |
+| 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
+| 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) |  |  | 1.7% |
+| 23:30 | AUD | Low | Westpac Consumer Sentiment |  |  |  |
+| 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.2 | 5.7 |
+| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 0.5% | 0.2% |
