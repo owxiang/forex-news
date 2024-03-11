@@ -15,9 +15,9 @@
 | 14:30 | EUR | French 12-Month BTF Auction | 3.450% |  | 3.507% |
 | 14:30 | EUR | French 3-Month BTF Auction | 3.813% |  | 3.860% |
 | 14:30 | EUR | French 6-Month BTF Auction | 3.747% |  | 3.792% |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.240% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.105% |
+| 15:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.240% |
+| 15:30 | USD | 6-Month Bill Auction | 5.100% |  | 5.105% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | AUD | Westpac Consumer Sentiment |  |  |  |
-| 23:50 | JPY | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
 | 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
+| 23:50 | JPY | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
