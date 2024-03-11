@@ -9,7 +9,7 @@
 | 07:00 | NOK | CPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
 | 07:00 | NOK | CPI (MoM) (Feb) | 0.2% | 0.5% | 0.1% |
 | 07:00 | NOK | PPI (YoY) (Feb) | -12.6% |  | -12.9% |
-| 45 min | EUR | Spanish Retail Sales (YoY) (Jan) |  |  | 3.1% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 0.3% |  | 2.7% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:55 | EUR | French 12-Month BTF Auction |  |  | 3.507% |
 | 13:55 | EUR | French 3-Month BTF Auction |  |  | 3.860% |
@@ -19,5 +19,5 @@
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.105% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | AUD | Westpac Consumer Sentiment |  |  |  |
-| 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
 | 23:50 | JPY | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
+| 23:50 | JPY | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
