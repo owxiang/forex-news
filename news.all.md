@@ -13,10 +13,10 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 0.3% |  | 2.7% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
-| 13:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
-| 13:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.792% |
-| 14:00 | USD | Low | CB Employment Trends Index (Feb) |  |  | 113.71 |
+| 38 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
+| 38 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
+| 38 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.792% |
+| 43 min | USD | Low | CB Employment Trends Index (Feb) |  |  | 113.71 |
 | 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 5.240% |
 | 15:30 | USD | Low | 6-Month Bill Auction |  |  | 5.105% |

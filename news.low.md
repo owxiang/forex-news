@@ -11,10 +11,10 @@
 | 07:00 | NOK | PPI (YoY) (Feb) | -12.6% |  | -12.9% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jan) | 0.3% |  | 2.7% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:55 | EUR | French 12-Month BTF Auction |  |  | 3.507% |
-| 13:55 | EUR | French 3-Month BTF Auction |  |  | 3.860% |
-| 13:55 | EUR | French 6-Month BTF Auction |  |  | 3.792% |
-| 14:00 | USD | CB Employment Trends Index (Feb) |  |  | 113.71 |
+| 38 min | EUR | French 12-Month BTF Auction |  |  | 3.507% |
+| 38 min | EUR | French 3-Month BTF Auction |  |  | 3.860% |
+| 38 min | EUR | French 6-Month BTF Auction |  |  | 3.792% |
+| 43 min | USD | CB Employment Trends Index (Feb) |  |  | 113.71 |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 5.240% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.105% |
 | 21:45 | NZD | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
