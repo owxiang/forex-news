@@ -12,7 +12,7 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -42 | -35 | -41 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jan) | 0.3% |  | 2.7% |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 11 min | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:55 | EUR | Low | French 12-Month BTF Auction |  |  | 3.507% |
 | 13:55 | EUR | Low | French 3-Month BTF Auction |  |  | 3.860% |
 | 13:55 | EUR | Low | French 6-Month BTF Auction |  |  | 3.792% |
@@ -23,8 +23,8 @@
 | 17:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 17:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.169% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) |  |  | 1.7% |
+| 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment |  |  |  |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.2 | 5.7 |
 | 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
