@@ -20,12 +20,12 @@
 | 15:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.00% |
 | 15:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.240% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 5.100% |  | 5.105% |
-| 41 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 41 min | USD | Moderate | 3-Year Note Auction |  |  | 4.169% |
-| 41 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 17:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 17:00 | USD | Moderate | 3-Year Note Auction | 4.256% |  | 4.169% |
+| 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 21:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Feb) |  |  | 1.7% |
 | 21:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Feb) |  |  | 1.6% |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment |  |  |  |
 | 23:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q1) |  | 6.2 | 5.7 |
-| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
 | 23:50 | JPY | Low | PPI (YoY) (Feb) |  | 0.6% | 0.2% |
+| 23:50 | JPY | Low | PPI (MoM) (Feb) |  | 0.1% | 0.0% |
