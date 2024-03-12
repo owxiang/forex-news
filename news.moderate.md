@@ -6,7 +6,7 @@
 | 00:30 | AUD | NAB Business Confidence (Feb) | 0 |  | 1 |
 | 07:00 | GBP | Average Earnings Index +Bonus (Jan) |  | 5.7% | 5.8% |
 | 07:00 | GBP | Claimant Count Change (Feb) |  | 20.3K | 14.1K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) |  |  | 72K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) |  | 10K | 72K |
 | 07:00 | GBP | Unemployment Rate (Jan) |  | 3.8% | 3.8% |
 | 07:00 | EUR | German CPI (YoY) (Feb) |  | 2.5% | 2.9% |
 | 08:00 | CNY | New Loans |  | 1,510.0B | 4,920.0B |
