@@ -32,11 +32,11 @@
 | 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.83% | 0.78% | 0.42% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 4.50% | 4.44% | 4.51% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 0.82% |  | 0.32% |
-| 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
+| 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
 | 12:30 | USD | Low | Core CPI Index (Feb) | 315.57 |  | 314.44 |
-| 12:30 | USD | High | CPI (YoY) (Feb) | 3.2% | 3.1% | 3.1% |
 | 12:30 | USD | High | CPI (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
+| 12:30 | USD | High | CPI (YoY) (Feb) | 3.2% | 3.1% | 3.1% |
 | 12:30 | USD | Low | CPI Index, n.s.a. (Feb) | 310.33 | 310.30 | 308.42 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) | 311.05 |  | 309.68 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) | 0.62% |  | 0.54% |
