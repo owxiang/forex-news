@@ -15,9 +15,9 @@
 | 12:00 | INR | CPI (YoY) (Feb) | 5.09% | 5.02% | 5.10% |
 | 12:00 | BRL | CPI (YoY) (Feb) | 4.50% | 4.44% | 4.51% |
 | 12:30 | USD | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
-| 45 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 45 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 40 min | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Federal Budget Balance (Feb) |  | -298.5B | -22.0B |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 0.400M | 0.423M |

@@ -13,8 +13,8 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 3.9% | 3.8% | 3.8% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
 | 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.626% |  | 3.703% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 3.927% |  | 4.132% |
 | 10:00 | USD | Low | NFIB Small Business Optimism (Feb) | 89.4 | 90.5 | 89.9 |
@@ -43,11 +43,11 @@
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) | 0.0% |  | -0.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 3.0% |  | 3.1% |
 | 15:00 | USD | Low | Cleveland CPI (MoM) (Feb) | 0.4% |  | 0.5% |
-| 45 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 45 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 17:00 | USD | High | 10-Year Note Auction |  |  | 4.093% |
-| 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 40 min | USD | High | 10-Year Note Auction |  |  | 4.093% |
+| 40 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) |  | -298.5B | -22.0B |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.400M | 0.423M |
 | 21:45 | NZD | Low | FPI (MoM) (Feb) |  |  | 0.9% |
