@@ -23,8 +23,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.800% |  | 2.790% |
 | 11:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | 2.9% | 2.1% | 0.0% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | 0.4% | 0.4% | -0.7% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | 2.9% | 2.1% | 0.0% |
 | 12:00 | INR | Moderate | CPI (YoY) (Feb) | 5.09% | 5.02% | 5.10% |
 | 12:00 | INR | Low | Cumulative Industrial Production (Jan) | 5.90% |  | 6.10% |
 | 12:00 | INR | Low | Industrial Production (YoY) (Jan) | 3.8% | 4.1% | 4.2% |
@@ -32,8 +32,8 @@
 | 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.83% | 0.78% | 0.42% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 4.50% | 4.44% | 4.51% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 0.82% |  | 0.32% |
-| 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
+| 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
 | 12:30 | USD | Low | Core CPI Index (Feb) | 315.57 |  | 314.44 |
 | 12:30 | USD | High | CPI (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
 | 12:30 | USD | High | CPI (YoY) (Feb) | 3.2% | 3.1% | 3.1% |
@@ -51,4 +51,4 @@
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) | -296.0B | -298.5B | -22.0B |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | 0.400M | 0.423M |
 | 21:45 | NZD | Low | FPI (MoM) (Feb) | -0.6% |  | 1.2% |
-| 46 min | KRW | Low | Unemployment Rate (Feb) |  |  | 3.0% |
+| 23:00 | KRW | Low | Unemployment Rate (Feb) | 2.6% |  | 3.0% |
