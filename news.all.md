@@ -32,8 +32,8 @@
 | 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.83% | 0.78% | 0.42% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 4.50% | 4.44% | 4.51% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 0.82% |  | 0.32% |
-| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
 | 12:30 | USD | Low | Core CPI Index (Feb) | 315.57 |  | 314.44 |
 | 12:30 | USD | High | CPI (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
 | 12:30 | USD | High | CPI (YoY) (Feb) | 3.2% | 3.1% | 3.1% |
@@ -42,7 +42,7 @@
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) | 0.62% |  | 0.54% |
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) | 0.0% |  | -0.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 3.0% |  | 3.1% |
-| 15:00 | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.5% |
+| 46 min | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.5% |
 | 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
