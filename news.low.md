@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | NAB Business Survey (Feb) | 10 |  | 7 |
 | 00:30 | AUD | Private House Approvals | -9.9% | -9.9% | -1.8% |
-| 40 min | GBP | Average Earnings ex Bonus (Jan) |  | 6.2% | 6.2% |
-| 40 min | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
-| 40 min | EUR | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
-| 08:00 | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 08:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 08:00 | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 07:00 | GBP | Average Earnings ex Bonus (Jan) | 6.1% | 6.2% | 6.2% |
+| 07:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
+| 46 min | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 46 min | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 46 min | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.703% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.132% |
 | 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 90.5 | 89.9 |

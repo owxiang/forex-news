@@ -6,19 +6,19 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Feb) | 0 |  | 1 |
 | 00:30 | AUD | Low | NAB Business Survey (Feb) | 10 |  | 7 |
 | 00:30 | AUD | Low | Private House Approvals | -9.9% | -9.9% | -1.8% |
-| 40 min | GBP | Low | Average Earnings ex Bonus (Jan) |  | 6.2% | 6.2% |
-| 40 min | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.7% | 5.8% |
-| 40 min | GBP | Moderate | Claimant Count Change (Feb) |  | 20.3K | 14.1K |
-| 40 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | 10K | 72K |
-| 40 min | GBP | Moderate | Unemployment Rate (Jan) |  | 3.8% | 3.8% |
-| 40 min | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.5% | 2.9% |
-| 40 min | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | 0.2% |
-| 40 min | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
-| 40 min | EUR | Low | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
-| 08:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 08:00 | CNY | Moderate | New Loans |  | 1,510.0B | 4,920.0B |
-| 08:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 08:00 | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) | 6.1% | 6.2% | 6.2% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) | 5.6% | 5.7% | 5.8% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Feb) | 16.8K | 20.3K | 3.1K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) | -21K | 10K | 72K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 3.9% | 3.8% | 3.8% |
+| 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
+| 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
+| 46 min | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 46 min | CNY | Moderate | New Loans |  | 1,510.0B | 4,920.0B |
+| 46 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 46 min | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.703% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.132% |
 | 10:00 | USD | Low | NFIB Small Business Optimism (Feb) |  | 90.5 | 89.9 |
@@ -36,11 +36,11 @@
 | 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
-| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 314.44 |
-| 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.4% | 0.3% |
 | 12:30 | USD | High | CPI (YoY) (Feb) |  | 3.1% | 3.1% |
+| 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.4% | 0.3% |
 | 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 310.30 | 308.42 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) |  |  | 309.69 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.54% |
