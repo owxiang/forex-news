@@ -12,19 +12,19 @@
 | 10:00 | USD | NFIB Small Business Optimism (Feb) | 89.4 | 90.5 | 89.9 |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 3.546% |  | 3.522% |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.800% |  | 2.790% |
-| 48 min | MXN | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
-| 48 min | MXN | Industrial Production (YoY) (Jan) |  | 2.1% | 0.0% |
-| 48 min | INR | Cumulative Industrial Production (Jan) |  |  | 6.10% |
-| 48 min | INR | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
-| 48 min | INR | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
-| 48 min | BRL | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
-| 48 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
+| 12:00 | MXN | Industrial Production (MoM) (Jan) | 0.4% | 0.4% | -0.7% |
+| 12:00 | MXN | Industrial Production (YoY) (Jan) | 2.9% | 2.1% | 0.0% |
+| 12:00 | INR | Cumulative Industrial Production (Jan) | 5.90% |  | 6.10% |
+| 12:00 | INR | Industrial Production (YoY) (Jan) | 3.8% | 4.1% | 3.8% |
+| 12:00 | INR | Manufacturing Output (MoM) (Jan) | 3.2% |  | 3.9% |
+| 12:00 | BRL | CPI (MoM) (Feb) | 0.83% | 0.78% | 0.42% |
+| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 0.82% |  | 0.32% |
 | 12:30 | USD | Core CPI Index (Feb) |  |  | 314.44 |
 | 12:30 | USD | CPI Index, n.s.a. (Feb) |  | 310.30 | 308.42 |
 | 12:30 | USD | CPI Index, s.a (Feb) |  |  | 309.69 |
 | 12:30 | USD | CPI, n.s.a (MoM) (Feb) |  |  | 0.54% |
 | 12:30 | USD | Real Earnings (MoM) (Feb) |  |  | -0.3% |
-| 12:55 | USD | Redbook (YoY) |  |  | 3.1% |
+| 26 min | USD | Redbook (YoY) |  |  | 3.1% |
 | 15:00 | USD | Cleveland CPI (MoM) (Feb) |  |  | 0.5% |
 | 21:45 | NZD | FPI (MoM) (Feb) |  |  | 0.9% |
 | 23:00 | KRW | Unemployment Rate (Feb) |  |  | 3.0% |

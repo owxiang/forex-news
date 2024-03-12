@@ -11,9 +11,9 @@
 | 07:00 | EUR | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:00 | GBP | BoE MPC Member Mann |  |  |  |
-| 48 min | USD | OPEC Monthly Report |  |  |  |
-| 48 min | INR | CPI (YoY) (Feb) |  | 5.02% | 5.10% |
-| 48 min | BRL | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 12:00 | INR | CPI (YoY) (Feb) | 5.09% | 5.02% | 5.10% |
+| 12:00 | BRL | CPI (YoY) (Feb) | 4.50% | 4.44% | 4.51% |
 | 12:30 | USD | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
 | 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
