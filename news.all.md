@@ -23,8 +23,8 @@
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.800% |  | 2.790% |
 | 11:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | 2.9% | 2.1% | 0.0% |
 | 12:00 | MXN | Low | Industrial Production (MoM) (Jan) | 0.4% | 0.4% | -0.7% |
+| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) | 2.9% | 2.1% | 0.0% |
 | 12:00 | INR | Moderate | CPI (YoY) (Feb) | 5.09% | 5.02% | 5.10% |
 | 12:00 | INR | Low | Cumulative Industrial Production (Jan) | 5.90% |  | 6.10% |
 | 12:00 | INR | Low | Industrial Production (YoY) (Jan) | 3.8% | 4.1% | 4.2% |
@@ -35,16 +35,16 @@
 | 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
 | 12:30 | USD | Low | Core CPI Index (Feb) | 315.57 |  | 314.44 |
-| 12:30 | USD | High | CPI (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
 | 12:30 | USD | High | CPI (YoY) (Feb) | 3.2% | 3.1% | 3.1% |
+| 12:30 | USD | High | CPI (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
 | 12:30 | USD | Low | CPI Index, n.s.a. (Feb) | 310.33 | 310.30 | 308.42 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) | 311.05 |  | 309.68 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) | 0.62% |  | 0.54% |
 | 12:30 | USD | Low | Real Earnings (MoM) (Feb) | 0.0% |  | -0.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 3.0% |  | 3.1% |
-| 46 min | USD | Low | Cleveland CPI (MoM) (Feb) |  |  | 0.5% |
-| 16:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 16:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 15:00 | USD | Low | Cleveland CPI (MoM) (Feb) | 0.4% |  | 0.5% |
+| 45 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 45 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 16:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 17:00 | USD | High | 10-Year Note Auction |  |  | 4.093% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
