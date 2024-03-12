@@ -5,8 +5,8 @@
 | 00:30 | AUD | NAB Business Survey (Feb) | 10 |  | 7 |
 | 00:30 | AUD | Private House Approvals | -9.9% | -9.9% | -1.8% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) | 6.1% | 6.2% | 6.2% |
-| 07:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 3.626% |  | 3.703% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 3.927% |  | 4.132% |
 | 10:00 | USD | NFIB Small Business Optimism (Feb) | 89.4 | 90.5 | 89.9 |
