@@ -9,7 +9,7 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) | -21K | 10K | 72K |
 | 07:00 | GBP | Unemployment Rate (Jan) | 3.9% | 3.8% | 3.8% |
 | 07:00 | EUR | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
-| 46 min | CNY | New Loans |  | 1,510.0B | 4,920.0B |
+| 10:00 | CNY | New Loans |  | 1,510.0B | 4,920.0B |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:00 | GBP | BoE MPC Member Mann |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |

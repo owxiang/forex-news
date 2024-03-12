@@ -11,17 +11,17 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Feb) | 16.8K | 20.3K | 3.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) | -21K | 10K | 72K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 3.9% | 3.8% | 3.8% |
-| 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
-| 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
-| 46 min | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 46 min | CNY | Moderate | New Loans |  | 1,510.0B | 4,920.0B |
-| 46 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 46 min | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.703% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.132% |
 | 10:00 | USD | Low | NFIB Small Business Optimism (Feb) |  | 90.5 | 89.9 |
+| 10:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 10:00 | CNY | Moderate | New Loans |  | 1,510.0B | 4,920.0B |
+| 10:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 10:00 | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.522% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.790% |
@@ -33,14 +33,14 @@
 | 12:00 | INR | Low | Cumulative Industrial Production (Jan) |  |  | 6.10% |
 | 12:00 | INR | Low | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
 | 12:00 | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
+| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
-| 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
+| 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 314.44 |
-| 12:30 | USD | High | CPI (YoY) (Feb) |  | 3.1% | 3.1% |
 | 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.4% | 0.3% |
+| 12:30 | USD | High | CPI (YoY) (Feb) |  | 3.1% | 3.1% |
 | 12:30 | USD | Low | CPI Index, n.s.a. (Feb) |  | 310.30 | 308.42 |
 | 12:30 | USD | Low | CPI Index, s.a (Feb) |  |  | 309.69 |
 | 12:30 | USD | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.54% |
