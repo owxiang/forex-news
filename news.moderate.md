@@ -18,6 +18,6 @@
 | 16:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 40 min | EUR | German Buba Balz Speaks |  |  |  |
-| 18:00 | USD | Federal Budget Balance (Feb) |  | -298.5B | -22.0B |
+| 17:00 | EUR | German Buba Balz Speaks |  |  |  |
+| 46 min | USD | Federal Budget Balance (Feb) |  | -298.5B | -22.0B |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 0.400M | 0.423M |
