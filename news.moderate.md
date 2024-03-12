@@ -20,4 +20,4 @@
 | 16:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Federal Budget Balance (Feb) | -296.0B | -298.5B | -22.0B |
-| 13 min | USD | API Weekly Crude Oil Stock |  | 0.400M | 0.423M |
+| 20:30 | USD | API Weekly Crude Oil Stock | -5.521M | 0.400M | 0.423M |

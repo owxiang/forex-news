@@ -32,8 +32,8 @@
 | 12:00 | BRL | Moderate | CPI (YoY) (Feb) | 4.50% | 4.44% | 4.51% |
 | 12:00 | BRL | Low | CPI (MoM) (Feb) | 0.83% | 0.78% | 0.42% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) | 0.82% |  | 0.32% |
-| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) | 0.4% | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) | 3.8% | 3.7% | 3.9% |
 | 12:30 | USD | Low | Core CPI Index (Feb) | 315.57 |  | 314.44 |
 | 12:30 | USD | High | CPI (MoM) (Feb) | 0.4% | 0.4% | 0.3% |
 | 12:30 | USD | High | CPI (YoY) (Feb) | 3.2% | 3.1% | 3.1% |
@@ -49,6 +49,6 @@
 | 17:00 | USD | High | 10-Year Note Auction | 4.166% |  | 4.093% |
 | 17:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Moderate | Federal Budget Balance (Feb) | -296.0B | -298.5B | -22.0B |
-| 13 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.400M | 0.423M |
-| 21:45 | NZD | Low | FPI (MoM) (Feb) |  |  | 0.9% |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock | -5.521M | 0.400M | 0.423M |
+| 30 min | NZD | Low | FPI (MoM) (Feb) |  |  | 0.9% |
 | 23:00 | KRW | Low | Unemployment Rate (Feb) |  |  | 3.0% |

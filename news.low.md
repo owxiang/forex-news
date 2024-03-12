@@ -26,5 +26,5 @@
 | 12:30 | USD | Real Earnings (MoM) (Feb) | 0.0% |  | -0.4% |
 | 12:55 | USD | Redbook (YoY) | 3.0% |  | 3.1% |
 | 15:00 | USD | Cleveland CPI (MoM) (Feb) | 0.4% |  | 0.5% |
-| 21:45 | NZD | FPI (MoM) (Feb) |  |  | 0.9% |
+| 30 min | NZD | FPI (MoM) (Feb) |  |  | 0.9% |
 | 23:00 | KRW | Unemployment Rate (Feb) |  |  | 3.0% |
