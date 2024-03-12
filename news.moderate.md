@@ -9,9 +9,8 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Jan) | -21K | 10K | 72K |
 | 07:00 | GBP | Unemployment Rate (Jan) | 3.9% | 3.8% | 3.8% |
 | 07:00 | EUR | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
-| 40 min | CNY | New Loans |  | 1,510.0B | 4,920.0B |
-| 40 min | EUR | Eurogroup Meetings |  |  |  |
-| 11:00 | GBP | BoE MPC Member Mann |  |  |  |
+| 10:00 | EUR | Eurogroup Meetings |  |  |  |
+| 44 min | GBP | BoE MPC Member Mann |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | INR | CPI (YoY) (Feb) |  | 5.02% | 5.10% |
 | 12:00 | BRL | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
@@ -20,4 +19,4 @@
 | 16:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 17:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 18:00 | USD | Federal Budget Balance (Feb) |  | -298.5B | -22.0B |
-| 20:30 | USD | API Weekly Crude Oil Stock |  |  | 0.423M |
+| 20:30 | USD | API Weekly Crude Oil Stock |  | 0.400M | 0.423M |
