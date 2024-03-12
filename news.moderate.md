@@ -12,7 +12,6 @@
 | 08:00 | CNY | New Loans |  | 1,510.0B | 4,920.0B |
 | 10:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:00 | GBP | BoE MPC Member Mann |  |  |  |
-| 11:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | INR | CPI (YoY) (Feb) |  | 5.02% | 5.10% |
 | 12:00 | BRL | CPI (YoY) (Feb) |  | 4.44% | 4.51% |

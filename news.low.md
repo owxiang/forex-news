@@ -5,14 +5,14 @@
 | 00:30 | AUD | NAB Business Survey (Feb) | 10 |  | 7 |
 | 00:30 | AUD | Private House Approvals | -9.9% | -9.9% | -1.8% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) |  | 6.2% | 6.2% |
-| 07:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
 | 07:00 | EUR | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
+| 07:00 | EUR | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
 | 08:00 | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
 | 08:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
 | 08:00 | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.703% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.132% |
-| 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 90.7 | 89.9 |
+| 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 90.5 | 89.9 |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.522% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.790% |
 | 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
