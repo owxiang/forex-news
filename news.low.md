@@ -7,16 +7,16 @@
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) | 6.1% | 6.2% | 6.2% |
 | 07:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.703% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.132% |
-| 10:00 | USD | NFIB Small Business Optimism (Feb) |  | 90.5 | 89.9 |
-| 10:00 | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 10:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 10:00 | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.522% |
+| 20 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.703% |
+| 40 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.132% |
+| 40 min | USD | NFIB Small Business Optimism (Feb) |  | 90.5 | 89.9 |
+| 40 min | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 40 min | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 40 min | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 50 min | EUR | Italian 12-Month BOT Auction |  |  | 3.522% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.790% |
-| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
 | 12:00 | MXN | Industrial Production (YoY) (Jan) |  | 2.1% | 0.0% |
+| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
 | 12:00 | INR | Cumulative Industrial Production (Jan) |  |  | 6.10% |
 | 12:00 | INR | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
 | 12:00 | INR | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
