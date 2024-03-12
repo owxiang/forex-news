@@ -6,15 +6,15 @@
 | 00:30 | AUD | Moderate | NAB Business Confidence (Feb) | 0 |  | 1 |
 | 00:30 | AUD | Low | NAB Business Survey (Feb) | 10 |  | 7 |
 | 00:30 | AUD | Low | Private House Approvals | -9.9% | -9.9% | -1.8% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Jan) |  | 6.2% | 6.2% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.7% | 5.8% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 20.3K | 14.1K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | 10K | 72K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Jan) |  | 3.8% | 3.8% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.5% | 2.9% |
-| 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | 0.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
+| 40 min | GBP | Low | Average Earnings ex Bonus (Jan) |  | 6.2% | 6.2% |
+| 40 min | GBP | Moderate | Average Earnings Index +Bonus (Jan) |  | 5.7% | 5.8% |
+| 40 min | GBP | Moderate | Claimant Count Change (Feb) |  | 20.3K | 14.1K |
+| 40 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  | 10K | 72K |
+| 40 min | GBP | Moderate | Unemployment Rate (Jan) |  | 3.8% | 3.8% |
+| 40 min | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.5% | 2.9% |
+| 40 min | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | 0.2% |
+| 40 min | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
+| 40 min | EUR | Low | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
 | 08:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
 | 08:00 | CNY | Moderate | New Loans |  | 1,510.0B | 4,920.0B |
 | 08:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
