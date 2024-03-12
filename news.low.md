@@ -5,20 +5,20 @@
 | 00:30 | AUD | NAB Business Survey (Feb) | 10 |  | 7 |
 | 00:30 | AUD | Private House Approvals | -9.9% | -9.9% | -1.8% |
 | 07:00 | GBP | Average Earnings ex Bonus (Jan) | 6.1% | 6.2% | 6.2% |
-| 07:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 07:00 | EUR | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction | 3.626% |  | 3.703% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 3.927% |  | 4.132% |
 | 10:00 | USD | NFIB Small Business Optimism (Feb) | 89.4 | 90.5 | 89.9 |
 | 10:10 | EUR | Italian 12-Month BOT Auction | 3.546% |  | 3.522% |
-| 14 min | EUR | German 2-Year Schatz Auction |  |  | 2.790% |
-| 12:00 | MXN | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
-| 12:00 | MXN | Industrial Production (YoY) (Jan) |  | 2.1% | 0.0% |
-| 12:00 | INR | Cumulative Industrial Production (Jan) |  |  | 6.10% |
-| 12:00 | INR | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
-| 12:00 | INR | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
-| 12:00 | BRL | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
-| 12:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.800% |  | 2.790% |
+| 48 min | MXN | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
+| 48 min | MXN | Industrial Production (YoY) (Jan) |  | 2.1% | 0.0% |
+| 48 min | INR | Cumulative Industrial Production (Jan) |  |  | 6.10% |
+| 48 min | INR | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
+| 48 min | INR | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
+| 48 min | BRL | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
+| 48 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
 | 12:30 | USD | Core CPI Index (Feb) |  |  | 314.44 |
 | 12:30 | USD | CPI Index, n.s.a. (Feb) |  | 310.30 | 308.42 |
 | 12:30 | USD | CPI Index, s.a (Feb) |  |  | 309.69 |

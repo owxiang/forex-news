@@ -13,25 +13,25 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) | 3.9% | 3.8% | 3.8% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) | 2.5% | 2.5% | 2.9% |
 | 07:00 | EUR | High | German CPI (MoM) (Feb) | 0.4% | 0.4% | 0.2% |
-| 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Feb) | 2.7% | 2.7% | 3.1% |
+| 07:00 | EUR | Low | German HICP (MoM) (Feb) | 0.6% | 0.6% | -0.2% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.626% |  | 3.703% |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 3.927% |  | 4.132% |
 | 10:00 | USD | Low | NFIB Small Business Optimism (Feb) | 89.4 | 90.5 | 89.9 |
 | 10:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction | 3.546% |  | 3.522% |
-| 14 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.790% |
-| 44 min | GBP | Moderate | BoE MPC Member Mann |  |  |  |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
-| 12:00 | MXN | Low | Industrial Production (YoY) (Jan) |  | 2.1% | 0.0% |
-| 12:00 | INR | Moderate | CPI (YoY) (Feb) |  | 5.02% | 5.10% |
-| 12:00 | INR | Low | Cumulative Industrial Production (Jan) |  |  | 6.10% |
-| 12:00 | INR | Low | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
-| 12:00 | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
-| 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
-| 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.800% |  | 2.790% |
+| 11:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
+| 48 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 48 min | MXN | Low | Industrial Production (MoM) (Jan) |  | 0.4% | -0.7% |
+| 48 min | MXN | Low | Industrial Production (YoY) (Jan) |  | 2.1% | 0.0% |
+| 48 min | INR | Moderate | CPI (YoY) (Feb) |  | 5.02% | 5.10% |
+| 48 min | INR | Low | Cumulative Industrial Production (Jan) |  |  | 6.10% |
+| 48 min | INR | Low | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
+| 48 min | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
+| 48 min | BRL | Moderate | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
+| 48 min | BRL | Low | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
+| 48 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
 | 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 314.44 |
