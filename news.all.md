@@ -11,10 +11,10 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Feb) |  | 20.3K | 14.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Jan) |  |  | 72K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Jan) |  | 3.8% | 3.8% |
-| 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | 0.2% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Feb) |  | 2.5% | 2.9% |
-| 07:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
+| 07:00 | EUR | High | German CPI (MoM) (Feb) |  | 0.4% | 0.2% |
 | 07:00 | EUR | Low | German HICP (MoM) (Feb) |  | 0.6% | -0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Feb) |  | 2.7% | 3.1% |
 | 08:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
 | 08:00 | CNY | Moderate | New Loans |  | 1,510.0B | 4,920.0B |
 | 08:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
@@ -28,17 +28,17 @@
 | 11:00 | GBP | Moderate | BoE MPC Member Mann |  |  |  |
 | 11:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  |  | -0.7% |
 | 12:00 | MXN | Low | Industrial Production (YoY) (Jan) |  | 2.2% | 0.0% |
+| 12:00 | MXN | Low | Industrial Production (MoM) (Jan) |  |  | -0.7% |
 | 12:00 | INR | Moderate | CPI (YoY) (Feb) |  | 5.02% | 5.10% |
 | 12:00 | INR | Low | Cumulative Industrial Production (Jan) |  |  | 6.10% |
 | 12:00 | INR | Low | Industrial Production (YoY) (Jan) |  | 4.1% | 3.8% |
 | 12:00 | INR | Low | Manufacturing Output (MoM) (Jan) |  |  | 3.9% |
-| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
 | 12:00 | BRL | Low | CPI (MoM) (Feb) |  | 0.78% | 0.42% |
+| 12:00 | BRL | Moderate | CPI (YoY) (Feb) |  | 4.44% | 4.51% |
 | 12:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Feb) |  |  | 0.32% |
-| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
 | 12:30 | USD | High | Core CPI (MoM) (Feb) |  | 0.3% | 0.4% |
+| 12:30 | USD | Moderate | Core CPI (YoY) (Feb) |  | 3.7% | 3.9% |
 | 12:30 | USD | Low | Core CPI Index (Feb) |  |  | 314.44 |
 | 12:30 | USD | High | CPI (MoM) (Feb) |  | 0.4% | 0.3% |
 | 12:30 | USD | High | CPI (YoY) (Feb) |  | 3.1% | 3.1% |
