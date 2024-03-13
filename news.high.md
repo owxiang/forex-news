@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | GBP | GDP (MoM) (Jan) |  | 0.2% | -0.1% |
+| 07:00 | GBP | GDP (MoM) (Jan) | 0.2% | 0.2% | -0.1% |
 | 14:30 | USD | Crude Oil Inventories |  | 0.900M | 1.367M |
 | 17:00 | USD | 30-Year Bond Auction |  |  | 4.360% |

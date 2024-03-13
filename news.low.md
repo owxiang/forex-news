@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 40 min | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
-| 40 min | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.5% | -3.2% |
-| 40 min | GBP | GDP (YoY) (Jan) |  | -0.3% | 0.0% |
-| 40 min | GBP | Index of Services |  | 0.0% | -0.2% |
-| 40 min | GBP | Industrial Production (YoY) (Jan) |  | 0.7% | 0.6% |
-| 40 min | GBP | Manufacturing Production (YoY) (Jan) |  | 2.0% | 2.3% |
-| 40 min | EUR | German WPI (YoY) (Feb) |  |  | -2.7% |
-| 40 min | EUR | German WPI (MoM) (Feb) |  | 0.2% | 0.1% |
-| 08:00 | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 08:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 08:00 | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | 0.7% | -0.5% | -3.2% |
+| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
+| 07:00 | GBP | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
+| 07:00 | GBP | Index of Services | 0.0% | 0.0% | -0.2% |
+| 07:00 | GBP | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
+| 07:00 | EUR | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
+| 07:00 | EUR | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
+| 46 min | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 46 min | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 46 min | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.3% | 7.6% |
 | 10:00 | EUR | Industrial Production (YoY) (Jan) |  | -2.9% | 1.2% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
