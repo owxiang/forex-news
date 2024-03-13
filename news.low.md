@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | 0.7% | -0.5% | -3.2% |
+| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
 | 07:00 | GBP | Index of Services | 0.0% | 0.0% | -0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
@@ -13,14 +13,14 @@
 | 07:00 | EUR | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
 | 10:00 | EUR | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
-| 9 min | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
-| 9 min | EUR | Italian 3-Year BTP Auction |  |  | 3.15% |
-| 9 min | EUR | Italian 7-Year BTP Auction |  |  | 3.53% |
-| 44 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.02% |
-| 44 min | USD | MBA Mortgage Applications (WoW) |  |  | 9.7% |
-| 44 min | USD | MBA Purchase Index |  |  | 141.1 |
-| 44 min | USD | Mortgage Market Index |  |  | 188.2 |
-| 44 min | USD | Mortgage Refinance Index |  |  | 428.1 |
+| 10:25 | EUR | Italian 15-Year BTP Auction | 3.85% |  | 4.84% |
+| 10:25 | EUR | Italian 3-Year BTP Auction | 3.06% |  | 3.15% |
+| 10:25 | EUR | Italian 7-Year BTP Auction | 3.31% |  | 3.53% |
+| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.84% |  | 7.02% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) | 7.1% |  | 9.7% |
+| 11:00 | USD | MBA Purchase Index | 147.7 |  | 141.1 |
+| 11:00 | USD | Mortgage Market Index | 201.5 |  | 188.2 |
+| 11:00 | USD | Mortgage Refinance Index | 480.3 |  | 428.1 |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.594M |
 | 14:30 | USD | Crude Oil Imports |  |  | 0.928M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.056M |

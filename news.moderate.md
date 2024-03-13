@@ -10,6 +10,6 @@
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Jan) | -3.2% | -1.8% | 1.6% |
-| 14 min | EUR | German 10-Year Bund Auction |  |  | 2.380% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker |  | 0.0% | -0.1% |
+| 10:30 | EUR | German 10-Year Bund Auction | 2.310% |  | 2.380% |
+| 45 min | GBP | NIESR Monthly GDP Tracker |  | 0.0% | -0.1% |
 | 14:30 | USD | Cushing Crude Oil Inventories |  |  | 0.701M |

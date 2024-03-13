@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 03:00 | IDR | Low | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Jan) | 0.7% | -0.5% | -3.2% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | High | GDP (MoM) (Jan) | 0.2% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.0% | -0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | 0.0% | 0.0% | 0.8% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | -0.1% | -0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -14.52B | -14.90B | -13.99B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.42B |  | -3.32B |
@@ -20,18 +20,18 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | -3.2% | -1.8% | 1.6% |
-| 9 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.84% |
-| 9 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.15% |
-| 9 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.53% |
-| 14 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 9.7% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 141.1 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 188.2 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 428.1 |
-| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  | 0.0% | -0.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
+| 10:25 | EUR | Low | Italian 15-Year BTP Auction | 3.85% |  | 4.84% |
+| 10:25 | EUR | Low | Italian 3-Year BTP Auction | 3.06% |  | 3.15% |
+| 10:25 | EUR | Low | Italian 7-Year BTP Auction | 3.31% |  | 3.53% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.310% |  | 2.380% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.84% |  | 7.02% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | 7.1% |  | 9.7% |
+| 11:00 | USD | Low | MBA Purchase Index | 147.7 |  | 141.1 |
+| 11:00 | USD | Low | Mortgage Market Index | 201.5 |  | 188.2 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 480.3 |  | 428.1 |
+| 45 min | GBP | Moderate | NIESR Monthly GDP Tracker |  | 0.0% | -0.1% |
 | 14:30 | USD | High | Crude Oil Inventories |  | 0.900M | 1.367M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.594M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | 0.928M |
