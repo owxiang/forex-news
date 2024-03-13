@@ -10,8 +10,8 @@
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.0% | -0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | 0.0% | 0.0% | 0.8% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | -0.1% | -0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -14.52B | -14.90B | -13.99B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.42B |  | -3.32B |
@@ -50,5 +50,5 @@
 | 21:45 | NZD | Low | External Migration & Visitors (Jan) | 21.70% |  | 14.80% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) | 2,870 |  | 10,310 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) | 8.2% |  | -2.3% |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 484.6B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 283.9B |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 484.6B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 283.9B |

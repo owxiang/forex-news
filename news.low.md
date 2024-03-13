@@ -36,5 +36,5 @@
 | 21:45 | NZD | External Migration & Visitors (Jan) | 21.70% |  | 14.80% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Jan) | 2,870 |  | 10,310 |
 | 21:45 | NZD | Visitor Arrivals (MoM) | 8.2% |  | -2.3% |
-| 23:50 | JPY | Foreign Bonds Buying |  |  | 484.6B |
-| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 283.9B |
+| 35 min | JPY | Foreign Bonds Buying |  |  | 484.6B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 283.9B |
