@@ -32,20 +32,20 @@
 | 11:00 | USD | Low | Mortgage Market Index | 201.5 |  | 188.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 480.3 |  | 428.1 |
 | 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.0% | 0.0% | -0.1% |
-| 16 min | USD | High | Crude Oil Inventories |  | 0.900M | 1.367M |
-| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.594M |
-| 16 min | USD | Low | Crude Oil Imports |  |  | 0.928M |
-| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.701M |
-| 16 min | USD | Low | Distillate Fuel Production |  |  | 0.056M |
-| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.150M | -4.131M |
-| 16 min | USD | Low | Gasoline Production |  |  | 0.207M |
-| 16 min | USD | Low | Heating Oil Stockpiles |  |  | -0.812M |
-| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
-| 16 min | USD | Low | Gasoline Inventories |  | -1.900M | -4.460M |
-| 46 min | USD | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.03 |
-| 46 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 47.38 |
-| 46 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 57.50 |
-| 46 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 58.00 |
+| 14:30 | USD | High | Crude Oil Inventories | -1.536M | 0.900M | 1.367M |
+| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.390M |  | 0.594M |
+| 14:30 | USD | Low | Crude Oil Imports | -0.241M |  | 0.928M |
+| 14:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.220M |  | 0.701M |
+| 14:30 | USD | Low | Distillate Fuel Production | 0.217M |  | 0.056M |
+| 14:30 | USD | Low | EIA Weekly Distillates Stocks | 0.888M | -0.150M | -4.131M |
+| 14:30 | USD | Low | Gasoline Production | 0.285M |  | 0.207M |
+| 14:30 | USD | Low | Heating Oil Stockpiles | 0.867M |  | -0.812M |
+| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.9% |  | 3.4% |
+| 14:30 | USD | Low | Gasoline Inventories | -5.662M | -1.900M | -4.460M |
+| 15:00 | USD | Low | Thomson Reuters IPSOS PCSI (Mar) | 53.15 |  | 52.03 |
+| 15:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.89 |  | 47.38 |
+| 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.60 |  | 57.50 |
+| 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) | 56.84 |  | 58.00 |
 | 17:00 | USD | High | 30-Year Bond Auction |  |  | 4.360% |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 21:45 | NZD | Low | External Migration & Visitors (Jan) |  |  | 14.80% |
