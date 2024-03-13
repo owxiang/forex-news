@@ -2,8 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 42 min | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 42 min | IDR | Motorbike Sales (YoY) (Feb) | -2.90% |  | -3.70% |
+| 03:00 | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
 | 07:00 | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.5% | -3.2% |
 | 07:00 | GBP | GDP (YoY) (Jan) |  | -0.3% | 0.0% |
@@ -19,7 +18,6 @@
 | 10:00 | EUR | Industrial Production (YoY) (Jan) |  | -2.9% | 1.2% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.15% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.53% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.02% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 9.7% |
@@ -29,17 +27,16 @@
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.594M |
 | 14:30 | USD | Crude Oil Imports |  |  | 0.928M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.056M |
-| 14:30 | USD | EIA Weekly Distillates Stocks |  | 0.400M | -4.131M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  | -0.150M | -4.131M |
 | 14:30 | USD | Gasoline Production |  |  | 0.207M |
 | 14:30 | USD | Heating Oil Stockpiles |  |  | -0.812M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 3.4% |
-| 14:30 | USD | Gasoline Inventories |  | -2.100M | -4.460M |
+| 14:30 | USD | Gasoline Inventories |  | -1.900M | -4.460M |
 | 15:00 | USD | Thomson Reuters IPSOS PCSI (Mar) |  |  | 52.03 |
 | 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 47.38 |
 | 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 57.50 |
 | 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) |  |  | 58.00 |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -2.317B |
 | 21:45 | NZD | External Migration & Visitors (Jan) |  |  | 14.80% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Jan) |  |  | 7,260 |
 | 21:45 | NZD | Visitor Arrivals (MoM) |  |  | -2.2% |
