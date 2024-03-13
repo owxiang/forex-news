@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | 0.7% | -0.5% | -3.2% |
+| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
 | 07:00 | GBP | Index of Services | 0.0% | 0.0% | -0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
-| 07:00 | EUR | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
+| 07:00 | EUR | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
 | 10:00 | EUR | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
 | 10:25 | EUR | Italian 15-Year BTP Auction | 3.85% |  | 4.84% |
@@ -33,8 +33,8 @@
 | 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.89 |  | 47.38 |
 | 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.60 |  | 57.50 |
 | 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) | 56.84 |  | 58.00 |
-| 28 min | NZD | External Migration & Visitors (Jan) |  |  | 14.80% |
-| 28 min | NZD | Permanent/Long-Term Migration (Jan) |  |  | 7,260 |
-| 28 min | NZD | Visitor Arrivals (MoM) |  |  | -2.2% |
+| 21:45 | NZD | External Migration & Visitors (Jan) | 21.70% |  | 14.80% |
+| 21:45 | NZD | Permanent/Long-Term Migration (Jan) | 2,870 |  | 10,310 |
+| 21:45 | NZD | Visitor Arrivals (MoM) | 8.2% |  | -2.3% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 484.6B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | 283.9B |
