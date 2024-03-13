@@ -15,8 +15,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | -0.1% | -0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -14.52B | -14.90B | -13.99B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.42B |  | -3.32B |
-| 07:00 | EUR | Low | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
+| 07:00 | EUR | Low | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
