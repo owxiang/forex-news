@@ -18,17 +18,17 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 6 min | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 41 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.3% | 7.6% |
-| 41 min | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 41 min | CNY | Moderate | New Loans |  | 1,540.0B | 4,920.0B |
-| 41 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 41 min | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) |  | -1.8% | 2.6% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) |  | -2.9% | 1.2% |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.84% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.15% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.53% |
+| 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
+| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 44 min | CNY | Moderate | New Loans |  | 1,540.0B | 4,920.0B |
+| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 44 min | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 44 min | EUR | Low | Industrial Production (YoY) (Jan) |  | -2.9% | 1.2% |
+| 44 min | EUR | Moderate | Industrial Production (MoM) (Jan) |  | -1.8% | 2.6% |
+| 54 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.84% |
+| 54 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.15% |
+| 54 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.53% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 9.7% |

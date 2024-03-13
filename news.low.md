@@ -11,14 +11,14 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | EUR | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
 | 07:00 | EUR | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
-| 41 min | EUR | Italian Quarterly Unemployment Rate |  | 7.3% | 7.6% |
-| 41 min | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 41 min | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 41 min | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
-| 10:00 | EUR | Industrial Production (YoY) (Jan) |  | -2.9% | 1.2% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.15% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.53% |
+| 09:00 | EUR | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
+| 44 min | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 44 min | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 44 min | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 44 min | EUR | Industrial Production (YoY) (Jan) |  | -2.9% | 1.2% |
+| 54 min | EUR | Italian 15-Year BTP Auction |  |  | 4.84% |
+| 54 min | EUR | Italian 3-Year BTP Auction |  |  | 3.15% |
+| 54 min | EUR | Italian 7-Year BTP Auction |  |  | 3.53% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.02% |
 | 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | 9.7% |
 | 11:00 | USD | MBA Purchase Index |  |  | 141.1 |
