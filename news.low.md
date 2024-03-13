@@ -3,6 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:00 | IDR | Consumer Confidence (Feb) |  |  | 125.0 |
+| 04:00 | IDR | Motorbike Sales (YoY) (Feb) | -2.90% |  | -3.70% |
 | 07:00 | GBP | Construction Output (MoM) (Jan) |  | 0.0% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) |  | -0.5% | -3.2% |
 | 07:00 | GBP | GDP (YoY) (Jan) |  | -0.3% | 0.0% |
