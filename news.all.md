@@ -8,15 +8,15 @@
 | 07:00 | GBP | High | GDP (MoM) (Jan) | 0.2% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.0% | -0.2% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | 0.0% | 0.0% | 0.8% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | -0.1% | -0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -14.52B | -14.90B | -13.99B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.42B |  | -3.32B |
-| 07:00 | EUR | Low | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
 | 07:00 | EUR | Low | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
+| 07:00 | EUR | Low | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
@@ -31,7 +31,7 @@
 | 11:00 | USD | Low | MBA Purchase Index | 147.7 |  | 141.1 |
 | 11:00 | USD | Low | Mortgage Market Index | 201.5 |  | 188.2 |
 | 11:00 | USD | Low | Mortgage Refinance Index | 480.3 |  | 428.1 |
-| 45 min | GBP | Moderate | NIESR Monthly GDP Tracker |  | 0.0% | -0.1% |
+| 12:00 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.0% | 0.0% | -0.1% |
 | 14:30 | USD | High | Crude Oil Inventories |  | 0.900M | 1.367M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.594M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | 0.928M |
