@@ -8,10 +8,10 @@
 | 07:00 | GBP | High | GDP (MoM) (Jan) | 0.2% | 0.2% | -0.1% |
 | 07:00 | GBP | Low | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
 | 07:00 | GBP | Low | Index of Services | 0.0% | 0.0% | -0.2% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Jan) | 0.0% | 0.0% | 0.8% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Jan) | -0.1% | -0.1% | -0.3% |
 | 07:00 | GBP | Moderate | Trade Balance (Jan) | -14.52B | -14.90B | -13.99B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Jan) | -3.42B |  | -3.32B |
@@ -20,8 +20,8 @@
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Jan) | -3.2% | -1.8% | 1.6% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
 | 10:25 | EUR | Low | Italian 15-Year BTP Auction | 3.85% |  | 4.84% |
 | 10:25 | EUR | Low | Italian 3-Year BTP Auction | 3.06% |  | 3.15% |
 | 10:25 | EUR | Low | Italian 7-Year BTP Auction | 3.31% |  | 3.53% |
@@ -47,7 +47,6 @@
 | 15:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.60 |  | 57.50 |
 | 15:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Mar) | 56.84 |  | 58.00 |
 | 17:00 | USD | High | 30-Year Bond Auction | 4.331% |  | 4.360% |
-| 15 min | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 21:45 | NZD | Low | External Migration & Visitors (Jan) |  |  | 14.80% |
 | 21:45 | NZD | Low | Permanent/Long-Term Migration (Jan) |  |  | 7,260 |
 | 21:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -2.2% |

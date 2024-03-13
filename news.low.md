@@ -33,7 +33,6 @@
 | 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.89 |  | 47.38 |
 | 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.60 |  | 57.50 |
 | 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) | 56.84 |  | 58.00 |
-| 15 min | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 21:45 | NZD | External Migration & Visitors (Jan) |  |  | 14.80% |
 | 21:45 | NZD | Permanent/Long-Term Migration (Jan) |  |  | 7,260 |
 | 21:45 | NZD | Visitor Arrivals (MoM) |  |  | -2.2% |
