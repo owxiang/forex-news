@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | 0.7% | -0.5% | -3.2% |
+| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
 | 07:00 | GBP | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
 | 07:00 | GBP | Index of Services | 0.0% | 0.0% | -0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
