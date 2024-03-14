@@ -1,40 +1,46 @@
-## 13 March 2024 - Low Impact Forex News
+## 14 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | IDR | Consumer Confidence (Feb) | 123.1 |  | 125.0 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Jan) | 0.7% | -0.5% | -3.2% |
-| 07:00 | GBP | Construction Output (MoM) (Jan) | 1.1% | 0.0% | -0.5% |
-| 07:00 | GBP | GDP (YoY) (Jan) | -0.3% | -0.3% | 0.0% |
-| 07:00 | GBP | Index of Services | 0.0% | 0.0% | -0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Jan) | 0.5% | 0.7% | 0.6% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Jan) | 2.0% | 2.0% | 2.3% |
-| 07:00 | EUR | German WPI (YoY) (Feb) | -3.0% |  | -2.7% |
-| 07:00 | EUR | German WPI (MoM) (Feb) | -0.1% | 0.2% | 0.1% |
-| 09:00 | EUR | Italian Quarterly Unemployment Rate | 7.4% | 7.3% | 7.6% |
-| 10:00 | EUR | Industrial Production (YoY) (Jan) | -6.7% | -2.9% | 0.2% |
-| 10:25 | EUR | Italian 15-Year BTP Auction | 3.85% |  | 4.84% |
-| 10:25 | EUR | Italian 3-Year BTP Auction | 3.06% |  | 3.15% |
-| 10:25 | EUR | Italian 7-Year BTP Auction | 3.31% |  | 3.53% |
-| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.84% |  | 7.02% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) | 7.1% |  | 9.7% |
-| 11:00 | USD | MBA Purchase Index | 147.7 |  | 141.1 |
-| 11:00 | USD | Mortgage Market Index | 201.5 |  | 188.2 |
-| 11:00 | USD | Mortgage Refinance Index | 480.3 |  | 428.1 |
-| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.390M |  | 0.594M |
-| 14:30 | USD | Crude Oil Imports | -0.241M |  | 0.928M |
-| 14:30 | USD | Distillate Fuel Production | 0.217M |  | 0.056M |
-| 14:30 | USD | EIA Weekly Distillates Stocks | 0.888M | -0.150M | -4.131M |
-| 14:30 | USD | Gasoline Production | 0.285M |  | 0.207M |
-| 14:30 | USD | Heating Oil Stockpiles | 0.867M |  | -0.812M |
-| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.9% |  | 3.4% |
-| 14:30 | USD | Gasoline Inventories | -5.662M | -1.900M | -4.460M |
-| 15:00 | USD | Thomson Reuters IPSOS PCSI (Mar) | 53.15 |  | 52.03 |
-| 15:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.89 |  | 47.38 |
-| 15:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 58.60 |  | 57.50 |
-| 15:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Mar) | 56.84 |  | 58.00 |
-| 21:45 | NZD | External Migration & Visitors (Jan) | 21.70% |  | 14.80% |
-| 21:45 | NZD | Permanent/Long-Term Migration (Jan) | 2,870 |  | 10,310 |
-| 21:45 | NZD | Visitor Arrivals (MoM) | 8.2% |  | -2.3% |
-| 35 min | JPY | Foreign Bonds Buying |  |  | 484.6B |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | 283.9B |
+| 04:00 | IDR | Retail Sales (YoY) (Jan) |  |  | 0.2% |
+| 06:30 | INR | WPI Food (YoY) (Feb) |  |  | 6.85% |
+| 06:30 | INR | WPI Fuel (YoY) (Feb) |  |  | -0.51% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | -1.13% |
+| 07:30 | CHF | PPI (YoY) (Feb) |  |  | -2.3% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 3.6% |
+| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
+| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
+| 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | 4.40% |
+| 08:30 | HKD | PPI (YoY) (Q4) |  |  | 3.00% |
+| 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |
+| 09:30 | ZAR | Gold Production (YoY) (Jan) |  |  | -3.4% |
+| 09:30 | ZAR | Mining Production (Jan) |  | 0.2% | 0.6% |
+| 10:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 51.5 |
+| 10:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 44.33 |
+| 10:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 46.86 |
+| 10:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 43.57 |
+| 10:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 44.15 |
+| 10:00 | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
+| 10:00 | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
+| 10:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.92 |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
+| 12:30 | USD | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 212.25K |
+| 12:30 | USD | PPI (YoY) (Feb) |  | 1.1% | 0.9% |
+| 12:30 | USD | Retail Sales (YoY) (Feb) |  |  | 0.65% |
+| 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
+| 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | 0.3% | -0.7% |
+| 13:45 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
+| 14:30 | USD | Natural Gas Storage |  |  | -40B |
+| 15:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 15:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
+| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.514B |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
+| 21:00 | KRW | Export Price Index (YoY) (Feb) |  |  | 3.7% |
+| 21:00 | KRW | Import Price Index (YoY) (Feb) |  |  | 0.2% |

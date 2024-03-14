@@ -1,15 +1,24 @@
-## 13 March 2024 - Moderate Impact Forex News
+## 14 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Industrial Production (MoM) (Jan) | -0.2% | 0.0% | 0.6% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Jan) | 0.0% | 0.0% | 0.8% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Jan) | -0.1% | -0.1% | -0.3% |
-| 07:00 | GBP | Trade Balance (Jan) | -14.52B | -14.90B | -13.99B |
-| 07:00 | GBP | Trade Balance Non-EU (Jan) | -3.42B |  | -3.32B |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Jan) | -3.2% | -1.8% | 1.6% |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.310% |  | 2.380% |
-| 12:00 | GBP | NIESR Monthly GDP Tracker | 0.0% | 0.0% | -0.1% |
-| 14:30 | USD | Cushing Crude Oil Inventories | -0.220M |  | 0.701M |
+| 00:01 | GBP | RICS House Price Balance (Feb) | -10% | -10% | -18% |
+| 06:30 | INR | WPI Inflation (YoY) (Feb) |  | 0.25% | 0.27% |
+| 07:30 | CHF | PPI (MoM) (Feb) |  | 0.2% | -0.5% |
+| 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
+| 08:00 | EUR | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 10:00 | CNY | New Loans |  | 1,540.0B | 4,920.0B |
+| 11:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 12:00 | BRL | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
+| 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
+| 12:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,906K |
+| 12:30 | USD | Core PPI (MoM) (Feb) |  | 0.2% | 0.5% |
+| 12:30 | USD | Retail Control (MoM) (Feb) |  |  | -0.4% |
+| 14:00 | USD | Business Inventories (MoM) (Jan) |  | 0.2% | 0.4% |
+| 14:00 | USD | Retail Inventories Ex Auto (Jan) |  | 0.3% | 0.4% |
+| 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 20:30 | USD | Fed's Balance Sheet |  |  | 7,539B |
+| 21:30 | NZD | Business NZ PMI (Feb) |  |  | 47.3 |
