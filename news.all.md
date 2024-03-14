@@ -46,8 +46,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
 | 12:30 | USD | High | PPI (MoM) (Feb) | 0.6% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) | 0.0% |  | -0.3% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
+| 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) | 0.0% | 0.2% | 0.3% |
