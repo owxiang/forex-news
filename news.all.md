@@ -9,18 +9,18 @@
 | 06:30 | INR | Low | WPI Fuel (YoY) (Feb) | -1.59% |  | -0.51% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) | 0.20% | 0.25% | 0.27% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) | -1.27% |  | -1.13% |
-| 13 min | CHF | Moderate | PPI (MoM) (Feb) |  | 0.2% | -0.5% |
-| 13 min | CHF | Low | PPI (YoY) (Feb) |  |  | -2.3% |
-| 43 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 43 min | EUR | Low | Core CPI (YoY) (Feb) |  |  | 3.6% |
-| 43 min | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
-| 43 min | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
-| 43 min | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
-| 43 min | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
-| 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 4.40% |
-| 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 3.00% |
-| 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | NOK | Low | Norges Bank regional network Survey |  |  | -0.30 |
+| 07:30 | CHF | Low | PPI (YoY) (Feb) | -2.0% |  | -2.3% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Feb) | 0.1% | 0.2% | -0.5% |
+| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 3.5% |  | 3.6% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.1% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
+| 11 min | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 4.40% |
+| 11 min | HKD | Low | PPI (YoY) (Q4) |  |  | 3.00% |
+| 41 min | USD | Moderate | IEA Monthly Report |  |  |  |
+| 41 min | NOK | Low | Norges Bank regional network Survey |  |  | -0.30 |
 | 09:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 09:30 | ZAR | Low | Gold Production (YoY) (Jan) |  |  | -3.4% |
 | 09:30 | ZAR | Low | Mining Production (Jan) |  | 0.2% | 0.6% |
@@ -37,21 +37,21 @@
 | 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,906K |
-| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
 | 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.2% | 0.5% |
+| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
 | 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.5% | -0.6% |
 | 12:30 | USD | High | Initial Jobless Claims |  | 218K | 217K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
 | 12:30 | USD | Low | PPI (YoY) (Feb) |  | 1.1% | 0.9% |
 | 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.4% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
+| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | 0.3% | -0.7% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
