@@ -2,7 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | IDR | Retail Sales (YoY) (Jan) |  |  | 0.2% |
+| 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
+| 43 min | IDR | Retail Sales (YoY) (Jan) |  |  | 0.2% |
 | 06:30 | INR | WPI Food (YoY) (Feb) |  |  | 6.85% |
 | 06:30 | INR | WPI Fuel (YoY) (Feb) |  |  | -0.51% |
 | 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | -1.13% |

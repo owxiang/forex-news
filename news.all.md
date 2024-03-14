@@ -3,19 +3,20 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Feb) | -10% | -10% | -18% |
-| 04:00 | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 0.2% |
+| 02:30 | SGD | Low | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
+| 43 min | IDR | Low | Retail Sales (YoY) (Jan) |  |  | 0.2% |
 | 06:30 | INR | Low | WPI Food (YoY) (Feb) |  |  | 6.85% |
 | 06:30 | INR | Low | WPI Fuel (YoY) (Feb) |  |  | -0.51% |
 | 06:30 | INR | Moderate | WPI Inflation (YoY) (Feb) |  | 0.25% | 0.27% |
 | 06:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Feb) |  |  | -1.13% |
-| 07:30 | CHF | Low | PPI (YoY) (Feb) |  |  | -2.3% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Feb) |  | 0.2% | -0.5% |
+| 07:30 | CHF | Low | PPI (YoY) (Feb) |  |  | -2.3% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 3.6% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 4.40% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 3.00% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -49,8 +50,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) |  | 1.1% | 0.9% |
 | 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.4% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
+| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | 0.3% | -0.7% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
