@@ -46,8 +46,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
 | 12:30 | USD | High | PPI (MoM) (Feb) | 0.6% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) | 0.0% |  | -0.3% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
+| 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) | 0.0% | 0.2% | 0.3% |
@@ -58,8 +58,8 @@
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | 2.747B |  | -0.514B |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,539B |
-| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
-| 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 3.7% |
-| 21:00 | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 0.2% |
+| 13 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,539B |
+| 13 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
+| 43 min | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 3.7% |
+| 43 min | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 0.2% |
 | 21:30 | NZD | Moderate | Business NZ PMI (Feb) |  |  | 47.3 |

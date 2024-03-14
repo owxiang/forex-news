@@ -37,6 +37,6 @@
 | 15:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
 | 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.280% |
 | 17:30 | BRL | Foreign Exchange Flows | 2.747B |  | -0.514B |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
-| 21:00 | KRW | Export Price Index (YoY) (Feb) |  |  | 3.7% |
-| 21:00 | KRW | Import Price Index (YoY) (Feb) |  |  | 0.2% |
+| 13 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
+| 43 min | KRW | Export Price Index (YoY) (Feb) |  |  | 3.7% |
+| 43 min | KRW | Import Price Index (YoY) (Feb) |  |  | 0.2% |
