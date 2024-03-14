@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 03:15 | IDR | Retail Sales (YoY) (Jan) | 1.1% |  | 0.2% |
-| 06:30 | INR | WPI Food (YoY) (Feb) |  |  | 6.85% |
-| 06:30 | INR | WPI Fuel (YoY) (Feb) |  |  | -0.51% |
-| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | -1.13% |
+| 10 min | INR | WPI Food (YoY) (Feb) |  |  | 6.85% |
+| 10 min | INR | WPI Fuel (YoY) (Feb) |  |  | -0.51% |
+| 10 min | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | -1.13% |
 | 07:30 | CHF | PPI (YoY) (Feb) |  |  | -2.3% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 3.6% |
