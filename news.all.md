@@ -15,28 +15,23 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 3.5% |  | 3.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 4.10% |  | 4.30% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) | 2.70% |  | 3.00% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 15 min | NOK | Low | Norges Bank regional network Survey |  |  | -0.30 |
-| 15 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 15 min | ZAR | Low | Gold Production (YoY) (Jan) |  |  | -3.4% |
-| 15 min | ZAR | Low | Mining Production (Jan) |  | 0.2% | 0.6% |
-| 45 min | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) |  |  | 51.5 |
-| 45 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 44.33 |
-| 45 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 46.86 |
-| 45 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 43.57 |
-| 45 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 44.15 |
-| 45 min | CNY | Low | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 45 min | CNY | Moderate | New Loans |  | 1,540.0B | 4,920.0B |
-| 45 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 45 min | CNY | Low | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
-| 45 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.92 |
-| 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
-| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
+| 09:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 09:30 | ZAR | Low | Gold Production (YoY) (Jan) | -12.7% |  | -3.6% |
+| 09:30 | ZAR | Low | Mining Production (Jan) | -3.3% | 0.2% | 0.2% |
+| 10:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Mar) | 47.1 |  | 51.5 |
+| 10:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Mar) | 46.94 |  | 44.33 |
+| 10:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Mar) | 47.55 |  | 46.86 |
+| 10:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) | 41.72 |  | 43.57 |
+| 10:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.15 |  | 44.15 |
+| 10:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 43.61 |  | 45.92 |
+| 43 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 43 min | ZAR | Low | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
+| 43 min | ZAR | Low | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
@@ -50,8 +45,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) |  | 1.1% | 0.9% |
 | 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.4% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
+| 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | 0.3% | -0.7% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |

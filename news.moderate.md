@@ -8,9 +8,8 @@
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 15 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 45 min | CNY | New Loans |  | 1,540.0B | 4,920.0B |
-| 11:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 43 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 12:00 | BRL | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
 | 12:00 | BRL | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
 | 12:30 | USD | Continuing Jobless Claims |  | 1,900K | 1,906K |

@@ -14,20 +14,16 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
 | 08:30 | HKD | Industrial Production (YoY) (Q4) | 4.10% |  | 4.30% |
 | 08:30 | HKD | PPI (YoY) (Q4) | 2.70% |  | 3.00% |
-| 15 min | NOK | Norges Bank regional network Survey |  |  | -0.30 |
-| 15 min | ZAR | Gold Production (YoY) (Jan) |  |  | -3.4% |
-| 15 min | ZAR | Mining Production (Jan) |  | 0.2% | 0.6% |
-| 45 min | GBP | Thomson Reuters IPSOS PCSI (Mar) |  |  | 51.5 |
-| 45 min | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) |  |  | 44.33 |
-| 45 min | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) |  |  | 46.86 |
-| 45 min | EUR | France Thomson Reuters IPSOS PCSI (Mar) |  |  | 43.57 |
-| 45 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 44.15 |
-| 45 min | CNY | M2 Money Stock (YoY) |  | 8.8% | 8.7% |
-| 45 min | CNY | Outstanding Loan Growth (YoY) |  | 10.2% | 10.4% |
-| 45 min | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
-| 45 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 45.92 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
+| 09:30 | ZAR | Gold Production (YoY) (Jan) | -12.7% |  | -3.6% |
+| 09:30 | ZAR | Mining Production (Jan) | -3.3% | 0.2% | 0.2% |
+| 10:00 | GBP | Thomson Reuters IPSOS PCSI (Mar) | 47.1 |  | 51.5 |
+| 10:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Mar) | 46.94 |  | 44.33 |
+| 10:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Mar) | 47.55 |  | 46.86 |
+| 10:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) | 41.72 |  | 43.57 |
+| 10:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.15 |  | 44.15 |
+| 10:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 43.61 |  | 45.92 |
+| 43 min | ZAR | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
+| 43 min | ZAR | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
