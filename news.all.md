@@ -42,8 +42,8 @@
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,906K |
-| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
 | 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.2% | 0.5% |
+| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
 | 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.5% | -0.6% |
 | 12:30 | USD | High | Initial Jobless Claims |  | 218K | 217K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
@@ -57,7 +57,7 @@
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) |  | 0.2% | 0.4% |
 | 14:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) |  | 0.3% | 0.4% |
-| 14:30 | USD | Low | Natural Gas Storage |  |  | -40B |
+| 14:30 | USD | Low | Natural Gas Storage |  | -3B | -40B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
 | 15:30 | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |

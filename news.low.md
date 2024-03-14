@@ -37,7 +37,7 @@
 | 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) |  | 0.3% | -0.7% |
 | 13:45 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
-| 14:30 | USD | Natural Gas Storage |  |  | -40B |
+| 14:30 | USD | Natural Gas Storage |  | -3B | -40B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
