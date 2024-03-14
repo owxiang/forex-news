@@ -22,17 +22,17 @@
 | 10:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) | 41.72 |  | 43.57 |
 | 10:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.15 |  | 44.15 |
 | 10:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 43.61 |  | 45.92 |
-| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | 2.6% | 0.7% | 1.3% |
 | 11:00 | ZAR | Manufacturing Production (MoM) (Jan) | 0.8% | 0.5% | -1.3% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | 2.6% | 0.7% | 1.3% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.4% |  | 0.6% |
-| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 2.8% |  | 2.6% |
+| 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 2.8% |  | 2.7% |
 | 12:30 | USD | Core PPI (YoY) (Feb) | 2.0% | 1.9% | 2.0% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 208.00K |  | 208.50K |
 | 12:30 | USD | PPI (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
-| 12:30 | USD | Retail Sales (YoY) (Feb) |  |  | 0.65% |
+| 12:30 | USD | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
 | 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
-| 13:45 | EUR | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
+| 28 min | EUR | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
 | 14:30 | USD | Natural Gas Storage |  | -3B | -40B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
