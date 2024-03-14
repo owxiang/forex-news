@@ -22,8 +22,8 @@
 | 10:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) | 41.72 |  | 43.57 |
 | 10:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.15 |  | 44.15 |
 | 10:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 43.61 |  | 45.92 |
-| 43 min | ZAR | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
-| 43 min | ZAR | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
+| 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | 2.6% | 0.7% | 1.3% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) | 0.8% | 0.5% | -1.3% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |

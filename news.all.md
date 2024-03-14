@@ -29,11 +29,11 @@
 | 10:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Mar) | 41.72 |  | 43.57 |
 | 10:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.15 |  | 44.15 |
 | 10:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 43.61 |  | 45.92 |
-| 43 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 43 min | ZAR | Low | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
-| 43 min | ZAR | Low | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
+| 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | 2.6% | 0.7% | 1.3% |
+| 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) | 0.8% | 0.5% | -1.3% |
+| 47 min | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
+| 47 min | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,906K |
@@ -45,8 +45,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) |  | 1.1% | 0.9% |
 | 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.4% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
+| 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) |  |  | -0.5% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) |  | 0.3% | -0.7% |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a (Jan) |  |  | 31.4B |
