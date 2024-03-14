@@ -33,9 +33,9 @@
 | 12:30 | USD | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
 | 12:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
-| 16 min | USD | Natural Gas Storage |  | -3B | -40B |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
+| 14:30 | USD | Natural Gas Storage | -9B | -3B | -40B |
+| 14 min | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | 8-Week Bill Auction |  |  | 5.280% |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 17:30 | BRL | Foreign Exchange Flows |  |  | -0.514B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |

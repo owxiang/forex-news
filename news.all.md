@@ -15,8 +15,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 3.5% |  | 3.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 4.10% |  | 4.30% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) | 2.70% |  | 3.00% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -33,8 +33,8 @@
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) | 2.6% | 0.7% | 1.3% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) | 0.8% | 0.5% | -1.3% |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (Jan) | 29.7B |  | 31.6B |
-| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) | 4.1% | 1.3% | 1.2% |
 | 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) | 2.5% | 0.2% | -1.4% |
+| 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) | 4.1% | 1.3% | 1.2% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.4% |  | 0.6% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) | 2.8% |  | 2.7% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,811K | 1,900K | 1,794K |
@@ -46,15 +46,15 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
 | 12:30 | USD | High | PPI (MoM) (Feb) | 0.6% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) | 0.0% |  | -0.3% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
+| 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) | 0.0% | 0.2% | 0.3% |
 | 14:00 | USD | Moderate | Retail Inventories Ex Auto (Jan) | 0.3% | 0.3% | 0.4% |
-| 16 min | USD | Low | Natural Gas Storage |  | -3B | -40B |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
+| 14:30 | USD | Low | Natural Gas Storage | -9B | -3B | -40B |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.280% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 17:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.514B |
