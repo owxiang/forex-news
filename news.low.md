@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | SGD | Unemployment Rate (Q4) | 2.0% |  | 2.0% |
 | 03:15 | IDR | Retail Sales (YoY) (Jan) | 1.1% |  | 0.2% |
-| 10 min | INR | WPI Food (YoY) (Feb) |  |  | 6.85% |
-| 10 min | INR | WPI Fuel (YoY) (Feb) |  |  | -0.51% |
-| 10 min | INR | WPI Manufacturing Inflation (YoY) (Feb) |  |  | -1.13% |
-| 07:30 | CHF | PPI (YoY) (Feb) |  |  | -2.3% |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 08:00 | EUR | Core CPI (YoY) (Feb) |  |  | 3.6% |
-| 08:00 | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
-| 08:00 | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
+| 06:30 | INR | WPI Food (YoY) (Feb) | 6.95% |  | 6.85% |
+| 06:30 | INR | WPI Fuel (YoY) (Feb) | -1.59% |  | -0.51% |
+| 06:30 | INR | WPI Manufacturing Inflation (YoY) (Feb) | -1.27% |  | -1.13% |
+| 13 min | CHF | PPI (YoY) (Feb) |  |  | -2.3% |
+| 43 min | CHF | SECO Economic Forecasts |  |  |  |
+| 43 min | EUR | Core CPI (YoY) (Feb) |  |  | 3.6% |
+| 43 min | EUR | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
+| 43 min | EUR | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
 | 08:30 | HKD | Industrial Production (YoY) (Q4) |  |  | 4.40% |
 | 08:30 | HKD | PPI (YoY) (Q4) |  |  | 3.00% |
 | 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |
