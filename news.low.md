@@ -22,8 +22,8 @@
 | 10:00 | EUR | France Thomson Reuters IPSOS PCSI (Mar) | 41.72 |  | 43.57 |
 | 10:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 47.15 |  | 44.15 |
 | 10:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 43.61 |  | 45.92 |
-| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) | 0.8% | 0.5% | -1.3% |
 | 11:00 | ZAR | Manufacturing Production (YoY) (Jan) | 2.6% | 0.7% | 1.3% |
+| 11:00 | ZAR | Manufacturing Production (MoM) (Jan) | 0.8% | 0.5% | -1.3% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Jan) | 29.7B |  | 31.6B |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Feb) | 0.4% |  | 0.6% |
 | 12:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Feb) | 2.8% |  | 2.7% |
@@ -35,9 +35,8 @@
 | 12:30 | CAD | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
 | 14:30 | USD | Natural Gas Storage | -9B | -3B | -40B |
 | 15:30 | USD | 4-Week Bill Auction | 5.280% |  | 5.280% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 5.280% |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
-| 17:30 | BRL | Foreign Exchange Flows |  |  | -0.514B |
+| 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.280% |
+| 16 min | BRL | Foreign Exchange Flows |  |  | -0.514B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
 | 21:00 | KRW | Export Price Index (YoY) (Feb) |  |  | 3.7% |
 | 21:00 | KRW | Import Price Index (YoY) (Feb) |  |  | 0.2% |
