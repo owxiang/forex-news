@@ -13,10 +13,10 @@
 | 07:30 | CHF | Moderate | PPI (MoM) (Feb) | 0.1% | 0.2% | -0.5% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 3.5% |  | 3.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 4.10% |  | 4.30% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) | 2.70% |  | 3.00% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -46,8 +46,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
 | 12:30 | USD | High | PPI (MoM) (Feb) | 0.6% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) | 0.0% |  | -0.3% |
-| 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
+| 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) | 0.0% | 0.2% | 0.3% |
@@ -56,8 +56,8 @@
 | 15:30 | USD | Low | 4-Week Bill Auction | 5.280% |  | 5.280% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.280% |
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 16 min | BRL | Low | Foreign Exchange Flows |  |  | -0.514B |
-| 46 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 17:30 | BRL | Low | Foreign Exchange Flows | 2.747B |  | -0.514B |
+| 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,539B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
 | 21:00 | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 3.7% |

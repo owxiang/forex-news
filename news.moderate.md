@@ -18,6 +18,6 @@
 | 14:00 | USD | Business Inventories (MoM) (Jan) | 0.0% | 0.2% | 0.3% |
 | 14:00 | USD | Retail Inventories Ex Auto (Jan) | 0.3% | 0.3% | 0.4% |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 46 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,539B |
 | 21:30 | NZD | Business NZ PMI (Feb) |  |  | 47.3 |
