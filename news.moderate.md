@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Feb) | -10% | -10% | -18% |
+| 00:01 | GBP | RICS House Price Balance (Feb) | -10% | -10% | -19% |
 | 06:30 | INR | WPI Inflation (YoY) (Feb) |  | 0.25% | 0.27% |
 | 07:30 | CHF | PPI (MoM) (Feb) |  | 0.2% | -0.5% |
 | 08:00 | EUR | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
