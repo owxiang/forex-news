@@ -12,10 +12,10 @@
 | 07:30 | CHF | Moderate | PPI (MoM) (Feb) |  | 0.2% | -0.5% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) |  |  | 3.6% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) |  | 2.8% | 3.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) |  | 0.3% | 0.1% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) |  | 2.9% | 3.5% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) |  | 0.4% | -0.2% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) |  |  | 4.40% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) |  |  | 3.00% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -36,18 +36,18 @@
 | 11:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 11:00 | ZAR | Low | Manufacturing Production (YoY) (Jan) |  | 0.7% | 0.7% |
 | 11:00 | ZAR | Low | Manufacturing Production (MoM) (Jan) |  | 0.5% | -1.7% |
-| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
 | 12:00 | BRL | Moderate | Retail Sales (YoY) (Jan) |  | 1.3% | 1.3% |
+| 12:00 | BRL | Moderate | Retail Sales (MoM) (Jan) |  | 0.2% | -1.3% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Feb) |  |  | 0.6% |
 | 12:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Feb) |  |  | 2.6% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  | 1,900K | 1,906K |
-| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
 | 12:30 | USD | Moderate | Core PPI (MoM) (Feb) |  | 0.2% | 0.5% |
+| 12:30 | USD | Low | Core PPI (YoY) (Feb) |  | 1.9% | 2.0% |
 | 12:30 | USD | High | Core Retail Sales (MoM) (Feb) |  | 0.5% | -0.6% |
 | 12:30 | USD | High | Initial Jobless Claims |  | 218K | 217K |
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 212.25K |
-| 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Low | PPI (YoY) (Feb) |  | 1.1% | 0.9% |
+| 12:30 | USD | High | PPI (MoM) (Feb) |  | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) |  |  | -0.4% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) |  |  | 0.65% |
 | 12:30 | USD | High | Retail Sales (MoM) (Feb) |  | 0.8% | -0.8% |
