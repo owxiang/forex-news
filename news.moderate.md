@@ -19,5 +19,5 @@
 | 14:00 | USD | Retail Inventories Ex Auto (Jan) | 0.3% | 0.3% | 0.4% |
 | 17:00 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13 min | USD | Fed's Balance Sheet |  |  | 7,539B |
-| 21:30 | NZD | Business NZ PMI (Feb) |  |  | 47.3 |
+| 20:30 | USD | Fed's Balance Sheet | 7,542B |  | 7,539B |
+| 16 min | NZD | Business NZ PMI (Feb) |  |  | 47.3 |

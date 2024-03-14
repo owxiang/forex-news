@@ -15,8 +15,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Feb) | 3.5% |  | 3.6% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Feb) | 2.8% | 2.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Feb) | 0.4% | 0.3% | 0.1% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Feb) | 0.4% | 0.4% | -0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Feb) | 2.9% | 2.9% | 3.5% |
 | 08:30 | HKD | Low | Industrial Production (YoY) (Q4) | 4.10% |  | 4.30% |
 | 08:30 | HKD | Low | PPI (YoY) (Q4) | 2.70% |  | 3.00% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
@@ -46,8 +46,8 @@
 | 12:30 | USD | Low | PPI (YoY) (Feb) | 1.6% | 1.1% | 1.0% |
 | 12:30 | USD | High | PPI (MoM) (Feb) | 0.6% | 0.3% | 0.3% |
 | 12:30 | USD | Moderate | Retail Control (MoM) (Feb) | 0.0% |  | -0.3% |
-| 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
 | 12:30 | USD | Low | Retail Sales (YoY) (Feb) | 1.50% |  | 0.04% |
+| 12:30 | USD | High | Retail Sales (MoM) (Feb) | 0.6% | 0.8% | -1.1% |
 | 12:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Feb) | 0.3% |  | -0.8% |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) (Jan) | 0.2% | 0.3% | -1.1% |
 | 14:00 | USD | Moderate | Business Inventories (MoM) (Jan) | 0.0% | 0.2% | 0.3% |
@@ -58,8 +58,8 @@
 | 17:00 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 17:30 | BRL | Low | Foreign Exchange Flows | 2.747B |  | -0.514B |
 | 18:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 13 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,539B |
-| 13 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.621T |
-| 43 min | KRW | Low | Export Price Index (YoY) (Feb) |  |  | 3.7% |
-| 43 min | KRW | Low | Import Price Index (YoY) (Feb) |  |  | 0.2% |
-| 21:30 | NZD | Moderate | Business NZ PMI (Feb) |  |  | 47.3 |
+| 20:30 | USD | Moderate | Fed's Balance Sheet | 7,542B |  | 7,539B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.573T |  | 3.621T |
+| 21:00 | KRW | Low | Export Price Index (YoY) (Feb) | 4.2% |  | 3.6% |
+| 21:00 | KRW | Low | Import Price Index (YoY) (Feb) | -0.2% |  | 0.5% |
+| 16 min | NZD | Moderate | Business NZ PMI (Feb) |  |  | 47.3 |
