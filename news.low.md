@@ -28,8 +28,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:30 | GBP | Inflation Expectations | 3.0% |  | 3.3% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
@@ -38,14 +38,14 @@
 | 11:00 | EUR | Italian Trade Balance (Jan) | 2.655B | 6.220B | 5.527B |
 | 11:00 | EUR | Italian Trade Balance EU (Jan) | -0.38B |  | -2.84B |
 | 11:00 | EUR | Reserve Assets Total (Feb) | 1,156.11B |  | 1,158.07B |
-| 18 min | INR | FX Reserves, USD |  |  | 625.63B |
-| 48 min | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | -2.0% |
-| 48 min | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | 0.3% |
-| 12:30 | USD | Export Price Index (YoY) |  | -7.0% | -2.4% |
-| 12:30 | USD | Import Price Index (YoY) |  |  | -1.3% |
-| 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) |  |  | 29.40B |
-| 13:15 | USD | Capacity Utilization Rate (Feb) |  | 78.5% | 78.5% |
-| 13:15 | USD | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.5% |
+| 11:30 | INR | FX Reserves, USD | 636.10B |  | 625.63B |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 4.5% |  | -1.9% |
+| 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | 0.7% |  | 0.7% |
+| 2 min | USD | Export Price Index (YoY) |  | -7.0% | -2.4% |
+| 2 min | USD | Import Price Index (YoY) |  |  | -1.3% |
+| 2 min | CAD | Foreign Securities Purchases by Canadians (Jan) |  |  | 29.40B |
+| 47 min | USD | Capacity Utilization Rate (Feb) |  | 78.5% | 78.5% |
+| 47 min | USD | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.5% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 79.2 | 79.4 |
 | 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |

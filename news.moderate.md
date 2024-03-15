@@ -6,14 +6,14 @@
 | 07:45 | EUR | French HICP (MoM) (Feb) | 0.9% | 0.9% | -0.2% |
 | 08:35 | CNY | New Loans (Feb) | 1,450.0B | 1,540.0B | 4,920.0B |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:15 | CAD | Housing Starts (Feb) |  | 227.0K | 223.6K |
-| 12:30 | USD | Export Price Index (MoM) (Feb) |  | 0.2% | 0.8% |
-| 12:30 | USD | Import Price Index (MoM) (Feb) |  | 0.3% | 0.8% |
-| 12:30 | USD | NY Empire State Manufacturing Index (Mar) |  | -7.00 | -2.40 |
-| 12:30 | CAD | Foreign Securities Purchases (Jan) |  | 2.05B | 10.44B |
-| 12:30 | CAD | Wholesale Sales (MoM) (Jan) |  | -0.6% | 0.3% |
-| 13:15 | USD | Industrial Production (YoY) (Feb) |  |  | 0.03% |
-| 13:15 | USD | Industrial Production (MoM) (Feb) |  | 0.0% | -0.1% |
+| 12:15 | CAD | Housing Starts (Feb) | 245.7K | 227.0K | 223.6K |
+| 2 min | USD | Export Price Index (MoM) (Feb) |  | 0.2% | 0.8% |
+| 2 min | USD | Import Price Index (MoM) (Feb) |  | 0.3% | 0.8% |
+| 2 min | USD | NY Empire State Manufacturing Index (Mar) |  | -7.00 | -2.40 |
+| 2 min | CAD | Foreign Securities Purchases (Jan) |  | 2.05B | 10.44B |
+| 2 min | CAD | Wholesale Sales (MoM) (Jan) |  | -0.6% | 0.3% |
+| 47 min | USD | Industrial Production (YoY) (Feb) |  |  | 0.03% |
+| 47 min | USD | Industrial Production (MoM) (Feb) |  | 0.0% | -0.1% |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
 | 14:00 | USD | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
