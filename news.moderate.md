@@ -19,8 +19,8 @@
 | 14:00 | USD | Michigan Consumer Expectations (Mar) | 74.6 | 75.1 | 75.2 |
 | 14:00 | USD | Michigan Consumer Sentiment (Mar) | 76.5 | 77.1 | 76.9 |
 | 14:30 | EUR | ECB's Lane Speaks |  |  |  |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 622 |
+| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
+| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 622 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 58.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 238.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 141.6K |
