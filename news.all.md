@@ -15,20 +15,19 @@
 | 03:00 | KRW | Low | M3 Money Supply (Jan) | 5,350.0B |  | 5,314.6B |
 | 03:00 | KRW | Low | M2 Money supply (Jan) | 4.30% |  | 3.00% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) | -10.00 | 0.10 | 6.80 |
-| 44 min | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
-| 07:00 | NOK | Low | Trade Balance (Feb) |  |  | 72.9B |
+| 40 min | NOK | Low | Trade Balance (Feb) |  |  | 72.9B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) |  |  | -0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) |  |  | 3.10% |
-| 07:45 | EUR | Low | French CPI (YoY) |  | 2.9% | 3.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) |  | 0.8% | -0.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.9% | -0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) |  | 2.9% | 3.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) |  | 3.1% | 3.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) |  | 0.9% | -0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 2.90% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) |  | 0.1% | 0.3% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Feb) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 0.9% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) |  | 0.1% | -1.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) |  | 0.9% | 0.9% |
 | 09:00 | NOK | Low | Norges Bank regional network Survey |  |  | -0.30 |
 | 09:30 | GBP | Low | Inflation Expectations |  |  | 3.3% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) |  | 0.2% | -0.1% |
@@ -50,8 +49,8 @@
 | 12:15 | CAD | Moderate | Housing Starts (Feb) |  | 227.0K | 223.6K |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) |  | 0.2% | 0.8% |
 | 12:30 | USD | Low | Export Price Index (YoY) |  | -7.0% | -2.4% |
-| 12:30 | USD | Low | Import Price Index (YoY) |  |  | -1.3% |
 | 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) |  | 0.3% | 0.8% |
+| 12:30 | USD | Low | Import Price Index (YoY) |  |  | -1.3% |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -7.00 | -2.40 |
 | 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 2.05B | 10.44B |
 | 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 29.40B |
