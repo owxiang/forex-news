@@ -31,8 +31,8 @@
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 3.3% |
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
@@ -45,24 +45,24 @@
 | 11:30 | INR | Low | FX Reserves, USD | 636.10B |  | 625.63B |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 4.5% |  | -1.9% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | 0.7% |  | 0.7% |
-| 12:15 | CAD | Moderate | Housing Starts (Feb) | 245.7K | 227.0K | 223.6K |
-| 2 min | USD | Low | Export Price Index (YoY) |  | -7.0% | -2.4% |
-| 2 min | USD | Moderate | Export Price Index (MoM) (Feb) |  | 0.2% | 0.8% |
-| 2 min | USD | Moderate | Import Price Index (MoM) (Feb) |  | 0.3% | 0.8% |
-| 2 min | USD | Low | Import Price Index (YoY) |  |  | -1.3% |
-| 2 min | USD | Moderate | NY Empire State Manufacturing Index (Mar) |  | -7.00 | -2.40 |
-| 2 min | CAD | Moderate | Foreign Securities Purchases (Jan) |  | 2.05B | 10.44B |
-| 2 min | CAD | Low | Foreign Securities Purchases by Canadians (Jan) |  |  | 29.40B |
-| 2 min | CAD | Moderate | Wholesale Sales (MoM) (Jan) |  | -0.6% | 0.3% |
-| 47 min | USD | Low | Capacity Utilization Rate (Feb) |  | 78.5% | 78.5% |
-| 47 min | USD | Moderate | Industrial Production (YoY) (Feb) |  |  | 0.03% |
-| 47 min | USD | Moderate | Industrial Production (MoM) (Feb) |  | 0.0% | -0.1% |
-| 47 min | USD | Low | Manufacturing Production (MoM) (Feb) |  | 0.3% | -0.5% |
-| 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
-| 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
-| 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
-| 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 77.1 | 76.9 |
-| 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 79.2 | 79.4 |
+| 12:15 | CAD | Moderate | Housing Starts (Feb) | 253.5K | 227.0K | 223.2K |
+| 12:30 | USD | Low | Export Price Index (YoY) | -1.8% |  | -2.2% |
+| 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 0.8% | 0.2% | 0.9% |
+| 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
+| 12:30 | USD | Low | Import Price Index (YoY) | -0.8% |  | -1.3% |
+| 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) | -20.90 | -7.00 | -2.40 |
+| 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) | 8.88B | 2.05B | 10.80B |
+| 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) | -7.59B |  | 29.40B |
+| 12:30 | CAD | Moderate | Wholesale Sales (MoM) (Jan) | 0.1% | -0.6% | -0.3% |
+| 13:15 | USD | Low | Capacity Utilization Rate (Feb) | 78.3% | 78.5% | 78.3% |
+| 13:15 | USD | Moderate | Industrial Production (MoM) (Feb) | 0.1% | 0.0% | -0.5% |
+| 13:15 | USD | Moderate | Industrial Production (YoY) (Feb) | -0.20% |  | 0.03% |
+| 13:15 | USD | Low | Manufacturing Production (MoM) (Feb) | 0.8% | 0.3% | -1.1% |
+| 42 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
+| 42 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
+| 42 min | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
+| 42 min | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 77.1 | 76.9 |
+| 42 min | USD | Low | Michigan Current Conditions (Mar) |  | 79.2 | 79.4 |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |

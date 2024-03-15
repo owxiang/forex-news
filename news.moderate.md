@@ -6,18 +6,18 @@
 | 07:45 | EUR | French HICP (MoM) (Feb) | 0.9% | 0.9% | -0.2% |
 | 08:35 | CNY | New Loans (Feb) | 1,450.0B | 1,540.0B | 4,920.0B |
 | 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:15 | CAD | Housing Starts (Feb) | 245.7K | 227.0K | 223.6K |
-| 2 min | USD | Export Price Index (MoM) (Feb) |  | 0.2% | 0.8% |
-| 2 min | USD | Import Price Index (MoM) (Feb) |  | 0.3% | 0.8% |
-| 2 min | USD | NY Empire State Manufacturing Index (Mar) |  | -7.00 | -2.40 |
-| 2 min | CAD | Foreign Securities Purchases (Jan) |  | 2.05B | 10.44B |
-| 2 min | CAD | Wholesale Sales (MoM) (Jan) |  | -0.6% | 0.3% |
-| 47 min | USD | Industrial Production (YoY) (Feb) |  |  | 0.03% |
-| 47 min | USD | Industrial Production (MoM) (Feb) |  | 0.0% | -0.1% |
-| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
-| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
-| 14:00 | USD | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
-| 14:00 | USD | Michigan Consumer Sentiment (Mar) |  | 77.1 | 76.9 |
+| 12:15 | CAD | Housing Starts (Feb) | 253.5K | 227.0K | 223.2K |
+| 12:30 | USD | Export Price Index (MoM) (Feb) | 0.8% | 0.2% | 0.9% |
+| 12:30 | USD | Import Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
+| 12:30 | USD | NY Empire State Manufacturing Index (Mar) | -20.90 | -7.00 | -2.40 |
+| 12:30 | CAD | Foreign Securities Purchases (Jan) | 8.88B | 2.05B | 10.80B |
+| 12:30 | CAD | Wholesale Sales (MoM) (Jan) | 0.1% | -0.6% | -0.3% |
+| 13:15 | USD | Industrial Production (MoM) (Feb) | 0.1% | 0.0% | -0.5% |
+| 13:15 | USD | Industrial Production (YoY) (Feb) | -0.20% |  | 0.03% |
+| 42 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
+| 42 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
+| 42 min | USD | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
+| 42 min | USD | Michigan Consumer Sentiment (Mar) |  | 77.1 | 76.9 |
 | 14:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 622 |
