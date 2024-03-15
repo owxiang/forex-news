@@ -28,8 +28,8 @@
 | 09:00 | EUR | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:30 | GBP | Inflation Expectations | 3.0% |  | 3.3% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |

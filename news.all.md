@@ -20,8 +20,8 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.90% |  | -0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.8% | 0.8% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) | 3.0% | 2.9% | 3.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.9% | 0.9% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) | 2.70% |  | 2.90% |
 | 08:35 | CNY | Low | M2 Money Stock (YoY) (Feb) | 8.7% | 8.8% | 8.7% |
 | 08:35 | CNY | Moderate | New Loans (Feb) | 1,450.0B | 1,540.0B | 4,920.0B |
@@ -31,8 +31,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 3.3% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
@@ -48,8 +48,8 @@
 | 12:15 | CAD | Moderate | Housing Starts (Feb) | 253.5K | 227.0K | 223.2K |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 0.8% | 0.2% | 0.9% |
 | 12:30 | USD | Low | Export Price Index (YoY) | -1.8% |  | -2.2% |
-| 12:30 | USD | Low | Import Price Index (YoY) | -0.8% |  | -1.3% |
 | 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
+| 12:30 | USD | Low | Import Price Index (YoY) | -0.8% |  | -1.3% |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) | -20.90 | -7.00 | -2.40 |
 | 12:30 | CAD | Moderate | Foreign Securities Purchases (Jan) | 8.88B | 2.05B | 10.80B |
 | 12:30 | CAD | Low | Foreign Securities Purchases by Canadians (Jan) | -7.59B |  | 29.40B |
@@ -63,7 +63,7 @@
 | 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) | 74.6 | 75.1 | 75.2 |
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) | 76.5 | 77.1 | 76.9 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 79.4 | 79.2 | 79.4 |
-| 15 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |
 | 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
