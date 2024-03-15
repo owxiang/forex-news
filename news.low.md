@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | CNY | House Prices (YoY) (Feb) |  |  | -0.7% |
-| 52 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 42.45 |
-| 52 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 69.38 |
-| 52 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Mar) |  |  | 49.14 |
-| 52 min | JPY | Thomson Reuters IPSOS PCSI (Mar) |  |  | 40.20 |
-| 52 min | CNY | China Thomson Reuters IPSOS PCSI (Mar) |  |  | 69.21 |
-| 52 min | IDR | Export Growth (YoY) (Feb) |  | -6.50% | -8.06% |
-| 52 min | IDR | Import Growth (YoY) (Feb) |  | 9.30% | 0.36% |
-| 52 min | IDR | Trade Balance (Feb) |  | 2.32B | 2.01B |
-| 02:30 | SGD | Unemployment Rate |  | 2.0% | 2.0% |
-| 03:00 | KRW | M3 Money Supply (Jan) |  |  | 5,311.2B |
-| 03:00 | KRW | M2 Money supply (Jan) |  |  | 2.80% |
+| 01:30 | CNY | House Prices (YoY) (Feb) | -1.4% |  | -0.7% |
+| 02:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 40.42 |  | 42.45 |
+| 02:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 72.17 |  | 69.38 |
+| 02:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Mar) | 50.79 |  | 49.14 |
+| 02:00 | JPY | Thomson Reuters IPSOS PCSI (Mar) | 41.88 |  | 40.20 |
+| 02:00 | CNY | China Thomson Reuters IPSOS PCSI (Mar) | 71.14 |  | 69.21 |
+| 02:00 | IDR | Export Growth (YoY) (Feb) | -9.45% | -6.50% | -8.06% |
+| 02:00 | IDR | Import Growth (YoY) (Feb) | 15.84% | 9.30% | 0.36% |
+| 02:00 | IDR | Trade Balance (Feb) | 0.87B | 2.32B | 2.01B |
+| 8 min | SGD | Unemployment Rate |  | 2.0% | 2.0% |
+| 38 min | KRW | M3 Money Supply (Jan) |  |  | 5,311.2B |
+| 38 min | KRW | M2 Money supply (Jan) |  |  | 2.80% |
 | 04:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) |  | 0.10 | 0.70 |
 | 07:00 | NOK | Trade Balance (Feb) |  |  | 72.9B |
@@ -22,11 +22,11 @@
 | 07:45 | EUR | French CPI (YoY) |  | 2.9% | 3.1% |
 | 07:45 | EUR | French HICP (YoY) (Feb) |  | 3.1% | 3.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 2.90% |
-| 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.1% | 0.3% |
 | 09:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.8% | 0.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.1% | 0.3% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -1.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 0.9% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -1.1% |
 | 09:00 | EUR | Italian Trade Balance (Jan) |  | 6.220B | 5.614B |
 | 09:00 | EUR | Italian Trade Balance EU (Jan) |  |  | -2.75B |
 | 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |
@@ -41,8 +41,8 @@
 | 10:00 | CNY | Chinese Total Social Financing |  | 2,220.0B | 6,500.0B |
 | 11:00 | EUR | Reserve Assets Total (Feb) |  |  | 1,158.00B |
 | 11:30 | INR | FX Reserves, USD |  |  | 625.63B |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | -2.0% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) |  |  | 0.3% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) |  |  | -2.0% |
 | 12:30 | USD | Export Price Index (YoY) |  | -7.0% | -2.4% |
 | 12:30 | USD | Import Price Index (YoY) |  |  | -1.3% |
 | 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) |  |  | 29.40B |

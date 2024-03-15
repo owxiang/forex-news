@@ -11,8 +11,8 @@
 | 12:30 | USD | NY Empire State Manufacturing Index (Mar) |  | -7.00 | -2.40 |
 | 12:30 | CAD | Foreign Securities Purchases (Jan) |  | 2.05B | 10.44B |
 | 12:30 | CAD | Wholesale Sales (MoM) (Jan) |  | -0.6% | 0.3% |
-| 13:15 | USD | Industrial Production (MoM) (Feb) |  | 0.0% | -0.1% |
 | 13:15 | USD | Industrial Production (YoY) (Feb) |  |  | 0.03% |
+| 13:15 | USD | Industrial Production (MoM) (Feb) |  | 0.0% | -0.1% |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
 | 14:00 | USD | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
