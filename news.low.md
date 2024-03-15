@@ -16,8 +16,8 @@
 | 03:00 | KRW | M2 Money supply (Jan) | 4.30% |  | 3.00% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) | 0.30 | 0.10 | 0.50 |
 | 07:00 | NOK | Trade Balance (Feb) | 51.8B |  | 72.9B |
-| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 3.00% |  | 3.10% |
 | 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.90% |  | -0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 3.00% |  | 3.10% |
 | 07:45 | EUR | French CPI (YoY) | 3.0% | 2.9% | 3.1% |
 | 07:45 | EUR | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) | 2.70% |  | 2.90% |
@@ -25,11 +25,11 @@
 | 08:35 | CNY | Outstanding Loan Growth (YoY) (Feb) | 10.1% | 10.2% | 10.4% |
 | 08:35 | CNY | Chinese Total Social Financing (Feb) | 1,560.0B | 2,220.0B | 6,500.0B |
 | 08:40 | INR | Trade Balance (Feb) | -18.71B | -18.30B | -17.49B |
-| 09:00 | EUR | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
+| 09:00 | EUR | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
 | 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
+| 09:00 | EUR | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
 | 09:30 | GBP | Inflation Expectations | 3.0% |  | 3.3% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
