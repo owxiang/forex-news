@@ -16,23 +16,23 @@
 | 03:00 | KRW | Low | M2 Money supply (Jan) | 4.30% |  | 3.00% |
 | 04:30 | JPY | Low | Tertiary Industry Activity Index (Jan) | 0.30 | 0.10 | 0.50 |
 | 07:00 | NOK | Low | Trade Balance (Feb) | 51.8B |  | 72.9B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.90% |  | -0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) | 3.00% |  | 3.10% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.90% |  | -0.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.8% | 0.8% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) | 3.0% | 2.9% | 3.1% |
-| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.9% | 0.9% | -0.2% |
+| 07:45 | EUR | Low | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) | 2.70% |  | 2.90% |
 | 08:35 | CNY | Low | M2 Money Stock (YoY) (Feb) | 8.7% | 8.8% | 8.7% |
 | 08:35 | CNY | Moderate | New Loans (Feb) | 1,450.0B | 1,540.0B | 4,920.0B |
 | 08:35 | CNY | Low | Outstanding Loan Growth (YoY) (Feb) | 10.1% | 10.2% | 10.4% |
 | 08:35 | CNY | Low | Chinese Total Social Financing (Feb) | 1,560.0B | 2,220.0B | 6,500.0B |
 | 08:40 | INR | Low | Trade Balance (Feb) | -18.71B | -18.30B | -17.49B |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Feb) | 0.8% | 0.8% | 0.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Feb) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 3.3% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
 | 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
@@ -86,6 +86,3 @@
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -118.8K |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | 7.2K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 66.3K |
-| 23:55 | KRW | Low | Exports (YoY) (Feb) |  |  | 4.8% |
-| 23:55 | KRW | Low | Imports (YoY) (Feb) |  |  | -13.1% |
-| 23:55 | KRW | Low | Trade Balance (Feb) |  |  | 4.30B |
