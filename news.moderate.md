@@ -4,6 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 07:45 | EUR | French CPI (MoM) (Feb) |  | 0.8% | -0.3% |
 | 07:45 | EUR | French HICP (MoM) (Feb) |  | 0.9% | -0.2% |
+| 10:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 10:00 | CNY | New Loans |  | 1,540.0B | 4,920.0B |
 | 12:15 | CAD | Housing Starts (Feb) |  | 227.0K | 223.6K |
 | 12:30 | USD | Export Price Index (MoM) (Feb) |  | 0.2% | 0.8% |
