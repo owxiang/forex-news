@@ -16,17 +16,17 @@
 | 03:00 | KRW | M2 Money supply (Jan) | 4.30% |  | 3.00% |
 | 04:30 | JPY | Tertiary Industry Activity Index (Jan) | -10.00 | 0.10 | 6.80 |
 | 07:00 | NOK | Trade Balance (Feb) | 51.8B |  | 72.9B |
-| 29 min | EUR | French CPI NSA (MoM) (Feb) |  |  | -0.20% |
-| 29 min | EUR | French CPI NSA (YoY) (Feb) |  |  | 3.10% |
-| 29 min | EUR | French CPI (YoY) |  | 2.9% | 3.1% |
-| 29 min | EUR | French HICP (YoY) (Feb) |  | 3.1% | 3.4% |
-| 29 min | EUR | France Inflation Ex-Tobacco (YoY) (Feb) |  |  | 2.90% |
-| 09:00 | EUR | Italian CPI (MoM) (Feb) |  | 0.1% | 0.3% |
-| 09:00 | EUR | Italian CPI (YoY) (Feb) |  | 0.8% | 0.8% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -1.1% |
-| 09:00 | EUR | Italian HICP (YoY) (Feb) |  | 0.9% | 0.9% |
-| 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |
+| 07:45 | EUR | French CPI NSA (MoM) (Feb) | 0.90% |  | -0.20% |
+| 07:45 | EUR | French CPI NSA (YoY) (Feb) | 3.00% |  | 3.10% |
+| 07:45 | EUR | French CPI (YoY) | 3.0% | 2.9% | 3.1% |
+| 07:45 | EUR | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Feb) | 2.70% |  | 2.90% |
+| 41 min | EUR | Italian CPI (MoM) (Feb) |  | 0.1% | 0.3% |
+| 41 min | EUR | Italian CPI (YoY) (Feb) |  | 0.8% | 0.8% |
+| 41 min | EUR | Italian CPI Ex Tobacco (YoY) (Feb) |  |  | 0.8% |
+| 41 min | EUR | Italian HICP (MoM) (Feb) |  | 0.1% | -1.1% |
+| 41 min | EUR | Italian HICP (YoY) (Feb) |  | 0.9% | 0.9% |
+| 41 min | NOK | Norges Bank regional network Survey |  |  | -0.30 |
 | 09:30 | GBP | Inflation Expectations |  |  | 3.3% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) |  | 0.2% | -0.1% |
 | 10:00 | EUR | Italian Retail Sales (YoY) (Jan) |  |  | 0.3% |
