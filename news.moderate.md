@@ -12,13 +12,13 @@
 | 12:30 | USD | NY Empire State Manufacturing Index (Mar) | -20.90 | -7.00 | -2.40 |
 | 12:30 | CAD | Foreign Securities Purchases (Jan) | 8.88B | 2.05B | 10.80B |
 | 12:30 | CAD | Wholesale Sales (MoM) (Jan) | 0.1% | -0.6% | -0.3% |
+| 13:15 | USD | Industrial Production (YoY) (Feb) | -0.23% |  | -0.31% |
 | 13:15 | USD | Industrial Production (MoM) (Feb) | 0.1% | 0.0% | -0.5% |
-| 13:15 | USD | Industrial Production (YoY) (Feb) | -0.20% |  | 0.03% |
-| 42 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  |  | 3.0% |
-| 42 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  |  | 2.9% |
-| 42 min | USD | Michigan Consumer Expectations (Mar) |  | 75.1 | 75.2 |
-| 42 min | USD | Michigan Consumer Sentiment (Mar) |  | 77.1 | 76.9 |
-| 14:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 3.0% | 3.1% | 3.0% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 2.9% | 2.9% | 2.9% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) | 74.6 | 75.1 | 75.2 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 76.5 | 77.1 | 76.9 |
+| 15 min | EUR | ECB's Lane Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 622 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 58.4K |
