@@ -31,23 +31,22 @@
 | 09:00 | EUR | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:00 | EUR | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
 | 09:30 | GBP | Inflation Expectations | 3.0% |  | 3.3% |
-| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
 | 10:00 | EUR | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
+| 10:00 | EUR | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
 | 10:43 | INR | Exports (USD) (Feb) | 41.40B |  | 36.92B |
 | 10:43 | INR | Imports (USD) (Feb) | 60.11B |  | 54.41B |
 | 11:00 | EUR | Italian Trade Balance (Jan) | 2.655B | 6.220B | 5.527B |
 | 11:00 | EUR | Italian Trade Balance EU (Jan) | -0.38B |  | -2.84B |
 | 11:00 | EUR | Reserve Assets Total (Feb) | 1,156.11B |  | 1,158.07B |
 | 11:30 | INR | FX Reserves, USD | 636.10B |  | 625.63B |
-| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 4.5% |  | -1.9% |
 | 12:00 | BRL | Brazilian Service Sector Growth (MoM) (Jan) | 0.7% |  | 0.7% |
+| 12:00 | BRL | Brazilian Service Sector Growth (YoY) (Jan) | 4.5% |  | -1.9% |
 | 12:30 | USD | Export Price Index (YoY) | -1.8% |  | -2.2% |
 | 12:30 | USD | Import Price Index (YoY) | -0.8% |  | -1.3% |
 | 12:30 | CAD | Foreign Securities Purchases by Canadians (Jan) | -7.59B |  | 29.40B |
 | 13:15 | USD | Capacity Utilization Rate (Feb) | 78.3% | 78.5% | 78.3% |
 | 13:15 | USD | Manufacturing Production (MoM) (Feb) | 0.8% | 0.3% | -1.1% |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 79.4 | 79.2 | 79.4 |
-| 17:30 | BRL | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | -1.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -232.6K |

@@ -18,10 +18,10 @@
 | 07:00 | NOK | Low | Trade Balance (Feb) | 51.8B |  | 72.9B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Feb) | 0.90% |  | -0.20% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Feb) | 3.00% |  | 3.10% |
-| 07:45 | EUR | Low | French CPI (YoY) | 3.0% | 2.9% | 3.1% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Feb) | 0.8% | 0.8% | -0.3% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.9% | 0.9% | -0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) | 3.0% | 2.9% | 3.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Feb) | 3.2% | 3.1% | 3.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Feb) | 0.9% | 0.9% | -0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Feb) | 2.70% |  | 2.90% |
 | 08:35 | CNY | Low | M2 Money Stock (YoY) (Feb) | 8.7% | 8.8% | 8.7% |
 | 08:35 | CNY | Moderate | New Loans (Feb) | 1,450.0B | 1,540.0B | 4,920.0B |
@@ -34,8 +34,8 @@
 | 09:00 | EUR | Low | Italian HICP (MoM) (Feb) | 0.0% | 0.1% | -1.1% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Feb) | 0.8% | 0.9% | 0.9% |
 | 09:30 | GBP | Low | Inflation Expectations | 3.0% |  | 3.3% |
-| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
 | 10:00 | EUR | Low | Italian Retail Sales (MoM) (Jan) | -0.1% | 0.2% | -0.2% |
+| 10:00 | EUR | Low | Italian Retail Sales (YoY) (Jan) | 1.0% |  | 0.2% |
 | 10:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:43 | INR | Low | Exports (USD) (Feb) | 41.40B |  | 36.92B |
 | 10:43 | INR | Low | Imports (USD) (Feb) | 60.11B |  | 54.41B |
@@ -43,11 +43,11 @@
 | 11:00 | EUR | Low | Italian Trade Balance EU (Jan) | -0.38B |  | -2.84B |
 | 11:00 | EUR | Low | Reserve Assets Total (Feb) | 1,156.11B |  | 1,158.07B |
 | 11:30 | INR | Low | FX Reserves, USD | 636.10B |  | 625.63B |
-| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 4.5% |  | -1.9% |
 | 12:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Jan) | 0.7% |  | 0.7% |
+| 12:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Jan) | 4.5% |  | -1.9% |
 | 12:15 | CAD | Moderate | Housing Starts (Feb) | 253.5K | 227.0K | 223.2K |
-| 12:30 | USD | Low | Export Price Index (YoY) | -1.8% |  | -2.2% |
 | 12:30 | USD | Moderate | Export Price Index (MoM) (Feb) | 0.8% | 0.2% | 0.9% |
+| 12:30 | USD | Low | Export Price Index (YoY) | -1.8% |  | -2.2% |
 | 12:30 | USD | Moderate | Import Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.8% |
 | 12:30 | USD | Low | Import Price Index (YoY) | -0.8% |  | -1.3% |
 | 12:30 | USD | Moderate | NY Empire State Manufacturing Index (Mar) | -20.90 | -7.00 | -2.40 |
@@ -64,9 +64,8 @@
 | 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) | 76.5 | 77.1 | 76.9 |
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 79.4 | 79.2 | 79.4 |
 | 14:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 504 |
-| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 622 |
-| 17:30 | BRL | Low | CAGED Net Payroll Jobs (Jan) |  | 90.00K | -430.16K |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 510 |  | 504 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 629 |  | 622 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 58.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | -1.6K |
