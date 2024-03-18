@@ -12,8 +12,8 @@
 | 08:30 | HKD | Unemployment Rate (Feb) | 2.9% |  | 2.9% |
 | 09:35 | GBP | Rightmove House Price Index (YoY) (Mar) | 0.8% |  | 0.1% |
 | 10:00 | EUR | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.5% |  | 2.7% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.4% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.5% |  | 2.7% |
 | 10:00 | EUR | CPI, n.s.a | 124.40 | 124.37 | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% | 3.3% | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.6% | -0.6% |
@@ -21,14 +21,13 @@
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.7% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.60% | 0.26% | 0.82% |
-| 2 min | CAD | IPPI (YoY) (Feb) |  |  | -2.9% |
-| 2 min | CAD | IPPI (MoM) (Feb) |  | 0.0% | -0.1% |
-| 2 min | CAD | RMPI (YoY) (Feb) |  |  | -6.4% |
-| 32 min | EUR | Spanish Trade Balance (Jan) |  |  | -3.40B |
-| 14:00 | USD | NAHB Housing Market Index (Mar) |  | 48 | 48 |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.450% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.813% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.747% |
+| 12:30 | CAD | IPPI (YoY) (Feb) | -1.7% |  | -2.9% |
+| 12:30 | CAD | IPPI (MoM) (Feb) | 0.7% | 0.0% | -0.1% |
+| 12:30 | CAD | RMPI (YoY) (Feb) | -4.7% |  | -6.5% |
+| 42 min | USD | NAHB Housing Market Index (Mar) |  | 48 | 48 |
+| 42 min | EUR | French 12-Month BTF Auction |  |  | 3.450% |
+| 42 min | EUR | French 3-Month BTF Auction |  |  | 3.813% |
+| 42 min | EUR | French 6-Month BTF Auction |  |  | 3.747% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.100% |
 | 23:55 | KRW | Exports (YoY) (Feb) |  |  | 4.8% |
