@@ -7,8 +7,8 @@
 | 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) | 7.0% |  | 4.6% |
 | 02:00 | CNY | Chinese Unemployment Rate (Jan) | 5.3% | 5.1% | 5.1% |
 | 02:00 | CNY | NBS Press Conference |  |  |  |
-| 44 min | EUR | Core CPI (YoY) (Feb) |  | 3.1% | 3.3% |
-| 44 min | EUR | CPI (MoM) (Feb) |  | 0.6% | -0.4% |
-| 44 min | EUR | Trade Balance (Jan) |  |  | 16.8B |
+| 10:00 | EUR | Core CPI (YoY) (Feb) | 3.1% | 3.1% | 3.3% |
+| 10:00 | EUR | CPI (MoM) (Feb) | 0.6% | 0.6% | -0.4% |
+| 10:00 | EUR | Trade Balance (Jan) | 11.4B |  | 16.8B |
 | 12:30 | CAD | RMPI (MoM) (Feb) |  | 0.8% | 1.2% |
 | 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |

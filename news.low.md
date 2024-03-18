@@ -3,23 +3,23 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.5% |  | 0.9% |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
 | 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
+| 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
 | 00:30 | SGD | Trade Balance | 5.968B |  | 7.423B |
 | 02:00 | CNY | Retail Sales (YoY) (Feb) | 5.5% | 5.6% | 7.4% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 5.50% |  | 7.22% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
 | 08:30 | HKD | Unemployment Rate (Feb) | 2.9% |  | 2.9% |
-| 44 min | EUR | Spanish Trade Balance |  |  | -3.40B |
-| 44 min | EUR | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
-| 44 min | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
-| 44 min | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
-| 44 min | EUR | CPI, n.s.a |  | 124.37 | 123.60 |
-| 44 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 3.3% | 3.6% |
-| 44 min | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.6% | -0.6% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.359% |
-| 10:30 | CNY | FDI |  |  | -11.70% |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.7% |
+| 09:35 | GBP | Rightmove House Price Index (YoY) (Mar) | 0.8% |  | 0.1% |
+| 10:00 | EUR | Spanish Trade Balance (Jan) |  |  | -3.40B |
+| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.5% |  | 2.7% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.4% |
+| 10:00 | EUR | CPI, n.s.a | 124.40 | 124.37 | 123.60 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% | 3.3% | 3.6% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.6% | -0.6% |
+| 13 min | EUR | German 12-Month Bubill Auction |  |  | 3.359% |
+| 43 min | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.7% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Jan) |  | 0.26% | 0.82% |
 | 12:30 | CAD | IPPI (YoY) (Feb) |  |  | -2.9% |
@@ -29,7 +29,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.450% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.813% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.747% |
-| 14:48 | GBP | Rightmove House Price Index (YoY) (Mar) |  |  | 0.1% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.100% |
 | 23:55 | KRW | Exports (YoY) (Feb) |  |  | 4.8% |
