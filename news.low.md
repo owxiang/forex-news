@@ -9,7 +9,7 @@
 | 02:00 | CNY | Retail Sales (YoY) (Feb) | 5.5% | 5.6% | 7.4% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 5.50% |  | 7.22% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
-| 07:30 | CNY | FDI |  |  | -11.70% |
+| 15 min | CNY | FDI |  |  | -11.70% |
 | 08:30 | HKD | Unemployment Rate (Feb) |  |  | 2.9% |
 | 09:00 | EUR | Spanish Trade Balance |  |  | -3.40B |
 | 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |

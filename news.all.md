@@ -14,14 +14,14 @@
 | 02:00 | CNY | Moderate | Chinese Unemployment Rate (Jan) | 5.3% | 5.1% | 5.1% |
 | 02:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
-| 07:30 | CNY | Low | FDI |  |  | -11.70% |
+| 15 min | CNY | Low | FDI |  |  | -11.70% |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) |  |  | 2.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.40B |
 | 09:00 | NOK | Low | Norges Bank regional network Survey |  |  | -0.30 |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 3.1% | 3.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.6% | 2.8% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  | 0.6% | -0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.6% | 2.8% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
 | 10:00 | EUR | Low | CPI, n.s.a |  | 124.37 | 123.60 |
