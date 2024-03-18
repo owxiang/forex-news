@@ -28,8 +28,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.526% |  | 3.450% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.796% |  | 3.813% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.775% |  | 3.747% |
-| 14 min | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 14 min | USD | 6-Month Bill Auction |  |  | 5.100% |
+| 15:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
+| 15:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.100% |
 | 23:55 | KRW | Exports (YoY) (Feb) |  |  | 4.8% |
 | 23:55 | KRW | Imports (YoY) (Feb) |  |  | -13.1% |
 | 23:55 | KRW | Trade Balance (Feb) |  |  | 4.30B |

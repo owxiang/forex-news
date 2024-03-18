@@ -18,8 +18,8 @@
 | 09:35 | GBP | Low | Rightmove House Price Index (YoY) (Mar) | 0.8% |  | 0.1% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 3.1% | 3.1% | 3.3% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.6% | 0.6% | -0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.6% | 2.8% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.6% | 0.6% | -0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.5% |  | 2.7% |
 | 10:00 | EUR | Low | CPI, n.s.a | 124.40 | 124.37 | 123.60 |
@@ -33,14 +33,14 @@
 | 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) | 0.60% | 0.26% | 0.82% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) | -1.7% |  | -2.9% |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) | 0.7% | 0.0% | -0.1% |
-| 12:30 | CAD | Low | RMPI (YoY) (Feb) | -4.7% |  | -6.5% |
 | 12:30 | CAD | Moderate | RMPI (MoM) (Feb) | 2.1% | 0.8% | 1.2% |
+| 12:30 | CAD | Low | RMPI (YoY) (Feb) | -4.7% |  | -6.5% |
 | 14:00 | USD | Low | NAHB Housing Market Index (Mar) | 51 | 48 | 48 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.526% |  | 3.450% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.796% |  | 3.813% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.775% |  | 3.747% |
-| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.100% |
+| 15:30 | USD | Low | 3-Month Bill Auction | 5.245% |  | 5.250% |
+| 15:30 | USD | Low | 6-Month Bill Auction | 5.130% |  | 5.100% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 23:55 | KRW | Low | Exports (YoY) (Feb) |  |  | 4.8% |
 | 23:55 | KRW | Low | Imports (YoY) (Feb) |  |  | -13.1% |
