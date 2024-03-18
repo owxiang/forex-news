@@ -19,12 +19,12 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.6% | -0.6% |
 | 10:30 | EUR | German 12-Month Bubill Auction | 3.428% |  | 3.359% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.7% |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 47 min | EUR | Spanish Trade Balance (Jan) |  |  | -3.40B |
-| 47 min | BRL | IBC-Br Economic Activity (Jan) |  | 0.26% | 0.82% |
-| 12:30 | CAD | IPPI (YoY) (Feb) |  |  | -2.9% |
-| 12:30 | CAD | IPPI (MoM) (Feb) |  | 0.0% | -0.1% |
-| 12:30 | CAD | RMPI (YoY) (Feb) |  |  | -6.4% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.60% | 0.26% | 0.82% |
+| 2 min | CAD | IPPI (YoY) (Feb) |  |  | -2.9% |
+| 2 min | CAD | IPPI (MoM) (Feb) |  | 0.0% | -0.1% |
+| 2 min | CAD | RMPI (YoY) (Feb) |  |  | -6.4% |
+| 32 min | EUR | Spanish Trade Balance (Jan) |  |  | -3.40B |
 | 14:00 | USD | NAHB Housing Market Index (Mar) |  | 48 | 48 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.450% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.813% |
