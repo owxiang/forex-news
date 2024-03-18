@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.5% |  | 0.9% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Trade Balance | 5.968B |  | 7.423B |
 | 02:00 | CNY | Retail Sales (YoY) (Feb) | 5.5% | 5.6% | 7.4% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 5.50% |  | 7.22% |
@@ -28,8 +28,8 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.526% |  | 3.450% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.796% |  | 3.813% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.775% |  | 3.747% |
-| 15:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 15:30 | USD | 6-Month Bill Auction |  |  | 5.100% |
+| 14 min | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 14 min | USD | 6-Month Bill Auction |  |  | 5.100% |
 | 23:55 | KRW | Exports (YoY) (Feb) |  |  | 4.8% |
 | 23:55 | KRW | Imports (YoY) (Feb) |  |  | -13.1% |
 | 23:55 | KRW | Trade Balance (Feb) |  |  | 4.30B |

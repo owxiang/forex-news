@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.5% |  | 0.9% |
-| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Low | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
+| 00:30 | SGD | Low | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Low | Trade Balance | 5.968B |  | 7.423B |
 | 02:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Feb) | 4.2% | 3.2% | 3.0% |
 | 02:00 | CNY | Moderate | Industrial Production (YoY) (Feb) | 7.0% | 5.3% | 6.8% |
@@ -16,8 +16,8 @@
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) | 2.9% |  | 2.9% |
 | 09:35 | GBP | Low | Rightmove House Price Index (YoY) (Mar) | 0.8% |  | 0.1% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 3.1% | 3.1% | 3.3% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 3.1% | 3.1% | 3.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.6% | 0.6% | -0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.6% | 2.8% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.4% |
@@ -39,8 +39,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.526% |  | 3.450% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.796% |  | 3.813% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.775% |  | 3.747% |
-| 15:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 15:30 | USD | Low | 6-Month Bill Auction |  |  | 5.100% |
+| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
+| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.100% |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 23:55 | KRW | Low | Exports (YoY) (Feb) |  |  | 4.8% |
 | 23:55 | KRW | Low | Imports (YoY) (Feb) |  |  | -13.1% |
