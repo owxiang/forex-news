@@ -3,23 +3,22 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.5% |  | 0.9% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
+| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Trade Balance | 5.968B |  | 7.423B |
 | 02:00 | CNY | Retail Sales (YoY) (Feb) | 5.5% | 5.6% | 7.4% |
 | 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 5.50% |  | 7.22% |
 | 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
-| 11 min | CNY | FDI |  |  | -11.70% |
-| 11 min | HKD | Unemployment Rate (Feb) |  |  | 2.9% |
-| 41 min | EUR | Spanish Trade Balance |  |  | -3.40B |
-| 41 min | NOK | Norges Bank regional network Survey |  |  | -0.30 |
-| 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
-| 10:00 | EUR | CPI, n.s.a |  | 124.37 | 123.60 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 3.3% | 3.6% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.6% | -0.6% |
+| 08:30 | HKD | Unemployment Rate (Feb) | 2.9% |  | 2.9% |
+| 44 min | EUR | Spanish Trade Balance |  |  | -3.40B |
+| 44 min | EUR | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
+| 44 min | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
+| 44 min | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
+| 44 min | EUR | CPI, n.s.a |  | 124.37 | 123.60 |
+| 44 min | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 3.3% | 3.6% |
+| 44 min | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.6% | -0.6% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.359% |
+| 10:30 | CNY | FDI |  |  | -11.70% |
 | 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.7% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:00 | BRL | IBC-Br Economic Activity (Jan) |  | 0.26% | 0.82% |

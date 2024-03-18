@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Feb) |  | 2.6% | 2.8% |
+| 44 min | EUR | CPI (YoY) (Feb) |  | 2.6% | 2.8% |
