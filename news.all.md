@@ -41,7 +41,7 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.775% |  | 3.747% |
 | 15:30 | USD | Low | 3-Month Bill Auction | 5.245% |  | 5.250% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 5.130% |  | 5.100% |
-| 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
+| 47 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 23:55 | KRW | Low | Exports (YoY) (Feb) |  |  | 4.8% |
 | 23:55 | KRW | Low | Imports (YoY) (Feb) |  |  | -13.1% |
 | 23:55 | KRW | Low | Trade Balance (Feb) |  |  | 4.30B |
