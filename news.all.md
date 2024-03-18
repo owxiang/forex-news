@@ -22,8 +22,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) |  | 3.1% | 3.3% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) |  | 0.6% | -0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Feb) |  | 2.6% | 2.8% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a |  | 124.37 | 123.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) |  | 3.3% | 3.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) |  | 0.6% | -0.6% |

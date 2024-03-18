@@ -14,8 +14,8 @@
 | 09:00 | EUR | Spanish Trade Balance |  |  | -3.40B |
 | 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | CPI, n.s.a |  | 124.37 | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 3.3% | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.6% | -0.6% |
