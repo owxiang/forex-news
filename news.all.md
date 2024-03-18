@@ -16,21 +16,22 @@
 | 02:00 | NZD | Low | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
 | 08:30 | HKD | Low | Unemployment Rate (Feb) | 2.9% |  | 2.9% |
 | 09:35 | GBP | Low | Rightmove House Price Index (YoY) (Mar) | 0.8% |  | 0.1% |
-| 10:00 | EUR | Low | Spanish Trade Balance (Jan) |  |  | -3.40B |
-| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Feb) | 3.1% | 3.1% | 3.3% |
-| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.6% | 2.8% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Feb) | 0.6% | 0.6% | -0.4% |
+| 10:00 | EUR | High | CPI (YoY) (Feb) | 2.6% | 2.6% | 2.8% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Feb) | 2.5% |  | 2.7% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.4% |
 | 10:00 | EUR | Low | CPI, n.s.a | 124.40 | 124.37 | 123.60 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Feb) | 3.3% | 3.3% | 3.6% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.6% | -0.6% |
 | 10:00 | EUR | Moderate | Trade Balance (Jan) | 11.4B |  | 16.8B |
-| 13 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.359% |
-| 43 min | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) |  |  | -0.7% |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | Low | IBC-Br Economic Activity (Jan) |  | 0.26% | 0.82% |
+| 10:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.428% |  | 3.359% |
+| 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.7% |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 47 min | EUR | Low | Spanish Trade Balance (Jan) |  |  | -3.40B |
+| 47 min | BRL | Low | IBC-Br Economic Activity (Jan) |  | 0.26% | 0.82% |
 | 12:30 | CAD | Low | IPPI (YoY) (Feb) |  |  | -2.9% |
 | 12:30 | CAD | Low | IPPI (MoM) (Feb) |  | 0.0% | -0.1% |
 | 12:30 | CAD | Low | RMPI (YoY) (Feb) |  |  | -6.4% |
