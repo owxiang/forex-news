@@ -24,10 +24,10 @@
 | 12:30 | CAD | IPPI (YoY) (Feb) | -1.7% |  | -2.9% |
 | 12:30 | CAD | IPPI (MoM) (Feb) | 0.7% | 0.0% | -0.1% |
 | 12:30 | CAD | RMPI (YoY) (Feb) | -4.7% |  | -6.5% |
-| 42 min | USD | NAHB Housing Market Index (Mar) |  | 48 | 48 |
-| 42 min | EUR | French 12-Month BTF Auction |  |  | 3.450% |
-| 42 min | EUR | French 3-Month BTF Auction |  |  | 3.813% |
-| 42 min | EUR | French 6-Month BTF Auction |  |  | 3.747% |
+| 14:00 | USD | NAHB Housing Market Index (Mar) | 51 | 48 | 48 |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.526% |  | 3.450% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.796% |  | 3.813% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.775% |  | 3.747% |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.100% |
 | 23:55 | KRW | Exports (YoY) (Feb) |  |  | 4.8% |
