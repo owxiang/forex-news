@@ -6,17 +6,16 @@
 | 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
 | 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
 | 00:30 | SGD | Trade Balance | 5.968B |  | 7.423B |
-| 52 min | AUD | MI Inflation Expectations |  |  | 4.5% |
-| 52 min | CNY | Retail Sales (YoY) (Feb) |  | 5.6% | 7.4% |
-| 52 min | CNY | Chinese Retail Sales YTD (YoY) (Feb) |  |  | 7.22% |
-| 52 min | NZD | RBNZ Offshore Holdings (Feb) |  |  | 57.70% |
+| 02:00 | CNY | Retail Sales (YoY) (Feb) | 5.5% | 5.6% | 7.4% |
+| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 5.50% |  | 7.22% |
+| 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
 | 07:30 | CNY | FDI |  |  | -11.70% |
 | 08:30 | HKD | Unemployment Rate (Feb) |  |  | 2.9% |
 | 09:00 | EUR | Spanish Trade Balance |  |  | -3.40B |
 | 09:00 | NOK | Norges Bank regional network Survey |  |  | -0.30 |
 | 10:00 | EUR | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) |  |  | 2.7% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) |  |  | -0.4% |
 | 10:00 | EUR | CPI, n.s.a |  | 124.37 | 123.60 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) |  | 3.3% | 3.6% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) |  | 0.6% | -0.6% |
