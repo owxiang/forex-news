@@ -8,8 +8,8 @@
 | 10:00 | GBP | 20-Year Treasury Gilt Auction | 4.467% |  | 4.391% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.40% |  | 5.20% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 0.30% |  | 0.00% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 2.60% |  | 2.70% |
 | 12:00 | MXN | Private Spending (YoY) (Q4) | 5.10% |  | 4.30% |
 | 12:00 | MXN | Private Spending (QoQ) (Q4) | 0.90% |  | 1.20% |
 | 12:00 | NZD | GlobalDairyTrade Price Index | -2.8% |  | -2.3% |
@@ -24,4 +24,4 @@
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) | 67.80B |  | 33.80B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) | -8.80B |  | 137.40B |
 | 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) | 36.10B |  | 158.60B |
-| 31 min | NZD | Current Account % of GDP (Q4) |  |  | -7.60% |
+| 21:45 | NZD | Current Account % of GDP (Q4) | -6.90% |  | -7.40% |
