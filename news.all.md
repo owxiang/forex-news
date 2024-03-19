@@ -19,16 +19,16 @@
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.40% |  | 5.20% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.30% |  | 0.00% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 2.60% |  | 2.70% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.30% |  | 0.00% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | 0.90% |  | 1.20% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 5.10% |  | 4.30% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | -2.8% |  | -2.3% |
 | 12:00 | USD | Low | Milk Auctions | 3,497.0 |  | 3,630.0 |
 | 12:30 | USD | Moderate | Building Permits (Feb) | 1.518M | 1.500M | 1.489M |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) | 1.9% |  | -0.3% |
-| 12:30 | USD | Moderate | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
 | 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) | 10.7% |  | -12.3% |
+| 12:30 | USD | Moderate | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 3.1% | 3.4% | 3.3% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.1% |  | 0.1% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
@@ -38,8 +38,8 @@
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 3.2% | 3.4% | 3.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 3.4% |  | 3.0% |
 | 15:30 | USD | Low | 52-Week Bill Auction | 4.810% |  | 4.695% |
-| 10 min | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
-| 40 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.595% |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
+| 17:00 | USD | Moderate | 20-Year Bond Auction | 4.542% |  | 4.595% |
 | 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
 | 20:00 | USD | Low | Overall Net Capital Flow (Jan) |  |  | 139.80B |
 | 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |

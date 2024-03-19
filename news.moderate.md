@@ -12,13 +12,13 @@
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.10% |  | 5.20% |
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
 | 12:30 | USD | Building Permits (Feb) | 1.518M | 1.500M | 1.489M |
-| 12:30 | USD | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
 | 12:30 | USD | Housing Starts (MoM) (Feb) | 10.7% |  | -12.3% |
+| 12:30 | USD | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
 | 12:30 | CAD | Core CPI (MoM) (Feb) | 0.1% |  | 0.1% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 12:30 | CAD | CPI (MoM) (Feb) | 0.3% | 0.6% | 0.0% |
-| 10 min | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
-| 40 min | USD | 20-Year Bond Auction |  |  | 4.595% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
+| 17:00 | USD | 20-Year Bond Auction | 4.542% |  | 4.595% |
 | 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
 | 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 0.077M | -5.521M |
