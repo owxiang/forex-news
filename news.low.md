@@ -11,10 +11,10 @@
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) |  |  | 5.30% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Spanish Consumer Confidence |  |  | 78.6 |
-| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
 | 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
-| 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.20% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
 | 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 4.30% |
+| 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.20% |
 | 12:30 | USD | Building Permits (MoM) (Feb) |  |  | -0.3% |
 | 12:30 | CAD | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:30 | CAD | CPI (YoY) (Feb) |  | 3.1% | 2.9% |

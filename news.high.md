@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.00% | -0.10% |
+| 39 min | JPY | BoJ Interest Rate Decision |  | 0.00% | -0.10% |
 | 03:30 | AUD | RBA Interest Rate Decision (Mar) |  | 4.35% | 4.35% |
