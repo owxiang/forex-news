@@ -11,24 +11,24 @@
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Feb) | 3.662B | 3.500B | 4.701B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 11 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.391% |
-| 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
-| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |
-| 10:00 | CNY | Low | FDI |  |  | -11.70% |
-| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) |  |  | 5.30% |
-| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 25.4 | 25.0 |
+| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 45 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.391% |
+| 45 min | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
+| 45 min | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |
+| 45 min | CNY | Low | FDI |  |  | -11.70% |
+| 45 min | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
+| 45 min | EUR | Low | Labor Cost Index (YoY) (Q4) |  |  | 5.30% |
+| 45 min | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 25.4 | 25.0 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Low | Spanish Consumer Confidence |  |  | 78.6 |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
+| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 4.30% |
+| 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.500M | 1.489M |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.3% |
-| 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.430M | 1.331M |
 | 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -14.8% |
+| 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.430M | 1.331M |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.4% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.1% |
