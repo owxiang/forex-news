@@ -7,13 +7,13 @@
 | 04:30 | JPY | Industrial Production (MoM) (Jan) | -6.7% | -7.5% | 1.2% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 45 min | EUR | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
-| 45 min | EUR | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |
-| 45 min | EUR | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
-| 45 min | EUR | ZEW Economic Sentiment (Mar) |  | 25.4 | 25.0 |
+| 10:00 | EUR | German ZEW Current Conditions (Mar) | -80.5 | -82.0 | -81.7 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) | 31.7 | 20.6 | 19.9 |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.10% |  | 5.20% |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
 | 12:30 | USD | Building Permits (Feb) |  | 1.500M | 1.489M |
-| 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | USD | Housing Starts (Feb) |  | 1.430M | 1.331M |
+| 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) |  |  | 2.4% |
 | 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.1% |
 | 12:30 | CAD | CPI (MoM) (Feb) |  | 0.6% | 0.0% |

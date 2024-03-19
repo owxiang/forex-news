@@ -5,35 +5,34 @@
 | 03:30 | AUD | High | RBA Interest Rate Decision (Mar) | 4.35% | 4.35% | 4.35% |
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 03:35 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:35 | JPY | High | BoJ Interest Rate Decision | 0.00% | 0.00% | -0.10% |
+| 03:35 | JPY | High | BoJ Interest Rate Decision | 0.10% | 0.10% | -0.10% |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) | -7.9% | -0.1% | 0.2% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) | -6.7% | -7.5% | 1.2% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Feb) | 3.662B | 3.500B | 4.701B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 45 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.391% |
-| 45 min | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
-| 45 min | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |
-| 45 min | CNY | Low | FDI |  |  | -11.70% |
-| 45 min | EUR | Moderate | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
-| 45 min | EUR | Low | Labor Cost Index (YoY) (Q4) |  |  | 5.30% |
-| 45 min | EUR | Moderate | ZEW Economic Sentiment (Mar) |  | 25.4 | 25.0 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction | 4.467% |  | 4.391% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) | -80.5 | -82.0 | -81.7 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) | 31.7 | 20.6 | 19.9 |
+| 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 3.10% |  | 5.20% |
+| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.40% |  | 5.20% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
+| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:30 | EUR | Low | Spanish Consumer Confidence |  |  | 78.6 |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 4.30% |
+| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 4.30% |
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.500M | 1.489M |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.3% |
-| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.430M | 1.331M |
+| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.4% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.1% |
-| 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 3.1% | 2.9% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.0% |
+| 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 3.1% | 2.9% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 3.3% | 3.3% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
