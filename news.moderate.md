@@ -1,14 +1,27 @@
-## 18 March 2024 - Moderate Impact Forex News
+## 19 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | CNY | Fixed Asset Investment (YoY) (Feb) | 4.2% | 3.2% | 3.0% |
-| 02:00 | CNY | Industrial Production (YoY) (Feb) | 7.0% | 5.3% | 6.8% |
-| 02:00 | CNY | Chinese Industrial Production YTD (YoY) (Feb) | 7.0% |  | 4.6% |
-| 02:00 | CNY | Chinese Unemployment Rate (Jan) | 5.3% | 5.1% | 5.1% |
-| 02:00 | CNY | NBS Press Conference |  |  |  |
-| 10:00 | EUR | Core CPI (YoY) (Feb) | 3.1% | 3.1% | 3.3% |
-| 10:00 | EUR | CPI (MoM) (Feb) | 0.6% | 0.6% | -0.4% |
-| 10:00 | EUR | Trade Balance (Jan) | 11.4B |  | 16.8B |
-| 10:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 12:30 | CAD | RMPI (MoM) (Feb) | 2.1% | 0.8% | 1.2% |
+| 02:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 03:30 | AUD | RBA Rate Statement |  |  |  |
+| 04:30 | JPY | Industrial Production (MoM) (Jan) |  | -7.5% | 1.4% |
+| 06:30 | JPY | BoJ Press Conference |  |  |  |
+| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | EUR | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
+| 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 25.4 | 25.0 |
+| 12:30 | USD | Building Permits (Feb) |  | 1.500M | 1.489M |
+| 12:30 | USD | Housing Starts (Feb) |  | 1.435M | 1.331M |
+| 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -14.8% |
+| 12:30 | CAD | Core CPI (YoY) (Feb) |  |  | 2.4% |
+| 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.1% |
+| 12:30 | CAD | CPI (MoM) (Feb) |  | 0.6% | 0.0% |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
+| 17:00 | USD | 20-Year Bond Auction |  |  | 4.595% |
+| 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
+| 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
+| 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
+| 20:30 | USD | API Weekly Crude Oil Stock |  |  | -5.521M |
+| 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -30.58B |
+| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -7.89B | -11.47B |

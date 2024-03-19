@@ -1,5 +1,6 @@
-## 18 March 2024 - High Impact Forex News
+## 19 March 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10:00 | EUR | CPI (YoY) (Feb) | 2.6% | 2.6% | 2.8% |
+| 03:00 | JPY | BoJ Interest Rate Decision |  | 0.00% | -0.10% |
+| 03:30 | AUD | RBA Interest Rate Decision (Mar) |  | 4.35% | 4.35% |

@@ -1,35 +1,30 @@
-## 18 March 2024 - Low Impact Forex News
+## 19 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 1.5% |  | 0.9% |
-| 00:30 | SGD | Non-Oil Exports (MoM) (Feb) | -4.80% | -0.40% | 2.20% |
-| 00:30 | SGD | Non-Oil Exports (YoY) (Feb) | -0.10% | 4.70% | 16.70% |
-| 00:30 | SGD | Trade Balance | 5.968B |  | 7.423B |
-| 02:00 | CNY | Retail Sales (YoY) (Feb) | 5.5% | 5.6% | 7.4% |
-| 02:00 | CNY | Chinese Retail Sales YTD (YoY) (Feb) | 5.50% |  | 7.22% |
-| 02:00 | NZD | RBNZ Offshore Holdings (Feb) | 58.70% |  | 57.70% |
-| 08:30 | HKD | Unemployment Rate (Feb) | 2.9% |  | 2.9% |
-| 09:35 | GBP | Rightmove House Price Index (YoY) (Mar) | 0.8% |  | 0.1% |
-| 10:00 | EUR | Core CPI (MoM) (Feb) | 0.7% | 0.7% | -0.9% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (Feb) | 2.5% |  | 2.7% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Feb) | 0.6% |  | -0.4% |
-| 10:00 | EUR | CPI, n.s.a | 124.40 | 124.37 | 123.60 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Feb) | 3.3% | 3.3% | 3.6% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Feb) | 0.6% | 0.6% | -0.6% |
-| 10:30 | EUR | German 12-Month Bubill Auction | 3.428% |  | 3.359% |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Mar) | -0.2% |  | -0.7% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:00 | BRL | IBC-Br Economic Activity (Jan) | 0.60% | 0.26% | 0.82% |
-| 12:30 | CAD | IPPI (YoY) (Feb) | -1.7% |  | -2.9% |
-| 12:30 | CAD | IPPI (MoM) (Feb) | 0.7% | 0.0% | -0.1% |
-| 12:30 | CAD | RMPI (YoY) (Feb) | -4.7% |  | -6.5% |
-| 14:00 | USD | NAHB Housing Market Index (Mar) | 51 | 48 | 48 |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.526% |  | 3.450% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.796% |  | 3.813% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.775% |  | 3.747% |
-| 15:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
-| 15:30 | USD | 6-Month Bill Auction | 5.130% |  | 5.100% |
-| 39 min | KRW | Exports (YoY) (Feb) |  |  | 4.8% |
-| 39 min | KRW | Imports (YoY) (Feb) |  |  | -13.1% |
-| 39 min | KRW | Trade Balance (Feb) |  |  | 4.30B |
+| 04:30 | JPY | Capacity Utilization (MoM) (Jan) |  | -0.1% | -0.1% |
+| 07:00 | CHF | Trade Balance (Feb) |  | 3.500B | 4.738B |
+| 07:30 | CNY | FDI |  |  | -11.70% |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.391% |
+| 10:00 | EUR | Spanish Trade Balance (Jan) |  |  | -3.40B |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q4) |  |  | 5.30% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:30 | EUR | Spanish Consumer Confidence |  |  | 78.6 |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
+| 12:00 | MXN | Private Spending (QoQ) (Q4) |  |  | 1.20% |
+| 12:00 | MXN | Private Spending (YoY) (Q4) |  |  | 4.30% |
+| 12:30 | USD | Building Permits (MoM) (Feb) |  |  | -0.3% |
+| 12:30 | CAD | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
+| 12:30 | CAD | CPI (YoY) (Feb) |  | 3.1% | 2.9% |
+| 12:30 | CAD | Median CPI (YoY) (Feb) |  | 3.3% | 3.3% |
+| 12:30 | CAD | Trimmed CPI (YoY) (Feb) |  | 3.4% | 3.4% |
+| 12:55 | USD | Redbook (YoY) |  |  | 3.0% |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.3% |
+| 15:00 | USD | Milk Auctions |  |  | 3,630.0 |
+| 15:30 | USD | 52-Week Bill Auction |  |  | 4.695% |
+| 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
+| 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 139.80B |
+| 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
+| 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -7.60% |
