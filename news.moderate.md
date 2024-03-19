@@ -12,8 +12,8 @@
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.10% |  | 5.20% |
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
 | 12:30 | USD | Building Permits (Feb) | 1.518M | 1.500M | 1.489M |
-| 12:30 | USD | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
 | 12:30 | USD | Housing Starts (MoM) (Feb) | 10.7% |  | -12.3% |
+| 12:30 | USD | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
 | 12:30 | CAD | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 12:30 | CAD | Core CPI (MoM) (Feb) | 0.1% |  | 0.1% |
 | 12:30 | CAD | CPI (MoM) (Feb) | 0.3% | 0.6% | 0.0% |
@@ -21,6 +21,6 @@
 | 17:00 | USD | 20-Year Bond Auction | 4.542% |  | 4.595% |
 | 20:00 | USD | TIC Net Long-Term Transactions (Jan) | 36.1B | 95.5B | 158.6B |
 | 20:00 | NZD | Westpac Consumer Sentiment | 93.2 |  | 88.9 |
-| 13 min | USD | API Weekly Crude Oil Stock |  | 0.077M | -5.521M |
-| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
-| 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -30.58B |
+| 20:30 | USD | API Weekly Crude Oil Stock | -1.519M | 0.077M | -5.521M |
+| 31 min | NZD | Current Account (YoY) (Q4) |  |  | -30.58B |
+| 31 min | NZD | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
