@@ -21,8 +21,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) | 0.30% |  | 0.00% |
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) | 2.60% |  | 2.70% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 5.10% |  | 4.30% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) | 0.90% |  | 1.20% |
+| 12:00 | MXN | Low | Private Spending (YoY) (Q4) | 5.10% |  | 4.30% |
 | 12:00 | NZD | Low | GlobalDairyTrade Price Index | -2.8% |  | -2.3% |
 | 12:00 | USD | Low | Milk Auctions | 3,497.0 |  | 3,630.0 |
 | 12:30 | USD | Moderate | Building Permits (Feb) | 1.518M | 1.500M | 1.489M |
@@ -40,11 +40,11 @@
 | 15:30 | USD | Low | 52-Week Bill Auction | 4.810% |  | 4.695% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction | 4.542% |  | 4.595% |
-| 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
-| 20:00 | USD | Low | Overall Net Capital Flow (Jan) |  |  | 139.80B |
-| 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
-| 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
-| 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
+| 46 min | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
+| 46 min | USD | Low | Overall Net Capital Flow (Jan) |  |  | 139.80B |
+| 46 min | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
+| 46 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
+| 46 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.077M | -5.521M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -30.58B |

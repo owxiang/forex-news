@@ -19,8 +19,8 @@
 | 12:30 | CAD | CPI (MoM) (Feb) | 0.3% | 0.6% | 0.0% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
 | 17:00 | USD | 20-Year Bond Auction | 4.542% |  | 4.595% |
-| 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
-| 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
+| 46 min | USD | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
+| 46 min | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
 | 20:30 | USD | API Weekly Crude Oil Stock |  | 0.077M | -5.521M |
 | 21:45 | NZD | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
 | 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -30.58B |
