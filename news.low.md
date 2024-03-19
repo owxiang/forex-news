@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11 min | JPY | Capacity Utilization (MoM) (Jan) |  | -0.1% | -0.1% |
+| 04:30 | JPY | Capacity Utilization (MoM) (Jan) | -7.9% | -0.1% | 0.2% |
 | 07:00 | CHF | Trade Balance (Feb) |  | 3.500B | 4.738B |
 | 07:30 | CNY | FDI |  |  | -11.70% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |

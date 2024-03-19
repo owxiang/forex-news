@@ -6,8 +6,8 @@
 | 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 03:35 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:35 | JPY | High | BoJ Interest Rate Decision | 0.00% | 0.00% | -0.10% |
-| 11 min | JPY | Low | Capacity Utilization (MoM) (Jan) |  | -0.1% | -0.1% |
-| 11 min | JPY | Moderate | Industrial Production (MoM) (Jan) |  | -7.5% | 1.4% |
+| 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) | -7.9% | -0.1% | 0.2% |
+| 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) | -6.7% | -7.5% | 1.4% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Feb) |  | 3.500B | 4.738B |
 | 07:30 | CNY | Low | FDI |  |  | -11.70% |
@@ -25,13 +25,13 @@
 | 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
 | 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 4.30% |
-| 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.3% |
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.500M | 1.489M |
+| 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.3% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.430M | 1.331M |
 | 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
-| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.1% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.4% |
+| 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.1% |
 | 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 3.1% | 2.9% |
 | 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.0% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 3.3% | 3.3% |
@@ -48,6 +48,6 @@
 | 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
 | 20:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -5.521M |
-| 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -30.58B |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
+| 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -30.58B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -7.60% |
