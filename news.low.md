@@ -8,17 +8,16 @@
 | 10:00 | GBP | 20-Year Treasury Gilt Auction | 4.467% |  | 4.391% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) | 3.40% |  | 5.20% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 16 min | EUR | Spanish Consumer Confidence |  |  | 78.6 |
-| 46 min | MXN | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
-| 46 min | MXN | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
-| 46 min | MXN | Private Spending (QoQ) (Q4) |  |  | 1.20% |
-| 46 min | MXN | Private Spending (YoY) (Q4) |  |  | 4.30% |
+| 12:00 | MXN | Aggregate Demand (YoY) (Q4) | 2.60% |  | 2.70% |
+| 12:00 | MXN | Aggregate Demand (QoQ) (Q4) | 0.30% |  | 0.00% |
+| 12:00 | MXN | Private Spending (YoY) (Q4) | 5.10% |  | 4.30% |
+| 12:00 | MXN | Private Spending (QoQ) (Q4) | 0.90% |  | 1.20% |
 | 12:30 | USD | Building Permits (MoM) (Feb) |  |  | -0.3% |
 | 12:30 | CAD | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:30 | CAD | CPI (YoY) (Feb) |  | 3.1% | 2.9% |
 | 12:30 | CAD | Median CPI (YoY) (Feb) |  | 3.3% | 3.3% |
 | 12:30 | CAD | Trimmed CPI (YoY) (Feb) |  | 3.4% | 3.4% |
-| 12:55 | USD | Redbook (YoY) |  |  | 3.0% |
+| 26 min | USD | Redbook (YoY) |  |  | 3.0% |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.3% |
 | 15:00 | USD | Milk Auctions |  |  | 3,630.0 |
 | 15:30 | USD | 52-Week Bill Auction |  |  | 4.695% |
