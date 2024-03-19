@@ -18,12 +18,12 @@
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q4) | 3.10% |  | 5.20% |
 | 10:00 | EUR | Low | Labor Cost Index (YoY) (Q4) | 3.40% |  | 5.20% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
-| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:30 | EUR | Low | Spanish Consumer Confidence |  |  | 78.6 |
-| 12:00 | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
-| 12:00 | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
-| 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
-| 12:00 | MXN | Low | Private Spending (YoY) (Q4) |  |  | 4.30% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 16 min | EUR | Low | Spanish Consumer Confidence |  |  | 78.6 |
+| 46 min | MXN | Low | Aggregate Demand (QoQ) (Q4) |  |  | 0.00% |
+| 46 min | MXN | Low | Aggregate Demand (YoY) (Q4) |  |  | 2.70% |
+| 46 min | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
+| 46 min | MXN | Low | Private Spending (YoY) (Q4) |  |  | 4.30% |
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.500M | 1.489M |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.3% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.430M | 1.331M |
@@ -31,8 +31,8 @@
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.4% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.1% |
-| 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.0% |
 | 12:30 | CAD | Low | CPI (YoY) (Feb) |  | 3.1% | 2.9% |
+| 12:30 | CAD | Moderate | CPI (MoM) (Feb) |  | 0.6% | 0.0% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) |  | 3.3% | 3.3% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:55 | USD | Low | Redbook (YoY) |  |  | 3.0% |
