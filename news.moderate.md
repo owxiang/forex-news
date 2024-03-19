@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:15 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 13 min | AUD | RBA Rate Statement |  |  |  |
-| 04:30 | JPY | Industrial Production (MoM) (Jan) |  | -7.5% | 1.4% |
+| 03:30 | AUD | RBA Rate Statement |  |  |  |
+| 03:35 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 11 min | JPY | Industrial Production (MoM) (Jan) |  | -7.5% | 1.4% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
@@ -12,7 +12,7 @@
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
 | 10:00 | EUR | ZEW Economic Sentiment (Mar) |  | 25.4 | 25.0 |
 | 12:30 | USD | Building Permits (Feb) |  | 1.500M | 1.489M |
-| 12:30 | USD | Housing Starts (Feb) |  | 1.435M | 1.331M |
+| 12:30 | USD | Housing Starts (Feb) |  | 1.430M | 1.331M |
 | 12:30 | USD | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | CAD | Core CPI (MoM) (Feb) |  |  | 0.1% |
 | 12:30 | CAD | Core CPI (YoY) (Feb) |  |  | 2.4% |
@@ -21,7 +21,6 @@
 | 17:00 | USD | 20-Year Bond Auction |  |  | 4.595% |
 | 20:00 | USD | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
 | 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
-| 20:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
 | 20:30 | USD | API Weekly Crude Oil Stock |  |  | -5.521M |
-| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -7.89B | -11.47B |
 | 21:45 | NZD | Current Account (YoY) (Q4) |  |  | -30.58B |
+| 21:45 | NZD | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
