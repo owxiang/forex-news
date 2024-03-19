@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 04:30 | JPY | Capacity Utilization (MoM) (Jan) | -7.9% | -0.1% | 0.2% |
 | 07:00 | CHF | Trade Balance (Feb) | 3.662B | 3.500B | 4.701B |
-| 44 min | CHF | SECO Economic Forecasts |  |  |  |
+| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.391% |
 | 10:00 | CNY | FDI |  |  | -11.70% |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q4) |  |  | 5.30% |

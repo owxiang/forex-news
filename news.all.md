@@ -10,8 +10,8 @@
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) | -6.7% | -7.5% | 1.2% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:00 | CHF | Low | Trade Balance (Feb) | 3.662B | 3.500B | 4.701B |
-| 44 min | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 11 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.391% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |

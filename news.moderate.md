@@ -6,7 +6,7 @@
 | 03:35 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 04:30 | JPY | Industrial Production (MoM) (Jan) | -6.7% | -7.5% | 1.2% |
 | 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 11 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | German ZEW Current Conditions (Mar) |  | -82.0 | -81.7 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Mar) |  | 20.6 | 19.9 |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q4) |  |  | 5.30% |
