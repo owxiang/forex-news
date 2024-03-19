@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 9 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 39 min | JPY | High | BoJ Interest Rate Decision |  | 0.00% | -0.10% |
-| 03:30 | AUD | High | RBA Interest Rate Decision (Mar) |  | 4.35% | 4.35% |
-| 03:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 03:15 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 03:15 | JPY | High | BoJ Interest Rate Decision |  | -0.10% | -0.10% |
+| 13 min | AUD | High | RBA Interest Rate Decision (Mar) |  | 4.35% | 4.35% |
+| 13 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 04:30 | JPY | Low | Capacity Utilization (MoM) (Jan) |  | -0.1% | -0.1% |
 | 04:30 | JPY | Moderate | Industrial Production (MoM) (Jan) |  | -7.5% | 1.4% |
 | 06:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
@@ -28,8 +28,8 @@
 | 12:00 | MXN | Low | Private Spending (QoQ) (Q4) |  |  | 1.20% |
 | 12:30 | USD | Moderate | Building Permits (Feb) |  | 1.500M | 1.489M |
 | 12:30 | USD | Low | Building Permits (MoM) (Feb) |  |  | -0.3% |
-| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | USD | Moderate | Housing Starts (Feb) |  | 1.435M | 1.331M |
+| 12:30 | USD | Moderate | Housing Starts (MoM) (Feb) |  |  | -14.8% |
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) |  | 3.4% | 3.4% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) |  |  | 0.1% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) |  |  | 2.4% |
