@@ -20,7 +20,7 @@
 | 12:30 | CAD | Median CPI (YoY) (Feb) | 3.1% | 3.3% | 3.3% |
 | 12:30 | CAD | Trimmed CPI (YoY) (Feb) | 3.2% | 3.4% | 3.4% |
 | 12:55 | USD | Redbook (YoY) | 3.4% |  | 3.0% |
-| 13 min | USD | 52-Week Bill Auction |  |  | 4.695% |
+| 15:30 | USD | 52-Week Bill Auction | 4.810% |  | 4.695% |
 | 20:00 | USD | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
 | 20:00 | USD | Overall Net Capital Flow (Jan) |  |  | 139.80B |
 | 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
