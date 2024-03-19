@@ -32,20 +32,20 @@
 | 12:30 | CAD | Low | Common CPI (YoY) (Feb) | 3.1% | 3.4% | 3.3% |
 | 12:30 | CAD | Moderate | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
 | 12:30 | CAD | Moderate | Core CPI (MoM) (Feb) | 0.1% |  | 0.1% |
-| 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 0.3% | 0.6% | 0.0% |
 | 12:30 | CAD | Low | CPI (YoY) (Feb) | 2.8% | 3.1% | 2.9% |
+| 12:30 | CAD | Moderate | CPI (MoM) (Feb) | 0.3% | 0.6% | 0.0% |
 | 12:30 | CAD | Low | Median CPI (YoY) (Feb) | 3.1% | 3.3% | 3.3% |
 | 12:30 | CAD | Low | Trimmed CPI (YoY) (Feb) | 3.2% | 3.4% | 3.4% |
 | 12:55 | USD | Low | Redbook (YoY) | 3.4% |  | 3.0% |
 | 15:30 | USD | Low | 52-Week Bill Auction | 4.810% |  | 4.695% |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
 | 17:00 | USD | Moderate | 20-Year Bond Auction | 4.542% |  | 4.595% |
-| 46 min | USD | Low | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
-| 46 min | USD | Low | Overall Net Capital Flow (Jan) |  |  | 139.80B |
-| 46 min | USD | Moderate | TIC Net Long-Term Transactions (Jan) |  | 95.5B | 160.2B |
-| 46 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
-| 46 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.077M | -5.521M |
+| 20:00 | USD | Low | US Foreign Buying, T-bonds (Jan) | 67.80B |  | 33.80B |
+| 20:00 | USD | Low | Overall Net Capital Flow (Jan) | -8.80B |  | 137.40B |
+| 20:00 | USD | Moderate | TIC Net Long-Term Transactions (Jan) | 36.1B | 95.5B | 158.6B |
+| 20:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Jan) | 36.10B |  | 158.60B |
+| 20:00 | NZD | Moderate | Westpac Consumer Sentiment | 93.2 |  | 88.9 |
+| 13 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.077M | -5.521M |
 | 21:45 | NZD | Moderate | Current Account (QoQ) (Q4) |  | -7.79B | -11.47B |
 | 21:45 | NZD | Moderate | Current Account (YoY) (Q4) |  |  | -30.58B |
 | 21:45 | NZD | Low | Current Account % of GDP (Q4) |  |  | -7.60% |

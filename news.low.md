@@ -21,7 +21,7 @@
 | 12:30 | CAD | Trimmed CPI (YoY) (Feb) | 3.2% | 3.4% | 3.4% |
 | 12:55 | USD | Redbook (YoY) | 3.4% |  | 3.0% |
 | 15:30 | USD | 52-Week Bill Auction | 4.810% |  | 4.695% |
-| 46 min | USD | US Foreign Buying, T-bonds (Jan) |  |  | 33.80B |
-| 46 min | USD | Overall Net Capital Flow (Jan) |  |  | 139.80B |
-| 46 min | USD | TIC Net Long-Term Transactions including Swaps (Jan) |  |  | 160.20B |
+| 20:00 | USD | US Foreign Buying, T-bonds (Jan) | 67.80B |  | 33.80B |
+| 20:00 | USD | Overall Net Capital Flow (Jan) | -8.80B |  | 137.40B |
+| 20:00 | USD | TIC Net Long-Term Transactions including Swaps (Jan) | 36.10B |  | 158.60B |
 | 21:45 | NZD | Current Account % of GDP (Q4) |  |  | -7.60% |
