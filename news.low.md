@@ -3,24 +3,24 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 07:00 | GBP | Core CPI (MoM) (Feb) | 0.6% | 0.7% | -0.9% |
 | 07:00 | GBP | Core CPI (YoY) (Feb) | 4.5% | 4.6% | 5.1% |
-| 07:00 | GBP | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
+| 07:00 | GBP | Core CPI (MoM) (Feb) | 0.6% | 0.7% | -0.9% |
 | 07:00 | GBP | Core PPI Output (YoY) (Feb) | 0.3% |  | -0.3% |
+| 07:00 | GBP | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
 | 07:00 | GBP | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
 | 07:00 | GBP | CPI, n.s.a (Feb) | 132.30 |  | 131.50 |
 | 07:00 | GBP | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
-| 07:00 | GBP | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
 | 07:00 | GBP | PPI Output (MoM) (Feb) | 0.3% | 0.1% | 0.0% |
+| 07:00 | GBP | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
 | 07:00 | GBP | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
 | 07:00 | GBP | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
 | 07:00 | EUR | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
 | 07:20 | IDR | Loans (YoY) (Feb) | 11.28% |  | 11.83% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) | 5.25% | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Mar) | 6.75% | 6.75% | 6.75% |
-| 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.2% | 1.1% | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 5.0% | 4.8% | 4.6% |
+| 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.2% | 1.1% | 0.3% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 1.0% | 0.9% | 0.1% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 5.6% | 5.5% | 5.3% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | -1.2% | -0.6% | 1.2% |
@@ -51,5 +51,5 @@
 | 21:45 | NZD | GDP Expenditure (QoQ) (Q4) | 0.0% |  | -0.4% |
 | 22:00 | AUD | Judo Bank Australia Manufacturing PMI | 46.8 |  | 47.8 |
 | 22:00 | AUD | Judo Bank Australia Services PMI | 53.5 |  | 53.1 |
-| 46 min | JPY | Reuters Tankan Index (Mar) |  |  | -1 |
-| 23:50 | JPY | Imports (YoY) (Feb) |  | 2.2% | -9.6% |
+| 23:00 | JPY | Reuters Tankan Index (Mar) |  |  | -1 |
+| 33 min | JPY | Imports (YoY) (Feb) |  | 2.2% | -9.6% |

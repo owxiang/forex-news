@@ -21,6 +21,6 @@
 | 18:00 | USD | Interest Rate Projection - Current (Q1) | 4.6% |  | 5.4% |
 | 18:00 | USD | Interest Rate Projection - Longer (Q1) | 2.6% |  | 2.5% |
 | 21:00 | BRL | Interest Rate Decision | 10.75% | 10.75% | 11.25% |
-| 23:50 | JPY | Adjusted Trade Balance |  | -0.83T | 0.24T |
-| 23:50 | JPY | Exports (YoY) (Feb) |  | 5.3% | 11.9% |
-| 23:50 | JPY | Trade Balance (Feb) |  | -810.2B | -1,758.3B |
+| 33 min | JPY | Adjusted Trade Balance |  | -0.83T | 0.24T |
+| 33 min | JPY | Exports (YoY) (Feb) |  | 5.3% | 11.9% |
+| 33 min | JPY | Trade Balance (Feb) |  | -810.2B | -1,758.3B |
