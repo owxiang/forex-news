@@ -10,8 +10,8 @@
 | 07:00 | GBP | PPI Input (MoM) (Feb) | -0.4% | 0.2% | -0.1% |
 | 07:00 | EUR | German PPI (MoM) (Feb) | -0.4% | -0.1% | 0.2% |
 | 07:30 | IDR | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
-| 26 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13 min | EUR | ECB's Lane Speaks |  |  |  |
 | 13:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 14:30 | USD | Cushing Crude Oil Inventories |  |  | -0.220M |
 | 15:30 | EUR | German Buba Balz Speaks |  |  |  |
