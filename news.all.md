@@ -6,35 +6,35 @@
 | 01:15 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.95% | 3.95% | 3.95% |
 | 01:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 04:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 4.5% | 4.6% | 5.1% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.6% | 0.7% | -0.9% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Feb) | 4.5% | 4.6% | 5.1% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) | 0.3% |  | -0.3% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
 | 07:00 | GBP | High | CPI (YoY) (Feb) | 3.4% | 3.5% | 4.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) | 132.30 |  | 131.50 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.8% |  | 4.2% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Feb) | -0.4% | 0.2% | -0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Feb) | 0.3% | 0.1% | -0.2% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Feb) | 0.3% | 0.1% | 0.0% |
 | 07:00 | GBP | Low | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Feb) | -0.4% | -0.1% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
-| 4 min | IDR | Low | Loans (YoY) (Feb) |  |  | 11.83% |
-| 14 min | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
-| 14 min | IDR | Low | Deposit Facility Rate (Mar) |  | 5.25% | 5.25% |
-| 14 min | IDR | Low | Lending Facility Rate (Mar) |  | 6.75% | 6.75% |
-| 44 min | ZAR | Low | Core CPI (YoY) (Feb) |  | 4.8% | 4.6% |
-| 44 min | ZAR | Low | Core CPI (MoM) (Feb) |  | 1.1% | 0.3% |
-| 44 min | ZAR | Low | CPI (YoY) (Feb) |  | 5.5% | 5.3% |
-| 44 min | ZAR | Low | CPI (MoM) (Feb) |  | 0.9% | 0.1% |
-| 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) |  |  | -2.1% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | -0.6% | 1.1% |
+| 07:20 | IDR | Low | Loans (YoY) (Feb) | 11.28% |  | 11.83% |
+| 07:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
+| 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.25% | 5.25% | 5.25% |
+| 07:30 | IDR | Low | Lending Facility Rate (Mar) | 6.75% | 6.75% | 6.75% |
+| 08:00 | ZAR | Low | Core CPI (MoM) (Feb) | 1.2% | 1.1% | 0.3% |
+| 08:00 | ZAR | Low | Core CPI (YoY) (Feb) | 5.0% | 4.8% | 4.6% |
+| 08:00 | ZAR | Low | CPI (MoM) (Feb) | 1.0% | 0.9% | 0.1% |
+| 08:00 | ZAR | Low | CPI (YoY) (Feb) | 5.6% | 5.5% | 5.3% |
+| 26 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 41 min | EUR | Low | Italian Industrial Production (YoY) (Jan) |  |  | -2.1% |
+| 41 min | EUR | Low | Italian Industrial Production (MoM) (Jan) |  | -0.6% | 1.1% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | -0.7% | -1.4% |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
