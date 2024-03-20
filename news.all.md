@@ -6,24 +6,24 @@
 | 01:15 | CNY | Moderate | China Loan Prime Rate 5Y (Mar) | 3.95% | 3.95% | 3.95% |
 | 01:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 04:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 07:00 | GBP | Low | Core CPI (YoY) (Feb) |  | 4.6% | 5.1% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) |  |  | -0.4% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Feb) |  |  | -0.4% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Feb) |  |  | 3.8% |
-| 07:00 | GBP | High | CPI (YoY) (Feb) |  | 3.5% | 4.0% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
-| 07:00 | GBP | Low | CPI, n.s.a (Feb) |  |  | 131.50 |
-| 07:00 | GBP | Moderate | CPIH (YoY) |  |  | 4.2% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Feb) |  | -2.7% | -3.3% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Feb) |  | 0.2% | -0.8% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Feb) |  | 0.1% | -0.2% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Feb) |  | -0.1% | -0.6% |
-| 07:00 | GBP | Low | RPI (YoY) (Feb) |  | 4.5% | 4.9% |
-| 07:00 | GBP | Low | RPI (MoM) (Feb) |  | 0.7% | -0.3% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Feb) |  | -0.1% | 0.2% |
-| 07:00 | EUR | Low | German PPI (YoY) (Feb) |  | -3.8% | -4.4% |
+| 40 min | GBP | Low | Core CPI (YoY) (Feb) |  | 4.6% | 5.1% |
+| 40 min | GBP | Low | Core CPI (MoM) (Feb) |  | 0.7% | -0.9% |
+| 40 min | GBP | Low | Core PPI Output (YoY) (Feb) |  |  | -0.4% |
+| 40 min | GBP | Low | Core PPI Output (MoM) (Feb) |  |  | 0.2% |
+| 40 min | GBP | Low | Core RPI (YoY) (Feb) |  |  | 3.8% |
+| 40 min | GBP | Low | Core RPI (MoM) (Feb) |  |  | -0.4% |
+| 40 min | GBP | High | CPI (YoY) (Feb) |  | 3.5% | 4.0% |
+| 40 min | GBP | Moderate | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
+| 40 min | GBP | Low | CPI, n.s.a (Feb) |  |  | 131.50 |
+| 40 min | GBP | Moderate | CPIH (YoY) |  |  | 4.2% |
+| 40 min | GBP | Low | PPI Input (YoY) (Feb) |  | -2.7% | -3.3% |
+| 40 min | GBP | Moderate | PPI Input (MoM) (Feb) |  | 0.2% | -0.8% |
+| 40 min | GBP | Low | PPI Output (YoY) (Feb) |  | -0.1% | -0.6% |
+| 40 min | GBP | Low | PPI Output (MoM) (Feb) |  | 0.1% | -0.2% |
+| 40 min | GBP | Low | RPI (YoY) (Feb) |  | 4.5% | 4.9% |
+| 40 min | GBP | Low | RPI (MoM) (Feb) |  | 0.7% | -0.3% |
+| 40 min | EUR | Moderate | German PPI (MoM) (Feb) |  | -0.1% | 0.2% |
+| 40 min | EUR | Low | German PPI (YoY) (Feb) |  | -3.8% | -4.4% |
 | 07:20 | IDR | Low | Loans (YoY) (Feb) |  |  | 11.83% |
 | 07:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) |  | 5.25% | 5.25% |

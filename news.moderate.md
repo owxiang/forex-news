@@ -5,10 +5,10 @@
 | 01:15 | CNY | China Loan Prime Rate 5Y (Mar) | 3.95% | 3.95% | 3.95% |
 | 01:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 04:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
-| 07:00 | GBP | CPIH (YoY) |  |  | 4.2% |
-| 07:00 | GBP | PPI Input (MoM) (Feb) |  | 0.2% | -0.8% |
-| 07:00 | EUR | German PPI (MoM) (Feb) |  | -0.1% | 0.2% |
+| 40 min | GBP | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
+| 40 min | GBP | CPIH (YoY) |  |  | 4.2% |
+| 40 min | GBP | PPI Input (MoM) (Feb) |  | 0.2% | -0.8% |
+| 40 min | EUR | German PPI (MoM) (Feb) |  | -0.1% | 0.2% |
 | 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
 | 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:30 | EUR | ECB's Lane Speaks |  |  |  |
