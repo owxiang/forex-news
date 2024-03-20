@@ -16,12 +16,12 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) | 132.30 |  | 131.50 |
 | 07:00 | GBP | Moderate | CPIH (YoY) | 3.8% |  | 4.2% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Feb) | -0.4% | 0.2% | -0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Feb) | 0.3% | 0.1% | 0.0% |
-| 07:00 | GBP | Low | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
+| 07:00 | GBP | Low | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Feb) | -0.4% | -0.1% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
 | 07:20 | IDR | Low | Loans (YoY) (Feb) | 11.28% |  | 11.83% |
@@ -33,21 +33,20 @@
 | 08:00 | ZAR | Low | CPI (MoM) (Feb) | 1.0% | 0.9% | 0.1% |
 | 08:00 | ZAR | Low | CPI (YoY) (Feb) | 5.6% | 5.5% | 5.3% |
 | 08:45 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) | -1.2% | -0.6% | 1.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Jan) | -3.4% |  | -1.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) | -1.2% | -0.6% | 1.2% |
 | 09:30 | GBP | Low | House Price Index (YoY) | -0.6% | -0.7% | -2.2% |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 14 min | EUR | Low | German 30-Year Bund Auction |  |  | 2.530% |
-| 14 min | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
-| 14 min | EUR | Low | Construction Output (MoM) (Jan) |  |  | 0.80% |
-| 44 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.84% |
-| 44 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 7.1% |
-| 44 min | USD | Low | MBA Purchase Index |  |  | 147.7 |
-| 44 min | USD | Low | Mortgage Market Index |  |  | 201.5 |
-| 44 min | USD | Low | Mortgage Refinance Index |  |  | 480.3 |
-| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 44 min | ZAR | Low | Retail Sales (YoY) (Jan) |  | 1.5% | 2.7% |
-| 11:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jan) | 0.50% |  | 0.80% |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 6.84% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.6% |  | 7.1% |
+| 11:00 | USD | Low | MBA Purchase Index | 146.0 |  | 147.7 |
+| 11:00 | USD | Low | Mortgage Market Index | 198.2 |  | 201.5 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 468.4 |  | 480.3 |
+| 11:00 | EUR | Low | German 30-Year Bund Auction | 2.520% |  | 2.530% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | -2.1% | 1.5% | 3.2% |
+| 17 min | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 13:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 14:30 | USD | High | Crude Oil Inventories |  | -0.900M | -1.536M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.390M |
