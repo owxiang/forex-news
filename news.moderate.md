@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 7 min | CNY | China Loan Prime Rate 5Y (Mar) |  | 3.95% | 3.95% |
-| 7 min | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 01:15 | CNY | China Loan Prime Rate 5Y (Mar) | 3.95% | 3.95% | 3.95% |
+| 01:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 04:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
 | 07:00 | GBP | CPIH (YoY) |  |  | 4.2% |
