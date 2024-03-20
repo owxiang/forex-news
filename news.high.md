@@ -7,5 +7,5 @@
 | 18:00 | USD | FOMC Economic Projections |  |  |  |
 | 18:00 | USD | FOMC Statement |  |  |  |
 | 18:00 | USD | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 11 min | USD | FOMC Press Conference |  |  |  |
+| 18:30 | USD | FOMC Press Conference |  |  |  |
 | 21:45 | NZD | GDP (QoQ) (Q4) |  | 0.1% | -0.3% |
