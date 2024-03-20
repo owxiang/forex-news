@@ -1,26 +1,26 @@
-## 19 March 2024 - Moderate Impact Forex News
+## 20 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Rate Statement |  |  |  |
-| 03:35 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 04:30 | JPY | Industrial Production (MoM) (Jan) | -6.7% | -7.5% | 1.2% |
-| 06:30 | JPY | BoJ Press Conference |  |  |  |
-| 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | German ZEW Current Conditions (Mar) | -80.5 | -82.0 | -81.7 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Mar) | 31.7 | 20.6 | 19.9 |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q4) | 3.10% |  | 5.20% |
-| 10:00 | EUR | ZEW Economic Sentiment (Mar) | 33.5 | 25.4 | 25.0 |
-| 12:30 | USD | Building Permits (Feb) | 1.518M | 1.500M | 1.489M |
-| 12:30 | USD | Housing Starts (MoM) (Feb) | 10.7% |  | -12.3% |
-| 12:30 | USD | Housing Starts (Feb) | 1.521M | 1.430M | 1.374M |
-| 12:30 | CAD | Core CPI (YoY) (Feb) | 2.1% |  | 2.4% |
-| 12:30 | CAD | Core CPI (MoM) (Feb) | 0.1% |  | 0.1% |
-| 12:30 | CAD | CPI (MoM) (Feb) | 0.3% | 0.6% | 0.0% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 2.3% | 2.3% |
-| 17:00 | USD | 20-Year Bond Auction | 4.542% |  | 4.595% |
-| 20:00 | USD | TIC Net Long-Term Transactions (Jan) | 36.1B | 95.5B | 158.6B |
-| 20:00 | NZD | Westpac Consumer Sentiment | 93.2 |  | 88.9 |
-| 20:30 | USD | API Weekly Crude Oil Stock | -1.519M | 0.077M | -5.521M |
-| 21:45 | NZD | Current Account (YoY) (Q4) | -27.80B |  | -30.58B |
-| 21:45 | NZD | Current Account (QoQ) (Q4) | -7.84B | -7.79B | -11.47B |
+| 7 min | CNY | China Loan Prime Rate 5Y (Mar) |  | 3.95% | 3.95% |
+| 7 min | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 04:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Feb) |  | 0.7% | -0.6% |
+| 07:00 | GBP | CPIH (YoY) |  |  | 4.2% |
+| 07:00 | GBP | PPI Input (MoM) (Feb) |  | 0.2% | -0.8% |
+| 07:00 | EUR | German PPI (MoM) (Feb) |  | -0.1% | 0.2% |
+| 07:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
+| 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 09:30 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 14:30 | USD | Cushing Crude Oil Inventories |  |  | -0.220M |
+| 15:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 16:45 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 4.6% |
+| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.6% |
+| 18:00 | USD | Interest Rate Projection - Current (Q1) |  |  | 5.4% |
+| 18:00 | USD | Interest Rate Projection - Longer (Q1) |  |  | 2.5% |
+| 21:00 | BRL | Interest Rate Decision |  | 10.75% | 11.25% |
+| 23:50 | JPY | Adjusted Trade Balance |  | -0.83T | 0.24T |
+| 23:50 | JPY | Exports (YoY) (Feb) |  | 5.3% | 11.9% |
+| 23:50 | JPY | Trade Balance (Feb) |  | -810.2B | -1,758.3B |
