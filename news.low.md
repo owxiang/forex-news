@@ -45,7 +45,7 @@
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 1.9% |
 | 14:30 | USD | Gasoline Inventories | -3.310M | -1.350M | -5.662M |
 | 15:00 | EUR | Consumer Confidence (Mar) | -14.9 | -15.0 | -15.5 |
-| 17:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 17 min | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | GDP (YoY) (Q4) |  | 0.1% | -0.6% |
 | 21:45 | NZD | GDP Annual Average (Q4) |  |  | 1.3% |
 | 21:45 | NZD | GDP Expenditure (QoQ) (Q4) |  |  | -0.7% |

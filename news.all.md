@@ -60,15 +60,15 @@
 | 14:30 | USD | Low | Gasoline Inventories | -3.310M | -1.350M | -5.662M |
 | 15:00 | EUR | Low | Consumer Confidence (Mar) | -14.9 | -15.0 | -15.5 |
 | 15:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 23 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 4.6% |
-| 18:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.6% |
-| 18:00 | USD | Moderate | Interest Rate Projection - Current (Q1) |  |  | 5.4% |
-| 18:00 | USD | Moderate | Interest Rate Projection - Longer (Q1) |  |  | 2.5% |
-| 18:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 18:00 | USD | High | FOMC Statement |  |  |  |
-| 18:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 16:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 47 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 4.6% |
+| 47 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.6% |
+| 47 min | USD | Moderate | Interest Rate Projection - Current (Q1) |  |  | 5.4% |
+| 47 min | USD | Moderate | Interest Rate Projection - Longer (Q1) |  |  | 2.5% |
+| 47 min | USD | High | FOMC Economic Projections |  |  |  |
+| 47 min | USD | High | FOMC Statement |  |  |  |
+| 47 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 18:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:00 | BRL | Moderate | Interest Rate Decision |  | 10.75% | 11.25% |
 | 21:45 | NZD | High | GDP (QoQ) (Q4) |  | 0.1% | -0.3% |
