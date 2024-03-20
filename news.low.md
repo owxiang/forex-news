@@ -21,11 +21,12 @@
 | 07:30 | IDR | Lending Facility Rate (Mar) |  | 6.75% | 6.75% |
 | 08:00 | ZAR | Core CPI (MoM) (Feb) |  | 1.1% | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) |  | 4.8% | 4.6% |
-| 08:00 | ZAR | CPI (YoY) (Feb) |  | 5.5% | 5.3% |
 | 08:00 | ZAR | CPI (MoM) (Feb) |  | 0.9% | 0.1% |
+| 08:00 | ZAR | CPI (YoY) (Feb) |  | 5.5% | 5.3% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jan) |  |  | -2.1% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) |  | -0.6% | 1.1% |
 | 09:30 | GBP | House Price Index (YoY) |  | -0.7% | -1.4% |
+| 10:00 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
 | 10:00 | CNY | FDI |  |  | -11.70% |
 | 10:00 | EUR | Construction Output (MoM) (Jan) |  |  | 0.80% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.530% |
@@ -37,15 +38,14 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) |  | 1.5% | 2.7% |
 | 11:30 | INR | M3 Money Supply |  |  | 10.9% |
-| 11:30 | EUR | Spanish Consumer Confidence |  |  | 78.6 |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.390M |
 | 14:30 | USD | Crude Oil Imports |  |  | -0.241M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.217M |
-| 14:30 | USD | EIA Weekly Distillates Stocks |  | 0.077M | 0.888M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  | -0.087M | 0.888M |
 | 14:30 | USD | Gasoline Production |  |  | 0.285M |
 | 14:30 | USD | Heating Oil Stockpiles |  |  | 0.867M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
-| 14:30 | USD | Gasoline Inventories |  | -2.600M | -5.662M |
+| 14:30 | USD | Gasoline Inventories |  | -1.350M | -5.662M |
 | 15:00 | EUR | Consumer Confidence (Mar) |  | -15.0 | -15.5 |
 | 17:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | GDP (YoY) (Q4) |  | 0.1% | -0.6% |
