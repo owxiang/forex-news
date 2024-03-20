@@ -36,15 +36,15 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) | -2.1% | 1.5% | 3.2% |
 | 11:30 | INR | M3 Money Supply | 11.3% |  | 10.9% |
-| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.390M |
-| 15 min | USD | Crude Oil Imports |  |  | -0.241M |
-| 15 min | USD | Distillate Fuel Production |  |  | 0.217M |
-| 15 min | USD | EIA Weekly Distillates Stocks |  | -0.087M | 0.888M |
-| 15 min | USD | Gasoline Production |  |  | 0.285M |
-| 15 min | USD | Heating Oil Stockpiles |  |  | 0.867M |
-| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
-| 15 min | USD | Gasoline Inventories |  | -1.350M | -5.662M |
-| 45 min | EUR | Consumer Confidence (Mar) |  | -15.0 | -15.5 |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.127M |  | 0.390M |
+| 14:30 | USD | Crude Oil Imports | -0.947M |  | -0.241M |
+| 14:30 | USD | Distillate Fuel Production | 0.128M |  | 0.217M |
+| 14:30 | USD | EIA Weekly Distillates Stocks | 0.624M | -0.087M | 0.888M |
+| 14:30 | USD | Gasoline Production | -0.263M |  | 0.285M |
+| 14:30 | USD | Heating Oil Stockpiles | 0.486M |  | 0.867M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | 1.9% |
+| 14:30 | USD | Gasoline Inventories | -3.310M | -1.350M | -5.662M |
+| 15:00 | EUR | Consumer Confidence (Mar) | -14.9 | -15.0 | -15.5 |
 | 17:30 | CAD | BOC Summary of Deliberations |  |  |  |
 | 21:45 | NZD | GDP (YoY) (Q4) |  | 0.1% | -0.6% |
 | 21:45 | NZD | GDP Annual Average (Q4) |  |  | 1.3% |

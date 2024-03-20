@@ -13,8 +13,8 @@
 | 08:45 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:30 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 15 min | USD | Cushing Crude Oil Inventories |  |  | -0.220M |
-| 15:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 14:30 | USD | Cushing Crude Oil Inventories | -0.018M |  | -0.220M |
+| 13 min | EUR | German Buba Balz Speaks |  |  |  |
 | 16:45 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 4.6% |
 | 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.6% |
