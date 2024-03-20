@@ -5,14 +5,14 @@
 | 00:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 07:00 | GBP | Core CPI (YoY) (Feb) | 4.5% | 4.6% | 5.1% |
 | 07:00 | GBP | Core CPI (MoM) (Feb) | 0.6% | 0.7% | -0.9% |
-| 07:00 | GBP | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Feb) | 0.3% |  | -0.3% |
-| 07:00 | GBP | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
+| 07:00 | GBP | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
 | 07:00 | GBP | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
+| 07:00 | GBP | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
 | 07:00 | GBP | CPI, n.s.a (Feb) | 132.30 |  | 131.50 |
 | 07:00 | GBP | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
-| 07:00 | GBP | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
 | 07:00 | GBP | PPI Output (MoM) (Feb) | 0.3% | 0.1% | 0.0% |
+| 07:00 | GBP | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
 | 07:00 | GBP | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
 | 07:00 | GBP | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
 | 07:00 | EUR | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
@@ -23,8 +23,8 @@
 | 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.2% | 1.1% | 0.3% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 5.6% | 5.5% | 5.3% |
 | 08:00 | ZAR | CPI (MoM) (Feb) | 1.0% | 0.9% | 0.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -3.4% |  | -1.5% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | -1.2% | -0.6% | 1.2% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -3.4% |  | -1.5% |
 | 09:30 | GBP | House Price Index (YoY) | -0.6% | -0.7% | -2.2% |
 | 10:00 | EUR | Construction Output (MoM) (Jan) | 0.48% |  | 0.80% |
 | 11:00 | USD | MBA 30-Year Mortgage Rate | 6.97% |  | 6.84% |
