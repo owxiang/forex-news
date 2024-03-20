@@ -7,22 +7,22 @@
 | 07:00 | GBP | Core CPI (YoY) (Feb) | 4.5% | 4.6% | 5.1% |
 | 07:00 | GBP | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Feb) | 0.3% |  | -0.3% |
-| 07:00 | GBP | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
 | 07:00 | GBP | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
+| 07:00 | GBP | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
 | 07:00 | GBP | CPI, n.s.a (Feb) | 132.30 |  | 131.50 |
 | 07:00 | GBP | PPI Input (YoY) (Feb) | -2.7% | -2.7% | -2.8% |
 | 07:00 | GBP | PPI Output (YoY) (Feb) | 0.4% | -0.1% | -0.3% |
 | 07:00 | GBP | PPI Output (MoM) (Feb) | 0.3% | 0.1% | 0.0% |
-| 07:00 | GBP | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
 | 07:00 | GBP | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
+| 07:00 | GBP | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
 | 07:00 | EUR | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
 | 07:20 | IDR | Loans (YoY) (Feb) | 11.28% |  | 11.83% |
 | 07:30 | IDR | Deposit Facility Rate (Mar) | 5.25% | 5.25% | 5.25% |
 | 07:30 | IDR | Lending Facility Rate (Mar) | 6.75% | 6.75% | 6.75% |
 | 08:00 | ZAR | Core CPI (MoM) (Feb) | 1.2% | 1.1% | 0.3% |
 | 08:00 | ZAR | Core CPI (YoY) (Feb) | 5.0% | 4.8% | 4.6% |
-| 08:00 | ZAR | CPI (MoM) (Feb) | 1.0% | 0.9% | 0.1% |
 | 08:00 | ZAR | CPI (YoY) (Feb) | 5.6% | 5.5% | 5.3% |
+| 08:00 | ZAR | CPI (MoM) (Feb) | 1.0% | 0.9% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Jan) | -3.4% |  | -1.5% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Jan) | -1.2% | -0.6% | 1.2% |
 | 09:30 | GBP | House Price Index (YoY) | -0.6% | -0.7% | -2.2% |
@@ -35,7 +35,7 @@
 | 11:00 | EUR | German 30-Year Bund Auction | 2.520% |  | 2.530% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Retail Sales (YoY) (Jan) | -2.1% | 1.5% | 3.2% |
-| 17 min | INR | M3 Money Supply |  |  | 10.9% |
+| 11:30 | INR | M3 Money Supply | 11.3% |  | 10.9% |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.390M |
 | 14:30 | USD | Crude Oil Imports |  |  | -0.241M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.217M |
