@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | GBP | CPI (YoY) (Feb) |  | 3.5% | 4.0% |
+| 07:00 | GBP | CPI (YoY) (Feb) | 3.4% | 3.5% | 4.0% |
 | 14:30 | USD | Crude Oil Inventories |  | -0.900M | -1.536M |
 | 18:00 | USD | FOMC Economic Projections |  |  |  |
 | 18:00 | USD | FOMC Statement |  |  |  |
