@@ -10,8 +10,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Feb) | 0.6% | 0.7% | -0.9% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Feb) | 0.3% |  | -0.3% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Feb) | 0.2% |  | 0.3% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Feb) | 3.5% |  | 3.8% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Feb) | 0.7% |  | -0.4% |
 | 07:00 | GBP | High | CPI (YoY) (Feb) | 3.4% | 3.5% | 4.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Feb) | 0.6% | 0.7% | -0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Feb) | 132.30 |  | 131.50 |
@@ -61,15 +61,15 @@
 | 15:00 | EUR | Low | Consumer Confidence (Mar) | -14.9 | -15.0 | -15.5 |
 | 15:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 47 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) |  |  | 4.6% |
-| 47 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.6% |
-| 47 min | USD | Moderate | Interest Rate Projection - Current (Q1) |  |  | 5.4% |
-| 47 min | USD | Moderate | Interest Rate Projection - Longer (Q1) |  |  | 2.5% |
-| 47 min | USD | High | FOMC Economic Projections |  |  |  |
-| 47 min | USD | High | FOMC Statement |  |  |  |
-| 47 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 18:30 | USD | High | FOMC Press Conference |  |  |  |
+| 17:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q1) | 3.9% |  | 4.6% |
+| 18:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.6% |
+| 18:00 | USD | Moderate | Interest Rate Projection - Current (Q1) | 4.6% |  | 5.4% |
+| 18:00 | USD | Moderate | Interest Rate Projection - Longer (Q1) | 2.6% |  | 2.5% |
+| 18:00 | USD | High | FOMC Economic Projections |  |  |  |
+| 18:00 | USD | High | FOMC Statement |  |  |  |
+| 18:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 11 min | USD | High | FOMC Press Conference |  |  |  |
 | 21:00 | BRL | Moderate | Interest Rate Decision |  | 10.75% | 11.25% |
 | 21:45 | NZD | High | GDP (QoQ) (Q4) |  | 0.1% | -0.3% |
 | 21:45 | NZD | Low | GDP (YoY) (Q4) |  | 0.1% | -0.6% |

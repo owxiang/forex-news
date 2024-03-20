@@ -16,10 +16,10 @@
 | 14:30 | USD | Cushing Crude Oil Inventories | -0.018M |  | -0.220M |
 | 15:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 16:45 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 47 min | USD | Interest Rate Projection - 1st Yr (Q1) |  |  | 4.6% |
-| 47 min | USD | Interest Rate Projection - 2nd Yr (Q1) |  |  | 3.6% |
-| 47 min | USD | Interest Rate Projection - Current (Q1) |  |  | 5.4% |
-| 47 min | USD | Interest Rate Projection - Longer (Q1) |  |  | 2.5% |
+| 18:00 | USD | Interest Rate Projection - 1st Yr (Q1) | 3.9% |  | 4.6% |
+| 18:00 | USD | Interest Rate Projection - 2nd Yr (Q1) | 3.1% |  | 3.6% |
+| 18:00 | USD | Interest Rate Projection - Current (Q1) | 4.6% |  | 5.4% |
+| 18:00 | USD | Interest Rate Projection - Longer (Q1) | 2.6% |  | 2.5% |
 | 21:00 | BRL | Interest Rate Decision |  | 10.75% | 11.25% |
 | 23:50 | JPY | Adjusted Trade Balance |  | -0.83T | 0.24T |
 | 23:50 | JPY | Exports (YoY) (Feb) |  | 5.3% | 11.9% |
