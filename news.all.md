@@ -22,8 +22,8 @@
 | 07:00 | GBP | Low | PPI Output (MoM) (Feb) | 0.3% | 0.1% | 0.0% |
 | 07:00 | GBP | Low | RPI (YoY) (Feb) | 4.5% | 4.5% | 4.9% |
 | 07:00 | GBP | Low | RPI (MoM) (Feb) | 0.8% | 0.7% | -0.3% |
-| 07:00 | EUR | Low | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Feb) | -0.4% | -0.1% | 0.2% |
+| 07:00 | EUR | Low | German PPI (YoY) (Feb) | -4.1% | -3.8% | -4.4% |
 | 07:20 | IDR | Low | Loans (YoY) (Feb) | 11.28% |  | 11.83% |
 | 07:30 | IDR | Moderate | Interest Rate Decision | 6.00% | 6.00% | 6.00% |
 | 07:30 | IDR | Low | Deposit Facility Rate (Mar) | 5.25% | 5.25% | 5.25% |
@@ -37,7 +37,7 @@
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Jan) | -1.2% | -0.6% | 1.2% |
 | 09:30 | GBP | Low | House Price Index (YoY) | -0.6% | -0.7% | -2.2% |
 | 09:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Construction Output (MoM) (Jan) | 0.50% |  | 0.80% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Jan) | 0.48% |  | 0.80% |
 | 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.97% |  | 6.84% |
 | 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -1.6% |  | 7.1% |
 | 11:00 | USD | Low | MBA Purchase Index | 146.0 |  | 147.7 |
@@ -47,18 +47,18 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | ZAR | Low | Retail Sales (YoY) (Jan) | -2.1% | 1.5% | 3.2% |
 | 11:30 | INR | Low | M3 Money Supply | 11.3% |  | 10.9% |
-| 25 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 14:30 | USD | High | Crude Oil Inventories |  | -0.900M | -1.536M |
-| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.390M |
-| 14:30 | USD | Low | Crude Oil Imports |  |  | -0.241M |
-| 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.220M |
-| 14:30 | USD | Low | Distillate Fuel Production |  |  | 0.217M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.087M | 0.888M |
-| 14:30 | USD | Low | Gasoline Production |  |  | 0.285M |
-| 14:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.867M |
-| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
-| 14:30 | USD | Low | Gasoline Inventories |  | -1.350M | -5.662M |
-| 15:00 | EUR | Low | Consumer Confidence (Mar) |  | -15.0 | -15.5 |
+| 13:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15 min | USD | High | Crude Oil Inventories |  | -0.900M | -1.536M |
+| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.390M |
+| 15 min | USD | Low | Crude Oil Imports |  |  | -0.241M |
+| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.220M |
+| 15 min | USD | Low | Distillate Fuel Production |  |  | 0.217M |
+| 15 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.087M | 0.888M |
+| 15 min | USD | Low | Gasoline Production |  |  | 0.285M |
+| 15 min | USD | Low | Heating Oil Stockpiles |  |  | 0.867M |
+| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
+| 15 min | USD | Low | Gasoline Inventories |  | -1.350M | -5.662M |
+| 45 min | EUR | Low | Consumer Confidence (Mar) |  | -15.0 | -15.5 |
 | 15:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 16:45 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
