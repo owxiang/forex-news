@@ -16,39 +16,39 @@
 | 07:00 | GBP | Low | Car Registration (MoM) (Feb) | -40.6% |  | 1.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) | 7.48B | 6.30B | -17.04B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) | 3.024B |  | -22.482B |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | 12.8% |  | 10.6% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.6% |  | 27.7% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | 12.8% |  | 10.6% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Feb) | 1.8% |  | -11.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Feb) | 5.4% |  | 19.1% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) | 13.0% |  | 9.2% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Feb) | 16.6% |  | -32.4% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) | 13.0% |  | 9.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) | 3.6% |  | 4.5% |
 | 07:45 | EUR | Low | French Business Survey (Mar) | 102 | 100 | 101 |
-| 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,130,090.0B |  | 1,134,732.0B |
+| 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,130.1B |  | 1,134.7B |
 | 08:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 45.8 | 47.5 | 47.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Mar) | 47.7 | 48.6 | 48.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) | 47.8 | 48.8 | 48.4 |
-| 11 min | CHF | High | SNB Interest Rate Decision (Q1) |  | 1.75% | 1.75% |
-| 11 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 11 min | CHF | Moderate | SNB Press Conference |  |  |  |
-| 11 min | EUR | Low | HCOB Germany Composite PMI (Mar) |  | 47.0 | 46.3 |
-| 11 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 43.1 | 42.5 |
-| 11 min | EUR | Moderate | HCOB Germany Services PMI (Mar) |  | 48.8 | 48.3 |
-| 11 min | HKD | Low | CPI (MoM) (Feb) |  |  | -0.10% |
-| 11 min | HKD | Low | CPI (YoY) (Feb) |  | 2.20% | 1.70% |
-| 41 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 41 min | EUR | Low | Current Account (Jan) |  | 32.3B | 32.0B |
-| 41 min | EUR | Low | Current Account n.s.a. (Jan) |  |  | 42.7B |
-| 41 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 41 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 47.0 | 46.5 |
-| 41 min | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) |  | 49.7 | 49.2 |
-| 41 min | EUR | Moderate | HCOB Eurozone Services PMI (Mar) |  | 50.5 | 50.2 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 53.1 | 53.0 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.9 | 47.5 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.8 | 53.8 |
-| 09:40 | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.875% |
-| 09:40 | EUR | Low | Spanish 8-Year Obligacion Auction |  |  | 2.965% |
+| 08:30 | CHF | High | SNB Interest Rate Decision (Q1) | 1.50% | 1.75% | 1.75% |
+| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Mar) | 47.4 | 47.0 | 46.3 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 41.6 | 43.1 | 42.5 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Mar) | 49.8 | 48.8 | 48.3 |
+| 08:30 | HKD | Low | CPI (MoM) (Feb) | 0.40% |  | -0.10% |
+| 08:30 | HKD | Low | CPI (YoY) (Feb) | 2.10% | 2.20% | 1.70% |
+| 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
+| 09:00 | EUR | Low | Current Account (Jan) | 39.4B | 32.3B | 32.0B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Jan) | 24.9B |  | 42.7B |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 45.7 | 47.0 | 46.5 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 49.9 | 49.7 | 49.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 51.1 | 50.5 | 50.2 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 53.1 | 53.0 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.9 | 47.5 |
+| 14 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.8 | 53.8 |
+| 24 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.875% |
+| 24 min | EUR | Low | Spanish 8-Year Obligacion Auction |  |  | 2.965% |
 | 10:30 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) |  | 1 | 1 |
@@ -73,8 +73,8 @@
 | 13:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 51.8 | 52.2 |
 | 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 52.5 |
 | 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 52.3 |
-| 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.00M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | 3.1% |
+| 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.00M |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.1% | -0.4% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 5B | -9B |
 | 15:00 | BRL | Low | Foreign Exchange Flows |  |  | 2.747B |
