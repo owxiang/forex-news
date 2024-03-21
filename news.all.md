@@ -10,18 +10,19 @@
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Mar) | 48.2 | 47.5 | 47.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
 | 02:05 | NZD | Low | Credit Card Spending (YoY) | 2.2% |  | 0.0% |
+| 04:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI | 59.2 |  | 56.9 |
 | 05:00 | INR | Low | HSBC India Services PMI | 60.3 |  | 60.6 |
-| 07:00 | GBP | Low | Car Registration (YoY) (Feb) | 14.0% |  | 8.2% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Feb) | -40.6% |  | 1.3% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Feb) | 14.0% |  | 8.2% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) | 7.48B | 6.30B | -17.04B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) | 3.024B |  | -22.482B |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.6% |  | 27.7% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | 12.8% |  | 10.6% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Feb) | 1.8% |  | -11.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.6% |  | 27.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Feb) | 5.4% |  | 19.1% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Feb) | 16.6% |  | -32.4% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Feb) | 1.8% |  | -11.7% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Feb) | 13.0% |  | 9.2% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Feb) | 16.6% |  | -32.4% |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) | 3.6% |  | 4.5% |
 | 07:45 | EUR | Low | French Business Survey (Mar) | 102 | 100 | 101 |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,130.1B |  | 1,134.7B |
@@ -55,8 +56,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 8 | 8 | 6 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | -0.6% | 0.4% | -0.9% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | -0.8% | 1.2% | -0.2% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | -0.6% | 0.4% | -0.9% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,807K | 1,820K | 1,803K |
 | 12:30 | USD | Moderate | Current Account (Q4) | -194.8B | -209.0B | -196.4B |
 | 12:30 | USD | High | Initial Jobless Claims | 210K | 212K | 212K |
@@ -72,8 +73,8 @@
 | 13:45 | USD | High | S&P Global US Manufacturing PMI (Mar) | 52.5 | 51.8 | 52.2 |
 | 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) | 52.2 | 52.2 | 52.5 |
 | 13:45 | USD | High | S&P Global Services PMI (Mar) | 51.7 | 52.0 | 52.3 |
-| 14:00 | USD | High | Existing Home Sales (Feb) | 4.38M | 3.95M | 4.00M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 9.5% | -1.3% | 3.1% |
+| 14:00 | USD | High | Existing Home Sales (Feb) | 4.38M | 3.95M | 4.00M |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | 0.1% | -0.1% | -0.4% |
 | 14:30 | USD | Low | Natural Gas Storage | 7B | 5B | -9B |
 | 15:00 | BRL | Low | Foreign Exchange Flows | -0.298B |  | 2.747B |
@@ -84,13 +85,12 @@
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) | 11.00% | 11.00% | 11.25% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 7,514B |  | 7,542B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.490T |  | 3.573T |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) | 1.5% |  | 1.3% |
 | 21:00 | KRW | Low | PPI (MoM) (Feb) | 0.3% |  | 0.5% |
-| 21:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
-| 30 min | NZD | Low | Exports (Feb) |  |  | 4.93B |
-| 30 min | NZD | Low | Imports (Feb) |  |  | 5.91B |
-| 30 min | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -12,500M |
-| 30 min | NZD | Low | Trade Balance (MoM) (Feb) |  | -825M | -976M |
+| 21:00 | KRW | Low | PPI (YoY) (Feb) | 1.5% |  | 1.3% |
+| 21:45 | NZD | Low | Exports (Feb) | 5.89B |  | 4.82B |
+| 21:45 | NZD | Low | Imports (Feb) | 6.11B |  | 5.90B |
+| 21:45 | NZD | Low | Trade Balance (YoY) (Feb) | -11,990M |  | -12,620M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) | -218M | -825M | -1,089M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.8% | 2.0% |
 | 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 2.2% |

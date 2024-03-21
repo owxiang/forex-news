@@ -6,6 +6,7 @@
 | 00:30 | AUD | Full Employment Change (Feb) | 78.2K |  | 19.9K |
 | 00:30 | AUD | Unemployment Rate (Feb) | 3.7% | 4.0% | 4.1% |
 | 00:30 | JPY | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
+| 04:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
 | 08:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Mar) | 45.8 | 47.5 | 47.1 |
 | 08:15 | EUR | HCOB France Services PMI (Mar) | 47.8 | 48.8 | 48.4 |
@@ -36,6 +37,5 @@
 | 17:00 | USD | 10-Year TIPS Auction | 1.932% |  | 1.810% |
 | 19:00 | MXN | Interest Rate Decision (Mar) | 11.00% | 11.00% | 11.25% |
 | 20:30 | USD | Fed's Balance Sheet | 7,514B |  | 7,542B |
-| 21:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
 | 23:30 | JPY | National Core CPI (YoY) (Feb) |  | 2.8% | 2.0% |
 | 23:30 | JPY | National CPI (MoM) |  |  | 0.0% |
