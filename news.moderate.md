@@ -21,14 +21,14 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.9 | 53.1 | 53.0 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 49.9 | 47.9 | 47.5 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI | 53.4 | 53.8 | 53.8 |
-| 47 min | GBP | BoE MPC vote cut (Mar) |  | 1 | 1 |
-| 47 min | GBP | BoE MPC vote hike (Mar) |  | 0 | 2 |
-| 47 min | GBP | BoE MPC vote unchanged (Mar) |  | 8 | 6 |
-| 47 min | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | USD | Continuing Jobless Claims |  |  | 1,811K |
-| 12:30 | USD | Current Account (Q4) |  | -209.0B | -200.3B |
-| 12:30 | USD | Philly Fed Employment (Mar) |  |  | -10.3 |
-| 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
+| 12:00 | GBP | BoE MPC vote cut (Mar) | 1 | 1 | 1 |
+| 12:00 | GBP | BoE MPC vote hike (Mar) | 0 | 0 | 2 |
+| 12:00 | GBP | BoE MPC vote unchanged (Mar) | 8 | 8 | 6 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 2 min | USD | Continuing Jobless Claims |  |  | 1,811K |
+| 2 min | USD | Current Account (Q4) |  | -209.0B | -200.3B |
+| 2 min | USD | Philly Fed Employment (Mar) |  |  | -10.3 |
+| 2 min | CAD | New Housing Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
 | 13:45 | USD | S&P Global Composite PMI (Mar) |  |  | 52.5 |
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | 3.1% |
 | 14:00 | USD | US Leading Index (MoM) (Feb) |  | -0.1% | -0.4% |
