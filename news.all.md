@@ -12,17 +12,17 @@
 | 02:05 | NZD | Low | Credit Card Spending (YoY) | 2.2% |  | 0.0% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI | 59.2 |  | 56.9 |
 | 05:00 | INR | Low | HSBC India Services PMI | 60.3 |  | 60.6 |
-| 07:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 8.2% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Feb) |  |  | 1.3% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) |  | 6.30B | -17.62B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) |  |  | -23.344B |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 10.6% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | 19.1% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -32.4% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
-| 07:00 | NOK | Low | Unemployment Rate (Feb) |  |  | 4.5% |
+| 39 min | GBP | Low | Car Registration (YoY) (Feb) |  |  | 8.2% |
+| 39 min | GBP | Low | Car Registration (MoM) (Feb) |  |  | 1.3% |
+| 39 min | GBP | Low | Public Sector Net Borrowing (Feb) |  | 6.30B | -17.62B |
+| 39 min | GBP | Low | Public Sector Net Cash Requirement (Feb) |  |  | -23.344B |
+| 39 min | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
+| 39 min | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 10.6% |
+| 39 min | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
+| 39 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | 19.1% |
+| 39 min | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -32.4% |
+| 39 min | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
+| 39 min | NOK | Low | Unemployment Rate (Feb) |  |  | 4.5% |
 | 07:45 | EUR | Low | French Business Survey (Mar) |  | 100 | 100 |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,135.4B |
 | 08:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
