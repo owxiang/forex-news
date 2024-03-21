@@ -35,7 +35,7 @@
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction | 1.932% |  | 1.810% |
 | 19:00 | MXN | Interest Rate Decision (Mar) | 11.00% | 11.00% | 11.25% |
-| 14 min | USD | Fed's Balance Sheet |  |  | 7,542B |
-| 44 min | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
+| 20:30 | USD | Fed's Balance Sheet | 7,514B |  | 7,542B |
+| 21:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
 | 23:30 | JPY | National Core CPI (YoY) (Feb) |  | 2.8% | 2.0% |
 | 23:30 | JPY | National CPI (MoM) |  |  | 0.0% |
