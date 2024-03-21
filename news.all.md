@@ -16,12 +16,12 @@
 | 07:00 | GBP | Low | Car Registration (MoM) (Feb) | -40.6% |  | 1.3% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) | 7.48B | 6.30B | -17.04B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) | 3.024B |  | -22.482B |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | 12.8% |  | 10.6% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) | 3.6% |  | 27.7% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) | 12.8% |  | 10.6% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Feb) | 1.8% |  | -11.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Feb) | 5.4% |  | 19.1% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) | 13.0% |  | 9.2% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Feb) | 16.6% |  | -32.4% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) | 13.0% |  | 9.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) | 3.6% |  | 4.5% |
 | 07:45 | EUR | Low | French Business Survey (Mar) | 102 | 100 | 101 |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) | 1,130.1B |  | 1,134.7B |
@@ -55,8 +55,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) | 8 | 8 | 6 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | -0.8% | 1.2% | -0.2% |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | -0.6% | 0.4% | -0.9% |
+| 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | -0.8% | 1.2% | -0.2% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims | 1,807K | 1,820K | 1,803K |
 | 12:30 | USD | Moderate | Current Account (Q4) | -194.8B | -209.0B | -196.4B |
 | 12:30 | USD | High | Initial Jobless Claims | 210K | 212K | 212K |
@@ -72,20 +72,19 @@
 | 13:45 | USD | High | S&P Global US Manufacturing PMI (Mar) | 52.5 | 51.8 | 52.2 |
 | 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) | 52.2 | 52.2 | 52.5 |
 | 13:45 | USD | High | S&P Global Services PMI (Mar) | 51.7 | 52.0 | 52.3 |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 9.5% |  | 3.1% |
 | 14:00 | USD | High | Existing Home Sales (Feb) | 4.38M | 3.95M | 4.00M |
+| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 9.5% | -1.3% | 3.1% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | 0.1% | -0.1% | -0.4% |
-| 15 min | USD | Low | Natural Gas Storage |  | 5B | -9B |
-| 45 min | BRL | Low | Foreign Exchange Flows |  |  | 2.747B |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:30 | USD | Low | Natural Gas Storage | 7B | 5B | -9B |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 43 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.810% |
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,542B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.573T |
-| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.3% |
 | 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.5% |
+| 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.3% |
 | 21:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 4.93B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 5.91B |
