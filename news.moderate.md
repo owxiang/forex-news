@@ -18,9 +18,9 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 45.7 | 47.0 | 46.5 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 49.9 | 49.7 | 49.2 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 51.1 | 50.5 | 50.2 |
-| 14 min | GBP | S&P Global/CIPS UK Composite PMI |  | 53.1 | 53.0 |
-| 14 min | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 47.9 | 47.5 |
-| 14 min | GBP | S&P Global/CIPS UK Services PMI |  | 53.8 | 53.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.9 | 53.1 | 53.0 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 49.9 | 47.9 | 47.5 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 53.4 | 53.8 | 53.8 |
 | 12:00 | GBP | BoE MPC vote cut (Mar) |  | 1 | 1 |
 | 12:00 | GBP | BoE MPC vote hike (Mar) |  | 0 | 2 |
 | 12:00 | GBP | BoE MPC vote unchanged (Mar) |  | 8 | 6 |

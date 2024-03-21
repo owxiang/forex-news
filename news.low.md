@@ -27,10 +27,10 @@
 | 08:30 | HKD | CPI (YoY) (Feb) | 2.10% | 2.20% | 1.70% |
 | 09:00 | EUR | Current Account (Jan) | 39.4B | 32.3B | 32.0B |
 | 09:00 | EUR | Current Account n.s.a. (Jan) | 24.9B |  | 42.7B |
-| 24 min | EUR | Spanish 3-Year Bonos Auction |  |  | 2.875% |
-| 24 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.965% |
-| 10:30 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:55 | EUR | Spanish 3-Year Bonos Auction | 2.896% |  | 2.875% |
+| 09:55 | EUR | Spanish 8-Year Obligacion Auction | 2.976% |  | 2.965% |
+| 15 min | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
+| 45 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | MXN | Retail Sales (MoM) (Jan) |  | 0.4% | -0.9% |
 | 12:00 | MXN | Retail Sales (YoY) (Jan) |  | 1.2% | -0.2% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 208.00K |

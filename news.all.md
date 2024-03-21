@@ -44,13 +44,13 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 45.7 | 47.0 | 46.5 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 49.9 | 49.7 | 49.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 51.1 | 50.5 | 50.2 |
-| 14 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 53.1 | 53.0 |
-| 14 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 47.9 | 47.5 |
-| 14 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.8 | 53.8 |
-| 24 min | EUR | Low | Spanish 3-Year Bonos Auction |  |  | 2.875% |
-| 24 min | EUR | Low | Spanish 8-Year Obligacion Auction |  |  | 2.965% |
-| 10:30 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.9 | 53.1 | 53.0 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 49.9 | 47.9 | 47.5 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 53.4 | 53.8 | 53.8 |
+| 09:55 | EUR | Low | Spanish 3-Year Bonos Auction | 2.896% |  | 2.875% |
+| 09:55 | EUR | Low | Spanish 8-Year Obligacion Auction | 2.976% |  | 2.965% |
+| 15 min | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
+| 45 min | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Mar) |  | 1 | 1 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Mar) |  | 0 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 8 | 6 |
