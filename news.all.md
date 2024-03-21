@@ -57,24 +57,24 @@
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | MXN | Low | Retail Sales (MoM) (Jan) | -0.6% | 0.4% | -0.9% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Jan) | -0.8% | 1.2% | -0.2% |
-| 2 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,811K |
-| 2 min | USD | Moderate | Current Account (Q4) |  | -209.0B | -200.3B |
-| 2 min | USD | High | Initial Jobless Claims |  | 212K | 209K |
-| 2 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 208.00K |
-| 2 min | USD | High | Philadelphia Fed Manufacturing Index (Mar) |  | -2.6 | 5.2 |
-| 2 min | USD | Low | Philly Fed Business Conditions (Mar) |  |  | 7.2 |
-| 2 min | USD | Low | Philly Fed CAPEX Index (Mar) |  |  | 12.70 |
-| 2 min | USD | Moderate | Philly Fed Employment (Mar) |  |  | -10.3 |
-| 2 min | USD | Low | Philly Fed New Orders (Mar) |  |  | -5.2 |
-| 2 min | USD | Low | Philly Fed Prices Paid (Mar) |  |  | 16.60 |
-| 2 min | CAD | Moderate | New Housing Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
-| 13:35 | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
-| 13:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 51.8 | 52.2 |
-| 13:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  |  | 52.5 |
-| 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 52.3 |
-| 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.00M |
-| 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | 3.1% |
-| 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.1% | -0.4% |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,807K | 1,820K | 1,803K |
+| 12:30 | USD | Moderate | Current Account (Q4) | -194.8B | -209.0B | -196.4B |
+| 12:30 | USD | High | Initial Jobless Claims | 210K | 212K | 212K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 211.25K |  | 208.75K |
+| 12:30 | USD | High | Philadelphia Fed Manufacturing Index (Mar) | 3.2 | -2.6 | 5.2 |
+| 12:30 | USD | Low | Philly Fed Business Conditions (Mar) | 38.6 |  | 7.2 |
+| 12:30 | USD | Low | Philly Fed CAPEX Index (Mar) | 23.60 |  | 12.70 |
+| 12:30 | USD | Moderate | Philly Fed Employment (Mar) | -9.6 |  | -10.3 |
+| 12:30 | USD | Low | Philly Fed New Orders (Mar) | 5.4 |  | -5.2 |
+| 12:30 | USD | Low | Philly Fed Prices Paid (Mar) | 3.70 |  | 16.60 |
+| 12:30 | CAD | Moderate | New Housing Price Index (MoM) (Feb) | 0.1% | 0.1% | -0.1% |
+| 16 min | CAD | Low | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 26 min | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 51.8 | 52.2 |
+| 26 min | USD | Moderate | S&P Global Composite PMI (Mar) |  | 52.2 | 52.5 |
+| 26 min | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 52.3 |
+| 41 min | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.00M |
+| 41 min | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | 3.1% |
+| 41 min | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.1% | -0.4% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 5B | -9B |
 | 15:00 | BRL | Low | Foreign Exchange Flows |  |  | 2.747B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |

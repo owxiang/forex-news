@@ -32,12 +32,12 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | MXN | Retail Sales (MoM) (Jan) | -0.6% | 0.4% | -0.9% |
 | 12:00 | MXN | Retail Sales (YoY) (Jan) | -0.8% | 1.2% | -0.2% |
-| 2 min | USD | Jobless Claims 4-Week Avg. |  |  | 208.00K |
-| 2 min | USD | Philly Fed Business Conditions (Mar) |  |  | 7.2 |
-| 2 min | USD | Philly Fed CAPEX Index (Mar) |  |  | 12.70 |
-| 2 min | USD | Philly Fed New Orders (Mar) |  |  | -5.2 |
-| 2 min | USD | Philly Fed Prices Paid (Mar) |  |  | 16.60 |
-| 13:35 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
+| 12:30 | USD | Jobless Claims 4-Week Avg. | 211.25K |  | 208.75K |
+| 12:30 | USD | Philly Fed Business Conditions (Mar) | 38.6 |  | 7.2 |
+| 12:30 | USD | Philly Fed CAPEX Index (Mar) | 23.60 |  | 12.70 |
+| 12:30 | USD | Philly Fed New Orders (Mar) | 5.4 |  | -5.2 |
+| 12:30 | USD | Philly Fed Prices Paid (Mar) | 3.70 |  | 16.60 |
+| 16 min | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 14:30 | USD | Natural Gas Storage |  | 5B | -9B |
 | 15:00 | BRL | Foreign Exchange Flows |  |  | 2.747B |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
