@@ -32,8 +32,8 @@
 | 13:45 | USD | S&P Global Composite PMI (Mar) | 52.2 | 52.2 | 52.5 |
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) | 9.5% | -1.3% | 3.1% |
 | 14:00 | USD | US Leading Index (MoM) (Feb) | 0.1% | -0.1% | -0.4% |
-| 43 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | USD | 10-Year TIPS Auction |  |  | 1.810% |
+| 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 39 min | USD | 10-Year TIPS Auction |  |  | 1.810% |
 | 19:00 | MXN | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,542B |
 | 21:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |

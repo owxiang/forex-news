@@ -8,8 +8,8 @@
 | 02:05 | NZD | Credit Card Spending (YoY) | 2.2% |  | 0.0% |
 | 05:00 | INR | HSBC India Manufacturing PMI | 59.2 |  | 56.9 |
 | 05:00 | INR | HSBC India Services PMI | 60.3 |  | 60.6 |
-| 07:00 | GBP | Car Registration (YoY) (Feb) | 14.0% |  | 8.2% |
 | 07:00 | GBP | Car Registration (MoM) (Feb) | -40.6% |  | 1.3% |
+| 07:00 | GBP | Car Registration (YoY) (Feb) | 14.0% |  | 8.2% |
 | 07:00 | GBP | Public Sector Net Borrowing (Feb) | 7.48B | 6.30B | -17.04B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) | 3.024B |  | -22.482B |
 | 07:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.6% |  | 27.7% |
@@ -39,15 +39,15 @@
 | 12:30 | USD | Philly Fed Prices Paid (Mar) | 3.70 |  | 16.60 |
 | 13:35 | CAD | BoC Deputy Governor Gravelle Speaks |  |  |  |
 | 14:30 | USD | Natural Gas Storage | 7B | 5B | -9B |
-| 13 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 13 min | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 15:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.280% |
+| 15:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.573T |
-| 21:00 | KRW | PPI (MoM) (Feb) |  |  | 0.5% |
 | 21:00 | KRW | PPI (YoY) (Feb) |  |  | 1.3% |
+| 21:00 | KRW | PPI (MoM) (Feb) |  |  | 0.5% |
 | 21:45 | NZD | Exports (Feb) |  |  | 4.93B |
 | 21:45 | NZD | Imports (Feb) |  |  | 5.91B |
-| 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -825M | -976M |
 | 21:45 | NZD | Trade Balance (YoY) (Feb) |  |  | -12,500M |
+| 21:45 | NZD | Trade Balance (MoM) (Feb) |  | -825M | -976M |
 | 23:30 | JPY | CPI, n.s.a (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | National CPI (YoY) (Feb) |  |  | 2.2% |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | 1,579.6B |
