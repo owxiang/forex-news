@@ -81,7 +81,7 @@
 | 15:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.932% |  | 1.810% |
-| 40 min | MXN | Moderate | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |
+| 19:00 | MXN | Moderate | Interest Rate Decision (Mar) | 11.00% | 11.00% | 11.25% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,542B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.573T |
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.3% |
