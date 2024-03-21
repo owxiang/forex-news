@@ -6,7 +6,7 @@
 | 00:30 | AUD | Full Employment Change (Feb) | 78.2K |  | 19.9K |
 | 00:30 | AUD | Unemployment Rate (Feb) | 3.7% | 4.0% | 4.1% |
 | 00:30 | JPY | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
-| 08:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 45 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Mar) |  | 47.5 | 47.1 |
 | 08:15 | EUR | HCOB France Services PMI (Mar) |  | 48.8 | 48.4 |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |

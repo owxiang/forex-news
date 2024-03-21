@@ -12,20 +12,20 @@
 | 02:05 | NZD | Low | Credit Card Spending (YoY) | 2.2% |  | 0.0% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI | 59.2 |  | 56.9 |
 | 05:00 | INR | Low | HSBC India Services PMI | 60.3 |  | 60.6 |
-| 39 min | GBP | Low | Car Registration (YoY) (Feb) |  |  | 8.2% |
-| 39 min | GBP | Low | Car Registration (MoM) (Feb) |  |  | 1.3% |
-| 39 min | GBP | Low | Public Sector Net Borrowing (Feb) |  | 6.30B | -17.62B |
-| 39 min | GBP | Low | Public Sector Net Cash Requirement (Feb) |  |  | -23.344B |
-| 39 min | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
-| 39 min | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 10.6% |
-| 39 min | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
-| 39 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | 19.1% |
-| 39 min | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -32.4% |
-| 39 min | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
-| 39 min | NOK | Low | Unemployment Rate (Feb) |  |  | 4.5% |
-| 07:45 | EUR | Low | French Business Survey (Mar) |  | 100 | 100 |
-| 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,135.4B |
-| 08:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) | 7.48B | 6.30B | -17.04B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) | 3.024B |  | -22.482B |
+| 07:00 | NOK | Low | Unemployment Rate (Feb) | 3.6% |  | 4.5% |
+| 15 min | GBP | Low | Car Registration (MoM) (Feb) |  |  | 1.3% |
+| 15 min | GBP | Low | Car Registration (YoY) (Feb) |  |  | 8.2% |
+| 15 min | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
+| 15 min | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 10.6% |
+| 15 min | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
+| 15 min | EUR | Low | German Car Registration (YoY) (Feb) |  |  | 19.1% |
+| 15 min | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -32.4% |
+| 15 min | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
+| 30 min | EUR | Low | French Business Survey (Mar) |  | 100 | 100 |
+| 45 min | CHF | Low | M3 Money Supply (Feb) |  |  | 1,135.4B |
+| 45 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 47.5 | 47.1 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Mar) |  | 48.6 | 48.1 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Mar) |  | 48.8 | 48.4 |
@@ -56,8 +56,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Mar) |  | 8 | 6 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Mar) |  | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) |  | 0.4% | -0.9% |
 | 12:00 | MXN | Low | Retail Sales (YoY) (Jan) |  | 1.2% | -0.2% |
+| 12:00 | MXN | Low | Retail Sales (MoM) (Jan) |  | 0.4% | -0.9% |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,811K |
 | 12:30 | USD | Moderate | Current Account (Q4) |  | -209.0B | -200.3B |
 | 12:30 | USD | High | Initial Jobless Claims |  | 212K | 209K |
