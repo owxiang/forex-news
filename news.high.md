@@ -6,6 +6,6 @@
 | 12:00 | GBP | BoE Interest Rate Decision (Mar) | 5.25% | 5.25% | 5.25% |
 | 12:30 | USD | Initial Jobless Claims | 210K | 212K | 212K |
 | 12:30 | USD | Philadelphia Fed Manufacturing Index (Mar) | 3.2 | -2.6 | 5.2 |
-| 26 min | USD | S&P Global US Manufacturing PMI (Mar) |  | 51.8 | 52.2 |
-| 26 min | USD | S&P Global Services PMI (Mar) |  | 52.0 | 52.3 |
-| 41 min | USD | Existing Home Sales (Feb) |  | 3.95M | 4.00M |
+| 13:45 | USD | S&P Global US Manufacturing PMI (Mar) | 52.5 | 51.8 | 52.2 |
+| 13:45 | USD | S&P Global Services PMI (Mar) | 51.7 | 52.0 | 52.3 |
+| 14:00 | USD | Existing Home Sales (Feb) | 4.38M | 3.95M | 4.00M |
