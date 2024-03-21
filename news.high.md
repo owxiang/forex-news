@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:30 | CHF | SNB Interest Rate Decision (Q1) |  | 1.75% | 1.75% |
+| 11 min | CHF | SNB Interest Rate Decision (Q1) |  | 1.75% | 1.75% |
 | 12:00 | GBP | BoE Interest Rate Decision (Mar) |  | 5.25% | 5.25% |
 | 12:30 | USD | Initial Jobless Claims |  | 212K | 209K |
 | 12:30 | USD | Philadelphia Fed Manufacturing Index (Mar) |  | -2.6 | 5.2 |

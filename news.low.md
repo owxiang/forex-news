@@ -8,31 +8,31 @@
 | 02:05 | NZD | Credit Card Spending (YoY) | 2.2% |  | 0.0% |
 | 05:00 | INR | HSBC India Manufacturing PMI | 59.2 |  | 56.9 |
 | 05:00 | INR | HSBC India Services PMI | 60.3 |  | 60.6 |
+| 07:00 | GBP | Car Registration (YoY) (Feb) | 14.0% |  | 8.2% |
+| 07:00 | GBP | Car Registration (MoM) (Feb) | -40.6% |  | 1.3% |
 | 07:00 | GBP | Public Sector Net Borrowing (Feb) | 7.48B | 6.30B | -17.04B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Feb) | 3.024B |  | -22.482B |
+| 07:00 | EUR | Italian Car Registration (YoY) (Feb) | 12.8% |  | 10.6% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Feb) | 3.6% |  | 27.7% |
+| 07:00 | EUR | German Car Registration (MoM) (Feb) | 1.8% |  | -11.7% |
+| 07:00 | EUR | German Car Registration (YoY) (Feb) | 5.4% |  | 19.1% |
+| 07:00 | EUR | French Car Registration (YoY) (Feb) | 13.0% |  | 9.2% |
+| 07:00 | EUR | French Car Registration (MoM) (Feb) | 16.6% |  | -32.4% |
 | 07:00 | NOK | Unemployment Rate (Feb) | 3.6% |  | 4.5% |
-| 15 min | GBP | Car Registration (MoM) (Feb) |  |  | 1.3% |
-| 15 min | GBP | Car Registration (YoY) (Feb) |  |  | 8.2% |
-| 15 min | EUR | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
-| 15 min | EUR | Italian Car Registration (YoY) (Feb) |  |  | 10.6% |
-| 15 min | EUR | German Car Registration (MoM) (Feb) |  |  | -11.7% |
-| 15 min | EUR | German Car Registration (YoY) (Feb) |  |  | 19.1% |
-| 15 min | EUR | French Car Registration (MoM) (Feb) |  |  | -32.4% |
-| 15 min | EUR | French Car Registration (YoY) (Feb) |  |  | 9.2% |
-| 30 min | EUR | French Business Survey (Mar) |  | 100 | 100 |
-| 45 min | CHF | M3 Money Supply (Feb) |  |  | 1,135.4B |
-| 08:15 | EUR | HCOB France Composite PMI (Mar) |  | 48.6 | 48.1 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Mar) |  | 47.0 | 46.3 |
-| 08:30 | HKD | CPI (MoM) (Feb) |  |  | -0.10% |
-| 08:30 | HKD | CPI (YoY) (Feb) |  | 2.20% | 1.70% |
-| 09:00 | EUR | Current Account (Jan) |  | 32.3B | 32.0B |
-| 09:00 | EUR | Current Account n.s.a. (Jan) |  |  | 42.7B |
+| 07:45 | EUR | French Business Survey (Mar) | 102 | 100 | 101 |
+| 08:00 | CHF | M3 Money Supply (Feb) | 1,130,090.0B |  | 1,134,732.0B |
+| 08:15 | EUR | HCOB France Composite PMI (Mar) | 47.7 | 48.6 | 48.1 |
+| 11 min | EUR | HCOB Germany Composite PMI (Mar) |  | 47.0 | 46.3 |
+| 11 min | HKD | CPI (MoM) (Feb) |  |  | -0.10% |
+| 11 min | HKD | CPI (YoY) (Feb) |  | 2.20% | 1.70% |
+| 41 min | EUR | Current Account (Jan) |  | 32.3B | 32.0B |
+| 41 min | EUR | Current Account n.s.a. (Jan) |  |  | 42.7B |
 | 09:40 | EUR | Spanish 3-Year Bonos Auction |  |  | 2.875% |
 | 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.965% |
 | 10:30 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | MXN | Retail Sales (YoY) (Jan) |  | 1.2% | -0.2% |
 | 12:00 | MXN | Retail Sales (MoM) (Jan) |  | 0.4% | -0.9% |
+| 12:00 | MXN | Retail Sales (YoY) (Jan) |  | 1.2% | -0.2% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 208.00K |
 | 12:30 | USD | Philly Fed Business Conditions (Mar) |  |  | 7.2 |
 | 12:30 | USD | Philly Fed CAPEX Index (Mar) |  |  | 12.70 |
