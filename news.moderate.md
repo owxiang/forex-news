@@ -31,7 +31,7 @@
 | 12:30 | CAD | New Housing Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
 | 13:45 | USD | S&P Global Composite PMI (Mar) |  |  | 52.5 |
 | 14:00 | USD | Existing Home Sales (MoM) (Feb) |  |  | 3.1% |
-| 14:00 | USD | US Leading Index (MoM) (Feb) |  | -0.2% | -0.4% |
+| 14:00 | USD | US Leading Index (MoM) (Feb) |  | -0.1% | -0.4% |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | 10-Year TIPS Auction |  |  | 1.810% |
 | 19:00 | MXN | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |

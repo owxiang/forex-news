@@ -4,25 +4,24 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | AUD | Moderate | Employment Change (Feb) | 116.5K | 39.7K | 15.3K |
 | 00:30 | AUD | Moderate | Full Employment Change (Feb) | 78.2K |  | 19.9K |
-| 00:30 | AUD | Low | Participation Rate (Feb) | 66.7% | 66.8% | 66.8% |
+| 00:30 | AUD | Low | Participation Rate (Feb) | 66.7% | 66.8% | 66.6% |
 | 00:30 | AUD | Low | Reserve Assets Total (Feb) | 92.6B |  | 92.3B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 3.7% | 4.0% | 4.1% |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Mar) | 48.2 | 47.5 | 47.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
-| 02:30 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.3% |
-| 41 min | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
-| 05:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 56.9 |
-| 05:00 | INR | Low | HSBC India Services PMI |  |  | 60.6 |
-| 07:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 8.2% |
+| 02:05 | NZD | Low | Credit Card Spending (YoY) | 2.2% |  | 0.0% |
+| 41 min | INR | Low | HSBC India Manufacturing PMI |  |  | 56.9 |
+| 41 min | INR | Low | HSBC India Services PMI |  |  | 60.6 |
 | 07:00 | GBP | Low | Car Registration (MoM) (Feb) |  |  | 1.3% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) |  | 5.20B | -17.62B |
+| 07:00 | GBP | Low | Car Registration (YoY) (Feb) |  |  | 8.2% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Feb) |  | 6.30B | -17.62B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Feb) |  |  | -23.344B |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Feb) |  |  | 10.6% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | 19.1% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -32.4% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) |  |  | 4.5% |
 | 07:45 | EUR | Low | French Business Survey (Mar) |  | 100 | 100 |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,135.4B |
@@ -76,7 +75,7 @@
 | 13:45 | USD | High | S&P Global Services PMI (Mar) |  | 52.0 | 52.3 |
 | 14:00 | USD | High | Existing Home Sales (Feb) |  | 3.95M | 4.00M |
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) |  |  | 3.1% |
-| 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.2% | -0.4% |
+| 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) |  | -0.1% | -0.4% |
 | 14:30 | USD | Low | Natural Gas Storage |  | 5B | -9B |
 | 15:00 | BRL | Low | Foreign Exchange Flows |  |  | 2.747B |
 | 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
@@ -86,16 +85,16 @@
 | 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,542B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.573T |
-| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.5% |
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.3% |
+| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.5% |
 | 21:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 4.93B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 5.91B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -825M | -976M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -12,500M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -825M | -976M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.8% | 2.0% |
-| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 2.2% |
 | 23:30 | JPY | Moderate | National CPI (MoM) |  |  | 0.0% |
+| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 2.2% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,579.6B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 376.6B |
