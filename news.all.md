@@ -76,23 +76,24 @@
 | 14:00 | USD | Moderate | Existing Home Sales (MoM) (Feb) | 9.5% | -1.3% | 3.1% |
 | 14:00 | USD | Moderate | US Leading Index (MoM) (Feb) | 0.1% | -0.1% | -0.4% |
 | 14:30 | USD | Low | Natural Gas Storage | 7B | 5B | -9B |
+| 15:00 | BRL | Low | Foreign Exchange Flows | -0.298B |  | 2.747B |
 | 15:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.280% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | 10-Year TIPS Auction | 1.932% |  | 1.810% |
-| 19:00 | MXN | Moderate | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |
+| 40 min | MXN | Moderate | Interest Rate Decision (Mar) |  | 11.00% | 11.25% |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,542B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.573T |
-| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.5% |
 | 21:00 | KRW | Low | PPI (YoY) (Feb) |  |  | 1.3% |
+| 21:00 | KRW | Low | PPI (MoM) (Feb) |  |  | 0.5% |
 | 21:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 88.9 |
 | 21:45 | NZD | Low | Exports (Feb) |  |  | 4.93B |
 | 21:45 | NZD | Low | Imports (Feb) |  |  | 5.91B |
-| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -825M | -976M |
 | 21:45 | NZD | Low | Trade Balance (YoY) (Feb) |  |  | -12,500M |
+| 21:45 | NZD | Low | Trade Balance (MoM) (Feb) |  | -825M | -976M |
 | 23:30 | JPY | Low | CPI, n.s.a (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | Moderate | National Core CPI (YoY) (Feb) |  | 2.8% | 2.0% |
-| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 2.2% |
 | 23:30 | JPY | Moderate | National CPI (MoM) |  |  | 0.0% |
+| 23:30 | JPY | Low | National CPI (YoY) (Feb) |  |  | 2.2% |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | 1,579.6B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 376.6B |
