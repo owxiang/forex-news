@@ -5,8 +5,8 @@
 | 00:30 | AUD | Participation Rate (Feb) | 66.7% | 66.8% | 66.8% |
 | 00:30 | AUD | Reserve Assets Total (Feb) | 92.6B |  | 92.3B |
 | 00:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Mar) | 48.2 | 47.5 | 47.2 |
-| 50 min | AUD | MI Inflation Expectations |  |  | 4.5% |
-| 02:30 | NZD | Credit Card Spending (YoY) |  |  | -0.3% |
+| 7 min | NZD | Credit Card Spending (YoY) |  |  | -0.3% |
+| 04:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
 | 05:00 | INR | HSBC India Manufacturing PMI |  |  | 56.9 |
 | 05:00 | INR | HSBC India Services PMI |  |  | 60.6 |
 | 07:00 | GBP | Car Registration (MoM) (Feb) |  |  | 1.3% |
@@ -17,8 +17,8 @@
 | 07:00 | EUR | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
 | 07:00 | EUR | German Car Registration (YoY) (Feb) |  |  | 19.1% |
 | 07:00 | EUR | German Car Registration (MoM) (Feb) |  |  | -11.7% |
-| 07:00 | EUR | French Car Registration (YoY) (Feb) |  |  | 9.2% |
 | 07:00 | EUR | French Car Registration (MoM) (Feb) |  |  | -32.4% |
+| 07:00 | EUR | French Car Registration (YoY) (Feb) |  |  | 9.2% |
 | 07:00 | NOK | Unemployment Rate (Feb) |  |  | 4.5% |
 | 07:45 | EUR | French Business Survey (Mar) |  | 100 | 100 |
 | 08:00 | CHF | M3 Money Supply (Feb) |  |  | 1,135.4B |

@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | AUD | Moderate | Employment Change (Feb) | 116.5K | 39.7K | 0.5K |
+| 00:30 | AUD | Moderate | Employment Change (Feb) | 116.5K | 39.7K | 15.3K |
 | 00:30 | AUD | Moderate | Full Employment Change (Feb) | 78.2K |  | 19.9K |
 | 00:30 | AUD | Low | Participation Rate (Feb) | 66.7% | 66.8% | 66.8% |
 | 00:30 | AUD | Low | Reserve Assets Total (Feb) | 92.6B |  | 92.3B |
 | 00:30 | AUD | Moderate | Unemployment Rate (Feb) | 3.7% | 4.0% | 4.1% |
 | 00:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Mar) | 48.2 | 47.5 | 47.2 |
 | 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
-| 50 min | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
-| 02:30 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.3% |
+| 7 min | NZD | Low | Credit Card Spending (YoY) |  |  | -0.3% |
+| 04:00 | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
 | 05:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 56.9 |
 | 05:00 | INR | Low | HSBC India Services PMI |  |  | 60.6 |
 | 07:00 | GBP | Low | Car Registration (MoM) (Feb) |  |  | 1.3% |
@@ -21,8 +21,8 @@
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Feb) |  |  | 27.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Feb) |  |  | 19.1% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Feb) |  |  | -11.7% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Feb) |  |  | -32.4% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Feb) |  |  | 9.2% |
 | 07:00 | NOK | Low | Unemployment Rate (Feb) |  |  | 4.5% |
 | 07:45 | EUR | Low | French Business Survey (Mar) |  | 100 | 100 |
 | 08:00 | CHF | Low | M3 Money Supply (Feb) |  |  | 1,135.4B |

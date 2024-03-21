@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Feb) | 116.5K | 39.7K | 0.5K |
+| 00:30 | AUD | Employment Change (Feb) | 116.5K | 39.7K | 15.3K |
 | 00:30 | AUD | Full Employment Change (Feb) | 78.2K |  | 19.9K |
 | 00:30 | AUD | Unemployment Rate (Feb) | 3.7% | 4.0% | 4.1% |
 | 00:30 | JPY | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
