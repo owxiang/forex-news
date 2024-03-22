@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | -0.4% | -0.7% | 0.5% |
 | 07:00 | GBP | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
 | 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
@@ -21,13 +21,13 @@
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 509 |  | 510 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count | 624 |  | 629 |
 | 17:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 16 min | GBP | CFTC GBP speculative net positions |  |  | 70.5K |
-| 16 min | USD | CFTC Crude Oil speculative net positions |  |  | 233.8K |
-| 16 min | USD | CFTC Gold speculative net positions |  |  | 201.6K |
-| 16 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 1.4K |
-| 16 min | USD | CFTC S&P 500 speculative net positions |  |  | -239.8K |
-| 16 min | AUD | CFTC AUD speculative net positions |  |  | -90.8K |
-| 16 min | BRL | CFTC BRL speculative net positions |  |  | 8.7K |
-| 16 min | JPY | CFTC JPY speculative net positions |  |  | -102.3K |
-| 16 min | EUR | CFTC EUR speculative net positions |  |  | 74.4K |
-| 46 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 19:30 | GBP | CFTC GBP speculative net positions | 53.2K |  | 70.5K |
+| 19:30 | USD | CFTC Crude Oil speculative net positions | 277.8K |  | 233.8K |
+| 19:30 | USD | CFTC Gold speculative net positions | 201.6K |  | 201.6K |
+| 19:30 | USD | CFTC Nasdaq 100 speculative net positions | 11.2K |  | 1.4K |
+| 19:30 | USD | CFTC S&P 500 speculative net positions | -194.2K |  | -239.8K |
+| 19:30 | AUD | CFTC AUD speculative net positions | -107.5K |  | -90.8K |
+| 19:30 | BRL | CFTC BRL speculative net positions | 10.3K |  | 8.7K |
+| 19:30 | JPY | CFTC JPY speculative net positions | -116.0K |  | -102.3K |
+| 19:30 | EUR | CFTC EUR speculative net positions | 48.3K |  | 74.4K |
+| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
