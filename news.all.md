@@ -5,20 +5,20 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | -0.4% | -0.7% | 0.5% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 0.0% | -0.4% | -1.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | -5.9% | -7.4% | -7.0% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,056.8B |  | 3,113.7B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Feb) | 3.5% |  | 3.5% |
-| 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Business Expectations (Mar) |  | 84.7 | 84.1 |
-| 09:00 | EUR | Moderate | German Current Assessment (Mar) |  | 86.8 | 86.9 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Mar) |  | 85.9 | 85.5 |
-| 09:00 | NOK | Low | Unemployment Change (Mar) |  |  | 71.08K |
-| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.10% |
+| 41 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 41 min | EUR | Moderate | German Business Expectations (Mar) |  | 84.7 | 84.1 |
+| 41 min | EUR | Moderate | German Current Assessment (Mar) |  | 86.8 | 86.9 |
+| 41 min | EUR | Moderate | German Ifo Business Climate Index (Mar) |  | 85.9 | 85.5 |
+| 41 min | NOK | Low | Unemployment Change (Mar) |  |  | 71.08K |
+| 41 min | NOK | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.10% |
 | 10:00 | CNY | Low | FDI |  |  | -11.70% |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 10:30 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |

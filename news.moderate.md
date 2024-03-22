@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
-| 07:00 | GBP | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Feb) | -0.4% | -0.7% | 0.5% |
-| 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Mar) |  | 84.7 | 84.1 |
-| 09:00 | EUR | German Current Assessment (Mar) |  | 86.8 | 86.9 |
-| 09:00 | EUR | German Ifo Business Climate Index (Mar) |  | 85.9 | 85.5 |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
+| 41 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 41 min | EUR | German Business Expectations (Mar) |  | 84.7 | 84.1 |
+| 41 min | EUR | German Current Assessment (Mar) |  | 86.8 | 86.9 |
+| 41 min | EUR | German Ifo Business Climate Index (Mar) |  | 85.9 | 85.5 |
 | 10:00 | EUR | Euro Summit |  |  |  |
 | 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | -0.4% | 0.6% |
 | 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | 0.9% |

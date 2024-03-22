@@ -8,8 +8,8 @@
 | 07:00 | EUR | German Import Price Index (YoY) (Jan) | -5.9% | -7.4% | -7.0% |
 | 07:00 | NOK | M3 Money Supply (Feb) | 3,056.8B |  | 3,113.7B |
 | 07:00 | NOK | Credit Indicator (YoY) (Feb) | 3.5% |  | 3.5% |
-| 09:00 | NOK | Unemployment Change (Mar) |  |  | 71.08K |
-| 09:00 | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.10% |
+| 41 min | NOK | Unemployment Change (Mar) |  |  | 71.08K |
+| 41 min | NOK | Unemployment Rate n.s.a. (Mar) |  |  | 2.10% |
 | 10:00 | CNY | FDI |  |  | -11.70% |
 | 10:30 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -20 | -20 |
