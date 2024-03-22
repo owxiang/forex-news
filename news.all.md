@@ -38,10 +38,10 @@
 | 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | CAD | Low | Budget Balance (Jan) | -2.10B |  | -4.47B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) | -25.70B |  | -23.61B |
-| 45 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |
-| 17:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
+| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |
+| 40 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 19:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 70.5K |
 | 19:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 19:30 | USD | Low | CFTC Copper speculative net positions |  |  | 5.4K |

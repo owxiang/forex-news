@@ -17,10 +17,10 @@
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
 | 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 45 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
-| 17:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 40 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
+| 40 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
+| 40 min | EUR | ECB's Lane Speaks |  |  |  |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 70.5K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 233.8K |
 | 19:30 | USD | CFTC Gold speculative net positions |  |  | 201.6K |
