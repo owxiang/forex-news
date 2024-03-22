@@ -30,12 +30,12 @@
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) | 0.27% | 0.28% | -0.10% |
 | 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.60% | 0.30% | -0.10% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | 2.00% | 2.60% | 1.10% |
-| 2 min | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.4% | 0.6% |
-| 2 min | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | 0.9% |
-| 32 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 32 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 32 min | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
-| 47 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) | 0.5% | -0.4% | 0.6% |
+| 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) | -0.3% | -0.4% | 0.9% |
+| 13:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
+| 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 15:00 | CAD | Low | Budget Balance (Jan) |  |  | -4.47B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -23.61B |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

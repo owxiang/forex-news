@@ -12,11 +12,11 @@
 | 09:00 | EUR | German Current Assessment (Mar) | 88.1 | 86.8 | 86.9 |
 | 09:00 | EUR | German Ifo Business Climate Index (Mar) | 87.8 | 85.9 | 85.7 |
 | 10:00 | EUR | Euro Summit |  |  |  |
-| 2 min | CAD | Core Retail Sales (MoM) (Jan) |  | -0.4% | 0.6% |
-| 2 min | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | 0.9% |
-| 32 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 32 min | EUR | German Buba Wuermeling Speaks |  |  |  |
-| 47 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 12:30 | CAD | Core Retail Sales (MoM) (Jan) | 0.5% | -0.4% | 0.6% |
+| 12:30 | CAD | Retail Sales (MoM) (Jan) | -0.3% | -0.4% | 0.9% |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
