@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | RBA Financial Stability Review |  |  |  |
-| 40 min | GBP | Core Retail Sales (YoY) (Feb) |  | -0.9% | 0.7% |
-| 40 min | GBP | Core Retail Sales (MoM) (Feb) |  | -0.1% | 3.2% |
-| 40 min | GBP | Retail Sales (MoM) (Feb) |  | -0.4% | 3.4% |
-| 40 min | GBP | Retail Sales (YoY) (Feb) |  | -0.7% | 0.7% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
+| 07:00 | GBP | Retail Sales (YoY) (Feb) | -0.4% | -0.7% | 0.5% |
 | 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | German Business Expectations (Mar) |  | 84.7 | 84.1 |
 | 09:00 | EUR | German Current Assessment (Mar) |  | 86.8 | 86.9 |
