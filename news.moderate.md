@@ -1,41 +1,33 @@
-## 21 March 2024 - Moderate Impact Forex News
+## 22 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Employment Change (Feb) | 116.5K | 39.7K | 15.3K |
-| 00:30 | AUD | Full Employment Change (Feb) | 78.2K |  | 19.9K |
-| 00:30 | AUD | Unemployment Rate (Feb) | 3.7% | 4.0% | 4.1% |
-| 00:30 | JPY | au Jibun Bank Japan Services PMI | 54.9 |  | 52.9 |
-| 04:00 | NZD | Westpac Consumer Sentiment |  |  | 88.9 |
-| 08:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Mar) | 45.8 | 47.5 | 47.1 |
-| 08:15 | EUR | HCOB France Services PMI (Mar) | 47.8 | 48.8 | 48.4 |
-| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | CHF | SNB Press Conference |  |  |  |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Mar) | 41.6 | 43.1 | 42.5 |
-| 08:30 | EUR | HCOB Germany Services PMI (Mar) | 49.8 | 48.8 | 48.3 |
-| 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
-| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Mar) | 45.7 | 47.0 | 46.5 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 49.9 | 49.7 | 49.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 51.1 | 50.5 | 50.2 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.9 | 53.1 | 53.0 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 49.9 | 47.9 | 47.5 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 53.4 | 53.8 | 53.8 |
-| 12:00 | GBP | BoE MPC vote cut (Mar) | 1 | 1 | 1 |
-| 12:00 | GBP | BoE MPC vote hike (Mar) | 0 | 0 | 2 |
-| 12:00 | GBP | BoE MPC vote unchanged (Mar) | 8 | 8 | 6 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | USD | Continuing Jobless Claims | 1,807K | 1,820K | 1,803K |
-| 12:30 | USD | Current Account (Q4) | -194.8B | -209.0B | -196.4B |
-| 12:30 | USD | Philly Fed Employment (Mar) | -9.6 |  | -10.3 |
-| 12:30 | CAD | New Housing Price Index (MoM) (Feb) | 0.1% | 0.1% | -0.1% |
-| 13:45 | USD | S&P Global Composite PMI (Mar) | 52.2 | 52.2 | 52.5 |
-| 14:00 | USD | Existing Home Sales (MoM) (Feb) | 9.5% | -1.3% | 3.1% |
-| 14:00 | USD | US Leading Index (MoM) (Feb) | 0.1% | -0.1% | -0.4% |
+| 00:30 | AUD | RBA Financial Stability Review |  |  |  |
+| 07:00 | GBP | Core Retail Sales (YoY) (Feb) |  | -0.9% | 0.7% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Feb) |  | -0.1% | 3.2% |
+| 07:00 | GBP | Retail Sales (YoY) (Feb) |  | -0.7% | 0.7% |
+| 07:00 | GBP | Retail Sales (MoM) (Feb) |  | -0.4% | 3.4% |
+| 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 09:00 | EUR | German Business Expectations (Mar) |  | 84.7 | 84.1 |
+| 09:00 | EUR | German Current Assessment (Mar) |  | 86.8 | 86.9 |
+| 09:00 | EUR | German Ifo Business Climate Index (Mar) |  | 85.9 | 85.5 |
+| 10:00 | EUR | Euro Summit |  |  |  |
+| 12:30 | CAD | Core Retail Sales (MoM) (Jan) |  | -0.4% | 0.6% |
+| 12:30 | CAD | Retail Sales (MoM) (Jan) |  | -0.4% | 0.9% |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | EUR | German Buba Wuermeling Speaks |  |  |  |
+| 13:15 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 17:00 | USD | 10-Year TIPS Auction | 1.932% |  | 1.810% |
-| 19:00 | MXN | Interest Rate Decision (Mar) | 11.00% | 11.00% | 11.25% |
-| 20:30 | USD | Fed's Balance Sheet | 7,514B |  | 7,542B |
-| 12 min | JPY | National Core CPI (YoY) (Feb) |  | 2.8% | 2.0% |
-| 12 min | JPY | National CPI (MoM) |  |  | 0.0% |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 629 |
+| 17:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 70.5K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 233.8K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 201.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 1.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -239.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -90.8K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 8.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -102.3K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 74.4K |
