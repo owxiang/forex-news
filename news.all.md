@@ -28,16 +28,16 @@
 | 11:30 | INR | Low | FX Reserves, USD | 642.49B |  | 636.10B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) | 0.33% | 0.26% | 0.24% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) | 0.27% | 0.28% | -0.10% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.60% | 0.30% | -0.10% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | 2.00% | 2.60% | 1.10% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.60% | 0.30% | -0.10% |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) | 0.5% | -0.4% | 0.6% |
 | 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) | -0.3% | -0.4% | 0.9% |
 | 13:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 15:00 | CAD | Low | Budget Balance (Jan) | -2.10B |  | -4.47B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) | -25.70B |  | -23.61B |
+| 15:00 | CAD | Low | Budget Balance (Jan) | -2.10B |  | -4.47B |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 509 |  | 510 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 624 |  | 629 |
