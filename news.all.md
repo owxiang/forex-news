@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 43 min | IDR | Low | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.1% | 3.2% |
+| 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | -0.9% | 0.7% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.1% | 3.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.4% | 3.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | -0.7% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) |  | -0.4% | -1.1% |
@@ -37,9 +37,8 @@
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:30 | BRL | Low | Federal Tax Revenue |  |  | 280.64B |
-| 15:00 | CAD | Low | Budget Balance (Jan) |  |  | -4.47B |
 | 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -23.61B |
+| 15:00 | CAD | Low | Budget Balance (Jan) |  |  | -4.47B |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |
