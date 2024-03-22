@@ -5,10 +5,10 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | -0.4% | -0.7% | 0.5% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 0.0% | -0.4% | -1.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | -5.9% | -7.4% | -7.0% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,056.8B |  | 3,113.7B |
@@ -20,16 +20,16 @@
 | 09:00 | NOK | Low | Unemployment Change (Mar) | 71.56K |  | 71.00K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Mar) | 2.00% |  | 2.10% |
 | 10:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 13 min | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
-| 43 min | GBP | Low | CBI Industrial Trends Orders (Mar) |  | -20 | -20 |
-| 43 min | BRL | Low | FGV Consumer confidence (Mar) |  |  | 89.7 |
-| 11:30 | INR | Low | Bank Loan Growth |  |  | 20.5% |
-| 11:30 | INR | Low | Deposit Growth |  |  | 13.1% |
-| 11:30 | INR | Low | FX Reserves, USD |  |  | 636.10B |
-| 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.26% | 0.24% |
-| 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.28% | -0.10% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
-| 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
+| 10:20 | CNY | Low | FDI (Feb) | -19.90% |  | -11.70% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Mar) | -18 | -20 | -20 |
+| 11:00 | BRL | Low | FGV Consumer confidence (Mar) | 91.3 |  | 89.7 |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 20.5% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.1% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 636.10B |
+| 47 min | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.26% | 0.24% |
+| 47 min | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.28% | -0.10% |
+| 47 min | MXN | Low | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
+| 47 min | MXN | Low | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.4% | 0.6% |
 | 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | 0.9% |
 | 13:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
