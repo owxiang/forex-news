@@ -4,7 +4,6 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
-| 01:00 | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Feb) |  |  | 5.40% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | -0.9% | 0.7% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.1% | 3.2% |
@@ -30,8 +29,8 @@
 | 11:30 | INR | Low | FX Reserves, USD |  |  | 636.10B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) |  | 0.26% | 0.24% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) |  | 0.28% | -0.10% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) |  | -0.4% | 0.6% |
 | 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) |  | -0.4% | 0.9% |
 | 13:00 | USD | High | Fed Chair Powell Speaks |  |  |  |

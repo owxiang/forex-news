@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
-| 01:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
 | 04:00 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.40% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jan) |  | -0.4% | -1.1% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jan) |  | -7.4% | -8.5% |
@@ -20,8 +19,8 @@
 | 11:30 | INR | FX Reserves, USD |  |  | 636.10B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  | 0.26% | 0.24% |
 | 12:00 | MXN | 1st Half-Month CPI (Mar) |  | 0.28% | -0.10% |
-| 12:00 | MXN | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
 | 12:00 | MXN | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
+| 12:00 | MXN | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
 | 13:30 | BRL | Federal Tax Revenue |  |  | 280.64B |
 | 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -23.61B |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | -4.47B |
