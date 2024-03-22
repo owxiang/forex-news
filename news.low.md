@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
-| 04:00 | IDR | M2 Money Supply (YoY) (Feb) |  |  | 5.40% |
+| 43 min | IDR | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
 | 07:00 | EUR | German Import Price Index (MoM) (Jan) |  | -0.4% | -1.1% |
 | 07:00 | EUR | German Import Price Index (YoY) (Jan) |  | -7.4% | -8.5% |
 | 07:00 | NOK | M3 Money Supply (Feb) |  |  | 3,113.7B |
@@ -22,8 +22,8 @@
 | 12:00 | MXN | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
 | 12:00 | MXN | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
 | 13:30 | BRL | Federal Tax Revenue |  |  | 280.64B |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -23.61B |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | -4.47B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -23.61B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 5.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -189.0K |
