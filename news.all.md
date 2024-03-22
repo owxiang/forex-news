@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
 | 00:30 | AUD | Moderate | RBA Financial Stability Review |  |  |  |
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | -0.9% | 0.7% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) |  | -0.1% | 3.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) |  | -0.9% | 0.7% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) |  | -0.4% | 3.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) |  | -0.7% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) |  | -0.4% | -1.1% |
