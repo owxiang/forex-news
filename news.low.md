@@ -10,18 +10,18 @@
 | 07:00 | NOK | Credit Indicator (YoY) (Feb) | 3.5% |  | 3.5% |
 | 09:00 | NOK | Unemployment Change (Mar) | 71.56K |  | 71.00K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Mar) | 2.00% |  | 2.10% |
-| 10:30 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Mar) |  | -20 | -20 |
-| 11:00 | BRL | FGV Consumer confidence (Mar) |  |  | 89.7 |
+| 13 min | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
+| 43 min | GBP | CBI Industrial Trends Orders (Mar) |  | -20 | -20 |
+| 43 min | BRL | FGV Consumer confidence (Mar) |  |  | 89.7 |
 | 11:30 | INR | Bank Loan Growth |  |  | 20.5% |
 | 11:30 | INR | Deposit Growth |  |  | 13.1% |
 | 11:30 | INR | FX Reserves, USD |  |  | 636.10B |
 | 12:00 | MXN | 1st Half-Month Core CPI (Mar) |  | 0.26% | 0.24% |
 | 12:00 | MXN | 1st Half-Month CPI (Mar) |  | 0.28% | -0.10% |
-| 12:00 | MXN | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
 | 12:00 | MXN | Economic Activity (MoM) (Jan) |  | 0.30% | 0.00% |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -23.61B |
+| 12:00 | MXN | Economic Activity (YoY) (Jan) |  | 2.60% | 1.10% |
 | 15:00 | CAD | Budget Balance (Jan) |  |  | -4.47B |
+| 15:00 | CAD | Budget Balance (YoY) (Jan) |  |  | -23.61B |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.4K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 5.4K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | -189.0K |
