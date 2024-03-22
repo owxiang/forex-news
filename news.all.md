@@ -7,8 +7,8 @@
 | 03:00 | IDR | Low | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Feb) | -0.5% | -0.9% | 0.5% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Feb) | 0.2% | -0.1% | 3.4% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Feb) | -0.4% | -0.7% | 0.5% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Feb) | 0.0% | -0.4% | 3.6% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Jan) | 0.0% | -0.4% | -1.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Jan) | -5.9% | -7.4% | -7.0% |
 | 07:00 | NOK | Low | M3 Money Supply (Feb) | 3,056.8B |  | 3,113.7B |
@@ -28,16 +28,16 @@
 | 11:30 | INR | Low | FX Reserves, USD | 642.49B |  | 636.10B |
 | 12:00 | MXN | Low | 1st Half-Month Core CPI (Mar) | 0.33% | 0.26% | 0.24% |
 | 12:00 | MXN | Low | 1st Half-Month CPI (Mar) | 0.27% | 0.28% | -0.10% |
-| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.60% | 0.30% | -0.10% |
 | 12:00 | MXN | Low | Economic Activity (YoY) (Jan) | 2.00% | 2.60% | 1.10% |
+| 12:00 | MXN | Low | Economic Activity (MoM) (Jan) | -0.60% | 0.30% | -0.10% |
 | 12:30 | CAD | Moderate | Core Retail Sales (MoM) (Jan) | 0.5% | -0.4% | 0.6% |
 | 12:30 | CAD | Moderate | Retail Sales (MoM) (Jan) | -0.3% | -0.4% | 0.9% |
 | 13:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | EUR | Moderate | German Buba Wuermeling Speaks |  |  |  |
 | 13:15 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 15:00 | CAD | Low | Budget Balance (Jan) |  |  | -4.47B |
-| 15:00 | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -23.61B |
+| 45 min | CAD | Low | Budget Balance (YoY) (Jan) |  |  | -23.61B |
+| 45 min | CAD | Low | Budget Balance (Jan) |  |  | -4.47B |
 | 16:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 510 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 629 |
