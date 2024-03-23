@@ -1,5 +1,3 @@
-## 22 March 2024 - High Impact Forex News
+## 24 March 2024 - High Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 13:00 | USD | Fed Chair Powell Speaks |  |  |  |
+There is no high impact news today.

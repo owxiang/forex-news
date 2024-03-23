@@ -1,35 +1,5 @@
-## 22 March 2024 - Low Impact Forex News
+## 24 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | GfK Consumer Confidence (Mar) | -21 | -19 | -21 |
-| 03:00 | IDR | M2 Money Supply (YoY) (Feb) | 5.30% |  | 5.40% |
-| 07:00 | EUR | German Import Price Index (MoM) (Jan) | 0.0% | -0.4% | -1.0% |
-| 07:00 | EUR | German Import Price Index (YoY) (Jan) | -5.9% | -7.4% | -7.0% |
-| 07:00 | NOK | M3 Money Supply (Feb) | 3,056.8B |  | 3,113.7B |
-| 07:00 | NOK | Credit Indicator (YoY) (Feb) | 3.5% |  | 3.5% |
-| 09:00 | NOK | Unemployment Change (Mar) | 71.56K |  | 71.00K |
-| 09:00 | NOK | Unemployment Rate n.s.a. (Mar) | 2.00% |  | 2.10% |
-| 10:20 | CNY | FDI (Feb) | -19.90% |  | -11.70% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Mar) | -18 | -20 | -20 |
-| 11:00 | BRL | FGV Consumer confidence (Mar) | 91.3 |  | 89.7 |
-| 11:30 | INR | Bank Loan Growth | 20.4% |  | 20.5% |
-| 11:30 | INR | Deposit Growth | 13.7% |  | 13.1% |
-| 11:30 | INR | FX Reserves, USD | 642.49B |  | 636.10B |
-| 12:00 | MXN | 1st Half-Month Core CPI (Mar) | 0.33% | 0.26% | 0.24% |
-| 12:00 | MXN | 1st Half-Month CPI (Mar) | 0.27% | 0.28% | -0.10% |
-| 12:00 | MXN | Economic Activity (YoY) (Jan) | 2.00% | 2.60% | 1.10% |
-| 12:00 | MXN | Economic Activity (MoM) (Jan) | -0.60% | 0.30% | -0.10% |
-| 15:00 | CAD | Budget Balance (YoY) (Jan) | -25.70B |  | -23.61B |
-| 15:00 | CAD | Budget Balance (Jan) | -2.10B |  | -4.47B |
-| 19:30 | USD | CFTC Aluminium speculative net positions | 2.5K |  | 2.4K |
-| 19:30 | USD | CFTC Copper speculative net positions | 31.9K |  | 5.4K |
-| 19:30 | USD | CFTC Corn speculative net positions | -175.5K |  | -189.0K |
-| 19:30 | USD | CFTC Natural Gas speculative net positions | -103.6K |  | -101.5K |
-| 19:30 | USD | CFTC Silver speculative net positions | 52.4K |  | 41.0K |
-| 19:30 | USD | CFTC Soybeans speculative net positions | -167.7K |  | -180.4K |
-| 19:30 | USD | CFTC Wheat speculative net positions | -56.1K |  | -53.8K |
-| 19:30 | CAD | CFTC CAD speculative net positions | -37.1K |  | -30.9K |
-| 19:30 | MXN | CFTC MXN speculative net positions | 128.7K |  | 104.3K |
-| 19:30 | CHF | CFTC CHF speculative net positions | -20.5K |  | -17.9K |
-| 19:30 | NZD | CFTC NZD speculative net positions | -0.2K |  | 2.5K |
+| 12:00 | AUD | MI Inflation Expectations |  |  | 4.5% |
