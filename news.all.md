@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 12:00 | AUD | Low | MI Inflation Expectations |  |  | 4.5% |
+| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
