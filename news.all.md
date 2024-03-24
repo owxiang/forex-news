@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 32 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
