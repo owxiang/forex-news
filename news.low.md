@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Leading Index | 109.5 | 109.9 | 109.9 |
 | 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
+| 05:00 | JPY | Leading Index | 109.5 | 109.9 | 109.9 |
 | 05:00 | SGD | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 08:00 | EUR | Spanish PPI (YoY) | -8.2% |  | -3.9% |
-| 10:30 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
-| 11:00 | GBP | CBI Distributive Trades Survey (Mar) |  | -13 | -7 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
+| 44 min | GBP | CBI Distributive Trades Survey (Mar) |  | -13 | -7 |
+| 44 min | EUR | German Buba Monthly Report |  |  |  |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
 | 11:30 | BRL | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
