@@ -10,4 +10,4 @@
 | 14:00 | USD | New Home Sales (MoM) (Feb) | -0.3% |  | 1.7% |
 | 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 17:00 | USD | 2-Year Note Auction | 4.595% |  | 4.691% |
-| 18:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 10 min | EUR | German Buba Balz Speaks |  |  |  |
