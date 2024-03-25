@@ -22,6 +22,6 @@
 | 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.245% |
 | 15:30 | USD | 6-Month Bill Auction | 5.105% |  | 5.130% |
-| 21:00 | KRW | Consumer Confidence (Mar) |  |  | 101.9 |
+| 44 min | KRW | Consumer Confidence (Mar) |  |  | 101.9 |
 | 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
