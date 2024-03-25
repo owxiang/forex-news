@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Low | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Low | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | JPY | Low | Leading Index | 109.5 | 109.9 | 109.9 |
+| 05:00 | JPY | Low | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 3.60% | 3.40% | 3.10% |
 | 05:00 | SGD | Low | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 3.4% | 3.3% | 2.9% |
@@ -28,9 +28,9 @@
 | 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:30 | USD | Low | Dallas Fed Mfg Business Index (Mar) | -14.4 |  | -11.3 |
 | 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 13 min | USD | Low | 3-Month Bill Auction |  |  | 5.245% |
-| 13 min | USD | Low | 6-Month Bill Auction |  |  | 5.130% |
-| 17:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.691% |
+| 15:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.245% |
+| 15:30 | USD | Low | 6-Month Bill Auction | 5.105% |  | 5.130% |
+| 40 min | USD | Moderate | 2-Year Note Auction |  |  | 4.691% |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) |  |  | 101.9 |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |

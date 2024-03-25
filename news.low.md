@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | JPY | Leading Index | 109.5 | 109.9 | 109.9 |
+| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | SGD | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 08:00 | EUR | Spanish PPI (YoY) | -8.2% |  | -3.9% |
 | 10:00 | EUR | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
@@ -20,8 +20,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 3.690% |  | 3.775% |
 | 14:30 | USD | Dallas Fed Mfg Business Index (Mar) | -14.4 |  | -11.3 |
 | 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.245% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.130% |
+| 15:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.245% |
+| 15:30 | USD | 6-Month Bill Auction | 5.105% |  | 5.130% |
 | 21:00 | KRW | Consumer Confidence (Mar) |  |  | 101.9 |
 | 23:30 | AUD | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
 | 23:50 | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
