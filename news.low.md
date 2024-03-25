@@ -8,12 +8,12 @@
 | 05:00 | SGD | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 08:00 | EUR | Spanish PPI (YoY) | -8.2% |  | -3.9% |
 | 10:00 | EUR | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
-| 44 min | GBP | CBI Distributive Trades Survey (Mar) |  | -13 | -7 |
-| 44 min | EUR | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
-| 11:30 | BRL | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
-| 12:00 | USD | Building Permits (MoM) |  | 1.9% | -0.3% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11 min | BRL | BCB Focus Market Readout |  |  |  |
+| 16 min | BRL | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
+| 16 min | BRL | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
+| 46 min | USD | Building Permits (MoM) |  | 1.9% | -0.3% |
 | 12:30 | USD | Chicago Fed National Activity (Feb) |  |  | -0.30 |
 | 12:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.2% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.526% |

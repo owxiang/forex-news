@@ -11,13 +11,13 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) | -8.2% |  | -3.9% |
 | 10:00 | EUR | Low | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 44 min | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -13 | -7 |
-| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | BRL | Low | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
-| 11:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
-| 12:00 | USD | Low | Building Permits (MoM) |  | 1.9% | -0.3% |
-| 12:00 | USD | Moderate | Building Permits |  | 1.518M | 1.489M |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 16 min | BRL | Low | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
+| 16 min | BRL | Low | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
+| 46 min | USD | Moderate | Building Permits |  | 1.518M | 1.489M |
+| 46 min | USD | Low | Building Permits (MoM) |  | 1.9% | -0.3% |
 | 12:25 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) |  |  | -0.30 |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.2% |
