@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Core CPI (YoY) (Feb) |  | 3.40% | 3.10% |
-| 05:00 | SGD | CPI (YoY) (Feb) |  | 3.3% | 2.9% |
+| 40 min | SGD | Core CPI (YoY) (Feb) |  | 3.40% | 3.10% |
+| 40 min | SGD | CPI (YoY) (Feb) |  | 3.3% | 2.9% |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 12:00 | USD | Building Permits |  | 1.518M | 1.489M |
 | 12:25 | USD | FOMC Member Bostic Speaks |  |  |  |

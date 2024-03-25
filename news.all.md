@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) |  |  | -5.8% |
-| 05:00 | JPY | Low | Leading Index |  | 109.9 | 110.2 |
-| 05:00 | JPY | Low | Leading Index (MoM) |  | -0.6% | 2.1% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) |  | 3.40% | 3.10% |
-| 05:00 | SGD | Low | CPI (MoM) (Feb) |  |  | -0.70% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Feb) |  | 3.3% | 2.9% |
+| 40 min | JPY | Low | Coincident Indicator (MoM) |  |  | -5.8% |
+| 40 min | JPY | Low | Leading Index |  | 109.9 | 110.2 |
+| 40 min | JPY | Low | Leading Index (MoM) |  | -0.6% | 2.1% |
+| 40 min | SGD | Moderate | Core CPI (YoY) (Feb) |  | 3.40% | 3.10% |
+| 40 min | SGD | Low | CPI (MoM) (Feb) |  |  | -0.70% |
+| 40 min | SGD | Moderate | CPI (YoY) (Feb) |  | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -3.8% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
@@ -16,8 +16,8 @@
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 11:30 | BRL | Low | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
 | 11:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
-| 12:00 | USD | Low | Building Permits (MoM) |  | 1.9% | -0.3% |
 | 12:00 | USD | Moderate | Building Permits |  | 1.518M | 1.489M |
+| 12:00 | USD | Low | Building Permits (MoM) |  | 1.9% | -0.3% |
 | 12:25 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) |  |  | -0.30 |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.2% |
