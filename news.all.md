@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Low | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Low | Leading Index | 109.5 | 109.9 | 110.2 |
+| 05:00 | JPY | Low | Leading Index | 109.5 | 109.9 | 109.9 |
 | 05:00 | JPY | Low | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 3.60% | 3.40% | 3.10% |
 | 05:00 | SGD | Low | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 3.4% | 3.3% | 2.9% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -3.8% |
+| 45 min | EUR | Low | Spanish PPI (YoY) |  |  | -3.8% |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -13 | -7 |
