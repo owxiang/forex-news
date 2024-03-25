@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | JPY | Leading Index | 109.5 | 109.9 | 110.2 |
+| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | SGD | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 08:00 | EUR | Spanish PPI (YoY) |  |  | -3.8% |
 | 10:30 | EUR | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
