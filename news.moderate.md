@@ -7,7 +7,7 @@
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 11:20 | USD | Building Permits | 1.524M | 1.518M | 1.489M |
 | 12:25 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 42 min | USD | New Home Sales (MoM) (Feb) |  |  | 1.5% |
-| 57 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 14:00 | USD | New Home Sales (MoM) (Feb) | -0.3% |  | 1.7% |
+| 14:15 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 17:00 | USD | 2-Year Note Auction |  |  | 4.691% |
 | 18:30 | EUR | German Buba Balz Speaks |  |  |  |

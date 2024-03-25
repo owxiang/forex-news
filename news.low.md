@@ -15,11 +15,11 @@
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | USD | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
 | 12:30 | CAD | Manufacturing Sales (MoM) | 0.7% |  | 0.2% |
-| 42 min | EUR | French 12-Month BTF Auction |  |  | 3.526% |
-| 42 min | EUR | French 3-Month BTF Auction |  |  | 3.796% |
-| 42 min | EUR | French 6-Month BTF Auction |  |  | 3.775% |
-| 14:30 | USD | Dallas Fed Mfg Business Index (Mar) |  |  | -11.3 |
-| 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.436% |  | 3.526% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.844% |  | 3.796% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.690% |  | 3.775% |
+| 16 min | USD | Dallas Fed Mfg Business Index (Mar) |  |  | -11.3 |
+| 16 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 5.245% |
 | 15:30 | USD | 6-Month Bill Auction |  |  | 5.130% |
 | 21:00 | KRW | Consumer Confidence (Mar) |  |  | 101.9 |
