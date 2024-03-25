@@ -11,13 +11,13 @@
 | 10:30 | EUR | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:20 | USD | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
 | 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 11:30 | USD | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
-| 2 min | USD | Chicago Fed National Activity (Feb) |  |  | -0.30 |
-| 2 min | CAD | Manufacturing Sales (MoM) |  |  | 0.2% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.526% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.796% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.775% |
+| 12:30 | USD | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
+| 12:30 | CAD | Manufacturing Sales (MoM) | 0.7% |  | 0.2% |
+| 42 min | EUR | French 12-Month BTF Auction |  |  | 3.526% |
+| 42 min | EUR | French 3-Month BTF Auction |  |  | 3.796% |
+| 42 min | EUR | French 6-Month BTF Auction |  |  | 3.775% |
 | 14:30 | USD | Dallas Fed Mfg Business Index (Mar) |  |  | -11.3 |
 | 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | 3-Month Bill Auction |  |  | 5.245% |

@@ -14,18 +14,18 @@
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:20 | USD | Low | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
+| 11:20 | USD | Moderate | Building Permits | 1.524M | 1.518M | 1.489M |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 11:30 | USD | Moderate | Building Permits | 1.524M | 1.518M | 1.489M |
-| 11:30 | USD | Low | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
 | 12:25 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 2 min | USD | Low | Chicago Fed National Activity (Feb) |  |  | -0.30 |
-| 2 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.2% |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) |  |  | 1.5% |
-| 14:00 | USD | High | New Home Sales (Feb) |  | 675K | 661K |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.526% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.796% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.775% |
-| 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 12:30 | USD | Low | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
+| 12:30 | CAD | Low | Manufacturing Sales (MoM) | 0.7% |  | 0.2% |
+| 42 min | USD | Moderate | New Home Sales (MoM) (Feb) |  |  | 1.5% |
+| 42 min | USD | High | New Home Sales (Feb) |  | 675K | 661K |
+| 42 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.526% |
+| 42 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.796% |
+| 42 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.775% |
+| 57 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 14:30 | USD | Low | Dallas Fed Mfg Business Index (Mar) |  |  | -11.3 |
 | 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | Low | 3-Month Bill Auction |  |  | 5.245% |
