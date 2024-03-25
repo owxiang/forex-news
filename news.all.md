@@ -14,8 +14,8 @@
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:20 | USD | Low | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
 | 11:20 | USD | Moderate | Building Permits | 1.524M | 1.518M | 1.489M |
+| 11:20 | USD | Low | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:25 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
@@ -30,7 +30,7 @@
 | 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.245% |
 | 15:30 | USD | Low | 6-Month Bill Auction | 5.105% |  | 5.130% |
-| 40 min | USD | Moderate | 2-Year Note Auction |  |  | 4.691% |
+| 17:00 | USD | Moderate | 2-Year Note Auction | 4.595% |  | 4.691% |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) |  |  | 101.9 |
 | 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
