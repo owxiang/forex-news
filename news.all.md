@@ -9,7 +9,7 @@
 | 05:00 | SGD | Low | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 3.4% | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) | -8.2% |  | -3.9% |
-| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 44 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | Low | Spanish Consumer Confidence (Feb) |  |  | 78.6 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) |  | -13 | -7 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
