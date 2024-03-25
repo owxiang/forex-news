@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Low | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Low | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | JPY | Low | Leading Index | 109.5 | 109.9 | 109.9 |
+| 05:00 | JPY | Low | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 3.60% | 3.40% | 3.10% |
 | 05:00 | SGD | Low | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 3.4% | 3.3% | 2.9% |
@@ -14,14 +14,14 @@
 | 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:20 | USD | Moderate | Building Permits | 1.524M | 1.518M | 1.489M |
 | 11:20 | USD | Low | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
+| 11:20 | USD | Moderate | Building Permits | 1.524M | 1.518M | 1.489M |
 | 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:25 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 12:30 | USD | Low | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
 | 12:30 | CAD | Low | Manufacturing Sales (MoM) | 0.7% |  | 0.2% |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) | -0.3% |  | 1.7% |
 | 14:00 | USD | High | New Home Sales (Feb) | 662K | 675K | 664K |
+| 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) | -0.3% |  | 1.7% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.436% |  | 3.526% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.844% |  | 3.796% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.690% |  | 3.775% |
@@ -33,5 +33,5 @@
 | 17:00 | USD | Moderate | 2-Year Note Auction | 4.595% |  | 4.691% |
 | 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 21:00 | KRW | Low | Consumer Confidence (Mar) | 100.7 |  | 101.9 |
-| 23:30 | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
-| 23:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
+| 13 min | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
+| 33 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
