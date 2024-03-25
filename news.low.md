@@ -3,19 +3,18 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | JPY | Leading Index | 109.5 | 109.9 | 109.9 |
+| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
 | 05:00 | SGD | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
 | 08:00 | EUR | Spanish PPI (YoY) | -8.2% |  | -3.9% |
 | 10:00 | EUR | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
+| 10:30 | EUR | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11 min | BRL | BCB Focus Market Readout |  |  |  |
-| 16 min | BRL | Current Account (USD) (Feb) |  | -4.00B | -5.07B |
-| 16 min | BRL | Foreign direct investment (USD) (Feb) |  |  | 8.74B |
-| 46 min | USD | Building Permits (MoM) |  | 1.9% | -0.3% |
-| 12:30 | USD | Chicago Fed National Activity (Feb) |  |  | -0.30 |
-| 12:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.2% |
+| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 11:30 | USD | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
+| 2 min | USD | Chicago Fed National Activity (Feb) |  |  | -0.30 |
+| 2 min | CAD | Manufacturing Sales (MoM) |  |  | 0.2% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.526% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.796% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.775% |
