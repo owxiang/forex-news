@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (YoY) (Feb) |  | 0.5% | 1.1% |
-| 05:00 | SGD | Industrial Production (MoM) (Feb) |  | 3.1% | -5.7% |
+| 42 min | SGD | Industrial Production (YoY) (Feb) |  | 0.5% | 1.1% |
+| 42 min | SGD | Industrial Production (MoM) (Feb) |  | 3.1% | -5.7% |
 | 07:00 | ZAR | Leading Indicators (Jan) |  |  | 111.00% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
 | 08:30 | HKD | Exports (MoM) (Feb) |  |  | 33.6% |
@@ -13,8 +13,8 @@
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.769% |
 | 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | BRL | Bank lending (MoM) (Feb) |  |  | -0.3% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 4.13% | 4.49% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.33% | 0.78% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 4.10% | 4.49% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.32% | 0.78% |
 | 12:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | -7.4% |
 | 12:30 | USD | Durables Excluding Transport (MoM) |  |  | -0.4% |
 | 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  | 0.1% | 0.1% |
