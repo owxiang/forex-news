@@ -16,8 +16,8 @@
 | 11:30 | INR | Current Account % of GDP (QoQ) (Q4) | -1.20% |  | -1.00% |
 | 11:30 | INR | Current Account (USD) (Q4) | -10.50B |  | -11.40B |
 | 11:30 | INR | Trade Balance (USD) (Q4) | -71.600B |  | -61.000B |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 4.14% | 4.10% | 4.49% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Mar) | 0.36% | 0.32% | 0.78% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 4.14% | 4.10% | 4.49% |
 | 12:30 | USD | Durables Excluding Defense (MoM) (Feb) | 2.2% |  | -7.9% |
 | 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) | 0.7% | 0.1% | -0.4% |
 | 12:55 | USD | Redbook (YoY) | 3.9% |  | 3.4% |
