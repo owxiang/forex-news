@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
 | 05:00 | SGD | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
-| 07:00 | ZAR | Leading Indicators (Jan) |  |  | 111.00% |
+| 05:00 | SGD | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
+| 39 min | ZAR | Leading Indicators (Jan) |  |  | 111.00% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
 | 08:30 | HKD | Exports (MoM) (Feb) |  |  | 33.6% |
 | 08:30 | HKD | Imports (MoM) (Feb) |  |  | 21.7% |
