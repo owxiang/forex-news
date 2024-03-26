@@ -6,12 +6,12 @@
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -27.4 | -27.9 | -28.8 |
-| 07:00 | ZAR | Low | Leading Indicators (Jan) | 110.80% |  | 111.00% |
-| 46 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
-| 46 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
-| 08:30 | HKD | Low | Exports (MoM) (Feb) |  |  | 33.6% |
-| 08:30 | HKD | Low | Imports (MoM) (Feb) |  |  | 21.7% |
-| 08:30 | HKD | Low | Trade Balance |  |  | 3.6B |
+| 07:00 | ZAR | Low | Leading Indicators (Jan) | 110.80% |  | 111.34% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 2.0% | 1.8% |
+| 11 min | HKD | Low | Exports (MoM) (Feb) |  |  | 33.6% |
+| 11 min | HKD | Low | Imports (MoM) (Feb) |  |  | 21.7% |
+| 11 min | HKD | Low | Trade Balance |  |  | 3.6B |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.314% |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.769% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
