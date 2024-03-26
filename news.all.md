@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 42 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.6% |
-| 42 min | SGD | Low | Industrial Production (YoY) (Feb) |  | 0.5% | 1.1% |
-| 42 min | SGD | Low | Industrial Production (MoM) (Feb) |  | 3.1% | -5.7% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.3% | 2.5% | 2.6% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -27.9 | -29.0 |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) |  |  | 111.00% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
 | 08:30 | HKD | Low | Exports (MoM) (Feb) |  |  | 33.6% |
 | 08:30 | HKD | Low | Imports (MoM) (Feb) |  |  | 21.7% |
 | 08:30 | HKD | Low | Trade Balance |  |  | 3.6B |
@@ -17,8 +17,8 @@
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.310% |
 | 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 11:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.3% |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 4.10% | 4.49% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.32% | 0.78% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 4.10% | 4.49% |
 | 12:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.4% | -0.3% |
 | 12:30 | USD | High | Durable Goods Orders (MoM) (Feb) |  | 1.2% | -6.1% |
@@ -31,8 +31,8 @@
 | 13:00 | USD | Low | House Price Index (MoM) (Jan) |  | 0.2% | 0.1% |
 | 13:00 | USD | Low | House Price Index (Jan) |  |  | 417.8 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.2% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  |  | -0.3% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 6.6% | 6.1% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  |  | -0.3% |
 | 14:00 | USD | High | CB Consumer Confidence (Mar) |  | 106.9 | 106.7 |
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | -5 | -5 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -15 |
