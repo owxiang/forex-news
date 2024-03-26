@@ -21,14 +21,14 @@
 | 12:30 | USD | Durables Excluding Defense (MoM) (Feb) | 2.2% |  | -7.9% |
 | 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) | 0.7% | 0.1% | -0.4% |
 | 12:55 | USD | Redbook (YoY) | 3.9% |  | 3.4% |
-| 13:00 | USD | House Price Index (YoY) (Jan) | 6.3% |  | 6.7% |
 | 13:00 | USD | House Price Index (MoM) (Jan) | -0.1% | 0.2% | 0.1% |
+| 13:00 | USD | House Price Index (YoY) (Jan) | 6.3% |  | 6.7% |
 | 13:00 | USD | House Price Index (Jan) | 417.5 |  | 417.8 |
 | 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.1% |  | 0.3% |
 | 14:00 | USD | Richmond Manufacturing Index (Mar) | -11 | -5 | -5 |
 | 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -14 |  | -15 |
 | 14:00 | USD | Richmond Services Index (Mar) | -7 |  | -16 |
-| 15:30 | USD | Dallas Fed Services Revenues (Mar) |  |  | 5.2 |
-| 15:30 | USD | Texas Services Sector Outlook (Mar) |  |  | -3.9 |
+| 14:30 | USD | Dallas Fed Services Revenues (Mar) | 4.0 |  | 5.2 |
+| 14:30 | USD | Texas Services Sector Outlook (Mar) | -5.5 |  | -3.9 |
 | 21:00 | KRW | Manufacturing BSI Index (Apr) |  |  | 76 |
 | 23:30 | AUD | MI Leading Index (MoM) |  |  | -0.1% |

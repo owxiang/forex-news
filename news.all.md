@@ -7,8 +7,8 @@
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -27.4 | -27.9 | -28.8 |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) | 110.80% |  | 111.34% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 2.0% | 1.8% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 2.0% | 1.8% |
 | 08:30 | HKD | Low | Exports (MoM) (Feb) | -0.8% |  | 33.6% |
 | 08:30 | HKD | Low | Imports (MoM) (Feb) | -1.8% |  | 21.7% |
 | 08:30 | HKD | Low | Trade Balance | -41.7B |  | 3.6B |
@@ -29,8 +29,8 @@
 | 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Feb) | 0.7% | 0.1% | -0.4% |
 | 12:30 | CAD | Moderate | Wholesale Sales (MoM) | 0.8% |  | 0.1% |
 | 12:55 | USD | Low | Redbook (YoY) | 3.9% |  | 3.4% |
-| 13:00 | USD | Low | House Price Index (YoY) (Jan) | 6.3% |  | 6.7% |
 | 13:00 | USD | Low | House Price Index (MoM) (Jan) | -0.1% | 0.2% | 0.1% |
+| 13:00 | USD | Low | House Price Index (YoY) (Jan) | 6.3% |  | 6.7% |
 | 13:00 | USD | Low | House Price Index (Jan) | 417.5 |  | 417.8 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.1% |  | 0.3% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.3% |
@@ -39,8 +39,8 @@
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) | -11 | -5 | -5 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -14 |  | -15 |
 | 14:00 | USD | Low | Richmond Services Index (Mar) | -7 |  | -16 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 5.2 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Mar) |  |  | -3.9 |
+| 14:30 | USD | Low | Dallas Fed Services Revenues (Mar) | 4.0 |  | 5.2 |
+| 14:30 | USD | Low | Texas Services Sector Outlook (Mar) | -5.5 |  | -3.9 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
 | 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.320% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
