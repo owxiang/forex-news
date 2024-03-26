@@ -33,8 +33,8 @@
 | 13:00 | USD | Low | House Price Index (MoM) (Jan) | -0.1% | 0.2% | 0.1% |
 | 13:00 | USD | Low | House Price Index (Jan) | 417.5 |  | 417.8 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.1% |  | 0.3% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.3% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 6.6% | 6.6% | 6.2% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.3% |
 | 14:00 | USD | High | CB Consumer Confidence (Mar) | 104.7 | 106.9 | 104.8 |
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) | -11 | -5 | -5 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -14 |  | -15 |
@@ -43,7 +43,7 @@
 | 14:30 | USD | Low | Texas Services Sector Outlook (Mar) | -5.5 |  | -3.9 |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 2.1% | 2.1% |
 | 17:00 | USD | Moderate | 5-Year Note Auction | 4.235% |  | 4.320% |
-| 40 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.519M |
 | 21:00 | KRW | Low | Manufacturing BSI Index (Apr) |  |  | 76 |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
