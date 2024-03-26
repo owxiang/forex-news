@@ -13,5 +13,5 @@
 | 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 6.6% | 6.6% | 6.2% |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 2.1% | 2.1% |
 | 17:00 | USD | 5-Year Note Auction | 4.235% |  | 4.320% |
-| 19:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 40 min | EUR | ECB's Lane Speaks |  |  |  |
 | 20:30 | USD | API Weekly Crude Oil Stock |  |  | -1.519M |
