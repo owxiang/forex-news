@@ -20,8 +20,8 @@
 | 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.20% |  | -1.00% |
 | 11:30 | INR | Low | Current Account (USD) (Q4) | -10.50B |  | -11.40B |
 | 11:30 | INR | Low | Trade Balance (USD) (Q4) | -71.600B |  | -61.000B |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 4.14% | 4.10% | 4.49% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.36% | 0.32% | 0.78% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 4.14% | 4.10% | 4.49% |
 | 12:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) | 0.5% | 0.4% | -0.3% |
 | 12:30 | USD | High | Durable Goods Orders (MoM) (Feb) | 1.4% | 1.2% | -6.9% |
@@ -33,8 +33,8 @@
 | 13:00 | USD | Low | House Price Index (MoM) (Jan) | -0.1% | 0.2% | 0.1% |
 | 13:00 | USD | Low | House Price Index (Jan) | 417.5 |  | 417.8 |
 | 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.1% |  | 0.3% |
-| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 6.6% | 6.6% | 6.2% |
 | 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.3% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 6.6% | 6.6% | 6.2% |
 | 14:00 | USD | High | CB Consumer Confidence (Mar) | 104.7 | 106.9 | 104.8 |
 | 14:00 | USD | Low | Richmond Manufacturing Index (Mar) | -11 | -5 | -5 |
 | 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) | -14 |  | -15 |
@@ -44,6 +44,6 @@
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.1% | 2.1% | 2.1% |
 | 17:00 | USD | Moderate | 5-Year Note Auction | 4.235% |  | 4.320% |
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.519M |
-| 21:00 | KRW | Low | Manufacturing BSI Index (Apr) |  |  | 76 |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.519M |
+| 44 min | KRW | Low | Manufacturing BSI Index (Apr) |  |  | 76 |
 | 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
