@@ -1,27 +1,32 @@
-## 25 March 2024 - Low Impact Forex News
+## 26 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Leading Index | 109.5 | 109.9 | 109.9 |
-| 05:00 | JPY | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
-| 05:00 | SGD | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
-| 08:00 | EUR | Spanish PPI (YoY) | -8.2% |  | -3.9% |
-| 10:00 | EUR | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
-| 10:30 | EUR | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:20 | USD | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
-| 11:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | USD | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
-| 12:30 | CAD | Manufacturing Sales (MoM) | 0.7% |  | 0.2% |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.436% |  | 3.526% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.844% |  | 3.796% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.690% |  | 3.775% |
-| 14:30 | USD | Dallas Fed Mfg Business Index (Mar) | -14.4 |  | -11.3 |
-| 14:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.245% |
-| 15:30 | USD | 6-Month Bill Auction | 5.105% |  | 5.130% |
-| 21:00 | KRW | Consumer Confidence (Mar) | 100.7 |  | 101.9 |
-| 13 min | AUD | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
-| 33 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
+| 05:00 | SGD | Industrial Production (YoY) (Feb) |  | 0.5% | 1.1% |
+| 05:00 | SGD | Industrial Production (MoM) (Feb) |  | 3.1% | -5.7% |
+| 07:00 | ZAR | Leading Indicators (Jan) |  |  | 111.00% |
+| 08:00 | EUR | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
+| 08:30 | HKD | Exports (MoM) (Feb) |  |  | 33.6% |
+| 08:30 | HKD | Imports (MoM) (Feb) |  |  | 21.7% |
+| 08:30 | HKD | Trade Balance |  |  | 3.6B |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.314% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.769% |
+| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 11:30 | BRL | Bank lending (MoM) (Feb) |  |  | -0.3% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) |  | 4.13% | 4.49% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) |  | 0.33% | 0.78% |
+| 12:30 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | -7.4% |
+| 12:30 | USD | Durables Excluding Transport (MoM) |  |  | -0.4% |
+| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) |  | 0.1% | 0.1% |
+| 12:55 | USD | Redbook (YoY) |  |  | 3.4% |
+| 13:00 | USD | House Price Index (YoY) (Jan) |  |  | 6.6% |
+| 13:00 | USD | House Price Index (MoM) (Jan) |  | 0.2% | 0.1% |
+| 13:00 | USD | House Price Index (Jan) |  |  | 417.8 |
+| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.2% |
+| 14:00 | USD | Richmond Manufacturing Index (Mar) |  | -5 | -5 |
+| 14:00 | USD | Richmond Manufacturing Shipments (Mar) |  |  | -15 |
+| 14:00 | USD | Richmond Services Index (Mar) |  |  | -16 |
+| 15:30 | USD | Dallas Fed Services Revenues (Mar) |  |  | 5.2 |
+| 15:30 | USD | Texas Services Sector Outlook (Mar) |  |  | -3.9 |
+| 21:00 | KRW | Manufacturing BSI Index (Apr) |  |  | 76 |
+| 23:30 | AUD | MI Leading Index (MoM) |  |  | -0.1% |

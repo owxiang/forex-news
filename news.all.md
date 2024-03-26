@@ -1,37 +1,46 @@
-## 25 March 2024 - All Forex News
+## 26 March 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | JPY | Low | Coincident Indicator (MoM) | -3.8% |  | -5.8% |
-| 05:00 | JPY | Low | Leading Index | 109.5 | 109.9 | 109.9 |
-| 05:00 | JPY | Low | Leading Index (MoM) | -0.4% | -0.6% | 2.1% |
-| 05:00 | SGD | Moderate | Core CPI (YoY) (Feb) | 3.60% | 3.40% | 3.10% |
-| 05:00 | SGD | Low | CPI (MoM) (Feb) | 1.10% |  | -0.70% |
-| 05:00 | SGD | Moderate | CPI (YoY) (Feb) | 3.4% | 3.3% | 2.9% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) | -8.2% |  | -3.9% |
-| 10:00 | EUR | Low | Spanish Consumer Confidence (Feb) | 78.5 |  | 78.6 |
-| 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction | 3.390% |  | 3.428% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Mar) | 2 | -13 | -7 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:20 | USD | Low | Building Permits (MoM) | 2.4% | 1.9% | -0.3% |
-| 11:20 | USD | Moderate | Building Permits | 1.524M | 1.518M | 1.489M |
-| 11:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:25 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 12:30 | USD | Low | Chicago Fed National Activity (Feb) | 0.05 |  | -0.54 |
-| 12:30 | CAD | Low | Manufacturing Sales (MoM) | 0.7% |  | 0.2% |
-| 14:00 | USD | High | New Home Sales (Feb) | 662K | 675K | 664K |
-| 14:00 | USD | Moderate | New Home Sales (MoM) (Feb) | -0.3% |  | 1.7% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.436% |  | 3.526% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.844% |  | 3.796% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.690% |  | 3.775% |
-| 14:15 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 14:30 | USD | Low | Dallas Fed Mfg Business Index (Mar) | -14.4 |  | -11.3 |
-| 14:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 15:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.245% |
-| 15:30 | USD | Low | 6-Month Bill Auction | 5.105% |  | 5.130% |
-| 17:00 | USD | Moderate | 2-Year Note Auction | 4.595% |  | 4.691% |
-| 18:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 21:00 | KRW | Low | Consumer Confidence (Mar) | 100.7 |  | 101.9 |
-| 13 min | AUD | Low | Westpac Consumer Sentiment (Mar) |  |  | 6.2% |
-| 33 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.0% | 2.1% |
+| 05:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.5% | 2.6% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) |  | 0.5% | 1.1% |
+| 05:00 | SGD | Low | Industrial Production (MoM) (Feb) |  | 3.1% | -5.7% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -27.7 | -29.0 |
+| 07:00 | ZAR | Low | Leading Indicators (Jan) |  |  | 111.00% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
+| 08:30 | HKD | Low | Exports (MoM) (Feb) |  |  | 33.6% |
+| 08:30 | HKD | Low | Imports (MoM) (Feb) |  |  | 21.7% |
+| 08:30 | HKD | Low | Trade Balance |  |  | 3.6B |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.314% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.769% |
+| 11:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 11:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.3% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) |  | 4.13% | 4.49% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) |  | 0.33% | 0.78% |
+| 12:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) |  | 0.4% | -0.3% |
+| 12:30 | USD | High | Durable Goods Orders (MoM) (Feb) |  | 1.2% | -6.1% |
+| 12:30 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | -7.4% |
+| 12:30 | USD | Low | Durables Excluding Transport (MoM) |  |  | -0.4% |
+| 12:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Feb) |  | 0.1% | 0.1% |
+| 12:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 0.1% |
+| 12:55 | USD | Low | Redbook (YoY) |  |  | 3.4% |
+| 13:00 | USD | Low | House Price Index (YoY) (Jan) |  |  | 6.6% |
+| 13:00 | USD | Low | House Price Index (MoM) (Jan) |  | 0.2% | 0.1% |
+| 13:00 | USD | Low | House Price Index (Jan) |  |  | 417.8 |
+| 13:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) |  |  | 0.2% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) |  |  | -0.3% |
+| 13:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) |  | 6.6% | 6.1% |
+| 14:00 | USD | High | CB Consumer Confidence (Mar) |  | 106.9 | 106.7 |
+| 14:00 | USD | Low | Richmond Manufacturing Index (Mar) |  | -5 | -5 |
+| 14:00 | USD | Low | Richmond Manufacturing Shipments (Mar) |  |  | -15 |
+| 14:00 | USD | Low | Richmond Services Index (Mar) |  |  | -16 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (Mar) |  |  | 5.2 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (Mar) |  |  | -3.9 |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
+| 17:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.320% |
+| 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 20:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.519M |
+| 21:00 | KRW | Low | Manufacturing BSI Index (Apr) |  |  | 76 |
+| 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
