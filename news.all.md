@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.3% | 2.5% | 2.6% |
-| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
 | 05:00 | SGD | Low | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
-| 39 min | EUR | Moderate | GfK German Consumer Climate (Apr) |  | -27.9 | -29.0 |
-| 39 min | ZAR | Low | Leading Indicators (Jan) |  |  | 111.00% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
+| 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -27.4 | -27.9 | -28.8 |
+| 07:00 | ZAR | Low | Leading Indicators (Jan) | 110.80% |  | 111.00% |
+| 46 min | EUR | Low | Spanish GDP (YoY) (Q4) |  | 2.0% | 1.8% |
+| 46 min | EUR | Moderate | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
 | 08:30 | HKD | Low | Exports (MoM) (Feb) |  |  | 33.6% |
 | 08:30 | HKD | Low | Imports (MoM) (Feb) |  |  | 21.7% |
 | 08:30 | HKD | Low | Trade Balance |  |  | 3.6B |

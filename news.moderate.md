@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:00 | JPY | BoJ Core CPI (YoY) | 2.3% | 2.5% | 2.6% |
-| 39 min | EUR | GfK German Consumer Climate (Apr) |  | -27.9 | -29.0 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
+| 07:00 | EUR | GfK German Consumer Climate (Apr) | -27.4 | -27.9 | -28.8 |
+| 46 min | EUR | Spanish GDP (QoQ) (Q4) |  | 0.6% | 0.3% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.310% |
 | 12:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 12:30 | USD | Core Durable Goods Orders (MoM) (Feb) |  | 0.4% | -0.3% |
