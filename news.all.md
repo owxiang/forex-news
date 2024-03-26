@@ -7,8 +7,8 @@
 | 05:00 | SGD | Low | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Apr) | -27.4 | -27.9 | -28.8 |
 | 07:00 | ZAR | Low | Leading Indicators (Jan) | 110.80% |  | 111.34% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 2.0% | 1.8% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q4) | 2.0% | 2.0% | 1.8% |
 | 08:30 | HKD | Low | Exports (MoM) (Feb) | -0.8% |  | 33.6% |
 | 08:30 | HKD | Low | Imports (MoM) (Feb) | -1.8% |  | 21.7% |
 | 08:30 | HKD | Low | Trade Balance | -41.7B |  | 3.6B |
@@ -20,8 +20,8 @@
 | 11:30 | INR | Low | Current Account % of GDP (QoQ) (Q4) | -1.20% |  | -1.00% |
 | 11:30 | INR | Low | Current Account (USD) (Q4) | -10.50B |  | -11.40B |
 | 11:30 | INR | Low | Trade Balance (USD) (Q4) | -71.600B |  | -61.000B |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.36% | 0.32% | 0.78% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Mar) | 4.14% | 4.10% | 4.49% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Mar) | 0.36% | 0.32% | 0.78% |
 | 12:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 12:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Feb) | 0.5% | 0.4% | -0.3% |
 | 12:30 | USD | High | Durable Goods Orders (MoM) (Feb) | 1.4% | 1.2% | -6.9% |
@@ -46,4 +46,4 @@
 | 19:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 20:30 | USD | Moderate | API Weekly Crude Oil Stock | 9.337M |  | -1.519M |
 | 21:00 | KRW | Low | Manufacturing BSI Index (Apr) | 74 |  | 76 |
-| 23:30 | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
+| 12 min | AUD | Low | MI Leading Index (MoM) |  |  | -0.1% |
