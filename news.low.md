@@ -12,25 +12,25 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
-| 09:00 | EUR | Spanish Current account (Jan) | 5.13B |  | 1.07B |
+| 09:00 | EUR | Spanish Current account (Jan) | 5.13B |  | 1.54B |
 | 09:00 | NOK | Central Bank Currency Purchase (Apr) | 350.0M |  | 350.0M |
-| 43 min | EUR | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
-| 43 min | EUR | Business Climate (Mar) |  |  | -0.42 |
-| 43 min | EUR | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
-| 43 min | EUR | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
-| 43 min | EUR | Selling Price Expectations (Mar) |  |  | 3.8 |
-| 43 min | EUR | Services Sentiment (Mar) |  | 7.8 | 6.0 |
-| 43 min | EUR | Industrial Sentiment (Mar) |  | -9.0 | -9.5 |
-| 53 min | EUR | Italian 5-Year BTP Auction |  |  | 3.41% |
-| 10:25 | EUR | Italian 7-Year BTP Auction |  |  | 3.31% |
-| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 11:00 | GBP | CBI Distributive Trades Survey |  |  | -7 |
-| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 11:00 | USD | MBA Purchase Index |  |  | 146.0 |
-| 11:00 | USD | Mortgage Market Index |  |  | 198.2 |
-| 11:00 | USD | Mortgage Refinance Index |  |  | 468.4 |
-| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
+| 10:00 | EUR | Business and Consumer Survey (Mar) | 96.3 | 96.3 | 95.5 |
+| 10:00 | EUR | Business Climate (Mar) | -0.30 |  | -0.41 |
+| 10:00 | EUR | Consumer Confidence (Mar) | -14.9 | -14.9 | -15.5 |
+| 10:00 | EUR | Consumer Inflation Expectation (Mar) | 12.3 |  | 15.4 |
+| 10:00 | EUR | Selling Price Expectations (Mar) | 5.6 |  | 3.9 |
+| 10:00 | EUR | Services Sentiment (Mar) | 6.3 | 7.8 | 6.0 |
+| 10:00 | EUR | Industrial Sentiment (Mar) | -8.8 | -9.0 | -9.4 |
+| 8 min | EUR | Italian 5-Year BTP Auction |  |  | 3.41% |
+| 8 min | EUR | Italian 7-Year BTP Auction |  |  | 3.31% |
+| 13 min | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 43 min | GBP | CBI Distributive Trades Survey |  |  | -7 |
+| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
+| 43 min | USD | MBA Purchase Index |  |  | 146.0 |
+| 43 min | USD | Mortgage Market Index |  |  | 198.2 |
+| 43 min | USD | Mortgage Refinance Index |  |  | 468.4 |
+| 43 min | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
 | 11:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
 | 11:30 | BRL | Budget Balance (Feb) |  |  | 22.232B |
 | 11:30 | BRL | Budget Surplus (Feb) |  |  | 102.146B |

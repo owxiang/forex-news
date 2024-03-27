@@ -10,31 +10,31 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
-| 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.07B |
+| 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) | 350.0M |  | 350.0M |
-| 43 min | EUR | Low | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
-| 43 min | EUR | Low | Business Climate (Mar) |  |  | -0.42 |
-| 43 min | EUR | Low | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
-| 43 min | EUR | Low | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
-| 43 min | EUR | Low | Selling Price Expectations (Mar) |  |  | 3.8 |
-| 43 min | EUR | Low | Services Sentiment (Mar) |  | 7.8 | 6.0 |
-| 43 min | EUR | Low | Industrial Sentiment (Mar) |  | -9.0 | -9.5 |
-| 53 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.41% |
-| 10:25 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
-| 10:25 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.31% |
-| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey |  |  | -7 |
-| 11:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 11:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 11:00 | USD | Low | MBA Purchase Index |  |  | 146.0 |
-| 11:00 | USD | Low | Mortgage Market Index |  |  | 198.2 |
-| 11:00 | USD | Low | Mortgage Refinance Index |  |  | 468.4 |
-| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,827.7K |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Mar) | 96.3 | 96.3 | 95.5 |
+| 10:00 | EUR | Low | Business Climate (Mar) | -0.30 |  | -0.41 |
+| 10:00 | EUR | Low | Consumer Confidence (Mar) | -14.9 | -14.9 | -15.5 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Mar) | 12.3 |  | 15.4 |
+| 10:00 | EUR | Low | Selling Price Expectations (Mar) | 5.6 |  | 3.9 |
+| 10:00 | EUR | Low | Services Sentiment (Mar) | 6.3 | 7.8 | 6.0 |
+| 10:00 | EUR | Low | Industrial Sentiment (Mar) | -8.8 | -9.0 | -9.4 |
+| 8 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
+| 8 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.41% |
+| 8 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.31% |
+| 13 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 43 min | GBP | Low | CBI Distributive Trades Survey |  |  | -7 |
+| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
+| 43 min | USD | Low | MBA Purchase Index |  |  | 146.0 |
+| 43 min | USD | Low | Mortgage Market Index |  |  | 198.2 |
+| 43 min | USD | Low | Mortgage Refinance Index |  |  | 468.4 |
+| 43 min | EUR | Moderate | France Jobseekers Total |  |  | 2,827.7K |
+| 43 min | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
 | 11:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
 | 11:30 | BRL | Low | Budget Balance (Feb) |  |  | 22.232B |
 | 11:30 | BRL | Low | Budget Surplus (Feb) |  |  | 102.146B |
