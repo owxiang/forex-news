@@ -5,7 +5,7 @@
 | 00:00 | AUD | Low | MI Leading Index (MoM) (Feb) | 0.1% |  | -0.1% |
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) | 3.40% | 3.50% | 3.40% |
 | 01:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 22 min | CNY | Low | Chinese Industrial profit YTD (Feb) |  |  | -2.3% |
+| 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) |  | 90 | 89 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.1% | 2.8% |
