@@ -10,8 +10,8 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
@@ -53,8 +53,8 @@
 | 14:30 | USD | Low | Heating Oil Stockpiles | -0.609M |  | 0.486M |
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
 | 14:30 | USD | Low | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
-| 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.327% |
-| 17:00 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
+| 39 min | USD | Moderate | 7-Year Note Auction |  |  | 4.327% |
+| 39 min | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
