@@ -1,34 +1,56 @@
-## 26 March 2024 - Low Impact Forex News
+## 27 March 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | SGD | Industrial Production (MoM) (Feb) | 14.2% | 3.1% | -6.7% |
-| 05:00 | SGD | Industrial Production (YoY) (Feb) | 3.8% | 0.5% | 0.6% |
-| 07:00 | ZAR | Leading Indicators (Jan) | 110.80% |  | 111.34% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q4) | 2.0% | 2.0% | 1.8% |
-| 08:30 | HKD | Exports (MoM) (Feb) | -0.8% |  | 33.6% |
-| 08:30 | HKD | Imports (MoM) (Feb) | -1.8% |  | 21.7% |
-| 08:30 | HKD | Trade Balance | -41.7B |  | 3.6B |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction | 3.928% |  | 4.314% |
-| 10:25 | EUR | Italian 6-Month BOT Auction | 3.765% |  | 3.769% |
-| 11:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 11:30 | INR | Balance of Payments (USD) (Q4) | 6.000B |  | 2.500B |
-| 11:30 | INR | Current Account % of GDP (QoQ) (Q4) | -1.20% |  | -1.00% |
-| 11:30 | INR | Current Account (USD) (Q4) | -10.50B |  | -11.40B |
-| 11:30 | INR | Trade Balance (USD) (Q4) | -71.600B |  | -61.000B |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Mar) | 4.14% | 4.10% | 4.49% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Mar) | 0.36% | 0.32% | 0.78% |
-| 12:30 | USD | Durables Excluding Defense (MoM) (Feb) | 2.2% |  | -7.9% |
-| 12:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Feb) | 0.7% | 0.1% | -0.4% |
-| 12:55 | USD | Redbook (YoY) | 3.9% |  | 3.4% |
-| 13:00 | USD | House Price Index (YoY) (Jan) | 6.3% |  | 6.7% |
-| 13:00 | USD | House Price Index (MoM) (Jan) | -0.1% | 0.2% | 0.1% |
-| 13:00 | USD | House Price Index (Jan) | 417.5 |  | 417.8 |
-| 13:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Jan) | 0.1% |  | 0.3% |
-| 14:00 | USD | Richmond Manufacturing Index (Mar) | -11 | -5 | -5 |
-| 14:00 | USD | Richmond Manufacturing Shipments (Mar) | -14 |  | -15 |
-| 14:00 | USD | Richmond Services Index (Mar) | -7 |  | -16 |
-| 14:30 | USD | Dallas Fed Services Revenues (Mar) | 4.0 |  | 5.2 |
-| 14:30 | USD | Texas Services Sector Outlook (Mar) | -5.5 |  | -3.9 |
-| 21:00 | KRW | Manufacturing BSI Index (Apr) | 74 |  | 76 |
-| 12 min | AUD | MI Leading Index (MoM) |  |  | -0.1% |
+| 00:00 | AUD | MI Leading Index (MoM) (Feb) | 0.1% |  | -0.1% |
+| 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) | 3.40% | 3.50% | 3.40% |
+| 01:00 | JPY | BoJ Tamura Speaks |  |  |  |
+| 22 min | CNY | Chinese Industrial profit YTD (Feb) |  |  | -2.3% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
+| 07:45 | EUR | French Consumer Confidence (Mar) |  | 90 | 89 |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 0.6% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) |  |  | 0.3% |
+| 09:00 | CHF | ZEW Expectations (Mar) |  |  | 10.2 |
+| 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.07B |
+| 10:00 | EUR | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
+| 10:00 | EUR | Business Climate (Mar) |  |  | -0.42 |
+| 10:00 | EUR | Consumer Confidence (Mar) |  | -15.5 | -14.9 |
+| 10:00 | EUR | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
+| 10:00 | EUR | Selling Price Expectations (Mar) |  |  | 3.8 |
+| 10:00 | EUR | Services Sentiment (Mar) |  | 7.8 | 6.0 |
+| 10:00 | EUR | Industrial Sentiment (Mar) |  | -9.0 | -9.5 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.41% |
+| 10:25 | EUR | Italian 7-Year BTP Auction |  |  | 3.31% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | GBP | CBI Distributive Trades Survey |  |  | -7 |
+| 11:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
+| 11:00 | USD | MBA Purchase Index |  |  | 146.0 |
+| 11:00 | USD | Mortgage Market Index |  |  | 198.2 |
+| 11:00 | USD | Mortgage Refinance Index |  |  | 468.4 |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
+| 11:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
+| 11:30 | BRL | Budget Balance (Feb) |  |  | 22.232B |
+| 11:30 | BRL | Budget Surplus (Feb) |  |  | 102.146B |
+| 12:00 | MXN | Trade Balance (Feb) |  | -0.200B | -4.315B |
+| 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -0.302B |
+| 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.80% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.80% | 2.90% |
+| 12:00 | EUR | Spanish Business Confidence |  |  | -4.5 |
+| 12:00 | NZD | ANZ Business Confidence (Mar) |  |  | 34.7 |
+| 12:00 | NZD | NBNZ Own Activity (Mar) |  |  | 29.5% |
+| 12:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
+| 13:00 | ZAR | Prime Rate (Mar) |  |  | 11.75% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
+| 14:30 | USD | Crude Oil Imports |  |  | -0.947M |
+| 14:30 | USD | Distillate Fuel Production |  |  | 0.128M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  | 1.000M | 0.624M |
+| 14:30 | USD | Gasoline Production |  |  | -0.263M |
+| 14:30 | USD | Heating Oil Stockpiles |  |  | 0.486M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 14:30 | USD | Gasoline Inventories |  | -1.800M | -3.310M |
+| 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 23:50 | JPY | Foreign Bonds Buying |  |  | -803.9B |
+| 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |

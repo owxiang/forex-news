@@ -1,17 +1,15 @@
-## 26 March 2024 - Moderate Impact Forex News
+## 27 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:00 | JPY | BoJ Core CPI (YoY) | 2.3% | 2.5% | 2.6% |
-| 07:00 | EUR | GfK German Consumer Climate (Apr) | -27.4 | -27.9 | -28.8 |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q4) | 0.6% | 0.6% | 0.3% |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.300% |  | 2.310% |
-| 12:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 12:30 | USD | Core Durable Goods Orders (MoM) (Feb) | 0.5% | 0.4% | -0.3% |
-| 12:30 | CAD | Wholesale Sales (MoM) | 0.8% |  | 0.1% |
-| 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan) | -0.1% |  | -0.3% |
-| 13:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan) | 6.6% | 6.6% | 6.2% |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.1% | 2.1% | 2.1% |
-| 17:00 | USD | 5-Year Note Auction | 4.235% |  | 4.320% |
-| 19:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 20:30 | USD | API Weekly Crude Oil Stock | 9.337M |  | -1.519M |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.1% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.9% |
+| 09:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.91% |
+| 10:25 | EUR | Italian 10-Year BTP Auction |  |  | 3.91% |
+| 11:00 | EUR | France Jobseekers Total |  |  | 2,827.7K |
+| 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.0% |
+| 12:30 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:00 | ZAR | Interest Rate Decision (Mar) |  | 8.25% | 8.25% |
+| 14:30 | USD | Cushing Crude Oil Inventories |  |  | -0.018M |
+| 17:00 | USD | 7-Year Note Auction |  |  | 4.327% |
+| 22:00 | USD | Fed Waller Speaks |  |  |  |
