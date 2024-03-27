@@ -8,10 +8,10 @@
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
