@@ -10,4 +10,4 @@
 | 13:15 | ZAR | Interest Rate Decision (Mar) | 8.25% | 8.25% | 8.25% |
 | 14:30 | USD | Cushing Crude Oil Inventories | 2.107M |  | -0.018M |
 | 17:00 | USD | 7-Year Note Auction | 4.185% |  | 4.327% |
-| 22:00 | USD | Fed Waller Speaks |  |  |  |
+| 46 min | USD | Fed Waller Speaks |  |  |  |
