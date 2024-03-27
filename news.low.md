@@ -34,6 +34,7 @@
 | 12:00 | MXN | Trade Balance (USD) (Feb) | -1.610B |  | -0.291B |
 | 12:00 | MXN | Unemployment Rate (Feb) | 2.60% |  | 2.80% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.80% | 2.90% |
+| 12:30 | BRL | CAGED Net Payroll Jobs (Feb) | 306.11K | 245.00K | 180.40K |
 | 12:55 | EUR | Spanish Business Confidence | -5.4 |  | -4.5 |
 | 13:00 | ZAR | Prime Rate (Mar) | 11.75% |  | 11.75% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
@@ -45,8 +46,7 @@
 | 14:30 | USD | Heating Oil Stockpiles | -0.609M |  | 0.486M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
 | 14:30 | USD | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
-| 39 min | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
-| 17:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 26 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -803.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |

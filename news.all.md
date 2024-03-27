@@ -38,6 +38,7 @@
 | 12:00 | MXN | Low | Trade Balance (USD) (Feb) | -1.610B |  | -0.291B |
 | 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.60% |  | 2.80% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.80% | 2.90% |
+| 12:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) | 306.11K | 245.00K | 180.40K |
 | 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:55 | EUR | Low | Spanish Business Confidence | -5.4 |  | -4.5 |
 | 13:00 | ZAR | Low | Prime Rate (Mar) | 11.75% |  | 11.75% |
@@ -53,9 +54,8 @@
 | 14:30 | USD | Low | Heating Oil Stockpiles | -0.609M |  | 0.486M |
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
 | 14:30 | USD | Low | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
-| 39 min | USD | Moderate | 7-Year Note Auction |  |  | 4.327% |
-| 39 min | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
-| 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 17:00 | USD | Moderate | 7-Year Note Auction | 4.185% |  | 4.327% |
+| 26 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |
