@@ -10,8 +10,8 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
@@ -23,29 +23,28 @@
 | 10:00 | EUR | Low | Selling Price Expectations (Mar) | 5.6 |  | 3.9 |
 | 10:00 | EUR | Low | Services Sentiment (Mar) | 6.3 | 7.8 | 6.0 |
 | 10:00 | EUR | Low | Industrial Sentiment (Mar) | -8.8 | -9.0 | -9.4 |
-| 8 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
-| 8 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.41% |
-| 8 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.31% |
-| 13 min | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 43 min | GBP | Low | CBI Distributive Trades Survey |  |  | -7 |
-| 43 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 43 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 43 min | USD | Low | MBA Purchase Index |  |  | 146.0 |
-| 43 min | USD | Low | Mortgage Market Index |  |  | 198.2 |
-| 43 min | USD | Low | Mortgage Refinance Index |  |  | 468.4 |
-| 43 min | EUR | Moderate | France Jobseekers Total |  |  | 2,827.7K |
-| 43 min | BRL | Low | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
-| 11:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
-| 11:30 | BRL | Low | Budget Balance (Feb) |  |  | 22.232B |
-| 11:30 | BRL | Low | Budget Surplus (Feb) |  |  | 102.146B |
-| 11:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.0% |
-| 12:00 | MXN | Low | Trade Balance (Feb) |  | -0.200B | -4.315B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Feb) |  |  | -0.302B |
-| 12:00 | MXN | Low | Unemployment Rate (Feb) |  |  | 2.80% |
-| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.80% | 2.90% |
-| 12:00 | EUR | Low | Spanish Business Confidence |  |  | -4.5 |
-| 12:00 | NZD | Low | ANZ Business Confidence (Mar) |  |  | 34.7 |
-| 12:00 | NZD | Low | NBNZ Own Activity (Mar) |  |  | 29.5% |
+| 10:25 | EUR | Moderate | Italian 10-Year BTP Auction | 3.67% |  | 3.91% |
+| 10:25 | EUR | Low | Italian 5-Year BTP Auction | 3.21% |  | 3.41% |
+| 10:25 | EUR | Low | Italian 7-Year BTP Auction | 3.24% |  | 3.31% |
+| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.93% |  | 6.97% |
+| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.7% |  | -1.6% |
+| 11:00 | USD | Low | MBA Purchase Index | 145.7 |  | 146.0 |
+| 11:00 | USD | Low | Mortgage Market Index | 196.8 |  | 198.2 |
+| 11:00 | USD | Low | Mortgage Refinance Index | 460.9 |  | 468.4 |
+| 11:00 | EUR | Moderate | France Jobseekers Total | 2,811.9K |  | 2,827.7K |
+| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) | -0.47% | -0.22% | -0.52% |
+| 18 min | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
+| 18 min | BRL | Low | Budget Balance (Feb) |  |  | 22.232B |
+| 18 min | BRL | Low | Budget Surplus (Feb) |  |  | 102.146B |
+| 18 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.0% |
+| 48 min | MXN | Low | Trade Balance (Feb) |  | -0.200B | -4.315B |
+| 48 min | MXN | Low | Trade Balance (USD) (Feb) |  |  | -0.302B |
+| 48 min | MXN | Low | Unemployment Rate (Feb) |  |  | 2.80% |
+| 48 min | MXN | Low | Unemployment Rate n.s.a. (Feb) |  | 2.80% | 2.90% |
+| 48 min | EUR | Low | Spanish Business Confidence |  |  | -4.5 |
+| 48 min | NZD | Low | ANZ Business Confidence (Mar) |  |  | 34.7 |
+| 48 min | NZD | Low | NBNZ Own Activity (Mar) |  |  | 29.5% |
 | 12:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) |  | 8.25% | 8.25% |

@@ -21,26 +21,25 @@
 | 10:00 | EUR | Selling Price Expectations (Mar) | 5.6 |  | 3.9 |
 | 10:00 | EUR | Services Sentiment (Mar) | 6.3 | 7.8 | 6.0 |
 | 10:00 | EUR | Industrial Sentiment (Mar) | -8.8 | -9.0 | -9.4 |
-| 8 min | EUR | Italian 5-Year BTP Auction |  |  | 3.41% |
-| 8 min | EUR | Italian 7-Year BTP Auction |  |  | 3.31% |
-| 13 min | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 43 min | GBP | CBI Distributive Trades Survey |  |  | -7 |
-| 43 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.97% |
-| 43 min | USD | MBA Mortgage Applications (WoW) |  |  | -1.6% |
-| 43 min | USD | MBA Purchase Index |  |  | 146.0 |
-| 43 min | USD | Mortgage Market Index |  |  | 198.2 |
-| 43 min | USD | Mortgage Refinance Index |  |  | 468.4 |
-| 43 min | BRL | IGP-M Inflation Index (MoM) (Mar) |  | -0.22% | -0.52% |
-| 11:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
-| 11:30 | BRL | Budget Balance (Feb) |  |  | 22.232B |
-| 11:30 | BRL | Budget Surplus (Feb) |  |  | 102.146B |
-| 12:00 | MXN | Trade Balance (Feb) |  | -0.200B | -4.315B |
-| 12:00 | MXN | Trade Balance (USD) (Feb) |  |  | -0.302B |
-| 12:00 | MXN | Unemployment Rate (Feb) |  |  | 2.80% |
-| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.80% | 2.90% |
-| 12:00 | EUR | Spanish Business Confidence |  |  | -4.5 |
-| 12:00 | NZD | ANZ Business Confidence (Mar) |  |  | 34.7 |
-| 12:00 | NZD | NBNZ Own Activity (Mar) |  |  | 29.5% |
+| 10:25 | EUR | Italian 5-Year BTP Auction | 3.21% |  | 3.41% |
+| 10:25 | EUR | Italian 7-Year BTP Auction | 3.24% |  | 3.31% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 11:00 | USD | MBA 30-Year Mortgage Rate | 6.93% |  | 6.97% |
+| 11:00 | USD | MBA Mortgage Applications (WoW) | -0.7% |  | -1.6% |
+| 11:00 | USD | MBA Purchase Index | 145.7 |  | 146.0 |
+| 11:00 | USD | Mortgage Market Index | 196.8 |  | 198.2 |
+| 11:00 | USD | Mortgage Refinance Index | 460.9 |  | 468.4 |
+| 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.47% | -0.22% | -0.52% |
+| 18 min | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
+| 18 min | BRL | Budget Balance (Feb) |  |  | 22.232B |
+| 18 min | BRL | Budget Surplus (Feb) |  |  | 102.146B |
+| 48 min | MXN | Trade Balance (Feb) |  | -0.200B | -4.315B |
+| 48 min | MXN | Trade Balance (USD) (Feb) |  |  | -0.302B |
+| 48 min | MXN | Unemployment Rate (Feb) |  |  | 2.80% |
+| 48 min | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.80% | 2.90% |
+| 48 min | EUR | Spanish Business Confidence |  |  | -4.5 |
+| 48 min | NZD | ANZ Business Confidence (Mar) |  |  | 34.7 |
+| 48 min | NZD | NBNZ Own Activity (Mar) |  |  | 29.5% |
 | 12:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 13:00 | ZAR | Prime Rate (Mar) |  |  | 11.75% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
