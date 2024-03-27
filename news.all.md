@@ -10,8 +10,8 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) |  | 90 | 89 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) |  |  | 0.3% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) |  |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) |  |  | 1.07B |
