@@ -31,13 +31,12 @@
 | 11:00 | USD | Mortgage Refinance Index | 460.9 |  | 468.4 |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.47% | -0.22% | -0.52% |
 | 12:00 | MXN | Trade Balance (Feb) | -0.585B | -0.200B | -4.315B |
-| 12:00 | MXN | Trade Balance (USD) (Feb) | -1.610B |  | -0.302B |
+| 12:00 | MXN | Trade Balance (USD) (Feb) | -1.610B |  | -0.291B |
 | 12:00 | MXN | Unemployment Rate (Feb) | 2.60% |  | 2.80% |
 | 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.80% | 2.90% |
-| 12:30 | EUR | Spanish Business Confidence |  |  | -4.5 |
-| 12:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
-| 30 min | ZAR | Prime Rate (Mar) |  |  | 11.75% |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 12:55 | EUR | Spanish Business Confidence | -5.4 |  | -4.5 |
+| 13:00 | ZAR | Prime Rate (Mar) | 11.75% |  | 11.75% |
+| 43 min | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
 | 14:30 | USD | Crude Oil Imports |  |  | -0.947M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.128M |
@@ -46,6 +45,7 @@
 | 14:30 | USD | Heating Oil Stockpiles |  |  | 0.486M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
 | 14:30 | USD | Gasoline Inventories |  | -1.650M | -3.310M |
+| 17:00 | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 17:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -803.9B |

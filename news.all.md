@@ -10,8 +10,8 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
@@ -35,15 +35,14 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,811.9K |  | 2,827.7K |
 | 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) | -0.47% | -0.22% | -0.52% |
 | 12:00 | MXN | Low | Trade Balance (Feb) | -0.585B | -0.200B | -4.315B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Feb) | -1.610B |  | -0.302B |
+| 12:00 | MXN | Low | Trade Balance (USD) (Feb) | -1.610B |  | -0.291B |
 | 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.60% |  | 2.80% |
 | 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.80% | 2.90% |
-| 12:30 | EUR | Low | Spanish Business Confidence |  |  | -4.5 |
-| 12:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 30 min | ZAR | Moderate | Interest Rate Decision (Mar) |  | 8.25% | 8.25% |
-| 30 min | ZAR | Low | Prime Rate (Mar) |  |  | 11.75% |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 12:55 | EUR | Low | Spanish Business Confidence | -5.4 |  | -4.5 |
+| 13:00 | ZAR | Low | Prime Rate (Mar) | 11.75% |  | 11.75% |
+| 13:15 | ZAR | Moderate | Interest Rate Decision (Mar) | 8.25% | 8.25% | 8.25% |
+| 43 min | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:30 | USD | High | Crude Oil Inventories |  | -0.700M | -1.952M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | -0.947M |
@@ -55,6 +54,7 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
 | 14:30 | USD | Low | Gasoline Inventories |  | -1.650M | -3.310M |
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.327% |
+| 17:00 | BRL | Low | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
