@@ -15,7 +15,7 @@
 | 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.07B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
 | 10:00 | EUR | Business Climate (Mar) |  |  | -0.42 |
-| 10:00 | EUR | Consumer Confidence (Mar) |  | -15.5 | -14.9 |
+| 10:00 | EUR | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
 | 10:00 | EUR | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
 | 10:00 | EUR | Selling Price Expectations (Mar) |  |  | 3.8 |
 | 10:00 | EUR | Services Sentiment (Mar) |  | 7.8 | 6.0 |
@@ -46,11 +46,12 @@
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
 | 14:30 | USD | Crude Oil Imports |  |  | -0.947M |
 | 14:30 | USD | Distillate Fuel Production |  |  | 0.128M |
-| 14:30 | USD | EIA Weekly Distillates Stocks |  | 1.000M | 0.624M |
+| 14:30 | USD | EIA Weekly Distillates Stocks |  | 0.518M | 0.624M |
 | 14:30 | USD | Gasoline Production |  |  | -0.263M |
 | 14:30 | USD | Heating Oil Stockpiles |  |  | 0.486M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 14:30 | USD | Gasoline Inventories |  | -1.800M | -3.310M |
+| 14:30 | USD | Gasoline Inventories |  | -1.650M | -3.310M |
+| 17:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -803.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |

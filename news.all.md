@@ -18,7 +18,7 @@
 | 09:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
 | 10:00 | EUR | Low | Business Climate (Mar) |  |  | -0.42 |
-| 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -15.5 | -14.9 |
+| 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
 | 10:00 | EUR | Low | Selling Price Expectations (Mar) |  |  | 3.8 |
 | 10:00 | EUR | Low | Services Sentiment (Mar) |  | 7.8 | 6.0 |
@@ -51,17 +51,18 @@
 | 13:00 | ZAR | Moderate | Interest Rate Decision (Mar) |  | 8.25% | 8.25% |
 | 13:00 | ZAR | Low | Prime Rate (Mar) |  |  | 11.75% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:30 | USD | High | Crude Oil Inventories |  | -1.000M | -1.952M |
+| 14:30 | USD | High | Crude Oil Inventories |  | -0.700M | -1.952M |
 | 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
 | 14:30 | USD | Low | Crude Oil Imports |  |  | -0.947M |
 | 14:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.018M |
 | 14:30 | USD | Low | Distillate Fuel Production |  |  | 0.128M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  | 1.000M | 0.624M |
+| 14:30 | USD | Low | EIA Weekly Distillates Stocks |  | 0.518M | 0.624M |
 | 14:30 | USD | Low | Gasoline Production |  |  | -0.263M |
 | 14:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.486M |
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 14:30 | USD | Low | Gasoline Inventories |  | -1.800M | -3.310M |
+| 14:30 | USD | Low | Gasoline Inventories |  | -1.650M | -3.310M |
 | 17:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.327% |
+| 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |
