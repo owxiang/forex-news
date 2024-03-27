@@ -37,14 +37,14 @@
 | 12:55 | EUR | Spanish Business Confidence | -5.4 |  | -4.5 |
 | 13:00 | ZAR | Prime Rate (Mar) | 11.75% |  | 11.75% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
-| 15 min | USD | Crude Oil Imports |  |  | -0.947M |
-| 15 min | USD | Distillate Fuel Production |  |  | 0.128M |
-| 15 min | USD | EIA Weekly Distillates Stocks |  | 0.518M | 0.624M |
-| 15 min | USD | Gasoline Production |  |  | -0.263M |
-| 15 min | USD | Heating Oil Stockpiles |  |  | 0.486M |
-| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
-| 15 min | USD | Gasoline Inventories |  | -1.650M | -3.310M |
+| 14:30 | USD | EIA Refinery Crude Runs (WoW) | 0.147M |  | 0.127M |
+| 14:30 | USD | Crude Oil Imports | 1.124M |  | -0.947M |
+| 14:30 | USD | Distillate Fuel Production | 0.124M |  | 0.128M |
+| 14:30 | USD | EIA Weekly Distillates Stocks | -1.185M | 0.518M | 0.624M |
+| 14:30 | USD | Gasoline Production | -0.435M |  | -0.263M |
+| 14:30 | USD | Heating Oil Stockpiles | -0.609M |  | 0.486M |
+| 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
+| 14:30 | USD | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
 | 17:00 | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
 | 17:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
