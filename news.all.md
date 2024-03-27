@@ -6,12 +6,12 @@
 | 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) | 3.40% | 3.50% | 3.40% |
 | 01:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
+| 40 min | NOK | Low | Core Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) |  | 90 | 89 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) |  |  | 0.3% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) |  |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) |  |  | 1.07B |

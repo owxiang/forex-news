@@ -6,7 +6,7 @@
 | 00:30 | AUD | Monthly CPI Indicator (YoY) (Feb) | 3.40% | 3.50% | 3.40% |
 | 01:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 01:30 | CNY | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
+| 40 min | NOK | Core Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 07:45 | EUR | French Consumer Confidence (Mar) |  | 90 | 89 |
 | 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 0.6% | 0.4% |
 | 08:00 | EUR | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
