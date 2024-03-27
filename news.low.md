@@ -30,18 +30,13 @@
 | 11:00 | USD | Mortgage Market Index | 196.8 |  | 198.2 |
 | 11:00 | USD | Mortgage Refinance Index | 460.9 |  | 468.4 |
 | 11:00 | BRL | IGP-M Inflation Index (MoM) (Mar) | -0.47% | -0.22% | -0.52% |
-| 18 min | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
-| 18 min | BRL | Budget Balance (Feb) |  |  | 22.232B |
-| 18 min | BRL | Budget Surplus (Feb) |  |  | 102.146B |
-| 48 min | MXN | Trade Balance (Feb) |  | -0.200B | -4.315B |
-| 48 min | MXN | Trade Balance (USD) (Feb) |  |  | -0.302B |
-| 48 min | MXN | Unemployment Rate (Feb) |  |  | 2.80% |
-| 48 min | MXN | Unemployment Rate n.s.a. (Feb) |  | 2.80% | 2.90% |
-| 48 min | EUR | Spanish Business Confidence |  |  | -4.5 |
-| 48 min | NZD | ANZ Business Confidence (Mar) |  |  | 34.7 |
-| 48 min | NZD | NBNZ Own Activity (Mar) |  |  | 29.5% |
+| 12:00 | MXN | Trade Balance (Feb) | -0.585B | -0.200B | -4.315B |
+| 12:00 | MXN | Trade Balance (USD) (Feb) | -1.610B |  | -0.302B |
+| 12:00 | MXN | Unemployment Rate (Feb) | 2.60% |  | 2.80% |
+| 12:00 | MXN | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.80% | 2.90% |
+| 12:30 | EUR | Spanish Business Confidence |  |  | -4.5 |
 | 12:30 | BRL | CAGED Net Payroll Jobs (Feb) |  | 245.00K | 180.40K |
-| 13:00 | ZAR | Prime Rate (Mar) |  |  | 11.75% |
+| 30 min | ZAR | Prime Rate (Mar) |  |  | 11.75% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
 | 14:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.127M |
 | 14:30 | USD | Crude Oil Imports |  |  | -0.947M |
