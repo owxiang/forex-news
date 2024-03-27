@@ -7,18 +7,18 @@
 | 01:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
 | 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
-| 31 min | EUR | Low | French Consumer Confidence (Mar) |  | 90 | 89 |
-| 46 min | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.1% | 2.8% |
-| 46 min | EUR | Low | Spanish CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 46 min | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
-| 46 min | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.9% |
-| 46 min | EUR | Low | Spanish Retail Sales (YoY) (Feb) |  |  | 0.3% |
-| 09:00 | CHF | Low | ZEW Expectations (Mar) |  |  | 10.2 |
-| 09:00 | EUR | Low | Spanish Current account (Jan) |  |  | 1.07B |
-| 09:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
+| 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
+| 39 min | CHF | Low | ZEW Expectations (Mar) |  |  | 10.2 |
+| 39 min | EUR | Low | Spanish Current account (Jan) |  |  | 1.07B |
+| 49 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
 | 10:00 | EUR | Low | Business Climate (Mar) |  |  | -0.42 |
-| 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -14.9 | -14.9 |
+| 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
 | 10:00 | EUR | Low | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
 | 10:00 | EUR | Low | Selling Price Expectations (Mar) |  |  | 3.8 |
 | 10:00 | EUR | Low | Services Sentiment (Mar) |  | 7.8 | 6.0 |

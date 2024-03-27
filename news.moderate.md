@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 46 min | EUR | Spanish CPI (YoY) (Mar) |  | 3.1% | 2.8% |
-| 46 min | EUR | Spanish HICP (YoY) (Mar) |  | 3.3% | 2.9% |
-| 09:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.91% |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 49 min | EUR | Italian 10-Year BTP Auction |  |  | 3.91% |
 | 10:25 | EUR | Italian 10-Year BTP Auction |  |  | 3.91% |
 | 11:00 | EUR | France Jobseekers Total |  |  | 2,827.7K |
 | 11:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  |  | 75.0% |

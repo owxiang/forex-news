@@ -7,15 +7,15 @@
 | 01:00 | JPY | BoJ Tamura Speaks |  |  |  |
 | 01:30 | CNY | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
-| 31 min | EUR | French Consumer Confidence (Mar) |  | 90 | 89 |
-| 46 min | EUR | Spanish CPI (MoM) (Mar) |  | 0.6% | 0.4% |
-| 46 min | EUR | Spanish HICP (MoM) (Mar) |  | 1.2% | 0.4% |
-| 46 min | EUR | Spanish Retail Sales (YoY) (Feb) |  |  | 0.3% |
-| 09:00 | CHF | ZEW Expectations (Mar) |  |  | 10.2 |
-| 09:00 | EUR | Spanish Current account (Jan) |  |  | 1.07B |
+| 07:45 | EUR | French Consumer Confidence (Mar) | 91 | 90 | 90 |
+| 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
+| 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
+| 39 min | CHF | ZEW Expectations (Mar) |  |  | 10.2 |
+| 39 min | EUR | Spanish Current account (Jan) |  |  | 1.07B |
 | 10:00 | EUR | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
 | 10:00 | EUR | Business Climate (Mar) |  |  | -0.42 |
-| 10:00 | EUR | Consumer Confidence (Mar) |  | -14.9 | -14.9 |
+| 10:00 | EUR | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
 | 10:00 | EUR | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
 | 10:00 | EUR | Selling Price Expectations (Mar) |  |  | 3.8 |
 | 10:00 | EUR | Services Sentiment (Mar) |  | 7.8 | 6.0 |
