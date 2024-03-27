@@ -58,6 +58,6 @@
 | 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 21:00 | MXN | Low | Fiscal Balance (Feb) | -263.06B |  | -159.14B |
 | 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |
-| 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |
+| 35 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 35 min | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |
+| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |
