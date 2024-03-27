@@ -55,7 +55,7 @@
 | 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
 | 14:30 | USD | Low | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
 | 17:00 | USD | Moderate | 7-Year Note Auction | 4.185% |  | 4.327% |
-| 26 min | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |

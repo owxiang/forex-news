@@ -46,7 +46,7 @@
 | 14:30 | USD | Heating Oil Stockpiles | -0.609M |  | 0.486M |
 | 14:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
 | 14:30 | USD | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
-| 26 min | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 17:40 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 23:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Foreign Bonds Buying |  |  | -803.9B |
 | 23:50 | JPY | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |
