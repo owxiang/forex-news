@@ -13,17 +13,17 @@
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
-| 39 min | CHF | Low | ZEW Expectations (Mar) |  |  | 10.2 |
-| 39 min | EUR | Low | Spanish Current account (Jan) |  |  | 1.07B |
-| 49 min | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
-| 10:00 | EUR | Low | Business Climate (Mar) |  |  | -0.42 |
-| 10:00 | EUR | Low | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
-| 10:00 | EUR | Low | Selling Price Expectations (Mar) |  |  | 3.8 |
-| 10:00 | EUR | Low | Services Sentiment (Mar) |  | 7.8 | 6.0 |
-| 10:00 | EUR | Low | Industrial Sentiment (Mar) |  | -9.0 | -9.5 |
-| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.41% |
+| 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
+| 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.07B |
+| 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) | 350.0M |  | 350.0M |
+| 43 min | EUR | Low | Business and Consumer Survey (Mar) |  | 96.3 | 95.4 |
+| 43 min | EUR | Low | Business Climate (Mar) |  |  | -0.42 |
+| 43 min | EUR | Low | Consumer Confidence (Mar) |  | -14.9 | -15.5 |
+| 43 min | EUR | Low | Consumer Inflation Expectation (Mar) |  |  | 15.5 |
+| 43 min | EUR | Low | Selling Price Expectations (Mar) |  |  | 3.8 |
+| 43 min | EUR | Low | Services Sentiment (Mar) |  | 7.8 | 6.0 |
+| 43 min | EUR | Low | Industrial Sentiment (Mar) |  | -9.0 | -9.5 |
+| 53 min | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.41% |
 | 10:25 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.91% |
 | 10:25 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.31% |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
