@@ -10,8 +10,8 @@
 | 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
 | 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
 | 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
@@ -57,7 +57,7 @@
 | 17:00 | USD | Moderate | 7-Year Note Auction | 4.185% |  | 4.327% |
 | 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 21:00 | MXN | Low | Fiscal Balance (Feb) | -263.06B |  | -159.14B |
-| 46 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 23:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 23:50 | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |
 | 23:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |
