@@ -7,8 +7,8 @@
 | 00:00 | NZD | NBNZ Own Activity (Mar) | 22.5% |  | 29.5% |
 | 00:30 | AUD | Housing Credit | 0.4% |  | 0.4% |
 | 00:30 | AUD | Private Sector Credit (MoM) | 0.5% | 0.4% | 0.4% |
-| 52 min | SGD | Bank Lending |  |  | 794.3B |
-| 52 min | NZD | M3 Money Supply (Feb) |  |  | 408.3B |
+| 02:00 | SGD | Bank Lending | 801.5B |  | 794.3B |
+| 02:00 | NZD | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Feb) |  | 5.90% | 6.58% |
 | 06:00 | ZAR | Private Sector Credit (Feb) |  | 3.12% | 3.16% |
 | 07:00 | GBP | Business Investment (YoY) (Q4) |  | 3.7% | 2.3% |
@@ -23,8 +23,8 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
-| 09:30 | ZAR | PPI (MoM) (Feb) |  | 0.9% | 0.1% |
 | 09:30 | ZAR | PPI (YoY) (Feb) |  | 4.9% | 4.7% |
+| 09:30 | ZAR | PPI (MoM) (Feb) |  | 0.9% | 0.1% |
 | 10:00 | EUR | Italian Trade Balance EU |  |  | -0.38B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 2.89B |
 | 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | -10.7% |
