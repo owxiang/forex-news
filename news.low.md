@@ -30,19 +30,20 @@
 | 09:40 | INR | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
-| 47 min | EUR | Italian PPI (YoY) (Feb) |  |  | -10.7% |
-| 47 min | EUR | Italian PPI (MoM) (Feb) |  |  | -1.7% |
-| 47 min | INR | Current Account (USD) |  | -12.10B | -8.30B |
-| 47 min | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 47 min | ZAR | Trade Balance (Feb) |  | 8.60B | -9.44B |
-| 12:30 | USD | Core PCE Prices (Q4) |  | 2.10% | 2.00% |
-| 12:30 | USD | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
-| 12:30 | USD | GDP Sales (Q4) |  | 3.5% | 3.6% |
-| 12:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.25K |
-| 12:30 | USD | PCE Prices (Q4) |  | 1.8% | 2.6% |
-| 12:30 | USD | Real Consumer Spending (Q4) |  | 3.0% | 3.1% |
+| 11:30 | INR | Current Account (USD) | -16.80B | -12.10B | -8.30B |
+| 12:00 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
+| 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | ZAR | Trade Balance (Feb) | 14.04B | 8.60B | -9.44B |
+| 12:30 | USD | Core PCE Prices (Q4) | 2.00% | 2.10% | 2.00% |
+| 12:30 | USD | GDP Sales (Q4) | 3.9% | 3.5% | 3.6% |
+| 12:30 | USD | Jobless Claims 4-Week Avg. | 211.00K |  | 211.75K |
+| 12:30 | USD | PCE Prices (Q4) | 1.8% | 1.8% | 2.6% |
+| 12:30 | USD | Real Consumer Spending (Q4) | 3.3% | 3.0% | 3.1% |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 3.77% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q3) | 3.9% |  | 0.5% |
 | 14:00 | USD | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
 | 14:00 | USD | Pending Home Sales Index (Feb) |  |  | 74.3 |
 | 14:30 | USD | Natural Gas Storage |  | -26B | 7B |

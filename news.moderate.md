@@ -9,10 +9,10 @@
 | 08:00 | CHF | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
 | 08:55 | EUR | German Unemployment Change (Mar) | 4K | 10K | 11K |
 | 08:55 | EUR | German Unemployment Rate (Mar) | 5.9% | 5.9% | 5.9% |
-| 47 min | BRL | Unemployment Rate |  | 7.8% | 7.6% |
-| 12:30 | USD | Continuing Jobless Claims |  |  | 1,807K |
-| 12:30 | USD | GDP Price Index (QoQ) (Q4) |  | 1.6% | 3.3% |
-| 12:30 | CAD | GDP (MoM) (Jan) |  | 0.4% | 0.0% |
+| 12:00 | BRL | Unemployment Rate | 7.8% | 7.8% | 7.6% |
+| 12:30 | USD | Continuing Jobless Claims | 1,819K |  | 1,795K |
+| 12:30 | USD | GDP Price Index (QoQ) (Q4) | 1.7% | 1.6% | 3.3% |
+| 12:30 | CAD | GDP (MoM) (Jan) | 0.6% | 0.4% | -0.1% |
 | 12:31 | CAD | GDP (MoM) (Feb) |  |  |  |
 | 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 3.0% | 3.0% |
 | 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 2.9% | 2.9% |
