@@ -6,7 +6,7 @@
 | 00:00 | NZD | Low | ANZ Business Confidence (Mar) | 22.9 |  | 34.7 |
 | 00:00 | NZD | Low | NBNZ Own Activity (Mar) | 22.5% |  | 29.5% |
 | 00:30 | AUD | Low | Housing Credit | 0.4% |  | 0.4% |
-| 00:30 | AUD | Low | Private Sector Credit (MoM) | 0.5% | 0.4% | 0.4% |
+| 00:30 | AUD | Low | Private Sector Credit (MoM) | 0.5% | 0.4% | 0.5% |
 | 00:30 | AUD | Moderate | Retail Sales (MoM) (Feb) | 0.3% | 0.4% | 1.1% |
 | 02:00 | SGD | Low | Bank Lending | 801.5B |  | 794.3B |
 | 02:00 | NZD | Low | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
@@ -14,7 +14,7 @@
 | 06:00 | ZAR | Low | Private Sector Credit (Feb) |  | 3.12% | 3.16% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | 3.7% | 2.3% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | 1.5% | -3.2% |
-| 07:00 | GBP | Moderate | Current Account (Q4) |  | -21.5B | -17.2B |
+| 07:00 | GBP | Moderate | Current Account (Q4) |  | -21.3B | -17.2B |
 | 07:00 | GBP | High | GDP (YoY) (Q4) |  | -0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | 0.7% |
@@ -88,7 +88,7 @@
 | 23:30 | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
 | 23:30 | JPY | Low | Unemployment Rate (Feb) |  | 2.4% | 2.4% |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Feb) |  | 1.4% | -6.7% |
+| 23:50 | JPY | Moderate | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |
 | 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 4.8% |
 | 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | 2.0% |
 | 23:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | 0.8% |

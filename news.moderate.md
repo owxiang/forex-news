@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | AUD | Retail Sales (MoM) (Feb) | 0.3% | 0.4% | 1.1% |
 | 07:00 | GBP | Business Investment (QoQ) (Q4) |  | 1.5% | -3.2% |
-| 07:00 | GBP | Current Account (Q4) |  | -21.5B | -17.2B |
+| 07:00 | GBP | Current Account (Q4) |  | -21.3B | -17.2B |
 | 07:00 | GBP | Nationwide HPI (MoM) |  |  | 0.7% |
 | 07:00 | GBP | Nationwide HPI (YoY) |  |  | 1.2% |
 | 07:00 | EUR | German Retail Sales (MoM) (Feb) |  | 0.4% | -0.4% |
@@ -25,4 +25,4 @@
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 624 |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,514B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
-| 23:50 | JPY | Industrial Production (MoM) (Feb) |  | 1.4% | -6.7% |
+| 23:50 | JPY | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |

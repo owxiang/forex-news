@@ -6,7 +6,7 @@
 | 00:00 | NZD | ANZ Business Confidence (Mar) | 22.9 |  | 34.7 |
 | 00:00 | NZD | NBNZ Own Activity (Mar) | 22.5% |  | 29.5% |
 | 00:30 | AUD | Housing Credit | 0.4% |  | 0.4% |
-| 00:30 | AUD | Private Sector Credit (MoM) | 0.5% | 0.4% | 0.4% |
+| 00:30 | AUD | Private Sector Credit (MoM) | 0.5% | 0.4% | 0.5% |
 | 02:00 | SGD | Bank Lending | 801.5B |  | 794.3B |
 | 02:00 | NZD | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Feb) |  | 5.90% | 6.58% |
