@@ -15,8 +15,8 @@
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
@@ -71,10 +71,10 @@
 | 14:30 | USD | Low | Natural Gas Storage | -36B | -26B | 7B |
 | 15:00 | USD | Low | KC Fed Composite Index (Mar) | -7 |  | -4 |
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
-| 12 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 12 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
-| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 624 |
+| 15:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.270% |
+| 15:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.270% |
+| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
+| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 624 |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,514B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |

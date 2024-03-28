@@ -19,8 +19,8 @@
 | 14:00 | USD | Michigan Consumer Expectations (Mar) | 77.4 | 74.6 | 75.2 |
 | 14:00 | USD | Michigan Consumer Sentiment (Mar) | 79.4 | 76.5 | 76.9 |
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.6% | 1.4% | -4.7% |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 624 |
+| 41 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
+| 41 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 624 |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,514B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
 | 23:50 | JPY | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |

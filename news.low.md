@@ -49,8 +49,8 @@
 | 14:30 | USD | Natural Gas Storage | -36B | -26B | 7B |
 | 15:00 | USD | KC Fed Composite Index (Mar) | -7 |  | -4 |
 | 15:00 | USD | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
-| 12 min | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 12 min | USD | 8-Week Bill Auction |  |  | 5.270% |
+| 15:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.270% |
+| 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
