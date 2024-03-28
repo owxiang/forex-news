@@ -30,31 +30,31 @@
 | 09:40 | INR | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | ZAR | Trade Balance (Feb) | 14.04B | 8.60B | -9.44B |
 | 12:30 | USD | Core PCE Prices (Q4) | 2.00% | 2.10% | 2.00% |
-| 12:30 | USD | Corporate Profits (QoQ) (Q3) | 3.9% |  | 3.7% |
+| 12:30 | USD | Corporate Profits (QoQ) (Q3) | 3.9% |  | 0.5% |
 | 12:30 | USD | GDP Sales (Q4) | 3.9% | 3.5% | 3.6% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 211.00K |  | 211.75K |
 | 12:30 | USD | PCE Prices (Q4) | 1.8% | 1.8% | 2.6% |
 | 12:30 | USD | Real Consumer Spending (Q4) | 3.3% | 3.0% | 3.1% |
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 3.90% |  | 3.88% |
-| 43 min | USD | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
-| 43 min | USD | Pending Home Sales Index (Feb) |  |  | 74.3 |
-| 14:30 | USD | Natural Gas Storage |  | -26B | 7B |
-| 15:00 | USD | KC Fed Composite Index (Mar) |  |  | -4 |
-| 15:00 | USD | KC Fed Manufacturing Index (Mar) |  |  | 3 |
+| 14:00 | USD | Michigan Current Conditions (Mar) | 82.5 | 79.4 | 79.4 |
+| 14:00 | USD | Pending Home Sales Index (Feb) | 75.6 |  | 74.4 |
+| 14 min | USD | Natural Gas Storage |  | -26B | 7B |
+| 44 min | USD | KC Fed Composite Index (Mar) |  |  | -4 |
+| 44 min | USD | KC Fed Manufacturing Index (Mar) |  |  | 3 |
 | 15:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 15:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows |  |  | -0.298B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
+| 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
 | 23:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |

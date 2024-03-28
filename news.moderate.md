@@ -14,11 +14,11 @@
 | 12:30 | USD | GDP Price Index (QoQ) (Q4) | 1.7% | 1.6% | 3.3% |
 | 12:30 | CAD | GDP (MoM) (Jan) | 0.6% | 0.4% | -0.1% |
 | 12:31 | CAD | GDP (MoM) (Feb) | 0.4% |  | 0.6% |
-| 43 min | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 3.0% | 3.0% |
-| 43 min | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 2.9% | 2.9% |
-| 43 min | USD | Michigan Consumer Expectations (Mar) |  | 74.6 | 75.2 |
-| 43 min | USD | Michigan Consumer Sentiment (Mar) |  | 76.5 | 76.9 |
-| 43 min | USD | Pending Home Sales (MoM) (Feb) |  | 1.4% | -4.9% |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 2.9% | 3.0% | 3.0% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 2.8% | 2.9% | 2.9% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) | 77.4 | 74.6 | 75.2 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 79.4 | 76.5 | 76.9 |
+| 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.6% | 1.4% | -4.7% |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 624 |
 | 20:30 | USD | Fed's Balance Sheet |  |  | 7,514B |
