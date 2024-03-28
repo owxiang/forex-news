@@ -20,18 +20,18 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) | 2.769M |  | 2.814M |
 | 09:00 | EUR | Italian Business Confidence (Mar) | 88.6 | 87.6 | 87.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 96.5 | 97.5 | 97.0 |
-| 09:00 | EUR | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
+| 09:00 | EUR | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
-| 09:30 | ZAR | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
 | 09:30 | ZAR | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
+| 09:30 | ZAR | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
 | 09:40 | INR | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
@@ -52,7 +52,7 @@
 | 15:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows | 0.356B |  | -0.298B |
-| 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 12 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |

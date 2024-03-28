@@ -21,6 +21,6 @@
 | 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.6% | 1.4% | -4.7% |
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 509 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
-| 20:30 | USD | Fed's Balance Sheet |  |  | 7,514B |
+| 12 min | USD | Fed's Balance Sheet |  |  | 7,514B |
 | 23:30 | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
 | 23:50 | JPY | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |
