@@ -1,63 +1,96 @@
-## 27 March 2024 - All Forex News
+## 28 March 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | MI Leading Index (MoM) (Feb) | 0.1% |  | -0.1% |
-| 00:30 | AUD | Low | Monthly CPI Indicator (YoY) (Feb) | 3.40% | 3.50% | 3.40% |
-| 01:00 | JPY | Low | BoJ Tamura Speaks |  |  |  |
-| 01:30 | CNY | Low | Chinese Industrial profit YTD (Feb) | 10.2% |  | -2.3% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
-| 07:45 | EUR | Low | French Consumer Confidence (Mar) | 91 | 90 | 90 |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.6% | 0.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.3% | 1.2% | 0.4% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Feb) | 1.9% |  | 0.5% |
-| 09:00 | CHF | Low | ZEW Expectations (Mar) | 11.5 |  | 10.2 |
-| 09:00 | EUR | Low | Spanish Current account (Jan) | 5.13B |  | 1.54B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) | 350.0M |  | 350.0M |
-| 10:00 | EUR | Low | Business and Consumer Survey (Mar) | 96.3 | 96.3 | 95.5 |
-| 10:00 | EUR | Low | Business Climate (Mar) | -0.30 |  | -0.41 |
-| 10:00 | EUR | Low | Consumer Confidence (Mar) | -14.9 | -14.9 | -15.5 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Mar) | 12.3 |  | 15.4 |
-| 10:00 | EUR | Low | Selling Price Expectations (Mar) | 5.6 |  | 3.9 |
-| 10:00 | EUR | Low | Services Sentiment (Mar) | 6.3 | 7.8 | 6.0 |
-| 10:00 | EUR | Low | Industrial Sentiment (Mar) | -8.8 | -9.0 | -9.4 |
-| 10:25 | EUR | Moderate | Italian 10-Year BTP Auction | 3.67% |  | 3.91% |
-| 10:25 | EUR | Low | Italian 5-Year BTP Auction | 3.21% |  | 3.41% |
-| 10:25 | EUR | Low | Italian 7-Year BTP Auction | 3.24% |  | 3.31% |
-| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
-| 11:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.93% |  | 6.97% |
-| 11:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.7% |  | -1.6% |
-| 11:00 | USD | Low | MBA Purchase Index | 145.7 |  | 146.0 |
-| 11:00 | USD | Low | Mortgage Market Index | 196.8 |  | 198.2 |
-| 11:00 | USD | Low | Mortgage Refinance Index | 460.9 |  | 468.4 |
-| 11:00 | EUR | Moderate | France Jobseekers Total | 2,811.9K |  | 2,827.7K |
-| 11:00 | BRL | Low | IGP-M Inflation Index (MoM) (Mar) | -0.47% | -0.22% | -0.52% |
-| 12:00 | MXN | Low | Trade Balance (Feb) | -0.585B | -0.200B | -4.315B |
-| 12:00 | MXN | Low | Trade Balance (USD) (Feb) | -1.610B |  | -0.291B |
-| 12:00 | MXN | Low | Unemployment Rate (Feb) | 2.60% |  | 2.80% |
-| 12:00 | MXN | Low | Unemployment Rate n.s.a. (Feb) | 2.50% | 2.80% | 2.90% |
-| 12:30 | BRL | Low | CAGED Net Payroll Jobs (Feb) | 306.11K | 245.00K | 180.40K |
-| 12:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 12:55 | EUR | Low | Spanish Business Confidence | -5.4 |  | -4.5 |
-| 13:00 | ZAR | Low | Prime Rate (Mar) | 11.75% |  | 11.75% |
-| 13:15 | ZAR | Moderate | Interest Rate Decision (Mar) | 8.25% | 8.25% | 8.25% |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:30 | USD | High | Crude Oil Inventories | 3.165M | -0.700M | -1.952M |
-| 14:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.147M |  | 0.127M |
-| 14:30 | USD | Low | Crude Oil Imports | 1.124M |  | -0.947M |
-| 14:30 | USD | Moderate | Cushing Crude Oil Inventories | 2.107M |  | -0.018M |
-| 14:30 | USD | Low | Distillate Fuel Production | 0.124M |  | 0.128M |
-| 14:30 | USD | Low | EIA Weekly Distillates Stocks | -1.185M | 0.518M | 0.624M |
-| 14:30 | USD | Low | Gasoline Production | -0.435M |  | -0.263M |
-| 14:30 | USD | Low | Heating Oil Stockpiles | -0.609M |  | 0.486M |
-| 14:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.9% |  | 1.0% |
-| 14:30 | USD | Low | Gasoline Inventories | 1.299M | -1.650M | -3.310M |
-| 17:00 | USD | Moderate | 7-Year Note Auction | 4.185% |  | 4.327% |
-| 17:40 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 21:00 | MXN | Low | Fiscal Balance (Feb) | -263.06B |  | -159.14B |
-| 22:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 35 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | -803.9B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -1,461.6B |
+| 00:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.5% |
+| 00:00 | NZD | Low | ANZ Business Confidence (Mar) | 22.9 |  | 34.7 |
+| 00:00 | NZD | Low | NBNZ Own Activity (Mar) | 22.5% |  | 29.5% |
+| 00:30 | AUD | Low | Housing Credit | 0.4% |  | 0.4% |
+| 00:30 | AUD | Low | Private Sector Credit (MoM) | 0.5% | 0.4% | 0.4% |
+| 00:30 | AUD | Moderate | Retail Sales (MoM) (Feb) | 0.3% | 0.4% | 1.1% |
+| 52 min | SGD | Low | Bank Lending |  |  | 794.3B |
+| 52 min | NZD | Low | M3 Money Supply (Feb) |  |  | 408.3B |
+| 06:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) |  | 5.90% | 6.58% |
+| 06:00 | ZAR | Low | Private Sector Credit (Feb) |  | 3.12% | 3.16% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q4) |  | 3.7% | 2.3% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) |  | 1.5% | -3.2% |
+| 07:00 | GBP | Moderate | Current Account (Q4) |  | -21.5B | -17.2B |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) |  | -0.3% | -0.1% |
+| 07:00 | GBP | High | GDP (YoY) (Q4) |  | -0.2% | 0.3% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) |  |  | 0.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) |  |  | 1.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) |  | -0.8% | -1.4% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) |  | 0.4% | -0.4% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) |  | 102.1 | 101.6 |
+| 08:00 | CHF | Low | Official Reserves Assets (Feb) |  |  | 733.7B |
+| 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 08:30 | HKD | Low | M3 Money Supply (Feb) |  |  | -0.7% |
+| 08:55 | EUR | Moderate | German Unemployment Change (Mar) |  | 10K | 11K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (Mar) |  | 5.9% | 5.9% |
+| 08:55 | EUR | Low | German Unemployment (Mar) |  |  | 2.713M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) |  |  | 2.814M |
+| 09:00 | EUR | Low | Italian Business Confidence (Mar) |  | 87.6 | 87.3 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Mar) |  | 97.5 | 97.0 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) |  | 0.3% | 0.1% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) |  |  | 0.2% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
+| 09:30 | ZAR | Low | PPI (MoM) (Feb) |  | 0.9% | 0.1% |
+| 09:30 | ZAR | Low | PPI (YoY) (Feb) |  | 4.9% | 4.7% |
+| 10:00 | EUR | Low | Italian Trade Balance EU |  |  | -0.38B |
+| 10:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) |  |  | 2.89B |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) |  |  | -10.7% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) |  |  | -1.7% |
+| 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 12:00 | INR | Low | Current Account (USD) |  | -12.10B | -8.30B |
+| 12:00 | INR | Low | Foreign Debt (USD) |  |  | 635.3B |
+| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.6% |
+| 12:00 | ZAR | Low | Trade Balance (Feb) |  | 8.60B | -9.44B |
+| 12:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,807K |
+| 12:30 | USD | Low | Core PCE Prices (Q4) |  | 2.10% | 2.00% |
+| 12:30 | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
+| 12:30 | USD | High | GDP (QoQ) (Q4) |  | 3.2% | 4.9% |
+| 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) |  | 1.6% | 3.3% |
+| 12:30 | USD | Low | GDP Sales (Q4) |  | 3.5% | 3.6% |
+| 12:30 | USD | High | Initial Jobless Claims |  | 212K | 210K |
+| 12:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.25K |
+| 12:30 | USD | Low | PCE Prices (Q4) |  | 1.8% | 2.6% |
+| 12:30 | USD | Low | Real Consumer Spending (Q4) |  | 3.0% | 3.1% |
+| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 3.77% |
+| 12:30 | CAD | Moderate | GDP (MoM) (Jan) |  | 0.4% | 0.0% |
+| 12:31 | CAD | Moderate | GDP (MoM) (Feb) |  |  |  |
+| 13:45 | USD | High | Chicago PMI (Mar) |  | 45.9 | 44.0 |
+| 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.0% | 3.0% |
+| 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 2.9% | 2.9% |
+| 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 74.6 | 75.2 |
+| 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 76.5 | 76.9 |
+| 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
+| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | 1.4% | -4.9% |
+| 14:00 | USD | Low | Pending Home Sales Index (Feb) |  |  | 74.3 |
+| 14:30 | USD | Low | Natural Gas Storage |  | -26B | 7B |
+| 14:48 | ZAR | Low | Budget Balance (MoM) (Feb) |  |  | -54.66B |
+| 15:00 | USD | Low | KC Fed Composite Index (Mar) |  |  | -4 |
+| 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 3 |
+| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
+| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
+| 15:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.298B |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 624 |
+| 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,514B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Feb) |  |  | 0.8% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
+| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
+| 23:30 | JPY | Low | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
+| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
+| 23:30 | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
+| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
+| 23:30 | JPY | Low | Unemployment Rate (Feb) |  | 2.4% | 2.4% |
+| 23:50 | JPY | Moderate | Industrial Production (MoM) (Feb) |  | 1.4% | -6.7% |
+| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 4.8% |
+| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | 2.0% |
+| 23:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | 0.8% |
+| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
+| 23:50 | JPY | Low | Retail Sales (YoY) (Feb) |  | 2.8% | 2.3% |

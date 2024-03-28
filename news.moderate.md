@@ -1,13 +1,28 @@
-## 27 March 2024 - Moderate Impact Forex News
+## 28 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.2% | 3.1% | 2.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.2% | 3.3% | 2.9% |
-| 10:25 | EUR | Italian 10-Year BTP Auction | 3.67% |  | 3.91% |
-| 11:00 | EUR | France Jobseekers Total | 2,811.9K |  | 2,827.7K |
-| 12:30 | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:15 | ZAR | Interest Rate Decision (Mar) | 8.25% | 8.25% | 8.25% |
-| 14:30 | USD | Cushing Crude Oil Inventories | 2.107M |  | -0.018M |
-| 17:00 | USD | 7-Year Note Auction | 4.185% |  | 4.327% |
-| 22:00 | USD | Fed Waller Speaks |  |  |  |
+| 00:30 | AUD | Retail Sales (MoM) (Feb) | 0.3% | 0.4% | 1.1% |
+| 07:00 | GBP | Business Investment (QoQ) (Q4) |  | 1.5% | -3.2% |
+| 07:00 | GBP | Current Account (Q4) |  | -21.5B | -17.2B |
+| 07:00 | GBP | Nationwide HPI (MoM) |  |  | 0.7% |
+| 07:00 | GBP | Nationwide HPI (YoY) |  |  | 1.2% |
+| 07:00 | EUR | German Retail Sales (MoM) (Feb) |  | 0.4% | -0.4% |
+| 08:00 | CHF | KOF Leading Indicators (Mar) |  | 102.1 | 101.6 |
+| 08:55 | EUR | German Unemployment Change (Mar) |  | 10K | 11K |
+| 08:55 | EUR | German Unemployment Rate (Mar) |  | 5.9% | 5.9% |
+| 12:00 | BRL | Unemployment Rate |  | 7.8% | 7.6% |
+| 12:30 | USD | Continuing Jobless Claims |  |  | 1,807K |
+| 12:30 | USD | GDP Price Index (QoQ) (Q4) |  | 1.6% | 3.3% |
+| 12:30 | CAD | GDP (MoM) (Jan) |  | 0.4% | 0.0% |
+| 12:31 | CAD | GDP (MoM) (Feb) |  |  |  |
+| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) |  | 3.0% | 3.0% |
+| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) |  | 2.9% | 2.9% |
+| 14:00 | USD | Michigan Consumer Expectations (Mar) |  | 74.6 | 75.2 |
+| 14:00 | USD | Michigan Consumer Sentiment (Mar) |  | 76.5 | 76.9 |
+| 14:00 | USD | Pending Home Sales (MoM) (Feb) |  | 1.4% | -4.9% |
+| 17:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
+| 17:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 624 |
+| 20:30 | USD | Fed's Balance Sheet |  |  | 7,514B |
+| 23:30 | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
+| 23:50 | JPY | Industrial Production (MoM) (Feb) |  | 1.4% | -6.7% |
