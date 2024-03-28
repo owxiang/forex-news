@@ -30,8 +30,8 @@
 | 09:40 | INR | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
@@ -51,6 +51,7 @@
 | 15:00 | USD | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
 | 15:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
+| 15:30 | BRL | Foreign Exchange Flows | 0.356B |  | -0.298B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |

@@ -12,11 +12,11 @@
 | 02:00 | NZD | Low | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) | 5.71% | 5.90% | 6.61% |
 | 06:00 | ZAR | Low | Private Sector Credit (Feb) | 3.32% | 3.12% | 3.16% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
-| 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
+| 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
@@ -39,8 +39,8 @@
 | 09:40 | INR | Low | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | EUR | Low | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
+| 11:00 | EUR | Low | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Low | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Low | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
@@ -73,6 +73,7 @@
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
 | 15:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.270% |
+| 15:30 | BRL | Low | Foreign Exchange Flows | 0.356B |  | -0.298B |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 506 |  | 509 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,514B |
