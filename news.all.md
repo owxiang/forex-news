@@ -12,13 +12,13 @@
 | 02:00 | NZD | Low | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) | 5.71% | 5.90% | 6.61% |
 | 06:00 | ZAR | Low | Private Sector Credit (Feb) | 3.32% | 3.12% | 3.16% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
-| 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
+| 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
 | 08:00 | CHF | Low | Official Reserves Assets (Feb) | 751.0B |  | 733.7B |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -29,22 +29,23 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) | 2.769M |  | 2.814M |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) | 88.6 | 87.6 | 87.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 96.5 | 97.5 | 97.0 |
-| 09:00 | EUR | Low | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
+| 09:00 | EUR | Low | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Low | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
-| 09:30 | ZAR | Low | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
 | 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
+| 09:30 | ZAR | Low | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
 | 09:40 | INR | Low | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
-| 44 min | EUR | Low | Italian PPI (YoY) (Feb) |  |  | -10.7% |
-| 44 min | EUR | Low | Italian PPI (MoM) (Feb) |  |  | -1.7% |
-| 44 min | BRL | Low | BCB Inflation Report |  |  |  |
-| 12:00 | INR | Low | Current Account (USD) |  | -12.10B | -8.30B |
-| 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 12:00 | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.6% |
-| 12:00 | ZAR | Low | Trade Balance (Feb) |  | 8.60B | -9.44B |
+| 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
+| 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 47 min | EUR | Low | Italian PPI (YoY) (Feb) |  |  | -10.7% |
+| 47 min | EUR | Low | Italian PPI (MoM) (Feb) |  |  | -1.7% |
+| 47 min | INR | Low | Current Account (USD) |  | -12.10B | -8.30B |
+| 47 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 47 min | BRL | Moderate | Unemployment Rate |  | 7.8% | 7.6% |
+| 47 min | ZAR | Low | Trade Balance (Feb) |  | 8.60B | -9.44B |
 | 12:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,807K |
 | 12:30 | USD | Low | Core PCE Prices (Q4) |  | 2.10% | 2.00% |
 | 12:30 | USD | Low | Corporate Profits (QoQ) (Q4) |  |  | 3.7% |
