@@ -52,7 +52,7 @@
 | 15:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows | 0.356B |  | -0.298B |
-| 12 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.472T |  | 3.490T |
 | 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |

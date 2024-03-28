@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
 | 08:00 | CHF | Low | Official Reserves Assets (Feb) | 751.0B |  | 733.7B |
 | 08:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -76,8 +76,8 @@
 | 15:30 | BRL | Low | Foreign Exchange Flows | 0.356B |  | -0.298B |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 506 |  | 509 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
-| 12 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,514B |
-| 12 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
+| 20:30 | USD | Moderate | Fed's Balance Sheet | 7,485B |  | 7,514B |
+| 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.472T |  | 3.490T |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Feb) |  |  | 0.8% |
