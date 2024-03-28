@@ -25,8 +25,8 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
-| 09:30 | ZAR | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:30 | ZAR | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
+| 09:30 | ZAR | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:40 | INR | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
@@ -46,15 +46,14 @@
 | 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 3.90% |  | 3.88% |
 | 14:00 | USD | Michigan Current Conditions (Mar) | 82.5 | 79.4 | 79.4 |
 | 14:00 | USD | Pending Home Sales Index (Feb) | 75.6 |  | 74.4 |
-| 14 min | USD | Natural Gas Storage |  | -26B | 7B |
-| 44 min | USD | KC Fed Composite Index (Mar) |  |  | -4 |
-| 44 min | USD | KC Fed Manufacturing Index (Mar) |  |  | 3 |
-| 15:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 15:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
-| 15:30 | BRL | Foreign Exchange Flows |  |  | -0.298B |
+| 14:30 | USD | Natural Gas Storage | -36B | -26B | 7B |
+| 15:00 | USD | KC Fed Composite Index (Mar) | -7 |  | -4 |
+| 15:00 | USD | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
+| 12 min | USD | 4-Week Bill Auction |  |  | 5.270% |
+| 12 min | USD | 8-Week Bill Auction |  |  | 5.270% |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
+| 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
 | 23:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |

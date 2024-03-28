@@ -12,11 +12,11 @@
 | 02:00 | NZD | Low | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) | 5.71% | 5.90% | 6.61% |
 | 06:00 | ZAR | Low | Private Sector Credit (Feb) | 3.32% | 3.12% | 3.16% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
-| 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
+| 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
@@ -34,8 +34,8 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Low | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
-| 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
+| 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:40 | INR | Low | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
@@ -68,18 +68,17 @@
 | 14:00 | USD | Low | Michigan Current Conditions (Mar) | 82.5 | 79.4 | 79.4 |
 | 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) | 1.6% | 1.4% | -4.7% |
 | 14:00 | USD | Low | Pending Home Sales Index (Feb) | 75.6 |  | 74.4 |
-| 14 min | USD | Low | Natural Gas Storage |  | -26B | 7B |
-| 44 min | USD | Low | KC Fed Composite Index (Mar) |  |  | -4 |
-| 44 min | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 3 |
-| 15:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 15:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
-| 15:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.298B |
+| 14:30 | USD | Low | Natural Gas Storage | -36B | -26B | 7B |
+| 15:00 | USD | Low | KC Fed Composite Index (Mar) | -7 |  | -4 |
+| 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
+| 12 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
+| 12 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 624 |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,514B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Low | Retail Sales (MoM) (Feb) |  |  | 0.8% |
 | 23:00 | KRW | Low | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
