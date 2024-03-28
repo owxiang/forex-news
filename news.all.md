@@ -29,8 +29,8 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) | 2.769M |  | 2.814M |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) | 88.6 | 87.6 | 87.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 96.5 | 97.5 | 97.0 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Low | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
@@ -43,12 +43,13 @@
 | 11:00 | EUR | Low | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Low | Current Account (USD) | -16.80B | -12.10B | -8.30B |
-| 12:00 | INR | Low | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
+| 11:30 | INR | Low | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
 | 12:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | BRL | Moderate | Unemployment Rate | 7.8% | 7.8% | 7.6% |
 | 12:00 | ZAR | Low | Trade Balance (Feb) | 14.04B | 8.60B | -9.44B |
-| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,819K |  | 1,795K |
+| 12:30 | USD | Moderate | Continuing Jobless Claims | 1,819K | 1,815K | 1,795K |
 | 12:30 | USD | Low | Core PCE Prices (Q4) | 2.00% | 2.10% | 2.00% |
+| 12:30 | USD | Low | Corporate Profits (QoQ) (Q3) | 3.9% |  | 3.7% |
 | 12:30 | USD | High | GDP (QoQ) (Q4) | 3.4% | 3.2% | 4.9% |
 | 12:30 | USD | Moderate | GDP Price Index (QoQ) (Q4) | 1.7% | 1.6% | 3.3% |
 | 12:30 | USD | Low | GDP Sales (Q4) | 3.9% | 3.5% | 3.6% |
@@ -56,18 +57,17 @@
 | 12:30 | USD | Low | Jobless Claims 4-Week Avg. | 211.00K |  | 211.75K |
 | 12:30 | USD | Low | PCE Prices (Q4) | 1.8% | 1.8% | 2.6% |
 | 12:30 | USD | Low | Real Consumer Spending (Q4) | 3.3% | 3.0% | 3.1% |
-| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) |  |  | 3.77% |
+| 12:30 | CAD | Low | Average Weekly Earnings (YoY) (Jan) | 3.90% |  | 3.88% |
 | 12:30 | CAD | Moderate | GDP (MoM) (Jan) | 0.6% | 0.4% | -0.1% |
-| 12:31 | CAD | Moderate | GDP (MoM) (Feb) |  |  |  |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q3) | 3.9% |  | 0.5% |
-| 13:45 | USD | High | Chicago PMI (Mar) |  | 45.9 | 44.0 |
-| 14:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.0% | 3.0% |
-| 14:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 2.9% | 2.9% |
-| 14:00 | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 74.6 | 75.2 |
-| 14:00 | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 76.5 | 76.9 |
-| 14:00 | USD | Low | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
-| 14:00 | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | 1.4% | -4.9% |
-| 14:00 | USD | Low | Pending Home Sales Index (Feb) |  |  | 74.3 |
+| 12:31 | CAD | Moderate | GDP (MoM) (Feb) | 0.4% |  | 0.6% |
+| 28 min | USD | High | Chicago PMI (Mar) |  | 45.9 | 44.0 |
+| 43 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Mar) |  | 3.0% | 3.0% |
+| 43 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Mar) |  | 2.9% | 2.9% |
+| 43 min | USD | Moderate | Michigan Consumer Expectations (Mar) |  | 74.6 | 75.2 |
+| 43 min | USD | Moderate | Michigan Consumer Sentiment (Mar) |  | 76.5 | 76.9 |
+| 43 min | USD | Low | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
+| 43 min | USD | Moderate | Pending Home Sales (MoM) (Feb) |  | 1.4% | -4.9% |
+| 43 min | USD | Low | Pending Home Sales Index (Feb) |  |  | 74.3 |
 | 14:30 | USD | Low | Natural Gas Storage |  | -26B | 7B |
 | 15:00 | USD | Low | KC Fed Composite Index (Mar) |  |  | -4 |
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) |  |  | 3 |

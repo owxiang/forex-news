@@ -20,8 +20,8 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) | 2.769M |  | 2.814M |
 | 09:00 | EUR | Italian Business Confidence (Mar) | 88.6 | 87.6 | 87.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 96.5 | 97.5 | 97.0 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
+| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
@@ -34,18 +34,18 @@
 | 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Current Account (USD) | -16.80B | -12.10B | -8.30B |
-| 12:00 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
+| 11:30 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
 | 12:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 12:00 | ZAR | Trade Balance (Feb) | 14.04B | 8.60B | -9.44B |
 | 12:30 | USD | Core PCE Prices (Q4) | 2.00% | 2.10% | 2.00% |
+| 12:30 | USD | Corporate Profits (QoQ) (Q3) | 3.9% |  | 3.7% |
 | 12:30 | USD | GDP Sales (Q4) | 3.9% | 3.5% | 3.6% |
 | 12:30 | USD | Jobless Claims 4-Week Avg. | 211.00K |  | 211.75K |
 | 12:30 | USD | PCE Prices (Q4) | 1.8% | 1.8% | 2.6% |
 | 12:30 | USD | Real Consumer Spending (Q4) | 3.3% | 3.0% | 3.1% |
-| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) |  |  | 3.77% |
-| 13:30 | USD | Corporate Profits (QoQ) (Q3) | 3.9% |  | 0.5% |
-| 14:00 | USD | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
-| 14:00 | USD | Pending Home Sales Index (Feb) |  |  | 74.3 |
+| 12:30 | CAD | Average Weekly Earnings (YoY) (Jan) | 3.90% |  | 3.88% |
+| 43 min | USD | Michigan Current Conditions (Mar) |  | 79.4 | 79.4 |
+| 43 min | USD | Pending Home Sales Index (Feb) |  |  | 74.3 |
 | 14:30 | USD | Natural Gas Storage |  | -26B | 7B |
 | 15:00 | USD | KC Fed Composite Index (Mar) |  |  | -4 |
 | 15:00 | USD | KC Fed Manufacturing Index (Mar) |  |  | 3 |
