@@ -12,8 +12,8 @@
 | 02:00 | NZD | Low | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | Low | M3 Money Supply (YoY) (Feb) | 5.71% | 5.90% | 6.61% |
 | 06:00 | ZAR | Low | Private Sector Credit (Feb) | 3.32% | 3.12% | 3.16% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
 | 07:00 | GBP | Moderate | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
 | 07:00 | GBP | High | GDP (YoY) (Q4) | -0.2% | -0.2% | 0.3% |
 | 07:00 | GBP | High | GDP (QoQ) (Q4) | -0.3% | -0.3% | -0.1% |
@@ -73,8 +73,8 @@
 | 15:00 | USD | Low | KC Fed Manufacturing Index (Mar) | -9 |  | 3 |
 | 15:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 15:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.270% |
-| 41 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 509 |
-| 41 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 624 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 506 |  | 509 |
+| 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
 | 20:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,514B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
 | 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
