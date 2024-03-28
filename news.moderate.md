@@ -5,8 +5,6 @@
 | 00:30 | AUD | Retail Sales (MoM) (Feb) | 0.3% | 0.4% | 1.1% |
 | 07:00 | GBP | Business Investment (QoQ) (Q4) |  | 1.5% | -3.2% |
 | 07:00 | GBP | Current Account (Q4) |  | -21.3B | -17.2B |
-| 07:00 | GBP | Nationwide HPI (MoM) |  |  | 0.7% |
-| 07:00 | GBP | Nationwide HPI (YoY) |  |  | 1.2% |
 | 07:00 | EUR | German Retail Sales (MoM) (Feb) |  | 0.4% | -0.4% |
 | 08:00 | CHF | KOF Leading Indicators (Mar) |  | 102.1 | 101.6 |
 | 08:55 | EUR | German Unemployment Change (Mar) |  | 10K | 11K |
