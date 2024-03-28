@@ -11,10 +11,10 @@
 | 02:00 | NZD | M3 Money Supply (Feb) | 407.7B |  | 408.3B |
 | 06:00 | ZAR | M3 Money Supply (YoY) (Feb) | 5.71% | 5.90% | 6.61% |
 | 06:00 | ZAR | Private Sector Credit (Feb) | 3.32% | 3.12% | 3.16% |
-| 40 min | GBP | Business Investment (YoY) (Q4) |  | 3.7% | 2.3% |
-| 40 min | EUR | German Retail Sales (YoY) (Feb) |  | -0.8% | -1.4% |
-| 08:00 | CHF | Official Reserves Assets (Feb) |  |  | 733.7B |
-| 08:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 07:00 | GBP | Business Investment (YoY) (Q4) | 2.8% | 3.7% | 1.9% |
+| 07:00 | EUR | German Retail Sales (YoY) (Feb) | -2.7% | -0.8% | -1.4% |
+| 46 min | CHF | Official Reserves Assets (Feb) |  |  | 733.7B |
+| 46 min | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 08:30 | HKD | M3 Money Supply (Feb) |  |  | -0.7% |
 | 08:55 | EUR | German Unemployment (Mar) |  |  | 2.713M |
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) |  |  | 2.814M |
@@ -23,12 +23,12 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
-| 09:30 | ZAR | PPI (YoY) (Feb) |  | 4.9% | 4.7% |
 | 09:30 | ZAR | PPI (MoM) (Feb) |  | 0.9% | 0.1% |
+| 09:30 | ZAR | PPI (YoY) (Feb) |  | 4.9% | 4.7% |
 | 10:00 | EUR | Italian Trade Balance EU |  |  | -0.38B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 2.89B |
-| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | -1.7% |
 | 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | -10.7% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | -1.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | INR | Current Account (USD) |  | -12.10B | -8.30B |
 | 12:00 | INR | Foreign Debt (USD) |  |  | 635.3B |
@@ -51,8 +51,8 @@
 | 15:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows |  |  | -0.298B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
+| 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
 | 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
 | 23:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
