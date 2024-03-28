@@ -23,12 +23,12 @@
 | 09:00 | EUR | M3 Money Supply (YoY) (Feb) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) |  |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.3% |
-| 09:30 | ZAR | PPI (YoY) (Feb) |  | 4.9% | 4.7% |
 | 09:30 | ZAR | PPI (MoM) (Feb) |  | 0.9% | 0.1% |
+| 09:30 | ZAR | PPI (YoY) (Feb) |  | 4.9% | 4.7% |
 | 10:00 | EUR | Italian Trade Balance EU |  |  | -0.38B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) |  |  | 2.89B |
-| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | -10.7% |
 | 11:00 | EUR | Italian PPI (MoM) (Feb) |  |  | -1.7% |
+| 11:00 | EUR | Italian PPI (YoY) (Feb) |  |  | -10.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | INR | Current Account (USD) |  | -12.10B | -8.30B |
 | 12:00 | INR | Foreign Debt (USD) |  |  | 635.3B |
@@ -51,8 +51,8 @@
 | 15:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows |  |  | -0.298B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.490T |
-| 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
+| 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
 | 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
 | 23:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
