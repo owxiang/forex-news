@@ -22,5 +22,5 @@
 | 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 509 |
 | 17:00 | USD | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
 | 20:30 | USD | Fed's Balance Sheet | 7,485B |  | 7,514B |
-| 23:30 | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
-| 23:50 | JPY | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |
+| 14 min | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
+| 34 min | JPY | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |

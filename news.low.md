@@ -25,13 +25,13 @@
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
-| 09:30 | ZAR | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:30 | ZAR | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
+| 09:30 | ZAR | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:40 | INR | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | EUR | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
+| 11:00 | EUR | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | BRL | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
@@ -53,17 +53,17 @@
 | 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows | 0.356B |  | -0.298B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.472T |  | 3.490T |
-| 45 min | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
-| 45 min | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
-| 45 min | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
-| 45 min | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
-| 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
-| 23:30 | JPY | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
-| 23:30 | JPY | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
-| 23:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
-| 23:30 | JPY | Unemployment Rate (Feb) |  | 2.4% | 2.4% |
-| 23:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 4.8% |
-| 23:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | 2.0% |
-| 23:50 | JPY | Large Retailers' Sales (MoM) |  |  | 0.8% |
-| 23:50 | JPY | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
-| 23:50 | JPY | Retail Sales (YoY) (Feb) |  | 2.8% | 2.3% |
+| 23:00 | KRW | Industrial Production (MoM) (Feb) | 3.1% | 0.5% | -1.5% |
+| 23:00 | KRW | Industrial Production (YoY) (Feb) | 4.8% | 5.8% | 12.9% |
+| 23:00 | KRW | Retail Sales (MoM) (Feb) | -3.1% |  | 1.0% |
+| 23:00 | KRW | Service Sector Output (MoM) (Feb) | 0.7% |  | -0.2% |
+| 14 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
+| 14 min | JPY | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
+| 14 min | JPY | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
+| 14 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
+| 14 min | JPY | Unemployment Rate (Feb) |  | 2.4% | 2.4% |
+| 34 min | JPY | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 4.8% |
+| 34 min | JPY | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | 2.0% |
+| 34 min | JPY | Large Retailers' Sales (MoM) |  |  | 0.8% |
+| 34 min | JPY | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
+| 34 min | JPY | Retail Sales (YoY) (Feb) |  | 2.8% | 2.3% |

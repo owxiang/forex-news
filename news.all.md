@@ -34,13 +34,13 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Low | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
-| 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:30 | ZAR | Low | PPI (YoY) (Feb) | 4.5% | 4.9% | 4.7% |
+| 09:30 | ZAR | Low | PPI (MoM) (Feb) | 0.5% | 0.9% | 0.1% |
 | 09:40 | INR | Low | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Low | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Low | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
@@ -78,19 +78,19 @@
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 7,485B |  | 7,514B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.472T |  | 3.490T |
-| 45 min | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
-| 45 min | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
-| 45 min | KRW | Low | Retail Sales (MoM) (Feb) |  |  | 0.8% |
-| 45 min | KRW | Low | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
-| 23:30 | JPY | Low | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
-| 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
-| 23:30 | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
-| 23:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
-| 23:30 | JPY | Low | Unemployment Rate (Feb) |  | 2.4% | 2.4% |
-| 23:50 | JPY | Moderate | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |
-| 23:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 4.8% |
-| 23:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | 2.0% |
-| 23:50 | JPY | Low | Large Retailers' Sales (MoM) |  |  | 0.8% |
-| 23:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
-| 23:50 | JPY | Low | Retail Sales (YoY) (Feb) |  | 2.8% | 2.3% |
+| 23:00 | KRW | Low | Industrial Production (MoM) (Feb) | 3.1% | 0.5% | -1.5% |
+| 23:00 | KRW | Low | Industrial Production (YoY) (Feb) | 4.8% | 5.8% | 12.9% |
+| 23:00 | KRW | Low | Retail Sales (MoM) (Feb) | -3.1% |  | 1.0% |
+| 23:00 | KRW | Low | Service Sector Output (MoM) (Feb) | 0.7% |  | -0.2% |
+| 14 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
+| 14 min | JPY | Low | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
+| 14 min | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
+| 14 min | JPY | Low | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
+| 14 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Mar) |  |  | 0.3% |
+| 14 min | JPY | Low | Unemployment Rate (Feb) |  | 2.4% | 2.4% |
+| 34 min | JPY | Moderate | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |
+| 34 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Mar) |  |  | 4.8% |
+| 34 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Apr) |  |  | 2.0% |
+| 34 min | JPY | Low | Large Retailers' Sales (MoM) |  |  | 0.8% |
+| 34 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Feb) |  |  | 3.0% |
+| 34 min | JPY | Low | Retail Sales (YoY) (Feb) |  | 2.8% | 2.3% |
