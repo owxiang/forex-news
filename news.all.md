@@ -29,8 +29,8 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Mar) | 2.769M |  | 2.814M |
 | 09:00 | EUR | Low | Italian Business Confidence (Mar) | 88.6 | 87.6 | 87.5 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Mar) | 96.5 | 97.5 | 97.0 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Low | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
@@ -78,10 +78,10 @@
 | 17:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
 | 20:30 | USD | Moderate | Fed's Balance Sheet | 7,485B |  | 7,514B |
 | 20:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.472T |  | 3.490T |
-| 23:00 | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
-| 23:00 | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
-| 23:00 | KRW | Low | Retail Sales (MoM) (Feb) |  |  | 0.8% |
-| 23:00 | KRW | Low | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
+| 45 min | KRW | Low | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
+| 45 min | KRW | Low | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
+| 45 min | KRW | Low | Retail Sales (MoM) (Feb) |  |  | 0.8% |
+| 45 min | KRW | Low | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
 | 23:30 | JPY | Low | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
 | 23:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |

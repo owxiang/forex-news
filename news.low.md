@@ -20,8 +20,8 @@
 | 08:55 | EUR | German Unemployment n.s.a. (Mar) | 2.769M |  | 2.814M |
 | 09:00 | EUR | Italian Business Confidence (Mar) | 88.6 | 87.6 | 87.5 |
 | 09:00 | EUR | Italian Consumer Confidence (Mar) | 96.5 | 97.5 | 97.0 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | M3 Money Supply (Feb) | 10,000,000.0M |  | 10,000,000.0M |
+| 09:00 | EUR | M3 Money Supply (YoY) (Feb) | 0.4% | 0.3% | 0.1% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Feb) | 0.4% |  | 0.2% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.4% | 0.3% |
 | 09:00 | ZAR | Budget Balance (MoM) (Feb) | 20.78B |  | -54.66B |
@@ -53,10 +53,10 @@
 | 15:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 15:30 | BRL | Foreign Exchange Flows | 0.356B |  | -0.298B |
 | 20:30 | USD | Reserve Balances with Federal Reserve Banks | 3.472T |  | 3.490T |
-| 23:00 | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
-| 23:00 | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
-| 23:00 | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
-| 23:00 | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
+| 45 min | KRW | Industrial Production (YoY) (Feb) |  | 5.8% | 12.9% |
+| 45 min | KRW | Industrial Production (MoM) (Feb) |  | 0.5% | -1.3% |
+| 45 min | KRW | Retail Sales (MoM) (Feb) |  |  | 0.8% |
+| 45 min | KRW | Service Sector Output (MoM) (Feb) |  |  | 0.1% |
 | 23:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Mar) |  |  | 2.5% |
 | 23:30 | JPY | Jobs/applications ratio (Feb) |  | 1.27 | 1.27 |
 | 23:30 | JPY | Tokyo CPI (YoY) (Mar) |  |  | 2.6% |
