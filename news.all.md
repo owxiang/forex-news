@@ -39,8 +39,8 @@
 | 09:40 | INR | Low | Foreign Debt (USD) (Q4) | 648.2B |  | 635.3B |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Feb) | 6.74B |  | 3.03B |
 | 10:00 | INR | Low | Federal Fiscal Deficit (Feb) | 15,013.65B |  | 11,026.02B |
-| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | EUR | Low | Italian PPI (YoY) (Feb) | -10.8% |  | -10.7% |
+| 11:00 | EUR | Low | Italian PPI (MoM) (Feb) | -1.0% |  | -1.7% |
 | 11:00 | BRL | Low | BCB Inflation Report |  |  |  |
 | 11:30 | INR | Low | Current Account (USD) | -16.80B | -12.10B | -8.30B |
 | 11:30 | INR | Low | Infrastructure Output (YoY) (Jan) | 6.7% |  | 4.1% |
