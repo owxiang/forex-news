@@ -6,8 +6,8 @@
 | 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.5% | 0.8% |
 | 07:45 | EUR | French HICP (MoM) |  | 0.7% | 0.9% |
 | 12:30 | USD | Goods Trade Balance (Feb) |  | -90.10B | -90.51B |
-| 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.4% |
 | 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.4% | 0.3% |
+| 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.4% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | 0.2% |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.3% |
 | 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
