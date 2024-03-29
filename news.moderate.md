@@ -12,12 +12,12 @@
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) | 0.4% |  | 0.3% |
 | 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.1% | 2.1% |
-| 19:30 | GBP | CFTC GBP speculative net positions |  |  | 53.2K |
-| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 277.8K |
-| 19:30 | USD | CFTC Gold speculative net positions |  |  | 201.6K |
-| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 11.2K |
-| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | -194.2K |
-| 19:30 | AUD | CFTC AUD speculative net positions |  |  | -107.5K |
-| 19:30 | BRL | CFTC BRL speculative net positions |  |  | 10.3K |
-| 19:30 | JPY | CFTC JPY speculative net positions |  |  | -116.0K |
-| 19:30 | EUR | CFTC EUR speculative net positions |  |  | 48.3K |
+| 17 min | GBP | CFTC GBP speculative net positions |  |  | 53.2K |
+| 17 min | USD | CFTC Crude Oil speculative net positions |  |  | 277.8K |
+| 17 min | USD | CFTC Gold speculative net positions |  |  | 201.6K |
+| 17 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 11.2K |
+| 17 min | USD | CFTC S&P 500 speculative net positions |  |  | -194.2K |
+| 17 min | AUD | CFTC AUD speculative net positions |  |  | -107.5K |
+| 17 min | BRL | CFTC BRL speculative net positions |  |  | 10.3K |
+| 17 min | JPY | CFTC JPY speculative net positions |  |  | -116.0K |
+| 17 min | EUR | CFTC EUR speculative net positions |  |  | 48.3K |
