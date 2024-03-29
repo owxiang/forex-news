@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:45 | EUR | French Consumer Spending (MoM) (Feb) | 0.0% | 0.3% | -0.6% |
-| 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.5% | 0.8% |
+| 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.5% | 0.9% |
 | 07:45 | EUR | French HICP (MoM) | 0.3% | 0.7% | 0.9% |
 | 12:30 | USD | Goods Trade Balance (Feb) |  | -90.10B | -90.51B |
 | 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.4% |
