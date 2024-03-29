@@ -10,7 +10,7 @@
 | 12:30 | USD | PCE price index (MoM) (Feb) | 0.3% | 0.4% | 0.4% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) | 0.8% | 0.5% | 0.2% |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) | 0.4% |  | 0.3% |
-| 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
+| 4 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 53.2K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 277.8K |
