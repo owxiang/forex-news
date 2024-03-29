@@ -12,8 +12,8 @@
 | 07:45 | EUR | PPI (YoY) (Feb) |  |  | -5.10% |
 | 07:45 | EUR | French PPI (MoM) (Feb) |  |  | -1.3% |
 | 09:00 | NOK | Central Bank Currency Purchase (Apr) |  |  | 350.0M |
-| 10:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.4% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
+| 10:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.4% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.4% | 0.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Mar) |  | 1.5% | 0.8% |
 | 11:00 | BRL | Long Term Interest Rate TJLP |  |  | 6.53% |
