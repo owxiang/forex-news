@@ -11,8 +11,8 @@
 | 07:45 | EUR | French PPI (MoM) (Feb) | -1.7% |  | -1.0% |
 | 10:00 | EUR | Italian CPI (YoY) (Mar) | 1.3% | 1.4% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.1% | 0.1% | 0.1% |
-| 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.2% | 1.4% | 0.0% |
 | 10:00 | EUR | Italian HICP (YoY) (Mar) | 1.3% | 1.5% | 0.8% |
+| 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.2% | 1.4% | 0.0% |
 | 11:00 | BRL | Long Term Interest Rate TJLP | 6.67% |  | 6.53% |
 | 11:30 | INR | FX Reserves, USD | 642.63B |  | 642.49B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
