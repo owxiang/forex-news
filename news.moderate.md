@@ -1,26 +1,23 @@
-## 28 March 2024 - Moderate Impact Forex News
+## 29 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | AUD | Retail Sales (MoM) (Feb) | 0.3% | 0.4% | 1.1% |
-| 07:00 | GBP | Business Investment (QoQ) (Q4) | 1.4% | 1.5% | -2.8% |
-| 07:00 | GBP | Current Account (Q4) | -21.2B | -21.3B | -18.5B |
-| 07:00 | EUR | German Retail Sales (MoM) (Feb) | -1.9% | 0.4% | -0.4% |
-| 08:00 | CHF | KOF Leading Indicators (Mar) | 101.5 | 102.1 | 102.0 |
-| 08:55 | EUR | German Unemployment Change (Mar) | 4K | 10K | 11K |
-| 08:55 | EUR | German Unemployment Rate (Mar) | 5.9% | 5.9% | 5.9% |
-| 12:00 | BRL | Unemployment Rate | 7.8% | 7.8% | 7.6% |
-| 12:30 | USD | Continuing Jobless Claims | 1,819K | 1,815K | 1,795K |
-| 12:30 | USD | GDP Price Index (QoQ) (Q4) | 1.7% | 1.6% | 3.3% |
-| 12:30 | CAD | GDP (MoM) (Jan) | 0.6% | 0.4% | -0.1% |
-| 12:31 | CAD | GDP (MoM) (Feb) | 0.4% |  | 0.6% |
-| 14:00 | USD | Michigan 1-Year Inflation Expectations (Mar) | 2.9% | 3.0% | 3.0% |
-| 14:00 | USD | Michigan 5-Year Inflation Expectations (Mar) | 2.8% | 2.9% | 2.9% |
-| 14:00 | USD | Michigan Consumer Expectations (Mar) | 77.4 | 74.6 | 75.2 |
-| 14:00 | USD | Michigan Consumer Sentiment (Mar) | 79.4 | 76.5 | 76.9 |
-| 14:00 | USD | Pending Home Sales (MoM) (Feb) | 1.6% | 1.4% | -4.7% |
-| 17:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 509 |
-| 17:00 | USD | U.S. Baker Hughes Total Rig Count | 621 |  | 624 |
-| 20:30 | USD | Fed's Balance Sheet | 7,485B |  | 7,514B |
-| 14 min | JPY | Tokyo Core CPI (YoY) (Mar) |  | 2.4% | 2.5% |
-| 34 min | JPY | Industrial Production (MoM) (Feb) |  | 1.2% | -6.7% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Feb) |  | 0.3% | -0.3% |
+| 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.5% | 0.8% |
+| 07:45 | EUR | French HICP (MoM) |  | 0.7% | 0.9% |
+| 12:30 | USD | Goods Trade Balance (Feb) |  | -90.10B | -90.51B |
+| 12:30 | USD | PCE Price index (YoY) (Feb) |  | 2.5% | 2.4% |
+| 12:30 | USD | PCE price index (MoM) (Feb) |  | 0.4% | 0.3% |
+| 12:30 | USD | Personal Spending (MoM) (Feb) |  | 0.5% | 0.2% |
+| 12:30 | USD | Retail Inventories Ex Auto (Feb) |  |  | 0.3% |
+| 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
+| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
+| 19:30 | GBP | CFTC GBP speculative net positions |  |  | 53.2K |
+| 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 277.8K |
+| 19:30 | USD | CFTC Gold speculative net positions |  |  | 201.6K |
+| 19:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 11.2K |
+| 19:30 | USD | CFTC S&P 500 speculative net positions |  |  | -194.2K |
+| 19:30 | AUD | CFTC AUD speculative net positions |  |  | -107.5K |
+| 19:30 | BRL | CFTC BRL speculative net positions |  |  | 10.3K |
+| 19:30 | JPY | CFTC JPY speculative net positions |  |  | -116.0K |
+| 19:30 | EUR | CFTC EUR speculative net positions |  |  | 48.3K |
