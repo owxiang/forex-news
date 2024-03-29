@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 12:30 | USD | Core PCE Price Index (YoY) (Feb) | 2.8% | 2.8% | 2.9% |
 | 12:30 | USD | Core PCE Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.5% |
-| 14 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 15:30 | USD | Fed Chair Powell Speaks |  |  |  |

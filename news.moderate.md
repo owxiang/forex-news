@@ -6,12 +6,12 @@
 | 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.5% | 0.9% |
 | 07:45 | EUR | French HICP (MoM) | 0.3% | 0.7% | 0.9% |
 | 12:30 | USD | Goods Trade Balance (Feb) | -91.84B | -90.10B | -90.51B |
-| 12:30 | USD | PCE Price index (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
 | 12:30 | USD | PCE price index (MoM) (Feb) | 0.3% | 0.4% | 0.4% |
+| 12:30 | USD | PCE Price index (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
 | 12:30 | USD | Personal Spending (MoM) (Feb) | 0.8% | 0.5% | 0.2% |
 | 12:30 | USD | Retail Inventories Ex Auto (Feb) | 0.4% |  | 0.3% |
-| 4 min | USD | FOMC Member Daly Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
+| 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
+| 10 min | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.1% | 2.1% |
 | 19:30 | GBP | CFTC GBP speculative net positions |  |  | 53.2K |
 | 19:30 | USD | CFTC Crude Oil speculative net positions |  |  | 277.8K |
 | 19:30 | USD | CFTC Gold speculative net positions |  |  | 201.6K |
