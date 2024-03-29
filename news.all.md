@@ -8,10 +8,10 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) |  | 0.3% | -0.3% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) |  | 2.6% | 3.0% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.5% | 0.8% |
-| 07:45 | EUR | Low | French HICP (YoY) |  | 2.8% | 3.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.7% | 0.9% |
-| 07:45 | EUR | Low | PPI (YoY) (Feb) |  |  | -5.10% |
+| 07:45 | EUR | Low | French HICP (YoY) |  | 2.8% | 3.2% |
 | 07:45 | EUR | Low | French PPI (MoM) (Feb) |  |  | -1.3% |
+| 07:45 | EUR | Low | PPI (YoY) (Feb) |  |  | -5.10% |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Apr) |  |  | 350.0M |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.4% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
