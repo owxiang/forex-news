@@ -11,15 +11,14 @@
 | 07:45 | EUR | French PPI (MoM) (Feb) | -1.7% |  | -1.0% |
 | 10:00 | EUR | Italian CPI (YoY) (Mar) | 1.3% | 1.4% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) | 0.1% | 0.1% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (Mar) | 1.3% | 1.5% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Mar) | 1.2% | 1.4% | 0.0% |
+| 10:00 | EUR | Italian HICP (YoY) (Mar) | 1.3% | 1.5% | 0.8% |
 | 11:00 | BRL | Long Term Interest Rate TJLP | 6.67% |  | 6.53% |
 | 11:30 | INR | FX Reserves, USD | 642.63B |  | 642.49B |
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | USD | Personal Income (MoM) (Feb) | 0.3% | 0.4% | 1.0% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Feb) | 0.4% |  | -0.2% |
 | 12:30 | USD | Wholesale Inventories (MoM) (Feb) | 0.5% | 0.2% | -0.3% |
-| 42 min | USD | Dallas Fed PCE (Feb) |  |  | 5.00% |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 31.9K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | -175.5K |
