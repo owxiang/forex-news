@@ -5,11 +5,11 @@
 | 04:50 | JPY | 2-Year JGB Auction | 0.187% |  | 0.180% |
 | 05:00 | JPY | Construction Orders (YoY) (Feb) | -11.0% |  | 9.1% |
 | 05:00 | JPY | Housing Starts (YoY) (Feb) | -8.2% | -5.4% | -7.5% |
-| 30 min | EUR | French CPI (YoY) (Mar) |  | 2.6% | 3.0% |
-| 30 min | EUR | French HICP (YoY) |  | 2.8% | 3.2% |
-| 30 min | EUR | PPI (YoY) (Feb) |  |  | -5.10% |
-| 30 min | EUR | French PPI (MoM) (Feb) |  |  | -1.3% |
-| 09:00 | NOK | Central Bank Currency Purchase (Apr) |  |  | 350.0M |
+| 07:45 | EUR | French CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
+| 07:45 | EUR | French HICP (YoY) | 2.4% | 2.8% | 3.2% |
+| 07:45 | EUR | PPI (YoY) (Feb) | -5.50% |  | -4.90% |
+| 07:45 | EUR | French PPI (MoM) (Feb) | -1.7% |  | -1.0% |
+| 41 min | NOK | Central Bank Currency Purchase (Apr) |  |  | 350.0M |
 | 10:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.4% | 0.8% |
 | 10:00 | EUR | Italian HICP (YoY) (Mar) |  | 1.5% | 0.8% |
