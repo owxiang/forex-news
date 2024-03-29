@@ -10,10 +10,10 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.5% | 0.9% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.4% | 2.8% | 3.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) | 0.3% | 0.7% | 0.9% |
-| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -1.7% |  | -1.0% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) | -5.50% |  | -4.90% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.1% | 0.1% | 0.1% |
+| 07:45 | EUR | Low | French PPI (MoM) (Feb) | -1.7% |  | -1.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.3% | 1.4% | 0.8% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.1% | 0.1% | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.2% | 1.4% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Mar) | 1.3% | 1.5% | 0.8% |
 | 11:00 | BRL | Low | Long Term Interest Rate TJLP | 6.67% |  | 6.53% |
