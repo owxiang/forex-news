@@ -18,8 +18,8 @@
 | 11:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | USD | Personal Income (MoM) (Feb) | 0.3% | 0.4% | 1.0% |
 | 12:30 | USD | Real Personal Consumption (MoM) (Feb) | 0.4% |  | -0.2% |
-| 12:30 | USD | Wholesale Inventories (MoM) |  | 0.2% | -0.3% |
-| 31 min | USD | Dallas Fed PCE (Feb) |  |  | 5.00% |
+| 12:30 | USD | Wholesale Inventories (MoM) (Feb) | 0.5% | 0.2% | -0.3% |
+| 42 min | USD | Dallas Fed PCE (Feb) |  |  | 5.00% |
 | 19:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.5K |
 | 19:30 | USD | CFTC Copper speculative net positions |  |  | 31.9K |
 | 19:30 | USD | CFTC Corn speculative net positions |  |  | -175.5K |

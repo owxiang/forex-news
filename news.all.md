@@ -8,8 +8,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Feb) | 0.0% | 0.3% | -0.6% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.5% | 0.9% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 2.3% | 2.6% | 3.0% |
-| 07:45 | EUR | Low | French HICP (YoY) | 2.4% | 2.8% | 3.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) | 0.3% | 0.7% | 0.9% |
+| 07:45 | EUR | Low | French HICP (YoY) | 2.4% | 2.8% | 3.2% |
 | 07:45 | EUR | Low | PPI (YoY) (Feb) | -5.50% |  | -4.90% |
 | 07:45 | EUR | Low | French PPI (MoM) (Feb) | -1.7% |  | -1.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.3% | 1.4% | 0.8% |
@@ -21,15 +21,15 @@
 | 11:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | USD | High | Core PCE Price Index (YoY) (Feb) | 2.8% | 2.8% | 2.9% |
 | 12:30 | USD | High | Core PCE Price Index (MoM) (Feb) | 0.3% | 0.3% | 0.5% |
-| 12:30 | USD | Moderate | Goods Trade Balance (Feb) |  | -90.10B | -90.51B |
-| 12:30 | USD | Moderate | PCE Price index (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
+| 12:30 | USD | Moderate | Goods Trade Balance (Feb) | -91.84B | -90.10B | -90.51B |
 | 12:30 | USD | Moderate | PCE price index (MoM) (Feb) | 0.3% | 0.4% | 0.4% |
+| 12:30 | USD | Moderate | PCE Price index (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
 | 12:30 | USD | Low | Personal Income (MoM) (Feb) | 0.3% | 0.4% | 1.0% |
 | 12:30 | USD | Moderate | Personal Spending (MoM) (Feb) | 0.8% | 0.5% | 0.2% |
 | 12:30 | USD | Low | Real Personal Consumption (MoM) (Feb) | 0.4% |  | -0.2% |
-| 12:30 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  |  | 0.3% |
-| 12:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.2% | -0.3% |
-| 31 min | USD | Low | Dallas Fed PCE (Feb) |  |  | 5.00% |
+| 12:30 | USD | Moderate | Retail Inventories Ex Auto (Feb) | 0.4% |  | 0.3% |
+| 12:30 | USD | Low | Wholesale Inventories (MoM) (Feb) | 0.5% | 0.2% | -0.3% |
+| 42 min | USD | Low | Dallas Fed PCE (Feb) |  |  | 5.00% |
 | 15:20 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 15:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.1% | 2.1% |
