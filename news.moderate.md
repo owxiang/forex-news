@@ -1,23 +1,10 @@
-## 29 March 2024 - Moderate Impact Forex News
+## 31 March 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Consumer Spending (MoM) (Feb) | 0.0% | 0.3% | -0.6% |
-| 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.5% | 0.9% |
-| 07:45 | EUR | French HICP (MoM) | 0.3% | 0.7% | 0.9% |
-| 12:30 | USD | Goods Trade Balance (Feb) | -91.84B | -90.10B | -90.51B |
-| 12:30 | USD | PCE Price index (YoY) (Feb) | 2.5% | 2.5% | 2.4% |
-| 12:30 | USD | PCE price index (MoM) (Feb) | 0.3% | 0.4% | 0.4% |
-| 12:30 | USD | Personal Spending (MoM) (Feb) | 0.8% | 0.5% | 0.2% |
-| 12:30 | USD | Retail Inventories Ex Auto (Feb) | 0.4% |  | 0.3% |
-| 15:20 | USD | FOMC Member Daly Speaks |  |  |  |
-| 16:30 | USD | Atlanta Fed GDPNow (Q1) | 2.3% | 2.1% | 2.1% |
-| 19:30 | GBP | CFTC GBP speculative net positions | 35.2K |  | 53.2K |
-| 19:30 | USD | CFTC Crude Oil speculative net positions | 278.0K |  | 277.8K |
-| 19:30 | USD | CFTC Gold speculative net positions | 199.3K |  | 201.6K |
-| 19:30 | USD | CFTC Nasdaq 100 speculative net positions | -7.1K |  | 11.2K |
-| 19:30 | USD | CFTC S&P 500 speculative net positions | -169.4K |  | -194.2K |
-| 19:30 | AUD | CFTC AUD speculative net positions | -105.5K |  | -107.5K |
-| 19:30 | BRL | CFTC BRL speculative net positions | 8.7K |  | 10.3K |
-| 19:30 | JPY | CFTC JPY speculative net positions | -129.1K |  | -116.0K |
-| 19:30 | EUR | CFTC EUR speculative net positions | 31.2K |  | 48.3K |
+| 01:30 | CNY | Chinese Composite PMI (Mar) |  |  | 50.9 |
+| 01:30 | CNY | Non-Manufacturing PMI (Mar) |  | 51.3 | 51.4 |
+| 23:50 | JPY | Tankan All Big Industry CAPEX (Q1) |  | 9.2% | 13.5% |
+| 23:50 | JPY | Tankan Big Manufacturing Outlook Index (Q1) |  | 11 | 8 |
+| 23:50 | JPY | Tankan Large Manufacturers Index (Q1) |  | 10 | 12 |
+| 23:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) |  | 33 | 30 |
