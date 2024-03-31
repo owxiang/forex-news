@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 16 min | CNY | Chinese Composite PMI (Mar) |  |  | 50.9 |
-| 16 min | CNY | Non-Manufacturing PMI (Mar) |  | 51.3 | 51.4 |
+| 02:30 | CNY | Chinese Composite PMI (Mar) | 52.7 |  | 50.9 |
+| 02:30 | CNY | Non-Manufacturing PMI (Mar) | 53.0 | 51.3 | 51.4 |
