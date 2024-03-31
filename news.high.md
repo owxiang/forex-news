@@ -1,5 +1,7 @@
-## 31 March 2024 - High Impact Forex News
+## 01 April 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (Mar) | 50.8 | 50.1 | 49.1 |
+| 14:45 | USD | S&P Global US Manufacturing PMI (Mar) |  | 52.8 | 52.2 |
+| 15:00 | USD | ISM Manufacturing PMI (Mar) |  | 48.5 | 47.8 |
+| 15:00 | USD | ISM Manufacturing Prices (Mar) |  | 53.3 | 52.5 |
