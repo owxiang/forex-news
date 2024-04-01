@@ -20,18 +20,17 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
-| 43 min | IDR | Low | Core Inflation (YoY) (Mar) |  | 1.70% | 1.68% |
-| 43 min | IDR | Low | Inflation (YoY) (Mar) |  | 2.91% | 2.75% |
-| 43 min | IDR | Low | Inflation (MoM) (Mar) |  | 0.39% | 0.37% |
-| 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 18.40% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 9.90% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 18.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | ZAR | Low | Total Vehicle Sales |  |  | 44.75K |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 52.8 | 52.2 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.5% | -0.2% |
-| 15:00 | USD | Low | Dallas Fed PCE (Feb) |  |  | 5.00% |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 52.5 | 52.2 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.7% | -0.2% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 45.9 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 48.5 | 47.8 |

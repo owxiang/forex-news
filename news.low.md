@@ -15,16 +15,15 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Mar) | 48.2 | 48.2 | 47.2 |
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
-| 43 min | IDR | Core Inflation (YoY) (Mar) |  | 1.70% | 1.68% |
-| 43 min | IDR | Inflation (YoY) (Mar) |  | 2.91% | 2.75% |
-| 43 min | IDR | Inflation (MoM) (Mar) |  | 0.39% | 0.37% |
-| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 18.40% |
+| 05:00 | IDR | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
+| 05:00 | IDR | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
+| 05:00 | IDR | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) |  |  | 9.90% |
+| 11:00 | EUR | Car Registration (MoM) (Mar) |  |  | 18.40% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | ZAR | Total Vehicle Sales |  |  | 44.75K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
-| 15:00 | USD | Dallas Fed PCE (Feb) |  |  | 5.00% |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 49.2 |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Mar) |  |  | 52.30 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
