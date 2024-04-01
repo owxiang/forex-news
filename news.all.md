@@ -7,7 +7,7 @@
 | 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) | 10 | 11 | 8 |
 | 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) | 11 | 10 | 13 |
 | 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 27 | 30 | 27 |
-| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) | 34 | 33 | 32 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q1) | 34 | 31 | 32 |
 | 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q1) | 0 |  | -1 |
 | 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q1) | -1 | -2 | 2 |
 | 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q1) | 8 |  | 7 |
@@ -23,10 +23,11 @@
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
-| 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 9.90% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 18.40% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 9.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | ZAR | Low | Total Vehicle Sales |  |  | 44.75K |
+| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -0.90% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 52.5 | 52.2 |

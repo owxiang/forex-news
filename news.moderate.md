@@ -5,7 +5,7 @@
 | 00:50 | JPY | Tankan All Big Industry CAPEX (Q1) | 4.0% | 9.2% | 13.2% |
 | 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q1) | 10 | 11 | 8 |
 | 00:50 | JPY | Tankan Large Manufacturers Index (Q1) | 11 | 10 | 13 |
-| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 34 | 33 | 32 |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q1) | 34 | 31 | 32 |
 | 02:45 | CNY | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
 | 15:00 | USD | Construction Spending (MoM) (Feb) |  | 0.7% | -0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (Mar) |  |  | 45.9 |
