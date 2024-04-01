@@ -20,9 +20,9 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  | 1.70% | 1.68% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) |  | 0.39% | 0.37% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  | 2.91% | 2.75% |
+| 43 min | IDR | Low | Core Inflation (YoY) (Mar) |  | 1.70% | 1.68% |
+| 43 min | IDR | Low | Inflation (YoY) (Mar) |  | 2.91% | 2.75% |
+| 43 min | IDR | Low | Inflation (MoM) (Mar) |  | 0.39% | 0.37% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 18.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 9.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
