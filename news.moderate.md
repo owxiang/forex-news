@@ -11,4 +11,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Mar) | 47.4 | 47.5 | 45.9 |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 19:00 | USD | Atlanta Fed GDPNow (Q1) | 2.8% | 2.3% | 2.3% |
-| 23:10 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 55 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |

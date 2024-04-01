@@ -21,8 +21,8 @@
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -34,24 +34,11 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) | 51.4 | 49.8 | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) | 50.3 | 48.5 | 47.8 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Mar) | 55.8 | 53.3 | 52.5 |
-| 15:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
-| 15:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.25M | 0.25M | 0.25M |
-| 15:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.21M | 0.21M | 0.21M |
-| 15:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M | 0.05M | 0.05M |
-| 15:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.03M | 3.03M | 3.03M |
-| 15:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.13M | 4.13M | 4.13M |
-| 15:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
-| 15:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
-| 15:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M | 1.57M | 1.57M |
-| 15:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.98M | 8.98M | 8.98M |
-| 15:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
-| 15:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.80M | 0.80M | 0.80M |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Mar) | 52.20 |  | 52.30 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.125% |  | 5.105% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.8% | 2.3% | 2.3% |
-| 42 min | MXN | Low | Fiscal Balance (Feb) |  |  | -159.14B |
-| 23:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
-| 23:10 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 45 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
+| 55 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 23:50 | USD | Low | Fed Governor Cook Speaks |  |  |  |
