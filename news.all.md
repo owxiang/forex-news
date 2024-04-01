@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) | 4.0% | 9.2% | 13.5% |
-| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) | -3.6% |  | 10.3% |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q1) | 4.0% | 9.2% | 13.2% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q1) | -3.6% |  | 8.3% |
 | 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q1) | 10 | 11 | 8 |
 | 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q1) | 11 | 10 | 13 |
 | 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q1) | 27 | 30 | 27 |
@@ -19,10 +19,10 @@
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Mar) | 48.2 | 48.2 | 47.2 |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
-| 31 min | CNY | Moderate | Caixin Manufacturing PMI (Mar) |  | 51.0 | 50.9 |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) |  | 1.70% | 1.68% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  | 2.91% | 2.75% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) |  | 0.39% | 0.37% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) |  | 2.91% | 2.75% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 18.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 9.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
