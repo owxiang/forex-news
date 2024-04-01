@@ -39,6 +39,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.125% |  | 5.105% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.8% | 2.3% | 2.3% |
-| 45 min | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
-| 55 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 23:50 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 23:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.3 | 46.8 | 47.8 |
+| 23:10 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 35 min | USD | Low | Fed Governor Cook Speaks |  |  |  |

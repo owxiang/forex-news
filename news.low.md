@@ -27,5 +27,5 @@
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Mar) | 52.20 |  | 52.30 |
 | 16:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.230% |
 | 16:30 | USD | 6-Month Bill Auction | 5.125% |  | 5.105% |
-| 45 min | AUD | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
-| 23:50 | USD | Fed Governor Cook Speaks |  |  |  |
+| 23:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.3 | 46.8 | 47.8 |
+| 35 min | USD | Fed Governor Cook Speaks |  |  |  |
