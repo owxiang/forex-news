@@ -25,15 +25,13 @@
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
-| 10 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -0.90% |
-| 13:15 | ZAR | Low | Total Vehicle Sales |  |  | 44.75K |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
-| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 29 min | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
+| 59 min | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 52.5 | 52.2 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.7% | -0.2% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  |  | 45.9 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  |  | 49.2 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) |  | 47.5 | 45.9 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) |  | 49.8 | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) |  | 48.5 | 47.8 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Mar) |  | 53.3 | 52.5 |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
