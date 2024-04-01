@@ -21,21 +21,21 @@
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
-| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
 | 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
+| 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) | 53.6 |  | 54.1 |
-| 13 min | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
-| 28 min | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 52.5 | 52.2 |
-| 43 min | USD | Moderate | Construction Spending (MoM) (Feb) |  | 0.7% | -0.2% |
-| 43 min | USD | Moderate | ISM Manufacturing Employment (Mar) |  | 47.5 | 45.9 |
-| 43 min | USD | Low | ISM Manufacturing New Orders Index (Mar) |  | 49.8 | 49.2 |
-| 43 min | USD | High | ISM Manufacturing PMI (Mar) |  | 48.5 | 47.8 |
-| 43 min | USD | High | ISM Manufacturing Prices (Mar) |  | 53.3 | 52.5 |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Mar) |  |  | 52.30 |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) | 49.8 |  | 49.7 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Mar) | 51.9 | 52.5 | 52.2 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Feb) | -0.3% | 0.7% | -0.2% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Mar) | 47.4 | 47.5 | 45.9 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) | 51.4 | 49.8 | 49.2 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Mar) | 50.3 | 48.5 | 47.8 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Mar) | 55.8 | 53.3 | 52.5 |
+| 15 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 45 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Mar) |  |  | 52.30 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.105% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
