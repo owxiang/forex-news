@@ -21,9 +21,9 @@
 | 11:00 | EUR | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 29 min | BRL | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
-| 59 min | CAD | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Mar) |  | 49.8 | 49.2 |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Mar) | 53.6 |  | 54.1 |
+| 13 min | CAD | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
+| 43 min | USD | ISM Manufacturing New Orders Index (Mar) |  | 49.8 | 49.2 |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Mar) |  |  | 52.30 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.105% |
