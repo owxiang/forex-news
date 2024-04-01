@@ -16,8 +16,8 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
-| 05:00 | IDR | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 05:00 | IDR | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
+| 05:00 | IDR | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
 | 11:00 | EUR | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |

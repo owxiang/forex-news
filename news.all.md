@@ -21,8 +21,8 @@
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Mar) | 51.1 | 51.0 | 50.9 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
-| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 05:00 | IDR | Low | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
+| 05:00 | IDR | Low | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -50,7 +50,7 @@
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Mar) | 52.20 |  | 52.30 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.125% |  | 5.105% |
-| 43 min | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.8% | 2.3% | 2.3% |
+| 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.8% | 2.3% | 2.3% |
 | 22:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -159.14B |
 | 23:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
 | 23:10 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
