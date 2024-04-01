@@ -16,8 +16,8 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
-| 05:00 | IDR | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
 | 05:00 | IDR | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
+| 05:00 | IDR | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
 | 11:00 | EUR | Car Registration (YoY) (Mar) | -4.70% |  | 9.90% |
 | 11:00 | EUR | Car Registration (MoM) (Mar) | 16.60% |  | 18.40% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
@@ -39,6 +39,6 @@
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Mar) | 52.20 |  | 52.30 |
 | 16:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.230% |
 | 16:30 | USD | 6-Month Bill Auction | 5.125% |  | 5.105% |
-| 22:00 | MXN | Fiscal Balance (Feb) |  |  | -159.14B |
+| 42 min | MXN | Fiscal Balance (Feb) |  |  | -159.14B |
 | 23:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
 | 23:50 | USD | Fed Governor Cook Speaks |  |  |  |
