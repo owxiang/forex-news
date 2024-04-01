@@ -16,13 +16,13 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.50% |  | 2.80% |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Mar) | 54.2 |  | 52.7 |
 | 05:00 | IDR | Core Inflation (YoY) (Mar) | 1.77% | 1.70% | 1.68% |
-| 05:00 | IDR | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 05:00 | IDR | Inflation (MoM) (Mar) | 0.52% | 0.39% | 0.37% |
-| 42 min | EUR | Car Registration (YoY) (Mar) |  |  | 9.90% |
-| 42 min | EUR | Car Registration (MoM) (Mar) |  |  | 18.40% |
+| 05:00 | IDR | Inflation (YoY) (Mar) | 3.05% | 2.91% | 2.75% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:15 | ZAR | Total Vehicle Sales |  |  | 44.75K |
+| 12:30 | EUR | Car Registration (MoM) (Mar) |  |  | 18.40% |
+| 12:30 | EUR | Car Registration (YoY) (Mar) |  |  | 9.90% |
 | 13:15 | ZAR | Total Vehicle Sales (YoY) |  |  | -0.90% |
+| 13:15 | ZAR | Total Vehicle Sales |  |  | 44.75K |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Mar) |  |  | 49.2 |
