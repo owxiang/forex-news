@@ -26,8 +26,8 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (Mar) |  |  | 18.40% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Mar) |  |  | 9.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -0.90% |
 | 13:15 | ZAR | Low | Total Vehicle Sales |  |  | 44.75K |
+| 13:15 | ZAR | Low | Total Vehicle Sales (YoY) |  |  | -0.90% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Mar) |  |  | 54.1 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Mar) |  |  | 49.7 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Mar) |  | 52.5 | 52.2 |
