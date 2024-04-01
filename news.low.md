@@ -24,9 +24,21 @@
 | 14:00 | BRL | S&P Global Manufacturing PMI (Mar) | 53.6 |  | 54.1 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Mar) | 49.8 |  | 49.7 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Mar) | 51.4 | 49.8 | 49.2 |
-| 45 min | MXN | S&P Global Mexico Manufacturing PMI (Mar) |  |  | 52.30 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 5.105% |
+| 15:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
+| 15:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.25M | 0.25M | 0.25M |
+| 15:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.21M | 0.21M | 0.21M |
+| 15:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.05M | 0.05M | 0.05M |
+| 15:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.03M | 3.03M | 3.03M |
+| 15:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.13M | 4.13M | 4.13M |
+| 15:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 15:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 15:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M | 1.57M | 1.57M |
+| 15:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.98M | 8.98M | 8.98M |
+| 15:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
+| 15:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.80M | 0.80M | 0.80M |
+| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Mar) | 52.20 |  | 52.30 |
+| 14 min | USD | 3-Month Bill Auction |  |  | 5.230% |
+| 14 min | USD | 6-Month Bill Auction |  |  | 5.105% |
 | 22:00 | MXN | Fiscal Balance (Feb) |  |  | -159.14B |
 | 23:00 | AUD | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
 | 23:50 | USD | Fed Governor Cook Speaks |  |  |  |

@@ -34,10 +34,22 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Mar) | 51.4 | 49.8 | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Mar) | 50.3 | 48.5 | 47.8 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Mar) | 55.8 | 53.3 | 52.5 |
-| 15 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 45 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Mar) |  |  | 52.30 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.105% |
+| 15:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
+| 15:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.25M | 0.25M | 0.25M |
+| 15:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.21M | 0.21M | 0.21M |
+| 15:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.05M | 0.05M | 0.05M |
+| 15:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.03M | 3.03M | 3.03M |
+| 15:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.13M | 4.13M | 4.13M |
+| 15:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 15:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 15:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.57M | 1.57M | 1.57M |
+| 15:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 8.98M | 8.98M | 8.98M |
+| 15:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
+| 15:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.80M | 0.80M | 0.80M |
+| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Mar) | 52.20 |  | 52.30 |
+| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
+| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.105% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.3% | 2.3% |
 | 22:00 | MXN | Low | Fiscal Balance (Feb) |  |  | -159.14B |
 | 23:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  | 46.8 | 47.8 |
