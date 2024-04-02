@@ -21,16 +21,16 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) | 50.4 | 48.9 | 48.7 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 46.2 | 45.8 | 47.1 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 41.9 | 41.6 | 42.5 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) | 50.8 |  | 52.0 |
@@ -47,11 +47,11 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) | 0.2% |  | -0.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) | 0.4% | 0.5% | 0.4% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
-| 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.7% |
+| 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | 0.06% |  | -0.24% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) | -11.70% |  | -0.90% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Mar) | 44.24K |  | 44.75K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) | -11.70% |  | -0.90% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.2% |  | 3.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.413% |  | 3.436% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.815% |  | 3.844% |
@@ -69,5 +69,5 @@
 | 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -2.286M | -2.000M | 9.337M |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) | 419.25B |  | 415.74B |
-| 45 min | AUD | Low | AIG Construction Index (Mar) |  |  | -18.4 |
-| 45 min | AUD | Low | AIG Manufacturing Index (Mar) |  |  | -12.6 |
+| 23:00 | AUD | Low | AIG Construction Index (Mar) | -12.9 |  | -18.4 |
+| 23:00 | AUD | Low | AIG Manufacturing Index (Mar) | -7.0 |  | -12.6 |

@@ -11,16 +11,16 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Mar) | 59.1 | 59.2 | 56.9 |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) | -0.2% | 0.4% | 0.3% |
 | 07:30 | AUD | Commodity Prices (YoY) (Mar) | -15.3% |  | -15.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | NOK | Manufacturing PMI (Mar) | 50.8 |  | 52.0 |
@@ -33,11 +33,11 @@
 | 10:00 | ZAR | Manufacturing PMI | 49.2 |  | 51.7 |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.840% |  | 2.800% |
 | 12:30 | BRL | Bank lending (MoM) (Feb) | 0.2% |  | -0.3% |
-| 13:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.7% |
+| 13:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) | 0.06% |  | -0.24% |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | -11.70% |  | -0.90% |
 | 13:00 | ZAR | Total Vehicle Sales (Mar) | 44.24K |  | 44.75K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) | -11.70% |  | -0.90% |
 | 13:55 | USD | Redbook (YoY) | 5.2% |  | 3.9% |
 | 14:00 | EUR | French 12-Month BTF Auction | 3.413% |  | 3.436% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.815% |  | 3.844% |
@@ -48,5 +48,5 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 1.1% |  | -0.6% |
 | 16:00 | NZD | GlobalDairyTrade Price Index | 2.8% |  | -2.8% |
 | 22:00 | KRW | FX Reserves - USD (Mar) | 419.25B |  | 415.74B |
-| 45 min | AUD | AIG Construction Index (Mar) |  |  | -18.4 |
-| 45 min | AUD | AIG Manufacturing Index (Mar) |  |  | -12.6 |
+| 23:00 | AUD | AIG Construction Index (Mar) | -12.9 |  | -18.4 |
+| 23:00 | AUD | AIG Manufacturing Index (Mar) | -7.0 |  | -12.6 |
