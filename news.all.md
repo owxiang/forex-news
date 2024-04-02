@@ -17,31 +17,31 @@
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Mar) | -15.3% |  | -15.3% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -33.4K | 10.0K | -7.5K |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Mar) | 51.4 | 51.1 | 51.5 |
-| 14 min | CHF | Moderate | procure.ch PMI (Mar) |  | 45.0 | 44.0 |
-| 29 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) |  | 48.9 | 48.7 |
-| 34 min | EUR | Moderate | HCOB France Manufacturing PMI (Mar) |  | 45.8 | 47.1 |
-| 39 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) |  | 41.6 | 42.5 |
-| 44 min | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.7% |
-| 44 min | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) |  |  | 0.3% |
-| 44 min | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.5% |
-| 44 min | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 2.6% |
-| 44 min | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 3.5% |
-| 44 min | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.5% |
-| 44 min | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.1% |
-| 44 min | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.5% |
-| 44 min | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 0.3% |
-| 44 min | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 2.6% |
-| 44 min | EUR | Low | Saxony CPI (YoY) (Mar) |  |  | 3.0% |
-| 44 min | EUR | Low | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
-| 44 min | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
-| 44 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 45.7 | 46.5 |
-| 09:30 | GBP | Low | BoE Consumer Credit (Feb) |  | 1.600B | 1.877B |
-| 09:30 | GBP | Low | M3 Money Supply (Feb) |  |  | 2,993.9B |
-| 09:30 | GBP | Low | M4 Money Supply (MoM) (Feb) |  | 0.2% | -0.1% |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Mar) |  | 49.9 | 47.5 |
-| 09:30 | GBP | Low | Mortgage Approvals (Feb) |  | 57.00K | 55.23K |
-| 09:30 | GBP | Low | Mortgage Lending (Feb) |  | -0.15B | -1.09B |
-| 09:30 | GBP | Low | Net Lending to Individuals |  | 1.200B | 0.791B |
+| 08:30 | CHF | Moderate | procure.ch PMI (Mar) | 45.2 | 45.0 | 44.0 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Mar) | 50.4 | 48.9 | 48.7 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Mar) | 46.2 | 45.8 | 47.1 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 41.9 | 41.6 | 42.5 |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Mar) | 0.4% |  | 0.3% |
+| 09:00 | NOK | Low | Manufacturing PMI (Mar) | 50.8 |  | 52.0 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) | 46.1 | 45.7 | 46.5 |
+| 11 min | GBP | Low | BoE Consumer Credit (Feb) |  | 1.600B | 1.877B |
+| 11 min | GBP | Low | M3 Money Supply (Feb) |  |  | 2,993.9B |
+| 11 min | GBP | Low | M4 Money Supply (MoM) (Feb) |  | 0.2% | -0.1% |
+| 11 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Mar) |  | 49.9 | 47.5 |
+| 11 min | GBP | Low | Mortgage Approvals (Feb) |  | 57.00K | 55.23K |
+| 11 min | GBP | Low | Mortgage Lending (Feb) |  | -0.15B | -1.09B |
+| 11 min | GBP | Low | Net Lending to Individuals |  | 1.200B | 0.791B |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.800% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.3% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.5% | 0.4% |
