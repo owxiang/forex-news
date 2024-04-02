@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 04:35 | JPY | 10-Year JGB Auction | 0.753% |  | 0.718% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Mar) | 1.6% | 2.4% | 1.2% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Mar) | -0.2% | 0.4% | 0.7% |
+| 07:00 | GBP | Nationwide HPI (YoY) (Mar) | 1.6% | 2.4% | 1.2% |
 | 08:00 | EUR | Spanish Unemployment Change (Mar) | -33.4K | 10.0K | -7.5K |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) | 51.4 | 51.1 | 51.5 |
 | 08:30 | CHF | procure.ch PMI (Mar) | 45.2 | 45.0 | 44.0 |
@@ -17,7 +17,7 @@
 | 13:00 | EUR | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
 | 15:00 | USD | Factory Orders (MoM) (Feb) | 1.4% | 1.1% | -3.8% |
 | 15:10 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 43 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 48 min | USD | FOMC Member Mester Speaks |  |  |  |
+| 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 17:05 | USD | FOMC Member Mester Speaks |  |  |  |
 | 18:30 | USD | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |

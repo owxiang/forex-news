@@ -11,8 +11,8 @@
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.753% |  | 0.718% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) | 59.1 | 59.2 | 56.9 |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 1.6% | 2.4% | 1.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) | -0.2% | 0.4% | 0.7% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) | 1.6% | 2.4% | 1.2% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Feb) | -0.2% | 0.4% | 0.3% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) (Mar) | -15.3% |  | -15.3% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change (Mar) | -33.4K | 10.0K | -7.5K |
@@ -23,8 +23,8 @@
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Mar) | 41.9 | 41.6 | 42.5 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
@@ -64,8 +64,8 @@
 | 15:00 | USD | High | JOLTs Job Openings (Feb) | 8.756M | 8.760M | 8.748M |
 | 15:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index | 2.8% |  | -2.8% |
-| 43 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 48 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 17:05 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 415.73B |

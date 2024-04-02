@@ -13,8 +13,8 @@
 | 07:30 | AUD | Commodity Prices (YoY) (Mar) | -15.3% |  | -15.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
