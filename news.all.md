@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.1% | 0.3% | 0.5% |
 | 00:00 | KRW | Low | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Mar) | 0.1% | 0.3% | 0.5% |
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 1.3% | 2.2% | 2.5% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Mar) | 1.2% | 2.5% | 2.1% |
 | 01:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
@@ -27,8 +27,8 @@
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
@@ -66,7 +66,7 @@
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index | 2.8% |  | -2.8% |
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 17:05 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 13 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 415.73B |
 | 23:00 | AUD | Low | AIG Construction Index (Mar) |  |  | -18.4 |
