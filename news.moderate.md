@@ -4,9 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 04:35 | JPY | 10-Year JGB Auction | 0.753% |  | 0.718% |
-| 07:00 | GBP | Nationwide HPI (MoM) (Mar) |  | 0.4% | 0.7% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Mar) |  | 2.4% | 1.2% |
-| 08:00 | EUR | Spanish Unemployment Change |  | 10.0K | -7.5K |
+| 45 min | GBP | Nationwide HPI (YoY) (Mar) |  | 2.4% | 1.2% |
+| 45 min | GBP | Nationwide HPI (MoM) (Mar) |  | 0.4% | 0.7% |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (Mar) |  | 51.1 | 51.5 |
 | 08:30 | CHF | procure.ch PMI (Mar) |  | 45.0 | 44.0 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Mar) |  | 48.9 | 48.7 |
