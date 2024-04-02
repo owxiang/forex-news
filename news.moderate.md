@@ -20,4 +20,4 @@
 | 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:05 | USD | FOMC Member Mester Speaks |  |  |  |
 | 18:30 | USD | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |

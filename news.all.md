@@ -67,7 +67,7 @@
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 17:05 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |
-| 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 415.73B |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |
+| 44 min | KRW | Low | FX Reserves - USD (Mar) |  |  | 415.73B |
 | 23:00 | AUD | Low | AIG Construction Index (Mar) |  |  | -18.4 |
 | 23:00 | AUD | Low | AIG Manufacturing Index (Mar) |  |  | -12.6 |
