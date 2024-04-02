@@ -8,20 +8,19 @@
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | 1.2% | 2.5% | 2.1% |
 | 01:00 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
 | 01:30 | AUD | ANZ Job Advertisements (MoM) | -1.0% |  | -2.1% |
-| 42 min | SGD | URA Property Index (QoQ) |  |  | 2.80% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Mar) |  | 59.2 | 56.9 |
+| 42 min | INR | HSBC India Manufacturing PMI (Mar) |  | 59.2 | 56.9 |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) |  | 0.4% | 0.3% |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -11.0% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.7% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) |  |  | 2.6% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) |  |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) |  |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) |  |  | 3.5% |
-| 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) |  |  | 2.1% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Mar) |  |  | 0.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 2.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) |  |  | 3.0% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | NOK | Manufacturing PMI (Mar) |  |  | 51.9 |
@@ -33,11 +32,9 @@
 | 09:30 | GBP | Net Lending to Individuals |  | 1.200B | 0.791B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.800% |
 | 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | -0.3% |
-| 13:00 | EUR | German HICP (MoM) (Mar) |  | 0.7% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (Mar) |  | 2.4% | 2.7% |
+| 13:00 | EUR | German HICP (MoM) (Mar) |  | 0.7% | 0.6% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) |  |  | -0.31% |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 13:00 | USD | Milk Auctions |  |  | 3,497.0 |
 | 13:00 | ZAR | Total Vehicle Sales (Mar) |  |  | 44.75K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | -0.90% |
 | 13:55 | USD | Redbook (YoY) |  |  | 3.9% |
@@ -49,6 +46,8 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Feb) |  |  | -0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) |  |  | -0.8% |
 | 15:00 | USD | Total Vehicle Sales |  | 15.90M | 15.81M |
+| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
+| 16:00 | USD | Milk Auctions |  |  | 3,497.0 |
 | 22:00 | MXN | Fiscal Balance (Feb) |  |  | -159.14B |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 415.73B |
 | 23:00 | AUD | AIG Construction Index (Mar) |  |  | -18.4 |
