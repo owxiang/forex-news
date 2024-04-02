@@ -15,8 +15,8 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
@@ -46,8 +46,7 @@
 | 15:00 | USD | Durables Excluding Defense (MoM) (Feb) | 2.1% |  | 2.2% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Feb) | 0.3% |  | -0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 1.1% |  | -0.6% |
-| 46 min | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 46 min | USD | Milk Auctions |  |  | 3,497.0 |
+| 16:00 | NZD | GlobalDairyTrade Price Index | 2.8% |  | -2.8% |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 415.73B |
 | 23:00 | AUD | AIG Construction Index (Mar) |  |  | -18.4 |
 | 23:00 | AUD | AIG Manufacturing Index (Mar) |  |  | -12.6 |

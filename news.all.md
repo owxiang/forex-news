@@ -25,8 +25,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
@@ -45,8 +45,8 @@
 | 10:00 | ZAR | Low | Manufacturing PMI | 49.2 |  | 51.7 |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 2.840% |  | 2.800% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) | 0.2% |  | -0.3% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
 | 13:00 | EUR | High | German CPI (MoM) (Mar) | 0.4% | 0.5% | 0.4% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
 | 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.7% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | 0.06% |  | -0.24% |
@@ -63,10 +63,9 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Feb) | 1.1% |  | -0.6% |
 | 15:00 | USD | High | JOLTs Job Openings (Feb) | 8.756M | 8.760M | 8.748M |
 | 15:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 46 min | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
-| 46 min | USD | Low | Milk Auctions |  |  | 3,497.0 |
-| 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 17:05 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 16:00 | NZD | Low | GlobalDairyTrade Price Index | 2.8% |  | -2.8% |
+| 43 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 48 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 18:30 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -2.000M | 9.337M |
 | 22:00 | KRW | Low | FX Reserves - USD (Mar) |  |  | 415.73B |
