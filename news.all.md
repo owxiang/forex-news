@@ -50,18 +50,18 @@
 | 13:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.7% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) | 0.06% |  | -0.24% |
-| 25 min | USD | Low | Redbook (YoY) |  |  | 3.9% |
-| 30 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.436% |
-| 30 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.844% |
-| 30 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.690% |
-| 30 min | SGD | Low | S&P Global Singapore PMI (Mar) |  |  | 50.6 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | 2.2% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Feb) |  |  | -0.4% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Feb) |  | 1.1% | -3.6% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Feb) |  |  | -0.8% |
-| 15:00 | USD | High | JOLTs Job Openings (Feb) |  | 8.760M | 8.863M |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.90M | 15.81M |
-| 15:10 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 13:55 | USD | Low | Redbook (YoY) | 5.2% |  | 3.9% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.413% |  | 3.436% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.815% |  | 3.844% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.722% |  | 3.690% |
+| 14:00 | SGD | Low | S&P Global Singapore PMI (Mar) | 50.7 |  | 50.6 |
+| 43 min | USD | Low | Durables Excluding Defense (MoM) (Feb) |  |  | 2.2% |
+| 43 min | USD | Low | Durables Excluding Transport (MoM) (Feb) |  |  | -0.4% |
+| 43 min | USD | Moderate | Factory Orders (MoM) (Feb) |  | 1.1% | -3.6% |
+| 43 min | USD | Low | Factory orders ex transportation (MoM) (Feb) |  |  | -0.8% |
+| 43 min | USD | High | JOLTs Job Openings (Feb) |  | 8.760M | 8.863M |
+| 43 min | USD | Low | Total Vehicle Sales |  | 15.90M | 15.81M |
+| 53 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,497.0 |
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

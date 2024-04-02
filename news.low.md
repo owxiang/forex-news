@@ -36,15 +36,15 @@
 | 13:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.7% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) | 0.06% |  | -0.24% |
-| 25 min | USD | Redbook (YoY) |  |  | 3.9% |
-| 30 min | EUR | French 12-Month BTF Auction |  |  | 3.436% |
-| 30 min | EUR | French 3-Month BTF Auction |  |  | 3.844% |
-| 30 min | EUR | French 6-Month BTF Auction |  |  | 3.690% |
-| 30 min | SGD | S&P Global Singapore PMI (Mar) |  |  | 50.6 |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 2.2% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Feb) |  |  | -0.4% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Feb) |  |  | -0.8% |
-| 15:00 | USD | Total Vehicle Sales |  | 15.90M | 15.81M |
+| 13:55 | USD | Redbook (YoY) | 5.2% |  | 3.9% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.413% |  | 3.436% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.815% |  | 3.844% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.722% |  | 3.690% |
+| 14:00 | SGD | S&P Global Singapore PMI (Mar) | 50.7 |  | 50.6 |
+| 43 min | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 2.2% |
+| 43 min | USD | Durables Excluding Transport (MoM) (Feb) |  |  | -0.4% |
+| 43 min | USD | Factory orders ex transportation (MoM) (Feb) |  |  | -0.8% |
+| 43 min | USD | Total Vehicle Sales |  | 15.90M | 15.81M |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -2.8% |
 | 16:00 | USD | Milk Auctions |  |  | 3,497.0 |
 | 22:00 | KRW | FX Reserves - USD (Mar) |  |  | 415.73B |
