@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Mar) | 0.1% | 0.3% | 0.5% |
 | 00:00 | KRW | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.1% |
+| 00:00 | KRW | CPI (MoM) (Mar) | 0.1% | 0.3% | 0.5% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.3% | 2.2% | 2.5% |
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | 1.2% | 2.5% | 2.1% |
 | 01:00 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
@@ -13,12 +13,12 @@
 | 07:30 | AUD | Commodity Prices (YoY) (Mar) | -15.3% |  | -15.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
-| 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
+| 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
