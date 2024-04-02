@@ -47,6 +47,6 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Feb) | 0.3% |  | -0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) | 1.1% |  | -0.6% |
 | 16:00 | NZD | GlobalDairyTrade Price Index | 2.8% |  | -2.8% |
-| 44 min | KRW | FX Reserves - USD (Mar) |  |  | 415.73B |
-| 23:00 | AUD | AIG Construction Index (Mar) |  |  | -18.4 |
-| 23:00 | AUD | AIG Manufacturing Index (Mar) |  |  | -12.6 |
+| 22:00 | KRW | FX Reserves - USD (Mar) | 419.25B |  | 415.74B |
+| 45 min | AUD | AIG Construction Index (Mar) |  |  | -18.4 |
+| 45 min | AUD | AIG Manufacturing Index (Mar) |  |  | -12.6 |
