@@ -9,8 +9,8 @@
 | 01:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
 | 01:30 | AUD | Low | ANZ Job Advertisements (MoM) | -1.0% |  | -2.1% |
 | 01:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.718% |
-| 05:00 | SGD | Low | URA Property Index (QoQ) |  |  | 2.80% |
+| 17 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.718% |
+| 42 min | SGD | Low | URA Property Index (QoQ) |  |  | 2.80% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Mar) |  | 59.2 | 56.9 |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Mar) |  | 0.4% | 0.7% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Mar) |  | 2.4% | 1.2% |
@@ -26,14 +26,14 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Mar) |  |  | 2.7% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Mar) |  |  | 2.6% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Mar) |  |  | 0.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 3.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Mar) |  |  | 0.5% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (Mar) |  |  | 3.5% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Mar) |  |  | 0.5% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Mar) |  |  | 2.1% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Mar) |  |  | 2.6% |
-| 09:00 | EUR | Low | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Mar) |  |  | 3.0% |
+| 09:00 | EUR | Low | Saxony CPI (MoM) (Mar) |  |  | 0.3% |
 | 09:00 | NOK | Low | Manufacturing PMI (Mar) |  |  | 51.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Mar) |  | 45.7 | 46.5 |
 | 09:30 | GBP | Low | BoE Consumer Credit (Feb) |  | 1.600B | 1.877B |
@@ -45,15 +45,15 @@
 | 09:30 | GBP | Low | Net Lending to Individuals |  | 1.200B | 0.791B |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.800% |
 | 12:30 | BRL | Low | Bank lending (MoM) (Feb) |  |  | -0.3% |
-| 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.6% | 0.4% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.2% | 2.5% |
+| 13:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.6% | 0.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (Mar) |  | 0.7% | 0.6% |
 | 13:00 | EUR | Low | German HICP (YoY) (Mar) |  | 2.4% | 2.7% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Feb) |  |  | -0.31% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -2.8% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 3,497.0 |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | -0.90% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Mar) |  |  | 44.75K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Mar) |  |  | -0.90% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 3.9% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.436% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.844% |
