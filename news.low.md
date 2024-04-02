@@ -15,14 +15,14 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
-| 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.4% |  | 0.3% |
+| 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
 | 09:00 | NOK | Manufacturing PMI (Mar) | 50.8 |  | 52.0 |
 | 09:30 | GBP | BoE Consumer Credit (Feb) | 1.378B | 1.600B | 1.770B |
 | 09:30 | GBP | M3 Money Supply (Feb) | 3,011.7B |  | 2,996.0B |
@@ -30,10 +30,11 @@
 | 09:30 | GBP | Mortgage Approvals (Feb) | 60.38K | 57.00K | 56.09K |
 | 09:30 | GBP | Mortgage Lending (Feb) | 1.51B | -0.15B | -1.07B |
 | 09:30 | GBP | Net Lending to Individuals | 2.888B | 1.200B | 0.697B |
-| 14 min | EUR | German 2-Year Schatz Auction |  |  | 2.800% |
+| 10:00 | ZAR | Manufacturing PMI | 49.2 |  | 51.7 |
+| 10:30 | EUR | German 2-Year Schatz Auction | 2.840% |  | 2.800% |
 | 12:30 | BRL | Bank lending (MoM) (Feb) |  |  | -0.3% |
-| 13:00 | EUR | German HICP (MoM) (Mar) |  | 0.7% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (Mar) |  | 2.4% | 2.7% |
+| 13:00 | EUR | German HICP (MoM) (Mar) |  | 0.7% | 0.6% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Feb) |  |  | -0.31% |
 | 13:00 | ZAR | Total Vehicle Sales (Mar) |  |  | 44.75K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | -0.90% |
