@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Mar) | 0.1% | 0.3% | 0.5% |
 | 00:00 | KRW | CPI (YoY) (Mar) | 3.1% | 3.1% | 3.1% |
+| 00:00 | KRW | CPI (MoM) (Mar) | 0.1% | 0.3% | 0.5% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 1.3% | 2.2% | 2.5% |
 | 00:50 | JPY | Monetary Base (YoY) (Mar) | 1.2% | 2.5% | 2.1% |
 | 01:00 | AUD | MI Inflation Gauge (MoM) | 0.1% |  | -0.1% |
@@ -11,16 +11,16 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (Mar) | 59.1 | 59.2 | 56.9 |
 | 07:30 | CHF | Retail Sales (YoY) (Feb) | -0.2% | 0.4% | 0.3% |
 | 07:30 | AUD | Commodity Prices (YoY) (Mar) | -15.3% |  | -15.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Mar) | 0.5% |  | 0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Mar) | 2.3% |  | 2.7% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Bavaria CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Mar) | 0.4% |  | 0.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Mar) | 2.8% |  | 3.5% |
-| 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | Hesse CPI (MoM) (Mar) | 0.3% |  | 0.5% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
+| 09:00 | EUR | Hesse CPI (YoY) (Mar) | 1.6% |  | 2.1% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Mar) | 0.3% |  | 0.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Mar) | 2.3% |  | 2.6% |
 | 09:00 | EUR | Saxony CPI (YoY) (Mar) | 2.5% |  | 3.0% |
 | 09:00 | EUR | Saxony CPI (MoM) (Mar) | 0.4% |  | 0.3% |
 | 09:00 | NOK | Manufacturing PMI (Mar) | 50.8 |  | 52.0 |
@@ -32,17 +32,15 @@
 | 09:30 | GBP | Net Lending to Individuals | 2.888B | 1.200B | 0.697B |
 | 10:00 | ZAR | Manufacturing PMI | 49.2 |  | 51.7 |
 | 10:30 | EUR | German 2-Year Schatz Auction | 2.840% |  | 2.800% |
-| 17 min | BRL | Bank lending (MoM) (Feb) |  |  | -0.3% |
-| 47 min | EUR | German HICP (MoM) (Mar) |  | 0.7% | 0.6% |
-| 47 min | EUR | German HICP (YoY) (Mar) |  | 2.4% | 2.7% |
-| 47 min | BRL | Brazilian PPI (MoM) (Feb) |  |  | -0.31% |
-| 47 min | ZAR | Total Vehicle Sales (YoY) (Mar) |  |  | -0.90% |
-| 47 min | ZAR | Total Vehicle Sales (Mar) |  |  | 44.75K |
-| 13:55 | USD | Redbook (YoY) |  |  | 3.9% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.436% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.844% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.690% |
-| 14:00 | SGD | S&P Global Singapore PMI (Mar) |  |  | 50.6 |
+| 12:30 | BRL | Bank lending (MoM) (Feb) | 0.2% |  | -0.3% |
+| 13:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.7% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.4% | 2.7% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Feb) | 0.06% |  | -0.24% |
+| 25 min | USD | Redbook (YoY) |  |  | 3.9% |
+| 30 min | EUR | French 12-Month BTF Auction |  |  | 3.436% |
+| 30 min | EUR | French 3-Month BTF Auction |  |  | 3.844% |
+| 30 min | EUR | French 6-Month BTF Auction |  |  | 3.690% |
+| 30 min | SGD | S&P Global Singapore PMI (Mar) |  |  | 50.6 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Feb) |  |  | 2.2% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Feb) |  |  | -0.4% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Feb) |  |  | -0.8% |
