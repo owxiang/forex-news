@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 07:45 | EUR | French Government Budget Balance (Feb) | -44.0B |  | -25.7B |
-| 45 min | EUR | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
-| 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.7% |
-| 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 124.38 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 3.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.6% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) | 7.5% | 7.2% | 7.3% |
+| 11 min | HKD | Retail Sales (YoY) (Feb) |  |  | 0.9% |
+| 41 min | EUR | Core CPI (MoM) (Mar) |  |  | 0.7% |
+| 41 min | EUR | CPI, n.s.a (Mar) |  |  | 124.38 |
+| 41 min | EUR | HICP ex Energy & Food (YoY) (Mar) |  |  | 3.3% |
+| 41 min | EUR | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.6% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 145.7 |
 | 12:00 | USD | Mortgage Market Index |  |  | 196.8 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 460.9 |
 | 12:30 | INR | M3 Money Supply |  |  | 11.3% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
 | 14:00 | BRL | S&P Global Composite PMI (Mar) |  |  | 55.1 |
 | 14:00 | BRL | S&P Global Services PMI (Mar) |  |  | 54.6 |
