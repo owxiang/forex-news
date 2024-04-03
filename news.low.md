@@ -14,12 +14,12 @@
 | 12:00 | USD | MBA Purchase Index | 145.6 |  | 145.7 |
 | 12:00 | USD | Mortgage Market Index | 195.6 |  | 196.8 |
 | 12:00 | USD | Mortgage Refinance Index | 453.5 |  | 460.9 |
-| 17 min | INR | M3 Money Supply |  |  | 11.3% |
-| 47 min | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
-| 47 min | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
-| 47 min | BRL | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
-| 14:00 | BRL | S&P Global Composite PMI (Mar) |  |  | 55.1 |
-| 14:00 | BRL | S&P Global Services PMI (Mar) |  |  | 54.6 |
+| 12:30 | INR | M3 Money Supply | 11.2% |  | 11.3% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
+| 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
+| 32 min | BRL | S&P Global Composite PMI (Mar) |  |  | 55.1 |
+| 32 min | BRL | S&P Global Services PMI (Mar) |  |  | 54.6 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 56.1 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.147M |

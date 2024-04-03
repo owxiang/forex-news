@@ -23,15 +23,15 @@
 | 12:00 | USD | Low | MBA Purchase Index | 145.6 |  | 145.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 195.6 |  | 196.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 453.5 |  | 460.9 |
-| 17 min | INR | Low | M3 Money Supply |  |  | 11.3% |
-| 47 min | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
-| 47 min | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
-| 47 min | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 5.6% | 3.6% |
-| 47 min | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 148K | 140K |
-| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 55.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Mar) |  |  | 54.6 |
+| 12:30 | INR | Low | M3 Money Supply | 11.2% |  | 11.3% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 5.0% | 5.6% | 3.7% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 184K | 148K | 155K |
+| 1 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 32 min | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 55.1 |
+| 32 min | BRL | Low | S&P Global Services PMI (Mar) |  |  | 54.6 |
 | 14:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 52.2 | 52.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.7 | 52.3 |
