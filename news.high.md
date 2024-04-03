@@ -7,5 +7,5 @@
 | 14:45 | USD | S&P Global Services PMI (Mar) |  | 51.7 | 52.3 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Mar) |  | 52.8 | 52.6 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Mar) |  |  | 58.6 |
-| 15:30 | USD | Crude Oil Inventories |  | -2.000M | 3.165M |
+| 15:30 | USD | Crude Oil Inventories |  | -0.300M | 3.165M |
 | 17:10 | USD | Fed Chair Powell Speaks |  |  |  |
