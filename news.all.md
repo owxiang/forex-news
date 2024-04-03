@@ -26,8 +26,8 @@
 | 12:30 | INR | Low | M3 Money Supply | 11.2% |  | 11.3% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 5.0% | 5.6% | 3.7% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 5.0% | 5.6% | 3.7% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 184K | 148K | 155K |
 | 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:40 | USD | Low | All Car Sales (Mar) | 3.03M |  | 3.10M |
