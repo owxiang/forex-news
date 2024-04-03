@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Mar) |  | 54.9 | 52.9 |
-| 02:45 | CNY | Caixin Services PMI (Mar) |  | 52.7 | 52.5 |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Mar) | 54.1 | 54.9 | 52.9 |
+| 37 min | CNY | Caixin Services PMI (Mar) |  | 52.7 | 52.5 |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.46% |
 | 10:00 | EUR | Core CPI (YoY) |  | 3.0% | 3.1% |
 | 10:00 | EUR | CPI (MoM) |  |  | 0.6% |
