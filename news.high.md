@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 41 min | EUR | CPI (YoY) (Mar) |  | 2.5% | 2.6% |
+| 10:00 | EUR | CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
 | 13:15 | USD | ADP Nonfarm Employment Change (Mar) |  | 148K | 140K |
 | 14:45 | USD | S&P Global Services PMI (Mar) |  | 51.7 | 52.3 |
 | 15:00 | USD | ISM Non-Manufacturing PMI (Mar) |  | 52.8 | 52.6 |
