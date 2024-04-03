@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Government Budget Balance (Feb) |  |  | -25.7B |
+| 25 min | EUR | French Government Budget Balance (Feb) |  |  | -25.7B |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
 | 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.7% |
@@ -15,8 +15,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 196.8 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 460.9 |
 | 12:30 | INR | M3 Money Supply |  |  | 11.3% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
 | 13:00 | BRL | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
 | 14:00 | BRL | S&P Global Composite PMI (Mar) |  |  | 55.1 |
 | 14:00 | BRL | S&P Global Services PMI (Mar) |  |  | 54.6 |
