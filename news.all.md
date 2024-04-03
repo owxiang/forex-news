@@ -42,18 +42,18 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) | 54.4 | 55.5 | 56.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) | 51.4 | 52.8 | 52.6 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) | 53.4 | 58.4 | 58.6 |
-| 16 min | USD | High | Crude Oil Inventories |  | -0.300M | 3.165M |
-| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.147M |
-| 16 min | USD | Low | Crude Oil Imports |  |  | 1.124M |
-| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 2.107M |
-| 16 min | USD | Low | Distillate Fuel Production |  |  | 0.124M |
-| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.604M | -1.185M |
-| 16 min | USD | Low | Gasoline Production |  |  | -0.435M |
-| 16 min | USD | Low | Heating Oil Stockpiles |  |  | -0.609M |
-| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 16 min | USD | Low | Gasoline Inventories |  | -0.820M | 1.299M |
-| 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 17:10 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 3.210M | -0.300M | 3.165M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.035M |  | 0.147M |
+| 15:30 | USD | Low | Crude Oil Imports | 0.075M |  | 1.124M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.377M |  | 2.107M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.208M |  | 0.124M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -1.268M | -0.604M | -1.185M |
+| 15:30 | USD | Low | Gasoline Production | 0.767M |  | -0.435M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.613M |  | -0.609M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.9% |
+| 15:30 | USD | Low | Gasoline Inventories | -4.256M | -0.820M | 1.299M |
+| 44 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 54 min | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | -8.8% |
 | 23:00 | AUD | Low | Judo Bank Australia Services PMI |  | 53.5 | 53.1 |

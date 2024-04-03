@@ -15,5 +15,5 @@
 | 14:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Mar) | 52.1 | 52.2 | 52.5 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Mar) | 48.5 | 49.0 | 48.0 |
-| 16 min | USD | Cushing Crude Oil Inventories |  |  | 2.107M |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.377M |  | 2.107M |
 | 18:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
