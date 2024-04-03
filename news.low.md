@@ -22,16 +22,16 @@
 | 13:40 | USD | All Truck Sales (Mar) | 12.46M |  | 12.60M |
 | 14:00 | BRL | S&P Global Composite PMI (Mar) | 55.1 |  | 55.1 |
 | 14:00 | BRL | S&P Global Services PMI (Mar) | 54.8 |  | 54.6 |
-| 34 min | USD | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |
-| 34 min | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 56.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.147M |
-| 15:30 | USD | Crude Oil Imports |  |  | 1.124M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.124M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.604M | -1.185M |
-| 15:30 | USD | Gasoline Production |  |  | -0.435M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.609M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
-| 15:30 | USD | Gasoline Inventories |  | -0.820M | 1.299M |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 57.4 | 56.7 | 57.2 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 54.4 | 55.5 | 56.1 |
+| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.147M |
+| 16 min | USD | Crude Oil Imports |  |  | 1.124M |
+| 16 min | USD | Distillate Fuel Production |  |  | 0.124M |
+| 16 min | USD | EIA Weekly Distillates Stocks |  | -0.604M | -1.185M |
+| 16 min | USD | Gasoline Production |  |  | -0.435M |
+| 16 min | USD | Heating Oil Stockpiles |  |  | -0.609M |
+| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
+| 16 min | USD | Gasoline Inventories |  | -0.820M | 1.299M |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | -8.8% |
 | 23:00 | AUD | Judo Bank Australia Services PMI |  | 53.5 | 53.1 |
