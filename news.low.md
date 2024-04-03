@@ -1,37 +1,46 @@
-## 03 April 2024 - Low Impact Forex News
+## 04 April 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:45 | EUR | French Government Budget Balance (Feb) | -44.0B |  | -25.7B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) | 7.5% | 7.2% | 7.3% |
-| 09:30 | HKD | Retail Sales (YoY) (Feb) | 1.9% |  | 0.9% |
-| 10:00 | EUR | Core CPI (MoM) (Mar) | 1.1% |  | 0.7% |
-| 10:00 | EUR | CPI, n.s.a (Mar) | 125.33 |  | 124.38 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 3.1% |  | 3.3% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 1.0% |  | 0.6% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.91% |  | 6.93% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.6% |  | -0.7% |
-| 12:00 | USD | MBA Purchase Index | 145.6 |  | 145.7 |
-| 12:00 | USD | Mortgage Market Index | 195.6 |  | 196.8 |
-| 12:00 | USD | Mortgage Refinance Index | 453.5 |  | 460.9 |
-| 12:30 | INR | M3 Money Supply | 11.2% |  | 11.3% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
-| 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
-| 13:40 | USD | All Car Sales (Mar) | 3.03M |  | 3.10M |
-| 13:40 | USD | All Truck Sales (Mar) | 12.46M |  | 12.60M |
-| 14:00 | BRL | S&P Global Composite PMI (Mar) | 55.1 |  | 55.1 |
-| 14:00 | BRL | S&P Global Services PMI (Mar) | 54.8 |  | 54.6 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) | 57.4 | 56.7 | 57.2 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) | 54.4 | 55.5 | 56.1 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.035M |  | 0.147M |
-| 15:30 | USD | Crude Oil Imports | 0.075M |  | 1.124M |
-| 15:30 | USD | Distillate Fuel Production | -0.208M |  | 0.124M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -1.268M | -0.604M | -1.185M |
-| 15:30 | USD | Gasoline Production | 0.767M |  | -0.435M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.613M |  | -0.609M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.9% |
-| 15:30 | USD | Gasoline Inventories | -4.256M | -0.820M | 1.299M |
-| 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 22:45 | NZD | Building Consents (MoM) (Feb) | 14.9% |  | -8.6% |
-| 23:00 | AUD | Judo Bank Australia Services PMI | 54.4 | 53.5 | 53.1 |
+| 35 min | AUD | RBA Assistant Governor Jones Speaks |  |  |  |
+| 35 min | JPY | Foreign Bonds Buying |  |  | 762.3B |
+| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  | -891.4B |
+| 45 min | NZD | ANZ Commodity Price Index (MoM) |  |  | 3.5% |
+| 01:30 | AUD | Building Approvals (YoY) (Feb) |  |  | 10.00% |
+| 01:30 | AUD | Private House Approvals (Feb) |  |  | -9.9% |
+| 04:35 | JPY | 30-Year JGB Auction |  |  | 1.770% |
+| 06:00 | INR | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
+| 07:30 | CHF | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
+| 08:15 | ZAR | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
+| 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 47.7 | 48.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 47.4 | 46.3 |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.927% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.81% |
+| 10:00 | EUR | French 15-Year OAT Auction |  |  | 0.98% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.27% |
+| 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
+| 10:00 | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
+| 10:00 | EUR | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
+| 10:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
+| 10:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
+| 11:00 | BRL | Foreign Exchange Flows |  |  | 0.356B |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
+| 12:30 | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
+| 13:00 | MXN | Consumer Confidence |  |  | 47.0 |
+| 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 47.1 |
+| 13:00 | BRL | Auto Production (MoM) (Mar) |  |  | 24.3% |
+| 13:00 | BRL | Auto Sales (MoM) (Mar) |  |  | 2.2% |
+| 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 116.3B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |
+| 13:30 | CAD | Exports (Feb) |  |  | 62.29B |
+| 13:30 | CAD | Imports (Feb) |  |  | 61.79B |
+| 15:30 | USD | Natural Gas Storage |  | -42B | -36B |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |

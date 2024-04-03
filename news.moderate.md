@@ -1,19 +1,25 @@
-## 03 April 2024 - Moderate Impact Forex News
+## 04 April 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Mar) | 54.1 | 54.9 | 52.9 |
-| 02:45 | CNY | Caixin Services PMI (Mar) | 52.7 | 52.7 | 52.5 |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Mar) | 0.26% |  | 0.46% |
-| 10:00 | EUR | Core CPI (YoY) (Mar) | 2.9% | 3.0% | 3.1% |
-| 10:00 | EUR | CPI (MoM) (Mar) | 0.8% |  | 0.6% |
-| 10:00 | EUR | Unemployment Rate (Feb) | 6.5% | 6.4% | 6.5% |
-| 10:15 | USD | OPEC Meeting |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction | 2.380% |  | 2.300% |
-| 13:00 | BRL | Industrial Production (YoY) (Feb) | 5.0% | 5.6% | 3.7% |
-| 13:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 14:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Mar) | 52.1 | 52.2 | 52.5 |
-| 15:00 | USD | ISM Non-Manufacturing Employment (Mar) | 48.5 | 49.0 | 48.0 |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.377M |  | 2.107M |
-| 18:10 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 01:30 | AUD | Building Approvals (MoM) (Feb) |  | 3.0% | -1.0% |
+| 01:30 | AUD | Retail Sales (MoM) |  | 0.3% | 1.1% |
+| 07:30 | CHF | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
+| 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
+| 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
+| 08:50 | EUR | HCOB France Services PMI (Mar) |  | 47.8 | 48.4 |
+| 08:55 | EUR | HCOB Germany Services PMI (Mar) |  | 49.8 | 48.3 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) |  | 49.9 | 49.2 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 50.2 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Mar) |  | 52.9 | 53.0 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Mar) |  | 53.4 | 53.8 |
+| 10:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,819K |
+| 13:30 | USD | Exports |  |  | 257.20B |
+| 13:30 | USD | Imports |  |  | 324.60B |
+| 13:30 | USD | Trade Balance (Feb) |  | -66.90B | -67.40B |
+| 13:30 | CAD | Trade Balance (Feb) |  | 0.80B | 0.50B |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 17:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
+| 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
