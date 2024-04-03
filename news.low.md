@@ -15,8 +15,8 @@
 | 12:00 | USD | Mortgage Market Index | 195.6 |  | 196.8 |
 | 12:00 | USD | Mortgage Refinance Index | 453.5 |  | 460.9 |
 | 12:30 | INR | M3 Money Supply | 11.2% |  | 11.3% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
 | 13:40 | USD | All Car Sales (Mar) | 3.03M |  | 3.10M |
 | 13:40 | USD | All Truck Sales (Mar) | 12.46M |  | 12.60M |
@@ -33,5 +33,5 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.9% |
 | 15:30 | USD | Gasoline Inventories | -4.256M | -0.820M | 1.299M |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 31 min | NZD | Building Consents (MoM) (Feb) |  |  | -8.8% |
-| 46 min | AUD | Judo Bank Australia Services PMI |  | 53.5 | 53.1 |
+| 22:45 | NZD | Building Consents (MoM) (Feb) | 14.9% |  | -8.6% |
+| 23:00 | AUD | Judo Bank Australia Services PMI | 54.4 | 53.5 | 53.1 |
