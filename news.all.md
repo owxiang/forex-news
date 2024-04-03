@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Mar) | 54.1 | 54.9 | 52.9 |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Mar) | 52.7 | 52.7 | 52.5 |
-| 25 min | EUR | Low | French Government Budget Balance (Feb) |  |  | -25.7B |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.46% |
+| 07:45 | EUR | Low | French Government Budget Balance (Feb) | -44.0B |  | -25.7B |
+| 45 min | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
+| 45 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.46% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |

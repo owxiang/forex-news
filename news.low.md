@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | EUR | French Government Budget Balance (Feb) |  |  | -25.7B |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
+| 07:45 | EUR | French Government Budget Balance (Feb) | -44.0B |  | -25.7B |
+| 45 min | EUR | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
 | 09:30 | HKD | Retail Sales (YoY) (Feb) |  |  | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 10:00 | EUR | CPI, n.s.a (Mar) |  |  | 124.38 |
