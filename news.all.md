@@ -8,10 +8,10 @@
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Feb) |  | 7.2% | 7.2% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Mar) |  |  | 0.46% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Feb) |  |  | 0.9% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 3.0% | 3.1% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  |  | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.5% | 2.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) |  |  | 124.38 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  |  | 3.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  |  | 0.6% |
@@ -24,10 +24,10 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 196.8 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 460.9 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.3% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 5.6% | 3.6% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 5.6% | 3.6% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 148K | 140K |
 | 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 55.1 |
