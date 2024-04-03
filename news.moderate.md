@@ -9,7 +9,7 @@
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | Unemployment Rate (Feb) | 6.5% | 6.4% | 6.5% |
 | 10:15 | USD | OPEC Meeting |  |  |  |
-| 13 min | EUR | German 10-Year Bund Auction |  |  | 2.300% |
+| 10:30 | EUR | German 10-Year Bund Auction | 2.380% |  | 2.300% |
 | 13:00 | BRL | Industrial Production (YoY) (Feb) |  | 5.6% | 3.6% |
 | 13:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:45 | USD | FOMC Member Bowman Speaks |  |  |  |
