@@ -9,15 +9,15 @@
 | 10:00 | EUR | CPI, n.s.a (Mar) | 125.33 |  | 124.38 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 3.1% |  | 3.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 1.0% |  | 0.6% |
-| 42 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
-| 42 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.7% |
-| 42 min | USD | MBA Purchase Index |  |  | 145.7 |
-| 42 min | USD | Mortgage Market Index |  |  | 196.8 |
-| 42 min | USD | Mortgage Refinance Index |  |  | 460.9 |
-| 12:30 | INR | M3 Money Supply |  |  | 11.3% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
-| 13:00 | BRL | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.91% |  | 6.93% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.6% |  | -0.7% |
+| 12:00 | USD | MBA Purchase Index | 145.6 |  | 145.7 |
+| 12:00 | USD | Mortgage Market Index | 195.6 |  | 196.8 |
+| 12:00 | USD | Mortgage Refinance Index | 453.5 |  | 460.9 |
+| 17 min | INR | M3 Money Supply |  |  | 11.3% |
+| 47 min | MXN | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
+| 47 min | MXN | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
+| 47 min | BRL | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
 | 14:00 | BRL | S&P Global Composite PMI (Mar) |  |  | 55.1 |
 | 14:00 | BRL | S&P Global Services PMI (Mar) |  |  | 54.6 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |

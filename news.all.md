@@ -18,16 +18,16 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Feb) | 6.5% | 6.4% | 6.5% |
 | 10:15 | USD | Moderate | OPEC Meeting |  |  |  |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction | 2.380% |  | 2.300% |
-| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.93% |
-| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.7% |
-| 42 min | USD | Low | MBA Purchase Index |  |  | 145.7 |
-| 42 min | USD | Low | Mortgage Market Index |  |  | 196.8 |
-| 42 min | USD | Low | Mortgage Refinance Index |  |  | 460.9 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 11.3% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 5.6% | 3.6% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.91% |  | 6.93% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -0.6% |  | -0.7% |
+| 12:00 | USD | Low | MBA Purchase Index | 145.6 |  | 145.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 195.6 |  | 196.8 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 453.5 |  | 460.9 |
+| 17 min | INR | Low | M3 Money Supply |  |  | 11.3% |
+| 47 min | MXN | Low | Gross Fixed Investments (MoM) (Jan) |  |  | 0.00% |
+| 47 min | MXN | Low | Gross Fixed Investments (YoY) (Jan) |  |  | 13.40% |
+| 47 min | BRL | Moderate | Industrial Production (YoY) (Feb) |  | 5.6% | 3.6% |
+| 47 min | BRL | Low | Industrial Production (MoM) (Feb) |  | 0.3% | -1.6% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) |  | 148K | 140K |
 | 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 55.1 |
