@@ -26,20 +26,22 @@
 | 12:30 | INR | Low | M3 Money Supply | 11.2% |  | 11.3% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 5.0% | 5.6% | 3.7% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Feb) | 5.0% | 5.6% | 3.7% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Mar) | 184K | 148K | 155K |
-| 1 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 32 min | BRL | Low | S&P Global Composite PMI (Mar) |  |  | 55.1 |
-| 32 min | BRL | Low | S&P Global Services PMI (Mar) |  |  | 54.6 |
-| 14:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Mar) |  | 52.2 | 52.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Mar) |  | 51.7 | 52.3 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Mar) |  |  | 48.0 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Mar) |  |  | 56.1 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Mar) |  | 52.8 | 52.6 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Mar) |  |  | 58.6 |
+| 13:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13:40 | USD | Low | All Car Sales (Mar) | 3.03M |  | 3.10M |
+| 13:40 | USD | Low | All Truck Sales (Mar) | 12.46M |  | 12.60M |
+| 14:00 | BRL | Low | S&P Global Composite PMI (Mar) | 55.1 |  | 55.1 |
+| 14:00 | BRL | Low | S&P Global Services PMI (Mar) | 54.8 |  | 54.6 |
+| 19 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 19 min | USD | Moderate | S&P Global Composite PMI (Mar) |  | 52.2 | 52.5 |
+| 19 min | USD | High | S&P Global Services PMI (Mar) |  | 51.7 | 52.3 |
+| 34 min | USD | Low | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |
+| 34 min | USD | Moderate | ISM Non-Manufacturing Employment (Mar) |  |  | 48.0 |
+| 34 min | USD | Low | ISM Non-Manufacturing New Orders (Mar) |  |  | 56.1 |
+| 34 min | USD | High | ISM Non-Manufacturing PMI (Mar) |  | 52.8 | 52.6 |
+| 34 min | USD | High | ISM Non-Manufacturing Prices (Mar) |  |  | 58.6 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.300M | 3.165M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.147M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.124M |
@@ -50,7 +52,6 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.609M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
 | 15:30 | USD | Low | Gasoline Inventories |  | -0.820M | 1.299M |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,497.0 |
 | 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:10 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |

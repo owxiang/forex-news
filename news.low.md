@@ -18,10 +18,12 @@
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
 | 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
-| 32 min | BRL | S&P Global Composite PMI (Mar) |  |  | 55.1 |
-| 32 min | BRL | S&P Global Services PMI (Mar) |  |  | 54.6 |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 56.1 |
+| 13:40 | USD | All Car Sales (Mar) | 3.03M |  | 3.10M |
+| 13:40 | USD | All Truck Sales (Mar) | 12.46M |  | 12.60M |
+| 14:00 | BRL | S&P Global Composite PMI (Mar) | 55.1 |  | 55.1 |
+| 14:00 | BRL | S&P Global Services PMI (Mar) | 54.8 |  | 54.6 |
+| 34 min | USD | ISM Non-Manufacturing Business Activity (Mar) |  | 56.7 | 57.2 |
+| 34 min | USD | ISM Non-Manufacturing New Orders (Mar) |  |  | 56.1 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.147M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.124M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.124M |
@@ -30,7 +32,6 @@
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.609M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.9% |
 | 15:30 | USD | Gasoline Inventories |  | -0.820M | 1.299M |
-| 16:00 | USD | Milk Auctions |  |  | 3,497.0 |
 | 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | -8.8% |
 | 23:00 | AUD | Judo Bank Australia Services PMI |  | 53.5 | 53.1 |
