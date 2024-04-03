@@ -10,8 +10,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Feb) | 1.9% |  | 0.9% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.9% | 3.0% | 3.1% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.1% |  | 0.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.4% | 2.5% | 2.6% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Mar) | 125.33 |  | 124.38 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 3.1% |  | 3.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 1.0% |  | 0.6% |
@@ -52,8 +52,8 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.613M |  | -0.609M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.9% |
 | 15:30 | USD | Low | Gasoline Inventories | -4.256M | -0.820M | 1.299M |
-| 44 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 54 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 18:10 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 17:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 17:10 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 51 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 22:45 | NZD | Low | Building Consents (MoM) (Feb) |  |  | -8.8% |
 | 23:00 | AUD | Low | Judo Bank Australia Services PMI |  | 53.5 | 53.1 |

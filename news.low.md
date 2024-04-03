@@ -32,6 +32,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.613M |  | -0.609M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.1% |  | 0.9% |
 | 15:30 | USD | Gasoline Inventories | -4.256M | -0.820M | 1.299M |
-| 44 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 17:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 22:45 | NZD | Building Consents (MoM) (Feb) |  |  | -8.8% |
 | 23:00 | AUD | Judo Bank Australia Services PMI |  | 53.5 | 53.1 |

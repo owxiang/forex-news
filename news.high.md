@@ -8,4 +8,4 @@
 | 15:00 | USD | ISM Non-Manufacturing PMI (Mar) | 51.4 | 52.8 | 52.6 |
 | 15:00 | USD | ISM Non-Manufacturing Prices (Mar) | 53.4 | 58.4 | 58.6 |
 | 15:30 | USD | Crude Oil Inventories | 3.210M | -0.300M | 3.165M |
-| 54 min | USD | Fed Chair Powell Speaks |  |  |  |
+| 17:10 | USD | Fed Chair Powell Speaks |  |  |  |
