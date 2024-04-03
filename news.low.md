@@ -15,8 +15,8 @@
 | 12:00 | USD | Mortgage Market Index | 195.6 |  | 196.8 |
 | 12:00 | USD | Mortgage Refinance Index | 453.5 |  | 460.9 |
 | 12:30 | INR | M3 Money Supply | 11.2% |  | 11.3% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Jan) | 15.30% |  | 13.40% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Jan) | 0.10% |  | 0.00% |
 | 13:00 | BRL | Industrial Production (MoM) (Feb) | -0.3% | 0.3% | -1.5% |
 | 13:40 | USD | All Car Sales (Mar) | 3.03M |  | 3.10M |
 | 13:40 | USD | All Truck Sales (Mar) | 12.46M |  | 12.60M |
