@@ -21,5 +21,5 @@
 | 13:30 | CAD | Trade Balance (Feb) | 1.39B | 0.70B | 0.61B |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.8% | 2.8% |
-| 46 min | USD | FOMC Member Mester Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,485B |

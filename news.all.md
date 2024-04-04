@@ -62,7 +62,7 @@
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.5% | 2.8% | 2.8% |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 46 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 46 min | BRL | Low | Trade Balance (Mar) |  | 6.90B | 5.45B |
+| 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 19:00 | BRL | Low | Trade Balance (Mar) | 7.48B | 6.90B | 5.31B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,485B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |
