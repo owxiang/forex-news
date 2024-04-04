@@ -21,8 +21,8 @@
 | 10:00 | EUR | French 15-Year OAT Auction | 3.09% |  | 0.98% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.38% |  | 3.27% |
 | 10:00 | NOK | House Price Index (YoY) (Mar) | 1.20% |  | 4.90% |
-| 10:00 | EUR | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
 | 10:00 | EUR | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
+| 10:00 | EUR | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
 | 10:10 | EUR | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
 | 12:15 | EUR | German Car Registration (YoY) | -6.2% |  | 5.4% |
@@ -37,7 +37,7 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 214.25K |  | 211.50K |
 | 13:30 | CAD | Exports (Feb) | 66.62B |  | 62.98B |
 | 13:30 | CAD | Imports (Feb) | 65.23B |  | 62.37B |
-| 15:30 | USD | Natural Gas Storage |  | -42B | -36B |
+| 14 min | USD | Natural Gas Storage |  | -42B | -36B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |

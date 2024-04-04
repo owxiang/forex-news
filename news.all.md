@@ -11,8 +11,8 @@
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 10.7% |  | -9.9% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 1.808% |  | 1.770% |
 | 06:00 | INR | Low | HSBC India Services PMI (Mar) | 61.2 | 60.3 | 60.6 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.3% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) | 1.0% | 1.3% | 1.2% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Mar) | 0.0% | 0.3% | 0.6% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) | 56.1 | 55.5 | 54.7 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Mar) | 48.4 |  | 50.8 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) | 53.5 |  | 51.1 |
@@ -31,8 +31,8 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction | 3.09% |  | 0.98% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.38% |  | 3.27% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) | 1.20% |  | 4.90% |
-| 10:00 | EUR | Low | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
+| 10:00 | EUR | Low | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
 | 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
 | 10:35 | EUR | Low | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
@@ -55,8 +55,8 @@
 | 13:30 | CAD | Low | Exports (Feb) | 66.62B |  | 62.98B |
 | 13:30 | CAD | Low | Imports (Feb) | 65.23B |  | 62.37B |
 | 13:30 | CAD | Moderate | Trade Balance (Feb) | 1.39B | 0.70B | 0.61B |
-| 43 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | -42B | -36B |
+| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 14 min | USD | Low | Natural Gas Storage |  | -42B | -36B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
