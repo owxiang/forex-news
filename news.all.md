@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 35 min | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 762.3B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -891.4B |
-| 45 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 3.5% |
-| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) |  |  | 10.00% |
-| 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) |  | 3.0% | -1.0% |
-| 01:30 | AUD | Low | Private House Approvals (Feb) |  |  | -9.9% |
-| 01:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.3% | 1.1% |
+| 00:50 | AUD | Low | RBA Assistant Governor Jones Speaks |  |  |  |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -1,660.5B |  | 764.6B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -441.3B |  | -889.6B |
+| 01:00 | NZD | Low | ANZ Commodity Price Index (MoM) | -1.3% |  | 3.6% |
+| 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 5.20% |  | 9.80% |
+| 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
+| 01:30 | AUD | Low | Private House Approvals (Feb) | 10.7% |  | -9.9% |
+| 04:35 | AUD | Moderate | Retail Sales (MoM) |  | 0.3% | 1.1% |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.770% |
 | 06:00 | INR | Low | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
@@ -31,14 +31,14 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 0.98% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.27% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | Low | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
+| 10:00 | EUR | Low | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
 | 10:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 11:00 | BRL | Low | Foreign Exchange Flows |  |  | 0.356B |
-| 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |

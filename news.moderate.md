@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Building Approvals (MoM) (Feb) |  | 3.0% | -1.0% |
-| 01:30 | AUD | Retail Sales (MoM) |  | 0.3% | 1.1% |
+| 01:30 | AUD | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
+| 04:35 | AUD | Retail Sales (MoM) |  | 0.3% | 1.1% |
 | 07:30 | CHF | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
 | 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
 | 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
