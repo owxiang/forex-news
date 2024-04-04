@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
-| 07:30 | CHF | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
-| 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
+| 10 min | CHF | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
+| 55 min | EUR | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
 | 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
 | 08:50 | EUR | HCOB France Services PMI (Mar) |  | 47.8 | 48.4 |
 | 08:55 | EUR | HCOB Germany Services PMI (Mar) |  | 49.8 | 48.3 |
@@ -22,3 +22,4 @@
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
 | 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,485B |

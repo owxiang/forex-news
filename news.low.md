@@ -10,8 +10,8 @@
 | 01:30 | AUD | Private House Approvals (Feb) | 10.7% |  | -9.9% |
 | 04:35 | JPY | 30-Year JGB Auction | 1.808% |  | 1.770% |
 | 06:00 | INR | HSBC India Services PMI (Mar) | 61.2 | 60.3 | 60.6 |
-| 07:30 | CHF | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
-| 08:15 | ZAR | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
+| 10 min | CHF | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
+| 55 min | ZAR | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Mar) |  | 47.7 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Mar) |  | 47.4 | 46.3 |
@@ -29,8 +29,8 @@
 | 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
-| 13:00 | MXN | Consumer Confidence |  |  | 47.0 |
-| 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 47.1 |
+| 13:00 | MXN | Consumer Confidence (Mar) |  |  | 47.0 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
 | 13:00 | BRL | Auto Production (MoM) (Mar) |  |  | 24.3% |
 | 13:00 | BRL | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 116.3B |
@@ -43,3 +43,4 @@
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |

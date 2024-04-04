@@ -11,10 +11,10 @@
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 10.7% |  | -9.9% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 1.808% |  | 1.770% |
 | 06:00 | INR | Low | HSBC India Services PMI (Mar) | 61.2 | 60.3 | 60.6 |
-| 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
-| 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
-| 08:15 | ZAR | Low | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
+| 10 min | CHF | Moderate | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
+| 10 min | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
+| 55 min | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
+| 55 min | ZAR | Low | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |
 | 08:45 | EUR | Moderate | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
 | 08:50 | EUR | Low | HCOB France Composite PMI (Mar) |  | 47.7 | 48.1 |
@@ -41,8 +41,8 @@
 | 12:30 | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence |  |  | 47.0 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.1 |
+| 13:00 | MXN | Low | Consumer Confidence (Mar) |  |  | 47.0 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
 | 13:00 | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
 | 13:00 | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 116.3B |
@@ -64,3 +64,5 @@
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  | 6.90B | 5.45B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,485B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |
