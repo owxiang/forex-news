@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
 | 10:00 | EUR | Low | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
 | 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
-| 24 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
-| 24 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.857% |
+| 10:35 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
+| 10:35 | EUR | Low | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
