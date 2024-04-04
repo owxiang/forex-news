@@ -25,23 +25,25 @@
 | 10:00 | EUR | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
 | 10:10 | EUR | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
-| 17 min | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
-| 17 min | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
-| 17 min | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
-| 17 min | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
-| 47 min | MXN | Consumer Confidence (Mar) |  |  | 47.0 |
-| 47 min | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
-| 47 min | BRL | Auto Production (MoM) (Mar) |  |  | 24.3% |
-| 47 min | BRL | Auto Sales (MoM) (Mar) |  |  | 2.2% |
-| 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 116.3B |
+| 12:15 | EUR | German Car Registration (YoY) | -6.2% |  | 5.4% |
+| 12:15 | EUR | French Car Registration (YoY) | -1.5% |  | 13.0% |
+| 12:30 | USD | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | 0.7% |  | 8.8% |
+| 12:30 | BRL | Current Account (USD) (Feb) | -4.37B | -3.55B | -5.07B |
+| 12:30 | BRL | Foreign direct investment (USD) (Feb) | 5.01B | 6.97B | 8.74B |
+| 13:00 | MXN | Consumer Confidence (Mar) | 47.3 |  | 47.0 |
+| 13:00 | MXN | Consumer Confidence n.s.a. (Mar) | 47.4 |  | 47.1 |
+| 13:15 | CAD | Reserve Assets Total (Mar) | 118.0B |  | 116.3B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |
 | 13:30 | CAD | Exports (Feb) |  |  | 62.29B |
 | 13:30 | CAD | Imports (Feb) |  |  | 61.79B |
+| 31 min | BRL | Auto Production (MoM) (Mar) |  |  | 24.3% |
+| 31 min | BRL | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 15:30 | USD | Natural Gas Storage |  | -42B | -36B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.356B |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.292B |
 | 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |

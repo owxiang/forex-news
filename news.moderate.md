@@ -13,7 +13,7 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Mar) | 52.8 | 52.9 | 53.0 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Mar) | 53.1 | 53.4 | 53.8 |
 | 10:35 | EUR | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
-| 17 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,819K |
 | 13:30 | USD | Exports |  |  | 257.20B |
 | 13:30 | USD | Imports |  |  | 324.60B |

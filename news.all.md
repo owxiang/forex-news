@@ -36,16 +36,16 @@
 | 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
 | 10:35 | EUR | Low | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
-| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
-| 17 min | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
-| 17 min | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
-| 17 min | BRL | Low | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
-| 17 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 47 min | MXN | Low | Consumer Confidence (Mar) |  |  | 47.0 |
-| 47 min | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
-| 47 min | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
-| 47 min | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
-| 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 116.3B |
+| 12:15 | EUR | Low | German Car Registration (YoY) | -6.2% |  | 5.4% |
+| 12:15 | EUR | Low | French Car Registration (YoY) | -1.5% |  | 13.0% |
+| 12:30 | USD | Low | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 0.7% |  | 8.8% |
+| 12:30 | BRL | Low | Current Account (USD) (Feb) | -4.37B | -3.55B | -5.07B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) | 5.01B | 6.97B | 8.74B |
+| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | MXN | Low | Consumer Confidence (Mar) | 47.3 |  | 47.0 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) | 47.4 |  | 47.1 |
+| 13:15 | CAD | Low | Reserve Assets Total (Mar) | 118.0B |  | 116.3B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,819K |
 | 13:30 | USD | Moderate | Exports |  |  | 257.20B |
 | 13:30 | USD | Moderate | Imports |  |  | 324.60B |
@@ -55,6 +55,8 @@
 | 13:30 | CAD | Low | Exports (Feb) |  |  | 62.29B |
 | 13:30 | CAD | Low | Imports (Feb) |  |  | 61.79B |
 | 13:30 | CAD | Moderate | Trade Balance (Feb) |  | 0.70B | 0.50B |
+| 31 min | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
+| 31 min | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -42B | -36B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
@@ -62,7 +64,7 @@
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.356B |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.292B |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  | 6.90B | 5.45B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,485B |
