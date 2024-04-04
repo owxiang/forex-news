@@ -15,16 +15,16 @@
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) | 53.5 |  | 51.1 |
 | 08:50 | EUR | HCOB France Composite PMI (Mar) | 48.3 | 47.7 | 48.1 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Mar) | 47.7 | 47.4 | 46.3 |
-| 40 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.927% |
-| 40 min | EUR | French 10-Year OAT Auction |  |  | 2.81% |
-| 40 min | EUR | French 15-Year OAT Auction |  |  | 0.98% |
-| 40 min | EUR | French 30-Year OAT Auction |  |  | 3.27% |
-| 40 min | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 40 min | EUR | PPI (MoM) (Feb) |  | -0.6% | -0.9% |
-| 40 min | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
-| 10:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
-| 10:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
-| 11:00 | BRL | Foreign Exchange Flows |  |  | 0.356B |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.015% |  | 3.927% |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Mar) | 317,786.0 |  | 84,886.0 |
+| 10:00 | EUR | French 10-Year OAT Auction | 2.87% |  | 2.81% |
+| 10:00 | EUR | French 15-Year OAT Auction | 3.09% |  | 0.98% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.38% |  | 3.27% |
+| 10:00 | NOK | House Price Index (YoY) (Mar) | 1.20% |  | 4.90% |
+| 10:00 | EUR | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
+| 10:00 | EUR | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
+| 10:10 | EUR | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
+| 24 min | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
@@ -42,5 +42,6 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.356B |
 | 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |

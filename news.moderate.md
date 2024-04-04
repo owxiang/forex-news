@@ -10,9 +10,9 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Mar) | 50.1 | 49.8 | 48.3 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) | 50.3 | 49.9 | 49.2 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Mar) | 51.5 | 51.1 | 50.2 |
-| 10 min | GBP | S&P Global/CIPS UK Composite PMI (Mar) |  | 52.9 | 53.0 |
-| 10 min | GBP | S&P Global/CIPS UK Services PMI (Mar) |  | 53.4 | 53.8 |
-| 10:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Mar) | 52.8 | 52.9 | 53.0 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (Mar) | 53.1 | 53.4 | 53.8 |
+| 24 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,819K |
 | 13:30 | USD | Exports |  |  | 257.20B |

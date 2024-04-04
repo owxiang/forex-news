@@ -23,19 +23,19 @@
 | 08:55 | EUR | Moderate | HCOB Germany Services PMI (Mar) | 50.1 | 49.8 | 48.3 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Mar) | 50.3 | 49.9 | 49.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Mar) | 51.5 | 51.1 | 50.2 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Mar) |  | 52.9 | 53.0 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Mar) |  | 53.4 | 53.8 |
-| 40 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 3.927% |
-| 40 min | EUR | Low | French 10-Year OAT Auction |  |  | 2.81% |
-| 40 min | EUR | Low | French 15-Year OAT Auction |  |  | 0.98% |
-| 40 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.27% |
-| 40 min | NOK | Low | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 40 min | EUR | Low | PPI (MoM) (Feb) |  | -0.6% | -0.9% |
-| 40 min | EUR | Low | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
-| 10:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
-| 10:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
-| 10:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.857% |
-| 11:00 | BRL | Low | Foreign Exchange Flows |  |  | 0.356B |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Mar) | 52.8 | 52.9 | 53.0 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Mar) | 53.1 | 53.4 | 53.8 |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.015% |  | 3.927% |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Mar) | 317,786.0 |  | 84,886.0 |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 2.87% |  | 2.81% |
+| 10:00 | EUR | Low | French 15-Year OAT Auction | 3.09% |  | 0.98% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 3.38% |  | 3.27% |
+| 10:00 | NOK | Low | House Price Index (YoY) (Mar) | 1.20% |  | 4.90% |
+| 10:00 | EUR | Low | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
+| 10:00 | EUR | Low | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
+| 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
+| 24 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
+| 24 min | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
@@ -62,6 +62,7 @@
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.356B |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  | 6.90B | 5.45B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,485B |
