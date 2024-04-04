@@ -27,8 +27,8 @@
 | 10:35 | EUR | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
 | 12:15 | EUR | German Car Registration (YoY) | -6.2% |  | 5.4% |
 | 12:15 | EUR | French Car Registration (YoY) | -1.5% |  | 13.0% |
-| 12:30 | USD | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 0.7% |  | 8.8% |
+| 12:30 | USD | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
 | 12:30 | BRL | Current Account (USD) (Feb) | -4.37B | -3.55B | -5.07B |
 | 12:30 | BRL | Foreign direct investment (USD) (Feb) | 5.01B | 6.97B | 8.74B |
 | 13:00 | MXN | Consumer Confidence (Mar) | 47.3 |  | 47.0 |
@@ -38,10 +38,10 @@
 | 13:30 | CAD | Exports (Feb) | 66.62B |  | 62.98B |
 | 13:30 | CAD | Imports (Feb) | 65.23B |  | 62.37B |
 | 15:30 | USD | Natural Gas Storage | -37B | -42B | -36B |
-| 14 min | USD | 4-Week Bill Auction |  |  | 5.285% |
-| 14 min | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 59 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 16:30 | USD | 4-Week Bill Auction | 5.265% |  | 5.285% |
+| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
+| 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 25 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 2.292B |
 | 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |
