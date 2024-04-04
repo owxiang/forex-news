@@ -22,4 +22,4 @@
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) | 2.5% | 2.8% | 2.8% |
 | 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,485B |
+| 14 min | USD | Fed's Balance Sheet |  |  | 7,485B |
