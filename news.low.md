@@ -20,13 +20,13 @@
 | 10:00 | EUR | French 15-Year OAT Auction |  |  | 0.98% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.27% |
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
+| 10:00 | EUR | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
 | 10:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 11:00 | BRL | Foreign Exchange Flows |  |  | 0.356B |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
 | 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
 | 13:00 | MXN | Consumer Confidence |  |  | 47.0 |
