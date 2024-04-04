@@ -38,26 +38,24 @@
 | 10:35 | EUR | Low | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
 | 12:15 | EUR | Low | German Car Registration (YoY) | -6.2% |  | 5.4% |
 | 12:15 | EUR | Low | French Car Registration (YoY) | -1.5% |  | 13.0% |
-| 12:30 | USD | Low | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 0.7% |  | 8.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
 | 12:30 | BRL | Low | Current Account (USD) (Feb) | -4.37B | -3.55B | -5.07B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) | 5.01B | 6.97B | 8.74B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Mar) | 47.3 |  | 47.0 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) | 47.4 |  | 47.1 |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) | 118.0B |  | 116.3B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,819K |
-| 13:30 | USD | Moderate | Exports |  |  | 257.20B |
-| 13:30 | USD | Moderate | Imports |  |  | 324.60B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 213K | 210K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 211.00K |
-| 13:30 | USD | Moderate | Trade Balance (Feb) |  | -66.90B | -67.40B |
-| 13:30 | CAD | Low | Exports (Feb) |  |  | 62.29B |
-| 13:30 | CAD | Low | Imports (Feb) |  |  | 61.79B |
-| 13:30 | CAD | Moderate | Trade Balance (Feb) |  | 0.70B | 0.50B |
-| 31 min | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
-| 31 min | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
-| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,791K |  | 1,810K |
+| 13:30 | USD | Moderate | Exports | 263.00B |  | 257.20B |
+| 13:30 | USD | Moderate | Imports | 331.90B |  | 324.80B |
+| 13:30 | USD | High | Initial Jobless Claims | 221K | 213K | 212K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.25K |  | 211.50K |
+| 13:30 | USD | Moderate | Trade Balance (Feb) | -68.90B | -66.90B | -67.60B |
+| 13:30 | CAD | Low | Exports (Feb) | 66.62B |  | 62.98B |
+| 13:30 | CAD | Low | Imports (Feb) | 65.23B |  | 62.37B |
+| 13:30 | CAD | Moderate | Trade Balance (Feb) | 1.39B | 0.70B | 0.61B |
+| 43 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -42B | -36B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |

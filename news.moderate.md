@@ -14,12 +14,12 @@
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Mar) | 53.1 | 53.4 | 53.8 |
 | 10:35 | EUR | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,819K |
-| 13:30 | USD | Exports |  |  | 257.20B |
-| 13:30 | USD | Imports |  |  | 324.60B |
-| 13:30 | USD | Trade Balance (Feb) |  | -66.90B | -67.40B |
-| 13:30 | CAD | Trade Balance (Feb) |  | 0.70B | 0.50B |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,791K |  | 1,810K |
+| 13:30 | USD | Exports | 263.00B |  | 257.20B |
+| 13:30 | USD | Imports | 331.90B |  | 324.80B |
+| 13:30 | USD | Trade Balance (Feb) | -68.90B | -66.90B | -67.60B |
+| 13:30 | CAD | Trade Balance (Feb) | 1.39B | 0.70B | 0.61B |
+| 43 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
 | 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,485B |
