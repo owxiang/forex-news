@@ -9,9 +9,8 @@
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 5.20% |  | 9.80% |
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 10.7% |  | -9.9% |
-| 16 min | AUD | Moderate | Retail Sales (MoM) |  | 0.3% | 1.1% |
-| 16 min | JPY | Low | 30-Year JGB Auction |  |  | 1.770% |
-| 06:00 | INR | Low | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 1.808% |  | 1.770% |
+| 40 min | INR | Low | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
@@ -31,7 +30,7 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 0.98% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.27% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | Low | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
+| 10:00 | EUR | Low | PPI (MoM) (Feb) |  | -0.6% | -0.9% |
 | 10:00 | EUR | Low | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
@@ -55,14 +54,13 @@
 | 13:30 | USD | Moderate | Trade Balance (Feb) |  | -66.90B | -67.40B |
 | 13:30 | CAD | Low | Exports (Feb) |  |  | 62.29B |
 | 13:30 | CAD | Low | Imports (Feb) |  |  | 61.79B |
-| 13:30 | CAD | Moderate | Trade Balance (Feb) |  | 0.80B | 0.50B |
+| 13:30 | CAD | Moderate | Trade Balance (Feb) |  | 0.70B | 0.50B |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | -42B | -36B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
 | 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
-| 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Mar) |  | 6.90B | 5.45B |

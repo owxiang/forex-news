@@ -3,7 +3,6 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
-| 16 min | AUD | Retail Sales (MoM) |  | 0.3% | 1.1% |
 | 07:30 | CHF | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
 | 08:15 | EUR | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
 | 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
@@ -19,7 +18,7 @@
 | 13:30 | USD | Exports |  |  | 257.20B |
 | 13:30 | USD | Imports |  |  | 324.60B |
 | 13:30 | USD | Trade Balance (Feb) |  | -66.90B | -67.40B |
-| 13:30 | CAD | Trade Balance (Feb) |  | 0.80B | 0.50B |
+| 13:30 | CAD | Trade Balance (Feb) |  | 0.70B | 0.50B |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
 | 19:00 | USD | FOMC Member Mester Speaks |  |  |  |

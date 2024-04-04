@@ -8,8 +8,8 @@
 | 01:00 | NZD | ANZ Commodity Price Index (MoM) | -1.3% |  | 3.6% |
 | 01:30 | AUD | Building Approvals (YoY) (Feb) | 5.20% |  | 9.80% |
 | 01:30 | AUD | Private House Approvals (Feb) | 10.7% |  | -9.9% |
-| 16 min | JPY | 30-Year JGB Auction |  |  | 1.770% |
-| 06:00 | INR | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
+| 04:35 | JPY | 30-Year JGB Auction | 1.808% |  | 1.770% |
+| 40 min | INR | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
 | 07:30 | CHF | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |
@@ -20,7 +20,7 @@
 | 10:00 | EUR | French 15-Year OAT Auction |  |  | 0.98% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.27% |
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
+| 10:00 | EUR | PPI (MoM) (Feb) |  | -0.6% | -0.9% |
 | 10:00 | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
@@ -41,6 +41,5 @@
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
