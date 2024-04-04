@@ -9,7 +9,7 @@
 | 01:30 | AUD | Building Approvals (YoY) (Feb) | 5.20% |  | 9.80% |
 | 01:30 | AUD | Private House Approvals (Feb) | 10.7% |  | -9.9% |
 | 04:35 | JPY | 30-Year JGB Auction | 1.808% |  | 1.770% |
-| 40 min | INR | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
+| 06:00 | INR | HSBC India Services PMI (Mar) | 61.2 | 60.3 | 60.6 |
 | 07:30 | CHF | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |

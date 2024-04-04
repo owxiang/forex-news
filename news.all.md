@@ -10,7 +10,7 @@
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 10.7% |  | -9.9% |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 1.808% |  | 1.770% |
-| 40 min | INR | Low | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
+| 06:00 | INR | Low | HSBC India Services PMI (Mar) | 61.2 | 60.3 | 60.6 |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
 | 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
