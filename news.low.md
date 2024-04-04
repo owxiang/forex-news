@@ -41,7 +41,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.265% |  | 5.285% |
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 25 min | USD | Fed Goolsbee Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 2.292B |
-| 19:00 | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
+| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
+| 46 min | BRL | Trade Balance (Mar) |  | 6.90B | 5.45B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |
