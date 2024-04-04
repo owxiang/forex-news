@@ -12,21 +12,21 @@
 | 06:00 | INR | HSBC India Services PMI (Mar) | 61.2 | 60.3 | 60.6 |
 | 07:30 | CHF | CPI (YoY) (Mar) | 1.0% | 1.3% | 1.2% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Mar) | 48.4 |  | 50.8 |
-| 30 min | EUR | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |
-| 35 min | EUR | HCOB France Composite PMI (Mar) |  | 47.7 | 48.1 |
-| 40 min | EUR | HCOB Germany Composite PMI (Mar) |  | 47.4 | 46.3 |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 3.927% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.81% |
-| 10:00 | EUR | French 15-Year OAT Auction |  |  | 0.98% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.27% |
-| 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
-| 10:00 | EUR | PPI (MoM) (Feb) |  | -0.6% | -0.9% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Mar) | 53.5 |  | 51.1 |
+| 08:50 | EUR | HCOB France Composite PMI (Mar) | 48.3 | 47.7 | 48.1 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Mar) | 47.7 | 47.4 | 46.3 |
+| 40 min | GBP | 10-Year Treasury Gilt Auction |  |  | 3.927% |
+| 40 min | EUR | French 10-Year OAT Auction |  |  | 2.81% |
+| 40 min | EUR | French 15-Year OAT Auction |  |  | 0.98% |
+| 40 min | EUR | French 30-Year OAT Auction |  |  | 3.27% |
+| 40 min | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
+| 40 min | EUR | PPI (MoM) (Feb) |  | -0.6% | -0.9% |
+| 40 min | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 11:00 | BRL | Foreign Exchange Flows |  |  | 0.356B |
-| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
 | 13:00 | MXN | Consumer Confidence (Mar) |  |  | 47.0 |
