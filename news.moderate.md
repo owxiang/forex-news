@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
-| 10 min | CHF | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
-| 55 min | EUR | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
-| 08:45 | EUR | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
-| 08:50 | EUR | HCOB France Services PMI (Mar) |  | 47.8 | 48.4 |
-| 08:55 | EUR | HCOB Germany Services PMI (Mar) |  | 49.8 | 48.3 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Mar) |  | 49.9 | 49.2 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 50.2 |
+| 07:30 | CHF | CPI (MoM) (Mar) | 0.0% | 0.3% | 0.6% |
+| 08:15 | EUR | HCOB Spain Services PMI (Mar) | 56.1 | 55.5 | 54.7 |
+| 30 min | EUR | HCOB Italy Services PMI (Mar) |  | 53.0 | 52.2 |
+| 35 min | EUR | HCOB France Services PMI (Mar) |  | 47.8 | 48.4 |
+| 40 min | EUR | HCOB Germany Services PMI (Mar) |  | 49.8 | 48.3 |
+| 45 min | EUR | HCOB Eurozone Composite PMI (Mar) |  | 49.9 | 49.2 |
+| 45 min | EUR | HCOB Eurozone Services PMI (Mar) |  | 51.1 | 50.2 |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Mar) |  | 52.9 | 53.0 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Mar) |  | 53.4 | 53.8 |
 | 10:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
