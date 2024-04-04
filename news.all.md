@@ -31,15 +31,15 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction | 3.09% |  | 0.98% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.38% |  | 3.27% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) | 1.20% |  | 4.90% |
-| 10:00 | EUR | Low | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
 | 10:00 | EUR | Low | PPI (MoM) (Feb) | -1.0% | -0.6% | -0.9% |
+| 10:00 | EUR | Low | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
 | 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
 | 10:35 | EUR | Low | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
 | 12:15 | EUR | Low | German Car Registration (YoY) | -6.2% |  | 5.4% |
 | 12:15 | EUR | Low | French Car Registration (YoY) | -1.5% |  | 13.0% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 0.7% |  | 8.8% |
 | 12:30 | USD | Low | Challenger Job Cuts (Mar) | 90.309K |  | 84.638K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 0.7% |  | 8.8% |
 | 12:30 | BRL | Low | Current Account (USD) (Feb) | -4.37B | -3.55B | -5.07B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) | 5.01B | 6.97B | 8.74B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
@@ -56,10 +56,10 @@
 | 13:30 | CAD | Low | Imports (Feb) | 65.23B |  | 62.37B |
 | 13:30 | CAD | Moderate | Trade Balance (Feb) | 1.39B | 0.70B | 0.61B |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 14 min | USD | Low | Natural Gas Storage |  | -42B | -36B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 17:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | -37B | -42B | -36B |
+| 14 min | USD | Low | 4-Week Bill Auction |  |  | 5.285% |
+| 14 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 59 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 2.292B |
