@@ -8,7 +8,7 @@
 | 01:00 | NZD | ANZ Commodity Price Index (MoM) | -1.3% |  | 3.6% |
 | 01:30 | AUD | Building Approvals (YoY) (Feb) | 5.20% |  | 9.80% |
 | 01:30 | AUD | Private House Approvals (Feb) | 10.7% |  | -9.9% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 1.770% |
+| 16 min | JPY | 30-Year JGB Auction |  |  | 1.770% |
 | 06:00 | INR | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
 | 07:30 | CHF | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 08:15 | ZAR | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
@@ -20,13 +20,13 @@
 | 10:00 | EUR | French 15-Year OAT Auction |  |  | 0.98% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.27% |
 | 10:00 | NOK | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:00 | EUR | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
+| 10:00 | EUR | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 11:00 | BRL | Foreign Exchange Flows |  |  | 0.356B |
-| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
 | 13:00 | MXN | Consumer Confidence |  |  | 47.0 |

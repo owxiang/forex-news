@@ -9,11 +9,11 @@
 | 01:30 | AUD | Low | Building Approvals (YoY) (Feb) | 5.20% |  | 9.80% |
 | 01:30 | AUD | Moderate | Building Approvals (MoM) (Feb) | -1.9% | 3.0% | -2.5% |
 | 01:30 | AUD | Low | Private House Approvals (Feb) | 10.7% |  | -9.9% |
-| 04:35 | AUD | Moderate | Retail Sales (MoM) |  | 0.3% | 1.1% |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.770% |
+| 16 min | AUD | Moderate | Retail Sales (MoM) |  | 0.3% | 1.1% |
+| 16 min | JPY | Low | 30-Year JGB Auction |  |  | 1.770% |
 | 06:00 | INR | Low | HSBC India Services PMI (Mar) |  | 60.3 | 60.6 |
-| 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Mar) |  | 0.3% | 0.6% |
+| 07:30 | CHF | Low | CPI (YoY) (Mar) |  | 1.3% | 1.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Mar) |  | 55.5 | 54.7 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Mar) |  |  | 50.8 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (Mar) |  |  | 51.1 |
@@ -31,14 +31,14 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 0.98% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.27% |
 | 10:00 | NOK | Low | House Price Index (YoY) (Mar) |  |  | 4.90% |
-| 10:00 | EUR | Low | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:00 | EUR | Low | PPI (MoM) (Feb) |  | -0.7% | -0.9% |
+| 10:00 | EUR | Low | PPI (YoY) (Feb) |  | -8.6% | -8.6% |
 | 10:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.162% |
 | 10:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.630% |
 | 10:40 | EUR | Low | Spanish 5-Year Bonos Auction |  |  | 2.857% |
 | 11:00 | BRL | Low | Foreign Exchange Flows |  |  | 0.356B |
-| 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
 | 12:30 | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
