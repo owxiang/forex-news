@@ -36,15 +36,15 @@
 | 10:10 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Moderate | Spanish 15-Year Obligacion Auction | 3.531% |  | 3.630% |
 | 10:35 | EUR | Low | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
-| 12:30 | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
-| 12:30 | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Mar) |  |  | 47.0 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
-| 13:00 | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
-| 13:00 | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
+| 17 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 17 min | USD | Low | Challenger Job Cuts (Mar) |  |  | 84.638K |
+| 17 min | BRL | Low | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
+| 17 min | BRL | Low | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
+| 17 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 47 min | MXN | Low | Consumer Confidence (Mar) |  |  | 47.0 |
+| 47 min | MXN | Low | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
+| 47 min | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
+| 47 min | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 116.3B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,819K |
 | 13:30 | USD | Moderate | Exports |  |  | 257.20B |

@@ -25,14 +25,14 @@
 | 10:00 | EUR | PPI (YoY) (Feb) | -8.3% | -8.6% | -8.0% |
 | 10:10 | EUR | Spanish 10-Year Obligacion Auction | 3.190% |  | 3.162% |
 | 10:35 | EUR | Spanish 5-Year Bonos Auction | 2.848% |  | 2.857% |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
-| 12:30 | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
-| 12:30 | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
-| 12:30 | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
-| 13:00 | MXN | Consumer Confidence (Mar) |  |  | 47.0 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
-| 13:00 | BRL | Auto Production (MoM) (Mar) |  |  | 24.3% |
-| 13:00 | BRL | Auto Sales (MoM) (Mar) |  |  | 2.2% |
+| 17 min | USD | Challenger Job Cuts (YoY) |  |  | 8.8% |
+| 17 min | USD | Challenger Job Cuts (Mar) |  |  | 84.638K |
+| 17 min | BRL | Current Account (USD) (Feb) |  | -3.55B | -5.07B |
+| 17 min | BRL | Foreign direct investment (USD) (Feb) |  | 6.97B | 8.74B |
+| 47 min | MXN | Consumer Confidence (Mar) |  |  | 47.0 |
+| 47 min | MXN | Consumer Confidence n.s.a. (Mar) |  |  | 47.1 |
+| 47 min | BRL | Auto Production (MoM) (Mar) |  |  | 24.3% |
+| 47 min | BRL | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 116.3B |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 211.00K |
 | 13:30 | CAD | Exports (Feb) |  |  | 62.29B |
