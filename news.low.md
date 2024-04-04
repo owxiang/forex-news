@@ -43,4 +43,4 @@
 | 17:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | BRL | Trade Balance (Mar) | 7.48B | 6.90B | 5.31B |
-| 14 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.541T |  | 3.472T |

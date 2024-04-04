@@ -64,5 +64,5 @@
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Mar) | 7.48B | 6.90B | 5.31B |
-| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,485B |
-| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.472T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,440B |  | 7,485B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.541T |  | 3.472T |
