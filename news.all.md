@@ -20,8 +20,8 @@
 | 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) | -4.9% | -4.6% | -5.9% |
@@ -29,14 +29,14 @@
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) | 715.1B |  | 677.8B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -38 | -41 | -42 |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) | 1.5% | -0.5% | 0.3% |
-| 15 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.3 |
-| 15 min | EUR | Low | HCOB Germany Construction PMI (Mar) |  |  | 39.1 |
-| 15 min | EUR | Low | HCOB France Construction PMI (MoM) (Mar) |  |  | 41.9 |
-| 15 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.9 |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) |  | 49.8 | 49.7 |
-| 10:00 | EUR | Low | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) | 50.3 |  | 50.3 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) | 38.3 |  | 39.1 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 41.0 |  | 41.9 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
+| 8 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) |  | 49.8 | 49.7 |
+| 38 min | EUR | Low | Italian Public Deficit (Q4) |  |  | 5.0% |
+| 38 min | EUR | Low | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
+| 38 min | EUR | Low | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.17% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |

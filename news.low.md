@@ -20,13 +20,13 @@
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) | 0.2% | 0.5% | -0.9% |
 | 08:00 | CHF | Foreign Reserves (USD) (Mar) | 715.1B |  | 677.8B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) | 1.5% | -0.5% | 0.3% |
-| 15 min | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.3 |
-| 15 min | EUR | HCOB Germany Construction PMI (Mar) |  |  | 39.1 |
-| 15 min | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 41.9 |
-| 15 min | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.9 |
-| 10:00 | EUR | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 10:00 | EUR | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
-| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
+| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) | 50.3 |  | 50.3 |
+| 08:30 | EUR | HCOB Germany Construction PMI (Mar) | 38.3 |  | 39.1 |
+| 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 41.0 |  | 41.9 |
+| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
+| 38 min | EUR | Italian Public Deficit (Q4) |  |  | 5.0% |
+| 38 min | EUR | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
+| 38 min | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.17% |
 | 12:30 | INR | Bank Loan Growth |  |  | 20.4% |
