@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:30 | JPY | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 01:30 | AUD | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
 | 01:30 | AUD | Trade Balance | 7.280B | 10.500B | 10.058B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
@@ -12,7 +12,7 @@
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
 | 08:00 | CHF | SECO Consumer Climate | -38 | -41 | -42 |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Mar) | 50.2 | 49.8 | 49.7 |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  | 75.5% | 75.0% |
+| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  | 75.5% | 75.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 4.1% | 4.3% |
 | 13:30 | USD | Participation Rate (Mar) |  |  | 62.5% |
 | 13:30 | USD | Private Nonfarm Payrolls (Mar) |  | 160K | 223K |

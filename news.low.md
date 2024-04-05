@@ -25,16 +25,16 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 41.0 |  | 41.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
 | 10:00 | EUR | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
+| 10:00 | EUR | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 11:00 | CAD | Leading Index (MoM) (Mar) | 0.26% |  | 0.25% |
-| 42 min | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
-| 12:30 | INR | Bank Loan Growth |  |  | 20.4% |
-| 12:30 | INR | Deposit Growth |  |  | 13.7% |
-| 12:30 | INR | FX Reserves, USD |  |  | 642.63B |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
-| 12:30 | BRL | Budget Balance (Feb) |  | -104.000B | 22.232B |
-| 12:30 | BRL | Budget Surplus (Feb) |  |  | 102.146B |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | -0.30% |  | -0.41% |
+| 17 min | INR | Bank Loan Growth |  |  | 20.4% |
+| 17 min | INR | Deposit Growth |  |  | 13.7% |
+| 17 min | INR | FX Reserves, USD |  |  | 642.63B |
+| 17 min | BRL | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
+| 17 min | BRL | Budget Balance (Feb) |  | -104.000B | 22.232B |
+| 17 min | BRL | Budget Surplus (Feb) |  |  | 102.146B |
 | 13:30 | USD | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
 | 13:30 | USD | Fed Collins Speaks |  |  |  |
 | 13:30 | USD | Government Payrolls (Mar) |  |  | 52.0K |

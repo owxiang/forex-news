@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 6.86B |  | 3.05B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,290.6B |  | 1,281.5B |
 | 01:30 | AUD | Low | Exports (MoM) | -2.2% |  | 1.5% |
 | 01:30 | AUD | Low | Imports (MoM) | 4.8% |  | 1.4% |
@@ -35,17 +35,17 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) | 50.2 | 49.8 | 49.7 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Mar) | 0.26% |  | 0.25% |
-| 42 min | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 13.7% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 642.63B |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
-| 12:30 | BRL | Low | Budget Balance (Feb) |  | -104.000B | 22.232B |
-| 12:30 | BRL | Low | Budget Surplus (Feb) |  |  | 102.146B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) |  | 75.5% | 75.0% |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) | -0.30% |  | -0.41% |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 20.4% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.7% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 642.63B |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Feb) |  |  | 60.0% |
+| 17 min | BRL | Low | Budget Balance (Feb) |  | -104.000B | 22.232B |
+| 17 min | BRL | Low | Budget Surplus (Feb) |  |  | 102.146B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) |  | 75.5% | 75.0% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) |  | 0.3% | 0.1% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 4.1% | 4.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
