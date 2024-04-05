@@ -7,8 +7,8 @@
 | 01:30 | AUD | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
 | 01:30 | AUD | Trade Balance | 7.280B | 10.500B | 10.058B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
 | 08:00 | CHF | SECO Consumer Climate | -38 | -41 | -42 |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Mar) | 50.2 | 49.8 | 49.7 |
@@ -21,8 +21,8 @@
 | 13:30 | CAD | Unemployment Rate (Mar) | 6.1% | 5.9% | 5.8% |
 | 15:00 | CAD | Ivey PMI (Mar) | 57.5 | 54.2 | 53.9 |
 | 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 621 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 508 |  | 506 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 620 |  | 621 |
 | 20:00 | USD | Consumer Credit (Feb) |  | 16.20B | 19.49B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 35.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 278.0K |

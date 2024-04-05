@@ -16,12 +16,12 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
-| 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
+| 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) | -4.9% | -4.6% | -5.9% |
@@ -67,8 +67,8 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) | 63.0 |  | 56.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Mar) | 57.5 | 54.2 | 53.9 |
 | 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 39 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 39 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 508 |  | 506 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 620 |  | 621 |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 16.20B | 19.49B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 35.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 3.3K |
