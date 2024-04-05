@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 6.86B |  | 3.05B |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,290.6B |  | 1,281.5B |
 | 01:30 | AUD | Low | Exports (MoM) | -2.2% |  | 1.5% |
 | 01:30 | AUD | Low | Imports (MoM) | 4.8% |  | 1.4% |
@@ -20,15 +20,15 @@
 | 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
-| 45 min | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
-| 45 min | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.3% | 0.4% |
-| 45 min | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 0.6% | -11.3% |
-| 45 min | EUR | Low | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
-| 45 min | EUR | Low | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) |  | 0.5% | -1.1% |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 677.6B |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -41 | -42 |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Feb) |  | -0.5% | -0.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) | -4.9% | -4.6% | -5.9% |
+| 25 min | EUR | Low | French Industrial Production (MoM) (Feb) |  | 0.5% | -1.1% |
+| 40 min | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 677.6B |
+| 40 min | CHF | Moderate | SECO Consumer Climate |  | -41 | -42 |
+| 40 min | EUR | Low | Spanish Industrial Production (YoY) (Feb) |  | -0.5% | -0.6% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.3 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) |  |  | 39.1 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) |  |  | 41.9 |
