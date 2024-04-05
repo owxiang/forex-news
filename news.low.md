@@ -45,14 +45,14 @@
 | 13:30 | CAD | Participation Rate (Mar) | 65.3% |  | 65.3% |
 | 14:15 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Ivey PMI n.s.a (Mar) | 63.0 |  | 56.3 |
-| 16 min | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
-| 16 min | USD | CFTC Copper speculative net positions |  |  | 23.1K |
-| 16 min | USD | CFTC Corn speculative net positions |  |  | -178.0K |
-| 16 min | USD | CFTC Natural Gas speculative net positions |  |  | -117.3K |
-| 16 min | USD | CFTC Silver speculative net positions |  |  | 50.8K |
-| 16 min | USD | CFTC Soybeans speculative net positions |  |  | -153.7K |
-| 16 min | USD | CFTC Wheat speculative net positions |  |  | -61.7K |
-| 16 min | CAD | CFTC CAD speculative net positions |  |  | -50.3K |
-| 16 min | MXN | CFTC MXN speculative net positions |  |  | 132.1K |
-| 16 min | CHF | CFTC CHF speculative net positions |  |  | -22.0K |
-| 16 min | NZD | CFTC NZD speculative net positions |  |  | -6.0K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 2.6K |  | 3.3K |
+| 20:30 | USD | CFTC Copper speculative net positions | 20.3K |  | 23.1K |
+| 20:30 | USD | CFTC Corn speculative net positions | -181.3K |  | -178.0K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -118.7K |  | -117.3K |
+| 20:30 | USD | CFTC Silver speculative net positions | 53.1K |  | 50.8K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -158.0K |  | -153.7K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -60.3K |  | -61.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -51.2K |  | -50.3K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 133.7K |  | 132.1K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -22.4K |  | -22.0K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -7.5K |  | -6.0K |
