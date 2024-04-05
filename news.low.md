@@ -8,15 +8,15 @@
 | 01:30 | AUD | Imports (MoM) | 4.8% |  | 1.4% |
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Mar) | 50.9 |  | 49.7 |
 | 04:00 | IDR | FX Reserves (USD) (Mar) | 140.40B |  | 144.00B |
-| 8 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 8 min | INR | Reverse REPO Rate |  |  | 3.35% |
-| 38 min | JPY | Coincident Indicator (MoM) (Feb) |  |  | -3.8% |
-| 38 min | JPY | Leading Index |  | 111.6 | 109.5 |
-| 38 min | JPY | Leading Index (MoM) (Feb) |  |  | -0.4% |
-| 38 min | SGD | Retail Sales (MoM) (Feb) |  |  | -0.7% |
-| 38 min | SGD | Retail Sales (YoY) (Feb) |  |  | 1.3% |
-| 07:00 | EUR | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
-| 07:00 | EUR | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
+| 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
+| 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
+| 06:00 | JPY | Leading Index | 111.8 | 111.6 | 109.5 |
+| 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
+| 45 min | EUR | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
+| 45 min | EUR | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -1.1% |
 | 08:00 | CHF | Foreign Reserves (USD) (Mar) |  |  | 677.6B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) |  | -0.5% | -0.6% |

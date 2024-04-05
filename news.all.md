@@ -12,19 +12,19 @@
 | 01:30 | AUD | Moderate | Trade Balance | 7.280B | 10.500B | 10.058B |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Mar) | 50.9 |  | 49.7 |
 | 04:00 | IDR | Low | FX Reserves (USD) (Mar) | 140.40B |  | 144.00B |
-| 8 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 8 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 8 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 38 min | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | -3.8% |
-| 38 min | JPY | Low | Leading Index |  | 111.6 | 109.5 |
-| 38 min | JPY | Low | Leading Index (MoM) (Feb) |  |  | -0.4% |
-| 38 min | SGD | Low | Retail Sales (MoM) (Feb) |  |  | -0.7% |
-| 38 min | SGD | Low | Retail Sales (YoY) (Feb) |  |  | 1.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.3% | 0.4% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 0.6% | -11.3% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
+| 05:30 | INR | Low | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
+| 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
+| 45 min | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
+| 45 min | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.3% | 0.4% |
+| 45 min | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 0.6% | -11.3% |
+| 45 min | EUR | Low | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
+| 45 min | EUR | Low | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Feb) |  | 0.5% | -1.1% |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (Mar) |  |  | 677.6B |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -41 | -42 |
