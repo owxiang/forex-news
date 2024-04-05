@@ -18,8 +18,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
@@ -33,12 +33,12 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Mar) | 38.3 |  | 39.1 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Mar) | 41.0 |  | 41.9 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
-| 8 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) |  | 49.8 | 49.7 |
-| 38 min | EUR | Low | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 38 min | EUR | Low | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
-| 38 min | EUR | Low | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
-| 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) | 50.2 | 49.8 | 49.7 |
+| 10:00 | EUR | Low | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
 | 12:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.17% |
+| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.7% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 642.63B |

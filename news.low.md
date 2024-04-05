@@ -13,8 +13,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
 | 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | JPY | Leading Index | 111.8 | 111.6 | 109.5 |
-| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
+| 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 07:00 | EUR | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
 | 07:00 | EUR | German Import Price Index (YoY) (Feb) | -4.9% | -4.6% | -5.9% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) | 0.2% | 0.5% | -0.9% |
@@ -24,11 +24,11 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Mar) | 38.3 |  | 39.1 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 41.0 |  | 41.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
-| 38 min | EUR | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 38 min | EUR | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
-| 38 min | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
-| 11:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
+| 10:00 | EUR | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
+| 10:00 | EUR | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.17% |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 12:30 | INR | Deposit Growth |  |  | 13.7% |
 | 12:30 | INR | FX Reserves, USD |  |  | 642.63B |
