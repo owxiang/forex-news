@@ -27,8 +27,8 @@
 | 10:00 | EUR | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
-| 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.17% |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
+| 11:00 | CAD | Leading Index (MoM) (Mar) | 0.26% |  | 0.25% |
+| 42 min | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:30 | INR | Bank Loan Growth |  |  | 20.4% |
 | 12:30 | INR | Deposit Growth |  |  | 13.7% |
 | 12:30 | INR | FX Reserves, USD |  |  | 642.63B |
