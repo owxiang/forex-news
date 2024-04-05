@@ -3,9 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Feb) | 6.86B |  | 3.05B |
-| 01:30 | AUD | Exports (MoM) |  |  | 1.6% |
-| 01:30 | AUD | Imports (MoM) |  |  | 1.3% |
-| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Mar) |  |  | 49.7 |
+| 00:50 | JPY | Foreign Reserves (USD) (Mar) | 1,290.6B |  | 1,281.5B |
+| 01:30 | AUD | Exports (MoM) | -2.2% |  | 1.5% |
+| 01:30 | AUD | Imports (MoM) | 4.8% |  | 1.3% |
+| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Mar) | 50.9 |  | 49.7 |
 | 05:00 | IDR | FX Reserves (USD) (Mar) |  |  | 144.00B |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |

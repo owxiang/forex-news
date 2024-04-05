@@ -3,13 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 6.86B |  | 3.05B |
-| 14 min | JPY | Moderate | Household Spending (YoY) (Feb) |  | -2.8% | -6.3% |
-| 14 min | JPY | Moderate | Household Spending (MoM) (Feb) |  | 0.5% | -2.1% |
-| 01:30 | AUD | Low | Exports (MoM) |  |  | 1.6% |
-| 01:30 | AUD | Low | Imports (MoM) |  |  | 1.3% |
-| 01:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.3% | 1.1% |
-| 01:30 | AUD | Moderate | Trade Balance |  | 10.500B | 11.027B |
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Mar) |  |  | 49.7 |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,290.6B |  | 1,281.5B |
+| 01:30 | AUD | Low | Exports (MoM) | -2.2% |  | 1.5% |
+| 01:30 | AUD | Low | Imports (MoM) | 4.8% |  | 1.3% |
+| 01:30 | AUD | Moderate | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
+| 01:30 | AUD | Moderate | Trade Balance | 7.280B | 10.500B | 10.058B |
+| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Mar) | 50.9 |  | 49.7 |
 | 05:00 | IDR | Low | FX Reserves (USD) (Mar) |  |  | 144.00B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
