@@ -46,8 +46,8 @@
 | 12:30 | BRL | Low | Budget Balance (Feb) | -113.858B | -104.000B | 22.232B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) | -48.692B |  | 102.146B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 75.5% | 75.5% | 75.0% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) | 4.1% | 4.1% | 4.3% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (Mar) | 34.4 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Fed Collins Speaks |  |  |  |
 | 13:30 | USD | Low | Government Payrolls (Mar) | 71.0K |  | 63.0K |
@@ -66,7 +66,7 @@
 | 14:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) | 63.0 |  | 56.3 |
 | 15:00 | CAD | Moderate | Ivey PMI (Mar) | 57.5 | 54.2 | 53.9 |
-| 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 59 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |
 | 20:00 | USD | Moderate | Consumer Credit (Feb) |  | 16.20B | 19.49B |

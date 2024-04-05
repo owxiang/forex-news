@@ -20,7 +20,7 @@
 | 13:30 | CAD | Employment Change (Mar) | -2.2K | 25.9K | 40.7K |
 | 13:30 | CAD | Unemployment Rate (Mar) | 6.1% | 5.9% | 5.8% |
 | 15:00 | CAD | Ivey PMI (Mar) | 57.5 | 54.2 | 53.9 |
-| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 59 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 621 |
 | 20:00 | USD | Consumer Credit (Feb) |  | 16.20B | 19.49B |
