@@ -3,25 +3,25 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 6.86B |  | 3.05B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,290.6B |  | 1,281.5B |
 | 01:30 | AUD | Low | Exports (MoM) | -2.2% |  | 1.5% |
-| 01:30 | AUD | Low | Imports (MoM) | 4.8% |  | 1.3% |
+| 01:30 | AUD | Low | Imports (MoM) | 4.8% |  | 1.4% |
 | 01:30 | AUD | Moderate | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
 | 01:30 | AUD | Moderate | Trade Balance | 7.280B | 10.500B | 10.058B |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Mar) | 50.9 |  | 49.7 |
-| 41 min | IDR | Low | FX Reserves (USD) (Mar) | 140.40B |  | 144.00B |
-| 05:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | -3.8% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) |  |  | -0.4% |
-| 06:00 | JPY | Low | Leading Index |  | 111.6 | 109.5 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Feb) |  |  | -0.7% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Feb) |  |  | 1.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
+| 04:00 | IDR | Low | FX Reserves (USD) (Mar) | 140.40B |  | 144.00B |
+| 8 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 8 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
+| 8 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
+| 38 min | JPY | Low | Coincident Indicator (MoM) (Feb) |  |  | -3.8% |
+| 38 min | JPY | Low | Leading Index |  | 111.6 | 109.5 |
+| 38 min | JPY | Low | Leading Index (MoM) (Feb) |  |  | -0.4% |
+| 38 min | SGD | Low | Retail Sales (MoM) (Feb) |  |  | -0.7% |
+| 38 min | SGD | Low | Retail Sales (YoY) (Feb) |  |  | 1.3% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) |  | 0.3% | 0.4% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Feb) |  | 0.6% | -11.3% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
@@ -35,8 +35,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.9 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) |  | 49.8 | 49.7 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
 | 11:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:00 | CAD | Low | Leading Index (MoM) (Mar) |  |  | 0.17% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 20.4% |
@@ -88,6 +88,5 @@
 | 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -105.5K |
 | 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | 8.7K |
 | 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -129.1K |
-| 20:30 | JPY | Low | Foreign Reserves (USD) (Mar) |  |  | 1,281.5B |
 | 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | -6.0K |
 | 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 31.2K |

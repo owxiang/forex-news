@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:30 | JPY | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 01:30 | AUD | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
 | 01:30 | AUD | Trade Balance | 7.280B | 10.500B | 10.058B |
-| 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
+| 8 min | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Mar) |  | 0.3% | 0.4% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Mar) |  | 1.5% | 1.7% |
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) |  | 0.6% | -11.3% |
 | 08:00 | CHF | SECO Consumer Climate |  | -41 | -42 |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Mar) |  | 49.8 | 49.7 |
