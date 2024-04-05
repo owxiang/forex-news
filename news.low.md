@@ -11,8 +11,8 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
-| 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | JPY | Leading Index | 111.8 | 111.6 | 109.5 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 07:00 | EUR | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
