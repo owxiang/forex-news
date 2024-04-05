@@ -7,10 +7,10 @@
 | 01:30 | AUD | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
 | 01:30 | AUD | Trade Balance | 7.280B | 10.500B | 10.058B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Mar) | 0.3% | 1.5% | 1.6% |
 | 07:00 | EUR | German Factory Orders (MoM) (Feb) | 0.2% | 0.6% | -11.4% |
-| 40 min | CHF | SECO Consumer Climate |  | -41 | -42 |
+| 08:00 | CHF | SECO Consumer Climate | -38 | -41 | -42 |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Mar) |  | 49.8 | 49.7 |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Feb) |  | 75.5% | 75.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 4.1% | 4.3% |

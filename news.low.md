@@ -13,20 +13,20 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
 | 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | JPY | Leading Index | 111.8 | 111.6 | 109.5 |
-| 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
+| 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 07:00 | EUR | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
 | 07:00 | EUR | German Import Price Index (YoY) (Feb) | -4.9% | -4.6% | -5.9% |
-| 25 min | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -1.1% |
-| 40 min | CHF | Foreign Reserves (USD) (Mar) |  |  | 677.6B |
-| 40 min | EUR | Spanish Industrial Production (YoY) (Feb) |  | -0.5% | -0.6% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.3 |
-| 08:30 | EUR | HCOB Germany Construction PMI (Mar) |  |  | 39.1 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 41.9 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.9 |
+| 07:45 | EUR | French Industrial Production (MoM) (Feb) | 0.2% | 0.5% | -0.9% |
+| 08:00 | CHF | Foreign Reserves (USD) (Mar) | 715.1B |  | 677.8B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (Feb) | 1.5% | -0.5% | 0.3% |
+| 15 min | EUR | HCOB Italy Construction PMI (MoM) (Mar) |  |  | 50.3 |
+| 15 min | EUR | HCOB Germany Construction PMI (Mar) |  |  | 39.1 |
+| 15 min | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 41.9 |
+| 15 min | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.9 |
 | 10:00 | EUR | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.17% |
 | 12:30 | INR | Bank Loan Growth |  |  | 20.4% |
