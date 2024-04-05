@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:30 | JPY | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:30 | JPY | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 01:30 | AUD | Retail Sales (MoM) | 0.3% | 0.3% | 1.1% |
 | 01:30 | AUD | Trade Balance | 7.280B | 10.500B | 10.058B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
@@ -20,9 +20,9 @@
 | 13:30 | CAD | Employment Change (Mar) | -2.2K | 25.9K | 40.7K |
 | 13:30 | CAD | Unemployment Rate (Mar) | 6.1% | 5.9% | 5.8% |
 | 15:00 | CAD | Ivey PMI (Mar) | 57.5 | 54.2 | 53.9 |
-| 59 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 621 |
+| 17:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 621 |
 | 20:00 | USD | Consumer Credit (Feb) |  | 16.20B | 19.49B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 35.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 278.0K |
