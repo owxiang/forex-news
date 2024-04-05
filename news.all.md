@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Feb) | 6.86B |  | 3.05B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Feb) | 1.4% | 0.5% | -2.1% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Feb) | -0.5% | -2.8% | -6.3% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Mar) | 1,290.6B |  | 1,281.5B |
 | 01:30 | AUD | Low | Exports (MoM) | -2.2% |  | 1.5% |
 | 01:30 | AUD | Low | Imports (MoM) | 4.8% |  | 1.4% |
@@ -16,8 +16,8 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | JPY | Low | Leading Index | 111.8 | 111.6 | 109.5 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Mar) | -1.0% | 0.3% | 0.3% |
@@ -35,8 +35,8 @@
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Mar) | 50.2 | 49.8 | 49.7 |
 | 10:00 | EUR | Low | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 11:00 | CAD | Low | Leading Index (MoM) (Mar) | 0.26% |  | 0.25% |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Mar) | -0.30% |  | -0.41% |
 | 12:30 | INR | Low | Bank Loan Growth | 20.2% |  | 20.4% |
@@ -46,26 +46,26 @@
 | 12:30 | BRL | Low | Budget Balance (Feb) | -113.858B | -104.000B | 22.232B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) | -48.692B |  | 102.146B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 75.5% | 75.5% | 75.0% |
-| 2 min | USD | High | Average Hourly Earnings (MoM) (Mar) |  | 0.3% | 0.1% |
-| 2 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) |  | 4.1% | 4.3% |
-| 2 min | USD | Low | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
-| 2 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 2 min | USD | Low | Government Payrolls (Mar) |  |  | 52.0K |
-| 2 min | USD | Low | Manufacturing Payrolls (Mar) |  | 5K | -4K |
-| 2 min | USD | High | Nonfarm Payrolls (Mar) |  | 212K | 275K |
-| 2 min | USD | Moderate | Participation Rate (Mar) |  | 62.6% | 62.5% |
-| 2 min | USD | Moderate | Private Nonfarm Payrolls (Mar) |  | 160K | 223K |
-| 2 min | USD | Moderate | U6 Unemployment Rate (Mar) |  |  | 7.3% |
-| 2 min | USD | High | Unemployment Rate (Mar) |  | 3.9% | 3.9% |
-| 2 min | CAD | Low | Avg hourly wages Permanent employee (Mar) |  |  | 4.9% |
-| 2 min | CAD | Moderate | Employment Change (Mar) |  | 25.9K | 40.7K |
-| 2 min | CAD | Low | Full Employment Change (Mar) |  |  | 70.6K |
-| 2 min | CAD | Low | Part Time Employment Change (Mar) |  |  | -29.9K |
-| 2 min | CAD | Low | Participation Rate (Mar) |  |  | 65.3% |
-| 2 min | CAD | Moderate | Unemployment Rate (Mar) |  | 5.9% | 5.8% |
-| 47 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
-| 15:00 | CAD | Moderate | Ivey PMI (Mar) |  | 54.2 | 53.9 |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) | 4.1% | 4.1% | 4.3% |
+| 13:30 | USD | Low | Average Weekly Hours (Mar) | 34.4 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Fed Collins Speaks |  |  |  |
+| 13:30 | USD | Low | Government Payrolls (Mar) | 71.0K |  | 63.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Mar) | 0K | 5K | -10K |
+| 13:30 | USD | High | Nonfarm Payrolls (Mar) | 303K | 212K | 270K |
+| 13:30 | USD | Moderate | Participation Rate (Mar) | 62.7% | 62.6% | 62.5% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Mar) | 232K | 160K | 207K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Mar) | 7.3% |  | 7.3% |
+| 13:30 | USD | High | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.9% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Mar) | 5.0% |  | 4.9% |
+| 13:30 | CAD | Moderate | Employment Change (Mar) | -2.2K | 25.9K | 40.7K |
+| 13:30 | CAD | Low | Full Employment Change (Mar) | -0.7K |  | 70.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Mar) | -1.6K |  | -29.9K |
+| 13:30 | CAD | Low | Participation Rate (Mar) | 65.3% |  | 65.3% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Mar) | 6.1% | 5.9% | 5.8% |
+| 14:15 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 42 min | CAD | Low | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 42 min | CAD | Moderate | Ivey PMI (Mar) |  | 54.2 | 53.9 |
 | 17:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 621 |

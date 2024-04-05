@@ -11,8 +11,8 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) | -1.2% |  | -3.8% |
-| 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | JPY | Leading Index | 111.8 | 111.6 | 109.5 |
+| 06:00 | JPY | Leading Index (MoM) (Feb) | 2.3% |  | -0.4% |
 | 06:00 | SGD | Retail Sales (MoM) (Feb) | 3.0% |  | -0.5% |
 | 06:00 | SGD | Retail Sales (YoY) (Feb) | 8.4% |  | 1.6% |
 | 07:00 | EUR | German Import Price Index (MoM) (Feb) | -0.2% | -0.1% | 0.0% |
@@ -25,8 +25,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) | 41.0 |  | 41.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) | 42.4 |  | 42.9 |
 | 10:00 | EUR | Italian Public Deficit (Q4) | 5.5% |  | 6.1% |
-| 10:00 | EUR | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 10:00 | EUR | Retail Sales (MoM) (Feb) | -0.5% | -0.3% | 0.0% |
+| 10:00 | EUR | Retail Sales (YoY) (Feb) | -0.7% | -1.3% | -0.9% |
 | 11:00 | CAD | Leading Index (MoM) (Mar) | 0.26% |  | 0.25% |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) | -0.30% |  | -0.41% |
 | 12:30 | INR | Bank Loan Growth | 20.2% |  | 20.4% |
@@ -35,16 +35,16 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Feb) | 60.9% |  | 60.0% |
 | 12:30 | BRL | Budget Balance (Feb) | -113.858B | -104.000B | 22.232B |
 | 12:30 | BRL | Budget Surplus (Feb) | -48.692B |  | 102.146B |
-| 2 min | USD | Average Weekly Hours (Mar) |  | 34.3 | 34.3 |
-| 2 min | USD | Fed Collins Speaks |  |  |  |
-| 2 min | USD | Government Payrolls (Mar) |  |  | 52.0K |
-| 2 min | USD | Manufacturing Payrolls (Mar) |  | 5K | -4K |
-| 2 min | CAD | Avg hourly wages Permanent employee (Mar) |  |  | 4.9% |
-| 2 min | CAD | Full Employment Change (Mar) |  |  | 70.6K |
-| 2 min | CAD | Part Time Employment Change (Mar) |  |  | -29.9K |
-| 2 min | CAD | Participation Rate (Mar) |  |  | 65.3% |
-| 47 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 15:00 | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
+| 13:30 | USD | Average Weekly Hours (Mar) | 34.4 | 34.3 | 34.3 |
+| 13:30 | USD | Fed Collins Speaks |  |  |  |
+| 13:30 | USD | Government Payrolls (Mar) | 71.0K |  | 63.0K |
+| 13:30 | USD | Manufacturing Payrolls (Mar) | 0K | 5K | -10K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Mar) | 5.0% |  | 4.9% |
+| 13:30 | CAD | Full Employment Change (Mar) | -0.7K |  | 70.6K |
+| 13:30 | CAD | Part Time Employment Change (Mar) | -1.6K |  | -29.9K |
+| 13:30 | CAD | Participation Rate (Mar) | 65.3% |  | 65.3% |
+| 14:15 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 42 min | CAD | Ivey PMI n.s.a (Mar) |  |  | 56.3 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 3.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 23.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -178.0K |
