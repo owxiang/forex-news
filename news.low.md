@@ -7,14 +7,14 @@
 | 01:30 | AUD | Exports (MoM) | -2.2% |  | 1.5% |
 | 01:30 | AUD | Imports (MoM) | 4.8% |  | 1.3% |
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Mar) | 50.9 |  | 49.7 |
-| 05:00 | IDR | FX Reserves (USD) (Mar) |  |  | 144.00B |
+| 41 min | IDR | FX Reserves (USD) (Mar) | 140.40B |  | 144.00B |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Feb) |  |  | -3.8% |
 | 06:00 | JPY | Leading Index (MoM) (Feb) |  |  | -0.4% |
 | 06:00 | JPY | Leading Index |  | 111.6 | 109.5 |
-| 06:00 | SGD | Retail Sales (YoY) (Feb) |  |  | 1.3% |
 | 06:00 | SGD | Retail Sales (MoM) (Feb) |  |  | -0.7% |
+| 06:00 | SGD | Retail Sales (YoY) (Feb) |  |  | 1.3% |
 | 07:00 | EUR | German Import Price Index (MoM) (Feb) |  | -0.1% | 0.0% |
 | 07:00 | EUR | German Import Price Index (YoY) (Feb) |  | -4.6% | -5.9% |
 | 07:45 | EUR | French Industrial Production (MoM) (Feb) |  | 0.5% | -1.1% |
@@ -25,8 +25,8 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Mar) |  |  | 41.9 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Mar) |  |  | 42.9 |
 | 10:00 | EUR | Italian Public Deficit (Q4) |  |  | 5.0% |
-| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
 | 10:00 | EUR | Retail Sales (YoY) (Feb) |  | -1.3% | -1.0% |
+| 10:00 | EUR | Retail Sales (MoM) (Feb) |  | -0.3% | 0.1% |
 | 11:00 | BRL | IGP-DI Inflation Index (MoM) (Mar) |  |  | -0.41% |
 | 12:00 | CAD | Leading Index (MoM) (Mar) |  |  | 0.17% |
 | 12:30 | INR | Bank Loan Growth |  |  | 20.4% |
