@@ -46,8 +46,8 @@
 | 12:30 | BRL | Low | Budget Balance (Feb) | -113.858B | -104.000B | 22.232B |
 | 12:30 | BRL | Low | Budget Surplus (Feb) | -48.692B |  | 102.146B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Feb) | 75.5% | 75.5% | 75.0% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Mar) | 4.1% | 4.1% | 4.3% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Mar) | 0.3% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (Mar) | 34.4 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Fed Collins Speaks |  |  |  |
 | 13:30 | USD | Low | Government Payrolls (Mar) | 71.0K |  | 63.0K |
