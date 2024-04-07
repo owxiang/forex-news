@@ -1,3 +1,13 @@
-## 07 April 2024 - Moderate Impact Forex News
+## 08 April 2024 - Moderate Impact Forex News
 
-There is no moderate impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 34 min | JPY | Adjusted Current Account (Feb) |  | 1.99T | 2.73T |
+| 34 min | JPY | Current Account n.s.a. (Feb) |  | 3.112T | 0.438T |
+| 02:30 | AUD | Home Loans (MoM) |  | 2.3% | -4.6% |
+| 07:00 | EUR | German Industrial Production (MoM) (Feb) |  | 0.6% | 1.0% |
+| 07:00 | EUR | German Trade Balance (Feb) |  | 25.1B | 27.5B |
+| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
+| 16:15 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 23:00 | NZD | NZIER Business Confidence (Q1) |  |  | -2% |
