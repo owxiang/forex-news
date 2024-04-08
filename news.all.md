@@ -8,17 +8,17 @@
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Feb) | 2.644T | 3.112T | 0.438T |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 1.6% | 2.3% | -0.9% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.2% |  | -0.8% |
-| 41 min | JPY | Low | Economy Watchers Current Index (Mar) |  | 51.6 | 51.3 |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.4% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.2% | 2.2% |
-| 07:00 | EUR | Low | German Exports (MoM) (Feb) |  | -0.5% | 6.3% |
-| 07:00 | EUR | Low | German Imports (MoM) (Feb) |  | -1.0% | 3.6% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | 0.6% | 1.0% |
-| 07:00 | EUR | Moderate | German Trade Balance (Feb) |  | 25.1B | 27.5B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Feb) |  |  | -5.35% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.0% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 61.65B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 56.652B |
+| 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 49.8 | 51.6 | 51.3 |
+| 29 min | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.4% |
+| 29 min | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.2% | 2.2% |
+| 44 min | EUR | Low | German Exports (MoM) (Feb) |  | -0.5% | 6.3% |
+| 44 min | EUR | Low | German Imports (MoM) (Feb) |  | -1.0% | 3.6% |
+| 44 min | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | 0.6% | 1.0% |
+| 44 min | EUR | Moderate | German Trade Balance (Feb) |  | 25.1B | 27.5B |
+| 44 min | EUR | Low | German Industrial Production (YoY) (Feb) |  |  | -5.35% |
+| 44 min | NOK | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.0% |
+| 44 min | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 61.65B |
+| 44 min | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 56.652B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Mar) |  |  | 225,601.0M |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) |  | -8.3 | -10.5 |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
