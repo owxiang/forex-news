@@ -35,5 +35,6 @@
 | 16:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.225% |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.120% |  | 5.125% |
-| 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | -2% |
-| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.4% |
+| 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 46 min | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | -2% |
+| 46 min | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.4% |

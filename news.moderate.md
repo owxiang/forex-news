@@ -10,4 +10,4 @@
 | 10:20 | GBP | Mortgage Rate (GBP) (Mar) | 7.92% |  | 7.92% |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.00% |
 | 16:15 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 23:00 | NZD | NZIER Business Confidence (Q1) |  |  | -2% |
+| 46 min | NZD | NZIER Business Confidence (Q1) |  |  | -2% |
