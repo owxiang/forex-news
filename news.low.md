@@ -28,4 +28,4 @@
 | 16:30 | USD | 3-Month Bill Auction | 5.225% |  | 5.230% |
 | 16:30 | USD | 6-Month Bill Auction | 5.120% |  | 5.125% |
 | 18:00 | USD | Fed Goolsbee Speaks |  |  |  |
-| 46 min | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.4% |
+| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) | 90.2% |  | 91.4% |
