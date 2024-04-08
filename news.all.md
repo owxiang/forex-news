@@ -9,17 +9,17 @@
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 1.6% | 2.3% | -0.9% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.2% |  | -0.8% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 49.8 | 51.6 | 51.3 |
-| 29 min | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.4% |
-| 29 min | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.2% | 2.2% |
-| 44 min | EUR | Low | German Exports (MoM) (Feb) |  | -0.5% | 6.3% |
-| 44 min | EUR | Low | German Imports (MoM) (Feb) |  | -1.0% | 3.6% |
-| 44 min | EUR | Moderate | German Industrial Production (MoM) (Feb) |  | 0.6% | 1.0% |
-| 44 min | EUR | Moderate | German Trade Balance (Feb) |  | 25.1B | 27.5B |
-| 44 min | EUR | Low | German Industrial Production (YoY) (Feb) |  |  | -5.35% |
-| 44 min | NOK | Low | Manufacturing Production (MoM) (Feb) |  |  | 0.0% |
-| 44 min | ZAR | Low | Foreign Reserves (USD) (Mar) |  |  | 61.65B |
-| 44 min | ZAR | Low | Net FX Reserves (USD) (Mar) |  |  | 56.652B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Mar) |  |  | 225,601.0M |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 2.4% |  | 2.4% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) | 2.3% | 2.2% | 2.2% |
+| 07:00 | EUR | Low | German Exports (MoM) (Feb) | -2.0% | -0.5% | 6.3% |
+| 07:00 | EUR | Low | German Imports (MoM) (Feb) | 3.2% | -1.0% | 3.3% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) | 2.1% | 0.6% | 1.3% |
+| 07:00 | EUR | Moderate | German Trade Balance (Feb) | 21.4B | 25.1B | 21.4B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Feb) | -4.76% |  | -5.05% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Feb) | -1.1% |  | 0.0% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) | 62.32B |  | 61.65B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) | 57.513B |  | 56.652B |
+| 24 min | EUR | Low | French Reserve Assets Total (Mar) |  |  | 225,601.0M |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) |  | -8.3 | -10.5 |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 357.3B |
