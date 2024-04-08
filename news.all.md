@@ -22,7 +22,7 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Mar) | 238,902.0M |  | 225,601.0M |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -5.9 | -8.3 | -10.5 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 368.5B |  | 357.3B |
-| 13 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
+| 10:20 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 116.3B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.413% |
