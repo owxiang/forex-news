@@ -24,7 +24,7 @@
 | 14:00 | BRL | Auto Production (MoM) (Mar) | 3.2% |  | 24.3% |
 | 14:00 | BRL | Auto Sales (MoM) (Mar) | 13.6% |  | 2.2% |
 | 15:00 | USD | CB Employment Trends Index (Mar) | 112.84 |  | 111.85 |
-| 16:30 | GBP | BoE Breeden Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 5.125% |
+| 15 min | GBP | BoE Breeden Speaks |  |  |  |
+| 15 min | USD | 3-Month Bill Auction |  |  | 5.230% |
+| 15 min | USD | 6-Month Bill Auction |  |  | 5.125% |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.4% |

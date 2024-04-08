@@ -30,10 +30,10 @@
 | 14:00 | BRL | Low | Auto Production (MoM) (Mar) | 3.2% |  | 24.3% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Mar) | 13.6% |  | 2.2% |
 | 15:00 | USD | Low | CB Employment Trends Index (Mar) | 112.84 |  | 111.85 |
-| 44 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
-| 59 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 16:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.125% |
+| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.00% |
+| 16:15 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 15 min | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 15 min | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
+| 15 min | USD | Low | 6-Month Bill Auction |  |  | 5.125% |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) |  |  | -2% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) |  |  | 91.4% |
