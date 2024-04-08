@@ -1,40 +1,39 @@
-## 08 April 2024 - All Forex News
+## 09 April 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | Overall wage income of employees (Feb) | 1.8% | 1.8% | 2.0% |
-| 00:30 | JPY | Low | Overtime Pay (YoY) (Feb) | -1.00% |  | 0.40% |
-| 00:50 | JPY | Moderate | Adjusted Current Account (Feb) | 1.37T | 1.99T | 2.75T |
-| 00:50 | JPY | Moderate | Current Account n.s.a. (Feb) | 2.644T | 3.112T | 0.438T |
-| 02:30 | AUD | Moderate | Home Loans (MoM) | 1.6% | 2.3% | -0.9% |
-| 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.2% |  | -0.8% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Mar) | 49.8 | 51.6 | 51.3 |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) | 2.4% |  | 2.4% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) | 2.3% | 2.2% | 2.2% |
-| 07:00 | EUR | Low | German Exports (MoM) (Feb) | -2.0% | -0.5% | 6.3% |
-| 07:00 | EUR | Low | German Imports (MoM) (Feb) | 3.2% | -1.0% | 3.3% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Feb) | 2.1% | 0.6% | 1.3% |
-| 07:00 | EUR | Moderate | German Trade Balance (Feb) | 21.4B | 25.1B | 21.4B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Feb) | -4.76% |  | -5.05% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Feb) | -1.1% |  | 0.0% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) | 62.32B |  | 61.65B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) | 57.513B |  | 56.652B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Mar) | 238,902.0M |  | 225,601.0M |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -5.9 | -8.3 | -10.5 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 368.5B |  | 357.3B |
-| 10:20 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 7.92% |  | 7.92% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.461% |  | 3.413% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.827% |  | 3.815% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.697% |  | 3.722% |
-| 14:00 | BRL | Low | Auto Production (MoM) (Mar) | 3.2% |  | 24.3% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Mar) | 13.6% |  | 2.2% |
-| 15:00 | USD | Low | CB Employment Trends Index (Mar) | 112.84 |  | 111.85 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.00% |
-| 16:15 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 16:30 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.225% |  | 5.230% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 5.120% |  | 5.125% |
-| 18:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 23:00 | NZD | Moderate | NZIER Business Confidence (Q1) | -25% |  | -2% |
-| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q1) | 90.2% |  | 91.4% |
+| 00:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Mar) | 3.2% | 1.8% | 1.0% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) |  |  | -1.8% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Mar) |  |  | 0 |
+| 02:30 | AUD | Low | NAB Business Survey (Mar) |  |  | 10 |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.310% |
+| 06:00 | JPY | Low | Household Confidence (Mar) |  | 39.7 | 39.1 |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.0% |
+| 07:45 | EUR | Low | French Current Account (Feb) |  |  | -1.00B |
+| 07:45 | EUR | Low | French Exports (Feb) |  |  | 48.8B |
+| 07:45 | EUR | Low | French Imports (Feb) |  |  | 56.2B |
+| 07:45 | EUR | Low | French Trade Balance (Feb) |  | -7.0B | -7.4B |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 09:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) |  |  | 425.10B |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.467% |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.508% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.702% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 90.2 | 89.4 |
+| 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.50% | 0.49% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
+| 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.256% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.286M |

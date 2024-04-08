@@ -1,13 +1,13 @@
-## 08 April 2024 - Moderate Impact Forex News
+## 09 April 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Feb) | 1.37T | 1.99T | 2.75T |
-| 00:50 | JPY | Current Account n.s.a. (Feb) | 2.644T | 3.112T | 0.438T |
-| 02:30 | AUD | Home Loans (MoM) | 1.6% | 2.3% | -0.9% |
-| 07:00 | EUR | German Industrial Production (MoM) (Feb) | 2.1% | 0.6% | 1.3% |
-| 07:00 | EUR | German Trade Balance (Feb) | 21.4B | 25.1B | 21.4B |
-| 10:20 | GBP | Mortgage Rate (GBP) (Mar) | 7.92% |  | 7.92% |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.00% |  | 3.00% |
-| 16:15 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 23:00 | NZD | NZIER Business Confidence (Q1) | -25% |  | -2% |
+| 00:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Mar) | 3.2% | 1.8% | 1.0% |
+| 02:30 | AUD | NAB Business Confidence (Mar) |  |  | 0 |
+| 09:00 | CNY | New Loans |  | 3,700.0B | 1,450.0B |
+| 13:00 | MXN | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
+| 13:00 | MXN | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.256% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.286M |
