@@ -4,11 +4,11 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | Overall wage income of employees (Feb) | 1.8% | 1.8% | 2.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Feb) | -1.00% |  | 0.40% |
-| 00:50 | JPY | Moderate | Adjusted Current Account (Feb) | 136.86T | 1.99T | 274.63T |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Feb) | 1.37T | 1.99T | 2.75T |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Feb) | 2.644T | 3.112T | 0.438T |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 1.6% | 2.3% | -0.9% |
-| 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.2% |  | -2.6% |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Mar) |  | 51.6 | 51.3 |
+| 02:30 | AUD | Low | Invest Housing Finance (MoM) | 1.2% |  | -0.8% |
+| 41 min | JPY | Low | Economy Watchers Current Index (Mar) |  | 51.6 | 51.3 |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Mar) |  |  | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Mar) |  | 2.2% | 2.2% |
 | 07:00 | EUR | Low | German Exports (MoM) (Feb) |  | -0.5% | 6.3% |

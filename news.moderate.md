@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Feb) | 136.86T | 1.99T | 274.63T |
+| 00:50 | JPY | Adjusted Current Account (Feb) | 1.37T | 1.99T | 2.75T |
 | 00:50 | JPY | Current Account n.s.a. (Feb) | 2.644T | 3.112T | 0.438T |
 | 02:30 | AUD | Home Loans (MoM) | 1.6% | 2.3% | -0.9% |
 | 07:00 | EUR | German Industrial Production (MoM) (Feb) |  | 0.6% | 1.0% |
