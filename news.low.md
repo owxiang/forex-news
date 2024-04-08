@@ -15,8 +15,8 @@
 | 07:00 | ZAR | Foreign Reserves (USD) (Mar) | 62.32B |  | 61.65B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Mar) | 57.513B |  | 56.652B |
 | 07:45 | EUR | French Reserve Assets Total (Mar) | 238,902.0M |  | 225,601.0M |
-| 10 min | EUR | Sentix Investor Confidence (Apr) |  | -8.3 | -10.5 |
-| 40 min | SGD | Foreign Reserves USD (MoM) |  |  | 357.3B |
+| 09:30 | EUR | Sentix Investor Confidence (Apr) | -5.9 | -8.3 | -10.5 |
+| 10:00 | SGD | Foreign Reserves USD (MoM) | 368.5B |  | 357.3B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Reserve Assets Total (Mar) |  |  | 116.3B |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.413% |
