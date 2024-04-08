@@ -20,9 +20,9 @@
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) | 62.32B |  | 61.65B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) | 57.513B |  | 56.652B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Mar) | 238,902.0M |  | 225,601.0M |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Apr) |  | -8.3 | -10.5 |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 357.3B |
+| 10 min | EUR | Low | Sentix Investor Confidence (Apr) |  | -8.3 | -10.5 |
+| 40 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
+| 40 min | SGD | Low | Foreign Reserves USD (MoM) |  |  | 357.3B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 116.3B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.413% |
