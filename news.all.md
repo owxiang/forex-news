@@ -22,12 +22,11 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Mar) | 238,902.0M |  | 225,601.0M |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) | -5.9 | -8.3 | -10.5 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 368.5B |  | 357.3B |
-| 10:20 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.92% |
-| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:15 | CAD | Low | Reserve Assets Total (Mar) |  |  | 116.3B |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.413% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.815% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.722% |
+| 10:20 | GBP | Moderate | Mortgage Rate (GBP) (Mar) | 7.92% |  | 7.92% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 30 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.413% |
+| 30 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.815% |
+| 30 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.722% |
 | 14:30 | BRL | Low | Auto Production (MoM) (Mar) |  |  | 24.3% |
 | 14:30 | BRL | Low | Auto Sales (MoM) (Mar) |  |  | 2.2% |
 | 15:00 | USD | Low | CB Employment Trends Index (Mar) |  |  | 112.29 |
