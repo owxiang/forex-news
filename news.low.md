@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Overall wage income of employees (Feb) | 1.8% | 1.8% | 2.0% |
 | 00:30 | JPY | Overtime Pay (YoY) (Feb) | -1.00% |  | 0.40% |
-| 20 min | AUD | Invest Housing Finance (MoM) |  |  | -2.6% |
+| 02:30 | AUD | Invest Housing Finance (MoM) | 1.2% |  | -2.6% |
 | 06:00 | JPY | Economy Watchers Current Index (Mar) |  | 51.6 | 51.3 |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Mar) |  |  | 2.4% |
 | 06:45 | CHF | Unemployment Rate s.a. (Mar) |  | 2.2% | 2.2% |
