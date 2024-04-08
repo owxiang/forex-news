@@ -23,7 +23,7 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 3.697% |  | 3.722% |
 | 14:00 | BRL | Auto Production (MoM) (Mar) | 3.2% |  | 24.3% |
 | 14:00 | BRL | Auto Sales (MoM) (Mar) | 13.6% |  | 2.2% |
-| 43 min | USD | CB Employment Trends Index (Mar) |  |  | 112.29 |
+| 15:00 | USD | CB Employment Trends Index (Mar) | 112.84 |  | 111.85 |
 | 16:30 | GBP | BoE Breeden Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.125% |
