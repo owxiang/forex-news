@@ -19,7 +19,7 @@
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Feb) | -1.1% |  | 0.0% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Mar) | 62.32B |  | 61.65B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Mar) | 57.513B |  | 56.652B |
-| 24 min | EUR | Low | French Reserve Assets Total (Mar) |  |  | 225,601.0M |
+| 07:45 | EUR | Low | French Reserve Assets Total (Mar) | 238,902.0M |  | 225,601.0M |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Apr) |  | -8.3 | -10.5 |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 357.3B |
