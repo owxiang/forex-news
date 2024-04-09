@@ -10,15 +10,15 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.404% |  | 0.372% |
 | 06:00 | JPY | Low | Household Confidence (Mar) | 39.5 | 39.6 | 39.0 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | -8.5% |  | -8.0% |
-| 25 min | EUR | Low | French Current Account (Feb) |  |  | -1.00B |
-| 25 min | EUR | Low | French Exports (Feb) |  |  | 48.8B |
-| 25 min | EUR | Low | French Imports (Feb) |  |  | 56.2B |
-| 25 min | EUR | Low | French Trade Balance (Feb) |  | -7.0B | -7.4B |
-| 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 09:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 07:45 | EUR | Low | French Current Account (Feb) | 0.90B |  | -0.50B |
+| 07:45 | EUR | Low | French Exports (Feb) | 51.1B |  | 48.8B |
+| 07:45 | EUR | Low | French Imports (Feb) | 56.3B |  | 56.0B |
+| 07:45 | EUR | Low | French Trade Balance (Feb) | -5.2B | -7.0B | -7.2B |
+| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 44 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 44 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 44 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) |  |  | 425.10B |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.467% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
@@ -26,11 +26,11 @@
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.702% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 88.8 | 89.4 |
 | 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
