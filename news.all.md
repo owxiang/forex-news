@@ -19,21 +19,17 @@
 | 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.423% |  | 3.508% |
 | 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.621% |  | 3.702% |
 | 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.495% |  | 4.467% |
-| 13 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
-| 43 min | USD | Low | NFIB Small Business Optimism (Mar) |  | 88.8 | 89.4 |
-| 43 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 43 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 43 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 43 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.410% |  | 2.400% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) | 88.5 | 88.8 | 89.4 |
 | 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.256% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.286M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |

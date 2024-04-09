@@ -16,15 +16,12 @@
 | 09:40 | EUR | Spanish 12-Month Letras Auction | 3.423% |  | 3.508% |
 | 09:40 | EUR | Spanish 6-Month Letras Auction | 3.621% |  | 3.702% |
 | 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.495% |  | 4.467% |
-| 13 min | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
-| 43 min | USD | NFIB Small Business Optimism (Mar) |  | 88.8 | 89.4 |
-| 43 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 43 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 43 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 10:30 | EUR | German 5-Year Bobl Auction | 2.410% |  | 2.400% |
+| 11:00 | USD | NFIB Small Business Optimism (Mar) | 88.5 | 88.8 | 89.4 |
 | 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
-| 13:00 | MXN | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.40% |
+| 13:00 | MXN | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
