@@ -20,8 +20,8 @@
 | 11:00 | USD | NFIB Small Business Optimism (Mar) | 88.5 | 88.8 | 89.4 |
 | 13:00 | MXN | Core CPI (MoM) (Mar) | 0.44% | 0.51% | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Mar) | 4.55% | 4.62% | 4.64% |
-| 13:00 | MXN | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
 | 13:00 | MXN | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
+| 13:00 | MXN | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.2% |
 | 15:00 | USD | IBD/TIPP Economic Optimism | 43.2 | 44.2 | 43.5 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
