@@ -25,11 +25,11 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) | 4.42% | 4.50% | 4.40% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) | 0.29% | 0.36% | 0.09% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) | 4.55% | 4.62% | 4.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.2% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism | 43.2 | 44.2 | 43.5 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.548% |  | 4.256% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |

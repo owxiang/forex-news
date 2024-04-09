@@ -9,4 +9,4 @@
 | 13:00 | MXN | CPI (MoM) (Mar) | 0.29% | 0.36% | 0.09% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.548% |  | 4.256% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |
