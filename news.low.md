@@ -11,16 +11,16 @@
 | 07:45 | EUR | French Exports (Feb) | 51.1B |  | 48.8B |
 | 07:45 | EUR | French Imports (Feb) | 56.3B |  | 56.0B |
 | 07:45 | EUR | French Trade Balance (Feb) | -5.2B | -7.0B | -7.2B |
-| 44 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 44 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 44 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 44 min | EUR | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | Foreign Reserves (USD) (Mar) |  |  | 425.10B |
-| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.467% |
+| 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
+| 10 min | HKD | Foreign Reserves (USD) (Mar) |  |  | 425.10B |
+| 40 min | GBP | 20-Year Treasury Gilt Auction |  |  | 4.467% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.400% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.508% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.702% |
 | 11:00 | USD | NFIB Small Business Optimism (Mar) |  | 88.8 | 89.4 |
+| 11:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 11:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 11:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
 | 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
 | 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.40% |

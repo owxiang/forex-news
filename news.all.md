@@ -14,17 +14,17 @@
 | 07:45 | EUR | Low | French Exports (Feb) | 51.1B |  | 48.8B |
 | 07:45 | EUR | Low | French Imports (Feb) | 56.3B |  | 56.0B |
 | 07:45 | EUR | Low | French Trade Balance (Feb) | -5.2B | -7.0B | -7.2B |
-| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 44 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 44 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 44 min | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) |  |  | 425.10B |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.467% |
+| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
+| 10 min | HKD | Low | Foreign Reserves (USD) (Mar) |  |  | 425.10B |
+| 40 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.467% |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.508% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.702% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 88.8 | 89.4 |
+| 11:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 11:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 11:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
 | 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
