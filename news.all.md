@@ -32,4 +32,4 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.548% |  | 4.256% |
-| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 3.034M | 2.415M | -2.286M |
