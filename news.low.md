@@ -6,11 +6,11 @@
 | 02:30 | AUD | NAB Business Survey (Mar) | 9 |  | 10 |
 | 04:35 | JPY | 5-Year JGB Auction | 0.404% |  | 0.372% |
 | 06:00 | JPY | Household Confidence (Mar) | 39.5 | 39.6 | 39.0 |
-| 45 min | JPY | Machine Tool Orders (YoY) |  |  | -8.0% |
-| 07:45 | EUR | French Current Account (Feb) |  |  | -1.00B |
-| 07:45 | EUR | French Exports (Feb) |  |  | 48.8B |
-| 07:45 | EUR | French Imports (Feb) |  |  | 56.2B |
-| 07:45 | EUR | French Trade Balance (Feb) |  | -7.0B | -7.4B |
+| 07:00 | JPY | Machine Tool Orders (YoY) | -8.5% |  | -8.0% |
+| 25 min | EUR | French Current Account (Feb) |  |  | -1.00B |
+| 25 min | EUR | French Exports (Feb) |  |  | 48.8B |
+| 25 min | EUR | French Imports (Feb) |  |  | 56.2B |
+| 25 min | EUR | French Trade Balance (Feb) |  | -7.0B | -7.4B |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
 | 09:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
