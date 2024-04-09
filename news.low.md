@@ -23,5 +23,5 @@
 | 13:00 | MXN | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
 | 13:00 | MXN | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) | 5.4% |  | 5.2% |
-| 43 min | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
+| 19:00 | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |

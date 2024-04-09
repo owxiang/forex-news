@@ -28,8 +28,8 @@
 | 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.2% |
-| 43 min | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.256% |
+| 19:00 | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |
