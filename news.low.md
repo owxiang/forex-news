@@ -5,8 +5,8 @@
 | 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
 | 02:30 | AUD | NAB Business Survey (Mar) | 9 |  | 10 |
 | 04:35 | JPY | 5-Year JGB Auction | 0.404% |  | 0.372% |
-| 40 min | JPY | Household Confidence (Mar) |  | 39.6 | 39.1 |
-| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -8.0% |
+| 06:00 | JPY | Household Confidence (Mar) | 39.5 | 39.6 | 39.0 |
+| 45 min | JPY | Machine Tool Orders (YoY) |  |  | -8.0% |
 | 07:45 | EUR | French Current Account (Feb) |  |  | -1.00B |
 | 07:45 | EUR | French Exports (Feb) |  |  | 48.8B |
 | 07:45 | EUR | French Imports (Feb) |  |  | 56.2B |

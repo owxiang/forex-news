@@ -8,8 +8,8 @@
 | 02:30 | AUD | Moderate | NAB Business Confidence (Mar) | 1 |  | 0 |
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 9 |  | 10 |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.404% |  | 0.372% |
-| 40 min | JPY | Low | Household Confidence (Mar) |  | 39.6 | 39.1 |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.0% |
+| 06:00 | JPY | Low | Household Confidence (Mar) | 39.5 | 39.6 | 39.0 |
+| 45 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.0% |
 | 07:45 | EUR | Low | French Current Account (Feb) |  |  | -1.00B |
 | 07:45 | EUR | Low | French Exports (Feb) |  |  | 48.8B |
 | 07:45 | EUR | Low | French Imports (Feb) |  |  | 56.2B |
