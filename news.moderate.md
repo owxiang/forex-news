@@ -7,6 +7,6 @@
 | 02:30 | AUD | NAB Business Confidence (Mar) | 1 |  | 0 |
 | 13:00 | MXN | CPI (MoM) (Mar) | 0.29% | 0.36% | 0.09% |
 | 13:00 | MXN | CPI (YoY) (Mar) | 4.42% | 4.50% | 4.40% |
-| 43 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.256% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 41 min | USD | 3-Year Note Auction |  |  | 4.256% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 2.415M | -2.286M |
