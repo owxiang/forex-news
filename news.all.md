@@ -1,35 +1,68 @@
-## 09 April 2024 - All Forex News
+## 10 April 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Mar) | 3.2% | 1.8% | 1.0% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Mar) | 1 |  | 0 |
-| 02:30 | AUD | Low | NAB Business Survey (Mar) | 9 |  | 10 |
-| 04:35 | JPY | Low | 5-Year JGB Auction | 0.404% |  | 0.372% |
-| 06:00 | JPY | Low | Household Confidence (Mar) | 39.5 | 39.6 | 39.0 |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) | -8.5% |  | -8.0% |
-| 07:45 | EUR | Low | French Current Account (Feb) | 0.90B |  | -0.50B |
-| 07:45 | EUR | Low | French Exports (Feb) | 51.1B |  | 48.8B |
-| 07:45 | EUR | Low | French Imports (Feb) | 56.3B |  | 56.0B |
-| 07:45 | EUR | Low | French Trade Balance (Feb) | -5.2B | -7.0B | -7.2B |
-| 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Mar) | 423.60B |  | 425.20B |
-| 09:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.423% |  | 3.508% |
-| 09:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.621% |  | 3.702% |
-| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.495% |  | 4.467% |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction | 2.410% |  | 2.400% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) | 88.5 | 88.8 | 89.4 |
-| 13:00 | MXN | Low | Core CPI (MoM) (Mar) | 0.44% | 0.51% | 0.49% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Mar) | 4.42% | 4.50% | 4.40% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Mar) | 0.29% | 0.36% | 0.09% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) | 4.55% | 4.62% | 4.64% |
-| 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
-| 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.2% |
-| 15:00 | USD | Low | IBD/TIPP Economic Optimism | 43.2 | 44.2 | 43.5 |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 17:30 | CHF | Low | SNB Vice Chairman Schlegel Speaks |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 4.548% |  | 4.256% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 3.034M | 2.415M | -2.286M |
+| 34 min | JPY | Low | Bank Lending (YoY) (Mar) |  | 3.1% | 3.0% |
+| 34 min | JPY | Low | PPI (MoM) (Mar) |  | 0.3% | 0.2% |
+| 34 min | JPY | Low | PPI (YoY) (Mar) |  | 0.8% | 0.6% |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 07:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:00 | NOK | Low | Core CPI YTD (Mar) |  | 4.7% | 4.9% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Mar) |  | 0.4% | 0.4% |
+| 07:00 | NOK | Low | CPI (YoY) (Mar) |  | 4.2% | 4.5% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) |  | 0.5% | 0.2% |
+| 07:00 | NOK | Low | PPI (YoY) (Mar) |  |  | -12.6% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 09:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.314% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.546% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.91% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.6% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 145.6 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 195.6 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 453.5 |
+| 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
+| 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | USD | Low | Core CPI Index (Mar) |  | 316.57 | 315.57 |
+| 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
+| 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 311.05 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.62% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Mar) |  |  | 0.0% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -4.1% | 13.5% |
+| 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 14:45 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.5% | -0.3% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.7% |
+| 15:30 | USD | High | Crude Oil Inventories |  | 2.415M | 3.210M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.035M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.075M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.377M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.208M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.182M | -1.268M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.767M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.613M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.750M | -4.256M |
+| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Mar) |  |  | 0.4% |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.15 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.89 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 58.60 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 56.84 |
+| 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.166% |
+| 19:00 | USD | Moderate | Federal Budget Balance (Mar) |  | -191.2B | -296.0B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
