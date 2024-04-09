@@ -25,8 +25,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) | 4.42% | 4.50% | 4.40% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) | 0.29% | 0.36% | 0.09% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) | 4.55% | 4.62% | 4.64% |
-| 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Mar) | 2.00% |  | 1.40% |
+| 13:00 | MXN | Low | PPI (MoM) (Mar) | 0.80% |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.4% |  | 5.2% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism | 43.2 | 44.2 | 43.5 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
