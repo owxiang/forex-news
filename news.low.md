@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
-| 21 min | AUD | NAB Business Survey (Mar) |  |  | 10 |
+| 02:30 | AUD | NAB Business Survey (Mar) | 9 |  | 10 |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.310% |
 | 06:00 | JPY | Household Confidence (Mar) |  | 39.7 | 39.1 |
 | 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -8.0% |
