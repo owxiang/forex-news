@@ -7,7 +7,7 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Mar) | 1 |  | 0 |
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 9 |  | 10 |
-| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.310% |
+| 17 min | JPY | Low | 5-Year JGB Auction |  |  | 0.310% |
 | 06:00 | JPY | Low | Household Confidence (Mar) |  | 39.7 | 39.1 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.0% |
 | 07:45 | EUR | Low | French Current Account (Feb) |  |  | -1.00B |
@@ -29,8 +29,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
-| 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
+| 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |

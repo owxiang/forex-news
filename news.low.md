@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
 | 02:30 | AUD | NAB Business Survey (Mar) | 9 |  | 10 |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.310% |
+| 17 min | JPY | 5-Year JGB Auction |  |  | 0.310% |
 | 06:00 | JPY | Household Confidence (Mar) |  | 39.7 | 39.1 |
 | 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -8.0% |
 | 07:45 | EUR | French Current Account (Feb) |  |  | -1.00B |
@@ -23,8 +23,8 @@
 | 11:00 | USD | NFIB Small Business Optimism (Mar) |  | 90.2 | 89.4 |
 | 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.50% | 0.49% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
-| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.40% |
 | 13:00 | MXN | PPI (YoY) (Mar) |  |  | 1.40% |
+| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
