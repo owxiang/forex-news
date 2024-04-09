@@ -18,10 +18,10 @@
 | 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.495% |  | 4.467% |
 | 10:30 | EUR | German 5-Year Bobl Auction | 2.410% |  | 2.400% |
 | 11:00 | USD | NFIB Small Business Optimism (Mar) | 88.5 | 88.8 | 89.4 |
-| 13:00 | MXN | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
-| 13:00 | MXN | PPI (MoM) (Mar) |  |  | 0.40% |
-| 13:00 | MXN | PPI (YoY) (Mar) |  |  | 1.40% |
+| 47 min | MXN | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
+| 47 min | MXN | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
+| 47 min | MXN | PPI (MoM) (Mar) |  |  | 0.40% |
+| 47 min | MXN | PPI (YoY) (Mar) |  |  | 1.40% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.2% |
 | 15:00 | USD | IBD/TIPP Economic Optimism |  | 44.2 | 43.5 |
 | 17:30 | CHF | SNB Vice Chairman Schlegel Speaks |  |  |  |
