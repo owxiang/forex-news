@@ -7,8 +7,8 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Mar) | 1 |  | 0 |
 | 02:30 | AUD | Low | NAB Business Survey (Mar) | 9 |  | 10 |
-| 17 min | JPY | Low | 5-Year JGB Auction |  |  | 0.310% |
-| 06:00 | JPY | Low | Household Confidence (Mar) |  | 39.7 | 39.1 |
+| 04:35 | JPY | Low | 5-Year JGB Auction | 0.404% |  | 0.372% |
+| 40 min | JPY | Low | Household Confidence (Mar) |  | 39.6 | 39.1 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.0% |
 | 07:45 | EUR | Low | French Current Account (Feb) |  |  | -1.00B |
 | 07:45 | EUR | Low | French Exports (Feb) |  |  | 48.8B |
@@ -24,8 +24,8 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.400% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.508% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.702% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 90.2 | 89.4 |
-| 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.50% | 0.49% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 88.8 | 89.4 |
+| 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.51% | 0.49% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
