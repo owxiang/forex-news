@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Mar) | 3.2% | 1.8% | 1.0% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) |  |  | -1.8% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Mar) |  |  | 0 |
-| 02:30 | AUD | Low | NAB Business Survey (Mar) |  |  | 10 |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Apr) | -2.4% |  | -1.8% |
+| 21 min | AUD | Moderate | NAB Business Confidence (Mar) |  |  | 0 |
+| 21 min | AUD | Low | NAB Business Survey (Mar) |  |  | 10 |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.310% |
 | 06:00 | JPY | Low | Household Confidence (Mar) |  | 39.7 | 39.1 |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.0% |
@@ -26,8 +26,8 @@
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.702% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Mar) |  | 90.2 | 89.4 |
 | 13:00 | MXN | Low | Core CPI (MoM) (Mar) |  | 0.50% | 0.49% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Mar) |  | 0.36% | 0.09% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Mar) |  | 4.50% | 4.40% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Mar) |  | 4.62% | 4.64% |
 | 13:00 | MXN | Low | PPI (MoM) (Mar) |  |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Mar) |  |  | 1.40% |
