@@ -13,23 +13,23 @@
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | Low | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
-| 37 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.314% |
-| 47 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.546% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
+| 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.204% |  | 4.314% |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.546% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.91% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -0.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 145.6 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 195.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 453.5 |
-| 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
+| 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | USD | Low | Core CPI Index (Mar) |  | 316.57 | 315.57 |
-| 13:30 | USD | High | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
 | 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
 | 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 311.05 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.62% |
@@ -57,9 +57,9 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.89 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 58.60 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 56.84 |
-| 17:30 | USD | Moderate | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.166% |
+| 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |
 | 19:00 | USD | Moderate | Federal Budget Balance (Mar) |  | -209.4B | -296.0B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
