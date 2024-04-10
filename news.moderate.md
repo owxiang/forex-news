@@ -12,4 +12,5 @@
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.377M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
+| 17:30 | USD | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
 | 19:00 | USD | Federal Budget Balance (Mar) |  | -209.4B | -296.0B |

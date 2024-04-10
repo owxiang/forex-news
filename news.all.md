@@ -7,12 +7,12 @@
 | 00:50 | JPY | Low | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 45 min | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
-| 45 min | NOK | Low | Core CPI YTD (Mar) |  | 4.7% | 4.9% |
-| 45 min | NOK | Low | Core Inflation (MoM) (Mar) |  | 0.4% | 0.4% |
-| 45 min | NOK | Low | CPI (YoY) (Mar) |  | 4.2% | 4.5% |
-| 45 min | NOK | Low | CPI (MoM) (Mar) |  | 0.5% | 0.2% |
-| 45 min | NOK | Low | PPI (YoY) (Mar) |  |  | -12.6% |
+| 07:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
+| 07:00 | NOK | Low | Core CPI YTD (Mar) | 4.5% | 4.7% | 4.9% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Mar) | 0.2% | 0.4% | 0.4% |
+| 07:00 | NOK | Low | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
+| 07:00 | NOK | Low | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
+| 07:00 | NOK | Low | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
@@ -26,8 +26,8 @@
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 145.6 |
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 195.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 453.5 |
-| 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
+| 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
@@ -61,6 +61,7 @@
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.89 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 58.60 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 56.84 |
+| 17:30 | USD | Moderate | Atlanta Fed GDPNow |  | 2.5% | 2.5% |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.166% |

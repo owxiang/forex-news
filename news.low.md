@@ -5,12 +5,12 @@
 | 00:50 | JPY | Bank Lending (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
 | 00:50 | JPY | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
-| 45 min | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 45 min | NOK | Core CPI YTD (Mar) |  | 4.7% | 4.9% |
-| 45 min | NOK | Core Inflation (MoM) (Mar) |  | 0.4% | 0.4% |
-| 45 min | NOK | CPI (YoY) (Mar) |  | 4.2% | 4.5% |
-| 45 min | NOK | CPI (MoM) (Mar) |  | 0.5% | 0.2% |
-| 45 min | NOK | PPI (YoY) (Mar) |  |  | -12.6% |
+| 07:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
+| 07:00 | NOK | Core CPI YTD (Mar) | 4.5% | 4.7% | 4.9% |
+| 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.4% | 0.4% |
+| 07:00 | NOK | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
+| 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
+| 07:00 | NOK | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
