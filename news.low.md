@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
-| 00:50 | JPY | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
+| 00:50 | JPY | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 07:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 07:00 | NOK | Core CPI YTD (Mar) | 4.5% | 4.7% | 4.9% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.4% | 0.4% |
