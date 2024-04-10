@@ -11,8 +11,8 @@
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.204% |  | 4.314% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.01% |  | 6.91% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 0.1% |  | -0.6% |
