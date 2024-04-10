@@ -11,13 +11,10 @@
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 43 min | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
-| 43 min | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
-| 43 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 43 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 43 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.314% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.546% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
+| 37 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.314% |
+| 47 min | EUR | Italian 12-Month BOT Auction |  |  | 3.546% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.91% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 145.6 |
