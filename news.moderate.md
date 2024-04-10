@@ -7,9 +7,9 @@
 | 13:30 | USD | Core CPI (YoY) (Mar) | 3.8% | 3.7% | 3.8% |
 | 13:30 | CAD | Building Permits (MoM) (Feb) | 9.3% | -4.3% | 12.9% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 27 min | CAD | BoC Monetary Policy Report |  |  |  |
-| 27 min | CAD | BoC Rate Statement |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.377M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 16 min | USD | Cushing Crude Oil Inventories |  |  | -0.377M |
+| 16 min | CAD | BOC Press Conference |  |  |  |
 | 19:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |
 | 19:00 | USD | Federal Budget Balance (Mar) |  | -209.4B | -296.0B |
