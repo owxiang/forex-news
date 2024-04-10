@@ -11,8 +11,8 @@
 | 07:00 | NOK | CPI (YoY) (Mar) |  | 4.2% | 4.5% |
 | 07:00 | NOK | CPI (MoM) (Mar) |  | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) |  |  | -12.6% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
 | 09:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
