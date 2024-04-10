@@ -11,8 +11,8 @@
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.204% |  | 4.314% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.01% |  | 6.91% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 0.1% |  | -0.6% |
@@ -41,5 +41,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.02 |  | 47.89 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 59.82 |  | 58.60 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 53.31 |  | 56.84 |
-| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 23 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 23 min | USD | FOMC Member Barkin Speaks |  |  |  |
