@@ -21,9 +21,9 @@
 | 12:00 | USD | Low | MBA Purchase Index | 138.7 |  | 145.6 |
 | 12:00 | USD | Low | Mortgage Market Index | 195.7 |  | 195.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 498.3 |  | 453.5 |
-| 44 min | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
-| 44 min | BRL | Moderate | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
-| 44 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
+| 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 3.93% | 4.01% | 4.50% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.10% |  | 0.82% |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | USD | Low | Core CPI Index (Mar) |  | 316.57 | 315.57 |
@@ -34,7 +34,7 @@
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.62% |
 | 13:30 | USD | Low | Real Earnings (MoM) (Mar) |  |  | 0.0% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -4.3% | 13.5% |
-| 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 16 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |

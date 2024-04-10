@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 44 min | BRL | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
+| 13:00 | BRL | CPI (YoY) (Mar) | 3.93% | 4.01% | 4.50% |
 | 13:30 | USD | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | CAD | Building Permits (MoM) (Feb) |  | -4.3% | 13.5% |
-| 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 16 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.377M |

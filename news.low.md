@@ -19,8 +19,8 @@
 | 12:00 | USD | MBA Purchase Index | 138.7 |  | 145.6 |
 | 12:00 | USD | Mortgage Market Index | 195.7 |  | 195.6 |
 | 12:00 | USD | Mortgage Refinance Index | 498.3 |  | 453.5 |
-| 44 min | BRL | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
-| 44 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
+| 13:00 | BRL | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.10% |  | 0.82% |
 | 13:30 | USD | Core CPI Index (Mar) |  | 316.57 | 315.57 |
 | 13:30 | USD | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
 | 13:30 | USD | CPI Index, s.a (Mar) |  |  | 311.05 |
