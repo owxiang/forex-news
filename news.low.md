@@ -35,11 +35,11 @@
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.035M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.075M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.208M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.182M | -1.268M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -1.153M | -1.268M |
 | 15:30 | USD | Gasoline Production |  |  | 0.767M |
 | 15:30 | USD | Heating Oil Stockpiles |  |  | -0.613M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 15:30 | USD | Gasoline Inventories |  | -1.750M | -4.256M |
+| 15:30 | USD | Gasoline Inventories |  | -1.320M | -4.256M |
 | 16:00 | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.4% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.15 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.89 |
