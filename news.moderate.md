@@ -9,7 +9,7 @@
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 16 min | USD | Cushing Crude Oil Inventories |  |  | -0.377M |
-| 16 min | CAD | BOC Press Conference |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.170M |  | -0.377M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
 | 19:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.5% | 2.5% |
 | 19:00 | USD | Federal Budget Balance (Mar) |  | -209.4B | -296.0B |

@@ -11,8 +11,8 @@
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.204% |  | 4.314% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.01% |  | 6.91% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 0.1% |  | -0.6% |
@@ -28,18 +28,18 @@
 | 13:30 | USD | Real Earnings (MoM) (Mar) | 0.3% |  | 0.0% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Feb) | 0.5% | 0.5% | -0.3% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) | 2.3% | 0.8% | -1.4% |
-| 16 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.035M |
-| 16 min | USD | Crude Oil Imports |  |  | 0.075M |
-| 16 min | USD | Distillate Fuel Production |  |  | -0.208M |
-| 16 min | USD | EIA Weekly Distillates Stocks |  | -1.153M | -1.268M |
-| 16 min | USD | Gasoline Production |  |  | 0.767M |
-| 16 min | USD | Heating Oil Stockpiles |  |  | -0.613M |
-| 16 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.1% |
-| 16 min | USD | Gasoline Inventories |  | -1.320M | -4.256M |
-| 46 min | USD | Cleveland CPI (MoM) (Mar) |  |  | 0.4% |
-| 46 min | USD | Thomson Reuters IPSOS PCSI (Apr) |  |  | 53.15 |
-| 46 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.89 |
-| 46 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 58.60 |
-| 46 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) |  |  | 56.84 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.115M |  | -0.035M |
+| 15:30 | USD | Crude Oil Imports | 1.130M |  | 0.075M |
+| 15:30 | USD | Distillate Fuel Production | 0.033M |  | -0.208M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 1.659M | -1.153M | -1.268M |
+| 15:30 | USD | Gasoline Production | -0.538M |  | 0.767M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.478M |  | -0.613M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.3% |  | -0.1% |
+| 15:30 | USD | Gasoline Inventories | 0.715M | -1.320M | -4.256M |
+| 16:00 | USD | Cleveland CPI (MoM) (Mar) | 0.4% |  | 0.4% |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Apr) | 53.44 |  | 53.15 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 48.02 |  | 47.89 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 59.82 |  | 58.60 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Apr) | 53.31 |  | 56.84 |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | FOMC Member Barkin Speaks |  |  |  |
