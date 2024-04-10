@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | Bank Lending (YoY) (Mar) |  | 3.1% | 3.0% |
-| 34 min | JPY | PPI (MoM) (Mar) |  | 0.3% | 0.2% |
-| 34 min | JPY | PPI (YoY) (Mar) |  | 0.8% | 0.6% |
+| 00:50 | JPY | Bank Lending (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
+| 00:50 | JPY | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
+| 00:50 | JPY | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
 | 07:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 07:00 | NOK | Core CPI YTD (Mar) |  | 4.7% | 4.9% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) |  | 0.4% | 0.4% |
 | 07:00 | NOK | CPI (YoY) (Mar) |  | 4.2% | 4.5% |
 | 07:00 | NOK | CPI (MoM) (Mar) |  | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) |  |  | -12.6% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
 | 09:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
