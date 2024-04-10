@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Bank Lending (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
-| 00:50 | JPY | Low | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
 | 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 07:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -24,11 +24,11 @@
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 3.93% | 4.01% | 4.50% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.10% |  | 0.82% |
-| 13:30 | USD | High | Core CPI (MoM) (Mar) | 0.4% | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) | 3.8% | 3.7% | 3.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Mar) | 0.4% | 0.3% | 0.4% |
 | 13:30 | USD | Low | Core CPI Index (Mar) | 316.70 | 316.57 | 315.57 |
-| 13:30 | USD | High | CPI (YoY) (Mar) | 3.5% | 3.4% | 3.2% |
 | 13:30 | USD | High | CPI (MoM) (Mar) | 0.4% | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Mar) | 3.5% | 3.4% | 3.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Mar) | 312.33 | 312.10 | 310.33 |
 | 13:30 | USD | Low | CPI Index, s.a (Mar) | 312.23 |  | 311.05 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) | 0.65% |  | 0.62% |
