@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Bank Lending (YoY) (Mar) | 3.2% | 3.1% | 3.0% |
-| 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 00:50 | JPY | Low | PPI (YoY) (Mar) | 0.8% | 0.8% | 0.7% |
+| 00:50 | JPY | Low | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.2% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 07:00 | JPY | Low | BOJ Gov Ueda Speaks |  |  |  |
@@ -13,16 +13,16 @@
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | Low | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.204% |  | 4.314% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.01% |  | 6.91% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.1% |  | -0.6% |
 | 12:00 | USD | Low | MBA Purchase Index | 138.7 |  | 145.6 |
 | 12:00 | USD | Low | Mortgage Market Index | 195.7 |  | 195.6 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 498.3 |  | 453.5 |
-| 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 3.93% | 4.01% | 4.50% |
+| 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.10% |  | 0.82% |
 | 13:30 | USD | High | Core CPI (MoM) (Mar) | 0.4% | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) | 3.8% | 3.7% | 3.8% |
@@ -59,6 +59,6 @@
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 17:45 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.560% |  | 4.166% |
-| 47 min | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.4% | 2.5% | 2.5% |
-| 47 min | USD | Moderate | Federal Budget Balance (Mar) |  | -209.4B | -296.0B |
-| 47 min | USD | High | FOMC Meeting Minutes |  |  |  |
+| 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.4% | 2.5% | 2.5% |
+| 19:00 | USD | Moderate | Federal Budget Balance (Mar) | -236.0B | -209.4B | -296.0B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |

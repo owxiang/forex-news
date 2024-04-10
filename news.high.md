@@ -9,4 +9,4 @@
 | 14:45 | CAD | BoC Interest Rate Decision | 5.00% | 5.00% | 5.00% |
 | 15:30 | USD | Crude Oil Inventories | 5.841M | 0.900M | 3.210M |
 | 18:00 | USD | 10-Year Note Auction | 4.560% |  | 4.166% |
-| 47 min | USD | FOMC Meeting Minutes |  |  |  |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
