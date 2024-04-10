@@ -21,13 +21,13 @@
 | 12:00 | USD | Mortgage Refinance Index | 498.3 |  | 453.5 |
 | 13:00 | BRL | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.10% |  | 0.82% |
-| 13:30 | USD | Core CPI Index (Mar) |  | 316.57 | 315.57 |
-| 13:30 | USD | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
-| 13:30 | USD | CPI Index, s.a (Mar) |  |  | 311.05 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Mar) |  |  | 0.62% |
-| 13:30 | USD | Real Earnings (MoM) (Mar) |  |  | 0.0% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Feb) |  | 0.5% | -0.3% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.7% |
+| 13:30 | USD | Core CPI Index (Mar) | 316.70 | 316.57 | 315.57 |
+| 13:30 | USD | CPI Index, n.s.a. (Mar) | 312.33 | 312.10 | 310.33 |
+| 13:30 | USD | CPI Index, s.a (Mar) | 312.23 |  | 311.05 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Mar) | 0.65% |  | 0.62% |
+| 13:30 | USD | Real Earnings (MoM) (Mar) | 0.3% |  | 0.0% |
+| 42 min | USD | Wholesale Inventories (MoM) (Feb) |  | 0.5% | -0.3% |
+| 42 min | USD | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.7% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.035M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.075M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.208M |

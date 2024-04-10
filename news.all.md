@@ -24,22 +24,22 @@
 | 13:00 | BRL | Low | CPI (MoM) (Mar) | 0.16% | 0.25% | 0.83% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) | 3.93% | 4.01% | 4.50% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) | 0.10% |  | 0.82% |
-| 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
-| 13:30 | USD | Low | Core CPI Index (Mar) |  | 316.57 | 315.57 |
-| 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | USD | High | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
-| 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 311.05 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.62% |
-| 13:30 | USD | Low | Real Earnings (MoM) (Mar) |  |  | 0.0% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) |  | -4.3% | 13.5% |
-| 16 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.5% | -0.3% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.7% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Mar) | 3.8% | 3.7% | 3.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Mar) | 0.4% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Core CPI Index (Mar) | 316.70 | 316.57 | 315.57 |
+| 13:30 | USD | High | CPI (MoM) (Mar) | 0.4% | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Mar) | 3.5% | 3.4% | 3.2% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Mar) | 312.33 | 312.10 | 310.33 |
+| 13:30 | USD | Low | CPI Index, s.a (Mar) | 312.23 |  | 311.05 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) | 0.65% |  | 0.62% |
+| 13:30 | USD | Low | Real Earnings (MoM) (Mar) | 0.3% |  | 0.0% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Feb) | 9.3% | -4.3% | 12.9% |
+| 13:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 27 min | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
+| 27 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 27 min | CAD | High | BoC Interest Rate Decision |  | 5.00% | 5.00% |
+| 42 min | USD | Low | Wholesale Inventories (MoM) (Feb) |  | 0.5% | -0.3% |
+| 42 min | USD | Low | Wholesale Trade Sales (MoM) (Feb) |  |  | -1.7% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.900M | 3.210M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.035M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.075M |
