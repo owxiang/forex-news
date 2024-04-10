@@ -8,19 +8,19 @@
 | 07:00 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 07:00 | NOK | Core CPI YTD (Mar) | 4.5% | 4.7% | 4.9% |
 | 07:00 | NOK | Core Inflation (MoM) (Mar) | 0.2% | 0.4% | 0.4% |
-| 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
+| 07:00 | NOK | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Feb) | 0.1% | 0.2% | -0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Feb) | 2.4% |  | 1.0% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.204% |  | 4.314% |
-| 42 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.91% |
-| 42 min | USD | MBA Mortgage Applications (WoW) |  |  | -0.6% |
-| 42 min | USD | MBA Purchase Index |  |  | 145.6 |
-| 42 min | USD | Mortgage Market Index |  |  | 195.6 |
-| 42 min | USD | Mortgage Refinance Index |  |  | 453.5 |
-| 13:00 | BRL | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.01% |  | 6.91% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.1% |  | -0.6% |
+| 12:00 | USD | MBA Purchase Index | 138.7 |  | 145.6 |
+| 12:00 | USD | Mortgage Market Index | 195.7 |  | 195.6 |
+| 12:00 | USD | Mortgage Refinance Index | 498.3 |  | 453.5 |
+| 44 min | BRL | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
+| 44 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
 | 13:30 | USD | Core CPI Index (Mar) |  | 316.57 | 315.57 |
 | 13:30 | USD | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
 | 13:30 | USD | CPI Index, s.a (Mar) |  |  | 311.05 |

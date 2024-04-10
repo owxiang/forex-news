@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 03:00 | NZD | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 13:30 | USD | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
-| 13:30 | USD | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
 | 13:30 | USD | CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | USD | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
 | 14:45 | CAD | BoC Interest Rate Decision |  | 5.00% | 5.00% |
 | 15:30 | USD | Crude Oil Inventories |  | 0.900M | 3.210M |
 | 18:00 | USD | 10-Year Note Auction |  |  | 4.166% |

@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
+| 44 min | BRL | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
 | 13:30 | USD | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | CAD | Building Permits (MoM) (Feb) |  | -4.3% | 13.5% |
 | 13:45 | USD | FOMC Member Bowman Speaks |  |  |  |
