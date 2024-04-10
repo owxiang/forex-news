@@ -13,12 +13,12 @@
 | 07:00 | NOK | Low | CPI (YoY) (Mar) | 3.9% | 4.2% | 4.5% |
 | 07:00 | NOK | Low | CPI (MoM) (Mar) | 0.2% | 0.5% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Mar) | -6.9% |  | -12.6% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
-| 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 09:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 43 min | EUR | Low | Italian Retail Sales (YoY) (Feb) |  |  | 1.0% |
+| 43 min | EUR | Low | Italian Retail Sales (MoM) (Feb) |  | 0.2% | -0.1% |
+| 43 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 43 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 43 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 43 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
 | 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.314% |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.546% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.91% |
@@ -29,11 +29,11 @@
 | 13:00 | BRL | Moderate | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
 | 13:00 | BRL | Low | CPI (MoM) (Mar) |  | 0.25% | 0.83% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Mar) |  |  | 0.82% |
-| 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
+| 13:30 | USD | High | Core CPI (MoM) (Mar) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Core CPI Index (Mar) |  | 316.57 | 315.57 |
-| 13:30 | USD | High | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
 | 13:30 | USD | High | CPI (MoM) (Mar) |  | 0.3% | 0.4% |
+| 13:30 | USD | High | CPI (YoY) (Mar) |  | 3.4% | 3.2% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Mar) |  | 312.10 | 310.33 |
 | 13:30 | USD | Low | CPI Index, s.a (Mar) |  |  | 311.05 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.62% |

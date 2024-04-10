@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 09:00 | CNY | New Loans |  | 3,700.0B | 1,450.0B |
+| 43 min | CNY | New Loans |  | 3,700.0B | 1,450.0B |
 | 13:00 | BRL | CPI (YoY) (Mar) |  | 4.01% | 4.50% |
 | 13:30 | USD | Core CPI (YoY) (Mar) |  | 3.7% | 3.8% |
 | 13:30 | CAD | Building Permits (MoM) (Feb) |  | -4.3% | 13.5% |
