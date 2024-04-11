@@ -26,14 +26,14 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 44.07 |  | 43.61 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) | -0.3% | 0.4% | 0.4% |
-| 46 min | MXN | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
-| 46 min | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
-| 13:30 | USD | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.25K |
-| 13:30 | USD | PPI (YoY) (Mar) |  | 2.2% | 1.6% |
-| 13:45 | EUR | German Current Account Balance n.s.a |  |  | 29.7B |
+| 13:00 | MXN | Industrial Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) | 3.3% | 3.5% | 2.7% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% | 0.2% | 0.4% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) | 2.8% |  | 2.8% |
+| 13:30 | USD | Core PPI (YoY) (Mar) | 2.4% | 2.3% | 2.0% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 214.25K |  | 214.50K |
+| 13:30 | USD | PPI (YoY) (Mar) | 2.1% | 2.2% | 1.6% |
+| 15 min | EUR | German Current Account Balance n.s.a |  |  | 29.7B |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 14B | -37B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.265% |
