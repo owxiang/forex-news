@@ -15,8 +15,8 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 03:30 | IDR | Low | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 07:00 | GBP | Moderate | RICS House Price Balance (Mar) | -4% |  | -10% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:30 | ZAR | Low | Business Confidence (Feb) | 114.7 |  | 112.3 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -3.6% |  | -12.7% |
@@ -32,13 +32,13 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.67 |  | 47.15 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 44.07 |  | 43.61 |
-| 43 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 43 min | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
-| 43 min | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 3.3% | 4.1% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | -0.3% | 0.4% | 0.4% |
+| 46 min | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
+| 46 min | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
+| 46 min | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
+| 46 min | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 3.3% | 4.1% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 4.00% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
