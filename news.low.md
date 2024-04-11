@@ -31,8 +31,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
