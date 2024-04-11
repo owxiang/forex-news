@@ -18,23 +18,23 @@
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.85% |
-| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.06% |
-| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.24% |
-| 14 min | ZAR | Low | Business Confidence |  |  | 112.3 |
-| 14 min | ZAR | Low | Gold Production (YoY) (Feb) |  |  | -12.7% |
-| 14 min | ZAR | Low | Mining Production (Feb) |  | 3.5% | -3.3% |
-| 44 min | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.1 |
-| 44 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.94 |
-| 44 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.55 |
-| 44 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.72 |
-| 44 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.15 |
-| 44 min | BRL | Low | Foreign Exchange Flows |  |  | -0.540B |
-| 44 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 44 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
+| 10:30 | ZAR | Low | Business Confidence (Feb) | 114.7 |  | 112.3 |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -3.6% |  | -12.7% |
+| 10:30 | ZAR | Low | Mining Production (Feb) | 9.9% | 3.5% | -2.8% |
+| 10:31 | ZAR | Low | Business Confidence (Mar) | 114.7 |  | 114.7 |
+| 10:50 | EUR | Low | Italian 15-Year BTP Auction | 4.16% |  | 3.85% |
+| 10:50 | EUR | Low | Italian 3-Year BTP Auction | 3.32% |  | 3.06% |
+| 10:50 | EUR | Low | Italian 7-Year BTP Auction | 3.53% |  | 3.24% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) | 50.2 |  | 47.1 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) | 45.62 |  | 46.94 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) | 47.38 |  | 47.55 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) | 44.53 |  | 41.72 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.67 |  | 47.15 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 44.07 |  | 43.61 |
+| 43 min | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 43 min | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
+| 43 min | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
@@ -46,8 +46,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,791K |
-| 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.2% | 0.3% |
+| 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 216K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
 | 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.3% | 0.6% |
@@ -64,9 +64,10 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.331% |
 | 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.752B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.6% |

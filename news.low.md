@@ -11,21 +11,21 @@
 | 03:30 | IDR | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.85% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.06% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.24% |
-| 14 min | ZAR | Business Confidence |  |  | 112.3 |
-| 14 min | ZAR | Gold Production (YoY) (Feb) |  |  | -12.7% |
-| 14 min | ZAR | Mining Production (Feb) |  | 3.5% | -3.3% |
-| 44 min | GBP | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.1 |
-| 44 min | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.94 |
-| 44 min | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.55 |
-| 44 min | EUR | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.72 |
-| 44 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.15 |
-| 44 min | BRL | Foreign Exchange Flows |  |  | -0.540B |
-| 44 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
+| 10:30 | ZAR | Business Confidence (Feb) | 114.7 |  | 112.3 |
+| 10:30 | ZAR | Gold Production (YoY) (Feb) | -3.6% |  | -12.7% |
+| 10:30 | ZAR | Mining Production (Feb) | 9.9% | 3.5% | -2.8% |
+| 10:31 | ZAR | Business Confidence (Mar) | 114.7 |  | 114.7 |
+| 10:50 | EUR | Italian 15-Year BTP Auction | 4.16% |  | 3.85% |
+| 10:50 | EUR | Italian 3-Year BTP Auction | 3.32% |  | 3.06% |
+| 10:50 | EUR | Italian 7-Year BTP Auction | 3.53% |  | 3.24% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) | 50.2 |  | 47.1 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) | 45.62 |  | 46.94 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) | 47.38 |  | 47.55 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Apr) | 44.53 |  | 41.72 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 49.67 |  | 47.15 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 44.07 |  | 43.61 |
+| 43 min | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
+| 43 min | ZAR | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
@@ -39,6 +39,7 @@
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.265% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
 | 17:00 | USD | Fed Collins Speaks |  |  |  |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.752B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | FPI (MoM) (Mar) |  |  | -0.6% |

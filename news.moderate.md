@@ -9,8 +9,8 @@
 | 02:30 | CNY | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 07:00 | GBP | RICS House Price Balance (Mar) | -4% |  | -10% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
-| 44 min | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 43 min | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
 | 13:00 | BRL | Retail Sales (YoY) (Feb) |  | 3.3% | 4.1% |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |
