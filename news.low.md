@@ -7,10 +7,10 @@
 | 00:50 | JPY | M2 Money Stock (YoY) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | M3 Money Supply (Mar) | 2,141.1B |  | 2,140.1B |
 | 02:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.3% |
-| 20 min | AUD | Private House Approvals |  | 10.7% | -9.9% |
-| 04:00 | IDR | Consumer Confidence |  |  | 123.1 |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
+| 02:30 | AUD | Private House Approvals | 10.7% | 10.7% | -9.9% |
+| 35 min | IDR | Consumer Confidence |  |  | 123.1 |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
 | 09:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
@@ -31,8 +31,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |

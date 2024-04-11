@@ -8,14 +8,14 @@
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 2.5% | 2.4% | 2.4% |
 | 00:50 | JPY | Low | M3 Money Supply (Mar) | 2,141.1B |  | 2,140.1B |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.3% |
-| 20 min | AUD | Moderate | Building Approvals (MoM) |  | -1.9% | -1.0% |
-| 20 min | AUD | Low | Private House Approvals |  | 10.7% | -9.9% |
-| 20 min | CNY | Moderate | CPI (YoY) (Mar) |  | 0.4% | 0.7% |
-| 20 min | CNY | Moderate | CPI (MoM) (Mar) |  | -0.5% | 1.0% |
-| 20 min | CNY | Moderate | PPI (YoY) (Mar) |  | -2.8% | -2.7% |
-| 04:00 | IDR | Low | Consumer Confidence |  |  | 123.1 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) | -1.9% | -1.9% | -2.5% |
+| 02:30 | AUD | Low | Private House Approvals | 10.7% | 10.7% | -9.9% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
+| 35 min | IDR | Low | Consumer Confidence |  |  | 123.1 |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
@@ -40,8 +40,8 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 3.3% | 4.1% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 4.00% | 4.00% |
@@ -51,8 +51,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,791K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.2% | 0.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 216K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
 | 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.3% | 0.6% |
@@ -72,6 +72,6 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.6% |
