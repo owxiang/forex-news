@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.3% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) | -1.9% | -1.9% | -2.5% |
 | 02:30 | AUD | Low | Private House Approvals | 10.7% | 10.7% | -9.9% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 03:30 | IDR | Low | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 07:00 | GBP | Moderate | RICS House Price Balance (Mar) | -4% |  | -10% |
@@ -38,8 +38,8 @@
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 3.3% | 3.5% | 2.7% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -1.0% | 2.8% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 8.2% | 3.3% | 4.0% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -1.0% | 2.8% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) | 4.00% | 4.00% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -58,13 +58,12 @@
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage | 24B | 14B | -37B |
-| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.265% |
-| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
-| 43 min | USD | Low | Fed Collins Speaks |  |  |  |
-| 43 min | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.331% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.265% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.260% |
+| 17:00 | USD | Low | Fed Collins Speaks |  |  |  |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 42 min | USD | High | 30-Year Bond Auction |  |  | 4.331% |
 | 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.752B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |

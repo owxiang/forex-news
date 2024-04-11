@@ -36,10 +36,9 @@
 | 13:30 | USD | PPI (YoY) (Mar) | 2.1% | 2.2% | 1.6% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 24B | 14B | -37B |
-| 13 min | USD | 4-Week Bill Auction |  |  | 5.265% |
-| 13 min | USD | 8-Week Bill Auction |  |  | 5.260% |
-| 43 min | USD | Fed Collins Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.752B |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.265% |
+| 16:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.260% |
+| 17:00 | USD | Fed Collins Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | FPI (MoM) (Mar) |  |  | -0.6% |
