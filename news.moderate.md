@@ -11,8 +11,8 @@
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (Feb) | 8.2% | 3.3% | 4.0% |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) | 1.0% | -1.0% | 2.8% |
+| 13:00 | BRL | Retail Sales (YoY) (Feb) | 8.2% | 3.3% | 4.0% |
 | 13:15 | EUR | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,817K | 1,800K | 1,789K |
@@ -20,7 +20,7 @@
 | 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 15 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,440B |
 | 23:30 | NZD | Business NZ PMI (Mar) |  |  | 49.3 |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |

@@ -38,8 +38,8 @@
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 3.3% | 3.5% | 2.7% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 8.2% | 3.3% | 4.0% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -1.0% | 2.8% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 8.2% | 3.3% | 4.0% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) | 4.00% | 4.00% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -63,10 +63,10 @@
 | 17:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.671% |  | 4.331% |
-| 15 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.6% |
