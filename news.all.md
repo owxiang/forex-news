@@ -13,9 +13,9 @@
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
-| 35 min | IDR | Low | Consumer Confidence |  |  | 123.1 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
+| 04:00 | IDR | Low | Consumer Confidence |  |  | 123.1 |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
@@ -38,8 +38,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
