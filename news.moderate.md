@@ -21,6 +21,6 @@
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,440B |
+| 13 min | USD | Fed's Balance Sheet |  |  | 7,440B |
 | 23:30 | NZD | Business NZ PMI (Mar) |  |  | 49.3 |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |

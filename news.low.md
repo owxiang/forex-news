@@ -39,6 +39,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.265% |
 | 16:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.260% |
 | 17:00 | USD | Fed Collins Speaks |  |  |  |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
+| 13 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | FPI (MoM) (Mar) |  |  | -0.6% |

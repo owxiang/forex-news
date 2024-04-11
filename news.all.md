@@ -64,8 +64,8 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.671% |  | 4.331% |
 | 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
+| 13 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
+| 13 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
