@@ -15,8 +15,8 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 03:30 | IDR | Low | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 07:00 | GBP | Moderate | RICS House Price Balance (Mar) | -4% |  | -10% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:30 | ZAR | Low | Business Confidence (Feb) | 114.7 |  | 112.3 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -3.6% |  | -12.7% |
@@ -34,10 +34,10 @@
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 44.07 |  | 43.61 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (Feb) | 29.8B |  | 27.9B |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | -0.3% | 0.4% | 0.4% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | -0.3% | 0.4% | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 3.3% | 3.5% | 2.7% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -1.0% | 2.8% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) | 8.2% | 3.3% | 4.0% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) | 4.00% | 4.00% | 4.00% |
@@ -51,8 +51,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) | 2.4% | 2.3% | 2.1% |
 | 13:30 | USD | High | Initial Jobless Claims | 211K | 216K | 222K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.25K |  | 214.50K |
-| 13:30 | USD | Low | PPI (YoY) (Mar) | 2.1% | 2.2% | 1.6% |
 | 13:30 | USD | High | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.6% |
+| 13:30 | USD | Low | PPI (YoY) (Mar) | 2.1% | 2.2% | 1.6% |
 | 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -64,8 +64,8 @@
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.671% |  | 4.331% |
 | 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
-| 13 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,438B |  | 7,440B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.616T |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
