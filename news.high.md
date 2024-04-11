@@ -1,10 +1,6 @@
-## 11 April 2024 - High Impact Forex News
+## 12 April 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | EUR | Deposit Facility Rate (Apr) | 4.00% | 4.00% | 4.00% |
-| 13:15 | EUR | ECB Interest Rate Decision (Apr) | 4.50% | 4.50% | 4.50% |
-| 13:30 | USD | Initial Jobless Claims | 211K | 216K | 222K |
-| 13:30 | USD | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.6% |
-| 13:45 | EUR | ECB Press Conference |  |  |  |
-| 18:00 | USD | 30-Year Bond Auction | 4.671% |  | 4.331% |
+| 07:00 | GBP | GDP (MoM) (Feb) |  | 0.1% | 0.2% |
+| 07:00 | EUR | German CPI (MoM) (Mar) |  | 0.4% | 0.4% |
