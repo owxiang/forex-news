@@ -4,10 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance | -4% | -6% | -10% |
 | 02:30 | AUD | Building Approvals (MoM) | -1.9% | -1.9% | -2.5% |
-| 02:30 | CNY | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
+| 02:30 | CNY | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
-| 09:00 | CNY | New Loans |  | 3,700.0B | 1,450.0B |
+| 07:00 | GBP | RICS House Price Balance (Mar) | -4% |  | -10% |
+| 45 min | CNY | New Loans |  | 3,700.0B | 1,450.0B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |

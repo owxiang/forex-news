@@ -10,16 +10,17 @@
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.3% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) | -1.9% | -1.9% | -2.5% |
 | 02:30 | AUD | Low | Private House Approvals | 10.7% | 10.7% | -9.9% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 03:30 | IDR | Low | Car Sales (YoY) | -26.20% |  | -18.80% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
-| 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 09:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 09:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 07:00 | GBP | Moderate | RICS House Price Balance (Mar) | -4% |  | -10% |
+| 45 min | EUR | Low | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
+| 45 min | EUR | Low | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
+| 45 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 45 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 45 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 45 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | HKD | Low | Foreign Reserves (USD) |  |  | 425.10B |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.85% |
@@ -40,8 +41,8 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 3.3% | 4.1% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 4.00% | 4.00% |
@@ -72,6 +73,6 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Mar) |  |  | 2.5% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Mar) |  |  | -1.8% |
 | 23:45 | NZD | Low | FPI (MoM) (Mar) |  |  | -0.6% |

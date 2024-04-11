@@ -9,11 +9,11 @@
 | 02:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.3% |
 | 02:30 | AUD | Private House Approvals | 10.7% | 10.7% | -9.9% |
 | 03:30 | IDR | Car Sales (YoY) | -26.20% |  | -18.80% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
-| 09:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 09:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 09:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 45 min | EUR | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
+| 45 min | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
+| 45 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 45 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 45 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
 | 09:30 | HKD | Foreign Reserves (USD) |  |  | 425.10B |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.85% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.06% |
@@ -31,8 +31,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
+| 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
 | 13:30 | USD | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
