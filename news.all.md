@@ -62,8 +62,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.260% |
 | 17:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 42 min | USD | High | 30-Year Bond Auction |  |  | 4.331% |
-| 18:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.671% |  | 4.331% |
+| 15 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,440B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.541T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Mar) |  |  | 49.3 |
