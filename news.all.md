@@ -15,8 +15,8 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 03:30 | IDR | Low | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 07:00 | GBP | Moderate | RICS House Price Balance (Mar) | -4% |  | -10% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:30 | ZAR | Low | Business Confidence (Feb) | 114.7 |  | 112.3 |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Feb) | -3.6% |  | -12.7% |
@@ -33,8 +33,9 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 44.07 |  | 43.61 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
+| 12:00 | EUR | Low | German Current Account Balance n.s.a (Feb) | 29.8B |  | 27.9B |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) | -0.3% | 0.4% | 0.4% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) | 4.1% | 3.5% | 2.9% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) | -0.1% | 0.3% | 0.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) | 3.3% | 3.5% | 2.7% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) | 1.0% | -1.0% | 2.8% |
@@ -43,20 +44,19 @@
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.75% | 4.75% | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
 | 13:15 | EUR | High | ECB Interest Rate Decision (Apr) | 4.50% | 4.50% | 4.50% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% | 0.2% | 0.4% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) | 2.8% |  | 2.8% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) | 2.8% |  | 2.7% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,817K | 1,800K | 1,789K |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
-| 13:30 | USD | Low | Core PPI (YoY) (Mar) | 2.4% | 2.3% | 2.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Mar) | 2.4% | 2.3% | 2.1% |
 | 13:30 | USD | High | Initial Jobless Claims | 211K | 216K | 222K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.25K |  | 214.50K |
-| 13:30 | USD | High | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.6% |
 | 13:30 | USD | Low | PPI (YoY) (Mar) | 2.1% | 2.2% | 1.6% |
-| 15 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15 min | EUR | Low | German Current Account Balance n.s.a |  |  | 29.7B |
-| 15 min | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 13:30 | USD | High | PPI (MoM) (Mar) | 0.2% | 0.3% | 0.6% |
+| 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 43 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 58 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 14B | -37B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.265% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |

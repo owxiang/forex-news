@@ -17,8 +17,8 @@
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,817K | 1,800K | 1,789K |
 | 13:30 | USD | Core PPI (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
-| 15 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 13:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 58 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,440B |
