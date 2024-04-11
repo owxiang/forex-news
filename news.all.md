@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.6% |  | 4.3% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) | -1.9% | -1.9% | -2.5% |
 | 02:30 | AUD | Low | Private House Approvals | 10.7% | 10.7% | -9.9% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Mar) | -1.0% | -0.5% | 1.0% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 03:30 | IDR | Low | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
@@ -40,8 +40,8 @@
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Feb) |  | 3.3% | 4.1% |
 | 13:15 | EUR | High | Deposit Facility Rate (Apr) |  | 4.00% | 4.00% |
@@ -55,8 +55,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 216K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
-| 13:30 | USD | Low | PPI (YoY) (Mar) |  | 2.2% | 1.6% |
 | 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.3% | 0.6% |
+| 13:30 | USD | Low | PPI (YoY) (Mar) |  | 2.2% | 1.6% |
 | 13:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:45 | EUR | Low | German Current Account Balance n.s.a |  |  | 29.7B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
