@@ -8,8 +8,8 @@
 | 02:30 | CNY | CPI (YoY) (Mar) | 0.1% | 0.4% | 0.7% |
 | 02:30 | CNY | PPI (YoY) (Mar) | -2.8% | -2.8% | -2.7% |
 | 07:00 | GBP | RICS House Price Balance (Mar) | -4% |  | -10% |
-| 45 min | CNY | New Loans |  | 3,700.0B | 1,450.0B |
-| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 8 min | GBP | BOE Credit Conditions Survey |  |  |  |
+| 38 min | CNY | New Loans |  | 3,700.0B | 1,450.0B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:00 | BRL | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |

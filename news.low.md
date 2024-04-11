@@ -9,16 +9,16 @@
 | 02:00 | AUD | MI Inflation Expectations | 4.6% |  | 4.3% |
 | 02:30 | AUD | Private House Approvals | 10.7% | 10.7% | -9.9% |
 | 03:30 | IDR | Car Sales (YoY) | -26.20% |  | -18.80% |
-| 45 min | EUR | Italian Industrial Production (YoY) (Feb) |  |  | -3.4% |
-| 45 min | EUR | Italian Industrial Production (MoM) (Feb) |  | 0.6% | -1.2% |
-| 45 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 45 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 45 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 09:30 | HKD | Foreign Reserves (USD) |  |  | 425.10B |
-| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.85% |
-| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.06% |
-| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.24% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
+| 8 min | HKD | Foreign Reserves (USD) |  |  | 425.10B |
+| 38 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 38 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 38 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 48 min | EUR | Italian 15-Year BTP Auction |  |  | 3.85% |
+| 48 min | EUR | Italian 3-Year BTP Auction |  |  | 3.06% |
+| 48 min | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
+| 48 min | EUR | Italian 7-Year BTP Auction |  |  | 3.24% |
 | 10:30 | ZAR | Business Confidence |  |  | 112.3 |
 | 10:30 | ZAR | Gold Production (YoY) (Feb) |  |  | -12.7% |
 | 10:30 | ZAR | Mining Production (Feb) |  | 3.5% | -3.3% |
