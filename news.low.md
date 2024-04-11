@@ -11,26 +11,21 @@
 | 03:30 | IDR | Car Sales (YoY) | -26.20% |  | -18.80% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
-| 8 min | HKD | Foreign Reserves (USD) |  |  | 425.10B |
-| 38 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 38 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 38 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 48 min | EUR | Italian 15-Year BTP Auction |  |  | 3.85% |
-| 48 min | EUR | Italian 3-Year BTP Auction |  |  | 3.06% |
-| 48 min | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 48 min | EUR | Italian 7-Year BTP Auction |  |  | 3.24% |
-| 10:30 | ZAR | Business Confidence |  |  | 112.3 |
-| 10:30 | ZAR | Gold Production (YoY) (Feb) |  |  | -12.7% |
-| 10:30 | ZAR | Mining Production (Feb) |  | 3.5% | -3.3% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.1 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.94 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.55 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.72 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.15 |
-| 11:00 | BRL | Foreign Exchange Flows |  |  | -0.540B |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 3.85% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.06% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.24% |
+| 14 min | ZAR | Business Confidence |  |  | 112.3 |
+| 14 min | ZAR | Gold Production (YoY) (Feb) |  |  | -12.7% |
+| 14 min | ZAR | Mining Production (Feb) |  | 3.5% | -3.3% |
+| 44 min | GBP | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.1 |
+| 44 min | EUR | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.94 |
+| 44 min | EUR | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.55 |
+| 44 min | EUR | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.72 |
+| 44 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.15 |
+| 44 min | BRL | Foreign Exchange Flows |  |  | -0.540B |
+| 44 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 13:00 | MXN | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | MXN | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |

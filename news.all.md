@@ -17,30 +17,24 @@
 | 07:00 | GBP | Moderate | RICS House Price Balance (Mar) | -4% |  | -10% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Feb) | -3.1% |  | -3.7% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Feb) | 0.1% | 0.6% | -1.4% |
-| 8 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 8 min | HKD | Low | Foreign Reserves (USD) |  |  | 425.10B |
-| 38 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 38 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 38 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 38 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 48 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.85% |
-| 48 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.06% |
-| 48 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 48 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.24% |
-| 10:30 | ZAR | Low | Business Confidence |  |  | 112.3 |
-| 10:30 | ZAR | Low | Gold Production (YoY) (Feb) |  |  | -12.7% |
-| 10:30 | ZAR | Low | Mining Production (Feb) |  | 3.5% | -3.3% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.1 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.94 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.55 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.72 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.15 |
-| 11:00 | BRL | Low | Foreign Exchange Flows |  |  | -0.540B |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
+| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 3.85% |
+| 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.06% |
+| 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.24% |
+| 14 min | ZAR | Low | Business Confidence |  |  | 112.3 |
+| 14 min | ZAR | Low | Gold Production (YoY) (Feb) |  |  | -12.7% |
+| 14 min | ZAR | Low | Mining Production (Feb) |  | 3.5% | -3.3% |
+| 44 min | GBP | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.1 |
+| 44 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Apr) |  |  | 46.94 |
+| 44 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Apr) |  |  | 47.55 |
+| 44 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.72 |
+| 44 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 47.15 |
+| 44 min | BRL | Low | Foreign Exchange Flows |  |  | -0.540B |
+| 44 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 44 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 43.61 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Feb) |  | 0.4% | 0.8% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Feb) |  | 3.5% | 2.6% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Feb) |  | 0.3% | 0.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Feb) |  | 3.5% | 2.9% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Feb) |  | -1.0% | 2.5% |
@@ -52,8 +46,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Mar) |  |  | 2.8% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,791K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.2% | 0.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Mar) |  | 2.3% | 2.0% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Mar) |  | 0.2% | 0.3% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 216K | 221K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
 | 13:30 | USD | High | PPI (MoM) (Mar) |  | 0.3% | 0.6% |
