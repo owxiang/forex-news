@@ -1,60 +1,6 @@
-## 12 April 2024 - Low Impact Forex News
+## 14 April 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Mar) | 2.8% |  | 2.6% |
-| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 3.0% | 2.2% |
-| 01:00 | SGD | GDP (QoQ) | 0.1% |  | 1.2% |
-| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (Apr) | 3.50% | 3.50% | 3.50% |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 39.63 |  | 40.42 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 66.96 |  | 72.17 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 50.11 |  | 50.79 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 40.45 |  | 41.88 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 69.34 |  | 71.14 |
-| 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -0.5% |  | -7.9% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | -2.0% | -1.0% | 2.0% |
-| 07:00 | GBP | Construction Output (MoM) (Feb) | -1.9% | -0.4% | 1.1% |
-| 07:00 | GBP | GDP (YoY) (Feb) | -0.2% | -0.4% | -0.1% |
-| 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
-| 07:00 | GBP | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
-| 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
-| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
-| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
-| 07:45 | EUR | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
-| 07:45 | EUR | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
-| 07:45 | EUR | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 2.10% |  | 2.70% |
-| 08:00 | EUR | Core CPI (YoY) (Mar) | 3.3% |  | 3.5% |
-| 08:00 | EUR | Spanish CPI (MoM) (Mar) | 0.8% | 0.8% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Mar) | 1.4% | 1.3% | 0.4% |
-| 08:10 | CNY | Exports (Mar) | -3.80M |  | 10.60M |
-| 08:10 | CNY | Imports (Mar) | 2.00M |  | -3.90M |
-| 08:10 | CNY | Trade Balance (Mar) | 415.86B | 508.00B | 281.97B |
-| 09:00 | EUR | Italian Industrial Sales (YoY) (Jan) | -3.60% |  | -0.70% |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:00 | CNY | M2 Money Stock (YoY) (Mar) | 8.3% | 8.7% | 8.7% |
-| 12:00 | CNY | Outstanding Loan Growth (YoY) (Mar) | 9.6% | 9.9% | 10.1% |
-| 12:00 | CNY | Chinese Total Social Financing (Mar) | 4,870.0B | 4,700.0B | 1,560.0B |
-| 12:30 | INR | FX Reserves, USD | 648.56B |  | 645.58B |
-| 13:00 | INR | Industrial Production (YoY) (Feb) | 5.7% | 6.0% | 4.1% |
-| 13:00 | INR | Manufacturing Output (MoM) (Feb) | 5.0% |  | 3.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | -0.9% |  | 0.5% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
-| 13:30 | USD | Export Price Index (YoY) (Mar) | -1.4% | -1.2% | -1.8% |
-| 13:30 | USD | Import Price Index (YoY) (Mar) | 0.4% | 0.3% | -0.8% |
-| 13:45 | INR | Cumulative Industrial Production (Feb) | 5.90% |  | 5.90% |
-| 15:00 | USD | Michigan Current Conditions (Apr) | 79.3 | 82.2 | 82.5 |
-| 20:30 | USD | CFTC Aluminium speculative net positions | 2.6K |  | 2.6K |
-| 20:30 | USD | CFTC Copper speculative net positions | 42.7K |  | 20.3K |
-| 20:30 | USD | CFTC Corn speculative net positions | -190.2K |  | -181.3K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -127.9K |  | -118.7K |
-| 20:30 | USD | CFTC Silver speculative net positions | 53.2K |  | 53.1K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | -158.5K |  | -158.0K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -52.4K |  | -60.3K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -53.4K |  | -51.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 139.7K |  | 133.7K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -31.8K |  | -22.4K |
-| 20:30 | NZD | CFTC NZD speculative net positions | -13.5K |  | -7.5K |
+| 23:45 | NZD | External Migration & Visitors (Feb) |  |  | 21.70% |
+| 23:45 | NZD | Permanent/Long-Term Migration (Feb) |  |  | 2,870 |
