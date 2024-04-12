@@ -19,8 +19,8 @@
 | 07:00 | GBP | High | GDP (MoM) (Feb) | 0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Feb) | -0.2% | -0.4% | -0.1% |
 | 07:00 | GBP | Low | Index of Services | 0.2% | 0.1% | 0.0% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.0% | -0.3% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.0% | -0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) | 1.2% | 0.1% | -0.2% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) | 0.2% | 0.1% | -0.1% |
@@ -34,8 +34,8 @@
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.9% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 2.10% |  | 2.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.8% | 0.4% |
@@ -49,8 +49,8 @@
 | 08:10 | CNY | Moderate | Imports (YoY) (Mar) | -1.9% | 1.2% | 3.5% |
 | 08:10 | CNY | Moderate | Trade Balance (USD) (Mar) | 58.55B | 70.20B | 125.16B |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | -3.60% |  | -0.70% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 09:00 | EUR | Moderate | ECB Forecast |  |  |  |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -63,8 +63,8 @@
 | 12:30 | INR | Low | FX Reserves, USD | 648.56B |  | 645.58B |
 | 13:00 | INR | Low | Industrial Production (YoY) (Feb) | 5.7% | 6.0% | 4.1% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Feb) | 5.0% |  | 3.6% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) | -0.9% |  | 0.5% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
 | 13:30 | USD | Low | Export Price Index (YoY) (Mar) | -1.4% | -1.2% | -1.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) | 0.3% | 0.3% | 0.7% |
 | 13:30 | USD | Low | Import Price Index (YoY) (Mar) | 0.4% | 0.3% | -0.8% |

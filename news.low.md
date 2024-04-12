@@ -32,8 +32,8 @@
 | 08:10 | CNY | Exports (Mar) | -3.80M |  | 10.60M |
 | 08:10 | CNY | Imports (Mar) | 2.00M |  | -3.90M |
 | 08:10 | CNY | Trade Balance (Mar) | 415.86B | 508.00B | 281.97B |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jan) | -3.60% |  | -0.70% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | CNY | M2 Money Stock (YoY) (Mar) | 8.3% | 8.7% | 8.7% |
 | 12:00 | CNY | Outstanding Loan Growth (YoY) (Mar) | 9.6% | 9.9% | 10.1% |
@@ -41,8 +41,8 @@
 | 12:30 | INR | FX Reserves, USD | 648.56B |  | 645.58B |
 | 13:00 | INR | Industrial Production (YoY) (Feb) | 5.7% | 6.0% | 4.1% |
 | 13:00 | INR | Manufacturing Output (MoM) (Feb) | 5.0% |  | 3.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | -0.9% |  | 0.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
 | 13:30 | USD | Export Price Index (YoY) (Mar) | -1.4% | -1.2% | -1.8% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) | 0.4% | 0.3% | -0.8% |
 | 13:45 | INR | Cumulative Industrial Production (Feb) | 5.90% |  | 5.90% |
