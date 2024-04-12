@@ -2,6 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 04:00 | CNY | Exports (YoY) (Mar) | -7.5% | -3.0% | 7.1% |
+| 04:00 | CNY | Imports (YoY) (Mar) | -1.9% | 1.2% | 3.5% |
+| 04:00 | CNY | Trade Balance (USD) (Mar) | 58.55B | 70.20B | 125.16B |
 | 05:30 | JPY | Industrial Production (MoM) (Feb) | -0.6% | -0.1% | -6.7% |
 | 07:00 | GBP | Industrial Production (MoM) (Feb) | 1.1% | 0.0% | -0.3% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Feb) | 1.2% | 0.1% | -0.2% |
@@ -9,15 +12,12 @@
 | 07:00 | GBP | Trade Balance (Feb) | -14.21B | -14.50B | -14.10B |
 | 07:00 | GBP | Trade Balance Non-EU (Feb) | -2.90B |  | -3.34B |
 | 07:00 | EUR | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
-| 24 min | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.8% |
-| 24 min | EUR | French HICP (MoM) (Mar) |  | 0.3% | 0.9% |
-| 39 min | EUR | Spanish CPI (YoY) (Mar) |  | 3.2% | 2.8% |
-| 39 min | EUR | Spanish HICP (YoY) (Mar) |  | 3.2% | 2.9% |
-| 39 min | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
-| 39 min | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
-| 39 min | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | ECB Forecast |  |  |  |
+| 07:45 | EUR | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.8% |
+| 07:45 | EUR | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.9% |
+| 08:00 | EUR | Spanish CPI (YoY) (Mar) | 3.2% | 3.2% | 2.8% |
+| 08:00 | EUR | Spanish HICP (YoY) (Mar) | 3.3% | 3.2% | 2.9% |
+| 43 min | USD | IEA Monthly Report |  |  |  |
+| 43 min | EUR | ECB Forecast |  |  |  |
 | 10:00 | CNY | New Loans |  | 3,700.0B | 1,450.0B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | ECB's Elderson Speaks |  |  |  |
