@@ -22,13 +22,13 @@
 | 12:00 | CNY | New Loans (Mar) | 3,090.0B | 3,700.0B | 1,450.0B |
 | 12:00 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:25 | GBP | NIESR Monthly GDP Tracker | 0.4% |  | 0.2% |
-| 13:30 | USD | Export Price Index (MoM) (Mar) |  | 0.3% | 0.8% |
-| 13:30 | USD | Import Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
-| 31 min | INR | CPI (YoY) (Mar) |  | 4.91% | 5.09% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 2.9% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  |  | 2.8% |
-| 15:00 | USD | Michigan Consumer Expectations (Apr) |  | 77.6 | 77.4 |
-| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 79.0 | 79.4 |
+| 13:30 | USD | Export Price Index (MoM) (Mar) | 0.3% | 0.3% | 0.7% |
+| 13:30 | USD | Import Price Index (MoM) (Mar) | 0.4% | 0.3% | 0.3% |
+| 13:45 | INR | CPI (YoY) (Mar) | 4.85% | 4.91% | 5.09% |
+| 42 min | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 2.9% | 2.9% |
+| 42 min | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 2.8% | 2.8% |
+| 42 min | USD | Michigan Consumer Expectations (Apr) |  | 77.6 | 77.4 |
+| 42 min | USD | Michigan Consumer Sentiment (Apr) |  | 79.0 | 79.4 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 508 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 620 |
 | 19:30 | USD | FOMC Member Bostic Speaks |  |  |  |
