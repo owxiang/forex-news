@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Mar) | 2.8% |  | 2.6% |
-| 01:00 | SGD | GDP (QoQ) | 0.1% |  | 1.2% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 3.0% | 2.2% |
+| 01:00 | SGD | GDP (QoQ) | 0.1% |  | 1.2% |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Apr) | 3.50% | 3.50% | 3.50% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 39.63 |  | 40.42 |
@@ -21,8 +21,8 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
 | 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
-| 07:45 | EUR | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
+| 07:45 | EUR | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 2.10% |  | 2.70% |
@@ -34,12 +34,12 @@
 | 08:10 | CNY | Trade Balance (Mar) | 415.86B | 508.00B | 281.97B |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jan) | -3.60% |  | -0.70% |
-| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 4.5% |
-| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.7% |
-| 11:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 11:00 | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 11:00 | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 44 min | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 4.5% |
+| 44 min | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.7% |
+| 44 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 44 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 44 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 44 min | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 645.58B |
 | 13:00 | INR | Cumulative Industrial Production (Feb) |  |  | 5.90% |
 | 13:00 | INR | Industrial Production (YoY) (Feb) |  | 6.0% | 3.8% |

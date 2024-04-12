@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Mar) | 2.8% |  | 2.6% |
-| 01:00 | SGD | Low | GDP (QoQ) | 0.1% |  | 1.2% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 2.7% | 3.0% | 2.2% |
+| 01:00 | SGD | Low | GDP (QoQ) | 0.1% |  | 1.2% |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (Apr) | 3.50% | 3.50% | 3.50% |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 39.63 |  | 40.42 |
@@ -26,20 +26,20 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) | 0.2% | 0.1% | -0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Feb) | -14.21B | -14.50B | -14.10B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) | -2.90B |  | -3.34B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
 | 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.9% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 2.10% |  | 2.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 3.3% |  | 3.5% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.2% | 2.8% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.8% | 0.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.2% | 2.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.4% | 1.3% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.3% | 3.2% | 2.9% |
 | 08:10 | CNY | Low | Exports (Mar) | -3.80M |  | 10.60M |
@@ -52,14 +52,14 @@
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) | -3.60% |  | -0.70% |
 | 09:00 | EUR | Moderate | ECB Forecast |  |  |  |
-| 11:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 4.5% |
-| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.7% |
-| 11:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 11:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
-| 11:00 | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 11:00 | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 44 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 4.5% |
+| 44 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.7% |
+| 44 min | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
+| 44 min | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
+| 44 min | CNY | Low | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
+| 44 min | CNY | Low | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
+| 44 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 44 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 645.58B |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.0% |
