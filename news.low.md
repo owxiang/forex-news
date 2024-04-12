@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Mar) | 2.8% |  | 2.6% |
-| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 3.0% | 2.2% |
 | 01:00 | SGD | GDP (QoQ) | 0.1% |  | 1.2% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 3.0% | 2.2% |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (Apr) | 3.50% | 3.50% | 3.50% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 39.63 |  | 40.42 |
@@ -19,10 +19,10 @@
 | 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
-| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
-| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
+| 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
 | 07:45 | EUR | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) | 2.10% |  | 2.70% |
@@ -41,8 +41,8 @@
 | 12:30 | INR | FX Reserves, USD | 648.56B |  | 645.58B |
 | 13:00 | INR | Industrial Production (YoY) (Feb) | 5.7% | 6.0% | 4.1% |
 | 13:00 | INR | Manufacturing Output (MoM) (Feb) | 5.0% |  | 3.6% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) | -0.9% |  | 0.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) | 2.5% |  | 4.0% |
 | 13:30 | USD | Export Price Index (YoY) (Mar) | -1.4% | -1.2% | -1.8% |
 | 13:30 | USD | Import Price Index (YoY) (Mar) | 0.4% | 0.3% | -0.8% |
 | 13:45 | INR | Cumulative Industrial Production (Feb) | 5.90% |  | 5.90% |
