@@ -19,9 +19,10 @@
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | ECB Forecast |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 43 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
-| 13:00 | INR | CPI (YoY) (Mar) |  | 4.91% | 5.09% |
+| 12:00 | EUR | ECB's Elderson Speaks |  |  |  |
+| 12:03 | CNY | New Loans (Mar) | 3,090.0B |  | 1,450.0B |
+| 44 min | GBP | NIESR Monthly GDP Tracker |  |  | 0.0% |
+| 44 min | INR | CPI (YoY) (Mar) |  | 4.91% | 5.09% |
 | 13:30 | USD | Export Price Index (MoM) (Mar) |  | 0.3% | 0.8% |
 | 13:30 | USD | Import Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  |  | 2.9% |
