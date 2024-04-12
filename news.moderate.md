@@ -3,19 +3,19 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 05:30 | JPY | Industrial Production (MoM) (Feb) | -0.6% | -0.1% | -6.7% |
-| 42 min | GBP | Industrial Production (MoM) (Feb) |  | 0.0% | -0.2% |
-| 42 min | GBP | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.0% |
-| 42 min | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.1% | -0.1% |
-| 42 min | GBP | Trade Balance (Feb) |  | -14.50B | -14.52B |
-| 42 min | GBP | Trade Balance Non-EU (Feb) |  |  | -3.42B |
-| 42 min | EUR | German CPI (YoY) (Mar) |  | 2.2% | 2.5% |
-| 42 min | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
-| 42 min | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
-| 42 min | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
-| 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.8% |
-| 07:45 | EUR | French HICP (MoM) (Mar) |  | 0.3% | 0.9% |
-| 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.2% | 2.8% |
-| 08:00 | EUR | Spanish HICP (YoY) (Mar) |  | 3.2% | 2.9% |
+| 07:00 | GBP | Industrial Production (MoM) (Feb) | 1.1% | 0.0% | -0.3% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Feb) | 1.2% | 0.1% | -0.2% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) | 0.2% | 0.1% | -0.1% |
+| 07:00 | GBP | Trade Balance (Feb) | -14.21B | -14.50B | -14.10B |
+| 07:00 | GBP | Trade Balance Non-EU (Feb) | -2.90B |  | -3.34B |
+| 07:00 | EUR | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
+| 24 min | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.8% |
+| 24 min | EUR | French HICP (MoM) (Mar) |  | 0.3% | 0.9% |
+| 39 min | EUR | Spanish CPI (YoY) (Mar) |  | 3.2% | 2.8% |
+| 39 min | EUR | Spanish HICP (YoY) (Mar) |  | 3.2% | 2.9% |
+| 39 min | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
+| 39 min | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
+| 39 min | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
 | 09:00 | EUR | ECB Forecast |  |  |  |
 | 10:00 | CNY | New Loans |  | 3,700.0B | 1,450.0B |

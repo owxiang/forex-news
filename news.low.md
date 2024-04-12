@@ -13,25 +13,25 @@
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 40.45 |  | 41.88 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 69.34 |  | 71.14 |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -0.5% |  | -7.9% |
-| 42 min | GBP | Construction Output (MoM) (Feb) |  | -0.4% | 1.1% |
-| 42 min | GBP | U.K. Construction Output (YoY) (Feb) |  | -1.0% | 0.7% |
-| 42 min | GBP | GDP (YoY) (Feb) |  | -0.4% | -0.3% |
-| 42 min | GBP | Index of Services |  | 0.1% | 0.0% |
-| 42 min | GBP | Industrial Production (YoY) (Feb) |  | 0.6% | 0.5% |
-| 42 min | GBP | Manufacturing Production (YoY) (Feb) |  | 2.1% | 2.0% |
-| 42 min | EUR | German HICP (MoM) (Mar) |  | 0.6% | 0.6% |
-| 42 min | EUR | German HICP (YoY) (Mar) |  | 2.3% | 2.7% |
-| 42 min | CNY | Exports (Mar) |  |  | 10.30M |
-| 42 min | CNY | Imports (Mar) |  |  | 6.70M |
-| 42 min | CNY | Trade Balance (Mar) |  | 508.00B | 890.86B |
-| 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
-| 07:45 | EUR | French CPI NSA (YoY) (Mar) |  |  | 3.00% |
-| 07:45 | EUR | French CPI (YoY) |  | 2.3% | 3.0% |
-| 07:45 | EUR | French HICP (YoY) (Mar) |  | 2.4% | 3.2% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 2.70% |
-| 08:00 | EUR | Core CPI (YoY) (Mar) |  |  | 3.5% |
-| 08:00 | EUR | Spanish CPI (MoM) (Mar) |  | 0.8% | 0.4% |
-| 08:00 | EUR | Spanish HICP (MoM) (Mar) |  | 1.3% | 0.4% |
+| 07:00 | GBP | Construction Output (MoM) (Feb) | -1.9% | -0.4% | 1.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | -2.0% | -1.0% | 2.0% |
+| 07:00 | GBP | GDP (YoY) (Feb) | -0.2% | -0.4% | -0.1% |
+| 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
+| 07:00 | GBP | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
+| 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
+| 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
+| 24 min | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
+| 24 min | EUR | French CPI NSA (YoY) (Mar) |  |  | 3.00% |
+| 24 min | EUR | French CPI (YoY) |  | 2.3% | 3.0% |
+| 24 min | EUR | French HICP (YoY) (Mar) |  | 2.4% | 3.2% |
+| 24 min | EUR | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 2.70% |
+| 39 min | EUR | Core CPI (YoY) (Mar) |  |  | 3.5% |
+| 39 min | EUR | Spanish CPI (MoM) (Mar) |  | 0.8% | 0.4% |
+| 39 min | EUR | Spanish HICP (MoM) (Mar) |  | 1.3% | 0.4% |
+| 39 min | CNY | Exports (Mar) |  |  | 10.30M |
+| 39 min | CNY | Imports (Mar) |  |  | 6.70M |
+| 39 min | CNY | Trade Balance (Mar) |  | 508.00B | 890.86B |
 | 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) |  |  | 2.10% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jan) |  |  | -0.10% |
 | 10:00 | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
