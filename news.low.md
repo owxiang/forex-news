@@ -19,8 +19,8 @@
 | 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
-| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |

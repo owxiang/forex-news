@@ -21,27 +21,27 @@
 | 07:00 | GBP | Low | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) | 1.1% | 0.0% | -0.3% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) | 1.2% | 0.1% | -0.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) | 0.2% | 0.1% | -0.1% |
 | 07:00 | GBP | Moderate | Trade Balance (Feb) | -14.21B | -14.50B | -14.10B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) | -2.90B |  | -3.34B |
-| 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) | 2.2% | 2.2% | 2.5% |
-| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
+| 07:00 | EUR | High | German CPI (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) | 0.2% | 0.2% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) | 0.2% | 0.3% | 0.9% |
 | 07:45 | EUR | Low | French HICP (YoY) (Mar) | 2.4% | 2.4% | 3.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) | 2.10% |  | 2.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) | 3.3% |  | 3.5% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.8% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) | 3.2% | 3.2% | 2.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.4% | 1.3% | 0.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) | 0.8% | 0.8% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) | 3.3% | 3.2% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) | 1.4% | 1.3% | 0.4% |
 | 08:10 | CNY | Low | Exports (Mar) | -3.80M |  | 10.60M |
 | 08:10 | CNY | Low | Imports (Mar) | 2.00M |  | -3.90M |
 | 08:10 | CNY | Low | Trade Balance (Mar) | 415.86B | 508.00B | 281.97B |
@@ -76,8 +76,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 77.0 | 77.6 | 77.4 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 77.9 | 79.0 | 79.4 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 79.3 | 82.2 | 82.5 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 508 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 620 |
+| 40 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 508 |
+| 40 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 620 |
 | 19:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 43.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.6K |
