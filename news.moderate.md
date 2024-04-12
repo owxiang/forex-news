@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:00 | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
-| 04:00 | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
-| 04:00 | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
-| 05:30 | JPY | Industrial Production (MoM) (Feb) |  | -0.1% | -6.7% |
+| 10 min | JPY | Industrial Production (MoM) (Feb) |  | -0.1% | -6.7% |
+| 10 min | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
+| 10 min | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
+| 10 min | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
 | 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.0% | -0.2% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.0% |
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.1% | -0.1% |
