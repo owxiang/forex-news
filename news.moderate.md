@@ -31,7 +31,7 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Apr) | 77.9 | 79.0 | 79.4 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 508 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 617 |  | 620 |
-| 19:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 14 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 43.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 300.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 207.2K |
