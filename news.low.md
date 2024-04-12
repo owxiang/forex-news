@@ -13,14 +13,14 @@
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 40.45 |  | 41.88 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 69.34 |  | 71.14 |
 | 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -0.5% |  | -7.9% |
-| 07:00 | GBP | Construction Output (MoM) (Feb) | -1.9% | -0.4% | 1.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Feb) | -2.0% | -1.0% | 2.0% |
+| 07:00 | GBP | Construction Output (MoM) (Feb) | -1.9% | -0.4% | 1.1% |
 | 07:00 | GBP | GDP (YoY) (Feb) | -0.2% | -0.4% | -0.1% |
 | 07:00 | GBP | Index of Services | 0.2% | 0.1% | 0.0% |
 | 07:00 | GBP | Industrial Production (YoY) (Feb) | 1.4% | 0.6% | 0.3% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Feb) | 2.7% | 2.1% | 1.5% |
-| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:00 | EUR | German HICP (YoY) (Mar) | 2.3% | 2.3% | 2.7% |
+| 07:00 | EUR | German HICP (MoM) (Mar) | 0.6% | 0.6% | 0.6% |
 | 07:45 | EUR | French CPI NSA (MoM) (Mar) | 0.20% |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) | 2.30% |  | 3.00% |
 | 07:45 | EUR | French CPI (YoY) (Mar) | 2.3% | 2.3% | 3.0% |
@@ -32,18 +32,15 @@
 | 08:10 | CNY | Exports (Mar) | -3.80M |  | 10.60M |
 | 08:10 | CNY | Imports (Mar) | 2.00M |  | -3.90M |
 | 08:10 | CNY | Trade Balance (Mar) | 415.86B | 508.00B | 281.97B |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Jan) | -3.60% |  | -0.70% |
-| 44 min | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 4.5% |
-| 44 min | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.7% |
-| 44 min | CNY | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
-| 44 min | CNY | Outstanding Loan Growth (YoY) |  | 9.9% | 10.1% |
-| 44 min | CNY | Chinese Total Social Financing |  | 4,700.0B | 1,560.0B |
-| 44 min | EUR | ECOFIN Meetings |  |  |  |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Jan) | -3.10% |  | 1.00% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:30 | INR | FX Reserves, USD |  |  | 645.58B |
 | 13:00 | INR | Cumulative Industrial Production (Feb) |  |  | 5.90% |
 | 13:00 | INR | Industrial Production (YoY) (Feb) |  | 6.0% | 3.8% |
 | 13:00 | INR | Manufacturing Output (MoM) (Feb) |  |  | 3.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Feb) |  |  | 0.7% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Feb) |  |  | 4.5% |
 | 13:30 | USD | Export Price Index (YoY) |  |  | -1.8% |
 | 13:30 | USD | Import Price Index (YoY) |  |  | -0.8% |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 82.2 | 82.5 |
