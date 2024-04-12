@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 10 min | JPY | Industrial Production (MoM) (Feb) |  | -0.1% | -6.7% |
-| 10 min | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
-| 10 min | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
-| 10 min | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
-| 07:00 | GBP | Industrial Production (MoM) (Feb) |  | 0.0% | -0.2% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.0% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.1% | -0.1% |
-| 07:00 | GBP | Trade Balance (Feb) |  | -14.50B | -14.52B |
-| 07:00 | GBP | Trade Balance Non-EU (Feb) |  |  | -3.42B |
-| 07:00 | EUR | German CPI (YoY) (Mar) |  | 2.2% | 2.5% |
+| 05:30 | JPY | Industrial Production (MoM) (Feb) | -0.6% | -0.1% | -6.7% |
+| 42 min | GBP | Industrial Production (MoM) (Feb) |  | 0.0% | -0.2% |
+| 42 min | GBP | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.0% |
+| 42 min | GBP | Monthly GDP 3M/3M Change (Feb) |  | 0.1% | -0.1% |
+| 42 min | GBP | Trade Balance (Feb) |  | -14.50B | -14.52B |
+| 42 min | GBP | Trade Balance Non-EU (Feb) |  |  | -3.42B |
+| 42 min | EUR | German CPI (YoY) (Mar) |  | 2.2% | 2.5% |
+| 42 min | CNY | Exports (YoY) (Mar) |  | -3.0% | 7.1% |
+| 42 min | CNY | Imports (YoY) (Mar) |  | 1.2% | 3.5% |
+| 42 min | CNY | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
 | 07:45 | EUR | French CPI (MoM) (Mar) |  | 0.2% | 0.8% |
 | 07:45 | EUR | French HICP (MoM) (Mar) |  | 0.3% | 0.9% |
 | 08:00 | EUR | Spanish CPI (YoY) (Mar) |  | 3.2% | 2.8% |

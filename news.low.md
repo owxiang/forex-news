@@ -12,18 +12,18 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Apr) | 50.11 |  | 50.79 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Apr) | 40.45 |  | 41.88 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Apr) | 69.34 |  | 71.14 |
-| 10 min | JPY | Capacity Utilization (MoM) (Feb) |  |  | -7.9% |
-| 10 min | CNY | Exports (Mar) |  |  | 10.30M |
-| 10 min | CNY | Imports (Mar) |  |  | 6.70M |
-| 10 min | CNY | Trade Balance (Mar) |  | 508.00B | 890.86B |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Feb) |  | -1.0% | 0.7% |
-| 07:00 | GBP | Construction Output (MoM) (Feb) |  | -0.4% | 1.1% |
-| 07:00 | GBP | GDP (YoY) (Feb) |  | -0.4% | -0.3% |
-| 07:00 | GBP | Index of Services |  | 0.1% | 0.0% |
-| 07:00 | GBP | Industrial Production (YoY) (Feb) |  | 0.6% | 0.5% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Feb) |  | 2.1% | 2.0% |
-| 07:00 | EUR | German HICP (YoY) (Mar) |  | 2.3% | 2.7% |
-| 07:00 | EUR | German HICP (MoM) (Mar) |  | 0.6% | 0.6% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Feb) | -0.5% |  | -7.9% |
+| 42 min | GBP | Construction Output (MoM) (Feb) |  | -0.4% | 1.1% |
+| 42 min | GBP | U.K. Construction Output (YoY) (Feb) |  | -1.0% | 0.7% |
+| 42 min | GBP | GDP (YoY) (Feb) |  | -0.4% | -0.3% |
+| 42 min | GBP | Index of Services |  | 0.1% | 0.0% |
+| 42 min | GBP | Industrial Production (YoY) (Feb) |  | 0.6% | 0.5% |
+| 42 min | GBP | Manufacturing Production (YoY) (Feb) |  | 2.1% | 2.0% |
+| 42 min | EUR | German HICP (MoM) (Mar) |  | 0.6% | 0.6% |
+| 42 min | EUR | German HICP (YoY) (Mar) |  | 2.3% | 2.7% |
+| 42 min | CNY | Exports (Mar) |  |  | 10.30M |
+| 42 min | CNY | Imports (Mar) |  |  | 6.70M |
+| 42 min | CNY | Trade Balance (Mar) |  | 508.00B | 890.86B |
 | 07:45 | EUR | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
 | 07:45 | EUR | French CPI NSA (YoY) (Mar) |  |  | 3.00% |
 | 07:45 | EUR | French CPI (YoY) |  | 2.3% | 3.0% |
