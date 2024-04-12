@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Mar) | 2.8% |  | 2.6% |
-| 43 min | SGD | Low | GDP (YoY) (Q1) |  | 3.0% | 2.2% |
-| 43 min | SGD | Low | GDP (QoQ) |  |  | 1.2% |
-| 02:00 | KRW | Low | Interest Rate Decision (Apr) |  | 3.50% | 3.50% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 40.42 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 72.17 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 50.79 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.88 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 71.14 |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 2.7% | 3.0% | 2.2% |
+| 01:00 | SGD | Low | GDP (QoQ) | 0.1% |  | 1.2% |
+| 02:00 | KRW | Low | Interest Rate Decision (Apr) | 3.50% | 3.50% | 3.50% |
+| 51 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 40.42 |
+| 51 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 72.17 |
+| 51 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Apr) |  |  | 50.79 |
+| 50 min | JPY | Low | Thomson Reuters IPSOS PCSI (Apr) |  |  | 41.88 |
+| 50 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Apr) |  |  | 71.14 |
 | 04:00 | CNY | Low | Exports (Mar) |  |  | 10.30M |
 | 04:00 | CNY | Low | Imports (Mar) |  |  | 6.70M |
 | 04:00 | CNY | Low | Trade Balance (Mar) |  | 508.00B | 890.86B |
@@ -19,13 +19,13 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Mar) |  | 70.20B | 125.16B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Feb) |  |  | -7.9% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Feb) |  | -0.1% | -6.7% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Feb) |  | -0.4% | 1.1% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Feb) |  | -1.0% | 0.7% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Feb) |  | -0.4% | 1.1% |
 | 07:00 | GBP | High | GDP (MoM) (Feb) |  | 0.1% | 0.2% |
 | 07:00 | GBP | Low | GDP (YoY) (Feb) |  | -0.4% | -0.3% |
 | 07:00 | GBP | Low | Index of Services |  | 0.1% | 0.0% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Feb) |  | 0.6% | 0.5% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Feb) |  | 0.0% | -0.2% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Feb) |  | 0.6% | 0.5% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Feb) |  | 2.1% | 2.0% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Feb) |  | 0.1% | 0.0% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Feb) |  | 0.1% | -0.1% |
@@ -33,24 +33,24 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Feb) |  |  | -3.42B |
 | 07:00 | EUR | High | German CPI (MoM) (Mar) |  | 0.4% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Mar) |  | 2.2% | 2.5% |
-| 07:00 | EUR | Low | German HICP (MoM) (Mar) |  | 0.6% | 0.6% |
 | 07:00 | EUR | Low | German HICP (YoY) (Mar) |  | 2.3% | 2.7% |
+| 07:00 | EUR | Low | German HICP (MoM) (Mar) |  | 0.6% | 0.6% |
 | 07:00 | IDR | Low | Car Sales (YoY) |  |  | -18.80% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Mar) |  |  | 3.00% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Mar) |  |  | 0.90% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.2% | 0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) |  | 2.3% | 3.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 2.4% | 3.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Mar) |  | 0.2% | 0.8% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Mar) |  | 0.3% | 0.9% |
+| 07:45 | EUR | Low | French HICP (YoY) (Mar) |  | 2.4% | 3.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Mar) |  |  | 2.70% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Mar) |  |  | 3.5% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 0.8% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Mar) |  | 3.2% | 2.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.3% | 0.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Mar) |  | 0.8% | 0.4% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Mar) |  | 3.2% | 2.9% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Mar) |  | 1.3% | 0.4% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -0.10% |
 | 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Jan) |  |  | 2.10% |
+| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Jan) |  |  | -0.10% |
 | 09:00 | EUR | Moderate | ECB Forecast |  |  |  |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) |  | 8.7% | 8.7% |
 | 10:00 | CNY | Moderate | New Loans |  | 3,700.0B | 1,450.0B |
@@ -69,8 +69,8 @@
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Feb) |  |  | 3.2% |
 | 13:30 | USD | Low | Export Price Index (YoY) |  |  | -1.8% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (Mar) |  | 0.3% | 0.8% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Import Price Index (YoY) |  |  | -0.8% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  |  | 2.9% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  |  | 2.8% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 77.6 | 77.4 |
