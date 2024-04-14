@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:30 | NZD | Performance of Services Index |  |  | 53.0 |
-| 23:45 | NZD | External Migration & Visitors (Feb) |  |  | 21.70% |
-| 23:45 | NZD | Permanent/Long-Term Migration (Feb) |  |  | 2,870 |
-| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 8.2% |
+| 27 min | NZD | Performance of Services Index |  |  | 53.0 |
+| 42 min | NZD | External Migration & Visitors (Feb) |  |  | 21.70% |
+| 42 min | NZD | Permanent/Long-Term Migration (Feb) |  |  | 2,870 |
+| 42 min | NZD | Visitor Arrivals (MoM) |  |  | 8.2% |
