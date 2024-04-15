@@ -12,4 +12,4 @@
 | 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 0.0% | 0.8% | -0.2% |
 | 15:00 | USD | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
 | 15:00 | USD | Retail Inventories Ex Auto (Feb) | 0.4% | 0.4% | 0.3% |
-| 19:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.4% | 2.4% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q1) | 2.8% | 2.4% | 2.4% |
