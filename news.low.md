@@ -1,38 +1,39 @@
-## 15 April 2024 - Low Impact Forex News
+## 16 April 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
-| 00:55 | KRW | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
-| 00:55 | KRW | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
-| 00:55 | KRW | Trade Balance (Mar) | 4.29B |  | 4.28B |
-| 07:00 | NOK | Trade Balance (Mar) | 64.0B |  | 51.7B |
-| 07:30 | USD | Fed Logan Speaks |  |  |  |
-| 07:30 | CHF | PPI (YoY) (Mar) | -2.1% |  | -2.0% |
-| 07:30 | INR | WPI Food (YoY) (Mar) | 6.88% |  | 6.95% |
-| 07:30 | INR | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) | -0.85% |  | -1.27% |
-| 09:45 | INR | Exports (USD) (Mar) | 41.68B |  | 41.40B |
-| 09:45 | INR | Imports (USD) (Mar) | 57.28B |  | 60.11B |
-| 09:45 | INR | Trade Balance (Mar) | -15.60B | -18.78B | -18.71B |
+| 02:30 | CNY | House Prices (YoY) (Mar) |  |  | -1.4% |
+| 03:00 | CNY | Retail Sales (YoY) (Mar) |  | 5.1% | 5.5% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 5.50% |
+| 04:00 | KRW | M3 Money Supply (Feb) |  |  | 5,350.0B |
+| 04:00 | KRW | M2 Money supply (Feb) |  |  | 4.30% |
+| 04:00 | IDR | Consumer Confidence |  |  | 123.1 |
+| 05:00 | IDR | Export Growth (YoY) |  |  | -9.45% |
+| 05:00 | IDR | Import Growth (YoY) |  |  | 15.84% |
+| 05:00 | IDR | Trade Balance |  |  | 0.87B |
+| 07:00 | GBP | Average Earnings ex Bonus (Feb) |  |  | 6.1% |
+| 07:00 | EUR | German WPI (YoY) (Mar) |  |  | -3.0% |
+| 07:00 | EUR | German WPI (MoM) (Mar) |  | 0.1% | -0.1% |
+| 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |
+| 09:00 | EUR | Italian HICP (MoM) (Mar) |  | 1.2% | 0.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) |  | 1.3% | 0.8% |
 | 10:00 | USD | IMF Meetings |  |  |  |
-| 10:00 | EUR | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
-| 10:50 | EUR | German 12-Month Bubill Auction | 3.328% |  | 3.390% |
+| 10:00 | EUR | Italian Trade Balance (Feb) |  | 3.440B | 2.655B |
+| 10:00 | EUR | Italian Trade Balance EU (Feb) |  |  | -0.38B |
+| 10:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.626% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Mar) | 1,214.96B |  | 1,156.11B |
-| 12:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 13:30 | USD | Retail Sales (YoY) (Mar) | 4.02% |  | 2.11% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) | 1.0% | 0.3% | 0.5% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) | 0.7% | 0.7% | 0.2% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) | 137.7K |  | 116.9K |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.471% |  | 3.461% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.814% |  | 3.827% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.706% |  | 3.697% |
-| 15:00 | USD | NAHB Housing Market Index (Apr) | 51 | 51 | 51 |
-| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.225% |
-| 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.120% |
-| 22:00 | KRW | Export Price Index (YoY) (Mar) | 2.6% |  | 4.2% |
-| 22:00 | KRW | Import Price Index (YoY) (Mar) | -0.7% |  | -0.2% |
+| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
+| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.8% |
+| 13:00 | USD | Milk Auctions |  |  | 3,558.0 |
+| 13:30 | USD | Building Permits (MoM) (Mar) |  |  | 2.4% |
+| 13:30 | CAD | Common CPI (YoY) (Mar) |  | 3.1% | 3.1% |
+| 13:30 | CAD | CPI (YoY) (Mar) |  |  | 2.8% |
+| 13:30 | CAD | Median CPI (YoY) (Mar) |  | 3.0% | 3.1% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Mar) |  | 3.2% | 3.2% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.4% |
+| 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 14:15 | USD | Capacity Utilization Rate (Mar) |  | 78.5% | 78.3% |
+| 14:15 | USD | Manufacturing Production (MoM) (Mar) |  |  | 0.8% |
+| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
