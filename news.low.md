@@ -21,16 +21,16 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 3.328% |  | 3.390% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Mar) | 1,214.96B |  | 1,156.11B |
-| 2 min | GBP | BoE Breeden Speaks |  |  |  |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 12:15 | GBP | BoE Breeden Speaks |  |  |  |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 1.50% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.3% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  | 0.3% | 0.3% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | 0.7% | 0.2% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 116.9K |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.461% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.827% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.697% |
+| 31 min | EUR | French 12-Month BTF Auction |  |  | 3.461% |
+| 31 min | EUR | French 3-Month BTF Auction |  |  | 3.827% |
+| 31 min | EUR | French 6-Month BTF Auction |  |  | 3.697% |
 | 15:00 | USD | NAHB Housing Market Index (Apr) |  | 51 | 51 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.120% |
