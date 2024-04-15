@@ -28,22 +28,22 @@
 | 12:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 13:30 | USD | High | Core Retail Sales (MoM) (Mar) |  | 0.5% | 0.3% |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Mar) | 1.1% | 0.5% | 0.6% |
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -5.20 | -20.90 |
-| 13:30 | USD | Moderate | Retail Control (MoM) (Mar) |  | 0.4% | 0.0% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 1.50% |
-| 13:30 | USD | High | Retail Sales (MoM) (Mar) |  | 0.4% | 0.6% |
-| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) |  | 0.3% | 0.3% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | 0.7% | 0.2% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 116.9K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) |  | 0.8% | 0.1% |
-| 31 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.461% |
-| 31 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.827% |
-| 31 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.697% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) |  | 0.3% | 0.0% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Apr) |  | 51 | 51 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) |  | 0.4% | 0.3% |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | -14.30 | -5.20 | -20.90 |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 1.1% | 0.4% | 0.3% |
+| 13:30 | USD | High | Retail Sales (MoM) (Mar) | 0.7% | 0.4% | 0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.02% |  | 2.11% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 1.0% | 0.3% | 0.5% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 0.7% | 0.7% | 0.2% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 137.7K |  | 116.9K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Feb) | 0.0% | 0.8% | -0.2% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.471% |  | 3.461% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.814% |  | 3.827% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.706% |  | 3.697% |
+| 43 min | USD | Moderate | Business Inventories (MoM) (Feb) |  | 0.3% | 0.0% |
+| 43 min | USD | Low | NAHB Housing Market Index (Apr) |  | 51 | 51 |
+| 43 min | USD | Moderate | Retail Inventories Ex Auto (Feb) |  | 0.4% | 0.3% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.120% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.4% | 2.4% |

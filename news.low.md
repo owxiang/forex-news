@@ -24,14 +24,14 @@
 | 12:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 1.50% |
-| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  | 0.3% | 0.3% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) |  | 0.7% | 0.2% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 116.9K |
-| 31 min | EUR | French 12-Month BTF Auction |  |  | 3.461% |
-| 31 min | EUR | French 3-Month BTF Auction |  |  | 3.827% |
-| 31 min | EUR | French 6-Month BTF Auction |  |  | 3.697% |
-| 15:00 | USD | NAHB Housing Market Index (Apr) |  | 51 | 51 |
+| 13:30 | USD | Retail Sales (YoY) (Mar) | 4.02% |  | 2.11% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) | 1.0% | 0.3% | 0.5% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Feb) | 0.7% | 0.7% | 0.2% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) | 137.7K |  | 116.9K |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.471% |  | 3.461% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.814% |  | 3.827% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.706% |  | 3.697% |
+| 43 min | USD | NAHB Housing Market Index (Apr) |  | 51 | 51 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.120% |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 4.2% |

@@ -7,9 +7,9 @@
 | 10:00 | EUR | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
 | 11:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 13:30 | USD | NY Empire State Manufacturing Index (Apr) |  | -5.20 | -20.90 |
-| 13:30 | USD | Retail Control (MoM) (Mar) |  | 0.4% | 0.0% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Feb) |  | 0.8% | 0.1% |
-| 15:00 | USD | Business Inventories (MoM) (Feb) |  | 0.3% | 0.0% |
-| 15:00 | USD | Retail Inventories Ex Auto (Feb) |  | 0.4% | 0.3% |
+| 13:30 | USD | NY Empire State Manufacturing Index (Apr) | -14.30 | -5.20 | -20.90 |
+| 13:30 | USD | Retail Control (MoM) (Mar) | 1.1% | 0.4% | 0.3% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Feb) | 0.0% | 0.8% | -0.2% |
+| 43 min | USD | Business Inventories (MoM) (Feb) |  | 0.3% | 0.0% |
+| 43 min | USD | Retail Inventories Ex Auto (Feb) |  | 0.4% | 0.3% |
 | 19:00 | USD | Atlanta Fed GDPNow (Q1) |  | 2.4% | 2.4% |
