@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:55 | KRW | Low | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Low | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Low | Trade Balance (Mar) | 4.29B |  | 4.28B |
@@ -19,8 +19,8 @@
 | 09:45 | INR | Low | Imports (USD) (Mar) | 57.28B |  | 60.11B |
 | 09:45 | INR | Low | Trade Balance (Mar) | -15.60B | -18.78B | -18.71B |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 3.328% |  | 3.390% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -32,8 +32,8 @@
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | -14.30 | -5.20 | -20.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 1.1% | 0.4% | 0.3% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.02% |  | 2.11% |
 | 13:30 | USD | High | Retail Sales (MoM) (Mar) | 0.7% | 0.4% | 0.9% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.02% |  | 2.11% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 1.0% | 0.3% | 0.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 0.7% | 0.7% | 0.2% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 137.7K |  | 116.9K |
@@ -44,8 +44,8 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Apr) | 51 | 51 | 51 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) | 0.4% | 0.4% | 0.3% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.225% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.120% |
+| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.225% |
+| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.120% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.4% | 2.4% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 4.2% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | -0.2% |
