@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
 | 00:55 | KRW | Low | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Low | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Low | Trade Balance (Mar) | 4.29B |  | 4.28B |
 | 07:00 | NOK | Low | Trade Balance (Mar) | 64.0B |  | 51.7B |
 | 07:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) | -2.1% |  | -2.0% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.1% |
+| 07:30 | CHF | Low | PPI (YoY) (Mar) | -2.1% |  | -2.0% |
 | 07:30 | INR | Low | WPI Food (YoY) (Mar) | 6.88% |  | 6.95% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 0.53% | 0.51% | 0.20% |
@@ -19,12 +19,12 @@
 | 09:45 | INR | Low | Imports (USD) (Mar) | 57.28B |  | 60.11B |
 | 09:45 | INR | Low | Trade Balance (Mar) | -15.60B | -18.78B | -18.71B |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
-| 15 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.390% |
-| 45 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 45 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 45 min | EUR | Low | Reserve Assets Total (Mar) |  |  | 1,156.11B |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 3.328% |  | 3.390% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 11:00 | EUR | Low | Reserve Assets Total (Mar) | 1,214.96B |  | 1,156.11B |
 | 12:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  |  | 0.60% |
