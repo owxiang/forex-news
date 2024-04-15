@@ -13,8 +13,8 @@
 | 07:30 | INR | WPI Food (YoY) (Mar) | 6.88% |  | 6.95% |
 | 07:30 | INR | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) | -0.85% |  | -1.27% |
-| 10:00 | USD | IMF Meetings |  |  |  |
-| 10:00 | EUR | Industrial Production (YoY) (Feb) |  |  | -6.7% |
+| 44 min | USD | IMF Meetings |  |  |  |
+| 44 min | EUR | Industrial Production (YoY) (Feb) |  |  | -6.7% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.390% |
 | 11:00 | INR | Exports (USD) |  |  | 41.40B |
 | 11:00 | INR | Imports (USD) |  |  | 60.11B |

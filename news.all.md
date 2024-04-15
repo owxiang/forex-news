@@ -15,9 +15,9 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 0.53% | 0.51% | 0.20% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | -0.85% |  | -1.27% |
-| 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) |  |  | -6.7% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.8% | -3.2% |
+| 44 min | USD | Low | IMF Meetings |  |  |  |
+| 44 min | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.8% | -3.2% |
+| 44 min | EUR | Low | Industrial Production (YoY) (Feb) |  |  | -6.7% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.390% |
 | 11:00 | INR | Low | Exports (USD) |  |  | 41.40B |
 | 11:00 | INR | Low | Imports (USD) |  |  | 60.11B |
