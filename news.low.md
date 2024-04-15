@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:55 | KRW | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Trade Balance (Mar) | 4.29B |  | 4.28B |
