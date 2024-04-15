@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:55 | KRW | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Trade Balance (Mar) | 4.29B |  | 4.28B |
@@ -21,9 +21,8 @@
 | 10:50 | EUR | German 12-Month Bubill Auction | 3.328% |  | 3.390% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Reserve Assets Total (Mar) | 1,214.96B |  | 1,156.11B |
-| 12:15 | GBP | BoE Breeden Speaks |  |  |  |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (Feb) |  |  | 0.60% |
+| 2 min | GBP | BoE Breeden Speaks |  |  |  |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
 | 13:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 13:30 | USD | Retail Sales (YoY) (Mar) |  |  | 1.50% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.3% |
