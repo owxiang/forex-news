@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 07:30 | CHF | PPI (MoM) (Mar) | 0.1% | 0.2% | 0.1% |
 | 07:30 | INR | WPI Inflation (YoY) (Mar) | 0.53% | 0.51% | 0.20% |
-| 44 min | EUR | Industrial Production (MoM) (Feb) |  | 0.8% | -3.2% |
-| 11:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
+| 45 min | EUR | ECB's Lane Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (Mar) |  | 244.0K | 253.5K |
 | 13:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | NY Empire State Manufacturing Index (Apr) |  | -5.20 | -20.90 |

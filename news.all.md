@@ -15,16 +15,16 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) | 0.53% | 0.51% | 0.20% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) | -0.85% |  | -1.27% |
-| 44 min | USD | Low | IMF Meetings |  |  |  |
-| 44 min | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.8% | -3.2% |
-| 44 min | EUR | Low | Industrial Production (YoY) (Feb) |  |  | -6.7% |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.390% |
-| 11:00 | INR | Low | Exports (USD) |  |  | 41.40B |
-| 11:00 | INR | Low | Imports (USD) |  |  | 60.11B |
-| 11:00 | INR | Low | Trade Balance |  | -18.78B | -18.71B |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Mar) |  |  | 1,156.11B |
+| 09:45 | INR | Low | Exports (USD) (Mar) | 41.68B |  | 41.40B |
+| 09:45 | INR | Low | Imports (USD) (Mar) | 57.28B |  | 60.11B |
+| 09:45 | INR | Low | Trade Balance (Mar) | -15.60B | -18.78B | -18.71B |
+| 10:00 | USD | Low | IMF Meetings |  |  |  |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
+| 15 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.390% |
+| 45 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 45 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 45 min | EUR | Low | Reserve Assets Total (Mar) |  |  | 1,156.11B |
 | 12:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) |  |  | 0.60% |
@@ -34,8 +34,8 @@
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -5.20 | -20.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) |  |  | 0.0% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 1.50% |
 | 13:30 | USD | High | Retail Sales (MoM) (Mar) |  | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 1.50% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.3% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | 0.7% | 0.2% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 116.9K |

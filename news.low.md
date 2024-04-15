@@ -13,14 +13,14 @@
 | 07:30 | INR | WPI Food (YoY) (Mar) | 6.88% |  | 6.95% |
 | 07:30 | INR | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) | -0.85% |  | -1.27% |
-| 44 min | USD | IMF Meetings |  |  |  |
-| 44 min | EUR | Industrial Production (YoY) (Feb) |  |  | -6.7% |
-| 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.390% |
-| 11:00 | INR | Exports (USD) |  |  | 41.40B |
-| 11:00 | INR | Imports (USD) |  |  | 60.11B |
-| 11:00 | INR | Trade Balance |  | -18.78B | -18.71B |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Reserve Assets Total (Mar) |  |  | 1,156.11B |
+| 09:45 | INR | Exports (USD) (Mar) | 41.68B |  | 41.40B |
+| 09:45 | INR | Imports (USD) (Mar) | 57.28B |  | 60.11B |
+| 09:45 | INR | Trade Balance (Mar) | -15.60B | -18.78B | -18.71B |
+| 10:00 | USD | IMF Meetings |  |  |  |
+| 10:00 | EUR | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
+| 15 min | EUR | German 12-Month Bubill Auction |  |  | 3.390% |
+| 45 min | EUR | German Buba Monthly Report |  |  |  |
+| 45 min | EUR | Reserve Assets Total (Mar) |  |  | 1,156.11B |
 | 12:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | IBC-Br Economic Activity (Feb) |  |  | 0.60% |
