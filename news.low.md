@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
 | 00:55 | KRW | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Trade Balance (Mar) | 4.29B |  | 4.28B |
@@ -31,7 +31,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.471% |  | 3.461% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.814% |  | 3.827% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.706% |  | 3.697% |
-| 43 min | USD | NAHB Housing Market Index (Apr) |  | 51 | 51 |
+| 15:00 | USD | NAHB Housing Market Index (Apr) | 51 | 51 | 51 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.225% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.120% |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 4.2% |
