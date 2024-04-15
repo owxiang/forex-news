@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:55 | KRW | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Trade Balance (Mar) | 4.29B |  | 4.28B |
 | 07:00 | NOK | Trade Balance (Mar) | 64.0B |  | 51.7B |
-| 10 min | USD | Fed Logan Speaks |  |  |  |
-| 10 min | CHF | PPI (YoY) (Mar) |  |  | -2.0% |
-| 10 min | INR | WPI Food (YoY) (Mar) |  |  | 6.95% |
-| 10 min | INR | WPI Fuel (YoY) (Mar) |  |  | -1.59% |
-| 10 min | INR | WPI Manufacturing Inflation (YoY) (Mar) |  |  | -1.27% |
+| 07:30 | USD | Fed Logan Speaks |  |  |  |
+| 07:30 | CHF | PPI (YoY) (Mar) | -2.1% |  | -2.0% |
+| 07:30 | INR | WPI Food (YoY) (Mar) | 6.88% |  | 6.95% |
+| 07:30 | INR | WPI Fuel (YoY) (Mar) | -0.77% |  | -1.59% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Mar) | -0.85% |  | -1.27% |
 | 10:00 | USD | IMF Meetings |  |  |  |
 | 10:00 | EUR | Industrial Production (YoY) (Feb) |  |  | -6.7% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.390% |
