@@ -44,8 +44,8 @@
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Feb) | 0.4% | 0.3% | 0.0% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Apr) | 51 | 51 | 51 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Feb) | 0.4% | 0.4% | 0.3% |
-| 14 min | USD | Low | 3-Month Bill Auction |  |  | 5.225% |
-| 14 min | USD | Low | 6-Month Bill Auction |  |  | 5.120% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.225% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.155% |  | 5.120% |
 | 19:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.4% | 2.4% |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 4.2% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Mar) |  |  | -0.2% |

@@ -32,7 +32,7 @@
 | 14:00 | EUR | French 3-Month BTF Auction | 3.814% |  | 3.827% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.706% |  | 3.697% |
 | 15:00 | USD | NAHB Housing Market Index (Apr) | 51 | 51 | 51 |
-| 14 min | USD | 3-Month Bill Auction |  |  | 5.225% |
-| 14 min | USD | 6-Month Bill Auction |  |  | 5.120% |
+| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.225% |
+| 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.120% |
 | 22:00 | KRW | Export Price Index (YoY) (Mar) |  |  | 4.2% |
 | 22:00 | KRW | Import Price Index (YoY) (Mar) |  |  | -0.2% |
