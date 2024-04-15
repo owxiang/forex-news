@@ -34,5 +34,5 @@
 | 15:00 | USD | NAHB Housing Market Index (Apr) | 51 | 51 | 51 |
 | 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.225% |
 | 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.120% |
-| 44 min | KRW | Export Price Index (YoY) (Mar) |  |  | 4.2% |
-| 44 min | KRW | Import Price Index (YoY) (Mar) |  |  | -0.2% |
+| 22:00 | KRW | Export Price Index (YoY) (Mar) | 2.6% |  | 4.2% |
+| 22:00 | KRW | Import Price Index (YoY) (Mar) | -0.7% |  | -0.2% |

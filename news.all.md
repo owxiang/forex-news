@@ -32,8 +32,8 @@
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) | -14.30 | -5.20 | -20.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) | 1.1% | 0.4% | 0.3% |
-| 13:30 | USD | High | Retail Sales (MoM) (Mar) | 0.7% | 0.4% | 0.9% |
 | 13:30 | USD | Low | Retail Sales (YoY) (Mar) | 4.02% |  | 2.11% |
+| 13:30 | USD | High | Retail Sales (MoM) (Mar) | 0.7% | 0.4% | 0.9% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) | 1.0% | 0.3% | 0.5% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) | 0.7% | 0.7% | 0.2% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 137.7K |  | 116.9K |
@@ -47,5 +47,5 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.225% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.155% |  | 5.120% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.8% | 2.4% | 2.4% |
-| 44 min | KRW | Low | Export Price Index (YoY) (Mar) |  |  | 4.2% |
-| 44 min | KRW | Low | Import Price Index (YoY) (Mar) |  |  | -0.2% |
+| 22:00 | KRW | Low | Export Price Index (YoY) (Mar) | 2.6% |  | 4.2% |
+| 22:00 | KRW | Low | Import Price Index (YoY) (Mar) | -0.7% |  | -0.2% |
