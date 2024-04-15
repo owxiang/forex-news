@@ -7,14 +7,14 @@
 | 00:55 | KRW | Low | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Low | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Low | Trade Balance (Mar) | 4.29B |  | 4.28B |
-| 46 min | NOK | Low | Trade Balance (Mar) |  |  | 51.8B |
-| 07:30 | USD | Low | Fed Logan Speaks |  |  |  |
-| 07:30 | CHF | Moderate | PPI (MoM) (Mar) |  | 0.2% | 0.1% |
-| 07:30 | CHF | Low | PPI (YoY) (Mar) |  |  | -2.0% |
-| 07:30 | INR | Low | WPI Food (YoY) (Mar) |  |  | 6.95% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (Mar) |  |  | -1.59% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Mar) |  | 0.51% | 0.20% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) |  |  | -1.27% |
+| 07:00 | NOK | Low | Trade Balance (Mar) | 64.0B |  | 51.7B |
+| 10 min | USD | Low | Fed Logan Speaks |  |  |  |
+| 10 min | CHF | Moderate | PPI (MoM) (Mar) |  | 0.2% | 0.1% |
+| 10 min | CHF | Low | PPI (YoY) (Mar) |  |  | -2.0% |
+| 10 min | INR | Low | WPI Food (YoY) (Mar) |  |  | 6.95% |
+| 10 min | INR | Low | WPI Fuel (YoY) (Mar) |  |  | -1.59% |
+| 10 min | INR | Moderate | WPI Inflation (YoY) (Mar) |  | 0.51% | 0.20% |
+| 10 min | INR | Low | WPI Manufacturing Inflation (YoY) (Mar) |  |  | -1.27% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) |  | 0.8% | -3.2% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) |  |  | -6.7% |
@@ -34,8 +34,8 @@
 | 13:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Apr) |  | -5.20 | -20.90 |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Mar) |  |  | 0.0% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 1.50% |
 | 13:30 | USD | High | Retail Sales (MoM) (Mar) |  | 0.4% | 0.6% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Mar) |  |  | 1.50% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Mar) |  |  | 0.3% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Feb) |  | 0.7% | 0.2% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 116.9K |
