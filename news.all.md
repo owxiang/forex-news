@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Feb) | -1.8% |  | -10.9% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Feb) | 7.7% | 0.8% | -1.7% |
 | 00:55 | KRW | Low | Exports (YoY) (Mar) | 3.1% |  | 3.1% |
 | 00:55 | KRW | Low | Imports (YoY) (Mar) | -12.3% |  | -12.3% |
 | 00:55 | KRW | Low | Trade Balance (Mar) | 4.29B |  | 4.28B |
@@ -19,8 +19,8 @@
 | 09:45 | INR | Low | Imports (USD) (Mar) | 57.28B |  | 60.11B |
 | 09:45 | INR | Low | Trade Balance (Mar) | -15.60B | -18.78B | -18.71B |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Feb) | -6.4% |  | -6.6% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Feb) | 0.8% | 0.8% | -3.0% |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 3.328% |  | 3.390% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
