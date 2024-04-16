@@ -8,12 +8,9 @@
 | 04:00 | KRW | M3 Money Supply (Feb) | 5,369.6B |  | 5,349.9B |
 | 04:00 | KRW | M2 Money supply (Feb) | 4.40% |  | 4.00% |
 | 04:25 | IDR | Consumer Confidence (Mar) | 123.8 |  | 123.1 |
-| 44 min | GBP | Average Earnings ex Bonus (Feb) |  |  | 6.1% |
-| 44 min | EUR | German WPI (YoY) (Mar) |  |  | -3.0% |
-| 44 min | EUR | German WPI (MoM) (Mar) |  | 0.1% | -0.1% |
-| 44 min | IDR | Export Growth (YoY) (Mar) |  |  | -9.45% |
-| 44 min | IDR | Import Growth (YoY) (Mar) |  |  | 15.84% |
-| 44 min | IDR | Trade Balance (Mar) |  |  | 0.87B |
+| 07:00 | GBP | Average Earnings ex Bonus (Feb) | 6.0% |  | 6.1% |
+| 07:00 | EUR | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
+| 07:00 | EUR | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |

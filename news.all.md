@@ -5,8 +5,8 @@
 | 01:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -2.2% |  | -1.4% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.5% | 4.0% | 4.2% |
-| 03:00 | CNY | High | GDP (YoY) (Q1) | 5.3% | 4.8% | 5.2% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.6% |  | 1.2% |
+| 03:00 | CNY | High | GDP (YoY) (Q1) | 5.3% | 4.8% | 5.2% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.3% | 5.0% | 5.2% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 4.5% | 6.0% | 7.0% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
@@ -17,16 +17,13 @@
 | 04:00 | KRW | Low | M3 Money Supply (Feb) | 5,369.6B |  | 5,349.9B |
 | 04:00 | KRW | Low | M2 Money supply (Feb) | 4.40% |  | 4.00% |
 | 04:25 | IDR | Low | Consumer Confidence (Mar) | 123.8 |  | 123.1 |
-| 44 min | GBP | Low | Average Earnings ex Bonus (Feb) |  |  | 6.1% |
-| 44 min | GBP | Moderate | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
-| 44 min | GBP | Moderate | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
-| 44 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
-| 44 min | GBP | Moderate | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
-| 44 min | EUR | Low | German WPI (YoY) (Mar) |  |  | -3.0% |
-| 44 min | EUR | Low | German WPI (MoM) (Mar) |  | 0.1% | -0.1% |
-| 44 min | IDR | Low | Export Growth (YoY) (Mar) |  |  | -9.45% |
-| 44 min | IDR | Low | Import Growth (YoY) (Mar) |  |  | 15.84% |
-| 44 min | IDR | Low | Trade Balance (Mar) |  |  | 0.87B |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Feb) | 6.0% |  | 6.1% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Feb) | 5.6% | 5.5% | 5.6% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Mar) | 10.9K | 17.2K | 4.1K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) | -156K |  | -21K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
+| 07:00 | EUR | Low | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
+| 07:00 | EUR | Low | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |

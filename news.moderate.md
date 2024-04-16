@@ -10,10 +10,10 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 44 min | GBP | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
-| 44 min | GBP | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
-| 44 min | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
-| 44 min | GBP | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Feb) | 5.6% | 5.5% | 5.6% |
+| 07:00 | GBP | Claimant Count Change (Mar) | 10.9K | 17.2K | 4.1K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | -156K |  | -21K |
+| 07:00 | GBP | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  |  | -80.5 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 35.9 | 31.7 |
 | 10:00 | EUR | Trade Balance (Feb) |  |  | 11.4B |
