@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) | 4.5% | 4.0% | 4.2% |
-| 03:00 | CNY | GDP (QoQ) (Q1) | 1.6% |  | 1.0% |
+| 03:00 | CNY | GDP (QoQ) (Q1) | 1.6% |  | 1.2% |
 | 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) | 5.3% | 5.0% | 5.2% |
-| 03:00 | CNY | Industrial Production (YoY) (Mar) | 4.5% | 5.4% | 7.0% |
+| 03:00 | CNY | Industrial Production (YoY) (Mar) | 4.5% | 6.0% | 7.0% |
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
@@ -15,7 +15,7 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
 | 07:00 | GBP | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  |  | -80.5 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 35.1 | 31.7 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 35.9 | 31.7 |
 | 10:00 | EUR | Trade Balance (Feb) |  |  | 11.4B |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) |  | 37.2 | 33.5 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
@@ -35,5 +35,5 @@
 | 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
 | 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
