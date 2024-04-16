@@ -68,7 +68,7 @@
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 47 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.034M |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  |  | 4.7% |

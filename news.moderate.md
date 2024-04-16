@@ -33,7 +33,7 @@
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 47 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.034M |
 | 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
 | 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
