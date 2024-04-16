@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 21 min | CNY | Low | House Prices (YoY) (Mar) |  |  | -1.4% |
-| 51 min | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) |  | 4.0% | 4.2% |
-| 51 min | CNY | High | GDP (YoY) (Q1) |  | 4.8% | 5.2% |
-| 51 min | CNY | Moderate | GDP (QoQ) (Q1) |  |  | 1.0% |
-| 51 min | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) |  | 5.0% | 5.2% |
-| 51 min | CNY | Moderate | Industrial Production (YoY) (Mar) |  | 5.4% | 7.0% |
-| 51 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) |  | 6.0% | 7.0% |
-| 51 min | CNY | Low | Retail Sales (YoY) (Mar) |  | 5.1% | 5.5% |
-| 51 min | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) |  |  | 5.50% |
-| 51 min | CNY | Moderate | Chinese Unemployment Rate (Mar) |  | 5.2% | 5.3% |
-| 51 min | CNY | Moderate | NBS Press Conference |  |  |  |
-| 04:00 | KRW | Low | M3 Money Supply (Feb) |  |  | 5,350.0B |
-| 04:00 | KRW | Low | M2 Money supply (Feb) |  |  | 4.30% |
-| 04:00 | IDR | Low | Consumer Confidence |  |  | 123.1 |
+| 02:30 | CNY | Low | House Prices (YoY) (Mar) | -2.2% |  | -1.4% |
+| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.5% | 4.0% | 4.2% |
+| 03:00 | CNY | High | GDP (YoY) (Q1) | 5.3% | 4.8% | 5.2% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.6% |  | 1.0% |
+| 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.3% | 5.0% | 5.2% |
+| 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 4.5% | 5.4% | 7.0% |
+| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
+| 03:00 | CNY | Low | Retail Sales (YoY) (Mar) | 3.1% | 5.1% | 5.5% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (Mar) | 4.70% |  | 5.50% |
+| 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
+| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 37 min | KRW | Low | M3 Money Supply (Feb) |  |  | 5,350.0B |
+| 37 min | KRW | Low | M2 Money supply (Feb) |  |  | 4.30% |
+| 37 min | IDR | Low | Consumer Confidence |  |  | 123.1 |
 | 05:00 | IDR | Low | Export Growth (YoY) |  |  | -9.45% |
 | 05:00 | IDR | Low | Import Growth (YoY) |  |  | 15.84% |
 | 05:00 | IDR | Low | Trade Balance |  |  | 0.87B |
@@ -30,8 +30,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.2% | 0.0% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.3% | 0.8% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Feb) |  | 3.440B | 2.655B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Feb) |  |  | -0.38B |
@@ -46,8 +46,8 @@
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.8% |
 | 13:00 | USD | Low | Milk Auctions |  |  | 3,558.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) |  | 244.0K | 253.5K |
-| 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.514M | 1.524M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) |  |  | 2.4% |
+| 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.514M | 1.524M |
 | 13:30 | USD | Moderate | Housing Starts (Mar) |  | 1.480M | 1.521M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) |  |  | 10.7% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) |  | 3.1% | 3.1% |
@@ -60,8 +60,8 @@
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.4% |
 | 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) |  | 78.5% | 78.3% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) |  | 0.4% | 0.1% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) |  |  | 0.8% |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

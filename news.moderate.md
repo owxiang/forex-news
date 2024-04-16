@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 51 min | CNY | Fixed Asset Investment (YoY) (Mar) |  | 4.0% | 4.2% |
-| 51 min | CNY | GDP (QoQ) (Q1) |  |  | 1.0% |
-| 51 min | CNY | Chinese GDP YTD (YoY) (Q1) |  | 5.0% | 5.2% |
-| 51 min | CNY | Industrial Production (YoY) (Mar) |  | 5.4% | 7.0% |
-| 51 min | CNY | Chinese Industrial Production YTD (YoY) (Mar) |  | 6.0% | 7.0% |
-| 51 min | CNY | Chinese Unemployment Rate (Mar) |  | 5.2% | 5.3% |
-| 51 min | CNY | NBS Press Conference |  |  |  |
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) | 4.5% | 4.0% | 4.2% |
+| 03:00 | CNY | GDP (QoQ) (Q1) | 1.6% |  | 1.0% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) | 5.3% | 5.0% | 5.2% |
+| 03:00 | CNY | Industrial Production (YoY) (Mar) | 4.5% | 5.4% | 7.0% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
+| 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:00 | GBP | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
 | 07:00 | GBP | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
@@ -26,8 +26,8 @@
 | 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.1% |
 | 13:30 | CAD | CPI (MoM) (Mar) |  | 0.7% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) |  | 0.4% | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
