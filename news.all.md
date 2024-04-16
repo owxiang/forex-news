@@ -24,11 +24,11 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
-| 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.3% | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.2% | 0.0% |
+| 43 min | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
+| 43 min | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
+| 43 min | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |
+| 43 min | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.3% | 0.8% |
+| 43 min | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.2% | 0.0% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.626% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Feb) |  | 3.440B | 2.655B |
