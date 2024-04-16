@@ -22,6 +22,8 @@
 | 10:00 | EUR | Spanish 3-Month Letras Auction | 3.597% |  | 3.626% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (May) | -0.3% |  | -0.2% |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 0.1% |  | 2.8% |
+| 13:00 | USD | Milk Auctions | 3,590.0 |  | 3,558.0 |
 | 13:30 | USD | Building Permits (MoM) (Mar) | -4.3% | -0.9% | 2.3% |
 | 13:30 | CAD | Common CPI (YoY) (Mar) | 2.9% | 3.1% | 3.1% |
 | 13:30 | CAD | CPI (YoY) (Mar) | 2.9% |  | 2.8% |

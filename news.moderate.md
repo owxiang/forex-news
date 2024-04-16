@@ -23,12 +23,12 @@
 | 13:30 | USD | Building Permits (Mar) | 1.458M | 1.514M | 1.523M |
 | 13:30 | USD | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
 | 13:30 | USD | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
-| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
 | 13:30 | CAD | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
-| 14:15 | USD | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
 | 14:15 | USD | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
-| 14 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 14:15 | USD | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
+| 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 18:15 | USD | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |

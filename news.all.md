@@ -40,14 +40,16 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-10 Inflation Index (MoM) (May) | -0.3% |  | -0.2% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 0.1% |  | 2.8% |
+| 13:00 | USD | Low | Milk Auctions | 3,590.0 |  | 3,558.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) | 242.2K | 244.0K | 260.0K |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | -4.3% | -0.9% | 2.3% |
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.458M | 1.514M | 1.523M |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) | 2.9% | 3.1% | 3.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.9% |  | 2.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.8% | 3.0% | 3.0% |
@@ -55,10 +57,10 @@
 | 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 5.4% |
 | 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) | 78.4% | 78.5% | 78.2% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) | 0.5% |  | 1.2% |
-| 14 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
