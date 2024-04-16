@@ -11,11 +11,11 @@
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) | 6.0% |  | 6.1% |
 | 07:00 | EUR | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
 | 07:00 | EUR | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
-| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
+| 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.2% |  | 0.7% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.2% | 1.2% | 0.0% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 10:00 | USD | IMF Meetings |  |  |  |
 | 10:00 | EUR | Italian Trade Balance (Feb) | 6.034B | 3.440B | 2.495B |
 | 10:00 | EUR | Italian Trade Balance EU (Feb) | -0.85B |  | -0.54B |
