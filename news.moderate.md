@@ -19,15 +19,15 @@
 | 10:00 | EUR | Trade Balance (Feb) | 23.6B |  | 11.6B |
 | 10:00 | EUR | ZEW Economic Sentiment (Apr) | 43.9 | 37.2 | 33.5 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:15 | CAD | Housing Starts (Mar) |  | 244.0K | 253.5K |
-| 13:30 | USD | Building Permits (Mar) |  | 1.514M | 1.524M |
-| 13:30 | USD | Housing Starts (MoM) (Mar) |  |  | 10.7% |
-| 13:30 | USD | Housing Starts (Mar) |  | 1.480M | 1.521M |
-| 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.1% |
-| 13:30 | CAD | CPI (MoM) (Mar) |  | 0.7% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | -0.23% |
-| 14:15 | USD | Industrial Production (MoM) (Mar) |  | 0.4% | 0.1% |
+| 13:15 | CAD | Housing Starts (Mar) | 242.2K | 244.0K | 260.0K |
+| 13:30 | USD | Building Permits (Mar) | 1.458M | 1.514M | 1.523M |
+| 13:30 | USD | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
+| 13:30 | USD | Housing Starts (MoM) (Mar) | -14.7% |  | 12.7% |
+| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
+| 13:30 | CAD | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
+| 13:30 | CAD | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
+| 45 min | USD | Industrial Production (YoY) (Mar) |  |  | -0.23% |
+| 45 min | USD | Industrial Production (MoM) (Mar) |  | 0.4% | 0.1% |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
@@ -35,5 +35,5 @@
 | 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
 | 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
