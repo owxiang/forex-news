@@ -5,8 +5,8 @@
 | 01:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 02:30 | CNY | Low | House Prices (YoY) (Mar) | -2.2% |  | -1.4% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Mar) | 4.5% | 4.0% | 4.2% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.6% |  | 1.2% |
 | 03:00 | CNY | High | GDP (YoY) (Q1) | 5.3% | 4.8% | 5.2% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q1) | 1.6% |  | 1.2% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q1) | 5.3% | 5.0% | 5.2% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Mar) | 4.5% | 6.0% | 7.0% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
@@ -22,13 +22,13 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Mar) | 10.9K | 17.2K | 4.1K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) | -156K |  | -21K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
-| 07:00 | EUR | Low | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
+| 07:00 | EUR | Low | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.2% |  | 0.7% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.2% | 1.2% | 0.0% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Feb) | 6.034B | 3.440B | 2.495B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Feb) | -0.85B |  | -0.54B |
@@ -45,11 +45,11 @@
 | 13:15 | CAD | Moderate | Housing Starts (Mar) | 242.2K | 244.0K | 260.0K |
 | 13:30 | USD | Moderate | Building Permits (Mar) | 1.458M | 1.514M | 1.523M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) | -4.3% | -0.9% | 2.3% |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) | 2.9% | 3.1% | 3.1% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.9% |  | 2.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.8% | 3.0% | 3.0% |
@@ -68,7 +68,7 @@
 | 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 18:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 47 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
+| 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.034M |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  |  | 4.7% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
