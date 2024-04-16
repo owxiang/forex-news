@@ -14,20 +14,20 @@
 | 07:00 | GBP | Claimant Count Change (Mar) | 10.9K | 17.2K | 4.1K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | -156K |  | -21K |
 | 07:00 | GBP | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
-| 40 min | EUR | German ZEW Current Conditions (Apr) |  |  | -80.5 |
-| 40 min | EUR | German ZEW Economic Sentiment (Apr) |  | 35.9 | 31.7 |
-| 40 min | EUR | Trade Balance (Feb) |  |  | 11.4B |
-| 40 min | EUR | ZEW Economic Sentiment (Apr) |  | 37.2 | 33.5 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | German ZEW Current Conditions (Apr) | -79.2 |  | -80.5 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Apr) | 42.9 | 35.9 | 31.7 |
+| 10:00 | EUR | Trade Balance (Feb) | 23.6B |  | 11.6B |
+| 10:00 | EUR | ZEW Economic Sentiment (Apr) | 43.9 | 37.2 | 33.5 |
+| 44 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:15 | CAD | Housing Starts (Mar) |  | 244.0K | 253.5K |
 | 13:30 | USD | Building Permits (Mar) |  | 1.514M | 1.524M |
-| 13:30 | USD | Housing Starts (MoM) (Mar) |  |  | 10.7% |
 | 13:30 | USD | Housing Starts (Mar) |  | 1.480M | 1.521M |
-| 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.1% |
+| 13:30 | USD | Housing Starts (MoM) (Mar) |  |  | 10.7% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.1% |
+| 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | CAD | CPI (MoM) (Mar) |  | 0.7% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) |  | 0.4% | 0.1% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
@@ -35,5 +35,5 @@
 | 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
 | 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
+| 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |

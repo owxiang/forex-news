@@ -9,19 +9,19 @@
 | 04:00 | KRW | M2 Money supply (Feb) | 4.40% |  | 4.00% |
 | 04:25 | IDR | Consumer Confidence (Mar) | 123.8 |  | 123.1 |
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) | 6.0% |  | 6.1% |
-| 07:00 | EUR | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
 | 07:00 | EUR | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
+| 07:00 | EUR | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
 | 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.2% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.2% | 1.2% | 0.0% |
-| 20 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.626% |
-| 40 min | USD | IMF Meetings |  |  |  |
-| 40 min | EUR | Italian Trade Balance (Feb) |  | 3.440B | 2.655B |
-| 40 min | EUR | Italian Trade Balance EU (Feb) |  |  | -0.38B |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
+| 10:00 | USD | IMF Meetings |  |  |  |
+| 10:00 | EUR | Italian Trade Balance (Feb) | 6.034B | 3.440B | 2.495B |
+| 10:00 | EUR | Italian Trade Balance EU (Feb) | -0.85B |  | -0.54B |
+| 10:00 | EUR | Spanish 3-Month Letras Auction | 3.597% |  | 3.626% |
+| 44 min | EUR | German Buba Monthly Report |  |  |  |
+| 44 min | BRL | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
 | 13:30 | USD | Building Permits (MoM) (Mar) |  |  | 2.4% |
 | 13:30 | CAD | Common CPI (YoY) (Mar) |  | 3.1% | 3.1% |
 | 13:30 | CAD | CPI (YoY) (Mar) |  |  | 2.8% |
