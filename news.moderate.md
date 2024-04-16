@@ -1,39 +1,24 @@
-## 16 April 2024 - Moderate Impact Forex News
+## 17 April 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Mar) | 4.5% | 4.0% | 4.2% |
-| 03:00 | CNY | GDP (QoQ) (Q1) | 1.6% |  | 1.2% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q1) | 5.3% | 5.0% | 5.2% |
-| 03:00 | CNY | Industrial Production (YoY) (Mar) | 4.5% | 6.0% | 7.0% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
-| 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Average Earnings Index +Bonus (Feb) | 5.6% | 5.5% | 5.6% |
-| 07:00 | GBP | Claimant Count Change (Mar) | 10.9K | 17.2K | 4.1K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) | -156K |  | -21K |
-| 07:00 | GBP | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
-| 10:00 | EUR | German ZEW Current Conditions (Apr) | -79.2 |  | -80.5 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Apr) | 42.9 | 35.9 | 31.7 |
-| 10:00 | EUR | Trade Balance (Feb) | 23.6B |  | 11.6B |
-| 10:00 | EUR | ZEW Economic Sentiment (Apr) | 43.9 | 37.2 | 33.5 |
+| 33 min | JPY | Adjusted Trade Balance |  | -0.28T | -0.45T |
+| 33 min | JPY | Exports (YoY) (Mar) |  |  | 7.8% |
+| 33 min | JPY | Trade Balance (Mar) |  |  | -379.4B |
+| 07:00 | GBP | CPI (MoM) (Mar) |  |  | 0.6% |
+| 07:00 | GBP | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
+| 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.9% | 3.1% |
+| 10:00 | EUR | CPI (MoM) (Mar) |  | 0.8% | 0.6% |
+| 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:15 | CAD | Housing Starts (Mar) | 242.2K | 244.0K | 260.0K |
-| 13:30 | USD | Building Permits (Mar) | 1.458M | 1.514M | 1.523M |
-| 13:30 | USD | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
-| 13:30 | USD | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
-| 13:30 | CAD | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
-| 13:30 | CAD | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
-| 13:30 | CAD | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
-| 14:15 | USD | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
-| 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q1) | 2.9% | 2.8% | 2.8% |
-| 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 4.090M |  | 3.034M |
-| 29 min | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
-| 29 min | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
+| 13:30 | CAD | Foreign Securities Purchases (Feb) |  | 10.10B | 8.88B |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.170M |
+| 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.542% |
+| 19:00 | GBP | MPC Member Haskel Speaks |  |  |  |
+| 19:00 | USD | Beige Book |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 40.2B | 36.1B |
+| 22:30 | USD | FOMC Member Mester Speaks |  |  |  |
+| 23:30 | USD | FOMC Member Bowman Speaks |  |  |  |

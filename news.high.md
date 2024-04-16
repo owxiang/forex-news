@@ -1,6 +1,7 @@
-## 16 April 2024 - High Impact Forex News
+## 17 April 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | GDP (YoY) (Q1) | 5.3% | 4.8% | 5.2% |
-| 18:15 | USD | Fed Chair Powell Speaks |  |  |  |
+| 07:00 | GBP | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
+| 10:00 | EUR | CPI (YoY) (Mar) |  | 2.4% | 2.6% |
+| 15:30 | USD | Crude Oil Inventories |  |  | 5.841M |
