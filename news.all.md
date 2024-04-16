@@ -61,12 +61,12 @@
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) | 0.5% |  | 1.2% |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:15 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
-| 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 18:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 10 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 40 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 40 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 55 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
+| 55 min | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 55 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.034M |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |

@@ -33,4 +33,4 @@
 | 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 14:15 | USD | Capacity Utilization Rate (Mar) | 78.4% | 78.5% | 78.2% |
 | 14:15 | USD | Manufacturing Production (MoM) (Mar) | 0.5% |  | 1.2% |
-| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 40 min | USD | FOMC Member Barkin Speaks |  |  |  |
