@@ -11,8 +11,8 @@
 | 07:00 | GBP | Average Earnings ex Bonus (Feb) | 6.0% |  | 6.1% |
 | 07:00 | EUR | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
 | 07:00 | EUR | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
-| 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 09:00 | EUR | Italian CPI (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Mar) | 1.2% |  | 0.7% |
 | 09:00 | EUR | Italian HICP (MoM) (Mar) | 1.2% | 1.2% | 0.0% |
 | 09:00 | EUR | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
@@ -33,4 +33,5 @@
 | 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 14:15 | USD | Capacity Utilization Rate (Mar) | 78.4% | 78.5% | 78.2% |
 | 14:15 | USD | Manufacturing Production (MoM) (Mar) | 0.5% |  | 1.2% |
-| 40 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:30 | USD | 52-Week Bill Auction | 4.915% |  | 4.810% |
+| 18:00 | USD | FOMC Member Barkin Speaks |  |  |  |

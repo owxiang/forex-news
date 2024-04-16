@@ -24,8 +24,8 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Feb) | 4.2% | 4.0% | 3.9% |
 | 07:00 | EUR | Low | German WPI (MoM) (Mar) | 0.2% | 0.1% | 0.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Mar) | -3.0% |  | -3.0% |
-| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) | 1.2% |  | 0.7% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) | 1.2% | 1.2% | 0.0% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) | 1.2% | 1.3% | 0.8% |
@@ -48,8 +48,8 @@
 | 13:30 | USD | Moderate | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) | 2.9% | 3.1% | 3.1% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
 | 13:30 | CAD | Low | CPI (YoY) (Mar) | 2.9% |  | 2.8% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Mar) | 2.8% | 3.0% | 3.0% |
@@ -57,17 +57,18 @@
 | 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 5.4% |
 | 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Mar) | 78.4% | 78.5% | 78.2% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) | 0.5% |  | 1.2% |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 40 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 40 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 55 min | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
-| 55 min | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 55 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 16:30 | USD | Low | 52-Week Bill Auction | 4.915% |  | 4.810% |
+| 17:10 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.9% | 2.8% | 2.8% |
+| 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 18:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 18:15 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 18:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  |  | 4.7% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |

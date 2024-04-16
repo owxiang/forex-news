@@ -23,17 +23,17 @@
 | 13:30 | USD | Building Permits (Mar) | 1.458M | 1.514M | 1.523M |
 | 13:30 | USD | Housing Starts (Mar) | 1.321M | 1.480M | 1.549M |
 | 13:30 | USD | Housing Starts (MoM) (Mar) | -14.7% | -2.4% | 12.7% |
-| 13:30 | CAD | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
 | 13:30 | CAD | Core CPI (YoY) (Mar) | 2.0% |  | 2.1% |
+| 13:30 | CAD | Core CPI (MoM) (Mar) | 0.5% |  | 0.1% |
 | 13:30 | CAD | CPI (MoM) (Mar) | 0.6% | 0.7% | 0.3% |
-| 14:15 | USD | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
 | 14:15 | USD | Industrial Production (MoM) (Mar) | 0.4% | 0.4% | 0.4% |
+| 14:15 | USD | Industrial Production (YoY) (Mar) | 0.00% |  | -0.30% |
 | 15:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 40 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 55 min | USD | Atlanta Fed GDPNow (Q1) |  | 2.8% | 2.8% |
-| 55 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 17:10 | USD | Atlanta Fed GDPNow (Q1) | 2.9% | 2.8% | 2.8% |
+| 17:30 | USD | FOMC Member Williams Speaks |  |  |  |
+| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
 | 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
+| 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
