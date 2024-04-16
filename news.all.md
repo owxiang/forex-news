@@ -15,23 +15,24 @@
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (Feb) | 5,369.6B |  | 5,349.9B |
-| 04:00 | KRW | Low | M2 Money supply (Feb) | 4.50% |  | 4.40% |
+| 04:00 | KRW | Low | M2 Money supply (Feb) | 4.40% |  | 4.00% |
 | 04:25 | IDR | Low | Consumer Confidence (Mar) | 123.8 |  | 123.1 |
-| 41 min | IDR | Low | Export Growth (YoY) |  |  | -9.45% |
-| 41 min | IDR | Low | Import Growth (YoY) |  |  | 15.84% |
-| 41 min | IDR | Low | Trade Balance |  |  | 0.87B |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Feb) |  |  | 6.1% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
-| 07:00 | GBP | Moderate | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
-| 07:00 | EUR | Low | German WPI (MoM) (Mar) |  | 0.1% | -0.1% |
-| 07:00 | EUR | Low | German WPI (YoY) (Mar) |  |  | -3.0% |
-| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
+| 44 min | GBP | Low | Average Earnings ex Bonus (Feb) |  |  | 6.1% |
+| 44 min | GBP | Moderate | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
+| 44 min | GBP | Moderate | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
+| 44 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
+| 44 min | GBP | Moderate | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
+| 44 min | EUR | Low | German WPI (YoY) (Mar) |  |  | -3.0% |
+| 44 min | EUR | Low | German WPI (MoM) (Mar) |  | 0.1% | -0.1% |
+| 44 min | IDR | Low | Export Growth (YoY) (Mar) |  |  | -9.45% |
+| 44 min | IDR | Low | Import Growth (YoY) (Mar) |  |  | 15.84% |
+| 44 min | IDR | Low | Trade Balance (Mar) |  |  | 0.87B |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Mar) |  | 0.1% | 0.1% |
+| 09:00 | EUR | Low | Italian CPI (YoY) (Mar) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Mar) |  |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (Mar) |  | 1.3% | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Mar) |  | 1.2% | 0.0% |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.626% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Low | Italian Trade Balance (Feb) |  | 3.440B | 2.655B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (Feb) |  |  | -0.38B |
@@ -39,17 +40,14 @@
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Apr) |  | 35.9 | 31.7 |
 | 10:00 | EUR | Moderate | Trade Balance (Feb) |  |  | 11.4B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Apr) |  | 37.2 | 33.5 |
-| 10:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.626% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | BRL | Low | IGP-10 Inflation Index (MoM) (Apr) |  |  | -0.2% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.8% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,558.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Mar) |  | 244.0K | 253.5K |
 | 13:30 | USD | Moderate | Building Permits (Mar) |  | 1.514M | 1.524M |
 | 13:30 | USD | Low | Building Permits (MoM) (Mar) |  |  | 2.4% |
-| 13:30 | USD | Moderate | Housing Starts (Mar) |  | 1.480M | 1.521M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (Mar) |  |  | 10.7% |
+| 13:30 | USD | Moderate | Housing Starts (Mar) |  | 1.480M | 1.521M |
 | 13:30 | CAD | Low | Common CPI (YoY) (Mar) |  | 3.1% | 3.1% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Mar) |  |  | 0.1% |
@@ -63,6 +61,8 @@
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Mar) |  |  | -0.23% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (Mar) |  | 0.4% | 0.1% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Mar) |  |  | 0.8% |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 2.8% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,558.0 |
 | 15:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 17:30 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
@@ -72,5 +72,5 @@
 | 18:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q1) |  |  | 4.7% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |

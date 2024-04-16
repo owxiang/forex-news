@@ -10,10 +10,10 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Mar) | 6.1% | 6.0% | 7.0% |
 | 03:00 | CNY | Chinese Unemployment Rate (Mar) | 5.2% | 5.2% | 5.3% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | GBP | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
-| 07:00 | GBP | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
-| 07:00 | GBP | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
+| 44 min | GBP | Average Earnings Index +Bonus (Feb) |  | 5.5% | 5.6% |
+| 44 min | GBP | Claimant Count Change (Mar) |  | 17.2K | 16.8K |
+| 44 min | GBP | Employment Change 3M/3M (MoM) (Feb) |  |  | -21K |
+| 44 min | GBP | Unemployment Rate (Feb) |  | 4.0% | 3.9% |
 | 10:00 | EUR | German ZEW Current Conditions (Apr) |  |  | -80.5 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Apr) |  | 35.9 | 31.7 |
 | 10:00 | EUR | Trade Balance (Feb) |  |  | 11.4B |
@@ -21,8 +21,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:15 | CAD | Housing Starts (Mar) |  | 244.0K | 253.5K |
 | 13:30 | USD | Building Permits (Mar) |  | 1.514M | 1.524M |
-| 13:30 | USD | Housing Starts (Mar) |  | 1.480M | 1.521M |
 | 13:30 | USD | Housing Starts (MoM) (Mar) |  |  | 10.7% |
+| 13:30 | USD | Housing Starts (Mar) |  | 1.480M | 1.521M |
 | 13:30 | CAD | Core CPI (YoY) (Mar) |  |  | 2.1% |
 | 13:30 | CAD | Core CPI (MoM) (Mar) |  |  | 0.1% |
 | 13:30 | CAD | CPI (MoM) (Mar) |  | 0.7% | 0.3% |
@@ -35,5 +35,5 @@
 | 18:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 21:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 3.034M |
-| 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
 | 23:45 | NZD | CPI (YoY) (Q1) |  |  | 4.7% |
+| 23:45 | NZD | CPI (QoQ) (Q1) |  | 0.6% | 0.5% |
