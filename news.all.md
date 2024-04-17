@@ -19,25 +19,25 @@
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) | 3.2% | 3.1% | 3.4% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
+| 07:00 | GBP | High | CPI (YoY) (Mar) | 3.2% | 3.1% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
 | 07:00 | GBP | Low | PPI Input (YoY) (Mar) | -2.5% |  | -2.2% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 0.6% |  | 0.4% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
-| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
+| 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:30 | GBP | Low | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.9% | 2.9% | 3.1% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.3% |  | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a | 125.30 | 125.33 | 124.40 |
@@ -54,10 +54,9 @@
 | 12:00 | USD | Low | Mortgage Market Index | 202.1 |  | 195.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 500.7 |  | 498.3 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Feb) | -0.8% |  | -2.0% |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.60% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.50% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Feb) | -8.78B | 10.10B | 8.88B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Feb) | 24.19B |  | -7.61B |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 5.841M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.130M |

@@ -18,14 +18,14 @@
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
 | 07:00 | GBP | PPI Input (YoY) (Mar) | -2.5% |  | -2.2% |
-| 07:00 | GBP | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | PPI Output (YoY) (Mar) | 0.6% |  | 0.4% |
+| 07:00 | GBP | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
-| 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:00 | ZAR | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
+| 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:30 | GBP | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
 | 10:00 | USD | IMF Meetings |  |  |  |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
@@ -43,9 +43,8 @@
 | 12:00 | USD | Mortgage Market Index | 202.1 |  | 195.7 |
 | 12:00 | USD | Mortgage Refinance Index | 500.7 |  | 498.3 |
 | 12:00 | ZAR | Retail Sales (YoY) (Feb) | -0.8% |  | -2.0% |
-| 13:00 | BRL | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.60% |
+| 13:00 | BRL | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.50% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) | 24.19B |  | -7.61B |
-| 13:30 | INR | M3 Money Supply |  |  | 11.2% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.130M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.033M |
