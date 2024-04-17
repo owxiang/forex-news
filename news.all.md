@@ -13,21 +13,21 @@
 | 02:00 | SGD | Low | Trade Balance | 4.657B |  | 5.960B |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 58.90% |  | 58.70% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 6.4% |  | 1.1% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
-| 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.7% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.5% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
-| 07:00 | GBP | Low | CPI, n.s.a (Mar) |  |  | 132.30 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Mar) |  |  | -2.7% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Mar) |  |  | 0.4% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Low | RPI (YoY) (Mar) |  | 4.2% | 4.5% |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) |  |  | 0.8% |
+| 45 min | GBP | Low | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
+| 45 min | GBP | Low | Core CPI (MoM) (Mar) |  |  | 0.6% |
+| 45 min | GBP | Low | Core PPI Output (YoY) (Mar) |  | 0.2% | 0.3% |
+| 45 min | GBP | Low | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
+| 45 min | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.7% |
+| 45 min | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.5% |
+| 45 min | GBP | Moderate | CPI (MoM) (Mar) |  |  | 0.6% |
+| 45 min | GBP | High | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
+| 45 min | GBP | Low | CPI, n.s.a (Mar) |  |  | 132.30 |
+| 45 min | GBP | Moderate | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
+| 45 min | GBP | Low | PPI Input (YoY) (Mar) |  |  | -2.7% |
+| 45 min | GBP | Low | PPI Output (YoY) (Mar) |  |  | 0.4% |
+| 45 min | GBP | Low | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
+| 45 min | GBP | Low | RPI (YoY) (Mar) |  | 4.2% | 4.5% |
+| 45 min | GBP | Low | RPI (MoM) (Mar) |  |  | 0.8% |
 | 08:00 | CNY | Low | FDI |  |  | -19.90% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.2% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 5.0% |

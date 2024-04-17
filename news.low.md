@@ -10,18 +10,18 @@
 | 02:00 | SGD | Trade Balance | 4.657B |  | 5.960B |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 58.90% |  | 58.70% |
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 6.4% |  | 1.1% |
-| 07:00 | GBP | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
-| 07:00 | GBP | Core CPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | Core PPI Output (YoY) (Mar) |  | 0.2% | 0.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (Mar) |  |  | 0.7% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) |  |  | 3.5% |
-| 07:00 | GBP | CPI, n.s.a (Mar) |  |  | 132.30 |
-| 07:00 | GBP | PPI Input (YoY) (Mar) |  |  | -2.7% |
-| 07:00 | GBP | PPI Output (YoY) (Mar) |  |  | 0.4% |
-| 07:00 | GBP | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
-| 07:00 | GBP | RPI (YoY) (Mar) |  | 4.2% | 4.5% |
-| 07:00 | GBP | RPI (MoM) (Mar) |  |  | 0.8% |
+| 45 min | GBP | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
+| 45 min | GBP | Core CPI (MoM) (Mar) |  |  | 0.6% |
+| 45 min | GBP | Core PPI Output (YoY) (Mar) |  | 0.2% | 0.3% |
+| 45 min | GBP | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
+| 45 min | GBP | Core RPI (MoM) (Mar) |  |  | 0.7% |
+| 45 min | GBP | Core RPI (YoY) (Mar) |  |  | 3.5% |
+| 45 min | GBP | CPI, n.s.a (Mar) |  |  | 132.30 |
+| 45 min | GBP | PPI Input (YoY) (Mar) |  |  | -2.7% |
+| 45 min | GBP | PPI Output (YoY) (Mar) |  |  | 0.4% |
+| 45 min | GBP | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
+| 45 min | GBP | RPI (YoY) (Mar) |  | 4.2% | 4.5% |
+| 45 min | GBP | RPI (MoM) (Mar) |  |  | 0.8% |
 | 08:00 | CNY | FDI |  |  | -19.90% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 1.2% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 5.0% |
