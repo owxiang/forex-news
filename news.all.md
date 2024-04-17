@@ -7,8 +7,8 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 7.3% |  | 7.8% |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | -4.9% |  | 0.5% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 366.5B |  | -377.8B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | -20.70% |  | -0.20% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:00 | SGD | Low | Trade Balance | 4.657B |  | 5.960B |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 58.90% |  | 58.70% |
@@ -26,8 +26,8 @@
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 0.6% |  | 0.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
+| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
@@ -57,18 +57,18 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.50% |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Feb) | -8.78B | 10.10B | 8.88B |
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Feb) | 24.19B |  | -7.61B |
-| 15 min | USD | High | Crude Oil Inventories |  | 1.600M | 5.841M |
-| 15 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
-| 15 min | USD | Low | Crude Oil Imports |  |  | 1.130M |
-| 15 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.170M |
-| 15 min | USD | Low | Distillate Fuel Production |  |  | 0.033M |
-| 15 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.659M |
-| 15 min | USD | Low | Gasoline Production |  |  | -0.538M |
-| 15 min | USD | Low | Heating Oil Stockpiles |  |  | 0.478M |
-| 15 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15 min | USD | Low | Gasoline Inventories |  |  | 0.715M |
-| 16:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 2.735M | 1.600M | 5.841M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.131M |  | -0.115M |
+| 15:30 | USD | Low | Crude Oil Imports | -1.991M |  | 1.130M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 0.033M |  | -0.170M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.038M |  | 0.033M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -2.760M |  | 1.659M |
+| 15:30 | USD | Low | Gasoline Production | -0.025M |  | -0.538M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.714M |  | 0.478M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | -0.3% |
+| 15:30 | USD | Low | Gasoline Inventories | -1.154M |  | 0.715M |
+| 26 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 41 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.542% |
 | 19:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
