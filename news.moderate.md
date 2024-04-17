@@ -5,8 +5,8 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.70T | -0.28T | -0.57T |
 | 00:50 | JPY | Exports (YoY) (Mar) | 7.3% |  | 7.8% |
 | 00:50 | JPY | Trade Balance (Mar) | 366.5B |  | -377.8B |
-| 45 min | GBP | CPI (MoM) (Mar) |  |  | 0.6% |
-| 45 min | GBP | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
+| 07:00 | GBP | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
+| 07:00 | GBP | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.9% | 3.1% |
 | 10:00 | EUR | CPI (MoM) (Mar) |  | 0.8% | 0.6% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
