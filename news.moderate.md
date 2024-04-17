@@ -20,4 +20,4 @@
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) | 71.5B | 40.2B | 14.0B |
-| 22:30 | USD | FOMC Member Mester Speaks |  |  |  |
+| 14 min | USD | FOMC Member Mester Speaks |  |  |  |

@@ -7,8 +7,8 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 7.3% |  | 7.8% |
 | 00:50 | JPY | Low | Imports (YoY) (Mar) | -4.9% |  | 0.5% |
 | 00:50 | JPY | Moderate | Trade Balance (Mar) | 366.5B |  | -377.8B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | -20.70% |  | -0.20% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:00 | SGD | Low | Trade Balance | 4.657B |  | 5.960B |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) | 58.90% |  | 58.70% |
@@ -17,8 +17,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 3.2% | 3.1% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
@@ -26,18 +26,18 @@
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Mar) | 0.6% |  | 0.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
+| 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
+| 09:00 | ZAR | Low | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
 | 09:30 | GBP | Low | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.9% | 2.9% | 3.1% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.9% | 2.9% | 3.1% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.3% |  | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a | 125.30 | 125.33 | 124.40 |
@@ -77,4 +77,4 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 51.60B |  | -30.80B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 71.5B | 40.2B | 14.0B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 71.50B | 40.20B | 14.00B |
-| 22:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 14 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
