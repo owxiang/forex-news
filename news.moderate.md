@@ -19,5 +19,5 @@
 | 19:00 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 40.2B | 36.1B |
+| 49 min | USD | TIC Net Long-Term Transactions (Feb) |  | 40.2B | 36.1B |
 | 22:30 | USD | FOMC Member Mester Speaks |  |  |  |

@@ -15,12 +15,12 @@
 | 04:00 | IDR | Low | Retail Sales (YoY) (Feb) | 6.4% |  | 1.1% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) | 4.2% | 4.1% | 4.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.6% |  | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) | 3.2% | 3.1% | 3.4% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
 | 07:00 | GBP | Low | PPI Input (YoY) (Mar) | -2.5% |  | -2.2% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
@@ -28,8 +28,8 @@
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:00 | ZAR | Low | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
 | 09:30 | GBP | Low | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
@@ -38,8 +38,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) | 2.9% | 2.9% | 3.1% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) | 2.4% | 2.4% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.3% |  | 2.5% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) | 0.8% |  | 0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) | 2.3% |  | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a | 125.30 | 125.33 | 124.40 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) | 3.1% | 3.1% | 3.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) | 0.9% | 1.0% | 0.6% |
@@ -73,8 +73,8 @@
 | 19:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 19:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | 67.80B |
-| 21:00 | USD | Low | Overall Net Capital Flow (Feb) |  |  | -8.80B |
-| 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 40.2B | 36.1B |
-| 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  | 40.20B | 36.10B |
+| 49 min | USD | Low | US Foreign Buying, T-bonds (Feb) |  |  | 67.80B |
+| 49 min | USD | Low | Overall Net Capital Flow (Feb) |  |  | -8.80B |
+| 49 min | USD | Moderate | TIC Net Long-Term Transactions (Feb) |  | 40.2B | 36.1B |
+| 49 min | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) |  | 40.20B | 36.10B |
 | 22:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
