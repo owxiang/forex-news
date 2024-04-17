@@ -14,8 +14,8 @@
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
-| 07:00 | GBP | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
+| 07:00 | GBP | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
 | 07:00 | GBP | PPI Input (YoY) (Mar) | -2.5% |  | -2.2% |
 | 07:00 | GBP | PPI Output (YoY) (Mar) | 0.6% |  | 0.4% |
@@ -24,8 +24,8 @@
 | 07:00 | GBP | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
-| 09:00 | ZAR | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
 | 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
+| 09:00 | ZAR | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
 | 09:30 | GBP | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
 | 10:00 | USD | IMF Meetings |  |  |  |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
@@ -45,14 +45,14 @@
 | 12:00 | ZAR | Retail Sales (YoY) (Feb) | -0.8% |  | -2.0% |
 | 13:00 | BRL | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.50% |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) | 24.19B |  | -7.61B |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
-| 15:30 | USD | Crude Oil Imports |  |  | 1.130M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.033M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.659M |
-| 15:30 | USD | Gasoline Production |  |  | -0.538M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.478M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
-| 15:30 | USD | Gasoline Inventories |  |  | 0.715M |
+| 15 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
+| 15 min | USD | Crude Oil Imports |  |  | 1.130M |
+| 15 min | USD | Distillate Fuel Production |  |  | 0.033M |
+| 15 min | USD | EIA Weekly Distillates Stocks |  |  | 1.659M |
+| 15 min | USD | Gasoline Production |  |  | -0.538M |
+| 15 min | USD | Heating Oil Stockpiles |  |  | 0.478M |
+| 15 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.3% |
+| 15 min | USD | Gasoline Inventories |  |  | 0.715M |
 | 21:00 | USD | US Foreign Buying, T-bonds (Feb) |  |  | 67.80B |
 | 21:00 | USD | Overall Net Capital Flow (Feb) |  |  | -8.80B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  | 40.20B | 36.10B |
