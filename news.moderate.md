@@ -13,9 +13,9 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) | -8.78B | 10.10B | 8.88B |
 | 15:30 | USD | Cushing Crude Oil Inventories | 0.033M |  | -0.170M |
-| 26 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 41 min | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.542% |
+| 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 38 min | USD | 20-Year Bond Auction |  |  | 4.542% |
 | 19:00 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
 | 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |

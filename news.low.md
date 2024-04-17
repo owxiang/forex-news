@@ -12,8 +12,8 @@
 | 04:00 | IDR | Retail Sales (YoY) (Feb) | 6.4% |  | 1.1% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) | 4.2% | 4.1% | 4.5% |
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.6% |  | 0.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
@@ -22,15 +22,15 @@
 | 07:00 | GBP | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
-| 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
-| 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
+| 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
+| 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:30 | GBP | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
 | 10:00 | USD | IMF Meetings |  |  |  |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Mar) | 2.3% |  | 2.5% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Mar) | 0.8% |  | 0.6% |
 | 10:00 | EUR | CPI, n.s.a | 125.30 | 125.33 | 124.40 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Mar) | 3.1% | 3.1% | 3.3% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Mar) | 0.9% | 1.0% | 0.6% |
