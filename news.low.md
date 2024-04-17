@@ -43,9 +43,9 @@
 | 12:00 | USD | Mortgage Market Index | 202.1 |  | 195.7 |
 | 12:00 | USD | Mortgage Refinance Index | 500.7 |  | 498.3 |
 | 12:00 | ZAR | Retail Sales (YoY) (Feb) | -0.8% |  | -2.0% |
-| 16 min | INR | M3 Money Supply |  |  | 11.2% |
-| 46 min | BRL | IBC-Br Economic Activity (Feb) |  |  | 0.60% |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) |  |  | -7.59B |
+| 13:00 | BRL | IBC-Br Economic Activity (Feb) | 0.40% |  | 0.60% |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) | 24.19B |  | -7.61B |
+| 13:30 | INR | M3 Money Supply |  |  | 11.2% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.130M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.033M |

@@ -11,7 +11,7 @@
 | 10:00 | EUR | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases (Feb) |  | 10.10B | 8.88B |
+| 13:30 | CAD | Foreign Securities Purchases (Feb) | -8.78B | 10.10B | 8.88B |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.170M |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
