@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | JPY | Adjusted Trade Balance |  | -0.28T | -0.45T |
-| 33 min | JPY | Exports (YoY) (Mar) |  |  | 7.8% |
-| 33 min | JPY | Trade Balance (Mar) |  |  | -379.4B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.70T | -0.28T | -0.57T |
+| 00:50 | JPY | Exports (YoY) (Mar) | 7.3% |  | 7.8% |
+| 00:50 | JPY | Trade Balance (Mar) | 366.5B |  | -377.8B |
 | 07:00 | GBP | CPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
 | 10:00 | EUR | Core CPI (YoY) (Mar) |  | 2.9% | 3.1% |

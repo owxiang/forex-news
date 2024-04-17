@@ -3,45 +3,45 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Apr) | 9 |  | 10 |
-| 33 min | JPY | Moderate | Adjusted Trade Balance |  | -0.28T | -0.45T |
-| 33 min | JPY | Moderate | Exports (YoY) (Mar) |  |  | 7.8% |
-| 33 min | JPY | Low | Imports (YoY) (Mar) |  |  | 0.5% |
-| 33 min | JPY | Moderate | Trade Balance (Mar) |  |  | -379.4B |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) |  |  | -4.80% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) |  |  | -0.10% |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) |  |  | 0.1% |
-| 02:30 | SGD | Low | Trade Balance |  |  | 5.968B |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.70T | -0.28T | -0.57T |
+| 00:50 | JPY | Moderate | Exports (YoY) (Mar) | 7.3% |  | 7.8% |
+| 00:50 | JPY | Low | Imports (YoY) (Mar) | -4.9% |  | 0.5% |
+| 00:50 | JPY | Moderate | Trade Balance (Mar) | 366.5B |  | -377.8B |
+| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Mar) | -20.70% |  | -0.20% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
+| 02:00 | SGD | Low | Trade Balance | 4.657B |  | 5.968B |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) |  |  | 58.70% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Feb) |  |  | 1.1% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) |  |  | 0.3% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.5% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.7% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) |  |  | 132.30 |
 | 07:00 | GBP | Low | PPI Input (YoY) (Mar) |  |  | -2.7% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Mar) |  |  | 0.4% |
-| 07:00 | GBP | Low | RPI (MoM) (Mar) |  |  | 0.8% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) |  | 4.2% | 4.5% |
+| 07:00 | GBP | Low | RPI (MoM) (Mar) |  |  | 0.8% |
 | 08:00 | CNY | Low | FDI |  |  | -19.90% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 5.0% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.2% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 5.6% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 5.0% |
 | 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 1.0% |
+| 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 5.6% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 0.2% | -0.6% |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.085% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Low | Core CPI (MoM) (Mar) |  | 1.1% | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.9% | 3.1% |
-| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.4% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 0.8% | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.4% | 2.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 2.5% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a |  | 125.33 | 124.40 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  | 3.1% | 3.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  | 1.0% | 0.6% |
