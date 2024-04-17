@@ -1,23 +1,25 @@
-## 17 April 2024 - Moderate Impact Forex News
+## 18 April 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Trade Balance | -0.70T | -0.28T | -0.57T |
-| 00:50 | JPY | Exports (YoY) (Mar) | 7.3% |  | 7.8% |
-| 00:50 | JPY | Trade Balance (Mar) | 366.5B |  | -377.8B |
-| 07:00 | GBP | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
-| 07:00 | GBP | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
-| 10:00 | EUR | Core CPI (YoY) (Mar) | 2.9% | 2.9% | 3.1% |
-| 10:00 | EUR | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
+| 00:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 02:30 | AUD | Employment Change (Mar) |  | 7.2K | 116.5K |
+| 02:30 | AUD | Full Employment Change (Mar) |  |  | 78.2K |
+| 02:30 | AUD | Unemployment Rate (Mar) |  | 3.9% | 3.7% |
+| 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases (Feb) | -8.78B | 10.10B | 8.88B |
-| 15:30 | USD | Cushing Crude Oil Inventories | 0.033M |  | -0.170M |
-| 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 18:00 | USD | 20-Year Bond Auction | 4.818% |  | 4.542% |
-| 19:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
-| 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 21:00 | USD | TIC Net Long-Term Transactions (Feb) | 71.5B | 40.2B | 14.0B |
-| 22:30 | USD | FOMC Member Mester Speaks |  |  |  |
+| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,817K |
+| 13:30 | USD | Philly Fed Employment (Apr) |  |  | -9.6 |
+| 14:05 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:00 | USD | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
+| 15:00 | USD | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
+| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | 5-Year TIPS Auction |  |  | 1.710% |
+| 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,438B |
+| 22:45 | USD | FOMC Member Bostic Speaks |  |  |  |
