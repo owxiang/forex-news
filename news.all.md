@@ -17,10 +17,10 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
-| 07:00 | GBP | High | CPI (YoY) (Mar) | 3.2% | 3.1% | 3.4% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
+| 07:00 | GBP | High | CPI (YoY) (Mar) | 3.2% | 3.1% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
 | 07:00 | GBP | Low | PPI Input (YoY) (Mar) | -2.5% |  | -2.2% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
@@ -28,11 +28,10 @@
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
-| 37 min | CNY | Low | FDI |  |  | -19.90% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.2% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 5.0% |
-| 09:00 | ZAR | Low | CPI (YoY) (Mar) |  |  | 5.6% |
-| 09:00 | ZAR | Low | CPI (MoM) (Mar) |  |  | 1.0% |
+| 43 min | ZAR | Low | Core CPI (MoM) (Mar) |  |  | 1.2% |
+| 43 min | ZAR | Low | Core CPI (YoY) (Mar) |  |  | 5.0% |
+| 43 min | ZAR | Low | CPI (YoY) (Mar) |  |  | 5.6% |
+| 43 min | ZAR | Low | CPI (MoM) (Mar) |  |  | 1.0% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 0.2% | -0.6% |
 | 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.085% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
@@ -40,13 +39,14 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Mar) |  | 2.9% | 3.1% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Mar) |  | 0.8% | 0.6% |
 | 10:00 | EUR | High | CPI (YoY) (Mar) |  | 2.4% | 2.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Mar) |  |  | 2.5% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Mar) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a |  | 125.33 | 124.40 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Mar) |  | 3.1% | 3.3% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Mar) |  | 1.0% | 0.6% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.520% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | CNY | Low | FDI |  |  | -19.90% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.01% |
