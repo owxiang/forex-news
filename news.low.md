@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Apr) | 9 |  | 10 |
 | 00:50 | JPY | Imports (YoY) (Mar) | -4.9% |  | 0.5% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | -20.70% |  | -0.20% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | -20.70% |  | -0.20% |
 | 02:00 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:00 | SGD | Trade Balance | 4.657B |  | 5.960B |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 58.90% |  | 58.70% |
@@ -14,18 +14,18 @@
 | 07:00 | GBP | Core CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Mar) | 0.3% |  | 0.1% |
 | 07:00 | GBP | Core PPI Output (YoY) (Mar) | 0.1% | 0.2% | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | Core RPI (YoY) (Mar) | 3.3% |  | 3.5% |
+| 07:00 | GBP | Core RPI (MoM) (Mar) | 0.5% |  | 0.7% |
 | 07:00 | GBP | CPI, n.s.a (Mar) | 133.00 |  | 132.30 |
 | 07:00 | GBP | PPI Input (YoY) (Mar) | -2.5% |  | -2.2% |
 | 07:00 | GBP | PPI Output (YoY) (Mar) | 0.6% |  | 0.4% |
 | 07:00 | GBP | PPI Output (MoM) (Mar) | 0.2% | 0.2% | 0.3% |
-| 07:00 | GBP | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 07:00 | GBP | RPI (MoM) (Mar) | 0.5% |  | 0.8% |
+| 07:00 | GBP | RPI (YoY) (Mar) | 4.3% | 4.2% | 4.5% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) | 0.7% |  | 1.2% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) | 4.9% |  | 5.0% |
-| 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:00 | ZAR | CPI (YoY) (Mar) | 5.3% |  | 5.6% |
+| 09:00 | ZAR | CPI (MoM) (Mar) | 0.8% |  | 1.0% |
 | 09:30 | GBP | House Price Index (YoY) | -0.2% | 0.2% | -0.6% |
 | 10:00 | USD | IMF Meetings |  |  |  |
 | 10:00 | EUR | Core CPI (MoM) (Mar) | 1.1% | 1.1% | 0.7% |
@@ -53,6 +53,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.714M |  | 0.478M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.2% |  | -0.3% |
 | 15:30 | USD | Gasoline Inventories | -1.154M |  | 0.715M |
-| 49 min | USD | US Foreign Buying, T-bonds (Feb) |  |  | 67.80B |
-| 49 min | USD | Overall Net Capital Flow (Feb) |  |  | -8.80B |
-| 49 min | USD | TIC Net Long-Term Transactions including Swaps (Feb) |  | 40.20B | 36.10B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Feb) | 88.80B |  | 46.30B |
+| 21:00 | USD | Overall Net Capital Flow (Feb) | 51.60B |  | -30.80B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Feb) | 71.50B | 40.20B | 14.00B |
