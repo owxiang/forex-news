@@ -15,10 +15,10 @@
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.170M |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 17:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 17:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.542% |
 | 19:00 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
+| 19:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 21:00 | USD | TIC Net Long-Term Transactions (Feb) |  | 40.2B | 36.1B |
 | 22:30 | USD | FOMC Member Mester Speaks |  |  |  |
 | 23:30 | USD | FOMC Member Bowman Speaks |  |  |  |

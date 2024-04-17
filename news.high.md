@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | GBP | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
 | 10:00 | EUR | CPI (YoY) (Mar) |  | 2.4% | 2.6% |
-| 15:30 | USD | Crude Oil Inventories |  |  | 5.841M |
+| 15:30 | USD | Crude Oil Inventories |  | 1.600M | 5.841M |

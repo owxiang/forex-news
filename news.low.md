@@ -7,13 +7,13 @@
 | 01:30 | SGD | Non-Oil Exports (YoY) (Mar) | -20.70% |  | -0.20% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
 | 02:00 | AUD | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
-| 02:00 | SGD | Trade Balance | 4.657B |  | 5.968B |
+| 02:00 | SGD | Trade Balance | 4.657B |  | 5.960B |
 | 04:00 | NZD | RBNZ Offshore Holdings (Mar) | 58.90% |  | 58.70% |
-| 44 min | IDR | Retail Sales (YoY) (Feb) | 6.4% |  | 1.1% |
+| 04:00 | IDR | Retail Sales (YoY) (Feb) | 6.4% |  | 1.1% |
 | 07:00 | GBP | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
 | 07:00 | GBP | Core CPI (MoM) (Mar) |  |  | 0.6% |
+| 07:00 | GBP | Core PPI Output (YoY) (Mar) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
-| 07:00 | GBP | Core PPI Output (YoY) (Mar) |  |  | 0.3% |
 | 07:00 | GBP | Core RPI (MoM) (Mar) |  |  | 0.7% |
 | 07:00 | GBP | Core RPI (YoY) (Mar) |  |  | 3.5% |
 | 07:00 | GBP | CPI, n.s.a (Mar) |  |  | 132.30 |
@@ -25,8 +25,8 @@
 | 08:00 | CNY | FDI |  |  | -19.90% |
 | 09:00 | ZAR | Core CPI (MoM) (Mar) |  |  | 1.2% |
 | 09:00 | ZAR | Core CPI (YoY) (Mar) |  |  | 5.0% |
-| 09:00 | ZAR | CPI (YoY) (Mar) |  |  | 5.6% |
 | 09:00 | ZAR | CPI (MoM) (Mar) |  |  | 1.0% |
+| 09:00 | ZAR | CPI (YoY) (Mar) |  |  | 5.6% |
 | 09:30 | GBP | House Price Index (YoY) |  | 0.2% | -0.6% |
 | 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.085% |
 | 10:00 | USD | IMF Meetings |  |  |  |
@@ -46,8 +46,6 @@
 | 12:00 | ZAR | Retail Sales (YoY) (Feb) |  |  | -2.1% |
 | 12:30 | INR | M3 Money Supply |  |  | 11.2% |
 | 13:00 | BRL | IBC-Br Economic Activity (Feb) |  |  | 0.60% |
-| 13:00 | NZD | GlobalDairyTrade Price Index |  |  | 2.8% |
-| 13:00 | USD | Milk Auctions |  |  | 3,558.0 |
 | 13:30 | CAD | Foreign Securities Purchases by Canadians (Feb) |  |  | -7.59B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.115M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.130M |
