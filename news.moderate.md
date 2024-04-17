@@ -7,10 +7,10 @@
 | 00:50 | JPY | Trade Balance (Mar) | 366.5B |  | -377.8B |
 | 07:00 | GBP | CPI (MoM) (Mar) | 0.6% |  | 0.6% |
 | 07:00 | GBP | PPI Input (MoM) (Mar) | -0.1% | 0.1% | 0.3% |
-| 41 min | EUR | Core CPI (YoY) (Mar) |  | 2.9% | 3.1% |
-| 41 min | EUR | CPI (MoM) (Mar) |  | 0.8% | 0.6% |
-| 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Core CPI (YoY) (Mar) | 2.9% | 2.9% | 3.1% |
+| 10:00 | EUR | CPI (MoM) (Mar) | 0.8% | 0.8% | 0.6% |
+| 43 min | EUR | EU Leaders Summit |  |  |  |
+| 43 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Foreign Securities Purchases (Feb) |  | 10.10B | 8.88B |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.170M |
 | 16:45 | EUR | ECB's Schnabel Speaks |  |  |  |
