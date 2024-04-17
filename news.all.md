@@ -77,4 +77,4 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Feb) | 51.60B |  | -30.80B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Feb) | 71.5B | 40.2B | 14.0B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Feb) | 71.50B | 40.20B | 14.00B |
-| 14 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 22:30 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
