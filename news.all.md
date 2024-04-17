@@ -11,19 +11,19 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Mar) | -8.40% |  | -4.90% |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Mar) | -0.1% |  | 0.1% |
 | 02:00 | SGD | Low | Trade Balance | 4.657B |  | 5.968B |
-| 04:00 | NZD | Low | RBNZ Offshore Holdings (Mar) |  |  | 58.70% |
+| 35 min | NZD | Low | RBNZ Offshore Holdings (Mar) |  |  | 58.70% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Feb) |  |  | 1.1% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Mar) |  | 4.1% | 4.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Mar) |  |  | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Mar) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Mar) |  |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Mar) |  |  | 0.7% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Mar) |  |  | 3.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Mar) |  |  | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
 | 07:00 | GBP | Low | CPI, n.s.a (Mar) |  |  | 132.30 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Mar) |  |  | -2.7% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Mar) |  | 0.1% | -0.4% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Mar) |  |  | -2.7% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Mar) |  |  | 0.4% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Mar) |  | 0.2% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (Mar) |  | 4.2% | 4.5% |
