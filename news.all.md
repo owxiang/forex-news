@@ -3,24 +3,24 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 33 min | JPY | Low | Foreign Bonds Buying |  |  | 346.4B |
-| 33 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,764.4B |
-| 02:30 | AUD | Moderate | Employment Change (Mar) |  | 7.2K | 116.5K |
-| 02:30 | AUD | Moderate | Full Employment Change (Mar) |  |  | 78.2K |
-| 02:30 | AUD | Low | NAB Quarterly Business Confidence |  |  | -6 |
-| 02:30 | AUD | Low | Participation Rate (Mar) |  |  | 66.7% |
-| 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 02:30 | AUD | Low | Reserve Assets Total (Mar) |  |  | 92,605.0B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Mar) |  | 3.9% | 3.7% |
-| 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -1,005.9B |  | 347.9B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,740.0B |  | 1,764.9B |
+| 21 min | AUD | Moderate | Employment Change (Mar) |  | 7.2K | 116.5K |
+| 21 min | AUD | Moderate | Full Employment Change (Mar) |  |  | 78.2K |
+| 21 min | AUD | Low | NAB Quarterly Business Confidence |  |  | -6 |
+| 21 min | AUD | Low | Participation Rate (Mar) |  |  | 66.7% |
+| 21 min | AUD | Low | RBA Bulletin |  |  |  |
+| 21 min | AUD | Low | Reserve Assets Total (Mar) |  |  | 92,605.0B |
+| 21 min | AUD | Moderate | Unemployment Rate (Mar) |  | 3.9% | 3.7% |
+| 21 min | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  | 0.80 | -10.00 |
-| 07:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
 | 07:00 | CHF | Low | Trade Balance (Mar) |  | 3.220B | 3.662B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 1.8% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | 5.4% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 1.8% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | 13.0% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 16.6% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) |  |  | -4.9 |
@@ -48,8 +48,8 @@
 | 14:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
+| 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 54B | 24B |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | JPY | Foreign Bonds Buying |  |  | 346.4B |
-| 33 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,764.4B |
-| 02:30 | AUD | NAB Quarterly Business Confidence |  |  | -6 |
-| 02:30 | AUD | Participation Rate (Mar) |  |  | 66.7% |
-| 02:30 | AUD | RBA Bulletin |  |  |  |
-| 02:30 | AUD | Reserve Assets Total (Mar) |  |  | 92,605.0B |
+| 00:50 | JPY | Foreign Bonds Buying | -1,005.9B |  | 347.9B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 1,740.0B |  | 1,764.9B |
+| 21 min | AUD | NAB Quarterly Business Confidence |  |  | -6 |
+| 21 min | AUD | Participation Rate (Mar) |  |  | 66.7% |
+| 21 min | AUD | RBA Bulletin |  |  |  |
+| 21 min | AUD | Reserve Assets Total (Mar) |  |  | 92,605.0B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) |  | 0.80 | -10.00 |
-| 07:00 | GBP | Car Registration (YoY) (Mar) |  |  | 14.0% |
 | 07:00 | GBP | Car Registration (MoM) (Mar) |  |  | -40.6% |
+| 07:00 | GBP | Car Registration (YoY) (Mar) |  |  | 14.0% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
 | 07:00 | CHF | Trade Balance (Mar) |  | 3.220B | 3.662B |
-| 07:00 | EUR | German Car Registration (MoM) (Mar) |  |  | 1.8% |
 | 07:00 | EUR | German Car Registration (YoY) (Mar) |  |  | 5.4% |
+| 07:00 | EUR | German Car Registration (MoM) (Mar) |  |  | 1.8% |
 | 07:00 | EUR | French Car Registration (YoY) (Mar) |  |  | 13.0% |
 | 07:00 | EUR | French Car Registration (MoM) (Mar) |  |  | 16.6% |
 | 07:00 | NOK | Industrial Confidence (Q1) |  |  | -4.9 |
