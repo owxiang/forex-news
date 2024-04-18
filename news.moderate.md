@@ -20,6 +20,6 @@
 | 15:00 | USD | US Leading Index (MoM) (Mar) | -0.3% | -0.1% | 0.2% |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction | 2.242% |  | 1.710% |
-| 16 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,438B |
 | 22:45 | USD | FOMC Member Bostic Speaks |  |  |  |
