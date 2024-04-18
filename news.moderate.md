@@ -10,7 +10,7 @@
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 47 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,817K |
 | 13:30 | USD | Philly Fed Employment (Apr) |  |  | -9.6 |
 | 14:05 | USD | FOMC Member Bowman Speaks |  |  |  |

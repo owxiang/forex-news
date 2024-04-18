@@ -9,13 +9,13 @@
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 02:30 | AUD | Reserve Assets Total (Mar) | 92.7B |  | 92.6B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 07:00 | GBP | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
 | 07:00 | GBP | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
+| 07:00 | GBP | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
-| 07:00 | EUR | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
 | 07:00 | EUR | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
+| 07:00 | EUR | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
 | 07:00 | EUR | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
 | 07:00 | EUR | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | NOK | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
@@ -26,7 +26,7 @@
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.251% |  | 3.190% |
 | 10:00 | EUR | Construction Output (MoM) (Feb) | 1.83% |  | 0.19% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:30 | INR | M3 Money Supply |  |  | 11.2% |
+| 17 min | INR | M3 Money Supply |  |  | 11.2% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.25K |
 | 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 38.6 |
 | 13:30 | USD | Philly Fed CAPEX Index (Apr) |  |  | 23.60 |
