@@ -14,23 +14,23 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 45 min | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
-| 45 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
-| 45 min | EUR | Low | Current Account (Feb) |  | 45.2B | 39.4B |
-| 45 min | EUR | Low | Current Account n.s.a. (Feb) |  |  | 24.9B |
-| 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 2.9% |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.190% |
-| 10:00 | USD | Low | IMF Meetings |  |  |  |
-| 10:00 | EUR | Low | Construction Output (MoM) (Feb) |  |  | 0.48% |
+| 09:00 | EUR | Low | Current Account (Feb) | 29.5B | 45.2B | 39.4B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Feb) | 31.6B |  | 24.9B |
+| 10 min | HKD | Low | Unemployment Rate (Mar) |  |  | 2.9% |
+| 20 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.190% |
+| 40 min | USD | Low | IMF Meetings |  |  |  |
+| 40 min | EUR | Low | Construction Output (MoM) (Feb) |  |  | 0.48% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | CNY | Low | FDI |  |  | -19.90% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
