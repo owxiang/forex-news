@@ -14,19 +14,19 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
-| 9 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
-| 9 min | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
-| 9 min | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
-| 9 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
-| 9 min | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 1.8% |
-| 9 min | EUR | Low | German Car Registration (YoY) (Mar) |  |  | 5.4% |
-| 9 min | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 16.6% |
-| 9 min | EUR | Low | French Car Registration (YoY) (Mar) |  |  | 13.0% |
-| 54 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | Current Account (Feb) |  | 45.2B | 39.4B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Feb) |  |  | 24.9B |
+| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 45 min | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
+| 45 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
+| 45 min | EUR | Low | Current Account (Feb) |  | 45.2B | 39.4B |
+| 45 min | EUR | Low | Current Account n.s.a. (Feb) |  |  | 24.9B |
 | 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 2.9% |
 | 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.190% |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
@@ -49,8 +49,8 @@
 | 14:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
 | 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 54B | 24B |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

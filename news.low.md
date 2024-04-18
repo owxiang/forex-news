@@ -9,18 +9,18 @@
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 02:30 | AUD | Reserve Assets Total (Mar) | 92.7B |  | 92.6B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
+| 07:00 | EUR | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
+| 07:00 | EUR | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
+| 07:00 | EUR | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
+| 07:00 | EUR | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
+| 07:00 | EUR | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
 | 07:00 | NOK | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
-| 9 min | GBP | Car Registration (YoY) (Mar) |  |  | 14.0% |
-| 9 min | GBP | Car Registration (MoM) (Mar) |  |  | -40.6% |
-| 9 min | EUR | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
-| 9 min | EUR | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
-| 9 min | EUR | German Car Registration (MoM) (Mar) |  |  | 1.8% |
-| 9 min | EUR | German Car Registration (YoY) (Mar) |  |  | 5.4% |
-| 9 min | EUR | French Car Registration (MoM) (Mar) |  |  | 16.6% |
-| 9 min | EUR | French Car Registration (YoY) (Mar) |  |  | 13.0% |
-| 09:00 | EUR | Current Account (Feb) |  | 45.2B | 39.4B |
-| 09:00 | EUR | Current Account n.s.a. (Feb) |  |  | 24.9B |
+| 45 min | GBP | Car Registration (MoM) (Mar) |  |  | -40.6% |
+| 45 min | GBP | Car Registration (YoY) (Mar) |  |  | 14.0% |
+| 45 min | EUR | Current Account (Feb) |  | 45.2B | 39.4B |
+| 45 min | EUR | Current Account n.s.a. (Feb) |  |  | 24.9B |
 | 09:30 | HKD | Unemployment Rate (Mar) |  |  | 2.9% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.190% |
 | 10:00 | USD | IMF Meetings |  |  |  |
