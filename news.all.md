@@ -21,8 +21,8 @@
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Feb) | 29.5B | 45.2B | 39.3B |
@@ -34,9 +34,9 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 17 min | INR | Low | M3 Money Supply |  |  | 11.2% |
-| 47 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,817K |
+| 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:20 | INR | Low | M3 Money Supply | 11.4% |  | 11.2% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,818K | 1,817K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 215K | 211K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) |  | 1.5 | 3.2 |
@@ -45,9 +45,9 @@
 | 13:30 | USD | Moderate | Philly Fed Employment (Apr) |  |  | -9.6 |
 | 13:30 | USD | Low | Philly Fed New Orders (Apr) |  |  | 5.4 |
 | 13:30 | USD | Low | Philly Fed Prices Paid (Apr) |  |  | 3.70 |
-| 14:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 14:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 36 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 46 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 46 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
