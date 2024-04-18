@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:15 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 02:30 | AUD | Employment Change (Mar) | -6.6K | 7.2K | 117.6K |
-| 02:30 | AUD | Full Employment Change (Mar) | 27.9K |  | 78.2K |
+| 02:30 | AUD | Full Employment Change (Mar) | 27.9K |  | 79.4K |
 | 02:30 | AUD | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 44 min | EUR | EU Leaders Summit |  |  |  |
+| 44 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,817K |
 | 13:30 | USD | Philly Fed Employment (Apr) |  |  | -9.6 |
