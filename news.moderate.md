@@ -8,8 +8,8 @@
 | 02:30 | AUD | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 44 min | EUR | EU Leaders Summit |  |  |  |
-| 44 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | EU Leaders Summit |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  |  | 1,817K |
 | 13:30 | USD | Philly Fed Employment (Apr) |  |  | -9.6 |

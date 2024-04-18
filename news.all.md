@@ -16,13 +16,13 @@
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
 | 07:00 | GBP | Low | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Feb) | 29.5B | 45.2B | 39.3B |
@@ -31,10 +31,9 @@
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.251% |  | 3.190% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Feb) | 1.83% |  | 0.19% |
-| 44 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 44 min | CNY | Low | FDI |  |  | -19.90% |
-| 44 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 44 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.2% |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,817K |
