@@ -16,8 +16,8 @@
 | 07:00 | CHF | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
 | 07:00 | EUR | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
-| 07:00 | EUR | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | EUR | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
+| 07:00 | EUR | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | NOK | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
 | 09:00 | EUR | Current Account (Feb) | 29.5B | 45.2B | 39.3B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) | 31.6B |  | 24.8B |
@@ -32,8 +32,8 @@
 | 13:30 | USD | Philly Fed CAPEX Index (Apr) | 20.00 |  | 23.60 |
 | 13:30 | USD | Philly Fed New Orders (Apr) | 12.2 |  | 5.4 |
 | 13:30 | USD | Philly Fed Prices Paid (Apr) | 23.00 |  | 3.70 |
-| 15 min | USD | Natural Gas Storage |  | 54B | 24B |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
+| 15:30 | USD | Natural Gas Storage | 50B | 54B | 24B |
+| 13 min | USD | 4-Week Bill Auction |  |  | 5.270% |
+| 13 min | USD | 8-Week Bill Auction |  |  | 5.270% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.684B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.616T |

@@ -21,8 +21,8 @@
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Feb) | 29.5B | 45.2B | 39.3B |
@@ -51,10 +51,10 @@
 | 15:00 | USD | High | Existing Home Sales (Mar) | 4.19M | 4.20M | 4.38M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -4.3% |  | 9.5% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) | -0.3% | -0.1% | 0.2% |
-| 15 min | USD | Low | Natural Gas Storage |  | 54B | 24B |
-| 45 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
+| 15:30 | USD | Low | Natural Gas Storage | 50B | 54B | 24B |
+| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.710% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.684B |
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
