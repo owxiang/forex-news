@@ -14,15 +14,15 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) | -6.2% |  | 5.4% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Mar) | 21.4% |  | 1.8% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Mar) | 26.2% |  | 16.6% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) | -1.5% |  | 13.0% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Feb) | 29.5B | 45.2B | 39.3B |
@@ -48,8 +48,8 @@
 | 14:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Mar) | 4.19M | 4.20M | 4.38M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -4.3% |  | 9.5% |
+| 15:00 | USD | High | Existing Home Sales (Mar) | 4.19M | 4.20M | 4.38M |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) | -0.3% | -0.1% | 0.2% |
 | 15:30 | USD | Low | Natural Gas Storage | 50B | 54B | 24B |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
@@ -60,4 +60,4 @@
 | 18:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 7,406B |  | 7,438B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.330T |  | 3.616T |
-| 31 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 22:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
