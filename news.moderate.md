@@ -1,25 +1,27 @@
-## 18 April 2024 - Moderate Impact Forex News
+## 19 April 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 02:30 | AUD | Employment Change (Mar) | -6.6K | 7.2K | 117.6K |
-| 02:30 | AUD | Full Employment Change (Mar) | 27.9K |  | 79.4K |
-| 02:30 | AUD | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
-| 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
-| 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 11:00 | EUR | EU Leaders Summit |  |  |  |
+| 13 min | JPY | National Core CPI (YoY) (Mar) |  | 2.7% | 2.8% |
+| 13 min | JPY | National CPI (MoM) |  |  | 0.0% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Mar) |  |  | 0.2% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Mar) |  |  | -0.5% |
+| 07:00 | GBP | Retail Sales (MoM) (Mar) |  | 0.3% | 0.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Mar) |  |  | -0.4% |
+| 07:00 | EUR | German PPI (MoM) (Mar) |  | 0.0% | -0.4% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,812K | 1,818K | 1,810K |
-| 13:30 | USD | Philly Fed Employment (Apr) | -10.7 |  | -9.6 |
-| 14:05 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 14:15 | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Mar) | -4.3% |  | 9.5% |
-| 15:00 | USD | US Leading Index (MoM) (Mar) | -0.3% | -0.1% | 0.2% |
-| 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | 5-Year TIPS Auction | 2.242% |  | 1.710% |
-| 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,406B |  | 7,438B |
-| 22:45 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 15:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 17:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 617 |
+| 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 28.3K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 297.1K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 202.4K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 7.5K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -62.9K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -92.3K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -2.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -162.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 32.7K |
