@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21 min | AUD | Employment Change (Mar) |  | 7.2K | 116.5K |
-| 21 min | AUD | Full Employment Change (Mar) |  |  | 78.2K |
-| 21 min | AUD | Unemployment Rate (Mar) |  | 3.9% | 3.7% |
-| 21 min | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
+| 02:30 | AUD | Employment Change (Mar) | -6.6K | 7.2K | 116.5K |
+| 02:30 | AUD | Full Employment Change (Mar) | 27.9K |  | 78.2K |
+| 02:30 | AUD | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
+| 02:30 | JPY | BoJ Board Member Noguchi Speaks |  |  |  |
 | 08:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |

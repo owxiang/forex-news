@@ -5,14 +5,14 @@
 | 00:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -1,005.9B |  | 347.9B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 1,740.0B |  | 1,764.9B |
-| 21 min | AUD | Moderate | Employment Change (Mar) |  | 7.2K | 116.5K |
-| 21 min | AUD | Moderate | Full Employment Change (Mar) |  |  | 78.2K |
-| 21 min | AUD | Low | NAB Quarterly Business Confidence |  |  | -6 |
-| 21 min | AUD | Low | Participation Rate (Mar) |  |  | 66.7% |
-| 21 min | AUD | Low | RBA Bulletin |  |  |  |
-| 21 min | AUD | Low | Reserve Assets Total (Mar) |  |  | 92,605.0B |
-| 21 min | AUD | Moderate | Unemployment Rate (Mar) |  | 3.9% | 3.7% |
-| 21 min | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
+| 02:30 | AUD | Moderate | Employment Change (Mar) | -6.6K | 7.2K | 116.5K |
+| 02:30 | AUD | Moderate | Full Employment Change (Mar) | 27.9K |  | 78.2K |
+| 02:30 | AUD | Low | NAB Quarterly Business Confidence | -2 |  | -6 |
+| 02:30 | AUD | Low | Participation Rate (Mar) | 66.6% |  | 66.7% |
+| 02:30 | AUD | Low | RBA Bulletin |  |  |  |
+| 02:30 | AUD | Low | Reserve Assets Total (Mar) | 92,672.0B |  | 92,605.0B |
+| 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
+| 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) |  | 0.80 | -10.00 |
 | 07:00 | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
@@ -21,8 +21,8 @@
 | 07:00 | CHF | Low | Trade Balance (Mar) |  | 3.220B | 3.662B |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Mar) |  |  | 5.4% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 1.8% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | 13.0% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 16.6% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Mar) |  |  | 13.0% |
 | 07:00 | NOK | Low | Industrial Confidence (Q1) |  |  | -4.9 |
 | 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Feb) |  | 45.2B | 39.4B |
