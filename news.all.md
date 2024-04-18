@@ -14,8 +14,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 07:00 | GBP | Low | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
@@ -48,11 +48,11 @@
 | 14:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 14:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 43 min | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
-| 43 min | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
-| 43 min | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 54B | 24B |
-| 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:00 | USD | High | Existing Home Sales (Mar) | 4.19M | 4.20M | 4.38M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) | -4.3% |  | 9.5% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) | -0.3% | -0.1% | 0.2% |
+| 15 min | USD | Low | Natural Gas Storage |  | 54B | 24B |
+| 45 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 1.710% |
