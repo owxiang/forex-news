@@ -11,13 +11,13 @@
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,818K | 1,817K |
-| 13:30 | USD | Philly Fed Employment (Apr) |  |  | -9.6 |
-| 36 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 46 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 46 min | USD | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
-| 15:00 | USD | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
+| 13:30 | USD | Continuing Jobless Claims | 1,812K | 1,818K | 1,810K |
+| 13:30 | USD | Philly Fed Employment (Apr) | -10.7 |  | -9.6 |
+| 14:05 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | FOMC Member Williams Speaks |  |  |  |
+| 43 min | USD | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
+| 43 min | USD | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
 | 16:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 1.710% |
 | 18:30 | EUR | ECB's Schnabel Speaks |  |  |  |

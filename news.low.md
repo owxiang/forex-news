@@ -9,8 +9,8 @@
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 02:30 | AUD | Reserve Assets Total (Mar) | 92.7B |  | 92.6B |
 | 05:30 | JPY | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 07:00 | GBP | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | GBP | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
+| 07:00 | GBP | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
@@ -27,11 +27,11 @@
 | 10:00 | EUR | Construction Output (MoM) (Feb) | 1.83% |  | 0.19% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:20 | INR | M3 Money Supply | 11.4% |  | 11.2% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.25K |
-| 13:30 | USD | Philly Fed Business Conditions (Apr) |  |  | 38.6 |
-| 13:30 | USD | Philly Fed CAPEX Index (Apr) |  |  | 23.60 |
-| 13:30 | USD | Philly Fed New Orders (Apr) |  |  | 5.4 |
-| 13:30 | USD | Philly Fed Prices Paid (Apr) |  |  | 3.70 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 214.50K |  | 214.50K |
+| 13:30 | USD | Philly Fed Business Conditions (Apr) | 34.3 |  | 38.6 |
+| 13:30 | USD | Philly Fed CAPEX Index (Apr) | 20.00 |  | 23.60 |
+| 13:30 | USD | Philly Fed New Orders (Apr) | 12.2 |  | 5.4 |
+| 13:30 | USD | Philly Fed Prices Paid (Apr) | 23.00 |  | 3.70 |
 | 15:30 | USD | Natural Gas Storage |  | 54B | 24B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.270% |

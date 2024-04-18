@@ -14,8 +14,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Mar) | 274.4% |  | -40.6% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Mar) | 10.4% |  | 14.0% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Mar) | 10.2% |  | 3.6% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Mar) | -3.7% |  | 12.8% |
 | 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
@@ -36,21 +36,21 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:20 | INR | Low | M3 Money Supply | 11.4% |  | 11.2% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,818K | 1,817K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 215K | 211K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.25K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) |  | 1.5 | 3.2 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Apr) |  |  | 38.6 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Apr) |  |  | 23.60 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Apr) |  |  | -9.6 |
-| 13:30 | USD | Low | Philly Fed New Orders (Apr) |  |  | 5.4 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Apr) |  |  | 3.70 |
-| 36 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 46 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 46 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 15:00 | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,812K | 1,818K | 1,810K |
+| 13:30 | USD | High | Initial Jobless Claims | 212K | 215K | 212K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 214.50K |  | 214.50K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Apr) | 15.5 | 1.5 | 3.2 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Apr) | 34.3 |  | 38.6 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Apr) | 20.00 |  | 23.60 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Apr) | -10.7 |  | -9.6 |
+| 13:30 | USD | Low | Philly Fed New Orders (Apr) | 12.2 |  | 5.4 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Apr) | 23.00 |  | 3.70 |
+| 14:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 14:15 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 43 min | USD | High | Existing Home Sales (Mar) |  | 4.20M | 4.38M |
+| 43 min | USD | Moderate | Existing Home Sales (MoM) (Mar) |  |  | 9.5% |
+| 43 min | USD | Moderate | US Leading Index (MoM) (Mar) |  | -0.1% | 0.1% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 54B | 24B |
 | 16:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
