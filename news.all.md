@@ -14,17 +14,17 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Mar) | 3.8% | 3.9% | 3.7% |
 | 02:30 | JPY | Moderate | BoJ Board Member Noguchi Speaks |  |  |  |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Feb) | 0.60 | 0.80 | -10.10 |
-| 43 min | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
-| 43 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
-| 43 min | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
-| 43 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
-| 43 min | CHF | Low | Trade Balance (Mar) |  | 3.220B | 3.662B |
-| 43 min | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 1.8% |
-| 43 min | EUR | Low | German Car Registration (YoY) (Mar) |  |  | 5.4% |
-| 43 min | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 16.6% |
-| 43 min | EUR | Low | French Car Registration (YoY) (Mar) |  |  | 13.0% |
-| 43 min | NOK | Low | Industrial Confidence (Q1) |  |  | -4.9 |
-| 08:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 07:00 | CHF | Low | Trade Balance (Mar) | 3.542B | 3.220B | 3.680B |
+| 07:00 | NOK | Low | Industrial Confidence (Q1) | 0.0 |  | -4.3 |
+| 9 min | GBP | Low | Car Registration (YoY) (Mar) |  |  | 14.0% |
+| 9 min | GBP | Low | Car Registration (MoM) (Mar) |  |  | -40.6% |
+| 9 min | EUR | Low | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
+| 9 min | EUR | Low | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
+| 9 min | EUR | Low | German Car Registration (MoM) (Mar) |  |  | 1.8% |
+| 9 min | EUR | Low | German Car Registration (YoY) (Mar) |  |  | 5.4% |
+| 9 min | EUR | Low | French Car Registration (MoM) (Mar) |  |  | 16.6% |
+| 9 min | EUR | Low | French Car Registration (YoY) (Mar) |  |  | 13.0% |
+| 54 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Feb) |  | 45.2B | 39.4B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Feb) |  |  | 24.9B |
 | 09:30 | HKD | Low | Unemployment Rate (Mar) |  |  | 2.9% |
