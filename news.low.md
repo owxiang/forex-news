@@ -7,17 +7,17 @@
 | 02:30 | AUD | NAB Quarterly Business Confidence | -2 |  | -6 |
 | 02:30 | AUD | Participation Rate (Mar) | 66.6% |  | 66.7% |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
-| 02:30 | AUD | Reserve Assets Total (Mar) | 92,672.0B |  | 92,605.0B |
-| 05:30 | JPY | Tertiary Industry Activity Index (Feb) |  | 0.80 | -10.00 |
+| 02:30 | AUD | Reserve Assets Total (Mar) | 92.7B |  | 92.6B |
+| 12 min | JPY | Tertiary Industry Activity Index (Feb) |  | 0.80 | -10.00 |
 | 07:00 | GBP | Car Registration (YoY) (Mar) |  |  | 14.0% |
 | 07:00 | GBP | Car Registration (MoM) (Mar) |  |  | -40.6% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Mar) |  |  | 3.6% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Mar) |  |  | 12.8% |
 | 07:00 | CHF | Trade Balance (Mar) |  | 3.220B | 3.662B |
-| 07:00 | EUR | German Car Registration (YoY) (Mar) |  |  | 5.4% |
 | 07:00 | EUR | German Car Registration (MoM) (Mar) |  |  | 1.8% |
-| 07:00 | EUR | French Car Registration (YoY) (Mar) |  |  | 13.0% |
+| 07:00 | EUR | German Car Registration (YoY) (Mar) |  |  | 5.4% |
 | 07:00 | EUR | French Car Registration (MoM) (Mar) |  |  | 16.6% |
+| 07:00 | EUR | French Car Registration (YoY) (Mar) |  |  | 13.0% |
 | 07:00 | NOK | Industrial Confidence (Q1) |  |  | -4.9 |
 | 09:00 | EUR | Current Account (Feb) |  | 45.2B | 39.4B |
 | 09:00 | EUR | Current Account n.s.a. (Feb) |  |  | 24.9B |
