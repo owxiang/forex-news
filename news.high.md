@@ -1,3 +1,3 @@
-## 19 April 2024 - High Impact Forex News
+## 20 April 2024 - High Impact Forex News
 
 There is no high impact news today.
