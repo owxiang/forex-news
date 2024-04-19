@@ -4,14 +4,14 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | 0.0% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
-| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
+| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 0.4% |  | -0.4% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.0% | 0.3% | 0.1% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | 0.2% | 0.0% | -0.4% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) | -2.9% |  | -4.1% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | 0.2% | 0.0% | -0.4% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Feb) | -2.40B |  | -3.70B |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 10:15 | EUR | Low | Spanish Consumer Confidence (Mar) | 82.5 |  | 78.5 |
@@ -21,14 +21,14 @@
 | 12:30 | INR | Low | Deposit Growth | 13.8% |  | 13.5% |
 | 12:30 | INR | Low | FX Reserves, USD | 643.16B |  | 648.56B |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) | 0.4% |  | -0.6% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) | 3.0% |  | -0.8% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) | 0.4% |  | -0.6% |
 | 15:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 15:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 17:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 617 |
+| 9 min | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 39 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 39 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 617 |
 | 20:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 28.3K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.6K |

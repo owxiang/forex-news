@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
 | 00:30 | JPY | National CPI (MoM) | 0.2% |  | 0.0% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 0.4% |  | -0.4% |
-| 07:00 | GBP | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Mar) | 0.0% | 0.3% | 0.1% |
+| 07:00 | GBP | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
 | 07:00 | EUR | German PPI (MoM) (Mar) | 0.2% | 0.0% | -0.4% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 15:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
-| 17:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 617 |
+| 9 min | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 617 |
 | 20:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 28.3K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 297.1K |
