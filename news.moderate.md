@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
 | 00:30 | JPY | National CPI (MoM) | 0.2% |  | 0.0% |
-| 07:00 | GBP | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Mar) | 0.4% |  | -0.4% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
 | 07:00 | GBP | Retail Sales (MoM) (Mar) | 0.0% | 0.3% | 0.1% |
 | 07:00 | GBP | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
 | 07:00 | EUR | German PPI (MoM) (Mar) | 0.2% | 0.0% | -0.4% |
-| 43 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 15:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 17:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
