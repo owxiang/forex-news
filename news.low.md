@@ -5,9 +5,10 @@
 | 00:30 | JPY | CPI, n.s.a (MoM) (Mar) | 0.3% |  | 0.0% |
 | 00:30 | JPY | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
 | 07:00 | EUR | German PPI (YoY) (Mar) | -2.9% |  | -4.1% |
-| 09:00 | EUR | Spanish Trade Balance | -2.40B |  | -3.70B |
-| 40 min | USD | IMF Meetings |  |  |  |
-| 11:00 | EUR | Spanish Consumer Confidence |  |  | 78.5 |
+| 09:00 | EUR | Spanish Trade Balance (Feb) | -2.40B |  | -3.70B |
+| 10:00 | USD | IMF Meetings |  |  |  |
+| 10:15 | EUR | Spanish Consumer Confidence (Mar) | 82.5 |  | 78.5 |
+| 10:15 | CNY | FDI (Mar) | -26.10% |  | -19.90% |
 | 12:30 | INR | Bank Loan Growth |  |  | 20.2% |
 | 12:30 | INR | Deposit Growth |  |  | 13.5% |
 | 12:30 | INR | FX Reserves, USD |  |  | 648.56B |
