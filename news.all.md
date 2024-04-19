@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | 0.0% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
-| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  |  | 0.2% |
+| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  |  | -0.5% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  |  | 0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | 0.3% | 0.0% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) |  |  | -0.4% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Mar) |  | 0.0% | -0.4% |
@@ -20,8 +20,8 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.5% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 648.56B |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | -0.8% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 15:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 15:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
