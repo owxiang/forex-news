@@ -6,10 +6,10 @@
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
 | 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.0% |
 | 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  |  | -0.5% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  |  | 0.2% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | 0.3% | 0.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  |  | -0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) |  |  | -0.4% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | 0.3% | 0.0% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Mar) |  | 0.0% | -0.4% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) |  |  | -4.1% |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.70B |
