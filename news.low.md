@@ -16,14 +16,14 @@
 | 13:00 | MXN | Retail Sales (YoY) (Feb) | 3.0% |  | -0.8% |
 | 15:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 16 min | USD | CFTC Aluminium speculative net positions |  |  | 2.6K |
-| 16 min | USD | CFTC Copper speculative net positions |  |  | 42.7K |
-| 16 min | USD | CFTC Corn speculative net positions |  |  | -190.2K |
-| 16 min | USD | CFTC Natural Gas speculative net positions |  |  | -127.9K |
-| 16 min | USD | CFTC Silver speculative net positions |  |  | 53.2K |
-| 16 min | USD | CFTC Soybeans speculative net positions |  |  | -158.5K |
-| 16 min | USD | CFTC Wheat speculative net positions |  |  | -52.4K |
-| 16 min | CAD | CFTC CAD speculative net positions |  |  | -53.4K |
-| 16 min | MXN | CFTC MXN speculative net positions |  |  | 139.7K |
-| 16 min | CHF | CFTC CHF speculative net positions |  |  | -31.8K |
-| 16 min | NZD | CFTC NZD speculative net positions |  |  | -13.5K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 1.0K |  | 2.6K |
+| 20:30 | USD | CFTC Copper speculative net positions | 47.6K |  | 42.7K |
+| 20:30 | USD | CFTC Corn speculative net positions | -204.9K |  | -190.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -131.9K |  | -127.9K |
+| 20:30 | USD | CFTC Silver speculative net positions | 53.4K |  | 53.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -171.9K |  | -158.5K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -62.9K |  | -52.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -82.8K |  | -53.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 127.7K |  | 139.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -36.2K |  | -31.8K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -11.7K |  | -13.5K |
