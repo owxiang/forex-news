@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 13 min | JPY | Low | CPI, n.s.a (MoM) (Mar) |  |  | 0.0% |
-| 13 min | JPY | Moderate | National Core CPI (YoY) (Mar) |  | 2.7% | 2.8% |
-| 13 min | JPY | Low | National CPI (YoY) (Mar) |  | 2.7% | 2.8% |
-| 13 min | JPY | Moderate | National CPI (MoM) |  |  | 0.0% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | 0.0% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
+| 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) |  |  | 0.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) |  |  | -0.5% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) |  | 0.3% | 0.0% |
