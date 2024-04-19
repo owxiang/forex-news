@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Mar) | 0.3% |  | 0.0% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Mar) | 2.6% | 2.7% | 2.8% |
-| 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.0% |
 | 00:30 | JPY | Low | National CPI (YoY) (Mar) | 2.7% | 2.7% | 2.8% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 0.4% |  | -0.4% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Mar) | -0.3% |  | 0.3% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Mar) | 0.4% |  | -0.4% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Mar) | 0.0% | 0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) | -2.9% |  | -4.1% |
@@ -17,12 +17,12 @@
 | 10:15 | EUR | Low | Spanish Consumer Confidence (Mar) | 82.5 |  | 78.5 |
 | 10:15 | CNY | Low | FDI (Mar) | -26.10% |  | -19.90% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 20.2% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 13.5% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 648.56B |
-| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Feb) |  |  | -0.8% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Feb) |  |  | -0.6% |
+| 17 min | INR | Low | Bank Loan Growth |  |  | 20.2% |
+| 17 min | INR | Low | Deposit Growth |  |  | 13.5% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 648.56B |
+| 17 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 47 min | MXN | Low | Retail Sales (YoY) (Feb) |  |  | -0.8% |
+| 47 min | MXN | Low | Retail Sales (MoM) (Feb) |  |  | -0.6% |
 | 15:15 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 15:15 | GBP | Moderate | MPC Member Ramsden Speaks |  |  |  |
 | 15:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
