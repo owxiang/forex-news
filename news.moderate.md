@@ -11,7 +11,7 @@
 | 07:00 | EUR | German PPI (MoM) (Mar) | 0.2% | 0.0% | -0.4% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
-| 15:15 | GBP | MPC Member Ramsden Speaks |  |  |  |
+| 57 min | GBP | MPC Member Ramsden Speaks |  |  |  |
 | 17:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 617 |
