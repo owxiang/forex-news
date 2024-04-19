@@ -12,8 +12,8 @@
 | 12:30 | INR | Bank Loan Growth | 19.9% |  | 20.2% |
 | 12:30 | INR | Deposit Growth | 13.8% |  | 13.5% |
 | 12:30 | INR | FX Reserves, USD | 643.16B |  | 648.56B |
-| 13:00 | MXN | Retail Sales (MoM) (Feb) | 0.4% |  | -0.6% |
 | 13:00 | MXN | Retail Sales (YoY) (Feb) | 3.0% |  | -0.8% |
+| 13:00 | MXN | Retail Sales (MoM) (Feb) | 0.4% |  | -0.6% |
 | 15:15 | GBP | BoE Breeden Speaks |  |  |  |
 | 15:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions | 1.0K |  | 2.6K |
