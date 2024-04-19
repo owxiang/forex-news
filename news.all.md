@@ -12,7 +12,7 @@
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Mar) | 0.8% |  | -0.3% |
 | 07:00 | EUR | Low | German PPI (YoY) (Mar) | -2.9% |  | -4.1% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Mar) | 0.2% | 0.0% | -0.4% |
-| 09:00 | EUR | Low | Spanish Trade Balance |  |  | -3.70B |
+| 44 min | EUR | Low | Spanish Trade Balance |  |  | -3.70B |
 | 10:00 | USD | Low | IMF Meetings |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence |  |  | 78.5 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
