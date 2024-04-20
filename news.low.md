@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 42 min | USD | IMF Meetings |  |  |  |
+| 10:00 | USD | IMF Meetings |  |  |  |
