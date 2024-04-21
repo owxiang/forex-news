@@ -17,8 +17,8 @@
 | 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
+| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | RMPI (YoY) (Mar) |  |  | -4.7% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.814% |
