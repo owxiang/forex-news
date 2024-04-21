@@ -17,14 +17,14 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
+| 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | -4.7% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 2.9% | 2.1% |
+| 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | -4.7% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.471% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.814% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.706% |
@@ -34,5 +34,5 @@
 | 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:02 | GBP | Low | Rightmove House Price Index (YoY) (Apr) |  |  | 0.8% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.684B |
-| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.3% |
 | 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 1.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.3% |
