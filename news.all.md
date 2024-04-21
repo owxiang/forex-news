@@ -17,8 +17,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  |  | -0.60% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.05 |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |

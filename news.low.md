@@ -14,8 +14,8 @@
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
+| 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
