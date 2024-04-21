@@ -20,8 +20,8 @@
 | 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | -1.7% |
+| 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 2.9% | 2.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | -4.7% |
