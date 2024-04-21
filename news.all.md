@@ -23,8 +23,8 @@
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) |  | 0.1% | 0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 2.9% | 2.1% |
 | 13:30 | CAD | Low | RMPI (YoY) (Mar) |  |  | -4.7% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) |  | 2.9% | 2.1% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.471% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.814% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.706% |
