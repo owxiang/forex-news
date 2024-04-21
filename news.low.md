@@ -28,5 +28,5 @@
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
 | 17:02 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 0.8% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.684B |
-| 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
+| 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.3% |
