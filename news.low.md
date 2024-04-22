@@ -8,15 +8,15 @@
 | 05:00 | IDR | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
 | 05:00 | IDR | Trade Balance (Mar) | 4.47B |  | 0.83B |
 | 08:00 | CHF | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
-| 10:00 | EUR | Government Budget to GDP |  |  | -3.6% |
+| 38 min | EUR | Government Budget to GDP |  |  | -3.6% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
+| 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
+| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | RMPI (YoY) (Mar) |  |  | -4.7% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.814% |
@@ -25,5 +25,5 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
 | 17:02 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 0.8% |
-| 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.3% |
+| 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
