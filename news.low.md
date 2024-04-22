@@ -13,8 +13,8 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:10 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) | 1.40% |  | -0.90% |
+| 13:00 | MXN | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) | 0.15 | 0.09 | 0.09 |
 | 13:30 | CAD | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
 | 13:30 | CAD | IPPI (MoM) (Mar) | 0.8% | 0.8% | 1.1% |

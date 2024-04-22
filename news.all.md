@@ -16,8 +16,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:10 | GBP | Low | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Feb) | 1.40% |  | -0.90% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Mar) | 0.15 | 0.09 | 0.09 |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) | 0.8% | 0.8% | 1.1% |
