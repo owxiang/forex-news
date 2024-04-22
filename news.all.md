@@ -5,11 +5,11 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
 | 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) | 3.95% | 3.95% | 3.95% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 2.2% |
-| 42 min | IDR | Low | Export Growth (YoY) (Mar) |  |  | -9.45% |
-| 42 min | IDR | Low | Import Growth (YoY) (Mar) |  |  | 15.84% |
-| 42 min | IDR | Low | Trade Balance (Mar) |  |  | 0.87B |
-| 08:00 | CHF | Low | M3 Money Supply (Mar) |  |  | 1,130,090.0B |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) | 1.4% |  | 2.2% |
+| 05:00 | IDR | Low | Export Growth (YoY) (Mar) | -4.19% |  | -9.45% |
+| 05:00 | IDR | Low | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
+| 05:00 | IDR | Low | Trade Balance (Mar) | 4.47B |  | 0.87B |
+| 08:00 | CHF | Low | M3 Money Supply (Mar) |  |  | 1,130.1B |
 | 10:00 | EUR | Low | Government Budget to GDP |  |  | -3.6% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |

@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
-| 04:00 | NZD | Credit Card Spending (YoY) |  |  | 2.2% |
-| 42 min | IDR | Export Growth (YoY) (Mar) |  |  | -9.45% |
-| 42 min | IDR | Import Growth (YoY) (Mar) |  |  | 15.84% |
-| 42 min | IDR | Trade Balance (Mar) |  |  | 0.87B |
-| 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,130,090.0B |
+| 04:00 | NZD | Credit Card Spending (YoY) | 1.4% |  | 2.2% |
+| 05:00 | IDR | Export Growth (YoY) (Mar) | -4.19% |  | -9.45% |
+| 05:00 | IDR | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
+| 05:00 | IDR | Trade Balance (Mar) | 4.47B |  | 0.87B |
+| 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,130.1B |
 | 10:00 | EUR | Government Budget to GDP |  |  | -3.6% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
