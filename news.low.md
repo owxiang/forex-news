@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
-| 04:00 | NZD | Credit Card Spending (YoY) | 1.4% |  | 2.2% |
-| 05:00 | IDR | Export Growth (YoY) (Mar) | -4.19% |  | -9.45% |
+| 04:00 | NZD | Credit Card Spending (YoY) (Mar) | 1.4% |  | 2.1% |
+| 05:00 | IDR | Export Growth (YoY) (Mar) | -4.19% |  | -9.60% |
 | 05:00 | IDR | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
 | 05:00 | IDR | Trade Balance (Mar) | 4.47B |  | 0.87B |
 | 08:00 | CHF | M3 Money Supply (Mar) |  |  | 1,130.1B |
@@ -15,8 +15,8 @@
 | 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
+| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | RMPI (YoY) (Mar) |  |  | -4.7% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.814% |
@@ -25,6 +25,5 @@
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
 | 17:02 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 0.8% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.684B |
-| 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.3% |
+| 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
