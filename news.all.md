@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
-| 4 min | CNY | Moderate | China Loan Prime Rate 5Y (Apr) |  | 3.95% | 3.95% |
-| 4 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 2.2% |
+| 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) | 3.95% | 3.95% | 3.95% |
+| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
+| 34 min | NZD | Low | Credit Card Spending (YoY) |  |  | 2.2% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Mar) |  |  | -9.45% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Mar) |  |  | 15.84% |
 | 05:00 | IDR | Low | Trade Balance (Mar) |  |  | 0.87B |
@@ -15,8 +15,8 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  |  | -0.60% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Mar) |  |  | 0.05 |
 | 13:30 | CAD | Low | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | Low | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
@@ -32,5 +32,5 @@
 | 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:02 | GBP | Low | Rightmove House Price Index (YoY) (Apr) |  |  | 0.8% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.684B |
-| 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 1.5% |
 | 22:00 | KRW | Low | PPI (MoM) (Mar) |  |  | 0.3% |
+| 22:00 | KRW | Low | PPI (YoY) (Mar) |  |  | 1.5% |
