@@ -2,11 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 47.3 |
-| 00:00 | AUD | Low | Judo Bank Australia Services PMI |  |  | 54.4 |
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) |  |  | 1.5% |
-| 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) |  | 3.95% | 3.95% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
+| 4 min | CNY | Moderate | China Loan Prime Rate 5Y (Apr) |  | 3.95% | 3.95% |
+| 4 min | CNY | Moderate | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 2.2% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Mar) |  |  | -9.45% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Mar) |  |  | 15.84% |

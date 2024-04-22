@@ -2,9 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 47.3 |
-| 00:00 | AUD | Judo Bank Australia Services PMI |  |  | 54.4 |
-| 00:01 | GBP | Rightmove House Price Index (MoM) |  |  | 1.5% |
+| 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
 | 04:00 | NZD | Credit Card Spending (YoY) |  |  | 2.2% |
 | 05:00 | IDR | Export Growth (YoY) (Mar) |  |  | -9.45% |
 | 05:00 | IDR | Import Growth (YoY) (Mar) |  |  | 15.84% |
