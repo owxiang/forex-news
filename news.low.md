@@ -1,29 +1,30 @@
-## 22 April 2024 - Low Impact Forex News
+## 23 April 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
-| 04:00 | NZD | Credit Card Spending (YoY) (Mar) | 1.4% |  | 2.1% |
-| 05:00 | IDR | Export Growth (YoY) (Mar) | -4.19% |  | -9.60% |
-| 05:00 | IDR | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
-| 05:00 | IDR | Trade Balance (Mar) | 4.47B |  | 0.83B |
-| 08:00 | CHF | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
-| 10:00 | EUR | Government Budget to GDP | -3.6% |  | -3.7% |
-| 10:00 | EUR | Government Debt to GDP | 88.6% |  | 90.8% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:10 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Feb) | 1.40% |  | -0.90% |
-| 13:00 | MXN | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
-| 13:30 | USD | Chicago Fed National Activity (Mar) | 0.15 | 0.09 | 0.09 |
-| 13:30 | CAD | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
-| 13:30 | CAD | IPPI (MoM) (Mar) | 0.8% | 0.8% | 1.1% |
-| 13:30 | CAD | RMPI (YoY) (Mar) | 0.8% |  | -4.7% |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.474% |  | 3.471% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.825% |  | 3.814% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.710% |  | 3.706% |
-| 15:00 | EUR | Consumer Confidence (Apr) | -14.7 | -14.0 | -14.9 |
-| 16:30 | USD | 3-Month Bill Auction | 5.255% |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction | 5.160% |  | 5.155% |
-| 22:00 | KRW | PPI (MoM) (Mar) | 0.2% |  | 0.3% |
-| 22:00 | KRW | PPI (YoY) (Mar) | 1.6% |  | 1.5% |
+| 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Apr) |  |  | 47.3 |
+| 00:00 | AUD | Judo Bank Australia Services PMI (Apr) |  |  | 54.4 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 48.0 | 48.2 |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.187% |
+| 06:00 | INR | HSBC India Manufacturing PMI |  |  | 59.1 |
+| 06:00 | INR | HSBC India Services PMI |  |  | 61.2 |
+| 06:00 | SGD | CPI (MoM) (Mar) |  |  | 1.10% |
+| 07:00 | GBP | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
+| 08:00 | ZAR | Leading Indicators (Feb) |  |  | 110.80% |
+| 08:15 | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
+| 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.40% |
+| 09:30 | HKD | CPI (YoY) (Mar) |  |  | 2.10% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.840% |
+| 13:00 | USD | Building Permits (MoM) |  | -4.3% | 2.4% |
+| 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
+| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
+| 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
+| 15:00 | USD | Richmond Services Index (Apr) |  |  | -7 |
+| 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
+| 22:00 | KRW | Consumer Confidence (Apr) |  |  | 100.7 |
+| 23:45 | NZD | Exports (Mar) |  |  | 5.89B |
+| 23:45 | NZD | Imports (Mar) |  |  | 6.11B |
+| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
+| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |

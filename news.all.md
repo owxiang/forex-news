@@ -1,35 +1,56 @@
-## 22 April 2024 - All Forex News
+## 23 April 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 1.1% |  | 1.5% |
-| 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (Apr) | 3.95% | 3.95% | 3.95% |
-| 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) (Mar) | 1.4% |  | 2.1% |
-| 05:00 | IDR | Low | Export Growth (YoY) (Mar) | -4.19% |  | -9.60% |
-| 05:00 | IDR | Low | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
-| 05:00 | IDR | Low | Trade Balance (Mar) | 4.47B |  | 0.83B |
-| 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
-| 10:00 | EUR | Low | Government Budget to GDP | -3.6% |  | -3.7% |
-| 10:00 | EUR | Low | Government Debt to GDP | 88.6% |  | 90.8% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Apr) |  |  | 47.3 |
+| 00:00 | AUD | Low | Judo Bank Australia Services PMI (Apr) |  |  | 54.4 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 48.0 | 48.2 |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.1 |
+| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.187% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 59.1 |
+| 06:00 | INR | Low | HSBC India Services PMI |  |  | 61.2 |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 3.60% |
+| 06:00 | SGD | Low | CPI (MoM) (Mar) |  |  | 1.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
+| 08:00 | ZAR | Low | Leading Indicators (Feb) |  |  | 110.80% |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  |  | 48.3 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 42.8 | 41.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.6 | 50.1 |
+| 09:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 46.5 | 46.1 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.8 | 50.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 51.8 | 51.5 |
+| 09:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  |  | 52.8 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 50.3 | 50.3 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.0 | 53.1 |
+| 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | 0.40% |
+| 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 2.10% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.840% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:10 | GBP | Low | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Feb) | 1.40% |  | -0.90% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
-| 13:30 | USD | Low | Chicago Fed National Activity (Mar) | 0.15 | 0.09 | 0.09 |
-| 13:30 | CAD | Low | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
-| 13:30 | CAD | Low | IPPI (MoM) (Mar) | 0.8% | 0.8% | 1.1% |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (Mar) | 4.7% | 2.9% | 2.1% |
-| 13:30 | CAD | Low | RMPI (YoY) (Mar) | 0.8% |  | -4.7% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.474% |  | 3.471% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.825% |  | 3.814% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.710% |  | 3.706% |
-| 15:00 | EUR | Low | Consumer Confidence (Apr) | -14.7 | -14.0 | -14.9 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.255% |  | 5.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 5.160% |  | 5.155% |
-| 16:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 22:00 | KRW | Low | PPI (MoM) (Mar) | 0.2% |  | 0.3% |
-| 22:00 | KRW | Low | PPI (YoY) (Mar) | 1.6% |  | 1.5% |
+| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
+| 13:00 | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
+| 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -0.3% |
+| 15:00 | USD | High | New Home Sales (Mar) |  | 668K | 662K |
+| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
+| 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
+| 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | -7 |
+| 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
+| 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.595% |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.090M |
+| 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 100.7 |
+| 23:45 | NZD | Low | Exports (Mar) |  |  | 5.89B |
+| 23:45 | NZD | Low | Imports (Mar) |  |  | 6.11B |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -11,990M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | -505M | -218M |
