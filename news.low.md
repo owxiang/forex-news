@@ -12,16 +12,16 @@
 | 10:00 | EUR | Government Debt to GDP | 88.6% |  | 90.8% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:10 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
-| 12 min | BRL | BCB Focus Market Readout |  |  |  |
-| 47 min | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
-| 47 min | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
-| 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
-| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
-| 13:30 | CAD | RMPI (YoY) (Mar) |  |  | -4.7% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.814% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.706% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | MXN | Economic Activity (MoM) (Feb) | 1.40% |  | -0.90% |
+| 13:00 | MXN | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
+| 13:30 | USD | Chicago Fed National Activity (Mar) | 0.15 | 0.09 | 0.09 |
+| 13:30 | CAD | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
+| 13:30 | CAD | IPPI (MoM) (Mar) | 0.8% | 0.8% | 1.1% |
+| 13:30 | CAD | RMPI (YoY) (Mar) | 0.8% |  | -4.7% |
+| 29 min | EUR | French 12-Month BTF Auction |  |  | 3.471% |
+| 29 min | EUR | French 3-Month BTF Auction |  |  | 3.814% |
+| 29 min | EUR | French 6-Month BTF Auction |  |  | 3.706% |
 | 15:00 | EUR | Consumer Confidence (Apr) |  | -14.0 | -14.9 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
