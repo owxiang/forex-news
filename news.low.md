@@ -10,14 +10,14 @@
 | 08:00 | CHF | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
 | 10:00 | EUR | Government Budget to GDP | -3.6% |  | -3.7% |
 | 10:00 | EUR | Government Debt to GDP | 88.6% |  | 90.8% |
-| 43 min | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
-| 43 min | EUR | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 11:08 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
+| 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
-| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
+| 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
 | 13:30 | CAD | RMPI (YoY) (Mar) |  |  | -4.7% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.471% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.814% |
@@ -25,6 +25,5 @@
 | 15:00 | EUR | Consumer Confidence (Apr) |  | -14.0 | -14.9 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
-| 17:02 | GBP | Rightmove House Price Index (YoY) (Apr) |  |  | 0.8% |
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
