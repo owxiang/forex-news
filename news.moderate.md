@@ -7,4 +7,4 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Mar) | 0.0% | 0.1% | 0.1% |
 | 13:30 | CAD | RMPI (MoM) (Mar) | 4.7% | 2.9% | 2.1% |
-| 13 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 16:30 | EUR | ECB President Lagarde Speaks |  |  |  |

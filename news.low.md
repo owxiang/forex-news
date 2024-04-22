@@ -16,14 +16,14 @@
 | 13:00 | MXN | Economic Activity (YoY) (Feb) | 4.40% |  | 1.90% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) | 1.40% |  | -0.90% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) | 0.15 | 0.09 | 0.09 |
-| 13:30 | CAD | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
 | 13:30 | CAD | IPPI (MoM) (Mar) | 0.8% | 0.8% | 1.1% |
+| 13:30 | CAD | IPPI (YoY) (Mar) | -0.5% |  | -1.4% |
 | 13:30 | CAD | RMPI (YoY) (Mar) | 0.8% |  | -4.7% |
 | 14:00 | EUR | French 12-Month BTF Auction | 3.474% |  | 3.471% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.825% |  | 3.814% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.710% |  | 3.706% |
 | 15:00 | EUR | Consumer Confidence (Apr) | -14.7 | -14.0 | -14.9 |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.155% |
+| 16:30 | USD | 3-Month Bill Auction | 5.255% |  | 5.250% |
+| 16:30 | USD | 6-Month Bill Auction | 5.160% |  | 5.155% |
 | 22:00 | KRW | PPI (YoY) (Mar) |  |  | 1.5% |
 | 22:00 | KRW | PPI (MoM) (Mar) |  |  | 0.3% |
