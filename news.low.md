@@ -7,7 +7,7 @@
 | 05:00 | IDR | Export Growth (YoY) (Mar) | -4.19% |  | -9.60% |
 | 05:00 | IDR | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
 | 05:00 | IDR | Trade Balance (Mar) | 4.47B |  | 0.83B |
-| 39 min | CHF | M3 Money Supply (Mar) |  |  | 1,130.1B |
+| 08:00 | CHF | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
 | 10:00 | EUR | Government Budget to GDP |  |  | -3.6% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
