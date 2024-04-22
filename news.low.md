@@ -8,9 +8,10 @@
 | 05:00 | IDR | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
 | 05:00 | IDR | Trade Balance (Mar) | 4.47B |  | 0.83B |
 | 08:00 | CHF | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
-| 38 min | EUR | Government Budget to GDP |  |  | -3.6% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Government Budget to GDP | -3.6% |  | -3.7% |
+| 10:00 | EUR | Government Debt to GDP | 88.6% |  | 90.8% |
+| 43 min | GBP | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
+| 43 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |

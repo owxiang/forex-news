@@ -10,10 +10,11 @@
 | 05:00 | IDR | Low | Import Growth (YoY) (Mar) | -12.76% |  | 15.84% |
 | 05:00 | IDR | Low | Trade Balance (Mar) | 4.47B |  | 0.83B |
 | 08:00 | CHF | Low | M3 Money Supply (Mar) | 1,136.9B |  | 1,131.5B |
-| 38 min | EUR | Low | Government Budget to GDP |  |  | -3.6% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Low | Government Budget to GDP | -3.6% |  | -3.7% |
+| 10:00 | EUR | Low | Government Debt to GDP | 88.6% |  | 90.8% |
+| 43 min | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -15 | -18 |
+| 43 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 43 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Feb) |  |  | -0.60% |
