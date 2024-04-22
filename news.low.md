@@ -11,10 +11,10 @@
 | 10:00 | EUR | Government Budget to GDP | -3.6% |  | -3.7% |
 | 10:00 | EUR | Government Debt to GDP | 88.6% |  | 90.8% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:08 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
-| 13:00 | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
+| 11:10 | GBP | Rightmove House Price Index (YoY) (Apr) | 1.7% |  | 0.8% |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 47 min | MXN | Economic Activity (MoM) (Feb) |  |  | -0.60% |
+| 47 min | MXN | Economic Activity (YoY) (Feb) |  |  | 2.00% |
 | 13:30 | USD | Chicago Fed National Activity (Mar) |  |  | 0.05 |
 | 13:30 | CAD | IPPI (YoY) (Mar) |  |  | -1.7% |
 | 13:30 | CAD | IPPI (MoM) (Mar) |  | 0.8% | 0.7% |
