@@ -25,7 +25,7 @@
 | 15:00 | USD | Richmond Services Index (Apr) | -13 |  | -7 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Apr) | 100.7 |  | 100.7 |
-| 23:45 | NZD | Exports (Mar) |  |  | 5.89B |
-| 23:45 | NZD | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
-| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 29 min | NZD | Exports (Mar) |  |  | 5.89B |
+| 29 min | NZD | Imports (Mar) |  |  | 6.11B |
+| 29 min | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 29 min | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
