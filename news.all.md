@@ -36,10 +36,10 @@
 | 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.910% |  | 2.840% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 16 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 46 min | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
-| 46 min | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
+| 12:30 | USD | Low | Building Permits (MoM) | -3.7% | -4.3% | 2.4% |
+| 12:30 | USD | Moderate | Building Permits | 1.467M | 1.458M | 1.524M |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 24 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
@@ -50,7 +50,7 @@
 | 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | -7 |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.595% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.090M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | 4.090M |
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.11B |
