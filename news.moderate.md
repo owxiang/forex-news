@@ -15,10 +15,10 @@
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 51.4 | 50.8 | 50.3 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 52.9 | 51.8 | 51.5 |
 | 09:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 10 min | GBP | S&P Global/CIPS UK Composite PMI |  |  | 52.8 |
-| 10 min | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 50.3 | 50.3 |
-| 10 min | GBP | S&P Global/CIPS UK Services PMI |  | 53.0 | 53.1 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 54.0 |  | 52.8 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 48.7 | 50.3 | 50.3 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 54.9 | 53.0 | 53.1 |
+| 44 min | EUR | Eurogroup Meetings |  |  |  |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | USD | Building Permits |  | 1.458M | 1.524M |
