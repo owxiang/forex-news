@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Apr) |  |  | 47.3 |
-| 00:00 | AUD | Judo Bank Australia Services PMI (Apr) |  |  | 54.4 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 48.0 | 48.2 |
+| 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Apr) | 49.9 |  | 47.3 |
+| 00:00 | AUD | Judo Bank Australia Services PMI (Apr) | 54.2 |  | 54.4 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.187% |
 | 06:00 | INR | HSBC India Manufacturing PMI |  |  | 59.1 |
 | 06:00 | INR | HSBC India Services PMI |  |  | 61.2 |
@@ -26,5 +26,5 @@
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
 | 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |

@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Apr) |  |  | 47.3 |
-| 00:00 | AUD | Low | Judo Bank Australia Services PMI (Apr) |  |  | 54.4 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 48.0 | 48.2 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 54.1 |
+| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI (Apr) | 49.9 |  | 47.3 |
+| 00:00 | AUD | Low | Judo Bank Australia Services PMI (Apr) | 54.2 |  | 54.4 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.6 |  | 54.1 |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.187% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 59.1 |
 | 06:00 | INR | Low | HSBC India Services PMI |  |  | 61.2 |
@@ -41,8 +41,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -0.3% |
 | 15:00 | USD | High | New Home Sales (Mar) |  | 668K | 662K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -0.3% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
 | 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | -7 |
@@ -52,5 +52,5 @@
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -11,990M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -11,990M |
