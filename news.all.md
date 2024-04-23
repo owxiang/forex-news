@@ -35,10 +35,10 @@
 | 10:25 | EUR | Low | Italian 2-Year CTZ Auction | 3.420% |  | 3.310% |
 | 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.910% |  | 2.840% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 59 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
-| 13:00 | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
+| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 46 min | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
+| 46 min | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
