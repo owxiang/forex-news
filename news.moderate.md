@@ -25,4 +25,4 @@
 | 14:45 | USD | S&P Global Composite PMI (Apr) | 50.9 |  | 52.1 |
 | 15:00 | USD | New Home Sales (MoM) (Mar) | 8.8% |  | -5.1% |
 | 18:00 | USD | 2-Year Note Auction | 4.898% |  | 4.595% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 1.800M | 4.090M |
+| 14 min | USD | API Weekly Crude Oil Stock |  | 1.800M | 4.090M |
