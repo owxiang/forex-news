@@ -11,9 +11,9 @@
 | 06:00 | SGD | CPI (MoM) (Mar) | -0.10% |  | 1.10% |
 | 07:00 | GBP | Public Sector Net Borrowing (Mar) | 11.02B | 8.90B | 8.60B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 20.739B |  | 3.236B |
-| 37 min | ZAR | Leading Indicators (Feb) |  |  | 110.80% |
-| 52 min | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
+| 08:00 | ZAR | Leading Indicators (Feb) | 112.80% |  | 110.80% |
+| 08:15 | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
+| 16 min | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
 | 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.40% |
 | 09:30 | HKD | CPI (YoY) (Mar) |  |  | 2.10% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.410% |
@@ -27,5 +27,5 @@
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
 | 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |

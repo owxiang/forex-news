@@ -6,14 +6,14 @@
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.2% |  | 2.3% |
 | 06:00 | SGD | Core CPI (YoY) (Mar) | 3.10% |  | 3.60% |
 | 06:00 | SGD | CPI (YoY) (Mar) | 2.7% | 3.1% | 3.4% |
-| 52 min | EUR | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
-| 52 min | EUR | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 42.8 | 41.9 |
-| 08:30 | EUR | HCOB Germany Services PMI (Apr) |  | 50.6 | 50.1 |
-| 09:00 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) |  | 46.5 | 46.1 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) |  | 50.8 | 50.3 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Apr) |  | 51.8 | 51.5 |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
+| 08:15 | EUR | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
+| 16 min | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 42.8 | 41.9 |
+| 16 min | EUR | HCOB Germany Services PMI (Apr) |  | 50.6 | 50.1 |
+| 46 min | GBP | MPC Member Haskel Speaks |  |  |  |
+| 46 min | EUR | HCOB Eurozone Manufacturing PMI (Apr) |  | 46.5 | 46.1 |
+| 46 min | EUR | HCOB Eurozone Composite PMI (Apr) |  | 50.8 | 50.3 |
+| 46 min | EUR | HCOB Eurozone Services PMI (Apr) |  | 51.8 | 51.5 |
 | 09:15 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI |  |  | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 50.3 | 50.3 |
