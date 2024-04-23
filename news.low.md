@@ -19,10 +19,10 @@
 | 10:25 | EUR | Italian 2-Year CTZ Auction | 3.420% |  | 3.310% |
 | 10:45 | EUR | German 2-Year Schatz Auction | 2.910% |  | 2.840% |
 | 12:30 | USD | Building Permits (MoM) | -3.7% | -4.3% | 2.4% |
-| 24 min | USD | Redbook (YoY) |  |  | 4.9% |
-| 15:00 | USD | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
-| 15:00 | USD | Richmond Services Index (Apr) |  |  | -7 |
+| 13:55 | USD | Redbook (YoY) | 5.3% |  | 4.9% |
+| 42 min | USD | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
+| 42 min | USD | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
+| 42 min | USD | Richmond Services Index (Apr) |  |  | -7 |
 | 17:00 | ZAR | SARB Monetary Policy Review |  |  |  |
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Exports (Mar) |  |  | 5.89B |

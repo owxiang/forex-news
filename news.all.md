@@ -39,15 +39,15 @@
 | 12:30 | USD | Low | Building Permits (MoM) | -3.7% | -4.3% | 2.4% |
 | 12:30 | USD | Moderate | Building Permits | 1.467M | 1.458M | 1.524M |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 24 min | USD | Low | Redbook (YoY) |  |  | 4.9% |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
-| 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -0.3% |
-| 15:00 | USD | High | New Home Sales (Mar) |  | 668K | 662K |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
-| 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | -7 |
+| 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 4.9% |
+| 27 min | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
+| 27 min | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
+| 27 min | USD | High | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
+| 42 min | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -0.3% |
+| 42 min | USD | High | New Home Sales (Mar) |  | 668K | 662K |
+| 42 min | USD | Low | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
+| 42 min | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
+| 42 min | USD | Low | Richmond Services Index (Apr) |  |  | -7 |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.595% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | 4.090M |

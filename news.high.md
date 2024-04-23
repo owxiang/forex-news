@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
-| 14:45 | USD | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
-| 15:00 | USD | New Home Sales (Mar) |  | 668K | 662K |
+| 27 min | USD | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
+| 27 min | USD | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
+| 42 min | USD | New Home Sales (Mar) |  | 668K | 662K |
