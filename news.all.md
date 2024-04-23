@@ -13,12 +13,12 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) | 3.10% |  | 3.60% |
 | 06:00 | SGD | Low | CPI (MoM) (Mar) | -0.10% |  | 1.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Mar) | 2.7% | 3.1% | 3.4% |
-| 45 min | GBP | Low | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
-| 45 min | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
-| 08:00 | ZAR | Low | Leading Indicators (Feb) |  |  | 110.80% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  |  | 48.3 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) | 11.02B | 8.90B | 8.60B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) | 20.739B |  | 3.236B |
+| 37 min | ZAR | Low | Leading Indicators (Feb) |  |  | 110.80% |
+| 52 min | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
+| 52 min | EUR | Low | HCOB France Composite PMI (Apr) |  |  | 48.3 |
+| 52 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
 | 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 42.8 | 41.9 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.6 | 50.1 |

@@ -9,10 +9,10 @@
 | 06:00 | INR | HSBC India Manufacturing PMI | 59.1 |  | 59.1 |
 | 06:00 | INR | HSBC India Services PMI | 61.7 |  | 61.2 |
 | 06:00 | SGD | CPI (MoM) (Mar) | -0.10% |  | 1.10% |
-| 45 min | GBP | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
-| 45 min | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
-| 08:00 | ZAR | Leading Indicators (Feb) |  |  | 110.80% |
-| 08:15 | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
+| 07:00 | GBP | Public Sector Net Borrowing (Mar) | 11.02B | 8.90B | 8.60B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 20.739B |  | 3.236B |
+| 37 min | ZAR | Leading Indicators (Feb) |  |  | 110.80% |
+| 52 min | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
 | 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.40% |
 | 09:30 | HKD | CPI (YoY) (Mar) |  |  | 2.10% |

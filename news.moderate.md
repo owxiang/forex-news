@@ -6,8 +6,8 @@
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.2% |  | 2.3% |
 | 06:00 | SGD | Core CPI (YoY) (Mar) | 3.10% |  | 3.60% |
 | 06:00 | SGD | CPI (YoY) (Mar) | 2.7% | 3.1% | 3.4% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
-| 08:15 | EUR | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
+| 52 min | EUR | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
+| 52 min | EUR | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 42.8 | 41.9 |
 | 08:30 | EUR | HCOB Germany Services PMI (Apr) |  | 50.6 | 50.1 |
 | 09:00 | GBP | MPC Member Haskel Speaks |  |  |  |
