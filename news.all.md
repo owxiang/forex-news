@@ -49,7 +49,7 @@
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) | -10 |  | -14 |
 | 15:00 | USD | Low | Richmond Services Index (Apr) | -13 |  | -7 |
 | 17:00 | ZAR | Low | SARB Monetary Policy Review |  |  |  |
-| 40 min | USD | Moderate | 2-Year Note Auction |  |  | 4.595% |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 4.898% |  | 4.595% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.800M | 4.090M |
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 5.89B |
