@@ -7,13 +7,14 @@
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.6 |  | 54.1 |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.303% |  | 0.187% |
-| 40 min | INR | Low | HSBC India Manufacturing PMI |  |  | 59.1 |
-| 40 min | INR | Low | HSBC India Services PMI |  |  | 61.2 |
-| 40 min | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 3.60% |
-| 40 min | SGD | Low | CPI (MoM) (Mar) |  |  | 1.10% |
-| 40 min | SGD | Moderate | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI | 59.1 |  | 59.1 |
+| 06:00 | INR | Low | HSBC India Services PMI | 61.7 |  | 61.2 |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.2% |  | 2.3% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) | 3.10% |  | 3.60% |
+| 06:00 | SGD | Low | CPI (MoM) (Mar) | -0.10% |  | 1.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Mar) | 2.7% | 3.1% | 3.4% |
+| 45 min | GBP | Low | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
+| 45 min | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
 | 08:00 | ZAR | Low | Leading Indicators (Feb) |  |  | 110.80% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  |  | 48.3 |
@@ -36,8 +37,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
 | 13:00 | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
+| 13:00 | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
@@ -53,5 +54,5 @@
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | -505M | -218M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -11,990M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | -505M | -218M |

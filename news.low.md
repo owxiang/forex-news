@@ -6,11 +6,11 @@
 | 00:00 | AUD | Judo Bank Australia Services PMI (Apr) | 54.2 |  | 54.4 |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
 | 04:35 | JPY | 2-Year JGB Auction | 0.303% |  | 0.187% |
-| 40 min | INR | HSBC India Manufacturing PMI |  |  | 59.1 |
-| 40 min | INR | HSBC India Services PMI |  |  | 61.2 |
-| 40 min | SGD | CPI (MoM) (Mar) |  |  | 1.10% |
-| 07:00 | GBP | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
+| 06:00 | INR | HSBC India Manufacturing PMI | 59.1 |  | 59.1 |
+| 06:00 | INR | HSBC India Services PMI | 61.7 |  | 61.2 |
+| 06:00 | SGD | CPI (MoM) (Mar) | -0.10% |  | 1.10% |
+| 45 min | GBP | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
+| 45 min | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
 | 08:00 | ZAR | Leading Indicators (Feb) |  |  | 110.80% |
 | 08:15 | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
@@ -27,5 +27,5 @@
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
 | 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
+| 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
