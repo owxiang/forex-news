@@ -16,22 +16,22 @@
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) | 11.02B | 8.90B | 8.60B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) | 20.739B |  | 3.236B |
 | 08:00 | ZAR | Low | Leading Indicators (Feb) | 112.80% |  | 110.80% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 46.9 | 46.2 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) |  |  | 48.3 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 48.9 | 48.3 |
-| 16 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
-| 16 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 42.8 | 41.9 |
-| 16 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 50.6 | 50.1 |
-| 46 min | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
-| 46 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 46.5 | 46.1 |
-| 46 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 50.8 | 50.3 |
-| 46 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 51.8 | 51.5 |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) | 44.9 | 46.9 | 46.2 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Apr) | 49.9 |  | 48.3 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Apr) | 50.5 | 48.9 | 48.3 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Apr) | 50.5 | 48.6 | 47.7 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) | 42.2 | 42.8 | 41.9 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 53.3 | 50.6 | 50.1 |
+| 09:00 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.6 | 46.5 | 46.1 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 51.4 | 50.8 | 50.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 52.9 | 51.8 | 51.5 |
 | 09:15 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  |  | 52.8 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 50.3 | 50.3 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.0 | 53.1 |
-| 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | 0.40% |
-| 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 2.10% |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  |  | 52.8 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 50.3 | 50.3 |
+| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.0 | 53.1 |
+| 10 min | HKD | Low | CPI (MoM) (Mar) |  |  | 0.40% |
+| 10 min | HKD | Low | CPI (YoY) (Mar) |  |  | 2.10% |
 | 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.410% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.840% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

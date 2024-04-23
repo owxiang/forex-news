@@ -12,10 +12,10 @@
 | 07:00 | GBP | Public Sector Net Borrowing (Mar) | 11.02B | 8.90B | 8.60B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Mar) | 20.739B |  | 3.236B |
 | 08:00 | ZAR | Leading Indicators (Feb) | 112.80% |  | 110.80% |
-| 08:15 | EUR | HCOB France Composite PMI (Apr) |  |  | 48.3 |
-| 16 min | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
-| 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.40% |
-| 09:30 | HKD | CPI (YoY) (Mar) |  |  | 2.10% |
+| 08:15 | EUR | HCOB France Composite PMI (Apr) | 49.9 |  | 48.3 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Apr) | 50.5 | 48.6 | 47.7 |
+| 10 min | HKD | CPI (MoM) (Mar) |  |  | 0.40% |
+| 10 min | HKD | CPI (YoY) (Mar) |  |  | 2.10% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.410% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.840% |
 | 13:00 | USD | Building Permits (MoM) |  | -4.3% | 2.4% |
