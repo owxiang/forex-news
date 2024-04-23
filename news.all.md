@@ -36,8 +36,8 @@
 | 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.910% |  | 2.840% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | USD | Low | Building Permits (MoM) | -3.7% | -4.3% | 2.4% |
 | 12:30 | USD | Moderate | Building Permits | 1.467M | 1.458M | 1.524M |
+| 12:30 | USD | Low | Building Permits (MoM) | -3.7% | -4.3% | 2.4% |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 4.9% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) | 49.9 | 52.0 | 51.9 |
@@ -54,5 +54,5 @@
 | 22:00 | KRW | Low | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Low | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Low | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -11,990M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Mar) |  |  | -11,990M |

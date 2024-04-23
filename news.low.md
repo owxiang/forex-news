@@ -27,5 +27,5 @@
 | 22:00 | KRW | Consumer Confidence (Apr) |  |  | 100.7 |
 | 23:45 | NZD | Exports (Mar) |  |  | 5.89B |
 | 23:45 | NZD | Imports (Mar) |  |  | 6.11B |
-| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
 | 23:45 | NZD | Trade Balance (MoM) (Mar) |  | -505M | -218M |
+| 23:45 | NZD | Trade Balance (YoY) (Mar) |  |  | -11,990M |
