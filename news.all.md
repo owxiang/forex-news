@@ -32,10 +32,10 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 54.9 | 53.0 | 53.1 |
 | 09:30 | HKD | Low | CPI (MoM) (Mar) | 0.00% |  | 0.40% |
 | 09:30 | HKD | Low | CPI (YoY) (Mar) | 2.00% |  | 2.10% |
-| 14 min | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.410% |
-| 14 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.840% |
-| 44 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 10:25 | EUR | Low | Italian 2-Year CTZ Auction | 3.420% |  | 3.310% |
+| 10:45 | EUR | Low | German 2-Year Schatz Auction | 2.910% |  | 2.840% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 59 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
 | 13:00 | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
