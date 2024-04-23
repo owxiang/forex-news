@@ -35,14 +35,14 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
 | 13:00 | USD | Low | Building Permits (MoM) |  | -4.3% | 2.4% |
+| 13:00 | USD | Moderate | Building Permits |  | 1.458M | 1.524M |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.9% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 52.0 | 51.9 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  |  | 52.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 52.0 | 51.7 |
-| 15:00 | USD | High | New Home Sales (Mar) |  | 668K | 662K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Mar) |  |  | -0.3% |
+| 15:00 | USD | High | New Home Sales (Mar) |  | 668K | 662K |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Apr) |  | -7 | -11 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Apr) |  |  | -14 |
 | 15:00 | USD | Low | Richmond Services Index (Apr) |  |  | -7 |
