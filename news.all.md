@@ -6,7 +6,7 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Apr) | 54.2 |  | 54.4 |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.6 |  | 54.1 |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.187% |
+| 18 min | JPY | Low | 2-Year JGB Auction |  |  | 0.187% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 59.1 |
 | 06:00 | INR | Low | HSBC India Services PMI |  |  | 61.2 |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 3.60% |
