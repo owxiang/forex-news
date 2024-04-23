@@ -6,12 +6,12 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Apr) | 54.2 |  | 54.4 |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 54.6 |  | 54.1 |
-| 18 min | JPY | Low | 2-Year JGB Auction |  |  | 0.187% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 59.1 |
-| 06:00 | INR | Low | HSBC India Services PMI |  |  | 61.2 |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 3.60% |
-| 06:00 | SGD | Low | CPI (MoM) (Mar) |  |  | 1.10% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.303% |  | 0.187% |
+| 40 min | INR | Low | HSBC India Manufacturing PMI |  |  | 59.1 |
+| 40 min | INR | Low | HSBC India Services PMI |  |  | 61.2 |
+| 40 min | SGD | Moderate | Core CPI (YoY) (Mar) |  |  | 3.60% |
+| 40 min | SGD | Low | CPI (MoM) (Mar) |  |  | 1.10% |
+| 40 min | SGD | Moderate | CPI (YoY) (Mar) |  | 3.1% | 3.4% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
 | 08:00 | ZAR | Low | Leading Indicators (Feb) |  |  | 110.80% |
@@ -31,6 +31,7 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.0 | 53.1 |
 | 09:30 | HKD | Low | CPI (MoM) (Mar) |  |  | 0.40% |
 | 09:30 | HKD | Low | CPI (YoY) (Mar) |  |  | 2.10% |
+| 10:30 | EUR | Low | Italian 2-Year CTZ Auction |  |  | 3.410% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.840% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |

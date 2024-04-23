@@ -5,10 +5,10 @@
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI (Apr) | 49.9 |  | 47.3 |
 | 00:00 | AUD | Judo Bank Australia Services PMI (Apr) | 54.2 |  | 54.4 |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.9 | 48.0 | 48.2 |
-| 18 min | JPY | 2-Year JGB Auction |  |  | 0.187% |
-| 06:00 | INR | HSBC India Manufacturing PMI |  |  | 59.1 |
-| 06:00 | INR | HSBC India Services PMI |  |  | 61.2 |
-| 06:00 | SGD | CPI (MoM) (Mar) |  |  | 1.10% |
+| 04:35 | JPY | 2-Year JGB Auction | 0.303% |  | 0.187% |
+| 40 min | INR | HSBC India Manufacturing PMI |  |  | 59.1 |
+| 40 min | INR | HSBC India Services PMI |  |  | 61.2 |
+| 40 min | SGD | CPI (MoM) (Mar) |  |  | 1.10% |
 | 07:00 | GBP | Public Sector Net Borrowing (Mar) |  | 8.90B | 7.48B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Mar) |  |  | 3.024B |
 | 08:00 | ZAR | Leading Indicators (Feb) |  |  | 110.80% |
@@ -16,6 +16,7 @@
 | 08:30 | EUR | HCOB Germany Composite PMI (Apr) |  | 48.6 | 47.7 |
 | 09:30 | HKD | CPI (MoM) (Mar) |  |  | 0.40% |
 | 09:30 | HKD | CPI (YoY) (Mar) |  |  | 2.10% |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.410% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.840% |
 | 13:00 | USD | Building Permits (MoM) |  | -4.3% | 2.4% |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.9% |
