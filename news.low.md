@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.1% | 2.1% |
-| 02:30 | AUD | CPI Index Number (Q1) |  |  | 136.10 |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) |  | 3.8% | 4.2% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) |  | 3.40% | 3.40% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) |  | 4.1% | 4.4% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) |  | 0.9% | 0.9% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.1% | 2.2% |
+| 19 min | AUD | CPI Index Number (Q1) |  |  | 136.10 |
+| 19 min | AUD | Trimmed Mean CPI (YoY) (Q1) |  | 3.8% | 4.2% |
+| 19 min | AUD | Monthly CPI Indicator (YoY) (Mar) |  | 3.40% | 3.40% |
+| 19 min | AUD | Weighted mean CPI (YoY) (Q1) |  | 4.1% | 4.4% |
+| 19 min | AUD | Weighted mean CPI (QoQ) (Q1) |  | 0.9% | 0.9% |
 | 08:20 | IDR | Loans (YoY) (Mar) |  |  | 11.28% |
 | 08:30 | IDR | Deposit Facility Rate (Apr) |  | 5.25% | 5.25% |
 | 08:30 | IDR | Lending Facility Rate (Apr) |  | 6.75% | 6.75% |

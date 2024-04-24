@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 34 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.1% | 2.1% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.6% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q1) |  | 3.4% | 4.1% |
-| 02:30 | AUD | Low | CPI Index Number (Q1) |  |  | 136.10 |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) |  | 3.8% | 4.2% |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) |  | 0.8% | 0.8% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) |  | 3.40% | 3.40% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) |  | 4.1% | 4.4% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) |  | 0.9% | 0.9% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.1% | 2.2% |
+| 19 min | AUD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.6% |
+| 19 min | AUD | Moderate | CPI (YoY) (Q1) |  | 3.4% | 4.1% |
+| 19 min | AUD | Low | CPI Index Number (Q1) |  |  | 136.10 |
+| 19 min | AUD | Low | Trimmed Mean CPI (YoY) (Q1) |  | 3.8% | 4.2% |
+| 19 min | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) |  | 0.8% | 0.8% |
+| 19 min | AUD | Low | Monthly CPI Indicator (YoY) (Mar) |  | 3.40% | 3.40% |
+| 19 min | AUD | Low | Weighted mean CPI (YoY) (Q1) |  | 4.1% | 4.4% |
+| 19 min | AUD | Low | Weighted mean CPI (QoQ) (Q1) |  | 0.9% | 0.9% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:20 | IDR | Low | Loans (YoY) (Mar) |  |  | 11.28% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
