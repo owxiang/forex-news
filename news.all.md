@@ -55,6 +55,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.2% |
 | 15:30 | USD | Low | Gasoline Inventories | -0.634M | -1.400M | -1.154M |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.9% | 2.9% |
-| 41 min | USD | Moderate | 5-Year Note Auction |  |  | 4.235% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.591% |  | 4.235% |
+| 14 min | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 22:00 | KRW | Low | Manufacturing BSI Index (May) |  |  | 74 |

@@ -34,5 +34,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | 1.073M |  | -0.714M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.2% |
 | 15:30 | USD | Gasoline Inventories | -0.634M | -1.400M | -1.154M |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
+| 14 min | CAD | BOC Summary of Deliberations |  |  |  |
 | 22:00 | KRW | Manufacturing BSI Index (May) |  |  | 74 |

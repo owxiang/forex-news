@@ -21,4 +21,4 @@
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.659M |  | 0.033M |
 | 16:00 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.9% | 2.9% |
-| 41 min | USD | 5-Year Note Auction |  |  | 4.235% |
+| 18:00 | USD | 5-Year Note Auction | 4.591% |  | 4.235% |
