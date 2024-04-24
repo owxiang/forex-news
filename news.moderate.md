@@ -11,9 +11,9 @@
 | 09:00 | EUR | German Current Assessment (Apr) | 88.9 | 88.7 | 88.1 |
 | 09:00 | EUR | German Ifo Business Climate Index (Apr) | 89.4 | 88.9 | 87.9 |
 | 09:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 13 min | EUR | German 10-Year Bund Auction |  |  | 2.380% |
-| 13 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 43 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 10:50 | EUR | German 10-Year Bund Auction | 2.540% |  | 2.380% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.5% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) |  | 0.0% | 0.5% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) |  | 0.1% | -0.3% |

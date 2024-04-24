@@ -6,8 +6,8 @@
 | 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 137.40 |  | 136.10 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
@@ -23,18 +23,17 @@
 | 09:00 | EUR | Moderate | German Current Assessment (Apr) | 88.9 | 88.7 | 88.1 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 89.4 | 88.9 | 87.9 |
 | 09:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 13 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.765% |
-| 13 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
-| 13 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 43 min | GBP | Low | CBI Industrial Trends Orders (Apr) |  |  | -18 |
-| 43 min | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -16 | -18 |
-| 43 min | BRL | Low | FGV Consumer confidence (Apr) |  |  | 91.3 |
-| 43 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.13% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 145.6 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 202.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 500.7 |
+| 10:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.540% |  | 2.380% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -23 | -16 | -18 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.13% |
+| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.3% |
+| 42 min | USD | Low | MBA Purchase Index |  |  | 145.6 |
+| 42 min | USD | Low | Mortgage Market Index |  |  | 202.1 |
+| 42 min | USD | Low | Mortgage Refinance Index |  |  | 500.7 |
+| 42 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.765% |
+| 42 min | BRL | Low | FGV Consumer confidence (Apr) |  |  | 91.3 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.16% | 0.33% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Apr) |  | -0.03% | 0.27% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.5% |
@@ -59,5 +58,4 @@
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.235% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.962B |
 | 22:00 | KRW | Low | Manufacturing BSI Index (May) |  |  | 74 |
