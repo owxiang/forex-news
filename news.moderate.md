@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
 | 02:30 | AUD | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
+| 02:30 | AUD | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:30 | IDR | Interest Rate Decision | 6.25% | 6.00% | 6.00% |
@@ -19,6 +19,6 @@
 | 13:30 | CAD | Retail Sales (MoM) (Feb) | -0.1% | 0.1% | -0.3% |
 | 14:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 13 min | USD | Cushing Crude Oil Inventories |  |  | 0.033M |
-| 17:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
+| 15:30 | USD | Cushing Crude Oil Inventories | -0.659M |  | 0.033M |
+| 16:00 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.9% | 2.9% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.235% |
