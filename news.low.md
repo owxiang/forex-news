@@ -8,15 +8,15 @@
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
 | 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
 | 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
-| 6 min | IDR | Loans (YoY) (Mar) |  |  | 11.28% |
-| 16 min | IDR | Deposit Facility Rate (Apr) |  | 5.25% | 5.25% |
-| 16 min | IDR | Lending Facility Rate (Apr) |  | 6.75% | 6.75% |
-| 46 min | EUR | Italian Business Confidence (Apr) |  | 89.5 | 88.6 |
-| 46 min | EUR | Italian Consumer Confidence (Apr) |  | 96.9 | 96.5 |
-| 46 min | CHF | ZEW Expectations (Apr) |  |  | 11.5 |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.765% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  |  | -18 |
+| 08:00 | IDR | Loans (YoY) (Mar) | 12.40% |  | 11.28% |
+| 08:30 | IDR | Deposit Facility Rate (Apr) | 5.50% | 5.25% | 5.25% |
+| 08:30 | IDR | Lending Facility Rate (Apr) | 7.00% | 6.75% | 6.75% |
+| 09:00 | EUR | Italian Business Confidence (Apr) | 87.6 | 89.5 | 88.4 |
+| 09:00 | EUR | Italian Consumer Confidence (Apr) | 95.2 | 96.9 | 96.5 |
+| 09:00 | CHF | ZEW Expectations (Apr) | 17.6 |  | 11.5 |
+| 47 min | EUR | Italian 6-Month BOT Auction |  |  | 3.765% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -16 | -18 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  |  | -18 |
 | 11:00 | BRL | FGV Consumer confidence (Apr) |  |  | 91.3 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.13% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.3% |
