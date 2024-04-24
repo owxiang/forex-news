@@ -16,7 +16,7 @@
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
 | 08:30 | IDR | Low | Deposit Facility Rate (Apr) |  | 5.25% | 5.25% |
 | 08:30 | IDR | Low | Lending Facility Rate (Apr) |  | 6.75% | 6.75% |
-| 09:00 | EUR | Low | Italian Business Confidence (Apr) |  |  | 88.6 |
+| 09:00 | EUR | Low | Italian Business Confidence (Apr) |  | 89.5 | 88.6 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  | 96.9 | 96.5 |
 | 09:00 | CHF | Low | ZEW Expectations (Apr) |  |  | 11.5 |
 | 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 88.9 | 87.5 |

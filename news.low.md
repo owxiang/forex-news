@@ -11,7 +11,7 @@
 | 08:20 | IDR | Loans (YoY) (Mar) |  |  | 11.28% |
 | 08:30 | IDR | Deposit Facility Rate (Apr) |  | 5.25% | 5.25% |
 | 08:30 | IDR | Lending Facility Rate (Apr) |  | 6.75% | 6.75% |
-| 09:00 | EUR | Italian Business Confidence (Apr) |  |  | 88.6 |
+| 09:00 | EUR | Italian Business Confidence (Apr) |  | 89.5 | 88.6 |
 | 09:00 | EUR | Italian Consumer Confidence (Apr) |  | 96.9 | 96.5 |
 | 09:00 | CHF | ZEW Expectations (Apr) |  |  | 11.5 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.765% |
