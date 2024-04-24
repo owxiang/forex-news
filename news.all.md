@@ -1,60 +1,55 @@
-## 24 April 2024 - All Forex News
+## 25 April 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.1% | 2.2% |
-| 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
-| 02:30 | AUD | Low | CPI Index Number (Q1) | 137.40 |  | 136.10 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
-| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | IDR | Low | Loans (YoY) (Mar) | 12.40% |  | 11.28% |
-| 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.00% | 6.00% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Apr) | 5.50% | 5.25% | 5.25% |
-| 08:30 | IDR | Low | Lending Facility Rate (Apr) | 7.00% | 6.75% | 6.75% |
-| 09:00 | EUR | Low | Italian Business Confidence (Apr) | 87.6 | 89.5 | 88.4 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Apr) | 95.2 | 96.9 | 96.5 |
-| 09:00 | CHF | Low | ZEW Expectations (Apr) | 17.6 |  | 11.5 |
-| 09:00 | EUR | Moderate | German Business Expectations (Apr) | 89.9 | 88.9 | 87.7 |
-| 09:00 | EUR | Moderate | German Current Assessment (Apr) | 88.9 | 88.7 | 88.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) | 89.4 | 88.9 | 87.9 |
-| 09:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.540% |  | 2.380% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -23 | -16 | -18 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.24% |  | 7.13% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.7% |  | 3.3% |
-| 12:00 | USD | Low | MBA Purchase Index | 144.2 |  | 145.6 |
-| 12:00 | USD | Low | Mortgage Market Index | 196.7 |  | 202.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 472.7 |  | 500.7 |
-| 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 93.2 |  | 91.3 |
-| 12:40 | EUR | Low | Italian 6-Month BOT Auction | 3.661% |  | 3.765% |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) | 0.16% | 0.16% | 0.33% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) | 0.09% | -0.03% | 0.27% |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Mar) | 2.6% | 2.5% | 0.7% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Mar) | 2.3% |  | 1.5% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) | 0.2% | 0.2% | 0.4% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) | -0.3% | 0.0% | 0.4% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | -0.1% | 0.1% | -0.3% |
-| 14:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories | -6.368M | 1.600M | 2.735M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.042M |  | 0.131M |
-| 15:30 | USD | Low | Crude Oil Imports | -0.417M |  | -1.991M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.659M |  | 0.033M |
-| 15:30 | USD | Low | Distillate Fuel Production | 0.178M |  | -0.038M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 1.614M | -0.900M | -2.760M |
-| 15:30 | USD | Low | Gasoline Production | -0.275M |  | -0.025M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | 1.073M |  | -0.714M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.2% |
-| 15:30 | USD | Low | Gasoline Inventories | -0.634M | -1.400M | -1.154M |
-| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.9% | 2.9% |
-| 18:00 | USD | Moderate | 5-Year Note Auction | 4.659% |  | 4.235% |
-| 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 22:00 | KRW | Low | Manufacturing BSI Index (May) | 71 |  | 74 |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 0.6% | 0.6% |
+| 31 min | JPY | Low | Foreign Bonds Buying |  |  | -1,005.9B |
+| 31 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,740.0B |
+| 05:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.30% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) |  |  | -1.2% |
+| 06:00 | JPY | Low | Leading Index |  | 111.8 | 109.5 |
+| 06:00 | JPY | Low | Leading Index (MoM) |  | 2.3% | -0.4% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.9 | -27.4 |
+| 07:00 | NOK | Low | Unemployment Rate (Mar) |  |  | 3.6% |
+| 07:45 | EUR | Low | French Business Survey (Apr) |  | 102 | 102 |
+| 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.2% |
+| 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 09:30 | HKD | Low | Exports (MoM) (Mar) |  |  | -0.8% |
+| 09:30 | HKD | Low | Imports (MoM) (Mar) |  |  | -1.8% |
+| 09:30 | HKD | Low | Trade Balance |  |  | -41.7B |
+| 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 4.5% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
+| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,811.9K |
+| 12:30 | BRL | Low | Current Account (USD) (Mar) |  |  | -4.37B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  |  | 5.01B |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,812K |
+| 13:30 | USD | Low | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 2.5% | 3.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.0% | 1.7% |
+| 13:30 | USD | Low | GDP Sales (Q1) |  |  | 3.9% |
+| 13:30 | USD | Moderate | Goods Trade Balance (Mar) |  | -91.10B | -90.30B |
+| 13:30 | USD | High | Initial Jobless Claims |  | 214K | 212K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.50K |
+| 13:30 | USD | Low | PCE Prices (Q1) |  |  | 1.8% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 2.8% | 3.3% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.4% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.2% | 0.5% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 3.88% |
+| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 186.50B |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.3% | 1.6% |
+| 15:00 | USD | Low | Pending Home Sales Index (Mar) |  |  | 75.6 |
+| 15:30 | USD | Low | Natural Gas Storage |  | 87B | 50B |
+| 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | -7 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | -9 |
+| 16:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.185% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.962B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,406B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |

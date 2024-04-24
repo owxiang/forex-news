@@ -1,38 +1,40 @@
-## 24 April 2024 - Low Impact Forex News
+## 25 April 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.1% | 2.2% |
-| 02:30 | AUD | CPI Index Number (Q1) | 137.40 |  | 136.10 |
-| 02:30 | AUD | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
-| 02:30 | AUD | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
-| 02:30 | AUD | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
-| 08:00 | IDR | Loans (YoY) (Mar) | 12.40% |  | 11.28% |
-| 08:30 | IDR | Deposit Facility Rate (Apr) | 5.50% | 5.25% | 5.25% |
-| 08:30 | IDR | Lending Facility Rate (Apr) | 7.00% | 6.75% | 6.75% |
-| 09:00 | EUR | Italian Business Confidence (Apr) | 87.6 | 89.5 | 88.4 |
-| 09:00 | EUR | Italian Consumer Confidence (Apr) | 95.2 | 96.9 | 96.5 |
-| 09:00 | CHF | ZEW Expectations (Apr) | 17.6 |  | 11.5 |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) | -23 | -16 | -18 |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.24% |  | 7.13% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.7% |  | 3.3% |
-| 12:00 | USD | MBA Purchase Index | 144.2 |  | 145.6 |
-| 12:00 | USD | Mortgage Market Index | 196.7 |  | 202.1 |
-| 12:00 | USD | Mortgage Refinance Index | 472.7 |  | 500.7 |
-| 12:00 | BRL | FGV Consumer confidence (Apr) | 93.2 |  | 91.3 |
-| 12:40 | EUR | Italian 6-Month BOT Auction | 3.661% |  | 3.765% |
-| 13:00 | MXN | 1st Half-Month Core CPI (Apr) | 0.16% | 0.16% | 0.33% |
-| 13:00 | MXN | 1st Half-Month CPI (Apr) | 0.09% | -0.03% | 0.27% |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Mar) | 2.3% |  | 1.5% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) | 0.2% | 0.2% | 0.4% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.042M |  | 0.131M |
-| 15:30 | USD | Crude Oil Imports | -0.417M |  | -1.991M |
-| 15:30 | USD | Distillate Fuel Production | 0.178M |  | -0.038M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 1.614M | -0.900M | -2.760M |
-| 15:30 | USD | Gasoline Production | -0.275M |  | -0.025M |
-| 15:30 | USD | Heating Oil Stockpiles | 1.073M |  | -0.714M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 0.4% |  | -0.2% |
-| 15:30 | USD | Gasoline Inventories | -0.634M | -1.400M | -1.154M |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 22:00 | KRW | Manufacturing BSI Index (May) | 71 |  | 74 |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
+| 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 0.6% | 0.6% |
+| 31 min | JPY | Foreign Bonds Buying |  |  | -1,005.9B |
+| 31 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,740.0B |
+| 05:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.30% |
+| 06:00 | JPY | Coincident Indicator (MoM) |  |  | -1.2% |
+| 06:00 | JPY | Leading Index |  | 111.8 | 109.5 |
+| 06:00 | JPY | Leading Index (MoM) |  | 2.3% | -0.4% |
+| 07:00 | NOK | Unemployment Rate (Mar) |  |  | 3.6% |
+| 07:45 | EUR | French Business Survey (Apr) |  | 102 | 102 |
+| 08:00 | EUR | Spanish PPI (YoY) |  |  | -8.2% |
+| 09:30 | HKD | Exports (MoM) (Mar) |  |  | -0.8% |
+| 09:30 | HKD | Imports (MoM) (Mar) |  |  | -1.8% |
+| 09:30 | HKD | Trade Balance |  |  | -41.7B |
+| 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.5% |
+| 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 4.5% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
+| 12:30 | BRL | Current Account (USD) (Mar) |  |  | -4.37B |
+| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  |  | 5.01B |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
+| 13:30 | USD | GDP Sales (Q1) |  |  | 3.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.50K |
+| 13:30 | USD | PCE Prices (Q1) |  |  | 1.8% |
+| 13:30 | USD | Real Consumer Spending (Q1) |  | 2.8% | 3.3% |
+| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.2% | 0.5% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) |  |  | 3.88% |
+| 14:30 | BRL | Federal Tax Revenue |  |  | 186.50B |
+| 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 75.6 |
+| 15:30 | USD | Natural Gas Storage |  | 87B | 50B |
+| 16:00 | USD | KC Fed Composite Index (Apr) |  |  | -7 |
+| 16:00 | USD | KC Fed Manufacturing Index (Apr) |  |  | -9 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.962B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |

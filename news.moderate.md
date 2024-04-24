@@ -1,24 +1,17 @@
-## 24 April 2024 - Moderate Impact Forex News
+## 25 April 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
-| 02:30 | AUD | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
-| 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
-| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:30 | IDR | Interest Rate Decision | 6.25% | 6.00% | 6.00% |
-| 09:00 | EUR | German Business Expectations (Apr) | 89.9 | 88.9 | 87.7 |
-| 09:00 | EUR | German Current Assessment (Apr) | 88.9 | 88.7 | 88.1 |
-| 09:00 | EUR | German Ifo Business Climate Index (Apr) | 89.4 | 88.9 | 87.9 |
-| 09:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:50 | EUR | German 10-Year Bund Auction | 2.540% |  | 2.380% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
-| 13:30 | CAD | Core Retail Sales (MoM) (Feb) | -0.3% | 0.0% | 0.4% |
-| 13:30 | CAD | Retail Sales (MoM) (Feb) | -0.1% | 0.1% | -0.3% |
-| 14:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.659M |  | 0.033M |
-| 16:00 | USD | Atlanta Fed GDPNow (Q1) | 2.7% | 2.9% | 2.9% |
-| 18:00 | USD | 5-Year Note Auction | 4.659% |  | 4.235% |
+| 07:00 | EUR | GfK German Consumer Climate (May) |  | -25.9 | -27.4 |
+| 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 09:00 | EUR | ECB Economic Bulletin |  |  |  |
+| 11:00 | EUR | France Jobseekers Total |  |  | 2,811.9K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,812K |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.0% | 1.7% |
+| 13:30 | USD | Goods Trade Balance (Mar) |  | -91.10B | -90.30B |
+| 13:30 | USD | Retail Inventories Ex Auto (Mar) |  |  | 0.4% |
+| 15:00 | USD | Pending Home Sales (MoM) (Mar) |  | 0.3% | 1.6% |
+| 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:45 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 4.185% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,406B |

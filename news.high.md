@@ -1,6 +1,6 @@
-## 24 April 2024 - High Impact Forex News
+## 25 April 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Durable Goods Orders (MoM) (Mar) | 2.6% | 2.5% | 0.7% |
-| 15:30 | USD | Crude Oil Inventories | -6.368M | 1.600M | 2.735M |
+| 13:30 | USD | GDP (QoQ) (Q1) |  | 2.5% | 3.4% |
+| 13:30 | USD | Initial Jobless Claims |  | 214K | 212K |
