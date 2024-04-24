@@ -15,8 +15,8 @@
 | 09:00 | EUR | Italian Consumer Confidence (Apr) |  | 96.9 | 96.5 |
 | 09:00 | CHF | ZEW Expectations (Apr) |  |  | 11.5 |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.765% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  |  | -18 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  | -16 | -18 |
+| 11:00 | GBP | CBI Industrial Trends Orders (Apr) |  |  | -18 |
 | 11:00 | BRL | FGV Consumer confidence (Apr) |  |  | 91.3 |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.13% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.3% |
