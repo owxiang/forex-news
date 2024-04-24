@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.1% | 2.2% |
-| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 137.40 |  | 136.10 |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
@@ -27,15 +27,14 @@
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.540% |  | 2.380% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) | -23 | -16 | -18 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.13% |
-| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.3% |
-| 42 min | USD | Low | MBA Purchase Index |  |  | 145.6 |
-| 42 min | USD | Low | Mortgage Market Index |  |  | 202.1 |
-| 42 min | USD | Low | Mortgage Refinance Index |  |  | 500.7 |
-| 42 min | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.765% |
-| 42 min | BRL | Low | FGV Consumer confidence (Apr) |  |  | 91.3 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.16% | 0.33% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Apr) |  | -0.03% | 0.27% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.24% |  | 7.13% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.7% |  | 3.3% |
+| 12:00 | USD | Low | MBA Purchase Index | 144.2 |  | 145.6 |
+| 12:00 | USD | Low | Mortgage Market Index | 196.7 |  | 202.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 472.7 |  | 500.7 |
+| 12:00 | BRL | Low | FGV Consumer confidence (Apr) | 93.2 |  | 91.3 |
+| 45 min | MXN | Low | 1st Half-Month Core CPI (Apr) |  | 0.16% | 0.33% |
+| 45 min | MXN | Low | 1st Half-Month CPI (Apr) |  | -0.03% | 0.27% |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.5% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Mar) |  | 2.5% | 1.3% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Mar) |  |  | 2.1% |

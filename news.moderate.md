@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
+| 02:30 | AUD | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:30 | IDR | Interest Rate Decision | 6.25% | 6.00% | 6.00% |

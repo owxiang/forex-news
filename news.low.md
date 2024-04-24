@@ -15,15 +15,14 @@
 | 09:00 | EUR | Italian Consumer Confidence (Apr) | 95.2 | 96.9 | 96.5 |
 | 09:00 | CHF | ZEW Expectations (Apr) | 17.6 |  | 11.5 |
 | 11:00 | GBP | CBI Industrial Trends Orders (Apr) | -23 | -16 | -18 |
-| 42 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.13% |
-| 42 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.3% |
-| 42 min | USD | MBA Purchase Index |  |  | 145.6 |
-| 42 min | USD | Mortgage Market Index |  |  | 202.1 |
-| 42 min | USD | Mortgage Refinance Index |  |  | 500.7 |
-| 42 min | EUR | Italian 6-Month BOT Auction |  |  | 3.765% |
-| 42 min | BRL | FGV Consumer confidence (Apr) |  |  | 91.3 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Apr) |  | 0.16% | 0.33% |
-| 13:00 | MXN | 1st Half-Month CPI (Apr) |  | -0.03% | 0.27% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.24% |  | 7.13% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.7% |  | 3.3% |
+| 12:00 | USD | MBA Purchase Index | 144.2 |  | 145.6 |
+| 12:00 | USD | Mortgage Market Index | 196.7 |  | 202.1 |
+| 12:00 | USD | Mortgage Refinance Index | 472.7 |  | 500.7 |
+| 12:00 | BRL | FGV Consumer confidence (Apr) | 93.2 |  | 91.3 |
+| 45 min | MXN | 1st Half-Month Core CPI (Apr) |  | 0.16% | 0.33% |
+| 45 min | MXN | 1st Half-Month CPI (Apr) |  | -0.03% | 0.27% |
 | 13:30 | USD | Durables Excluding Defense (MoM) (Mar) |  |  | 2.1% |
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Mar) |  | 0.2% | 0.7% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.131M |
