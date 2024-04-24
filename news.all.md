@@ -9,8 +9,8 @@
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
-| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
+| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | IDR | Low | Loans (YoY) (Mar) | 12.40% |  | 11.28% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.00% | 6.00% |
@@ -43,17 +43,17 @@
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) | -0.3% | 0.0% | 0.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | -0.1% | 0.1% | -0.3% |
 | 14:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 38 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 2.735M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.131M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -1.991M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.033M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.038M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.900M | -2.760M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.025M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.714M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.400M | -1.154M |
+| 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 13 min | USD | High | Crude Oil Inventories |  | 1.600M | 2.735M |
+| 13 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.131M |
+| 13 min | USD | Low | Crude Oil Imports |  |  | -1.991M |
+| 13 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.033M |
+| 13 min | USD | Low | Distillate Fuel Production |  |  | -0.038M |
+| 13 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.900M | -2.760M |
+| 13 min | USD | Low | Gasoline Production |  |  | -0.025M |
+| 13 min | USD | Low | Heating Oil Stockpiles |  |  | -0.714M |
+| 13 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.2% |
+| 13 min | USD | Low | Gasoline Inventories |  | -1.400M | -1.154M |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.235% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
