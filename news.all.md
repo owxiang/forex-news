@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.3% | 2.1% | 2.2% |
-| 19 min | AUD | Moderate | CPI (QoQ) (Q1) |  | 0.8% | 0.6% |
-| 19 min | AUD | Moderate | CPI (YoY) (Q1) |  | 3.4% | 4.1% |
-| 19 min | AUD | Low | CPI Index Number (Q1) |  |  | 136.10 |
-| 19 min | AUD | Low | Trimmed Mean CPI (YoY) (Q1) |  | 3.8% | 4.2% |
-| 19 min | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) |  | 0.8% | 0.8% |
-| 19 min | AUD | Low | Monthly CPI Indicator (YoY) (Mar) |  | 3.40% | 3.40% |
-| 19 min | AUD | Low | Weighted mean CPI (YoY) (Q1) |  | 4.1% | 4.4% |
-| 19 min | AUD | Low | Weighted mean CPI (QoQ) (Q1) |  | 0.9% | 0.9% |
+| 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
+| 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
+| 02:30 | AUD | Low | CPI Index Number (Q1) | 137.40 |  | 136.10 |
+| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
+| 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:20 | IDR | Low | Loans (YoY) (Mar) |  |  | 11.28% |
 | 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
@@ -26,8 +26,8 @@
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.765% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
 | 10:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -16 | -18 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  |  | -18 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Apr) |  | -16 | -18 |
 | 11:00 | BRL | Low | FGV Consumer confidence (Apr) |  |  | 91.3 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.13% |
