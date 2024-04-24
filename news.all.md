@@ -57,4 +57,4 @@
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q1) | 2.7% | 2.9% | 2.9% |
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.659% |  | 4.235% |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
-| 43 min | KRW | Low | Manufacturing BSI Index (May) |  |  | 74 |
+| 22:00 | KRW | Low | Manufacturing BSI Index (May) | 71 |  | 74 |
