@@ -5,11 +5,11 @@
 | 02:30 | AUD | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
 | 02:30 | AUD | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
-| 37 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 08:30 | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
-| 09:00 | EUR | German Business Expectations (Apr) |  | 88.9 | 87.5 |
-| 09:00 | EUR | German Current Assessment (Apr) |  | 88.7 | 88.1 |
-| 09:00 | EUR | German Ifo Business Climate Index (Apr) |  | 88.9 | 87.8 |
+| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16 min | IDR | Interest Rate Decision |  | 6.00% | 6.00% |
+| 46 min | EUR | German Business Expectations (Apr) |  | 88.9 | 87.5 |
+| 46 min | EUR | German Current Assessment (Apr) |  | 88.7 | 88.1 |
+| 46 min | EUR | German Ifo Business Climate Index (Apr) |  | 88.9 | 87.8 |
 | 09:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.380% |
 | 10:30 | EUR | German Buba President Nagel Speaks |  |  |  |

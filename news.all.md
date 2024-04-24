@@ -6,22 +6,22 @@
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
 | 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 137.40 |  | 136.10 |
-| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
+| 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
-| 37 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 57 min | IDR | Low | Loans (YoY) (Mar) |  |  | 11.28% |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
-| 08:30 | IDR | Low | Deposit Facility Rate (Apr) |  | 5.25% | 5.25% |
-| 08:30 | IDR | Low | Lending Facility Rate (Apr) |  | 6.75% | 6.75% |
-| 09:00 | EUR | Low | Italian Business Confidence (Apr) |  | 89.5 | 88.6 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Apr) |  | 96.9 | 96.5 |
-| 09:00 | CHF | Low | ZEW Expectations (Apr) |  |  | 11.5 |
-| 09:00 | EUR | Moderate | German Business Expectations (Apr) |  | 88.9 | 87.5 |
-| 09:00 | EUR | Moderate | German Current Assessment (Apr) |  | 88.7 | 88.1 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Apr) |  | 88.9 | 87.8 |
+| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 6 min | IDR | Low | Loans (YoY) (Mar) |  |  | 11.28% |
+| 16 min | IDR | Moderate | Interest Rate Decision |  | 6.00% | 6.00% |
+| 16 min | IDR | Low | Deposit Facility Rate (Apr) |  | 5.25% | 5.25% |
+| 16 min | IDR | Low | Lending Facility Rate (Apr) |  | 6.75% | 6.75% |
+| 46 min | EUR | Low | Italian Business Confidence (Apr) |  | 89.5 | 88.6 |
+| 46 min | EUR | Low | Italian Consumer Confidence (Apr) |  | 96.9 | 96.5 |
+| 46 min | CHF | Low | ZEW Expectations (Apr) |  |  | 11.5 |
+| 46 min | EUR | Moderate | German Business Expectations (Apr) |  | 88.9 | 87.5 |
+| 46 min | EUR | Moderate | German Current Assessment (Apr) |  | 88.7 | 88.1 |
+| 46 min | EUR | Moderate | German Ifo Business Climate Index (Apr) |  | 88.9 | 87.8 |
 | 09:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.765% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.380% |
