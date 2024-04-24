@@ -14,7 +14,7 @@
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.380% |
 | 10:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.3% |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) |  | 0.3% | 0.5% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) |  | 0.0% | 0.5% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) |  | 0.1% | -0.3% |
 | 13:30 | CAD | Wholesale Sales (MoM) |  |  | 0.0% |
