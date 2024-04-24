@@ -6,8 +6,8 @@
 | 02:30 | AUD | Moderate | CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.6% |
 | 02:30 | AUD | Moderate | CPI (YoY) (Q1) | 3.6% | 3.4% | 4.1% |
 | 02:30 | AUD | Low | CPI Index Number (Q1) | 137.40 |  | 136.10 |
-| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
+| 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
 | 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
