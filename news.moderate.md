@@ -17,8 +17,8 @@
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Mar) | 0.2% | 0.3% | 0.1% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Feb) | -0.3% | 0.0% | 0.4% |
 | 13:30 | CAD | Retail Sales (MoM) (Feb) | -0.1% | 0.1% | -0.3% |
-| 39 min | EUR | ECB McCaul Speaks |  |  |  |
-| 15:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 14:15 | EUR | ECB McCaul Speaks |  |  |  |
+| 38 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.033M |
 | 17:30 | USD | Atlanta Fed GDPNow (Q1) |  | 2.9% | 2.9% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.235% |

@@ -9,8 +9,8 @@
 | 02:30 | AUD | Low | Trimmed Mean CPI (YoY) (Q1) | 4.0% | 3.8% | 4.2% |
 | 02:30 | AUD | Moderate | Trimmed Mean CPI (QoQ) (Q1) | 1.0% | 0.8% | 0.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Mar) | 3.50% | 3.40% | 3.40% |
-| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
 | 02:30 | AUD | Low | Weighted mean CPI (YoY) (Q1) | 4.4% | 4.1% | 4.4% |
+| 02:30 | AUD | Low | Weighted mean CPI (QoQ) (Q1) | 1.1% | 0.9% | 0.9% |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | IDR | Low | Loans (YoY) (Mar) | 12.40% |  | 11.28% |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.00% | 6.00% |
@@ -42,8 +42,8 @@
 | 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Mar) | 0.2% | 0.2% | 0.4% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Feb) | -0.3% | 0.0% | 0.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Feb) | -0.1% | 0.1% | -0.3% |
-| 39 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 14:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 38 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 1.600M | 2.735M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.131M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -1.991M |
