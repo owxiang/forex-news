@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 0.6% | 0.6% |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:50 | JPY | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
@@ -16,8 +16,8 @@
 | 09:30 | HKD | Exports (MoM) (Mar) | 4.7% |  | -0.8% |
 | 09:30 | HKD | Imports (MoM) (Mar) | 5.3% |  | -1.8% |
 | 09:30 | HKD | Trade Balance (Mar) | -45.0B |  | -41.7B |
-| 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
 | 10:30 | ZAR | PPI (YoY) (Mar) | 4.6% |  | 4.5% |
+| 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Apr) | -44 | -2 | 2 |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | GDP Sales (Q1) | 2.0% |  | 3.9% |
