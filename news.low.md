@@ -8,8 +8,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
 | 06:00 | JPY | Coincident Indicator (MoM) | -0.7% |  | -1.2% |
-| 06:00 | JPY | Leading Index | 111.8 | 111.8 | 109.5 |
 | 06:00 | JPY | Leading Index (MoM) | 2.3% | 2.3% | -0.4% |
+| 06:00 | JPY | Leading Index | 111.8 | 111.8 | 109.5 |
 | 07:00 | NOK | Unemployment Rate (Mar) | 4.0% |  | 3.4% |
 | 07:45 | EUR | French Business Survey (Apr) | 100 | 102 | 103 |
 | 08:00 | EUR | Spanish PPI (YoY) (Mar) | -8.2% |  | -8.5% |

@@ -8,8 +8,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) | -0.7% |  | -1.2% |
-| 06:00 | JPY | Low | Leading Index | 111.8 | 111.8 | 109.5 |
 | 06:00 | JPY | Low | Leading Index (MoM) | 2.3% | 2.3% | -0.4% |
+| 06:00 | JPY | Low | Leading Index | 111.8 | 111.8 | 109.5 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) | -24.2 | -25.9 | -27.3 |
 | 07:00 | NOK | Low | Unemployment Rate (Mar) | 4.0% |  | 3.4% |
 | 07:45 | EUR | Low | French Business Survey (Apr) | 100 | 102 | 103 |
