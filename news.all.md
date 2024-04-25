@@ -23,25 +23,25 @@
 | 10:30 | ZAR | Low | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -44 | -2 | 2 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 2,812.2K |  | 2,820.6K |
-| 46 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,812K |
-| 13:30 | USD | Low | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 2.5% | 3.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.0% | 1.7% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  |  | 3.9% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Mar) |  | -91.10B | -91.84B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 214K | 212K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.50K |
-| 13:30 | USD | Low | PCE Prices (Q1) |  |  | 1.8% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 2.8% | 3.3% |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.4% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.2% | 0.5% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 3.90% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 5 min | USD | Moderate | Continuing Jobless Claims |  | 1,814K | 1,812K |
+| 5 min | USD | Low | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
+| 5 min | USD | High | GDP (QoQ) (Q1) |  | 2.5% | 3.4% |
+| 5 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.0% | 1.7% |
+| 5 min | USD | Low | GDP Sales (Q1) |  |  | 3.9% |
+| 5 min | USD | Moderate | Goods Trade Balance (Mar) |  | -91.10B | -91.84B |
+| 5 min | USD | High | Initial Jobless Claims |  | 214K | 212K |
+| 5 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 214.50K |
+| 5 min | USD | Low | PCE Prices (Q1) |  |  | 1.8% |
+| 5 min | USD | Low | Real Consumer Spending (Q1) |  | 2.8% | 3.3% |
+| 5 min | USD | Moderate | Retail Inventories Ex Auto (Mar) |  |  | 0.4% |
+| 5 min | USD | Low | Wholesale Inventories (MoM) |  | 0.2% | 0.5% |
+| 5 min | CAD | Low | Average Weekly Earnings (YoY) (Feb) |  |  | 3.90% |
 | 14:30 | BRL | Low | Federal Tax Revenue |  |  | 186.50B |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) |  | 0.3% | 1.6% |
 | 15:00 | USD | Low | Pending Home Sales Index (Mar) |  |  | 75.6 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 87B | 50B |
-| 16:00 | USD | Low | KC Fed Composite Index (Apr) |  |  | -7 |
+| 16:00 | USD | Low | KC Fed Composite Index (Apr) |  | -5 | -7 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | -9 |
 | 16:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |

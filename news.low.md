@@ -19,18 +19,18 @@
 | 10:30 | ZAR | PPI (YoY) (Mar) | 4.6% |  | 4.5% |
 | 10:30 | ZAR | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Apr) | -44 | -2 | 2 |
-| 46 min | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
-| 13:30 | USD | GDP Sales (Q1) |  |  | 3.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 214.50K |
-| 13:30 | USD | PCE Prices (Q1) |  |  | 1.8% |
-| 13:30 | USD | Real Consumer Spending (Q1) |  | 2.8% | 3.3% |
-| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.2% | 0.5% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Feb) |  |  | 3.90% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 5 min | USD | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
+| 5 min | USD | GDP Sales (Q1) |  |  | 3.9% |
+| 5 min | USD | Jobless Claims 4-Week Avg. |  |  | 214.50K |
+| 5 min | USD | PCE Prices (Q1) |  |  | 1.8% |
+| 5 min | USD | Real Consumer Spending (Q1) |  | 2.8% | 3.3% |
+| 5 min | USD | Wholesale Inventories (MoM) |  | 0.2% | 0.5% |
+| 5 min | CAD | Average Weekly Earnings (YoY) (Feb) |  |  | 3.90% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 186.50B |
 | 15:00 | USD | Pending Home Sales Index (Mar) |  |  | 75.6 |
 | 15:30 | USD | Natural Gas Storage |  | 87B | 50B |
-| 16:00 | USD | KC Fed Composite Index (Apr) |  |  | -7 |
+| 16:00 | USD | KC Fed Composite Index (Apr) |  | -5 | -7 |
 | 16:00 | USD | KC Fed Manufacturing Index (Apr) |  |  | -9 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
