@@ -39,13 +39,14 @@
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Feb) | 4.53% |  | 3.74% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Mar) | 3.4% | 0.3% | 1.6% |
 | 15:00 | USD | Low | Pending Home Sales Index (Mar) | 78.2 |  | 75.6 |
-| 18 min | USD | Low | Natural Gas Storage |  | 87B | 50B |
-| 48 min | USD | Low | KC Fed Composite Index (Apr) |  | -5 | -7 |
-| 48 min | USD | Low | KC Fed Manufacturing Index (Apr) |  |  | -9 |
+| 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 92B | 87B | 50B |
+| 16:00 | USD | Low | KC Fed Composite Index (Apr) | -8 | -5 | -7 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Apr) | -13 |  | -9 |
 | 16:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 28 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.185% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.278B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,406B |

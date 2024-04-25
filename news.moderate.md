@@ -12,7 +12,8 @@
 | 13:30 | USD | Goods Trade Balance (Mar) | -91.83B | -91.10B | -91.84B |
 | 13:30 | USD | Retail Inventories Ex Auto (Mar) | -0.1% |  | 0.3% |
 | 15:00 | USD | Pending Home Sales (MoM) (Mar) | 3.4% | 0.3% | 1.6% |
+| 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16:45 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 28 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.185% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,406B |
