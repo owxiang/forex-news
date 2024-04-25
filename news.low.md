@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 0.6% | 0.6% |
-| 31 min | JPY | Foreign Bonds Buying |  |  | -1,005.9B |
-| 31 min | JPY | Foreign Investments in Japanese Stocks |  |  | 1,740.0B |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
+| 00:50 | JPY | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 05:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.30% |
 | 06:00 | JPY | Coincident Indicator (MoM) |  |  | -1.2% |
-| 06:00 | JPY | Leading Index |  | 111.8 | 109.5 |
 | 06:00 | JPY | Leading Index (MoM) |  | 2.3% | -0.4% |
+| 06:00 | JPY | Leading Index |  | 111.8 | 109.5 |
 | 07:00 | NOK | Unemployment Rate (Mar) |  |  | 3.6% |
 | 07:45 | EUR | French Business Survey (Apr) |  | 102 | 102 |
 | 08:00 | EUR | Spanish PPI (YoY) |  |  | -8.2% |
 | 09:30 | HKD | Exports (MoM) (Mar) |  |  | -0.8% |
 | 09:30 | HKD | Imports (MoM) (Mar) |  |  | -1.8% |
 | 09:30 | HKD | Trade Balance |  |  | -41.7B |
-| 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.5% |
 | 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 4.5% |
+| 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
 | 12:30 | BRL | Current Account (USD) (Mar) |  |  | -4.37B |
 | 12:30 | BRL | Foreign direct investment (USD) (Mar) |  |  | 5.01B |

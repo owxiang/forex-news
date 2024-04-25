@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 0.6% | 0.6% |
-| 31 min | JPY | Low | Foreign Bonds Buying |  |  | -1,005.9B |
-| 31 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 1,740.0B |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.30% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) |  |  | -1.2% |
-| 06:00 | JPY | Low | Leading Index |  | 111.8 | 109.5 |
 | 06:00 | JPY | Low | Leading Index (MoM) |  | 2.3% | -0.4% |
+| 06:00 | JPY | Low | Leading Index |  | 111.8 | 109.5 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.9 | -27.4 |
 | 07:00 | NOK | Low | Unemployment Rate (Mar) |  |  | 3.6% |
 | 07:45 | EUR | Low | French Business Survey (Apr) |  | 102 | 102 |
@@ -19,8 +19,8 @@
 | 09:30 | HKD | Low | Exports (MoM) (Mar) |  |  | -0.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Mar) |  |  | -1.8% |
 | 09:30 | HKD | Low | Trade Balance |  |  | -41.7B |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.5% |
 | 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 4.5% |
+| 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.5% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,811.9K |
 | 12:30 | BRL | Low | Current Account (USD) (Mar) |  |  | -4.37B |
