@@ -7,10 +7,11 @@
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:00 | EUR | France Jobseekers Total (Mar) | 2,812.2K |  | 2,820.6K |
 | 13:30 | USD | Continuing Jobless Claims | 1,781K | 1,814K | 1,796K |
+| 13:30 | USD | Core PCE Prices (Q1) | 3.70% | 3.40% | 2.00% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.1% | 3.0% | 1.7% |
 | 13:30 | USD | Goods Trade Balance (Mar) | -91.83B | -91.10B | -91.84B |
 | 13:30 | USD | Retail Inventories Ex Auto (Mar) | -0.1% |  | 0.3% |
-| 46 min | USD | Pending Home Sales (MoM) (Mar) |  | 0.3% | 1.6% |
+| 15:00 | USD | Pending Home Sales (MoM) (Mar) | 3.4% | 0.3% | 1.6% |
 | 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:45 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.185% |
