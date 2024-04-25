@@ -5,7 +5,7 @@
 | 07:00 | EUR | GfK German Consumer Climate (May) | -24.2 | -25.9 | -27.3 |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 43 min | EUR | France Jobseekers Total (Mar) |  |  | 2,811.9K |
+| 11:00 | EUR | France Jobseekers Total (Mar) | 2,812.2K |  | 2,820.6K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,812K |
 | 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.0% | 1.7% |
 | 13:30 | USD | Goods Trade Balance (Mar) |  | -91.10B | -91.84B |

@@ -19,10 +19,10 @@
 | 09:30 | HKD | Low | Exports (MoM) (Mar) | 4.7% |  | -0.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Mar) | 5.3% |  | -1.8% |
 | 09:30 | HKD | Low | Trade Balance (Mar) | -45.0B |  | -41.7B |
-| 13 min | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.5% |
-| 13 min | ZAR | Low | PPI (YoY) (Mar) |  |  | 4.5% |
-| 43 min | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
-| 43 min | EUR | Moderate | France Jobseekers Total (Mar) |  |  | 2,811.9K |
+| 10:30 | ZAR | Low | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (Mar) | 4.6% |  | 4.5% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -44 | -2 | 2 |
+| 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 2,812.2K |  | 2,820.6K |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,812K |
 | 13:30 | USD | Low | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
