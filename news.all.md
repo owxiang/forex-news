@@ -47,7 +47,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.275% |  | 5.280% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 41 min | USD | Moderate | 7-Year Note Auction |  |  | 4.185% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.278B |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 4.716% |  | 4.185% |
+| 14 min | BRL | Low | Foreign Exchange Flows |  |  | 1.278B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,406B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |

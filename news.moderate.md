@@ -15,5 +15,5 @@
 | 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 16:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:45 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 41 min | USD | 7-Year Note Auction |  |  | 4.185% |
+| 18:00 | USD | 7-Year Note Auction | 4.716% |  | 4.185% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,406B |
