@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | EUR | GfK German Consumer Climate (May) |  | -25.9 | -27.4 |
-| 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (May) | -24.2 | -25.9 | -27.3 |
+| 39 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 11:00 | EUR | France Jobseekers Total |  |  | 2,811.9K |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,812K |

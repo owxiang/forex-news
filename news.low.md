@@ -8,19 +8,17 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 04:00 | IDR | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
 | 06:00 | JPY | Coincident Indicator (MoM) | -0.7% |  | -1.2% |
-| 06:00 | JPY | Leading Index | 111.8 | 111.8 | 109.5 |
 | 06:00 | JPY | Leading Index (MoM) | 2.3% | 2.3% | -0.4% |
-| 45 min | NOK | Unemployment Rate (Mar) |  |  | 3.6% |
-| 07:45 | EUR | French Business Survey (Apr) |  | 102 | 102 |
-| 08:00 | EUR | Spanish PPI (YoY) |  |  | -8.2% |
+| 06:00 | JPY | Leading Index | 111.8 | 111.8 | 109.5 |
+| 07:00 | NOK | Unemployment Rate (Mar) | 4.0% |  | 3.4% |
+| 24 min | EUR | French Business Survey (Apr) |  | 102 | 102 |
+| 39 min | EUR | Spanish PPI (YoY) |  |  | -8.2% |
 | 09:30 | HKD | Exports (MoM) (Mar) |  |  | -0.8% |
 | 09:30 | HKD | Imports (MoM) (Mar) |  |  | -1.8% |
 | 09:30 | HKD | Trade Balance |  |  | -41.7B |
 | 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.5% |
 | 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 4.5% |
 | 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
-| 12:30 | BRL | Current Account (USD) (Mar) |  |  | -4.37B |
-| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  |  | 5.01B |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
 | 13:30 | USD | GDP Sales (Q1) |  |  | 3.9% |
