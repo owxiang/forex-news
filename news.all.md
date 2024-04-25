@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 0.6% | 0.6% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
@@ -19,11 +19,11 @@
 | 09:30 | HKD | Low | Exports (MoM) (Mar) | 4.7% |  | -0.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Mar) | 5.3% |  | -1.8% |
 | 09:30 | HKD | Low | Trade Balance (Mar) | -45.0B |  | -41.7B |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
 | 10:30 | ZAR | Low | PPI (YoY) (Mar) | 4.6% |  | 4.5% |
+| 10:30 | ZAR | Low | PPI (MoM) (Mar) | 1.1% |  | 0.5% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) | -44 | -2 | 2 |
 | 11:00 | EUR | Moderate | France Jobseekers Total (Mar) | 2,812.2K |  | 2,820.6K |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 46 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,812K |
 | 13:30 | USD | Low | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
 | 13:30 | USD | High | GDP (QoQ) (Q1) |  | 2.5% | 3.4% |
