@@ -7,11 +7,11 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
-| 41 min | JPY | Low | Coincident Indicator (MoM) |  |  | -1.2% |
-| 41 min | JPY | Low | Leading Index (MoM) |  | 2.3% | -0.4% |
-| 41 min | JPY | Low | Leading Index |  | 111.8 | 109.5 |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.9 | -27.4 |
-| 07:00 | NOK | Low | Unemployment Rate (Mar) |  |  | 3.6% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) | -0.7% |  | -1.2% |
+| 06:00 | JPY | Low | Leading Index | 111.8 | 111.8 | 109.5 |
+| 06:00 | JPY | Low | Leading Index (MoM) | 2.3% | 2.3% | -0.4% |
+| 45 min | EUR | Moderate | GfK German Consumer Climate (May) |  | -25.9 | -27.4 |
+| 45 min | NOK | Low | Unemployment Rate (Mar) |  |  | 3.6% |
 | 07:45 | EUR | Low | French Business Survey (Apr) |  | 102 | 102 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.2% |
 | 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
