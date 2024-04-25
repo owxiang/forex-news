@@ -12,13 +12,13 @@
 | 06:00 | JPY | Leading Index | 111.8 | 111.8 | 109.5 |
 | 07:00 | NOK | Unemployment Rate (Mar) | 4.0% |  | 3.4% |
 | 07:45 | EUR | French Business Survey (Apr) | 100 | 102 | 103 |
-| 08:00 | EUR | Spanish PPI (YoY) | -8.2% |  | -8.5% |
-| 9 min | HKD | Exports (MoM) (Mar) |  |  | -0.8% |
-| 9 min | HKD | Imports (MoM) (Mar) |  |  | -1.8% |
-| 9 min | HKD | Trade Balance |  |  | -41.7B |
-| 10:30 | ZAR | PPI (MoM) (Mar) |  |  | 0.5% |
-| 10:30 | ZAR | PPI (YoY) (Mar) |  |  | 4.5% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
+| 08:00 | EUR | Spanish PPI (YoY) (Mar) | -8.2% |  | -8.5% |
+| 09:30 | HKD | Exports (MoM) (Mar) | 4.7% |  | -0.8% |
+| 09:30 | HKD | Imports (MoM) (Mar) | 5.3% |  | -1.8% |
+| 09:30 | HKD | Trade Balance (Mar) | -45.0B |  | -41.7B |
+| 13 min | ZAR | PPI (MoM) (Mar) |  |  | 0.5% |
+| 13 min | ZAR | PPI (YoY) (Mar) |  |  | 4.5% |
+| 43 min | GBP | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
 | 13:30 | USD | GDP Sales (Q1) |  |  | 3.9% |
@@ -34,5 +34,5 @@
 | 16:00 | USD | KC Fed Manufacturing Index (Apr) |  |  | -9 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.962B |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.278B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |

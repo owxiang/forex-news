@@ -13,16 +13,16 @@
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (May) | -24.2 | -25.9 | -27.3 |
 | 07:00 | NOK | Low | Unemployment Rate (Mar) | 4.0% |  | 3.4% |
 | 07:45 | EUR | Low | French Business Survey (Apr) | 100 | 102 | 103 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) | -8.2% |  | -8.5% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) (Mar) | -8.2% |  | -8.5% |
 | 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 9 min | HKD | Low | Exports (MoM) (Mar) |  |  | -0.8% |
-| 9 min | HKD | Low | Imports (MoM) (Mar) |  |  | -1.8% |
-| 9 min | HKD | Low | Trade Balance |  |  | -41.7B |
-| 10:30 | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.5% |
-| 10:30 | ZAR | Low | PPI (YoY) (Mar) |  |  | 4.5% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
-| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,811.9K |
+| 09:30 | HKD | Low | Exports (MoM) (Mar) | 4.7% |  | -0.8% |
+| 09:30 | HKD | Low | Imports (MoM) (Mar) | 5.3% |  | -1.8% |
+| 09:30 | HKD | Low | Trade Balance (Mar) | -45.0B |  | -41.7B |
+| 13 min | ZAR | Low | PPI (MoM) (Mar) |  |  | 0.5% |
+| 13 min | ZAR | Low | PPI (YoY) (Mar) |  |  | 4.5% |
+| 43 min | GBP | Low | CBI Distributive Trades Survey (Apr) |  | -2 | 2 |
+| 43 min | EUR | Moderate | France Jobseekers Total (Mar) |  |  | 2,811.9K |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,812K |
 | 13:30 | USD | Low | Core PCE Prices (Q1) |  | 3.40% | 2.00% |
@@ -48,6 +48,6 @@
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
 | 16:45 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.185% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.962B |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.278B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,406B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.330T |
