@@ -6,7 +6,7 @@
 | 00:00 | KRW | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:50 | JPY | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
-| 05:00 | IDR | M2 Money Supply (YoY) (Mar) |  |  | 5.30% |
+| 43 min | IDR | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
 | 06:00 | JPY | Coincident Indicator (MoM) |  |  | -1.2% |
 | 06:00 | JPY | Leading Index (MoM) |  | 2.3% | -0.4% |
 | 06:00 | JPY | Leading Index |  | 111.8 | 109.5 |

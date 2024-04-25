@@ -6,7 +6,7 @@
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.4% | 2.4% | 2.2% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 648.1B |  | -1,000.1B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -492.4B |  | 1,730.7B |
-| 05:00 | IDR | Low | M2 Money Supply (YoY) (Mar) |  |  | 5.30% |
+| 43 min | IDR | Low | M2 Money Supply (YoY) (Mar) | 7.20% |  | 5.30% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) |  |  | -1.2% |
 | 06:00 | JPY | Low | Leading Index (MoM) |  | 2.3% | -0.4% |
 | 06:00 | JPY | Low | Leading Index |  | 111.8 | 109.5 |
