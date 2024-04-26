@@ -9,14 +9,14 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.40% | 1.50% | 2.80% |
 | 02:30 | AUD | Export Price Index (QoQ) (Q1) | -2.1% |  | 5.6% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | -1.8% | 0.1% | 1.1% |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
 | 06:00 | SGD | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) | 0.3% |  | 0.2% |
 | 07:45 | EUR | French Consumer Confidence (Apr) | 90 | 92 | 91 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) | 0.6% |  | 1.8% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) | 12.29% | 11.80% | 11.80% |
-| 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 0.9% | 0.5% | 0.3% |
 | 09:00 | EUR | M3 Money Supply (Mar) | 10,000,000.0M |  | 10,000,000.0M |
+| 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 0.9% | 0.5% | 0.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.2% | 0.3% | 0.3% |
 | 12:30 | INR | FX Reserves, USD | 640.33B |  | 643.16B |
@@ -24,8 +24,8 @@
 | 13:00 | MXN | Trade Balance (USD) (Mar) | -1.583B |  | -1.750B |
 | 13:00 | MXN | Unemployment Rate (Mar) | 2.70% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Mar) | 2.30% | 2.40% | 2.50% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Apr) | 0.21% | 0.29% | 0.36% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 3.77% | 3.86% | 4.14% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Apr) | 0.21% | 0.29% | 0.36% |
 | 13:30 | USD | Personal Income (MoM) (Mar) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.5% |  | 0.5% |
 | 14:00 | USD | Dallas Fed PCE (Mar) | 2.90% |  | 3.40% |
