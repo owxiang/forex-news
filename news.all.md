@@ -43,15 +43,13 @@
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Mar) | 0.8% | 0.6% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Mar) | 0.5% |  | 0.5% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) | 1.3% |  | 0.0% |
-| 13 min | BRL | Low | Federal Tax Revenue |  |  | 186.50B |
-| 43 min | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.40% |
-| 43 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) |  | 3.1% | 2.9% |
-| 43 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) |  | 3.0% | 2.8% |
-| 43 min | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 77.0 | 77.4 |
-| 43 min | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 77.8 | 79.4 |
-| 43 min | USD | Low | Michigan Current Conditions (Apr) |  | 79.3 | 82.5 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
-| 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -2.10B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Apr) | 3.2% | 3.1% | 2.9% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Apr) | 3.0% | 3.0% | 2.8% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 76.0 | 77.0 | 77.4 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 77.2 | 77.8 | 79.4 |
+| 15:00 | USD | Low | Michigan Current Conditions (Apr) | 79.0 | 79.3 | 82.5 |
+| 46 min | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
+| 46 min | CAD | Low | Budget Balance (Feb) |  |  | -2.10B |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 619 |

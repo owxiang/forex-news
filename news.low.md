@@ -28,11 +28,9 @@
 | 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 3.77% | 3.86% | 4.14% |
 | 13:30 | USD | Personal Income (MoM) (Mar) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.5% |  | 0.5% |
-| 13 min | BRL | Federal Tax Revenue |  |  | 186.50B |
-| 43 min | USD | Dallas Fed PCE (Mar) |  |  | 3.40% |
-| 43 min | USD | Michigan Current Conditions (Apr) |  | 79.3 | 82.5 |
-| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -25.70B |
-| 16:00 | CAD | Budget Balance (Feb) |  |  | -2.10B |
+| 15:00 | USD | Michigan Current Conditions (Apr) | 79.0 | 79.3 | 82.5 |
+| 46 min | CAD | Budget Balance (YoY) (Feb) |  |  | -25.70B |
+| 46 min | CAD | Budget Balance (Feb) |  |  | -2.10B |
 | 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 306.11K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 47.6K |

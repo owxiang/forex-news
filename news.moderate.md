@@ -14,10 +14,10 @@
 | 13:30 | USD | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Mar) | 0.8% | 0.6% | 0.8% |
 | 13:30 | CAD | Wholesale Sales (MoM) | 1.3% |  | 0.0% |
-| 43 min | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 3.1% | 2.9% |
-| 43 min | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 3.0% | 2.8% |
-| 43 min | USD | Michigan Consumer Expectations (Apr) |  | 77.0 | 77.4 |
-| 43 min | USD | Michigan Consumer Sentiment (Apr) |  | 77.8 | 79.4 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) | 3.2% | 3.1% | 2.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) | 3.0% | 3.0% | 2.8% |
+| 15:00 | USD | Michigan Consumer Expectations (Apr) | 76.0 | 77.0 | 77.4 |
+| 15:00 | USD | Michigan Consumer Sentiment (Apr) | 77.2 | 77.8 | 79.4 |
 | 17:30 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
