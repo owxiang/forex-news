@@ -15,8 +15,8 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.10% | 0.10% | 0.10% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | 0.3% |  | 0.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 90 | 92 | 91 |
@@ -24,17 +24,17 @@
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) | 12.29% | 11.80% | 11.80% |
 | 09:00 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) | 0.9% | 0.5% | 0.4% |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) | 0.9% | 0.5% | 0.3% |
 | 09:00 | EUR | Low | M3 Money Supply (Mar) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.2% | 0.3% | 0.3% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 643.16B |
-| 13:00 | MXN | Low | Trade Balance (Mar) |  | 0.700B | -0.585B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Mar) |  |  | -1.610B |
-| 13:00 | MXN | Low | Unemployment Rate (Mar) |  |  | 2.60% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 3.86% | 4.14% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.29% | 0.36% |
+| 17 min | INR | Low | FX Reserves, USD |  |  | 643.16B |
+| 47 min | MXN | Low | Trade Balance (Mar) |  | 0.700B | -0.585B |
+| 47 min | MXN | Low | Trade Balance (USD) (Mar) |  |  | -1.610B |
+| 47 min | MXN | Low | Unemployment Rate (Mar) |  |  | 2.60% |
+| 47 min | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
+| 47 min | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.29% | 0.36% |
+| 47 min | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 3.86% | 4.14% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) |  | 2.6% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) |  | 2.6% | 2.5% |
@@ -51,8 +51,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 77.0 | 77.4 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 77.8 | 79.4 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 79.3 | 82.5 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
 | 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -2.10B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 619 |
