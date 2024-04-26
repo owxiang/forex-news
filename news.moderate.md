@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13 min | JPY | Tokyo Core CPI (YoY) (Apr) |  | 2.2% | 2.4% |
-| 02:30 | AUD | PPI (YoY) (Q1) |  |  | 4.1% |
-| 02:30 | AUD | PPI (QoQ) (Q1) |  |  | 0.9% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Apr) | 1.6% | 2.2% | 2.4% |
+| 20 min | AUD | PPI (YoY) (Q1) |  |  | 4.1% |
+| 20 min | AUD | PPI (QoQ) (Q1) |  |  | 0.9% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |

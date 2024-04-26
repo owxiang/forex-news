@@ -3,19 +3,20 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Apr) | -19 | -20 | -21 |
-| 13 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Apr) |  | 2.7% | 2.9% |
-| 13 min | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) |  | 2.2% | 2.4% |
-| 13 min | JPY | Low | Tokyo CPI (YoY) (Apr) |  | 2.6% | 2.6% |
-| 13 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) |  |  | 0.2% |
-| 02:30 | AUD | Low | Export Price Index (QoQ) (Q1) |  |  | 5.6% |
-| 02:30 | AUD | Low | Import Price Index (QoQ) (Q1) |  | 0.1% | 1.1% |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q1) |  |  | 4.1% |
-| 02:30 | AUD | Moderate | PPI (QoQ) (Q1) |  |  | 0.9% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Apr) | 1.4% | 2.7% | 2.9% |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Apr) | 1.6% | 2.2% | 2.4% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Apr) | 1.8% | 2.6% | 2.6% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Apr) | -0.2% |  | 0.2% |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 1.40% |  | 1.40% |
+| 20 min | AUD | Low | Export Price Index (QoQ) (Q1) |  |  | 5.6% |
+| 20 min | AUD | Low | Import Price Index (QoQ) (Q1) |  | 0.1% | 1.1% |
+| 20 min | AUD | Moderate | PPI (YoY) (Q1) |  |  | 4.1% |
+| 20 min | AUD | Moderate | PPI (QoQ) (Q1) |  |  | 0.9% |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) |  | -8.8% | 14.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Mar) |  | -1.5% | 3.8% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) |  | -8.8% | 14.2% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 92 | 91 |
@@ -31,8 +32,8 @@
 | 13:00 | MXN | Low | Trade Balance (USD) (Mar) |  |  | -1.610B |
 | 13:00 | MXN | Low | Unemployment Rate (Mar) |  |  | 2.60% |
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.29% | 0.36% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 3.86% | 4.14% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) |  | 0.29% | 0.36% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) |  | 2.6% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) |  | 2.6% | 2.5% |
@@ -49,8 +50,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) |  | 77.0 | 77.4 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) |  | 77.8 | 79.4 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) |  | 79.3 | 82.5 |
-| 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -2.10B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
+| 16:00 | CAD | Low | Budget Balance (Feb) |  |  | -2.10B |
 | 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 619 |
