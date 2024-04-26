@@ -6,11 +6,11 @@
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Apr) | 1.4% | 2.7% | 2.9% |
 | 00:30 | JPY | Tokyo CPI (YoY) (Apr) | 1.8% | 2.6% | 2.6% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Apr) | -0.2% |  | 0.2% |
-| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.40% |  | 1.40% |
-| 20 min | AUD | Export Price Index (QoQ) (Q1) |  |  | 5.6% |
-| 20 min | AUD | Import Price Index (QoQ) (Q1) |  | 0.1% | 1.1% |
-| 06:00 | SGD | Industrial Production (YoY) (Mar) |  | -1.5% | 3.8% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.40% |  | 1.50% |
+| 02:30 | AUD | Export Price Index (QoQ) (Q1) | -2.1% |  | 5.6% |
+| 02:30 | AUD | Import Price Index (QoQ) (Q1) | -1.8% | 0.1% | 1.1% |
 | 06:00 | SGD | Industrial Production (MoM) (Mar) |  | -8.8% | 14.2% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) |  | -1.5% | 3.8% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
 | 07:45 | EUR | French Consumer Confidence (Apr) |  | 92 | 91 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
@@ -23,16 +23,16 @@
 | 13:00 | MXN | Trade Balance (USD) (Mar) |  |  | -1.610B |
 | 13:00 | MXN | Unemployment Rate (Mar) |  |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Mar) |  | 2.40% | 2.50% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) |  | 3.86% | 4.14% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Apr) |  | 0.29% | 0.36% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) |  | 3.86% | 4.14% |
 | 13:30 | USD | Personal Income (MoM) (Mar) |  | 0.5% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) |  |  | 0.4% |
 | 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.7% |
 | 14:00 | USD | Dallas Fed PCE (Mar) |  |  | 3.40% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 186.50B |
 | 15:00 | USD | Michigan Current Conditions (Apr) |  | 79.3 | 82.5 |
-| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -25.70B |
 | 16:00 | CAD | Budget Balance (Feb) |  |  | -2.10B |
+| 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -25.70B |
 | 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 306.11K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 47.6K |
