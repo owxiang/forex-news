@@ -49,10 +49,11 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Apr) | 76.0 | 77.0 | 77.4 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Apr) | 77.2 | 77.8 | 79.4 |
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 79.0 | 79.3 | 82.5 |
-| 17:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 619 |
-| 18:00 | BRL | Low | CAGED Net Payroll Jobs |  |  | 306.11K |
+| 16:00 | CAD | Low | Budget Balance (Feb) | 8.30B |  | -2.10B |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.9% |  |  |
+| 39 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
+| 39 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 619 |
+| 39 min | BRL | Low | CAGED Net Payroll Jobs |  |  | 306.11K |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 8.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 47.6K |

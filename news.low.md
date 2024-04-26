@@ -30,7 +30,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.5% |  | 0.5% |
 | 14:00 | USD | Dallas Fed PCE (Mar) | 2.90% |  | 3.40% |
 | 15:00 | USD | Michigan Current Conditions (Apr) | 79.0 | 79.3 | 82.5 |
-| 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 306.11K |
+| 16:00 | CAD | Budget Balance (Feb) | 8.30B |  | -2.10B |
+| 39 min | BRL | CAGED Net Payroll Jobs |  |  | 306.11K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 47.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -204.9K |
