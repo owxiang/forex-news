@@ -15,9 +15,9 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.10% | 0.10% | 0.10% |
-| 42 min | SGD | Low | Industrial Production (MoM) (Mar) |  | -8.8% | 14.2% |
-| 42 min | SGD | Low | Industrial Production (YoY) (Mar) |  | -1.5% | 3.8% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
+| 45 min | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 92 | 91 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
@@ -36,8 +36,8 @@
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) |  | 3.86% | 4.14% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) |  | 2.6% | 2.8% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) |  | 2.6% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Mar) |  | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) |  | 2.6% | 2.5% |
 | 13:30 | USD | Low | Personal Income (MoM) (Mar) |  | 0.5% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Mar) |  | 0.6% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Mar) |  |  | 0.4% |

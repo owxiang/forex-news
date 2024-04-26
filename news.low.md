@@ -9,9 +9,9 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.40% | 1.50% | 2.80% |
 | 02:30 | AUD | Export Price Index (QoQ) (Q1) | -2.1% |  | 5.6% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | -1.8% | 0.1% | 1.1% |
-| 42 min | SGD | Industrial Production (MoM) (Mar) |  | -8.8% | 14.2% |
-| 42 min | SGD | Industrial Production (YoY) (Mar) |  | -1.5% | 3.8% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
+| 06:00 | SGD | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
+| 06:00 | SGD | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
+| 45 min | NOK | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
 | 07:45 | EUR | French Consumer Confidence (Apr) |  | 92 | 91 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) |  | 11.80% | 11.76% |

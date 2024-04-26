@@ -10,8 +10,8 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | PCE Price index (YoY) (Mar) |  | 2.6% | 2.5% |
 | 13:30 | USD | PCE price index (MoM) (Mar) |  | 0.3% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Mar) |  | 2.6% | 2.5% |
 | 13:30 | USD | Personal Spending (MoM) (Mar) |  | 0.6% | 0.8% |
 | 13:30 | CAD | Wholesale Sales (MoM) |  |  | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 3.1% | 2.9% |
