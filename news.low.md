@@ -9,14 +9,14 @@
 | 01:30 | SGD | URA Property Index (QoQ) (Q1) | 1.40% | 1.50% | 2.80% |
 | 02:30 | AUD | Export Price Index (QoQ) (Q1) | -2.1% |  | 5.6% |
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | -1.8% | 0.1% | 1.1% |
-| 06:00 | SGD | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
 | 06:00 | SGD | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
+| 06:00 | SGD | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Mar) | 0.3% |  | 0.2% |
 | 07:45 | EUR | French Consumer Confidence (Apr) | 90 | 92 | 91 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) | 0.6% |  | 1.8% |
 | 08:00 | EUR | Spanish Unemployment Rate (Q1) | 12.29% | 11.80% | 11.80% |
-| 09:00 | EUR | M3 Money Supply (Mar) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) | 0.9% | 0.5% | 0.3% |
+| 09:00 | EUR | M3 Money Supply (Mar) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) | 0.4% |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.2% | 0.3% | 0.3% |
 | 12:30 | INR | FX Reserves, USD | 640.33B |  | 643.16B |
@@ -24,21 +24,21 @@
 | 13:00 | MXN | Trade Balance (USD) (Mar) | -1.583B |  | -1.750B |
 | 13:00 | MXN | Unemployment Rate (Mar) | 2.70% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Mar) | 2.30% | 2.40% | 2.50% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 3.77% | 3.86% | 4.14% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Apr) | 0.21% | 0.29% | 0.36% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Apr) | 3.77% | 3.86% | 4.14% |
 | 13:30 | USD | Personal Income (MoM) (Mar) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Mar) | 0.5% |  | 0.5% |
 | 14:00 | USD | Dallas Fed PCE (Mar) | 2.90% |  | 3.40% |
 | 15:00 | USD | Michigan Current Conditions (Apr) | 79.0 | 79.3 | 82.5 |
 | 16:00 | CAD | Budget Balance (Feb) | 8.30B |  | -2.10B |
-| 17 min | USD | CFTC Aluminium speculative net positions |  |  | 1.0K |
-| 17 min | USD | CFTC Copper speculative net positions |  |  | 47.6K |
-| 17 min | USD | CFTC Corn speculative net positions |  |  | -204.9K |
-| 17 min | USD | CFTC Natural Gas speculative net positions |  |  | -131.9K |
-| 17 min | USD | CFTC Silver speculative net positions |  |  | 53.4K |
-| 17 min | USD | CFTC Soybeans speculative net positions |  |  | -171.9K |
-| 17 min | USD | CFTC Wheat speculative net positions |  |  | -62.9K |
-| 17 min | CAD | CFTC CAD speculative net positions |  |  | -82.8K |
-| 17 min | MXN | CFTC MXN speculative net positions |  |  | 127.7K |
-| 17 min | CHF | CFTC CHF speculative net positions |  |  | -36.2K |
-| 17 min | NZD | CFTC NZD speculative net positions |  |  | -11.7K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 1.3K |  | 1.0K |
+| 20:30 | USD | CFTC Copper speculative net positions | 58.4K |  | 47.6K |
+| 20:30 | USD | CFTC Corn speculative net positions | -160.2K |  | -204.9K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -132.5K |  | -131.9K |
+| 20:30 | USD | CFTC Silver speculative net positions | 59.3K |  | 53.4K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -154.6K |  | -171.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -43.4K |  | -62.9K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -76.5K |  | -82.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 123.7K |  | 127.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -42.6K |  | -36.2K |
+| 20:30 | NZD | CFTC NZD speculative net positions | -12.0K |  | -11.7K |
