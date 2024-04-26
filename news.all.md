@@ -10,13 +10,13 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q1) | 1.40% | 1.50% | 2.80% |
 | 02:30 | AUD | Low | Export Price Index (QoQ) (Q1) | -2.1% |  | 5.6% |
 | 02:30 | AUD | Low | Import Price Index (QoQ) (Q1) | -1.8% | 0.1% | 1.1% |
-| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 4.3% |  | 4.1% |
 | 02:30 | AUD | Moderate | PPI (QoQ) (Q1) | 0.9% |  | 0.9% |
+| 02:30 | AUD | Moderate | PPI (YoY) (Q1) | 4.3% |  | 4.1% |
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | Moderate | BoJ Outlook Report (YoY) |  |  |  |
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.10% | 0.10% | 0.10% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | 0.3% |  | 0.2% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French Consumer Confidence (Apr) | 90 | 92 | 91 |
@@ -35,8 +35,8 @@
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) | 2.30% | 2.40% | 2.50% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) | 0.21% | 0.29% | 0.36% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) | 3.77% | 3.86% | 4.14% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) | 2.8% | 2.6% | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) | 2.7% | 2.6% | 2.5% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Mar) | 0.5% | 0.5% | 0.3% |
