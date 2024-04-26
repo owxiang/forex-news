@@ -7,7 +7,7 @@
 | 02:30 | AUD | PPI (QoQ) (Q1) | 0.9% |  | 0.9% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | BoJ Outlook Report (YoY) |  |  |  |
-| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 7 min | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | PCE price index (MoM) (Mar) |  | 0.3% | 0.3% |

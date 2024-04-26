@@ -17,11 +17,11 @@
 | 04:00 | JPY | High | BoJ Interest Rate Decision | 0.10% | 0.10% | 0.10% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
-| 45 min | NOK | Low | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
-| 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French Consumer Confidence (Apr) |  | 92 | 91 |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
-| 08:00 | EUR | Low | Spanish Unemployment Rate (Q1) |  | 11.80% | 11.76% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Mar) | 0.3% |  | 0.2% |
+| 7 min | JPY | Moderate | BoJ Press Conference |  |  |  |
+| 22 min | EUR | Low | French Consumer Confidence (Apr) |  | 92 | 91 |
+| 37 min | EUR | Low | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
+| 37 min | EUR | Low | Spanish Unemployment Rate (Q1) |  | 11.80% | 11.76% |
 | 09:00 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
 | 09:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Mar) |  | 0.5% | 0.4% |

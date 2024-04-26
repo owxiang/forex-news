@@ -11,10 +11,10 @@
 | 02:30 | AUD | Import Price Index (QoQ) (Q1) | -1.8% | 0.1% | 1.1% |
 | 06:00 | SGD | Industrial Production (YoY) (Mar) | -9.2% | -1.5% | 4.4% |
 | 06:00 | SGD | Industrial Production (MoM) (Mar) | -16.0% | -8.8% | 14.6% |
-| 45 min | NOK | Core Retail Sales (MoM) (Mar) |  |  | 0.1% |
-| 07:45 | EUR | French Consumer Confidence (Apr) |  | 92 | 91 |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
-| 08:00 | EUR | Spanish Unemployment Rate (Q1) |  | 11.80% | 11.76% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Mar) | 0.3% |  | 0.2% |
+| 22 min | EUR | French Consumer Confidence (Apr) |  | 92 | 91 |
+| 37 min | EUR | Spanish Retail Sales (YoY) (Mar) |  |  | 1.9% |
+| 37 min | EUR | Spanish Unemployment Rate (Q1) |  | 11.80% | 11.76% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Mar) |  | 0.5% | 0.4% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Mar) |  |  | 0.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.3% | 0.3% |
