@@ -3,21 +3,21 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Apr) | 1.6% | 2.2% | 2.4% |
-| 02:30 | AUD | PPI (QoQ) (Q1) | 0.9% |  | 0.9% |
 | 02:30 | AUD | PPI (YoY) (Q1) | 4.3% |  | 4.1% |
+| 02:30 | AUD | PPI (QoQ) (Q1) | 0.9% |  | 0.9% |
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 03:30 | JPY | BoJ Outlook Report (YoY) |  |  |  |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | PCE Price index (YoY) (Mar) | 2.7% | 2.6% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Mar) | 0.8% | 0.6% | 0.8% |
-| 13:30 | CAD | Wholesale Sales (MoM) |  |  | 0.0% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 3.1% | 2.9% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 3.0% | 2.8% |
-| 15:00 | USD | Michigan Consumer Expectations (Apr) |  | 77.0 | 77.4 |
-| 15:00 | USD | Michigan Consumer Sentiment (Apr) |  | 77.8 | 79.4 |
+| 13:30 | CAD | Wholesale Sales (MoM) | 1.3% |  | 0.0% |
+| 43 min | USD | Michigan 1-Year Inflation Expectations (Apr) |  | 3.1% | 2.9% |
+| 43 min | USD | Michigan 5-Year Inflation Expectations (Apr) |  | 3.0% | 2.8% |
+| 43 min | USD | Michigan Consumer Expectations (Apr) |  | 77.0 | 77.4 |
+| 43 min | USD | Michigan Consumer Sentiment (Apr) |  | 77.8 | 79.4 |
 | 17:30 | USD | Atlanta Fed GDPNow (Q2) |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
