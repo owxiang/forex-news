@@ -35,10 +35,10 @@
 | 13:00 | MXN | Low | Unemployment Rate n.s.a. (Mar) | 2.30% | 2.40% | 2.50% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Apr) | 0.21% | 0.29% | 0.36% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Apr) | 3.77% | 3.86% | 4.14% |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) | 2.8% | 2.6% | 2.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Mar) | 2.8% | 2.6% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Mar) | 2.7% | 2.6% | 2.5% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Mar) | 0.5% | 0.5% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Mar) | 0.8% | 0.6% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Mar) | 0.5% |  | 0.5% |
@@ -51,9 +51,8 @@
 | 15:00 | USD | Low | Michigan Current Conditions (Apr) | 79.0 | 79.3 | 82.5 |
 | 16:00 | CAD | Low | Budget Balance (Feb) | 8.30B |  | -2.10B |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.9% |  |  |
-| 39 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
-| 39 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 619 |
-| 39 min | BRL | Low | CAGED Net Payroll Jobs |  |  | 306.11K |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 506 |  | 511 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 613 |  | 619 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 8.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 47.6K |

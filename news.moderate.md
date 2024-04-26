@@ -10,8 +10,8 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 09:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 09:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | PCE Price index (YoY) (Mar) | 2.7% | 2.6% | 2.5% |
+| 13:30 | USD | PCE price index (MoM) (Mar) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Mar) | 0.8% | 0.6% | 0.8% |
 | 13:30 | CAD | Wholesale Sales (MoM) | 1.3% |  | 0.0% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Apr) | 3.2% | 3.1% | 2.9% |
@@ -19,8 +19,8 @@
 | 15:00 | USD | Michigan Consumer Expectations (Apr) | 76.0 | 77.0 | 77.4 |
 | 15:00 | USD | Michigan Consumer Sentiment (Apr) | 77.2 | 77.8 | 79.4 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.9% |  |  |
-| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 511 |
-| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 619 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 506 |  | 511 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 613 |  | 619 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 8.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 290.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 201.9K |
