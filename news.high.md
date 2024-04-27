@@ -1,3 +1,5 @@
-## 27 April 2024 - High Impact Forex News
+## 29 April 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 13:00 | EUR | German CPI (MoM) (Apr) |  |  | 0.4% |
