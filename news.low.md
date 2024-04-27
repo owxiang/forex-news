@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Chinese Industrial profit YTD (Mar) |  |  | 10.2% |
+| 21 min | CNY | Chinese Industrial profit YTD (Mar) |  |  | 10.2% |
