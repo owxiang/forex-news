@@ -7,8 +7,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) |  |  | 1.4% |
 | 08:00 | IDR | Foreign Direct Investment (YoY) |  |  | 5.30% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 6.74B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
