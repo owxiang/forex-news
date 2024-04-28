@@ -7,18 +7,18 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) |  |  | 1.4% |
 | 08:00 | IDR | Foreign Direct Investment (YoY) |  |  | 5.30% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Mar) |  |  | 6.74B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) |  |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
+| 09:00 | EUR | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Apr) |  |  | 0.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) |  |  | 1.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Apr) |  |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Apr) |  |  | 0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) |  |  | 2.5% |
+| 09:00 | EUR | Saxony CPI (MoM) (Apr) |  |  | 0.4% |
 | 10:00 | EUR | Business and Consumer Survey (Apr) |  | 96.9 | 96.3 |
 | 10:00 | EUR | Business Climate (Apr) |  |  | -0.30 |
 | 10:00 | EUR | Consumer Confidence (Apr) |  | -14.7 | -14.9 |
