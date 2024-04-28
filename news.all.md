@@ -13,8 +13,8 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 1.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) |  |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.3% |
