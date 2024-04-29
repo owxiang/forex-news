@@ -4,19 +4,19 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q1) | 15.50% |  | 16.20% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.9% | 3.2% | 3.3% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.7% | 1.0% | 0.8% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.3% | 3.4% | 3.2% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% | 0.7% | 1.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.7% | 1.0% | 0.8% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.4% | 3.4% | 3.3% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% | 0.7% | 1.4% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) | 5.60B |  | 6.89B |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) | 0.3% |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.6% |  | 0.4% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) | 2.1% |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) | 0.6% |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) | 3.0% |  | 2.8% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 0.4% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 1.9% |  | 1.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) | 0.6% |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) | 1.9% |  | 1.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) | 2.3% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) | 2.7% |  | 2.5% |
@@ -35,16 +35,16 @@
 | 12:00 | EUR | Low | Spanish Business Confidence (Apr) | -3.9 |  | -4.7 |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Apr) | 0.31% | 0.05% | -0.47% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | High | German CPI (MoM) (Apr) | 0.5% | 0.6% | 0.4% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.2% | 2.3% | 2.2% |
-| 13:00 | EUR | Low | German HICP (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
+| 13:00 | EUR | High | German CPI (MoM) (Apr) | 0.5% | 0.6% | 0.4% |
 | 13:00 | EUR | Low | German HICP (YoY) (Apr) | 2.4% | 2.3% | 2.3% |
+| 13:00 | EUR | Low | German HICP (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.488% |  | 3.474% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.800% |  | 3.825% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.710% |  | 3.710% |
-| 42 min | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.40% |
-| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -14.4 |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
+| 14 min | USD | Low | Dallas Fed Mfg Business Index (Apr) |  |  | -14.4 |
+| 14 min | USD | Low | Dallas Fed PCE (Mar) |  |  | 3.40% |
+| 44 min | CAD | Low | Budget Balance (YoY) (Feb) |  |  | -25.70B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.160% |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs (Mar) |  | 182.94K | 306.11K |
