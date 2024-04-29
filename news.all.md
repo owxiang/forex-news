@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 03:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
+| 4 min | SGD | Low | Unemployment Rate |  |  | 2.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.8% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.4% | 3.2% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  |  | 1.4% |
@@ -11,8 +11,8 @@
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) |  |  | 6.74B |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 1.6% |
