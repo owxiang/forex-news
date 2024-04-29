@@ -7,18 +7,18 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.7% | 1.0% | 0.8% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% | 0.7% | 1.4% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.60B |  | 6.89B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.1% |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.6% |  | 0.4% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 3.0% |  | 2.8% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (Apr) | 0.6% |  | 0.4% |
-| 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.6% |  | 0.3% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 3.0% |  | 2.8% |
 | 09:00 | EUR | Hesse CPI (YoY) (Apr) | 1.9% |  | 1.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 0.3% |  | 0.3% |
+| 09:00 | EUR | Hesse CPI (MoM) (Apr) | 0.6% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Apr) | 2.3% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.6% |  | 0.4% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Apr) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (Apr) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Saxony CPI (MoM) (Apr) | 0.6% |  | 0.4% |
 | 10:00 | EUR | Business and Consumer Survey (Apr) | 95.6 | 96.9 | 96.2 |
 | 10:00 | EUR | Business Climate (Apr) | -0.53 |  | -0.32 |
 | 10:00 | EUR | Consumer Confidence (Apr) | -14.7 | -14.7 | -14.9 |
@@ -26,9 +26,10 @@
 | 10:00 | EUR | Selling Price Expectations (Apr) | 5.4 |  | 5.5 |
 | 10:00 | EUR | Services Sentiment (Apr) | 6.0 | 6.5 | 6.4 |
 | 10:00 | EUR | Industrial Sentiment (Apr) | -10.5 | -8.5 | -8.9 |
-| 12 min | EUR | Italian 5-Year BTP Auction |  |  | 3.21% |
-| 12:00 | EUR | Spanish Business Confidence |  |  | -5.4 |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (Apr) |  | 0.05% | -0.47% |
+| 10:30 | EUR | Italian 5-Year BTP Auction | 3.41% |  | 3.21% |
+| 10:50 | EUR | German 12-Month Bubill Auction | 3.448% |  | 3.328% |
+| 43 min | EUR | Spanish Business Confidence |  |  | -5.4 |
+| 43 min | BRL | IGP-M Inflation Index (MoM) (Apr) |  | 0.05% | -0.47% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | CAGED Net Payroll Jobs (Mar) |  | 182.94K | 306.11K |
 | 13:00 | EUR | German HICP (MoM) (Apr) |  |  | 0.6% |
