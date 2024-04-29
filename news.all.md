@@ -3,21 +3,21 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) (Q1) | 15.50% |  | 16.20% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.4% | 3.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  |  | 1.4% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 3.3% |
+| 38 min | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.4% | 3.2% |
+| 38 min | EUR | Low | Spanish CPI (MoM) (Apr) |  |  | 0.8% |
+| 38 min | EUR | Moderate | Spanish HICP (YoY) (Apr) |  |  | 3.3% |
+| 38 min | EUR | Low | Spanish HICP (MoM) (Apr) |  |  | 1.4% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Mar) |  |  | 6.74B |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) (Apr) |  |  | 0.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Apr) |  |  | 2.3% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Apr) |  |  | 2.8% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 1.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Apr) |  |  | 0.3% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Apr) |  |  | 1.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Apr) |  |  | 0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Apr) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Apr) |  |  | 2.5% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Apr) |  |  | 0.4% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Apr) |  | 96.9 | 96.3 |
