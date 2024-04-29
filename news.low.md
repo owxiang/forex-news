@@ -7,8 +7,8 @@
 | 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.7% | 1.0% | 0.8% |
 | 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% | 0.7% | 1.4% |
 | 09:00 | EUR | Italian Trade Balance Non-EU (Mar) | 5.60B |  | 6.89B |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Apr) | 2.1% |  | 2.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) (Apr) | 0.3% |  | 0.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (Apr) | 0.6% |  | 0.4% |
 | 09:00 | EUR | Bavaria CPI (YoY) (Apr) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (Apr) | 3.0% |  | 2.8% |
@@ -33,10 +33,10 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | German HICP (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (Apr) | 2.4% | 2.3% | 2.3% |
-| 29 min | EUR | French 12-Month BTF Auction |  |  | 3.474% |
-| 29 min | EUR | French 3-Month BTF Auction |  |  | 3.825% |
-| 29 min | EUR | French 6-Month BTF Auction |  |  | 3.710% |
-| 15:00 | USD | Dallas Fed PCE (Mar) |  |  | 3.40% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.488% |  | 3.474% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.800% |  | 3.825% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.710% |  | 3.710% |
+| 42 min | USD | Dallas Fed PCE (Mar) |  |  | 3.40% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Apr) |  |  | -14.4 |
 | 16:00 | CAD | Budget Balance (YoY) (Feb) |  |  | -25.70B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.255% |
