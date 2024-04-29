@@ -7,4 +7,4 @@
 | 10:30 | EUR | Italian 10-Year BTP Auction | 3.86% |  | 3.67% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Apr) | 2.2% | 2.3% | 2.2% |
-| 20:20 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 59 min | EUR | ECB's De Guindos Speaks |  |  |  |
