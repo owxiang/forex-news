@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
-| 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
 | 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
+| 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
 | 00:30 | JPY | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
@@ -33,14 +33,14 @@
 | 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
+| 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 08:00 | CHF | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
 | 09:00 | EUR | Spanish Current account (Feb) | 1.90B |  | 5.13B |
 | 09:00 | NOK | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
 | 09:30 | GBP | BoE Consumer Credit (Mar) | 1.577B |  | 1.429B |
@@ -74,6 +74,18 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% | 0.1% | 0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) | 0.3 |  | 4.0 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) | -10.6 |  | -5.5 |
+| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
+| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
+| 17:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.15M | 3.15M | 3.15M |
+| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.15M | 4.15M | 4.15M |
+| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M | 1.45M | 1.45M |
+| 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
+| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
+| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.79M | 0.79M | 0.79M |
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |

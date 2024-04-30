@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | GBP | Low | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
-| 00:00 | KRW | Low | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
 | 00:30 | JPY | Low | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
@@ -35,8 +35,8 @@
 | 06:30 | EUR | Moderate | French GDP (YoY) (Q1) | 1.1% | 0.9% | 0.8% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) | 0.4% | 0.1% | -0.2% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Mar) | -3.6% | -3.8% | -4.9% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) | 0.3% |  | -2.7% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) | 1.8% | 1.3% | -1.9% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (Mar) | 0.3% |  | -2.7% |
 | 07:00 | NOK | Low | M3 Money Supply (Mar) | 3,125.8B |  | 3,056.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Mar) | 3.5% |  | 3.5% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Mar) | 6.85% |  | 5.71% |
@@ -45,8 +45,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) | 0.6% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 07:45 | EUR | Low | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
+| 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 101.8 | 102.1 | 100.4 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
@@ -55,8 +55,8 @@
 | 08:55 | EUR | Moderate | German Unemployment Rate (Apr) | 5.9% | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Apr) | 2.732M |  | 2.719M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.1% | -0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 1.90B |  | 5.13B |
@@ -77,8 +77,8 @@
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.4% | 0.2% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.1% | -0.1% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.4% | 0.2% | 0.1% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.8% |  | 3.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.6% |  | 0.9% |
 | 10:15 | ZAR | Low | Budget Balance (MoM) (Mar) | 2.07B |  | 20.78B |
@@ -102,13 +102,25 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Feb) | 1.2% | 0.1% | -0.1% |
 | 14:00 | USD | Low | House Price Index (Feb) | 423.0 |  | 417.8 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% | 0.1% | 0.2% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 7.3% | 6.7% | 6.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.9% |  | -0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 7.3% | 6.7% | 6.6% |
 | 14:45 | USD | High | Chicago PMI (Apr) | 37.9 | 44.9 | 41.4 |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) | 97.0 | 104.0 | 103.1 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) | 0.3 |  | 4.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Apr) | -10.6 |  | -5.5 |
-| 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 17:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 17:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.15M | 3.15M | 3.15M |
+| 17:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.15M | 4.15M | 4.15M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M | 1.45M | 1.45M |
+| 17:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
+| 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
+| 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.79M | 0.79M | 0.79M |
+| 39 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 20:15 | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.230M |
 | 22:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -263.06B |
