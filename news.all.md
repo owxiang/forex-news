@@ -45,8 +45,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
+| 07:45 | EUR | Low | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 101.8 | 102.1 | 100.4 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
@@ -57,8 +57,8 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.1% | -0.5% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.1% | -0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 1.90B |  | 5.13B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Mar) | 1.577B |  | 1.429B |
@@ -72,22 +72,20 @@
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.6% | 2.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | 1.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.6% | 2.9% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.1% | -0.1% |
 | 10:00 | EUR | Moderate | GDP (YoY) (Q1) | 0.4% | 0.2% | 0.1% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.1% | -0.1% |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Apr) | 2.8% |  | 3.1% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.6% |  | 0.9% |
-| 10:13 | ZAR | Low | Budget Balance (MoM) (Mar) | 2.07B |  | 20.78B |
-| 11 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 11 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
-| 41 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 41 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:15 | ZAR | Low | Budget Balance (MoM) (Mar) | 2.07B |  | 20.78B |
+| 10:30 | GBP | Low | 5-Year Treasury Gilt Auction | 4.251% |  | 3.928% |
+| 11:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) |  |  | 306.11K |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  |  | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  |  | 2.5% |
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Mar) |  |  | 6.7% |
@@ -104,8 +102,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
 | 14:00 | USD | Low | House Price Index (Feb) |  |  | 417.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 6.7% | 6.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
 | 14:45 | USD | High | Chicago PMI (Apr) |  | 44.9 | 41.4 |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 104.0 | 104.7 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
@@ -117,7 +115,7 @@
 | 22:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -263.06B |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
+| 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Low | Participation Rate (Q1) |  |  | 71.90% |
 | 23:45 | NZD | Low | Unemployment Rate (Q1) |  | 4.3% | 4.0% |

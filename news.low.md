@@ -33,8 +33,8 @@
 | 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
+| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 08:00 | CHF | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
@@ -58,11 +58,10 @@
 | 10:00 | EUR | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.8% |  | 3.1% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.6% |  | 0.9% |
-| 10:13 | ZAR | Budget Balance (MoM) (Mar) | 2.07B |  | 20.78B |
-| 11 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 41 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 10:15 | ZAR | Budget Balance (MoM) (Mar) | 2.07B |  | 20.78B |
+| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.251% |  | 3.928% |
+| 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | CAGED Net Payroll Jobs (Mar) |  |  | 306.11K |
 | 13:00 | INR | Infrastructure Output (YoY) (Mar) |  |  | 6.7% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Mar) |  |  | 0.06% |
 | 13:00 | ZAR | Trade Balance (Mar) |  |  | 14.04B |
@@ -79,7 +78,7 @@
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Participation Rate (Q1) |  |  | 71.90% |
 | 23:45 | NZD | Unemployment Rate (Q1) |  | 4.3% | 4.0% |
