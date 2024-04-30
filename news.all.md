@@ -121,7 +121,7 @@
 | 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
 | 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.79M | 0.79M | 0.79M |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 20:15 | MXN | Low | Fiscal Balance |  |  | -263.06B |
+| 52 min | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.230M |
 | 22:00 | MXN | Low | Fiscal Balance (Mar) |  |  | -263.06B |
 | 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |

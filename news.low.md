@@ -86,7 +86,7 @@
 | 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
 | 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
 | 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.79M | 0.79M | 0.79M |
-| 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
+| 52 min | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
