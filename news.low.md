@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
-| 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
 | 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
+| 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
 | 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
 | 00:30 | JPY | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
@@ -33,8 +33,8 @@
 | 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
+| 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 08:00 | CHF | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
@@ -50,10 +50,10 @@
 | 09:30 | GBP | Mortgage Lending (Mar) | 0.26B |  | 1.65B |
 | 09:30 | GBP | Net Lending to Individuals (Mar) | 1.800B | 1.700B | 2.888B |
 | 09:30 | HKD | M3 Money Supply (Mar) | -0.4% |  | 0.1% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
-| 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
 | 10:00 | EUR | Core CPI (MoM) | 0.7% |  | 1.1% |
 | 10:00 | EUR | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.8% |  | 3.1% |
@@ -71,9 +71,9 @@
 | 14:00 | USD | House Price Index (YoY) (Feb) | 7.0% |  | 6.5% |
 | 14:00 | USD | House Price Index (MoM) (Feb) | 1.2% | 0.1% | -0.1% |
 | 14:00 | USD | House Price Index (Feb) | 423.0 |  | 417.8 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% |  | 0.2% |
-| 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
-| 15:30 | USD | Texas Services Sector Outlook (Apr) |  |  | -5.5 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% | 0.1% | 0.2% |
+| 14 min | USD | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
+| 14 min | USD | Texas Services Sector Outlook (Apr) |  |  | -5.5 |
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
