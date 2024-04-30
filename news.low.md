@@ -39,8 +39,8 @@
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 09:00 | EUR | Spanish Current account (Feb) | 1.90B |  | 5.13B |
 | 09:00 | NOK | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
 | 09:30 | GBP | BoE Consumer Credit (Mar) | 1.577B |  | 1.429B |
@@ -50,8 +50,8 @@
 | 09:30 | GBP | Mortgage Lending (Mar) | 0.26B |  | 1.65B |
 | 09:30 | GBP | Net Lending to Individuals (Mar) | 1.800B | 1.700B | 2.888B |
 | 09:30 | HKD | M3 Money Supply (Mar) | -0.4% |  | 0.1% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
 | 10:00 | EUR | Core CPI (MoM) | 0.7% |  | 1.1% |
@@ -74,19 +74,18 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% | 0.1% | 0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) | 0.3 |  | 4.0 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) | -10.6 |  | -5.5 |
-| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
-| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
-| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
-| 17:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
-| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.15M | 3.15M | 3.15M |
-| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.15M | 4.15M | 4.15M |
-| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
-| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
-| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M | 1.45M | 1.45M |
-| 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
-| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
-| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.79M | 0.79M | 0.79M |
-| 43 min | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
+| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.90M |
+| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.25M |
+| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.21M |
+| 17:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.05M |
+| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.15M |  | 3.03M |
+| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.15M |  | 4.13M |
+| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
+| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M |  | 1.17M |
+| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M |  | 1.57M |
+| 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M |  | 8.98M |
+| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M |  | 2.92M |
+| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.79M |  | 0.80M |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |

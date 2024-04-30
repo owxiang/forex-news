@@ -49,14 +49,14 @@
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 101.8 | 102.1 | 100.4 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.7% | 0.4% | 0.7% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Apr) | 10K | 7K | 6K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Apr) | 5.9% | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Apr) | 2.732M |  | 2.719M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.1% | -0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 1.90B |  | 5.13B |
@@ -68,8 +68,8 @@
 | 09:30 | GBP | Low | Mortgage Lending (Mar) | 0.26B |  | 1.65B |
 | 09:30 | GBP | Low | Net Lending to Individuals (Mar) | 1.800B | 1.700B | 2.888B |
 | 09:30 | HKD | Low | M3 Money Supply (Mar) | -0.4% |  | 0.1% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | 1.1% |
@@ -108,22 +108,21 @@
 | 15:00 | USD | High | CB Consumer Confidence (Apr) | 97.0 | 104.0 | 103.1 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) | 0.3 |  | 4.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Apr) | -10.6 |  | -5.5 |
-| 17:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M | 0.90M | 0.90M |
-| 17:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
-| 17:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
-| 17:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
-| 17:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.15M | 3.15M | 3.15M |
-| 17:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.15M | 4.15M | 4.15M |
-| 17:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
-| 17:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
-| 17:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M | 1.45M | 1.45M |
-| 17:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M | 9.00M | 9.00M |
-| 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M | 2.92M | 2.92M |
-| 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.79M | 0.79M | 0.79M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.90M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.25M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.21M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.05M |
+| 17:00 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.15M |  | 3.03M |
+| 17:00 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.15M |  | 4.13M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M |  | 1.17M |
+| 17:00 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M |  | 1.57M |
+| 17:00 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M |  | 8.98M |
+| 17:00 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.92M |  | 2.92M |
+| 17:00 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.79M |  | 0.80M |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.230M |
-| 43 min | MXN | Low | Fiscal Balance (Mar) |  |  | -263.06B |
-| 43 min | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 4.906M | -1.500M | -3.230M |
+| 22:00 | NZD | Moderate | RBNZ Financial Stability Report |  |  |  |
 | 23:45 | NZD | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
 | 23:45 | NZD | Low | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Low | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |

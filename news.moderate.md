@@ -32,5 +32,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.9% |  | -0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 7.3% | 6.7% | 6.6% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 13 min | USD | API Weekly Crude Oil Stock |  |  | -3.230M |
-| 43 min | NZD | RBNZ Financial Stability Report |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock | 4.906M | -1.500M | -3.230M |
+| 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
