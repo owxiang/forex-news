@@ -1,93 +1,35 @@
-## 30 April 2024 - Low Impact Forex News
+## 01 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | GBP | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
-| 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
-| 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
-| 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
-| 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
-| 00:30 | JPY | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
-| 00:30 | JPY | Unemployment Rate (Mar) | 2.6% | 2.5% | 2.6% |
-| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 4.1% |  | 4.9% |
-| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (May) | 4.4% |  | 3.3% |
-| 00:50 | JPY | Large Retailers' Sales (MoM) | -1.2% | 0.6% | 1.5% |
-| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) | 7.0% |  | 8.0% |
-| 00:50 | JPY | Retail Sales (YoY) (Mar) | 1.2% | 2.5% | 4.7% |
-| 02:00 | NZD | ANZ Business Confidence (Apr) | 14.9 |  | 22.9 |
-| 02:00 | NZD | NBNZ Own Activity (Apr) | 14.3% |  | 22.5% |
-| 02:30 | AUD | Housing Credit (Mar) | 0.4% |  | 0.4% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.3% | 0.4% | 0.5% |
-| 03:00 | SGD | Bank Lending (Mar) | 807.8B |  | 801.5B |
-| 03:30 | SGD | Unemployment Rate | 2.1% |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Mar) | 411.4B |  | 407.7B |
-| 06:00 | JPY | Construction Orders (YoY) (Mar) | 31.4% |  | -11.0% |
-| 06:00 | JPY | Housing Starts (YoY) (Mar) | -12.8% | -7.6% | -8.2% |
-| 06:00 | SGD | Business Expectations | 22.00 |  | 10.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Mar) | 0.4% | 0.1% | -0.2% |
-| 07:00 | EUR | German Import Price Index (YoY) (Mar) | -3.6% | -3.8% | -4.9% |
-| 07:00 | EUR | German Retail Sales (YoY) (Mar) | 0.3% |  | -2.7% |
-| 07:00 | NOK | M3 Money Supply (Mar) | 3,125.8B |  | 3,056.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Mar) | 3.5% |  | 3.5% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) | 6.85% |  | 5.71% |
-| 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
-| 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
-| 07:45 | EUR | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
-| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
-| 08:00 | CHF | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
-| 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
-| 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
-| 09:00 | EUR | Spanish Current account (Feb) | 1.90B |  | 5.13B |
-| 09:00 | NOK | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
-| 09:30 | GBP | BoE Consumer Credit (Mar) | 1.577B |  | 1.429B |
-| 09:30 | GBP | M3 Money Supply (Mar) | 3,038.8B |  | 3,017.6B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Mar) | 0.7% | 0.4% | 0.6% |
-| 09:30 | GBP | Mortgage Approvals (Mar) | 61.33K | 61.00K | 60.50K |
-| 09:30 | GBP | Mortgage Lending (Mar) | 0.26B |  | 1.65B |
-| 09:30 | GBP | Net Lending to Individuals (Mar) | 1.800B | 1.700B | 2.888B |
-| 09:30 | HKD | M3 Money Supply (Mar) | -0.4% |  | 0.1% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
-| 10:00 | EUR | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
-| 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
-| 10:00 | EUR | Core CPI (MoM) | 0.7% |  | 1.1% |
-| 10:00 | EUR | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.8% |  | 3.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.6% |  | 0.9% |
-| 10:15 | ZAR | Budget Balance (MoM) (Mar) | 2.07B |  | 20.78B |
-| 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.251% |  | 3.928% |
-| 12:30 | INR | Infrastructure Output (YoY) (Mar) | 5.2% |  | 7.1% |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 13:00 | BRL | Brazilian PPI (MoM) (Mar) | 0.35% |  | 0.14% |
-| 13:00 | ZAR | Trade Balance (Mar) | 7.27B |  | 14.04B |
-| 13:30 | USD | Employment Benefits (QoQ) (Q1) | 1.10% |  | 0.70% |
-| 13:30 | USD | Employment Wages (QoQ) (Q1) | 1.10% |  | 1.10% |
-| 13:30 | BRL | CAGED Net Payroll Jobs (Mar) | 244.32K | 182.94K | 306.11K |
-| 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.3% |
-| 14:00 | USD | House Price Index (YoY) (Feb) | 7.0% |  | 6.5% |
-| 14:00 | USD | House Price Index (MoM) (Feb) | 1.2% | 0.1% | -0.1% |
-| 14:00 | USD | House Price Index (Feb) | 423.0 |  | 417.8 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% | 0.1% | 0.2% |
-| 15:30 | USD | Dallas Fed Services Revenues (Apr) | 0.3 |  | 4.0 |
-| 15:30 | USD | Texas Services Sector Outlook (Apr) | -10.6 |  | -5.5 |
-| 17:00 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.90M |  | 0.90M |
-| 17:00 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M |  | 0.25M |
-| 17:00 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M |  | 0.21M |
-| 17:00 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M |  | 0.05M |
-| 17:00 | USD | OPEC Crude oil Production Iran (Barrel) | 3.15M |  | 3.03M |
-| 17:00 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.15M |  | 4.13M |
-| 17:00 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M |  | 2.41M |
-| 17:00 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M |  | 1.17M |
-| 17:00 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.45M |  | 1.57M |
-| 17:00 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.00M |  | 8.98M |
-| 17:00 | USD | OPEC Crude oil Production UAE (Barrel) | 2.92M |  | 2.92M |
-| 17:00 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.79M |  | 0.80M |
-| 30 min | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 30 min | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
-| 30 min | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
-| 30 min | NZD | Participation Rate (Q1) |  |  | 71.90% |
-| 30 min | NZD | Unemployment Rate (Q1) |  | 4.3% | 4.0% |
+| 00:00 | AUD | AIG Construction Index (Apr) | -25.6 |  | -12.9 |
+| 00:00 | AUD | AIG Manufacturing Index (Apr) | -13.9 |  | -7.0 |
+| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 | 49.9 | 47.3 |
+| 45 min | KRW | Exports (YoY) (Apr) |  | 13.5% | 3.1% |
+| 45 min | KRW | Imports (YoY) (Apr) |  | 6.0% | -12.3% |
+| 45 min | KRW | Trade Balance (Apr) |  | 2.30B | 4.29B |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 49.9 | 48.2 |
+| 02:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 07:30 | AUD | Commodity Prices (YoY) |  |  | -15.3% |
+| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.015% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.24% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.7% |
+| 12:00 | USD | MBA Purchase Index |  |  | 144.2 |
+| 12:00 | USD | Mortgage Market Index |  |  | 196.7 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 472.7 |
+| 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 12:30 | INR | M3 Money Supply |  |  | 11.4% |
+| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 51.4 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.417M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.178M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.614M |
+| 15:30 | USD | Gasoline Production |  |  | -0.275M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 1.073M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 15:30 | USD | Gasoline Inventories |  |  | -0.634M |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.115B |
+| 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
+| 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 14.9% |
