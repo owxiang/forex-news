@@ -28,9 +28,9 @@
 | 13:00 | BRL | Unemployment Rate | 7.9% |  | 7.8% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q1) | 1.2% | 1.0% | 0.9% |
 | 13:30 | CAD | GDP (MoM) (Feb) | 0.2% | 0.3% | 0.5% |
-| 13:31 | CAD | GDP (MoM) (Mar) |  |  |  |
-| 30 min | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
-| 30 min | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 6.7% | 6.6% |
+| 13:31 | CAD | GDP (MoM) (Mar) | 0.0% |  | 0.2% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.9% |  | -0.1% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 7.3% | 6.7% | 6.6% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.230M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |

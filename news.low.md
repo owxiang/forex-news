@@ -33,8 +33,8 @@
 | 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
+| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 08:00 | CHF | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
@@ -62,17 +62,16 @@
 | 10:30 | GBP | 5-Year Treasury Gilt Auction | 4.251% |  | 3.928% |
 | 12:30 | INR | Infrastructure Output (YoY) (Mar) | 5.2% |  | 7.1% |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | CAGED Net Payroll Jobs (Mar) | 244.32K | 182.94K | 306.11K |
 | 13:00 | BRL | Brazilian PPI (MoM) (Mar) | 0.35% |  | 0.06% |
 | 13:00 | ZAR | Trade Balance (Mar) | 7.27B |  | 14.04B |
 | 13:30 | USD | Employment Benefits (QoQ) (Q1) | 1.10% |  | 0.70% |
 | 13:30 | USD | Employment Wages (QoQ) (Q1) | 1.10% |  | 1.10% |
-| 25 min | USD | Redbook (YoY) |  |  | 5.3% |
-| 30 min | USD | House Price Index (YoY) (Feb) |  |  | 6.3% |
-| 30 min | USD | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
-| 30 min | USD | House Price Index (Feb) |  |  | 417.5 |
-| 30 min | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.1% |
-| 30 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 13:30 | BRL | CAGED Net Payroll Jobs (Mar) | 244.32K | 182.94K | 306.11K |
+| 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.3% |
+| 14:00 | USD | House Price Index (YoY) (Feb) | 7.0% |  | 6.5% |
+| 14:00 | USD | House Price Index (MoM) (Feb) | 1.2% | 0.1% | -0.1% |
+| 14:00 | USD | House Price Index (Feb) | 423.0 |  | 417.8 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% |  | 0.2% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
 | 15:30 | USD | Texas Services Sector Outlook (Apr) |  |  | -5.5 |
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |

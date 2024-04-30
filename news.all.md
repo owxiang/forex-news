@@ -45,8 +45,8 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) | 0.6% | 0.5% | 0.2% |
-| 07:45 | EUR | Low | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
+| 07:45 | EUR | Low | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) | 101.8 | 102.1 | 100.4 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
@@ -57,8 +57,8 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
-| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.1% | -0.5% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 09:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.1% | -0.5% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) | 1.90B |  | 5.13B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
 | 09:30 | GBP | Low | BoE Consumer Credit (Mar) | 1.577B |  | 1.429B |
@@ -72,8 +72,8 @@
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.6% | 2.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.7% |  | 1.1% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) | 2.7% | 2.6% | 2.9% |
 | 10:00 | EUR | High | CPI (YoY) (Apr) | 2.4% | 2.4% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Apr) | 0.6% |  | 0.8% |
 | 10:00 | EUR | Low | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
@@ -86,7 +86,6 @@
 | 11:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 12:30 | INR | Low | Infrastructure Output (YoY) (Mar) | 5.2% |  | 7.1% |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) | 244.32K | 182.94K | 306.11K |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.2% |  | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 1.6% |  | 2.5% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) | 0.35% |  | 0.06% |
@@ -96,17 +95,17 @@
 | 13:30 | USD | Moderate | Employment Cost Index (QoQ) (Q1) | 1.2% | 1.0% | 0.9% |
 | 13:30 | USD | Low | Employment Wages (QoQ) (Q1) | 1.10% |  | 1.10% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Feb) | 0.2% | 0.3% | 0.5% |
-| 13:31 | CAD | Moderate | GDP (MoM) (Mar) |  |  |  |
-| 25 min | USD | Low | Redbook (YoY) |  |  | 5.3% |
-| 30 min | USD | Low | House Price Index (YoY) (Feb) |  |  | 6.3% |
-| 30 min | USD | Low | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
-| 30 min | USD | Low | House Price Index (Feb) |  |  | 417.5 |
-| 30 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.1% |
-| 30 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
-| 30 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 6.7% | 6.6% |
-| 30 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 14:45 | USD | High | Chicago PMI (Apr) |  | 44.9 | 41.4 |
-| 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 104.0 | 104.7 |
+| 13:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) | 244.32K | 182.94K | 306.11K |
+| 13:31 | CAD | Moderate | GDP (MoM) (Mar) | 0.0% |  | 0.2% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.5% |  | 5.3% |
+| 14:00 | USD | Low | House Price Index (YoY) (Feb) | 7.0% |  | 6.5% |
+| 14:00 | USD | Low | House Price Index (MoM) (Feb) | 1.2% | 0.1% | -0.1% |
+| 14:00 | USD | Low | House Price Index (Feb) | 423.0 |  | 417.8 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) | 0.6% |  | 0.2% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.9% |  | -0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 7.3% | 6.7% | 6.6% |
+| 28 min | USD | High | Chicago PMI (Apr) |  | 44.9 | 41.4 |
+| 43 min | USD | High | CB Consumer Confidence (Apr) |  | 104.0 | 104.7 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Apr) |  |  | -5.5 |
 | 18:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
