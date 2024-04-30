@@ -3,28 +3,28 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | GBP | Low | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
-| 00:00 | KRW | Low | Industrial Production (MoM) (Mar) | -3.2% |  | 3.1% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (Mar) |  |  | -3.1% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (Mar) |  |  | 0.7% |
-| 14 min | JPY | Low | Jobs/applications ratio (Mar) |  | 1.26 | 1.26 |
-| 14 min | JPY | Low | Unemployment Rate (Mar) |  | 2.5% | 2.6% |
-| 34 min | JPY | Moderate | Industrial Production (MoM) (Mar) |  | 3.4% | -0.6% |
-| 34 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Apr) |  |  | 4.9% |
-| 34 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (May) |  |  | 3.3% |
-| 34 min | JPY | Low | Large Retailers' Sales (MoM) |  | 0.6% | 1.5% |
-| 34 min | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) |  |  | 8.0% |
-| 34 min | JPY | Low | Retail Sales (YoY) (Mar) |  | 2.5% | 4.6% |
-| 02:00 | NZD | Low | ANZ Business Confidence (Apr) |  |  | 22.9 |
-| 02:00 | NZD | Low | NBNZ Own Activity (Apr) |  |  | 22.5% |
-| 02:30 | AUD | Low | Housing Credit (Mar) |  |  | 0.4% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) |  | 0.4% | 0.5% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) |  | 0.2% | 0.3% |
-| 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) |  |  | 52.7 |
-| 02:30 | CNY | High | Manufacturing PMI (Apr) |  | 50.3 | 50.8 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) |  | 52.2 | 53.0 |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Apr) |  | 51.0 | 51.1 |
-| 03:00 | SGD | Low | Bank Lending |  |  | 801.5B |
+| 00:00 | KRW | Low | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
+| 00:30 | JPY | Low | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
+| 00:30 | JPY | Low | Unemployment Rate (Mar) | 2.6% | 2.5% | 2.6% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (Mar) | 3.8% | 3.4% | -0.6% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Apr) | 4.1% |  | 4.9% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (May) | 4.4% |  | 3.3% |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) | -1.2% | 0.6% | 1.5% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Mar) | 7.0% |  | 8.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (Mar) | 1.2% | 2.5% | 4.7% |
+| 02:00 | NZD | Low | ANZ Business Confidence (Apr) | 14.9 |  | 22.9 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Apr) | 14.3% |  | 22.5% |
+| 20 min | AUD | Low | Housing Credit (Mar) |  |  | 0.4% |
+| 20 min | AUD | Low | Private Sector Credit (MoM) (Mar) |  | 0.4% | 0.5% |
+| 20 min | AUD | Moderate | Retail Sales (MoM) (Mar) |  | 0.2% | 0.3% |
+| 20 min | CNY | Moderate | Chinese Composite PMI (Apr) |  |  | 52.7 |
+| 20 min | CNY | High | Manufacturing PMI (Apr) |  | 50.3 | 50.8 |
+| 20 min | CNY | Moderate | Non-Manufacturing PMI (Apr) |  | 52.2 | 53.0 |
+| 35 min | CNY | Moderate | Caixin Manufacturing PMI (Apr) |  | 51.0 | 51.1 |
+| 50 min | SGD | Low | Bank Lending |  |  | 801.5B |
 | 03:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
 | 04:00 | NZD | Low | M3 Money Supply (Mar) |  |  | 407.7B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Mar) |  |  | -11.0% |
@@ -69,8 +69,8 @@
 | 09:30 | GBP | Low | Net Lending to Individuals |  | 1.700B | 2.888B |
 | 09:30 | HKD | Low | M3 Money Supply (Mar) |  |  | 0.1% |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 10:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Apr) |  | 0.2% | 0.0% |
+| 10:00 | EUR | Low | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Apr) |  | 2.6% | 2.9% |
@@ -103,8 +103,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
 | 14:00 | USD | Low | House Price Index (Feb) |  |  | 417.5 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.1% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 6.7% | 6.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 6.7% | 6.6% |
 | 14:45 | USD | High | Chicago PMI (Apr) |  | 44.9 | 41.4 |
 | 15:00 | USD | High | CB Consumer Confidence (Apr) |  | 104.0 | 104.7 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |

@@ -3,22 +3,22 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
+| 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
 | 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
-| 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 3.1% |
-| 00:00 | KRW | Retail Sales (MoM) (Mar) |  |  | -3.1% |
-| 00:00 | KRW | Service Sector Output (MoM) (Mar) |  |  | 0.7% |
-| 14 min | JPY | Jobs/applications ratio (Mar) |  | 1.26 | 1.26 |
-| 14 min | JPY | Unemployment Rate (Mar) |  | 2.5% | 2.6% |
-| 34 min | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) |  |  | 4.9% |
-| 34 min | JPY | Industrial Production forecast 2m ahead (MoM) (May) |  |  | 3.3% |
-| 34 min | JPY | Large Retailers' Sales (MoM) |  | 0.6% | 1.5% |
-| 34 min | JPY | Large Scale Retail Sales YoY (YoY) (Mar) |  |  | 8.0% |
-| 34 min | JPY | Retail Sales (YoY) (Mar) |  | 2.5% | 4.6% |
-| 02:00 | NZD | ANZ Business Confidence (Apr) |  |  | 22.9 |
-| 02:00 | NZD | NBNZ Own Activity (Apr) |  |  | 22.5% |
-| 02:30 | AUD | Housing Credit (Mar) |  |  | 0.4% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Mar) |  | 0.4% | 0.5% |
-| 03:00 | SGD | Bank Lending |  |  | 801.5B |
+| 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
+| 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
+| 00:30 | JPY | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
+| 00:30 | JPY | Unemployment Rate (Mar) | 2.6% | 2.5% | 2.6% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Apr) | 4.1% |  | 4.9% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (May) | 4.4% |  | 3.3% |
+| 00:50 | JPY | Large Retailers' Sales (MoM) | -1.2% | 0.6% | 1.5% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Mar) | 7.0% |  | 8.0% |
+| 00:50 | JPY | Retail Sales (YoY) (Mar) | 1.2% | 2.5% | 4.7% |
+| 02:00 | NZD | ANZ Business Confidence (Apr) | 14.9 |  | 22.9 |
+| 02:00 | NZD | NBNZ Own Activity (Apr) | 14.3% |  | 22.5% |
+| 20 min | AUD | Housing Credit (Mar) |  |  | 0.4% |
+| 20 min | AUD | Private Sector Credit (MoM) (Mar) |  | 0.4% | 0.5% |
+| 50 min | SGD | Bank Lending |  |  | 801.5B |
 | 03:30 | SGD | Unemployment Rate |  |  | 2.0% |
 | 04:00 | NZD | M3 Money Supply (Mar) |  |  | 407.7B |
 | 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | -11.0% |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Net Lending to Individuals |  | 1.700B | 2.888B |
 | 09:30 | HKD | M3 Money Supply (Mar) |  |  | 0.1% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.0% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | 1.1% |
