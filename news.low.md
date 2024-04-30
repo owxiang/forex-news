@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | GBP | BRC Shop Price Index (YoY) | 0.8% |  | 1.3% |
-| 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
 | 00:00 | KRW | Industrial Production (YoY) (Mar) | 0.7% |  | 4.6% |
+| 00:00 | KRW | Industrial Production (MoM) (Mar) | -3.2% |  | 2.9% |
 | 00:00 | KRW | Retail Sales (MoM) (Mar) | 1.5% |  | -3.0% |
 | 00:00 | KRW | Service Sector Output (MoM) (Mar) | -0.8% |  | 0.5% |
 | 00:30 | JPY | Jobs/applications ratio (Mar) | 1.28 | 1.26 | 1.26 |
@@ -39,8 +39,8 @@
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.1% |
 | 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
 | 09:00 | EUR | Spanish Current account (Feb) | 1.90B |  | 5.13B |
 | 09:00 | NOK | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
 | 09:30 | GBP | BoE Consumer Credit (Mar) | 1.577B |  | 1.429B |
@@ -52,8 +52,8 @@
 | 09:30 | HKD | M3 Money Supply (Mar) | -0.4% |  | 0.1% |
 | 10:00 | EUR | Italian CPI (YoY) (Apr) | 0.9% | 1.0% | 1.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) | 0.2% | 0.3% | 0.0% |
-| 10:00 | EUR | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) | 0.6% |  | 1.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Apr) | 1.0% |  | 1.2% |
 | 10:00 | EUR | Core CPI (MoM) | 0.7% |  | 1.1% |
 | 10:00 | EUR | CPI, n.s.a (Apr) | 126.05 |  | 125.31 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) | 2.8% |  | 3.1% |
@@ -89,7 +89,7 @@
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Participation Rate (Q1) |  |  | 71.90% |
 | 23:45 | NZD | Unemployment Rate (Q1) |  | 4.3% | 4.0% |
