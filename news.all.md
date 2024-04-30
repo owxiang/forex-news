@@ -17,22 +17,22 @@
 | 00:50 | JPY | Low | Retail Sales (YoY) (Mar) | 1.2% | 2.5% | 4.7% |
 | 02:00 | NZD | Low | ANZ Business Confidence (Apr) | 14.9 |  | 22.9 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Apr) | 14.3% |  | 22.5% |
-| 20 min | AUD | Low | Housing Credit (Mar) |  |  | 0.4% |
-| 20 min | AUD | Low | Private Sector Credit (MoM) (Mar) |  | 0.4% | 0.5% |
-| 20 min | AUD | Moderate | Retail Sales (MoM) (Mar) |  | 0.2% | 0.3% |
-| 20 min | CNY | Moderate | Chinese Composite PMI (Apr) |  |  | 52.7 |
-| 20 min | CNY | High | Manufacturing PMI (Apr) |  | 50.3 | 50.8 |
-| 20 min | CNY | Moderate | Non-Manufacturing PMI (Apr) |  | 52.2 | 53.0 |
-| 35 min | CNY | Moderate | Caixin Manufacturing PMI (Apr) |  | 51.0 | 51.1 |
-| 50 min | SGD | Low | Bank Lending |  |  | 801.5B |
-| 03:30 | SGD | Low | Unemployment Rate |  |  | 2.0% |
-| 04:00 | NZD | Low | M3 Money Supply (Mar) |  |  | 407.7B |
+| 02:30 | AUD | Low | Housing Credit (Mar) | 0.4% |  | 0.4% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Mar) | 0.3% | 0.4% | 0.5% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) (Mar) | -0.4% | 0.2% | 0.3% |
+| 02:30 | CNY | Moderate | Chinese Composite PMI (Apr) | 51.7 |  | 52.7 |
+| 02:30 | CNY | High | Manufacturing PMI (Apr) | 50.4 | 50.3 | 50.8 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (Apr) | 51.2 | 52.2 | 53.0 |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Apr) | 51.4 | 51.0 | 51.1 |
+| 03:00 | SGD | Low | Bank Lending | 807.8B |  | 801.5B |
+| 5 min | SGD | Low | Unemployment Rate |  |  | 2.0% |
+| 35 min | NZD | Low | M3 Money Supply (Mar) |  |  | 407.7B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Mar) |  |  | -11.0% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Mar) |  | -7.6% | -8.2% |
 | 06:00 | SGD | Low | Business Expectations |  |  | 10.00 |
 | 06:30 | EUR | Moderate | French Consumer Spending (MoM) (Mar) |  | 0.2% | 0.0% |
-| 06:30 | EUR | Moderate | French GDP (YoY) (Q1) |  | 0.9% | 0.7% |
 | 06:30 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
+| 06:30 | EUR | Moderate | French GDP (YoY) (Q1) |  | 0.9% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Mar) |  | 0.1% | -0.2% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Mar) |  | -3.8% | -4.9% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (Mar) |  | 1.5% | -1.9% |
@@ -49,14 +49,14 @@
 | 07:45 | EUR | Low | French PPI (MoM) (Mar) |  |  | -1.7% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Apr) |  | 102.1 | 101.5 |
 | 08:00 | CHF | Low | Official Reserves Assets (Mar) |  |  | 751.0B |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 1.9% | 2.0% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Apr) |  | 7K | 4K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Apr) |  | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Apr) |  |  | 2.719M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Apr) |  |  | 2.769M |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.4% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.4% | 0.6% |
 | 09:00 | EUR | Moderate | German GDP (YoY) (Q1) |  |  | -0.2% |
 | 09:00 | EUR | High | German GDP (QoQ) (Q1) |  | 0.1% | -0.3% |
 | 09:00 | EUR | Low | Spanish Current account (Feb) |  |  | 5.13B |
@@ -87,8 +87,8 @@
 | 11:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | Low | CAGED Net Payroll Jobs (Mar) |  |  | 306.11K |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  |  | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  |  | 2.5% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  |  | 0.1% |
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Mar) |  |  | 6.7% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Mar) |  |  | 0.06% |
 | 13:00 | BRL | Moderate | Unemployment Rate |  |  | 7.8% |

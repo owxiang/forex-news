@@ -16,11 +16,11 @@
 | 00:50 | JPY | Retail Sales (YoY) (Mar) | 1.2% | 2.5% | 4.7% |
 | 02:00 | NZD | ANZ Business Confidence (Apr) | 14.9 |  | 22.9 |
 | 02:00 | NZD | NBNZ Own Activity (Apr) | 14.3% |  | 22.5% |
-| 20 min | AUD | Housing Credit (Mar) |  |  | 0.4% |
-| 20 min | AUD | Private Sector Credit (MoM) (Mar) |  | 0.4% | 0.5% |
-| 50 min | SGD | Bank Lending |  |  | 801.5B |
-| 03:30 | SGD | Unemployment Rate |  |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Mar) |  |  | 407.7B |
+| 02:30 | AUD | Housing Credit (Mar) | 0.4% |  | 0.4% |
+| 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.3% | 0.4% | 0.5% |
+| 03:00 | SGD | Bank Lending | 807.8B |  | 801.5B |
+| 5 min | SGD | Unemployment Rate |  |  | 2.0% |
+| 35 min | NZD | M3 Money Supply (Mar) |  |  | 407.7B |
 | 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | -11.0% |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -7.6% | -8.2% |
 | 06:00 | SGD | Business Expectations |  |  | 10.00 |
@@ -39,8 +39,8 @@
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 1.9% | 2.0% |
 | 08:55 | EUR | German Unemployment (Apr) |  |  | 2.719M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) |  |  | 2.769M |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.4% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.4% | 0.6% |
 | 09:00 | EUR | Spanish Current account (Feb) |  |  | 5.13B |
 | 09:00 | NOK | Central Bank Currency Purchase (May) |  |  | 350.0M |
 | 09:30 | GBP | BoE Consumer Credit (Mar) |  |  | 1.378B |
