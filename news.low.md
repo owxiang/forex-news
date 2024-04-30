@@ -20,10 +20,10 @@
 | 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.3% | 0.4% | 0.5% |
 | 03:00 | SGD | Bank Lending | 807.8B |  | 801.5B |
 | 03:30 | SGD | Unemployment Rate | 2.1% |  | 2.0% |
-| 04:00 | NZD | M3 Money Supply (Mar) | 411,404.0B |  | 407.7B |
-| 06:00 | JPY | Construction Orders (YoY) (Mar) |  |  | -11.0% |
-| 06:00 | JPY | Housing Starts (YoY) (Mar) |  | -7.6% | -8.2% |
-| 06:00 | SGD | Business Expectations |  |  | 10.00 |
+| 04:00 | NZD | M3 Money Supply (Mar) | 411.4B |  | 407.7B |
+| 40 min | JPY | Construction Orders (YoY) (Mar) |  |  | -11.0% |
+| 40 min | JPY | Housing Starts (YoY) (Mar) |  | -7.6% | -8.2% |
+| 40 min | SGD | Business Expectations |  |  | 10.00 |
 | 07:00 | EUR | German Import Price Index (MoM) (Mar) |  | 0.1% | -0.2% |
 | 07:00 | EUR | German Import Price Index (YoY) (Mar) |  | -3.8% | -4.9% |
 | 07:00 | EUR | German Retail Sales (YoY) (Mar) |  |  | -2.7% |
@@ -51,7 +51,7 @@
 | 09:30 | GBP | Net Lending to Individuals |  | 1.700B | 2.888B |
 | 09:30 | HKD | M3 Money Supply (Mar) |  |  | 0.1% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.2% | 0.0% |
+| 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) |  |  | 1.2% |
@@ -68,8 +68,8 @@
 | 13:30 | USD | Employment Benefits (QoQ) (Q1) |  |  | 0.70% |
 | 13:30 | USD | Employment Wages (QoQ) (Q1) |  |  | 0.90% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.3% |
-| 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 6.3% |
 | 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
+| 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 6.3% |
 | 14:00 | USD | House Price Index (Feb) |  |  | 417.5 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.1% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
@@ -79,7 +79,7 @@
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
 | 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
+| 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
 | 23:45 | NZD | Participation Rate (Q1) |  |  | 71.90% |
 | 23:45 | NZD | Unemployment Rate (Q1) |  | 4.3% | 4.0% |

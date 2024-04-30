@@ -3,25 +3,25 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Industrial Production (MoM) (Mar) | 3.8% | 3.4% | -0.6% |
-| 02:30 | AUD | Retail Sales (MoM) (Mar) | -0.4% | 0.2% | 0.3% |
+| 02:30 | AUD | Retail Sales (MoM) (Mar) | -0.4% | 0.2% | 0.2% |
 | 02:30 | CNY | Chinese Composite PMI (Apr) | 51.7 |  | 52.7 |
-| 02:30 | CNY | Non-Manufacturing PMI (Apr) | 51.2 | 52.2 | 53.0 |
+| 02:30 | CNY | Non-Manufacturing PMI (Apr) | 51.2 | 52.3 | 53.0 |
 | 02:45 | CNY | Caixin Manufacturing PMI (Apr) | 51.4 | 51.0 | 51.1 |
 | 06:30 | EUR | French Consumer Spending (MoM) (Mar) |  | 0.2% | 0.0% |
 | 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
 | 06:30 | EUR | French GDP (YoY) (Q1) |  | 0.9% | 0.7% |
-| 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | 1.5% | -1.9% |
+| 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | 1.3% | -1.9% |
 | 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
-| 07:45 | EUR | French HICP (MoM) |  |  | 0.2% |
+| 07:45 | EUR | French HICP (MoM) |  | 0.5% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) |  | 102.1 | 101.5 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.4% | 0.6% |
 | 08:55 | EUR | German Unemployment Change (Apr) |  | 7K | 4K |
 | 08:55 | EUR | German Unemployment Rate (Apr) |  | 5.9% | 5.9% |
-| 09:00 | EUR | German GDP (YoY) (Q1) |  |  | -0.2% |
+| 09:00 | EUR | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.6% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Apr) |  |  | 0.8% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.0% |
 | 10:00 | EUR | GDP (YoY) (Q1) |  | 0.2% | 0.1% |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.0% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
 | 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | MXN | GDP (YoY) (Q1) |  |  | 2.5% |
