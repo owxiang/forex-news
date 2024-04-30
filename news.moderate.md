@@ -7,10 +7,10 @@
 | 02:30 | CNY | Chinese Composite PMI (Apr) | 51.7 |  | 52.7 |
 | 02:30 | CNY | Non-Manufacturing PMI (Apr) | 51.2 | 52.3 | 53.0 |
 | 02:45 | CNY | Caixin Manufacturing PMI (Apr) | 51.4 | 51.0 | 51.1 |
-| 06:30 | EUR | French Consumer Spending (MoM) (Mar) |  | 0.2% | 0.0% |
-| 06:30 | EUR | French GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
-| 06:30 | EUR | French GDP (YoY) (Q1) |  | 0.9% | 0.7% |
-| 07:00 | EUR | German Retail Sales (MoM) (Mar) |  | 1.3% | -1.9% |
+| 15 min | EUR | French Consumer Spending (MoM) (Mar) |  | 0.2% | 0.0% |
+| 15 min | EUR | French GDP (YoY) (Q1) |  | 0.9% | 0.7% |
+| 15 min | EUR | French GDP (QoQ) (Q1) |  | 0.1% | 0.1% |
+| 45 min | EUR | German Retail Sales (MoM) (Mar) |  | 1.3% | -1.9% |
 | 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) |  | 0.5% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) |  | 102.1 | 101.5 |
@@ -24,14 +24,14 @@
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.0% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
 | 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q1) |  |  | 2.5% |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  |  | 0.1% |
+| 13:00 | MXN | GDP (YoY) (Q1) |  |  | 2.5% |
 | 13:00 | BRL | Unemployment Rate |  |  | 7.8% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q1) |  | 1.0% | 0.9% |
 | 13:30 | CAD | GDP (MoM) (Feb) |  | 0.3% | 0.6% |
 | 13:31 | CAD | GDP (MoM) (Mar) |  |  |  |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) |  | 6.7% | 6.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) |  |  | -0.1% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.230M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |

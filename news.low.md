@@ -18,23 +18,23 @@
 | 02:00 | NZD | NBNZ Own Activity (Apr) | 14.3% |  | 22.5% |
 | 02:30 | AUD | Housing Credit (Mar) | 0.4% |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Mar) | 0.3% | 0.4% | 0.5% |
-| 03:00 | SGD | Bank Lending | 807.8B |  | 801.5B |
+| 03:00 | SGD | Bank Lending (Mar) | 807.8B |  | 801.5B |
 | 03:30 | SGD | Unemployment Rate | 2.1% |  | 2.0% |
 | 04:00 | NZD | M3 Money Supply (Mar) | 411.4B |  | 407.7B |
-| 40 min | JPY | Construction Orders (YoY) (Mar) |  |  | -11.0% |
-| 40 min | JPY | Housing Starts (YoY) (Mar) |  | -7.6% | -8.2% |
-| 40 min | SGD | Business Expectations |  |  | 10.00 |
-| 07:00 | EUR | German Import Price Index (MoM) (Mar) |  | 0.1% | -0.2% |
-| 07:00 | EUR | German Import Price Index (YoY) (Mar) |  | -3.8% | -4.9% |
-| 07:00 | EUR | German Retail Sales (YoY) (Mar) |  |  | -2.7% |
-| 07:00 | NOK | M3 Money Supply (Mar) |  |  | 3,056.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Mar) |  |  | 3.5% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 5.71% |
-| 07:00 | ZAR | Private Sector Credit (Mar) |  |  | 3.32% |
+| 06:00 | JPY | Construction Orders (YoY) (Mar) | 31.4% |  | -11.0% |
+| 06:00 | JPY | Housing Starts (YoY) (Mar) | -12.8% | -7.6% | -8.2% |
+| 06:00 | SGD | Business Expectations | 22.00 |  | 10.00 |
+| 45 min | EUR | German Import Price Index (MoM) (Mar) |  | 0.1% | -0.2% |
+| 45 min | EUR | German Import Price Index (YoY) (Mar) |  | -3.8% | -4.9% |
+| 45 min | EUR | German Retail Sales (YoY) (Mar) |  |  | -2.7% |
+| 45 min | NOK | M3 Money Supply (Mar) |  |  | 3,056.8B |
+| 45 min | NOK | Credit Indicator (YoY) (Mar) |  |  | 3.5% |
+| 45 min | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 5.71% |
+| 45 min | ZAR | Private Sector Credit (Mar) |  |  | 3.32% |
 | 07:45 | EUR | French CPI (YoY) (Apr) |  | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) |  | 2.2% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Mar) |  |  | -1.7% |
 | 07:45 | EUR | PPI (YoY) (Mar) |  |  | -5.50% |
+| 07:45 | EUR | French PPI (MoM) (Mar) |  |  | -1.7% |
 | 08:00 | CHF | Official Reserves Assets (Mar) |  |  | 751.0B |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 1.9% | 2.0% |
 | 08:55 | EUR | German Unemployment (Apr) |  |  | 2.719M |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Net Lending to Individuals |  | 1.700B | 2.888B |
 | 09:30 | HKD | M3 Money Supply (Mar) |  |  | 0.1% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
+| 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | 1.1% |
@@ -68,8 +68,8 @@
 | 13:30 | USD | Employment Benefits (QoQ) (Q1) |  |  | 0.70% |
 | 13:30 | USD | Employment Wages (QoQ) (Q1) |  |  | 0.90% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.3% |
-| 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
 | 14:00 | USD | House Price Index (YoY) (Feb) |  |  | 6.3% |
+| 14:00 | USD | House Price Index (MoM) (Feb) |  | 0.1% | -0.1% |
 | 14:00 | USD | House Price Index (Feb) |  |  | 417.5 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Feb) |  |  | 0.1% |
 | 15:30 | USD | Dallas Fed Services Revenues (Apr) |  |  | 4.0 |
