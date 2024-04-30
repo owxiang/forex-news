@@ -20,8 +20,8 @@
 | 09:00 | EUR | German GDP (YoY) (Q1) |  |  | -0.2% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) |  | 2.6% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Apr) |  |  | 0.8% |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.2% | 0.1% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.0% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.2% | 0.1% |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
 | 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | MXN | GDP (YoY) (Q1) |  |  | 2.5% |
