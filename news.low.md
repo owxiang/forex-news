@@ -24,19 +24,19 @@
 | 06:00 | JPY | Construction Orders (YoY) (Mar) | 31.4% |  | -11.0% |
 | 06:00 | JPY | Housing Starts (YoY) (Mar) | -12.8% | -7.6% | -8.2% |
 | 06:00 | SGD | Business Expectations | 22.00 |  | 10.00 |
-| 45 min | EUR | German Import Price Index (MoM) (Mar) |  | 0.1% | -0.2% |
-| 45 min | EUR | German Import Price Index (YoY) (Mar) |  | -3.8% | -4.9% |
-| 45 min | EUR | German Retail Sales (YoY) (Mar) |  |  | -2.7% |
-| 45 min | NOK | M3 Money Supply (Mar) |  |  | 3,056.8B |
-| 45 min | NOK | Credit Indicator (YoY) (Mar) |  |  | 3.5% |
-| 45 min | ZAR | M3 Money Supply (YoY) (Mar) |  |  | 5.71% |
-| 45 min | ZAR | Private Sector Credit (Mar) |  |  | 3.32% |
-| 07:45 | EUR | French CPI (YoY) (Apr) |  | 2.1% | 2.3% |
-| 07:45 | EUR | French HICP (YoY) |  | 2.2% | 2.4% |
-| 07:45 | EUR | PPI (YoY) (Mar) |  |  | -5.50% |
-| 07:45 | EUR | French PPI (MoM) (Mar) |  |  | -1.7% |
-| 08:00 | CHF | Official Reserves Assets (Mar) |  |  | 751.0B |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) |  | 1.9% | 2.0% |
+| 07:00 | EUR | German Import Price Index (MoM) (Mar) | 0.4% | 0.1% | -0.2% |
+| 07:00 | EUR | German Import Price Index (YoY) (Mar) | -3.6% | -3.8% | -4.9% |
+| 07:00 | EUR | German Retail Sales (YoY) (Mar) | 0.3% |  | -2.7% |
+| 07:00 | NOK | M3 Money Supply (Mar) | 3,125.8B |  | 3,056.8B |
+| 07:00 | NOK | Credit Indicator (YoY) (Mar) | 3.5% |  | 3.5% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Mar) | 6.85% |  | 5.71% |
+| 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
+| 23 min | EUR | French CPI (YoY) (Apr) |  | 2.1% | 2.3% |
+| 23 min | EUR | French HICP (YoY) |  | 2.2% | 2.4% |
+| 23 min | EUR | French PPI (MoM) (Mar) |  |  | -1.7% |
+| 23 min | EUR | PPI (YoY) (Mar) |  |  | -5.50% |
+| 38 min | CHF | Official Reserves Assets (Mar) |  |  | 751.0B |
+| 38 min | EUR | Spanish GDP (YoY) (Q1) |  | 1.9% | 2.0% |
 | 08:55 | EUR | German Unemployment (Apr) |  |  | 2.719M |
 | 08:55 | EUR | German Unemployment n.s.a. (Apr) |  |  | 2.769M |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.4% | 0.6% |
@@ -51,8 +51,8 @@
 | 09:30 | GBP | Net Lending to Individuals |  | 1.700B | 2.888B |
 | 09:30 | HKD | M3 Money Supply (Mar) |  |  | 0.1% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.3% | 0.0% |
+| 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Italian HICP (MoM) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Apr) |  |  | 1.2% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | 1.1% |
@@ -79,7 +79,7 @@
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Participation Rate (Q1) |  |  | 71.90% |
 | 23:45 | NZD | Unemployment Rate (Q1) |  | 4.3% | 4.0% |
