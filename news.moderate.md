@@ -20,17 +20,17 @@
 | 09:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 10:00 | EUR | Core CPI (YoY) (Apr) | 2.7% | 2.6% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Apr) | 0.6% |  | 0.8% |
-| 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.1% | -0.1% |
 | 10:00 | EUR | GDP (YoY) (Q1) | 0.4% | 0.2% | 0.1% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.1% | -0.1% |
 | 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q1) | 1.6% |  | 2.5% |
 | 13:00 | MXN | GDP (QoQ) (Q1) | 0.2% |  | 0.1% |
+| 13:00 | MXN | GDP (YoY) (Q1) | 1.6% |  | 2.5% |
 | 13:00 | BRL | Unemployment Rate | 7.9% |  | 7.8% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q1) | 1.2% | 1.0% | 0.9% |
 | 13:30 | CAD | GDP (MoM) (Feb) | 0.2% | 0.3% | 0.5% |
 | 13:31 | CAD | GDP (MoM) (Mar) | 0.0% |  | 0.2% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.9% |  | -0.1% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb) | 7.3% | 6.7% | 6.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb) | 0.9% |  | -0.1% |
 | 18:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.230M |
 | 22:00 | NZD | RBNZ Financial Stability Report |  |  |  |
