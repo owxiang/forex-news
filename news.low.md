@@ -33,32 +33,32 @@
 | 07:00 | ZAR | Private Sector Credit (Mar) | 5.18% |  | 3.32% |
 | 07:45 | EUR | French CPI (YoY) (Apr) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) | 2.4% | 2.2% | 2.4% |
-| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 07:45 | EUR | French PPI (MoM) (Mar) | -0.2% |  | -1.7% |
+| 07:45 | EUR | PPI (YoY) (Mar) | -7.50% |  | -5.50% |
 | 08:00 | CHF | Official Reserves Assets (Mar) | 794.9B |  | 751.0B |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.4% | 1.9% | 2.0% |
-| 39 min | EUR | German Unemployment (Apr) |  |  | 2.719M |
-| 39 min | EUR | German Unemployment n.s.a. (Apr) |  |  | 2.769M |
-| 44 min | EUR | Italian GDP (YoY) (Q1) |  | 0.4% | 0.6% |
-| 44 min | EUR | Italian GDP (QoQ) (Q1) |  | 0.1% | 0.2% |
-| 44 min | EUR | Spanish Current account (Feb) |  |  | 5.13B |
-| 44 min | NOK | Central Bank Currency Purchase (May) |  |  | 350.0M |
-| 09:30 | GBP | BoE Consumer Credit (Mar) |  |  | 1.378B |
-| 09:30 | GBP | M3 Money Supply (Mar) |  |  | 3,011.7B |
-| 09:30 | GBP | M4 Money Supply (MoM) (Mar) |  | 0.4% | 0.5% |
-| 09:30 | GBP | Mortgage Approvals (Mar) |  | 61.00K | 60.38K |
-| 09:30 | GBP | Mortgage Lending (Mar) |  |  | 1.51B |
-| 09:30 | GBP | Net Lending to Individuals |  | 1.700B | 2.888B |
-| 09:30 | HKD | M3 Money Supply (Mar) |  |  | 0.1% |
-| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
-| 10:00 | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
-| 10:00 | EUR | Italian CPI (MoM) (Apr) |  | 0.3% | 0.0% |
-| 10:00 | EUR | Italian HICP (YoY) (Apr) |  |  | 1.2% |
-| 10:00 | EUR | Italian HICP (MoM) (Apr) |  |  | 1.2% |
-| 10:00 | EUR | Core CPI (MoM) |  |  | 1.1% |
-| 10:00 | EUR | CPI, n.s.a (Apr) |  |  | 125.30 |
-| 10:00 | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 3.1% |
-| 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.9% |
+| 08:55 | EUR | German Unemployment (Apr) | 2.732M |  | 2.719M |
+| 08:55 | EUR | German Unemployment n.s.a. (Apr) | 2.750M |  | 2.769M |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.6% | 0.4% | 0.7% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.1% | 0.1% |
+| 09:00 | EUR | Spanish Current account (Feb) | 1.90B |  | 5.13B |
+| 09:00 | NOK | Central Bank Currency Purchase (May) | 550.0M |  | 350.0M |
+| 9 min | GBP | BoE Consumer Credit (Mar) |  |  | 1.378B |
+| 9 min | GBP | M3 Money Supply (Mar) |  |  | 3,011.7B |
+| 9 min | GBP | M4 Money Supply (MoM) (Mar) |  | 0.4% | 0.5% |
+| 9 min | GBP | Mortgage Approvals (Mar) |  | 61.00K | 60.38K |
+| 9 min | GBP | Mortgage Lending (Mar) |  |  | 1.51B |
+| 9 min | GBP | Net Lending to Individuals |  | 1.700B | 2.888B |
+| 9 min | HKD | M3 Money Supply (Mar) |  |  | 0.1% |
+| 39 min | GBP | 5-Year Treasury Gilt Auction |  |  | 3.928% |
+| 39 min | EUR | Italian CPI (MoM) (Apr) |  | 0.3% | 0.0% |
+| 39 min | EUR | Italian CPI (YoY) (Apr) |  | 1.0% | 1.2% |
+| 39 min | EUR | Italian HICP (MoM) (Apr) |  |  | 1.2% |
+| 39 min | EUR | Italian HICP (YoY) (Apr) |  |  | 1.2% |
+| 39 min | EUR | Core CPI (MoM) |  |  | 1.1% |
+| 39 min | EUR | CPI, n.s.a (Apr) |  |  | 125.30 |
+| 39 min | EUR | HICP ex Energy & Food (YoY) (Apr) |  |  | 3.1% |
+| 39 min | EUR | HICP ex Energy and Food (MoM) |  |  | 0.9% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
 | 12:30 | BRL | CAGED Net Payroll Jobs (Mar) |  |  | 306.11K |
@@ -79,7 +79,7 @@
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 22:00 | MXN | Fiscal Balance (Mar) |  |  | -263.06B |
 | 23:45 | NZD | Employment Change (QoQ) (Q1) |  | 0.3% | 0.4% |
-| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Labor Cost Index (QoQ) (Q1) |  | 0.8% | 1.0% |
+| 23:45 | NZD | Labor Cost Index (YoY) (Q1) |  |  | 3.9% |
 | 23:45 | NZD | Participation Rate (Q1) |  |  | 71.90% |
 | 23:45 | NZD | Unemployment Rate (Q1) |  | 4.3% | 4.0% |
