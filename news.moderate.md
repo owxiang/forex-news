@@ -15,17 +15,17 @@
 | 07:45 | EUR | French HICP (MoM) | 0.6% | 0.5% | 0.2% |
 | 08:00 | CHF | KOF Leading Indicators (Apr) | 101.8 | 102.1 | 100.4 |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.7% | 0.4% | 0.7% |
-| 08:55 | EUR | German Unemployment Change (Apr) | 10K | 7K | 4K |
+| 08:55 | EUR | German Unemployment Change (Apr) | 10K | 7K | 6K |
 | 08:55 | EUR | German Unemployment Rate (Apr) | 5.9% | 5.9% | 5.9% |
 | 09:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
-| 39 min | EUR | Core CPI (YoY) (Apr) |  | 2.6% | 2.9% |
-| 39 min | EUR | CPI (MoM) (Apr) |  |  | 0.8% |
-| 39 min | EUR | GDP (QoQ) (Q1) |  | 0.1% | 0.0% |
-| 39 min | EUR | GDP (YoY) (Q1) |  | 0.2% | 0.1% |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
-| 11:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | MXN | GDP (YoY) (Q1) |  |  | 2.5% |
+| 10:00 | EUR | Core CPI (YoY) (Apr) | 2.7% | 2.6% | 2.9% |
+| 10:00 | EUR | CPI (MoM) (Apr) | 0.6% |  | 0.8% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.1% | -0.1% |
+| 10:00 | EUR | GDP (YoY) (Q1) | 0.4% | 0.2% | 0.1% |
+| 11 min | EUR | German 10-Year Bund Auction |  |  | 2.540% |
+| 41 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  |  | 0.1% |
+| 13:00 | MXN | GDP (YoY) (Q1) |  |  | 2.5% |
 | 13:00 | BRL | Unemployment Rate |  |  | 7.8% |
 | 13:30 | USD | Employment Cost Index (QoQ) (Q1) |  | 1.0% | 0.9% |
 | 13:30 | CAD | GDP (MoM) (Feb) |  | 0.3% | 0.6% |
