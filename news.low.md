@@ -16,10 +16,9 @@
 | 12:00 | USD | MBA Purchase Index | 141.7 |  | 144.2 |
 | 12:00 | USD | Mortgage Market Index | 192.1 |  | 196.7 |
 | 12:00 | USD | Mortgage Refinance Index | 456.9 |  | 472.7 |
-| 17 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 17 min | INR | M3 Money Supply |  |  | 11.4% |
-| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 51.4 |
+| 13:30 | INR | M3 Money Supply |  |  | 11.4% |
+| 59 min | CAD | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  | 51.0 | 51.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.417M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.178M |

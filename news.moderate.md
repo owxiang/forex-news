@@ -9,7 +9,7 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Apr) | 49.1 | 48.7 | 50.3 |
 | 13:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
-| 15:00 | USD | ISM Manufacturing Employment (Apr) |  |  | 47.4 |
+| 15:00 | USD | ISM Manufacturing Employment (Apr) |  | 48.2 | 47.4 |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.659M |
 | 21:15 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 21:15 | CAD | BoC Gov Macklem Speaks |  |  |  |

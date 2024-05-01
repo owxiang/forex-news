@@ -21,15 +21,14 @@
 | 12:00 | USD | Low | MBA Purchase Index | 141.7 |  | 144.2 |
 | 12:00 | USD | Low | Mortgage Market Index | 192.1 |  | 196.7 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 456.9 |  | 472.7 |
-| 17 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 17 min | INR | Low | M3 Money Supply |  |  | 11.4% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) |  | 179K | 184K |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) | 192K | 179K | 208K |
 | 13:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
+| 13:30 | INR | Low | M3 Money Supply |  |  | 11.4% |
+| 59 min | CAD | Low | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 49.9 | 51.9 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) |  |  | 47.4 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) |  |  | 51.4 |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) |  | 48.2 | 47.4 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) |  | 51.0 | 51.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
 | 15:00 | USD | High | JOLTs Job Openings (Mar) |  | 8.680M | 8.756M |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:15 | USD | ADP Nonfarm Employment Change (Apr) |  | 179K | 184K |
+| 13:15 | USD | ADP Nonfarm Employment Change (Apr) | 192K | 179K | 208K |
 | 14:45 | USD | S&P Global US Manufacturing PMI (Apr) |  | 49.9 | 51.9 |
 | 15:00 | USD | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
 | 15:00 | USD | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
