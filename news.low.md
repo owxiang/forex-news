@@ -11,13 +11,13 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
 | 07:30 | AUD | Commodity Prices (YoY) | -11.6% |  | -15.3% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.371% |  | 4.015% |
-| 42 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.24% |
-| 42 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.7% |
-| 42 min | USD | MBA Purchase Index |  |  | 144.2 |
-| 42 min | USD | Mortgage Market Index |  |  | 196.7 |
-| 42 min | USD | Mortgage Refinance Index |  |  | 472.7 |
-| 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 12:30 | INR | M3 Money Supply |  |  | 11.4% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.29% |  | 7.24% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | -2.7% |
+| 12:00 | USD | MBA Purchase Index | 141.7 |  | 144.2 |
+| 12:00 | USD | Mortgage Market Index | 192.1 |  | 196.7 |
+| 12:00 | USD | Mortgage Refinance Index | 456.9 |  | 472.7 |
+| 17 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 17 min | INR | M3 Money Supply |  |  | 11.4% |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Apr) |  |  | 51.4 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
