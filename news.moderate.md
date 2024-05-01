@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 02:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) (Apr) | 0.6% | 1.2% | 1.6% |
+| 07:00 | GBP | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Apr) | 49.1 | 48.7 | 50.3 |
 | 13:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Mar) | -0.2% | 0.3% | -0.3% |
