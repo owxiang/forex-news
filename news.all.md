@@ -10,7 +10,7 @@
 | 01:00 | KRW | Low | Imports (YoY) (Apr) | 5.4% | 6.0% | -12.3% |
 | 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.30B | 4.29B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
-| 05:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 39 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  |  | 1.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | 0.1% | -0.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -15.3% |
