@@ -23,24 +23,24 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 456.9 |  | 472.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) | 192K | 179K | 208K |
 | 13:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 13 min | CAD | Low | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
-| 28 min | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 49.9 | 51.9 |
-| 43 min | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
-| 43 min | USD | Moderate | ISM Manufacturing Employment (Apr) |  | 48.2 | 47.4 |
-| 43 min | USD | Low | ISM Manufacturing New Orders Index (Apr) |  | 51.0 | 51.4 |
-| 43 min | USD | High | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
-| 43 min | USD | High | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
-| 43 min | USD | High | JOLTs Job Openings (Mar) |  | 8.680M | 8.756M |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.300M | -6.368M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.417M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.659M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.178M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.614M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.275M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 1.073M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.634M |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Apr) | 49.4 | 50.2 | 49.8 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) | 50.0 | 49.9 | 51.9 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) | -0.2% | 0.3% | -0.3% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) | 48.6 | 48.2 | 47.4 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) | 49.1 | 51.0 | 51.4 |
+| 15:00 | USD | High | ISM Manufacturing PMI (Apr) | 49.2 | 50.0 | 50.3 |
+| 15:00 | USD | High | ISM Manufacturing Prices (Apr) | 60.9 | 55.5 | 55.8 |
+| 15:00 | USD | High | JOLTs Job Openings (Mar) | 8.488M | 8.680M | 8.813M |
+| 13 min | USD | High | Crude Oil Inventories |  | -2.300M | -6.368M |
+| 13 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
+| 13 min | USD | Low | Crude Oil Imports |  |  | -0.417M |
+| 13 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.659M |
+| 13 min | USD | Low | Distillate Fuel Production |  |  | 0.178M |
+| 13 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.614M |
+| 13 min | USD | Low | Gasoline Production |  |  | -0.275M |
+| 13 min | USD | Low | Heating Oil Stockpiles |  |  | 1.073M |
+| 13 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 13 min | USD | Low | Gasoline Inventories |  |  | -0.634M |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |

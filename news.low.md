@@ -16,16 +16,16 @@
 | 12:00 | USD | MBA Purchase Index | 141.7 |  | 144.2 |
 | 12:00 | USD | Mortgage Market Index | 192.1 |  | 196.7 |
 | 12:00 | USD | Mortgage Refinance Index | 456.9 |  | 472.7 |
-| 13 min | CAD | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
-| 43 min | USD | ISM Manufacturing New Orders Index (Apr) |  | 51.0 | 51.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.417M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.178M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 1.614M |
-| 15:30 | USD | Gasoline Production |  |  | -0.275M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 1.073M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 15:30 | USD | Gasoline Inventories |  |  | -0.634M |
+| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Apr) | 49.4 | 50.2 | 49.8 |
+| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) | 49.1 | 51.0 | 51.4 |
+| 13 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
+| 13 min | USD | Crude Oil Imports |  |  | -0.417M |
+| 13 min | USD | Distillate Fuel Production |  |  | 0.178M |
+| 13 min | USD | EIA Weekly Distillates Stocks |  |  | 1.614M |
+| 13 min | USD | Gasoline Production |  |  | -0.275M |
+| 13 min | USD | Heating Oil Stockpiles |  |  | 1.073M |
+| 13 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
+| 13 min | USD | Gasoline Inventories |  |  | -0.634M |
 | 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 14.9% |
