@@ -11,8 +11,8 @@
 | 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
 | 02:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 0.6% | 1.2% | 1.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) | -11.6% |  | -15.3% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Apr) | 49.1 | 48.7 | 50.3 |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.371% |  | 4.015% |
@@ -23,15 +23,14 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 456.9 |  | 472.7 |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) | 192K | 179K | 208K |
 | 13:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 13:30 | INR | Low | M3 Money Supply |  |  | 11.4% |
-| 59 min | CAD | Low | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 49.9 | 51.9 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Apr) |  | 48.2 | 47.4 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Apr) |  | 51.0 | 51.4 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
-| 15:00 | USD | High | JOLTs Job Openings (Mar) |  | 8.680M | 8.756M |
+| 13 min | CAD | Low | S&P Global Canada Manufacturing PMI (Apr) |  | 50.2 | 49.8 |
+| 28 min | USD | High | S&P Global US Manufacturing PMI (Apr) |  | 49.9 | 51.9 |
+| 43 min | USD | Moderate | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |
+| 43 min | USD | Moderate | ISM Manufacturing Employment (Apr) |  | 48.2 | 47.4 |
+| 43 min | USD | Low | ISM Manufacturing New Orders Index (Apr) |  | 51.0 | 51.4 |
+| 43 min | USD | High | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
+| 43 min | USD | High | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
+| 43 min | USD | High | JOLTs Job Openings (Mar) |  | 8.680M | 8.756M |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.300M | -6.368M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.417M |
