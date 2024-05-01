@@ -11,9 +11,9 @@
 | 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
 | 02:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 45 min | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | 0.2% | -0.2% |
-| 45 min | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  | 1.2% | 1.6% |
-| 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -15.3% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 0.6% | 1.2% | 1.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
+| 7 min | AUD | Low | Commodity Prices (YoY) |  |  | -15.3% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Apr) |  | 48.7 | 50.3 |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.015% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.24% |
