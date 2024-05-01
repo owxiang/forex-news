@@ -1,29 +1,58 @@
-## 01 May 2024 - Low Impact Forex News
+## 02 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | AIG Construction Index (Apr) | -25.6 |  | -12.9 |
-| 00:00 | AUD | AIG Manufacturing Index (Apr) | -13.9 |  | -7.0 |
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 | 49.9 | 47.3 |
-| 01:00 | KRW | Exports (YoY) (Apr) | 13.8% | 13.7% | 3.1% |
-| 01:00 | KRW | Imports (YoY) (Apr) | 5.4% | 6.2% | -12.3% |
-| 01:00 | KRW | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
-| 07:30 | AUD | Commodity Prices (YoY) | -11.6% |  | -15.3% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction | 4.371% |  | 4.015% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.29% |  | 7.24% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.3% |  | -2.7% |
-| 12:00 | USD | MBA Purchase Index | 141.7 |  | 144.2 |
-| 12:00 | USD | Mortgage Market Index | 192.1 |  | 196.7 |
-| 12:00 | USD | Mortgage Refinance Index | 456.9 |  | 472.7 |
-| 14:30 | CAD | S&P Global Canada Manufacturing PMI (Apr) | 49.4 | 50.2 | 49.8 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Apr) | 49.1 | 51.0 | 51.4 |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.230M |  | -0.042M |
-| 15:30 | USD | Crude Oil Imports | 1.536M |  | -0.417M |
-| 15:30 | USD | Distillate Fuel Production | -0.271M |  | 0.178M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -0.732M |  | 1.614M |
-| 15:30 | USD | Gasoline Production | 0.254M |  | -0.275M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.179M |  | 1.073M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.4% |
-| 15:30 | USD | Gasoline Inventories | 0.344M |  | -0.634M |
-| 28 min | NZD | Building Consents (MoM) (Mar) |  |  | 14.9% |
+| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 33 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
+| 33 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
+| 33 min | JPY | Monetary Base (YoY) (Apr) |  |  | 1.2% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 49.8 |
+| 01:30 | IDR | Nikkei Manufacturing PMI (Apr) |  |  | 54.2 |
+| 02:30 | AUD | Building Approvals (YoY) (Mar) |  | 5.20% | 10.00% |
+| 02:30 | AUD | Exports (MoM) |  |  | -2.2% |
+| 02:30 | AUD | Imports (MoM) |  |  | 4.8% |
+| 02:30 | AUD | Private House Approvals (Mar) |  |  | 10.7% |
+| 05:00 | IDR | Core Inflation (YoY) (Apr) |  | 1.76% | 1.77% |
+| 05:00 | IDR | Inflation (MoM) (Apr) |  | 0.21% | 0.52% |
+| 05:00 | IDR | Inflation (YoY) (Apr) |  | 3.06% | 3.05% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Apr) |  | 59.1 | 59.1 |
+| 06:00 | JPY | Household Confidence (Apr) |  | 39.7 | 39.5 |
+| 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 0.2% | -0.2% |
+| 07:30 | CHF | CPI (YoY) (Apr) |  | 1.1% | 1.0% |
+| 09:00 | EUR | Italian PPI (YoY) (Mar) |  |  | -10.8% |
+| 09:00 | EUR | Italian PPI (MoM) (Mar) |  |  | -1.0% |
+| 09:00 | NOK | Manufacturing PMI (Apr) |  |  | 50.8 |
+| 09:30 | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
+| 09:30 | HKD | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
+| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.87% |
+| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.38% |
+| 10:00 | ZAR | Manufacturing PMI |  |  | 49.2 |
+| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | -4.70% |
+| 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 16.60% |
+| 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
+| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 0.7% |
+| 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 12:30 | INR | M3 Money Supply |  |  | 11.4% |
+| 12:30 | BRL | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
+| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
+| 13:30 | CAD | Exports (Mar) |  |  | 66.62B |
+| 13:30 | CAD | Imports (Mar) |  |  | 65.23B |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Apr) |  |  | 53.6 |
+| 14:00 | SGD | S&P Global Singapore PMI (Apr) |  |  | 50.7 |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Mar) |  |  | 2.3% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Mar) |  |  | 0.3% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Mar) |  |  | 1.1% |
+| 15:00 | USD | Total Vehicle Sales |  |  | 15.50M |
+| 15:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 15:30 | USD | Natural Gas Storage |  | 68B | 92B |
+| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Apr) |  |  | 52.20 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 17:00 | EUR | Italian Car Registration (YoY) |  |  | -3.7% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.165B |
+| 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.272T |
