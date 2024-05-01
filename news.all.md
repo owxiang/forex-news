@@ -41,11 +41,10 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.179M |  | 1.073M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.4% |
 | 15:30 | USD | Low | Gasoline Inventories | 0.344M |  | -0.634M |
-| 45 min | USD | High | FOMC Statement |  |  |  |
-| 45 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
-| 45 min | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
-| 19:30 | USD | High | FOMC Press Conference |  |  |  |
-| 20:15 | MXN | Low | Fiscal Balance |  |  | -263.06B |
+| 19:00 | USD | High | FOMC Statement |  |  |  |
+| 19:00 | USD | High | Fed Interest Rate Decision | 5.50% | 5.50% | 5.50% |
+| 9 min | USD | High | FOMC Press Conference |  |  |  |
+| 54 min | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 21:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 23:45 | NZD | Low | Building Consents (MoM) (Mar) |  |  | 14.9% |
