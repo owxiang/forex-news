@@ -9,7 +9,6 @@
 | 01:00 | KRW | Imports (YoY) (Apr) | 5.4% | 6.0% | -12.3% |
 | 01:00 | KRW | Trade Balance (Apr) | 1.53B | 2.30B | 4.29B |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
-| 39 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -15.3% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.015% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.24% |
