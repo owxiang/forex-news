@@ -10,7 +10,7 @@
 | 01:00 | KRW | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
 | 07:30 | AUD | Commodity Prices (YoY) | -11.6% |  | -15.3% |
-| 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.015% |
+| 36 min | GBP | 10-Year Treasury Gilt Auction |  |  | 4.015% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.24% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 144.2 |
