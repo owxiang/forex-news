@@ -26,6 +26,6 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.179M |  | 1.073M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.4% |
 | 15:30 | USD | Gasoline Inventories | 0.344M |  | -0.634M |
-| 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 45 min | BRL | Trade Balance (Apr) |  |  | 7.48B |
 | 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
 | 23:45 | NZD | Building Consents (MoM) (Mar) |  |  | 14.9% |
