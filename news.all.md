@@ -11,16 +11,16 @@
 | 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
 | 02:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 0.6% | 1.2% | 1.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) | -11.6% |  | -15.3% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Apr) | 49.1 | 48.7 | 50.3 |
-| 12 min | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.015% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.24% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.7% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 144.2 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 196.7 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 472.7 |
+| 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.371% |  | 4.015% |
+| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.24% |
+| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.7% |
+| 42 min | USD | Low | MBA Purchase Index |  |  | 144.2 |
+| 42 min | USD | Low | Mortgage Market Index |  |  | 196.7 |
+| 42 min | USD | Low | Mortgage Refinance Index |  |  | 472.7 |
 | 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Apr) |  | 179K | 184K |
@@ -43,7 +43,6 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 1.073M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
 | 15:30 | USD | Low | Gasoline Inventories |  |  | -0.634M |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.115B |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
