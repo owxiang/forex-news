@@ -7,7 +7,7 @@
 | 15:00 | USD | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
 | 15:00 | USD | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
 | 15:00 | USD | JOLTs Job Openings (Mar) |  | 8.680M | 8.756M |
-| 15:30 | USD | Crude Oil Inventories |  |  | -6.368M |
+| 15:30 | USD | Crude Oil Inventories |  | -2.300M | -6.368M |
 | 19:00 | USD | FOMC Statement |  |  |  |
 | 19:00 | USD | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 19:30 | USD | FOMC Press Conference |  |  |  |

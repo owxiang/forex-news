@@ -3,8 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 07:00 | GBP | Nationwide HPI (MoM) (Apr) |  | 0.1% | -0.2% |
-| 07:00 | GBP | Nationwide HPI (YoY) (Apr) |  |  | 1.6% |
+| 02:00 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 45 min | GBP | Nationwide HPI (MoM) (Apr) |  | 0.2% | -0.2% |
+| 45 min | GBP | Nationwide HPI (YoY) (Apr) |  | 1.2% | 1.6% |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Apr) |  | 48.7 | 50.3 |
 | 13:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Construction Spending (MoM) (Mar) |  | 0.3% | -0.3% |

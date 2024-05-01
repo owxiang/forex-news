@@ -6,12 +6,13 @@
 | 00:00 | AUD | Low | AIG Manufacturing Index (Apr) | -13.9 |  | -7.0 |
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.6 | 49.9 | 47.3 |
 | 00:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 01:00 | KRW | Low | Exports (YoY) (Apr) | 13.8% | 13.5% | 3.1% |
-| 01:00 | KRW | Low | Imports (YoY) (Apr) | 5.4% | 6.0% | -12.3% |
-| 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.30B | 4.29B |
+| 01:00 | KRW | Low | Exports (YoY) (Apr) | 13.8% | 13.7% | 3.1% |
+| 01:00 | KRW | Low | Imports (YoY) (Apr) | 5.4% | 6.2% | -12.3% |
+| 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | 0.1% | -0.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  |  | 1.6% |
+| 02:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 45 min | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | 0.2% | -0.2% |
+| 45 min | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  | 1.2% | 1.6% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -15.3% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Apr) |  | 48.7 | 50.3 |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.015% |
@@ -32,7 +33,7 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Apr) |  | 50.0 | 50.3 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Apr) |  | 55.5 | 55.8 |
 | 15:00 | USD | High | JOLTs Job Openings (Mar) |  | 8.680M | 8.756M |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -6.368M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.300M | -6.368M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.417M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.659M |
