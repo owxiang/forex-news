@@ -46,4 +46,4 @@
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 21:15 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 21:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 23:45 | NZD | Low | Building Consents (MoM) (Mar) |  |  | 14.9% |
+| 28 min | NZD | Low | Building Consents (MoM) (Mar) |  |  | 14.9% |
