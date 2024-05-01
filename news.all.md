@@ -6,13 +6,13 @@
 | 00:00 | AUD | Low | AIG Manufacturing Index (Apr) | -13.9 |  | -7.0 |
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.6 | 49.9 | 47.3 |
 | 00:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 45 min | KRW | Low | Exports (YoY) (Apr) |  | 13.5% | 3.1% |
-| 45 min | KRW | Low | Imports (YoY) (Apr) |  | 6.0% | -12.3% |
-| 45 min | KRW | Low | Trade Balance (Apr) |  | 2.30B | 4.29B |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 49.9 | 48.2 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | 0.1% | -0.2% |
+| 01:00 | KRW | Low | Exports (YoY) (Apr) | 13.8% | 13.5% | 3.1% |
+| 01:00 | KRW | Low | Imports (YoY) (Apr) | 5.4% | 6.0% | -12.3% |
+| 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.30B | 4.29B |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
+| 05:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) |  |  | 1.6% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) |  | 0.1% | -0.2% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -15.3% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Apr) |  | 48.7 | 50.3 |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction |  |  | 4.015% |

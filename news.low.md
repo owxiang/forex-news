@@ -5,11 +5,11 @@
 | 00:00 | AUD | AIG Construction Index (Apr) | -25.6 |  | -12.9 |
 | 00:00 | AUD | AIG Manufacturing Index (Apr) | -13.9 |  | -7.0 |
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 | 49.9 | 47.3 |
-| 45 min | KRW | Exports (YoY) (Apr) |  | 13.5% | 3.1% |
-| 45 min | KRW | Imports (YoY) (Apr) |  | 6.0% | -12.3% |
-| 45 min | KRW | Trade Balance (Apr) |  | 2.30B | 4.29B |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) |  | 49.9 | 48.2 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 01:00 | KRW | Exports (YoY) (Apr) | 13.8% | 13.5% | 3.1% |
+| 01:00 | KRW | Imports (YoY) (Apr) | 5.4% | 6.0% | -12.3% |
+| 01:00 | KRW | Trade Balance (Apr) | 1.53B | 2.30B | 4.29B |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
+| 05:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -15.3% |
 | 10:00 | GBP | 10-Year Treasury Gilt Auction |  |  | 4.015% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.24% |
