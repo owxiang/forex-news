@@ -11,8 +11,8 @@
 | 01:00 | KRW | Low | Trade Balance (Apr) | 1.53B | 2.41B | 4.29B |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Apr) | 49.6 | 49.9 | 48.2 |
 | 02:00 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 0.6% | 1.2% | 1.6% |
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Apr) | -0.4% | 0.2% | -0.2% |
+| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Apr) | 0.6% | 1.2% | 1.6% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) | -11.6% |  | -15.3% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (Apr) | 49.1 | 48.7 | 50.3 |
 | 10:00 | GBP | Low | 10-Year Treasury Gilt Auction | 4.371% |  | 4.015% |
@@ -31,16 +31,16 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (Apr) | 49.2 | 50.0 | 50.3 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Apr) | 60.9 | 55.5 | 55.8 |
 | 15:00 | USD | High | JOLTs Job Openings (Mar) | 8.488M | 8.680M | 8.813M |
-| 13 min | USD | High | Crude Oil Inventories |  | -2.300M | -6.368M |
-| 13 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.042M |
-| 13 min | USD | Low | Crude Oil Imports |  |  | -0.417M |
-| 13 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.659M |
-| 13 min | USD | Low | Distillate Fuel Production |  |  | 0.178M |
-| 13 min | USD | Low | EIA Weekly Distillates Stocks |  |  | 1.614M |
-| 13 min | USD | Low | Gasoline Production |  |  | -0.275M |
-| 13 min | USD | Low | Heating Oil Stockpiles |  |  | 1.073M |
-| 13 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 0.4% |
-| 13 min | USD | Low | Gasoline Inventories |  |  | -0.634M |
+| 15:30 | USD | High | Crude Oil Inventories | 7.265M | -2.300M | -6.368M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.230M |  | -0.042M |
+| 15:30 | USD | Low | Crude Oil Imports | 1.536M |  | -0.417M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 1.089M |  | -0.659M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.271M |  | 0.178M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.732M |  | 1.614M |
+| 15:30 | USD | Low | Gasoline Production | 0.254M |  | -0.275M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.179M |  | 1.073M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.0% |  | 0.4% |
+| 15:30 | USD | Low | Gasoline Inventories | 0.344M |  | -0.634M |
 | 19:00 | USD | High | FOMC Statement |  |  |  |
 | 19:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
