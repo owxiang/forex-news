@@ -12,8 +12,8 @@
 | 02:30 | AUD | Imports (MoM) | 4.2% |  | 4.5% |
 | 02:30 | AUD | Private House Approvals (Mar) | 3.8% |  | 12.4% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
-| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
 | 05:00 | IDR | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
+| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
 | 06:00 | JPY | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) | -0.1% | 0.2% | 0.2% |
@@ -26,15 +26,15 @@
 | 10:00 | EUR | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Manufacturing PMI | 54.0 |  | 49.2 |
-| 11:00 | EUR | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
 | 11:00 | EUR | Car Registration (MoM) (Apr) | -3.00% |  | 16.60% |
-| 12:30 | USD | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
+| 11:00 | EUR | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
+| 12:30 | USD | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
 | 12:30 | INR | M3 Money Supply | 10.9% |  | 11.4% |
 | 12:30 | BRL | Current Account (USD) (Mar) | -4.58B | -3.05B | -4.37B |
 | 12:30 | BRL | Foreign direct investment (USD) (Mar) | 9.60B | 6.85B | 5.01B |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) | 38.17K |  | 44.24K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) | 2.20% |  | -11.70% |
+| 13:00 | ZAR | Total Vehicle Sales (Apr) | 38.17K |  | 44.24K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 210.00K |  | 213.50K |
 | 13:30 | CAD | Exports (Mar) | 62.56B |  | 66.10B |
 | 13:30 | CAD | Imports (Mar) | 64.84B |  | 65.62B |
@@ -50,5 +50,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.275% |  | 5.275% |
 | 16:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 17:00 | EUR | Italian Car Registration (YoY) | 7.5% |  | -3.7% |
-| 54 min | MXN | Fiscal Balance |  |  | -263.06B |
+| 2 min | MXN | Fiscal Balance |  |  | -263.06B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.272T |
