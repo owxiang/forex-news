@@ -23,19 +23,18 @@
 | 09:00 | NOK | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
 | 09:30 | HKD | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 09:30 | HKD | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.87% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.38% |
-| 10:00 | ZAR | Manufacturing PMI |  |  | 49.2 |
-| 43 min | EUR | Car Registration (MoM) (Apr) |  |  | 16.60% |
-| 43 min | EUR | Car Registration (YoY) (Apr) |  |  | -4.70% |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.03% |  | 2.87% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.47% |  | 3.38% |
+| 10:00 | ZAR | Manufacturing PMI | 54.0 |  | 49.2 |
+| 10:30 | EUR | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
 | 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 0.7% |
 | 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | M3 Money Supply |  |  | 11.4% |
 | 12:30 | BRL | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
 | 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
 | 13:30 | CAD | Exports (Mar) |  |  | 66.62B |
 | 13:30 | CAD | Imports (Mar) |  |  | 65.23B |

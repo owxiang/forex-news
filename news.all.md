@@ -34,19 +34,18 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.87% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.38% |
-| 10:00 | ZAR | Low | Manufacturing PMI |  |  | 49.2 |
-| 43 min | EUR | Low | Car Registration (MoM) (Apr) |  |  | 16.60% |
-| 43 min | EUR | Low | Car Registration (YoY) (Apr) |  |  | -4.70% |
+| 10:00 | EUR | Low | French 10-Year OAT Auction | 3.03% |  | 2.87% |
+| 10:00 | EUR | Low | French 30-Year OAT Auction | 3.47% |  | 3.38% |
+| 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
+| 10:30 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 0.7% |
 | 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.4% |
 | 12:30 | BRL | Low | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,781K |
 | 13:30 | USD | Moderate | Exports |  |  | 263.00B |
 | 13:30 | USD | Moderate | Imports |  |  | 331.90B |
