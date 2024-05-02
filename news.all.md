@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -24,19 +24,19 @@
 | 07:30 | CHF | Low | CPI (YoY) (Apr) | 1.4% | 1.1% | 1.0% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.3% | 0.1% | 0.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Apr) | 52.2 | 51.3 | 51.4 |
-| 14 min | CHF | Moderate | procure.ch PMI (Apr) |  | 45.5 | 45.2 |
-| 29 min | EUR | Moderate | HCOB Italy Manufacturing PMI (Apr) |  | 50.3 | 50.4 |
-| 34 min | EUR | Moderate | HCOB France Manufacturing PMI (Apr) |  | 44.9 | 46.2 |
-| 39 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) |  | 42.2 | 41.9 |
-| 44 min | EUR | Low | Italian PPI (YoY) (Mar) |  |  | -10.8% |
-| 44 min | EUR | Low | Italian PPI (MoM) (Mar) |  |  | -1.0% |
-| 44 min | NOK | Low | Manufacturing PMI (Apr) |  |  | 50.8 |
-| 44 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 45.6 | 46.1 |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.87% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.38% |
-| 10:00 | ZAR | Low | Manufacturing PMI |  |  | 49.2 |
+| 08:30 | CHF | Moderate | procure.ch PMI (Apr) | 41.4 | 45.5 | 45.2 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Apr) | 47.3 | 50.3 | 50.4 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Apr) | 45.3 | 44.9 | 46.2 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Apr) | 42.5 | 42.2 | 41.9 |
+| 09:00 | EUR | Low | Italian PPI (YoY) (Mar) | -9.6% |  | -10.8% |
+| 09:00 | EUR | Low | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
+| 09:00 | NOK | Low | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
+| 10 min | HKD | Low | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
+| 10 min | HKD | Low | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
+| 40 min | EUR | Low | French 10-Year OAT Auction |  |  | 2.87% |
+| 40 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.38% |
+| 40 min | ZAR | Low | Manufacturing PMI |  |  | 49.2 |
 | 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 16.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | -4.70% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |

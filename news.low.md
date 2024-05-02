@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
@@ -18,14 +18,14 @@
 | 06:00 | JPY | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) | -0.1% | 0.2% | 0.2% |
 | 07:30 | CHF | CPI (YoY) (Apr) | 1.4% | 1.1% | 1.0% |
-| 44 min | EUR | Italian PPI (YoY) (Mar) |  |  | -10.8% |
-| 44 min | EUR | Italian PPI (MoM) (Mar) |  |  | -1.0% |
-| 44 min | NOK | Manufacturing PMI (Apr) |  |  | 50.8 |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
-| 09:30 | HKD | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
-| 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.87% |
-| 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.38% |
-| 10:00 | ZAR | Manufacturing PMI |  |  | 49.2 |
+| 09:00 | EUR | Italian PPI (YoY) (Mar) | -9.6% |  | -10.8% |
+| 09:00 | EUR | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
+| 09:00 | NOK | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
+| 10 min | HKD | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
+| 10 min | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
+| 40 min | EUR | French 10-Year OAT Auction |  |  | 2.87% |
+| 40 min | EUR | French 30-Year OAT Auction |  |  | 3.38% |
+| 40 min | ZAR | Manufacturing PMI |  |  | 49.2 |
 | 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 16.60% |
 | 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | -4.70% |
 | 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
