@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -15,8 +15,8 @@
 | 02:30 | AUD | Low | Private House Approvals (Mar) | 3.8% |  | 12.4% |
 | 02:30 | AUD | Moderate | Trade Balance | 5.024B | 7.190B | 6.591B |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
-| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
+| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
 | 05:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
 | 06:00 | JPY | Low | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
@@ -32,20 +32,20 @@
 | 09:00 | EUR | Low | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
-| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -3.00% |  | 16.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -3.00% |  | 16.60% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.4% |
 | 12:30 | BRL | Low | Current Account (USD) (Mar) | -4.58B | -3.05B | -4.37B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) | 9.60B | 6.85B | 5.01B |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 2.20% |  | -11.70% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 38.17K |  | 44.24K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 2.20% |  | -11.70% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,774K | 1,800K | 1,774K |
 | 13:30 | USD | Moderate | Exports | 257.60B |  | 263.00B |
 | 13:30 | USD | Moderate | Imports | 327.00B |  | 331.90B |
@@ -73,7 +73,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.275% |  | 5.275% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) | 7.5% |  | -3.7% |
-| 2 min | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,402B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.272T |
+| 12 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,402B |
+| 12 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.272T |
