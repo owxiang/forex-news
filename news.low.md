@@ -12,8 +12,8 @@
 | 02:30 | AUD | Imports (MoM) | 4.2% |  | 4.5% |
 | 02:30 | AUD | Private House Approvals (Mar) | 3.8% |  | 12.4% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
-| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
 | 05:00 | IDR | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
+| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
 | 06:00 | JPY | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) | -0.1% | 0.2% | 0.2% |
@@ -21,20 +21,20 @@
 | 09:00 | EUR | Italian PPI (YoY) (Mar) | -9.6% |  | -10.8% |
 | 09:00 | EUR | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
 | 09:00 | NOK | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
-| 09:30 | HKD | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 09:30 | HKD | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
+| 09:30 | HKD | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Manufacturing PMI | 54.0 |  | 49.2 |
 | 10:30 | EUR | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
-| 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 0.7% |
-| 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 12:30 | INR | M3 Money Supply |  |  | 11.4% |
-| 12:30 | BRL | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
-| 12:30 | BRL | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 16 min | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
+| 16 min | USD | Challenger Job Cuts (YoY) |  |  | 0.7% |
+| 16 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 16 min | INR | M3 Money Supply |  |  | 11.4% |
+| 16 min | BRL | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
+| 16 min | BRL | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
+| 46 min | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 46 min | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
 | 13:30 | CAD | Exports (Mar) |  |  | 66.62B |
 | 13:30 | CAD | Imports (Mar) |  |  | 65.23B |

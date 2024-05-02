@@ -15,8 +15,8 @@
 | 02:30 | AUD | Low | Private House Approvals (Mar) | 3.8% |  | 12.4% |
 | 02:30 | AUD | Moderate | Trade Balance | 5.024B | 7.190B | 6.591B |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
-| 05:00 | IDR | Low | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
 | 05:00 | IDR | Low | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
+| 05:00 | IDR | Low | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
 | 05:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
 | 06:00 | JPY | Low | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
@@ -32,20 +32,20 @@
 | 09:00 | EUR | Low | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
 | 10:30 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 0.7% |
-| 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 11.4% |
-| 12:30 | BRL | Low | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 16 min | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |
+| 16 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 0.7% |
+| 16 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 16 min | INR | Low | M3 Money Supply |  |  | 11.4% |
+| 16 min | BRL | Low | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
+| 16 min | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
+| 46 min | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 46 min | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,781K |
 | 13:30 | USD | Moderate | Exports |  |  | 263.00B |
 | 13:30 | USD | Moderate | Imports |  |  | 331.90B |
