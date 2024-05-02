@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
@@ -11,23 +11,23 @@
 | 02:30 | AUD | Exports (MoM) | 0.1% |  | -3.2% |
 | 02:30 | AUD | Imports (MoM) | 4.2% |  | 4.5% |
 | 02:30 | AUD | Private House Approvals (Mar) | 3.8% |  | 12.4% |
-| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
+| 05:00 | IDR | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
 | 05:00 | IDR | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
-| 41 min | INR | HSBC India Manufacturing PMI (Apr) |  | 59.5 | 59.1 |
-| 41 min | JPY | Household Confidence (Apr) |  | 39.7 | 39.5 |
-| 41 min | IDR | Core Inflation (YoY) (Apr) |  | 1.76% | 1.77% |
+| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
+| 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
+| 06:00 | JPY | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
 | 07:30 | CHF | Retail Sales (YoY) (Mar) |  | 0.2% | -0.2% |
 | 07:30 | CHF | CPI (YoY) (Apr) |  | 1.1% | 1.0% |
-| 09:00 | EUR | Italian PPI (YoY) (Mar) |  |  | -10.8% |
 | 09:00 | EUR | Italian PPI (MoM) (Mar) |  |  | -1.0% |
+| 09:00 | EUR | Italian PPI (YoY) (Mar) |  |  | -10.8% |
 | 09:00 | NOK | Manufacturing PMI (Apr) |  |  | 50.8 |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
 | 09:30 | HKD | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
+| 09:30 | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.87% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.38% |
 | 10:00 | ZAR | Manufacturing PMI |  |  | 49.2 |
-| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | -4.70% |
 | 11:00 | EUR | Car Registration (MoM) (Apr) |  |  | 16.60% |
+| 11:00 | EUR | Car Registration (YoY) (Apr) |  |  | -4.70% |
 | 12:30 | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | 0.7% |
 | 12:30 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
