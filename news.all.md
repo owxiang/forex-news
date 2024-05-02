@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -21,8 +21,8 @@
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
 | 06:00 | JPY | Low | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Mar) | -0.1% | 0.2% | 0.2% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.3% | 0.1% | 0.0% |
 | 07:30 | CHF | Low | CPI (YoY) (Apr) | 1.4% | 1.1% | 1.0% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Apr) | 0.3% | 0.1% | 0.0% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (Apr) | 52.2 | 51.3 | 51.4 |
 | 08:30 | CHF | Moderate | procure.ch PMI (Apr) | 41.4 | 45.5 | 45.2 |
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Apr) | 47.3 | 50.3 | 50.4 |
@@ -39,11 +39,13 @@
 | 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
 | 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -3.00% |  | 16.60% |
 | 11:00 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 12:30 | USD | Low | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
+| 12:30 | USD | Low | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.4% |
 | 12:30 | BRL | Low | Current Account (USD) (Mar) | -4.58B | -3.05B | -4.37B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) | 9.60B | 6.85B | 5.01B |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) | 2.20% |  | -11.70% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Apr) | 38.17K |  | 44.24K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,774K | 1,800K | 1,774K |
 | 13:30 | USD | Moderate | Exports | 257.60B |  | 263.00B |
 | 13:30 | USD | Moderate | Imports | 327.00B |  | 331.90B |
@@ -59,18 +61,18 @@
 | 13:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) | 55.9 |  | 53.6 |
 | 14:00 | SGD | Low | S&P Global Singapore PMI (Apr) | 50.5 |  | 50.7 |
+| 15:00 | USD | Low | All Car Sales (Apr) | 3.04M |  | 3.02M |
+| 15:00 | USD | Low | All Truck Sales (Apr) | 12.69M |  | 12.54M |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Mar) | 2.3% |  | 2.3% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Mar) | 0.2% |  | 0.3% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) | 1.6% | 1.6% | 1.2% |
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Mar) | 0.5% | 0.2% | 1.1% |
-| 15:00 | USD | Low | Total Vehicle Sales |  |  | 15.50M |
-| 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
-| 15 min | USD | Low | Natural Gas Storage |  | 68B | 92B |
-| 45 min | MXN | Low | S&P Global Mexico Manufacturing PMI (Apr) |  |  | 52.20 |
-| 45 min | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 17:00 | EUR | Low | Italian Car Registration (YoY) |  |  | -3.7% |
+| 15:30 | USD | Low | Natural Gas Storage | 59B | 68B | 92B |
+| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Apr) | 51.00 |  | 52.20 |
+| 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
+| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 43 min | EUR | Low | Italian Car Registration (YoY) |  |  | -3.7% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.165B |
 | 20:15 | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |

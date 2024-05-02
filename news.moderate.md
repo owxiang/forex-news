@@ -23,6 +23,6 @@
 | 13:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 13:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Mar) | 1.6% | 1.6% | 1.2% |
-| 45 min | EUR | German Buba Balz Speaks |  |  |  |
+| 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,402B |
