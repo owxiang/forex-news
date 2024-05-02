@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -70,9 +70,9 @@
 | 15:30 | USD | Low | Natural Gas Storage | 59B | 68B | 92B |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Apr) | 51.00 |  | 52.20 |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 13 min | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
-| 13 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 43 min | EUR | Low | Italian Car Registration (YoY) |  |  | -3.7% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.275% |  | 5.275% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) | 7.5% |  | -3.7% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.165B |
 | 20:15 | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
