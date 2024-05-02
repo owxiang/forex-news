@@ -14,9 +14,9 @@
 | 02:30 | AUD | Low | Imports (MoM) | 4.2% |  | 4.8% |
 | 02:30 | AUD | Low | Private House Approvals (Mar) | 3.8% |  | 12.4% |
 | 02:30 | AUD | Moderate | Trade Balance | 5.024B | 7.190B | 6.591B |
-| 05:00 | IDR | Low | Core Inflation (YoY) (Apr) |  | 1.76% | 1.77% |
-| 05:00 | IDR | Low | Inflation (MoM) (Apr) |  | 0.21% | 0.52% |
-| 05:00 | IDR | Low | Inflation (YoY) (Apr) |  | 3.06% | 3.05% |
+| 43 min | IDR | Low | Core Inflation (YoY) (Apr) |  | 1.76% | 1.77% |
+| 43 min | IDR | Low | Inflation (YoY) (Apr) |  | 3.06% | 3.05% |
+| 43 min | IDR | Low | Inflation (MoM) (Apr) |  | 0.21% | 0.52% |
 | 05:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) |  | 59.1 | 59.1 |
 | 06:00 | JPY | Low | Household Confidence (Apr) |  | 39.7 | 39.5 |
@@ -39,16 +39,16 @@
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.87% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI |  |  | 49.2 |
-| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | -4.70% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Apr) |  |  | 16.60% |
-| 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |
+| 11:00 | EUR | Low | Car Registration (YoY) (Apr) |  |  | -4.70% |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | 0.7% |
+| 12:30 | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |
 | 12:30 | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 11.4% |
 | 12:30 | BRL | Low | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,781K |
 | 13:30 | USD | Moderate | Exports |  |  | 263.00B |
 | 13:30 | USD | Moderate | Imports |  |  | 331.90B |
