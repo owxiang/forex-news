@@ -6,8 +6,8 @@
 | 02:30 | AUD | Building Approvals (MoM) (Mar) | 1.9% | 3.5% | -0.9% |
 | 02:30 | AUD | Trade Balance | 5.024B | 7.190B | 6.591B |
 | 05:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 07:30 | CHF | CPI (MoM) (Apr) |  | 0.1% | 0.0% |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (Apr) |  | 51.3 | 51.4 |
+| 9 min | CHF | CPI (MoM) (Apr) |  | 0.1% | 0.0% |
+| 54 min | EUR | HCOB Spain Manufacturing PMI (Apr) |  | 51.3 | 51.4 |
 | 08:30 | CHF | procure.ch PMI (Apr) |  | 45.5 | 45.2 |
 | 08:45 | EUR | HCOB Italy Manufacturing PMI (Apr) |  | 50.3 | 50.4 |
 | 08:50 | EUR | HCOB France Manufacturing PMI (Apr) |  | 44.9 | 46.2 |
