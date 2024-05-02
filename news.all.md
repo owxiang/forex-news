@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -15,8 +15,8 @@
 | 02:30 | AUD | Low | Private House Approvals (Mar) | 3.8% |  | 12.4% |
 | 02:30 | AUD | Moderate | Trade Balance | 5.024B | 7.190B | 6.591B |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
-| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
+| 05:00 | IDR | Low | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
 | 05:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
 | 06:00 | JPY | Low | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
@@ -32,12 +32,13 @@
 | 09:00 | EUR | Low | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
-| 10:30 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
+| 11:00 | EUR | Low | Car Registration (MoM) (Apr) | -3.00% |  | 16.60% |
 | 12:30 | USD | Low | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.4% |
@@ -54,18 +55,18 @@
 | 13:30 | CAD | Low | Exports (Mar) | 62.56B |  | 66.10B |
 | 13:30 | CAD | Low | Imports (Mar) | 64.84B |  | 65.62B |
 | 13:30 | CAD | Moderate | Trade Balance (Mar) | -2.28B | 1.10B | 0.48B |
-| 13:30 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
-| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
-| 14 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 14 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 29 min | BRL | Low | S&P Global Manufacturing PMI (Apr) |  |  | 53.6 |
-| 29 min | SGD | Low | S&P Global Singapore PMI (Apr) |  |  | 50.7 |
-| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Mar) |  |  | 2.3% |
-| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Mar) |  |  | 0.3% |
-| 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) |  | 1.6% | 1.4% |
-| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Mar) |  |  | 1.1% |
-| 15:00 | USD | Low | Total Vehicle Sales |  |  | 15.50M |
-| 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 13:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 13:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) | 55.9 |  | 53.6 |
+| 14:00 | SGD | Low | S&P Global Singapore PMI (Apr) | 50.5 |  | 50.7 |
+| 13 min | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 13 min | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 43 min | USD | Low | Durables Excluding Defense (MoM) (Mar) |  |  | 2.3% |
+| 43 min | USD | Low | Durables Excluding Transport (MoM) (Mar) |  |  | 0.3% |
+| 43 min | USD | Moderate | Factory Orders (MoM) (Mar) |  | 1.6% | 1.4% |
+| 43 min | USD | Low | Factory orders ex transportation (MoM) (Mar) |  |  | 1.1% |
+| 43 min | USD | Low | Total Vehicle Sales |  |  | 15.50M |
+| 43 min | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 15:30 | USD | Low | Natural Gas Storage |  | 68B | 92B |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Apr) |  |  | 52.20 |
 | 16:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |

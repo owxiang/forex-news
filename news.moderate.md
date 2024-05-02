@@ -20,9 +20,9 @@
 | 13:30 | USD | Trade Balance (Mar) | -69.40B | -69.50B | -69.50B |
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 4.7% | 3.6% | 0.4% |
 | 13:30 | CAD | Trade Balance (Mar) | -2.28B | 1.10B | 0.48B |
-| 14 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 14 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 15:00 | USD | Factory Orders (MoM) (Mar) |  | 1.6% | 1.4% |
+| 13:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 13:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 43 min | USD | Factory Orders (MoM) (Mar) |  | 1.6% | 1.4% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:15 | EUR | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,402B |
