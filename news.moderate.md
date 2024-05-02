@@ -6,13 +6,13 @@
 | 02:30 | AUD | Building Approvals (MoM) (Mar) | 1.9% | 3.5% | -0.9% |
 | 02:30 | AUD | Trade Balance | 5.024B | 7.190B | 6.591B |
 | 05:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 9 min | CHF | CPI (MoM) (Apr) |  | 0.1% | 0.0% |
-| 54 min | EUR | HCOB Spain Manufacturing PMI (Apr) |  | 51.3 | 51.4 |
-| 08:30 | CHF | procure.ch PMI (Apr) |  | 45.5 | 45.2 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (Apr) |  | 50.3 | 50.4 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (Apr) |  | 44.9 | 46.2 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 42.2 | 41.9 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) |  | 45.6 | 46.1 |
+| 07:30 | CHF | CPI (MoM) (Apr) | 0.3% | 0.1% | 0.0% |
+| 08:15 | EUR | HCOB Spain Manufacturing PMI (Apr) | 52.2 | 51.3 | 51.4 |
+| 14 min | CHF | procure.ch PMI (Apr) |  | 45.5 | 45.2 |
+| 29 min | EUR | HCOB Italy Manufacturing PMI (Apr) |  | 50.3 | 50.4 |
+| 34 min | EUR | HCOB France Manufacturing PMI (Apr) |  | 44.9 | 46.2 |
+| 39 min | EUR | HCOB Germany Manufacturing PMI (Apr) |  | 42.2 | 41.9 |
+| 44 min | EUR | HCOB Eurozone Manufacturing PMI (Apr) |  | 45.6 | 46.1 |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,781K |
 | 13:30 | USD | Exports |  |  | 263.00B |
 | 13:30 | USD | Imports |  |  | 331.90B |
