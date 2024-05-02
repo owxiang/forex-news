@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | JPY | Monetary Policy Meeting Minutes |  |  |  |
-| 02:30 | AUD | Building Approvals (MoM) (Mar) |  | 3.5% | -1.9% |
-| 02:30 | AUD | Trade Balance |  | 7.190B | 7.280B |
+| 00:50 | JPY | Monetary Policy Meeting Minutes |  |  |  |
+| 20 min | AUD | Building Approvals (MoM) (Mar) |  | 3.5% | -1.9% |
+| 20 min | AUD | Trade Balance |  | 7.190B | 7.280B |
 | 05:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 07:00 | GBP | Nationwide HPI (MoM) |  |  | -0.2% |
 | 07:00 | GBP | Nationwide HPI (YoY) |  |  | 1.6% |

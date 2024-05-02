@@ -2,17 +2,15 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
-| 33 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
-| 33 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 33 min | JPY | Monetary Base (YoY) (Apr) |  |  | 1.2% |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 49.8 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (Apr) |  |  | 54.2 |
-| 02:30 | AUD | Building Approvals (YoY) (Mar) |  | 5.20% | 10.00% |
-| 02:30 | AUD | Exports (MoM) |  |  | -2.2% |
-| 02:30 | AUD | Imports (MoM) |  |  | 4.8% |
-| 02:30 | AUD | Private House Approvals (Mar) |  |  | 10.7% |
+| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:50 | JPY | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
+| 01:30 | IDR | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
+| 20 min | AUD | Building Approvals (YoY) (Mar) |  | 5.20% | 10.00% |
+| 20 min | AUD | Exports (MoM) |  |  | -2.2% |
+| 20 min | AUD | Imports (MoM) |  |  | 4.8% |
+| 20 min | AUD | Private House Approvals (Mar) |  |  | 10.7% |
 | 05:00 | IDR | Core Inflation (YoY) (Apr) |  | 1.76% | 1.77% |
 | 05:00 | IDR | Inflation (MoM) (Apr) |  | 0.21% | 0.52% |
 | 05:00 | IDR | Inflation (YoY) (Apr) |  | 3.06% | 3.05% |
@@ -23,8 +21,8 @@
 | 09:00 | EUR | Italian PPI (YoY) (Mar) |  |  | -10.8% |
 | 09:00 | EUR | Italian PPI (MoM) (Mar) |  |  | -1.0% |
 | 09:00 | NOK | Manufacturing PMI (Apr) |  |  | 50.8 |
-| 09:30 | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
 | 09:30 | HKD | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
+| 09:30 | HKD | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 2.87% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.38% |
 | 10:00 | ZAR | Manufacturing PMI |  |  | 49.2 |

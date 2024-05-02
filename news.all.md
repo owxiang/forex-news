@@ -2,20 +2,18 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
-| 33 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
-| 33 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 33 min | JPY | Low | Monetary Base (YoY) (Apr) |  |  | 1.2% |
-| 33 min | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) |  |  | 49.8 |
-| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Apr) |  |  | 54.2 |
-| 02:30 | AUD | Low | Building Approvals (YoY) (Mar) |  | 5.20% | 10.00% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Mar) |  | 3.5% | -1.9% |
-| 02:30 | AUD | Low | Exports (MoM) |  |  | -2.2% |
-| 02:30 | AUD | Low | Imports (MoM) |  |  | 4.8% |
-| 02:30 | AUD | Low | Private House Approvals (Mar) |  |  | 10.7% |
-| 02:30 | AUD | Moderate | Trade Balance |  | 7.190B | 7.280B |
+| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
+| 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
+| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
+| 20 min | AUD | Low | Building Approvals (YoY) (Mar) |  | 5.20% | 10.00% |
+| 20 min | AUD | Moderate | Building Approvals (MoM) (Mar) |  | 3.5% | -1.9% |
+| 20 min | AUD | Low | Exports (MoM) |  |  | -2.2% |
+| 20 min | AUD | Low | Imports (MoM) |  |  | 4.8% |
+| 20 min | AUD | Low | Private House Approvals (Mar) |  |  | 10.7% |
+| 20 min | AUD | Moderate | Trade Balance |  | 7.190B | 7.280B |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Apr) |  | 1.76% | 1.77% |
 | 05:00 | IDR | Low | Inflation (MoM) (Apr) |  | 0.21% | 0.52% |
 | 05:00 | IDR | Low | Inflation (YoY) (Apr) |  | 3.06% | 3.05% |
@@ -36,8 +34,8 @@
 | 09:00 | EUR | Low | Italian PPI (MoM) (Mar) |  |  | -1.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) |  |  | 50.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) |  | 45.6 | 46.1 |
-| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
 | 09:30 | HKD | Low | GDP (QoQ) (Q1) |  | 0.9% | 0.4% |
+| 09:30 | HKD | Low | GDP (YoY) (Q1) |  | 0.9% | 4.3% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 2.87% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI |  |  | 49.2 |
