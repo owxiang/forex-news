@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -38,29 +38,28 @@
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
 | 10:30 | EUR | Low | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 16 min | USD | Low | Challenger Job Cuts (Apr) |  |  | 90.309K |
-| 16 min | USD | Low | Challenger Job Cuts (YoY) |  |  | 0.7% |
-| 16 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 16 min | INR | Low | M3 Money Supply |  |  | 11.4% |
-| 16 min | BRL | Low | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
-| 16 min | BRL | Low | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 46 min | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
-| 46 min | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,781K |
-| 13:30 | USD | Moderate | Exports |  |  | 263.00B |
-| 13:30 | USD | Moderate | Imports |  |  | 331.90B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 212K | 207K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 213.25K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.8% | 3.3% |
-| 13:30 | USD | Moderate | Trade Balance (Mar) |  | -69.50B | -68.90B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 3.6% | 0.4% |
-| 13:30 | CAD | Low | Exports (Mar) |  |  | 66.62B |
-| 13:30 | CAD | Low | Imports (Mar) |  |  | 65.23B |
-| 13:30 | CAD | Moderate | Trade Balance (Mar) |  | 1.10B | 1.39B |
-| 13:45 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 13:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Apr) |  |  | 53.6 |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (Apr) |  |  | 50.7 |
+| 12:30 | USD | Low | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
+| 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.4% |
+| 12:30 | BRL | Low | Current Account (USD) (Mar) | -4.58B | -3.05B | -4.37B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Mar) | 9.60B | 6.85B | 5.01B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,774K | 1,800K | 1,774K |
+| 13:30 | USD | Moderate | Exports | 257.60B |  | 263.00B |
+| 13:30 | USD | Moderate | Imports | 327.00B |  | 331.90B |
+| 13:30 | USD | High | Initial Jobless Claims | 208K | 212K | 208K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 210.00K |  | 213.50K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.3% | 0.8% | 3.5% |
+| 13:30 | USD | Moderate | Trade Balance (Mar) | -69.40B | -69.50B | -69.50B |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 4.7% | 3.6% | 0.4% |
+| 13:30 | CAD | Low | Exports (Mar) | 62.56B |  | 66.10B |
+| 13:30 | CAD | Low | Imports (Mar) | 64.84B |  | 65.62B |
+| 13:30 | CAD | Moderate | Trade Balance (Mar) | -2.28B | 1.10B | 0.48B |
+| 13:30 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 13:30 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 14 min | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 14 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 29 min | BRL | Low | S&P Global Manufacturing PMI (Apr) |  |  | 53.6 |
+| 29 min | SGD | Low | S&P Global Singapore PMI (Apr) |  |  | 50.7 |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Mar) |  |  | 2.3% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Mar) |  |  | 0.3% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (Mar) |  | 1.6% | 1.4% |

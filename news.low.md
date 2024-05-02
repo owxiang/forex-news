@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
+| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
 | 00:50 | JPY | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
@@ -27,19 +27,18 @@
 | 10:00 | EUR | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Manufacturing PMI | 54.0 |  | 49.2 |
 | 10:30 | EUR | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 16 min | USD | Challenger Job Cuts (Apr) |  |  | 90.309K |
-| 16 min | USD | Challenger Job Cuts (YoY) |  |  | 0.7% |
-| 16 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 16 min | INR | M3 Money Supply |  |  | 11.4% |
-| 16 min | BRL | Current Account (USD) (Mar) |  | -3.05B | -4.37B |
-| 16 min | BRL | Foreign direct investment (USD) (Mar) |  | 6.85B | 5.01B |
-| 46 min | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
-| 46 min | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 213.25K |
-| 13:30 | CAD | Exports (Mar) |  |  | 66.62B |
-| 13:30 | CAD | Imports (Mar) |  |  | 65.23B |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Apr) |  |  | 53.6 |
-| 14:00 | SGD | S&P Global Singapore PMI (Apr) |  |  | 50.7 |
+| 12:30 | USD | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
+| 12:30 | INR | M3 Money Supply | 10.9% |  | 11.4% |
+| 12:30 | BRL | Current Account (USD) (Mar) | -4.58B | -3.05B | -4.37B |
+| 12:30 | BRL | Foreign direct investment (USD) (Mar) | 9.60B | 6.85B | 5.01B |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 210.00K |  | 213.50K |
+| 13:30 | CAD | Exports (Mar) | 62.56B |  | 66.10B |
+| 13:30 | CAD | Imports (Mar) | 64.84B |  | 65.62B |
+| 13:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 13:30 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 29 min | BRL | S&P Global Manufacturing PMI (Apr) |  |  | 53.6 |
+| 29 min | SGD | S&P Global Singapore PMI (Apr) |  |  | 50.7 |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Mar) |  |  | 2.3% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Mar) |  |  | 0.3% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Mar) |  |  | 1.1% |

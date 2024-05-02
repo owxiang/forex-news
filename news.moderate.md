@@ -13,15 +13,15 @@
 | 08:50 | EUR | HCOB France Manufacturing PMI (Apr) | 45.3 | 44.9 | 46.2 |
 | 08:55 | EUR | HCOB Germany Manufacturing PMI (Apr) | 42.5 | 42.2 | 41.9 |
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
-| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,781K |
-| 13:30 | USD | Exports |  |  | 263.00B |
-| 13:30 | USD | Imports |  |  | 331.90B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) |  | 0.8% | 3.3% |
-| 13:30 | USD | Trade Balance (Mar) |  | -69.50B | -68.90B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) |  | 3.6% | 0.4% |
-| 13:30 | CAD | Trade Balance (Mar) |  | 1.10B | 1.39B |
-| 13:45 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 13:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,774K | 1,800K | 1,774K |
+| 13:30 | USD | Exports | 257.60B |  | 263.00B |
+| 13:30 | USD | Imports | 327.00B |  | 331.90B |
+| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | 0.3% | 0.8% | 3.5% |
+| 13:30 | USD | Trade Balance (Mar) | -69.40B | -69.50B | -69.50B |
+| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 4.7% | 3.6% | 0.4% |
+| 13:30 | CAD | Trade Balance (Mar) | -2.28B | 1.10B | 0.48B |
+| 14 min | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 14 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 15:00 | USD | Factory Orders (MoM) (Mar) |  | 1.6% | 1.4% |
 | 16:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 21:15 | EUR | ECB's Lane Speaks |  |  |  |
