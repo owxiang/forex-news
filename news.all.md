@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:00 | KRW | Low | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:00 | KRW | Low | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 00:50 | JPY | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
@@ -32,8 +32,8 @@
 | 09:00 | EUR | Low | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
 | 09:00 | NOK | Low | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Apr) | 45.7 | 45.6 | 46.1 |
-| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
 | 09:30 | HKD | Low | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
+| 09:30 | HKD | Low | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Low | Manufacturing PMI | 54.0 |  | 49.2 |
@@ -73,8 +73,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.275% |  | 5.275% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 17:00 | EUR | Low | Italian Car Registration (YoY) | 7.5% |  | -3.7% |
-| 15 min | BRL | Low | Foreign Exchange Flows |  |  | 0.165B |
-| 20:15 | MXN | Low | Fiscal Balance |  |  | -263.06B |
+| 54 min | MXN | Low | Fiscal Balance |  |  | -263.06B |
 | 21:15 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,402B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.272T |

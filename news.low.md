@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
 | 00:50 | JPY | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
 | 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
@@ -21,8 +21,8 @@
 | 09:00 | EUR | Italian PPI (YoY) (Mar) | -9.6% |  | -10.8% |
 | 09:00 | EUR | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
 | 09:00 | NOK | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
-| 09:30 | HKD | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
 | 09:30 | HKD | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
+| 09:30 | HKD | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.03% |  | 2.87% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.47% |  | 3.38% |
 | 10:00 | ZAR | Manufacturing PMI | 54.0 |  | 49.2 |
@@ -50,6 +50,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.275% |  | 5.275% |
 | 16:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.275% |
 | 17:00 | EUR | Italian Car Registration (YoY) | 7.5% |  | -3.7% |
-| 15 min | BRL | Foreign Exchange Flows |  |  | 0.165B |
-| 20:15 | MXN | Fiscal Balance |  |  | -263.06B |
+| 54 min | MXN | Fiscal Balance |  |  | -263.06B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.272T |
