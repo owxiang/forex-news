@@ -1,53 +1,47 @@
-## 02 May 2024 - Low Impact Forex News
+## 03 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Apr) | 2.9% | 3.0% | 3.1% |
-| 00:00 | KRW | CPI (MoM) (Apr) | 0.0% | 0.2% | 0.1% |
-| 00:50 | JPY | Monetary Base (YoY) (Apr) | 1.8% |  | 1.2% |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (Apr) | 49.4 |  | 49.8 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (Apr) | 52.9 |  | 54.2 |
-| 02:30 | AUD | Building Approvals (YoY) (Mar) | -2.50% | 5.20% | 4.90% |
-| 02:30 | AUD | Exports (MoM) | 0.1% |  | -3.2% |
-| 02:30 | AUD | Imports (MoM) | 4.2% |  | 4.5% |
-| 02:30 | AUD | Private House Approvals (Mar) | 3.8% |  | 12.4% |
-| 05:00 | IDR | Core Inflation (YoY) (Apr) | 1.82% | 1.76% | 1.77% |
-| 05:00 | IDR | Inflation (MoM) (Apr) | 0.25% | 0.21% | 0.52% |
-| 05:00 | IDR | Inflation (YoY) (Apr) | 3.00% | 3.06% | 3.05% |
-| 06:00 | INR | HSBC India Manufacturing PMI (Apr) | 58.8 | 59.5 | 59.1 |
-| 06:00 | JPY | Household Confidence (Apr) | 38.3 | 39.7 | 39.5 |
-| 07:30 | CHF | Retail Sales (YoY) (Mar) | -0.1% | 0.2% | 0.2% |
-| 07:30 | CHF | CPI (YoY) (Apr) | 1.4% | 1.1% | 1.0% |
-| 09:00 | EUR | Italian PPI (YoY) (Mar) | -9.6% |  | -10.8% |
-| 09:00 | EUR | Italian PPI (MoM) (Mar) | -0.2% |  | -1.0% |
-| 09:00 | NOK | Manufacturing PMI (Apr) | 52.4 |  | 50.7 |
-| 09:30 | HKD | GDP (QoQ) (Q1) | 2.3% | 0.9% | 0.4% |
-| 09:30 | HKD | GDP (YoY) (Q1) | 2.7% | 0.9% | 4.3% |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.03% |  | 2.87% |
-| 10:00 | EUR | French 30-Year OAT Auction | 3.47% |  | 3.38% |
-| 10:00 | ZAR | Manufacturing PMI | 54.0 |  | 49.2 |
-| 11:00 | EUR | Car Registration (YoY) (Apr) | 23.10% |  | -4.70% |
-| 11:00 | EUR | Car Registration (MoM) (Apr) | -3.00% |  | 16.60% |
-| 12:30 | USD | Challenger Job Cuts (Apr) | 64.789K |  | 90.309K |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -3.3% |  | 0.7% |
-| 12:30 | INR | M3 Money Supply | 10.9% |  | 11.4% |
-| 12:30 | BRL | Current Account (USD) (Mar) | -4.58B | -3.05B | -4.37B |
-| 12:30 | BRL | Foreign direct investment (USD) (Mar) | 9.60B | 6.85B | 5.01B |
-| 13:00 | ZAR | Total Vehicle Sales (Apr) | 38.17K |  | 44.24K |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (Apr) | 2.20% |  | -11.70% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 210.00K |  | 213.50K |
-| 13:30 | CAD | Exports (Mar) | 62.56B |  | 66.10B |
-| 13:30 | CAD | Imports (Mar) | 64.84B |  | 65.62B |
-| 14:00 | BRL | S&P Global Manufacturing PMI (Apr) | 55.9 |  | 53.6 |
-| 14:00 | SGD | S&P Global Singapore PMI (Apr) | 50.5 |  | 50.7 |
-| 15:00 | USD | All Car Sales (Apr) | 3.04M |  | 3.02M |
-| 15:00 | USD | All Truck Sales (Apr) | 12.69M |  | 12.54M |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Mar) | 2.3% |  | 2.3% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Mar) | 0.2% |  | 0.3% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Mar) | 0.5% | 0.2% | 1.1% |
-| 15:30 | USD | Natural Gas Storage | 59B | 68B | 92B |
-| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Apr) | 51.00 |  | 52.20 |
-| 16:30 | USD | 4-Week Bill Auction | 5.275% |  | 5.275% |
-| 16:30 | USD | 8-Week Bill Auction | 5.270% |  | 5.275% |
-| 17:00 | EUR | Italian Car Registration (YoY) | 7.5% |  | -3.7% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.317T |  | 3.272T |
+| 00:00 | AUD | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
+| 32 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
+| 32 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
+| 02:30 | AUD | Invest Housing Finance (MoM) |  |  | 1.2% |
+| 06:00 | SGD | Retail Sales (MoM) (Mar) |  |  | 3.0% |
+| 06:00 | SGD | Retail Sales (YoY) (Mar) |  |  | 8.4% |
+| 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -44.0B |
+| 07:45 | EUR | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
+| 09:00 | NOK | Unemployment Change (Apr) |  |  | 71.56K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Apr) |  |  | 2.00% |
+| 09:30 | HKD | Retail Sales (YoY) (Mar) |  |  | 1.9% |
+| 10:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |
+| 10:00 | EUR | French Car Registration (YoY) |  |  | -1.5% |
+| 12:30 | INR | Bank Loan Growth |  |  | 19.9% |
+| 12:30 | INR | Deposit Growth |  |  | 13.8% |
+| 12:30 | INR | FX Reserves, USD |  |  | 640.33B |
+| 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.2% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
+| 13:00 | BRL | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
+| 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
+| 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
+| 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 0K |
+| 14:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 14:30 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 54.4 |
+| 15:00 | USD | Total Vehicle Sales |  |  | 15.50M |
+| 15:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.165B |
+| 20:00 | MXN | Fiscal Balance |  |  | -263.06B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -160.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -132.5K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 59.3K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -154.6K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -43.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -76.5K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 123.7K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -42.6K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -12.0K |
