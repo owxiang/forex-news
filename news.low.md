@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
-| 06:00 | SGD | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
 | 07:45 | EUR | French Government Budget Balance (Mar) | -52.8B |  | -44.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) | -0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) | 7.2% | 7.5% | 7.4% |
@@ -23,11 +23,8 @@
 | 13:30 | USD | Average Weekly Hours (Apr) | 34.3 | 34.4 | 34.4 |
 | 13:30 | USD | Government Payrolls (Apr) | 8.0K |  | 72.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) | 8K | 5K | -4K |
-| 41 min | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
-| 41 min | USD | ISM Non-Manufacturing New Orders (Apr) |  | 54.5 | 54.4 |
-| 41 min | USD | Total Vehicle Sales |  |  | 15.50M |
-| 41 min | BRL | Trade Balance (Apr) |  |  | 7.48B |
-| 17:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) | 50.9 |  | 57.4 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) | 52.2 | 54.5 | 54.4 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -160.2K |

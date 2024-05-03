@@ -14,8 +14,8 @@
 | 13:30 | USD | Participation Rate (Apr) | 62.7% |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (Apr) | 167K | 181K | 243K |
 | 13:30 | USD | U6 Unemployment Rate (Apr) | 7.4% |  | 7.3% |
-| 26 min | USD | S&P Global Composite PMI (Apr) |  | 50.9 | 52.1 |
-| 41 min | USD | ISM Non-Manufacturing Employment (Apr) |  | 49.0 | 48.5 |
+| 14:45 | USD | S&P Global Composite PMI (Apr) | 51.3 | 50.9 | 52.1 |
+| 15:00 | USD | ISM Non-Manufacturing Employment (Apr) | 45.9 | 49.0 | 48.5 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 613 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -26.2K |
