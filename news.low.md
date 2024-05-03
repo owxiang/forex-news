@@ -16,8 +16,8 @@
 | 12:30 | INR | Deposit Growth | 13.3% |  | 13.8% |
 | 12:30 | INR | FX Reserves, USD | 637.92B |  | 640.33B |
 | 12:30 | BRL | Bank lending (MoM) (Mar) | 1.2% |  | 0.2% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.70% |  | 0.10% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
 | 13:00 | BRL | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
 | 13:15 | CAD | Reserve Assets Total (Apr) | 121.0B |  | 118.0B |
 | 13:30 | USD | Average Weekly Hours (Apr) | 34.3 | 34.4 | 34.4 |
