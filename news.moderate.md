@@ -16,8 +16,8 @@
 | 13:30 | USD | U6 Unemployment Rate (Apr) | 7.4% |  | 7.3% |
 | 14:45 | USD | S&P Global Composite PMI (Apr) | 51.3 | 50.9 | 52.1 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Apr) | 45.9 | 49.0 | 48.5 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 613 |
+| 39 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
+| 39 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 613 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -26.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 264.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 202.9K |

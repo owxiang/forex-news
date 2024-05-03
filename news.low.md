@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
-| 06:00 | SGD | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
 | 06:00 | SGD | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
+| 06:00 | SGD | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
 | 07:45 | EUR | French Government Budget Balance (Mar) | -52.8B |  | -44.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) | -0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) | 7.2% | 7.5% | 7.4% |
