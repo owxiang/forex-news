@@ -25,27 +25,28 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Mar) | 1.2% |  | 0.2% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.70% |  | 0.10% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | -2.8% | -2.6% | 5.4% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 4.0% | 4.1% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.3% |
-| 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
-| 13:30 | USD | Low | Government Payrolls (Apr) |  |  | 71.0K |
-| 13:30 | USD | Low | Manufacturing Payrolls (Apr) |  | 5K | 0K |
-| 13:30 | USD | High | Nonfarm Payrolls (Apr) |  | 238K | 303K |
-| 13:30 | USD | Moderate | Participation Rate (Apr) |  |  | 62.7% |
-| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 181K | 232K |
-| 13:30 | USD | Moderate | U6 Unemployment Rate (Apr) |  |  | 7.3% |
-| 13:30 | USD | High | Unemployment Rate (Apr) |  | 3.8% | 3.8% |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  | 50.9 | 52.1 |
-| 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 50.9 | 51.7 |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (Apr) |  |  | 48.5 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) |  |  | 54.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) |  | 52.0 | 51.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) |  |  | 53.4 |
-| 15:00 | USD | Low | Total Vehicle Sales |  |  | 15.50M |
-| 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
+| 13:15 | CAD | Low | Reserve Assets Total (Apr) | 121.0B |  | 118.0B |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.9% | 4.0% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | Low | Average Weekly Hours (Apr) | 34.3 | 34.4 | 34.4 |
+| 13:30 | USD | Low | Government Payrolls (Apr) | 8.0K |  | 72.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Apr) | 8K | 5K | -4K |
+| 13:30 | USD | High | Nonfarm Payrolls (Apr) | 175K | 238K | 315K |
+| 13:30 | USD | Moderate | Participation Rate (Apr) | 62.7% |  | 62.7% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) | 167K | 181K | 243K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Apr) | 7.4% |  | 7.3% |
+| 13:30 | USD | High | Unemployment Rate (Apr) | 3.9% | 3.8% | 3.8% |
+| 26 min | USD | Moderate | S&P Global Composite PMI (Apr) |  | 50.9 | 52.1 |
+| 26 min | USD | High | S&P Global Services PMI (Apr) |  | 50.9 | 51.7 |
+| 41 min | USD | Low | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
+| 41 min | USD | Moderate | ISM Non-Manufacturing Employment (Apr) |  | 49.0 | 48.5 |
+| 41 min | USD | Low | ISM Non-Manufacturing New Orders (Apr) |  | 54.5 | 54.4 |
+| 41 min | USD | High | ISM Non-Manufacturing PMI (Apr) |  | 52.0 | 51.4 |
+| 41 min | USD | High | ISM Non-Manufacturing Prices (Apr) |  | 55.0 | 53.4 |
+| 41 min | USD | Low | Total Vehicle Sales |  |  | 15.50M |
+| 41 min | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 17:00 | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 613 |

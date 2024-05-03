@@ -19,13 +19,14 @@
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) | 0.70% |  | 0.10% |
 | 13:00 | BRL | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
-| 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
-| 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
-| 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 0K |
-| 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
-| 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 54.4 |
-| 15:00 | USD | Total Vehicle Sales |  |  | 15.50M |
-| 15:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 13:15 | CAD | Reserve Assets Total (Apr) | 121.0B |  | 118.0B |
+| 13:30 | USD | Average Weekly Hours (Apr) | 34.3 | 34.4 | 34.4 |
+| 13:30 | USD | Government Payrolls (Apr) | 8.0K |  | 72.0K |
+| 13:30 | USD | Manufacturing Payrolls (Apr) | 8K | 5K | -4K |
+| 41 min | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
+| 41 min | USD | ISM Non-Manufacturing New Orders (Apr) |  | 54.5 | 54.4 |
+| 41 min | USD | Total Vehicle Sales |  |  | 15.50M |
+| 41 min | BRL | Trade Balance (Apr) |  |  | 7.48B |
 | 17:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
