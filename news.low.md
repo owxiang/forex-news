@@ -4,21 +4,21 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
-| 06:00 | SGD | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
+| 06:00 | SGD | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
 | 07:45 | EUR | French Government Budget Balance (Mar) | -52.8B |  | -44.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) | -0.3% | 0.3% | 0.2% |
-| 45 min | EUR | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
-| 45 min | NOK | Unemployment Change (Apr) |  |  | 71.56K |
-| 45 min | NOK | Unemployment Rate n.s.a. (Apr) |  |  | 2.00% |
-| 09:30 | HKD | Retail Sales (YoY) (Mar) |  |  | 1.9% |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) | 7.2% | 7.5% | 7.4% |
+| 09:00 | NOK | Unemployment Change (Apr) | 71.22K |  | 71.56K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.00% |  | 2.00% |
+| 10 min | HKD | Retail Sales (YoY) (Mar) |  |  | 1.9% |
+| 40 min | EUR | German Car Registration (YoY) |  |  | -6.2% |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.9% |
 | 12:30 | INR | Deposit Growth |  |  | 13.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 640.33B |
 | 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.2% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
 | 13:00 | BRL | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
