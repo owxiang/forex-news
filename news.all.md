@@ -5,11 +5,11 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 2.8% | 1.0% | 1.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
-| 07:45 | EUR | Low | French Government Budget Balance (Mar) |  |  | -44.0B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change |  | -74.5K | -33.4K |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
+| 23 min | EUR | Low | French Government Budget Balance (Mar) |  |  | -44.0B |
+| 23 min | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
+| 38 min | EUR | Moderate | Spanish Unemployment Change |  | -74.5K | -33.4K |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.26% |
 | 09:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
@@ -24,8 +24,8 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 640.33B |
 | 12:30 | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.2% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | -2.6% | 5.0% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 4.0% | 4.1% |
