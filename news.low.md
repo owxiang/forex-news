@@ -25,6 +25,7 @@
 | 13:30 | USD | Manufacturing Payrolls (Apr) | 8K | 5K | -4K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) | 50.9 |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) | 52.2 | 54.5 | 54.4 |
+| 15:00 | USD | Total Vehicle Sales | 15.74M |  | 15.50M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.4K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -160.2K |

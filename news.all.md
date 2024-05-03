@@ -45,8 +45,9 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Apr) | 52.2 | 54.5 | 54.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Apr) | 49.4 | 52.0 | 51.4 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) | 59.2 | 55.0 | 53.4 |
-| 39 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
-| 39 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 613 |
+| 15:00 | USD | Low | Total Vehicle Sales | 15.74M |  | 15.50M |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 499 |  | 506 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 605 |  | 613 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -26.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 58.4K |
