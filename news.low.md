@@ -3,11 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
-| 32 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
-| 32 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 02:30 | AUD | Invest Housing Finance (MoM) |  |  | 1.2% |
-| 06:00 | SGD | Retail Sales (MoM) (Mar) |  |  | 3.0% |
+| 02:00 | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
+| 17 min | AUD | Invest Housing Finance (MoM) |  |  | 1.2% |
 | 06:00 | SGD | Retail Sales (YoY) (Mar) |  |  | 8.4% |
+| 06:00 | SGD | Retail Sales (MoM) (Mar) |  |  | 3.0% |
 | 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -44.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
@@ -26,8 +25,8 @@
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 0K |
-| 14:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
 | 14:30 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 14:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 54.4 |
 | 15:00 | USD | Total Vehicle Sales |  |  | 15.50M |
