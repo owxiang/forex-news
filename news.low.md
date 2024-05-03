@@ -24,8 +24,8 @@
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 0K |
-| 14:30 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 14:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 14:30 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 54.4 |
 | 15:00 | USD | Total Vehicle Sales |  |  | 15.50M |

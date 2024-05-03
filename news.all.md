@@ -27,8 +27,8 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.2% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | -2.6% | 5.0% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) |  | -2.6% | 5.0% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 4.0% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
@@ -39,8 +39,8 @@
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Apr) |  | 180K | 232K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Apr) |  |  | 7.3% |
 | 13:30 | USD | High | Unemployment Rate (Apr) |  | 3.8% | 3.8% |
-| 14:30 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 14:30 | ZAR | Low | Total Vehicle Sales (Apr) |  |  | 44.24K |
+| 14:30 | ZAR | Low | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Apr) |  | 50.9 | 52.1 |
 | 14:45 | USD | High | S&P Global Services PMI (Apr) |  | 50.9 | 51.7 |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
