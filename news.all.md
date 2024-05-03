@@ -19,14 +19,14 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Apr) | 55.0 | 54.9 | 53.1 |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | -7.0% |  | 1.9% |
 | 10:00 | EUR | Moderate | Unemployment Rate (Mar) | 6.5% | 6.5% | 6.5% |
-| 17 min | INR | Low | Bank Loan Growth |  |  | 19.9% |
-| 17 min | INR | Low | Deposit Growth |  |  | 13.8% |
-| 17 min | INR | Low | FX Reserves, USD |  |  | 640.33B |
-| 17 min | BRL | Low | Bank lending (MoM) (Mar) |  |  | 0.2% |
-| 47 min | MXN | Low | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
-| 47 min | MXN | Low | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
-| 47 min | BRL | Moderate | Industrial Production (YoY) (Mar) |  | -2.6% | 5.0% |
-| 47 min | BRL | Low | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
+| 12:30 | INR | Low | Bank Loan Growth | 19.0% |  | 19.9% |
+| 12:30 | INR | Low | Deposit Growth | 13.3% |  | 13.8% |
+| 12:30 | INR | Low | FX Reserves, USD | 637.92B |  | 640.33B |
+| 12:30 | BRL | Low | Bank lending (MoM) (Mar) | 1.2% |  | 0.2% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.70% |  | 0.10% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | -2.8% | -2.6% | 5.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 4.0% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |

@@ -9,7 +9,7 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Apr) | 54.1 | 54.0 | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Apr) | 55.0 | 54.9 | 53.1 |
 | 10:00 | EUR | Unemployment Rate (Mar) | 6.5% | 6.5% | 6.5% |
-| 47 min | BRL | Industrial Production (YoY) (Mar) |  | -2.6% | 5.0% |
+| 13:00 | BRL | Industrial Production (YoY) (Mar) | -2.8% | -2.6% | 5.4% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 4.0% | 4.1% |
 | 13:30 | USD | Participation Rate (Apr) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (Apr) |  | 181K | 232K |
