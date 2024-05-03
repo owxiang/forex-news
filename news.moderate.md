@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Home Loans (MoM) | 2.8% | 1.0% | 1.6% |
+| 02:30 | AUD | Home Loans (MoM) | 2.8% | 1.0% | 1.5% |
 | 08:00 | EUR | Spanish Unemployment Change |  | -74.5K | -33.4K |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.26% |
 | 09:00 | NOK | Interest Rate Decision |  |  | 4.50% |
@@ -12,7 +12,7 @@
 | 13:00 | BRL | Industrial Production (YoY) (Mar) |  | -2.6% | 5.0% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Apr) |  | 4.0% | 4.1% |
 | 13:30 | USD | Participation Rate (Apr) |  |  | 62.7% |
-| 13:30 | USD | Private Nonfarm Payrolls (Apr) |  | 180K | 232K |
+| 13:30 | USD | Private Nonfarm Payrolls (Apr) |  | 181K | 232K |
 | 13:30 | USD | U6 Unemployment Rate (Apr) |  |  | 7.3% |
 | 14:45 | USD | S&P Global Composite PMI (Apr) |  | 50.9 | 52.1 |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Apr) |  |  | 48.5 |
