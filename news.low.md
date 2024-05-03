@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
-| 06:00 | SGD | Retail Sales (YoY) (Mar) |  |  | 8.4% |
-| 06:00 | SGD | Retail Sales (MoM) (Mar) |  |  | 3.0% |
+| 39 min | SGD | Retail Sales (YoY) (Mar) |  |  | 8.4% |
+| 39 min | SGD | Retail Sales (MoM) (Mar) |  |  | 3.0% |
 | 07:45 | EUR | French Government Budget Balance (Mar) |  |  | -44.0B |
 | 07:45 | EUR | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
@@ -18,14 +18,14 @@
 | 12:30 | INR | Deposit Growth |  |  | 13.8% |
 | 12:30 | INR | FX Reserves, USD |  |  | 640.33B |
 | 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.2% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
 | 13:00 | BRL | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 0K |
-| 14:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
 | 14:30 | ZAR | Total Vehicle Sales (YoY) (Apr) |  |  | -11.70% |
+| 14:30 | ZAR | Total Vehicle Sales (Apr) |  |  | 44.24K |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Apr) |  |  | 57.4 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Apr) |  |  | 54.4 |
 | 15:00 | USD | Total Vehicle Sales |  |  | 15.50M |
