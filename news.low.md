@@ -6,11 +6,11 @@
 | 02:30 | AUD | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
 | 06:00 | SGD | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
 | 06:00 | SGD | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
-| 23 min | EUR | French Government Budget Balance (Mar) |  |  | -44.0B |
-| 23 min | EUR | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
-| 09:00 | EUR | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
-| 09:00 | NOK | Unemployment Change (Apr) |  |  | 71.56K |
-| 09:00 | NOK | Unemployment Rate n.s.a. (Apr) |  |  | 2.00% |
+| 07:45 | EUR | French Government Budget Balance (Mar) | -52.8B |  | -44.0B |
+| 07:45 | EUR | French Industrial Production (MoM) (Mar) | -0.3% | 0.3% | 0.2% |
+| 45 min | EUR | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
+| 45 min | NOK | Unemployment Change (Apr) |  |  | 71.56K |
+| 45 min | NOK | Unemployment Rate n.s.a. (Apr) |  |  | 2.00% |
 | 09:30 | HKD | Retail Sales (YoY) (Mar) |  |  | 1.9% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.9% |

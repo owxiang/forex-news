@@ -7,14 +7,14 @@
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
-| 23 min | EUR | Low | French Government Budget Balance (Mar) |  |  | -44.0B |
-| 23 min | EUR | Low | French Industrial Production (MoM) (Mar) |  | 0.3% | 0.2% |
-| 38 min | EUR | Moderate | Spanish Unemployment Change |  | -74.5K | -33.4K |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
-| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.26% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
-| 09:00 | NOK | Low | Unemployment Change (Apr) |  |  | 71.56K |
-| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.00% |
+| 07:45 | EUR | Low | French Government Budget Balance (Mar) | -52.8B |  | -44.0B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) | -0.3% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change | -52.8K | -74.5K | -33.4K |
+| 45 min | EUR | Low | Italian Monthly Unemployment Rate (Mar) |  | 7.5% | 7.5% |
+| 45 min | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.26% |
+| 45 min | NOK | Moderate | Interest Rate Decision |  |  | 4.50% |
+| 45 min | NOK | Low | Unemployment Change (Apr) |  |  | 71.56K |
+| 45 min | NOK | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.00% |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Apr) |  | 54.0 | 52.8 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Apr) |  | 54.9 | 53.1 |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Mar) |  |  | 1.9% |

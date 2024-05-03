@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Home Loans (MoM) | 2.8% | 1.0% | 1.5% |
-| 38 min | EUR | Spanish Unemployment Change |  | -74.5K | -33.4K |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.26% |
-| 09:00 | NOK | Interest Rate Decision |  |  | 4.50% |
+| 08:00 | EUR | Spanish Unemployment Change | -52.8K | -74.5K | -33.4K |
+| 45 min | BRL | IPC-Fipe Inflation Index (MoM) (Apr) |  |  | 0.26% |
+| 45 min | NOK | Interest Rate Decision |  |  | 4.50% |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (Apr) |  | 54.0 | 52.8 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (Apr) |  | 54.9 | 53.1 |
 | 10:00 | EUR | Unemployment Rate (Mar) |  | 6.5% | 6.5% |
