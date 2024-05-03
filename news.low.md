@@ -12,13 +12,13 @@
 | 09:00 | NOK | Unemployment Change (Apr) | 71.22K |  | 71.56K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Apr) | 2.00% |  | 2.00% |
 | 09:30 | HKD | Retail Sales (YoY) (Mar) | -7.0% |  | 1.9% |
-| 12:30 | INR | Bank Loan Growth |  |  | 19.9% |
-| 12:30 | INR | Deposit Growth |  |  | 13.8% |
-| 12:30 | INR | FX Reserves, USD |  |  | 640.33B |
-| 12:30 | BRL | Bank lending (MoM) (Mar) |  |  | 0.2% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
-| 13:00 | BRL | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
+| 17 min | INR | Bank Loan Growth |  |  | 19.9% |
+| 17 min | INR | Deposit Growth |  |  | 13.8% |
+| 17 min | INR | FX Reserves, USD |  |  | 640.33B |
+| 17 min | BRL | Bank lending (MoM) (Mar) |  |  | 0.2% |
+| 47 min | MXN | Gross Fixed Investments (MoM) (Feb) |  |  | 0.10% |
+| 47 min | MXN | Gross Fixed Investments (YoY) (Feb) |  | 12.10% | 15.30% |
+| 47 min | BRL | Industrial Production (MoM) (Mar) |  | 1.0% | -0.3% |
 | 13:30 | USD | Average Weekly Hours (Apr) |  | 34.4 | 34.4 |
 | 13:30 | USD | Government Payrolls (Apr) |  |  | 71.0K |
 | 13:30 | USD | Manufacturing Payrolls (Apr) |  | 5K | 0K |
