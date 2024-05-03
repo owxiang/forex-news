@@ -23,10 +23,10 @@
 | 12:30 | INR | Low | Deposit Growth | 13.3% |  | 13.8% |
 | 12:30 | INR | Low | FX Reserves, USD | 637.92B |  | 640.33B |
 | 12:30 | BRL | Low | Bank lending (MoM) (Mar) | 1.2% |  | 0.2% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Feb) | 0.70% |  | 0.10% |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Feb) | 12.50% | 12.10% | 15.30% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Mar) | -2.8% | -2.6% | 5.4% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Mar) | 0.9% | 1.0% | 0.1% |
 | 13:15 | CAD | Low | Reserve Assets Total (Apr) | 121.0B |  | 118.0B |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Apr) | 3.9% | 4.0% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
