@@ -5,8 +5,8 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 53.6 | 54.2 | 54.4 |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | 2.8% | 1.0% | 1.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 3.8% |  | 1.2% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Mar) | 2.7% |  | 8.6% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Mar) | -1.0% |  | 3.1% |
 | 07:45 | EUR | Low | French Government Budget Balance (Mar) | -52.8B |  | -44.0B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Mar) | -0.3% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change | -52.8K | -74.5K | -33.4K |
@@ -15,11 +15,10 @@
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% |  | 4.50% |
 | 09:00 | NOK | Low | Unemployment Change (Apr) | 71.22K |  | 71.56K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Apr) | 2.00% |  | 2.00% |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Apr) |  | 54.0 | 52.8 |
-| 10 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (Apr) |  | 54.9 | 53.1 |
-| 10 min | HKD | Low | Retail Sales (YoY) (Mar) |  |  | 1.9% |
-| 40 min | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
-| 40 min | EUR | Moderate | Unemployment Rate (Mar) |  | 6.5% | 6.5% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Apr) | 54.1 | 54.0 | 52.8 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Apr) | 55.0 | 54.9 | 53.1 |
+| 09:30 | HKD | Low | Retail Sales (YoY) (Mar) | -7.0% |  | 1.9% |
+| 10:00 | EUR | Moderate | Unemployment Rate (Mar) | 6.5% | 6.5% | 6.5% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.9% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.8% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 640.33B |
@@ -47,6 +46,7 @@
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Apr) |  |  | 53.4 |
 | 15:00 | USD | Low | Total Vehicle Sales |  |  | 15.50M |
 | 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 17:00 | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 506 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 613 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -26.2K |
