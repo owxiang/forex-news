@@ -4,5 +4,5 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 00:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 53 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 3 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 19:20 | USD | Low | Fed Governor Cook Speaks |  |  |  |
