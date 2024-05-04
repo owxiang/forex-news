@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 29 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 00:45 | USD | FOMC Member Williams Speaks |  |  |  |
