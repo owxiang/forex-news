@@ -3,5 +3,5 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:45 | USD | Fed Goolsbee Speaks |  |  |  |
-| 3 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 14:20 | USD | Fed Governor Cook Speaks |  |  |  |
 | 19:20 | USD | Fed Governor Cook Speaks |  |  |  |
