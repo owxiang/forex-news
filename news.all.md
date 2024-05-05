@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
+| 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
