@@ -6,9 +6,9 @@
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.5% |  | -1.3% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
-| 05:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |
+| 41 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 41 min | IDR | Low | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
+| 41 min | IDR | Low | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) |  | 61.7 | 61.2 |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 56.0 | 56.1 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (Apr) |  |  | 48.4 |

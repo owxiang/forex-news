@@ -5,9 +5,9 @@
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Apr) | 50.6 |  | 50.9 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.5% |  | -1.3% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
-| 05:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
-| 05:00 | IDR | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
-| 05:00 | IDR | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |
+| 41 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 41 min | IDR | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
+| 41 min | IDR | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |
 | 06:00 | INR | HSBC India Services PMI (Apr) |  | 61.7 | 61.2 |
 | 08:15 | ZAR | S&P Global South Africa PMI (Apr) |  |  | 48.4 |
 | 08:45 | EUR | HCOB Italy Composite PMI (Apr) |  |  | 53.5 |
