@@ -9,10 +9,10 @@
 | 05:00 | IDR | GDP (YoY) (Q1) | 5.11% | 5.00% | 5.04% |
 | 05:00 | IDR | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
 | 06:00 | INR | HSBC India Services PMI (Apr) | 60.8 | 61.7 | 61.2 |
-| 52 min | ZAR | S&P Global South Africa PMI (Apr) |  |  | 48.4 |
-| 08:45 | EUR | HCOB Italy Composite PMI (Apr) |  |  | 53.5 |
-| 08:50 | EUR | HCOB France Composite PMI (Apr) |  | 49.9 | 48.3 |
-| 08:55 | EUR | HCOB Germany Composite PMI (Apr) |  | 50.5 | 47.7 |
+| 08:15 | ZAR | S&P Global South Africa PMI (Apr) | 50.3 |  | 48.4 |
+| 30 min | EUR | HCOB Italy Composite PMI (Apr) |  |  | 53.5 |
+| 35 min | EUR | HCOB France Composite PMI (Apr) |  | 49.9 | 48.3 |
+| 40 min | EUR | HCOB Germany Composite PMI (Apr) |  | 50.5 | 47.7 |
 | 09:30 | HKD | Foreign Reserves (USD) |  |  | 423.60B |
 | 09:30 | EUR | Sentix Investor Confidence (May) |  | -4.8 | -5.9 |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |

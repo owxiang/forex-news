@@ -10,16 +10,16 @@
 | 05:00 | IDR | Low | GDP (YoY) (Q1) | 5.11% | 5.00% | 5.04% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) | 60.8 | 61.7 | 61.2 |
-| 52 min | EUR | Moderate | HCOB Spain Services PMI (Apr) |  | 56.0 | 56.1 |
-| 52 min | ZAR | Low | S&P Global South Africa PMI (Apr) |  |  | 48.4 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Apr) |  |  | 53.5 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Apr) |  | 54.7 | 54.6 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Apr) |  | 49.9 | 48.3 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Apr) |  | 50.5 | 48.3 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 50.5 | 47.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 53.3 | 50.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 51.4 | 50.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 52.9 | 51.5 |
+| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) | 56.2 | 56.0 | 56.1 |
+| 08:15 | ZAR | Low | S&P Global South Africa PMI (Apr) | 50.3 |  | 48.4 |
+| 30 min | EUR | Low | HCOB Italy Composite PMI (Apr) |  |  | 53.5 |
+| 30 min | EUR | Moderate | HCOB Italy Services PMI (Apr) |  | 54.7 | 54.6 |
+| 35 min | EUR | Low | HCOB France Composite PMI (Apr) |  | 49.9 | 48.3 |
+| 35 min | EUR | Moderate | HCOB France Services PMI (Apr) |  | 50.5 | 48.3 |
+| 40 min | EUR | Low | HCOB Germany Composite PMI (Apr) |  | 50.5 | 47.7 |
+| 40 min | EUR | Moderate | HCOB Germany Services PMI (Apr) |  | 53.3 | 50.1 |
+| 45 min | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) |  | 51.4 | 50.3 |
+| 45 min | EUR | Moderate | HCOB Eurozone Services PMI (Apr) |  | 52.9 | 51.5 |
 | 09:30 | HKD | Low | Foreign Reserves (USD) |  |  | 423.60B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) |  | -4.8 | -5.9 |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
