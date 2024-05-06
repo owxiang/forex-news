@@ -38,8 +38,7 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.666% |  | 3.710% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (Apr) | 54.8 |  | 55.1 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 53.7 |  | 54.8 |
-| 42 min | USD | Low | CB Employment Trends Index (Apr) |  |  | 112.84 |
-| 42 min | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 15:00 | USD | Low | CB Employment Trends Index (Apr) | 111.25 |  | 112.16 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
 | 17:50 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
