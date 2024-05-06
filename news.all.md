@@ -7,8 +7,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
-| 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
 | 05:00 | IDR | Low | GDP (YoY) (Q1) | 5.11% | 5.00% | 5.04% |
+| 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) | 60.8 | 61.7 | 61.2 |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change | -60.5K | -74.5K | -33.4K |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) | 56.2 | 56.0 | 56.1 |
@@ -23,10 +23,10 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 53.3 | 52.9 | 51.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -3.6 | -4.8 | -5.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
-| 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
-| 12:00 | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
+| 10:00 | EUR | Low | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
+| 43 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
+| 43 min | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
