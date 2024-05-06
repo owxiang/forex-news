@@ -1,16 +1,24 @@
-## 06 May 2024 - Moderate Impact Forex News
+## 07 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:45 | CNY | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
-| 08:00 | EUR | Spanish Unemployment Change | -60.5K | -74.5K | -33.4K |
-| 08:15 | EUR | HCOB Spain Services PMI (Apr) | 56.2 | 56.0 | 56.1 |
-| 08:45 | EUR | HCOB Italy Services PMI (Apr) | 54.3 | 54.7 | 54.6 |
-| 08:50 | EUR | HCOB France Services PMI (Apr) | 51.3 | 50.5 | 48.3 |
-| 08:55 | EUR | HCOB Germany Services PMI (Apr) | 53.2 | 53.3 | 50.1 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 51.7 | 51.4 | 50.3 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 53.3 | 52.9 | 51.5 |
-| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.7% |  | 75.5% |
-| 13:25 | CHF | SNB Board Member Jordan Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Williams Speaks |  |  |  |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | -4.4% | 1.6% | 3.2% |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Apr) |  | 54.6 | 54.1 |
+| 02:30 | AUD | Retail Sales (MoM) |  | -0.2% | 0.3% |
+| 06:30 | AUD | RBA Monetary Policy Statement |  |  |  |
+| 06:30 | AUD | RBA Rate Statement |  |  |  |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 0.3% |
+| 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 0.4% | 0.2% |
+| 07:00 | EUR | German Trade Balance (Mar) |  | 22.4B | 21.4B |
+| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 15:00 | CAD | Ivey PMI (Apr) |  | 58.1 | 57.5 |
+| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.548% |
+| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:00 | USD | Consumer Credit (Mar) |  | 15.50B | 14.12B |
+| 20:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.906M |

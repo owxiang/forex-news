@@ -1,47 +1,59 @@
-## 06 May 2024 - All Forex News
+## 07 May 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Apr) | 50.6 |  | 50.9 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.5% |  | -1.3% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | 0.1% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) | 5.11% | 5.00% | 5.04% |
-| 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
-| 06:00 | INR | Low | HSBC India Services PMI (Apr) | 60.8 | 61.7 | 61.2 |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change | -60.5K | -74.5K | -33.4K |
-| 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) | 56.2 | 56.0 | 56.1 |
-| 08:15 | ZAR | Low | S&P Global South Africa PMI (Apr) | 50.3 |  | 48.4 |
-| 08:45 | EUR | Low | HCOB Italy Composite PMI (Apr) | 52.6 |  | 53.5 |
-| 08:45 | EUR | Moderate | HCOB Italy Services PMI (Apr) | 54.3 | 54.7 | 54.6 |
-| 08:50 | EUR | Low | HCOB France Composite PMI (Apr) | 50.5 | 49.9 | 48.3 |
-| 08:50 | EUR | Moderate | HCOB France Services PMI (Apr) | 51.3 | 50.5 | 48.3 |
-| 08:55 | EUR | Low | HCOB Germany Composite PMI (Apr) | 50.6 | 50.5 | 47.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Services PMI (Apr) | 53.2 | 53.3 | 50.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Apr) | 51.7 | 51.4 | 50.3 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 53.3 | 52.9 | 51.5 |
-| 09:30 | EUR | Low | Sentix Investor Confidence (May) | -3.6 | -4.8 | -5.9 |
-| 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
-| 10:00 | EUR | Low | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
-| 10:50 | EUR | Low | German Car Registration (YoY) | 19.8% |  | -6.2% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) | 61.1% |  | 60.9% |
-| 12:30 | BRL | Low | Budget Balance (Mar) | -62.981B |  | -113.858B |
-| 12:30 | BRL | Low | Budget Surplus (Mar) | 1.177B |  | -48.692B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.7% |  | 75.5% |
-| 13:25 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.460% |  | 3.488% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.803% |  | 3.800% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.666% |  | 3.710% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Apr) | 54.8 |  | 55.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 53.7 |  | 54.8 |
-| 15:00 | USD | Low | CB Employment Trends Index (Apr) | 111.25 |  | 112.16 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 5.155% |  | 5.165% |
-| 17:50 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 18:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 22:00 | KRW | Low | FX Reserves - USD (Apr) | 413.26B |  | 419.25B |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | -4.4% | 1.6% | 3.2% |
+| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
+| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Apr) |  | 54.6 | 54.1 |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) |  | -0.2% | 0.3% |
+| 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) |  |  | 0.3% |
+| 05:30 | AUD | High | RBA Interest Rate Decision (May) |  | 4.35% | 4.35% |
+| 06:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.4% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.3% | 2.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 0.3% |
+| 07:00 | EUR | Low | German Exports (MoM) (Mar) |  |  | -2.0% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 0.4% | 0.2% |
+| 07:00 | EUR | Low | German Imports (MoM) (Mar) |  | -1.0% | 3.2% |
+| 07:00 | EUR | Moderate | German Trade Balance (Mar) |  | 22.4B | 21.4B |
+| 07:45 | EUR | Low | French Current Account (Mar) |  |  | 0.90B |
+| 07:45 | EUR | Low | French Exports (Mar) |  |  | 51.1B |
+| 07:45 | EUR | Low | French Imports (Mar) |  |  | 56.3B |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | 0.0% |
+| 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 07:45 | EUR | Low | French Trade Balance (Mar) |  | -5.0B | -5.2B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) |  |  | 715.1B |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 50.3 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 38.3 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 41.0 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 42.4 |
+| 09:00 | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 368.5B |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 13:00 | MXN | Low | Consumer Confidence |  |  | 47.3 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.4 |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 3,590.0 |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 44.1 | 43.2 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
+| 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 58.1 | 57.5 |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.548% |
+| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 15.50B | 14.12B |
+| 20:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.906M |
