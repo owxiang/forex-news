@@ -23,8 +23,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 53.3 | 52.9 | 51.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -3.6 | -4.8 | -5.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
 | 10:00 | EUR | Low | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
 | 10:50 | EUR | Low | German Car Registration (YoY) | 19.8% |  | -6.2% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -39,8 +39,8 @@
 | 14:00 | BRL | Low | S&P Global Composite PMI (Apr) | 54.8 |  | 55.1 |
 | 14:00 | BRL | Low | S&P Global Services PMI (Apr) | 53.7 |  | 54.8 |
 | 15:00 | USD | Low | CB Employment Trends Index (Apr) | 111.25 |  | 112.16 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
+| 13 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
+| 13 min | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
 | 17:50 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
