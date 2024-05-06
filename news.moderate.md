@@ -13,4 +13,4 @@
 | 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.7% |  | 75.5% |
 | 13:25 | CHF | SNB Board Member Jordan Speaks |  |  |  |
-| 38 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 18:00 | USD | FOMC Member Williams Speaks |  |  |  |
