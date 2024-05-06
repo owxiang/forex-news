@@ -44,4 +44,4 @@
 | 17:50 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Low | Loan Officer Survey |  |  |  |
-| 42 min | KRW | Low | FX Reserves - USD (Apr) |  |  | 419.25B |
+| 22:00 | KRW | Low | FX Reserves - USD (Apr) | 413.26B |  | 419.25B |

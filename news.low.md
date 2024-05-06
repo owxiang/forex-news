@@ -32,4 +32,4 @@
 | 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.165% |
 | 17:50 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
-| 42 min | KRW | FX Reserves - USD (Apr) |  |  | 419.25B |
+| 22:00 | KRW | FX Reserves - USD (Apr) | 413.26B |  | 419.25B |
