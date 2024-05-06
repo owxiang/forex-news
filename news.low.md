@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Apr) | 50.6 |  | 50.9 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 0.5% |  | -1.3% |
-| 18 min | AUD | ANZ Job Advertisements (MoM) |  |  | -1.0% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
 | 05:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 05:00 | IDR | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
 | 05:00 | IDR | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |

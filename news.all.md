@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Apr) | 50.6 |  | 50.9 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.5% |  | -1.3% |
-| 18 min | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -1.0% |
-| 33 min | CNY | Moderate | Caixin Services PMI (Apr) |  | 52.5 | 52.7 |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
 | 05:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 05:00 | IDR | Low | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |

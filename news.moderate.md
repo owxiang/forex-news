@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 33 min | CNY | Caixin Services PMI (Apr) |  | 52.5 | 52.7 |
+| 02:45 | CNY | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
 | 08:15 | EUR | HCOB Spain Services PMI (Apr) |  | 56.0 | 56.1 |
 | 08:45 | EUR | HCOB Italy Services PMI (Apr) |  | 54.7 | 54.6 |
 | 08:50 | EUR | HCOB France Services PMI (Apr) |  | 50.5 | 48.3 |
