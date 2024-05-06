@@ -25,15 +25,15 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
 | 10:00 | EUR | Low | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
-| 43 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
-| 43 min | EUR | Low | German Car Registration (YoY) |  |  | -6.2% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
-| 12:30 | BRL | Low | Budget Balance (Mar) |  |  | -113.858B |
-| 12:30 | BRL | Low | Budget Surplus (Mar) |  |  | -48.692B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 75.5% |
-| 12:30 | HKD | Low | Foreign Reserves (USD) |  |  | 423.60B |
+| 10:50 | EUR | Low | German Car Registration (YoY) | 19.8% |  | -6.2% |
+| 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
+| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 17 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 17 min | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
+| 17 min | BRL | Low | Budget Balance (Mar) |  |  | -113.858B |
+| 17 min | BRL | Low | Budget Surplus (Mar) |  |  | -48.692B |
+| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 75.5% |
+| 17 min | HKD | Low | Foreign Reserves (USD) |  |  | 423.60B |
 | 13:25 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee |  |  | 5.0% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.488% |

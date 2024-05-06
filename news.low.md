@@ -17,13 +17,13 @@
 | 10:00 | NOK | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
 | 10:00 | EUR | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
 | 10:00 | EUR | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
-| 43 min | CAD | Leading Index (MoM) (Apr) |  |  | 0.26% |
-| 43 min | EUR | German Car Registration (YoY) |  |  | -6.2% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
-| 12:30 | BRL | Budget Balance (Mar) |  |  | -113.858B |
-| 12:30 | BRL | Budget Surplus (Mar) |  |  | -48.692B |
-| 12:30 | HKD | Foreign Reserves (USD) |  |  | 423.60B |
+| 10:50 | EUR | German Car Registration (YoY) | 19.8% |  | -6.2% |
+| 12:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.26% |
+| 12 min | BRL | BCB Focus Market Readout |  |  |  |
+| 17 min | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
+| 17 min | BRL | Budget Balance (Mar) |  |  | -113.858B |
+| 17 min | BRL | Budget Surplus (Mar) |  |  | -48.692B |
+| 17 min | HKD | Foreign Reserves (USD) |  |  | 423.60B |
 | 13:30 | CAD | Avg hourly wages Permanent employee |  |  | 5.0% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.488% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.800% |
