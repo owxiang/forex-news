@@ -2,12 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Apr) |  |  | 50.9 |
-| 02:00 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -1.0% |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | -1.3% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Apr) |  | 52.5 | 52.7 |
+| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Apr) | 50.6 |  | 50.9 |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 0.5% |  | -1.3% |
+| 18 min | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -1.0% |
+| 33 min | CNY | Moderate | Caixin Services PMI (Apr) |  | 52.5 | 52.7 |
 | 05:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 05:00 | IDR | Low | GDP (YoY) (Q1) |  | 5.00% | 5.04% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) |  | -0.89% | 0.45% |
@@ -27,6 +25,7 @@
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) |  |  | 1.20% |
 | 10:00 | EUR | Low | PPI (YoY) (Mar) |  |  | -8.3% |
 | 10:00 | EUR | Low | PPI (MoM) (Mar) |  | -0.4% | -1.0% |
+| 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
