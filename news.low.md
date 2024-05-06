@@ -10,15 +10,15 @@
 | 05:00 | IDR | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
 | 06:00 | INR | HSBC India Services PMI (Apr) | 60.8 | 61.7 | 61.2 |
 | 08:15 | ZAR | S&P Global South Africa PMI (Apr) | 50.3 |  | 48.4 |
-| 30 min | EUR | HCOB Italy Composite PMI (Apr) |  |  | 53.5 |
-| 35 min | EUR | HCOB France Composite PMI (Apr) |  | 49.9 | 48.3 |
-| 40 min | EUR | HCOB Germany Composite PMI (Apr) |  | 50.5 | 47.7 |
-| 09:30 | HKD | Foreign Reserves (USD) |  |  | 423.60B |
-| 09:30 | EUR | Sentix Investor Confidence (May) |  | -4.8 | -5.9 |
-| 10:00 | EUR | German Car Registration (YoY) |  |  | -6.2% |
-| 10:00 | NOK | House Price Index (YoY) (Apr) |  |  | 1.20% |
-| 10:00 | EUR | PPI (YoY) (Mar) |  |  | -8.3% |
-| 10:00 | EUR | PPI (MoM) (Mar) |  | -0.4% | -1.0% |
+| 08:45 | EUR | HCOB Italy Composite PMI (Apr) | 52.6 |  | 53.5 |
+| 08:50 | EUR | HCOB France Composite PMI (Apr) | 50.5 | 49.9 | 48.3 |
+| 08:55 | EUR | HCOB Germany Composite PMI (Apr) | 50.6 | 50.5 | 47.7 |
+| 9 min | HKD | Foreign Reserves (USD) |  |  | 423.60B |
+| 9 min | EUR | Sentix Investor Confidence (May) |  | -4.8 | -5.9 |
+| 39 min | EUR | German Car Registration (YoY) |  |  | -6.2% |
+| 39 min | NOK | House Price Index (YoY) (Apr) |  |  | 1.20% |
+| 39 min | EUR | PPI (MoM) (Mar) |  | -0.4% | -1.0% |
+| 39 min | EUR | PPI (YoY) (Mar) |  |  | -8.3% |
 | 12:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.26% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
