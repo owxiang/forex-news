@@ -7,8 +7,8 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | 2.8% |  | -1.0% |
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.1% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Apr) | 52.5 | 52.5 | 52.7 |
-| 05:00 | IDR | Low | GDP (YoY) (Q1) | 5.11% | 5.00% | 5.04% |
 | 05:00 | IDR | Low | GDP (QoQ) (Q1) | -0.83% | -0.89% | 0.45% |
+| 05:00 | IDR | Low | GDP (YoY) (Q1) | 5.11% | 5.00% | 5.04% |
 | 06:00 | INR | Low | HSBC India Services PMI (Apr) | 60.8 | 61.7 | 61.2 |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change | -60.5K | -74.5K | -33.4K |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Apr) | 56.2 | 56.0 | 56.1 |
@@ -23,24 +23,22 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Apr) | 53.3 | 52.9 | 51.5 |
 | 09:30 | EUR | Low | Sentix Investor Confidence (May) | -3.6 | -4.8 | -5.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
-| 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
 | 10:00 | EUR | Low | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
+| 10:00 | EUR | Low | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
 | 10:50 | EUR | Low | German Car Registration (YoY) | 19.8% |  | -6.2% |
-| 12:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
-| 12 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 17 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 17 min | BRL | Low | Net Debt-to-GDP ratio (Mar) |  |  | 60.9% |
-| 17 min | BRL | Low | Budget Balance (Mar) |  |  | -113.858B |
-| 17 min | BRL | Low | Budget Surplus (Mar) |  |  | -48.692B |
-| 17 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 75.5% |
-| 17 min | HKD | Low | Foreign Reserves (USD) |  |  | 423.60B |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Mar) | 61.1% |  | 60.9% |
+| 12:30 | BRL | Low | Budget Balance (Mar) | -62.981B |  | -113.858B |
+| 12:30 | BRL | Low | Budget Surplus (Mar) | 1.177B |  | -48.692B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.7% |  | 75.5% |
 | 13:25 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee |  |  | 5.0% |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.488% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.800% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.710% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 55.1 |
-| 14:00 | BRL | Low | S&P Global Services PMI (Apr) |  |  | 54.8 |
+| 29 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.488% |
+| 29 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.800% |
+| 29 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.710% |
+| 29 min | BRL | Low | S&P Global Composite PMI (Apr) |  |  | 55.1 |
+| 29 min | BRL | Low | S&P Global Services PMI (Apr) |  |  | 54.8 |
 | 15:00 | USD | Low | CB Employment Trends Index (Apr) |  |  | 112.84 |
 | 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |

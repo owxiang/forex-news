@@ -10,7 +10,7 @@
 | 08:55 | EUR | HCOB Germany Services PMI (Apr) | 53.2 | 53.3 | 50.1 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Apr) | 51.7 | 51.4 | 50.3 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Apr) | 53.3 | 52.9 | 51.5 |
-| 17 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 17 min | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) |  |  | 75.5% |
+| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Mar) | 75.7% |  | 75.5% |
 | 13:25 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 18:00 | USD | FOMC Member Williams Speaks |  |  |  |
