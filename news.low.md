@@ -15,8 +15,8 @@
 | 08:55 | EUR | HCOB Germany Composite PMI (Apr) | 50.6 | 50.5 | 47.7 |
 | 09:30 | EUR | Sentix Investor Confidence (May) | -3.6 | -4.8 | -5.9 |
 | 10:00 | NOK | House Price Index (YoY) (Apr) | 1.10% |  | 1.20% |
-| 10:00 | EUR | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
 | 10:00 | EUR | PPI (YoY) (Mar) | -7.8% |  | -8.5% |
+| 10:00 | EUR | PPI (MoM) (Mar) | -0.4% | -0.4% | -1.1% |
 | 10:50 | EUR | German Car Registration (YoY) | 19.8% |  | -6.2% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Mar) | 61.1% |  | 60.9% |
@@ -28,8 +28,8 @@
 | 14:00 | BRL | S&P Global Composite PMI (Apr) | 54.8 |  | 55.1 |
 | 14:00 | BRL | S&P Global Services PMI (Apr) | 53.7 |  | 54.8 |
 | 15:00 | USD | CB Employment Trends Index (Apr) | 111.25 |  | 112.16 |
-| 13 min | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 13 min | USD | 6-Month Bill Auction |  |  | 5.165% |
-| 17:50 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.250% |
+| 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.165% |
+| 28 min | USD | FOMC Member Barkin Speaks |  |  |  |
 | 19:00 | USD | Loan Officer Survey |  |  |  |
 | 22:00 | KRW | FX Reserves - USD (Apr) |  |  | 419.25B |
