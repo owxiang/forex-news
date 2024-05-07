@@ -11,8 +11,8 @@
 | 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) | 2.3% |  | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) | 2.3% | 2.3% | 2.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 1.1% |  | 0.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.1% | 0.2% | -0.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 1.1% |  | 0.4% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) | 0.9% | 0.4% | -1.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) | -0.4% | 0.4% | -0.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) | 0.3% | -1.0% | 3.0% |
@@ -27,16 +27,17 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) | 37.5 |  | 38.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) | 41.5 |  | 41.0 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) | 41.9 |  | 42.4 |
-| 10 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
-| 10 min | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
-| 10 min | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
-| 40 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 368.5B |
-| 40 min | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
-| 40 min | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
-| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
-| 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:00 | GBP | Low | Car Registration (YoY) | 1.0% |  | 10.4% |
+| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) | 53.0 | 50.4 | 50.2 |
+| 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) | 416.40B |  | 423.50B |
+| 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) | 134,274.0 |  | 317,786.0 |
+| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 366.9B |  | 368.5B |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
+| 22 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
+| 22 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
+| 42 min | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
+| 42 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 47.3 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
@@ -44,7 +45,6 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 58.1 | 57.5 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,590.0 |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |

@@ -17,20 +17,20 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (Apr) | 37.5 |  | 38.3 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Apr) | 41.5 |  | 41.0 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Apr) | 41.9 |  | 42.4 |
-| 10 min | CNY | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
-| 10 min | HKD | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
-| 40 min | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 40 min | SGD | Foreign Reserves USD (MoM) (Apr) |  |  | 368.5B |
-| 40 min | EUR | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
-| 40 min | EUR | Retail Sales (YoY) (Mar) |  |  | -0.7% |
-| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.423% |
-| 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.621% |
+| 09:00 | GBP | Car Registration (YoY) | 1.0% |  | 10.4% |
+| 09:30 | HKD | Foreign Reserves (USD) (Apr) | 416.40B |  | 423.50B |
+| 10:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 134,274.0 |  | 317,786.0 |
+| 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) | 366.9B |  | 368.5B |
+| 10:00 | EUR | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
+| 10:00 | EUR | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
+| 22 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.423% |
+| 22 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.621% |
+| 42 min | CNY | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
 | 13:00 | MXN | Consumer Confidence (Apr) |  |  | 47.3 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | IBD/TIPP Economic Optimism (May) |  | 44.1 | 43.2 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
-| 15:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
 | 15:00 | USD | Milk Auctions |  |  | 3,590.0 |
 | 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
