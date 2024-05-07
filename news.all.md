@@ -3,11 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | -4.4% | 1.6% | 3.2% |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Apr) |  | 54.6 | 54.1 |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) |  | -0.2% | 0.3% |
-| 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) |  |  | 0.3% |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Apr) | 54.3 | 54.6 | 54.1 |
+| 18 min | AUD | Moderate | Retail Sales (MoM) |  | -0.2% | 0.3% |
+| 18 min | AUD | Low | Retail Sales (QoQ) (Q1) |  |  | 0.3% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) |  | 4.35% | 4.35% |
 | 06:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |

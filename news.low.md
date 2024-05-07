@@ -2,9 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 02:30 | AUD | Retail Sales (QoQ) (Q1) |  |  | 0.3% |
+| 18 min | AUD | Retail Sales (QoQ) (Q1) |  |  | 0.3% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 2.4% |
 | 06:45 | CHF | Unemployment Rate s.a. (Apr) |  | 2.3% | 2.3% |
 | 07:00 | EUR | German Exports (MoM) (Mar) |  |  | -2.0% |

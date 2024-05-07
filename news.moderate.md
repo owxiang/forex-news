@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | -4.4% | 1.6% | 3.2% |
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Apr) |  | 54.6 | 54.1 |
-| 02:30 | AUD | Retail Sales (MoM) |  | -0.2% | 0.3% |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Apr) | 54.3 | 54.6 | 54.1 |
+| 18 min | AUD | Retail Sales (MoM) |  | -0.2% | 0.3% |
 | 06:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 06:30 | AUD | RBA Rate Statement |  |  |  |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
