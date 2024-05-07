@@ -15,10 +15,10 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 15:00 | CAD | Ivey PMI (Apr) | 63.0 | 58.1 | 57.5 |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14 min | USD | FOMC Member Kashkari Speaks |  |  |  |
-| 44 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.548% |
-| 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 41 min | USD | 3-Year Note Auction |  |  | 4.548% |
+| 41 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (Mar) |  | 14.80B | 14.12B |
 | 20:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.430M | 4.906M |

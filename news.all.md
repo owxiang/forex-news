@@ -46,10 +46,10 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 65.7 |  | 63.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) | 63.0 | 58.1 | 57.5 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 44 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.548% |
-| 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 41 min | USD | Moderate | 3-Year Note Auction |  |  | 4.548% |
+| 41 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 14.80B | 14.12B |
 | 20:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
