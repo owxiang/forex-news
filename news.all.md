@@ -7,23 +7,23 @@
 | 02:30 | AUD | Moderate | Retail Sales (MoM) | -0.4% | -0.2% | 0.2% |
 | 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | -0.4% |  | 0.4% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) | 4.35% | 4.35% | 4.35% |
-| 12 min | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
-| 12 min | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 27 min | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.4% |
-| 27 min | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.3% | 2.3% |
-| 42 min | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 0.3% |
-| 42 min | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
-| 42 min | EUR | Low | German Exports (MoM) (Mar) |  | 0.4% | -2.0% |
-| 42 min | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 0.4% | 0.2% |
-| 42 min | EUR | Low | German Imports (MoM) (Mar) |  | -1.0% | 3.2% |
-| 42 min | EUR | Moderate | German Trade Balance (Mar) |  | 22.4B | 21.4B |
-| 07:45 | EUR | Low | French Current Account (Mar) |  |  | 0.90B |
-| 07:45 | EUR | Low | French Exports (Mar) |  |  | 51.1B |
-| 07:45 | EUR | Low | French Imports (Mar) |  |  | 56.3B |
-| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | 0.0% |
-| 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 07:45 | EUR | Low | French Trade Balance (Mar) |  | -5.0B | -5.2B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) |  |  | 715.1B |
+| 06:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
+| 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) | 2.3% |  | 2.4% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) | 2.3% | 2.3% | 2.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.1% | 0.2% | -0.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 1.1% |  | 0.4% |
+| 07:00 | EUR | Low | German Exports (MoM) (Mar) | 0.9% | 0.4% | -1.6% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) | -0.4% | 0.4% | -0.8% |
+| 07:00 | EUR | Low | German Imports (MoM) (Mar) | 0.3% | -1.0% | 3.0% |
+| 07:00 | EUR | Moderate | German Trade Balance (Mar) | 22.3B | 22.4B | 21.4B |
+| 23 min | EUR | Low | French Current Account (Mar) |  |  | 0.90B |
+| 23 min | EUR | Low | French Exports (Mar) |  |  | 51.1B |
+| 23 min | EUR | Low | French Imports (Mar) |  |  | 56.3B |
+| 23 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | 0.0% |
+| 23 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 23 min | EUR | Low | French Trade Balance (Mar) |  | -5.0B | -5.2B |
+| 38 min | CHF | Low | Foreign Reserves (USD) (Apr) |  |  | 715.1B |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 50.3 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 38.3 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 41.0 |
@@ -32,8 +32,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 368.5B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
