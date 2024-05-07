@@ -34,10 +34,10 @@
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 366.9B |  | 368.5B |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
-| 22 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
-| 22 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
-| 42 min | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
-| 42 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:30 | CNY | Low | FX Reserves (USD) (Apr) | 3.201T | 3.230T | 3.246T |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.405% |  | 3.423% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 47.3 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |

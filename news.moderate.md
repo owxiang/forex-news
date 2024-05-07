@@ -12,7 +12,7 @@
 | 07:00 | EUR | German Factory Orders (MoM) (Mar) | -0.4% | 0.4% | -0.8% |
 | 07:00 | EUR | German Trade Balance (Mar) | 22.3B | 22.4B | 21.4B |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Apr) | 53.0 | 50.4 | 50.2 |
-| 42 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 15:00 | CAD | Ivey PMI (Apr) |  | 58.1 | 57.5 |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | FOMC Member Kashkari Speaks |  |  |  |
