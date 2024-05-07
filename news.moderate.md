@@ -19,6 +19,6 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.605% |  | 4.548% |
 | 18:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (Mar) |  | 14.80B | 14.12B |
+| 39 min | USD | Consumer Credit (Mar) |  | 14.80B | 14.12B |
 | 20:30 | CAD | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.430M | 4.906M |

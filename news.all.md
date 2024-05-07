@@ -51,7 +51,6 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.605% |  | 4.548% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 46 min | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
-| 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 14.80B | 14.12B |
+| 39 min | USD | Moderate | Consumer Credit (Mar) |  | 14.80B | 14.12B |
 | 20:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.430M | 4.906M |

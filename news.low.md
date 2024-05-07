@@ -33,4 +33,3 @@
 | 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.5% |
 | 15:00 | USD | IBD/TIPP Economic Optimism (May) | 41.8 | 44.1 | 43.2 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) | 65.7 |  | 63.0 |
-| 46 min | BRL | Trade Balance (Apr) |  |  | 7.48B |
