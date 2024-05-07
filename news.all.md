@@ -11,8 +11,8 @@
 | 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) | 2.3% |  | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) | 2.3% | 2.3% | 2.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 1.1% |  | 0.4% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.1% | 0.2% | -0.9% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 1.1% |  | 0.4% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) | 0.9% | 0.4% | -1.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) | -0.4% | 0.4% | -0.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) | 0.3% | -1.0% | 3.0% |
@@ -32,8 +32,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) | 416.40B |  | 423.50B |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) | 134,274.0 |  | 317,786.0 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 366.9B |  | 368.5B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
 | 10:30 | CNY | Low | FX Reserves (USD) (Apr) | 3.201T | 3.230T | 3.246T |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.405% |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
@@ -41,12 +41,9 @@
 | 13:00 | MXN | Low | Consumer Confidence (Apr) | 47.3 |  | 47.3 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) | 47.7 |  | 47.4 |
 | 13:55 | USD | Low | Redbook (YoY) | 6.0% |  | 5.5% |
-| 43 min | USD | Low | IBD/TIPP Economic Optimism (May) |  | 44.1 | 43.2 |
-| 43 min | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
-| 43 min | CAD | Moderate | Ivey PMI (Apr) |  | 58.1 | 57.5 |
-| 43 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 43 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 43 min | USD | Low | Milk Auctions |  |  | 3,590.0 |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 65.7 |  | 63.0 |
+| 15:00 | CAD | Moderate | Ivey PMI (Apr) | 63.0 | 58.1 | 57.5 |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.548% |
