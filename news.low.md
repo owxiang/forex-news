@@ -28,6 +28,8 @@
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
 | 13:00 | MXN | Consumer Confidence (Apr) | 47.3 |  | 47.3 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Apr) | 47.7 |  | 47.4 |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 1.8% |  | 0.1% |
+| 13:00 | USD | Milk Auctions | 3,708.0 |  | 3,590.0 |
 | 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.5% |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) | 65.7 |  | 63.0 |
 | 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |

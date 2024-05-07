@@ -40,12 +40,14 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) | 47.3 |  | 47.3 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) | 47.7 |  | 47.4 |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.8% |  | 0.1% |
+| 13:00 | USD | Low | Milk Auctions | 3,708.0 |  | 3,590.0 |
 | 13:55 | USD | Low | Redbook (YoY) | 6.0% |  | 5.5% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) | 65.7 |  | 63.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) | 63.0 | 58.1 | 57.5 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 14 min | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 44 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.548% |
 | 18:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
