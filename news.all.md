@@ -38,8 +38,8 @@
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.405% |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 47.3 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
+| 45 min | MXN | Low | Consumer Confidence (Apr) |  |  | 47.3 |
+| 45 min | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 44.1 | 43.2 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 63.0 |

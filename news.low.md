@@ -26,8 +26,8 @@
 | 10:30 | CNY | FX Reserves (USD) (Apr) | 3.201T | 3.230T | 3.246T |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 3.405% |  | 3.423% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
-| 13:00 | MXN | Consumer Confidence (Apr) |  |  | 47.3 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
+| 45 min | MXN | Consumer Confidence (Apr) |  |  | 47.3 |
+| 45 min | MXN | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | IBD/TIPP Economic Optimism (May) |  | 44.1 | 43.2 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
