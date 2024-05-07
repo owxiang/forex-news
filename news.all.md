@@ -32,15 +32,15 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) | 416.40B |  | 423.50B |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (Apr) | 134,274.0 |  | 317,786.0 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) | 366.9B |  | 368.5B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
 | 10:30 | CNY | Low | FX Reserves (USD) (Apr) | 3.201T | 3.230T | 3.246T |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.405% |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 45 min | MXN | Low | Consumer Confidence (Apr) |  |  | 47.3 |
-| 45 min | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
+| 13:00 | MXN | Low | Consumer Confidence (Apr) | 47.3 |  | 47.3 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) | 47.7 |  | 47.4 |
+| 25 min | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 44.1 | 43.2 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 58.1 | 57.5 |
@@ -54,4 +54,4 @@
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 20:00 | USD | Moderate | Consumer Credit (Mar) |  | 14.80B | 14.12B |
 | 20:30 | CAD | Moderate | BoC Senior Deputy Governor Rogers Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 4.906M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.430M | 4.906M |
