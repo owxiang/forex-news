@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Apr) | -4.4% | 1.6% | 3.2% |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Apr) | 54.3 | 54.6 | 54.1 |
-| 18 min | AUD | Moderate | Retail Sales (MoM) |  | -0.2% | 0.3% |
-| 18 min | AUD | Low | Retail Sales (QoQ) (Q1) |  |  | 0.3% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) | -0.4% | -0.2% | 0.2% |
+| 02:30 | AUD | Low | Retail Sales (QoQ) (Q1) | -0.4% |  | 0.4% |
 | 05:30 | AUD | High | RBA Interest Rate Decision (May) |  | 4.35% | 4.35% |
 | 06:30 | AUD | Moderate | RBA Monetary Policy Statement |  |  |  |
 | 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) |  |  | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) |  | 2.3% | 2.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) |  |  | 0.3% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) |  |  | -2.0% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) |  | 0.4% | 0.2% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) |  | -1.0% | 3.2% |
@@ -32,8 +32,8 @@
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 368.5B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

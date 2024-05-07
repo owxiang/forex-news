@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Apr) | -4.4% | 1.6% | 3.2% |
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (Apr) | 54.3 | 54.6 | 54.1 |
-| 18 min | AUD | Retail Sales (MoM) |  | -0.2% | 0.3% |
+| 02:30 | AUD | Retail Sales (MoM) | -0.4% | -0.2% | 0.2% |
 | 06:30 | AUD | RBA Monetary Policy Statement |  |  |  |
 | 06:30 | AUD | RBA Rate Statement |  |  |  |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Apr) |  |  | 0.3% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Apr) |  | 0.2% | -1.0% |
 | 07:00 | EUR | German Factory Orders (MoM) (Mar) |  | 0.4% | 0.2% |
 | 07:00 | EUR | German Trade Balance (Mar) |  | 22.4B | 21.4B |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
