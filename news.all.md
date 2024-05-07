@@ -17,23 +17,23 @@
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) | -0.4% | 0.4% | -0.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) | 0.3% | -1.0% | 3.0% |
 | 07:00 | EUR | Moderate | German Trade Balance (Mar) | 22.3B | 22.4B | 21.4B |
-| 23 min | EUR | Low | French Current Account (Mar) |  |  | 0.90B |
-| 23 min | EUR | Low | French Exports (Mar) |  |  | 51.1B |
-| 23 min | EUR | Low | French Imports (Mar) |  |  | 56.3B |
-| 23 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.0% | 0.0% |
-| 23 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 23 min | EUR | Low | French Trade Balance (Mar) |  | -5.0B | -5.2B |
-| 38 min | CHF | Low | Foreign Reserves (USD) (Apr) |  |  | 715.1B |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 50.3 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 38.3 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 41.0 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 42.4 |
-| 09:00 | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
+| 07:45 | EUR | Low | French Current Account (Mar) | 1.30B |  | 0.30B |
+| 07:45 | EUR | Low | French Exports (Mar) | 52.2B |  | 50.8B |
+| 07:45 | EUR | Low | French Imports (Mar) | 57.7B |  | 56.4B |
+| 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | 0.2% | 0.0% | 0.0% |
+| 07:45 | EUR | Low | French Trade Balance (Mar) | -5.5B | -5.0B | -5.6B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) | 720,373.0B |  | 715,625.0B |
+| 8 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 50.3 |
+| 8 min | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 38.3 |
+| 8 min | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 41.0 |
+| 8 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 8 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 42.4 |
+| 38 min | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 368.5B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
