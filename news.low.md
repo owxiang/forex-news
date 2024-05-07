@@ -5,7 +5,7 @@
 | 02:30 | AUD | Retail Sales (QoQ) (Q1) | -0.4% |  | 0.4% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Apr) |  |  | 2.4% |
 | 06:45 | CHF | Unemployment Rate s.a. (Apr) |  | 2.3% | 2.3% |
-| 07:00 | EUR | German Exports (MoM) (Mar) |  |  | -2.0% |
+| 07:00 | EUR | German Exports (MoM) (Mar) |  | 0.4% | -2.0% |
 | 07:00 | EUR | German Imports (MoM) (Mar) |  | -1.0% | 3.2% |
 | 07:45 | EUR | French Current Account (Mar) |  |  | 0.90B |
 | 07:45 | EUR | French Exports (Mar) |  |  | 51.1B |
@@ -21,8 +21,8 @@
 | 09:00 | CNY | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) |  |  | 368.5B |
-| 10:00 | EUR | Retail Sales (YoY) (Mar) |  |  | -0.7% |
 | 10:00 | EUR | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
+| 10:00 | EUR | Retail Sales (YoY) (Mar) |  |  | -0.7% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.423% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.621% |
 | 13:00 | MXN | Consumer Confidence |  |  | 47.3 |
