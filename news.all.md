@@ -11,8 +11,8 @@
 | 06:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Apr) | 2.3% |  | 2.4% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Apr) | 2.3% | 2.3% | 2.3% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.1% | 0.2% | -0.9% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Apr) | 1.1% |  | 0.4% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Apr) | 0.1% | 0.2% | -0.9% |
 | 07:00 | EUR | Low | German Exports (MoM) (Mar) | 0.9% | 0.4% | -1.6% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Mar) | -0.4% | 0.4% | -0.8% |
 | 07:00 | EUR | Low | German Imports (MoM) (Mar) | 0.3% | -1.0% | 3.0% |
@@ -22,31 +22,31 @@
 | 07:45 | EUR | Low | French Imports (Mar) | 57.7B |  | 56.4B |
 | 07:45 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) | 0.2% | 0.0% | 0.0% |
 | 07:45 | EUR | Low | French Trade Balance (Mar) | -5.5B | -5.0B | -5.6B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) | 720,373.0B |  | 715,625.0B |
-| 8 min | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) |  |  | 50.3 |
-| 8 min | EUR | Low | HCOB Germany Construction PMI (Apr) |  |  | 38.3 |
-| 8 min | EUR | Low | HCOB France Construction PMI (MoM) (Apr) |  |  | 41.0 |
-| 8 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 8 min | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) |  |  | 42.4 |
-| 38 min | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 368.5B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Apr) | 720.4B |  | 715.6B |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Apr) | 48.5 |  | 50.3 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Apr) | 37.5 |  | 38.3 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Apr) | 41.5 |  | 41.0 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Apr) | 41.9 |  | 42.4 |
+| 10 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Apr) |  | 50.4 | 50.2 |
+| 10 min | CNY | Low | FX Reserves (USD) (Apr) |  | 3.230T | 3.246T |
+| 10 min | HKD | Low | Foreign Reserves (USD) (Apr) |  |  | 423.60B |
+| 40 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 40 min | SGD | Low | Foreign Reserves USD (MoM) (Apr) |  |  | 368.5B |
+| 40 min | EUR | Low | Retail Sales (MoM) (Mar) |  | 0.6% | -0.5% |
+| 40 min | EUR | Low | Retail Sales (YoY) (Mar) |  |  | -0.7% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.423% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.621% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Apr) |  |  | 47.3 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Apr) |  |  | 47.4 |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 13:00 | USD | Low | Milk Auctions |  |  | 3,590.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism (May) |  | 44.1 | 43.2 |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Apr) |  |  | 63.0 |
 | 15:00 | CAD | Moderate | Ivey PMI (Apr) |  | 58.1 | 57.5 |
 | 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,590.0 |
 | 16:30 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.548% |
