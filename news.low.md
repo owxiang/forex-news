@@ -21,8 +21,8 @@
 | 09:30 | HKD | Foreign Reserves (USD) (Apr) | 416.40B |  | 423.50B |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (Apr) | 134,274.0 |  | 317,786.0 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) (Apr) | 366.9B |  | 368.5B |
-| 10:00 | EUR | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
 | 10:00 | EUR | Retail Sales (MoM) (Mar) | 0.8% | 0.6% | -0.3% |
+| 10:00 | EUR | Retail Sales (YoY) (Mar) | 0.7% |  | -0.5% |
 | 10:30 | CNY | FX Reserves (USD) (Apr) | 3.201T | 3.230T | 3.246T |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 3.405% |  | 3.423% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.543% |  | 3.621% |
@@ -31,5 +31,6 @@
 | 13:00 | NZD | GlobalDairyTrade Price Index | 1.8% |  | 0.1% |
 | 13:00 | USD | Milk Auctions | 3,708.0 |  | 3,590.0 |
 | 13:55 | USD | Redbook (YoY) | 6.0% |  | 5.5% |
+| 15:00 | USD | IBD/TIPP Economic Optimism (May) | 41.8 | 44.1 | 43.2 |
 | 15:00 | CAD | Ivey PMI n.s.a (Apr) | 65.7 |  | 63.0 |
-| 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 46 min | BRL | Trade Balance (Apr) |  |  | 7.48B |
