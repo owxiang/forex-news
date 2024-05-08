@@ -5,14 +5,14 @@
 | 03:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.857% |  | 0.753% |
 | 05:00 | IDR | Low | FX Reserves (USD) (Apr) | 136.20B |  | 140.40B |
-| 45 min | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | -0.6% | 2.1% |
-| 45 min | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
-| 45 min | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
-| 45 min | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 62.32B |
-| 45 min | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
-| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) | -0.4% | -0.6% | 1.7% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) | -3.35% |  | -5.16% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) | 5.4% |  | -1.0% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) | 61.80B |  | 62.32B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
+| 26 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 41 min | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
+| 41 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |

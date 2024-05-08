@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 05:00 | IDR | FX Reserves (USD) (Apr) | 136.20B |  | 140.40B |
-| 45 min | EUR | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
-| 45 min | NOK | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
-| 45 min | ZAR | Foreign Reserves (USD) (Apr) |  |  | 62.32B |
-| 45 min | ZAR | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
-| 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
+| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -3.35% |  | -5.16% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Mar) | 5.4% |  | -1.0% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 61.80B |  | 62.32B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
+| 26 min | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 41 min | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.29% |
