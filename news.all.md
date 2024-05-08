@@ -48,4 +48,4 @@
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.747B |  | -0.905B |
 | 19:00 | BRL | Low | Trade Balance (Apr) | 9.04B |  | 7.48B |
-| 44 min | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.75% |
+| 14 min | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.75% |
