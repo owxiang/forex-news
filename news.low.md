@@ -35,5 +35,5 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (May) | 61.00 |  | 59.82 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 51.69 |  | 53.31 |
 | 16:45 | USD | Fed Collins Speaks |  |  |  |
-| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
+| 16 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 46 min | BRL | Trade Balance (Apr) |  |  | 7.48B |

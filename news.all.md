@@ -44,7 +44,7 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) | 51.69 |  | 53.31 |
 | 16:45 | USD | Low | Fed Collins Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 4.2% | 3.3% | 3.3% |
-| 39 min | USD | High | 10-Year Note Auction |  |  | 4.560% |
-| 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
+| 18:00 | USD | High | 10-Year Note Auction | 4.483% |  | 4.560% |
+| 16 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 46 min | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.75% |
