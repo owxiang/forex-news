@@ -12,8 +12,8 @@
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) | -1.2% |  | 1.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Apr) | 7.92% |  | 7.92% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.18% |  | 7.29% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 2.6% |  | -2.3% |
@@ -21,8 +21,8 @@
 | 12:00 | USD | Low | Mortgage Market Index | 197.1 |  | 192.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 477.5 |  | 456.9 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 0.72% |  | -0.30% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) | 0.0% | -0.1% | 1.0% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) | 0.0% | -0.1% | 1.0% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Apr) | 13.5% |  | 3.2% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) | 17.6% |  | 13.6% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) | -0.4% | -0.4% | 0.5% |
@@ -47,5 +47,5 @@
 | 18:00 | USD | High | 10-Year Note Auction | 4.483% |  | 4.560% |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.747B |  | -0.905B |
-| 19:00 | BRL | Low | Trade Balance (Apr) | 9.04B |  | 7.48B |
+| 19:00 | BRL | Low | Trade Balance (Apr) | 9.04B |  | 7.23B |
 | 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.75% |
