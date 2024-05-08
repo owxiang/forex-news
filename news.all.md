@@ -15,14 +15,14 @@
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) (Apr) | 7.92% |  | 7.92% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.29% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 141.7 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 192.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 456.9 |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.30% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) |  | 5.2% | 8.2% |
+| 42 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.29% |
+| 42 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
+| 42 min | USD | Low | MBA Purchase Index |  |  | 141.7 |
+| 42 min | USD | Low | Mortgage Market Index |  |  | 192.1 |
+| 42 min | USD | Low | Mortgage Refinance Index |  |  | 456.9 |
+| 42 min | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.30% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) |  | -0.1% | 1.0% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) |  | 5.2% | 8.2% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Apr) |  |  | 3.2% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 13.6% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |

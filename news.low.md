@@ -11,12 +11,12 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | -1.2% |  | 1.3% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.29% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
-| 12:00 | USD | MBA Purchase Index |  |  | 141.7 |
-| 12:00 | USD | Mortgage Market Index |  |  | 192.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 456.9 |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.30% |
+| 42 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.29% |
+| 42 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
+| 42 min | USD | MBA Purchase Index |  |  | 141.7 |
+| 42 min | USD | Mortgage Market Index |  |  | 192.1 |
+| 42 min | USD | Mortgage Refinance Index |  |  | 456.9 |
+| 42 min | BRL | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.30% |
 | 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | 3.2% |
 | 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 13.6% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
