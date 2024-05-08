@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 05:00 | IDR | FX Reserves (USD) (Apr) | 136.20B |  | 140.40B |
-| 07:00 | EUR | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Apr) |  |  | 62.32B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
+| 45 min | EUR | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
+| 45 min | NOK | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
+| 45 min | ZAR | Foreign Reserves (USD) (Apr) |  |  | 62.32B |
+| 45 min | ZAR | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
@@ -22,8 +22,6 @@
 | 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 13.6% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 15:00 | USD | Milk Auctions |  |  | 3,590.0 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.536M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.271M |
@@ -41,5 +39,4 @@
 | 16:45 | USD | Fed Collins Speaks |  |  |  |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.905B |
-| 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
 | 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |

@@ -5,11 +5,11 @@
 | 03:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 0.857% |  | 0.753% |
 | 05:00 | IDR | Low | FX Reserves (USD) (Apr) | 136.20B |  | 140.40B |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | -0.6% | 2.1% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 62.32B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
+| 45 min | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | -0.6% | 2.1% |
+| 45 min | EUR | Low | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
+| 45 min | NOK | Low | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
+| 45 min | ZAR | Low | Foreign Reserves (USD) (Apr) |  |  | 62.32B |
+| 45 min | ZAR | Low | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -28,8 +28,6 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 13.6% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 0.1% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,590.0 |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.430M | 7.265M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.536M |
@@ -50,6 +48,5 @@
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.560% |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.905B |
-| 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 19:00 | BRL | Low | Trade Balance (Apr) |  |  | 7.48B |
 | 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.75% |
