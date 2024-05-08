@@ -2,8 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 36 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
-| 36 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
 | 03:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.753% |
 | 05:00 | IDR | Low | FX Reserves (USD) (Apr) |  |  | 140.40B |
@@ -15,8 +13,8 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.29% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
@@ -24,8 +22,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 192.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 456.9 |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) |  |  | -0.30% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) |  | -0.1% | 1.0% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) |  | 5.2% | 8.2% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) |  | -0.1% | 1.0% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Apr) |  |  | 3.2% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 13.6% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
