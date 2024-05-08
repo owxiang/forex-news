@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 0.753% |
+| 16 min | JPY | 10-Year JGB Auction |  |  | 0.753% |
 | 07:00 | EUR | German Industrial Production (MoM) (Mar) |  | -0.6% | 2.1% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
