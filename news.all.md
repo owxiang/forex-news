@@ -10,11 +10,10 @@
 | 07:00 | NOK | Low | Manufacturing Production (MoM) (Mar) | 5.4% |  | -1.0% |
 | 07:00 | ZAR | Low | Foreign Reserves (USD) (Apr) | 61.80B |  | 62.32B |
 | 07:00 | ZAR | Low | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
-| 26 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 41 min | EUR | Low | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
-| 41 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Mar) | -1.2% |  | 1.3% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 44 min | EUR | Low | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
+| 44 min | EUR | Low | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.29% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.3% |
