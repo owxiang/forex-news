@@ -1,40 +1,41 @@
-## 08 May 2024 - Low Impact Forex News
+## 09 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 05:00 | IDR | FX Reserves (USD) (Apr) | 136.20B |  | 140.40B |
-| 07:00 | EUR | German Industrial Production (YoY) (Mar) | -3.35% |  | -5.16% |
-| 07:00 | NOK | Manufacturing Production (MoM) (Mar) | 5.4% |  | -1.0% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 61.80B |  | 62.32B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | -1.2% |  | 1.3% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.18% |  | 7.29% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 2.6% |  | -2.3% |
-| 12:00 | USD | MBA Purchase Index | 144.2 |  | 141.7 |
-| 12:00 | USD | Mortgage Market Index | 197.1 |  | 192.1 |
-| 12:00 | USD | Mortgage Refinance Index | 477.5 |  | 456.9 |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) | 0.72% |  | -0.30% |
-| 14:00 | BRL | Auto Production (MoM) (Apr) | 13.5% |  | 3.2% |
-| 14:00 | BRL | Auto Sales (MoM) (Apr) | 17.6% |  | 13.6% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Mar) | -0.4% | -0.4% | 0.5% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) | -1.3% |  | 2.0% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.307M |  | -0.230M |
-| 15:30 | USD | Crude Oil Imports | -0.353M |  | 1.536M |
-| 15:30 | USD | Distillate Fuel Production | 0.275M |  | -0.271M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 0.560M | -1.000M | -0.732M |
-| 15:30 | USD | Gasoline Production | 0.099M |  | 0.254M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.285M |  | -0.179M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -1.0% |
-| 15:30 | USD | Gasoline Inventories | 0.915M | -1.180M | 0.344M |
-| 16:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (May) | 54.31 |  | 53.44 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (May) | 47.25 |  | 48.02 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (May) | 61.00 |  | 59.82 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 51.69 |  | 53.31 |
-| 16:45 | USD | Fed Collins Speaks |  |  |  |
-| 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | 1.747B |  | -0.905B |
-| 19:00 | BRL | Trade Balance (Apr) | 9.04B |  | 7.48B |
+| 00:00 | KRW | Current Account (Mar) |  |  | 6.86B |
+| 13 min | JPY | Average Cash Earnings (YoY) |  | 1.5% | 2.0% |
+| 13 min | JPY | Overall wage income of employees (Mar) |  |  | 1.8% |
+| 13 min | JPY | Overtime Pay (YoY) (Mar) |  |  | -1.00% |
+| 33 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 33 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
+| 33 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
+| 33 min | JPY | Foreign Reserves (USD) |  |  | 1,290.6B |
+| 02:30 | AUD | Private House Approvals |  | 3.8% | 10.7% |
+| 04:00 | CNY | Trade Balance (Apr) |  | 510.00B | 415.86B |
+| 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
+| 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |
+| 06:00 | JPY | Leading Index |  | 111.3 | 111.8 |
+| 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.546% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 50.2 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 45.62 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 47.38 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 44.53 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.67 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 44.07 |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
+| 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
+| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
+| 13:00 | MXN | PPI (YoY) (Apr) |  |  | 2.00% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
+| 15:00 | CAD | BoC Financial System Review |  |  |  |
+| 15:30 | USD | Natural Gas Storage |  | 87B | 59B |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
+| 17:33 | CNY | Exports (Apr) |  |  | -3.80M |
+| 17:33 | CNY | Imports (Apr) |  |  | 2.00M |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |

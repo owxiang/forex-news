@@ -1,13 +1,27 @@
-## 08 May 2024 - Moderate Impact Forex News
+## 09 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 04:35 | JPY | 10-Year JGB Auction | 0.857% |  | 0.753% |
-| 07:00 | EUR | German Industrial Production (MoM) (Mar) | -0.4% | -0.6% | 1.7% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) (Apr) | 7.92% |  | 7.92% |
-| 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.0% | -0.1% | 1.0% |
-| 13:00 | BRL | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 1.880M |  | 1.089M |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 4.2% | 3.3% | 3.3% |
-| 22:00 | BRL | Interest Rate Decision | 10.50% | 10.50% | 10.75% |
+| 00:01 | GBP | RICS House Price Balance (Apr) | -5% | -2% | -5% |
+| 02:30 | AUD | Building Approvals (MoM) |  | 1.9% | -1.9% |
+| 04:00 | CNY | Exports (YoY) |  | 1.0% | -7.5% |
+| 04:00 | CNY | Imports (YoY) |  | 5.4% | -1.9% |
+| 04:00 | CNY | Trade Balance (USD) |  | 81.40B | 58.55B |
+| 08:55 | EUR | ECB McCaul Speaks |  |  |  |
+| 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
+| 12:00 | GBP | BoE MPC vote cut (Apr) |  | 0 | 1 |
+| 12:00 | GBP | BoE MPC vote hike (Apr) |  | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 9 | 8 |
+| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
+| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 13:00 | MXN | CPI (YoY) (Apr) |  | 4.63% | 4.42% |
+| 13:00 | MXN | CPI (MoM) (Apr) |  | 0.19% | 0.29% |
+| 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,774K |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 17:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 20:00 | MXN | Interest Rate Decision (May) |  | 11.00% | 11.00% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,362B |
+| 23:30 | NZD | Business NZ PMI (Apr) |  |  | 47.1 |

@@ -1,6 +1,7 @@
-## 08 May 2024 - High Impact Forex News
+## 09 May 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:30 | USD | Crude Oil Inventories | -1.362M | -1.430M | 7.265M |
-| 18:00 | USD | 10-Year Note Auction | 4.483% |  | 4.560% |
+| 12:00 | GBP | BoE Interest Rate Decision (Apr) |  | 5.25% | 5.25% |
+| 13:30 | USD | Initial Jobless Claims |  | 212K | 208K |
+| 18:00 | USD | 30-Year Bond Auction |  |  | 4.671% |
