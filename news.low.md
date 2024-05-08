@@ -37,4 +37,4 @@
 | 16:45 | USD | Fed Collins Speaks |  |  |  |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
 | 18:30 | BRL | Foreign Exchange Flows | 1.747B |  | -0.905B |
-| 19:00 | BRL | Trade Balance (Apr) | 9.04B |  | 7.23B |
+| 19:00 | BRL | Trade Balance (Apr) | 9.04B |  | 7.48B |
