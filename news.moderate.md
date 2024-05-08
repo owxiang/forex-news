@@ -6,8 +6,8 @@
 | 07:00 | EUR | German Industrial Production (MoM) (Mar) | -0.4% | -0.6% | 1.7% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) (Apr) | 7.92% |  | 7.92% |
-| 13:00 | BRL | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.0% | -0.1% | 1.0% |
+| 13:00 | BRL | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.880M |  | 1.089M |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 4.2% | 3.3% | 3.3% |
 | 22:00 | BRL | Interest Rate Decision |  | 10.50% | 10.75% |
