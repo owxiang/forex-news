@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 52 min | AUD | RBA Chart Pack Release |  |  |  |
+| 12 min | AUD | RBA Chart Pack Release |  |  |  |
 | 05:00 | IDR | FX Reserves (USD) (Apr) |  |  | 140.40B |
 | 07:00 | EUR | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |

@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 52 min | AUD | Low | RBA Chart Pack Release |  |  |  |
+| 12 min | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.753% |
 | 05:00 | IDR | Low | FX Reserves (USD) (Apr) |  |  | 140.40B |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Mar) |  | -0.6% | 2.1% |
