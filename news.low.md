@@ -17,10 +17,10 @@
 | 12:00 | USD | Mortgage Market Index | 197.1 |  | 192.1 |
 | 12:00 | USD | Mortgage Refinance Index | 477.5 |  | 456.9 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) | 0.72% |  | -0.30% |
-| 29 min | BRL | Auto Production (MoM) (Apr) |  |  | 3.2% |
-| 29 min | BRL | Auto Sales (MoM) (Apr) |  |  | 13.6% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
+| 14:00 | BRL | Auto Production (MoM) (Apr) | 13.5% |  | 3.2% |
+| 14:00 | BRL | Auto Sales (MoM) (Apr) | 17.6% |  | 13.6% |
+| 41 min | USD | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
+| 41 min | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
 | 15:30 | USD | Crude Oil Imports |  |  | 1.536M |
 | 15:30 | USD | Distillate Fuel Production |  |  | -0.271M |

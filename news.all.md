@@ -23,10 +23,10 @@
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Apr) | 0.72% |  | -0.30% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Mar) | 0.0% | -0.1% | 1.0% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
-| 29 min | BRL | Low | Auto Production (MoM) (Apr) |  |  | 3.2% |
-| 29 min | BRL | Low | Auto Sales (MoM) (Apr) |  |  | 13.6% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
+| 14:00 | BRL | Low | Auto Production (MoM) (Apr) | 13.5% |  | 3.2% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Apr) | 17.6% |  | 13.6% |
+| 41 min | USD | Low | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
+| 41 min | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.430M | 7.265M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 1.536M |
