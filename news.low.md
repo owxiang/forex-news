@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:30 | AUD | RBA Chart Pack Release |  |  |  |
+| 52 min | AUD | RBA Chart Pack Release |  |  |  |
 | 05:00 | IDR | FX Reserves (USD) (Apr) |  |  | 140.40B |
 | 07:00 | EUR | German Industrial Production (YoY) (Mar) |  |  | -4.76% |
 | 07:00 | NOK | Manufacturing Production (MoM) (Mar) |  |  | -1.1% |
@@ -10,8 +10,8 @@
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) |  |  | 57.513B |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) |  |  | 1.5% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) |  |  | 2.4% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) |  | 0.2% | 0.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.29% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.3% |
 | 12:00 | USD | MBA Purchase Index |  |  | 141.7 |
