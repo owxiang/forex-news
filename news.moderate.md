@@ -8,5 +8,5 @@
 | 10:00 | GBP | Mortgage Rate (GBP) (Apr) | 7.92% |  | 7.92% |
 | 13:00 | BRL | Retail Sales (MoM) (Mar) | 0.0% | -0.1% | 1.0% |
 | 13:00 | BRL | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.089M |
+| 16 min | USD | Cushing Crude Oil Inventories |  |  | 1.089M |
 | 22:00 | BRL | Interest Rate Decision |  | 10.50% | 10.75% |

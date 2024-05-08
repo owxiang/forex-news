@@ -25,24 +25,24 @@
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Mar) | 5.7% | 5.2% | 8.1% |
 | 14:00 | BRL | Low | Auto Production (MoM) (Apr) | 13.5% |  | 3.2% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Apr) | 17.6% |  | 13.6% |
-| 41 min | USD | Low | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
-| 41 min | USD | Low | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.430M | 7.265M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 1.536M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.089M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.271M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.000M | -0.732M |
-| 15:30 | USD | Low | Gasoline Production |  |  | 0.254M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.179M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
-| 15:30 | USD | Low | Gasoline Inventories |  | -1.180M | 0.344M |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 59B |
-| 16:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
-| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 48.02 |
-| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 59.82 |
-| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) |  |  | 53.31 |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (Mar) | -0.4% | -0.4% | 0.5% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Mar) | -1.3% |  | 2.0% |
+| 16 min | USD | High | Crude Oil Inventories |  | -1.430M | 7.265M |
+| 16 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
+| 16 min | USD | Low | Crude Oil Imports |  |  | 1.536M |
+| 16 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.089M |
+| 16 min | USD | Low | Distillate Fuel Production |  |  | -0.271M |
+| 16 min | USD | Low | EIA Weekly Distillates Stocks |  | -1.000M | -0.732M |
+| 16 min | USD | Low | Gasoline Production |  |  | 0.254M |
+| 16 min | USD | Low | Heating Oil Stockpiles |  |  | -0.179M |
+| 16 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.0% |
+| 16 min | USD | Low | Gasoline Inventories |  | -1.180M | 0.344M |
+| 16 min | USD | Low | Natural Gas Storage |  |  | 59B |
+| 46 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 46 min | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
+| 46 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 48.02 |
+| 46 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 59.82 |
+| 46 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (May) |  |  | 53.31 |
 | 16:45 | USD | Low | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction |  |  | 4.560% |
 | 18:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
