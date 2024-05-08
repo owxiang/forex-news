@@ -9,16 +9,16 @@
 | 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 61.80B |  | 62.32B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | -1.2% |  | 1.3% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.18% |  | 7.29% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 2.6% |  | -2.3% |
 | 12:00 | USD | MBA Purchase Index | 144.2 |  | 141.7 |
 | 12:00 | USD | Mortgage Market Index | 197.1 |  | 192.1 |
 | 12:00 | USD | Mortgage Refinance Index | 477.5 |  | 456.9 |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Apr) | 0.72% |  | -0.30% |
-| 14:00 | BRL | Auto Production (MoM) (Apr) |  |  | 3.2% |
-| 14:00 | BRL | Auto Sales (MoM) (Apr) |  |  | 13.6% |
+| 29 min | BRL | Auto Production (MoM) (Apr) |  |  | 3.2% |
+| 29 min | BRL | Auto Sales (MoM) (Apr) |  |  | 13.6% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Mar) |  | -0.4% | 0.5% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Mar) |  |  | 2.3% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.230M |
