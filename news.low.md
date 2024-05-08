@@ -9,8 +9,8 @@
 | 07:00 | ZAR | Foreign Reserves (USD) (Apr) | 61.80B |  | 62.32B |
 | 07:00 | ZAR | Net FX Reserves (USD) (Apr) | 57.851B |  | 57.513B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Mar) | -1.2% |  | 1.3% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (Mar) | 0.0% | 0.2% | 0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (Mar) | 2.0% |  | 2.4% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.18% |  | 7.29% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 2.6% |  | -2.3% |
 | 12:00 | USD | MBA Purchase Index | 144.2 |  | 141.7 |
@@ -30,10 +30,10 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.0% |  | -1.0% |
 | 15:30 | USD | Gasoline Inventories | 0.915M | -1.180M | 0.344M |
 | 16:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (May) | 54.31 |  | 53.44 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (May) | 47.25 |  | 48.02 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (May) | 61.00 |  | 59.82 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (May) | 51.69 |  | 53.31 |
-| 28 min | USD | Fed Collins Speaks |  |  |  |
+| 16:45 | USD | Fed Collins Speaks |  |  |  |
 | 18:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.905B |
 | 19:00 | BRL | Trade Balance (Apr) |  |  | 7.48B |
