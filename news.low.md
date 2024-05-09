@@ -23,12 +23,12 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) | 46.04 |  | 44.53 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) | 48.62 |  | 49.67 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) | 45.27 |  | 44.07 |
-| 41 min | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
-| 41 min | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
-| 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
-| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
-| 13:00 | MXN | PPI (YoY) (Apr) |  |  | 2.00% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Mar) | -2.2% |  | -1.0% |
+| 46 min | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
+| 46 min | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
+| 46 min | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
+| 46 min | MXN | PPI (YoY) (Apr) |  |  | 2.00% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 87B | 59B |
