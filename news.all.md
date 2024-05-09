@@ -60,6 +60,6 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.635% |  | 4.671% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (May) | 11.00% | 11.00% | 11.00% |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,362B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |
+| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,362B |
+| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Apr) |  |  | 47.1 |
