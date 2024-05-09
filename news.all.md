@@ -36,25 +36,25 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) | 7 | 9 | 8 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Apr) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | -1.0% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.21% | 0.24% | 0.44% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.20% | 0.19% | 0.29% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 4.65% | 4.63% | 4.42% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 4.37% | 4.40% | 4.55% |
-| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.60% |  | 0.80% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) | 2.60% |  | 2.00% |
+| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.60% |  | 0.80% |
 | 13:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,785K | 1,790K | 1,768K |
 | 13:30 | USD | High | Initial Jobless Claims | 231K | 212K | 209K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.00K |  | 210.25K |
 | 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 40 min | CAD | Low | BoC Financial System Review |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 87B | 59B |
-| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
-| 16:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
+| 15 min | USD | Low | Natural Gas Storage |  | 87B | 59B |
+| 45 min | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
+| 45 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 17:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |

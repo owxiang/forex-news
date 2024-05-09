@@ -19,7 +19,7 @@
 | 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,785K | 1,790K | 1,768K |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 45 min | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (May) |  | 11.00% | 11.00% |
