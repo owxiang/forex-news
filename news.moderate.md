@@ -1,27 +1,40 @@
-## 09 May 2024 - Moderate Impact Forex News
+## 10 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (Apr) | -5% | -2% | -5% |
-| 02:30 | AUD | Building Approvals (MoM) | 1.9% | 1.9% | -0.9% |
-| 04:00 | CNY | Exports (YoY) (Apr) | 1.5% | 1.0% | -7.5% |
-| 04:00 | CNY | Imports (YoY) (Apr) | 8.4% | 5.4% | -1.9% |
-| 04:00 | CNY | Trade Balance (USD) (Apr) | 72.35B | 81.40B | 58.55B |
-| 08:55 | EUR | ECB McCaul Speaks |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Apr) | 2 | 0 | 1 |
-| 12:00 | GBP | BoE MPC vote hike (Apr) | 0 | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Apr) | 7 | 9 | 8 |
-| 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 12:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Apr) | 4.65% | 4.63% | 4.42% |
-| 13:00 | MXN | CPI (MoM) (Apr) | 0.20% | 0.19% | 0.29% |
-| 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,785K | 1,790K | 1,768K |
-| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 16:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 17:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 20:00 | MXN | Interest Rate Decision (May) | 11.00% | 11.00% | 11.00% |
-| 21:30 | USD | Fed's Balance Sheet | 7,353B |  | 7,362B |
-| 15 min | NZD | Business NZ PMI (Apr) |  |  | 47.1 |
+| 14 min | JPY | Household Spending (YoY) (Mar) |  | -2.3% | -0.5% |
+| 14 min | JPY | Household Spending (MoM) (Mar) |  | -0.3% | 1.4% |
+| 34 min | JPY | Adjusted Current Account (Mar) |  | 2.04T | 1.37T |
+| 34 min | JPY | Current Account n.s.a. (Mar) |  | 3.489T | 2.644T |
+| 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 0.2% | 1.4% |
+| 07:00 | GBP | Industrial Production (MoM) (Mar) |  | -0.5% | 1.1% |
+| 07:00 | GBP | Manufacturing Production (MoM) (Mar) |  | -0.5% | 1.2% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (Mar) |  | 0.4% | 0.2% |
+| 07:00 | GBP | Trade Balance (Mar) |  | -14.50B | -14.21B |
+| 07:00 | GBP | Trade Balance Non-EU (Mar) |  |  | -2.90B |
+| 09:45 | EUR | ECB's Elderson Speaks |  |  |  |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.4% |
+| 13:00 | BRL | CPI (YoY) (Apr) |  | 3.66% | 3.93% |
+| 13:30 | CAD | Employment Change (Apr) |  | 20.9K | -2.2K |
+| 13:30 | CAD | Unemployment Rate (Apr) |  | 6.2% | 6.1% |
+| 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 3.2% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (May) |  |  | 76.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 76.0 | 77.2 |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 605 |
+| 18:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -29.0K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 265.5K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 204.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.8K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | 43.1K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -83.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | 0.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -168.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | -6.8K |
