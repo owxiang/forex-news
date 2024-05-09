@@ -18,7 +18,7 @@
 | 13:00 | MXN | CPI (YoY) (Apr) | 4.65% | 4.63% | 4.42% |
 | 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims | 1,785K | 1,790K | 1,768K |
-| 45 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
