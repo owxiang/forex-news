@@ -11,10 +11,12 @@
 | 00:50 | JPY | Low | Foreign Reserves (USD) | 1,279.0B |  | 1,290.6B |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) | 1.9% | 1.9% | -0.9% |
 | 02:30 | AUD | Low | Private House Approvals | 3.8% | 3.8% | 12.4% |
-| 30 min | CNY | Low | Trade Balance (Apr) |  | 510.00B | 415.86B |
-| 30 min | CNY | Moderate | Exports (YoY) |  | 1.0% | -7.5% |
-| 30 min | CNY | Moderate | Imports (YoY) |  | 5.4% | -1.9% |
-| 30 min | CNY | Moderate | Trade Balance (USD) |  | 81.40B | 58.55B |
+| 04:11 | CNY | Low | Exports (Apr) | 5.10M |  | -3.80M |
+| 04:11 | CNY | Low | Imports (Apr) | 12.20M |  | 2.00M |
+| 04:11 | CNY | Low | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
+| 04:11 | CNY | Moderate | Exports (YoY) (Apr) | 1.5% | 1.0% | -7.5% |
+| 04:11 | CNY | Moderate | Imports (YoY) (Apr) | 8.4% | 5.4% | -1.9% |
+| 04:11 | CNY | Moderate | Trade Balance (USD) (Apr) | 72.35B | 81.40B | 58.55B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
 | 06:00 | JPY | Low | Leading Index |  | 111.3 | 111.8 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) |  |  | 2.3% |
@@ -55,8 +57,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.275% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 17:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 17:33 | CNY | Low | Exports (Apr) |  |  | -3.80M |
-| 17:33 | CNY | Low | Imports (Apr) |  |  | 2.00M |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.671% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (May) |  | 11.00% | 11.00% |

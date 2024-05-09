@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Apr) | -5% | -2% | -5% |
 | 02:30 | AUD | Building Approvals (MoM) | 1.9% | 1.9% | -0.9% |
-| 30 min | CNY | Exports (YoY) |  | 1.0% | -7.5% |
-| 30 min | CNY | Imports (YoY) |  | 5.4% | -1.9% |
-| 30 min | CNY | Trade Balance (USD) |  | 81.40B | 58.55B |
+| 04:11 | CNY | Exports (YoY) (Apr) | 1.5% | 1.0% | -7.5% |
+| 04:11 | CNY | Imports (YoY) (Apr) | 8.4% | 5.4% | -1.9% |
+| 04:11 | CNY | Trade Balance (USD) (Apr) | 72.35B | 81.40B | 58.55B |
 | 08:55 | EUR | ECB McCaul Speaks |  |  |  |
 | 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
 | 12:00 | GBP | BoE MPC vote cut (Apr) |  | 0 | 1 |

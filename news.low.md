@@ -9,7 +9,9 @@
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Reserves (USD) | 1,279.0B |  | 1,290.6B |
 | 02:30 | AUD | Private House Approvals | 3.8% | 3.8% | 12.4% |
-| 30 min | CNY | Trade Balance (Apr) |  | 510.00B | 415.86B |
+| 04:11 | CNY | Exports (Apr) | 5.10M |  | -3.80M |
+| 04:11 | CNY | Imports (Apr) | 12.20M |  | 2.00M |
+| 04:11 | CNY | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
 | 06:00 | JPY | Leading Index |  | 111.3 | 111.8 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |
@@ -34,6 +36,4 @@
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.275% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
-| 17:33 | CNY | Exports (Apr) |  |  | -3.80M |
-| 17:33 | CNY | Imports (Apr) |  |  | 2.00M |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |
