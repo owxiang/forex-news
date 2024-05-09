@@ -14,8 +14,8 @@
 | 04:00 | CNY | Imports (Apr) | 12.20M |  | 2.00M |
 | 04:00 | CNY | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
-| 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
+| 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
 | 10:10 | EUR | Spanish 5-Year Bonos Auction | 2.974% |  | 2.848% |
 | 10:10 | EUR | Spanish 8-Year Obligacion Auction | 3.100% |  | 2.976% |
 | 10:40 | EUR | Italian 12-Month BOT Auction | 3.545% |  | 3.533% |
