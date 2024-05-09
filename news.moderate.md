@@ -21,7 +21,7 @@
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 16:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 17:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 46 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:00 | MXN | Interest Rate Decision (May) |  | 11.00% | 11.00% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,362B |
 | 23:30 | NZD | Business NZ PMI (Apr) |  |  | 47.1 |

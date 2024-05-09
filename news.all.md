@@ -57,8 +57,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.275% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 17:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 39 min | USD | High | 30-Year Bond Auction |  |  | 4.671% |
-| 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.635% |  | 4.671% |
+| 46 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (May) |  | 11.00% | 11.00% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,362B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |
