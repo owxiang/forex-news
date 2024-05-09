@@ -22,6 +22,8 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
 | 06:00 | JPY | Low | Leading Index | 111.4 | 111.3 | 112.1 |
 | 08:55 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10:10 | EUR | Low | Spanish 5-Year Bonos Auction | 2.974% |  | 2.848% |
+| 10:10 | EUR | Low | Spanish 8-Year Obligacion Auction | 3.100% |  | 2.976% |
 | 10:40 | EUR | Low | Italian 12-Month BOT Auction | 3.545% |  | 3.533% |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) | 52.8 |  | 50.2 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) | 43.83 |  | 45.62 |
@@ -34,21 +36,21 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) | 7 | 9 | 8 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Apr) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) | -2.2% |  | -1.0% |
-| 16 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 16 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 46 min | MXN | Low | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
-| 46 min | MXN | Moderate | CPI (YoY) (Apr) |  | 4.63% | 4.42% |
-| 46 min | MXN | Moderate | CPI (MoM) (Apr) |  | 0.19% | 0.29% |
-| 46 min | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
-| 46 min | MXN | Low | PPI (MoM) (Apr) |  |  | 0.80% |
-| 46 min | MXN | Low | PPI (YoY) (Apr) |  |  | 2.00% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
+| 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.21% | 0.24% | 0.44% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.20% | 0.19% | 0.29% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 4.65% | 4.63% | 4.42% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 4.37% | 4.40% | 4.55% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) | 2.60% |  | 2.00% |
+| 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.60% |  | 0.80% |
 | 13:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,774K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 212K | 208K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 210.00K |
-| 14:15 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,785K | 1,790K | 1,768K |
+| 13:30 | USD | High | Initial Jobless Claims | 231K | 212K | 209K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 215.00K |  | 210.25K |
+| 45 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 15:00 | CAD | Low | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 87B | 59B |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |

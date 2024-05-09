@@ -16,6 +16,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
 | 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
+| 10:10 | EUR | Spanish 5-Year Bonos Auction | 2.974% |  | 2.848% |
+| 10:10 | EUR | Spanish 8-Year Obligacion Auction | 3.100% |  | 2.976% |
 | 10:40 | EUR | Italian 12-Month BOT Auction | 3.545% |  | 3.533% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) | 52.8 |  | 50.2 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) | 43.83 |  | 45.62 |
@@ -23,13 +25,13 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) | 46.04 |  | 44.53 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) | 48.62 |  | 49.67 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) | 45.27 |  | 44.07 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) | -2.2% |  | -1.0% |
-| 46 min | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
-| 46 min | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
-| 46 min | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
-| 46 min | MXN | PPI (YoY) (Apr) |  |  | 2.00% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) | -6.4% |  | 4.0% |
+| 13:00 | MXN | Core CPI (MoM) (Apr) | 0.21% | 0.24% | 0.44% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Apr) | 4.37% | 4.40% | 4.55% |
+| 13:00 | MXN | PPI (YoY) (Apr) | 2.60% |  | 2.00% |
+| 13:00 | MXN | PPI (MoM) (Apr) | 0.60% |  | 0.80% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 215.00K |  | 210.25K |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 87B | 59B |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (May) |  |  | 53.44 |
