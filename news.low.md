@@ -16,19 +16,19 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
 | 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
-| 20 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 50.2 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 45.62 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 47.38 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 44.53 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.67 |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 44.07 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
+| 13 min | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
+| 43 min | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 50.2 |
+| 43 min | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 45.62 |
+| 43 min | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 47.38 |
+| 43 min | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 44.53 |
+| 43 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.67 |
+| 43 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 44.07 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
-| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
 | 13:00 | MXN | PPI (YoY) (Apr) |  |  | 2.00% |
+| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 87B | 59B |
