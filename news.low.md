@@ -2,19 +2,19 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Current Account (Mar) |  |  | 6.86B |
-| 13 min | JPY | Average Cash Earnings (YoY) |  | 1.5% | 2.0% |
-| 13 min | JPY | Overall wage income of employees (Mar) |  |  | 1.8% |
-| 13 min | JPY | Overtime Pay (YoY) (Mar) |  |  | -1.00% |
-| 33 min | JPY | BoJ Summary of Opinions |  |  |  |
-| 33 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
-| 33 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 33 min | JPY | Foreign Reserves (USD) |  |  | 1,290.6B |
-| 02:30 | AUD | Private House Approvals |  | 3.8% | 10.7% |
+| 00:00 | KRW | Current Account (Mar) | 6.93B |  | 6.86B |
+| 00:30 | JPY | Average Cash Earnings (YoY) | 0.6% | 1.5% | 1.4% |
+| 00:30 | JPY | Overall wage income of employees (Mar) | 0.6% |  | 1.4% |
+| 00:30 | JPY | Overtime Pay (YoY) (Mar) | -1.50% |  | -1.60% |
+| 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Foreign Reserves (USD) | 1,279.0B |  | 1,290.6B |
+| 19 min | AUD | Private House Approvals |  | 3.8% | 10.7% |
+| 49 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
+| 49 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
 | 04:00 | CNY | Trade Balance (Apr) |  | 510.00B | 415.86B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
-| 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |
 | 06:00 | JPY | Leading Index |  | 111.3 | 111.8 |
+| 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.546% |
@@ -24,8 +24,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 44.53 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.67 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 44.07 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
 | 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |

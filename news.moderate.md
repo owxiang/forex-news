@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Apr) | -5% | -2% | -5% |
-| 02:30 | AUD | Building Approvals (MoM) |  | 1.9% | -1.9% |
+| 19 min | AUD | Building Approvals (MoM) |  | 1.9% | -1.9% |
 | 04:00 | CNY | Exports (YoY) |  | 1.0% | -7.5% |
 | 04:00 | CNY | Imports (YoY) |  | 5.4% | -1.9% |
 | 04:00 | CNY | Trade Balance (USD) |  | 81.40B | 58.55B |
@@ -14,8 +14,8 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 9 | 8 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 12:30 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 13:00 | MXN | CPI (YoY) (Apr) |  | 4.63% | 4.42% |
 | 13:00 | MXN | CPI (MoM) (Apr) |  | 0.19% | 0.29% |
+| 13:00 | MXN | CPI (YoY) (Apr) |  | 4.63% | 4.42% |
 | 13:15 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,790K | 1,774K |
 | 14:15 | GBP | BoE Gov Bailey Speaks |  |  |  |
