@@ -8,16 +8,16 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Mar) | -1.50% |  | -1.60% |
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Reserves (USD) | 1,279.0B |  | 1,290.6B |
+| 01:40 | IDR | Motorbike Sales (YoY) | 18.30% |  | -7.80% |
 | 02:30 | AUD | Private House Approvals | 3.8% | 3.8% | 12.4% |
-| 04:11 | CNY | Exports (Apr) | 5.10M |  | -3.80M |
-| 04:11 | CNY | Imports (Apr) | 12.20M |  | 2.00M |
-| 04:11 | CNY | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
-| 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
-| 06:00 | JPY | Leading Index |  | 111.3 | 111.8 |
-| 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |
+| 04:00 | CNY | Exports (Apr) | 5.10M |  | -3.80M |
+| 04:00 | CNY | Imports (Apr) | 12.20M |  | 2.00M |
+| 04:00 | CNY | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
+| 38 min | JPY | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
+| 38 min | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |
+| 38 min | JPY | Leading Index |  | 111.3 | 111.8 |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.546% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 50.2 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 45.62 |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 47.38 |
@@ -28,8 +28,8 @@
 | 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
-| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
 | 13:00 | MXN | PPI (YoY) (Apr) |  |  | 2.00% |
+| 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 210.00K |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage |  | 87B | 59B |
