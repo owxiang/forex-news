@@ -19,8 +19,8 @@
 | 04:00 | CNY | Moderate | Imports (YoY) (Apr) | 8.4% | 5.4% | -1.9% |
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Apr) | 72.35B | 81.40B | 58.55B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
-| 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
 | 06:00 | JPY | Low | Leading Index | 111.4 | 111.3 | 112.1 |
+| 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
 | 08:55 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 10:10 | EUR | Low | Spanish 5-Year Bonos Auction | 2.974% |  | 2.848% |
 | 10:10 | EUR | Low | Spanish 8-Year Obligacion Auction | 3.100% |  | 2.976% |
@@ -41,8 +41,8 @@
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) | 0.21% | 0.24% | 0.44% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 4.65% | 4.63% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) | 0.20% | 0.19% | 0.29% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) | 4.65% | 4.63% | 4.42% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) | 4.37% | 4.40% | 4.55% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) | 0.60% |  | 0.80% |
 | 13:00 | MXN | Low | PPI (YoY) (Apr) | 2.60% |  | 2.00% |
@@ -60,6 +60,6 @@
 | 18:00 | USD | High | 30-Year Bond Auction | 4.635% |  | 4.671% |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:00 | MXN | Moderate | Interest Rate Decision (May) | 11.00% | 11.00% | 11.00% |
-| 14 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,362B |
-| 14 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,353B |  | 7,362B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.331T |  | 3.317T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Apr) |  |  | 47.1 |
