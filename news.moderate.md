@@ -7,8 +7,8 @@
 | 04:00 | CNY | Exports (YoY) (Apr) | 1.5% | 1.0% | -7.5% |
 | 04:00 | CNY | Imports (YoY) (Apr) | 8.4% | 5.4% | -1.9% |
 | 04:00 | CNY | Trade Balance (USD) (Apr) | 72.35B | 81.40B | 58.55B |
-| 38 min | EUR | ECB McCaul Speaks |  |  |  |
-| 09:40 | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
+| 08:55 | EUR | ECB McCaul Speaks |  |  |  |
+| 20 min | EUR | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
 | 12:00 | GBP | BoE MPC vote cut (Apr) |  | 0 | 1 |
 | 12:00 | GBP | BoE MPC vote hike (Apr) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Apr) |  | 9 | 8 |
