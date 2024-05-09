@@ -22,29 +22,28 @@
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
 | 06:00 | JPY | Low | Leading Index | 111.4 | 111.3 | 112.1 |
 | 08:55 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 13 min | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
-| 13 min | EUR | Low | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
-| 43 min | GBP | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 50.2 |
-| 43 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 45.62 |
-| 43 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) |  |  | 47.38 |
-| 43 min | EUR | Low | France Thomson Reuters IPSOS PCSI (May) |  |  | 44.53 |
-| 43 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.67 |
-| 43 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 44.07 |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Apr) |  | 0 | 1 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Apr) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) |  | 9 | 8 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Apr) |  | 5.25% | 5.25% |
-| 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
+| 10:40 | EUR | Low | Italian 12-Month BOT Auction | 3.545% |  | 3.533% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (May) | 52.8 |  | 50.2 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (May) | 43.83 |  | 45.62 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (May) | 48.51 |  | 47.38 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (May) | 46.04 |  | 44.53 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) | 48.62 |  | 49.67 |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) | 45.27 |  | 44.07 |
+| 41 min | GBP | Moderate | BoE MPC vote cut (Apr) |  | 0 | 1 |
+| 41 min | GBP | Moderate | BoE MPC vote hike (Apr) |  | 0 | 0 |
+| 41 min | GBP | Moderate | BoE MPC vote unchanged (Apr) |  | 9 | 8 |
+| 41 min | GBP | High | BoE Interest Rate Decision (Apr) |  | 5.25% | 5.25% |
+| 41 min | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
+| 41 min | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
+| 41 min | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 4.63% | 4.42% |
 | 13:00 | MXN | Moderate | CPI (MoM) (Apr) |  | 0.19% | 0.29% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Apr) |  | 4.63% | 4.42% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
-| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 2.00% |
 | 13:00 | MXN | Low | PPI (MoM) (Apr) |  |  | 0.80% |
+| 13:00 | MXN | Low | PPI (YoY) (Apr) |  |  | 2.00% |
 | 13:15 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,774K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 212K | 208K |
