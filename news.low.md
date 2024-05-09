@@ -14,9 +14,9 @@
 | 04:00 | CNY | Imports (Apr) | 12.20M |  | 2.00M |
 | 04:00 | CNY | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
-| 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
-| 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
+| 23 min | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 09:40 | EUR | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (May) |  |  | 50.2 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (May) |  |  | 45.62 |
@@ -24,8 +24,8 @@
 | 11:00 | EUR | France Thomson Reuters IPSOS PCSI (May) |  |  | 44.53 |
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 49.67 |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 44.07 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 13:00 | MXN | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Apr) |  | 4.40% | 4.55% |
 | 13:00 | MXN | PPI (MoM) (Apr) |  |  | 0.80% |

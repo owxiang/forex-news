@@ -19,9 +19,9 @@
 | 04:00 | CNY | Moderate | Imports (YoY) (Apr) | 8.4% | 5.4% | -1.9% |
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Apr) | 72.35B | 81.40B | 58.55B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
-| 06:00 | JPY | Low | Leading Index | 111.4 | 111.3 | 112.1 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
-| 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 06:00 | JPY | Low | Leading Index | 111.4 | 111.3 | 112.1 |
+| 23 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 08:55 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 09:40 | EUR | Moderate | Spanish 15-Year Obligacion Auction |  |  | 3.531% |
 | 09:40 | EUR | Low | Spanish 8-Year Obligacion Auction |  |  | 2.976% |
@@ -36,8 +36,8 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Apr) |  | 9 | 8 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Apr) |  | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Mar) |  |  | -0.3% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Mar) |  |  | 4.1% |
 | 12:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 12:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 13:00 | MXN | Low | Core CPI (MoM) (Apr) |  | 0.24% | 0.44% |
