@@ -8,10 +8,8 @@
 | 00:30 | JPY | Overtime Pay (YoY) (Mar) | -1.50% |  | -1.60% |
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Foreign Reserves (USD) | 1,279.0B |  | 1,290.6B |
-| 19 min | AUD | Private House Approvals |  | 3.8% | 10.7% |
-| 49 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
-| 49 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 04:00 | CNY | Trade Balance (Apr) |  | 510.00B | 415.86B |
+| 02:30 | AUD | Private House Approvals | 3.8% | 3.8% | 12.4% |
+| 30 min | CNY | Trade Balance (Apr) |  | 510.00B | 415.86B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
 | 06:00 | JPY | Leading Index |  | 111.3 | 111.8 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) |  |  | 2.3% |

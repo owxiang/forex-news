@@ -9,14 +9,12 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Mar) | -1.50% |  | -1.60% |
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 00:50 | JPY | Low | Foreign Reserves (USD) | 1,279.0B |  | 1,290.6B |
-| 19 min | AUD | Moderate | Building Approvals (MoM) |  | 1.9% | -1.9% |
-| 19 min | AUD | Low | Private House Approvals |  | 3.8% | 10.7% |
-| 49 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
-| 49 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 04:00 | CNY | Low | Trade Balance (Apr) |  | 510.00B | 415.86B |
-| 04:00 | CNY | Moderate | Exports (YoY) |  | 1.0% | -7.5% |
-| 04:00 | CNY | Moderate | Imports (YoY) |  | 5.4% | -1.9% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) |  | 81.40B | 58.55B |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) | 1.9% | 1.9% | -0.9% |
+| 02:30 | AUD | Low | Private House Approvals | 3.8% | 3.8% | 12.4% |
+| 30 min | CNY | Low | Trade Balance (Apr) |  | 510.00B | 415.86B |
+| 30 min | CNY | Moderate | Exports (YoY) |  | 1.0% | -7.5% |
+| 30 min | CNY | Moderate | Imports (YoY) |  | 5.4% | -1.9% |
+| 30 min | CNY | Moderate | Trade Balance (USD) |  | 81.40B | 58.55B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) |  |  | -0.7% |
 | 06:00 | JPY | Low | Leading Index |  | 111.3 | 111.8 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) |  |  | 2.3% |
