@@ -14,8 +14,8 @@
 | 04:00 | CNY | Imports (Apr) | 12.20M |  | 2.00M |
 | 04:00 | CNY | Trade Balance (Apr) | 513.45B | 510.00B | 415.86B |
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.4% |  | -0.7% |
-| 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | -0.7% |  | 2.3% |
+| 06:00 | JPY | Leading Index | 111.4 | 111.3 | 112.1 |
 | 10:10 | EUR | Spanish 5-Year Bonos Auction | 2.974% |  | 2.848% |
 | 10:10 | EUR | Spanish 8-Year Obligacion Auction | 3.100% |  | 2.976% |
 | 10:40 | EUR | Italian 12-Month BOT Auction | 3.545% |  | 3.533% |
@@ -34,6 +34,6 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 215.00K |  | 210.25K |
 | 15:00 | CAD | BoC Financial System Review |  |  |  |
 | 15:30 | USD | Natural Gas Storage | 79B | 87B | 59B |
-| 11 min | USD | 4-Week Bill Auction |  |  | 5.275% |
-| 11 min | USD | 8-Week Bill Auction |  |  | 5.270% |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.275% |
+| 16:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.317T |
