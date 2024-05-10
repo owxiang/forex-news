@@ -35,28 +35,32 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -3.81B |  | -2.78B |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) | 4.4% | 4.3% | 4.5% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.9% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | Low | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | Low | PPI (YoY) (Apr) | -4.5% |  | -6.9% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
-| 58 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 637.92B |
-| 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.4% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
-| 13:00 | INR | Low | Cumulative Industrial Production (Mar) |  |  | 5.90% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Mar) |  |  | 5.7% |
-| 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  | 3.66% | 3.93% |
-| 13:00 | BRL | Low | CPI (MoM) (Apr) |  | 0.35% | 0.16% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.10% |
+| 12:10 | EUR | Low | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
+| 12:10 | EUR | Low | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
+| 12:10 | EUR | Low | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
+| 12:10 | EUR | Low | Italian 7-Year BTP Auction | 3.52% |  | 3.53% |
+| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 16 min | INR | Low | FX Reserves, USD |  |  | 637.92B |
+| 16 min | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 31 min | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
+| 46 min | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.4% |
+| 46 min | MXN | Low | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |
+| 46 min | MXN | Low | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
+| 46 min | INR | Low | Cumulative Industrial Production (Mar) |  |  | 5.90% |
+| 46 min | INR | Low | Industrial Production (YoY) (Mar) |  |  | 5.7% |
+| 46 min | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |
+| 46 min | BRL | Moderate | CPI (YoY) (Apr) |  | 3.66% | 3.93% |
+| 46 min | BRL | Low | CPI (MoM) (Apr) |  | 0.35% | 0.16% |
+| 46 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.10% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee |  |  | 5.0% |
 | 13:30 | CAD | Moderate | Employment Change (Apr) |  | 20.9K | -2.2K |
 | 13:30 | CAD | Low | Full Employment Change (Apr) |  |  | -0.7K |

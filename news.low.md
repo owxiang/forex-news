@@ -22,23 +22,27 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (Mar) | 2.3% | 1.8% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Apr) | 4.4% | 4.3% | 4.5% |
 | 07:00 | NOK | Core Inflation (MoM) (Apr) | 0.9% | 0.8% | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
+| 07:00 | NOK | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | PPI (YoY) (Apr) | -4.5% |  | -6.9% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
-| 12:30 | INR | FX Reserves, USD |  |  | 637.92B |
-| 12:45 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |
-| 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
-| 13:00 | INR | Cumulative Industrial Production (Mar) |  |  | 5.90% |
-| 13:00 | INR | Industrial Production (YoY) (Mar) |  |  | 5.7% |
-| 13:00 | INR | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |
-| 13:00 | BRL | CPI (MoM) (Apr) |  | 0.35% | 0.16% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.10% |
+| 12:10 | EUR | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
+| 12:10 | EUR | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
+| 12:10 | EUR | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
+| 12:10 | EUR | Italian 7-Year BTP Auction | 3.52% |  | 3.53% |
+| 16 min | INR | FX Reserves, USD |  |  | 637.92B |
+| 31 min | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
+| 46 min | MXN | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |
+| 46 min | MXN | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
+| 46 min | INR | Cumulative Industrial Production (Mar) |  |  | 5.90% |
+| 46 min | INR | Industrial Production (YoY) (Mar) |  |  | 5.7% |
+| 46 min | INR | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |
+| 46 min | BRL | CPI (MoM) (Apr) |  | 0.35% | 0.16% |
+| 46 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.10% |
 | 13:30 | CAD | Avg hourly wages Permanent employee |  |  | 5.0% |
 | 13:30 | CAD | Full Employment Change (Apr) |  |  | -0.7K |
 | 13:30 | CAD | Part Time Employment Change (Apr) |  |  | -1.6K |

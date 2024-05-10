@@ -13,10 +13,10 @@
 | 07:00 | GBP | Trade Balance (Mar) | -13.97B | -14.50B | -14.13B |
 | 07:00 | GBP | Trade Balance Non-EU (Mar) | -3.81B |  | -2.78B |
 | 09:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 58 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.4% |
-| 13:00 | BRL | CPI (YoY) (Apr) |  | 3.66% | 3.93% |
+| 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 16 min | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
+| 46 min | GBP | NIESR Monthly GDP Tracker |  |  | 0.4% |
+| 46 min | BRL | CPI (YoY) (Apr) |  | 3.66% | 3.93% |
 | 13:30 | CAD | Employment Change (Apr) |  | 20.9K | -2.2K |
 | 13:30 | CAD | Unemployment Rate (Apr) |  | 6.2% | 6.1% |
 | 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
