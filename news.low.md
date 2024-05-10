@@ -12,19 +12,19 @@
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 37.93 |  | 40.45 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 68.17 |  | 69.34 |
 | 04:35 | JPY | 30-Year JGB Auction | 1.992% |  | 1.808% |
-| 41 min | JPY | Economy Watchers Current Index (Apr) |  | 50.4 | 49.8 |
-| 07:00 | GBP | Business Investment (YoY) (Q1) |  |  | 2.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) |  | -1.2% | -2.0% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) |  | 0.8% | -1.9% |
-| 07:00 | GBP | GDP (YoY) (Mar) |  | 0.3% | -0.2% |
-| 07:00 | GBP | Index of Services |  | 0.4% | 0.2% |
-| 07:00 | GBP | Industrial Production (YoY) (Mar) |  | 0.3% | 1.4% |
-| 07:00 | GBP | Manufacturing Production (YoY) (Mar) |  | 1.8% | 2.7% |
-| 07:00 | NOK | Core CPI YTD (Apr) |  | 4.3% | 4.5% |
-| 07:00 | NOK | Core Inflation (MoM) (Apr) |  | 0.8% | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Apr) |  | 3.4% | 3.9% |
-| 07:00 | NOK | CPI (MoM) (Apr) |  | 0.7% | 0.2% |
-| 07:00 | NOK | PPI (YoY) (Apr) |  |  | -6.9% |
+| 06:00 | JPY | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
+| 45 min | GBP | Business Investment (YoY) (Q1) |  |  | 2.8% |
+| 45 min | GBP | Construction Output (MoM) (Mar) |  | 0.8% | -1.9% |
+| 45 min | GBP | U.K. Construction Output (YoY) (Mar) |  | -1.2% | -2.0% |
+| 45 min | GBP | GDP (YoY) (Mar) |  | 0.3% | -0.2% |
+| 45 min | GBP | Index of Services |  | 0.4% | 0.2% |
+| 45 min | GBP | Industrial Production (YoY) (Mar) |  | 0.3% | 1.4% |
+| 45 min | GBP | Manufacturing Production (YoY) (Mar) |  | 1.8% | 2.7% |
+| 45 min | NOK | Core CPI YTD (Apr) |  | 4.3% | 4.5% |
+| 45 min | NOK | Core Inflation (MoM) (Apr) |  | 0.8% | 0.2% |
+| 45 min | NOK | CPI (YoY) (Apr) |  | 3.4% | 3.9% |
+| 45 min | NOK | CPI (MoM) (Apr) |  | 0.7% | 0.2% |
+| 45 min | NOK | PPI (YoY) (Apr) |  |  | -6.9% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |

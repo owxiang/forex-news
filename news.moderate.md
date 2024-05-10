@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
 | 00:30 | JPY | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
+| 00:30 | JPY | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
 | 00:50 | JPY | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
 | 00:50 | JPY | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
-| 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 1.9% | 1.4% |
-| 07:00 | GBP | Industrial Production (MoM) (Mar) |  | -0.5% | 1.1% |
-| 07:00 | GBP | Manufacturing Production (MoM) (Mar) |  | -0.5% | 1.2% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (Mar) |  | 0.4% | 0.2% |
-| 07:00 | GBP | Trade Balance (Mar) |  | -14.50B | -14.21B |
-| 07:00 | GBP | Trade Balance Non-EU (Mar) |  |  | -2.90B |
+| 45 min | GBP | Business Investment (QoQ) (Q1) |  | 1.9% | 1.4% |
+| 45 min | GBP | Industrial Production (MoM) (Mar) |  | -0.5% | 1.1% |
+| 45 min | GBP | Manufacturing Production (MoM) (Mar) |  | -0.5% | 1.2% |
+| 45 min | GBP | Monthly GDP 3M/3M Change (Mar) |  | 0.4% | 0.2% |
+| 45 min | GBP | Trade Balance (Mar) |  | -14.50B | -14.21B |
+| 45 min | GBP | Trade Balance Non-EU (Mar) |  |  | -2.90B |
 | 09:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
