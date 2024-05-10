@@ -2,17 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | Bank Lending (YoY) (Apr) |  | 3.1% | 3.2% |
-| 34 min | JPY | Foreign Bonds Buying |  |  | 648.1B |
-| 34 min | JPY | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 34 min | JPY | Foreign Reserves (USD) |  |  | 1,290.6B |
-| 35 min | JPY | Foreign Bonds Buying |  |  |  |
-| 35 min | JPY | Foreign Investments in Japanese Stocks |  |  |  |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 39.63 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 66.96 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 50.11 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 40.45 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 69.34 |
+| 00:50 | JPY | Bank Lending (YoY) (Apr) | 3.1% | 3.1% | 3.2% |
+| 00:50 | JPY | Foreign Bonds Buying | -1,013.0B |  | 664.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 153.2B |  | -493.8B |
+| 00:51 | JPY | Foreign Bonds Buying |  |  |  |
+| 00:51 | JPY | Foreign Investments in Japanese Stocks |  |  |  |
+| 48 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 39.63 |
+| 48 min | INR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 66.96 |
+| 48 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 50.11 |
+| 48 min | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 40.45 |
+| 48 min | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 69.34 |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 1.808% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) |  | 50.4 | 49.8 |
 | 07:00 | GBP | Business Investment (YoY) (Q1) |  |  | 2.8% |
@@ -28,8 +27,8 @@
 | 07:00 | NOK | CPI (MoM) (Apr) |  | 0.7% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Apr) |  |  | -6.9% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.32% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |

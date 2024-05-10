@@ -2,21 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 14 min | JPY | Moderate | Household Spending (YoY) (Mar) |  | -2.3% | -0.5% |
-| 14 min | JPY | Moderate | Household Spending (MoM) (Mar) |  | -0.3% | 1.4% |
-| 34 min | JPY | Moderate | Adjusted Current Account (Mar) |  | 2.04T | 1.37T |
-| 34 min | JPY | Low | Bank Lending (YoY) (Apr) |  | 3.1% | 3.2% |
-| 34 min | JPY | Moderate | Current Account n.s.a. (Mar) |  | 3.489T | 2.644T |
-| 34 min | JPY | Low | Foreign Bonds Buying |  |  | 648.1B |
-| 34 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | -492.4B |
-| 34 min | JPY | Low | Foreign Reserves (USD) |  |  | 1,290.6B |
-| 35 min | JPY | Low | Foreign Bonds Buying |  |  |  |
-| 35 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  |  |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 39.63 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 66.96 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 50.11 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 40.45 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 69.34 |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 3.1% | 3.1% | 3.2% |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -1,013.0B |  | 664.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 153.2B |  | -493.8B |
+| 00:51 | JPY | Low | Foreign Bonds Buying |  |  |  |
+| 00:51 | JPY | Low | Foreign Investments in Japanese Stocks |  |  |  |
+| 48 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 39.63 |
+| 48 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 66.96 |
+| 48 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 50.11 |
+| 48 min | JPY | Low | Thomson Reuters IPSOS PCSI (May) |  |  | 40.45 |
+| 48 min | CNY | Low | China Thomson Reuters IPSOS PCSI (May) |  |  | 69.34 |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.808% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) |  | 50.4 | 49.8 |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.2% | 1.4% |
@@ -41,8 +40,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (Apr) |  | 0.7% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Apr) |  |  | -6.9% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.32% |
@@ -60,8 +59,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Mar) |  |  | 5.90% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Mar) |  |  | 5.7% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |
-| 13:00 | BRL | Low | CPI (MoM) (Apr) |  | 0.35% | 0.16% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Apr) |  | 3.66% | 3.93% |
+| 13:00 | BRL | Low | CPI (MoM) (Apr) |  | 0.35% | 0.16% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) |  |  | 0.10% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee |  |  | 5.0% |
 | 13:30 | CAD | Moderate | Employment Change (Apr) |  | 20.9K | -2.2K |
