@@ -14,22 +14,22 @@
 | 04:35 | JPY | 30-Year JGB Auction | 1.992% |  | 1.808% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
 | 07:00 | GBP | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 0.7% | 0.3% | -0.2% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.4% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | 0.5% | 0.3% | 1.0% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Mar) | 2.3% | 1.8% | 2.6% |
 | 07:00 | NOK | Core CPI YTD (Apr) | 4.4% | 4.3% | 4.5% |
 | 07:00 | NOK | Core Inflation (MoM) (Apr) | 0.9% | 0.8% | 0.2% |
-| 07:00 | NOK | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
+| 07:00 | NOK | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | PPI (YoY) (Apr) | -4.5% |  | -6.9% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
 | 12:10 | EUR | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
 | 12:10 | EUR | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
 | 12:10 | EUR | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
@@ -47,8 +47,8 @@
 | 13:30 | CAD | Full Employment Change (Apr) | 40.1K |  | -0.7K |
 | 13:30 | CAD | Part Time Employment Change (Apr) | 50.3K |  | -1.6K |
 | 13:30 | CAD | Participation Rate (Apr) | 65.4% |  | 65.3% |
-| 42 min | USD | Michigan Current Conditions (May) |  |  | 79.0 |
-| 15:30 | CAD | BoC Senior Loan Officer Survey |  |  | 5.8 |
+| 15:00 | USD | Michigan Current Conditions (May) | 68.8 | 79.0 | 79.0 |
+| 15 min | CAD | BoC Senior Loan Officer Survey |  |  | 5.8 |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.1K |
