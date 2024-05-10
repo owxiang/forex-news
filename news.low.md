@@ -7,16 +7,16 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 153.2B |  | -493.8B |
 | 00:51 | JPY | Foreign Bonds Buying |  |  |  |
 | 00:51 | JPY | Foreign Investments in Japanese Stocks |  |  |  |
-| 48 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 39.63 |
-| 48 min | INR | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 66.96 |
-| 48 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) |  |  | 50.11 |
-| 48 min | JPY | Thomson Reuters IPSOS PCSI (May) |  |  | 40.45 |
-| 48 min | CNY | China Thomson Reuters IPSOS PCSI (May) |  |  | 69.34 |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) | 39.67 |  | 39.63 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (May) | 67.77 |  | 66.96 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.28 |  | 50.11 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 37.93 |  | 40.45 |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 68.17 |  | 69.34 |
 | 04:35 | JPY | 30-Year JGB Auction |  |  | 1.808% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) |  | 50.4 | 49.8 |
 | 07:00 | GBP | Business Investment (YoY) (Q1) |  |  | 2.8% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) |  | 0.8% | -1.9% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Mar) |  | -1.2% | -2.0% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) |  | 0.8% | -1.9% |
 | 07:00 | GBP | GDP (YoY) (Mar) |  | 0.3% | -0.2% |
 | 07:00 | GBP | Index of Services |  | 0.4% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) |  | 0.3% | 1.4% |
@@ -27,8 +27,8 @@
 | 07:00 | NOK | CPI (MoM) (Apr) |  | 0.7% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Apr) |  |  | -6.9% |
 | 07:45 | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.32% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
@@ -49,6 +49,7 @@
 | 13:30 | CAD | Part Time Employment Change (Apr) |  |  | -1.6K |
 | 13:30 | CAD | Participation Rate (Apr) |  |  | 65.3% |
 | 15:00 | USD | Michigan Current Conditions (May) |  |  | 79.0 |
+| 15:30 | CAD | BoC Senior Loan Officer Survey |  |  | 5.8 |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.1K |
