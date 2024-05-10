@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:30 | JPY | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
+| 00:30 | JPY | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:50 | JPY | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
 | 00:50 | JPY | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
@@ -19,11 +19,11 @@
 | 13:00 | BRL | CPI (YoY) (Apr) | 3.69% | 3.66% | 3.93% |
 | 13:30 | CAD | Employment Change (Apr) | 90.4K | 20.9K | -2.2K |
 | 13:30 | CAD | Unemployment Rate (Apr) | 6.1% | 6.2% | 6.1% |
-| 30 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 3.2% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (May) |  |  | 76.0 |
-| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 76.0 | 77.2 |
+| 14:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 42 min | USD | Michigan 1-Year Inflation Expectations (May) |  |  | 3.2% |
+| 42 min | USD | Michigan 5-Year Inflation Expectations (May) |  |  | 3.0% |
+| 42 min | USD | Michigan Consumer Expectations (May) |  |  | 76.0 |
+| 42 min | USD | Michigan Consumer Sentiment (May) |  | 76.0 | 77.2 |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 605 |

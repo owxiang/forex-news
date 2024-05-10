@@ -14,8 +14,8 @@
 | 04:35 | JPY | 30-Year JGB Auction | 1.992% |  | 1.808% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
-| 07:00 | GBP | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
+| 07:00 | GBP | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 0.7% | 0.3% | -0.2% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.4% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | 0.5% | 0.3% | 1.0% |
@@ -28,16 +28,16 @@
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 12:10 | EUR | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
 | 12:10 | EUR | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
 | 12:10 | EUR | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
 | 12:10 | EUR | Italian 7-Year BTP Auction | 3.52% |  | 3.53% |
 | 12:30 | INR | FX Reserves, USD | 641.59B |  | 637.92B |
 | 12:45 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | MXN | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
+| 13:00 | MXN | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | INR | Cumulative Industrial Production (Mar) | 5.80% |  | 5.90% |
 | 13:00 | INR | Industrial Production (YoY) (Mar) | 4.9% |  | 5.6% |
 | 13:00 | INR | Manufacturing Output (MoM) (Mar) | 5.2% |  | 4.9% |
@@ -47,7 +47,7 @@
 | 13:30 | CAD | Full Employment Change (Apr) | 40.1K |  | -0.7K |
 | 13:30 | CAD | Part Time Employment Change (Apr) | 50.3K |  | -1.6K |
 | 13:30 | CAD | Participation Rate (Apr) | 65.4% |  | 65.3% |
-| 15:00 | USD | Michigan Current Conditions (May) |  |  | 79.0 |
+| 42 min | USD | Michigan Current Conditions (May) |  |  | 79.0 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey |  |  | 5.8 |
 | 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.4K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 3.1% | 3.1% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
@@ -19,11 +19,11 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Mar) | 0.4% | 0.1% | 0.2% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) | 0.2% | 0.0% | -0.2% |
-| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Mar) | 0.7% | 0.3% | -0.2% |
 | 07:00 | GBP | Low | Index of Services | 0.7% | 0.4% | 0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) | 0.2% | -0.5% | 1.0% |
@@ -42,8 +42,8 @@
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 12:10 | EUR | Low | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
 | 12:10 | EUR | Low | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
 | 12:10 | EUR | Low | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
@@ -53,8 +53,8 @@
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 12:40 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.7% |  | 0.4% |
 | 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Mar) | 5.80% |  | 5.90% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Mar) | 4.9% |  | 5.6% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) | 5.2% |  | 4.9% |
@@ -67,12 +67,12 @@
 | 13:30 | CAD | Low | Part Time Employment Change (Apr) | 50.3K |  | -1.6K |
 | 13:30 | CAD | Low | Participation Rate (Apr) | 65.4% |  | 65.3% |
 | 13:30 | CAD | Moderate | Unemployment Rate (Apr) | 6.1% | 6.2% | 6.1% |
-| 30 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 3.2% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (May) |  |  | 76.0 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) |  | 76.0 | 77.2 |
-| 15:00 | USD | Low | Michigan Current Conditions (May) |  |  | 79.0 |
+| 14:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 42 min | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  |  | 3.2% |
+| 42 min | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  |  | 3.0% |
+| 42 min | USD | Moderate | Michigan Consumer Expectations (May) |  |  | 76.0 |
+| 42 min | USD | Moderate | Michigan Consumer Sentiment (May) |  | 76.0 | 77.2 |
+| 42 min | USD | Low | Michigan Current Conditions (May) |  |  | 79.0 |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey |  |  | 5.8 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
