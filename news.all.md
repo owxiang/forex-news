@@ -17,8 +17,8 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) | 68.17 |  | 69.34 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 1.992% |  | 1.808% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
@@ -53,8 +53,8 @@
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 12:40 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.7% |  | 0.4% |
 | 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Mar) | 5.80% |  | 5.90% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Mar) | 4.9% |  | 5.6% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) | 5.2% |  | 4.9% |
