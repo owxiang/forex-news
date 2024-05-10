@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 3.1% | 3.1% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
@@ -17,28 +17,28 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) | 68.17 |  | 69.34 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 1.992% |  | 1.808% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
-| 45 min | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 1.9% | 1.4% |
-| 45 min | GBP | Low | Business Investment (YoY) (Q1) |  |  | 2.8% |
-| 45 min | GBP | Low | Construction Output (MoM) (Mar) |  | 0.8% | -1.9% |
-| 45 min | GBP | Low | U.K. Construction Output (YoY) (Mar) |  | -1.2% | -2.0% |
-| 45 min | GBP | High | GDP (MoM) (Mar) |  | 0.1% | 0.1% |
-| 45 min | GBP | High | GDP (YoY) (Q1) |  | 0.0% | -0.2% |
-| 45 min | GBP | High | GDP (QoQ) (Q1) |  | 0.4% | -0.3% |
-| 45 min | GBP | Low | GDP (YoY) (Mar) |  | 0.3% | -0.2% |
-| 45 min | GBP | Low | Index of Services |  | 0.4% | 0.2% |
-| 45 min | GBP | Moderate | Industrial Production (MoM) (Mar) |  | -0.5% | 1.1% |
-| 45 min | GBP | Low | Industrial Production (YoY) (Mar) |  | 0.3% | 1.4% |
-| 45 min | GBP | Moderate | Manufacturing Production (MoM) (Mar) |  | -0.5% | 1.2% |
-| 45 min | GBP | Low | Manufacturing Production (YoY) (Mar) |  | 1.8% | 2.7% |
-| 45 min | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) |  | 0.4% | 0.2% |
-| 45 min | GBP | Moderate | Trade Balance (Mar) |  | -14.50B | -14.21B |
-| 45 min | GBP | Moderate | Trade Balance Non-EU (Mar) |  |  | -2.90B |
-| 45 min | NOK | Low | Core CPI YTD (Apr) |  | 4.3% | 4.5% |
-| 45 min | NOK | Low | Core Inflation (MoM) (Apr) |  | 0.8% | 0.2% |
-| 45 min | NOK | Low | CPI (YoY) (Apr) |  | 3.4% | 3.9% |
-| 45 min | NOK | Low | CPI (MoM) (Apr) |  | 0.7% | 0.2% |
-| 45 min | NOK | Low | PPI (YoY) (Apr) |  |  | -6.9% |
-| 07:45 | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
+| 07:00 | GBP | High | GDP (MoM) (Mar) | 0.4% | 0.1% | 0.2% |
+| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.2% | 0.0% | -0.2% |
+| 07:00 | GBP | Low | GDP (YoY) (Mar) | 0.7% | 0.3% | -0.2% |
+| 07:00 | GBP | Low | Index of Services | 0.7% | 0.4% | 0.2% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) | 0.2% | -0.5% | 1.0% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Mar) | 0.5% | 0.3% | 1.0% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Mar) | 0.3% | -0.5% | 1.2% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Mar) | 2.3% | 1.8% | 2.6% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Mar) | 0.6% | 0.4% | 0.2% |
+| 07:00 | GBP | Moderate | Trade Balance (Mar) | -13.97B | -14.50B | -14.13B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -3.81B |  | -2.78B |
+| 07:00 | NOK | Low | Core CPI YTD (Apr) | 4.4% | 4.3% | 4.5% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.9% | 0.8% | 0.2% |
+| 07:00 | NOK | Low | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
+| 07:00 | NOK | Low | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
+| 07:00 | NOK | Low | PPI (YoY) (Apr) | -4.5% |  | -6.9% |
+| 23 min | EUR | Low | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
