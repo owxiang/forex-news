@@ -28,8 +28,8 @@
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
-| 42 min | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
-| 42 min | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 637.92B |
 | 12:45 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | MXN | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |

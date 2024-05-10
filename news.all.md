@@ -42,9 +42,9 @@
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 42 min | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
-| 42 min | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
-| 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
+| 58 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 637.92B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
