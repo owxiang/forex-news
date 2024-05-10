@@ -36,8 +36,8 @@
 | 12:10 | EUR | Italian 7-Year BTP Auction | 3.52% |  | 3.53% |
 | 12:30 | INR | FX Reserves, USD | 641.59B |  | 637.92B |
 | 12:45 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | MXN | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
+| 13:00 | MXN | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | INR | Cumulative Industrial Production (Mar) | 5.80% |  | 5.90% |
 | 13:00 | INR | Industrial Production (YoY) (Mar) | 4.9% |  | 5.6% |
 | 13:00 | INR | Manufacturing Output (MoM) (Mar) | 5.2% |  | 4.9% |

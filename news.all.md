@@ -53,8 +53,8 @@
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 12:40 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.7% |  | 0.4% |
 | 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Mar) | 5.80% |  | 5.90% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Mar) | 4.9% |  | 5.6% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) | 5.2% |  | 4.9% |
@@ -78,8 +78,8 @@
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 496 |  | 499 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 605 |
-| 15 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 45 min | USD | Moderate | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
+| 18:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 19:00 | USD | Moderate | Federal Budget Balance (Apr) | 210.0B | 244.5B | -236.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -29.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 58.1K |
