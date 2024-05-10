@@ -28,16 +28,12 @@
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
-| 49 min | EUR | Italian 15-Year BTP Auction |  |  | 4.16% |
-| 49 min | EUR | Italian 3-Year BTP Auction |  |  | 3.32% |
-| 49 min | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 49 min | EUR | Italian 7-Year BTP Auction |  |  | 3.53% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
+| 42 min | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
+| 42 min | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
 | 12:30 | INR | FX Reserves, USD |  |  | 637.92B |
 | 12:45 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
 | 13:00 | MXN | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |
+| 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
 | 13:00 | INR | Cumulative Industrial Production (Mar) |  |  | 5.90% |
 | 13:00 | INR | Industrial Production (YoY) (Mar) |  |  | 5.7% |
 | 13:00 | INR | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |

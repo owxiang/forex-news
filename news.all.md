@@ -17,8 +17,8 @@
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (May) | 68.17 |  | 69.34 |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 1.992% |  | 1.808% |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
@@ -41,20 +41,16 @@
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
-| 24 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 49 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.16% |
-| 49 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.32% |
-| 49 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 5.050% |
-| 49 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.53% |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
+| 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 42 min | EUR | Low | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
+| 42 min | EUR | Low | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
 | 12:15 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 637.92B |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.4% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Mar) |  | 0.7% | -0.1% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Mar) |  |  | 5.90% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Mar) |  |  | 5.7% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) |  |  | 5.0% |

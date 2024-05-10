@@ -12,7 +12,7 @@
 | 07:00 | GBP | Monthly GDP 3M/3M Change (Mar) | 0.6% | 0.4% | 0.2% |
 | 07:00 | GBP | Trade Balance (Mar) | -13.97B | -14.50B | -14.13B |
 | 07:00 | GBP | Trade Balance Non-EU (Mar) | -3.81B |  | -2.78B |
-| 24 min | EUR | ECB's Elderson Speaks |  |  |  |
+| 09:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 12:15 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.4% |
