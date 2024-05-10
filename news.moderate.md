@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
 | 00:30 | JPY | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
+| 00:30 | JPY | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
 | 00:50 | JPY | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
 | 00:50 | JPY | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |

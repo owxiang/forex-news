@@ -14,8 +14,8 @@
 | 04:35 | JPY | 30-Year JGB Auction | 1.992% |  | 1.808% |
 | 06:00 | JPY | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
 | 07:00 | GBP | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
 | 07:00 | GBP | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
 | 07:00 | GBP | GDP (YoY) (Mar) | 0.7% | 0.3% | -0.2% |
 | 07:00 | GBP | Index of Services | 0.7% | 0.4% | 0.2% |
 | 07:00 | GBP | Industrial Production (YoY) (Mar) | 0.5% | 0.3% | 1.0% |
@@ -25,9 +25,9 @@
 | 07:00 | NOK | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
 | 07:00 | NOK | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
 | 07:00 | NOK | PPI (YoY) (Apr) | -4.5% |  | -6.9% |
-| 23 min | EUR | French Reserve Assets Total (Apr) |  |  | 238,902.0M |
-| 09:00 | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
+| 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
+| 43 min | EUR | Italian Industrial Production (MoM) (Mar) |  | 0.3% | 0.1% |
+| 43 min | EUR | Italian Industrial Production (YoY) (Mar) |  |  | -3.1% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.32% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
