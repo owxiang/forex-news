@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Mar) | -1.2% | -2.3% | -0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Mar) | 1.2% | -0.3% | 1.4% |
 | 00:50 | JPY | Moderate | Adjusted Current Account (Mar) | 201.06T | 2.04T | 141.21T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Apr) | 3.1% | 3.1% | 3.2% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Mar) | 3.399T | 3.489T | 2.644T |
@@ -19,11 +19,11 @@
 | 06:00 | JPY | Low | Economy Watchers Current Index (Apr) | 47.4 | 50.4 | 49.8 |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.9% | 1.9% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -0.6% |  | 2.8% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Mar) | -2.2% | -1.2% | -2.0% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Mar) | -0.4% | 0.8% | -2.0% |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
 | 07:00 | GBP | High | GDP (MoM) (Mar) | 0.4% | 0.1% | 0.2% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) | 0.2% | 0.0% | -0.2% |
-| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.6% | 0.4% | -0.3% |
 | 07:00 | GBP | Low | GDP (YoY) (Mar) | 0.7% | 0.3% | -0.2% |
 | 07:00 | GBP | Low | Index of Services | 0.7% | 0.4% | 0.2% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Mar) | 0.2% | -0.5% | 1.0% |
@@ -35,15 +35,15 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Mar) | -3.81B |  | -2.78B |
 | 07:00 | NOK | Low | Core CPI YTD (Apr) | 4.4% | 4.3% | 4.5% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Apr) | 0.9% | 0.8% | 0.2% |
-| 07:00 | NOK | Low | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
 | 07:00 | NOK | Low | CPI (YoY) (Apr) | 3.6% | 3.4% | 3.9% |
+| 07:00 | NOK | Low | CPI (MoM) (Apr) | 0.8% | 0.7% | 0.2% |
 | 07:00 | NOK | Low | PPI (YoY) (Apr) | -4.5% |  | -6.9% |
 | 07:45 | EUR | Low | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 12:10 | EUR | Low | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
 | 12:10 | EUR | Low | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
 | 12:10 | EUR | Low | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
@@ -53,13 +53,13 @@
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 12:40 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.7% |  | 0.4% |
 | 12:45 | GBP | Low | BoE MPC Member Dhingra Speaks |  |  |  |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Mar) | 0.6% | 0.7% | -0.1% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Mar) | -3.0% | -2.9% | 3.3% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Mar) | 5.80% |  | 5.90% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Mar) | 4.9% |  | 5.6% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Mar) | 5.2% |  | 4.9% |
-| 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.38% | 0.35% | 0.16% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Apr) | 3.69% | 3.66% | 3.93% |
+| 13:00 | BRL | Low | CPI (MoM) (Apr) | 0.38% | 0.35% | 0.16% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Apr) | 0.33% |  | 0.10% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee | 4.8% |  | 5.0% |
 | 13:30 | CAD | Moderate | Employment Change (Apr) | 90.4K | 20.9K | -2.2K |
@@ -73,8 +73,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (May) | 66.5 | 75.0 | 76.0 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) | 67.4 | 76.0 | 77.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (May) | 68.8 | 79.0 | 79.0 |
-| 15 min | CAD | Low | BoC Senior Loan Officer Survey |  |  | 5.8 |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 15:30 | CAD | Low | BoC Senior Loan Officer Survey | 2.6 |  | 5.8 |
+| 43 min | USD | Moderate | WASDE Report |  |  |  |
 | 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 605 |
