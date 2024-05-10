@@ -42,8 +42,8 @@
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
 | 09:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 12:10 | EUR | Low | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
 | 12:10 | EUR | Low | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
 | 12:10 | EUR | Low | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
@@ -75,11 +75,11 @@
 | 15:00 | USD | Low | Michigan Current Conditions (May) | 68.8 | 79.0 | 79.0 |
 | 15:30 | CAD | Low | BoC Senior Loan Officer Survey | 2.6 |  | 5.8 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 23 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 38 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
-| 38 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 605 |
-| 18:30 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
+| 17:45 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 496 |  | 499 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 603 |  | 605 |
+| 15 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 45 min | USD | Moderate | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -29.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.4K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 58.1K |

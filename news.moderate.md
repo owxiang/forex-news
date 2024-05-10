@@ -25,10 +25,10 @@
 | 15:00 | USD | Michigan Consumer Expectations (May) | 66.5 | 75.0 | 76.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (May) | 67.4 | 76.0 | 77.2 |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 38 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
-| 38 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 605 |
-| 18:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 19:00 | USD | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 496 |  | 499 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 603 |  | 605 |
+| 15 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 45 min | USD | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -29.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 265.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 204.2K |

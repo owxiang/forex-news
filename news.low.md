@@ -28,8 +28,8 @@
 | 07:45 | EUR | French Reserve Assets Total (Apr) | 247,118.0M |  | 238,902.0M |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Mar) | -0.5% | 0.3% | 0.1% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (Mar) | -3.5% |  | -3.3% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) | -1.70% |  | -3.90% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) | 2.00% |  | -3.20% |
 | 12:10 | EUR | Italian 3-Year BTP Auction | 3.32% |  | 3.32% |
 | 12:10 | EUR | Italian 30-Year BTP Auction | 4.140% |  | 5.050% |
 | 12:10 | EUR | Italian 5-Year BTP Auction | 3.28% |  | 3.41% |
@@ -49,7 +49,7 @@
 | 13:30 | CAD | Participation Rate (Apr) | 65.4% |  | 65.3% |
 | 15:00 | USD | Michigan Current Conditions (May) | 68.8 | 79.0 | 79.0 |
 | 15:30 | CAD | BoC Senior Loan Officer Survey | 2.6 |  | 5.8 |
-| 23 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 17:45 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.4K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 58.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -143.4K |
