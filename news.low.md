@@ -4,7 +4,6 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Bank Lending (YoY) (Apr) | 3.1% | 3.1% | 3.2% |
 | 00:50 | JPY | Foreign Bonds Buying | -727.6B |  | 664.1B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 153.2B |  | -493.8B |
 | 00:51 | JPY | Foreign Bonds Buying | -1,013.0B |  | -727.6B |
 | 00:51 | JPY | Foreign Investments in Japanese Stocks | 268.8B |  | 153.2B |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (May) | 39.67 |  | 39.63 |
@@ -12,8 +11,8 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (May) | 50.28 |  | 50.11 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (May) | 37.93 |  | 40.45 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (May) | 68.17 |  | 69.34 |
-| 18 min | JPY | 30-Year JGB Auction |  |  | 1.808% |
-| 06:00 | JPY | Economy Watchers Current Index (Apr) |  | 50.4 | 49.8 |
+| 04:35 | JPY | 30-Year JGB Auction | 1.992% |  | 1.808% |
+| 41 min | JPY | Economy Watchers Current Index (Apr) |  | 50.4 | 49.8 |
 | 07:00 | GBP | Business Investment (YoY) (Q1) |  |  | 2.8% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Mar) |  | -1.2% | -2.0% |
 | 07:00 | GBP | Construction Output (MoM) (Mar) |  | 0.8% | -1.9% |
@@ -33,8 +32,8 @@
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.32% |
 | 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 5.050% |
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.53% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Feb) |  |  | -3.10% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Feb) |  |  | -3.60% |
 | 12:30 | INR | FX Reserves, USD |  |  | 637.92B |
 | 12:45 | GBP | BoE MPC Member Dhingra Speaks |  |  |  |
 | 13:00 | MXN | Industrial Production (YoY) (Mar) |  | -2.9% | 3.3% |
