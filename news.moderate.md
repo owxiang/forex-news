@@ -24,9 +24,9 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (May) | 3.1% | 3.0% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (May) | 66.5 | 75.0 | 76.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (May) | 67.4 | 76.0 | 77.2 |
-| 43 min | USD | WASDE Report |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 605 |
+| 17:00 | USD | WASDE Report |  |  |  |
+| 38 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 499 |
+| 38 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 605 |
 | 18:30 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Apr) |  | 244.5B | -236.0B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -29.0K |
