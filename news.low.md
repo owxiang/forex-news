@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 23:30 | NZD | Performance of Services Index |  |  | 47.5 |
-| 23:45 | NZD | FPI (MoM) (Apr) |  |  | -0.5% |
+| 16 min | NZD | Performance of Services Index |  |  | 47.5 |
+| 31 min | NZD | FPI (MoM) (Apr) |  |  | -0.5% |
