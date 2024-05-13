@@ -10,6 +10,7 @@
 | 13:00 | INR | CPI (YoY) (Apr) |  | 4.80% | 4.85% |
 | 13:30 | CAD | Building Permits (MoM) (Mar) |  | -4.6% | 9.3% |
 | 14:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 17:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |

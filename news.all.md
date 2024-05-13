@@ -18,6 +18,7 @@
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | -4.6% | 9.3% |
 | 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 14:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.460% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.803% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.666% |
