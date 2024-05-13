@@ -14,16 +14,16 @@
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:50 | EUR | Low | German 12-Month Bubill Auction | 3.371% |  | 3.448% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 12:00 | EUR | Low | German Current Account Balance n.s.a (Mar) | 27.6B |  | 28.8B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | INR | Moderate | CPI (YoY) (Apr) | 4.83% | 4.80% | 4.85% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) | -11.7% | -4.6% | 8.9% |
-| 14 min | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
-| 29 min | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 29 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 29 min | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 29 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.460% |
-| 29 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.803% |
-| 29 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.666% |
+| 14:00 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
+| 14:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 14:00 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.481% |  | 3.460% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.781% |  | 3.803% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.670% |  | 3.666% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.155% |

@@ -9,8 +9,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | INR | CPI (YoY) (Apr) | 4.83% | 4.80% | 4.85% |
 | 13:30 | CAD | Building Permits (MoM) (Mar) | -11.7% | -4.6% | 8.9% |
-| 29 min | USD | FOMC Member Mester Speaks |  |  |  |
-| 29 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 14:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 17:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
