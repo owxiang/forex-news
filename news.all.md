@@ -24,14 +24,14 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.481% |  | 3.460% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.781% |  | 3.803% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.670% |  | 3.666% |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
+| 45 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.155% |
 | 17:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 2.6% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | -0.7% |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 35.00% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |
