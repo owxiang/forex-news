@@ -11,6 +11,6 @@
 | 13:30 | CAD | Building Permits (MoM) (Mar) | -11.7% | -4.6% | 8.9% |
 | 14:00 | USD | FOMC Member Mester Speaks |  |  |  |
 | 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 45 min | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.00% |
+| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.30% |  | 3.00% |
 | 17:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
