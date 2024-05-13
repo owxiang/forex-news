@@ -7,7 +7,7 @@
 | 08:00 | CHF | SECO Consumer Climate (Q2) | -24 | -40 | -38 |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | INR | CPI (YoY) (Apr) |  | 4.80% | 4.85% |
+| 46 min | INR | CPI (YoY) (Apr) |  | 4.80% | 4.85% |
 | 13:30 | CAD | Building Permits (MoM) (Mar) |  | -4.6% | 9.3% |
 | 14:00 | USD | FOMC Member Mester Speaks |  |  |  |
 | 14:00 | EUR | German Buba Vice President Buch Speaks |  |  |  |
