@@ -30,8 +30,8 @@
 | 17:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) | 6.2% |  | 2.6% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) | 2.9% |  | -0.7% |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
-| 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 35.00% |
-| 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |
-| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |
+| 29 min | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
+| 29 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
+| 29 min | NZD | Low | External Migration & Visitors (Mar) |  |  | 35.00% |
+| 29 min | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |
+| 29 min | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |
