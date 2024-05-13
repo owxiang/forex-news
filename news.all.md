@@ -12,9 +12,9 @@
 | 05:00 | IDR | Low | Motorbike Sales (YoY) (Apr) | 18.30% |  | -7.80% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) | -24 | -40 | -38 |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 12 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.448% |
-| 42 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
+| 10:50 | EUR | Low | German 12-Month Bubill Auction | 3.371% |  | 3.448% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 43 min | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | INR | Moderate | CPI (YoY) (Apr) |  | 4.80% | 4.85% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Mar) |  | -4.6% | 9.3% |

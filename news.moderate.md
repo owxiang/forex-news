@@ -6,7 +6,7 @@
 | 04:00 | NZD | Inflation Expectations (QoQ) | 2.3% |  | 2.5% |
 | 08:00 | CHF | SECO Consumer Climate (Q2) | -24 | -40 | -38 |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |
-| 42 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | INR | CPI (YoY) (Apr) |  | 4.80% | 4.85% |
 | 13:30 | CAD | Building Permits (MoM) (Mar) |  | -4.6% | 9.3% |
 | 14:00 | USD | FOMC Member Mester Speaks |  |  |  |

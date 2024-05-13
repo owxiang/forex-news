@@ -8,8 +8,8 @@
 | 04:00 | IDR | Consumer Confidence (Apr) | 127.7 |  | 123.8 |
 | 05:00 | IDR | Car Sales (YoY) (Apr) | -17.50% |  | -26.20% |
 | 05:00 | IDR | Motorbike Sales (YoY) (Apr) | 18.30% |  | -7.80% |
-| 12 min | EUR | German 12-Month Bubill Auction |  |  | 3.448% |
-| 12:00 | EUR | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
+| 10:50 | EUR | German 12-Month Bubill Auction | 3.371% |  | 3.448% |
+| 43 min | EUR | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.460% |
