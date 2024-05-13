@@ -8,7 +8,7 @@
 | 02:30 | AUD | Low | NAB Business Survey (Apr) | 7 |  | 9 |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.3% |  | 2.5% |
 | 04:00 | IDR | Low | Consumer Confidence (Apr) | 127.7 |  | 123.8 |
-| 37 min | CHF | Moderate | SECO Consumer Climate (Q2) |  | -40 | -38 |
+| 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) | -24 | -40 | -38 |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.448% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -28,8 +28,8 @@
 | 17:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 2.6% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | -0.7% |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 35.00% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |
