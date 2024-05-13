@@ -6,6 +6,8 @@
 | 00:50 | JPY | M3 Money Supply (Apr) | 2,140.6B |  | 2,145.0B |
 | 02:30 | AUD | NAB Business Survey (Apr) | 7 |  | 9 |
 | 04:00 | IDR | Consumer Confidence (Apr) | 127.7 |  | 123.8 |
+| 05:00 | IDR | Car Sales (YoY) (Apr) | -17.50% |  | -26.20% |
+| 05:00 | IDR | Motorbike Sales (YoY) (Apr) | 18.30% |  | -7.80% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.448% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
