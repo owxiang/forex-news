@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | NAB Business Confidence (Apr) |  |  | 1 |
+| 16 min | AUD | NAB Business Confidence (Apr) |  |  | 1 |
 | 04:00 | NZD | Inflation Expectations (QoQ) |  |  | 2.5% |
 | 08:00 | CHF | SECO Consumer Climate (Q2) |  | -40 | -38 |
 | 10:00 | EUR | EU Economic Forecasts |  |  |  |

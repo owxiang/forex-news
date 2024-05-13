@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 34 min | JPY | M2 Money Stock (YoY) |  | 2.5% | 2.5% |
-| 34 min | JPY | M3 Money Supply (Apr) |  |  | 2,141.1B |
-| 02:30 | AUD | NAB Business Survey (Apr) |  |  | 9 |
+| 00:50 | JPY | M2 Money Stock (YoY) | 2.2% | 2.5% | 2.5% |
+| 00:50 | JPY | M3 Money Supply (Apr) | 2,140.6B |  | 2,145.0B |
+| 16 min | AUD | NAB Business Survey (Apr) |  |  | 9 |
 | 05:00 | IDR | Consumer Confidence (Apr) |  |  | 123.8 |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.448% |
 | 12:00 | EUR | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
