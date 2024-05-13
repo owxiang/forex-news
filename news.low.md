@@ -9,12 +9,12 @@
 | 05:00 | IDR | Car Sales (YoY) (Apr) | -17.50% |  | -26.20% |
 | 05:00 | IDR | Motorbike Sales (YoY) (Apr) | 18.30% |  | -7.80% |
 | 10:50 | EUR | German 12-Month Bubill Auction | 3.371% |  | 3.448% |
-| 11 min | BRL | BCB Focus Market Readout |  |  |  |
-| 13:45 | EUR | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
-| 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.460% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.803% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.666% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 14 min | EUR | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
+| 29 min | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 29 min | EUR | French 12-Month BTF Auction |  |  | 3.460% |
+| 29 min | EUR | French 3-Month BTF Auction |  |  | 3.803% |
+| 29 min | EUR | French 6-Month BTF Auction |  |  | 3.666% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
 | 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 2.6% |
