@@ -25,9 +25,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.781% |  | 3.803% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.670% |  | 3.666% |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.30% |  | 3.00% |
-| 12 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 12 min | USD | Low | 6-Month Bill Auction |  |  | 5.155% |
-| 17:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.250% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.165% |  | 5.155% |
+| 22 min | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 2.6% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | -0.7% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
