@@ -17,8 +17,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 3.670% |  | 3.666% |
 | 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction | 5.165% |  | 5.155% |
-| 22:00 | KRW | Export Price Index (YoY) (Apr) |  |  | 2.6% |
-| 22:00 | KRW | Import Price Index (YoY) (Apr) |  |  | -0.7% |
+| 43 min | KRW | Export Price Index (YoY) (Apr) |  |  | 2.6% |
+| 43 min | KRW | Import Price Index (YoY) (Apr) |  |  | -0.7% |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
 | 23:45 | NZD | External Migration & Visitors (Mar) |  |  | 35.00% |
 | 23:45 | NZD | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |

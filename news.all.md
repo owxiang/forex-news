@@ -28,8 +28,8 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.165% |  | 5.155% |
 | 17:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 2.6% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | -0.7% |
+| 43 min | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 2.6% |
+| 43 min | KRW | Low | Import Price Index (YoY) (Apr) |  |  | -0.7% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 35.00% |
