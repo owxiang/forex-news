@@ -8,7 +8,7 @@
 | 02:30 | AUD | Low | NAB Business Survey (Apr) | 7 |  | 9 |
 | 04:00 | NZD | Moderate | Inflation Expectations (QoQ) | 2.3% |  | 2.5% |
 | 04:00 | IDR | Low | Consumer Confidence (Apr) | 127.7 |  | 123.8 |
-| 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) |  | -40 | -38 |
+| 37 min | CHF | Moderate | SECO Consumer Climate (Q2) |  | -40 | -38 |
 | 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.448% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
