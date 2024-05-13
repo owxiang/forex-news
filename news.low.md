@@ -1,25 +1,39 @@
-## 13 May 2024 - Low Impact Forex News
+## 14 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | M2 Money Stock (YoY) | 2.2% | 2.5% | 2.5% |
-| 00:50 | JPY | M3 Money Supply (Apr) | 2,140.6B |  | 2,145.0B |
-| 02:30 | AUD | NAB Business Survey (Apr) | 7 |  | 9 |
-| 04:00 | IDR | Consumer Confidence (Apr) | 127.7 |  | 123.8 |
-| 05:00 | IDR | Car Sales (YoY) (Apr) | -17.50% |  | -26.20% |
-| 05:00 | IDR | Motorbike Sales (YoY) (Apr) | 18.30% |  | -7.80% |
-| 10:50 | EUR | German 12-Month Bubill Auction | 3.371% |  | 3.448% |
-| 12:00 | EUR | German Current Account Balance n.s.a (Mar) | 27.6B |  | 28.8B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.481% |  | 3.460% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.781% |  | 3.803% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.670% |  | 3.666% |
-| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction | 5.165% |  | 5.155% |
-| 22:00 | KRW | Export Price Index (YoY) (Apr) | 6.2% |  | 2.6% |
-| 22:00 | KRW | Import Price Index (YoY) (Apr) | 2.9% |  | -0.7% |
-| 29 min | NZD | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
-| 29 min | NZD | External Migration & Visitors (Mar) |  |  | 35.00% |
-| 29 min | NZD | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |
-| 29 min | NZD | Visitor Arrivals (MoM) |  |  | 0.9% |
+| 34 min | JPY | PPI (MoM) (Apr) |  |  | 0.2% |
+| 34 min | JPY | PPI (YoY) (Apr) |  | 0.9% | 0.8% |
+| 01:30 | AUD | Westpac Consumer Sentiment |  |  | -2.4% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.404% |
+| 05:00 | IDR | Retail Sales (YoY) (Mar) |  |  | 6.4% |
+| 05:30 | NOK | Consumer Confidence (Q2) |  |  | -26.60 |
+| 07:00 | GBP | Average Earnings ex Bonus (Mar) |  |  | 6.0% |
+| 07:00 | EUR | German HICP (MoM) (Apr) |  | 0.6% | 0.6% |
+| 07:00 | EUR | German HICP (YoY) (Apr) |  | 2.4% | 2.3% |
+| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -8.5% |
+| 07:30 | CHF | PPI (YoY) (Apr) |  |  | -2.1% |
+| 07:30 | INR | WPI Food (YoY) (Apr) |  |  | 6.88% |
+| 07:30 | INR | WPI Fuel (YoY) (Apr) |  |  | -0.77% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) |  |  | -0.85% |
+| 08:00 | EUR | Core CPI (YoY) (Apr) |  | 2.9% | 3.3% |
+| 08:00 | EUR | Spanish CPI (MoM) (Apr) |  | 0.7% | 0.8% |
+| 08:00 | EUR | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.4% |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.597% |
+| 10:00 | ZAR | Gold Production (YoY) (Mar) |  |  | -3.6% |
+| 10:00 | ZAR | Mining Production (Mar) |  |  | 9.9% |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.910% |
+| 10:30 | ZAR | Unemployment Rate (Q1) |  |  | 32.10% |
+| 10:30 | ZAR | Unemployment (Q1) |  |  | 7.895M |
+| 11:00 | USD | NFIB Small Business Optimism (Apr) |  | 88.1 | 88.5 |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | -0.9% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 2.5% |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.2% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 2.8% |
+| 13:30 | USD | Core PPI (YoY) (Apr) |  | 2.4% | 2.4% |
+| 13:30 | USD | PPI (YoY) (Apr) |  | 2.2% | 2.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.0% |
+| 14:10 | USD | Fed Governor Cook Speaks |  |  |  |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 4.915% |
