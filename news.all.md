@@ -11,9 +11,9 @@
 | 05:00 | IDR | Low | Car Sales (YoY) (Apr) | -17.50% |  | -26.20% |
 | 05:00 | IDR | Low | Motorbike Sales (YoY) (Apr) | 18.30% |  | -7.80% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate (Q2) | -24 | -40 | -38 |
-| 38 min | EUR | Moderate | EU Economic Forecasts |  |  |  |
-| 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.448% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Moderate | EU Economic Forecasts |  |  |  |
+| 12 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.448% |
+| 42 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (Mar) |  |  | 29.8B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | INR | Moderate | CPI (YoY) (Apr) |  | 4.80% | 4.85% |
@@ -30,8 +30,8 @@
 | 17:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Apr) |  |  | 2.6% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Apr) |  |  | -0.7% |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Apr) |  |  | -0.7% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Apr) |  |  | -3.0% |
 | 23:45 | NZD | Low | External Migration & Visitors (Mar) |  |  | 35.00% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Mar) |  |  | 7,630 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 0.9% |
