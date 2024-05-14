@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
+| 00:50 | JPY | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 9.3% |  | 6.4% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.572% |  | 0.404% |
 | 05:30 | NOK | Consumer Confidence (Q2) | -16.30 |  | -24.20 |
@@ -35,4 +35,4 @@
 | 13:30 | USD | PPI (YoY) (Apr) | 2.2% | 2.2% | 1.8% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 6.0% |
 | 14:10 | USD | Fed Governor Cook Speaks |  |  |  |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 4.915% |
+| 10 min | USD | 52-Week Bill Auction |  |  | 4.915% |
