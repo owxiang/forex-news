@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 00:50 | JPY | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
-| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.404% |
-| 05:00 | IDR | Retail Sales (YoY) (Mar) |  |  | 6.4% |
+| 00:50 | JPY | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
+| 16 min | JPY | 5-Year JGB Auction |  |  | 0.404% |
+| 41 min | IDR | Retail Sales (YoY) (Mar) | 9.3% |  | 6.4% |
 | 05:30 | NOK | Consumer Confidence (Q2) |  |  | -26.60 |
 | 07:00 | GBP | Average Earnings ex Bonus (Mar) |  |  | 6.0% |
 | 07:00 | EUR | German HICP (YoY) (Apr) |  | 2.4% | 2.3% |
@@ -25,8 +25,8 @@
 | 10:30 | ZAR | Unemployment Rate (Q1) |  |  | 32.10% |
 | 10:30 | ZAR | Unemployment (Q1) |  |  | 7.895M |
 | 11:00 | USD | NFIB Small Business Optimism (Apr) |  | 88.1 | 88.5 |
-| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 2.5% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) |  |  | -0.9% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 2.5% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.2% |
