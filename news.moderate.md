@@ -11,11 +11,11 @@
 | 07:30 | INR | WPI Inflation (YoY) (Apr) | 1.26% | 1.00% | 0.53% |
 | 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.3% | 3.3% | 3.2% |
 | 08:00 | EUR | Spanish HICP (YoY) (Apr) | 3.4% | 3.4% | 3.3% |
-| 13 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 09:30 | GBP | Labour Productivity |  | -1.0% | 0.7% |
-| 10:00 | EUR | German ZEW Current Conditions (May) |  | -75.0 | -79.2 |
-| 10:00 | EUR | German ZEW Economic Sentiment (May) |  | 44.9 | 42.9 |
-| 10:00 | EUR | ZEW Economic Sentiment (May) |  | 46.1 | 43.9 |
+| 08:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 8 min | GBP | Labour Productivity |  | -1.0% | 0.7% |
+| 38 min | EUR | German ZEW Current Conditions (May) |  | -75.0 | -79.2 |
+| 38 min | EUR | German ZEW Economic Sentiment (May) |  | 44.9 | 42.9 |
+| 38 min | EUR | ZEW Economic Sentiment (May) |  | 46.1 | 43.9 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.2% | 0.2% |
