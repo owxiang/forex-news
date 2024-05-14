@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 07:00 | EUR | German CPI (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
 | 13:30 | USD | PPI (MoM) (Apr) | 0.5% | 0.3% | -0.1% |
-| 15:00 | USD | Fed Chair Powell Speaks |  |  |  |
+| 41 min | USD | Fed Chair Powell Speaks |  |  |  |
