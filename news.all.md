@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
 | 00:50 | JPY | Low | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
+| 00:50 | JPY | Low | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) | 9.3% |  | 6.4% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.572% |  | 0.404% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) | -16.30 |  | -24.20 |
@@ -27,8 +27,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Apr) | 2.9% | 2.9% | 3.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) | 3.3% | 3.3% | 3.2% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) | 0.7% | 0.7% | 0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.4% | 3.4% | 3.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 1.4% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) | 3.4% | 3.4% | 3.3% |
 | 08:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:31 | GBP | Moderate | Labour Productivity (Q1) | -0.3% |  | -0.9% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (May) | -72.3 | -75.0 | -79.2 |
@@ -51,12 +51,12 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 3.1% |  | 2.8% |
 | 13:30 | USD | Low | Core PPI (YoY) (Apr) | 2.4% | 2.4% | 2.1% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Apr) | 0.5% | 0.2% | -0.1% |
-| 13:30 | USD | Low | PPI (YoY) (Apr) | 2.2% | 2.2% | 1.8% |
 | 13:30 | USD | High | PPI (MoM) (Apr) | 0.5% | 0.3% | -0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Apr) | 2.2% | 2.2% | 1.8% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) | -1.1% | -0.9% | 0.2% |
 | 13:45 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 6.0% |
 | 14:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction | 4.895% |  | 4.915% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 0.509M |
+| 12 min | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 0.509M |
