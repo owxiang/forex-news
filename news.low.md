@@ -6,11 +6,11 @@
 | 00:50 | JPY | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
 | 04:00 | IDR | Retail Sales (YoY) (Mar) | 9.3% |  | 6.4% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.572% |  | 0.404% |
-| 11 min | NOK | Consumer Confidence (Q2) |  |  | -26.60 |
-| 07:00 | GBP | Average Earnings ex Bonus (Mar) |  |  | 6.0% |
-| 07:00 | EUR | German HICP (YoY) (Apr) |  | 2.4% | 2.3% |
-| 07:00 | EUR | German HICP (MoM) (Apr) |  | 0.6% | 0.6% |
-| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -8.5% |
+| 05:30 | NOK | Consumer Confidence (Q2) | -16.30 |  | -24.20 |
+| 44 min | GBP | Average Earnings ex Bonus (Mar) |  |  | 6.0% |
+| 44 min | EUR | German HICP (MoM) (Apr) |  | 0.6% | 0.6% |
+| 44 min | EUR | German HICP (YoY) (Apr) |  | 2.4% | 2.3% |
+| 44 min | JPY | Machine Tool Orders (YoY) |  |  | -8.5% |
 | 07:30 | CHF | PPI (YoY) (Apr) |  |  | -2.1% |
 | 07:30 | INR | WPI Food (YoY) (Apr) |  |  | 6.88% |
 | 07:30 | INR | WPI Fuel (YoY) (Apr) |  |  | -0.77% |

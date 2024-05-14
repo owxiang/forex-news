@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Mar) |  | 5.3% | 5.6% |
-| 07:00 | GBP | Claimant Count Change (Apr) |  | 13.9K | 10.9K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) |  | -215K | -156K |
-| 07:00 | GBP | Unemployment Rate (Mar) |  | 4.3% | 4.2% |
-| 07:00 | EUR | German CPI (YoY) (Apr) |  | 2.2% | 2.2% |
+| 44 min | GBP | Average Earnings Index +Bonus (Mar) |  | 5.3% | 5.6% |
+| 44 min | GBP | Claimant Count Change (Apr) |  | 13.9K | 10.9K |
+| 44 min | GBP | Employment Change 3M/3M (MoM) (Mar) |  | -215K | -156K |
+| 44 min | GBP | Unemployment Rate (Mar) |  | 4.3% | 4.2% |
+| 44 min | EUR | German CPI (YoY) (Apr) |  | 2.2% | 2.2% |
 | 07:30 | CHF | PPI (MoM) (Apr) |  | 0.2% | 0.1% |
 | 07:30 | INR | WPI Inflation (YoY) (Apr) |  | 1.00% | 0.53% |
 | 08:00 | GBP | Labour Productivity |  | -1.0% | 0.7% |
