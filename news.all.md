@@ -7,28 +7,28 @@
 | 04:00 | IDR | Low | Retail Sales (YoY) (Mar) | 9.3% |  | 6.4% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.572% |  | 0.404% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) | -16.30 |  | -24.20 |
-| 44 min | GBP | Low | Average Earnings ex Bonus (Mar) |  |  | 6.0% |
-| 44 min | GBP | Moderate | Average Earnings Index +Bonus (Mar) |  | 5.3% | 5.6% |
-| 44 min | GBP | Moderate | Claimant Count Change (Apr) |  | 13.9K | 10.9K |
-| 44 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) |  | -215K | -156K |
-| 44 min | GBP | Moderate | Unemployment Rate (Mar) |  | 4.3% | 4.2% |
-| 44 min | EUR | Moderate | German CPI (YoY) (Apr) |  | 2.2% | 2.2% |
-| 44 min | EUR | High | German CPI (MoM) (Apr) |  | 0.5% | 0.4% |
-| 44 min | EUR | Low | German HICP (MoM) (Apr) |  | 0.6% | 0.6% |
-| 44 min | EUR | Low | German HICP (YoY) (Apr) |  | 2.4% | 2.3% |
-| 44 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -8.5% |
-| 07:30 | CHF | Low | PPI (YoY) (Apr) |  |  | -2.1% |
-| 07:30 | CHF | Moderate | PPI (MoM) (Apr) |  | 0.2% | 0.1% |
-| 07:30 | INR | Low | WPI Food (YoY) (Apr) |  |  | 6.88% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (Apr) |  |  | -0.77% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (Apr) |  | 1.00% | 0.53% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Apr) |  |  | -0.85% |
-| 08:00 | GBP | Moderate | Labour Productivity |  | -1.0% | 0.7% |
-| 08:00 | EUR | Low | Core CPI (YoY) (Apr) |  | 2.9% | 3.3% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.3% | 3.2% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.7% | 0.8% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Apr) |  | 3.4% | 3.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.4% |
+| 07:00 | GBP | Low | Average Earnings ex Bonus (Mar) | 6.0% |  | 6.0% |
+| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Mar) | 5.7% | 5.3% | 5.7% |
+| 07:00 | GBP | Moderate | Claimant Count Change (Apr) | 8.9K | 13.9K | -2.4K |
+| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Mar) | -177K | -215K | -156K |
+| 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.2% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
+| 07:00 | EUR | High | German CPI (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
+| 07:00 | EUR | Low | German HICP (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
+| 07:00 | EUR | Low | German HICP (YoY) (Apr) | 2.4% | 2.4% | 2.3% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) | -11.6% |  | -8.5% |
+| 6 min | CHF | Low | PPI (YoY) (Apr) |  |  | -2.1% |
+| 6 min | CHF | Moderate | PPI (MoM) (Apr) |  | 0.2% | 0.1% |
+| 6 min | INR | Low | WPI Food (YoY) (Apr) |  |  | 6.88% |
+| 6 min | INR | Low | WPI Fuel (YoY) (Apr) |  |  | -0.77% |
+| 6 min | INR | Moderate | WPI Inflation (YoY) (Apr) |  | 1.00% | 0.53% |
+| 6 min | INR | Low | WPI Manufacturing Inflation (YoY) (Apr) |  |  | -0.85% |
+| 36 min | GBP | Moderate | Labour Productivity |  | -1.0% | 0.7% |
+| 36 min | EUR | Low | Core CPI (YoY) (Apr) |  | 2.9% | 3.3% |
+| 36 min | EUR | Low | Spanish CPI (MoM) (Apr) |  | 0.7% | 0.8% |
+| 36 min | EUR | Moderate | Spanish CPI (YoY) (Apr) |  | 3.3% | 3.2% |
+| 36 min | EUR | Moderate | Spanish HICP (YoY) (Apr) |  | 3.4% | 3.3% |
+| 36 min | EUR | Low | Spanish HICP (MoM) (Apr) |  | 0.6% | 1.4% |
 | 08:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.597% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (May) |  | -75.0 | -79.2 |
