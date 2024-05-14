@@ -2,9 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 34 min | JPY | Low | PPI (MoM) (Apr) |  |  | 0.2% |
-| 34 min | JPY | Low | PPI (YoY) (Apr) |  | 0.9% | 0.8% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -2.4% |
+| 00:50 | JPY | Low | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
+| 00:50 | JPY | Low | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.404% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Mar) |  |  | 6.4% |
 | 05:30 | NOK | Low | Consumer Confidence (Q2) |  |  | -26.60 |
