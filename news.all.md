@@ -58,5 +58,5 @@
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 6.0% |
 | 14:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 10 min | USD | Low | 52-Week Bill Auction |  |  | 4.915% |
+| 16:30 | USD | Low | 52-Week Bill Auction | 4.895% |  | 4.915% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 0.509M |

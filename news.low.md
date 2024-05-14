@@ -35,4 +35,4 @@
 | 13:30 | USD | PPI (YoY) (Apr) | 2.2% | 2.2% | 1.8% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 6.0% |
 | 14:10 | USD | Fed Governor Cook Speaks |  |  |  |
-| 10 min | USD | 52-Week Bill Auction |  |  | 4.915% |
+| 16:30 | USD | 52-Week Bill Auction | 4.895% |  | 4.915% |
