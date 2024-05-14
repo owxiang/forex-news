@@ -15,8 +15,8 @@
 | 07:00 | GBP | Moderate | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.2% |
 | 07:00 | EUR | High | German CPI (MoM) (Apr) | 0.5% | 0.5% | 0.4% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
-| 07:00 | EUR | Low | German HICP (YoY) (Apr) | 2.4% | 2.4% | 2.3% |
 | 07:00 | EUR | Low | German HICP (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
+| 07:00 | EUR | Low | German HICP (YoY) (Apr) | 2.4% | 2.4% | 2.3% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | -11.6% |  | -8.5% |
 | 07:30 | CHF | Low | PPI (YoY) (Apr) | -1.8% |  | -2.1% |
 | 07:30 | CHF | Moderate | PPI (MoM) (Apr) | 0.6% | 0.2% | 0.1% |
@@ -38,24 +38,25 @@
 | 10:00 | ZAR | Low | Mining Production (Mar) | -5.8% |  | 10.3% |
 | 10:30 | ZAR | Low | Unemployment Rate (Q1) | 32.90% |  | 32.10% |
 | 10:30 | ZAR | Low | Unemployment (Q1) | 8.226M |  | 7.895M |
+| 10:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.584% |  | 3.597% |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.930% |  | 2.910% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Apr) | 89.7 | 88.1 | 88.5 |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 47 min | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) |  |  | 2.5% |
-| 47 min | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) |  |  | -0.9% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) |  |  | 0.2% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) |  |  | 2.8% |
-| 13:30 | USD | Low | Core PPI (YoY) (Apr) |  | 2.4% | 2.4% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Apr) |  | 0.2% | 0.2% |
-| 13:30 | USD | High | PPI (MoM) (Apr) |  | 0.3% | 0.2% |
-| 13:30 | USD | Low | PPI (YoY) (Apr) |  | 2.2% | 2.1% |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) |  | -0.9% | 0.0% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.0% |
-| 14:10 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 14:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Mar) | 0.4% |  | -0.9% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Mar) | -2.3% |  | 2.4% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Apr) | 0.4% |  | 0.2% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Apr) | 3.1% |  | 2.8% |
+| 13:30 | USD | Low | Core PPI (YoY) (Apr) | 2.4% | 2.4% | 2.1% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Apr) | 0.5% | 0.2% | -0.1% |
+| 13:30 | USD | Low | PPI (YoY) (Apr) | 2.2% | 2.2% | 1.8% |
+| 13:30 | USD | High | PPI (MoM) (Apr) | 0.5% | 0.3% | -0.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Mar) | -1.1% | -0.9% | 0.2% |
+| 23 min | USD | Low | Redbook (YoY) |  |  | 6.0% |
+| 38 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 43 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.915% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 1.000M | 0.509M |

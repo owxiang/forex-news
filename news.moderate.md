@@ -19,7 +19,7 @@
 | 10:00 | EUR | ZEW Economic Sentiment (May) | 47.0 | 46.1 | 43.9 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Apr) |  | 0.2% | 0.2% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Mar) |  | -0.9% | 0.0% |
-| 14:15 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 13:30 | USD | Core PPI (MoM) (Apr) | 0.5% | 0.2% | -0.1% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Mar) | -1.1% | -0.9% | 0.2% |
+| 43 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | 1.000M | 0.509M |
