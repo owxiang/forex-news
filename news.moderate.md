@@ -1,25 +1,23 @@
-## 14 May 2024 - Moderate Impact Forex News
+## 15 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | Average Earnings Index +Bonus (Mar) | 5.7% | 5.3% | 5.7% |
-| 07:00 | GBP | Claimant Count Change (Apr) | 8.9K | 13.9K | -2.4K |
-| 07:00 | GBP | Employment Change 3M/3M (MoM) (Mar) | -177K | -215K | -156K |
-| 07:00 | GBP | Labour Productivity (Q4) | -0.3% | -1.0% | 0.5% |
-| 07:00 | GBP | Unemployment Rate (Mar) | 4.3% | 4.3% | 4.2% |
-| 07:00 | EUR | German CPI (YoY) (Apr) | 2.2% | 2.2% | 2.2% |
-| 07:30 | CHF | PPI (MoM) (Apr) | 0.6% | 0.2% | 0.1% |
-| 07:30 | INR | WPI Inflation (YoY) (Apr) | 1.26% | 1.00% | 0.53% |
-| 08:00 | EUR | Spanish CPI (YoY) (Apr) | 3.3% | 3.3% | 3.2% |
-| 08:00 | EUR | Spanish HICP (YoY) (Apr) | 3.4% | 3.4% | 3.3% |
-| 08:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 09:31 | GBP | Labour Productivity (Q1) | -0.3% |  | -0.9% |
-| 10:00 | EUR | German ZEW Current Conditions (May) | -72.3 | -75.0 | -79.2 |
-| 10:00 | EUR | German ZEW Economic Sentiment (May) | 47.1 | 44.9 | 42.9 |
-| 10:00 | EUR | ZEW Economic Sentiment (May) | 47.0 | 46.1 | 43.9 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:30 | USD | Core PPI (MoM) (Apr) | 0.5% | 0.2% | -0.1% |
-| 13:30 | CAD | Wholesale Sales (MoM) (Mar) | -1.1% | -0.9% | 0.2% |
-| 13:45 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -3.104M | -1.350M | 0.509M |
+| 02:30 | AUD | Wage Price Index (QoQ) (Q1) |  | 1.0% | 0.9% |
+| 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.4% | 0.1% |
+| 10:00 | EUR | GDP (QoQ) |  | 0.3% | -0.1% |
+| 10:00 | EUR | Industrial Production (MoM) (Mar) |  | -0.3% | 0.8% |
+| 13:15 | CAD | Housing Starts (Apr) |  | 232.0K | 242.2K |
+| 13:30 | USD | Core CPI (YoY) (Apr) |  | 3.6% | 3.8% |
+| 13:30 | USD | NY Empire State Manufacturing Index (May) |  | -10.80 | -14.30 |
+| 13:30 | USD | Retail Control (MoM) (Apr) |  |  | 1.1% |
+| 15:00 | USD | Business Inventories (MoM) (Mar) |  | 0.0% | 0.4% |
+| 15:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Retail Inventories Ex Auto (Mar) |  | -0.1% | -0.1% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 1.880M |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) |  | 4.2% | 4.2% |
+| 17:00 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 20:20 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 21:00 | USD | TIC Net Long-Term Transactions (Mar) |  | 89.3B | 71.5B |

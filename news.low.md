@@ -1,38 +1,57 @@
-## 14 May 2024 - Low Impact Forex News
+## 15 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
-| 00:50 | JPY | PPI (YoY) (Apr) | 0.9% | 0.9% | 0.9% |
-| 04:00 | IDR | Retail Sales (YoY) (Mar) | 9.3% |  | 6.4% |
-| 04:35 | JPY | 5-Year JGB Auction | 0.572% |  | 0.404% |
-| 05:30 | NOK | Consumer Confidence (Q2) | -16.30 |  | -24.20 |
-| 07:00 | GBP | Average Earnings ex Bonus (Mar) | 6.0% |  | 6.0% |
-| 07:00 | EUR | German HICP (MoM) (Apr) | 0.6% | 0.6% | 0.6% |
-| 07:00 | EUR | German HICP (YoY) (Apr) | 2.4% | 2.4% | 2.3% |
-| 07:00 | JPY | Machine Tool Orders (YoY) | -11.6% |  | -8.5% |
-| 07:30 | CHF | PPI (YoY) (Apr) | -1.8% |  | -2.1% |
-| 07:30 | INR | WPI Food (YoY) (Apr) | 7.74% |  | 6.88% |
-| 07:30 | INR | WPI Fuel (YoY) (Apr) | 1.38% |  | -0.77% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Apr) | -0.42% |  | -0.85% |
-| 08:00 | EUR | Core CPI (YoY) (Apr) | 2.9% | 2.9% | 3.3% |
-| 08:00 | EUR | Spanish CPI (MoM) (Apr) | 0.7% | 0.7% | 0.8% |
-| 08:00 | EUR | Spanish HICP (MoM) (Apr) | 0.6% | 0.6% | 1.4% |
-| 10:00 | ZAR | Gold Production (YoY) (Mar) | -4.5% |  | -5.0% |
-| 10:00 | ZAR | Mining Production (Mar) | -5.8% |  | 10.3% |
-| 10:30 | ZAR | Unemployment Rate (Q1) | 32.90% |  | 32.10% |
-| 10:30 | ZAR | Unemployment (Q1) | 8.226M |  | 7.895M |
-| 10:40 | EUR | Spanish 3-Month Letras Auction | 3.584% |  | 3.597% |
-| 10:50 | EUR | German 2-Year Schatz Auction | 2.930% |  | 2.910% |
-| 11:00 | USD | NFIB Small Business Optimism (Apr) | 89.7 | 88.1 | 88.5 |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Mar) | -2.3% |  | 2.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Mar) | 0.4% |  | -0.9% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Apr) | 0.4% |  | 0.2% |
-| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Apr) | 3.1% |  | 2.8% |
-| 13:30 | USD | Core PPI (YoY) (Apr) | 2.4% | 2.4% | 2.1% |
-| 13:30 | USD | PPI (YoY) (Apr) | 2.2% | 2.2% | 1.8% |
-| 13:55 | USD | Redbook (YoY) | 6.3% |  | 6.0% |
-| 14:10 | USD | Fed Governor Cook Speaks |  |  |  |
-| 16:30 | USD | 52-Week Bill Auction | 4.895% |  | 4.915% |
+| 00:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.26% |
+| 39 min | KRW | Exports (YoY) (Apr) |  |  | 13.8% |
+| 39 min | KRW | Imports (YoY) (Apr) |  |  | 5.4% |
+| 39 min | KRW | Trade Balance (Apr) |  |  | 1.53B |
+| 02:30 | AUD | Wage Price Index (YoY) (Q1) |  | 4.2% | 4.2% |
+| 05:00 | IDR | Export Growth (YoY) (Apr) |  | 4.57% | -4.19% |
+| 05:00 | IDR | Import Growth (YoY) (Apr) |  | 8.69% | -12.76% |
+| 05:00 | IDR | Trade Balance (Apr) |  | 3.30B | 4.47B |
+| 07:00 | NOK | Trade Balance (Apr) |  |  | 64.0B |
+| 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
+| 07:45 | EUR | French CPI (YoY) |  | 2.2% | 2.3% |
+| 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.4% | 2.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 2.10% |
+| 10:00 | EUR | Employment Change (QoQ) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) |  |  | 1.2% |
+| 10:00 | EUR | Employment Overall (Q1) |  |  | 167,534.6K |
+| 10:00 | EUR | Industrial Production (YoY) (Mar) |  | -1.2% | -6.4% |
+| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.620% |
+| 11:00 | INR | Exports (USD) |  |  | 41.68B |
+| 11:00 | INR | Imports (USD) |  |  | 57.28B |
+| 11:00 | INR | Trade Balance |  |  | -15.60B |
+| 11:00 | EUR | Reserve Assets Total (Apr) |  |  | 1,214.96B |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.18% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 2.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 144.2 |
+| 12:00 | USD | Mortgage Market Index |  |  | 197.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 477.5 |
+| 12:00 | ZAR | Retail Sales (YoY) (Mar) |  |  | -0.8% |
+| 12:30 | INR | M3 Money Supply |  |  | 10.9% |
+| 13:00 | BRL | IBC-Br Economic Activity (Mar) |  | -0.30% | 0.40% |
+| 13:30 | USD | Core CPI Index (Apr) |  | 317.73 | 316.70 |
+| 13:30 | USD | CPI Index, n.s.a. (Apr) |  | 313.76 | 312.33 |
+| 13:30 | USD | CPI Index, s.a (Apr) |  |  | 312.23 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Apr) |  |  | 0.65% |
+| 13:30 | USD | Real Earnings (MoM) (Apr) |  |  | 0.3% |
+| 13:30 | USD | Retail Sales (YoY) (Apr) |  |  | 4.27% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 1.0% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -1.4% | 0.7% |
+| 15:00 | USD | NAHB Housing Market Index (May) |  | 51 | 51 |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.353M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.275M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | 0.770M | 0.560M |
+| 15:30 | USD | Gasoline Production |  |  | 0.099M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.285M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.0% |
+| 15:30 | USD | Gasoline Inventories |  | 0.880M | 0.915M |
+| 16:00 | USD | Cleveland CPI (MoM) (Apr) |  |  | 0.4% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.747B |
+| 21:00 | USD | US Foreign Buying, T-bonds (Mar) |  |  | 88.80B |
+| 21:00 | USD | Overall Net Capital Flow (Mar) |  |  | 51.60B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Mar) |  |  | 71.50B |
