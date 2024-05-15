@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 4.1% | 4.2% | 0.9% |
-| 05:00 | IDR | Export Growth (YoY) (Apr) | 1.72% | 4.57% | -4.19% |
+| 05:00 | IDR | Export Growth (YoY) (Apr) | 1.72% | 4.57% | -3.75% |
 | 05:00 | IDR | Import Growth (YoY) (Apr) | 4.62% | 8.69% | -12.76% |
-| 05:00 | IDR | Trade Balance (Apr) | 3.56B | 3.30B | 4.47B |
+| 05:00 | IDR | Trade Balance (Apr) | 3.56B | 3.30B | 4.58B |
 | 07:00 | NOK | Trade Balance (Apr) | 65.3B |  | 63.3B |
-| 23 min | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
-| 23 min | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
-| 23 min | EUR | French CPI (YoY) |  | 2.2% | 2.3% |
-| 23 min | EUR | French HICP (YoY) (Apr) |  | 2.4% | 2.4% |
-| 23 min | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 2.10% |
-| 10:00 | EUR | Employment Change (QoQ) |  | 0.3% | 0.3% |
+| 07:45 | EUR | French CPI NSA (MoM) (Apr) | 0.50% |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) | 2.20% |  | 2.20% |
+| 07:45 | EUR | French CPI (YoY) | 2.2% | 2.2% | 2.3% |
+| 07:45 | EUR | French HICP (YoY) (Apr) | 2.4% | 2.4% | 2.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 2.10% |  | 2.10% |
 | 10:00 | EUR | Employment Change (YoY) |  |  | 1.2% |
+| 10:00 | EUR | Employment Change (QoQ) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Employment Overall (Q1) |  |  | 167,534.6K |
 | 10:00 | EUR | Industrial Production (YoY) (Mar) |  | -1.2% | -6.4% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.620% |

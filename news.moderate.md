@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Wage Price Index (QoQ) (Q1) | 0.8% | 0.9% | 1.0% |
-| 23 min | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
-| 23 min | EUR | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
-| 09:00 | USD | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.4% | 0.1% |
+| 07:45 | EUR | French CPI (MoM) (Apr) | 0.5% | 0.5% | 0.2% |
+| 07:45 | EUR | French HICP (MoM) (Apr) | 0.6% | 0.6% | 0.2% |
+| 44 min | USD | IEA Monthly Report |  |  |  |
 | 10:00 | EUR | GDP (QoQ) |  | 0.3% | -0.1% |
+| 10:00 | EUR | GDP (YoY) (Q1) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Industrial Production (MoM) (Mar) |  | 0.5% | 0.8% |
 | 13:15 | CAD | Housing Starts (Apr) |  | 239.0K | 242.2K |
 | 13:30 | USD | Core CPI (YoY) (Apr) |  | 3.6% | 3.8% |
