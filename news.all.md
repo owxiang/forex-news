@@ -2,27 +2,27 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.8% | 0.9% | 1.0% |
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 4.1% | 4.2% | 0.9% |
+| 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.8% | 0.9% | 1.0% |
 | 05:00 | IDR | Low | Export Growth (YoY) (Apr) | 1.72% | 4.57% | -4.19% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Apr) | 4.62% | 8.69% | -12.76% |
 | 05:00 | IDR | Low | Trade Balance (Apr) | 3.56B | 3.30B | 4.47B |
-| 07:00 | NOK | Low | Trade Balance (Apr) |  |  | 64.0B |
+| 44 min | NOK | Low | Trade Balance (Apr) |  |  | 64.0B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
-| 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
+| 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.3% |
 | 07:45 | EUR | Low | French HICP (YoY) (Apr) |  | 2.4% | 2.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 2.10% |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:00 | EUR | Low | Employment Change (QoQ) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) |  |  | 1.2% |
+| 10:00 | EUR | Low | Employment Change (QoQ) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  |  | 167,534.6K |
-| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (QoQ) |  | 0.3% | -0.1% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.5% | 0.8% |
+| 10:00 | EUR | Moderate | GDP (YoY) (Q1) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Mar) |  | -1.2% | -6.4% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Mar) |  | 0.5% | 0.8% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.620% |
 | 11:00 | INR | Low | Exports (USD) |  |  | 41.68B |
 | 11:00 | INR | Low | Imports (USD) |  |  | 57.28B |
@@ -57,7 +57,7 @@
 | 15:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Low | NAHB Housing Market Index (May) |  | 51 | 51 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Mar) |  | -0.1% | -0.1% |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.350M | -1.362M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.400M | -1.362M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.353M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.880M |
