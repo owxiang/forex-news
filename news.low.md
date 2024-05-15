@@ -12,10 +12,10 @@
 | 07:45 | EUR | French CPI (YoY) | 2.2% | 2.2% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Apr) | 2.4% | 2.4% | 2.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) | 2.10% |  | 2.10% |
-| 10:00 | EUR | Employment Change (YoY) |  |  | 1.2% |
-| 10:00 | EUR | Employment Change (QoQ) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Employment Overall (Q1) |  |  | 167,534.6K |
-| 10:00 | EUR | Industrial Production (YoY) (Mar) |  | -1.2% | -6.4% |
+| 39 min | EUR | Employment Change (QoQ) |  | 0.3% | 0.3% |
+| 39 min | EUR | Employment Change (YoY) |  |  | 1.2% |
+| 39 min | EUR | Employment Overall (Q1) |  |  | 167,534.6K |
+| 39 min | EUR | Industrial Production (YoY) (Mar) |  | -1.2% | -6.4% |
 | 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.620% |
 | 11:00 | INR | Exports (USD) |  |  | 41.68B |
 | 11:00 | INR | Imports (USD) |  |  | 57.28B |
