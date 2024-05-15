@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 17 min | AUD | Wage Price Index (YoY) (Q1) |  | 4.2% | 4.2% |
+| 02:30 | AUD | Wage Price Index (YoY) (Q1) | 4.1% | 4.2% | 0.9% |
 | 05:00 | CAD | Leading Index (MoM) (Apr) |  |  | 0.26% |
 | 05:00 | IDR | Export Growth (YoY) (Apr) |  | 4.57% | -4.19% |
 | 05:00 | IDR | Import Growth (YoY) (Apr) |  | 8.69% | -12.76% |
 | 05:00 | IDR | Trade Balance (Apr) |  | 3.30B | 4.47B |
 | 07:00 | NOK | Trade Balance (Apr) |  |  | 64.0B |
-| 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
 | 07:45 | EUR | French CPI (YoY) |  | 2.2% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Apr) |  | 2.4% | 2.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Apr) |  |  | 2.10% |
