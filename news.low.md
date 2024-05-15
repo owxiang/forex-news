@@ -3,10 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Wage Price Index (YoY) (Q1) | 4.1% | 4.2% | 0.9% |
-| 39 min | CAD | Leading Index (MoM) (Apr) |  |  | 0.26% |
-| 39 min | IDR | Export Growth (YoY) (Apr) |  | 4.57% | -4.19% |
-| 39 min | IDR | Import Growth (YoY) (Apr) |  | 8.69% | -12.76% |
-| 39 min | IDR | Trade Balance (Apr) |  | 3.30B | 4.47B |
+| 05:00 | IDR | Export Growth (YoY) (Apr) | 1.72% | 4.57% | -4.19% |
+| 05:00 | IDR | Import Growth (YoY) (Apr) | 4.62% | 8.69% | -12.76% |
+| 05:00 | IDR | Trade Balance (Apr) | 3.56B | 3.30B | 4.47B |
 | 07:00 | NOK | Trade Balance (Apr) |  |  | 64.0B |
 | 07:45 | EUR | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
 | 07:45 | EUR | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
@@ -37,7 +36,7 @@
 | 13:30 | USD | Real Earnings (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | USD | Retail Sales (YoY) (Apr) |  |  | 4.27% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Apr) |  |  | 1.0% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -1.4% | 0.7% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Mar) |  | -2.4% | 0.7% |
 | 15:00 | USD | NAHB Housing Market Index (May) |  | 51 | 51 |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
 | 15:30 | USD | Crude Oil Imports |  |  | -0.353M |
