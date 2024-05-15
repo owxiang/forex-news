@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Wage Price Index (QoQ) (Q1) |  | 1.0% | 0.9% |
+| 17 min | AUD | Wage Price Index (QoQ) (Q1) |  | 1.0% | 0.9% |
 | 07:45 | EUR | French CPI (MoM) (Apr) |  | 0.5% | 0.2% |
 | 07:45 | EUR | French HICP (MoM) (Apr) |  | 0.6% | 0.2% |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
