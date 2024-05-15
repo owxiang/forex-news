@@ -4,10 +4,10 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:30 | AUD | Low | Wage Price Index (YoY) (Q1) | 4.1% | 4.2% | 0.9% |
 | 02:30 | AUD | Moderate | Wage Price Index (QoQ) (Q1) | 0.8% | 1.0% | 1.0% |
-| 05:00 | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
-| 05:00 | IDR | Low | Export Growth (YoY) (Apr) |  | 4.57% | -4.19% |
-| 05:00 | IDR | Low | Import Growth (YoY) (Apr) |  | 8.69% | -12.76% |
-| 05:00 | IDR | Low | Trade Balance (Apr) |  | 3.30B | 4.47B |
+| 39 min | CAD | Low | Leading Index (MoM) (Apr) |  |  | 0.26% |
+| 39 min | IDR | Low | Export Growth (YoY) (Apr) |  | 4.57% | -4.19% |
+| 39 min | IDR | Low | Import Growth (YoY) (Apr) |  | 8.69% | -12.76% |
+| 39 min | IDR | Low | Trade Balance (Apr) |  | 3.30B | 4.47B |
 | 07:00 | NOK | Low | Trade Balance (Apr) |  |  | 64.0B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Apr) |  |  | 0.50% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Apr) |  |  | 2.20% |
