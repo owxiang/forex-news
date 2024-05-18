@@ -35,14 +35,18 @@ def scrape_forex_events():
 
     # Load the webpage
     driver.get(url)
-
+    
+    # Print statements to check page status
+    print("Current URL:", driver.current_url)
+    print("Page Title:", driver.title)
+    page_load_status = driver.execute_script("return document.readyState;")
+    print("Page Load Status:", page_load_status)
+    
     # Wait for the table to load
-    # WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
     driver.implicitly_wait(30)
 
     # Find the date element
-    # date_element = driver.find_element(By.CLASS_NAME, 'theDay')
-    date_element = "Saturday, May 18, 2024"
+    date_element = driver.find_element(By.CLASS_NAME, 'theDay')
     
     # Extract the date
     date_str = date_element.text.strip()
