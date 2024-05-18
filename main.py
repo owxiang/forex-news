@@ -29,6 +29,8 @@ def scrape_forex_events():
 
     # Run Chrome in headless mode
     chrome_options.add_argument('--headless')  
+    
+    # Set a realistic user-agent
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
 
     # Start the WebDriver
@@ -38,14 +40,8 @@ def scrape_forex_events():
     driver.get(url)
     
     # Wait for the table to load
-    driver.implicitly_wait(90)
+    driver.implicitly_wait(10)
     
-    # Print statements to check page status
-    print("Current URL:", driver.current_url)
-    print("Page Title:", driver.title)
-    page_load_status = driver.execute_script("return document.readyState;")
-    print("Page Load Status:", page_load_status)
-
     # Find the date element
     date_element = driver.find_element(By.CLASS_NAME, 'theDay')
     
