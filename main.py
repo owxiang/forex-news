@@ -37,8 +37,8 @@ def scrape_forex_events():
     driver.get(url)
 
     # Wait for the table to load
-    WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
-    # driver.implicitly_wait(10)
+    # WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
+    driver.implicitly_wait(30)
 
     # Find the date element
     # date_element = driver.find_element(By.CLASS_NAME, 'theDay')
