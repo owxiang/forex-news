@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 20:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 25 min | USD | High | Fed Chair Powell Speaks |  |  |  |
