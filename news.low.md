@@ -10,8 +10,8 @@
 | 11:00 | EUR | Spanish Consumer Confidence |  |  | 82.5 |
 | 11:00 | CNY | FDI |  |  | -26.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Mar) |  |  | 0.4% |
 | 13:00 | MXN | Retail Sales (YoY) (Mar) |  |  | 3.0% |
+| 13:00 | MXN | Retail Sales (MoM) (Mar) |  |  | 0.4% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.481% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.781% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.670% |
