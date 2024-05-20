@@ -10,4 +10,4 @@
 | 13:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 54 min | USD | FOMC Member Mester Speaks |  |  |  |

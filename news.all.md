@@ -24,5 +24,5 @@
 | 15:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.245% |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.160% |  | 5.165% |
-| 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 22:00 | KRW | Low | Consumer Confidence (May) |  |  | 100.7 |
