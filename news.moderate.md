@@ -6,7 +6,7 @@
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 05:30 | JPY | Tertiary Industry Activity Index (MoM) | -2.4% | 0.1% | 2.2% |
 | 10:00 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
-| 12:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 24 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
