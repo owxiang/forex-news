@@ -7,16 +7,16 @@
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
 | 04:00 | IDR | Low | Balance of Payments (EUR) (Q4) | -6.0B |  | -1.5B |
 | 04:00 | IDR | Low | Current Account % of GDP (Q4) | -0.60% |  | -0.20% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 12.70 |  | 1.20 |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -2.4% | 0.1% | 2.2% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 12.70 |  | 1.20 |
 | 09:30 | HKD | Low | Unemployment Rate (Apr) | 3.0% |  | 3.0% |
 | 10:00 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 11:00 | GBP | Low | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.7% |
 | 11:00 | EUR | Low | Spanish Consumer Confidence | 84.5 |  | 82.5 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
 | 13:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
