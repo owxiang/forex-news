@@ -4,8 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 02:15 | CNY | China Loan Prime Rate 5Y (May) | 3.95% | 3.95% | 3.95% |
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 24 min | JPY | Tertiary Industry Activity Index (MoM) |  | 0.1% | 1.5% |
+| 05:30 | JPY | Tertiary Industry Activity Index (MoM) | -2.4% | 0.1% | 1.5% |
 | 10:00 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
+| 12:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 13:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
