@@ -6,10 +6,10 @@
 | 04:00 | IDR | Balance of Payments (EUR) (Q4) | -6.0B |  | -1.5B |
 | 04:00 | IDR | Current Account % of GDP (Q4) | -0.60% |  | -0.20% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Mar) | 12.70 |  | 1.20 |
-| 09:00 | EUR | Spanish Trade Balance |  |  | -2.40B |
-| 23 min | HKD | Unemployment Rate (Apr) |  |  | 3.0% |
-| 11:00 | EUR | Spanish Consumer Confidence |  |  | 82.5 |
-| 11:00 | CNY | FDI |  |  | -26.10% |
+| 09:30 | HKD | Unemployment Rate (Apr) | 3.0% |  | 3.0% |
+| 54 min | EUR | Spanish Consumer Confidence |  |  | 82.5 |
+| 54 min | EUR | Spanish Trade Balance |  |  | -2.40B |
+| 54 min | CNY | FDI |  |  | -26.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | MXN | Retail Sales (YoY) (Mar) |  |  | 3.0% |
 | 13:00 | MXN | Retail Sales (MoM) (Mar) |  |  | 0.4% |
