@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:15 | CNY | China Loan Prime Rate 5Y (May) |  | 3.95% | 3.95% |
-| 02:15 | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
+| 54 min | CNY | China Loan Prime Rate 5Y (May) |  | 3.95% | 3.95% |
+| 54 min | CNY | PBoC Loan Prime Rate |  | 3.45% | 3.45% |
 | 05:30 | JPY | Tertiary Industry Activity Index (MoM) |  |  | 1.5% |
 | 10:00 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
 | 13:45 | USD | FOMC Member Bostic Speaks |  |  |  |
