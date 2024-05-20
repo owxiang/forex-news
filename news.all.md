@@ -17,13 +17,13 @@
 | 12:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Mar) | -0.2% |  | 0.4% |
-| 36 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 51 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 51 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.481% |
-| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.781% |
-| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.670% |
-| 51 min | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
+| 13:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 14:00 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.481% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.781% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.670% |
+| 14:00 | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
 | 15:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
