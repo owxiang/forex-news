@@ -1,19 +1,32 @@
-## 20 May 2024 - Low Impact Forex News
+## 21 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 0.8% |  | 1.1% |
-| 04:00 | IDR | Balance of Payments (EUR) (Q4) | -6.0B |  | -1.5B |
-| 04:00 | IDR | Current Account % of GDP (Q4) | -0.60% |  | -0.20% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Mar) | 12.70 |  | 1.20 |
-| 09:30 | HKD | Unemployment Rate (Apr) | 3.0% |  | 3.0% |
-| 11:00 | GBP | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.7% |
-| 11:00 | EUR | Spanish Consumer Confidence | 84.5 |  | 82.5 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
-| 13:00 | MXN | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
-| 15:25 | EUR | Spanish Trade Balance | -2.00B |  | -2.40B |
-| 15:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction | 5.160% |  | 5.165% |
-| 22:00 | KRW | Consumer Confidence (May) | 98.4 |  | 100.7 |
+| 01:30 | AUD | Westpac Consumer Sentiment (May) |  |  | -2.4% |
+| 04:00 | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
+| 07:00 | EUR | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
+| 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,136.9B |
+| 08:00 | ZAR | Leading Indicators (Mar) |  |  | 112.80% |
+| 09:00 | EUR | Current Account (Mar) |  | 30.2B | 29.5B |
+| 09:00 | EUR | Current Account n.s.a. (Mar) |  |  | 31.6B |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.495% |
+| 10:00 | EUR | Construction Output (MoM) (Mar) |  |  | 1.83% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.410% |
+| 11:00 | GBP | CBI Industrial Trends Orders (May) |  | -20 | -23 |
+| 13:30 | CAD | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
+| 13:30 | CAD | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
+| 13:30 | CAD | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Apr) |  | 2.9% | 3.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
+| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.481% |
+| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.781% |
+| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.670% |
+| 14:00 | EUR | Spanish Trade Balance |  |  | -2.40B |
+| 14:00 | CNY | FDI |  |  | -26.10% |
+| 14:30 | BRL | Federal Tax Revenue |  |  | 190.60B |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.8% |
+| 15:00 | USD | Milk Auctions |  |  | 3,708.0 |
+| 22:00 | KRW | Manufacturing BSI Index (Jun) |  |  | 71 |
+| 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
+| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |

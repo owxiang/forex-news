@@ -1,13 +1,21 @@
-## 20 May 2024 - Moderate Impact Forex News
+## 21 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:15 | CNY | China Loan Prime Rate 5Y (May) | 3.95% | 3.95% | 3.95% |
-| 02:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 05:30 | JPY | Tertiary Industry Activity Index (MoM) | -2.4% | 0.1% | 2.2% |
-| 10:00 | GBP | BoE MPC Member Broadbent Speaks |  |  |  |
-| 12:30 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 13:45 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 14:00 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
+| 07:00 | EUR | German PPI (MoM) (Apr) |  | 0.2% | 0.2% |
+| 09:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
+| 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 09:20 | USD | Fed Governor Kroszner Speaks |  |  |  |
+| 10:00 | EUR | Trade Balance (Mar) |  | 19.9B | 23.6B |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:30 | CAD | Core CPI (YoY) (Apr) |  |  | 2.0% |
+| 13:30 | CAD | Core CPI (MoM) (Apr) |  |  | 0.5% |
+| 13:30 | CAD | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 14:10 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.104M |
