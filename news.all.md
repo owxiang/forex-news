@@ -25,4 +25,4 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.245% |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.160% |  | 5.165% |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 55 min | KRW | Low | Consumer Confidence (May) |  |  | 100.7 |
+| 22:00 | KRW | Low | Consumer Confidence (May) | 98.4 |  | 100.7 |

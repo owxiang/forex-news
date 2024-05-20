@@ -16,4 +16,4 @@
 | 15:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction | 5.160% |  | 5.165% |
-| 55 min | KRW | Consumer Confidence (May) |  |  | 100.7 |
+| 22:00 | KRW | Consumer Confidence (May) | 98.4 |  | 100.7 |
