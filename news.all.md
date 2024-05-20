@@ -9,9 +9,9 @@
 | 04:00 | IDR | Low | Current Account % of GDP (Q4) | -0.60% |  | -0.20% |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -2.4% | 0.1% | 2.2% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) | 12.70 |  | 1.20 |
-| 54 min | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
-| 09:30 | HKD | Low | Unemployment Rate (Apr) |  |  | 3.0% |
-| 10:00 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
+| 09:00 | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
+| 23 min | HKD | Low | Unemployment Rate (Apr) |  |  | 3.0% |
+| 53 min | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
 | 11:00 | EUR | Low | Spanish Consumer Confidence |  |  | 82.5 |
 | 11:00 | CNY | Low | FDI |  |  | -26.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
