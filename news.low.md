@@ -6,7 +6,7 @@
 | 04:00 | IDR | Balance of Payments (EUR) (Q4) | -6.0B |  | -1.5B |
 | 04:00 | IDR | Current Account % of GDP (Q4) | -0.60% |  | -0.20% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Mar) | 12.70 |  | 1.20 |
-| 09:00 | EUR | Spanish Trade Balance |  |  | -2.40B |
+| 54 min | EUR | Spanish Trade Balance |  |  | -2.40B |
 | 09:30 | HKD | Unemployment Rate (Apr) |  |  | 3.0% |
 | 11:00 | EUR | Spanish Consumer Confidence |  |  | 82.5 |
 | 11:00 | CNY | FDI |  |  | -26.10% |
