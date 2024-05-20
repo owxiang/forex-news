@@ -22,7 +22,7 @@
 | 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:25 | EUR | Low | Spanish Trade Balance | -2.00B |  | -2.40B |
 | 15:30 | USD | Low | Fed Governor Jefferson Speaks |  |  |  |
-| 25 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 25 min | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.245% |  | 5.250% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.160% |  | 5.165% |
 | 19:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 22:00 | KRW | Low | Consumer Confidence (May) |  |  | 100.7 |

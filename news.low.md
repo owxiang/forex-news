@@ -14,6 +14,6 @@
 | 13:00 | MXN | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
 | 15:25 | EUR | Spanish Trade Balance | -2.00B |  | -2.40B |
 | 15:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 25 min | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 25 min | USD | 6-Month Bill Auction |  |  | 5.165% |
+| 16:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
+| 16:30 | USD | 6-Month Bill Auction | 5.160% |  | 5.165% |
 | 22:00 | KRW | Consumer Confidence (May) |  |  | 100.7 |
