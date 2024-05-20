@@ -10,9 +10,10 @@
 | 11:00 | GBP | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.7% |
 | 11:00 | EUR | Spanish Consumer Confidence | 84.5 |  | 82.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
 | 13:00 | MXN | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
-| 25 min | USD | Fed Governor Jefferson Speaks |  |  |  |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 5.165% |
+| 13:00 | MXN | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
+| 15:25 | EUR | Spanish Trade Balance | -2.00B |  | -2.40B |
+| 15:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
+| 25 min | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 25 min | USD | 6-Month Bill Auction |  |  | 5.165% |
 | 22:00 | KRW | Consumer Confidence (May) |  |  | 100.7 |
