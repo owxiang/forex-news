@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.8% |  | 1.1% |
 | 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (May) | 3.95% | 3.95% | 3.95% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) |  |  | 0.60 |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  |  | 1.5% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (Mar) |  |  | 0.60 |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
 | 09:30 | HKD | Low | Unemployment Rate (Apr) |  |  | 3.0% |
 | 10:00 | GBP | Moderate | BoE MPC Member Broadbent Speaks |  |  |  |
