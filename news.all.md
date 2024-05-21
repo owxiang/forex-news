@@ -5,9 +5,9 @@
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 1.4% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 0.3% | 0.2% |
 | 07:00 | EUR | Low | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 0.2% | 0.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Apr) |  |  | 1,136.9B |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) |  |  | 112.80% |
 | 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
@@ -22,10 +22,10 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
-| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
+| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.9% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
@@ -34,7 +34,6 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.481% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.781% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.670% |
-| 14:00 | EUR | Low | Spanish Trade Balance |  |  | -2.40B |
 | 14:00 | CNY | Low | FDI |  |  | -26.10% |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

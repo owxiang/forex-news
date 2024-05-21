@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
-| 04:00 | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
+| 04:00 | NZD | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
 | 07:00 | EUR | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
 | 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,136.9B |
 | 08:00 | ZAR | Leading Indicators (Mar) |  |  | 112.80% |
@@ -22,7 +22,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.481% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.781% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.670% |
-| 14:00 | EUR | Spanish Trade Balance |  |  | -2.40B |
 | 14:00 | CNY | FDI |  |  | -26.10% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 190.60B |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.8% |
