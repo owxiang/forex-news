@@ -22,20 +22,20 @@
 | 10:45 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.410% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -33 | -20 | -23 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
-| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.9% | 3.1% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
-| 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.481% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.781% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.670% |
-| 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 22 min | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
+| 22 min | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
+| 22 min | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
+| 22 min | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
+| 22 min | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
+| 22 min | CAD | Low | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
+| 22 min | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.9% | 3.1% |
+| 47 min | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 52 min | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 52 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 52 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.481% |
+| 52 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.781% |
+| 52 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.670% |
+| 57 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:30 | BRL | Low | Federal Tax Revenue |  |  | 190.60B |
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.8% |
@@ -44,5 +44,5 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
 | 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
