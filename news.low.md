@@ -9,10 +9,11 @@
 | 08:00 | ZAR | Leading Indicators (Mar) | 110.40% |  | 112.80% |
 | 09:00 | EUR | Current Account (Mar) | 35.8B | 30.2B | 28.9B |
 | 09:00 | EUR | Current Account n.s.a. (Mar) | 44.5B |  | 31.1B |
-| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.495% |
 | 10:00 | EUR | Construction Output (MoM) (Mar) | 0.10% |  | 0.38% |
-| 25 min | EUR | German 5-Year Bobl Auction |  |  | 2.410% |
-| 55 min | GBP | CBI Industrial Trends Orders (May) |  | -20 | -23 |
+| 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 4.90% |  | 3.40% |
+| 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.580% |  | 4.495% |
+| 10:45 | EUR | German 5-Year Bobl Auction | 2.560% |  | 2.410% |
+| 11:00 | GBP | CBI Industrial Trends Orders (May) | -33 | -20 | -23 |
 | 13:30 | CAD | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
 | 13:30 | CAD | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
 | 13:30 | CAD | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
@@ -27,5 +28,5 @@
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.8% |
 | 15:00 | USD | Milk Auctions |  |  | 3,708.0 |
 | 22:00 | KRW | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |
 | 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
+| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |

@@ -15,17 +15,18 @@
 | 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 44.5B |  | 31.1B |
 | 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:20 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.495% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Mar) | 0.10% |  | 0.38% |
-| 10:00 | EUR | Moderate | Trade Balance (Mar) | 24.1B | 19.9B | 23.6B |
-| 25 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.410% |
-| 55 min | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
-| 55 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 4.90% |  | 3.40% |
+| 10:00 | EUR | Moderate | Trade Balance (Mar) | 24.1B | 19.9B | 22.8B |
+| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.580% |  | 4.495% |
+| 10:45 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.410% |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -33 | -20 | -23 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.9% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
@@ -44,5 +45,5 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
 | 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
+| 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
