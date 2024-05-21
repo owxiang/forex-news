@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -2.4% |
+| 9 min | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -2.4% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 1.4% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 0.2% | 0.2% |
@@ -22,8 +22,8 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
 | 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
@@ -45,5 +45,5 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
