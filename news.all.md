@@ -11,16 +11,16 @@
 | 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,140.9B |  | 1,137.9B |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 110.40% |  | 112.80% |
 | 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 09:00 | EUR | Low | Current Account (Mar) | 35.8B | 30.2B | 29.5B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 44.5B |  | 31.6B |
+| 09:00 | EUR | Low | Current Account (Mar) | 35.8B | 30.2B | 28.9B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 44.5B |  | 31.1B |
 | 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 14 min | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
-| 54 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.495% |
-| 54 min | EUR | Low | Construction Output (MoM) (Mar) |  |  | 1.83% |
-| 54 min | EUR | Moderate | Trade Balance (Mar) |  | 19.9B | 23.6B |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.410% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:20 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
+| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.495% |
+| 10:00 | EUR | Low | Construction Output (MoM) (Mar) | 0.10% |  | 0.38% |
+| 10:00 | EUR | Moderate | Trade Balance (Mar) | 24.1B | 19.9B | 23.6B |
+| 25 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.410% |
+| 55 min | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
+| 55 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |

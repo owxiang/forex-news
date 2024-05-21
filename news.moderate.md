@@ -7,9 +7,9 @@
 | 07:00 | EUR | German PPI (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
 | 09:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 14 min | USD | Fed Governor Kroszner Speaks |  |  |  |
-| 54 min | EUR | Trade Balance (Mar) |  | 19.9B | 23.6B |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:20 | USD | Fed Governor Kroszner Speaks |  |  |  |
+| 10:00 | EUR | Trade Balance (Mar) | 24.1B | 19.9B | 23.6B |
+| 55 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Core CPI (YoY) (Apr) |  |  | 2.0% |
 | 13:30 | CAD | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
