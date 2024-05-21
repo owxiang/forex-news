@@ -6,14 +6,14 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
-| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
-| 53 min | CHF | Low | M3 Money Supply (Apr) |  |  | 1,136.9B |
-| 53 min | ZAR | Low | Leading Indicators (Mar) |  |  | 112.80% |
-| 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 09:00 | EUR | Low | Current Account (Mar) |  | 30.2B | 29.5B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Mar) |  |  | 31.6B |
-| 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
+| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,140.9B |  | 1,137.9B |
+| 08:00 | ZAR | Low | Leading Indicators (Mar) | 110.40% |  | 112.80% |
+| 55 min | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 55 min | EUR | Low | Current Account (Mar) |  | 30.2B | 29.5B |
+| 55 min | EUR | Low | Current Account n.s.a. (Mar) |  |  | 31.6B |
+| 55 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:20 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.495% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Mar) |  |  | 1.83% |
@@ -22,10 +22,10 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | Low | Common CPI (YoY) (Apr) |  | 2.8% | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) |  |  | 2.0% |
-| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
+| 13:30 | CAD | Low | CPI (YoY) (Apr) |  | 2.7% | 2.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Apr) |  | 2.7% | 2.8% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) |  | 2.9% | 3.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
