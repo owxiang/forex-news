@@ -35,7 +35,6 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.481% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.781% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.670% |
-| 14:00 | CNY | Low | FDI |  |  | -26.10% |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 14:30 | BRL | Low | Federal Tax Revenue |  |  | 190.60B |
@@ -45,5 +44,5 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
