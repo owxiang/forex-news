@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
-| 44 min | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
+| 04:00 | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
 | 07:00 | EUR | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
 | 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,136.9B |
 | 08:00 | ZAR | Leading Indicators (Mar) |  |  | 112.80% |
@@ -28,5 +28,5 @@
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.8% |
 | 15:00 | USD | Milk Auctions |  |  | 3,708.0 |
 | 22:00 | KRW | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |
 | 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
+| 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |
