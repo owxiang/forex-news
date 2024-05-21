@@ -10,14 +10,14 @@
 | 07:00 | EUR | Low | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
 | 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,140.9B |  | 1,137.9B |
 | 08:00 | ZAR | Low | Leading Indicators (Mar) | 110.40% |  | 112.80% |
-| 55 min | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 55 min | EUR | Low | Current Account (Mar) |  | 30.2B | 29.5B |
-| 55 min | EUR | Low | Current Account n.s.a. (Mar) |  |  | 31.6B |
-| 55 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:20 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.495% |
-| 10:00 | EUR | Low | Construction Output (MoM) (Mar) |  |  | 1.83% |
-| 10:00 | EUR | Moderate | Trade Balance (Mar) |  | 19.9B | 23.6B |
+| 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 09:00 | EUR | Low | Current Account (Mar) | 35.8B | 30.2B | 29.5B |
+| 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 44.5B |  | 31.6B |
+| 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 14 min | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
+| 54 min | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.495% |
+| 54 min | EUR | Low | Construction Output (MoM) (Mar) |  |  | 1.83% |
+| 54 min | EUR | Moderate | Trade Balance (Mar) |  | 19.9B | 23.6B |
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.410% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (May) |  | -20 | -23 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -44,5 +44,5 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) |  |  | 1.6% |
