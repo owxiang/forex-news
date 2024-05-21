@@ -10,8 +10,8 @@
 | 09:20 | USD | Fed Governor Kroszner Speaks |  |  |  |
 | 10:00 | EUR | Trade Balance (Mar) |  | 19.9B | 23.6B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | Core CPI (YoY) (Apr) |  |  | 2.0% |
+| 13:30 | CAD | Core CPI (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | CPI (MoM) (Apr) |  | 0.5% | 0.6% |
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
