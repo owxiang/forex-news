@@ -1,30 +1,60 @@
-## 21 May 2024 - Low Impact Forex News
+## 22 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | AUD | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
-| 04:00 | NZD | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
-| 07:00 | EUR | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
-| 08:00 | CHF | M3 Money Supply (Apr) | 1,140.9B |  | 1,137.9B |
-| 08:00 | ZAR | Leading Indicators (Mar) | 110.40% |  | 112.80% |
-| 09:00 | EUR | Current Account (Mar) | 35.8B | 30.2B | 28.9B |
-| 09:00 | EUR | Current Account n.s.a. (Mar) | 44.5B |  | 31.1B |
-| 10:00 | EUR | Construction Output (MoM) (Mar) | 0.10% |  | 0.38% |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 4.90% |  | 3.40% |
-| 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.580% |  | 4.495% |
-| 10:45 | EUR | German 5-Year Bobl Auction | 2.560% |  | 2.410% |
-| 11:00 | GBP | CBI Industrial Trends Orders (May) | -33 | -20 | -23 |
-| 13:00 | NZD | GlobalDairyTrade Price Index | 3.3% |  | 1.8% |
-| 13:00 | USD | Milk Auctions | 3,861.0 |  | 3,708.0 |
-| 13:30 | CAD | Common CPI (YoY) (Apr) | 2.6% | 2.8% | 2.9% |
-| 13:30 | CAD | CPI (YoY) (Apr) | 2.7% | 2.7% | 2.9% |
-| 13:30 | CAD | Median CPI (YoY) (Apr) | 2.6% | 2.7% | 2.9% |
-| 13:30 | CAD | Trimmed CPI (YoY) (Apr) | 2.9% | 2.9% | 3.2% |
-| 13:55 | USD | Redbook (YoY) | 5.5% |  | 6.3% |
-| 14:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.467% |  | 3.481% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.746% |  | 3.781% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.670% |
-| 22:00 | KRW | Manufacturing BSI Index (Jun) | 72 |  | 71 |
-| 22:00 | KRW | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
-| 22:00 | KRW | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
+| 00:00 | USD | Fed Collins Speaks |  |  |  |
+| 00:00 | JPY | Reuters Tankan Index (May) |  |  | 9 |
+| 44 min | JPY | Core Machinery Orders (MoM) (Mar) |  | -1.8% | 7.7% |
+| 44 min | JPY | Core Machinery Orders (YoY) (Mar) |  |  | -1.8% |
+| 44 min | JPY | Imports (YoY) (Apr) |  | 9.0% | -4.9% |
+| 07:00 | GBP | Car Registration (YoY) (Apr) |  |  | 10.4% |
+| 07:00 | GBP | Car Registration (MoM) (Apr) |  |  | 274.4% |
+| 07:00 | GBP | Core CPI (MoM) (Apr) |  | 0.7% | 0.6% |
+| 07:00 | GBP | Core CPI (YoY) (Apr) |  | 3.6% | 4.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Apr) |  |  | 0.3% |
+| 07:00 | GBP | Core PPI Output (YoY) (Apr) |  |  | 0.1% |
+| 07:00 | GBP | Core RPI (YoY) (Apr) |  |  | 3.3% |
+| 07:00 | GBP | Core RPI (MoM) (Apr) |  |  | 0.5% |
+| 07:00 | GBP | CPI, n.s.a (Apr) |  |  | 133.00 |
+| 07:00 | GBP | PPI Input (YoY) (Apr) |  |  | -2.5% |
+| 07:00 | GBP | PPI Output (YoY) (Apr) |  |  | 0.6% |
+| 07:00 | GBP | PPI Output (MoM) (Apr) |  | 0.4% | 0.2% |
+| 07:00 | GBP | Public Sector Net Borrowing (Apr) |  | 18.50B | 11.02B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 20.739B |
+| 07:00 | GBP | RPI (MoM) (Apr) |  | 0.5% | 0.5% |
+| 07:00 | GBP | RPI (YoY) (Apr) |  | 3.3% | 4.3% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 10.2% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | -3.7% |
+| 07:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 21.4% |
+| 07:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -6.2% |
+| 07:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -1.5% |
+| 07:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 26.2% |
+| 08:20 | IDR | Loans (YoY) (Apr) |  |  | 12.40% |
+| 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 4.9% |
+| 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.7% |
+| 09:00 | ZAR | CPI (YoY) (Apr) |  |  | 5.3% |
+| 09:00 | ZAR | CPI (MoM) (Apr) |  |  | 0.8% |
+| 09:30 | GBP | House Price Index (YoY) |  | 0.1% | -0.2% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.251% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.08% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 12:00 | USD | MBA Purchase Index |  |  | 141.7 |
+| 12:00 | USD | Mortgage Market Index |  |  | 198.1 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 499.9 |
+| 13:45 | GBP | BoE Breeden Speaks |  |  |  |
+| 14:00 | CNY | FDI |  |  | -26.10% |
+| 14:30 | BRL | Federal Tax Revenue |  |  | 190.60B |
+| Tentative | NZD | GlobalDairyTrade Price Index | 3.3% |  | 1.8% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
+| 15:30 | USD | Crude Oil Imports |  |  | 0.108M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.021M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -0.045M |
+| 15:30 | USD | Gasoline Production |  |  | 0.203M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.680M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
+| 15:30 | USD | Gasoline Inventories |  |  | -0.235M |
+| 17:56 | IDR | Deposit Facility Rate (May) |  | 5.50% | 5.50% |
+| 17:56 | IDR | Lending Facility Rate (May) |  | 7.00% | 7.00% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.633B |
+| 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | -4.1% |

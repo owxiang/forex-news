@@ -1,47 +1,85 @@
-## 21 May 2024 - All Forex News
+## 22 May 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 00:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
-| 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
-| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
-| 08:00 | CHF | Low | M3 Money Supply (Apr) | 1,140.9B |  | 1,137.9B |
-| 08:00 | ZAR | Low | Leading Indicators (Mar) | 110.40% |  | 112.80% |
-| 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 09:00 | EUR | Low | Current Account (Mar) | 35.8B | 30.2B | 28.9B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Mar) | 44.5B |  | 31.1B |
-| 09:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:20 | USD | Moderate | Fed Governor Kroszner Speaks |  |  |  |
-| 10:00 | EUR | Low | Construction Output (MoM) (Mar) | 0.10% |  | 0.38% |
-| 10:00 | EUR | Low | Labor Cost Index (YoY) (Q1) | 4.90% |  | 3.40% |
-| 10:00 | EUR | Moderate | Trade Balance (Mar) | 24.1B | 19.9B | 22.8B |
-| 10:10 | GBP | Low | 20-Year Treasury Gilt Auction | 4.580% |  | 4.495% |
-| 10:45 | EUR | Low | German 5-Year Bobl Auction | 2.560% |  | 2.410% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (May) | -33 | -20 | -23 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 3.3% |  | 1.8% |
-| 13:00 | USD | Low | Milk Auctions | 3,861.0 |  | 3,708.0 |
-| 13:30 | CAD | Low | Common CPI (YoY) (Apr) | 2.6% | 2.8% | 2.9% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (Apr) | 0.2% |  | 0.5% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (Apr) | 1.6% |  | 2.0% |
-| 13:30 | CAD | Low | CPI (YoY) (Apr) | 2.7% | 2.7% | 2.9% |
-| 13:30 | CAD | Moderate | CPI (MoM) (Apr) | 0.5% | 0.5% | 0.6% |
-| 13:30 | CAD | Low | Median CPI (YoY) (Apr) | 2.6% | 2.7% | 2.9% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (Apr) | 2.9% | 2.9% | 3.2% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.5% |  | 6.3% |
-| 14:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.467% |  | 3.481% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.746% |  | 3.781% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.657% |  | 3.670% |
-| 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 14:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 16:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.480M |  | -3.104M |
-| 22:00 | KRW | Low | Manufacturing BSI Index (Jun) | 72 |  | 71 |
-| 22:00 | KRW | Low | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
+| 00:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 00:00 | JPY | Low | Reuters Tankan Index (May) |  |  | 9 |
+| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.70T |
+| 44 min | JPY | Low | Core Machinery Orders (MoM) (Mar) |  | -1.8% | 7.7% |
+| 44 min | JPY | Low | Core Machinery Orders (YoY) (Mar) |  |  | -1.8% |
+| 44 min | JPY | Moderate | Exports (YoY) (Apr) |  | 11.1% | 7.3% |
+| 44 min | JPY | Low | Imports (YoY) (Apr) |  | 9.0% | -4.9% |
+| 44 min | JPY | Moderate | Trade Balance (Apr) |  | -339.5B | 366.5B |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
+| 07:00 | GBP | Low | Car Registration (YoY) (Apr) |  |  | 10.4% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Apr) |  |  | 274.4% |
+| 07:00 | GBP | Low | Core CPI (MoM) (Apr) |  | 0.7% | 0.6% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Apr) |  | 3.6% | 4.2% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) |  |  | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) |  |  | 0.1% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Apr) |  |  | 3.3% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Apr) |  |  | 0.5% |
+| 07:00 | GBP | High | CPI (YoY) (Apr) |  | 2.1% | 3.2% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Apr) |  | 0.2% | 0.6% |
+| 07:00 | GBP | Low | CPI, n.s.a (Apr) |  |  | 133.00 |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) |  | 0.4% | -0.1% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Apr) |  |  | -2.5% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Apr) |  |  | 0.6% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Apr) |  | 0.4% | 0.2% |
+| 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) |  | 18.50B | 11.02B |
+| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) |  |  | 20.739B |
+| 07:00 | GBP | Low | RPI (MoM) (Apr) |  | 0.5% | 0.5% |
+| 07:00 | GBP | Low | RPI (YoY) (Apr) |  | 3.3% | 4.3% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) |  |  | 10.2% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) |  |  | -3.7% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Apr) |  |  | 21.4% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Apr) |  |  | -6.2% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Apr) |  |  | -1.5% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Apr) |  |  | 26.2% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:20 | IDR | Low | Loans (YoY) (Apr) |  |  | 12.40% |
+| 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) |  |  | 4.9% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.7% |
+| 09:00 | ZAR | Low | CPI (YoY) (Apr) |  |  | 5.3% |
+| 09:00 | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.8% |
+| 09:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 09:30 | GBP | Low | House Price Index (YoY) |  | 0.1% | -0.2% |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.251% |
+| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.08% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 141.7 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 198.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 499.9 |
+| 13:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
+| 14:00 | CNY | Low | FDI |  |  | -26.10% |
+| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 190.60B |
+| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) |  |  | -4.3% |
+| Tentative | NZD | Low | GlobalDairyTrade Price Index | 3.3% |  | 1.8% |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -2.508M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.108M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.341M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.021M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -0.045M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.203M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.680M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -0.235M |
+| 17:56 | IDR | Low | Deposit Facility Rate (May) |  | 5.50% | 5.50% |
+| 17:56 | IDR | Low | Lending Facility Rate (May) |  | 7.00% | 7.00% |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.818% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.633B |
+| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 21:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
+| 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
+| 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |
+| 23:45 | NZD | Low | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | -4.1% |

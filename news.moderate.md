@@ -1,21 +1,24 @@
-## 21 May 2024 - Moderate Impact Forex News
+## 22 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 07:00 | EUR | German PPI (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
-| 09:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
-| 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 09:20 | USD | Fed Governor Kroszner Speaks |  |  |  |
-| 10:00 | EUR | Trade Balance (Mar) | 24.1B | 19.9B | 22.8B |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | CAD | Core CPI (MoM) (Apr) | 0.2% |  | 0.5% |
-| 13:30 | CAD | Core CPI (YoY) (Apr) | 1.6% |  | 2.0% |
-| 13:30 | CAD | CPI (MoM) (Apr) | 0.5% | 0.5% | 0.6% |
-| 14:00 | USD | Fed Waller Speaks |  |  |  |
-| 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 14:10 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 2.480M |  | -3.104M |
+| 00:00 | USD | FOMC Member Mester Speaks |  |  |  |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.72T | -0.70T |
+| 44 min | JPY | Exports (YoY) (Apr) |  | 11.1% | 7.3% |
+| 44 min | JPY | Trade Balance (Apr) |  | -339.5B | 366.5B |
+| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 04:00 | NZD | RBNZ Press Conference |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Apr) |  | 0.2% | 0.6% |
+| 07:00 | GBP | PPI Input (MoM) (Apr) |  | 0.4% | -0.1% |
+| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 08:30 | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
+| 09:05 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
+| 15:00 | USD | Existing Home Sales (MoM) (Apr) |  |  | -4.3% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.341M |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.818% |
+| 21:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
+| 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
+| 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |
