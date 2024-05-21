@@ -23,9 +23,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.467% |  | 3.481% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.746% |  | 3.781% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.670% |
-| 23 min | BRL | Federal Tax Revenue |  |  | 190.60B |
-| 53 min | NZD | GlobalDairyTrade Price Index |  |  | 1.8% |
-| 53 min | USD | Milk Auctions |  |  | 3,708.0 |
+| 15:00 | USD | Milk Auctions |  |  | 3,708.0 |
 | 22:00 | KRW | Manufacturing BSI Index (Jun) |  |  | 71 |
 | 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |
