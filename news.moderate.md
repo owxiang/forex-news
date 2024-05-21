@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 54 min | EUR | German PPI (MoM) (Apr) |  | 0.3% | 0.2% |
+| 07:00 | EUR | German PPI (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
 | 09:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 09:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 09:20 | USD | Fed Governor Kroszner Speaks |  |  |  |

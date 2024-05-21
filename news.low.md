@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 01:30 | AUD | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
 | 04:00 | NZD | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
-| 54 min | EUR | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
-| 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,136.9B |
-| 08:00 | ZAR | Leading Indicators (Mar) |  |  | 112.80% |
+| 07:00 | EUR | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
+| 53 min | CHF | M3 Money Supply (Apr) |  |  | 1,136.9B |
+| 53 min | ZAR | Leading Indicators (Mar) |  |  | 112.80% |
 | 09:00 | EUR | Current Account (Mar) |  | 30.2B | 29.5B |
 | 09:00 | EUR | Current Account n.s.a. (Mar) |  |  | 31.6B |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.495% |

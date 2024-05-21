@@ -6,10 +6,10 @@
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) | -0.6% |  | -0.6% |
-| 54 min | EUR | Low | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
-| 54 min | EUR | Moderate | German PPI (MoM) (Apr) |  | 0.3% | 0.2% |
-| 08:00 | CHF | Low | M3 Money Supply (Apr) |  |  | 1,136.9B |
-| 08:00 | ZAR | Low | Leading Indicators (Mar) |  |  | 112.80% |
+| 07:00 | EUR | Low | German PPI (YoY) (Apr) | -3.3% | -3.2% | -2.9% |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Apr) | 0.2% | 0.3% | 0.2% |
+| 53 min | CHF | Low | M3 Money Supply (Apr) |  |  | 1,136.9B |
+| 53 min | ZAR | Low | Leading Indicators (Mar) |  |  | 112.80% |
 | 09:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 09:00 | EUR | Low | Current Account (Mar) |  | 30.2B | 29.5B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Mar) |  |  | 31.6B |
