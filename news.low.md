@@ -14,6 +14,8 @@
 | 10:10 | GBP | 20-Year Treasury Gilt Auction | 4.580% |  | 4.495% |
 | 10:45 | EUR | German 5-Year Bobl Auction | 2.560% |  | 2.410% |
 | 11:00 | GBP | CBI Industrial Trends Orders (May) | -33 | -20 | -23 |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 3.3% |  | 1.8% |
+| 13:00 | USD | Milk Auctions | 3,861.0 |  | 3,708.0 |
 | 13:30 | CAD | Common CPI (YoY) (Apr) | 2.6% | 2.8% | 2.9% |
 | 13:30 | CAD | CPI (YoY) (Apr) | 2.7% | 2.7% | 2.9% |
 | 13:30 | CAD | Median CPI (YoY) (Apr) | 2.6% | 2.7% | 2.9% |
@@ -23,7 +25,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.467% |  | 3.481% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.746% |  | 3.781% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.670% |
-| 15:00 | USD | Milk Auctions |  |  | 3,708.0 |
 | 22:00 | KRW | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
 | 22:00 | KRW | PPI (MoM) (Apr) |  |  | 0.2% |
+| 22:00 | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
