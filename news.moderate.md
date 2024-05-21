@@ -16,6 +16,6 @@
 | 14:00 | USD | Fed Waller Speaks |  |  |  |
 | 14:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 39 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 16:45 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -3.104M |

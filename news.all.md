@@ -39,8 +39,8 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.657% |  | 3.670% |
 | 14:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 14:10 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 39 min | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 16:45 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 54 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) |  |  | 71 |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) |  |  | 0.2% |
