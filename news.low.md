@@ -25,6 +25,6 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.467% |  | 3.481% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.746% |  | 3.781% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.670% |
-| 54 min | KRW | Manufacturing BSI Index (Jun) |  |  | 71 |
-| 54 min | KRW | PPI (YoY) (Apr) |  |  | 1.6% |
-| 54 min | KRW | PPI (MoM) (Apr) |  |  | 0.2% |
+| 22:00 | KRW | Manufacturing BSI Index (Jun) | 72 |  | 71 |
+| 22:00 | KRW | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
+| 22:00 | KRW | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
