@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 9 min | AUD | Westpac Consumer Sentiment (May) |  |  | -2.4% |
+| 01:30 | AUD | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
 | 04:00 | NZD | Credit Card Spending (YoY) |  |  | 1.4% |
 | 07:00 | EUR | German PPI (YoY) (Apr) |  | -3.2% | -2.9% |
 | 08:00 | CHF | M3 Money Supply (Apr) |  |  | 1,136.9B |

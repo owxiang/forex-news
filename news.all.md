@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 9 min | AUD | Low | Westpac Consumer Sentiment (May) |  |  | -2.4% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (May) | -0.3% |  | -2.4% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 1.4% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Apr) |  | 0.2% | 0.2% |
