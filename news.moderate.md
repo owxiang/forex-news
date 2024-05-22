@@ -7,8 +7,8 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.56T | -0.72T | -0.70T |
 | 00:50 | JPY | Exports (YoY) (Apr) | 8.3% | 11.1% | 7.3% |
 | 00:50 | JPY | Trade Balance (Apr) | -462.5B | -339.5B | 366.5B |
-| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 30 min | NZD | RBNZ Monetary Policy Statement |  |  |  |
+| 30 min | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | CPI (MoM) (Apr) |  | 0.2% | 0.6% |
 | 07:00 | GBP | PPI Input (MoM) (Apr) |  | 0.4% | -0.1% |
