@@ -53,5 +53,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.477M |  | -0.680M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | 1.9% |
 | 15:30 | USD | Gasoline Inventories | -0.945M | -1.600M | -0.235M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.633B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | 0.633B |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | -4.1% |

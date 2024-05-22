@@ -73,9 +73,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.477M |  | -0.680M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | 1.9% |
 | 15:30 | USD | Low | Gasoline Inventories | -0.945M | -1.600M | -0.235M |
-| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.818% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.633B |
-| 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
+| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.818% |
+| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 0.633B |
+| 54 min | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |
 | 23:45 | NZD | Moderate | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
 | 23:45 | NZD | Moderate | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |
