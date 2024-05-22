@@ -6,4 +6,4 @@
 | 07:00 | GBP | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
 | 15:00 | USD | Existing Home Sales (Apr) | 4.14M | 4.21M | 4.19M |
 | 15:30 | USD | Crude Oil Inventories | 1.825M | -2.400M | -2.508M |
-| 54 min | USD | FOMC Meeting Minutes |  |  |  |
+| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
