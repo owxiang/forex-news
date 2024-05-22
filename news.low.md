@@ -27,8 +27,8 @@
 | 07:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 10.2% |
 | 07:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -6.2% |
 | 07:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 21.4% |
-| 07:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -1.5% |
 | 07:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 26.2% |
+| 07:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -1.5% |
 | 08:20 | IDR | Loans (YoY) (Apr) |  |  | 12.40% |
 | 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.7% |
 | 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 4.9% |

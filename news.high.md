@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 30 min | NZD | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 03:00 | NZD | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 07:00 | GBP | CPI (YoY) (Apr) |  | 2.1% | 3.2% |
 | 15:00 | USD | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
 | 15:30 | USD | Crude Oil Inventories |  |  | -2.508M |
