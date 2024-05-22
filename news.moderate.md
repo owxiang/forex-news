@@ -18,7 +18,7 @@
 | 10:45 | EUR | German 10-Year Bund Auction | 2.530% |  | 2.540% |
 | 15:00 | USD | Existing Home Sales (MoM) (Apr) | -1.9% |  | -4.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.325M |  | -0.341M |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.818% |
+| 54 min | USD | 20-Year Bond Auction |  |  | 4.818% |
 | 21:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
 | 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
 | 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |

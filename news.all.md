@@ -20,8 +20,8 @@
 | 07:00 | GBP | Low | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
@@ -73,7 +73,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.477M |  | -0.680M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | 1.9% |
 | 15:30 | USD | Low | Gasoline Inventories | -0.945M | -1.600M | -0.235M |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.818% |
+| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.818% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.633B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 21:10 | NZD | Moderate | RBNZ Gov Orr Speaks |  |  |  |

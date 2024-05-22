@@ -11,8 +11,8 @@
 | 07:00 | GBP | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
-| 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
