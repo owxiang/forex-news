@@ -1,24 +1,30 @@
-## 22 May 2024 - Moderate Impact Forex News
+## 23 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 00:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 00:50 | JPY | Adjusted Trade Balance | -0.56T | -0.72T | -0.70T |
-| 00:50 | JPY | Exports (YoY) (Apr) | 8.3% | 11.1% | 7.3% |
-| 00:50 | JPY | Trade Balance (Apr) | -462.5B | -339.5B | 366.5B |
-| 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
-| 07:00 | GBP | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:30 | IDR | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
-| 09:05 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:45 | EUR | German 10-Year Bund Auction | 2.530% |  | 2.540% |
-| 15:00 | USD | Existing Home Sales (MoM) (Apr) | -1.9% |  | -4.3% |
-| 15:30 | USD | Cushing Crude Oil Inventories | 1.325M |  | -0.341M |
-| 18:00 | USD | 20-Year Bond Auction | 4.635% |  | 4.818% |
-| 21:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 40 min | NZD | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
-| 40 min | NZD | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI |  |  | 54.3 |
+| 06:00 | SGD | Core CPI (YoY) (Apr) |  | 3.10% | 3.10% |
+| 06:00 | SGD | CPI (YoY) (Apr) |  | 2.6% | 2.7% |
+| 08:15 | EUR | HCOB France Manufacturing PMI (May) |  | 45.8 | 45.3 |
+| 08:15 | EUR | HCOB France Services PMI (May) |  | 51.8 | 51.3 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (May) |  | 43.4 | 42.5 |
+| 08:30 | EUR | HCOB Germany Services PMI (May) |  | 53.5 | 53.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) |  | 46.2 | 45.7 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 52.0 | 51.7 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 53.6 | 53.3 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 54.0 | 54.1 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 49.5 | 49.1 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI |  | 54.7 | 55.0 |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 12:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | MXN | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
+| 13:00 | MXN | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
+| 13:30 | USD | Building Permits |  | 1.440M | 1.467M |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,794K |
+| 13:30 | CAD | New Housing Price Index (MoM) |  | 0.1% | 0.0% |
+| 14:45 | USD | S&P Global Composite PMI (May) |  | 51.3 | 51.3 |
+| 15:00 | USD | New Home Sales (MoM) (Apr) |  |  | 8.8% |
+| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 1.932% |
+| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,304B |

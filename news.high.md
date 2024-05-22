@@ -1,9 +1,8 @@
-## 22 May 2024 - High Impact Forex News
+## 23 May 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | NZD | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
-| 07:00 | GBP | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
-| 15:00 | USD | Existing Home Sales (Apr) | 4.14M | 4.21M | 4.19M |
-| 15:30 | USD | Crude Oil Inventories | 1.825M | -2.400M | -2.508M |
-| 19:00 | USD | FOMC Meeting Minutes |  |  |  |
+| 13:30 | USD | Initial Jobless Claims |  | 221K | 222K |
+| 14:45 | USD | S&P Global US Manufacturing PMI (May) |  | 50.0 | 50.0 |
+| 14:45 | USD | S&P Global Services PMI (May) |  | 51.2 | 51.3 |
+| 15:00 | USD | New Home Sales (Apr) |  | 677K | 693K |
