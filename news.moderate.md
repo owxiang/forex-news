@@ -10,9 +10,9 @@
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
-| 55 min | GBP | CPI (MoM) (Apr) |  | 0.2% | 0.6% |
-| 55 min | GBP | PPI Input (MoM) (Apr) |  | 0.4% | -0.1% |
-| 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 07:00 | GBP | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
+| 07:00 | GBP | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
+| 53 min | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
 | 09:05 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.540% |
