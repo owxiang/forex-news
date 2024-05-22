@@ -4,17 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Collins Speaks |  |  |  |
 | 00:00 | JPY | Reuters Tankan Index (May) | 9 |  | 9 |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
-| 07:00 | GBP | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
+| 07:00 | GBP | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
+| 07:00 | GBP | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
 | 07:00 | GBP | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
 | 07:00 | GBP | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
@@ -27,8 +27,8 @@
 | 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
 | 07:00 | EUR | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
-| 07:00 | EUR | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
 | 07:00 | EUR | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
+| 07:00 | EUR | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
 | 08:00 | IDR | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
 | 08:30 | IDR | Deposit Facility Rate (May) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (May) | 7.00% | 7.00% | 7.00% |
@@ -54,4 +54,4 @@
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | 1.9% |
 | 15:30 | USD | Gasoline Inventories | -0.945M | -1.600M | -0.235M |
 | 18:30 | BRL | Foreign Exchange Flows | -0.745B |  | 1.747B |
-| 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | -4.1% |
+| 40 min | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | -4.1% |

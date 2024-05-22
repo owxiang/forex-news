@@ -20,5 +20,5 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | 1.325M |  | -0.341M |
 | 18:00 | USD | 20-Year Bond Auction | 4.635% |  | 4.818% |
 | 21:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
-| 23:45 | NZD | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
-| 23:45 | NZD | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |
+| 40 min | NZD | Core Retail Sales (QoQ) |  | 0.0% | -1.7% |
+| 40 min | NZD | Retail Sales (QoQ) (Q1) |  | -0.3% | -1.9% |
