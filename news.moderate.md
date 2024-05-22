@@ -16,7 +16,7 @@
 | 08:30 | IDR | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 09:05 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:45 | EUR | German 10-Year Bund Auction | 2.530% |  | 2.540% |
-| 15:00 | USD | Existing Home Sales (MoM) (Apr) |  |  | -4.3% |
+| 53 min | USD | Existing Home Sales (MoM) (Apr) |  |  | -4.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.341M |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.818% |
 | 21:10 | NZD | RBNZ Gov Orr Speaks |  |  |  |
