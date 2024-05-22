@@ -4,36 +4,36 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | Fed Collins Speaks |  |  |  |
 | 00:00 | JPY | Reuters Tankan Index (May) | 9 |  | 9 |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
-| 07:00 | GBP | Car Registration (MoM) (Apr) |  |  | 274.4% |
-| 07:00 | GBP | Car Registration (YoY) (Apr) |  |  | 10.4% |
-| 07:00 | GBP | Core CPI (MoM) (Apr) |  | 0.7% | 0.6% |
-| 07:00 | GBP | Core CPI (YoY) (Apr) |  | 3.6% | 4.2% |
-| 07:00 | GBP | Core PPI Output (YoY) (Apr) |  |  | 0.1% |
-| 07:00 | GBP | Core PPI Output (MoM) (Apr) |  |  | 0.3% |
-| 07:00 | GBP | Core RPI (MoM) (Apr) |  |  | 0.5% |
-| 07:00 | GBP | Core RPI (YoY) (Apr) |  |  | 3.3% |
-| 07:00 | GBP | CPI, n.s.a (Apr) |  |  | 133.00 |
-| 07:00 | GBP | PPI Input (YoY) (Apr) |  | -1.2% | -2.5% |
-| 07:00 | GBP | PPI Output (MoM) (Apr) |  | 0.4% | 0.2% |
-| 07:00 | GBP | PPI Output (YoY) (Apr) |  | 1.2% | 0.6% |
-| 07:00 | GBP | Public Sector Net Borrowing (Apr) |  | 18.50B | 11.02B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 20.739B |
-| 07:00 | GBP | RPI (YoY) (Apr) |  | 3.3% | 4.3% |
-| 07:00 | GBP | RPI (MoM) (Apr) |  | 0.5% | 0.5% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Apr) |  |  | 10.2% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Apr) |  |  | -3.7% |
-| 07:00 | EUR | German Car Registration (MoM) (Apr) |  |  | 21.4% |
-| 07:00 | EUR | German Car Registration (YoY) (Apr) |  |  | -6.2% |
-| 07:00 | EUR | French Car Registration (MoM) (Apr) |  |  | 26.2% |
-| 07:00 | EUR | French Car Registration (YoY) (Apr) |  |  | -1.5% |
+| 55 min | GBP | Car Registration (YoY) (Apr) |  |  | 10.4% |
+| 55 min | GBP | Car Registration (MoM) (Apr) |  |  | 274.4% |
+| 55 min | GBP | Core CPI (YoY) (Apr) |  | 3.6% | 4.2% |
+| 55 min | GBP | Core CPI (MoM) (Apr) |  | 0.7% | 0.6% |
+| 55 min | GBP | Core PPI Output (MoM) (Apr) |  |  | 0.3% |
+| 55 min | GBP | Core PPI Output (YoY) (Apr) |  |  | 0.1% |
+| 55 min | GBP | Core RPI (YoY) (Apr) |  |  | 3.3% |
+| 55 min | GBP | Core RPI (MoM) (Apr) |  |  | 0.5% |
+| 55 min | GBP | CPI, n.s.a (Apr) |  |  | 133.00 |
+| 55 min | GBP | PPI Input (YoY) (Apr) |  | -1.2% | -2.5% |
+| 55 min | GBP | PPI Output (MoM) (Apr) |  | 0.4% | 0.2% |
+| 55 min | GBP | PPI Output (YoY) (Apr) |  | 1.2% | 0.6% |
+| 55 min | GBP | Public Sector Net Borrowing (Apr) |  | 18.50B | 11.02B |
+| 55 min | GBP | Public Sector Net Cash Requirement (Apr) |  |  | 20.739B |
+| 55 min | GBP | RPI (MoM) (Apr) |  | 0.5% | 0.5% |
+| 55 min | GBP | RPI (YoY) (Apr) |  | 3.3% | 4.3% |
+| 55 min | EUR | Italian Car Registration (YoY) (Apr) |  |  | -3.7% |
+| 55 min | EUR | Italian Car Registration (MoM) (Apr) |  |  | 10.2% |
+| 55 min | EUR | German Car Registration (MoM) (Apr) |  |  | 21.4% |
+| 54 min | EUR | German Car Registration (YoY) (Apr) |  |  | -6.2% |
+| 54 min | EUR | French Car Registration (YoY) (Apr) |  |  | -1.5% |
+| 54 min | EUR | French Car Registration (MoM) (Apr) |  |  | 26.2% |
 | 08:20 | IDR | Loans (YoY) (Apr) |  |  | 12.40% |
 | 08:30 | IDR | Deposit Facility Rate (May) |  | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (May) |  | 7.00% | 7.00% |
-| 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 4.9% |
 | 09:00 | ZAR | Core CPI (MoM) (Apr) |  |  | 0.7% |
+| 09:00 | ZAR | Core CPI (YoY) (Apr) |  |  | 4.9% |
 | 09:00 | ZAR | CPI (YoY) (Apr) |  |  | 5.3% |
 | 09:00 | ZAR | CPI (MoM) (Apr) |  |  | 0.8% |
 | 09:30 | GBP | House Price Index (YoY) |  | 0.1% | -0.2% |
