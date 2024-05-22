@@ -5,13 +5,13 @@
 | 00:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 00:00 | JPY | Low | Reuters Tankan Index (May) |  |  | 9 |
-| 44 min | JPY | Moderate | Adjusted Trade Balance |  | -0.72T | -0.70T |
-| 44 min | JPY | Low | Core Machinery Orders (MoM) (Mar) |  | -1.8% | 7.7% |
-| 44 min | JPY | Low | Core Machinery Orders (YoY) (Mar) |  |  | -1.8% |
-| 44 min | JPY | Moderate | Exports (YoY) (Apr) |  | 11.1% | 7.3% |
-| 44 min | JPY | Low | Imports (YoY) (Apr) |  | 9.0% | -4.9% |
-| 44 min | JPY | Moderate | Trade Balance (Apr) |  | -339.5B | 366.5B |
+| 00:00 | JPY | Low | Reuters Tankan Index (May) | 9 |  | 9 |
+| 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.72T | -0.70T |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
+| 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 8.3% | 11.1% | 7.3% |
+| 00:50 | JPY | Low | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
+| 00:50 | JPY | Moderate | Trade Balance (Apr) | -462.5B | -339.5B | 366.5B |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |

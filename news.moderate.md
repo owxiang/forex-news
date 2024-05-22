@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | USD | FOMC Member Mester Speaks |  |  |  |
-| 44 min | JPY | Adjusted Trade Balance |  | -0.72T | -0.70T |
-| 44 min | JPY | Exports (YoY) (Apr) |  | 11.1% | 7.3% |
-| 44 min | JPY | Trade Balance (Apr) |  | -339.5B | 366.5B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.56T | -0.72T | -0.70T |
+| 00:50 | JPY | Exports (YoY) (Apr) | 8.3% | 11.1% | 7.3% |
+| 00:50 | JPY | Trade Balance (Apr) | -462.5B | -339.5B | 366.5B |
 | 03:00 | NZD | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | RBNZ Press Conference |  |  |  |
