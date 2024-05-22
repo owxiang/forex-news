@@ -45,13 +45,13 @@
 | 12:00 | USD | Mortgage Market Index | 201.9 |  | 198.1 |
 | 12:00 | USD | Mortgage Refinance Index | 536.9 |  | 499.9 |
 | 13:45 | GBP | BoE Breeden Speaks |  |  |  |
-| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
-| 24 min | USD | Crude Oil Imports |  |  | 0.108M |
-| 24 min | USD | Distillate Fuel Production |  |  | 0.021M |
-| 24 min | USD | EIA Weekly Distillates Stocks |  | -0.100M | -0.045M |
-| 24 min | USD | Gasoline Production |  |  | 0.203M |
-| 24 min | USD | Heating Oil Stockpiles |  |  | -0.680M |
-| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
-| 24 min | USD | Gasoline Inventories |  | -1.600M | -0.235M |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.227M |  | 0.307M |
+| 15:30 | USD | Crude Oil Imports | -0.676M |  | 0.108M |
+| 15:30 | USD | Distillate Fuel Production | 0.260M |  | 0.021M |
+| 15:30 | USD | EIA Weekly Distillates Stocks | 0.379M | -0.100M | -0.045M |
+| 15:30 | USD | Gasoline Production | 0.351M |  | 0.203M |
+| 15:30 | USD | Heating Oil Stockpiles | 0.477M |  | -0.680M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | 1.9% |
+| 15:30 | USD | Gasoline Inventories | -0.945M | -1.600M | -0.235M |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 0.633B |
 | 23:45 | NZD | Retail Sales Quarterly Vs. Year Ago (Q1) |  |  | -4.1% |

@@ -63,16 +63,16 @@
 | 13:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) | -1.9% |  | -4.3% |
 | 15:00 | USD | High | Existing Home Sales (Apr) | 4.14M | 4.21M | 4.19M |
-| 24 min | USD | High | Crude Oil Inventories |  | -2.400M | -2.508M |
-| 24 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
-| 24 min | USD | Low | Crude Oil Imports |  |  | 0.108M |
-| 24 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.341M |
-| 24 min | USD | Low | Distillate Fuel Production |  |  | 0.021M |
-| 24 min | USD | Low | EIA Weekly Distillates Stocks |  | -0.100M | -0.045M |
-| 24 min | USD | Low | Gasoline Production |  |  | 0.203M |
-| 24 min | USD | Low | Heating Oil Stockpiles |  |  | -0.680M |
-| 24 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.9% |
-| 24 min | USD | Low | Gasoline Inventories |  | -1.600M | -0.235M |
+| 15:30 | USD | High | Crude Oil Inventories | 1.825M | -2.400M | -2.508M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | 0.227M |  | 0.307M |
+| 15:30 | USD | Low | Crude Oil Imports | -0.676M |  | 0.108M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | 1.325M |  | -0.341M |
+| 15:30 | USD | Low | Distillate Fuel Production | 0.260M |  | 0.021M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.379M | -0.100M | -0.045M |
+| 15:30 | USD | Low | Gasoline Production | 0.351M |  | 0.203M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | 0.477M |  | -0.680M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | 1.9% |
+| 15:30 | USD | Low | Gasoline Inventories | -0.945M | -1.600M | -0.235M |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.818% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.633B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
