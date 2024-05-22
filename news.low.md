@@ -13,8 +13,8 @@
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
-| 07:00 | GBP | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
+| 07:00 | GBP | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
 | 07:00 | GBP | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
 | 07:00 | GBP | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
@@ -27,8 +27,8 @@
 | 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
 | 07:00 | EUR | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
-| 07:00 | EUR | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 07:00 | EUR | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
+| 07:00 | EUR | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 08:00 | IDR | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
 | 08:30 | IDR | Deposit Facility Rate (May) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (May) | 7.00% | 7.00% | 7.00% |
@@ -39,11 +39,11 @@
 | 09:30 | GBP | House Price Index (YoY) | 1.8% | 0.1% | -0.2% |
 | 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.199% |  | 4.251% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 55 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.08% |
-| 55 min | USD | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 55 min | USD | MBA Purchase Index |  |  | 141.7 |
-| 55 min | USD | Mortgage Market Index |  |  | 198.1 |
-| 55 min | USD | Mortgage Refinance Index |  |  | 499.9 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.01% |  | 7.08% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 1.9% |  | 0.5% |
+| 12:00 | USD | MBA Purchase Index | 140.0 |  | 141.7 |
+| 12:00 | USD | Mortgage Market Index | 201.9 |  | 198.1 |
+| 12:00 | USD | Mortgage Refinance Index | 536.9 |  | 499.9 |
 | 13:45 | GBP | BoE Breeden Speaks |  |  |  |
 | 14:00 | CNY | FDI |  |  | -26.10% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |

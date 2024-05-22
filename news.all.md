@@ -22,8 +22,8 @@
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
-| 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
+| 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
@@ -39,8 +39,8 @@
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 08:00 | IDR | Low | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
@@ -55,11 +55,11 @@
 | 10:20 | GBP | Low | 5-Year Treasury Gilt Auction | 4.199% |  | 4.251% |
 | 10:45 | EUR | Moderate | German 10-Year Bund Auction | 2.530% |  | 2.540% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 55 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.08% |
-| 55 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.5% |
-| 55 min | USD | Low | MBA Purchase Index |  |  | 141.7 |
-| 55 min | USD | Low | Mortgage Market Index |  |  | 198.1 |
-| 55 min | USD | Low | Mortgage Refinance Index |  |  | 499.9 |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.01% |  | 7.08% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 1.9% |  | 0.5% |
+| 12:00 | USD | Low | MBA Purchase Index | 140.0 |  | 141.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 201.9 |  | 198.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 536.9 |  | 499.9 |
 | 13:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 14:00 | CNY | Low | FDI |  |  | -26.10% |
 | 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
