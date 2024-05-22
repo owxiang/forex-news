@@ -33,8 +33,8 @@
 | 07:00 | GBP | Low | PPI Output (YoY) (Apr) | 1.1% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) | 19.59B | 18.50B | 12.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
-| 07:00 | GBP | Low | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
+| 07:00 | GBP | Low | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
@@ -60,10 +60,9 @@
 | 12:00 | USD | Low | MBA Purchase Index | 140.0 |  | 141.7 |
 | 12:00 | USD | Low | Mortgage Market Index | 201.9 |  | 198.1 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 536.9 |  | 499.9 |
-| 13:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
-| 14:00 | CNY | Low | FDI |  |  | -26.10% |
-| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
+| 36 min | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) |  |  | -4.3% |
+| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -2.508M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.108M |
