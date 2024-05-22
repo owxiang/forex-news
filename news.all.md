@@ -7,8 +7,8 @@
 | 00:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 00:00 | JPY | Low | Reuters Tankan Index (May) | 9 |  | 9 |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.72T | -0.70T |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 8.3% | 11.1% | 7.3% |
 | 00:50 | JPY | Low | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
 | 00:50 | JPY | Moderate | Trade Balance (Apr) | -462.5B | -339.5B | 366.5B |
@@ -16,43 +16,43 @@
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
-| 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
-| 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
+| 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
-| 07:00 | GBP | Low | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
+| 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
+| 07:00 | GBP | Low | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
-| 07:00 | GBP | Low | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Apr) | 1.1% | 1.2% | 0.7% |
+| 07:00 | GBP | Low | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) | 19.59B | 18.50B | 12.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
-| 07:00 | GBP | Low | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
+| 07:00 | GBP | Low | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
+| 08:00 | IDR | Low | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 14 min | IDR | Low | Loans (YoY) (Apr) |  |  | 12.40% |
-| 24 min | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
-| 24 min | IDR | Low | Deposit Facility Rate (May) |  | 5.50% | 5.50% |
-| 24 min | IDR | Low | Lending Facility Rate (May) |  | 7.00% | 7.00% |
-| 54 min | GBP | Low | CPI, n.s.a (Apr) |  |  | 133.00 |
-| 54 min | ZAR | Low | Core CPI (MoM) (Apr) |  |  | 0.7% |
-| 54 min | ZAR | Low | Core CPI (YoY) (Apr) |  |  | 4.9% |
-| 54 min | ZAR | Low | CPI (YoY) (Apr) |  |  | 5.3% |
-| 54 min | ZAR | Low | CPI (MoM) (Apr) |  |  | 0.8% |
-| 59 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 09:30 | GBP | Low | House Price Index (YoY) |  | 0.1% | -0.2% |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.251% |
+| 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
+| 08:30 | IDR | Low | Deposit Facility Rate (May) | 5.50% | 5.50% | 5.50% |
+| 08:30 | IDR | Low | Lending Facility Rate (May) | 7.00% | 7.00% | 7.00% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.2% |  | 0.7% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 4.6% |  | 4.9% |
+| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 5.2% |  | 5.3% |
+| 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.8% |
+| 09:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 23 min | GBP | Low | House Price Index (YoY) |  | 0.1% | -0.2% |
+| 53 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.251% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.540% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.08% |
@@ -62,8 +62,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 499.9 |
 | 13:45 | GBP | Low | BoE Breeden Speaks |  |  |  |
 | 14:00 | CNY | Low | FDI |  |  | -26.10% |
-| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Apr) |  |  | -4.3% |
+| 15:00 | USD | High | Existing Home Sales (Apr) |  | 4.21M | 4.19M |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.400M | -2.508M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.307M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.108M |
