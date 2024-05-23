@@ -26,5 +26,5 @@
 | 15:00 | USD | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 2.184% |  | 1.932% |
-| 54 min | USD | FOMC Member Bostic Speaks |  |  |  |
+| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,304B |
