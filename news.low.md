@@ -15,8 +15,8 @@
 | 06:00 | INR | HSBC India Manufacturing PMI | 58.4 |  | 58.8 |
 | 06:00 | INR | HSBC India Services PMI | 61.4 |  | 60.8 |
 | 06:00 | SGD | CPI (MoM) (Apr) | 0.10% |  | -0.10% |
-| 08:15 | EUR | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
-| 08:30 | EUR | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
+| 10 min | EUR | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
+| 25 min | EUR | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
 | 09:30 | HKD | CPI (MoM) (Apr) |  |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Apr) |  | 2.10% | 2.00% |
 | 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
@@ -35,9 +35,8 @@
 | 16:00 | USD | KC Fed Manufacturing Index (May) |  |  | -13 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 0.633B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Imports (Apr) |  |  | 5.91B |
-| 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -9,870M |
 | 23:45 | NZD | Trade Balance (MoM) (Apr) |  |  | 588M |
+| 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -9,870M |

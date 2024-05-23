@@ -18,15 +18,15 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) | 3.10% | 3.10% | 3.10% |
 | 06:00 | SGD | Low | CPI (MoM) (Apr) | 0.10% |  | -0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Apr) | 2.7% | 2.6% | 2.7% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 45.8 | 45.3 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (May) |  | 51.8 | 51.3 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 43.4 | 42.5 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 53.5 | 53.2 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 46.2 | 45.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 52.0 | 51.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 53.6 | 53.3 |
+| 10 min | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 45.8 | 45.3 |
+| 10 min | EUR | Low | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
+| 10 min | EUR | Moderate | HCOB France Services PMI (May) |  | 51.8 | 51.3 |
+| 25 min | EUR | Low | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
+| 25 min | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 43.4 | 42.5 |
+| 25 min | EUR | Moderate | HCOB Germany Services PMI (May) |  | 53.5 | 53.2 |
+| 55 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 46.2 | 45.7 |
+| 55 min | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 52.0 | 51.7 |
+| 55 min | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 53.6 | 53.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 54.0 | 54.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 49.5 | 49.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.7 | 55.0 |
@@ -41,8 +41,8 @@
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | 0.15 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 220K | 222K |
@@ -63,11 +63,10 @@
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.932% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 0.633B |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,304B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Low | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Low | Imports (Apr) |  |  | 5.91B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -9,870M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -9,870M |
