@@ -28,11 +28,11 @@
 | 13:30 | USD | Chicago Fed National Activity (Apr) | -0.23 | 0.12 | -0.04 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 219.75K |  | 218.00K |
 | 15:00 | EUR | Consumer Confidence (May) | -14.3 | -14.0 | -14.7 |
-| 24 min | USD | Natural Gas Storage |  | 84B | 70B |
-| 54 min | USD | KC Fed Composite Index (May) |  |  | -8 |
-| 54 min | USD | KC Fed Manufacturing Index (May) |  |  | -13 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 5.270% |
+| 15:30 | USD | Natural Gas Storage | 78B | 84B | 70B |
+| 16:00 | USD | KC Fed Composite Index (May) | -2 |  | -8 |
+| 16:00 | USD | KC Fed Manufacturing Index (May) | -1 |  | -13 |
+| 25 min | USD | 4-Week Bill Auction |  |  | 5.270% |
+| 25 min | USD | 8-Week Bill Auction |  |  | 5.270% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Imports (Apr) |  |  | 5.91B |

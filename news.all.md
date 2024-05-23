@@ -41,8 +41,8 @@
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 1.6% | 1.6% | 2.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:25 | USD | Moderate | Building Permits | 1.440M | 1.440M | 1.467M |
 | 13:25 | USD | Low | Building Permits (MoM) | -3.0% | -3.0% | -3.7% |
+| 13:25 | USD | Moderate | Building Permits | 1.440M | 1.440M | 1.467M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) | -0.23 | 0.12 | -0.04 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,794K | 1,794K | 1,786K |
 | 13:30 | USD | High | Initial Jobless Claims | 215K | 220K | 223K |
@@ -55,11 +55,11 @@
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.0 | -14.7 |
-| 24 min | USD | Low | Natural Gas Storage |  | 84B | 70B |
-| 54 min | USD | Low | KC Fed Composite Index (May) |  |  | -8 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (May) |  |  | -13 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
+| 15:30 | USD | Low | Natural Gas Storage | 78B | 84B | 70B |
+| 16:00 | USD | Low | KC Fed Composite Index (May) | -2 |  | -8 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (May) | -1 |  | -13 |
+| 25 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
+| 25 min | USD | Low | 8-Week Bill Auction |  |  | 5.270% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 1.932% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,304B |
