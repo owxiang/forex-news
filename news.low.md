@@ -6,8 +6,8 @@
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
 | 00:50 | JPY | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
-| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
 | 01:00 | SGD | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.5 | 49.7 | 49.6 |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (May) | 3.50% | 3.50% | 3.50% |
@@ -21,14 +21,13 @@
 | 09:30 | HKD | CPI (YoY) (Apr) | 1.10% | 2.10% | 2.00% |
 | 13:00 | MXN | 1st Half-Month Core CPI (May) | 0.15% | 0.15% | 0.16% |
 | 13:00 | MXN | 1st Half-Month CPI (May) | -0.21% | -0.22% | 0.09% |
-| 13:00 | MXN | Economic Activity (YoY) (Mar) | -1.30% | 1.10% | 4.50% |
 | 13:00 | MXN | Economic Activity (MoM) (Mar) | 0.30% | 0.80% | 1.50% |
+| 13:00 | MXN | Economic Activity (YoY) (Mar) | -1.30% | 1.10% | 4.50% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 22 min | USD | Building Permits (MoM) |  | -3.0% | -3.7% |
-| 22 min | USD | Chicago Fed National Activity (Apr) |  |  | 0.15 |
-| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 217.75K |
-| 22 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 137.7K |
-| 15:00 | EUR | Consumer Confidence (May) |  | -14.0 | -14.7 |
+| 13:25 | USD | Building Permits (MoM) | -3.0% | -3.0% | -3.7% |
+| 13:30 | USD | Chicago Fed National Activity (Apr) | -0.23 | 0.12 | -0.04 |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 219.75K |  | 218.00K |
+| 54 min | EUR | Consumer Confidence (May) |  | -14.0 | -14.7 |
 | 15:30 | USD | Natural Gas Storage |  | 84B | 70B |
 | 16:00 | USD | KC Fed Composite Index (May) |  |  | -8 |
 | 16:00 | USD | KC Fed Manufacturing Index (May) |  |  | -13 |

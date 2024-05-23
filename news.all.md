@@ -6,8 +6,8 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
-| 01:00 | SGD | Low | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
 | 01:00 | SGD | Low | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
+| 01:00 | SGD | Low | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) | 50.5 | 49.7 | 49.6 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.6 |  | 54.3 |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
@@ -36,26 +36,25 @@
 | 12:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (May) | 0.15% | 0.15% | 0.16% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) | -0.21% | -0.22% | 0.09% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Mar) | -1.30% | 1.10% | 4.50% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Mar) | 0.30% | 0.80% | 1.50% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.1% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Mar) | -1.30% | 1.10% | 4.50% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 1.6% | 1.6% | 2.5% |
+| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.1% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 22 min | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
-| 22 min | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
-| 22 min | USD | Low | Chicago Fed National Activity (Apr) |  |  | 0.15 |
-| 22 min | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
-| 22 min | USD | High | Initial Jobless Claims |  | 220K | 222K |
-| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 217.75K |
-| 22 min | CAD | Moderate | New Housing Price Index (MoM) |  | 0.1% | 0.0% |
-| 22 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 137.7K |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.0 | 50.0 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 51.1 | 51.3 |
-| 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.2 | 51.3 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 8.8% |
-| 15:00 | USD | High | New Home Sales (Apr) |  | 677K | 693K |
-| 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:00 | EUR | Low | Consumer Confidence (May) |  | -14.0 | -14.7 |
+| 13:25 | USD | Moderate | Building Permits | 1.440M | 1.440M | 1.467M |
+| 13:25 | USD | Low | Building Permits (MoM) | -3.0% | -3.0% | -3.7% |
+| 13:30 | USD | Low | Chicago Fed National Activity (Apr) | -0.23 | 0.12 | -0.04 |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,794K | 1,794K | 1,786K |
+| 13:30 | USD | High | Initial Jobless Claims | 215K | 220K | 223K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 219.75K |  | 218.00K |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) | 0.2% | 0.1% | 0.0% |
+| 39 min | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.0 | 50.0 |
+| 39 min | USD | Moderate | S&P Global Composite PMI (May) |  | 51.1 | 51.3 |
+| 39 min | USD | High | S&P Global Services PMI (May) |  | 51.2 | 51.3 |
+| 54 min | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 8.8% |
+| 54 min | USD | High | New Home Sales (Apr) |  | 677K | 693K |
+| 54 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 54 min | EUR | Low | Consumer Confidence (May) |  | -14.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 84B | 70B |
 | 16:00 | USD | Low | KC Fed Composite Index (May) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) |  |  | -13 |
