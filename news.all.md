@@ -6,8 +6,8 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
-| 01:00 | SGD | Low | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
+| 01:00 | SGD | Low | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) | 50.5 | 49.7 | 49.6 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.6 |  | 54.3 |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
@@ -64,7 +64,7 @@
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 7,300B |  | 7,304B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.391T |  | 3.416T |
-| 23:45 | NZD | Low | Exports (Apr) |  |  | 6.50B |
-| 23:45 | NZD | Low | Imports (Apr) |  |  | 5.91B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -9,870M |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
+| 40 min | NZD | Low | Exports (Apr) |  |  | 6.50B |
+| 40 min | NZD | Low | Imports (Apr) |  |  | 5.91B |
+| 40 min | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -9,870M |
+| 40 min | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
