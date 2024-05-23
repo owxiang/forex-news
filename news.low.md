@@ -33,7 +33,7 @@
 | 16:00 | USD | KC Fed Manufacturing Index (May) | -1 |  | -13 |
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
+| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Imports (Apr) |  |  | 5.91B |
 | 23:45 | NZD | Trade Balance (MoM) (Apr) |  |  | 588M |

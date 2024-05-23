@@ -51,8 +51,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) | 50.9 | 50.0 | 50.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 54.4 | 51.1 | 51.3 |
 | 14:45 | USD | High | S&P Global Services PMI (May) | 54.8 | 51.2 | 51.3 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
 | 15:00 | USD | High | New Home Sales (Apr) | 634K | 677K | 665K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage | 78B | 84B | 70B |
@@ -62,8 +62,8 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.270% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction | 2.184% |  | 1.932% |
 | 20:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,304B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,304B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Low | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Low | Imports (Apr) |  |  | 5.91B |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
