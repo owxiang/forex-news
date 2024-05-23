@@ -17,12 +17,12 @@
 | 06:00 | SGD | CPI (MoM) (Apr) | 0.10% |  | -0.10% |
 | 08:15 | EUR | HCOB France Composite PMI (May) | 49.1 | 51.0 | 50.5 |
 | 08:30 | EUR | HCOB Germany Composite PMI (May) | 52.2 | 51.0 | 50.6 |
-| 23 min | HKD | CPI (MoM) (Apr) |  |  | 0.00% |
-| 23 min | HKD | CPI (YoY) (Apr) |  | 2.10% | 2.00% |
+| 09:30 | HKD | CPI (MoM) (Apr) | -0.70% |  | 0.00% |
+| 09:30 | HKD | CPI (YoY) (Apr) | 1.10% | 2.10% | 2.00% |
 | 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
 | 13:00 | MXN | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
-| 13:00 | MXN | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
 | 13:00 | MXN | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
+| 13:00 | MXN | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Building Permits (MoM) |  | -3.0% | -3.7% |
 | 13:30 | USD | Chicago Fed National Activity (Apr) |  |  | 0.15 |
@@ -38,5 +38,5 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Imports (Apr) |  |  | 5.91B |
-| 23:45 | NZD | Trade Balance (MoM) (Apr) |  |  | 588M |
 | 23:45 | NZD | Trade Balance (YoY) (Apr) |  |  | -9,870M |
+| 23:45 | NZD | Trade Balance (MoM) (Apr) |  |  | 588M |

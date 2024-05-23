@@ -27,22 +27,22 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 47.4 | 46.2 | 45.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) | 52.3 | 52.0 | 51.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) | 53.3 | 53.6 | 53.3 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 54.0 | 54.1 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 49.5 | 49.1 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.7 | 55.0 |
-| 23 min | HKD | Low | CPI (MoM) (Apr) |  |  | 0.00% |
-| 23 min | HKD | Low | CPI (YoY) (Apr) |  | 2.10% | 2.00% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.8 | 54.0 | 54.1 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 51.3 | 49.5 | 49.1 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 52.9 | 54.7 | 55.0 |
+| 09:30 | HKD | Low | CPI (MoM) (Apr) | -0.70% |  | 0.00% |
+| 09:30 | HKD | Low | CPI (YoY) (Apr) | 1.10% | 2.10% | 2.00% |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | 0.15 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 220K | 222K |
@@ -68,5 +68,5 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Low | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Low | Imports (Apr) |  |  | 5.91B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -9,870M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |

@@ -12,10 +12,10 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 47.4 | 46.2 | 45.7 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 52.3 | 52.0 | 51.7 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (May) | 53.3 | 53.6 | 53.3 |
-| 23 min | GBP | S&P Global/CIPS UK Composite PMI |  | 54.0 | 54.1 |
-| 23 min | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 49.5 | 49.1 |
-| 23 min | GBP | S&P Global/CIPS UK Services PMI |  | 54.7 | 55.0 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.8 | 54.0 | 54.1 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.3 | 49.5 | 49.1 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.9 | 54.7 | 55.0 |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 13:00 | MXN | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 13:00 | MXN | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
