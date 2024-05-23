@@ -15,10 +15,10 @@
 | 06:00 | INR | HSBC India Manufacturing PMI | 58.4 |  | 58.8 |
 | 06:00 | INR | HSBC India Services PMI | 61.4 |  | 60.8 |
 | 06:00 | SGD | CPI (MoM) (Apr) | 0.10% |  | -0.10% |
-| 10 min | EUR | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
-| 25 min | EUR | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
-| 09:30 | HKD | CPI (MoM) (Apr) |  |  | 0.00% |
-| 09:30 | HKD | CPI (YoY) (Apr) |  | 2.10% | 2.00% |
+| 08:15 | EUR | HCOB France Composite PMI (May) | 49.1 | 51.0 | 50.5 |
+| 08:30 | EUR | HCOB Germany Composite PMI (May) | 52.2 | 51.0 | 50.6 |
+| 23 min | HKD | CPI (MoM) (Apr) |  |  | 0.00% |
+| 23 min | HKD | CPI (YoY) (Apr) |  | 2.10% | 2.00% |
 | 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
 | 13:00 | MXN | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
 | 13:00 | MXN | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
