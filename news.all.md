@@ -41,8 +41,8 @@
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
 | 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
+| 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | 0.15 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 220K | 222K |
