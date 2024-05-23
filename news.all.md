@@ -33,16 +33,16 @@
 | 09:30 | HKD | Low | CPI (MoM) (Apr) | -0.70% |  | 0.00% |
 | 09:30 | HKD | Low | CPI (YoY) (Apr) | 1.10% | 2.10% | 2.00% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
-| 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
+| 24 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 54 min | MXN | Low | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
+| 54 min | MXN | Low | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
+| 54 min | MXN | Low | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
+| 54 min | MXN | Low | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
+| 54 min | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
+| 54 min | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
+| 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | 0.15 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 220K | 222K |

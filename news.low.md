@@ -19,11 +19,11 @@
 | 08:30 | EUR | HCOB Germany Composite PMI (May) | 52.2 | 51.0 | 50.6 |
 | 09:30 | HKD | CPI (MoM) (Apr) | -0.70% |  | 0.00% |
 | 09:30 | HKD | CPI (YoY) (Apr) | 1.10% | 2.10% | 2.00% |
-| 13:00 | MXN | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
-| 13:00 | MXN | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
-| 13:00 | MXN | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
-| 13:00 | MXN | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | MXN | 1st Half-Month Core CPI (May) |  | 0.15% | 0.16% |
+| 54 min | MXN | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
+| 54 min | MXN | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
+| 54 min | MXN | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Building Permits (MoM) |  | -3.0% | -3.7% |
 | 13:30 | USD | Chicago Fed National Activity (Apr) |  |  | 0.15 |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.75K |
