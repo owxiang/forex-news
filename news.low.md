@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
-| 00:00 | AUD | Judo Bank Australia Services PMI |  |  | 53.6 |
-| 44 min | JPY | Foreign Bonds Buying |  |  | -396.6B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 660.8B |
-| 54 min | SGD | GDP (YoY) (Q1) |  | 2.7% | 2.2% |
-| 54 min | SGD | GDP (QoQ) |  | 0.1% | 1.2% |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) |  | 49.7 | 49.6 |
-| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (May) |  | 3.50% | 3.50% |
-| 02:00 | AUD | MI Inflation Expectations |  |  | 4.6% |
+| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 |  | 49.6 |
+| 00:00 | AUD | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
+| 00:50 | JPY | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
+| 01:00 | SGD | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
+| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
+| 9 min | JPY | au Jibun Bank Japan Manufacturing PMI (May) |  | 49.7 | 49.6 |
+| 39 min | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
+| 39 min | KRW | Interest Rate Decision (May) |  | 3.50% | 3.50% |
+| 39 min | AUD | MI Inflation Expectations |  |  | 4.6% |
 | 06:00 | INR | HSBC India Manufacturing PMI |  |  | 58.8 |
 | 06:00 | INR | HSBC India Services PMI |  |  | 60.8 |
 | 06:00 | SGD | CPI (MoM) (Apr) |  |  | -0.10% |
