@@ -1,30 +1,37 @@
-## 23 May 2024 - Moderate Impact Forex News
+## 24 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI | 53.6 |  | 54.3 |
-| 06:00 | SGD | Core CPI (YoY) (Apr) | 3.10% | 3.10% | 3.10% |
-| 06:00 | SGD | CPI (YoY) (Apr) | 2.7% | 2.6% | 2.7% |
-| 08:15 | EUR | HCOB France Manufacturing PMI (May) | 46.7 | 45.8 | 45.3 |
-| 08:15 | EUR | HCOB France Services PMI (May) | 49.4 | 51.8 | 51.3 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (May) | 45.4 | 43.4 | 42.5 |
-| 08:30 | EUR | HCOB Germany Services PMI (May) | 53.9 | 53.5 | 53.2 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 47.4 | 46.2 | 45.7 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (May) | 52.3 | 52.0 | 51.7 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (May) | 53.3 | 53.6 | 53.3 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.8 | 54.0 | 54.1 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.3 | 49.5 | 49.1 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.9 | 54.7 | 55.0 |
+| 24 min | JPY | National Core CPI (YoY) (Apr) |  | 2.2% | 2.6% |
+| 24 min | JPY | National CPI (MoM) |  |  | 0.2% |
+| 07:00 | GBP | Core Retail Sales (MoM) (Apr) |  | -0.6% | -0.3% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | -1.1% | 0.4% |
+| 07:00 | GBP | Retail Sales (YoY) (Apr) |  | -0.2% | 0.8% |
+| 07:00 | GBP | Retail Sales (MoM) (Apr) |  | -0.5% | 0.0% |
+| 07:00 | EUR | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
+| 07:30 | CHF | Employment Level (Q1) |  |  | 5.488M |
+| 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 08:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 10:15 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 10:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 13:00 | MXN | GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.1% |
-| 13:00 | MXN | GDP (YoY) (Q1) | 1.6% | 1.6% | 2.5% |
-| 13:25 | USD | Building Permits | 1.440M | 1.440M | 1.467M |
-| 13:30 | USD | Continuing Jobless Claims | 1,794K | 1,794K | 1,786K |
-| 13:30 | CAD | New Housing Price Index (MoM) | 0.2% | 0.1% | 0.0% |
-| 14:45 | USD | S&P Global Composite PMI (May) | 54.4 | 51.1 | 51.3 |
-| 15:00 | USD | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
-| 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 18:00 | USD | 10-Year TIPS Auction | 2.184% |  | 1.932% |
-| 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,300B |  | 7,304B |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) |  | 0.1% | 0.2% |
+| 13:30 | CAD | Core Retail Sales (MoM) (Mar) |  | 0.3% | -0.3% |
+| 13:30 | CAD | Retail Sales (MoM) (Mar) |  | -0.1% | -0.1% |
+| 14:35 | USD | Fed Waller Speaks |  |  |  |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (May) |  | 3.5% | 3.2% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (May) |  | 3.1% | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (May) |  | 66.5 | 76.0 |
+| 15:00 | USD | Michigan Consumer Sentiment (May) |  | 67.4 | 77.2 |
+| 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.6% | 3.6% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 604 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | -20.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 203.0K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 204.5K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 3.2K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -25.3K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -77.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -38.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -126.2K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 17.2K |

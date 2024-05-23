@@ -1,40 +1,37 @@
-## 23 May 2024 - Low Impact Forex News
+## 24 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.6 |  | 49.6 |
-| 00:00 | AUD | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
-| 00:50 | JPY | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
-| 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
-| 01:00 | SGD | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.5 | 49.7 | 49.6 |
-| 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
-| 02:00 | KRW | Interest Rate Decision (May) | 3.50% | 3.50% | 3.50% |
-| 02:00 | AUD | MI Inflation Expectations | 4.1% |  | 4.6% |
-| 06:00 | INR | HSBC India Manufacturing PMI | 58.4 |  | 58.8 |
-| 06:00 | INR | HSBC India Services PMI | 61.4 |  | 60.8 |
-| 06:00 | SGD | CPI (MoM) (Apr) | 0.10% |  | -0.10% |
-| 08:15 | EUR | HCOB France Composite PMI (May) | 49.1 | 51.0 | 50.5 |
-| 08:30 | EUR | HCOB Germany Composite PMI (May) | 52.2 | 51.0 | 50.6 |
-| 09:30 | HKD | CPI (MoM) (Apr) | -0.70% |  | 0.00% |
-| 09:30 | HKD | CPI (YoY) (Apr) | 1.10% | 2.10% | 2.00% |
-| 13:00 | MXN | 1st Half-Month Core CPI (May) | 0.15% | 0.15% | 0.16% |
-| 13:00 | MXN | 1st Half-Month CPI (May) | -0.21% | -0.22% | 0.09% |
-| 13:00 | MXN | Economic Activity (MoM) (Mar) | 0.30% | 0.80% | 1.50% |
-| 13:00 | MXN | Economic Activity (YoY) (Mar) | -1.30% | 1.10% | 4.50% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:25 | USD | Building Permits (MoM) | -3.0% | -3.0% | -3.7% |
-| 13:30 | USD | Chicago Fed National Activity (Apr) | -0.23 | 0.12 | -0.04 |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 219.75K |  | 218.00K |
-| 15:00 | EUR | Consumer Confidence (May) | -14.3 | -14.0 | -14.7 |
-| 15:30 | USD | Natural Gas Storage | 78B | 84B | 70B |
-| 16:00 | USD | KC Fed Composite Index (May) | -2 |  | -8 |
-| 16:00 | USD | KC Fed Manufacturing Index (May) | -1 |  | -13 |
-| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
-| 16:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.270% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.391T |  | 3.416T |
-| 40 min | NZD | Exports (Apr) |  |  | 6.50B |
-| 40 min | NZD | Imports (Apr) |  |  | 5.91B |
-| 40 min | NZD | Trade Balance (YoY) (Apr) |  |  | -9,870M |
-| 40 min | NZD | Trade Balance (MoM) (Apr) |  |  | 588M |
+| 00:01 | GBP | GfK Consumer Confidence (May) | -17 | -18 | -19 |
+| 24 min | JPY | CPI, n.s.a (MoM) (Apr) |  |  | 0.3% |
+| 24 min | JPY | National CPI (YoY) (Apr) |  |  | 2.7% |
+| 06:00 | SGD | Industrial Production (YoY) (Apr) |  | -0.7% | -9.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Apr) |  | 5.7% | -16.0% |
+| 07:45 | EUR | French Business Survey (May) |  | 100 | 100 |
+| 08:00 | EUR | Spanish PPI (YoY) |  |  | -8.2% |
+| 12:00 | BRL | FGV Consumer confidence (May) |  |  | 93.2 |
+| 12:30 | INR | FX Reserves, USD |  |  | 644.15B |
+| 12:30 | BRL | Current Account (USD) (Apr) |  | -1.10B | -4.58B |
+| 12:30 | BRL | Foreign direct investment (USD) (Apr) |  | 4.87B | 9.60B |
+| 13:00 | MXN | Trade Balance (Apr) |  | -0.500B | 2.098B |
+| 13:00 | MXN | Trade Balance (USD) (Apr) |  |  | -1.583B |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 2.3% |
+| 13:30 | USD | Durables Excluding Transport (MoM) |  |  | 0.2% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) |  | 0.1% | 0.2% |
+| 13:30 | CAD | Corporate Profits (QoQ) |  |  | 2.7% |
+| 13:30 | CAD | Manufacturing Sales (MoM) |  |  | -2.1% |
+| 14:00 | CNY | FDI |  |  | -26.10% |
+| 15:00 | USD | Michigan Current Conditions (May) |  | 68.8 | 79.0 |
+| 15:00 | MXN | Current Account (USD) (Q1) |  |  | 11,662M |
+| 15:00 | MXN | Current Account % of GDP (Q1) |  |  | 2.50% |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.8K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | 0.2K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -116.6K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 59.5K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -66.0K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -5.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -80.3K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 113.0K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -41.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -11.2K |
