@@ -27,4 +27,4 @@
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 2.184% |  | 1.932% |
 | 20:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,304B |
+| 21:30 | USD | Fed's Balance Sheet | 7,300B |  | 7,304B |
