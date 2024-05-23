@@ -13,20 +13,20 @@
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Low | Interest Rate Decision (May) | 3.50% | 3.50% | 3.50% |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.1% |  | 4.6% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 58.8 |
-| 06:00 | INR | Low | HSBC India Services PMI |  |  | 60.8 |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Apr) |  | 3.10% | 3.10% |
-| 06:00 | SGD | Low | CPI (MoM) (Apr) |  |  | -0.10% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Apr) |  | 2.6% | 2.7% |
+| 54 min | INR | Low | HSBC India Manufacturing PMI |  |  | 58.8 |
+| 54 min | INR | Low | HSBC India Services PMI |  |  | 60.8 |
+| 54 min | SGD | Moderate | Core CPI (YoY) (Apr) |  | 3.10% | 3.10% |
+| 54 min | SGD | Low | CPI (MoM) (Apr) |  |  | -0.10% |
+| 54 min | SGD | Moderate | CPI (YoY) (Apr) |  | 2.6% | 2.7% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 45.8 | 45.3 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (May) |  | 51.8 | 51.3 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (May) |  | 51.7 | 51.3 |
 | 08:30 | EUR | Low | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 43.4 | 42.5 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 43.1 | 42.5 |
 | 08:30 | EUR | Moderate | HCOB Germany Services PMI (May) |  | 53.5 | 53.2 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 46.2 | 45.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) |  | 52.0 | 51.7 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 53.6 | 53.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) |  | 53.5 | 53.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 54.0 | 54.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 49.5 | 49.1 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 54.7 | 55.0 |
@@ -51,12 +51,12 @@
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 137.7K |
 | 14:00 | CNY | Low | FDI |  |  | -26.10% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.0 | 50.0 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 51.3 | 51.3 |
-| 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.2 | 51.3 |
-| 15:00 | USD | High | New Home Sales (Apr) |  | 677K | 693K |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 51.1 | 51.3 |
+| 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.3 | 51.3 |
+| 15:00 | USD | High | New Home Sales (Apr) |  | 680K | 693K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 8.8% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 15:00 | EUR | Low | Consumer Confidence (May) |  | -14.0 | -14.7 |
+| 15:00 | EUR | Low | Consumer Confidence (May) |  | -14.2 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 84B | 70B |
 | 16:00 | USD | Low | KC Fed Composite Index (May) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (May) |  |  | -13 |

@@ -4,5 +4,5 @@
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Initial Jobless Claims |  | 221K | 222K |
 | 14:45 | USD | S&P Global US Manufacturing PMI (May) |  | 50.0 | 50.0 |
-| 14:45 | USD | S&P Global Services PMI (May) |  | 51.2 | 51.3 |
-| 15:00 | USD | New Home Sales (Apr) |  | 677K | 693K |
+| 14:45 | USD | S&P Global Services PMI (May) |  | 51.3 | 51.3 |
+| 15:00 | USD | New Home Sales (Apr) |  | 680K | 693K |

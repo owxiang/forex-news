@@ -12,9 +12,9 @@
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (May) | 3.50% | 3.50% | 3.50% |
 | 02:00 | AUD | MI Inflation Expectations | 4.1% |  | 4.6% |
-| 06:00 | INR | HSBC India Manufacturing PMI |  |  | 58.8 |
-| 06:00 | INR | HSBC India Services PMI |  |  | 60.8 |
-| 06:00 | SGD | CPI (MoM) (Apr) |  |  | -0.10% |
+| 54 min | INR | HSBC India Manufacturing PMI |  |  | 58.8 |
+| 54 min | INR | HSBC India Services PMI |  |  | 60.8 |
+| 54 min | SGD | CPI (MoM) (Apr) |  |  | -0.10% |
 | 08:15 | EUR | HCOB France Composite PMI (May) |  | 51.0 | 50.5 |
 | 08:30 | EUR | HCOB Germany Composite PMI (May) |  | 51.0 | 50.6 |
 | 09:30 | HKD | CPI (MoM) (Apr) |  |  | 0.00% |
@@ -29,7 +29,7 @@
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 217.75K |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 137.7K |
 | 14:00 | CNY | FDI |  |  | -26.10% |
-| 15:00 | EUR | Consumer Confidence (May) |  | -14.0 | -14.7 |
+| 15:00 | EUR | Consumer Confidence (May) |  | -14.2 | -14.7 |
 | 15:30 | USD | Natural Gas Storage |  | 84B | 70B |
 | 16:00 | USD | KC Fed Composite Index (May) |  |  | -8 |
 | 16:00 | USD | KC Fed Manufacturing Index (May) |  |  | -13 |
