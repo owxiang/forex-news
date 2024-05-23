@@ -6,8 +6,8 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
-| 01:00 | SGD | Low | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
 | 01:00 | SGD | Low | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
+| 01:00 | SGD | Low | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) | 50.5 | 49.7 | 49.6 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 53.6 |  | 54.3 |
 | 02:00 | KRW | Low | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
@@ -38,11 +38,11 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) |  | -0.22% | 0.09% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Mar) |  | 0.80% | 1.40% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) |  | 1.10% | 4.40% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.0% | -3.7% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.440M | 1.467M |
 | 13:30 | USD | Low | Chicago Fed National Activity (Apr) |  |  | 0.15 |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  |  | 1,794K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 221K | 222K |
@@ -53,8 +53,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.0 | 50.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 51.3 | 51.3 |
 | 14:45 | USD | High | S&P Global Services PMI (May) |  | 51.2 | 51.3 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 8.8% |
 | 15:00 | USD | High | New Home Sales (Apr) |  | 677K | 693K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) |  |  | 8.8% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (May) |  | -14.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 84B | 70B |
@@ -69,5 +69,5 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.416T |
 | 23:45 | NZD | Low | Exports (Apr) |  |  | 6.50B |
 | 23:45 | NZD | Low | Imports (Apr) |  |  | 5.91B |
-| 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
 | 23:45 | NZD | Low | Trade Balance (YoY) (Apr) |  |  | -9,870M |
+| 23:45 | NZD | Low | Trade Balance (MoM) (Apr) |  |  | 588M |
