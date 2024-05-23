@@ -16,12 +16,12 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.3 | 49.5 | 49.1 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.9 | 54.7 | 55.0 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 24 min | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 54 min | MXN | GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
-| 54 min | MXN | GDP (YoY) (Q1) |  | 1.6% | 2.5% |
-| 13:30 | USD | Building Permits |  | 1.440M | 1.467M |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,794K |
-| 13:30 | CAD | New Housing Price Index (MoM) |  | 0.1% | 0.0% |
+| 12:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 13:00 | MXN | GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.1% |
+| 13:00 | MXN | GDP (YoY) (Q1) | 1.6% | 1.6% | 2.5% |
+| 22 min | USD | Building Permits |  | 1.440M | 1.467M |
+| 22 min | USD | Continuing Jobless Claims |  |  | 1,794K |
+| 22 min | CAD | New Housing Price Index (MoM) |  | 0.1% | 0.0% |
 | 14:45 | USD | S&P Global Composite PMI (May) |  | 51.1 | 51.3 |
 | 15:00 | USD | New Home Sales (MoM) (Apr) |  |  | 8.8% |
 | 15:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
