@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |
 | 00:30 | JPY | National CPI (MoM) | 0.2% |  | 0.2% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | -1.1% | 0.4% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Apr) |  | -0.6% | -0.3% |
-| 07:00 | GBP | Retail Sales (YoY) (Apr) |  | -0.2% | 0.8% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) |  | -1.1% | 0.4% |
 | 07:00 | GBP | Retail Sales (MoM) (Apr) |  | -0.5% | 0.0% |
+| 07:00 | GBP | Retail Sales (YoY) (Apr) |  | -0.2% | 0.8% |
 | 07:00 | EUR | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
 | 07:30 | CHF | Employment Level (Q1) |  |  | 5.488M |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
