@@ -20,9 +20,9 @@
 | 08:00 | EUR | Low | Spanish PPI (YoY) | -6.6% |  | -8.2% |
 | 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 08:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 10:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 9 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 9 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | FGV Consumer confidence (May) |  |  | 93.2 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 644.15B |
 | 12:30 | BRL | Low | Current Account (USD) (Apr) |  | -1.10B | -4.58B |

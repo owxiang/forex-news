@@ -12,9 +12,9 @@
 | 07:30 | CHF | Employment Level (Q1) | 5.484M |  | 5.488M |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 08:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
-| 10:15 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 10:15 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 9 min | EUR | German Buba Mauderer Speaks |  |  |  |
+| 9 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Apr) |  | 0.1% | 0.2% |
 | 13:30 | CAD | Core Retail Sales (MoM) (Mar) |  | 0.3% | -0.3% |
 | 13:30 | CAD | Retail Sales (MoM) (Mar) |  | -0.1% | -0.1% |
