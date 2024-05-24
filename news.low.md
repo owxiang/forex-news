@@ -21,7 +21,7 @@
 | 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Apr) | 0.3% | 0.1% | -0.1% |
 | 13:30 | CAD | Corporate Profits (QoQ) | 0.6% |  | 2.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) | 1.2% |  | -2.1% |
-| 54 min | USD | Michigan Current Conditions (May) |  | 68.8 | 79.0 |
+| 15:00 | USD | Michigan Current Conditions (May) | 69.6 | 68.8 | 79.0 |
 | 54 min | MXN | Current Account (USD) (Q1) |  |  | 11,662M |
 | 54 min | MXN | Current Account % of GDP (Q1) |  |  | 2.50% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
