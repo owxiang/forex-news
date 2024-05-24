@@ -22,7 +22,8 @@
 | 13:30 | CAD | Corporate Profits (QoQ) | 0.6% |  | 2.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) | 1.2% |  | -2.1% |
 | 15:00 | USD | Michigan Current Conditions (May) | 69.6 | 68.8 | 79.0 |
-| 15:00 | MXN | Current Account (USD) (Q1) | -12,582M |  | 11,662M |
+| 15:00 | MXN | Current Account (USD) (Q1) | -12,582M |  | 11,817M |
+| 15:00 | MXN | Current Account % of GDP (Q1) | -2.70% |  | 2.50% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 0.2K |
