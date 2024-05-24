@@ -11,10 +11,10 @@
 | 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
 | 07:30 | CHF | Moderate | Employment Level (Q1) | 5.484M |  | 5.488M |
 | 07:45 | EUR | Low | French Business Survey (May) | 99 | 100 | 100 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) | -6.6% |  | -8.2% |
@@ -48,8 +48,8 @@
 | 15:00 | MXN | Low | Current Account (USD) (Q1) | -12,582M |  | 11,817M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q1) | -2.70% |  | 2.50% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.6% | 3.6% |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 604 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 604 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 61.8K |
