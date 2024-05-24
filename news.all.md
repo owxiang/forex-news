@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (May) | -17 | -18 | -19 |
-| 24 min | JPY | Low | CPI, n.s.a (MoM) (Apr) |  |  | 0.3% |
-| 24 min | JPY | Moderate | National Core CPI (YoY) (Apr) |  | 2.2% | 2.6% |
-| 24 min | JPY | Low | National CPI (YoY) (Apr) |  |  | 2.7% |
-| 24 min | JPY | Moderate | National CPI (MoM) |  |  | 0.2% |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |
+| 00:30 | JPY | Low | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Apr) |  | -0.7% | -9.2% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Apr) |  | 5.7% | -16.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) |  | -0.6% | -0.3% |
