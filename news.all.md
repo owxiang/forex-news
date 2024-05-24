@@ -5,20 +5,20 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
 | 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.2% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | -1.6% | -0.7% | -9.2% |
-| 54 min | GBP | Moderate | Core Retail Sales (MoM) (Apr) |  | -0.6% | -0.3% |
-| 54 min | GBP | Moderate | Core Retail Sales (YoY) (Apr) |  | -1.1% | 0.4% |
-| 54 min | GBP | Moderate | Retail Sales (YoY) (Apr) |  | -0.2% | 0.8% |
-| 54 min | GBP | Moderate | Retail Sales (MoM) (Apr) |  | -0.5% | 0.0% |
-| 54 min | EUR | High | German GDP (QoQ) (Q1) |  | 0.2% | -0.3% |
-| 54 min | EUR | Moderate | German GDP (YoY) (Q1) |  | -0.2% | -0.2% |
-| 07:30 | CHF | Moderate | Employment Level (Q1) |  |  | 5.488M |
-| 07:45 | EUR | Low | French Business Survey (May) |  | 100 | 100 |
-| 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -8.2% |
-| 08:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 23 min | CHF | Moderate | Employment Level (Q1) |  |  | 5.488M |
+| 38 min | EUR | Low | French Business Survey (May) |  | 100 | 100 |
+| 53 min | EUR | Low | Spanish PPI (YoY) |  |  | -8.2% |
+| 53 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 08:45 | CHF | Moderate | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 10:15 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
