@@ -5,8 +5,8 @@
 | 00:01 | GBP | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
-| 06:00 | SGD | Industrial Production (MoM) (Apr) |  | 5.7% | -16.0% |
 | 06:00 | SGD | Industrial Production (YoY) (Apr) |  | -0.7% | -9.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Apr) |  | 5.7% | -16.0% |
 | 07:45 | EUR | French Business Survey (May) |  | 100 | 100 |
 | 08:00 | EUR | Spanish PPI (YoY) |  |  | -8.2% |
 | 12:00 | BRL | FGV Consumer confidence (May) |  |  | 93.2 |
