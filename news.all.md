@@ -48,8 +48,8 @@
 | 15:00 | MXN | Low | Current Account (USD) (Q1) | -12,582M |  | 11,817M |
 | 15:00 | MXN | Low | Current Account % of GDP (Q1) | -2.70% |  | 2.50% |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.6% | 3.6% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 604 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 497 |  | 497 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 600 |  | 604 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 61.8K |
