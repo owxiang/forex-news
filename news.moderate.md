@@ -11,7 +11,7 @@
 | 07:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 07:30 | CHF | Employment Level (Q1) | 5.484M |  | 5.488M |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 40 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 08:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 10:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
