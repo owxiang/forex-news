@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |
 | 00:30 | JPY | National CPI (MoM) | 0.2% |  | 0.2% |
-| 07:00 | GBP | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
-| 07:00 | GBP | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
+| 07:00 | GBP | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
 | 07:00 | GBP | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
+| 07:00 | GBP | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
 | 07:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 07:30 | CHF | Employment Level (Q1) | 5.484M |  | 5.488M |
 | 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
@@ -23,7 +23,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (May) | 3.0% | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (May) | 68.8 | 66.5 | 76.0 |
 | 15:00 | USD | Michigan Consumer Sentiment (May) | 69.1 | 67.4 | 77.2 |
-| 24 min | USD | Atlanta Fed GDPNow (Q2) | 3.5% | 3.6% | 3.6% |
+| 15:30 | USD | Atlanta Fed GDPNow (Q2) | 3.5% | 3.6% | 3.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 604 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | -20.1K |

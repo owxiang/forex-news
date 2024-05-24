@@ -5,16 +5,16 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |
-| 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.2% |
 | 00:30 | JPY | Low | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
+| 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.2% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | -1.6% | -0.7% | -9.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
-| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
+| 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 07:30 | CHF | Moderate | Employment Level (Q1) | 5.484M |  | 5.488M |
 | 07:45 | EUR | Low | French Business Survey (May) | 99 | 100 | 100 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) | -6.6% |  | -8.2% |
@@ -45,9 +45,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (May) | 68.8 | 66.5 | 76.0 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (May) | 69.1 | 67.4 | 77.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (May) | 69.6 | 68.8 | 79.0 |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.6% | 3.6% |
-| 54 min | MXN | Low | Current Account (USD) (Q1) |  |  | 11,662M |
-| 54 min | MXN | Low | Current Account % of GDP (Q1) |  |  | 2.50% |
+| 15:00 | MXN | Low | Current Account (USD) (Q1) | -12,582M |  | 11,662M |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.5% | 3.6% | 3.6% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 604 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | -20.1K |

@@ -5,8 +5,8 @@
 | 00:01 | GBP | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
-| 06:00 | SGD | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
 | 06:00 | SGD | Industrial Production (YoY) (Apr) | -1.6% | -0.7% | -9.2% |
+| 06:00 | SGD | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
 | 07:45 | EUR | French Business Survey (May) | 99 | 100 | 100 |
 | 08:00 | EUR | Spanish PPI (YoY) | -6.6% |  | -8.2% |
 | 10:45 | CNY | FDI (Apr) | -27.90% |  | -26.10% |
@@ -22,8 +22,7 @@
 | 13:30 | CAD | Corporate Profits (QoQ) | 0.6% |  | 2.7% |
 | 13:30 | CAD | Manufacturing Sales (MoM) | 1.2% |  | -2.1% |
 | 15:00 | USD | Michigan Current Conditions (May) | 69.6 | 68.8 | 79.0 |
-| 54 min | MXN | Current Account (USD) (Q1) |  |  | 11,662M |
-| 54 min | MXN | Current Account % of GDP (Q1) |  |  | 2.50% |
+| 15:00 | MXN | Current Account (USD) (Q1) | -12,582M |  | 11,662M |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.8K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | 0.2K |
