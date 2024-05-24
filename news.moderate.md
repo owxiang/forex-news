@@ -6,12 +6,12 @@
 | 00:30 | JPY | National CPI (MoM) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
-| 07:00 | GBP | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | GBP | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
+| 07:00 | GBP | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | EUR | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
-| 23 min | CHF | Employment Level (Q1) |  |  | 5.488M |
-| 53 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 08:45 | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
+| 07:30 | CHF | Employment Level (Q1) | 5.484M |  | 5.488M |
+| 08:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 40 min | CHF | SNB Chairman Thomas Jordan speaks |  |  |  |
 | 10:15 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:15 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
