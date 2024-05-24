@@ -5,12 +5,12 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |
-| 00:30 | JPY | Low | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
 | 00:30 | JPY | Moderate | National CPI (MoM) | 0.2% |  | 0.2% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
+| 00:30 | JPY | Low | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | -1.6% | -0.7% | -9.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Apr) | 7.1% | 5.7% | -16.1% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
@@ -25,20 +25,20 @@
 | 10:45 | CNY | Low | FDI (Apr) | -27.90% |  | -26.10% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | FGV Consumer confidence (May) | 89.2 |  | 93.2 |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 644.15B |
-| 24 min | BRL | Low | Current Account (USD) (Apr) |  | -1.10B | -4.58B |
-| 24 min | BRL | Low | Foreign direct investment (USD) (Apr) |  | 4.87B | 9.60B |
-| 54 min | MXN | Low | Trade Balance (Apr) |  | -0.500B | 2.098B |
-| 54 min | MXN | Low | Trade Balance (USD) (Apr) |  |  | -1.583B |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | 0.1% | 0.2% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) |  | -0.9% | 2.6% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 2.3% |
-| 13:30 | USD | Low | Durables Excluding Transport (MoM) |  |  | 0.2% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) |  | 0.1% | 0.2% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Mar) |  | 0.3% | -0.3% |
-| 13:30 | CAD | Low | Corporate Profits (QoQ) |  |  | 2.7% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | -2.1% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Mar) |  | -0.1% | -0.1% |
+| 12:30 | INR | Low | FX Reserves, USD | 648.70B |  | 644.15B |
+| 12:30 | BRL | Low | Current Account (USD) (Apr) | -2.50B | -1.10B | -4.58B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) | 3.90B | 4.87B | 9.60B |
+| 13:00 | MXN | Low | Trade Balance (Apr) | -3.746B | -0.500B | 2.098B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Apr) | -2.578B |  | -1.583B |
+| 22 min | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | 0.1% | 0.2% |
+| 22 min | USD | High | Durable Goods Orders (MoM) (Apr) |  | -0.9% | 2.6% |
+| 22 min | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 2.3% |
+| 22 min | USD | Low | Durables Excluding Transport (MoM) |  |  | 0.2% |
+| 22 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Apr) |  | 0.1% | 0.2% |
+| 22 min | CAD | Moderate | Core Retail Sales (MoM) (Mar) |  | 0.3% | -0.3% |
+| 22 min | CAD | Low | Corporate Profits (QoQ) |  |  | 2.7% |
+| 22 min | CAD | Low | Manufacturing Sales (MoM) |  |  | -2.1% |
+| 22 min | CAD | Moderate | Retail Sales (MoM) (Mar) |  | -0.1% | -0.1% |
 | 14:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (May) |  | 3.5% | 3.2% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (May) |  | 3.1% | 3.0% |
