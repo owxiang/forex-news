@@ -11,8 +11,8 @@
 | 06:00 | SGD | Low | Industrial Production (YoY) (Apr) | -1.6% | -0.7% | -9.2% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Apr) | -3.0% | -1.1% | 0.4% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
 | 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
 | 07:30 | CHF | Moderate | Employment Level (Q1) | 5.484M |  | 5.488M |
@@ -24,12 +24,12 @@
 | 10:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 10:45 | CNY | Low | FDI (Apr) | -27.90% |  | -26.10% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 55 min | BRL | Low | FGV Consumer confidence (May) |  |  | 93.2 |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 644.15B |
-| 12:30 | BRL | Low | Current Account (USD) (Apr) |  | -1.10B | -4.58B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Apr) |  | 4.87B | 9.60B |
-| 13:00 | MXN | Low | Trade Balance (Apr) |  | -0.500B | 2.098B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Apr) |  |  | -1.583B |
+| 12:00 | BRL | Low | FGV Consumer confidence (May) | 89.2 |  | 93.2 |
+| 24 min | INR | Low | FX Reserves, USD |  |  | 644.15B |
+| 24 min | BRL | Low | Current Account (USD) (Apr) |  | -1.10B | -4.58B |
+| 24 min | BRL | Low | Foreign direct investment (USD) (Apr) |  | 4.87B | 9.60B |
+| 54 min | MXN | Low | Trade Balance (Apr) |  | -0.500B | 2.098B |
+| 54 min | MXN | Low | Trade Balance (USD) (Apr) |  |  | -1.583B |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Apr) |  | 0.1% | 0.2% |
 | 13:30 | USD | High | Durable Goods Orders (MoM) (Apr) |  | -0.9% | 2.6% |
 | 13:30 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 2.3% |
