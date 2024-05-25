@@ -10,8 +10,8 @@
 | 11:00 | GBP | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.7% |
 | 11:00 | EUR | Spanish Consumer Confidence | 84.5 |  | 82.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
+| 13:00 | MXN | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
 | 15:25 | EUR | Spanish Trade Balance | -2.00B |  | -2.40B |
 | 15:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
@@ -49,22 +49,22 @@
 | 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
 | 00:50 | JPY | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
-| 07:00 | GBP | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
+| 07:00 | GBP | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
-| 07:00 | GBP | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
+| 07:00 | GBP | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
 | 07:00 | GBP | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
 | 07:00 | GBP | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
 | 07:00 | GBP | PPI Output (YoY) (Apr) | 1.1% | 1.2% | 0.7% |
 | 07:00 | GBP | Public Sector Net Borrowing (Apr) | 19.59B | 18.50B | 12.14B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
-| 07:00 | GBP | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | GBP | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
+| 07:00 | GBP | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
@@ -101,8 +101,8 @@
 | 00:00 | AUD | Judo Bank Australia Services PMI | 53.1 |  | 53.6 |
 | 00:50 | JPY | Foreign Bonds Buying | 2,192.2B |  | -390.6B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 248.1B |  | 664.8B |
-| 01:00 | SGD | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
 | 01:00 | SGD | GDP (YoY) (Q1) | 2.7% | 2.7% | 2.2% |
+| 01:00 | SGD | GDP (QoQ) | 0.1% | 0.1% | 1.2% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.5 | 49.7 | 49.6 |
 | 02:00 | KRW | Bank of Korea Monetary Policy Board’s Policy Setting Meeting Dates (MoM) |  |  |  |
 | 02:00 | KRW | Interest Rate Decision (May) | 3.50% | 3.50% | 3.50% |
