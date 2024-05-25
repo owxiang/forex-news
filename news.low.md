@@ -10,8 +10,8 @@
 | 11:00 | GBP | Rightmove House Price Index (YoY) (May) | 0.6% |  | 1.7% |
 | 11:00 | EUR | Spanish Consumer Confidence | 84.5 |  | 82.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (Mar) | -1.7% |  | 3.0% |
+| 13:00 | MXN | Retail Sales (MoM) (Mar) | -0.2% |  | 0.5% |
 | 15:25 | EUR | Spanish Trade Balance | -2.00B |  | -2.40B |
 | 15:30 | USD | Fed Governor Jefferson Speaks |  |  |  |
 | 16:30 | USD | 3-Month Bill Auction | 5.245% |  | 5.250% |
@@ -63,8 +63,8 @@
 | 07:00 | GBP | PPI Output (YoY) (Apr) | 1.1% | 1.2% | 0.7% |
 | 07:00 | GBP | Public Sector Net Borrowing (Apr) | 19.59B | 18.50B | 12.14B |
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
-| 07:00 | GBP | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | GBP | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
+| 07:00 | GBP | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
