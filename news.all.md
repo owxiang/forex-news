@@ -96,16 +96,16 @@
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Apr) | 1.1% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) | 19.59B | 18.50B | 12.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
@@ -185,8 +185,8 @@
 | 13:00 | MXN | Low | 1st Half-Month CPI (May) | -0.21% | -0.22% | 0.09% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Mar) | 0.30% | 0.80% | 1.50% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Mar) | -1.30% | 1.10% | 4.50% |
-| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 1.6% | 1.6% | 2.5% |
 | 13:00 | MXN | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.2% | 0.1% |
+| 13:00 | MXN | Moderate | GDP (YoY) (Q1) | 1.6% | 1.6% | 2.5% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:25 | USD | Moderate | Building Permits | 1.440M | 1.440M | 1.467M |
 | 13:25 | USD | Low | Building Permits (MoM) | -3.0% | -3.0% | -3.7% |
@@ -198,8 +198,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) | 50.9 | 50.0 | 50.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 54.4 | 51.1 | 51.3 |
 | 14:45 | USD | High | S&P Global Services PMI (May) | 54.8 | 51.2 | 51.3 |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
 | 15:00 | USD | High | New Home Sales (Apr) | 634K | 677K | 665K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage | 78B | 84B | 70B |

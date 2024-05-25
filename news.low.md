@@ -65,8 +65,8 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
 | 07:00 | GBP | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | GBP | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
 | 07:00 | EUR | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
 | 07:00 | EUR | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
