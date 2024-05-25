@@ -69,8 +69,8 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.480M |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) | 72 |  | 71 |
-| 22:00 | KRW | Low | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
 | 22:00 | KRW | Low | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
+| 22:00 | KRW | Low | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
 | 00:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
@@ -87,27 +87,27 @@
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
 | 07:00 | GBP | Low | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |
+| 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Apr) | 0.2% | 0.4% | 0.2% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Apr) | 1.1% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Apr) | 19.59B | 18.50B | 12.14B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Apr) | -5.217B |  | 21.652B |
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | GBP | Low | RPI (MoM) (Apr) | 0.5% | 0.5% | 0.5% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 08:00 | IDR | Low | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
@@ -115,8 +115,8 @@
 | 08:30 | IDR | Moderate | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 08:30 | IDR | Low | Deposit Facility Rate (May) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (May) | 7.00% | 7.00% | 7.00% |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.2% |  | 0.7% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 4.6% |  | 4.9% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.2% |  | 0.7% |
 | 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.8% |
 | 09:00 | ZAR | Low | CPI (YoY) (Apr) | 5.2% |  | 5.3% |
 | 09:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -198,8 +198,8 @@
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) | 50.9 | 50.0 | 50.0 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 54.4 | 51.1 | 51.3 |
 | 14:45 | USD | High | S&P Global Services PMI (May) | 54.8 | 51.2 | 51.3 |
-| 15:00 | USD | High | New Home Sales (Apr) | 634K | 677K | 665K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Apr) | -4.7% |  | 5.4% |
+| 15:00 | USD | High | New Home Sales (Apr) | 634K | 677K | 665K |
 | 15:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
 | 15:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.0 | -14.7 |
 | 15:30 | USD | Low | Natural Gas Storage | 78B | 84B | 70B |
@@ -226,8 +226,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Apr) | -2.0% | -0.6% | -0.6% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Apr) | -2.3% | -0.5% | -0.2% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Apr) | -2.7% | -0.2% | 0.4% |
-| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
 | 07:00 | EUR | Moderate | German GDP (YoY) (Q1) | -0.2% | -0.2% | -0.2% |
+| 07:00 | EUR | High | German GDP (QoQ) (Q1) | 0.2% | 0.2% | -0.3% |
 | 07:30 | CHF | Moderate | Employment Level (Q1) | 5.484M |  | 5.488M |
 | 07:45 | EUR | Low | French Business Survey (May) | 99 | 100 | 100 |
 | 08:00 | EUR | Low | Spanish PPI (YoY) | -6.6% |  | -8.2% |
