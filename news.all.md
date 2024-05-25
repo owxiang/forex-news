@@ -76,8 +76,8 @@
 | 00:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
 | 00:00 | JPY | Low | Reuters Tankan Index (May) | 9 |  | 9 |
 | 00:50 | JPY | Moderate | Adjusted Trade Balance | -0.56T | -0.72T | -0.70T |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
 | 00:50 | JPY | Moderate | Exports (YoY) (Apr) | 8.3% | 11.1% | 7.3% |
 | 00:50 | JPY | Low | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
 | 00:50 | JPY | Moderate | Trade Balance (Apr) | -462.5B | -339.5B | 366.5B |
@@ -85,16 +85,16 @@
 | 03:00 | NZD | Moderate | RBNZ Monetary Policy Statement |  |  |  |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 04:00 | NZD | Moderate | RBNZ Press Conference |  |  |  |
-| 07:00 | GBP | Low | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
 | 07:00 | GBP | Low | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Apr) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Apr) | 2.3% |  | 3.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Apr) | 0.5% |  | 0.5% |
-| 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
 | 07:00 | GBP | High | CPI (YoY) (Apr) | 2.3% | 2.1% | 3.2% |
+| 07:00 | GBP | Moderate | CPI (MoM) (Apr) | 0.3% | 0.2% | 0.6% |
 | 07:00 | GBP | Low | CPI, n.s.a (Apr) | 133.50 |  | 133.00 |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Apr) | 0.6% | 0.4% | -0.2% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Apr) | -1.6% | -1.2% | -2.5% |

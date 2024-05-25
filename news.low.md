@@ -46,11 +46,11 @@
 | 22:00 | KRW | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 00:00 | USD | Fed Collins Speaks |  |  |  |
 | 00:00 | JPY | Reuters Tankan Index (May) | 9 |  | 9 |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Mar) | 2.7% |  | -1.8% |
+| 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
 | 00:50 | JPY | Imports (YoY) (Apr) | 8.3% | 9.0% | -4.9% |
-| 07:00 | GBP | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
 | 07:00 | GBP | Car Registration (MoM) (Apr) | -57.7% |  | 274.4% |
+| 07:00 | GBP | Car Registration (YoY) (Apr) | 1.0% |  | 10.4% |
 | 07:00 | GBP | Core CPI (YoY) (Apr) | 3.9% | 3.6% | 4.2% |
 | 07:00 | GBP | Core CPI (MoM) (Apr) | 0.9% | 0.7% | 0.6% |
 | 07:00 | GBP | Core PPI Output (MoM) (Apr) | 0.0% |  | 0.3% |
