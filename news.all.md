@@ -69,8 +69,8 @@
 | 18:00 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.480M |  | -3.104M |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jun) | 72 |  | 71 |
-| 22:00 | KRW | Low | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 22:00 | KRW | Low | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
+| 22:00 | KRW | Low | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 00:00 | USD | Low | Fed Collins Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 00:00 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
@@ -106,8 +106,8 @@
 | 07:00 | GBP | Low | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
 | 08:00 | IDR | Low | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
@@ -117,8 +117,8 @@
 | 08:30 | IDR | Low | Lending Facility Rate (May) | 7.00% | 7.00% | 7.00% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Apr) | 0.2% |  | 0.7% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Apr) | 4.6% |  | 4.9% |
-| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 5.2% |  | 5.3% |
 | 09:00 | ZAR | Low | CPI (MoM) (Apr) | 0.3% |  | 0.8% |
+| 09:00 | ZAR | Low | CPI (YoY) (Apr) | 5.2% |  | 5.3% |
 | 09:05 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 09:30 | GBP | Low | House Price Index (YoY) | 1.8% | 0.1% | -0.2% |
 | 10:20 | GBP | Low | 5-Year Treasury Gilt Auction | 4.199% |  | 4.251% |
@@ -213,8 +213,8 @@
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.391T |  | 3.416T |
 | 23:45 | NZD | Low | Exports (Apr) | 6.42B |  | 6.38B |
 | 23:45 | NZD | Low | Imports (Apr) | 6.32B |  | 5.90B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (Apr) | -10,110M |  | -9,980M |
 | 23:45 | NZD | Low | Trade Balance (MoM) (Apr) | 91M |  | 476M |
+| 23:45 | NZD | Low | Trade Balance (YoY) (Apr) | -10,110M |  | -9,980M |
 | 00:01 | GBP | Low | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Apr) | 2.2% | 2.2% | 2.6% |

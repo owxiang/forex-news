@@ -42,8 +42,8 @@
 | 16:00 | NZD | GlobalDairyTrade Price Index | 3.3% |  | 1.8% |
 | 16:00 | USD | Milk Auctions | 3,861.0 |  | 3,708.0 |
 | 22:00 | KRW | Manufacturing BSI Index (Jun) | 72 |  | 71 |
-| 22:00 | KRW | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 22:00 | KRW | PPI (YoY) (Apr) | 1.8% |  | 1.5% |
+| 22:00 | KRW | PPI (MoM) (Apr) | 0.3% |  | 0.2% |
 | 00:00 | USD | Fed Collins Speaks |  |  |  |
 | 00:00 | JPY | Reuters Tankan Index (May) | 9 |  | 9 |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Mar) | 2.9% | -1.8% | 7.7% |
@@ -67,8 +67,8 @@
 | 07:00 | GBP | RPI (YoY) (Apr) | 3.3% | 3.3% | 4.3% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Apr) | 7.7% |  | -3.7% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Apr) | -16.5% |  | 10.2% |
-| 07:00 | EUR | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | German Car Registration (YoY) (Apr) | 19.8% |  | -6.2% |
+| 07:00 | EUR | German Car Registration (MoM) (Apr) | -7.9% |  | 21.4% |
 | 07:00 | EUR | French Car Registration (YoY) (Apr) | 10.9% |  | -1.5% |
 | 07:00 | EUR | French Car Registration (MoM) (Apr) | -18.4% |  | 26.2% |
 | 08:00 | IDR | Loans (YoY) (Apr) | 13.09% |  | 12.40% |
@@ -76,8 +76,8 @@
 | 08:30 | IDR | Lending Facility Rate (May) | 7.00% | 7.00% | 7.00% |
 | 09:00 | ZAR | Core CPI (MoM) (Apr) | 0.2% |  | 0.7% |
 | 09:00 | ZAR | Core CPI (YoY) (Apr) | 4.6% |  | 4.9% |
-| 09:00 | ZAR | CPI (YoY) (Apr) | 5.2% |  | 5.3% |
 | 09:00 | ZAR | CPI (MoM) (Apr) | 0.3% |  | 0.8% |
+| 09:00 | ZAR | CPI (YoY) (Apr) | 5.2% |  | 5.3% |
 | 09:30 | GBP | House Price Index (YoY) | 1.8% | 0.1% | -0.2% |
 | 10:20 | GBP | 5-Year Treasury Gilt Auction | 4.199% |  | 4.251% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
@@ -131,8 +131,8 @@
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.391T |  | 3.416T |
 | 23:45 | NZD | Exports (Apr) | 6.42B |  | 6.38B |
 | 23:45 | NZD | Imports (Apr) | 6.32B |  | 5.90B |
-| 23:45 | NZD | Trade Balance (YoY) (Apr) | -10,110M |  | -9,980M |
 | 23:45 | NZD | Trade Balance (MoM) (Apr) | 91M |  | 476M |
+| 23:45 | NZD | Trade Balance (YoY) (Apr) | -10,110M |  | -9,980M |
 | 00:01 | GBP | GfK Consumer Confidence (May) | -17 | -18 | -19 |
 | 00:30 | JPY | CPI, n.s.a (MoM) (Apr) | 0.4% |  | 0.3% |
 | 00:30 | JPY | National CPI (YoY) (Apr) | 2.5% |  | 2.7% |
