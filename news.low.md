@@ -11,9 +11,9 @@
 | 07:00 | NOK | M3 Money Supply (Apr) | 3,117.4B |  | 3,125.8B |
 | 07:00 | NOK | Credit Indicator (YoY) (Apr) | 3.2% |  | 3.5% |
 | 07:00 | NOK | Unemployment Rate (Apr) | 4.3% |  | 4.0% |
-| 22 min | HKD | Exports (MoM) (Apr) |  |  | 4.7% |
-| 22 min | HKD | Imports (MoM) (Apr) |  |  | 5.3% |
-| 22 min | HKD | Trade Balance (Apr) |  |  | -45.0B |
+| 09:30 | HKD | Exports (MoM) (Apr) | 11.9% |  | 4.7% |
+| 09:30 | HKD | Imports (MoM) (Apr) | 3.7% |  | 5.3% |
+| 09:30 | HKD | Trade Balance (Apr) | -10.0B |  | -45.0B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Bank lending (MoM) (Apr) |  |  | 1.2% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.467% |
