@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
 | 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 4.3% |  | 4.3% |
-| 05:00 | IDR | M2 Money Supply (YoY) (Apr) |  |  | 7.20% |
+| 53 min | IDR | M2 Money Supply (YoY) (Apr) | 6.90% |  | 7.20% |
 | 06:00 | JPY | Coincident Indicator (MoM) |  | 2.4% | -0.7% |
 | 06:00 | JPY | Leading Index (MoM) |  | -0.7% | 2.3% |
 | 06:00 | JPY | Leading Index |  | 111.4 | 111.8 |
