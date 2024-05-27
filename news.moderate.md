@@ -7,6 +7,6 @@
 | 09:00 | EUR | German Ifo Business Climate Index (May) | 89.3 | 90.4 | 89.3 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 22 min | CAD | Wholesale Sales (MoM) (Apr) |  |  | -1.1% |
-| 14:30 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 13:30 | CAD | Wholesale Sales (MoM) (Apr) | 2.8% |  | -1.1% |
+| 24 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 18:45 | USD | FOMC Member Williams Speaks |  |  |  |

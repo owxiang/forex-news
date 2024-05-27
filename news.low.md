@@ -16,6 +16,6 @@
 | 09:30 | HKD | Trade Balance (Apr) | -10.0B |  | -45.0B |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Bank lending (MoM) (Apr) | 0.2% |  | 1.4% |
-| 52 min | EUR | French 12-Month BTF Auction |  |  | 3.467% |
-| 52 min | EUR | French 3-Month BTF Auction |  |  | 3.746% |
-| 52 min | EUR | French 6-Month BTF Auction |  |  | 3.657% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.503% |  | 3.467% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.697% |  | 3.746% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.657% |
