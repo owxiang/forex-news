@@ -26,4 +26,4 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.697% |  | 3.746% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.657% |  | 3.657% |
 | 14:30 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 40 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 18:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
