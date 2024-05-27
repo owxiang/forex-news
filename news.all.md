@@ -11,9 +11,9 @@
 | 07:00 | NOK | Low | M3 Money Supply (Apr) | 3,117.4B |  | 3,125.8B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) | 3.2% |  | 3.5% |
 | 07:00 | NOK | Low | Unemployment Rate (Apr) | 4.3% |  | 4.0% |
-| 09:00 | EUR | Moderate | German Business Expectations (May) |  | 90.5 | 89.9 |
-| 09:00 | EUR | Moderate | German Current Assessment (May) |  | 89.9 | 88.9 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) |  | 90.4 | 89.4 |
+| 53 min | EUR | Moderate | German Business Expectations (May) |  | 90.5 | 89.9 |
+| 53 min | EUR | Moderate | German Current Assessment (May) |  | 89.9 | 88.9 |
+| 53 min | EUR | Moderate | German Ifo Business Climate Index (May) |  | 90.4 | 89.4 |
 | 09:30 | HKD | Low | Exports (MoM) (Apr) |  |  | 4.7% |
 | 09:30 | HKD | Low | Imports (MoM) (Apr) |  |  | 5.3% |
 | 09:30 | HKD | Low | Trade Balance (Apr) |  |  | -45.0B |
