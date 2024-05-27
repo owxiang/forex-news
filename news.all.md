@@ -18,9 +18,9 @@
 | 09:30 | HKD | Low | Imports (MoM) (Apr) | 3.7% |  | 5.3% |
 | 09:30 | HKD | Low | Trade Balance (Apr) | -10.0B |  | -45.0B |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 1.2% |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 19 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 24 min | BRL | Low | Bank lending (MoM) (Apr) |  |  | 1.2% |
+| 54 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  |  | -1.1% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.467% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.746% |
