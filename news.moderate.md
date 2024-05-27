@@ -1,12 +1,19 @@
-## 27 May 2024 - Moderate Impact Forex News
+## 28 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 09:00 | EUR | German Business Expectations (May) | 90.4 | 90.5 | 89.7 |
-| 09:00 | EUR | German Current Assessment (May) | 88.3 | 89.9 | 88.9 |
-| 09:00 | EUR | German Ifo Business Climate Index (May) | 89.3 | 90.4 | 89.3 |
+| 02:30 | AUD | Retail Sales (MoM) (Apr) |  | 0.3% | -0.4% |
+| 05:55 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 05:55 | USD | FOMC Member Mester Speaks |  |  |  |
+| 05:55 | CHF | SNB Board Member Jordan Speaks |  |  |  |
+| 05:55 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 11:00 | EUR | France Jobseekers Total |  |  | 2,812.2K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | CAD | Wholesale Sales (MoM) (Apr) | 2.8% |  | -1.1% |
-| 14:30 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 13:30 | CAD | RMPI (MoM) (Apr) |  | 3.2% | 4.7% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.9% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 7.3% | 7.3% |
+| 14:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 14:55 | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 16:30 | USD | 2-Year Note Auction |  |  | 4.898% |
+| 18:00 | USD | 5-Year Note Auction |  |  | 4.659% |

@@ -1,21 +1,27 @@
-## 27 May 2024 - Low Impact Forex News
+## 28 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:05 | JPY | BOJ Gov Ueda Speaks |  |  |  |
-| 02:30 | CNY | Chinese Industrial profit YTD (Apr) | 4.3% |  | 4.3% |
-| 04:00 | IDR | M2 Money Supply (YoY) (Apr) | 6.90% |  | 7.20% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.1% | 2.4% | -0.7% |
-| 06:00 | JPY | Leading Index (MoM) (Mar) | 0.1% | -0.7% | 2.3% |
-| 06:00 | JPY | Leading Index (Mar) | 112.2 | 111.4 | 111.8 |
-| 07:00 | NOK | M3 Money Supply (Apr) | 3,117.4B |  | 3,125.8B |
-| 07:00 | NOK | Credit Indicator (YoY) (Apr) | 3.2% |  | 3.5% |
-| 07:00 | NOK | Unemployment Rate (Apr) | 4.3% |  | 4.0% |
-| 09:30 | HKD | Exports (MoM) (Apr) | 11.9% |  | 4.7% |
-| 09:30 | HKD | Imports (MoM) (Apr) | 3.7% |  | 5.3% |
-| 09:30 | HKD | Trade Balance (Apr) | -10.0B |  | -45.0B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Bank lending (MoM) (Apr) | 0.2% |  | 1.4% |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.503% |  | 3.467% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.697% |  | 3.746% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.657% |  | 3.657% |
+| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% |  | 0.8% |
+| 45 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.3% | 2.3% |
+| 07:00 | EUR | German WPI (YoY) (Apr) |  |  | -3.0% |
+| 07:00 | EUR | German WPI (MoM) (Apr) |  | 0.1% | 0.2% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Apr) |  |  | 0.3% |
+| 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.420% |
+| 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -40 | -44 |
+| 12:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
+| 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
+| 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
+| 13:30 | CAD | IPPI (YoY) (Apr) |  |  | -0.5% |
+| 13:30 | CAD | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
+| 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 0.8% |
+| 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 7.0% |
+| 14:00 | USD | House Price Index (MoM) (Mar) |  | 0.5% | 1.2% |
+| 14:00 | USD | House Price Index (Mar) |  |  | 423.0 |
+| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.6% |
+| 15:30 | USD | Dallas Fed Mfg Business Index (May) |  |  | -14.5 |
+| 16:30 | USD | 3-Month Bill Auction |  |  | 5.245% |
+| 16:30 | USD | 6-Month Bill Auction |  |  | 5.160% |
+| 18:00 | USD | M2 Money Supply (MoM) |  |  | 20.84T |
+| 18:05 | USD | Fed Governor Cook Speaks |  |  |  |
