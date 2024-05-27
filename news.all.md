@@ -17,7 +17,7 @@
 | 09:30 | HKD | Low | Exports (MoM) (Apr) | 11.9% |  | 4.7% |
 | 09:30 | HKD | Low | Imports (MoM) (Apr) | 3.7% |  | 5.3% |
 | 09:30 | HKD | Low | Trade Balance (Apr) | -10.0B |  | -45.0B |
-| 55 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Bank lending (MoM) (Apr) |  |  | 1.2% |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
