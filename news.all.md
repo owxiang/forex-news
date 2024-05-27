@@ -8,9 +8,9 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Mar) | 2.1% | 2.4% | -0.7% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Mar) | 0.1% | -0.7% | 2.3% |
 | 06:00 | JPY | Low | Leading Index (Mar) | 112.2 | 111.4 | 111.8 |
-| 55 min | NOK | Low | M3 Money Supply (Apr) |  |  | 3,125.8B |
-| 55 min | NOK | Low | Credit Indicator (YoY) (Apr) |  |  | 3.5% |
-| 55 min | NOK | Low | Unemployment Rate (Apr) |  |  | 4.0% |
+| 07:00 | NOK | Low | M3 Money Supply (Apr) | 3,117.4B |  | 3,125.8B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (Apr) | 3.2% |  | 3.5% |
+| 07:00 | NOK | Low | Unemployment Rate (Apr) | 4.3% |  | 4.0% |
 | 09:00 | EUR | Moderate | German Business Expectations (May) |  | 90.5 | 89.9 |
 | 09:00 | EUR | Moderate | German Current Assessment (May) |  | 89.9 | 88.9 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (May) |  | 90.4 | 89.4 |

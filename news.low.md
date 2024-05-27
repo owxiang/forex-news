@@ -8,9 +8,9 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Mar) | 2.1% | 2.4% | -0.7% |
 | 06:00 | JPY | Leading Index (MoM) (Mar) | 0.1% | -0.7% | 2.3% |
 | 06:00 | JPY | Leading Index (Mar) | 112.2 | 111.4 | 111.8 |
-| 55 min | NOK | M3 Money Supply (Apr) |  |  | 3,125.8B |
-| 55 min | NOK | Credit Indicator (YoY) (Apr) |  |  | 3.5% |
-| 55 min | NOK | Unemployment Rate (Apr) |  |  | 4.0% |
+| 07:00 | NOK | M3 Money Supply (Apr) | 3,117.4B |  | 3,125.8B |
+| 07:00 | NOK | Credit Indicator (YoY) (Apr) | 3.2% |  | 3.5% |
+| 07:00 | NOK | Unemployment Rate (Apr) | 4.3% |  | 4.0% |
 | 09:30 | HKD | Exports (MoM) (Apr) |  |  | 4.7% |
 | 09:30 | HKD | Imports (MoM) (Apr) |  |  | 5.3% |
 | 09:30 | HKD | Trade Balance (Apr) |  |  | -45.0B |
