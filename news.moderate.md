@@ -9,4 +9,4 @@
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) | 2.8% |  | -1.1% |
 | 14:30 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 18:45 | USD | FOMC Member Williams Speaks |  |  |  |
+| 40 min | USD | FOMC Member Williams Speaks |  |  |  |
