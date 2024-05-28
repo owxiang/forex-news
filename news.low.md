@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% |  | 0.8% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.3% | 2.3% |
-| 54 min | EUR | German WPI (MoM) (Apr) |  | 0.1% | 0.2% |
-| 54 min | EUR | German WPI (YoY) (Apr) |  |  | -3.0% |
-| 54 min | NOK | Core Retail Sales (MoM) (Apr) |  |  | 0.3% |
+| 07:00 | EUR | German WPI (YoY) (Apr) | -1.8% |  | -2.6% |
+| 07:00 | EUR | German WPI (MoM) (Apr) | 0.4% | 0.1% | 0.2% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Apr) | -0.3% |  | 0.3% |
 | 10:30 | EUR | Italian 2-Year CTZ Auction |  |  | 3.420% |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) |  | -24 | -44 |
 | 12:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
-| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
 | 13:30 | CAD | IPPI (YoY) (Apr) |  |  | -0.5% |
 | 13:30 | CAD | IPPI (MoM) (Apr) |  | 0.8% | 0.8% |
