@@ -5,11 +5,11 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.6% |  | 0.8% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.3% | 2.3% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Apr) | 0.1% | 0.3% | -0.4% |
-| 05:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 05:55 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
-| 05:55 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
-| 05:55 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 47 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 47 min | USD | Moderate | FOMC Member Mester Speaks |  |  |  |
+| 47 min | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
+| 47 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 52 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
 | 07:00 | EUR | Low | German WPI (YoY) (Apr) |  |  | -3.0% |
 | 07:00 | EUR | Low | German WPI (MoM) (Apr) |  | 0.1% | 0.2% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) |  |  | 0.3% |
@@ -21,8 +21,8 @@
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
-| 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | -0.5% |
+| 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | 3.2% | 4.7% |
 | 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 7.0% |

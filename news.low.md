@@ -13,8 +13,8 @@
 | 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
-| 13:30 | CAD | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
 | 13:30 | CAD | IPPI (YoY) (Apr) |  |  | -0.5% |
+| 13:30 | CAD | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
 | 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 0.8% |
 | 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 7.0% |
 | 14:00 | USD | House Price Index (MoM) (Mar) |  | 0.5% | 1.2% |

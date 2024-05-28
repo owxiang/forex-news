@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Retail Sales (MoM) (Apr) | 0.1% | 0.3% | -0.4% |
-| 05:55 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 05:55 | USD | FOMC Member Mester Speaks |  |  |  |
-| 05:55 | CHF | SNB Board Member Jordan Speaks |  |  |  |
-| 05:55 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 06:00 | JPY | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
+| 47 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 47 min | USD | FOMC Member Mester Speaks |  |  |  |
+| 47 min | CHF | SNB Board Member Jordan Speaks |  |  |  |
+| 47 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 52 min | JPY | BoJ Core CPI (YoY) |  | 2.2% | 2.2% |
 | 11:00 | EUR | France Jobseekers Total |  |  | 2,812.2K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Apr) |  | 3.2% | 4.7% |
