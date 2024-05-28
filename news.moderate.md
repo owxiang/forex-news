@@ -16,5 +16,5 @@
 | 14:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 14:55 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 16:30 | USD | 2-Year Note Auction | 4.917% |  | 4.898% |
-| 54 min | USD | 5-Year Note Auction |  |  | 4.659% |
-| 59 min | USD | FOMC Member Daly Speaks |  |  |  |
+| 18:00 | USD | 5-Year Note Auction | 4.553% |  | 4.659% |
+| 18:05 | USD | FOMC Member Daly Speaks |  |  |  |
