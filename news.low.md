@@ -16,8 +16,8 @@
 | 13:30 | CAD | IPPI (YoY) (Apr) |  |  | -0.5% |
 | 13:30 | CAD | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
 | 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 0.8% |
-| 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 7.0% |
 | 14:00 | USD | House Price Index (MoM) (Mar) |  | 0.5% | 1.2% |
+| 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 7.0% |
 | 14:00 | USD | House Price Index (Mar) |  |  | 423.0 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.6% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (May) |  |  | -14.5 |

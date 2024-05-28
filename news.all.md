@@ -25,8 +25,8 @@
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | 0.6% | 0.8% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | 3.2% | 4.7% |
-| 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 7.0% |
 | 14:00 | USD | Low | House Price Index (MoM) (Mar) |  | 0.5% | 1.2% |
+| 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 7.0% |
 | 14:00 | USD | Low | House Price Index (Mar) |  |  | 423.0 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) |  |  | 0.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.9% |
