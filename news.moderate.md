@@ -8,11 +8,11 @@
 | 05:55 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 05:55 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 06:00 | JPY | BoJ Core CPI (YoY) | 1.8% | 2.2% | 2.2% |
-| 11:00 | EUR | France Jobseekers Total |  |  | 2,812.2K |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 55 min | EUR | France Jobseekers Total |  |  | 2,812.2K |
+| 55 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | RMPI (MoM) (Apr) |  | 3.1% | 4.7% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.9% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) |  | 7.3% | 7.3% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) |  |  | 0.9% |
 | 14:30 | EUR | German Buba Balz Speaks |  |  |  |
 | 14:55 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 16:30 | USD | 2-Year Note Auction |  |  | 4.898% |
