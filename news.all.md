@@ -23,8 +23,8 @@
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | 0.74% |  | 0.35% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) | 1.4% |  | -0.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) | 1.5% | 0.8% | 0.9% |
-| 13:30 | CAD | Low | RMPI (YoY) (Apr) | 3.1% |  | 0.4% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) | 5.5% | 3.1% | 4.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (Apr) | 3.1% |  | 0.4% |
 | 14:00 | USD | Low | House Price Index (YoY) (Mar) | 6.7% |  | 7.1% |
 | 14:00 | USD | Low | House Price Index (MoM) (Mar) | 0.1% | 0.5% | 1.2% |
 | 14:00 | USD | Low | House Price Index (Mar) | 423.4 |  | 423.0 |
