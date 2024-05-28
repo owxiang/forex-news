@@ -18,11 +18,11 @@
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,812.2K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
-| 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | -0.5% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | 0.8% | 0.8% |
+| 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | -0.5% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | 3.1% | 4.7% |
 | 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 7.0% |
