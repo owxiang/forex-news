@@ -18,8 +18,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:05 | EUR | Low | Italian 2-Year CTZ Auction | 3.510% |  | 3.420% |
 | 11:30 | EUR | Low | Italian 3-Year BTP Auction | 3.48% |  | 3.32% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) | 0.44% | 0.49% | 0.21% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | 0.74% |  | 0.35% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) | 1.4% |  | -0.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) | 1.5% | 0.8% | 0.9% |
@@ -34,10 +34,10 @@
 | 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 14:55 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
 | 15:00 | USD | High | CB Consumer Confidence (May) | 102.0 | 96.0 | 97.5 |
-| 23 min | USD | Low | Dallas Fed Mfg Business Index (May) |  |  | -14.5 |
-| 53 min | USD | Low | 3-Month Bill Auction |  |  | 5.245% |
-| 53 min | USD | Low | 6-Month Bill Auction |  |  | 5.160% |
-| 16:30 | USD | Moderate | 2-Year Note Auction |  |  | 4.898% |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) | -19.4 |  | -14.5 |
+| 24 min | USD | Moderate | 2-Year Note Auction |  |  | 4.898% |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.245% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.160% |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.659% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) |  |  | 20.84T |
 | 18:05 | USD | Low | Fed Governor Cook Speaks |  |  |  |
