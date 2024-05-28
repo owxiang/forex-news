@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Retail Sales (MoM) (Apr) |  | 0.3% | -0.4% |
+| 02:30 | AUD | Retail Sales (MoM) (Apr) | 0.1% | 0.3% | -0.4% |
 | 05:55 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 05:55 | USD | FOMC Member Mester Speaks |  |  |  |
 | 05:55 | CHF | SNB Board Member Jordan Speaks |  |  |  |
