@@ -33,12 +33,12 @@
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 7.4% | 7.3% | 7.3% |
 | 14:30 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 14:55 | USD | Moderate | FOMC Member Kashkari Speaks |  |  |  |
+| 15:00 | USD | Low | 3-Month Bill Auction | 5.255% |  | 5.245% |
+| 15:00 | USD | Low | 6-Month Bill Auction | 5.170% |  | 5.160% |
 | 15:00 | USD | High | CB Consumer Confidence (May) | 102.0 | 96.0 | 97.5 |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (May) | -19.4 |  | -14.5 |
-| 24 min | USD | Moderate | 2-Year Note Auction |  |  | 4.898% |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.245% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.160% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.659% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) |  |  | 20.84T |
-| 18:05 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 18:05 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 16:30 | USD | Moderate | 2-Year Note Auction | 4.917% |  | 4.898% |
+| 54 min | USD | Moderate | 5-Year Note Auction |  |  | 4.659% |
+| 54 min | USD | Low | M2 Money Supply (MoM) |  |  | 20.84T |
+| 59 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 59 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
