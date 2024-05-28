@@ -14,14 +14,14 @@
 | 07:00 | EUR | Low | German WPI (MoM) (Apr) | 0.4% | 0.1% | 0.2% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Apr) | -0.3% |  | 0.3% |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (May) | 8 | -24 | -44 |
-| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,812.2K |
+| 11:00 | EUR | Moderate | France Jobseekers Total | 2,775.4K |  | 2,812.2K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
-| 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | -0.5% |
+| 25 min | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
+| 55 min | BRL | Low | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
+| 55 min | BRL | Low | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
+| 55 min | BRL | Low | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) |  | 0.8% | 0.8% |
+| 13:30 | CAD | Low | IPPI (YoY) (Apr) |  |  | -0.5% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) |  |  | 0.8% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) |  | 3.1% | 4.7% |
 | 14:00 | USD | Low | House Price Index (YoY) (Mar) |  |  | 7.0% |

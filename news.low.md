@@ -8,12 +8,12 @@
 | 07:00 | EUR | German WPI (MoM) (Apr) | 0.4% | 0.1% | 0.2% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Apr) | -0.3% |  | 0.3% |
 | 11:00 | GBP | CBI Distributive Trades Survey (May) | 8 | -24 | -44 |
-| 12:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
-| 13:00 | BRL | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
-| 13:30 | CAD | IPPI (YoY) (Apr) |  |  | -0.5% |
+| 25 min | BRL | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
+| 55 min | BRL | Mid-Month CPI (YoY) (May) |  | 3.75% | 3.77% |
+| 55 min | BRL | Mid-Month CPI (MoM) (May) |  | 0.49% | 0.21% |
+| 55 min | BRL | Brazilian PPI (MoM) (Apr) |  |  | 0.35% |
 | 13:30 | CAD | IPPI (MoM) (Apr) |  | 0.8% | 0.8% |
+| 13:30 | CAD | IPPI (YoY) (Apr) |  |  | -0.5% |
 | 13:30 | CAD | RMPI (YoY) (Apr) |  |  | 0.8% |
 | 14:00 | USD | House Price Index (YoY) (Mar) |  |  | 7.0% |
 | 14:00 | USD | House Price Index (MoM) (Mar) |  | 0.5% | 1.2% |
