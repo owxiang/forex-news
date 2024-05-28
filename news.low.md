@@ -1,27 +1,53 @@
-## 28 May 2024 - Low Impact Forex News
+## 29 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% |  | 0.8% |
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.3% | 2.3% |
-| 07:00 | EUR | German WPI (YoY) (Apr) | -1.8% |  | -2.6% |
-| 07:00 | EUR | German WPI (MoM) (Apr) | 0.4% | 0.1% | 0.2% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Apr) | -0.3% |  | 0.3% |
-| 11:00 | GBP | CBI Distributive Trades Survey (May) | 8 | -24 | -44 |
-| 11:05 | EUR | Italian 2-Year CTZ Auction | 3.510% |  | 3.420% |
-| 11:30 | EUR | Italian 3-Year BTP Auction | 3.48% |  | 3.32% |
-| 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.44% | 0.49% | 0.21% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
-| 13:00 | BRL | Brazilian PPI (MoM) (Apr) | 0.74% |  | 0.35% |
-| 13:30 | CAD | IPPI (YoY) (Apr) | 1.4% |  | -0.4% |
-| 13:30 | CAD | IPPI (MoM) (Apr) | 1.5% | 0.8% | 0.9% |
-| 13:30 | CAD | RMPI (YoY) (Apr) | 3.1% |  | 0.4% |
-| 14:00 | USD | House Price Index (YoY) (Mar) | 6.7% |  | 7.1% |
-| 14:00 | USD | House Price Index (MoM) (Mar) | 0.1% | 0.5% | 1.2% |
-| 14:00 | USD | House Price Index (Mar) | 423.4 |  | 423.0 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | 0.3% | 0.3% | 0.6% |
-| 15:00 | USD | 3-Month Bill Auction | 5.255% |  | 5.245% |
-| 15:00 | USD | 6-Month Bill Auction | 5.170% |  | 5.160% |
-| 15:30 | USD | Dallas Fed Mfg Business Index (May) | -19.4 |  | -14.5 |
-| 18:00 | USD | M2 Money Supply (MoM) | 20.87T |  | 20.84T |
-| 18:05 | USD | Fed Governor Cook Speaks |  |  |  |
+| 02:00 | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 02:00 | NZD | ANZ Business Confidence (May) |  |  | 14.9 |
+| 02:00 | NZD | NBNZ Own Activity (May) |  |  | 14.3% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) |  | 3.40% | 3.50% |
+| 06:00 | JPY | Household Confidence (May) |  | 39.1 | 38.3 |
+| 07:45 | EUR | French Consumer Confidence (May) |  | 91 | 90 |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 0.6% |
+| 09:00 | EUR | Italian Business Confidence (May) |  | 88.1 | 87.6 |
+| 09:00 | EUR | Italian Consumer Confidence (May) |  | 96.0 | 95.2 |
+| 09:00 | CHF | ZEW Expectations (May) |  |  | 17.6 |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.5% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
+| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
+| 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
+| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.7% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | M3 Money Supply (YoY) (Apr) |  | 1.5% | 0.9% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Apr) |  |  | 0.4% |
+| 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.2% |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.60B |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.661% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.01% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.9% |
+| 12:00 | USD | MBA Purchase Index |  |  | 140.0 |
+| 12:00 | USD | Mortgage Market Index |  |  | 201.9 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 536.9 |
+| 12:00 | BRL | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.84% | 0.31% |
+| 12:30 | INR | M3 Money Supply |  |  | 11.1% |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
+| 12:30 | BRL | Budget Balance (Apr) |  | -47.100B | -62.981B |
+| 12:30 | BRL | Budget Surplus (Apr) |  |  | 1.177B |
+| 13:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 13:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 213.90K | 244.32K |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
+| 15:00 | USD | Richmond Manufacturing Index (May) |  | -6 | -7 |
+| 15:00 | USD | Richmond Manufacturing Shipments (May) |  |  | -10 |
+| 15:00 | USD | Richmond Services Index (May) |  |  | -13 |
+| 15:30 | USD | Dallas Fed Services Revenues (May) |  |  | 0.3 |
+| 15:30 | USD | Texas Services Sector Outlook (May) |  |  | -10.6 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.745B |
+| 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -0.2% |
