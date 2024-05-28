@@ -18,15 +18,15 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:05 | EUR | Low | Italian 2-Year CTZ Auction | 3.510% |  | 3.420% |
 | 11:30 | EUR | Low | Italian 3-Year BTP Auction | 3.48% |  | 3.32% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) | 0.44% | 0.49% | 0.21% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | 0.74% |  | 0.35% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) | 1.4% |  | -0.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) | 1.5% | 0.8% | 0.9% |
 | 13:30 | CAD | Low | RMPI (YoY) (Apr) | 3.1% |  | 0.4% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Apr) | 5.5% | 3.1% | 4.3% |
-| 14:00 | USD | Low | House Price Index (MoM) (Mar) | 0.1% | 0.5% | 1.2% |
 | 14:00 | USD | Low | House Price Index (YoY) (Mar) | 6.7% |  | 7.1% |
+| 14:00 | USD | Low | House Price Index (MoM) (Mar) | 0.1% | 0.5% | 1.2% |
 | 14:00 | USD | Low | House Price Index (Mar) | 423.4 |  | 423.0 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Mar) | 0.3% | 0.3% | 0.6% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.6% |  | 0.9% |
