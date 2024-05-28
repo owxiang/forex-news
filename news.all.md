@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.6% |  | 0.8% |
-| 45 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 2.3% | 2.3% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.3% | 2.3% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (Apr) |  | 0.3% | -0.4% |
 | 05:55 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 05:55 | USD | Moderate | FOMC Member Mester Speaks |  |  |  |

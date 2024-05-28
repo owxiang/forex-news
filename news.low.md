@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.6% |  | 0.8% |
-| 45 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.3% | 2.3% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.8% | 2.3% | 2.3% |
 | 07:00 | EUR | German WPI (YoY) (Apr) |  |  | -3.0% |
 | 07:00 | EUR | German WPI (MoM) (Apr) |  | 0.1% | 0.2% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Apr) |  |  | 0.3% |
