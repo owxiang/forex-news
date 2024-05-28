@@ -13,8 +13,8 @@
 | 13:30 | CAD | RMPI (MoM) (Apr) | 5.5% | 3.1% | 4.3% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar) | 1.6% |  | 0.9% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar) | 7.4% | 7.3% | 7.3% |
-| 23 min | EUR | German Buba Balz Speaks |  |  |  |
-| 48 min | USD | FOMC Member Kashkari Speaks |  |  |  |
+| 14:30 | EUR | German Buba Balz Speaks |  |  |  |
+| 14:55 | USD | FOMC Member Kashkari Speaks |  |  |  |
 | 16:30 | USD | 2-Year Note Auction |  |  | 4.898% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.659% |
 | 18:05 | USD | FOMC Member Daly Speaks |  |  |  |
