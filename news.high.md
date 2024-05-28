@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (May) |  | 96.1 | 97.0 |
+| 15:00 | USD | CB Consumer Confidence (May) |  | 96.0 | 97.0 |
