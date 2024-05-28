@@ -18,8 +18,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:05 | EUR | Low | Italian 2-Year CTZ Auction | 3.510% |  | 3.420% |
 | 11:30 | EUR | Low | Italian 3-Year BTP Auction | 3.48% |  | 3.32% |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (May) | 0.44% | 0.49% | 0.21% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Low | Brazilian PPI (MoM) (Apr) | 0.74% |  | 0.35% |
 | 13:30 | CAD | Low | IPPI (YoY) (Apr) | 1.4% |  | -0.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (Apr) | 1.5% | 0.8% | 0.9% |

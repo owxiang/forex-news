@@ -10,8 +10,8 @@
 | 11:00 | GBP | CBI Distributive Trades Survey (May) | 8 | -24 | -44 |
 | 11:05 | EUR | Italian 2-Year CTZ Auction | 3.510% |  | 3.420% |
 | 11:30 | EUR | Italian 3-Year BTP Auction | 3.48% |  | 3.32% |
-| 13:00 | BRL | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (May) | 0.44% | 0.49% | 0.21% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (May) | 3.70% | 3.75% | 3.77% |
 | 13:00 | BRL | Brazilian PPI (MoM) (Apr) | 0.74% |  | 0.35% |
 | 13:30 | CAD | IPPI (YoY) (Apr) | 1.4% |  | -0.4% |
 | 13:30 | CAD | IPPI (MoM) (Apr) | 1.5% | 0.8% | 0.9% |
