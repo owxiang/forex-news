@@ -8,23 +8,23 @@
 | 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) | -2.9% | 0.6% | 1.8% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) | 3.60% | 3.40% | 3.50% |
 | 02:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
-| 06:00 | JPY | Low | Household Confidence (May) |  | 39.1 | 38.3 |
+| 52 min | JPY | Low | Household Confidence (May) |  | 39.1 | 38.3 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jun) |  | -22.5 | -24.2 |
 | 07:45 | EUR | Low | French Consumer Confidence (May) |  | 91 | 90 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Apr) |  |  | 0.6% |
 | 09:00 | EUR | Low | Italian Business Confidence (May) |  | 88.1 | 87.6 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (May) |  | 96.0 | 95.2 |
 | 09:00 | CHF | Low | ZEW Expectations (May) |  |  | 17.6 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) |  |  | 1.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) |  |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) |  | 1.5% | 0.9% |
