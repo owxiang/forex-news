@@ -11,4 +11,4 @@
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.716% |
 | 18:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.480M |
+| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.900M | 2.480M |
