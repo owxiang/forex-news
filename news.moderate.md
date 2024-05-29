@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Construction Work Done (QoQ) (Q1) | -2.9% | 0.6% | 1.8% |
 | 02:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
-| 53 min | EUR | GfK German Consumer Climate (Jun) |  | -22.5 | -24.2 |
+| 07:00 | EUR | GfK German Consumer Climate (Jun) | -20.9 | -22.5 | -24.0 |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 75.7% |
 | 13:00 | EUR | German CPI (YoY) (May) |  | 2.4% | 2.2% |
 | 13:00 | BRL | Unemployment Rate |  | 7.7% | 7.9% |

@@ -7,19 +7,19 @@
 | 02:00 | NZD | NBNZ Own Activity (May) | 11.8% |  | 14.3% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 3.60% | 3.40% | 3.50% |
 | 06:00 | JPY | Household Confidence (May) | 36.2 | 39.1 | 38.3 |
-| 07:45 | EUR | French Consumer Confidence (May) |  | 91 | 90 |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 0.6% |
+| 38 min | EUR | French Consumer Confidence (May) |  | 91 | 90 |
+| 53 min | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 0.6% |
 | 09:00 | EUR | Italian Business Confidence (May) |  | 88.1 | 87.6 |
 | 09:00 | EUR | Italian Consumer Confidence (May) |  | 96.0 | 95.2 |
 | 09:00 | CHF | ZEW Expectations (May) |  |  | 17.6 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.5% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.7% |
@@ -40,8 +40,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
 | 12:30 | BRL | Budget Balance (Apr) |  | -47.100B | -62.981B |
 | 12:30 | BRL | Budget Surplus (Apr) |  |  | 1.177B |
-| 13:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 13:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Richmond Manufacturing Index (May) |  | -6 | -7 |
