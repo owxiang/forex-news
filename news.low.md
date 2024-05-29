@@ -12,16 +12,16 @@
 | 09:00 | EUR | Italian Business Confidence (May) |  | 88.1 | 87.6 |
 | 09:00 | EUR | Italian Consumer Confidence (May) |  | 96.0 | 95.2 |
 | 09:00 | CHF | ZEW Expectations (May) |  |  | 17.6 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.5% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
+| 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.7% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Apr) |  | 1.5% | 0.9% |
