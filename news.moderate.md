@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Construction Work Done (QoQ) (Q1) |  | 0.6% | 0.7% |
+| 02:30 | AUD | Construction Work Done (QoQ) (Q1) | -2.9% | 0.6% | 0.7% |
 | 02:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Jun) |  | -22.5 | -24.2 |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 75.7% |

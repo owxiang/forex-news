@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | AUD | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
-| 39 min | NZD | ANZ Business Confidence (May) |  |  | 14.9 |
-| 39 min | NZD | NBNZ Own Activity (May) |  |  | 14.3% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) |  | 3.40% | 3.50% |
+| 02:00 | AUD | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.1% |
+| 02:00 | NZD | ANZ Business Confidence (May) | 11.2 |  | 14.9 |
+| 02:00 | NZD | NBNZ Own Activity (May) | 11.8% |  | 14.3% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 3.60% | 3.40% | 3.50% |
 | 06:00 | JPY | Household Confidence (May) |  | 39.1 | 38.3 |
 | 07:45 | EUR | French Consumer Confidence (May) |  | 91 | 90 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) |  |  | 0.6% |
@@ -14,16 +14,16 @@
 | 09:00 | CHF | ZEW Expectations (May) |  |  | 17.6 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) |  |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.7% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) |  |  | 0.6% |
+| 09:00 | EUR | Saxony CPI (YoY) (May) |  |  | 2.7% |
 | 09:00 | EUR | M3 Money Supply (YoY) (Apr) |  | 1.5% | 0.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) |  |  | 0.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.2% |
