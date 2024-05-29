@@ -9,26 +9,27 @@
 | 06:00 | JPY | Household Confidence (May) | 36.2 | 39.1 | 38.3 |
 | 07:45 | EUR | French Consumer Confidence (May) | 90 | 91 | 90 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) | 0.3% |  | 0.9% |
-| 09:00 | EUR | Italian Business Confidence (May) | 88.4 | 88.1 | 87.6 |
+| 09:00 | EUR | Italian Business Confidence (May) | 88.4 | 88.1 | 87.7 |
 | 09:00 | EUR | Italian Consumer Confidence (May) | 96.4 | 96.0 | 95.2 |
 | 09:00 | CHF | ZEW Expectations (May) | 18.2 |  | 17.6 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.0% |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
+| 09:00 | EUR | M3 Money Supply (Apr) | 10,000,000.0M |  | 10,000,000.0M |
 | 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.2% | 0.4% | 0.2% |
-| 52 min | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.60B |
-| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.661% |
+| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 4.91B |  | 5.77B |
+| 4 min | EUR | Italian 6-Month BOT Auction |  |  | 3.661% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.01% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.9% |
 | 12:00 | USD | MBA Purchase Index |  |  | 140.0 |
@@ -40,8 +41,8 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
 | 12:30 | BRL | Budget Balance (Apr) |  | -47.100B | -62.981B |
 | 12:30 | BRL | Budget Surplus (Apr) |  |  | 1.177B |
-| 13:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 13:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Richmond Manufacturing Index (May) |  | -6 | -7 |
