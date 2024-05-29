@@ -16,12 +16,12 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
@@ -35,16 +35,16 @@
 | 12:00 | USD | MBA Purchase Index | 138.4 |  | 140.0 |
 | 12:00 | USD | Mortgage Market Index | 190.3 |  | 201.9 |
 | 12:00 | USD | Mortgage Refinance Index | 463.8 |  | 536.9 |
-| 12:00 | BRL | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
-| 24 min | INR | M3 Money Supply |  |  | 11.1% |
-| 24 min | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
-| 24 min | BRL | Budget Balance (Apr) |  | -47.100B | -62.981B |
-| 24 min | BRL | Budget Surplus (Apr) |  |  | 1.177B |
-| 54 min | EUR | German HICP (MoM) (May) |  | 0.2% | 0.6% |
-| 54 min | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
-| 13:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
-| 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
+| 12:30 | INR | M3 Money Supply | 10.9% |  | 11.1% |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Apr) | 61.2% |  | 61.1% |
+| 12:30 | BRL | Budget Balance (Apr) | -69.638B | -47.100B | -62.981B |
+| 12:30 | BRL | Budget Surplus (Apr) | 6.688B |  | 1.177B |
+| 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
+| 22 min | BRL | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
+| 47 min | USD | Redbook (YoY) |  |  | 5.5% |
+| 52 min | BRL | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
 | 15:00 | USD | Richmond Manufacturing Index (May) |  | -6 | -7 |
 | 15:00 | USD | Richmond Manufacturing Shipments (May) |  |  | -10 |
 | 15:00 | USD | Richmond Services Index (May) |  |  | -13 |

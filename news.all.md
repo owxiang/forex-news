@@ -19,12 +19,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Low | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
@@ -38,20 +38,20 @@
 | 12:00 | USD | Low | MBA Purchase Index | 138.4 |  | 140.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 190.3 |  | 201.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 463.8 |  | 536.9 |
-| 12:00 | BRL | Low | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
-| 24 min | INR | Low | M3 Money Supply |  |  | 11.1% |
-| 24 min | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
-| 24 min | BRL | Low | Budget Balance (Apr) |  | -47.100B | -62.981B |
-| 24 min | BRL | Low | Budget Surplus (Apr) |  |  | 1.177B |
-| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 75.7% |
-| 54 min | EUR | Moderate | German CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 54 min | EUR | High | German CPI (MoM) (May) |  | 0.2% | 0.5% |
-| 54 min | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.6% |
-| 54 min | EUR | Low | German HICP (YoY) (May) |  | 2.7% | 2.4% |
-| 54 min | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.9% |
-| 13:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
+| 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.1% |
+| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Apr) | 61.2% |  | 61.1% |
+| 12:30 | BRL | Low | Budget Balance (Apr) | -69.638B | -47.100B | -62.981B |
+| 12:30 | BRL | Low | Budget Surplus (Apr) | 6.688B |  | 1.177B |
+| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.0% |  | 75.7% |
+| 13:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
+| 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.2% | 0.5% |
+| 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
+| 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 7.5% | 7.7% | 7.9% |
+| 22 min | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
+| 47 min | USD | Low | Redbook (YoY) |  |  | 5.5% |
+| 52 min | BRL | Low | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) |  | -6 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (May) |  |  | -10 |
 | 15:00 | USD | Low | Richmond Services Index (May) |  |  | -13 |
