@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
-| 02:00 | NZD | Low | ANZ Business Confidence (May) |  |  | 14.9 |
-| 02:00 | NZD | Low | NBNZ Own Activity (May) |  |  | 14.3% |
+| 39 min | AUD | Low | MI Leading Index (MoM) (Apr) |  |  | -0.1% |
+| 39 min | NZD | Low | ANZ Business Confidence (May) |  |  | 14.9 |
+| 39 min | NZD | Low | NBNZ Own Activity (May) |  |  | 14.3% |
 | 02:30 | AUD | Moderate | Construction Work Done (QoQ) (Q1) |  | 0.6% | 0.7% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (Apr) |  | 3.40% | 3.50% |
 | 02:30 | JPY | Moderate | BoJ Board Member Adachi Speaks |  |  |  |
@@ -15,16 +15,16 @@
 | 09:00 | EUR | Low | Italian Business Confidence (May) |  | 88.1 | 87.6 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (May) |  | 96.0 | 95.2 |
 | 09:00 | CHF | Low | ZEW Expectations (May) |  |  | 17.6 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) |  |  | 2.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (May) |  |  | 1.9% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) |  |  | 0.6% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (May) |  |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) |  |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) |  |  | 0.6% |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) |  | 1.5% | 0.9% |
