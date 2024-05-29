@@ -1,54 +1,60 @@
-## 29 May 2024 - Low Impact Forex News
+## 30 May 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | AUD | MI Leading Index (MoM) (Apr) | -0.0% |  | -0.1% |
-| 02:00 | NZD | ANZ Business Confidence (May) | 11.2 |  | 14.9 |
-| 02:00 | NZD | NBNZ Own Activity (May) | 11.8% |  | 14.3% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (Apr) | 3.60% | 3.40% | 3.50% |
-| 06:00 | JPY | Household Confidence (May) | 36.2 | 39.1 | 38.3 |
-| 07:45 | EUR | French Consumer Confidence (May) | 90 | 91 | 90 |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) | 0.3% |  | 0.9% |
-| 09:00 | EUR | Italian Business Confidence (May) | 88.4 | 88.1 | 87.7 |
-| 09:00 | EUR | Italian Consumer Confidence (May) | 96.4 | 96.0 | 95.2 |
-| 09:00 | CHF | ZEW Expectations (May) | 18.2 |  | 17.6 |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
-| 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
-| 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
-| 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
-| 09:00 | EUR | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
-| 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
-| 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
-| 09:00 | EUR | Private Sector Loans (YoY) | 0.2% | 0.4% | 0.2% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 4.91B |  | 5.77B |
-| 11:00 | EUR | Italian 6-Month BOT Auction | 3.648% |  | 3.737% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.05% |  | 7.01% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -5.7% |  | 1.9% |
-| 12:00 | USD | MBA Purchase Index | 138.4 |  | 140.0 |
-| 12:00 | USD | Mortgage Market Index | 190.3 |  | 201.9 |
-| 12:00 | USD | Mortgage Refinance Index | 463.8 |  | 536.9 |
-| 12:00 | BRL | Brazilian IGP-M Inflation (YoY) (May) | 0.28% |  | -3.04% |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
-| 12:30 | INR | M3 Money Supply | 10.9% |  | 11.1% |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Apr) | 61.2% |  | 61.1% |
-| 12:30 | BRL | CAGED Net Payroll Jobs (Apr) | 240.03K | 216.95K | 244.32K |
-| 12:30 | BRL | Budget Balance (Apr) | -69.638B | -47.100B | -62.981B |
-| 12:30 | BRL | Budget Surplus (Apr) | 6.688B |  | 1.177B |
-| 13:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
-| 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
-| 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.5% |
-| 15:00 | USD | Richmond Manufacturing Index (May) | 0 | -6 | -7 |
-| 15:00 | USD | Richmond Manufacturing Shipments (May) | 13 |  | -10 |
-| 15:00 | USD | Richmond Services Index (May) | 3 |  | -13 |
-| 15:30 | USD | Dallas Fed Services Revenues (May) | 6.7 |  | 0.3 |
-| 15:30 | USD | Texas Services Sector Outlook (May) | -12.1 |  | -10.6 |
-| 18:30 | BRL | Foreign Exchange Flows | -0.855B |  | 0.632B |
-| 39 min | NZD | Building Consents (MoM) (Apr) |  |  | -0.2% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | 2,192.2B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 248.1B |
+| 02:00 | NZD | Budget Balance (Jan) |  |  | -25.830B |
+| 02:00 | NZD | Net Debt Forecast (Jan) |  |  | 43.50% |
+| 02:00 | NZD | Economic Forecast (Jan) |  |  | -9.320B |
+| 02:30 | AUD | Building Approvals (YoY) (Apr) |  |  | -2.50% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 1.5% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.1% |
+| 02:30 | AUD | Private House Approvals (Apr) |  |  | 3.8% |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.303% |
+| 07:00 | CHF | Trade Balance (Apr) |  | 3.980B | 3.542B |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
+| 07:00 | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
+| 08:00 | EUR | Core CPI (YoY) |  |  | 2.9% |
+| 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
+| 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
+| 10:00 | EUR | Italian PPI (YoY) (Apr) |  |  | -9.6% |
+| 10:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -0.2% |
+| 10:00 | EUR | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
+| 10:00 | EUR | Business Climate (May) |  |  | -0.53 |
+| 10:00 | EUR | Consumer Confidence (May) |  | -14.3 | -14.7 |
+| 10:00 | EUR | Consumer Inflation Expectation (May) |  |  | 11.6 |
+| 10:00 | EUR | Selling Price Expectations (May) |  |  | 5.4 |
+| 10:00 | EUR | Services Sentiment (May) |  | 6.5 | 6.0 |
+| 10:00 | EUR | Industrial Sentiment (May) |  | -9.4 | -10.5 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.28% |
+| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 1.1% |
+| 12:00 | EUR | Spanish Business Confidence |  |  | -3.9 |
+| 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
+| 13:00 | ZAR | Budget Balance (MoM) |  |  | 2.07B |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
+| 13:30 | USD | GDP Sales (Q1) |  | 2.0% | 3.9% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.75K |
+| 13:30 | USD | PCE Prices (Q1) |  | 3.4% | 1.8% |
+| 13:30 | USD | Real Consumer Spending (Q1) |  | 2.5% | 3.3% |
+| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.0% | -0.4% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 4.53% |
+| 14:00 | ZAR | Prime Rate (May) |  |  | 11.75% |
+| 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 78.2 |
+| 15:30 | USD | Natural Gas Storage |  |  | 78B |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
+| 16:00 | USD | Crude Oil Imports |  |  | -0.676M |
+| 16:00 | USD | Distillate Fuel Production |  |  | 0.260M |
+| 16:00 | USD | EIA Weekly Distillates Stocks |  | 0.400M | 0.379M |
+| 16:00 | USD | Gasoline Production |  |  | 0.351M |
+| 16:00 | USD | Heating Oil Stockpiles |  |  | 0.477M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
+| 16:00 | USD | Gasoline Inventories |  | 1.000M | -0.945M |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
+| 22:00 | USD | Fed Logan Speaks |  |  |  |
+| 22:00 | MXN | Fiscal Balance (Apr) |  |  | 437.20B |

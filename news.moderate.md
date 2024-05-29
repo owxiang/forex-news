@@ -1,14 +1,29 @@
-## 29 May 2024 - Moderate Impact Forex News
+## 30 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Construction Work Done (QoQ) (Q1) | -2.9% | 0.6% | 1.8% |
-| 02:30 | JPY | BoJ Board Member Adachi Speaks |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Jun) | -20.9 | -22.5 | -24.0 |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.0% |  | 75.7% |
-| 13:00 | EUR | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
-| 13:00 | BRL | Unemployment Rate (Apr) | 7.5% | 7.7% | 7.9% |
-| 18:00 | USD | 7-Year Note Auction | 4.650% |  | 4.716% |
-| 18:45 | USD | FOMC Member Williams Speaks |  |  |  |
-| 19:00 | USD | Beige Book |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -6.490M | -1.900M | 2.480M |
+| 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 54 min | CHF | SNB Board Member Jordan Speaks |  |  |  |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) |  | 1.8% | 1.9% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) |  | 0.6% | 0.8% |
+| 03:00 | NZD | Annual Budget Release |  |  |  |
+| 08:00 | CHF | KOF Leading Indicators (May) |  | 102.3 | 101.8 |
+| 08:00 | CHF | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 08:00 | CHF | GDP (YoY) (Q1) |  | 0.6% | 0.6% |
+| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.7% | 3.3% |
+| 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
+| 10:00 | EUR | Unemployment Rate (Apr) |  | 6.5% | 6.5% |
+| 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.86% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,794K |
+| 13:30 | USD | Core PCE Prices (Q1) |  | 3.70% | 2.00% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
+| 13:30 | USD | Goods Trade Balance (Apr) |  | -91.90B | -91.54B |
+| 13:30 | USD | Retail Inventories Ex Auto (Apr) |  |  | -0.2% |
+| 13:30 | CAD | Current Account (Q1) |  | -5.5B | -1.6B |
+| 14:00 | ZAR | Interest Rate Decision (May) |  | 8.25% | 8.25% |
+| 15:00 | USD | Pending Home Sales (MoM) (Apr) |  | -1.1% | 3.4% |
+| 16:00 | USD | Cushing Crude Oil Inventories |  |  | 1.325M |
+| 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 19:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,300B |
