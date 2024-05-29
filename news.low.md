@@ -14,16 +14,16 @@
 | 09:00 | CHF | ZEW Expectations (May) | 18.2 |  | 17.6 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
@@ -38,17 +38,16 @@
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
 | 12:30 | INR | M3 Money Supply | 10.9% |  | 11.1% |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) | 61.2% |  | 61.1% |
+| 12:30 | BRL | CAGED Net Payroll Jobs (Apr) | 240.03K | 216.95K | 244.32K |
 | 12:30 | BRL | Budget Balance (Apr) | -69.638B | -47.100B | -62.981B |
 | 12:30 | BRL | Budget Surplus (Apr) | 6.688B |  | 1.177B |
-| 13:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
 | 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 13:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.5% |
-| 14:00 | BRL | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
-| 54 min | USD | Richmond Manufacturing Index (May) |  | -6 | -7 |
-| 54 min | USD | Richmond Manufacturing Shipments (May) |  |  | -10 |
-| 54 min | USD | Richmond Services Index (May) |  |  | -13 |
-| 15:30 | USD | Dallas Fed Services Revenues (May) |  |  | 0.3 |
-| 15:30 | USD | Texas Services Sector Outlook (May) |  |  | -10.6 |
-| 18:00 | BRL | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
+| 15:00 | USD | Richmond Manufacturing Index (May) | 0 | -6 | -7 |
+| 15:00 | USD | Richmond Manufacturing Shipments (May) | 13 |  | -10 |
+| 15:00 | USD | Richmond Services Index (May) | 3 |  | -13 |
+| 24 min | USD | Dallas Fed Services Revenues (May) |  |  | 0.3 |
+| 24 min | USD | Texas Services Sector Outlook (May) |  |  | -10.6 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.745B |
 | 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -0.2% |
