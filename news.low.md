@@ -14,35 +14,35 @@
 | 09:00 | CHF | ZEW Expectations (May) | 18.2 |  | 17.6 |
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
-| 09:00 | EUR | M3 Money Supply (Apr) | 10,000,000.0M |  | 10,000,000.0M |
+| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
+| 09:00 | EUR | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.2% | 0.4% | 0.2% |
 | 10:00 | EUR | Italian Trade Balance Non-EU (Apr) | 4.91B |  | 5.77B |
-| 4 min | EUR | Italian 6-Month BOT Auction |  |  | 3.661% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.01% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.9% |
-| 12:00 | USD | MBA Purchase Index |  |  | 140.0 |
-| 12:00 | USD | Mortgage Market Index |  |  | 201.9 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 536.9 |
-| 12:00 | BRL | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
-| 12:00 | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.84% | 0.31% |
+| 11:00 | EUR | Italian 6-Month BOT Auction |  |  | 3.661% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.01% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 1.9% |
+| 54 min | USD | MBA Purchase Index |  |  | 140.0 |
+| 54 min | USD | Mortgage Market Index |  |  | 201.9 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 536.9 |
+| 54 min | BRL | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
+| 54 min | BRL | IGP-M Inflation Index (MoM) (May) |  | 0.84% | 0.31% |
 | 12:30 | INR | M3 Money Supply |  |  | 11.1% |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
 | 12:30 | BRL | Budget Balance (Apr) |  | -47.100B | -62.981B |
 | 12:30 | BRL | Budget Surplus (Apr) |  |  | 1.177B |
-| 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (May) |  | 2.7% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 13:30 | BRL | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Richmond Manufacturing Index (May) |  | -6 | -7 |
