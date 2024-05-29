@@ -25,8 +25,8 @@
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
-| 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
+| 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Low | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
@@ -47,8 +47,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.0% |  | 75.7% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.2% | 0.5% |
-| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 7.5% | 7.7% | 7.9% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.5% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) | 0 | -6 | -7 |
@@ -56,7 +56,7 @@
 | 15:00 | USD | Low | Richmond Services Index (May) | 3 |  | -13 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (May) | 6.7 |  | 0.3 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (May) | -12.1 |  | -10.6 |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.716% |
+| 54 min | USD | Moderate | 7-Year Note Auction |  |  | 4.716% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.745B |
 | 18:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |

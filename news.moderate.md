@@ -8,7 +8,7 @@
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.0% |  | 75.7% |
 | 13:00 | EUR | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 13:00 | BRL | Unemployment Rate (Apr) | 7.5% | 7.7% | 7.9% |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.716% |
+| 54 min | USD | 7-Year Note Auction |  |  | 4.716% |
 | 18:45 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Beige Book |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.900M | 2.480M |
