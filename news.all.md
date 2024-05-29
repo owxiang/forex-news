@@ -19,12 +19,12 @@
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Low | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
@@ -38,6 +38,7 @@
 | 12:00 | USD | Low | MBA Purchase Index | 138.4 |  | 140.0 |
 | 12:00 | USD | Low | Mortgage Market Index | 190.3 |  | 201.9 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 463.8 |  | 536.9 |
+| 12:00 | BRL | Low | Brazilian IGP-M Inflation (YoY) (May) | 0.28% |  | -3.04% |
 | 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 11.1% |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Apr) | 61.2% |  | 61.1% |
@@ -61,4 +62,4 @@
 | 18:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -6.490M | -1.900M | 2.480M |
-| 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | -0.2% |
+| 39 min | NZD | Low | Building Consents (MoM) (Apr) |  |  | -0.2% |

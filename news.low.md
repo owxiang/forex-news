@@ -16,12 +16,12 @@
 | 09:00 | EUR | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
 | 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
 | 09:00 | EUR | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
@@ -35,6 +35,7 @@
 | 12:00 | USD | MBA Purchase Index | 138.4 |  | 140.0 |
 | 12:00 | USD | Mortgage Market Index | 190.3 |  | 201.9 |
 | 12:00 | USD | Mortgage Refinance Index | 463.8 |  | 536.9 |
+| 12:00 | BRL | Brazilian IGP-M Inflation (YoY) (May) | 0.28% |  | -3.04% |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
 | 12:30 | INR | M3 Money Supply | 10.9% |  | 11.1% |
 | 12:30 | BRL | Net Debt-to-GDP ratio (Apr) | 61.2% |  | 61.1% |
@@ -50,4 +51,4 @@
 | 15:30 | USD | Dallas Fed Services Revenues (May) | 6.7 |  | 0.3 |
 | 15:30 | USD | Texas Services Sector Outlook (May) | -12.1 |  | -10.6 |
 | 18:30 | BRL | Foreign Exchange Flows | -0.855B |  | 0.632B |
-| 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -0.2% |
+| 39 min | NZD | Building Consents (MoM) (Apr) |  |  | -0.2% |
