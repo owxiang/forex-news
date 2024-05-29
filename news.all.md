@@ -47,15 +47,15 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.0% |  | 75.7% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.2% | 0.5% |
-| 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 13:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
+| 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 7.5% | 7.7% | 7.9% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.5% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) | 0 | -6 | -7 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (May) | 13 |  | -10 |
 | 15:00 | USD | Low | Richmond Services Index (May) | 3 |  | -13 |
-| 24 min | USD | Low | Dallas Fed Services Revenues (May) |  |  | 0.3 |
-| 24 min | USD | Low | Texas Services Sector Outlook (May) |  |  | -10.6 |
+| 15:30 | USD | Low | Dallas Fed Services Revenues (May) | 6.7 |  | 0.3 |
+| 15:30 | USD | Low | Texas Services Sector Outlook (May) | -12.1 |  | -10.6 |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.716% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.745B |
 | 18:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

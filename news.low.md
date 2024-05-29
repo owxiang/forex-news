@@ -41,13 +41,13 @@
 | 12:30 | BRL | CAGED Net Payroll Jobs (Apr) | 240.03K | 216.95K | 244.32K |
 | 12:30 | BRL | Budget Balance (Apr) | -69.638B | -47.100B | -62.981B |
 | 12:30 | BRL | Budget Surplus (Apr) | 6.688B |  | 1.177B |
-| 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 13:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
+| 13:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.5% |
 | 15:00 | USD | Richmond Manufacturing Index (May) | 0 | -6 | -7 |
 | 15:00 | USD | Richmond Manufacturing Shipments (May) | 13 |  | -10 |
 | 15:00 | USD | Richmond Services Index (May) | 3 |  | -13 |
-| 24 min | USD | Dallas Fed Services Revenues (May) |  |  | 0.3 |
-| 24 min | USD | Texas Services Sector Outlook (May) |  |  | -10.6 |
+| 15:30 | USD | Dallas Fed Services Revenues (May) | 6.7 |  | 0.3 |
+| 15:30 | USD | Texas Services Sector Outlook (May) | -12.1 |  | -10.6 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.745B |
 | 23:45 | NZD | Building Consents (MoM) (Apr) |  |  | -0.2% |
