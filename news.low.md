@@ -9,25 +9,25 @@
 | 06:00 | JPY | Household Confidence (May) | 36.2 | 39.1 | 38.3 |
 | 07:45 | EUR | French Consumer Confidence (May) | 90 | 91 | 90 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Apr) | 0.3% |  | 0.9% |
-| 54 min | EUR | Italian Business Confidence (May) |  | 88.1 | 87.6 |
-| 54 min | EUR | Italian Consumer Confidence (May) |  | 96.0 | 95.2 |
-| 54 min | CHF | ZEW Expectations (May) |  |  | 17.6 |
-| 54 min | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
-| 54 min | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
-| 54 min | EUR | Bavaria CPI (MoM) (May) |  |  | 0.6% |
-| 54 min | EUR | Bavaria CPI (YoY) (May) |  |  | 2.5% |
-| 54 min | EUR | Brandenburg CPI (YoY) (May) |  |  | 3.0% |
-| 54 min | EUR | Brandenburg CPI (MoM) (May) |  |  | 0.6% |
-| 54 min | EUR | Hesse CPI (YoY) (May) |  |  | 1.9% |
-| 54 min | EUR | Hesse CPI (MoM) (May) |  |  | 0.6% |
-| 54 min | EUR | North Rhine Westphalia CPI (MoM) (May) |  |  | 0.3% |
-| 54 min | EUR | North Rhine Westphalia CPI (YoY) (May) |  |  | 2.3% |
-| 54 min | EUR | Saxony CPI (YoY) (May) |  |  | 2.7% |
-| 54 min | EUR | Saxony CPI (MoM) (May) |  |  | 0.6% |
-| 54 min | EUR | M3 Money Supply (YoY) (Apr) |  | 1.3% | 0.9% |
-| 54 min | EUR | Loans to Non Financial Corporations (Apr) |  |  | 0.4% |
-| 54 min | EUR | Private Sector Loans (YoY) |  | 0.4% | 0.2% |
-| 10:00 | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.60B |
+| 09:00 | EUR | Italian Business Confidence (May) | 88.4 | 88.1 | 87.6 |
+| 09:00 | EUR | Italian Consumer Confidence (May) | 96.4 | 96.0 | 95.2 |
+| 09:00 | CHF | ZEW Expectations (May) | 18.2 |  | 17.6 |
+| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.3% |
+| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (May) |  |  | 2.1% |
+| 09:00 | EUR | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
+| 09:00 | EUR | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
+| 09:00 | EUR | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
+| 09:00 | EUR | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
+| 09:00 | EUR | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
+| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (May) | 0.0% |  | 0.3% |
+| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
+| 09:00 | EUR | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
+| 09:00 | EUR | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
+| 09:00 | EUR | Private Sector Loans (YoY) | 0.2% | 0.4% | 0.2% |
+| 52 min | EUR | Italian Trade Balance Non-EU (Apr) |  |  | 5.60B |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.661% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.01% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 1.9% |
