@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (May) |  | 0.2% | 0.5% |
+| 54 min | EUR | German CPI (MoM) (May) |  | 0.2% | 0.5% |

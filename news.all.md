@@ -15,14 +15,14 @@
 | 09:00 | EUR | Low | Italian Business Confidence (May) | 88.4 | 88.1 | 87.7 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (May) | 96.4 | 96.0 | 95.2 |
 | 09:00 | CHF | Low | ZEW Expectations (May) | 18.2 |  | 17.6 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
@@ -32,24 +32,24 @@
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.2% | 0.4% | 0.2% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) | 4.91B |  | 5.77B |
-| 11:00 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.661% |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.01% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 1.9% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 140.0 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 201.9 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 536.9 |
-| 54 min | BRL | Low | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
-| 54 min | BRL | Low | IGP-M Inflation Index (MoM) (May) |  | 0.84% | 0.31% |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 11.1% |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
-| 12:30 | BRL | Low | Budget Balance (Apr) |  | -47.100B | -62.981B |
-| 12:30 | BRL | Low | Budget Surplus (Apr) |  |  | 1.177B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 75.7% |
-| 13:00 | EUR | Moderate | German CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 13:00 | EUR | High | German CPI (MoM) (May) |  | 0.2% | 0.5% |
-| 13:00 | EUR | Low | German HICP (YoY) (May) |  | 2.7% | 2.4% |
-| 13:00 | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.6% |
-| 13:00 | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.9% |
+| 11:00 | EUR | Low | Italian 6-Month BOT Auction | 3.648% |  | 3.737% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.05% |  | 7.01% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -5.7% |  | 1.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 138.4 |  | 140.0 |
+| 12:00 | USD | Low | Mortgage Market Index | 190.3 |  | 201.9 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 463.8 |  | 536.9 |
+| 12:00 | BRL | Low | Brazilian IGP-M Inflation (YoY) (May) |  |  | -3.04% |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (May) | 0.89% | 0.84% | 0.31% |
+| 24 min | INR | Low | M3 Money Supply |  |  | 11.1% |
+| 24 min | BRL | Low | Net Debt-to-GDP ratio (Apr) |  |  | 61.1% |
+| 24 min | BRL | Low | Budget Balance (Apr) |  | -47.100B | -62.981B |
+| 24 min | BRL | Low | Budget Surplus (Apr) |  |  | 1.177B |
+| 24 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) |  |  | 75.7% |
+| 54 min | EUR | Moderate | German CPI (YoY) (May) |  | 2.4% | 2.2% |
+| 54 min | EUR | High | German CPI (MoM) (May) |  | 0.2% | 0.5% |
+| 54 min | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 54 min | EUR | Low | German HICP (YoY) (May) |  | 2.7% | 2.4% |
+| 54 min | BRL | Moderate | Unemployment Rate |  | 7.7% | 7.9% |
 | 13:30 | BRL | Low | CAGED Net Payroll Jobs (Apr) |  | 216.95K | 244.32K |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) |  | -6 | -7 |
