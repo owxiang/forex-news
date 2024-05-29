@@ -15,20 +15,20 @@
 | 09:00 | EUR | Low | Italian Business Confidence (May) | 88.4 | 88.1 | 87.7 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (May) | 96.4 | 96.0 | 95.2 |
 | 09:00 | CHF | Low | ZEW Expectations (May) | 18.2 |  | 17.6 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.2% |  | 0.3% |
-| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (May) | 2.1% |  | 2.1% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (May) | 0.1% |  | 0.6% |
-| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
+| 09:00 | EUR | Low | Bavaria CPI (YoY) (May) | 2.7% |  | 2.5% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (May) | 2.9% |  | 3.0% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
+| 09:00 | EUR | Low | Brandenburg CPI (MoM) (May) | 3.0% |  | 0.6% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (May) | 1.9% |  | 1.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (May) | 0.0% |  | 0.6% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (May) | 0.2% |  | 0.3% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (May) | 2.5% |  | 2.3% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (May) | 3.1% |  | 2.7% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (May) | 0.1% |  | 0.6% |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
 | 09:00 | EUR | Low | M3 Money Supply (Apr) | 16,206.4B |  | 16,190.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Apr) | 1.3% | 1.3% | 0.9% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Apr) | 0.3% |  | 0.4% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.2% | 0.4% | 0.2% |
 | 10:00 | EUR | Low | Italian Trade Balance Non-EU (Apr) | 4.91B |  | 5.77B |
@@ -47,8 +47,8 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Apr) | 76.0% |  | 75.7% |
 | 13:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 13:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.2% | 0.5% |
-| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
 | 13:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 13:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.7% | 2.4% |
 | 13:00 | BRL | Moderate | Unemployment Rate (Apr) | 7.5% | 7.7% | 7.9% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.5% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (May) | 0 | -6 | -7 |
@@ -60,5 +60,5 @@
 | 18:30 | BRL | Low | Foreign Exchange Flows | -0.855B |  | 0.632B |
 | 18:45 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.900M | 2.480M |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.900M | 2.480M |
 | 23:45 | NZD | Low | Building Consents (MoM) (Apr) |  |  | -0.2% |
