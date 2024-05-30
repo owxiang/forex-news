@@ -26,8 +26,8 @@
 | 10:00 | EUR | Selling Price Expectations (May) | 6.4 |  | 5.6 |
 | 10:00 | EUR | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
-| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:30 | ZAR | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:35 | EUR | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 12:00 | EUR | Spanish Business Confidence | -6.3 |  | -4.3 |
 | 12:30 | ZAR | Budget Balance (MoM) (Apr) | -78.05B |  | 2.07B |
@@ -51,8 +51,8 @@
 | 16:00 | USD | Heating Oil Stockpiles | -0.211M |  | 0.477M |
 | 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 2.6% |  | 1.3% |
 | 16:00 | USD | Gasoline Inventories | 2.022M | 1.000M | -0.945M |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
+| 16:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
 | 22:00 | USD | Fed Logan Speaks |  |  |  |
 | 22:00 | MXN | Fiscal Balance (Apr) |  |  | 437.20B |

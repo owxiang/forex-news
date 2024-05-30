@@ -19,8 +19,8 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.418% |  | 0.303% |
 | 07:00 | CHF | Low | Trade Balance (Apr) | 4.316B | 3.980B | 3.767B |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 100.3 | 102.2 | 101.9 |
-| 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:35 | EUR | Moderate | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
 | 10:35 | EUR | Low | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -76,9 +76,9 @@
 | 16:00 | USD | Low | Heating Oil Stockpiles | -0.211M |  | 0.477M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 2.6% |  | 1.3% |
 | 16:00 | USD | Low | Gasoline Inventories | 2.022M | 1.000M | -0.945M |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 59 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
+| 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,300B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
