@@ -8,8 +8,8 @@
 | 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.9% |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
 | 08:00 | CHF | KOF Leading Indicators (May) | 100.3 | 102.2 | 101.9 |
-| 08:00 | CHF | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
 | 08:00 | CHF | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
+| 08:00 | CHF | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 10:00 | EUR | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
@@ -23,7 +23,7 @@
 | 13:30 | CAD | Current Account (Q1) | -5.4B | -5.5B | -4.5B |
 | 14:00 | ZAR | Interest Rate Decision (May) | 8.25% | 8.25% | 8.25% |
 | 15:00 | USD | Pending Home Sales (MoM) (Apr) | -7.7% | -1.1% | 3.6% |
-| 54 min | USD | Cushing Crude Oil Inventories |  |  | 1.325M |
-| 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
+| 16:00 | USD | Cushing Crude Oil Inventories | -1.766M |  | 1.325M |
+| 59 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,300B |
