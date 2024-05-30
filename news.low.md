@@ -26,13 +26,13 @@
 | 10:00 | EUR | Selling Price Expectations (May) | 6.4 |  | 5.6 |
 | 10:00 | EUR | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
-| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:30 | ZAR | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:35 | EUR | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
-| 54 min | EUR | Spanish Business Confidence |  |  | -3.9 |
-| 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.70% |
-| 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
-| 13:00 | ZAR | Budget Balance (MoM) |  |  | 2.07B |
+| 12:00 | EUR | Spanish Business Confidence |  |  | -3.9 |
+| 55 min | MXN | Unemployment Rate (Apr) |  |  | 2.70% |
+| 55 min | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
+| 55 min | ZAR | Budget Balance (MoM) |  |  | 2.07B |
 | 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
 | 13:30 | USD | GDP Sales (Q1) |  | 2.0% | 3.9% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.75K |

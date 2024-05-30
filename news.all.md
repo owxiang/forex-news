@@ -24,8 +24,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
@@ -37,15 +37,15 @@
 | 10:00 | EUR | Low | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:35 | EUR | Moderate | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
 | 10:35 | EUR | Low | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 54 min | EUR | Low | Spanish Business Confidence |  |  | -3.9 |
-| 13:00 | MXN | Low | Unemployment Rate (Apr) |  |  | 2.70% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
-| 13:00 | ZAR | Low | Budget Balance (MoM) |  |  | 2.07B |
+| 12:00 | EUR | Low | Spanish Business Confidence |  |  | -3.9 |
+| 55 min | MXN | Low | Unemployment Rate (Apr) |  |  | 2.70% |
+| 55 min | MXN | Low | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
+| 55 min | ZAR | Low | Budget Balance (MoM) |  |  | 2.07B |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,794K |
 | 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.70% | 2.00% |
 | 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
