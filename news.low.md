@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Foreign Bonds Buying |  |  | 2,192.2B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 248.1B |
-| 02:00 | NZD | Budget Balance (Jan) |  |  | -25.830B |
-| 02:00 | NZD | Net Debt Forecast (Jan) |  |  | 43.50% |
-| 02:00 | NZD | Economic Forecast (Jan) |  |  | -9.320B |
+| 00:50 | JPY | Foreign Bonds Buying | -297.9B |  | 2,189.6B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 82.4B |  | 248.3B |
+| 39 min | NZD | Budget Balance (Jan) |  |  | -25.830B |
+| 39 min | NZD | Net Debt Forecast (Jan) |  |  | 43.50% |
+| 39 min | NZD | Economic Forecast (Jan) |  |  | -9.320B |
 | 02:30 | AUD | Building Approvals (YoY) (Apr) |  |  | -2.50% |
 | 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 1.5% |
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.1% |

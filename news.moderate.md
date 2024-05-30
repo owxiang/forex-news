@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 54 min | CHF | SNB Board Member Jordan Speaks |  |  |  |
+| 01:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) |  | 1.8% | 1.9% |
 | 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) |  | 0.6% | 0.8% |
 | 03:00 | NZD | Annual Budget Release |  |  |  |

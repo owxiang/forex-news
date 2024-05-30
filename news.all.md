@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 2,192.2B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 248.1B |
-| 54 min | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
-| 02:00 | NZD | Low | Budget Balance (Jan) |  |  | -25.830B |
-| 02:00 | NZD | Low | Net Debt Forecast (Jan) |  |  | 43.50% |
-| 02:00 | NZD | Low | Economic Forecast (Jan) |  |  | -9.320B |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -297.9B |  | 2,189.6B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 82.4B |  | 248.3B |
+| 01:00 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
+| 39 min | NZD | Low | Budget Balance (Jan) |  |  | -25.830B |
+| 39 min | NZD | Low | Net Debt Forecast (Jan) |  |  | 43.50% |
+| 39 min | NZD | Low | Economic Forecast (Jan) |  |  | -9.320B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  |  | -2.50% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | 1.8% | 1.9% |
 | 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) |  |  | 1.5% |
