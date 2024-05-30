@@ -18,17 +18,17 @@
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.418% |  | 0.303% |
 | 07:00 | CHF | Low | Trade Balance (Apr) | 4.316B | 3.980B | 3.767B |
-| 53 min | CHF | Moderate | KOF Leading Indicators (May) |  | 102.2 | 101.8 |
-| 53 min | CHF | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
-| 53 min | CHF | Moderate | GDP (YoY) (Q1) |  | 0.6% | 0.6% |
-| 53 min | EUR | Low | Core CPI (YoY) |  |  | 2.9% |
-| 53 min | EUR | Low | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
-| 53 min | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.7% | 3.3% |
-| 53 min | EUR | Low | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
-| 53 min | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
-| 53 min | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 53 min | ZAR | Low | Private Sector Credit (Apr) |  |  | 5.18% |
-| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 100.3 | 102.2 | 101.9 |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
+| 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
+| 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
+| 08:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 5.18% |
+| 53 min | EUR | Low | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -0.2% |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
