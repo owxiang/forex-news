@@ -53,6 +53,6 @@
 | 16:00 | USD | Gasoline Inventories | 2.022M | 1.000M | -0.945M |
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction | 5.275% |  | 5.275% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
-| 22:00 | USD | Fed Logan Speaks |  |  |  |
-| 22:00 | MXN | Fiscal Balance (Apr) |  |  | 437.20B |
+| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
+| 54 min | USD | Fed Logan Speaks |  |  |  |
+| 54 min | MXN | Fiscal Balance (Apr) |  |  | 437.20B |

@@ -26,4 +26,4 @@
 | 16:00 | USD | Cushing Crude Oil Inventories | -1.766M |  | 1.325M |
 | 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,300B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,300B |
