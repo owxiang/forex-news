@@ -19,13 +19,13 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.418% |  | 0.303% |
 | 07:00 | CHF | Low | Trade Balance (Apr) | 4.316B | 3.980B | 3.767B |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (May) | 100.3 | 102.2 | 101.9 |
-| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
+| 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
@@ -37,32 +37,32 @@
 | 10:00 | EUR | Low | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
+| 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
 | 10:35 | EUR | Moderate | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
 | 10:35 | EUR | Low | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | EUR | Low | Spanish Business Confidence |  |  | -3.9 |
-| 55 min | MXN | Low | Unemployment Rate (Apr) |  |  | 2.70% |
-| 55 min | MXN | Low | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
-| 55 min | ZAR | Low | Budget Balance (MoM) |  |  | 2.07B |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,794K |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.70% | 2.00% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 1.6% | 3.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  | 2.0% | 3.9% |
-| 13:30 | USD | Moderate | Goods Trade Balance (Apr) |  | -91.90B | -91.54B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 218K | 215K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.75K |
-| 13:30 | USD | Low | PCE Prices (Q1) |  | 3.4% | 1.8% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 2.5% | 3.3% |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (Apr) |  |  | -0.2% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.0% | -0.4% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Mar) |  |  | 4.53% |
-| 13:30 | CAD | Moderate | Current Account (Q1) |  | -5.5B | -1.6B |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (May) |  | 8.25% | 8.25% |
-| 14:00 | ZAR | Low | Prime Rate (May) |  |  | 11.75% |
+| 12:00 | EUR | Low | Spanish Business Confidence | -6.3 |  | -4.3 |
+| 12:30 | ZAR | Low | Budget Balance (MoM) (Apr) | -78.05B |  | 2.07B |
+| 13:00 | MXN | Low | Unemployment Rate (Apr) | 2.60% |  | 2.70% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (Apr) | 2.60% | 2.60% | 2.30% |
+| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,794K |
+| 22 min | USD | Moderate | Core PCE Prices (Q1) |  | 3.70% | 2.00% |
+| 22 min | USD | Low | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
+| 22 min | USD | High | GDP (QoQ) (Q1) |  | 1.6% | 3.4% |
+| 22 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
+| 22 min | USD | Low | GDP Sales (Q1) |  | 2.0% | 3.9% |
+| 22 min | USD | Moderate | Goods Trade Balance (Apr) |  | -91.90B | -91.54B |
+| 22 min | USD | High | Initial Jobless Claims |  | 218K | 215K |
+| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 219.75K |
+| 22 min | USD | Low | PCE Prices (Q1) |  | 3.4% | 1.8% |
+| 22 min | USD | Low | Real Consumer Spending (Q1) |  | 2.5% | 3.3% |
+| 22 min | USD | Moderate | Retail Inventories Ex Auto (Apr) |  |  | -0.2% |
+| 22 min | USD | Low | Wholesale Inventories (MoM) |  | 0.0% | -0.4% |
+| 22 min | CAD | Low | Average Weekly Earnings (YoY) (Mar) |  |  | 4.53% |
+| 22 min | CAD | Moderate | Current Account (Q1) |  | -5.5B | -1.6B |
+| 52 min | ZAR | Moderate | Interest Rate Decision (May) |  | 8.25% | 8.25% |
+| 52 min | ZAR | Low | Prime Rate (May) |  |  | 11.75% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | -1.1% | 3.4% |
 | 15:00 | USD | Low | Pending Home Sales Index (Apr) |  |  | 78.2 |
 | 15:30 | USD | Low | Natural Gas Storage |  | 77B | 78B |

@@ -26,21 +26,21 @@
 | 10:00 | EUR | Selling Price Expectations (May) | 6.4 |  | 5.6 |
 | 10:00 | EUR | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
-| 10:30 | ZAR | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
 | 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
+| 10:30 | ZAR | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
 | 10:35 | EUR | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
-| 12:00 | EUR | Spanish Business Confidence |  |  | -3.9 |
-| 55 min | MXN | Unemployment Rate (Apr) |  |  | 2.70% |
-| 55 min | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
-| 55 min | ZAR | Budget Balance (MoM) |  |  | 2.07B |
-| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
-| 13:30 | USD | GDP Sales (Q1) |  | 2.0% | 3.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 219.75K |
-| 13:30 | USD | PCE Prices (Q1) |  | 3.4% | 1.8% |
-| 13:30 | USD | Real Consumer Spending (Q1) |  | 2.5% | 3.3% |
-| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.0% | -0.4% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 4.53% |
-| 14:00 | ZAR | Prime Rate (May) |  |  | 11.75% |
+| 12:00 | EUR | Spanish Business Confidence | -6.3 |  | -4.3 |
+| 12:30 | ZAR | Budget Balance (MoM) (Apr) | -78.05B |  | 2.07B |
+| 13:00 | MXN | Unemployment Rate (Apr) | 2.60% |  | 2.70% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (Apr) | 2.60% | 2.60% | 2.30% |
+| 22 min | USD | Corporate Profits (QoQ) (Q1) |  | 3.9% | 3.7% |
+| 22 min | USD | GDP Sales (Q1) |  | 2.0% | 3.9% |
+| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 219.75K |
+| 22 min | USD | PCE Prices (Q1) |  | 3.4% | 1.8% |
+| 22 min | USD | Real Consumer Spending (Q1) |  | 2.5% | 3.3% |
+| 22 min | USD | Wholesale Inventories (MoM) |  | 0.0% | -0.4% |
+| 22 min | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 4.53% |
+| 52 min | ZAR | Prime Rate (May) |  |  | 11.75% |
 | 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 78.2 |
 | 15:30 | USD | Natural Gas Storage |  | 77B | 78B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
