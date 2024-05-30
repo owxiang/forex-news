@@ -24,11 +24,11 @@
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) | 96.0 | 96.2 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (May) | -0.39 |  | -0.51 |
 | 10:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.3 | -14.7 |
