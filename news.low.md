@@ -4,14 +4,14 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | -297.9B |  | 2,189.6B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 82.4B |  | 248.3B |
-| 02:00 | NZD | Budget Balance (Jan) | -21.860B |  | -25.830B |
+| 02:00 | NZD | Budget Balance (Jan) | -21.860B |  | -25.800B |
 | 02:00 | NZD | Net Debt Forecast (Jan) | 43.10% |  | 43.50% |
-| 02:00 | NZD | Economic Forecast (Jan) | -11.070B |  | -9.320B |
+| 02:00 | NZD | Economic Forecast (Jan) | -11.070B |  | -9.319B |
 | 02:30 | AUD | Building Approvals (YoY) (Apr) | 27.30% |  | -2.00% |
 | 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | -0.9% |  | 1.5% |
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 3.3% |  | -0.1% |
 | 02:30 | AUD | Private House Approvals (Apr) | -1.6% |  | 3.8% |
-| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.303% |
+| 30 min | JPY | 2-Year JGB Auction |  |  | 0.303% |
 | 07:00 | CHF | Trade Balance (Apr) |  | 3.980B | 3.542B |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
 | 07:00 | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
@@ -29,8 +29,8 @@
 | 10:00 | EUR | Services Sentiment (May) |  | 6.5 | 6.0 |
 | 10:00 | EUR | Industrial Sentiment (May) |  | -9.4 | -10.5 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.28% |
-| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 4.6% |
 | 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 1.1% |
+| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 4.6% |
 | 12:00 | EUR | Spanish Business Confidence |  |  | -3.9 |
 | 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |
