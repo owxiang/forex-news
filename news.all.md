@@ -24,11 +24,11 @@
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) | 96.0 | 96.2 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (May) | -0.39 |  | -0.51 |
 | 10:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.3 | -14.7 |
@@ -61,21 +61,21 @@
 | 13:30 | USD | Low | Wholesale Inventories (MoM) | 0.2% | 0.0% | -0.4% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Mar) | 4.20% |  | 4.32% |
 | 13:30 | CAD | Moderate | Current Account (Q1) | -5.4B | -5.5B | -4.5B |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (May) |  | 8.25% | 8.25% |
-| 14:00 | ZAR | Low | Prime Rate (May) |  |  | 11.75% |
-| 54 min | USD | Moderate | Pending Home Sales (MoM) (Apr) |  | -1.1% | 3.4% |
-| 54 min | USD | Low | Pending Home Sales Index (Apr) |  |  | 78.2 |
-| 15:30 | USD | Low | Natural Gas Storage |  | 77B | 78B |
-| 16:00 | USD | High | Crude Oil Inventories |  | -1.600M | 1.825M |
-| 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
-| 16:00 | USD | Low | Crude Oil Imports |  |  | -0.676M |
-| 16:00 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.325M |
-| 16:00 | USD | Low | Distillate Fuel Production |  |  | 0.260M |
-| 16:00 | USD | Low | EIA Weekly Distillates Stocks |  | 0.400M | 0.379M |
-| 16:00 | USD | Low | Gasoline Production |  |  | 0.351M |
-| 16:00 | USD | Low | Heating Oil Stockpiles |  |  | 0.477M |
-| 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
-| 16:00 | USD | Low | Gasoline Inventories |  | 1.000M | -0.945M |
+| 14:00 | ZAR | Moderate | Interest Rate Decision (May) | 8.25% | 8.25% | 8.25% |
+| 14:00 | ZAR | Low | Prime Rate (May) | 11.75% |  | 11.75% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (Apr) | -7.7% | -1.1% | 3.6% |
+| 15:00 | USD | Low | Pending Home Sales Index (Apr) | 72.3 |  | 78.3 |
+| 24 min | USD | Low | Natural Gas Storage |  | 77B | 78B |
+| 54 min | USD | High | Crude Oil Inventories |  | -1.600M | 1.825M |
+| 54 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
+| 54 min | USD | Low | Crude Oil Imports |  |  | -0.676M |
+| 54 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 1.325M |
+| 54 min | USD | Low | Distillate Fuel Production |  |  | 0.260M |
+| 54 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.400M | 0.379M |
+| 54 min | USD | Low | Gasoline Production |  |  | 0.351M |
+| 54 min | USD | Low | Heating Oil Stockpiles |  |  | 0.477M |
+| 54 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
+| 54 min | USD | Low | Gasoline Inventories |  | 1.000M | -0.945M |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
 | 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |

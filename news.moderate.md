@@ -21,9 +21,9 @@
 | 13:30 | USD | Goods Trade Balance (Apr) | -99.41B | -91.90B | -92.29B |
 | 13:30 | USD | Retail Inventories Ex Auto (Apr) | 0.3% |  | -0.4% |
 | 13:30 | CAD | Current Account (Q1) | -5.4B | -5.5B | -4.5B |
-| 14:00 | ZAR | Interest Rate Decision (May) |  | 8.25% | 8.25% |
-| 54 min | USD | Pending Home Sales (MoM) (Apr) |  | -1.1% | 3.4% |
-| 16:00 | USD | Cushing Crude Oil Inventories |  |  | 1.325M |
+| 14:00 | ZAR | Interest Rate Decision (May) | 8.25% | 8.25% | 8.25% |
+| 15:00 | USD | Pending Home Sales (MoM) (Apr) | -7.7% | -1.1% | 3.6% |
+| 54 min | USD | Cushing Crude Oil Inventories |  |  | 1.325M |
 | 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
 | 19:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,300B |

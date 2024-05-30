@@ -17,8 +17,8 @@
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
-| 10:00 | EUR | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
+| 10:00 | EUR | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Business and Consumer Survey (May) | 96.0 | 96.2 | 95.6 |
 | 10:00 | EUR | Business Climate (May) | -0.39 |  | -0.51 |
 | 10:00 | EUR | Consumer Confidence (May) | -14.3 | -14.3 | -14.7 |
@@ -40,17 +40,17 @@
 | 13:30 | USD | Real Consumer Spending (Q1) | 2.0% | 2.5% | 3.3% |
 | 13:30 | USD | Wholesale Inventories (MoM) | 0.2% | 0.0% | -0.4% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) | 4.20% |  | 4.32% |
-| 14:00 | ZAR | Prime Rate (May) |  |  | 11.75% |
-| 54 min | USD | Pending Home Sales Index (Apr) |  |  | 78.2 |
-| 15:30 | USD | Natural Gas Storage |  | 77B | 78B |
-| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
-| 16:00 | USD | Crude Oil Imports |  |  | -0.676M |
-| 16:00 | USD | Distillate Fuel Production |  |  | 0.260M |
-| 16:00 | USD | EIA Weekly Distillates Stocks |  | 0.400M | 0.379M |
-| 16:00 | USD | Gasoline Production |  |  | 0.351M |
-| 16:00 | USD | Heating Oil Stockpiles |  |  | 0.477M |
-| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
-| 16:00 | USD | Gasoline Inventories |  | 1.000M | -0.945M |
+| 14:00 | ZAR | Prime Rate (May) | 11.75% |  | 11.75% |
+| 15:00 | USD | Pending Home Sales Index (Apr) | 72.3 |  | 78.3 |
+| 24 min | USD | Natural Gas Storage |  | 77B | 78B |
+| 54 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
+| 54 min | USD | Crude Oil Imports |  |  | -0.676M |
+| 54 min | USD | Distillate Fuel Production |  |  | 0.260M |
+| 54 min | USD | EIA Weekly Distillates Stocks |  | 0.400M | 0.379M |
+| 54 min | USD | Gasoline Production |  |  | 0.351M |
+| 54 min | USD | Heating Oil Stockpiles |  |  | 0.477M |
+| 54 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
+| 54 min | USD | Gasoline Inventories |  | 1.000M | -0.945M |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
