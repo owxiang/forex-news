@@ -79,7 +79,7 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
-| 43 min | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 19:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,300B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
 | 22:00 | USD | Low | Fed Logan Speaks |  |  |  |

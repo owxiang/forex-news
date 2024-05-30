@@ -25,5 +25,5 @@
 | 15:00 | USD | Pending Home Sales (MoM) (Apr) | -7.7% | -1.1% | 3.6% |
 | 16:00 | USD | Cushing Crude Oil Inventories | -1.766M |  | 1.325M |
 | 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 43 min | GBP | BoE Gov Bailey Speaks |  |  |  |
+| 19:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,300B |
