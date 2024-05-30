@@ -6,16 +6,16 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -297.9B |  | 2,189.6B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 82.4B |  | 248.3B |
 | 01:00 | CHF | Moderate | SNB Board Member Jordan Speaks |  |  |  |
-| 39 min | NZD | Low | Budget Balance (Jan) |  |  | -25.830B |
-| 39 min | NZD | Low | Net Debt Forecast (Jan) |  |  | 43.50% |
-| 39 min | NZD | Low | Economic Forecast (Jan) |  |  | -9.320B |
+| 02:00 | NZD | Low | Budget Balance (Jan) |  |  | -25.830B |
+| 02:00 | NZD | Low | Net Debt Forecast (Jan) |  |  | 43.50% |
+| 02:00 | NZD | Low | Economic Forecast (Jan) |  |  | -9.320B |
 | 02:30 | AUD | Low | Building Approvals (YoY) (Apr) |  |  | -2.50% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) |  | 1.8% | 1.9% |
-| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) |  |  | 1.5% |
-| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.1% |
-| 02:30 | AUD | Low | Private House Approvals (Apr) |  |  | 3.8% |
-| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) |  | 0.6% | 0.8% |
-| 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (Apr) | -0.3% | 1.8% | 1.9% |
+| 02:30 | AUD | Low | Building Capital Expenditure (MoM) (Q1) | -0.9% |  | 1.5% |
+| 02:30 | AUD | Low | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 3.3% |  | -0.1% |
+| 02:30 | AUD | Low | Private House Approvals (Apr) | -1.6% |  | 3.8% |
+| 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.8% |
+| 30 min | NZD | Moderate | Annual Budget Release |  |  |  |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.303% |
 | 07:00 | CHF | Low | Trade Balance (Apr) |  | 3.980B | 3.542B |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
@@ -26,11 +26,11 @@
 | 08:00 | EUR | Low | Core CPI (YoY) |  |  | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -0.2% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (May) |  |  | -0.53 |
 | 10:00 | EUR | Low | Consumer Confidence (May) |  | -14.3 | -14.7 |
@@ -41,8 +41,8 @@
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) |  | 6.5% | 6.5% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.86% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.28% |
-| 10:30 | ZAR | Low | PPI (YoY) (Apr) |  |  | 4.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 1.1% |
+| 10:30 | ZAR | Low | PPI (YoY) (Apr) |  |  | 4.6% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | Spanish Business Confidence |  |  | -3.9 |
 | 13:00 | MXN | Low | Unemployment Rate (Apr) |  |  | 2.70% |

@@ -4,13 +4,13 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | -297.9B |  | 2,189.6B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 82.4B |  | 248.3B |
-| 39 min | NZD | Budget Balance (Jan) |  |  | -25.830B |
-| 39 min | NZD | Net Debt Forecast (Jan) |  |  | 43.50% |
-| 39 min | NZD | Economic Forecast (Jan) |  |  | -9.320B |
+| 02:00 | NZD | Budget Balance (Jan) |  |  | -25.830B |
+| 02:00 | NZD | Net Debt Forecast (Jan) |  |  | 43.50% |
+| 02:00 | NZD | Economic Forecast (Jan) |  |  | -9.320B |
 | 02:30 | AUD | Building Approvals (YoY) (Apr) |  |  | -2.50% |
-| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) |  |  | 1.5% |
-| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) |  |  | -0.1% |
-| 02:30 | AUD | Private House Approvals (Apr) |  |  | 3.8% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | -0.9% |  | 1.5% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 3.3% |  | -0.1% |
+| 02:30 | AUD | Private House Approvals (Apr) | -1.6% |  | 3.8% |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.303% |
 | 07:00 | CHF | Trade Balance (Apr) |  | 3.980B | 3.542B |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
@@ -19,8 +19,8 @@
 | 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
-| 10:00 | EUR | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -0.2% |
+| 10:00 | EUR | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
 | 10:00 | EUR | Business Climate (May) |  |  | -0.53 |
 | 10:00 | EUR | Consumer Confidence (May) |  | -14.3 | -14.7 |
@@ -29,8 +29,8 @@
 | 10:00 | EUR | Services Sentiment (May) |  | 6.5 | 6.0 |
 | 10:00 | EUR | Industrial Sentiment (May) |  | -9.4 | -10.5 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.28% |
-| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 4.6% |
 | 10:30 | ZAR | PPI (MoM) (Apr) |  |  | 1.1% |
+| 10:30 | ZAR | PPI (YoY) (Apr) |  |  | 4.6% |
 | 12:00 | EUR | Spanish Business Confidence |  |  | -3.9 |
 | 13:00 | MXN | Unemployment Rate (Apr) |  |  | 2.70% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (Apr) |  | 2.60% | 2.30% |

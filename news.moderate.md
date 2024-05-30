@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 01:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
-| 02:30 | AUD | Building Approvals (MoM) (Apr) |  | 1.8% | 1.9% |
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) |  | 0.6% | 0.8% |
-| 03:00 | NZD | Annual Budget Release |  |  |  |
+| 02:30 | AUD | Building Approvals (MoM) (Apr) | -0.3% | 1.8% | 1.9% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.8% |
+| 30 min | NZD | Annual Budget Release |  |  |  |
 | 08:00 | CHF | KOF Leading Indicators (May) |  | 102.3 | 101.8 |
 | 08:00 | CHF | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
 | 08:00 | CHF | GDP (YoY) (Q1) |  | 0.6% | 0.6% |
