@@ -26,23 +26,21 @@
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
-| 08:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 08:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 5.18% |
-| 53 min | EUR | Low | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
-| 10:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -0.2% |
-| 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
-| 10:00 | EUR | Low | Business Climate (May) |  |  | -0.53 |
-| 10:00 | EUR | Low | Consumer Confidence (May) |  | -14.3 | -14.7 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (May) |  |  | 11.6 |
-| 10:00 | EUR | Low | Selling Price Expectations (May) |  |  | 5.4 |
-| 10:00 | EUR | Low | Services Sentiment (May) |  | 6.5 | 6.0 |
-| 10:00 | EUR | Low | Industrial Sentiment (May) |  | -9.4 | -10.5 |
-| 10:00 | EUR | Moderate | Unemployment Rate (Apr) |  | 6.5% | 6.5% |
+| 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.2% |
+| 54 min | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
+| 54 min | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -0.2% |
+| 54 min | EUR | Low | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
+| 54 min | EUR | Low | Business Climate (May) |  |  | -0.53 |
+| 54 min | EUR | Low | Consumer Confidence (May) |  | -14.3 | -14.7 |
+| 54 min | EUR | Low | Consumer Inflation Expectation (May) |  |  | 11.6 |
+| 54 min | EUR | Low | Selling Price Expectations (May) |  |  | 5.4 |
+| 54 min | EUR | Low | Services Sentiment (May) |  | 6.5 | 6.0 |
+| 54 min | EUR | Low | Industrial Sentiment (May) |  | -9.4 | -10.5 |
+| 54 min | EUR | Moderate | Unemployment Rate (Apr) |  | 6.5% | 6.5% |
 | 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.86% |
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.28% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 1.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) |  |  | 4.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) |  |  | 1.1% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | Spanish Business Confidence |  |  | -3.9 |
 | 13:00 | MXN | Low | Unemployment Rate (Apr) |  |  | 2.70% |
