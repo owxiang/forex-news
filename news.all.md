@@ -16,7 +16,7 @@
 | 02:30 | AUD | Low | Private House Approvals (Apr) | -1.6% |  | 3.8% |
 | 02:30 | AUD | Moderate | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.8% |
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
-| 30 min | JPY | Low | 2-Year JGB Auction |  |  | 0.303% |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.418% |  | 0.303% |
 | 07:00 | CHF | Low | Trade Balance (Apr) |  | 3.980B | 3.542B |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
 | 07:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 5.18% |
@@ -29,8 +29,8 @@
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) |  |  | -0.2% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (May) |  |  | -0.53 |
 | 10:00 | EUR | Low | Consumer Confidence (May) |  | -14.3 | -14.7 |
