@@ -7,11 +7,11 @@
 | 02:30 | AUD | Building Approvals (MoM) (Apr) | -0.3% | 1.8% | 2.7% |
 | 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.9% |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
-| 08:00 | CHF | KOF Leading Indicators (May) |  | 102.2 | 101.8 |
-| 08:00 | CHF | GDP (YoY) (Q1) |  | 0.6% | 0.6% |
-| 08:00 | CHF | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
-| 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.7% | 3.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
+| 53 min | CHF | KOF Leading Indicators (May) |  | 102.2 | 101.8 |
+| 53 min | CHF | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 53 min | CHF | GDP (YoY) (Q1) |  | 0.6% | 0.6% |
+| 53 min | EUR | Spanish CPI (YoY) (May) |  | 3.7% | 3.3% |
+| 53 min | EUR | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
 | 10:00 | EUR | Unemployment Rate (Apr) |  | 6.5% | 6.5% |
 | 10:10 | EUR | Italian 10-Year BTP Auction |  |  | 3.86% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |

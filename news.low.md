@@ -12,12 +12,12 @@
 | 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 3.3% |  | 0.4% |
 | 02:30 | AUD | Private House Approvals (Apr) | -1.6% |  | 4.0% |
 | 04:35 | JPY | 2-Year JGB Auction | 0.418% |  | 0.303% |
-| 55 min | CHF | Trade Balance (Apr) |  | 3.980B | 3.542B |
-| 55 min | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 55 min | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
-| 08:00 | EUR | Core CPI (YoY) |  |  | 2.9% |
-| 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
-| 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 07:00 | CHF | Trade Balance (Apr) | 4.316B | 3.980B | 3.767B |
+| 53 min | EUR | Core CPI (YoY) |  |  | 2.9% |
+| 53 min | EUR | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
+| 53 min | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 53 min | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
+| 53 min | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
 | 10:00 | EUR | Italian PPI (YoY) (Apr) |  |  | -9.6% |
 | 10:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -0.2% |
