@@ -1,29 +1,42 @@
-## 30 May 2024 - Moderate Impact Forex News
+## 31 May 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
-| 01:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
-| 02:30 | AUD | Building Approvals (MoM) (Apr) | -0.3% | 1.8% | 2.7% |
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.9% |
+| 24 min | JPY | Tokyo Core CPI (YoY) |  | 1.9% | 1.6% |
+| 44 min | JPY | Industrial Production (MoM) (Apr) |  | 1.5% | 4.4% |
+| 02:30 | CNY | Chinese Composite PMI (May) |  |  | 51.7 |
+| 02:30 | CNY | Non-Manufacturing PMI (May) |  | 51.5 | 51.2 |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
-| 08:00 | CHF | KOF Leading Indicators (May) | 100.3 | 102.2 | 101.9 |
-| 08:00 | CHF | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
-| 08:00 | CHF | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
-| 08:00 | EUR | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
-| 10:00 | EUR | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 10:35 | EUR | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,791K | 1,800K | 1,787K |
-| 13:30 | USD | Core PCE Prices (Q1) | 3.60% | 3.70% | 2.00% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q1) | 3.1% | 3.1% | 1.7% |
-| 13:30 | USD | Goods Trade Balance (Apr) | -99.41B | -91.90B | -92.29B |
-| 13:30 | USD | Retail Inventories Ex Auto (Apr) | 0.3% |  | -0.4% |
-| 13:30 | CAD | Current Account (Q1) | -5.4B | -5.5B | -4.5B |
-| 14:00 | ZAR | Interest Rate Decision (May) | 8.25% | 8.25% | 8.25% |
-| 15:00 | USD | Pending Home Sales (MoM) (Apr) | -7.7% | -1.1% | 3.6% |
-| 16:00 | USD | Cushing Crude Oil Inventories | -1.766M |  | 1.325M |
-| 17:05 | USD | FOMC Member Williams Speaks |  |  |  |
-| 19:50 | GBP | BoE Gov Bailey Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,284B |  | 7,300B |
+| 07:00 | GBP | Nationwide HPI (YoY) (May) |  |  | 0.6% |
+| 07:00 | GBP | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
+| 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
+| 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | 0.2% | 0.4% |
+| 07:45 | EUR | French CPI (MoM) (May) |  | 0.1% | 0.5% |
+| 07:45 | EUR | French GDP (YoY) |  | 1.1% | 0.7% |
+| 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) |  | 0.2% | 0.6% |
+| 08:30 | CHF | procure.ch PMI |  |  | 41.4 |
+| 10:00 | EUR | Core CPI (YoY) |  | 2.7% | 2.7% |
+| 10:00 | EUR | CPI (MoM) |  |  | 0.6% |
+| 13:00 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 8.4% |
+| 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
+| 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.3% |
+| 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
+| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
+| 13:30 | CAD | GDP (MoM) (Mar) |  | 0.0% | 0.2% |
+| 13:30 | CAD | GDP (QoQ) (Q1) |  |  | 0.2% |
+| 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 2.2% | 1.0% |
+| 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
+| 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 600 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 1.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 219.3K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 229.8K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 4.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -22.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -56.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -37.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -144.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 41.5K |
+| 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |

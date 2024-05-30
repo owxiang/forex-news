@@ -1,7 +1,9 @@
-## 30 May 2024 - High Impact Forex News
+## 31 May 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | GDP (QoQ) (Q1) | 1.3% | 1.6% | 3.4% |
-| 13:30 | USD | Initial Jobless Claims | 219K | 218K | 216K |
-| 16:00 | USD | Crude Oil Inventories | -4.156M | -1.600M | 1.825M |
+| 02:30 | CNY | Manufacturing PMI (May) |  | 50.5 | 50.4 |
+| 10:00 | EUR | CPI (YoY) (May) |  | 2.5% | 2.4% |
+| 13:30 | USD | Core PCE Price Index (YoY) (Apr) |  | 2.8% | 2.8% |
+| 13:30 | USD | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
+| 14:45 | USD | Chicago PMI (May) |  | 41.1 | 37.9 |
