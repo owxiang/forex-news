@@ -8,19 +8,19 @@
 | 02:00 | NZD | Net Debt Forecast (Jan) | 43.10% |  | 43.50% |
 | 02:00 | NZD | Economic Forecast (Jan) | -11.070B |  | -9.319B |
 | 02:30 | AUD | Building Approvals (YoY) (Apr) | 27.30% |  | -2.00% |
-| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | -0.9% |  | 1.5% |
-| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 3.3% |  | -0.1% |
-| 02:30 | AUD | Private House Approvals (Apr) | -1.6% |  | 3.8% |
+| 02:30 | AUD | Building Capital Expenditure (MoM) (Q1) | -0.9% |  | 1.3% |
+| 02:30 | AUD | Plant/Machinery Capital Expenditure (QoQ) (Q1) | 3.3% |  | 0.4% |
+| 02:30 | AUD | Private House Approvals (Apr) | -1.6% |  | 4.0% |
 | 04:35 | JPY | 2-Year JGB Auction | 0.418% |  | 0.303% |
-| 07:00 | CHF | Trade Balance (Apr) |  | 3.980B | 3.542B |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 07:00 | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
+| 55 min | CHF | Trade Balance (Apr) |  | 3.980B | 3.542B |
+| 55 min | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
+| 55 min | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
 | 08:00 | EUR | Core CPI (YoY) |  |  | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) |  | 7.3% | 7.2% |
-| 10:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -0.2% |
 | 10:00 | EUR | Italian PPI (YoY) (Apr) |  |  | -9.6% |
+| 10:00 | EUR | Italian PPI (MoM) (Apr) |  |  | -0.2% |
 | 10:00 | EUR | Business and Consumer Survey (May) |  | 96.2 | 95.6 |
 | 10:00 | EUR | Business Climate (May) |  |  | -0.53 |
 | 10:00 | EUR | Consumer Confidence (May) |  | -14.3 | -14.7 |
@@ -44,7 +44,7 @@
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Mar) |  |  | 4.53% |
 | 14:00 | ZAR | Prime Rate (May) |  |  | 11.75% |
 | 15:00 | USD | Pending Home Sales Index (Apr) |  |  | 78.2 |
-| 15:30 | USD | Natural Gas Storage |  |  | 78B |
+| 15:30 | USD | Natural Gas Storage |  | 77B | 78B |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.227M |
 | 16:00 | USD | Crude Oil Imports |  |  | -0.676M |
 | 16:00 | USD | Distillate Fuel Production |  |  | 0.260M |

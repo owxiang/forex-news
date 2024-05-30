@@ -5,11 +5,11 @@
 | 00:00 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 01:00 | CHF | SNB Board Member Jordan Speaks |  |  |  |
 | 02:30 | AUD | Building Approvals (MoM) (Apr) | -0.3% | 1.8% | 2.7% |
-| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.8% |
+| 02:30 | AUD | Private New Capital Expenditure (QoQ) (Q1) | 1.0% | 0.6% | 0.9% |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
-| 08:00 | CHF | KOF Leading Indicators (May) |  | 102.3 | 101.8 |
-| 08:00 | CHF | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 08:00 | CHF | KOF Leading Indicators (May) |  | 102.2 | 101.8 |
 | 08:00 | CHF | GDP (YoY) (Q1) |  | 0.6% | 0.6% |
+| 08:00 | CHF | GDP (QoQ) (Q1) |  | 0.3% | 0.3% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.7% | 3.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.7% | 3.4% |
 | 10:00 | EUR | Unemployment Rate (Apr) |  | 6.5% | 6.5% |
