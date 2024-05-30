@@ -22,10 +22,10 @@
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
+| 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
 | 10:35 | EUR | Moderate | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
 | 10:35 | EUR | Low | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -80,7 +80,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.275% |
 | 17:05 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 19:50 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,300B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
-| 54 min | USD | Low | Fed Logan Speaks |  |  |  |
-| 54 min | MXN | Low | Fiscal Balance (Apr) |  |  | 437.20B |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,284B |  | 7,300B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.391T |  | 3.375T |
+| 21:30 | MXN | Low | Fiscal Balance (Apr) | 102.95B |  | 437.20B |
+| 22:00 | USD | Low | Fed Logan Speaks |  |  |  |
