@@ -22,13 +22,13 @@
 | 08:00 | CHF | Moderate | GDP (QoQ) (Q1) | 0.5% | 0.3% | 0.3% |
 | 08:00 | CHF | Moderate | GDP (YoY) (Q1) | 0.6% | 0.6% | 0.5% |
 | 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 09:00 | EUR | Low | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
-| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Low | Business and Consumer Survey (May) | 96.0 | 96.2 | 95.6 |
 | 10:00 | EUR | Low | Business Climate (May) | -0.39 |  | -0.51 |
 | 10:00 | EUR | Low | Consumer Confidence (May) | -14.3 | -14.3 | -14.7 |
@@ -37,8 +37,8 @@
 | 10:00 | EUR | Low | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Low | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
 | 10:00 | EUR | Moderate | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:35 | EUR | Moderate | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
 | 10:35 | EUR | Low | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

@@ -17,8 +17,8 @@
 | 08:00 | EUR | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (Apr) | 6.9% | 7.3% | 7.1% |
-| 10:00 | EUR | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Italian PPI (MoM) (Apr) | -0.9% |  | -0.2% |
+| 10:00 | EUR | Italian PPI (YoY) (Apr) | -5.9% |  | -9.6% |
 | 10:00 | EUR | Business and Consumer Survey (May) | 96.0 | 96.2 | 95.6 |
 | 10:00 | EUR | Business Climate (May) | -0.39 |  | -0.51 |
 | 10:00 | EUR | Consumer Confidence (May) | -14.3 | -14.3 | -14.7 |
@@ -26,8 +26,8 @@
 | 10:00 | EUR | Selling Price Expectations (May) | 6.4 |  | 5.6 |
 | 10:00 | EUR | Services Sentiment (May) | 6.5 | 6.5 | 6.1 |
 | 10:00 | EUR | Industrial Sentiment (May) | -9.9 | -9.4 | -10.4 |
-| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:30 | ZAR | PPI (YoY) (Apr) | 5.1% |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Apr) | 0.5% |  | 1.1% |
 | 10:35 | EUR | Italian 5-Year BTP Auction | 3.54% |  | 3.28% |
 | 12:00 | EUR | Spanish Business Confidence | -6.3 |  | -4.3 |
 | 12:30 | ZAR | Budget Balance (MoM) (Apr) | -78.05B |  | 2.07B |
