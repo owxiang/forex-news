@@ -13,8 +13,8 @@
 | 08:00 | EUR | Spanish CPI (YoY) (May) | 3.6% | 3.7% | 3.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) | 3.8% | 3.7% | 3.4% |
 | 10:00 | EUR | Unemployment Rate (Apr) | 6.4% | 6.5% | 6.5% |
-| 4 min | EUR | Italian 10-Year BTP Auction |  |  | 3.86% |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:35 | EUR | Italian 10-Year BTP Auction | 3.97% |  | 3.86% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,800K | 1,794K |
 | 13:30 | USD | Core PCE Prices (Q1) |  | 3.70% | 2.00% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
