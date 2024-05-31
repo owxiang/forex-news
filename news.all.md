@@ -25,7 +25,7 @@
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (May) | 51.1 | 51.5 | 51.2 |
 | 03:00 | SGD | Low | Bank Lending | 804.3B |  | 807.8B |
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
-| 43 min | NZD | Low | M3 Money Supply (Apr) |  |  | 411.4B |
+| 04:00 | NZD | Low | M3 Money Supply (Apr) | 412,379.0B |  | 411.4B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | 31.4% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Apr) |  | -0.2% | -12.8% |
 | 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
@@ -40,8 +40,8 @@
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) |  | 0.2% | -0.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | 0.2% | 0.4% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.1% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) |  | 2.4% | 2.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.1% | 0.5% |
 | 07:45 | EUR | Moderate | French GDP (YoY) |  | 1.1% | 0.7% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
 | 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.2% | 0.6% |
@@ -50,8 +50,8 @@
 | 07:45 | EUR | Low | PPI (YoY) (Apr) |  |  | -7.50% |
 | 08:00 | CHF | Low | Official Reserves Assets (Apr) |  |  | 794.9B |
 | 08:30 | CHF | Moderate | procure.ch PMI |  |  | 41.4 |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) |  |  | 1.90B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) |  |  | 550.0M |
 | 09:00 | NOK | Low | Unemployment Change (May) |  |  | 71.22K |
@@ -87,15 +87,15 @@
 | 13:00 | ZAR | Low | Trade Balance (Apr) |  |  | 7.27B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) |  | 2.8% | 2.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Mar) |  | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) |  |  | 0.2% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) |  | 2.2% | 1.0% |
 | 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 38.17K |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) |  |  |  |

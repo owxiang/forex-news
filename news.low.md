@@ -19,7 +19,7 @@
 | 02:30 | AUD | Housing Credit (Apr) | 0.4% |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Apr) | 0.5% | 0.4% | 0.4% |
 | 03:00 | SGD | Bank Lending | 804.3B |  | 807.8B |
-| 43 min | NZD | M3 Money Supply (Apr) |  |  | 411.4B |
+| 04:00 | NZD | M3 Money Supply (Apr) | 412,379.0B |  | 411.4B |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | 31.4% |
 | 06:00 | JPY | Housing Starts (YoY) (Apr) |  | -0.2% | -12.8% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
@@ -35,8 +35,8 @@
 | 07:45 | EUR | French PPI (MoM) (Apr) |  |  | -0.2% |
 | 07:45 | EUR | PPI (YoY) (Apr) |  |  | -7.50% |
 | 08:00 | CHF | Official Reserves Assets (Apr) |  |  | 794.9B |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
 | 09:00 | EUR | Spanish Current account (Mar) |  |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) |  |  | 71.22K |

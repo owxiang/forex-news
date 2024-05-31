@@ -19,12 +19,12 @@
 | 10:00 | EUR | Core CPI (YoY) |  | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) |  |  | 0.6% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 8.4% |
-| 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
+| 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
-| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | GDP (MoM) (Mar) |  | 0.0% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q1) |  |  | 0.2% |
+| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 2.2% | 1.0% |
 | 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
