@@ -12,8 +12,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | 0.2% | 0.4% |
 | 07:45 | EUR | French CPI (MoM) (May) |  | 0.1% | 0.5% |
-| 07:45 | EUR | French GDP (YoY) |  | 1.1% | 0.7% |
 | 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
+| 07:45 | EUR | French GDP (YoY) |  | 1.1% | 0.7% |
 | 07:45 | EUR | French HICP (MoM) |  | 0.2% | 0.6% |
 | 08:30 | CHF | procure.ch PMI |  |  | 41.4 |
 | 10:00 | EUR | Core CPI (YoY) |  | 2.7% | 2.7% |
@@ -22,9 +22,9 @@
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
+| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | GDP (MoM) (Mar) |  | 0.0% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q1) |  |  | 0.2% |
-| 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) |  | 2.2% | 1.0% |
 | 13:31 | CAD | GDP (MoM) (Apr) |  |  |  |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
