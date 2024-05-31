@@ -31,34 +31,34 @@
 | 07:30 | CHF | Retail Sales (YoY) (Apr) | 2.7% | 0.2% | -0.2% |
 | 07:45 | EUR | French CPI (YoY) (May) | 2.2% | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) | 2.7% | 2.5% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Apr) | -2.8% |  | -1.0% |
-| 07:45 | EUR | PPI (YoY) (Apr) | -5.40% |  | -6.60% |
+| 07:45 | EUR | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
+| 07:45 | EUR | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 08:00 | CHF | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) | 74.26K |  | 71.22K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (May) | 1.90% | 1.90% | 2.00% |
-| 23 min | GBP | BoE Consumer Credit (Apr) |  | 1.500B | 1.577B |
-| 23 min | GBP | M3 Money Supply (Apr) |  |  | 3,038.8B |
-| 23 min | GBP | M4 Money Supply (MoM) (Apr) |  | 0.4% | 0.7% |
-| 23 min | GBP | Mortgage Approvals (Apr) |  | 61.50K | 61.33K |
-| 23 min | GBP | Mortgage Lending (Apr) |  | 0.45B | 0.26B |
-| 23 min | GBP | Net Lending to Individuals |  | 2.000B | 1.800B |
-| 23 min | HKD | M3 Money Supply (Apr) |  |  | -0.4% |
-| 23 min | HKD | Retail Sales (YoY) (Apr) |  |  | -7.0% |
-| 53 min | EUR | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
-| 53 min | EUR | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
-| 53 min | EUR | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 53 min | EUR | Italian HICP (YoY) (May) |  | 0.7% | 0.9% |
-| 53 min | EUR | Core CPI (MoM) |  |  | 0.7% |
-| 53 min | EUR | CPI, n.s.a (May) |  |  | 126.04 |
-| 53 min | EUR | HICP ex Energy & Food (YoY) (May) |  |  | 2.8% |
-| 53 min | EUR | HICP ex Energy and Food (MoM) |  |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 2.00% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.70% |
-| 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 09:30 | GBP | BoE Consumer Credit (Apr) | 0.730B | 1.500B | 1.422B |
+| 09:30 | GBP | M3 Money Supply (Apr) | 3,044.0B |  | 3,040.5B |
+| 09:30 | GBP | M4 Money Supply (MoM) (Apr) | 0.1% | 0.4% | 0.7% |
+| 09:30 | GBP | Mortgage Approvals (Apr) | 61.14K | 61.50K | 61.26K |
+| 09:30 | GBP | Mortgage Lending (Apr) | 2.41B | 0.45B | 0.46B |
+| 09:30 | GBP | Net Lending to Individuals | 3.100B | 2.000B | 1.800B |
+| 09:30 | HKD | M3 Money Supply (Apr) | 0.5% |  | -0.4% |
+| 09:30 | HKD | Retail Sales (YoY) (Apr) | -14.7% |  | -7.0% |
+| 10:00 | EUR | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
+| 10:00 | EUR | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
+| 10:00 | EUR | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
+| 10:00 | EUR | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 10:00 | EUR | Core CPI (MoM) | 0.4% |  | 0.7% |
+| 10:00 | EUR | CPI, n.s.a (May) | 126.32 |  | 126.04 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
+| 54 min | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.70% |
+| 54 min | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 2.00% |
+| 54 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.6% |
 | 12:30 | INR | Deposit Growth |  |  | 13.6% |
 | 12:30 | INR | FX Reserves, USD |  |  | 648.70B |
@@ -70,8 +70,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 38.17K |
 | 14:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 16:00 | CAD | Budget Balance (Mar) |  |  | 8.30B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.70B |
+| 16:00 | CAD | Budget Balance (Mar) |  |  | 8.30B |
 | 19:00 | BRL | Trade Balance |  |  | 9.04B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 71.7K |
