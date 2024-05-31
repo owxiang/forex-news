@@ -39,8 +39,8 @@
 | 07:00 | ZAR | Low | Private Sector Credit (Apr) | 3.90% |  | 5.18% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 2.7% | 0.2% | -0.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | -0.8% | 0.2% | 0.5% |
-| 07:45 | EUR | Low | French CPI (YoY) (May) | 2.2% | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.1% | 0.5% |
+| 07:45 | EUR | Low | French CPI (YoY) (May) | 2.2% | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French GDP (YoY) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.7% | 2.5% | 2.4% |
@@ -52,20 +52,20 @@
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
-| 09:00 | NOK | Low | Unemployment Change (May) | 74.26K |  | 71.22K |
+| 09:00 | NOK | Low | Unemployment Change (May) | 74.26K |  | 71.77K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (May) | 1.90% | 1.90% | 2.00% |
 | 09:30 | GBP | Low | BoE Consumer Credit (Apr) | 0.730B | 1.500B | 1.422B |
 | 09:30 | GBP | Low | M3 Money Supply (Apr) | 3,044.0B |  | 3,040.5B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Apr) | 0.1% | 0.4% | 0.7% |
 | 09:30 | GBP | Low | Mortgage Approvals (Apr) | 61.14K | 61.50K | 61.26K |
 | 09:30 | GBP | Low | Mortgage Lending (Apr) | 2.41B | 0.45B | 0.46B |
-| 09:30 | GBP | Low | Net Lending to Individuals | 3.100B | 2.000B | 1.800B |
+| 09:30 | GBP | Low | Net Lending to Individuals | 3.100B | 2.000B | 1.900B |
 | 09:30 | HKD | Low | M3 Money Supply (Apr) | 0.5% |  | -0.4% |
 | 09:30 | HKD | Low | Retail Sales (YoY) (Apr) | -14.7% |  | -7.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) | 2.9% | 2.7% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.5% | 2.4% |
@@ -75,29 +75,30 @@
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
 | 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 19.6% |
-| 24 min | INR | Low | Deposit Growth |  |  | 13.6% |
-| 24 min | INR | Low | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 648.70B |
-| 24 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 54 min | INR | Moderate | GDP Quarterly (YoY) (Q4) |  | 6.7% | 8.4% |
-| 54 min | INR | Low | Infrastructure Output (YoY) (Apr) |  |  | 5.2% |
-| 54 min | ZAR | Low | Trade Balance (Apr) |  |  | 7.27B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) |  | 2.8% | 2.8% |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  | 0.3% | 0.3% |
-| 13:30 | USD | Low | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
-| 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
-| 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) |  |  | 0.5% |
-| 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Mar) |  | 0.0% | 0.2% |
-| 13:30 | CAD | Moderate | GDP (QoQ) (Q1) |  |  | 0.2% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q1) |  |  | 0.93% |
-| 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) |  | 2.2% | 1.0% |
-| 13:30 | ZAR | Low | Total Vehicle Sales |  |  | 38.17K |
-| 13:31 | CAD | Moderate | GDP (MoM) (Apr) |  |  |  |
-| 14:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 11:00 | INR | Low | Federal Fiscal Deficit (Apr) | 16,536.70B |  | 15,013.65B |
+| 12:30 | INR | Low | Bank Loan Growth | 19.5% |  | 19.6% |
+| 12:30 | INR | Low | Deposit Growth | 13.3% |  | 13.6% |
+| 12:30 | INR | Low | FX Reserves, USD | 646.67B |  | 648.70B |
+| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 13:00 | INR | Low | GDP Annual | 8.2% |  | 7.0% |
+| 13:00 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.8% | 6.7% | 8.4% |
+| 13:00 | INR | Low | Infrastructure Output (YoY) (Apr) | 6.2% |  | 6.0% |
+| 13:00 | ZAR | Low | Trade Balance (Apr) | 10.47B |  | 7.27B |
+| 22 min | USD | High | Core PCE Price Index (YoY) (Apr) |  | 2.8% | 2.8% |
+| 22 min | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
+| 22 min | USD | Moderate | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
+| 22 min | USD | Moderate | PCE price index (MoM) (Apr) |  | 0.3% | 0.3% |
+| 22 min | USD | Low | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
+| 22 min | USD | Moderate | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
+| 22 min | USD | Low | Real Personal Consumption (MoM) (Apr) |  |  | 0.5% |
+| 22 min | CAD | Low | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
+| 22 min | CAD | Moderate | GDP (YoY) (Q1) |  |  | 0.93% |
+| 22 min | CAD | Moderate | GDP (MoM) (Mar) |  | 0.0% | 0.2% |
+| 22 min | CAD | Moderate | GDP (QoQ) (Q1) |  |  | 0.2% |
+| 22 min | CAD | Moderate | GDP Annualized (QoQ) (Q1) |  | 2.2% | 1.0% |
+| 22 min | ZAR | Low | Total Vehicle Sales |  |  | 38.17K |
+| 23 min | CAD | Moderate | GDP (MoM) (Apr) |  |  |  |
+| 52 min | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 14:45 | USD | High | Chicago PMI (May) |  | 41.1 | 37.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
 | 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 8.30B |
