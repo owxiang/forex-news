@@ -16,7 +16,7 @@
 | 07:45 | EUR | French GDP (QoQ) (Q1) | 0.2% | 0.2% | 0.1% |
 | 07:45 | EUR | French HICP (MoM) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Core CPI (YoY) | 2.9% | 2.7% | 2.7% |
-| 10:00 | EUR | CPI (MoM) | 0.2% |  | 0.6% |
+| 10:00 | EUR | CPI (MoM) | 0.2% | 0.2% | 0.6% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 8.4% |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  | 0.3% | 0.3% |
