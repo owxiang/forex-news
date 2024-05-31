@@ -72,14 +72,14 @@
 | 14:00 | USD | Dallas Fed PCE (Apr) | 2.70% |  | 3.30% |
 | 16:00 | CAD | Budget Balance (Mar) | -33.59B |  | 8.30B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) | -50.93B |  | -25.70B |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 71.7K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -41.8K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -90.1K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 59.6K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -45.0K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -12.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -90.8K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 117.9K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -40.6K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | -1.4K |
+| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 24 min | USD | CFTC Copper speculative net positions |  |  | 71.7K |
+| 24 min | USD | CFTC Corn speculative net positions |  |  | -41.8K |
+| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -90.1K |
+| 24 min | USD | CFTC Silver speculative net positions |  |  | 59.6K |
+| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -45.0K |
+| 24 min | USD | CFTC Wheat speculative net positions |  |  | -12.5K |
+| 24 min | CAD | CFTC CAD speculative net positions |  |  | -90.8K |
+| 24 min | MXN | CFTC MXN speculative net positions |  |  | 117.9K |
+| 24 min | CHF | CFTC CHF speculative net positions |  |  | -40.6K |
+| 24 min | NZD | CFTC NZD speculative net positions |  |  | -1.4K |
