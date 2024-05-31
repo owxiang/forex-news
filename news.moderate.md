@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Tokyo Core CPI (YoY) |  | 1.9% | 1.6% |
-| 44 min | JPY | Industrial Production (MoM) (Apr) |  | 1.5% | 4.4% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) | 1.9% | 1.9% | 1.6% |
+| 00:50 | JPY | Industrial Production (MoM) (Apr) | -0.1% | 1.5% | 4.4% |
 | 02:30 | CNY | Chinese Composite PMI (May) |  |  | 51.7 |
 | 02:30 | CNY | Non-Manufacturing PMI (May) |  | 51.5 | 51.2 |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
