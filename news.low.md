@@ -34,8 +34,8 @@
 | 07:45 | EUR | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 07:45 | EUR | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
 | 08:00 | CHF | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) | 74.26K |  | 71.22K |
@@ -56,15 +56,15 @@
 | 10:00 | EUR | CPI, n.s.a (May) | 126.32 |  | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
-| 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
-| 12:30 | INR | Bank Loan Growth |  |  | 19.6% |
-| 12:30 | INR | Deposit Growth |  |  | 13.6% |
-| 12:30 | INR | FX Reserves, USD |  |  | 648.70B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 13:00 | INR | Infrastructure Output (YoY) (Apr) |  |  | 5.2% |
-| 13:00 | ZAR | Trade Balance (Apr) |  |  | 7.27B |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
+| 24 min | INR | Bank Loan Growth |  |  | 19.6% |
+| 24 min | INR | Deposit Growth |  |  | 13.6% |
+| 24 min | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
+| 24 min | INR | FX Reserves, USD |  |  | 648.70B |
+| 24 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 54 min | INR | Infrastructure Output (YoY) (Apr) |  |  | 5.2% |
+| 54 min | ZAR | Trade Balance (Apr) |  |  | 7.27B |
 | 13:30 | USD | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Apr) |  |  | 0.5% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
