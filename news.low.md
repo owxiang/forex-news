@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
 | 00:00 | KRW | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
+| 00:00 | KRW | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -1.2% |  | 1.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | 0.3% |  | -1.1% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 1.2% |  | 1.4% |
@@ -31,11 +31,11 @@
 | 07:30 | CHF | Retail Sales (YoY) (Apr) | 2.7% | 0.2% | -0.2% |
 | 07:45 | EUR | French CPI (YoY) (May) | 2.2% | 2.4% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) | 2.7% | 2.5% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 07:45 | EUR | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
+| 07:45 | EUR | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 08:00 | CHF | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) | 74.26K |  | 71.77K |
@@ -56,9 +56,9 @@
 | 10:00 | EUR | CPI, n.s.a (May) | 126.32 |  | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
-| 11:00 | INR | Federal Fiscal Deficit (Apr) | 16,536.70B |  | 15,013.65B |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
+| 11:00 | INR | Federal Fiscal Deficit (Apr) | 2,101.36B |  | 15,013.65B |
 | 12:30 | INR | Bank Loan Growth | 19.5% |  | 19.6% |
 | 12:30 | INR | Deposit Growth | 13.3% |  | 13.6% |
 | 12:30 | INR | FX Reserves, USD | 646.67B |  | 648.70B |
@@ -66,14 +66,13 @@
 | 13:00 | INR | GDP Annual | 8.2% |  | 7.0% |
 | 13:00 | INR | Infrastructure Output (YoY) (Apr) | 6.2% |  | 6.0% |
 | 13:00 | ZAR | Trade Balance (Apr) | 10.47B |  | 7.27B |
-| 22 min | USD | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
-| 22 min | USD | Real Personal Consumption (MoM) (Apr) |  |  | 0.5% |
-| 22 min | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
-| 22 min | ZAR | Total Vehicle Sales |  |  | 38.17K |
-| 52 min | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 13:30 | USD | Personal Income (MoM) (Apr) | 0.3% | 0.3% | 0.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Apr) | -0.1% |  | 0.4% |
+| 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | -0.30% |  | 1.50% |
+| 54 min | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 54 min | ZAR | Total Vehicle Sales |  |  | 38.17K |
 | 16:00 | CAD | Budget Balance (Mar) |  |  | 8.30B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.70B |
-| 19:00 | BRL | Trade Balance |  |  | 9.04B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 71.7K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -41.8K |
