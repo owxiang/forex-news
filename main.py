@@ -104,12 +104,13 @@ def scrape_forex_events():
         message_low_events = f"No Forex low impact news on {formatted_date}.\n\n"
     else:
         message_low_events = f"Forex **Low** Impact News Alert on {formatted_date} (GMT)\n\n{low_events}"
-        
-    current_hour = datetime.now().hour
-    if current_hour == 1: # GMT+0
-        send_telegram(message_high_events)
-        send_telegram(message_moderate_events)
-        send_telegram(message_low_events)
+    
+    ## Code related to sending the messages is commented out.
+    # current_hour = datetime.now().hour
+    # if current_hour == 1: # GMT+0
+    #     # send_telegram(message_high_events)
+    #     # send_telegram(message_moderate_events)
+    #     # send_telegram(message_low_events)
 
     # Close the WebDriver
     driver.quit()
@@ -130,7 +131,7 @@ def send_telegram(message):
     response = requests.get(telegram_url, params=params)
     if response.status_code == 200:
         print("Telegram message sent successfully!")
-        # Code related to pinning the message is commented out.
+        ## Code related to pinning the message is commented out.
         # message_id = response.json()["result"]["message_id"]
         # pin_params = {
         #     "chat_id": chat_id,
@@ -176,6 +177,5 @@ def write_to_readme(table_for_all_readme, table_for_high_readme, table_for_moder
         
         with open(filename, 'w') as file:
             file.write(content)
-
 
 scrape_forex_events()
