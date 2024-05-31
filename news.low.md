@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
 | 00:00 | KRW | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
+| 00:00 | KRW | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -1.2% |  | 1.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | 0.3% |  | -1.1% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 1.2% |  | 1.4% |
@@ -22,19 +22,19 @@
 | 04:00 | NZD | M3 Money Supply (Apr) | 412.4B |  | 411.4B |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) | 26.4% |  | 31.4% |
 | 06:00 | JPY | Housing Starts (YoY) (Apr) | 13.9% | -0.2% | -12.8% |
-| 24 min | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 54 min | EUR | German Import Price Index (MoM) (Apr) |  | 0.5% | 0.4% |
-| 54 min | EUR | German Import Price Index (YoY) (Apr) |  | -1.8% | -3.6% |
-| 54 min | EUR | German Retail Sales (YoY) (Apr) |  |  | 0.3% |
-| 54 min | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 54 min | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
-| 07:30 | CHF | Retail Sales (YoY) (Apr) |  | 0.2% | -0.1% |
-| 07:30 | AUD | Commodity Prices (YoY) |  |  | -11.6% |
-| 07:45 | EUR | French CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 07:45 | EUR | French HICP (YoY) |  | 2.5% | 2.4% |
-| 07:45 | EUR | French PPI (MoM) (Apr) |  |  | -0.2% |
-| 07:45 | EUR | PPI (YoY) (Apr) |  |  | -7.50% |
-| 08:00 | CHF | Official Reserves Assets (Apr) |  |  | 794.9B |
+| 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q1) | 0.3% | 0.2% | 0.2% |
+| 07:00 | EUR | German Import Price Index (MoM) (Apr) | 0.7% | 0.5% | 0.4% |
+| 07:00 | EUR | German Import Price Index (YoY) (Apr) | -1.7% | -1.8% | -3.6% |
+| 07:00 | EUR | German Retail Sales (YoY) (Apr) | -0.6% |  | -1.9% |
+| 07:00 | ZAR | M3 Money Supply (YoY) (Apr) | 5.75% |  | 6.85% |
+| 07:00 | ZAR | Private Sector Credit (Apr) | 3.90% |  | 5.18% |
+| 23 min | CHF | Retail Sales (YoY) (Apr) |  | 0.2% | -0.1% |
+| 23 min | AUD | Commodity Prices (YoY) |  |  | -11.6% |
+| 38 min | EUR | French CPI (YoY) (May) |  | 2.4% | 2.2% |
+| 38 min | EUR | French HICP (YoY) |  | 2.5% | 2.4% |
+| 38 min | EUR | French PPI (MoM) (Apr) |  |  | -0.2% |
+| 38 min | EUR | PPI (YoY) (Apr) |  |  | -7.50% |
+| 53 min | CHF | Official Reserves Assets (Apr) |  |  | 794.9B |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Spanish Current account (Mar) |  |  | 1.90B |
@@ -51,14 +51,14 @@
 | 09:30 | HKD | Retail Sales (YoY) (Apr) |  |  | -7.0% |
 | 10:00 | EUR | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (May) |  | 0.7% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
+| 10:00 | EUR | Italian HICP (YoY) (May) |  | 0.7% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) |  |  | 0.7% |
 | 10:00 | EUR | CPI, n.s.a (May) |  |  | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.70% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 2.00% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.70% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.6% |
 | 12:30 | INR | Deposit Growth |  |  | 13.6% |
@@ -71,8 +71,8 @@
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) |  |  | 1.40% |
 | 13:30 | ZAR | Total Vehicle Sales |  |  | 38.17K |
 | 14:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.70B |
 | 16:00 | CAD | Budget Balance (Mar) |  |  | 8.30B |
+| 16:00 | CAD | Budget Balance (YoY) (Mar) |  |  | -25.70B |
 | 19:00 | BRL | Trade Balance |  |  | 9.04B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 71.7K |
