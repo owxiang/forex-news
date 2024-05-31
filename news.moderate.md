@@ -38,4 +38,4 @@
 | 20:30 | BRL | CFTC BRL speculative net positions | -36.6K |  | -37.7K |
 | 20:30 | JPY | CFTC JPY speculative net positions | -156.0K |  | -144.4K |
 | 20:30 | EUR | CFTC EUR speculative net positions | 57.6K |  | 41.5K |
-| 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 10 min | USD | FOMC Member Bostic Speaks |  |  |  |
