@@ -12,8 +12,8 @@
 | 07:00 | EUR | German Retail Sales (MoM) (Apr) | -1.2% | -0.2% | 2.6% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Apr) | -0.8% | 0.2% | 0.5% |
 | 07:45 | EUR | French CPI (MoM) (May) | 0.0% | 0.1% | 0.5% |
-| 07:45 | EUR | French GDP (YoY) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | French GDP (QoQ) (Q1) | 0.2% | 0.2% | 0.1% |
+| 07:45 | EUR | French GDP (YoY) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | French HICP (MoM) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Core CPI (YoY) | 2.9% | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) | 0.2% | 0.2% | 0.6% |
@@ -21,12 +21,12 @@
 | 13:30 | USD | PCE Price index (YoY) (Apr) | 2.7% | 2.7% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (Apr) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) | 0.2% | 0.3% | 0.7% |
+| 13:30 | CAD | GDP (YoY) (Q1) | 0.53% |  | 0.97% |
 | 13:30 | CAD | GDP (MoM) (Mar) | 0.0% | 0.0% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q1) | 0.4% |  | 0.0% |
-| 13:30 | CAD | GDP (YoY) (Q1) | 0.53% |  | 0.97% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) | 1.7% | 2.2% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (Apr) | 0.3% |  | 0.0% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 24 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 600 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 1.1K |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Apr) | -1.2% |  | 1.1% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Apr) | 0.3% |  | -1.1% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) | 1.2% |  | 1.4% |
@@ -33,20 +33,20 @@
 | 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) | 0.4% | 0.1% | -0.4% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) | 0.7% | 0.5% | 0.4% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) | -1.7% | -1.8% | -3.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -1.2% | -0.2% | 2.6% |
 | 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) | -0.6% |  | -1.9% |
+| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) | -1.2% | -0.2% | 2.6% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) | 5.75% |  | 6.85% |
 | 07:00 | ZAR | Low | Private Sector Credit (Apr) | 3.90% |  | 5.18% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) | 2.7% | 0.2% | -0.2% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) | -0.8% | 0.2% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) (May) | 2.2% | 2.4% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.1% | 0.5% |
-| 07:45 | EUR | Moderate | French GDP (YoY) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.2% | 0.2% | 0.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) | 0.2% | 0.2% | 0.6% |
+| 07:45 | EUR | Moderate | French GDP (YoY) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.7% | 2.5% | 2.4% |
-| 07:45 | EUR | Low | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
+| 07:45 | EUR | Moderate | French HICP (MoM) | 0.2% | 0.2% | 0.6% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
+| 07:45 | EUR | Low | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
 | 08:00 | CHF | Low | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
@@ -64,8 +64,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Apr) | -14.7% |  | -7.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) | 2.9% | 2.7% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.5% | 2.4% |
@@ -73,8 +73,8 @@
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 126.32 |  | 126.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Apr) | 2,101.36B |  | 15,013.65B |
 | 12:30 | INR | Low | Bank Loan Growth | 19.5% |  | 19.6% |
 | 12:30 | INR | Low | Deposit Growth | 13.3% |  | 13.6% |
@@ -84,25 +84,23 @@
 | 13:00 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.8% | 6.7% | 8.4% |
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Apr) | 6.2% |  | 6.0% |
 | 13:00 | ZAR | Low | Trade Balance (Apr) | 10.47B |  | 7.27B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) | 2.7% | 2.7% | 2.7% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Apr) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Apr) | 0.3% | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) | 0.2% | 0.3% | 0.7% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) | -0.1% |  | 0.4% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) | -0.30% |  | 1.50% |
+| 13:30 | CAD | Moderate | GDP (YoY) (Q1) | 0.53% |  | 0.97% |
 | 13:30 | CAD | Moderate | GDP (MoM) (Mar) | 0.0% | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) | 0.4% |  | 0.0% |
-| 13:30 | CAD | Moderate | GDP (YoY) (Q1) | 0.53% |  | 0.97% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) | 1.7% | 2.2% | 0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) | 0.3% |  | 0.0% |
-| 39 min | USD | High | Chicago PMI (May) |  | 41.1 | 37.9 |
-| 54 min | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 54 min | ZAR | Low | Total Vehicle Sales |  |  | 38.17K |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
-| 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 8.30B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -25.70B |
+| 14:45 | USD | High | Chicago PMI (May) | 35.4 | 41.1 | 37.9 |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
+| 54 min | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -25.70B |
+| 54 min | CAD | Low | Budget Balance (Mar) |  |  | 8.30B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 600 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 1.1K |
