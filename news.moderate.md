@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) | 1.9% | 1.9% | 1.6% |
 | 00:50 | JPY | Industrial Production (MoM) (Apr) | -0.1% | 1.5% | 4.4% |
-| 02:30 | CNY | Chinese Composite PMI (May) |  |  | 51.7 |
+| 02:30 | CNY | Chinese Composite PMI (May) | 51.0 |  | 51.7 |
 | 02:30 | CNY | Non-Manufacturing PMI (May) | 51.1 | 51.5 | 51.2 |
-| 29 min | NZD | Annual Budget Release |  |  |  |
+| 03:00 | NZD | Annual Budget Release |  |  |  |
 | 07:00 | GBP | Nationwide HPI (YoY) (May) |  |  | 0.6% |
 | 07:00 | GBP | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
 | 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
@@ -19,8 +19,8 @@
 | 10:00 | EUR | Core CPI (YoY) |  | 2.7% | 2.7% |
 | 10:00 | EUR | CPI (MoM) |  |  | 0.6% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 8.4% |
-| 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
 | 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | GDP (MoM) (Mar) |  | 0.0% | 0.2% |

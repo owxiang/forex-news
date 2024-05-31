@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
 | 00:00 | KRW | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
+| 00:00 | KRW | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -1.2% |  | 1.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | 0.3% |  | -1.1% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 1.2% |  | 1.4% |
@@ -17,9 +17,9 @@
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (Apr) | 3.0% |  | 7.0% |
 | 00:50 | JPY | Retail Sales (YoY) (Apr) | 2.4% | 1.8% | 1.1% |
 | 02:30 | AUD | Housing Credit (Apr) | 0.4% |  | 0.4% |
-| 02:30 | AUD | Private Sector Credit (MoM) (Apr) | 0.5% | 0.4% | 0.3% |
-| 29 min | SGD | Bank Lending |  |  | 807.8B |
-| 04:00 | NZD | M3 Money Supply (Apr) |  |  | 411.4B |
+| 02:30 | AUD | Private Sector Credit (MoM) (Apr) | 0.5% | 0.4% | 0.4% |
+| 03:00 | SGD | Bank Lending | 804.3B |  | 807.8B |
+| 43 min | NZD | M3 Money Supply (Apr) |  |  | 411.4B |
 | 06:00 | JPY | Construction Orders (YoY) (Apr) |  |  | 31.4% |
 | 06:00 | JPY | Housing Starts (YoY) (Apr) |  | -0.2% | -12.8% |
 | 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
@@ -57,8 +57,8 @@
 | 10:00 | EUR | CPI, n.s.a (May) |  |  | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) |  |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.70% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) |  |  | 2.00% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) |  |  | -1.70% |
 | 11:00 | INR | Federal Fiscal Deficit (Mar) |  |  | 15,013.65B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.6% |
 | 12:30 | INR | Deposit Growth |  |  | 13.6% |
