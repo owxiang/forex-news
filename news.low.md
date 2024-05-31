@@ -34,8 +34,8 @@
 | 07:45 | EUR | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 07:45 | EUR | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
 | 08:00 | CHF | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
 | 09:00 | EUR | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) | 74.26K |  | 71.77K |
@@ -50,14 +50,14 @@
 | 09:30 | HKD | Retail Sales (YoY) (Apr) | -14.7% |  | -7.0% |
 | 10:00 | EUR | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
-| 10:00 | EUR | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
 | 10:00 | EUR | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 10:00 | EUR | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
 | 10:00 | EUR | Core CPI (MoM) | 0.4% |  | 0.7% |
 | 10:00 | EUR | CPI, n.s.a (May) | 126.32 |  | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
 | 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
+| 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
 | 11:00 | INR | Federal Fiscal Deficit (Apr) | 2,101.36B |  | 15,013.65B |
 | 12:30 | INR | Bank Loan Growth | 19.5% |  | 19.6% |
 | 12:30 | INR | Deposit Growth | 13.3% |  | 13.6% |
@@ -69,6 +69,7 @@
 | 13:30 | USD | Personal Income (MoM) (Apr) | 0.3% | 0.3% | 0.5% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Apr) | -0.1% |  | 0.4% |
 | 13:30 | CAD | GDP Implicit Price (QoQ) (Q1) | -0.30% |  | 1.50% |
+| 14:00 | USD | Dallas Fed PCE (Apr) | 2.70% |  | 3.30% |
 | 16:00 | CAD | Budget Balance (Mar) | -33.59B |  | 8.30B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) | -50.93B |  | -25.70B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
