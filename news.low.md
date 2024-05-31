@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
 | 00:00 | KRW | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
+| 00:00 | KRW | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
 | 00:00 | KRW | Retail Sales (MoM) (Apr) | -1.2% |  | 1.1% |
 | 00:00 | KRW | Service Sector Output (MoM) (Apr) | 0.3% |  | -1.1% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (May) | 1.2% |  | 1.4% |
@@ -19,15 +19,15 @@
 | 02:30 | AUD | Housing Credit (Apr) | 0.4% |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (Apr) | 0.5% | 0.4% | 0.4% |
 | 03:00 | SGD | Bank Lending | 804.3B |  | 807.8B |
-| 04:00 | NZD | M3 Money Supply (Apr) | 412,379.0B |  | 411.4B |
-| 54 min | JPY | Construction Orders (YoY) (Apr) |  |  | 31.4% |
-| 54 min | JPY | Housing Starts (YoY) (Apr) |  | -0.2% | -12.8% |
-| 06:30 | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 07:00 | EUR | German Import Price Index (MoM) (Apr) |  | 0.5% | 0.4% |
-| 07:00 | EUR | German Import Price Index (YoY) (Apr) |  | -1.8% | -3.6% |
-| 07:00 | EUR | German Retail Sales (YoY) (Apr) |  |  | 0.3% |
-| 07:00 | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 07:00 | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
+| 04:00 | NZD | M3 Money Supply (Apr) | 412.4B |  | 411.4B |
+| 06:00 | JPY | Construction Orders (YoY) (Apr) | 26.4% |  | 31.4% |
+| 06:00 | JPY | Housing Starts (YoY) (Apr) | 13.9% | -0.2% | -12.8% |
+| 24 min | EUR | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 54 min | EUR | German Import Price Index (MoM) (Apr) |  | 0.5% | 0.4% |
+| 54 min | EUR | German Import Price Index (YoY) (Apr) |  | -1.8% | -3.6% |
+| 54 min | EUR | German Retail Sales (YoY) (Apr) |  |  | 0.3% |
+| 54 min | ZAR | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
+| 54 min | ZAR | Private Sector Credit (Apr) |  |  | 5.18% |
 | 07:30 | CHF | Retail Sales (YoY) (Apr) |  | 0.2% | -0.1% |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | French CPI (YoY) (May) |  | 2.4% | 2.2% |
@@ -35,8 +35,8 @@
 | 07:45 | EUR | French PPI (MoM) (Apr) |  |  | -0.2% |
 | 07:45 | EUR | PPI (YoY) (Apr) |  |  | -7.50% |
 | 08:00 | CHF | Official Reserves Assets (Apr) |  |  | 794.9B |
-| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
+| 09:00 | EUR | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Spanish Current account (Mar) |  |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) |  |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) |  |  | 71.22K |

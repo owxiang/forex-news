@@ -7,9 +7,9 @@
 | 02:30 | CNY | Chinese Composite PMI (May) | 51.0 |  | 51.7 |
 | 02:30 | CNY | Non-Manufacturing PMI (May) | 51.1 | 51.5 | 51.2 |
 | 03:00 | NZD | Annual Budget Release |  |  |  |
-| 07:00 | GBP | Nationwide HPI (YoY) (May) |  |  | 0.6% |
-| 07:00 | GBP | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
-| 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
+| 54 min | GBP | Nationwide HPI (YoY) (May) |  |  | 0.6% |
+| 54 min | GBP | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
+| 54 min | EUR | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
 | 07:45 | EUR | French Consumer Spending (MoM) (Apr) |  | 0.2% | 0.4% |
 | 07:45 | EUR | French CPI (MoM) (May) |  | 0.1% | 0.5% |
 | 07:45 | EUR | French GDP (QoQ) (Q1) |  | 0.2% | 0.1% |
@@ -20,7 +20,7 @@
 | 10:00 | EUR | CPI (MoM) |  |  | 0.6% |
 | 13:00 | INR | GDP Quarterly (YoY) (Q4) |  | 6.7% | 8.4% |
 | 13:30 | USD | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
-| 13:30 | USD | PCE price index (MoM) (Apr) |  |  | 0.3% |
+| 13:30 | USD | PCE price index (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
 | 13:30 | CAD | GDP (YoY) (Q1) |  |  | 0.93% |
 | 13:30 | CAD | GDP (MoM) (Mar) |  | 0.0% | 0.2% |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (Apr) | 2.2% |  | -3.0% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (Apr) | 6.1% |  | 1.0% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (Apr) | -1.2% |  | 1.1% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (Apr) | 0.3% |  | -1.1% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (May) | 1.2% |  | 1.4% |
@@ -25,18 +25,18 @@
 | 02:30 | CNY | Moderate | Non-Manufacturing PMI (May) | 51.1 | 51.5 | 51.2 |
 | 03:00 | SGD | Low | Bank Lending | 804.3B |  | 807.8B |
 | 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
-| 04:00 | NZD | Low | M3 Money Supply (Apr) | 412,379.0B |  | 411.4B |
-| 54 min | JPY | Low | Construction Orders (YoY) (Apr) |  |  | 31.4% |
-| 54 min | JPY | Low | Housing Starts (YoY) (Apr) |  | -0.2% | -12.8% |
-| 06:30 | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 07:00 | GBP | Moderate | Nationwide HPI (YoY) (May) |  |  | 0.6% |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
-| 07:00 | EUR | Low | German Import Price Index (MoM) (Apr) |  | 0.5% | 0.4% |
-| 07:00 | EUR | Low | German Import Price Index (YoY) (Apr) |  | -1.8% | -3.6% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (Apr) |  |  | 0.3% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
-| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
-| 07:00 | ZAR | Low | Private Sector Credit (Apr) |  |  | 5.18% |
+| 04:00 | NZD | Low | M3 Money Supply (Apr) | 412.4B |  | 411.4B |
+| 06:00 | JPY | Low | Construction Orders (YoY) (Apr) | 26.4% |  | 31.4% |
+| 06:00 | JPY | Low | Housing Starts (YoY) (Apr) | 13.9% | -0.2% | -12.8% |
+| 24 min | EUR | Low | French Non-Farm Payrolls (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 54 min | GBP | Moderate | Nationwide HPI (YoY) (May) |  |  | 0.6% |
+| 54 min | GBP | Moderate | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
+| 54 min | EUR | Low | German Import Price Index (MoM) (Apr) |  | 0.5% | 0.4% |
+| 54 min | EUR | Low | German Import Price Index (YoY) (Apr) |  | -1.8% | -3.6% |
+| 54 min | EUR | Low | German Retail Sales (YoY) (Apr) |  |  | 0.3% |
+| 54 min | EUR | Moderate | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
+| 54 min | ZAR | Low | M3 Money Supply (YoY) (Apr) |  |  | 6.85% |
+| 54 min | ZAR | Low | Private Sector Credit (Apr) |  |  | 5.18% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (Apr) |  | 0.2% | -0.1% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (Apr) |  | 0.2% | 0.4% |
@@ -50,8 +50,8 @@
 | 07:45 | EUR | Low | PPI (YoY) (Apr) |  |  | -7.50% |
 | 08:00 | CHF | Low | Official Reserves Assets (Apr) |  |  | 794.9B |
 | 08:30 | CHF | Moderate | procure.ch PMI |  |  | 41.4 |
-| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Low | Italian GDP (YoY) (Q1) |  | 0.6% | 0.6% |
+| 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) |  | 0.3% | 0.2% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) |  |  | 1.90B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) |  |  | 550.0M |
 | 09:00 | NOK | Low | Unemployment Change (May) |  |  | 71.22K |
@@ -68,8 +68,8 @@
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 0.7% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) |  | 2.7% | 2.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) |  |  | 0.7% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) |  | 2.7% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (May) |  | 2.5% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) |  |  | 126.04 |
@@ -88,7 +88,7 @@
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) |  | 2.8% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) |  | 2.7% | 2.7% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  |  | 0.3% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Apr) |  | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) |  | 0.3% | 0.8% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) |  |  | 0.5% |
