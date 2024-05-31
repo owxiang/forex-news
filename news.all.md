@@ -43,13 +43,13 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.1% | 0.5% |
 | 07:45 | EUR | Moderate | French GDP (YoY) | 1.1% | 1.1% | 0.7% |
 | 07:45 | EUR | Moderate | French GDP (QoQ) (Q1) | 0.2% | 0.2% | 0.1% |
-| 07:45 | EUR | Moderate | French HICP (MoM) | 0.2% | 0.2% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) | 2.7% | 2.5% | 2.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) | 0.2% | 0.2% | 0.6% |
 | 07:45 | EUR | Low | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 07:45 | EUR | Low | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
 | 08:00 | CHF | Low | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
-| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
+| 09:00 | EUR | Low | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Low | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
 | 09:00 | NOK | Low | Unemployment Change (May) | 74.26K |  | 71.77K |
@@ -68,13 +68,13 @@
 | 10:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.7% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) | 0.4% |  | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) | 2.9% | 2.7% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.5% | 2.4% |
+| 10:00 | EUR | Moderate | CPI (MoM) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 126.32 |  | 126.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
-| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | EUR | Low | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
+| 11:00 | EUR | Low | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | INR | Low | Federal Fiscal Deficit (Apr) | 2,101.36B |  | 15,013.65B |
 | 12:30 | INR | Low | Bank Loan Growth | 19.5% |  | 19.6% |
 | 12:30 | INR | Low | Deposit Growth | 13.3% |  | 13.6% |
@@ -84,17 +84,17 @@
 | 13:00 | INR | Moderate | GDP Quarterly (YoY) (Q4) | 7.8% | 6.7% | 8.4% |
 | 13:00 | INR | Low | Infrastructure Output (YoY) (Apr) | 6.2% |  | 6.0% |
 | 13:00 | ZAR | Low | Trade Balance (Apr) | 10.47B |  | 7.27B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Apr) | 2.8% | 2.8% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Apr) | 2.7% | 2.7% | 2.7% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Apr) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (Apr) | 0.3% | 0.3% | 0.5% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Apr) | 0.2% | 0.3% | 0.7% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Apr) | -0.1% |  | 0.4% |
 | 13:30 | CAD | Low | GDP Implicit Price (QoQ) (Q1) | -0.30% |  | 1.50% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Mar) | 0.0% | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | GDP (QoQ) (Q1) | 0.4% |  | 0.0% |
 | 13:30 | CAD | Moderate | GDP (YoY) (Q1) | 0.53% |  | 0.97% |
-| 13:30 | CAD | Moderate | GDP (MoM) (Mar) | 0.0% | 0.0% | 0.2% |
 | 13:30 | CAD | Moderate | GDP Annualized (QoQ) (Q1) | 1.7% | 2.2% | 0.1% |
 | 13:31 | CAD | Moderate | GDP (MoM) (Apr) | 0.3% |  | 0.0% |
 | 14:00 | USD | Low | Dallas Fed PCE (Apr) | 2.70% |  | 3.30% |
@@ -104,24 +104,24 @@
 | 16:00 | CAD | Low | Budget Balance (YoY) (Mar) | -50.93B |  | -25.70B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 496 |  | 497 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 600 |  | 600 |
-| 24 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 1.1K |
-| 24 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 24 min | USD | Low | CFTC Copper speculative net positions |  |  | 71.7K |
-| 24 min | USD | Low | CFTC Corn speculative net positions |  |  | -41.8K |
-| 24 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 219.3K |
-| 24 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 229.8K |
-| 24 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 4.7K |
-| 24 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -90.1K |
-| 24 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -22.8K |
-| 24 min | USD | Low | CFTC Silver speculative net positions |  |  | 59.6K |
-| 24 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -45.0K |
-| 24 min | USD | Low | CFTC Wheat speculative net positions |  |  | -12.5K |
-| 24 min | CAD | Low | CFTC CAD speculative net positions |  |  | -90.8K |
-| 24 min | MXN | Low | CFTC MXN speculative net positions |  |  | 117.9K |
-| 24 min | CHF | Low | CFTC CHF speculative net positions |  |  | -40.6K |
-| 24 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -56.2K |
-| 24 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | -37.7K |
-| 24 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | -144.4K |
-| 24 min | NZD | Low | CFTC NZD speculative net positions |  |  | -1.4K |
-| 24 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | 41.5K |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 25.4K |  | 1.1K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 1.1K |  | 1.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions | 65.5K |  | 71.7K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions | -51.6K |  | -41.8K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 243.9K |  | 219.3K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 236.6K |  | 229.8K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | -3.7K |  | 4.7K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -75.4K |  | -90.1K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -2.2K |  | -22.8K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions | 57.2K |  | 59.6K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -25.9K |  | -45.0K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions | -14.4K |  | -12.5K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions | -86.6K |  | -90.8K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions | 120.9K |  | 117.9K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions | -44.4K |  | -40.6K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -49.9K |  | -56.2K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -36.6K |  | -37.7K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -156.0K |  | -144.4K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions | 2.0K |  | -1.4K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | 57.6K |  | 41.5K |
 | 23:15 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |

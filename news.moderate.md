@@ -21,21 +21,21 @@
 | 13:30 | USD | PCE Price index (YoY) (Apr) | 2.7% | 2.7% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (Apr) | 0.3% | 0.3% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (Apr) | 0.2% | 0.3% | 0.7% |
+| 13:30 | CAD | GDP (MoM) (Mar) | 0.0% | 0.0% | 0.2% |
 | 13:30 | CAD | GDP (QoQ) (Q1) | 0.4% |  | 0.0% |
 | 13:30 | CAD | GDP (YoY) (Q1) | 0.53% |  | 0.97% |
-| 13:30 | CAD | GDP (MoM) (Mar) | 0.0% | 0.0% | 0.2% |
 | 13:30 | CAD | GDP Annualized (QoQ) (Q1) | 1.7% | 2.2% | 0.1% |
 | 13:31 | CAD | GDP (MoM) (Apr) | 0.3% |  | 0.0% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) | 2.7% | 3.5% | 3.5% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 496 |  | 497 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 600 |  | 600 |
-| 24 min | GBP | CFTC GBP speculative net positions |  |  | 1.1K |
-| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 219.3K |
-| 24 min | USD | CFTC Gold speculative net positions |  |  | 229.8K |
-| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 4.7K |
-| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -22.8K |
-| 24 min | AUD | CFTC AUD speculative net positions |  |  | -56.2K |
-| 24 min | BRL | CFTC BRL speculative net positions |  |  | -37.7K |
-| 24 min | JPY | CFTC JPY speculative net positions |  |  | -144.4K |
-| 24 min | EUR | CFTC EUR speculative net positions |  |  | 41.5K |
+| 20:30 | GBP | CFTC GBP speculative net positions | 25.4K |  | 1.1K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 243.9K |  | 219.3K |
+| 20:30 | USD | CFTC Gold speculative net positions | 236.6K |  | 229.8K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -3.7K |  | 4.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -2.2K |  | -22.8K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -49.9K |  | -56.2K |
+| 20:30 | BRL | CFTC BRL speculative net positions | -36.6K |  | -37.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions | -156.0K |  | -144.4K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 57.6K |  | 41.5K |
 | 23:15 | USD | FOMC Member Bostic Speaks |  |  |  |

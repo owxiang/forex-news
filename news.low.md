@@ -34,8 +34,8 @@
 | 07:45 | EUR | French PPI (MoM) (Apr) | -3.6% |  | -1.0% |
 | 07:45 | EUR | PPI (YoY) (Apr) | -6.80% |  | -8.30% |
 | 08:00 | CHF | Official Reserves Assets (Apr) | 803.9B |  | 794.9B |
-| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Italian GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.2% |
+| 09:00 | EUR | Italian GDP (YoY) (Q1) | 0.7% | 0.6% | 0.6% |
 | 09:00 | EUR | Spanish Current account (Mar) | 3.29B |  | 1.90B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jun) | 550.0M |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (May) | 74.26K |  | 71.77K |
@@ -56,8 +56,8 @@
 | 10:00 | EUR | CPI, n.s.a (May) | 126.32 |  | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% |  | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) | 0.4% |  | 0.6% |
-| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | EUR | Italian Industrial Sales (MoM) (Mar) | -2.90% |  | 1.90% |
+| 11:00 | EUR | Italian Industrial Sales (YoY) (Mar) | -5.10% |  | -1.70% |
 | 11:00 | INR | Federal Fiscal Deficit (Apr) | 2,101.36B |  | 15,013.65B |
 | 12:30 | INR | Bank Loan Growth | 19.5% |  | 19.6% |
 | 12:30 | INR | Deposit Growth | 13.3% |  | 13.6% |
@@ -72,14 +72,14 @@
 | 14:00 | USD | Dallas Fed PCE (Apr) | 2.70% |  | 3.30% |
 | 16:00 | CAD | Budget Balance (Mar) | -33.59B |  | 8.30B |
 | 16:00 | CAD | Budget Balance (YoY) (Mar) | -50.93B |  | -25.70B |
-| 24 min | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 24 min | USD | CFTC Copper speculative net positions |  |  | 71.7K |
-| 24 min | USD | CFTC Corn speculative net positions |  |  | -41.8K |
-| 24 min | USD | CFTC Natural Gas speculative net positions |  |  | -90.1K |
-| 24 min | USD | CFTC Silver speculative net positions |  |  | 59.6K |
-| 24 min | USD | CFTC Soybeans speculative net positions |  |  | -45.0K |
-| 24 min | USD | CFTC Wheat speculative net positions |  |  | -12.5K |
-| 24 min | CAD | CFTC CAD speculative net positions |  |  | -90.8K |
-| 24 min | MXN | CFTC MXN speculative net positions |  |  | 117.9K |
-| 24 min | CHF | CFTC CHF speculative net positions |  |  | -40.6K |
-| 24 min | NZD | CFTC NZD speculative net positions |  |  | -1.4K |
+| 20:30 | USD | CFTC Aluminium speculative net positions | 1.1K |  | 1.1K |
+| 20:30 | USD | CFTC Copper speculative net positions | 65.5K |  | 71.7K |
+| 20:30 | USD | CFTC Corn speculative net positions | -51.6K |  | -41.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions | -75.4K |  | -90.1K |
+| 20:30 | USD | CFTC Silver speculative net positions | 57.2K |  | 59.6K |
+| 20:30 | USD | CFTC Soybeans speculative net positions | -25.9K |  | -45.0K |
+| 20:30 | USD | CFTC Wheat speculative net positions | -14.4K |  | -12.5K |
+| 20:30 | CAD | CFTC CAD speculative net positions | -86.6K |  | -90.8K |
+| 20:30 | MXN | CFTC MXN speculative net positions | 120.9K |  | 117.9K |
+| 20:30 | CHF | CFTC CHF speculative net positions | -44.4K |  | -40.6K |
+| 20:30 | NZD | CFTC NZD speculative net positions | 2.0K |  | -1.4K |
