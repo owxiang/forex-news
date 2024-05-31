@@ -18,13 +18,13 @@
 | 00:50 | JPY | Low | Large Retailers' Sales (MoM) | 1.2% |  | -1.2% |
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (Apr) | 3.0% |  | 7.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (Apr) | 2.4% | 1.8% | 1.1% |
-| 02:30 | AUD | Low | Housing Credit (Apr) |  |  | 0.4% |
-| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) |  | 0.4% | 0.3% |
+| 02:30 | AUD | Low | Housing Credit (Apr) | 0.4% |  | 0.4% |
+| 02:30 | AUD | Low | Private Sector Credit (MoM) (Apr) | 0.5% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | Chinese Composite PMI (May) |  |  | 51.7 |
-| 02:30 | CNY | High | Manufacturing PMI (May) |  | 50.5 | 50.4 |
-| 02:30 | CNY | Moderate | Non-Manufacturing PMI (May) |  | 51.5 | 51.2 |
-| 03:00 | SGD | Low | Bank Lending |  |  | 807.8B |
-| 03:00 | NZD | Moderate | Annual Budget Release |  |  |  |
+| 02:30 | CNY | High | Manufacturing PMI (May) | 49.5 | 50.5 | 50.4 |
+| 02:30 | CNY | Moderate | Non-Manufacturing PMI (May) | 51.1 | 51.5 | 51.2 |
+| 29 min | SGD | Low | Bank Lending |  |  | 807.8B |
+| 29 min | NZD | Moderate | Annual Budget Release |  |  |  |
 | 04:00 | NZD | Low | M3 Money Supply (Apr) |  |  | 411.4B |
 | 06:00 | JPY | Low | Construction Orders (YoY) (Apr) |  |  | 31.4% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (Apr) |  | -0.2% | -12.8% |
@@ -66,8 +66,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (Apr) |  |  | -7.0% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 0.7% | 0.9% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (May) |  | 0.7% | 0.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) |  |  | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) |  | 2.7% | 2.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) |  |  | 0.6% |
@@ -102,8 +102,8 @@
 | 14:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 14:45 | USD | High | Chicago PMI (May) |  | 41.1 | 37.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.5% | 3.5% |
-| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -25.70B |
 | 16:00 | CAD | Low | Budget Balance (Mar) |  |  | 8.30B |
+| 16:00 | CAD | Low | Budget Balance (YoY) (Mar) |  |  | -25.70B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 497 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 600 |
 | 19:00 | BRL | Low | Trade Balance |  |  | 9.04B |

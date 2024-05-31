@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | Manufacturing PMI (May) |  | 50.5 | 50.4 |
+| 02:30 | CNY | Manufacturing PMI (May) | 49.5 | 50.5 | 50.4 |
 | 10:00 | EUR | CPI (YoY) (May) |  | 2.5% | 2.4% |
 | 13:30 | USD | Core PCE Price Index (MoM) (Apr) |  | 0.3% | 0.3% |
 | 13:30 | USD | Core PCE Price Index (YoY) (Apr) |  | 2.8% | 2.8% |

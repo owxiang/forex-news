@@ -5,8 +5,8 @@
 | 00:30 | JPY | Tokyo Core CPI (YoY) | 1.9% | 1.9% | 1.6% |
 | 00:50 | JPY | Industrial Production (MoM) (Apr) | -0.1% | 1.5% | 4.4% |
 | 02:30 | CNY | Chinese Composite PMI (May) |  |  | 51.7 |
-| 02:30 | CNY | Non-Manufacturing PMI (May) |  | 51.5 | 51.2 |
-| 03:00 | NZD | Annual Budget Release |  |  |  |
+| 02:30 | CNY | Non-Manufacturing PMI (May) | 51.1 | 51.5 | 51.2 |
+| 29 min | NZD | Annual Budget Release |  |  |  |
 | 07:00 | GBP | Nationwide HPI (YoY) (May) |  |  | 0.6% |
 | 07:00 | GBP | Nationwide HPI (MoM) (May) |  | 0.1% | -0.4% |
 | 07:00 | EUR | German Retail Sales (MoM) (Apr) |  | -0.2% | 1.8% |
