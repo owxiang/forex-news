@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 55 min | KRW | Low | Exports (YoY) (May) |  |  | 13.8% |
-| 55 min | KRW | Low | Imports (YoY) (May) |  |  | 5.4% |
-| 55 min | KRW | Low | Trade Balance (May) |  |  | 1.53B |
+| 01:00 | KRW | Low | Exports (YoY) (May) | 11.7% |  | 13.8% |
+| 01:00 | KRW | Low | Imports (YoY) (May) | -2.0% |  | 5.4% |
+| 01:00 | KRW | Low | Trade Balance (May) | 4.96B |  | 1.53B |
