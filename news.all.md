@@ -1,5 +1,49 @@
-## 02 June 2024 - All Forex News
+## 03 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
+| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
+| 45 min | JPY | Moderate | Capital Spending (YoY) (Q1) |  | 12.2% | 16.4% |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
+| 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) |  | 51.6 | 51.4 |
+| 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
+| 05:00 | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) |  | 0.05% | 0.25% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
+| 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
+| 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 52.5 | 52.2 |
+| 08:30 | CHF | Moderate | procure.ch PMI (May) |  | 45.4 | 41.4 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 47.9 | 47.3 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 46.7 | 46.7 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 45.4 | 45.4 |
+| 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 52.4 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 47.4 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) |  | 51.3 | 51.3 |
+| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
+| 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) |  |  | 55.9 |
+| 14:00 | SGD | Low | S&P Global Singapore PMI (May) |  |  | 50.5 |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (May) |  | 50.2 | 49.4 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.9 | 50.9 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.2% | -0.2% |
+| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) |  |  | 48.6 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) |  |  | 49.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (May) |  | 49.8 | 49.2 |
+| 15:00 | USD | High | ISM Manufacturing Prices (May) |  | 60.0 | 60.9 |
+| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 15:00 | ZAR | Low | Total Vehicle Sales |  |  | 38.17K |
+| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (May) |  |  | 51.00 |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.170% |
+| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
+| 19:00 | BRL | Low | Trade Balance (May) |  |  | 9.04B |
