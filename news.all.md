@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 55 min | USD | Moderate | OPEC Meeting |  |  |  |
+| 11:00 | USD | Moderate | OPEC Meeting |  |  |  |
