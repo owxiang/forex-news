@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) | -4.2% |  | -12.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 54.0 | 52.5 | 52.2 |
@@ -22,11 +22,11 @@
 | 09:00 | NOK | Low | Manufacturing PMI (May) | 52.3 |  | 52.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 47.3 | 47.4 | 45.7 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
-| 11:00 | EUR | Low | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
 | 11:00 | EUR | Low | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
+| 11:00 | EUR | Low | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 37.11K |  | 38.17K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | -14.20% |  | 2.20% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 37.11K |  | 38.06K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.487% |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.686% |  | 3.697% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.600% |  | 3.657% |
@@ -35,14 +35,12 @@
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (May) | 49.3 | 50.2 | 49.4 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) | 51.3 | 50.9 | 50.0 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
-| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (May) | 51.1 | 48.5 | 48.6 |
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) | 45.4 | 49.4 | 49.1 |
 | 15:00 | USD | High | ISM Manufacturing PMI (May) | 48.7 | 49.8 | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing Prices (May) | 57.0 | 60.0 | 60.9 |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 54 min | MXN | Low | S&P Global Mexico Manufacturing PMI (May) |  |  | 51.00 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.170% |
+| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (May) | 51.20 |  | 51.00 |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.170% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
 | 19:00 | BRL | Low | Trade Balance (May) |  |  | 9.04B |
