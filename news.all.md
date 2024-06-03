@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) | -4.2% |  | -12.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 54.0 | 52.5 | 52.2 |
@@ -25,8 +25,8 @@
 | 11:00 | EUR | Low | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 37.11K |  | 38.06K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | -14.20% |  | 2.20% |
+| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 37.11K |  | 38.06K |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.487% |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.686% |  | 3.697% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.600% |  | 3.657% |
