@@ -25,22 +25,23 @@
 | 11:00 | EUR | Low | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
 | 11:00 | EUR | Low | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 37.11K |  | 38.17K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | -14.20% |  | 2.20% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.487% |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.686% |  | 3.697% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.600% |  | 3.657% |
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) | 52.1 |  | 55.9 |
 | 14:00 | SGD | Low | S&P Global Singapore PMI (May) | 50.6 |  | 50.5 |
-| 22 min | CAD | Low | S&P Global Canada Manufacturing PMI (May) |  | 50.2 | 49.4 |
-| 37 min | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.9 | 50.0 |
-| 52 min | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.2% | -0.2% |
-| 52 min | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 52 min | USD | Moderate | ISM Manufacturing Employment (May) |  | 48.5 | 48.6 |
-| 52 min | USD | Low | ISM Manufacturing New Orders Index (May) |  | 49.4 | 49.1 |
-| 52 min | USD | High | ISM Manufacturing PMI (May) |  | 49.8 | 49.2 |
-| 52 min | USD | High | ISM Manufacturing Prices (May) |  | 60.0 | 60.9 |
-| 52 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 52 min | ZAR | Low | Total Vehicle Sales |  |  | 38.17K |
-| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (May) |  |  | 51.00 |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (May) | 49.3 | 50.2 | 49.4 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (May) | 51.3 | 50.9 | 50.0 |
+| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
+| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) | 51.1 | 48.5 | 48.6 |
+| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) | 45.4 | 49.4 | 49.1 |
+| 15:00 | USD | High | ISM Manufacturing PMI (May) | 48.7 | 49.8 | 49.2 |
+| 15:00 | USD | High | ISM Manufacturing Prices (May) | 57.0 | 60.0 | 60.9 |
+| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 54 min | MXN | Low | S&P Global Mexico Manufacturing PMI (May) |  |  | 51.00 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.170% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |

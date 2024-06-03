@@ -16,17 +16,18 @@
 | 11:00 | EUR | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
 | 11:00 | EUR | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | ZAR | Total Vehicle Sales (May) | 37.11K |  | 38.17K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | -14.20% |  | 2.20% |
 | 14:00 | EUR | French 12-Month BTF Auction | 3.487% |  | 3.503% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.686% |  | 3.697% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.600% |  | 3.657% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (May) | 52.1 |  | 55.9 |
 | 14:00 | SGD | S&P Global Singapore PMI (May) | 50.6 |  | 50.5 |
-| 22 min | CAD | S&P Global Canada Manufacturing PMI (May) |  | 50.2 | 49.4 |
-| 52 min | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 52 min | USD | ISM Manufacturing New Orders Index (May) |  | 49.4 | 49.1 |
-| 52 min | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 52 min | ZAR | Total Vehicle Sales |  |  | 38.17K |
-| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (May) |  |  | 51.00 |
+| 14:30 | CAD | S&P Global Canada Manufacturing PMI (May) | 49.3 | 50.2 | 49.4 |
+| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | ISM Manufacturing New Orders Index (May) | 45.4 | 49.4 | 49.1 |
+| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 54 min | MXN | S&P Global Mexico Manufacturing PMI (May) |  |  | 51.00 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.255% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.170% |
 | 19:00 | BRL | Trade Balance (May) |  |  | 9.04B |
