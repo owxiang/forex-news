@@ -22,14 +22,14 @@
 | 09:00 | NOK | Low | Manufacturing PMI (May) | 52.3 |  | 52.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 47.3 | 47.4 | 45.7 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
-| 11:00 | EUR | Low | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
-| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) |  |  | 55.9 |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (May) |  |  | 50.5 |
+| 11:00 | EUR | Low | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
+| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
+| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |
+| 51 min | BRL | Low | S&P Global Manufacturing PMI (May) |  |  | 55.9 |
+| 51 min | SGD | Low | S&P Global Singapore PMI (May) |  |  | 50.5 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (May) |  | 50.2 | 49.4 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.9 | 50.0 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.2% | -0.2% |
