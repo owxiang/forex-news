@@ -3,20 +3,20 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.7 |  | 49.6 |
-| 8 min | KRW | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
-| 8 min | JPY | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
-| 8 min | IDR | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
-| 38 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) | 51.6 |  | 49.4 |
+| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
+| 01:30 | IDR | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
+| 02:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 05:00 | IDR | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
-| 05:00 | IDR | Inflation (YoY) (May) |  | 2.95% | 3.00% |
 | 05:00 | IDR | Inflation (MoM) (May) |  | 0.05% | 0.25% |
+| 05:00 | IDR | Inflation (YoY) (May) |  | 2.95% | 3.00% |
 | 06:00 | INR | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 09:00 | NOK | Manufacturing PMI (May) |  |  | 52.4 |
-| 11:00 | EUR | Car Registration (MoM) (May) |  |  | -3.00% |
 | 11:00 | EUR | Car Registration (YoY) (May) |  |  | 23.10% |
+| 11:00 | EUR | Car Registration (MoM) (May) |  |  | -3.00% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.697% |

@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.7 |  | 49.6 |
 | 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 6.8% | 12.2% | 16.4% |
-| 8 min | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
-| 8 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
-| 8 min | IDR | Low | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
-| 38 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) | 51.6 |  | 49.4 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
+| 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
+| 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) |  | 51.6 | 51.4 |
+| 13 min | CNY | Moderate | Caixin Manufacturing PMI (May) |  | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
 | 05:00 | IDR | Low | Inflation (MoM) (May) |  | 0.05% | 0.25% |
+| 05:00 | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
@@ -24,8 +24,8 @@
 | 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 52.4 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 47.4 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) |  | 51.3 | 51.3 |
-| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
 | 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
+| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
