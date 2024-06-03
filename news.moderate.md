@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | Capital Spending (YoY) (Q1) |  | 12.2% | 16.4% |
+| 00:50 | JPY | Capital Spending (YoY) (Q1) | 6.8% | 12.2% | 16.4% |
 | 02:45 | CNY | Caixin Manufacturing PMI (May) |  | 51.6 | 51.4 |
 | 08:15 | EUR | HCOB Spain Manufacturing PMI (May) |  | 52.5 | 52.2 |
 | 08:30 | CHF | procure.ch PMI (May) |  | 45.4 | 41.4 |

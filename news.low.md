@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.7 |  | 49.6 |
+| 8 min | KRW | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
+| 8 min | JPY | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
+| 8 min | IDR | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
+| 38 min | AUD | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 05:00 | IDR | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
 | 05:00 | IDR | Inflation (YoY) (May) |  | 2.95% | 3.00% |

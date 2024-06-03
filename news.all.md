@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI |  |  | 49.6 |
-| 45 min | JPY | Moderate | Capital Spending (YoY) (Q1) |  | 12.2% | 16.4% |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
-| 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
+| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.7 |  | 49.6 |
+| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 6.8% | 12.2% | 16.4% |
+| 8 min | KRW | Low | S&P Global South Korea Manufacturing PMI (May) |  |  | 49.4 |
+| 8 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) |  | 50.5 | 50.5 |
+| 8 min | IDR | Low | Nikkei Manufacturing PMI (May) |  |  | 52.9 |
+| 38 min | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.1% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) |  | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
