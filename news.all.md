@@ -1,45 +1,56 @@
-## 03 June 2024 - All Forex News
+## 04 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 49.7 |  | 49.6 |
-| 00:50 | JPY | Moderate | Capital Spending (YoY) (Q1) | 6.8% | 12.2% | 16.4% |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (May) | 51.6 |  | 49.4 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
-| 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
-| 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
-| 07:30 | AUD | Low | Commodity Prices (YoY) | -4.2% |  | -12.1% |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 54.0 | 52.5 | 52.2 |
-| 08:30 | CHF | Moderate | procure.ch PMI (May) | 46.4 | 45.4 | 41.4 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) | 45.6 | 47.9 | 47.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) | 46.4 | 46.7 | 45.3 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) | 45.4 | 45.4 | 42.5 |
-| 09:00 | NOK | Low | Manufacturing PMI (May) | 52.3 |  | 52.6 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 47.3 | 47.4 | 45.7 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
-| 11:00 | EUR | Low | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
-| 11:00 | EUR | Low | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (May) | -14.20% |  | 2.20% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (May) | 37.11K |  | 38.06K |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.487% |  | 3.503% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.686% |  | 3.697% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.600% |  | 3.657% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) | 52.1 |  | 55.9 |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (May) | 50.6 |  | 50.5 |
-| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (May) | 49.3 | 50.2 | 49.4 |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (May) | 51.3 | 50.9 | 50.0 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (May) | 51.1 | 48.5 | 48.6 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (May) | 45.4 | 49.4 | 49.1 |
-| 15:00 | USD | High | ISM Manufacturing PMI (May) | 48.7 | 49.8 | 49.2 |
-| 15:00 | USD | High | ISM Manufacturing Prices (May) | 57.0 | 60.0 | 60.9 |
-| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (May) | 51.20 |  | 51.00 |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.255% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 5.155% |  | 5.170% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.8% | 2.7% | 2.7% |
+| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
+| 00:00 | KRW | Low | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
+| 44 min | JPY | Low | Monetary Base (YoY) (May) |  | 2.2% | 1.8% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
+| 02:30 | AUD | Low | Business inventories (MoM) (Q1) |  |  | -1.7% |
+| 02:30 | AUD | Moderate | Company Gross Operating Profits (QoQ) (Q1) |  | -0.9% | 7.4% |
+| 02:30 | AUD | Low | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 4.7% |
+| 02:30 | AUD | Moderate | Current Account (Q1) |  | 5.9B | 11.8B |
+| 02:30 | AUD | Low | Net Exports Contribution (Q1) |  |  | 0.6% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) |  | 0.1% | -0.4% |
+| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.857% |
+| 07:30 | CHF | Low | CPI (YoY) (May) |  |  | 1.4% |
+| 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.4% | 0.3% |
+| 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 08:00 | EUR | Moderate | Spanish Unemployment Change |  |  | -60.5K |
+| 08:20 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 08:55 | EUR | Moderate | German Unemployment Change (May) |  | 7K | 10K |
+| 08:55 | EUR | Moderate | German Unemployment Rate (May) |  | 5.9% | 5.9% |
+| 08:55 | EUR | Low | German Unemployment (May) |  |  | 2.732M |
+| 08:55 | EUR | Low | German Unemployment n.s.a. (May) |  |  | 2.750M |
+| 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.33% |
+| 10:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.930% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q1) |  |  | 1.2% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.1% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.405% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.543% |
+| 12:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
+| 12:00 | BRL | Moderate | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Apr) |  | 0.6% | 1.6% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Apr) |  | 0.4% | 0.5% |
+| 15:00 | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 41.8 |
+| 15:00 | USD | High | JOLTs Job Openings (Apr) |  | 8.400M | 8.488M |
+| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.3% |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,861.0 |
+| 19:00 | BRL | Low | Trade Balance (May) |  |  | 9.04B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -6.490M |
+| 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 413.26B |
+| 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
+| 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 2.6% |
+| 23:45 | NZD | Low | Terms of Trade - Imports Prices (Q1) |  |  | 3.8% |
+| 23:45 | NZD | Low | Terms of Trade Index (QoQ) (Q1) |  | 2.8% | -7.8% |

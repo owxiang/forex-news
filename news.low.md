@@ -1,30 +1,38 @@
-## 03 June 2024 - Low Impact Forex News
+## 04 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 49.7 |  | 49.6 |
-| 01:30 | KRW | S&P Global South Korea Manufacturing PMI (May) | 51.6 |  | 49.4 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
-| 01:30 | IDR | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
-| 02:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
-| 05:00 | IDR | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
-| 05:00 | IDR | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
-| 06:00 | INR | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
-| 07:30 | AUD | Commodity Prices (YoY) | -4.2% |  | -12.1% |
-| 09:00 | NOK | Manufacturing PMI (May) | 52.3 |  | 52.6 |
-| 11:00 | EUR | Car Registration (YoY) (May) | 3.40% |  | 23.10% |
-| 11:00 | EUR | Car Registration (MoM) (May) | 3.40% |  | -3.00% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | ZAR | Total Vehicle Sales (YoY) (May) | -14.20% |  | 2.20% |
-| 13:00 | ZAR | Total Vehicle Sales (May) | 37.11K |  | 38.06K |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.487% |  | 3.503% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.686% |  | 3.697% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.600% |  | 3.657% |
-| 14:00 | BRL | S&P Global Manufacturing PMI (May) | 52.1 |  | 55.9 |
-| 14:00 | SGD | S&P Global Singapore PMI (May) | 50.6 |  | 50.5 |
-| 14:30 | CAD | S&P Global Canada Manufacturing PMI (May) | 49.3 | 50.2 | 49.4 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (May) | 45.4 | 49.4 | 49.1 |
-| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (May) | 51.20 |  | 51.00 |
-| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.255% |
-| 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.170% |
+| 00:00 | KRW | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
+| 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 44 min | JPY | Monetary Base (YoY) (May) |  | 2.2% | 1.8% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
+| 02:30 | AUD | Business inventories (MoM) (Q1) |  |  | -1.7% |
+| 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 4.7% |
+| 02:30 | AUD | Net Exports Contribution (Q1) |  |  | 0.6% |
+| 07:30 | CHF | CPI (YoY) (May) |  |  | 1.4% |
+| 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 08:55 | EUR | German Unemployment (May) |  |  | 2.732M |
+| 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 2.750M |
+| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.930% |
+| 10:30 | ZAR | GDP (YoY) (Q1) |  |  | 1.2% |
+| 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.405% |
+| 10:40 | EUR | Spanish 6-Month Letras Auction |  |  | 3.543% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
+| 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
+| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) |  | 0.4% | 0.5% |
+| 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 41.8 |
+| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.3% |
+| 15:00 | USD | Milk Auctions |  |  | 3,861.0 |
+| 19:00 | BRL | Trade Balance (May) |  |  | 9.04B |
+| 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
+| 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
+| 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 2.6% |
+| 23:45 | NZD | Terms of Trade - Imports Prices (Q1) |  |  | 3.8% |
+| 23:45 | NZD | Terms of Trade Index (QoQ) (Q1) |  | 2.8% | -7.8% |

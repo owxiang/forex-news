@@ -1,16 +1,21 @@
-## 03 June 2024 - Moderate Impact Forex News
+## 04 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Capital Spending (YoY) (Q1) | 6.8% | 12.2% | 16.4% |
-| 02:45 | CNY | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
-| 08:15 | EUR | HCOB Spain Manufacturing PMI (May) | 54.0 | 52.5 | 52.2 |
-| 08:30 | CHF | procure.ch PMI (May) | 46.4 | 45.4 | 41.4 |
-| 08:45 | EUR | HCOB Italy Manufacturing PMI (May) | 45.6 | 47.9 | 47.3 |
-| 08:50 | EUR | HCOB France Manufacturing PMI (May) | 46.4 | 46.7 | 45.3 |
-| 08:55 | EUR | HCOB Germany Manufacturing PMI (May) | 45.4 | 45.4 | 42.5 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (May) | 47.3 | 47.4 | 45.7 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
-| 15:00 | USD | Construction Spending (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
-| 15:00 | USD | ISM Manufacturing Employment (May) | 51.1 | 48.5 | 48.6 |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.8% | 2.7% | 2.7% |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
+| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) |  | -0.9% | 7.4% |
+| 02:30 | AUD | Current Account (Q1) |  | 5.9B | 11.8B |
+| 02:30 | AUD | Retail Sales (MoM) |  | 0.1% | -0.4% |
+| 04:35 | JPY | 10-Year JGB Auction |  |  | 0.857% |
+| 07:30 | CHF | CPI (MoM) (May) |  | 0.4% | 0.3% |
+| 08:00 | EUR | Spanish Unemployment Change |  |  | -60.5K |
+| 08:20 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 08:55 | EUR | German Unemployment Change (May) |  | 7K | 10K |
+| 08:55 | EUR | German Unemployment Rate (May) |  | 5.9% | 5.9% |
+| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.33% |
+| 10:05 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 10:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.1% |
+| 12:00 | BRL | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
+| 12:00 | BRL | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
+| 15:00 | USD | Factory Orders (MoM) (Apr) |  | 0.6% | 1.6% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -6.490M |
