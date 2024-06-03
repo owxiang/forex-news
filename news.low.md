@@ -7,7 +7,6 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 05:00 | IDR | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
 | 05:00 | IDR | Inflation (MoM) (May) |  | 0.05% | 0.25% |
 | 05:00 | IDR | Inflation (YoY) (May) |  | 2.95% | 3.00% |

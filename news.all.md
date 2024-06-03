@@ -8,8 +8,7 @@
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 13 min | CNY | Moderate | Caixin Manufacturing PMI (May) |  | 51.6 | 51.4 |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
 | 05:00 | IDR | Low | Inflation (MoM) (May) |  | 0.05% | 0.25% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
