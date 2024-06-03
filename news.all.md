@@ -9,22 +9,22 @@
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
-| 53 min | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
-| 53 min | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
-| 53 min | IDR | Low | Inflation (MoM) (May) |  | 0.05% | 0.25% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
+| 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
+| 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
+| 52 min | INR | Low | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 52.5 | 52.2 |
 | 08:30 | CHF | Moderate | procure.ch PMI (May) |  | 45.4 | 41.4 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 47.9 | 47.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 46.7 | 46.7 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 45.4 | 45.4 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 48.0 | 47.3 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 45.3 | 46.7 |
+| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 45.4 | 42.5 |
 | 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 52.4 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 47.4 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) |  | 51.3 | 51.3 |
-| 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 45.7 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) |  | 51.3 | 49.1 |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
+| 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
@@ -32,7 +32,7 @@
 | 14:00 | BRL | Low | S&P Global Manufacturing PMI (May) |  |  | 55.9 |
 | 14:00 | SGD | Low | S&P Global Singapore PMI (May) |  |  | 50.5 |
 | 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (May) |  | 50.2 | 49.4 |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.9 | 50.9 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (May) |  | 50.9 | 50.0 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (Apr) |  | 0.2% | -0.2% |
 | 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (May) |  |  | 48.6 |
