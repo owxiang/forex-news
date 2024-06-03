@@ -10,21 +10,21 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
-| 23 min | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
-| 38 min | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 52.5 | 52.2 |
-| 08:30 | CHF | Moderate | procure.ch PMI (May) |  | 45.4 | 41.4 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 47.9 | 47.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 46.7 | 45.3 |
-| 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 45.4 | 42.5 |
-| 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 52.4 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 45.7 |
+| 07:30 | AUD | Low | Commodity Prices (YoY) | -4.2% |  | -12.1% |
+| 10 min | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 52.5 | 52.2 |
+| 25 min | CHF | Moderate | procure.ch PMI (May) |  | 45.4 | 41.4 |
+| 40 min | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 47.9 | 47.3 |
+| 40 min | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 45 min | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 46.7 | 45.3 |
+| 50 min | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 45.4 | 42.5 |
+| 55 min | NOK | Low | Manufacturing PMI (May) |  |  | 52.4 |
+| 55 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 45.7 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) |  | 51.3 | 49.1 |
-| 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
 | 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
+| 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
