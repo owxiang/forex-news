@@ -8,12 +8,12 @@
 | 01:30 | IDR | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 05:00 | IDR | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
 | 05:00 | IDR | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
+| 05:00 | IDR | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
 | 06:00 | INR | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Commodity Prices (YoY) | -4.2% |  | -12.1% |
-| 40 min | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 55 min | NOK | Manufacturing PMI (May) |  |  | 52.4 |
+| 09:00 | NOK | Manufacturing PMI (May) | 52.3 |  | 52.6 |
+| 11:00 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 11:00 | EUR | Car Registration (MoM) (May) |  |  | -3.00% |
 | 11:00 | EUR | Car Registration (YoY) (May) |  |  | 23.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
