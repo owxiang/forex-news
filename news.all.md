@@ -9,16 +9,16 @@
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
 | 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
-| 52 min | INR | Low | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) |  | 52.5 | 52.2 |
 | 08:30 | CHF | Moderate | procure.ch PMI (May) |  | 45.4 | 41.4 |
-| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 48.0 | 47.3 |
-| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 45.3 | 46.7 |
+| 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (May) |  | 47.9 | 47.3 |
+| 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (May) |  | 46.7 | 45.3 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) |  | 45.4 | 42.5 |
 | 09:00 | NOK | Low | Manufacturing PMI (May) |  |  | 52.4 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) |  | 47.4 | 45.7 |

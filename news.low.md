@@ -7,10 +7,10 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (May) | 50.4 | 50.5 | 50.5 |
 | 01:30 | IDR | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
-| 05:00 | IDR | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
+| 05:00 | IDR | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
 | 05:00 | IDR | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
 | 05:00 | IDR | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
-| 52 min | INR | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
+| 06:00 | INR | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 09:00 | NOK | Manufacturing PMI (May) |  |  | 52.4 |
