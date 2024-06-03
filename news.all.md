@@ -10,8 +10,8 @@
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
 | 05:00 | IDR | Low | Core Inflation (YoY) (May) | 1.93% | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 05:00 | IDR | Low | Inflation (YoY) (May) | 2.84% | 2.94% | 3.00% |
+| 05:00 | IDR | Low | Inflation (MoM) (May) | -0.03% | 0.05% | 0.25% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) | -4.2% |  | -12.1% |
 | 08:15 | EUR | Moderate | HCOB Spain Manufacturing PMI (May) | 54.0 | 52.5 | 52.2 |
@@ -21,10 +21,10 @@
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (May) | 45.4 | 45.4 | 42.5 |
 | 09:00 | NOK | Low | Manufacturing PMI (May) | 52.3 |  | 52.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 47.3 | 47.4 | 45.7 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) |  | 51.3 | 49.1 |
-| 11:00 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 11:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
-| 11:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
+| 54 min | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 54 min | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
+| 54 min | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
