@@ -22,10 +22,9 @@
 | 09:00 | NOK | Low | Manufacturing PMI (May) | 52.3 |  | 52.6 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (May) | 47.3 | 47.4 | 45.7 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
-| 54 min | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 54 min | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
-| 54 min | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 13:00 | EUR | Low | Car Registration (MoM) (May) |  |  | -3.00% |
+| 13:00 | EUR | Low | Car Registration (YoY) (May) |  |  | 23.10% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.697% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.657% |

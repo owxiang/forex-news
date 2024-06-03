@@ -13,10 +13,9 @@
 | 06:00 | INR | HSBC India Manufacturing PMI (May) | 57.5 | 58.4 | 58.4 |
 | 07:30 | AUD | Commodity Prices (YoY) | -4.2% |  | -12.1% |
 | 09:00 | NOK | Manufacturing PMI (May) | 52.3 |  | 52.6 |
-| 54 min | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 54 min | EUR | Car Registration (MoM) (May) |  |  | -3.00% |
-| 54 min | EUR | Car Registration (YoY) (May) |  |  | 23.10% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | EUR | Car Registration (MoM) (May) |  |  | -3.00% |
+| 13:00 | EUR | Car Registration (YoY) (May) |  |  | 23.10% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.503% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.697% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.657% |
