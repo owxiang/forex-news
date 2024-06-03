@@ -26,6 +26,6 @@
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (May) | 49.3 | 50.2 | 49.4 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (May) | 45.4 | 49.4 | 49.1 |
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (May) | 51.20 |  | 51.00 |
-| 24 min | USD | 3-Month Bill Auction |  |  | 5.255% |
-| 24 min | USD | 6-Month Bill Auction |  |  | 5.170% |
+| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.255% |
+| 16:30 | USD | 6-Month Bill Auction | 5.155% |  | 5.170% |
 | 19:00 | BRL | Trade Balance (May) |  |  | 9.04B |

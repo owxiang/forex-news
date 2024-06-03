@@ -13,4 +13,4 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (May) | 51.2 | 51.3 | 49.1 |
 | 15:00 | USD | Construction Spending (MoM) (Apr) | -0.1% | 0.2% | -0.2% |
 | 15:00 | USD | ISM Manufacturing Employment (May) | 51.1 | 48.5 | 48.6 |
-| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
+| 54 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |

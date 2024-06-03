@@ -40,7 +40,7 @@
 | 15:00 | USD | High | ISM Manufacturing PMI (May) | 48.7 | 49.8 | 49.2 |
 | 15:00 | USD | High | ISM Manufacturing Prices (May) | 57.0 | 60.0 | 60.9 |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (May) | 51.20 |  | 51.00 |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.255% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.170% |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.255% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.155% |  | 5.170% |
+| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
 | 19:00 | BRL | Low | Trade Balance (May) |  |  | 9.04B |
