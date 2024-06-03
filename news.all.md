@@ -9,9 +9,9 @@
 | 01:30 | IDR | Low | Nikkei Manufacturing PMI (May) | 52.1 |  | 52.9 |
 | 02:00 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (May) | 51.7 | 51.6 | 51.4 |
-| 05:00 | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
-| 05:00 | IDR | Low | Inflation (MoM) (May) |  | 0.05% | 0.25% |
-| 05:00 | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
+| 53 min | IDR | Low | Core Inflation (YoY) (May) |  | 1.88% | 1.82% |
+| 53 min | IDR | Low | Inflation (YoY) (May) |  | 2.95% | 3.00% |
+| 53 min | IDR | Low | Inflation (MoM) (May) |  | 0.05% | 0.25% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI (May) |  | 58.4 | 58.4 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -11.6% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
