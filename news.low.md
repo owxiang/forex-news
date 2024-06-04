@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
-| 44 min | JPY | Monetary Base (YoY) (May) |  | 2.2% | 1.8% |
+| 00:50 | JPY | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 02:30 | AUD | Business inventories (MoM) (Q1) |  |  | -1.7% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) |  |  | 4.7% |
