@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | JOLTs Job Openings (Apr) |  | 8.370M | 8.488M |
+| 54 min | USD | JOLTs Job Openings (Apr) |  | 8.370M | 8.488M |

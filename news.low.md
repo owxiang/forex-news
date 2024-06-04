@@ -16,32 +16,20 @@
 | 10:30 | ZAR | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
-| 12:30 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.89M | 0.89M | 0.89M |
-| 12:30 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
-| 12:30 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
-| 12:30 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
-| 12:30 | USD | OPEC Crude oil Production Iran (Barrel) | 3.17M | 3.17M | 3.17M |
-| 12:30 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.20M | 4.20M | 4.20M |
-| 12:30 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
-| 12:30 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
-| 12:30 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.50M | 1.50M | 1.50M |
-| 12:30 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.02M | 9.02M | 9.02M |
-| 12:30 | USD | OPEC Crude oil Production UAE (Barrel) | 2.93M | 2.93M | 2.93M |
-| 12:30 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.80M | 0.80M | 0.80M |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
-| 47 min | USD | Redbook (YoY) |  |  | 6.3% |
-| 15:00 | USD | All Car Sales (May) | 3.07M |  | 3.04M |
-| 15:00 | USD | All Truck Sales (May) | 12.84M |  | 12.74M |
-| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
-| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
-| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) |  | 0.4% | 0.5% |
-| 15:00 | USD | IBD/TIPP Economic Optimism |  | 45.2 | 41.8 |
-| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.3% |
-| 15:00 | USD | Milk Auctions |  |  | 3,861.0 |
+| 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.3% |
+| 54 min | USD | All Car Sales (May) | 3.07M |  | 3.04M |
+| 54 min | USD | All Truck Sales (May) | 12.84M |  | 12.74M |
+| 54 min | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 54 min | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
+| 54 min | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
+| 54 min | USD | Factory orders ex transportation (MoM) (Apr) |  | 0.4% | 0.5% |
+| 54 min | USD | IBD/TIPP Economic Optimism |  | 45.2 | 41.8 |
+| 54 min | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 54 min | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 3.3% |
+| 54 min | USD | Milk Auctions |  |  | 3,861.0 |
 | 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
