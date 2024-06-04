@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 00:00 | KRW | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:50 | JPY | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | -8.4% |  | 8.3% |
 | 02:30 | AUD | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
-| 23 min | CHF | CPI (YoY) (May) |  |  | 1.4% |
-| 38 min | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 08:55 | EUR | German Unemployment (May) |  |  | 2.732M |
-| 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 2.750M |
+| 07:30 | CHF | CPI (YoY) (May) | 1.4% |  | 1.4% |
+| 07:45 | EUR | French Government Budget Balance (Apr) | -91.6B |  | -52.8B |
+| 49 min | EUR | German Unemployment (May) |  |  | 2.732M |
+| 49 min | EUR | German Unemployment n.s.a. (May) |  |  | 2.750M |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.930% |
 | 10:30 | ZAR | GDP (YoY) (Q1) |  |  | 1.2% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction |  |  | 3.405% |

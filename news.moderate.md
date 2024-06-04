@@ -7,12 +7,12 @@
 | 02:30 | AUD | Current Account (Q1) | -4.9B | 5.6B | 2.7B |
 | 02:30 | AUD | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
 | 04:35 | JPY | 10-Year JGB Auction | 1.048% |  | 0.857% |
-| 23 min | CHF | CPI (MoM) (May) |  | 0.3% | 0.3% |
-| 53 min | EUR | Spanish Unemployment Change |  | -55.4K | -60.5K |
-| 08:20 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 08:55 | EUR | German Unemployment Change (May) |  | 7K | 10K |
-| 08:55 | EUR | German Unemployment Rate (May) |  | 5.9% | 5.9% |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.33% |
+| 07:30 | CHF | CPI (MoM) (May) | 0.3% | 0.3% | 0.3% |
+| 08:00 | EUR | Spanish Unemployment Change | -58.7K | -55.4K | -60.5K |
+| 14 min | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 49 min | EUR | German Unemployment Change (May) |  | 7K | 10K |
+| 49 min | EUR | German Unemployment Rate (May) |  | 5.9% | 5.9% |
+| 54 min | BRL | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.33% |
 | 10:05 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.1% |
 | 12:00 | BRL | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
