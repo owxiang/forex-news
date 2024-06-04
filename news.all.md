@@ -13,8 +13,8 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.048% |  | 0.857% |
-| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.3% | 0.3% | 0.3% |
 | 07:30 | CHF | Low | CPI (YoY) (May) | 1.4% |  | 1.4% |
+| 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.3% | 0.3% | 0.3% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -91.6B |  | -52.8B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change | -58.7K | -55.4K | -60.5K |
 | 08:20 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
@@ -24,15 +24,15 @@
 | 08:55 | EUR | Low | German Unemployment n.s.a. (May) | 2.723M |  | 2.750M |
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) | 0.09% |  | 0.33% |
 | 10:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 24 min | EUR | Low | German 2-Year Schatz Auction |  |  | 2.930% |
-| 24 min | ZAR | Low | GDP (YoY) (Q1) |  |  | 1.2% |
-| 24 min | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.1% |
-| 34 min | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.405% |
-| 34 min | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.543% |
-| 12:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
-| 12:00 | BRL | Moderate | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
+| 10:30 | EUR | Low | German 2-Year Schatz Auction | 3.010% |  | 2.930% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) | -0.1% | 0.1% | 0.3% |
+| 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
+| 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
+| 54 min | BRL | Moderate | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
+| 54 min | BRL | Moderate | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |

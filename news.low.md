@@ -12,12 +12,12 @@
 | 07:45 | EUR | French Government Budget Balance (Apr) | -91.6B |  | -52.8B |
 | 08:55 | EUR | German Unemployment (May) | 2.762M |  | 2.732M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) | 2.723M |  | 2.750M |
-| 24 min | EUR | German 2-Year Schatz Auction |  |  | 2.930% |
-| 24 min | ZAR | GDP (YoY) (Q1) |  |  | 1.2% |
-| 34 min | EUR | Spanish 12-Month Letras Auction |  |  | 3.405% |
-| 34 min | EUR | Spanish 6-Month Letras Auction |  |  | 3.543% |
-| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
+| 10:30 | EUR | German 2-Year Schatz Auction | 3.010% |  | 2.930% |
+| 10:30 | ZAR | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
+| 10:40 | EUR | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
+| 10:40 | EUR | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
 | 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
