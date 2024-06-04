@@ -13,8 +13,8 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.048% |  | 0.857% |
-| 07:30 | CHF | Low | CPI (YoY) (May) | 1.4% |  | 1.4% |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.3% | 0.3% | 0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (May) | 1.4% |  | 1.4% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -91.6B |  | -52.8B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change | -58.7K | -55.4K | -60.5K |
 | 08:20 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
@@ -29,11 +29,25 @@
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
-| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
-| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
-| 54 min | BRL | Moderate | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
-| 54 min | BRL | Moderate | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 12:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.89M | 0.89M | 0.89M |
+| 12:30 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 12:30 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
+| 12:30 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 12:30 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.17M | 3.17M | 3.17M |
+| 12:30 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.20M | 4.20M | 4.20M |
+| 12:30 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 12:30 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 12:30 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.50M | 1.50M | 1.50M |
+| 12:30 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.02M | 9.02M | 9.02M |
+| 12:30 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.93M | 2.93M | 2.93M |
+| 12:30 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.80M | 0.80M | 0.80M |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
+| 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 0.8% | 0.8% | 0.0% |
+| 47 min | USD | Low | Redbook (YoY) |  |  | 6.3% |
+| 15:00 | USD | Low | All Car Sales (May) | 3.07M |  | 3.04M |
+| 15:00 | USD | Low | All Truck Sales (May) | 12.84M |  | 12.74M |
 | 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
@@ -46,7 +60,7 @@
 | 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.3% |
 | 15:00 | USD | Low | Milk Auctions |  |  | 3,861.0 |
 | 19:00 | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -6.490M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.900M | -6.490M |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
 | 23:45 | NZD | Low | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 2.6% |

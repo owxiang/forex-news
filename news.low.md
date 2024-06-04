@@ -16,9 +16,23 @@
 | 10:30 | ZAR | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
-| 54 min | MXN | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
-| 54 min | MXN | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
-| 13:55 | USD | Redbook (YoY) |  |  | 6.3% |
+| 12:30 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.89M | 0.89M | 0.89M |
+| 12:30 | USD | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 12:30 | USD | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
+| 12:30 | USD | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 12:30 | USD | OPEC Crude oil Production Iran (Barrel) | 3.17M | 3.17M | 3.17M |
+| 12:30 | USD | OPEC Crude oil Production Iraq (Barrel) | 4.20M | 4.20M | 4.20M |
+| 12:30 | USD | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 12:30 | USD | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 12:30 | USD | OPEC Crude Oil Production Nigeria (Barrel) | 1.50M | 1.50M | 1.50M |
+| 12:30 | USD | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.02M | 9.02M | 9.02M |
+| 12:30 | USD | OPEC Crude oil Production UAE (Barrel) | 2.93M | 2.93M | 2.93M |
+| 12:30 | USD | OPEC Crude oil Production Venezuela (Barrel) | 0.80M | 0.80M | 0.80M |
+| 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
+| 47 min | USD | Redbook (YoY) |  |  | 6.3% |
+| 15:00 | USD | All Car Sales (May) | 3.07M |  | 3.04M |
+| 15:00 | USD | All Truck Sales (May) | 12.84M |  | 12.74M |
 | 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
