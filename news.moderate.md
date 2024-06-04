@@ -15,7 +15,7 @@
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.09% |  | 0.33% |
 | 10:05 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | ZAR | GDP Annualized (QoQ) | -0.1% | 0.1% | 0.3% |
-| 13:00 | BRL | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
 | 13:00 | BRL | GDP (QoQ) (Q1) | 0.8% | 0.8% | -0.1% |
+| 13:00 | BRL | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
 | 15:00 | USD | Factory Orders (MoM) (Apr) | 0.7% | 0.7% | 0.7% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -1.900M | -6.490M |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
 | 00:00 | KRW | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
+| 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
 | 00:50 | JPY | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | -8.4% |  | 8.3% |
@@ -21,11 +21,10 @@
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.3% |
 | 14:00 | USD | All Car Sales (May) | 3.07M |  | 3.04M |
 | 14:00 | USD | All Truck Sales (May) | 12.84M |  | 12.74M |
-| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (Apr) | 0.0% |  | 0.0% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.4% |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | 0.7% | 0.4% | 0.4% |
-| 15:00 | USD | Milk Auctions |  |  | 3,861.0 |
+| 15:00 | USD | IBD/TIPP Economic Optimism | 40.5 | 45.2 | 41.8 |
 | 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
