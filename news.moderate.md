@@ -1,21 +1,25 @@
-## 04 June 2024 - Moderate Impact Forex News
+## 05 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) | -2.5% | -0.9% | 7.1% |
-| 02:30 | AUD | Current Account (Q1) | -4.9B | 5.6B | 2.7B |
-| 02:30 | AUD | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
-| 04:35 | JPY | 10-Year JGB Auction | 1.048% |  | 0.857% |
-| 07:30 | CHF | CPI (MoM) (May) | 0.3% | 0.3% | 0.3% |
-| 08:00 | EUR | Spanish Unemployment Change | -58.7K | -55.4K | -60.5K |
-| 08:20 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 08:55 | EUR | German Unemployment Change (May) | 25K | 7K | 10K |
-| 08:55 | EUR | German Unemployment Rate (May) | 5.9% | 5.9% | 5.9% |
-| 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.09% |  | 0.33% |
-| 10:05 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 10:30 | ZAR | GDP Annualized (QoQ) | -0.1% | 0.1% | 0.3% |
-| 13:00 | BRL | GDP (QoQ) (Q1) | 0.8% | 0.8% | -0.1% |
-| 13:00 | BRL | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
-| 15:00 | USD | Factory Orders (MoM) (Apr) | 0.7% | 0.7% | 0.7% |
-| 21:30 | USD | API Weekly Crude Oil Stock | 4.052M | -1.900M | -6.490M |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (May) |  | 53.6 | 53.6 |
+| 02:30 | AUD | GDP (YoY) (Q1) |  | 1.2% | 1.5% |
+| 02:30 | AUD | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 02:45 | CNY | Caixin Services PMI (May) |  | 52.6 | 52.5 |
+| 08:15 | EUR | HCOB Spain Services PMI (May) |  | 56.5 | 56.2 |
+| 08:45 | EUR | HCOB Italy Services PMI (May) |  | 54.4 | 54.3 |
+| 08:50 | EUR | HCOB France Services PMI (May) |  | 49.4 | 51.3 |
+| 08:55 | EUR | HCOB Germany Services PMI (May) |  | 53.9 | 53.2 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 52.3 | 51.7 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 53.3 | 53.3 |
+| 09:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI (May) |  | 52.8 | 54.1 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI (May) |  | 52.9 | 55.0 |
+| 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 8.3% | -2.8% |
+| 13:30 | CAD | Labor Productivity (QoQ) (Q1) |  | -0.2% | 0.4% |
+| 14:45 | USD | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:00 | USD | ISM Non-Manufacturing Employment (May) |  |  | 45.9 |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.766M |
+| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 21:30 | EUR | ECB McCaul Speaks |  |  |  |
