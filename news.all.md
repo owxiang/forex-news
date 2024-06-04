@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:00 | KRW | Low | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
@@ -12,7 +12,7 @@
 | 02:30 | AUD | Moderate | Current Account (Q1) | -4.9B | 5.9B | 2.7B |
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
-| 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 0.857% |
+| 28 min | JPY | Moderate | 10-Year JGB Auction |  |  | 0.857% |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.4% | 0.3% |
 | 07:30 | CHF | Low | CPI (YoY) (May) |  |  | 1.4% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
@@ -26,14 +26,14 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) |  |  | 0.33% |
 | 10:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.930% |
-| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.1% |
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) |  |  | 1.2% |
+| 10:30 | ZAR | Moderate | GDP Annualized (QoQ) |  |  | 0.1% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction |  |  | 3.405% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction |  |  | 3.543% |
 | 12:00 | BRL | Moderate | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
 | 12:00 | BRL | Moderate | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
