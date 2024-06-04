@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:00 | KRW | Low | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
