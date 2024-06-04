@@ -18,6 +18,8 @@
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
+| 13:00 | NZD | GlobalDairyTrade Price Index | 1.7% |  | 3.3% |
+| 13:00 | USD | Milk Auctions | 3,824.0 |  | 3,861.0 |
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.3% |
 | 14:00 | USD | All Car Sales (May) | 3.07M |  | 3.04M |
 | 14:00 | USD | All Truck Sales (May) | 12.84M |  | 12.74M |

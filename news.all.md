@@ -13,8 +13,8 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.048% |  | 0.857% |
-| 07:30 | CHF | Low | CPI (YoY) (May) | 1.4% |  | 1.4% |
 | 07:30 | CHF | Moderate | CPI (MoM) (May) | 0.3% | 0.3% | 0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (May) | 1.4% |  | 1.4% |
 | 07:45 | EUR | Low | French Government Budget Balance (Apr) | -91.6B |  | -52.8B |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change | -58.7K | -55.4K | -60.5K |
 | 08:20 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
@@ -31,8 +31,10 @@
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
-| 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 0.8% | 0.8% | -0.1% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
+| 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 0.8% | 0.8% | -0.1% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.7% |  | 3.3% |
+| 13:00 | USD | Low | Milk Auctions | 3,824.0 |  | 3,861.0 |
 | 13:55 | USD | Low | Redbook (YoY) | 5.8% |  | 6.3% |
 | 14:00 | USD | Low | All Car Sales (May) | 3.07M |  | 3.04M |
 | 14:00 | USD | Low | All Truck Sales (May) | 12.84M |  | 12.74M |
