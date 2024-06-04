@@ -34,19 +34,15 @@
 | 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 0.8% | 0.8% | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.8% |  | 6.3% |
-| 54 min | USD | Low | All Car Sales (May) | 3.07M |  | 3.04M |
-| 54 min | USD | Low | All Truck Sales (May) | 12.84M |  | 12.74M |
-| 54 min | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 54 min | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
-| 54 min | USD | Low | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
-| 54 min | USD | Moderate | Factory Orders (MoM) (Apr) |  | 0.7% | 1.6% |
-| 54 min | USD | Low | Factory orders ex transportation (MoM) (Apr) |  | 0.4% | 0.5% |
-| 54 min | USD | Low | IBD/TIPP Economic Optimism |  | 45.2 | 41.8 |
-| 54 min | USD | High | JOLTs Job Openings (Apr) |  | 8.370M | 8.488M |
-| 54 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 54 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 54 min | NZD | Low | GlobalDairyTrade Price Index |  |  | 3.3% |
-| 54 min | USD | Low | Milk Auctions |  |  | 3,861.0 |
+| 14:00 | USD | Low | All Car Sales (May) | 3.07M |  | 3.04M |
+| 14:00 | USD | Low | All Truck Sales (May) | 12.84M |  | 12.74M |
+| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) | 0.0% |  | 0.0% |
+| 15:00 | USD | Low | Durables Excluding Transport (MoM) (Apr) | 0.4% |  | 0.5% |
+| 15:00 | USD | Moderate | Factory Orders (MoM) (Apr) | 0.7% | 0.7% | 0.7% |
+| 15:00 | USD | Low | Factory orders ex transportation (MoM) (Apr) | 0.7% | 0.4% | 0.4% |
+| 15:00 | USD | High | JOLTs Job Openings (Apr) | 8.059M | 8.370M | 8.355M |
+| 15:00 | USD | Low | Milk Auctions |  |  | 3,861.0 |
 | 19:00 | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.900M | -6.490M |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 413.26B |

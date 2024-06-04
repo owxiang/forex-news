@@ -19,17 +19,13 @@
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
 | 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.3% |
-| 54 min | USD | All Car Sales (May) | 3.07M |  | 3.04M |
-| 54 min | USD | All Truck Sales (May) | 12.84M |  | 12.74M |
-| 54 min | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
-| 54 min | USD | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
-| 54 min | USD | Durables Excluding Transport (MoM) (Apr) |  |  | 0.5% |
-| 54 min | USD | Factory orders ex transportation (MoM) (Apr) |  | 0.4% | 0.5% |
-| 54 min | USD | IBD/TIPP Economic Optimism |  | 45.2 | 41.8 |
-| 54 min | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 54 min | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 54 min | NZD | GlobalDairyTrade Price Index |  |  | 3.3% |
-| 54 min | USD | Milk Auctions |  |  | 3,861.0 |
+| 14:00 | USD | All Car Sales (May) | 3.07M |  | 3.04M |
+| 14:00 | USD | All Truck Sales (May) | 12.84M |  | 12.74M |
+| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 15:00 | USD | Durables Excluding Defense (MoM) (Apr) | 0.0% |  | 0.0% |
+| 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.4% |  | 0.5% |
+| 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | 0.7% | 0.4% | 0.4% |
+| 15:00 | USD | Milk Auctions |  |  | 3,861.0 |
 | 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
