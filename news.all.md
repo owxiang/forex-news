@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
 | 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
+| 00:00 | KRW | Low | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
@@ -13,10 +13,10 @@
 | 02:30 | AUD | Low | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction | 1.048% |  | 0.857% |
-| 07:30 | CHF | Moderate | CPI (MoM) (May) |  | 0.3% | 0.3% |
-| 07:30 | CHF | Low | CPI (YoY) (May) |  |  | 1.4% |
-| 07:45 | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
-| 08:00 | EUR | Moderate | Spanish Unemployment Change |  | -55.4K | -60.5K |
+| 23 min | CHF | Moderate | CPI (MoM) (May) |  | 0.3% | 0.3% |
+| 23 min | CHF | Low | CPI (YoY) (May) |  |  | 1.4% |
+| 38 min | EUR | Low | French Government Budget Balance (Apr) |  |  | -52.8B |
+| 53 min | EUR | Moderate | Spanish Unemployment Change |  | -55.4K | -60.5K |
 | 08:20 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 08:55 | EUR | Moderate | German Unemployment Change (May) |  | 7K | 10K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (May) |  | 5.9% | 5.9% |
