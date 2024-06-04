@@ -29,8 +29,8 @@
 | 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
 | 13:00 | BRL | Moderate | GDP (YoY) (Q1) | 2.5% | 2.2% | 2.1% |
 | 13:00 | BRL | Moderate | GDP (QoQ) (Q1) | 0.8% | 0.8% | -0.1% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | 1.7% |  | 3.3% |
@@ -44,7 +44,6 @@
 | 15:00 | USD | Low | Factory orders ex transportation (MoM) (Apr) | 0.7% | 0.4% | 0.4% |
 | 15:00 | USD | Low | IBD/TIPP Economic Optimism | 40.5 | 45.2 | 41.8 |
 | 15:00 | USD | High | JOLTs Job Openings (Apr) | 8.059M | 8.370M | 8.355M |
-| 19:00 | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.900M | -6.490M |
 | 22:00 | KRW | Low | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Low | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |

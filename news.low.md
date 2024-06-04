@@ -16,8 +16,8 @@
 | 10:30 | ZAR | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Mar) | 0.80% |  | 0.70% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Mar) | 3.00% |  | 12.50% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | 1.7% |  | 3.3% |
 | 13:00 | USD | Milk Auctions | 3,824.0 |  | 3,861.0 |
 | 13:55 | USD | Redbook (YoY) | 5.8% |  | 6.3% |
@@ -27,7 +27,6 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.4% |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | 0.7% | 0.4% | 0.4% |
 | 15:00 | USD | IBD/TIPP Economic Optimism | 40.5 | 45.2 | 41.8 |
-| 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 2.6% |
