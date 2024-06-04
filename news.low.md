@@ -2,14 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
 | 00:00 | KRW | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
+| 00:00 | KRW | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
 | 00:50 | JPY | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
 | 02:30 | AUD | Company Profits Pre-Tax (QoQ) (Q1) | -8.4% |  | 8.3% |
 | 02:30 | AUD | Net Exports Contribution (Q1) | -0.9% |  | 0.6% |
 | 07:30 | CHF | CPI (YoY) (May) |  |  | 1.4% |
-| 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 07:45 | EUR | French Government Budget Balance (Apr) |  |  | -52.8B |
 | 08:55 | EUR | German Unemployment (May) |  |  | 2.732M |
 | 08:55 | EUR | German Unemployment n.s.a. (May) |  |  | 2.750M |
@@ -29,9 +28,9 @@
 | 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
 | 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 3.3% |
 | 15:00 | USD | Milk Auctions |  |  | 3,861.0 |
-| 19:00 | BRL | Trade Balance (May) |  |  | 9.04B |
+| 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 2.6% |
 | 23:45 | NZD | Terms of Trade - Imports Prices (Q1) |  |  | 3.8% |
-| 23:45 | NZD | Terms of Trade Index (QoQ) (Q1) |  | 2.8% | -7.8% |
+| 23:45 | NZD | Terms of Trade Index (QoQ) (Q1) |  | 3.1% | -7.8% |
