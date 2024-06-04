@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:00 | KRW | Low | CPI (YoY) (May) | 2.7% | 2.8% | 2.9% |
+| 00:00 | KRW | Low | CPI (MoM) (May) | 0.1% | 0.2% | 0.0% |
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (May) | 0.7% | 2.2% | 1.8% |
 | 02:30 | AUD | Low | Business inventories (MoM) (Q1) | 1.3% |  | -1.6% |
@@ -25,14 +25,14 @@
 | 09:00 | BRL | Moderate | IPC-Fipe Inflation Index (MoM) (May) | 0.09% |  | 0.33% |
 | 10:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction | 3.010% |  | 2.930% |
-| 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:30 | ZAR | Moderate | GDP Annualized (QoQ) | -0.1% | 0.1% | 0.3% |
+| 10:30 | ZAR | Low | GDP (YoY) (Q1) | 0.5% | 0.6% | 1.4% |
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.407% |  | 3.405% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.367% |  | 3.543% |
+| 54 min | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
+| 54 min | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
 | 54 min | BRL | Moderate | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
 | 54 min | BRL | Moderate | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
-| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Mar) |  |  | 12.50% |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Mar) |  |  | 0.70% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
 | 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (Apr) |  |  | 0.0% |
