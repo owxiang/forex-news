@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (May) | 0.4% | 1.2% | -4.4% |
-| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) | -2.5% | -0.9% | 7.4% |
-| 02:30 | AUD | Current Account (Q1) | -4.9B | 5.9B | 11.8B |
-| 02:30 | AUD | Retail Sales (MoM) |  | 0.1% | -0.4% |
+| 02:30 | AUD | Company Gross Operating Profits (QoQ) (Q1) | -2.5% | -0.9% | 7.1% |
+| 02:30 | AUD | Current Account (Q1) | -4.9B | 5.9B | 2.7B |
+| 02:30 | AUD | Retail Sales (MoM) | 0.1% | 0.1% | -0.4% |
 | 04:35 | JPY | 10-Year JGB Auction |  |  | 0.857% |
 | 07:30 | CHF | CPI (MoM) (May) |  | 0.4% | 0.3% |
 | 08:00 | EUR | Spanish Unemployment Change |  |  | -60.5K |
