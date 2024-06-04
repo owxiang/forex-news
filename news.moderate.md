@@ -13,9 +13,9 @@
 | 08:55 | EUR | German Unemployment Change (May) | 25K | 7K | 10K |
 | 08:55 | EUR | German Unemployment Rate (May) | 5.9% | 5.9% | 5.9% |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (May) | 0.09% |  | 0.33% |
-| 58 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 10:30 | ZAR | GDP Annualized (QoQ) |  |  | 0.1% |
-| 12:00 | BRL | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
+| 10:05 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 24 min | ZAR | GDP Annualized (QoQ) |  |  | 0.1% |
 | 12:00 | BRL | GDP (YoY) (Q1) |  | 2.2% | 2.1% |
+| 12:00 | BRL | GDP (QoQ) (Q1) |  | 0.8% | 0.0% |
 | 15:00 | USD | Factory Orders (MoM) (Apr) |  | 0.7% | 1.6% |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -6.490M |
