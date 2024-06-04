@@ -27,7 +27,7 @@
 | 15:00 | USD | Durables Excluding Transport (MoM) (Apr) | 0.4% |  | 0.5% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (Apr) | 0.7% | 0.4% | 0.4% |
 | 15:00 | USD | IBD/TIPP Economic Optimism | 40.5 | 45.2 | 41.8 |
-| 54 min | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
+| 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 22:00 | KRW | FX Reserves - USD (May) |  |  | 413.26B |
 | 23:45 | NZD | Terms of Trade - Exports Prices (Q1) |  |  | -4.2% |
 | 23:45 | NZD | Terms of Trade - Exports Volume (QoQ) (Q1) |  |  | 2.6% |
