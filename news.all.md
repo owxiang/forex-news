@@ -12,8 +12,8 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 53.8 | 53.6 | 54.3 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
@@ -48,22 +48,21 @@
 | 12:00 | USD | Low | MBA Purchase Index | 132.3 |  | 138.4 |
 | 12:00 | USD | Low | Mortgage Market Index | 180.4 |  | 190.3 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 432.1 |  | 463.8 |
-| 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.19% |
-| 12:00 | EUR | Low | German Car Registration (YoY) |  |  | 19.8% |
-| 55 min | MXN | Low | Consumer Confidence |  |  | 47.3 |
-| 55 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.7 |
-| 55 min | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.3% | 0.9% |
-| 55 min | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 8.3% | -2.8% |
-| 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 173K | 192K |
-| 13:15 | CAD | Low | Reserve Assets Total (May) |  |  | 121.0B |
-| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | -0.2% | 0.4% |
-| 14:00 | BRL | Low | S&P Global Composite PMI (May) |  |  | 54.8 |
-| 14:00 | BRL | Low | S&P Global Services PMI (May) |  |  | 53.7 |
+| 12:00 | CAD | Low | Leading Index (MoM) (May) | 0.19% |  | 0.19% |
+| 12:30 | EUR | Low | German Car Registration (YoY) | -4.3% |  | 19.8% |
+| 13:00 | MXN | Low | Consumer Confidence | 46.7 |  | 47.2 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.7 |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | -0.5% | 0.3% | 0.9% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | 8.4% | 8.3% | -2.8% |
+| 7 min | USD | High | ADP Nonfarm Employment Change (May) |  | 173K | 192K |
+| 7 min | CAD | Low | Reserve Assets Total (May) |  |  | 121.0B |
+| 22 min | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | -0.2% | 0.4% |
+| 52 min | BRL | Low | S&P Global Composite PMI (May) |  |  | 54.8 |
+| 52 min | BRL | Low | S&P Global Services PMI (May) |  |  | 53.7 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
 | 14:45 | USD | High | S&P Global Services PMI (May) |  | 54.8 | 51.3 |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.75% | 5.00% |
-| 15:00 | USD | Low | Dallas Fed PCE (Apr) |  |  | 2.90% |
 | 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (May) |  |  | 50.9 |
 | 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (May) |  |  | 45.9 |
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) |  |  | 52.2 |

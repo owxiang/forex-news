@@ -34,15 +34,14 @@
 | 12:00 | USD | MBA Purchase Index | 132.3 |  | 138.4 |
 | 12:00 | USD | Mortgage Market Index | 180.4 |  | 190.3 |
 | 12:00 | USD | Mortgage Refinance Index | 432.1 |  | 463.8 |
-| 12:00 | CAD | Leading Index (MoM) (May) |  |  | 0.19% |
-| 12:00 | EUR | German Car Registration (YoY) |  |  | 19.8% |
-| 55 min | MXN | Consumer Confidence |  |  | 47.3 |
-| 55 min | MXN | Consumer Confidence n.s.a. |  |  | 47.7 |
-| 55 min | BRL | Industrial Production (MoM) (Apr) |  | 0.3% | 0.9% |
-| 13:15 | CAD | Reserve Assets Total (May) |  |  | 121.0B |
-| 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 54.8 |
-| 14:00 | BRL | S&P Global Services PMI (May) |  |  | 53.7 |
-| 15:00 | USD | Dallas Fed PCE (Apr) |  |  | 2.90% |
+| 12:00 | CAD | Leading Index (MoM) (May) | 0.19% |  | 0.19% |
+| 12:30 | EUR | German Car Registration (YoY) | -4.3% |  | 19.8% |
+| 13:00 | MXN | Consumer Confidence | 46.7 |  | 47.2 |
+| 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 47.7 |
+| 13:00 | BRL | Industrial Production (MoM) (Apr) | -0.5% | 0.3% | 0.9% |
+| 7 min | CAD | Reserve Assets Total (May) |  |  | 121.0B |
+| 52 min | BRL | S&P Global Composite PMI (May) |  |  | 54.8 |
+| 52 min | BRL | S&P Global Services PMI (May) |  |  | 53.7 |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 50.9 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (May) |  |  | 52.2 |
 | 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
