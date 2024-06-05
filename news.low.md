@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
 | 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
+| 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
 | 00:00 | AUD | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
