@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (May) | 53.8 | 53.6 | 54.3 |
-| 02:30 | AUD | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
+| 02:30 | AUD | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:45 | CNY | Caixin Services PMI (May) | 54.0 | 52.5 | 52.5 |
-| 08:15 | EUR | HCOB Spain Services PMI (May) |  | 56.5 | 56.2 |
-| 08:45 | EUR | HCOB Italy Services PMI (May) |  | 54.4 | 54.3 |
-| 08:50 | EUR | HCOB France Services PMI (May) |  | 49.4 | 51.3 |
-| 08:55 | EUR | HCOB Germany Services PMI (May) |  | 53.9 | 53.2 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (May) |  | 52.3 | 51.7 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (May) |  | 53.3 | 53.3 |
+| 10 min | EUR | HCOB Spain Services PMI (May) |  | 56.5 | 56.2 |
+| 40 min | EUR | HCOB Italy Services PMI (May) |  | 54.4 | 54.3 |
+| 45 min | EUR | HCOB France Services PMI (May) |  | 49.4 | 51.3 |
+| 50 min | EUR | HCOB Germany Services PMI (May) |  | 53.9 | 53.2 |
+| 55 min | EUR | HCOB Eurozone Composite PMI (May) |  | 52.3 | 51.7 |
+| 55 min | EUR | HCOB Eurozone Services PMI (May) |  | 53.3 | 53.3 |
 | 09:25 | EUR | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (May) |  | 52.8 | 54.1 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (May) |  | 52.9 | 55.0 |
