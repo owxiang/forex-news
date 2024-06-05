@@ -18,9 +18,9 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (Apr) | 8.4% | 8.3% | -2.8% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q1) | -0.3% | -0.2% | 0.2% |
-| 38 min | USD | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
-| 38 min | CAD | BoC Rate Statement |  |  |  |
-| 53 min | USD | ISM Non-Manufacturing Employment (May) |  |  | 45.9 |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -1.766M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (May) | 54.5 | 54.4 | 51.3 |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:00 | USD | ISM Non-Manufacturing Employment (May) | 47.1 | 47.2 | 45.9 |
+| 25 min | USD | Cushing Crude Oil Inventories |  |  | -1.766M |
+| 25 min | CAD | BOC Press Conference |  |  |  |
 | 21:30 | EUR | ECB McCaul Speaks |  |  |  |

@@ -19,8 +19,8 @@
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 54.0 | 52.5 | 52.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (May) | 60.2 | 61.4 | 60.8 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | -2.7% |  | -0.8% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
 | 07:00 | NOK | Low | Current Account (Q1) | 249.0B |  | 243.4B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) | 0.5% | 0.3% | -0.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) | 56.9 | 56.5 | 56.2 |
@@ -52,33 +52,32 @@
 | 12:30 | EUR | Low | German Car Registration (YoY) | -4.3% |  | 19.8% |
 | 13:00 | MXN | Low | Consumer Confidence | 46.7 |  | 47.2 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. | 46.7 |  | 47.7 |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | 8.4% | 8.3% | -2.8% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | -0.5% | 0.3% | 0.9% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | 8.4% | 8.3% | -2.8% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) | 152K | 173K | 188K |
 | 13:15 | CAD | Low | Reserve Assets Total (May) | 122.8B |  | 121.0B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) | -0.3% | -0.2% | 0.2% |
 | 14:00 | BRL | Low | S&P Global Composite PMI (May) | 54.0 |  | 54.8 |
 | 14:00 | BRL | Low | S&P Global Services PMI (May) | 55.3 |  | 53.7 |
-| 38 min | USD | Moderate | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
-| 38 min | USD | High | S&P Global Services PMI (May) |  | 54.8 | 51.3 |
-| 38 min | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 38 min | CAD | High | BoC Interest Rate Decision |  | 4.75% | 5.00% |
-| 53 min | USD | Low | ISM Non-Manufacturing Business Activity (May) |  |  | 50.9 |
-| 53 min | USD | Moderate | ISM Non-Manufacturing Employment (May) |  |  | 45.9 |
-| 53 min | USD | Low | ISM Non-Manufacturing New Orders (May) |  |  | 52.2 |
-| 53 min | USD | High | ISM Non-Manufacturing PMI (May) |  | 51.0 | 49.4 |
-| 53 min | USD | High | ISM Non-Manufacturing Prices (May) |  |  | 59.2 |
-| 53 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 15:30 | USD | High | Crude Oil Inventories |  | -2.100M | -4.156M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.601M |
-| 15:30 | USD | Low | Crude Oil Imports |  |  | 0.611M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.766M |
-| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.034M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | 3.000M | 2.544M |
-| 15:30 | USD | Low | Gasoline Production |  |  | -0.038M |
-| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.211M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.6% |
-| 15:30 | USD | Low | Gasoline Inventories |  | 2.600M | 2.022M |
-| 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
+| 14:45 | USD | Moderate | S&P Global Composite PMI (May) | 54.5 | 54.4 | 51.3 |
+| 14:45 | USD | High | S&P Global Services PMI (May) | 54.8 | 54.8 | 51.3 |
+| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 14:45 | CAD | High | BoC Interest Rate Decision | 4.75% | 4.75% | 5.00% |
+| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (May) | 61.2 |  | 50.9 |
+| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (May) | 47.1 | 47.2 | 45.9 |
+| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) | 54.1 | 53.2 | 52.2 |
+| 15:00 | USD | High | ISM Non-Manufacturing PMI (May) | 53.8 | 51.0 | 49.4 |
+| 15:00 | USD | High | ISM Non-Manufacturing Prices (May) | 58.1 | 59.0 | 59.2 |
+| 25 min | USD | High | Crude Oil Inventories |  | -2.100M | -4.156M |
+| 25 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.601M |
+| 25 min | USD | Low | Crude Oil Imports |  |  | 0.611M |
+| 25 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | -1.766M |
+| 25 min | USD | Low | Distillate Fuel Production |  |  | -0.034M |
+| 25 min | USD | Low | EIA Weekly Distillates Stocks |  | 3.000M | 2.544M |
+| 25 min | USD | Low | Gasoline Production |  |  | -0.038M |
+| 25 min | USD | Low | Heating Oil Stockpiles |  |  | -0.211M |
+| 25 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.6% |
+| 25 min | USD | Low | Gasoline Inventories |  | 2.600M | 2.022M |
+| 25 min | CAD | Moderate | BOC Press Conference |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |

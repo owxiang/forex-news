@@ -15,8 +15,8 @@
 | 02:30 | AUD | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
 | 06:00 | INR | HSBC India Services PMI (May) | 60.2 | 61.4 | 60.8 |
-| 06:00 | SGD | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) | -2.7% |  | -0.8% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
 | 07:00 | NOK | Current Account (Q1) | 249.0B |  | 243.4B |
 | 07:45 | EUR | French Industrial Production (MoM) (Apr) | 0.5% | 0.3% | -0.2% |
 | 08:15 | ZAR | S&P Global South Africa PMI (May) | 50.4 |  | 50.3 |
@@ -42,15 +42,14 @@
 | 13:15 | CAD | Reserve Assets Total (May) | 122.8B |  | 121.0B |
 | 14:00 | BRL | S&P Global Composite PMI (May) | 54.0 |  | 54.8 |
 | 14:00 | BRL | S&P Global Services PMI (May) | 55.3 |  | 53.7 |
-| 53 min | USD | ISM Non-Manufacturing Business Activity (May) |  |  | 50.9 |
-| 53 min | USD | ISM Non-Manufacturing New Orders (May) |  |  | 52.2 |
-| 53 min | USD | Total Vehicle Sales |  | 15.80M | 15.74M |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.601M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.611M |
-| 15:30 | USD | Distillate Fuel Production |  |  | -0.034M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | 3.000M | 2.544M |
-| 15:30 | USD | Gasoline Production |  |  | -0.038M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.211M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.6% |
-| 15:30 | USD | Gasoline Inventories |  | 2.600M | 2.022M |
+| 15:00 | USD | ISM Non-Manufacturing Business Activity (May) | 61.2 |  | 50.9 |
+| 15:00 | USD | ISM Non-Manufacturing New Orders (May) | 54.1 | 53.2 | 52.2 |
+| 25 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.601M |
+| 25 min | USD | Crude Oil Imports |  |  | 0.611M |
+| 25 min | USD | Distillate Fuel Production |  |  | -0.034M |
+| 25 min | USD | EIA Weekly Distillates Stocks |  | 3.000M | 2.544M |
+| 25 min | USD | Gasoline Production |  |  | -0.038M |
+| 25 min | USD | Heating Oil Stockpiles |  |  | -0.211M |
+| 25 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 2.6% |
+| 25 min | USD | Gasoline Inventories |  | 2.600M | 2.022M |
 | 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
