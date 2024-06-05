@@ -10,14 +10,14 @@
 | 00:30 | JPY | Average Cash Earnings (YoY) | 2.1% | 1.7% | 1.0% |
 | 00:30 | JPY | Overall wage income of employees (Apr) | 2.1% |  | 1.0% |
 | 00:30 | JPY | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
-| 9 min | HKD | S&P Global Hong Kong Manufacturing PMI (May) |  |  | 50.6 |
+| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | -0.2% |
-| 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 2.0% |
-| 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.2% |
+| 02:30 | AUD | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
+| 02:30 | AUD | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
+| 02:30 | AUD | GDP Final Consumption (Q1) | 0.6% |  | 0.2% |
 | 06:00 | INR | HSBC India Services PMI (May) |  | 61.4 | 60.8 |
-| 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 2.7% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | -1.0% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 2.7% |
 | 07:00 | NOK | Current Account (Q1) |  |  | 235.3B |
 | 07:45 | EUR | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
 | 08:15 | ZAR | S&P Global South Africa PMI (May) |  |  | 50.3 |

@@ -10,18 +10,19 @@
 | 00:30 | JPY | Low | Average Cash Earnings (YoY) | 2.1% | 1.7% | 1.0% |
 | 00:30 | JPY | Low | Overall wage income of employees (Apr) | 2.1% |  | 1.0% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
-| 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 52.5 | 53.6 | 54.3 |
-| 9 min | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) |  |  | 50.6 |
+| 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 52.5 | 53.6 | 53.6 |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 53.8 |  | 53.6 |
+| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 1.2% | 1.5% |
-| 02:30 | AUD | Low | GDP Capital Expenditure (Q1) |  |  | -0.2% |
-| 02:30 | AUD | Low | GDP Chain Price Index (Q1) |  |  | 2.0% |
-| 02:30 | AUD | Low | GDP Final Consumption (Q1) |  |  | 0.2% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (May) |  | 52.6 | 52.5 |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.5% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.2% |
+| 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
+| 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
+| 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.2% |
+| 14 min | CNY | Moderate | Caixin Services PMI (May) |  | 52.6 | 52.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (May) |  | 61.4 | 60.8 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 2.7% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -1.0% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 2.7% |
 | 07:00 | NOK | Low | Current Account (Q1) |  |  | 235.3B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) |  | 56.5 | 56.2 |
