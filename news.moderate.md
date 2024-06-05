@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (May) | 53.8 | 53.6 | 54.3 |
-| 02:30 | AUD | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
+| 02:30 | AUD | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:45 | CNY | Caixin Services PMI (May) | 54.0 | 52.5 | 52.5 |
 | 08:15 | EUR | HCOB Spain Services PMI (May) | 56.9 | 56.5 | 56.2 |
 | 08:45 | EUR | HCOB Italy Services PMI (May) | 54.2 | 54.4 | 54.3 |
