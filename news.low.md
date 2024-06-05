@@ -26,8 +26,8 @@
 | 09:00 | GBP | Car Registration (YoY) | 1.7% |  | 1.0% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (May) | 147,678.0 |  | 134,274.0 |
 | 10:00 | NOK | House Price Index (YoY) (May) | 1.70% |  | 1.10% |
-| 10:00 | EUR | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:00 | EUR | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
+| 10:00 | EUR | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.505% |  | 4.204% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.07% |  | 7.05% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -5.2% |  | -5.7% |

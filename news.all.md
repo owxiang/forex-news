@@ -39,8 +39,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (May) | 52.9 | 52.9 | 55.0 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) | 147,678.0 |  | 134,274.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (May) | 1.70% |  | 1.10% |
-| 10:00 | EUR | Low | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:00 | EUR | Low | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
+| 10:00 | EUR | Low | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.505% |  | 4.204% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.07% |  | 7.05% |
