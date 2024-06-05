@@ -58,14 +58,14 @@ def scrape_forex_events():
 
     headers = {
         "All": "| Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |\n|------|----------|------------|-------|--------|----------|----------|\n",
-        "Low": "| Time (GMT) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
+        "Impact": "| Time (GMT) | Currency | Event | Actual | Forecast | Previous |\n|------|----------|-------|--------|----------|----------|\n"
     }
 
     content_dict = {
         'All': {'events': [], 'table': headers['All'], 'filename': 'table_for_all_readme.txt', 'impact': 'All', 'name': 'All'},
-        'High': {'events': [], 'table': headers['Low'], 'filename': 'table_for_high_readme.txt', 'impact': 'High', 'name': 'High Impact'},
-        'Moderate': {'events': [], 'table': headers['Low'], 'filename': 'table_for_moderate_readme.txt', 'impact': 'Moderate', 'name': 'Moderate Impact'},
-        'Low': {'events': [], 'table': headers['Low'], 'filename': 'table_for_low_readme.txt', 'impact': 'Low', 'name': 'Low Impact'}
+        'High': {'events': [], 'table': headers['Impact'], 'filename': 'table_for_high_readme.txt', 'impact': 'High', 'name': 'High Impact'},
+        'Moderate': {'events': [], 'table': headers['Impact'], 'filename': 'table_for_moderate_readme.txt', 'impact': 'Moderate', 'name': 'Moderate Impact'},
+        'Low': {'events': [], 'table': headers['Impact'], 'filename': 'table_for_low_readme.txt', 'impact': 'Low', 'name': 'Low Impact'}
     }
 
     for event_row in event_rows:
@@ -80,15 +80,21 @@ def scrape_forex_events():
             elif "Low Volatility Expected" in sentiment:
                 impact_level = "Low"
 
-            event_data['importance'] = impact_level
-            content_dict[impact_level]['events'].append(event_data)
-            content_dict['All']['events'].append(event_data)
+            event_data['importance'] = impact_level  # For all
+            content_dict[impact_level]['events'].append(event_data)  
+            content_dict['All']['events'].append(event_data)  
 
     for key, value in content_dict.items():
+        if key == 'All':
+            row_format = "| {time} | {currency} | {importance} | {event} | {actual} | {forecast} | {previous} |\n"
+        else:
+            row_format = "| {time} | {currency} | {event} | {actual} | {forecast} | {previous} |\n"
+
         for event in value['events']:
-            value['table'] += f"| {event['time']} | {event['currency']} | {event['importance']} | {event['event']} | {event['actual']} | {event['forecast']} | {event['previous']} |\n"
+            value['table'] += row_format.format(**event)
         write_to_readme(value, formatted_date)
 
     driver.quit()
 
 scrape_forex_events()
+
