@@ -121,11 +121,6 @@ def scrape_forex_events():
             value['table'] += row_format.format(**event)
         write_to_readme(value, formatted_date)
         
-    if high_impact_news:
-        message = f"there is high impact news today. see https://github.com/owxiang/forex-news/blob/main/news.high.md"
-        send_telegram(message)
-        
     driver.quit()
 
 scrape_forex_events()
-
