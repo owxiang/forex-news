@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
 | 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
+| 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
 | 00:00 | AUD | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -26,8 +26,8 @@
 | 09:00 | GBP | Car Registration (YoY) | 1.7% |  | 1.0% |
 | 10:00 | GBP | United Kingdom New Passenger Cars Registration (May) | 147,678.0 |  | 134,274.0 |
 | 10:00 | NOK | House Price Index (YoY) (May) | 1.70% |  | 1.10% |
-| 10:00 | EUR | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:00 | EUR | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
+| 10:00 | EUR | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.505% |  | 4.204% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.07% |  | 7.05% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -5.2% |  | -5.7% |
