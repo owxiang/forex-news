@@ -14,8 +14,8 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 53.8 |  | 53.6 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.2% |
