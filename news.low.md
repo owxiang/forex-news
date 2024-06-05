@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | AUD | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -24,11 +24,11 @@
 | 08:50 | EUR | HCOB France Composite PMI (May) | 48.9 | 49.1 | 50.5 |
 | 08:55 | EUR | HCOB Germany Composite PMI (May) | 52.4 | 52.2 | 50.6 |
 | 09:00 | GBP | Car Registration (YoY) | 1.7% |  | 1.0% |
-| 54 min | GBP | 3-Year Treasury Gilt Auction |  |  | 4.204% |
-| 54 min | EUR | German Car Registration (YoY) |  |  | 19.8% |
-| 54 min | NOK | House Price Index (YoY) (May) |  |  | 1.10% |
-| 54 min | EUR | PPI (YoY) (Apr) |  | -5.1% | -7.8% |
-| 54 min | EUR | PPI (MoM) (Apr) |  | -0.6% | -0.4% |
+| 10:00 | GBP | 3-Year Treasury Gilt Auction |  |  | 4.204% |
+| 10:00 | EUR | German Car Registration (YoY) |  |  | 19.8% |
+| 10:00 | NOK | House Price Index (YoY) (May) |  |  | 1.10% |
+| 10:00 | EUR | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
+| 10:00 | EUR | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.05% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -5.7% |
 | 12:00 | USD | MBA Purchase Index |  |  | 138.4 |

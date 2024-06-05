@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | AUD | Low | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -12,8 +12,8 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 53.8 | 53.6 | 54.3 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
@@ -34,15 +34,15 @@
 | 09:00 | GBP | Low | Car Registration (YoY) | 1.7% |  | 1.0% |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (May) | 52.2 | 52.3 | 51.7 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (May) | 53.2 | 53.3 | 53.3 |
-| 19 min | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
-| 24 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI (May) |  | 52.8 | 54.1 |
-| 24 min | GBP | Moderate | S&P Global/CIPS UK Services PMI (May) |  | 52.9 | 55.0 |
-| 54 min | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.204% |
-| 54 min | EUR | Low | German Car Registration (YoY) |  |  | 19.8% |
-| 54 min | NOK | Low | House Price Index (YoY) (May) |  |  | 1.10% |
-| 54 min | EUR | Low | PPI (YoY) (Apr) |  | -5.1% | -7.8% |
-| 54 min | EUR | Low | PPI (MoM) (Apr) |  | -0.6% | -0.4% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:25 | EUR | Moderate | ECB's Supervisory Board Member Jochnick Speaks |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (May) | 53.0 | 52.8 | 54.1 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (May) | 52.9 | 52.9 | 55.0 |
+| 10:00 | GBP | Low | 3-Year Treasury Gilt Auction |  |  | 4.204% |
+| 10:00 | EUR | Low | German Car Registration (YoY) |  |  | 19.8% |
+| 10:00 | NOK | Low | House Price Index (YoY) (May) |  |  | 1.10% |
+| 10:00 | EUR | Low | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
+| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.05% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.7% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 138.4 |
