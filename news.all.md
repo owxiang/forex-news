@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | AUD | Low | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -43,17 +43,17 @@
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.505% |  | 4.204% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.05% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -5.7% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 138.4 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 190.3 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 463.8 |
-| 54 min | CAD | Low | Leading Index (MoM) (May) |  |  | 0.19% |
-| 54 min | EUR | Low | German Car Registration (YoY) |  |  | 19.8% |
-| 13:00 | MXN | Low | Consumer Confidence |  |  | 47.3 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.7 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.3% | 0.9% |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 8.3% | -2.8% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.07% |  | 7.05% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -5.2% |  | -5.7% |
+| 12:00 | USD | Low | MBA Purchase Index | 132.3 |  | 138.4 |
+| 12:00 | USD | Low | Mortgage Market Index | 180.4 |  | 190.3 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 432.1 |  | 463.8 |
+| 12:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.19% |
+| 12:00 | EUR | Low | German Car Registration (YoY) |  |  | 19.8% |
+| 55 min | MXN | Low | Consumer Confidence |  |  | 47.3 |
+| 55 min | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.7 |
+| 55 min | BRL | Low | Industrial Production (MoM) (Apr) |  | 0.3% | 0.9% |
+| 55 min | BRL | Moderate | Industrial Production (YoY) (Apr) |  | 8.3% | -2.8% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (May) |  | 173K | 192K |
 | 13:15 | CAD | Low | Reserve Assets Total (May) |  |  | 121.0B |
 | 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | -0.2% | 0.4% |

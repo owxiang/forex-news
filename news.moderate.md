@@ -16,7 +16,7 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI (May) | 53.0 | 52.8 | 54.1 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI (May) | 52.9 | 52.9 | 55.0 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | BRL | Industrial Production (YoY) (Apr) |  | 8.3% | -2.8% |
+| 55 min | BRL | Industrial Production (YoY) (Apr) |  | 8.3% | -2.8% |
 | 13:30 | CAD | Labor Productivity (QoQ) (Q1) |  | -0.2% | 0.4% |
 | 14:45 | USD | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |

@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | AUD | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -29,16 +29,16 @@
 | 10:00 | EUR | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
 | 10:00 | EUR | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
 | 10:10 | GBP | 3-Year Treasury Gilt Auction | 4.505% |  | 4.204% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.05% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.7% |
-| 54 min | USD | MBA Purchase Index |  |  | 138.4 |
-| 54 min | USD | Mortgage Market Index |  |  | 190.3 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 463.8 |
-| 54 min | CAD | Leading Index (MoM) (May) |  |  | 0.19% |
-| 54 min | EUR | German Car Registration (YoY) |  |  | 19.8% |
-| 13:00 | MXN | Consumer Confidence |  |  | 47.3 |
-| 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 47.7 |
-| 13:00 | BRL | Industrial Production (MoM) (Apr) |  | 0.3% | 0.9% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.07% |  | 7.05% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -5.2% |  | -5.7% |
+| 12:00 | USD | MBA Purchase Index | 132.3 |  | 138.4 |
+| 12:00 | USD | Mortgage Market Index | 180.4 |  | 190.3 |
+| 12:00 | USD | Mortgage Refinance Index | 432.1 |  | 463.8 |
+| 12:00 | CAD | Leading Index (MoM) (May) |  |  | 0.19% |
+| 12:00 | EUR | German Car Registration (YoY) |  |  | 19.8% |
+| 55 min | MXN | Consumer Confidence |  |  | 47.3 |
+| 55 min | MXN | Consumer Confidence n.s.a. |  |  | 47.7 |
+| 55 min | BRL | Industrial Production (MoM) (Apr) |  | 0.3% | 0.9% |
 | 13:15 | CAD | Reserve Assets Total (May) |  |  | 121.0B |
 | 14:00 | BRL | S&P Global Composite PMI (May) |  |  | 54.8 |
 | 14:00 | BRL | S&P Global Services PMI (May) |  |  | 53.7 |
