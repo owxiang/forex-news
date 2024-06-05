@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
 | 00:00 | AUD | Low | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -12,8 +12,8 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 53.8 | 53.6 | 54.3 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
-| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
+| 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
@@ -39,8 +39,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (May) | 52.9 | 52.9 | 55.0 |
 | 10:00 | GBP | Low | United Kingdom New Passenger Cars Registration (May) | 147,678.0 |  | 134,274.0 |
 | 10:00 | NOK | Low | House Price Index (YoY) (May) | 1.70% |  | 1.10% |
-| 10:00 | EUR | Low | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
 | 10:00 | EUR | Low | PPI (YoY) (Apr) | -5.7% | -5.1% | -7.8% |
+| 10:00 | EUR | Low | PPI (MoM) (Apr) | -1.0% | -0.6% | -0.5% |
 | 10:10 | GBP | Low | 3-Year Treasury Gilt Auction | 4.505% |  | 4.204% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 7.07% |  | 7.05% |
@@ -79,5 +79,5 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | 2.6% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.102M | 2.600M | 2.022M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| Tentative | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 1.529B |  | 0.632B |
 | 21:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
