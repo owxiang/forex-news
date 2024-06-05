@@ -19,10 +19,10 @@
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 54.0 | 52.5 | 52.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (May) | 60.2 | 61.4 | 60.8 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | -2.7% |  | -0.8% |
-| 54 min | NOK | Low | Current Account (Q1) |  |  | 235.3B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
+| 07:00 | NOK | Low | Current Account (Q1) | 249.0B |  | 243.4B |
+| 38 min | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) |  | 56.5 | 56.2 |
 | 08:15 | ZAR | Low | S&P Global South Africa PMI (May) |  |  | 50.3 |
 | 08:45 | EUR | Low | HCOB Italy Composite PMI (May) |  |  | 52.6 |

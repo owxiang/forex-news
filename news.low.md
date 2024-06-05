@@ -15,10 +15,10 @@
 | 02:30 | AUD | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
 | 06:00 | INR | HSBC India Services PMI (May) | 60.2 | 61.4 | 60.8 |
-| 06:00 | SGD | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
 | 06:00 | SGD | Retail Sales (MoM) (Apr) | -2.7% |  | -0.8% |
-| 54 min | NOK | Current Account (Q1) |  |  | 235.3B |
-| 07:45 | EUR | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
+| 06:00 | SGD | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
+| 07:00 | NOK | Current Account (Q1) | 249.0B |  | 243.4B |
+| 38 min | EUR | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
 | 08:15 | ZAR | S&P Global South Africa PMI (May) |  |  | 50.3 |
 | 08:45 | EUR | HCOB Italy Composite PMI (May) |  |  | 52.6 |
 | 08:50 | EUR | HCOB France Composite PMI (May) |  | 49.1 | 50.5 |
