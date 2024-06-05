@@ -52,4 +52,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.362M |  | -0.211M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | 2.6% |
 | 15:30 | USD | Gasoline Inventories | 2.102M | 2.600M | 2.022M |
-| 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
+| Tentative | BRL | Trade Balance (May) |  | 8.55B | 9.04B |

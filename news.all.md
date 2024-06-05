@@ -79,5 +79,5 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.1% |  | 2.6% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.102M | 2.600M | 2.022M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
+| Tentative | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
