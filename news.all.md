@@ -2,26 +2,26 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.2% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.6% |
-| 00:00 | AUD | Low | AIG Construction Index (May) |  |  | -25.6 |
+| 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.2% |
+| 00:00 | AUD | Low | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
-| 00:00 | AUD | Low | Judo Bank Australia Services PMI |  | 53.1 | 53.6 |
-| 24 min | JPY | Low | Average Cash Earnings (YoY) |  | 1.7% | 0.6% |
-| 24 min | JPY | Low | Overall wage income of employees (Apr) |  |  | 1.0% |
-| 24 min | JPY | Low | Overtime Pay (YoY) (Apr) |  |  | -0.50% |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) |  | 53.6 | 53.6 |
-| 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) |  |  | 50.6 |
+| 00:00 | AUD | Low | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
+| 00:30 | JPY | Low | Average Cash Earnings (YoY) | 2.1% | 1.7% | 1.0% |
+| 00:30 | JPY | Low | Overall wage income of employees (Apr) | 2.1% |  | 1.0% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
+| 00:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 52.5 | 53.6 | 54.3 |
+| 9 min | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) |  |  | 50.6 |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 1.2% | 1.5% |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q1) |  | 0.2% | 0.2% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) |  | 1.2% | 1.5% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) |  |  | -0.2% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) |  |  | 2.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) |  |  | 0.2% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) |  | 52.6 | 52.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (May) |  | 61.4 | 60.8 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -1.0% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) |  |  | 2.7% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) |  |  | -1.0% |
 | 07:00 | NOK | Low | Current Account (Q1) |  |  | 235.3B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) |  | 56.5 | 56.2 |

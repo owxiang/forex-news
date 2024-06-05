@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.2% |
 | 00:00 | KRW | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.6% |
-| 00:00 | AUD | AIG Construction Index (May) |  |  | -25.6 |
+| 00:00 | KRW | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.2% |
+| 00:00 | AUD | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
-| 00:00 | AUD | Judo Bank Australia Services PMI |  | 53.1 | 53.6 |
-| 24 min | JPY | Average Cash Earnings (YoY) |  | 1.7% | 0.6% |
-| 24 min | JPY | Overall wage income of employees (Apr) |  |  | 1.0% |
-| 24 min | JPY | Overtime Pay (YoY) (Apr) |  |  | -0.50% |
-| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (May) |  |  | 50.6 |
+| 00:00 | AUD | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
+| 00:30 | JPY | Average Cash Earnings (YoY) | 2.1% | 1.7% | 1.0% |
+| 00:30 | JPY | Overall wage income of employees (Apr) | 2.1% |  | 1.0% |
+| 00:30 | JPY | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
+| 9 min | HKD | S&P Global Hong Kong Manufacturing PMI (May) |  |  | 50.6 |
 | 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 02:30 | AUD | GDP Capital Expenditure (Q1) |  |  | -0.2% |
 | 02:30 | AUD | GDP Chain Price Index (Q1) |  |  | 2.0% |
 | 02:30 | AUD | GDP Final Consumption (Q1) |  |  | 0.2% |
 | 06:00 | INR | HSBC India Services PMI (May) |  | 61.4 | 60.8 |
-| 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | -1.0% |
 | 06:00 | SGD | Retail Sales (YoY) (Apr) |  |  | 2.7% |
+| 06:00 | SGD | Retail Sales (MoM) (Apr) |  |  | -1.0% |
 | 07:00 | NOK | Current Account (Q1) |  |  | 235.3B |
 | 07:45 | EUR | French Industrial Production (MoM) (Apr) |  | 0.3% | -0.3% |
 | 08:15 | ZAR | S&P Global South Africa PMI (May) |  |  | 50.3 |
