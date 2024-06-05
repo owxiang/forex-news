@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
 | 00:00 | KRW | Low | GDP (YoY) (Q1) | 3.3% | 3.4% | 2.1% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q1) | 1.3% | 1.3% | 0.5% |
 | 00:00 | AUD | Low | AIG Construction Index (May) | -68.1 |  | -25.6 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (May) | -31.1 |  | -13.9 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 52.5 | 53.1 | 53.6 |
@@ -12,15 +12,15 @@
 | 00:30 | JPY | Low | Overtime Pay (YoY) (Apr) | -0.60% |  | -0.50% |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (May) | 53.8 | 53.6 | 54.3 |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (May) | 49.2 |  | 50.6 |
-| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
 | 02:30 | AUD | Moderate | GDP (QoQ) (Q1) | 0.1% | 0.2% | 0.3% |
+| 02:30 | AUD | Moderate | GDP (YoY) (Q1) | 1.1% | 1.2% | 1.6% |
 | 02:30 | AUD | Low | GDP Capital Expenditure (Q1) | -0.9% |  | -0.2% |
 | 02:30 | AUD | Low | GDP Chain Price Index (Q1) | 0.8% |  | 2.0% |
 | 02:30 | AUD | Low | GDP Final Consumption (Q1) | 0.6% |  | 0.5% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (May) | 54.0 | 52.5 | 52.5 |
 | 06:00 | INR | Low | HSBC India Services PMI (May) | 60.2 | 61.4 | 60.8 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | -2.7% |  | -0.8% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (Apr) | -1.2% |  | 2.8% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (Apr) | -2.7% |  | -0.8% |
 | 07:00 | NOK | Low | Current Account (Q1) | 249.0B |  | 243.4B |
 | 07:45 | EUR | Low | French Industrial Production (MoM) (Apr) | 0.5% | 0.3% | -0.2% |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (May) | 56.9 | 56.5 | 56.2 |
@@ -51,24 +51,24 @@
 | 12:00 | CAD | Low | Leading Index (MoM) (May) | 0.19% |  | 0.19% |
 | 12:30 | EUR | Low | German Car Registration (YoY) | -4.3% |  | 19.8% |
 | 13:00 | MXN | Low | Consumer Confidence | 46.7 |  | 47.2 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 47.7 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | -0.5% | 0.3% | 0.9% |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. | 46.7 |  | 47.7 |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (Apr) | 8.4% | 8.3% | -2.8% |
-| 7 min | USD | High | ADP Nonfarm Employment Change (May) |  | 173K | 192K |
-| 7 min | CAD | Low | Reserve Assets Total (May) |  |  | 121.0B |
-| 22 min | CAD | Moderate | Labor Productivity (QoQ) (Q1) |  | -0.2% | 0.4% |
-| 52 min | BRL | Low | S&P Global Composite PMI (May) |  |  | 54.8 |
-| 52 min | BRL | Low | S&P Global Services PMI (May) |  |  | 53.7 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
-| 14:45 | USD | High | S&P Global Services PMI (May) |  | 54.8 | 51.3 |
-| 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
-| 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.75% | 5.00% |
-| 15:00 | USD | Low | ISM Non-Manufacturing Business Activity (May) |  |  | 50.9 |
-| 15:00 | USD | Moderate | ISM Non-Manufacturing Employment (May) |  |  | 45.9 |
-| 15:00 | USD | Low | ISM Non-Manufacturing New Orders (May) |  |  | 52.2 |
-| 15:00 | USD | High | ISM Non-Manufacturing PMI (May) |  | 51.0 | 49.4 |
-| 15:00 | USD | High | ISM Non-Manufacturing Prices (May) |  |  | 59.2 |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
+| 13:00 | BRL | Low | Industrial Production (MoM) (Apr) | -0.5% | 0.3% | 0.9% |
+| 13:15 | USD | High | ADP Nonfarm Employment Change (May) | 152K | 173K | 188K |
+| 13:15 | CAD | Low | Reserve Assets Total (May) | 122.8B |  | 121.0B |
+| 13:30 | CAD | Moderate | Labor Productivity (QoQ) (Q1) | -0.3% | -0.2% | 0.2% |
+| 14:00 | BRL | Low | S&P Global Composite PMI (May) | 54.0 |  | 54.8 |
+| 14:00 | BRL | Low | S&P Global Services PMI (May) | 55.3 |  | 53.7 |
+| 38 min | USD | Moderate | S&P Global Composite PMI (May) |  | 54.4 | 51.3 |
+| 38 min | USD | High | S&P Global Services PMI (May) |  | 54.8 | 51.3 |
+| 38 min | CAD | Moderate | BoC Rate Statement |  |  |  |
+| 38 min | CAD | High | BoC Interest Rate Decision |  | 4.75% | 5.00% |
+| 53 min | USD | Low | ISM Non-Manufacturing Business Activity (May) |  |  | 50.9 |
+| 53 min | USD | Moderate | ISM Non-Manufacturing Employment (May) |  |  | 45.9 |
+| 53 min | USD | Low | ISM Non-Manufacturing New Orders (May) |  |  | 52.2 |
+| 53 min | USD | High | ISM Non-Manufacturing PMI (May) |  | 51.0 | 49.4 |
+| 53 min | USD | High | ISM Non-Manufacturing Prices (May) |  |  | 59.2 |
+| 53 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.74M |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.100M | -4.156M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.601M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.611M |
