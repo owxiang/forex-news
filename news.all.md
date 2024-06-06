@@ -22,8 +22,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) | 38.5 |  | 37.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 43.4 |  | 41.5 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 42.9 |  | 41.9 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | -0.1% | 0.3% | -0.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | -1.9% |  | 1.9% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | -0.1% | 0.3% | -0.2% |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (May) | 54.7 | 52.5 | 53.0 |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.05% |  | 3.03% |
 | 10:00 | EUR | Low | French 15-Year OAT Auction | 3.21% |  | 3.09% |
@@ -62,7 +62,7 @@
 | 15:30 | USD | Low | Natural Gas Storage | 98B | 89B | 84B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.265% |  | 5.275% |
-| 53 min | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
+| 19:00 | BRL | Low | Trade Balance (May) | 8.53B | 8.55B | 9.04B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,284B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
