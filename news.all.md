@@ -63,6 +63,6 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.265% |  | 5.275% |
 | 19:00 | BRL | Low | Trade Balance (May) | 8.53B | 8.55B | 8.69B |
-| 23 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,284B |
-| 23 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,256B |  | 7,284B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.458T |  | 3.391T |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |

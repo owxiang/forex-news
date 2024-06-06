@@ -21,4 +21,4 @@
 | 15:00 | CAD | Ivey PMI (May) | 52.0 | 65.2 | 63.0 |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 15:20 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 1.8% | 1.8% |
-| 23 min | USD | Fed's Balance Sheet |  |  | 7,284B |
+| 21:30 | USD | Fed's Balance Sheet | 7,256B |  | 7,284B |

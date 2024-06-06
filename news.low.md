@@ -40,5 +40,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction | 5.265% |  | 5.275% |
 | 19:00 | BRL | Trade Balance (May) | 8.53B | 8.55B | 8.69B |
-| 23 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.458T |  | 3.391T |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
