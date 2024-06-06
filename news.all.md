@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -297.9B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 82.4B |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.5% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 1,323.4B |  | -310.4B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 282.0B |  | 82.4B |
+| 39 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.5% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) |  |  | 1.9% |
 | 02:30 | AUD | Low | Exports (MoM) |  |  | 0.1% |
 | 02:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.8% |
@@ -22,8 +22,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 37.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 41.5 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 41.9 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | 2.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (May) |  | 52.5 | 53.0 |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.03% |
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 3.09% |
@@ -32,13 +32,13 @@
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  |  | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  |  | 1.0% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 168,055.8K |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 0.1% | 0.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) |  | -0.2% | 0.8% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 0.1% | 0.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) |  |  | -165.5B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | -2.30% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
 | 13:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.19% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
