@@ -22,8 +22,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) | 38.5 |  | 37.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) | 43.4 |  | 41.5 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) | 42.9 |  | 41.9 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | -0.1% | 0.3% | -0.2% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) | -1.9% |  | 1.9% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) | -0.1% | 0.3% | -0.2% |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (May) | 54.7 | 52.5 | 53.0 |
 | 10:00 | EUR | Low | French 10-Year OAT Auction | 3.05% |  | 3.03% |
 | 10:00 | EUR | Low | French 15-Year OAT Auction | 3.21% |  | 3.09% |
@@ -36,28 +36,28 @@
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
-| 7 min | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
-| 7 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
-| 7 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 7 min | EUR | High | ECB Interest Rate Decision (Jun) |  | 4.25% | 4.50% |
-| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,791K |
-| 22 min | USD | Moderate | Exports |  |  | 257.60B |
-| 22 min | USD | Moderate | Imports |  |  | 327.00B |
-| 22 min | USD | High | Initial Jobless Claims |  | 220K | 219K |
-| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.50K |
-| 22 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.3% | 3.2% |
-| 22 min | USD | Moderate | Trade Balance (Apr) |  | -76.20B | -69.40B |
-| 22 min | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 4.7% | 0.4% |
-| 22 min | CAD | Low | Exports (Apr) |  |  | 62.56B |
-| 22 min | CAD | Low | Imports (Apr) |  |  | 64.84B |
-| 22 min | CAD | Moderate | Trade Balance (Apr) |  | -1.20B | -2.28B |
-| 37 min | EUR | High | ECB Press Conference |  |  |  |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (May) |  |  | 65.7 |
-| 15:00 | CAD | Moderate | Ivey PMI (May) |  | 65.2 | 63.0 |
-| 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | 13.5% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | 17.6% |
+| 12:30 | USD | Low | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 13:15 | EUR | High | Deposit Facility Rate (Jun) | 3.75% | 3.75% | 4.00% |
+| 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.50% | 4.50% | 4.75% |
+| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 13:15 | EUR | High | ECB Interest Rate Decision (Jun) | 4.25% | 4.25% | 4.50% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,792K | 1,790K | 1,790K |
+| 13:30 | USD | Moderate | Exports (Apr) | 263.70B |  | 257.60B |
+| 13:30 | USD | Moderate | Imports (Apr) | 338.20B |  | 327.00B |
+| 13:30 | USD | High | Initial Jobless Claims | 229K | 220K | 221K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 222.25K |  | 223.00K |
+| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) | 0.2% | 0.3% | 3.2% |
+| 13:30 | USD | Moderate | Trade Balance (Apr) | -74.60B | -76.20B | -68.60B |
+| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) | 4.0% | 4.7% | 0.4% |
+| 13:30 | CAD | Low | Exports (Apr) | 64.45B |  | 62.81B |
+| 13:30 | CAD | Low | Imports (Apr) | 65.50B |  | 64.80B |
+| 13:30 | CAD | Moderate | Trade Balance (Apr) | -1.05B | -1.20B | -1.99B |
+| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 53 min | CAD | Low | Ivey PMI n.s.a (May) |  |  | 65.7 |
+| 53 min | CAD | Moderate | Ivey PMI (May) |  | 65.2 | 63.0 |
+| 53 min | BRL | Low | Auto Production (MoM) (May) |  |  | 13.5% |
+| 53 min | BRL | Low | Auto Sales (MoM) (May) |  |  | 17.6% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.8% | 1.8% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 89B | 84B |
