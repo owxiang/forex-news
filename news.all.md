@@ -5,13 +5,13 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,323.4B |  | -310.4B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 282.0B |  | 82.4B |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.1% |  | 0.5% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) |  |  | 1.9% |
-| 02:30 | AUD | Low | Exports (MoM) |  |  | 0.1% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) | -0.3% |  | 1.9% |
+| 02:30 | AUD | Low | Exports (MoM) | -2.5% |  | -0.6% |
 | 02:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.8% |
-| 02:30 | AUD | Low | Imports (MoM) |  |  | 4.2% |
-| 02:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 3.8% |
-| 02:30 | AUD | Low | Private House Approvals |  | -1.6% | 3.8% |
-| 02:30 | AUD | Moderate | Trade Balance |  | 5.370B | 5.024B |
+| 02:30 | AUD | Low | Imports (MoM) | -7.2% |  | 4.2% |
+| 02:30 | AUD | Low | Invest Housing Finance (MoM) | 5.6% |  | 3.8% |
+| 02:30 | AUD | Low | Private House Approvals | -1.6% | -1.6% | 3.8% |
+| 02:30 | AUD | Moderate | Trade Balance | 6.548B | 5.370B | 4.841B |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
 | 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.992% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
@@ -22,8 +22,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 37.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 41.5 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 41.9 |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | 2.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | 2.0% |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (May) |  | 52.5 | 53.0 |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.03% |
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 3.09% |
@@ -37,8 +37,8 @@
 | 10:00 | ZAR | Low | Current Account (Q1) |  |  | -165.5B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | -2.30% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
 | 13:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.19% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
