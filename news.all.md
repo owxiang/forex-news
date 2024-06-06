@@ -36,8 +36,8 @@
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
-| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
+| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
+| 24 min | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
