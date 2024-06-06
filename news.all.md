@@ -4,7 +4,7 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Foreign Bonds Buying | 1,323.4B |  | -310.4B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 282.0B |  | 82.4B |
-| 39 min | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 0.5% |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.1% |  | 0.5% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) |  |  | 1.9% |
 | 02:30 | AUD | Low | Exports (MoM) |  |  | 0.1% |
 | 02:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.8% |
