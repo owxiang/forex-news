@@ -19,6 +19,6 @@
 | 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 4.0% | 4.7% | 0.4% |
 | 13:30 | CAD | Trade Balance (Apr) | -1.05B | -1.20B | -1.99B |
 | 15:00 | CAD | Ivey PMI (May) | 52.0 | 65.2 | 63.0 |
-| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
-| 24 min | USD | Atlanta Fed GDPNow (Q2) |  | 1.8% | 1.8% |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:20 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 1.8% | 1.8% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,284B |
