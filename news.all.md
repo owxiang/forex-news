@@ -29,15 +29,15 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction | 3.21% |  | 3.09% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.46% |  | 3.47% |
 | 10:00 | EUR | Low | French Car Registration (YoY) | -2.9% |  | 10.9% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | -0.5% | -0.2% | 0.7% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -84.6B |  | -162.9B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 13:00 | CAD | Low | Leading Index (MoM) (May) | 0.15% |  | 0.17% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) | 3.75% | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.50% | 4.50% | 4.75% |
@@ -62,7 +62,7 @@
 | 15:30 | USD | Low | Natural Gas Storage | 98B | 89B | 84B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.265% |  | 5.275% |
-| 19:00 | BRL | Low | Trade Balance (May) | 8.53B | 8.55B | 9.04B |
+| 19:00 | BRL | Low | Trade Balance (May) | 8.53B | 8.55B | 8.69B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,284B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
 | 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
