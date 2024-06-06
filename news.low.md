@@ -23,21 +23,19 @@
 | 10:00 | EUR | French 15-Year OAT Auction | 3.21% |  | 3.09% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.46% |  | 3.47% |
 | 10:00 | EUR | French Car Registration (YoY) | -2.9% |  | 10.9% |
-| 10:00 | EUR | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
 | 10:00 | EUR | Retail Sales (MoM) (Apr) | -0.5% | -0.2% | 0.7% |
+| 10:00 | EUR | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
 | 10:00 | ZAR | Current Account (Q1) | -84.6B |  | -162.9B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
 | 10:30 | EUR | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 12:30 | USD | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 222.25K |  | 223.00K |
 | 13:30 | CAD | Exports (Apr) | 64.45B |  | 62.81B |
 | 13:30 | CAD | Imports (Apr) | 65.50B |  | 64.80B |
-| 53 min | CAD | Ivey PMI n.s.a (May) |  |  | 65.7 |
-| 53 min | BRL | Auto Production (MoM) (May) |  |  | 13.5% |
-| 53 min | BRL | Auto Sales (MoM) (May) |  |  | 17.6% |
-| 15:30 | USD | Natural Gas Storage |  | 89B | 84B |
+| 15:00 | CAD | Ivey PMI n.s.a (May) | 59.1 |  | 65.7 |
+| 24 min | USD | Natural Gas Storage |  | 89B | 84B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.855B |

@@ -29,15 +29,15 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction | 3.21% |  | 3.09% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.46% |  | 3.47% |
 | 10:00 | EUR | Low | French Car Registration (YoY) | -2.9% |  | 10.9% |
-| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | -0.5% | -0.2% | 0.7% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -84.6B |  | -162.9B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) | 3.75% | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility | 4.50% | 4.50% | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
@@ -54,13 +54,11 @@
 | 13:30 | CAD | Low | Imports (Apr) | 65.50B |  | 64.80B |
 | 13:30 | CAD | Moderate | Trade Balance (Apr) | -1.05B | -1.20B | -1.99B |
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 53 min | CAD | Low | Ivey PMI n.s.a (May) |  |  | 65.7 |
-| 53 min | CAD | Moderate | Ivey PMI (May) |  | 65.2 | 63.0 |
-| 53 min | BRL | Low | Auto Production (MoM) (May) |  |  | 13.5% |
-| 53 min | BRL | Low | Auto Sales (MoM) (May) |  |  | 17.6% |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.8% | 1.8% |
-| 15:30 | USD | Low | Natural Gas Storage |  | 89B | 84B |
+| 15:00 | CAD | Low | Ivey PMI n.s.a (May) | 59.1 |  | 65.7 |
+| 15:00 | CAD | Moderate | Ivey PMI (May) | 52.0 | 65.2 | 63.0 |
+| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.8% | 1.8% |
+| 24 min | USD | Low | Natural Gas Storage |  | 89B | 84B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.855B |
