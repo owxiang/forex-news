@@ -84,8 +84,6 @@ def scrape_forex_events():
         'Low': {'events': [], 'table': headers['Impact'], 'filename': 'table_for_low_readme.txt', 'impact': 'Low', 'name': 'Low Impact'}
     }
     
-    high_impact_message_sent = False
-    
     for event_row in event_rows:
         event_data = process_event_row(event_row)
         if event_data:
@@ -102,14 +100,6 @@ def scrape_forex_events():
             content_dict[impact_level]['events'].append(event_data)  
             content_dict['All']['events'].append(event_data)  
             
-            current_hour = datetime.now().hour # GMT+0
-            
-            if impact_level == "High" and not high_impact_message_sent and current_hour == 1:
-                send_telegram(f"There is high impact news today. [See more](https://github.com/owxiang/forex-news/blob/main/news.high.md)")
-                high_impact_message_sent = True
-            elif impact_level == "High" and not high_impact_message_sent and current_hour == 23:
-                send_telegram(f"See [results](https://github.com/owxiang/forex-news/blob/main/news.high.md) of high impact news today.")
-                high_impact_message_sent = True
                 
     for key, value in content_dict.items():
         if key == 'All':
