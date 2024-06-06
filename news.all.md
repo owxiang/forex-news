@@ -33,9 +33,11 @@
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) | -0.5% | -0.2% | 0.7% |
 | 10:00 | ZAR | Low | Current Account (Q1) | -84.6B |  | -162.9B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
-| 53 min | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
+| 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
+| 10:30 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
+| 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
 | 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |

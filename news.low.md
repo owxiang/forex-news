@@ -27,8 +27,10 @@
 | 10:00 | EUR | Retail Sales (MoM) (Apr) | -0.5% | -0.2% | 0.7% |
 | 10:00 | ZAR | Current Account (Q1) | -84.6B |  | -162.9B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
-| 12:30 | USD | Challenger Job Cuts (May) |  |  | 64.789K |
+| 10:30 | EUR | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
+| 10:30 | EUR | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -3.3% |
+| 12:30 | USD | Challenger Job Cuts (May) |  |  | 64.789K |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 222.50K |
 | 13:30 | CAD | Exports (Apr) |  |  | 62.56B |
 | 13:30 | CAD | Imports (Apr) |  |  | 64.84B |
