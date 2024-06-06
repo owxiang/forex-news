@@ -36,24 +36,24 @@
 | 10:30 | EUR | Low | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Low | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 24 min | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
-| 24 min | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
-| 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Jun) |  | 4.25% | 4.50% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,791K |
-| 13:30 | USD | Moderate | Exports |  |  | 257.60B |
-| 13:30 | USD | Moderate | Imports |  |  | 327.00B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 220K | 219K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.50K |
-| 13:30 | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.3% | 3.2% |
-| 13:30 | USD | Moderate | Trade Balance (Apr) |  | -76.20B | -69.40B |
-| 13:30 | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 4.7% | 0.4% |
-| 13:30 | CAD | Low | Exports (Apr) |  |  | 62.56B |
-| 13:30 | CAD | Low | Imports (Apr) |  |  | 64.84B |
-| 13:30 | CAD | Moderate | Trade Balance (Apr) |  | -1.20B | -2.28B |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
+| 12:30 | USD | Low | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
+| 7 min | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
+| 7 min | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
+| 7 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 7 min | EUR | High | ECB Interest Rate Decision (Jun) |  | 4.25% | 4.50% |
+| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,790K | 1,791K |
+| 22 min | USD | Moderate | Exports |  |  | 257.60B |
+| 22 min | USD | Moderate | Imports |  |  | 327.00B |
+| 22 min | USD | High | Initial Jobless Claims |  | 220K | 219K |
+| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.50K |
+| 22 min | USD | Moderate | Nonfarm Productivity (QoQ) (Q1) |  | 0.3% | 3.2% |
+| 22 min | USD | Moderate | Trade Balance (Apr) |  | -76.20B | -69.40B |
+| 22 min | USD | Moderate | Unit Labor Costs (QoQ) (Q1) |  | 4.7% | 0.4% |
+| 22 min | CAD | Low | Exports (Apr) |  |  | 62.56B |
+| 22 min | CAD | Low | Imports (Apr) |  |  | 64.84B |
+| 22 min | CAD | Moderate | Trade Balance (Apr) |  | -1.20B | -2.28B |
+| 37 min | EUR | High | ECB Press Conference |  |  |  |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (May) |  |  | 65.7 |
 | 15:00 | CAD | Moderate | Ivey PMI (May) |  | 65.2 | 63.0 |
 | 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | 13.5% |

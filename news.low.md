@@ -29,11 +29,11 @@
 | 10:00 | ZAR | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
 | 10:30 | EUR | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
 | 10:30 | EUR | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
-| 24 min | USD | Challenger Job Cuts (YoY) |  |  | -3.3% |
-| 24 min | USD | Challenger Job Cuts (May) |  |  | 64.789K |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 222.50K |
-| 13:30 | CAD | Exports (Apr) |  |  | 62.56B |
-| 13:30 | CAD | Imports (Apr) |  |  | 64.84B |
+| 12:30 | USD | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 12:30 | USD | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
+| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 222.50K |
+| 22 min | CAD | Exports (Apr) |  |  | 62.56B |
+| 22 min | CAD | Imports (Apr) |  |  | 64.84B |
 | 15:00 | CAD | Ivey PMI n.s.a (May) |  |  | 65.7 |
 | 15:00 | BRL | Auto Production (MoM) (May) |  |  | 13.5% |
 | 15:00 | BRL | Auto Sales (MoM) (May) |  |  | 17.6% |
