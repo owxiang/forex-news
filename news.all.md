@@ -65,4 +65,4 @@
 | 19:00 | BRL | Low | Trade Balance (May) | 8.53B | 8.55B | 8.69B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 7,256B |  | 7,284B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.458T |  | 3.391T |
-| 23:45 | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
+| 40 min | NZD | Low | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
