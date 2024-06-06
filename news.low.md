@@ -1,44 +1,62 @@
-## 06 June 2024 - Low Impact Forex News
+## 07 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Foreign Bonds Buying | 1,323.4B |  | -310.4B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 282.0B |  | 82.4B |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 1.1% |  | 0.5% |
-| 02:30 | AUD | Exports (MoM) | -2.5% |  | -0.6% |
-| 02:30 | AUD | Imports (MoM) | -7.2% |  | 4.2% |
-| 02:30 | AUD | Invest Housing Finance (MoM) | 5.6% |  | 3.8% |
-| 02:30 | AUD | Private House Approvals | -1.6% | -1.6% | 3.8% |
-| 04:35 | JPY | 30-Year JGB Auction | 2.156% |  | 1.992% |
-| 06:45 | CHF | Unemployment Rate n.s.a. (May) | 2.3% | 2.3% | 2.3% |
-| 06:45 | CHF | Unemployment Rate s.a. (May) | 2.4% |  | 2.3% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) | 0.8% | 0.8% | -1.3% |
-| 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) | 49.0 |  | 48.5 |
-| 08:30 | EUR | HCOB Germany Construction PMI (May) | 38.5 |  | 37.5 |
-| 08:30 | EUR | HCOB France Construction PMI (MoM) (May) | 43.4 |  | 41.5 |
-| 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) | 42.9 |  | 41.9 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) | -0.1% | 0.3% | -0.2% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (Apr) | -1.9% |  | 1.9% |
-| 10:00 | EUR | French 10-Year OAT Auction | 3.05% |  | 3.03% |
-| 10:00 | EUR | French 15-Year OAT Auction | 3.21% |  | 3.09% |
-| 10:00 | EUR | French 30-Year OAT Auction | 3.46% |  | 3.47% |
-| 10:00 | EUR | French Car Registration (YoY) | -2.9% |  | 10.9% |
-| 10:00 | EUR | Retail Sales (YoY) (Apr) | 0.0% | 0.1% | 0.7% |
-| 10:00 | EUR | Retail Sales (MoM) (Apr) | -0.5% | -0.2% | 0.7% |
-| 10:00 | ZAR | Current Account (Q1) | -84.6B |  | -162.9B |
-| 10:00 | ZAR | Current Account % of GDP (Q1) | -1.20% |  | -2.30% |
-| 10:30 | EUR | Spanish 3-Year Bonos Auction | 3.039% |  | 2.896% |
-| 10:30 | EUR | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
-| 12:30 | USD | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
-| 12:30 | USD | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
-| 13:00 | CAD | Leading Index (MoM) (May) | 0.15% |  | 0.17% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 222.25K |  | 223.00K |
-| 13:30 | CAD | Exports (Apr) | 64.45B |  | 62.81B |
-| 13:30 | CAD | Imports (Apr) | 65.50B |  | 64.80B |
-| 15:00 | CAD | Ivey PMI n.s.a (May) | 59.1 |  | 65.7 |
-| 15:30 | USD | Natural Gas Storage | 98B | 89B | 84B |
-| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
-| 16:30 | USD | 8-Week Bill Auction | 5.265% |  | 5.275% |
-| 19:00 | BRL | Trade Balance (May) | 8.53B | 8.55B | 8.69B |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.458T |  | 3.391T |
-| 40 min | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
+| 44 min | JPY | Foreign Reserves (USD) (May) |  |  | 1,279.0B |
+| 04:00 | CNY | Exports (May) |  |  | 5.10M |
+| 04:00 | CNY | Imports (May) |  |  | 12.20M |
+| 04:00 | CNY | Trade Balance (May) |  | 510.00B | 513.45B |
+| 05:00 | IDR | FX Reserves (USD) (May) |  |  | 136.20B |
+| 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
+| 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  |  | 2.1% |
+| 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | 0.1% |
+| 06:00 | JPY | Leading Index |  | 111.6 | 112.2 |
+| 07:00 | EUR | German Exports (MoM) (Apr) |  | 1.1% | 0.9% |
+| 07:00 | EUR | German Imports (MoM) (Apr) |  | 0.6% | 0.3% |
+| 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -3.35% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Apr) |  |  | 5.4% |
+| 07:00 | ZAR | Foreign Reserves (USD) (May) |  |  | 61.80B |
+| 07:00 | ZAR | Net FX Reserves (USD) (May) |  |  | 57.851B |
+| 07:45 | EUR | French Current Account (Apr) |  |  | 1.30B |
+| 07:45 | EUR | French Exports (Apr) |  |  | 52.2B |
+| 07:45 | EUR | French Imports (Apr) |  |  | 57.7B |
+| 07:45 | EUR | French Reserve Assets Total (May) |  |  | 247,118.0M |
+| 07:45 | EUR | French Trade Balance (Apr) |  | -5.4B | -5.5B |
+| 08:00 | CHF | Foreign Reserves (USD) (May) |  |  | 720.4B |
+| 09:00 | CNY | FX Reserves (USD) (May) |  | 3.210T | 3.201T |
+| 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 416.40B |
+| 10:00 | SGD | Foreign Reserves USD (MoM) |  |  | 366.9B |
+| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
+| 12:30 | INR | FX Reserves, USD |  |  | 646.67B |
+| 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.21% |
+| 13:00 | MXN | Month Core Inflation (MoM) (May) |  |  | 4.37% |
+| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
+| 13:00 | MXN | PPI (MoM) (May) |  |  | 0.60% |
+| 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (May) |  |  | 8.0K |
+| 13:30 | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
+| 13:30 | CAD | Capacity Utilization Rate (Q1) |  | 78.8% | 78.7% |
+| 13:30 | CAD | Full Employment Change (May) |  |  | 40.1K |
+| 13:30 | CAD | Part Time Employment Change (May) |  |  | 50.3K |
+| 13:30 | CAD | Participation Rate (May) |  |  | 65.4% |
+| 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.2% | -0.4% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | -1.3% |
+| 15:00 | BRL | Auto Production (MoM) (May) |  |  | 13.5% |
+| 15:00 | BRL | Auto Sales (MoM) (May) |  |  | 17.6% |
+| 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 65.5K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.6K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -75.4K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 57.2K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -25.9K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -14.4K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -86.6K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 120.9K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -44.4K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 2.0K |

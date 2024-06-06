@@ -1,24 +1,42 @@
-## 06 June 2024 - Moderate Impact Forex News
+## 07 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) | -0.3% |  | 1.9% |
-| 02:30 | AUD | Home Loans (MoM) | 4.3% | 1.2% | 3.5% |
-| 02:30 | AUD | Trade Balance | 6.548B | 5.370B | 4.841B |
-| 02:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
-| 07:00 | EUR | German Factory Orders (MoM) (Apr) | -0.2% | 0.6% | -0.8% |
-| 09:30 | GBP | S&P Global / CIPS UK Construction PMI (May) | 54.7 | 52.5 | 53.0 |
+| 24 min | JPY | Household Spending (YoY) (Apr) |  | 0.6% | -1.2% |
+| 24 min | JPY | Household Spending (MoM) (Apr) |  | 0.2% | 1.2% |
+| 04:00 | CNY | Exports (YoY) (May) |  | 6.0% | 1.5% |
+| 04:00 | CNY | Imports (YoY) (May) |  | 4.2% | 8.4% |
+| 04:00 | CNY | Trade Balance (USD) (May) |  | 70.50B | 72.35B |
+| 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
+| 07:00 | EUR | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |
+| 07:00 | EUR | German Trade Balance (Apr) |  | 22.6B | 22.3B |
+| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
+| 10:00 | EUR | GDP (YoY) |  | 0.4% | 0.1% |
+| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
-| 13:15 | EUR | ECB Marginal Lending Facility | 4.50% | 4.50% | 4.75% |
-| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,792K | 1,790K | 1,790K |
-| 13:30 | USD | Exports (Apr) | 263.70B |  | 257.60B |
-| 13:30 | USD | Imports (Apr) | 338.20B |  | 327.00B |
-| 13:30 | USD | Nonfarm Productivity (QoQ) (Q1) | 0.2% | 0.3% | 3.2% |
-| 13:30 | USD | Trade Balance (Apr) | -74.60B | -76.20B | -68.60B |
-| 13:30 | USD | Unit Labor Costs (QoQ) (Q1) | 4.0% | 4.7% | 0.4% |
-| 13:30 | CAD | Trade Balance (Apr) | -1.05B | -1.20B | -1.99B |
-| 15:00 | CAD | Ivey PMI (May) | 52.0 | 65.2 | 63.0 |
+| 13:00 | MXN | CPI (YoY) (May) |  |  | 4.65% |
+| 13:00 | MXN | CPI (MoM) (May) |  |  | 0.20% |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
+| 13:30 | USD | Participation Rate (May) |  |  | 62.7% |
+| 13:30 | USD | Private Nonfarm Payrolls (May) |  | 170K | 167K |
+| 13:30 | USD | U6 Unemployment Rate (May) |  |  | 7.4% |
+| 13:30 | CAD | Employment Change (May) |  | 27.8K | 90.4K |
+| 13:30 | CAD | Unemployment Rate (May) |  | 6.2% | 6.1% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 15:20 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 1.8% | 1.8% |
-| 21:30 | USD | Fed's Balance Sheet | 7,256B |  | 7,284B |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 600 |
+| 20:00 | USD | Consumer Credit (Apr) |  | 9.30B | 6.27B |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 25.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 243.9K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 236.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | -3.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -2.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -49.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -36.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -156.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 57.6K |
