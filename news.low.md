@@ -31,6 +31,7 @@
 | 10:30 | EUR | Spanish 30-Year Obligacion Auction | 3.853% |  | 3.693% |
 | 12:30 | USD | Challenger Job Cuts (YoY) | -20.3% |  | -3.3% |
 | 12:30 | USD | Challenger Job Cuts (May) | 63.816K |  | 64.789K |
+| 13:00 | CAD | Leading Index (MoM) (May) | 0.15% |  | 0.17% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 222.25K |  | 223.00K |
 | 13:30 | CAD | Exports (Apr) | 64.45B |  | 62.81B |
 | 13:30 | CAD | Imports (Apr) | 65.50B |  | 64.80B |
@@ -38,6 +39,6 @@
 | 15:30 | USD | Natural Gas Storage | 98B | 89B | 84B |
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction | 5.265% |  | 5.275% |
-| 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
+| 53 min | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |
