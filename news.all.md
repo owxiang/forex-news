@@ -7,13 +7,13 @@
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.1% |  | 0.5% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) | -0.3% |  | 1.9% |
 | 02:30 | AUD | Low | Exports (MoM) | -2.5% |  | -0.6% |
-| 02:30 | AUD | Moderate | Home Loans (MoM) |  | 1.2% | 2.8% |
+| 02:30 | AUD | Moderate | Home Loans (MoM) | 4.3% | 1.2% | 3.5% |
 | 02:30 | AUD | Low | Imports (MoM) | -7.2% |  | 4.2% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | 5.6% |  | 3.8% |
 | 02:30 | AUD | Low | Private House Approvals | -1.6% | -1.6% | 3.8% |
 | 02:30 | AUD | Moderate | Trade Balance | 6.548B | 5.370B | 4.841B |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
-| 29 min | JPY | Low | 30-Year JGB Auction |  |  | 1.992% |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 2.156% |  | 1.992% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (May) |  | 2.3% | 2.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | 0.6% | -0.4% |
@@ -29,8 +29,8 @@
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 3.09% |
 | 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.47% |
 | 10:00 | EUR | Low | French Car Registration (YoY) |  |  | 10.9% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  |  | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  |  | 1.0% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  |  | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 168,055.8K |
 | 10:00 | EUR | Low | Retail Sales (MoM) (Apr) |  | -0.2% | 0.8% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (Apr) |  | 0.1% | 0.7% |

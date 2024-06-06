@@ -9,7 +9,7 @@
 | 02:30 | AUD | Imports (MoM) | -7.2% |  | 4.2% |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 5.6% |  | 3.8% |
 | 02:30 | AUD | Private House Approvals | -1.6% | -1.6% | 3.8% |
-| 29 min | JPY | 30-Year JGB Auction |  |  | 1.992% |
+| 04:35 | JPY | 30-Year JGB Auction | 2.156% |  | 1.992% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
 | 06:45 | CHF | Unemployment Rate s.a. (May) |  | 2.3% | 2.3% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  | 0.8% | -1.2% |
@@ -23,8 +23,8 @@
 | 10:00 | EUR | French 15-Year OAT Auction |  |  | 3.09% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.47% |
 | 10:00 | EUR | French Car Registration (YoY) |  |  | 10.9% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  |  | 0.3% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) |  |  | 1.0% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) |  |  | 0.3% |
 | 10:00 | EUR | Employment Overall (Q1) |  | 168,055.8K | 168,055.8K |
 | 10:00 | EUR | Retail Sales (MoM) (Apr) |  | -0.2% | 0.8% |
 | 10:00 | EUR | Retail Sales (YoY) (Apr) |  | 0.1% | 0.7% |

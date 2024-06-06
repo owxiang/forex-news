@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | Building Approvals (MoM) | -0.3% |  | 1.9% |
-| 02:30 | AUD | Home Loans (MoM) |  | 1.2% | 2.8% |
+| 02:30 | AUD | Home Loans (MoM) | 4.3% | 1.2% | 3.5% |
 | 02:30 | AUD | Trade Balance | 6.548B | 5.370B | 4.841B |
 | 02:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
 | 07:00 | EUR | German Factory Orders (MoM) (Apr) |  | 0.6% | -0.4% |
