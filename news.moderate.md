@@ -6,7 +6,7 @@
 | 02:30 | AUD | Home Loans (MoM) | 4.3% | 1.2% | 3.5% |
 | 02:30 | AUD | Trade Balance | 6.548B | 5.370B | 4.841B |
 | 02:30 | JPY | BoJ Board Member Nakamura Speaks |  |  |  |
-| 54 min | EUR | German Factory Orders (MoM) (Apr) |  | 0.6% | -0.4% |
+| 07:00 | EUR | German Factory Orders (MoM) (Apr) | -0.2% | 0.6% | -0.4% |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (May) |  | 52.5 | 53.0 |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.75% |

@@ -14,10 +14,10 @@
 | 02:30 | AUD | Moderate | Trade Balance | 6.548B | 5.370B | 4.841B |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
 | 04:35 | JPY | Low | 30-Year JGB Auction | 2.156% |  | 1.992% |
-| 39 min | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
-| 39 min | CHF | Low | Unemployment Rate s.a. (May) |  | 2.3% | 2.3% |
-| 54 min | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | 0.6% | -0.4% |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (Apr) |  | 0.8% | -1.2% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) | 2.3% | 2.3% | 2.3% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (May) | 2.4% |  | 2.3% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) | -0.2% | 0.6% | -0.4% |
+| 53 min | EUR | Low | Spanish Industrial Production (YoY) (Apr) |  | 0.8% | -1.2% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (May) |  |  | 48.5 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 37.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 41.5 |

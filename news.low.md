@@ -10,9 +10,9 @@
 | 02:30 | AUD | Invest Housing Finance (MoM) | 5.6% |  | 3.8% |
 | 02:30 | AUD | Private House Approvals | -1.6% | -1.6% | 3.8% |
 | 04:35 | JPY | 30-Year JGB Auction | 2.156% |  | 1.992% |
-| 39 min | CHF | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
-| 39 min | CHF | Unemployment Rate s.a. (May) |  | 2.3% | 2.3% |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  | 0.8% | -1.2% |
+| 06:45 | CHF | Unemployment Rate n.s.a. (May) | 2.3% | 2.3% | 2.3% |
+| 06:45 | CHF | Unemployment Rate s.a. (May) | 2.4% |  | 2.3% |
+| 53 min | EUR | Spanish Industrial Production (YoY) (Apr) |  | 0.8% | -1.2% |
 | 08:30 | EUR | HCOB Italy Construction PMI (MoM) (May) |  |  | 48.5 |
 | 08:30 | EUR | HCOB Germany Construction PMI (May) |  |  | 37.5 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 41.5 |
