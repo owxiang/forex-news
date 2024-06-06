@@ -36,9 +36,8 @@
 | 13:30 | CAD | Imports (Apr) | 65.50B |  | 64.80B |
 | 15:00 | CAD | Ivey PMI n.s.a (May) | 59.1 |  | 65.7 |
 | 15:30 | USD | Natural Gas Storage | 98B | 89B | 84B |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.275% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.855B |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
+| 16:30 | USD | 8-Week Bill Auction | 5.265% |  | 5.275% |
 | 19:00 | BRL | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
 | 23:45 | NZD | Manufacturing Sales Volume (QoQ) (Q1) |  |  | -0.6% |

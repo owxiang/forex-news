@@ -59,9 +59,8 @@
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:20 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 1.8% | 1.8% |
 | 15:30 | USD | Low | Natural Gas Storage | 98B | 89B | 84B |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.855B |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.265% |  | 5.275% |
 | 19:00 | BRL | Low | Trade Balance (May) |  | 8.55B | 9.04B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,284B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.391T |
