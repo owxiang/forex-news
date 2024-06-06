@@ -9,7 +9,7 @@
 | 02:30 | AUD | Imports (MoM) | -7.2% |  | 4.2% |
 | 02:30 | AUD | Invest Housing Finance (MoM) | 5.6% |  | 3.8% |
 | 02:30 | AUD | Private House Approvals | -1.6% | -1.6% | 3.8% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 1.992% |
+| 29 min | JPY | 30-Year JGB Auction |  |  | 1.992% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
 | 06:45 | CHF | Unemployment Rate s.a. (May) |  | 2.3% | 2.3% |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (Apr) |  | 0.8% | -1.2% |
@@ -17,8 +17,8 @@
 | 08:30 | EUR | HCOB Germany Construction PMI (May) |  |  | 37.5 |
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (May) |  |  | 41.5 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 41.9 |
-| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (Apr) |  |  | 2.0% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
 | 10:00 | EUR | French 10-Year OAT Auction |  |  | 3.03% |
 | 10:00 | EUR | French 15-Year OAT Auction |  |  | 3.09% |
 | 10:00 | EUR | French 30-Year OAT Auction |  |  | 3.47% |
@@ -30,8 +30,8 @@
 | 10:00 | EUR | Retail Sales (YoY) (Apr) |  | 0.1% | 0.7% |
 | 10:00 | ZAR | Current Account (Q1) |  |  | -165.5B |
 | 10:00 | ZAR | Current Account % of GDP (Q1) |  |  | -2.30% |
-| 12:30 | USD | Challenger Job Cuts (May) |  |  | 64.789K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -3.3% |
+| 12:30 | USD | Challenger Job Cuts (May) |  |  | 64.789K |
 | 13:00 | CAD | Leading Index (MoM) (May) |  |  | 0.19% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 222.50K |
 | 13:30 | CAD | Exports (Apr) |  |  | 62.56B |

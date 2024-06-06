@@ -13,7 +13,7 @@
 | 02:30 | AUD | Low | Private House Approvals | -1.6% | -1.6% | 3.8% |
 | 02:30 | AUD | Moderate | Trade Balance | 6.548B | 5.370B | 4.841B |
 | 02:30 | JPY | Moderate | BoJ Board Member Nakamura Speaks |  |  |  |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 1.992% |
+| 29 min | JPY | Low | 30-Year JGB Auction |  |  | 1.992% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (May) |  |  | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (May) |  | 2.3% | 2.3% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (Apr) |  | 0.6% | -0.4% |
@@ -22,8 +22,8 @@
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (May) |  |  | 37.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (May) |  |  | 41.5 |
 | 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (May) |  |  | 41.9 |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (Apr) |  |  | 2.0% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (Apr) |  | 0.3% | 0.0% |
 | 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (May) |  | 52.5 | 53.0 |
 | 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.03% |
 | 10:00 | EUR | Low | French 15-Year OAT Auction |  |  | 3.09% |
@@ -37,8 +37,8 @@
 | 10:00 | ZAR | Low | Current Account (Q1) |  |  | -165.5B |
 | 10:00 | ZAR | Low | Current Account % of GDP (Q1) |  |  | -2.30% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
-| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -3.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (May) |  |  | 64.789K |
 | 13:00 | CAD | Low | Leading Index (MoM) (May) |  |  | 0.19% |
 | 13:15 | EUR | High | Deposit Facility Rate (Jun) |  | 3.75% | 4.00% |
 | 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.75% |
