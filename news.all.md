@@ -49,13 +49,13 @@
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 0.72% |
 | 12:30 | INR | Low | FX Reserves, USD | 651.51B |  | 646.67B |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) | 0.17% |  | 0.21% |
-| 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.69% |  | 4.65% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) | -0.19% |  | 0.20% |
+| 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.69% |  | 4.65% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
-| 13:00 | MXN | Low | PPI (YoY) (May) | 3.30% |  | 2.50% |
 | 13:00 | MXN | Low | PPI (MoM) (May) | 0.40% |  | 0.60% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 4.1% | 3.9% | 4.0% |
+| 13:00 | MXN | Low | PPI (YoY) (May) | 3.30% |  | 2.50% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.4% | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 4.1% | 3.9% | 4.0% |
 | 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) | 43.0K |  | 7.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) | 8K | 5K | 6K |
@@ -76,10 +76,10 @@
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.1% | 0.2% | -0.4% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | -1.3% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 55 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 600 |
+| 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 54 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 600 |
 | 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 9.30B | 6.27B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 25.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |

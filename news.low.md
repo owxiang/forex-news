@@ -34,8 +34,8 @@
 | 12:30 | INR | FX Reserves, USD | 651.51B |  | 646.67B |
 | 13:00 | MXN | Core CPI (MoM) (May) | 0.17% |  | 0.21% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
-| 13:00 | MXN | PPI (YoY) (May) | 3.30% |  | 2.50% |
 | 13:00 | MXN | PPI (MoM) (May) | 0.40% |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (May) | 3.30% |  | 2.50% |
 | 13:30 | USD | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) | 43.0K |  | 7.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) | 8K | 5K | 6K |
@@ -48,7 +48,7 @@
 | 14:00 | BRL | Auto Sales (MoM) (May) | -12.0% |  | 17.6% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) | 0.1% | 0.2% | -0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | -1.3% |
-| 55 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 65.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.6K |
