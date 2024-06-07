@@ -2,16 +2,16 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
-| 42 min | CNY | Low | Exports (May) |  |  | 5.10M |
-| 42 min | CNY | Low | Imports (May) |  |  | 12.20M |
-| 42 min | CNY | Low | Trade Balance (May) |  | 510.00B | 513.45B |
-| 42 min | CNY | Moderate | Exports (YoY) (May) |  | 6.0% | 1.5% |
-| 42 min | CNY | Moderate | Imports (YoY) (May) |  | 4.2% | 8.4% |
-| 42 min | CNY | Moderate | Trade Balance (USD) (May) |  | 70.50B | 72.35B |
-| 05:00 | IDR | Low | FX Reserves (USD) (May) |  |  | 136.20B |
+| 04:03 | CNY | Moderate | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
+| 04:03 | CNY | Moderate | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
+| 04:03 | CNY | Moderate | Trade Balance (USD) (May) | 82.62B | 70.50B | 72.35B |
+| 04:05 | CNY | Low | Exports (May) | 11.20M |  | 5.10M |
+| 04:05 | CNY | Low | Imports (May) | 5.20M |  | 12.20M |
+| 04:05 | CNY | Low | Trade Balance (May) | 586.39B | 510.00B | 513.45B |
+| 54 min | IDR | Low | FX Reserves (USD) (May) |  |  | 136.20B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate |  |  | 3.35% |
@@ -49,13 +49,13 @@
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 646.67B |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) |  |  | 0.21% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.20% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 4.65% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.20% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
+| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) |  | 5K | 8K |

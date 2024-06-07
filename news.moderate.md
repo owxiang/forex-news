@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
 | 00:30 | JPY | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
-| 42 min | CNY | Exports (YoY) (May) |  | 6.0% | 1.5% |
-| 42 min | CNY | Imports (YoY) (May) |  | 4.2% | 8.4% |
-| 42 min | CNY | Trade Balance (USD) (May) |  | 70.50B | 72.35B |
+| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
+| 04:03 | CNY | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
+| 04:03 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
+| 04:03 | CNY | Trade Balance (USD) (May) | 82.62B | 70.50B | 72.35B |
 | 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
@@ -18,8 +18,8 @@
 | 10:00 | EUR | GDP (YoY) |  | 0.4% | 0.1% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
-| 13:00 | MXN | CPI (MoM) (May) |  |  | 0.20% |
 | 13:00 | MXN | CPI (YoY) (May) |  |  | 4.65% |
+| 13:00 | MXN | CPI (MoM) (May) |  |  | 0.20% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
 | 13:30 | USD | Participation Rate (May) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) |  | 170K | 167K |
