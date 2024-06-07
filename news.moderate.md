@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:30 | JPY | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
-| 04:03 | CNY | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
-| 04:03 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
-| 04:03 | CNY | Trade Balance (USD) (May) | 82.62B | 70.50B | 72.35B |
-| 05:30 | INR | Interest Rate Decision |  | 6.50% | 6.50% |
+| 04:09 | CNY | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
+| 04:09 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
+| 04:09 | CNY | Trade Balance (USD) (May) | 82.62B | 70.50B | 72.35B |
+| 23 min | INR | Interest Rate Decision |  | 6.50% | 6.50% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |

@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
-| 04:05 | CNY | Exports (May) | 11.20M |  | 5.10M |
-| 04:05 | CNY | Imports (May) | 5.20M |  | 12.20M |
-| 04:05 | CNY | Trade Balance (May) | 586.39B | 510.00B | 513.45B |
-| 54 min | IDR | FX Reserves (USD) (May) |  |  | 136.20B |
-| 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
-| 06:00 | JPY | Coincident Indicator (MoM) (Apr) |  |  | 2.1% |
-| 06:00 | JPY | Leading Index (MoM) (Apr) |  |  | 0.1% |
-| 06:00 | JPY | Leading Index |  | 111.6 | 112.2 |
+| 04:00 | IDR | FX Reserves (USD) (May) | 139.00B |  | 136.20B |
+| 04:09 | CNY | Exports (May) | 11.20M |  | 5.10M |
+| 04:09 | CNY | Imports (May) | 5.20M |  | 12.20M |
+| 04:09 | CNY | Trade Balance (May) | 586.39B | 510.00B | 513.45B |
+| 23 min | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
+| 23 min | INR | Reverse REPO Rate |  |  | 3.35% |
+| 53 min | JPY | Coincident Indicator (MoM) (Apr) |  |  | 2.1% |
+| 53 min | JPY | Leading Index |  | 111.6 | 112.2 |
+| 53 min | JPY | Leading Index (MoM) (Apr) |  |  | 0.1% |
 | 07:00 | EUR | German Exports (MoM) (Apr) |  | 1.1% | 0.9% |
 | 07:00 | EUR | German Imports (MoM) (Apr) |  | 0.6% | 0.3% |
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) |  |  | -3.35% |
@@ -27,15 +27,15 @@
 | 09:00 | CNY | FX Reserves (USD) (May) |  | 3.210T | 3.201T |
 | 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 416.40B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) |  |  | 366.9B |
-| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | FX Reserves, USD |  |  | 646.67B |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.21% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
 | 13:00 | MXN | PPI (MoM) (May) |  |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
 | 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
