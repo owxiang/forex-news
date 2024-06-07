@@ -8,26 +8,26 @@
 | 04:00 | IDR | Low | FX Reserves (USD) (May) | 139.00B |  | 136.20B |
 | 04:09 | CNY | Low | Exports (May) | 11.20M |  | 5.10M |
 | 04:09 | CNY | Low | Imports (May) | 5.20M |  | 12.20M |
-| 04:09 | CNY | Low | Trade Balance (May) | 586.39B | 510.00B | 513.45B |
+| 04:09 | CNY | Low | Trade Balance (May) | 586.39B | 523.00B | 513.45B |
 | 04:09 | CNY | Moderate | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
 | 04:09 | CNY | Moderate | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
-| 04:09 | CNY | Moderate | Trade Balance (USD) (May) | 82.62B | 70.50B | 72.35B |
-| 23 min | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
-| 23 min | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
-| 23 min | INR | Low | Reverse REPO Rate |  |  | 3.35% |
-| 53 min | JPY | Low | Coincident Indicator (MoM) (Apr) |  |  | 2.1% |
-| 53 min | JPY | Low | Leading Index |  | 111.6 | 112.2 |
-| 53 min | JPY | Low | Leading Index (MoM) (Apr) |  |  | 0.1% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
-| 07:00 | EUR | Low | German Exports (MoM) (Apr) |  | 1.1% | 0.9% |
-| 07:00 | EUR | Low | German Imports (MoM) (Apr) |  | 0.6% | 0.3% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |
-| 07:00 | EUR | Moderate | German Trade Balance (Apr) |  | 22.6B | 22.3B |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -3.35% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 5.4% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 61.80B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 57.851B |
+| 04:09 | CNY | Moderate | Trade Balance (USD) (May) | 82.62B | 72.20B | 72.35B |
+| 05:30 | INR | Low | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
+| 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
+| 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
+| 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
+| 06:00 | JPY | Low | Leading Index (Apr) | 111.6 | 111.6 | 112.2 |
+| 54 min | GBP | Moderate | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
+| 54 min | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
+| 54 min | EUR | Low | German Exports (MoM) (Apr) |  | 1.1% | 0.9% |
+| 54 min | EUR | Low | German Imports (MoM) (Apr) |  | 0.6% | 0.3% |
+| 54 min | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |
+| 54 min | EUR | Moderate | German Trade Balance (Apr) |  | 22.6B | 22.3B |
+| 54 min | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -3.35% |
+| 54 min | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 5.4% |
+| 54 min | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 61.80B |
+| 54 min | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 57.851B |
 | 07:45 | EUR | Low | French Current Account (Apr) |  |  | 1.30B |
 | 07:45 | EUR | Low | French Exports (Apr) |  |  | 52.2B |
 | 07:45 | EUR | Low | French Imports (Apr) |  |  | 57.7B |
@@ -40,8 +40,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 416.40B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 366.9B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
 | 10:00 | EUR | Moderate | GDP (YoY) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
@@ -52,21 +52,21 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.20% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
+| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) |  | 5K | 8K |
-| 13:30 | USD | High | Nonfarm Payrolls (May) |  | 186K | 175K |
+| 13:30 | USD | High | Nonfarm Payrolls (May) |  | 182K | 175K |
 | 13:30 | USD | Moderate | Participation Rate (May) |  |  | 62.7% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) |  | 170K | 167K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (May) |  |  | 7.4% |
 | 13:30 | USD | High | Unemployment Rate (May) |  | 3.9% | 3.9% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
 | 13:30 | CAD | Low | Capacity Utilization Rate (Q1) |  | 78.8% | 78.7% |
-| 13:30 | CAD | Moderate | Employment Change (May) |  | 27.8K | 90.4K |
+| 13:30 | CAD | Moderate | Employment Change (May) |  | 24.8K | 90.4K |
 | 13:30 | CAD | Low | Full Employment Change (May) |  |  | 40.1K |
 | 13:30 | CAD | Low | Part Time Employment Change (May) |  |  | 50.3K |
 | 13:30 | CAD | Low | Participation Rate (May) |  |  | 65.4% |

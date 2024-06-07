@@ -6,12 +6,12 @@
 | 00:30 | JPY | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
 | 04:09 | CNY | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
 | 04:09 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
-| 04:09 | CNY | Trade Balance (USD) (May) | 82.62B | 70.50B | 72.35B |
-| 23 min | INR | Interest Rate Decision |  | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
-| 07:00 | EUR | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |
-| 07:00 | EUR | German Trade Balance (Apr) |  | 22.6B | 22.3B |
+| 04:09 | CNY | Trade Balance (USD) (May) | 82.62B | 72.20B | 72.35B |
+| 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
+| 54 min | GBP | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
+| 54 min | GBP | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
+| 54 min | EUR | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |
+| 54 min | EUR | German Trade Balance (Apr) |  | 22.6B | 22.3B |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
@@ -24,7 +24,7 @@
 | 13:30 | USD | Participation Rate (May) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) |  | 170K | 167K |
 | 13:30 | USD | U6 Unemployment Rate (May) |  |  | 7.4% |
-| 13:30 | CAD | Employment Change (May) |  | 27.8K | 90.4K |
+| 13:30 | CAD | Employment Change (May) |  | 24.8K | 90.4K |
 | 13:30 | CAD | Unemployment Rate (May) |  | 6.2% | 6.1% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
