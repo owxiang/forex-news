@@ -8,8 +8,8 @@
 | 04:09 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
 | 04:09 | CNY | Trade Balance (USD) (May) | 82.62B | 72.20B | 72.35B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) | -0.1% | 0.1% | -0.4% |
 | 07:00 | EUR | German Trade Balance (Apr) | 22.1B | 22.6B | 22.2B |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
@@ -26,7 +26,7 @@
 | 13:30 | USD | U6 Unemployment Rate (May) | 7.4% |  | 7.4% |
 | 13:30 | CAD | Employment Change (May) | 26.7K | 24.8K | 90.4K |
 | 13:30 | CAD | Unemployment Rate (May) | 6.2% | 6.2% | 6.1% |
-| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 600 |
