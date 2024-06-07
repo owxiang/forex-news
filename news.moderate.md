@@ -18,8 +18,8 @@
 | 10:00 | EUR | GDP (YoY) | 0.4% | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
-| 13:00 | MXN | CPI (YoY) (May) | 4.69% |  | 4.65% |
 | 13:00 | MXN | CPI (MoM) (May) | -0.19% |  | 0.20% |
+| 13:00 | MXN | CPI (YoY) (May) | 4.69% |  | 4.65% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) | 4.1% | 3.9% | 4.0% |
 | 13:30 | USD | Participation Rate (May) | 62.5% |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) | 229K | 170K | 158K |
@@ -31,12 +31,12 @@
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 492 |  | 496 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 594 |  | 600 |
 | 20:00 | USD | Consumer Credit (Apr) | 6.40B | 9.30B | -1.10B |
-| 24 min | GBP | CFTC GBP speculative net positions |  |  | 25.4K |
-| 24 min | USD | CFTC Crude Oil speculative net positions |  |  | 243.9K |
-| 24 min | USD | CFTC Gold speculative net positions |  |  | 236.6K |
-| 24 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | -3.7K |
-| 24 min | USD | CFTC S&P 500 speculative net positions |  |  | -2.2K |
-| 24 min | AUD | CFTC AUD speculative net positions |  |  | -49.9K |
-| 24 min | BRL | CFTC BRL speculative net positions |  |  | -36.6K |
-| 24 min | JPY | CFTC JPY speculative net positions |  |  | -156.0K |
-| 24 min | EUR | CFTC EUR speculative net positions |  |  | 57.6K |
+| 20:30 | GBP | CFTC GBP speculative net positions | 43.2K |  | 25.4K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 210.7K |  | 243.9K |
+| 20:30 | USD | CFTC Gold speculative net positions | 237.3K |  | 236.6K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 2.0K |  | -3.7K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -65.0K |  | -2.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -51.3K |  | -49.9K |
+| 20:30 | BRL | CFTC BRL speculative net positions | -18.9K |  | -36.6K |
+| 20:30 | JPY | CFTC JPY speculative net positions | -132.1K |  | -156.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions | 67.9K |  | 57.6K |
