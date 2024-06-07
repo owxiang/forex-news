@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
 | 04:00 | IDR | Low | FX Reserves (USD) (May) | 139.00B |  | 136.20B |
 | 04:09 | CNY | Low | Exports (May) | 11.20M |  | 5.10M |
