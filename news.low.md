@@ -24,18 +24,18 @@
 | 07:45 | EUR | French Reserve Assets Total (May) | 245,904.0M |  | 247,118.0M |
 | 07:45 | EUR | French Trade Balance (Apr) | -7.6B | -5.4B | -5.4B |
 | 08:00 | CHF | Foreign Reserves (USD) (May) | 717.6B |  | 720.3B |
-| 55 min | CNY | FX Reserves (USD) (May) |  | 3.210T | 3.201T |
-| 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 416.40B |
-| 10:00 | SGD | Foreign Reserves USD (MoM) |  |  | 366.9B |
-| 10:00 | EUR | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
+| 09:00 | CNY | FX Reserves (USD) (May) | 3.232T | 3.210T | 3.201T |
+| 23 min | HKD | Foreign Reserves (USD) (May) |  |  | 416.40B |
+| 53 min | SGD | Foreign Reserves USD (MoM) |  |  | 366.9B |
+| 53 min | EUR | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
+| 53 min | EUR | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 53 min | EUR | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | FX Reserves, USD |  |  | 646.67B |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.21% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | PPI (MoM) (May) |  |  | 0.60% |
 | 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
+| 13:00 | MXN | PPI (MoM) (May) |  |  | 0.60% |
 | 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) |  | 5K | 8K |

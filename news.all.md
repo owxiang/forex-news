@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
 | 04:00 | IDR | Low | FX Reserves (USD) (May) | 139.00B |  | 136.20B |
 | 04:09 | CNY | Low | Exports (May) | 11.20M |  | 5.10M |
@@ -18,8 +18,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 111.6 | 111.6 | 111.7 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) | 1.6% | 1.1% | 1.1% |
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) | 2.0% | 0.6% | 0.5% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -0.1% | 0.1% | -0.4% |
@@ -35,16 +35,16 @@
 | 07:45 | EUR | Low | French Trade Balance (Apr) | -7.6B | -5.4B | -5.4B |
 | 08:00 | CHF | Low | Foreign Reserves (USD) (May) | 717.6B |  | 720.3B |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 55 min | CNY | Low | FX Reserves (USD) (May) |  | 3.210T | 3.201T |
-| 55 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 416.40B |
-| 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 366.9B |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
-| 10:00 | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
-| 10:00 | EUR | Moderate | GDP (YoY) |  | 0.4% | 0.1% |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
+| 09:00 | CNY | Low | FX Reserves (USD) (May) | 3.232T | 3.210T | 3.201T |
+| 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 23 min | HKD | Low | Foreign Reserves (USD) (May) |  |  | 416.40B |
+| 53 min | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.92% |
+| 53 min | SGD | Low | Foreign Reserves USD (MoM) |  |  | 366.9B |
+| 53 min | EUR | Low | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
+| 53 min | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
+| 53 min | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
+| 53 min | EUR | Moderate | GDP (YoY) |  | 0.4% | 0.1% |
+| 53 min | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 646.67B |
@@ -52,8 +52,8 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.20% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
+| 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |

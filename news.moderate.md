@@ -2,21 +2,21 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:30 | JPY | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
+| 00:30 | JPY | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 04:09 | CNY | Exports (YoY) (May) | 7.6% | 6.0% | 1.5% |
 | 04:09 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
 | 04:09 | CNY | Trade Balance (USD) (May) | 82.62B | 72.20B | 72.35B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) | -0.1% | 0.1% | -0.4% |
 | 07:00 | EUR | German Trade Balance (Apr) | 22.1B | 22.6B | 22.2B |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 55 min | EUR | ECB's Schnabel Speaks |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
-| 10:00 | EUR | GDP (YoY) |  | 0.4% | 0.1% |
-| 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
+| 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 53 min | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
+| 53 min | EUR | GDP (YoY) |  | 0.4% | 0.1% |
+| 53 min | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
 | 13:00 | MXN | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | CPI (MoM) (May) |  |  | 0.20% |
