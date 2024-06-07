@@ -40,8 +40,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) | 417.20B |  | 416.40B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.93% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 370.5B |  | 366.9B |
-| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
+| 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 168,082.0K | 168,055.8K | 167,534.6K |
 | 10:00 | EUR | Moderate | GDP (YoY) | 0.4% | 0.4% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
@@ -80,7 +80,7 @@
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 3.1% | 2.6% | 2.6% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 492 |  | 496 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 594 |  | 600 |
-| 20:00 | USD | Moderate | Consumer Credit (Apr) |  | 9.30B | 6.27B |
+| 52 min | USD | Moderate | Consumer Credit (Apr) |  | 9.30B | 6.27B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 25.4K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 65.5K |

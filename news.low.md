@@ -27,8 +27,8 @@
 | 09:00 | CNY | FX Reserves (USD) (May) | 3.232T | 3.210T | 3.201T |
 | 09:30 | HKD | Foreign Reserves (USD) (May) | 417.20B |  | 416.40B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) | 370.5B |  | 366.9B |
-| 10:00 | EUR | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
+| 10:00 | EUR | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
 | 10:00 | EUR | Employment Overall (Q1) | 168,082.0K | 168,055.8K | 167,534.6K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 0.72% |
 | 12:30 | INR | FX Reserves, USD | 651.51B |  | 646.67B |

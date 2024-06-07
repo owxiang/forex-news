@@ -30,7 +30,7 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) | 3.1% | 2.6% | 2.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 492 |  | 496 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 594 |  | 600 |
-| 20:00 | USD | Consumer Credit (Apr) |  | 9.30B | 6.27B |
+| 52 min | USD | Consumer Credit (Apr) |  | 9.30B | 6.27B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 25.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 243.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 236.6K |
