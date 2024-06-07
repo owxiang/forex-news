@@ -18,8 +18,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 111.6 | 111.6 | 111.7 |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) | 1.6% | 1.1% | 1.1% |
 | 07:00 | EUR | Low | German Imports (MoM) (Apr) | 2.0% | 0.6% | 0.5% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -0.1% | 0.1% | -0.4% |
@@ -49,32 +49,32 @@
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 0.72% |
 | 12:30 | INR | Low | FX Reserves, USD | 651.51B |  | 646.67B |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) | 0.17% |  | 0.21% |
-| 13:00 | MXN | Moderate | CPI (MoM) (May) | -0.19% |  | 0.20% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.69% |  | 4.65% |
+| 13:00 | MXN | Moderate | CPI (MoM) (May) | -0.19% |  | 0.20% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
 | 13:00 | MXN | Low | PPI (MoM) (May) | 0.40% |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (May) | 3.30% |  | 2.50% |
-| 20 min | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
-| 20 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
-| 20 min | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 20 min | USD | Low | Government Payrolls (May) |  |  | 8.0K |
-| 20 min | USD | Low | Manufacturing Payrolls (May) |  | 5K | 8K |
-| 20 min | USD | High | Nonfarm Payrolls (May) |  | 182K | 175K |
-| 20 min | USD | Moderate | Participation Rate (May) |  |  | 62.7% |
-| 20 min | USD | Moderate | Private Nonfarm Payrolls (May) |  | 170K | 167K |
-| 20 min | USD | Moderate | U6 Unemployment Rate (May) |  |  | 7.4% |
-| 20 min | USD | High | Unemployment Rate (May) |  | 3.9% | 3.9% |
-| 20 min | CAD | Low | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
-| 20 min | CAD | Low | Capacity Utilization Rate (Q1) |  | 78.8% | 78.7% |
-| 20 min | CAD | Moderate | Employment Change (May) |  | 24.8K | 90.4K |
-| 20 min | CAD | Low | Full Employment Change (May) |  |  | 40.1K |
-| 20 min | CAD | Low | Part Time Employment Change (May) |  |  | 50.3K |
-| 20 min | CAD | Low | Participation Rate (May) |  |  | 65.4% |
-| 20 min | CAD | Moderate | Unemployment Rate (May) |  | 6.2% | 6.1% |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.2% | -0.4% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | -1.3% |
-| 15:00 | BRL | Low | Auto Production (MoM) (May) |  |  | 13.5% |
-| 15:00 | BRL | Low | Auto Sales (MoM) (May) |  |  | 17.6% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 4.1% | 3.9% | 4.0% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.4% | 0.3% | 0.2% |
+| 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (May) | 43.0K |  | 7.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (May) | 8K | 5K | 6K |
+| 13:30 | USD | High | Nonfarm Payrolls (May) | 272K | 182K | 165K |
+| 13:30 | USD | Moderate | Participation Rate (May) | 62.5% |  | 62.7% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (May) | 229K | 170K | 158K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (May) | 7.4% |  | 7.4% |
+| 13:30 | USD | High | Unemployment Rate (May) | 4.0% | 3.9% | 3.9% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (May) | 5.2% |  | 4.8% |
+| 13:30 | CAD | Low | Capacity Utilization Rate (Q1) | 78.5% | 78.8% | 78.6% |
+| 13:30 | CAD | Moderate | Employment Change (May) | 26.7K | 24.8K | 90.4K |
+| 13:30 | CAD | Low | Full Employment Change (May) | -35.6K |  | 40.1K |
+| 13:30 | CAD | Low | Part Time Employment Change (May) | 62.4K |  | 50.3K |
+| 13:30 | CAD | Low | Participation Rate (May) | 65.4% |  | 65.4% |
+| 13:30 | CAD | Moderate | Unemployment Rate (May) | 6.2% | 6.2% | 6.1% |
+| 14:00 | BRL | Low | Auto Production (MoM) (May) | -24.9% |  | 13.5% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (May) | -12.0% |  | 17.6% |
+| 53 min | USD | Low | Wholesale Inventories (MoM) (Apr) |  | 0.2% | -0.4% |
+| 53 min | USD | Low | Wholesale Trade Sales (MoM) (Apr) |  |  | -1.3% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |

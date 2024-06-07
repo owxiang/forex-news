@@ -36,18 +36,18 @@
 | 13:00 | MXN | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
 | 13:00 | MXN | PPI (MoM) (May) | 0.40% |  | 0.60% |
 | 13:00 | MXN | PPI (YoY) (May) | 3.30% |  | 2.50% |
-| 20 min | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 20 min | USD | Government Payrolls (May) |  |  | 8.0K |
-| 20 min | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
-| 20 min | CAD | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
-| 20 min | CAD | Capacity Utilization Rate (Q1) |  | 78.8% | 78.7% |
-| 20 min | CAD | Full Employment Change (May) |  |  | 40.1K |
-| 20 min | CAD | Part Time Employment Change (May) |  |  | 50.3K |
-| 20 min | CAD | Participation Rate (May) |  |  | 65.4% |
-| 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.2% | -0.4% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | -1.3% |
-| 15:00 | BRL | Auto Production (MoM) (May) |  |  | 13.5% |
-| 15:00 | BRL | Auto Sales (MoM) (May) |  |  | 17.6% |
+| 13:30 | USD | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (May) | 43.0K |  | 7.0K |
+| 13:30 | USD | Manufacturing Payrolls (May) | 8K | 5K | 6K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (May) | 5.2% |  | 4.8% |
+| 13:30 | CAD | Capacity Utilization Rate (Q1) | 78.5% | 78.8% | 78.6% |
+| 13:30 | CAD | Full Employment Change (May) | -35.6K |  | 40.1K |
+| 13:30 | CAD | Part Time Employment Change (May) | 62.4K |  | 50.3K |
+| 13:30 | CAD | Participation Rate (May) | 65.4% |  | 65.4% |
+| 14:00 | BRL | Auto Production (MoM) (May) | -24.9% |  | 13.5% |
+| 14:00 | BRL | Auto Sales (MoM) (May) | -12.0% |  | 17.6% |
+| 53 min | USD | Wholesale Inventories (MoM) (Apr) |  | 0.2% | -0.4% |
+| 53 min | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | -1.3% |
 | 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 65.5K |
