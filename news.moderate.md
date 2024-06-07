@@ -14,12 +14,12 @@
 | 07:00 | EUR | German Trade Balance (Apr) | 22.1B | 22.6B | 22.2B |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 53 min | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
-| 53 min | EUR | GDP (YoY) |  | 0.4% | 0.1% |
-| 53 min | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
-| 11:00 | EUR | European Parliament Elections |  |  |  |
-| 13:00 | MXN | CPI (YoY) (May) |  |  | 4.65% |
+| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
+| 10:00 | EUR | GDP (YoY) | 0.4% | 0.4% | 0.1% |
+| 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
+| 54 min | EUR | European Parliament Elections |  |  |  |
 | 13:00 | MXN | CPI (MoM) (May) |  |  | 0.20% |
+| 13:00 | MXN | CPI (YoY) (May) |  |  | 4.65% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
 | 13:30 | USD | Participation Rate (May) |  |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) |  | 170K | 167K |
