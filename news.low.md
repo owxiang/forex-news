@@ -12,18 +12,18 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
 | 06:00 | JPY | Leading Index (Apr) | 111.6 | 111.6 | 112.2 |
-| 54 min | EUR | German Exports (MoM) (Apr) |  | 1.1% | 0.9% |
-| 54 min | EUR | German Imports (MoM) (Apr) |  | 0.6% | 0.3% |
-| 54 min | EUR | German Industrial Production (YoY) (Apr) |  |  | -3.35% |
-| 54 min | NOK | Manufacturing Production (MoM) (Apr) |  |  | 5.4% |
-| 54 min | ZAR | Foreign Reserves (USD) (May) |  |  | 61.80B |
-| 54 min | ZAR | Net FX Reserves (USD) (May) |  |  | 57.851B |
-| 07:45 | EUR | French Current Account (Apr) |  |  | 1.30B |
-| 07:45 | EUR | French Exports (Apr) |  |  | 52.2B |
-| 07:45 | EUR | French Imports (Apr) |  |  | 57.7B |
-| 07:45 | EUR | French Reserve Assets Total (May) |  |  | 247,118.0M |
-| 07:45 | EUR | French Trade Balance (Apr) |  | -5.4B | -5.5B |
-| 08:00 | CHF | Foreign Reserves (USD) (May) |  |  | 720.4B |
+| 07:00 | EUR | German Exports (MoM) (Apr) | 1.6% | 1.1% | 0.9% |
+| 07:00 | EUR | German Imports (MoM) (Apr) | 2.0% | 0.6% | 0.3% |
+| 07:00 | EUR | German Industrial Production (YoY) (Apr) | -3.86% |  | -4.25% |
+| 07:00 | NOK | Manufacturing Production (MoM) (Apr) | -5.6% |  | 5.6% |
+| 07:00 | ZAR | Foreign Reserves (USD) (May) | 62.09B |  | 61.80B |
+| 07:00 | ZAR | Net FX Reserves (USD) (May) | 58.287B |  | 57.851B |
+| 38 min | EUR | French Current Account (Apr) |  |  | 1.30B |
+| 38 min | EUR | French Exports (Apr) |  |  | 52.2B |
+| 38 min | EUR | French Imports (Apr) |  |  | 57.7B |
+| 38 min | EUR | French Reserve Assets Total (May) |  |  | 247,118.0M |
+| 38 min | EUR | French Trade Balance (Apr) |  | -5.4B | -5.5B |
+| 53 min | CHF | Foreign Reserves (USD) (May) |  |  | 720.4B |
 | 09:00 | CNY | FX Reserves (USD) (May) |  | 3.210T | 3.201T |
 | 09:30 | HKD | Foreign Reserves (USD) (May) |  |  | 416.40B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) |  |  | 366.9B |

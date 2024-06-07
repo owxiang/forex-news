@@ -18,23 +18,23 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
 | 06:00 | JPY | Low | Leading Index (Apr) | 111.6 | 111.6 | 112.2 |
-| 54 min | GBP | Moderate | Halifax House Price Index (YoY) (May) |  | 1.2% | 1.1% |
-| 54 min | GBP | Moderate | Halifax House Price Index (MoM) (May) |  | 0.3% | 0.1% |
-| 54 min | EUR | Low | German Exports (MoM) (Apr) |  | 1.1% | 0.9% |
-| 54 min | EUR | Low | German Imports (MoM) (Apr) |  | 0.6% | 0.3% |
-| 54 min | EUR | Moderate | German Industrial Production (MoM) (Apr) |  | 0.1% | -0.4% |
-| 54 min | EUR | Moderate | German Trade Balance (Apr) |  | 22.6B | 22.3B |
-| 54 min | EUR | Low | German Industrial Production (YoY) (Apr) |  |  | -3.35% |
-| 54 min | NOK | Low | Manufacturing Production (MoM) (Apr) |  |  | 5.4% |
-| 54 min | ZAR | Low | Foreign Reserves (USD) (May) |  |  | 61.80B |
-| 54 min | ZAR | Low | Net FX Reserves (USD) (May) |  |  | 57.851B |
-| 07:45 | EUR | Low | French Current Account (Apr) |  |  | 1.30B |
-| 07:45 | EUR | Low | French Exports (Apr) |  |  | 52.2B |
-| 07:45 | EUR | Low | French Imports (Apr) |  |  | 57.7B |
-| 07:45 | EUR | Low | French Reserve Assets Total (May) |  |  | 247,118.0M |
-| 07:45 | EUR | Low | French Trade Balance (Apr) |  | -5.4B | -5.5B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (May) |  |  | 720.4B |
-| 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
+| 07:00 | EUR | Low | German Exports (MoM) (Apr) | 1.6% | 1.1% | 0.9% |
+| 07:00 | EUR | Low | German Imports (MoM) (Apr) | 2.0% | 0.6% | 0.3% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (Apr) | -0.1% | 0.1% | -0.4% |
+| 07:00 | EUR | Moderate | German Trade Balance (Apr) | 22.1B | 22.6B | 22.3B |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (Apr) | -3.86% |  | -4.25% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (Apr) | -5.6% |  | 5.6% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (May) | 62.09B |  | 61.80B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (May) | 58.287B |  | 57.851B |
+| 38 min | EUR | Low | French Current Account (Apr) |  |  | 1.30B |
+| 38 min | EUR | Low | French Exports (Apr) |  |  | 52.2B |
+| 38 min | EUR | Low | French Imports (Apr) |  |  | 57.7B |
+| 38 min | EUR | Low | French Reserve Assets Total (May) |  |  | 247,118.0M |
+| 38 min | EUR | Low | French Trade Balance (Apr) |  | -5.4B | -5.5B |
+| 53 min | CHF | Low | Foreign Reserves (USD) (May) |  |  | 720.4B |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | CNY | Low | FX Reserves (USD) (May) |  | 3.210T | 3.201T |
 | 09:00 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) |  |  | 416.40B |
