@@ -29,13 +29,13 @@
 | 10:00 | SGD | Foreign Reserves USD (MoM) | 370.5B |  | 366.9B |
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
-| 10:00 | EUR | Employment Overall (Q1) | 168,055.8K | 168,055.8K | 167,534.6K |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
+| 10:00 | EUR | Employment Overall (Q1) | 168,082.0K | 168,055.8K | 167,534.6K |
+| 54 min | BRL | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | FX Reserves, USD |  |  | 646.67B |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.21% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
 | 13:00 | MXN | PPI (MoM) (May) |  |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
 | 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
