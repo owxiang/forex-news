@@ -5,12 +5,12 @@
 | 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
-| 04:00 | CNY | Low | Exports (May) |  |  | 5.10M |
-| 04:00 | CNY | Low | Imports (May) |  |  | 12.20M |
-| 04:00 | CNY | Low | Trade Balance (May) |  | 510.00B | 513.45B |
-| 04:00 | CNY | Moderate | Exports (YoY) (May) |  | 6.0% | 1.5% |
-| 04:00 | CNY | Moderate | Imports (YoY) (May) |  | 4.2% | 8.4% |
-| 04:00 | CNY | Moderate | Trade Balance (USD) (May) |  | 70.50B | 72.35B |
+| 42 min | CNY | Low | Exports (May) |  |  | 5.10M |
+| 42 min | CNY | Low | Imports (May) |  |  | 12.20M |
+| 42 min | CNY | Low | Trade Balance (May) |  | 510.00B | 513.45B |
+| 42 min | CNY | Moderate | Exports (YoY) (May) |  | 6.0% | 1.5% |
+| 42 min | CNY | Moderate | Imports (YoY) (May) |  | 4.2% | 8.4% |
+| 42 min | CNY | Moderate | Trade Balance (USD) (May) |  | 70.50B | 72.35B |
 | 05:00 | IDR | Low | FX Reserves (USD) (May) |  |  | 136.20B |
 | 05:30 | INR | Low | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Moderate | Interest Rate Decision |  | 6.50% | 6.50% |
@@ -52,10 +52,10 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.20% |
 | 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
 | 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
+| 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (May) |  | 0.3% | 0.2% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
 | 13:30 | USD | Low | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) |  | 5K | 8K |

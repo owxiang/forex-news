@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
-| 04:00 | CNY | Exports (May) |  |  | 5.10M |
-| 04:00 | CNY | Imports (May) |  |  | 12.20M |
-| 04:00 | CNY | Trade Balance (May) |  | 510.00B | 513.45B |
+| 42 min | CNY | Exports (May) |  |  | 5.10M |
+| 42 min | CNY | Imports (May) |  |  | 12.20M |
+| 42 min | CNY | Trade Balance (May) |  | 510.00B | 513.45B |
 | 05:00 | IDR | FX Reserves (USD) (May) |  |  | 136.20B |
 | 05:30 | INR | Cash Reserve Ratio |  | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate |  |  | 3.35% |
@@ -34,8 +34,8 @@
 | 12:30 | INR | FX Reserves, USD |  |  | 646.67B |
 | 13:00 | MXN | Core CPI (MoM) (May) |  |  | 0.21% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
 | 13:00 | MXN | PPI (MoM) (May) |  |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (May) |  |  | 2.60% |
 | 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) |  |  | 8.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
