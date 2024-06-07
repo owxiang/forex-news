@@ -26,7 +26,7 @@
 | 13:30 | USD | U6 Unemployment Rate (May) | 7.4% |  | 7.4% |
 | 13:30 | CAD | Employment Change (May) | 26.7K | 24.8K | 90.4K |
 | 13:30 | CAD | Unemployment Rate (May) | 6.2% | 6.2% | 6.1% |
-| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 600 |

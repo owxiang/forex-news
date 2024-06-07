@@ -10,8 +10,8 @@
 | 05:30 | INR | Cash Reserve Ratio | 4.50% | 4.50% | 4.50% |
 | 05:30 | INR | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
-| 06:00 | JPY | Leading Index (Apr) | 111.6 | 111.6 | 111.7 |
 | 06:00 | JPY | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
+| 06:00 | JPY | Leading Index (Apr) | 111.6 | 111.6 | 111.7 |
 | 07:00 | EUR | German Exports (MoM) (Apr) | 1.6% | 1.1% | 1.1% |
 | 07:00 | EUR | German Imports (MoM) (Apr) | 2.0% | 0.6% | 0.5% |
 | 07:00 | EUR | German Industrial Production (YoY) (Apr) | -3.86% |  | -4.25% |
@@ -27,15 +27,15 @@
 | 09:00 | CNY | FX Reserves (USD) (May) | 3.232T | 3.210T | 3.201T |
 | 09:30 | HKD | Foreign Reserves (USD) (May) | 417.20B |  | 416.40B |
 | 10:00 | SGD | Foreign Reserves USD (MoM) | 370.5B |  | 366.9B |
-| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
+| 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Employment Overall (Q1) | 168,082.0K | 168,055.8K | 167,534.6K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 0.72% |
 | 12:30 | INR | FX Reserves, USD | 651.51B |  | 646.67B |
 | 13:00 | MXN | Core CPI (MoM) (May) | 0.17% |  | 0.21% |
 | 13:00 | MXN | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
-| 13:00 | MXN | PPI (MoM) (May) | 0.40% |  | 0.60% |
 | 13:00 | MXN | PPI (YoY) (May) | 3.30% |  | 2.50% |
+| 13:00 | MXN | PPI (MoM) (May) | 0.40% |  | 0.60% |
 | 13:30 | USD | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (May) | 43.0K |  | 7.0K |
 | 13:30 | USD | Manufacturing Payrolls (May) | 8K | 5K | 6K |
@@ -48,7 +48,7 @@
 | 14:00 | BRL | Auto Sales (MoM) (May) | -12.0% |  | 17.6% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) | 0.1% | 0.2% | -0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | -1.3% |
-| 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 55 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 65.5K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -51.6K |

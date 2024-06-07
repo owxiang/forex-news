@@ -16,8 +16,8 @@
 | 05:30 | INR | Moderate | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
 | 05:30 | INR | Low | Reverse REPO Rate | 3.35% |  | 3.35% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (Apr) | 1.0% |  | 1.9% |
-| 06:00 | JPY | Low | Leading Index (Apr) | 111.6 | 111.6 | 111.7 |
 | 06:00 | JPY | Low | Leading Index (MoM) (Apr) | -0.1% |  | 0.1% |
+| 06:00 | JPY | Low | Leading Index (Apr) | 111.6 | 111.6 | 111.7 |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
 | 07:00 | EUR | Low | German Exports (MoM) (Apr) | 1.6% | 1.1% | 1.1% |
@@ -40,8 +40,8 @@
 | 09:30 | HKD | Low | Foreign Reserves (USD) (May) | 417.20B |  | 416.40B |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) | 7.92% |  | 7.93% |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 370.5B |  | 366.9B |
-| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) | 1.0% | 1.0% | 1.2% |
+| 10:00 | EUR | Low | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q1) | 168,082.0K | 168,055.8K | 167,534.6K |
 | 10:00 | EUR | Moderate | GDP (YoY) | 0.4% | 0.4% | 0.2% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
@@ -52,10 +52,10 @@
 | 13:00 | MXN | Moderate | CPI (YoY) (May) | 4.69% |  | 4.65% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) | -0.19% |  | 0.20% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
-| 13:00 | MXN | Low | PPI (MoM) (May) | 0.40% |  | 0.60% |
 | 13:00 | MXN | Low | PPI (YoY) (May) | 3.30% |  | 2.50% |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.4% | 0.3% | 0.2% |
+| 13:00 | MXN | Low | PPI (MoM) (May) | 0.40% |  | 0.60% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (May) | 4.1% | 3.9% | 4.0% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (May) | 0.4% | 0.3% | 0.2% |
 | 13:30 | USD | Low | Average Weekly Hours (May) | 34.3 | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (May) | 43.0K |  | 7.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (May) | 8K | 5K | 6K |
@@ -75,8 +75,8 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (May) | -12.0% |  | 17.6% |
 | 15:00 | USD | Low | Wholesale Inventories (MoM) (Apr) | 0.1% | 0.2% | -0.4% |
 | 15:00 | USD | Low | Wholesale Trade Sales (MoM) (Apr) | 0.1% |  | -1.3% |
-| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 55 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 600 |
