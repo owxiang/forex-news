@@ -8,12 +8,12 @@
 | 04:09 | CNY | Imports (YoY) (May) | 1.8% | 4.2% | 8.4% |
 | 04:09 | CNY | Trade Balance (USD) (May) | 82.62B | 72.20B | 72.35B |
 | 05:30 | INR | Interest Rate Decision | 6.50% | 6.50% | 6.50% |
-| 07:00 | GBP | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (May) | -0.1% | 0.3% | 0.1% |
+| 07:00 | GBP | Halifax House Price Index (YoY) (May) | 1.5% | 1.2% | 1.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (Apr) | -0.1% | 0.1% | -0.4% |
-| 07:00 | EUR | German Trade Balance (Apr) | 22.1B | 22.6B | 22.3B |
-| 53 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 07:00 | EUR | German Trade Balance (Apr) | 22.1B | 22.6B | 22.2B |
+| 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 55 min | EUR | ECB's Schnabel Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
 | 10:00 | EUR | GDP (YoY) |  | 0.4% | 0.1% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
