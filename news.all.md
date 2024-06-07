@@ -43,14 +43,14 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
-| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
 | 10:00 | EUR | Moderate | GDP (YoY) |  | 0.4% | 0.1% |
+| 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 646.67B |
 | 13:00 | MXN | Low | Core CPI (MoM) (May) |  |  | 0.21% |
-| 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | Moderate | CPI (MoM) (May) |  |  | 0.20% |
+| 13:00 | MXN | Moderate | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (May) |  |  | 4.37% |
 | 13:00 | MXN | Low | PPI (YoY) (May) |  |  | 2.60% |
 | 13:00 | MXN | Low | PPI (MoM) (May) |  |  | 0.60% |
