@@ -31,19 +31,19 @@
 | 10:00 | EUR | Employment Change (QoQ) (Q1) | 0.3% | 0.3% | 0.3% |
 | 10:00 | EUR | Employment Overall (Q1) | 168,082.0K | 168,055.8K | 167,534.6K |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (May) | 0.87% |  | 0.72% |
-| 25 min | INR | FX Reserves, USD |  |  | 646.67B |
-| 55 min | MXN | Core CPI (MoM) (May) |  |  | 0.21% |
-| 55 min | MXN | Month Core Inflation (MoM) (May) |  |  | 4.37% |
-| 55 min | MXN | PPI (YoY) (May) |  |  | 2.60% |
-| 55 min | MXN | PPI (MoM) (May) |  |  | 0.60% |
-| 13:30 | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
-| 13:30 | USD | Government Payrolls (May) |  |  | 8.0K |
-| 13:30 | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
-| 13:30 | CAD | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
-| 13:30 | CAD | Capacity Utilization Rate (Q1) |  | 78.8% | 78.7% |
-| 13:30 | CAD | Full Employment Change (May) |  |  | 40.1K |
-| 13:30 | CAD | Part Time Employment Change (May) |  |  | 50.3K |
-| 13:30 | CAD | Participation Rate (May) |  |  | 65.4% |
+| 12:30 | INR | FX Reserves, USD | 651.51B |  | 646.67B |
+| 13:00 | MXN | Core CPI (MoM) (May) | 0.17% |  | 0.21% |
+| 13:00 | MXN | Month Core Inflation (MoM) (May) | 4.21% |  | 4.37% |
+| 13:00 | MXN | PPI (MoM) (May) | 0.40% |  | 0.60% |
+| 13:00 | MXN | PPI (YoY) (May) | 3.30% |  | 2.50% |
+| 20 min | USD | Average Weekly Hours (May) |  | 34.3 | 34.3 |
+| 20 min | USD | Government Payrolls (May) |  |  | 8.0K |
+| 20 min | USD | Manufacturing Payrolls (May) |  | 5K | 8K |
+| 20 min | CAD | Avg hourly wages Permanent employee (May) |  |  | 4.8% |
+| 20 min | CAD | Capacity Utilization Rate (Q1) |  | 78.8% | 78.7% |
+| 20 min | CAD | Full Employment Change (May) |  |  | 40.1K |
+| 20 min | CAD | Part Time Employment Change (May) |  |  | 50.3K |
+| 20 min | CAD | Participation Rate (May) |  |  | 65.4% |
 | 15:00 | USD | Wholesale Inventories (MoM) (Apr) |  | 0.2% | -0.4% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (Apr) |  |  | -1.3% |
 | 15:00 | BRL | Auto Production (MoM) (May) |  |  | 13.5% |

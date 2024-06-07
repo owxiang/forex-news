@@ -18,14 +18,14 @@
 | 10:00 | EUR | GDP (YoY) | 0.4% | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
-| 55 min | MXN | CPI (YoY) (May) |  |  | 4.65% |
-| 55 min | MXN | CPI (MoM) (May) |  |  | 0.20% |
-| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
-| 13:30 | USD | Participation Rate (May) |  |  | 62.7% |
-| 13:30 | USD | Private Nonfarm Payrolls (May) |  | 170K | 167K |
-| 13:30 | USD | U6 Unemployment Rate (May) |  |  | 7.4% |
-| 13:30 | CAD | Employment Change (May) |  | 24.8K | 90.4K |
-| 13:30 | CAD | Unemployment Rate (May) |  | 6.2% | 6.1% |
+| 13:00 | MXN | CPI (MoM) (May) | -0.19% |  | 0.20% |
+| 13:00 | MXN | CPI (YoY) (May) | 4.69% |  | 4.65% |
+| 20 min | USD | Average Hourly Earnings (YoY) (YoY) (May) |  | 3.9% | 3.9% |
+| 20 min | USD | Participation Rate (May) |  |  | 62.7% |
+| 20 min | USD | Private Nonfarm Payrolls (May) |  | 170K | 167K |
+| 20 min | USD | U6 Unemployment Rate (May) |  |  | 7.4% |
+| 20 min | CAD | Employment Change (May) |  | 24.8K | 90.4K |
+| 20 min | CAD | Unemployment Rate (May) |  | 6.2% | 6.1% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
