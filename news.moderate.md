@@ -18,8 +18,8 @@
 | 10:00 | EUR | GDP (YoY) | 0.4% | 0.4% | 0.2% |
 | 10:00 | EUR | GDP (QoQ) (Q1) | 0.3% | 0.3% | 0.0% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
-| 13:00 | MXN | CPI (MoM) (May) | -0.19% |  | 0.20% |
 | 13:00 | MXN | CPI (YoY) (May) | 4.69% |  | 4.65% |
+| 13:00 | MXN | CPI (MoM) (May) | -0.19% |  | 0.20% |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (May) | 4.1% | 3.9% | 4.0% |
 | 13:30 | USD | Participation Rate (May) | 62.5% |  | 62.7% |
 | 13:30 | USD | Private Nonfarm Payrolls (May) | 229K | 170K | 158K |
@@ -27,9 +27,9 @@
 | 13:30 | CAD | Employment Change (May) | 26.7K | 24.8K | 90.4K |
 | 13:30 | CAD | Unemployment Rate (May) | 6.2% | 6.2% | 6.1% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 54 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.6% | 2.6% |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 496 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 600 |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) | 3.1% | 2.6% | 2.6% |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 492 |  | 496 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 594 |  | 600 |
 | 20:00 | USD | Consumer Credit (Apr) |  | 9.30B | 6.27B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 25.4K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 243.9K |
