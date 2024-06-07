@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Foreign Reserves (USD) (May) |  |  | 1,279.0B |
+| 00:50 | JPY | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
 | 04:00 | CNY | Exports (May) |  |  | 5.10M |
 | 04:00 | CNY | Imports (May) |  |  | 12.20M |
 | 04:00 | CNY | Trade Balance (May) |  | 510.00B | 513.45B |

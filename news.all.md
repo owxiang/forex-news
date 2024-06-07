@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 24 min | JPY | Moderate | Household Spending (YoY) (Apr) |  | 0.6% | -1.2% |
-| 24 min | JPY | Moderate | Household Spending (MoM) (Apr) |  | 0.2% | 1.2% |
-| 44 min | JPY | Low | Foreign Reserves (USD) (May) |  |  | 1,279.0B |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (May) | 1,231.6B |  | 1,279.0B |
 | 04:00 | CNY | Low | Exports (May) |  |  | 5.10M |
 | 04:00 | CNY | Low | Imports (May) |  |  | 12.20M |
 | 04:00 | CNY | Low | Trade Balance (May) |  | 510.00B | 513.45B |
@@ -43,8 +43,8 @@
 | 10:00 | EUR | Low | Employment Change (YoY) (Q1) |  | 1.0% | 1.2% |
 | 10:00 | EUR | Low | Employment Change (QoQ) (Q1) |  | 0.3% | 0.3% |
 | 10:00 | EUR | Low | Employment Overall (Q1) |  | 168,055.8K | 167,534.6K |
-| 10:00 | EUR | Moderate | GDP (YoY) |  | 0.4% | 0.1% |
 | 10:00 | EUR | Moderate | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
+| 10:00 | EUR | Moderate | GDP (YoY) |  | 0.4% | 0.1% |
 | 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (May) |  |  | 0.72% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 646.67B |

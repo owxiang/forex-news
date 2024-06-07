@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Household Spending (YoY) (Apr) |  | 0.6% | -1.2% |
-| 24 min | JPY | Household Spending (MoM) (Apr) |  | 0.2% | 1.2% |
+| 00:30 | JPY | Household Spending (MoM) (Apr) | -1.2% | 0.2% | 1.2% |
+| 00:30 | JPY | Household Spending (YoY) (Apr) | 0.5% | 0.6% | -1.2% |
 | 04:00 | CNY | Exports (YoY) (May) |  | 6.0% | 1.5% |
 | 04:00 | CNY | Imports (YoY) (May) |  | 4.2% | 8.4% |
 | 04:00 | CNY | Trade Balance (USD) (May) |  | 70.50B | 72.35B |
@@ -15,8 +15,8 @@
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:00 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.92% |
-| 10:00 | EUR | GDP (YoY) |  | 0.4% | 0.1% |
 | 10:00 | EUR | GDP (QoQ) (Q1) |  | 0.3% | 0.0% |
+| 10:00 | EUR | GDP (YoY) |  | 0.4% | 0.1% |
 | 11:00 | EUR | European Parliament Elections |  |  |  |
 | 13:00 | MXN | CPI (YoY) (May) |  |  | 4.65% |
 | 13:00 | MXN | CPI (MoM) (May) |  |  | 0.20% |
