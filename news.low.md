@@ -1,3 +1,3 @@
-## 08 June 2024 - Low Impact Forex News
+## 09 June 2024 - Low Impact Forex News
 
 There is no low impact news today.

@@ -1,4 +1,4 @@
-## 08 June 2024 - All Forex News
+## 09 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
