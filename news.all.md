@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 11:00 | EUR | Moderate | European Parliament Elections |  |  |  |
+| 54 min | EUR | Moderate | European Parliament Elections |  |  |  |
