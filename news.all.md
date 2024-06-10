@@ -19,8 +19,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (May) | -0.1% |  | 0.8% |
 | 07:00 | NOK | Low | PPI (YoY) (May) | 3.2% |  | -4.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -38 | -37 | -24 |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | -2.9% |  | -3.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) | -1.0% | 0.3% | -0.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) | -2.9% |  | -3.2% |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (May) | 7.93% |  | 7.93% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | 0.3 | -1.5 | -3.6 |
 | 10:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -30,6 +30,6 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.624% |  | 3.600% |
 | 15:00 | USD | Low | CB Employment Trends Index (May) | 111.44 |  | 110.48 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.2% |  | 3.3% |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.155% |
-| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.605% |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.250% |  | 5.250% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.165% |  | 5.155% |
+| 54 min | USD | Moderate | 3-Year Note Auction |  |  | 4.605% |

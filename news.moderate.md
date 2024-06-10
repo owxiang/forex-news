@@ -10,4 +10,4 @@
 | 09:30 | GBP | Mortgage Rate (GBP) (May) | 7.93% |  | 7.93% |
 | 10:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.2% |  | 3.3% |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.605% |
+| 54 min | USD | 3-Year Note Auction |  |  | 4.605% |
