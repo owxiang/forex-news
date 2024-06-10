@@ -5,8 +5,8 @@
 | 00:50 | JPY | Moderate | Adjusted Current Account (Apr) | 2.52T | 2.09T | 2.01T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (May) | 3.0% | 3.1% | 3.1% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (Apr) | 2.051T |  | 3.399T |
-| 00:50 | JPY | Moderate | GDP (YoY) (Q1) | -1.8% | -2.0% | 0.4% |
 | 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.5% | -0.5% | 0.1% |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q1) | -1.8% | -2.0% | 0.4% |
 | 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | -0.4% | -0.8% | 2.0% |
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.4% | -0.3% | 0.2% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.4% | 3.7% | 3.9% |
