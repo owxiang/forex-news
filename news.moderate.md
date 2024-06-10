@@ -1,13 +1,16 @@
-## 10 June 2024 - Moderate Impact Forex News
+## 11 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (Apr) | 2.52T | 2.09T | 2.01T |
-| 00:50 | JPY | Current Account n.s.a. (Apr) | 2.051T |  | 3.399T |
-| 00:50 | JPY | GDP (YoY) (Q1) | -1.8% | -2.0% | 0.4% |
-| 00:50 | JPY | GDP Price Index (YoY) (Q1) | 3.4% | 3.7% | 3.9% |
-| 08:00 | CHF | SECO Consumer Climate | -38 | -37 | -24 |
-| 09:30 | GBP | Mortgage Rate (GBP) (May) | 7.93% |  | 7.93% |
-| 10:30 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.2% |  | 3.3% |
-| 18:00 | USD | 3-Year Note Auction | 4.659% |  | 4.605% |
+| 02:30 | AUD | NAB Business Confidence (May) |  |  | 1 |
+| 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 5.7% | 5.7% |
+| 07:00 | GBP | Claimant Count Change (May) |  | 10.2K | 8.9K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  | -100K | -177K |
+| 07:00 | GBP | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 12:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:00 | BRL | CPI (YoY) (May) |  | 3.88% | 3.69% |
+| 13:30 | CAD | Building Permits (MoM) (Apr) |  | 4.8% | -11.7% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 17:45 | EUR | ECB's Elderson Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.052M |
