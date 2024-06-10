@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Moderate | Adjusted Current Account (Apr) |  | 2.09T | 201.06T |
-| 44 min | JPY | Low | Bank Lending (YoY) (May) |  | 3.1% | 3.1% |
-| 44 min | JPY | Moderate | Current Account n.s.a. (Apr) |  |  | 3.399T |
-| 44 min | JPY | Moderate | GDP (YoY) (Q1) |  | -2.0% | -2.0% |
-| 44 min | JPY | High | GDP (QoQ) (Q1) |  | -0.5% | -0.5% |
-| 44 min | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) |  | -0.8% | -0.8% |
-| 44 min | JPY | Low | GDP External Demand (QoQ) (Q1) |  | -0.3% | -0.3% |
-| 44 min | JPY | Moderate | GDP Price Index (YoY) (Q1) |  | 3.7% | 3.7% |
-| 44 min | JPY | Low | GDP Private Consumption (QoQ) (Q1) |  | -0.7% | -0.7% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (Apr) | 252.41T | 2.09T | 201.06T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (May) | 3.0% | 3.1% | 3.1% |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (Apr) | 2.051T |  | 3.399T |
+| 00:50 | JPY | Moderate | GDP (YoY) (Q1) | -1.8% | -2.0% | -2.0% |
+| 00:50 | JPY | High | GDP (QoQ) (Q1) | -0.5% | -0.5% | 0.1% |
+| 00:50 | JPY | Low | GDP Capital Expenditure (QoQ) (Q1) | -0.4% | -0.8% | -0.8% |
+| 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.4% | -0.3% | -0.3% |
+| 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.4% | 3.7% | 3.9% |
+| 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | -0.7% | -0.7% | -0.7% |
 | 05:00 | IDR | Low | Consumer Confidence (May) |  |  | 127.7 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (May) |  | 48.6 | 47.4 |
 | 07:00 | NOK | Low | Core CPI YTD (May) |  |  | 4.4% |
@@ -19,8 +19,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (May) |  |  | 0.8% |
 | 07:00 | NOK | Low | PPI (YoY) (May) |  |  | -4.5% |
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -37 | -24 |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (Apr) |  |  | -3.5% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (Apr) |  | 0.3% | -0.5% |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) |  | -1.5 | -3.6 |
 | 10:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
