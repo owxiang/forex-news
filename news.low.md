@@ -13,10 +13,10 @@
 | 07:00 | NOK | CPI (YoY) (May) | 3.0% |  | 3.6% |
 | 07:00 | NOK | CPI (MoM) (May) | -0.1% |  | 0.8% |
 | 07:00 | NOK | PPI (YoY) (May) | 3.2% |  | -4.5% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | -2.9% |  | -3.2% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (Apr) | -1.0% | 0.3% | -0.5% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | -2.9% |  | -3.2% |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) | 0.3 | -1.5 | -3.6 |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 19 min | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.487% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.686% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.600% |
