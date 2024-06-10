@@ -25,10 +25,10 @@
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jun) | 0.3 | -1.5 | -3.6 |
 | 10:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 52 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.487% |
-| 52 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.686% |
-| 52 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.600% |
-| 15:00 | USD | Low | CB Employment Trends Index (May) |  |  | 111.25 |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.517% |  | 3.487% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.681% |  | 3.686% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.624% |  | 3.600% |
+| 53 min | USD | Low | CB Employment Trends Index (May) |  |  | 111.25 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.3% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.155% |

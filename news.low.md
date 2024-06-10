@@ -17,9 +17,9 @@
 | 09:00 | EUR | Italian Industrial Production (YoY) (Apr) | -2.9% |  | -3.2% |
 | 09:30 | EUR | Sentix Investor Confidence (Jun) | 0.3 | -1.5 | -3.6 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 52 min | EUR | French 12-Month BTF Auction |  |  | 3.487% |
-| 52 min | EUR | French 3-Month BTF Auction |  |  | 3.686% |
-| 52 min | EUR | French 6-Month BTF Auction |  |  | 3.600% |
-| 15:00 | USD | CB Employment Trends Index (May) |  |  | 111.25 |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.517% |  | 3.487% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.681% |  | 3.686% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.624% |  | 3.600% |
+| 53 min | USD | CB Employment Trends Index (May) |  |  | 111.25 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.155% |
