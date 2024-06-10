@@ -11,7 +11,7 @@
 | 00:50 | JPY | Low | GDP External Demand (QoQ) (Q1) | -0.4% | -0.3% | -0.3% |
 | 00:50 | JPY | Moderate | GDP Price Index (YoY) (Q1) | 3.4% | 3.7% | 3.9% |
 | 00:50 | JPY | Low | GDP Private Consumption (QoQ) (Q1) | -0.7% | -0.7% | -0.7% |
-| 05:00 | IDR | Low | Consumer Confidence (May) |  |  | 127.7 |
+| 54 min | IDR | Low | Consumer Confidence (May) |  |  | 127.7 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (May) |  | 48.6 | 47.4 |
 | 07:00 | NOK | Low | Core CPI YTD (May) |  |  | 4.4% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (May) |  |  | 0.9% |
