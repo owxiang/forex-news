@@ -6,16 +6,16 @@
 | 00:50 | JPY | M2 Money Stock (YoY) | 1.9% | 2.1% | 2.2% |
 | 00:50 | JPY | M3 Money Supply (May) | 2,173.4B |  | 2,158.7B |
 | 02:30 | AUD | NAB Business Survey (May) | 6 |  | 7 |
-| 05:00 | IDR | Retail Sales (YoY) (Apr) |  |  | 9.3% |
+| 54 min | IDR | Retail Sales (YoY) (Apr) |  |  | 9.3% |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |
 | 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -11.6% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.584% |
 | 10:30 | ZAR | Business Confidence (May) |  |  | 114.7 |
 | 11:00 | USD | NFIB Small Business Optimism (May) |  | 89.7 | 89.7 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
-| 13:00 | MXN | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 13:00 | MXN | Industrial Production (MoM) (Apr) |  |  | 0.6% |
+| 13:00 | MXN | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
 | 13:00 | BRL | CPI (MoM) (May) |  | 0.42% | 0.38% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.8% |

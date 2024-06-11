@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | NAB Business Confidence (May) | -3 |  | 1 |
+| 02:30 | AUD | NAB Business Confidence (May) | -3 |  | 2 |
 | 07:00 | GBP | Average Earnings Index +Bonus (Apr) |  | 5.7% | 5.7% |
 | 07:00 | GBP | Claimant Count Change (May) |  | 10.2K | 8.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) |  | -100K | -177K |
