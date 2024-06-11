@@ -13,8 +13,8 @@
 | 10:30 | EUR | Spanish 3-Month Letras Auction | 3.374% |  | 3.584% |
 | 10:30 | ZAR | Business Confidence (May) | 107.8 |  | 114.7 |
 | 11:00 | USD | NFIB Small Business Optimism (May) | 90.5 | 89.8 | 89.7 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) | 5.3% |  | -6.5% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
 | 13:00 | MXN | Industrial Production (YoY) (Apr) | 5.1% | 4.6% | -3.0% |
 | 13:00 | MXN | Industrial Production (MoM) (Apr) | -0.5% |  | 0.5% |
 | 13:00 | BRL | CPI (MoM) (May) | 0.46% | 0.42% | 0.38% |
