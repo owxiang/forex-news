@@ -7,7 +7,8 @@
 | 00:50 | JPY | Low | M3 Money Supply (May) | 2,173.4B |  | 2,158.7B |
 | 02:30 | AUD | Moderate | NAB Business Confidence (May) | -3 |  | 2 |
 | 02:30 | AUD | Low | NAB Business Survey (May) | 6 |  | 7 |
-| 54 min | IDR | Low | Retail Sales (YoY) (Apr) |  |  | 9.3% |
+| 03:15 | IDR | Low | Car Sales (YoY) (May) | -13.30% |  | -17.50% |
+| 04:20 | IDR | Low | Retail Sales (YoY) (Apr) | -2.7% |  | 9.3% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 5.7% | 5.7% |
 | 07:00 | GBP | Moderate | Claimant Count Change (May) |  | 10.2K | 8.9K |
@@ -19,12 +20,12 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 89.7 | 89.7 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
-| 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
+| 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.8% | -11.7% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
