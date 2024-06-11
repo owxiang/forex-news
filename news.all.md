@@ -21,8 +21,8 @@
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
 | 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
