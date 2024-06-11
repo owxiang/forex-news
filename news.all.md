@@ -15,17 +15,18 @@
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) | -140K | -100K | -177K |
 | 07:00 | GBP | Moderate | Unemployment Rate (Apr) | 4.4% | 4.3% | 4.3% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | 4.2% |  | -11.6% |
-| 33 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.584% |
-| 10:30 | ZAR | Low | Business Confidence (May) |  |  | 114.7 |
-| 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 89.8 | 89.7 |
+| 08:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
+| 10:00 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.584% |
+| 24 min | ZAR | Low | Business Confidence (May) |  |  | 114.7 |
+| 54 min | USD | Low | NFIB Small Business Optimism (May) |  | 89.8 | 89.7 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
-| 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
+| 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
