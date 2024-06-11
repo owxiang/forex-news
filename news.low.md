@@ -15,8 +15,8 @@
 | 11:00 | USD | NFIB Small Business Optimism (May) | 90.5 | 89.8 | 89.7 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) | 5.3% |  | -6.5% |
-| 13:00 | MXN | Industrial Production (YoY) (Apr) | 5.1% | 4.6% | -3.0% |
 | 13:00 | MXN | Industrial Production (MoM) (Apr) | -0.5% |  | 0.5% |
+| 13:00 | MXN | Industrial Production (YoY) (Apr) | 5.1% | 4.6% | -3.0% |
 | 13:00 | BRL | CPI (MoM) (May) | 0.46% | 0.42% | 0.38% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.49% |  | 0.33% |
 | 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.8% |

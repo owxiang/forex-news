@@ -14,4 +14,4 @@
 | 13:30 | CAD | Building Permits (MoM) (Apr) | 20.5% | 4.9% | -12.3% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | EUR | ECB's Elderson Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -1.750M | 4.052M |
+| 25 min | USD | API Weekly Crude Oil Stock |  | -1.750M | 4.052M |

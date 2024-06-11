@@ -23,8 +23,8 @@
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | 5.3% |  | -6.5% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | 5.1% | 4.6% | -3.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | -0.5% |  | 0.5% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | 5.1% | 4.6% | -3.0% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) | 3.93% | 3.88% | 3.69% |
 | 13:00 | BRL | Low | CPI (MoM) (May) | 0.46% | 0.42% | 0.38% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.49% |  | 0.33% |
@@ -34,7 +34,7 @@
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 18:00 | USD | High | 10-Year Note Auction | 4.438% |  | 4.483% |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -1.750M | 4.052M |
+| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | -1.750M | 4.052M |
 | 23:45 | NZD | Low | External Migration & Visitors (Apr) |  |  | 27.90% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (Apr) |  |  | 4,910 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | 9.1% |
