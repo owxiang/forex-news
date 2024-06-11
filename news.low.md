@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Current Account (Apr) | -0.29B |  | 6.93B |
-| 45 min | JPY | M2 Money Stock (YoY) |  | 2.1% | 2.2% |
-| 45 min | JPY | M3 Money Supply (May) |  |  | 2,140.6B |
+| 00:50 | JPY | M2 Money Stock (YoY) | 1.9% | 2.1% | 2.2% |
+| 00:50 | JPY | M3 Money Supply (May) | 2,173.4B |  | 2,158.7B |
 | 02:30 | AUD | NAB Business Survey (May) |  |  | 7 |
 | 05:00 | IDR | Retail Sales (YoY) (Apr) |  |  | 9.3% |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |

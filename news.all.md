@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Current Account (Apr) | -0.29B |  | 6.93B |
-| 45 min | JPY | Low | M2 Money Stock (YoY) |  | 2.1% | 2.2% |
-| 45 min | JPY | Low | M3 Money Supply (May) |  |  | 2,140.6B |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.9% | 2.1% | 2.2% |
+| 00:50 | JPY | Low | M3 Money Supply (May) | 2,173.4B |  | 2,158.7B |
 | 02:30 | AUD | Moderate | NAB Business Confidence (May) |  |  | 1 |
 | 02:30 | AUD | Low | NAB Business Survey (May) |  |  | 7 |
 | 05:00 | IDR | Low | Retail Sales (YoY) (Apr) |  |  | 9.3% |
