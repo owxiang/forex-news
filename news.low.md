@@ -13,12 +13,12 @@
 | 10:30 | EUR | Spanish 3-Month Letras Auction | 3.374% |  | 3.584% |
 | 10:30 | ZAR | Business Confidence (May) | 107.8 |  | 114.7 |
 | 11:00 | USD | NFIB Small Business Optimism (May) | 90.5 | 89.8 | 89.7 |
-| 55 min | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
-| 55 min | ZAR | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
-| 13:00 | MXN | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
-| 13:00 | MXN | Industrial Production (MoM) (Apr) |  |  | 0.6% |
-| 13:00 | BRL | CPI (MoM) (May) |  | 0.42% | 0.38% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (Apr) | 5.3% |  | -6.5% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
+| 54 min | MXN | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
+| 54 min | MXN | Industrial Production (MoM) (Apr) |  |  | 0.6% |
+| 54 min | BRL | CPI (MoM) (May) |  | 0.42% | 0.38% |
+| 54 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.8% |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 4.895% |
 | 23:45 | NZD | External Migration & Visitors (Apr) |  |  | 27.90% |

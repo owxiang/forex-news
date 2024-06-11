@@ -19,15 +19,15 @@
 | 10:30 | EUR | Low | Spanish 3-Month Letras Auction | 3.374% |  | 3.584% |
 | 10:30 | ZAR | Low | Business Confidence (May) | 107.8 |  | 114.7 |
 | 11:00 | USD | Low | NFIB Small Business Optimism (May) | 90.5 | 89.8 | 89.7 |
-| 55 min | USD | Moderate | OPEC Monthly Report |  |  |  |
-| 55 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 55 min | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
-| 55 min | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
-| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
-| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
-| 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
-| 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
-| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | 5.3% |  | -6.5% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
+| 54 min | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
+| 54 min | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
+| 54 min | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
+| 54 min | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
+| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.895% |
