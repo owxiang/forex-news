@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | NAB Business Confidence (May) | -3 |  | 2 |
-| 54 min | GBP | Average Earnings Index +Bonus (Apr) |  | 5.7% | 5.7% |
-| 54 min | GBP | Claimant Count Change (May) |  | 10.2K | 8.9K |
-| 54 min | GBP | Employment Change 3M/3M (MoM) (Apr) |  | -100K | -177K |
-| 54 min | GBP | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
+| 07:00 | GBP | Average Earnings Index +Bonus (Apr) | 5.9% | 5.7% | 5.9% |
+| 07:00 | GBP | Claimant Count Change (May) | 50.4K | 10.2K | 8.4K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (Apr) | -140K | -100K | -177K |
+| 07:00 | GBP | Unemployment Rate (Apr) | 4.4% | 4.3% | 4.3% |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (May) |  | 3.88% | 3.69% |
