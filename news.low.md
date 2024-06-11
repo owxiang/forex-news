@@ -10,7 +10,7 @@
 | 04:20 | IDR | Retail Sales (YoY) (Apr) | -2.7% |  | 9.3% |
 | 07:00 | GBP | Average Earnings ex Bonus (Apr) | 6.0% | 6.0% | 6.0% |
 | 07:00 | JPY | Machine Tool Orders (YoY) | 4.2% |  | -11.6% |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.584% |
+| 33 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.584% |
 | 10:30 | ZAR | Business Confidence (May) |  |  | 114.7 |
 | 11:00 | USD | NFIB Small Business Optimism (May) |  | 89.8 | 89.7 |
 | 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
