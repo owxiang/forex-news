@@ -8,13 +8,13 @@
 | 02:30 | AUD | NAB Business Survey (May) | 6 |  | 7 |
 | 03:15 | IDR | Car Sales (YoY) (May) | -13.30% |  | -17.50% |
 | 04:20 | IDR | Retail Sales (YoY) (Apr) | -2.7% |  | 9.3% |
-| 07:00 | GBP | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |
-| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | -11.6% |
+| 54 min | GBP | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |
+| 54 min | JPY | Machine Tool Orders (YoY) |  |  | -11.6% |
 | 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.584% |
 | 10:30 | ZAR | Business Confidence (May) |  |  | 114.7 |
-| 11:00 | USD | NFIB Small Business Optimism (May) |  | 89.7 | 89.7 |
-| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
+| 11:00 | USD | NFIB Small Business Optimism (May) |  | 89.8 | 89.7 |
 | 12:00 | ZAR | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 13:00 | MXN | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
 | 13:00 | MXN | Industrial Production (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | BRL | CPI (MoM) (May) |  | 0.42% | 0.38% |

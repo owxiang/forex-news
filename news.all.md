@@ -9,25 +9,25 @@
 | 02:30 | AUD | Low | NAB Business Survey (May) | 6 |  | 7 |
 | 03:15 | IDR | Low | Car Sales (YoY) (May) | -13.30% |  | -17.50% |
 | 04:20 | IDR | Low | Retail Sales (YoY) (Apr) | -2.7% |  | 9.3% |
-| 07:00 | GBP | Low | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |
-| 07:00 | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 5.7% | 5.7% |
-| 07:00 | GBP | Moderate | Claimant Count Change (May) |  | 10.2K | 8.9K |
-| 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) |  | -100K | -177K |
-| 07:00 | GBP | Moderate | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | -11.6% |
+| 54 min | GBP | Low | Average Earnings ex Bonus (Apr) |  | 6.0% | 6.0% |
+| 54 min | GBP | Moderate | Average Earnings Index +Bonus (Apr) |  | 5.7% | 5.7% |
+| 54 min | GBP | Moderate | Claimant Count Change (May) |  | 10.2K | 8.9K |
+| 54 min | GBP | Moderate | Employment Change 3M/3M (MoM) (Apr) |  | -100K | -177K |
+| 54 min | GBP | Moderate | Unemployment Rate (Apr) |  | 4.3% | 4.3% |
+| 54 min | JPY | Low | Machine Tool Orders (YoY) |  |  | -11.6% |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.584% |
 | 10:30 | ZAR | Low | Business Confidence (May) |  |  | 114.7 |
-| 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 89.7 | 89.7 |
+| 11:00 | USD | Low | NFIB Small Business Optimism (May) |  | 89.8 | 89.7 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) |  |  | -6.4% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) |  |  | -2.2% |
 | 13:00 | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
 | 13:00 | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
 | 13:00 | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
 | 13:00 | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.8% | -11.7% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.895% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
