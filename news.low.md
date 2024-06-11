@@ -21,6 +21,6 @@
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.49% |  | 0.33% |
 | 13:55 | USD | Redbook (YoY) | 5.5% |  | 5.8% |
 | 16:30 | USD | 52-Week Bill Auction | 4.915% |  | 4.895% |
-| 23:45 | NZD | External Migration & Visitors (Apr) |  |  | 27.90% |
-| 23:45 | NZD | Permanent/Long-Term Migration (Apr) |  |  | 4,910 |
-| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | 9.1% |
+| 40 min | NZD | External Migration & Visitors (Apr) |  |  | 27.90% |
+| 40 min | NZD | Permanent/Long-Term Migration (Apr) |  |  | 4,910 |
+| 40 min | NZD | Visitor Arrivals (MoM) |  |  | 9.1% |
