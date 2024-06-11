@@ -12,6 +12,6 @@
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:00 | BRL | CPI (YoY) (May) | 3.93% | 3.88% | 3.69% |
 | 13:30 | CAD | Building Permits (MoM) (Apr) | 20.5% | 4.9% | -12.3% |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 54 min | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.052M |
