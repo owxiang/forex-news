@@ -23,13 +23,13 @@
 | 12:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (Apr) | 5.3% |  | -6.5% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (Apr) | 5.2% |  | -2.5% |
-| 54 min | MXN | Low | Industrial Production (YoY) (Apr) |  | 4.6% | -3.0% |
-| 54 min | MXN | Low | Industrial Production (MoM) (Apr) |  |  | 0.6% |
-| 54 min | BRL | Low | CPI (MoM) (May) |  | 0.42% | 0.38% |
-| 54 min | BRL | Moderate | CPI (YoY) (May) |  | 3.88% | 3.69% |
-| 54 min | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) |  |  | 0.33% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (Apr) | 5.1% | 4.6% | -3.0% |
+| 13:00 | MXN | Low | Industrial Production (MoM) (Apr) | -0.5% |  | 0.5% |
+| 13:00 | BRL | Moderate | CPI (YoY) (May) | 3.93% | 3.88% | 3.69% |
+| 13:00 | BRL | Low | CPI (MoM) (May) | 0.46% | 0.42% | 0.38% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (May) | 0.49% |  | 0.33% |
+| 22 min | CAD | Moderate | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
+| 47 min | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.895% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |

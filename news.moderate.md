@@ -10,8 +10,8 @@
 | 08:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
 | 12:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 54 min | BRL | CPI (YoY) (May) |  | 3.88% | 3.69% |
-| 13:30 | CAD | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
+| 13:00 | BRL | CPI (YoY) (May) | 3.93% | 3.88% | 3.69% |
+| 22 min | CAD | Building Permits (MoM) (Apr) |  | 4.9% | -11.7% |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 17:45 | EUR | ECB's Elderson Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | 4.052M |
