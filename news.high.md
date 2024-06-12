@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 55 min | GBP | GDP (MoM) (Apr) |  | 0.0% | 0.4% |
-| 55 min | EUR | German CPI (MoM) (May) |  | 0.1% | 0.5% |
+| 07:00 | GBP | GDP (MoM) (Apr) | 0.0% | 0.0% | 0.4% |
+| 07:00 | EUR | German CPI (MoM) (May) | 0.1% | 0.1% | 0.5% |
 | 13:30 | USD | Core CPI (MoM) (May) |  | 0.3% | 0.3% |
 | 13:30 | USD | CPI (YoY) (May) |  | 3.4% | 3.4% |
 | 13:30 | USD | CPI (MoM) (May) |  | 0.1% | 0.3% |
