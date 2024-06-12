@@ -22,10 +22,10 @@
 | 13:00 | INR | CPI (YoY) (May) | 4.75% | 4.90% | 4.83% |
 | 13:30 | USD | Core CPI (YoY) (May) | 3.4% | 3.5% | 3.6% |
 | 14:00 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 38 min | EUR | ECB McCaul Speaks |  |  |  |
-| 53 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 58 min | EUR | German Buba Mauderer Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.854M |
+| 14:45 | EUR | ECB McCaul Speaks |  |  |  |
+| 15:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 15:05 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 25 min | USD | Cushing Crude Oil Inventories |  |  | 0.854M |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (May) |  | -279.6B | 210.0B |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
