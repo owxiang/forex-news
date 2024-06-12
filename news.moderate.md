@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
+| 02:30 | CNY | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
 | 07:00 | GBP | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 0.2% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Apr) | -1.4% | -0.2% | 0.3% |
@@ -27,12 +27,12 @@
 | 15:05 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.593M |  | 0.854M |
 | 17:00 | USD | WASDE Report |  |  |  |
-| 55 min | USD | Federal Budget Balance (May) |  | -279.6B | 210.0B |
-| 55 min | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
-| 55 min | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
-| 55 min | USD | Interest Rate Projection - 3rd Yr |  |  | 2.9% |
-| 55 min | USD | Interest Rate Projection - Current (Q2) |  |  | 4.6% |
-| 55 min | USD | Interest Rate Projection - Longer (Q2) |  |  | 2.6% |
+| 19:00 | USD | Federal Budget Balance (May) | -347.0B | -279.6B | 210.0B |
+| 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) | 4.1% |  | 3.9% |
+| 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) | 3.1% |  | 3.1% |
+| 19:00 | USD | Interest Rate Projection - 3rd Yr |  |  | 2.9% |
+| 19:00 | USD | Interest Rate Projection - Current (Q2) | 5.1% |  | 4.6% |
+| 19:00 | USD | Interest Rate Projection - Longer (Q2) | 2.8% |  | 2.6% |
 | 20:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |

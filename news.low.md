@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 00:50 | JPY | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
+| 00:50 | JPY | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 04:20 | IDR | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
-| 07:00 | GBP | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | -3.3% | -1.8% | -2.2% |
+| 07:00 | GBP | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Apr) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Index of Services | 0.9% | 0.8% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.4% | 0.3% | 0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Apr) | 0.4% | 1.6% | 2.3% |
-| 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 07:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
+| 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 10:40 | EUR | Italian 12-Month BOT Auction | 3.584% |  | 3.545% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.07% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 15.6% |  | -5.2% |
@@ -24,8 +24,8 @@
 | 12:30 | INR | M3 Money Supply | 10.9% |  | 10.9% |
 | 13:00 | INR | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 5.4% |
 | 13:00 | INR | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.8% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
 | 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
 | 13:30 | USD | Core CPI Index (May) | 318.14 |  | 317.62 |
 | 13:30 | USD | CPI Index, n.s.a. (May) | 314.07 | 314.37 | 313.55 |
 | 13:30 | USD | CPI Index, s.a (May) | 313.23 |  | 313.21 |
@@ -44,4 +44,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 47.14 |  | 47.25 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 57.25 |  | 61.00 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) | 52.33 |  | 51.69 |
+| 18:30 | BRL | Foreign Exchange Flows | 5.299B |  | 0.632B |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
