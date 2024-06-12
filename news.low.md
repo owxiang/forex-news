@@ -24,8 +24,8 @@
 | 12:30 | INR | M3 Money Supply | 10.9% |  | 10.9% |
 | 13:00 | INR | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 5.4% |
 | 13:00 | INR | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.8% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
 | 13:30 | USD | Core CPI Index (May) | 318.14 | 318.50 | 317.62 |
 | 13:30 | USD | CPI Index, n.s.a. (May) | 314.07 | 314.37 | 313.55 |
 | 13:30 | USD | CPI Index, s.a (May) | 313.23 |  | 313.21 |

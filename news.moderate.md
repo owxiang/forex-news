@@ -32,6 +32,6 @@
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) | 3.1% | 3.1% | 3.1% |
 | 19:00 | USD | Interest Rate Projection - Current (Q2) | 5.1% | 4.9% | 4.6% |
 | 19:00 | USD | Interest Rate Projection - Longer (Q2) | 2.8% | 2.8% | 2.6% |
-| 9 min | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 24 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 20:15 | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 20:30 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |
