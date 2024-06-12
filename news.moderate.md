@@ -12,7 +12,7 @@
 | 07:00 | GBP | Trade Balance Non-EU (Apr) | -7.29B |  | -3.81B |
 | 07:00 | EUR | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 08:00 | EUR | German Buba Balz Speaks |  |  |  |
-| 54 min | USD | IEA Monthly Report |  |  |  |
+| 09:00 | USD | IEA Monthly Report |  |  |  |
 | 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.530% |
 | 10:30 | EUR | ECB's Schnabel Speaks |  |  |  |

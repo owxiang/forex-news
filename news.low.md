@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 00:50 | JPY | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
+| 00:50 | JPY | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 04:20 | IDR | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
-| 07:00 | GBP | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | -3.3% | -1.8% | -2.2% |
+| 07:00 | GBP | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
 | 07:00 | GBP | GDP (YoY) (Apr) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Index of Services | 0.9% | 0.8% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.4% | 0.3% | 0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Apr) | 0.4% | 1.6% | 2.3% |
-| 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 07:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
+| 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.545% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.4% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | -2.3% |
