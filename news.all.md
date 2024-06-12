@@ -3,14 +3,14 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
-| 02:30 | CNY | Moderate | CPI (MoM) (May) |  | 0.0% | 0.1% |
-| 02:30 | CNY | Moderate | CPI (YoY) (May) |  | 0.4% | 0.3% |
-| 02:30 | CNY | Moderate | PPI (YoY) (May) |  | -1.5% | -2.5% |
+| 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
+| 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
+| 02:30 | CNY | Moderate | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
+| 02:30 | CNY | Moderate | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
 | 04:00 | IDR | Low | Consumer Confidence |  |  | 127.7 |
-| 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.1% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.1% | -0.4% |
 | 07:00 | GBP | High | GDP (MoM) (Apr) |  | 0.0% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) |  | 0.6% | 0.7% |
 | 07:00 | GBP | Low | Index of Services |  | 0.8% | 0.7% |
