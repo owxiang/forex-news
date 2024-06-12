@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
+| 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
@@ -23,8 +23,8 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) | -7.29B |  | -3.81B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.5% |
-| 07:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 07:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
@@ -41,25 +41,24 @@
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 10.9% |
 | 12:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | INR | Moderate | CPI (YoY) (May) | 4.75% | 4.90% | 4.83% |
-| 13:00 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 5.80% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 4.9% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | 2.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.4% |
-| 22 min | USD | Moderate | Core CPI (YoY) (May) |  | 3.5% | 3.6% |
-| 22 min | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.3% |
-| 22 min | USD | Low | Core CPI Index (May) |  |  | 317.62 |
-| 22 min | USD | High | CPI (MoM) (May) |  | 0.1% | 0.3% |
-| 22 min | USD | High | CPI (YoY) (May) |  | 3.4% | 3.4% |
-| 22 min | USD | Low | CPI Index, n.s.a. (May) |  | 314.37 | 313.55 |
-| 22 min | USD | Low | CPI Index, s.a (May) |  |  | 312.21 |
-| 22 min | USD | Low | CPI, n.s.a (MoM) (May) |  |  | 0.39% |
-| 22 min | USD | Low | Real Earnings (MoM) (May) |  |  | -0.4% |
-| 37 min | EUR | Low | German Current Account Balance n.s.a (Apr) |  |  | 27.6B |
-| 52 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 14:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 15:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 15:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
+| 13:30 | USD | High | Core CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (May) | 3.4% | 3.5% | 3.6% |
+| 13:30 | USD | Low | Core CPI Index (May) | 318.14 |  | 317.62 |
+| 13:30 | USD | High | CPI (YoY) (May) | 3.3% | 3.4% | 3.4% |
+| 13:30 | USD | High | CPI (MoM) (May) | 0.0% | 0.1% | 0.3% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (May) | 314.07 | 314.37 | 313.55 |
+| 13:30 | USD | Low | CPI Index, s.a (May) | 313.23 |  | 313.21 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (May) | 0.17% |  | 0.39% |
+| 13:30 | USD | Low | Real Earnings (MoM) (May) | 0.4% |  | -0.4% |
+| 13:30 | EUR | Low | German Current Account Balance n.s.a (Apr) | 25.9B |  | 27.6B |
+| 14:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 38 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 53 min | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 58 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | 1.233M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.061M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.013M |
@@ -70,13 +69,13 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.362M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
 | 15:30 | USD | Low | Gasoline Inventories |  | 0.250M | 2.102M |
+| 15:30 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 5.80% |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
 | 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 54.31 |
 | 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 47.25 |
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 61.00 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 51.69 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.428B |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -279.6B | 210.0B |
 | 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
@@ -89,5 +88,5 @@
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
