@@ -21,8 +21,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Apr) | -19.61B | -14.20B | -13.97B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) | -7.29B |  | -3.81B |
-| 07:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.5% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
+| 07:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.5% |
 | 07:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 07:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
@@ -44,13 +44,13 @@
 | 13:00 | INR | Moderate | CPI (YoY) (May) | 4.75% | 4.90% | 4.83% |
 | 13:00 | INR | Low | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 5.4% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.8% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
 | 13:30 | USD | High | Core CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) | 3.4% | 3.5% | 3.6% |
 | 13:30 | USD | Low | Core CPI Index (May) | 318.14 |  | 317.62 |
-| 13:30 | USD | High | CPI (YoY) (May) | 3.3% | 3.4% | 3.4% |
 | 13:30 | USD | High | CPI (MoM) (May) | 0.0% | 0.1% | 0.3% |
+| 13:30 | USD | High | CPI (YoY) (May) | 3.3% | 3.4% | 3.4% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (May) | 314.07 | 314.37 | 313.55 |
 | 13:30 | USD | Low | CPI Index, s.a (May) | 313.23 |  | 313.21 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (May) | 0.17% |  | 0.39% |
@@ -75,17 +75,17 @@
 | 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 57.25 |  | 61.00 |
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) | 52.33 |  | 51.69 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
-| 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -279.6B | 210.0B |
-| 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
-| 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr |  |  | 2.9% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Current (Q2) |  |  | 4.6% |
-| 19:00 | USD | Moderate | Interest Rate Projection - Longer (Q2) |  |  | 2.6% |
-| 19:00 | USD | High | FOMC Economic Projections |  |  |  |
-| 19:00 | USD | High | FOMC Statement |  |  |  |
-| 19:00 | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
+| 55 min | USD | Moderate | Federal Budget Balance (May) |  | -279.6B | 210.0B |
+| 55 min | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
+| 55 min | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
+| 55 min | USD | Moderate | Interest Rate Projection - 3rd Yr |  |  | 2.9% |
+| 55 min | USD | Moderate | Interest Rate Projection - Current (Q2) |  |  | 4.6% |
+| 55 min | USD | Moderate | Interest Rate Projection - Longer (Q2) |  |  | 2.6% |
+| 55 min | USD | High | FOMC Economic Projections |  |  |  |
+| 55 min | USD | High | FOMC Statement |  |  |  |
+| 55 min | USD | High | Fed Interest Rate Decision |  | 5.50% | 5.50% |
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |
