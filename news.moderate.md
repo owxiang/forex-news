@@ -25,8 +25,8 @@
 | 14:45 | EUR | ECB McCaul Speaks |  |  |  |
 | 15:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 15:05 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 25 min | USD | Cushing Crude Oil Inventories |  |  | 0.854M |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories | -1.593M |  | 0.854M |
+| 54 min | USD | WASDE Report |  |  |  |
 | 19:00 | USD | Federal Budget Balance (May) |  | -279.6B | 210.0B |
 | 19:00 | USD | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
 | 19:00 | USD | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |

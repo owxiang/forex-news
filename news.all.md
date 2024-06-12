@@ -3,28 +3,28 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
+| 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
 | 04:20 | IDR | Low | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) | -3.3% | -1.8% | -2.2% |
+| 07:00 | GBP | Low | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
 | 07:00 | GBP | High | GDP (MoM) (Apr) | 0.0% | 0.0% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 0.9% | 0.8% | 0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 0.2% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (Apr) | -0.4% | 0.3% | 0.5% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 0.4% | 1.6% | 2.3% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 0.2% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) | -1.4% | -0.2% | 0.3% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) | 0.4% | 1.6% | 2.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) | 0.7% | 0.7% | 0.6% |
 | 07:00 | GBP | Moderate | Trade Balance (Apr) | -19.61B | -14.20B | -13.97B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) | -7.29B |  | -3.81B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 07:00 | EUR | High | German CPI (MoM) (May) | 0.1% | 0.1% | 0.5% |
-| 07:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 07:00 | EUR | Low | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
+| 07:00 | EUR | Low | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:15 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
@@ -42,10 +42,10 @@
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 10.9% |
 | 12:30 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | INR | Moderate | CPI (YoY) (May) | 4.75% | 4.90% | 4.83% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 4.9% |
-| 13:00 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.2% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
+| 13:00 | INR | Low | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 5.4% |
+| 13:00 | INR | Low | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.8% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.7% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | -2.2% |
 | 13:30 | USD | High | Core CPI (MoM) (May) | 0.2% | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) | 3.4% | 3.5% | 3.6% |
 | 13:30 | USD | Low | Core CPI Index (May) | 318.14 |  | 317.62 |
@@ -59,23 +59,21 @@
 | 14:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 15:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 25 min | USD | High | Crude Oil Inventories |  | -1.200M | 1.233M |
-| 25 min | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.061M |
-| 25 min | USD | Low | Crude Oil Imports |  |  | 0.013M |
-| 25 min | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.854M |
-| 25 min | USD | Low | Distillate Fuel Production |  |  | 0.031M |
-| 25 min | USD | Low | EIA Weekly Distillates Stocks |  | 0.500M | 3.197M |
-| 25 min | USD | Low | Gasoline Production |  |  | -0.527M |
-| 25 min | USD | Low | Heating Oil Stockpiles |  |  | 0.362M |
-| 25 min | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.1% |
-| 25 min | USD | Low | Gasoline Inventories |  | 0.250M | 2.102M |
-| 25 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 5.80% |
-| 55 min | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
-| 55 min | USD | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 54.31 |
-| 55 min | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 47.25 |
-| 55 min | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 61.00 |
-| 55 min | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 51.69 |
-| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories | 3.730M | -1.200M | 1.233M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.097M |  | 0.061M |
+| 15:30 | USD | Low | Crude Oil Imports | 2.559M |  | 0.013M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -1.593M |  | 0.854M |
+| 15:30 | USD | Low | Distillate Fuel Production | -0.029M |  | 0.031M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks | 0.881M | 0.500M | 3.197M |
+| 15:30 | USD | Low | Gasoline Production | 0.602M |  | -0.527M |
+| 15:30 | USD | Low | Heating Oil Stockpiles | -0.656M |  | 0.362M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 1.1% |
+| 15:30 | USD | Low | Gasoline Inventories | 2.566M | 0.250M | 2.102M |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jun) | 53.82 |  | 54.31 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 47.14 |  | 47.25 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 57.25 |  | 61.00 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) | 52.33 |  | 51.69 |
+| 54 min | USD | Moderate | WASDE Report |  |  |  |
 | 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -279.6B | 210.0B |
 | 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
