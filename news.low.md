@@ -3,11 +3,11 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 00:50 | JPY | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
-| 04:00 | IDR | Consumer Confidence |  |  | 127.7 |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
+| 00:50 | JPY | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
+| 42 min | IDR | Consumer Confidence |  |  | 127.7 |
 | 07:00 | GBP | Construction Output (MoM) (Apr) |  | 0.1% | -0.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
 | 07:00 | GBP | GDP (YoY) (Apr) |  | 0.6% | 0.7% |
 | 07:00 | GBP | Index of Services |  | 0.8% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) |  | 0.3% | 0.5% |
