@@ -3,20 +3,19 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
+| 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
-| 04:00 | IDR | Low | Consumer Confidence |  |  | 127.7 |
-| 55 min | IDR | Low | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
+| 04:20 | IDR | Low | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
 | 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.1% | -0.4% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
 | 07:00 | GBP | High | GDP (MoM) (Apr) |  | 0.0% | 0.4% |
 | 07:00 | GBP | Low | GDP (YoY) (Apr) |  | 0.6% | 0.7% |
 | 07:00 | GBP | Low | Index of Services |  | 0.8% | 0.7% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.1% | 0.2% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | 0.3% | 0.5% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.2% | 0.3% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 1.6% | 2.3% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
@@ -46,7 +45,7 @@
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.7% |
 | 13:00 | INR | Moderate | CPI (YoY) (May) |  | 4.90% | 4.83% |
 | 13:00 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 5.80% |
-| 13:00 | INR | Low | Industrial Production (YoY) (Apr) |  |  | 4.9% |
+| 13:00 | INR | Low | Industrial Production (YoY) (Apr) |  | 4.6% | 4.9% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (Apr) |  |  | 5.2% |
 | 13:30 | USD | High | Core CPI (MoM) (May) |  | 0.3% | 0.3% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (May) |  | 3.5% | 3.6% |
