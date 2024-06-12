@@ -3,17 +3,17 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 00:50 | JPY | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
+| 00:50 | JPY | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 04:20 | IDR | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | -3.3% | -1.8% | -2.2% |
 | 07:00 | GBP | Construction Output (MoM) (Apr) | -1.4% | 0.1% | -0.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (Apr) | -3.3% | -1.8% | -2.2% |
 | 07:00 | GBP | GDP (YoY) (Apr) | 0.6% | 0.6% | 0.7% |
 | 07:00 | GBP | Index of Services | 0.9% | 0.8% | 0.7% |
 | 07:00 | GBP | Industrial Production (YoY) (Apr) | -0.4% | 0.3% | 0.5% |
 | 07:00 | GBP | Manufacturing Production (YoY) (Apr) | 0.4% | 1.6% | 2.3% |
-| 07:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
 | 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 07:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
 | 10:40 | EUR | Italian 12-Month BOT Auction | 3.584% |  | 3.545% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.07% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | 15.6% |  | -5.2% |
@@ -39,6 +39,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.656M |  | 0.362M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -0.4% |  | 1.1% |
 | 15:30 | USD | Gasoline Inventories | 2.566M | 0.250M | 2.102M |
+| 16:00 | USD | Cleveland CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 16:00 | USD | Thomson Reuters IPSOS PCSI (Jun) | 53.82 |  | 54.31 |
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 47.14 |  | 47.25 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 57.25 |  | 61.00 |
