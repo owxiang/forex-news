@@ -45,4 +45,4 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 57.25 |  | 61.00 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jun) | 52.33 |  | 51.69 |
 | 18:30 | BRL | Foreign Exchange Flows | 5.299B |  | 0.632B |
-| 23:45 | NZD | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
+| 39 min | NZD | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |

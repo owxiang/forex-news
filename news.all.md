@@ -87,5 +87,5 @@
 | 19:30 | USD | High | FOMC Press Conference |  |  |  |
 | 20:15 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 20:30 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |
+| 39 min | NZD | Low | Electronic Card Retail Sales (YoY) (May) |  |  | -3.8% |
+| 39 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (May) |  |  | -0.4% |
