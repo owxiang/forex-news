@@ -13,10 +13,10 @@
 | 07:00 | EUR | German CPI (YoY) (May) | 2.4% | 2.4% | 2.2% |
 | 08:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 09:00 | USD | IEA Monthly Report |  |  |  |
-| 10:15 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.530% |
-| 10:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 9 min | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
+| 24 min | EUR | German 10-Year Bund Auction |  |  | 2.530% |
+| 24 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.7% |
 | 13:00 | INR | CPI (YoY) (May) |  | 4.90% | 4.83% |
