@@ -3,28 +3,28 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (May) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 00:50 | JPY | Low | PPI (MoM) (May) | 0.7% | 0.4% | 0.5% |
+| 00:50 | JPY | Low | PPI (YoY) (May) | 2.4% | 2.0% | 1.1% |
 | 02:30 | CNY | Moderate | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
 | 04:20 | IDR | Low | Motorbike Sales (YoY) (May) | -4.50% |  | 18.30% |
-| 07:00 | GBP | Low | Construction Output (MoM) (Apr) |  | 0.1% | -0.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
-| 07:00 | GBP | High | GDP (MoM) (Apr) |  | 0.0% | 0.4% |
-| 07:00 | GBP | Low | GDP (YoY) (Apr) |  | 0.6% | 0.7% |
-| 07:00 | GBP | Low | Index of Services |  | 0.8% | 0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.1% | 0.2% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (Apr) |  | 0.3% | 0.5% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.2% | 0.3% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 1.6% | 2.3% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
-| 07:00 | GBP | Moderate | Trade Balance (Apr) |  | -14.20B | -13.97B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (Apr) |  |  | -3.81B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (May) |  | 2.4% | 2.2% |
-| 07:00 | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.5% |
-| 07:00 | EUR | Low | German HICP (YoY) (May) |  | 2.8% | 2.4% |
-| 07:00 | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 55 min | GBP | Low | Construction Output (MoM) (Apr) |  | 0.1% | -0.4% |
+| 55 min | GBP | Low | U.K. Construction Output (YoY) (Apr) |  | -1.8% | -2.2% |
+| 55 min | GBP | High | GDP (MoM) (Apr) |  | 0.0% | 0.4% |
+| 55 min | GBP | Low | GDP (YoY) (Apr) |  | 0.6% | 0.7% |
+| 55 min | GBP | Low | Index of Services |  | 0.8% | 0.7% |
+| 55 min | GBP | Moderate | Industrial Production (MoM) (Apr) |  | -0.1% | 0.2% |
+| 55 min | GBP | Low | Industrial Production (YoY) (Apr) |  | 0.3% | 0.5% |
+| 55 min | GBP | Low | Manufacturing Production (YoY) (Apr) |  | 1.6% | 2.3% |
+| 55 min | GBP | Moderate | Manufacturing Production (MoM) (Apr) |  | -0.2% | 0.3% |
+| 55 min | GBP | Moderate | Monthly GDP 3M/3M Change (Apr) |  | 0.7% | 0.6% |
+| 55 min | GBP | Moderate | Trade Balance (Apr) |  | -14.20B | -13.97B |
+| 55 min | GBP | Moderate | Trade Balance Non-EU (Apr) |  |  | -3.81B |
+| 55 min | EUR | Moderate | German CPI (YoY) (May) |  | 2.4% | 2.2% |
+| 55 min | EUR | High | German CPI (MoM) (May) |  | 0.1% | 0.5% |
+| 55 min | EUR | Low | German HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 55 min | EUR | Low | German HICP (YoY) (May) |  | 2.8% | 2.4% |
 | 08:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
 | 09:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.545% |
@@ -60,7 +60,7 @@
 | 14:45 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:00 | EUR | Moderate | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 15:05 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 15:30 | USD | High | Crude Oil Inventories |  | -1.750M | 1.233M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -1.200M | 1.233M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.061M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.013M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.854M |
@@ -77,7 +77,7 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jun) |  |  | 51.69 |
 | 17:00 | USD | Moderate | WASDE Report |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.428B |
-| 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -259.3B | 210.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (May) |  | -279.6B | 210.0B |
 | 19:00 | USD | Moderate | Interest Rate Projection - 1st Yr (Q2) |  |  | 3.9% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 2nd Yr (Q2) |  |  | 3.1% |
 | 19:00 | USD | Moderate | Interest Rate Projection - 3rd Yr |  |  | 2.9% |
