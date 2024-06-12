@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | CNY | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | CPI (YoY) (May) | 0.3% | 0.4% | 0.3% |
+| 02:30 | CNY | CPI (MoM) (May) | -0.1% | 0.0% | 0.1% |
 | 02:30 | CNY | PPI (YoY) (May) | -1.4% | -1.5% | -2.5% |
 | 07:00 | GBP | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 0.2% |
 | 07:00 | GBP | Manufacturing Production (MoM) (Apr) | -1.4% | -0.2% | 0.3% |
