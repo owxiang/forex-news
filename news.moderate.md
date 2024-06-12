@@ -17,11 +17,11 @@
 | 10:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 10:50 | EUR | German 10-Year Bund Auction | 2.600% |  | 2.530% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 12:00 | GBP | NIESR Monthly GDP Tracker | 0.7% |  | 0.7% |
 | 12:30 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.7% |
-| 13:00 | INR | CPI (YoY) (May) |  | 4.90% | 4.83% |
-| 13:30 | USD | Core CPI (YoY) (May) |  | 3.5% | 3.6% |
-| 14:00 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 13:00 | INR | CPI (YoY) (May) | 4.75% | 4.90% | 4.83% |
+| 22 min | USD | Core CPI (YoY) (May) |  | 3.5% | 3.6% |
+| 52 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 14:45 | EUR | ECB McCaul Speaks |  |  |  |
 | 15:00 | EUR | ECB Supervisory Board Member Tuominen Speaks |  |  |  |
 | 15:05 | EUR | German Buba Mauderer Speaks |  |  |  |

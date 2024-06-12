@@ -15,23 +15,23 @@
 | 07:00 | EUR | German HICP (YoY) (May) | 2.8% | 2.8% | 2.4% |
 | 07:00 | EUR | German HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 10:40 | EUR | Italian 12-Month BOT Auction | 3.584% |  | 3.545% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.07% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -5.2% |
-| 54 min | USD | MBA Purchase Index |  |  | 132.3 |
-| 54 min | USD | Mortgage Market Index |  |  | 180.4 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 432.1 |
-| 54 min | EUR | German Current Account Balance n.s.a (Apr) |  |  | 27.6B |
-| 12:30 | INR | M3 Money Supply |  |  | 10.9% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.02% |  | 7.07% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | 15.6% |  | -5.2% |
+| 12:00 | USD | MBA Purchase Index | 143.7 |  | 132.3 |
+| 12:00 | USD | Mortgage Market Index | 208.5 |  | 180.4 |
+| 12:00 | USD | Mortgage Refinance Index | 554.7 |  | 432.1 |
+| 12:30 | INR | M3 Money Supply | 10.9% |  | 10.9% |
 | 13:00 | INR | Cumulative Industrial Production (Apr) |  |  | 5.80% |
-| 13:00 | INR | Industrial Production (YoY) (Apr) |  | 4.6% | 4.9% |
-| 13:00 | INR | Manufacturing Output (MoM) (Apr) |  |  | 5.2% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) |  |  | 0.4% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) |  |  | -2.3% |
-| 13:30 | USD | Core CPI Index (May) |  |  | 317.62 |
-| 13:30 | USD | CPI Index, n.s.a. (May) |  | 314.37 | 313.55 |
-| 13:30 | USD | CPI Index, s.a (May) |  |  | 312.21 |
-| 13:30 | USD | CPI, n.s.a (MoM) (May) |  |  | 0.39% |
-| 13:30 | USD | Real Earnings (MoM) (May) |  |  | -0.4% |
+| 13:00 | INR | Industrial Production (YoY) (Apr) | 5.0% | 4.6% | 4.9% |
+| 13:00 | INR | Manufacturing Output (MoM) (Apr) | 3.9% |  | 5.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (Apr) | 5.6% |  | 2.2% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (Apr) | 0.5% |  | 0.4% |
+| 22 min | USD | Core CPI Index (May) |  |  | 317.62 |
+| 22 min | USD | CPI Index, n.s.a. (May) |  | 314.37 | 313.55 |
+| 22 min | USD | CPI Index, s.a (May) |  |  | 312.21 |
+| 22 min | USD | CPI, n.s.a (MoM) (May) |  |  | 0.39% |
+| 22 min | USD | Real Earnings (MoM) (May) |  |  | -0.4% |
+| 37 min | EUR | German Current Account Balance n.s.a (Apr) |  |  | 27.6B |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.061M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.013M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.031M |
