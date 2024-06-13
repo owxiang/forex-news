@@ -16,10 +16,10 @@
 | 07:30 | CHF | Low | PPI (YoY) (May) | -1.8% |  | -1.8% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 3.0% | 3.0% | 2.9% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.6% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.8% | 3.4% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.6% | 3.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.8% | 3.4% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.2% | 7.4% | 7.4% |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -39,19 +39,19 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 46.36 |  | 48.62 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.50 |  | 45.27 |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.0% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
-| 22 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.4% |
-| 22 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 3.1% |
-| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,792K |
-| 22 min | USD | Moderate | Core PPI (MoM) (May) |  | 0.3% | 0.5% |
-| 22 min | USD | Low | Core PPI (YoY) (May) |  | 2.4% | 2.4% |
-| 22 min | USD | High | Initial Jobless Claims |  | 225K | 229K |
-| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.25K |
-| 22 min | USD | High | PPI (MoM) (May) |  | 0.1% | 0.5% |
-| 22 min | USD | Low | PPI (YoY) (May) |  | 2.5% | 2.2% |
-| 14:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 14:35 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.3% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.0% |  | 0.5% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 3.2% |  | 3.2% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,820K | 1,800K | 1,790K |
+| 13:30 | USD | Low | Core PPI (YoY) (May) | 2.3% | 2.4% | 2.5% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.0% | 0.3% | 0.5% |
+| 13:30 | USD | High | Initial Jobless Claims | 242K | 225K | 229K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.00K |  | 222.25K |
+| 13:30 | USD | High | PPI (MoM) (May) | -0.2% | 0.1% | 0.5% |
+| 13:30 | USD | Low | PPI (YoY) (May) | 2.2% | 2.5% | 2.3% |
+| 23 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 28 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 75B | 98B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.265% |

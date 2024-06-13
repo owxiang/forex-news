@@ -14,12 +14,12 @@
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Apr) | -0.1% | 0.1% | 0.5% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | BRL | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.0% |
 | 13:00 | BRL | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
-| 22 min | USD | Continuing Jobless Claims |  | 1,800K | 1,792K |
-| 22 min | USD | Core PPI (MoM) (May) |  | 0.3% | 0.5% |
-| 14:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 14:35 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 13:00 | BRL | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.3% |
+| 13:30 | USD | Continuing Jobless Claims | 1,820K | 1,800K | 1,790K |
+| 13:30 | USD | Core PPI (MoM) (May) | 0.0% | 0.3% | 0.5% |
+| 23 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 28 min | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 18:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
