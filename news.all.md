@@ -12,8 +12,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | -1.8% |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.5% | 0.6% |
 | 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.5% | 0.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.6% | 3.3% |
@@ -35,6 +35,7 @@
 | 10:10 | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.52% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Apr) |  |  | -4.5% |
 | 10:30 | ZAR | Low | Mining Production (Apr) |  |  | -5.8% |
+| 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 52.8 |
 | 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 43.83 |
 | 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.51 |
@@ -52,8 +53,8 @@
 | 13:30 | USD | Low | Core PPI (YoY) (May) |  | 2.4% | 2.4% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 225K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.25K |
-| 13:30 | USD | Low | PPI (YoY) (May) |  | 2.5% | 2.2% |
 | 13:30 | USD | High | PPI (MoM) (May) |  | 0.1% | 0.5% |
+| 13:30 | USD | Low | PPI (YoY) (May) |  | 2.5% | 2.2% |
 | 14:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 14:35 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 75B | 98B |

@@ -23,6 +23,7 @@
 | 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.52% |
 | 10:30 | ZAR | Gold Production (YoY) (Apr) |  |  | -4.5% |
 | 10:30 | ZAR | Mining Production (Apr) |  |  | -5.8% |
+| 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jun) |  |  | 52.8 |
 | 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 43.83 |
 | 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.51 |
