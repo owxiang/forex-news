@@ -10,8 +10,8 @@
 | 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -7.6K |
 | 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) | -0.7% |  | -1.8% |
+| 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.3% | 0.5% | 0.6% |
 | 07:30 | CHF | Low | PPI (YoY) (May) | -1.8% |  | -1.8% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
@@ -20,15 +20,11 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.6% | 3.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.8% | 3.4% |
-| 54 min | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.4% | 7.4% |
-| 54 min | CNY | Low | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
-| 54 min | CNY | Moderate | New Loans (May) |  | 2,250.0B | 730.0B |
-| 54 min | CNY | Low | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
-| 54 min | CNY | Low | Chinese Total Social Financing (May) |  |  | -200.0B |
-| 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | 0.1% | 0.6% |
+| 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.2% | 7.4% | 7.4% |
+| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 53 min | EUR | Moderate | Industrial Production (MoM) (Apr) |  | 0.1% | 0.6% |
+| 53 min | EUR | Low | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.48% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.140% |
@@ -43,14 +39,17 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.62 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 45.27 |
-| 12:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
+| 12:00 | CNY | Low | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
+| 12:00 | CNY | Moderate | New Loans (May) |  | 2,250.0B | 730.0B |
+| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
+| 12:00 | CNY | Low | Chinese Total Social Financing (May) |  |  | -200.0B |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  | 3.4% | 5.7% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  | 1.3% | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 3.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,792K |
-| 13:30 | USD | Moderate | Core PPI (MoM) (May) |  | 0.3% | 0.5% |
 | 13:30 | USD | Low | Core PPI (YoY) (May) |  | 2.4% | 2.4% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (May) |  | 0.3% | 0.5% |
 | 13:30 | USD | High | Initial Jobless Claims |  | 225K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 222.25K |
 | 13:30 | USD | High | PPI (MoM) (May) |  | 0.1% | 0.5% |
