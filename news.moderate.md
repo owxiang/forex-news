@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (May) | -17% | -5% | -7% |
 | 00:50 | JPY | BSI Large Manufacturing Conditions (Q2) | -1.0 | -5.2 | -6.7 |
-| 02:30 | AUD | Employment Change (May) | 39.7K | 30.5K | 38.5K |
-| 02:30 | AUD | Full Employment Change (May) | 41.7K |  | -6.1K |
+| 02:30 | AUD | Employment Change (May) | 39.7K | 30.5K | 37.4K |
+| 02:30 | AUD | Full Employment Change (May) | 41.7K |  | -7.6K |
 | 02:30 | AUD | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
 | 07:30 | CHF | PPI (MoM) (May) |  | 0.5% | 0.6% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.6% | 3.3% |

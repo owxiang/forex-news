@@ -4,8 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Foreign Bonds Buying | -2,647.6B |  | 1,323.4B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -346.6B |  | 282.0B |
-| 02:30 | AUD | Participation Rate (May) | 66.8% | 66.7% | 66.7% |
-| 02:30 | AUD | Westpac Consumer Sentiment |  |  | -0.3% |
+| 02:30 | AUD | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 07:00 | EUR | German WPI (YoY) (May) |  |  | -1.8% |
 | 07:00 | EUR | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:30 | CHF | PPI (YoY) (May) |  |  | -1.8% |

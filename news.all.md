@@ -6,11 +6,10 @@
 | 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q2) | -1.0 | -5.2 | -6.7 |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -2,647.6B |  | 1,323.4B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -346.6B |  | 282.0B |
-| 02:30 | AUD | Moderate | Employment Change (May) | 39.7K | 30.5K | 38.5K |
-| 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -6.1K |
-| 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.7% |
+| 02:30 | AUD | Moderate | Employment Change (May) | 39.7K | 30.5K | 37.4K |
+| 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -7.6K |
+| 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 02:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | -1.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.5% | 0.6% |
