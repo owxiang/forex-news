@@ -10,7 +10,7 @@
 | 07:30 | CHF | PPI (MoM) (May) |  | 0.5% | 0.6% |
 | 08:00 | EUR | Spanish CPI (YoY) (May) |  | 3.6% | 3.3% |
 | 08:00 | EUR | Spanish HICP (YoY) (May) |  | 3.8% | 3.4% |
-| 09:00 | CNY | New Loans |  | 2,250.0B | 730.0B |
+| 09:00 | CNY | New Loans (May) |  | 2,250.0B | 730.0B |
 | 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Apr) |  | 0.1% | 0.6% |

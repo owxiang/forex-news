@@ -5,17 +5,17 @@
 | 00:50 | JPY | Foreign Bonds Buying | -2,647.6B |  | 1,323.4B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -346.6B |  | 282.0B |
 | 02:30 | AUD | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
-| 07:00 | EUR | German WPI (MoM) (May) |  | 0.3% | 0.4% |
-| 07:00 | EUR | German WPI (YoY) (May) |  |  | -1.8% |
+| 53 min | EUR | German WPI (YoY) (May) |  |  | -1.8% |
+| 53 min | EUR | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:30 | CHF | PPI (YoY) (May) |  |  | -1.8% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Core CPI (YoY) (May) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
 | 08:00 | EUR | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate |  | 7.4% | 7.4% |
-| 09:00 | CNY | M2 Money Stock (YoY) |  | 7.1% | 7.2% |
-| 09:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 9.6% |
-| 09:00 | CNY | Chinese Total Social Financing |  |  | -200.0B |
+| 09:00 | CNY | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
+| 09:00 | CNY | Chinese Total Social Financing (May) |  |  | -200.0B |
 | 10:00 | EUR | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
 | 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.48% |

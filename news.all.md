@@ -10,25 +10,25 @@
 | 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -7.6K |
 | 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.3% | 0.4% |
-| 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | -1.8% |
+| 53 min | EUR | Low | German WPI (YoY) (May) |  |  | -1.8% |
+| 53 min | EUR | Low | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.5% | 0.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) |  | 3.0% | 2.9% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.6% | 3.3% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.8% | 3.4% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.8% | 3.4% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.4% | 7.4% |
-| 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 7.1% | 7.2% |
-| 09:00 | CNY | Moderate | New Loans |  | 2,250.0B | 730.0B |
-| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 9.6% |
-| 09:00 | CNY | Low | Chinese Total Social Financing |  |  | -200.0B |
+| 09:00 | CNY | Low | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
+| 09:00 | CNY | Moderate | New Loans (May) |  | 2,250.0B | 730.0B |
+| 09:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
+| 09:00 | CNY | Low | Chinese Total Social Financing (May) |  |  | -200.0B |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | 0.1% | 0.6% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.48% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.140% |
