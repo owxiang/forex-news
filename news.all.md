@@ -10,8 +10,8 @@
 | 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -7.6K |
 | 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) | -0.7% |  | -1.8% |
+| 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:30 | CHF | Low | PPI (YoY) (May) | -1.8% |  | -1.8% |
 | 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.3% | 0.5% | 0.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
@@ -25,26 +25,22 @@
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Apr) | -3.0% | -1.9% | -1.2% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | -0.1% | 0.1% | 0.5% |
-| 3 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.16% |
-| 3 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.48% |
-| 3 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.140% |
-| 3 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.52% |
-| 23 min | ZAR | Low | Gold Production (YoY) (Apr) |  |  | -4.5% |
-| 23 min | ZAR | Low | Mining Production (Apr) |  |  | -5.8% |
-| 53 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 53 min | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 52.8 |
-| 53 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 43.83 |
-| 53 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.51 |
-| 53 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.04 |
-| 53 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.62 |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 53 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 45.27 |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
-| 12:00 | CNY | Moderate | New Loans (May) |  | 2,250.0B | 730.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (May) |  |  | -200.0B |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  | 3.4% | 5.7% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (Apr) | -1.7% |  | -4.3% |
+| 10:30 | ZAR | Low | Mining Production (Apr) | 0.7% |  | -4.8% |
+| 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jun) | 53.9 |  | 52.8 |
+| 11:00 | EUR | Low | Italian 15-Year BTP Auction | 4.27% |  | 4.16% |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jun) | 45.74 |  | 43.83 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jun) | 49.87 |  | 48.51 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jun) | 45.69 |  | 46.04 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 46.36 |  | 48.62 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.50 |  | 45.27 |
+| 54 min | EUR | Low | Italian 3-Year BTP Auction | 3.47% |  | 3.48% |
+| 54 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.140% |
+| 54 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.52% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  | 1.3% | 0.0% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  | 3.4% | 5.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 3.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,792K |

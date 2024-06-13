@@ -5,8 +5,8 @@
 | 00:50 | JPY | Foreign Bonds Buying | -2,647.6B |  | 1,323.4B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -346.6B |  | 282.0B |
 | 02:30 | AUD | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
-| 07:00 | EUR | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:00 | EUR | German WPI (YoY) (May) | -0.7% |  | -1.8% |
+| 07:00 | EUR | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:30 | CHF | PPI (YoY) (May) | -1.8% |  | -1.8% |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Core CPI (YoY) (May) | 3.0% | 3.0% | 2.9% |
@@ -14,22 +14,19 @@
 | 08:00 | EUR | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Italian Quarterly Unemployment Rate | 7.2% | 7.4% | 7.4% |
 | 10:00 | EUR | Industrial Production (YoY) (Apr) | -3.0% | -1.9% | -1.2% |
-| 3 min | EUR | Italian 15-Year BTP Auction |  |  | 4.16% |
-| 3 min | EUR | Italian 3-Year BTP Auction |  |  | 3.48% |
-| 3 min | EUR | Italian 30-Year BTP Auction |  |  | 4.140% |
-| 3 min | EUR | Italian 7-Year BTP Auction |  |  | 3.52% |
-| 23 min | ZAR | Gold Production (YoY) (Apr) |  |  | -4.5% |
-| 23 min | ZAR | Mining Production (Apr) |  |  | -5.8% |
-| 53 min | GBP | BoE Quarterly Bulletin |  |  |  |
-| 53 min | GBP | Thomson Reuters IPSOS PCSI (Jun) |  |  | 52.8 |
-| 53 min | EUR | Italy Thomson Reuters IPSOS PCSI (Jun) |  |  | 43.83 |
-| 53 min | EUR | Germany Thomson Reuters IPSOS PCSI (Jun) |  |  | 48.51 |
-| 53 min | EUR | France Thomson Reuters IPSOS PCSI (Jun) |  |  | 46.04 |
-| 53 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 48.62 |
-| 53 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 45.27 |
-| 12:00 | CNY | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
-| 12:00 | CNY | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
-| 12:00 | CNY | Chinese Total Social Financing (May) |  |  | -200.0B |
+| 10:30 | ZAR | Gold Production (YoY) (Apr) | -1.7% |  | -4.3% |
+| 10:30 | ZAR | Mining Production (Apr) | 0.7% |  | -4.8% |
+| 11:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jun) | 53.9 |  | 52.8 |
+| 11:00 | EUR | Italian 15-Year BTP Auction | 4.27% |  | 4.16% |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jun) | 45.74 |  | 43.83 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jun) | 49.87 |  | 48.51 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jun) | 45.69 |  | 46.04 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 46.36 |  | 48.62 |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.50 |  | 45.27 |
+| 54 min | EUR | Italian 3-Year BTP Auction | 3.47% |  | 3.48% |
+| 54 min | EUR | Italian 30-Year BTP Auction |  |  | 4.140% |
+| 54 min | EUR | Italian 7-Year BTP Auction |  |  | 3.52% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.4% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 3.1% |
 | 13:30 | USD | Core PPI (YoY) (May) |  | 2.4% | 2.4% |
