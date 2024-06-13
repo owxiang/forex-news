@@ -32,7 +32,7 @@
 | 13:30 | USD | Core PPI (YoY) (May) | 2.3% | 2.4% | 2.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 227.00K |  | 222.25K |
 | 13:30 | USD | PPI (YoY) (May) | 2.2% | 2.5% | 2.3% |
-| 15:30 | USD | Natural Gas Storage |  | 75B | 98B |
+| 24 min | USD | Natural Gas Storage |  | 75B | 98B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.265% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.428B |

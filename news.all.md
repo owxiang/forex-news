@@ -18,8 +18,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 3.0% | 3.0% | 2.9% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.6% | 3.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.8% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.2% | 7.4% | 7.4% |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -50,9 +50,9 @@
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.00K |  | 222.25K |
 | 13:30 | USD | High | PPI (MoM) (May) | -0.2% | 0.1% | 0.5% |
 | 13:30 | USD | Low | PPI (YoY) (May) | 2.2% | 2.5% | 2.3% |
-| 23 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 28 min | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 75B | 98B |
+| 14:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 14:35 | CAD | Moderate | BoC Deputy Gov Kozicki Speaks |  |  |  |
+| 24 min | USD | Low | Natural Gas Storage |  | 75B | 98B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.265% |
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
