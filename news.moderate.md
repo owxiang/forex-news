@@ -23,5 +23,5 @@
 | 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 18:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 25 min | USD | Fed's Balance Sheet |  |  | 7,256B |
+| 21:30 | USD | Fed's Balance Sheet | 7,259B |  | 7,256B |
 | 23:30 | NZD | Business NZ PMI (May) |  |  | 48.9 |
