@@ -3,24 +3,24 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (May) | -17% | -5% | -7% |
-| 45 min | JPY | Moderate | BSI Large Manufacturing Conditions (Q2) |  | -5.2 | -6.7 |
-| 45 min | JPY | Low | Foreign Bonds Buying |  |  | 1,323.4B |
-| 45 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 282.0B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
+| 00:50 | JPY | Moderate | BSI Large Manufacturing Conditions (Q2) | -1.0 | -5.2 | -6.7 |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -2,647.6B |  | 1,323.4B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -346.6B |  | 282.0B |
+| 9 min | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
 | 02:30 | AUD | Moderate | Employment Change (May) |  | 30.5K | 38.5K |
 | 02:30 | AUD | Moderate | Full Employment Change (May) |  |  | -6.1K |
 | 02:30 | AUD | Low | Participation Rate (May) |  | 66.7% | 66.7% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) |  | 4.0% | 4.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) |  |  | -1.8% |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.5% | 0.6% |
+| 07:00 | EUR | Low | German WPI (MoM) (May) |  | 0.3% | 0.4% |
 | 07:30 | CHF | Low | PPI (YoY) (May) |  |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) |  | 0.5% | 0.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) |  | 3.0% | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) |  | 3.6% | 3.3% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.8% | 3.4% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) |  | 0.3% | 0.7% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) |  | 3.8% | 3.4% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate |  | 7.4% | 7.4% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 7.1% | 7.2% |
 | 09:00 | CNY | Moderate | New Loans |  | 2,250.0B | 730.0B |
@@ -28,8 +28,8 @@
 | 09:00 | CNY | Low | Chinese Total Social Financing |  |  | -200.0B |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) |  | 0.1% | 0.6% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (Apr) |  | -1.9% | -1.0% |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.16% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.48% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.140% |
@@ -44,8 +44,8 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 45.27 |
 | 12:00 | USD | Low | Cleveland CPI (MoM) (May) |  |  | 0.3% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  | 1.3% | 0.0% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) |  | 3.4% | 5.7% |
+| 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) |  | 1.3% | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) |  |  | 0.4% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) |  |  | 3.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,800K | 1,792K |
