@@ -1,27 +1,35 @@
-## 13 June 2024 - Moderate Impact Forex News
+## 14 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | RICS House Price Balance (May) | -17% | -5% | -7% |
-| 00:50 | JPY | BSI Large Manufacturing Conditions (Q2) | -1.0 | -5.2 | -6.7 |
-| 02:30 | AUD | Employment Change (May) | 39.7K | 30.5K | 37.4K |
-| 02:30 | AUD | Full Employment Change (May) | 41.7K |  | -7.6K |
-| 02:30 | AUD | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 07:30 | CHF | PPI (MoM) (May) | -0.3% | 0.5% | 0.6% |
-| 08:00 | EUR | Spanish CPI (YoY) (May) | 3.6% | 3.6% | 3.3% |
-| 08:00 | EUR | Spanish HICP (YoY) (May) | 3.8% | 3.8% | 3.4% |
+| 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
+| 05:30 | JPY | Industrial Production (MoM) (Apr) |  | -0.1% | 4.4% |
+| 07:30 | INR | WPI Inflation (YoY) (May) |  | 2.50% | 1.26% |
+| 07:30 | JPY | BoJ Press Conference |  |  |  |
+| 07:45 | EUR | French CPI (MoM) (May) |  | 0.0% | 0.5% |
+| 07:45 | EUR | French HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Industrial Production (MoM) (Apr) | -0.1% | 0.1% | 0.5% |
+| 10:00 | EUR | Trade Balance (Apr) |  | 17.0B | 24.1B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
-| 13:00 | BRL | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.3% |
-| 13:30 | USD | Continuing Jobless Claims | 1,820K | 1,800K | 1,790K |
-| 13:30 | USD | Core PPI (MoM) (May) | 0.0% | 0.3% | 0.5% |
+| 12:00 | CNY | New Loans (May) |  | 2,250.0B | 730.0B |
+| 13:30 | USD | Export Price Index (MoM) (May) |  | 0.0% | 0.5% |
+| 13:30 | USD | Import Price Index (MoM) (May) |  | 0.0% | 0.9% |
+| 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | 2.6% | -1.1% |
 | 14:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 14:35 | CAD | BoC Deputy Gov Kozicki Speaks |  |  |  |
-| 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 17:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
-| 18:00 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet | 7,259B |  | 7,256B |
-| 24 min | NZD | Business NZ PMI (May) |  |  | 48.9 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  |  | 3.3% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 70.0 | 68.8 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jun) |  | 72.1 | 69.1 |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 492 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 594 |
+| 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 43.2K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 210.7K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 237.3K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 2.0K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -65.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | -51.3K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -18.9K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -132.1K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 67.9K |
