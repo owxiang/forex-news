@@ -10,8 +10,8 @@
 | 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -7.6K |
 | 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) (May) | -0.7% |  | -1.8% |
+| 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
 | 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.3% | 0.5% | 0.6% |
 | 07:30 | CHF | Low | PPI (YoY) (May) | -1.8% |  | -1.8% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
@@ -44,8 +44,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.0% |  | 0.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 3.2% |  | 3.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,820K | 1,800K | 1,790K |
-| 13:30 | USD | Low | Core PPI (YoY) (May) | 2.3% | 2.4% | 2.5% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (May) | 0.0% | 0.3% | 0.5% |
+| 13:30 | USD | Low | Core PPI (YoY) (May) | 2.3% | 2.4% | 2.5% |
 | 13:30 | USD | High | Initial Jobless Claims | 242K | 225K | 229K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 227.00K |  | 222.25K |
 | 13:30 | USD | High | PPI (MoM) (May) | -0.2% | 0.1% | 0.5% |
@@ -57,9 +57,9 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.265% |  | 5.265% |
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 17:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 53 min | USD | High | 30-Year Bond Auction |  |  | 4.635% |
-| 53 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.428B |
+| 18:00 | USD | High | 30-Year Bond Auction | 4.403% |  | 4.635% |
+| 18:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -0.428B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,256B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.458T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 6.2% |
