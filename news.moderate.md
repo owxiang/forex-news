@@ -14,8 +14,8 @@
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Industrial Production (MoM) (Apr) | -0.1% | 0.1% | 0.5% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | BRL | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
 | 13:00 | BRL | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.3% |
+| 13:00 | BRL | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
 | 13:30 | USD | Continuing Jobless Claims | 1,820K | 1,800K | 1,790K |
 | 13:30 | USD | Core PPI (MoM) (May) | 0.0% | 0.3% | 0.5% |
 | 14:30 | EUR | ECB's Schnabel Speaks |  |  |  |

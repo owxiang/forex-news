@@ -10,21 +10,21 @@
 | 02:30 | AUD | Moderate | Full Employment Change (May) | 41.7K |  | -7.6K |
 | 02:30 | AUD | Low | Participation Rate (May) | 66.8% | 66.7% | 66.8% |
 | 02:30 | AUD | Moderate | Unemployment Rate (May) | 4.0% | 4.0% | 4.1% |
-| 07:00 | EUR | Low | German WPI (YoY) (May) | -0.7% |  | -1.8% |
 | 07:00 | EUR | Low | German WPI (MoM) (May) | 0.1% | 0.3% | 0.4% |
-| 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.3% | 0.5% | 0.6% |
+| 07:00 | EUR | Low | German WPI (YoY) (May) | -0.7% |  | -1.8% |
 | 07:30 | CHF | Low | PPI (YoY) (May) | -1.8% |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (May) | -0.3% | 0.5% | 0.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 08:00 | EUR | Low | Core CPI (YoY) (May) | 3.0% | 3.0% | 2.9% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (May) | 3.6% | 3.6% | 3.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (May) | 0.3% | 0.3% | 0.7% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (May) | 3.8% | 3.8% | 3.4% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 09:00 | EUR | Low | Italian Quarterly Unemployment Rate | 7.2% | 7.4% | 7.4% |
 | 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | -0.1% | 0.1% | 0.5% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (Apr) | -3.0% | -1.9% | -1.2% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (Apr) | -0.1% | 0.1% | 0.5% |
 | 10:30 | ZAR | Low | Gold Production (YoY) (Apr) | -1.7% |  | -4.3% |
 | 10:30 | ZAR | Low | Mining Production (Apr) | 0.7% |  | -4.8% |
 | 11:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
@@ -39,8 +39,8 @@
 | 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 46.36 |  | 48.62 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 45.50 |  | 45.27 |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (Apr) | 0.9% | 1.3% | 0.3% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (Apr) | 2.2% | 3.4% | 5.7% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (May) | 0.0% |  | 0.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (May) | 3.2% |  | 3.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,820K | 1,800K | 1,790K |
@@ -59,7 +59,6 @@
 | 17:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.403% |  | 4.635% |
 | 18:00 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -0.428B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,256B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.458T |
 | 22:00 | KRW | Low | Export Price Index (YoY) (May) |  |  | 6.2% |
