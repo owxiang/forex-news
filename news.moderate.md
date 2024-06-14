@@ -23,7 +23,7 @@
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 65.6 | 72.1 | 69.1 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 488 |  | 492 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count | 590 |  | 594 |
-| 24 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 43.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 210.7K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 237.3K |
