@@ -21,8 +21,8 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) | 3.1% | 3.0% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) | 67.6 | 70.0 | 68.8 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 65.6 | 72.1 | 69.1 |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 492 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 594 |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 492 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 594 |
 | 18:30 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 43.2K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 210.7K |
