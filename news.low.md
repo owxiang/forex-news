@@ -31,15 +31,15 @@
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (May) | 9.3% |  | 9.6% |
 | 10:00 | CNY | Chinese Total Social Financing (May) | 2,070.0B |  | -72.0B |
 | 11:00 | EUR | Reserve Assets Total (May) | 1,253.08B |  | 1,253.84B |
-| 25 min | INR | Bank Loan Growth |  |  | 19.5% |
-| 25 min | INR | Deposit Growth |  |  | 13.3% |
-| 25 min | INR | FX Reserves, USD |  |  | 651.51B |
-| 55 min | BRL | IBC-Br Economic Activity (Apr) |  | 0.45% | -0.34% |
-| 13:30 | USD | Export Price Index (YoY) |  |  | -1.0% |
-| 13:30 | USD | Import Price Index (YoY) |  |  | 1.1% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 1.3% | -2.1% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 172.1K |
-| 15:00 | USD | Michigan Current Conditions (Jun) |  | 71.0 | 69.6 |
+| 12:30 | INR | Bank Loan Growth | 19.8% |  | 19.5% |
+| 12:30 | INR | Deposit Growth | 12.7% |  | 13.3% |
+| 12:30 | INR | FX Reserves, USD | 655.82B |  | 651.51B |
+| 13:00 | BRL | IBC-Br Economic Activity (Apr) | 0.01% | 0.45% | -0.34% |
+| 13:30 | USD | Export Price Index (YoY) | 0.6% |  | -1.0% |
+| 13:30 | USD | Import Price Index (YoY) | 1.1% |  | 1.1% |
+| 13:30 | CAD | Manufacturing Sales (MoM) (Apr) | 1.1% | 1.3% | -1.8% |
+| 13:30 | CAD | New Motor Vehicle Sales (MoM) | 175.1K |  | 171.6K |
+| 53 min | USD | Michigan Current Conditions (Jun) |  | 71.0 | 69.6 |
 | 19:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.1K |

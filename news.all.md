@@ -23,8 +23,8 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.807B | 4.250B | 4.296B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | -0.23B |  | -1.47B |
@@ -43,23 +43,23 @@
 | 10:00 | EUR | Moderate | Trade Balance (Apr) | 15.0B | 17.0B | 23.7B |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (May) | 1,253.08B |  | 1,253.84B |
-| 25 min | INR | Low | Bank Loan Growth |  |  | 19.5% |
-| 25 min | INR | Low | Deposit Growth |  |  | 13.3% |
-| 25 min | INR | Low | FX Reserves, USD |  |  | 651.51B |
-| 55 min | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.45% | -0.34% |
-| 13:30 | USD | Low | Export Price Index (YoY) |  |  | -1.0% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | 0.0% | 0.5% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | 0.0% | 0.9% |
-| 13:30 | USD | Low | Import Price Index (YoY) |  |  | 1.1% |
-| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | 1.3% | -2.1% |
-| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 172.1K |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  | 2.6% | -1.1% |
-| 14:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 3.3% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 70.0 | 68.8 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 72.1 | 69.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 71.0 | 69.6 |
+| 12:30 | INR | Low | Bank Loan Growth | 19.8% |  | 19.5% |
+| 12:30 | INR | Low | Deposit Growth | 12.7% |  | 13.3% |
+| 12:30 | INR | Low | FX Reserves, USD | 655.82B |  | 651.51B |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) | 0.01% | 0.45% | -0.34% |
+| 13:30 | USD | Low | Export Price Index (YoY) | 0.6% |  | -1.0% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (May) | -0.6% | 0.0% | 0.6% |
+| 13:30 | USD | Low | Import Price Index (YoY) | 1.1% |  | 1.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | -0.4% | 0.0% | 0.9% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) | 1.1% | 1.3% | -1.8% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 175.1K |  | 171.6K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) | 2.4% | 2.6% | -1.3% |
+| 23 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  |  | 3.3% |
+| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  |  | 3.0% |
+| 53 min | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 70.0 | 68.8 |
+| 53 min | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 72.1 | 69.1 |
+| 53 min | USD | Low | Michigan Current Conditions (Jun) |  | 71.0 | 69.6 |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 492 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 594 |
