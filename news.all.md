@@ -19,12 +19,12 @@
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 2.61% | 2.50% | 1.26% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.807B | 4.250B | 4.296B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | -0.23B |  | -1.47B |
@@ -61,10 +61,10 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) | 65.6 | 72.1 | 69.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jun) | 62.5 | 71.0 | 69.6 |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
-| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 492 |
-| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 594 |
-| 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 19:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 488 |  | 492 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 590 |  | 594 |
+| 24 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 54 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 43.2K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 61.1K |
