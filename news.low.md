@@ -31,10 +31,10 @@
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (May) | 9.3% |  | 9.6% |
 | 10:00 | CNY | Chinese Total Social Financing (May) | 2,070.0B |  | -72.0B |
 | 11:00 | EUR | Reserve Assets Total (May) | 1,253.08B |  | 1,253.84B |
-| 12:30 | INR | Bank Loan Growth |  |  | 19.5% |
-| 12:30 | INR | Deposit Growth |  |  | 13.3% |
-| 12:30 | INR | FX Reserves, USD |  |  | 651.51B |
-| 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.45% | -0.34% |
+| 25 min | INR | Bank Loan Growth |  |  | 19.5% |
+| 25 min | INR | Deposit Growth |  |  | 13.3% |
+| 25 min | INR | FX Reserves, USD |  |  | 651.51B |
+| 55 min | BRL | IBC-Br Economic Activity (Apr) |  | 0.45% | -0.34% |
 | 13:30 | USD | Export Price Index (YoY) |  |  | -1.0% |
 | 13:30 | USD | Import Price Index (YoY) |  |  | 1.1% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 1.3% | -2.1% |
