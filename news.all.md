@@ -19,8 +19,8 @@
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 2.61% | 2.50% | 1.26% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
@@ -28,22 +28,21 @@
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.807B | 4.250B | 4.296B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | -0.23B |  | -1.47B |
-| 23 min | GBP | Low | Inflation Expectations |  |  | 3.0% |
-| 23 min | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 4.10% |
-| 23 min | HKD | Low | PPI (YoY) (Q1) |  |  | 2.70% |
-| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 53 min | EUR | Moderate | Trade Balance (Apr) |  | 17.0B | 24.1B |
-| 10:30 | ZAR | Low | Business Confidence |  |  | 114.7 |
-| 11:00 | INR | Low | Exports (USD) |  |  | 34.99B |
-| 11:00 | INR | Low | Imports (USD) |  |  | 54.09B |
-| 11:00 | INR | Low | Trade Balance |  |  | -19.10B |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (May) |  |  | 1,253.84B |
-| 12:00 | CNY | Low | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
-| 12:00 | CNY | Moderate | New Loans (May) |  | 2,250.0B | 730.0B |
-| 12:00 | CNY | Low | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
-| 12:00 | CNY | Low | Chinese Total Social Financing (May) |  |  | -200.0B |
+| 09:30 | GBP | Low | Inflation Expectations | 2.8% |  | 3.0% |
+| 09:30 | HKD | Low | Industrial Production (YoY) (Q1) | 1.80% |  | 4.10% |
+| 09:30 | HKD | Low | PPI (YoY) (Q1) | 1.20% |  | 2.70% |
+| 09:45 | INR | Low | Exports (USD) (May) | 38.13B |  | 34.99B |
+| 09:45 | INR | Low | Imports (USD) (May) | 61.91B |  | 54.09B |
+| 09:45 | INR | Low | Trade Balance (May) | -23.78B |  | -19.10B |
+| 10:00 | CNY | Low | Chinese Total Social Financing (May) | 2,070.0B |  | -72.0B |
+| 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 10:00 | EUR | Moderate | Trade Balance (Apr) | 15.0B | 17.0B | 24.1B |
+| 10:04 | CNY | Moderate | New Loans (May) | 950.0B | 2,250.0B | 730.0B |
+| 10:05 | CNY | Low | M2 Money Stock (YoY) (May) | 7.0% | 7.1% | 7.2% |
+| 10:05 | CNY | Low | Outstanding Loan Growth (YoY) (May) | 9.3% |  | 9.6% |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | EUR | Low | Reserve Assets Total (May) |  |  | 1,253.84B |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 651.51B |

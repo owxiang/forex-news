@@ -14,24 +14,23 @@
 | 07:30 | INR | WPI Food (YoY) (May) | 9.82% |  | 7.74% |
 | 07:30 | INR | WPI Fuel (YoY) (May) | 1.35% |  | 1.38% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
-| 07:45 | EUR | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
 | 07:45 | EUR | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
 | 09:00 | EUR | Italian Trade Balance (Apr) | 4.807B | 4.250B | 4.296B |
 | 09:00 | EUR | Italian Trade Balance EU (Apr) | -0.23B |  | -1.47B |
-| 23 min | GBP | Inflation Expectations |  |  | 3.0% |
-| 23 min | HKD | Industrial Production (YoY) (Q1) |  |  | 4.10% |
-| 23 min | HKD | PPI (YoY) (Q1) |  |  | 2.70% |
-| 10:30 | ZAR | Business Confidence |  |  | 114.7 |
-| 11:00 | INR | Exports (USD) |  |  | 34.99B |
-| 11:00 | INR | Imports (USD) |  |  | 54.09B |
-| 11:00 | INR | Trade Balance |  |  | -19.10B |
-| 11:00 | EUR | Reserve Assets Total (May) |  |  | 1,253.84B |
-| 12:00 | CNY | M2 Money Stock (YoY) (May) |  | 7.1% | 7.2% |
-| 12:00 | CNY | Outstanding Loan Growth (YoY) (May) |  |  | 9.6% |
-| 12:00 | CNY | Chinese Total Social Financing (May) |  |  | -200.0B |
+| 09:30 | GBP | Inflation Expectations | 2.8% |  | 3.0% |
+| 09:30 | HKD | Industrial Production (YoY) (Q1) | 1.80% |  | 4.10% |
+| 09:30 | HKD | PPI (YoY) (Q1) | 1.20% |  | 2.70% |
+| 09:45 | INR | Exports (USD) (May) | 38.13B |  | 34.99B |
+| 09:45 | INR | Imports (USD) (May) | 61.91B |  | 54.09B |
+| 09:45 | INR | Trade Balance (May) | -23.78B |  | -19.10B |
+| 10:00 | CNY | Chinese Total Social Financing (May) | 2,070.0B |  | -72.0B |
+| 10:05 | CNY | M2 Money Stock (YoY) (May) | 7.0% | 7.1% | 7.2% |
+| 10:05 | CNY | Outstanding Loan Growth (YoY) (May) | 9.3% |  | 9.6% |
+| 54 min | EUR | Reserve Assets Total (May) |  |  | 1,253.84B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 651.51B |
