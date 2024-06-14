@@ -9,10 +9,8 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jun) | 76.56 |  | 68.17 |
 | 04:00 | KRW | M3 Money Supply (Apr) | 5,429.3B |  | 5,457.8B |
 | 04:00 | KRW | M2 Money supply (Apr) | 4.50% |  | 5.60% |
-| 24 min | JPY | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
-| 24 min | JPY | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
-| 07:00 | EUR | German WPI (MoM) |  |  | 0.4% |
-| 07:00 | EUR | German WPI (YoY) |  |  | -1.8% |
+| 05:30 | JPY | Capacity Utilization (MoM) (Apr) | 0.3% |  | 1.3% |
+| 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -9.50 | 0.40 | 12.80 |
 | 07:30 | INR | WPI Food (YoY) (May) |  |  | 7.74% |
 | 07:30 | INR | WPI Fuel (YoY) (May) |  |  | 1.38% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | -0.42% |

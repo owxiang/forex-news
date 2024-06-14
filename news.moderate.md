@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
-| 24 min | JPY | Industrial Production (MoM) (Apr) |  | -0.1% | 4.4% |
+| 05:30 | JPY | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 4.4% |
 | 07:30 | INR | WPI Inflation (YoY) (May) |  | 2.50% | 1.26% |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (May) |  | 0.0% | 0.5% |
