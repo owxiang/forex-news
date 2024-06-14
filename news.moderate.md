@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 03:30 | JPY | BoJ Monetary Policy Statement |  |  |  |
 | 05:30 | JPY | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 4.4% |
-| 07:30 | INR | WPI Inflation (YoY) (May) |  | 2.50% | 1.26% |
+| 07:30 | INR | WPI Inflation (YoY) (May) | 2.61% | 2.50% | 1.26% |
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | French CPI (MoM) (May) |  | 0.0% | 0.5% |
-| 07:45 | EUR | French HICP (MoM) (May) |  | 0.2% | 0.6% |
+| 07:45 | EUR | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
+| 07:45 | EUR | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
 | 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Trade Balance (Apr) |  | 17.0B | 24.1B |

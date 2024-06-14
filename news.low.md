@@ -11,16 +11,16 @@
 | 04:00 | KRW | M2 Money supply (Apr) | 4.50% |  | 5.60% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Apr) | 0.3% |  | 1.3% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) | -9.50 | 0.40 | 12.80 |
-| 07:30 | INR | WPI Food (YoY) (May) |  |  | 7.74% |
-| 07:30 | INR | WPI Fuel (YoY) (May) |  |  | 1.38% |
-| 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | -0.42% |
-| 07:45 | EUR | French CPI NSA (MoM) (May) |  |  | 0.50% |
-| 07:45 | EUR | French CPI NSA (YoY) (May) |  |  | 2.20% |
-| 07:45 | EUR | French CPI (YoY) |  | 2.2% | 2.2% |
-| 07:45 | EUR | French HICP (YoY) (May) |  | 2.7% | 2.4% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |
-| 09:00 | EUR | Italian Trade Balance (Apr) |  | 4.250B | 4.341B |
-| 09:00 | EUR | Italian Trade Balance EU (Apr) |  |  | -1.43B |
+| 07:30 | INR | WPI Food (YoY) (May) | 9.82% |  | 7.74% |
+| 07:30 | INR | WPI Fuel (YoY) (May) | 1.35% |  | 1.38% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
+| 07:45 | EUR | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
+| 07:45 | EUR | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
+| 07:45 | EUR | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
+| 54 min | EUR | Italian Trade Balance (Apr) |  | 4.250B | 4.341B |
+| 54 min | EUR | Italian Trade Balance EU (Apr) |  |  | -1.43B |
 | 09:30 | GBP | Inflation Expectations |  |  | 3.0% |
 | 09:30 | HKD | Industrial Production (YoY) (Q1) |  |  | 4.10% |
 | 09:30 | HKD | PPI (YoY) (Q1) |  |  | 2.70% |
@@ -41,7 +41,6 @@
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 1.3% | -2.1% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 172.1K |
 | 15:00 | USD | Michigan Current Conditions (Jun) |  | 71.0 | 69.6 |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.428B |
 | 19:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.0K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.1K |

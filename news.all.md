@@ -14,20 +14,20 @@
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) | 0.3% |  | 1.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) | -0.9% | -0.1% | 4.4% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) | -9.50 | 0.40 | 12.80 |
-| 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | 7.74% |
-| 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | 1.38% |
-| 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 2.50% | 1.26% |
-| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) |  |  | -0.42% |
+| 07:30 | INR | Low | WPI Food (YoY) (May) | 9.82% |  | 7.74% |
+| 07:30 | INR | Low | WPI Fuel (YoY) (May) | 1.35% |  | 1.38% |
+| 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 2.61% | 2.50% | 1.26% |
+| 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (May) |  |  | 0.50% |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (May) |  |  | 2.20% |
-| 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.2% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.0% | 0.5% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.2% | 0.6% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.7% | 2.4% |
-| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |
-| 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 4.250B | 4.341B |
-| 09:00 | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -1.43B |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
+| 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
+| 54 min | EUR | Low | Italian Trade Balance (Apr) |  | 4.250B | 4.341B |
+| 54 min | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -1.43B |
 | 09:30 | GBP | Low | Inflation Expectations |  |  | 3.0% |
 | 09:30 | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 4.10% |
 | 09:30 | HKD | Low | PPI (YoY) (Q1) |  |  | 2.70% |
@@ -64,7 +64,6 @@
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 492 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 594 |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.428B |
 | 18:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 19:00 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 43.2K |
