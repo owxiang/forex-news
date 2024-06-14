@@ -8,11 +8,11 @@
 | 07:30 | JPY | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
 | 07:45 | EUR | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
+| 10:00 | CNY | New Loans (May) | 950.0B | 2,250.0B | 730.0B |
 | 10:00 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Trade Balance (Apr) | 15.0B | 17.0B | 24.1B |
-| 10:04 | CNY | New Loans (May) | 950.0B | 2,250.0B | 730.0B |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Trade Balance (Apr) | 15.0B | 17.0B | 23.7B |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Export Price Index (MoM) (May) |  | 0.0% | 0.5% |
 | 13:30 | USD | Import Price Index (MoM) (May) |  | 0.0% | 0.9% |
 | 13:30 | CAD | Wholesale Sales (MoM) (Apr) |  | 2.6% | -1.1% |
