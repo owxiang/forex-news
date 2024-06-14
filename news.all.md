@@ -23,8 +23,8 @@
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
-| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
+| 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.807B | 4.250B | 4.296B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | -0.23B |  | -1.47B |
@@ -49,8 +49,8 @@
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) | 0.01% | 0.45% | -0.34% |
 | 13:30 | USD | Low | Export Price Index (YoY) | 0.6% |  | -1.0% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (May) | -0.6% | 0.0% | 0.6% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | -0.4% | 0.0% | 0.9% |
 | 13:30 | USD | Low | Import Price Index (YoY) | 1.1% |  | 1.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) | -0.4% | 0.0% | 0.9% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) | 1.1% | 1.3% | -1.8% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 175.1K |  | 171.6K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) | 2.4% | 2.6% | -1.3% |
