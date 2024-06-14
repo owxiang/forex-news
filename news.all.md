@@ -7,28 +7,27 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 50.48 |  | 50.28 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) | 37.69 |  | 37.93 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) | 76.56 |  | 68.17 |
-| 12 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 12 min | SGD | Low | Unemployment Rate |  | 2.1% | 2.0% |
-| 42 min | KRW | Low | M3 Money Supply (Apr) |  |  | 5,457.4B |
-| 42 min | KRW | Low | M2 Money supply (Apr) |  |  | 5.60% |
-| 42 min | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
+| 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 04:00 | KRW | Low | M3 Money Supply (Apr) | 5,429.3B |  | 5,457.8B |
+| 04:00 | KRW | Low | M2 Money supply (Apr) | 4.50% |  | 5.60% |
+| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -0.1% | 4.4% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
-| 07:00 | EUR | Low | German WPI (MoM) |  |  | 0.4% |
 | 07:00 | EUR | Low | German WPI (YoY) |  |  | -1.8% |
+| 07:00 | EUR | Low | German WPI (MoM) |  |  | 0.4% |
 | 07:00 | IDR | Low | Car Sales (YoY) |  |  | -17.50% |
 | 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | 7.74% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | 1.38% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 2.50% | 1.26% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) |  |  | -0.42% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (May) |  |  | 2.20% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) |  |  | 0.50% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (May) |  |  | 2.20% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.0% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.2% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.7% | 2.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |
 | 09:00 | EUR | Low | Italian Trade Balance (Apr) |  | 4.250B | 4.341B |
 | 09:00 | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -1.43B |
@@ -52,10 +51,10 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 651.51B |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.35% | -0.34% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | 0.0% | 0.5% |
 | 13:30 | USD | Low | Export Price Index (YoY) |  |  | -1.0% |
-| 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | 0.0% | 0.9% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | 0.0% | 0.5% |
 | 13:30 | USD | Low | Import Price Index (YoY) |  |  | 1.1% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (May) |  | 0.0% | 0.9% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (Apr) |  | 1.3% | -2.1% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 172.1K |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) (Apr) |  | 2.6% | -1.1% |

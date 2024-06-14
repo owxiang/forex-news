@@ -7,19 +7,18 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jun) | 50.48 |  | 50.28 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jun) | 37.69 |  | 37.93 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jun) | 76.56 |  | 68.17 |
-| 12 min | SGD | Unemployment Rate |  | 2.1% | 2.0% |
-| 42 min | KRW | M3 Money Supply (Apr) |  |  | 5,457.4B |
-| 42 min | KRW | M2 Money supply (Apr) |  |  | 5.60% |
+| 04:00 | KRW | M3 Money Supply (Apr) | 5,429.3B |  | 5,457.8B |
+| 04:00 | KRW | M2 Money supply (Apr) | 4.50% |  | 5.60% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
 | 05:30 | JPY | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
-| 07:00 | EUR | German WPI (MoM) |  |  | 0.4% |
 | 07:00 | EUR | German WPI (YoY) |  |  | -1.8% |
+| 07:00 | EUR | German WPI (MoM) |  |  | 0.4% |
 | 07:00 | IDR | Car Sales (YoY) |  |  | -17.50% |
 | 07:30 | INR | WPI Food (YoY) (May) |  |  | 7.74% |
 | 07:30 | INR | WPI Fuel (YoY) (May) |  |  | 1.38% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | -0.42% |
-| 07:45 | EUR | French CPI NSA (YoY) (May) |  |  | 2.20% |
 | 07:45 | EUR | French CPI NSA (MoM) (May) |  |  | 0.50% |
+| 07:45 | EUR | French CPI NSA (YoY) (May) |  |  | 2.20% |
 | 07:45 | EUR | French CPI (YoY) |  | 2.2% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |
