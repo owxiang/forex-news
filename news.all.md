@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 02:00 | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
+| 39 min | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
 | 02:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 39.67 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 67.77 |
@@ -27,8 +27,8 @@
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) |  |  | 0.50% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) |  |  | 2.20% |
-| 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.2% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.0% | 0.5% |
+| 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.2% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |

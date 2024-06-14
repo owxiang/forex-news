@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | AUD | MI Inflation Expectations |  |  | 4.1% |
+| 39 min | AUD | MI Inflation Expectations |  |  | 4.1% |
 | 02:30 | AUD | Westpac Consumer Sentiment |  |  | -0.3% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 39.67 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 67.77 |
