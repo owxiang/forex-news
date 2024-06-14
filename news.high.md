@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 04:25 | JPY | BoJ Interest Rate Decision | 0.10% | 0.10% | 0.10% |
-| 16:00 | USD | Fed Monetary Policy Report |  |  |  |
+| 53 min | USD | Fed Monetary Policy Report |  |  |  |
