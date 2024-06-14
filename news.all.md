@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 39 min | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
+| 02:30 | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
 | 02:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 39.67 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 67.77 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.28 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 37.93 |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 68.17 |
-| 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
-| 03:30 | SGD | Low | Unemployment Rate |  | 2.1% | 2.0% |
+| 29 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 39.67 |
+| 29 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 67.77 |
+| 29 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.28 |
+| 29 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jun) |  |  | 37.93 |
+| 29 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 68.17 |
+| 59 min | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
+| 59 min | SGD | Low | Unemployment Rate |  | 2.1% | 2.0% |
 | 04:00 | KRW | Low | M3 Money Supply (Apr) |  |  | 5,457.4B |
 | 04:00 | KRW | Low | M2 Money supply (Apr) |  |  | 5.60% |
 | 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
@@ -27,8 +27,8 @@
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (May) |  |  | 0.50% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) |  |  | 2.20% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.0% | 0.5% |
 | 07:45 | EUR | Low | French CPI (YoY) |  | 2.2% | 2.2% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (May) |  | 0.0% | 0.5% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (May) |  | 0.2% | 0.6% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) |  | 2.7% | 2.4% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) |  |  | 2.10% |

@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | AUD | MI Inflation Expectations |  |  | 4.1% |
+| 02:30 | AUD | MI Inflation Expectations |  |  | 4.1% |
 | 02:30 | AUD | Westpac Consumer Sentiment |  |  | -0.3% |
-| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 39.67 |
-| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 67.77 |
-| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.28 |
-| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jun) |  |  | 37.93 |
-| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 68.17 |
-| 03:30 | SGD | Unemployment Rate |  | 2.1% | 2.0% |
+| 29 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 39.67 |
+| 29 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 67.77 |
+| 29 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jun) |  |  | 50.28 |
+| 29 min | JPY | Thomson Reuters IPSOS PCSI (Jun) |  |  | 37.93 |
+| 29 min | CNY | China Thomson Reuters IPSOS PCSI (Jun) |  |  | 68.17 |
+| 59 min | SGD | Unemployment Rate |  | 2.1% | 2.0% |
 | 04:00 | KRW | M3 Money Supply (Apr) |  |  | 5,457.4B |
 | 04:00 | KRW | M2 Money supply (Apr) |  |  | 5.60% |
 | 05:30 | JPY | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
