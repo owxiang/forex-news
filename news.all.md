@@ -19,21 +19,21 @@
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) | 2.61% | 2.50% | 1.26% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
 | 07:30 | JPY | Moderate | BoJ Press Conference |  |  |  |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
-| 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (May) | 0.0% | 0.0% | 0.5% |
-| 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
+| 07:45 | EUR | Low | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
 | 07:45 | EUR | Low | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
+| 07:45 | EUR | Moderate | French HICP (MoM) (May) | 0.1% | 0.2% | 0.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
-| 54 min | EUR | Low | Italian Trade Balance (Apr) |  | 4.250B | 4.341B |
-| 54 min | EUR | Low | Italian Trade Balance EU (Apr) |  |  | -1.43B |
-| 09:30 | GBP | Low | Inflation Expectations |  |  | 3.0% |
-| 09:30 | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 4.10% |
-| 09:30 | HKD | Low | PPI (YoY) (Q1) |  |  | 2.70% |
-| 10:00 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | Moderate | Trade Balance (Apr) |  | 17.0B | 24.1B |
+| 09:00 | EUR | Low | Italian Trade Balance (Apr) | 4.807B | 4.250B | 4.296B |
+| 09:00 | EUR | Low | Italian Trade Balance EU (Apr) | -0.23B |  | -1.47B |
+| 23 min | GBP | Low | Inflation Expectations |  |  | 3.0% |
+| 23 min | HKD | Low | Industrial Production (YoY) (Q1) |  |  | 4.10% |
+| 23 min | HKD | Low | PPI (YoY) (Q1) |  |  | 2.70% |
+| 53 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 53 min | EUR | Moderate | Trade Balance (Apr) |  | 17.0B | 24.1B |
 | 10:30 | ZAR | Low | Business Confidence |  |  | 114.7 |
 | 11:00 | INR | Low | Exports (USD) |  |  | 34.99B |
 | 11:00 | INR | Low | Imports (USD) |  |  | 54.09B |
