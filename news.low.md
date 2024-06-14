@@ -14,8 +14,8 @@
 | 07:30 | INR | WPI Food (YoY) (May) | 9.82% |  | 7.74% |
 | 07:30 | INR | WPI Fuel (YoY) (May) | 1.35% |  | 1.38% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) | 0.78% |  | -0.42% |
-| 07:45 | EUR | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | French CPI NSA (YoY) (May) | 2.30% |  | 2.20% |
+| 07:45 | EUR | French CPI NSA (MoM) (May) | 0.00% |  | 0.50% |
 | 07:45 | EUR | French CPI (YoY) | 2.3% | 2.2% | 2.2% |
 | 07:45 | EUR | French HICP (YoY) (May) | 2.6% | 2.7% | 2.4% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (May) | 2.20% |  | 2.10% |
