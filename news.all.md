@@ -10,13 +10,12 @@
 | 03:30 | JPY | Moderate | BoJ Monetary Policy Statement |  |  |  |
 | 04:00 | KRW | Low | M3 Money Supply (Apr) | 5,429.3B |  | 5,457.8B |
 | 04:00 | KRW | Low | M2 Money supply (Apr) | 4.50% |  | 5.60% |
-| 04:00 | JPY | High | BoJ Interest Rate Decision |  | 0.10% | 0.10% |
-| 05:30 | JPY | Low | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
-| 05:30 | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -0.1% | 4.4% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
-| 07:00 | EUR | Low | German WPI (YoY) |  |  | -1.8% |
+| 04:25 | JPY | High | BoJ Interest Rate Decision | 0.10% | 0.10% | 0.10% |
+| 24 min | JPY | Low | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
+| 24 min | JPY | Moderate | Industrial Production (MoM) (Apr) |  | -0.1% | 4.4% |
+| 24 min | JPY | Low | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
 | 07:00 | EUR | Low | German WPI (MoM) |  |  | 0.4% |
-| 07:00 | IDR | Low | Car Sales (YoY) |  |  | -17.50% |
+| 07:00 | EUR | Low | German WPI (YoY) |  |  | -1.8% |
 | 07:30 | INR | Low | WPI Food (YoY) (May) |  |  | 7.74% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (May) |  |  | 1.38% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (May) |  | 2.50% | 1.26% |
@@ -50,7 +49,7 @@
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 651.51B |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.35% | -0.34% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (Apr) |  | 0.45% | -0.34% |
 | 13:30 | USD | Low | Export Price Index (YoY) |  |  | -1.0% |
 | 13:30 | USD | Moderate | Export Price Index (MoM) (May) |  | 0.0% | 0.5% |
 | 13:30 | USD | Low | Import Price Index (YoY) |  |  | 1.1% |

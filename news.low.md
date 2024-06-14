@@ -9,11 +9,10 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jun) | 76.56 |  | 68.17 |
 | 04:00 | KRW | M3 Money Supply (Apr) | 5,429.3B |  | 5,457.8B |
 | 04:00 | KRW | M2 Money supply (Apr) | 4.50% |  | 5.60% |
-| 05:30 | JPY | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
-| 05:30 | JPY | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
-| 07:00 | EUR | German WPI (YoY) |  |  | -1.8% |
+| 24 min | JPY | Capacity Utilization (MoM) (Apr) |  |  | 1.3% |
+| 24 min | JPY | Tertiary Industry Activity Index (Apr) |  | 0.40 | 12.70 |
 | 07:00 | EUR | German WPI (MoM) |  |  | 0.4% |
-| 07:00 | IDR | Car Sales (YoY) |  |  | -17.50% |
+| 07:00 | EUR | German WPI (YoY) |  |  | -1.8% |
 | 07:30 | INR | WPI Food (YoY) (May) |  |  | 7.74% |
 | 07:30 | INR | WPI Fuel (YoY) (May) |  |  | 1.38% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (May) |  |  | -0.42% |
@@ -38,7 +37,7 @@
 | 12:30 | INR | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 651.51B |
-| 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.35% | -0.34% |
+| 13:00 | BRL | IBC-Br Economic Activity (Apr) |  | 0.45% | -0.34% |
 | 13:30 | USD | Export Price Index (YoY) |  |  | -1.0% |
 | 13:30 | USD | Import Price Index (YoY) |  |  | 1.1% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (Apr) |  | 1.3% | -2.1% |
