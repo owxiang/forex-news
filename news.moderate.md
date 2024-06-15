@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 17:15 | EUR | ECB's Schnabel Speaks |  |  |  |
+| 9 min | EUR | ECB's Schnabel Speaks |  |  |  |
