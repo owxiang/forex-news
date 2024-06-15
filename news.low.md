@@ -1,5 +1,6 @@
-## 15 June 2024 - Low Impact Forex News
+## 16 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 11:00 | CNY | FDI |  |  | -27.90% |
+| 23:30 | NZD | Performance of Services Index |  |  | 47.1 |

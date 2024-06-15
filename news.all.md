@@ -1,7 +1,6 @@
-## 15 June 2024 - All Forex News
+## 16 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 17:15 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 11:00 | CNY | Low | FDI |  |  | -27.90% |
+| 23:30 | NZD | Low | Performance of Services Index |  |  | 47.1 |
