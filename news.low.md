@@ -2,5 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | CNY | FDI |  |  | -27.90% |
 | 23:30 | NZD | Performance of Services Index |  |  | 47.1 |
