@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 23:30 | NZD | Low | Performance of Services Index |  |  | 47.1 |
+| 25 min | NZD | Low | Performance of Services Index |  |  | 47.1 |
