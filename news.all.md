@@ -14,14 +14,14 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) | 4.05% |  | 4.13% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) | 5.0% | 5.0% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 53 min | NOK | Low | Trade Balance (May) |  |  | 65.3B |
-| 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
+| 07:00 | NOK | Low | Trade Balance (May) | 58.7B |  | 65.8B |
+| 52 min | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) |  |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (May) |  | 0.8% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
-| 09:00 | EUR | Low | Spanish Trade Balance |  |  | -2.00B |
+| 09:00 | EUR | Low | Spanish Trade Balance (Apr) |  |  | -2.00B |
 | 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Moderate | Wages in euro zone (YoY) (Q1) |  |  | 3.10% |
@@ -38,7 +38,6 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.517% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.681% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.624% |
-| 16:07 | GBP | Low | Rightmove House Price Index (YoY) (Jun) |  |  | 0.6% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
