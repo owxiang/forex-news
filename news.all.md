@@ -20,8 +20,8 @@
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.8% | 0.9% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.8% | 0.9% |
 | 09:00 | EUR | Low | Spanish Trade Balance (Apr) | -4.70B |  | -2.00B |
 | 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
@@ -35,12 +35,12 @@
 | 13:15 | CAD | Moderate | Housing Starts (May) | 264.5K | 247.0K | 241.1K |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jun) | -6.00 | -12.50 | -15.60 |
 | 13:30 | CAD | Moderate | Foreign Securities Purchases (Apr) | 41.16B | 12.30B | 14.38B |
-| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) | 0.00B |  | 35.61B |
+| 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (Apr) | 0.002B |  | 35.610B |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.452% |  | 3.517% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.703% |  | 3.681% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.643% |  | 3.624% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
-| 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.165% |
+| 54 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
 | 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 93.2 |

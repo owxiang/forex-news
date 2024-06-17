@@ -15,16 +15,16 @@
 | 09:00 | EUR | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (YoY) (May) | 0.8% | 0.8% | 0.9% |
 | 09:00 | EUR | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
+| 09:00 | EUR | Italian HICP (YoY) (May) | 0.8% | 0.8% | 0.9% |
 | 09:00 | EUR | Spanish Trade Balance (Apr) | -4.70B |  | -2.00B |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 5.10% | 4.90% | 3.40% |
 | 10:45 | EUR | German 12-Month Bubill Auction | 3.192% |  | 3.371% |
 | 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) | 0.8% |  | 1.1% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) | 0.00B |  | 35.61B |
+| 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) | 0.002B |  | 35.610B |
 | 14:00 | EUR | French 12-Month BTF Auction | 3.452% |  | 3.517% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.703% |  | 3.681% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.643% |  | 3.624% |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 5.165% |
+| 24 min | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 24 min | USD | 6-Month Bill Auction |  |  | 5.165% |
