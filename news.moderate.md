@@ -16,5 +16,5 @@
 | 13:30 | USD | NY Empire State Manufacturing Index (Jun) | -6.00 | -12.50 | -15.60 |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) | 41.16B | 12.30B | 14.38B |
 | 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 54 min | USD | FOMC Member Harker Speaks |  |  |  |
+| 18:00 | USD | FOMC Member Harker Speaks |  |  |  |
 | 22:00 | NZD | Westpac Consumer Sentiment |  |  | 93.2 |
