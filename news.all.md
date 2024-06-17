@@ -17,8 +17,8 @@
 | 07:00 | NOK | Low | Trade Balance (May) | 58.7B |  | 65.8B |
 | 07:58 | GBP | Low | Rightmove House Price Index (YoY) (Jun) | 0.6% |  | 0.6% |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Low | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
+| 09:00 | EUR | Low | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) | 0.8% |  | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (May) | 0.8% | 0.8% | 0.9% |
