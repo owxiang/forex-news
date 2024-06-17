@@ -8,16 +8,16 @@
 | 02:30 | AUD | ANZ Job Advertisements (MoM) | 2.1% |  | 2.8% |
 | 02:30 | CNY | House Prices (YoY) (May) | -3.9% |  | -3.1% |
 | 03:00 | CNY | Retail Sales (YoY) (May) | 3.7% | 3.0% | 2.3% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) | 4.05% |  | 4.13% |
 | 05:30 | AUD | MI Inflation Expectations |  |  | 4.1% |
 | 05:30 | AUD | Westpac Consumer Sentiment |  |  | -0.3% |
-| 05:30 | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 4.10% |
 | 07:00 | NOK | Trade Balance (May) |  |  | 65.3B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) |  |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
 | 09:00 | EUR | Italian HICP (YoY) (May) |  | 0.8% | 0.9% |
+| 09:00 | EUR | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
 | 09:00 | EUR | Spanish Trade Balance |  |  | -2.00B |
 | 10:00 | EUR | Labor Cost Index (YoY) (Q1) |  | 4.90% | 3.40% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.371% |

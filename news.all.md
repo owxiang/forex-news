@@ -11,18 +11,18 @@
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (May) | 5.6% | 6.2% | 6.7% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) | 6.2% |  | 6.3% |
 | 03:00 | CNY | Low | Retail Sales (YoY) (May) | 3.7% | 3.0% | 2.3% |
+| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) | 4.05% |  | 4.13% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) | 5.0% | 5.0% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
 | 05:30 | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
 | 05:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
-| 05:30 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) |  |  | 4.10% |
 | 07:00 | NOK | Low | Trade Balance (May) |  |  | 65.3B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (May) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
 | 09:00 | EUR | Low | Italian HICP (YoY) (May) |  | 0.8% | 0.9% |
+| 09:00 | EUR | Low | Italian HICP (MoM) (May) |  | 0.2% | 0.5% |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -2.00B |
 | 09:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
