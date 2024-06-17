@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.0% |  | 0.8% |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Apr) | 0.7% | -0.1% | 2.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Apr) | -2.9% | -2.9% | 2.9% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Apr) | 0.7% | -0.1% | 2.7% |
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | -2.1% |  | -2.3% |
 | 02:30 | CNY | Low | House Prices (YoY) (May) | -3.9% |  | -3.1% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) | 4.0% | 4.2% | 4.2% |
@@ -43,4 +43,4 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.150% |  | 5.165% |
 | 17:00 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 18:00 | USD | Moderate | FOMC Member Harker Speaks |  |  |  |
-| 22:00 | NZD | Moderate | Westpac Consumer Sentiment |  |  | 93.2 |
+| 55 min | NZD | Moderate | Westpac Consumer Sentiment |  |  | 93.2 |
