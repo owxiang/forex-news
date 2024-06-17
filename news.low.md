@@ -5,12 +5,12 @@
 | 00:01 | GBP | Rightmove House Price Index (MoM) | 0.0% |  | 0.8% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | -2.9% | -2.9% | 2.9% |
 | 00:50 | JPY | Core Machinery Orders (YoY) (Apr) | 0.7% |  | 2.7% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) |  |  | 2.8% |
-| 02:30 | AUD | MI Inflation Expectations |  |  | 4.1% |
-| 02:30 | AUD | Westpac Consumer Sentiment |  |  | -0.3% |
+| 02:30 | AUD | ANZ Job Advertisements (MoM) | 2.1% |  | 2.8% |
 | 02:30 | CNY | House Prices (YoY) (May) | -3.9% |  | -3.1% |
-| 27 min | CNY | Retail Sales (YoY) (May) |  | 3.0% | 2.3% |
-| 27 min | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 4.10% |
+| 03:00 | CNY | Retail Sales (YoY) (May) | 3.7% | 3.0% | 2.3% |
+| 05:30 | AUD | MI Inflation Expectations |  |  | 4.1% |
+| 05:30 | AUD | Westpac Consumer Sentiment |  |  | -0.3% |
+| 05:30 | CNY | Chinese Retail Sales YTD (YoY) (May) |  |  | 4.10% |
 | 07:00 | NOK | Trade Balance (May) |  |  | 65.3B |
 | 08:00 | CHF | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
