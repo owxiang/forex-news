@@ -8,14 +8,14 @@
 | 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | 2.8% |
 | 02:30 | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
 | 02:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
-| 02:30 | CNY | Low | House Prices (YoY) (May) |  |  | -3.1% |
-| 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) |  | 4.2% | 4.2% |
-| 03:00 | CNY | Moderate | Industrial Production (YoY) (May) |  | 6.2% | 6.7% |
-| 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) |  |  | 6.3% |
-| 03:00 | CNY | Low | Retail Sales (YoY) (May) |  | 3.0% | 2.3% |
-| 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) |  |  | 4.10% |
-| 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) |  | 5.0% | 5.0% |
-| 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
+| 02:30 | CNY | Low | House Prices (YoY) (May) | -3.9% |  | -3.1% |
+| 27 min | CNY | Moderate | Fixed Asset Investment (YoY) (May) |  | 4.2% | 4.2% |
+| 27 min | CNY | Moderate | Industrial Production (YoY) (May) |  | 6.2% | 6.7% |
+| 27 min | CNY | Moderate | Chinese Industrial Production YTD (YoY) (May) |  |  | 6.3% |
+| 27 min | CNY | Low | Retail Sales (YoY) (May) |  | 3.0% | 2.3% |
+| 27 min | CNY | Low | Chinese Retail Sales YTD (YoY) (May) |  |  | 4.10% |
+| 27 min | CNY | Moderate | Chinese Unemployment Rate (May) |  | 5.0% | 5.0% |
+| 27 min | CNY | Moderate | NBS Press Conference |  |  |  |
 | 07:00 | NOK | Low | Trade Balance (May) |  |  | 65.3B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
