@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | Rightmove House Price Index (MoM) | 0.0% |  | 0.8% |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Apr) | 0.7% | -0.1% | 2.7% |
 | 00:50 | JPY | Low | Core Machinery Orders (MoM) (Apr) | -2.9% | -2.9% | 2.9% |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (Apr) | 0.7% |  | 2.7% |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | 2.1% |  | 2.8% |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | -2.1% |  | -2.3% |
 | 02:30 | CNY | Low | House Prices (YoY) (May) | -3.9% |  | -3.1% |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (May) | 4.0% | 4.2% | 4.2% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (May) | 5.6% | 6.2% | 6.7% |
@@ -14,9 +14,7 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) | 4.05% |  | 4.13% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) | 5.0% | 5.0% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 23 min | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
-| 23 min | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
-| 07:00 | NOK | Low | Trade Balance (May) |  |  | 65.3B |
+| 53 min | NOK | Low | Trade Balance (May) |  |  | 65.3B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (May) |  | 0.2% | 0.1% |
