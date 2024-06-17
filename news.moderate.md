@@ -9,7 +9,7 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 09:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q1) |  |  | 3.10% |
+| 10:00 | EUR | Wages in euro zone (YoY) (Q1) | 5.30% |  | 3.20% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (May) |  | 247.0K | 240.2K |
