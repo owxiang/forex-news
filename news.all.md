@@ -14,8 +14,8 @@
 | 03:00 | CNY | Low | Chinese Retail Sales YTD (YoY) (May) | 4.05% |  | 4.13% |
 | 03:00 | CNY | Moderate | Chinese Unemployment Rate (May) | 5.0% | 5.0% | 5.0% |
 | 03:00 | CNY | Moderate | NBS Press Conference |  |  |  |
-| 05:30 | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
-| 05:30 | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
+| 23 min | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
+| 23 min | AUD | Low | Westpac Consumer Sentiment |  |  | -0.3% |
 | 07:00 | NOK | Low | Trade Balance (May) |  |  | 65.3B |
 | 08:00 | CHF | Low | SECO Economic Forecasts |  |  |  |
 | 09:00 | EUR | Low | Italian CPI (YoY) (May) |  | 0.8% | 0.8% |
