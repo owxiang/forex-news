@@ -11,7 +11,7 @@
 | 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 10:00 | EUR | Wages in euro zone (YoY) (Q1) | 5.30% |  | 3.20% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 25 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 13:15 | CAD | Housing Starts (May) |  | 247.0K | 240.2K |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jun) |  | -12.50 | -15.60 |
 | 13:30 | CAD | Foreign Securities Purchases (Apr) |  | 12.30B | 14.37B |
