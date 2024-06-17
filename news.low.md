@@ -1,30 +1,39 @@
-## 17 June 2024 - Low Impact Forex News
+## 18 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | Rightmove House Price Index (MoM) | 0.0% |  | 0.8% |
-| 00:50 | JPY | Core Machinery Orders (YoY) (Apr) | 0.7% | -0.1% | 2.7% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (Apr) | -2.9% | -2.9% | 2.9% |
-| 02:30 | AUD | ANZ Job Advertisements (MoM) | -2.1% |  | -2.3% |
-| 02:30 | CNY | House Prices (YoY) (May) | -3.9% |  | -3.1% |
-| 03:00 | CNY | Retail Sales (YoY) (May) | 3.7% | 3.0% | 2.3% |
-| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (May) | 4.05% |  | 4.13% |
-| 07:00 | NOK | Trade Balance (May) | 58.7B |  | 65.8B |
-| 07:58 | GBP | Rightmove House Price Index (YoY) (Jun) | 0.6% |  | 0.6% |
-| 08:00 | CHF | SECO Economic Forecasts |  |  |  |
-| 09:00 | EUR | Italian CPI (YoY) (May) | 0.8% | 0.8% | 0.8% |
-| 09:00 | EUR | Italian CPI (MoM) (May) | 0.2% | 0.2% | 0.1% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (May) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (May) | 0.2% | 0.2% | 0.5% |
-| 09:00 | EUR | Italian HICP (YoY) (May) | 0.8% | 0.8% | 0.9% |
-| 09:00 | EUR | Spanish Trade Balance (Apr) | -4.70B |  | -2.00B |
-| 10:00 | EUR | Labor Cost Index (YoY) (Q1) | 5.10% | 4.90% | 3.40% |
-| 10:45 | EUR | German 12-Month Bubill Auction | 3.192% |  | 3.371% |
-| 12:00 | BRL | IGP-10 Inflation Index (MoM) (Jun) | 0.8% |  | 1.1% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:30 | CAD | Foreign Securities Purchases by Canadians (Apr) | 0.002B |  | 35.610B |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.452% |  | 3.517% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.703% |  | 3.681% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.643% |  | 3.624% |
-| 16:30 | USD | 3-Month Bill Auction | 5.250% |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction | 5.150% |  | 5.165% |
+| 49 min | KRW | Exports (YoY) (May) |  |  | 11.7% |
+| 49 min | KRW | Imports (YoY) (May) |  |  | -2.0% |
+| 49 min | KRW | Trade Balance (May) |  |  | 4.96B |
+| 01:30 | SGD | Non-Oil Exports (YoY) (May) |  | -0.90% | -9.30% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (May) |  | 1.70% | 7.60% |
+| 02:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 02:30 | SGD | Trade Balance |  |  | 4.525B |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.199% |
+| 10:00 | EUR | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (May) |  |  | 2.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) |  |  | 0.6% |
+| 10:00 | EUR | CPI, n.s.a |  | 126.32 | 126.04 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.9% | 2.8% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (May) |  | 0.4% | 0.6% |
+| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
+| 11:00 | CNY | FDI |  |  | -27.90% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 0.30% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
+| 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 5.10% |
+| 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | 0.90% |
+| 13:30 | USD | Retail Sales (YoY) (May) |  |  | 3.04% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | -0.1% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
+| 14:15 | USD | Capacity Utilization Rate (May) |  | 78.6% | 78.4% |
+| 14:15 | USD | Manufacturing Production (MoM) (May) |  | 0.3% | -0.3% |
+| 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 15:00 | NZD | GlobalDairyTrade Price Index |  |  | 1.7% |
+| 15:00 | USD | Milk Auctions |  |  | 3,824.0 |
+| 16:40 | USD | Fed Collins Speaks |  |  |  |
+| 18:00 | USD | Fed Logan Speaks |  |  |  |
+| 19:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 42.20B |
+| 21:00 | USD | Overall Net Capital Flow (Apr) |  |  | 102.10B |
+| 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) |  | 69.30B | 100.50B |
+| 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -6.90% |

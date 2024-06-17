@@ -1,20 +1,24 @@
-## 17 June 2024 - Moderate Impact Forex News
+## 18 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (May) | 4.0% | 4.2% | 4.2% |
-| 03:00 | CNY | Industrial Production (YoY) (May) | 5.6% | 6.2% | 6.7% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (May) | 6.2% |  | 6.3% |
-| 03:00 | CNY | Chinese Unemployment Rate (May) | 5.0% | 5.0% | 5.0% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 09:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 10:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 10:00 | EUR | Wages in euro zone (YoY) (Q1) | 5.30% |  | 3.20% |
+| 01:10 | AUD | RBA Assist Gov Ellis Speaks |  |  |  |
+| 05:30 | AUD | RBA Rate Statement |  |  |  |
+| 10:00 | EUR | German ZEW Current Conditions (Jun) |  | -65.0 | -72.3 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Jun) |  | 49.6 | 47.1 |
+| 10:00 | EUR | Core CPI (YoY) (May) |  | 2.9% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (May) |  | 0.2% | 0.6% |
+| 10:00 | EUR | ZEW Economic Sentiment (Jun) |  | 47.8 | 47.0 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 13:15 | CAD | Housing Starts (May) | 264.5K | 247.0K | 241.1K |
-| 13:30 | USD | NY Empire State Manufacturing Index (Jun) | -6.00 | -12.50 | -15.60 |
-| 13:30 | CAD | Foreign Securities Purchases (Apr) | 41.16B | 12.30B | 14.38B |
-| 17:00 | USD | FOMC Member Williams Speaks |  |  |  |
-| 18:00 | USD | FOMC Member Harker Speaks |  |  |  |
-| 22:00 | NZD | Westpac Consumer Sentiment | 82.2 |  | 93.2 |
+| 13:30 | USD | Retail Control (MoM) (May) |  |  | -0.3% |
+| 14:15 | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
+| 14:15 | USD | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
+| 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 15:00 | USD | Business Inventories (MoM) (Apr) |  | 0.3% | -0.1% |
+| 15:00 | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | -0.2% |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.635% |
+| 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
+| 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  |  | 100.5B |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.428M |
+| 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
