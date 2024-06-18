@@ -4,12 +4,12 @@
 |------|----------|-------|--------|----------|----------|
 | 01:10 | AUD | RBA Assist Gov Ellis Speaks |  |  |  |
 | 05:30 | AUD | RBA Rate Statement |  |  |  |
-| 53 min | EUR | German ZEW Current Conditions (Jun) |  | -65.0 | -72.3 |
-| 53 min | EUR | German ZEW Economic Sentiment (Jun) |  | 49.6 | 47.1 |
-| 53 min | EUR | Core CPI (YoY) (May) |  | 2.9% | 2.7% |
-| 53 min | EUR | CPI (MoM) (May) |  | 0.2% | 0.6% |
-| 53 min | EUR | ZEW Economic Sentiment (Jun) |  | 47.8 | 47.0 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | German ZEW Current Conditions (Jun) | -73.8 | -65.0 | -72.3 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Jun) | 47.5 | 49.6 | 47.1 |
+| 10:00 | EUR | Core CPI (YoY) (May) | 2.9% | 2.9% | 2.7% |
+| 10:00 | EUR | CPI (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 10:00 | EUR | ZEW Economic Sentiment (Jun) | 51.3 | 47.8 | 47.0 |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) |  |  | -0.3% |
 | 14:15 | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |

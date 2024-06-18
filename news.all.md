@@ -9,26 +9,26 @@
 | 02:30 | SGD | Low | Trade Balance | 4.563B |  | 4.516B |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jun) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 53 min | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.199% |
-| 53 min | EUR | Moderate | German ZEW Current Conditions (Jun) |  | -65.0 | -72.3 |
-| 53 min | EUR | Moderate | German ZEW Economic Sentiment (Jun) |  | 49.6 | 47.1 |
-| 53 min | EUR | Low | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
-| 53 min | EUR | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.7% |
-| 53 min | EUR | Moderate | CPI (MoM) (May) |  | 0.2% | 0.6% |
-| 53 min | EUR | High | CPI (YoY) (May) |  | 2.6% | 2.4% |
-| 53 min | EUR | Low | CPI ex Tobacco (YoY) (May) |  |  | 2.3% |
-| 53 min | EUR | Low | CPI ex Tobacco (MoM) (May) |  |  | 0.6% |
-| 53 min | EUR | Low | CPI, n.s.a |  | 126.32 | 126.04 |
-| 53 min | EUR | Low | HICP ex Energy & Food (YoY) (May) |  | 2.9% | 2.8% |
-| 53 min | EUR | Low | HICP ex Energy and Food (MoM) (May) |  | 0.4% | 0.6% |
-| 53 min | EUR | Moderate | ZEW Economic Sentiment (Jun) |  | 47.8 | 47.0 |
-| 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
-| 11:00 | CNY | Low | FDI (May) |  |  | -27.90% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.199% |
+| 10:00 | EUR | Moderate | German ZEW Current Conditions (Jun) | -73.8 | -65.0 | -72.3 |
+| 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) | 47.5 | 49.6 | 47.1 |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.9% | 2.9% | 2.7% |
+| 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.6% | 2.4% |
+| 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
+| 10:00 | EUR | Low | CPI ex Tobacco (YoY) (May) | 2.5% |  | 2.3% |
+| 10:00 | EUR | Low | CPI, n.s.a (May) | 126.31 | 126.32 | 126.04 |
+| 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.9% | 2.9% | 2.8% |
+| 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.4% | 0.4% | 0.6% |
+| 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jun) | 51.3 | 47.8 | 47.0 |
+| 24 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
+| 54 min | CNY | Low | FDI (May) |  |  | -27.90% |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
 | 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 0.30% |
-| 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 5.10% |
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q1) |  |  | 0.90% |
+| 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 5.10% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) |  |  | -0.3% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) |  | 0.3% | 0.0% |
