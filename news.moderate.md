@@ -11,8 +11,8 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Jun) |  | 47.8 | 47.0 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) |  |  | -0.3% |
-| 14:15 | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
+| 14:15 | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Apr) |  | 0.3% | -0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | -0.2% |

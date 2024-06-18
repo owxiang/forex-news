@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:10 | AUD | Moderate | RBA Assist Gov Ellis Speaks |  |  |  |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 02:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Low | Trade Balance | 4.563B |  | 4.516B |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jun) | 4.35% | 4.35% | 4.35% |
@@ -14,8 +14,8 @@
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) |  | 49.6 | 47.1 |
 | 10:00 | EUR | Low | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) |  | 2.9% | 2.7% |
-| 10:00 | EUR | Moderate | CPI (MoM) (May) |  | 0.2% | 0.6% |
 | 10:00 | EUR | High | CPI (YoY) (May) |  | 2.6% | 2.4% |
+| 10:00 | EUR | Moderate | CPI (MoM) (May) |  | 0.2% | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) |  |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (May) |  |  | 2.3% |
 | 10:00 | EUR | Low | CPI, n.s.a |  | 126.32 | 126.04 |
@@ -25,10 +25,10 @@
 | 10:30 | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
 | 11:00 | CNY | Low | FDI (May) |  |  | -27.90% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
 | 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 0.30% |
-| 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 5.10% |
+| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q1) |  |  | 0.90% |
+| 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 5.10% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) |  |  | -0.3% |
 | 13:30 | USD | High | Retail Sales (MoM) (May) |  | 0.3% | 0.0% |
@@ -36,8 +36,8 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) |  | 78.6% | 78.4% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (May) |  | 0.3% | -0.3% |
 | 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) |  | 0.3% | -0.1% |
