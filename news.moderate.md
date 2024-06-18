@@ -19,6 +19,6 @@
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.1% | 3.1% | 3.1% |
 | 18:00 | USD | 20-Year Bond Auction | 4.452% |  | 4.635% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) | 123.1B | 69.0B | 102.6B |
-| 24 min | USD | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
+| 21:30 | USD | API Weekly Crude Oil Stock | 2.264M |  | -2.428M |
 | 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |

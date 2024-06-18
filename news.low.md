@@ -7,8 +7,8 @@
 | 02:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Trade Balance | 4.563B |  | 4.516B |
 | 10:00 | EUR | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 2.5% |  | 2.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | CPI, n.s.a (May) | 126.31 | 126.32 | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% | 2.9% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.4% | 0.4% | 0.6% |
@@ -16,8 +16,8 @@
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.450% |  | 2.560% |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q1) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q1) | 1.50% |  | 0.30% |
-| 13:00 | MXN | Private Spending (QoQ) (Q1) | 1.50% |  | 0.90% |
 | 13:00 | MXN | Private Spending (YoY) (Q1) | 3.60% |  | 5.10% |
+| 13:00 | MXN | Private Spending (QoQ) (Q1) | 1.50% |  | 0.90% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | -0.5% |  | 1.7% |
 | 13:00 | USD | Milk Auctions | 3,893.0 |  | 3,824.0 |
 | 13:30 | USD | Retail Sales (YoY) (May) | 2.27% |  | 2.74% |

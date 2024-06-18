@@ -15,8 +15,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.9% | 2.9% | 2.7% |
 | 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.6% | 2.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 0.6% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (May) | 2.5% |  | 2.3% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 126.31 | 126.32 | 126.04 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.9% | 2.9% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.4% | 0.4% | 0.6% |
@@ -26,14 +26,14 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) | 1.50% |  | 0.30% |
-| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) | 1.50% |  | 0.90% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q1) | 3.60% |  | 5.10% |
+| 13:00 | MXN | Low | Private Spending (QoQ) (Q1) | 1.50% |  | 0.90% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -0.5% |  | 1.7% |
 | 13:00 | USD | Low | Milk Auctions | 3,893.0 |  | 3,824.0 |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) | -0.1% | 0.2% | -0.1% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) | 0.4% | 0.4% | -0.5% |
-| 13:30 | USD | High | Retail Sales (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 13:30 | USD | Low | Retail Sales (YoY) (May) | 2.27% |  | 2.74% |
+| 13:30 | USD | High | Retail Sales (MoM) (May) | 0.1% | 0.3% | -0.2% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) | 0.1% |  | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) | 78.7% | 78.6% | 78.2% |
@@ -53,7 +53,7 @@
 | 21:00 | USD | Low | Overall Net Capital Flow (Apr) | 66.20B |  | 104.20B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) | 123.1B | 69.0B | 102.6B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Apr) | 123.10B | 69.30B | 102.60B |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 2.264M |  | -2.428M |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.90% |
