@@ -2,23 +2,23 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
 | 02:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Trade Balance | 4.563B |  | 4.516B |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.199% |
 | 10:00 | EUR | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (May) |  |  | 0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (May) |  |  | 2.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) |  |  | 0.6% |
 | 10:00 | EUR | CPI, n.s.a |  | 126.32 | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.9% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) |  | 0.4% | 0.6% |
 | 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.560% |
-| 11:00 | CNY | FDI |  |  | -27.90% |
-| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 0.30% |
+| 11:00 | CNY | FDI (May) |  |  | -27.90% |
 | 13:00 | MXN | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
-| 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | 0.90% |
+| 13:00 | MXN | Aggregate Demand (QoQ) (Q1) |  |  | 0.30% |
 | 13:00 | MXN | Private Spending (YoY) (Q1) |  |  | 5.10% |
+| 13:00 | MXN | Private Spending (QoQ) (Q1) |  |  | 0.90% |
 | 13:30 | USD | Retail Sales (YoY) (May) |  |  | 3.04% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | -0.1% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.5% |
