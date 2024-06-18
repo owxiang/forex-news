@@ -10,12 +10,12 @@
 | 10:00 | EUR | CPI (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | ZEW Economic Sentiment (Jun) | 51.3 | 47.8 | 47.0 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Retail Control (MoM) (May) |  |  | -0.3% |
-| 14:15 | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
-| 14:15 | USD | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
-| 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 15:00 | USD | Business Inventories (MoM) (Apr) |  | 0.3% | -0.1% |
-| 15:00 | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | -0.2% |
+| 13:30 | USD | Retail Control (MoM) (May) | 0.4% | 0.4% | -0.5% |
+| 8 min | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
+| 8 min | USD | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
+| 23 min | EUR | ECB's De Guindos Speaks |  |  |  |
+| 53 min | USD | Business Inventories (MoM) (Apr) |  | 0.3% | -0.1% |
+| 53 min | USD | Retail Inventories Ex Auto (Apr) |  | 0.3% | -0.2% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.635% |
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
