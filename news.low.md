@@ -18,14 +18,16 @@
 | 13:00 | MXN | Aggregate Demand (YoY) (Q1) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Private Spending (QoQ) (Q1) | 1.50% |  | 0.90% |
 | 13:00 | MXN | Private Spending (YoY) (Q1) | 3.60% |  | 5.10% |
+| 13:00 | NZD | GlobalDairyTrade Price Index | -0.5% |  | 1.7% |
+| 13:00 | USD | Milk Auctions | 3,893.0 |  | 3,824.0 |
 | 13:30 | USD | Retail Sales (YoY) (May) | 2.27% |  | 2.74% |
 | 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (May) | 0.1% |  | -0.3% |
 | 13:55 | USD | Redbook (YoY) | 5.9% |  | 5.5% |
 | 14:15 | USD | Capacity Utilization Rate (May) | 78.7% | 78.6% | 78.2% |
 | 14:15 | USD | Manufacturing Production (MoM) (May) | 0.9% | 0.3% | -0.4% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 35 min | USD | Fed Collins Speaks |  |  |  |
-| 18:00 | USD | Fed Logan Speaks |  |  |  |
+| 16:40 | USD | Fed Collins Speaks |  |  |  |
+| 55 min | USD | Fed Logan Speaks |  |  |  |
 | 19:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 42.20B |
 | 21:00 | USD | Overall Net Capital Flow (Apr) |  |  | 102.10B |
