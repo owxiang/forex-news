@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
 | 02:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Trade Balance | 4.563B |  | 4.516B |
 | 10:00 | EUR | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
@@ -14,8 +14,8 @@
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.4% | 0.4% | 0.6% |
 | 10:15 | GBP | 5-Year Treasury Gilt Auction | 4.083% |  | 4.199% |
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.450% |  | 2.560% |
-| 13:00 | MXN | Aggregate Demand (YoY) (Q1) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Aggregate Demand (QoQ) (Q1) | 1.50% |  | 0.30% |
+| 13:00 | MXN | Aggregate Demand (YoY) (Q1) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Private Spending (YoY) (Q1) | 3.60% |  | 5.10% |
 | 13:00 | MXN | Private Spending (QoQ) (Q1) | 1.50% |  | 0.90% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | -0.5% |  | 1.7% |
@@ -32,4 +32,4 @@
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) | 75.00B |  | 45.90B |
 | 21:00 | USD | Overall Net Capital Flow (Apr) | 66.20B |  | 104.20B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) | 123.10B | 69.30B | 102.60B |
-| 23:45 | NZD | Current Account % of GDP (Q1) |  |  | -6.90% |
+| 40 min | NZD | Current Account % of GDP (Q1) |  |  | -6.90% |
