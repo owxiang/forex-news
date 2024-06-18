@@ -3,13 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:10 | AUD | Moderate | RBA Assist Gov Ellis Speaks |  |  |  |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 02:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Low | Trade Balance | 4.563B |  | 4.516B |
 | 05:30 | AUD | High | RBA Interest Rate Decision (Jun) | 4.35% | 4.35% | 4.35% |
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
-| 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.199% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jun) | -73.8 | -65.0 | -72.3 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) | 47.5 | 49.6 | 47.1 |
 | 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
@@ -22,17 +21,18 @@
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (May) | 2.9% | 2.9% | 2.8% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (May) | 0.4% | 0.4% | 0.6% |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jun) | 51.3 | 47.8 | 47.0 |
-| 24 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.560% |
-| 54 min | CNY | Low | FDI (May) |  |  | -27.90% |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
+| 10:15 | GBP | Low | 5-Year Treasury Gilt Auction | 4.083% |  | 4.199% |
+| 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.450% |  | 2.560% |
+| 11:00 | CNY | Low | FDI (May) |  |  | -27.90% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | Low | Aggregate Demand (QoQ) (Q1) |  |  | 0.30% |
+| 13:00 | MXN | Low | Aggregate Demand (YoY) (Q1) |  |  | 2.60% |
 | 13:00 | MXN | Low | Private Spending (QoQ) (Q1) |  |  | 0.90% |
 | 13:00 | MXN | Low | Private Spending (YoY) (Q1) |  |  | 5.10% |
 | 13:30 | USD | High | Core Retail Sales (MoM) (May) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (May) |  |  | -0.3% |
-| 13:30 | USD | High | Retail Sales (MoM) (May) |  | 0.3% | 0.0% |
 | 13:30 | USD | Low | Retail Sales (YoY) (May) |  |  | 3.04% |
+| 13:30 | USD | High | Retail Sales (MoM) (May) |  | 0.3% | 0.0% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) |  | 78.6% | 78.4% |
@@ -55,6 +55,6 @@
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Apr) |  | 69.30B | 100.50B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.90% |

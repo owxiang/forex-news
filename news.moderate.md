@@ -9,7 +9,7 @@
 | 10:00 | EUR | Core CPI (YoY) (May) | 2.9% | 2.9% | 2.7% |
 | 10:00 | EUR | CPI (MoM) (May) | 0.2% | 0.2% | 0.6% |
 | 10:00 | EUR | ZEW Economic Sentiment (Jun) | 51.3 | 47.8 | 47.0 |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) |  |  | -0.3% |
 | 14:15 | USD | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
@@ -20,5 +20,5 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
