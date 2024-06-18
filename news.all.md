@@ -11,10 +11,10 @@
 | 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jun) | -73.8 | -65.0 | -72.3 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) | 47.5 | 49.6 | 47.1 |
-| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (May) | 2.9% | 2.9% | 2.7% |
-| 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.6% | 2.4% |
+| 10:00 | EUR | Low | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
 | 10:00 | EUR | Moderate | CPI (MoM) (May) | 0.2% | 0.2% | 0.6% |
+| 10:00 | EUR | High | CPI (YoY) (May) | 2.6% | 2.6% | 2.4% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (May) | 2.5% |  | 2.3% |
 | 10:00 | EUR | Low | CPI, n.s.a (May) | 126.31 | 126.32 | 126.04 |
@@ -35,14 +35,14 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) | 0.1% |  | -0.3% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.9% |  | 5.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) | 78.7% | 78.6% | 78.2% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (May) | 0.9% | 0.3% | 0.0% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (May) | 0.39% |  | -0.68% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (May) | 0.9% | 0.3% | 0.0% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (May) | 0.9% | 0.3% | -0.4% |
 | 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) | 0.3% | 0.3% | -0.1% |
 | 15:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | -0.2% |
-| 16:40 | USD | Low | Fed Collins Speaks |  |  |  |
+| 35 min | USD | Low | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.635% |
 | 18:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 18:00 | USD | Low | Fed Logan Speaks |  |  |  |
@@ -52,6 +52,6 @@
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
 | 21:00 | USD | Low | TIC Net Long-Term Transactions including Swaps (Apr) |  | 69.30B | 100.50B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Moderate | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Moderate | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Low | Current Account % of GDP (Q1) |  |  | -6.90% |

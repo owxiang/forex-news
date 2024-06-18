@@ -24,7 +24,7 @@
 | 14:15 | USD | Capacity Utilization Rate (May) | 78.7% | 78.6% | 78.2% |
 | 14:15 | USD | Manufacturing Production (MoM) (May) | 0.9% | 0.3% | -0.4% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 16:40 | USD | Fed Collins Speaks |  |  |  |
+| 35 min | USD | Fed Collins Speaks |  |  |  |
 | 18:00 | USD | Fed Logan Speaks |  |  |  |
 | 19:00 | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 42.20B |

@@ -11,8 +11,8 @@
 | 10:00 | EUR | ZEW Economic Sentiment (Jun) | 51.3 | 47.8 | 47.0 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Retail Control (MoM) (May) | 0.4% | 0.4% | -0.5% |
-| 14:15 | USD | Industrial Production (MoM) (May) | 0.9% | 0.3% | 0.0% |
 | 14:15 | USD | Industrial Production (YoY) (May) | 0.39% |  | -0.68% |
+| 14:15 | USD | Industrial Production (MoM) (May) | 0.9% | 0.3% | 0.0% |
 | 14:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 15:00 | USD | Business Inventories (MoM) (Apr) | 0.3% | 0.3% | -0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | -0.2% |
@@ -20,5 +20,5 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
 | 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
+| 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
