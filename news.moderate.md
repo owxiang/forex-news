@@ -17,8 +17,8 @@
 | 15:00 | USD | Business Inventories (MoM) (Apr) | 0.3% | 0.3% | -0.1% |
 | 15:00 | USD | Retail Inventories Ex Auto (Apr) | 0.3% | 0.3% | -0.2% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 3.1% | 3.1% | 3.1% |
-| 18:00 | USD | 20-Year Bond Auction |  |  | 4.635% |
+| 18:00 | USD | 20-Year Bond Auction | 4.452% |  | 4.635% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
 | 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
+| 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
