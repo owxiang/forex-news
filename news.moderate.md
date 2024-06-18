@@ -20,5 +20,5 @@
 | 18:00 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 21:00 | USD | TIC Net Long-Term Transactions (Apr) |  | 69.0B | 100.5B |
 | 21:30 | USD | API Weekly Crude Oil Stock |  |  | -2.428M |
-| 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |
 | 23:45 | NZD | Current Account (QoQ) (Q1) |  | -4.69B | -7.84B |
+| 23:45 | NZD | Current Account (YoY) (Q1) |  |  | -27.80B |

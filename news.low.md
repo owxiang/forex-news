@@ -8,8 +8,8 @@
 | 02:30 | SGD | Trade Balance | 4.563B |  | 4.516B |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.199% |
 | 10:00 | EUR | Core CPI (MoM) (May) |  | 0.4% | 0.7% |
-| 10:00 | EUR | CPI ex Tobacco (YoY) (May) |  |  | 2.3% |
 | 10:00 | EUR | CPI ex Tobacco (MoM) (May) |  |  | 0.6% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (May) |  |  | 2.3% |
 | 10:00 | EUR | CPI, n.s.a |  | 126.32 | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) |  | 2.9% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) |  | 0.4% | 0.6% |
