@@ -7,8 +7,8 @@
 | 02:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Trade Balance | 4.563B |  | 4.516B |
 | 10:00 | EUR | Core CPI (MoM) (May) | 0.4% | 0.4% | 0.7% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (May) | 2.5% |  | 2.3% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (May) | 0.2% |  | 0.6% |
 | 10:00 | EUR | CPI, n.s.a (May) | 126.31 | 126.32 | 126.04 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (May) | 2.9% | 2.9% | 2.8% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (May) | 0.4% | 0.4% | 0.6% |
@@ -27,8 +27,8 @@
 | 14:15 | USD | Manufacturing Production (MoM) (May) | 0.9% | 0.3% | -0.4% |
 | 15:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 16:40 | USD | Fed Collins Speaks |  |  |  |
-| 55 min | USD | Fed Logan Speaks |  |  |  |
-| 19:00 | USD | Fed Goolsbee Speaks |  |  |  |
+| 18:00 | USD | Fed Logan Speaks |  |  |  |
+| 54 min | USD | Fed Goolsbee Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (Apr) |  |  | 42.20B |
 | 21:00 | USD | Overall Net Capital Flow (Apr) |  |  | 102.10B |
 | 21:00 | USD | TIC Net Long-Term Transactions including Swaps (Apr) |  | 69.30B | 100.50B |
