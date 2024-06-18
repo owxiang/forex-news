@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | SGD | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 01:30 | SGD | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
+| 01:30 | SGD | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 02:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Trade Balance | 4.563B |  | 4.516B |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.199% |

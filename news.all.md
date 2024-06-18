@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 01:10 | AUD | Moderate | RBA Assist Gov Ellis Speaks |  |  |  |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 01:30 | SGD | Low | Non-Oil Exports (YoY) (May) | -0.10% | -0.90% | -9.60% |
+| 01:30 | SGD | Low | Non-Oil Exports (MoM) (May) | -0.10% | 1.70% | 7.30% |
 | 02:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 02:30 | SGD | Low | Trade Balance | 4.563B |  | 4.516B |
-| 05:30 | AUD | High | RBA Interest Rate Decision (Jun) |  | 4.35% | 4.35% |
-| 05:30 | AUD | Moderate | RBA Rate Statement |  |  |  |
+| 24 min | AUD | High | RBA Interest Rate Decision (Jun) |  | 4.35% | 4.35% |
+| 24 min | AUD | Moderate | RBA Rate Statement |  |  |  |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.199% |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jun) |  | -65.0 | -72.3 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jun) |  | 49.6 | 47.1 |
@@ -36,8 +36,8 @@
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (May) |  |  | -0.1% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.5% |
 | 14:15 | USD | Low | Capacity Utilization Rate (May) |  | 78.6% | 78.4% |
-| 14:15 | USD | Moderate | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Moderate | Industrial Production (MoM) (May) |  | 0.3% | 0.0% |
+| 14:15 | USD | Moderate | Industrial Production (YoY) (May) |  |  | -0.38% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (May) |  | 0.3% | -0.3% |
 | 14:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 15:00 | USD | Moderate | Business Inventories (MoM) (Apr) |  | 0.3% | -0.1% |
