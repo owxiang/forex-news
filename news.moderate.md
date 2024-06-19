@@ -9,5 +9,5 @@
 | 07:00 | GBP | CPI (MoM) (May) | 0.3% | 0.4% | 0.3% |
 | 07:00 | GBP | PPI Input (MoM) (May) | 0.0% | -0.3% | 0.8% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 25 min | CHF | SNB Monetary Policy Assessment |  |  |  |
+| 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 22:00 | BRL | Interest Rate Decision |  | 10.50% | 10.50% |
