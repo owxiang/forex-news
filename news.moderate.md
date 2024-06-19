@@ -10,5 +10,5 @@
 | 07:00 | GBP | PPI Input (MoM) (May) | 0.0% | -0.3% | 0.8% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
-| 22:00 | BRL | Interest Rate Decision |  | 10.50% | 10.50% |
+| 55 min | BRL | Interest Rate Decision |  | 10.50% | 10.50% |
 | 23:45 | NZD | GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
