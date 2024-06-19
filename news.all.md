@@ -13,12 +13,12 @@
 | 05:00 | IDR | Low | Export Growth (YoY) (May) | 2.86% | 0.78% | 1.72% |
 | 05:00 | IDR | Low | Import Growth (YoY) (May) | -8.83% | -8.56% | 10.09% |
 | 05:00 | IDR | Low | Trade Balance (May) | 2.93B | 2.74B | 2.27B |
-| 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.5% |  | 0.9% |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.9% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.2% |  | 0.2% |
+| 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.5% |  | 0.9% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) | 1.0% |  | 0.3% |
-| 07:00 | GBP | Low | Core RPI (YoY) (May) | 1.9% |  | 2.3% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.3% |  | 0.5% |
+| 07:00 | GBP | Low | Core RPI (YoY) (May) | 1.9% |  | 2.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.3% | 0.4% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (May) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 133.90 |  | 133.50 |
@@ -26,14 +26,14 @@
 | 07:00 | GBP | Moderate | PPI Input (MoM) (May) | 0.0% | -0.3% | 0.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
-| 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (May) | 3.0% | 3.1% | 3.3% |
+| 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Current Account (Apr) | 38.6B | 35.2B | 35.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Apr) | 34.4B |  | 44.5B |
-| 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.1% |  | 0.2% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (May) | 4.6% |  | 4.6% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (May) | 0.1% |  | 0.2% |
 | 09:00 | ZAR | Low | CPI (YoY) (May) | 5.2% |  | 5.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) | 0.2% |  | 0.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 1.1% | 2.0% | 1.8% |
@@ -49,8 +49,8 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) | 43 | 45 | 45 |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.038B |  | 1.529B |
-| 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
-| 23:45 | NZD | Moderate | GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
-| 23:45 | NZD | Low | GDP (YoY) (Q1) |  | 0.2% | -0.3% |
-| 23:45 | NZD | Low | GDP Annual Average (Q1) |  |  | 0.6% |
-| 23:45 | NZD | Low | GDP Expenditure (QoQ) (Q1) |  |  | 0.0% |
+| 22:00 | BRL | Moderate | Interest Rate Decision | 10.50% | 10.50% | 10.50% |
+| 39 min | NZD | Moderate | GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
+| 39 min | NZD | Low | GDP (YoY) (Q1) |  | 0.2% | -0.3% |
+| 39 min | NZD | Low | GDP Annual Average (Q1) |  |  | 0.6% |
+| 39 min | NZD | Low | GDP Expenditure (QoQ) (Q1) |  |  | 0.0% |
