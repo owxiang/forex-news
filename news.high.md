@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | GBP | CPI (YoY) (May) |  | 2.0% | 2.3% |
+| 07:00 | GBP | CPI (YoY) (May) | 2.0% | 2.0% | 2.3% |
 | 23:45 | NZD | GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
