@@ -19,15 +19,15 @@
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) | 1.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.3% |  | 0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) | 1.9% |  | 2.3% |
-| 07:00 | GBP | High | CPI (YoY) (May) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.3% | 0.4% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (May) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 133.90 |  | 133.50 |
 | 07:00 | GBP | Low | PPI Input (YoY) (May) | -0.1% |  | -1.4% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (May) | 0.0% | -0.3% | 0.8% |
 | 07:00 | GBP | Low | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
-| 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (May) | 3.0% | 3.1% | 3.3% |
+| 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Current Account (Apr) | 38.6B | 35.2B | 35.8B |

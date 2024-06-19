@@ -19,8 +19,8 @@
 | 07:00 | GBP | PPI Input (YoY) (May) | -0.1% |  | -1.4% |
 | 07:00 | GBP | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
-| 07:00 | GBP | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 07:00 | GBP | RPI (YoY) (May) | 3.0% | 3.1% | 3.3% |
+| 07:00 | GBP | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 09:00 | EUR | Current Account (Apr) | 38.6B | 35.2B | 35.8B |
 | 09:00 | EUR | Current Account n.s.a. (Apr) | 34.4B |  | 44.5B |
 | 09:00 | ZAR | Core CPI (YoY) (May) | 4.6% |  | 4.6% |
