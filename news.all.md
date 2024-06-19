@@ -15,19 +15,19 @@
 | 05:00 | IDR | Low | Trade Balance (May) | 2.93B | 2.74B | 2.27B |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.9% |
 | 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.5% |  | 0.9% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) | 1.0% |  | 0.3% |
+| 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core RPI (MoM) (May) | 0.3% |  | 0.5% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) | 1.9% |  | 2.3% |
-| 07:00 | GBP | High | CPI (YoY) (May) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (May) | 0.3% | 0.4% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (May) | 2.0% | 2.0% | 2.3% |
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 133.90 |  | 133.50 |
 | 07:00 | GBP | Low | PPI Input (YoY) (May) | -0.1% |  | -1.4% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (May) | 0.0% | -0.3% | 0.8% |
-| 07:00 | GBP | Low | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
-| 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
+| 07:00 | GBP | Low | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | Low | RPI (YoY) (May) | 3.0% | 3.1% | 3.3% |
+| 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Current Account (Apr) | 38.6B | 35.2B | 35.8B |
@@ -40,13 +40,12 @@
 | 10:00 | EUR | Low | Construction Output (MoM) (Apr) | -0.19% |  | -0.48% |
 | 10:50 | EUR | Low | German 30-Year Bund Auction | 2.540% |  | 2.620% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 15.6% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 143.7 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 208.5 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 554.7 |
-| 54 min | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 54 min | ZAR | Low | Retail Sales (YoY) (Apr) |  |  | 2.3% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.94% |  | 7.02% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.9% |  | 15.6% |
+| 12:00 | USD | Low | MBA Purchase Index | 146.0 |  | 143.7 |
+| 12:00 | USD | Low | Mortgage Market Index | 210.4 |  | 208.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 552.7 |  | 554.7 |
+| 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) | 0.6% |  | 2.3% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) |  | 45 | 45 |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
