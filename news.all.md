@@ -11,29 +11,29 @@
 | 02:30 | AUD | Low | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (May) | 57.80% |  | 58.50% |
 | 05:00 | IDR | Low | Export Growth (YoY) (May) | 2.86% | 0.78% | 1.72% |
-| 05:00 | IDR | Low | Import Growth (YoY) (May) |  | -8.56% | 4.62% |
-| 05:00 | IDR | Low | Trade Balance (May) | 3.56B | 2.74B | 3.56B |
-| 07:00 | GBP | Low | Core CPI (YoY) (May) |  | 3.5% | 3.9% |
-| 07:00 | GBP | Low | Core CPI (MoM) (May) |  |  | 0.9% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (May) |  |  | 0.2% |
-| 07:00 | GBP | Low | Core PPI Output (MoM) (May) |  |  | 0.0% |
-| 07:00 | GBP | Low | Core RPI (MoM) (May) |  |  | 0.5% |
-| 07:00 | GBP | Low | Core RPI (YoY) (May) |  |  | 2.3% |
-| 07:00 | GBP | Moderate | CPI (MoM) (May) |  | 0.4% | 0.3% |
-| 07:00 | GBP | High | CPI (YoY) (May) |  | 2.0% | 2.3% |
-| 07:00 | GBP | Low | CPI, n.s.a (May) |  |  | 133.50 |
-| 07:00 | GBP | Low | PPI Input (YoY) (May) |  |  | -1.6% |
-| 07:00 | GBP | Moderate | PPI Input (MoM) (May) |  | -0.2% | 0.6% |
-| 07:00 | GBP | Low | PPI Output (YoY) (May) |  |  | 1.1% |
-| 07:00 | GBP | Low | PPI Output (MoM) (May) |  | 0.1% | 0.2% |
-| 07:00 | GBP | Low | RPI (YoY) (May) |  | 3.1% | 3.3% |
-| 07:00 | GBP | Low | RPI (MoM) (May) |  | 0.5% | 0.5% |
+| 05:00 | IDR | Low | Import Growth (YoY) (May) | -8.83% | -8.56% | 4.62% |
+| 05:00 | IDR | Low | Trade Balance (May) | 2.93B | 2.74B | 3.56B |
+| 54 min | GBP | Low | Core CPI (YoY) (May) |  | 3.5% | 3.9% |
+| 54 min | GBP | Low | Core CPI (MoM) (May) |  |  | 0.9% |
+| 54 min | GBP | Low | Core PPI Output (YoY) (May) |  |  | 0.2% |
+| 54 min | GBP | Low | Core PPI Output (MoM) (May) |  |  | 0.0% |
+| 54 min | GBP | Low | Core RPI (YoY) (May) |  |  | 2.3% |
+| 54 min | GBP | Low | Core RPI (MoM) (May) |  |  | 0.5% |
+| 54 min | GBP | Moderate | CPI (MoM) (May) |  | 0.4% | 0.3% |
+| 54 min | GBP | High | CPI (YoY) (May) |  | 2.0% | 2.3% |
+| 54 min | GBP | Low | CPI, n.s.a (May) |  |  | 133.50 |
+| 54 min | GBP | Low | PPI Input (YoY) (May) |  |  | -1.6% |
+| 54 min | GBP | Moderate | PPI Input (MoM) (May) |  | -0.3% | 0.6% |
+| 54 min | GBP | Low | PPI Output (YoY) (May) |  |  | 1.1% |
+| 54 min | GBP | Low | PPI Output (MoM) (May) |  | 0.1% | 0.2% |
+| 54 min | GBP | Low | RPI (MoM) (May) |  | 0.5% | 0.5% |
+| 54 min | GBP | Low | RPI (YoY) (May) |  | 3.1% | 3.3% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
 | 09:00 | EUR | Low | Current Account (Apr) |  | 35.2B | 35.8B |
 | 09:00 | EUR | Low | Current Account n.s.a. (Apr) |  |  | 44.5B |
-| 09:00 | ZAR | Low | Core CPI (YoY) (May) |  |  | 4.6% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (May) |  |  | 0.2% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (May) |  |  | 4.6% |
 | 09:00 | ZAR | Low | CPI (YoY) (May) |  |  | 5.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (May) |  |  | 0.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.0% | 1.8% |
@@ -49,11 +49,9 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 554.7 |
 | 12:00 | ZAR | Low | Retail Sales (YoY) (Apr) |  |  | 2.3% |
 | 15:00 | USD | Low | NAHB Housing Market Index (Jun) |  | 45 | 45 |
-| 15:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | 1.7% |
-| 15:00 | USD | Low | Milk Auctions |  |  | 3,824.0 |
 | 18:30 | CAD | Low | BOC Summary of Deliberations |  |  |  |
 | 22:00 | BRL | Moderate | Interest Rate Decision |  | 10.50% | 10.50% |
-| 23:45 | NZD | High | GDP (QoQ) (Q1) |  | 0.0% | -0.1% |
+| 23:45 | NZD | High | GDP (QoQ) (Q1) |  | 0.1% | -0.1% |
 | 23:45 | NZD | Low | GDP (YoY) (Q1) |  | 0.2% | -0.3% |
 | 23:45 | NZD | Low | GDP Annual Average (Q1) |  |  | 0.6% |
 | 23:45 | NZD | Low | GDP Expenditure (QoQ) (Q1) |  |  | 0.0% |
