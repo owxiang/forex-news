@@ -1,45 +1,50 @@
-## 19 June 2024 - Low Impact Forex News
+## 20 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | JPY | Reuters Tankan Index (Jun) | 6 |  | 9 |
-| 00:50 | JPY | Imports (YoY) (May) | 9.5% | 13.0% | 8.3% |
-| 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | NZD | RBNZ Offshore Holdings (May) | 57.80% |  | 58.50% |
-| 05:00 | IDR | Export Growth (YoY) (May) | 2.86% | 0.78% | 1.72% |
-| 05:00 | IDR | Import Growth (YoY) (May) | -8.83% | -8.56% | 10.09% |
-| 05:00 | IDR | Trade Balance (May) | 2.93B | 2.74B | 2.27B |
-| 07:00 | GBP | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.9% |
-| 07:00 | GBP | Core CPI (MoM) (May) | 0.5% |  | 0.9% |
-| 07:00 | GBP | Core PPI Output (YoY) (May) | 1.0% |  | 0.3% |
-| 07:00 | GBP | Core PPI Output (MoM) (May) | 0.2% |  | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (May) | 0.3% |  | 0.5% |
-| 07:00 | GBP | Core RPI (YoY) (May) | 1.9% |  | 2.3% |
-| 07:00 | GBP | CPI, n.s.a (May) | 133.90 |  | 133.50 |
-| 07:00 | GBP | PPI Input (YoY) (May) | -0.1% |  | -1.4% |
-| 07:00 | GBP | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
-| 07:00 | GBP | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
-| 07:00 | GBP | RPI (YoY) (May) | 3.0% | 3.1% | 3.3% |
-| 07:00 | GBP | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
-| 09:00 | EUR | Current Account (Apr) | 38.6B | 35.2B | 35.8B |
-| 09:00 | EUR | Current Account n.s.a. (Apr) | 34.4B |  | 44.5B |
-| 09:00 | ZAR | Core CPI (YoY) (May) | 4.6% |  | 4.6% |
-| 09:00 | ZAR | Core CPI (MoM) (May) | 0.1% |  | 0.2% |
-| 09:00 | ZAR | CPI (YoY) (May) | 5.2% |  | 5.2% |
-| 09:00 | ZAR | CPI (MoM) (May) | 0.2% |  | 0.3% |
-| 09:30 | GBP | House Price Index (YoY) | 1.1% | 2.0% | 1.8% |
-| 10:00 | EUR | Construction Output (MoM) (Apr) | -0.19% |  | -0.48% |
-| 10:50 | EUR | German 30-Year Bund Auction | 2.540% |  | 2.620% |
+| 45 min | JPY | Foreign Bonds Buying |  |  | -2,647.6B |
+| 45 min | JPY | Foreign Investments in Japanese Stocks |  |  | -346.6B |
+| 02:30 | AUD | Reserve Assets Total (May) |  |  | 93.1B |
+| 03:30 | SGD | Unemployment Rate |  | 2.1% | 2.0% |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.572% |
+| 07:00 | GBP | Car Registration (MoM) (May) |  |  | -57.7% |
+| 07:00 | GBP | Car Registration (YoY) (May) |  |  | 1.0% |
+| 07:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.5% |
+| 07:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 7.7% |
+| 07:00 | CHF | Trade Balance (May) |  | 3.840B | 4.316B |
+| 07:00 | EUR | German Car Registration (MoM) (May) |  |  | -7.9% |
+| 07:00 | EUR | German Car Registration (YoY) (May) |  |  | 19.8% |
+| 07:00 | EUR | German PPI (YoY) (May) |  | -2.0% | -3.3% |
+| 07:00 | EUR | French Car Registration (MoM) (May) |  |  | -18.4% |
+| 07:00 | EUR | French Car Registration (YoY) (May) |  |  | 10.9% |
+| 08:20 | IDR | Loans (YoY) (May) |  |  | 13.09% |
+| 08:30 | IDR | Deposit Facility Rate |  | 5.50% | 5.50% |
+| 09:30 | HKD | Unemployment Rate (May) |  |  | 3.0% |
+| 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.92% |
+| 10:00 | EUR | French 8-Year OAT Auction |  |  | 0.39% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.94% |  | 7.02% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.9% |  | 15.6% |
-| 12:00 | USD | MBA Purchase Index | 146.0 |  | 143.7 |
-| 12:00 | USD | Mortgage Market Index | 210.4 |  | 208.5 |
-| 12:00 | USD | Mortgage Refinance Index | 552.7 |  | 554.7 |
-| 12:00 | ZAR | Retail Sales (YoY) (Apr) | 0.6% |  | 2.3% |
-| 15:00 | USD | NAHB Housing Market Index (Jun) | 43 | 45 | 45 |
-| 18:30 | CAD | BOC Summary of Deliberations |  |  |  |
-| 18:30 | BRL | Foreign Exchange Flows | 1.038B |  | 1.529B |
-| 39 min | NZD | GDP (YoY) (Q1) |  | 0.2% | -0.3% |
-| 39 min | NZD | GDP Annual Average (Q1) |  |  | 0.6% |
-| 39 min | NZD | GDP Expenditure (QoQ) (Q1) |  |  | 0.0% |
+| 11:00 | CNY | FDI (May) |  |  | -27.90% |
+| 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
+| 13:00 | MXN | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
+| 13:30 | USD | Building Permits (MoM) (May) |  |  | -3.0% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
+| 13:30 | USD | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
+| 13:30 | USD | Philly Fed New Orders (Jun) |  |  | -7.9 |
+| 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
+| 15:00 | EUR | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
+| 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.097M |
+| 16:00 | USD | Crude Oil Imports |  |  | 2.559M |
+| 16:00 | USD | Distillate Fuel Production |  |  | -0.029M |
+| 16:00 | USD | EIA Weekly Distillates Stocks |  | -0.500M | 0.881M |
+| 16:00 | USD | Gasoline Production |  |  | 0.602M |
+| 16:00 | USD | Heating Oil Stockpiles |  |  | -0.656M |
+| 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -0.4% |
+| 16:00 | USD | Gasoline Inventories |  | 1.500M | 2.566M |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.260% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.265% |
+| 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | 0.3% |
+| 22:00 | KRW | PPI (YoY) (May) |  |  | 1.8% |
