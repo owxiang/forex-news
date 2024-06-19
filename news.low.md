@@ -6,13 +6,13 @@
 | 00:50 | JPY | Imports (YoY) (May) | 9.5% | 13.0% | 8.3% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
 | 04:00 | NZD | RBNZ Offshore Holdings (May) | 57.80% |  | 58.50% |
-| 54 min | IDR | Export Growth (YoY) (May) |  | 0.78% | 1.72% |
-| 54 min | IDR | Import Growth (YoY) (May) |  | -8.56% | 4.62% |
-| 54 min | IDR | Trade Balance (May) |  | 2.74B | 3.56B |
+| 05:00 | IDR | Export Growth (YoY) (May) | 2.86% | 0.78% | 1.72% |
+| 05:00 | IDR | Import Growth (YoY) (May) |  | -8.56% | 4.62% |
+| 05:00 | IDR | Trade Balance (May) | 3.56B | 2.74B | 3.56B |
 | 07:00 | GBP | Core CPI (YoY) (May) |  | 3.5% | 3.9% |
 | 07:00 | GBP | Core CPI (MoM) (May) |  |  | 0.9% |
-| 07:00 | GBP | Core PPI Output (MoM) (May) |  |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (May) |  |  | 0.2% |
+| 07:00 | GBP | Core PPI Output (MoM) (May) |  |  | 0.0% |
 | 07:00 | GBP | Core RPI (MoM) (May) |  |  | 0.5% |
 | 07:00 | GBP | Core RPI (YoY) (May) |  |  | 2.3% |
 | 07:00 | GBP | CPI, n.s.a (May) |  |  | 133.50 |
