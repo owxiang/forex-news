@@ -13,8 +13,8 @@
 | 05:00 | IDR | Low | Export Growth (YoY) (May) | 2.86% | 0.78% | 1.72% |
 | 05:00 | IDR | Low | Import Growth (YoY) (May) | -8.83% | -8.56% | 4.62% |
 | 05:00 | IDR | Low | Trade Balance (May) | 2.93B | 2.74B | 3.56B |
-| 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.5% |  | 0.9% |
 | 07:00 | GBP | Low | Core CPI (YoY) (May) | 3.5% | 3.5% | 3.9% |
+| 07:00 | GBP | Low | Core CPI (MoM) (May) | 0.5% |  | 0.9% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (May) | 0.2% |  | 0.2% |
 | 07:00 | GBP | Low | Core PPI Output (YoY) (May) | 1.0% |  | 0.3% |
 | 07:00 | GBP | Low | Core RPI (YoY) (May) | 1.9% |  | 2.3% |
@@ -24,23 +24,23 @@
 | 07:00 | GBP | Low | CPI, n.s.a (May) | 133.90 |  | 133.50 |
 | 07:00 | GBP | Low | PPI Input (YoY) (May) | -0.1% |  | -1.4% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (May) | 0.0% | -0.3% | 0.8% |
-| 07:00 | GBP | Low | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
 | 07:00 | GBP | Low | PPI Output (MoM) (May) | -0.1% | 0.1% | 0.3% |
+| 07:00 | GBP | Low | PPI Output (YoY) (May) | 1.7% |  | 1.1% |
 | 07:00 | GBP | Low | RPI (MoM) (May) | 0.4% | 0.5% | 0.5% |
 | 07:00 | GBP | Low | RPI (YoY) (May) | 3.0% | 3.1% | 3.3% |
-| 53 min | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 09:00 | EUR | Low | Current Account (Apr) |  | 35.2B | 35.8B |
-| 09:00 | EUR | Low | Current Account n.s.a. (Apr) |  |  | 44.5B |
-| 09:00 | ZAR | Low | Core CPI (MoM) (May) |  |  | 0.2% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (May) |  |  | 4.6% |
-| 09:00 | ZAR | Low | CPI (YoY) (May) |  |  | 5.2% |
-| 09:00 | ZAR | Low | CPI (MoM) (May) |  |  | 0.3% |
+| 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
+| 25 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 55 min | EUR | Low | Current Account (Apr) |  | 35.2B | 35.8B |
+| 55 min | EUR | Low | Current Account n.s.a. (Apr) |  |  | 44.5B |
+| 55 min | ZAR | Low | Core CPI (MoM) (May) |  |  | 0.2% |
+| 55 min | ZAR | Low | Core CPI (YoY) (May) |  |  | 4.6% |
+| 55 min | ZAR | Low | CPI (YoY) (May) |  |  | 5.2% |
+| 54 min | ZAR | Low | CPI (MoM) (May) |  |  | 0.3% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 2.0% | 1.8% |
 | 10:00 | EUR | Low | Construction Output (MoM) (Apr) |  |  | 0.10% |
 | 10:30 | EUR | Low | German 30-Year Bund Auction |  |  | 2.620% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | Low | Spanish Consumer Confidence |  |  | 84.5 |
+| 11:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 11:00 | CNY | Low | FDI (May) |  |  | -27.90% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.02% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 15.6% |
