@@ -5,26 +5,26 @@
 | 00:00 | JPY | Reuters Tankan Index (Jun) | 6 |  | 9 |
 | 00:50 | JPY | Imports (YoY) (May) | 9.5% | 13.0% | 8.3% |
 | 02:30 | AUD | RBA Chart Pack Release |  |  |  |
-| 04:00 | NZD | RBNZ Offshore Holdings (May) |  |  | 58.50% |
+| 42 min | NZD | RBNZ Offshore Holdings (May) |  |  | 58.50% |
 | 05:00 | IDR | Export Growth (YoY) (May) |  | 0.78% | 1.72% |
 | 05:00 | IDR | Import Growth (YoY) (May) |  | -8.56% | 4.62% |
 | 05:00 | IDR | Trade Balance (May) |  | 2.74B | 3.56B |
-| 07:00 | GBP | Core CPI (YoY) (May) |  | 3.5% | 3.9% |
 | 07:00 | GBP | Core CPI (MoM) (May) |  |  | 0.9% |
+| 07:00 | GBP | Core CPI (YoY) (May) |  | 3.5% | 3.9% |
 | 07:00 | GBP | Core PPI Output (MoM) (May) |  |  | 0.0% |
 | 07:00 | GBP | Core PPI Output (YoY) (May) |  |  | 0.2% |
-| 07:00 | GBP | Core RPI (MoM) (May) |  |  | 0.5% |
 | 07:00 | GBP | Core RPI (YoY) (May) |  |  | 2.3% |
+| 07:00 | GBP | Core RPI (MoM) (May) |  |  | 0.5% |
 | 07:00 | GBP | CPI, n.s.a (May) |  |  | 133.50 |
 | 07:00 | GBP | PPI Input (YoY) (May) |  |  | -1.6% |
-| 07:00 | GBP | PPI Output (YoY) (May) |  |  | 1.1% |
 | 07:00 | GBP | PPI Output (MoM) (May) |  | 0.1% | 0.2% |
-| 07:00 | GBP | RPI (YoY) (May) |  | 3.1% | 3.3% |
+| 07:00 | GBP | PPI Output (YoY) (May) |  |  | 1.1% |
 | 07:00 | GBP | RPI (MoM) (May) |  | 0.5% | 0.5% |
+| 07:00 | GBP | RPI (YoY) (May) |  | 3.1% | 3.3% |
 | 09:00 | EUR | Current Account (Apr) |  | 35.2B | 35.8B |
 | 09:00 | EUR | Current Account n.s.a. (Apr) |  |  | 44.5B |
-| 09:00 | ZAR | Core CPI (YoY) (May) |  |  | 4.6% |
 | 09:00 | ZAR | Core CPI (MoM) (May) |  |  | 0.2% |
+| 09:00 | ZAR | Core CPI (YoY) (May) |  |  | 4.6% |
 | 09:00 | ZAR | CPI (YoY) (May) |  |  | 5.2% |
 | 09:00 | ZAR | CPI (MoM) (May) |  |  | 0.3% |
 | 09:30 | GBP | House Price Index (YoY) |  | 2.0% | 1.8% |
