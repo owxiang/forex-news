@@ -23,7 +23,7 @@
 | 13:30 | USD | Housing Starts (May) | 1.277M | 1.370M | 1.352M |
 | 13:30 | USD | Philly Fed Employment (Jun) | -2.5 |  | -7.9 |
 | 13:30 | CAD | New Housing Price Index (MoM) (May) | 0.2% | 0.2% | 0.2% |
-| 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
-| 16:00 | USD | Cushing Crude Oil Inventories |  |  | -1.593M |
+| 25 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
+| 55 min | USD | Cushing Crude Oil Inventories |  |  | -1.593M |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 2.242% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,259B |
