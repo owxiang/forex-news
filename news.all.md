@@ -9,17 +9,17 @@
 | 02:30 | AUD | Low | Reserve Assets Total (May) | 93.0B |  | 93.1B |
 | 03:30 | SGD | Low | Unemployment Rate | 2.1% | 2.1% | 2.0% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.512% |  | 0.572% |
-| 07:00 | GBP | Low | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
+| 07:00 | GBP | Low | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
 | 07:00 | CHF | Low | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) | -2.2% | -2.0% | -3.3% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | 0.0% | 0.1% | 0.2% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
 | 08:20 | IDR | Low | Loans (YoY) (May) | 12.15% |  | 13.09% |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q2) | 1.25% | 1.50% | 1.50% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -41,14 +41,14 @@
 | 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | 3.2% | 1.5% | -1.7% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Apr) | 0.5% | -0.3% | -0.2% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | 3.2% | 1.5% | -1.7% |
 | 13:30 | USD | Moderate | Building Permits (May) | 1.386M | 1.450M | 1.440M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) | -3.8% | 0.7% | -3.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,828K | 1,810K | 1,813K |
 | 13:30 | USD | Moderate | Current Account (Q1) | -237.6B | -207.0B | -221.8B |
-| 13:30 | USD | Moderate | Housing Starts (May) | 1.277M | 1.370M | 1.352M |
 | 13:30 | USD | Moderate | Housing Starts (MoM) (May) | -5.5% | 0.7% | 4.1% |
+| 13:30 | USD | Moderate | Housing Starts (May) | 1.277M | 1.370M | 1.352M |
 | 13:30 | USD | High | Initial Jobless Claims | 238K | 235K | 243K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 232.75K |  | 227.25K |
 | 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) | 1.3 | 4.8 | 4.5 |
@@ -73,8 +73,8 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.230% |  | 5.260% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.265% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 2.050% |  | 2.242% |
-| 55 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,259B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
-| 22:00 | KRW | Low | PPI (YoY) (May) |  |  | 1.8% |
-| 22:00 | KRW | Low | PPI (MoM) (May) |  |  | 0.3% |
+| 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,259B |
+| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
+| 54 min | KRW | Low | PPI (MoM) (May) |  |  | 0.3% |
+| 54 min | KRW | Low | PPI (YoY) (May) |  |  | 1.8% |
