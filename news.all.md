@@ -43,22 +43,22 @@
 | 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
 | 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | 3.2% | 1.5% | -1.7% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (Apr) | 0.5% | -0.3% | -0.2% |
-| 21 min | USD | Moderate | Building Permits (May) |  | 1.450M | 1.440M |
-| 21 min | USD | Low | Building Permits (MoM) (May) |  |  | -3.0% |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,820K |
-| 21 min | USD | Moderate | Current Account (Q1) |  | -207.0B | -194.8B |
-| 21 min | USD | Moderate | Housing Starts (MoM) (May) |  |  | 5.7% |
-| 21 min | USD | Moderate | Housing Starts (May) |  | 1.370M | 1.360M |
-| 21 min | USD | High | Initial Jobless Claims |  | 235K | 242K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.00K |
-| 21 min | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | 4.8 | 4.5 |
-| 21 min | USD | Low | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
-| 21 min | USD | Low | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
-| 21 min | USD | Moderate | Philly Fed Employment (Jun) |  |  | -7.9 |
-| 21 min | USD | Low | Philly Fed New Orders (Jun) |  |  | -7.9 |
-| 21 min | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
-| 21 min | CAD | Moderate | New Housing Price Index (MoM) (May) |  | 0.2% | 0.2% |
-| 15:00 | EUR | Low | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
+| 13:30 | USD | Moderate | Building Permits (May) | 1.386M | 1.450M | 1.440M |
+| 13:30 | USD | Low | Building Permits (MoM) (May) | -3.8% | 0.7% | -3.0% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,828K | 1,810K | 1,813K |
+| 13:30 | USD | Moderate | Current Account (Q1) | -237.6B | -207.0B | -221.8B |
+| 13:30 | USD | Moderate | Housing Starts (MoM) (May) | -5.5% | 0.7% | 4.1% |
+| 13:30 | USD | Moderate | Housing Starts (May) | 1.277M | 1.370M | 1.352M |
+| 13:30 | USD | High | Initial Jobless Claims | 238K | 235K | 243K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 232.75K |  | 227.25K |
+| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) | 1.3 | 4.8 | 4.5 |
+| 13:30 | USD | Low | Philly Fed Business Conditions (Jun) | 13.8 |  | 32.4 |
+| 13:30 | USD | Low | Philly Fed CAPEX Index (Jun) | 12.10 |  | 20.10 |
+| 13:30 | USD | Moderate | Philly Fed Employment (Jun) | -2.5 |  | -7.9 |
+| 13:30 | USD | Low | Philly Fed New Orders (Jun) | -2.2 |  | -7.9 |
+| 13:30 | USD | Low | Philly Fed Prices Paid (Jun) | 22.50 |  | 18.70 |
+| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) | 0.2% | 0.2% | 0.2% |
+| 54 min | EUR | Low | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 16:00 | USD | High | Crude Oil Inventories |  | -2.800M | 3.730M |
 | 16:00 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.097M |

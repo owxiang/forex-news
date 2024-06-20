@@ -16,13 +16,13 @@
 | 12:00 | GBP | BoE MPC vote unchanged (Jun) | 7 | 7 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
 | 13:00 | GBP | BOE Inflation Letter |  |  |  |
-| 21 min | USD | Building Permits (May) |  | 1.450M | 1.440M |
-| 21 min | USD | Continuing Jobless Claims |  | 1,810K | 1,820K |
-| 21 min | USD | Current Account (Q1) |  | -207.0B | -194.8B |
-| 21 min | USD | Housing Starts (MoM) (May) |  |  | 5.7% |
-| 21 min | USD | Housing Starts (May) |  | 1.370M | 1.360M |
-| 21 min | USD | Philly Fed Employment (Jun) |  |  | -7.9 |
-| 21 min | CAD | New Housing Price Index (MoM) (May) |  | 0.2% | 0.2% |
+| 13:30 | USD | Building Permits (May) | 1.386M | 1.450M | 1.440M |
+| 13:30 | USD | Continuing Jobless Claims | 1,828K | 1,810K | 1,813K |
+| 13:30 | USD | Current Account (Q1) | -237.6B | -207.0B | -221.8B |
+| 13:30 | USD | Housing Starts (MoM) (May) | -5.5% | 0.7% | 4.1% |
+| 13:30 | USD | Housing Starts (May) | 1.277M | 1.370M | 1.352M |
+| 13:30 | USD | Philly Fed Employment (Jun) | -2.5 |  | -7.9 |
+| 13:30 | CAD | New Housing Price Index (MoM) (May) | 0.2% | 0.2% | 0.2% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 16:00 | USD | Cushing Crude Oil Inventories |  |  | -1.593M |
 | 18:00 | USD | 5-Year TIPS Auction |  |  | 2.242% |

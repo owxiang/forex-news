@@ -27,13 +27,13 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) | 3.2% | 1.5% | -1.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Apr) | 0.5% | -0.3% | -0.2% |
-| 21 min | USD | Building Permits (MoM) (May) |  |  | -3.0% |
-| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
-| 21 min | USD | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
-| 21 min | USD | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
-| 21 min | USD | Philly Fed New Orders (Jun) |  |  | -7.9 |
-| 21 min | USD | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
-| 15:00 | EUR | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
+| 13:30 | USD | Building Permits (MoM) (May) | -3.8% | 0.7% | -3.0% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 232.75K |  | 227.25K |
+| 13:30 | USD | Philly Fed Business Conditions (Jun) | 13.8 |  | 32.4 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jun) | 12.10 |  | 20.10 |
+| 13:30 | USD | Philly Fed New Orders (Jun) | -2.2 |  | -7.9 |
+| 13:30 | USD | Philly Fed Prices Paid (Jun) | 22.50 |  | 18.70 |
+| 54 min | EUR | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.097M |
 | 16:00 | USD | Crude Oil Imports |  |  | 2.559M |
 | 16:00 | USD | Distillate Fuel Production |  |  | -0.029M |
