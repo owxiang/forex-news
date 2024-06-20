@@ -6,20 +6,20 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 80.0B |  | -346.2B |
 | 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (Jun) | 3.95% | 3.95% | 3.95% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 02:30 | AUD | Low | Reserve Assets Total (May) |  |  | 93.1B |
-| 59 min | SGD | Low | Unemployment Rate |  | 2.1% | 2.0% |
+| 02:30 | AUD | Low | Reserve Assets Total (May) | 93,038.0B |  | 93.1B |
+| 13 min | SGD | Low | Unemployment Rate |  | 2.1% | 2.0% |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.572% |
 | 07:00 | GBP | Low | Car Registration (YoY) (May) |  |  | 1.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (May) |  |  | -57.7% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -16.5% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (May) |  |  | 7.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (May) |  |  | -16.5% |
 | 07:00 | CHF | Low | Trade Balance (May) |  | 3.840B | 4.316B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (May) |  |  | -7.9% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (May) |  |  | 19.8% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) |  | -2.0% | -3.3% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) |  | 0.1% | 0.2% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -18.4% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (May) |  |  | 10.9% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (May) |  |  | -18.4% |
 | 08:20 | IDR | Low | Loans (YoY) (May) |  |  | 13.09% |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 1.50% | 1.50% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
