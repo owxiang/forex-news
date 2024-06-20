@@ -9,14 +9,14 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.512% |  | 0.572% |
 | 07:00 | GBP | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
 | 07:00 | GBP | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
-| 07:00 | EUR | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
 | 07:00 | EUR | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
+| 07:00 | EUR | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
 | 07:00 | CHF | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
-| 07:00 | EUR | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
+| 07:00 | EUR | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | German PPI (YoY) (May) | -2.2% | -2.0% | -3.3% |
-| 07:00 | EUR | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
 | 07:00 | EUR | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
+| 07:00 | EUR | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
 | 08:20 | IDR | Loans (YoY) (May) | 12.15% |  | 13.09% |
 | 08:30 | IDR | Deposit Facility Rate (Jun) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Jun) | 7.00% |  | 7.00% |
@@ -25,15 +25,14 @@
 | 10:00 | EUR | French 8-Year OAT Auction | 3.05% |  | 0.39% |
 | 10:00 | EUR | Spanish 10-Year Obligacion Auction | 3.345% |  | 3.251% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 55 min | MXN | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
-| 55 min | MXN | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
-| 13:30 | USD | Building Permits (MoM) (May) |  |  | -3.0% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
-| 13:30 | USD | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
-| 13:30 | USD | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
-| 13:30 | USD | Philly Fed New Orders (Jun) |  |  | -7.9 |
-| 13:30 | USD | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
+| 13:00 | MXN | Retail Sales (YoY) (Apr) | 3.2% | 1.5% | -1.7% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) | 0.5% | -0.3% | -0.2% |
+| 21 min | USD | Building Permits (MoM) (May) |  |  | -3.0% |
+| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
+| 21 min | USD | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
+| 21 min | USD | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
+| 21 min | USD | Philly Fed New Orders (Jun) |  |  | -7.9 |
+| 21 min | USD | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
 | 15:00 | EUR | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
 | 16:00 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.097M |
 | 16:00 | USD | Crude Oil Imports |  |  | 2.559M |

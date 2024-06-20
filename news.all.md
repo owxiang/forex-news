@@ -11,15 +11,15 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.512% |  | 0.572% |
 | 07:00 | GBP | Low | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
 | 07:00 | CHF | Low | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) | -2.2% | -2.0% | -3.3% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | 0.0% | 0.1% | 0.2% |
-| 07:00 | EUR | Low | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
+| 07:00 | EUR | Low | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
 | 08:20 | IDR | Low | Loans (YoY) (May) | 12.15% |  | 13.09% |
 | 08:30 | CHF | High | SNB Interest Rate Decision (Q2) | 1.25% | 1.50% | 1.50% |
 | 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
@@ -40,25 +40,24 @@
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) | 7 | 7 | 7 |
 | 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 55 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 55 min | MXN | Low | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
-| 55 min | MXN | Low | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
-| 13:30 | USD | Moderate | Building Permits (May) |  | 1.450M | 1.440M |
-| 13:30 | USD | Low | Building Permits (MoM) (May) |  |  | -3.0% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,820K |
-| 13:30 | USD | Moderate | Current Account (Q1) |  | -207.0B | -194.8B |
-| 13:30 | USD | Moderate | Housing Starts (MoM) (May) |  |  | 5.7% |
-| 13:30 | USD | Moderate | Housing Starts (May) |  | 1.370M | 1.360M |
-| 13:30 | USD | High | Initial Jobless Claims |  | 235K | 242K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.00K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | 4.8 | 4.5 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Jun) |  |  | -7.9 |
-| 13:30 | USD | Low | Philly Fed New Orders (Jun) |  |  | -7.9 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (May) |  | 0.2% | 0.2% |
+| 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) | 3.2% | 1.5% | -1.7% |
+| 13:00 | MXN | Low | Retail Sales (MoM) (Apr) | 0.5% | -0.3% | -0.2% |
+| 21 min | USD | Moderate | Building Permits (May) |  | 1.450M | 1.440M |
+| 21 min | USD | Low | Building Permits (MoM) (May) |  |  | -3.0% |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,820K |
+| 21 min | USD | Moderate | Current Account (Q1) |  | -207.0B | -194.8B |
+| 21 min | USD | Moderate | Housing Starts (MoM) (May) |  |  | 5.7% |
+| 21 min | USD | Moderate | Housing Starts (May) |  | 1.370M | 1.360M |
+| 21 min | USD | High | Initial Jobless Claims |  | 235K | 242K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 227.00K |
+| 21 min | USD | High | Philadelphia Fed Manufacturing Index (Jun) |  | 4.8 | 4.5 |
+| 21 min | USD | Low | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
+| 21 min | USD | Low | Philly Fed CAPEX Index (Jun) |  |  | 20.10 |
+| 21 min | USD | Moderate | Philly Fed Employment (Jun) |  |  | -7.9 |
+| 21 min | USD | Low | Philly Fed New Orders (Jun) |  |  | -7.9 |
+| 21 min | USD | Low | Philly Fed Prices Paid (Jun) |  |  | 18.70 |
+| 21 min | CAD | Moderate | New Housing Price Index (MoM) (May) |  | 0.2% | 0.2% |
 | 15:00 | EUR | Low | Consumer Confidence (Jun) |  | -14.0 | -14.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
 | 16:00 | USD | High | Crude Oil Inventories |  | -2.800M | 3.730M |
