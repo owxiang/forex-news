@@ -7,16 +7,16 @@
 | 02:30 | AUD | Reserve Assets Total (May) | 93.0B |  | 93.1B |
 | 03:30 | SGD | Unemployment Rate | 2.1% | 2.1% | 2.0% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.512% |  | 0.572% |
-| 07:00 | GBP | Car Registration (YoY) (May) |  |  | 1.0% |
-| 07:00 | GBP | Car Registration (MoM) (May) |  |  | -57.7% |
-| 07:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.5% |
-| 07:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 7.7% |
-| 07:00 | CHF | Trade Balance (May) |  | 3.840B | 4.316B |
-| 07:00 | EUR | German Car Registration (MoM) (May) |  |  | -7.9% |
-| 07:00 | EUR | German Car Registration (YoY) (May) |  |  | 19.8% |
-| 07:00 | EUR | German PPI (YoY) (May) |  | -2.0% | -3.3% |
-| 07:00 | EUR | French Car Registration (MoM) (May) |  |  | -18.4% |
-| 07:00 | EUR | French Car Registration (YoY) (May) |  |  | 10.9% |
+| 54 min | GBP | Car Registration (MoM) (May) |  |  | -57.7% |
+| 54 min | GBP | Car Registration (YoY) (May) |  |  | 1.0% |
+| 54 min | EUR | Italian Car Registration (YoY) (May) |  |  | 7.7% |
+| 54 min | EUR | Italian Car Registration (MoM) (May) |  |  | -16.5% |
+| 54 min | CHF | Trade Balance (May) |  | 3.840B | 4.316B |
+| 54 min | EUR | German Car Registration (YoY) (May) |  |  | 19.8% |
+| 54 min | EUR | German Car Registration (MoM) (May) |  |  | -7.9% |
+| 54 min | EUR | German PPI (YoY) (May) |  | -2.0% | -3.3% |
+| 54 min | EUR | French Car Registration (MoM) (May) |  |  | -18.4% |
+| 54 min | EUR | French Car Registration (YoY) (May) |  |  | 10.9% |
 | 08:20 | IDR | Loans (YoY) (May) |  |  | 13.09% |
 | 08:30 | IDR | Deposit Facility Rate |  | 5.50% | 5.50% |
 | 09:30 | HKD | Unemployment Rate (May) |  |  | 3.0% |
@@ -25,8 +25,8 @@
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | CNY | FDI (May) |  |  | -27.90% |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 13:00 | MXN | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
+| 13:00 | MXN | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
 | 13:30 | USD | Building Permits (MoM) (May) |  |  | -3.0% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 227.00K |
 | 13:30 | USD | Philly Fed Business Conditions (Jun) |  |  | 32.4 |
@@ -46,5 +46,5 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.265% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
-| 22:00 | KRW | PPI (MoM) (May) |  |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (May) |  |  | 1.8% |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | 0.3% |
