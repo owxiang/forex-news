@@ -2,18 +2,18 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | Foreign Bonds Buying |  |  | -2,647.6B |
-| 45 min | JPY | Foreign Investments in Japanese Stocks |  |  | -346.6B |
+| 00:50 | JPY | Foreign Bonds Buying | 653.6B |  | -2,648.6B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 80.0B |  | -346.2B |
 | 02:30 | AUD | Reserve Assets Total (May) |  |  | 93.1B |
 | 03:30 | SGD | Unemployment Rate |  | 2.1% | 2.0% |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.572% |
 | 07:00 | GBP | Car Registration (MoM) (May) |  |  | -57.7% |
 | 07:00 | GBP | Car Registration (YoY) (May) |  |  | 1.0% |
-| 07:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.5% |
 | 07:00 | EUR | Italian Car Registration (YoY) (May) |  |  | 7.7% |
+| 07:00 | EUR | Italian Car Registration (MoM) (May) |  |  | -16.5% |
 | 07:00 | CHF | Trade Balance (May) |  | 3.840B | 4.316B |
-| 07:00 | EUR | German Car Registration (MoM) (May) |  |  | -7.9% |
 | 07:00 | EUR | German Car Registration (YoY) (May) |  |  | 19.8% |
+| 07:00 | EUR | German Car Registration (MoM) (May) |  |  | -7.9% |
 | 07:00 | EUR | German PPI (YoY) (May) |  | -2.0% | -3.3% |
 | 07:00 | EUR | French Car Registration (MoM) (May) |  |  | -18.4% |
 | 07:00 | EUR | French Car Registration (YoY) (May) |  |  | 10.9% |
@@ -46,5 +46,5 @@
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.265% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
-| 22:00 | KRW | PPI (MoM) (May) |  |  | 0.3% |
 | 22:00 | KRW | PPI (YoY) (May) |  |  | 1.8% |
+| 22:00 | KRW | PPI (MoM) (May) |  |  | 0.3% |
