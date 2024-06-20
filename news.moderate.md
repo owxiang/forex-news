@@ -9,8 +9,8 @@
 | 08:30 | IDR | Interest Rate Decision | 6.25% | 6.25% | 6.25% |
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
-| 23 min | CHF | SNB Press Conference |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | CHF | SNB Press Conference |  |  |  |
+| 53 min | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | BoE MPC vote cut (Jun) |  | 2 | 2 |
 | 12:00 | GBP | BoE MPC vote hike (Jun) |  | 0 | 0 |
 | 12:00 | GBP | BoE MPC vote unchanged (Jun) |  | 7 | 7 |

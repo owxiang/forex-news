@@ -28,13 +28,13 @@
 | 08:30 | IDR | Low | Lending Facility Rate (Jun) | 7.00% |  | 7.00% |
 | 09:00 | NOK | Moderate | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
-| 23 min | CHF | Moderate | SNB Press Conference |  |  |  |
-| 23 min | HKD | Low | Unemployment Rate (May) |  |  | 3.0% |
-| 53 min | EUR | Low | French 6-Year OAT Auction |  |  | 2.92% |
-| 53 min | EUR | Low | French 8-Year OAT Auction |  |  | 0.39% |
-| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | Low | FDI (May) |  |  | -27.90% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:30 | CHF | Moderate | SNB Press Conference |  |  |  |
+| 09:30 | HKD | Low | Unemployment Rate (May) | 3.0% |  | 3.0% |
+| 10:00 | EUR | Low | French 6-Year OAT Auction | 3.01% |  | 2.92% |
+| 10:00 | EUR | Low | French 8-Year OAT Auction | 3.05% |  | 0.39% |
+| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
+| 53 min | CNY | Low | FDI (May) |  |  | -27.90% |
+| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) |  | 2 | 2 |
 | 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) |  | 0 | 0 |
 | 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) |  | 7 | 7 |

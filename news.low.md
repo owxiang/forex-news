@@ -20,11 +20,11 @@
 | 08:20 | IDR | Loans (YoY) (May) | 12.15% |  | 13.09% |
 | 08:30 | IDR | Deposit Facility Rate (Jun) | 5.50% | 5.50% | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Jun) | 7.00% |  | 7.00% |
-| 23 min | HKD | Unemployment Rate (May) |  |  | 3.0% |
-| 53 min | EUR | French 6-Year OAT Auction |  |  | 2.92% |
-| 53 min | EUR | French 8-Year OAT Auction |  |  | 0.39% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | FDI (May) |  |  | -27.90% |
+| 09:30 | HKD | Unemployment Rate (May) | 3.0% |  | 3.0% |
+| 10:00 | EUR | French 6-Year OAT Auction | 3.01% |  | 2.92% |
+| 10:00 | EUR | French 8-Year OAT Auction | 3.05% |  | 0.39% |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | CNY | FDI (May) |  |  | -27.90% |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 13:00 | MXN | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
 | 13:00 | MXN | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
