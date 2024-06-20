@@ -26,4 +26,4 @@
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) | 3.0% | 3.1% | 3.1% |
 | 16:00 | USD | Cushing Crude Oil Inventories | 0.307M |  | -1.593M |
 | 18:00 | USD | 5-Year TIPS Auction | 2.050% |  | 2.242% |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,259B |
+| 21:30 | USD | Fed's Balance Sheet | 7,253B |  | 7,259B |

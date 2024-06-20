@@ -45,6 +45,6 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.230% |  | 5.260% |
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.265% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
-| 54 min | KRW | PPI (MoM) (May) |  |  | 0.3% |
-| 54 min | KRW | PPI (YoY) (May) |  |  | 1.8% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.366T |  | 3.434T |
+| 22:00 | KRW | PPI (MoM) (May) | 0.1% |  | 0.3% |
+| 22:00 | KRW | PPI (YoY) (May) | 2.3% |  | 1.9% |

@@ -74,7 +74,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.265% |
 | 18:00 | USD | Moderate | 5-Year TIPS Auction | 2.050% |  | 2.242% |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,259B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
-| 54 min | KRW | Low | PPI (MoM) (May) |  |  | 0.3% |
-| 54 min | KRW | Low | PPI (YoY) (May) |  |  | 1.8% |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,253B |  | 7,259B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.366T |  | 3.434T |
+| 22:00 | KRW | Low | PPI (MoM) (May) | 0.1% |  | 0.3% |
+| 22:00 | KRW | Low | PPI (YoY) (May) | 2.3% |  | 1.9% |
