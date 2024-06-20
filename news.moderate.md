@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:15 | CNY | China Loan Prime Rate 5Y (Jun) | 3.95% | 3.95% | 3.95% |
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.45% | 3.45% | 3.45% |
-| 54 min | EUR | German PPI (MoM) (May) |  | 0.1% | 0.2% |
+| 07:00 | EUR | German PPI (MoM) (May) | 0.0% | 0.1% | 0.2% |
 | 08:30 | CHF | SNB Monetary Policy Assessment |  |  |  |
 | 08:30 | IDR | Interest Rate Decision |  | 6.25% | 6.25% |
 | 09:00 | NOK | Interest Rate Decision |  | 4.50% | 4.50% |

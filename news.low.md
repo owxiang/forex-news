@@ -7,16 +7,16 @@
 | 02:30 | AUD | Reserve Assets Total (May) | 93.0B |  | 93.1B |
 | 03:30 | SGD | Unemployment Rate | 2.1% | 2.1% | 2.0% |
 | 04:35 | JPY | 5-Year JGB Auction | 0.512% |  | 0.572% |
-| 54 min | GBP | Car Registration (MoM) (May) |  |  | -57.7% |
-| 54 min | GBP | Car Registration (YoY) (May) |  |  | 1.0% |
-| 54 min | EUR | Italian Car Registration (YoY) (May) |  |  | 7.7% |
-| 54 min | EUR | Italian Car Registration (MoM) (May) |  |  | -16.5% |
-| 54 min | CHF | Trade Balance (May) |  | 3.840B | 4.316B |
-| 54 min | EUR | German Car Registration (YoY) (May) |  |  | 19.8% |
-| 54 min | EUR | German Car Registration (MoM) (May) |  |  | -7.9% |
-| 54 min | EUR | German PPI (YoY) (May) |  | -2.0% | -3.3% |
-| 54 min | EUR | French Car Registration (MoM) (May) |  |  | -18.4% |
-| 54 min | EUR | French Car Registration (YoY) (May) |  |  | 10.9% |
+| 07:00 | GBP | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
+| 07:00 | GBP | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
+| 07:00 | EUR | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
+| 07:00 | EUR | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
+| 07:00 | CHF | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
+| 07:00 | EUR | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
+| 07:00 | EUR | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
+| 07:00 | EUR | German PPI (YoY) (May) | -2.2% | -2.0% | -3.3% |
+| 07:00 | EUR | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
+| 07:00 | EUR | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
 | 08:20 | IDR | Loans (YoY) (May) |  |  | 13.09% |
 | 08:30 | IDR | Deposit Facility Rate |  | 5.50% | 5.50% |
 | 09:30 | HKD | Unemployment Rate (May) |  |  | 3.0% |
