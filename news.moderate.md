@@ -19,8 +19,8 @@
 | 13:30 | USD | Building Permits (May) |  | 1.450M | 1.440M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,820K |
 | 13:30 | USD | Current Account (Q1) |  | -207.0B | -194.8B |
-| 13:30 | USD | Housing Starts (MoM) (May) |  |  | 5.7% |
 | 13:30 | USD | Housing Starts (May) |  | 1.370M | 1.360M |
+| 13:30 | USD | Housing Starts (MoM) (May) |  |  | 5.7% |
 | 13:30 | USD | Philly Fed Employment (Jun) |  |  | -7.9 |
 | 13:30 | CAD | New Housing Price Index (MoM) (May) |  | 0.2% | 0.2% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) |  | 3.1% | 3.1% |
