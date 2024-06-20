@@ -25,5 +25,5 @@
 | 13:30 | CAD | New Housing Price Index (MoM) (May) | 0.2% | 0.2% | 0.2% |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) | 3.0% | 3.1% | 3.1% |
 | 16:00 | USD | Cushing Crude Oil Inventories | 0.307M |  | -1.593M |
-| 18:00 | USD | 5-Year TIPS Auction |  |  | 2.242% |
+| 53 min | USD | 5-Year TIPS Auction |  |  | 2.242% |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,259B |

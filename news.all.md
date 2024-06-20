@@ -70,9 +70,9 @@
 | 16:00 | USD | Low | Heating Oil Stockpiles | 0.526M |  | -0.656M |
 | 16:00 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -0.4% |
 | 16:00 | USD | Low | Gasoline Inventories | -2.280M | 1.500M | 2.566M |
-| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.260% |
-| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.265% |
-| 18:00 | USD | Moderate | 5-Year TIPS Auction |  |  | 2.242% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.230% |  | 5.260% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.265% |
+| 53 min | USD | Moderate | 5-Year TIPS Auction |  |  | 2.242% |
 | 21:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,259B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |

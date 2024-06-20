@@ -42,8 +42,8 @@
 | 16:00 | USD | Heating Oil Stockpiles | 0.526M |  | -0.656M |
 | 16:00 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.5% |  | -0.4% |
 | 16:00 | USD | Gasoline Inventories | -2.280M | 1.500M | 2.566M |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.260% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.265% |
+| 16:30 | USD | 4-Week Bill Auction | 5.230% |  | 5.260% |
+| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.265% |
 | 21:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.434T |
 | 22:00 | KRW | PPI (YoY) (May) |  |  | 1.8% |
