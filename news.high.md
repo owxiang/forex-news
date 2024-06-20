@@ -6,4 +6,4 @@
 | 12:00 | GBP | BoE Interest Rate Decision (Jun) | 5.25% | 5.25% | 5.25% |
 | 13:30 | USD | Initial Jobless Claims | 238K | 235K | 243K |
 | 13:30 | USD | Philadelphia Fed Manufacturing Index (Jun) | 1.3 | 4.8 | 4.5 |
-| 55 min | USD | Crude Oil Inventories |  | -2.800M | 3.730M |
+| 16:00 | USD | Crude Oil Inventories | -2.547M | -2.800M | 3.730M |
