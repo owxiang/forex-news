@@ -10,12 +10,12 @@
 | 09:00 | NOK | Interest Rate Decision | 4.50% | 4.50% | 4.50% |
 | 09:00 | EUR | ECB Economic Bulletin |  |  |  |
 | 09:30 | CHF | SNB Press Conference |  |  |  |
-| 53 min | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | BoE MPC vote cut (Jun) |  | 2 | 2 |
-| 12:00 | GBP | BoE MPC vote hike (Jun) |  | 0 | 0 |
-| 12:00 | GBP | BoE MPC vote unchanged (Jun) |  | 7 | 7 |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 12:00 | GBP | BoE MPC vote cut (Jun) | 2 | 2 | 2 |
+| 12:00 | GBP | BoE MPC vote hike (Jun) | 0 | 0 | 0 |
+| 12:00 | GBP | BoE MPC vote unchanged (Jun) | 7 | 7 | 7 |
 | 12:00 | GBP | BoE MPC Meeting Minutes |  |  |  |
-| 13:00 | GBP | BOE Inflation Letter |  |  |  |
+| 55 min | GBP | BOE Inflation Letter |  |  |  |
 | 13:30 | USD | Building Permits (May) |  | 1.450M | 1.440M |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,810K | 1,820K |
 | 13:30 | USD | Current Account (Q1) |  | -207.0B | -194.8B |

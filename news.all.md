@@ -9,13 +9,13 @@
 | 02:30 | AUD | Low | Reserve Assets Total (May) | 93.0B |  | 93.1B |
 | 03:30 | SGD | Low | Unemployment Rate | 2.1% | 2.1% | 2.0% |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.512% |  | 0.572% |
-| 07:00 | GBP | Low | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
 | 07:00 | GBP | Low | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
+| 07:00 | GBP | Low | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
 | 07:00 | CHF | Low | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
 | 07:00 | EUR | Low | German PPI (YoY) (May) | -2.2% | -2.0% | -3.3% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | 0.0% | 0.1% | 0.2% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
@@ -32,18 +32,18 @@
 | 09:30 | HKD | Low | Unemployment Rate (May) | 3.0% |  | 3.0% |
 | 10:00 | EUR | Low | French 6-Year OAT Auction | 3.01% |  | 2.92% |
 | 10:00 | EUR | Low | French 8-Year OAT Auction | 3.05% |  | 0.39% |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | CNY | Low | FDI (May) |  |  | -27.90% |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) |  | 2 | 2 |
-| 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) |  | 0 | 0 |
-| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) |  | 7 | 7 |
-| 12:00 | GBP | High | BoE Interest Rate Decision (Jun) |  | 5.25% | 5.25% |
+| 10:00 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.345% |  | 3.251% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 12:00 | GBP | Moderate | BoE MPC vote cut (Jun) | 2 | 2 | 2 |
+| 12:00 | GBP | Moderate | BoE MPC vote hike (Jun) | 0 | 0 | 0 |
+| 12:00 | GBP | Moderate | BoE MPC vote unchanged (Jun) | 7 | 7 | 7 |
+| 12:00 | GBP | High | BoE Interest Rate Decision (Jun) | 5.25% | 5.25% | 5.25% |
 | 12:00 | GBP | Moderate | BoE MPC Meeting Minutes |  |  |  |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 13:00 | GBP | Moderate | BOE Inflation Letter |  |  |  |
-| 13:00 | MXN | Low | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
+| 55 min | GBP | Moderate | BOE Inflation Letter |  |  |  |
+| 55 min | MXN | Low | Retail Sales (YoY) (Apr) |  | 1.5% | -1.7% |
+| 55 min | MXN | Low | Retail Sales (MoM) (Apr) |  | -0.3% | -0.2% |
 | 13:30 | USD | Moderate | Building Permits (May) |  | 1.450M | 1.440M |
 | 13:30 | USD | Low | Building Permits (MoM) (May) |  |  | -3.0% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,810K | 1,820K |
