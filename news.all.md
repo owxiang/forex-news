@@ -11,8 +11,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.512% |  | 0.572% |
 | 07:00 | GBP | Low | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
 | 07:00 | GBP | Low | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
 | 07:00 | CHF | Low | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
 | 07:00 | EUR | Low | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
@@ -20,13 +20,13 @@
 | 07:00 | EUR | Moderate | German PPI (MoM) (May) | 0.0% | 0.1% | 0.2% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
-| 08:20 | IDR | Low | Loans (YoY) (May) |  |  | 13.09% |
-| 08:30 | CHF | High | SNB Interest Rate Decision (Q2) |  | 1.50% | 1.50% |
-| 08:30 | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
-| 08:30 | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
-| 08:30 | IDR | Low | Deposit Facility Rate |  | 5.50% | 5.50% |
-| 09:00 | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
-| 09:00 | EUR | Moderate | ECB Economic Bulletin |  |  |  |
+| 14 min | IDR | Low | Loans (YoY) (May) |  |  | 13.09% |
+| 24 min | CHF | High | SNB Interest Rate Decision (Q2) |  | 1.50% | 1.50% |
+| 24 min | CHF | Moderate | SNB Monetary Policy Assessment |  |  |  |
+| 24 min | IDR | Moderate | Interest Rate Decision |  | 6.25% | 6.25% |
+| 24 min | IDR | Low | Deposit Facility Rate |  | 5.50% | 5.50% |
+| 54 min | NOK | Moderate | Interest Rate Decision |  | 4.50% | 4.50% |
+| 54 min | EUR | Moderate | ECB Economic Bulletin |  |  |  |
 | 09:30 | CHF | Moderate | SNB Press Conference |  |  |  |
 | 09:30 | HKD | Low | Unemployment Rate (May) |  |  | 3.0% |
 | 10:00 | EUR | Low | French 6-Year OAT Auction |  |  | 2.92% |

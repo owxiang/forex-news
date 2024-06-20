@@ -9,16 +9,16 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.512% |  | 0.572% |
 | 07:00 | GBP | Car Registration (MoM) (May) | 10.0% |  | -57.7% |
 | 07:00 | GBP | Car Registration (YoY) (May) | 1.7% |  | 1.0% |
-| 07:00 | EUR | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
 | 07:00 | EUR | Italian Car Registration (YoY) (May) | -6.6% |  | 7.7% |
+| 07:00 | EUR | Italian Car Registration (MoM) (May) | 3.1% |  | -16.5% |
 | 07:00 | CHF | Trade Balance (May) | 5.811B | 3.840B | 4.339B |
 | 07:00 | EUR | German Car Registration (YoY) (May) | -4.3% |  | 19.8% |
 | 07:00 | EUR | German Car Registration (MoM) (May) | -2.7% |  | -7.9% |
 | 07:00 | EUR | German PPI (YoY) (May) | -2.2% | -2.0% | -3.3% |
 | 07:00 | EUR | French Car Registration (MoM) (May) | -3.9% |  | -18.4% |
 | 07:00 | EUR | French Car Registration (YoY) (May) | -2.9% |  | 10.9% |
-| 08:20 | IDR | Loans (YoY) (May) |  |  | 13.09% |
-| 08:30 | IDR | Deposit Facility Rate |  | 5.50% | 5.50% |
+| 14 min | IDR | Loans (YoY) (May) |  |  | 13.09% |
+| 24 min | IDR | Deposit Facility Rate |  | 5.50% | 5.50% |
 | 09:30 | HKD | Unemployment Rate (May) |  |  | 3.0% |
 | 10:00 | EUR | French 6-Year OAT Auction |  |  | 2.92% |
 | 10:00 | EUR | French 8-Year OAT Auction |  |  | 0.39% |
