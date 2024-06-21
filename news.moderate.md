@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | National Core CPI (YoY) (May) | 2.5% | 2.6% | 2.2% |
 | 01:30 | JPY | au Jibun Bank Japan Services PMI | 49.8 |  | 53.8 |
-| 07:00 | GBP | Core Retail Sales (YoY) (May) | 1.2% | -0.8% | -2.5% |
 | 07:00 | GBP | Core Retail Sales (MoM) (May) | 2.9% | 1.3% | -1.4% |
-| 07:00 | GBP | Retail Sales (YoY) (May) | 1.3% | -0.9% | -2.3% |
+| 07:00 | GBP | Core Retail Sales (YoY) (May) | 1.2% | -0.8% | -2.5% |
 | 07:00 | GBP | Retail Sales (MoM) (May) | 2.9% | 1.6% | -1.8% |
+| 07:00 | GBP | Retail Sales (YoY) (May) | 1.3% | -0.9% | -2.3% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jun) | 45.3 | 46.8 | 46.4 |
 | 08:15 | EUR | HCOB France Services PMI (Jun) | 48.8 | 50.0 | 49.3 |
