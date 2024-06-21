@@ -9,17 +9,17 @@
 | 07:00 | GBP | Retail Sales (MoM) (May) | 2.9% | 1.6% | -1.8% |
 | 07:00 | GBP | Retail Sales (YoY) (May) | 1.3% | -0.9% | -2.3% |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 9 min | EUR | HCOB France Manufacturing PMI (Jun) |  | 46.8 | 46.4 |
-| 9 min | EUR | HCOB France Services PMI (Jun) |  | 50.0 | 49.3 |
-| 24 min | EUR | HCOB Germany Manufacturing PMI (Jun) |  | 46.4 | 45.4 |
-| 24 min | EUR | HCOB Germany Services PMI (Jun) |  | 54.4 | 54.2 |
-| 54 min | EUR | HCOB Eurozone Manufacturing PMI (Jun) |  | 48.0 | 47.3 |
-| 54 min | EUR | HCOB Eurozone Composite PMI (Jun) |  | 52.5 | 52.2 |
-| 54 min | EUR | HCOB Eurozone Services PMI (Jun) |  | 53.5 | 53.2 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI |  | 53.1 | 53.0 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 51.3 | 51.2 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI |  | 53.0 | 52.9 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 08:15 | EUR | HCOB France Manufacturing PMI (Jun) | 45.3 | 46.8 | 46.4 |
+| 08:15 | EUR | HCOB France Services PMI (Jun) | 48.8 | 50.0 | 49.3 |
+| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jun) | 43.4 | 46.4 | 45.4 |
+| 08:30 | EUR | HCOB Germany Services PMI (Jun) | 53.5 | 54.4 | 54.2 |
+| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jun) | 45.6 | 48.0 | 47.3 |
+| 09:00 | EUR | HCOB Eurozone Composite PMI (Jun) | 50.8 | 52.5 | 52.2 |
+| 09:00 | EUR | HCOB Eurozone Services PMI (Jun) | 52.6 | 53.5 | 53.2 |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 51.7 | 53.1 | 53.0 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.4 | 51.3 | 51.2 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 51.2 | 53.0 | 52.9 |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
 | 13:30 | CAD | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
 | 13:30 | CAD | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |

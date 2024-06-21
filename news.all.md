@@ -22,23 +22,23 @@
 | 07:45 | EUR | Low | French Business Survey (Jun) | 99 | 100 | 99 |
 | 08:00 | CHF | Low | M3 Money Supply (May) | 1,136.1B |  | 1,143.5B |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 9 min | EUR | Moderate | HCOB France Manufacturing PMI (Jun) |  | 46.8 | 46.4 |
-| 9 min | EUR | Low | HCOB France Composite PMI (Jun) |  | 49.5 | 48.9 |
-| 9 min | EUR | Moderate | HCOB France Services PMI (Jun) |  | 50.0 | 49.3 |
-| 24 min | EUR | Low | HCOB Germany Composite PMI (Jun) |  | 52.7 | 52.4 |
-| 24 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 46.4 | 45.4 |
-| 24 min | EUR | Moderate | HCOB Germany Services PMI (Jun) |  | 54.4 | 54.2 |
-| 54 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) |  | 48.0 | 47.3 |
-| 54 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) |  | 52.5 | 52.2 |
-| 54 min | EUR | Moderate | HCOB Eurozone Services PMI (Jun) |  | 53.5 | 53.2 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 53.1 | 53.0 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 51.3 | 51.2 |
-| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 53.0 | 52.9 |
-| 09:30 | HKD | Low | CPI (MoM) (May) |  |  | -0.70% |
-| 09:30 | HKD | Low | CPI (YoY) (May) |  | 1.30% | 1.10% |
-| 11:00 | CNY | Low | FDI (May) |  |  | -27.90% |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) | 45.3 | 46.8 | 46.4 |
+| 08:15 | EUR | Low | HCOB France Composite PMI (Jun) | 48.2 | 49.5 | 48.9 |
+| 08:15 | EUR | Moderate | HCOB France Services PMI (Jun) | 48.8 | 50.0 | 49.3 |
+| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jun) | 50.6 | 52.7 | 52.4 |
+| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) | 43.4 | 46.4 | 45.4 |
+| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jun) | 53.5 | 54.4 | 54.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jun) | 45.6 | 48.0 | 47.3 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jun) | 50.8 | 52.5 | 52.2 |
+| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jun) | 52.6 | 53.5 | 53.2 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 51.7 | 53.1 | 53.0 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 51.4 | 51.3 | 51.2 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 51.2 | 53.0 | 52.9 |
+| 09:30 | HKD | Low | CPI (MoM) (May) | -0.20% |  | -0.70% |
+| 09:30 | HKD | Low | CPI (YoY) (May) | 1.20% | 1.30% | 1.10% |
+| 54 min | CNY | Low | FDI (May) |  |  | -27.90% |
+| 54 min | EUR | Low | ECOFIN Meetings |  |  |  |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.3% |
@@ -47,8 +47,8 @@
 | 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
-| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.4% | 1.5% |
+| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | 3.1% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | -0.6% | 5.5% |
