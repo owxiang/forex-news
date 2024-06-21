@@ -11,12 +11,12 @@
 | 04:00 | IDR | M2 Money Supply (YoY) (May) | 7.60% |  | 6.90% |
 | 06:00 | INR | HSBC India Manufacturing PMI | 58.5 |  | 57.5 |
 | 06:00 | INR | HSBC India Services PMI | 60.4 | 60.0 | 60.2 |
-| 54 min | GBP | Public Sector Net Borrowing (May) |  | 14.50B | 19.59B |
-| 54 min | GBP | Public Sector Net Cash Requirement (May) |  |  | -5.217B |
-| 07:45 | EUR | French Business Survey (Jun) |  | 100 | 99 |
-| 08:00 | CHF | M3 Money Supply (May) |  |  | 1,140.9B |
-| 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 49.5 | 48.9 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Jun) |  | 52.7 | 52.4 |
+| 07:00 | GBP | Public Sector Net Borrowing (May) | 14.10B | 14.50B | 17.52B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (May) | 18.135B |  | -5.249B |
+| 07:45 | EUR | French Business Survey (Jun) | 99 | 100 | 99 |
+| 08:00 | CHF | M3 Money Supply (May) | 1,136.1B |  | 1,143.5B |
+| 9 min | EUR | HCOB France Composite PMI (Jun) |  | 49.5 | 48.9 |
+| 24 min | EUR | HCOB Germany Composite PMI (Jun) |  | 52.7 | 52.4 |
 | 09:30 | HKD | CPI (MoM) (May) |  |  | -0.70% |
 | 09:30 | HKD | CPI (YoY) (May) |  | 1.30% | 1.10% |
 | 11:00 | CNY | FDI (May) |  |  | -27.90% |
@@ -27,8 +27,8 @@
 | 12:30 | INR | FX Reserves, USD |  |  | 655.82B |
 | 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
 | 13:00 | MXN | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 0.4% | 1.5% |
 | 13:30 | CAD | IPPI (YoY) (May) |  |  | 1.4% |
+| 13:30 | CAD | IPPI (MoM) (May) |  | 0.4% | 1.5% |
 | 13:30 | CAD | RMPI (YoY) (May) |  |  | 3.1% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
 | 15:30 | USD | Natural Gas Storage |  | 69B | 74B |
