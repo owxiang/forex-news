@@ -38,18 +38,18 @@
 | 09:30 | HKD | Low | CPI (YoY) (May) | 1.20% | 1.30% | 1.10% |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 19.5% |
-| 24 min | INR | Low | Deposit Growth |  |  | 13.3% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 655.82B |
-| 24 min | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 54 min | MXN | Low | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
-| 54 min | MXN | Low | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
-| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
-| 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
-| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.4% | 1.5% |
-| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
-| 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | 3.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | -0.6% | 5.5% |
+| 12:30 | INR | Low | Bank Loan Growth | 19.8% |  | 19.5% |
+| 12:30 | INR | Low | Deposit Growth | 12.7% |  | 13.3% |
+| 12:30 | INR | Low | FX Reserves, USD | 652.90B |  | 655.82B |
+| 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) | -0.60% | -0.30% | 0.30% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) | 5.40% | 3.80% | -1.30% |
+| 22 min | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
+| 22 min | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
+| 22 min | CAD | Low | IPPI (MoM) (May) |  | 0.4% | 1.5% |
+| 22 min | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
+| 22 min | CAD | Low | RMPI (YoY) (May) |  |  | 3.1% |
+| 22 min | CAD | Moderate | RMPI (MoM) (May) |  | -0.6% | 5.5% |
 | 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.0 | 51.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 54.5 |

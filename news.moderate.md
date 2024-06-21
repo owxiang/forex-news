@@ -20,10 +20,10 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.4 | 51.3 | 51.2 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI | 51.2 | 53.0 | 52.9 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 24 min | INR | RBI MPC Meeting Minutes |  |  |  |
-| 13:30 | CAD | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
-| 13:30 | CAD | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
-| 13:30 | CAD | RMPI (MoM) (May) |  | -0.6% | 5.5% |
+| 12:30 | INR | RBI MPC Meeting Minutes |  |  |  |
+| 22 min | CAD | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
+| 22 min | CAD | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
+| 22 min | CAD | RMPI (MoM) (May) |  | -0.6% | 5.5% |
 | 14:45 | USD | S&P Global Composite PMI (Jun) |  |  | 54.5 |
 | 15:00 | USD | Existing Home Sales (MoM) (May) |  |  | -1.9% |
 | 15:00 | USD | US Leading Index (MoM) (May) |  | -0.4% | -0.6% |

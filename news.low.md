@@ -20,14 +20,14 @@
 | 09:30 | HKD | CPI (MoM) (May) | -0.20% |  | -0.70% |
 | 09:30 | HKD | CPI (YoY) (May) | 1.20% | 1.30% | 1.10% |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 24 min | INR | Bank Loan Growth |  |  | 19.5% |
-| 24 min | INR | Deposit Growth |  |  | 13.3% |
-| 24 min | INR | FX Reserves, USD |  |  | 655.82B |
-| 54 min | MXN | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
-| 54 min | MXN | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
-| 13:30 | CAD | IPPI (YoY) (May) |  |  | 1.4% |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 0.4% | 1.5% |
-| 13:30 | CAD | RMPI (YoY) (May) |  |  | 3.1% |
+| 12:30 | INR | Bank Loan Growth | 19.8% |  | 19.5% |
+| 12:30 | INR | Deposit Growth | 12.7% |  | 13.3% |
+| 12:30 | INR | FX Reserves, USD | 652.90B |  | 655.82B |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) | -0.60% | -0.30% | 0.30% |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) | 5.40% | 3.80% | -1.30% |
+| 22 min | CAD | IPPI (YoY) (May) |  |  | 1.4% |
+| 22 min | CAD | IPPI (MoM) (May) |  | 0.4% | 1.5% |
+| 22 min | CAD | RMPI (YoY) (May) |  |  | 3.1% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
 | 15:30 | USD | Natural Gas Storage |  | 69B | 74B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
