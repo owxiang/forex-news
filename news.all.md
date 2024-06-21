@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) | 1.2% | -0.8% | -2.5% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) | 14.10B | 14.50B | 17.52B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) | 18.135B |  | -5.249B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | 1.3% | -0.9% | -2.3% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | 2.9% | 1.6% | -1.8% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | 1.3% | -0.9% | -2.3% |
 | 07:45 | EUR | Low | French Business Survey (Jun) | 99 | 100 | 99 |
 | 08:00 | CHF | Low | M3 Money Supply (May) | 1,136.1B |  | 1,143.5B |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -48,8 +48,8 @@
 | 13:30 | CAD | Low | IPPI (MoM) (May) | 0.0% | 0.4% | 1.4% |
 | 13:30 | CAD | Low | IPPI (YoY) (May) | 1.8% |  | 1.3% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) | 0.7% | 0.7% | -0.3% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (May) | -1.0% | -0.6% | 5.3% |
 | 13:30 | CAD | Low | RMPI (YoY) (May) | 7.6% |  | 2.9% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (May) | -1.0% | -0.6% | 5.3% |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Jun) | 51.7 | 51.0 | 51.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) | 54.6 | 53.5 | 54.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Jun) | 55.1 | 53.4 | 54.8 |
@@ -58,8 +58,8 @@
 | 15:00 | USD | Moderate | US Leading Index (MoM) (May) | -0.5% | -0.4% | -0.6% |
 | 15:30 | USD | Low | Natural Gas Storage | 71B | 69B | 74B |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 52.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 61.3K |
