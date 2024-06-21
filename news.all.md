@@ -10,7 +10,7 @@
 | 00:30 | JPY | Low | National CPI (YoY) (May) | 2.8% |  | 2.5% |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jun) | 50.1 | 50.6 | 50.4 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 49.8 |  | 53.8 |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
+| 43 min | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 6.90% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 57.5 |
 | 06:00 | INR | Low | HSBC India Services PMI |  | 60.0 | 60.2 |
@@ -45,8 +45,8 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 655.82B |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
 | 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
 | 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.5% | 1.5% |

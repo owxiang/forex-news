@@ -8,7 +8,7 @@
 | 00:30 | JPY | CPI, n.s.a (MoM) (May) | 0.5% |  | 0.4% |
 | 00:30 | JPY | National CPI (YoY) (May) | 2.8% |  | 2.5% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jun) | 50.1 | 50.6 | 50.4 |
-| 04:00 | NZD | Credit Card Spending (YoY) |  |  | -0.6% |
+| 43 min | NZD | Credit Card Spending (YoY) |  |  | -0.6% |
 | 05:00 | IDR | M2 Money Supply (YoY) (May) |  |  | 6.90% |
 | 06:00 | INR | HSBC India Manufacturing PMI |  |  | 57.5 |
 | 06:00 | INR | HSBC India Services PMI |  | 60.0 | 60.2 |
@@ -26,8 +26,8 @@
 | 12:30 | INR | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 655.82B |
-| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
 | 13:00 | MXN | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
+| 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
 | 13:30 | CAD | IPPI (YoY) (May) |  |  | 1.4% |
 | 13:30 | CAD | IPPI (MoM) (May) |  | 0.5% | 1.5% |
 | 13:30 | CAD | RMPI (YoY) (May) |  |  | 3.1% |
