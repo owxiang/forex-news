@@ -8,12 +8,11 @@
 | 00:30 | JPY | CPI, n.s.a (MoM) (May) | 0.5% |  | 0.4% |
 | 00:30 | JPY | National CPI (YoY) (May) | 2.8% |  | 2.5% |
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jun) | 50.1 | 50.6 | 50.4 |
-| 43 min | NZD | Credit Card Spending (YoY) |  |  | -0.6% |
-| 05:00 | IDR | M2 Money Supply (YoY) (May) |  |  | 6.90% |
-| 06:00 | INR | HSBC India Manufacturing PMI |  |  | 57.5 |
-| 06:00 | INR | HSBC India Services PMI |  | 60.0 | 60.2 |
-| 07:00 | GBP | Public Sector Net Borrowing (May) |  | 14.50B | 19.59B |
-| 07:00 | GBP | Public Sector Net Cash Requirement (May) |  |  | -5.217B |
+| 04:00 | IDR | M2 Money Supply (YoY) (May) | 7.60% |  | 6.90% |
+| 06:00 | INR | HSBC India Manufacturing PMI | 58.5 |  | 57.5 |
+| 06:00 | INR | HSBC India Services PMI | 60.4 | 60.0 | 60.2 |
+| 54 min | GBP | Public Sector Net Borrowing (May) |  | 14.50B | 19.59B |
+| 54 min | GBP | Public Sector Net Cash Requirement (May) |  |  | -5.217B |
 | 07:45 | EUR | French Business Survey (Jun) |  | 100 | 99 |
 | 08:00 | CHF | M3 Money Supply (May) |  |  | 1,140.9B |
 | 08:15 | EUR | HCOB France Composite PMI (Jun) |  | 49.5 | 48.9 |
@@ -26,13 +25,13 @@
 | 12:30 | INR | Bank Loan Growth |  |  | 19.5% |
 | 12:30 | INR | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | FX Reserves, USD |  |  | 655.82B |
-| 13:00 | MXN | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
 | 13:00 | MXN | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
+| 13:00 | MXN | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
+| 13:30 | CAD | IPPI (MoM) (May) |  | 0.4% | 1.5% |
 | 13:30 | CAD | IPPI (YoY) (May) |  |  | 1.4% |
-| 13:30 | CAD | IPPI (MoM) (May) |  | 0.5% | 1.5% |
 | 13:30 | CAD | RMPI (YoY) (May) |  |  | 3.1% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
-| 15:30 | USD | Natural Gas Storage |  |  | 74B |
+| 15:30 | USD | Natural Gas Storage |  | 69B | 74B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -101.0K |

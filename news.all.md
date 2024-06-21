@@ -10,16 +10,15 @@
 | 00:30 | JPY | Low | National CPI (YoY) (May) | 2.8% |  | 2.5% |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jun) | 50.1 | 50.6 | 50.4 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI | 49.8 |  | 53.8 |
-| 43 min | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
-| 05:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 6.90% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 57.5 |
-| 06:00 | INR | Low | HSBC India Services PMI |  | 60.0 | 60.2 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | 1.3% | -2.0% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) |  | -0.8% | -3.0% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (May) |  | 14.50B | 19.59B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | -5.217B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | 1.6% | -2.3% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (May) |  | -0.9% | -2.7% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (May) | 7.60% |  | 6.90% |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI | 58.5 |  | 57.5 |
+| 06:00 | INR | Low | HSBC India Services PMI | 60.4 | 60.0 | 60.2 |
+| 54 min | GBP | Moderate | Core Retail Sales (YoY) (May) |  | -0.8% | -3.0% |
+| 54 min | GBP | Moderate | Core Retail Sales (MoM) (May) |  | 1.3% | -2.0% |
+| 54 min | GBP | Low | Public Sector Net Borrowing (May) |  | 14.50B | 19.59B |
+| 54 min | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | -5.217B |
+| 54 min | GBP | Moderate | Retail Sales (YoY) (May) |  | -0.9% | -2.7% |
+| 54 min | GBP | Moderate | Retail Sales (MoM) (May) |  | 1.6% | -2.3% |
 | 07:45 | EUR | Low | French Business Survey (Jun) |  | 100 | 99 |
 | 08:00 | CHF | Low | M3 Money Supply (May) |  |  | 1,140.9B |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -45,22 +44,22 @@
 | 12:30 | INR | Low | Deposit Growth |  |  | 13.3% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 655.82B |
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Apr) |  | 3.80% | -1.30% |
+| 13:00 | MXN | Low | Economic Activity (MoM) (Apr) |  | -0.30% | 0.30% |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
+| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.4% | 1.5% |
 | 13:30 | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
-| 13:30 | CAD | Low | IPPI (MoM) (May) |  | 0.5% | 1.5% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
 | 13:30 | CAD | Low | RMPI (YoY) (May) |  |  | 3.1% |
-| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  |  | 5.5% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (May) |  | -0.6% | 5.5% |
 | 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.0 | 51.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 54.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 53.7 | 54.8 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | -1.9% |
+| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 53.4 | 54.8 |
 | 15:00 | USD | High | Existing Home Sales (May) |  | 4.08M | 4.14M |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | -0.3% | -0.6% |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 74B |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | -1.9% |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | -0.4% | -0.6% |
+| 15:30 | USD | Low | Natural Gas Storage |  | 69B | 74B |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 590 |
