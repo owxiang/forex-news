@@ -5,21 +5,21 @@
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.5 |  | 49.7 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.6 |  | 52.5 |
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jun) | -14 | -16 | -17 |
-| 24 min | JPY | Low | CPI, n.s.a (MoM) (May) |  |  | 0.4% |
-| 24 min | JPY | Moderate | National Core CPI (YoY) (May) |  | 2.6% | 2.2% |
-| 24 min | JPY | Low | National CPI (YoY) (May) |  |  | 2.5% |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jun) |  | 50.6 | 50.4 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 53.8 |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (May) | 0.5% |  | 0.4% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (May) | 2.5% | 2.6% | 2.2% |
+| 00:30 | JPY | Low | National CPI (YoY) (May) | 2.8% |  | 2.5% |
+| 9 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jun) |  | 50.6 | 50.4 |
+| 9 min | JPY | Moderate | au Jibun Bank Japan Services PMI |  |  | 53.8 |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (May) |  |  | 6.90% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 57.5 |
 | 06:00 | INR | Low | HSBC India Services PMI |  | 60.0 | 60.2 |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | 1.3% | -2.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) |  | -0.8% | -3.0% |
+| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (May) |  | 1.3% | -2.0% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) |  | 14.50B | 19.59B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) |  |  | -5.217B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | 1.6% | -2.3% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (May) |  | -0.9% | -2.7% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) |  | 1.6% | -2.3% |
 | 07:45 | EUR | Low | French Business Survey (Jun) |  | 100 | 99 |
 | 08:00 | CHF | Low | M3 Money Supply (May) |  |  | 1,140.9B |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
