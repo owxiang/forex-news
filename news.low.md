@@ -28,7 +28,7 @@
 | 13:30 | CAD | IPPI (MoM) (May) | 0.0% | 0.4% | 1.4% |
 | 13:30 | CAD | IPPI (YoY) (May) | 1.8% |  | 1.3% |
 | 13:30 | CAD | RMPI (YoY) (May) | 7.6% |  | 2.9% |
-| 25 min | USD | Natural Gas Storage |  | 69B | 74B |
+| 15:30 | USD | Natural Gas Storage | 71B | 69B | 74B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -101.0K |
