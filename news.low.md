@@ -25,10 +25,10 @@
 | 12:30 | INR | FX Reserves, USD | 652.90B |  | 655.82B |
 | 13:00 | MXN | Economic Activity (MoM) (Apr) | -0.60% | -0.30% | 0.30% |
 | 13:00 | MXN | Economic Activity (YoY) (Apr) | 5.40% | 3.80% | -1.30% |
-| 22 min | CAD | IPPI (YoY) (May) |  |  | 1.4% |
-| 22 min | CAD | IPPI (MoM) (May) |  | 0.4% | 1.5% |
-| 22 min | CAD | RMPI (YoY) (May) |  |  | 3.1% |
-| 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
+| 13:30 | CAD | IPPI (MoM) (May) | 0.0% | 0.4% | 1.4% |
+| 13:30 | CAD | IPPI (YoY) (May) | 1.8% |  | 1.3% |
+| 13:30 | CAD | RMPI (YoY) (May) | 7.6% |  | 2.9% |
+| 24 min | BRL | Federal Tax Revenue |  |  | 228.90B |
 | 15:30 | USD | Natural Gas Storage |  | 69B | 74B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.3K |

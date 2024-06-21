@@ -17,8 +17,8 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (May) | 1.2% | -0.8% | -2.5% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (May) | 14.10B | 14.50B | 17.52B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (May) | 18.135B |  | -5.249B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | 2.9% | 1.6% | -1.8% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (May) | 1.3% | -0.9% | -2.3% |
+| 07:00 | GBP | Moderate | Retail Sales (MoM) (May) | 2.9% | 1.6% | -1.8% |
 | 07:45 | EUR | Low | French Business Survey (Jun) | 99 | 100 | 99 |
 | 08:00 | CHF | Low | M3 Money Supply (May) | 1,136.1B |  | 1,143.5B |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -44,19 +44,19 @@
 | 12:30 | INR | Moderate | RBI MPC Meeting Minutes |  |  |  |
 | 13:00 | MXN | Low | Economic Activity (MoM) (Apr) | -0.60% | -0.30% | 0.30% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (Apr) | 5.40% | 3.80% | -1.30% |
-| 22 min | CAD | Moderate | Core Retail Sales (MoM) (Apr) |  | 0.5% | -0.6% |
-| 22 min | CAD | Low | IPPI (YoY) (May) |  |  | 1.4% |
-| 22 min | CAD | Low | IPPI (MoM) (May) |  | 0.4% | 1.5% |
-| 22 min | CAD | Moderate | Retail Sales (MoM) (Apr) |  | 0.7% | -0.2% |
-| 22 min | CAD | Low | RMPI (YoY) (May) |  |  | 3.1% |
-| 22 min | CAD | Moderate | RMPI (MoM) (May) |  | -0.6% | 5.5% |
-| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.0 | 51.3 |
-| 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 54.5 |
-| 14:45 | USD | High | S&P Global Services PMI (Jun) |  | 53.4 | 54.8 |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | -1.9% |
-| 15:00 | USD | High | Existing Home Sales (May) |  | 4.08M | 4.14M |
-| 15:00 | USD | Moderate | US Leading Index (MoM) (May) |  | -0.4% | -0.6% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (Apr) | 1.8% | 0.5% | -0.8% |
+| 13:30 | CAD | Low | IPPI (MoM) (May) | 0.0% | 0.4% | 1.4% |
+| 13:30 | CAD | Low | IPPI (YoY) (May) | 1.8% |  | 1.3% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (Apr) | 0.7% | 0.7% | -0.3% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (May) | -1.0% | -0.6% | 5.3% |
+| 13:30 | CAD | Low | RMPI (YoY) (May) | 7.6% |  | 2.9% |
+| 24 min | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
+| 39 min | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.0 | 51.3 |
+| 39 min | USD | Moderate | S&P Global Composite PMI (Jun) |  |  | 54.5 |
+| 39 min | USD | High | S&P Global Services PMI (Jun) |  | 53.4 | 54.8 |
+| 54 min | USD | High | Existing Home Sales (May) |  | 4.08M | 4.14M |
+| 54 min | USD | Moderate | Existing Home Sales (MoM) (May) |  |  | -1.9% |
+| 54 min | USD | Moderate | US Leading Index (MoM) (May) |  | -0.4% | -0.6% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 69B | 74B |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 488 |
