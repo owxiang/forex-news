@@ -4,5 +4,5 @@
 |------|----------|-------|--------|----------|----------|
 | 23:45 | NZD | Exports (May) |  |  | 6.42B |
 | 23:45 | NZD | Imports (May) |  |  | 6.32B |
-| 23:45 | NZD | Trade Balance (MoM) (May) |  |  | 91M |
 | 23:45 | NZD | Trade Balance (YoY) (May) |  |  | -10,110M |
+| 23:45 | NZD | Trade Balance (MoM) (May) |  |  | 91M |
