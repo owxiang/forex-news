@@ -1,9 +1,58 @@
-## 23 June 2024 - All Forex News
+## 24 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 14:20 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 23:45 | NZD | Low | Exports (May) |  |  | 6.42B |
-| 23:45 | NZD | Low | Imports (May) |  |  | 6.32B |
-| 23:45 | NZD | Low | Trade Balance (YoY) (May) |  |  | -10,110M |
-| 23:45 | NZD | Low | Trade Balance (MoM) (May) |  | 155M | 91M |
+| 44 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (May) |  | 3.00% | 3.10% |
+| 06:00 | SGD | Low | CPI (MoM) (May) |  |  | 0.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (May) |  | 3.0% | 2.7% |
+| 08:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 91.0 | 90.4 |
+| 09:00 | EUR | Moderate | German Current Assessment (Jun) |  | 88.4 | 88.3 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 89.4 | 89.3 |
+| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
+| 12:00 | BRL | Low | FGV Consumer confidence (Jun) |  |  | 89.2 |
+| 12:00 | CNY | Low | FDI (May) |  |  | -27.90% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 12:30 | BRL | Low | Current Account (USD) (May) |  |  | -2.50B |
+| 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  |  | 3.90B |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) |  |  | 0.15% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  |  | -0.21% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.452% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.703% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.643% |
+| 14:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
+| 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | -19.4 |
+| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
+| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.150% |
+| 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 18:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 52.1K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 61.3K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -101.0K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 233.5K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 233.9K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | -8.0K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -102.8K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -111.4K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 51.7K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -56.3K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -25.0K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -129.5K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 119.0K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -42.9K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -64.8K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -24.6K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -138.6K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | 11.0K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | 43.6K |
+| 22:00 | KRW | Low | Consumer Confidence (Jun) |  |  | 98.4 |
