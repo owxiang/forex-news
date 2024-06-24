@@ -18,8 +18,8 @@
 | 12:00 | BRL | Low | FGV Consumer confidence (Jun) | 91.1 |  | 89.2 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Balance of Payments (USD) (Q1) | 30.800B |  | 6.000B |
-| 12:30 | INR | Low | Current Account % of GDP (QoQ) (Q1) | 0.60% |  | -1.20% |
 | 12:30 | INR | Low | Current Account % of GDP (YoY) | -0.70% |  | -2.00% |
+| 12:30 | INR | Low | Current Account % of GDP (QoQ) (Q1) | 0.60% |  | -1.20% |
 | 12:30 | INR | Low | Current Account (USD) | -23.200B |  | -67.000B |
 | 12:30 | INR | Low | Current Account (USD) (Q1) | 5.70B |  | -8.70B |
 | 12:30 | INR | Low | Trade Balance (USD) (Q1) | -50.900B |  | -71.600B |
