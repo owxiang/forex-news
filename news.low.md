@@ -5,10 +5,10 @@
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 04:00 | NZD | Credit Card Spending (YoY) | 0.0% |  | -0.8% |
 | 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | 0.10% |
+| 09:02 | CNY | FDI (May) | -28.20% |  | -27.90% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:00 | BRL | FGV Consumer confidence (Jun) |  |  | 89.2 |
-| 12:00 | CNY | FDI (May) |  |  | -27.90% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Current Account (USD) (May) |  |  | -2.50B |
 | 12:30 | BRL | Foreign direct investment (USD) (May) |  |  | 3.90B |

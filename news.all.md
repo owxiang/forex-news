@@ -8,15 +8,15 @@
 | 06:00 | SGD | Low | CPI (MoM) (May) | 0.70% |  | 0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (May) | 3.1% | 3.0% | 2.7% |
 | 08:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 54 min | EUR | Moderate | German Business Expectations (Jun) |  | 91.0 | 90.4 |
-| 54 min | EUR | Moderate | German Current Assessment (Jun) |  | 88.4 | 88.3 |
-| 54 min | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 89.4 | 89.3 |
+| 09:00 | EUR | Moderate | German Business Expectations (Jun) | 89.0 | 91.0 | 90.3 |
+| 09:00 | EUR | Moderate | German Current Assessment (Jun) | 88.3 | 88.4 | 88.3 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) | 88.6 | 89.4 | 89.3 |
+| 09:02 | CNY | Low | FDI (May) | -28.20% |  | -27.90% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jun) |  |  | 89.2 |
-| 12:00 | CNY | Low | FDI (May) |  |  | -27.90% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Current Account (USD) (May) |  |  | -2.50B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  |  | 3.90B |

@@ -5,9 +5,9 @@
 | 06:00 | SGD | Core CPI (YoY) (May) | 3.10% | 3.00% | 3.10% |
 | 06:00 | SGD | CPI (YoY) (May) | 3.1% | 3.0% | 2.7% |
 | 08:00 | USD | Fed Waller Speaks |  |  |  |
-| 54 min | EUR | German Business Expectations (Jun) |  | 91.0 | 90.4 |
-| 54 min | EUR | German Current Assessment (Jun) |  | 88.4 | 88.3 |
-| 54 min | EUR | German Ifo Business Climate Index (Jun) |  | 89.4 | 89.3 |
+| 09:00 | EUR | German Business Expectations (Jun) | 89.0 | 91.0 | 90.3 |
+| 09:00 | EUR | German Current Assessment (Jun) | 88.3 | 88.4 | 88.3 |
+| 09:00 | EUR | German Ifo Business Climate Index (Jun) | 88.6 | 89.4 | 89.3 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
