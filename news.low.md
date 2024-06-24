@@ -7,16 +7,19 @@
 | 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | 0.10% |
 | 09:00 | CNY | FDI (May) | -28.20% |  | -27.90% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) | -18 | -26 | -33 |
-| 54 min | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 54 min | BRL | FGV Consumer confidence (Jun) |  |  | 89.2 |
+| 12:00 | BRL | FGV Consumer confidence (Jun) | 91.1 |  | 89.2 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Current Account (USD) (May) |  |  | -2.50B |
-| 12:30 | BRL | Foreign direct investment (USD) (May) |  |  | 3.90B |
-| 13:00 | MXN | 1st Half-Month Core CPI (Jun) |  | 0.18% | 0.15% |
-| 13:00 | MXN | 1st Half-Month CPI (Jun) |  | 0.13% | -0.21% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.452% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.703% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.643% |
+| 12:30 | INR | Balance of Payments (USD) (Q1) | 30.800B |  | 6.000B |
+| 12:30 | INR | Current Account % of GDP (QoQ) (Q1) | 0.60% |  | -1.20% |
+| 12:30 | INR | Current Account (USD) (Q1) | 5.70B |  | -10.50B |
+| 12:30 | INR | Trade Balance (USD) (Q1) | -50.900B |  | -71.600B |
+| 12:30 | BRL | Current Account (USD) (May) | -3.40B |  | -2.50B |
+| 12:30 | BRL | Foreign direct investment (USD) (May) | 3.02B |  | 3.90B |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jun) | 0.17% | 0.18% | 0.15% |
+| 13:00 | MXN | 1st Half-Month CPI (Jun) | 0.21% | 0.13% | -0.21% |
+| 51 min | EUR | French 12-Month BTF Auction |  |  | 3.452% |
+| 51 min | EUR | French 3-Month BTF Auction |  |  | 3.703% |
+| 51 min | EUR | French 6-Month BTF Auction |  |  | 3.643% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jun) |  |  | -19.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
