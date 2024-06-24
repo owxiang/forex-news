@@ -1,26 +1,16 @@
-## 24 June 2024 - Moderate Impact Forex News
+## 25 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | SGD | Core CPI (YoY) (May) | 3.10% | 3.00% | 3.10% |
-| 06:00 | SGD | CPI (YoY) (May) | 3.1% | 3.0% | 2.7% |
-| 08:00 | USD | Fed Waller Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Jun) | 89.0 | 91.0 | 90.3 |
-| 09:00 | EUR | German Current Assessment (Jun) | 88.3 | 88.4 | 88.3 |
-| 09:00 | EUR | German Ifo Business Climate Index (Jun) | 88.6 | 89.4 | 89.3 |
+| 06:00 | JPY | BoJ Core CPI (YoY) |  | 1.9% | 1.8% |
+| 08:00 | EUR | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 11:10 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 15:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
-| 20:30 | GBP | CFTC GBP speculative net positions | 47.6K |  | 52.1K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 246.8K |  | 233.5K |
-| 20:30 | USD | CFTC Gold speculative net positions | 243.1K |  | 233.9K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -3.8K |  | -8.0K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -114.1K |  | -111.4K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -41.7K |  | -64.8K |
-| 20:30 | BRL | CFTC BRL speculative net positions | -19.8K |  | -24.6K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -147.8K |  | -138.6K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 8.0K |  | 43.6K |
+| 12:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | CAD | Core CPI (MoM) (May) |  | 0.2% | 0.2% |
+| 13:30 | CAD | Core CPI (YoY) (May) |  |  | 1.6% |
+| 13:30 | CAD | CPI (MoM) (May) |  | 0.3% | 0.5% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.6% |
+| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 7.0% | 7.4% |
+| 18:00 | USD | 2-Year Note Auction |  |  | 4.917% |
+| 19:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | 2.264M |

@@ -1,3 +1,5 @@
-## 24 June 2024 - High Impact Forex News
+## 25 June 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | CB Consumer Confidence (Jun) |  | 100.2 | 102.0 |
