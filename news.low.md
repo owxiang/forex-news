@@ -6,7 +6,6 @@
 | 04:00 | NZD | Credit Card Spending (YoY) | 0.0% |  | -0.8% |
 | 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | 0.10% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:00 | BRL | FGV Consumer confidence (Jun) |  |  | 89.2 |
 | 12:00 | CNY | FDI (May) |  |  | -27.90% |

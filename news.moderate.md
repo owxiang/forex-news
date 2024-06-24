@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 06:00 | SGD | Core CPI (YoY) (May) | 3.10% | 3.00% | 3.10% |
 | 06:00 | SGD | CPI (YoY) (May) | 3.1% | 3.0% | 2.7% |
-| 08:00 | USD | Fed Waller Speaks |  |  |  |
+| 53 min | USD | Fed Waller Speaks |  |  |  |
 | 09:00 | EUR | German Business Expectations (Jun) |  | 91.0 | 90.4 |
 | 09:00 | EUR | German Current Assessment (Jun) |  | 88.4 | 88.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jun) |  | 89.4 | 89.3 |
