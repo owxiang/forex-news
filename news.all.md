@@ -36,8 +36,8 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.235% |  | 5.250% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.140% |  | 5.150% |
 | 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 18:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
-| 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 40 min | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
+| 55 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 52.1K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 61.3K |

@@ -13,8 +13,8 @@
 | 14:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 15:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
-| 18:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
-| 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
+| 40 min | CAD | BoC Gov Macklem Speaks |  |  |  |
+| 55 min | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 52.1K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 233.5K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 233.9K |
