@@ -7,10 +7,10 @@
 | 06:00 | SGD | Moderate | Core CPI (YoY) (May) | 3.10% | 3.00% | 3.10% |
 | 06:00 | SGD | Low | CPI (MoM) (May) | 0.70% |  | 0.10% |
 | 06:00 | SGD | Moderate | CPI (YoY) (May) | 3.1% | 3.0% | 2.7% |
-| 53 min | USD | Moderate | Fed Waller Speaks |  |  |  |
-| 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 91.0 | 90.4 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jun) |  | 88.4 | 88.3 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 89.4 | 89.3 |
+| 08:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
+| 54 min | EUR | Moderate | German Business Expectations (Jun) |  | 91.0 | 90.4 |
+| 54 min | EUR | Moderate | German Current Assessment (Jun) |  | 88.4 | 88.3 |
+| 54 min | EUR | Moderate | German Ifo Business Climate Index (Jun) |  | 89.4 | 89.3 |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:10 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
