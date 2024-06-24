@@ -10,8 +10,8 @@
 | 12:00 | BRL | FGV Consumer confidence (Jun) | 91.1 |  | 89.2 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Balance of Payments (USD) (Q1) | 30.800B |  | 6.000B |
-| 12:30 | INR | Current Account % of GDP (YoY) | -0.70% |  | -2.00% |
 | 12:30 | INR | Current Account % of GDP (QoQ) (Q1) | 0.60% |  | -1.20% |
+| 12:30 | INR | Current Account % of GDP (YoY) | -0.70% |  | -2.00% |
 | 12:30 | INR | Current Account (USD) | -23.200B |  | -67.000B |
 | 12:30 | INR | Current Account (USD) (Q1) | 5.70B |  | -8.70B |
 | 12:30 | INR | Trade Balance (USD) (Q1) | -50.900B |  | -71.600B |
@@ -25,15 +25,15 @@
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jun) | -15.1 |  | -19.4 |
 | 16:30 | USD | 3-Month Bill Auction | 5.235% |  | 5.250% |
 | 16:30 | USD | 6-Month Bill Auction | 5.140% |  | 5.150% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.3K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -101.0K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -102.8K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 51.7K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -56.3K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -25.0K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -129.5K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 119.0K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -42.9K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 11.0K |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 61.3K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | -101.0K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -102.8K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 51.7K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -56.3K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -25.0K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -129.5K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 119.0K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -42.9K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | 11.0K |
 | 22:00 | KRW | Consumer Confidence (Jun) |  |  | 98.4 |
