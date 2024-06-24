@@ -31,11 +31,11 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.699% |  | 3.703% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.628% |  | 3.643% |
 | 14:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 9 min | EUR | Moderate | ECB McCaul Speaks |  |  |  |
-| 24 min | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | -19.4 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.150% |
-| 16:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
+| 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) | -15.1 |  | -19.4 |
+| 25 min | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
+| 25 min | USD | Low | 6-Month Bill Auction |  |  | 5.150% |
+| 25 min | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 18:45 | CAD | Moderate | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 52.1K |

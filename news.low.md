@@ -22,9 +22,9 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.437% |  | 3.452% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.699% |  | 3.703% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.628% |  | 3.643% |
-| 24 min | USD | Dallas Fed Mfg Business Index (Jun) |  |  | -19.4 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.250% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 5.150% |
+| 15:30 | USD | Dallas Fed Mfg Business Index (Jun) | -15.1 |  | -19.4 |
+| 25 min | USD | 3-Month Bill Auction |  |  | 5.250% |
+| 25 min | USD | 6-Month Bill Auction |  |  | 5.150% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.1K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 61.3K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -101.0K |
