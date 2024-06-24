@@ -36,4 +36,4 @@
 | 20:30 | MXN | CFTC MXN speculative net positions | 50.3K |  | 119.0K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -37.4K |  | -42.9K |
 | 20:30 | NZD | CFTC NZD speculative net positions | 20.3K |  | 11.0K |
-| 54 min | KRW | Consumer Confidence (Jun) |  |  | 98.4 |
+| 22:00 | KRW | Consumer Confidence (Jun) | 100.9 |  | 98.4 |
