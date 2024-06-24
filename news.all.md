@@ -18,18 +18,20 @@
 | 12:00 | BRL | Low | FGV Consumer confidence (Jun) | 91.1 |  | 89.2 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | INR | Low | Balance of Payments (USD) (Q1) | 30.800B |  | 6.000B |
+| 12:30 | INR | Low | Current Account % of GDP (YoY) | -0.70% |  | -2.00% |
 | 12:30 | INR | Low | Current Account % of GDP (QoQ) (Q1) | 0.60% |  | -1.20% |
-| 12:30 | INR | Low | Current Account (USD) (Q1) | 5.70B |  | -10.50B |
+| 12:30 | INR | Low | Current Account (USD) | -23.200B |  | -67.000B |
+| 12:30 | INR | Low | Current Account (USD) (Q1) | 5.70B |  | -8.70B |
 | 12:30 | INR | Low | Trade Balance (USD) (Q1) | -50.900B |  | -71.600B |
 | 12:30 | BRL | Low | Current Account (USD) (May) | -3.40B |  | -2.50B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (May) | 3.02B |  | 3.90B |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) | 0.17% | 0.18% | 0.15% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jun) | 0.21% | 0.13% | -0.21% |
-| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.452% |
-| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.703% |
-| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.643% |
-| 51 min | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
-| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.437% |  | 3.452% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.699% |  | 3.703% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.628% |  | 3.643% |
+| 14:00 | EUR | Moderate | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
+| 23 min | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
 | 15:15 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jun) |  |  | -19.4 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.250% |
