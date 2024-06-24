@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
-| 04:00 | NZD | Credit Card Spending (YoY) |  |  | -0.6% |
-| 06:00 | SGD | CPI (MoM) (May) |  |  | 0.10% |
+| 04:00 | NZD | Credit Card Spending (YoY) | 0.0% |  | -0.8% |
+| 06:00 | SGD | CPI (MoM) (May) | 0.70% |  | 0.10% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
@@ -13,8 +13,8 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Current Account (USD) (May) |  |  | -2.50B |
 | 12:30 | BRL | Foreign direct investment (USD) (May) |  |  | 3.90B |
-| 13:00 | MXN | 1st Half-Month Core CPI (Jun) |  |  | 0.15% |
-| 13:00 | MXN | 1st Half-Month CPI (Jun) |  |  | -0.21% |
+| 13:00 | MXN | 1st Half-Month Core CPI (Jun) |  | 0.18% | 0.15% |
+| 13:00 | MXN | 1st Half-Month CPI (Jun) |  | 0.13% | -0.21% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.452% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.703% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.643% |

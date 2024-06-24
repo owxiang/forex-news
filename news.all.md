@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (May) |  | 3.00% | 3.10% |
-| 06:00 | SGD | Low | CPI (MoM) (May) |  |  | 0.10% |
-| 06:00 | SGD | Moderate | CPI (YoY) (May) |  | 3.0% | 2.7% |
+| 04:00 | NZD | Low | Credit Card Spending (YoY) | 0.0% |  | -0.8% |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (May) | 3.10% | 3.00% | 3.10% |
+| 06:00 | SGD | Low | CPI (MoM) (May) | 0.70% |  | 0.10% |
+| 06:00 | SGD | Moderate | CPI (YoY) (May) | 3.1% | 3.0% | 2.7% |
 | 08:00 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 09:00 | EUR | Moderate | German Business Expectations (Jun) |  | 91.0 | 90.4 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jun) |  | 88.4 | 88.3 |
@@ -21,8 +21,8 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Current Account (USD) (May) |  |  | -2.50B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (May) |  |  | 3.90B |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) |  |  | 0.15% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  |  | -0.21% |
+| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jun) |  | 0.18% | 0.15% |
+| 13:00 | MXN | Low | 1st Half-Month CPI (Jun) |  | 0.13% | -0.21% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.452% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.703% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.643% |
