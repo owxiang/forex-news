@@ -9,7 +9,7 @@
 | 09:00 | EUR | German Current Assessment (Jun) | 88.3 | 88.4 | 88.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jun) | 88.6 | 89.4 | 89.3 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 11:10 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 4 min | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 15:15 | EUR | ECB McCaul Speaks |  |  |  |
 | 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
