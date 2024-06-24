@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | Low | BoJ Summary of Opinions |  |  |  |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | -0.6% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (May) |  | 3.00% | 3.10% |
 | 06:00 | SGD | Low | CPI (MoM) (May) |  |  | 0.10% |

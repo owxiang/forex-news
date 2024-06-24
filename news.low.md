@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | BoJ Summary of Opinions |  |  |  |
+| 00:50 | JPY | BoJ Summary of Opinions |  |  |  |
 | 04:00 | NZD | Credit Card Spending (YoY) |  |  | -0.6% |
 | 06:00 | SGD | CPI (MoM) (May) |  |  | 0.10% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jun) |  | -26 | -33 |
