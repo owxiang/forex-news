@@ -12,7 +12,7 @@
 | 11:10 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | EUR | ECB Supervisory Board Member Fernandez-Bollo Speaks |  |  |  |
 | 15:15 | EUR | ECB McCaul Speaks |  |  |  |
-| 25 min | EUR | ECB's Schnabel Speaks |  |  |  |
+| 16:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 18:45 | CAD | BoC Gov Macklem Speaks |  |  |  |
 | 19:00 | USD | FOMC Member Daly Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 52.1K |
