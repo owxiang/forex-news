@@ -5,16 +5,16 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.7% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
 | 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 54 min | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.9% | 1.8% |
-| 54 min | JPY | Low | Coincident Indicator (MoM) |  | 1.0% | 2.1% |
-| 54 min | JPY | Low | Leading Index |  | 111.6 | 112.2 |
-| 54 min | JPY | Low | Leading Index (MoM) |  | -0.1% | 0.1% |
-| 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,117.4B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 3.2% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.4% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -6.6% |
-| 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 110.40% |
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 1.9% | 1.8% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) | 1.0% | 1.0% | 2.1% |
+| 06:00 | JPY | Low | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
+| 06:00 | JPY | Low | Leading Index | 110.9 | 111.6 | 112.2 |
+| 07:00 | NOK | Low | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
+| 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
+| 53 min | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
+| 53 min | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.4% | 2.4% |
+| 53 min | EUR | Low | Spanish PPI (YoY) |  |  | -6.6% |
+| 53 min | ZAR | Low | Leading Indicators (Apr) |  |  | 110.40% |
 | 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 11.9% |
 | 09:30 | HKD | Low | Imports (MoM) (May) |  |  | 3.7% |
 | 09:30 | HKD | Low | Trade Balance |  |  | -10.0B |
