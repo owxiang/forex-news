@@ -11,8 +11,8 @@
 | 06:00 | JPY | Low | Leading Index |  | 111.6 | 112.2 |
 | 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,117.4B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 3.2% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.4% | 2.4% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
+| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.4% | 2.4% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -6.6% |
 | 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 110.40% |
 | 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 11.9% |
