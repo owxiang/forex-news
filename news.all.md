@@ -7,8 +7,8 @@
 | 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 1.9% | 1.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) | 1.0% | 1.0% | 2.1% |
-| 06:00 | JPY | Low | Leading Index | 110.9 | 111.6 | 112.2 |
 | 06:00 | JPY | Low | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
+| 06:00 | JPY | Low | Leading Index | 110.9 | 111.6 | 112.2 |
 | 07:00 | NOK | Low | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
