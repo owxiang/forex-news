@@ -11,14 +11,14 @@
 | 07:00 | NOK | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
 | 07:00 | NOK | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
-| 08:00 | EUR | Spanish PPI (YoY) | -4.6% |  | -6.6% |
+| 08:00 | EUR | Spanish PPI (YoY) | -4.6% |  | -6.7% |
 | 08:00 | ZAR | Leading Indicators (Apr) | 113.00% |  | 110.40% |
-| 22 min | HKD | Exports (MoM) (May) |  |  | 11.9% |
-| 22 min | HKD | Imports (MoM) (May) |  |  | 3.7% |
-| 22 min | HKD | Trade Balance |  |  | -10.0B |
-| 10:30 | EUR | German 2-Year Schatz Auction |  |  | 3.010% |
-| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 09:30 | HKD | Exports (MoM) (May) | 14.8% |  | 11.9% |
+| 09:30 | HKD | Imports (MoM) (May) | 9.6% |  | 3.7% |
+| 09:30 | HKD | Trade Balance (May) | -12.1B |  | -10.0B |
+| 10:50 | EUR | German 2-Year Schatz Auction | 2.800% |  | 3.010% |
+| 54 min | GBP | BoE Quarterly Bulletin |  |  |  |
+| 54 min | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (May) |  |  | -0.23 |
 | 13:30 | CAD | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
 | 13:30 | CAD | CPI (YoY) (May) |  | 2.6% | 2.7% |

@@ -13,16 +13,16 @@
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
 | 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.8% | 0.7% | 0.7% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) | -4.6% |  | -6.6% |
+| 08:00 | EUR | Low | Spanish PPI (YoY) | -4.6% |  | -6.7% |
 | 08:00 | ZAR | Low | Leading Indicators (Apr) | 113.00% |  | 110.40% |
-| 22 min | HKD | Low | Exports (MoM) (May) |  |  | 11.9% |
-| 22 min | HKD | Low | Imports (MoM) (May) |  |  | 3.7% |
-| 22 min | HKD | Low | Trade Balance |  |  | -10.0B |
-| 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 3.010% |
+| 09:30 | HKD | Low | Exports (MoM) (May) | 14.8% |  | 11.9% |
+| 09:30 | HKD | Low | Imports (MoM) (May) | 9.6% |  | 3.7% |
+| 09:30 | HKD | Low | Trade Balance (May) | -12.1B |  | -10.0B |
+| 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.800% |  | 3.010% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 12:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 54 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 54 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.23 |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 1.6% |
