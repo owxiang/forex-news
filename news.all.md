@@ -26,8 +26,8 @@
 | 12:30 | INR | Low | Foreign Debt (USD) (Q1) | 663.8B |  | 648.2B |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) | 0.18 | -0.25 | -0.26 |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.4% | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% | 0.2% | 0.2% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 1.8% |  | 1.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% | 0.2% | 0.2% |
 | 13:30 | CAD | Low | CPI (YoY) (May) | 2.9% | 2.6% | 2.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.3% | 0.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) | 2.8% | 2.6% | 2.6% |
@@ -49,4 +49,4 @@
 | 18:00 | USD | Moderate | 2-Year Note Auction | 4.706% |  | 4.917% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) | 20.96T |  | 20.87T |
 | 19:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 2.264M |
+| 25 min | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 2.264M |
