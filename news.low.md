@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.7% |
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
-| 05:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 54 min | USD | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Coincident Indicator (MoM) |  | 1.0% | 2.1% |
 | 06:00 | JPY | Leading Index (MoM) |  | -0.1% | 0.1% |
 | 06:00 | JPY | Leading Index |  | 111.6 | 112.2 |

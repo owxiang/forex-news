@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.7% |
 | 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
-| 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 54 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.9% | 1.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) |  | 1.0% | 2.1% |
 | 06:00 | JPY | Low | Leading Index (MoM) |  | -0.1% | 0.1% |
 | 06:00 | JPY | Low | Leading Index |  | 111.6 | 112.2 |
 | 07:00 | NOK | Low | M3 Money Supply (May) |  |  | 3,117.4B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) |  |  | 3.2% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) |  | 2.4% | 2.4% |
+| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) |  | 0.7% | 0.7% |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -6.6% |
 | 08:00 | ZAR | Low | Leading Indicators (Apr) |  |  | 110.40% |
 | 09:30 | HKD | Low | Exports (MoM) (May) |  |  | 11.9% |
@@ -25,8 +25,8 @@
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.23 |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 1.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 1.6% |
 | 13:30 | CAD | Low | CPI (YoY) (May) |  | 2.6% | 2.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.3% | 0.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 2.6% | 2.6% |
