@@ -36,4 +36,4 @@
 | 15:30 | USD | Dallas Fed Services Revenues (Jun) | 1.9 |  | 6.7 |
 | 15:30 | USD | Texas Services Sector Outlook (Jun) | -4.1 |  | -12.1 |
 | 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 54 min | USD | M2 Money Supply (MoM) |  |  | 20.87T |
+| 18:00 | USD | M2 Money Supply (MoM) | 20.96T |  | 20.87T |

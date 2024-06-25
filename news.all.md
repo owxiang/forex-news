@@ -28,8 +28,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.4% | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 1.8% |  | 1.6% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% | 0.2% | 0.2% |
-| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.3% | 0.5% |
 | 13:30 | CAD | Low | CPI (YoY) (May) | 2.9% | 2.6% | 2.7% |
+| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.3% | 0.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) | 2.8% | 2.6% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 2.9% | 2.8% | 2.8% |
 | 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 5.9% |
@@ -37,8 +37,8 @@
 | 14:00 | USD | Low | House Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
 | 14:00 | USD | Low | House Price Index (Apr) | 424.3 |  | 423.3 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 7.2% | 7.0% | 7.5% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.4% |  | 1.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 7.2% | 7.0% | 7.5% |
 | 15:00 | USD | High | CB Consumer Confidence (Jun) | 100.4 | 100.0 | 101.3 |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jun) | -10 | -3 | 0 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) | -9 |  | 13 |
@@ -46,7 +46,7 @@
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | 1.9 |  | 6.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | -4.1 |  | -12.1 |
 | 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 54 min | USD | Moderate | 2-Year Note Auction |  |  | 4.917% |
-| 54 min | USD | Low | M2 Money Supply (MoM) |  |  | 20.87T |
+| 18:00 | USD | Moderate | 2-Year Note Auction | 4.706% |  | 4.917% |
+| 18:00 | USD | Low | M2 Money Supply (MoM) | 20.96T |  | 20.87T |
 | 19:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 2.264M |
