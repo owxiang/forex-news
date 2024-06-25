@@ -6,8 +6,8 @@
 | 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
 | 05:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Coincident Indicator (MoM) | 1.0% | 1.0% | 2.1% |
-| 06:00 | JPY | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
 | 06:00 | JPY | Leading Index | 110.9 | 111.6 | 112.2 |
+| 06:00 | JPY | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
 | 07:00 | NOK | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
 | 07:00 | NOK | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
 | 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
@@ -17,8 +17,8 @@
 | 09:30 | HKD | Imports (MoM) (May) | 9.6% |  | 3.7% |
 | 09:30 | HKD | Trade Balance (May) | -12.1B |  | -10.0B |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.800% |  | 3.010% |
-| 54 min | GBP | BoE Quarterly Bulletin |  |  |  |
-| 54 min | BRL | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Chicago Fed National Activity (May) |  |  | -0.23 |
 | 13:30 | CAD | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
 | 13:30 | CAD | CPI (YoY) (May) |  | 2.6% | 2.7% |

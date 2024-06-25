@@ -7,8 +7,8 @@
 | 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 1.9% | 1.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) | 1.0% | 1.0% | 2.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
 | 06:00 | JPY | Low | Leading Index | 110.9 | 111.6 | 112.2 |
+| 06:00 | JPY | Low | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
 | 07:00 | NOK | Low | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
 | 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
 | 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
@@ -20,9 +20,9 @@
 | 09:30 | HKD | Low | Trade Balance (May) | -12.1B |  | -10.0B |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.800% |  | 3.010% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 54 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 54 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 54 min | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
+| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 12:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.23 |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 1.6% |

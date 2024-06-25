@@ -5,7 +5,7 @@
 | 06:00 | JPY | BoJ Core CPI (YoY) | 2.1% | 1.9% | 1.8% |
 | 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.8% | 0.7% | 0.7% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 54 min | USD | FOMC Member Bowman Speaks |  |  |  |
+| 12:00 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 13:30 | CAD | Core CPI (YoY) (May) |  |  | 1.6% |
 | 13:30 | CAD | Core CPI (MoM) (May) |  | 0.2% | 0.2% |
 | 13:30 | CAD | CPI (MoM) (May) |  | 0.3% | 0.5% |
