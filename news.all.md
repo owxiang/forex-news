@@ -48,5 +48,5 @@
 | 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 4.706% |  | 4.917% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) | 20.96T |  | 20.87T |
-| 19:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 8 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -3.000M | 2.264M |

@@ -12,5 +12,5 @@
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.4% |  | 1.6% |
 | 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 7.2% | 7.0% | 7.5% |
 | 18:00 | USD | 2-Year Note Auction | 4.706% |  | 4.917% |
-| 19:15 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 8 min | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -3.000M | 2.264M |
