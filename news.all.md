@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.8% |
-| 9 min | AUD | Low | Westpac Consumer Sentiment (Jun) |  |  | -0.3% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.7% |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
 | 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.9% | 1.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) |  | 1.0% | 2.1% |
