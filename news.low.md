@@ -10,12 +10,12 @@
 | 06:00 | JPY | Leading Index | 110.9 | 111.6 | 112.2 |
 | 07:00 | NOK | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
 | 07:00 | NOK | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
-| 53 min | EUR | Spanish GDP (YoY) (Q1) |  | 2.4% | 2.4% |
-| 53 min | EUR | Spanish PPI (YoY) |  |  | -6.6% |
-| 53 min | ZAR | Leading Indicators (Apr) |  |  | 110.40% |
-| 09:30 | HKD | Exports (MoM) (May) |  |  | 11.9% |
-| 09:30 | HKD | Imports (MoM) (May) |  |  | 3.7% |
-| 09:30 | HKD | Trade Balance |  |  | -10.0B |
+| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
+| 08:00 | EUR | Spanish PPI (YoY) | -4.6% |  | -6.6% |
+| 08:00 | ZAR | Leading Indicators (Apr) | 113.00% |  | 110.40% |
+| 22 min | HKD | Exports (MoM) (May) |  |  | 11.9% |
+| 22 min | HKD | Imports (MoM) (May) |  |  | 3.7% |
+| 22 min | HKD | Trade Balance |  |  | -10.0B |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 3.010% |
 | 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
