@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | USD | CB Consumer Confidence (Jun) |  | 100.0 | 102.0 |
+| 15:00 | USD | CB Consumer Confidence (Jun) | 100.4 | 100.0 | 101.3 |
