@@ -26,8 +26,8 @@
 | 13:30 | CAD | Median CPI (YoY) (May) | 2.8% | 2.6% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (May) | 2.9% | 2.8% | 2.8% |
 | 13:55 | USD | Redbook (YoY) | 5.3% |  | 5.9% |
-| 14:00 | USD | House Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Apr) | 6.3% |  | 6.7% |
+| 14:00 | USD | House Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
 | 14:00 | USD | House Price Index (Apr) | 424.3 |  | 423.3 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
 | 15:00 | USD | Richmond Manufacturing Index (Jun) | -10 | -3 | 0 |
@@ -35,5 +35,5 @@
 | 15:00 | USD | Richmond Services Index (Jun) | -11 |  | 3 |
 | 15:30 | USD | Dallas Fed Services Revenues (Jun) | 1.9 |  | 6.7 |
 | 15:30 | USD | Texas Services Sector Outlook (Jun) | -4.1 |  | -12.1 |
-| 55 min | USD | Fed Governor Cook Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) |  |  | 20.87T |
+| 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
+| 54 min | USD | M2 Money Supply (MoM) |  |  | 20.87T |
