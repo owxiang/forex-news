@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 44 min | JPY | Low | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.8% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) |  |  | -0.3% |
+| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.8% |
+| 9 min | AUD | Low | Westpac Consumer Sentiment (Jun) |  |  | -0.3% |
 | 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Moderate | BoJ Core CPI (YoY) |  | 1.9% | 1.8% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) |  | 1.0% | 2.1% |
@@ -25,15 +25,15 @@
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 13:30 | USD | Low | Chicago Fed National Activity (May) |  |  | -0.23 |
 | 13:30 | CAD | Low | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  | 0.2% | 0.2% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (May) |  |  | 1.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (May) |  | 0.2% | 0.2% |
 | 13:30 | CAD | Low | CPI (YoY) (May) |  | 2.6% | 2.7% |
 | 13:30 | CAD | Moderate | CPI (MoM) (May) |  | 0.3% | 0.5% |
 | 13:30 | CAD | Low | Median CPI (YoY) (May) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (May) |  | 2.8% | 2.9% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | Low | House Price Index (MoM) (Apr) |  | 0.5% | 0.1% |
 | 14:00 | USD | Low | House Price Index (YoY) (Apr) |  |  | 6.7% |
+| 14:00 | USD | Low | House Price Index (MoM) (Apr) |  | 0.5% | 0.1% |
 | 14:00 | USD | Low | House Price Index (Apr) |  |  | 423.4 |
 | 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | 0.3% |
 | 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.6% |

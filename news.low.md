@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 3.0% | 2.8% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jun) |  |  | -0.3% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.8% |
+| 9 min | AUD | Westpac Consumer Sentiment (Jun) |  |  | -0.3% |
 | 05:00 | USD | Fed Governor Cook Speaks |  |  |  |
 | 06:00 | JPY | Coincident Indicator (MoM) |  | 1.0% | 2.1% |
 | 06:00 | JPY | Leading Index (MoM) |  | -0.1% | 0.1% |
@@ -25,8 +25,8 @@
 | 13:30 | CAD | Median CPI (YoY) (May) |  | 2.6% | 2.6% |
 | 13:30 | CAD | Trimmed CPI (YoY) (May) |  | 2.8% | 2.9% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.9% |
-| 14:00 | USD | House Price Index (MoM) (Apr) |  | 0.5% | 0.1% |
 | 14:00 | USD | House Price Index (YoY) (Apr) |  |  | 6.7% |
+| 14:00 | USD | House Price Index (MoM) (Apr) |  | 0.5% | 0.1% |
 | 14:00 | USD | House Price Index (Apr) |  |  | 423.4 |
 | 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | 0.3% |
 | 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
