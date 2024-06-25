@@ -24,26 +24,26 @@
 | 12:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
 | 12:30 | INR | Low | Foreign Debt (USD) (Q1) | 663.8B |  | 648.2B |
-| 22 min | USD | Low | Chicago Fed National Activity (May) |  |  | -0.23 |
-| 22 min | CAD | Low | Common CPI (YoY) (May) |  | 2.6% | 2.6% |
-| 22 min | CAD | Moderate | Core CPI (YoY) (May) |  |  | 1.6% |
-| 22 min | CAD | Moderate | Core CPI (MoM) (May) |  | 0.2% | 0.2% |
-| 22 min | CAD | Low | CPI (YoY) (May) |  | 2.6% | 2.7% |
-| 22 min | CAD | Moderate | CPI (MoM) (May) |  | 0.3% | 0.5% |
-| 22 min | CAD | Low | Median CPI (YoY) (May) |  | 2.6% | 2.6% |
-| 22 min | CAD | Low | Trimmed CPI (YoY) (May) |  | 2.8% | 2.9% |
-| 47 min | USD | Low | Redbook (YoY) |  |  | 5.9% |
-| 52 min | USD | Low | House Price Index (YoY) (Apr) |  |  | 6.7% |
-| 52 min | USD | Low | House Price Index (MoM) (Apr) |  | 0.3% | 0.1% |
-| 52 min | USD | Low | House Price Index (Apr) |  |  | 423.4 |
-| 52 min | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) |  |  | 0.3% |
-| 52 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) |  |  | 1.6% |
-| 52 min | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) |  | 7.0% | 7.4% |
-| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
-| 15:00 | USD | High | CB Consumer Confidence (Jun) |  | 100.0 | 102.0 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jun) |  | -3 | 0 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) |  |  | 13 |
-| 15:00 | USD | Low | Richmond Services Index (Jun) |  |  | 3 |
+| 13:30 | USD | Low | Chicago Fed National Activity (May) | 0.18 | -0.25 | -0.26 |
+| 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.4% | 2.6% | 2.6% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 1.8% |  | 1.6% |
+| 13:30 | CAD | Low | CPI (YoY) (May) | 2.9% | 2.6% | 2.7% |
+| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.3% | 0.5% |
+| 13:30 | CAD | Low | Median CPI (YoY) (May) | 2.8% | 2.6% | 2.6% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 2.9% | 2.8% | 2.8% |
+| 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 5.9% |
+| 14:00 | USD | Low | House Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
+| 14:00 | USD | Low | House Price Index (YoY) (Apr) | 6.3% |  | 6.7% |
+| 14:00 | USD | Low | House Price Index (Apr) | 424.3 |  | 423.3 |
+| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.4% |  | 0.3% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.4% |  | 1.6% |
+| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 7.2% | 7.0% | 7.5% |
+| 23 min | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
+| 53 min | USD | High | CB Consumer Confidence (Jun) |  | 100.0 | 102.0 |
+| 53 min | USD | Low | Richmond Manufacturing Index (Jun) |  | -3 | 0 |
+| 53 min | USD | Low | Richmond Manufacturing Shipments (Jun) |  |  | 13 |
+| 53 min | USD | Low | Richmond Services Index (Jun) |  |  | 3 |
 | 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) |  |  | 6.7 |
 | 15:30 | USD | Low | Texas Services Sector Outlook (Jun) |  |  | -12.1 |
 | 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
