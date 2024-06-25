@@ -1,39 +1,37 @@
-## 25 June 2024 - Low Impact Forex News
+## 26 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.7% |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
-| 05:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 06:00 | JPY | Coincident Indicator (MoM) | 1.0% | 1.0% | 2.1% |
-| 06:00 | JPY | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
-| 06:00 | JPY | Leading Index | 110.9 | 111.6 | 112.2 |
-| 07:00 | NOK | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
-| 07:00 | NOK | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
-| 08:00 | EUR | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
-| 08:00 | EUR | Spanish PPI (YoY) | -4.6% |  | -6.7% |
-| 08:00 | ZAR | Leading Indicators (Apr) | 113.00% |  | 110.40% |
-| 09:30 | HKD | Exports (MoM) (May) | 14.8% |  | 11.9% |
-| 09:30 | HKD | Imports (MoM) (May) | 9.6% |  | 3.7% |
-| 09:30 | HKD | Trade Balance (May) | -12.1B |  | -10.0B |
-| 10:50 | EUR | German 2-Year Schatz Auction | 2.800% |  | 3.010% |
-| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
-| 12:00 | BRL | BCB Copom Meeting Minutes |  |  |  |
-| 12:30 | INR | Foreign Debt (USD) (Q1) | 663.8B |  | 648.2B |
-| 13:30 | USD | Chicago Fed National Activity (May) | 0.18 | -0.25 | -0.26 |
-| 13:30 | CAD | Common CPI (YoY) (May) | 2.4% | 2.6% | 2.6% |
-| 13:30 | CAD | CPI (YoY) (May) | 2.9% | 2.6% | 2.7% |
-| 13:30 | CAD | Median CPI (YoY) (May) | 2.8% | 2.6% | 2.6% |
-| 13:30 | CAD | Trimmed CPI (YoY) (May) | 2.9% | 2.8% | 2.8% |
-| 13:55 | USD | Redbook (YoY) | 5.3% |  | 5.9% |
-| 14:00 | USD | House Price Index (YoY) (Apr) | 6.3% |  | 6.7% |
-| 14:00 | USD | House Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
-| 14:00 | USD | House Price Index (Apr) | 424.3 |  | 423.3 |
-| 14:00 | USD | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
-| 15:00 | USD | Richmond Manufacturing Index (Jun) | -10 | -3 | 0 |
-| 15:00 | USD | Richmond Manufacturing Shipments (Jun) | -9 |  | 13 |
-| 15:00 | USD | Richmond Services Index (Jun) | -11 |  | 3 |
-| 15:30 | USD | Dallas Fed Services Revenues (Jun) | 1.9 |  | 6.7 |
-| 15:30 | USD | Texas Services Sector Outlook (Jun) | -4.1 |  | -12.1 |
-| 17:00 | USD | Fed Governor Cook Speaks |  |  |  |
-| 18:00 | USD | M2 Money Supply (MoM) | 20.96T |  | 20.87T |
+| 02:00 | AUD | MI Leading Index (MoM) (May) |  |  | -0.0% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) |  | 3.80% | 3.60% |
+| 06:00 | SGD | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
+| 06:00 | SGD | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
+| 07:45 | EUR | French Consumer Confidence (Jun) |  | 89 | 90 |
+| 09:00 | CHF | ZEW Expectations (Jun) |  |  | 18.2 |
+| 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.067% |
+| 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.648% |
+| 11:00 | GBP | CBI Distributive Trades Survey (Jun) |  | 1 | 8 |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.94% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.9% |
+| 12:00 | USD | MBA Purchase Index |  |  | 146.0 |
+| 12:00 | USD | Mortgage Market Index |  |  | 210.4 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 552.7 |
+| 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
+| 12:30 | INR | M3 Money Supply |  |  | 10.9% |
+| 12:30 | BRL | Bank lending (MoM) (May) |  |  | 0.2% |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
+| 13:30 | USD | Building Permits (MoM) |  | -3.8% | -3.0% |
+| 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.1% |
+| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
+| 14:30 | BRL | Federal Tax Revenue |  |  | 228.90B |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
+| 15:30 | USD | Crude Oil Imports |  |  | -2.480M |
+| 15:30 | USD | Distillate Fuel Production |  |  | -0.272M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | -1.726M |
+| 15:30 | USD | Gasoline Production |  |  | 0.084M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.526M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
+| 15:30 | USD | Gasoline Inventories |  |  | -2.280M |
+| 22:00 | KRW | Manufacturing BSI Index (Jul) |  |  | 72 |

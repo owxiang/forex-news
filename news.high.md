@@ -1,5 +1,6 @@
-## 25 June 2024 - High Impact Forex News
+## 26 June 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | CB Consumer Confidence (Jun) | 100.4 | 100.0 | 101.3 |
+| 15:00 | USD | New Home Sales (May) |  | 636K | 634K |
+| 15:30 | USD | Crude Oil Inventories |  |  | -2.547M |

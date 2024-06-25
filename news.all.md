@@ -1,52 +1,50 @@
-## 25 June 2024 - All Forex News
+## 26 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 2.5% | 3.0% | 2.7% |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jun) | 1.7% |  | -0.3% |
-| 05:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% | 1.9% | 1.8% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) | 1.0% | 1.0% | 2.1% |
-| 06:00 | JPY | Low | Leading Index (MoM) | -0.8% | -0.1% | 0.1% |
-| 06:00 | JPY | Low | Leading Index | 110.9 | 111.6 | 112.2 |
-| 07:00 | NOK | Low | M3 Money Supply (May) | 3,194.3B |  | 3,117.4B |
-| 07:00 | NOK | Low | Credit Indicator (YoY) (May) | 3.1% |  | 3.2% |
-| 08:00 | EUR | Low | Spanish GDP (YoY) (Q1) | 2.5% | 2.4% | 2.4% |
-| 08:00 | EUR | Moderate | Spanish GDP (QoQ) (Q1) | 0.8% | 0.7% | 0.7% |
-| 08:00 | EUR | Low | Spanish PPI (YoY) | -4.6% |  | -6.7% |
-| 08:00 | ZAR | Low | Leading Indicators (Apr) | 113.00% |  | 110.40% |
-| 09:30 | HKD | Low | Exports (MoM) (May) | 14.8% |  | 11.9% |
-| 09:30 | HKD | Low | Imports (MoM) (May) | 9.6% |  | 3.7% |
-| 09:30 | HKD | Low | Trade Balance (May) | -12.1B |  | -10.0B |
-| 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.800% |  | 3.010% |
+| 30 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (May) |  |  | -0.0% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 3.80% | 3.60% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
+| 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 90 |
+| 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | 18.2 |
+| 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.067% |
+| 10:10 | EUR | Low | Italian 6-Month BOT Auction |  |  | 3.648% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) |  | 1 | 8 |
+| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,775.4K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 12:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 12:00 | BRL | Low | BCB Copom Meeting Minutes |  |  |  |
-| 12:30 | INR | Low | Foreign Debt (USD) (Q1) | 663.8B |  | 648.2B |
-| 13:30 | USD | Low | Chicago Fed National Activity (May) | 0.18 | -0.25 | -0.26 |
-| 13:30 | CAD | Low | Common CPI (YoY) (May) | 2.4% | 2.6% | 2.6% |
-| 13:30 | CAD | Moderate | Core CPI (YoY) (May) | 1.8% |  | 1.6% |
-| 13:30 | CAD | Moderate | Core CPI (MoM) (May) | 0.6% | 0.2% | 0.2% |
-| 13:30 | CAD | Low | CPI (YoY) (May) | 2.9% | 2.6% | 2.7% |
-| 13:30 | CAD | Moderate | CPI (MoM) (May) | 0.6% | 0.3% | 0.5% |
-| 13:30 | CAD | Low | Median CPI (YoY) (May) | 2.8% | 2.6% | 2.6% |
-| 13:30 | CAD | Low | Trimmed CPI (YoY) (May) | 2.9% | 2.8% | 2.8% |
-| 13:55 | USD | Low | Redbook (YoY) | 5.3% |  | 5.9% |
-| 14:00 | USD | Low | House Price Index (YoY) (Apr) | 6.3% |  | 6.7% |
-| 14:00 | USD | Low | House Price Index (MoM) (Apr) | 0.2% | 0.3% | 0.1% |
-| 14:00 | USD | Low | House Price Index (Apr) | 424.3 |  | 423.3 |
-| 14:00 | USD | Low | S&P/CS HPI Composite - 20 s.a. (MoM) (Apr) | 0.4% | 0.3% | 0.3% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.4% |  | 1.6% |
-| 14:00 | USD | Moderate | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 7.2% | 7.0% | 7.5% |
-| 15:00 | USD | High | CB Consumer Confidence (Jun) | 100.4 | 100.0 | 101.3 |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jun) | -10 | -3 | 0 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jun) | -9 |  | 13 |
-| 15:00 | USD | Low | Richmond Services Index (Jun) | -11 |  | 3 |
-| 15:30 | USD | Low | Dallas Fed Services Revenues (Jun) | 1.9 |  | 6.7 |
-| 15:30 | USD | Low | Texas Services Sector Outlook (Jun) | -4.1 |  | -12.1 |
-| 17:00 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 18:00 | USD | Moderate | 2-Year Note Auction | 4.706% |  | 4.917% |
-| 18:00 | USD | Low | M2 Money Supply (MoM) | 20.96T |  | 20.87T |
-| 19:15 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | 0.914M | -3.000M | 2.264M |
+| 11:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.94% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 0.9% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 146.0 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 210.4 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 552.7 |
+| 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 12:30 | BRL | Low | Bank lending (MoM) (May) |  |  | 0.2% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
+| 13:30 | USD | Low | Building Permits (MoM) |  | -3.8% | -3.0% |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.1% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 2.4% |
+| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
+| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -4.7% |
+| 15:00 | USD | High | New Home Sales (May) |  | 636K | 634K |
+| 15:30 | USD | High | Crude Oil Inventories |  |  | -2.547M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -2.480M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.307M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.272M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.726M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.084M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.526M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
+| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.280M |
+| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.553% |
+| 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
+| 22:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |

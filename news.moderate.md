@@ -1,16 +1,15 @@
-## 25 June 2024 - Moderate Impact Forex News
+## 26 June 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 06:00 | JPY | BoJ Core CPI (YoY) | 2.1% | 1.9% | 1.8% |
-| 08:00 | EUR | Spanish GDP (QoQ) (Q1) | 0.8% | 0.7% | 0.7% |
+| 30 min | AUD | RBA Assist Gov Kent Speaks |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
+| 11:00 | EUR | France Jobseekers Total |  |  | 2,775.4K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 13:30 | CAD | Core CPI (YoY) (May) | 1.8% |  | 1.6% |
-| 13:30 | CAD | Core CPI (MoM) (May) | 0.6% | 0.2% | 0.2% |
-| 13:30 | CAD | CPI (MoM) (May) | 0.6% | 0.3% | 0.5% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr) | 1.4% |  | 1.6% |
-| 14:00 | USD | S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr) | 7.2% | 7.0% | 7.5% |
-| 18:00 | USD | 2-Year Note Auction | 4.706% |  | 4.917% |
-| 19:15 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | 0.914M | -3.000M | 2.264M |
+| 11:40 | EUR | ECB's Lane Speaks |  |  |  |
+| 13:30 | USD | Building Permits |  | 1.386M | 1.440M |
+| 13:30 | CAD | Wholesale Sales (MoM) |  |  | 2.4% |
+| 15:00 | USD | New Home Sales (MoM) (May) |  |  | -4.7% |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.307M |
+| 18:00 | USD | 5-Year Note Auction |  |  | 4.553% |
+| 21:30 | USD | Fed Bank Stress Test Results |  |  |  |
