@@ -31,5 +31,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.406M |  | 0.526M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.3% |  | -1.5% |
 | 15:30 | USD | Gasoline Inventories | 2.654M | -1.100M | -2.280M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.038B |
+| 18:30 | BRL | Foreign Exchange Flows | -1.699B |  | 1.038B |
 | 22:00 | KRW | Manufacturing BSI Index (Jul) |  |  | 72 |

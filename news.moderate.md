@@ -11,5 +11,5 @@
 | 13:30 | CAD | Wholesale Sales (MoM) | -0.9% |  | 2.4% |
 | 15:00 | USD | New Home Sales (MoM) (May) | -11.3% |  | 2.0% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.226M |  | 0.307M |
-| 55 min | USD | 5-Year Note Auction |  |  | 4.553% |
+| 18:00 | USD | 5-Year Note Auction | 4.331% |  | 4.553% |
 | 21:30 | USD | Fed Bank Stress Test Results |  |  |  |

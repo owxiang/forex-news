@@ -42,7 +42,7 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | 0.406M |  | 0.526M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.3% |  | -1.5% |
 | 15:30 | USD | Low | Gasoline Inventories | 2.654M | -1.100M | -2.280M |
-| 55 min | USD | Moderate | 5-Year Note Auction |  |  | 4.553% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.038B |
+| 18:00 | USD | Moderate | 5-Year Note Auction | 4.331% |  | 4.553% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | -1.699B |  | 1.038B |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |
