@@ -25,13 +25,13 @@
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 4.06% | 4.12% | 3.70% |
 | 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 10.9% |
 | 12:30 | BRL | Low | Bank lending (MoM) (May) | 0.7% |  | 0.2% |
-| 13:00 | USD | Moderate | Building Permits | 1.399M | 1.386M | 1.440M |
 | 13:00 | USD | Low | Building Permits (MoM) | -2.8% | -3.8% | -3.0% |
+| 13:00 | USD | Moderate | Building Permits | 1.399M | 1.386M | 1.440M |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) | -0.9% |  | 2.4% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 15:00 | USD | High | New Home Sales (May) | 619K | 636K | 698K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (May) | -11.3% |  | 2.0% |
+| 15:00 | USD | High | New Home Sales (May) | 619K | 636K | 698K |
 | 15:30 | USD | High | Crude Oil Inventories | 3.591M | -2.600M | -2.547M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.233M |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports | 0.065M |  | -2.480M |
@@ -45,4 +45,4 @@
 | 18:00 | USD | Moderate | 5-Year Note Auction | 4.331% |  | 4.553% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | -1.699B |  | 1.038B |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
-| 22:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |
+| 22:00 | KRW | Low | Manufacturing BSI Index (Jul) | 78 |  | 74 |
