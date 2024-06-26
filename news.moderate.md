@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 00:35 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
 | 07:00 | EUR | GfK German Consumer Climate (Jul) | -21.8 | -19.4 | -21.0 |
-| 11:00 | EUR | France Jobseekers Total |  |  | 2,775.4K |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 54 min | EUR | France Jobseekers Total |  |  | 2,775.4K |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 11:40 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | CAD | Wholesale Sales (MoM) |  |  | 2.4% |
