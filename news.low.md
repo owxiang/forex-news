@@ -6,7 +6,7 @@
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
 | 06:00 | SGD | Industrial Production (YoY) (May) | 2.9% | 2.0% | -1.2% |
 | 06:00 | SGD | Industrial Production (MoM) (May) | 1.1% | 1.8% | 7.5% |
-| 07:45 | EUR | French Consumer Confidence (Jun) |  | 89 | 90 |
+| 38 min | EUR | French Consumer Confidence (Jun) |  | 89 | 90 |
 | 09:00 | CHF | ZEW Expectations (Jun) |  |  | 18.2 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.067% |
 | 10:10 | EUR | Italian 6-Month BOT Auction |  |  | 3.648% |
@@ -20,8 +20,8 @@
 | 12:30 | INR | M3 Money Supply |  |  | 10.9% |
 | 12:30 | BRL | Bank lending (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
 | 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
+| 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
 | 13:30 | USD | Building Permits (MoM) |  | -3.8% | -3.0% |
 | 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.1% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
