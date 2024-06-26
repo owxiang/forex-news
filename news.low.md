@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 02:00 | AUD | MI Leading Index (MoM) (May) | 0.0% |  | -0.0% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
-| 06:00 | SGD | Industrial Production (YoY) (May) | 2.9% | 2.0% | -1.2% |
 | 06:00 | SGD | Industrial Production (MoM) (May) | 1.1% | 1.8% | 7.5% |
+| 06:00 | SGD | Industrial Production (YoY) (May) | 2.9% | 2.0% | -1.2% |
 | 07:45 | EUR | French Consumer Confidence (Jun) | 89 | 89 | 90 |
 | 09:00 | CHF | ZEW Expectations (Jun) | 17.5 |  | 18.2 |
 | 10:10 | GBP | 15-Year Treasury Gilt Auction | 4.314% |  | 4.067% |
@@ -16,8 +16,8 @@
 | 12:00 | USD | MBA Purchase Index | 147.8 |  | 146.0 |
 | 12:00 | USD | Mortgage Market Index | 212.0 |  | 210.4 |
 | 12:00 | USD | Mortgage Refinance Index | 552.4 |  | 552.7 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.39% | 0.45% | 0.44% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jun) | 4.06% | 4.12% | 3.70% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.39% | 0.45% | 0.44% |
 | 12:30 | INR | M3 Money Supply | 10.9% |  | 10.9% |
 | 12:30 | BRL | Bank lending (MoM) (May) | 0.7% |  | 0.2% |
 | 13:00 | USD | Building Permits (MoM) | -2.8% | -3.8% | -3.0% |
