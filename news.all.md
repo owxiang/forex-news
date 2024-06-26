@@ -5,9 +5,9 @@
 | 00:35 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (May) | 0.0% |  | -0.0% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
+| 06:00 | SGD | Low | Industrial Production (YoY) (May) | 2.9% | 2.0% | -1.2% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) | 1.1% | 1.8% | 7.5% |
+| 55 min | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
 | 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 90 |
 | 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | 18.2 |
 | 10:00 | GBP | Low | 15-Year Treasury Gilt Auction |  |  | 4.067% |
@@ -27,24 +27,23 @@
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
-| 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.8% | -3.0% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 2.4% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -4.7% |
 | 15:00 | USD | High | New Home Sales (May) |  | 636K | 634K |
-| 15:30 | USD | High | Crude Oil Inventories |  |  | -2.547M |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -4.7% |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.600M | -2.547M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -2.480M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.307M |
 | 15:30 | USD | Low | Distillate Fuel Production |  |  | -0.272M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  |  | -1.726M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -1.500M | -1.726M |
 | 15:30 | USD | Low | Gasoline Production |  |  | 0.084M |
 | 15:30 | USD | Low | Heating Oil Stockpiles |  |  | 0.526M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.5% |
-| 15:30 | USD | Low | Gasoline Inventories |  |  | -2.280M |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.100M | -2.280M |
 | 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.553% |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
 | 22:00 | KRW | Low | Manufacturing BSI Index (Jul) |  |  | 72 |

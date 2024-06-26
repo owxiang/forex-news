@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:35 | AUD | RBA Assist Gov Kent Speaks |  |  |  |
-| 07:00 | EUR | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
+| 55 min | EUR | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
 | 11:00 | EUR | France Jobseekers Total |  |  | 2,775.4K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:40 | EUR | ECB's Lane Speaks |  |  |  |
