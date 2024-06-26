@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 30 min | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (May) |  |  | -0.0% |
+| 00:35 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
+| 39 min | AUD | Low | MI Leading Index (MoM) (May) |  |  | -0.0% |
 | 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 3.80% | 3.60% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
@@ -25,8 +25,8 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 12:30 | BRL | Low | Bank lending (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
+| 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
 | 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.8% | -3.0% |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.1% |

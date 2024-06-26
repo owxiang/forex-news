@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | AUD | MI Leading Index (MoM) (May) |  |  | -0.0% |
+| 39 min | AUD | MI Leading Index (MoM) (May) |  |  | -0.0% |
 | 02:30 | AUD | Monthly CPI Indicator (YoY) (May) |  | 3.80% | 3.60% |
 | 06:00 | SGD | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
 | 06:00 | SGD | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
@@ -20,8 +20,8 @@
 | 12:30 | INR | M3 Money Supply |  |  | 10.9% |
 | 12:30 | BRL | Bank lending (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
 | 13:00 | BRL | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
+| 13:00 | BRL | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
 | 13:30 | USD | Building Permits (MoM) |  | -3.8% | -3.0% |
 | 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 1.1% |
 | 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
