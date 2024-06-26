@@ -3,10 +3,10 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:35 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 39 min | AUD | Low | MI Leading Index (MoM) (May) |  |  | -0.0% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) |  | 3.80% | 3.60% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
+| 02:00 | AUD | Low | MI Leading Index (MoM) (May) | 0.0% |  | -0.0% |
+| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) |  | -19.4 | -20.9 |
 | 07:45 | EUR | Low | French Consumer Confidence (Jun) |  | 89 | 90 |
 | 09:00 | CHF | Low | ZEW Expectations (Jun) |  |  | 18.2 |
@@ -27,8 +27,8 @@
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
-| 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.8% | -3.0% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 2.4% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |

@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | AUD | MI Leading Index (MoM) (May) |  |  | -0.0% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) |  | 3.80% | 3.60% |
-| 06:00 | SGD | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
+| 02:00 | AUD | MI Leading Index (MoM) (May) | 0.0% |  | -0.0% |
+| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
 | 06:00 | SGD | Industrial Production (YoY) (May) |  | 2.0% | -1.6% |
+| 06:00 | SGD | Industrial Production (MoM) (May) |  | 1.8% | 7.1% |
 | 07:45 | EUR | French Consumer Confidence (Jun) |  | 89 | 90 |
 | 09:00 | CHF | ZEW Expectations (Jun) |  |  | 18.2 |
 | 10:00 | GBP | 15-Year Treasury Gilt Auction |  |  | 4.067% |
