@@ -25,16 +25,16 @@
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 12:30 | BRL | Low | Bank lending (MoM) (May) |  |  | 0.2% |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
 | 13:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) |  | 0.45% | 0.44% |
+| 13:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) |  | 4.12% | 3.70% |
 | 13:30 | USD | Low | Building Permits (MoM) |  | -3.8% | -3.0% |
 | 13:30 | USD | Moderate | Building Permits |  | 1.386M | 1.440M |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) |  |  | 1.1% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | 2.4% |
 | 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
 | 14:30 | BRL | Low | Federal Tax Revenue |  |  | 228.90B |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -4.7% |
 | 15:00 | USD | High | New Home Sales (May) |  | 636K | 634K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (May) |  |  | -4.7% |
 | 15:30 | USD | High | Crude Oil Inventories |  |  | -2.547M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.282M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -2.480M |
