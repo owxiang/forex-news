@@ -15,32 +15,32 @@
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.378% |  | 0.418% |
 | 07:00 | NOK | Low | Unemployment Rate (May) | 4.1% |  | 4.3% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
-| 55 min | EUR | Low | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
-| 55 min | EUR | Low | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
-| 55 min | EUR | Low | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
-| 55 min | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 0.3% |
-| 55 min | EUR | Low | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
-| 55 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 09:00 | EUR | Low | Italian Business Confidence (Jun) | 86.8 | 88.7 | 88.2 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Jun) | 98.3 | 97.0 | 96.4 |
+| 09:00 | EUR | Low | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (May) | 0.3% |  | 0.3% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
+| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 10:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 10:00 | EUR | Low | Italian PPI (YoY) (May) |  |  | -5.9% |
-| 10:00 | EUR | Low | Italian PPI (MoM) (May) |  |  | -0.9% |
-| 10:00 | EUR | Low | Business and Consumer Survey (Jun) |  | 96.2 | 96.0 |
-| 10:00 | EUR | Low | Business Climate (Jun) |  |  | -0.39 |
-| 10:00 | EUR | Low | Consumer Confidence (Jun) |  | -14.0 | -14.0 |
-| 10:00 | EUR | Low | Consumer Inflation Expectation (Jun) |  |  | 12.5 |
-| 10:00 | EUR | Low | Selling Price Expectations (Jun) |  |  | 6.4 |
-| 10:00 | EUR | Low | Services Sentiment (Jun) |  | 6.4 | 6.5 |
-| 10:00 | EUR | Low | Industrial Sentiment (Jun) |  | -9.6 | -9.9 |
-| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.97% |
-| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.54% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (May) | -3.5% |  | -1.4% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (May) | 0.3% |  | -0.7% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jun) | 95.9 | 96.2 | 96.1 |
+| 10:00 | EUR | Low | Business Climate (Jun) | -0.46 |  | -0.40 |
+| 10:00 | EUR | Low | Consumer Confidence (Jun) | -14.0 | -14.0 | -14.3 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jun) | 13.1 |  | 12.5 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jun) | 6.1 |  | 6.5 |
+| 10:00 | EUR | Low | Services Sentiment (Jun) | 6.5 | 6.4 | 6.8 |
+| 10:00 | EUR | Low | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
-| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 5.1% |
-| 11:00 | EUR | Moderate | Euro Summit |  |  |  |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
-| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) | 0.1% |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) | 4.6% |  | 5.1% |
+| 10:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.01% |  | 3.97% |
+| 10:40 | EUR | Low | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
+| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 55 min | BRL | Low | BCB Inflation Report |  |  |  |
+| 55 min | BRL | Low | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
 | 12:30 | EUR | Low | Spanish Business Confidence |  |  | -6.3 |
 | 12:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  |  | 240.03K |
 | 13:00 | MXN | Low | Trade Balance (May) |  | -2.040B | -3.746B |
