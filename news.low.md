@@ -7,11 +7,11 @@
 | 00:50 | JPY | Large Retailers' Sales (MoM) | 1.7% |  | 1.2% |
 | 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 4.0% |  | 3.0% |
 | 00:50 | JPY | Retail Sales (YoY) (May) | 3.0% | 2.0% | 2.0% |
-| 39 min | AUD | MI Inflation Expectations |  |  | 4.1% |
-| 39 min | NZD | ANZ Business Confidence (Jun) |  |  | 11.2 |
-| 39 min | NZD | NBNZ Own Activity (Jun) |  |  | 11.8% |
-| 02:30 | CNY | Chinese Industrial profit YTD (May) |  |  | 4.3% |
-| 04:00 | NZD | M3 Money Supply (May) |  |  | 412,379.0B |
+| 02:00 | AUD | MI Inflation Expectations | 4.4% |  | 4.1% |
+| 02:00 | NZD | ANZ Business Confidence (Jun) | 6.1 |  | 11.2 |
+| 02:00 | NZD | NBNZ Own Activity (Jun) | 12.2% |  | 11.8% |
+| 02:30 | CNY | Chinese Industrial profit YTD (May) | 3.4% |  | 4.3% |
+| 42 min | NZD | M3 Money Supply (May) |  |  | 412,379.0B |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.418% |
 | 07:00 | NOK | Unemployment Rate (May) |  |  | 4.3% |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.6 | -9.9 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.54% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 10:30 | ZAR | PPI (MoM) (May) |  |  | 0.5% |
 | 10:30 | ZAR | PPI (YoY) (May) |  |  | 5.1% |
+| 10:30 | ZAR | PPI (MoM) (May) |  |  | 0.5% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
 | 12:30 | EUR | Spanish Business Confidence |  |  | -6.3 |

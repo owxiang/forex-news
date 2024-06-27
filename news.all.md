@@ -7,11 +7,11 @@
 | 00:50 | JPY | Low | Large Retailers' Sales (MoM) | 1.7% |  | 1.2% |
 | 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (May) | 4.0% |  | 3.0% |
 | 00:50 | JPY | Low | Retail Sales (YoY) (May) | 3.0% | 2.0% | 2.0% |
-| 39 min | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
-| 39 min | NZD | Low | ANZ Business Confidence (Jun) |  |  | 11.2 |
-| 39 min | NZD | Low | NBNZ Own Activity (Jun) |  |  | 11.8% |
-| 02:30 | CNY | Low | Chinese Industrial profit YTD (May) |  |  | 4.3% |
-| 04:00 | NZD | Low | M3 Money Supply (May) |  |  | 412,379.0B |
+| 02:00 | AUD | Low | MI Inflation Expectations | 4.4% |  | 4.1% |
+| 02:00 | NZD | Low | ANZ Business Confidence (Jun) | 6.1 |  | 11.2 |
+| 02:00 | NZD | Low | NBNZ Own Activity (Jun) | 12.2% |  | 11.8% |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (May) | 3.4% |  | 4.3% |
+| 42 min | NZD | Low | M3 Money Supply (May) |  |  | 412,379.0B |
 | 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.418% |
 | 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
@@ -35,8 +35,8 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.54% |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
 | 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 5.1% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
 | 11:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
