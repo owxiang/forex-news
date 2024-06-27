@@ -17,8 +17,8 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Italian Business Confidence (Jun) | 86.8 | 88.7 | 88.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) | 98.3 | 97.0 | 96.4 |
-| 09:00 | EUR | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
 | 09:00 | EUR | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
+| 09:00 | EUR | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
@@ -32,30 +32,30 @@
 | 10:00 | EUR | Services Sentiment (Jun) | 6.5 | 6.4 | 6.8 |
 | 10:00 | EUR | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 10:30 | ZAR | PPI (MoM) (May) | 0.1% |  | 0.5% |
 | 10:30 | ZAR | PPI (YoY) (May) | 4.6% |  | 5.1% |
+| 10:30 | ZAR | PPI (MoM) (May) | 0.1% |  | 0.5% |
 | 10:40 | EUR | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) | 0.81% | 0.87% | 0.89% |
 | 12:30 | EUR | Spanish Business Confidence | -5.7 |  | -6.3 |
 | 13:00 | MXN | Trade Balance (May) | 1.991B | -2.040B | -3.746B |
-| 13:00 | MXN | Trade Balance (USD) (May) | 0.971B |  | -2.578B |
+| 13:00 | MXN | Trade Balance (USD) (May) | 0.971B |  | -2.029B |
 | 13:00 | MXN | Unemployment Rate (May) | 2.60% |  | 2.60% |
 | 13:00 | MXN | Unemployment Rate n.s.a. (May) | 2.60% | 2.70% | 2.60% |
 | 13:00 | BRL | Brazilian PPI (MoM) (May) | 0.45% |  | 0.67% |
-| 22 min | USD | Corporate Profits (QoQ) (Q1) |  | -1.7% | 3.9% |
-| 22 min | USD | Durables Excluding Defense (MoM) (May) |  |  | 0.0% |
-| 22 min | USD | Durables Excluding Transport (MoM) |  |  | 0.4% |
-| 22 min | USD | GDP Sales (Q1) |  | 1.7% | 3.9% |
-| 22 min | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | 0.3% |
-| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 232.75K |
-| 22 min | USD | PCE Prices (Q1) |  | 3.3% | 1.8% |
-| 22 min | USD | Real Consumer Spending (Q1) |  | 2.0% | 3.3% |
-| 22 min | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.1% |
-| 22 min | CAD | Average Weekly Earnings (YoY) (Apr) |  |  | 4.20% |
-| 15:00 | USD | Pending Home Sales Index (May) |  |  | 72.3 |
-| 15:30 | USD | Natural Gas Storage |  | 53B | 71B |
-| 16:00 | USD | KC Fed Composite Index (Jun) |  |  | -2 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jun) |  |  | -1 |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) | -2.7% | -1.7% | 3.9% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (May) | -0.2% |  | -0.5% |
+| 13:30 | USD | Durables Excluding Transport (MoM) | -0.1% |  | 0.4% |
+| 13:30 | USD | GDP Sales (Q1) | 1.8% | 1.7% | 3.9% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) | -0.6% |  | 0.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 236.00K |  | 233.00K |
+| 13:30 | USD | PCE Prices (Q1) | 3.4% | 3.3% | 1.8% |
+| 13:30 | USD | Real Consumer Spending (Q1) | 1.5% | 2.0% | 3.3% |
+| 13:30 | USD | Wholesale Inventories (MoM) | 0.6% | 0.1% | 0.1% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) | 3.69% |  | 4.14% |
+| 15:00 | USD | Pending Home Sales Index (May) | 70.8 |  | 72.3 |
+| 24 min | USD | Natural Gas Storage |  | 53B | 71B |
+| 54 min | USD | KC Fed Composite Index (Jun) |  |  | -2 |
+| 54 min | USD | KC Fed Manufacturing Index (Jun) |  |  | -1 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.230% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |

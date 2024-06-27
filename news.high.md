@@ -2,6 +2,6 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | USD | Durable Goods Orders (MoM) (May) |  | -0.5% | 0.7% |
-| 22 min | USD | GDP (QoQ) (Q1) |  | 1.3% | 3.4% |
-| 22 min | USD | Initial Jobless Claims |  | 236K | 238K |
+| 13:30 | USD | Durable Goods Orders (MoM) (May) | 0.1% | -0.5% | 0.2% |
+| 13:30 | USD | GDP (QoQ) (Q1) | 1.4% | 1.3% | 3.4% |
+| 13:30 | USD | Initial Jobless Claims | 233K | 236K | 239K |
