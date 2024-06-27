@@ -1,48 +1,81 @@
-## 26 June 2024 - All Forex News
+## 27 June 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:35 | AUD | Moderate | RBA Assist Gov Kent Speaks |  |  |  |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (May) | 0.0% |  | -0.0% |
-| 02:30 | AUD | Low | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
-| 06:00 | SGD | Low | Industrial Production (MoM) (May) | 1.1% | 1.8% | 7.5% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (May) | 2.9% | 2.0% | -1.2% |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Jul) | -21.8 | -19.4 | -21.0 |
-| 07:45 | EUR | Low | French Consumer Confidence (Jun) | 89 | 89 | 90 |
-| 09:00 | CHF | Low | ZEW Expectations (Jun) | 17.5 |  | 18.2 |
-| 10:10 | GBP | Low | 15-Year Treasury Gilt Auction | 4.314% |  | 4.067% |
-| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jun) | -24 | 1 | 8 |
-| 11:00 | EUR | Moderate | France Jobseekers Total (May) | 2,816.3K |  | 2,775.4K |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -1,062.0B |  | 655.1B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -85.5B |  | 81.6B |
+| 00:50 | JPY | Low | Large Retailers' Sales (MoM) | 1.7% |  | 1.2% |
+| 00:50 | JPY | Low | Large Scale Retail Sales YoY (YoY) (May) | 4.0% |  | 3.0% |
+| 00:50 | JPY | Low | Retail Sales (YoY) (May) | 3.0% | 2.0% | 2.0% |
+| 39 min | AUD | Low | MI Inflation Expectations |  |  | 4.1% |
+| 39 min | NZD | Low | ANZ Business Confidence (Jun) |  |  | 11.2 |
+| 39 min | NZD | Low | NBNZ Own Activity (Jun) |  |  | 11.8% |
+| 02:30 | CNY | Low | Chinese Industrial profit YTD (May) |  |  | 4.3% |
+| 04:00 | NZD | Low | M3 Money Supply (May) |  |  | 412,379.0B |
+| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.418% |
+| 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
+| 09:00 | EUR | Low | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 0.3% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
+| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 10:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
+| 10:00 | EUR | Low | Italian PPI (YoY) (May) |  |  | -5.9% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (May) |  |  | -0.9% |
+| 10:00 | EUR | Low | Business and Consumer Survey (Jun) |  | 96.2 | 96.0 |
+| 10:00 | EUR | Low | Business Climate (Jun) |  |  | -0.39 |
+| 10:00 | EUR | Low | Consumer Confidence (Jun) |  | -14.0 | -14.0 |
+| 10:00 | EUR | Low | Consumer Inflation Expectation (Jun) |  |  | 12.5 |
+| 10:00 | EUR | Low | Selling Price Expectations (Jun) |  |  | 6.4 |
+| 10:00 | EUR | Low | Services Sentiment (Jun) |  | 6.4 | 6.5 |
+| 10:00 | EUR | Low | Industrial Sentiment (Jun) |  | -9.6 | -9.9 |
+| 10:10 | EUR | Moderate | Italian 10-Year BTP Auction |  |  | 3.97% |
+| 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.54% |
+| 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
+| 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
+| 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 5.1% |
+| 11:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:30 | EUR | Low | Italian 6-Month BOT Auction | 3.724% |  | 3.648% |
-| 11:40 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.93% |  | 6.94% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | 0.8% |  | 0.9% |
-| 12:00 | USD | Low | MBA Purchase Index | 147.8 |  | 146.0 |
-| 12:00 | USD | Low | Mortgage Market Index | 212.0 |  | 210.4 |
-| 12:00 | USD | Low | Mortgage Refinance Index | 552.4 |  | 552.7 |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jun) | 4.06% | 4.12% | 3.70% |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jun) | 0.39% | 0.45% | 0.44% |
-| 12:30 | INR | Low | M3 Money Supply | 10.9% |  | 10.9% |
-| 12:30 | BRL | Low | Bank lending (MoM) (May) | 0.7% |  | 0.2% |
-| 13:00 | USD | Moderate | Building Permits | 1.399M | 1.386M | 1.440M |
-| 13:00 | USD | Low | Building Permits (MoM) | -2.8% | -3.8% | -3.0% |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | CAD | Moderate | Wholesale Sales (MoM) | -0.9% |  | 2.4% |
-| 14:00 | CHF | Low | SNB Quarterly Bulletin |  |  |  |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (May) | -11.3% |  | 2.0% |
-| 15:00 | USD | High | New Home Sales (May) | 619K | 636K | 698K |
-| 15:30 | USD | High | Crude Oil Inventories | 3.591M | -2.600M | -2.547M |
-| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.233M |  | -0.282M |
-| 15:30 | USD | Low | Crude Oil Imports | 0.065M |  | -2.480M |
-| 15:30 | USD | Moderate | Cushing Crude Oil Inventories | -0.226M |  | 0.307M |
-| 15:30 | USD | Low | Distillate Fuel Production | 0.142M |  | -0.272M |
-| 15:30 | USD | Low | EIA Weekly Distillates Stocks | -0.377M | -1.500M | -1.726M |
-| 15:30 | USD | Low | Gasoline Production | -0.289M |  | 0.084M |
-| 15:30 | USD | Low | Heating Oil Stockpiles | 0.406M |  | 0.526M |
-| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.3% |  | -1.5% |
-| 15:30 | USD | Low | Gasoline Inventories | 2.654M | -1.100M | -2.280M |
-| 18:00 | USD | Moderate | 5-Year Note Auction | 4.331% |  | 4.553% |
-| 18:30 | BRL | Low | Foreign Exchange Flows | -1.699B |  | 1.038B |
+| 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
+| 12:30 | EUR | Low | Spanish Business Confidence |  |  | -6.3 |
+| 12:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  |  | 240.03K |
+| 13:00 | MXN | Low | Trade Balance (May) |  | -2.040B | -3.746B |
+| 13:00 | MXN | Low | Trade Balance (USD) (May) |  |  | -2.578B |
+| 13:00 | MXN | Low | Unemployment Rate (May) |  |  | 2.60% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  | 2.70% | 2.60% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (May) |  |  | 0.74% |
+| 13:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,828K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.2% | 0.4% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.60% | 2.00% |
+| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | -1.7% | 3.9% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | -0.5% | 0.7% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 0.0% |
+| 13:30 | USD | Low | Durables Excluding Transport (MoM) |  |  | 0.4% |
+| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 1.3% | 3.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
+| 13:30 | USD | Low | GDP Sales (Q1) |  | 1.7% | 3.9% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | 0.3% |
+| 13:30 | USD | Moderate | Goods Trade Balance (May) |  | -96.00B | -99.41B |
+| 13:30 | USD | High | Initial Jobless Claims |  | 236K | 238K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 232.75K |
+| 13:30 | USD | Low | PCE Prices (Q1) |  | 3.3% | 1.8% |
+| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 2.0% | 3.3% |
+| 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.3% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | 0.1% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 4.20% |
+| 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) |  | 0.6% | -7.7% |
+| 15:00 | USD | Low | Pending Home Sales Index (May) |  |  | 72.3 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
+| 15:30 | USD | Low | Natural Gas Storage |  | 53B | 71B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jun) |  |  | -2 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) |  |  | -1 |
+| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.230% |
+| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.650% |
+| 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 11.00% | 11.00% |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
-| 22:00 | KRW | Low | Manufacturing BSI Index (Jul) | 78 |  | 74 |

@@ -1,6 +1,7 @@
-## 26 June 2024 - High Impact Forex News
+## 27 June 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 15:00 | USD | New Home Sales (May) | 619K | 636K | 698K |
-| 15:30 | USD | Crude Oil Inventories | 3.591M | -2.600M | -2.547M |
+| 13:30 | USD | Durable Goods Orders (MoM) (May) |  | -0.5% | 0.7% |
+| 13:30 | USD | GDP (QoQ) (Q1) |  | 1.3% | 3.4% |
+| 13:30 | USD | Initial Jobless Claims |  | 236K | 238K |

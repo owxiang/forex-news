@@ -1,35 +1,61 @@
-## 26 June 2024 - Low Impact Forex News
+## 27 June 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:00 | AUD | MI Leading Index (MoM) (May) | 0.0% |  | -0.0% |
-| 02:30 | AUD | Monthly CPI Indicator (YoY) (May) | 4.00% | 3.80% | 3.60% |
-| 06:00 | SGD | Industrial Production (MoM) (May) | 1.1% | 1.8% | 7.5% |
-| 06:00 | SGD | Industrial Production (YoY) (May) | 2.9% | 2.0% | -1.2% |
-| 07:45 | EUR | French Consumer Confidence (Jun) | 89 | 89 | 90 |
-| 09:00 | CHF | ZEW Expectations (Jun) | 17.5 |  | 18.2 |
-| 10:10 | GBP | 15-Year Treasury Gilt Auction | 4.314% |  | 4.067% |
-| 11:00 | GBP | CBI Distributive Trades Survey (Jun) | -24 | 1 | 8 |
-| 11:30 | EUR | Italian 6-Month BOT Auction | 3.724% |  | 3.648% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.93% |  | 6.94% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | 0.8% |  | 0.9% |
-| 12:00 | USD | MBA Purchase Index | 147.8 |  | 146.0 |
-| 12:00 | USD | Mortgage Market Index | 212.0 |  | 210.4 |
-| 12:00 | USD | Mortgage Refinance Index | 552.4 |  | 552.7 |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Jun) | 4.06% | 4.12% | 3.70% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jun) | 0.39% | 0.45% | 0.44% |
-| 12:30 | INR | M3 Money Supply | 10.9% |  | 10.9% |
-| 12:30 | BRL | Bank lending (MoM) (May) | 0.7% |  | 0.2% |
-| 13:00 | USD | Building Permits (MoM) | -2.8% | -3.8% | -3.0% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 14:00 | CHF | SNB Quarterly Bulletin |  |  |  |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.233M |  | -0.282M |
-| 15:30 | USD | Crude Oil Imports | 0.065M |  | -2.480M |
-| 15:30 | USD | Distillate Fuel Production | 0.142M |  | -0.272M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -0.377M | -1.500M | -1.726M |
-| 15:30 | USD | Gasoline Production | -0.289M |  | 0.084M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.406M |  | 0.526M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.3% |  | -1.5% |
-| 15:30 | USD | Gasoline Inventories | 2.654M | -1.100M | -2.280M |
-| 18:30 | BRL | Foreign Exchange Flows | -1.699B |  | 1.038B |
-| 22:00 | KRW | Manufacturing BSI Index (Jul) | 78 |  | 74 |
+| 00:50 | JPY | Foreign Bonds Buying | -1,062.0B |  | 655.1B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -85.5B |  | 81.6B |
+| 00:50 | JPY | Large Retailers' Sales (MoM) | 1.7% |  | 1.2% |
+| 00:50 | JPY | Large Scale Retail Sales YoY (YoY) (May) | 4.0% |  | 3.0% |
+| 00:50 | JPY | Retail Sales (YoY) (May) | 3.0% | 2.0% | 2.0% |
+| 39 min | AUD | MI Inflation Expectations |  |  | 4.1% |
+| 39 min | NZD | ANZ Business Confidence (Jun) |  |  | 11.2 |
+| 39 min | NZD | NBNZ Own Activity (Jun) |  |  | 11.8% |
+| 02:30 | CNY | Chinese Industrial profit YTD (May) |  |  | 4.3% |
+| 04:00 | NZD | M3 Money Supply (May) |  |  | 412,379.0B |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.418% |
+| 07:00 | NOK | Unemployment Rate (May) |  |  | 4.3% |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
+| 09:00 | EUR | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
+| 09:00 | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
+| 09:00 | EUR | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
+| 09:00 | EUR | Loans to Non Financial Corporations (May) |  |  | 0.3% |
+| 09:00 | EUR | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
+| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 10:00 | EUR | Italian PPI (YoY) (May) |  |  | -5.9% |
+| 10:00 | EUR | Italian PPI (MoM) (May) |  |  | -0.9% |
+| 10:00 | EUR | Business and Consumer Survey (Jun) |  | 96.2 | 96.0 |
+| 10:00 | EUR | Business Climate (Jun) |  |  | -0.39 |
+| 10:00 | EUR | Consumer Confidence (Jun) |  | -14.0 | -14.0 |
+| 10:00 | EUR | Consumer Inflation Expectation (Jun) |  |  | 12.5 |
+| 10:00 | EUR | Selling Price Expectations (Jun) |  |  | 6.4 |
+| 10:00 | EUR | Services Sentiment (Jun) |  | 6.4 | 6.5 |
+| 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.6 | -9.9 |
+| 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.54% |
+| 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
+| 10:30 | ZAR | PPI (MoM) (May) |  |  | 0.5% |
+| 10:30 | ZAR | PPI (YoY) (May) |  |  | 5.1% |
+| 12:00 | BRL | BCB Inflation Report |  |  |  |
+| 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
+| 12:30 | EUR | Spanish Business Confidence |  |  | -6.3 |
+| 12:30 | BRL | CAGED Net Payroll Jobs (May) |  |  | 240.03K |
+| 13:00 | MXN | Trade Balance (May) |  | -2.040B | -3.746B |
+| 13:00 | MXN | Trade Balance (USD) (May) |  |  | -2.578B |
+| 13:00 | MXN | Unemployment Rate (May) |  |  | 2.60% |
+| 13:00 | MXN | Unemployment Rate n.s.a. (May) |  | 2.70% | 2.60% |
+| 13:00 | BRL | Brazilian PPI (MoM) (May) |  |  | 0.74% |
+| 13:30 | USD | Corporate Profits (QoQ) (Q1) |  | -1.7% | 3.9% |
+| 13:30 | USD | Durables Excluding Defense (MoM) (May) |  |  | 0.0% |
+| 13:30 | USD | Durables Excluding Transport (MoM) |  |  | 0.4% |
+| 13:30 | USD | GDP Sales (Q1) |  | 1.7% | 3.9% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | 0.3% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 232.75K |
+| 13:30 | USD | PCE Prices (Q1) |  | 3.3% | 1.8% |
+| 13:30 | USD | Real Consumer Spending (Q1) |  | 2.0% | 3.3% |
+| 13:30 | USD | Wholesale Inventories (MoM) |  | 0.1% | 0.1% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) |  |  | 4.20% |
+| 15:00 | USD | Pending Home Sales Index (May) |  |  | 72.3 |
+| 15:30 | USD | Natural Gas Storage |  | 53B | 71B |
+| 16:00 | USD | KC Fed Composite Index (Jun) |  |  | -2 |
+| 16:00 | USD | KC Fed Manufacturing Index (Jun) |  |  | -1 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.230% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
