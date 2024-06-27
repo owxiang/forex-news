@@ -39,35 +39,34 @@
 | 10:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.01% |  | 3.97% |
 | 10:40 | EUR | Low | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 55 min | BRL | Low | BCB Inflation Report |  |  |  |
-| 55 min | BRL | Low | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
-| 12:30 | EUR | Low | Spanish Business Confidence |  |  | -6.3 |
-| 12:30 | BRL | Low | CAGED Net Payroll Jobs (May) |  |  | 240.03K |
-| 13:00 | MXN | Low | Trade Balance (May) |  | -2.040B | -3.746B |
-| 13:00 | MXN | Low | Trade Balance (USD) (May) |  |  | -2.578B |
-| 13:00 | MXN | Low | Unemployment Rate (May) |  |  | 2.60% |
-| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) |  | 2.70% | 2.60% |
-| 13:00 | BRL | Low | Brazilian PPI (MoM) (May) |  |  | 0.74% |
-| 13:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,828K |
-| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.2% | 0.4% |
-| 13:30 | USD | Moderate | Core PCE Prices (Q1) |  | 3.60% | 2.00% |
-| 13:30 | USD | Low | Corporate Profits (QoQ) (Q1) |  | -1.7% | 3.9% |
-| 13:30 | USD | High | Durable Goods Orders (MoM) (May) |  | -0.5% | 0.7% |
-| 13:30 | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 0.0% |
-| 13:30 | USD | Low | Durables Excluding Transport (MoM) |  |  | 0.4% |
-| 13:30 | USD | High | GDP (QoQ) (Q1) |  | 1.3% | 3.4% |
-| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
-| 13:30 | USD | Low | GDP Sales (Q1) |  | 1.7% | 3.9% |
-| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | 0.3% |
-| 13:30 | USD | Moderate | Goods Trade Balance (May) |  | -96.00B | -99.41B |
-| 13:30 | USD | High | Initial Jobless Claims |  | 236K | 238K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 232.75K |
-| 13:30 | USD | Low | PCE Prices (Q1) |  | 3.3% | 1.8% |
-| 13:30 | USD | Low | Real Consumer Spending (Q1) |  | 2.0% | 3.3% |
-| 13:30 | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.3% |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | 0.1% |
-| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 4.20% |
+| 12:00 | BRL | Low | BCB Inflation Report |  |  |  |
+| 12:00 | BRL | Low | IGP-M Inflation Index (MoM) (Jun) | 0.81% | 0.87% | 0.89% |
+| 12:30 | EUR | Low | Spanish Business Confidence | -5.7 |  | -6.3 |
+| 13:00 | MXN | Low | Trade Balance (May) | 1.991B | -2.040B | -3.746B |
+| 13:00 | MXN | Low | Trade Balance (USD) (May) | 0.971B |  | -2.578B |
+| 13:00 | MXN | Low | Unemployment Rate (May) | 2.60% |  | 2.60% |
+| 13:00 | MXN | Low | Unemployment Rate n.s.a. (May) | 2.60% | 2.70% | 2.60% |
+| 13:00 | BRL | Low | Brazilian PPI (MoM) (May) | 0.45% |  | 0.67% |
+| 7 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,820K | 1,828K |
+| 22 min | USD | Moderate | Core Durable Goods Orders (MoM) (May) |  | 0.2% | 0.4% |
+| 22 min | USD | Moderate | Core PCE Prices (Q1) |  | 3.60% | 2.00% |
+| 22 min | USD | Low | Corporate Profits (QoQ) (Q1) |  | -1.7% | 3.9% |
+| 22 min | USD | High | Durable Goods Orders (MoM) (May) |  | -0.5% | 0.7% |
+| 22 min | USD | Low | Durables Excluding Defense (MoM) (May) |  |  | 0.0% |
+| 22 min | USD | Low | Durables Excluding Transport (MoM) |  |  | 0.4% |
+| 22 min | USD | High | GDP (QoQ) (Q1) |  | 1.3% | 3.4% |
+| 22 min | USD | Moderate | GDP Price Index (QoQ) (Q1) |  | 3.1% | 1.7% |
+| 22 min | USD | Low | GDP Sales (Q1) |  | 1.7% | 3.9% |
+| 22 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (May) |  |  | 0.3% |
+| 22 min | USD | Moderate | Goods Trade Balance (May) |  | -96.00B | -99.41B |
+| 22 min | USD | High | Initial Jobless Claims |  | 236K | 238K |
+| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 232.75K |
+| 22 min | USD | Low | PCE Prices (Q1) |  | 3.3% | 1.8% |
+| 22 min | USD | Low | Real Consumer Spending (Q1) |  | 2.0% | 3.3% |
+| 22 min | USD | Moderate | Retail Inventories Ex Auto (May) |  |  | 0.3% |
+| 22 min | USD | Low | Wholesale Inventories (MoM) |  | 0.1% | 0.1% |
+| 22 min | CAD | Low | Average Weekly Earnings (YoY) (Apr) |  |  | 4.20% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) |  | 0.6% | -7.7% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) |  |  | 72.3 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
