@@ -14,13 +14,13 @@
 | 04:00 | NZD | Low | M3 Money Supply (May) | 410.2B |  | 412.4B |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.378% |  | 0.418% |
 | 07:00 | NOK | Low | Unemployment Rate (May) | 4.1% |  | 4.3% |
-| 53 min | EUR | Low | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
-| 09:00 | EUR | Low | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
-| 09:00 | EUR | Low | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 0.3% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
-| 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
+| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
+| 55 min | EUR | Low | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
+| 55 min | EUR | Low | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
+| 55 min | EUR | Low | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
+| 55 min | EUR | Low | Loans to Non Financial Corporations (May) |  |  | 0.3% |
+| 55 min | EUR | Low | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
+| 55 min | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 10:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
 | 10:00 | EUR | Low | Italian PPI (YoY) (May) |  |  | -5.9% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (May) |  |  | -0.9% |
@@ -35,8 +35,8 @@
 | 10:10 | EUR | Low | Italian 5-Year BTP Auction |  |  | 3.54% |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 5.1% |
 | 10:30 | ZAR | Low | PPI (MoM) (May) |  |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) |  |  | 5.1% |
 | 11:00 | EUR | Moderate | Euro Summit |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | BCB Inflation Report |  |  |  |

@@ -14,13 +14,13 @@
 | 04:00 | NZD | M3 Money Supply (May) | 410.2B |  | 412.4B |
 | 04:35 | JPY | 2-Year JGB Auction | 0.378% |  | 0.418% |
 | 07:00 | NOK | Unemployment Rate (May) | 4.1% |  | 4.3% |
-| 53 min | EUR | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
-| 09:00 | EUR | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
-| 09:00 | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
-| 09:00 | EUR | Loans to Non Financial Corporations (May) |  |  | 0.3% |
-| 09:00 | EUR | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
-| 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
+| 55 min | EUR | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
+| 55 min | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
+| 55 min | EUR | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
+| 55 min | EUR | Loans to Non Financial Corporations (May) |  |  | 0.3% |
+| 55 min | EUR | Private Sector Loans (YoY) |  | 0.3% | 0.2% |
+| 55 min | ZAR | SARB Quarterly Bulletin |  |  |  |
 | 10:00 | EUR | Italian PPI (YoY) (May) |  |  | -5.9% |
 | 10:00 | EUR | Italian PPI (MoM) (May) |  |  | -0.9% |
 | 10:00 | EUR | Business and Consumer Survey (Jun) |  | 96.2 | 96.0 |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | Industrial Sentiment (Jun) |  | -9.6 | -9.9 |
 | 10:10 | EUR | Italian 5-Year BTP Auction |  |  | 3.54% |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 10:30 | ZAR | PPI (YoY) (May) |  |  | 5.1% |
 | 10:30 | ZAR | PPI (MoM) (May) |  |  | 0.5% |
+| 10:30 | ZAR | PPI (YoY) (May) |  |  | 5.1% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) |  | 0.87% | 0.89% |
 | 12:30 | EUR | Spanish Business Confidence |  |  | -6.3 |
