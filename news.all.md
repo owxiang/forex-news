@@ -23,8 +23,8 @@
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 10:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 10:00 | EUR | Low | Italian PPI (MoM) (May) | 0.3% |  | -0.7% |
 | 10:00 | EUR | Low | Italian PPI (YoY) (May) | -3.5% |  | -1.4% |
+| 10:00 | EUR | Low | Italian PPI (MoM) (May) | 0.3% |  | -0.7% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jun) | 95.9 | 96.2 | 96.1 |
 | 10:00 | EUR | Low | Business Climate (Jun) | -0.46 |  | -0.40 |
 | 10:00 | EUR | Low | Consumer Confidence (Jun) | -14.0 | -14.0 | -14.3 |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (May) | 4.6% |  | 5.1% |
 | 10:30 | ZAR | Low | PPI (MoM) (May) | 0.1% |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) | 4.6% |  | 5.1% |
 | 10:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.01% |  | 3.97% |
 | 10:40 | EUR | Low | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
