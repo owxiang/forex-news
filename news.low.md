@@ -17,13 +17,13 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Italian Business Confidence (Jun) | 86.8 | 88.7 | 88.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) | 98.3 | 97.0 | 96.4 |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
+| 09:00 | EUR | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |
-| 10:00 | EUR | Italian PPI (YoY) (May) | -3.5% |  | -1.4% |
 | 10:00 | EUR | Italian PPI (MoM) (May) | 0.3% |  | -0.7% |
+| 10:00 | EUR | Italian PPI (YoY) (May) | -3.5% |  | -1.4% |
 | 10:00 | EUR | Business and Consumer Survey (Jun) | 95.9 | 96.2 | 96.1 |
 | 10:00 | EUR | Business Climate (Jun) | -0.46 |  | -0.40 |
 | 10:00 | EUR | Consumer Confidence (Jun) | -14.0 | -14.0 | -14.3 |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | Services Sentiment (Jun) | 6.5 | 6.4 | 6.8 |
 | 10:00 | EUR | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 10:30 | ZAR | PPI (MoM) (May) | 0.1% |  | 0.5% |
 | 10:30 | ZAR | PPI (YoY) (May) | 4.6% |  | 5.1% |
+| 10:30 | ZAR | PPI (MoM) (May) | 0.1% |  | 0.5% |
 | 10:40 | EUR | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) | 0.81% | 0.87% | 0.89% |
@@ -60,3 +60,4 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.230% |
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.260% |
 | 18:30 | BRL | CAGED Net Payroll Jobs (May) | 131.81K |  | 240.03K |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.269T |  | 3.366T |

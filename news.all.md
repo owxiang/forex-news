@@ -17,14 +17,14 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jun) | 86.8 | 88.7 | 88.2 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jun) | 98.3 | 97.0 | 96.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | Low | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (May) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
 | 10:00 | GBP | Moderate | BoE Financial Stability Report |  |  |  |
-| 10:00 | EUR | Low | Italian PPI (YoY) (May) | -3.5% |  | -1.4% |
 | 10:00 | EUR | Low | Italian PPI (MoM) (May) | 0.3% |  | -0.7% |
+| 10:00 | EUR | Low | Italian PPI (YoY) (May) | -3.5% |  | -1.4% |
 | 10:00 | EUR | Low | Business and Consumer Survey (Jun) | 95.9 | 96.2 | 96.1 |
 | 10:00 | EUR | Low | Business Climate (Jun) | -0.46 |  | -0.40 |
 | 10:00 | EUR | Low | Consumer Confidence (Jun) | -14.0 | -14.0 | -14.3 |
@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (MoM) (May) | 0.1% |  | 0.5% |
 | 10:30 | ZAR | Low | PPI (YoY) (May) | 4.6% |  | 5.1% |
+| 10:30 | ZAR | Low | PPI (MoM) (May) | 0.1% |  | 0.5% |
 | 10:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.01% |  | 3.97% |
 | 10:40 | EUR | Low | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
@@ -78,5 +78,6 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.276% |  | 4.650% |
 | 18:30 | BRL | Low | CAGED Net Payroll Jobs (May) | 131.81K |  | 240.03K |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) | 11.00% | 11.00% | 11.00% |
-| 24 min | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,253B |
+| 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,231B |  | 7,253B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.269T |  | 3.366T |

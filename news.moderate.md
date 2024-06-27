@@ -17,5 +17,5 @@
 | 16:00 | USD | Atlanta Fed GDPNow (Q2) | 2.7% | 3.0% | 3.0% |
 | 18:00 | USD | 7-Year Note Auction | 4.276% |  | 4.650% |
 | 20:00 | MXN | Interest Rate Decision (Jun) | 11.00% | 11.00% | 11.00% |
-| 24 min | USD | Fed Bank Stress Test Results |  |  |  |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,253B |
+| 21:30 | USD | Fed Bank Stress Test Results |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet | 7,231B |  | 7,253B |
