@@ -14,8 +14,8 @@
 | 13:30 | USD | Goods Trade Balance (May) | -100.62B | -96.00B | -99.41B |
 | 13:30 | USD | Retail Inventories Ex Auto (May) | 0.0% |  | 0.2% |
 | 15:00 | USD | Pending Home Sales (MoM) (May) | -2.1% | 0.6% | -7.7% |
-| 24 min | USD | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
-| 18:00 | USD | 7-Year Note Auction |  |  | 4.650% |
+| 16:00 | USD | Atlanta Fed GDPNow (Q2) | 2.7% | 3.0% | 3.0% |
+| 54 min | USD | 7-Year Note Auction |  |  | 4.650% |
 | 20:00 | MXN | Interest Rate Decision (Jun) |  | 11.00% | 11.00% |
 | 21:30 | USD | Fed Bank Stress Test Results |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,253B |

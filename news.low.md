@@ -32,8 +32,8 @@
 | 10:00 | EUR | Services Sentiment (Jun) | 6.5 | 6.4 | 6.8 |
 | 10:00 | EUR | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | BoE FPC Meeting Minutes |  |  |  |
-| 10:30 | ZAR | PPI (YoY) (May) | 4.6% |  | 5.1% |
 | 10:30 | ZAR | PPI (MoM) (May) | 0.1% |  | 0.5% |
+| 10:30 | ZAR | PPI (YoY) (May) | 4.6% |  | 5.1% |
 | 10:40 | EUR | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 12:00 | BRL | BCB Inflation Report |  |  |  |
 | 12:00 | BRL | IGP-M Inflation Index (MoM) (Jun) | 0.81% | 0.87% | 0.89% |
@@ -54,8 +54,8 @@
 | 13:30 | USD | Wholesale Inventories (MoM) | 0.6% | 0.1% | 0.1% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (Apr) | 3.69% |  | 4.14% |
 | 15:00 | USD | Pending Home Sales Index (May) | 70.8 |  | 72.3 |
-| 24 min | USD | Natural Gas Storage |  | 53B | 71B |
-| 54 min | USD | KC Fed Composite Index (Jun) |  |  | -2 |
-| 54 min | USD | KC Fed Manufacturing Index (Jun) |  |  | -1 |
-| 16:30 | USD | 4-Week Bill Auction |  |  | 5.230% |
-| 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
+| 15:30 | USD | Natural Gas Storage | 52B | 53B | 71B |
+| 16:00 | USD | KC Fed Composite Index (Jun) | -8 |  | -2 |
+| 16:00 | USD | KC Fed Manufacturing Index (Jun) | -11 |  | -1 |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.230% |
+| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.260% |

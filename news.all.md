@@ -34,8 +34,8 @@
 | 10:00 | EUR | Low | Industrial Sentiment (Jun) | -10.1 | -9.6 | -9.9 |
 | 10:30 | GBP | Low | BoE FPC Meeting Minutes |  |  |  |
 | 10:30 | GBP | Moderate | BoE Gov Bailey Speaks |  |  |  |
-| 10:30 | ZAR | Low | PPI (YoY) (May) | 4.6% |  | 5.1% |
 | 10:30 | ZAR | Low | PPI (MoM) (May) | 0.1% |  | 0.5% |
+| 10:30 | ZAR | Low | PPI (YoY) (May) | 4.6% |  | 5.1% |
 | 10:40 | EUR | Moderate | Italian 10-Year BTP Auction | 4.01% |  | 3.97% |
 | 10:40 | EUR | Low | Italian 5-Year BTP Auction | 3.55% |  | 3.54% |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
@@ -69,13 +69,13 @@
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (Apr) | 3.69% |  | 4.14% |
 | 15:00 | USD | Moderate | Pending Home Sales (MoM) (May) | -2.1% | 0.6% | -7.7% |
 | 15:00 | USD | Low | Pending Home Sales Index (May) | 70.8 |  | 72.3 |
-| 24 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 3.0% | 3.0% |
-| 24 min | USD | Low | Natural Gas Storage |  | 53B | 71B |
-| 54 min | USD | Low | KC Fed Composite Index (Jun) |  |  | -2 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (Jun) |  |  | -1 |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.230% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.650% |
+| 15:30 | USD | Low | Natural Gas Storage | 52B | 53B | 71B |
+| 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.7% | 3.0% | 3.0% |
+| 16:00 | USD | Low | KC Fed Composite Index (Jun) | -8 |  | -2 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) | -11 |  | -1 |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.230% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.260% |
+| 54 min | USD | Moderate | 7-Year Note Auction |  |  | 4.650% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 11.00% | 11.00% |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,253B |
