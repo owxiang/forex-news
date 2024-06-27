@@ -17,8 +17,8 @@
 | 08:00 | EUR | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Italian Business Confidence (Jun) | 86.8 | 88.7 | 88.2 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) | 98.3 | 97.0 | 96.4 |
-| 09:00 | EUR | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
+| 09:00 | EUR | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | Loans to Non Financial Corporations (May) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
 | 09:00 | ZAR | SARB Quarterly Bulletin |  |  |  |

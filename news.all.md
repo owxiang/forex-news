@@ -17,8 +17,8 @@
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) | 0.2% |  | 0.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jun) | 86.8 | 88.7 | 88.2 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jun) | 98.3 | 97.0 | 96.4 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | Low | M3 Money Supply (May) | 16,267.6B |  | 16,206.4B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (May) | 1.6% | 1.5% | 1.3% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (May) | 0.3% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.3% | 0.2% |
 | 09:00 | ZAR | Low | SARB Quarterly Bulletin |  |  |  |
@@ -75,7 +75,7 @@
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jun) | -11 |  | -1 |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.230% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.260% |
-| 54 min | USD | Moderate | 7-Year Note Auction |  |  | 4.650% |
+| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.650% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 11.00% | 11.00% |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,253B |
