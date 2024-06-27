@@ -11,10 +11,10 @@
 | 02:00 | NZD | Low | ANZ Business Confidence (Jun) | 6.1 |  | 11.2 |
 | 02:00 | NZD | Low | NBNZ Own Activity (Jun) | 12.2% |  | 11.8% |
 | 02:30 | CNY | Low | Chinese Industrial profit YTD (May) | 3.4% |  | 4.3% |
-| 04:00 | NZD | Low | M3 Money Supply (May) | 410,217.0B |  | 412,379.0B |
-| 29 min | JPY | Low | 2-Year JGB Auction |  |  | 0.418% |
-| 07:00 | NOK | Low | Unemployment Rate (May) |  |  | 4.3% |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
+| 04:00 | NZD | Low | M3 Money Supply (May) | 410.2B |  | 412.4B |
+| 04:35 | JPY | Low | 2-Year JGB Auction | 0.378% |  | 0.418% |
+| 07:00 | NOK | Low | Unemployment Rate (May) | 4.1% |  | 4.3% |
+| 53 min | EUR | Low | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
 | 09:00 | EUR | Low | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |
@@ -79,3 +79,4 @@
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.650% |
 | 20:00 | MXN | Moderate | Interest Rate Decision (Jun) |  | 11.00% | 11.00% |
 | 21:30 | USD | Moderate | Fed Bank Stress Test Results |  |  |  |
+| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,253B |

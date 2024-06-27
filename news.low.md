@@ -11,10 +11,10 @@
 | 02:00 | NZD | ANZ Business Confidence (Jun) | 6.1 |  | 11.2 |
 | 02:00 | NZD | NBNZ Own Activity (Jun) | 12.2% |  | 11.8% |
 | 02:30 | CNY | Chinese Industrial profit YTD (May) | 3.4% |  | 4.3% |
-| 04:00 | NZD | M3 Money Supply (May) | 410,217.0B |  | 412,379.0B |
-| 29 min | JPY | 2-Year JGB Auction |  |  | 0.418% |
-| 07:00 | NOK | Unemployment Rate (May) |  |  | 4.3% |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
+| 04:00 | NZD | M3 Money Supply (May) | 410.2B |  | 412.4B |
+| 04:35 | JPY | 2-Year JGB Auction | 0.378% |  | 0.418% |
+| 07:00 | NOK | Unemployment Rate (May) | 4.1% |  | 4.3% |
+| 53 min | EUR | Spanish Retail Sales (YoY) (May) |  |  | 0.3% |
 | 09:00 | EUR | Italian Business Confidence (Jun) |  | 88.7 | 88.4 |
 | 09:00 | EUR | Italian Consumer Confidence (Jun) |  | 97.0 | 96.4 |
 | 09:00 | EUR | M3 Money Supply (YoY) (May) |  | 1.5% | 1.3% |

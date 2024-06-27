@@ -19,3 +19,4 @@
 | 18:00 | USD | 7-Year Note Auction |  |  | 4.650% |
 | 20:00 | MXN | Interest Rate Decision (Jun) |  | 11.00% | 11.00% |
 | 21:30 | USD | Fed Bank Stress Test Results |  |  |  |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,253B |
