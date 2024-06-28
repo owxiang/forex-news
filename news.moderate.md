@@ -4,9 +4,9 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | JPY | Tokyo Core CPI (YoY) (Jun) | 2.1% | 2.0% | 1.9% |
 | 00:50 | JPY | Industrial Production (MoM) (May) | 2.8% | 2.0% | -0.9% |
-| 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 0.9% | 1.4% |
-| 07:00 | GBP | Current Account (Q1) |  | -17.7B | -21.2B |
-| 07:00 | EUR | German Retail Sales (MoM) (May) |  |  | -1.2% |
+| 55 min | GBP | Business Investment (QoQ) (Q1) |  | 0.9% | 1.4% |
+| 55 min | GBP | Current Account (Q1) |  | -17.7B | -21.2B |
+| 55 min | EUR | German Retail Sales (MoM) (May) |  |  | -1.2% |
 | 07:45 | EUR | French Consumer Spending (MoM) (May) |  | 0.2% | -0.8% |
 | 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:45 | EUR | French HICP (MoM) |  | 0.1% | 0.1% |
@@ -23,6 +23,7 @@
 | 13:30 | USD | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Apr) |  | 0.3% | 0.0% |
+| 13:35 | CAD | GDP (MoM) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 3.3% | 3.3% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 67.6 | 68.8 |
