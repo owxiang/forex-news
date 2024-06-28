@@ -18,8 +18,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) | 76.8% | 76.4% | 76.0% |
 | 13:00 | BRL | Unemployment Rate (May) | 7.1% | 7.3% | 7.5% |
-| 13:30 | USD | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (May) | 0.0% | 0.0% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
 | 13:30 | USD | Personal Spending (MoM) (May) | 0.2% | 0.3% | 0.1% |
 | 13:30 | CAD | GDP (MoM) (Apr) | 0.3% | 0.3% | 0.0% |
 | 13:31 | CAD | GDP (MoM) (May) | 0.1% |  | 0.3% |
