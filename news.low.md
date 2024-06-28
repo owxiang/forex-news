@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
 | 00:00 | KRW | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
+| 00:00 | KRW | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
 | 00:00 | KRW | Retail Sales (MoM) (May) | -0.2% |  | -1.2% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) | -0.5% |  | 0.7% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.4% |  | 1.2% |
@@ -25,8 +25,8 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.26% |  | 3.90% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
-| 07:45 | EUR | PPI (YoY) (May) | -6.70% |  | -6.70% |
 | 07:45 | EUR | French PPI (MoM) (May) | -1.4% |  | -3.6% |
+| 07:45 | EUR | PPI (YoY) (May) | -6.70% |  | -6.70% |
 | 08:00 | CHF | Official Reserves Assets (May) | 801.4B |  | 803.9B |
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
@@ -40,26 +40,26 @@
 | 09:00 | NOK | Unemployment Change (Jun) | 75.00K |  | 74.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Jun) | 1.90% | 2.00% | 1.90% |
 | 09:30 | HKD | M3 Money Supply (May) | 1.5% |  | 0.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
+| 10:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
 | 11:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) | 5.77B |  | 4.91B |
+| 11:00 | INR | Federal Fiscal Deficit (May) | 506.15B |  | 2,101.36B |
 | 11:55 | ZAR | Budget Balance (MoM) (May) | -12.78B |  | -78.05B |
-| 25 min | INR | Bank Loan Growth |  |  | 19.8% |
-| 25 min | INR | Deposit Growth |  |  | 12.7% |
-| 25 min | INR | FX Reserves, USD |  |  | 652.90B |
-| 25 min | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 25 min | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.2% |
-| 25 min | BRL | Budget Balance (May) |  | -118.900B | -69.638B |
-| 25 min | BRL | Budget Surplus (May) |  |  | 6.688B |
-| 55 min | INR | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
-| 55 min | INR | Infrastructure Output (YoY) (May) |  |  | 6.2% |
-| 55 min | ZAR | Trade Balance (May) |  |  | 10.47B |
-| 13:30 | USD | Personal Income (MoM) (May) |  | 0.4% | 0.3% |
-| 13:30 | USD | Real Personal Consumption (MoM) (May) |  |  | -0.1% |
-| 14:00 | USD | Dallas Fed PCE (May) |  |  | 2.70% |
+| 12:30 | INR | Bank Loan Growth | 19.2% |  | 19.8% |
+| 12:30 | INR | Deposit Growth | 12.6% |  | 12.7% |
+| 12:30 | INR | FX Reserves, USD | 653.71B |  | 652.90B |
+| 12:30 | INR | Infrastructure Output (YoY) (May) | 6.3% |  | 6.7% |
+| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (May) | 62.2% |  | 61.2% |
+| 12:30 | BRL | Budget Balance (May) | -138.256B | -118.900B | -69.638B |
+| 12:30 | BRL | Budget Surplus (May) | -63.895B |  | 6.688B |
+| 13:00 | ZAR | Trade Balance (May) | 20.09B |  | 10.47B |
+| 22 min | USD | Personal Income (MoM) (May) |  | 0.4% | 0.3% |
+| 22 min | USD | Real Personal Consumption (MoM) (May) |  |  | -0.1% |
+| 52 min | USD | Dallas Fed PCE (May) |  |  | 2.70% |
 | 15:00 | USD | Michigan Current Conditions (Jun) |  | 62.5 | 69.6 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |

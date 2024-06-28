@@ -16,13 +16,13 @@
 | 08:55 | EUR | German Unemployment Rate (Jun) | 6.0% | 5.9% | 5.9% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 25 min | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |
-| 55 min | BRL | Unemployment Rate (May) |  | 7.3% | 7.5% |
-| 13:30 | USD | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
-| 13:30 | USD | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
-| 13:30 | USD | Personal Spending (MoM) (May) |  | 0.3% | 0.2% |
-| 13:30 | CAD | GDP (MoM) (Apr) |  | 0.3% | 0.0% |
-| 13:31 | CAD | GDP (MoM) (May) |  |  |  |
+| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) | 76.8% | 76.4% | 76.0% |
+| 13:00 | BRL | Unemployment Rate (May) | 7.1% | 7.3% | 7.5% |
+| 22 min | USD | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
+| 22 min | USD | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
+| 22 min | USD | Personal Spending (MoM) (May) |  | 0.3% | 0.2% |
+| 22 min | CAD | GDP (MoM) (Apr) |  | 0.3% | 0.0% |
+| 23 min | CAD | GDP (MoM) (May) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 3.3% | 3.3% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 67.6 | 68.8 |
