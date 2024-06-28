@@ -18,8 +18,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) | 76.8% | 76.4% | 76.0% |
 | 13:00 | BRL | Unemployment Rate (May) | 7.1% | 7.3% | 7.5% |
-| 13:30 | USD | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (May) | 0.0% | 0.0% | 0.3% |
+| 13:30 | USD | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
 | 13:30 | USD | Personal Spending (MoM) (May) | 0.2% | 0.3% | 0.1% |
 | 13:30 | CAD | GDP (MoM) (Apr) | 0.3% | 0.3% | 0.0% |
 | 13:31 | CAD | GDP (MoM) (May) | 0.1% |  | 0.3% |
@@ -29,9 +29,9 @@
 | 15:00 | USD | Michigan Consumer Expectations (Jun) | 69.6 | 67.6 | 68.8 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jun) | 68.2 | 65.6 | 69.1 |
 | 15:30 | USD | Atlanta Fed GDPNow (Q2) | 2.2% | 2.7% | 2.7% |
-| 54 min | USD | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 17:00 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
+| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 47.6K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 246.8K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 243.1K |

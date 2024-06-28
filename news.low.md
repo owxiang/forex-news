@@ -40,10 +40,10 @@
 | 09:00 | NOK | Unemployment Change (Jun) | 75.00K |  | 74.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Jun) | 1.90% | 2.00% | 1.90% |
 | 09:30 | HKD | M3 Money Supply (May) | 1.5% |  | 0.5% |
-| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 11:00 | USD | FOMC Member Barkin Speaks |  |  |  |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) | 5.77B |  | 4.91B |
 | 11:00 | INR | Federal Fiscal Deficit (May) | 506.15B |  | 2,101.36B |
@@ -60,7 +60,6 @@
 | 13:30 | USD | Personal Income (MoM) (May) | 0.5% | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (May) | 0.3% |  | -0.1% |
 | 15:00 | USD | Michigan Current Conditions (Jun) | 65.9 | 62.5 | 69.6 |
-| 54 min | USD | Dallas Fed PCE (May) |  |  | 2.70% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -76.7K |

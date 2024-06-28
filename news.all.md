@@ -31,10 +31,10 @@
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) | 4.72% |  | 5.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (May) | 4.26% |  | 3.90% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) | 1.5% | 0.2% | -0.9% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | Low | PPI (YoY) (May) | -6.70% |  | -6.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
@@ -42,8 +42,8 @@
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jun) | 19K | 14K | 25K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jun) | 6.0% | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Jun) | 2.781M |  | 2.762M |
@@ -55,10 +55,10 @@
 | 09:00 | NOK | Low | Unemployment Change (Jun) | 75.00K |  | 74.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) | 1.90% | 2.00% | 1.90% |
 | 09:30 | HKD | Low | M3 Money Supply (May) | 1.5% |  | 0.5% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 11:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) | 5.77B |  | 4.91B |
 | 11:00 | INR | Low | Federal Fiscal Deficit (May) | 506.15B |  | 2,101.36B |
@@ -78,8 +78,8 @@
 | 13:00 | ZAR | Low | Trade Balance (May) | 20.09B |  | 10.47B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) | 2.6% | 2.6% | 2.8% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (May) | 0.1% | 0.1% | 0.3% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (May) | 0.0% | 0.0% | 0.3% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
 | 13:30 | USD | Low | Personal Income (MoM) (May) | 0.5% | 0.4% | 0.3% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (May) | 0.2% | 0.3% | 0.1% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (May) | 0.3% |  | -0.1% |
@@ -93,10 +93,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) | 68.2 | 65.6 | 69.1 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jun) | 65.9 | 62.5 | 69.6 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.2% | 2.7% | 2.7% |
-| 54 min | USD | Low | Dallas Fed PCE (May) |  |  | 2.70% |
-| 54 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
+| 17:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 47.6K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 1.6K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 52.6K |
