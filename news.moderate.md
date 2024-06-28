@@ -6,14 +6,14 @@
 | 00:50 | JPY | Industrial Production (MoM) (May) | 2.8% | 2.0% | -0.9% |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
 | 07:00 | GBP | Current Account (Q1) | -21.0B | -17.7B | -21.2B |
-| 38 min | EUR | French Consumer Spending (MoM) (May) |  | 0.2% | -0.8% |
-| 38 min | EUR | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 38 min | EUR | French HICP (MoM) |  | 0.1% | 0.1% |
-| 53 min | CHF | KOF Leading Indicators (Jun) |  | 101.0 | 100.3 |
-| 53 min | EUR | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
-| 53 min | EUR | Spanish HICP (YoY) (Jun) |  | 3.4% | 3.8% |
-| 08:55 | EUR | German Unemployment Change (Jun) |  | 14K | 25K |
-| 08:55 | EUR | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
+| 07:45 | EUR | French Consumer Spending (MoM) (May) | 1.5% | 0.2% | -0.9% |
+| 07:45 | EUR | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | French HICP (MoM) | 0.1% | 0.1% | 0.1% |
+| 08:00 | CHF | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
+| 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
+| 50 min | EUR | German Unemployment Change (Jun) |  | 14K | 25K |
+| 50 min | EUR | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
 | 11:00 | EUR | EU Leaders Summit |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |

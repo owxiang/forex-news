@@ -20,41 +20,40 @@
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (May) | 0.4% | 0.4% | 0.5% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) | 2.1% |  | 26.4% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (May) | -5.3% | -6.1% | 13.9% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.0% | -0.6% | 2.8% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
 | 07:00 | GBP | Moderate | Current Account (Q1) | -21.0B | -17.7B | -21.2B |
-| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.3% | 0.2% | -0.2% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.7% | 0.6% | -0.3% |
+| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.3% | 0.2% | -0.2% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (May) | 0.0% | 0.2% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (May) | -0.4% | -0.3% | -1.7% |
-| 07:00 | EUR | Low | German Imports (MoM) |  |  | 2.0% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) | 3.2% |  | 0.2% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) | 4.72% |  | 5.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (May) | 4.26% |  | 3.90% |
-| 38 min | EUR | Moderate | French Consumer Spending (MoM) (May) |  | 0.2% | -0.8% |
-| 38 min | EUR | Low | French CPI (YoY) (Jun) |  |  | 2.3% |
-| 38 min | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 38 min | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.1% |
-| 38 min | EUR | Low | French HICP (YoY) |  | 2.5% | 2.6% |
-| 38 min | EUR | Low | PPI (YoY) (May) |  |  | -6.80% |
-| 38 min | EUR | Low | French PPI (MoM) (May) |  |  | -3.6% |
-| 53 min | CHF | Moderate | KOF Leading Indicators (Jun) |  | 101.0 | 100.3 |
-| 53 min | CHF | Low | Official Reserves Assets (May) |  |  | 803.9B |
-| 53 min | EUR | Low | Core CPI (YoY) |  |  | 3.0% |
-| 53 min | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.2% | 0.3% |
-| 53 min | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
-| 53 min | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
-| 53 min | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.4% | 3.8% |
-| 08:55 | EUR | Moderate | German Unemployment Change (Jun) |  | 14K | 25K |
-| 08:55 | EUR | Moderate | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
-| 08:55 | EUR | Low | German Unemployment (Jun) |  |  | 2.762M |
-| 08:55 | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.723M |
-| 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | -5.10% |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
-| 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 3.29B |
-| 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | 550.0M |
-| 09:00 | NOK | Low | Unemployment Change (Jun) |  |  | 74.26K |
-| 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 1.90% |
+| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) | 1.5% | 0.2% | -0.9% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | Moderate | French HICP (MoM) | 0.1% | 0.1% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) | 2.5% | 2.5% | 2.6% |
+| 07:45 | EUR | Low | PPI (YoY) (May) | -6.70% |  | -6.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
+| 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
+| 08:00 | CHF | Low | Official Reserves Assets (May) | 801.4B |  | 803.9B |
+| 08:00 | EUR | Low | Core CPI (YoY) | 3.0% |  | 3.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
+| 50 min | EUR | Moderate | German Unemployment Change (Jun) |  | 14K | 25K |
+| 50 min | EUR | Moderate | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
+| 49 min | EUR | Low | German Unemployment (Jun) |  |  | 2.762M |
+| 49 min | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.723M |
+| 54 min | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | -5.10% |
+| 54 min | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
+| 54 min | EUR | Low | Spanish Current account (Apr) |  |  | 3.29B |
+| 54 min | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | 550.0M |
+| 54 min | NOK | Low | Unemployment Change (Jun) |  |  | 74.26K |
+| 54 min | NOK | Low | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 1.90% |
 | 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 0.5% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 1.0% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
