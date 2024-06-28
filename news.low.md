@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
 | 00:00 | KRW | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
+| 00:00 | KRW | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
 | 00:00 | KRW | Retail Sales (MoM) (May) | -0.2% |  | -1.2% |
 | 00:00 | KRW | Service Sector Output (MoM) (May) | -0.5% |  | 0.7% |
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.4% |  | 1.2% |
@@ -42,22 +42,21 @@
 | 09:30 | HKD | M3 Money Supply (May) | 1.5% |  | 0.5% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
-| 55 min | USD | FOMC Member Barkin Speaks |  |  |  |
-| 55 min | EUR | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 11:00 | USD | FOMC Member Barkin Speaks |  |  |  |
+| 11:00 | EUR | Italian Trade Balance Non-EU (May) | 5.77B |  | 4.91B |
+| 11:55 | ZAR | Budget Balance (MoM) (May) | -12.78B |  | -78.05B |
+| 25 min | INR | Bank Loan Growth |  |  | 19.8% |
+| 25 min | INR | Deposit Growth |  |  | 12.7% |
+| 25 min | INR | FX Reserves, USD |  |  | 652.90B |
+| 25 min | INR | RBI Monetary and Credit Information Review |  |  |  |
+| 25 min | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.2% |
+| 25 min | BRL | Budget Balance (May) |  | -118.900B | -69.638B |
+| 25 min | BRL | Budget Surplus (May) |  |  | 6.688B |
 | 55 min | INR | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
-| 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 12:30 | INR | Bank Loan Growth |  |  | 19.8% |
-| 12:30 | INR | Deposit Growth |  |  | 12.7% |
-| 12:30 | INR | FX Reserves, USD |  |  | 652.90B |
-| 12:30 | INR | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (May) |  |  | 61.2% |
-| 12:30 | BRL | Budget Balance (May) |  | -118.900B | -69.638B |
-| 12:30 | BRL | Budget Surplus (May) |  |  | 6.688B |
-| 13:00 | INR | Infrastructure Output (YoY) (May) |  |  | 6.2% |
-| 13:00 | ZAR | Budget Balance (MoM) (May) |  |  | -78.05B |
-| 13:00 | ZAR | Trade Balance (May) |  |  | 10.47B |
+| 55 min | INR | Infrastructure Output (YoY) (May) |  |  | 6.2% |
+| 55 min | ZAR | Trade Balance (May) |  |  | 10.47B |
 | 13:30 | USD | Personal Income (MoM) (May) |  | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (May) |  |  | -0.1% |
 | 14:00 | USD | Dallas Fed PCE (May) |  |  | 2.70% |

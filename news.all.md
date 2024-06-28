@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
 | 00:00 | KRW | Low | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (May) | -0.2% |  | -1.2% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (May) | -0.5% |  | 0.7% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.4% |  | 1.2% |
@@ -20,8 +20,8 @@
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (May) | 0.4% | 0.4% | 0.5% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) | 2.1% |  | 26.4% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (May) | -5.3% | -6.1% | 13.9% |
-| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
 | 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.0% | -0.6% | 2.8% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
 | 07:00 | GBP | Moderate | Current Account (Q1) | -21.0B | -17.7B | -21.2B |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.7% | 0.6% | -0.3% |
 | 07:00 | GBP | High | GDP (YoY) (Q1) | 0.3% | 0.2% | -0.2% |
@@ -31,10 +31,10 @@
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) | 4.72% |  | 5.75% |
 | 07:00 | ZAR | Low | Private Sector Credit (May) | 4.26% |  | 3.90% |
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) | 1.5% | 0.2% | -0.9% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
-| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | Low | PPI (YoY) (May) | -6.70% |  | -6.70% |
 | 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
@@ -57,26 +57,25 @@
 | 09:30 | HKD | Low | M3 Money Supply (May) | 1.5% |  | 0.5% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
-| 55 min | USD | Low | FOMC Member Barkin Speaks |  |  |  |
-| 55 min | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 11:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
+| 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) | 5.77B |  | 4.91B |
+| 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:55 | ZAR | Low | Budget Balance (MoM) (May) | -12.78B |  | -78.05B |
+| 25 min | INR | Low | Bank Loan Growth |  |  | 19.8% |
+| 25 min | INR | Low | Deposit Growth |  |  | 12.7% |
+| 25 min | INR | Low | FX Reserves, USD |  |  | 652.90B |
+| 25 min | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
+| 25 min | BRL | Low | Net Debt-to-GDP ratio (May) |  |  | 61.2% |
+| 25 min | BRL | Low | Budget Balance (May) |  | -118.900B | -69.638B |
+| 25 min | BRL | Low | Budget Surplus (May) |  |  | 6.688B |
+| 25 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |
 | 55 min | INR | Low | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
-| 55 min | EUR | Moderate | EU Leaders Summit |  |  |  |
-| 55 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 12:30 | INR | Low | Bank Loan Growth |  |  | 19.8% |
-| 12:30 | INR | Low | Deposit Growth |  |  | 12.7% |
-| 12:30 | INR | Low | FX Reserves, USD |  |  | 652.90B |
-| 12:30 | INR | Low | RBI Monetary and Credit Information Review |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (May) |  |  | 61.2% |
-| 12:30 | BRL | Low | Budget Balance (May) |  | -118.900B | -69.638B |
-| 12:30 | BRL | Low | Budget Surplus (May) |  |  | 6.688B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |
-| 13:00 | INR | Low | Infrastructure Output (YoY) (May) |  |  | 6.2% |
-| 13:00 | BRL | Moderate | Unemployment Rate (May) |  | 7.3% | 7.5% |
-| 13:00 | ZAR | Low | Budget Balance (MoM) (May) |  |  | -78.05B |
-| 13:00 | ZAR | Low | Trade Balance (May) |  |  | 10.47B |
+| 55 min | INR | Low | Infrastructure Output (YoY) (May) |  |  | 6.2% |
+| 55 min | BRL | Moderate | Unemployment Rate (May) |  | 7.3% | 7.5% |
+| 55 min | ZAR | Low | Trade Balance (May) |  |  | 10.47B |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) |  | 2.6% | 2.8% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |

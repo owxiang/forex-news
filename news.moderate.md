@@ -14,10 +14,10 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
 | 08:55 | EUR | German Unemployment Change (Jun) | 19K | 14K | 25K |
 | 08:55 | EUR | German Unemployment Rate (Jun) | 6.0% | 5.9% | 5.9% |
-| 55 min | EUR | EU Leaders Summit |  |  |  |
-| 55 min | EUR | Eurogroup Meetings |  |  |  |
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |
-| 13:00 | BRL | Unemployment Rate (May) |  | 7.3% | 7.5% |
+| 11:00 | EUR | EU Leaders Summit |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 25 min | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |
+| 55 min | BRL | Unemployment Rate (May) |  | 7.3% | 7.5% |
 | 13:30 | USD | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.3% | 0.2% |
