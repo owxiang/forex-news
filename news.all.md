@@ -35,28 +35,28 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
-| 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 07:45 | EUR | Low | PPI (YoY) (May) | -6.70% |  | -6.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) | 801.4B |  | 803.9B |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jun) | 19K | 14K | 25K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jun) | 6.0% | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Jun) | 2.781M |  | 2.762M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jun) | 2.727M |  | 2.723M |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) | 0.80% |  | -2.80% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) | -2.00% |  | -5.10% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) | 0.80% |  | -2.80% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) | 2.83B |  | 3.29B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) | 400.0M |  | 550.0M |
 | 09:00 | NOK | Low | Unemployment Change (Jun) | 75.00K |  | 74.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) | 1.90% | 2.00% | 1.90% |
 | 09:30 | HKD | Low | M3 Money Supply (May) | 1.5% |  | 0.5% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 11:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
@@ -86,6 +86,7 @@
 | 13:30 | CAD | Moderate | GDP (MoM) (Apr) | 0.3% | 0.3% | 0.0% |
 | 13:31 | CAD | Moderate | GDP (MoM) (May) | 0.1% |  | 0.3% |
 | 13:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 14:00 | USD | Low | Dallas Fed PCE (May) | 1.40% |  | 2.70% |
 | 14:45 | USD | High | Chicago PMI (Jun) | 47.4 | 39.7 | 35.4 |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) | 3.0% | 3.3% | 3.3% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) | 3.0% | 3.1% | 3.0% |

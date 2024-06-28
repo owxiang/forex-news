@@ -25,23 +25,23 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.26% |  | 3.90% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
-| 07:45 | EUR | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 07:45 | EUR | PPI (YoY) (May) | -6.70% |  | -6.70% |
+| 07:45 | EUR | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Official Reserves Assets (May) | 801.4B |  | 803.9B |
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 08:55 | EUR | German Unemployment (Jun) | 2.781M |  | 2.762M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jun) | 2.727M |  | 2.723M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 0.80% |  | -2.80% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Apr) | -2.00% |  | -5.10% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 0.80% |  | -2.80% |
 | 09:00 | EUR | Spanish Current account (Apr) | 2.83B |  | 3.29B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) | 400.0M |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (Jun) | 75.00K |  | 74.26K |
 | 09:00 | NOK | Unemployment Rate n.s.a. (Jun) | 1.90% | 2.00% | 1.90% |
 | 09:30 | HKD | M3 Money Supply (May) | 1.5% |  | 0.5% |
-| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
+| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 10:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 11:00 | USD | FOMC Member Barkin Speaks |  |  |  |
@@ -59,6 +59,7 @@
 | 13:00 | ZAR | Trade Balance (May) | 20.09B |  | 10.47B |
 | 13:30 | USD | Personal Income (MoM) (May) | 0.5% | 0.4% | 0.3% |
 | 13:30 | USD | Real Personal Consumption (MoM) (May) | 0.3% |  | -0.1% |
+| 14:00 | USD | Dallas Fed PCE (May) | 1.40% |  | 2.70% |
 | 15:00 | USD | Michigan Current Conditions (Jun) | 65.9 | 62.5 | 69.6 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |
