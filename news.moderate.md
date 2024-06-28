@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Tokyo Core CPI (YoY) (Jun) |  | 2.0% | 1.9% |
-| 44 min | JPY | Industrial Production (MoM) (May) |  | 2.0% | -0.9% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Jun) | 2.1% | 2.0% | 1.9% |
+| 00:50 | JPY | Industrial Production (MoM) (May) | 2.8% | 2.0% | -0.9% |
 | 07:00 | GBP | Business Investment (QoQ) (Q1) |  | 0.9% | 1.4% |
 | 07:00 | GBP | Current Account (Q1) |  | -17.7B | -21.2B |
 | 07:00 | EUR | German Retail Sales (MoM) (May) |  |  | -1.2% |

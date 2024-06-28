@@ -2,20 +2,20 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (YoY) (May) |  | 3.1% | 6.1% |
-| 00:00 | KRW | Low | Industrial Production (MoM) (May) |  | 0.2% | 2.2% |
-| 00:00 | KRW | Low | Retail Sales (MoM) (May) |  |  | -1.2% |
-| 00:00 | KRW | Low | Service Sector Output (MoM) (May) |  |  | 0.3% |
-| 24 min | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) |  |  | 1.2% |
-| 24 min | JPY | Low | Jobs/applications ratio (May) |  | 1.26 | 1.26 |
-| 24 min | JPY | Moderate | Tokyo Core CPI (YoY) (Jun) |  | 2.0% | 1.9% |
-| 24 min | JPY | Low | Tokyo CPI (YoY) (Jun) |  |  | 2.2% |
-| 24 min | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) |  |  | 0.0% |
-| 24 min | JPY | Low | Unemployment Rate (May) |  | 2.6% | 2.6% |
-| 44 min | JPY | Moderate | Industrial Production (MoM) (May) |  | 2.0% | -0.9% |
-| 44 min | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 6.9% |
-| 44 min | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -5.6% |
-| 02:00 | USD | High | U.S. President Biden Speaks |  |  |  |
+| 00:00 | KRW | Low | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
+| 00:00 | KRW | Low | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
+| 00:00 | KRW | Low | Retail Sales (MoM) (May) | -0.2% |  | -1.2% |
+| 00:00 | KRW | Low | Service Sector Output (MoM) (May) | -0.5% |  | 0.7% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.4% |  | 1.2% |
+| 00:30 | JPY | Low | Jobs/applications ratio (May) | 1.24 | 1.26 | 1.26 |
+| 00:30 | JPY | Moderate | Tokyo Core CPI (YoY) (Jun) | 2.1% | 2.0% | 1.9% |
+| 00:30 | JPY | Low | Tokyo CPI (YoY) (Jun) | 2.3% |  | 2.2% |
+| 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jun) | 0.0% |  | 0.0% |
+| 00:30 | JPY | Low | Unemployment Rate (May) | 2.6% | 2.6% | 2.6% |
+| 00:50 | JPY | Moderate | Industrial Production (MoM) (May) | 2.8% | 2.0% | -0.9% |
+| 00:50 | JPY | Low | Industrial Production forecast 1m ahead (MoM) (Jun) | -4.8% |  | 6.9% |
+| 00:50 | JPY | Low | Industrial Production forecast 2m ahead (MoM) (Jul) | 3.6% |  | -5.6% |
+| 39 min | USD | High | U.S. President Biden Speaks |  |  |  |
 | 02:30 | AUD | Low | Housing Credit (May) |  |  | 0.4% |
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (May) |  | 0.4% | 0.5% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) |  |  | 26.4% |
@@ -36,8 +36,8 @@
 | 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) |  | 0.2% | -0.8% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) |  |  | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) |  | 2.5% | 2.6% |
+| 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -3.6% |
 | 07:45 | EUR | Low | PPI (YoY) (May) |  |  | -6.80% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 101.0 | 100.3 |
@@ -45,14 +45,14 @@
 | 08:00 | EUR | Low | Core CPI (YoY) |  |  | 3.0% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.2% | 0.3% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.4% | 3.8% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jun) |  | 14K | 25K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Jun) |  |  | 2.762M |
 | 08:55 | EUR | Low | German Unemployment n.s.a. (Jun) |  |  | 2.723M |
-| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
 | 09:00 | EUR | Low | Italian Industrial Sales (YoY) (Apr) |  |  | -5.10% |
+| 09:00 | EUR | Low | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
 | 09:00 | EUR | Low | Spanish Current account (Apr) |  |  | 3.29B |
 | 09:00 | NOK | Low | Central Bank Currency Purchase (Jul) |  |  | 550.0M |
 | 09:00 | NOK | Low | Unemployment Change (Jun) |  |  | 74.26K |
@@ -60,8 +60,8 @@
 | 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 0.5% |
 | 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 1.0% | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
 | 11:00 | INR | Low | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
 | 11:00 | EUR | Moderate | EU Leaders Summit |  |  |  |
@@ -79,8 +79,8 @@
 | 13:00 | INR | Low | Infrastructure Output (YoY) (May) |  |  | 6.2% |
 | 13:00 | BRL | Moderate | Unemployment Rate |  | 7.3% | 7.5% |
 | 13:00 | ZAR | Low | Trade Balance (May) |  |  | 10.47B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) |  | 2.6% | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (May) |  | 0.4% | 0.3% |

@@ -2,17 +2,17 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Industrial Production (YoY) (May) |  | 3.1% | 6.1% |
-| 00:00 | KRW | Industrial Production (MoM) (May) |  | 0.2% | 2.2% |
-| 00:00 | KRW | Retail Sales (MoM) (May) |  |  | -1.2% |
-| 00:00 | KRW | Service Sector Output (MoM) (May) |  |  | 0.3% |
-| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jun) |  |  | 1.2% |
-| 24 min | JPY | Jobs/applications ratio (May) |  | 1.26 | 1.26 |
-| 24 min | JPY | Tokyo CPI (YoY) (Jun) |  |  | 2.2% |
-| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jun) |  |  | 0.0% |
-| 24 min | JPY | Unemployment Rate (May) |  | 2.6% | 2.6% |
-| 44 min | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) |  |  | 6.9% |
-| 44 min | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) |  |  | -5.6% |
+| 00:00 | KRW | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
+| 00:00 | KRW | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
+| 00:00 | KRW | Retail Sales (MoM) (May) | -0.2% |  | -1.2% |
+| 00:00 | KRW | Service Sector Output (MoM) (May) | -0.5% |  | 0.7% |
+| 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.4% |  | 1.2% |
+| 00:30 | JPY | Jobs/applications ratio (May) | 1.24 | 1.26 | 1.26 |
+| 00:30 | JPY | Tokyo CPI (YoY) (Jun) | 2.3% |  | 2.2% |
+| 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jun) | 0.0% |  | 0.0% |
+| 00:30 | JPY | Unemployment Rate (May) | 2.6% | 2.6% | 2.6% |
+| 00:50 | JPY | Industrial Production forecast 1m ahead (MoM) (Jun) | -4.8% |  | 6.9% |
+| 00:50 | JPY | Industrial Production forecast 2m ahead (MoM) (Jul) | 3.6% |  | -5.6% |
 | 02:30 | AUD | Housing Credit (May) |  |  | 0.4% |
 | 02:30 | AUD | Private Sector Credit (MoM) (May) |  | 0.4% | 0.5% |
 | 06:00 | JPY | Construction Orders (YoY) (May) |  |  | 26.4% |
@@ -35,8 +35,8 @@
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
 | 08:55 | EUR | German Unemployment (Jun) |  |  | 2.762M |
 | 08:55 | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.723M |
-| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
 | 09:00 | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | -5.10% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
 | 09:00 | EUR | Spanish Current account (Apr) |  |  | 3.29B |
 | 09:00 | NOK | Central Bank Currency Purchase (Jul) |  |  | 550.0M |
 | 09:00 | NOK | Unemployment Change (Jun) |  |  | 74.26K |
@@ -44,8 +44,8 @@
 | 09:30 | HKD | M3 Money Supply (May) |  |  | 0.5% |
 | 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.0% | 0.8% |
-| 10:00 | EUR | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 10:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
 | 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
 | 11:40 | USD | FOMC Member Barkin Speaks |  |  |  |
