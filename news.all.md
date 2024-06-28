@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
 | 00:00 | KRW | Low | Industrial Production (YoY) (May) | 3.5% | 3.1% | 6.2% |
+| 00:00 | KRW | Low | Industrial Production (MoM) (May) | -1.2% | 0.2% | 2.4% |
 | 00:00 | KRW | Low | Retail Sales (MoM) (May) | -0.2% |  | -1.2% |
 | 00:00 | KRW | Low | Service Sector Output (MoM) (May) | -0.5% |  | 0.7% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food & Energy (YoY) (Jun) | 1.4% |  | 1.2% |
@@ -20,33 +20,31 @@
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (May) | 0.4% | 0.4% | 0.5% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) | 2.1% |  | 26.4% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (May) | -5.3% | -6.1% | 13.9% |
-| 55 min | GBP | Low | Business Investment (YoY) (Q1) |  | -0.6% | 2.8% |
-| 55 min | GBP | Moderate | Business Investment (QoQ) (Q1) |  | 0.9% | 1.4% |
-| 55 min | GBP | Moderate | Current Account (Q1) |  | -17.7B | -21.2B |
-| 55 min | GBP | High | GDP (YoY) (Q1) |  | 0.2% | -0.2% |
-| 55 min | GBP | High | GDP (QoQ) (Q1) |  | 0.6% | -0.3% |
-| 55 min | EUR | Low | German Import Price Index (MoM) (May) |  | 0.2% | 0.7% |
-| 55 min | EUR | Low | German Import Price Index (YoY) (May) |  | -0.3% | -1.7% |
-| 55 min | EUR | Low | German Imports (MoM) |  |  | 2.0% |
-| 55 min | EUR | Moderate | German Retail Sales (MoM) (May) |  |  | -1.2% |
-| 55 min | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 55 min | NOK | Low | Core Retail Sales (MoM) (May) |  |  | -0.3% |
-| 55 min | ZAR | Low | M3 Money Supply (YoY) (May) |  |  | 5.75% |
-| 55 min | ZAR | Low | Private Sector Credit (May) |  |  | 3.90% |
-| 07:45 | EUR | Moderate | French Consumer Spending (MoM) (May) |  | 0.2% | -0.8% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) |  |  | 2.3% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 07:45 | EUR | Low | French HICP (YoY) |  | 2.5% | 2.6% |
-| 07:45 | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.1% |
-| 07:45 | EUR | Low | PPI (YoY) (May) |  |  | -6.80% |
-| 07:45 | EUR | Low | French PPI (MoM) (May) |  |  | -3.6% |
-| 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) |  | 101.0 | 100.3 |
-| 08:00 | CHF | Low | Official Reserves Assets (May) |  |  | 803.9B |
-| 08:00 | EUR | Low | Core CPI (YoY) |  |  | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.2% | 0.3% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
-| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.4% | 3.8% |
-| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.0% | -0.6% | 2.8% |
+| 07:00 | GBP | Moderate | Current Account (Q1) | -21.0B | -17.7B | -21.2B |
+| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.3% | 0.2% | -0.2% |
+| 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.7% | 0.6% | -0.3% |
+| 07:00 | EUR | Low | German Import Price Index (MoM) (May) | 0.0% | 0.2% | 0.7% |
+| 07:00 | EUR | Low | German Import Price Index (YoY) (May) | -0.4% | -0.3% | -1.7% |
+| 07:00 | EUR | Low | German Imports (MoM) |  |  | 2.0% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (May) | 3.2% |  | 0.2% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (May) | 4.72% |  | 5.75% |
+| 07:00 | ZAR | Low | Private Sector Credit (May) | 4.26% |  | 3.90% |
+| 38 min | EUR | Moderate | French Consumer Spending (MoM) (May) |  | 0.2% | -0.8% |
+| 38 min | EUR | Low | French CPI (YoY) (Jun) |  |  | 2.3% |
+| 38 min | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
+| 38 min | EUR | Moderate | French HICP (MoM) |  | 0.1% | 0.1% |
+| 38 min | EUR | Low | French HICP (YoY) |  | 2.5% | 2.6% |
+| 38 min | EUR | Low | PPI (YoY) (May) |  |  | -6.80% |
+| 38 min | EUR | Low | French PPI (MoM) (May) |  |  | -3.6% |
+| 53 min | CHF | Moderate | KOF Leading Indicators (Jun) |  | 101.0 | 100.3 |
+| 53 min | CHF | Low | Official Reserves Assets (May) |  |  | 803.9B |
+| 53 min | EUR | Low | Core CPI (YoY) |  |  | 3.0% |
+| 53 min | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.2% | 0.3% |
+| 53 min | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
+| 53 min | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 53 min | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.4% | 3.8% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jun) |  | 14K | 25K |
 | 08:55 | EUR | Moderate | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
 | 08:55 | EUR | Low | German Unemployment (Jun) |  |  | 2.762M |
@@ -58,10 +56,10 @@
 | 09:00 | NOK | Low | Unemployment Change (Jun) |  |  | 74.26K |
 | 09:00 | NOK | Low | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 1.90% |
 | 09:30 | HKD | Low | M3 Money Supply (May) |  |  | 0.5% |
-| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 1.0% | 0.8% |
-| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 10:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
+| 10:00 | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
 | 11:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 11:00 | EUR | Low | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
 | 11:00 | INR | Low | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
@@ -80,8 +78,8 @@
 | 13:00 | BRL | Moderate | Unemployment Rate |  | 7.3% | 7.5% |
 | 13:00 | ZAR | Low | Budget Balance (MoM) (May) |  |  | -78.05B |
 | 13:00 | ZAR | Low | Trade Balance (May) |  |  | 10.47B |
-| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (May) |  | 2.6% | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.2% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
 | 13:30 | USD | Low | Personal Income (MoM) (May) |  | 0.4% | 0.3% |
