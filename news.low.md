@@ -24,29 +24,29 @@
 | 07:00 | ZAR | M3 Money Supply (YoY) (May) | 4.72% |  | 5.75% |
 | 07:00 | ZAR | Private Sector Credit (May) | 4.26% |  | 3.90% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
-| 07:45 | EUR | French HICP (YoY) | 2.5% | 2.5% | 2.6% |
+| 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | PPI (YoY) (May) | -6.70% |  | -6.70% |
 | 07:45 | EUR | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Official Reserves Assets (May) | 801.4B |  | 803.9B |
-| 08:00 | EUR | Core CPI (YoY) | 3.0% |  | 3.0% |
+| 08:00 | EUR | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
-| 49 min | EUR | German Unemployment (Jun) |  |  | 2.762M |
-| 49 min | EUR | German Unemployment n.s.a. (Jun) |  |  | 2.723M |
-| 54 min | EUR | Italian Industrial Sales (YoY) (Apr) |  |  | -5.10% |
-| 54 min | EUR | Italian Industrial Sales (MoM) (Apr) |  |  | -2.90% |
-| 54 min | EUR | Spanish Current account (Apr) |  |  | 3.29B |
-| 54 min | NOK | Central Bank Currency Purchase (Jul) |  |  | 550.0M |
-| 54 min | NOK | Unemployment Change (Jun) |  |  | 74.26K |
-| 54 min | NOK | Unemployment Rate n.s.a. (Jun) |  | 2.00% | 1.90% |
-| 09:30 | HKD | M3 Money Supply (May) |  |  | 0.5% |
-| 10:00 | EUR | Italian CPI (YoY) (Jun) |  | 1.0% | 0.8% |
-| 10:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 10:00 | EUR | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
-| 10:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
-| 11:00 | USD | FOMC Member Barkin Speaks |  |  |  |
-| 11:00 | EUR | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
-| 11:00 | INR | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
+| 08:55 | EUR | German Unemployment (Jun) | 2.781M |  | 2.762M |
+| 08:55 | EUR | German Unemployment n.s.a. (Jun) | 2.727M |  | 2.723M |
+| 09:00 | EUR | Italian Industrial Sales (YoY) (Apr) | -2.00% |  | -5.10% |
+| 09:00 | EUR | Italian Industrial Sales (MoM) (Apr) | 0.80% |  | -2.80% |
+| 09:00 | EUR | Spanish Current account (Apr) | 2.83B |  | 3.29B |
+| 09:00 | NOK | Central Bank Currency Purchase (Jul) | 400.0M |  | 550.0M |
+| 09:00 | NOK | Unemployment Change (Jun) | 75.00K |  | 74.26K |
+| 09:00 | NOK | Unemployment Rate n.s.a. (Jun) | 1.90% | 2.00% | 1.90% |
+| 09:30 | HKD | M3 Money Supply (May) | 1.5% |  | 0.5% |
+| 10:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 1.0% | 0.8% |
+| 10:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
+| 10:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 10:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
+| 55 min | USD | FOMC Member Barkin Speaks |  |  |  |
+| 55 min | EUR | Italian Trade Balance Non-EU (May) |  |  | 4.91B |
+| 55 min | INR | Federal Fiscal Deficit (May) |  |  | 2,101.36B |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.8% |
 | 12:30 | INR | Deposit Growth |  |  | 12.7% |

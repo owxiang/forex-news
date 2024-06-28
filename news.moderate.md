@@ -8,21 +8,21 @@
 | 07:00 | GBP | Current Account (Q1) | -21.0B | -17.7B | -21.2B |
 | 07:45 | EUR | French Consumer Spending (MoM) (May) | 1.5% | 0.2% | -0.9% |
 | 07:45 | EUR | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
-| 07:45 | EUR | French HICP (MoM) | 0.1% | 0.1% | 0.1% |
+| 07:45 | EUR | French HICP (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
 | 08:00 | CHF | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
-| 50 min | EUR | German Unemployment Change (Jun) |  | 14K | 25K |
-| 50 min | EUR | German Unemployment Rate (Jun) |  | 5.9% | 5.9% |
-| 11:00 | EUR | EU Leaders Summit |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 08:55 | EUR | German Unemployment Change (Jun) | 19K | 14K | 25K |
+| 08:55 | EUR | German Unemployment Rate (Jun) | 6.0% | 5.9% | 5.9% |
+| 55 min | EUR | EU Leaders Summit |  |  |  |
+| 55 min | EUR | Eurogroup Meetings |  |  |  |
 | 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (May) |  | 76.4% | 76.0% |
-| 13:00 | BRL | Unemployment Rate |  | 7.3% | 7.5% |
+| 13:00 | BRL | Unemployment Rate (May) |  | 7.3% | 7.5% |
 | 13:30 | USD | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
 | 13:30 | USD | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
 | 13:30 | USD | Personal Spending (MoM) (May) |  | 0.3% | 0.2% |
 | 13:30 | CAD | GDP (MoM) (Apr) |  | 0.3% | 0.0% |
-| 13:35 | CAD | GDP (MoM) |  |  |  |
+| 13:31 | CAD | GDP (MoM) (May) |  |  |  |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jun) |  | 3.3% | 3.3% |
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jun) |  | 3.1% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jun) |  | 67.6 | 68.8 |
