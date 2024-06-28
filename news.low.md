@@ -25,8 +25,8 @@
 | 07:00 | ZAR | Private Sector Credit (May) | 4.26% |  | 3.90% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.1% |  | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
-| 07:45 | EUR | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 07:45 | EUR | PPI (YoY) (May) | -6.70% |  | -6.70% |
+| 07:45 | EUR | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Official Reserves Assets (May) | 801.4B |  | 803.9B |
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
@@ -57,10 +57,10 @@
 | 12:30 | BRL | Budget Balance (May) | -138.256B | -118.900B | -69.638B |
 | 12:30 | BRL | Budget Surplus (May) | -63.895B |  | 6.688B |
 | 13:00 | ZAR | Trade Balance (May) | 20.09B |  | 10.47B |
-| 22 min | USD | Personal Income (MoM) (May) |  | 0.4% | 0.3% |
-| 22 min | USD | Real Personal Consumption (MoM) (May) |  |  | -0.1% |
-| 52 min | USD | Dallas Fed PCE (May) |  |  | 2.70% |
-| 15:00 | USD | Michigan Current Conditions (Jun) |  | 62.5 | 69.6 |
+| 13:30 | USD | Personal Income (MoM) (May) | 0.5% | 0.4% | 0.3% |
+| 13:30 | USD | Real Personal Consumption (MoM) (May) | 0.3% |  | -0.1% |
+| 15:00 | USD | Michigan Current Conditions (Jun) | 65.9 | 62.5 | 69.6 |
+| 54 min | USD | Dallas Fed PCE (May) |  |  | 2.70% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 1.6K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 52.6K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -76.7K |

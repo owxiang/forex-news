@@ -20,11 +20,11 @@
 | 02:30 | AUD | Low | Private Sector Credit (MoM) (May) | 0.4% | 0.4% | 0.5% |
 | 06:00 | JPY | Low | Construction Orders (YoY) (May) | 2.1% |  | 26.4% |
 | 06:00 | JPY | Low | Housing Starts (YoY) (May) | -5.3% | -6.1% | 13.9% |
-| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.0% | -0.6% | 2.8% |
 | 07:00 | GBP | Moderate | Business Investment (QoQ) (Q1) | 0.5% | 0.9% | 1.4% |
+| 07:00 | GBP | Low | Business Investment (YoY) (Q1) | -1.0% | -0.6% | 2.8% |
 | 07:00 | GBP | Moderate | Current Account (Q1) | -21.0B | -17.7B | -21.2B |
-| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.3% | 0.2% | -0.2% |
 | 07:00 | GBP | High | GDP (QoQ) (Q1) | 0.7% | 0.6% | -0.3% |
+| 07:00 | GBP | High | GDP (YoY) (Q1) | 0.3% | 0.2% | -0.2% |
 | 07:00 | EUR | Low | German Import Price Index (MoM) (May) | 0.0% | 0.2% | 0.7% |
 | 07:00 | EUR | Low | German Import Price Index (YoY) (May) | -0.4% | -0.3% | -1.7% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (May) | 3.2% |  | 0.2% |
@@ -35,13 +35,13 @@
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
-| 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 07:45 | EUR | Low | PPI (YoY) (May) | -6.70% |  | -6.70% |
+| 07:45 | EUR | Low | French PPI (MoM) (May) | -1.4% |  | -3.6% |
 | 08:00 | CHF | Moderate | KOF Leading Indicators (Jun) | 102.7 | 101.0 | 102.2 |
 | 08:00 | CHF | Low | Official Reserves Assets (May) | 801.4B |  | 803.9B |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 3.0% |  | 3.0% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.3% | 0.2% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.5% | 3.4% | 3.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.3% | 0.3% | 0.2% |
 | 08:55 | EUR | Moderate | German Unemployment Change (Jun) | 19K | 14K | 25K |
@@ -76,24 +76,25 @@
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (May) | 76.8% | 76.4% | 76.0% |
 | 13:00 | BRL | Moderate | Unemployment Rate (May) | 7.1% | 7.3% | 7.5% |
 | 13:00 | ZAR | Low | Trade Balance (May) | 20.09B |  | 10.47B |
-| 22 min | USD | High | Core PCE Price Index (YoY) (May) |  | 2.6% | 2.8% |
-| 22 min | USD | High | Core PCE Price Index (MoM) (May) |  | 0.1% | 0.2% |
-| 22 min | USD | Moderate | PCE Price index (YoY) (May) |  | 2.6% | 2.7% |
-| 22 min | USD | Moderate | PCE price index (MoM) (May) |  | 0.0% | 0.3% |
-| 22 min | USD | Low | Personal Income (MoM) (May) |  | 0.4% | 0.3% |
-| 22 min | USD | Moderate | Personal Spending (MoM) (May) |  | 0.3% | 0.2% |
-| 22 min | USD | Low | Real Personal Consumption (MoM) (May) |  |  | -0.1% |
-| 22 min | CAD | Moderate | GDP (MoM) (Apr) |  | 0.3% | 0.0% |
-| 23 min | CAD | Moderate | GDP (MoM) (May) |  |  |  |
-| 52 min | USD | Low | Dallas Fed PCE (May) |  |  | 2.70% |
-| 14:45 | USD | High | Chicago PMI (Jun) |  | 39.7 | 35.4 |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) |  | 3.3% | 3.3% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) |  | 3.1% | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) |  | 67.6 | 68.8 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) |  | 65.6 | 69.1 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jun) |  | 62.5 | 69.6 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
-| 17:00 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (May) | 2.6% | 2.6% | 2.8% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (May) | 0.1% | 0.1% | 0.3% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (May) | 2.6% | 2.6% | 2.7% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (May) | 0.0% | 0.0% | 0.3% |
+| 13:30 | USD | Low | Personal Income (MoM) (May) | 0.5% | 0.4% | 0.3% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (May) | 0.2% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (May) | 0.3% |  | -0.1% |
+| 13:30 | CAD | Moderate | GDP (MoM) (Apr) | 0.3% | 0.3% | 0.0% |
+| 13:31 | CAD | Moderate | GDP (MoM) (May) | 0.1% |  | 0.3% |
+| 13:40 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 14:45 | USD | High | Chicago PMI (Jun) | 47.4 | 39.7 | 35.4 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jun) | 3.0% | 3.3% | 3.3% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jun) | 3.0% | 3.1% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jun) | 69.6 | 67.6 | 68.8 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jun) | 68.2 | 65.6 | 69.1 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jun) | 65.9 | 62.5 | 69.6 |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.2% | 2.7% | 2.7% |
+| 54 min | USD | Low | Dallas Fed PCE (May) |  |  | 2.70% |
+| 54 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 485 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 588 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 47.6K |
