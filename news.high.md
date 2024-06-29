@@ -1,3 +1,5 @@
-## 29 June 2024 - High Impact Forex News
+## 30 June 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 02:30 | CNY | Manufacturing PMI (Jun) |  | 49.5 | 49.5 |
