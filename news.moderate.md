@@ -24,4 +24,4 @@
 | 15:00 | USD | ISM Manufacturing Employment (Jun) | 49.3 | 50.0 | 51.1 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.7% | 2.2% | 2.2% |
 | 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | NZD | NZIER Business Confidence (Q2) |  |  | -25% |
+| 54 min | NZD | NZIER Business Confidence (Q2) |  |  | -25% |

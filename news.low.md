@@ -48,8 +48,8 @@
 | 11:00 | EUR | Car Registration (MoM) (Jun) | 8.60% |  | 3.40% |
 | 11:00 | EUR | Car Registration (YoY) (Jun) | 2.20% |  | 3.40% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
 | 13:00 | EUR | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
 | 13:00 | ZAR | Total Vehicle Sales (Jun) | 40.07K |  | 37.12K |
 | 13:00 | ZAR | Total Vehicle Sales (YoY) (Jun) | -14.00% |  | -14.20% |
 | 14:00 | EUR | French 12-Month BTF Auction | 3.477% |  | 3.437% |
@@ -60,4 +60,4 @@
 | 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Jun) | 51.10 |  | 51.20 |
 | 16:30 | USD | 3-Month Bill Auction | 5.240% |  | 5.235% |
 | 16:30 | USD | 6-Month Bill Auction | 5.115% |  | 5.140% |
-| 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.2% |
+| 54 min | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.2% |

@@ -66,8 +66,8 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.3% | 2.4% |
 | 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 40.07K |  | 37.12K |
 | 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | -14.00% |  | -14.20% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
@@ -86,5 +86,5 @@
 | 16:30 | USD | Low | 6-Month Bill Auction | 5.115% |  | 5.140% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.7% | 2.2% | 2.2% |
 | 20:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -25% |
-| 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.2% |
+| 54 min | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -25% |
+| 54 min | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.2% |
