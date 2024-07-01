@@ -23,5 +23,5 @@
 | 15:00 | USD | Construction Spending (MoM) (May) | -0.1% | 0.3% | 0.3% |
 | 15:00 | USD | ISM Manufacturing Employment (Jun) | 49.3 | 50.0 | 51.1 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 1.7% | 2.2% | 2.2% |
-| 53 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | NZIER Business Confidence (Q2) |  |  | -25% |
