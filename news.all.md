@@ -3,20 +3,26 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.2 | 47.5 | 49.7 |
-| 44 min | JPY | Low | Tankan All Small Industry CAPEX (Q2) |  |  | -3.6% |
-| 44 min | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q2) |  |  | 0 |
-| 44 min | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q2) |  |  | 8 |
-| 44 min | JPY | Low | Tankan Small Non-Manufacturing Index (Q2) |  |  | 13 |
-| 54 min | KRW | Low | Exports (YoY) (Jun) |  | 6.3% | 11.7% |
-| 54 min | KRW | Low | Imports (YoY) (Jun) |  | -2.2% | -2.0% |
-| 54 min | KRW | Low | Trade Balance (Jun) |  | 5.24B | 4.96B |
-| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jun) |  |  | 51.6 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jun) |  | 50.1 | 50.4 |
-| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Jun) |  |  | 52.1 |
-| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) |  |  | -2.1% |
-| 02:30 | AUD | Low | MI Inflation Gauge (MoM) |  |  | 0.3% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (May) |  |  | 0.1% |
-| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jun) |  | 51.5 | 51.7 |
+| 00:50 | JPY | Moderate | Tankan All Big Industry CAPEX (Q2) | 11.1% |  | 4.0% |
+| 00:50 | JPY | Low | Tankan All Small Industry CAPEX (Q2) | -0.8% |  | -3.6% |
+| 00:50 | JPY | Moderate | Tankan Big Manufacturing Outlook Index (Q2) | 14 |  | 10 |
+| 00:50 | JPY | Moderate | Tankan Large Manufacturers Index (Q2) | 13 |  | 11 |
+| 00:50 | JPY | Low | Tankan Large Non-Manufacturers Diffusion Index (Q2) | 27 |  | 27 |
+| 00:50 | JPY | Moderate | Tankan Large Non-Manufacturers Index (Q2) | 33 |  | 34 |
+| 00:50 | JPY | Low | Tankan Small Manufacturers Diffusion Index (Q2) | 0 |  | 0 |
+| 00:50 | JPY | Low | Tankan Small Manufacturing Index (Q2) | -1 |  | -1 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturers Diffusion Index (Q2) | 8 |  | 8 |
+| 00:50 | JPY | Low | Tankan Small Non-Manufacturing Index (Q2) | 12 |  | 13 |
+| 01:00 | KRW | Low | Exports (YoY) (Jun) | 5.1% | 6.3% | 11.7% |
+| 01:00 | KRW | Low | Imports (YoY) (Jun) | -7.5% | -2.2% | -2.0% |
+| 01:00 | KRW | Low | Trade Balance (Jun) | 8.00B | 5.24B | 4.96B |
+| 01:30 | KRW | Low | S&P Global South Korea Manufacturing PMI (Jun) | 52.0 |  | 51.6 |
+| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jun) | 50.0 | 50.1 | 50.4 |
+| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 1.10% |  | 1.40% |
+| 01:30 | IDR | Low | Nikkei Manufacturing PMI (Jun) | 50.7 |  | 52.1 |
+| 02:30 | AUD | Low | ANZ Job Advertisements (MoM) | -2.2% |  | -1.9% |
+| 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.3% |
+| 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jun) | 51.8 | 51.5 | 51.7 |
 | 03:00 | SGD | Low | Bank Lending |  |  | 804.3B |
 | 05:00 | IDR | Low | Core Inflation (YoY) (Jun) |  | 1.96% | 1.93% |
 | 05:00 | IDR | Low | Inflation (MoM) (Jun) |  | 0.06% | -0.03% |

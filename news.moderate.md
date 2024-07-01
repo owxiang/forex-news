@@ -2,8 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Retail Sales (MoM) (May) |  |  | 0.1% |
-| 02:45 | CNY | Caixin Manufacturing PMI (Jun) |  | 51.5 | 51.7 |
+| 00:50 | JPY | Tankan All Big Industry CAPEX (Q2) | 11.1% |  | 4.0% |
+| 00:50 | JPY | Tankan Big Manufacturing Outlook Index (Q2) | 14 |  | 10 |
+| 00:50 | JPY | Tankan Large Manufacturers Index (Q2) | 13 |  | 11 |
+| 00:50 | JPY | Tankan Large Non-Manufacturers Index (Q2) | 33 |  | 34 |
+| 02:45 | CNY | Caixin Manufacturing PMI (Jun) | 51.8 | 51.5 | 51.7 |
 | 07:00 | GBP | Nationwide HPI (YoY) (Jun) |  |  | 1.3% |
 | 07:00 | GBP | Nationwide HPI (MoM) (Jun) |  | 0.0% | 0.4% |
 | 08:00 | EUR | European Central Bank Non-monetary Policy Meeting |  |  |  |
