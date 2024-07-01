@@ -39,16 +39,16 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) | 45.7 | 44.3 | 45.6 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) | 45.4 | 45.3 | 46.4 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) | 43.5 | 43.4 | 45.4 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 1.9% |  | 2.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) | 2.7% |  | 2.7% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | 0.2% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) | 0.1% |  | 3.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) | 2.6% |  | 2.9% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 1.8% |  | 1.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | 0.1% |  | 0.2% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 2.2% |  | 2.5% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) | 2.8% |  | 3.1% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) | 0.1% |  | 0.1% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jun) | 47.7 |  | 51.7 |
@@ -66,10 +66,10 @@
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.3% | 2.4% |
 | 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
-| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | -14.00% |  | -14.20% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
 | 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 40.07K |  | 37.12K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | -14.00% |  | -14.20% |
 | 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.477% |  | 3.437% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.687% |  | 3.699% |
