@@ -1,8 +1,7 @@
-## 01 July 2024 - High Impact Forex News
+## 02 July 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:00 | EUR | German CPI (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
-| 14:45 | USD | S&P Global US Manufacturing PMI (Jun) | 51.6 | 51.7 | 51.3 |
-| 15:00 | USD | ISM Manufacturing PMI (Jun) | 48.5 | 49.2 | 48.7 |
-| 15:00 | USD | ISM Manufacturing Prices (Jun) | 52.1 | 55.8 | 57.0 |
+| 10:00 | EUR | CPI (YoY) (Jun) |  | 2.5% | 2.6% |
+| 14:30 | USD | Fed Chair Powell Speaks |  |  |  |
+| 15:00 | USD | JOLTs Job Openings (May) |  | 7.860M | 8.059M |
