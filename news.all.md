@@ -24,13 +24,13 @@
 | 02:30 | AUD | Low | MI Inflation Gauge (MoM) | 0.3% |  | 0.3% |
 | 02:45 | CNY | Moderate | Caixin Manufacturing PMI (Jun) | 51.8 | 51.5 | 51.7 |
 | 03:00 | SGD | Low | Bank Lending | 796.7B |  | 804.3B |
-| 54 min | IDR | Low | Core Inflation (YoY) (Jun) |  | 1.96% | 1.93% |
-| 54 min | IDR | Low | Inflation (MoM) (Jun) |  | 0.06% | -0.03% |
-| 54 min | IDR | Low | Inflation (YoY) (Jun) |  | 2.70% | 2.84% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI (Jun) |  | 58.5 | 57.5 |
-| 06:00 | JPY | Low | Household Confidence (Jun) |  | 36.4 | 36.2 |
-| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | 0.0% | 0.4% |
+| 05:00 | IDR | Low | Core Inflation (YoY) (Jun) |  | 1.96% | 1.93% |
+| 05:00 | IDR | Low | Inflation (MoM) (Jun) | -0.08% | 0.06% | -0.03% |
+| 05:00 | IDR | Low | Inflation (YoY) (Jun) | 2.51% | 2.70% | 2.84% |
+| 53 min | INR | Low | HSBC India Manufacturing PMI (Jun) |  | 58.5 | 57.5 |
+| 53 min | JPY | Low | Household Confidence (Jun) |  | 36.4 | 36.2 |
 | 07:00 | GBP | Moderate | Nationwide HPI (YoY) (Jun) |  |  | 1.3% |
+| 07:00 | GBP | Moderate | Nationwide HPI (MoM) (Jun) |  | 0.0% | 0.4% |
 | 07:30 | CHF | Low | Retail Sales (YoY) (May) |  | 2.5% | 2.7% |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -4.2% |
 | 08:00 | EUR | Moderate | European Central Bank Non-monetary Policy Meeting |  |  |  |
@@ -40,12 +40,12 @@
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) |  | 43.4 | 45.4 |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.1% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) |  |  | 2.7% |
+| 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) |  |  | 3.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) |  |  | 2.9% |
-| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 1.9% |
 | 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
+| 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) |  |  | 1.9% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.5% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) |  |  | 3.1% |
@@ -60,8 +60,8 @@
 | 09:30 | GBP | Low | Mortgage Lending (May) |  |  | 2.41B |
 | 09:30 | GBP | Low | Net Lending to Individuals |  | 3.300B | 3.100B |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
-| 11:00 | EUR | Low | Car Registration (YoY) (Jun) |  |  | 3.40% |
 | 11:00 | EUR | Low | Car Registration (MoM) (Jun) |  |  | 3.40% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jun) |  |  | 3.40% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | High | German CPI (MoM) (Jun) |  |  | 0.1% |
