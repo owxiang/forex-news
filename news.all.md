@@ -81,10 +81,11 @@
 | 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jun) | 49.3 | 49.0 | 45.4 |
 | 15:00 | USD | High | ISM Manufacturing PMI (Jun) | 48.5 | 49.2 | 48.7 |
 | 15:00 | USD | High | ISM Manufacturing Prices (Jun) | 52.1 | 55.8 | 57.0 |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.235% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.140% |
-| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Jun) |  |  | 8.53B |
+| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jun) | 51.10 |  | 51.20 |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.240% |  | 5.235% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.115% |  | 5.140% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.7% |  | 2.2% |
+| 55 min | BRL | Low | Trade Balance (Jun) |  |  | 8.53B |
 | 20:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | Moderate | NZIER Business Confidence (Q2) |  |  | -25% |
 | 23:00 | NZD | Low | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.2% |

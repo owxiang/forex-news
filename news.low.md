@@ -57,7 +57,8 @@
 | 14:00 | EUR | French 6-Month BTF Auction | 3.623% |  | 3.628% |
 | 14:00 | BRL | S&P Global Manufacturing PMI (Jun) | 52.5 |  | 52.1 |
 | 15:00 | USD | ISM Manufacturing New Orders Index (Jun) | 49.3 | 49.0 | 45.4 |
-| 16:30 | USD | 3-Month Bill Auction |  |  | 5.235% |
-| 16:30 | USD | 6-Month Bill Auction |  |  | 5.140% |
-| 19:00 | BRL | Trade Balance (Jun) |  |  | 8.53B |
+| 16:00 | MXN | S&P Global Mexico Manufacturing PMI (Jun) | 51.10 |  | 51.20 |
+| 16:30 | USD | 3-Month Bill Auction | 5.240% |  | 5.235% |
+| 16:30 | USD | 6-Month Bill Auction | 5.115% |  | 5.140% |
+| 55 min | BRL | Trade Balance (Jun) |  |  | 8.53B |
 | 23:00 | NZD | NZIER QSBO Capacity Utilization (Q2) |  |  | 90.2% |
