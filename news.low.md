@@ -50,11 +50,13 @@
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 13:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
 | 13:00 | EUR | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 3.437% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.699% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.628% |
-| 50 min | BRL | S&P Global Manufacturing PMI (Jun) |  |  | 52.1 |
-| 15:00 | USD | ISM Manufacturing New Orders Index (Jun) |  | 49.0 | 45.4 |
+| 13:00 | ZAR | Total Vehicle Sales (Jun) | 40.07K |  | 37.11K |
+| 13:00 | ZAR | Total Vehicle Sales (YoY) (Jun) | -14.00% |  | -14.20% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.477% |  | 3.437% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.687% |  | 3.699% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.623% |  | 3.628% |
+| 14:00 | BRL | S&P Global Manufacturing PMI (Jun) | 52.5 |  | 52.1 |
+| 52 min | USD | ISM Manufacturing New Orders Index (Jun) |  | 49.0 | 45.4 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.235% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.140% |
 | 19:00 | BRL | Trade Balance (Jun) |  |  | 8.53B |

@@ -19,9 +19,9 @@
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI (Jun) | 50.9 | 51.4 | 51.2 |
 | 10:00 | EUR | German Buba Balz Speaks |  |  |  |
 | 13:00 | EUR | German CPI (YoY) (Jun) | 2.2% | 2.3% | 2.4% |
-| 5 min | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:00 | USD | Construction Spending (MoM) (May) |  | 0.3% | -0.1% |
-| 15:00 | USD | ISM Manufacturing Employment (Jun) |  | 50.0 | 51.1 |
+| 13:15 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 52 min | USD | Construction Spending (MoM) (May) |  | 0.3% | -0.1% |
+| 52 min | USD | ISM Manufacturing Employment (Jun) |  | 50.0 | 51.1 |
 | 17:00 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 20:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 23:00 | NZD | NZIER Business Confidence (Q2) |  |  | -25% |

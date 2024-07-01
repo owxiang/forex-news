@@ -68,17 +68,19 @@
 | 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
 | 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
 | 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
-| 5 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.437% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.699% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.628% |
-| 50 min | BRL | Low | S&P Global Manufacturing PMI (Jun) |  |  | 52.1 |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.7 | 51.3 |
-| 15:00 | USD | Moderate | Construction Spending (MoM) (May) |  | 0.3% | -0.1% |
-| 15:00 | USD | Moderate | ISM Manufacturing Employment (Jun) |  | 50.0 | 51.1 |
-| 15:00 | USD | Low | ISM Manufacturing New Orders Index (Jun) |  | 49.0 | 45.4 |
-| 15:00 | USD | High | ISM Manufacturing PMI (Jun) |  | 49.2 | 48.7 |
-| 15:00 | USD | High | ISM Manufacturing Prices (Jun) |  | 55.8 | 57.0 |
+| 13:00 | ZAR | Low | Total Vehicle Sales (Jun) | 40.07K |  | 37.11K |
+| 13:00 | ZAR | Low | Total Vehicle Sales (YoY) (Jun) | -14.00% |  | -14.20% |
+| 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.477% |  | 3.437% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.687% |  | 3.699% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.623% |  | 3.628% |
+| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) | 52.5 |  | 52.1 |
+| 37 min | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.7 | 51.3 |
+| 52 min | USD | Moderate | Construction Spending (MoM) (May) |  | 0.3% | -0.1% |
+| 52 min | USD | Moderate | ISM Manufacturing Employment (Jun) |  | 50.0 | 51.1 |
+| 52 min | USD | Low | ISM Manufacturing New Orders Index (Jun) |  | 49.0 | 45.4 |
+| 52 min | USD | High | ISM Manufacturing PMI (Jun) |  | 49.2 | 48.7 |
+| 52 min | USD | High | ISM Manufacturing Prices (Jun) |  | 55.8 | 57.0 |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.235% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.140% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
