@@ -39,16 +39,16 @@
 | 08:45 | EUR | Moderate | HCOB Italy Manufacturing PMI (Jun) | 45.7 | 44.3 | 45.6 |
 | 08:50 | EUR | Moderate | HCOB France Manufacturing PMI (Jun) | 45.4 | 45.3 | 46.4 |
 | 08:55 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jun) | 43.5 | 43.4 | 45.4 |
-| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Baden Wuerttemberg CPI (YoY) (Jun) | 1.9% |  | 2.1% |
+| 09:00 | EUR | Low | Baden Wuerttemberg CPI (MoM) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Bavaria CPI (YoY) (Jun) | 2.7% |  | 2.7% |
 | 09:00 | EUR | Low | Bavaria CPI (MoM) (Jun) | 0.2% |  | 0.1% |
 | 09:00 | EUR | Low | Brandenburg CPI (MoM) (Jun) | 0.1% |  | 3.0% |
 | 09:00 | EUR | Low | Brandenburg CPI (YoY) (Jun) | 2.6% |  | 2.9% |
-| 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | Hesse CPI (YoY) (Jun) | 1.8% |  | 1.9% |
-| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | 0.1% |  | 0.2% |
+| 09:00 | EUR | Low | Hesse CPI (MoM) (Jun) | 0.1% |  | 0.0% |
 | 09:00 | EUR | Low | North Rhine Westphalia CPI (YoY) (Jun) | 2.2% |  | 2.5% |
+| 09:00 | EUR | Low | North Rhine Westphalia CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:00 | EUR | Low | Saxony CPI (YoY) (Jun) | 2.8% |  | 3.1% |
 | 09:00 | EUR | Low | Saxony CPI (MoM) (Jun) | 0.1% |  | 0.1% |
 | 09:00 | NOK | Low | Manufacturing PMI (Jun) | 47.7 |  | 51.7 |
@@ -61,16 +61,18 @@
 | 09:30 | GBP | Low | Mortgage Lending (May) | 1.21B |  | 2.23B |
 | 09:30 | GBP | Low | Net Lending to Individuals | 2.700B | 3.300B | 3.100B |
 | 10:00 | EUR | Moderate | German Buba Balz Speaks |  |  |  |
+| 11:00 | EUR | Low | Car Registration (MoM) (Jun) | 8.60% |  | 3.40% |
+| 11:00 | EUR | Low | Car Registration (YoY) (Jun) | 2.20% |  | 3.40% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.3% | 2.4% |
-| 13:00 | EUR | High | German CPI (MoM) (Jun) |  | 0.2% | 0.1% |
-| 13:00 | EUR | Low | German HICP (YoY) (Jun) |  | 2.6% | 2.8% |
-| 13:00 | EUR | Low | German HICP (MoM) (Jun) |  |  | 0.2% |
-| 13:15 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.437% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.699% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.628% |
-| 14:00 | BRL | Low | S&P Global Manufacturing PMI (Jun) |  |  | 52.1 |
+| 13:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.3% | 2.4% |
+| 13:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.2% | 0.1% |
+| 13:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.6% | 2.8% |
+| 13:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% |  | 0.2% |
+| 5 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.437% |
+| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.699% |
+| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.628% |
+| 50 min | BRL | Low | S&P Global Manufacturing PMI (Jun) |  |  | 52.1 |
 | 14:45 | USD | High | S&P Global US Manufacturing PMI (Jun) |  | 51.7 | 51.3 |
 | 15:00 | USD | Moderate | Construction Spending (MoM) (May) |  | 0.3% | -0.1% |
 | 15:00 | USD | Moderate | ISM Manufacturing Employment (Jun) |  | 50.0 | 51.1 |
