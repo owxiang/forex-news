@@ -24,33 +24,33 @@
 | 05:00 | IDR | Inflation (MoM) (Jun) | -0.08% | 0.06% | -0.03% |
 | 06:00 | INR | HSBC India Manufacturing PMI (Jun) | 58.3 | 58.5 | 57.5 |
 | 06:00 | JPY | Household Confidence (Jun) | 36.4 | 36.4 | 36.2 |
-| 07:30 | CHF | Retail Sales (YoY) (May) |  | 2.5% | 2.7% |
-| 07:30 | AUD | Commodity Prices (YoY) |  |  | -4.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
-| 09:00 | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.1% |
-| 09:00 | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.7% |
-| 09:00 | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
-| 09:00 | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 3.0% |
-| 09:00 | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.9% |
-| 09:00 | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
-| 09:00 | EUR | Hesse CPI (YoY) (Jun) |  |  | 1.9% |
-| 09:00 | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
-| 09:00 | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.5% |
-| 09:00 | EUR | Saxony CPI (YoY) (Jun) |  |  | 3.1% |
-| 09:00 | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.1% |
-| 09:00 | NOK | Manufacturing PMI (Jun) |  |  | 52.3 |
+| 07:30 | CHF | Retail Sales (YoY) (May) | 0.4% | 2.5% | 2.2% |
+| 07:30 | AUD | Commodity Prices (YoY) | -4.1% |  | -6.0% |
+| 54 min | EUR | Baden Wuerttemberg CPI (MoM) |  |  | 0.2% |
+| 54 min | EUR | Baden Wuerttemberg CPI (YoY) (Jun) |  |  | 2.1% |
+| 54 min | EUR | Bavaria CPI (MoM) (Jun) |  |  | 0.1% |
+| 54 min | EUR | Bavaria CPI (YoY) (Jun) |  |  | 2.7% |
+| 54 min | EUR | Brandenburg CPI (YoY) (Jun) |  |  | 2.9% |
+| 54 min | EUR | Brandenburg CPI (MoM) (Jun) |  |  | 3.0% |
+| 54 min | EUR | Hesse CPI (MoM) (Jun) |  |  | 0.0% |
+| 54 min | EUR | Hesse CPI (YoY) (Jun) |  |  | 1.9% |
+| 54 min | EUR | North Rhine Westphalia CPI (MoM) (Jun) |  |  | 0.2% |
+| 54 min | EUR | North Rhine Westphalia CPI (YoY) (Jun) |  |  | 2.5% |
+| 54 min | EUR | Saxony CPI (YoY) (Jun) |  |  | 3.1% |
+| 54 min | EUR | Saxony CPI (MoM) (Jun) |  |  | 0.1% |
+| 54 min | NOK | Manufacturing PMI (Jun) |  |  | 52.3 |
 | 09:30 | GBP | BoE Consumer Credit (May) |  |  | 0.730B |
 | 09:30 | GBP | M3 Money Supply (May) |  |  | 3,044.0B |
 | 09:30 | GBP | M4 Money Supply (MoM) (May) |  | 0.2% | 0.1% |
 | 09:30 | GBP | Mortgage Approvals (May) |  | 60.00K | 61.14K |
 | 09:30 | GBP | Mortgage Lending (May) |  |  | 2.41B |
 | 09:30 | GBP | Net Lending to Individuals |  | 3.300B | 3.100B |
-| 11:00 | EUR | Car Registration (MoM) (Jun) |  |  | 3.40% |
 | 11:00 | EUR | Car Registration (YoY) (Jun) |  |  | 3.40% |
+| 11:00 | EUR | Car Registration (MoM) (Jun) |  |  | 3.40% |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.6% | 2.8% |
 | 13:00 | EUR | German HICP (MoM) (Jun) |  |  | 0.2% |
+| 13:00 | EUR | German HICP (YoY) (Jun) |  | 2.6% | 2.8% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.437% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.699% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.628% |
