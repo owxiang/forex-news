@@ -13,4 +13,4 @@
 | 10:00 | EUR | Unemployment Rate (May) | 6.4% | 6.4% | 6.4% |
 | 11:30 | EUR | ECB's Schnabel Speaks |  |  |  |
 | 14:30 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 24 min | USD | API Weekly Crude Oil Stock |  | -0.150M | 0.914M |
+| 21:30 | USD | API Weekly Crude Oil Stock | -9.163M | -0.150M | 0.914M |
