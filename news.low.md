@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jun) | 2.4% | 2.7% | 2.7% |
 | 00:00 | KRW | CPI (MoM) (Jun) | -0.2% | 0.1% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (Jun) | 2.4% | 2.7% | 2.7% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.2% |  | 0.6% |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | 0.6% | 1.0% | 0.9% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (May) | 6.8% | 6.9% | 6.8% |
@@ -17,8 +17,8 @@
 | 10:30 | EUR | German 30-Year Bund Auction | 2.740% |  | 2.540% |
 | 10:40 | EUR | Spanish 12-Month Letras Auction | 3.372% |  | 3.407% |
 | 10:40 | EUR | Spanish 6-Month Letras Auction | 3.411% |  | 3.367% |
-| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | 18.10% | 17.70% | 3.00% |
 | 13:00 | MXN | Gross Fixed Investments (MoM) (Apr) | 0.90% | 1.20% | 0.80% |
+| 13:00 | MXN | Gross Fixed Investments (YoY) (Apr) | 18.10% | 17.70% | 3.00% |
 | 13:00 | NZD | GlobalDairyTrade Price Index | -6.9% |  | -0.5% |
 | 13:00 | USD | Milk Auctions | 3,782.0 |  | 3,893.0 |
 | 13:30 | USD | OPEC Crude Oil Production Algeria (Barrel) | 0.91M | 0.91M | 0.91M |
