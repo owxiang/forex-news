@@ -51,6 +51,5 @@
 | 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | USD | High | JOLTs Job Openings (May) | 8.140M | 7.960M | 7.919M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 44.2 | 41.2 | 40.5 |
-| 54 min | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.150M | 0.914M |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 412.83B |
