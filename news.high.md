@@ -4,4 +4,4 @@
 |------|----------|-------|--------|----------|----------|
 | 10:00 | EUR | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 14:30 | USD | Fed Chair Powell Speaks |  |  |  |
-| 15:00 | USD | JOLTs Job Openings (May) |  | 7.960M | 8.059M |
+| 15:00 | USD | JOLTs Job Openings (May) | 8.140M | 7.960M | 7.919M |

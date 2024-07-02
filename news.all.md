@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (MoM) (Jun) | -0.2% | 0.1% | 0.1% |
 | 00:00 | KRW | Low | CPI (YoY) (Jun) | 2.4% | 2.7% | 2.7% |
+| 00:00 | KRW | Low | CPI (MoM) (Jun) | -0.2% | 0.1% | 0.1% |
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.2% |  | 0.6% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | 0.6% | 1.0% | 0.9% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
@@ -15,8 +15,8 @@
 | 09:30 | HKD | Low | Retail Sales (YoY) (May) | -11.5% |  | -14.7% |
 | 09:30 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
 | 10:00 | EUR | Low | Italian Public Deficit (Q1) | 8.8% |  | 5.7% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.3% |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.9% | 2.8% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.3% |  | 0.4% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.2% |  | 0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 126.58 |  | 126.31 |
@@ -28,19 +28,29 @@
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.372% |  | 3.407% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.411% |  | 3.367% |
 | 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 55 min | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  |  | 0.80% |
-| 55 min | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  | 20.60% | 3.00% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
-| 14:00 | SGD | Low | S&P Global Singapore PMI (Jun) |  |  | 50.6 |
+| 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | 18.10% | 17.70% | 3.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | 0.90% | 1.20% | 0.80% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index | -6.9% |  | -0.5% |
+| 13:00 | USD | Low | Milk Auctions | 3,782.0 |  | 3,893.0 |
+| 13:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.91M | 0.91M | 0.91M |
+| 13:30 | USD | Low | OPEC Crude Oil Production Congo (Barrel) | 0.26M | 0.26M | 0.26M |
+| 13:30 | USD | Low | OPEC Crude Oil Production Gabon (Barrel) | 0.22M | 0.22M | 0.22M |
+| 13:30 | USD | Low | OPEC Crude Oil Production Guinea (Barrel) | 0.06M | 0.06M | 0.06M |
+| 13:30 | USD | Low | OPEC Crude oil Production Iran (Barrel) | 3.20M | 3.20M | 3.20M |
+| 13:30 | USD | Low | OPEC Crude oil Production Iraq (Barrel) | 4.15M | 4.15M | 4.15M |
+| 13:30 | USD | Low | OPEC Crude Oil Production Kuwait (Barrel) | 2.41M | 2.41M | 2.41M |
+| 13:30 | USD | Low | OPEC Crude Oil Production Libya (Barrel) | 1.17M | 1.17M | 1.17M |
+| 13:30 | USD | Low | OPEC Crude Oil Production Nigeria (Barrel) | 1.55M | 1.55M | 1.55M |
+| 13:30 | USD | Low | OPEC Crude oil Production Saudi Arabia (Barrel) | 9.03M | 9.03M | 9.03M |
+| 13:30 | USD | Low | OPEC Crude oil Production UAE (Barrel) | 2.93M | 2.93M | 2.93M |
+| 13:30 | USD | Low | OPEC Crude oil Production Venezuela (Barrel) | 0.81M | 0.81M | 0.81M |
+| 13:55 | USD | Low | Redbook (YoY) | 5.8% |  | 5.3% |
+| 14:00 | SGD | Low | S&P Global Singapore PMI (Jun) | 50.4 |  | 50.6 |
 | 14:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jun) |  | 50.2 | 49.3 |
+| 14:30 | CAD | Low | S&P Global Canada Manufacturing PMI (Jun) | 49.3 | 50.2 | 49.3 |
 | 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:00 | USD | High | JOLTs Job Openings (May) |  | 7.960M | 8.059M |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
-| 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 41.2 | 40.5 |
-| 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jun) |  |  | 51.20 |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.5% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,893.0 |
+| 15:00 | USD | High | JOLTs Job Openings (May) | 8.140M | 7.960M | 7.919M |
+| 15:10 | USD | Low | IBD/TIPP Economic Optimism | 44.2 | 41.2 | 40.5 |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.150M | 0.914M |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 412.83B |
