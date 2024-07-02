@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | CPI (YoY) (Jun) | 2.4% | 2.7% | 2.7% |
 | 00:00 | KRW | CPI (MoM) (Jun) | -0.2% | 0.1% | 0.1% |
+| 00:00 | KRW | CPI (YoY) (Jun) | 2.4% | 2.7% | 2.7% |
 | 00:01 | GBP | BRC Shop Price Index (YoY) | 0.2% |  | 0.6% |
 | 00:50 | JPY | Monetary Base (YoY) (Jun) | 0.6% | 1.0% | 0.9% |
 | 09:00 | EUR | Italian Monthly Unemployment Rate (May) |  | 6.9% | 6.9% |
