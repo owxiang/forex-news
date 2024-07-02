@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | CPI (YoY) (Jun) |  | 2.7% | 2.7% |
-| 00:00 | KRW | Low | CPI (MoM) (Jun) |  | 0.1% | 0.1% |
-| 00:01 | GBP | Low | BRC Shop Price Index (YoY) |  |  | 0.6% |
-| 45 min | JPY | Low | Monetary Base (YoY) (Jun) |  | 1.0% | 0.7% |
+| 00:00 | KRW | Low | CPI (YoY) (Jun) | 2.4% | 2.7% | 2.7% |
+| 00:00 | KRW | Low | CPI (MoM) (Jun) | -0.2% | 0.1% | 0.1% |
+| 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.2% |  | 0.6% |
+| 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | 0.6% | 1.0% | 0.9% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (May) |  |  | 0.1% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.048% |
@@ -30,6 +30,8 @@
 | 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
 | 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) |  |  | 0.80% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) |  |  | 3.00% |
+| 13:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.5% |
+| 13:00 | USD | Low | Milk Auctions |  |  | 3,893.0 |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.3% |
 | 14:00 | SGD | Low | S&P Global Singapore PMI (Jun) |  |  | 50.6 |
 | 14:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
@@ -39,8 +41,6 @@
 | 15:00 | USD | Low | Total Vehicle Sales |  | 15.90M | 15.90M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism |  | 41.2 | 40.5 |
 | 16:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jun) |  |  | 51.20 |
-| 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -0.5% |
-| 16:00 | USD | Low | Milk Auctions |  |  | 3,893.0 |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  |  | 8.53B |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | 0.914M |
 | 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 412.83B |
