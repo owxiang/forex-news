@@ -17,8 +17,8 @@
 | 10:00 | EUR | Low | Italian Public Deficit (Q1) | 8.8% |  | 5.7% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.3% |  | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.9% | 2.8% | 2.9% |
-| 10:00 | EUR | High | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.2% |  | 0.2% |
+| 10:00 | EUR | High | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 126.58 |  | 126.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.8% |  | 2.9% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.4% |  | 0.4% |
@@ -28,8 +28,8 @@
 | 10:40 | EUR | Low | Spanish 12-Month Letras Auction | 3.372% |  | 3.407% |
 | 10:40 | EUR | Low | Spanish 6-Month Letras Auction | 3.411% |  | 3.367% |
 | 11:30 | EUR | Moderate | ECB's Schnabel Speaks |  |  |  |
-| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | 0.90% | 1.20% | 0.80% |
 | 13:00 | MXN | Low | Gross Fixed Investments (YoY) (Apr) | 18.10% | 17.70% | 3.00% |
+| 13:00 | MXN | Low | Gross Fixed Investments (MoM) (Apr) | 0.90% | 1.20% | 0.80% |
 | 13:00 | NZD | Low | GlobalDairyTrade Price Index | -6.9% |  | -0.5% |
 | 13:00 | USD | Low | Milk Auctions | 3,782.0 |  | 3,893.0 |
 | 13:30 | USD | Low | OPEC Crude Oil Production Algeria (Barrel) | 0.91M | 0.91M | 0.91M |
@@ -51,5 +51,5 @@
 | 14:30 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:00 | USD | High | JOLTs Job Openings (May) | 8.140M | 7.960M | 7.919M |
 | 15:10 | USD | Low | IBD/TIPP Economic Optimism | 44.2 | 41.2 | 40.5 |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.150M | 0.914M |
-| 22:00 | KRW | Low | FX Reserves - USD (Jun) |  |  | 412.83B |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | -0.150M | 0.914M |
+| 54 min | KRW | Low | FX Reserves - USD (Jun) |  |  | 412.83B |
