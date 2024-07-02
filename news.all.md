@@ -7,7 +7,6 @@
 | 00:01 | GBP | Low | BRC Shop Price Index (YoY) | 0.2% |  | 0.6% |
 | 00:50 | JPY | Low | Monetary Base (YoY) (Jun) | 0.6% | 1.0% | 0.9% |
 | 02:30 | AUD | Moderate | RBA Meeting Minutes |  |  |  |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (May) |  |  | 0.1% |
 | 04:35 | JPY | Moderate | 10-Year JGB Auction |  |  | 1.048% |
 | 08:00 | EUR | Moderate | Spanish Unemployment Change |  | -50.9K | -58.7K |
 | 08:30 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
