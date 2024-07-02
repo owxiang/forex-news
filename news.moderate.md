@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
 | 04:35 | JPY | 10-Year JGB Auction | 1.091% |  | 1.048% |
-| 08:00 | EUR | Spanish Unemployment Change (Jun) |  | -50.9K | -58.7K |
+| 52 min | EUR | Spanish Unemployment Change (Jun) |  | -50.9K | -58.7K |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.09% |
 | 09:30 | EUR | ECB's Elderson Speaks |  |  |  |
