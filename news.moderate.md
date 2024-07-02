@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 02:30 | AUD | RBA Meeting Minutes |  |  |  |
-| 04:35 | JPY | 10-Year JGB Auction |  |  | 1.048% |
+| 29 min | JPY | 10-Year JGB Auction |  |  | 1.048% |
 | 08:00 | EUR | Spanish Unemployment Change |  | -50.9K | -58.7K |
 | 08:30 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 09:00 | BRL | IPC-Fipe Inflation Index (MoM) (Jun) |  |  | 0.09% |
