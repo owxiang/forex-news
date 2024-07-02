@@ -37,5 +37,5 @@
 | 14:00 | SGD | S&P Global Singapore PMI (Jun) | 50.4 |  | 50.6 |
 | 14:30 | CAD | S&P Global Canada Manufacturing PMI (Jun) | 49.3 | 50.2 | 49.3 |
 | 15:10 | USD | IBD/TIPP Economic Optimism | 44.2 | 41.2 | 40.5 |
-| 19:00 | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |
+| 54 min | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 22:00 | KRW | FX Reserves - USD (Jun) |  |  | 412.83B |
