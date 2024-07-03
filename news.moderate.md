@@ -20,8 +20,8 @@
 | 12:00 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:00 | BRL | Industrial Production (YoY) (May) |  | -1.7% | 8.4% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,840K | 1,839K |
-| 13:30 | USD | Trade Balance (May) |  | -76.00B | -74.60B |
-| 13:30 | CAD | Trade Balance (May) |  | -1.20B | -1.05B |
+| 13:30 | USD | Trade Balance (May) |  | -76.30B | -74.60B |
+| 13:30 | CAD | Trade Balance (May) |  | -1.30B | -1.05B |
 | 14:45 | USD | S&P Global Composite PMI (Jun) |  | 54.6 | 54.5 |
 | 15:00 | USD | Factory Orders (MoM) (May) |  | 0.2% | 0.7% |
 | 15:00 | USD | ISM Non-Manufacturing Employment (Jun) |  |  | 47.1 |
