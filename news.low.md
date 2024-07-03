@@ -48,7 +48,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.572M |  | 0.406M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | -1.3% |
 | 15:30 | USD | Gasoline Inventories | -2.214M | -1.500M | 2.654M |
-| 27 min | USD | Natural Gas Storage |  | 29B | 52B |
-| 27 min | EUR | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -1.699B |
+| 17:00 | USD | Natural Gas Storage | 32B | 29B | 52B |
+| 17:00 | EUR | Italian Car Registration (YoY) (Jun) | 15.0% |  | -6.6% |
+| 18:30 | BRL | Foreign Exchange Flows | 1.157B |  | -1.699B |
 | 19:00 | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |

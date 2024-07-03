@@ -78,9 +78,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.572M |  | 0.406M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | -1.3% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.214M | -1.500M | 2.654M |
-| 27 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
-| 27 min | USD | Low | Natural Gas Storage |  | 29B | 52B |
-| 27 min | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.699B |
+| 16:30 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 1.5% | 1.7% | 1.7% |
+| 17:00 | USD | Low | Natural Gas Storage | 32B | 29B | 52B |
+| 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.0% |  | -6.6% |
+| 18:30 | BRL | Low | Foreign Exchange Flows | 1.157B |  | -1.699B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
