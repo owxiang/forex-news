@@ -27,8 +27,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jun) | 52.3 | 51.7 | 53.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jun) | 52.1 | 51.2 | 52.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 2.20% |  | 1.70% |
-| 10:00 | EUR | Low | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Low | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
+| 10:00 | EUR | Low | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Jun) | 4.8% |  | -2.9% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.630% |  | 2.600% |
 | 11:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
