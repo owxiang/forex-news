@@ -27,8 +27,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jun) | 52.3 | 51.7 | 53.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jun) | 52.1 | 51.2 | 52.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 2.20% |  | 1.70% |
-| 10:00 | EUR | Low | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | Low | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
+| 10:00 | EUR | Low | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Jun) | 4.8% |  | -2.9% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.630% |  | 2.600% |
 | 11:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -38,12 +38,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 142.9 |  | 147.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 206.5 |  | 212.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 544.1 |  | 552.4 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 19.8% |  | -20.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 13:00 | USD | Low | All Car Sales (Jun) | 2.76M |  | 3.06M |
 | 13:00 | USD | Low | All Truck Sales (Jun) | 12.53M |  | 12.86M |
-| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | -1.0% | -1.7% | 8.4% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) | 150K | 163K | 157K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,858K | 1,840K | 1,832K |
 | 13:30 | USD | High | Initial Jobless Claims | 238K | 234K | 234K |
@@ -56,6 +56,8 @@
 | 14:00 | BRL | Low | S&P Global Services PMI (Jun) | 54.8 |  | 55.3 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jun) | 54.8 | 54.6 | 54.5 |
 | 14:45 | USD | High | S&P Global Services PMI (Jun) | 55.3 | 55.1 | 54.8 |
+| 15:00 | USD | Low | 4-Week Bill Auction | 5.280% |  | 5.270% |
+| 15:00 | USD | Low | 8-Week Bill Auction | 5.275% |  | 5.260% |
 | 15:00 | USD | Low | Durables Excluding Defense (MoM) (May) | -0.2% |  | -0.2% |
 | 15:00 | USD | Low | Durables Excluding Transport (MoM) (May) | -0.1% |  | -0.1% |
 | 15:00 | USD | Moderate | Factory Orders (MoM) (May) | -0.5% | 0.2% | 0.4% |
@@ -76,11 +78,9 @@
 | 15:30 | USD | Low | Heating Oil Stockpiles | -0.572M |  | 0.406M |
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | -1.3% |
 | 15:30 | USD | Low | Gasoline Inventories | -2.214M | -1.500M | 2.654M |
-| 5 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 5 min | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
-| 35 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
-| 35 min | USD | Low | Natural Gas Storage |  | 29B | 52B |
-| 35 min | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
+| 27 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.7% | 1.7% |
+| 27 min | USD | Low | Natural Gas Storage |  | 29B | 52B |
+| 27 min | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -1.699B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |

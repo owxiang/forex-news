@@ -15,16 +15,16 @@
 | 08:50 | EUR | HCOB France Composite PMI (Jun) | 48.8 | 48.2 | 48.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 50.6 | 52.4 |
 | 10:00 | NOK | House Price Index (YoY) (Jun) | 2.20% |  | 1.70% |
-| 10:00 | EUR | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
 | 10:00 | EUR | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
+| 10:00 | EUR | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
 | 10:30 | EUR | French Car Registration (YoY) (Jun) | 4.8% |  | -2.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.03% |  | 6.93% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -2.6% |  | 0.8% |
 | 12:00 | USD | MBA Purchase Index | 142.9 |  | 147.8 |
 | 12:00 | USD | Mortgage Market Index | 206.5 |  | 212.0 |
 | 12:00 | USD | Mortgage Refinance Index | 544.1 |  | 552.4 |
-| 12:30 | USD | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 19.8% |  | -20.3% |
+| 12:30 | USD | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 13:00 | USD | All Car Sales (Jun) | 2.76M |  | 3.06M |
 | 13:00 | USD | All Truck Sales (Jun) | 12.53M |  | 12.86M |
 | 13:00 | BRL | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |
@@ -33,6 +33,8 @@
 | 13:30 | CAD | Imports (May) | 64.37B |  | 65.43B |
 | 14:00 | BRL | S&P Global Composite PMI (Jun) | 54.1 |  | 54.0 |
 | 14:00 | BRL | S&P Global Services PMI (Jun) | 54.8 |  | 55.3 |
+| 15:00 | USD | 4-Week Bill Auction | 5.280% |  | 5.270% |
+| 15:00 | USD | 8-Week Bill Auction | 5.275% |  | 5.260% |
 | 15:00 | USD | Durables Excluding Defense (MoM) (May) | -0.2% |  | -0.2% |
 | 15:00 | USD | Durables Excluding Transport (MoM) (May) | -0.1% |  | -0.1% |
 | 15:00 | USD | Factory orders ex transportation (MoM) (May) | -0.7% | 0.3% | 0.5% |
@@ -46,9 +48,7 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.572M |  | 0.406M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.3% |  | -1.3% |
 | 15:30 | USD | Gasoline Inventories | -2.214M | -1.500M | 2.654M |
-| 5 min | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 5 min | USD | 8-Week Bill Auction |  |  | 5.260% |
-| 35 min | USD | Natural Gas Storage |  | 29B | 52B |
-| 35 min | EUR | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
+| 27 min | USD | Natural Gas Storage |  | 29B | 52B |
+| 27 min | EUR | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -1.699B |
 | 19:00 | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |
