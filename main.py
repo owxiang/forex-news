@@ -18,7 +18,7 @@ def initialize_driver():
 
 def format_date(driver):
     try:
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 60)  
         date_element = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
         date_str = date_element.text.strip()
         date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
@@ -29,7 +29,6 @@ def format_date(driver):
         print("Element with class name 'theDay' does not exist on the page.")
     except Exception as e:
         print(f"An error occurred: {e}")
-    return None
 
 def scrape_events(driver):
     table = driver.find_element(By.ID, 'ecEventsTable')
