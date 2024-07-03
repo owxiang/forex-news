@@ -5,13 +5,13 @@
 | 00:00 | AUD | Low | AIG Construction Index (Jun) | -23.2 |  | -68.1 |
 | 00:00 | AUD | Low | AIG Manufacturing Index (Jun) | -26.5 |  | -31.1 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Jun) | 51.2 | 50.6 | 52.5 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jun) |  | 49.8 | 53.8 |
-| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) |  |  | 1.1% |
+| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jun) | 49.4 | 49.8 | 53.8 |
+| 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.5% |  | 1.1% |
 | 02:30 | AUD | Low | Building Approvals (YoY) (May) |  | 27.30% | 27.30% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) |  | 1.5% | -0.3% |
-| 02:30 | AUD | Low | Private House Approvals (May) |  |  | -1.6% |
-| 02:30 | AUD | Moderate | Retail Sales (MoM) (May) |  | 0.3% | 0.1% |
-| 02:45 | CNY | Moderate | Caixin Services PMI (Jun) |  | 53.4 | 54.0 |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 5.5% | 1.5% | -0.3% |
+| 02:30 | AUD | Low | Private House Approvals (May) | 2.1% |  | -1.6% |
+| 02:30 | AUD | Moderate | Retail Sales (MoM) (May) | 0.6% | 0.3% | 0.1% |
+| 13 min | CNY | Moderate | Caixin Services PMI (Jun) |  | 53.4 | 54.0 |
 | 06:00 | INR | Low | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -4.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (May) |  |  | -91.6B |
@@ -29,8 +29,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jun) |  | 51.7 | 53.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jun) |  | 51.2 | 52.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) |  |  | 1.70% |
-| 10:00 | EUR | Low | PPI (MoM) (May) |  | -0.1% | -1.0% |
 | 10:00 | EUR | Low | PPI (YoY) (May) |  | -4.1% | -5.7% |
+| 10:00 | EUR | Low | PPI (MoM) (May) |  | -0.1% | -1.0% |
 | 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.600% |
 | 10:30 | EUR | Low | French Car Registration (YoY) |  |  | -2.9% |
 | 11:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -44,8 +44,8 @@
 | 12:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 63.816K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.3% |
 | 13:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jun) |  |  | 51.20 |
-| 13:00 | BRL | Low | Industrial Production (MoM) (May) |  |  | -0.5% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) |  | -1.7% | 8.4% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (May) |  |  | -0.5% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) |  | 159K | 152K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,840K | 1,839K |
 | 13:30 | USD | High | Initial Jobless Claims |  | 235K | 233K |
@@ -68,8 +68,8 @@
 | 15:00 | USD | Low | ISM Non-Manufacturing New Orders (Jun) |  |  | 54.1 |
 | 15:00 | USD | High | ISM Non-Manufacturing PMI (Jun) |  | 52.7 | 53.8 |
 | 15:00 | USD | High | ISM Non-Manufacturing Prices (Jun) |  |  | 58.1 |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 15:00 | USD | Low | Total Vehicle Sales |  |  | 15.90M |
+| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | -0.150M | 3.591M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.233M |

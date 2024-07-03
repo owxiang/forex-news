@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Jun) |  | 49.8 | 53.8 |
-| 02:30 | AUD | Building Approvals (MoM) (May) |  | 1.5% | -0.3% |
-| 02:30 | AUD | Retail Sales (MoM) (May) |  | 0.3% | 0.1% |
-| 02:45 | CNY | Caixin Services PMI (Jun) |  | 53.4 | 54.0 |
+| 01:30 | JPY | au Jibun Bank Japan Services PMI (Jun) | 49.4 | 49.8 | 53.8 |
+| 02:30 | AUD | Building Approvals (MoM) (May) | 5.5% | 1.5% | -0.3% |
+| 02:30 | AUD | Retail Sales (MoM) (May) | 0.6% | 0.3% | 0.1% |
+| 13 min | CNY | Caixin Services PMI (Jun) |  | 53.4 | 54.0 |
 | 08:15 | EUR | HCOB Spain Services PMI (Jun) |  | 56.5 | 56.9 |
 | 08:30 | CHF | procure.ch PMI |  | 44.9 | 46.4 |
 | 08:45 | EUR | HCOB Italy Services PMI (Jun) |  | 53.9 | 54.2 |

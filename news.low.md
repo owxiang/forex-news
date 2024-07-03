@@ -5,9 +5,9 @@
 | 00:00 | AUD | AIG Construction Index (Jun) | -23.2 |  | -68.1 |
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -26.5 |  | -31.1 |
 | 00:00 | AUD | Judo Bank Australia Services PMI (Jun) | 51.2 | 50.6 | 52.5 |
-| 02:00 | NZD | ANZ Commodity Price Index (MoM) |  |  | 1.1% |
+| 02:00 | NZD | ANZ Commodity Price Index (MoM) | 1.5% |  | 1.1% |
 | 02:30 | AUD | Building Approvals (YoY) (May) |  | 27.30% | 27.30% |
-| 02:30 | AUD | Private House Approvals (May) |  |  | -1.6% |
+| 02:30 | AUD | Private House Approvals (May) | 2.1% |  | -1.6% |
 | 06:00 | INR | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -4.2% |
 | 07:45 | EUR | French Government Budget Balance (May) |  |  | -91.6B |
@@ -16,8 +16,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Jun) |  | 48.2 | 48.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jun) |  | 50.6 | 52.4 |
 | 10:00 | NOK | House Price Index (YoY) (Jun) |  |  | 1.70% |
-| 10:00 | EUR | PPI (MoM) (May) |  | -0.1% | -1.0% |
 | 10:00 | EUR | PPI (YoY) (May) |  | -4.1% | -5.7% |
+| 10:00 | EUR | PPI (MoM) (May) |  | -0.1% | -1.0% |
 | 10:30 | EUR | French Car Registration (YoY) |  |  | -2.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.93% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 0.8% |
@@ -40,8 +40,8 @@
 | 15:00 | USD | Factory orders ex transportation (MoM) (May) |  | 0.3% | 0.7% |
 | 15:00 | USD | ISM Non-Manufacturing Business Activity (Jun) |  |  | 61.2 |
 | 15:00 | USD | ISM Non-Manufacturing New Orders (Jun) |  |  | 54.1 |
-| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 15:00 | USD | Total Vehicle Sales |  |  | 15.90M |
+| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.233M |
 | 15:30 | USD | Crude Oil Imports |  |  | 0.065M |
 | 15:30 | USD | Distillate Fuel Production |  |  | 0.142M |
