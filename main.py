@@ -16,10 +16,19 @@ def initialize_driver():
     return driver
 
 def format_date(driver):
-    date_element = driver.find_element(By.CLASS_NAME, 'theDay')
-    date_str = date_element.text.strip()
-    date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
-    return date_obj.strftime("%d %B %Y")
+    try:
+        wait = WebDriverWait(driver, 10)
+        date_element = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
+        date_str = date_element.text.strip()
+        date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
+        return date_obj.strftime("%d %B %Y")
+    except TimeoutException:
+        print("Element with class name 'theDay' was not found within the timeout period.")
+    except NoSuchElementException:
+        print("Element with class name 'theDay' does not exist on the page.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    return None
 
 def scrape_events(driver):
     table = driver.find_element(By.ID, 'ecEventsTable')
