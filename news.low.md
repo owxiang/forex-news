@@ -23,8 +23,8 @@
 | 12:00 | USD | MBA Purchase Index | 142.9 |  | 147.8 |
 | 12:00 | USD | Mortgage Market Index | 206.5 |  | 212.0 |
 | 12:00 | USD | Mortgage Refinance Index | 544.1 |  | 552.4 |
-| 12:30 | USD | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 12:30 | USD | Challenger Job Cuts (YoY) | 19.8% |  | -20.3% |
+| 12:30 | USD | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 13:00 | USD | All Car Sales (Jun) | 2.76M |  | 3.06M |
 | 13:00 | USD | All Truck Sales (Jun) | 12.53M |  | 12.86M |
 | 13:00 | BRL | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |

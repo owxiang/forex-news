@@ -38,12 +38,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 142.9 |  | 147.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 206.5 |  | 212.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 544.1 |  | 552.4 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) | 19.8% |  | -20.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
 | 13:00 | USD | Low | All Car Sales (Jun) | 2.76M |  | 3.06M |
 | 13:00 | USD | Low | All Truck Sales (Jun) | 12.53M |  | 12.86M |
-| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | -1.0% | -1.7% | 8.4% |
+| 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) | 150K | 163K | 157K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,858K | 1,840K | 1,832K |
 | 13:30 | USD | High | Initial Jobless Claims | 238K | 234K | 234K |
