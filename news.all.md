@@ -27,8 +27,8 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI (Jun) | 52.3 | 51.7 | 53.0 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI (Jun) | 52.1 | 51.2 | 52.9 |
 | 10:00 | NOK | Low | House Price Index (YoY) (Jun) | 2.20% |  | 1.70% |
-| 10:00 | EUR | Low | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
 | 10:00 | EUR | Low | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
+| 10:00 | EUR | Low | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
 | 10:30 | EUR | Low | French Car Registration (YoY) (Jun) | 4.8% |  | -2.9% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.630% |  | 2.600% |
 | 11:30 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
@@ -38,12 +38,12 @@
 | 12:00 | USD | Low | MBA Purchase Index | 142.9 |  | 147.8 |
 | 12:00 | USD | Low | Mortgage Market Index | 206.5 |  | 212.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index | 544.1 |  | 552.4 |
-| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 19.8% |  | -20.3% |
 | 12:30 | USD | Low | Challenger Job Cuts (Jun) | 48.786K |  | 63.816K |
+| 12:30 | USD | Low | Challenger Job Cuts (YoY) | 19.8% |  | -20.3% |
 | 13:00 | USD | Low | All Car Sales (Jun) | 2.76M |  | 3.06M |
 | 13:00 | USD | Low | All Truck Sales (Jun) | 12.53M |  | 12.86M |
-| 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | -1.0% | -1.7% | 8.4% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (May) | -0.9% |  | -0.8% |
+| 13:00 | BRL | Moderate | Industrial Production (YoY) (May) | -1.0% | -1.7% | 8.4% |
 | 13:15 | USD | High | ADP Nonfarm Employment Change (Jun) | 150K | 163K | 157K |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,858K | 1,840K | 1,832K |
 | 13:30 | USD | High | Initial Jobless Claims | 238K | 234K | 234K |
@@ -83,4 +83,3 @@
 | 17:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.0% |  | -6.6% |
 | 18:30 | BRL | Low | Foreign Exchange Flows | 1.157B |  | -1.699B |
 | 19:00 | USD | High | FOMC Meeting Minutes |  |  |  |
-| 19:00 | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
