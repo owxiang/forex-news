@@ -7,11 +7,11 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI (Jun) | 51.2 | 50.6 | 52.5 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jun) | 49.4 | 49.8 | 53.8 |
 | 02:00 | NZD | Low | ANZ Commodity Price Index (MoM) | 1.5% |  | 1.1% |
-| 02:30 | AUD | Low | Building Approvals (YoY) (May) |  | 27.30% | 27.30% |
-| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 5.5% | 1.5% | -0.3% |
-| 02:30 | AUD | Low | Private House Approvals (May) | 2.1% |  | -1.6% |
+| 02:30 | AUD | Low | Building Approvals (YoY) (May) | 15.00% |  | 28.10% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 5.5% | 1.5% | 1.9% |
+| 02:30 | AUD | Low | Private House Approvals (May) | 2.1% |  | -0.3% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (May) | 0.6% | 0.3% | 0.1% |
-| 13 min | CNY | Moderate | Caixin Services PMI (Jun) |  | 53.4 | 54.0 |
+| 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 51.2 | 53.4 | 54.0 |
 | 06:00 | INR | Low | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -4.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (May) |  |  | -91.6B |
@@ -41,8 +41,8 @@
 | 12:00 | USD | Low | Mortgage Market Index |  |  | 212.0 |
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 552.4 |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 12:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 63.816K |
 | 12:30 | USD | Low | Challenger Job Cuts (YoY) |  |  | -20.3% |
+| 12:30 | USD | Low | Challenger Job Cuts (Jun) |  |  | 63.816K |
 | 13:00 | MXN | Low | S&P Global Mexico Manufacturing PMI (Jun) |  |  | 51.20 |
 | 13:00 | BRL | Moderate | Industrial Production (YoY) (May) |  | -1.7% | 8.4% |
 | 13:00 | BRL | Low | Industrial Production (MoM) (May) |  |  | -0.5% |

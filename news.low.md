@@ -6,8 +6,8 @@
 | 00:00 | AUD | AIG Manufacturing Index (Jun) | -26.5 |  | -31.1 |
 | 00:00 | AUD | Judo Bank Australia Services PMI (Jun) | 51.2 | 50.6 | 52.5 |
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 1.5% |  | 1.1% |
-| 02:30 | AUD | Building Approvals (YoY) (May) |  | 27.30% | 27.30% |
-| 02:30 | AUD | Private House Approvals (May) | 2.1% |  | -1.6% |
+| 02:30 | AUD | Building Approvals (YoY) (May) | 15.00% |  | 28.10% |
+| 02:30 | AUD | Private House Approvals (May) | 2.1% |  | -0.3% |
 | 06:00 | INR | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -4.2% |
 | 07:45 | EUR | French Government Budget Balance (May) |  |  | -91.6B |
@@ -25,8 +25,8 @@
 | 12:00 | USD | Mortgage Market Index |  |  | 212.0 |
 | 12:00 | USD | Mortgage Refinance Index |  |  | 552.4 |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 12:30 | USD | Challenger Job Cuts (Jun) |  |  | 63.816K |
 | 12:30 | USD | Challenger Job Cuts (YoY) |  |  | -20.3% |
+| 12:30 | USD | Challenger Job Cuts (Jun) |  |  | 63.816K |
 | 13:00 | MXN | S&P Global Mexico Manufacturing PMI (Jun) |  |  | 51.20 |
 | 13:00 | BRL | Industrial Production (MoM) (May) |  |  | -0.5% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 236.00K |
