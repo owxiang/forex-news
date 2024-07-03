@@ -12,7 +12,7 @@
 | 02:30 | AUD | Low | Private House Approvals (May) | 2.1% |  | -0.3% |
 | 02:30 | AUD | Moderate | Retail Sales (MoM) (May) | 0.6% | 0.3% | 0.1% |
 | 02:45 | CNY | Moderate | Caixin Services PMI (Jun) | 51.2 | 53.4 | 54.0 |
-| 06:00 | INR | Low | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
+| 54 min | INR | Low | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
 | 07:30 | AUD | Low | Commodity Prices (YoY) |  |  | -4.2% |
 | 07:45 | EUR | Low | French Government Budget Balance (May) |  |  | -91.6B |
 | 08:15 | EUR | Moderate | HCOB Spain Services PMI (Jun) |  | 56.5 | 56.9 |

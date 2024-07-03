@@ -8,7 +8,7 @@
 | 02:00 | NZD | ANZ Commodity Price Index (MoM) | 1.5% |  | 1.1% |
 | 02:30 | AUD | Building Approvals (YoY) (May) | 15.00% |  | 28.10% |
 | 02:30 | AUD | Private House Approvals (May) | 2.1% |  | -0.3% |
-| 06:00 | INR | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
+| 54 min | INR | HSBC India Services PMI (Jun) |  | 60.4 | 60.2 |
 | 07:30 | AUD | Commodity Prices (YoY) |  |  | -4.2% |
 | 07:45 | EUR | French Government Budget Balance (May) |  |  | -91.6B |
 | 08:15 | ZAR | S&P Global South Africa PMI (Jun) |  |  | 50.4 |
