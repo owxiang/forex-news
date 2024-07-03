@@ -15,8 +15,8 @@
 | 08:50 | EUR | HCOB France Composite PMI (Jun) | 48.8 | 48.2 | 48.9 |
 | 08:55 | EUR | HCOB Germany Composite PMI (Jun) | 50.4 | 50.6 | 52.4 |
 | 10:00 | NOK | House Price Index (YoY) (Jun) | 2.20% |  | 1.70% |
-| 10:00 | EUR | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
 | 10:00 | EUR | PPI (MoM) (May) | -0.2% | -0.1% | -1.0% |
+| 10:00 | EUR | PPI (YoY) (May) | -4.2% | -4.1% | -5.7% |
 | 10:30 | EUR | French Car Registration (YoY) (Jun) | 4.8% |  | -2.9% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.03% |  | 6.93% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -2.6% |  | 0.8% |
