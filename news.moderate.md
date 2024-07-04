@@ -8,7 +8,7 @@
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 09:30 | GBP | S&P Global / CIPS UK Construction PMI (Jun) | 52.2 | 54.0 | 54.7 |
 | 10:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 29 min | EUR | ECB McCaul Speaks |  |  |  |
-| 54 min | GBP | U.K. General Election |  |  |  |
+| 10:35 | EUR | ECB McCaul Speaks |  |  |  |
+| 11:00 | GBP | U.K. General Election |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,231B |

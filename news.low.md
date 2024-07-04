@@ -19,8 +19,7 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) | 179,263.0 |  | 147,678.0 |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.23% |  | 3.05% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.61% |  | 3.46% |
-| 54 min | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -25.1B |
-| 12:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.15% |
+| 54 min | CAD | Leading Index (MoM) (Jun) |  |  | 0.15% |
 | 14:00 | BRL | Auto Production (MoM) (Jun) |  |  | -24.9% |
 | 14:00 | BRL | Auto Sales (MoM) (Jun) |  |  | -12.0% |
 | 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
