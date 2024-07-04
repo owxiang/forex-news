@@ -11,4 +11,3 @@
 | 10:35 | EUR | ECB McCaul Speaks |  |  |  |
 | 11:00 | GBP | U.K. General Election |  |  |  |
 | 12:30 | EUR | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,231B |
