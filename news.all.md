@@ -12,8 +12,8 @@
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) | 2.3% | 2.3% | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) | 2.4% | 2.4% | 2.4% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) | -1.6% | 0.5% | -0.6% |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) | 1.3% | 1.4% | 1.4% |
 | 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.0% | 0.1% | 0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) | 1.3% | 1.4% | 1.4% |
 | 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) | 46.0 |  | 49.0 |
 | 08:30 | EUR | Low | HCOB Germany Construction PMI (Jun) | 39.7 |  | 38.5 |
 | 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jun) | 41.0 |  | 43.4 |
