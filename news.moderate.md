@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Trade Balance |  | 6.200B | 6.548B |
+| 02:30 | AUD | Trade Balance | 5.773B | 6.200B | 6.027B |
 | 07:00 | EUR | German Factory Orders (MoM) (May) |  | 0.5% | -0.2% |
 | 07:30 | CHF | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |

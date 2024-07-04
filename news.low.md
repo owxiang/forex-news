@@ -5,9 +5,9 @@
 | 00:50 | JPY | Foreign Bonds Buying | -254.4B |  | -1,062.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 185.3B |  | -85.4B |
 | 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jun) | 48.2 |  | 49.2 |
-| 02:30 | AUD | Exports (MoM) |  |  | -2.5% |
-| 02:30 | AUD | Imports (MoM) |  |  | -7.2% |
-| 04:35 | JPY | 30-Year JGB Auction |  |  | 2.156% |
+| 02:30 | AUD | Exports (MoM) | 2.8% |  | -2.2% |
+| 02:30 | AUD | Imports (MoM) | 3.9% |  | -7.0% |
+| 29 min | JPY | 30-Year JGB Auction |  |  | 2.156% |
 | 06:45 | CHF | Unemployment Rate n.s.a. (Jun) |  | 2.3% | 2.3% |
 | 06:45 | CHF | Unemployment Rate s.a. (Jun) |  | 2.4% | 2.4% |
 | 07:30 | CHF | CPI (YoY) (Jun) |  | 1.4% | 1.4% |

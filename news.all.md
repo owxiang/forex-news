@@ -5,10 +5,10 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -254.4B |  | -1,062.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 185.3B |  | -85.4B |
 | 01:30 | HKD | Low | S&P Global Hong Kong Manufacturing PMI (Jun) | 48.2 |  | 49.2 |
-| 02:30 | AUD | Low | Exports (MoM) |  |  | -2.5% |
-| 02:30 | AUD | Low | Imports (MoM) |  |  | -7.2% |
-| 02:30 | AUD | Moderate | Trade Balance |  | 6.200B | 6.548B |
-| 04:35 | JPY | Low | 30-Year JGB Auction |  |  | 2.156% |
+| 02:30 | AUD | Low | Exports (MoM) | 2.8% |  | -2.2% |
+| 02:30 | AUD | Low | Imports (MoM) | 3.9% |  | -7.0% |
+| 02:30 | AUD | Moderate | Trade Balance | 5.773B | 6.200B | 6.027B |
+| 29 min | JPY | Low | 30-Year JGB Auction |  |  | 2.156% |
 | 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) |  | 2.3% | 2.3% |
 | 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) |  | 2.4% | 2.4% |
 | 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) |  | 0.5% | -0.2% |
