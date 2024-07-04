@@ -16,10 +16,10 @@
 | 08:30 | EUR | HCOB France Construction PMI (MoM) (Jun) | 41.0 |  | 43.4 |
 | 08:30 | EUR | HCOB Eurozone Construction PMI (MoM) (Jun) | 41.8 |  | 42.9 |
 | 09:00 | GBP | Car Registration (YoY) | 1.1% |  | 1.7% |
-| 23 min | GBP | Housing Equity Withdrawal (QoQ) |  |  | -25.1B |
-| 53 min | GBP | United Kingdom New Passenger Cars Registration (Jun) | 179,263.0 |  | 147,678.0 |
-| 53 min | EUR | French 10-Year OAT Auction |  |  | 3.05% |
-| 53 min | EUR | French 30-Year OAT Auction |  |  | 3.46% |
+| 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) | 179,263.0 |  | 147,678.0 |
+| 10:00 | EUR | French 10-Year OAT Auction | 3.23% |  | 3.05% |
+| 10:00 | EUR | French 30-Year OAT Auction | 3.61% |  | 3.46% |
+| 54 min | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -25.1B |
 | 12:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.15% |
 | 14:00 | BRL | Auto Production (MoM) (Jun) |  |  | -24.9% |
 | 14:00 | BRL | Auto Sales (MoM) (Jun) |  |  | -12.0% |
