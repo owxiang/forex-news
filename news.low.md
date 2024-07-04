@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Foreign Bonds Buying |  |  | -1,062.0B |
-| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | -85.5B |
-| 01:30 | HKD | S&P Global Hong Kong Manufacturing PMI (Jun) |  |  | 49.2 |
+| 00:50 | JPY | Foreign Bonds Buying | -254.4B |  | -1,062.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | 185.3B |  | -85.4B |
+| 9 min | HKD | S&P Global Hong Kong Manufacturing PMI (Jun) |  |  | 49.2 |
 | 02:30 | AUD | Building Approvals (YoY) (May) |  | 27.30% | 27.30% |
 | 02:30 | AUD | Exports (MoM) |  |  | -2.5% |
 | 02:30 | AUD | Imports (MoM) |  |  | -7.2% |
@@ -23,6 +23,6 @@
 | 14:00 | BRL | Auto Production (MoM) (Jun) |  |  | -24.9% |
 | 14:00 | BRL | Auto Sales (MoM) (Jun) |  |  | -12.0% |
 | 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
-| 19:00 | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 19:00 | BRL | Trade Balance (Jun) |  |  | 8.53B |
+| 19:00 | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |
