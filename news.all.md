@@ -8,22 +8,24 @@
 | 02:30 | AUD | Low | Exports (MoM) | 2.8% |  | -2.2% |
 | 02:30 | AUD | Low | Imports (MoM) | 3.9% |  | -7.0% |
 | 02:30 | AUD | Moderate | Trade Balance | 5.773B | 6.200B | 6.027B |
-| 29 min | JPY | Low | 30-Year JGB Auction |  |  | 2.156% |
-| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) |  | 2.3% | 2.3% |
-| 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) |  | 2.4% | 2.4% |
-| 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) |  | 0.5% | -0.2% |
-| 07:30 | CHF | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
-| 07:30 | CHF | Low | CPI (YoY) (Jun) |  | 1.4% | 1.4% |
-| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) |  |  | 49.0 |
-| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jun) |  |  | 38.5 |
-| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jun) |  |  | 43.4 |
-| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jun) |  |  | 42.9 |
-| 09:00 | GBP | Low | Car Registration (YoY) |  |  | 1.7% |
-| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 09:30 | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jun) |  | 54.0 | 54.7 |
-| 10:00 | EUR | Low | French 10-Year OAT Auction |  |  | 3.05% |
-| 10:00 | EUR | Low | French 30-Year OAT Auction |  |  | 3.46% |
-| 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 04:35 | JPY | Low | 30-Year JGB Auction | 2.190% |  | 2.156% |
+| 06:45 | CHF | Low | Unemployment Rate n.s.a. (Jun) | 2.3% | 2.3% | 2.3% |
+| 06:45 | CHF | Low | Unemployment Rate s.a. (Jun) | 2.4% | 2.4% | 2.4% |
+| 07:00 | EUR | Moderate | German Factory Orders (MoM) (May) | -1.6% | 0.5% | -0.6% |
+| 07:30 | CHF | Moderate | CPI (MoM) (Jun) | 0.0% | 0.1% | 0.3% |
+| 07:30 | CHF | Low | CPI (YoY) (Jun) | 1.3% | 1.4% | 1.4% |
+| 08:30 | EUR | Low | HCOB Italy Construction PMI (MoM) (Jun) | 46.0 |  | 49.0 |
+| 08:30 | EUR | Low | HCOB Germany Construction PMI (Jun) | 39.7 |  | 38.5 |
+| 08:30 | EUR | Low | HCOB France Construction PMI (MoM) (Jun) | 41.0 |  | 43.4 |
+| 08:30 | EUR | Low | HCOB Eurozone Construction PMI (MoM) (Jun) | 41.8 |  | 42.9 |
+| 09:00 | GBP | Low | Car Registration (YoY) | 1.1% |  | 1.7% |
+| 23 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 23 min | GBP | Moderate | S&P Global / CIPS UK Construction PMI (Jun) |  | 54.0 | 54.7 |
+| 23 min | GBP | Low | Housing Equity Withdrawal (QoQ) |  |  | -25.1B |
+| 53 min | GBP | Low | United Kingdom New Passenger Cars Registration (Jun) | 179,263.0 |  | 147,678.0 |
+| 53 min | EUR | Low | French 10-Year OAT Auction |  |  | 3.05% |
+| 53 min | EUR | Low | French 30-Year OAT Auction |  |  | 3.46% |
+| 53 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:35 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
 | 11:00 | GBP | Moderate | U.K. General Election |  |  |  |
 | 12:00 | CAD | Low | Leading Index (MoM) (Jun) |  |  | 0.15% |
@@ -32,6 +34,5 @@
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jun) |  |  | -12.0% |
 | 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
-| 19:00 | BRL | Low | Trade Balance (Jun) |  |  | 8.53B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,231B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |
