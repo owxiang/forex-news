@@ -34,6 +34,6 @@
 | 13:15 | CAD | Low | Reserve Assets Total (Jun) | 122.9B |  | 122.8B |
 | 14:00 | BRL | Low | Auto Production (MoM) (Jun) | 26.6% |  | -24.9% |
 | 14:00 | BRL | Low | Auto Sales (MoM) (Jun) | 10.3% |  | -12.0% |
-| 54 min | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
+| 19:00 | BRL | Low | Trade Balance (Jun) | 6.71B | 5.80B | 8.53B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,231B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |
