@@ -19,9 +19,11 @@
 | 09:00 | GBP | United Kingdom New Passenger Cars Registration (Jun) | 179,263.0 |  | 147,678.0 |
 | 10:00 | EUR | French 10-Year OAT Auction | 3.23% |  | 3.05% |
 | 10:00 | EUR | French 30-Year OAT Auction | 3.61% |  | 3.46% |
-| 54 min | CAD | Leading Index (MoM) (Jun) |  |  | 0.15% |
-| 14:00 | BRL | Auto Production (MoM) (Jun) |  |  | -24.9% |
-| 14:00 | BRL | Auto Sales (MoM) (Jun) |  |  | -12.0% |
-| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 10:40 | EUR | Spanish 3-Year Bonos Auction | 3.067% |  | 3.039% |
+| 10:40 | EUR | Spanish 7-Year Obligacion Auction | 3.132% |  | 2.954% |
+| 12:00 | CAD | Leading Index (MoM) (Jun) | 0.15% |  | 0.17% |
+| 13:15 | CAD | Reserve Assets Total (Jun) | 122.9B |  | 122.8B |
+| 14:00 | BRL | Auto Production (MoM) (Jun) | 26.6% |  | -24.9% |
+| 14:00 | BRL | Auto Sales (MoM) (Jun) | 10.3% |  | -12.0% |
 | 19:00 | BRL | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |

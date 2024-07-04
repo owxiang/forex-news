@@ -26,12 +26,14 @@
 | 10:00 | EUR | Low | French 30-Year OAT Auction | 3.61% |  | 3.46% |
 | 10:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 10:35 | EUR | Moderate | ECB McCaul Speaks |  |  |  |
+| 10:40 | EUR | Low | Spanish 3-Year Bonos Auction | 3.067% |  | 3.039% |
+| 10:40 | EUR | Low | Spanish 7-Year Obligacion Auction | 3.132% |  | 2.954% |
 | 11:00 | GBP | Moderate | U.K. General Election |  |  |  |
-| 54 min | CAD | Low | Leading Index (MoM) (Jun) |  |  | 0.15% |
+| 12:00 | CAD | Low | Leading Index (MoM) (Jun) | 0.15% |  | 0.17% |
 | 12:30 | EUR | Moderate | ECB Publishes Account of Monetary Policy Meeting |  |  |  |
-| 14:00 | BRL | Low | Auto Production (MoM) (Jun) |  |  | -24.9% |
-| 14:00 | BRL | Low | Auto Sales (MoM) (Jun) |  |  | -12.0% |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 13:15 | CAD | Low | Reserve Assets Total (Jun) | 122.9B |  | 122.8B |
+| 14:00 | BRL | Low | Auto Production (MoM) (Jun) | 26.6% |  | -24.9% |
+| 14:00 | BRL | Low | Auto Sales (MoM) (Jun) | 10.3% |  | -12.0% |
 | 19:00 | BRL | Low | Trade Balance (Jun) |  | 5.80B | 8.53B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,231B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |
