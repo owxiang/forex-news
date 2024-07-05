@@ -18,7 +18,7 @@
 | 13:30 | USD | U6 Unemployment Rate (Jun) | 7.4% |  | 7.4% |
 | 13:30 | CAD | Employment Change (Jun) | -1.4K | 27.3K | 26.7K |
 | 13:30 | CAD | Unemployment Rate (Jun) | 6.4% | 6.3% | 6.2% |
-| 53 min | CAD | Ivey PMI (Jun) |  | 53.0 | 52.0 |
+| 15:00 | CAD | Ivey PMI (Jun) | 62.5 | 53.0 | 52.0 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 18:15 | EUR | ECB President Lagarde Speaks |  |  |  |
