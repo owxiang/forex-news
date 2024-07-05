@@ -44,7 +44,7 @@
 | 13:30 | USD | Low | Government Payrolls (Jun) | 70.0K |  | 25.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jun) | -8K | 6K | 8K |
 | 13:30 | USD | High | Nonfarm Payrolls (Jun) | 206K | 191K | 218K |
-| 13:30 | USD | Moderate | Participation Rate (Jun) | 62.6% |  | 62.5% |
+| 13:30 | USD | Moderate | Participation Rate (Jun) | 62.6% | 62.6% | 62.5% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) | 136K | 160K | 193K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) | 7.4% |  | 7.4% |
 | 13:30 | USD | High | Unemployment Rate (Jun) | 4.1% | 4.0% | 4.0% |
@@ -56,9 +56,9 @@
 | 13:30 | CAD | Moderate | Unemployment Rate (Jun) | 6.4% | 6.3% | 6.2% |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) | 62.4 |  | 59.1 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) | 62.5 | 53.0 | 52.0 |
-| 54 min | USD | High | Fed Monetary Policy Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 581 |
+| 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
+| 54 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 54 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 18:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 44.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
