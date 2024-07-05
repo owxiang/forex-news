@@ -9,8 +9,8 @@
 | 07:00 | EUR | German Industrial Production (MoM) (May) | -2.5% | 0.2% | 0.1% |
 | 08:00 | CHF | SECO Consumer Climate | -37 | -35 | -38 |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 53 min | GBP | Mortgage Rate (GBP) |  |  | 7.93% |
-| 10:40 | USD | FOMC Member Williams Speaks |  |  |  |
+| 09:30 | GBP | Mortgage Rate (GBP) (Jun) | 7.98% |  | 7.93% |
+| 34 min | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
 | 13:30 | USD | Participation Rate (Jun) |  |  | 62.5% |
