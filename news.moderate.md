@@ -11,14 +11,14 @@
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:30 | GBP | Mortgage Rate (GBP) (Jun) | 7.98% |  | 7.93% |
 | 10:40 | USD | FOMC Member Williams Speaks |  |  |  |
-| 7 min | EUR | ECB's Elderson Speaks |  |  |  |
-| 22 min | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
-| 22 min | USD | Participation Rate (Jun) |  |  | 62.5% |
-| 22 min | USD | Private Nonfarm Payrolls (Jun) |  | 160K | 229K |
-| 22 min | USD | U6 Unemployment Rate (Jun) |  |  | 7.4% |
-| 22 min | CAD | Employment Change (Jun) |  | 27.3K | 26.7K |
-| 22 min | CAD | Unemployment Rate (Jun) |  | 6.3% | 6.2% |
-| 15:00 | CAD | Ivey PMI (Jun) |  | 53.0 | 52.0 |
+| 13:15 | EUR | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.9% | 3.9% | 4.1% |
+| 13:30 | USD | Participation Rate (Jun) | 62.6% |  | 62.5% |
+| 13:30 | USD | Private Nonfarm Payrolls (Jun) | 136K | 160K | 193K |
+| 13:30 | USD | U6 Unemployment Rate (Jun) | 7.4% |  | 7.4% |
+| 13:30 | CAD | Employment Change (Jun) | -1.4K | 27.3K | 26.7K |
+| 13:30 | CAD | Unemployment Rate (Jun) | 6.4% | 6.3% | 6.2% |
+| 53 min | CAD | Ivey PMI (Jun) |  | 53.0 | 52.0 |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 581 |
 | 18:15 | EUR | ECB President Lagarde Speaks |  |  |  |

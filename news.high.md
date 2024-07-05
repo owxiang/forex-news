@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 22 min | USD | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
-| 22 min | USD | Nonfarm Payrolls (Jun) |  | 191K | 272K |
-| 22 min | USD | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
+| 13:30 | USD | Average Hourly Earnings (MoM) (Jun) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Nonfarm Payrolls (Jun) | 206K | 191K | 218K |
+| 13:30 | USD | Unemployment Rate (Jun) | 4.1% | 4.0% | 4.0% |
 | 16:00 | USD | Fed Monetary Policy Report |  |  |  |

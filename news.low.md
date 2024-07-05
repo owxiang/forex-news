@@ -28,15 +28,15 @@
 | 10:00 | EUR | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
 | 11:30 | EUR | Spanish Consumer Confidence (May) | 83.8 |  | 84.5 |
 | 12:30 | INR | FX Reserves, USD | 652.00B |  | 653.71B |
-| 22 min | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 22 min | USD | Government Payrolls (Jun) |  |  | 43.0K |
-| 22 min | USD | Manufacturing Payrolls (Jun) |  | 6K | 8K |
-| 22 min | CAD | Avg hourly wages Permanent employee (Jun) |  |  | 5.2% |
-| 22 min | CAD | Full Employment Change (Jun) |  |  | -35.6K |
-| 22 min | CAD | Part Time Employment Change (Jun) |  |  | 62.4K |
-| 22 min | CAD | Participation Rate (Jun) |  |  | 65.4% |
-| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
-| 15:00 | CAD | Ivey PMI n.s.a (Jun) |  |  | 59.1 |
+| 13:30 | USD | Average Weekly Hours (Jun) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Government Payrolls (Jun) | 70.0K |  | 25.0K |
+| 13:30 | USD | Manufacturing Payrolls (Jun) | -8K | 6K | 8K |
+| 13:30 | CAD | Avg hourly wages Permanent employee (Jun) | 5.6% |  | 5.2% |
+| 13:30 | CAD | Full Employment Change (Jun) | -3.4K |  | -35.6K |
+| 13:30 | CAD | Part Time Employment Change (Jun) | 1.9K |  | 62.4K |
+| 13:30 | CAD | Participation Rate (Jun) | 65.3% |  | 65.4% |
+| 53 min | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 53 min | CAD | Ivey PMI n.s.a (Jun) |  |  | 59.1 |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 50.1K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -169.8K |

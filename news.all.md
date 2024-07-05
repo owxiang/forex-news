@@ -37,26 +37,26 @@
 | 10:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:30 | EUR | Low | Spanish Consumer Confidence (May) | 83.8 |  | 84.5 |
 | 12:30 | INR | Low | FX Reserves, USD | 652.00B |  | 653.71B |
-| 7 min | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 22 min | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
-| 22 min | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
-| 22 min | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
-| 22 min | USD | Low | Government Payrolls (Jun) |  |  | 43.0K |
-| 22 min | USD | Low | Manufacturing Payrolls (Jun) |  | 6K | 8K |
-| 22 min | USD | High | Nonfarm Payrolls (Jun) |  | 191K | 272K |
-| 22 min | USD | Moderate | Participation Rate (Jun) |  |  | 62.5% |
-| 22 min | USD | Moderate | Private Nonfarm Payrolls (Jun) |  | 160K | 229K |
-| 22 min | USD | Moderate | U6 Unemployment Rate (Jun) |  |  | 7.4% |
-| 22 min | USD | High | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
-| 22 min | CAD | Low | Avg hourly wages Permanent employee (Jun) |  |  | 5.2% |
-| 22 min | CAD | Moderate | Employment Change (Jun) |  | 27.3K | 26.7K |
-| 22 min | CAD | Low | Full Employment Change (Jun) |  |  | -35.6K |
-| 22 min | CAD | Low | Part Time Employment Change (Jun) |  |  | 62.4K |
-| 22 min | CAD | Low | Participation Rate (Jun) |  |  | 65.4% |
-| 22 min | CAD | Moderate | Unemployment Rate (Jun) |  | 6.3% | 6.2% |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
-| 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 59.1 |
-| 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 53.0 | 52.0 |
+| 13:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) | 3.9% | 3.9% | 4.1% |
+| 13:30 | USD | Low | Average Weekly Hours (Jun) | 34.3 | 34.3 | 34.3 |
+| 13:30 | USD | Low | Government Payrolls (Jun) | 70.0K |  | 25.0K |
+| 13:30 | USD | Low | Manufacturing Payrolls (Jun) | -8K | 6K | 8K |
+| 13:30 | USD | High | Nonfarm Payrolls (Jun) | 206K | 191K | 218K |
+| 13:30 | USD | Moderate | Participation Rate (Jun) | 62.6% |  | 62.5% |
+| 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) | 136K | 160K | 193K |
+| 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) | 7.4% |  | 7.4% |
+| 13:30 | USD | High | Unemployment Rate (Jun) | 4.1% | 4.0% | 4.0% |
+| 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jun) | 5.6% |  | 5.2% |
+| 13:30 | CAD | Moderate | Employment Change (Jun) | -1.4K | 27.3K | 26.7K |
+| 13:30 | CAD | Low | Full Employment Change (Jun) | -3.4K |  | -35.6K |
+| 13:30 | CAD | Low | Part Time Employment Change (Jun) | 1.9K |  | 62.4K |
+| 13:30 | CAD | Low | Participation Rate (Jun) | 65.3% |  | 65.4% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jun) | 6.4% | 6.3% | 6.2% |
+| 53 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 53 min | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 59.1 |
+| 53 min | CAD | Moderate | Ivey PMI (Jun) |  | 53.0 | 52.0 |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 581 |
