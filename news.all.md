@@ -27,8 +27,8 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate | -37 | -35 | -38 |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) | 0.4% | 1.4% | 0.2% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) | 0.4% |  | -1.7% |
 | 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) | 0.4% | 0.2% | -0.1% |
+| 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) | 0.4% |  | -1.7% |
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -23.9B | -20.3B | -25.1B |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) | 7.98% |  | 7.93% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 416.30B |  | 417.20B |
@@ -57,9 +57,9 @@
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) | 62.4 |  | 59.1 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) | 62.5 | 53.0 | 52.0 |
 | 16:00 | USD | High | Fed Monetary Policy Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 581 |
-| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 18:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 44.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
 | 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 50.1K |

@@ -20,8 +20,8 @@
 | 07:45 | EUR | French Trade Balance (May) | -8.0B | -7.2B | -7.6B |
 | 08:00 | CHF | Foreign Reserves (USD) (Jun) | 711.5B |  | 717.7B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (May) | 0.4% | 1.4% | 0.2% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (May) | 0.4% |  | -1.7% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (May) | 0.4% | 0.2% | -0.1% |
+| 09:00 | EUR | Italian Retail Sales (YoY) (May) | 0.4% |  | -1.7% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -23.9B | -20.3B | -25.1B |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) | 416.30B |  | 417.20B |
 | 10:00 | EUR | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
