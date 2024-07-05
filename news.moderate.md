@@ -5,11 +5,11 @@
 | 00:30 | JPY | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
 | 00:30 | JPY | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jun) | 1.6% |  | 1.6% |
-| 07:00 | GBP | Halifax House Price Index (MoM) (Jun) | -0.2% | 0.2% | -0.1% |
+| 07:00 | GBP | Halifax House Price Index (MoM) (Jun) | -0.2% | 0.2% | 0.0% |
 | 07:00 | EUR | German Industrial Production (MoM) (May) | -2.5% | 0.2% | 0.1% |
 | 08:00 | CHF | SECO Consumer Climate | -37 | -35 | -38 |
 | 08:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 10:00 | GBP | Mortgage Rate (GBP) |  |  | 7.93% |
+| 53 min | GBP | Mortgage Rate (GBP) |  |  | 7.93% |
 | 10:40 | USD | FOMC Member Williams Speaks |  |  |  |
 | 13:15 | EUR | ECB's Elderson Speaks |  |  |  |
 | 13:30 | USD | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
