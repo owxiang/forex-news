@@ -6,32 +6,32 @@
 | 00:30 | JPY | Moderate | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
-| 54 min | IDR | Low | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 1.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (May) |  |  | -0.8% |
-| 06:00 | JPY | Low | Leading Index |  | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Retail Sales (MoM) (May) |  |  | -2.7% |
-| 06:00 | SGD | Low | Retail Sales (YoY) (May) |  |  | -1.2% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) |  |  | 1.5% |
-| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) |  | 0.2% | -0.1% |
-| 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) |  | 0.2% | -0.1% |
-| 07:00 | EUR | Low | German Industrial Production (YoY) (May) |  |  | -3.86% |
-| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) |  |  | -5.6% |
-| 07:00 | ZAR | Low | Foreign Reserves (USD) (Jun) |  |  | 62.09B |
-| 07:00 | ZAR | Low | Net FX Reserves (USD) (Jun) |  |  | 58.287B |
-| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
-| 07:45 | EUR | Low | French Exports (May) |  |  | 51.2B |
-| 07:45 | EUR | Low | French Imports (May) |  |  | 58.8B |
-| 07:45 | EUR | Low | French Industrial Production (MoM) (May) |  | -0.6% | 0.5% |
-| 07:45 | EUR | Low | French Trade Balance (May) |  | -7.2B | -7.6B |
-| 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) |  |  | 717.6B |
-| 08:00 | CHF | Moderate | SECO Consumer Climate |  | -35 | -38 |
+| 04:00 | IDR | Low | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.3% |  | 1.0% |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
+| 06:00 | JPY | Low | Leading Index | 111.1 | 111.1 | 110.9 |
+| 06:00 | SGD | Low | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 1.6% |  | 1.6% |
+| 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | -0.2% | 0.2% | -0.1% |
+| 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) | -2.5% | 0.2% | 0.1% |
+| 07:00 | EUR | Low | German Industrial Production (YoY) (May) | -6.67% |  | -3.66% |
+| 07:00 | NOK | Low | Manufacturing Production (MoM) (May) | 1.3% |  | -5.5% |
+| 07:00 | ZAR | Low | Foreign Reserves (USD) (Jun) | 62.10B |  | 62.09B |
+| 07:00 | ZAR | Low | Net FX Reserves (USD) (Jun) | 58.437B |  | 58.287B |
+| 07:45 | EUR | Low | French Exports (May) | 50.2B |  | 51.1B |
+| 07:45 | EUR | Low | French Imports (May) | 58.2B |  | 58.6B |
+| 07:45 | EUR | Low | French Industrial Production (MoM) (May) | -2.1% | -0.6% | 0.6% |
+| 07:45 | EUR | Low | French Trade Balance (May) | -8.0B | -7.2B | -7.6B |
+| 08:00 | CHF | Low | Foreign Reserves (USD) (Jun) | 711.5B |  | 717.7B |
+| 08:00 | CHF | Moderate | SECO Consumer Climate | -37 | -35 | -38 |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) |  | 1.4% | 0.8% |
-| 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
+| 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) | 0.4% | 1.4% | 0.2% |
+| 55 min | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
+| 55 min | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.93% |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -4.3% |
+| 10:00 | EUR | Low | French Current Account (May) |  |  | -1.80B |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) |  | 0.1% | 0.0% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | 0.2% | -0.5% |
 | 10:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
@@ -40,22 +40,22 @@
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 653.71B |
 | 13:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
 | 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
+| 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Jun) |  |  | 43.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jun) |  | 6K | 8K |
-| 13:30 | USD | High | Nonfarm Payrolls (Jun) |  | 194K | 272K |
+| 13:30 | USD | High | Nonfarm Payrolls (Jun) |  | 191K | 272K |
 | 13:30 | USD | Moderate | Participation Rate (Jun) |  |  | 62.5% |
 | 13:30 | USD | Moderate | Private Nonfarm Payrolls (Jun) |  | 160K | 229K |
 | 13:30 | USD | Moderate | U6 Unemployment Rate (Jun) |  |  | 7.4% |
 | 13:30 | USD | High | Unemployment Rate (Jun) |  | 4.0% | 4.0% |
 | 13:30 | CAD | Low | Avg hourly wages Permanent employee (Jun) |  |  | 5.2% |
-| 13:30 | CAD | Moderate | Employment Change (Jun) |  | 24.5K | 26.7K |
+| 13:30 | CAD | Moderate | Employment Change (Jun) |  | 27.3K | 26.7K |
 | 13:30 | CAD | Low | Full Employment Change (Jun) |  |  | -35.6K |
 | 13:30 | CAD | Low | Part Time Employment Change (Jun) |  |  | 62.4K |
 | 13:30 | CAD | Low | Participation Rate (Jun) |  |  | 65.4% |
-| 13:30 | CAD | Moderate | Unemployment Rate (Jun) |  | 6.4% | 6.2% |
+| 13:30 | CAD | Moderate | Unemployment Rate (Jun) |  | 6.3% | 6.2% |
 | 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 15:00 | CAD | Low | Ivey PMI n.s.a (Jun) |  |  | 59.1 |
 | 15:00 | CAD | Moderate | Ivey PMI (Jun) |  | 53.0 | 52.0 |

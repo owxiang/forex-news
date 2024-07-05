@@ -4,26 +4,26 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | KRW | Current Account (May) | 8.92B |  | -0.29B |
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
-| 54 min | IDR | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
-| 06:00 | JPY | Coincident Indicator (MoM) (May) |  |  | 1.0% |
-| 06:00 | JPY | Leading Index (MoM) (May) |  |  | -0.8% |
-| 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
-| 06:00 | SGD | Retail Sales (MoM) (May) |  |  | -2.7% |
-| 06:00 | SGD | Retail Sales (YoY) (May) |  |  | -1.2% |
-| 07:00 | EUR | German Industrial Production (YoY) (May) |  |  | -3.86% |
-| 07:00 | NOK | Manufacturing Production (MoM) (May) |  |  | -5.6% |
-| 07:00 | ZAR | Foreign Reserves (USD) (Jun) |  |  | 62.09B |
-| 07:00 | ZAR | Net FX Reserves (USD) (Jun) |  |  | 58.287B |
-| 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
-| 07:45 | EUR | French Exports (May) |  |  | 51.2B |
-| 07:45 | EUR | French Imports (May) |  |  | 58.8B |
-| 07:45 | EUR | French Industrial Production (MoM) (May) |  | -0.6% | 0.5% |
-| 07:45 | EUR | French Trade Balance (May) |  | -7.2B | -7.6B |
-| 08:00 | CHF | Foreign Reserves (USD) (Jun) |  |  | 717.6B |
-| 08:00 | EUR | Spanish Industrial Production (YoY) (May) |  | 1.4% | 0.8% |
-| 09:00 | EUR | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
+| 04:00 | IDR | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
+| 06:00 | JPY | Coincident Indicator (MoM) (May) | 1.3% |  | 1.0% |
+| 06:00 | JPY | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
+| 06:00 | JPY | Leading Index | 111.1 | 111.1 | 110.9 |
+| 06:00 | SGD | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
+| 06:00 | SGD | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
+| 07:00 | EUR | German Industrial Production (YoY) (May) | -6.67% |  | -3.66% |
+| 07:00 | NOK | Manufacturing Production (MoM) (May) | 1.3% |  | -5.5% |
+| 07:00 | ZAR | Foreign Reserves (USD) (Jun) | 62.10B |  | 62.09B |
+| 07:00 | ZAR | Net FX Reserves (USD) (Jun) | 58.437B |  | 58.287B |
+| 07:45 | EUR | French Exports (May) | 50.2B |  | 51.1B |
+| 07:45 | EUR | French Imports (May) | 58.2B |  | 58.6B |
+| 07:45 | EUR | French Industrial Production (MoM) (May) | -2.1% | -0.6% | 0.6% |
+| 07:45 | EUR | French Trade Balance (May) | -8.0B | -7.2B | -7.6B |
+| 08:00 | CHF | Foreign Reserves (USD) (Jun) | 711.5B |  | 717.7B |
+| 08:00 | EUR | Spanish Industrial Production (YoY) (May) | 0.4% | 1.4% | 0.2% |
+| 55 min | EUR | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
+| 55 min | EUR | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | -4.3% |
+| 10:00 | EUR | French Current Account (May) |  |  | -1.80B |
 | 10:00 | EUR | Retail Sales (YoY) (May) |  | 0.1% | 0.0% |
 | 10:00 | EUR | Retail Sales (MoM) (May) |  | 0.2% | -0.5% |
 | 11:00 | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -25.1B |
