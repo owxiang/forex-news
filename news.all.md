@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | Current Account (May) |  |  | -0.29B |
-| 24 min | JPY | Moderate | Household Spending (YoY) (May) |  | 0.2% | 0.5% |
-| 24 min | JPY | Moderate | Household Spending (MoM) (May) |  | 0.5% | -1.2% |
-| 44 min | JPY | Low | Foreign Reserves (USD) (Jun) |  |  | 1,231.6B |
+| 00:30 | KRW | Low | Current Account (May) | 8.92B |  | -0.29B |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
+| 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
 | 05:00 | IDR | Low | FX Reserves (USD) (Jun) |  |  | 139.00B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 1.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) |  |  | -0.8% |
@@ -28,8 +28,8 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -35 | -38 |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) |  | 1.4% | 0.8% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.93% |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -4.3% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) |  | 0.1% | 0.0% |

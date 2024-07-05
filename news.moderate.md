@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Household Spending (YoY) (May) |  | 0.2% | 0.5% |
-| 24 min | JPY | Household Spending (MoM) (May) |  | 0.5% | -1.2% |
+| 00:30 | JPY | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
+| 00:30 | JPY | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 07:00 | GBP | Halifax House Price Index (YoY) (Jun) |  |  | 1.5% |
 | 07:00 | GBP | Halifax House Price Index (MoM) (Jun) |  | 0.2% | -0.1% |
 | 07:00 | EUR | German Industrial Production (MoM) (May) |  | 0.2% | -0.1% |
