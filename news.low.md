@@ -6,8 +6,8 @@
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
 | 04:00 | IDR | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | 1.3% |  | 1.0% |
-| 06:00 | JPY | Leading Index | 111.1 | 111.1 | 110.9 |
 | 06:00 | JPY | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
+| 06:00 | JPY | Leading Index | 111.1 | 111.1 | 110.9 |
 | 06:00 | SGD | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
 | 06:00 | SGD | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
 | 07:00 | EUR | German Industrial Production (YoY) (May) | -6.67% |  | -3.66% |
@@ -22,13 +22,12 @@
 | 08:00 | EUR | Spanish Industrial Production (YoY) (May) | 0.4% | 1.4% | 0.2% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (May) | 0.4% |  | -1.7% |
 | 09:00 | EUR | Italian Retail Sales (MoM) (May) | 0.4% | 0.2% | -0.1% |
+| 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -23.9B | -20.3B | -25.1B |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) | 416.30B |  | 417.20B |
-| 10:00 | EUR | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
 | 10:00 | EUR | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
-| 12:00 | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -25.1B |
-| 12:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.15% |
-| 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
-| 12:30 | INR | FX Reserves, USD |  |  | 653.71B |
+| 10:00 | EUR | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
+| 11:30 | EUR | Spanish Consumer Confidence (May) | 83.8 |  | 84.5 |
+| 25 min | INR | FX Reserves, USD |  |  | 653.71B |
 | 13:30 | USD | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
 | 13:30 | USD | Government Payrolls (Jun) |  |  | 43.0K |
 | 13:30 | USD | Manufacturing Payrolls (Jun) |  | 6K | 8K |
