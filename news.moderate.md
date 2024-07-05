@@ -19,9 +19,9 @@
 | 13:30 | CAD | Employment Change (Jun) | -1.4K | 27.3K | 26.7K |
 | 13:30 | CAD | Unemployment Rate (Jun) | 6.4% | 6.3% | 6.2% |
 | 15:00 | CAD | Ivey PMI (Jun) | 62.5 | 53.0 | 52.0 |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 581 |
-| 18:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 585 |  | 581 |
+| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 44.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 271.2K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 246.2K |
