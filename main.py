@@ -18,7 +18,7 @@ def initialize_driver():
 
 def format_date(driver):
     try:
-        wait = WebDriverWait(driver, 60)  
+        wait = WebDriverWait(driver, 90)  
         date_element = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
         date_str = date_element.text.strip()
         date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
