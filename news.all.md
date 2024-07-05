@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | KRW | Low | Current Account (May) | 8.92B |  | -0.29B |
-| 00:30 | JPY | Moderate | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
 | 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
+| 00:30 | JPY | Moderate | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.3% |  | 1.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
 | 06:00 | JPY | Low | Leading Index | 111.1 | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
 | 06:00 | SGD | Low | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
+| 06:00 | SGD | Low | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | -0.2% | 0.2% | 0.0% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) | -2.5% | 0.2% | 0.1% |
@@ -32,8 +32,8 @@
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -23.9B | -20.3B | -25.1B |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) | 7.98% |  | 7.93% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 416.30B |  | 417.20B |
-| 10:00 | EUR | Low | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
 | 10:00 | EUR | Low | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
+| 10:00 | EUR | Low | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
 | 10:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:30 | EUR | Low | Spanish Consumer Confidence (May) | 83.8 |  | 84.5 |
 | 12:30 | INR | Low | FX Reserves, USD | 652.00B |  | 653.71B |
@@ -60,25 +60,5 @@
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 479 |  | 479 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 585 |  | 581 |
 | 18:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 25 min | GBP | Moderate | CFTC GBP speculative net positions |  |  | 44.0K |
-| 25 min | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
-| 25 min | USD | Low | CFTC Copper speculative net positions |  |  | 50.1K |
-| 25 min | USD | Low | CFTC Corn speculative net positions |  |  | -169.8K |
-| 25 min | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 271.2K |
-| 25 min | USD | Moderate | CFTC Gold speculative net positions |  |  | 246.2K |
-| 25 min | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 7.4K |
-| 25 min | USD | Low | CFTC Natural Gas speculative net positions |  |  | -89.3K |
-| 25 min | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -65.2K |
-| 25 min | USD | Low | CFTC Silver speculative net positions |  |  | 56.0K |
-| 25 min | USD | Low | CFTC Soybeans speculative net positions |  |  | -111.2K |
-| 25 min | USD | Low | CFTC Wheat speculative net positions |  |  | -44.5K |
-| 25 min | CAD | Low | CFTC CAD speculative net positions |  |  | -122.4K |
-| 25 min | MXN | Low | CFTC MXN speculative net positions |  |  | 57.8K |
-| 25 min | CHF | Low | CFTC CHF speculative net positions |  |  | -35.1K |
-| 25 min | AUD | Moderate | CFTC AUD speculative net positions |  |  | -23.7K |
-| 25 min | BRL | Moderate | CFTC BRL speculative net positions |  |  | -22.3K |
-| 25 min | JPY | Moderate | CFTC JPY speculative net positions |  |  | -173.9K |
-| 25 min | NZD | Low | CFTC NZD speculative net positions |  |  | 26.6K |
-| 25 min | EUR | Moderate | CFTC EUR speculative net positions |  |  | -8.4K |
-| 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,231B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,222B |  | 7,231B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.322T |  | 3.269T |

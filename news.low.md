@@ -6,10 +6,10 @@
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
 | 04:00 | IDR | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | 1.3% |  | 1.0% |
-| 06:00 | JPY | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
 | 06:00 | JPY | Leading Index | 111.1 | 111.1 | 110.9 |
-| 06:00 | SGD | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
+| 06:00 | JPY | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
 | 06:00 | SGD | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
+| 06:00 | SGD | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
 | 07:00 | EUR | German Industrial Production (YoY) (May) | -6.67% |  | -3.66% |
 | 07:00 | NOK | Manufacturing Production (MoM) (May) | 1.3% |  | -5.5% |
 | 07:00 | ZAR | Foreign Reserves (USD) (Jun) | 62.10B |  | 62.09B |
@@ -24,8 +24,8 @@
 | 09:00 | EUR | Italian Retail Sales (MoM) (May) | 0.4% | 0.2% | -0.1% |
 | 09:30 | GBP | Housing Equity Withdrawal (QoQ) | -23.9B | -20.3B | -25.1B |
 | 09:30 | HKD | Foreign Reserves (USD) (Jun) | 416.30B |  | 417.20B |
-| 10:00 | EUR | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
 | 10:00 | EUR | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
+| 10:00 | EUR | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
 | 11:30 | EUR | Spanish Consumer Confidence (May) | 83.8 |  | 84.5 |
 | 12:30 | INR | FX Reserves, USD | 652.00B |  | 653.71B |
 | 13:30 | USD | Average Weekly Hours (Jun) | 34.3 | 34.3 | 34.3 |
@@ -36,15 +36,4 @@
 | 13:30 | CAD | Part Time Employment Change (Jun) | 1.9K |  | 62.4K |
 | 13:30 | CAD | Participation Rate (Jun) | 65.3% |  | 65.4% |
 | 15:00 | CAD | Ivey PMI n.s.a (Jun) | 62.4 |  | 59.1 |
-| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
-| 25 min | USD | CFTC Copper speculative net positions |  |  | 50.1K |
-| 25 min | USD | CFTC Corn speculative net positions |  |  | -169.8K |
-| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -89.3K |
-| 25 min | USD | CFTC Silver speculative net positions |  |  | 56.0K |
-| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -111.2K |
-| 25 min | USD | CFTC Wheat speculative net positions |  |  | -44.5K |
-| 25 min | CAD | CFTC CAD speculative net positions |  |  | -122.4K |
-| 25 min | MXN | CFTC MXN speculative net positions |  |  | 57.8K |
-| 25 min | CHF | CFTC CHF speculative net positions |  |  | -35.1K |
-| 25 min | NZD | CFTC NZD speculative net positions |  |  | 26.6K |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.269T |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.322T |  | 3.269T |
