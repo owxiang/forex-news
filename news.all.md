@@ -3,15 +3,15 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | KRW | Low | Current Account (May) | 8.92B |  | -0.29B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
 | 04:00 | IDR | Low | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.3% |  | 1.0% |
 | 06:00 | JPY | Low | Leading Index | 111.1 | 111.1 | 110.9 |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.2% |  | -0.8% |
-| 06:00 | SGD | Low | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (May) | 2.2% |  | -1.2% |
+| 06:00 | SGD | Low | Retail Sales (MoM) (May) | 2.4% |  | -2.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) | 1.6% |  | 1.6% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (MoM) (Jun) | -0.2% | 0.2% | 0.0% |
 | 07:00 | EUR | Moderate | German Industrial Production (MoM) (May) | -2.5% | 0.2% | 0.1% |
@@ -32,8 +32,8 @@
 | 09:30 | GBP | Low | Housing Equity Withdrawal (QoQ) | -23.9B | -20.3B | -25.1B |
 | 09:30 | GBP | Moderate | Mortgage Rate (GBP) (Jun) | 7.98% |  | 7.93% |
 | 09:30 | HKD | Low | Foreign Reserves (USD) (Jun) | 416.30B |  | 417.20B |
-| 10:00 | EUR | Low | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) | 0.3% | 0.1% | 0.6% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (May) | 0.1% | 0.2% | -0.2% |
 | 10:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:30 | EUR | Low | Spanish Consumer Confidence (May) | 83.8 |  | 84.5 |
 | 12:30 | INR | Low | FX Reserves, USD | 652.00B |  | 653.71B |
