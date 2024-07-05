@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:30 | KRW | Low | Current Account (May) | 8.92B |  | -0.29B |
-| 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 00:30 | JPY | Moderate | Household Spending (MoM) (May) | -0.3% | 0.5% | -1.2% |
+| 00:30 | JPY | Moderate | Household Spending (YoY) (May) | -1.8% | 0.2% | 0.5% |
 | 00:50 | JPY | Low | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
-| 05:00 | IDR | Low | FX Reserves (USD) (Jun) |  |  | 139.00B |
+| 54 min | IDR | Low | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) |  |  | 1.0% |
-| 06:00 | JPY | Low | Leading Index |  | 111.1 | 110.9 |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) |  |  | -0.8% |
+| 06:00 | JPY | Low | Leading Index |  | 111.1 | 110.9 |
 | 06:00 | SGD | Low | Retail Sales (MoM) (May) |  |  | -2.7% |
 | 06:00 | SGD | Low | Retail Sales (YoY) (May) |  |  | -1.2% |
 | 07:00 | GBP | Moderate | Halifax House Price Index (YoY) (Jun) |  |  | 1.5% |
@@ -28,20 +28,20 @@
 | 08:00 | CHF | Moderate | SECO Consumer Climate |  | -35 | -38 |
 | 08:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish Industrial Production (YoY) (May) |  | 1.4% | 0.8% |
-| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 09:00 | EUR | Low | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
+| 09:00 | EUR | Low | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 10:00 | GBP | Moderate | Mortgage Rate (GBP) |  |  | 7.93% |
 | 10:00 | EUR | Low | German Car Registration (YoY) |  |  | -4.3% |
-| 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | 0.2% | -0.5% |
 | 10:00 | EUR | Low | Retail Sales (YoY) (May) |  | 0.1% | 0.0% |
+| 10:00 | EUR | Low | Retail Sales (MoM) (May) |  | 0.2% | -0.5% |
 | 10:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 11:00 | GBP | Low | Housing Equity Withdrawal (QoQ) |  | -20.3B | -25.1B |
 | 12:00 | CAD | Low | Leading Index (MoM) (Jun) |  |  | 0.15% |
 | 12:00 | EUR | Low | Spanish Consumer Confidence (May) |  |  | 84.5 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 653.71B |
 | 13:15 | EUR | Moderate | ECB's Elderson Speaks |  |  |  |
-| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | Moderate | Average Hourly Earnings (YoY) (YoY) (Jun) |  | 3.9% | 4.1% |
+| 13:30 | USD | High | Average Hourly Earnings (MoM) (Jun) |  | 0.3% | 0.4% |
 | 13:30 | USD | Low | Average Weekly Hours (Jun) |  | 34.3 | 34.3 |
 | 13:30 | USD | Low | Government Payrolls (Jun) |  |  | 43.0K |
 | 13:30 | USD | Low | Manufacturing Payrolls (Jun) |  | 6K | 8K |

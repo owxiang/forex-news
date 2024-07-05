@@ -4,10 +4,10 @@
 |------|----------|-------|--------|----------|----------|
 | 00:30 | KRW | Current Account (May) | 8.92B |  | -0.29B |
 | 00:50 | JPY | Foreign Reserves (USD) (Jun) | 1,231.5B |  | 1,231.6B |
-| 05:00 | IDR | FX Reserves (USD) (Jun) |  |  | 139.00B |
+| 54 min | IDR | FX Reserves (USD) (Jun) | 140.20B |  | 139.00B |
 | 06:00 | JPY | Coincident Indicator (MoM) (May) |  |  | 1.0% |
-| 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
 | 06:00 | JPY | Leading Index (MoM) (May) |  |  | -0.8% |
+| 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
 | 06:00 | SGD | Retail Sales (MoM) (May) |  |  | -2.7% |
 | 06:00 | SGD | Retail Sales (YoY) (May) |  |  | -1.2% |
 | 07:00 | EUR | German Industrial Production (YoY) (May) |  |  | -3.86% |
@@ -21,11 +21,11 @@
 | 07:45 | EUR | French Trade Balance (May) |  | -7.2B | -7.6B |
 | 08:00 | CHF | Foreign Reserves (USD) (Jun) |  |  | 717.6B |
 | 08:00 | EUR | Spanish Industrial Production (YoY) (May) |  | 1.4% | 0.8% |
-| 09:00 | EUR | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 09:00 | EUR | Italian Retail Sales (YoY) (May) |  |  | -1.9% |
+| 09:00 | EUR | Italian Retail Sales (MoM) (May) |  | 0.2% | -0.1% |
 | 10:00 | EUR | German Car Registration (YoY) |  |  | -4.3% |
-| 10:00 | EUR | Retail Sales (MoM) (May) |  | 0.2% | -0.5% |
 | 10:00 | EUR | Retail Sales (YoY) (May) |  | 0.1% | 0.0% |
+| 10:00 | EUR | Retail Sales (MoM) (May) |  | 0.2% | -0.5% |
 | 11:00 | GBP | Housing Equity Withdrawal (QoQ) |  | -20.3B | -25.1B |
 | 12:00 | CAD | Leading Index (MoM) (Jun) |  |  | 0.15% |
 | 12:00 | EUR | Spanish Consumer Confidence (May) |  |  | 84.5 |
