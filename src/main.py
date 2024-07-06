@@ -11,12 +11,12 @@ import os
 
 def initialize_driver():
     chrome_options = Options()
-    chrome_options.add_argument('--headless')  
+    chrome_options.add_argument('--headless')
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
     driver = webdriver.Chrome(options=chrome_options)
     return driver
 
-def format_date(driver, retries=3, wait_time=90):
+def format_date(driver, retries=3, wait_time=30):
     for attempt in range(retries):
         try:
             wait = WebDriverWait(driver, wait_time)
@@ -26,10 +26,10 @@ def format_date(driver, retries=3, wait_time=90):
             return date_obj.strftime("%d %B %Y")
         except TimeoutException:
             print(f"Attempt {attempt + 1}: Element with class name 'theDay' was not found within the timeout period.")
-            driver.refresh()  
+            driver.refresh()
         except NoSuchElementException:
             print(f"Attempt {attempt + 1}: Element with class name 'theDay' does not exist on the page.")
-            driver.refresh() 
+            driver.refresh()
         except Exception as e:
             print(f"Attempt {attempt + 1}: An error occurred: {e}")
     return None
@@ -60,7 +60,7 @@ def write_to_readme(content_dict, formatted_date):
         content = f"{base_header}\n\n{content_dict['table']}"
     with open(content_dict['filename'], 'w') as file:
         file.write(content)
-        
+
 def send_telegram(message):
     bot = os.environ['TELEGRAM_BOT_TOKEN']
     chat_id = os.environ['TELEGRAM_CHANNEL_ID']
@@ -76,7 +76,7 @@ def send_telegram(message):
         print("Telegram message sent successfully!")
     else:
         print(f"Telegram message failed. Status code: {response.status_code}. Error message: {response.text}")
-        
+
 def scrape_forex_events():
     url = os.environ['URL']
     driver = initialize_driver()
@@ -96,7 +96,7 @@ def scrape_forex_events():
         'Moderate': {'events': [], 'table': headers['Impact'], 'filename': 'table_for_moderate_readme.txt', 'impact': 'Moderate', 'name': 'Moderate Impact'},
         'Low': {'events': [], 'table': headers['Impact'], 'filename': 'table_for_low_readme.txt', 'impact': 'Low', 'name': 'Low Impact'}
     }
-    
+
     for event_row in event_rows:
         event_data = process_event_row(event_row)
         if event_data:
@@ -112,8 +112,8 @@ def scrape_forex_events():
             event_data['importance'] = impact_level
             content_dict[impact_level]['events'].append(event_data)  
             content_dict['All']['events'].append(event_data)  
-            
-                
+
+
     for key, value in content_dict.items():
         if key == 'All':
             row_format = "| {time} | {currency} | {importance} | {event} | {actual} | {forecast} | {previous} |\n"
@@ -123,7 +123,7 @@ def scrape_forex_events():
         for event in value['events']:
             value['table'] += row_format.format(**event)
         write_to_readme(value, formatted_date)
-        
+
     driver.quit()
 
 scrape_forex_events()
