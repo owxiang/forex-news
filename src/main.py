@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.chrome.service import Service
 from datetime import datetime
-import time
 import requests
 import os
 
@@ -16,7 +15,7 @@ def initialize_driver():
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
     driver = webdriver.Chrome(options=chrome_options)
     return driver
-        
+
 def format_date(driver, retries=3, wait_time=90):
     for attempt in range(retries):
         try:
@@ -27,14 +26,14 @@ def format_date(driver, retries=3, wait_time=90):
             return date_obj.strftime("%d %B %Y")
         except TimeoutException:
             print(f"Attempt {attempt + 1}: Element with class name 'theDay' was not found within the timeout period.")
+            driver.refresh()  
         except NoSuchElementException:
             print(f"Attempt {attempt + 1}: Element with class name 'theDay' does not exist on the page.")
+            driver.refresh() 
         except Exception as e:
             print(f"Attempt {attempt + 1}: An error occurred: {e}")
-        time.sleep(5)
-    print("Failed to find the element after several retries.")
     return None
-    
+
 def scrape_events(driver):
     table = driver.find_element(By.ID, 'ecEventsTable')
     return table.find_elements(By.TAG_NAME, 'tr')
