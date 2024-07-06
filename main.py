@@ -16,20 +16,6 @@ def initialize_driver():
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
     driver = webdriver.Chrome(options=chrome_options)
     return driver
-
-def format_date(driver):
-    try:
-        wait = WebDriverWait(driver, 90)  
-        date_element = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'theDay')))
-        date_str = date_element.text.strip()
-        date_obj = datetime.strptime(date_str, "%A, %B %d, %Y")
-        return date_obj.strftime("%d %B %Y")
-    except TimeoutException:
-        print("Element with class name 'theDay' was not found within the timeout period.")
-    except NoSuchElementException:
-        print("Element with class name 'theDay' does not exist on the page.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
         
 def format_date(driver, retries=3, wait_time=90):
     for attempt in range(retries):
