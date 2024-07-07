@@ -2,5 +2,5 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 53 min | CNY | Low | FX Reserves (USD) (Jun) |  |  | 3.232T |
+| 09:00 | CNY | Low | FX Reserves (USD) (Jun) |  |  | 3.232T |
 | 11:00 | EUR | Low | French Presidential Election – 2nd Round |  |  |  |
