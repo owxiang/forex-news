@@ -20,10 +20,10 @@
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 371.7B |  | 370.5B |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | 0.50% |  | 0.87% |
-| 18 min | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.477% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.687% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.623% |
+| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.477% |
+| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.687% |
+| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.623% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jun) |  |  | 111.44 |
 | 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.2% |
