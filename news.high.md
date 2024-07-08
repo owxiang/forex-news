@@ -1,3 +1,5 @@
-## 08 July 2024 - High Impact Forex News
+## 09 July 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | Fed Chair Powell Testifies |  |  |  |

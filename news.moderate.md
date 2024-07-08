@@ -1,21 +1,16 @@
-## 08 July 2024 - Moderate Impact Forex News
+## 09 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | Adjusted Current Account (May) | 2.41T | 2.07T | 2.52T |
-| 00:50 | JPY | Current Account n.s.a. (May) | 2.850T | 2.450T | 2.051T |
-| 02:30 | AUD | Home Loans (MoM) | -2.0% | 2.0% | 4.5% |
-| 07:00 | EUR | German Trade Balance (May) | 24.9B | 19.9B | 22.2B |
+| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
+| 02:30 | AUD | NAB Business Confidence (Jun) |  |  | -3 |
+| 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.0% |  | 3.2% |
-| 17:15 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (May) | 11.35B | 10.70B | 6.49B |
-| 20:30 | GBP | CFTC GBP speculative net positions | 62.0K |  | 44.0K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 279.9K |  | 271.2K |
-| 20:30 | USD | CFTC Gold speculative net positions | 241.5K |  | 246.2K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 10.8K |  | 7.4K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -11.8K |  | -65.2K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -15.8K |  | -23.7K |
-| 20:30 | BRL | CFTC BRL speculative net positions | -41.1K |  | -22.3K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -184.2K |  | -173.9K |
-| 20:30 | EUR | CFTC EUR speculative net positions | -9.5K |  | -8.4K |
+| 13:00 | MXN | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
+| 13:00 | MXN | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
+| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | 3-Year Note Auction |  |  | 4.659% |
+| 18:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -9.163M |

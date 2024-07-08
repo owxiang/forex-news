@@ -1,35 +1,27 @@
-## 08 July 2024 - Low Impact Forex News
+## 09 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Average Cash Earnings (YoY) | 1.9% | 2.1% | 1.6% |
-| 00:30 | JPY | Overall wage income of employees (May) | 1.9% |  | 1.6% |
-| 00:30 | JPY | Overtime Pay (YoY) (May) | 2.30% |  | -1.20% |
-| 00:50 | JPY | Bank Lending (YoY) (Jun) | 3.2% | 3.1% | 2.9% |
-| 02:30 | AUD | Invest Housing Finance (MoM) | -1.3% |  | 5.3% |
-| 04:00 | IDR | Consumer Confidence (Jun) | 123.3 |  | 125.2 |
-| 06:00 | JPY | Economy Watchers Current Index (Jun) | 47.0 | 46.1 | 45.7 |
-| 07:00 | EUR | German Exports (MoM) (May) | -3.6% |  | 1.7% |
-| 07:00 | EUR | German Imports (MoM) (May) | -6.6% |  | 1.2% |
-| 07:35 | EUR | French Reserve Assets Total (Jun) | 248,106.0M |  | 245,904.0M |
-| 09:30 | EUR | Sentix Investor Confidence (Jul) | -7.3 | -0.6 | 0.3 |
-| 10:00 | SGD | Foreign Reserves USD (MoM) | 371.7B |  | 370.5B |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | 0.50% |  | 0.87% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | French 12-Month BTF Auction | 3.439% |  | 3.477% |
-| 14:00 | EUR | French 3-Month BTF Auction | 3.674% |  | 3.687% |
-| 14:00 | EUR | French 6-Month BTF Auction | 3.572% |  | 3.623% |
-| 15:00 | USD | CB Employment Trends Index (Jun) | 110.27 |  | 111.04 |
-| 16:30 | USD | 3-Month Bill Auction | 5.230% |  | 5.240% |
-| 16:30 | USD | 6-Month Bill Auction | 5.080% |  | 5.115% |
-| 20:30 | USD | CFTC Aluminium speculative net positions | 2.2K |  | 2.3K |
-| 20:30 | USD | CFTC Copper speculative net positions | 49.2K |  | 50.1K |
-| 20:30 | USD | CFTC Corn speculative net positions | -228.7K |  | -169.8K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions | -90.3K |  | -89.3K |
-| 20:30 | USD | CFTC Silver speculative net positions | 55.8K |  | 56.0K |
-| 20:30 | USD | CFTC Soybeans speculative net positions | -122.2K |  | -111.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions | -38.7K |  | -44.5K |
-| 20:30 | CAD | CFTC CAD speculative net positions | -120.4K |  | -122.4K |
-| 20:30 | MXN | CFTC MXN speculative net positions | 63.6K |  | 57.8K |
-| 20:30 | CHF | CFTC CHF speculative net positions | -43.4K |  | -35.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions | 30.7K |  | 26.6K |
+| 45 min | JPY | M2 Money Stock (YoY) |  | 2.0% | 1.9% |
+| 45 min | JPY | M3 Money Supply (Jun) |  |  | 2,173.4B |
+| 01:30 | AUD | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
+| 02:30 | AUD | NAB Business Survey (Jun) |  |  | 6 |
+| 04:35 | JPY | 5-Year JGB Auction |  |  | 0.512% |
+| 05:00 | IDR | Retail Sales (YoY) (May) |  |  | -2.7% |
+| 07:00 | JPY | Machine Tool Orders (YoY) |  |  | 4.2% |
+| 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
+| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.374% |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 89.9 | 90.5 |
+| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 13:00 | MXN | Consumer Confidence |  |  | 46.7 |
+| 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.7 |
+| 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
+| 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
+| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.40% |
+| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 3.30% |
+| 13:55 | USD | Redbook (YoY) |  |  | 5.8% |
+| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 16:30 | USD | 52-Week Bill Auction |  |  | 4.915% |
+| 23:45 | NZD | External Migration & Visitors (May) |  |  | 1.70% |
+| 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 7,380 |
+| 23:45 | NZD | Visitor Arrivals (MoM) |  |  | -9.4% |

@@ -1,52 +1,40 @@
-## 08 July 2024 - All Forex News
+## 09 July 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:30 | JPY | Low | Average Cash Earnings (YoY) | 1.9% | 2.1% | 1.6% |
-| 00:30 | JPY | Low | Overall wage income of employees (May) | 1.9% |  | 1.6% |
-| 00:30 | JPY | Low | Overtime Pay (YoY) (May) | 2.30% |  | -1.20% |
-| 00:50 | JPY | Moderate | Adjusted Current Account (May) | 2.41T | 2.07T | 2.52T |
-| 00:50 | JPY | Low | Bank Lending (YoY) (Jun) | 3.2% | 3.1% | 2.9% |
-| 00:50 | JPY | Moderate | Current Account n.s.a. (May) | 2.850T | 2.450T | 2.051T |
-| 02:30 | AUD | Moderate | Home Loans (MoM) | -2.0% | 2.0% | 4.5% |
-| 02:30 | AUD | Low | Invest Housing Finance (MoM) | -1.3% |  | 5.3% |
-| 04:00 | IDR | Low | Consumer Confidence (Jun) | 123.3 |  | 125.2 |
-| 06:00 | JPY | Low | Economy Watchers Current Index (Jun) | 47.0 | 46.1 | 45.7 |
-| 07:00 | EUR | Low | German Exports (MoM) (May) | -3.6% |  | 1.7% |
-| 07:00 | EUR | Low | German Imports (MoM) (May) | -6.6% |  | 1.2% |
-| 07:00 | EUR | Moderate | German Trade Balance (May) | 24.9B | 19.9B | 22.2B |
-| 07:35 | EUR | Low | French Reserve Assets Total (Jun) | 248,106.0M |  | 245,904.0M |
-| 09:30 | EUR | Low | Sentix Investor Confidence (Jul) | -7.3 | -0.6 | 0.3 |
-| 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 371.7B |  | 370.5B |
+| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
+| 45 min | JPY | Low | M2 Money Stock (YoY) |  | 2.0% | 1.9% |
+| 45 min | JPY | Low | M3 Money Supply (Jun) |  |  | 2,173.4B |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Jun) |  |  | -3 |
+| 02:30 | AUD | Low | NAB Business Survey (Jun) |  |  | 6 |
+| 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.512% |
+| 05:00 | IDR | Low | Retail Sales (YoY) (May) |  |  | -2.7% |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 4.2% |
+| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
+| 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.374% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 89.9 | 90.5 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | 0.50% |  | 0.87% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.439% |  | 3.477% |
-| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.674% |  | 3.687% |
-| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.572% |  | 3.623% |
-| 15:00 | USD | Low | CB Employment Trends Index (Jun) | 110.27 |  | 111.04 |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.0% |  | 3.2% |
-| 16:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.240% |
-| 16:30 | USD | Low | 6-Month Bill Auction | 5.080% |  | 5.115% |
-| 17:15 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
-| 20:00 | USD | Moderate | Consumer Credit (May) | 11.35B | 10.70B | 6.49B |
-| 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 62.0K |  | 44.0K |
-| 20:30 | USD | Low | CFTC Aluminium speculative net positions | 2.2K |  | 2.3K |
-| 20:30 | USD | Low | CFTC Copper speculative net positions | 49.2K |  | 50.1K |
-| 20:30 | USD | Low | CFTC Corn speculative net positions | -228.7K |  | -169.8K |
-| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions | 279.9K |  | 271.2K |
-| 20:30 | USD | Moderate | CFTC Gold speculative net positions | 241.5K |  | 246.2K |
-| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions | 10.8K |  | 7.4K |
-| 20:30 | USD | Low | CFTC Natural Gas speculative net positions | -90.3K |  | -89.3K |
-| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions | -11.8K |  | -65.2K |
-| 20:30 | USD | Low | CFTC Silver speculative net positions | 55.8K |  | 56.0K |
-| 20:30 | USD | Low | CFTC Soybeans speculative net positions | -122.2K |  | -111.2K |
-| 20:30 | USD | Low | CFTC Wheat speculative net positions | -38.7K |  | -44.5K |
-| 20:30 | CAD | Low | CFTC CAD speculative net positions | -120.4K |  | -122.4K |
-| 20:30 | MXN | Low | CFTC MXN speculative net positions | 63.6K |  | 57.8K |
-| 20:30 | CHF | Low | CFTC CHF speculative net positions | -43.4K |  | -35.1K |
-| 20:30 | AUD | Moderate | CFTC AUD speculative net positions | -15.8K |  | -23.7K |
-| 20:30 | BRL | Moderate | CFTC BRL speculative net positions | -41.1K |  | -22.3K |
-| 20:30 | JPY | Moderate | CFTC JPY speculative net positions | -184.2K |  | -173.9K |
-| 20:30 | NZD | Low | CFTC NZD speculative net positions | 30.7K |  | 26.6K |
-| 20:30 | EUR | Moderate | CFTC EUR speculative net positions | -9.5K |  | -8.4K |
+| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 13:00 | MXN | Low | Consumer Confidence |  |  | 46.7 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. |  |  | 46.7 |
+| 13:00 | MXN | Low | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 3.30% |
+| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
+| 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
+| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.915% |
+| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.659% |
+| 18:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -9.163M |
+| 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 1.70% |
+| 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 7,380 |
+| 23:45 | NZD | Low | Visitor Arrivals (MoM) |  |  | -9.4% |
