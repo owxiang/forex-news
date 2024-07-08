@@ -19,8 +19,7 @@
 | 14:00 | EUR | French 12-Month BTF Auction | 3.439% |  | 3.477% |
 | 14:00 | EUR | French 3-Month BTF Auction | 3.674% |  | 3.687% |
 | 14:00 | EUR | French 6-Month BTF Auction | 3.572% |  | 3.623% |
-| 53 min | USD | CB Employment Trends Index (Jun) |  |  | 111.44 |
-| 53 min | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 15:00 | USD | CB Employment Trends Index (Jun) | 110.27 |  | 111.04 |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.115% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |

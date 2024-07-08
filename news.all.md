@@ -24,9 +24,8 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.439% |  | 3.477% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.674% |  | 3.687% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.572% |  | 3.623% |
-| 53 min | USD | Low | CB Employment Trends Index (Jun) |  |  | 111.44 |
-| 53 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
-| 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.2% |
+| 15:00 | USD | Low | CB Employment Trends Index (Jun) | 110.27 |  | 111.04 |
+| 55 min | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.115% |
 | 17:15 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
