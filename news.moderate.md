@@ -9,7 +9,7 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.0% |  | 3.2% |
 | 17:15 | GBP | MPC Member Haskel Speaks |  |  |  |
-| 20:00 | USD | Consumer Credit (May) |  | 10.70B | 6.40B |
+| 52 min | USD | Consumer Credit (May) |  | 10.70B | 6.40B |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 44.0K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 271.2K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 246.2K |
