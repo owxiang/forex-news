@@ -5,7 +5,7 @@
 | 00:30 | JPY | Low | Average Cash Earnings (YoY) | 1.9% | 2.1% | 1.6% |
 | 00:30 | JPY | Low | Overall wage income of employees (May) | 1.9% |  | 1.6% |
 | 00:30 | JPY | Low | Overtime Pay (YoY) (May) | 2.30% |  | -1.20% |
-| 00:50 | JPY | Moderate | Adjusted Current Account (May) | 240.62T | 2.07T | 2.52T |
+| 00:50 | JPY | Moderate | Adjusted Current Account (May) | 2.41T | 2.07T | 2.52T |
 | 00:50 | JPY | Low | Bank Lending (YoY) (Jun) | 3.2% | 3.1% | 2.9% |
 | 00:50 | JPY | Moderate | Current Account n.s.a. (May) | 2.850T | 2.450T | 2.051T |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | -2.0% | 2.0% | 4.5% |
@@ -21,11 +21,11 @@
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) | 0.50% |  | 0.87% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.477% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.687% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.623% |
-| 15:00 | USD | Low | CB Employment Trends Index (Jun) |  |  | 111.44 |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.439% |  | 3.477% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.674% |  | 3.687% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.572% |  | 3.623% |
+| 53 min | USD | Low | CB Employment Trends Index (Jun) |  |  | 111.44 |
+| 53 min | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.2% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.240% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.115% |

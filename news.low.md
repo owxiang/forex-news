@@ -16,11 +16,11 @@
 | 10:00 | SGD | Foreign Reserves USD (MoM) | 371.7B |  | 370.5B |
 | 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | 0.50% |  | 0.87% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 50 min | EUR | French 12-Month BTF Auction |  |  | 3.477% |
-| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.687% |
-| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.623% |
-| 15:00 | USD | CB Employment Trends Index (Jun) |  |  | 111.44 |
-| 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.439% |  | 3.477% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.674% |  | 3.687% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.572% |  | 3.623% |
+| 53 min | USD | CB Employment Trends Index (Jun) |  |  | 111.44 |
+| 53 min | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.240% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.115% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.3K |
