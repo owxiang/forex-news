@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 25 min | JPY | Average Cash Earnings (YoY) |  | 2.1% | 2.1% |
-| 25 min | JPY | Overall wage income of employees (May) |  |  | 1.6% |
-| 25 min | JPY | Overtime Pay (YoY) (May) |  |  | -1.20% |
-| 45 min | JPY | Bank Lending (YoY) (Jun) |  | 3.1% | 3.0% |
+| 00:30 | JPY | Average Cash Earnings (YoY) | 1.9% | 2.1% | 1.6% |
+| 00:30 | JPY | Overall wage income of employees (May) | 1.9% |  | 1.6% |
+| 00:30 | JPY | Overtime Pay (YoY) (May) | 2.30% |  | -1.20% |
+| 00:50 | JPY | Bank Lending (YoY) (Jun) | 3.2% | 3.1% | 2.9% |
 | 02:30 | AUD | Invest Housing Finance (MoM) |  |  | 5.6% |
 | 05:00 | IDR | Consumer Confidence (Jun) |  |  | 125.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 46.1 | 45.7 |

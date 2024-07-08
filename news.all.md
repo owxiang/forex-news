@@ -2,12 +2,12 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 25 min | JPY | Low | Average Cash Earnings (YoY) |  | 2.1% | 2.1% |
-| 25 min | JPY | Low | Overall wage income of employees (May) |  |  | 1.6% |
-| 25 min | JPY | Low | Overtime Pay (YoY) (May) |  |  | -1.20% |
-| 45 min | JPY | Moderate | Adjusted Current Account (May) |  | 2.07T | 2.52T |
-| 45 min | JPY | Low | Bank Lending (YoY) (Jun) |  | 3.1% | 3.0% |
-| 45 min | JPY | Moderate | Current Account n.s.a. (May) |  | 2.450T | 2.051T |
+| 00:30 | JPY | Low | Average Cash Earnings (YoY) | 1.9% | 2.1% | 1.6% |
+| 00:30 | JPY | Low | Overall wage income of employees (May) | 1.9% |  | 1.6% |
+| 00:30 | JPY | Low | Overtime Pay (YoY) (May) | 2.30% |  | -1.20% |
+| 00:50 | JPY | Moderate | Adjusted Current Account (May) | 240.62T | 2.07T | 2.52T |
+| 00:50 | JPY | Low | Bank Lending (YoY) (Jun) | 3.2% | 3.1% | 2.9% |
+| 00:50 | JPY | Moderate | Current Account n.s.a. (May) | 2.850T | 2.450T | 2.051T |
 | 02:30 | AUD | Moderate | Home Loans (MoM) |  | 2.0% | 4.3% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) |  |  | 5.6% |
 | 05:00 | IDR | Low | Consumer Confidence (Jun) |  |  | 125.2 |
