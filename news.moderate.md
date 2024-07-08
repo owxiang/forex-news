@@ -5,7 +5,7 @@
 | 00:50 | JPY | Adjusted Current Account (May) | 240.62T | 2.07T | 2.52T |
 | 00:50 | JPY | Current Account n.s.a. (May) | 2.850T | 2.450T | 2.051T |
 | 02:30 | AUD | Home Loans (MoM) | -2.0% | 2.0% | 4.5% |
-| 53 min | EUR | German Trade Balance (May) |  | 19.9B | 22.1B |
+| 07:00 | EUR | German Trade Balance (May) | 24.9B | 19.9B | 22.1B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations |  |  | 3.2% |

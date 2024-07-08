@@ -12,11 +12,11 @@
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | -1.3% |  | 5.3% |
 | 04:00 | IDR | Low | Consumer Confidence (Jun) | 123.3 |  | 125.2 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jun) | 47.0 | 46.1 | 45.7 |
-| 53 min | EUR | Low | German Exports (MoM) (May) |  |  | 1.6% |
-| 53 min | EUR | Low | German Imports (MoM) (May) |  |  | 2.0% |
-| 53 min | EUR | Moderate | German Trade Balance (May) |  | 19.9B | 22.1B |
-| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
-| 07:45 | EUR | Low | French Reserve Assets Total (Jun) |  |  | 245,904.0M |
+| 07:00 | EUR | Low | German Exports (MoM) (May) | -3.6% |  | 1.7% |
+| 07:00 | EUR | Low | German Imports (MoM) (May) | -6.6% |  | 1.2% |
+| 07:00 | EUR | Moderate | German Trade Balance (May) | 24.9B | 19.9B | 22.1B |
+| 37 min | EUR | Low | French Current Account (May) |  |  | -1.80B |
+| 37 min | EUR | Low | French Reserve Assets Total (Jun) |  |  | 245,904.0M |
 | 09:30 | HKD | Low | Foreign Reserves (USD) |  |  | 417.20B |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jul) |  | -0.6 | 0.3 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) |  |  | 370.5B |
