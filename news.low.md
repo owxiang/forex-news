@@ -6,7 +6,7 @@
 | 00:30 | JPY | Overall wage income of employees (May) | 1.9% |  | 1.6% |
 | 00:30 | JPY | Overtime Pay (YoY) (May) | 2.30% |  | -1.20% |
 | 00:50 | JPY | Bank Lending (YoY) (Jun) | 3.2% | 3.1% | 2.9% |
-| 02:30 | AUD | Invest Housing Finance (MoM) | -1.3% |  | 5.6% |
+| 02:30 | AUD | Invest Housing Finance (MoM) | -1.3% |  | 5.3% |
 | 05:00 | IDR | Consumer Confidence (Jun) |  |  | 125.2 |
 | 06:00 | JPY | Economy Watchers Current Index (Jun) |  | 46.1 | 45.7 |
 | 07:00 | EUR | German Exports (MoM) (May) |  |  | 1.6% |
