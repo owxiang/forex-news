@@ -10,12 +10,12 @@
 | 16:00 | USD | NY Fed 1-Year Consumer Inflation Expectations | 3.0% |  | 3.2% |
 | 17:15 | GBP | MPC Member Haskel Speaks |  |  |  |
 | 20:00 | USD | Consumer Credit (May) | 11.35B | 10.70B | 6.49B |
-| 25 min | GBP | CFTC GBP speculative net positions |  |  | 44.0K |
-| 25 min | USD | CFTC Crude Oil speculative net positions |  |  | 271.2K |
-| 25 min | USD | CFTC Gold speculative net positions |  |  | 246.2K |
-| 25 min | USD | CFTC Nasdaq 100 speculative net positions |  |  | 7.4K |
-| 25 min | USD | CFTC S&P 500 speculative net positions |  |  | -65.2K |
-| 25 min | AUD | CFTC AUD speculative net positions |  |  | -23.7K |
-| 25 min | BRL | CFTC BRL speculative net positions |  |  | -22.3K |
-| 25 min | JPY | CFTC JPY speculative net positions |  |  | -173.9K |
-| 25 min | EUR | CFTC EUR speculative net positions |  |  | -8.4K |
+| 20:30 | GBP | CFTC GBP speculative net positions | 62.0K |  | 44.0K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions | 279.9K |  | 271.2K |
+| 20:30 | USD | CFTC Gold speculative net positions | 241.5K |  | 246.2K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | 10.8K |  | 7.4K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions | -11.8K |  | -65.2K |
+| 20:30 | AUD | CFTC AUD speculative net positions | -15.8K |  | -23.7K |
+| 20:30 | BRL | CFTC BRL speculative net positions | -41.1K |  | -22.3K |
+| 20:30 | JPY | CFTC JPY speculative net positions | -184.2K |  | -173.9K |
+| 20:30 | EUR | CFTC EUR speculative net positions | -9.5K |  | -8.4K |
