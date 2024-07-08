@@ -10,7 +10,7 @@
 | 00:50 | JPY | Moderate | Current Account n.s.a. (May) | 2.850T | 2.450T | 2.051T |
 | 02:30 | AUD | Moderate | Home Loans (MoM) | -2.0% | 2.0% | 4.5% |
 | 02:30 | AUD | Low | Invest Housing Finance (MoM) | -1.3% |  | 5.3% |
-| 05:00 | IDR | Low | Consumer Confidence (Jun) |  |  | 125.2 |
+| 54 min | IDR | Low | Consumer Confidence (Jun) | 123.3 |  | 125.2 |
 | 06:00 | JPY | Low | Economy Watchers Current Index (Jun) |  | 46.1 | 45.7 |
 | 07:00 | EUR | Low | German Exports (MoM) (May) |  |  | 1.6% |
 | 07:00 | EUR | Low | German Imports (MoM) (May) |  |  | 2.0% |
