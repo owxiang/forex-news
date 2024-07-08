@@ -14,8 +14,8 @@
 | 07:35 | EUR | French Reserve Assets Total (Jun) | 248,106.0M |  | 245,904.0M |
 | 09:30 | EUR | Sentix Investor Confidence (Jul) | -7.3 | -0.6 | 0.3 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) | 371.7B |  | 370.5B |
-| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) |  |  | 0.87% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:00 | BRL | IGP-DI Inflation Index (MoM) (Jun) | 0.50% |  | 0.87% |
+| 18 min | BRL | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.477% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.687% |
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.623% |
