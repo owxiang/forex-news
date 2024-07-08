@@ -26,9 +26,9 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.572% |  | 3.623% |
 | 15:00 | USD | Low | CB Employment Trends Index (Jun) | 110.27 |  | 111.04 |
 | 16:00 | USD | Moderate | NY Fed 1-Year Consumer Inflation Expectations | 3.0% |  | 3.2% |
-| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.240% |
-| 24 min | USD | Low | 6-Month Bill Auction |  |  | 5.115% |
-| 17:15 | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.230% |  | 5.240% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 5.080% |  | 5.115% |
+| 8 min | GBP | Moderate | MPC Member Haskel Speaks |  |  |  |
 | 20:00 | USD | Moderate | Consumer Credit (May) |  | 10.70B | 6.40B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 44.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.3K |
