@@ -11,8 +11,8 @@
 | 06:00 | JPY | Economy Watchers Current Index (Jun) | 47.0 | 46.1 | 45.7 |
 | 07:00 | EUR | German Exports (MoM) (May) | -3.6% |  | 1.7% |
 | 07:00 | EUR | German Imports (MoM) (May) | -6.6% |  | 1.2% |
-| 37 min | EUR | French Current Account (May) |  |  | -1.80B |
-| 37 min | EUR | French Reserve Assets Total (Jun) |  |  | 245,904.0M |
+| 07:35 | EUR | French Reserve Assets Total (Jun) | 248,106.0M |  | 245,904.0M |
+| 09:30 | EUR | French Current Account (May) |  |  | -1.80B |
 | 09:30 | HKD | Foreign Reserves (USD) |  |  | 417.20B |
 | 09:30 | EUR | Sentix Investor Confidence (Jul) |  | -0.6 | 0.3 |
 | 10:00 | SGD | Foreign Reserves USD (MoM) |  |  | 370.5B |
