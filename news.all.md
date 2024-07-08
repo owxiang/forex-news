@@ -18,8 +18,7 @@
 | 07:35 | EUR | Low | French Reserve Assets Total (Jun) | 248,106.0M |  | 245,904.0M |
 | 09:30 | EUR | Low | Sentix Investor Confidence (Jul) | -7.3 | -0.6 | 0.3 |
 | 10:00 | SGD | Low | Foreign Reserves USD (MoM) | 371.7B |  | 370.5B |
-| 54 min | EUR | Low | French Current Account (May) |  |  | -1.80B |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | IGP-DI Inflation Index (MoM) (Jun) |  |  | 0.87% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.477% |
