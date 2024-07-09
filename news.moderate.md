@@ -4,7 +4,7 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
 | 02:30 | AUD | NAB Business Confidence (Jun) | 4 |  | -2 |
-| 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
+| 14 min | EUR | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
 | 13:00 | MXN | CPI (YoY) (Jun) |  | 4.84% | 4.69% |

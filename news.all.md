@@ -11,9 +11,8 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.612% |  | 0.512% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
-| 54 min | EUR | Low | French Current Account (May) |  |  | -1.80B |
-| 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.374% |
+| 14 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.374% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |

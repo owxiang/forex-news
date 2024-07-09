@@ -9,8 +9,7 @@
 | 04:35 | JPY | 5-Year JGB Auction | 0.612% |  | 0.512% |
 | 05:00 | IDR | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
 | 07:00 | JPY | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
-| 54 min | EUR | French Current Account (May) |  |  | -1.80B |
-| 09:40 | EUR | Spanish 3-Month Letras Auction |  |  | 3.374% |
+| 34 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.374% |
 | 11:00 | USD | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
 | 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Jun) |  |  | 46.7 |
