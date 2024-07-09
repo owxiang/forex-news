@@ -5,9 +5,9 @@
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
 | 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.5% | 2.0% | 1.9% |
 | 00:50 | JPY | Low | M3 Money Supply (Jun) | 2,168.1B |  | 2,169.1B |
-| 8 min | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Jun) |  |  | -3 |
-| 02:30 | AUD | Low | NAB Business Survey (Jun) |  |  | 6 |
+| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) | -1.1% |  | 1.7% |
+| 02:30 | AUD | Moderate | NAB Business Confidence (Jun) | 4 |  | -3 |
+| 02:30 | AUD | Low | NAB Business Survey (Jun) | 4 |  | 6 |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.512% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (May) |  |  | -2.7% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) |  |  | 4.2% |
