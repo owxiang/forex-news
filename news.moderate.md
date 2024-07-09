@@ -8,8 +8,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | MXN | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
 | 13:00 | MXN | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
-| 8 min | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 53 min | USD | Treasury Secretary Yellen Speaks |  |  |  |
+| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction |  |  | 4.659% |
 | 18:30 | USD | FOMC Member Bowman Speaks |  |  |  |
