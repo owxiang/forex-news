@@ -11,10 +11,11 @@
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.612% |  | 0.512% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
-| 14 min | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
+| 09:10 | IDR | Low | Car Sales (YoY) (Jun) | -11.80% |  | -13.30% |
+| 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.374% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | USD | Low | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Jun) |  |  | 46.7 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
@@ -22,8 +23,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 3.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
