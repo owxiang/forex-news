@@ -17,15 +17,15 @@
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 91.5 | 90.3 | 90.5 |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 53 min | MXN | Low | Consumer Confidence (Jun) |  |  | 46.7 |
-| 53 min | MXN | Low | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
-| 53 min | MXN | Low | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
-| 53 min | MXN | Moderate | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
-| 53 min | MXN | Moderate | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
-| 53 min | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
-| 53 min | MXN | Low | PPI (YoY) (Jun) |  |  | 3.30% |
-| 53 min | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
+| 13:00 | MXN | Low | Consumer Confidence (Jun) | 47.5 |  | 46.9 |
+| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
+| 13:00 | MXN | Low | Core CPI (MoM) (Jun) | 0.22% | 0.24% | 0.17% |
+| 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
+| 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
+| 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
+| 46 min | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |

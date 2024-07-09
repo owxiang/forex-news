@@ -6,8 +6,8 @@
 | 02:30 | AUD | NAB Business Confidence (Jun) | 4 |  | -2 |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 53 min | MXN | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
-| 53 min | MXN | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
+| 13:00 | MXN | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
+| 13:00 | MXN | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
