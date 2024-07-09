@@ -23,8 +23,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
 | 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
+| 13:00 | MXN | Low | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
