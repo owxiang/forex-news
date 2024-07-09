@@ -10,8 +10,8 @@
 | 02:30 | AUD | Low | NAB Business Survey (Jun) | 4 |  | 6 |
 | 04:35 | JPY | Low | 5-Year JGB Auction | 0.612% |  | 0.512% |
 | 05:00 | IDR | Low | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
-| 55 min | JPY | Low | Machine Tool Orders (YoY) |  |  | 4.2% |
-| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
+| 07:00 | JPY | Low | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
+| 38 min | EUR | Low | French Current Account (May) |  |  | -1.80B |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 09:40 | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.374% |
 | 11:00 | USD | Low | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
@@ -23,12 +23,11 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 3.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Low | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.915% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
