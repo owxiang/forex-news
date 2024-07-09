@@ -13,4 +13,4 @@
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | 3-Year Note Auction | 4.399% |  | 4.659% |
 | 18:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | -0.250M | -9.163M |
+| 24 min | USD | API Weekly Crude Oil Stock |  | -0.250M | -9.163M |
