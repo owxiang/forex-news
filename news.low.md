@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 45 min | JPY | M2 Money Stock (YoY) |  | 2.0% | 1.9% |
-| 45 min | JPY | M3 Money Supply (Jun) |  |  | 2,173.4B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
+| 00:50 | JPY | M2 Money Stock (YoY) | 1.5% | 2.0% | 1.9% |
+| 00:50 | JPY | M3 Money Supply (Jun) | 2,168.1B |  | 2,169.1B |
+| 8 min | AUD | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
 | 02:30 | AUD | NAB Business Survey (Jun) |  |  | 6 |
 | 04:35 | JPY | 5-Year JGB Auction |  |  | 0.512% |
 | 05:00 | IDR | Retail Sales (YoY) (May) |  |  | -2.7% |
@@ -17,8 +17,8 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. |  |  | 46.7 |
 | 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
-| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:00 | MXN | PPI (YoY) (Jun) |  |  | 3.30% |
+| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.8% |
 | 15:00 | USD | Total Vehicle Sales |  | 15.80M | 15.90M |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 4.915% |

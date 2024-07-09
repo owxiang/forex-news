@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
-| 45 min | JPY | Low | M2 Money Stock (YoY) |  | 2.0% | 1.9% |
-| 45 min | JPY | Low | M3 Money Supply (Jun) |  |  | 2,173.4B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
+| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.5% | 2.0% | 1.9% |
+| 00:50 | JPY | Low | M3 Money Supply (Jun) | 2,168.1B |  | 2,169.1B |
+| 8 min | AUD | Low | Westpac Consumer Sentiment (Jul) |  |  | 1.7% |
 | 02:30 | AUD | Moderate | NAB Business Confidence (Jun) |  |  | -3 |
 | 02:30 | AUD | Low | NAB Business Survey (Jun) |  |  | 6 |
 | 04:35 | JPY | Low | 5-Year JGB Auction |  |  | 0.512% |
@@ -23,8 +23,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) |  | 0.24% | -0.19% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) |  | 4.84% | 4.69% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) |  |  | 3.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
