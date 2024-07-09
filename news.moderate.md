@@ -10,7 +10,7 @@
 | 13:00 | MXN | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
-| 55 min | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction |  |  | 4.659% |
+| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
+| 54 min | USD | 3-Year Note Auction |  |  | 4.659% |
 | 18:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock |  | -0.250M | -9.163M |
