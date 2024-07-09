@@ -23,16 +23,16 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
 | 16:30 | USD | Low | 52-Week Bill Auction | 4.775% |  | 4.915% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 54 min | USD | Moderate | 3-Year Note Auction |  |  | 4.659% |
-| 18:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 18:00 | USD | Moderate | 3-Year Note Auction | 4.399% |  | 4.659% |
+| 24 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.250M | -9.163M |
 | 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 1.70% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 7,380 |

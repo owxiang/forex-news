@@ -17,8 +17,8 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 48.1 |  | 46.7 |
 | 13:00 | MXN | Core CPI (MoM) (Jun) | 0.22% | 0.24% | 0.17% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:00 | MXN | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
+| 13:00 | MXN | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.8% |
 | 16:30 | USD | 52-Week Bill Auction | 4.775% |  | 4.915% |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 1.70% |
