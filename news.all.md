@@ -13,10 +13,10 @@
 | 07:00 | JPY | Low | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
 | 09:10 | IDR | Low | Car Sales (YoY) (Jun) | -11.80% |  | -13.30% |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 34 min | EUR | Low | Spanish 3-Month Letras Auction |  |  | 3.374% |
-| 54 min | USD | Low | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 10:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.293% |  | 3.374% |
+| 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 91.5 | 90.3 | 90.5 |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Low | Consumer Confidence (Jun) |  |  | 46.7 |
 | 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
 | 13:00 | MXN | Low | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |

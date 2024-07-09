@@ -10,9 +10,9 @@
 | 05:00 | IDR | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
 | 07:00 | JPY | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
 | 09:10 | IDR | Car Sales (YoY) (Jun) | -11.80% |  | -13.30% |
-| 34 min | EUR | Spanish 3-Month Letras Auction |  |  | 3.374% |
-| 54 min | USD | NFIB Small Business Optimism (Jun) |  | 90.3 | 90.5 |
-| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 10:40 | EUR | Spanish 3-Month Letras Auction | 3.293% |  | 3.374% |
+| 11:00 | USD | NFIB Small Business Optimism (Jun) | 91.5 | 90.3 | 90.5 |
+| 54 min | GBP | BoE Quarterly Bulletin |  |  |  |
 | 13:00 | MXN | Consumer Confidence (Jun) |  |  | 46.7 |
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
 | 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
