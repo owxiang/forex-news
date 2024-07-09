@@ -20,7 +20,7 @@
 | 13:00 | MXN | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
 | 13:00 | MXN | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.8% |
-| 16:30 | USD | 52-Week Bill Auction |  |  | 4.915% |
+| 25 min | USD | 52-Week Bill Auction |  |  | 4.915% |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 1.70% |
 | 23:45 | NZD | Permanent/Long-Term Migration (May) |  |  | 7,380 |
 | 23:45 | NZD | Visitor Arrivals (MoM) (May) |  |  | -9.4% |

@@ -29,8 +29,8 @@
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
 | 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 16:30 | USD | Low | 52-Week Bill Auction |  |  | 4.915% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
+| 25 min | USD | Low | 52-Week Bill Auction |  |  | 4.915% |
+| 55 min | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction |  |  | 4.659% |
 | 18:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.250M | -9.163M |
