@@ -1,16 +1,19 @@
-## 09 July 2024 - Moderate Impact Forex News
+## 10 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:01 | GBP | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
-| 02:30 | AUD | NAB Business Confidence (Jun) | 4 |  | -2 |
+| 02:30 | AUD | Building Approvals (MoM) (May) |  | 5.5% | -0.3% |
+| 02:30 | CNY | CPI (MoM) (Jun) |  | -0.1% | -0.1% |
+| 02:30 | CNY | CPI (YoY) (Jun) |  | 0.4% | 0.3% |
+| 02:30 | CNY | PPI (YoY) (Jun) |  | -0.8% | -1.4% |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
+| 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
-| 13:00 | MXN | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
-| 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
-| 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
-| 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | 3-Year Note Auction | 4.399% |  | 4.659% |
-| 18:30 | USD | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | API Weekly Crude Oil Stock | -1.923M | -0.250M | -9.163M |
+| 12:00 | USD | OPEC Monthly Report |  |  |  |
+| 13:00 | BRL | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
+| 14:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
+| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.345M |
+| 16:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) |  | 1.5% | 1.5% |
+| 19:30 | USD | FOMC Member Bowman Speaks |  |  |  |

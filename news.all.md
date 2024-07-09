@@ -1,39 +1,64 @@
-## 09 July 2024 - All Forex News
+## 10 July 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | BRC Retail Sales Monitor (YoY) (Jun) | -0.5% | 0.2% | 0.4% |
-| 00:50 | JPY | Low | M2 Money Stock (YoY) | 1.5% | 2.0% | 1.9% |
-| 00:50 | JPY | Low | M3 Money Supply (Jun) | 2,168.1B |  | 2,169.1B |
-| 01:30 | AUD | Low | Westpac Consumer Sentiment (Jul) | -1.1% |  | 1.7% |
-| 02:30 | AUD | Moderate | NAB Business Confidence (Jun) | 4 |  | -2 |
-| 02:30 | AUD | Low | NAB Business Survey (Jun) | 4 |  | 6 |
-| 04:35 | JPY | Low | 5-Year JGB Auction | 0.612% |  | 0.512% |
-| 05:00 | IDR | Low | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
-| 07:00 | JPY | Low | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
-| 09:10 | IDR | Low | Car Sales (YoY) (Jun) | -11.80% |  | -13.30% |
+| 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
+| 44 min | JPY | Low | PPI (YoY) (Jun) |  | 2.9% | 2.4% |
+| 44 min | JPY | Low | PPI (MoM) (Jun) |  | 0.4% | 0.7% |
+| 02:30 | AUD | Moderate | Building Approvals (MoM) (May) |  | 5.5% | -0.3% |
+| 02:30 | AUD | Low | Private House Approvals (May) |  | 2.1% | -1.6% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Jun) |  | -0.1% | -0.1% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jun) |  | 0.4% | 0.3% |
+| 02:30 | CNY | Moderate | PPI (YoY) (Jun) |  | -0.8% | -1.4% |
+| 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
+| 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
+| 04:00 | IDR | Low | Consumer Confidence |  |  | 125.2 |
+| 04:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -4.50% |
+| 06:00 | JPY | Low | Economy Watchers Current Index |  | 46.3 | 45.7 |
+| 07:00 | NOK | Low | Core CPI YTD (Jun) |  | 3.6% | 4.1% |
+| 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  | 0.5% | 0.5% |
+| 07:00 | NOK | Low | CPI (YoY) (Jun) |  | 2.9% | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Jun) |  | 0.5% | -0.1% |
+| 07:00 | NOK | Low | PPI (YoY) (Jun) |  |  | 3.2% |
+| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) |  |  | -2.9% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) |  | 0.1% | -1.0% |
+| 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:40 | EUR | Low | Spanish 3-Month Letras Auction | 3.293% |  | 3.374% |
-| 11:00 | USD | Low | NFIB Small Business Optimism (Jun) | 91.5 | 90.3 | 90.5 |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 13:00 | MXN | Low | Consumer Confidence (Jun) | 47.5 |  | 46.9 |
-| 13:00 | MXN | Low | Consumer Confidence n.s.a. (Jun) | 48.1 |  | 46.7 |
-| 13:00 | MXN | Low | Core CPI (MoM) (Jun) | 0.22% | 0.24% | 0.17% |
-| 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
-| 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
-| 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
-| 13:00 | MXN | Low | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
-| 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.8% |
-| 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
+| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.584% |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.03% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.6% |
+| 12:00 | USD | Low | MBA Purchase Index |  |  | 142.9 |
+| 12:00 | USD | Low | Mortgage Market Index |  |  | 206.5 |
+| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 544.1 |
+| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
+| 13:00 | BRL | Low | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
+| 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.49% |
+| 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Moderate | Treasury Secretary Yellen Speaks |  |  |  |
-| 16:30 | USD | Low | 52-Week Bill Auction | 4.775% |  | 4.915% |
-| 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
-| 18:00 | USD | Moderate | 3-Year Note Auction | 4.399% |  | 4.659% |
-| 18:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -1.923M | -0.250M | -9.163M |
-| 39 min | NZD | Low | External Migration & Visitors (May) |  |  | 1.70% |
-| 39 min | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 7,380 |
-| 39 min | NZD | Low | Visitor Arrivals (MoM) (May) |  |  | -9.4% |
+| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.6% | 0.1% |
+| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
+| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 15:30 | USD | High | Crude Oil Inventories |  | -0.250M | -12.157M |
+| 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.260M |
+| 15:30 | USD | Low | Crude Oil Imports |  |  | -0.555M |
+| 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | 0.345M |
+| 15:30 | USD | Low | Distillate Fuel Production |  |  | 0.204M |
+| 15:30 | USD | Low | EIA Weekly Distillates Stocks |  | -0.300M | -1.535M |
+| 15:30 | USD | Low | Gasoline Production |  |  | 0.180M |
+| 15:30 | USD | Low | Heating Oil Stockpiles |  |  | -0.572M |
+| 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
+| 15:30 | USD | Low | Gasoline Inventories |  | -1.900M | -2.214M |
+| 16:00 | USD | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.82 |
+| 16:00 | CAD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 47.14 |
+| 16:00 | MXN | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 57.25 |
+| 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.33 |
+| 16:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 1.5% | 1.5% |
+| 18:00 | USD | High | 10-Year Note Auction |  |  | 4.438% |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
+| 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 19:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |

@@ -1,26 +1,45 @@
-## 09 July 2024 - Low Impact Forex News
+## 10 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:50 | JPY | M2 Money Stock (YoY) | 1.5% | 2.0% | 1.9% |
-| 00:50 | JPY | M3 Money Supply (Jun) | 2,168.1B |  | 2,169.1B |
-| 01:30 | AUD | Westpac Consumer Sentiment (Jul) | -1.1% |  | 1.7% |
-| 02:30 | AUD | NAB Business Survey (Jun) | 4 |  | 6 |
-| 04:35 | JPY | 5-Year JGB Auction | 0.612% |  | 0.512% |
-| 05:00 | IDR | Retail Sales (YoY) (May) | 2.1% |  | -2.7% |
-| 07:00 | JPY | Machine Tool Orders (YoY) | 9.7% |  | 4.2% |
-| 09:10 | IDR | Car Sales (YoY) (Jun) | -11.80% |  | -13.30% |
-| 10:40 | EUR | Spanish 3-Month Letras Auction | 3.293% |  | 3.374% |
-| 11:00 | USD | NFIB Small Business Optimism (Jun) | 91.5 | 90.3 | 90.5 |
-| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
-| 13:00 | MXN | Consumer Confidence (Jun) | 47.5 |  | 46.9 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 48.1 |  | 46.7 |
-| 13:00 | MXN | Core CPI (MoM) (Jun) | 0.22% | 0.24% | 0.17% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
-| 13:00 | MXN | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
-| 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.8% |
-| 16:30 | USD | 52-Week Bill Auction | 4.775% |  | 4.915% |
-| 39 min | NZD | External Migration & Visitors (May) |  |  | 1.70% |
-| 39 min | NZD | Permanent/Long-Term Migration (May) |  |  | 7,380 |
-| 39 min | NZD | Visitor Arrivals (MoM) (May) |  |  | -9.4% |
+| 00:00 | KRW | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
+| 44 min | JPY | PPI (YoY) (Jun) |  | 2.9% | 2.4% |
+| 44 min | JPY | PPI (MoM) (Jun) |  | 0.4% | 0.7% |
+| 02:30 | AUD | Private House Approvals (May) |  | 2.1% | -1.6% |
+| 04:00 | IDR | Consumer Confidence |  |  | 125.2 |
+| 04:00 | IDR | Motorbike Sales (YoY) |  |  | -4.50% |
+| 06:00 | JPY | Economy Watchers Current Index |  | 46.3 | 45.7 |
+| 07:00 | NOK | Core CPI YTD (Jun) |  | 3.6% | 4.1% |
+| 07:00 | NOK | Core Inflation (MoM) (Jun) |  | 0.5% | 0.5% |
+| 07:00 | NOK | CPI (YoY) (Jun) |  | 2.9% | 3.0% |
+| 07:00 | NOK | CPI (MoM) (Jun) |  | 0.5% | -0.1% |
+| 07:00 | NOK | PPI (YoY) (Jun) |  |  | 3.2% |
+| 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
+| 09:00 | EUR | Italian Industrial Production (YoY) (May) |  |  | -2.9% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (May) |  | 0.1% | -1.0% |
+| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.584% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.03% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
+| 12:00 | USD | MBA Purchase Index |  |  | 142.9 |
+| 12:00 | USD | Mortgage Market Index |  |  | 206.5 |
+| 12:00 | USD | Mortgage Refinance Index |  |  | 544.1 |
+| 12:30 | INR | M3 Money Supply |  |  | 10.9% |
+| 13:00 | BRL | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
+| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.49% |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) |  | 0.6% | 0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
+| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.260M |
+| 15:30 | USD | Crude Oil Imports |  |  | -0.555M |
+| 15:30 | USD | Distillate Fuel Production |  |  | 0.204M |
+| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.535M |
+| 15:30 | USD | Gasoline Production |  |  | 0.180M |
+| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.572M |
+| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
+| 15:30 | USD | Gasoline Inventories |  | -1.900M | -2.214M |
+| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.82 |
+| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 47.14 |
+| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 57.25 |
+| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.33 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
+| 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
+| 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
