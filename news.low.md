@@ -12,13 +12,13 @@
 | 09:10 | IDR | Car Sales (YoY) (Jun) | -11.80% |  | -13.30% |
 | 10:40 | EUR | Spanish 3-Month Letras Auction | 3.293% |  | 3.374% |
 | 11:00 | USD | NFIB Small Business Optimism (Jun) | 91.5 | 90.3 | 90.5 |
-| 54 min | GBP | BoE Quarterly Bulletin |  |  |  |
-| 13:00 | MXN | Consumer Confidence (Jun) |  |  | 46.7 |
-| 13:00 | MXN | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
-| 13:00 | MXN | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
-| 13:00 | MXN | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
-| 13:00 | MXN | PPI (YoY) (Jun) |  |  | 3.30% |
-| 13:00 | MXN | PPI (MoM) (Jun) |  |  | 0.40% |
+| 12:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 53 min | MXN | Consumer Confidence (Jun) |  |  | 46.7 |
+| 53 min | MXN | Consumer Confidence n.s.a. (Jun) |  |  | 46.7 |
+| 53 min | MXN | Core CPI (MoM) (Jun) |  | 0.24% | 0.17% |
+| 53 min | MXN | Month Core Inflation (MoM) (Jun) |  | 4.15% | 4.21% |
+| 53 min | MXN | PPI (YoY) (Jun) |  |  | 3.30% |
+| 53 min | MXN | PPI (MoM) (Jun) |  |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) |  |  | 5.8% |
 | 16:30 | USD | 52-Week Bill Auction |  |  | 4.915% |
 | 23:45 | NZD | External Migration & Visitors (May) |  |  | 1.70% |
