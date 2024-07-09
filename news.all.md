@@ -32,7 +32,7 @@
 | 16:30 | USD | Low | 52-Week Bill Auction | 4.775% |  | 4.915% |
 | 17:00 | USD | Moderate | EIA Short-Term Energy Outlook |  |  |  |
 | 18:00 | USD | Moderate | 3-Year Note Auction | 4.399% |  | 4.659% |
-| 24 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 18:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | -0.250M | -9.163M |
 | 23:45 | NZD | Low | External Migration & Visitors (May) |  |  | 1.70% |
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (May) |  |  | 7,380 |
