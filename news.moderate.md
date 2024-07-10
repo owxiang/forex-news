@@ -16,4 +16,4 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.702M |  | 0.345M |
 | 16:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.0% | 1.5% | 1.5% |
-| 19:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 23 min | USD | FOMC Member Bowman Speaks |  |  |  |
