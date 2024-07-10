@@ -9,8 +9,8 @@
 | 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
+| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
@@ -23,20 +23,20 @@
 | 12:30 | INR | M3 Money Supply | 9.7% |  | 10.9% |
 | 13:00 | BRL | CPI (MoM) (Jun) | 0.21% | 0.32% | 0.46% |
 | 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.28% |  | 0.49% |
-| 53 min | USD | Wholesale Inventories (MoM) (May) |  | 0.6% | 0.1% |
-| 53 min | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.260M |
-| 15:30 | USD | Crude Oil Imports |  |  | -0.555M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.204M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.535M |
-| 15:30 | USD | Gasoline Production |  |  | 0.180M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | -0.572M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
-| 15:30 | USD | Gasoline Inventories |  | -1.900M | -2.214M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.82 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 47.14 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 57.25 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.33 |
+| 15:00 | USD | Wholesale Inventories (MoM) (May) | 0.6% | 0.6% | 0.1% |
+| 15:00 | USD | Wholesale Trade Sales (MoM) (May) | 0.4% |  | 0.2% |
+| 24 min | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.260M |
+| 24 min | USD | Crude Oil Imports |  |  | -0.555M |
+| 24 min | USD | Distillate Fuel Production |  |  | 0.204M |
+| 24 min | USD | EIA Weekly Distillates Stocks |  | -0.300M | -1.535M |
+| 24 min | USD | Gasoline Production |  |  | 0.180M |
+| 24 min | USD | Heating Oil Stockpiles |  |  | -0.572M |
+| 24 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | 1.3% |
+| 24 min | USD | Gasoline Inventories |  | -1.900M | -2.214M |
+| 54 min | USD | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.82 |
+| 54 min | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 47.14 |
+| 54 min | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 57.25 |
+| 54 min | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) |  |  | 52.33 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
 | 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
