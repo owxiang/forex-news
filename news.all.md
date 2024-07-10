@@ -15,14 +15,14 @@
 | 05:00 | IDR | Low | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
+| 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.584% |
+| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.584% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.03% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.6% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 142.9 |

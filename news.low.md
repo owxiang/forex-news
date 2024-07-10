@@ -9,12 +9,12 @@
 | 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
+| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
-| 10:10 | EUR | Italian 12-Month BOT Auction |  |  | 3.584% |
+| 4 min | EUR | Italian 12-Month BOT Auction |  |  | 3.584% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.03% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
 | 12:00 | USD | MBA Purchase Index |  |  | 142.9 |
