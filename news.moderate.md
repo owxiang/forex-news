@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (May) |  | 5.5% | -0.3% |
+| 02:30 | AUD | Building Approvals (MoM) (May) | 5.5% | 5.5% | 1.9% |
 | 02:30 | CNY | CPI (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
 | 02:30 | CNY | CPI (YoY) (Jun) | 0.2% | 0.4% | 0.3% |
 | 02:30 | CNY | PPI (YoY) (Jun) | -0.8% | -0.8% | -1.4% |
-| 28 min | NZD | RBNZ Rate Statement |  |  |  |
+| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
