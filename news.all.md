@@ -15,20 +15,20 @@
 | 05:00 | IDR | Low | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
-| 4 min | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.584% |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.03% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.6% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 142.9 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 206.5 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 544.1 |
-| 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
+| 10:30 | EUR | Low | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.03% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | -2.6% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 142.9 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 206.5 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 544.1 |
+| 54 min | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
 | 13:00 | BRL | Low | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
