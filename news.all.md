@@ -3,25 +3,24 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 00:50 | JPY | Low | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 5.5% | 5.5% | 1.9% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
-| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.2% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
+| 02:30 | CNY | Moderate | CPI (YoY) (Jun) | 0.2% | 0.4% | 0.3% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jun) | -0.8% | -0.8% | -1.4% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 38 min | EUR | Low | French Current Account (May) |  |  | -1.80B |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) |  | 0.0% | -1.0% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) |  |  | -2.9% |
-| 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -4.50% |
+| 07:20 | IDR | Low | Motorbike Sales (YoY) | 3.50% |  | -4.50% |
+| 55 min | EUR | Low | Italian Industrial Production (YoY) (May) |  |  | -2.9% |
+| 55 min | EUR | Low | Italian Industrial Production (MoM) (May) |  | 0.0% | -1.0% |
+| 55 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.584% |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 7.03% |
@@ -31,8 +30,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 544.1 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 13:00 | BRL | Low | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
+| 13:00 | BRL | Low | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.49% |
 | 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
