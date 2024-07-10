@@ -12,8 +12,8 @@
 | 02:30 | CNY | Moderate | PPI (YoY) (Jun) | -0.8% | -0.8% | -1.4% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision | 5.50% | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
-| 42 min | IDR | Low | Consumer Confidence |  |  | 125.2 |
-| 42 min | IDR | Low | Motorbike Sales (YoY) |  |  | -4.50% |
+| 04:00 | IDR | Low | Consumer Confidence | 123.3 |  | 125.2 |
+| 04:00 | IDR | Low | Motorbike Sales (YoY) |  |  | -4.50% |
 | 06:00 | JPY | Low | Economy Watchers Current Index |  | 46.3 | 45.7 |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) |  | 3.6% | 4.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) |  | 0.5% | 0.5% |
@@ -21,8 +21,8 @@
 | 07:00 | NOK | Low | CPI (MoM) (Jun) |  | 0.5% | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) |  |  | 3.2% |
 | 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) |  |  | -2.9% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) |  | 0.1% | -1.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) |  |  | -2.9% |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:10 | EUR | Low | Italian 12-Month BOT Auction |  |  | 3.584% |
