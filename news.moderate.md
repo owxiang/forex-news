@@ -10,7 +10,7 @@
 | 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 55 min | BRL | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
+| 13:00 | BRL | CPI (YoY) (Jun) | 4.23% | 4.35% | 3.93% |
 | 14:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | 0.345M |
