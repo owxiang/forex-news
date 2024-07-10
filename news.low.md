@@ -9,20 +9,20 @@
 | 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
+| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
 | 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
+| 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
 | 10:30 | EUR | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
-| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 7.03% |
-| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | -2.6% |
-| 54 min | USD | MBA Purchase Index |  |  | 142.9 |
-| 54 min | USD | Mortgage Market Index |  |  | 206.5 |
-| 54 min | USD | Mortgage Refinance Index |  |  | 544.1 |
-| 12:30 | INR | M3 Money Supply |  |  | 10.9% |
-| 13:00 | BRL | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.49% |
+| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.00% |  | 7.03% |
+| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.2% |  | -2.6% |
+| 12:00 | USD | MBA Purchase Index | 144.3 |  | 142.9 |
+| 12:00 | USD | Mortgage Market Index | 206.1 |  | 206.5 |
+| 12:00 | USD | Mortgage Refinance Index | 532.3 |  | 544.1 |
+| 25 min | INR | M3 Money Supply |  |  | 10.9% |
+| 55 min | BRL | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
+| 55 min | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.49% |
 | 15:00 | USD | Wholesale Inventories (MoM) (May) |  | 0.6% | 0.1% |
 | 15:00 | USD | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
 | 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | 0.260M |
