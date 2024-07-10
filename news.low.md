@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 44 min | JPY | PPI (YoY) (Jun) |  | 2.9% | 2.4% |
-| 44 min | JPY | PPI (MoM) (Jun) |  | 0.4% | 0.7% |
+| 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
+| 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
 | 02:30 | AUD | Private House Approvals (May) |  | 2.1% | -1.6% |
 | 04:00 | IDR | Consumer Confidence |  |  | 125.2 |
 | 04:00 | IDR | Motorbike Sales (YoY) |  |  | -4.50% |

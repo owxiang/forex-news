@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 44 min | JPY | Low | PPI (YoY) (Jun) |  | 2.9% | 2.4% |
-| 44 min | JPY | Low | PPI (MoM) (Jun) |  | 0.4% | 0.7% |
+| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
+| 00:50 | JPY | Low | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) |  | 5.5% | -0.3% |
 | 02:30 | AUD | Low | Private House Approvals (May) |  | 2.1% | -1.6% |
-| 02:30 | CNY | Moderate | CPI (MoM) (Jun) |  | -0.1% | -0.1% |
 | 02:30 | CNY | Moderate | CPI (YoY) (Jun) |  | 0.4% | 0.3% |
+| 02:30 | CNY | Moderate | CPI (MoM) (Jun) |  | -0.1% | -0.1% |
 | 02:30 | CNY | Moderate | PPI (YoY) (Jun) |  | -0.8% | -1.4% |
 | 03:00 | NZD | High | RBNZ Interest Rate Decision |  | 5.50% | 5.50% |
 | 03:00 | NZD | Moderate | RBNZ Rate Statement |  |  |  |
@@ -33,8 +33,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index |  |  | 544.1 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 10.9% |
-| 13:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
 | 13:00 | BRL | Low | CPI (MoM) (Jun) |  | 0.32% | 0.46% |
+| 13:00 | BRL | Moderate | CPI (YoY) (Jun) |  | 4.35% | 3.93% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) |  |  | 0.49% |
 | 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
