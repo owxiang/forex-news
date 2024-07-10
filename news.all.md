@@ -15,11 +15,11 @@
 | 05:00 | IDR | Low | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Low | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
 | 07:00 | NOK | Low | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
+| 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | Low | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
@@ -54,8 +54,8 @@
 | 16:00 | BRL | Low | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.55 |  | 52.33 |
 | 16:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.0% | 1.5% | 1.5% |
-| 55 min | USD | High | 10-Year Note Auction |  |  | 4.438% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
+| 18:00 | USD | High | 10-Year Note Auction | 4.276% |  | 4.438% |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
 | 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
 | 19:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |
