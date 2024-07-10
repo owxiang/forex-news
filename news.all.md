@@ -55,6 +55,6 @@
 | 16:30 | GBP | Moderate | BoE MPC Member Mann Speaks |  |  |  |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.0% | 1.5% | 1.5% |
 | 18:00 | USD | High | 10-Year Note Auction | 4.276% |  | 4.438% |
-| 23 min | USD | Low | Fed Goolsbee Speaks |  |  |  |
-| 23 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 19:30 | USD | Low | Fed Goolsbee Speaks |  |  |  |
+| 19:30 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |

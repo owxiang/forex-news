@@ -37,5 +37,5 @@
 | 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 46.97 |  | 47.14 |
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 59.25 |  | 57.25 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.55 |  | 52.33 |
-| 23 min | USD | Fed Goolsbee Speaks |  |  |  |
+| 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
 | 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
