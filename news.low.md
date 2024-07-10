@@ -1,41 +1,53 @@
-## 10 July 2024 - Low Impact Forex News
+## 11 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
-| 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
-| 02:30 | AUD | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
-| 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
-| 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
-| 07:00 | NOK | Core Inflation (MoM) (Jun) | 0.2% | 0.5% | 0.5% |
-| 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
-| 07:00 | NOK | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
-| 07:00 | NOK | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
-| 10:30 | EUR | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 7.00% |  | 7.03% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -0.2% |  | -2.6% |
-| 12:00 | USD | MBA Purchase Index | 144.3 |  | 142.9 |
-| 12:00 | USD | Mortgage Market Index | 206.1 |  | 206.5 |
-| 12:00 | USD | Mortgage Refinance Index | 532.3 |  | 544.1 |
-| 12:30 | INR | M3 Money Supply | 9.7% |  | 10.9% |
-| 13:00 | BRL | CPI (MoM) (Jun) | 0.21% | 0.32% | 0.46% |
-| 13:00 | BRL | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.28% |  | 0.49% |
-| 15:00 | USD | Wholesale Inventories (MoM) (May) | 0.6% | 0.6% | 0.1% |
-| 15:00 | USD | Wholesale Trade Sales (MoM) (May) | 0.4% |  | 0.2% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | 0.317M |  | 0.260M |
-| 15:30 | USD | Crude Oil Imports | 0.615M |  | -0.555M |
-| 15:30 | USD | Distillate Fuel Production | 0.022M |  | 0.204M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | 4.884M | -0.300M | -1.535M |
-| 15:30 | USD | Gasoline Production | 0.239M |  | 0.180M |
-| 15:30 | USD | Heating Oil Stockpiles | 0.356M |  | -0.572M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | 1.9% |  | 1.3% |
-| 15:30 | USD | Gasoline Inventories | -2.006M | -1.900M | -2.214M |
-| 16:00 | USD | Thomson Reuters IPSOS PCSI (Jul) | 55.99 |  | 53.82 |
-| 16:00 | CAD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 46.97 |  | 47.14 |
-| 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 59.25 |  | 57.25 |
-| 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.55 |  | 52.33 |
-| 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 40 min | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
+| 24 min | USD | Fed Governor Cook Speaks |  |  |  |
+| 44 min | JPY | Core Machinery Orders (YoY) (May) |  | 7.2% | 0.7% |
+| 44 min | JPY | Core Machinery Orders (MoM) (May) |  | 0.9% | -2.9% |
+| 44 min | JPY | Foreign Bonds Buying |  |  | -254.4B |
+| 44 min | JPY | Foreign Investments in Japanese Stocks |  |  | 185.3B |
+| 02:00 | KRW | Interest Rate Decision (Jul) |  |  | 3.50% |
+| 02:00 | AUD | MI Inflation Expectations |  |  | 4.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | -1.9% | -3.3% |
+| 07:00 | GBP | Construction Output (MoM) (May) |  | 0.5% | -1.4% |
+| 07:00 | GBP | GDP (YoY) (May) |  | 1.2% | 0.6% |
+| 07:00 | GBP | Index of Services |  | 1.0% | 0.9% |
+| 07:00 | GBP | Industrial Production (YoY) (May) |  | 0.6% | -0.4% |
+| 07:00 | GBP | Manufacturing Production (YoY) (May) |  | 1.2% | 0.4% |
+| 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.5% | 2.8% |
+| 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
+| 09:00 | CNY | M2 Money Stock (YoY) |  | 6.9% | 7.0% |
+| 09:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 9.3% |
+| 09:00 | CNY | Chinese Total Social Financing |  |  | 2,070.0B |
+| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.218% |
+| 10:10 | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
+| 10:10 | EUR | Italian 3-Year BTP Auction |  |  | 3.47% |
+| 10:10 | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 10:10 | EUR | Italian 7-Year BTP Auction |  |  | 3.72% |
+| 10:30 | ZAR | Gold Production (YoY) (May) |  |  | -1.7% |
+| 10:30 | ZAR | Mining Production (May) |  |  | 0.7% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.9 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 45.74 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.87 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 45.69 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 46.36 |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.50 |
+| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | 5.3% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) |  |  | 5.2% |
+| 13:30 | USD | Core CPI Index (Jun) |  |  | 318.14 |
+| 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 314.61 | 314.07 |
+| 13:30 | USD | CPI Index, s.a (Jun) |  |  | 313.23 |
+| 13:30 | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.17% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 238.50K |
+| 13:30 | USD | Real Earnings (MoM) (Jun) |  |  | 0.4% |
+| 15:30 | USD | Natural Gas Storage |  | 56B | 32B |
+| 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
+| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
+| 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |

@@ -1,19 +1,26 @@
-## 10 July 2024 - Moderate Impact Forex News
+## 11 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 02:30 | AUD | Building Approvals (MoM) (May) | 5.5% | 5.5% | 1.9% |
-| 02:30 | CNY | CPI (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
-| 02:30 | CNY | CPI (YoY) (Jun) | 0.2% | 0.4% | 0.3% |
-| 02:30 | CNY | PPI (YoY) (Jun) | -0.8% | -0.8% | -1.4% |
-| 03:00 | NZD | RBNZ Rate Statement |  |  |  |
-| 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
-| 12:00 | USD | OPEC Monthly Report |  |  |  |
-| 13:00 | BRL | CPI (YoY) (Jun) | 4.23% | 4.35% | 3.93% |
-| 14:30 | GBP | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.702M |  | 0.345M |
-| 16:30 | GBP | BoE MPC Member Mann Speaks |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.0% | 1.5% | 1.5% |
-| 19:30 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 00:01 | GBP | RICS House Price Balance (Jun) | -17% | -14% | -17% |
+| 07:00 | GBP | Industrial Production (MoM) (May) |  | 0.3% | -0.9% |
+| 07:00 | GBP | Manufacturing Production (MoM) (May) |  | 0.4% | -1.4% |
+| 07:00 | GBP | Monthly GDP 3M/3M Change (May) |  | 0.7% | 0.7% |
+| 07:00 | GBP | Trade Balance (May) |  | -15.60B | -19.61B |
+| 07:00 | GBP | Trade Balance Non-EU (May) |  |  | -7.29B |
+| 07:00 | EUR | German CPI (YoY) (Jun) |  | 2.2% | 2.4% |
+| 09:00 | CNY | New Loans |  | 2,200.0B | 950.0B |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.7% |
+| 13:00 | BRL | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
+| 13:00 | BRL | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,858K |
+| 13:30 | USD | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 16:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 19:00 | USD | Federal Budget Balance (Jun) |  | -71.2B | -347.0B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,222B |
+| 23:30 | NZD | Business NZ PMI (Jun) |  |  | 47.2 |
+| 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.1% |
