@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 00:50 | JPY | Low | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 5.5% | 5.5% | 1.9% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
@@ -18,8 +18,8 @@
 | 07:00 | NOK | Low | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | Low | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | Low | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
 | 09:00 | EUR | Low | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
+| 09:00 | EUR | Low | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
 | 09:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 09:20 | EUR | Moderate | German Buba Mauderer Speaks |  |  |  |
 | 10:30 | EUR | Low | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
@@ -30,14 +30,14 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 532.3 |  | 544.1 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply | 9.7% |  | 10.9% |
-| 13:00 | BRL | Low | CPI (MoM) (Jun) | 0.21% | 0.32% | 0.46% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jun) | 4.23% | 4.35% | 3.93% |
+| 13:00 | BRL | Low | CPI (MoM) (Jun) | 0.21% | 0.32% | 0.46% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.28% |  | 0.49% |
-| 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
-| 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
-| 15:00 | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.6% | 0.1% |
-| 15:00 | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
-| 15:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 23 min | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
+| 53 min | USD | High | Fed Chair Powell Testifies |  |  |  |
+| 53 min | USD | Low | Wholesale Inventories (MoM) (May) |  | 0.6% | 0.1% |
+| 53 min | USD | Low | Wholesale Trade Sales (MoM) (May) |  |  | 0.1% |
+| 53 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.700M | -12.157M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | 0.260M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | -0.555M |
