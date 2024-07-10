@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | KRW | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
+| 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 02:30 | AUD | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
 | 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
@@ -38,4 +38,4 @@
 | 16:00 | MXN | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 59.25 |  | 57.25 |
 | 16:00 | BRL | Brazil Thomson Reuters IPSOS PCSI (Jul) | 51.55 |  | 52.33 |
 | 19:30 | USD | Fed Goolsbee Speaks |  |  |  |
-| 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
+| 40 min | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
