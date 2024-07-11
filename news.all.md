@@ -1,76 +1,86 @@
-## 11 July 2024 - All Forex News
+## 12 July 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:01 | GBP | Moderate | RICS House Price Balance (Jun) | -17% | -14% | -17% |
-| 00:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 10.8% | 7.2% | 0.7% |
-| 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -3.2% | 0.9% | -2.9% |
-| 00:50 | JPY | Low | Foreign Bonds Buying | 237.7B |  | -254.2B |
-| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
-| 02:00 | KRW | Low | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
-| 02:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
-| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
-| 07:00 | GBP | High | GDP (MoM) (May) | 0.4% | 0.2% | 0.0% |
-| 07:00 | GBP | Low | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
-| 07:00 | GBP | Low | Index of Services | 1.1% | 1.0% | 1.0% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | 0.2% | 0.3% | -0.9% |
-| 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
-| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | 0.4% | 0.4% | -1.6% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.8% |
-| 07:00 | GBP | Moderate | Trade Balance (May) | -17.92B | -15.60B | -19.44B |
-| 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
-| 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
-| 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
-| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 10:10 | GBP | Low | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
-| 10:30 | EUR | Low | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
-| 10:30 | ZAR | Low | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
-| 10:30 | ZAR | Low | Mining Production (May) | 0.0% |  | 1.4% |
-| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jul) | 51.3 |  | 53.9 |
-| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jul) | 46.72 |  | 45.74 |
-| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jul) | 51.10 |  | 49.87 |
-| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jul) | 46.20 |  | 45.69 |
-| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 50.80 |  | 46.36 |
-| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 53 min | SGD | Low | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
+| 53 min | SGD | Low | GDP (QoQ) |  |  | 0.1% |
+| 02:00 | AUD | Low | MI Inflation Expectations |  |  | 4.4% |
+| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 39.47 |
+| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 65.17 |
+| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.48 |
+| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.69 |
+| Tentative | CNY | Low | Exports (Jun) |  |  | 11.20M |
+| Tentative | CNY | Low | Imports (Jun) |  |  | 5.20M |
+| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 76.56 |
+| 03:00 | CNY | Low | Trade Balance (Jun) |  | 590.00B | 586.39B |
+| Tentative | CNY | Moderate | Exports (YoY) (Jun) |  | 8.0% | 7.6% |
+| 03:00 | CNY | Moderate | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
+| 03:00 | CNY | Moderate | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
+| 05:30 | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 0.3% |
+| 05:30 | JPY | Moderate | Industrial Production (MoM) (May) |  | 2.8% | -0.9% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jun) |  |  | -0.7% |
+| 07:00 | EUR | Low | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
+| 07:00 | NOK | Low | Trade Balance (Jun) |  |  | 58.7B |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
+| 07:45 | EUR | Low | French CPI (YoY) |  | 2.1% | 2.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
+| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
+| 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.1% | 0.1% |
+| 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
+| 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.20% |
+| 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
+| 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.5% | 3.8% |
+| 11:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
+| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
-| 11:50 | GBP | Moderate | NIESR Monthly GDP Tracker | 0.6% |  | 0.8% |
-| 12:00 | EUR | Moderate | Italian 10-Year BTP Auction | 3.51% |  | 4.01% |
-| 12:00 | EUR | Low | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
-| 12:00 | EUR | Low | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
-| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
-| 13:30 | USD | Low | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
-| 13:30 | USD | High | CPI (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
-| 13:30 | USD | High | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.3% |
-| 13:30 | USD | Low | CPI Index, n.s.a. (Jun) | 314.18 | 314.63 | 314.07 |
-| 13:30 | USD | Low | CPI Index, s.a (Jun) | 313.05 |  | 313.22 |
-| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) | 0.03% |  | 0.17% |
-| 13:30 | USD | High | Initial Jobless Claims | 222K | 236K | 239K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 233.50K |  | 238.75K |
-| 13:30 | USD | Low | Real Earnings (MoM) (Jun) | 0.3% |  | 0.4% |
-| 15:30 | USD | Low | Natural Gas Storage | 65B | 56B | 32B |
-| 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.2% |
-| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.280% |
-| 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.275% |
-| 16:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
-| 18:00 | USD | High | 30-Year Bond Auction | 4.405% |  | 4.403% |
-| 19:00 | USD | Moderate | Federal Budget Balance (Jun) | -66.0B | -71.2B | -347.0B |
-| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,224B |  | 7,222B |
-| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
-| 25 min | NZD | Moderate | Business NZ PMI (Jun) |  |  | 47.2 |
-| 40 min | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.1% |
-| 40 min | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
-| 40 min | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |
+| 12:00 | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 25.9B |
+| 12:30 | INR | Low | Bank Loan Growth |  |  | 19.2% |
+| 12:30 | INR | Low | Deposit Growth |  |  | 12.6% |
+| 12:30 | INR | Low | FX Reserves, USD |  |  | 652.00B |
+| 13:00 | MXN | Low | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
+| 13:00 | INR | Moderate | CPI (YoY) (Jun) |  | 4.80% | 4.75% |
+| 13:00 | INR | Low | Cumulative Industrial Production (Apr) |  |  | 5.80% |
+| 13:00 | INR | Low | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
+| 13:00 | INR | Low | Manufacturing Output (MoM) (May) |  |  | 3.9% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
+| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
+| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
+| 13:30 | USD | Low | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
+| 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 13:30 | CAD | Moderate | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  |  | 3.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 69.8 | 69.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 68.5 | 68.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 66.3 | 65.9 |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
+| 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 62.0K |
+| 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.2K |
+| 20:30 | USD | Low | CFTC Copper speculative net positions |  |  | 49.2K |
+| 20:30 | USD | Low | CFTC Corn speculative net positions |  |  | -228.7K |
+| 20:30 | USD | Moderate | CFTC Crude Oil speculative net positions |  |  | 279.9K |
+| 20:30 | USD | Moderate | CFTC Gold speculative net positions |  |  | 241.5K |
+| 20:30 | USD | Moderate | CFTC Nasdaq 100 speculative net positions |  |  | 10.8K |
+| 20:30 | USD | Low | CFTC Natural Gas speculative net positions |  |  | -90.3K |
+| 20:30 | USD | Moderate | CFTC S&P 500 speculative net positions |  |  | -11.8K |
+| 20:30 | USD | Low | CFTC Silver speculative net positions |  |  | 55.8K |
+| 20:30 | USD | Low | CFTC Soybeans speculative net positions |  |  | -122.2K |
+| 20:30 | USD | Low | CFTC Wheat speculative net positions |  |  | -38.7K |
+| 20:30 | CAD | Low | CFTC CAD speculative net positions |  |  | -120.4K |
+| 20:30 | MXN | Low | CFTC MXN speculative net positions |  |  | 63.6K |
+| 20:30 | CHF | Low | CFTC CHF speculative net positions |  |  | -43.4K |
+| 20:30 | AUD | Moderate | CFTC AUD speculative net positions |  |  | -15.8K |
+| 20:30 | BRL | Moderate | CFTC BRL speculative net positions |  |  | -41.1K |
+| 20:30 | JPY | Moderate | CFTC JPY speculative net positions |  |  | -184.2K |
+| 20:30 | NZD | Low | CFTC NZD speculative net positions |  |  | 30.7K |
+| 20:30 | EUR | Moderate | CFTC EUR speculative net positions |  |  | -9.5K |
+| 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |

@@ -1,47 +1,57 @@
-## 11 July 2024 - Low Impact Forex News
+## 12 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 10.8% | 7.2% | 0.7% |
-| 00:50 | JPY | Core Machinery Orders (MoM) (May) | -3.2% | 0.9% | -2.9% |
-| 00:50 | JPY | Foreign Bonds Buying | 237.7B |  | -254.2B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
-| 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
-| 02:00 | AUD | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
-| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
-| 07:00 | GBP | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
-| 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
-| 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
-| 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
-| 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
-| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
-| 10:10 | GBP | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
-| 10:30 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
-| 10:30 | ZAR | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
-| 10:30 | ZAR | Mining Production (May) | 0.0% |  | 1.4% |
-| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) | 51.3 |  | 53.9 |
-| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) | 46.72 |  | 45.74 |
-| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) | 51.10 |  | 49.87 |
-| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) | 46.20 |  | 45.69 |
-| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 50.80 |  | 46.36 |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
-| 12:00 | EUR | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
-| 12:00 | EUR | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
-| 13:30 | USD | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
-| 13:30 | USD | CPI Index, n.s.a. (Jun) | 314.18 | 314.63 | 314.07 |
-| 13:30 | USD | CPI Index, s.a (Jun) | 313.05 |  | 313.22 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jun) | 0.03% |  | 0.17% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 233.50K |  | 238.75K |
-| 13:30 | USD | Real Earnings (MoM) (Jun) | 0.3% |  | 0.4% |
-| 15:30 | USD | Natural Gas Storage | 65B | 56B | 32B |
-| 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.2% |
-| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.280% |
-| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
-| 40 min | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
-| 40 min | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
+| 53 min | SGD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
+| 53 min | SGD | GDP (QoQ) |  |  | 0.1% |
+| 02:00 | AUD | MI Inflation Expectations |  |  | 4.4% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 39.47 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 65.17 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.48 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.69 |
+| Tentative | CNY | Exports (Jun) |  |  | 11.20M |
+| Tentative | CNY | Imports (Jun) |  |  | 5.20M |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 76.56 |
+| 03:00 | CNY | Trade Balance (Jun) |  | 590.00B | 586.39B |
+| 05:30 | JPY | Capacity Utilization (MoM) (May) |  |  | 0.3% |
+| 07:00 | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
+| 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
+| 07:00 | NOK | Trade Balance (Jun) |  |  | 58.7B |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
+| 07:45 | EUR | French CPI (YoY) |  | 2.1% | 2.3% |
+| 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
+| 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
+| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.20% |
+| 08:00 | EUR | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
+| 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
+| 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
+| 12:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
+| 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
+| 12:30 | INR | Deposit Growth |  |  | 12.6% |
+| 12:30 | INR | FX Reserves, USD |  |  | 652.00B |
+| 13:00 | MXN | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
+| 13:00 | MXN | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
+| 13:00 | INR | Cumulative Industrial Production (Apr) |  |  | 5.80% |
+| 13:00 | INR | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
+| 13:00 | INR | Manufacturing Output (MoM) (May) |  |  | 3.9% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
+| 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
+| 13:30 | USD | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
+| 13:30 | USD | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
+| 15:00 | USD | Michigan Current Conditions (Jul) |  | 66.3 | 65.9 |
+| 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 49.2K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -228.7K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -90.3K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 55.8K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -122.2K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -38.7K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -120.4K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 63.6K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -43.4K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 30.7K |
+| 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
