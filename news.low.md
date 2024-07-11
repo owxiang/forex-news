@@ -43,5 +43,5 @@
 | 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.280% |
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
-| 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
-| 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
+| 40 min | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
+| 40 min | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
