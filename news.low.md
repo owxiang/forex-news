@@ -17,22 +17,22 @@
 | 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
 | 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
-| 10:00 | GBP | 7-Year Treasury Gilt Auction |  |  | 4.218% |
-| 5 min | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
-| 5 min | EUR | Italian 3-Year BTP Auction |  |  | 3.47% |
-| 5 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 5 min | EUR | Italian 7-Year BTP Auction |  |  | 3.72% |
-| 25 min | ZAR | Gold Production (YoY) (May) |  |  | -1.7% |
-| 25 min | ZAR | Mining Production (May) |  |  | 0.7% |
-| 55 min | GBP | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.9 |
-| 55 min | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 45.74 |
-| 55 min | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.87 |
-| 55 min | EUR | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 45.69 |
-| 55 min | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 46.36 |
-| 55 min | EUR | ECOFIN Meetings |  |  |  |
-| 55 min | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.50 |
-| 12:00 | ZAR | Manufacturing Production (YoY) (May) |  |  | 5.3% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) |  |  | 5.2% |
+| 10:10 | GBP | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
+| 10:30 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
+| 10:30 | ZAR | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
+| 10:30 | ZAR | Mining Production (May) | 0.0% |  | 1.4% |
+| 11:00 | GBP | Thomson Reuters IPSOS PCSI (Jul) | 51.3 |  | 53.9 |
+| 11:00 | EUR | Italy Thomson Reuters IPSOS PCSI (Jul) | 46.72 |  | 45.74 |
+| 11:00 | EUR | Germany Thomson Reuters IPSOS PCSI (Jul) | 51.10 |  | 49.87 |
+| 11:00 | EUR | France Thomson Reuters IPSOS PCSI (Jul) | 46.20 |  | 45.69 |
+| 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 50.80 |  | 46.36 |
+| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
+| 54 min | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
+| 54 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 54 min | EUR | Italian 7-Year BTP Auction |  |  | 3.72% |
+| 54 min | ZAR | Manufacturing Production (YoY) (May) |  |  | 5.3% |
+| 54 min | ZAR | Manufacturing Production (MoM) (May) |  |  | 5.2% |
 | 13:30 | USD | Core CPI Index (Jun) |  |  | 318.14 |
 | 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
 | 13:30 | USD | CPI Index, s.a (Jun) |  |  | 313.23 |

@@ -27,27 +27,27 @@
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.218% |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
-| 5 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
-| 5 min | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.47% |
-| 5 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 5 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.72% |
-| 25 min | ZAR | Low | Gold Production (YoY) (May) |  |  | -1.7% |
-| 25 min | ZAR | Low | Mining Production (May) |  |  | 0.7% |
-| 55 min | GBP | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 53.9 |
-| 55 min | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jul) |  |  | 45.74 |
-| 55 min | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jul) |  |  | 49.87 |
-| 55 min | EUR | Low | France Thomson Reuters IPSOS PCSI (Jul) |  |  | 45.69 |
-| 55 min | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 46.36 |
-| 55 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 55 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 55 min | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) |  |  | 5.3% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
+| 10:10 | GBP | Low | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
+| 10:30 | EUR | Low | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
+| 10:30 | ZAR | Low | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
+| 10:30 | ZAR | Low | Mining Production (May) | 0.0% |  | 1.4% |
+| 11:00 | GBP | Low | Thomson Reuters IPSOS PCSI (Jul) | 51.3 |  | 53.9 |
+| 11:00 | EUR | Low | Italy Thomson Reuters IPSOS PCSI (Jul) | 46.72 |  | 45.74 |
+| 11:00 | EUR | Low | Germany Thomson Reuters IPSOS PCSI (Jul) | 51.10 |  | 49.87 |
+| 11:00 | EUR | Low | France Thomson Reuters IPSOS PCSI (Jul) | 46.20 |  | 45.69 |
+| 11:00 | EUR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 50.80 |  | 46.36 |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
+| 54 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
+| 54 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
+| 54 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.72% |
+| 54 min | ZAR | Low | Manufacturing Production (YoY) (May) |  |  | 5.3% |
+| 54 min | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.7% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,858K |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
