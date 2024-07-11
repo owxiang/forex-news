@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:30 | USD | Fed Governor Cook Speaks |  |  |  |
-| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 10.8% | 7.2% | 0.7% |
 | 00:50 | JPY | Core Machinery Orders (MoM) (May) | -3.2% | 0.9% | -2.9% |
+| 00:50 | JPY | Core Machinery Orders (YoY) (May) | 10.8% | 7.2% | 0.7% |
 | 00:50 | JPY | Foreign Bonds Buying | 237.7B |  | -254.2B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
@@ -15,8 +15,8 @@
 | 07:00 | GBP | Index of Services |  | 1.0% | 0.9% |
 | 07:00 | GBP | Industrial Production (YoY) (May) |  | 0.6% | -0.4% |
 | 07:00 | GBP | Manufacturing Production (YoY) (May) |  | 1.2% | 0.4% |
-| 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.2% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.5% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.2% | 0.2% |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 6.9% | 7.0% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 9.3% |
