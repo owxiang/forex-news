@@ -9,12 +9,12 @@
 | 07:00 | GBP | Trade Balance (May) | -17.92B | -15.60B | -19.44B |
 | 07:00 | GBP | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
 | 07:00 | EUR | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
-| 23 min | GBP | BOE Credit Conditions Survey |  |  |  |
-| 53 min | USD | IEA Monthly Report |  |  |  |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
+| 10:00 | USD | IEA Monthly Report |  |  |  |
+| 55 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | GBP | NIESR Monthly GDP Tracker |  |  | 0.7% |
-| 13:00 | BRL | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
 | 13:00 | BRL | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
+| 13:00 | BRL | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,858K |
 | 13:30 | USD | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
