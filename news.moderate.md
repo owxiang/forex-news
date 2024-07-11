@@ -14,8 +14,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:50 | GBP | NIESR Monthly GDP Tracker | 0.6% |  | 0.8% |
 | 12:00 | EUR | Italian 10-Year BTP Auction | 3.51% |  | 4.01% |
-| 13:00 | BRL | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
 | 13:00 | BRL | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
+| 13:00 | BRL | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
 | 13:30 | USD | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
 | 13:30 | USD | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |

@@ -9,8 +9,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
 | 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
 | 07:00 | GBP | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
