@@ -3,12 +3,12 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | RICS House Price Balance (Jun) | -17% | -14% | -17% |
-| 07:00 | GBP | Industrial Production (MoM) (May) |  | 0.3% | -0.9% |
-| 07:00 | GBP | Manufacturing Production (MoM) (May) |  | 0.4% | -1.4% |
-| 07:00 | GBP | Monthly GDP 3M/3M Change (May) |  | 0.7% | 0.7% |
-| 07:00 | GBP | Trade Balance (May) |  | -15.60B | -19.61B |
-| 07:00 | GBP | Trade Balance Non-EU (May) |  |  | -7.29B |
-| 07:00 | EUR | German CPI (YoY) (Jun) |  | 2.2% | 2.4% |
+| 54 min | GBP | Industrial Production (MoM) (May) |  | 0.3% | -0.9% |
+| 54 min | GBP | Manufacturing Production (MoM) (May) |  | 0.4% | -1.4% |
+| 54 min | GBP | Monthly GDP 3M/3M Change (May) |  | 0.7% | 0.7% |
+| 54 min | GBP | Trade Balance (May) |  | -15.60B | -19.61B |
+| 54 min | GBP | Trade Balance Non-EU (May) |  |  | -7.29B |
+| 54 min | EUR | German CPI (YoY) (Jun) |  | 2.2% | 2.4% |
 | 09:00 | CNY | New Loans |  | 2,200.0B | 950.0B |
 | 09:30 | GBP | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | USD | IEA Monthly Report |  |  |  |
