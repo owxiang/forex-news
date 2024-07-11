@@ -19,20 +19,16 @@
 | 07:00 | GBP | Low | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | 0.4% | 0.4% | -1.6% |
-| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.7% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.8% |
 | 07:00 | GBP | Moderate | Trade Balance (May) | -17.92B | -15.60B | -19.44B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
-| 54 min | CNY | Low | M2 Money Stock (YoY) |  | 6.9% | 7.0% |
-| 54 min | CNY | Moderate | New Loans |  | 2,200.0B | 950.0B |
-| 54 min | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 9.3% |
-| 54 min | CNY | Low | Chinese Total Social Financing |  |  | 2,070.0B |
-| 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
-| 10:00 | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.218% |
-| 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
+| 23 min | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
+| 53 min | GBP | Low | 7-Year Treasury Gilt Auction |  |  | 4.218% |
+| 53 min | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:10 | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
 | 10:10 | EUR | Low | Italian 3-Year BTP Auction |  |  | 3.47% |
 | 10:10 | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
@@ -47,14 +43,14 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) |  |  | 5.3% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.7% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,858K |
-| 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
+| 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (Jun) |  |  | 318.14 |
 | 13:30 | USD | High | CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 13:30 | USD | High | CPI (YoY) (Jun) |  | 3.1% | 3.3% |
