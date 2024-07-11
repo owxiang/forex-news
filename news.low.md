@@ -9,14 +9,14 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
-| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 10:10 | GBP | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
 | 10:30 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
 | 10:30 | ZAR | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
@@ -30,16 +30,16 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
 | 12:00 | EUR | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
 | 12:00 | EUR | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 13:30 | USD | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
 | 13:30 | USD | CPI Index, n.s.a. (Jun) | 314.18 | 314.63 | 314.07 |
 | 13:30 | USD | CPI Index, s.a (Jun) | 313.05 |  | 313.22 |
 | 13:30 | USD | CPI, n.s.a (MoM) (Jun) | 0.03% |  | 0.17% |
 | 13:30 | USD | Jobless Claims 4-Week Avg. | 233.50K |  | 238.75K |
 | 13:30 | USD | Real Earnings (MoM) (Jun) | 0.3% |  | 0.4% |
-| 15:30 | USD | Natural Gas Storage |  | 56B | 32B |
-| 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
+| 24 min | USD | Natural Gas Storage |  | 56B | 32B |
+| 54 min | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.275% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
