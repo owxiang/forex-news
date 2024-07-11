@@ -10,8 +10,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Low | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | High | GDP (MoM) (May) | 0.4% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 1.1% | 1.0% | 1.0% |
@@ -22,8 +22,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.8% |
 | 07:00 | GBP | Moderate | Trade Balance (May) | -17.92B | -15.60B | -19.44B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
@@ -46,8 +46,8 @@
 | 12:00 | EUR | Low | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
@@ -67,8 +67,7 @@
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 16:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction | 4.405% |  | 4.403% |
-| 24 min | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
-| 54 min | USD | Moderate | Federal Budget Balance (Jun) |  | -71.2B | -347.0B |
+| 19:00 | USD | Moderate | Federal Budget Balance (Jun) | -66.0B | -71.2B | -347.0B |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,222B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) |  |  | 47.2 |
