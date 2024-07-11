@@ -21,6 +21,6 @@
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
 | 16:30 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jun) | -66.0B | -71.2B | -347.0B |
-| 24 min | USD | Fed's Balance Sheet |  |  | 7,222B |
+| 21:30 | USD | Fed's Balance Sheet | 7,224B |  | 7,222B |
 | 23:30 | NZD | Business NZ PMI (Jun) |  |  | 47.2 |
 | 23:45 | NZD | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.1% |
