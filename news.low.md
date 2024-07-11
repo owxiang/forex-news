@@ -9,14 +9,14 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | -1.9% | -3.3% |
 | 07:00 | GBP | Construction Output (MoM) (May) |  | 0.5% | -1.4% |
+| 07:00 | GBP | U.K. Construction Output (YoY) (May) |  | -1.9% | -3.3% |
 | 07:00 | GBP | GDP (YoY) (May) |  | 1.2% | 0.6% |
 | 07:00 | GBP | Index of Services |  | 1.0% | 0.9% |
 | 07:00 | GBP | Industrial Production (YoY) (May) |  | 0.6% | -0.4% |
 | 07:00 | GBP | Manufacturing Production (YoY) (May) |  | 1.2% | 0.4% |
-| 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.5% | 2.8% |
 | 07:00 | EUR | German HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jun) |  | 2.5% | 2.8% |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 09:00 | CNY | M2 Money Stock (YoY) |  | 6.9% | 7.0% |
 | 09:00 | CNY | Outstanding Loan Growth (YoY) |  |  | 9.3% |
