@@ -24,8 +24,8 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:10 | GBP | Low | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
@@ -60,12 +60,12 @@
 | 13:30 | USD | High | Initial Jobless Claims | 222K | 236K | 239K |
 | 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 233.50K |  | 238.75K |
 | 13:30 | USD | Low | Real Earnings (MoM) (Jun) | 0.3% |  | 0.4% |
-| 24 min | USD | Low | Natural Gas Storage |  | 56B | 32B |
-| 54 min | USD | Low | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
-| 54 min | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
-| 16:30 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 65B | 56B | 32B |
+| 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.2% |
+| 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
+| 24 min | USD | Low | 4-Week Bill Auction |  |  | 5.280% |
+| 24 min | USD | Low | 8-Week Bill Auction |  |  | 5.275% |
+| 24 min | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | High | 30-Year Bond Auction |  |  | 4.403% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
 | 19:00 | USD | Moderate | Federal Budget Balance (Jun) |  | -71.2B | -347.0B |

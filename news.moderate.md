@@ -18,8 +18,8 @@
 | 13:00 | BRL | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:30 | USD | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
 | 13:30 | USD | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
-| 54 min | MXN | Monetary Policy Meeting Minutes |  |  |  |
-| 16:30 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
+| 24 min | USD | FOMC Member Bostic Speaks |  |  |  |
 | 19:00 | USD | Federal Budget Balance (Jun) |  | -71.2B | -347.0B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,222B |
 | 23:30 | NZD | Business NZ PMI (Jun) |  |  | 47.2 |
