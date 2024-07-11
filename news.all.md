@@ -10,8 +10,8 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Low | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | High | GDP (MoM) (May) | 0.4% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 1.1% | 1.0% | 1.0% |
@@ -40,20 +40,19 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
-| 54 min | EUR | Low | Italian 15-Year BTP Auction |  |  | 4.27% |
-| 54 min | EUR | Low | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 54 min | EUR | Low | Italian 7-Year BTP Auction |  |  | 3.72% |
-| 54 min | ZAR | Low | Manufacturing Production (YoY) (May) |  |  | 5.3% |
-| 54 min | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
-| 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.7% |
-| 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
+| 12:00 | EUR | Moderate | Italian 10-Year BTP Auction | 3.51% |  | 4.01% |
+| 12:00 | EUR | Low | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
+| 54 min | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.7% |
+| 54 min | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
+| 54 min | BRL | Moderate | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,858K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
 | 13:30 | USD | Low | Core CPI Index (Jun) |  |  | 318.14 |
-| 13:30 | USD | High | CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 13:30 | USD | High | CPI (YoY) (Jun) |  | 3.1% | 3.3% |
+| 13:30 | USD | High | CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
 | 13:30 | USD | Low | CPI Index, s.a (Jun) |  |  | 313.23 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.17% |
@@ -72,6 +71,6 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,222B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) |  |  | 47.2 |
-| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
 | 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.1% |
+| 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |

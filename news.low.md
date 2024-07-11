@@ -9,8 +9,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
@@ -28,11 +28,9 @@
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 50.80 |  | 46.36 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
-| 54 min | EUR | Italian 15-Year BTP Auction |  |  | 4.27% |
-| 54 min | EUR | Italian 30-Year BTP Auction |  |  | 4.390% |
-| 54 min | EUR | Italian 7-Year BTP Auction |  |  | 3.72% |
-| 54 min | ZAR | Manufacturing Production (YoY) (May) |  |  | 5.3% |
-| 54 min | ZAR | Manufacturing Production (MoM) (May) |  |  | 5.2% |
+| 12:00 | EUR | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
+| 12:00 | ZAR | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
 | 13:30 | USD | Core CPI Index (Jun) |  |  | 318.14 |
 | 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
 | 13:30 | USD | CPI Index, s.a (Jun) |  |  | 313.23 |
