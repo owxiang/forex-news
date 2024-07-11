@@ -10,23 +10,22 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Low | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 54 min | GBP | Low | Construction Output (MoM) (May) |  | 0.5% | -1.4% |
-| 54 min | GBP | Low | U.K. Construction Output (YoY) (May) |  | -1.9% | -3.3% |
-| 54 min | GBP | High | GDP (MoM) (May) |  | 0.2% | 0.0% |
-| 54 min | GBP | Low | GDP (YoY) (May) |  | 1.2% | 0.6% |
-| 54 min | GBP | Low | Index of Services |  | 1.0% | 0.9% |
-| 54 min | GBP | Moderate | Industrial Production (MoM) (May) |  | 0.3% | -0.9% |
-| 54 min | GBP | Low | Industrial Production (YoY) (May) |  | 0.6% | -0.4% |
-| 54 min | GBP | Low | Manufacturing Production (YoY) (May) |  | 1.2% | 0.4% |
-| 54 min | GBP | Moderate | Manufacturing Production (MoM) (May) |  | 0.4% | -1.4% |
-| 54 min | GBP | Moderate | Monthly GDP 3M/3M Change (May) |  | 0.7% | 0.7% |
-| 54 min | GBP | Moderate | Trade Balance (May) |  | -15.60B | -19.61B |
-| 54 min | GBP | Moderate | Trade Balance Non-EU (May) |  |  | -7.29B |
-| 54 min | EUR | Moderate | German CPI (YoY) (Jun) |  | 2.2% | 2.4% |
-| 54 min | EUR | High | German CPI (MoM) (Jun) |  | 0.1% | 0.1% |
-| 54 min | EUR | Low | German HICP (MoM) (Jun) |  | 0.2% | 0.2% |
-| 54 min | EUR | Low | German HICP (YoY) (Jun) |  | 2.5% | 2.8% |
-| 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
+| 07:00 | GBP | High | GDP (MoM) (May) | 0.4% | 0.2% | 0.0% |
+| 07:00 | GBP | Low | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
+| 07:00 | GBP | Low | Index of Services | 1.1% | 1.0% | 1.0% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | 0.2% | 0.3% | -0.9% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
+| 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | 0.4% | 0.4% | -1.6% |
+| 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
+| 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.7% |
+| 07:00 | GBP | Moderate | Trade Balance (May) | -17.92B | -15.60B | -19.44B |
+| 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
+| 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
+| 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | CNY | Low | M2 Money Stock (YoY) |  | 6.9% | 7.0% |
 | 09:00 | CNY | Moderate | New Loans |  | 2,200.0B | 950.0B |
 | 09:00 | CNY | Low | Outstanding Loan Growth (YoY) |  |  | 9.3% |
@@ -48,17 +47,17 @@
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | ZAR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 45.50 |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) |  |  | 5.3% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) |  |  | 5.2% |
 | 13:00 | GBP | Moderate | NIESR Monthly GDP Tracker |  |  | 0.7% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) |  | -0.9% | 0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) |  | 4.0% | 2.2% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,858K |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
 | 13:30 | USD | Low | Core CPI Index (Jun) |  |  | 318.14 |
-| 13:30 | USD | High | CPI (YoY) (Jun) |  | 3.1% | 3.3% |
 | 13:30 | USD | High | CPI (MoM) (Jun) |  | 0.1% | 0.0% |
+| 13:30 | USD | High | CPI (YoY) (Jun) |  | 3.1% | 3.3% |
 | 13:30 | USD | Low | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
 | 13:30 | USD | Low | CPI Index, s.a (Jun) |  |  | 313.23 |
 | 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.17% |
