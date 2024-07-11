@@ -10,13 +10,13 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Low | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
 | 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
+| 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
 | 07:00 | GBP | High | GDP (MoM) (May) | 0.4% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 1.1% | 1.0% | 1.0% |
-| 07:00 | GBP | Low | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | 0.2% | 0.3% | -0.9% |
+| 07:00 | GBP | Low | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | 0.4% | 0.4% | -1.6% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.8% |
@@ -24,8 +24,8 @@
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
 | 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
-| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
 | 10:00 | USD | Moderate | IEA Monthly Report |  |  |  |
 | 10:10 | GBP | Low | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
@@ -44,22 +44,22 @@
 | 12:00 | EUR | Moderate | Italian 10-Year BTP Auction | 3.51% |  | 4.01% |
 | 12:00 | EUR | Low | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
 | 12:00 | EUR | Low | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
+| 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.2% |
-| 22 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,858K |
-| 22 min | USD | High | Core CPI (MoM) (Jun) |  | 0.2% | 0.2% |
-| 22 min | USD | Moderate | Core CPI (YoY) (Jun) |  | 3.4% | 3.4% |
-| 22 min | USD | Low | Core CPI Index (Jun) |  |  | 318.14 |
-| 22 min | USD | High | CPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 22 min | USD | High | CPI (YoY) (Jun) |  | 3.1% | 3.3% |
-| 22 min | USD | Low | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
-| 22 min | USD | Low | CPI Index, s.a (Jun) |  |  | 313.23 |
-| 22 min | USD | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.17% |
-| 22 min | USD | High | Initial Jobless Claims |  | 236K | 238K |
-| 22 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 238.50K |
-| 22 min | USD | Low | Real Earnings (MoM) (Jun) |  |  | 0.4% |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
+| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
+| 13:30 | USD | Low | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
+| 13:30 | USD | High | CPI (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
+| 13:30 | USD | High | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.3% |
+| 13:30 | USD | Low | CPI Index, n.s.a. (Jun) | 314.18 | 314.63 | 314.07 |
+| 13:30 | USD | Low | CPI Index, s.a (Jun) | 313.05 |  | 313.22 |
+| 13:30 | USD | Low | CPI, n.s.a (MoM) (Jun) | 0.03% |  | 0.17% |
+| 13:30 | USD | High | Initial Jobless Claims | 222K | 236K | 239K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 233.50K |  | 238.75K |
+| 13:30 | USD | Low | Real Earnings (MoM) (Jun) | 0.3% |  | 0.4% |
 | 15:30 | USD | Low | Natural Gas Storage |  | 56B | 32B |
 | 16:00 | USD | Low | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
 | 16:00 | MXN | Moderate | Monetary Policy Meeting Minutes |  |  |  |
@@ -72,6 +72,6 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,222B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) |  |  | 47.2 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.1% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) |  |  | -1.1% |
 | 23:45 | NZD | Low | FPI (MoM) (Jun) |  |  | -0.2% |
