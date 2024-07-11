@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Moderate | RICS House Price Balance (Jun) | -17% | -14% | -17% |
-| 24 min | USD | Low | Fed Governor Cook Speaks |  |  |  |
-| 44 min | JPY | Low | Core Machinery Orders (YoY) (May) |  | 7.2% | 0.7% |
-| 44 min | JPY | Low | Core Machinery Orders (MoM) (May) |  | 0.9% | -2.9% |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | -254.4B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 185.3B |
-| 02:00 | KRW | Low | Interest Rate Decision (Jul) |  |  | 3.50% |
-| 02:00 | AUD | Low | MI Inflation Expectations |  |  | 4.4% |
+| 00:30 | USD | Low | Fed Governor Cook Speaks |  |  |  |
+| 00:50 | JPY | Low | Core Machinery Orders (YoY) (May) | 10.8% | 7.2% | 0.7% |
+| 00:50 | JPY | Low | Core Machinery Orders (MoM) (May) | -3.2% | 0.9% | -2.9% |
+| 00:50 | JPY | Low | Foreign Bonds Buying | 237.7B |  | -254.2B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
+| 38 min | KRW | Low | Interest Rate Decision (Jul) |  |  | 3.50% |
+| 38 min | AUD | Low | MI Inflation Expectations |  |  | 4.4% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) |  | -1.9% | -3.3% |
 | 07:00 | GBP | Low | Construction Output (MoM) (May) |  | 0.5% | -1.4% |
 | 07:00 | GBP | High | GDP (MoM) (May) |  | 0.2% | 0.0% |
