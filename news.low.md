@@ -15,8 +15,8 @@
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
-| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 10:10 | GBP | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
 | 10:30 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
 | 10:30 | ZAR | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
@@ -28,15 +28,16 @@
 | 11:00 | EUR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 50.80 |  | 46.36 |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
+| 12:00 | EUR | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
 | 12:00 | EUR | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
-| 13:30 | USD | Core CPI Index (Jun) |  |  | 318.14 |
-| 13:30 | USD | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
-| 13:30 | USD | CPI Index, s.a (Jun) |  |  | 313.23 |
-| 13:30 | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.17% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 238.50K |
-| 13:30 | USD | Real Earnings (MoM) (Jun) |  |  | 0.4% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
+| 22 min | USD | Core CPI Index (Jun) |  |  | 318.14 |
+| 22 min | USD | CPI Index, n.s.a. (Jun) |  | 314.63 | 314.07 |
+| 22 min | USD | CPI Index, s.a (Jun) |  |  | 313.23 |
+| 22 min | USD | CPI, n.s.a (MoM) (Jun) |  |  | 0.17% |
+| 22 min | USD | Jobless Claims 4-Week Avg. |  |  | 238.50K |
+| 22 min | USD | Real Earnings (MoM) (Jun) |  |  | 0.4% |
 | 15:30 | USD | Natural Gas Storage |  | 56B | 32B |
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) |  |  | 0.2% |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.280% |
