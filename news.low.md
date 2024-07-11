@@ -15,8 +15,8 @@
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
-| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
+| 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 10:10 | GBP | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
 | 10:30 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
 | 10:30 | ZAR | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
@@ -40,8 +40,8 @@
 | 13:30 | USD | Real Earnings (MoM) (Jun) | 0.3% |  | 0.4% |
 | 15:30 | USD | Natural Gas Storage | 65B | 56B | 32B |
 | 16:00 | USD | Cleveland CPI (MoM) (Jun) | 0.2% |  | 0.2% |
-| 24 min | USD | 4-Week Bill Auction |  |  | 5.280% |
-| 24 min | USD | 8-Week Bill Auction |  |  | 5.275% |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.280% |
+| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) |  |  | -1.6% |
