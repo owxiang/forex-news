@@ -15,10 +15,10 @@
 | 13:00 | INR | CPI (YoY) (Jun) | 5.08% | 4.80% | 4.80% |
 | 13:30 | USD | Core PPI (MoM) (Jun) | 0.4% | 0.2% | 0.3% |
 | 13:30 | CAD | Building Permits (MoM) (May) | -12.2% | -5.0% | 23.4% |
-| 53 min | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
-| 53 min | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.0% | 3.0% |
-| 53 min | USD | Michigan Consumer Expectations (Jul) |  | 69.8 | 69.6 |
-| 53 min | USD | Michigan Consumer Sentiment (Jul) |  | 68.5 | 68.2 |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) | 2.9% | 2.9% | 3.0% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) | 2.9% | 3.0% | 3.0% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) | 67.2 | 69.8 | 69.6 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) | 66.0 | 68.5 | 68.2 |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
