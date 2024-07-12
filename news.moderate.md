@@ -12,7 +12,7 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
 | 10:00 | CNY | New Loans (Jun) | 2,130.0B | 1,050.0B | 950.0B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | INR | CPI (YoY) (Jun) |  | 4.80% | 4.75% |
+| 54 min | INR | CPI (YoY) (Jun) |  | 4.80% | 4.75% |
 | 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
 | 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 3.0% |

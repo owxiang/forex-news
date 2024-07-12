@@ -28,21 +28,21 @@
 | 10:00 | CNY | Outstanding Loan Growth (YoY) (Jun) | 8.8% |  | 9.3% |
 | 10:00 | CNY | Chinese Total Social Financing (Jun) | 3,300.0B |  | 2,070.0B |
 | 10:01 | CNY | FDI (Jun) | -29.10% |  | -28.20% |
-| 54 min | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
-| 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
-| 12:30 | INR | Deposit Growth |  |  | 12.6% |
-| 12:30 | INR | FX Reserves, USD |  |  | 652.00B |
-| 13:00 | MXN | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
-| 13:00 | MXN | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
-| 13:00 | INR | Cumulative Industrial Production (Apr) |  |  | 5.80% |
-| 13:00 | INR | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
-| 13:00 | INR | Manufacturing Output (MoM) (May) |  |  | 3.9% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
-| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
+| 24 min | INR | Bank Loan Growth |  |  | 19.2% |
+| 24 min | INR | Deposit Growth |  |  | 12.6% |
+| 24 min | INR | FX Reserves, USD |  |  | 652.00B |
+| 54 min | MXN | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
+| 54 min | MXN | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
+| 54 min | INR | Cumulative Industrial Production (Apr) |  |  | 5.80% |
+| 54 min | INR | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
+| 54 min | INR | Manufacturing Output (MoM) (May) |  |  | 3.9% |
+| 54 min | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
+| 54 min | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
 | 13:30 | USD | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
+| 13:45 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 66.3 | 65.9 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
