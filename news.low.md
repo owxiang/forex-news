@@ -13,25 +13,25 @@
 | 04:43 | CNY | Imports (Jun) | -0.60M |  | 5.20M |
 | 04:43 | CNY | Trade Balance (Jun) | 703.73B | 590.00B | 586.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
-| 54 min | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
-| 54 min | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
-| 54 min | NOK | Trade Balance (Jun) |  |  | 58.7B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
-| 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
-| 07:45 | EUR | French CPI (YoY) |  | 2.1% | 2.3% |
-| 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
-| 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
-| 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.20% |
-| 08:00 | EUR | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
-| 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
+| 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
+| 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
+| 07:00 | NOK | Trade Balance (Jun) | 61.7B |  | 58.4B |
+| 37 min | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
+| 37 min | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
+| 37 min | EUR | French CPI (YoY) |  | 2.1% | 2.3% |
+| 37 min | EUR | French Current Account (May) |  |  | -1.80B |
+| 37 min | EUR | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
+| 37 min | EUR | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.20% |
+| 52 min | EUR | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
+| 52 min | EUR | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
+| 52 min | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
 | 12:30 | INR | Deposit Growth |  |  | 12.6% |
 | 12:30 | INR | FX Reserves, USD |  |  | 652.00B |
-| 13:00 | MXN | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
 | 13:00 | MXN | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
+| 13:00 | MXN | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
 | 13:00 | INR | Cumulative Industrial Production (Apr) |  |  | 5.80% |
 | 13:00 | INR | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
 | 13:00 | INR | Manufacturing Output (MoM) (May) |  |  | 3.9% |
