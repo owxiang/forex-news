@@ -4,25 +4,24 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 01:00 | SGD | Low | GDP (QoQ) | 0.4% |  | 0.3% |
 | 01:00 | SGD | Low | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
-| 38 min | AUD | Low | MI Inflation Expectations |  |  | 4.4% |
-| 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 39.47 |
-| 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 65.17 |
-| 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.48 |
-| 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.69 |
+| 28 min | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 39.47 |
+| 28 min | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 65.17 |
+| 28 min | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.48 |
+| 28 min | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.69 |
 | Tentative | CNY | Low | Exports (Jun) |  |  | 11.20M |
 | Tentative | CNY | Low | Imports (Jun) |  |  | 5.20M |
-| 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 76.56 |
-| 03:00 | CNY | Low | Trade Balance (Jun) |  | 590.00B | 586.39B |
+| 28 min | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 76.56 |
+| 28 min | CNY | Low | Trade Balance (Jun) |  | 590.00B | 586.39B |
 | Tentative | CNY | Moderate | Exports (YoY) (Jun) |  | 8.0% | 7.6% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
+| 28 min | CNY | Moderate | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
+| 28 min | CNY | Moderate | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 0.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) |  | 2.8% | -0.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jun) |  |  | -0.7% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 07:00 | NOK | Low | Trade Balance (Jun) |  |  | 58.7B |
-| 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
+| 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
 | 07:45 | EUR | Low | French CPI (YoY) |  | 2.1% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
@@ -34,8 +33,8 @@
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.5% | 3.8% |
-| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 11:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
+| 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 19.2% |
@@ -49,8 +48,8 @@
 | 13:00 | INR | Low | Manufacturing Output (MoM) (May) |  |  | 3.9% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
