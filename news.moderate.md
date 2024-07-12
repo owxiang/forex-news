@@ -6,10 +6,10 @@
 | 04:23 | CNY | Imports (YoY) (Jun) | -2.3% | 2.8% | 1.8% |
 | 04:23 | CNY | Trade Balance (USD) (Jun) | 99.05B | 85.10B | 82.62B |
 | 05:30 | JPY | Industrial Production (MoM) (May) | 3.6% | 2.8% | -0.9% |
-| 37 min | EUR | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 37 min | EUR | French HICP (MoM) (Jun) |  | 0.1% | 0.1% |
-| 52 min | EUR | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
-| 52 min | EUR | Spanish HICP (YoY) (Jun) |  | 3.5% | 3.8% |
+| 07:45 | EUR | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | French HICP (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
+| 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
+| 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | INR | CPI (YoY) (Jun) |  | 4.80% | 4.75% |
 | 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
