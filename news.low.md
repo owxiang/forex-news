@@ -2,22 +2,22 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
-| 28 min | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 39.47 |
-| 28 min | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 65.17 |
-| 28 min | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.48 |
-| 28 min | JPY | Thomson Reuters IPSOS PCSI (Jul) |  |  | 37.69 |
+| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
+| 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
+| 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
+| 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
+| 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 37.63 |  | 37.69 |
 | Tentative | CNY | Exports (Jun) |  |  | 11.20M |
 | Tentative | CNY | Imports (Jun) |  |  | 5.20M |
-| 28 min | CNY | China Thomson Reuters IPSOS PCSI (Jul) |  |  | 76.56 |
-| 28 min | CNY | Trade Balance (Jun) |  | 590.00B | 586.39B |
+| 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 66.82 |  | 76.56 |
+| 03:00 | CNY | Trade Balance (Jun) |  | 590.00B | 586.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) |  |  | 0.3% |
 | 07:00 | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) |  |  | 58.7B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
 | 07:45 | EUR | French CPI (YoY) |  | 2.1% | 2.3% |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
@@ -25,8 +25,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
-| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
 | 12:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
 | 12:30 | INR | Deposit Growth |  |  | 12.6% |

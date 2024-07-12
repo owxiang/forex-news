@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | Tentative | CNY | Exports (YoY) (Jun) |  | 8.0% | 7.6% |
-| 28 min | CNY | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
-| 28 min | CNY | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
+| 03:00 | CNY | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
+| 03:00 | CNY | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
 | 05:30 | JPY | Industrial Production (MoM) (May) |  | 2.8% | -0.9% |
 | 07:45 | EUR | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:45 | EUR | French HICP (MoM) (Jun) |  | 0.1% | 0.1% |
