@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 53 min | SGD | GDP (YoY) (Q2) |  | 2.7% | 2.7% |
-| 53 min | SGD | GDP (QoQ) |  |  | 0.1% |
-| 02:00 | AUD | MI Inflation Expectations |  |  | 4.4% |
+| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
+| 38 min | AUD | MI Inflation Expectations |  |  | 4.4% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) |  |  | 50.48 |
@@ -17,8 +17,8 @@
 | 07:00 | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) |  |  | 58.7B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
 | 07:45 | EUR | French CPI (YoY) |  | 2.1% | 2.3% |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
@@ -26,8 +26,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
-| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
 | 11:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
+| 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
 | 12:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
 | 12:30 | INR | Deposit Growth |  |  | 12.6% |
