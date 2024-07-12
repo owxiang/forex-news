@@ -10,7 +10,8 @@
 | 07:45 | EUR | French HICP (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 08:00 | EUR | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:04 | CNY | New Loans (Jun) | 2,130.0B |  | 950.0B |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | INR | CPI (YoY) (Jun) |  | 4.80% | 4.75% |
 | 13:30 | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
