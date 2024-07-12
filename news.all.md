@@ -26,8 +26,8 @@
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 3.0% | 3.0% | 3.0% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.4% | 0.3% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jun) | 6.2% | 6.8% | 7.0% |
