@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
+| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -13,11 +13,11 @@
 | 04:00 | CNY | Imports (Jun) | -0.60M |  | 5.20M |
 | 04:00 | CNY | Trade Balance (Jun) | 703.73B | 590.00B | 586.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
-| 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
+| 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | NOK | Trade Balance (Jun) | 61.7B |  | 58.4B |
-| 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |

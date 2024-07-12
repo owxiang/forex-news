@@ -19,7 +19,7 @@
 | 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) | 2.9% | 3.0% | 3.0% |
 | 15:00 | USD | Michigan Consumer Expectations (Jul) | 67.2 | 69.8 | 69.6 |
 | 15:00 | USD | Michigan Consumer Sentiment (Jul) | 66.0 | 68.5 | 68.2 |
-| 17:00 | USD | WASDE Report |  |  |  |
+| 55 min | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 62.0K |
