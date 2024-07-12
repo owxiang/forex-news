@@ -11,8 +11,8 @@
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 66.82 |  | 76.56 |
 | 04:00 | CNY | Trade Balance (Jun) | 703.73B | 590.00B | 586.39B |
 | 05:30 | JPY | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
-| 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
+| 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) | 61.7B |  | 58.4B |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |

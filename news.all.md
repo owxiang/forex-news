@@ -15,8 +15,8 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Jun) | 99.05B | 85.10B | 82.62B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) | 3.6% | 2.8% | -0.9% |
-| 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
+| 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Low | Trade Balance (Jun) | 61.7B |  | 58.4B |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
@@ -26,8 +26,8 @@
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 3.0% | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.4% | 0.3% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.4% | 0.3% | 0.3% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jun) | 6.2% | 6.8% | 7.0% |
@@ -50,8 +50,8 @@
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 3.1% |  | 3.3% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) | 3.0% | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) | 0.4% | 0.2% | 0.3% |
+| 13:30 | USD | Low | Core PPI (YoY) (Jun) | 3.0% | 2.5% | 2.6% |
 | 13:30 | USD | High | PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) | 2.6% | 2.3% | 2.4% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (May) | -12.2% | -5.0% | 23.4% |
