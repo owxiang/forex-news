@@ -9,10 +9,10 @@
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
 | 03:00 | JPY | Thomson Reuters IPSOS PCSI (Jul) | 37.63 |  | 37.69 |
 | 03:00 | CNY | China Thomson Reuters IPSOS PCSI (Jul) | 66.82 |  | 76.56 |
-| 04:00 | CNY | Exports (Jun) | 6.90M |  | 11.20M |
-| 04:00 | CNY | Trade Balance (Jun) |  | 590.00B | 586.39B |
-| 04:01 | CNY | Imports (Jun) | 5.20M |  | 5.20M |
-| 05:30 | JPY | Capacity Utilization (MoM) (May) |  |  | 0.3% |
+| 04:43 | CNY | Exports (Jun) | 10.70M |  | 11.20M |
+| 04:43 | CNY | Imports (Jun) | -0.60M |  | 5.20M |
+| 04:43 | CNY | Trade Balance (Jun) | 703.73B | 590.00B | 586.39B |
+| 23 min | JPY | Capacity Utilization (MoM) (May) |  |  | 0.3% |
 | 07:00 | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) |  |  | 58.7B |
