@@ -17,8 +17,8 @@
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Jun) | 99.05B | 85.10B | 82.62B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) | 3.6% | 2.8% | -0.9% |
-| 07:00 | EUR | Low | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
+| 07:00 | EUR | Low | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | NOK | Low | Trade Balance (Jun) | 61.7B |  | 58.4B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
@@ -38,25 +38,25 @@
 | 10:00 | CNY | Low | Chinese Total Social Financing (Jun) | 3,300.0B |  | 2,070.0B |
 | 10:01 | CNY | Low | FDI (Jun) | -29.10% |  | -28.20% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 24 min | INR | Low | Bank Loan Growth |  |  | 19.2% |
-| 24 min | INR | Low | Deposit Growth |  |  | 12.6% |
-| 24 min | INR | Low | FX Reserves, USD |  |  | 652.00B |
-| 54 min | MXN | Low | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
-| 54 min | MXN | Low | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
-| 54 min | INR | Moderate | CPI (YoY) (Jun) |  | 4.80% | 4.75% |
-| 54 min | INR | Low | Cumulative Industrial Production (Apr) |  |  | 5.80% |
-| 54 min | INR | Low | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
-| 54 min | INR | Low | Manufacturing Output (MoM) (May) |  |  | 3.9% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
-| 54 min | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
-| 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
-| 13:30 | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
-| 13:30 | USD | Low | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
-| 13:30 | USD | Low | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
-| 13:30 | USD | High | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
-| 13:30 | CAD | Moderate | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
-| 13:45 | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 25.9B |
+| 12:30 | INR | Low | Bank Loan Growth | 17.4% |  | 19.2% |
+| 12:30 | INR | Low | Deposit Growth | 11.1% |  | 12.6% |
+| 12:30 | INR | Low | FX Reserves, USD | 657.16B |  | 652.00B |
+| 13:00 | MXN | Low | Industrial Production (MoM) (May) | 0.7% | 0.4% | -0.5% |
+| 13:00 | MXN | Low | Industrial Production (YoY) (May) | 1.0% | 1.2% | 5.1% |
+| 13:00 | INR | Moderate | CPI (YoY) (Jun) | 5.08% | 4.80% | 4.75% |
+| 13:00 | INR | Low | Cumulative Industrial Production (Apr) | 5.40% |  | 5.80% |
+| 13:00 | INR | Low | Industrial Production (YoY) (May) | 5.9% | 4.9% | 5.0% |
+| 13:00 | INR | Low | Manufacturing Output (MoM) (May) | 4.6% |  | 3.9% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 0.8% |  | 5.5% |
+| 19 min | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
+| 19 min | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
+| 19 min | USD | Moderate | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 19 min | USD | Low | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
+| 19 min | USD | Low | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
+| 19 min | USD | High | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 19 min | CAD | Moderate | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
+| 34 min | EUR | Low | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  |  | 3.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.0% |
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 69.8 | 69.6 |
