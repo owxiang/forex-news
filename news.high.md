@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 19 min | USD | PPI (MoM) (Jun) |  | 0.1% | -0.2% |
+| 13:30 | USD | PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |

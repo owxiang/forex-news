@@ -12,13 +12,13 @@
 | 08:00 | EUR | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
 | 10:00 | CNY | New Loans (Jun) | 2,130.0B | 1,050.0B | 950.0B |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | INR | CPI (YoY) (Jun) | 5.08% | 4.80% | 4.75% |
-| 19 min | USD | Core PPI (MoM) (Jun) |  | 0.2% | 0.0% |
-| 19 min | CAD | Building Permits (MoM) (May) |  | -5.0% | 20.5% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  |  | 3.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  |  | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 69.8 | 69.6 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 68.5 | 68.2 |
+| 13:00 | INR | CPI (YoY) (Jun) | 5.08% | 4.80% | 4.80% |
+| 13:30 | USD | Core PPI (MoM) (Jun) | 0.4% | 0.2% | 0.3% |
+| 13:30 | CAD | Building Permits (MoM) (May) | -12.2% | -5.0% | 23.4% |
+| 53 min | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
+| 53 min | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 3.0% | 3.0% |
+| 53 min | USD | Michigan Consumer Expectations (Jul) |  | 69.8 | 69.6 |
+| 53 min | USD | Michigan Consumer Sentiment (Jul) |  | 68.5 | 68.2 |
 | 17:00 | USD | WASDE Report |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 585 |
