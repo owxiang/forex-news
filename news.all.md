@@ -9,16 +9,14 @@
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) | 37.63 |  | 37.69 |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) | 66.82 |  | 76.56 |
-| 04:00 | CNY | Low | Exports (Jun) | 10.70M |  | 11.20M |
-| 04:00 | CNY | Low | Imports (Jun) | -0.60M |  | 5.20M |
 | 04:00 | CNY | Low | Trade Balance (Jun) | 703.73B | 590.00B | 586.39B |
 | 04:00 | CNY | Moderate | Exports (YoY) (Jun) | 8.6% | 8.0% | 7.6% |
 | 04:00 | CNY | Moderate | Imports (YoY) (Jun) | -2.3% | 2.8% | 1.8% |
 | 04:00 | CNY | Moderate | Trade Balance (USD) (Jun) | 99.05B | 85.10B | 82.62B |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) | 3.6% | 2.8% | -0.9% |
-| 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
+| 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Low | Trade Balance (Jun) | 61.7B |  | 58.4B |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
@@ -48,8 +46,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Apr) | 5.40% |  | 5.80% |
 | 13:00 | INR | Low | Industrial Production (YoY) (May) | 5.9% | 4.9% | 5.0% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (May) | 4.6% |  | 3.9% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 0.8% |  | 5.5% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 0.8% |  | 5.5% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 3.1% |  | 3.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) | 3.0% | 2.5% | 2.6% |
@@ -62,9 +60,11 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 67.2 | 69.8 | 69.6 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 66.0 | 68.5 | 68.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) | 64.1 | 66.3 | 65.9 |
-| 55 min | USD | Moderate | WASDE Report |  |  |  |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
-| 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
+| 16:22 | CNY | Low | Exports (Jun) | 10.70M |  | 11.20M |
+| 16:23 | CNY | Low | Imports (Jun) | -0.60M |  | 5.20M |
+| 17:00 | USD | Moderate | WASDE Report |  |  |  |
+| 53 min | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 479 |
+| 53 min | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 585 |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | 1.157B |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions |  |  | 62.0K |
 | 20:30 | USD | Low | CFTC Aluminium speculative net positions |  |  | 2.2K |
