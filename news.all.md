@@ -8,13 +8,13 @@
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
 | 03:00 | JPY | Low | Thomson Reuters IPSOS PCSI (Jul) | 37.63 |  | 37.69 |
-| Tentative | CNY | Low | Exports (Jun) |  |  | 11.20M |
-| Tentative | CNY | Low | Imports (Jun) |  |  | 5.20M |
 | 03:00 | CNY | Low | China Thomson Reuters IPSOS PCSI (Jul) | 66.82 |  | 76.56 |
-| 03:00 | CNY | Low | Trade Balance (Jun) |  | 590.00B | 586.39B |
-| Tentative | CNY | Moderate | Exports (YoY) (Jun) |  | 8.0% | 7.6% |
-| 03:00 | CNY | Moderate | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
-| 03:00 | CNY | Moderate | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
+| 04:00 | CNY | Low | Exports (Jun) | 6.90M |  | 11.20M |
+| 04:00 | CNY | Low | Trade Balance (Jun) |  | 590.00B | 586.39B |
+| 04:00 | CNY | Moderate | Exports (YoY) (Jun) |  | 8.0% | 7.6% |
+| 04:00 | CNY | Moderate | Imports (YoY) (Jun) |  | 2.8% | 1.8% |
+| 04:00 | CNY | Moderate | Trade Balance (USD) (Jun) |  | 85.00B | 82.62B |
+| 04:01 | CNY | Low | Imports (Jun) | 5.20M |  | 5.20M |
 | 05:30 | JPY | Low | Capacity Utilization (MoM) (May) |  |  | 0.3% |
 | 05:30 | JPY | Moderate | Industrial Production (MoM) (May) |  | 2.8% | -0.9% |
 | 07:00 | EUR | Low | German WPI (YoY) (Jun) |  |  | -0.7% |
@@ -22,15 +22,15 @@
 | 07:00 | NOK | Low | Trade Balance (Jun) |  |  | 58.7B |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French CPI (YoY) |  | 2.1% | 2.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) |  | 0.1% | 0.1% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) |  |  | 2.20% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
-| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
+| 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) |  | 3.4% | 3.6% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) |  | 3.5% | 3.8% |
 | 11:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
