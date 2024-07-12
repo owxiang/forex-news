@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
+| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -14,8 +14,8 @@
 | 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) | 61.7B |  | 58.4B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
@@ -30,13 +30,13 @@
 | 12:30 | INR | Bank Loan Growth | 17.4% |  | 19.2% |
 | 12:30 | INR | Deposit Growth | 11.1% |  | 12.6% |
 | 12:30 | INR | FX Reserves, USD | 657.16B |  | 652.00B |
-| 13:00 | MXN | Industrial Production (MoM) (May) | 0.7% | 0.4% | -0.4% |
 | 13:00 | MXN | Industrial Production (YoY) (May) | 1.0% | 1.2% | 5.1% |
+| 13:00 | MXN | Industrial Production (MoM) (May) | 0.7% | 0.4% | -0.4% |
 | 13:00 | INR | Cumulative Industrial Production (Apr) | 5.40% |  | 5.80% |
 | 13:00 | INR | Industrial Production (YoY) (May) | 5.9% | 4.9% | 5.0% |
 | 13:00 | INR | Manufacturing Output (MoM) (May) | 4.6% |  | 3.9% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) | 0.8% |  | 5.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) | 3.1% |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Jun) | 3.0% | 2.5% | 2.6% |
@@ -55,4 +55,3 @@
 | 20:30 | MXN | CFTC MXN speculative net positions | 63.3K |  | 63.6K |
 | 20:30 | CHF | CFTC CHF speculative net positions | -46.1K |  | -43.4K |
 | 20:30 | NZD | CFTC NZD speculative net positions | 25.9K |  | 30.7K |
-| 23:45 | NZD | FPI (MoM) (Jun) |  |  | -0.2% |
