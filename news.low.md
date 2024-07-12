@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
+| 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -16,29 +16,29 @@
 | 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) | 61.7B |  | 58.4B |
-| 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
 | 08:00 | EUR | Core CPI (YoY) (Jun) | 3.0% | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) | 0.4% | 0.3% | 0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
+| 10:00 | CNY | M2 Money Stock (YoY) (Jun) | 6.2% | 6.8% | 7.0% |
+| 10:00 | CNY | Outstanding Loan Growth (YoY) (Jun) | 8.8% |  | 9.3% |
+| 10:00 | CNY | Chinese Total Social Financing (Jun) | 3,300.0B |  | 2,070.0B |
 | 10:01 | CNY | FDI (Jun) | -29.10% |  | -28.20% |
-| 10:03 | CNY | M2 Money Stock (YoY) (Jun) | 6.2% |  | 7.0% |
-| 10:03 | CNY | Chinese Total Social Financing (Jun) | 3,300.0B |  | 2,070.0B |
-| 10:04 | CNY | Outstanding Loan Growth (YoY) (Jun) | 8.8% |  | 9.3% |
-| 54 min | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
-| 54 min | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
-| 12:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
+| 54 min | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
 | 12:30 | INR | Deposit Growth |  |  | 12.6% |
 | 12:30 | INR | FX Reserves, USD |  |  | 652.00B |
-| 13:00 | MXN | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
 | 13:00 | MXN | Industrial Production (MoM) (May) |  | 0.4% | -0.5% |
+| 13:00 | MXN | Industrial Production (YoY) (May) |  | 1.2% | 5.1% |
 | 13:00 | INR | Cumulative Industrial Production (Apr) |  |  | 5.80% |
 | 13:00 | INR | Industrial Production (YoY) (May) |  | 4.9% | 5.0% |
 | 13:00 | INR | Manufacturing Output (MoM) (May) |  |  | 3.9% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) |  |  | 0.0% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
 | 13:30 | USD | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
