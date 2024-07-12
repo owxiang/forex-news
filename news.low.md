@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -12,12 +12,12 @@
 | 04:43 | CNY | Exports (Jun) | 10.70M |  | 11.20M |
 | 04:43 | CNY | Imports (Jun) | -0.60M |  | 5.20M |
 | 04:43 | CNY | Trade Balance (Jun) | 703.73B | 590.00B | 586.39B |
-| 23 min | JPY | Capacity Utilization (MoM) (May) |  |  | 0.3% |
-| 07:00 | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
-| 07:00 | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
-| 07:00 | NOK | Trade Balance (Jun) |  |  | 58.7B |
-| 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
+| 05:30 | JPY | Capacity Utilization (MoM) (May) | 4.1% |  | 0.3% |
+| 54 min | EUR | German WPI (YoY) (Jun) |  |  | -0.7% |
+| 54 min | EUR | German WPI (MoM) (Jun) |  | 0.2% | 0.1% |
+| 54 min | NOK | Trade Balance (Jun) |  |  | 58.7B |
 | 07:45 | EUR | French CPI NSA (MoM) (Jun) |  |  | 0.00% |
+| 07:45 | EUR | French CPI NSA (YoY) (Jun) |  |  | 2.30% |
 | 07:45 | EUR | French CPI (YoY) |  | 2.1% | 2.3% |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 07:45 | EUR | French HICP (YoY) (Jun) |  | 2.5% | 2.6% |
@@ -25,9 +25,8 @@
 | 08:00 | EUR | Core CPI (YoY) (Jun) |  | 3.0% | 3.0% |
 | 08:00 | EUR | Spanish CPI (MoM) (Jun) |  | 0.3% | 0.3% |
 | 08:00 | EUR | Spanish HICP (MoM) (Jun) |  | 0.3% | 0.2% |
-| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 11:00 | BRL | Brazilian Service Sector Growth (YoY) (May) |  |  | 5.6% |
-| 12:00 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
+| 11:00 | BRL | Brazilian Service Sector Growth (MoM) (May) |  |  | 0.5% |
 | 12:30 | INR | Bank Loan Growth |  |  | 19.2% |
 | 12:30 | INR | Deposit Growth |  |  | 12.6% |
 | 12:30 | INR | FX Reserves, USD |  |  | 652.00B |
@@ -40,6 +39,7 @@
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) |  |  | 3.2% |
 | 13:30 | USD | Core PPI (YoY) (Jun) |  | 2.5% | 2.3% |
 | 13:30 | USD | PPI (YoY) (Jun) |  | 2.3% | 2.2% |
+| 13:45 | EUR | German Current Account Balance n.s.a (May) |  |  | 25.9B |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 66.3 | 65.9 |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | 1.157B |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
