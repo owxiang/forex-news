@@ -67,8 +67,8 @@
 | 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 10:30 | EUR | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.00% |  | 7.03% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -0.2% |  | -2.6% |
@@ -107,8 +107,8 @@
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
 | 07:00 | GBP | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
-| 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 07:00 | EUR | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 07:00 | EUR | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 10:10 | GBP | 7-Year Treasury Gilt Auction | 4.074% |  | 4.218% |
 | 10:30 | EUR | Italian 3-Year BTP Auction | 3.24% |  | 3.47% |
 | 10:30 | ZAR | Gold Production (YoY) (May) | -9.0% |  | -1.6% |
@@ -136,8 +136,8 @@
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) | -4.9% |  | -1.6% |
-| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -164,8 +164,8 @@
 | 12:30 | INR | Bank Loan Growth | 17.4% |  | 19.2% |
 | 12:30 | INR | Deposit Growth | 11.1% |  | 12.6% |
 | 12:30 | INR | FX Reserves, USD | 657.16B |  | 652.00B |
-| 13:00 | MXN | Industrial Production (YoY) (May) | 1.0% | 1.2% | 5.1% |
 | 13:00 | MXN | Industrial Production (MoM) (May) | 0.7% | 0.4% | -0.4% |
+| 13:00 | MXN | Industrial Production (YoY) (May) | 1.0% | 1.2% | 5.1% |
 | 13:00 | INR | Cumulative Industrial Production (Apr) | 5.40% |  | 5.80% |
 | 13:00 | INR | Industrial Production (YoY) (May) | 5.9% | 4.9% | 5.0% |
 | 13:00 | INR | Manufacturing Output (MoM) (May) | 4.6% |  | 3.9% |
