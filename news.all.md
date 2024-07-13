@@ -115,8 +115,8 @@
 | 12:00 | USD | Low | Mortgage Refinance Index | 532.3 |  | 544.1 |
 | 12:00 | USD | Moderate | OPEC Monthly Report |  |  |  |
 | 12:30 | INR | Low | M3 Money Supply | 9.7% |  | 10.9% |
-| 13:00 | BRL | Low | CPI (MoM) (Jun) | 0.21% | 0.32% | 0.46% |
 | 13:00 | BRL | Moderate | CPI (YoY) (Jun) | 4.23% | 4.35% | 3.93% |
+| 13:00 | BRL | Low | CPI (MoM) (Jun) | 0.21% | 0.32% | 0.46% |
 | 13:00 | BRL | Low | Brazilian IPCA Inflation Index SA (MoM) (Jun) | 0.28% |  | 0.49% |
 | 14:30 | GBP | Moderate | BoE MPC Member Pill Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
@@ -163,8 +163,8 @@
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.8% |
 | 07:00 | GBP | Moderate | Trade Balance (May) | -17.92B | -15.60B | -19.44B |
 | 07:00 | GBP | Moderate | Trade Balance Non-EU (May) | -6.86B |  | -6.97B |
-| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
 | 07:00 | EUR | High | German CPI (MoM) (Jun) | 0.1% | 0.1% | 0.1% |
+| 07:00 | EUR | Moderate | German CPI (YoY) (Jun) | 2.2% | 2.2% | 2.4% |
 | 07:00 | EUR | Low | German HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 07:00 | EUR | Low | German HICP (YoY) (Jun) | 2.5% | 2.5% | 2.8% |
 | 09:30 | GBP | Moderate | BOE Credit Conditions Survey |  |  |  |
@@ -187,11 +187,11 @@
 | 12:00 | EUR | Low | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
 | 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
-| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
+| 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
-| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
+| 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
 | 13:30 | USD | Low | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
 | 13:30 | USD | High | CPI (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
 | 13:30 | USD | High | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.3% |
@@ -212,10 +212,10 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet | 7,224B |  | 7,222B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
 | 23:30 | NZD | Moderate | Business NZ PMI (Jun) | 41.1 |  | 47.2 |
-| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) | -0.6% |  | -1.2% |
 | 23:45 | NZD | Low | Electronic Card Retail Sales (YoY) (Jun) | -4.9% |  | -1.6% |
-| 01:00 | SGD | Low | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
+| 23:45 | NZD | Moderate | Electronic Card Retail Sales (MoM) (Jun) | -0.6% |  | -1.2% |
 | 01:00 | SGD | Low | GDP (QoQ) | 0.4% |  | 0.3% |
+| 01:00 | SGD | Low | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 03:00 | KRW | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Low | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -230,16 +230,16 @@
 | 07:00 | EUR | Low | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | EUR | Low | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Low | Trade Balance (Jun) | 61.7B |  | 58.4B |
-| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
-| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
+| 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
 | 08:00 | EUR | Low | Core CPI (YoY) (Jun) | 3.0% | 3.0% | 3.0% |
-| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.4% | 0.3% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish CPI (YoY) (Jun) | 3.4% | 3.4% | 3.6% |
+| 08:00 | EUR | Low | Spanish CPI (MoM) (Jun) | 0.4% | 0.3% | 0.3% |
 | 08:00 | EUR | Moderate | Spanish HICP (YoY) (Jun) | 3.6% | 3.5% | 3.8% |
 | 08:00 | EUR | Low | Spanish HICP (MoM) (Jun) | 0.4% | 0.3% | 0.2% |
 | 10:00 | CNY | Low | M2 Money Stock (YoY) (Jun) | 6.2% | 6.8% | 7.0% |
@@ -264,8 +264,8 @@
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 3.1% |  | 3.3% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) | 0.4% | 0.2% | 0.3% |
 | 13:30 | USD | Low | Core PPI (YoY) (Jun) | 3.0% | 2.5% | 2.6% |
-| 13:30 | USD | High | PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
 | 13:30 | USD | Low | PPI (YoY) (Jun) | 2.6% | 2.3% | 2.4% |
+| 13:30 | USD | High | PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
 | 13:30 | CAD | Moderate | Building Permits (MoM) (May) | -12.2% | -5.0% | 23.4% |
 | 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 2.9% | 2.9% | 3.0% |
 | 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 2.9% | 3.0% | 3.0% |

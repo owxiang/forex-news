@@ -136,8 +136,8 @@
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) | -4.9% |  | -1.6% |
-| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
@@ -148,8 +148,8 @@
 | 07:00 | EUR | German WPI (YoY) (Jun) | -0.6% |  | -0.7% |
 | 07:00 | EUR | German WPI (MoM) (Jun) | -0.3% | 0.2% | 0.1% |
 | 07:00 | NOK | Trade Balance (Jun) | 61.7B |  | 58.4B |
-| 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
+| 07:45 | EUR | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
 | 07:45 | EUR | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
