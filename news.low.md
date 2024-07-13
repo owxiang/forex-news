@@ -50,16 +50,16 @@
 | 13:00 | MXN | Consumer Confidence n.s.a. (Jun) | 48.1 |  | 46.7 |
 | 13:00 | MXN | Core CPI (MoM) (Jun) | 0.22% | 0.24% | 0.17% |
 | 13:00 | MXN | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:00 | MXN | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
+| 13:00 | MXN | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:55 | USD | Redbook (YoY) | 6.3% |  | 5.8% |
 | 16:30 | USD | 52-Week Bill Auction | 4.775% |  | 4.915% |
 | 23:45 | NZD | External Migration & Visitors (May) | 12.10% |  | 1.70% |
 | 23:45 | NZD | Permanent/Long-Term Migration (May) | 1,410 |  | 5,110 |
 | 23:45 | NZD | Visitor Arrivals (MoM) (May) | 4.0% |  | -8.8% |
 | 00:00 | KRW | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
+| 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 02:30 | AUD | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
 | 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
@@ -101,8 +101,8 @@
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Index of Services | 1.1% | 1.0% | 1.0% |
 | 07:00 | GBP | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
@@ -122,8 +122,8 @@
 | 11:00 | ZAR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.18 |  | 45.50 |
 | 12:00 | EUR | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
 | 12:00 | EUR | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 12:00 | ZAR | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
+| 12:00 | ZAR | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 13:30 | USD | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
 | 13:30 | USD | CPI Index, n.s.a. (Jun) | 314.18 | 314.63 | 314.07 |
 | 13:30 | USD | CPI Index, s.a (Jun) | 313.05 |  | 313.22 |
@@ -169,8 +169,8 @@
 | 13:00 | INR | Cumulative Industrial Production (Apr) | 5.40% |  | 5.80% |
 | 13:00 | INR | Industrial Production (YoY) (May) | 5.9% | 4.9% | 5.0% |
 | 13:00 | INR | Manufacturing Output (MoM) (May) | 4.6% |  | 3.9% |
-| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:00 | BRL | Brazilian Service Sector Growth (YoY) (May) | 0.8% |  | 5.5% |
+| 13:00 | BRL | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
 | 13:30 | USD | PPI ex. Food/Energy/Transport (YoY) (Jun) | 3.1% |  | 3.3% |
 | 13:30 | USD | Core PPI (YoY) (Jun) | 3.0% | 2.5% | 2.6% |

@@ -73,8 +73,8 @@
 | 13:00 | MXN | Moderate | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
 | 13:00 | MXN | Moderate | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
 | 13:00 | MXN | Low | Month Core Inflation (MoM) (Jun) | 4.13% | 4.15% | 4.21% |
-| 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:00 | MXN | Low | PPI (YoY) (Jun) | 5.10% |  | 3.30% |
+| 13:00 | MXN | Low | PPI (MoM) (Jun) | 1.40% |  | 0.40% |
 | 13:55 | USD | Low | Redbook (YoY) | 6.3% |  | 5.8% |
 | 14:15 | USD | Moderate | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | High | Fed Chair Powell Testifies |  |  |  |
@@ -88,8 +88,8 @@
 | 23:45 | NZD | Low | Permanent/Long-Term Migration (May) | 1,410 |  | 5,110 |
 | 23:45 | NZD | Low | Visitor Arrivals (MoM) (May) | 4.0% |  | -8.8% |
 | 00:00 | KRW | Low | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 00:50 | JPY | Low | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
+| 00:50 | JPY | Low | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
 | 02:30 | AUD | Moderate | Building Approvals (MoM) (May) | 5.5% | 5.5% | 1.9% |
 | 02:30 | AUD | Low | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
 | 02:30 | CNY | Moderate | CPI (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
@@ -151,13 +151,13 @@
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 603.7B |  | 185.0B |
 | 02:00 | KRW | Low | Interest Rate Decision (Jul) | 3.50% |  | 3.50% |
 | 02:00 | AUD | Low | MI Inflation Expectations | 4.3% |  | 4.4% |
-| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | Low | U.K. Construction Output (YoY) (May) | 0.8% | -1.9% | -2.1% |
+| 07:00 | GBP | Low | Construction Output (MoM) (May) | 1.9% | 0.5% | -1.1% |
 | 07:00 | GBP | High | GDP (MoM) (May) | 0.4% | 0.2% | 0.0% |
 | 07:00 | GBP | Low | GDP (YoY) (May) | 1.4% | 1.2% | 0.7% |
 | 07:00 | GBP | Low | Index of Services | 1.1% | 1.0% | 1.0% |
-| 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | 0.2% | 0.3% | -0.9% |
 | 07:00 | GBP | Low | Industrial Production (YoY) (May) | 0.4% | 0.6% | -0.7% |
+| 07:00 | GBP | Moderate | Industrial Production (MoM) (May) | 0.2% | 0.3% | -0.9% |
 | 07:00 | GBP | Low | Manufacturing Production (YoY) (May) | 0.6% | 1.2% | -0.4% |
 | 07:00 | GBP | Moderate | Manufacturing Production (MoM) (May) | 0.4% | 0.4% | -1.6% |
 | 07:00 | GBP | Moderate | Monthly GDP 3M/3M Change (May) | 0.9% | 0.7% | 0.8% |
@@ -185,13 +185,13 @@
 | 12:00 | EUR | Moderate | Italian 10-Year BTP Auction | 3.51% |  | 4.01% |
 | 12:00 | EUR | Low | Italian 5-Year BTP Auction | 3.23% |  | 3.55% |
 | 12:00 | EUR | Low | Italian 7-Year BTP Auction | 3.57% |  | 3.72% |
-| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 12:00 | ZAR | Low | Manufacturing Production (YoY) (May) | -0.6% |  | 4.9% |
+| 12:00 | ZAR | Low | Manufacturing Production (MoM) (May) | -3.2% |  | 5.2% |
 | 13:00 | BRL | Moderate | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
 | 13:00 | BRL | Moderate | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:30 | USD | Moderate | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
-| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
 | 13:30 | USD | High | Core CPI (MoM) (Jun) | 0.1% | 0.2% | 0.2% |
+| 13:30 | USD | Moderate | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
 | 13:30 | USD | Low | Core CPI Index (Jun) | 318.35 | 318.78 | 318.14 |
 | 13:30 | USD | High | CPI (MoM) (Jun) | -0.1% | 0.1% | 0.0% |
 | 13:30 | USD | High | CPI (YoY) (Jun) | 3.0% | 3.1% | 3.3% |
@@ -232,8 +232,8 @@
 | 07:00 | NOK | Low | Trade Balance (Jun) | 61.7B |  | 58.4B |
 | 07:45 | EUR | Low | French CPI NSA (YoY) (Jun) | 2.20% |  | 2.30% |
 | 07:45 | EUR | Low | French CPI NSA (MoM) (Jun) | 0.10% |  | 0.00% |
-| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | Moderate | French CPI (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
+| 07:45 | EUR | Low | French CPI (YoY) (Jun) | 2.2% | 2.1% | 2.3% |
 | 07:45 | EUR | Moderate | French HICP (MoM) (Jun) | 0.2% | 0.1% | 0.1% |
 | 07:45 | EUR | Low | French HICP (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 07:45 | EUR | Low | France Inflation Ex-Tobacco (YoY) (Jun) | 2.00% |  | 2.20% |
@@ -258,8 +258,8 @@
 | 13:00 | INR | Low | Cumulative Industrial Production (Apr) | 5.40% |  | 5.80% |
 | 13:00 | INR | Low | Industrial Production (YoY) (May) | 5.9% | 4.9% | 5.0% |
 | 13:00 | INR | Low | Manufacturing Output (MoM) (May) | 4.6% |  | 3.9% |
-| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:00 | BRL | Low | Brazilian Service Sector Growth (YoY) (May) | 0.8% |  | 5.5% |
+| 13:00 | BRL | Low | Brazilian Service Sector Growth (MoM) (May) | 0.0% |  | 0.3% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
 | 13:30 | USD | Low | PPI ex. Food/Energy/Transport (YoY) (Jun) | 3.1% |  | 3.3% |
 | 13:30 | USD | Moderate | Core PPI (MoM) (Jun) | 0.4% | 0.2% | 0.3% |
