@@ -23,8 +23,8 @@
 | 02:30 | AUD | NAB Business Confidence (Jun) | 4 |  | -2 |
 | 09:20 | EUR | German Buba Mauderer Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | MXN | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
 | 13:00 | MXN | CPI (YoY) (Jun) | 4.98% | 4.84% | 4.69% |
+| 13:00 | MXN | CPI (MoM) (Jun) | 0.38% | 0.24% | -0.19% |
 | 14:15 | USD | Fed Vice Chair for Supervision Barr Speaks |  |  |  |
 | 15:00 | USD | Treasury Secretary Yellen Speaks |  |  |  |
 | 17:00 | USD | EIA Short-Term Energy Outlook |  |  |  |
@@ -32,8 +32,8 @@
 | 18:30 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 21:30 | USD | API Weekly Crude Oil Stock | -1.923M | -0.250M | -9.163M |
 | 02:30 | AUD | Building Approvals (MoM) (May) | 5.5% | 5.5% | 1.9% |
-| 02:30 | CNY | CPI (YoY) (Jun) | 0.2% | 0.4% | 0.3% |
 | 02:30 | CNY | CPI (MoM) (Jun) | -0.2% | -0.1% | -0.1% |
+| 02:30 | CNY | CPI (YoY) (Jun) | 0.2% | 0.4% | 0.3% |
 | 02:30 | CNY | PPI (YoY) (Jun) | -0.8% | -0.8% | -1.4% |
 | 03:00 | NZD | RBNZ Rate Statement |  |  |  |
 | 09:00 | EUR | German Buba President Nagel Speaks |  |  |  |
@@ -58,8 +58,8 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 11:50 | GBP | NIESR Monthly GDP Tracker | 0.6% |  | 0.8% |
 | 12:00 | EUR | Italian 10-Year BTP Auction | 3.51% |  | 4.01% |
-| 13:00 | BRL | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:00 | BRL | Retail Sales (MoM) (May) | 1.2% | -0.9% | 0.9% |
+| 13:00 | BRL | Retail Sales (YoY) (May) | 8.1% | 4.0% | 2.1% |
 | 13:30 | USD | Continuing Jobless Claims | 1,852K | 1,860K | 1,856K |
 | 13:30 | USD | Core CPI (YoY) (Jun) | 3.3% | 3.4% | 3.4% |
 | 16:00 | MXN | Monetary Policy Meeting Minutes |  |  |  |
