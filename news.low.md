@@ -58,8 +58,8 @@
 | 23:45 | NZD | Permanent/Long-Term Migration (May) | 1,410 |  | 5,110 |
 | 23:45 | NZD | Visitor Arrivals (MoM) (May) | 4.0% |  | -8.8% |
 | 00:00 | KRW | Unemployment Rate (Jun) | 2.8% |  | 2.8% |
-| 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
 | 00:50 | JPY | PPI (MoM) (Jun) | 0.2% | 0.4% | 0.7% |
+| 00:50 | JPY | PPI (YoY) (Jun) | 2.9% | 2.9% | 2.6% |
 | 02:30 | AUD | Private House Approvals (May) | 2.1% | 2.1% | -3.0% |
 | 05:00 | IDR | Motorbike Sales (YoY) (Jun) | 3.50% |  | -4.60% |
 | 07:00 | NOK | Core CPI YTD (Jun) | 3.4% | 3.6% | 4.1% |
@@ -67,8 +67,8 @@
 | 07:00 | NOK | CPI (YoY) (Jun) | 2.6% | 2.9% | 3.0% |
 | 07:00 | NOK | CPI (MoM) (Jun) | 0.2% | 0.5% | -0.1% |
 | 07:00 | NOK | PPI (YoY) (Jun) | 3.4% |  | 3.2% |
-| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 09:00 | EUR | Italian Industrial Production (MoM) (May) | 0.5% | 0.0% | -1.0% |
+| 09:00 | EUR | Italian Industrial Production (YoY) (May) | -3.3% |  | -3.0% |
 | 10:30 | EUR | Italian 12-Month BOT Auction | 3.483% |  | 3.584% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate | 7.00% |  | 7.03% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) | -0.2% |  | -2.6% |
@@ -136,8 +136,8 @@
 | 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.275% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.341T |  | 3.322T |
 | 23:45 | NZD | Electronic Card Retail Sales (YoY) (Jun) | -4.9% |  | -1.6% |
-| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 01:00 | SGD | GDP (QoQ) | 0.4% |  | 0.3% |
+| 01:00 | SGD | GDP (YoY) (Q2) | 2.9% | 2.7% | 3.0% |
 | 03:00 | KRW | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 41.56 |  | 39.47 |
 | 03:00 | INR | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 64.52 |  | 65.17 |
 | 03:00 | AUD | Thomson Reuters IPSOS PCSI (MoM) (Jul) | 48.19 |  | 50.48 |
