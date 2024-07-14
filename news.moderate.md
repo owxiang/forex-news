@@ -1,3 +1,20 @@
-## 14 July 2024 - Moderate Impact Forex News
+## 15 July 2024 - Moderate Impact Forex News
 
-There is no moderate impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 03:00 | CNY | Fixed Asset Investment (YoY) (Jun) |  | 3.9% | 4.0% |
+| 03:00 | CNY | GDP (QoQ) (Q2) |  | 1.1% | 1.6% |
+| 03:00 | CNY | Chinese GDP YTD (YoY) (Q2) |  | 5.1% | 5.3% |
+| 03:00 | CNY | Industrial Production (YoY) (Jun) |  | 4.9% | 5.6% |
+| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 6.2% |
+| 03:00 | CNY | Chinese Unemployment Rate (Jun) |  | 5.0% | 5.0% |
+| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
+| 07:30 | CHF | PPI (MoM) (Jun) |  | 0.1% | -0.3% |
+| 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 3.50% | 2.61% |
+| 10:00 | EUR | Industrial Production (MoM) (May) |  | -0.9% | -0.1% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:30 | USD | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
+| 13:30 | CAD | Wholesale Sales (MoM) (May) |  | 2.0% | 2.4% |
+| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 21:35 | USD | FOMC Member Daly Speaks |  |  |  |
