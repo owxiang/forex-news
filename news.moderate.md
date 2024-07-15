@@ -9,7 +9,7 @@
 | 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) | 6.0% |  | 6.2% |
 | 03:00 | CNY | Chinese Unemployment Rate (Jun) | 5.0% | 5.0% | 5.0% |
 | 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
+| 54 min | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
 | 07:30 | CHF | PPI (MoM) (Jun) |  | 0.1% | -0.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 3.50% | 2.61% |
 | 10:00 | EUR | Industrial Production (MoM) (May) |  | -0.9% | -0.1% |

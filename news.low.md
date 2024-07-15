@@ -4,15 +4,17 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -0.4% |  | 0.0% |
 | 02:30 | CNY | House Prices (YoY) (Jun) | -4.5% |  | -3.9% |
+| 03:00 | KRW | Exports (YoY) (Jun) | 5.1% |  | 5.1% |
+| 03:00 | KRW | Imports (YoY) (Jun) | -7.5% |  | -7.5% |
+| 03:00 | KRW | Trade Balance (Jun) | 7.99B |  | 8.00B |
 | 03:00 | CNY | Retail Sales (YoY) (Jun) | 2.0% | 3.3% | 3.7% |
 | 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 3.68% |  | 4.05% |
 | 04:00 | KRW | M3 Money Supply (May) | 5,471.2B |  | 5,439.1B |
 | 04:00 | KRW | M2 Money supply (May) | 5.20% |  | 4.60% |
-| 05:00 | GBP | Rightmove House Price Index (YoY) |  |  | 0.6% |
 | 05:00 | IDR | Export Growth (YoY) (Jun) | 1.17% | 5.13% | 2.86% |
-| 05:00 | IDR | Import Growth (YoY) (Jun) |  | 5.50% | -8.83% |
-| 05:00 | IDR | Trade Balance (Jun) |  | 2.98B | 2.93B |
-| 07:00 | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 05:00 | IDR | Import Growth (YoY) (Jun) | 7.58% | 5.50% | -8.83% |
+| 05:00 | IDR | Trade Balance (Jun) | 2.39B | 2.98B | 2.93B |
+| 54 min | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:30 | CHF | PPI (YoY) (Jun) |  |  | -1.8% |
 | 07:30 | INR | WPI Food (YoY) (Jun) |  |  | 9.82% |
 | 07:30 | INR | WPI Fuel (YoY) (Jun) |  |  | 1.35% |
