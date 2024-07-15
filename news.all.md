@@ -9,8 +9,8 @@
 | 03:00 | KRW | Low | Imports (YoY) (Jun) | -7.5% |  | -7.5% |
 | 03:00 | KRW | Low | Trade Balance (Jun) | 7.99B |  | 8.00B |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | 3.9% | 3.9% | 4.0% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
 | 03:00 | CNY | High | GDP (YoY) (Q2) | 4.7% | 5.1% | 5.3% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 5.0% | 5.1% | 5.3% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.9% | 5.6% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 6.0% |  | 6.2% |
