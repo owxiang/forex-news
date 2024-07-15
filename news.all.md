@@ -49,6 +49,6 @@
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.195% |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.985% |  | 5.080% |
 | 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
-| 21:35 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 7.5% |
-| 22:00 | KRW | Low | Import Price Index (YoY) (Jun) |  |  | 4.6% |
+| 29 min | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
+| 54 min | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 7.5% |
+| 54 min | KRW | Low | Import Price Index (YoY) (Jun) |  |  | 4.6% |
