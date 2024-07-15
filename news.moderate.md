@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jun) |  | 3.9% | 4.0% |
-| 03:00 | CNY | GDP (QoQ) (Q2) |  | 1.1% | 1.6% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q2) |  | 5.1% | 5.3% |
-| 03:00 | CNY | Industrial Production (YoY) (Jun) |  | 4.9% | 5.6% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 6.2% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jun) |  | 5.0% | 5.0% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
+| 27 min | CNY | Fixed Asset Investment (YoY) (Jun) |  | 3.9% | 4.0% |
+| 27 min | CNY | GDP (QoQ) (Q2) |  | 1.1% | 1.6% |
+| 27 min | CNY | Chinese GDP YTD (YoY) (Q2) |  | 5.1% | 5.3% |
+| 27 min | CNY | Industrial Production (YoY) (Jun) |  | 4.9% | 5.6% |
+| 27 min | CNY | Chinese Industrial Production YTD (YoY) (Jun) |  |  | 6.2% |
+| 27 min | CNY | Chinese Unemployment Rate (Jun) |  | 5.0% | 5.0% |
+| 27 min | CNY | NBS Press Conference |  |  |  |
 | 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
 | 07:30 | CHF | PPI (MoM) (Jun) |  | 0.1% | -0.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Jun) |  | 3.50% | 2.61% |
