@@ -4,11 +4,11 @@
 |------|----------|-------|--------|----------|----------|
 | 00:01 | GBP | Rightmove House Price Index (MoM) | -0.4% |  | 0.0% |
 | 02:30 | CNY | House Prices (YoY) (Jun) | -4.5% |  | -3.9% |
-| 27 min | CNY | Retail Sales (YoY) (Jun) |  | 3.3% | 3.7% |
-| 27 min | CNY | Chinese Retail Sales YTD (YoY) (Jun) |  |  | 4.05% |
-| 04:00 | KRW | M3 Money Supply (May) |  |  | 5,429.3B |
-| 04:00 | KRW | M2 Money supply (May) |  |  | 4.50% |
-| 04:30 | GBP | Rightmove House Price Index (YoY) |  |  | 0.6% |
+| 03:00 | CNY | Retail Sales (YoY) (Jun) | 2.0% | 3.3% | 3.7% |
+| 03:00 | CNY | Chinese Retail Sales YTD (YoY) (Jun) | 3.68% |  | 4.05% |
+| 05:00 | GBP | Rightmove House Price Index (YoY) |  |  | 0.6% |
+| 05:00 | KRW | M3 Money Supply (May) |  |  | 5,429.3B |
+| 05:00 | KRW | M2 Money supply (May) |  |  | 4.50% |
 | 05:00 | IDR | Export Growth (YoY) (Jun) |  | 5.13% | 2.86% |
 | 05:00 | IDR | Import Growth (YoY) (Jun) |  | 5.50% | -8.83% |
 | 05:00 | IDR | Trade Balance (Jun) |  | 2.98B | 2.93B |
