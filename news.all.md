@@ -9,8 +9,8 @@
 | 03:00 | KRW | Low | Imports (YoY) (Jun) | -7.5% |  | -7.5% |
 | 03:00 | KRW | Low | Trade Balance (Jun) | 7.99B |  | 8.00B |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | 3.9% | 3.9% | 4.0% |
-| 03:00 | CNY | High | GDP (YoY) (Q2) | 4.7% | 5.1% | 5.3% |
 | 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
+| 03:00 | CNY | High | GDP (YoY) (Q2) | 4.7% | 5.1% | 5.3% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 5.0% | 5.1% | 5.3% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.9% | 5.6% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 6.0% |  | 6.2% |
@@ -32,8 +32,8 @@
 | 09:40 | INR | Low | Exports (USD) (Jun) | 35.20B |  | 38.13B |
 | 09:40 | INR | Low | Imports (USD) (Jun) | 56.18B |  | 61.91B |
 | 09:40 | INR | Low | Trade Balance (Jun) | -20.98B |  | -23.78B |
-| 10:00 | EUR | Low | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
+| 10:00 | EUR | Low | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,267.63B |  | 1,253.37B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -45,9 +45,9 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.355% |  | 3.439% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.602% |  | 3.674% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.537% |  | 3.572% |
-| 25 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
+| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 22 min | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
+| 22 min | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
 | 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 21:35 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 7.5% |
