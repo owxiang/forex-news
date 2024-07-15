@@ -15,10 +15,10 @@
 | 05:00 | IDR | Export Growth (YoY) (Jun) | 1.17% | 5.13% | 2.86% |
 | 05:00 | IDR | Import Growth (YoY) (Jun) | 7.58% | 5.50% | -8.83% |
 | 05:00 | IDR | Trade Balance (Jun) | 2.39B | 2.98B | 2.93B |
-| 22 min | CHF | PPI (YoY) (Jun) |  |  | -1.8% |
-| 22 min | INR | WPI Food (YoY) (Jun) |  |  | 9.82% |
-| 22 min | INR | WPI Fuel (YoY) (Jun) |  |  | 1.35% |
-| 22 min | INR | WPI Manufacturing Inflation (YoY) (Jun) |  |  | 0.78% |
+| 07:30 | CHF | PPI (YoY) (Jun) | -1.9% |  | -1.8% |
+| 07:30 | INR | WPI Food (YoY) (Jun) | 10.87% |  | 9.82% |
+| 07:30 | INR | WPI Fuel (YoY) (Jun) | 1.03% |  | 1.35% |
+| 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) | 1.43% |  | 0.78% |
 | 10:00 | EUR | Industrial Production (YoY) (May) |  |  | -3.0% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.192% |
 | 11:00 | INR | Exports (USD) |  |  | 38.13B |
