@@ -11,8 +11,8 @@
 | 03:00 | CNY | NBS Press Conference |  |  |  |
 | 07:30 | CHF | PPI (MoM) (Jun) | 0.0% | 0.1% | -0.3% |
 | 07:30 | INR | WPI Inflation (YoY) (Jun) | 3.36% | 3.50% | 2.61% |
-| 52 min | EUR | Industrial Production (MoM) (May) |  | -0.9% | -0.1% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 10:00 | EUR | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
+| 53 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
 | 13:30 | CAD | Wholesale Sales (MoM) (May) |  | 2.0% | 2.4% |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
