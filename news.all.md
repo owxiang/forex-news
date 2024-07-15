@@ -9,8 +9,8 @@
 | 03:00 | KRW | Low | Imports (YoY) (Jun) | -7.5% |  | -7.5% |
 | 03:00 | KRW | Low | Trade Balance (Jun) | 7.99B |  | 8.00B |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | 3.9% | 3.9% | 4.0% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
 | 03:00 | CNY | High | GDP (YoY) (Q2) | 4.7% | 5.1% | 5.3% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 5.0% | 5.1% | 5.3% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.9% | 5.6% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 6.0% |  | 6.2% |
@@ -23,14 +23,14 @@
 | 05:00 | IDR | Low | Export Growth (YoY) (Jun) | 1.17% | 5.13% | 2.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Jun) | 7.58% | 5.50% | -8.83% |
 | 05:00 | IDR | Low | Trade Balance (Jun) | 2.39B | 2.98B | 2.93B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jun) | 0.0% | 0.1% | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Jun) | -1.9% |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jun) | 0.0% | 0.1% | -0.3% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jun) | 10.87% |  | 9.82% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jun) | 1.03% |  | 1.35% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jun) | 3.36% | 3.50% | 2.61% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jun) | 1.43% |  | 0.78% |
-| 10:00 | EUR | Low | Industrial Production (YoY) (May) |  |  | -3.0% |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) |  | -0.9% | -0.1% |
+| 52 min | EUR | Moderate | Industrial Production (MoM) (May) |  | -0.9% | -0.1% |
+| 52 min | EUR | Low | Industrial Production (YoY) (May) |  |  | -3.0% |
 | 10:30 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.192% |
 | 11:00 | INR | Low | Exports (USD) |  |  | 38.13B |
 | 11:00 | INR | Low | Imports (USD) |  |  | 61.91B |

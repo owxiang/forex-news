@@ -19,7 +19,7 @@
 | 07:30 | INR | WPI Food (YoY) (Jun) | 10.87% |  | 9.82% |
 | 07:30 | INR | WPI Fuel (YoY) (Jun) | 1.03% |  | 1.35% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) | 1.43% |  | 0.78% |
-| 10:00 | EUR | Industrial Production (YoY) (May) |  |  | -3.0% |
+| 52 min | EUR | Industrial Production (YoY) (May) |  |  | -3.0% |
 | 10:30 | EUR | German 12-Month Bubill Auction |  |  | 3.192% |
 | 11:00 | INR | Exports (USD) |  |  | 38.13B |
 | 11:00 | INR | Imports (USD) |  |  | 61.91B |
