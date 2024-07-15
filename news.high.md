@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 03:00 | CNY | GDP (YoY) (Q2) | 4.7% | 5.1% | 5.3% |
-| 17:00 | USD | Fed Chair Powell Speaks |  |  |  |
+| 17:30 | USD | Fed Chair Powell Speaks |  |  |  |
