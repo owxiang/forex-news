@@ -32,19 +32,19 @@
 | 09:40 | INR | Low | Exports (USD) (Jun) | 35.20B |  | 38.13B |
 | 09:40 | INR | Low | Imports (USD) (Jun) | 56.18B |  | 61.91B |
 | 09:40 | INR | Low | Trade Balance (Jun) | -20.98B |  | -23.78B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,267.63B |  | 1,253.37B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (May) | 0.25% |  | 0.01% |
-| 20 min | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
-| 20 min | CAD | Low | Manufacturing Sales (MoM) (May) |  | 0.3% | 1.1% |
-| 20 min | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 175.1K |
-| 20 min | CAD | Moderate | Wholesale Sales (MoM) (May) |  | 2.0% | 2.4% |
-| 50 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.439% |
-| 50 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.674% |
-| 50 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.572% |
+| 13:00 | BRL | Low | IBC-Br Economic Activity (May) | 0.25% |  | 0.26% |
+| 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) | -6.60 | -5.50 | -6.00 |
+| 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) | 0.4% | 0.3% | 1.1% |
+| 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) | 184.7K |  | 175.1K |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) (May) | -0.8% | 2.0% | 2.4% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.355% |  | 3.439% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.602% |  | 3.674% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.537% |  | 3.572% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
