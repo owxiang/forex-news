@@ -24,13 +24,13 @@
 | 09:40 | INR | Trade Balance (Jun) | -20.98B |  | -23.78B |
 | 10:00 | EUR | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
 | 11:00 | EUR | Reserve Assets Total (Jun) | 1,267.63B |  | 1,253.37B |
-| 20 min | BRL | BCB Focus Market Readout |  |  |  |
-| 55 min | BRL | IBC-Br Economic Activity (May) |  |  | 0.01% |
-| 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | 0.3% | 1.1% |
-| 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 175.1K |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.439% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.674% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.572% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 13:00 | BRL | IBC-Br Economic Activity (May) | 0.25% |  | 0.01% |
+| 20 min | CAD | Manufacturing Sales (MoM) (May) |  | 0.3% | 1.1% |
+| 20 min | CAD | New Motor Vehicle Sales (MoM) |  |  | 175.1K |
+| 50 min | EUR | French 12-Month BTF Auction |  |  | 3.439% |
+| 50 min | EUR | French 3-Month BTF Auction |  |  | 3.674% |
+| 50 min | EUR | French 6-Month BTF Auction |  |  | 3.572% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.230% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 5.080% |
 | 22:00 | KRW | Export Price Index (YoY) (Jun) |  |  | 7.5% |

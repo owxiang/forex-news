@@ -13,7 +13,7 @@
 | 07:30 | INR | WPI Inflation (YoY) (Jun) | 3.36% | 3.50% | 2.61% |
 | 10:00 | EUR | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
-| 13:30 | CAD | Wholesale Sales (MoM) (May) |  | 2.0% | 2.4% |
+| 20 min | USD | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
+| 20 min | CAD | Wholesale Sales (MoM) (May) |  | 2.0% | 2.4% |
 | 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
 | 21:35 | USD | FOMC Member Daly Speaks |  |  |  |
