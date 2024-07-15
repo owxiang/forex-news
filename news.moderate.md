@@ -15,5 +15,5 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | NY Empire State Manufacturing Index (Jul) | -6.60 | -5.50 | -6.00 |
 | 13:30 | CAD | Wholesale Sales (MoM) (May) | -0.8% | 2.0% | 2.4% |
-| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
+| 25 min | CAD | BoC Business Outlook Survey |  |  |  |
 | 21:35 | USD | FOMC Member Daly Speaks |  |  |  |

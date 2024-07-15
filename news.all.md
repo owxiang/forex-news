@@ -9,8 +9,8 @@
 | 03:00 | KRW | Low | Imports (YoY) (Jun) | -7.5% |  | -7.5% |
 | 03:00 | KRW | Low | Trade Balance (Jun) | 7.99B |  | 8.00B |
 | 03:00 | CNY | Moderate | Fixed Asset Investment (YoY) (Jun) | 3.9% | 3.9% | 4.0% |
-| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
 | 03:00 | CNY | High | GDP (YoY) (Q2) | 4.7% | 5.1% | 5.3% |
+| 03:00 | CNY | Moderate | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
 | 03:00 | CNY | Moderate | Chinese GDP YTD (YoY) (Q2) | 5.0% | 5.1% | 5.3% |
 | 03:00 | CNY | Moderate | Industrial Production (YoY) (Jun) | 5.3% | 4.9% | 5.6% |
 | 03:00 | CNY | Moderate | Chinese Industrial Production YTD (YoY) (Jun) | 6.0% |  | 6.2% |
@@ -45,7 +45,7 @@
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.355% |  | 3.439% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.602% |  | 3.674% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.537% |  | 3.572% |
-| 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
+| 25 min | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
 | 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
