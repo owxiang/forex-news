@@ -32,8 +32,8 @@
 | 09:40 | INR | Low | Exports (USD) (Jun) | 35.20B |  | 38.13B |
 | 09:40 | INR | Low | Imports (USD) (Jun) | 56.18B |  | 61.91B |
 | 09:40 | INR | Low | Trade Balance (Jun) | -20.98B |  | -23.78B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,267.63B |  | 1,253.37B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
@@ -46,9 +46,9 @@
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.602% |  | 3.674% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.537% |  | 3.572% |
 | 15:30 | CAD | Moderate | BoC Business Outlook Survey |  |  |  |
-| 22 min | USD | Low | 3-Month Bill Auction |  |  | 5.230% |
-| 22 min | USD | Low | 6-Month Bill Auction |  |  | 5.080% |
-| 17:30 | USD | High | Fed Chair Powell Speaks |  |  |  |
+| 16:30 | USD | Low | 3-Month Bill Auction | 5.195% |  | 5.230% |
+| 16:30 | USD | Low | 6-Month Bill Auction | 4.985% |  | 5.080% |
+| 24 min | USD | High | Fed Chair Powell Speaks |  |  |  |
 | 21:35 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
 | 22:00 | KRW | Low | Export Price Index (YoY) (Jun) |  |  | 7.5% |
 | 22:00 | KRW | Low | Import Price Index (YoY) (Jun) |  |  | 4.6% |
