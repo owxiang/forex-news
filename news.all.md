@@ -23,8 +23,8 @@
 | 05:00 | IDR | Low | Export Growth (YoY) (Jun) | 1.17% | 5.13% | 2.86% |
 | 05:00 | IDR | Low | Import Growth (YoY) (Jun) | 7.58% | 5.50% | -8.83% |
 | 05:00 | IDR | Low | Trade Balance (Jun) | 2.39B | 2.98B | 2.93B |
-| 07:30 | CHF | Moderate | PPI (MoM) (Jun) | 0.0% | 0.1% | -0.3% |
 | 07:30 | CHF | Low | PPI (YoY) (Jun) | -1.9% |  | -1.8% |
+| 07:30 | CHF | Moderate | PPI (MoM) (Jun) | 0.0% | 0.1% | -0.3% |
 | 07:30 | INR | Low | WPI Food (YoY) (Jun) | 10.87% |  | 9.82% |
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jun) | 1.03% |  | 1.35% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jun) | 3.36% | 3.50% | 2.61% |
@@ -35,9 +35,9 @@
 | 09:40 | INR | Low | Trade Balance (Jun) | -20.98B |  | -23.78B |
 | 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
-| 23 min | EUR | Low | German 12-Month Bubill Auction |  |  | 3.192% |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 53 min | EUR | Low | Reserve Assets Total (Jun) |  |  | 1,253.08B |
+| 11:00 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.192% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 11:00 | EUR | Low | Reserve Assets Total (Jun) |  |  | 1,253.08B |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  |  | 0.01% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
