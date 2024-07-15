@@ -1,19 +1,23 @@
-## 15 July 2024 - Moderate Impact Forex News
+## 16 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 03:00 | CNY | Fixed Asset Investment (YoY) (Jun) | 3.9% | 3.9% | 4.0% |
-| 03:00 | CNY | GDP (QoQ) (Q2) | 0.7% | 1.1% | 1.5% |
-| 03:00 | CNY | Chinese GDP YTD (YoY) (Q2) | 5.0% | 5.1% | 5.3% |
-| 03:00 | CNY | Industrial Production (YoY) (Jun) | 5.3% | 4.9% | 5.6% |
-| 03:00 | CNY | Chinese Industrial Production YTD (YoY) (Jun) | 6.0% |  | 6.2% |
-| 03:00 | CNY | Chinese Unemployment Rate (Jun) | 5.0% | 5.0% | 5.0% |
-| 03:00 | CNY | NBS Press Conference |  |  |  |
-| 07:30 | CHF | PPI (MoM) (Jun) | 0.0% | 0.1% | -0.3% |
-| 07:30 | INR | WPI Inflation (YoY) (Jun) | 3.36% | 3.50% | 2.61% |
-| 10:00 | EUR | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
+| 05:30 | JPY | Tertiary Industry Activity Index (MoM) |  | 0.1% | 1.9% |
+| 10:00 | EUR | German ZEW Current Conditions (Jul) |  | -74.3 | -73.8 |
+| 10:00 | EUR | German ZEW Economic Sentiment (Jul) |  | 41.2 | 47.5 |
+| 10:00 | EUR | Trade Balance (May) |  | 17.1B | 15.0B |
+| 10:00 | EUR | ZEW Economic Sentiment (Jul) |  | 48.1 | 51.3 |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | NY Empire State Manufacturing Index (Jul) | -6.60 | -5.50 | -6.00 |
-| 13:30 | CAD | Wholesale Sales (MoM) (May) | -0.8% | 2.0% | 2.4% |
-| 15:30 | CAD | BoC Business Outlook Survey |  |  |  |
-| 21:35 | USD | FOMC Member Daly Speaks |  |  |  |
+| 13:15 | CAD | Housing Starts (Jun) |  | 260.0K | 264.5K |
+| 13:30 | USD | Export Price Index (MoM) (Jun) |  |  | -0.6% |
+| 13:30 | USD | Import Price Index (MoM) (Jun) |  | 0.2% | -0.4% |
+| 13:30 | USD | Retail Control (MoM) (Jun) |  |  | 0.4% |
+| 13:30 | CAD | Core CPI (MoM) (Jun) |  |  | 0.6% |
+| 13:30 | CAD | Core CPI (YoY) (Jun) |  |  | 1.8% |
+| 13:30 | CAD | CPI (MoM) (Jun) |  | 0.1% | 0.6% |
+| 15:00 | USD | Business Inventories (MoM) (May) |  | 0.4% | 0.3% |
+| 15:00 | USD | Retail Inventories Ex Auto (May) |  | 0.0% | 0.3% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.0% | 2.0% |
+| 21:30 | USD | API Weekly Crude Oil Stock |  |  | -1.923M |
+| 23:45 | NZD | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
+| 23:45 | NZD | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
