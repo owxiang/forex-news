@@ -19,15 +19,13 @@
 | 07:30 | INR | WPI Food (YoY) (Jun) | 10.87% |  | 9.82% |
 | 07:30 | INR | WPI Fuel (YoY) (Jun) | 1.03% |  | 1.35% |
 | 07:30 | INR | WPI Manufacturing Inflation (YoY) (Jun) | 1.43% |  | 0.78% |
-| 09:10 | GBP | Rightmove House Price Index (YoY) (Jul) | 0.4% |  | 0.6% |
 | 09:40 | INR | Exports (USD) (Jun) | 35.20B |  | 38.13B |
 | 09:40 | INR | Imports (USD) (Jun) | 56.18B |  | 61.91B |
 | 09:40 | INR | Trade Balance (Jun) | -20.98B |  | -23.78B |
 | 10:00 | EUR | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
-| 11:00 | EUR | German 12-Month Bubill Auction |  |  | 3.192% |
-| 11:00 | EUR | Reserve Assets Total (Jun) |  |  | 1,253.08B |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | IBC-Br Economic Activity (May) |  |  | 0.01% |
+| 11:00 | EUR | Reserve Assets Total (Jun) | 1,267.63B |  | 1,253.37B |
+| 20 min | BRL | BCB Focus Market Readout |  |  |  |
+| 55 min | BRL | IBC-Br Economic Activity (May) |  |  | 0.01% |
 | 13:30 | CAD | Manufacturing Sales (MoM) (May) |  | 0.3% | 1.1% |
 | 13:30 | CAD | New Motor Vehicle Sales (MoM) |  |  | 175.1K |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.439% |

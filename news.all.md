@@ -29,17 +29,15 @@
 | 07:30 | INR | Low | WPI Fuel (YoY) (Jun) | 1.03% |  | 1.35% |
 | 07:30 | INR | Moderate | WPI Inflation (YoY) (Jun) | 3.36% | 3.50% | 2.61% |
 | 07:30 | INR | Low | WPI Manufacturing Inflation (YoY) (Jun) | 1.43% |  | 0.78% |
-| 09:10 | GBP | Low | Rightmove House Price Index (YoY) (Jul) | 0.4% |  | 0.6% |
 | 09:40 | INR | Low | Exports (USD) (Jun) | 35.20B |  | 38.13B |
 | 09:40 | INR | Low | Imports (USD) (Jun) | 56.18B |  | 61.91B |
 | 09:40 | INR | Low | Trade Balance (Jun) | -20.98B |  | -23.78B |
-| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 10:00 | EUR | Low | Industrial Production (YoY) (May) | -2.9% |  | -3.1% |
-| 11:00 | EUR | Low | German 12-Month Bubill Auction |  |  | 3.192% |
+| 10:00 | EUR | Moderate | Industrial Production (MoM) (May) | -0.6% | -0.9% | -0.1% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 11:00 | EUR | Low | Reserve Assets Total (Jun) |  |  | 1,253.08B |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | BRL | Low | IBC-Br Economic Activity (May) |  |  | 0.01% |
+| 11:00 | EUR | Low | Reserve Assets Total (Jun) | 1,267.63B |  | 1,253.37B |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 55 min | BRL | Low | IBC-Br Economic Activity (May) |  |  | 0.01% |
 | 13:30 | USD | Moderate | NY Empire State Manufacturing Index (Jul) |  | -5.50 | -6.00 |
 | 13:30 | CAD | Low | Manufacturing Sales (MoM) (May) |  | 0.3% | 1.1% |
 | 13:30 | CAD | Low | New Motor Vehicle Sales (MoM) |  |  | 175.1K |
