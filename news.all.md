@@ -2,15 +2,15 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 40 min | NZD | Low | RBNZ Offshore Holdings (Jun) |  |  | 57.80% |
+| 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) | 57.20% |  | 57.80% |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) |  | 0.1% | 1.9% |
 | 05:30 | JPY | Low | Tertiary Industry Activity Index (May) |  |  | -9.50 |
 | 07:45 | EUR | Low | French Current Account (May) |  |  | -1.80B |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jun) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jun) |  | 0.1% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
 | 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.580% |
 | 10:00 | EUR | Low | Italian Trade Balance (May) |  | 3.550B | 4.807B |
@@ -27,13 +27,13 @@
 | 13:00 | USD | Low | Milk Auctions |  |  | 3,782.0 |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 260.0K | 264.5K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.1% | -0.1% |
-| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  |  | -0.6% |
 | 13:30 | USD | Low | Export Price Index (YoY) |  |  | 0.6% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) |  |  | -0.6% |
 | 13:30 | USD | Low | Import Price Index (YoY) |  |  | 1.1% |
 | 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.2% | -0.4% |
 | 13:30 | USD | Moderate | Retail Control (MoM) (Jun) |  |  | 0.4% |
-| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 2.27% |
 | 13:30 | USD | High | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jun) |  |  | 2.27% |
 | 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  |  | 0.1% |
 | 13:30 | CAD | Low | Common CPI (YoY) (Jun) |  | 2.4% | 2.4% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jun) |  |  | 0.6% |
@@ -48,5 +48,5 @@
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.0% | 0.3% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.0% | 2.0% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.923M |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |

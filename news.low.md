@@ -2,14 +2,14 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 40 min | NZD | RBNZ Offshore Holdings (Jun) |  |  | 57.80% |
+| 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 57.20% |  | 57.80% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) |  |  | -9.50 |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 09:00 | EUR | Italian CPI (YoY) (Jun) |  | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI (MoM) (Jun) |  | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 0.8% |
-| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Jun) |  | 0.2% | 0.2% |
+| 09:00 | EUR | Italian HICP (YoY) (Jun) |  | 0.9% | 0.8% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.580% |
 | 10:00 | EUR | Italian Trade Balance (May) |  | 3.550B | 4.807B |
