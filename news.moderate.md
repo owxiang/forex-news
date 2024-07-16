@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Tertiary Industry Activity Index (MoM) |  | 0.1% | 1.9% |
+| 23 min | JPY | Tertiary Industry Activity Index (MoM) |  | 0.1% | 1.9% |
 | 10:00 | EUR | German ZEW Current Conditions (Jul) |  | -74.3 | -73.8 |
 | 10:00 | EUR | German ZEW Economic Sentiment (Jul) |  | 41.2 | 47.5 |
 | 10:00 | EUR | Trade Balance (May) |  | 17.1B | 15.0B |
@@ -12,8 +12,8 @@
 | 13:30 | USD | Export Price Index (MoM) (Jun) |  |  | -0.6% |
 | 13:30 | USD | Import Price Index (MoM) (Jun) |  | 0.2% | -0.4% |
 | 13:30 | USD | Retail Control (MoM) (Jun) |  |  | 0.4% |
-| 13:30 | CAD | Core CPI (MoM) (Jun) |  |  | 0.6% |
 | 13:30 | CAD | Core CPI (YoY) (Jun) |  |  | 1.8% |
+| 13:30 | CAD | Core CPI (MoM) (Jun) |  |  | 0.6% |
 | 13:30 | CAD | CPI (MoM) (Jun) |  | 0.1% | 0.6% |
 | 15:00 | USD | Business Inventories (MoM) (May) |  | 0.4% | 0.3% |
 | 15:00 | USD | Retail Inventories Ex Auto (May) |  | 0.0% | 0.3% |
