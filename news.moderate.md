@@ -19,5 +19,5 @@
 | 15:00 | USD | Retail Inventories Ex Auto (May) | 0.0% | 0.0% | 0.3% |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 2.0% | 2.0% |
 | 21:30 | USD | API Weekly Crude Oil Stock | -4.440M |  | -1.923M |
-| 23:45 | NZD | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
-| 23:45 | NZD | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
+| 38 min | NZD | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
+| 38 min | NZD | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
