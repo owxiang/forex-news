@@ -8,8 +8,8 @@
 | 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | EUR | Italian Trade Balance (May) | 6.430B | 3.550B | 4.829B |
 | 10:00 | EUR | Italian Trade Balance EU (May) | 0.52B |  | -0.21B |
