@@ -4,18 +4,19 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 57.20% |  | 57.80% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) | -1.50 |  | -9.20 |
+| 07:45 | EUR | French Current Account (May) | -3.10B |  | -3.50B |
 | 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 0.8% | 0.8% |
-| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) |  |  | 0.8% |
+| 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 0.8% |  | 0.8% |
 | 09:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
-| 51 min | GBP | 20-Year Treasury Gilt Auction |  |  | 4.580% |
-| 51 min | EUR | Italian Trade Balance (May) |  | 3.550B | 4.807B |
-| 51 min | EUR | Italian Trade Balance EU (May) |  |  | -0.23B |
-| 10:30 | EUR | German 5-Year Bobl Auction |  |  | 2.450% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | EUR | ECOFIN Meetings |  |  |  |
+| 10:00 | GBP | 20-Year Treasury Gilt Auction |  |  | 4.580% |
+| 10:00 | EUR | Italian Trade Balance (May) | 6.430B | 3.550B | 4.829B |
+| 10:00 | EUR | Italian Trade Balance EU (May) | 0.52B |  | -0.21B |
+| 23 min | EUR | German 5-Year Bobl Auction |  |  | 2.450% |
+| 53 min | EUR | German Buba Monthly Report |  |  |  |
+| 53 min | EUR | ECOFIN Meetings |  |  |  |
 | 13:30 | USD | Export Price Index (YoY) |  |  | 0.6% |
 | 13:30 | USD | Import Price Index (YoY) |  |  | 1.1% |
 | 13:30 | USD | Retail Sales (YoY) (Jun) |  |  | 2.27% |
