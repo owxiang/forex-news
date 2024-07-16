@@ -1,6 +1,7 @@
-## 16 July 2024 - High Impact Forex News
+## 17 July 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 13:30 | USD | Core Retail Sales (MoM) (Jun) | 0.4% | 0.1% | 0.1% |
-| 13:30 | USD | Retail Sales (MoM) (Jun) | 0.0% | -0.3% | 0.3% |
+| 07:00 | GBP | CPI (YoY) (Jun) |  | 1.9% | 2.0% |
+| 10:00 | EUR | CPI (YoY) (Jun) |  | 2.5% | 2.6% |
+| 15:30 | USD | Crude Oil Inventories |  |  | -3.443M |

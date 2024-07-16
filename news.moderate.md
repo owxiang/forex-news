@@ -1,23 +1,20 @@
-## 16 July 2024 - Moderate Impact Forex News
+## 17 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 05:30 | JPY | Tertiary Industry Activity Index (MoM) | -0.4% | 0.1% | 2.2% |
-| 10:00 | EUR | German ZEW Current Conditions (Jul) | -68.9 | -74.3 | -73.8 |
-| 10:00 | EUR | German ZEW Economic Sentiment (Jul) | 41.8 | 41.2 | 47.5 |
-| 10:00 | EUR | Trade Balance (May) | 13.9B | 18.0B | 14.2B |
-| 10:00 | EUR | ZEW Economic Sentiment (Jul) | 43.7 | 48.1 | 51.3 |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:15 | CAD | Housing Starts (Jun) | 241.7K | 255.0K | 264.9K |
-| 13:30 | USD | Export Price Index (MoM) (Jun) | -0.5% | -0.1% | -0.7% |
-| 13:30 | USD | Import Price Index (MoM) (Jun) | 0.0% | 0.2% | -0.2% |
-| 13:30 | USD | Retail Control (MoM) (Jun) | 0.9% | 0.2% | 0.4% |
-| 13:30 | CAD | Core CPI (MoM) (Jun) | -0.1% |  | 0.6% |
-| 13:30 | CAD | Core CPI (YoY) (Jun) | 1.9% |  | 1.8% |
-| 13:30 | CAD | CPI (MoM) (Jun) | -0.1% | 0.1% | 0.6% |
-| 15:00 | USD | Business Inventories (MoM) (May) | 0.5% | 0.4% | 0.3% |
-| 15:00 | USD | Retail Inventories Ex Auto (May) | 0.0% | 0.0% | 0.3% |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.5% | 2.0% | 2.0% |
-| 21:30 | USD | API Weekly Crude Oil Stock | -4.440M |  | -1.923M |
-| 38 min | NZD | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
-| 38 min | NZD | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
+| 07:00 | GBP | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
+| 07:00 | GBP | PPI Input (MoM) (Jun) |  | 0.1% | 0.0% |
+| 08:30 | IDR | Interest Rate Decision |  |  | 6.25% |
+| 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
+| 10:00 | EUR | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 13:30 | USD | Building Permits (Jun) |  | 1.400M | 1.399M |
+| 13:30 | USD | Housing Starts (Jun) |  | 1.300M | 1.277M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -5.5% |
+| 13:30 | CAD | Foreign Securities Purchases (May) |  |  | 41.16B |
+| 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 0.13% |
+| 14:15 | USD | Industrial Production (MoM) (Jun) |  | 0.3% | 0.9% |
+| 14:35 | USD | Fed Waller Speaks |  |  |  |
+| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.702M |
+| 16:15 | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
+| 18:00 | USD | 20-Year Bond Auction |  |  | 4.452% |
+| 19:00 | USD | Beige Book |  |  |  |
