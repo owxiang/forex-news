@@ -3,4 +3,4 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 13:30 | USD | Core Retail Sales (MoM) (Jun) |  | 0.1% | -0.1% |
-| 13:30 | USD | Retail Sales (MoM) (Jun) |  | -0.2% | 0.1% |
+| 13:30 | USD | Retail Sales (MoM) (Jun) |  | -0.3% | 0.1% |
