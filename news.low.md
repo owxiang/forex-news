@@ -17,15 +17,15 @@
 | 10:50 | EUR | German 5-Year Bobl Auction | 2.390% |  | 2.450% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | ECOFIN Meetings |  |  |  |
-| 22 min | USD | Export Price Index (YoY) |  | 1.0% | 0.6% |
-| 22 min | USD | Import Price Index (YoY) |  | 1.0% | 1.1% |
-| 22 min | USD | Retail Sales (YoY) (Jun) |  |  | 2.27% |
-| 22 min | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) |  | 0.2% | 0.1% |
-| 22 min | CAD | Common CPI (YoY) (Jun) |  | 2.4% | 2.4% |
-| 22 min | CAD | CPI (YoY) (Jun) |  |  | 2.9% |
-| 22 min | CAD | Median CPI (YoY) (Jun) |  | 2.7% | 2.8% |
-| 22 min | CAD | Trimmed CPI (YoY) (Jun) |  | 2.8% | 2.9% |
-| 47 min | USD | Redbook (YoY) |  |  | 6.3% |
-| 15:00 | USD | NAHB Housing Market Index (Jul) |  | 43 | 43 |
+| 13:30 | USD | Export Price Index (YoY) (Jun) | 0.7% | 1.0% | 0.5% |
+| 13:30 | USD | Import Price Index (YoY) (Jun) | 1.6% | 1.0% | 1.4% |
+| 13:30 | USD | Retail Sales (YoY) (Jun) | 2.28% |  | 2.59% |
+| 13:30 | USD | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.8% | 0.2% | 0.3% |
+| 13:30 | CAD | Common CPI (YoY) (Jun) | 2.3% | 2.4% | 2.4% |
+| 13:30 | CAD | CPI (YoY) (Jun) | 2.7% |  | 2.9% |
+| 13:30 | CAD | Median CPI (YoY) (Jun) | 2.6% | 2.7% | 2.7% |
+| 13:30 | CAD | Trimmed CPI (YoY) (Jun) | 2.9% | 2.8% | 2.9% |
+| 13:55 | USD | Redbook (YoY) | 4.8% |  | 6.3% |
+| 55 min | USD | NAHB Housing Market Index (Jul) |  | 43 | 43 |
 | 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -6.9% |
 | 16:00 | USD | Milk Auctions |  |  | 3,782.0 |

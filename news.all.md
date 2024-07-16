@@ -23,27 +23,27 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 7 min | CAD | Moderate | Housing Starts (Jun) |  | 255.0K | 264.5K |
-| 22 min | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.1% | -0.1% |
-| 22 min | USD | Low | Export Price Index (YoY) |  | 1.0% | 0.6% |
-| 22 min | USD | Moderate | Export Price Index (MoM) (Jun) |  | -0.1% | -0.6% |
-| 22 min | USD | Moderate | Import Price Index (MoM) (Jun) |  | 0.2% | -0.4% |
-| 22 min | USD | Low | Import Price Index (YoY) |  | 1.0% | 1.1% |
-| 22 min | USD | Moderate | Retail Control (MoM) (Jun) |  | 0.2% | 0.4% |
-| 22 min | USD | Low | Retail Sales (YoY) (Jun) |  |  | 2.27% |
-| 22 min | USD | High | Retail Sales (MoM) (Jun) |  | -0.3% | 0.1% |
-| 22 min | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) |  | 0.2% | 0.1% |
-| 22 min | CAD | Low | Common CPI (YoY) (Jun) |  | 2.4% | 2.4% |
-| 22 min | CAD | Moderate | Core CPI (MoM) (Jun) |  |  | 0.6% |
-| 22 min | CAD | Moderate | Core CPI (YoY) (Jun) |  |  | 1.8% |
-| 22 min | CAD | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.6% |
-| 22 min | CAD | Low | CPI (YoY) (Jun) |  |  | 2.9% |
-| 22 min | CAD | Low | Median CPI (YoY) (Jun) |  | 2.7% | 2.8% |
-| 22 min | CAD | Low | Trimmed CPI (YoY) (Jun) |  | 2.8% | 2.9% |
-| 47 min | USD | Low | Redbook (YoY) |  |  | 6.3% |
-| 15:00 | USD | Moderate | Business Inventories (MoM) (May) |  | 0.4% | 0.3% |
-| 15:00 | USD | Low | NAHB Housing Market Index (Jul) |  | 43 | 43 |
-| 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.0% | 0.3% |
+| 13:15 | CAD | Moderate | Housing Starts (Jun) | 241.7K | 255.0K | 264.9K |
+| 13:30 | USD | High | Core Retail Sales (MoM) (Jun) | 0.4% | 0.1% | 0.1% |
+| 13:30 | USD | Low | Export Price Index (YoY) (Jun) | 0.7% | 1.0% | 0.5% |
+| 13:30 | USD | Moderate | Export Price Index (MoM) (Jun) | -0.5% | -0.1% | -0.7% |
+| 13:30 | USD | Moderate | Import Price Index (MoM) (Jun) | 0.0% | 0.2% | -0.2% |
+| 13:30 | USD | Low | Import Price Index (YoY) (Jun) | 1.6% | 1.0% | 1.4% |
+| 13:30 | USD | Moderate | Retail Control (MoM) (Jun) | 0.9% | 0.2% | 0.4% |
+| 13:30 | USD | High | Retail Sales (MoM) (Jun) | 0.0% | -0.3% | 0.3% |
+| 13:30 | USD | Low | Retail Sales (YoY) (Jun) | 2.28% |  | 2.59% |
+| 13:30 | USD | Low | Retail Sales Ex Gas/Autos (MoM) (Jun) | 0.8% | 0.2% | 0.3% |
+| 13:30 | CAD | Low | Common CPI (YoY) (Jun) | 2.3% | 2.4% | 2.4% |
+| 13:30 | CAD | Moderate | Core CPI (MoM) (Jun) | -0.1% |  | 0.6% |
+| 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) | 1.9% |  | 1.8% |
+| 13:30 | CAD | Moderate | CPI (MoM) (Jun) | -0.1% | 0.1% | 0.6% |
+| 13:30 | CAD | Low | CPI (YoY) (Jun) | 2.7% |  | 2.9% |
+| 13:30 | CAD | Low | Median CPI (YoY) (Jun) | 2.6% | 2.7% | 2.7% |
+| 13:30 | CAD | Low | Trimmed CPI (YoY) (Jun) | 2.9% | 2.8% | 2.9% |
+| 13:55 | USD | Low | Redbook (YoY) | 4.8% |  | 6.3% |
+| 55 min | USD | Moderate | Business Inventories (MoM) (May) |  | 0.4% | 0.3% |
+| 55 min | USD | Low | NAHB Housing Market Index (Jul) |  | 43 | 43 |
+| 55 min | USD | Moderate | Retail Inventories Ex Auto (May) |  | 0.0% | 0.3% |
 | 16:00 | NZD | Low | GlobalDairyTrade Price Index |  |  | -6.9% |
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,782.0 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.0% | 2.0% |
