@@ -5,8 +5,8 @@
 | 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 57.20% |  | 57.80% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) | -1.50 |  | -9.20 |
 | 07:45 | EUR | French Current Account (May) | -3.10B |  | -3.50B |
-| 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 0.8% | 0.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 0.8% |  | 0.8% |
 | 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
