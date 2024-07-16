@@ -47,6 +47,6 @@
 | 15:00 | USD | Low | NAHB Housing Market Index (Jul) | 42 | 43 | 43 |
 | 15:00 | USD | Moderate | Retail Inventories Ex Auto (May) | 0.0% | 0.0% | 0.3% |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.5% | 2.0% | 2.0% |
-| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.923M |
+| 21:30 | USD | Moderate | API Weekly Crude Oil Stock | -4.440M |  | -1.923M |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
 | 23:45 | NZD | Moderate | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
