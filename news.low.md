@@ -5,11 +5,11 @@
 | 04:00 | NZD | RBNZ Offshore Holdings (Jun) | 57.20% |  | 57.80% |
 | 05:30 | JPY | Tertiary Industry Activity Index (May) | -1.50 |  | -9.20 |
 | 07:45 | EUR | French Current Account (May) | -3.10B |  | -3.50B |
-| 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI (YoY) (Jun) | 0.8% | 0.8% | 0.8% |
+| 09:00 | EUR | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Italian CPI Ex Tobacco (YoY) (Jun) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
+| 09:00 | EUR | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 09:00 | EUR | ECB Bank Lending Survey |  |  |  |
 | 10:00 | EUR | Italian Trade Balance (May) | 6.430B | 3.550B | 4.829B |
 | 10:00 | EUR | Italian Trade Balance EU (May) | 0.52B |  | -0.21B |
@@ -26,6 +26,6 @@
 | 13:30 | CAD | Median CPI (YoY) (Jun) | 2.6% | 2.7% | 2.7% |
 | 13:30 | CAD | Trimmed CPI (YoY) (Jun) | 2.9% | 2.8% | 2.9% |
 | 13:55 | USD | Redbook (YoY) | 4.8% |  | 6.3% |
-| 55 min | USD | NAHB Housing Market Index (Jul) |  | 43 | 43 |
-| 16:00 | NZD | GlobalDairyTrade Price Index |  |  | -6.9% |
-| 16:00 | USD | Milk Auctions |  |  | 3,782.0 |
+| 15:00 | USD | NAHB Housing Market Index (Jul) | 42 | 43 | 43 |
+| 54 min | NZD | GlobalDairyTrade Price Index |  |  | -6.9% |
+| 54 min | USD | Milk Auctions |  |  | 3,782.0 |
