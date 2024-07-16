@@ -3,26 +3,26 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 04:00 | NZD | Low | RBNZ Offshore Holdings (Jun) | 57.20% |  | 57.80% |
-| 05:30 | JPY | Low | Tertiary Industry Activity Index (May) | -1.50 |  | -9.20 |
 | 05:30 | JPY | Moderate | Tertiary Industry Activity Index (MoM) | -0.4% | 0.1% | 2.2% |
+| 05:30 | JPY | Low | Tertiary Industry Activity Index (May) | -1.50 |  | -9.20 |
 | 07:45 | EUR | Low | French Current Account (May) | -3.10B |  | -3.50B |
 | 09:00 | EUR | Low | Italian CPI (MoM) (Jun) | 0.1% | 0.1% | 0.2% |
 | 09:00 | EUR | Low | Italian CPI (YoY) (Jun) | 0.8% | 0.8% | 0.8% |
 | 09:00 | EUR | Low | Italian CPI Ex Tobacco (YoY) (Jun) | 0.8% |  | 0.8% |
-| 09:00 | EUR | Low | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
 | 09:00 | EUR | Low | Italian HICP (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
+| 09:00 | EUR | Low | Italian HICP (YoY) (Jun) | 0.9% | 0.9% | 0.8% |
 | 09:00 | EUR | Low | ECB Bank Lending Survey |  |  |  |
-| 10:00 | GBP | Low | 20-Year Treasury Gilt Auction |  |  | 4.580% |
 | 10:00 | EUR | Low | Italian Trade Balance (May) | 6.430B | 3.550B | 4.829B |
 | 10:00 | EUR | Low | Italian Trade Balance EU (May) | 0.52B |  | -0.21B |
 | 10:00 | EUR | Moderate | German ZEW Current Conditions (Jul) | -68.9 | -74.3 | -73.8 |
 | 10:00 | EUR | Moderate | German ZEW Economic Sentiment (Jul) | 41.8 | 41.2 | 47.5 |
-| 10:00 | EUR | Moderate | Trade Balance (May) | 13.9B | 18.0B | 15.0B |
+| 10:00 | EUR | Moderate | Trade Balance (May) | 13.9B | 18.0B | 14.2B |
 | 10:00 | EUR | Moderate | ZEW Economic Sentiment (Jul) | 43.7 | 48.1 | 51.3 |
-| 23 min | EUR | Low | German 5-Year Bobl Auction |  |  | 2.450% |
-| 53 min | EUR | Low | German Buba Monthly Report |  |  |  |
-| 53 min | EUR | Low | ECOFIN Meetings |  |  |  |
-| 53 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 10:20 | GBP | Low | 20-Year Treasury Gilt Auction | 4.519% |  | 4.580% |
+| 10:50 | EUR | Low | German 5-Year Bobl Auction | 2.390% |  | 2.450% |
+| 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
+| 11:00 | EUR | Low | ECOFIN Meetings |  |  |  |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:15 | CAD | Moderate | Housing Starts (Jun) |  | 255.0K | 264.5K |
 | 13:30 | USD | High | Core Retail Sales (MoM) (Jun) |  | 0.1% | -0.1% |
 | 13:30 | USD | Low | Export Price Index (YoY) |  |  | 0.6% |
@@ -36,8 +36,8 @@
 | 13:30 | CAD | Low | Common CPI (YoY) (Jun) |  | 2.4% | 2.4% |
 | 13:30 | CAD | Moderate | Core CPI (MoM) (Jun) |  |  | 0.6% |
 | 13:30 | CAD | Moderate | Core CPI (YoY) (Jun) |  |  | 1.8% |
-| 13:30 | CAD | Low | CPI (YoY) (Jun) |  |  | 2.9% |
 | 13:30 | CAD | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.6% |
+| 13:30 | CAD | Low | CPI (YoY) (Jun) |  |  | 2.9% |
 | 13:30 | CAD | Low | Median CPI (YoY) (Jun) |  | 2.7% | 2.8% |
 | 13:30 | CAD | Low | Trimmed CPI (YoY) (Jun) |  | 2.8% | 2.9% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 6.3% |
@@ -48,5 +48,5 @@
 | 16:00 | USD | Low | Milk Auctions |  |  | 3,782.0 |
 | 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.0% | 2.0% |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  |  | -1.923M |
-| 23:45 | NZD | Moderate | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
 | 23:45 | NZD | Moderate | CPI (YoY) (Q2) |  | 3.5% | 4.0% |
+| 23:45 | NZD | Moderate | CPI (QoQ) (Q2) |  | 0.5% | 0.6% |
