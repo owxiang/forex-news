@@ -9,16 +9,16 @@
 | 02:00 | AUD | MI Leading Index (MoM) (Jun) | 0.0% |  | 0.0% |
 | 07:00 | GBP | Core CPI (YoY) (Jun) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jun) |  |  | 0.5% |
-| 07:00 | GBP | Core PPI Output (MoM) (Jun) |  |  | 0.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jun) |  |  | 1.0% |
-| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 1.9% |
+| 07:00 | GBP | Core PPI Output (MoM) (Jun) |  |  | 0.2% |
 | 07:00 | GBP | Core RPI (MoM) (Jun) |  |  | 0.3% |
+| 07:00 | GBP | Core RPI (YoY) (Jun) |  |  | 1.9% |
 | 07:00 | GBP | CPI, n.s.a (Jun) |  |  | 133.90 |
 | 07:00 | GBP | PPI Input (YoY) (Jun) |  |  | -0.1% |
-| 07:00 | GBP | PPI Output (MoM) (Jun) |  | 0.1% | -0.1% |
 | 07:00 | GBP | PPI Output (YoY) (Jun) |  |  | 1.7% |
-| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.2% | 0.4% |
+| 07:00 | GBP | PPI Output (MoM) (Jun) |  | 0.1% | -0.1% |
 | 07:00 | GBP | RPI (YoY) (Jun) |  | 2.9% | 3.0% |
+| 07:00 | GBP | RPI (MoM) (Jun) |  | 0.2% | 0.4% |
 | 07:45 | EUR | French Current Account (May) |  |  | -1.80B |
 | 08:00 | IDR | Loans (YoY) (Jun) |  |  | 12.15% |
 | 08:30 | IDR | Deposit Facility Rate (Jul) |  |  | 5.50% |
@@ -26,8 +26,8 @@
 | 09:30 | GBP | House Price Index (YoY) |  | 1.5% | 1.1% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.083% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) |  | 0.3% | 0.4% |
-| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | 0.2% |
 | 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 2.5% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | 0.2% |
 | 10:00 | EUR | CPI, n.s.a |  |  | 126.58 |
 | 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 2.8% | 2.9% |
 | 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.4% | 0.4% |
