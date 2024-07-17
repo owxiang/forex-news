@@ -8,13 +8,13 @@
 | 08:30 | IDR | Interest Rate Decision | 6.25% |  | 6.25% |
 | 10:00 | EUR | Core CPI (YoY) (Jun) | 2.9% | 2.9% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
-| 21 min | USD | Building Permits (Jun) |  | 1.400M | 1.399M |
-| 21 min | USD | Housing Starts (MoM) (Jun) |  |  | -5.5% |
-| 21 min | USD | Housing Starts (Jun) |  | 1.300M | 1.277M |
-| 21 min | CAD | Foreign Securities Purchases (May) |  |  | 41.16B |
-| 14:15 | USD | Industrial Production (YoY) (Jun) |  |  | 0.13% |
-| 14:15 | USD | Industrial Production (MoM) (Jun) |  | 0.3% | 0.9% |
-| 14:35 | USD | Fed Waller Speaks |  |  |  |
+| 13:30 | USD | Building Permits (Jun) | 1.446M | 1.400M | 1.399M |
+| 13:30 | USD | Housing Starts (MoM) (Jun) | 3.0% |  | -4.6% |
+| 13:30 | USD | Housing Starts (Jun) | 1.353M | 1.300M | 1.314M |
+| 13:30 | CAD | Foreign Securities Purchases (May) | 20.89B |  | 41.05B |
+| 7 min | USD | Industrial Production (MoM) (Jun) |  | 0.3% | 0.9% |
+| 7 min | USD | Industrial Production (YoY) (Jun) |  |  | 0.13% |
+| 27 min | USD | Fed Waller Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.702M |
 | 16:15 | USD | Atlanta Fed GDPNow (Q2) |  | 2.5% | 2.5% |
 | 18:00 | USD | 20-Year Bond Auction |  |  | 4.452% |
