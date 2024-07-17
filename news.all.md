@@ -19,8 +19,8 @@
 | 07:00 | GBP | Moderate | CPIH (YoY) | 2.8% | 2.8% | 2.8% |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jun) | -0.4% |  | -0.7% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jun) | -0.8% | 0.1% | -0.6% |
-| 07:00 | GBP | Low | PPI Output (YoY) (Jun) | 1.4% | 1.8% | 1.7% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jun) | -0.3% | 0.1% | -0.1% |
+| 07:00 | GBP | Low | PPI Output (YoY) (Jun) | 1.4% | 1.8% | 1.7% |
 | 07:00 | GBP | Low | RPI (MoM) (Jun) | 0.2% | 0.2% | 0.4% |
 | 07:00 | GBP | Low | RPI (YoY) (Jun) | 2.9% | 2.9% | 3.0% |
 | 08:20 | IDR | Low | Loans (YoY) (Jun) | 12.36% |  | 12.15% |
@@ -28,8 +28,8 @@
 | 08:30 | IDR | Low | Deposit Facility Rate (Jul) | 5.50% |  | 5.50% |
 | 08:30 | IDR | Low | Lending Facility Rate (Jul) | 7.00% |  | 7.00% |
 | 09:30 | GBP | Low | House Price Index (YoY) | 2.2% | 1.5% | 1.3% |
-| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% | 0.3% | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.9% | 2.9% | 2.9% |
+| 10:00 | EUR | Low | Core CPI (MoM) (Jun) | 0.4% | 0.3% | 0.4% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 2.4% |  | 2.5% |
@@ -70,6 +70,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.7% |  | 1.9% |
 | 15:30 | USD | Low | Gasoline Inventories | 3.328M | -1.700M | -2.006M |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.7% | 2.5% | 2.5% |
-| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.452% |
-| 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.839B |
-| 19:00 | USD | Moderate | Beige Book |  |  |  |
+| 18:00 | USD | Moderate | 20-Year Bond Auction | 4.466% |  | 4.452% |
+| 25 min | BRL | Low | Foreign Exchange Flows |  |  | -0.839B |
+| 55 min | USD | Moderate | Beige Book |  |  |  |

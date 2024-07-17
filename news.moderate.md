@@ -17,5 +17,5 @@
 | 14:35 | USD | Fed Waller Speaks |  |  |  |
 | 15:30 | USD | Cushing Crude Oil Inventories | -0.875M |  | -0.702M |
 | 16:00 | USD | Atlanta Fed GDPNow (Q2) | 2.7% | 2.5% | 2.5% |
-| 54 min | USD | 20-Year Bond Auction |  |  | 4.452% |
-| 19:00 | USD | Beige Book |  |  |  |
+| 18:00 | USD | 20-Year Bond Auction | 4.466% |  | 4.452% |
+| 55 min | USD | Beige Book |  |  |  |

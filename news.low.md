@@ -15,8 +15,8 @@
 | 07:00 | GBP | Core RPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 07:00 | GBP | CPI, n.s.a (Jun) | 134.10 |  | 133.90 |
 | 07:00 | GBP | PPI Input (YoY) (Jun) | -0.4% |  | -0.7% |
-| 07:00 | GBP | PPI Output (YoY) (Jun) | 1.4% | 1.8% | 1.7% |
 | 07:00 | GBP | PPI Output (MoM) (Jun) | -0.3% | 0.1% | -0.1% |
+| 07:00 | GBP | PPI Output (YoY) (Jun) | 1.4% | 1.8% | 1.7% |
 | 07:00 | GBP | RPI (MoM) (Jun) | 0.2% | 0.2% | 0.4% |
 | 07:00 | GBP | RPI (YoY) (Jun) | 2.9% | 2.9% | 3.0% |
 | 08:20 | IDR | Loans (YoY) (Jun) | 12.36% |  | 12.15% |
@@ -52,4 +52,4 @@
 | 15:30 | USD | Heating Oil Stockpiles | 0.252M |  | 0.356M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -1.7% |  | 1.9% |
 | 15:30 | USD | Gasoline Inventories | 3.328M | -1.700M | -2.006M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.839B |
+| 25 min | BRL | Foreign Exchange Flows |  |  | -0.839B |
