@@ -16,8 +16,8 @@
 | 07:00 | GBP | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
 | 07:00 | GBP | High | CPI (YoY) (Jun) |  | 1.9% | 2.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jun) |  |  | 133.90 |
-| 07:00 | GBP | Low | PPI Input (YoY) (Jun) |  |  | -0.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jun) |  | 0.1% | 0.0% |
+| 07:00 | GBP | Low | PPI Input (YoY) (Jun) |  |  | -0.1% |
 | 07:00 | GBP | Low | PPI Output (YoY) (Jun) |  |  | 1.7% |
 | 07:00 | GBP | Low | PPI Output (MoM) (Jun) |  | 0.1% | -0.1% |
 | 07:00 | GBP | Low | RPI (YoY) (Jun) |  | 2.9% | 3.0% |
@@ -29,8 +29,8 @@
 | 08:30 | IDR | Low | Lending Facility Rate (Jul) |  |  | 7.00% |
 | 09:30 | GBP | Low | House Price Index (YoY) |  | 1.5% | 1.1% |
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.083% |
-| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.3% | 0.4% |
+| 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.5% | 2.6% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 2.5% |
