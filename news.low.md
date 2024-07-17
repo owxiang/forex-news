@@ -3,25 +3,25 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Jul) | 11 |  | 6 |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | -8.70% | -1.20% | -0.70% |
 | 01:30 | SGD | Non-Oil Exports (MoM) (Jun) | -0.40% | 4.10% | -0.70% |
+| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | -8.70% | -1.20% | -0.70% |
 | 01:30 | SGD | Trade Balance | 3.078B |  | 4.282B |
 | 02:00 | AUD | MI Leading Index (MoM) (Jun) | 0.0% |  | 0.0% |
-| 07:00 | GBP | Core CPI (YoY) (Jun) | 3.5% | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jun) | 0.2% | 0.1% | 0.5% |
+| 07:00 | GBP | Core CPI (YoY) (Jun) | 3.5% | 3.4% | 3.5% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jun) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jun) | 1.1% |  | 1.0% |
 | 07:00 | GBP | Core RPI (YoY) (Jun) | 1.9% |  | 1.9% |
 | 07:00 | GBP | Core RPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 07:00 | GBP | CPI, n.s.a (Jun) | 134.10 |  | 133.90 |
 | 07:00 | GBP | PPI Input (YoY) (Jun) | -0.4% |  | -0.7% |
-| 07:00 | GBP | PPI Output (YoY) (Jun) | 1.4% | 1.8% | 1.7% |
 | 07:00 | GBP | PPI Output (MoM) (Jun) | -0.3% | 0.1% | -0.1% |
+| 07:00 | GBP | PPI Output (YoY) (Jun) | 1.4% | 1.8% | 1.7% |
 | 07:00 | GBP | RPI (MoM) (Jun) | 0.2% | 0.2% | 0.4% |
 | 07:00 | GBP | RPI (YoY) (Jun) | 2.9% | 2.9% | 3.0% |
-| 08:20 | IDR | Loans (YoY) (Jun) |  |  | 12.15% |
-| 08:30 | IDR | Deposit Facility Rate (Jul) |  |  | 5.50% |
-| 08:30 | IDR | Lending Facility Rate (Jul) |  |  | 7.00% |
+| 15 min | IDR | Loans (YoY) (Jun) |  |  | 12.15% |
+| 25 min | IDR | Deposit Facility Rate (Jul) |  |  | 5.50% |
+| 25 min | IDR | Lending Facility Rate (Jul) |  |  | 7.00% |
 | 09:30 | GBP | House Price Index (YoY) |  | 1.5% | 1.1% |
 | 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.083% |
 | 10:00 | EUR | Core CPI (MoM) (Jun) |  | 0.3% | 0.4% |
