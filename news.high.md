@@ -1,7 +1,9 @@
-## 17 July 2024 - High Impact Forex News
+## 18 July 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (YoY) (Jun) | 2.0% | 1.9% | 2.0% |
-| 10:00 | EUR | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
-| 15:30 | USD | Crude Oil Inventories | -4.870M | -0.900M | -3.443M |
+| 13:15 | EUR | Deposit Facility Rate (Jul) |  | 3.75% | 3.75% |
+| 13:15 | EUR | ECB Interest Rate Decision (Jul) |  | 4.25% | 4.25% |
+| 13:30 | USD | Initial Jobless Claims |  | 229K | 222K |
+| 13:30 | USD | Philadelphia Fed Manufacturing Index (Jul) |  | 2.7 | 1.3 |
+| 13:45 | EUR | ECB Press Conference |  |  |  |

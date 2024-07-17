@@ -1,21 +1,28 @@
-## 17 July 2024 - Moderate Impact Forex News
+## 18 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.3% |
-| 07:00 | GBP | CPIH (YoY) | 2.8% | 2.8% | 2.8% |
-| 07:00 | GBP | PPI Input (MoM) (Jun) | -0.8% | 0.1% | -0.6% |
-| 08:30 | IDR | Interest Rate Decision | 6.25% |  | 6.25% |
-| 10:00 | EUR | Core CPI (YoY) (Jun) | 2.9% | 2.9% | 2.9% |
-| 10:00 | EUR | CPI (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
-| 13:30 | USD | Building Permits (Jun) | 1.446M | 1.400M | 1.399M |
-| 13:30 | USD | Housing Starts (Jun) | 1.353M | 1.300M | 1.314M |
-| 13:30 | USD | Housing Starts (MoM) (Jun) | 3.0% |  | -4.6% |
-| 13:30 | CAD | Foreign Securities Purchases (May) | 20.89B |  | 41.05B |
-| 14:15 | USD | Industrial Production (YoY) (Jun) | 1.58% |  | 0.34% |
-| 14:15 | USD | Industrial Production (MoM) (Jun) | 0.6% | 0.3% | 0.9% |
-| 14:35 | USD | Fed Waller Speaks |  |  |  |
-| 15:30 | USD | Cushing Crude Oil Inventories | -0.875M |  | -0.702M |
-| 16:00 | USD | Atlanta Fed GDPNow (Q2) | 2.7% | 2.5% | 2.5% |
-| 18:00 | USD | 20-Year Bond Auction | 4.466% |  | 4.452% |
-| 19:00 | USD | Beige Book |  |  |  |
+| 44 min | JPY | Adjusted Trade Balance |  | -0.82T | -0.62T |
+| 44 min | JPY | Exports (YoY) (Jun) |  | 6.4% | 13.5% |
+| 44 min | JPY | Trade Balance (Jun) |  | -240.0B | -1,221.3B |
+| 02:30 | AUD | Employment Change (Jun) |  | 19.9K | 39.7K |
+| 02:30 | AUD | Full Employment Change (Jun) |  |  | 41.7K |
+| 02:30 | AUD | Unemployment Rate (Jun) |  | 4.1% | 4.0% |
+| 07:00 | GBP | Average Earnings Index +Bonus (May) |  | 5.7% | 5.9% |
+| 07:00 | GBP | Claimant Count Change (Jun) |  | 23.4K | 50.4K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (May) |  | 18K | -140K |
+| 07:00 | GBP | Unemployment Rate (May) |  | 4.4% | 4.4% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,852K |
+| 13:30 | USD | Philly Fed Employment (Jul) |  |  | -2.5 |
+| 14:00 | ZAR | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
+| 15:00 | USD | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 10-Year TIPS Auction |  |  | 2.184% |
+| 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
+| 23:05 | USD | FOMC Member Daly Speaks |  |  |  |
+| 23:45 | NZD | CPI (QoQ) |  | 0.6% | 0.6% |
+| 23:45 | NZD | CPI (YoY) |  | 3.5% | 4.0% |
