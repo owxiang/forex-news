@@ -5,9 +5,9 @@
 | 07:00 | GBP | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.3% |
 | 07:00 | GBP | CPIH (YoY) | 2.8% | 2.8% | 2.8% |
 | 07:00 | GBP | PPI Input (MoM) (Jun) | -0.8% | 0.1% | -0.6% |
-| 25 min | IDR | Interest Rate Decision |  |  | 6.25% |
-| 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
-| 10:00 | EUR | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
+| 08:30 | IDR | Interest Rate Decision | 6.25% |  | 6.25% |
+| 53 min | EUR | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
+| 53 min | EUR | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 13:30 | USD | Building Permits (Jun) |  | 1.400M | 1.399M |
 | 13:30 | USD | Housing Starts (MoM) (Jun) |  |  | -5.5% |
 | 13:30 | USD | Housing Starts (Jun) |  | 1.300M | 1.277M |
