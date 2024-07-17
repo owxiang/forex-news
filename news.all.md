@@ -7,10 +7,10 @@
 | 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) | -0.40% | 4.10% | -0.70% |
 | 01:30 | SGD | Low | Trade Balance | 3.078B |  | 4.282B |
 | 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) | 0.0% |  | 0.0% |
-| 07:00 | GBP | Low | Core CPI (YoY) (Jun) | 3.5% | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jun) | 0.2% | 0.1% | 0.5% |
-| 07:00 | GBP | Low | Core PPI Output (YoY) (Jun) | 1.1% |  | 1.0% |
+| 07:00 | GBP | Low | Core CPI (YoY) (Jun) | 3.5% | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core PPI Output (MoM) (Jun) | 0.1% |  | 0.2% |
+| 07:00 | GBP | Low | Core PPI Output (YoY) (Jun) | 1.1% |  | 1.0% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jun) | 1.9% |  | 1.9% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jun) | 0.2% |  | 0.3% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jun) | 0.1% | 0.1% | 0.3% |
@@ -32,8 +32,8 @@
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) | 2.9% | 2.9% | 2.9% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 10:00 | EUR | Moderate | CPI (MoM) (Jun) | 0.2% | 0.2% | 0.2% |
-| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.2% |  | 0.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) | 2.4% |  | 2.5% |
+| 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) | 0.2% |  | 0.2% |
 | 10:00 | EUR | Low | CPI, n.s.a (Jun) | 126.58 | 126.58 | 126.31 |
 | 10:00 | EUR | Low | HICP ex Energy & Food (YoY) (Jun) | 2.8% | 2.8% | 2.9% |
 | 10:00 | EUR | Low | HICP ex Energy and Food (MoM) (Jun) | 0.4% | 0.4% | 0.4% |
@@ -55,8 +55,8 @@
 | 13:30 | CAD | Low | Foreign Securities Purchases by Canadians (May) | 3.860B |  | 0.680B |
 | 14:00 | USD | Low | FOMC Member Barkin Speaks |  |  |  |
 | 14:15 | USD | Low | Capacity Utilization Rate (Jun) | 78.8% | 78.5% | 78.3% |
-| 14:15 | USD | Moderate | Industrial Production (MoM) (Jun) | 0.6% | 0.3% | 0.9% |
 | 14:15 | USD | Moderate | Industrial Production (YoY) (Jun) | 1.58% |  | 0.34% |
+| 14:15 | USD | Moderate | Industrial Production (MoM) (Jun) | 0.6% | 0.3% | 0.9% |
 | 14:15 | USD | Low | Manufacturing Production (MoM) (Jun) | 0.4% | 0.2% | 1.0% |
 | 14:35 | USD | Moderate | Fed Waller Speaks |  |  |  |
 | 15:30 | USD | High | Crude Oil Inventories | -4.870M | -0.900M | -3.443M |
@@ -70,6 +70,6 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -1.7% |  | 1.9% |
 | 15:30 | USD | Low | Gasoline Inventories | 3.328M | -1.700M | -2.006M |
 | 16:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.7% | 2.5% | 2.5% |
-| 18:00 | USD | Moderate | 20-Year Bond Auction |  |  | 4.452% |
+| 54 min | USD | Moderate | 20-Year Bond Auction |  |  | 4.452% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.839B |
 | 19:00 | USD | Moderate | Beige Book |  |  |  |
