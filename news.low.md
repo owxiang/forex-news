@@ -7,8 +7,8 @@
 | 01:30 | SGD | Non-Oil Exports (YoY) (Jun) | -8.70% | -1.20% | -0.70% |
 | 01:30 | SGD | Trade Balance | 3.078B |  | 4.282B |
 | 02:00 | AUD | MI Leading Index (MoM) (Jun) | 0.0% |  | 0.0% |
-| 07:00 | GBP | Core CPI (MoM) (Jun) | 0.2% | 0.1% | 0.5% |
 | 07:00 | GBP | Core CPI (YoY) (Jun) | 3.5% | 3.4% | 3.5% |
+| 07:00 | GBP | Core CPI (MoM) (Jun) | 0.2% | 0.1% | 0.5% |
 | 07:00 | GBP | Core PPI Output (YoY) (Jun) | 1.1% |  | 1.0% |
 | 07:00 | GBP | Core PPI Output (MoM) (Jun) | 0.1% |  | 0.2% |
 | 07:00 | GBP | Core RPI (MoM) (Jun) | 0.2% |  | 0.3% |
@@ -22,16 +22,16 @@
 | 08:20 | IDR | Loans (YoY) (Jun) | 12.36% |  | 12.15% |
 | 08:30 | IDR | Deposit Facility Rate (Jul) | 5.50% |  | 5.50% |
 | 08:30 | IDR | Lending Facility Rate (Jul) | 7.00% |  | 7.00% |
-| 23 min | GBP | House Price Index (YoY) |  | 1.5% | 1.1% |
-| 53 min | GBP | 5-Year Treasury Gilt Auction |  |  | 4.083% |
-| 53 min | EUR | Core CPI (MoM) (Jun) |  | 0.3% | 0.4% |
-| 53 min | EUR | CPI ex Tobacco (YoY) (Jun) |  |  | 2.5% |
-| 53 min | EUR | CPI ex Tobacco (MoM) (Jun) |  |  | 0.2% |
-| 53 min | EUR | CPI, n.s.a |  | 126.58 | 126.31 |
-| 53 min | EUR | HICP ex Energy & Food (YoY) (Jun) |  | 2.8% | 2.9% |
-| 53 min | EUR | HICP ex Energy and Food (MoM) (Jun) |  | 0.4% | 0.4% |
-| 10:30 | EUR | German 30-Year Bund Auction |  |  | 2.740% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
+| 09:30 | GBP | House Price Index (YoY) | 2.2% | 1.5% | 1.3% |
+| 10:00 | GBP | 5-Year Treasury Gilt Auction |  |  | 4.083% |
+| 10:00 | EUR | Core CPI (MoM) (Jun) | 0.4% | 0.3% | 0.4% |
+| 10:00 | EUR | CPI ex Tobacco (YoY) (Jun) | 2.4% |  | 2.5% |
+| 10:00 | EUR | CPI ex Tobacco (MoM) (Jun) | 0.2% |  | 0.2% |
+| 10:00 | EUR | CPI, n.s.a (Jun) | 126.58 | 126.58 | 126.31 |
+| 10:00 | EUR | HICP ex Energy & Food (YoY) (Jun) | 2.8% | 2.8% | 2.9% |
+| 10:00 | EUR | HICP ex Energy and Food (MoM) (Jun) | 0.4% | 0.4% | 0.4% |
+| 22 min | EUR | German 30-Year Bund Auction |  |  | 2.740% |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 7.00% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | -0.2% |
 | 12:00 | USD | MBA Purchase Index |  |  | 144.3 |
