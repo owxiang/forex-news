@@ -2,8 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | GBP | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
-| 07:00 | GBP | PPI Input (MoM) (Jun) |  | 0.1% | 0.0% |
+| 54 min | GBP | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
+| 54 min | GBP | CPIH (YoY) |  |  | 2.8% |
+| 54 min | GBP | PPI Input (MoM) (Jun) |  | 0.1% | 0.0% |
 | 08:30 | IDR | Interest Rate Decision |  |  | 6.25% |
 | 10:00 | EUR | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
 | 10:00 | EUR | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
