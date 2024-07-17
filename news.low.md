@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 00:00 | JPY | Reuters Tankan Index (Jul) | 11 |  | 6 |
-| 01:30 | SGD | Non-Oil Exports (MoM) (Jun) |  |  | -0.10% |
-| 01:30 | SGD | Non-Oil Exports (YoY) (Jun) |  | -1.20% | -0.10% |
-| 02:00 | AUD | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
+| 7 min | SGD | Non-Oil Exports (MoM) (Jun) |  |  | -0.10% |
+| 7 min | SGD | Non-Oil Exports (YoY) (Jun) |  | -1.20% | -0.10% |
+| 37 min | AUD | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
 | 02:30 | SGD | Trade Balance |  |  | 4.563B |
 | 07:00 | GBP | Core CPI (YoY) (Jun) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Core CPI (MoM) (Jun) |  |  | 0.5% |

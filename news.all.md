@@ -3,9 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | JPY | Low | Reuters Tankan Index (Jul) | 11 |  | 6 |
-| 01:30 | SGD | Low | Non-Oil Exports (MoM) (Jun) |  |  | -0.10% |
-| 01:30 | SGD | Low | Non-Oil Exports (YoY) (Jun) |  | -1.20% | -0.10% |
-| 02:00 | AUD | Low | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
+| 7 min | SGD | Low | Non-Oil Exports (MoM) (Jun) |  |  | -0.10% |
+| 7 min | SGD | Low | Non-Oil Exports (YoY) (Jun) |  | -1.20% | -0.10% |
+| 37 min | AUD | Low | MI Leading Index (MoM) (Jun) |  |  | -0.0% |
 | 02:30 | SGD | Low | Trade Balance |  |  | 4.563B |
 | 07:00 | GBP | Low | Core CPI (YoY) (Jun) |  | 3.4% | 3.5% |
 | 07:00 | GBP | Low | Core CPI (MoM) (Jun) |  |  | 0.5% |
@@ -13,8 +13,8 @@
 | 07:00 | GBP | Low | Core PPI Output (YoY) (Jun) |  |  | 1.0% |
 | 07:00 | GBP | Low | Core RPI (YoY) (Jun) |  |  | 1.9% |
 | 07:00 | GBP | Low | Core RPI (MoM) (Jun) |  |  | 0.3% |
-| 07:00 | GBP | High | CPI (YoY) (Jun) |  | 1.9% | 2.0% |
 | 07:00 | GBP | Moderate | CPI (MoM) (Jun) |  | 0.1% | 0.3% |
+| 07:00 | GBP | High | CPI (YoY) (Jun) |  | 1.9% | 2.0% |
 | 07:00 | GBP | Low | CPI, n.s.a (Jun) |  |  | 133.90 |
 | 07:00 | GBP | Low | PPI Input (YoY) (Jun) |  |  | -0.1% |
 | 07:00 | GBP | Moderate | PPI Input (MoM) (Jun) |  | 0.1% | 0.0% |
@@ -31,8 +31,8 @@
 | 10:00 | GBP | Low | 5-Year Treasury Gilt Auction |  |  | 4.083% |
 | 10:00 | EUR | Low | Core CPI (MoM) (Jun) |  | 0.3% | 0.4% |
 | 10:00 | EUR | Moderate | Core CPI (YoY) (Jun) |  | 2.9% | 2.9% |
-| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | High | CPI (YoY) (Jun) |  | 2.5% | 2.6% |
+| 10:00 | EUR | Moderate | CPI (MoM) (Jun) |  | 0.2% | 0.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (MoM) (Jun) |  |  | 0.2% |
 | 10:00 | EUR | Low | CPI ex Tobacco (YoY) (Jun) |  |  | 2.5% |
 | 10:00 | EUR | Low | CPI, n.s.a |  |  | 126.58 |
