@@ -13,12 +13,12 @@
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 6 min | EUR | ECB Marginal Lending Facility |  | 4.50% | 4.50% |
-| 6 min | EUR | ECB Monetary Policy Statement |  |  |  |
-| 21 min | USD | Continuing Jobless Claims |  | 1,860K | 1,852K |
-| 21 min | USD | Philly Fed Employment (Jul) |  |  | -2.5 |
-| 51 min | ZAR | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
-| 15:00 | USD | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
+| 13:15 | EUR | ECB Marginal Lending Facility | 4.50% | 4.50% | 4.50% |
+| 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims | 1,867K | 1,860K | 1,847K |
+| 13:30 | USD | Philly Fed Employment (Jul) | 15.2 |  | -2.5 |
+| 14:00 | ZAR | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
+| 52 min | USD | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 2.184% |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |

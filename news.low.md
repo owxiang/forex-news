@@ -22,12 +22,12 @@
 | 10:10 | EUR | French 8-Year OAT Auction | 2.96% |  | 3.05% |
 | 10:30 | EUR | Spanish 10-Year Obligacion Auction | 3.192% |  | 3.345% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 21 min | USD | Jobless Claims 4-Week Avg. |  |  | 233.50K |
-| 21 min | USD | Philly Fed Business Conditions (Jul) |  |  | 13.8 |
-| 21 min | USD | Philly Fed CAPEX Index (Jul) |  |  | 12.10 |
-| 21 min | USD | Philly Fed New Orders (Jul) |  |  | -2.2 |
-| 21 min | USD | Philly Fed Prices Paid (Jul) |  |  | 22.50 |
-| 51 min | ZAR | Prime Rate (Jul) |  |  | 11.75% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. | 234.75K |  | 233.75K |
+| 13:30 | USD | Philly Fed Business Conditions (Jul) | 38.7 |  | 13.8 |
+| 13:30 | USD | Philly Fed CAPEX Index (Jul) | 7.40 |  | 12.10 |
+| 13:30 | USD | Philly Fed New Orders (Jul) | 20.7 |  | -2.2 |
+| 13:30 | USD | Philly Fed Prices Paid (Jul) | 19.80 |  | 22.50 |
+| 14:00 | ZAR | Prime Rate (Jul) | 11.75% |  | 11.75% |
 | 15:30 | USD | Natural Gas Storage |  | 27B | 65B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
