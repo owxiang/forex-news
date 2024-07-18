@@ -15,16 +15,16 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) | 5.7% | 5.7% | 6.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) | 5.7% | 5.7% | 5.9% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Jun) | 21.4% |  | 10.0% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Jun) | 1.1% |  | 1.7% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Jun) | 21.4% |  | 10.0% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) | 3.0% |  | 3.0% |
