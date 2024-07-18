@@ -13,8 +13,8 @@
 | 07:00 | EUR | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | CHF | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
-| 07:00 | EUR | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
+| 07:00 | EUR | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
 | 07:00 | EUR | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 09:30 | HKD | Unemployment Rate (Jun) | 3.0% |  | 3.0% |
@@ -28,7 +28,7 @@
 | 13:30 | USD | Philly Fed New Orders (Jul) | 20.7 |  | -2.2 |
 | 13:30 | USD | Philly Fed Prices Paid (Jul) | 19.80 |  | 22.50 |
 | 14:00 | ZAR | Prime Rate (Jul) | 11.75% |  | 11.75% |
-| 15:30 | USD | Natural Gas Storage |  | 27B | 65B |
+| 24 min | USD | Natural Gas Storage |  | 27B | 65B |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
 | 18:45 | USD | Fed Logan Speaks |  |  |  |

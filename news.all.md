@@ -23,8 +23,8 @@
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
-| 07:00 | EUR | Low | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
+| 07:00 | EUR | Low | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) | 3.0% |  | 3.0% |
@@ -49,9 +49,9 @@
 | 13:45 | EUR | High | ECB Press Conference |  |  |  |
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
 | 14:00 | ZAR | Low | Prime Rate (Jul) | 11.75% |  | 11.75% |
-| 52 min | USD | Moderate | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
-| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 27B | 65B |
+| 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) | -0.2% | -0.3% | -0.4% |
+| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 24 min | USD | Low | Natural Gas Storage |  | 27B | 65B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.184% |
