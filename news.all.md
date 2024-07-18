@@ -20,8 +20,8 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
@@ -33,22 +33,22 @@
 | 10:30 | EUR | Low | Spanish 10-Year Obligacion Auction | 3.192% |  | 3.345% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:15 | EUR | High | Deposit Facility Rate (Jul) |  | 3.75% | 3.75% |
-| 13:15 | EUR | Moderate | ECB Marginal Lending Facility |  |  | 4.50% |
-| 13:15 | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
-| 13:15 | EUR | High | ECB Interest Rate Decision (Jul) |  | 4.25% | 4.25% |
-| 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,852K |
-| 13:30 | USD | High | Initial Jobless Claims |  | 229K | 222K |
-| 13:30 | USD | Low | Jobless Claims 4-Week Avg. |  |  | 233.50K |
-| 13:30 | USD | High | Philadelphia Fed Manufacturing Index (Jul) |  | 2.7 | 1.3 |
-| 13:30 | USD | Low | Philly Fed Business Conditions (Jul) |  |  | 13.8 |
-| 13:30 | USD | Low | Philly Fed CAPEX Index (Jul) |  |  | 12.10 |
-| 13:30 | USD | Moderate | Philly Fed Employment (Jul) |  |  | -2.5 |
-| 13:30 | USD | Low | Philly Fed New Orders (Jul) |  |  | -2.2 |
-| 13:30 | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 22.50 |
-| 13:45 | EUR | High | ECB Press Conference |  |  |  |
-| 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
-| 14:00 | ZAR | Low | Prime Rate (Jul) |  |  | 11.75% |
+| 6 min | EUR | High | Deposit Facility Rate (Jul) |  | 3.75% | 3.75% |
+| 6 min | EUR | Moderate | ECB Marginal Lending Facility |  | 4.50% | 4.50% |
+| 6 min | EUR | Moderate | ECB Monetary Policy Statement |  |  |  |
+| 6 min | EUR | High | ECB Interest Rate Decision (Jul) |  | 4.25% | 4.25% |
+| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,852K |
+| 21 min | USD | High | Initial Jobless Claims |  | 229K | 222K |
+| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 233.50K |
+| 21 min | USD | High | Philadelphia Fed Manufacturing Index (Jul) |  | 2.7 | 1.3 |
+| 21 min | USD | Low | Philly Fed Business Conditions (Jul) |  |  | 13.8 |
+| 21 min | USD | Low | Philly Fed CAPEX Index (Jul) |  |  | 12.10 |
+| 21 min | USD | Moderate | Philly Fed Employment (Jul) |  |  | -2.5 |
+| 21 min | USD | Low | Philly Fed New Orders (Jul) |  |  | -2.2 |
+| 21 min | USD | Low | Philly Fed Prices Paid (Jul) |  |  | 22.50 |
+| 36 min | EUR | High | ECB Press Conference |  |  |  |
+| 51 min | ZAR | Moderate | Interest Rate Decision (Jul) |  | 8.25% | 8.25% |
+| 51 min | ZAR | Low | Prime Rate (Jul) |  |  | 11.75% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 15:30 | USD | Low | Natural Gas Storage |  | 27B | 65B |
