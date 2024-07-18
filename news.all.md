@@ -15,8 +15,8 @@
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) | 5.7% | 5.7% | 6.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) | 5.7% | 5.7% | 5.9% |
-| 07:00 | GBP | Low | Car Registration (YoY) (Jun) | 1.1% |  | 1.7% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Jun) | 21.4% |  | 10.0% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Jun) | 1.1% |  | 1.7% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
@@ -50,10 +50,10 @@
 | 14:00 | ZAR | Moderate | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
 | 14:00 | ZAR | Low | Prime Rate (Jul) | 11.75% |  | 11.75% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) | -0.2% | -0.3% | -0.4% |
-| 9 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 24 min | USD | Low | Natural Gas Storage |  | 27B | 65B |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
+| 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 15:30 | USD | Low | Natural Gas Storage | 10B | 27B | 65B |
+| 23 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
+| 23 min | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.184% |
 | 18:45 | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | 75.00B |

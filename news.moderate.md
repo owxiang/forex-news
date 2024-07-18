@@ -19,7 +19,7 @@
 | 13:30 | USD | Philly Fed Employment (Jul) | 15.2 |  | -2.5 |
 | 14:00 | ZAR | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
 | 15:00 | USD | US Leading Index (MoM) (Jun) | -0.2% | -0.3% | -0.4% |
-| 9 min | EUR | ECB President Lagarde Speaks |  |  |  |
+| 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction |  |  | 2.184% |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
