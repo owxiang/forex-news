@@ -8,10 +8,10 @@
 | 02:30 | AUD | Employment Change (Jun) | 50.2K | 19.9K | 39.5K |
 | 02:30 | AUD | Full Employment Change (Jun) | 43.3K |  | 41.3K |
 | 02:30 | AUD | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
-| 54 min | GBP | Average Earnings Index +Bonus (May) |  | 5.7% | 5.9% |
-| 54 min | GBP | Claimant Count Change (Jun) |  | 23.4K | 50.4K |
-| 54 min | GBP | Employment Change 3M/3M (MoM) (May) |  | 18K | -140K |
-| 54 min | GBP | Unemployment Rate (May) |  | 4.4% | 4.4% |
+| 07:00 | GBP | Average Earnings Index +Bonus (May) | 5.7% | 5.7% | 5.9% |
+| 07:00 | GBP | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
+| 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
+| 07:00 | GBP | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
@@ -24,5 +24,3 @@
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
 | 23:05 | USD | FOMC Member Daly Speaks |  |  |  |
-| 23:45 | NZD | CPI (YoY) |  | 3.5% | 4.0% |
-| 23:45 | NZD | CPI (QoQ) |  | 0.6% | 0.6% |

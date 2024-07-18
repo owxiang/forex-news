@@ -7,16 +7,16 @@
 | 02:30 | AUD | Participation Rate (Jun) | 66.9% | 66.8% | 66.8% |
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 02:30 | AUD | Reserve Assets Total (Jun) | 93.4B |  | 93.0B |
-| 54 min | GBP | Average Earnings ex Bonus (May) |  | 5.7% | 6.0% |
-| 54 min | GBP | Car Registration (MoM) (Jun) |  |  | 10.0% |
-| 54 min | GBP | Car Registration (YoY) (Jun) |  |  | 1.7% |
-| 54 min | EUR | Italian Car Registration (MoM) (Jun) |  |  | 3.1% |
-| 54 min | EUR | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
-| 54 min | CHF | Trade Balance (Jun) |  | 5.050B | 5.811B |
-| 54 min | EUR | German Car Registration (YoY) (Jun) |  |  | -4.3% |
-| 54 min | EUR | German Car Registration (MoM) (Jun) |  |  | -2.7% |
-| 54 min | EUR | French Car Registration (MoM) (Jun) |  |  | -3.9% |
-| 54 min | EUR | French Car Registration (YoY) (Jun) |  |  | -2.9% |
+| 07:00 | GBP | Average Earnings ex Bonus (May) | 5.7% | 5.7% | 6.0% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
+| 07:00 | CHF | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
+| 07:00 | EUR | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
+| 07:00 | EUR | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
+| 07:00 | EUR | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
+| 07:00 | EUR | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
+| 52 min | GBP | Car Registration (YoY) (Jun) |  |  | 1.7% |
+| 52 min | GBP | Car Registration (MoM) (Jun) |  |  | 10.0% |
 | 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.0% |
 | 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.345% |
 | 10:00 | EUR | French 8-Year OAT Auction |  |  | 3.05% |
