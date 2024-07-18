@@ -15,13 +15,13 @@
 | 07:00 | CHF | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
 | 07:00 | EUR | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
-| 07:00 | EUR | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 07:00 | EUR | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
+| 07:00 | EUR | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 09:30 | HKD | Unemployment Rate (Jun) | 3.0% |  | 3.0% |
-| 10:00 | EUR | French 8-Year OAT Auction |  |  | 3.05% |
-| 10:00 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.345% |
-| 10:00 | EUR | Construction Output (MoM) (May) | -0.87% |  | -0.39% |
-| 54 min | EUR | German Buba Monthly Report |  |  |  |
+| 10:00 | EUR | Construction Output (MoM) (May) | -0.90% |  | -0.40% |
+| 10:10 | EUR | French 8-Year OAT Auction | 2.96% |  | 3.05% |
+| 10:30 | EUR | Spanish 10-Year Obligacion Auction | 3.192% |  | 3.345% |
+| 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 233.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Jul) |  |  | 13.8 |
 | 13:30 | USD | Philly Fed CAPEX Index (Jul) |  |  | 12.10 |
