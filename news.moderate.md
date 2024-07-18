@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 44 min | JPY | Adjusted Trade Balance |  | -0.82T | -0.62T |
-| 44 min | JPY | Exports (YoY) (Jun) |  | 6.4% | 13.5% |
-| 44 min | JPY | Trade Balance (Jun) |  | -240.0B | -1,221.3B |
+| 00:50 | JPY | Adjusted Trade Balance | -0.82T | -0.82T | -0.64T |
+| 00:50 | JPY | Exports (YoY) (Jun) | 5.4% | 6.4% | 13.5% |
+| 00:50 | JPY | Trade Balance (Jun) | 224.0B | -240.0B | -1,220.1B |
 | 02:30 | AUD | Employment Change (Jun) |  | 19.9K | 39.7K |
 | 02:30 | AUD | Full Employment Change (Jun) |  |  | 41.7K |
 | 02:30 | AUD | Unemployment Rate (Jun) |  | 4.1% | 4.0% |
