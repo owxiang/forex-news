@@ -10,22 +10,22 @@
 | 02:30 | AUD | Moderate | Full Employment Change (Jun) | 43.3K |  | 41.3K |
 | 02:30 | AUD | Low | Participation Rate (Jun) | 66.9% | 66.8% | 66.8% |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 02:30 | AUD | Low | Reserve Assets Total (Jun) | 93,438.0B |  | 93,038.0B |
+| 02:30 | AUD | Low | Reserve Assets Total (Jun) | 93.4B |  | 93.0B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 5.7% | 6.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.7% | 5.9% |
-| 07:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 10.0% |
 | 07:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.7% |
+| 07:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 10.0% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 23.4K | 50.4K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) |  | 4.4% | 4.4% |
-| 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
 | 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) |  |  | 3.1% |
+| 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) |  |  | -6.6% |
 | 07:00 | CHF | Low | Trade Balance (Jun) |  | 5.050B | 5.811B |
-| 07:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | -4.3% |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Jun) |  |  | -2.7% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Jun) |  |  | -3.9% |
+| 07:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | -4.3% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -2.9% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Jun) |  |  | -3.9% |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.0% |
 | 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 3.05% |
 | 10:00 | EUR | Low | Construction Output (MoM) (May) |  |  | -0.19% |
@@ -49,8 +49,8 @@
 | 14:00 | ZAR | Low | Prime Rate (Jul) |  |  | 11.75% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  | 27B | 65B |
 | 15:30 | USD | Low | Natural Gas Storage |  |  | 65B |
+| 15:30 | USD | Low | Natural Gas Storage |  | 27B | 65B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.184% |
@@ -62,5 +62,5 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,224B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.341T |
 | 23:05 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 23:45 | NZD | Moderate | CPI (YoY) |  | 3.5% | 4.0% |
 | 23:45 | NZD | Moderate | CPI (QoQ) |  | 0.6% | 0.6% |
+| 23:45 | NZD | Moderate | CPI (YoY) |  | 3.5% | 4.0% |
