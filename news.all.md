@@ -6,14 +6,11 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Jun) | 5.4% | 6.4% | 13.5% |
 | 00:50 | JPY | Low | Imports (YoY) (Jun) | 3.2% | 9.3% | 9.5% |
 | 00:50 | JPY | Moderate | Trade Balance (Jun) | 224.0B | -240.0B | -1,220.1B |
-| 02:30 | AUD | Moderate | Employment Change (Jun) | 50.2K | 19.9K | 39.7K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jun) | 43.3K |  | 41.7K |
+| 02:30 | AUD | Moderate | Employment Change (Jun) | 50.2K | 19.9K | 39.5K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jun) | 43.3K |  | 41.3K |
 | 02:30 | AUD | Low | Participation Rate (Jun) | 66.9% | 66.8% | 66.8% |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
-| 02:30 | AUD | Low | Reserve Assets Total (Jun) |  |  | 93,038.0B |
 | 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
-| 18 min | JPY | Low | Foreign Bonds Buying |  |  | 237.7B |
-| 18 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 603.7B |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 5.7% | 6.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.7% | 5.9% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 10.0% |
@@ -28,6 +25,7 @@
 | 07:00 | EUR | Low | German Car Registration (YoY) (Jun) |  |  | -4.3% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Jun) |  |  | -3.9% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jun) |  |  | -2.9% |
+| 07:30 | AUD | Low | Reserve Assets Total (Jun) |  |  | 93,038.0B |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.0% |
 | 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 3.05% |
 | 10:00 | EUR | Low | Construction Output (MoM) (May) |  |  | -0.19% |
@@ -64,5 +62,5 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,224B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.341T |
 | 23:05 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 23:45 | NZD | Moderate | CPI (YoY) |  | 3.5% | 4.0% |
 | 23:45 | NZD | Moderate | CPI (QoQ) |  | 0.6% | 0.6% |
+| 23:45 | NZD | Moderate | CPI (YoY) |  | 3.5% | 4.0% |

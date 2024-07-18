@@ -5,8 +5,8 @@
 | 00:50 | JPY | Adjusted Trade Balance | -0.82T | -0.82T | -0.64T |
 | 00:50 | JPY | Exports (YoY) (Jun) | 5.4% | 6.4% | 13.5% |
 | 00:50 | JPY | Trade Balance (Jun) | 224.0B | -240.0B | -1,220.1B |
-| 02:30 | AUD | Employment Change (Jun) | 50.2K | 19.9K | 39.7K |
-| 02:30 | AUD | Full Employment Change (Jun) | 43.3K |  | 41.7K |
+| 02:30 | AUD | Employment Change (Jun) | 50.2K | 19.9K | 39.5K |
+| 02:30 | AUD | Full Employment Change (Jun) | 43.3K |  | 41.3K |
 | 02:30 | AUD | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
 | 07:00 | GBP | Average Earnings Index +Bonus (May) |  | 5.7% | 5.9% |
 | 07:00 | GBP | Claimant Count Change (Jun) |  | 23.4K | 50.4K |
@@ -24,5 +24,5 @@
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
 | 23:05 | USD | FOMC Member Daly Speaks |  |  |  |
-| 23:45 | NZD | CPI (YoY) |  | 3.5% | 4.0% |
 | 23:45 | NZD | CPI (QoQ) |  | 0.6% | 0.6% |
+| 23:45 | NZD | CPI (YoY) |  | 3.5% | 4.0% |
