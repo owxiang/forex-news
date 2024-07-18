@@ -12,7 +12,7 @@
 | 07:00 | GBP | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
 | 07:00 | GBP | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:15 | EUR | ECB Marginal Lending Facility |  |  | 4.50% |
 | 13:15 | EUR | ECB Monetary Policy Statement |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,852K |
