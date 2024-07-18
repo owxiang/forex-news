@@ -21,6 +21,6 @@
 | 15:00 | USD | US Leading Index (MoM) (Jun) | -0.2% | -0.3% | -0.4% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 10-Year TIPS Auction | 1.883% |  | 2.184% |
-| 54 min | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
+| 21:00 | USD | TIC Net Long-Term Transactions (May) | -54.6B | 98.4B | 123.3B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,224B |
 | 23:05 | USD | FOMC Member Daly Speaks |  |  |  |
