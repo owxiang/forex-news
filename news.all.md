@@ -20,13 +20,13 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
-| 07:00 | EUR | Low | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
+| 07:00 | EUR | Low | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
 | 09:30 | HKD | Low | Unemployment Rate (Jun) | 3.0% |  | 3.0% |
 | 10:00 | EUR | Low | Construction Output (MoM) (May) | -0.90% |  | -0.40% |
 | 10:10 | EUR | Low | French 8-Year OAT Auction | 2.96% |  | 3.05% |
@@ -54,8 +54,8 @@
 | 15:30 | USD | Low | Natural Gas Storage | 10B | 27B | 65B |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.270% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.260% |
-| 55 min | USD | Moderate | 10-Year TIPS Auction |  |  | 2.184% |
-| 18:45 | USD | Low | Fed Logan Speaks |  |  |  |
+| 18:00 | USD | Moderate | 10-Year TIPS Auction | 1.883% |  | 2.184% |
+| 39 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:00 | USD | Low | US Foreign Buying, T-bonds (May) |  |  | 75.00B |
 | 21:00 | USD | Low | Overall Net Capital Flow (May) |  |  | 66.20B |
 | 21:00 | USD | Moderate | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
