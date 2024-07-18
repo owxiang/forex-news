@@ -8,15 +8,15 @@
 | 02:30 | AUD | RBA Bulletin |  |  |  |
 | 02:30 | AUD | Reserve Assets Total (Jun) | 93.4B |  | 93.0B |
 | 07:00 | GBP | Average Earnings ex Bonus (May) | 5.7% | 5.7% | 6.0% |
-| 07:00 | GBP | Car Registration (MoM) (Jun) | 21.4% |  | 10.0% |
 | 07:00 | GBP | Car Registration (YoY) (Jun) | 1.1% |  | 1.7% |
-| 07:00 | EUR | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
+| 07:00 | GBP | Car Registration (MoM) (Jun) | 21.4% |  | 10.0% |
 | 07:00 | EUR | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
+| 07:00 | EUR | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
 | 07:00 | CHF | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
-| 07:00 | EUR | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
-| 07:00 | EUR | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
+| 07:00 | EUR | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
+| 07:00 | EUR | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
 | 09:30 | HKD | Unemployment Rate (Jun) | 3.0% |  | 3.0% |
 | 10:00 | EUR | Construction Output (MoM) (May) | -0.90% |  | -0.40% |
 | 10:10 | EUR | French 8-Year OAT Auction | 2.96% |  | 3.05% |
@@ -29,8 +29,8 @@
 | 13:30 | USD | Philly Fed Prices Paid (Jul) | 19.80 |  | 22.50 |
 | 14:00 | ZAR | Prime Rate (Jul) | 11.75% |  | 11.75% |
 | 15:30 | USD | Natural Gas Storage | 10B | 27B | 65B |
-| 23 min | USD | 4-Week Bill Auction |  |  | 5.270% |
-| 23 min | USD | 8-Week Bill Auction |  |  | 5.260% |
+| 16:30 | USD | 4-Week Bill Auction | 5.270% |  | 5.270% |
+| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.260% |
 | 18:45 | USD | Fed Logan Speaks |  |  |  |
 | 21:00 | USD | US Foreign Buying, T-bonds (May) |  |  | 75.00B |
 | 21:00 | USD | Overall Net Capital Flow (May) |  |  | 66.20B |

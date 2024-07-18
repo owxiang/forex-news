@@ -20,7 +20,7 @@
 | 14:00 | ZAR | Interest Rate Decision (Jul) | 8.25% | 8.25% | 8.25% |
 | 15:00 | USD | US Leading Index (MoM) (Jun) | -0.2% | -0.3% | -0.4% |
 | 15:15 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 10-Year TIPS Auction |  |  | 2.184% |
+| 55 min | USD | 10-Year TIPS Auction |  |  | 2.184% |
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
 | 23:05 | USD | FOMC Member Daly Speaks |  |  |  |
