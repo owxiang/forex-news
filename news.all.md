@@ -6,18 +6,18 @@
 | 00:50 | JPY | Moderate | Exports (YoY) (Jun) | 5.4% | 6.4% | 13.5% |
 | 00:50 | JPY | Low | Imports (YoY) (Jun) | 3.2% | 9.3% | 9.5% |
 | 00:50 | JPY | Moderate | Trade Balance (Jun) | 224.0B | -240.0B | -1,220.1B |
-| 02:30 | AUD | Moderate | Employment Change (Jun) |  | 19.9K | 39.7K |
-| 02:30 | AUD | Moderate | Full Employment Change (Jun) |  |  | 41.7K |
-| 02:30 | AUD | Low | Participation Rate (Jun) |  | 66.8% | 66.8% |
+| 02:30 | AUD | Moderate | Employment Change (Jun) | 50.2K | 19.9K | 39.7K |
+| 02:30 | AUD | Moderate | Full Employment Change (Jun) | 43.3K |  | 41.7K |
+| 02:30 | AUD | Low | Participation Rate (Jun) | 66.9% | 66.8% | 66.8% |
 | 02:30 | AUD | Low | RBA Bulletin |  |  |  |
 | 02:30 | AUD | Low | Reserve Assets Total (Jun) |  |  | 93,038.0B |
-| 02:30 | AUD | Moderate | Unemployment Rate (Jun) |  | 4.1% | 4.0% |
-| 02:50 | JPY | Low | Foreign Bonds Buying |  |  | 237.7B |
-| 02:50 | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 603.7B |
+| 02:30 | AUD | Moderate | Unemployment Rate (Jun) | 4.1% | 4.1% | 4.0% |
+| 18 min | JPY | Low | Foreign Bonds Buying |  |  | 237.7B |
+| 18 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 603.7B |
 | 07:00 | GBP | Low | Average Earnings ex Bonus (May) |  | 5.7% | 6.0% |
 | 07:00 | GBP | Moderate | Average Earnings Index +Bonus (May) |  | 5.7% | 5.9% |
-| 07:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.7% |
 | 07:00 | GBP | Low | Car Registration (MoM) (Jun) |  |  | 10.0% |
+| 07:00 | GBP | Low | Car Registration (YoY) (Jun) |  |  | 1.7% |
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) |  | 23.4K | 50.4K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) |  | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) |  | 4.4% | 4.4% |
@@ -51,8 +51,8 @@
 | 14:00 | ZAR | Low | Prime Rate (Jul) |  |  | 11.75% |
 | 15:00 | USD | Moderate | US Leading Index (MoM) (Jun) |  | -0.3% | -0.5% |
 | 15:15 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 15:30 | USD | Low | Natural Gas Storage |  |  | 65B |
 | 15:30 | USD | Low | Natural Gas Storage |  | 27B | 65B |
+| 15:30 | USD | Low | Natural Gas Storage |  |  | 65B |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
 | 18:00 | USD | Moderate | 10-Year TIPS Auction |  |  | 2.184% |
@@ -64,5 +64,5 @@
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,224B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.341T |
 | 23:05 | USD | Moderate | FOMC Member Daly Speaks |  |  |  |
-| 23:45 | NZD | Moderate | CPI (QoQ) |  | 0.6% | 0.6% |
 | 23:45 | NZD | Moderate | CPI (YoY) |  | 3.5% | 4.0% |
+| 23:45 | NZD | Moderate | CPI (QoQ) |  | 0.6% | 0.6% |
