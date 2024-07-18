@@ -24,5 +24,5 @@
 | 21:00 | USD | TIC Net Long-Term Transactions (May) |  | 98.4B | 123.1B |
 | 21:30 | USD | Fed's Balance Sheet |  |  | 7,224B |
 | 23:05 | USD | FOMC Member Daly Speaks |  |  |  |
-| 23:45 | NZD | CPI (QoQ) |  | 0.6% | 0.6% |
 | 23:45 | NZD | CPI (YoY) |  | 3.5% | 4.0% |
+| 23:45 | NZD | CPI (QoQ) |  | 0.6% | 0.6% |
