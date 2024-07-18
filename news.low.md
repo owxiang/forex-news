@@ -10,17 +10,17 @@
 | 07:00 | GBP | Average Earnings ex Bonus (May) | 5.7% | 5.7% | 6.0% |
 | 07:00 | GBP | Car Registration (YoY) (Jun) | 1.1% |  | 1.7% |
 | 07:00 | GBP | Car Registration (MoM) (Jun) | 21.4% |  | 10.0% |
-| 07:00 | EUR | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | EUR | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
+| 07:00 | EUR | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | CHF | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
 | 07:00 | EUR | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
 | 07:00 | EUR | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
-| 09:30 | HKD | Unemployment Rate (Jun) |  |  | 3.0% |
-| 09:40 | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.345% |
-| 10:00 | EUR | French 8-Year OAT Auction |  |  | 3.05% |
-| 10:00 | EUR | Construction Output (MoM) (May) |  |  | -0.19% |
+| 23 min | HKD | Unemployment Rate (Jun) |  |  | 3.0% |
+| 33 min | EUR | Spanish 10-Year Obligacion Auction |  |  | 3.345% |
+| 52 min | EUR | French 8-Year OAT Auction |  |  | 3.05% |
+| 52 min | EUR | Construction Output (MoM) (May) |  |  | -0.19% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 233.50K |
 | 13:30 | USD | Philly Fed Business Conditions (Jul) |  |  | 13.8 |

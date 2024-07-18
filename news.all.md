@@ -20,17 +20,17 @@
 | 07:00 | GBP | Moderate | Claimant Count Change (Jun) | 32.3K | 23.4K | 51.9K |
 | 07:00 | GBP | Moderate | Employment Change 3M/3M (MoM) (May) | 19K | 18K | -140K |
 | 07:00 | GBP | Moderate | Unemployment Rate (May) | 4.4% | 4.4% | 4.4% |
-| 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | EUR | Low | Italian Car Registration (YoY) (Jun) | 15.1% |  | -6.6% |
+| 07:00 | EUR | Low | Italian Car Registration (MoM) (Jun) | 14.7% |  | 3.1% |
 | 07:00 | CHF | Low | Trade Balance (Jun) | 6.180B | 5.050B | 5.792B |
 | 07:00 | EUR | Low | German Car Registration (MoM) (Jun) | 25.8% |  | -2.7% |
 | 07:00 | EUR | Low | German Car Registration (YoY) (Jun) | 6.1% |  | -4.3% |
 | 07:00 | EUR | Low | French Car Registration (YoY) (Jun) | -4.8% |  | -2.9% |
 | 07:00 | EUR | Low | French Car Registration (MoM) (Jun) | 28.6% |  | -3.9% |
-| 09:30 | HKD | Low | Unemployment Rate (Jun) |  |  | 3.0% |
-| 09:40 | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.345% |
-| 10:00 | EUR | Low | French 8-Year OAT Auction |  |  | 3.05% |
-| 10:00 | EUR | Low | Construction Output (MoM) (May) |  |  | -0.19% |
+| 23 min | HKD | Low | Unemployment Rate (Jun) |  |  | 3.0% |
+| 33 min | EUR | Low | Spanish 10-Year Obligacion Auction |  |  | 3.345% |
+| 52 min | EUR | Low | French 8-Year OAT Auction |  |  | 3.05% |
+| 52 min | EUR | Low | Construction Output (MoM) (May) |  |  | -0.19% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:15 | EUR | High | Deposit Facility Rate (Jul) |  | 3.75% | 3.75% |
