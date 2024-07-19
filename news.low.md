@@ -8,14 +8,14 @@
 | 00:50 | JPY | Foreign Bonds Buying | -208.9B |  | 209.7B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | 227.6B |  | 603.5B |
 | 04:00 | NZD | Credit Card Spending (YoY) | -3.1% |  | -0.2% |
-| 54 min | GBP | Public Sector Net Borrowing (Jun) |  | 10.80B | 14.10B |
-| 54 min | GBP | Public Sector Net Cash Requirement (Jun) |  |  | 18.135B |
-| 54 min | EUR | German PPI (YoY) (Jun) |  | -1.6% | -2.2% |
-| 08:10 | CNY | FDI |  |  | -28.20% |
-| 09:00 | EUR | Spanish Trade Balance |  |  | -4.70B |
+| 07:00 | GBP | Public Sector Net Borrowing (Jun) | 13.59B | 10.80B | 15.57B |
+| 07:00 | GBP | Public Sector Net Cash Requirement (Jun) | 6.622B |  | 18.796B |
+| 07:00 | EUR | German PPI (YoY) (Jun) | -1.6% | -1.6% | -2.2% |
+| 09:00 | EUR | Spanish Trade Balance (May) |  |  | -4.70B |
+| 09:00 | CNY | FDI (Jun) |  |  | -28.20% |
 | 09:00 | EUR | Current Account (May) |  | 34.6B | 38.6B |
 | 09:00 | EUR | Current Account n.s.a. (May) |  |  | 34.4B |
-| 11:00 | EUR | Spanish Consumer Confidence |  |  | 83.8 |
+| 11:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 12:30 | INR | FX Reserves, USD |  |  | 657.16B |
 | 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
