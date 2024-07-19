@@ -18,14 +18,14 @@
 | 13:30 | CAD | IPPI (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
 | 13:30 | CAD | IPPI (YoY) (Jun) | 2.8% |  | 2.1% |
 | 13:30 | CAD | RMPI (YoY) (Jun) | 7.5% |  | 6.9% |
-| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
-| 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
-| 20:30 | USD | CFTC Corn speculative net positions |  |  | -239.9K |
-| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -105.5K |
-| 20:30 | USD | CFTC Silver speculative net positions |  |  | 61.1K |
-| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -150.2K |
-| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -34.8K |
-| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -111.2K |
-| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 63.3K |
-| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -46.1K |
-| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 25.9K |
+| 25 min | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
+| 25 min | USD | CFTC Copper speculative net positions |  |  | 56.0K |
+| 25 min | USD | CFTC Corn speculative net positions |  |  | -239.9K |
+| 25 min | USD | CFTC Natural Gas speculative net positions |  |  | -105.5K |
+| 25 min | USD | CFTC Silver speculative net positions |  |  | 61.1K |
+| 25 min | USD | CFTC Soybeans speculative net positions |  |  | -150.2K |
+| 25 min | USD | CFTC Wheat speculative net positions |  |  | -34.8K |
+| 25 min | CAD | CFTC CAD speculative net positions |  |  | -111.2K |
+| 25 min | MXN | CFTC MXN speculative net positions |  |  | 63.3K |
+| 25 min | CHF | CFTC CHF speculative net positions |  |  | -46.1K |
+| 25 min | NZD | CFTC NZD speculative net positions |  |  | 25.9K |
