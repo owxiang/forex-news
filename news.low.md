@@ -12,13 +12,13 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jun) | 6.622B |  | 18.796B |
 | 07:00 | EUR | German PPI (YoY) (Jun) | -1.6% | -1.6% | -2.2% |
 | 09:00 | EUR | Spanish Trade Balance (May) | -2.30B |  | -4.70B |
-| 09:00 | EUR | Current Account (May) | 37.0B | 34.6B | 38.6B |
-| 52 min | EUR | Current Account n.s.a. (May) |  |  | 34.4B |
-| 11:00 | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
-| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
+| 09:00 | EUR | Current Account (May) | 36.7B | 34.6B | 38.6B |
+| 09:00 | EUR | Current Account n.s.a. (May) | 9.6B |  | 34.4B |
+| 55 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
+| 55 min | CNY | FDI (Jun) |  |  | -28.20% |
 | 12:30 | INR | FX Reserves, USD |  |  | 657.16B |
-| 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
+| 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | RMPI (YoY) (Jun) |  |  | 7.6% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
