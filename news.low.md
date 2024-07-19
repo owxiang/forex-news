@@ -17,8 +17,8 @@
 | 09:00 | EUR | Current Account n.s.a. (May) |  |  | 34.4B |
 | 11:00 | EUR | Spanish Consumer Confidence |  |  | 83.8 |
 | 12:30 | INR | FX Reserves, USD |  |  | 657.16B |
-| 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | RMPI (YoY) (Jun) |  |  | 7.6% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
