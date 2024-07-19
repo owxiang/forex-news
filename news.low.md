@@ -12,10 +12,10 @@
 | 07:00 | GBP | Public Sector Net Cash Requirement (Jun) | 6.622B |  | 18.796B |
 | 07:00 | EUR | German PPI (YoY) (Jun) | -1.6% | -1.6% | -2.2% |
 | 09:00 | EUR | Spanish Trade Balance (May) | -2.30B |  | -4.70B |
-| 09:00 | EUR | Current Account (May) | 36.7B | 34.6B | 38.6B |
+| 09:00 | EUR | Current Account (May) | 37.0B | 34.6B | 38.6B |
 | 09:00 | EUR | Current Account n.s.a. (May) | 9.6B |  | 34.4B |
-| 12:30 | INR | FX Reserves, USD |  |  | 657.16B |
-| 12:30 | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
+| 24 min | INR | FX Reserves, USD |  |  | 657.16B |
+| 24 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | RMPI (YoY) (Jun) |  |  | 7.6% |
