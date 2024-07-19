@@ -5,8 +5,8 @@
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jul) | -13 | -12 | -14 |
 | 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jun) | 0.1% |  | 0.4% |
 | 00:30 | JPY | Moderate | National Core CPI (YoY) (Jun) | 2.6% | 2.7% | 2.5% |
-| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.3% |  | 0.5% |
 | 00:30 | JPY | Low | National CPI (YoY) (Jun) | 2.8% |  | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.3% |  | 0.5% |
 | 00:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -208.9B |  | 209.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.6B |  | 603.5B |
@@ -15,19 +15,19 @@
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.8% | 0.2% | 1.6% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 13.59B | 10.80B | 15.57B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | 6.622B |  | 18.796B |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | -0.2% | 0.2% | 1.7% |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | -1.2% | -0.6% | 2.9% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
+| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | -0.2% | 0.2% | 1.7% |
 | 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.6% | -1.6% | -2.2% |
-| 09:00 | EUR | Low | Spanish Trade Balance (May) |  |  | -4.70B |
-| 09:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
-| 09:00 | EUR | Low | Current Account (May) |  | 34.6B | 38.6B |
-| 09:00 | EUR | Low | Current Account n.s.a. (May) |  |  | 34.4B |
+| 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
+| 53 min | EUR | Low | Spanish Trade Balance (May) |  |  | -4.70B |
+| 53 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
+| 53 min | EUR | Low | Current Account (May) |  | 34.6B | 38.6B |
+| 53 min | EUR | Low | Current Account n.s.a. (May) |  |  | 34.4B |
 | 11:00 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 657.16B |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.8% |
-| 13:30 | CAD | Low | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Low | IPPI (YoY) (Jun) |  |  | 1.8% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jun) |  |  | 7.6% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jun) |  | -0.7% | -1.0% |
