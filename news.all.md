@@ -3,13 +3,13 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 00:01 | GBP | Low | GfK Consumer Confidence (Jul) | -13 | -12 | -14 |
-| 24 min | JPY | Low | CPI, n.s.a (MoM) (Jun) |  |  | 0.4% |
-| 24 min | JPY | Moderate | National Core CPI (YoY) (Jun) |  | 2.7% | 2.5% |
-| 24 min | JPY | Low | National CPI (YoY) (Jun) |  |  | 2.8% |
-| 24 min | JPY | Moderate | National CPI (MoM) (Jun) |  |  | 0.5% |
-| 39 min | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
-| 44 min | JPY | Low | Foreign Bonds Buying |  |  | 237.7B |
-| 44 min | JPY | Low | Foreign Investments in Japanese Stocks |  |  | 603.7B |
+| 00:30 | JPY | Low | CPI, n.s.a (MoM) (Jun) | 0.1% |  | 0.4% |
+| 00:30 | JPY | Moderate | National Core CPI (YoY) (Jun) | 2.6% | 2.7% | 2.5% |
+| 00:30 | JPY | Low | National CPI (YoY) (Jun) | 2.8% |  | 2.8% |
+| 00:30 | JPY | Moderate | National CPI (MoM) (Jun) | 0.3% |  | 0.5% |
+| 00:45 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
+| 00:50 | JPY | Low | Foreign Bonds Buying | -208.9B |  | 209.7B |
+| 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.6B |  | 603.5B |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 0.0% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.5% | 2.9% |
 | 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 0.2% | 1.2% |
@@ -17,8 +17,8 @@
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 18.135B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | -0.6% | 2.9% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 0.2% | 1.3% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jun) |  | -1.6% | -2.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jun) |  | 0.1% | 0.0% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jun) |  | -1.6% | -2.2% |
 | 08:10 | CNY | Low | FDI |  |  | -28.20% |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -4.70B |
 | 09:00 | EUR | Low | Current Account (May) |  | 34.6B | 38.6B |
