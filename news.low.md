@@ -15,8 +15,8 @@
 | 09:00 | EUR | Current Account (May) | 36.7B | 34.6B | 38.6B |
 | 09:00 | EUR | Current Account n.s.a. (May) | 9.6B |  | 34.4B |
 | 12:30 | INR | FX Reserves, USD | 666.85B |  | 657.16B |
-| 13:30 | CAD | IPPI (YoY) (Jun) | 2.8% |  | 2.1% |
 | 13:30 | CAD | IPPI (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
+| 13:30 | CAD | IPPI (YoY) (Jun) | 2.8% |  | 2.1% |
 | 13:30 | CAD | RMPI (YoY) (Jun) | 7.5% |  | 6.9% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
