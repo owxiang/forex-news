@@ -11,8 +11,8 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -208.9B |  | 209.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.6B |  | 603.5B |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) | -3.1% |  | -0.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.8% | 0.2% | 1.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) | -1.5% | -0.5% | 2.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.8% | 0.2% | 1.6% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 13.59B | 10.80B | 15.57B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | 6.622B |  | 18.796B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | -1.2% | -0.6% | 2.9% |
