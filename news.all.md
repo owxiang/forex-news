@@ -22,12 +22,11 @@
 | 09:00 | EUR | Low | Spanish Trade Balance (May) | -2.30B |  | -4.70B |
 | 09:00 | EUR | Low | Current Account (May) | 36.7B | 34.6B | 38.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (May) | 9.6B |  | 34.4B |
-| 55 min | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
-| 55 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 657.16B |
+| 12:30 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.8% |
-| 13:30 | CAD | Low | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jun) |  |  | 7.6% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jun) |  | -0.7% | -1.0% |
