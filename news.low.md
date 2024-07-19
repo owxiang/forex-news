@@ -14,11 +14,10 @@
 | 09:00 | EUR | Spanish Trade Balance (May) | -2.30B |  | -4.70B |
 | 09:00 | EUR | Current Account (May) | 37.0B | 34.6B | 38.6B |
 | 09:00 | EUR | Current Account n.s.a. (May) | 9.6B |  | 34.4B |
-| 24 min | INR | FX Reserves, USD |  |  | 657.16B |
-| 24 min | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
-| 13:30 | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
-| 13:30 | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
-| 13:30 | CAD | RMPI (YoY) (Jun) |  |  | 7.6% |
+| 12:30 | INR | FX Reserves, USD | 666.85B |  | 657.16B |
+| 22 min | CAD | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 22 min | CAD | IPPI (YoY) (Jun) |  |  | 1.8% |
+| 22 min | CAD | RMPI (YoY) (Jun) |  |  | 7.6% |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -239.9K |
