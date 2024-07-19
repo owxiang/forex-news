@@ -7,16 +7,16 @@
 | 00:45 | USD | FOMC Member Bowman Speaks |  |  |  |
 | 07:00 | GBP | Core Retail Sales (YoY) (Jun) | -0.8% | 0.2% | 1.6% |
 | 07:00 | GBP | Core Retail Sales (MoM) (Jun) | -1.5% | -0.5% | 2.9% |
-| 07:00 | GBP | Retail Sales (YoY) (Jun) | -0.2% | 0.2% | 1.7% |
 | 07:00 | GBP | Retail Sales (MoM) (Jun) | -1.2% | -0.6% | 2.9% |
+| 07:00 | GBP | Retail Sales (YoY) (Jun) | -0.2% | 0.2% | 1.7% |
 | 07:00 | EUR | German PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
 | 13:30 | CAD | Core Retail Sales (MoM) (May) | -1.3% | -0.5% | 1.7% |
 | 13:30 | CAD | Retail Sales (MoM) (May) | -0.8% | -0.5% | 0.6% |
 | 13:30 | CAD | RMPI (MoM) (Jun) | -1.4% | -0.7% | -1.5% |
 | 15:40 | USD | FOMC Member Williams Speaks |  |  |  |
-| 39 min | USD | FOMC Member Bostic Speaks |  |  |  |
-| 54 min | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
-| 54 min | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
+| 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 477 |  | 478 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 586 |  | 584 |
 | 20:30 | GBP | CFTC GBP speculative net positions |  |  | 84.7K |
 | 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 283.9K |
 | 20:30 | USD | CFTC Gold speculative net positions |  |  | 254.8K |
