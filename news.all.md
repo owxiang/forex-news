@@ -11,24 +11,24 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -208.9B |  | 209.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.6B |  | 603.5B |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) | -3.1% |  | -0.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.8% | 0.2% | 1.6% |
 | 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) | -1.5% | -0.5% | 2.9% |
+| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) | -0.8% | 0.2% | 1.6% |
 | 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) | 13.59B | 10.80B | 15.57B |
 | 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) | 6.622B |  | 18.796B |
 | 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) | -1.2% | -0.6% | 2.9% |
 | 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) | -0.2% | 0.2% | 1.7% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.6% | -1.6% | -2.2% |
 | 07:00 | EUR | Moderate | German PPI (MoM) (Jun) | 0.2% | 0.1% | 0.0% |
+| 07:00 | EUR | Low | German PPI (YoY) (Jun) | -1.6% | -1.6% | -2.2% |
 | 09:00 | EUR | Low | Spanish Trade Balance (May) | -2.30B |  | -4.70B |
-| 09:00 | EUR | Low | Current Account (May) | 37.0B | 34.6B | 38.6B |
+| 09:00 | EUR | Low | Current Account (May) | 36.7B | 34.6B | 38.6B |
 | 09:00 | EUR | Low | Current Account n.s.a. (May) | 9.6B |  | 34.4B |
 | 12:30 | INR | Low | FX Reserves, USD | 666.85B |  | 657.16B |
-| 22 min | CAD | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.8% |
-| 22 min | CAD | Low | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
-| 22 min | CAD | Low | IPPI (YoY) (Jun) |  |  | 1.8% |
-| 22 min | CAD | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 0.7% |
-| 22 min | CAD | Low | RMPI (YoY) (Jun) |  |  | 7.6% |
-| 22 min | CAD | Moderate | RMPI (MoM) (Jun) |  | -0.7% | -1.0% |
+| 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) | -1.3% | -0.5% | 1.7% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jun) | 2.8% |  | 2.1% |
+| 13:30 | CAD | Low | IPPI (MoM) (Jun) | 0.0% | 0.2% | 0.2% |
+| 13:30 | CAD | Moderate | Retail Sales (MoM) (May) | -0.8% | -0.5% | 0.6% |
+| 13:30 | CAD | Low | RMPI (YoY) (Jun) | 7.5% |  | 6.9% |
+| 13:30 | CAD | Moderate | RMPI (MoM) (Jun) | -1.4% | -0.7% | -1.5% |
 | 15:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 17:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
