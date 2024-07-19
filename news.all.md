@@ -11,14 +11,14 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -208.9B |  | 209.7B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | 227.6B |  | 603.5B |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) | -3.1% |  | -0.2% |
-| 07:00 | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.5% | 2.9% |
-| 07:00 | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 0.2% | 1.2% |
-| 07:00 | GBP | Low | Public Sector Net Borrowing (Jun) |  | 10.80B | 14.10B |
-| 07:00 | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 18.135B |
-| 07:00 | GBP | Moderate | Retail Sales (MoM) (Jun) |  | -0.6% | 2.9% |
-| 07:00 | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 0.2% | 1.3% |
-| 07:00 | EUR | Moderate | German PPI (MoM) (Jun) |  | 0.1% | 0.0% |
-| 07:00 | EUR | Low | German PPI (YoY) (Jun) |  | -1.6% | -2.2% |
+| 54 min | GBP | Moderate | Core Retail Sales (YoY) (Jun) |  | 0.2% | 1.2% |
+| 54 min | GBP | Moderate | Core Retail Sales (MoM) (Jun) |  | -0.5% | 2.9% |
+| 54 min | GBP | Low | Public Sector Net Borrowing (Jun) |  | 10.80B | 14.10B |
+| 54 min | GBP | Low | Public Sector Net Cash Requirement (Jun) |  |  | 18.135B |
+| 54 min | GBP | Moderate | Retail Sales (MoM) (Jun) |  | -0.6% | 2.9% |
+| 54 min | GBP | Moderate | Retail Sales (YoY) (Jun) |  | 0.2% | 1.3% |
+| 54 min | EUR | Low | German PPI (YoY) (Jun) |  | -1.6% | -2.2% |
+| 54 min | EUR | Moderate | German PPI (MoM) (Jun) |  | 0.1% | 0.0% |
 | 08:10 | CNY | Low | FDI |  |  | -28.20% |
 | 09:00 | EUR | Low | Spanish Trade Balance |  |  | -4.70B |
 | 09:00 | EUR | Low | Current Account (May) |  | 34.6B | 38.6B |
@@ -26,8 +26,8 @@
 | 11:00 | EUR | Low | Spanish Consumer Confidence |  |  | 83.8 |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 657.16B |
 | 13:30 | CAD | Moderate | Core Retail Sales (MoM) (May) |  | -0.5% | 1.8% |
-| 13:30 | CAD | Low | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | Low | IPPI (MoM) (Jun) |  | 0.2% | 0.0% |
+| 13:30 | CAD | Low | IPPI (YoY) (Jun) |  |  | 1.8% |
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (May) |  | -0.5% | 0.7% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jun) |  |  | 7.6% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jun) |  | -0.7% | -1.0% |
