@@ -29,7 +29,7 @@
 | 13:30 | CAD | Moderate | Retail Sales (MoM) (May) | -0.8% | -0.5% | 0.6% |
 | 13:30 | CAD | Low | RMPI (YoY) (Jun) | 7.5% |  | 6.9% |
 | 13:30 | CAD | Moderate | RMPI (MoM) (Jun) | -1.4% | -0.7% | -1.5% |
-| 34 min | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
+| 15:40 | USD | Moderate | FOMC Member Williams Speaks |  |  |  |
 | 17:45 | USD | Moderate | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 584 |

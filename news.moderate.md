@@ -13,7 +13,7 @@
 | 13:30 | CAD | Core Retail Sales (MoM) (May) | -1.3% | -0.5% | 1.7% |
 | 13:30 | CAD | Retail Sales (MoM) (May) | -0.8% | -0.5% | 0.6% |
 | 13:30 | CAD | RMPI (MoM) (Jun) | -1.4% | -0.7% | -1.5% |
-| 34 min | USD | FOMC Member Williams Speaks |  |  |  |
+| 15:40 | USD | FOMC Member Williams Speaks |  |  |  |
 | 17:45 | USD | FOMC Member Bostic Speaks |  |  |  |
 | 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 478 |
 | 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 584 |
