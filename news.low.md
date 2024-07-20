@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
+| 53 min | CNY | FDI (Jun) |  |  | -28.20% |
