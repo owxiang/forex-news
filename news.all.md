@@ -10,12 +10,12 @@
 | 09:30 | HKD | Low | CPI (YoY) (Jun) | 1.50% |  | 1.20% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
-| 13:00 | MXN | Low | Economic Activity (MoM) (May) |  |  | -0.60% |
-| 13:00 | MXN | Low | Economic Activity (YoY) (May) |  | 1.40% | 5.40% |
-| 13:00 | MXN | Low | Retail Sales (MoM) (May) |  |  | 0.5% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | 3.2% |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 25 min | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
+| 55 min | MXN | Low | Economic Activity (MoM) (May) |  |  | -0.60% |
+| 55 min | MXN | Low | Economic Activity (YoY) (May) |  | 1.40% | 5.40% |
+| 55 min | MXN | Low | Retail Sales (MoM) (May) |  |  | 0.5% |
+| 55 min | MXN | Low | Retail Sales (YoY) (May) |  |  | 3.2% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jun) |  |  | 0.18 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.355% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.602% |
