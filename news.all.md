@@ -11,15 +11,15 @@
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 13:00 | MXN | Low | Economic Activity (YoY) (May) | 1.60% | 1.40% | 5.30% |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) | 0.70% |  | -0.70% |
+| 13:00 | MXN | Low | Economic Activity (YoY) (May) | 1.60% | 1.40% | 5.30% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) | 0.1% |  | 0.5% |
 | 13:00 | MXN | Low | Retail Sales (YoY) (May) | 0.3% |  | 3.2% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jun) | 0.05 | -0.09 | 0.23 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction | 3.341% |  | 3.355% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction | 3.576% |  | 3.602% |
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.540% |  | 3.537% |
-| 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.195% |
-| 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.985% |
-| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.1% |
+| 24 min | USD | Low | 3-Month Bill Auction |  |  | 5.195% |
+| 24 min | USD | Low | 6-Month Bill Auction |  |  | 4.985% |
 | 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 2.3% |
+| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.1% |
