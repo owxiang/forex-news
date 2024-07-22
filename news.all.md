@@ -4,15 +4,15 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 02:15 | CNY | Moderate | China Loan Prime Rate 5Y (Jul) | 3.85% | 3.95% | 3.95% |
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.45% | 3.45% |
-| 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 05:00 | IDR | Low | M2 Money Supply (YoY) (Jun) | 7.80% |  | 7.60% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
+| 04:00 | IDR | Low | M2 Money Supply (YoY) (Jun) | 7.80% |  | 7.60% |
+| 54 min | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
+| 54 min | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
 | 08:00 | CHF | Low | M3 Money Supply (Jun) |  |  | 1,136,149.0B |
 | 09:30 | HKD | Low | CPI (MoM) (Jun) |  |  | -0.20% |
 | 09:30 | HKD | Low | CPI (YoY) (Jun) |  |  | 1.20% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
+| 11:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |

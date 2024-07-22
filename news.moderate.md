@@ -4,5 +4,5 @@
 |------|----------|-------|--------|----------|----------|
 | 02:15 | CNY | China Loan Prime Rate 5Y (Jul) | 3.85% | 3.95% | 3.95% |
 | 02:15 | CNY | PBoC Loan Prime Rate | 3.35% | 3.45% | 3.45% |
-| 07:00 | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
+| 54 min | EUR | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
