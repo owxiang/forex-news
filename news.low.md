@@ -14,8 +14,8 @@
 | 12:30 | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 13:00 | MXN | Economic Activity (MoM) (May) |  |  | -0.60% |
 | 13:00 | MXN | Economic Activity (YoY) (May) |  |  | 5.40% |
-| 13:00 | MXN | Retail Sales (MoM) (May) |  |  | 0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (May) |  |  | 3.2% |
+| 13:00 | MXN | Retail Sales (MoM) (May) |  |  | 0.5% |
 | 13:30 | USD | Chicago Fed National Activity (Jun) |  |  | 0.18 |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.355% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.602% |
