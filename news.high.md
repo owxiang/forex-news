@@ -1,3 +1,5 @@
-## 22 July 2024 - High Impact Forex News
+## 23 July 2024 - High Impact Forex News
 
-There is no high impact news today.
+| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
+|------|----------|-------|--------|----------|----------|
+| 15:00 | USD | Existing Home Sales (Jun) |  | 3.99M | 4.11M |
