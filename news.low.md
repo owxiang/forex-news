@@ -4,8 +4,8 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | IDR | M2 Money Supply (YoY) (Jun) | 7.80% |  | 7.60% |
 | 08:00 | CHF | M3 Money Supply (Jun) | 1,138.1B |  | 1,135.6B |
-| 09:30 | HKD | CPI (MoM) (Jun) |  |  | -0.20% |
-| 09:30 | HKD | CPI (YoY) (Jun) |  |  | 1.20% |
+| 22 min | HKD | CPI (MoM) (Jun) |  |  | -0.20% |
+| 22 min | HKD | CPI (YoY) (Jun) |  |  | 1.20% |
 | 11:00 | EUR | German Buba Monthly Report |  |  |  |
 | 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
 | 11:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
@@ -21,5 +21,5 @@
 | 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.537% |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.195% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.985% |
-| 22:00 | KRW | PPI (MoM) (Jun) |  |  | 0.1% |
 | 22:00 | KRW | PPI (YoY) (Jun) |  |  | 2.3% |
+| 22:00 | KRW | PPI (MoM) (Jun) |  |  | 0.1% |

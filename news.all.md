@@ -6,8 +6,8 @@
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.45% | 3.45% |
 | 04:00 | IDR | Low | M2 Money Supply (YoY) (Jun) | 7.80% |  | 7.60% |
 | 08:00 | CHF | Low | M3 Money Supply (Jun) | 1,138.1B |  | 1,135.6B |
-| 09:30 | HKD | Low | CPI (MoM) (Jun) |  |  | -0.20% |
-| 09:30 | HKD | Low | CPI (YoY) (Jun) |  |  | 1.20% |
+| 22 min | HKD | Low | CPI (MoM) (Jun) |  |  | -0.20% |
+| 22 min | HKD | Low | CPI (YoY) (Jun) |  |  | 1.20% |
 | 11:00 | EUR | Low | German Buba Monthly Report |  |  |  |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 11:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
@@ -24,5 +24,5 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction |  |  | 3.537% |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.195% |
 | 16:30 | USD | Low | 6-Month Bill Auction |  |  | 4.985% |
-| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.1% |
 | 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 2.3% |
+| 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.1% |
