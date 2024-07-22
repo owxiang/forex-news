@@ -4,15 +4,15 @@
 |------|----------|-------|--------|----------|----------|
 | 04:00 | IDR | M2 Money Supply (YoY) (Jun) | 7.80% |  | 7.60% |
 | 08:00 | CHF | M3 Money Supply (Jun) | 1,138.1B |  | 1,135.6B |
-| 22 min | HKD | CPI (MoM) (Jun) |  |  | -0.20% |
-| 22 min | HKD | CPI (YoY) (Jun) |  |  | 1.20% |
-| 11:00 | EUR | German Buba Monthly Report |  |  |  |
-| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
-| 11:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 09:30 | HKD | CPI (MoM) (Jun) | 0.50% |  | -0.20% |
+| 09:30 | HKD | CPI (YoY) (Jun) | 1.50% |  | 1.20% |
+| 52 min | EUR | German Buba Monthly Report |  |  |  |
+| 52 min | CNY | FDI (Jun) |  |  | -28.20% |
+| 52 min | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 12:25 | BRL | BCB Focus Market Readout |  |  |  |
 | 12:30 | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
-| 13:00 | MXN | Economic Activity (MoM) (May) |  |  | -0.60% |
 | 13:00 | MXN | Economic Activity (YoY) (May) |  |  | 5.40% |
+| 13:00 | MXN | Economic Activity (MoM) (May) |  |  | -0.60% |
 | 13:00 | MXN | Retail Sales (MoM) (May) |  |  | 0.5% |
 | 13:00 | MXN | Retail Sales (YoY) (May) |  |  | 3.2% |
 | 13:30 | USD | Chicago Fed National Activity (Jun) |  |  | 0.18 |
