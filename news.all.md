@@ -21,5 +21,5 @@
 | 14:00 | EUR | Low | French 6-Month BTF Auction | 3.540% |  | 3.537% |
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.190% |  | 5.195% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.990% |  | 4.985% |
-| 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 2.3% |
 | 22:00 | KRW | Low | PPI (MoM) (Jun) |  |  | 0.1% |
+| 22:00 | KRW | Low | PPI (YoY) (Jun) |  |  | 2.3% |
