@@ -6,8 +6,8 @@
 | 02:15 | CNY | Moderate | PBoC Loan Prime Rate | 3.35% | 3.45% | 3.45% |
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 05:00 | IDR | Low | M2 Money Supply (YoY) (Jun) |  |  | 7.60% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 08:00 | CHF | Low | M3 Money Supply (Jun) |  |  | 1,136,149.0B |
 | 09:30 | HKD | Low | CPI (MoM) (Jun) |  |  | -0.20% |
 | 09:30 | HKD | Low | CPI (YoY) (Jun) |  |  | 1.20% |
@@ -18,8 +18,8 @@
 | 12:30 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 13:00 | MXN | Low | Economic Activity (MoM) (May) |  |  | -0.60% |
 | 13:00 | MXN | Low | Economic Activity (YoY) (May) |  |  | 5.40% |
-| 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | 3.2% |
 | 13:00 | MXN | Low | Retail Sales (MoM) (May) |  |  | 0.5% |
+| 13:00 | MXN | Low | Retail Sales (YoY) (May) |  |  | 3.2% |
 | 13:30 | USD | Low | Chicago Fed National Activity (Jun) |  |  | 0.18 |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.355% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.602% |
