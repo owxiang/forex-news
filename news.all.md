@@ -2,10 +2,10 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 54 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) |  | 3.00% | 3.10% |
-| 06:00 | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
-| 06:00 | SGD | Moderate | CPI (YoY) (Jun) |  | 2.7% | 3.1% |
+| 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 54 min | SGD | Moderate | Core CPI (YoY) (Jun) |  | 3.00% | 3.10% |
+| 54 min | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
+| 54 min | SGD | Moderate | CPI (YoY) (Jun) |  | 2.7% | 3.1% |
 | 07:00 | INR | Moderate | Indian Union Budget |  |  |  |
 | 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 113.00% |

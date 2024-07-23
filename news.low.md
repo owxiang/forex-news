@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 06:00 | SGD | CPI (MoM) (Jun) |  |  | 0.70% |
+| 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 54 min | SGD | CPI (MoM) (Jun) |  |  | 0.70% |
 | 08:00 | ZAR | Leading Indicators (May) |  |  | 113.00% |
 | 10:30 | EUR | German 2-Year Schatz Auction |  |  | 2.800% |
 | 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
