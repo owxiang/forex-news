@@ -2,12 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
+| 06:00 | JPY | Moderate | BoJ Core CPI (YoY) | 2.1% |  | 2.1% |
 | 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 2.90% | 3.00% | 3.10% |
 | 06:00 | SGD | Low | CPI (MoM) (Jun) | -0.20% |  | 0.70% |
 | 06:00 | SGD | Moderate | CPI (YoY) (Jun) | 2.4% | 2.7% | 3.1% |
 | 06:30 | INR | Moderate | Indian Union Budget |  |  |  |
 | 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 113.00% |
+| 08:00 | ZAR | Low | Leading Indicators (May) | 111.90% |  | 113.00% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.800% |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |

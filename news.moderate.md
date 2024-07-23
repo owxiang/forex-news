@@ -2,6 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
+| 06:00 | JPY | BoJ Core CPI (YoY) | 2.1% |  | 2.1% |
 | 06:00 | SGD | Core CPI (YoY) (Jun) | 2.90% | 3.00% | 3.10% |
 | 06:00 | SGD | CPI (YoY) (Jun) | 2.4% | 2.7% | 3.1% |
 | 06:30 | INR | Indian Union Budget |  |  |  |
