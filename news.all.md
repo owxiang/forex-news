@@ -10,9 +10,8 @@
 | 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | ZAR | Low | Leading Indicators (May) | 111.90% |  | 113.00% |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.730% |  | 2.800% |
-| 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  |  | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | -0.7% |

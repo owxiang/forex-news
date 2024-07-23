@@ -5,8 +5,7 @@
 | 06:00 | SGD | CPI (MoM) (Jun) | -0.20% |  | 0.70% |
 | 08:00 | ZAR | Leading Indicators (May) | 111.90% |  | 113.00% |
 | 10:50 | EUR | German 2-Year Schatz Auction | 2.730% |  | 2.800% |
-| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 54 min | BRL | BCB National Monetary Council Meeting |  |  |  |
 | 13:55 | USD | Redbook (YoY) |  |  | 4.8% |
 | 15:00 | USD | Richmond Manufacturing Index (Jul) |  | -7 | -10 |
 | 15:00 | USD | Richmond Manufacturing Shipments (Jul) |  |  | -9 |
