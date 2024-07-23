@@ -11,9 +11,9 @@
 | 08:00 | ZAR | Low | Leading Indicators (May) | 111.90% |  | 113.00% |
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.730% |  | 2.800% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  |  | 0.2% |
-| 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
+| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 21 min | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  |  | 0.2% |
+| 46 min | USD | Low | Redbook (YoY) |  |  | 4.8% |
 | 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | -0.7% |
 | 15:00 | USD | High | Existing Home Sales (Jun) |  | 3.99M | 4.11M |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -7 | -10 |
