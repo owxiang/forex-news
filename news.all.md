@@ -21,5 +21,5 @@
 | 15:00 | EUR | Low | Consumer Confidence (Jul) | -13.0 | -13.0 | -14.0 |
 | 18:00 | USD | Moderate | 2-Year Note Auction | 4.434% |  | 4.706% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) | 21.03T |  | 20.96T |
-| 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -4.440M |
-| 22:00 | KRW | Low | Consumer Confidence (Jul) |  |  | 100.9 |
+| 24 min | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -4.440M |
+| 54 min | KRW | Low | Consumer Confidence (Jul) |  |  | 100.9 |

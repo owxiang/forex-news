@@ -10,4 +10,4 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 15:00 | USD | Existing Home Sales (MoM) (Jun) | -5.4% |  | -0.7% |
 | 18:00 | USD | 2-Year Note Auction | 4.434% |  | 4.706% |
-| 21:30 | USD | API Weekly Crude Oil Stock |  | 0.700M | -4.440M |
+| 24 min | USD | API Weekly Crude Oil Stock |  | 0.700M | -4.440M |
