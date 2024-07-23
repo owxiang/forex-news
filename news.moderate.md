@@ -2,9 +2,9 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 54 min | SGD | Core CPI (YoY) (Jun) |  | 3.00% | 3.10% |
-| 54 min | SGD | CPI (YoY) (Jun) |  | 2.7% | 3.1% |
-| 07:00 | INR | Indian Union Budget |  |  |  |
+| 06:00 | SGD | Core CPI (YoY) (Jun) | 2.90% | 3.00% | 3.10% |
+| 06:00 | SGD | CPI (YoY) (Jun) | 2.4% | 2.7% | 3.1% |
+| 55 min | INR | Indian Union Budget |  |  |  |
 | 08:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) |  |  | 0.2% |

@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 54 min | SGD | Moderate | Core CPI (YoY) (Jun) |  | 3.00% | 3.10% |
-| 54 min | SGD | Low | CPI (MoM) (Jun) |  |  | 0.70% |
-| 54 min | SGD | Moderate | CPI (YoY) (Jun) |  | 2.7% | 3.1% |
-| 07:00 | INR | Moderate | Indian Union Budget |  |  |  |
+| 06:00 | SGD | Moderate | Core CPI (YoY) (Jun) | 2.90% | 3.00% | 3.10% |
+| 06:00 | SGD | Low | CPI (MoM) (Jun) | -0.20% |  | 0.70% |
+| 06:00 | SGD | Moderate | CPI (YoY) (Jun) | 2.4% | 2.7% | 3.1% |
+| 55 min | INR | Moderate | Indian Union Budget |  |  |  |
 | 08:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 08:00 | ZAR | Low | Leading Indicators (May) |  |  | 113.00% |
+| 09:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 10:30 | EUR | Low | German 2-Year Schatz Auction |  |  | 2.800% |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -16,8 +16,8 @@
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  |  | 0.2% |
 | 13:55 | USD | Low | Redbook (YoY) |  |  | 4.8% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | -0.7% |
 | 15:00 | USD | High | Existing Home Sales (Jun) |  | 3.99M | 4.11M |
+| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | -0.7% |
 | 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -7 | -10 |
 | 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -9 |
 | 15:00 | USD | Low | Richmond Services Index (Jul) |  |  | -11 |
