@@ -12,14 +12,13 @@
 | 10:50 | EUR | Low | German 2-Year Schatz Auction | 2.730% |  | 2.800% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 21 min | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  |  | 0.2% |
-| 46 min | USD | Low | Redbook (YoY) |  |  | 4.8% |
-| 15:00 | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | -0.7% |
-| 15:00 | USD | High | Existing Home Sales (Jun) |  | 3.99M | 4.11M |
-| 15:00 | USD | Low | Richmond Manufacturing Index (Jul) |  | -7 | -10 |
-| 15:00 | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -9 |
-| 15:00 | USD | Low | Richmond Services Index (Jul) |  |  | -11 |
-| 15:00 | EUR | Low | Consumer Confidence (Jul) |  | -13.0 | -14.0 |
+| 13:55 | USD | Low | Redbook (YoY) | 4.9% |  | 4.8% |
+| 53 min | USD | Moderate | Existing Home Sales (MoM) (Jun) |  |  | -0.7% |
+| 53 min | USD | High | Existing Home Sales (Jun) |  | 3.99M | 4.11M |
+| 53 min | USD | Low | Richmond Manufacturing Index (Jul) |  | -7 | -10 |
+| 53 min | USD | Low | Richmond Manufacturing Shipments (Jul) |  |  | -9 |
+| 53 min | USD | Low | Richmond Services Index (Jul) |  |  | -11 |
+| 53 min | EUR | Low | Consumer Confidence (Jul) |  | -13.0 | -14.0 |
 | 18:00 | USD | Moderate | 2-Year Note Auction |  |  | 4.706% |
 | 18:00 | USD | Low | M2 Money Supply (MoM) (Jun) |  |  | 20.96T |
 | 21:30 | USD | Moderate | API Weekly Crude Oil Stock |  | 0.700M | -4.440M |
