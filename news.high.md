@@ -6,4 +6,4 @@
 | 14:45 | USD | S&P Global Services PMI (Jul) | 56.0 | 54.7 | 55.3 |
 | 14:45 | CAD | BoC Interest Rate Decision | 4.50% | 4.50% | 4.75% |
 | 15:00 | USD | New Home Sales (Jun) | 617K | 639K | 621K |
-| 22 min | USD | Crude Oil Inventories |  | -2.600M | -4.870M |
+| 15:30 | USD | Crude Oil Inventories | -3.741M | -2.600M | -4.870M |
