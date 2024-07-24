@@ -10,8 +10,8 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Jun) | -3.5% |  | -4.5% |
 | 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.5 | 48.9 | 48.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.7 | 50.7 | 50.4 |
-| 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
+| 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:00 | ZAR | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:05 | USD | Fed Logan Speaks |  |  |  |

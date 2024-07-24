@@ -29,6 +29,6 @@
 | 15:00 | USD | New Home Sales (MoM) (Jun) | -0.6% |  | -14.9% |
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.708M |  | -0.875M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
-| 53 min | USD | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.331% |
+| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.7% | 2.7% |
+| 53 min | USD | 5-Year Note Auction |  |  | 4.331% |
 | 21:05 | USD | FOMC Member Bowman Speaks |  |  |  |

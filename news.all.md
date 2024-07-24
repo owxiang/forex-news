@@ -20,8 +20,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 45.6 | 46.0 | 45.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 50.1 | 51.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.9 | 52.9 | 52.8 |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
@@ -40,8 +40,8 @@
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.18% | 0.17% | 0.17% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.71% | 0.38% | 0.21% |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) | 3.9% | 3.4% | -2.8% |
 | 13:30 | USD | Moderate | Building Permits | 1.454M | 1.446M | 1.399M |
+| 13:30 | USD | Low | Building Permits (MoM) | 3.9% | 3.4% | -2.8% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jun) | -96.84B | -98.80B | -99.37B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.2% |  | -0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) | 0.2% | 0.5% | 0.6% |
@@ -53,8 +53,8 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision | 4.50% | 4.50% | 4.75% |
-| 15:00 | USD | High | New Home Sales (Jun) | 617K | 639K | 621K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) | -0.6% |  | -14.9% |
+| 15:00 | USD | High | New Home Sales (Jun) | 617K | 639K | 621K |
 | 15:30 | USD | High | Crude Oil Inventories | -3.741M | -2.600M | -4.870M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) | -0.521M |  | -0.181M |
 | 15:30 | USD | Low | Crude Oil Imports | -0.388M |  | 0.312M |
@@ -66,8 +66,8 @@
 | 15:30 | USD | Low | EIA Weekly Refinery Utilization Rates (WoW) | -2.1% |  | -1.7% |
 | 15:30 | USD | Low | Gasoline Inventories | -5.572M |  | 3.328M |
 | 15:30 | CAD | Moderate | BOC Press Conference |  |  |  |
-| 53 min | USD | Moderate | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
-| 18:00 | USD | Moderate | 5-Year Note Auction |  |  | 4.331% |
+| 17:00 | USD | Moderate | Atlanta Fed GDPNow (Q2) | 2.6% | 2.7% | 2.7% |
+| 53 min | USD | Moderate | 5-Year Note Auction |  |  | 4.331% |
 | 18:30 | BRL | Low | Foreign Exchange Flows |  |  | -0.389B |
 | 21:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 21:05 | USD | Moderate | FOMC Member Bowman Speaks |  |  |  |
