@@ -8,9 +8,9 @@
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.9 |  | 49.4 |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI | 58.5 |  | 58.3 |
 | 06:00 | INR | Low | HSBC India Services PMI | 61.1 |  | 60.5 |
-| 54 min | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
-| 07:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -4.6% |
+| 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) | -18.4 | -21.1 | -21.6 |
+| 38 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 53 min | EUR | Low | Spanish PPI (YoY) |  |  | -4.6% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 45.8 | 45.4 |
 | 08:15 | EUR | Low | HCOB France Composite PMI (Jul) |  | 48.9 | 48.8 |
 | 08:15 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |

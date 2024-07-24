@@ -3,8 +3,8 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (Jul) | 53.9 |  | 49.4 |
-| 54 min | EUR | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
-| 07:45 | EUR | ECB's De Guindos Speaks |  |  |  |
+| 07:00 | EUR | GfK German Consumer Climate (Aug) | -18.4 | -21.1 | -21.6 |
+| 38 min | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 45.8 | 45.4 |
 | 08:15 | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
 | 08:30 | EUR | HCOB Germany Manufacturing PMI (Jul) |  | 44.1 | 43.5 |

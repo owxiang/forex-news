@@ -7,7 +7,7 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.2 | 50.5 | 50.0 |
 | 06:00 | INR | HSBC India Manufacturing PMI | 58.5 |  | 58.3 |
 | 06:00 | INR | HSBC India Services PMI | 61.1 |  | 60.5 |
-| 08:00 | EUR | Spanish PPI (YoY) |  |  | -4.6% |
+| 53 min | EUR | Spanish PPI (YoY) |  |  | -4.6% |
 | 08:15 | EUR | HCOB France Composite PMI (Jul) |  | 48.9 | 48.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
 | 09:00 | ZAR | Core CPI (MoM) (Jun) |  |  | 0.1% |
