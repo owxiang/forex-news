@@ -17,13 +17,13 @@
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.4 | 52.5 | 52.1 |
 | 10:50 | EUR | German 10-Year Bund Auction | 2.430% |  | 2.630% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 55 min | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Building Permits |  | 1.446M | 1.399M |
-| 13:30 | USD | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
-| 13:30 | USD | Retail Inventories Ex Auto (Jun) |  |  |  |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jun) |  | 0.1% | 0.2% |
-| 13:30 | CAD | Wholesale Sales (MoM) |  |  | -0.8% |
-| 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 13:00 | EUR | ECB's Lane Speaks |  |  |  |
+| 22 min | USD | Building Permits |  | 1.446M | 1.399M |
+| 22 min | USD | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
+| 22 min | USD | Retail Inventories Ex Auto (Jun) |  |  |  |
+| 22 min | CAD | New Housing Price Index (MoM) (Jun) |  | 0.1% | 0.2% |
+| 22 min | CAD | Wholesale Sales (MoM) |  |  | -0.8% |
+| 37 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 54.8 |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | BoC Rate Statement |  |  |  |
