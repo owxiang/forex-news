@@ -4,9 +4,9 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 00:00 | AUD | Low | Judo Bank Australia Manufacturing PMI | 47.4 |  | 47.2 |
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.8 |  | 51.2 |
-| 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 50.5 | 50.0 |
-| 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) |  |  | 49.4 |
-| 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) |  | 1.10% | 1.40% |
+| 6 min | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) |  | 50.5 | 50.0 |
+| 6 min | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) |  |  | 49.4 |
+| 6 min | SGD | Low | URA Property Index (QoQ) (Q2) |  | 1.10% | 1.40% |
 | 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 0.0% |
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 58.3 |
@@ -23,10 +23,10 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 46.0 | 45.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 51.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 52.9 | 52.8 |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 4.6% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 5.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.6 | 52.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 51.1 | 50.9 |
@@ -60,8 +60,8 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.50% | 4.75% |
-| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -11.3% |
 | 15:00 | USD | High | New Home Sales (Jun) |  | 639K | 619K |
+| 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -11.3% |
 | 15:30 | USD | High | Crude Oil Inventories |  | 0.700M | -4.870M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.181M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.312M |
