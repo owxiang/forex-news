@@ -1,34 +1,19 @@
-## 24 July 2024 - Moderate Impact Forex News
+## 25 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 01:30 | JPY | au Jibun Bank Japan Services PMI (Jul) | 53.9 |  | 49.4 |
-| 07:00 | EUR | GfK German Consumer Climate (Aug) | -18.4 | -21.1 | -21.6 |
-| 07:45 | EUR | ECB's De Guindos Speaks |  |  |  |
-| 08:15 | EUR | HCOB France Manufacturing PMI (Jul) | 44.1 | 45.8 | 45.4 |
-| 08:15 | EUR | HCOB France Services PMI (Jul) | 50.7 | 49.7 | 49.6 |
-| 08:30 | EUR | HCOB Germany Manufacturing PMI (Jul) | 42.6 | 44.1 | 43.5 |
-| 08:30 | EUR | HCOB Germany Services PMI (Jul) | 52.0 | 53.2 | 53.1 |
-| 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 45.6 | 46.0 | 45.8 |
-| 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) | 50.1 | 51.1 | 50.9 |
-| 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.9 | 52.9 | 52.8 |
-| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
-| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
-| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.4 | 52.5 | 52.1 |
-| 10:50 | EUR | German 10-Year Bund Auction | 2.430% |  | 2.630% |
+| 07:00 | EUR | German Buba President Nagel Speaks |  |  |  |
+| 09:00 | EUR | German Business Expectations (Jul) |  |  | 89.0 |
+| 09:00 | EUR | German Current Assessment (Jul) |  |  | 88.3 |
+| 09:00 | EUR | German Ifo Business Climate Index (Jul) |  | 88.9 | 88.6 |
+| 11:00 | EUR | France Jobseekers Total |  |  | 2,816.3K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Building Permits | 1.454M | 1.446M | 1.399M |
-| 13:30 | USD | Goods Trade Balance (Jun) | -96.84B | -98.80B | -99.40B |
-| 13:30 | USD | Retail Inventories Ex Auto (Jun) | 0.2% |  | -0.1% |
-| 13:30 | CAD | New Housing Price Index (MoM) (Jun) | -0.2% | 0.1% | 0.2% |
-| 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Jul) | 55.0 | 54.2 | 54.8 |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | New Home Sales (MoM) (Jun) | -0.6% |  | -14.9% |
-| 15:30 | USD | Cushing Crude Oil Inventories | -1.708M |  | -0.875M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
-| 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.7% | 2.7% |
-| 18:00 | USD | 5-Year Note Auction | 4.121% |  | 4.331% |
-| 21:05 | USD | FOMC Member Bowman Speaks |  |  |  |
+| 13:30 | USD | Continuing Jobless Claims |  |  | 1,867K |
+| 13:30 | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.2% | -0.1% |
+| 13:30 | USD | Core PCE Prices (Q2) |  | 2.70% | 3.70% |
+| 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.6% | 3.1% |
+| 13:30 | USD | Goods Trade Balance |  |  | -100.62B |
+| 13:30 | USD | Retail Inventories Ex Auto |  |  | 0.0% |
+| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
+| 18:00 | USD | 7-Year Note Auction |  |  | 4.276% |
+| 21:30 | USD | Fed's Balance Sheet |  |  | 7,208B |

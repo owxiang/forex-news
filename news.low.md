@@ -1,38 +1,45 @@
-## 24 July 2024 - Low Impact Forex News
+## 25 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | AUD | Judo Bank Australia Manufacturing PMI | 47.4 |  | 47.2 |
-| 00:00 | AUD | Judo Bank Australia Services PMI | 50.8 |  | 51.2 |
-| 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.2 | 50.5 | 50.0 |
-| 06:00 | INR | HSBC India Manufacturing PMI | 58.5 |  | 58.3 |
-| 06:00 | INR | HSBC India Services PMI | 61.1 |  | 60.5 |
-| 08:00 | EUR | Spanish PPI (YoY) (Jun) | -3.5% |  | -4.5% |
-| 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.5 | 48.9 | 48.8 |
-| 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.7 | 50.7 | 50.4 |
-| 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
-| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
-| 09:00 | ZAR | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
-| 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
-| 09:05 | USD | Fed Logan Speaks |  |  |  |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction | 4.636% |  | 4.430% |
-| 11:00 | EUR | Spanish Consumer Confidence (Jun) | 88.4 |  | 83.8 |
-| 12:00 | USD | MBA 30-Year Mortgage Rate | 6.82% |  | 6.87% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) | -2.2% |  | 3.9% |
-| 12:00 | USD | MBA Purchase Index | 134.8 |  | 140.4 |
-| 12:00 | USD | Mortgage Market Index | 209.3 |  | 214.1 |
-| 12:00 | USD | Mortgage Refinance Index | 614.9 |  | 613.0 |
-| 13:00 | MXN | 1st Half-Month Core CPI (Jul) | 0.18% | 0.17% | 0.17% |
-| 13:00 | MXN | 1st Half-Month CPI (Jul) | 0.71% | 0.38% | 0.21% |
-| 13:30 | USD | Building Permits (MoM) | 3.9% | 3.4% | -2.8% |
-| 13:30 | USD | Wholesale Inventories (MoM) | 0.2% | 0.5% | 0.6% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) | -0.521M |  | -0.181M |
-| 15:30 | USD | Crude Oil Imports | -0.388M |  | 0.312M |
-| 15:30 | USD | Distillate Fuel Production | -0.292M |  | 0.101M |
-| 15:30 | USD | EIA Weekly Distillates Stocks | -2.753M |  | 3.454M |
-| 15:30 | USD | Gasoline Production | 0.664M |  | -0.751M |
-| 15:30 | USD | Heating Oil Stockpiles | -0.489M |  | 0.252M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.1% |  | -1.7% |
-| 15:30 | USD | Gasoline Inventories | -5.572M |  | 3.328M |
-| 18:30 | BRL | Foreign Exchange Flows | 0.395B |  | -0.389B |
-| 21:05 | USD | Fed Logan Speaks |  |  |  |
+| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
+| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
+| 43 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.5% |
+| 43 min | JPY | Foreign Bonds Buying |  |  | -208.9B |
+| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 227.6B |
+| 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 07:00 | NOK | Industrial Confidence (Q2) |  |  | -4.3 |
+| 07:00 | NOK | Unemployment Rate (Jun) |  |  | 4.1% |
+| 07:45 | EUR | French Business Survey (Jul) |  |  | 99 |
+| 09:00 | EUR | M3 Money Supply (YoY) (Jun) |  | 1.9% | 1.6% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Jun) |  |  | 0.3% |
+| 09:00 | EUR | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
+| 09:30 | HKD | Exports (MoM) (Jun) |  |  | 14.8% |
+| 09:30 | HKD | Imports (MoM) (Jun) |  |  | 9.6% |
+| 09:30 | HKD | Trade Balance |  |  | -12.1B |
+| 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 0.1% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
+| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
+| 12:00 | BRL | Mid-Month CPI (YoY) (Jul) |  |  | 4.06% |
+| 12:00 | BRL | FGV Consumer confidence (Jul) |  |  | 91.1 |
+| 12:30 | BRL | Current Account (USD) (Jun) |  |  | -3.40B |
+| 12:30 | BRL | Foreign direct investment (USD) (Jun) |  |  | 3.00B |
+| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
+| 13:30 | USD | Durables Excluding Defense (MoM) (Jun) |  |  | -0.2% |
+| 13:30 | USD | GDP Sales (Q2) |  |  | 1.8% |
+| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | 0.1% | -0.6% |
+| 13:30 | USD | Jobless Claims 4-Week Avg. |  |  | 234.75K |
+| 13:30 | USD | PCE Prices (Q2) |  |  | 3.4% |
+| 13:30 | USD | Real Consumer Spending (Q2) |  |  | 1.5% |
+| 13:30 | CAD | Average Weekly Earnings (YoY) (May) |  |  | 3.69% |
+| 13:30 | CAD | Manufacturing Sales (MoM) |  |  | 0.4% |
+| 14:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
+| 15:30 | USD | Natural Gas Storage |  | 13B | 10B |
+| 15:30 | INR | M3 Money Supply |  |  | 9.7% |
+| 16:00 | USD | KC Fed Composite Index (Jul) |  |  | -8 |
+| 16:00 | USD | KC Fed Manufacturing Index (Jul) |  |  | -11 |
+| 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
+| 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
+| 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |

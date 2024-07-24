@@ -1,9 +1,7 @@
-## 24 July 2024 - High Impact Forex News
+## 25 July 2024 - High Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 14:45 | USD | S&P Global US Manufacturing PMI (Jul) | 49.5 | 51.7 | 51.6 |
-| 14:45 | USD | S&P Global Services PMI (Jul) | 56.0 | 54.7 | 55.3 |
-| 14:45 | CAD | BoC Interest Rate Decision | 4.50% | 4.50% | 4.75% |
-| 15:00 | USD | New Home Sales (Jun) | 617K | 639K | 621K |
-| 15:30 | USD | Crude Oil Inventories | -3.741M | -2.600M | -4.870M |
+| 13:30 | USD | Durable Goods Orders (MoM) (Jun) |  | 0.3% | 0.1% |
+| 13:30 | USD | GDP (QoQ) (Q2) |  | 2.0% | 1.4% |
+| 13:30 | USD | Initial Jobless Claims |  | 237K | 243K |
