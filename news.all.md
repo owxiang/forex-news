@@ -20,10 +20,10 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 45.6 | 46.0 | 45.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 50.1 | 51.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.9 | 52.9 | 52.8 |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
+| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
+| 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
@@ -31,16 +31,16 @@
 | 10:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.636% |  | 4.430% |
 | 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.430% |  | 2.630% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.9% |
-| 54 min | USD | Low | MBA Purchase Index |  |  | 140.4 |
-| 54 min | USD | Low | Mortgage Market Index |  |  | 214.1 |
-| 54 min | USD | Low | Mortgage Refinance Index |  |  | 613.0 |
-| 12:30 | INR | Low | M3 Money Supply |  |  | 9.7% |
-| 12:30 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
-| 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.17% |
-| 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.38% | 0.21% |
-| 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
+| 12:00 | USD | Low | MBA 30-Year Mortgage Rate | 6.82% |  | 6.87% |
+| 12:00 | USD | Low | MBA Mortgage Applications (WoW) | -2.2% |  | 3.9% |
+| 12:00 | USD | Low | MBA Purchase Index | 134.8 |  | 140.4 |
+| 12:00 | USD | Low | Mortgage Market Index | 209.3 |  | 214.1 |
+| 12:00 | USD | Low | Mortgage Refinance Index | 614.9 |  | 613.0 |
+| 25 min | INR | Low | M3 Money Supply |  |  | 9.7% |
+| 25 min | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
+| 55 min | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.17% |
+| 55 min | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.38% | 0.21% |
+| 55 min | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Low | Building Permits (MoM) |  | 3.4% | -2.8% |
 | 13:30 | USD | Moderate | Building Permits |  | 1.446M | 1.399M |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
@@ -55,8 +55,8 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.50% | 4.75% |
-| 15:00 | USD | High | New Home Sales (Jun) |  | 639K | 619K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -11.3% |
+| 15:00 | USD | High | New Home Sales (Jun) |  | 639K | 619K |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.600M | -4.870M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.181M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.312M |
