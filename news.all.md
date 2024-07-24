@@ -22,8 +22,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.9 | 52.9 | 52.8 |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
@@ -40,8 +40,8 @@
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) | 0.18% | 0.17% | 0.17% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) | 0.71% | 0.38% | 0.21% |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Low | Building Permits (MoM) | 3.9% | 3.4% | -2.8% |
 | 13:30 | USD | Moderate | Building Permits | 1.454M | 1.446M | 1.399M |
+| 13:30 | USD | Low | Building Permits (MoM) | 3.9% | 3.4% | -2.8% |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jun) | -96.84B | -98.80B | -99.40B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) | 0.2% |  | -0.1% |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) | 0.2% | 0.5% | 0.6% |
