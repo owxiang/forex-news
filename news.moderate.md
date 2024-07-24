@@ -30,5 +30,5 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.708M |  | -0.875M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.7% | 2.7% |
-| 18:00 | USD | 5-Year Note Auction |  |  | 4.331% |
+| 18:00 | USD | 5-Year Note Auction | 4.121% |  | 4.331% |
 | 21:05 | USD | FOMC Member Bowman Speaks |  |  |  |
