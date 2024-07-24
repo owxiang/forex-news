@@ -10,8 +10,8 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Jun) | -3.5% |  | -4.5% |
 | 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.5 | 48.9 | 48.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.7 | 50.7 | 50.4 |
-| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
 | 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
 | 09:00 | ZAR | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:05 | USD | Fed Logan Speaks |  |  |  |
@@ -26,14 +26,14 @@
 | 13:00 | MXN | 1st Half-Month CPI (Jul) | 0.71% | 0.38% | 0.21% |
 | 13:30 | USD | Building Permits (MoM) | 3.9% | 3.4% | -2.8% |
 | 13:30 | USD | Wholesale Inventories (MoM) | 0.2% | 0.5% | 0.6% |
-| 15:30 | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.181M |
-| 15:30 | USD | Crude Oil Imports |  |  | 0.312M |
-| 15:30 | USD | Distillate Fuel Production |  |  | 0.101M |
-| 15:30 | USD | EIA Weekly Distillates Stocks |  |  | 3.454M |
-| 15:30 | USD | Gasoline Production |  |  | -0.751M |
-| 15:30 | USD | Heating Oil Stockpiles |  |  | 0.252M |
-| 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.7% |
-| 15:30 | USD | Gasoline Inventories |  |  | 3.328M |
-| 15:30 | INR | M3 Money Supply |  |  | 9.7% |
+| 22 min | USD | EIA Refinery Crude Runs (WoW) |  |  | -0.181M |
+| 22 min | USD | Crude Oil Imports |  |  | 0.312M |
+| 22 min | USD | Distillate Fuel Production |  |  | 0.101M |
+| 22 min | USD | EIA Weekly Distillates Stocks |  |  | 3.454M |
+| 22 min | USD | Gasoline Production |  |  | -0.751M |
+| 22 min | USD | Heating Oil Stockpiles |  |  | 0.252M |
+| 22 min | USD | EIA Weekly Refinery Utilization Rates (WoW) |  |  | -1.7% |
+| 22 min | USD | Gasoline Inventories |  |  | 3.328M |
+| 22 min | INR | M3 Money Supply |  |  | 9.7% |
 | 18:30 | BRL | Foreign Exchange Flows |  |  | -0.389B |
 | 21:05 | USD | Fed Logan Speaks |  |  |  |

@@ -23,12 +23,12 @@
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) | 0.2% |  | -0.1% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) | -0.2% | 0.1% | 0.2% |
 | 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 37 min | USD | S&P Global Composite PMI (Jul) |  |  | 54.8 |
-| 37 min | CAD | BoC Monetary Policy Report |  |  |  |
-| 37 min | CAD | BoC Rate Statement |  |  |  |
-| 52 min | USD | New Home Sales (MoM) (Jun) |  |  | -11.3% |
-| 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.875M |
-| 15:30 | CAD | BOC Press Conference |  |  |  |
+| 14:45 | USD | S&P Global Composite PMI (Jul) | 55.0 |  | 54.8 |
+| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
+| 14:45 | CAD | BoC Rate Statement |  |  |  |
+| 15:00 | USD | New Home Sales (MoM) (Jun) | -0.6% |  | -14.9% |
+| 22 min | USD | Cushing Crude Oil Inventories |  |  | -0.875M |
+| 22 min | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
 | 18:00 | USD | 5-Year Note Auction |  |  | 4.331% |
 | 21:05 | USD | FOMC Member Bowman Speaks |  |  |  |
