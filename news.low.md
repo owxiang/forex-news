@@ -10,10 +10,10 @@
 | 08:00 | EUR | Spanish PPI (YoY) (Jun) | -3.5% |  | -4.5% |
 | 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.5 | 48.9 | 48.8 |
 | 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.7 | 50.7 | 50.4 |
-| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
 | 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
-| 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
 | 09:00 | ZAR | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
+| 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:05 | USD | Fed Logan Speaks |  |  |  |
 | 10:00 | GBP | 30-Year Treasury Gilt Auction | 4.636% |  | 4.430% |
 | 11:00 | EUR | Spanish Consumer Confidence (Jun) | 88.4 |  | 83.8 |
@@ -34,5 +34,5 @@
 | 15:30 | USD | Heating Oil Stockpiles | -0.489M |  | 0.252M |
 | 15:30 | USD | EIA Weekly Refinery Utilization Rates (WoW) | -2.1% |  | -1.7% |
 | 15:30 | USD | Gasoline Inventories | -5.572M |  | 3.328M |
-| 18:30 | BRL | Foreign Exchange Flows |  |  | -0.389B |
+| 24 min | BRL | Foreign Exchange Flows |  |  | -0.389B |
 | 21:05 | USD | Fed Logan Speaks |  |  |  |

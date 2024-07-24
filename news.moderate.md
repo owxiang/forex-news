@@ -19,7 +19,7 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits | 1.454M | 1.446M | 1.399M |
-| 13:30 | USD | Goods Trade Balance (Jun) | -96.84B | -98.80B | -99.37B |
+| 13:30 | USD | Goods Trade Balance (Jun) | -96.84B | -98.80B | -99.40B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) | 0.2% |  | -0.1% |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) | -0.2% | 0.1% | 0.2% |
 | 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
@@ -30,5 +30,5 @@
 | 15:30 | USD | Cushing Crude Oil Inventories | -1.708M |  | -0.875M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) | 2.6% | 2.7% | 2.7% |
-| 53 min | USD | 5-Year Note Auction |  |  | 4.331% |
+| 18:00 | USD | 5-Year Note Auction |  |  | 4.331% |
 | 21:05 | USD | FOMC Member Bowman Speaks |  |  |  |
