@@ -18,16 +18,15 @@
 | 10:50 | EUR | German 10-Year Bund Auction | 2.430% |  | 2.630% |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
-| 22 min | USD | Building Permits |  | 1.446M | 1.399M |
-| 22 min | USD | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
-| 22 min | USD | Retail Inventories Ex Auto (Jun) |  |  |  |
-| 22 min | CAD | New Housing Price Index (MoM) (Jun) |  | 0.1% | 0.2% |
-| 22 min | CAD | Wholesale Sales (MoM) |  |  | -0.8% |
-| 37 min | EUR | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 54.8 |
-| 14:45 | CAD | BoC Monetary Policy Report |  |  |  |
-| 14:45 | CAD | BoC Rate Statement |  |  |  |
-| 15:00 | USD | New Home Sales (MoM) (Jun) |  |  | -11.3% |
+| 13:30 | USD | Building Permits | 1.454M | 1.446M | 1.399M |
+| 13:30 | USD | Goods Trade Balance (Jun) | -96.84B | -98.80B | -99.37B |
+| 13:30 | USD | Retail Inventories Ex Auto (Jun) | 0.2% |  | -0.1% |
+| 13:30 | CAD | New Housing Price Index (MoM) (Jun) | -0.2% | 0.1% | 0.2% |
+| 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
+| 37 min | USD | S&P Global Composite PMI (Jul) |  |  | 54.8 |
+| 37 min | CAD | BoC Monetary Policy Report |  |  |  |
+| 37 min | CAD | BoC Rate Statement |  |  |  |
+| 52 min | USD | New Home Sales (MoM) (Jun) |  |  | -11.3% |
 | 15:30 | USD | Cushing Crude Oil Inventories |  |  | -0.875M |
 | 15:30 | CAD | BOC Press Conference |  |  |  |
 | 17:00 | USD | Atlanta Fed GDPNow (Q2) |  | 2.7% | 2.7% |
