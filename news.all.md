@@ -9,22 +9,22 @@
 | 06:00 | INR | Low | HSBC India Manufacturing PMI | 58.5 |  | 58.3 |
 | 06:00 | INR | Low | HSBC India Services PMI | 61.1 |  | 60.5 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) | -18.4 | -21.1 | -21.6 |
-| 38 min | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
-| 53 min | EUR | Low | Spanish PPI (YoY) |  |  | -4.6% |
-| 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 45.8 | 45.4 |
-| 08:15 | EUR | Low | HCOB France Composite PMI (Jul) |  | 48.9 | 48.8 |
-| 08:15 | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
-| 08:30 | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
-| 08:30 | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 44.1 | 43.5 |
-| 08:30 | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 53.2 | 53.1 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 46.0 | 45.8 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 51.1 | 50.9 |
-| 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 52.9 | 52.8 |
-| 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.1% |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 4.6% |
-| 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 5.2% |
-| 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
+| 07:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
+| 08:00 | EUR | Low | Spanish PPI (YoY) | -3.5% |  | -4.5% |
+| 9 min | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 45.8 | 45.4 |
+| 9 min | EUR | Low | HCOB France Composite PMI (Jul) |  | 48.9 | 48.8 |
+| 9 min | EUR | Moderate | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
+| 24 min | EUR | Low | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
+| 24 min | EUR | Moderate | HCOB Germany Manufacturing PMI (Jul) |  | 44.1 | 43.5 |
+| 24 min | EUR | Moderate | HCOB Germany Services PMI (Jul) |  | 53.2 | 53.1 |
+| 54 min | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 46.0 | 45.8 |
+| 54 min | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 51.1 | 50.9 |
+| 54 min | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 52.9 | 52.8 |
+| 54 min | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 4.6% |
+| 54 min | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.1% |
+| 54 min | ZAR | Low | CPI (YoY) (Jun) |  |  | 5.2% |
+| 54 min | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
+| 59 min | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.6 | 52.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 51.1 | 50.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 52.5 | 52.1 |
@@ -56,8 +56,8 @@
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
 | 14:45 | CAD | Moderate | BoC Rate Statement |  |  |  |
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.50% | 4.75% |
-| 15:00 | USD | High | New Home Sales (Jun) |  | 639K | 619K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -11.3% |
+| 15:00 | USD | High | New Home Sales (Jun) |  | 639K | 619K |
 | 15:30 | USD | High | Crude Oil Inventories |  | -2.600M | -4.870M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.181M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.312M |
