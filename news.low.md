@@ -7,15 +7,15 @@
 | 01:30 | JPY | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.2 | 50.5 | 50.0 |
 | 06:00 | INR | HSBC India Manufacturing PMI | 58.5 |  | 58.3 |
 | 06:00 | INR | HSBC India Services PMI | 61.1 |  | 60.5 |
-| 08:00 | EUR | Spanish PPI (YoY) | -3.5% |  | -4.5% |
-| 9 min | EUR | HCOB France Composite PMI (Jul) |  | 48.9 | 48.8 |
-| 24 min | EUR | HCOB Germany Composite PMI (Jul) |  | 50.7 | 50.4 |
-| 54 min | ZAR | Core CPI (YoY) (Jun) |  |  | 4.6% |
-| 54 min | ZAR | Core CPI (MoM) (Jun) |  |  | 0.1% |
-| 54 min | ZAR | CPI (YoY) (Jun) |  |  | 5.2% |
-| 54 min | ZAR | CPI (MoM) (Jun) |  |  | 0.2% |
-| 59 min | USD | Fed Logan Speaks |  |  |  |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
+| 08:00 | EUR | Spanish PPI (YoY) (Jun) | -3.5% |  | -4.5% |
+| 08:15 | EUR | HCOB France Composite PMI (Jul) | 49.5 | 48.9 | 48.8 |
+| 08:30 | EUR | HCOB Germany Composite PMI (Jul) | 48.7 | 50.7 | 50.4 |
+| 09:00 | ZAR | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
+| 09:00 | ZAR | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
+| 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
+| 09:05 | USD | Fed Logan Speaks |  |  |  |
+| 53 min | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
 | 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
 | 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.9% |
