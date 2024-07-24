@@ -6,10 +6,8 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.8 |  | 51.2 |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.2 | 50.5 | 50.0 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.9 |  | 49.4 |
-| 04:00 | NZD | Low | Credit Card Spending (YoY) |  |  | 0.0% |
-| 54 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 06:00 | INR | Low | HSBC India Manufacturing PMI |  |  | 58.3 |
-| 06:00 | INR | Low | HSBC India Services PMI |  |  | 60.5 |
+| 54 min | INR | Low | HSBC India Manufacturing PMI |  |  | 58.3 |
+| 54 min | INR | Low | HSBC India Services PMI |  |  | 60.5 |
 | 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
 | 07:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -4.6% |
@@ -22,8 +20,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) |  | 46.0 | 45.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) |  | 51.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 52.9 | 52.8 |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 4.6% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.1% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 4.6% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 5.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
