@@ -3,7 +3,7 @@
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
 | 01:30 | JPY | au Jibun Bank Japan Services PMI (Jul) | 53.9 |  | 49.4 |
-| 07:00 | EUR | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
+| 54 min | EUR | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
 | 07:45 | EUR | ECB's De Guindos Speaks |  |  |  |
 | 08:15 | EUR | HCOB France Manufacturing PMI (Jul) |  | 45.8 | 45.4 |
 | 08:15 | EUR | HCOB France Services PMI (Jul) |  | 49.7 | 49.6 |
@@ -19,11 +19,10 @@
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits |  | 1.446M | 1.399M |
-| 13:30 | USD | Goods Trade Balance (Jun) |  | -98.90B | -99.37B |
+| 13:30 | USD | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
 | 13:30 | USD | Retail Inventories Ex Auto (Jun) |  |  |  |
 | 13:30 | CAD | New Housing Price Index (MoM) (Jun) |  | 0.1% | 0.2% |
 | 13:30 | CAD | Wholesale Sales (MoM) |  |  | -0.8% |
-| 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 13:45 | EUR | German Buba Vice President Buch Speaks |  |  |  |
 | 14:45 | USD | S&P Global Composite PMI (Jul) |  |  | 54.8 |
 | 14:45 | CAD | BoC Monetary Policy Report |  |  |  |

@@ -6,9 +6,9 @@
 | 00:00 | AUD | Low | Judo Bank Australia Services PMI | 50.8 |  | 51.2 |
 | 01:30 | JPY | Low | au Jibun Bank Japan Manufacturing PMI (Jul) | 49.2 | 50.5 | 50.0 |
 | 01:30 | JPY | Moderate | au Jibun Bank Japan Services PMI (Jul) | 53.9 |  | 49.4 |
-| 54 min | INR | Low | HSBC India Manufacturing PMI |  |  | 58.3 |
-| 54 min | INR | Low | HSBC India Services PMI |  |  | 60.5 |
-| 07:00 | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
+| 06:00 | INR | Low | HSBC India Manufacturing PMI | 58.5 |  | 58.3 |
+| 06:00 | INR | Low | HSBC India Services PMI | 61.1 |  | 60.5 |
+| 54 min | EUR | Moderate | GfK German Consumer Climate (Aug) |  | -21.1 | -21.8 |
 | 07:45 | EUR | Moderate | ECB's De Guindos Speaks |  |  |  |
 | 08:00 | EUR | Low | Spanish PPI (YoY) |  |  | -4.6% |
 | 08:15 | EUR | Moderate | HCOB France Manufacturing PMI (Jul) |  | 45.8 | 45.4 |
@@ -22,8 +22,8 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) |  | 52.9 | 52.8 |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jun) |  |  | 0.1% |
 | 09:00 | ZAR | Low | Core CPI (YoY) (Jun) |  |  | 4.6% |
-| 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 5.2% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) |  |  | 0.2% |
+| 09:00 | ZAR | Low | CPI (YoY) (Jun) |  |  | 5.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.6 | 52.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 51.1 | 50.9 |
@@ -44,14 +44,13 @@
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Low | Building Permits (MoM) |  | 3.4% | -2.8% |
 | 13:30 | USD | Moderate | Building Permits |  | 1.446M | 1.399M |
-| 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.90B | -99.37B |
+| 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  |  |
-| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.4% | 0.6% |
+| 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.5% | 0.6% |
 | 13:30 | CAD | Moderate | New Housing Price Index (MoM) (Jun) |  | 0.1% | 0.2% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -0.8% |
 | 13:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 13:45 | EUR | Moderate | German Buba Vice President Buch Speaks |  |  |  |
-| 14:45 | USD | High | S&P Global US Manufacturing PMI (Jul) |  | 51.6 | 51.6 |
+| 14:45 | USD | High | S&P Global US Manufacturing PMI (Jul) |  | 51.7 | 51.6 |
 | 14:45 | USD | Moderate | S&P Global Composite PMI (Jul) |  |  | 54.8 |
 | 14:45 | USD | High | S&P Global Services PMI (Jul) |  | 54.7 | 55.3 |
 | 14:45 | CAD | Moderate | BoC Monetary Policy Report |  |  |  |
@@ -59,7 +58,7 @@
 | 14:45 | CAD | High | BoC Interest Rate Decision |  | 4.50% | 4.75% |
 | 15:00 | USD | High | New Home Sales (Jun) |  | 639K | 619K |
 | 15:00 | USD | Moderate | New Home Sales (MoM) (Jun) |  |  | -11.3% |
-| 15:30 | USD | High | Crude Oil Inventories |  | 0.700M | -4.870M |
+| 15:30 | USD | High | Crude Oil Inventories |  | -2.600M | -4.870M |
 | 15:30 | USD | Low | EIA Refinery Crude Runs (WoW) |  |  | -0.181M |
 | 15:30 | USD | Low | Crude Oil Imports |  |  | 0.312M |
 | 15:30 | USD | Moderate | Cushing Crude Oil Inventories |  |  | -0.875M |
