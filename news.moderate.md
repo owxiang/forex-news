@@ -15,8 +15,8 @@
 | 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
 | 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
 | 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.4 | 52.5 | 52.1 |
-| 24 min | EUR | German 10-Year Bund Auction |  |  | 2.630% |
-| 54 min | EUR | Eurogroup Meetings |  |  |  |
+| 10:50 | EUR | German 10-Year Bund Auction | 2.430% |  | 2.630% |
+| 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits |  | 1.446M | 1.399M |
 | 13:30 | USD | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |

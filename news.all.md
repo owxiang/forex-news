@@ -28,15 +28,14 @@
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
 | 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 52.4 | 52.5 | 52.1 |
-| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 24 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
-| 54 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
-| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.9% |
-| 12:00 | USD | Low | MBA Purchase Index |  |  | 140.4 |
-| 12:00 | USD | Low | Mortgage Market Index |  |  | 214.1 |
-| 12:00 | USD | Low | Mortgage Refinance Index |  |  | 613.0 |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction | 4.636% |  | 4.430% |
+| 10:50 | EUR | Moderate | German 10-Year Bund Auction | 2.430% |  | 2.630% |
+| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 54 min | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
+| 54 min | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.9% |
+| 54 min | USD | Low | MBA Purchase Index |  |  | 140.4 |
+| 54 min | USD | Low | Mortgage Market Index |  |  | 214.1 |
+| 54 min | USD | Low | Mortgage Refinance Index |  |  | 613.0 |
 | 12:30 | INR | Low | M3 Money Supply |  |  | 9.7% |
 | 12:30 | EUR | Low | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.17% |

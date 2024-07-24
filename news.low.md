@@ -15,13 +15,12 @@
 | 09:00 | ZAR | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:00 | ZAR | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:05 | USD | Fed Logan Speaks |  |  |  |
-| 10:00 | GBP | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 54 min | CNY | FDI (Jun) |  |  | -28.20% |
-| 12:00 | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
-| 12:00 | USD | MBA Mortgage Applications (WoW) |  |  | 3.9% |
-| 12:00 | USD | MBA Purchase Index |  |  | 140.4 |
-| 12:00 | USD | Mortgage Market Index |  |  | 214.1 |
-| 12:00 | USD | Mortgage Refinance Index |  |  | 613.0 |
+| 10:00 | GBP | 30-Year Treasury Gilt Auction | 4.636% |  | 4.430% |
+| 54 min | USD | MBA 30-Year Mortgage Rate |  |  | 6.87% |
+| 54 min | USD | MBA Mortgage Applications (WoW) |  |  | 3.9% |
+| 54 min | USD | MBA Purchase Index |  |  | 140.4 |
+| 54 min | USD | Mortgage Market Index |  |  | 214.1 |
+| 54 min | USD | Mortgage Refinance Index |  |  | 613.0 |
 | 12:30 | INR | M3 Money Supply |  |  | 9.7% |
 | 12:30 | EUR | Spanish Consumer Confidence (Jun) |  |  | 83.8 |
 | 13:00 | MXN | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.17% |
