@@ -12,11 +12,11 @@
 | 09:00 | EUR | HCOB Eurozone Manufacturing PMI (Jul) | 45.6 | 46.0 | 45.8 |
 | 09:00 | EUR | HCOB Eurozone Composite PMI (Jul) | 50.1 | 51.1 | 50.9 |
 | 09:00 | EUR | HCOB Eurozone Services PMI (Jul) | 51.9 | 52.9 | 52.8 |
-| 23 min | GBP | S&P Global/CIPS UK Composite PMI |  | 52.6 | 52.3 |
-| 23 min | GBP | S&P Global/CIPS UK Manufacturing PMI |  | 51.1 | 50.9 |
-| 23 min | GBP | S&P Global/CIPS UK Services PMI |  | 52.5 | 52.1 |
-| 10:30 | EUR | German 10-Year Bund Auction |  |  | 2.630% |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
+| 09:30 | GBP | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
+| 09:30 | GBP | S&P Global/CIPS UK Services PMI | 52.4 | 52.5 | 52.1 |
+| 24 min | EUR | German 10-Year Bund Auction |  |  | 2.630% |
+| 54 min | EUR | Eurogroup Meetings |  |  |  |
 | 13:00 | EUR | ECB's Lane Speaks |  |  |  |
 | 13:30 | USD | Building Permits |  | 1.446M | 1.399M |
 | 13:30 | USD | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |

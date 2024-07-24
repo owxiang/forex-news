@@ -20,18 +20,18 @@
 | 09:00 | EUR | Moderate | HCOB Eurozone Manufacturing PMI (Jul) | 45.6 | 46.0 | 45.8 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Composite PMI (Jul) | 50.1 | 51.1 | 50.9 |
 | 09:00 | EUR | Moderate | HCOB Eurozone Services PMI (Jul) | 51.9 | 52.9 | 52.8 |
-| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
 | 09:00 | ZAR | Low | Core CPI (MoM) (Jun) | 0.4% |  | 0.1% |
+| 09:00 | ZAR | Low | Core CPI (YoY) (Jun) | 4.5% |  | 4.6% |
 | 09:00 | ZAR | Low | CPI (MoM) (Jun) | 0.1% |  | 0.2% |
 | 09:00 | ZAR | Low | CPI (YoY) (Jun) | 5.1% |  | 5.2% |
 | 09:05 | USD | Low | Fed Logan Speaks |  |  |  |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Composite PMI |  | 52.6 | 52.3 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI |  | 51.1 | 50.9 |
-| 23 min | GBP | Moderate | S&P Global/CIPS UK Services PMI |  | 52.5 | 52.1 |
-| 53 min | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
-| 10:30 | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
-| 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Composite PMI | 52.7 | 52.6 | 52.3 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Manufacturing PMI | 51.8 | 51.1 | 50.9 |
+| 09:30 | GBP | Moderate | S&P Global/CIPS UK Services PMI | 52.4 | 52.5 | 52.1 |
+| 10:00 | GBP | Low | 30-Year Treasury Gilt Auction |  |  | 4.430% |
+| 24 min | EUR | Moderate | German 10-Year Bund Auction |  |  | 2.630% |
+| 54 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | USD | Low | MBA 30-Year Mortgage Rate |  |  | 6.87% |
 | 12:00 | USD | Low | MBA Mortgage Applications (WoW) |  |  | 3.9% |
 | 12:00 | USD | Low | MBA Purchase Index |  |  | 140.4 |
@@ -42,8 +42,8 @@
 | 13:00 | MXN | Low | 1st Half-Month Core CPI (Jul) |  | 0.17% | 0.17% |
 | 13:00 | MXN | Low | 1st Half-Month CPI (Jul) |  | 0.38% | 0.21% |
 | 13:00 | EUR | Moderate | ECB's Lane Speaks |  |  |  |
-| 13:30 | USD | Moderate | Building Permits |  | 1.446M | 1.399M |
 | 13:30 | USD | Low | Building Permits (MoM) |  | 3.4% | -2.8% |
+| 13:30 | USD | Moderate | Building Permits |  | 1.446M | 1.399M |
 | 13:30 | USD | Moderate | Goods Trade Balance (Jun) |  | -98.80B | -99.37B |
 | 13:30 | USD | Moderate | Retail Inventories Ex Auto (Jun) |  |  |  |
 | 13:30 | USD | Low | Wholesale Inventories (MoM) |  | 0.5% | 0.6% |
