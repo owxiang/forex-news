@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
@@ -15,15 +15,15 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
-| 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
+| 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
 | 09:30 | HKD | Low | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
 | 09:30 | HKD | Low | Trade Balance (Jun) | -55.7B |  | -12.1B |
-| 10:30 | ZAR | Low | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
+| 10:30 | ZAR | Low | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -34,24 +34,21 @@
 | 12:30 | BRL | Low | Current Account (USD) (Jun) | -4.00B | -3.00B | -3.40B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) | 6.30B | 3.30B | 3.00B |
 | 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
-| 21 min | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,867K |
-| 21 min | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) |  | 0.2% | -0.1% |
-| 21 min | USD | Moderate | Core PCE Prices (Q2) |  | 2.70% | 3.70% |
-| 21 min | USD | High | Durable Goods Orders (MoM) (Jun) |  | 0.3% | 0.1% |
-| 21 min | USD | Low | Durables Excluding Defense (MoM) (Jun) |  |  | -0.2% |
-| 21 min | USD | High | GDP (QoQ) (Q2) |  | 2.0% | 1.4% |
-| 21 min | USD | Moderate | GDP Price Index (QoQ) (Q2) |  | 2.6% | 3.1% |
-| 21 min | USD | Low | GDP Sales (Q2) |  |  | 1.8% |
-| 21 min | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) |  | 0.2% | -0.6% |
-| 21 min | USD | Moderate | Goods Trade Balance |  |  | -100.62B |
-| 21 min | USD | High | Initial Jobless Claims |  | 237K | 243K |
-| 21 min | USD | Low | Jobless Claims 4-Week Avg. |  |  | 234.75K |
-| 21 min | USD | Low | PCE Prices (Q2) |  |  | 3.4% |
-| 21 min | USD | Low | Real Consumer Spending (Q2) |  |  | 1.5% |
-| 21 min | USD | Moderate | Retail Inventories Ex Auto |  |  | 0.0% |
-| 21 min | CAD | Low | Average Weekly Earnings (YoY) (May) |  |  | 3.69% |
-| 21 min | CAD | Low | Manufacturing Sales (MoM) |  |  | 0.4% |
-| 14:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
+| 13:30 | USD | Moderate | Continuing Jobless Claims | 1,851K | 1,860K | 1,860K |
+| 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) | 0.5% | 0.2% | -0.1% |
+| 13:30 | USD | Moderate | Core PCE Prices (Q2) | 2.90% | 2.70% | 3.70% |
+| 13:30 | USD | High | Durable Goods Orders (MoM) (Jun) | -6.6% | 0.3% | 0.1% |
+| 13:30 | USD | Low | Durables Excluding Defense (MoM) (Jun) | -7.0% |  | -0.2% |
+| 13:30 | USD | High | GDP (QoQ) (Q2) | 2.8% | 2.0% | 1.4% |
+| 13:30 | USD | Moderate | GDP Price Index (QoQ) (Q2) | 2.3% | 2.6% | 3.1% |
+| 13:30 | USD | Low | GDP Sales (Q2) | 2.0% |  | 1.8% |
+| 13:30 | USD | Low | Goods Orders Non Defense Ex Air (MoM) (Jun) | 1.0% | 0.2% | -0.9% |
+| 13:30 | USD | High | Initial Jobless Claims | 235K | 237K | 245K |
+| 13:30 | USD | Low | Jobless Claims 4-Week Avg. | 235.50K |  | 235.25K |
+| 13:30 | USD | Low | PCE Prices (Q2) | 2.6% |  | 3.4% |
+| 13:30 | USD | Low | Real Consumer Spending (Q2) | 2.3% |  | 1.5% |
+| 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 4.23% |  | 3.77% |
+| 23 min | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
 | 15:30 | USD | Low | Natural Gas Storage |  | 13B | 10B |
 | 16:00 | USD | Low | KC Fed Composite Index (Jul) |  |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | -11 |
