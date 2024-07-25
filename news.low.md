@@ -1,42 +1,50 @@
-## 25 July 2024 - Low Impact Forex News
+## 26 July 2024 - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
-| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
-| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
-| 00:50 | JPY | Foreign Bonds Buying | -730.4B |  | -206.0B |
-| 00:50 | JPY | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
-| 07:00 | NOK | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
-| 07:00 | NOK | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
-| 07:45 | EUR | French Business Survey (Jul) | 95 | 99 | 99 |
-| 09:00 | EUR | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
-| 09:00 | EUR | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
-| 09:00 | EUR | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
-| 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
-| 09:30 | HKD | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
-| 09:30 | HKD | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
-| 09:30 | HKD | Trade Balance (Jun) | -55.7B |  | -12.1B |
-| 10:30 | ZAR | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
-| 10:30 | ZAR | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
-| 11:00 | GBP | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.30% | 0.23% | 0.39% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Jul) | 4.45% | 4.38% | 4.06% |
-| 12:00 | BRL | FGV Consumer confidence (Jul) | 92.9 |  | 91.1 |
-| 12:30 | INR | M3 Money Supply | 10.7% |  | 9.7% |
-| 12:30 | BRL | Current Account (USD) (Jun) | -4.00B | -3.00B | -3.40B |
-| 12:30 | BRL | Foreign direct investment (USD) (Jun) | 6.30B | 3.30B | 3.00B |
-| 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
-| 13:30 | USD | Durables Excluding Defense (MoM) (Jun) | -7.0% |  | -0.2% |
-| 13:30 | USD | GDP Sales (Q2) | 2.0% |  | 1.8% |
-| 13:30 | USD | Goods Orders Non Defense Ex Air (MoM) (Jun) | 1.0% | 0.2% | -0.9% |
-| 13:30 | USD | Jobless Claims 4-Week Avg. | 235.50K |  | 235.25K |
-| 13:30 | USD | PCE Prices (Q2) | 2.6% |  | 3.4% |
-| 13:30 | USD | Real Consumer Spending (Q2) | 2.3% |  | 1.5% |
-| 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 4.23% |  | 3.77% |
-| 15:30 | USD | Natural Gas Storage | 22B | 13B | 10B |
-| 16:00 | USD | KC Fed Composite Index (Jul) | -13 |  | -8 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jul) | -12 |  | -11 |
-| 16:30 | USD | 4-Week Bill Auction | 5.285% |  | 5.270% |
-| 16:30 | USD | 8-Week Bill Auction | 5.260% |  | 5.260% |
-| 21:30 | USD | Reserve Balances with Federal Reserve Banks | 3.276T |  | 3.322T |
+| 24 min | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jul) |  |  | 1.4% |
+| 24 min | JPY | Tokyo CPI (YoY) (Jul) |  | 2.3% | 2.3% |
+| 24 min | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) |  |  | 0.0% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q2) |  | 1.10% | 1.40% |
+| 03:30 | SGD | Unemployment Rate |  |  | 2.1% |
+| 04:35 | JPY | 2-Year JGB Auction |  |  | 0.378% |
+| 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 06:00 | JPY | Coincident Indicator (MoM) |  | 1.3% | 1.0% |
+| 06:00 | JPY | Leading Index (MoM) |  | 0.2% | -0.8% |
+| 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
+| 06:00 | SGD | Industrial Production (YoY) (Jun) |  | 0.0% | 2.9% |
+| 06:00 | SGD | Industrial Production (MoM) (Jun) |  | -0.5% | 1.1% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
+| 07:45 | EUR | French Consumer Confidence (Jul) |  | 90 | 89 |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
+| 09:00 | GBP | BoE Quarterly Bulletin |  |  |  |
+| 09:00 | EUR | Italian Business Confidence (Jul) |  | 86.9 | 86.8 |
+| 09:00 | EUR | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
+| 11:00 | GBP | CBI Distributive Trades Survey |  |  | -24 |
+| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
+| 12:30 | INR | Bank Loan Growth |  |  | 17.4% |
+| 12:30 | INR | Deposit Growth |  |  | 11.1% |
+| 12:30 | INR | FX Reserves, USD |  |  | 666.85B |
+| 12:30 | BRL | Bank lending (MoM) (Jun) |  |  | 0.7% |
+| 12:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
+| 13:00 | MXN | Trade Balance (Jun) |  |  | 1.991B |
+| 13:00 | MXN | Trade Balance (USD) (Jun) |  |  | 0.971B |
+| 13:30 | USD | Personal Income (MoM) (Jun) |  | 0.4% | 0.5% |
+| 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
+| 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
+| 15:00 | USD | Michigan Current Conditions (Jul) |  | 64.1 | 64.1 |
+| 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -50.93B |
+| 16:00 | CAD | Budget Balance (Apr) |  |  | -33.59B |
+| 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
+| 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
+| 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
+| 20:30 | USD | CFTC Corn speculative net positions |  |  | -238.8K |
+| 20:30 | USD | CFTC Natural Gas speculative net positions |  |  | -93.5K |
+| 20:30 | USD | CFTC Silver speculative net positions |  |  | 61.1K |
+| 20:30 | USD | CFTC Soybeans speculative net positions |  |  | -161.5K |
+| 20:30 | USD | CFTC Wheat speculative net positions |  |  | -36.1K |
+| 20:30 | CAD | CFTC CAD speculative net positions |  |  | -111.2K |
+| 20:30 | MXN | CFTC MXN speculative net positions |  |  | 63.3K |
+| 20:30 | CHF | CFTC CHF speculative net positions |  |  | -46.1K |
+| 20:30 | NZD | CFTC NZD speculative net positions |  |  | 25.9K |

@@ -1,17 +1,25 @@
-## 25 July 2024 - Moderate Impact Forex News
+## 26 July 2024 - Moderate Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
-| 09:00 | EUR | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
-| 09:00 | EUR | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
-| 11:00 | EUR | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
-| 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims | 1,851K | 1,860K | 1,860K |
-| 13:30 | USD | Core Durable Goods Orders (MoM) (Jun) | 0.5% | 0.2% | -0.1% |
-| 13:30 | USD | Core PCE Prices (Q2) | 2.90% | 2.70% | 3.70% |
-| 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.3% | 2.6% | 3.1% |
-| 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
-| 18:00 | USD | 7-Year Note Auction | 4.162% |  | 4.276% |
-| 21:30 | USD | Fed's Balance Sheet | 7,205B |  | 7,208B |
+| 24 min | JPY | Tokyo Core CPI (YoY) (Jul) |  | 2.2% | 2.1% |
+| 13:30 | USD | PCE Price index (YoY) (Jun) |  | 2.4% | 2.6% |
+| 13:30 | USD | PCE price index (MoM) (Jun) |  | 0.1% | 0.0% |
+| 13:30 | USD | Personal Spending (MoM) (Jun) |  | 0.3% | 0.2% |
+| 13:30 | CAD | Wholesale Sales (MoM) |  |  | -0.8% |
+| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 2.9% |
+| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) |  | 2.9% | 2.9% |
+| 15:00 | USD | Michigan Consumer Expectations (Jul) |  | 67.2 | 67.2 |
+| 15:00 | USD | Michigan Consumer Sentiment (Jul) |  | 66.0 | 66.0 |
+| 15:30 | USD | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 18:00 | USD | U.S. Baker Hughes Oil Rig Count |  |  | 477 |
+| 18:00 | USD | U.S. Baker Hughes Total Rig Count |  |  | 586 |
+| 20:30 | GBP | CFTC GBP speculative net positions |  |  | 84.7K |
+| 20:30 | USD | CFTC Crude Oil speculative net positions |  |  | 287.6K |
+| 20:30 | USD | CFTC Gold speculative net positions |  |  | 254.8K |
+| 20:30 | USD | CFTC Nasdaq 100 speculative net positions |  |  | 5.2K |
+| 20:30 | USD | CFTC S&P 500 speculative net positions |  |  | -55.0K |
+| 20:30 | AUD | CFTC AUD speculative net positions |  |  | 2.4K |
+| 20:30 | BRL | CFTC BRL speculative net positions |  |  | -42.7K |
+| 20:30 | JPY | CFTC JPY speculative net positions |  |  | -182.0K |
+| 20:30 | EUR | CFTC EUR speculative net positions |  |  | 3.6K |
