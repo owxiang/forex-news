@@ -15,8 +15,8 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
-| 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
+| 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
 | 09:30 | HKD | Low | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
@@ -27,8 +27,8 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) | 0.30% | 0.23% | 0.39% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) | 4.45% | 4.38% | 4.06% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) | 0.30% | 0.23% | 0.39% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) | 92.9 |  | 91.1 |
 | 12:30 | INR | Low | M3 Money Supply | 10.7% |  | 9.7% |
 | 12:30 | BRL | Low | Current Account (USD) (Jun) | -4.00B | -3.00B | -3.40B |
@@ -52,8 +52,8 @@
 | 16:00 | USD | Low | KC Fed Composite Index (Jul) | -13 |  | -8 |
 | 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) | -12 |  | -11 |
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 25 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 25 min | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
-| 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.276% |
+| 16:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.270% |
+| 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.260% |
+| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 4.276% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,208B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
