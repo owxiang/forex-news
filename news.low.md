@@ -7,7 +7,7 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
-| 54 min | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 07:00 | NOK | Industrial Confidence (Q2) |  |  | -4.3 |
 | 07:00 | NOK | Unemployment Rate (Jun) |  |  | 4.1% |
 | 07:45 | EUR | French Business Survey (Jul) |  |  | 99 |
@@ -17,12 +17,12 @@
 | 09:30 | HKD | Exports (MoM) (Jun) |  |  | 14.8% |
 | 09:30 | HKD | Imports (MoM) (Jun) |  |  | 9.6% |
 | 09:30 | HKD | Trade Balance |  |  | -12.1B |
-| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 0.1% |
 | 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 4.6% |
+| 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 0.1% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
 | 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jul) |  |  | 4.06% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
 | 12:00 | BRL | FGV Consumer confidence (Jul) |  |  | 91.1 |
 | 12:30 | BRL | Current Account (USD) (Jun) |  |  | -3.40B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jun) |  |  | 3.00B |

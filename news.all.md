@@ -7,7 +7,7 @@
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
-| 54 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 07:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:00 | NOK | Low | Industrial Confidence (Q2) |  |  | -4.3 |
 | 07:00 | NOK | Low | Unemployment Rate (Jun) |  |  | 4.1% |
@@ -21,14 +21,14 @@
 | 09:30 | HKD | Low | Exports (MoM) (Jun) |  |  | 14.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) |  |  | 9.6% |
 | 09:30 | HKD | Low | Trade Balance |  |  | -12.1B |
-| 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | 0.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 4.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | 0.1% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
 | 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,816.3K |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  |  | 4.06% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) |  |  | 91.1 |
 | 12:30 | BRL | Low | Current Account (USD) (Jun) |  |  | -3.40B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) |  |  | 3.00B |
