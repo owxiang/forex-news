@@ -12,15 +12,15 @@
 | 07:00 | NOK | Low | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
 | 07:00 | NOK | Low | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
 | 07:45 | EUR | Low | French Business Survey (Jul) | 95 | 99 | 99 |
-| 54 min | EUR | Moderate | German Business Expectations (Jul) |  | 89.0 | 89.0 |
-| 54 min | EUR | Moderate | German Current Assessment (Jul) |  | 88.5 | 88.3 |
-| 54 min | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.9 | 88.6 |
-| 54 min | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 1.9% | 1.6% |
-| 54 min | EUR | Low | Loans to Non Financial Corporations (Jun) |  |  | 0.3% |
-| 54 min | EUR | Low | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
-| 09:30 | HKD | Low | Exports (MoM) (Jun) |  |  | 14.8% |
-| 09:30 | HKD | Low | Imports (MoM) (Jun) |  |  | 9.6% |
-| 09:30 | HKD | Low | Trade Balance |  |  | -12.1B |
+| 09:00 | EUR | Moderate | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
+| 09:00 | EUR | Moderate | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
+| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
+| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
+| 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
+| 22 min | HKD | Low | Exports (MoM) (Jun) |  |  | 14.8% |
+| 22 min | HKD | Low | Imports (MoM) (Jun) |  |  | 9.6% |
+| 22 min | HKD | Low | Trade Balance |  |  | -12.1B |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | 0.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 4.6% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |

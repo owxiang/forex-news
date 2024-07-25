@@ -10,12 +10,12 @@
 | 07:00 | NOK | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
 | 07:00 | NOK | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
 | 07:45 | EUR | French Business Survey (Jul) | 95 | 99 | 99 |
-| 54 min | EUR | M3 Money Supply (YoY) (Jun) |  | 1.9% | 1.6% |
-| 54 min | EUR | Loans to Non Financial Corporations (Jun) |  |  | 0.3% |
-| 54 min | EUR | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
-| 09:30 | HKD | Exports (MoM) (Jun) |  |  | 14.8% |
-| 09:30 | HKD | Imports (MoM) (Jun) |  |  | 9.6% |
-| 09:30 | HKD | Trade Balance |  |  | -12.1B |
+| 09:00 | EUR | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
+| 09:00 | EUR | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
+| 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
+| 22 min | HKD | Exports (MoM) (Jun) |  |  | 14.8% |
+| 22 min | HKD | Imports (MoM) (Jun) |  |  | 9.6% |
+| 22 min | HKD | Trade Balance |  |  | -12.1B |
 | 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 0.1% |
 | 10:30 | ZAR | PPI (YoY) (Jun) |  |  | 4.6% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
