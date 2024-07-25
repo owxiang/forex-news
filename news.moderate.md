@@ -14,4 +14,4 @@
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) | 2.3% | 2.6% | 3.1% |
 | 16:00 | EUR | ECB President Lagarde Speaks |  |  |  |
 | 18:00 | USD | 7-Year Note Auction | 4.162% |  | 4.276% |
-| 21:30 | USD | Fed's Balance Sheet |  |  | 7,208B |
+| 24 min | USD | Fed's Balance Sheet |  |  | 7,208B |
