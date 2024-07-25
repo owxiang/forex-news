@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
@@ -15,20 +15,21 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
+| 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
-| 22 min | HKD | Low | Exports (MoM) (Jun) |  |  | 14.8% |
-| 22 min | HKD | Low | Imports (MoM) (Jun) |  |  | 9.6% |
-| 22 min | HKD | Low | Trade Balance |  |  | -12.1B |
-| 10:30 | ZAR | Low | PPI (MoM) (Jun) |  |  | 0.1% |
-| 10:30 | ZAR | Low | PPI (YoY) (Jun) |  |  | 4.6% |
-| 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
-| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,816.3K |
-| 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
-| 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.23% | 0.39% |
+| 09:30 | HKD | Low | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
+| 09:30 | HKD | Low | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
+| 09:30 | HKD | Low | Trade Balance (Jun) | -55.7B |  | -12.1B |
+| 24 min | ZAR | Low | PPI (YoY) (Jun) |  |  | 4.6% |
+| 24 min | ZAR | Low | PPI (MoM) (Jun) |  |  | 0.1% |
+| 54 min | GBP | Low | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
+| 54 min | EUR | Moderate | France Jobseekers Total |  |  | 2,816.3K |
+| 54 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
+| 54 min | EUR | Moderate | Eurogroup Meetings |  |  |  |
 | 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 4.38% | 4.06% |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.23% | 0.39% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) |  |  | 91.1 |
 | 12:30 | BRL | Low | Current Account (USD) (Jun) |  | -3.00B | -3.40B |
 | 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) |  | 3.30B | 3.00B |
