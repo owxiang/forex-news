@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
 | 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
+| 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
@@ -15,15 +15,15 @@
 | 09:00 | EUR | Moderate | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
 | 09:00 | EUR | Low | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
+| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
 | 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
 | 09:00 | EUR | Low | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
 | 09:30 | HKD | Low | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
 | 09:30 | HKD | Low | Trade Balance (Jun) | -55.7B |  | -12.1B |
-| 10:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
+| 10:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -48,12 +48,12 @@
 | 13:30 | USD | Low | PCE Prices (Q2) | 2.6% |  | 3.4% |
 | 13:30 | USD | Low | Real Consumer Spending (Q2) | 2.3% |  | 1.5% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 4.23% |  | 3.77% |
-| 24 min | USD | Low | Natural Gas Storage |  | 13B | 10B |
-| 54 min | USD | Low | KC Fed Composite Index (Jul) |  |  | -8 |
-| 54 min | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | -11 |
-| 54 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
-| 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
-| 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
+| 15:30 | USD | Low | Natural Gas Storage | 22B | 13B | 10B |
+| 16:00 | USD | Low | KC Fed Composite Index (Jul) | -13 |  | -8 |
+| 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) | -12 |  | -11 |
+| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 25 min | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
+| 25 min | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.276% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,208B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
