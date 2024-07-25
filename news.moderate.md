@@ -2,13 +2,13 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 07:00 | EUR | German Buba President Nagel Speaks |  |  |  |
-| 09:00 | EUR | German Business Expectations (Jul) |  |  | 89.0 |
-| 09:00 | EUR | German Current Assessment (Jul) |  |  | 88.3 |
+| 54 min | EUR | German Buba President Nagel Speaks |  |  |  |
+| 09:00 | EUR | German Business Expectations (Jul) |  | 89.0 | 89.0 |
+| 09:00 | EUR | German Current Assessment (Jul) |  | 88.5 | 88.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jul) |  | 88.9 | 88.6 |
 | 11:00 | EUR | France Jobseekers Total |  |  | 2,816.3K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
-| 13:30 | USD | Continuing Jobless Claims |  |  | 1,867K |
+| 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,867K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.2% | -0.1% |
 | 13:30 | USD | Core PCE Prices (Q2) |  | 2.70% | 3.70% |
 | 13:30 | USD | GDP Price Index (QoQ) (Q2) |  | 2.6% | 3.1% |
