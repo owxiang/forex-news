@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
+| 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
