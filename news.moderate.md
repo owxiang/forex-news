@@ -6,7 +6,7 @@
 | 09:00 | EUR | German Business Expectations (Jul) | 86.9 | 89.0 | 88.8 |
 | 09:00 | EUR | German Current Assessment (Jul) | 87.1 | 88.5 | 88.3 |
 | 09:00 | EUR | German Ifo Business Climate Index (Jul) | 87.0 | 88.9 | 88.6 |
-| 11:00 | EUR | France Jobseekers Total |  |  | 2,816.3K |
+| 11:00 | EUR | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Eurogroup Meetings |  |  |  |
 | 13:30 | USD | Continuing Jobless Claims |  | 1,860K | 1,867K |
 | 13:30 | USD | Core Durable Goods Orders (MoM) (Jun) |  | 0.2% | -0.1% |

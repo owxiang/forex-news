@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
@@ -25,14 +25,14 @@
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
 | 10:30 | ZAR | Low | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
-| 11:00 | EUR | Moderate | France Jobseekers Total |  |  | 2,816.3K |
+| 11:00 | EUR | Moderate | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 54 min | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 4.38% | 4.06% |
-| 54 min | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.23% | 0.39% |
-| 54 min | BRL | Low | FGV Consumer confidence (Jul) |  |  | 91.1 |
-| 12:30 | BRL | Low | Current Account (USD) (Jun) |  | -3.00B | -3.40B |
-| 12:30 | BRL | Low | Foreign direct investment (USD) (Jun) |  | 3.30B | 3.00B |
-| 13:00 | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
+| 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) |  | 0.23% | 0.39% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) |  | 4.38% | 4.06% |
+| 12:00 | BRL | Low | FGV Consumer confidence (Jul) | 92.9 |  | 91.1 |
+| 24 min | BRL | Low | Current Account (USD) (Jun) |  | -3.00B | -3.40B |
+| 24 min | BRL | Low | Foreign direct investment (USD) (Jun) |  | 3.30B | 3.00B |
+| 54 min | BRL | Low | BCB National Monetary Council Meeting |  |  |  |
 | 13:30 | USD | Moderate | Continuing Jobless Claims |  | 1,860K | 1,867K |
 | 13:30 | USD | Moderate | Core Durable Goods Orders (MoM) (Jun) |  | 0.2% | -0.1% |
 | 13:30 | USD | Moderate | Core PCE Prices (Q2) |  | 2.70% | 3.70% |
