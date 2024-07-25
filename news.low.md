@@ -34,10 +34,9 @@
 | 13:30 | USD | PCE Prices (Q2) | 2.6% |  | 3.4% |
 | 13:30 | USD | Real Consumer Spending (Q2) | 2.3% |  | 1.5% |
 | 13:30 | CAD | Average Weekly Earnings (YoY) (May) | 4.23% |  | 3.77% |
-| 23 min | BRL | Federal Tax Revenue |  |  | 202.90B |
-| 15:30 | USD | Natural Gas Storage |  | 13B | 10B |
-| 16:00 | USD | KC Fed Composite Index (Jul) |  |  | -8 |
-| 16:00 | USD | KC Fed Manufacturing Index (Jul) |  |  | -11 |
+| 24 min | USD | Natural Gas Storage |  | 13B | 10B |
+| 54 min | USD | KC Fed Composite Index (Jul) |  |  | -8 |
+| 54 min | USD | KC Fed Manufacturing Index (Jul) |  |  | -11 |
 | 16:30 | USD | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | 8-Week Bill Auction |  |  | 5.260% |
 | 21:30 | USD | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |

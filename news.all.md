@@ -48,11 +48,10 @@
 | 13:30 | USD | Low | PCE Prices (Q2) | 2.6% |  | 3.4% |
 | 13:30 | USD | Low | Real Consumer Spending (Q2) | 2.3% |  | 1.5% |
 | 13:30 | CAD | Low | Average Weekly Earnings (YoY) (May) | 4.23% |  | 3.77% |
-| 23 min | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
-| 15:30 | USD | Low | Natural Gas Storage |  | 13B | 10B |
-| 16:00 | USD | Low | KC Fed Composite Index (Jul) |  |  | -8 |
-| 16:00 | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | -11 |
-| 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
+| 24 min | USD | Low | Natural Gas Storage |  | 13B | 10B |
+| 54 min | USD | Low | KC Fed Composite Index (Jul) |  |  | -8 |
+| 54 min | USD | Low | KC Fed Manufacturing Index (Jul) |  |  | -11 |
+| 54 min | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction |  |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction |  |  | 5.260% |
 | 18:00 | USD | Moderate | 7-Year Note Auction |  |  | 4.276% |
