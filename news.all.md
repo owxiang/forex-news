@@ -2,8 +2,8 @@
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
-| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:00 | KRW | Low | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
+| 00:00 | KRW | Low | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
 | 00:50 | JPY | Low | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
@@ -27,8 +27,8 @@
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
-| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) | 4.45% | 4.38% | 4.06% |
 | 12:00 | BRL | Low | Mid-Month CPI (MoM) (Jul) | 0.30% | 0.23% | 0.39% |
+| 12:00 | BRL | Low | Mid-Month CPI (YoY) (Jul) | 4.45% | 4.38% | 4.06% |
 | 12:00 | BRL | Low | FGV Consumer confidence (Jul) | 92.9 |  | 91.1 |
 | 12:30 | INR | Low | M3 Money Supply | 10.7% |  | 9.7% |
 | 12:30 | BRL | Low | Current Account (USD) (Jun) | -4.00B | -3.00B | -3.40B |
@@ -55,5 +55,5 @@
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.260% |
 | 18:00 | USD | Moderate | 7-Year Note Auction | 4.162% |  | 4.276% |
-| 24 min | USD | Moderate | Fed's Balance Sheet |  |  | 7,208B |
-| 24 min | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
+| 21:30 | USD | Moderate | Fed's Balance Sheet | 7,205B |  | 7,208B |
+| 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks | 3.276T |  | 3.322T |
