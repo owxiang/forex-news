@@ -2,11 +2,11 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
 | 00:00 | KRW | GDP (QoQ) (Q2) | -0.2% | 0.1% | 1.3% |
-| 43 min | JPY | Corporate Services Price Index (CSPI) (YoY) |  | 2.6% | 2.5% |
-| 43 min | JPY | Foreign Bonds Buying |  |  | -208.9B |
-| 43 min | JPY | Foreign Investments in Japanese Stocks |  |  | 227.6B |
+| 00:00 | KRW | GDP (YoY) (Q2) | 2.3% | 2.5% | 3.3% |
+| 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
+| 00:50 | JPY | Foreign Bonds Buying | -730.4B |  | -206.0B |
+| 00:50 | JPY | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
 | 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 07:00 | NOK | Industrial Confidence (Q2) |  |  | -4.3 |
 | 07:00 | NOK | Unemployment Rate (Jun) |  |  | 4.1% |
@@ -21,8 +21,8 @@
 | 10:30 | ZAR | PPI (MoM) (Jun) |  |  | 0.1% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
 | 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jul) |  |  | 4.06% |
+| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) |  |  | 0.39% |
 | 12:00 | BRL | FGV Consumer confidence (Jul) |  |  | 91.1 |
 | 12:30 | BRL | Current Account (USD) (Jun) |  |  | -3.40B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jun) |  |  | 3.00B |
