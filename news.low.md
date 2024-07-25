@@ -10,20 +10,19 @@
 | 07:00 | NOK | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
 | 07:00 | NOK | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
 | 07:45 | EUR | French Business Survey (Jul) | 95 | 99 | 99 |
-| 09:00 | EUR | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jun) | 2.2% | 1.9% | 1.6% |
+| 09:00 | EUR | M3 Money Supply (Jun) | 16,376.6B |  | 16,267.6B |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jun) | 0.7% |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) | 0.3% | 0.5% | 0.3% |
 | 09:30 | HKD | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
 | 09:30 | HKD | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
 | 09:30 | HKD | Trade Balance (Jun) | -55.7B |  | -12.1B |
-| 24 min | ZAR | PPI (YoY) (Jun) |  |  | 4.6% |
-| 24 min | ZAR | PPI (MoM) (Jun) |  |  | 0.1% |
-| 54 min | GBP | CBI Industrial Trends Orders (Jul) |  | -19 | -18 |
-| 54 min | CNY | FDI (Jun) |  |  | -28.20% |
-| 12:00 | BRL | Mid-Month CPI (YoY) (Jul) |  | 4.38% | 4.06% |
-| 12:00 | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.23% | 0.39% |
-| 12:00 | BRL | FGV Consumer confidence (Jul) |  |  | 91.1 |
+| 10:30 | ZAR | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
+| 10:30 | ZAR | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
+| 11:00 | GBP | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
+| 54 min | BRL | Mid-Month CPI (YoY) (Jul) |  | 4.38% | 4.06% |
+| 54 min | BRL | Mid-Month CPI (MoM) (Jul) |  | 0.23% | 0.39% |
+| 54 min | BRL | FGV Consumer confidence (Jul) |  |  | 91.1 |
 | 12:30 | BRL | Current Account (USD) (Jun) |  | -3.00B | -3.40B |
 | 12:30 | BRL | Foreign direct investment (USD) (Jun) |  | 3.30B | 3.00B |
 | 13:00 | BRL | BCB National Monetary Council Meeting |  |  |  |
