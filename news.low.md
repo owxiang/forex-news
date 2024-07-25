@@ -7,9 +7,9 @@
 | 00:50 | JPY | Corporate Services Price Index (CSPI) (YoY) | 3.0% | 2.6% | 2.7% |
 | 00:50 | JPY | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
-| 54 min | NOK | Industrial Confidence (Q2) |  |  | -4.3 |
-| 54 min | NOK | Unemployment Rate (Jun) |  |  | 4.1% |
-| 07:45 | EUR | French Business Survey (Jul) |  | 99 | 99 |
+| 07:00 | NOK | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
+| 07:00 | NOK | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
+| 38 min | EUR | French Business Survey (Jul) |  | 99 | 99 |
 | 09:00 | EUR | M3 Money Supply (YoY) (Jun) |  | 1.9% | 1.6% |
 | 09:00 | EUR | Loans to Non Financial Corporations (Jun) |  |  | 0.3% |
 | 09:00 | EUR | Private Sector Loans (YoY) |  | 0.5% | 0.3% |

@@ -8,10 +8,10 @@
 | 00:50 | JPY | Low | Foreign Bonds Buying | -730.4B |  | -206.0B |
 | 00:50 | JPY | Low | Foreign Investments in Japanese Stocks | -49.0B |  | 227.8B |
 | 01:00 | USD | High | U.S. President Biden Speaks |  |  |  |
-| 54 min | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
-| 54 min | NOK | Low | Industrial Confidence (Q2) |  |  | -4.3 |
-| 54 min | NOK | Low | Unemployment Rate (Jun) |  |  | 4.1% |
-| 07:45 | EUR | Low | French Business Survey (Jul) |  | 99 | 99 |
+| 07:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
+| 07:00 | NOK | Low | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
+| 07:00 | NOK | Low | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
+| 38 min | EUR | Low | French Business Survey (Jul) |  | 99 | 99 |
 | 09:00 | EUR | Moderate | German Business Expectations (Jul) |  | 89.0 | 89.0 |
 | 09:00 | EUR | Moderate | German Current Assessment (Jul) |  | 88.5 | 88.3 |
 | 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.9 | 88.6 |
