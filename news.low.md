@@ -17,8 +17,8 @@
 | 09:30 | HKD | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
 | 09:30 | HKD | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
 | 09:30 | HKD | Trade Balance (Jun) | -55.7B |  | -12.1B |
-| 10:30 | ZAR | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 10:30 | ZAR | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
+| 10:30 | ZAR | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 11:00 | GBP | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
 | 12:00 | BRL | Mid-Month CPI (YoY) (Jul) | 4.45% | 4.38% | 4.06% |
 | 12:00 | BRL | Mid-Month CPI (MoM) (Jul) | 0.30% | 0.23% | 0.39% |

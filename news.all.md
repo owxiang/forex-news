@@ -22,8 +22,8 @@
 | 09:30 | HKD | Low | Exports (MoM) (Jun) | 10.7% |  | 14.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) | 9.0% |  | 9.6% |
 | 09:30 | HKD | Low | Trade Balance (Jun) | -55.7B |  | -12.1B |
-| 10:30 | ZAR | Low | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 10:30 | ZAR | Low | PPI (MoM) (Jun) | -0.3% |  | 0.1% |
+| 10:30 | ZAR | Low | PPI (YoY) (Jun) | 4.6% |  | 4.6% |
 | 11:00 | GBP | Low | CBI Industrial Trends Orders (Jul) | -32 | -19 | -18 |
 | 11:00 | EUR | Moderate | France Jobseekers Total | 2,834.5K |  | 2,816.3K |
 | 11:00 | EUR | Moderate | Eurogroup Meetings |  |  |  |
@@ -54,6 +54,6 @@
 | 16:00 | EUR | Moderate | ECB President Lagarde Speaks |  |  |  |
 | 16:30 | USD | Low | 4-Week Bill Auction | 5.285% |  | 5.270% |
 | 16:30 | USD | Low | 8-Week Bill Auction | 5.260% |  | 5.260% |
-| 53 min | USD | Moderate | 7-Year Note Auction |  |  | 4.276% |
+| 18:00 | USD | Moderate | 7-Year Note Auction | 4.162% |  | 4.276% |
 | 21:30 | USD | Moderate | Fed's Balance Sheet |  |  | 7,208B |
 | 21:30 | USD | Low | Reserve Balances with Federal Reserve Banks |  |  | 3.322T |
