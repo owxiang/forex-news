@@ -11,13 +11,13 @@
 | 07:00 | EUR | Moderate | German Buba President Nagel Speaks |  |  |  |
 | 07:00 | NOK | Low | Industrial Confidence (Q2) | 3.9 |  | 0.6 |
 | 07:00 | NOK | Low | Unemployment Rate (Jun) | 4.1% |  | 4.1% |
-| 38 min | EUR | Low | French Business Survey (Jul) |  | 99 | 99 |
-| 09:00 | EUR | Moderate | German Business Expectations (Jul) |  | 89.0 | 89.0 |
-| 09:00 | EUR | Moderate | German Current Assessment (Jul) |  | 88.5 | 88.3 |
-| 09:00 | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.9 | 88.6 |
-| 09:00 | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 1.9% | 1.6% |
-| 09:00 | EUR | Low | Loans to Non Financial Corporations (Jun) |  |  | 0.3% |
-| 09:00 | EUR | Low | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
+| 07:45 | EUR | Low | French Business Survey (Jul) | 95 | 99 | 99 |
+| 54 min | EUR | Moderate | German Business Expectations (Jul) |  | 89.0 | 89.0 |
+| 54 min | EUR | Moderate | German Current Assessment (Jul) |  | 88.5 | 88.3 |
+| 54 min | EUR | Moderate | German Ifo Business Climate Index (Jul) |  | 88.9 | 88.6 |
+| 54 min | EUR | Low | M3 Money Supply (YoY) (Jun) |  | 1.9% | 1.6% |
+| 54 min | EUR | Low | Loans to Non Financial Corporations (Jun) |  |  | 0.3% |
+| 54 min | EUR | Low | Private Sector Loans (YoY) |  | 0.5% | 0.3% |
 | 09:30 | HKD | Low | Exports (MoM) (Jun) |  |  | 14.8% |
 | 09:30 | HKD | Low | Imports (MoM) (Jun) |  |  | 9.6% |
 | 09:30 | HKD | Low | Trade Balance |  |  | -12.1B |
