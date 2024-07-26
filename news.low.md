@@ -5,15 +5,15 @@
 | 00:30 | JPY | CPI Tokyo Ex Food & Energy (YoY) (Jul) | 1.1% |  | 1.4% |
 | 00:30 | JPY | Tokyo CPI (YoY) (Jul) | 2.2% | 2.3% | 2.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
-| 8 min | SGD | URA Property Index (QoQ) (Q2) |  | 1.10% | 1.40% |
-| 03:30 | SGD | Unemployment Rate |  |  | 2.1% |
+| 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
+| 58 min | SGD | Unemployment Rate |  |  | 2.1% |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.378% |
 | 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 06:00 | JPY | Coincident Indicator (MoM) |  | 1.3% | 1.0% |
 | 06:00 | JPY | Leading Index (MoM) |  | 0.2% | -0.8% |
 | 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) |  | -0.5% | 1.1% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) |  | 0.0% | 2.9% |
+| 06:00 | SGD | Industrial Production (MoM) (Jun) |  | -0.5% | 1.1% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
 | 07:45 | EUR | French Consumer Confidence (Jul) |  | 90 | 89 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
