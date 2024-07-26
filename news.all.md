@@ -9,8 +9,8 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.409% |  | 0.378% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
-| 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
+| 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
@@ -28,21 +28,20 @@
 | 13:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.944B |  | 0.971B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) | 2.6% | 2.5% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) | 0.2% | 0.2% | 0.1% |
-| 13:30 | USD | Moderate | PCE price index (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jun) | 0.2% | 0.4% | 0.4% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) | 0.3% | 0.3% | 0.4% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) | 0.2% |  | 0.4% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) | -0.6% |  | -0.8% |
-| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
-| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
-| 53 min | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 67.2 | 69.6 |
-| 53 min | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 68.2 |
-| 53 min | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
-| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 15:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
-| 16:00 | CAD | Low | Budget Balance (May) |  |  | -33.59B |
-| 16:00 | CAD | Low | Budget Balance (YoY) (May) |  |  | -50.93B |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) | 2.9% | 2.9% | 3.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) | 3.0% | 2.9% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 68.8 | 67.2 | 69.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 66.4 | 66.0 | 68.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jul) | 62.7 | 64.1 | 65.9 |
+| 25 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
+| 55 min | CAD | Low | Budget Balance (YoY) (May) |  |  | -50.93B |
+| 55 min | CAD | Low | Budget Balance (May) |  |  | -33.59B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 477 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs |  |  | 131.81K |
