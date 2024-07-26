@@ -9,10 +9,10 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.409% |  | 0.378% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) | 91 | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 0.3% |  | 0.2% |
@@ -26,20 +26,19 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) | 1.2% |  | 0.7% |
 | 13:00 | MXN | Low | Trade Balance (Jun) | -1.037B | 1.000B | 1.991B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.944B |  | 0.971B |
-| 22 min | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.1% |
-| 22 min | USD | High | Core PCE Price Index (YoY) (Jun) |  | 2.5% | 2.6% |
-| 22 min | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.6% |
-| 22 min | USD | Moderate | PCE price index (MoM) (Jun) |  | 0.1% | 0.0% |
-| 22 min | USD | Low | Personal Income (MoM) (Jun) |  | 0.4% | 0.5% |
-| 22 min | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.3% | 0.2% |
-| 22 min | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
-| 22 min | CAD | Moderate | Wholesale Sales (MoM) |  |  | -0.8% |
-| 52 min | USD | Low | Dallas Fed PCE (Jun) |  |  | 1.40% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 67.2 | 69.6 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 68.2 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) | 2.6% | 2.5% | 2.6% |
+| 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | Moderate | PCE price index (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
+| 13:30 | USD | Low | Personal Income (MoM) (Jun) | 0.2% | 0.4% | 0.4% |
+| 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) | 0.3% | 0.3% | 0.4% |
+| 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) | 0.2% |  | 0.4% |
+| 13:30 | CAD | Moderate | Wholesale Sales (MoM) | -0.6% |  | -0.8% |
+| 53 min | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
+| 53 min | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
+| 53 min | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 67.2 | 69.6 |
+| 53 min | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 68.2 |
+| 53 min | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 15:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
 | 16:00 | CAD | Low | Budget Balance (May) |  |  | -33.59B |
