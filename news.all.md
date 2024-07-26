@@ -1,4 +1,4 @@
-## None - All Forex News
+## 26 July 2024 - All Forex News
 
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
@@ -8,18 +8,17 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.409% |  | 0.378% |
-| 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) |  | 1.3% | 1.0% |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) | 1.9% | 1.3% | 1.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) |  | 0.2% | -0.8% |
-| 06:00 | JPY | Low | Leading Index |  | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | -0.5% | 1.1% |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | 0.0% | 2.9% |
-| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
+| 06:00 | JPY | Low | Leading Index | 111.2 | 111.1 | 110.9 |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
+| 53 min | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 90 | 89 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
 | 09:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 86.9 | 86.8 |
+| 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 87.0 | 86.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey |  |  | -24 |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
@@ -28,22 +27,22 @@
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 666.85B |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) |  |  | 0.7% |
 | 12:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
-| 13:00 | MXN | Low | Trade Balance (Jun) |  |  | 1.991B |
+| 13:00 | MXN | Low | Trade Balance (Jun) |  | 1.000B | 1.991B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jun) |  |  | 0.971B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 2.5% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.1% |
-| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.4% | 2.6% |
+| 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jun) |  | 0.4% | 0.5% |
 | 13:30 | USD | Moderate | Personal Spending (MoM) (Jun) |  | 0.3% | 0.2% |
 | 13:30 | USD | Low | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
 | 13:30 | CAD | Moderate | Wholesale Sales (MoM) |  |  | -0.8% |
 | 14:00 | USD | Low | Dallas Fed PCE (Jun) |  |  | 1.40% |
-| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 2.9% |
-| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 2.9% | 2.9% |
-| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 67.2 | 67.2 |
-| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 66.0 |
-| 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 64.1 |
+| 15:00 | USD | Moderate | Michigan 1-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
+| 15:00 | USD | Moderate | Michigan 5-Year Inflation Expectations (Jul) |  | 2.9% | 3.0% |
+| 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) |  | 67.2 | 69.6 |
+| 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 68.2 |
+| 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
 | 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -50.93B |
