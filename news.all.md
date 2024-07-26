@@ -9,17 +9,17 @@
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.409% |  | 0.378% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
-| 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
+| 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) | 91 | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 0.3% |  | 0.2% |
 | 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) | 11.27% | 11.40% | 12.29% |
-| 54 min | GBP | Low | BoE Quarterly Bulletin |  |  |  |
-| 54 min | EUR | Low | Italian Business Confidence (Jul) |  | 87.0 | 86.8 |
-| 54 min | EUR | Low | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
+| 09:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
+| 09:00 | EUR | Low | Italian Business Confidence (Jul) | 87.6 | 87.0 | 86.9 |
+| 09:00 | EUR | Low | Italian Consumer Confidence (Jul) | 98.9 | 98.0 | 98.3 |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey |  |  | -24 |
 | 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 17.4% |
