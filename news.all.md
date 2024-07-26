@@ -7,14 +7,13 @@
 | 00:30 | JPY | Low | Tokyo CPI (YoY) (Jul) | 2.2% | 2.3% | 2.3% |
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
-| 11 min | SGD | Low | Unemployment Rate |  |  | 2.1% |
-| 04:35 | JPY | Low | 2-Year JGB Auction |  |  | 0.378% |
-| 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 28 min | JPY | Low | 2-Year JGB Auction |  |  | 0.378% |
+| 53 min | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 06:00 | JPY | Low | Coincident Indicator (MoM) |  | 1.3% | 1.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) |  | 0.2% | -0.8% |
 | 06:00 | JPY | Low | Leading Index |  | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | 0.0% | 2.9% |
+| 06:00 | JPY | Low | Leading Index (MoM) |  | 0.2% | -0.8% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jun) |  | -0.5% | 1.1% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) |  | 0.0% | 2.9% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 90 | 89 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
@@ -46,8 +45,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 66.0 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 64.1 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -50.93B |
+| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 477 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs |  |  | 131.81K |
