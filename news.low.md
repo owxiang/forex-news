@@ -7,15 +7,15 @@
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
 | 04:35 | JPY | 2-Year JGB Auction | 0.409% |  | 0.378% |
-| 06:00 | JPY | Coincident Indicator (MoM) | 1.9% | 1.3% | 1.0% |
-| 06:00 | JPY | Leading Index (MoM) |  | 0.2% | -0.8% |
-| 06:00 | JPY | Leading Index | 111.2 | 111.1 | 110.9 |
+| 06:00 | JPY | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
+| 06:00 | JPY | Leading Index (May) | 111.2 | 111.1 | 110.9 |
+| 06:00 | JPY | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | SGD | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
-| 53 min | NOK | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
-| 07:45 | EUR | French Consumer Confidence (Jul) |  | 90 | 89 |
-| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
-| 08:00 | EUR | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jun) | -5.1% |  | 3.2% |
+| 37 min | EUR | French Consumer Confidence (Jul) |  | 90 | 89 |
+| 52 min | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
+| 52 min | EUR | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
 | 09:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 09:00 | EUR | Italian Business Confidence (Jul) |  | 87.0 | 86.8 |
 | 09:00 | EUR | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
@@ -32,8 +32,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
 | 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
-| 16:00 | CAD | Budget Balance (Apr) |  |  | -33.59B |
 | 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -50.93B |
+| 16:00 | CAD | Budget Balance (Apr) |  |  | -33.59B |
 | 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |

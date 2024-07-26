@@ -8,15 +8,15 @@
 | 00:30 | JPY | Low | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
 | 01:30 | SGD | Low | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
 | 04:35 | JPY | Low | 2-Year JGB Auction | 0.409% |  | 0.378% |
-| 06:00 | JPY | Low | Coincident Indicator (MoM) | 1.9% | 1.3% | 1.0% |
-| 06:00 | JPY | Low | Leading Index (MoM) |  | 0.2% | -0.8% |
-| 06:00 | JPY | Low | Leading Index | 111.2 | 111.1 | 110.9 |
+| 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
+| 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
+| 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
-| 53 min | NOK | Low | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
-| 07:45 | EUR | Low | French Consumer Confidence (Jul) |  | 90 | 89 |
-| 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
-| 08:00 | EUR | Low | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
+| 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | -5.1% |  | 3.2% |
+| 37 min | EUR | Low | French Consumer Confidence (Jul) |  | 90 | 89 |
+| 52 min | EUR | Low | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
+| 52 min | EUR | Low | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
 | 09:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Jul) |  | 87.0 | 86.8 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
@@ -44,8 +44,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 68.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -50.93B |
+| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 477 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs |  |  | 131.81K |
