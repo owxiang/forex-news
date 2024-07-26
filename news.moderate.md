@@ -1,25 +1,3 @@
-## 26 July 2024 - Moderate Impact Forex News
+## 27 July 2024 - Moderate Impact Forex News
 
-| Time (GMT) | Currency | Event | Actual | Forecast | Previous |
-|------|----------|-------|--------|----------|----------|
-| 00:30 | JPY | Tokyo Core CPI (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
-| 13:30 | USD | PCE Price index (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
-| 13:30 | USD | PCE price index (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
-| 13:30 | USD | Personal Spending (MoM) (Jun) | 0.3% | 0.3% | 0.4% |
-| 13:30 | CAD | Wholesale Sales (MoM) | -0.6% |  | -0.8% |
-| 15:00 | USD | Michigan 1-Year Inflation Expectations (Jul) | 2.9% | 2.9% | 3.0% |
-| 15:00 | USD | Michigan 5-Year Inflation Expectations (Jul) | 3.0% | 2.9% | 3.0% |
-| 15:00 | USD | Michigan Consumer Expectations (Jul) | 68.8 | 67.2 | 69.6 |
-| 15:00 | USD | Michigan Consumer Sentiment (Jul) | 66.4 | 66.0 | 68.2 |
-| 15:30 | USD | Atlanta Fed GDPNow (Q3) | 2.8% |  |  |
-| 18:00 | USD | U.S. Baker Hughes Oil Rig Count | 482 |  | 477 |
-| 18:00 | USD | U.S. Baker Hughes Total Rig Count | 589 |  | 586 |
-| 20:30 | GBP | CFTC GBP speculative net positions | 142.2K |  | 84.7K |
-| 20:30 | USD | CFTC Crude Oil speculative net positions | 276.0K |  | 287.6K |
-| 20:30 | USD | CFTC Gold speculative net positions | 273.1K |  | 254.8K |
-| 20:30 | USD | CFTC Nasdaq 100 speculative net positions | -0.6K |  | 5.2K |
-| 20:30 | USD | CFTC S&P 500 speculative net positions | -13.2K |  | -55.0K |
-| 20:30 | AUD | CFTC AUD speculative net positions | -8.8K |  | 2.4K |
-| 20:30 | BRL | CFTC BRL speculative net positions | -42.0K |  | -42.7K |
-| 20:30 | JPY | CFTC JPY speculative net positions | -107.1K |  | -182.0K |
-| 20:30 | EUR | CFTC EUR speculative net positions | 35.9K |  | 3.6K |
+There is no moderate impact news today.
