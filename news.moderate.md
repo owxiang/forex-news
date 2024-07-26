@@ -2,7 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 24 min | JPY | Tokyo Core CPI (YoY) (Jul) |  | 2.2% | 2.1% |
+| 00:30 | JPY | Tokyo Core CPI (YoY) (Jul) | 2.2% | 2.2% | 2.1% |
 | 13:30 | USD | PCE Price index (YoY) (Jun) |  | 2.4% | 2.6% |
 | 13:30 | USD | PCE price index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 13:30 | USD | Personal Spending (MoM) (Jun) |  | 0.3% | 0.2% |
