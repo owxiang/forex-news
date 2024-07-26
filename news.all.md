@@ -25,7 +25,7 @@
 | 12:30 | INR | Low | FX Reserves, USD | 670.86B |  | 666.85B |
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) | 1.2% |  | 0.7% |
 | 13:00 | MXN | Low | Trade Balance (Jun) | -1.037B | 1.000B | 1.991B |
-| 13:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.944B |  | 0.971B |
+| 13:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.944B |  | 0.753B |
 | 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) | 2.6% | 2.5% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) | 0.2% | 0.2% | 0.1% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
@@ -39,9 +39,9 @@
 | 15:00 | USD | Moderate | Michigan Consumer Expectations (Jul) | 68.8 | 67.2 | 69.6 |
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 66.4 | 66.0 | 68.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) | 62.7 | 64.1 | 65.9 |
-| 25 min | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 55 min | CAD | Low | Budget Balance (YoY) (May) |  |  | -50.93B |
-| 55 min | CAD | Low | Budget Balance (May) |  |  | -33.59B |
+| 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.8% |  |  |
+| 16:00 | CAD | Low | Budget Balance (YoY) (May) | -3.89B |  | -50.93B |
+| 16:00 | CAD | Low | Budget Balance (May) | 1.10B |  | -33.59B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 477 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs |  |  | 131.81K |

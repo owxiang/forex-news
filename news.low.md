@@ -24,12 +24,12 @@
 | 12:30 | INR | FX Reserves, USD | 670.86B |  | 666.85B |
 | 12:30 | BRL | Bank lending (MoM) (Jun) | 1.2% |  | 0.7% |
 | 13:00 | MXN | Trade Balance (Jun) | -1.037B | 1.000B | 1.991B |
-| 13:00 | MXN | Trade Balance (USD) (Jun) | -1.944B |  | 0.971B |
+| 13:00 | MXN | Trade Balance (USD) (Jun) | -1.944B |  | 0.753B |
 | 13:30 | USD | Personal Income (MoM) (Jun) | 0.2% | 0.4% | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.2% |  | 0.4% |
 | 15:00 | USD | Michigan Current Conditions (Jul) | 62.7 | 64.1 | 65.9 |
-| 55 min | CAD | Budget Balance (YoY) (May) |  |  | -50.93B |
-| 55 min | CAD | Budget Balance (May) |  |  | -33.59B |
+| 16:00 | CAD | Budget Balance (YoY) (May) | -3.89B |  | -50.93B |
+| 16:00 | CAD | Budget Balance (May) | 1.10B |  | -33.59B |
 | 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
