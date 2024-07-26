@@ -10,15 +10,15 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
 | 06:00 | JPY | Leading Index (May) | 111.2 | 111.1 | 110.9 |
 | 06:00 | JPY | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
-| 06:00 | SGD | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
-| 07:00 | NOK | Core Retail Sales (MoM) (Jun) | -5.1% |  | 3.2% |
-| 37 min | EUR | French Consumer Confidence (Jul) |  | 90 | 89 |
-| 52 min | EUR | Spanish Retail Sales (YoY) (Jun) |  |  | 0.2% |
-| 52 min | EUR | Spanish Unemployment Rate (Q2) |  | 11.40% | 12.29% |
-| 09:00 | GBP | BoE Quarterly Bulletin |  |  |  |
-| 09:00 | EUR | Italian Business Confidence (Jul) |  | 87.0 | 86.8 |
-| 09:00 | EUR | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
+| 06:00 | SGD | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
+| 07:00 | NOK | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
+| 07:45 | EUR | French Consumer Confidence (Jul) | 91 | 90 | 90 |
+| 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) | 0.3% |  | 0.2% |
+| 08:00 | EUR | Spanish Unemployment Rate (Q2) | 11.27% | 11.40% | 12.29% |
+| 54 min | GBP | BoE Quarterly Bulletin |  |  |  |
+| 54 min | EUR | Italian Business Confidence (Jul) |  | 87.0 | 86.8 |
+| 54 min | EUR | Italian Consumer Confidence (Jul) |  | 98.0 | 98.3 |
 | 11:00 | GBP | CBI Distributive Trades Survey |  |  | -24 |
 | 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
 | 12:30 | INR | Bank Loan Growth |  |  | 17.4% |
