@@ -10,8 +10,8 @@
 | 06:00 | JPY | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
 | 06:00 | JPY | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | JPY | Leading Index (May) | 111.2 | 111.1 | 110.9 |
-| 06:00 | SGD | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
 | 06:00 | SGD | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
+| 06:00 | SGD | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
 | 07:45 | EUR | French Consumer Confidence (Jul) | 91 | 90 | 90 |
 | 08:00 | EUR | Spanish Retail Sales (YoY) (Jun) | 0.3% |  | 0.2% |
@@ -28,9 +28,9 @@
 | 13:30 | USD | Personal Income (MoM) (Jun) | 0.2% | 0.4% | 0.4% |
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) | 0.2% |  | 0.4% |
 | 15:00 | USD | Michigan Current Conditions (Jul) | 62.7 | 64.1 | 65.9 |
-| 16:00 | CAD | Budget Balance (YoY) (May) | -3.89B |  | -50.93B |
 | 16:00 | CAD | Budget Balance (May) | 1.10B |  | -33.59B |
-| 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
+| 16:00 | CAD | Budget Balance (YoY) (May) | -3.89B |  | -50.93B |
+| 54 min | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
 | 20:30 | USD | CFTC Corn speculative net positions |  |  | -238.8K |
