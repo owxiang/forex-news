@@ -19,19 +19,19 @@
 | 09:00 | GBP | BoE Quarterly Bulletin |  |  |  |
 | 09:00 | EUR | Italian Business Confidence (Jul) | 87.6 | 87.0 | 86.9 |
 | 09:00 | EUR | Italian Consumer Confidence (Jul) | 98.9 | 98.0 | 98.3 |
-| 25 min | INR | Bank Loan Growth |  |  | 17.4% |
-| 25 min | INR | Deposit Growth |  |  | 11.1% |
-| 25 min | INR | FX Reserves, USD |  |  | 666.85B |
-| 25 min | BRL | Bank lending (MoM) (Jun) |  |  | 0.7% |
-| 25 min | BRL | Federal Tax Revenue |  |  | 202.90B |
-| 55 min | MXN | Trade Balance (Jun) |  | 1.000B | 1.991B |
-| 55 min | MXN | Trade Balance (USD) (Jun) |  |  | 0.971B |
-| 13:30 | USD | Personal Income (MoM) (Jun) |  | 0.4% | 0.5% |
-| 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
-| 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
+| 12:30 | INR | Bank Loan Growth | 14.0% |  | 17.4% |
+| 12:30 | INR | Deposit Growth | 11.3% |  | 11.1% |
+| 12:30 | INR | FX Reserves, USD | 670.86B |  | 666.85B |
+| 12:30 | BRL | Bank lending (MoM) (Jun) | 1.2% |  | 0.7% |
+| 13:00 | MXN | Trade Balance (Jun) | -1.037B | 1.000B | 1.991B |
+| 13:00 | MXN | Trade Balance (USD) (Jun) | -1.944B |  | 0.971B |
+| 22 min | USD | Personal Income (MoM) (Jun) |  | 0.4% | 0.5% |
+| 22 min | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
+| 52 min | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
-| 16:00 | CAD | Budget Balance (Apr) |  |  | -33.59B |
-| 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -50.93B |
+| 15:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
+| 16:00 | CAD | Budget Balance (May) |  |  | -33.59B |
+| 16:00 | CAD | Budget Balance (YoY) (May) |  |  | -50.93B |
 | 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
