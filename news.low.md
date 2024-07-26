@@ -1,4 +1,4 @@
-## 26 July 2024 - Low Impact Forex News
+## None - Low Impact Forex News
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
@@ -6,11 +6,11 @@
 | 00:30 | JPY | Tokyo CPI (YoY) (Jul) | 2.2% | 2.3% | 2.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
-| 28 min | JPY | 2-Year JGB Auction |  |  | 0.378% |
-| 53 min | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 04:35 | JPY | 2-Year JGB Auction | 0.409% |  | 0.378% |
+| 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 06:00 | JPY | Coincident Indicator (MoM) |  | 1.3% | 1.0% |
-| 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
 | 06:00 | JPY | Leading Index (MoM) |  | 0.2% | -0.8% |
+| 06:00 | JPY | Leading Index |  | 111.1 | 110.9 |
 | 06:00 | SGD | Industrial Production (MoM) (Jun) |  | -0.5% | 1.1% |
 | 06:00 | SGD | Industrial Production (YoY) (Jun) |  | 0.0% | 2.9% |
 | 07:00 | NOK | Core Retail Sales (MoM) (Jun) |  |  | 3.2% |
@@ -33,8 +33,8 @@
 | 13:30 | USD | Real Personal Consumption (MoM) (Jun) |  |  | 0.3% |
 | 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
 | 15:00 | USD | Michigan Current Conditions (Jul) |  | 64.1 | 64.1 |
-| 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -50.93B |
 | 16:00 | CAD | Budget Balance (Apr) |  |  | -33.59B |
+| 16:00 | CAD | Budget Balance (YoY) (Apr) |  |  | -50.93B |
 | 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
 | 20:30 | USD | CFTC Aluminium speculative net positions |  |  | 2.2K |
 | 20:30 | USD | CFTC Copper speculative net positions |  |  | 56.0K |
