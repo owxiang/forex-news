@@ -11,8 +11,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
+| 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) | 91 | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 0.3% |  | 0.2% |
@@ -20,8 +20,6 @@
 | 09:00 | GBP | Low | BoE Quarterly Bulletin |  |  |  |
 | 09:00 | EUR | Low | Italian Business Confidence (Jul) | 87.6 | 87.0 | 86.9 |
 | 09:00 | EUR | Low | Italian Consumer Confidence (Jul) | 98.9 | 98.0 | 98.3 |
-| 55 min | GBP | Low | CBI Distributive Trades Survey |  |  | -24 |
-| 55 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 12:30 | INR | Low | Bank Loan Growth |  |  | 17.4% |
 | 12:30 | INR | Low | Deposit Growth |  |  | 11.1% |
 | 12:30 | INR | Low | FX Reserves, USD |  |  | 666.85B |
@@ -29,8 +27,8 @@
 | 12:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
 | 13:00 | MXN | Low | Trade Balance (Jun) |  | 1.000B | 1.991B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jun) |  |  | 0.971B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 2.5% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) |  | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) |  | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) |  | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jun) |  | 0.1% | 0.0% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jun) |  | 0.4% | 0.5% |
@@ -44,8 +42,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) |  | 66.0 | 68.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) |  | 64.1 | 65.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) |  |  |  |
-| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (Apr) |  |  | -50.93B |
+| 16:00 | CAD | Low | Budget Balance (Apr) |  |  | -33.59B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count |  |  | 477 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count |  |  | 586 |
 | 18:00 | BRL | Low | CAGED Net Payroll Jobs |  |  | 131.81K |
