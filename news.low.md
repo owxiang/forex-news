@@ -6,7 +6,7 @@
 | 00:30 | JPY | Tokyo CPI (YoY) (Jul) | 2.2% | 2.3% | 2.3% |
 | 00:30 | JPY | CPI Tokyo Ex Food and Energy (MoM) (Jul) | 0.2% |  | 0.0% |
 | 01:30 | SGD | URA Property Index (QoQ) (Q2) | 0.90% | 1.10% | 1.40% |
-| 58 min | SGD | Unemployment Rate |  |  | 2.1% |
+| 11 min | SGD | Unemployment Rate |  |  | 2.1% |
 | 04:35 | JPY | 2-Year JGB Auction |  |  | 0.378% |
 | 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 06:00 | JPY | Coincident Indicator (MoM) |  | 1.3% | 1.0% |
