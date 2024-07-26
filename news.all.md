@@ -11,8 +11,8 @@
 | 06:00 | JPY | Low | Coincident Indicator (MoM) (May) | 1.9% | 1.3% | 1.0% |
 | 06:00 | JPY | Low | Leading Index (MoM) (May) | 0.3% | 0.2% | -0.8% |
 | 06:00 | JPY | Low | Leading Index (May) | 111.2 | 111.1 | 110.9 |
-| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
 | 06:00 | SGD | Low | Industrial Production (MoM) (Jun) | -3.8% | -0.5% | 0.5% |
+| 06:00 | SGD | Low | Industrial Production (YoY) (Jun) | -3.9% | 0.0% | 2.3% |
 | 07:00 | NOK | Low | Core Retail Sales (MoM) (Jun) | -5.1% |  | 4.7% |
 | 07:45 | EUR | Low | French Consumer Confidence (Jul) | 91 | 90 | 90 |
 | 08:00 | EUR | Low | Spanish Retail Sales (YoY) (Jun) | 0.3% |  | 0.2% |
@@ -26,8 +26,8 @@
 | 12:30 | BRL | Low | Bank lending (MoM) (Jun) | 1.2% |  | 0.7% |
 | 13:00 | MXN | Low | Trade Balance (Jun) | -1.037B | 1.000B | 1.991B |
 | 13:00 | MXN | Low | Trade Balance (USD) (Jun) | -1.944B |  | 0.753B |
-| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) | 2.6% | 2.5% | 2.6% |
 | 13:30 | USD | High | Core PCE Price Index (MoM) (Jun) | 0.2% | 0.2% | 0.1% |
+| 13:30 | USD | High | Core PCE Price Index (YoY) (Jun) | 2.6% | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | PCE Price index (YoY) (Jun) | 2.5% | 2.5% | 2.6% |
 | 13:30 | USD | Moderate | PCE price index (MoM) (Jun) | 0.1% | 0.1% | 0.0% |
 | 13:30 | USD | Low | Personal Income (MoM) (Jun) | 0.2% | 0.4% | 0.4% |
@@ -41,8 +41,8 @@
 | 15:00 | USD | Moderate | Michigan Consumer Sentiment (Jul) | 66.4 | 66.0 | 68.2 |
 | 15:00 | USD | Low | Michigan Current Conditions (Jul) | 62.7 | 64.1 | 65.9 |
 | 15:30 | USD | Moderate | Atlanta Fed GDPNow (Q3) | 2.8% |  |  |
-| 16:00 | CAD | Low | Budget Balance (May) | 1.10B |  | -33.59B |
 | 16:00 | CAD | Low | Budget Balance (YoY) (May) | -3.89B |  | -50.93B |
+| 16:00 | CAD | Low | Budget Balance (May) | 1.10B |  | -33.59B |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Oil Rig Count | 482 |  | 477 |
 | 18:00 | USD | Moderate | U.S. Baker Hughes Total Rig Count | 589 |  | 586 |
 | 20:30 | GBP | Moderate | CFTC GBP speculative net positions | 142.2K |  | 84.7K |
