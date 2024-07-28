@@ -4,8 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 04:00 | IDR | Low | Foreign Direct Investment (YoY) (Q2) |  |  | 15.50% |
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) |  |  | 15.50% |
-| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:00 | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
+| 07:00 | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) |  |  | 4.72% |
 | 07:00 | ZAR | Low | Private Sector Credit (Jun) |  |  | 4.25% |
 | 07:30 | CHF | Low | Retail Sales (YoY) |  |  | 0.4% |
