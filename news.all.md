@@ -3,11 +3,9 @@
 | Time (GMT) | Currency | Importance | Event | Actual | Forecast | Previous |
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) | 16.60% |  | 15.50% |
-| 53 min | EUR | Low | German Retail Sales (YoY) (May) |  |  | -0.6% |
-| 53 min | EUR | Moderate | German Retail Sales (MoM) (May) |  | 0.0% | -1.2% |
-| 53 min | ZAR | Low | M3 Money Supply (YoY) (Jun) |  |  | 4.72% |
-| 53 min | ZAR | Low | Private Sector Credit (Jun) |  |  | 4.25% |
-| 07:30 | CHF | Low | Retail Sales (YoY) |  |  | 0.4% |
+| 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 4.19% |  | 4.72% |
+| 07:00 | ZAR | Low | Private Sector Credit (Jun) | 4.27% |  | 4.25% |
+| 22 min | CHF | Low | Retail Sales (YoY) |  |  | 0.4% |
 | 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.77B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Jun) |  |  | 1.513B |
 | 09:30 | GBP | Low | M3 Money Supply (Jun) |  |  | 3,040.6B |
