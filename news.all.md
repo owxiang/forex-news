@@ -18,9 +18,9 @@
 | 12:30 | BRL | Low | Budget Balance (Jun) | -135.724B | -102.300B | -138.256B |
 | 12:30 | BRL | Low | Budget Surplus (Jun) | -40.873B |  | -63.895B |
 | 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) | 77.8% |  | 76.8% |
-| 51 min | EUR | Low | French 12-Month BTF Auction |  |  | 3.341% |
-| 51 min | EUR | Low | French 3-Month BTF Auction |  |  | 3.576% |
-| 51 min | EUR | Low | French 6-Month BTF Auction |  |  | 3.540% |
+| 14:00 | EUR | Low | French 12-Month BTF Auction | 3.252% |  | 3.341% |
+| 14:00 | EUR | Low | French 3-Month BTF Auction | 3.610% |  | 3.576% |
+| 14:00 | EUR | Low | French 6-Month BTF Auction | 3.456% |  | 3.540% |
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) |  |  | -15.1 |
 | 15:30 | BRL | Low | Federal Tax Revenue |  |  | 202.90B |
 | 16:30 | USD | Low | 3-Month Bill Auction |  |  | 5.190% |

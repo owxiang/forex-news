@@ -17,9 +17,9 @@
 | 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 62.2% |  | 62.2% |
 | 12:30 | BRL | Budget Balance (Jun) | -135.724B | -102.300B | -138.256B |
 | 12:30 | BRL | Budget Surplus (Jun) | -40.873B |  | -63.895B |
-| 51 min | EUR | French 12-Month BTF Auction |  |  | 3.341% |
-| 51 min | EUR | French 3-Month BTF Auction |  |  | 3.576% |
-| 51 min | EUR | French 6-Month BTF Auction |  |  | 3.540% |
+| 14:00 | EUR | French 12-Month BTF Auction | 3.252% |  | 3.341% |
+| 14:00 | EUR | French 3-Month BTF Auction | 3.610% |  | 3.576% |
+| 14:00 | EUR | French 6-Month BTF Auction | 3.456% |  | 3.540% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jul) |  |  | -15.1 |
 | 15:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.190% |
