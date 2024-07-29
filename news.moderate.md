@@ -2,4 +2,4 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 12:30 | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.8% |
+| 25 min | BRL | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.8% |

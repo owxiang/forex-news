@@ -13,13 +13,12 @@
 | 09:30 | GBP | Low | Mortgage Lending (Jun) | 2.65B |  | 1.26B |
 | 09:30 | GBP | Low | Net Lending to Individuals | 3.816B | 2.200B | 2.800B |
 | 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -43 | -20 | -24 |
-| 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
-| 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
-| 12:30 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  |  | 0.81% |
-| 12:30 | BRL | Low | Budget Balance (Jun) |  |  | -138.256B |
-| 12:30 | BRL | Low | Budget Surplus (Jun) |  |  | -63.895B |
-| 12:30 | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.8% |
+| 20 min | BRL | Low | BCB Focus Market Readout |  |  |  |
+| 25 min | BRL | Low | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
+| 25 min | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
+| 25 min | BRL | Low | Budget Balance (Jun) |  | -102.300B | -138.256B |
+| 25 min | BRL | Low | Budget Surplus (Jun) |  |  | -63.895B |
+| 25 min | BRL | Moderate | Gross Debt-to-GDP ratio (MoM) (Jun) |  |  | 76.8% |
 | 14:00 | USD | Low | Dallas Fed PCE (Jun) |  |  | 1.40% |
 | 14:00 | EUR | Low | French 12-Month BTF Auction |  |  | 3.341% |
 | 14:00 | EUR | Low | French 3-Month BTF Auction |  |  | 3.576% |

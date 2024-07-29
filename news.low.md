@@ -13,12 +13,11 @@
 | 09:30 | GBP | Mortgage Lending (Jun) | 2.65B |  | 1.26B |
 | 09:30 | GBP | Net Lending to Individuals | 3.816B | 2.200B | 2.800B |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jul) | -43 | -20 | -24 |
-| 11:00 | CNY | FDI (Jun) |  |  | -28.20% |
-| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
-| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
-| 12:30 | BRL | IGP-M Inflation Index (MoM) (Jul) |  |  | 0.81% |
-| 12:30 | BRL | Budget Balance (Jun) |  |  | -138.256B |
-| 12:30 | BRL | Budget Surplus (Jun) |  |  | -63.895B |
+| 20 min | BRL | BCB Focus Market Readout |  |  |  |
+| 25 min | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
+| 25 min | BRL | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
+| 25 min | BRL | Budget Balance (Jun) |  | -102.300B | -138.256B |
+| 25 min | BRL | Budget Surplus (Jun) |  |  | -63.895B |
 | 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
 | 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.341% |
 | 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.576% |
