@@ -2,8 +2,7 @@
 
 | Time (GMT) | Currency | Event | Actual | Forecast | Previous |
 |------|----------|-------|--------|----------|----------|
-| 39 min | IDR | Foreign Direct Investment (YoY) (Q2) |  |  | 15.50% |
-| 05:00 | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
+| 54 min | IDR | Foreign Direct Investment (YoY) |  |  | 15.50% |
 | 07:00 | EUR | German Retail Sales (YoY) (May) |  |  | -0.6% |
 | 07:00 | ZAR | M3 Money Supply (YoY) (Jun) |  |  | 4.72% |
 | 07:00 | ZAR | Private Sector Credit (Jun) |  |  | 4.25% |
