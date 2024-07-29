@@ -13,18 +13,15 @@
 | 09:30 | GBP | Mortgage Lending (Jun) | 2.65B |  | 1.26B |
 | 09:30 | GBP | Net Lending to Individuals | 3.816B | 2.200B | 2.800B |
 | 11:00 | GBP | CBI Distributive Trades Survey (Jul) | -43 | -20 | -24 |
-| 20 min | BRL | BCB Focus Market Readout |  |  |  |
-| 25 min | BRL | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
-| 25 min | BRL | IGP-M Inflation Index (MoM) (Jul) |  | 0.47% | 0.81% |
-| 25 min | BRL | Budget Balance (Jun) |  | -102.300B | -138.256B |
-| 25 min | BRL | Budget Surplus (Jun) |  |  | -63.895B |
-| 14:00 | USD | Dallas Fed PCE (Jun) |  |  | 1.40% |
-| 14:00 | EUR | French 12-Month BTF Auction |  |  | 3.341% |
-| 14:00 | EUR | French 3-Month BTF Auction |  |  | 3.576% |
-| 14:00 | EUR | French 6-Month BTF Auction |  |  | 3.540% |
+| 12:25 | BRL | BCB Focus Market Readout |  |  |  |
+| 12:30 | BRL | Net Debt-to-GDP ratio (Jun) | 62.2% |  | 62.2% |
+| 12:30 | BRL | Budget Balance (Jun) | -135.724B | -102.300B | -138.256B |
+| 12:30 | BRL | Budget Surplus (Jun) | -40.873B |  | -63.895B |
+| 51 min | EUR | French 12-Month BTF Auction |  |  | 3.341% |
+| 51 min | EUR | French 3-Month BTF Auction |  |  | 3.576% |
+| 51 min | EUR | French 6-Month BTF Auction |  |  | 3.540% |
 | 15:30 | USD | Dallas Fed Mfg Business Index (Jul) |  |  | -15.1 |
 | 15:30 | BRL | Federal Tax Revenue |  |  | 202.90B |
 | 16:30 | USD | 3-Month Bill Auction |  |  | 5.190% |
 | 16:30 | USD | 6-Month Bill Auction |  |  | 4.990% |
-| 18:00 | BRL | CAGED Net Payroll Jobs |  |  | 131.81K |
 | 19:00 | MXN | Fiscal Balance (Jun) |  |  | -174.07B |
