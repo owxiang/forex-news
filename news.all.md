@@ -4,9 +4,8 @@
 |------|----------|------------|-------|--------|----------|----------|
 | 05:00 | IDR | Low | Foreign Direct Investment (YoY) | 16.60% |  | 15.50% |
 | 07:00 | ZAR | Low | M3 Money Supply (YoY) (Jun) | 4.19% |  | 4.72% |
-| 07:00 | ZAR | Low | Private Sector Credit (Jun) | 4.27% |  | 4.25% |
-| 22 min | CHF | Low | Retail Sales (YoY) |  |  | 0.4% |
-| 09:00 | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.77B |
+| 07:00 | ZAR | Low | Private Sector Credit (Jun) | 4.27% |  | 3.89% |
+| 54 min | EUR | Low | Italian Trade Balance Non-EU (Jun) |  |  | 5.77B |
 | 09:30 | GBP | Low | BoE Consumer Credit (Jun) |  |  | 1.513B |
 | 09:30 | GBP | Low | M3 Money Supply (Jun) |  |  | 3,040.6B |
 | 09:30 | GBP | Low | M4 Money Supply (MoM) (Jun) |  | 0.2% | -0.1% |
