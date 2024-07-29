@@ -24,4 +24,4 @@
 | 15:30 | USD | Low | Dallas Fed Mfg Business Index (Jul) | -17.5 |  | -15.1 |
 | 16:30 | USD | Low | 3-Month Bill Auction | 5.145% |  | 5.190% |
 | 16:30 | USD | Low | 6-Month Bill Auction | 4.930% |  | 4.990% |
-| 19:00 | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
+| 54 min | MXN | Low | Fiscal Balance (Jun) |  |  | -174.07B |
