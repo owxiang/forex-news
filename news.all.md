@@ -12,8 +12,8 @@
 | 09:30 | GBP | Low | Mortgage Approvals (Jun) | 59.98K | 60.00K | 60.13K |
 | 09:30 | GBP | Low | Mortgage Lending (Jun) | 2.65B |  | 1.26B |
 | 09:30 | GBP | Low | Net Lending to Individuals | 3.816B | 2.200B | 2.800B |
-| 54 min | GBP | Low | CBI Distributive Trades Survey (Jul) |  | -20 | -24 |
-| 54 min | CNY | Low | FDI (Jun) |  |  | -28.20% |
+| 11:00 | GBP | Low | CBI Distributive Trades Survey (Jul) | -43 | -20 | -24 |
+| 11:00 | CNY | Low | FDI (Jun) |  |  | -28.20% |
 | 12:25 | BRL | Low | BCB Focus Market Readout |  |  |  |
 | 12:30 | BRL | Low | Net Debt-to-GDP ratio (Jun) |  |  | 62.2% |
 | 12:30 | BRL | Low | IGP-M Inflation Index (MoM) (Jul) |  |  | 0.81% |
